@@ -1,3 +1,15 @@
+diff --git a/domains/plain-language/parse-cache/parse-cache.module.test.ts b/domains/plain-language/parse-cache/parse-cache.module.test.ts
+index 42c2e5e3aa6cf582256077ab4d9d1e65455c7184..8dba21347818031d660d76cde2d370f700617971 100644
+--- a/domains/plain-language/parse-cache/parse-cache.module.test.ts
++++ b/domains/plain-language/parse-cache/parse-cache.module.test.ts
+@@ -32,6 +32,7 @@ function parseOf(text: string): ParsedSentence[] {
+           deprel: "root",
+           start: 0,
+           end: text.length,
++          confidence: { upos: 1, head: 1, deprel: 1 },
+         },
+       ],
+     },
 diff --git a/domains/sentence-shapes/closing-count/closing-count.sentence-shape.test.ts b/domains/sentence-shapes/closing-count/closing-count.sentence-shape.test.ts
 index 66541f2f8904be4d7ba6ed6711700b6f0d48ce5d..05a79dbd4e7a36efe9c55433377e9e2298decb72 100644
 --- a/domains/sentence-shapes/closing-count/closing-count.sentence-shape.test.ts
