@@ -6,7 +6,12 @@ import {
   refusing,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { type World, worldOver } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  addedTo,
+  isLedger,
+  type World,
+  worldOver,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { renamePage } from "../../file/rename-page/rename-page.change-checked.code.ts"
 import { moveFolder } from "../move-folder/move-folder.change-checked.code.ts"
 
@@ -38,7 +43,8 @@ export async function moveFolderPackage(
   if (carried.refused !== null) return carried
   const named = basename(given.to)
   if (named === parted.slug) return carried
-  const said = await renamePage(worldOver(world, carried), {
+  const over = isLedger(world) ? addedTo(world, carried) : worldOver(world, carried)
+  const said = await renamePage(over, {
     at: landingFor(given.at, from, given.to),
     to: named,
   })
