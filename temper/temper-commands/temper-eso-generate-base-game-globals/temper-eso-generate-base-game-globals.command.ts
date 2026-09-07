@@ -56,8 +56,11 @@ export const temperEsoGenerateBaseGameGlobals = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing lands here; the writing call that lands the staged bodies is named instead.",
+      statement: "Nothing lands here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The writing call that lands the staged bodies is named instead.",
     },
     {
       invariantKind: "absence",
