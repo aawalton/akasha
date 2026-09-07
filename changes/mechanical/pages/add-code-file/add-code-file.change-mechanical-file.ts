@@ -4,6 +4,7 @@ export const addCodeFile = {
   id: "01a07969-9123-7320-b8c9-3afd2dae9bfa",
   pageTypeSlug: "change-mechanical-file",
   slug: "add-code-file",
+  changeModeSlug: "change-mode-add",
   definition: "one code body written at one path, with the imports that body names judged",
   code: "ts",
   test: "ts",
