@@ -20,7 +20,7 @@ import { reach, type World } from "../../../modules/change-shadow/change-shadow.
 
 export const LINE = "--line"
 
-const RENAME_EXPORT = "change-mechanical-code/rename-export"
+const RENAME_EXPORT = "change-mechanical-file-content/rename-export"
 
 const RENAME_LOCAL_VARIABLE = "change-mechanical-code/rename-local-variable"
 

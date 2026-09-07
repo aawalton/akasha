@@ -7,7 +7,7 @@ export const changeMechanicalFileContentRename = {
   definition: "a mechanical change spelling a name anew in what a file holds",
   partSlugs: [
     "change-mechanical-file-content/change-imports",
-    "change-mechanical-code/rename-export",
+    "change-mechanical-file-content/rename-export",
     "change-mechanical-code/rename-local-variable",
     "change-mechanical-data/rename-page-address",
     "change-mechanical-data/rename-page-slug",

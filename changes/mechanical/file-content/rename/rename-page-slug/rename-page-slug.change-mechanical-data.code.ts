@@ -24,7 +24,7 @@ import {
 
 const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-property"
 
-const RENAME_EXPORT = "change-mechanical-code/rename-export"
+const RENAME_EXPORT = "change-mechanical-file-content/rename-export"
 
 const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
 

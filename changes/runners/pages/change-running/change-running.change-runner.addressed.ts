@@ -50,9 +50,6 @@ export type Changes = {
   "change-checked/rename-page": Parameters<
     typeof import("../../../agent/file/rename-page/rename-page.change-checked.code.ts")["runChange"]
   >[1]
-  "change-mechanical-code/rename-export": Parameters<
-    typeof import("../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-code.code.ts")["runChange"]
-  >[1]
   "change-mechanical-code/rename-local-variable": Parameters<
     typeof import("../../../mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-code.code.ts")["runChange"]
   >[1]
@@ -85,6 +82,9 @@ export type Changes = {
   >[1]
   "change-mechanical-file-content/change-page-property": Parameters<
     typeof import("../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts")["runChange"]
+  >[1]
+  "change-mechanical-file-content/rename-export": Parameters<
+    typeof import("../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/add-file": Parameters<
     typeof import("../../../mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts")["runChange"]

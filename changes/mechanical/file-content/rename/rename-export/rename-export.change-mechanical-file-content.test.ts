@@ -10,7 +10,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { renameExport } from "./rename-export.change-mechanical-code.code.ts"
+import { renameExport } from "./rename-export.change-mechanical-file-content.code.ts"
 
 afterAll(scratch.sweep)
 

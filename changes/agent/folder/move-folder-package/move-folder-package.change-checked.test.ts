@@ -9,7 +9,7 @@ import {
 } from "@akasha/indexes/indexing/testing"
 import { runChange as renamePathChange } from "../../../mechanical/file/rename/rename-path/rename-path.change-mechanical-file.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-code.code.ts"
+import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { runChange as renamePageSlug } from "../../../mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
@@ -82,7 +82,7 @@ const REACHED = {
   "change-checked/move-folder": moveFolderChange,
   "change-checked/rename-page": renamePageChange,
   "change-mechanical-file-content/change-imports": changeImports,
-  "change-mechanical-code/rename-export": renameExport,
+  "change-mechanical-file-content/rename-export": renameExport,
   "change-mechanical-data/rename-page-slug": renamePageSlug,
   "change-mechanical-file/rename-path": renamePathChange,
 } as const
