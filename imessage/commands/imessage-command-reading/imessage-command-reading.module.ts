@@ -35,8 +35,11 @@ export const imessageCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Text is said at its flag or read from a file, and saying it both ways is refused.",
+      statement: "Text is said at its flag or read from a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Text said both ways is refused.",
     },
     {
       invariantKind: "departure",
