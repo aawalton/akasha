@@ -7,6 +7,7 @@ export const changeAnswer = {
   definition: "the edits a change answers rather than writes",
   code: "ts",
   types: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
