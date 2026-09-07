@@ -1,6 +1,6 @@
 "use client"
 
-import { decideOpenUrlRoute } from "@akasha/person-system/push-routing"
+import { decideOpenUrlRoute } from "@akasha/persons/push-routing"
 import { widgetTapped } from "@akasha/readout-system/widget-tap-link"
 import { useEffect, useRef } from "react"
 import { useNavigate } from "react-router"

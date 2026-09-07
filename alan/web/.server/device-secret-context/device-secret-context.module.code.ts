@@ -3,7 +3,7 @@ import {
   deviceSecretPresented,
   mintDeviceSecret as mintOverTheStore,
   revokeDeviceSecret as revokeOverTheStore,
-} from "@akasha/person-system/device-secret-keeping"
+} from "@akasha/persons/device-secret-keeping"
 
 export type DeviceSecretContext =
   | { readonly authenticated: true; readonly userId: string }

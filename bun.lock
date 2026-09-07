@@ -281,8 +281,8 @@
         "@akasha/pages-ui-components": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
-        "@akasha/person-system": "workspace:*",
         "@akasha/personas-core": "workspace:*",
+        "@akasha/persons": "workspace:*",
         "@akasha/reading": "workspace:*",
         "@akasha/sms-access": "workspace:*",
         "@akasha/sms-core": "workspace:*",
@@ -1335,7 +1335,7 @@
       "name": "@akasha/pages-url",
     },
     "person-system": {
-      "name": "@akasha/person-system",
+      "name": "@akasha/persons",
       "dependencies": {
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/pages-service": "workspace:*",
@@ -1452,7 +1452,7 @@
         "@akasha/id-minting": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/pages-access": "workspace:*",
-        "@akasha/person-system": "workspace:*",
+        "@akasha/persons": "workspace:*",
         "@akasha/status-bar-access": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
@@ -3219,11 +3219,11 @@
 
     "@akasha/pages-url": ["@akasha/pages-url@workspace:pages/url"],
 
-    "@akasha/person-system": ["@akasha/person-system@workspace:person-system"],
-
     "@akasha/persona-system": ["@akasha/persona-system@workspace:personas"],
 
     "@akasha/personas-core": ["@akasha/personas-core@workspace:personas-core"],
+
+    "@akasha/persons": ["@akasha/persons@workspace:person-system"],
 
     "@akasha/plain-language": ["@akasha/plain-language@workspace:domains/plain-language"],
 

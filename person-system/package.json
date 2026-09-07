@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/person-system",
+  "name": "@akasha/persons",
   "private": true,
   "type": "module",
   "exports": {

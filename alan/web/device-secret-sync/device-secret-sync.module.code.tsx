@@ -5,7 +5,7 @@ import {
   mintDeviceSecretResponseSchema,
   mintDeviceSecretSchema,
   revokeDeviceSecretSchema,
-} from "@akasha/person-system/device-secret-body"
+} from "@akasha/persons/device-secret-body"
 import {
   decideMintAction,
   decideRecoveryAction,
@@ -14,7 +14,7 @@ import {
   type RouteRead,
   recoveryMarkRead,
   routeRead,
-} from "@akasha/person-system/device-secret-minting"
+} from "@akasha/persons/device-secret-minting"
 import { useContext, useEffect, useRef } from "react"
 import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
 import {

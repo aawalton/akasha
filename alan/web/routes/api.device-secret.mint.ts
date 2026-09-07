@@ -1,4 +1,4 @@
-import { mintDeviceSecretSchema } from "@akasha/person-system/device-secret-body"
+import { mintDeviceSecretSchema } from "@akasha/persons/device-secret-body"
 import { mintDeviceSecret } from "../.server/device-secret-context/device-secret-context.module.code.ts"
 import { resolveDeviceTokenContext } from "../.server/device-token-context/device-token-context.module.code.ts"
 import {

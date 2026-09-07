@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Phone } from "@akasha/person-system/phone"
+import type { Phone } from "@akasha/persons/phone"
 import type { RoleSlug } from "@akasha/seat-system/role-slug"
 import type { Appearance } from "./properties/appearance.file-property.ts"
 import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.relation-property.ts"

@@ -4,7 +4,7 @@ import type { Rule } from "@akasha/email-watch/email-rule-reading"
 import { rulesOf } from "@akasha/email-watch/email-rule-reading"
 import { forwardOf } from "@akasha/google-email/forwarded-message"
 import type { Mailbox, Message } from "@akasha/google-email/gmail-mailbox"
-import { personOr } from "@akasha/person-system/person-reading"
+import { personOr } from "@akasha/persons/person-reading"
 
 const STATE_DIR = `${process.env.HOME ?? "/nonexistent"}/.local/state/alan-email`
 const STATE_FILE = `${STATE_DIR}/state.json`

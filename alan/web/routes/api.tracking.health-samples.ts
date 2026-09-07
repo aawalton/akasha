@@ -1,6 +1,6 @@
 import type { HealthSample } from "@akasha/health-samples-access/sample-shape"
 import { upsertHealthSamples } from "@akasha/health-samples-access/sample-upsert"
-import { healthSamplesIngestSchema } from "@akasha/person-system/health-samples-body"
+import { healthSamplesIngestSchema } from "@akasha/persons/health-samples-body"
 import { resolveDeviceSecretContext } from "../.server/device-secret-context/device-secret-context.module.code.ts"
 import { capacitorCorsHeaders, withCors } from "../capacitor-cors/capacitor-cors.module.code.ts"
 import type { Route } from "./+types/api.tracking.health-samples"

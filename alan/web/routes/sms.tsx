@@ -1,7 +1,7 @@
 import { PageTitle } from "@akasha/design-layout/page-layout"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Heading } from "@akasha/design-primitives/heading"
-import { SmsOptInForm } from "@akasha/person-system/sms-opt-in"
+import { SmsOptInForm } from "@akasha/persons/sms-opt-in"
 
 export function meta() {
   return [
