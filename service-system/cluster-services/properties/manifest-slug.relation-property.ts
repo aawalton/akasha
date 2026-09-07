@@ -17,7 +17,11 @@ export const manifestSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "The manifest page claims the code file, so the index answers for that file.",
+      statement: "The manifest page claims the code file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index answers for the code file.",
     },
   ],
 } as const satisfies RelationProperty
