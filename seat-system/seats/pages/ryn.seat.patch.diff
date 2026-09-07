@@ -18,15 +18,3 @@ index 72858123ecd5c4181b31dcc25f74ff9afb77aa20..ac1565b6c95247d8a05967c96605b6f4
          "@akasha/pages": "workspace:*",
          "@akasha/seat-system": "workspace:*",
        },
-diff --git a/rule-population/package.json b/rule-population/package.json
-index dcc47d2fcca709e7c0918a0d85ce4bf0bde67c32..ce848c9b1e6fc5b6d678cb392bfc14f69e23b4fc 100644
---- a/rule-population/package.json
-+++ b/rule-population/package.json
-@@ -8,6 +8,7 @@
-   },
-   "dependencies": {
-     "@akasha/checks": "workspace:*",
-+    "@akasha/code": "workspace:*",
-     "@akasha/pages": "workspace:*",
-     "@akasha/seat-system": "workspace:*"
-   }
