@@ -36,6 +36,7 @@
     "./commands-served": "./commands-served/commands-served.module.code.ts"
   },
   "dependencies": {
+    "@akasha/code": "workspace:*",
     "@akasha/seat-system": "workspace:*",
     "@akasha/agents": "workspace:*",
     "@akasha/analysis-complexity": "workspace:*",

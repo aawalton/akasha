@@ -578,6 +578,7 @@
       "dependencies": {
         "@akasha/agents": "workspace:*",
         "@akasha/analysis-complexity": "workspace:*",
+        "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/inference-clients": "workspace:*",
         "@akasha/inference-runs": "workspace:*",
