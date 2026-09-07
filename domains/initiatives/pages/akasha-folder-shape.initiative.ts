@@ -15,7 +15,7 @@ export const akashaFolderShape = {
     {
       statement: "A page unique only within a scope declares `uniqueScope`.",
       workingMemory:
-        "`uniqueScope` is a property now, statable on a property page and inside a declaration. The shape the index files gains that field once `index-entries.module.code.ts` is divided, and the cut is by concern: the schema half — `Schema`, `schemaAt`, `Identifier`, `uniquePropertiesIn` and `uniquePropertiesAt` — moves to a module of its own, repointing 8 importers, the package exports and the partSlugs. `index-reading` still carries `noShadow` thrice and `named` restating `asStringOrNull` in 7 files.",
+        "`unique-scope` is a live relation property carrying all four constraints as invariants, and the schema index files it, but no index line carries a `uniqueScope` value yet. `Schema` is declared three times — in `index-entries`, in `index-reading` and in the writer `index-schema.index.code.ts` — over one file the writer never writes without a slug, so `index-reading`'s nullable `slug` and `propertySlug` type a case Trust The Index bars. One `Schema` in `index-shape` gains the field once.",
     },
     {
       statement: "The identity index files each page under the level its reach names.",
