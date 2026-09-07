@@ -1,0 +1,415 @@
+writerOwesReading: false
+diff --git a/changes/checked/change-checked.page-type.ts b/changes/checked/change-checked.page-type.ts
+index 8c8a9638899ab5a7696660186a39e4f3945e62c4..5dafcbe57b26a1ce6cd19ad61d6245a63fd8efa0 100644
+--- a/changes/checked/change-checked.page-type.ts
++++ b/changes/checked/change-checked.page-type.ts
+@@ -24,6 +24,7 @@ export const changeChecked = {
+     "change-checked/remove-property-value",
+     "change-checked/rename-code-token",
+     "change-checked/rename-page",
++    "change-checked/change-domain-parent",
+   ],
+   invariants: [
+     {
+diff --git a/changes/checked/pages/change-domain-parent/change-domain-parent.change-checked.code.ts b/changes/checked/pages/change-domain-parent/change-domain-parent.change-checked.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6a875f87ac5548c09ccefbde55be4cadbe4c4dc5
+--- /dev/null
++++ b/changes/checked/pages/change-domain-parent/change-domain-parent.change-checked.code.ts
+@@ -0,0 +1,107 @@
++import { namesIn, reaches, type Shaped } from "@akasha/indexes/reaching"
++import type { Value } from "@akasha/pages/page-value"
++import {
++  gathered,
++  missing,
++  refusing,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { heldIn, readFor } from "../../../modules/page-knowing/page-knowing.module.code.ts"
++
++const ADD_PROPERTY_VALUE = "change-mechanical/add-property-value"
++
++const DOMAIN = "domain"
++
++const ONE = 1
++
++const PAGE = "page"
++
++const PARTS = "partSlugs"
++
++const PART_SLUGS = "part-slugs"
++
++const REMOVE_PROPERTY_VALUE = "change-mechanical/remove-property-value"
++
++const TO = "to"
++
++export type ChangeDomainParentAsked = {
++  readonly page: string
++  readonly to: string
++}
++
++export type Placed = { readonly id: string; readonly path: string }
++
++export type Found = Placed | { readonly refused: string }
++
++export function foundIn(known: Shaped, named: string, key: string): Found {
++  const reached = reaches(named, DOMAIN, known)
++  if ("refused" in reached) return { refused: `${reached.refused}, so \`${key}\` names no page` }
++  const listed = known.byId(reached.id)
++  if (listed === null) return { refused: `\`${named}\` stands at no path` }
++  return { id: reached.id, path: listed.path }
++}
++
++export function parentOf(world: World, known: Shaped, of: Placed, named: string): Found {
++  const namers = world.index.idsNaming(of.id, PART_SLUGS)
++  const first = namers[0]
++  if (first === undefined) {
++    return {
++      refused: `no page names \`${named}\` among its parts, so \`add-property-value\` puts it under one`,
++    }
++  }
++  if (namers.length > ONE) {
++    const shown = namers.map((each) => known.byId(each)?.path ?? each).join("`, `")
++    return {
++      refused: `\`${named}\` is a part of \`${shown}\`, so which parent goes is not settled`,
++    }
++  }
++  const listed = known.byId(first)
++  if (listed === null) return { refused: `the page naming \`${named}\` stands at no path` }
++  return { id: first, path: listed.path }
++}
++
++export function spelledIn(known: Shaped, value: Value, id: string): string | null {
++  for (const one of namesIn(value[PARTS])) {
++    const reached = reaches(one, DOMAIN, known)
++    if ("id" in reached && reached.id === id) return one
++  }
++  return null
++}
++
++export async function changeDomainParent(
++  world: World,
++  given: ChangeDomainParentAsked
++): Promise<Answer> {
++  const held = heldIn(world)
++  if ("refused" in held) return refusing(`${held.refused}, so no parent is changed`)
++  const page = foundIn(held.known, given.page, PAGE)
++  if ("refused" in page) return refusing(page.refused)
++  const to = foundIn(held.known, given.to, TO)
++  if ("refused" in to) return refusing(to.refused)
++  const from = parentOf(world, held.known, page, given.page)
++  if ("refused" in from) return refusing(from.refused)
++  if (from.id === to.id) return refusing(`\`${given.page}\` is a part of \`${to.path}\` already`)
++  const read = readFor(world, from.path)
++  if ("refused" in read) return refusing(`${read.refused}, so no parent is changed`)
++  const spelled = spelledIn(read.known, read.value, page.id)
++  if (spelled === null) return refusing(`\`${from.path}\` states \`${given.page}\` among no parts`)
++  const taken = await reach(world, REMOVE_PROPERTY_VALUE, {
++    at: from.path,
++    key: PARTS,
++    value: spelled,
++  })
++  if (taken.refused !== null) return taken
++  const put = await reach(world, ADD_PROPERTY_VALUE, { at: to.path, key: PARTS, value: spelled })
++  return gathered([taken, put])
++}
++
++export type Asked = Readonly<Record<string, string>>
++
++export async function runChange(world: World, given: Asked): Promise<Answer> {
++  const page = given[PAGE]
++  if (page === undefined) return refusing(missing(PAGE))
++  const to = given[TO]
++  if (to === undefined) return refusing(missing(TO))
++  return await changeDomainParent(world, { page, to })
++}
+diff --git a/changes/checked/pages/change-domain-parent/change-domain-parent.change-checked.test.ts b/changes/checked/pages/change-domain-parent/change-domain-parent.change-checked.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0ddc7bcd6f878cd38cff573418e87136573bc749
+--- /dev/null
++++ b/changes/checked/pages/change-domain-parent/change-domain-parent.change-checked.test.ts
+@@ -0,0 +1,176 @@
++import { expect, test } from "bun:test"
++import type { Shaped } from "@akasha/indexes/reaching"
++import type { Value } from "@akasha/pages/page-value"
++import {
++  NOTHING_OVER,
++  type World,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { changeDomainParent, runChange } from "./change-domain-parent.change-checked.code.ts"
++
++const COMMAND = "01a07932-2568-72a6-8b8e-314ac44c417b"
++
++const NAMESPACE = "01a07932-2568-72a6-8b8e-314ac44c417c"
++
++const PACKAGE = "01a07932-2568-72a6-8b8e-314ac44c417d"
++
++const ADDS = "change-mechanical/add-property-value"
++
++const REMOVES = "change-mechanical/remove-property-value"
++
++const HELD = "imessage/imessage.workspace-package.ts"
++
++const UNDER = "command-system/namespaces/pages/imessage.namespace.ts"
++
++const PATHS: Readonly<Record<string, string>> = {
++  [COMMAND]: "imessage/commands/contacts/imessage-contacts.command.ts",
++  [NAMESPACE]: UNDER,
++  [PACKAGE]: HELD,
++}
++
++const LISTED: Readonly<Record<string, string>> = {
++  "command/imessage-contacts": COMMAND,
++  "namespace/imessage": NAMESPACE,
++  "workspace-package/imessage": PACKAGE,
++}
++
++const PARENT = {
++  id: PACKAGE,
++  pageTypeSlug: "workspace-package",
++  slug: "imessage",
++  partSlugs: ["module/imessage-host", "command/imessage-contacts"],
++} as unknown as Value
++
++const BARE = {
++  id: PACKAGE,
++  pageTypeSlug: "workspace-package",
++  slug: "imessage",
++  partSlugs: ["module/imessage-host"],
++} as unknown as Value
++
++type Told = {
++  readonly namers: readonly string[]
++  readonly page?: Value | null
++}
++
++function listedAt(id: string): { readonly path: string; readonly id: string } | null {
++  const path = PATHS[id]
++  return path === undefined ? null : { path, id }
++}
++
++function worldTold(told: Told): World {
++  const known = {
++    admitting: () => ["command", "namespace", "workspace-package"],
++    at: (pageTypeSlug: string, slug: string) => {
++      const id = LISTED[`${pageTypeSlug}/${slug}`]
++      const found = id === undefined ? null : listedAt(id)
++      return found === null ? [] : [found]
++    },
++    byId: (id: string) => listedAt(id),
++    mortal: () => false,
++    slugOfKeyIn: () => null,
++    targetOf: () => null,
++  } as unknown as Shaped
++  return {
++    root: "/nowhere",
++    index: {
++      idsNaming: () => told.namers,
++      knownIn: () => known,
++      pageAt: () => ("page" in told ? told.page : PARENT),
++    } as never,
++    textOf: () => null,
++    over: NOTHING_OVER,
++  }
++}
++
++const ASKED = { page: "command/imessage-contacts", to: "namespace/imessage" }
++
++type Reached = { readonly at: string; readonly given: unknown }
++
++function watching(world: World, kept: Reached[]): World {
++  return {
++    ...world,
++    reaching: (_world, at, given) => {
++      kept.push({ at, given })
++      return Promise.resolve(NOTHING_OVER)
++    },
++  }
++}
++
++test("the value is taken out of the parent naming it and put into the parent named", async () => {
++  const kept: Reached[] = []
++
++  const said = await changeDomainParent(watching(worldTold({ namers: [PACKAGE] }), kept), ASKED)
++
++  expect(kept.map((one) => one.at)).toEqual([REMOVES, ADDS])
++  expect(said.refused).toBeNull()
++})
++
++test("both mechanical changes are handed the parts key and the spelling that was there", async () => {
++  const kept: Reached[] = []
++
++  await changeDomainParent(watching(worldTold({ namers: [PACKAGE] }), kept), ASKED)
++
++  expect(kept[0]?.given).toEqual({
++    at: HELD,
++    key: "partSlugs",
++    value: "command/imessage-contacts",
++  })
++  expect(kept[1]?.given).toEqual({
++    at: UNDER,
++    key: "partSlugs",
++    value: "command/imessage-contacts",
++  })
++})
++
++test("a page no page names among its parts is refused", async () => {
++  const said = await changeDomainParent(worldTold({ namers: [] }), ASKED)
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toBe(
++    "no page names `command/imessage-contacts` among its parts, so `add-property-value` puts it under one"
++  )
++})
++
++test("a page more than one page names among its parts is refused, naming each", async () => {
++  const said = await changeDomainParent(worldTold({ namers: [PACKAGE, NAMESPACE] }), ASKED)
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toBe(
++    `\`command/imessage-contacts\` is a part of \`${HELD}\`, \`${UNDER}\`, so which parent goes is not settled`
++  )
++})
++
++test("a page already a part of the parent named is refused", async () => {
++  const said = await changeDomainParent(worldTold({ namers: [NAMESPACE] }), ASKED)
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toBe(`\`command/imessage-contacts\` is a part of \`${UNDER}\` already`)
++})
++
++test("a page the index reaches nothing for is refused by the key naming it", async () => {
++  const said = await changeDomainParent(worldTold({ namers: [PACKAGE] }), {
++    page: "command/nowhere",
++    to: "namespace/imessage",
++  })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toBe(
++    "no `command` carries the slug `nowhere`, so `page` names no page"
++  )
++})
++
++test("a parent whose parts do not spell the page is refused", async () => {
++  const said = await changeDomainParent(worldTold({ namers: [PACKAGE], page: BARE }), ASKED)
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toBe(`\`${HELD}\` states \`command/imessage-contacts\` among no parts`)
++})
++
++test("an argument this change was handed no value for is refused by the key", async () => {
++  const said = await runChange(worldTold({ namers: [PACKAGE] }), {
++    page: "command/imessage-contacts",
++  })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/`to` names what this change is handed/)
++})
+diff --git a/changes/checked/pages/change-domain-parent/change-domain-parent.change-checked.ts b/changes/checked/pages/change-domain-parent/change-domain-parent.change-checked.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bedf06352d40438e065007d2ba9a87776a423426
+--- /dev/null
++++ b/changes/checked/pages/change-domain-parent/change-domain-parent.change-checked.ts
+@@ -0,0 +1,67 @@
++import type { ChangeChecked } from "../../change-checked.page-type.ts"
++
++export const changeDomainParent = {
++  id: "01a0795e-9c4f-7299-9238-117baca6b57e",
++  pageTypeSlug: "change-checked",
++  slug: "change-domain-parent",
++  definition: "one page made a part of another page rather than of the page naming it now",
++  code: "ts",
++  test: "ts",
++  runsChecks: true,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A page and a parent are named as parts rather than as paths.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The parent a page has now is read from the index rather than handed in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page no page names among its parts is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That refusal names the change putting a value into a property.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page more than one page names among its parts is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That refusal names each parent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page already a part of the parent named is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The new parent gains the spelling the old parent used.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The mechanical changes take the value out and put the value in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Those changes are reached through the runner rather than by an import.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The mechanical answers are gathered into one answer.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here works out a body of its own.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A parent stating no parts is refused rather than gaining the list.",
++    },
++  ],
++} as const satisfies ChangeChecked
+diff --git a/changes/modules/page-knowing/page-knowing.module.code.ts b/changes/modules/page-knowing/page-knowing.module.code.ts
+index bd1aff5018ffd68171beeda2bd0c1bd9996528a6..dd09fe35f577f768acc75ce63540db8c6b0dd039 100644
+--- a/changes/modules/page-knowing/page-knowing.module.code.ts
++++ b/changes/modules/page-knowing/page-knowing.module.code.ts
+@@ -16,16 +16,26 @@ export function targetsIn(known: Shaped, value: Value, key: string): readonly st
+   return slug === null ? [] : eachTarget(known.targetOf(slug))
+ }
+ 
++export type Held = { readonly known: Shaped } | { readonly refused: string }
++
++export function heldIn(world: World): Held {
++  try {
++    return { known: world.index.knownIn() }
++  } catch (cause) {
++    return { refused: cause instanceof Error ? cause.message : String(cause) }
++  }
++}
++
+ export function readFor(world: World, at: string): Read {
+-  let known: Shaped
++  const held = heldIn(world)
++  if ("refused" in held) return { refused: `${held.refused}, so \`${at}\` was not read` }
+   let value: Value | null
+   try {
+-    known = world.index.knownIn()
+     value = pageIn(world, at)
+   } catch (cause) {
+     const why = cause instanceof Error ? cause.message : String(cause)
+     return { refused: `${why}, so \`${at}\` was not read` }
+   }
+   if (value === null) return { refused: `\`${at}\` names no page` }
+-  return { known, value }
++  return { known: held.known, value }
+ }
