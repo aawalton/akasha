@@ -1,0 +1,121 @@
+writerOwesReading: false
+diff --git a/changes/agent/file-content/rename-code-token/rename-code-token.change-checked.test.ts b/changes/agent/file-content/rename-code-token/rename-code-token.change-checked.test.ts
+index 65bcd9c9196c5e3e3ee76afbfa7b8242331d365d..7e3d139cb6aa8d461da5be62da52082ad003435e 100644
+--- a/changes/agent/file-content/rename-code-token/rename-code-token.change-checked.test.ts
++++ b/changes/agent/file-content/rename-code-token/rename-code-token.change-checked.test.ts
+@@ -32,7 +32,7 @@ const PAGE_BODY = `export const held = 1\n`
+ function worldIn(root: string, textOf: (path: string) => string | null): World {
+   return worldAt(root, textOf, async (world, at, given) => {
+     if (at === "change-mechanical-file-content/rename-export") {
+-      return await renameExport(world, given as Parameters<typeof renameExport>[1])
++      return widened(renameExport(world, given as Parameters<typeof renameExport>[1]), world.textOf)
+     }
+     if (at === "change-mechanical-file-content/rename-local-variable") {
+       return widened(
+diff --git a/changes/agent/file/rename-page/rename-page.change-checked.test.ts b/changes/agent/file/rename-page/rename-page.change-checked.test.ts
+index b805ce31d53a7e872df9f8dbbc5204de89c5bc46..5e1f7b2dff853a15848486c74365a8861e9c4b87 100644
+--- a/changes/agent/file/rename-page/rename-page.change-checked.test.ts
++++ b/changes/agent/file/rename-page/rename-page.change-checked.test.ts
+@@ -70,7 +70,7 @@ const RUNS: Reaching = async (world, at, given) => {
+     )
+   }
+   if (at === "change-mechanical-file-content/rename-export") {
+-    return renameExport(world, given as Parameters<typeof renameExport>[1])
++    return widened(renameExport(world, given as Parameters<typeof renameExport>[1]), world.textOf)
+   }
+   if (at === "change-mechanical-file-content/change-imports") {
+     return widened(changeImports(world, given as Parameters<typeof changeImports>[1]), world.textOf)
+diff --git a/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts b/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts
+index 5ed63babfbbd4dc7acfefa4f2d38b91a6d2fa6e9..bbf1a7a1a4e0b7ebe0907c3ced3a9ed4cb0c526c 100644
+--- a/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts
++++ b/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts
+@@ -9,11 +9,12 @@ import {
+   typingOver,
+ } from "@akasha/code/code-typing"
+ import {
+-  answered,
++  narrowed,
+   refusing,
++  stating,
+   writing,
+ } from "../../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer, Edit } from "../../../../modules/change-answer/change-answer.module.types.ts"
++import type { Said, Stated } from "../../../../modules/change-answer/change-answer.module.types.ts"
+ import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ type Spot = {
+@@ -30,7 +31,7 @@ export function renameExport(
+   to: string,
+   textOf: (path: string) => string | null,
+   placed: Placing
+-): Answer {
++): Said {
+   const typing = typingOver(root, over, readingOf(root, textOf, placed), placed)
+   const declared = new Set(exportsNamed(typing, at, of))
+   if (declared.size === 0) return refusing(`\`${at}\` exports no \`${of}\``)
+@@ -52,7 +53,7 @@ export function renameExport(
+       return refusing(`\`${path}\` already reaches a \`${to}\``)
+     }
+   }
+-  const edits: Edit[] = []
++  const edits: Stated[] = []
+   for (const [path, spots] of held) {
+     const text = textOf(path)
+     if (text === null) return refusing(`\`${path}\` would change and could not be read`)
+@@ -60,9 +61,9 @@ export function renameExport(
+     for (const one of [...spots].sort((here, there) => there.start - here.start)) {
+       body = body.slice(0, one.start) + one.put + body.slice(one.end)
+     }
+-    edits.push(writing(path, text, body))
++    edits.push(...narrowed(writing(path, text, body)))
+   }
+-  return answered(edits)
++  return stating(edits)
+ }
+ 
+ export type Given = {
+@@ -72,7 +73,7 @@ export type Given = {
+   readonly to: string
+ }
+ 
+-export function runChange(world: World, given: Given): Answer {
++export function runChange(world: World, given: Given): Said {
+   const placed = placingOver(
+     world.over.edits.map((one) => one.path),
+     world.textOf
+diff --git a/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.test.ts b/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.test.ts
+index 30c884a449221653fc3f112b8e2e99463f7bb3df..28577bef7a2f65a83f20e0600b74e8cd6ea33401 100644
+--- a/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.test.ts
++++ b/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.test.ts
+@@ -10,10 +10,16 @@ import {
+   scratch,
+   textIn,
+ } from "@akasha/indexes/indexing/testing"
+-import { renameExport } from "./rename-export.change-mechanical-file-content.code.ts"
++import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
++import { renameExport as renaming } from "./rename-export.change-mechanical-file-content.code.ts"
+ 
+ afterAll(scratch.sweep)
+ 
++function renameExport(...given: Parameters<typeof renaming>): Answer {
++  return widened(renaming(...given), given[5])
++}
++
+ const CARRIED = "carried"
+ 
+ const SHORT_PAGE = "akasha/five/short.module.ts"
+diff --git a/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.test.ts b/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.test.ts
+index 77adef72fa9fea3c18a9fdacbeeb938cc0d4fbd1..9fa7cd6392eafe76468bdd16d7c0e372622f8b30 100644
+--- a/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.test.ts
++++ b/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.test.ts
+@@ -45,7 +45,8 @@ function worldIn(root: string, textOf: (path: string) => string | null): World {
+       return Promise.resolve(widened(said, world.textOf))
+     }
+     if (at === "change-mechanical-file-content/rename-export") {
+-      return Promise.resolve(renameExport(world, given as Parameters<typeof renameExport>[1]))
++      const said = renameExport(world, given as Parameters<typeof renameExport>[1])
++      return Promise.resolve(widened(said, world.textOf))
+     }
+     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+   })
