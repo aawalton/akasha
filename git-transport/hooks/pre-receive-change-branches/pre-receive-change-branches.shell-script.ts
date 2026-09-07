@@ -10,7 +10,7 @@ export const preReceiveChangeBranches = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A branch created is named for a change or a merge or a project, and a number.",
+      statement: "A branch created is named for a change or a merge or a project and for a number.",
     },
     {
       invariantKind: "departure",
