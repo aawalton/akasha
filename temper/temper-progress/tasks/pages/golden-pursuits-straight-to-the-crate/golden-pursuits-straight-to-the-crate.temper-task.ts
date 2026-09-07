@@ -14,5 +14,4 @@ export const goldenPursuitsStraightToTheCrate = {
   scope: "account",
   priority: "p1",
   lastCompletedAt: "2026-09-07T02:16:06.577Z",
-  completedAt: "2026-09-07T02:16:06.577Z",
 } as const satisfies TemperTask
