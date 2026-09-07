@@ -6,6 +6,7 @@ import type { RootRoute } from "./properties/root-route.named-file-property.ts"
 import type { RouteTable } from "./properties/route-table.named-file-property.ts"
 import type { RouterConfig } from "./properties/router-config.named-file-property.ts"
 import type { ServerEntry } from "./properties/server-entry.named-file-property.ts"
+import type { ViteConfig } from "./properties/vite-config.named-file-property.ts"
 
 export type RouterApp = WorkspacePackage & {
   rootRoute: RootRoute
@@ -14,6 +15,7 @@ export type RouterApp = WorkspacePackage & {
   routerConfig: RouterConfig
   compileConfig?: CompileConfig
   appLayout?: AppLayout
+  viteConfig?: ViteConfig
 }
 
 export const routerApp = {
@@ -29,6 +31,7 @@ export const routerApp = {
     "named-file-property/route-table",
     "named-file-property/router-config",
     "named-file-property/server-entry",
+    "named-file-property/vite-config",
     "type-declaration/vite-client",
   ],
   extendsSlug: ["page-type/workspace-package"],
@@ -39,6 +42,7 @@ export const routerApp = {
     { pagePropertySlug: "named-file-property/router-config", required: true, many: false },
     { pagePropertySlug: "named-file-property/compile-config", required: false, many: false },
     { pagePropertySlug: "named-file-property/app-layout", required: false, many: false },
+    { pagePropertySlug: "named-file-property/vite-config", required: false, many: false },
   ],
   invariants: [
     {
