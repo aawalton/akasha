@@ -15,7 +15,7 @@ export const pageLandingJournal = {
     },
     {
       invariantKind: "departure",
-      statement: "A journal is written whole, under another name, and then renamed into place.",
+      statement: "A journal is written whole under another name and then renamed into place.",
     },
     {
       invariantKind: "departure",
