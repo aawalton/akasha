@@ -154,6 +154,35 @@ index 0000000000000000000000000000000000000000..0088229f8100ae56792032dede298cc4
 +    },
 +  ],
 +} as const satisfies ChangeMechanical
+diff --git a/changes/modules/change-shadow/change-shadow.module.code.ts b/changes/modules/change-shadow/change-shadow.module.code.ts
+index b76e6a9dccce7be45568277617fc12997bf935cc..9b7130225d23da3791377a86b8106bb7130c886c 100644
+--- a/changes/modules/change-shadow/change-shadow.module.code.ts
++++ b/changes/modules/change-shadow/change-shadow.module.code.ts
+@@ -37,7 +37,7 @@ export async function reach(world: World, at: string, given: unknown): Promise<R
+   return { said, world: worldOver(world, said) }
+ }
+ 
+-function bytesOf(body: string | null): Uint8Array | null {
++export function bytesOf(body: string | null): Uint8Array | null {
+   return body === null ? null : BYTES.encode(body)
+ }
+ 
+@@ -88,12 +88,13 @@ export function worldAt(
+ 
+ export function worldOver(world: World, said: Answer): World {
+   const held = bodiesIn(said)
+-  const index = shadowAsked(changeOver(world.root, said)).index
++  const over = gathered([world.over, said])
++  const index = shadowAsked(changeOver(world.root, over.refused === null ? over : said)).index
+   return {
+     root: world.root,
+     index,
+     textOf: (path) => (held.has(path) ? (held.get(path) ?? null) : world.textOf(path)),
+-    over: gathered([world.over, said]),
++    over,
+     reaching: world.reaching,
+   }
+ }
 diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts
 index 51c11e2e2e4e2de7b7bef4597da4aaf43610dc5f..6b96d193b22ed21aaedae12130301a9e7686808e 100644
 --- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts
@@ -353,6 +382,29 @@ index 956996ec940c6dacfca1381e0b25d6f273558d60..1038110643448a43f3b747f20241e893
      },
      {
        invariantKind: "gap",
+diff --git a/command-system/commands/apply/apply.command.code.ts b/command-system/commands/apply/apply.command.code.ts
+index 6a76f94c286c5504269bfffe5b5535adbaf763d4..980329f7193fae0f44e5eb973fac0930bcad508e 100644
+--- a/command-system/commands/apply/apply.command.code.ts
++++ b/command-system/commands/apply/apply.command.code.ts
+@@ -2,6 +2,7 @@ import { patchIn } from "@akasha/agents/patch-keeping"
+ import { formattedBody } from "@akasha/code/code-format"
+ import { agentPathOf } from "@akasha/context/warranting"
+ import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
++import { bytesOf } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
+ import {
+   editsAt,
+   foldedIn,
+@@ -39,10 +40,6 @@ export type Folded =
+     }
+   | { readonly refusals: readonly string[] }
+ 
+-function bytesOf(body: string | null): Uint8Array | null {
+-  return body === null ? null : BYTES.encode(body)
+-}
+-
+ export function formattedEdits(root: string, rows: readonly Edit[]): readonly Edit[] {
+   return rows.map((one) => {
+     if (one.body === null) return one
 diff --git a/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts b/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
 index 0fb6f4e8eded4dabd16458e4fbdadc16efbe0bd4..49d9327e536455d9ef7f1ec348c134e612dacbde 100644
 --- a/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
