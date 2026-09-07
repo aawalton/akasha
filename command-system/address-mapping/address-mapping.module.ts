@@ -13,7 +13,7 @@ export const addressMapping = {
     },
     {
       invariantKind: "departure",
-      statement: "A mechanical change exporting the run is reached by the map.",
+      statement: "A change exporting the run is reached by the map.",
     },
     {
       invariantKind: "departure",
