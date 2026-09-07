@@ -1,8 +1,8 @@
 diff --git a/collections/royal-road/syncing/royal-road-syncing.module.ts b/collections/royal-road/syncing/royal-road-syncing.module.ts
-index 9f00ed44c4b9cc0e0b48469f808549a1133e3769..c8270f1754f8d36f38b91f735e6493dc80145fd2 100644
+index 9f00ed44c4b9cc0e0b48469f808549a1133e3769..d230ba673ea85162e7d2b8394bb3fe1160f1e1fe 100644
 --- a/collections/royal-road/syncing/royal-road-syncing.module.ts
 +++ b/collections/royal-road/syncing/royal-road-syncing.module.ts
-@@ -33,8 +33,11 @@ export const royalRoadSyncing = {
+@@ -33,12 +33,19 @@ export const royalRoadSyncing = {
      },
      {
        invariantKind: "departure",
@@ -13,6 +13,15 @@ index 9f00ed44c4b9cc0e0b48469f808549a1133e3769..c8270f1754f8d36f38b91f735e6493dc
 +    {
 +      invariantKind: "departure",
 +      statement: "The story's slug is followed by the chapter's position padded to four digits.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The title follows the position.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The title follows, cut back to whole words at fifty characters.",
++      statement: "A title is cut back to whole words at fifty characters.",
      },
      {
        invariantKind: "departure",
