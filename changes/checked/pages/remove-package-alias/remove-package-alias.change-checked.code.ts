@@ -6,7 +6,7 @@ import ts from "typescript"
 import {
   objectAt,
   withoutEntriesIn,
-} from "../../../mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.code.ts"
+} from "../../../mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical-manifest.code.ts"
 import {
   answered,
   missing,

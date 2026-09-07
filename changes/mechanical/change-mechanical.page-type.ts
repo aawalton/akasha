@@ -46,7 +46,7 @@ export const changeMechanical = {
     "change-mechanical-file/rename-path",
     "change-mechanical/rename-property-signature",
     "change-mechanical-manifest/rename-manifest-ways",
-    "change-mechanical/remove-manifest-ways",
+    "change-mechanical-manifest/remove-manifest-ways",
     "change-mechanical-data/rename-page-address",
     "relation-property/guard-slugs",
   ],

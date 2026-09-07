@@ -5,7 +5,7 @@ import {
   landsOn,
   removeManifestWays,
   waysGoneIn,
-} from "./remove-manifest-ways.change-mechanical.code.ts"
+} from "./remove-manifest-ways.change-mechanical-manifest.code.ts"
 
 const AT = "seat-system/package.json"
 
