@@ -13,8 +13,11 @@ export const servedTip = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A transport that does not answer, or answers nothing, is null rather than a throw.",
+      statement: "A transport that does not answer is null rather than a throw.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A transport that answers nothing is null rather than a throw.",
     },
     {
       invariantKind: "departure",
