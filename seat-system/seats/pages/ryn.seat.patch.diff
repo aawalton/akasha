@@ -194,3 +194,25 @@ index 889154fb352315c5f2f70a9954850ec371ee0744..2d803d262f4886ba54e3cda478b19b60
    return {
      descriptor,
      parse: async (text: string) => {
+diff --git a/domains/plain-language/onnx-parsing/onnx-parsing.module.ts b/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
+index 001206786f1374cf8964d8adf616230fe3a68fb3..fe9019b13958619af5523b91b28185847e1df248 100644
+--- a/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
++++ b/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
+@@ -43,5 +43,17 @@ export const onnxParsing = {
+       invariantKind: "departure",
+       statement: "A text the model reads is written to the cache as a side effect of that reading.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A head's confidence is taken over the heads its own sentence offers.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The cache is keyed by the shape a parse carries as well as by the model.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A parse stored under an earlier shape is read as no parse.",
++    },
+   ],
+ } as const satisfies Module
