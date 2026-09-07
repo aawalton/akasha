@@ -10,7 +10,7 @@ export const wakeDay20260907 = {
   activeCalories: 42.83200000000001,
   wisdomWords: 0,
   intelligenceTopics: 0,
-  inboxTasks: 16,
+  inboxTasks: 15,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 15,
   inboxTemperTasksClearedToday: false,
