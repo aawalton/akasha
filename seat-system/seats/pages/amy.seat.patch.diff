@@ -18,6 +18,24 @@ index 7b93c1fefaebd358397300db4ffb9ed265825b86..93b3b6a2e8a1805f3bf55beafc5d229a
  ]
  
  export function narrowFor(one: Rolling, day: string): PageWhere {
+diff --git a/alan/harness/overdue-rolling/overdue-rolling.module.test.ts b/alan/harness/overdue-rolling/overdue-rolling.module.test.ts
+index b9242fd6c71e15e097883218657f5ebc172879d5..0f59a9be3481933b8761277cd0db3bf2c2ea2488 100644
+--- a/alan/harness/overdue-rolling/overdue-rolling.module.test.ts
++++ b/alan/harness/overdue-rolling/overdue-rolling.module.test.ts
+@@ -28,8 +28,11 @@ test("a to-do is narrowed by its due date and by carrying no completion", () =>
+   ])
+ })
+ 
+-test("a temper task is narrowed by its due date alone", () => {
+-  expect(narrowFor(rollingFor("temper-task"), DAY)).toEqual([{ key: "dueDate", lt: DAY }])
++test("a temper task is narrowed by its due date and by carrying no completion", () => {
++  expect(narrowFor(rollingFor("temper-task"), DAY)).toEqual([
++    { key: "dueDate", lt: DAY },
++    { key: "completedAt", isEmpty: true },
++  ])
+ })
+ 
+ test("a roll sets the due date to the day it rolls onto", async () => {
 diff --git a/alan/harness/overdue-rolling/overdue-rolling.module.ts b/alan/harness/overdue-rolling/overdue-rolling.module.ts
 index bfdda0159543ec858f35ebb90ea1ca597e4e809a..1fb2107f6479990af7a22f177a94f5f911becb74 100644
 --- a/alan/harness/overdue-rolling/overdue-rolling.module.ts
