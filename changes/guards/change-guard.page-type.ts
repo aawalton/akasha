@@ -14,6 +14,7 @@ export const changeGuard = {
     "change-guard/body-not-written-over",
     "change-guard/claimed-file-not-left-behind",
     "change-guard/import-not-left-hanging",
+    "change-guard/page-type-carries-no-pages",
     "change-guard/import-reaches-a-file",
     "change-guard/identity-not-already-held",
     "change-guard/relation-not-left-hanging",

@@ -10,24 +10,19 @@ export const removePageType = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
-  guardSlugs: ["change-guard/relation-not-left-hanging", "change-guard/import-not-left-hanging"],
+  guardSlugs: [
+    "change-guard/relation-not-left-hanging",
+    "change-guard/import-not-left-hanging",
+    "change-guard/page-type-carries-no-pages",
+  ],
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A page type the index files pages under is refused rather than taken away.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Which pages a page type is the page type of is read from the values the index files.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The refusal names the pages the index files under the page type.",
-    },
     {
       invariantKind: "absence",
       statement: "No page of the page type is taken away here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads which pages the page type is the page type of.",
     },
     {
       invariantKind: "departure",

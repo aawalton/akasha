@@ -16,7 +16,7 @@ import {
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
 import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
-import { carryingIn, removePageType } from "./remove-page-type.change-mechanical.code.ts"
+import { removePageType } from "./remove-page-type.change-mechanical.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -70,13 +70,13 @@ function bodyIn(
   return said.edits.find((one) => one.path === at)?.body ?? ""
 }
 
-test("a page type the index files pages under is refused, and the refusal names those pages", async () => {
+test("a page type the index files pages under is left to the guard rather than refused here", async () => {
   const root = indexedRepo({ [KEPT_TYPE]: TYPE, [KEPT_PAGE]: PAGE })
 
   const said = await removePageType(worldIn(root), { at: KEPT_TYPE })
 
-  expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain(KEPT_PAGE)
+  expect(said.refused).toBe(null)
+  expect(said.edits.map((one) => one.path)).toEqual([KEPT_TYPE])
 })
 
 test("a page type no page is filed under goes with the files beside that page type", async () => {
@@ -87,13 +87,6 @@ test("a page type no page is filed under goes with the files beside that page ty
   expect(said.refused).toBe(null)
   expect(said.edits.map((one) => one.path)).toEqual([KEPT_TYPE])
   expect(said.edits[0]?.body).toBe(null)
-})
-
-test("which pages a page type is the page type of is read from the values the index files", () => {
-  const root = indexedRepo({ [KEPT_TYPE]: TYPE, [KEPT_PAGE]: PAGE })
-
-  expect(carryingIn(worldIn(root), "kept")).toEqual([KEPT_PAGE])
-  expect(carryingIn(worldIn(root), "bare")).toEqual([])
 })
 
 test("a path the world names no page type at is refused", async () => {
