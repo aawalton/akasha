@@ -398,18 +398,3 @@ index 0808be3ab04a639dc84d7a74f5ecd871b4a51235..66a93fb97b10af8695ccfba64774355d
 +    },
    ],
  } as const satisfies Module
-diff --git a/pages/indexes/reading/index-reading.module.ts b/pages/indexes/reading/index-reading.module.ts
-index fdc5641071c3ca19c96aa0b9ac1a523d94715031..038b39d571b5de17d36f1e60a9805d79ba81e2d2 100644
---- a/pages/indexes/reading/index-reading.module.ts
-+++ b/pages/indexes/reading/index-reading.module.ts
-@@ -94,6 +94,10 @@ export const indexReading = {
-       invariantKind: "departure",
-       statement: "An index's path under the root is said here alone.",
-     },
-+    {
-+      invariantKind: "departure",
-+      statement: "The folder the page values are filed in is answered here rather than spelled.",
-+    },
-     {
-       invariantKind: "departure",
-       statement: "Which pages name a page is read from the index the asking names.",
