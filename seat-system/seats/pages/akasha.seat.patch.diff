@@ -1,0 +1,57 @@
+writerOwesReading: false
+diff --git a/pages/address-kinds/in-page-property/in-page-property.page-address-kind.ts b/pages/address-kinds/in-page-property/in-page-property.page-address-kind.ts
+index 5c032a56cd68e61ae4d99b41dda841da31f5b8e7..dac11cc698e1c66cc35388abe65af27104b827b4 100644
+--- a/pages/address-kinds/in-page-property/in-page-property.page-address-kind.ts
++++ b/pages/address-kinds/in-page-property/in-page-property.page-address-kind.ts
+@@ -10,32 +10,27 @@ export const inPageProperty = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The index answers this kind under the page type and then the parent.",
++      statement: "This kind answers the level `page-property`.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This kind answers the level `part-of`.",
++      statement: "The index answers this kind under the page type and then the scope.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The parent is the value the property a declaration's `partOfScope` names carries.",
++      statement: "The scope is the value the property a declaration's `uniqueScope` names carries.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That property is required and carries one value.",
++      statement: "That property is declared on the same page type.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The part-of edge is a spanning tree.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "That property declares the parent's page type.",
++      statement: "That property is required and carries one value.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The address carries no page type for the parent.",
++      statement: "A scope is any kind of page property rather than a relation alone.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/address-kinds/in-page/in-page.page-address-kind.ts b/pages/address-kinds/in-page/in-page.page-address-kind.ts
+index e1d34ed555ae7c2f06ad65c8df012834b9b4ec43..c463e1595867860e554a261ff500d4ecda48fcab 100644
+--- a/pages/address-kinds/in-page/in-page.page-address-kind.ts
++++ b/pages/address-kinds/in-page/in-page.page-address-kind.ts
+@@ -4,7 +4,7 @@ export const inPage = {
+   id: "01a0731d-f93e-7ca8-8fdd-a8a5e083664d",
+   pageTypeSlug: "page-address-kind",
+   slug: "in-page",
+-  definition: "an address naming a page by the id that page keeps for life",
++  definition: "an address naming a page by a value unique across every page",
+   code: "ts",
+   test: "ts",
+   invariants: [
