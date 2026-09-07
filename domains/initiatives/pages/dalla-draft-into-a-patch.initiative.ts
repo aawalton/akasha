@@ -10,7 +10,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A change is reached by its address rather than by an import.",
       workingMemory:
-        "No guard exists to bypass: `guardSlugs` is declared on `ChangeMechanical` alone, and a guard runs on a mechanical change alone, so `move-folder-package`, `move-folder` and `rename-page` each report none. Converting its two imports to `reach` was run against the real change and answered the same. It is the only site: the imports in `remove-package-alias` and `change-page-page-type` are shared helpers no address reaches. `address-mapping` bars a command-line change from the map.",
+        "Every change loads one way, through `runChange` by address. This is for one loading path rather than for guards: `guardSlugs` is declared on `ChangeMechanical` alone, so no guard is skipped. `address-mapping` builds the map from `change-mechanical` alone and bars command-line changes, which Alan's direction supersedes. `move-folder-package` is the one site importing a sibling; converting it answers the same, and its hand-built world re-gathers edits its inner reaches added.",
     },
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
