@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
+import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { restated } from "./change-page-property.change-mechanical-file-content.code.ts"
+
+function ranOn(path: string, text: string, key: string, to: string): Answer {
+  return widened(restated(path, text, key, to), (asked) => (asked === path ? text : null))
+}
 
 const AT = "akasha/held/kept.page-type.ts"
 
@@ -16,52 +22,64 @@ export const kept = {
 `
 
 test("a key's text is stated anew", () => {
-  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
+  const said = ranOn(AT, BODY, "pluralSlug", "change-atomic")
   expect(bodyOf(said)).toContain(`pluralSlug: "change-atomic",`)
 })
 
 test("one key is restated and the rest of the body is left as it is", () => {
-  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
+  const said = ranOn(AT, BODY, "pluralSlug", "change-atomic")
   expect(bodyOf(said)).toBe(BODY.replace(`"kepts"`, `"change-atomic"`))
 })
 
 test("the body is answered under the path it was worked out from", () => {
-  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
+  const said = ranOn(AT, BODY, "pluralSlug", "change-atomic")
   expect(said.edits[0]?.path).toBe(AT)
   expect(said.edits[0]?.was).toBe(BODY)
   expect(said.edits[0]?.from).toBe(undefined)
 })
 
+test("the whole body is stated each side rather than the passage under that key", () => {
+  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
+  expect(said.edits).toEqual([
+    {
+      kind: "replace",
+      path: AT,
+      contentFrom: BODY,
+      contentTo: BODY.replace(`"kepts"`, `"change-atomic"`),
+    },
+  ])
+})
+
 test("a key the page states no text under is refused", () => {
-  const said = restated(AT, BODY, "definition", "x")
+  const said = ranOn(AT, BODY, "definition", "x")
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${AT}\` states no text under \`definition\``)
 })
 
 test("a key holding something other than text is refused", () => {
-  const said = restated(AT, BODY, "partSlugs", "x")
+  const said = ranOn(AT, BODY, "partSlugs", "x")
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${AT}\` states no text under \`partSlugs\``)
 })
 
 test("a key stating what was asked for already is refused", () => {
-  const said = restated(AT, BODY, "slug", "kept")
+  const said = ranOn(AT, BODY, "slug", "kept")
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`kept` is what `slug` states already")
 })
 
 test("the text is written back quoted", () => {
-  const said = restated(AT, BODY, "slug", 'has "quotes"')
+  const said = ranOn(AT, BODY, "slug", 'has "quotes"')
   expect(bodyOf(said)).toContain(`slug: "has \\"quotes\\"",`)
 })
 
 test("an object above the exported one is not read", () => {
   const held = `const held = { slug: "wrong" }\n${BODY}`
-  const said = restated(AT, held, "slug", "change-atomic")
+  const said = ranOn(AT, held, "slug", "change-atomic")
   expect(bodyOf(said)).toContain(`const held = { slug: "wrong" }`)
   expect(bodyOf(said)).toContain(`slug: "change-atomic",`)
 })
 
 test("nothing here judges whether that key may be restated", () => {
-  expect(restated(AT, BODY, "id", "01a00000-0000-7000-8000-000000000000").refused).toBe(null)
+  expect(ranOn(AT, BODY, "id", "01a00000-0000-7000-8000-000000000000").refused).toBe(null)
 })

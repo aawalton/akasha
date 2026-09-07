@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import type { Value } from "@akasha/pages/page-value"
 import { runChange as changeValue } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
 import { runChange as changeRelation } from "../../../mechanical/file-content/change/change-page-property-relation/change-page-property-relation.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
@@ -13,7 +13,7 @@ import { changePageProperty, runChange } from "./change-page-property.change-che
 
 const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical-file-content/change-page-property") {
-    return changeValue(world, given as Parameters<typeof changeValue>[1])
+    return widened(changeValue(world, given as Parameters<typeof changeValue>[1]), world.textOf)
   }
   if (at === "change-mechanical-file-content/change-page-property-relation") {
     return await changeRelation(world, given as Parameters<typeof changeRelation>[1])

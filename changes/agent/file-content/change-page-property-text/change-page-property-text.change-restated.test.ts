@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import type { Value } from "@akasha/pages/page-value"
 import { runChange as changeValue } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
@@ -15,7 +15,8 @@ import {
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/change-page-property") {
-    return Promise.resolve(changeValue(world, given as Parameters<typeof changeValue>[1]))
+    const said = changeValue(world, given as Parameters<typeof changeValue>[1])
+    return Promise.resolve(widened(said, world.textOf))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }

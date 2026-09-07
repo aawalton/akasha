@@ -64,7 +64,10 @@ const RUNS: Reaching = async (world, at, given) => {
     return await renamePathChange(world, given as Parameters<typeof renamePathChange>[1])
   }
   if (at === "change-mechanical-file-content/change-page-property") {
-    return changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+    return widened(
+      changePageProperty(world, given as Parameters<typeof changePageProperty>[1]),
+      world.textOf
+    )
   }
   if (at === "change-mechanical-file-content/rename-export") {
     return renameExport(world, given as Parameters<typeof renameExport>[1])

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Value } from "@akasha/pages/page-value"
-import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
@@ -12,9 +12,8 @@ import { changePagePropertyRelation } from "./change-page-property-relation.chan
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/change-page-property") {
-    return Promise.resolve(
-      changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
-    )
+    const said = changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+    return Promise.resolve(widened(said, world.textOf))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }

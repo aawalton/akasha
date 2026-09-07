@@ -7,7 +7,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import { type World, worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { runChange as changePageProperty } from "../../change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../rename-export/rename-export.change-mechanical-file-content.code.ts"
@@ -41,9 +41,8 @@ function holding(body: string): (path: string) => string | null {
 function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, (world, at, given) => {
     if (at === "change-mechanical-file-content/change-page-property") {
-      return Promise.resolve(
-        changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
-      )
+      const said = changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+      return Promise.resolve(widened(said, world.textOf))
     }
     if (at === "change-mechanical-file-content/rename-export") {
       return Promise.resolve(renameExport(world, given as Parameters<typeof renameExport>[1]))
