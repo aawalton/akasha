@@ -23,6 +23,19 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "The bodies an apply lands are handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply handed no bodies reads the bodies off the patch.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Bodies handed in are rebased onto the commit at HEAD as a patch read off disk is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A patch is rebased onto the commit at HEAD before the patch is applied.",
     },
     {

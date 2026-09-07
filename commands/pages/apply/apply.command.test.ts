@@ -10,12 +10,23 @@ import {
   editsIn,
   foldedIn,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { drafted } from "../../../command-system/drafting/drafting.module.code.ts"
+import {
+  drafted,
+  headOf,
+  rebasedHeld,
+} from "../../../command-system/drafting/drafting.module.code.ts"
 import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
 import { blobsIn, refFor } from "../../../command-system/patching/patching.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { writing as putting } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
-import { draftsOf, folding, rebasedRows, undone, unwarranted } from "./apply.command.code.ts"
+import {
+  draftsOf,
+  type Folded,
+  folding,
+  rebasedRows,
+  undone,
+  unwarranted,
+} from "./apply.command.code.ts"
 
 const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 
@@ -126,6 +137,19 @@ function carried(root: string): readonly string[] {
   return [...blobsIn(patchIn(root, PAGE) ?? "")].map(([path]) => path).sort()
 }
 
+function foldOf(said: Folded): unknown {
+  return "refusals" in said
+    ? said
+    : { folded: said.folded, dropped: said.dropped, unfold: said.unfold }
+}
+
+function landing(root: string, said: Folded): string {
+  if (!("carried" in said) || said.carried === null) throw new Error("the fold carried nothing")
+  const lands = rebasedHeld(root, headOf(root), said.carried.held)
+  if ("why" in lands) throw new Error(lands.why)
+  return TEXT.decode(lands.held.get(NOTES)?.body ?? new Uint8Array())
+}
+
 function kept(root: string): string {
   return gitSaid(root, ["rev-parse", refFor(patchAt(PAGE) ?? "")]).trim()
 }
@@ -135,7 +159,7 @@ test("an edit is drafted into the patch and the rows it came from are kept", asy
   const row = taking(ONE, WAS)
   appendEdits(root, PAGE, [row])
 
-  expect(folding(root, PAGE)).toEqual({
+  expect(foldOf(folding(root, PAGE))).toEqual({
     folded: [ONE],
     dropped: [],
     unfold: { patch: null, rows: [row] },
@@ -154,6 +178,30 @@ test("a run that stops between the fold and the landing keeps the edits", async 
 
   expect(carried(root)).toEqual([ONE])
   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+})
+
+test("the fold hands the landing the merge the checks judged", async () => {
+  const root = await repo()
+  await committing(root, NOTES, THREE)
+  const row = writing(NOTES, THREE, MINE)
+  appendEdits(root, PAGE, [row])
+  await committing(root, NOTES, FOUR)
+  const judged = rebasedRows(root, baseOf(root), [row])
+  if ("why" in judged) throw new Error(judged.why)
+
+  const said = landing(root, folding(root, PAGE))
+
+  expect(said).toBe(BOTH)
+  expect(said).toBe(TEXT.decode(judged.held.get(NOTES)?.body ?? new Uint8Array()))
+})
+
+test("a fold over a row nothing moved under hands the body that row states", async () => {
+  const root = await repo()
+  await committing(root, NOTES, THREE)
+  const row = writing(NOTES, THREE, MINE)
+  appendEdits(root, PAGE, [row])
+
+  expect(landing(root, folding(root, PAGE))).toBe(MINE)
 })
 
 test("a row appended while the apply ran is left where the folded rows go", async () => {
@@ -178,7 +226,7 @@ test("a patch the agent already holds takes the folded edits in", async () => {
   const row = writing(ONE, WAS, NOW)
   appendEdits(root, PAGE, [row])
 
-  expect(folding(root, PAGE)).toEqual({
+  expect(foldOf(folding(root, PAGE))).toEqual({
     folded: [ONE],
     dropped: [],
     unfold: { patch: was, rows: [row] },
@@ -191,7 +239,7 @@ test("a fold over no row leaves the patch as that patch is", async () => {
   const root = await repo()
   drafted(root, PAGE, [{ path: TWO, was: null, body: BYTES.encode(NOW) }])
 
-  expect(folding(root, PAGE)).toEqual({ folded: [], dropped: [], unfold: null })
+  expect(foldOf(folding(root, PAGE))).toEqual({ folded: [], dropped: [], unfold: null })
 
   expect(carried(root)).toEqual([TWO])
 })
@@ -200,7 +248,7 @@ test("a row for a body written again on every apply is dropped and named", async
   const root = await repo()
   appendEdits(root, PAGE, [writing(MAPPED, WAS, NOW)])
 
-  expect(folding(root, PAGE)).toEqual({ folded: [], dropped: [MAPPED], unfold: null })
+  expect(foldOf(folding(root, PAGE))).toEqual({ folded: [], dropped: [MAPPED], unfold: null })
 
   expect(editsIn(root, PAGE)).toEqual({ rows: [] })
   expect(patchIn(root, PAGE)).toBe(null)

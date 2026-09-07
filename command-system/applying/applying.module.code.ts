@@ -25,7 +25,9 @@ import {
   APPLIED,
   type Bodies,
   droppedPatch,
-  rebasedOnto,
+  heldIn,
+  type Running,
+  rebasedHeld,
   runningIn,
 } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
@@ -78,7 +80,8 @@ export function noneSaid(root: string, page: string): string {
 export async function applying(
   given: Given,
   page: string,
-  argv: readonly string[]
+  argv: readonly string[],
+  carried: Carried | null = null
 ): Promise<Answer> {
   const unknown = unknownIn(argv, APPLYING, BARE)
   if (unknown.length > 0) return mistaking(unknown)
@@ -87,7 +90,9 @@ export async function applying(
   const glass = glassIn(argv, APPLYING)
   if ("refusals" in glass) return mistaking(glass.refusals)
   const broken = glass.glass
-  if (patchIn(given.root, page) === null) return mistaking([noneSaid(given.root, page)])
+  if (carried === null && patchIn(given.root, page) === null) {
+    return mistaking([noneSaid(given.root, page)])
+  }
   const built = gateBuilt(given.root)
   if (broken === null && !("gate" in built)) {
     return { report: [], refusals: [`the checks would not load — ${built.broken}`], code: 3 }
@@ -98,7 +103,16 @@ export async function applying(
   const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
   const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
   try {
-    const said = await applied(given.root, page, given.agentId, why, gate, given.writer)
+    const said = await applied(
+      given.root,
+      page,
+      given.agentId,
+      why,
+      gate,
+      given.writer,
+      [],
+      carried
+    )
     if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
     return {
       report: [
@@ -116,6 +130,13 @@ export async function applying(
   } catch (thrown) {
     return { report: [], refusals: [`nothing was committed — ${whyOf(thrown)}`], code: 3 }
   }
+}
+
+export type Carried = { readonly held: Bodies; readonly running: Running }
+
+function carriedIn(root: string, page: string): Carried | null {
+  const patch = patchIn(root, page)
+  return patch === null ? null : { held: heldIn(root, patch), running: runningIn(patch) }
 }
 
 export type Applied = {
@@ -171,14 +192,15 @@ export async function applied(
   message: string,
   judging: Judging,
   writer: string | null = null,
-  carries: readonly FileCarry[] = []
+  carries: readonly FileCarry[] = [],
+  carried: Carried | null = null
 ): Promise<Applied | Refused> {
   const at = patchAt(page)
   if (at === null) return { refusals: [NO_PAGE] }
-  const patch = patchIn(root, page)
-  if (patch === null) return { refusals: [NO_PATCH] }
+  const holding = carried ?? carriedIn(root, page)
+  if (holding === null) return { refusals: [NO_PATCH] }
   const head = gitSaid(root, ["rev-parse", "HEAD"]).trim()
-  const said = rebasedOnto(root, head, patch)
+  const said = rebasedHeld(root, head, holding.held)
   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
   if (said.clashed.length > 0) {
     return {
@@ -188,7 +210,7 @@ export async function applied(
       ],
     }
   }
-  const running = runningIn(patch)
+  const running = holding.running
   const gate = running.checks ? judging : NO_GATE
   const said0 = running.checks ? message : bypassedIn(message, noCheckSaid(MECHANICAL.slug))
   const prepared = preparing(root, head, editsOf(said.held))

@@ -74,7 +74,12 @@ export type Draft = {
   readonly readersOweReading?: boolean
 }
 
-export type Kept = { readonly patch: string | null; readonly clashed: readonly string[] }
+export type Kept = {
+  readonly patch: string | null
+  readonly clashed: readonly string[]
+  readonly held: Bodies
+  readonly running: Running
+}
 
 export type Drafted = Kept | { readonly why: string }
 
@@ -164,7 +169,7 @@ function carriedIn(patch: string): ReadonlySet<string> {
   return held
 }
 
-function heldIn(root: string, patch: string | null): Held {
+export function heldIn(root: string, patch: string | null): Held {
   const held: Held = new Map()
   if (patch === null) return held
   const whole = linesIn(patch).includes(NOT_STALED_AT)
@@ -318,11 +323,11 @@ function keptFrom(root: string, at: string, head: string, held: Held, running: R
   const clashed = clashedIn(held)
   if (next === "") {
     dropBlobs(root, at)
-    return { patch: null, clashed }
+    return { patch: null, clashed, held, running }
   }
   const text = `${preambleOf(running, held)}${next}`
   keepBlobs(root, at, text)
-  return { patch: text, clashed }
+  return { patch: text, clashed, held, running }
 }
 
 export function drafted(
@@ -369,7 +374,10 @@ export function tookIn(root: string, page: string, from: string): Drafted {
   const at = patchAt(from)
   if (at === null) return { why: NO_PAGE }
   const theirs = patchIn(root, from)
-  if (theirs === null) return { patch: patchIn(root, page), clashed: [] }
+  if (theirs === null) {
+    const mine = patchIn(root, page)
+    return { patch: mine, clashed: [], held: heldIn(root, mine), running: runningIn(mine) }
+  }
   const said = rebasedOnto(root, headOf(root), theirs)
   if ("why" in said) return said
   const took = drafted(root, page, draftsOf(said.held), runningIn(theirs))

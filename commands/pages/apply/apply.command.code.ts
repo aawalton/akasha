@@ -9,7 +9,7 @@ import {
   keptEdits,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { writtenAgain } from "../../../command-system/address-mapping/address-mapping.module.code.ts"
-import { applying } from "../../../command-system/applying/applying.module.code.ts"
+import { applying, type Carried } from "../../../command-system/applying/applying.module.code.ts"
 import { BREAK_GLASS, mistaking } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { waitingSaid } from "../../../command-system/change-acting/change-acting.module.code.ts"
@@ -49,6 +49,7 @@ export type Folded =
       readonly folded: readonly string[]
       readonly dropped: readonly string[]
       readonly unfold: Unfold | null
+      readonly carried: Carried | null
     }
   | { readonly refusals: readonly string[] }
 
@@ -81,7 +82,7 @@ export function draftsOf(edits: readonly Edit[]): readonly Draft[] {
 }
 
 export function folding(root: string, page: string): Folded {
-  let answer: Folded = { folded: [], dropped: [], unfold: null }
+  let answer: Folded = { folded: [], dropped: [], unfold: null, carried: null }
   const kept = keptEdits(root, page, (had) => {
     if (had.length === 0) return had
     const held = had.filter((one) => !writtenAgain(one.path))
@@ -89,7 +90,7 @@ export function folding(root: string, page: string): Folded {
       ...new Set(had.filter((one) => writtenAgain(one.path)).map((one) => one.path)),
     ].sort()
     if (held.length === 0) {
-      answer = { folded: [], dropped, unfold: null }
+      answer = { folded: [], dropped, unfold: null, carried: null }
       return null
     }
     const said = foldedIn(held)
@@ -107,6 +108,7 @@ export function folding(root: string, page: string): Folded {
       folded: said.edits.map((one) => one.path).sort(),
       dropped,
       unfold: { patch: was, rows: had },
+      carried: { held: took.held, running: took.running },
     }
     return had
   })
@@ -195,7 +197,7 @@ export async function apply(argv: readonly string[], given: Given): Promise<Answ
   }
   const said = folding(given.root, page)
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
-  const answered = await applying(given, page, argv)
+  const answered = await applying(given, page, argv, said.carried)
   const put = said.unfold === null ? null : undone(given.root, page, said.unfold)
   if (put !== null) return { report: [put], refusals: answered.refusals, code: answered.code }
   return {

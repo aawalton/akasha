@@ -106,6 +106,24 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A draft answers the bodies that draft leaves beside the patch drawing the bodies.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body answered carries as its base the body the drafting change was worked out from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The patch carries as its base the body the commit at HEAD holds instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing handed the bodies merges from the base the drafting change read.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A draft says which paths the patch carries a conflict at.",
     },
     {
