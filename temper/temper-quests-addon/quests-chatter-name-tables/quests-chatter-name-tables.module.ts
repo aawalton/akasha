@@ -9,7 +9,7 @@ export const questsChatterNameTables = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each name is read from the globals one at a time.",
+      statement: "Each name is read from the globals on its own.",
     },
     {
       invariantKind: "absence",

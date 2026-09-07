@@ -17,6 +17,7 @@
     "./quests-entry": "./quests-entry/quests-entry.module.code.ts"
   },
   "dependencies": {
+    "@akasha/code-system": "workspace:@akasha/code@*",
     "@akasha/temper-addon-init": "workspace:*",
     "@akasha/temper-addon-library-types": "workspace:*",
     "@akasha/temper-quests-trace": "workspace:*",

@@ -2633,6 +2633,7 @@
     "temper/temper-quests-addon": {
       "name": "@akasha/temper-quests-addon",
       "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-quests-trace": "workspace:*",
