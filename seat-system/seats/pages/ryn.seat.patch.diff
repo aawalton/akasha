@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-scrollable-menu/scrollable-menu-constants-core/scrollable-menu-constants-core.module.ts b/temper/temper-lib-scrollable-menu/scrollable-menu-constants-core/scrollable-menu-constants-core.module.ts
+index 8ee323a952711b475ebaa853d63225c91cdc15af..22043d8d2efa472675bf4028f705557752c8dd8b 100644
+--- a/temper/temper-lib-scrollable-menu/scrollable-menu-constants-core/scrollable-menu-constants-core.module.ts
++++ b/temper/temper-lib-scrollable-menu/scrollable-menu-constants-core/scrollable-menu-constants-core.module.ts
+@@ -17,7 +17,7 @@ export const scrollableMenuConstantsCore = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The debug table is created here with both debug switches off.",
++      statement: "The debug table is created here with the two debug switches off.",
+     },
+     {
+       invariantKind: "constraint",
