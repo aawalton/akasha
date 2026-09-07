@@ -1263,6 +1263,65 @@ index 77a163bbe2d00530c222a08c1c5853b87d4eb18d..8cb40a544d2558561794fb01cd02c74a
  export function namingIn(contacts: readonly Contact[]): NameFor {
    return nameFor({ buildNameIndex, handleKey }, contacts)
  }
+diff --git a/imessage/commands/imessage-command-reading/imessage-command-reading.module.test.ts b/imessage/commands/imessage-command-reading/imessage-command-reading.module.test.ts
+index de20350fd2a925806c2f32146f9d31fd754c90a0..6c659b94a1063fdb9dc239aed27dfec2f6d1098f 100644
+--- a/imessage/commands/imessage-command-reading/imessage-command-reading.module.test.ts
++++ b/imessage/commands/imessage-command-reading/imessage-command-reading.module.test.ts
+@@ -1,5 +1,5 @@
+ import { describe, expect, test } from "bun:test"
+-import type { ImessageMessage } from "../../chat-db/chat-db.module.code.ts"
++import { message } from "../../message-lines/message-lines.module.test-fixtures.ts"
+ import {
+   countOf,
+   JSON_SAID,
+@@ -7,7 +7,6 @@ import {
+   LIMIT_SAID,
+   messageLines,
+   namingIn,
+-  wordFilling,
+   wordsIn,
+ } from "./imessage-command-reading.module.code.ts"
+ 
+@@ -21,20 +20,6 @@ function said(argv: readonly string[]) {
+   return read
+ }
+ 
+-function message(over: Partial<ImessageMessage>): ImessageMessage {
+-  return {
+-    rowid: 1,
+-    guid: "g",
+-    text: "hi",
+-    isFromMe: false,
+-    unixSeconds: 0,
+-    handleId: null,
+-    chatIdentifier: null,
+-    chatDisplayName: null,
+-    ...over,
+-  }
+-}
+-
+ describe("wordsIn", () => {
+   test("reads a value, a switch and a loose word", () => {
+     const read = said(["--contact", "mary", JSON_SAID, "sleep"])
+@@ -64,18 +49,6 @@ describe("wordsIn", () => {
+   })
+ })
+ 
+-describe("wordFilling", () => {
+-  test("takes the loose word where the flag is unsaid", () => {
+-    expect(wordFilling(said(["sleep"]), "--query", "what to search for")).toBe("sleep")
+-  })
+-
+-  test("refuses the same thing said twice over", () => {
+-    const read = wordsIn(["--contact", "mary", "mary"], VALUED, SWITCHES)
+-    if ("refused" in read) throw new Error("this reads")
+-    expect(wordFilling(read, "--contact", "a contact")).toHaveProperty("refused")
+-  })
+-})
+-
+ describe("countOf", () => {
+   test("takes a whole number above zero", () => {
+     expect(countOf("5", LIMIT_SAID)).toBe(5)
 diff --git a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
 index 1ff4a75da40c3bef63e6f5803d37de246652cd20..ce19840fdf8ec6fe485aaea3da3540d142f65c8a 100644
 --- a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
@@ -1279,6 +1338,69 @@ index 1ff4a75da40c3bef63e6f5803d37de246652cd20..ce19840fdf8ec6fe485aaea3da3540d1
      {
        invariantKind: "absence",
        statement: "Nothing here prints.",
+diff --git a/imessage/message-lines/message-lines.module.test-fixtures.ts b/imessage/message-lines/message-lines.module.test-fixtures.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6260c8c1ad1c86cac2c4ee56e11dd7d54562f07b
+--- /dev/null
++++ b/imessage/message-lines/message-lines.module.test-fixtures.ts
+@@ -0,0 +1,15 @@
++import type { ImessageMessage } from "../chat-db/chat-db.module.code.ts"
++
++export function message(over: Partial<ImessageMessage>): ImessageMessage {
++  return {
++    rowid: 1,
++    guid: "g",
++    text: "hi",
++    isFromMe: false,
++    unixSeconds: 0,
++    handleId: null,
++    chatIdentifier: null,
++    chatDisplayName: null,
++    ...over,
++  }
++}
+diff --git a/imessage/message-lines/message-lines.module.test.ts b/imessage/message-lines/message-lines.module.test.ts
+index 5b7abab23de8ca9626ad1296675e85cb8f5e0a12..e6d1e2e06f7d088f73928c12bb13152081d1dab4 100644
+--- a/imessage/message-lines/message-lines.module.test.ts
++++ b/imessage/message-lines/message-lines.module.test.ts
+@@ -1,24 +1,10 @@
+ import { describe, expect, test } from "bun:test"
+-import type { ImessageMessage } from "../chat-db/chat-db.module.code.ts"
+ import { buildNameIndex, handleKey } from "../contacts-db/contacts-db.module.code.ts"
+ import { messageLabel, nameFor, singleLine } from "./message-lines.module.code.ts"
++import { message } from "./message-lines.module.test-fixtures.ts"
+ 
+ const CONTACTS = [{ name: "Alan", phones: ["+1 555 010 2030"], emails: ["alan@example.com"] }]
+ 
+-function message(over: Partial<ImessageMessage>): ImessageMessage {
+-  return {
+-    rowid: 1,
+-    guid: "g",
+-    text: "hi",
+-    isFromMe: false,
+-    unixSeconds: 0,
+-    handleId: null,
+-    chatIdentifier: null,
+-    chatDisplayName: null,
+-    ...over,
+-  }
+-}
+-
+ describe("nameFor", () => {
+   const name = nameFor({ buildNameIndex, handleKey }, CONTACTS)
+ 
+diff --git a/imessage/message-lines/message-lines.module.ts b/imessage/message-lines/message-lines.module.ts
+index fd898be82831536bf3e39e10a7e9a5b88ec54335..ff936a72e4bd221236a1223a5e8822be2dcdb85c 100644
+--- a/imessage/message-lines/message-lines.module.ts
++++ b/imessage/message-lines/message-lines.module.ts
+@@ -7,6 +7,7 @@ export const messageLines = {
+   definition: "a run of iMessage rows written out as tab-parted lines or as one JSON array",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/inference/clients/inference-clients.workspace-package.ts b/inference/clients/inference-clients.workspace-package.ts
 index 06c84fd9f74ed459354a0daede7e578a54a1b3cf..62b1734fdeec5132dddaf54202f418dd0d35f0d8 100644
 --- a/inference/clients/inference-clients.workspace-package.ts
@@ -2230,3 +2352,42 @@ index ff6cdf49666b746fe95d8a11669ae41fb959794e..0fbbb097a62a87620f730f06cfcb1a42
 -    return faulted(thrown)
 -  }
 -}
+diff --git a/sms-core/commands/sms-command-reading/sms-command-reading.module.test.ts b/sms-core/commands/sms-command-reading/sms-command-reading.module.test.ts
+index 48ec5a87772c2d3fb8c151fb2966137907e942e4..3b2fb9aafd6323c03a68bc9d50a4939bea0f41dc 100644
+--- a/sms-core/commands/sms-command-reading/sms-command-reading.module.test.ts
++++ b/sms-core/commands/sms-command-reading/sms-command-reading.module.test.ts
+@@ -1,14 +1,8 @@
+ import { describe, expect, test } from "bun:test"
+ import type { Given } from "@akasha/command-system/calling"
+-import {
+-  filing,
+-  JSON_SAID,
+-  proseIn,
+-  wordFilling,
+-  wordsIn,
+-} from "./sms-command-reading.module.code.ts"
++import { JSON_SAID, proseIn, wordsIn } from "./sms-command-reading.module.code.ts"
+ 
+-const TEXT = filing("--text")
++const TEXT = { said: "--text", file: "--text-file" }
+ 
+ const VALUED = ["--to", TEXT.said, TEXT.file]
+ 
+@@ -45,17 +39,6 @@ describe("wordsIn", () => {
+   })
+ })
+ 
+-describe("wordFilling", () => {
+-  test("takes the loose word where the flag is unsaid", () => {
+-    expect(wordFilling(said(["+18015551234"]), "--to", "who it goes to")).toBe("+18015551234")
+-  })
+-
+-  test("refuses the same thing said both ways", () => {
+-    const read = said(["--to", "+1801", "+1802"])
+-    expect("refused" in Object(wordFilling(read, "--to", "who it goes to"))).toBe(true)
+-  })
+-})
+-
+ describe("proseIn", () => {
+   test("takes the body said at its flag", () => {
+     expect(proseIn(GIVEN, said([TEXT.said, "hello"]), TEXT)).toEqual({ text: "hello" })
