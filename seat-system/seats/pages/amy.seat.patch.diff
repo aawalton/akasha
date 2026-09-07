@@ -1,0 +1,13 @@
+diff --git a/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts b/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts
+index 6202f3331c9ad01ba5cc5f63c3bea6f848aed0c4..5598d22e8412a2ea7c9cddc63b2810cc3fd07a6f 100644
+--- a/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts
++++ b/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts
+@@ -10,7 +10,7 @@ export const upkeepSurplus = {
+   label: "Surplus",
+   unit: "hours",
+   place: 2,
+-  figureFormat: "decimal",
++  figureFormat: "integer",
+   scaleSlug: "surplus-hours",
+   groupSlugs: ["upkeep", "surplus"],
+   wireKey: "surplus",
