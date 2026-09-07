@@ -9,6 +9,7 @@
     "./dom-guard-setting": "./dom-guard-setting/dom-guard-setting.module.code.ts",
     "./dom-registering": "./dom-registering/dom-registering.module.code.ts",
     "./minting": "./minting/minting.module.code.ts",
+    "./page-holding": "./page-holding/page-holding.module.code.ts",
     "./putting": "./putting/putting.module.code.ts",
     "./waiting": "./waiting/waiting.module.code.ts",
     "./walking": "./walking/walking.module.code.ts"

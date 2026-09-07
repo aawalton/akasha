@@ -1,10 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  ARRIVES,
-  CODE,
-  HOLDER,
-  TARGET,
-} from "../../../../command-system/commands/move/move.command.test-fixtures.ts"
+import { ARRIVES, CODE, HOLDER, TARGET } from "@akasha/testing-system/page-holding"
 import { renameImports } from "./rename-imports.change-mechanical.code.ts"
 
 const TABLE = "akasha/one/routes.ts"
