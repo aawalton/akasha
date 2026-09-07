@@ -66,7 +66,6 @@ export const commandSystem = {
     "module/command-flags",
     "module/said-pathing",
     "module/warrant-owing",
-    "module/passage-counting",
     "module/file-arguing",
     "module/mechanical-filing",
     "module/change-acting",
