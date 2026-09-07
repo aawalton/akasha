@@ -41,3 +41,8 @@ export type Answer = {
   readonly edits: readonly Edit[]
   readonly refused: string | null
 }
+
+export type Said = {
+  readonly edits: readonly (Edit | Stated)[]
+  readonly refused: string | null
+}
