@@ -1,5 +1,5 @@
 diff --git a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
-index d943ed5692a40c1a4167c6641a679ea03dec361e..9cee3acea44899d1580d7c4cb95b5379c55bac4b 100644
+index d943ed5692a40c1a4167c6641a679ea03dec361e..905928b9c00b0a9250abcdafa9f656f9e0c4561e 100644
 --- a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
 +++ b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
 @@ -35,8 +35,11 @@ export const rulePopulationSweeping = {
@@ -13,6 +13,20 @@ index d943ed5692a40c1a4167c6641a679ea03dec361e..9cee3acea44899d1580d7c4cb95b5379
 +    {
 +      invariantKind: "departure",
 +      statement: "The call stays a person's.",
+     },
+     {
+       invariantKind: "departure",
+@@ -44,8 +47,11 @@ export const rulePopulationSweeping = {
+     },
+     {
+       invariantKind: "absence",
+-      statement:
+-        "No graph cache is read, so the population is the repository as that repository now is.",
++      statement: "No graph cache is read.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The population is the repository as that repository now is.",
      },
      {
        invariantKind: "departure",
