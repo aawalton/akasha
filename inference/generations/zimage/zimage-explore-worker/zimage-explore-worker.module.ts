@@ -26,7 +26,11 @@ export const zimageExploreWorker = {
     },
     {
       invariantKind: "departure",
-      statement: "One render runs at a time, since one inference runs at a time.",
+      statement: "One render runs at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One inference runs at a time.",
     },
     {
       invariantKind: "departure",
@@ -34,8 +38,11 @@ export const zimageExploreWorker = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A prompt file is claimed before that file is rendered, so no retraction double-runs that file.",
+      statement: "A prompt file is claimed before that file is rendered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No retraction double-runs a claimed file.",
     },
     {
       invariantKind: "departure",
