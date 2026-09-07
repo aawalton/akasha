@@ -21,7 +21,7 @@ export const LINE = "--line"
 
 const RENAME_EXPORT = "change-mechanical-code/rename-export"
 
-const RENAME_LOCAL_VARIABLE = "change-mechanical/rename-local-variable"
+const RENAME_LOCAL_VARIABLE = "change-mechanical-code/rename-local-variable"
 
 const AT = "at"
 

@@ -1,8 +1,8 @@
-import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+import type { ChangeMechanicalCode } from "../../code/change-mechanical-code.page-type.ts"
 
 export const renameLocalVariable = {
   id: "01a07718-c9b5-7a1b-822f-308aef9ac22a",
-  pageTypeSlug: "change-mechanical",
+  pageTypeSlug: "change-mechanical-code",
   slug: "rename-local-variable",
   definition: "the change spelling a local binding and its references anew in one file",
   code: "ts",
@@ -20,4 +20,4 @@ export const renameLocalVariable = {
       statement: "The path a change acts on is named `at` wherever a change is reached.",
     },
   ],
-} as const satisfies ChangeMechanical
+} as const satisfies ChangeMechanicalCode

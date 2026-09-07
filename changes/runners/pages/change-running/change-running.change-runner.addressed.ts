@@ -2,6 +2,9 @@ export type Changes = {
   "change-mechanical-code/rename-export": Parameters<
     typeof import("../../../mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts")["runChange"]
   >[1]
+  "change-mechanical-code/rename-local-variable": Parameters<
+    typeof import("../../../mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical-code.code.ts")["runChange"]
+  >[1]
   "change-mechanical-data/rename-page-slug": Parameters<
     typeof import("../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts")["runChange"]
   >[1]
@@ -64,9 +67,6 @@ export type Changes = {
   >[1]
   "change-mechanical/rename-imports": Parameters<
     typeof import("../../../mechanical/pages/rename-imports/rename-imports.change-mechanical.code.ts")["runChange"]
-  >[1]
-  "change-mechanical/rename-local-variable": Parameters<
-    typeof import("../../../mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.code.ts")["runChange"]
   >[1]
   "change-mechanical/rename-manifest-ways": Parameters<
     typeof import("../../../mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.code.ts")["runChange"]

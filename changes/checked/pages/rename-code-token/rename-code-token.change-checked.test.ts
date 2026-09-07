@@ -8,7 +8,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts"
-import { runChange as renameLocalVariable } from "../../../mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.code.ts"
+import { runChange as renameLocalVariable } from "../../../mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical-code.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { renameCodeToken } from "./rename-code-token.change-checked.code.ts"
@@ -34,7 +34,7 @@ function worldIn(root: string, textOf: (path: string) => string | null): World {
     if (at === "change-mechanical-code/rename-export") {
       return await renameExport(world, given as Parameters<typeof renameExport>[1])
     }
-    if (at === "change-mechanical/rename-local-variable") {
+    if (at === "change-mechanical-code/rename-local-variable") {
       return renameLocalVariable(world, given as Parameters<typeof renameLocalVariable>[1])
     }
     return refusing(`\`${at}\` is reached by nothing here`)
@@ -159,5 +159,5 @@ test("a local name is handed to the change reached at the local address", async 
 
   await renameCodeToken(world, { at: LOCAL, of: "kept", to: CARRIED })
 
-  expect(reached).toEqual(["change-mechanical/rename-local-variable"])
+  expect(reached).toEqual(["change-mechanical-code/rename-local-variable"])
 })
