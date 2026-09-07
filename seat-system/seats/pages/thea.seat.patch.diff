@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.ts
+diff --git a/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.ts b/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.ts
+index 4bf32d53025a925a221e3190e47fc654a40bca68..cb74d67a42a8ec3b3659a92dbb772e4eb63a3e8c 100644
+--- a/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.ts
++++ b/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.ts
+@@ -8,7 +8,7 @@ export const noIndexPathSpelled = {
+     "the check refusing a file outside the indexes folder that spells a path into the index",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
