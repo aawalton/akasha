@@ -10,7 +10,7 @@ export const watcherSettingsEquipment = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Characters and companions come back ordered by the sort order each carries.",
+      statement: "Characters and companions come back ordered by the sort order each row carries.",
     },
     {
       invariantKind: "departure",
