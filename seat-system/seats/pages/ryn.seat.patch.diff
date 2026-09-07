@@ -1,0 +1,17 @@
+diff --git a/machines/provisioning/provisioned-files/provisioned-file.page-type.ts b/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
+index 395ddad7c3f2db2c219a27281da9de52c205a5e5..8e8e8f7686c50b8b7ad2d308ff114f5b714d2faa 100644
+--- a/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
++++ b/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
+@@ -78,7 +78,11 @@ export const provisionedFile = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here places a file; a page only says where the file goes.",
++      statement: "Nothing here places a file.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A page only says where a file goes.",
+     },
+   ],
+ } as const satisfies PageType
