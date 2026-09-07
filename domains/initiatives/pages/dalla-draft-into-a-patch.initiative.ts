@@ -62,6 +62,6 @@ export const dallaDraftIntoAPatch = {
     "Alan settles each block's shape before it lands.",
     "A mechanical change is landed by a change page rather than by the command that page replaces.",
     "A change page takes no dry run.",
-    "The patch a draft keeps is the dry run.",
+    "The edits a draft keeps are the dry run.",
   ],
 } as const satisfies Initiative
