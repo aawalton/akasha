@@ -8,11 +8,6 @@ export const auraHarnessDrive = {
   personaSlug: "aura",
   intents: [
     {
-      statement: "Both stoplight sets draw as widgets in Alan's native app.",
-      workingMemory:
-        "The widget, its feed at /api/attribute-stoplights, the readout-widget page and the bundle entry naming AttributeStoplightsWidget are all on origin/main. The akasha migration closed on 2026-09-04 and its bar on pushing went with it; `akasha push` is the route, and `git push` stays refused for a reason the hook now states on its own. What is left is a build and an upload, and whether the tile reaches Alan's phone is unverified.",
-    },
-    {
       statement: "Every attribute carries its lifetime points and the level those points reach.",
       workingMemory:
         "lifetimePoints is declared on all seven pages, reads 0, and is written by nothing. attributes-totalling sums wake-days from ATTRIBUTES_COUNTED_FROM 2026-09-06 afresh on every call and keeps nothing, under its own invariant `No total is kept beside a readout`, which contradicts this intent and is Alan's call to settle. attributes-levelling yields the rungs 10, 20, 40, 70, 120, 200, 330, 540, and only `akasha measure attributes` shows a level.",
