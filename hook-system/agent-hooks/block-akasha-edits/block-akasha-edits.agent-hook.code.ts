@@ -1,4 +1,4 @@
-import { basename, join, resolve } from "node:path"
+import { resolve } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 import { dataAt, dataIn } from "@akasha/file-system/data-place"
 import { asRecord } from "@akasha/utils-narrow/as-record"
@@ -11,10 +11,6 @@ const HOOK_NAME = "block-akasha-edits"
 const UNREADABLE = 5
 
 const REFUSED = 2
-
-const HOLD = "/var/tmp"
-
-const UNNAMED = "unnamed"
 
 const WRITE = "Write"
 
@@ -67,10 +63,6 @@ export type Guarded = {
   readonly index: string
 }
 
-export function holdingIn(agentId: string): string {
-  return join(HOLD, agentId.trim() === "" ? UNNAMED : agentId.trim())
-}
-
 export function guardedIn(root: string): Guarded {
   return { pages: settled(root), index: settled(dataIn(root)) }
 }
@@ -93,7 +85,7 @@ export function askedIn(raw: string): Asked | null {
   }
 }
 
-function refusingPages(toolName: string, shown: string, name: string, held: string): string {
+function refusingPages(toolName: string, shown: string): string {
   if (toolName === NOTEBOOK_EDIT) {
     return [
       `${HOOK_NAME}: NotebookEdit lands on \`${shown}\`, inside this checkout.`,
@@ -102,19 +94,26 @@ function refusingPages(toolName: string, shown: string, name: string, held: stri
   }
   const commands = "The akasha commands write this checkout — they check the change and commit it."
   const why = '--message "<what this change is for>"'
-  const bound = `nothing outside this checkout is refused here, and \`${HOLD}\` is outside it.`
   if (toolName === EDIT) {
-    const was = join(held, `${HOOK_NAME}-${name}.old`)
-    const now = join(held, `${HOOK_NAME}-${name}.new`)
     return [
       `${HOOK_NAME}: Edit lands on \`${shown}\`, inside this checkout.`,
       commands,
       "",
-      `Put the text you are replacing in ${was}, and the text replacing it in ${now}, then run:`,
+      "Pipe the passage being replaced and the passage replacing it into the change:",
       "",
-      `  akasha edit --file-path ${shown} --old-file ${was} --new-file ${now} ${why}`,
+      "akasha change change-file <<'ARGS'",
+      `at: ${shown}`,
+      "old ---",
+      "<the passage being replaced>",
+      "---",
+      "new ---",
+      "<the passage replacing it>",
+      "---",
+      "ARGS",
       "",
-      `Use Write for those two files — ${bound}`,
+      `  akasha apply ${why}`,
+      "",
+      "A passage ending mid-line opens with `old --- no-newline`, because a heredoc adds one.",
     ].join("\n")
   }
   return [
@@ -145,12 +144,7 @@ function refusingIndex(toolName: string, shown: string): string {
   ].join("\n")
 }
 
-export function refusalFor(
-  asked: Asked,
-  root: string,
-  fallback: string,
-  held: string
-): string | null {
+export function refusalFor(asked: Asked, root: string, fallback: string): string | null {
   if (!JUDGED.includes(asked.toolName)) return null
   if (asked.filePath.trim() === "") return null
   const from = asked.from === "" ? fallback : asked.from
@@ -158,9 +152,7 @@ export function refusalFor(
   const here = settled(root)
   const guarded = guardedIn(here)
   if (insideOf(guarded.index, at)) return refusingIndex(asked.toolName, shownIn(here, at))
-  if (insideOf(guarded.pages, at)) {
-    return refusingPages(asked.toolName, shownIn(here, at), basename(at), held)
-  }
+  if (insideOf(guarded.pages, at)) return refusingPages(asked.toolName, shownIn(here, at))
   return null
 }
 
@@ -178,12 +170,7 @@ async function main(): Promise<number> {
     )
     return UNREADABLE
   }
-  const said = refusalFor(
-    asked,
-    rootOf(import.meta.path),
-    process.cwd(),
-    holdingIn(process.env["AGENT_ID"] ?? "")
-  )
+  const said = refusalFor(asked, rootOf(import.meta.path), process.cwd())
   if (said === null) return 0
   process.stderr.write(`${said}\n`)
   process.stdout.write(`${JSON.stringify({ decision: "block", reason: said }, null, 2)}\n`)

@@ -25,7 +25,7 @@ const PUT_BACK = [
 
 const TAKE_AWAY = [
   "To take a file away:",
-  "  under `akasha/`:  akasha remove",
+  "  under `akasha/`:  akasha change remove-page or remove-file, then akasha apply",
   '  anywhere else:    rm <path> && git commit -m "<why>" -- <path>',
   HELP,
 ]

@@ -80,7 +80,7 @@ test("a refusal over a body says the worktree is shared, not that the file is ak
 
 test("a refusal over a deletion names a route inside akasha and a route outside it", () => {
   const said = refusalIn("git rm akasha/one.ts") ?? ""
-  expect(said).toContain("under `akasha/`:  akasha remove")
+  expect(said).toContain("under `akasha/`:  akasha change remove-page or remove-file")
   expect(said).toContain('anywhere else:    rm <path> && git commit -m "<why>" -- <path>')
   expect(said).toContain("This worktree is shared")
 })
@@ -169,7 +169,7 @@ test("a read is stood aside from", () => {
 
 test("an akasha command stands aside, whatever act its words carry", () => {
   expect(refusalIn('akasha apply --message "reset the thing"')).toBeNull()
-  expect(refusalIn("akasha remove --file-path akasha/one.ts")).toBeNull()
+  expect(refusalIn("akasha change remove-page")).toBeNull()
 })
 
 test("a command that is not git carrying a named act stands aside", () => {

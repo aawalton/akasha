@@ -6,7 +6,7 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { dataAt } from "@akasha/file-system/data-place"
 import { ran } from "@akasha/utils-run/running"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
-import { askedIn, holdingIn, refusalFor, SCOPE } from "./block-akasha-edits.agent-hook.code.ts"
+import { askedIn, refusalFor, SCOPE } from "./block-akasha-edits.agent-hook.code.ts"
 
 const HERE = rootOf(import.meta.path)
 
@@ -32,7 +32,7 @@ function asking(toolName: string, filePath: string, from: string) {
 }
 
 function judged(root: string, filePath: string, from = root): string | null {
-  return refusalFor(asking("Write", filePath, from), root, root, HELD)
+  return refusalFor(asking("Write", filePath, from), root, root)
 }
 
 test("every spelling of one path inside akasha is the same refusal", () => {
@@ -74,7 +74,7 @@ test("the repository root reached through a symlink is the same root", () => {
   const root = repo()
   const near = join(realpathSync(scratch.rootFor("block-akasha-edits-link-")), "repo")
   symlinkSync(root, near)
-  const said = refusalFor(asking("Write", "akasha/held.ts", near), near, near, HELD)
+  const said = refusalFor(asking("Write", "akasha/held.ts", near), near, near)
   expect(said).toContain("at: akasha/held.ts")
 })
 
@@ -88,8 +88,8 @@ test("a folder beside the checkout whose name opens with the checkout's own is l
 test("a temp file outside the guarded roots is written as usual", () => {
   const root = repo()
   expect(judged(root, "/var/tmp/block-akasha-edits-body.txt")).toBeNull()
-  expect(refusalFor(asking("Edit", "/var/tmp/held.old", root), root, root, HELD)).toBeNull()
-  expect(refusalFor(asking("Write", "/var/tmp/held.new", "/var/tmp"), root, root, HELD)).toBeNull()
+  expect(refusalFor(asking("Edit", "/var/tmp/held.old", root), root, root)).toBeNull()
+  expect(refusalFor(asking("Write", "/var/tmp/held.new", "/var/tmp"), root, root)).toBeNull()
 })
 
 test("a path under `.git/data` is refused, and names the one repair", () => {
@@ -115,10 +115,8 @@ test("a relative path is resolved against the working directory the call was mad
 
 test("a call stating no working directory falls back to the one given", () => {
   const root = repo()
-  expect(
-    refusalFor(asking("Write", "held.ts", ""), root, join(root, "akasha"), HELD)
-  ).not.toBeNull()
-  expect(refusalFor(asking("Write", "held.ts", ""), root, "/var/tmp", HELD)).toBeNull()
+  expect(refusalFor(asking("Write", "held.ts", ""), root, join(root, "akasha"))).not.toBeNull()
+  expect(refusalFor(asking("Write", "held.ts", ""), root, "/var/tmp")).toBeNull()
 })
 
 test("a call carrying no path is stood aside", () => {
@@ -128,18 +126,8 @@ test("a call carrying no path is stood aside", () => {
 
 test("a tool this hook does not name is stood aside", () => {
   const root = repo()
-  expect(refusalFor(asking("Read", "akasha/held.ts", root), root, root, HELD)).toBeNull()
-  expect(refusalFor(asking("Bash", "akasha/held.ts", root), root, root, HELD)).toBeNull()
-})
-
-test("the body a write is staged in sits under the agent's own folder", () => {
-  expect(holdingIn("01a0-seat")).toBe("/var/tmp/01a0-seat")
-  expect(holdingIn("  01a0-seat  ")).toBe("/var/tmp/01a0-seat")
-})
-
-test("an agent that states no name is held apart from one that does", () => {
-  expect(holdingIn("")).toBe("/var/tmp/unnamed")
-  expect(holdingIn("   ")).toBe("/var/tmp/unnamed")
+  expect(refusalFor(asking("Read", "akasha/held.ts", root), root, root)).toBeNull()
+  expect(refusalFor(asking("Bash", "akasha/held.ts", root), root, root)).toBeNull()
 })
 
 test("Write names the change carrying a whole body, and the apply landing it", () => {
@@ -155,13 +143,19 @@ test("Write names no file the body is staged in", () => {
   expect(judged(root, "akasha/held.ts")).not.toContain(HELD)
 })
 
-test("Edit names the edit command with both files filled in", () => {
+test("Edit names the change replacing one passage, and the apply landing it", () => {
   const root = repo()
-  const said = refusalFor(asking("Edit", "akasha/held.ts", root), root, root, HELD) ?? ""
-  expect(said).toContain(
-    `akasha edit --file-path akasha/held.ts --old-file ${HELD}/block-akasha-edits-held.ts.old` +
-      ` --new-file ${HELD}/block-akasha-edits-held.ts.new --message "<what this change is for>"`
-  )
+  const said = refusalFor(asking("Edit", "akasha/held.ts", root), root, root) ?? ""
+  expect(said).toContain("akasha change change-file")
+  expect(said).toContain("at: akasha/held.ts")
+  expect(said).toContain("old ---")
+  expect(said).toContain("new ---")
+  expect(said).toContain('akasha apply --message "<what this change is for>"')
+})
+
+test("Edit names no file a passage is staged in", () => {
+  const root = repo()
+  expect(refusalFor(asking("Edit", "akasha/held.ts", root), root, root)).not.toContain(HELD)
 })
 
 test("the refusal names the akasha commands rather than a word for them", () => {
@@ -171,15 +165,9 @@ test("the refusal names the akasha commands rather than a word for them", () => 
   expect(said).not.toContain("the door")
 })
 
-test("the refusal bounds itself by naming what it does not reach", () => {
-  const root = repo()
-  const said = refusalFor(asking("Edit", "akasha/held.ts", root), root, root, HELD) ?? ""
-  expect(said).toContain("nothing outside this checkout is refused here")
-})
-
 test("NotebookEdit is refused plainly, and names no command", () => {
   const root = repo()
-  const said = refusalFor(asking("NotebookEdit", "akasha/one.ipynb", root), root, root, HELD) ?? ""
+  const said = refusalFor(asking("NotebookEdit", "akasha/one.ipynb", root), root, root) ?? ""
   expect(said).toContain("There is no akasha command for a notebook")
   expect(said).not.toContain("akasha write")
   expect(said).not.toContain("akasha edit")
@@ -243,20 +231,6 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
   const said: unknown = JSON.parse(done.out)
   expect(said).toMatchObject({ decision: "block" })
   expect((said as { reason: string }).reason).toContain("at: akasha/")
-})
-
-test("the agent the call came from names the folder the body is staged in", () => {
-  const payload = JSON.stringify({
-    tool_name: "Edit",
-    tool_input: { file_path: "akasha/hook-system/hook-system.domain.ts" },
-    cwd: HERE,
-  })
-  const done = ran(["bun", SCRIPT], {
-    stdin: Buffer.from(payload),
-    env: { ...process.env, AGENT_ID: "01a0-stated" },
-  })
-  expect(done.code).toBe(2)
-  expect(done.err).toContain("/var/tmp/01a0-stated/block-akasha-edits-")
 })
 
 test("the hook stands aside on stdin for a path outside the guarded roots", () => {

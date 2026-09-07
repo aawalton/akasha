@@ -8,8 +8,8 @@ const HOOK = "block-git-writes"
 
 const COMMANDS = [
   "Land akasha content with the akasha commands, which write no body onto the tree by hand:",
-  "  akasha change, akasha apply, akasha edit, akasha move, akasha remove",
-  "Say `akasha --help` for what each takes.",
+  "  akasha change drafts the edits, and akasha apply lands them as one commit",
+  "Say `akasha change --help` for the changes it runs.",
 ]
 
 const EVERY_PATH =
@@ -42,8 +42,8 @@ const OVER_ACTS = new Map<string, readonly string[]>([
       "`git mv` moves a tracked file and stages the move.",
       EVERY_PATH,
       "",
-      "To move an akasha file, use `akasha move`.",
-      "Say `akasha --help` for what it takes.",
+      "To move an akasha file, draft it with `akasha change move-page`, then `akasha apply`.",
+      "Say `akasha change --help` for what that takes.",
     ],
   ],
   [
