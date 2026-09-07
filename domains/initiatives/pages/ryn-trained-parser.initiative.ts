@@ -20,7 +20,7 @@ export const rynTrainedParser = {
     {
       statement: "Every invariant under akasha is written in plain language.",
       workingMemory:
-        "The check runs on patch at be7cce8688, so the count can only fall from here. What is left: 167 lone-pronoun statements, where naming the noun each points at is the rewrite, and the lone-quantifier and lone-determiner residue filed at 8bc1c24312 as parser error no predicate separates. Two statements past the 100-character maximum enumerate members that are no pages, and each retires when its members become pages.",
+        "Every invariant under akasha passes the join gate, the reason gate and the five sentence shapes: 26,108 statements parsed and none refused. What the parser taught the rewrites: a bare `one`, `the rest`, `both`, `each one` and `all` read as quantifiers, and repeating the head noun clears them; the numeral word `one` trips where the digit 1 does not; `any one of` and `every one of` trip as partitive; a thousands separator inside a numeral reads as a comma join.",
     },
   ],
   constraints: [
