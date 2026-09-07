@@ -279,21 +279,6 @@ index 75c6dbd97c64b815322f7a6198512563e08a6c6b..783a32c66f6996496a007f2e1baedd82
      },
      {
        invariantKind: "absence",
-diff --git a/domains/findings/pages/sleep-and-surplus-can-answer-for-no-day-at-all-while-activity-is-honestly-dark.finding.ts b/domains/findings/pages/sleep-and-surplus-can-answer-for-no-day-at-all-while-activity-is-honestly-dark.finding.ts
-index 5eec6e96962a4ba63b8d88a27a7c51307e296a2b..3452306254258b3d3d3760f75e16e554fdc9891e 100644
---- a/domains/findings/pages/sleep-and-surplus-can-answer-for-no-day-at-all-while-activity-is-honestly-dark.finding.ts
-+++ b/domains/findings/pages/sleep-and-surplus-can-answer-for-no-day-at-all-while-activity-is-honestly-dark.finding.ts
-@@ -5,6 +5,10 @@ export const sleepAndSurplusCanAnswerForNoDayAtAllWhileActivityIsHonestlyDark =
-   pageTypeSlug: "finding",
-   slug: "sleep-and-surplus-can-answer-for-no-day-at-all-while-activity-is-honestly-dark",
-   domainSlug: "domain/alan-readouts",
-+<<<<<<< what this change would leave
-+
-+=======
-+>>>>>>> what HEAD holds
-   claim:
-     "Three reading services are in systemd `failed` state and the reason is not the same for all three. Measured over all 135 wake-day pages: `activityIn` answers a number on 77 of them, so activity is honestly dark today and its silence is right. `sleepIn` and `surplusIn` answer on 0 of 135. The keys each reads, `sleep-hours` and `spend-hours`, are present on 0 of 135 days, while the reducers themselves are sighted — seeded rows answer 7.25 and 6. So those two tiles cannot light for any day, past or present, and their exit 2 reports an absent reading where the truth is a reader no data can satisfy. It is not a key-spelling fault: today's row carries 28 keys, 28 kebab and 0 camel, so `kebabisedRow` is doing its work on the day arm. Separately and independently, exit 2 meaning `nothing to report` reaching systemd as `failed` is a signalling mismatch on all eight readings.",
-   evidence:
 diff --git a/pages/shadow/shadow.module.test.ts b/pages/shadow/shadow.module.test.ts
 index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..195f683b0482411431aa460a839f7e117ac24037 100644
 --- a/pages/shadow/shadow.module.test.ts
