@@ -11,6 +11,80 @@ index 696e0e66f1fb4da7f91dc9b15b556a192c36097b..a27677d4026cbdb8ead6a63221cc7fbd
    ],
    invariants: [
      {
+diff --git a/alan/harness/overdue-rolling/overdue-rolling.module.code.ts b/alan/harness/overdue-rolling/overdue-rolling.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7b93c1fefaebd358397300db4ffb9ed265825b86
+--- /dev/null
++++ b/alan/harness/overdue-rolling/overdue-rolling.module.code.ts
+@@ -0,0 +1,68 @@
++import { getEsoDayStr } from "@akasha/day/eso-day"
++import { patchPages } from "@akasha/pages-access/patch"
++import type { Page, PageWhere } from "@akasha/pages-core/page-types"
++
++export const WRITER = "overdue-rolling"
++
++export type Rolling = {
++  readonly pageTypeSlug: string
++  readonly dueKey: string
++  readonly undone: PageWhere
++}
++
++export const ROLLED: readonly Rolling[] = [
++  {
++    pageTypeSlug: "to-do",
++    dueKey: "toDoDueDate",
++    undone: [{ key: "toDoCompletedAt", isEmpty: true }],
++  },
++  { pageTypeSlug: "temper-task", dueKey: "dueDate", undone: [] },
++]
++
++export function narrowFor(one: Rolling, day: string): PageWhere {
++  return [{ key: one.dueKey, lt: day }, ...one.undone]
++}
++
++export type Patching = (args: {
++  readonly pageTypeSlug: string
++  readonly where: PageWhere
++  readonly set: Readonly<Record<string, string>>
++}) => Promise<readonly Page[]>
++
++export type Rolled = {
++  readonly pageTypeSlug: string
++  readonly slugs: readonly string[]
++}
++
++export async function rolledOnto(one: Rolling, day: string, patch: Patching): Promise<Rolled> {
++  const moved = await patch({
++    pageTypeSlug: one.pageTypeSlug,
++    where: narrowFor(one, day),
++    set: { [one.dueKey]: day },
++  })
++  return {
++    pageTypeSlug: one.pageTypeSlug,
++    slugs: moved.flatMap((each) => (each.slug === null ? [] : [each.slug])),
++  }
++}
++
++export async function rollingOnto(
++  day: string,
++  patch: Patching = patchPages
++): Promise<readonly Rolled[]> {
++  const rolled: Rolled[] = []
++  for (const one of ROLLED) rolled.push(await rolledOnto(one, day, patch))
++  return rolled
++}
++
++export function saidOf(rolled: readonly Rolled[], day: string): string {
++  const each = rolled.map((one) => `${one.slugs.length} of \`${one.pageTypeSlug}\``)
++  return `${each.join(", ")} now come due on ${day}`
++}
++
++if (import.meta.main) {
++  process.env.PAGE_WRITER = WRITER
++  const day = getEsoDayStr(new Date())
++  const rolled = await rollingOnto(day)
++  process.stdout.write(`${saidOf(rolled, day)}\n`)
++}
 diff --git a/alan/harness/overdue-rolling/overdue-rolling.module.ts b/alan/harness/overdue-rolling/overdue-rolling.module.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..bfdda0159543ec858f35ebb90ea1ca597e4e809a
