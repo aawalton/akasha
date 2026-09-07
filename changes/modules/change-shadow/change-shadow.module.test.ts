@@ -6,7 +6,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { addFile } from "../../mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
+import { runChange as addFile } from "../../mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
 import { runChange as removeFile } from "../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import {
   answered,
@@ -47,7 +47,9 @@ const BYTES = new TextEncoder()
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === ADD_FILE) {
-    return Promise.resolve(addFile(world, given as { at: string; body: string }))
+    return Promise.resolve(
+      widened(addFile(world, given as { at: string; body: string }), world.textOf)
+    )
   }
   if (at === REMOVE_FILE) {
     return Promise.resolve(widened(removeFile(world, given as { at: string }), world.textOf))

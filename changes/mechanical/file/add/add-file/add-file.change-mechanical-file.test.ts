@@ -1,26 +1,47 @@
 import { expect, test } from "bun:test"
+import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { worldOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { addFile } from "./add-file.change-mechanical-file.code.ts"
+import { type Asked, runChange } from "./add-file.change-mechanical-file.code.ts"
 
 const AT = "akasha/one.held.ts"
 
+function ranOn(held: Readonly<Record<string, string>>, given: Asked): Answer {
+  const world = worldOf(held)
+  return widened(runChange(world, given), world.textOf)
+}
+
 test("a path holding no body is answered as one edit adding that body", () => {
-  const said = addFile(worldOf({}), { at: AT, body: "alpha\n" })
+  const said = ranOn({}, { at: AT, body: "alpha\n" })
 
   expect(said.refused).toBeNull()
   expect(said.edits).toEqual([{ path: AT, was: null, body: "alpha\n" }])
 })
 
 test("a path holding another body is answered as one edit writing over that body", () => {
-  const said = addFile(worldOf({ [AT]: "alpha\n" }), { at: AT, body: "beta\n" })
+  const said = ranOn({ [AT]: "alpha\n" }, { at: AT, body: "beta\n" })
 
   expect(said.refused).toBeNull()
   expect(said.edits).toEqual([{ path: AT, was: "alpha\n", body: "beta\n" }])
 })
 
 test("a path already holding the body given is refused and answers no edit", () => {
-  const said = addFile(worldOf({ [AT]: "alpha\n" }), { at: AT, body: "alpha\n" })
+  const said = ranOn({ [AT]: "alpha\n" }, { at: AT, body: "alpha\n" })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/already holds this body/)
+})
+
+test("a path holding no body states an add holding the path and the content", () => {
+  const said = runChange(worldOf({}), { at: AT, body: "alpha\n" })
+
+  expect(said.edits).toEqual([{ kind: "add", path: AT, content: "alpha\n" }])
+})
+
+test("a path holding another body states a replace holding the whole body each side", () => {
+  const said = runChange(worldOf({ [AT]: "alpha\n" }), { at: AT, body: "beta\n" })
+
+  expect(said.edits).toEqual([
+    { kind: "replace", path: AT, contentFrom: "alpha\n", contentTo: "beta\n" },
+  ])
 })

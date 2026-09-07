@@ -1,9 +1,5 @@
-import {
-  answered,
-  refusing,
-  writing,
-} from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 export type Asked = {
@@ -11,14 +7,13 @@ export type Asked = {
   readonly body: string
 }
 
-export function addFile(world: World, given: Asked): Answer {
+export function runChange(world: World, given: Asked): Said {
   const was = world.textOf(given.at)
   if (was === given.body) {
     return refusing(`\`${given.at}\` already holds this body, so this change writes nothing`)
   }
-  return answered([writing(given.at, was, given.body)])
-}
-
-export function runChange(world: World, given: Asked): Answer {
-  return addFile(world, given)
+  if (was === null || was === "") {
+    return stating([{ kind: "add", path: given.at, content: given.body }])
+  }
+  return stating([{ kind: "replace", path: given.at, contentFrom: was, contentTo: given.body }])
 }
