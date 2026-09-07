@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
+index 2151453ef262de816252fc685b2c867d495b004d..f9fe81b28b29ae61d51bc0e2fe5282e7e4b13acc 100644
+--- a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
++++ b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
+@@ -7,7 +7,7 @@ export const pagePropertyHasItsFile = {
+   definition: "the check refusing a page that states a property held in a file it does not have",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
