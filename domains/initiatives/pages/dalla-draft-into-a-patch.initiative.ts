@@ -15,7 +15,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Every change is a patch before it is applied.",
       workingMemory:
-        "Not so at the `landedMechanically` call sites, which land straight onto the tree, nor at `page-writing.module.code.ts:147`, which calls `landing()` with a null gate and skips the ask. `page-retyping` went with `refactor`. `replace` and the change commands are what drafts today, so porting those mechanical call sites onto one batched call is the work left.",
+        "`landedMechanically` lands straight onto the tree at every call site. `page-writing.module.code.ts:147` calls `landing()` with a null gate and skips the ask. `harness-landing` writes the tree with `writeFileSync` and `renameSync`, never reaching `landing`. `applying.module.code.ts` is the one path that works a patch out and applies it, and both `akasha apply` and `akasha change --apply` reach it. The patch stays inside the landing rather than being kept.",
     },
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
