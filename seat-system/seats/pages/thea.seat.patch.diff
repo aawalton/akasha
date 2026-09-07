@@ -1,0 +1,50 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/alan/car-research/car-makes/car-make.page-type.ts b/alan/car-research/car-makes/car-make.page-type.ts
+index cef8b9f5aad184cb9fbc9a88d74f1893227a91c9..1472441e45980fb6ef7898f9d28084eeaf770c0d 100644
+--- a/alan/car-research/car-makes/car-make.page-type.ts
++++ b/alan/car-research/car-makes/car-make.page-type.ts
+@@ -46,7 +46,6 @@ export const carMake = {
+     "text-property/reliability-notes",
+   ],
+   properties: [
+-    { pagePropertySlug: "text-property/title", required: true, many: false },
+     { pagePropertySlug: "text-property/charging-network-access", required: true, many: false },
+     { pagePropertySlug: "text-property/country", required: true, many: false },
+     { pagePropertySlug: "text-property/drm-policy", required: true, many: false },
+diff --git a/alan/car-research/car-models/car-model.page-type.ts b/alan/car-research/car-models/car-model.page-type.ts
+index 3060e679742680226d25e567fa361ed2e6d87dd7..f87d8b3bb75b7af61e6ad8ce10fa80c103c02711 100644
+--- a/alan/car-research/car-models/car-model.page-type.ts
++++ b/alan/car-research/car-models/car-model.page-type.ts
+@@ -37,7 +37,6 @@ export const carModel = {
+     "text-property/segment",
+   ],
+   properties: [
+-    { pagePropertySlug: "text-property/title", required: true, many: false },
+     { pagePropertySlug: "text-property/body-style", required: true, many: false },
+     { pagePropertySlug: "text-property/generation", required: true, many: false },
+     { pagePropertySlug: "text-property/model-years-available", required: true, many: false },
+diff --git a/alan/car-research/car-trims/car-trim.page-type.ts b/alan/car-research/car-trims/car-trim.page-type.ts
+index 26595f6e08acf88a8c165caf17caecc9782d2cb6..70af73c241d1a577301dbb7557a4c046559b3b5e 100644
+--- a/alan/car-research/car-trims/car-trim.page-type.ts
++++ b/alan/car-research/car-trims/car-trim.page-type.ts
+@@ -17,7 +17,6 @@ export const carTrim = {
+   extendsSlug: ["page-type/car"],
+   partSlugs: ["relation-property/car-year-slug"],
+   properties: [
+-    { pagePropertySlug: "text-property/title", required: true, many: false },
+     { pagePropertySlug: "relation-property/car-year-slug", required: true, many: false },
+   ],
+   invariants: [
+diff --git a/alan/car-research/car-years/car-year.page-type.ts b/alan/car-research/car-years/car-year.page-type.ts
+index 3b95078bbff378513be5564b12869d22568499b0..319ea53a7a869e12a22d94c111583c436a034b59 100644
+--- a/alan/car-research/car-years/car-year.page-type.ts
++++ b/alan/car-research/car-years/car-year.page-type.ts
+@@ -25,7 +25,6 @@ export const carYear = {
+     "text-property/refresh-notes",
+   ],
+   properties: [
+-    { pagePropertySlug: "text-property/title", required: true, many: false },
+     { pagePropertySlug: "number-property/model-year", required: true, many: false },
+     { pagePropertySlug: "text-property/refresh-notes", required: true, many: false },
+     { pagePropertySlug: "relation-property/car-model-slug", required: true, many: false },
