@@ -7,7 +7,7 @@ export const attributesAll = {
   title: "All",
   navSlug: "attributes",
   pageType: "attribute",
-  viewPlace: 0,
+  viewPlace: 1,
   layout: "table",
   viewSorts: [{ key: "slug", descending: false }],
   visibleProperties: ["definition", "point-unit", "lifetime-points"],

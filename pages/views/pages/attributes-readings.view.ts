@@ -1,0 +1,30 @@
+import type { View } from "../view.page-type.ts"
+
+export const attributesReadings = {
+  id: "01a07cd7-2bb6-7d40-acb4-895746f0208f",
+  pageTypeSlug: "view",
+  slug: "attributes-readings",
+  title: "Readings",
+  navSlug: "attributes",
+  pageType: "readout",
+  viewPlace: 0,
+  layout: "table",
+  narrows: [{ key: "group-slugs", comparison: "has", values: ["attributes"] }],
+  viewSorts: [{ key: "place", descending: false }],
+  visibleProperties: ["label", "last-value", "unit", "last-value-at", "scale-slug"],
+  alwaysShowProperties: ["last-value", "last-value-at"],
+  hiddenPropertiesOrder: [
+    "definition",
+    "wire-key",
+    "group-slugs",
+    "drawn-as",
+    "place",
+    "created-at",
+    "updated-at",
+    "seq",
+    "page-type-id",
+  ],
+  pageSize: 12,
+  itemPageSize: 12,
+  groupPageSize: 6,
+} as const satisfies View
