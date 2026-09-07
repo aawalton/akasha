@@ -38,7 +38,11 @@ export const characterBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "One character holds many builds, and one build is shared across characters.",
+      statement: "One character holds many builds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One build is shared across characters.",
     },
     {
       invariantKind: "departure",
