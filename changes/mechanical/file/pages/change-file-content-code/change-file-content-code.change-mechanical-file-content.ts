@@ -1,12 +1,12 @@
-import type { ChangeMechanicalFile } from "../../change-mechanical-file.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../../file-content/change-mechanical-file-content.page-type.ts"
 
-export const changeFileCode = {
+export const changeFileContentCode = {
   id: "01a079ac-d401-7d7b-aa1f-45743f81cf73",
-  pageTypeSlug: "change-mechanical-file",
-  slug: "change-file-code",
+  pageTypeSlug: "change-mechanical-file-content",
+  slug: "change-file-content-code",
   changeModeSlug: "change-mode-change",
-  changeTargetTypeSlug: "change-target-type/file",
-  changeTargetSubtypeSlug: "change-target-subtype/file-code",
+  changeTargetTypeSlug: "change-target-type/file-content",
+  changeTargetSubtypeSlug: "change-target-subtype/code",
   definition: "one passage of one code body replaced, with the imports that body names judged",
   code: "ts",
   test: "ts",
@@ -33,4 +33,4 @@ export const changeFileCode = {
       statement: "Nothing here judges the path a passage is worked at.",
     },
   ],
-} as const satisfies ChangeMechanicalFile
+} as const satisfies ChangeMechanicalFileContent

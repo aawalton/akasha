@@ -11,6 +11,7 @@ export const changeMechanicalFileContent = {
   slug: "change-mechanical-file-content",
   definition: "a mechanical change acting on what a file holds under no narrower reading",
   pluralSlug: "change-mechanical-file-content",
+  partSlugs: ["change-mechanical-file-content/change-file-content-code"],
   extendsSlug: ["page-type/change-mechanical"],
   properties: [
     { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
