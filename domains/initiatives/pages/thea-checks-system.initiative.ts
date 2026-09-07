@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. require-import-extension is stuck at 4: 145 refusals, none akasha's own. 112 are React Router `./+types/...`; 33 are vendored lualib, where TS5097 bans the spelling. `landingOf` joins rather than resolves, so every extensionless relative specifier is refused. Alan holds the scope. Then restatement-narrows-something, shell-clean, folder-matches-a-shape, identifier-matches-its-place. Print the premise. `akasha change` edits land by `apply`.",
+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. require-import-extension is on, refusing only where a file of its extensions stands at the landing: 145 refusals became 19, all in vendored lualib. Those 19 want `bundler` and `allowImportingTsExtensions` in lualib's tsconfig, which adds no type error but is untested against the Lua tstl emits. Next restatement-narrows-something, shell-clean, folder-matches-a-shape, identifier-matches-its-place. A dot in a route name is not an extension.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
