@@ -1,11 +1,8 @@
 import { expect, test } from "bun:test"
+import { reading } from "@akasha/pages/page-value/testing"
 import { removeFile } from "./remove-file.change-mechanical.code.ts"
 
 const AT = "akasha/one.held.ts"
-
-function reading(held: Record<string, string>): (path: string) => string | null {
-  return (path) => held[path] ?? null
-}
 
 test("a path the tree holds a body for is answered as one edit taking that path away", () => {
   const said = removeFile({ at: AT }, reading({ [AT]: "alpha\n" }))

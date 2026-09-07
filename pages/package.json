@@ -76,6 +76,7 @@
     "./page-value": "./value/page-value.module.code.ts",
     "./page-value-reading": "./value-reading/page-value-reading.module.code.ts",
     "./page-value-key": "./value-key/page-value-key.module.code.ts",
+    "./page-value/testing": "./value/page-value.module.test-fixtures.ts",
     "./page/id": "./properties/id.text-property.ts",
     "./page/slug": "./properties/slug.text-property.ts",
     "./phone-number-property": "./phone-number-properties/phone-number-property.page-type.ts",

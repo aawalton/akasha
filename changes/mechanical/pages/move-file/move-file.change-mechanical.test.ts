@@ -1,13 +1,10 @@
 import { expect, test } from "bun:test"
+import { reading } from "@akasha/pages/page-value/testing"
 import { moveFile } from "./move-file.change-mechanical.code.ts"
 
 const FROM = "akasha/one.held.ts"
 
 const TO = "akasha/two.held.ts"
-
-function reading(held: Record<string, string>): (path: string) => string | null {
-  return (path) => held[path] ?? null
-}
 
 test("a path the tree holds a body for is answered as one edit carrying it to another path", () => {
   const said = moveFile({ from: FROM, to: TO }, reading({ [FROM]: "alpha\n" }))

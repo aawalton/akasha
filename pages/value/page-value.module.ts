@@ -7,10 +7,16 @@ export const pageValue = {
   definition: "the value a page's body declares, and what one of its keys holds",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A page's body can be loaded after the file the body came from is gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reader answering a body at a path is built here rather than by the test handing the reader in.",
     },
     {
       invariantKind: "departure",

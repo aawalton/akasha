@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { reading } from "@akasha/pages/page-value/testing"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
   landsOn,
@@ -33,10 +34,6 @@ const BROKEN = `{
 const BETA = "seat-system/beta/beta.module.code.ts"
 
 const GAMMA = "seat-system/gamma/gamma.module.code.ts"
-
-function reading(held: Record<string, string>): (path: string) => string | null {
-  return (path) => held[path] ?? null
-}
 
 function saidOf(going: readonly string[], text: string): Answer {
   return removeManifestWays({ at: AT, going }, reading({ [AT]: text }))

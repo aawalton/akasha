@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing as wrote } from "@akasha/command-system/scratching/testing"
+import { reading } from "../../value/page-value.module.test-fixtures.ts"
 import { pathFiled, schemaFiled } from "../reading/index-reading.module.test-fixtures.ts"
 import {
   bodiesAt,
@@ -29,11 +30,7 @@ const PATHS = [
   "akasha/two/package.json",
 ]
 
-function bodyFor(held: Record<string, string>): (path: string) => string | null {
-  return (path) => held[path] ?? null
-}
-
-const BODIES = bodyFor({ "akasha/one/package.json": ONE, "akasha/two/package.json": TWO })
+const BODIES = reading({ "akasha/one/package.json": ONE, "akasha/two/package.json": TWO })
 
 function worldAt(): string {
   const root = scratch.rootFor(PREFIX)
