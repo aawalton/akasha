@@ -242,15 +242,16 @@ index 0000000000000000000000000000000000000000..bd1aff5018ffd68171beeda2bd0c1bd9
 +}
 diff --git a/changes/modules/page-knowing/page-knowing.module.test.ts b/changes/modules/page-knowing/page-knowing.module.test.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..174a5056aaadd9f23a3fed4a60cbefa186f9bf7b
+index 0000000000000000000000000000000000000000..bb26823c4e84504a401ee3d9fd5d2adad8df28b4
 --- /dev/null
 +++ b/changes/modules/page-knowing/page-knowing.module.test.ts
-@@ -0,0 +1,70 @@
+@@ -0,0 +1,65 @@
 +import { afterAll, expect, test } from "bun:test"
 +import {
 +  HELD_CODE,
 +  HELD_PAGE,
 +  indexedRepo,
++  NAMER_PAGE,
 +  scratch,
 +  textIn,
 +} from "@akasha/indexes/indexing/testing"
@@ -261,17 +262,13 @@ index 0000000000000000000000000000000000000000..174a5056aaadd9f23a3fed4a60cbefa1
 +
 +const MISSING = "akasha/one/missing.module.ts"
 +
-+const PART_SLUGS = "partSlugs"
-+
 +function worldIn(): World {
 +  const root = indexedRepo()
 +  return worldAt(root, textIn(root))
 +}
 +
 +test("the page the index files at a path is answered", () => {
-+  const value = pageIn(worldIn(), HELD_PAGE)
-+
-+  expect(value?.slug).toBe("held")
++  expect(pageIn(worldIn(), HELD_PAGE)?.slug).toBe("held")
 +})
 +
 +test("a path carrying a section beside the page's own names no page", () => {
@@ -286,13 +283,12 @@ index 0000000000000000000000000000000000000000..174a5056aaadd9f23a3fed4a60cbefa1
 +  expect(pageIn(worldIn(), MISSING)).toBeNull()
 +})
 +
-+test("a read answers the page beside the shape the index knows that page by", () => {
++test("a read answers the page standing at the path", () => {
 +  const read = readFor(worldIn(), HELD_PAGE)
 +
 +  expect("refused" in read).toBe(false)
 +  if ("refused" in read) return
 +  expect(read.value.slug).toBe("held")
-+  expect(read.known.slugOfKeyIn(read.value, "slug")).not.toBe(undefined)
 +})
 +
 +test("a path naming no page is refused rather than answered", () => {
@@ -302,16 +298,15 @@ index 0000000000000000000000000000000000000000..174a5056aaadd9f23a3fed4a60cbefa1
 +})
 +
 +test("a key naming a relation answers the page types that key reaches", () => {
-+  const world = worldIn()
-+  const value = world.index.pageAt("page-type", "module")
-+  if (value === null) throw new Error("the fixture holds no `module` page type")
-+  const known = world.index.knownIn()
++  const read = readFor(worldIn(), NAMER_PAGE)
++  if ("refused" in read) throw new Error(read.refused)
 +
-+  expect(targetsIn(known, value, PART_SLUGS)).toContain("domain")
++  expect(targetsIn(read.known, read.value, "note")).toEqual(["module"])
++  expect(targetsIn(read.known, read.value, "partSlugs")).toEqual(["domain"])
 +})
 +
 +test("a key reaching no property names no page", () => {
-+  const read = readFor(worldIn(), HELD_PAGE)
++  const read = readFor(worldIn(), NAMER_PAGE)
 +  if ("refused" in read) throw new Error(read.refused)
 +
 +  expect(targetsIn(read.known, read.value, "definition")).toEqual([])
