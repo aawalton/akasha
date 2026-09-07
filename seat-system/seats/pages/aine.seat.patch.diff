@@ -94,3 +94,18 @@ index f9bdb4de2007c7936e93cfeb0d5c1f27d7ae3132..e57d94a6249e558c9022be4bef6424f4
  test("a body spelling the slug without its page type is left as that body is", () => {
    const said = renamePageAddress(worldOf({ [BARE_AT]: BARE_BODY }), { was: WAS, now: NOW })
  
+diff --git a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.ts b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.ts
+index 586c3da1505a4a5879876d8834f7c21ce2aa2413..8602aab26928d017abd9ce0c3d7f2778b8b22a9f 100644
+--- a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.ts
++++ b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.ts
+@@ -23,6 +23,10 @@ export const renamePageAddress = {
+       invariantKind: "departure",
+       statement: "A body spelling the address nowhere is read and left alone.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A body a machine writes is left as that body is.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "A slug naming the page without its page type is left as that slug is.",
