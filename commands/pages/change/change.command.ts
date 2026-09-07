@@ -114,20 +114,19 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A change that refuses applies nothing though an apply was asked for.",
+      statement: "A change that refuses applies nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "An apply asked for is the apply `akasha apply` makes.",
+      statement: "The apply a change makes is the apply `akasha apply` makes.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An apply asked for lands every edit kept rather than the edits that run appended.",
+      statement: "An apply lands every edit kept rather than the edits that run appended.",
     },
     {
       invariantKind: "departure",
-      statement: "A call asking for an apply says nothing of the edits being kept for an apply.",
+      statement: "A call that applied says nothing of the edits being kept for a later apply.",
     },
     {
       invariantKind: "departure",
