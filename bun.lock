@@ -2955,6 +2955,7 @@
     "web-page-answers": {
       "name": "@akasha/web-page-answers",
       "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
