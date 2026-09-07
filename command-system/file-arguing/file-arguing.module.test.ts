@@ -10,8 +10,22 @@ const scratch = scratchWorld()
 
 const BODY = "export const held = 1\n"
 
+const MECHANICAL = {
+  slug: "change-mechanical",
+  runsChecks: true,
+  writerOwesReading: false,
+  readersOweReading: false,
+}
+
 function givenIn(root: string): Given {
-  return { root, calledAs: "akasha tracking", from: root, writer: null, agentId: null }
+  return {
+    root,
+    calledAs: "akasha tracking",
+    from: root,
+    writer: null,
+    agentId: null,
+    changeKind: MECHANICAL,
+  }
 }
 
 function refusedBy(argv: readonly string[], root = "/repo", piping: Piping = TERMINAL): string {
@@ -52,8 +66,7 @@ test("the body for a file is read from the file --content-file names", () => {
     givenIn(root),
     TERMINAL
   )
-  expect("code" in said).toBe(false)
-  if ("code" in said) return
+  if ("code" in said) throw new Error(said.refusals.join("\n"))
   expect(said.changes).toEqual([{ path: "akasha/one.ts", body: new TextEncoder().encode(BODY) }])
 })
 
@@ -65,7 +78,7 @@ test("a commit message worked out from the paths names the path written", () => 
     givenIn(root),
     TERMINAL
   )
-  if ("code" in said) return
+  if ("code" in said) throw new Error(said.refusals.join("\n"))
   expect(said.message).toBe("write akasha/one.ts")
 })
 

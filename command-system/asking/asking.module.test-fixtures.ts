@@ -10,12 +10,13 @@ import { ADMITS_CODE, MINTED, mintedId, minting } from "@akasha/testing-system/m
 import { put } from "@akasha/testing-system/putting"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { patch } from "../commands/patch/patch.command.code.ts"
-import { write } from "../commands/write/write.command.code.ts"
 import { drafted } from "../drafting/drafting.module.code.ts"
+import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
+import { inputIn } from "../piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { type Asked, landedMechanically } from "./asking.module.code.ts"
+import { type Asked, landedMechanically, landingAsked, wroteAndTook } from "./asking.module.code.ts"
 
 const ADMITS_AT = "akasha/admits.code-check*"
 
@@ -123,7 +124,7 @@ export const REFUSES_LOOSE =
 
 export const givenIn = (root: string) => ({
   root,
-  calledAs: "akasha write",
+  calledAs: "akasha apply",
   from: root,
   writer: null,
   agentId: AGENT,
@@ -162,12 +163,26 @@ export async function applied(
   return { report: [...said.report, ...then.report], refusals: then.refusals, code: then.code }
 }
 
+export async function landedFrom(argv: readonly string[], given: Given): Promise<Answer> {
+  const built = builtIn(argv, given, inputIn)
+  if ("code" in built) return built
+  return await landingAsked(
+    given,
+    asking({
+      changes: built.changes,
+      message: built.message,
+      saying: (landed) => wroteAndTook(landed),
+      draft: true,
+    })
+  )
+}
+
 export async function wroteWith(
   root: string,
   argv: readonly string[],
   given: Given = givenIn(root)
 ): Promise<Answer> {
-  return await applied(root, await write(argv, given), argv, given)
+  return await applied(root, await landedFrom(argv, given), argv, given)
 }
 
 export function commitIn(root: string, said: Answer, pretty = "%B"): string {
@@ -183,7 +198,7 @@ export async function drafting(
   given: Given = givenIn(root)
 ): Promise<Answer> {
   const from = put(root, "body.txt", body)
-  return await write(["--file-path", TWO_AT, "--content-file", from, ...said], given)
+  return await landedFrom(["--file-path", TWO_AT, "--content-file", from, ...said], given)
 }
 
 export async function wrote(
@@ -232,7 +247,7 @@ export const applying = async (root: string): Promise<Answer> =>
   await patch(["apply", "--message", "held"], givenIn(root))
 
 export const mechanically = async (root: string): Promise<number> =>
-  (await landedMechanically(root, "akasha write", THREE, "held", [], AGENT)).code
+  (await landedMechanically(root, "akasha apply", THREE, "held", [], AGENT)).code
 
 export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
 

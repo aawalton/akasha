@@ -5,7 +5,6 @@ import { listedTakenFrom, valueTakenFrom } from "@akasha/indexes/testing"
 import { ADMITS_CODE, REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
 import { patch } from "../commands/patch/patch.command.code.ts"
-import { write } from "../commands/write/write.command.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
 import { landedMechanically, landingAsked, NO_CHECKS } from "./asking.module.code.ts"
 import {
@@ -21,6 +20,7 @@ import {
   givenIn,
   holds,
   LOOSE,
+  landedFrom,
   mechanically,
   PATCH_AT,
   PROGRAM,
@@ -165,7 +165,7 @@ test("a gate counts the removal it judged beside the body it wrote, so a move is
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
   checking(root, "admits", ADMITS_CODE)
   const from = bodyIn(root)
-  const said = await write(
+  const said = await landedFrom(
     ["--file-path", "akasha/three.ts", "--content-file", from, "--remove", "akasha/two.ts"],
     givenIn(root)
   )
@@ -204,7 +204,7 @@ test("breaking the glass runs no check and says so in the commit", async () => {
 test("a landing made by a program runs no check and says so in the commit", async () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES_CODE)
-  const said = await landedMechanically(root, "akasha write", PROGRAM, "held")
+  const said = await landedMechanically(root, "akasha apply", PROGRAM, "held")
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(PROPOSED)
   expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
@@ -214,7 +214,7 @@ test("a landing made by a program runs no check and says so in the commit", asyn
 
 test("a landing made by a program is told apart from a glass that was broken", async () => {
   const root = repoWith()
-  const said = await landedMechanically(root, "akasha write", PROGRAM, "held")
+  const said = await landedMechanically(root, "akasha apply", PROGRAM, "held")
   expect(said.code).toBe(0)
   expect(said.report).toContain(`a \`change-mechanical\` change ${NO_CHECKS}`)
   expect(said.report.join("\n")).not.toContain("the glass was broken")
@@ -346,7 +346,10 @@ test("a body that lands is recorded as read, so writing over it again is not ref
   const root = repoWith()
   expect((await wrote(root, [])).code).toBe(0)
   const again = put(root, "again.txt", "written twice\n")
-  const said = await write(["--file-path", "akasha/two.ts", "--content-file", again], givenIn(root))
+  const said = await landedFrom(
+    ["--file-path", "akasha/two.ts", "--content-file", again],
+    givenIn(root)
+  )
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
 })
@@ -354,7 +357,7 @@ test("a body that lands is recorded as read, so writing over it again is not ref
 test("a body the formatter changed is recorded as it landed, not as it was handed in", async () => {
   const root = repoWithTheFormatter()
   expect((await wrote(root, [], LOOSE)).report).toContain(REFORMATTED)
-  const said = await write(
+  const said = await landedFrom(
     ["--file-path", "akasha/two.ts", "--content-file", put(root, "again.txt", TIDY)],
     givenIn(root)
   )
