@@ -1,0 +1,13 @@
+diff --git a/code-system/components/properties/component-code.file-property.ts b/code-system/components/properties/component-code.file-property.ts
+index c119baa3fc3703eb2b1b9fa60e0497a8cc3c63c7..a0838cf7981668449b24112a8c6d602a7c1727ec 100644
+--- a/code-system/components/properties/component-code.file-property.ts
++++ b/code-system/components/properties/component-code.file-property.ts
+@@ -11,7 +11,7 @@ export const componentCode = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This code is written in TSX because this code draws something for a browser.",
++      statement: "This code is written in TSX.",
+     },
+   ],
+ } as const satisfies FileProperty
