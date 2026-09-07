@@ -126,7 +126,7 @@ index cdfe2031820e352de6aa400f46100cf34f5ffc1e..c80c56659d6e3b995d94ba5a3dc7603e
  
    expect(one?.body ?? "").toContain("../three/held.module.code.ts")
 diff --git a/changes/modules/edits-keeping/edits-keeping.module.code.ts b/changes/modules/edits-keeping/edits-keeping.module.code.ts
-index 713b83a1ca1c7f37bca280210d80ba06e9d4d447..c764dbb18fe081ed6f35245cd3e14fb5d5fc9e2d 100644
+index 713b83a1ca1c7f37bca280210d80ba06e9d4d447..14f0289a53632b3051377f60e193a33b0bcf11f1 100644
 --- a/changes/modules/edits-keeping/edits-keeping.module.code.ts
 +++ b/changes/modules/edits-keeping/edits-keeping.module.code.ts
 @@ -223,6 +223,13 @@ function poured(root: string, page: string, lines: readonly string[]): undefined
@@ -143,6 +143,15 @@ index 713b83a1ca1c7f37bca280210d80ba06e9d4d447..c764dbb18fe081ed6f35245cd3e14fb5
  function wasIn(one: Edit): BodyOf {
    const came = one.from === undefined || one.from === one.path ? one.path : one.from
    return (path) => (path === came ? one.was : null)
+@@ -242,7 +249,7 @@ function sameRow(one: Edit, two: Edit): boolean {
+ function narrowIn(one: Edit): Stated | null {
+   const narrow = narrowed(one)
+   const only = narrow.length === 1 ? narrow[0] : undefined
+-  if (only === undefined) return null
++  if (only === undefined || only.kind === "replace") return null
+   const back = widened({ edits: [only], refused: null }, wasIn(one))
+   const got = back.edits[0]
+   if (back.refused !== null || back.edits.length !== 1 || got === undefined) return null
 @@ -267,6 +274,7 @@ function appending(
      root,
      page,
@@ -151,3 +160,58 @@ index 713b83a1ca1c7f37bca280210d80ba06e9d4d447..c764dbb18fe081ed6f35245cd3e14fb5
    )
  }
  
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.test.ts b/changes/modules/edits-keeping/edits-keeping.module.test.ts
+index 7cb0b78386e75c4354e62aa4e93c5a1689050753..43b4adc628f9792514c697e91980a6707e32e614 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.test.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.test.ts
+@@ -354,6 +354,27 @@ test("a row adding a path is written without the body that path lacked", () => {
+   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+ })
+ 
++test("a row writing one body over another states the whole body each side", () => {
++  const root = rootFor()
++  putting(root, "a\n", ONE)
++  const row = writing(ONE, "a\n", "b\n")
++
++  appendEdits(root, PAGE, [row])
++
++  expect(storedIn(root)).toEqual([JSON.stringify(row)])
++  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
++})
++
++test("a row writing over a body the files beneath no longer hold reads back as that row", () => {
++  const root = rootFor()
++  putting(root, "c\n", ONE)
++  const row = writing(ONE, "a\n", "b\n")
++
++  appendEdits(root, PAGE, [row])
++
++  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
++})
++
+ test("a row that would read back as no row states the whole body", () => {
+   const root = rootFor()
+   const row = writing(ONE, "a\n", "a\n")
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.ts b/changes/modules/edits-keeping/edits-keeping.module.ts
+index ff99b7ee3b272f8eb8fc42edcf477474218880ba..4e0d4d4069c41766003007d9e86e7c8960855f98 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.ts
+@@ -74,6 +74,18 @@ export const editsKeeping = {
+       invariantKind: "departure",
+       statement: "A row that would read back as any other row states the whole body instead.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A row whose path holds a body each side states the whole body each side.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A row narrowed names no passage of a body.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body that moved beneath a narrowed row is read as that body is now.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Whether a row reads back is answered against the body that row states.",
