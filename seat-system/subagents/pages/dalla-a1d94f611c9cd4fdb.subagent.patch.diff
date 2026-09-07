@@ -1,0 +1,50 @@
+writerOwesReading: false
+diff --git a/commands/pages/change/change.command.code.ts b/commands/pages/change/change.command.code.ts
+index 92e5492cdc0fc8dcba8aa7eed77cdb0d5dec98be..02fd2bfd19ae4bd457d5a7dffa868b499094696b 100644
+--- a/commands/pages/change/change.command.code.ts
++++ b/commands/pages/change/change.command.code.ts
+@@ -194,17 +194,38 @@ export function rootedIn(root: string, given: Arguments): Arguments | string {
+   return path === null ? offRepo(said) : { ...given, [AT]: path }
+ }
+ 
+-export type Asked = { readonly message: string | null; readonly given: Arguments }
++const DRAFT = "draft"
++
++const DRAFT_TAKES = "`draft` takes `true` to keep the edits for a later apply, or `false` to apply"
++
++const BOTH_SAID =
++  "`apply` names the message for an apply that `draft` declines, so the two together are refused"
++
++export type Asked = {
++  readonly message: string | null
++  readonly drafts: boolean
++  readonly given: Arguments
++}
++
++function draftIn(said: string | undefined): boolean | string {
++  if (said === undefined) return false
++  const one = said.trim()
++  if (one === "true") return true
++  return one === "false" ? false : DRAFT_TAKES
++}
+ 
+ export function applyIn(given: Arguments): Asked | string {
++  const drafts = draftIn(given[DRAFT])
++  if (typeof drafts === "string") return drafts
+   const said = given[APPLY]
+-  if (said === undefined) return { message: null, given }
++  if (drafts && said !== undefined) return BOTH_SAID
++  const rest = Object.fromEntries(
++    Object.entries(given).filter(([key]) => key !== APPLY && key !== DRAFT)
++  )
++  if (said === undefined) return { message: null, drafts, given: rest }
+   const message = said.trim()
+   if (message === "") return NO_MESSAGE
+-  return {
+-    message,
+-    given: Object.fromEntries(Object.entries(given).filter(([key]) => key !== APPLY)),
+-  }
++  return { message, drafts, given: rest }
+ }
+ 
+ export function editsFor(rows: readonly Edit[]): readonly FileEdit[] {
