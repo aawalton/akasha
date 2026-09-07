@@ -115,28 +115,27 @@ export const readoutTier = {
     },
     {
       invariantKind: "departure",
-      statement: "How wide a reading is written is the format the readout states.",
+      statement: "A figure is floored rather than rounded.",
     },
     {
       invariantKind: "departure",
-      statement: "A figure written as an integer is written to the nearest whole number.",
+      statement: "A figure carries two significant figures at least.",
     },
     {
       invariantKind: "departure",
-      statement: "A figure written as a decimal is written to no more than two places.",
+      statement: "A figure reaching ten is written whole.",
     },
     {
       invariantKind: "departure",
-      statement: "A figure written as a decimal drops trailing zeros.",
+      statement: "A figure that is a whole number is written without a decimal place.",
     },
     {
       invariantKind: "departure",
-      statement: "A figure that rounds onto zero is written as zero rather than as a signed zero.",
+      statement: "A figure that floors onto zero is written as zero rather than as a signed zero.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A readout stating no format has its reading written as the number that reading is.",
+      statement: "A reading that is no finite number is written as the number that reading is.",
     },
     {
       invariantKind: "absence",
