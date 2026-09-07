@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index 89269ee5ac0ff634386a1bf6b25df0e2fb1b11af..22cae74e91d4e5792262c16ad12a6e4535df1fcd 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -36,7 +36,7 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "The patch a landing works out is held by no page property.",
+       workingMemory:
+-        "Alan ruled that the patch store and the `patch` commands both go, `resolve` ablated rather than reshaped, leaving the edits ref the sole store and a patch worked out in memory for the git mechanics. It is proven derivable: a patch rebuilds from the edits byte for byte, and a conflict mark is recomputed rather than remembered. In order: close the fold's crash window, hand the patch to the landing in memory, clear the residue, stop the writer, drop the properties.",
++        "Alan ruled the patch store and every `patch` command go, `show` and `resolve` with them, leaving the edits ref the sole store and a patch worked out in memory for the git mechanics. No command then answers what a draft would leave, which is accepted rather than overlooked. A patch is proven derivable, rebuilding from the edits byte for byte. In order: move `applying` out of the patch file, hand it to the landing in memory, clear the residue, stop the writer, drop the properties.",
+     },
+     {
+       statement: "Every property a command's page type declares is read.",
