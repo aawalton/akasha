@@ -9,13 +9,16 @@ export const workspaceDeps = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A dependency and a development dependency are both reached, and are told apart as well.",
+      statement: "A dependency and a development dependency are both reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A development dependency is told apart from a dependency.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A specifier that is relative, absolute, a node builtin or a bun builtin names no package.",
+        "A specifier that is relative or absolute or a node builtin or a bun builtin names no package.",
     },
     {
       invariantKind: "departure",
