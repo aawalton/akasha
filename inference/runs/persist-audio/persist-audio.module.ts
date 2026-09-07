@@ -9,7 +9,7 @@ export const persistAudio = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Only a voice-design, voice-clone or music run lands audio.",
+      statement: "Only a voice-design or voice-clone or music run lands audio.",
     },
     {
       invariantKind: "departure",
