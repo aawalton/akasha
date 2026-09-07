@@ -23,11 +23,6 @@ export const dallaDraftIntoAPatch = {
         "The apply has its own `unwarranted` at `apply.command.code.ts:112-126` rather than calling `unwarrantedIn`, and runs it above the glass, so `--break-the-glass` skips the checks and skips no warrant. Its predicate is `writerOwesReading !== false`, so a row silent about its writer is owing. Checks run on the apply alone; `akasha change` builds no gate. Left: `lint-exception` and `patch` declare `change-authored` and never ask, and `lint-exception` now states that absence.",
     },
     {
-      statement: "A guard that cannot see what it judges refuses rather than passing.",
-      workingMemory:
-        "`orphaningIn` answers an empty list where the shadow refuses, so a shadow that will not build disarms the importer check and nothing says so; `mintingOnto` and `earlyIn` hand the change back untouched the same way. The gate itself fails closed. A false negative and a true negative are the same answer.",
-    },
-    {
       statement: "The record is carried and dropped by the landing rather than by each command.",
       workingMemory:
         "`carryLanded` in `landing-reading` is the one carry site, gated on the change kind's `readersOweReading` and handed the rename pairs at `asked.readings`, so the landing binds the carry. The drop is not the landing's yet: `dropReadings` is called from `reading`, `landing-reading`, `subagent-sweep`, `seat-stopping`, `subagent-presence` and `log-day-sweeping` rather than from one place.",
