@@ -1,0 +1,32 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index 10efbe142f1bffd14c45089a0b0708048c92a126..106d63beeed09dd079da8249d912e5ad6600671f 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -66,5 +66,9 @@ export const changeMechanical = {
+       invariantKind: "departure",
+       statement: "A mechanical change runs no check of its own.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A mechanical change is filed under the sub-type naming the thing acted on.",
++    },
+   ],
+ } as const satisfies PageType
+diff --git a/domains/initiatives/pages/aine-audit-change-guards.initiative.ts b/domains/initiatives/pages/aine-audit-change-guards.initiative.ts
+index bd00efb870cf7470fe3c15de58f7109547e43390..ca2a8fa0f32854db95b190830296b313fb70543f 100644
+--- a/domains/initiatives/pages/aine-audit-change-guards.initiative.ts
++++ b/domains/initiatives/pages/aine-audit-change-guards.initiative.ts
+@@ -62,12 +62,6 @@ export const aineAuditChangeGuards = {
+       workingMemory:
+         "A check to write, so the boundary holds without an agent reading for it. `akasha refactor retype` composed no change address and built its own file edits, which is the shape the check is to refuse. The address map's own descent gap was found this way: a command doing a mechanical change's work carries that work's defects with no page stating them.",
+     },
+-    {
+-      statement:
+-        "Every mechanical change is filed under the sub-type naming what that change acts on.",
+-      workingMemory:
+-        "Six sub-types: file, folder, code, data, text and manifest. 18 of 26 are sorted, and text holds none. Eight wait on latent debt in files the sort touches rather than owns: a duplicated `RUNS`, a duplicated `NOTHING`, and seven `no-double-cast` assertions. Two command defects were mended on the way: the address map keyed to one page type slug, and the runner working a change's code path out from the page's new path, so a page moving mid-run loaded a file that was not on disk yet.",
+-    },
+   ],
+   constraints: [
+     "A guard judges the answer a change gives, so what can be judged without that answer is a check.",
