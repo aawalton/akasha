@@ -145,7 +145,7 @@ index 2726b4d1a75474c9458a80ca867e29a88dc39676..875a24e44fd8e6c7fdcb2d5cb8f1fa14
                  {isCompleted ? (
                    <CheckCircle2 className="size-4.5 text-success" />
 diff --git a/pages/ui/components/page-table/page-table.module.code.tsx b/pages/ui/components/page-table/page-table.module.code.tsx
-index fcba0c7a5457c8e400aadd6446765cfd089da3b1..b50e92faf3d285e155762afaa45e444e45ff444b 100644
+index fcba0c7a5457c8e400aadd6446765cfd089da3b1..c4c6dc866d12edc19f10617f4d905f57fededd41 100644
 --- a/pages/ui/components/page-table/page-table.module.code.tsx
 +++ b/pages/ui/components/page-table/page-table.module.code.tsx
 @@ -12,6 +12,7 @@ import {
@@ -184,6 +184,20 @@ index fcba0c7a5457c8e400aadd6446765cfd089da3b1..b50e92faf3d285e155762afaa45e444e
    const showActions = onToggleFavorite != null || onDelete != null
  
    return (
+@@ -173,7 +175,12 @@ export function PageTableRowCells({
+                   type="button"
+                   aria-label={isCompleted ? "Uncomplete" : "Complete"}
+                   className="shrink-0 cursor-pointer text-tertiary transition-colors hover:text-primary"
+-                  onClick={() => onComplete?.(isCompleted ? null : Date.now())}
++                  onClick={(e) => {
++                    e.stopPropagation()
++                    e.preventDefault()
++                    e.nativeEvent.stopImmediatePropagation()
++                    onComplete?.(isCompleted ? null : Date.now())
++                  }}
+                 >
+                   {isCompleted ? (
+                     <CheckCircle2 className="size-4 text-success" />
 diff --git a/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx b/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx
 index fdc599146f24799a149a7f3d6574fca44126182f..2a1f3dabc4d942ff7ffc7bcd90bbe06acb614766 100644
 --- a/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx
