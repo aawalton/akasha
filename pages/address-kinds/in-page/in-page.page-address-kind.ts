@@ -4,7 +4,7 @@ export const inPage = {
   id: "01a0731d-f93e-7ca8-8fdd-a8a5e083664d",
   pageTypeSlug: "page-address-kind",
   slug: "in-page",
-  definition: "an address naming a page by the id that page keeps for life",
+  definition: "an address naming a page by a value unique across every page",
   code: "ts",
   test: "ts",
   invariants: [

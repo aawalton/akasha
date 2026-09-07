@@ -10,16 +10,19 @@ export const inPageProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The index answers this kind under the page type and then the parent.",
+      statement: "This kind answers the level `page-property`.",
     },
     {
       invariantKind: "departure",
-      statement: "This kind answers the level `part-of`.",
+      statement: "The index answers this kind under the page type and then the scope.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The parent is the value the property a declaration's `partOfScope` names carries.",
+      statement: "The scope is the value the property a declaration's `uniqueScope` names carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That property is declared on the same page type.",
     },
     {
       invariantKind: "departure",
@@ -27,15 +30,7 @@ export const inPageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "The part-of edge is a spanning tree.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That property declares the parent's page type.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The address carries no page type for the parent.",
+      statement: "A scope is any kind of page property rather than a relation alone.",
     },
     {
       invariantKind: "departure",
