@@ -1,0 +1,13 @@
+diff --git a/alan/harness/alan-harness.domain.ts b/alan/harness/alan-harness.domain.ts
+index 696e0e66f1fb4da7f91dc9b15b556a192c36097b..a27677d4026cbdb8ead6a63221cc7fbde280c320 100644
+--- a/alan/harness/alan-harness.domain.ts
++++ b/alan/harness/alan-harness.domain.ts
+@@ -61,6 +61,8 @@ export const alanHarness = {
+     "domain/money",
+     "page-type/calendar-event",
+     "page-type/calendar-event-source",
++    "module/overdue-rolling",
++    "workstation-service/overdue-rolling",
+   ],
+   invariants: [
+     {
