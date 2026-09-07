@@ -8,8 +8,11 @@ export const budgetRing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The arc and the color measure different quantities, so a full ring can be any color.",
+      statement: "The arc and the color measure different quantities.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A full ring can be any color.",
     },
   ],
 } as const satisfies Domain
