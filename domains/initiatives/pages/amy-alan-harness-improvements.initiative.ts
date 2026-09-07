@@ -10,7 +10,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "Alan can see how much each widget on his phone is used.",
       workingMemory:
-        "The links are landed at bafffd04: each of Alan's six tiles opens the link its page states, naming itself after `#widget=`, and every page's `opens` was compared against its Swift literal, six of six matching. A Widgets nav and a Use view landed at a56139ae so the counts have a screen. `alanwalton-attribute-stoplights` still carries no `opens`, there being no attributes screen to open. What is unseen from here is Alan building the app and tapping a tile.",
+        "Live and counting. The six tiles carry the `#widget=` fragment their pages state (bafffd04), TestFlight build 206 ships them, and the first tap ever was counted: `alanwalton-claude-usage` reads taps 1 at 2026-09-07T16:54:11Z. A Widgets nav and a Use view (a56139ae) draw the counts, and Alan has verified the chain. What is left is `alanwalton-attribute-stoplights`, which states no `opens` and draws no link, there being no attributes screen for a tap to reach.",
     },
     {
       statement: "Alan's nav items load in the native app.",
