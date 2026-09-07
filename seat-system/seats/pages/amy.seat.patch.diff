@@ -46,6 +46,25 @@ index 372e70bfdf5208168890482500145d3190f8ed66..d04e6a6e81fd7d17067910ff9dc19cb6
 -  if (shape.doneKey === null) return false
    return textAt(values, shape.doneKey) !== null
  }
+diff --git a/pages/core/task-lifecycle/task-lifecycle.module.ts b/pages/core/task-lifecycle/task-lifecycle.module.ts
+index ff595c0777c6a727baf819ce206de8872be760ed..e1aa1d7ffd79475c27be358309b7106824fa2a61 100644
+--- a/pages/core/task-lifecycle/task-lifecycle.module.ts
++++ b/pages/core/task-lifecycle/task-lifecycle.module.ts
+@@ -32,13 +32,9 @@ export const taskLifecycle = {
+       invariantKind: "departure",
+       statement: "A task holding no rule reads as done from the day of the marking onward.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "A temper task holds no key saying that task is done.",
+-    },
+     {
+       invariantKind: "departure",
+-      statement: "A temper task never reads as done.",
++      statement: "Every page type here carries a key saying the task is done.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/temper/temper-progress/completed-days/properties/completed-at.instant-property.ts b/temper/temper-progress/completed-days/properties/completed-at.instant-property.ts
 deleted file mode 100644
 index d03f439b92f4696efed5d69d322077825566d979..0000000000000000000000000000000000000000
