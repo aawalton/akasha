@@ -276,6 +276,7 @@
     ]
   },
   "dependencies": {
+    "@akasha/code": "workspace:*",
     "@akasha/editor-extension": "workspace:*"
   }
 }

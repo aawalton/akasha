@@ -760,6 +760,7 @@
       "name": "ops",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/code": "workspace:*",
         "@akasha/editor-extension": "workspace:*",
       },
     },
