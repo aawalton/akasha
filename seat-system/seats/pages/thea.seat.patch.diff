@@ -117,6 +117,24 @@ index d5ae58bd67b4e72f46b3ac61f855094788f46836..87602fe21ecef2977137fe0821da4223
 +export const noRawNulBytes = judgingEach(FILES, (given, shadow) =>
 +  exemptIn(given.path, shadow) ? [] : reasonsIn(given)
 +)
+diff --git a/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.ts b/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.ts
+index 5d0c94d6ca2d109adf7b2f4a02fa02977505fe1b..179777cde988109374e223569ce3118f8157df29 100644
+--- a/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.ts
++++ b/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.ts
+@@ -14,11 +14,11 @@ export const noRawNulBytes = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every file in the akasha folder is judged.",
++      statement: "Every file no property declares as bytes is judged.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "No kind of file is exempt.",
++      statement: "A body a file property declares as bytes is let through.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/indexes/property-carrying/property-carrying.module.code.ts b/pages/indexes/property-carrying/property-carrying.module.code.ts
 index 31918d32cc69664824f2e163a997f4d80cf21d89..11c7525abad52892b0ac64268da877af774bf14f 100644
 --- a/pages/indexes/property-carrying/property-carrying.module.code.ts
