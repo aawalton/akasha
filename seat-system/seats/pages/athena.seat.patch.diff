@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/seat-system/seats/pages/athena.seat.ts b/seat-system/seats/pages/athena.seat.ts
+index 0bdd4d4cf0ff785f220b28c2e27f50cb65537529..8172354eaba18724c80cbcb289ca98f244b2ff2a 100644
+--- a/seat-system/seats/pages/athena.seat.ts
++++ b/seat-system/seats/pages/athena.seat.ts
+@@ -5,7 +5,7 @@ export const athena = {
+   pageTypeSlug: "seat",
+   slug: "athena",
+   personaSlug: "athena",
+-  assignmentSlug: "workspace-package/agent",
++  assignmentSlug: "initiative/athena-commands-at-the-root",
+   roleSlug: "definer",
+   personSlug: "alan",
+   startMode: "interactive",
