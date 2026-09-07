@@ -1,4 +1,3 @@
-import { patchIn } from "@akasha/agents/patch-keeping"
 import { formattedBody } from "@akasha/code/code-format"
 import { agentPathOf, changingOf, owedIn } from "@akasha/context/warranting"
 import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
@@ -24,8 +23,6 @@ import {
   type Bodies,
   type Body,
   type Draft,
-  drafted,
-  putBack,
   type Rebased,
   type Running,
   rebasedHeld,
@@ -44,7 +41,7 @@ const BARE: readonly string[] = []
 
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
 
-export type Unfold = { readonly patch: string | null; readonly went: readonly string[] }
+export type Unfold = { readonly went: readonly string[] }
 
 export type Folded =
   | {
@@ -100,17 +97,11 @@ export function folding(root: string, page: string): Folded {
       answer = { refusals: [said.refused] }
       return had
     }
-    const was = patchIn(root, page)
-    const took = drafted(root, page, draftsOf(formattedEdits(root, said.edits)), CHANGED)
-    if ("why" in took) {
-      answer = { refusals: [took.why] }
-      return had
-    }
     answer = {
       folded: said.edits.map((one) => one.path).sort(),
       dropped,
-      unfold: { patch: was, went: linesIn(root, page) },
-      carried: { held: took.held, running: took.running },
+      unfold: { went: linesIn(root, page) },
+      carried: { held: heldOf(draftsOf(formattedEdits(root, said.edits))), running: CHANGED },
     }
     return had
   })
@@ -174,7 +165,6 @@ export function undone(root: string, page: string, unfold: Unfold, landed: boole
     droppedFirst(root, page, unfold.went)
     return null
   }
-  putBack(root, page, unfold.patch)
   return "the fold is undone — the edits are kept where the edits were, for a change to mend"
 }
 
