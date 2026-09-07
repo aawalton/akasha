@@ -2433,6 +2433,9 @@
     },
     "temper/temper-lib-scrollable-menu": {
       "name": "@akasha/temper-lib-scrollable-menu",
+      "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
+      },
     },
     "temper/temper-lib-sets": {
       "name": "@akasha/temper-lib-sets",

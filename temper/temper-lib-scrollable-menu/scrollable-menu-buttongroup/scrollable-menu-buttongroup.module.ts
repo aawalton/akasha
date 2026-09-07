@@ -17,7 +17,7 @@ export const scrollableMenuButtongroup = {
     },
     {
       invariantKind: "departure",
-      statement: "Check-all and invert are carried out by driving each button's original handler.",
+      statement: "A bulk check or invert is carried out by driving each button's original handler.",
     },
     {
       invariantKind: "departure",

@@ -75,5 +75,8 @@
     "./util-menu": "./scrollable-menu-util-menu/scrollable-menu-util-menu.module.code.ts",
     "./util-tooltip": "./scrollable-menu-util-tooltip/scrollable-menu-util-tooltip.module.code.ts",
     "./util-visible": "./scrollable-menu-util-visible/scrollable-menu-util-visible.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/code-system": "workspace:@akasha/code@*"
   }
 }
