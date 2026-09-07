@@ -242,7 +242,7 @@ function sameRow(one: Edit, two: Edit): boolean {
 function narrowIn(one: Edit): Stated | null {
   const narrow = narrowed(one)
   const only = narrow.length === 1 ? narrow[0] : undefined
-  if (only === undefined) return null
+  if (only === undefined || only.kind === "replace") return null
   const back = widened({ edits: [only], refused: null }, wasIn(one))
   const got = back.edits[0]
   if (back.refused !== null || back.edits.length !== 1 || got === undefined) return null

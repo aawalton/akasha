@@ -354,6 +354,27 @@ test("a row adding a path is written without the body that path lacked", () => {
   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
 })
 
+test("a row writing one body over another states the whole body each side", () => {
+  const root = rootFor()
+  putting(root, "a\n", ONE)
+  const row = writing(ONE, "a\n", "b\n")
+
+  appendEdits(root, PAGE, [row])
+
+  expect(storedIn(root)).toEqual([JSON.stringify(row)])
+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+})
+
+test("a row writing over a body the files beneath no longer hold reads back as that row", () => {
+  const root = rootFor()
+  putting(root, "c\n", ONE)
+  const row = writing(ONE, "a\n", "b\n")
+
+  appendEdits(root, PAGE, [row])
+
+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+})
+
 test("a row that would read back as no row states the whole body", () => {
   const root = rootFor()
   const row = writing(ONE, "a\n", "a\n")

@@ -76,6 +76,18 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
+      statement: "A row whose path holds a body each side states the whole body each side.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row narrowed names no passage of a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that moved beneath a narrowed row is read as that body is now.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Whether a row reads back is answered against the body that row states.",
     },
     {
