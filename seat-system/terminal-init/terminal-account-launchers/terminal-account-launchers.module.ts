@@ -18,7 +18,8 @@ export const terminalAccountLaunchers = {
     },
     {
       invariantKind: "departure",
-      statement: "The terminal is reset once the client ends, whatever the client ended with.",
+      statement:
+        "The terminal is reset once the client ends whatever status that client ended with.",
     },
     {
       invariantKind: "departure",
