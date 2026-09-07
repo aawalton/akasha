@@ -91,6 +91,37 @@ index 9edf816fcc25dcc9ad8a0a71103c8998e6835987..6fd35e4e8d552b9766ac8a98a2eb50e1
  test("a pronoun filling the subject slot is found", () => {
    const said = sentenceOf([
      ["It", "PRON", 3, "nsubj:pass"],
+diff --git a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.test.ts b/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.test.ts
+index 8194d501d8aa61fb26190e896a5851bcf03f7367..5ee635a8ea8e82feff0d639de3b7f5094ce063cc 100644
+--- a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.test.ts
++++ b/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.test.ts
+@@ -1,25 +1,7 @@
+ import { expect, test } from "bun:test"
+-import type { DepSentence } from "@akasha/plain-language/dependency-graph"
+-import { makeSentence } from "@akasha/plain-language/dependency-graph"
++import { sentenceOf } from "../shape-fixture/shape-fixture.module.code.ts"
+ import { loneQuantifier } from "./lone-quantifier.sentence-shape.code.ts"
+ 
+-type Row = readonly [string, string, number, string]
+-
+-function sentenceOf(rows: readonly Row[]): DepSentence {
+-  let at = 0
+-  const tokens = rows.map(([form, upos, head, deprel], index) => {
+-    const start = at
+-    at += form.length + 1
+-    return { id: index + 1, form, upos, head, deprel, start, end: start + form.length }
+-  })
+-  return makeSentence({
+-    text: rows.map((row) => row[0]).join(" "),
+-    start: 0,
+-    end: at,
+-    tokens,
+-  })
+-}
+-
+ test("a quantifier filling the subject slot is found", () => {
+   const said = sentenceOf([
+     ["Many", "PRON", 3, "nsubj"],
 diff --git a/domains/sentence-shapes/sentence-shape.page-type.ts b/domains/sentence-shapes/sentence-shape.page-type.ts
 index 8b00431c5beb36d0b833b4d5d6be052160f89917..7d6b2c4724693f2b99e31404fd896d3525610b42 100644
 --- a/domains/sentence-shapes/sentence-shape.page-type.ts
