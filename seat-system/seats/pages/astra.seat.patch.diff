@@ -1,0 +1,53 @@
+writerOwesReading: false
+diff --git a/seat-system/seat-start-help/seat-start-help.module.code.ts b/seat-system/seat-start-help/seat-start-help.module.code.ts
+index 2b61d40f229b720c647bff1fe57b479e5f400007..605860833ef1e363b3ab794b0104ae4372714f57 100644
+--- a/seat-system/seat-start-help/seat-start-help.module.code.ts
++++ b/seat-system/seat-start-help/seat-start-help.module.code.ts
+@@ -49,7 +49,7 @@ export const HELP: CommandHelp = {
+       argLabel: "<slug>",
+       valueShape: "token",
+       description:
+-        "Who this seat's output is produced for — a person a page under `person-system/` answers to, or `agent` where it works for the fleet.",
++        "Who this seat's output is produced for — a person a page under `persons/` answers to, or `agent` where it works for the fleet.",
+     },
+     {
+       name: "--flex",
+diff --git a/seat-system/terminal-init/document-present/document-present.module.code.ts b/seat-system/terminal-init/document-present/document-present.module.code.ts
+index 78c6a7e1c2f441d76f0b7d4de49c25fbe83153a4..3c318d5e5d9c48f09150f7194cc04c26a33974ed 100644
+--- a/seat-system/terminal-init/document-present/document-present.module.code.ts
++++ b/seat-system/terminal-init/document-present/document-present.module.code.ts
+@@ -6,18 +6,12 @@ export const SLUG_MARK = "<slug>"
+ 
+ export const PERSONA_FALLBACK = `personas/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
+ 
+-export const PERSON_FALLBACK = `person-system/people/pages/${SLUG_MARK}.person.ts`
++export const PERSON_FALLBACK = `persons/people/pages/${SLUG_MARK}.person.ts`
+ 
+ export interface Named {
+   readonly slug: string
+   readonly path: string
+ }
+-
+-// A DOCUMENT'S PLACE IS READ OFF THE PAGES THERE RATHER THAN SPELLED HERE. The akasha tree is
+-// still being arranged, so a folder written into this file goes stale the next time a page type
+-// moves, and the shell function built from it then refuses a seat that is perfectly well declared.
+-// Reading the path of a page that is there and blanking its slug survives every move that keeps a
+-// page named for its slug.
+ export function shapeOf(path: string, slug: string): string {
+   const parts = path.split("/")
+   return parts
+diff --git a/seat-system/terminal-init/document-present/document-present.module.test.ts b/seat-system/terminal-init/document-present/document-present.module.test.ts
+index 049ce1f3333545b51e3c8440802a49c7d87bb526..80fe56d3432c9d341f39272c1a9d27b4313613ca 100644
+--- a/seat-system/terminal-init/document-present/document-present.module.test.ts
++++ b/seat-system/terminal-init/document-present/document-present.module.test.ts
+@@ -24,8 +24,8 @@ describe("a shape", () => {
+   })
+ 
+   test("blanks a file whose name opens with the slug", () => {
+-    expect(shapeOf("akasha/person-system/people/pages/alan.person.ts", "alan")).toBe(
+-      `akasha/person-system/people/pages/${SLUG_MARK}.person.ts`
++    expect(shapeOf("akasha/persons/people/pages/alan.person.ts", "alan")).toBe(
++      `akasha/persons/people/pages/${SLUG_MARK}.person.ts`
+     )
+   })
+ })
