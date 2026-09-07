@@ -6,8 +6,8 @@ import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
-import { gathered } from "../change-answer/change-answer.module.code.ts"
-import type { Answer, Edit } from "../change-answer/change-answer.module.types.ts"
+import { type BodyOf, gathered, widened } from "../change-answer/change-answer.module.code.ts"
+import type { Answer, Edit, Reading, Stated } from "../change-answer/change-answer.module.types.ts"
 
 const SLUG = "edits"
 
@@ -43,26 +43,48 @@ function staleAt(page: string): string | null {
   return besideAt(page, SLUG, HELD)
 }
 
+function owing(said: Record<string, unknown>): Reading | null {
+  const { readersOweReading, writerOwesReading } = said
+  if (readersOweReading !== undefined && typeof readersOweReading !== "boolean") return null
+  if (writerOwesReading !== undefined && typeof writerOwesReading !== "boolean") return null
+  return {
+    ...(readersOweReading === undefined ? {} : { readersOweReading }),
+    ...(writerOwesReading === undefined ? {} : { writerOwesReading }),
+  }
+}
+
 function edited(said: unknown): Edit | null {
   if (typeof said !== "object" || said === null) return null
-  const { path, was, body, from, readersOweReading, writerOwesReading } = said as Record<
-    string,
-    unknown
-  >
+  const one = said as Record<string, unknown>
+  const { path, was, body, from } = one
   if (typeof path !== "string") return null
   if (was !== null && typeof was !== "string") return null
   if (body !== null && typeof body !== "string") return null
   if (from !== undefined && typeof from !== "string") return null
-  if (readersOweReading !== undefined && typeof readersOweReading !== "boolean") return null
-  if (writerOwesReading !== undefined && typeof writerOwesReading !== "boolean") return null
-  return {
-    path,
-    was,
-    body,
-    ...(from === undefined ? {} : { from }),
-    ...(readersOweReading === undefined ? {} : { readersOweReading }),
-    ...(writerOwesReading === undefined ? {} : { writerOwesReading }),
+  const owed = owing(one)
+  if (owed === null) return null
+  return { path, was, body, ...(from === undefined ? {} : { from }), ...owed }
+}
+
+function stated(said: unknown): Stated | null {
+  if (typeof said !== "object" || said === null) return null
+  const one = said as Record<string, unknown>
+  const owed = owing(one)
+  if (owed === null) return null
+  const { kind, path, content, contentFrom, contentTo, pathFrom, pathTo } = one
+  const at = typeof path === "string" ? path : null
+  if (kind === "add" && at !== null && typeof content === "string") {
+    return { ...owed, kind: "add", path: at, content }
   }
+  if (kind === "replace" && at !== null) {
+    if (typeof contentFrom !== "string" || typeof contentTo !== "string") return null
+    return { ...owed, kind: "replace", path: at, contentFrom, contentTo }
+  }
+  if (kind === "remove" && at !== null) return { ...owed, kind: "remove", path: at }
+  if (kind === "move" && typeof pathFrom === "string" && typeof pathTo === "string") {
+    return { ...owed, kind: "move", pathFrom, pathTo }
+  }
+  return null
 }
 
 function parsed(line: string): unknown {
@@ -73,17 +95,23 @@ function parsed(line: string): unknown {
   }
 }
 
-function rowsIn(text: string): Kept {
-  const rows: Edit[] = []
+function bodyIn(root: string): BodyOf {
+  return (path) => (existsSync(join(root, path)) ? (textAt(root, path) ?? "") : null)
+}
+
+function rowsIn(text: string, bodyOf: BodyOf): Kept {
+  const said: (Edit | Stated)[] = []
   const lines = text.split("\n")
   for (let at = 0; at < lines.length; at += 1) {
     const line = lines[at]
     if (line === undefined || line === "") continue
-    const one = edited(parsed(line))
+    const read = parsed(line)
+    const one = edited(read) ?? stated(read)
     if (one === null) return { why: `line ${String(at + 1)} ${NO_ROW}` }
-    rows.push(one)
+    said.push(one)
   }
-  return { rows }
+  const grown = widened({ edits: said, refused: null }, bodyOf)
+  return grown.refused === null ? { rows: grown.edits } : { why: grown.refused }
 }
 
 function textOf(rows: readonly Edit[]): string {
@@ -136,7 +164,7 @@ function staleIn(root: string, page: string): string | null {
 
 function heldIn(root: string, page: string): Kept {
   const held = textOver(root, page) ?? staleIn(root, page)
-  return held === null ? { rows: [] } : rowsIn(held)
+  return held === null ? { rows: [] } : rowsIn(held, bodyIn(root))
 }
 
 export function editsIn(root: string, page: string): Kept {
@@ -208,7 +236,7 @@ function migrated(root: string, page: string): undefined {
   if (at === null || existsSync(join(root, at))) return
   const stale = staleIn(root, page)
   if (stale === null) return
-  const read = rowsIn(stale)
+  const read = rowsIn(stale, bodyIn(root))
   if ("why" in read) return
   appending(root, page, read.rows)
   abandoned(root, page)
@@ -301,7 +329,7 @@ export function handedIn(root: string, seat: string, under: string): Kept {
   const ref = handedRef(seat, under)
   if (ref === null) return { why: NO_PAGE }
   const held = readUnder(root, ref)
-  return held === null ? { rows: [] } : rowsIn(held)
+  return held === null ? { rows: [] } : rowsIn(held, bodyIn(root))
 }
 
 export function handedOver(root: string, seat: string, from: string, under: string): Kept {

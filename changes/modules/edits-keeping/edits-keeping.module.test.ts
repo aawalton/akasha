@@ -41,10 +41,14 @@ function pathsIn(said: ReturnType<typeof editsIn>): readonly string[] {
   return "why" in said ? [] : said.rows.map((one) => one.path)
 }
 
-function putting(root: string, text: string): undefined {
-  const full = join(root, AT)
+function putting(root: string, text: string, at: string = AT): undefined {
+  const full = join(root, at)
   mkdirSync(dirname(full), { recursive: true })
   writeFileSync(full, text)
+}
+
+function lined(...rows: readonly unknown[]): string {
+  return rows.map((one) => `${JSON.stringify(one)}\n`).join("")
 }
 
 test("the file is named beside the page by the rule every file beside a page is named by", () => {
@@ -223,4 +227,89 @@ test("the next write moves that ledger into the file and takes the ref away", ()
 
 test("the file the edits are kept in is the file the apply reports", () => {
   expect(keptAt(PAGE)).toBe(AT)
+})
+
+test("a row stating an add is read as the edit that add leaves", () => {
+  const root = rootFor()
+  putting(root, lined({ kind: "add", path: ONE, content: "a\n" }))
+
+  expect(editsIn(root, PAGE)).toEqual({ rows: [{ path: ONE, was: null, body: "a\n" }] })
+})
+
+test("a row stating a remove is read with the body the file beneath holds", () => {
+  const root = rootFor()
+  putting(root, "a\n", ONE)
+  putting(root, lined({ kind: "remove", path: ONE }))
+
+  expect(editsIn(root, PAGE)).toEqual({ rows: [{ path: ONE, was: "a\n", body: null }] })
+})
+
+test("a row stating a move is read as the edit carrying that body across", () => {
+  const root = rootFor()
+  putting(root, "a\n", ONE)
+  putting(root, lined({ kind: "move", pathFrom: ONE, pathTo: TWO }))
+
+  expect(editsIn(root, PAGE)).toEqual({
+    rows: [{ path: TWO, was: "a\n", body: "a\n", from: ONE }],
+  })
+})
+
+test("a row stating a replace is read as the edit that passage leaves", () => {
+  const root = rootFor()
+  putting(root, "one two\n", ONE)
+  putting(root, lined({ kind: "replace", path: ONE, contentFrom: "two", contentTo: "three" }))
+
+  expect(editsIn(root, PAGE)).toEqual({
+    rows: [{ path: ONE, was: "one two\n", body: "one three\n" }],
+  })
+})
+
+test("a row reads the body the row before it left rather than the body beneath", () => {
+  const root = rootFor()
+  putting(
+    root,
+    lined(
+      { kind: "add", path: ONE, content: "one two\n" },
+      { kind: "replace", path: ONE, contentFrom: "two", contentTo: "three" }
+    )
+  )
+
+  expect(editsIn(root, PAGE)).toEqual({
+    rows: [
+      { path: ONE, was: null, body: "one two\n" },
+      { path: ONE, was: "one two\n", body: "one three\n" },
+    ],
+  })
+})
+
+test("a narrow row saying its readers owe no reading keeps that flag", () => {
+  const root = rootFor()
+  putting(root, lined({ kind: "add", path: ONE, content: "a\n", readersOweReading: false }))
+
+  expect(editsIn(root, PAGE)).toEqual({
+    rows: [{ path: ONE, was: null, body: "a\n", readersOweReading: false }],
+  })
+})
+
+test("a narrow row that will not read against the files beneath refuses the whole file", () => {
+  const root = rootFor()
+  putting(root, lined({ kind: "remove", path: ONE }))
+
+  expect(editsIn(root, PAGE)).toEqual({
+    why: `\`${ONE}\` holds no body, so nothing is taken away`,
+  })
+})
+
+test("a row stating a kind that is no kind refuses the whole file and names the line", () => {
+  const root = rootFor()
+  putting(root, lined({ kind: "swap", path: ONE }))
+
+  expect(editsIn(root, PAGE)).toEqual({ why: "line 1 reads as no edit" })
+})
+
+test("a whole row and a narrow row are read side by side", () => {
+  const root = rootFor()
+  putting(root, lined(writing(ONE, null, "a\n"), { kind: "add", path: TWO, content: "b\n" }))
+
+  expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE, TWO])
 })

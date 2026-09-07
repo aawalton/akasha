@@ -30,6 +30,23 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A line states the edit narrowly or states the whole body that edit was worked out from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line stating an edit narrowly is read against the files beneath the root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line is read against the bodies the lines before that line leave.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line that will not read against those bodies refuses the whole file.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A line reading as no edit refuses the whole file rather than being passed over.",
     },
     {
