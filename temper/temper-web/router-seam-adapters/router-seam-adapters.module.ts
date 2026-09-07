@@ -9,7 +9,8 @@ export const routerSeamAdapters = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A design package reads the router through a context rather than importing one.",
+      statement:
+        "A design package reads the router through a context rather than importing the router.",
     },
     {
       invariantKind: "departure",
