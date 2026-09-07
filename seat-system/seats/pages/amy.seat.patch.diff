@@ -1,0 +1,55 @@
+writerOwesReading: false
+diff --git a/pages/navs/pages/attributes.nav.ts b/pages/navs/pages/attributes.nav.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..25c55ac7bc1c2c55c8d18ab2237e70605f275a08
+--- /dev/null
++++ b/pages/navs/pages/attributes.nav.ts
+@@ -0,0 +1,11 @@
++import type { Nav } from "../nav.page-type.ts"
++
++export const attributes = {
++  id: "01a07cd4-f5ec-72f5-b9ca-eae6970234ac",
++  pageTypeSlug: "nav",
++  slug: "attributes",
++  title: "Attributes",
++  icon: "gauge",
++  navPlace: 17,
++  appSlug: "alanwalton",
++} as const satisfies Nav
+diff --git a/pages/views/pages/attributes-all.view.ts b/pages/views/pages/attributes-all.view.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6f7a2057e93b38b7926471e29f348c31ec2173dd
+--- /dev/null
++++ b/pages/views/pages/attributes-all.view.ts
+@@ -0,0 +1,31 @@
++import type { View } from "../view.page-type.ts"
++
++export const attributesAll = {
++  id: "01a07cd5-039f-727d-a85a-976ade683a5b",
++  pageTypeSlug: "view",
++  slug: "attributes-all",
++  title: "All",
++  navSlug: "attributes",
++  pageType: "attribute",
++  viewPlace: 0,
++  layout: "table",
++  viewSorts: [{ key: "slug", descending: false }],
++  visibleProperties: ["definition", "point-unit", "lifetime-points"],
++  alwaysShowProperties: ["point-unit", "lifetime-points"],
++  hiddenPropertiesOrder: [
++    "title",
++    "description",
++    "cover",
++    "plural-slug",
++    "part-slugs",
++    "invariants",
++    "directives",
++    "created-at",
++    "updated-at",
++    "seq",
++    "page-type-id",
++  ],
++  pageSize: 24,
++  itemPageSize: 12,
++  groupPageSize: 6,
++} as const satisfies View
