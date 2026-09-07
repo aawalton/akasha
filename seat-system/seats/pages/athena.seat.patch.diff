@@ -1,4 +1,3 @@
-writerOwesReading: false
 diff --git a/alan/fitness/commands/exercise-saying/exercise-saying.module.code.ts b/alan/fitness/commands/exercise-saying/exercise-saying.module.code.ts
 index d4d290f629bcc90a256817ec18f72d77c89e56d8..a9c3e5494347c40ad31aec0b0de7ea525fee4f72 100644
 --- a/alan/fitness/commands/exercise-saying/exercise-saying.module.code.ts
@@ -422,14 +421,13 @@ index a8c23c767c92d45859904925190d1ac264068ff6..6880bbd327bf152d50acc95950b301ec
      "module/gated-write",
      "module/ios-widget-swift",
 diff --git a/command-system/package.json b/command-system/package.json
-index af0daed8d14a0293dcd544017006f6c74a205d25..975d9cdbafd3be6e508e071c4f5403345c85220a 100644
+index af0daed8d14a0293dcd544017006f6c74a205d25..069b01d470c0148f658bacac4f273f59d4c9e50d 100644
 --- a/command-system/package.json
 +++ b/command-system/package.json
-@@ -11,7 +11,8 @@
-     "./asking/testing": "./asking/asking.module.test-fixtures.ts",
+@@ -12,6 +12,8 @@
      "./cli": "./cli/cli.module.code.ts",
      "./calling": "./calling/calling.module.code.ts",
--    "./calling/testing": "./calling/calling.module.test-fixtures.ts",
+     "./calling/testing": "./calling/calling.module.test-fixtures.ts",
 +    "./command-answering": "./command-answering/command-answering.module.code.ts",
 +    "./command-filling": "./command-filling/command-filling.module.code.ts",
      "./command": "./commands/command.page-type.ts",
