@@ -9,6 +9,5 @@ export const booleanProperty = {
   slug: "boolean-property",
   definition: "a page property holding true or false",
   pluralSlug: "boolean-properties",
-  prose: false,
   extendsSlug: ["page-type/page-property"],
 } as const satisfies PageType

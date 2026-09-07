@@ -9,7 +9,6 @@ import type { Mortal } from "./properties/mortal.boolean-property.ts"
 import type { NextSeq } from "./properties/next-seq.number-property.ts"
 import type { OwnerSlug } from "./properties/owner-slug.relation-property.ts"
 import type { Properties } from "./properties/properties.record-property.ts"
-import type { Prose } from "./properties/prose.boolean-property.ts"
 import type { RunsTabooCheck } from "./properties/runs-taboo-check.boolean-property.ts"
 import type { Sequence } from "./properties/sequence.record-property.ts"
 import type { Worked } from "./properties/worked.file-property.ts"
@@ -26,7 +25,6 @@ export type PageType = Domain & {
   nextSeq?: NextSeq
   ownerSlug?: OwnerSlug
   runsTabooCheck?: RunsTabooCheck
-  prose?: Prose
   allowsTmpPaths?: AllowsTmpPaths
   worked?: Worked
 }
@@ -50,7 +48,6 @@ export const pageType = {
     "boolean-property/many",
     "boolean-property/mark-read-on-end",
     "boolean-property/mortal",
-    "boolean-property/prose",
     "boolean-property/required",
     "boolean-property/runs-taboo-check",
     "boolean-property/secret",
@@ -105,7 +102,6 @@ export const pageType = {
     { pagePropertySlug: "record-property/media-config", required: false, many: false },
     { pagePropertySlug: "record-property/sequence", required: false, many: false },
     { pagePropertySlug: "boolean-property/runs-taboo-check", required: false, many: false },
-    { pagePropertySlug: "boolean-property/prose", required: false, many: false },
     { pagePropertySlug: "boolean-property/allows-tmp-paths", required: false, many: false },
     { pagePropertySlug: "number-property/next-seq", required: false, many: false },
     { pagePropertySlug: "relation-property/owner-slug", required: false, many: false },
@@ -131,10 +127,6 @@ export const pageType = {
     {
       invariantKind: "departure",
       statement: "A page type says here whether the taboo terms are judged over its pages.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page type says here whether a property of that page type holds prose.",
     },
     {
       invariantKind: "departure",

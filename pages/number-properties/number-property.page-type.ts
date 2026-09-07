@@ -12,7 +12,6 @@ export const numberProperty = {
   slug: "number-property",
   definition: "a page property holding a number",
   pluralSlug: "number-properties",
-  prose: false,
   extendsSlug: ["page-type/page-property"],
   partSlugs: ["number-property/max"],
   properties: [{ pagePropertySlug: "number-property/max", required: true, many: false }],

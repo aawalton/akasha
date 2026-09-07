@@ -29,7 +29,6 @@ export const rankProperty = {
   slug: "rank-property",
   definition: "a page property holding a rung on a ladder of grades",
   pluralSlug: "rank-properties",
-  prose: false,
   extendsSlug: ["page-type/select-property"],
   invariants: [
     {
