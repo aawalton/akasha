@@ -1,3 +1,26 @@
+diff --git a/domains/plain-language/parse-doubt/parse-doubt.module.code.ts b/domains/plain-language/parse-doubt/parse-doubt.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..96ce17f7e9bcd93d0f2a483ad7286dc07f4de185
+--- /dev/null
++++ b/domains/plain-language/parse-doubt/parse-doubt.module.code.ts
+@@ -0,0 +1,17 @@
++import type { DepSentence } from "../dependency-graph/dependency-graph.module.code.ts"
++import { hasChild, rootOf } from "../dependency-graph/dependency-graph.module.code.ts"
++
++const SUBJECT = ["nsubj", "csubj"]
++
++const NO_ROOT = "the parse names no root"
++
++export function doubtsIn(sentence: DepSentence): readonly string[] {
++  const root = rootOf(sentence)
++  if (root === undefined) return [NO_ROOT]
++  if (SUBJECT.some((rel) => hasChild(sentence, root.id, rel))) return []
++  return [`the root \`${root.form}\` carries no subject`]
++}
++
++export function isSound(sentence: DepSentence): boolean {
++  return doubtsIn(sentence).length === 0
++}
 diff --git a/domains/plain-language/parse-doubt/parse-doubt.module.ts b/domains/plain-language/parse-doubt/parse-doubt.module.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..6532ea1f89bceed460b5b4738cf383c75f8d685c
