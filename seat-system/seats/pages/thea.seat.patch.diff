@@ -13,3 +13,16 @@ index 3e01cfacee3608f57d852792d316a99b1dfa7e13..b31d15b419ca5de8486e8836ef1211c7
    runsOnWorktree: false,
    runsOnDeploy: false,
    runsOnAudit: false,
+diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
+index 2e22037d14151aec86440f519181a8b8564cb62e..daccd4fb92b824c9e6930e0a62939bfb6e5d8d17 100644
+--- a/domains/initiatives/pages/thea-checks-system.initiative.ts
++++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
+@@ -10,7 +10,7 @@ export const theaChecksSystem = {
+     {
+       statement: "Every check is cheap enough for patch and runs there.",
+       workingMemory:
+-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed the fault the rule defines, from its grammar. A patch run is 7.7s of check time. A check's fixed cost is usually the index re-deriving. A big refusal count can be one declaration fault repeated. Clear what the fleet edits weekly before turning on. Refusing: comments 3020, two-files 1332, method-sig 307, lint 302, syntax 212, page-matches 202, re-export 74, manifest-names 67, key-names 57, no-tmp 45, package-reached 20. page-named-as-stated next.",
++        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed the fault from the rule's own grammar, at tree scale too. A patch run is 7.7s of check time. A check's fixed cost is usually the index re-deriving. A big refusal count can be one declaration fault repeated. Clear what the fleet edits weekly. Refusing: comments 3020, two-files 1332, method-sig 307, lint 302, syntax 212, page-matches 202, re-export 74, manifest-names 67, key-names 57, no-tmp 45, package-reached 20. page-property-has-its-file next.",
+     },
+     {
+       statement: "The tests beside a changed file judge the change that carries it.",
