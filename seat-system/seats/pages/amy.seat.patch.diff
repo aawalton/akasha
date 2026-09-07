@@ -398,6 +398,25 @@ index 0808be3ab04a639dc84d7a74f5ecd871b4a51235..66a93fb97b10af8695ccfba64774355d
 +    },
    ],
  } as const satisfies Module
+diff --git a/alan/harness/inboxes/inbox.domain.ts b/alan/harness/inboxes/inbox.domain.ts
+index b3976ac1590159252158ca9137727b3edb537ba1..a542610bcabedb9dc5ab4a1f29fd845fab31f635 100644
+--- a/alan/harness/inboxes/inbox.domain.ts
++++ b/alan/harness/inboxes/inbox.domain.ts
+@@ -10,12 +10,14 @@ export const inbox = {
+     "module/email-entry-writing",
+     "module/inbox-count-polling",
+     "module/inbox-count-tick",
++    "module/inbox-count-watch",
+     "module/inbox-count-writing",
+     "module/inbox-keys",
+     "module/inbox-reading",
+     "module/inbox-tracking-polling",
+     "readout/inboxes-email",
+     "readout/inboxes-tasks",
++    "workstation-service/inbox-count-watch-service",
+     "workstation-service/inbox-reading-service",
+     "workstation-service/inbox-relay-service",
+   ],
 diff --git a/pages/indexes/package.json b/pages/indexes/package.json
 index 8fa997b12874ec2cd6a38f0e16a560add9250f11..fd0e7ca78dad19672d5e4e32fcde72987a20690e 100644
 --- a/pages/indexes/package.json
