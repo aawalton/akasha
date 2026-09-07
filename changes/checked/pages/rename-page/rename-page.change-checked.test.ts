@@ -13,9 +13,9 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { runChange as changePageProperty } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
+import { runChange as renameImports } from "../../../mechanical/pages/rename-imports/rename-imports.change-mechanical.code.ts"
 import { runChange as renamePageSlug } from "../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts"
 import { runChange as renamePathChange } from "../../../mechanical/pages/rename-path/rename-path.change-mechanical.code.ts"
-import { runChange as repointImports } from "../../../mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
 import { runChange as respellExport } from "../../../mechanical/pages/respell-export/respell-export.change-mechanical.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
@@ -48,8 +48,6 @@ const SEATED_PAGE = "akasha/seated/seated.module.ts"
 
 const SEATED_CODE = "akasha/seated/seated.module.code.ts"
 
-const NOTHING = (): null => null
-
 const saying =
   (body: string) =>
   (path: string): string | null =>
@@ -71,8 +69,8 @@ const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical/respell-export") {
     return respellExport(world, given as Parameters<typeof respellExport>[1])
   }
-  if (at === "change-mechanical/repoint-imports") {
-    return repointImports(world, given as Parameters<typeof repointImports>[1])
+  if (at === "change-mechanical/rename-imports") {
+    return renameImports(world, given as Parameters<typeof renameImports>[1])
   }
   return refusing(`\`${at}\` is reached by nothing here`)
 }
@@ -89,19 +87,18 @@ function movesOf(said: Answer): readonly (readonly [string, string])[] {
   return found
 }
 
-function bodyIn(said: Answer, path: string): string | null | undefined {
-  return said.edits.find((one) => one.path === path)?.body
-}
-
 function holdsIn(said: Answer, path: string): boolean {
   return said.edits.some((one) => one.path === path)
 }
 
 test("a body that could not be read is refused", async () => {
-  const said = await renamePage(worldIn(scratch.rootFor("slug-"), NOTHING), {
-    at: HELD_PAGE,
-    to: CARRIED,
-  })
+  const said = await renamePage(
+    worldIn(scratch.rootFor("slug-"), () => null),
+    {
+      at: HELD_PAGE,
+      to: CARRIED,
+    }
+  )
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`akasha/one/held.module.ts` could not be read")
 })
@@ -147,8 +144,12 @@ test("a page whose slug is more than one word has its camel export renamed too",
   })
   const said = await renamePage(worldIn(root, textIn(root)), { at: OTHER_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
-  expect(bodyIn(said, CARRIED_PAGE)).toContain(`export const ${CARRIED} =`)
-  expect(bodyIn(said, CARRIED_PAGE)).not.toContain("export const otherOne")
+  expect(said.edits.find((one) => one.path === CARRIED_PAGE)?.body).toContain(
+    `export const ${CARRIED} =`
+  )
+  expect(said.edits.find((one) => one.path === CARRIED_PAGE)?.body).not.toContain(
+    "export const otherOne"
+  )
 })
 
 test("the slug rename and each carry are reached at their own addresses", async () => {
@@ -178,18 +179,18 @@ test("a page's slug is renamed in its data, and its files are carried with it", 
     [HELD_PAGE, CARRIED_PAGE],
     [HELD_CODE, CARRIED_CODE],
   ])
-  expect(bodyIn(said, CARRIED_PAGE)).toBe(
+  expect(said.edits.find((one) => one.path === CARRIED_PAGE)?.body).toBe(
     page
       .replace(`"slug": "${HELD_SLUG}"`, `"slug": "${CARRIED}"`)
       .replace(`export const ${HELD_SLUG} =`, `export const ${CARRIED} =`)
   )
-  expect(bodyIn(said, NAMER_PAGE)).toBe(
+  expect(said.edits.find((one) => one.path === NAMER_PAGE)?.body).toBe(
     namer
       .replace(`"note": "${HELD_SLUG}"`, `"note": "${CARRIED}"`)
       .replace(`"module/${HELD_SLUG}"`, `"module/${CARRIED}"`)
   )
-  expect(bodyIn(said, CARRIED_CODE)).toBe(heldCode)
-  expect(bodyIn(said, NAMER_CODE)).toBe(
+  expect(said.edits.find((one) => one.path === CARRIED_CODE)?.body).toBe(heldCode)
+  expect(said.edits.find((one) => one.path === NAMER_CODE)?.body).toBe(
     namerCode.replace(
       `../one/${HELD_SLUG}.module.code.ts`,
       `../${CARRIED}/${CARRIED}.module.code.ts`

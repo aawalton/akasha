@@ -9,12 +9,11 @@ import {
 import { gathered, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
-  type Reaching,
   type World,
   worldAt,
   worldOver,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { runChange as repointImports } from "../repoint-imports/repoint-imports.change-mechanical.code.ts"
+import { runChange as renameImports } from "../rename-imports/rename-imports.change-mechanical.code.ts"
 import { renamePath } from "./rename-path.change-mechanical.code.ts"
 
 afterAll(scratch.sweep)
@@ -23,25 +22,17 @@ const KEPT = "akasha/one/kept.module.code.ts"
 
 const CARRIED = "akasha/one/carried.module.code.ts"
 
-const NOTHING = (): null => null
-
-const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical/repoint-imports") {
-    return Promise.resolve(repointImports(world, given as Parameters<typeof repointImports>[1]))
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
-
 function worldIn(root: string, textOf: (path: string) => string | null): World {
-  return worldAt(root, textOf, RUNS)
+  return worldAt(root, textOf, (world, at, given) => {
+    if (at === "change-mechanical/rename-imports") {
+      return Promise.resolve(renameImports(world, given as Parameters<typeof renameImports>[1]))
+    }
+    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+  })
 }
 
 function pathsOf(said: Answer): readonly string[] {
   return said.edits.map((one) => one.path).sort()
-}
-
-function bodyIn(said: Answer, path: string): string | null | undefined {
-  return said.edits.find((one) => one.path === path)?.body
 }
 
 function movesOf(said: Answer): readonly Edit[] {
@@ -49,13 +40,13 @@ function movesOf(said: Answer): readonly Edit[] {
 }
 
 test("the path it already sits at is refused", async () => {
-  const world = worldIn(scratch.rootFor("rename-path-"), NOTHING)
+  const world = worldIn(scratch.rootFor("rename-path-"), () => null)
   const said = await renamePath(world, { from: KEPT, to: KEPT })
   expect(said.refused).toBe("`akasha/one/kept.module.code.ts` is the path it already sits at")
 })
 
 test("a body that could not be read is refused", async () => {
-  const world = worldIn(scratch.rootFor("rename-path-"), NOTHING)
+  const world = worldIn(scratch.rootFor("rename-path-"), () => null)
   const said = await renamePath(world, { from: HELD_CODE, to: KEPT })
   expect(said.refused).toBe(`\`${HELD_CODE}\` could not be read`)
 })
@@ -84,7 +75,9 @@ test("a path that moves carries its importer with it", async () => {
   const said = await renamePath(worldIn(root, text), { from: HELD_CODE, to: KEPT })
   expect(said.refused).toBe(null)
   expect(pathsOf(said)).toEqual([KEPT, NAMER_CODE].sort())
-  expect(bodyIn(said, NAMER_CODE)).toContain("../one/kept.module.code.ts")
+  expect(said.edits.find((one) => one.path === NAMER_CODE)?.body).toContain(
+    "../one/kept.module.code.ts"
+  )
 })
 
 test("the path taken away is answered as the move the body arrives by", async () => {
@@ -110,7 +103,9 @@ test("a move off a path the move before it made reads that path and its importer
   })
   expect(said.refused).toBe(null)
   expect(pathsOf(said)).toEqual([CARRIED, NAMER_CODE].sort())
-  expect(bodyIn(said, NAMER_CODE)).toContain("../one/carried.module.code.ts")
+  expect(said.edits.find((one) => one.path === NAMER_CODE)?.body).toContain(
+    "../one/carried.module.code.ts"
+  )
   expect(movesOf(said)[0]?.from).toBe(KEPT)
 })
 
@@ -124,5 +119,5 @@ test("the body that moves is repointed by the change reached at its address", as
 
   await renamePath(world, { from: HELD_CODE, to: KEPT })
 
-  expect(new Set(reached)).toEqual(new Set(["change-mechanical/repoint-imports"]))
+  expect(new Set(reached)).toEqual(new Set(["change-mechanical/rename-imports"]))
 })

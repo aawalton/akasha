@@ -6,7 +6,7 @@ import { importEdge } from "@akasha/graph/import-edge"
 import { everyPath, readingIn } from "@akasha/indexes"
 import { uncommittedNamed } from "@akasha/pages/page-file-name"
 import { shadowAt } from "@akasha/pages/shadow"
-import { repointed } from "../../../changes/mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
+import { renameImports } from "../../../changes/mechanical/pages/rename-imports/rename-imports.change-mechanical.code.ts"
 import {
   importingOf,
   spellingOf,
@@ -107,7 +107,7 @@ function rewritten(held: Rewriting, from: string, to: string, text: string): str
     const stated = restated(from, next, said, own ? one.now : null)
     if (stated !== null) next = stated
   }
-  const pointed = repointed(from, to, next, held.moved)
+  const pointed = renameImports(from, to, next, held.moved)
   const done = pointed.edits[0]?.body ?? next
   return pathRespelled(to, done, one.was, one.now) ?? done
 }

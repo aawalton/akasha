@@ -2,7 +2,7 @@ import { dirname } from "node:path"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { typedAs } from "../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { specifierFor } from "../../../mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
+import { specifierFor } from "../../../mechanical/pages/rename-imports/rename-imports.change-mechanical.code.ts"
 import {
   answered,
   gathered,
@@ -16,7 +16,7 @@ import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.t
 
 const CHANGE_FILE = "change-mechanical/change-file"
 
-const REPOINT_IMPORTS = "change-mechanical/repoint-imports"
+const RENAME_IMPORTS = "change-mechanical/rename-imports"
 
 const TYPE_KEY = "pageTypeSlug"
 
@@ -99,7 +99,7 @@ export async function changePagePageType(
   let over = world
   for (const [one, next] of moved) {
     if (over.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
-    const answer = await reach(over, REPOINT_IMPORTS, { was: one, now: next, moved: movedOver })
+    const answer = await reach(over, RENAME_IMPORTS, { was: one, now: next, moved: movedOver })
     if (answer.said.refused !== null) return answer.said
     carried.push(answer.said)
     over = answer.world
@@ -125,7 +125,7 @@ export async function changePagePageType(
     if (text === null) {
       return refusing(`\`${path}\` names a path that moved and could not be read`)
     }
-    const answer = await reach(over, REPOINT_IMPORTS, { was: path, now: path, moved: movedOver })
+    const answer = await reach(over, RENAME_IMPORTS, { was: path, now: path, moved: movedOver })
     if (answer.said.refused !== null) return answer.said
     carried.push(answered(answer.said.edits.filter((one) => one.body !== text)))
     over = answer.world

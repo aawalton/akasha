@@ -21,7 +21,7 @@ export const changeMechanical = {
     "change-mechanical/remove-file",
     "change-mechanical/remove-code-file",
     "change-mechanical/remove-page-file",
-    "change-mechanical/repoint-imports",
+    "change-mechanical/rename-imports",
     "change-mechanical/change-page-property",
     "change-mechanical/change-page-property-relation",
     "change-mechanical/add-file",

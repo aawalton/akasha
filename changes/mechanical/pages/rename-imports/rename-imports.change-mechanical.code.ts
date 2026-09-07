@@ -62,7 +62,7 @@ function nextFor(
   return specifier ? specifierFor(dir, landed) : null
 }
 
-export function repointed(
+export function renameImports(
   was: string,
   now: string,
   text: string,
@@ -91,5 +91,5 @@ export type Given = {
 export function runChange(world: World, given: Given): Answer {
   const text = world.textOf(given.was)
   if (text === null) return refusing(`\`${given.was}\` holds no body, so nothing is repointed`)
-  return repointed(given.was, given.now, text, new Map(Object.entries(given.moved)))
+  return renameImports(given.was, given.now, text, new Map(Object.entries(given.moved)))
 }

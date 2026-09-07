@@ -95,6 +95,9 @@ export type Changes = {
   "change-mechanical/rename-export": Parameters<
     typeof import("../../../mechanical/pages/rename-export/rename-export.change-mechanical.code.ts")["runChange"]
   >[1]
+  "change-mechanical/rename-imports": Parameters<
+    typeof import("../../../mechanical/pages/rename-imports/rename-imports.change-mechanical.code.ts")["runChange"]
+  >[1]
   "change-mechanical/rename-local-variable": Parameters<
     typeof import("../../../mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.code.ts")["runChange"]
   >[1]
@@ -109,9 +112,6 @@ export type Changes = {
   >[1]
   "change-mechanical/rename-property-signature": Parameters<
     typeof import("../../../mechanical/pages/rename-property-signature/rename-property-signature.change-mechanical.code.ts")["runChange"]
-  >[1]
-  "change-mechanical/repoint-imports": Parameters<
-    typeof import("../../../mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts")["runChange"]
   >[1]
   "change-mechanical/respell-export": Parameters<
     typeof import("../../../mechanical/pages/respell-export/respell-export.change-mechanical.code.ts")["runChange"]

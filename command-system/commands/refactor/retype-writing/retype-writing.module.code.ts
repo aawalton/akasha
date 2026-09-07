@@ -2,7 +2,7 @@ import { parsedAs } from "@akasha/code/code-source"
 import { typed } from "@akasha/code/code-typing"
 import { uncommittedNamed } from "@akasha/pages/page-file-name"
 import ts from "typescript"
-import { repointed } from "../../../../changes/mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
+import { renameImports } from "../../../../changes/mechanical/pages/rename-imports/rename-imports.change-mechanical.code.ts"
 import {
   importingOf,
   spellingOf,
@@ -133,7 +133,7 @@ function rewritten(held: Rewriting, from: string, to: string, text: string): Ret
   }
   const spelled = held.spelling.get(from)
   if (spelled !== undefined) next = respelled(from, next, spelled.said, spelled.keys)
-  const pointed = repointed(from, to, next, held.moved)
+  const pointed = renameImports(from, to, next, held.moved)
   return { text: pointed.edits[0]?.body ?? next }
 }
 

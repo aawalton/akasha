@@ -7,13 +7,9 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { runChange as repointImports } from "../../../mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
+import { runChange as renameImports } from "../../../mechanical/pages/rename-imports/rename-imports.change-mechanical.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
-import {
-  type Reaching,
-  type World,
-  worldAt,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { movePage } from "./move-page.change-checked.code.ts"
 
 afterAll(scratch.sweep)
@@ -24,15 +20,13 @@ const MOVED_PAGE = "akasha/three/held.module.ts"
 
 const MOVED_CODE = "akasha/three/held.module.code.ts"
 
-const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical/repoint-imports") {
-    return Promise.resolve(repointImports(world, given as Parameters<typeof repointImports>[1]))
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
-
 function worldIn(root: string): World {
-  return worldAt(root, textIn(root), RUNS)
+  return worldAt(root, textIn(root), (world, at, given) => {
+    if (at === "change-mechanical/rename-imports") {
+      return Promise.resolve(renameImports(world, given as Parameters<typeof renameImports>[1]))
+    }
+    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+  })
 }
 
 test("a page carried into another folder carries the files beside that page", async () => {
@@ -85,5 +79,5 @@ test("each body that moves is repointed by the change reached at its address", a
 
   await movePage(world, { at: HELD_PAGE, to: INTO })
 
-  expect(new Set(reached)).toEqual(new Set(["change-mechanical/repoint-imports"]))
+  expect(new Set(reached)).toEqual(new Set(["change-mechanical/rename-imports"]))
 })
