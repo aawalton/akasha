@@ -87,7 +87,7 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "Which files a machine writes is a question of its own, asked elsewhere.",
+      statement: "Which files a machine writes is a question asked elsewhere.",
     },
   ],
 } as const satisfies CodeCheck
