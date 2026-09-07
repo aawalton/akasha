@@ -1,0 +1,453 @@
+writerOwesReading: false
+diff --git a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.code.ts b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.code.ts
+index e73e8d19cf1f31d59794f1230daf785ed1d0c62c..6c7223aada56ea7a938686cd624d34c36563f496 100644
+--- a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.code.ts
++++ b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.code.ts
+@@ -1,6 +1,6 @@
+ import { dirname, join } from "node:path"
+ import type { Answering } from "@akasha/indexes/answering"
+-import { type FilePropertiesBy, pathsOf } from "@akasha/indexes/entries"
++import { type FilePropertiesBy, filesClaimedIn } from "@akasha/indexes/entries"
+ import type { Change } from "@akasha/pages/change"
+ import { pageNamed } from "@akasha/pages/page-file-name"
+ import { valueIn } from "@akasha/pages/page-value"
+@@ -62,12 +62,13 @@ export function missingFor(
+   const value = valueIn(bodyOf({ root: change.root, path: page, bytes }))
+   if (value === null) return []
+   const said: Judged[] = []
+-  for (const one of pathsOf(value, page, change.root, filedBy)) {
+-    if (one === page) continue
+-    if (change.after(one) !== null) continue
++  for (const one of filesClaimedIn(value, page, change.root, filedBy)) {
++    if (one.at === page) continue
++    if (one.uncommitted) continue
++    if (change.after(one.at) !== null) continue
+     said.push({
+       path: page,
+-      reason: `states ${statedBy(page, one, fileProperties)}, and no file stands at ${one}`,
++      reason: `states ${statedBy(page, one.at, fileProperties)}, and no file stands at ${one.at}`,
+     })
+   }
+   return said
+diff --git a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts
+index 9b4213dd4bbbdb2e54d21dd49ae8f4c3d9b5e27c..b9dce010327a6330b870325637b2629155c53958 100644
+--- a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts
++++ b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts
+@@ -173,6 +173,44 @@ test("a page named for a page type the change itself carries is judged", () => {
+   ])
+ })
+ 
++const DECLARES_CODE_UNCOMMITTED =
++  ', properties: [{ pagePropertySlug: "code", required: false, many: false, uncommitted: true }]'
++
++const ODDITY = "akasha/x/oddity.page-type.ts"
++
++const ODD_PAGE = "akasha/b/new.oddity.ts"
++
++const ODD_CODE = "akasha/b/new.oddity.code.ts"
++
++function oddly(stated: string): Record<string, Uint8Array | null> {
++  return {
++    [ODDITY]: body(stated, "oddity", "page-type", `${ID.slice(0, -1)}5`),
++    [ODD_PAGE]: body(', code: "ts"', "new", "oddity", `${ID.slice(0, -1)}6`),
++    [ODD_CODE]: null,
++  }
++}
++
++test("a page stating a file its type declares uncommitted is let through though nothing stands there", () => {
++  const root = rooted()
++
++  expect(judged(over(root, [ODDITY, ODD_PAGE], oddly(DECLARES_CODE_UNCOMMITTED)))).toEqual([])
++})
++
++test("that same property is still asked for its file under a page type declaring it committed", () => {
++  const root = rooted()
++  const said = judged(
++    over(root, [ODDITY, ODD_PAGE, PAGE], {
++      ...oddly(DECLARES_CODE_UNCOMMITTED),
++      [PAGE]: body(', code: "ts"'),
++      [CODE]: null,
++    })
++  )
++
++  expect(said).toEqual([
++    { path: PAGE, reason: `states \`code: "ts"\`, and no file stands at ${CODE}` },
++  ])
++})
++
+ test("a file property the change itself introduces is asked for its file", () => {
+   const root = rooted(["code"], ["code", "notes"])
+   const property = "akasha/x/notes.file-property.ts"
+diff --git a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
+index f9fe81b28b29ae61d51bc0e2fe5282e7e4b13acc..b44078bc920db858e9355fda3f85b04c3c438390 100644
+--- a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
++++ b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
+@@ -38,6 +38,15 @@ export const pagePropertyHasItsFile = {
+       statement:
+         "The body standing at a path the change does not name is answered by the base commit.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A file the declaration claiming that file states uncommitted is passed over.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Whether a declaration states that is read from the page's own type rather than from the property.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A page named for a page type the change itself carries is judged.",
+diff --git a/pages/indexes/beside-turning/beside-turning.module.code.ts b/pages/indexes/beside-turning/beside-turning.module.code.ts
+index 228b6fdca05b29c61ad78576aa561c3a9a40d098..45ed4b60a76fd8fe3a7fa59616de041f81fd581a 100644
+--- a/pages/indexes/beside-turning/beside-turning.module.code.ts
++++ b/pages/indexes/beside-turning/beside-turning.module.code.ts
+@@ -1,4 +1,4 @@
+-import type { FilePropertiesBy, SidecarsBy } from "../entries/index-entries.module.code.ts"
++import type { Filed, FilePropertiesBy, SidecarsBy } from "../entries/index-entries.module.code.ts"
+ import { type Valued, valuesOfType } from "../reading/index-reading.module.code.ts"
+ import type { Reading } from "../shape/index-shape.module.code.ts"
+ 
+@@ -8,13 +8,13 @@ export type Besides = {
+ }
+ 
+ function shapeOf(given: Besides, slug: string): string {
+-  const carried = given.fileProperties.get(slug) ?? new Map<string, string | null>()
++  const carried = given.fileProperties.get(slug) ?? new Map<string, Filed>()
+   const held = given.sidecars.get(slug)
+   const beside = [...(held?.besides ?? [])]
+-    .filter(([key]) => carried.get(key) === null)
++    .filter(([key]) => carried.get(key)?.fileName === null)
+     .map(([key, one]) => [key, one.held, one.uncommitted])
+   return JSON.stringify([
+-    [...carried].sort(),
++    [...carried].map(([key, one]) => [key, one.fileName]).sort(),
+     held?.secret === true,
+     held?.uncommitted === true,
+     beside.sort(),
+diff --git a/pages/indexes/entries/index-entries.module.code.ts b/pages/indexes/entries/index-entries.module.code.ts
+index a470cd6747317a0ec04b0ea20e84670634095a43..f32684205da77d8810916f361afdb47df359e166 100644
+--- a/pages/indexes/entries/index-entries.module.code.ts
++++ b/pages/indexes/entries/index-entries.module.code.ts
+@@ -75,31 +75,47 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string
+ 
+ export type IsThere = (at: string) => boolean
+ 
+-export function pathsOf(
++export type Claimed = {
++  readonly at: string
++  readonly uncommitted: boolean
++}
++
++export function filesClaimedIn(
+   value: Value,
+   path: string,
+   repo: string,
+   fileProperties: FilePropertiesBy,
+   there: IsThere = () => false
+-): readonly string[] {
++): readonly Claimed[] {
+   const own = under(repo, path)
+-  const found = [own]
++  const found: Claimed[] = [{ at: own, uncommitted: false }]
+   const carried = fileProperties.get(textAt(value, "pageTypeSlug") ?? "")
+   if (carried === undefined) return found
+   for (const [key, held] of Object.entries(value)) {
+     if (typeof held !== "string") continue
+     const propertySlug = slugFor(key)
+-    if (!carried.has(propertySlug)) continue
+-    const fileName = carried.get(propertySlug) ?? null
+-    if (fileName !== null) {
+-      found.push(join(dirname(own), fileName))
++    const filed = carried.get(propertySlug)
++    if (filed === undefined) continue
++    const uncommitted = filed.uncommitted
++    if (filed.fileName !== null) {
++      found.push({ at: join(dirname(own), filed.fileName), uncommitted })
+       continue
+     }
+-    found.push(...partsOf(own, propertySlug, held, there))
++    for (const at of partsOf(own, propertySlug, held, there)) found.push({ at, uncommitted })
+   }
+   return found
+ }
+ 
++export function pathsOf(
++  value: Value,
++  path: string,
++  repo: string,
++  fileProperties: FilePropertiesBy,
++  there: IsThere = () => false
++): readonly string[] {
++  return filesClaimedIn(value, path, repo, fileProperties, there).map((one) => one.at)
++}
++
+ export type Beside = {
+   readonly held: string
+   readonly uncommitted: boolean
+@@ -123,6 +139,8 @@ const EXTENDS = "extendsSlug"
+ 
+ const FALLBACK = "default"
+ 
++const WITHHELD = "uncommitted"
++
+ function declaredIn(value: Value): Sidecars {
+   let secret = false
+   let uncommitted = false
+@@ -132,7 +150,7 @@ function declaredIn(value: Value): Sidecars {
+   for (const one of declared) {
+     if (one === null || typeof one !== "object" || Array.isArray(one)) continue
+     const held = one as Record<string, unknown>
+-    const withheld = held["uncommitted"] === true
++    const withheld = held[WITHHELD] === true
+     if (held["secret"] === true) secret = true
+     if (withheld) uncommitted = true
+     const slug = held[DECLARES]
+@@ -217,7 +235,7 @@ export function claimsOf(
+     if (beside !== null) found.push(beside)
+   }
+   for (const [slug, beside] of held.besides) {
+-    if (carried?.get(slug) !== null) continue
++    if (carried?.get(slug)?.fileName !== null) continue
+     for (const at of besidesOf(own, slug, beside, there)) {
+       if (!found.includes(at)) found.push(at)
+     }
+@@ -269,7 +287,12 @@ export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string
+   })
+ }
+ 
+-export type FilePropertiesBy = ReadonlyMap<string, ReadonlyMap<string, string | null>>
++export type Filed = {
++  readonly fileName: string | null
++  readonly uncommitted: boolean
++}
++
++export type FilePropertiesBy = ReadonlyMap<string, ReadonlyMap<string, Filed>>
+ 
+ type Held = {
+   readonly pageTypeSlug: string
+@@ -309,9 +332,9 @@ function carriedBy(
+     const up = slugsIn(value[EXTENDS])
+     if (up.length > 0) above.set(slug, up)
+   }
+-  const found = new Map<string, ReadonlyMap<string, string | null>>()
++  const found = new Map<string, ReadonlyMap<string, Filed>>()
+   for (const slug of types.keys()) {
+-    const held = new Map<string, string | null>()
++    const held = new Map<string, Filed>()
+     const walked = new Set<string>()
+     const waiting: string[] = [slug]
+     for (let at = 0; at < waiting.length; at += 1) {
+@@ -321,12 +344,17 @@ function carriedBy(
+       const declared = types.get(here)?.[DECLARED]
+       for (const one of Array.isArray(declared) ? declared : []) {
+         if (one === null || typeof one !== "object" || Array.isArray(one)) continue
+-        const said = (one as Record<string, unknown>)[DECLARES]
++        const stated = one as Record<string, unknown>
++        const said = stated[DECLARES]
+         if (typeof said !== "string") continue
+         const hit = (said.includes("/") ? properties.get(said) : bare.get(said)) ?? null
+         if (hit === null) continue
+         if (hit.fileName === null && !besides(hit.pageTypeSlug)) continue
+-        if (!held.has(hit.propertySlug)) held.set(hit.propertySlug, hit.fileName)
++        if (held.has(hit.propertySlug)) continue
++        held.set(hit.propertySlug, {
++          fileName: hit.fileName,
++          uncommitted: stated[WITHHELD] === true,
++        })
+       }
+       for (const up of [...(above.get(here) ?? [])].reverse()) waiting.push(up)
+     }
+diff --git a/pages/indexes/entries/index-entries.module.test-fixtures.ts b/pages/indexes/entries/index-entries.module.test-fixtures.ts
+index fa88a0b684849a509fde0d9756d399d8aeb79843..5caf7555a7ff90ad017febcbe5b70c0f18af2eba 100644
+--- a/pages/indexes/entries/index-entries.module.test-fixtures.ts
++++ b/pages/indexes/entries/index-entries.module.test-fixtures.ts
+@@ -7,6 +7,7 @@ import type { Value } from "@akasha/pages/page-value"
+ import type { Shaped } from "../reaching/reaching.module.code.ts"
+ import {
+   claimsOf,
++  type Filed,
+   type FilePropertiesBy,
+   type IsThere,
+   sidecarsIn,
+@@ -158,9 +159,14 @@ export function shaped(pages: Readonly<Record<string, string>>): Shaped {
+ 
+ export function filedAs(
+   pageTypeSlug: string,
+-  said: Readonly<Record<string, string | null>>
++  said: Readonly<Record<string, string | null>>,
++  withheld: ReadonlySet<string> = new Set()
+ ): FilePropertiesBy {
+-  return new Map([[pageTypeSlug, new Map(Object.entries(said))]])
++  const held = Object.entries(said).map(([slug, fileName]): [string, Filed] => [
++    slug,
++    { fileName, uncommitted: withheld.has(slug) },
++  ])
++  return new Map([[pageTypeSlug, new Map(held)]])
+ }
+ 
+ export function declaring(
+diff --git a/pages/indexes/entries/index-entries.module.test.ts b/pages/indexes/entries/index-entries.module.test.ts
+index ed9c130850c1fa30a6f82475ce8dc4945e9dc716..0d0cbcb258f0237b923ec5ffcd78eb3cece50f51 100644
+--- a/pages/indexes/entries/index-entries.module.test.ts
++++ b/pages/indexes/entries/index-entries.module.test.ts
+@@ -241,7 +241,9 @@ test("a stated file name holds a property in a file whatever page type the prope
+ test("a file property is answered under the page type declaring it and under no other", () => {
+   const said = filePropertiesIn(SHARED_NAME)
+ 
+-  expect([...(said.get("review-session") ?? [])]).toEqual([["notes", null]])
++  expect([...(said.get("review-session") ?? [])]).toEqual([
++    ["notes", { fileName: null, uncommitted: false }],
++  ])
+   expect([...(said.get("location") ?? [])]).toEqual([])
+ })
+ 
+@@ -261,7 +263,7 @@ test("a page type carries what every page type above it declares", () => {
+ 
+   const said = filePropertiesIn(values)
+ 
+-  expect([...(said.get("index") ?? [])]).toEqual([["code", null]])
++  expect([...(said.get("index") ?? [])]).toEqual([["code", { fileName: null, uncommitted: false }]])
+   expect([...(said.get("domain") ?? [])]).toEqual([])
+ })
+ 
+@@ -292,7 +294,9 @@ test("a declaration naming its page property outright reaches it though the bare
+     },
+   ]
+ 
+-  expect([...(filePropertiesIn(values).get("review-session") ?? [])]).toEqual([["notes", null]])
++  expect([...(filePropertiesIn(values).get("review-session") ?? [])]).toEqual([
++    ["notes", { fileName: null, uncommitted: false }],
++  ])
+ })
+ 
+ test("a page type the change carries reaches the page properties the index carries", () => {
+@@ -307,7 +311,7 @@ test("a page type the change carries reaches the page properties the index carri
+   ]
+ 
+   expect([...(filePropertiesOver(readingAt(root), left).get("module") ?? [])]).toEqual([
+-    ["code", null],
++    ["code", { fileName: null, uncommitted: false }],
+   ])
+ })
+ 
+@@ -326,18 +330,20 @@ test("what each page type holds in a file is answered off the index carrying no
+ 
+ test("a page type naming two page types above it carries what each of them declares", () => {
+   expect([...(filePropertiesIn(TWO_ABOVE).get("both") ?? [])]).toEqual([
+-    ["beta", null],
+-    ["alpha", null],
++    ["beta", { fileName: null, uncommitted: false }],
++    ["alpha", { fileName: null, uncommitted: false }],
+   ])
+ })
+ 
+ test("a property two page types above declare is taken from the nearer of them", () => {
+-  expect([...(filePropertiesIn(NEARER).get("leaf") ?? [])]).toEqual([["manifest", "near.json"]])
++  expect([...(filePropertiesIn(NEARER).get("leaf") ?? [])]).toEqual([
++    ["manifest", { fileName: "near.json", uncommitted: false }],
++  ])
+ })
+ 
+ test("a property two page types equally near declare is taken from the last one named", () => {
+   expect([...(filePropertiesIn(EQUALLY_NEAR).get("leaf") ?? [])]).toEqual([
+-    ["manifest", "second.json"],
++    ["manifest", { fileName: "second.json", uncommitted: false }],
+   ])
+ })
+ 
+diff --git a/pages/indexes/entries/index-entries.module.ts b/pages/indexes/entries/index-entries.module.ts
+index ba38991574aebbadec245d21adec3831ca0b647f..fed7236597b0d09afbe7f35a2cdae69c65f13cb1 100644
+--- a/pages/indexes/entries/index-entries.module.ts
++++ b/pages/indexes/entries/index-entries.module.ts
+@@ -103,6 +103,15 @@ export const indexEntries = {
+       statement:
+         "Which properties a page type holds in a file is answered under that page type alone.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "Whether a page type keeps a property's file outside the commit is answered beside that file's name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The nearer declaration decides that as the nearer declaration decides the name.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A key reaches the property its page type declares or reaches nothing.",
+diff --git a/pages/indexes/path/index-path.index.test.ts b/pages/indexes/path/index-path.index.test.ts
+index b5ca04c723db14c2286188dcddf85164906408b7..560c9e234c884abca49a9f82d758b3d4a1c14bce 100644
+--- a/pages/indexes/path/index-path.index.test.ts
++++ b/pages/indexes/path/index-path.index.test.ts
+@@ -7,6 +7,8 @@ const BESIDES: ReadonlyMap<string, Beside> = new Map()
+ 
+ const NO_FILES: FilePropertiesBy = new Map()
+ 
++const LOOSE = { fileName: null, uncommitted: false }
++
+ const NONE: SidecarsBy = new Map()
+ 
+ const SECRET: SidecarsBy = new Map([
+@@ -59,7 +61,7 @@ test("a page whose type declares a file property with a default claims that file
+       },
+     ],
+   ])
+-  const filed: FilePropertiesBy = new Map([["domain", new Map([["patch", null]])]])
++  const filed: FilePropertiesBy = new Map([["domain", new Map([["patch", LOOSE]])]])
+ 
+   expect(pathIn(value, "/repo/a.domain.ts", "/repo", filed, drafting)).toEqual([
+     { at: "path/a.domain.ts.jsonl", line },
+@@ -81,7 +83,7 @@ test("a page stating the property its type defaults claims that file once", () =
+       },
+     ],
+   ])
+-  const filed: FilePropertiesBy = new Map([["domain", new Map([["patch", null]])]])
++  const filed: FilePropertiesBy = new Map([["domain", new Map([["patch", LOOSE]])]])
+ 
+   expect(pathIn(value, "/repo/a.domain.ts", "/repo", filed, drafting)).toEqual([
+     { at: "path/a.domain.ts.jsonl", line },
+@@ -122,7 +124,9 @@ test("a property naming its file outright claims no uncommitted file beside it",
+       },
+     ],
+   ])
+-  const filed: FilePropertiesBy = new Map([["domain", new Map([["manifest", "package.json"]])]])
++  const filed: FilePropertiesBy = new Map([
++    ["domain", new Map([["manifest", { fileName: "package.json", uncommitted: false }]])],
++  ])
+ 
+   expect(pathIn(value, "/repo/a.domain.ts", "/repo", filed, held)).toEqual([
+     { at: "path/a.domain.ts.jsonl", line },
+@@ -136,8 +140,8 @@ test("a file a page property holds is filed under its own path, naming the page
+     [
+       "module",
+       new Map([
+-        ["code", null],
+-        ["test", null],
++        ["code", LOOSE],
++        ["test", LOOSE],
+       ]),
+     ],
+   ])
+diff --git a/pages/service/page-composing/page-composing.module.code.ts b/pages/service/page-composing/page-composing.module.code.ts
+index 5177a294987f313506cef24c59371b8c14ecfcd0..ed8de8e51d182291d8e87e63c4a3ed41da05544a 100644
+--- a/pages/service/page-composing/page-composing.module.code.ts
++++ b/pages/service/page-composing/page-composing.module.code.ts
+@@ -223,7 +223,7 @@ export function composedFor(root: string, named: Naming): Composed {
+     }
+     if (bodied) {
+       const heldAs = filedBy === undefined ? undefined : filedBy.get(one.propertySlug)
+-      const refused = bodyRefused(one.key, one.pageTypeSlug, heldAs, value)
++      const refused = bodyRefused(one.key, one.pageTypeSlug, heldAs?.fileName, value)
+       if (refused !== null) return { refused }
+       const ending = value as string
+       const why = endingRefused(one.key, one.propertySlug, at, ending)
+@@ -247,7 +247,7 @@ export function composedFor(root: string, named: Naming): Composed {
+       inside[one.key] = ending
+       continue
+     }
+-    if (filedBy !== undefined && filedBy.get(one.propertySlug) === null) {
++    if (filedBy?.get(one.propertySlug)?.fileName === null) {
+       const refused = endingRefused(one.key, one.propertySlug, at, value)
+       if (refused !== null) return { refused }
+     }
