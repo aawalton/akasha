@@ -7,10 +7,8 @@ afterAll(scratch.sweep)
 
 const CODE = "akasha/one/held/held.module.code.ts"
 
-const NOTHING = (): null => null
-
 function whyOf(at: string, of: string, to: string): string {
-  const world = worldAt(scratch.rootFor("rename-property-"), NOTHING)
+  const world = worldAt(scratch.rootFor("rename-property-"), () => null)
   const said = renamePropertySignature(world, { at, of, to })
   expect(said.edits).toEqual([])
   return said.refused ?? ""
