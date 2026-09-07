@@ -11,7 +11,7 @@ export const athenaCommandsAtTheRoot = {
       statement:
         "Every command sits in one folder at the root, named by the namespace it is under.",
       workingMemory:
-        "227 commands, 31 namespaces (19 top, 12 nested), 34 loose. A command's parent follows the command tree, not the domain tree: command page type, namespace, command. Phase 1 drops 187 `command/...` entries from 19 domain pages and rewrites `command.page-type.ts` to 53. Phase 2 must repoint `ROOTED_AT` and move `index` together or `akasha index` cannot start. Phase 3 is 10 disjoint agents over 218 pages. No namespace is minted yet, against a control of 228 commands.",
+        "238 commands and 48 namespaces, 18 top and 30 nested. Every command has one parent: a namespace names 202, the `command` page type names 36, and no domain or package names a command, where 187 such entries sat over 19 pages. Phase 2 moves the folders under one root: `REPAIR_AT` in `calling.module.code.ts` names the index command's code and moves with that command, or a tree holding no index cannot build an index; `tree-drawing.module.code.ts` reaches four command folders by relative path.",
     },
     {
       statement: "A seat holds the commands its domain and role need, without being handed them.",
