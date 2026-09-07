@@ -16,6 +16,19 @@ export function takingIn(said: Answer): readonly string[] {
     .map((one) => one.path)
 }
 
+export function judging(
+  given: Guarding,
+  hanging: (asked: Guarding, paths: readonly string[]) => string | null
+): string | null {
+  const taken = takingIn(given.said)
+  if (taken.length === 0) return null
+  try {
+    return hanging(given, taken)
+  } catch (cause) {
+    return unreadable(cause)
+  }
+}
+
 export function holdsAfter(given: Guarding, path: string): boolean {
   let moved = false
   for (const one of given.said.edits) {

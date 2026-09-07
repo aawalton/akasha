@@ -1,10 +1,7 @@
 import type { Named } from "@akasha/indexes"
 import type { Known } from "@akasha/indexes/reaching"
 import { pageNamed, partedIn } from "@akasha/pages/page-file-name"
-import {
-  takingIn,
-  unreadable,
-} from "../../../modules/change-guarding/change-guarding.module.code.ts"
+import { judging } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import type {
   Guard,
   Guarding,
@@ -39,13 +36,7 @@ function hangingIn(given: Guarding, taken: readonly string[]): string | null {
 }
 
 export function relationNotLeftHanging(given: Guarding): string | null {
-  const taken = takingIn(given.said)
-  if (taken.length === 0) return null
-  try {
-    return hangingIn(given, taken)
-  } catch (cause) {
-    return unreadable(cause)
-  }
+  return judging(given, hangingIn)
 }
 
 export const runGuard: Guard = relationNotLeftHanging

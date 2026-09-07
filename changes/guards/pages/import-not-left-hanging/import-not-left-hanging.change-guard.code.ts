@@ -1,6 +1,6 @@
 import {
-  takingIn,
-  unreadable,
+  holdsAfter,
+  judging,
 } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import type {
   Guard,
@@ -9,8 +9,8 @@ import type {
 
 function hangingIn(given: Guarding, taken: readonly string[]): string | null {
   for (const path of taken) {
-    const importer = given.shadow.index.importersOf(path)[0]
-    if (importer !== undefined) {
+    for (const importer of given.shadow.index.importersOf(path)) {
+      if (!holdsAfter(given, importer)) continue
       return `\`${importer}\` imports \`${path}\`, and \`${path}\` is taken away`
     }
   }
@@ -18,13 +18,7 @@ function hangingIn(given: Guarding, taken: readonly string[]): string | null {
 }
 
 export function importNotLeftHanging(given: Guarding): string | null {
-  const taken = takingIn(given.said)
-  if (taken.length === 0) return null
-  try {
-    return hangingIn(given, taken)
-  } catch (cause) {
-    return unreadable(cause)
-  }
+  return judging(given, hangingIn)
 }
 
 export const runGuard: Guard = importNotLeftHanging
