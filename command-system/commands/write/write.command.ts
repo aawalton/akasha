@@ -89,7 +89,7 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "`--break-the-glass` passes the warrants and leaves every check to the apply.",
+      statement: "`--break-the-glass` leaves every check to the apply and passes no warrant.",
     },
     {
       invariantKind: "departure",

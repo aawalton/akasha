@@ -92,6 +92,22 @@ export const apply = {
     },
     {
       invariantKind: "departure",
+      statement: "A row whose writer owes reading is warranted before the edits are folded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row whose writer owes no reading is passed over by that warrant.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row saying nothing of its writer is warranted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`--break-the-glass` passes the checks and passes no warrant.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The patch is applied by the act `akasha patch apply` runs.",
     },
     {
