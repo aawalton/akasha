@@ -6,6 +6,7 @@ import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-cr
 import { googleOauthConsent } from "@akasha/google-oauth/oauth-consent"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import { quoted } from "../../seat-act-calling/seat-act-calling.module.code.ts"
 
 export const AUTH = "auth"
 
@@ -123,10 +124,6 @@ export type Read =
     }
   | { readonly refused: readonly string[] }
 
-function listed(said: readonly string[]): string {
-  return said.map((one) => `\`${one}\``).join(", ")
-}
-
 function wholeNumber(raw: string): number | null {
   if (!/^\d+$/.test(raw)) return null
   const held = Number(raw)
@@ -188,21 +185,21 @@ function reading(argv: readonly string[]): {
 function actIn(words: readonly string[], refusals: string[]): string | null {
   const on = words[0]
   if (on === undefined) {
-    refusals.push(`this names nothing to act on — it acts on ${listed(Object.keys(ACTS))}`)
+    refusals.push(`this names nothing to act on — it acts on ${quoted(Object.keys(ACTS))}`)
     return null
   }
   const acts = ACTS[on]
   if (acts === undefined) {
-    refusals.push(`\`${on}\` is nothing this acts on — it acts on ${listed(Object.keys(ACTS))}`)
+    refusals.push(`\`${on}\` is nothing this acts on — it acts on ${quoted(Object.keys(ACTS))}`)
     return null
   }
   const act = words[1]
   if (act === undefined) {
-    refusals.push(`\`${on}\` names no act — it carries ${listed(acts)}`)
+    refusals.push(`\`${on}\` names no act — it carries ${quoted(acts)}`)
     return null
   }
   if (!acts.includes(act)) {
-    refusals.push(`\`${act}\` is no act \`${on}\` carries — it carries ${listed(acts)}`)
+    refusals.push(`\`${act}\` is no act \`${on}\` carries — it carries ${quoted(acts)}`)
     return null
   }
   return `${on} ${act}`
@@ -213,7 +210,7 @@ function placing(
   rest: readonly string[],
   said: Map<string, string>,
   refusals: string[]
-): void {
+): undefined {
   const first = rest[0]
   if (first === undefined) return
   if (!IN_PLACE.has(act)) {
@@ -231,19 +228,19 @@ function placing(
   said.set(EVENT, first)
 }
 
-function valuing(act: string, said: ReadonlyMap<string, string>, refusals: string[]): void {
+function valuing(act: string, said: ReadonlyMap<string, string>, refusals: string[]): undefined {
   const max = said.get(MAX)
   if (max !== undefined && wholeNumber(max) === null) {
     refusals.push(`\`${MAX}\` takes a whole number of events, and \`${max}\` is none`)
   }
   const status = said.get(STATUS)
   if (status !== undefined && !STATUSES.some((one) => one === status)) {
-    refusals.push(`\`${STATUS}\` takes ${listed(STATUSES)}, and \`${status}\` is none of them`)
+    refusals.push(`\`${STATUS}\` takes ${quoted(STATUSES)}, and \`${status}\` is none of them`)
   }
   const sending = said.get(SENDING)
   if (sending !== undefined && !SEND_UPDATES.some((one) => one === sending)) {
     refusals.push(
-      `\`${SENDING}\` takes ${listed(SEND_UPDATES)}, and \`${sending}\` is none of them`
+      `\`${SENDING}\` takes ${quoted(SEND_UPDATES)}, and \`${sending}\` is none of them`
     )
   }
   for (const one of NEEDS[act] ?? []) {

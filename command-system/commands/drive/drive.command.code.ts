@@ -5,7 +5,9 @@ import { DRIVE_SCOPES } from "@akasha/google-drive/env"
 import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
 import { googleOauthConsent } from "@akasha/google-oauth/oauth-consent"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import { refused } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import { quoted } from "../../seat-act-calling/seat-act-calling.module.code.ts"
 
 export const AUTH = "auth"
 
@@ -36,10 +38,6 @@ const VALUED = new Set([CALLBACK_URL, SOURCE, OUT])
 export type Read =
   | { readonly act: string; readonly said: ReadonlyMap<string, string> }
   | { readonly refused: readonly string[] }
-
-function listed(said: readonly string[]): string {
-  return said.map((one) => `\`${one}\``).join(", ")
-}
 
 function reading(argv: readonly string[]): {
   readonly refusals: readonly string[]
@@ -78,22 +76,22 @@ function reading(argv: readonly string[]): {
 function actIn(words: readonly string[], refusals: string[]): { act: string; rest: number } | null {
   const first = words[0]
   if (first === undefined) {
-    refusals.push(`this names no act — it carries ${listed(Object.keys(ACTS))}`)
+    refusals.push(`this names no act — it carries ${quoted(Object.keys(ACTS))}`)
     return null
   }
   const under = ACTS[first]
   if (under === undefined) {
-    refusals.push(`\`${first}\` is no act this carries — it carries ${listed(Object.keys(ACTS))}`)
+    refusals.push(`\`${first}\` is no act this carries — it carries ${quoted(Object.keys(ACTS))}`)
     return null
   }
   if (under.length === 0) return { act: first, rest: 1 }
   const second = words[1]
   if (second === undefined) {
-    refusals.push(`\`${first}\` names no act — it carries ${listed(under)}`)
+    refusals.push(`\`${first}\` names no act — it carries ${quoted(under)}`)
     return null
   }
   if (!under.includes(second)) {
-    refusals.push(`\`${second}\` is no act \`${first}\` carries — it carries ${listed(under)}`)
+    refusals.push(`\`${second}\` is no act \`${first}\` carries — it carries ${quoted(under)}`)
     return null
   }
   return { act: `${first} ${second}`, rest: 2 }
@@ -104,7 +102,7 @@ function placing(
   rest: readonly string[],
   said: Map<string, string>,
   refusals: string[]
-): void {
+): undefined {
   const first = rest[0]
   if (first === undefined) return
   if (act !== FETCH) {
@@ -150,10 +148,6 @@ function statusOf(thrown: unknown): number | undefined {
   return typeof status === "number" ? status : undefined
 }
 
-function refusing(said: string, code: number): Answer {
-  return { report: [], refusals: [said], code }
-}
-
 async function loggingIn(said: ReadonlyMap<string, string>): Promise<Answer> {
   const { clientId, clientSecret } = readGoogleOauthAppCredentials()
   await googleOauthConsent({
@@ -173,14 +167,14 @@ async function loggingIn(said: ReadonlyMap<string, string>): Promise<Answer> {
 function reachSaid(thrown: unknown, fileId: string): Answer | null {
   const status = statusOf(thrown)
   if (status === 404) {
-    return refusing(
+    return refused(
       `Drive holds no file ${fileId} this consent can reach — check the id, and that the file ` +
         "is shared with the account the consent was granted for",
       2
     )
   }
   if (status === 401 || status === 403) {
-    return refusing(
+    return refused(
       `Drive turned the request for ${fileId} away with ${status} — the consent held is missing ` +
         "or too narrow, and the login act grants a fresh one",
       3
@@ -202,7 +196,7 @@ async function fetching(
   try {
     const metadata = await files.fetchFileMetadata(client, fileId)
     if (files.isNativeGoogleDoc(metadata.mimeType)) {
-      return refusing(
+      return refused(
         `"${metadata.name}" is a native Google ${metadata.mimeType ?? "app"} file holding no ` +
           "bytes to download, and exporting one sits outside what this reaches",
         1
@@ -211,7 +205,7 @@ async function fetching(
     const bytes = await files.downloadFileBytes(client, fileId)
     const name = basename(metadata.name).trim()
     if (name === "" || name === "." || name === "..") {
-      return refusing(
+      return refused(
         `Drive file ${fileId} carries a name nothing can be written under: "${metadata.name}"`,
         3
       )
@@ -221,7 +215,7 @@ async function fetching(
     await Bun.write(at, bytes)
     return { report: [isAbsolute(at) ? at : resolve(at)], refusals: [], code: 0 }
   } catch (thrown) {
-    return reachSaid(thrown, fileId) ?? refusing(whyOf(thrown), exitCodeForThrowable(thrown))
+    return reachSaid(thrown, fileId) ?? refused(whyOf(thrown), exitCodeForThrowable(thrown))
   }
 }
 
@@ -232,9 +226,6 @@ export async function drive(argv: readonly string[], given: Given): Promise<Answ
     if (read.act === FETCH) return await fetching(read.said, resolve(given.root), given.from)
     return await loggingIn(read.said)
   } catch (thrown) {
-    return refusing(
-      `${given.calledAs} ${read.act} — ${whyOf(thrown)}`,
-      exitCodeForThrowable(thrown)
-    )
+    return refused(`${given.calledAs} ${read.act} — ${whyOf(thrown)}`, exitCodeForThrowable(thrown))
   }
 }

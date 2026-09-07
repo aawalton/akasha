@@ -13,6 +13,7 @@ import {
 } from "@akasha/icloud-photos/album-pulling"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import { quoted } from "../../seat-act-calling/seat-act-calling.module.code.ts"
 
 export const FETCH = "fetch"
 
@@ -33,10 +34,6 @@ const BARE = new Set([JSON_FLAG])
 export type Read =
   | { readonly act: string; readonly said: ReadonlyMap<string, string>; readonly json: boolean }
   | { readonly refused: readonly string[] }
-
-function listed(said: readonly string[]): string {
-  return said.map((one) => `\`${one}\``).join(", ")
-}
 
 export function readIn(argv: readonly string[]): Read {
   const refusals: string[] = []
@@ -73,11 +70,11 @@ export function readIn(argv: readonly string[]): Read {
   }
   const act = words[0]
   if (act === undefined) {
-    return { refused: [...refusals, `this names no act — it carries ${listed(ACTS)}`] }
+    return { refused: [...refusals, `this names no act — it carries ${quoted(ACTS)}`] }
   }
   if (!ACTS.includes(act)) {
     return {
-      refused: [...refusals, `\`${act}\` is no act this carries — it carries ${listed(ACTS)}`],
+      refused: [...refusals, `\`${act}\` is no act this carries — it carries ${quoted(ACTS)}`],
     }
   }
   const rest = words.slice(1)

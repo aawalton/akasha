@@ -12,6 +12,7 @@ import {
 } from "@akasha/analysis-complexity/complexity-rows"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import { quoted } from "../../seat-act-calling/seat-act-calling.module.code.ts"
 
 export const CYCLOMATIC = "cyclomatic"
 
@@ -46,10 +47,6 @@ export interface Wanted {
 }
 
 export type Read = Wanted | { readonly refused: readonly string[] }
-
-function said(words: readonly string[]): string {
-  return words.map((one) => `\`${one}\``).join(", ")
-}
 
 function wholeOf(flag: string, value: string | undefined): number | string {
   if (value === undefined) return `${flag} names a whole number and nothing followed it`
@@ -89,7 +86,7 @@ export function readIn(argv: readonly string[]): Read {
       continue
     }
     if (one.startsWith("-")) {
-      refusals.push(`\`${one}\` is no flag this takes — it takes ${said(FLAGS)}`)
+      refusals.push(`\`${one}\` is no flag this takes — it takes ${quoted(FLAGS)}`)
       continue
     }
     if (act !== null) {
@@ -99,10 +96,10 @@ export function readIn(argv: readonly string[]): Read {
     act = one
   }
   if (act === null) {
-    return { refused: [...refusals, `this names no act — it carries ${said(ACTS)}`] }
+    return { refused: [...refusals, `this names no act — it carries ${quoted(ACTS)}`] }
   }
   if (!ACTS.includes(act)) {
-    refusals.push(`\`${act}\` is no act this carries — it carries ${said(ACTS)}`)
+    refusals.push(`\`${act}\` is no act this carries — it carries ${quoted(ACTS)}`)
   } else if (act === REPORT) {
     if (file !== null) {
       refusals.push(
