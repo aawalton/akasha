@@ -1,0 +1,457 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/checked/change-checked.page-type.ts b/changes/checked/change-checked.page-type.ts
+index 4b19149926afd18a2e113f42cb5ff215a0bee52d..8c8a9638899ab5a7696660186a39e4f3945e62c4 100644
+--- a/changes/checked/change-checked.page-type.ts
++++ b/changes/checked/change-checked.page-type.ts
+@@ -15,11 +15,13 @@ export const changeChecked = {
+   pluralSlug: "change-checked",
+   extendsSlug: ["page-type/change"],
+   partSlugs: [
++    "change-checked/add-property-value",
+     "change-checked/change-page-page-type",
+     "change-checked/change-page-property",
+     "change-checked/move-page",
+     "change-checked/remove-page",
+     "change-checked/remove-page-type",
++    "change-checked/remove-property-value",
+     "change-checked/rename-code-token",
+     "change-checked/rename-page",
+   ],
+diff --git a/changes/checked/pages/add-property-value/add-property-value.change-checked.code.ts b/changes/checked/pages/add-property-value/add-property-value.change-checked.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..456f7760ced7b4b7b54a16b3b98ed834c20393f9
+--- /dev/null
++++ b/changes/checked/pages/add-property-value/add-property-value.change-checked.code.ts
+@@ -0,0 +1,46 @@
++import { reaches } from "@akasha/indexes/reaching"
++import { addPropertyValue as addValue } from "../../../mechanical/pages/add-property-value/add-property-value.change-mechanical.code.ts"
++import {
++  readFor,
++  targetsIn,
++} from "../../../mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.code.ts"
++import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++
++const AT = "at"
++
++const KEY = "key"
++
++const VALUE = "value"
++
++export type AddPropertyValueAsked = {
++  readonly at: string
++  readonly key: string
++  readonly value: string
++}
++
++export function addPropertyValue(world: World, given: AddPropertyValueAsked): Answer {
++  const read = readFor(world, given.at)
++  if ("refused" in read) return refusing(`${read.refused}, so no value is put in`)
++  const targets = targetsIn(read.known, read.value, given.key)
++  if (targets.length > 0) {
++    const reached = reaches(given.value, targets, read.known)
++    if ("refused" in reached) {
++      return refusing(`\`${given.key}\` names a relation, and ${reached.refused}`)
++    }
++  }
++  return addValue(world, given)
++}
++
++export type Asked = Readonly<Record<string, string>>
++
++export function runChange(world: World, given: Asked): Answer {
++  const at = given[AT]
++  if (at === undefined) return refusing(missing(AT))
++  const key = given[KEY]
++  if (key === undefined) return refusing(missing(KEY))
++  const value = given[VALUE]
++  if (value === undefined) return refusing(missing(VALUE))
++  return addPropertyValue(world, { at, key, value })
++}
+diff --git a/changes/checked/pages/add-property-value/add-property-value.change-checked.test.ts b/changes/checked/pages/add-property-value/add-property-value.change-checked.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e0c46cb987b82bab45a1b6c955f65045ece3ff6d
+--- /dev/null
++++ b/changes/checked/pages/add-property-value/add-property-value.change-checked.test.ts
+@@ -0,0 +1,99 @@
++import { expect, test } from "bun:test"
++import type { Shaped } from "@akasha/indexes/reaching"
++import type { Value } from "@akasha/pages/page-value"
++import {
++  NOTHING_OVER,
++  type World,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { addPropertyValue, runChange } from "./add-property-value.change-checked.code.ts"
++
++const AT = "held/held.domain.ts"
++
++const ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
++
++const BODY = `import type { Domain } from "../domains/domain.page-type.ts"
++
++export const held = {
++  id: "${ID}",
++  pageTypeSlug: "domain",
++  slug: "held",
++  definition: "a domain the tests hold",
++  partSlugs: ["command/one"],
++} as const satisfies Domain
++`
++
++const PAGE = { id: ID, pageTypeSlug: "domain", slug: "held" } as Value
++
++type Told = {
++  readonly slug: string | null
++  readonly target: string | null
++  readonly found: readonly { readonly path: string; readonly id: string }[]
++  readonly page?: Value | null
++}
++
++function worldTold(told: Told): World {
++  const known = {
++    slugOfKeyIn: () => told.slug,
++    targetOf: () => told.target,
++    admitting: (one: string) => [one],
++    at: () => told.found,
++    byId: () => null,
++    mortal: () => false,
++  } as unknown as Shaped
++  return {
++    root: "/nowhere",
++    index: { knownIn: () => known, pageAt: () => ("page" in told ? told.page : PAGE) } as never,
++    textOf: () => BODY,
++    over: NOTHING_OVER,
++  }
++}
++
++const ASKED = { at: AT, key: "partSlugs", value: "command/two" }
++
++test("a value naming no page is refused where the key names a relation", () => {
++  const said = addPropertyValue(
++    worldTold({ slug: "part-slugs", target: "command", found: [] }),
++    ASKED
++  )
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toBe(
++    "`partSlugs` names a relation, and no `command` carries the slug `two`"
++  )
++})
++
++test("a value reaching a page is put in after the values already there", () => {
++  const world = worldTold({
++    slug: "part-slugs",
++    target: "command",
++    found: [{ path: "two.command.ts", id: ID }],
++  })
++
++  const said = addPropertyValue(world, ASKED)
++
++  expect(said.refused).toBeNull()
++  expect(said.edits[0]?.body ?? "").toContain(`["command/one", "command/two"]`)
++})
++
++test("a key naming no relation takes its value unresolved", () => {
++  const said = addPropertyValue(worldTold({ slug: null, target: null, found: [] }), ASKED)
++
++  expect(said.refused).toBeNull()
++  expect(said.edits[0]?.body ?? "").toContain(`["command/one", "command/two"]`)
++})
++
++test("a path the world names no page at is refused", () => {
++  const world = worldTold({ slug: "part-slugs", target: "command", found: [], page: null })
++
++  const said = addPropertyValue(world, ASKED)
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/names no page/)
++})
++
++test("an argument this change was handed no value for is refused by the key", () => {
++  const said = runChange(worldTold({ slug: null, target: null, found: [] }), { at: AT })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/`key` names what this change is handed/)
++})
+diff --git a/changes/checked/pages/add-property-value/add-property-value.change-checked.ts b/changes/checked/pages/add-property-value/add-property-value.change-checked.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..98d6f6d36b7edfa8789a407bc3382baaf94e42b3
+--- /dev/null
++++ b/changes/checked/pages/add-property-value/add-property-value.change-checked.ts
+@@ -0,0 +1,39 @@
++import type { ChangeChecked } from "../../change-checked.page-type.ts"
++
++export const addPropertyValue = {
++  id: "01a07944-9edf-70c7-8101-db279ee5ea45",
++  pageTypeSlug: "change-checked",
++  slug: "add-property-value",
++  definition: "one value put into one page property, judged by the checks a landing runs",
++  code: "ts",
++  test: "ts",
++  runsChecks: true,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A key naming a relation has its value resolved before any body is worked out.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A value naming no page is refused where the key names a relation.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A key naming no relation takes its value unresolved.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path the world names no page at is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Putting the value in is left to the mechanical change of the same name.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here works out a body of its own.",
++    },
++  ],
++} as const satisfies ChangeChecked
+diff --git a/changes/checked/pages/change-page-property/change-page-property.change-checked.code.ts b/changes/checked/pages/change-page-property/change-page-property.change-checked.code.ts
+index 51fbe3d0ab6a2846fb8f14e71660e23f15aebb6e..f0295b7451f8b7945e96ad8c60dc4f9a5aeae10f 100644
+--- a/changes/checked/pages/change-page-property/change-page-property.change-checked.code.ts
++++ b/changes/checked/pages/change-page-property/change-page-property.change-checked.code.ts
+@@ -1,4 +1,8 @@
+-import { runChange as changeValue } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
++import { parsedAs } from "@akasha/code/code-source"
++import {
++  runChange as changeValue,
++  manyIn,
++} from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
+ import {
+   changePagePropertyRelation,
+   readFor,
+@@ -23,6 +27,12 @@ export type ChangePagePropertyAsked = {
+ export function changePageProperty(world: World, given: ChangePagePropertyAsked): Answer {
+   const read = readFor(world, given.at)
+   if ("refused" in read) return refusing(`${read.refused}, so no property is stated`)
++  const text = world.textOf(given.at)
++  if (text !== null && manyIn(parsedAs(given.at, text), given.key)) {
++    return refusing(
++      `\`${given.key}\` holds many values, which \`add-property-value\` and \`remove-property-value\` change`
++    )
++  }
+   if (targetsIn(read.known, read.value, given.key).length > 0) {
+     return changePagePropertyRelation(world, given)
+   }
+diff --git a/changes/checked/pages/change-page-property/change-page-property.change-checked.ts b/changes/checked/pages/change-page-property/change-page-property.change-checked.ts
+index 509a2bbdb56344f266821deb028af47dd3e8383e..f1058e4583b946de110a34c1d026960d914043c6 100644
+--- a/changes/checked/pages/change-page-property/change-page-property.change-checked.ts
++++ b/changes/checked/pages/change-page-property/change-page-property.change-checked.ts
+@@ -33,8 +33,13 @@ export const changePageProperty = {
+       statement: "Nothing here works out a body of its own.",
+     },
+     {
+-      invariantKind: "gap",
+-      statement: "A key holding a list rather than text is stated anew.",
++      invariantKind: "departure",
++      statement: "A key holding many values is refused here.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The refusal for many values names the changes putting a value in and taking a value out.",
+     },
+   ],
+ } as const satisfies ChangeChecked
+diff --git a/changes/checked/pages/remove-property-value/remove-property-value.change-checked.code.ts b/changes/checked/pages/remove-property-value/remove-property-value.change-checked.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b5f01eea3e3a9ccfb5e3e8edca1dc290f254ee53
+--- /dev/null
++++ b/changes/checked/pages/remove-property-value/remove-property-value.change-checked.code.ts
+@@ -0,0 +1,35 @@
++import { readFor } from "../../../mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.code.ts"
++import { removePropertyValue as removeValue } from "../../../mechanical/pages/remove-property-value/remove-property-value.change-mechanical.code.ts"
++import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++
++const AT = "at"
++
++const KEY = "key"
++
++const VALUE = "value"
++
++export type RemovePropertyValueAsked = {
++  readonly at: string
++  readonly key: string
++  readonly value: string
++}
++
++export function removePropertyValue(world: World, given: RemovePropertyValueAsked): Answer {
++  const read = readFor(world, given.at)
++  if ("refused" in read) return refusing(`${read.refused}, so no value is taken out`)
++  return removeValue(world, given)
++}
++
++export type Asked = Readonly<Record<string, string>>
++
++export function runChange(world: World, given: Asked): Answer {
++  const at = given[AT]
++  if (at === undefined) return refusing(missing(AT))
++  const key = given[KEY]
++  if (key === undefined) return refusing(missing(KEY))
++  const value = given[VALUE]
++  if (value === undefined) return refusing(missing(VALUE))
++  return removePropertyValue(world, { at, key, value })
++}
+diff --git a/changes/checked/pages/remove-property-value/remove-property-value.change-checked.test.ts b/changes/checked/pages/remove-property-value/remove-property-value.change-checked.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1368cd4a0ff86f466625875ba4ebd1e155f060c8
+--- /dev/null
++++ b/changes/checked/pages/remove-property-value/remove-property-value.change-checked.test.ts
+@@ -0,0 +1,75 @@
++import { expect, test } from "bun:test"
++import type { Shaped } from "@akasha/indexes/reaching"
++import type { Value } from "@akasha/pages/page-value"
++import {
++  NOTHING_OVER,
++  type World,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { removePropertyValue, runChange } from "./remove-property-value.change-checked.code.ts"
++
++const AT = "held/held.domain.ts"
++
++const ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
++
++const BODY = `import type { Domain } from "../domains/domain.page-type.ts"
++
++export const held = {
++  id: "${ID}",
++  pageTypeSlug: "domain",
++  slug: "held",
++  definition: "a domain the tests hold",
++  partSlugs: ["command/one", "command/two"],
++} as const satisfies Domain
++`
++
++const PAGE = { id: ID, pageTypeSlug: "domain", slug: "held" } as Value
++
++function worldWith(page: Value | null): World {
++  const known = { slugOfKeyIn: () => null, targetOf: () => null } as unknown as Shaped
++  return {
++    root: "/nowhere",
++    index: { knownIn: () => known, pageAt: () => page } as never,
++    textOf: () => BODY,
++    over: NOTHING_OVER,
++  }
++}
++
++test("a value the property holds is taken out and the rest is left", () => {
++  const said = removePropertyValue(worldWith(PAGE), {
++    at: AT,
++    key: "partSlugs",
++    value: "command/one",
++  })
++
++  expect(said.refused).toBeNull()
++  expect(said.edits[0]?.body ?? "").toContain(`["command/two"]`)
++})
++
++test("a value naming no page is taken out as any other value is", () => {
++  const said = removePropertyValue(worldWith(PAGE), {
++    at: AT,
++    key: "partSlugs",
++    value: "command/two",
++  })
++
++  expect(said.refused).toBeNull()
++  expect(said.edits[0]?.body ?? "").toContain(`["command/one"]`)
++})
++
++test("a path the world names no page at is refused", () => {
++  const said = removePropertyValue(worldWith(null), {
++    at: AT,
++    key: "partSlugs",
++    value: "command/one",
++  })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/names no page/)
++})
++
++test("an argument this change was handed no value for is refused by the key", () => {
++  const said = runChange(worldWith(PAGE), { at: AT, key: "partSlugs" })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/`value` names what this change is handed/)
++})
+diff --git a/changes/checked/pages/remove-property-value/remove-property-value.change-checked.ts b/changes/checked/pages/remove-property-value/remove-property-value.change-checked.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f640ca564b2c23a8a25c5e8a8d5a86a281afab17
+--- /dev/null
++++ b/changes/checked/pages/remove-property-value/remove-property-value.change-checked.ts
+@@ -0,0 +1,39 @@
++import type { ChangeChecked } from "../../change-checked.page-type.ts"
++
++export const removePropertyValue = {
++  id: "01a07944-9ee0-7f93-a8d0-b0e845bdd929",
++  pageTypeSlug: "change-checked",
++  slug: "remove-property-value",
++  definition: "one value taken out of one page property, judged by the checks a landing runs",
++  code: "ts",
++  test: "ts",
++  runsChecks: true,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A path the world names no page at is refused.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No value taken out is resolved.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A value naming no page is taken out as any other value is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Taking the value out is left to the mechanical change of the same name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page left named by no parent is refused by the checks rather than here.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here works out a body of its own.",
++    },
++  ],
++} as const satisfies ChangeChecked
+diff --git a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts
+index ecc37e1e7a40268fe1d551bc3e4e899d3f97ac68..105a3eb16a420d05fc8dcdca1ed3cf296100f311 100644
+--- a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts
++++ b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts
+@@ -45,6 +45,16 @@ export function statedIn(source: ts.SourceFile): ReadonlyMap<string, ts.StringLi
+   return held === null ? new Map() : textsOf(held)
+ }
+ 
++export function manyIn(source: ts.SourceFile, key: string): boolean {
++  const held = literalIn(source)
++  if (held === null) return false
++  for (const one of held.properties) {
++    if (!ts.isPropertyAssignment(one) || keyOf(one) !== key) continue
++    return ts.isArrayLiteralExpression(one.initializer)
++  }
++  return false
++}
++
+ export function restated(path: string, text: string, key: string, to: string): Answer {
+   const source = parsedAs(path, text)
+   const held = statedIn(source).get(key)
