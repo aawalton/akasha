@@ -1,0 +1,62 @@
+import { pageNamed } from "@akasha/pages/page-file-name"
+import { textAt } from "@akasha/pages/page-value"
+import { unreadable } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+import type {
+  Guard,
+  Guarding,
+} from "../../../modules/change-guarding/change-guarding.module.types.ts"
+
+const PAGE = "page"
+
+const ID = "id"
+
+const SLUG = "slug"
+
+const PAGE_TYPE = "pageTypeSlug"
+
+type Holder = { readonly path: string }
+
+function otherThan(held: readonly Holder[], path: string): string | null {
+  for (const one of held) {
+    if (one.path !== path) return one.path
+  }
+  return null
+}
+
+function heldAt(given: Guarding, path: string): string | null {
+  const value = given.shadow.pageOf(path)
+  if (value === null) return null
+  const index = given.shadow.index
+  const id = textAt(value, ID)
+  if (id !== null) {
+    const other = otherThan(index.listedNamed(PAGE, ID, id), path)
+    if (other !== null) {
+      return `\`${path}\` states the id \`${id}\`, which \`${other}\` already holds`
+    }
+  }
+  const slug = textAt(value, SLUG)
+  const pageTypeSlug = textAt(value, PAGE_TYPE)
+  if (slug !== null && pageTypeSlug !== null) {
+    const other = otherThan(index.listedAt(pageTypeSlug, slug), path)
+    if (other !== null) {
+      return `\`${path}\` states the slug \`${slug}\`, which \`${other}\` already holds`
+    }
+  }
+  return null
+}
+
+export function identityNotAlreadyHeld(given: Guarding): string | null {
+  try {
+    const pageTypes = given.shadow.index.pageTypesIn()
+    for (const one of given.said.edits) {
+      if (one.body === null || !pageNamed(one.path, pageTypes)) continue
+      const why = heldAt(given, one.path)
+      if (why !== null) return why
+    }
+    return null
+  } catch (cause) {
+    return unreadable(cause)
+  }
+}
+
+export const runGuard: Guard = identityNotAlreadyHeld

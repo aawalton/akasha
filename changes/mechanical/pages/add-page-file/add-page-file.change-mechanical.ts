@@ -10,7 +10,7 @@ export const addPageFile = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
-  guardSlugs: ["change-guard/relation-reaches-a-page"],
+  guardSlugs: ["change-guard/relation-reaches-a-page", "change-guard/identity-not-already-held"],
   invariants: [
     {
       invariantKind: "departure",
