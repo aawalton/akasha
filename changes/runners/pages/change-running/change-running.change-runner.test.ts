@@ -44,15 +44,21 @@ test("an address closing with a slash is no address", () => {
   expect(partsOf("change/")).toBeNull()
 })
 
-test("a change loaded is run over the world handed in and answers its own edits", () => {
-  const said = ranBy(worldOf(), { run: () => WROTE, guards: [] }, { at: AT })
+test("a change loaded is run over the world handed in and answers its own edits", async () => {
+  const said = await ranBy(worldOf(), { run: () => WROTE, guards: [] }, { at: AT })
 
   expect(said).toEqual(WROTE)
 })
 
-test("a change that refuses runs no guard", () => {
+test("a change whose run settles later is awaited before its guards run", async () => {
+  const said = await ranBy(worldOf(), { run: () => Promise.resolve(WROTE), guards: [] }, { at: AT })
+
+  expect(said).toEqual(WROTE)
+})
+
+test("a change that refuses runs no guard", async () => {
   let ran = 0
-  const said = ranBy(
+  const said = await ranBy(
     worldOf(),
     {
       run: () => refusing("no"),
@@ -70,9 +76,9 @@ test("a change that refuses runs no guard", () => {
   expect(ran).toBe(0)
 })
 
-test("the arguments reach the change as the caller handed the arguments in", () => {
+test("the arguments reach the change as the caller handed the arguments in", async () => {
   let held: unknown = null
-  ranBy(
+  await ranBy(
     worldOf(),
     {
       run: (_world, given) => {

@@ -55,9 +55,6 @@ const NO_MESSAGE = "`apply` takes the commit message, and the message given is e
 
 const CHANGE_COMMAND = "change-command"
 
-// A change reached from the command line is typed for the kind that change is, and the old
-// `change-command` is the type those kinds replace, so a slug is looked for under each of them
-// until no page is left carrying the old type.
 const COMMAND_TYPES: readonly string[] = [CHANGE_COMMAND, "change-checked", "change-authored"]
 
 const DROP = "drop"
@@ -75,7 +72,7 @@ const DROP_SAID = "`drop` takes away the edits kept, and is the one word here na
 const NO_ARGUMENTS =
   "a change reads its arguments from standard input, and this call piped nothing in"
 
-export type Over = (world: World) => Said
+export type Over = (world: World) => Promise<Said>
 
 function textIn(root: string): (path: string) => string | null {
   return (path) => {
@@ -97,8 +94,6 @@ export type Runs = {
   readonly definition: string
 }
 
-// The changes this runs are the pages filed under the kinds a command change is typed for, so a
-// change landing anywhere in the tree is offered here without this command being told of it.
 export function changesIn(world: World): readonly Runs[] {
   const held: Runs[] = []
   for (const type of COMMAND_TYPES) {
@@ -118,8 +113,6 @@ export function runsSaid(world: World): string {
     .join(", ")
 }
 
-// A change says what that change is for on its own page, so the help carries those definitions
-// rather than a second list here that would drift from them.
 export function takingOf(world: World): Taking {
   return [
     ...changesIn(world).map((one) => ({ said: one.slug, takes: one.definition })),
@@ -132,8 +125,6 @@ export function helping(root: string, calledAs: string): Answer {
   return { report: helpOf(calledAs, changePage.definition, surface), refusals: [], code: 0 }
 }
 
-// The arguments are text a caller piped in rather than flags, so a body carrying a quote or a
-// backslash reaches the change as the caller wrote the body and nothing is escaped on the way.
 export function argumentsIn(piping: Piping): Arguments | string {
   const held = piping()
   if ("tty" in held) return NO_ARGUMENTS
@@ -143,8 +134,6 @@ export function argumentsIn(piping: Piping): Arguments | string {
   return "refused" in read ? read.refused : read.given
 }
 
-// A path is the one argument this command reads rather than the change, because a change knows
-// nothing of where the repository sits and every change naming a path names that path as `at`.
 export function rootedIn(root: string, given: Arguments): Arguments | string {
   const said = given[AT]
   if (said === undefined) return given
@@ -154,8 +143,6 @@ export function rootedIn(root: string, given: Arguments): Arguments | string {
 
 export type Asked = { readonly message: string | null; readonly given: Arguments }
 
-// The message an apply commits is free text, so it arrives with the bodies rather than on the
-// command line, where a shell would read a quote or a backslash before this command saw either.
 export function applyIn(given: Arguments): Asked | string {
   const said = given[APPLY]
   if (said === undefined) return { message: null, given }
@@ -167,8 +154,6 @@ export function applyIn(given: Arguments): Asked | string {
   }
 }
 
-// A change states whether the checks run over it, so a partial costs nothing here. The edits kept
-// are judged as a whole rather than one at a time, because that whole is what an apply lands.
 export function editsFor(rows: readonly Edit[]): readonly FileEdit[] {
   const held: FileEdit[] = []
   for (const one of rows) {
@@ -178,8 +163,6 @@ export function editsFor(rows: readonly Edit[]): readonly FileEdit[] {
   return held
 }
 
-// A slug names one page under one of the types a command change carries, and a slug naming none
-// reads as the old type, so the refusal a caller sees for a name that is nowhere stays what it was.
 function typeOf(world: World, slug: string): string {
   for (const one of COMMAND_TYPES) if (world.index.pageAt(one, slug) !== null) return one
   return CHANGE_COMMAND
@@ -193,7 +176,6 @@ function saidOf(one: Edit): string {
   return `changes ${one.path}`
 }
 
-// A drop is the only way out of the edits kept, so the paths that went are said rather than counted.
 export function dropping(root: string, page: string): Answer {
   let went: readonly string[] = []
   const dropped = keptEdits(root, page, (had) => {
@@ -212,7 +194,7 @@ export async function appending(
   applied = false
 ): Promise<Answer> {
   let answer: Answer = mistaking([NO_PAGE])
-  const kept = keptEdits(root, page, (had) => {
+  const kept = await keptEdits(root, page, async (had) => {
     const before = foldedIn(had)
     if (before.refused !== null) {
       answer = { report: [], refusals: [before.refused], code: 3 }
@@ -220,7 +202,7 @@ export async function appending(
     }
     let said: Said
     try {
-      said = over(worldFor(root, had, before))
+      said = await over(worldFor(root, had, before))
     } catch (thrown) {
       answer = { report: [], refusals: [whyOf(thrown)], code: 3 }
       return had
@@ -249,8 +231,6 @@ export type Loading = (world: World, at: string) => Promise<Loaded | string>
 
 export type Applying = (message: string) => Promise<Answer>
 
-// The change is loaded before the turn over the edits is taken, because loading reaches the disk
-// and the turn holds every other caller out while the turn runs.
 export async function changing(
   root: string,
   page: string,
@@ -280,7 +260,7 @@ export async function changing(
   const answered = await appending(
     root,
     page,
-    (one) => ranBy(one, held, asked.given),
+    async (one) => await ranBy(one, held, asked.given),
     message !== null
   )
   if (message === null || answered.code !== 0) return answered
@@ -292,8 +272,6 @@ export async function changing(
   }
 }
 
-// The apply is reached at the call rather than by an import at the top, because `akasha apply`
-// reads the edits this command appends and a static edge between the two would be a cycle.
 function applyingFor(given: Given): Applying {
   return async (message) => {
     const { apply } = await import("../apply/apply.command.code.ts")

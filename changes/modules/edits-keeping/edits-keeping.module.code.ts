@@ -82,25 +82,37 @@ export function editsIn(root: string, page: string): Kept {
   return at === null ? { why: NO_PAGE } : heldAt(join(root, at))
 }
 
+type Rows = readonly Edit[] | null
+
+function settled(full: string, next: Rows): Kept {
+  if (next === null || next.length === 0) {
+    rmSync(full, { force: true })
+    return { rows: [] }
+  }
+  putAt(full, textOf(next))
+  return { rows: next }
+}
+
+export function keptEdits(root: string, page: string, act: (had: readonly Edit[]) => Rows): Kept
 export function keptEdits(
   root: string,
   page: string,
-  act: (had: readonly Edit[]) => readonly Edit[] | null
-): Kept {
+  act: (had: readonly Edit[]) => Promise<Rows>
+): Promise<Kept>
+export function keptEdits(
+  root: string,
+  page: string,
+  act: (had: readonly Edit[]) => Rows | Promise<Rows>
+): Kept | Promise<Kept> {
   const at = editsAt(page)
   if (at === null) return { why: NO_PAGE }
   const full = join(root, at)
   mkdirSync(dirname(full), { recursive: true })
-  return exclusively(full, (): Kept => {
+  return exclusively(full, (): Kept | Promise<Kept> => {
     const had = heldAt(full)
     if ("why" in had) return had
     const next = act(had.rows)
-    if (next === null || next.length === 0) {
-      rmSync(full, { force: true })
-      return { rows: [] }
-    }
-    putAt(full, textOf(next))
-    return { rows: next }
+    return next instanceof Promise ? next.then((one) => settled(full, one)) : settled(full, next)
   })
 }
 

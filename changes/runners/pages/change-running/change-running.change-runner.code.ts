@@ -55,12 +55,10 @@ async function guardsIn(world: World, address: string): Promise<readonly Guard[]
 }
 
 export type Loaded = {
-  readonly run: (world: World, given: unknown) => Answer
+  readonly run: (world: World, given: unknown) => Answer | Promise<Answer>
   readonly guards: readonly Guard[]
 }
 
-// Loading a change reaches the disk and running one does not, so the two are separate acts. A
-// caller holding a lock over a store of its own loads before the lock and runs inside the lock.
 export async function loadedAt(world: World, at: string): Promise<Loaded | string> {
   const run = await exportedAt(world, at, RUN_CHANGE)
   if (typeof run !== "function") {
@@ -68,11 +66,11 @@ export async function loadedAt(world: World, at: string): Promise<Loaded | strin
   }
   const guards = await guardsIn(world, at)
   if (typeof guards === "string") return guards
-  return { run: run as (world: World, given: unknown) => Answer, guards }
+  return { run: run as (over: World, asked: unknown) => Answer | Promise<Answer>, guards }
 }
 
-export function ranBy(world: World, loaded: Loaded, given: unknown): Answer {
-  const said = loaded.run(world, given)
+export async function ranBy(world: World, loaded: Loaded, given: unknown): Promise<Answer> {
+  const said = await loaded.run(world, given)
   if (said.refused !== null) return said
   return guardedBy(world, said, loaded.guards)
 }
@@ -80,12 +78,9 @@ export function ranBy(world: World, loaded: Loaded, given: unknown): Answer {
 export async function runAt(world: World, at: string, given: unknown): Promise<Answer> {
   const loaded = await loadedAt(world, at)
   if (typeof loaded === "string") return refusing(loaded)
-  return ranBy(world, loaded, given)
+  return await ranBy(world, loaded, given)
 }
 
-// A caller naming an address in its own text is held to the arguments the map states for that
-// address. A command line names an address as a string worked out while the command runs, so a
-// caller reaching the untyped form above is held by the change's own refusals instead.
 export async function runChange<K extends keyof Changes & string>(
   world: World,
   at: K,
