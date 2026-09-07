@@ -1,0 +1,18 @@
+diff --git a/seat-system/supervising/supervisor-interactive-spawn/supervisor-interactive-spawn.module.ts b/seat-system/supervising/supervisor-interactive-spawn/supervisor-interactive-spawn.module.ts
+index a6ea1b7b7b8f315298ca132b084be32baee9a5ee..24293f02389b50804e806057b16cc74a5501f3f7 100644
+--- a/seat-system/supervising/supervisor-interactive-spawn/supervisor-interactive-spawn.module.ts
++++ b/seat-system/supervising/supervisor-interactive-spawn/supervisor-interactive-spawn.module.ts
+@@ -9,8 +9,11 @@ export const supervisorInteractiveSpawn = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Every seat condition is staged before the condition is awaited, so the conditions are read together.",
++      statement: "Every seat condition is staged before that condition is awaited.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The conditions are read together.",
+     },
+     {
+       invariantKind: "departure",
