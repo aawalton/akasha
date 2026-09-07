@@ -20,3 +20,25 @@ index 66541f2f8904be4d7ba6ed6711700b6f0d48ce5d..b065b1c271d4db54d807245006faf81e
    })
    return makeSentence({
      text: rows.map((row) => row[0]).join(" "),
+diff --git a/domains/sentence-shapes/lone-determiner/lone-determiner.sentence-shape.test.ts b/domains/sentence-shapes/lone-determiner/lone-determiner.sentence-shape.test.ts
+index 7687ec5fbfa49fcd37ea9dc8f5d06aa69c69ceeb..18f7e902c735cb5f24957757c001584c16e0b901 100644
+--- a/domains/sentence-shapes/lone-determiner/lone-determiner.sentence-shape.test.ts
++++ b/domains/sentence-shapes/lone-determiner/lone-determiner.sentence-shape.test.ts
+@@ -10,7 +10,16 @@ function sentenceOf(rows: readonly Row[]): DepSentence {
+   const tokens = rows.map(([form, upos, head, deprel], index) => {
+     const start = at
+     at += form.length + 1
+-    return { id: index + 1, form, upos, head, deprel, start, end: start + form.length }
++    return {
++      id: index + 1,
++      form,
++      upos,
++      head,
++      deprel,
++      start,
++      end: start + form.length,
++      confidence: { upos: 1, head: 1, deprel: 1 },
++    }
+   })
+   return makeSentence({
+     text: rows.map((row) => row[0]).join(" "),
