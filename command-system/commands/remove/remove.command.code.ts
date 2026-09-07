@@ -29,6 +29,7 @@ import { manifestingFor, manifestingSaid } from "./manifesting/remove-manifestin
 import type { Span } from "./workspacing/remove-workspacing.module.code.ts"
 import {
   listEntrySpan,
+  withoutSpans,
   workspacingFor,
   workspacingSaid,
 } from "./workspacing/remove-workspacing.module.code.ts"
@@ -212,11 +213,7 @@ export function unnamed(path: string, text: string, dropping: ReadonlySet<string
     ts.forEachChild(node, walk)
   }
   ts.forEachChild(source, walk)
-  let body = text
-  for (const one of [...spans].sort((first, next) => next.start - first.start)) {
-    body = `${body.slice(0, one.start)}${body.slice(one.end)}`
-  }
-  return { body, left }
+  return { body: withoutSpans(text, spans), left }
 }
 
 export type Unnaming = {

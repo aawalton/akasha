@@ -94,6 +94,19 @@ test("an entry is dropped out of the list and every other byte is left as it was
   expect(withoutNamed(MANIFEST, ROOT_BODY, new Set(["three"]))).toBe(ROOT_BODY)
 })
 
+test("the last entry goes and what stays reads as JSON", () => {
+  const said = withoutNamed(MANIFEST, ROOT_BODY, new Set(["two"]))
+  expect(workspacesIn(said)).toEqual(["one"])
+  expect(() => JSON.parse(said)).not.toThrow()
+  expect(said).not.toContain(",\n  ]")
+})
+
+test("every entry goes at once and what stays reads as JSON", () => {
+  const said = withoutNamed(MANIFEST, ROOT_BODY, new Set(["one", "two"]))
+  expect(workspacesIn(said)).toEqual([])
+  expect(JSON.parse(said).trustedDependencies).toEqual(["one"])
+})
+
 test("a removal emptying no workspace asks for no change and has nothing to say", () => {
   const root = world()
   const held = workspacingFor(root, baseOf(root), new Set(["one/src/held.ts"]))

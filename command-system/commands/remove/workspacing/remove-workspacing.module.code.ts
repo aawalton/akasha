@@ -33,20 +33,35 @@ export function emptiedBy(named: readonly string[], going: ReadonlySet<string>):
 
 export type Span = { readonly start: number; readonly end: number }
 
+function blank(here: string | undefined): boolean {
+  return here === " " || here === "\t" || here === "\r" || here === "\n"
+}
+
 export function listEntrySpan(text: string, node: ts.Node): Span {
-  const start = node.getFullStart()
-  let end = node.getEnd()
+  let start = node.getFullStart()
+  const end = node.getEnd()
   let at = end
   while (at < text.length) {
     const here = text[at]
-    if (here === ",") {
-      end = at + 1
-      break
-    }
-    if (here !== " " && here !== "\t" && here !== "\r" && here !== "\n") break
+    if (here === ",") return { start, end: at + 1 }
+    if (!blank(here)) break
     at = at + 1
   }
+  let back = start - 1
+  while (back >= 0 && blank(text[back])) back = back - 1
+  if (back >= 0 && text[back] === ",") start = back
   return { start, end }
+}
+
+export function withoutSpans(text: string, spans: readonly Span[]): string {
+  let body = text
+  let cut = text.length
+  for (const one of [...spans].sort((first, next) => next.start - first.start)) {
+    const end = one.end < cut ? one.end : cut
+    if (end > one.start) body = `${body.slice(0, one.start)}${body.slice(end)}`
+    cut = one.start
+  }
+  return body
 }
 
 function listedIn(source: ts.JsonSourceFile, key: string): ts.ArrayLiteralExpression | null {
@@ -70,11 +85,7 @@ export function withoutNamed(path: string, text: string, dropping: ReadonlySet<s
   for (const one of held.elements) {
     if (ts.isStringLiteral(one) && dropping.has(one.text)) spans.push(listEntrySpan(text, one))
   }
-  let body = text
-  for (const one of [...spans].sort((first, next) => next.start - first.start)) {
-    body = `${body.slice(0, one.start)}${body.slice(one.end)}`
-  }
-  return body
+  return withoutSpans(text, spans)
 }
 
 export type Workspacing = {

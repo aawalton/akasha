@@ -3,7 +3,11 @@ import ts from "typescript"
 import { counted, type Held, textOf } from "../../../asking/asking.module.code.ts"
 import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
 import type { FileEdit } from "../../../landing/landing.module.code.ts"
-import { listEntrySpan, type Span } from "../workspacing/remove-workspacing.module.code.ts"
+import {
+  listEntrySpan,
+  type Span,
+  withoutSpans,
+} from "../workspacing/remove-workspacing.module.code.ts"
 
 const MANIFEST = "package.json"
 
@@ -87,11 +91,7 @@ export function withoutWaysIn(at: string, text: string, dropping: ReadonlySet<st
     if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
     if (dropping.has(one.name.text)) spans.push(listEntrySpan(text, one))
   }
-  let body = text
-  for (const one of [...spans].sort((first, next) => next.start - first.start)) {
-    body = `${body.slice(0, one.start)}${body.slice(one.end)}`
-  }
-  return body
+  return withoutSpans(text, spans)
 }
 
 export type Dropped = { readonly at: string; readonly ways: readonly string[] }
