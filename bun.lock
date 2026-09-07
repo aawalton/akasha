@@ -2756,6 +2756,7 @@
     "temper/temper-watcher": {
       "name": "@akasha/temper-watcher",
       "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/day": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages": "workspace:*",
