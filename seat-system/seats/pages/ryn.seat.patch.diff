@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/verdict/outcome/outcome.module.ts b/verdict/outcome/outcome.module.ts
+index b02f671d27f67f50d6fe022eac4d5126333717bf..b9dd33b45126125cdbf0f0c1e567ab3d23b45f09 100644
+--- a/verdict/outcome/outcome.module.ts
++++ b/verdict/outcome/outcome.module.ts
+@@ -21,7 +21,7 @@ export const outcome = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "How much was looked at is carried beside the findings.",
++      statement: "The amount looked at is carried beside the findings.",
+     },
+   ],
+ } as const satisfies Module
