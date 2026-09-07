@@ -13,13 +13,15 @@ const CARRIED = ENDINGS.map((one) => `\`${one}\``).join(" or ")
 
 export type Stands = (path: string) => boolean
 
-function carriesAnExtension(specifier: string): boolean {
-  const named = specifier.slice(specifier.lastIndexOf("/") + 1)
-  return named.lastIndexOf(".") > 0
+function withoutItsEnding(landed: string): string {
+  const cut = landed.lastIndexOf(".")
+  return cut > landed.lastIndexOf("/") ? landed.slice(0, cut) : landed
 }
 
 function namesAFileThatStands(landed: string, stands: Stands): boolean {
-  return ENDINGS.some((ending) => stands(`${landed}${ending}`))
+  return [landed, withoutItsEnding(landed)].some((one) =>
+    ENDINGS.some((ending) => stands(`${one}${ending}`))
+  )
 }
 
 function found(path: string, text: string, stands: Stands): readonly string[] {
@@ -28,7 +30,7 @@ function found(path: string, text: string, stands: Stands): readonly string[] {
     const landed = landingOf(path, one)
     if (landed === null) continue
     if (ENDINGS.some((ending) => one.endsWith(ending))) continue
-    if (!carriesAnExtension(one) && !namesAFileThatStands(landed, stands)) continue
+    if (!namesAFileThatStands(landed, stands)) continue
     said.push(`\`${one}\` is written without the ${CARRIED} extension of the file it names`)
   }
   return said

@@ -126,9 +126,15 @@ test("a bare specifier is judged by every ending this folder writes, not by `.ts
   expect(reasonsIn(stands)(given("akasha/held.tsx", body))).toHaveLength(1)
 })
 
-test("an extension that is not this folder's is refused whether or not a file stands there", () => {
+test("an extension that is not this folder's is refused where the file named is one of ours", () => {
+  const stands: Stands = (at) => at === "akasha/one.ts" || at === "akasha/two.ts"
   const body = ['import a from "./one.js"', 'import b from "./two.json"'].join("\n")
-  expect(reasonsIn(NOTHING)(given("akasha/held.ts", body))).toHaveLength(2)
+  expect(reasonsIn(stands)(given("akasha/held.ts", body))).toHaveLength(2)
+})
+
+test("dots inside a bare specifier's name are not read as an extension it carries", () => {
+  const body = 'import type { Route } from "./+types/api.locations.ingest"\n'
+  expect(reasonsIn(NOTHING)(given("akasha/routes/held.ts", body))).toEqual([])
 })
 
 test("a declaration file is judged, because its name ends in `.ts`", () => {
