@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/web-page-answers/.server/answer-page-write/answer-page-write.module.ts b/web-page-answers/.server/answer-page-write/answer-page-write.module.ts
+index 5c7e3ae70180dd84b6f6976509e0b9ea6e1e8be2..7020953903ff3b761a68eb1218338eeecc5710ae 100644
+--- a/web-page-answers/.server/answer-page-write/answer-page-write.module.ts
++++ b/web-page-answers/.server/answer-page-write/answer-page-write.module.ts
+@@ -17,7 +17,7 @@ export const answerPageWrite = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The name a site writes as is stated once, at the site's first write.",
++      statement: "The name a site writes as is stated once at the site's first write.",
+     },
+     {
+       invariantKind: "departure",
