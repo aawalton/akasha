@@ -19,6 +19,7 @@
     "./service-hash": "./service-hash/service-hash.module.code.ts"
   },
   "dependencies": {
+    "@akasha/code": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
