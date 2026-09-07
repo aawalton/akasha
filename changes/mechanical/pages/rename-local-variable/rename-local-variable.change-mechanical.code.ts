@@ -239,8 +239,6 @@ export function renameLocalVariable(path: string, text: string, given: Asked): A
   return answered([writing(path, text, body)])
 }
 
-// The offset is `spot` rather than `at`, because `at` names the path a change acts on everywhere a
-// change is reached by address.
 export type Given = {
   readonly at: string
   readonly spot: number

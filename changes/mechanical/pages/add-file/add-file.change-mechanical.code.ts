@@ -11,8 +11,6 @@ export type Asked = {
   readonly body: string
 }
 
-// The body a path already holds is answered as the body this edit was worked out from, so a landing
-// can tell a path this change adds from a path this change writes over.
 export function addFile(world: World, given: Asked): Answer {
   const was = world.textOf(given.at)
   if (was === given.body) {
