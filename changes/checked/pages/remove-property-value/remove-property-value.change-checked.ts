@@ -4,6 +4,7 @@ export const removePropertyValue = {
   id: "01a07944-9ee0-7f93-a8d0-b0e845bdd929",
   pageTypeSlug: "change-checked",
   slug: "remove-property-value",
+  changeModeSlug: "change-mode-remove",
   definition: "one value taken out of one page property, judged by the checks a landing runs",
   code: "ts",
   test: "ts",

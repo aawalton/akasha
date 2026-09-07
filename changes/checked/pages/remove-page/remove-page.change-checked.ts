@@ -4,6 +4,7 @@ export const removePage = {
   id: "01a0776d-8d1e-7f93-a0e2-4c566d49f8fd",
   pageTypeSlug: "change-checked",
   slug: "remove-page",
+  changeModeSlug: "change-mode-remove",
   definition: "one page taken away, by the partial change fitting the kind of page named",
   code: "ts",
   test: "ts",

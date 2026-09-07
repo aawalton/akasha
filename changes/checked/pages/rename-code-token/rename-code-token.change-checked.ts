@@ -4,6 +4,7 @@ export const renameCodeToken = {
   id: "01a07718-c9b6-7d80-aebd-b1155f08ab77",
   pageTypeSlug: "change-checked",
   slug: "rename-code-token",
+  changeModeSlug: "change-mode-rename",
   definition: "a name a code file declares renamed wherever it reaches, exported or not",
   code: "ts",
   test: "ts",

@@ -4,6 +4,7 @@ export const renamePackage = {
   id: "01a079db-f6e1-71b9-af6e-fd2b77ce7f9d",
   pageTypeSlug: "change-checked",
   slug: "rename-package",
+  changeModeSlug: "change-mode-rename",
   definition:
     "a package renamed wherever that package is named, in its manifest and in every specifier reaching it",
   code: "ts",

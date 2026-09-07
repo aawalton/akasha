@@ -4,6 +4,7 @@ export const changePageProperty = {
   id: "01a07932-2568-7c41-8097-885a9fc34263",
   pageTypeSlug: "change-checked",
   slug: "change-page-property",
+  changeModeSlug: "change-mode-change",
   definition:
     "one property of one page stated anew, by the mechanical change fitting that property",
   code: "ts",

@@ -4,6 +4,7 @@ export const changePagePropertyText = {
   id: "01a07995-6678-72d8-97ab-a78b836b2f8d",
   pageTypeSlug: "change-restated",
   slug: "change-page-property-text",
+  changeModeSlug: "change-mode-change",
   definition: "one text property of one page stated anew in other words",
   code: "ts",
   test: "ts",

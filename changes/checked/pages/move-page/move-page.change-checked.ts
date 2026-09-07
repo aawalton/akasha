@@ -4,6 +4,7 @@ export const movePage = {
   id: "01a07883-67ee-7249-9045-121a02fac4bf",
   pageTypeSlug: "change-checked",
   slug: "move-page",
+  changeModeSlug: "change-mode-move",
   definition: "one page and the files beside that page carried into another folder",
   code: "ts",
   test: "ts",

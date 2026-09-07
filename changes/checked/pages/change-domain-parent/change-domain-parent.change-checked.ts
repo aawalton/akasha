@@ -4,6 +4,7 @@ export const changeDomainParent = {
   id: "01a0795e-9c4f-7299-9238-117baca6b57e",
   pageTypeSlug: "change-checked",
   slug: "change-domain-parent",
+  changeModeSlug: "change-mode-change",
   definition: "one page made a part of another page rather than of the page naming it now",
   code: "ts",
   test: "ts",
