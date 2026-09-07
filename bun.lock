@@ -1985,7 +1985,6 @@
         "@akasha/temper-watcher": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-run": "workspace:*",
-        "fflate": "0.8.3",
         "zod": "^4.3.6",
       },
     },

@@ -1,6 +1,6 @@
 import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
 import { z } from "zod"
-import { readInventoryDiagnostic } from "../inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
+import { readInventoryDiagnostic } from "../../../temper/temper-commands/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
 
 const SIGNALS_SCHEMA = z
   .object({

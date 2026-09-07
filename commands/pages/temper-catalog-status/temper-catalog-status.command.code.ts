@@ -12,7 +12,7 @@ import {
   resolveSideFilePath,
 } from "@akasha/temper-catalog-side-file/catalog-file-paths"
 import { parseSideFile, type SideFile } from "@akasha/temper-catalog-side-file/catalog-side-file"
-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
+import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
 
 const DATA = 2
 

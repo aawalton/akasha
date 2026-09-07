@@ -13,7 +13,7 @@ import {
 import { fetchCatalog, fetchFileDetails } from "@akasha/temper-community-addons/esoui-catalog"
 import { readInstalledAddons } from "@akasha/temper-community-addons/installed-addons"
 import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
+import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 

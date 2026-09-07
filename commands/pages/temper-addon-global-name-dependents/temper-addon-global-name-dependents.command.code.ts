@@ -15,7 +15,7 @@ import { collectGlobalWritesFromSource } from "@akasha/temper-build-deploy-check
 import {
   namesIn,
   valuesOf,
-} from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
+} from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
 
 const DATA = 2
 

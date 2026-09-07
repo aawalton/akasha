@@ -3,15 +3,10 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./addon-fixture-manifest": "./addon-fixture-manifest/addon-fixture-manifest.module.code.ts",
-    "./addon-fixture-manifest/testing": "./addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts",
-    "./argument-word-reading": "./argument-word-reading/argument-word-reading.module.code.ts",
     "./bank-profile-reading": "./bank-profile-reading/bank-profile-reading.module.code.ts",
     "./bank-trace-reading": "./bank-trace-reading/bank-trace-reading.module.code.ts",
     "./eso-base-game-globals": "./eso-base-game-globals/eso-base-game-globals.module.code.ts",
-    "./eso-chatter-names": "./eso-chatter-names/eso-chatter-names.module.code.ts",
     "./eso-colon-methods": "./eso-colon-methods/eso-colon-methods.module.code.ts",
-    "./explain-replay-reading": "./explain-replay-reading/explain-replay-reading.module.code.ts",
     "./flag-fault-stage": "./flag-fault-stage/flag-fault-stage.module.code.ts",
     "./inventory-characters-reading": "./inventory-characters-reading/inventory-characters-reading.module.code.ts",
     "./inventory-config-reading": "./inventory-config-reading/inventory-config-reading.module.code.ts",
@@ -27,13 +22,11 @@
     "./inventory-rule-calling": "./inventory-rule-calling/inventory-rule-calling.module.code.ts",
     "./inventory-rule-flags": "./inventory-rule-flags/inventory-rule-flags.module.code.ts",
     "./inventory-rule-rows": "./inventory-rule-rows/inventory-rule-rows.module.code.ts",
-    "./inventory-rule-settings-shape": "./inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts",
     "./inventory-settings-access": "./inventory-settings-access/inventory-settings-access.module.code.ts",
     "./inventory-settings-handle": "./inventory-settings-handle/inventory-settings-handle.module.code.ts",
     "./inventory-snapshot-reading": "./inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts",
     "./master-craft-trace-reading": "./master-craft-trace-reading/master-craft-trace-reading.module.code.ts",
-    "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts",
-    "./name-ordering": "./name-ordering/name-ordering.module.code.ts"
+    "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts"
   },
   "dependencies": {
     "@akasha/supabase-auth": "workspace:*",
@@ -53,7 +46,6 @@
     "@akasha/temper-upstream-data": "workspace:*",
     "@akasha/temper-watcher": "workspace:*",
     "@akasha/utils-run": "workspace:*",
-    "fflate": "0.8.3",
     "zod": "^4.3.6",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages-query": "workspace:*",

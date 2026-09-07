@@ -5,7 +5,7 @@ import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { writeLoadOrder } from "@akasha/temper-addon-build/addon-load-order"
 import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
+import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 const DATA = 2
