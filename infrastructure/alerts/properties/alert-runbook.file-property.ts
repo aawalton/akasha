@@ -2,10 +2,10 @@ import type { FileProperty } from "@akasha/pages/file-property"
 
 export type AlertDescription = "txt"
 
-export const alertDescription = {
+export const alertRunbook = {
   id: "01a06755-0778-7275-8076-4aec6002693b",
   pageTypeSlug: "file-property",
-  slug: "alert-description",
+  slug: "alert-runbook",
   propertySlug: "runbook",
   definition: "what to check once an alert is raised",
   invariants: [

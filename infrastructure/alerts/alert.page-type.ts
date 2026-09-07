@@ -3,10 +3,10 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { Definition } from "../../domains/properties/definition.text-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { PersonSlug } from "../../seat-system/seats/properties/person-slug.relation-property.ts"
-import type { AlertDescription } from "./properties/alert-description.file-property.ts"
 import type { AlertDomain } from "./properties/alert-domain.text-property.ts"
 import type { AlertPersonaSlug } from "./properties/alert-persona-slug.relation-property.ts"
 import type { AlertRoleSlug } from "./properties/alert-role-slug.text-property.ts"
+import type { AlertDescription } from "./properties/alert-runbook.file-property.ts"
 import type { AlertSummary } from "./properties/alert-summary.text-property.ts"
 
 export type Alert = Page & {
@@ -28,7 +28,7 @@ export const alert = {
   pluralSlug: "alerts",
   extendsSlug: ["page-type/page"],
   partSlugs: [
-    "file-property/alert-description",
+    "file-property/alert-runbook",
     "relation-property/alert-persona-slug",
     "text-property/alert-domain",
     "text-property/alert-role-slug",
@@ -40,7 +40,7 @@ export const alert = {
     { pagePropertySlug: "text-property/alert-domain", required: false, many: false },
     { pagePropertySlug: "text-property/alert-summary", required: false, many: false },
     { pagePropertySlug: "relation-property/person-slug", required: false, many: false },
-    { pagePropertySlug: "file-property/alert-description", required: false, many: false },
+    { pagePropertySlug: "file-property/alert-runbook", required: false, many: false },
     { pagePropertySlug: "relation-property/alert-persona-slug", required: false, many: false },
     { pagePropertySlug: "text-property/alert-role-slug", required: false, many: false },
   ],
