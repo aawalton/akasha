@@ -64,11 +64,7 @@ export const invariantStatementIsPlain = {
         "A sentence no shape reaches is a gap in the shapes rather than a fault in the statement.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The phases past patch stay off while the tree still carries refusals.",
-    },
-    {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "Every invariant under akasha is plain.",
     },
   ],
