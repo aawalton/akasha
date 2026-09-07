@@ -85,7 +85,7 @@ export function waysGoneIn(
     if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
     const value = one.initializer
     if (!ts.isStringLiteral(value)) continue
-    if (going.has(landsOn(at, value.text))) found.push(one.name.text)
+    if (!going.has(landsOn(at, value.text))) found.push(one.name.text)
   }
   return found
 }
