@@ -10,7 +10,11 @@ export const preReceiveMainAppendOnly = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "main may be created, because a restore pushes into an empty repository.",
+      statement: "main may be created.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A restore pushes into an empty repository.",
     },
     {
       invariantKind: "departure",
