@@ -56,3 +56,16 @@ index 0000000000000000000000000000000000000000..2ae22a7da3d32a05095856678bc64abe
 +    "The hole in move-file waits.",
 +  ],
 +} as const satisfies Initiative
+diff --git a/seat-system/seats/pages/aine.seat.ts b/seat-system/seats/pages/aine.seat.ts
+index 20fc05287bd75abdc1d4fc8b32775449c5b05048..1d015cc9b3bacfb2b0ee18fd5fec1526df194740 100644
+--- a/seat-system/seats/pages/aine.seat.ts
++++ b/seat-system/seats/pages/aine.seat.ts
+@@ -5,7 +5,7 @@ export const aine = {
+   pageTypeSlug: "seat",
+   slug: "aine",
+   personaSlug: "aine",
+-  assignmentSlug: "page-type/finding",
++  assignmentSlug: "initiative/aine-audit-change-guards",
+   roleSlug: "definer",
+   personSlug: "alan",
+   startMode: "interactive",
