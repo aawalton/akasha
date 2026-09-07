@@ -110,15 +110,20 @@ export function partingOver(
   }
 }
 
+export function levelOf(reach: string): string {
+  return reach === ALWAYS ? PAGE : reach
+}
+
 function scopesFor(
   reach: string,
   value: Value,
   pageTypeSlug: string,
   partOf: PartOf
 ): readonly string[] {
-  if (reach === ALWAYS || reach === PAGE) return [PAGE]
-  if (reach === PAGE_TYPE) return [pageTypeSlug]
-  if (reach === PART_OF) return partOf(value)
+  const level = levelOf(reach)
+  if (level === PAGE) return [PAGE]
+  if (level === PAGE_TYPE) return [pageTypeSlug]
+  if (level === PART_OF) return partOf(value)
   throw new Error(`\`${reach}\` is no reach a page is filed under`)
 }
 

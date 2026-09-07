@@ -19,6 +19,10 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
+      statement: "The reaches `always` and `page` name the one scope `page`.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A scope is a page type or a page's parent.",
     },
     {

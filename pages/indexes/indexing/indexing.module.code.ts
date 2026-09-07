@@ -24,7 +24,12 @@ import {
   uniquePropertiesAt,
   uniquePropertiesIn,
 } from "../entries/index-entries.module.code.ts"
-import { identityIn, partingIn, partingOver } from "../identity/index-identity.index.code.ts"
+import {
+  identityIn,
+  levelOf,
+  partingIn,
+  partingOver,
+} from "../identity/index-identity.index.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { importIn } from "../import/index-import.index.code.ts"
 import { indexImport } from "../import/index-import.index.ts"
@@ -205,6 +210,10 @@ export type Settling = {
   readonly refused: readonly string[]
 }
 
+function levelIn(one: Identifier | undefined): string | undefined {
+  return one === undefined ? undefined : levelOf(one.reach)
+}
+
 function turningIn(
   was: ReadonlyMap<string, Identifier>,
   now: ReadonlyMap<string, Identifier>
@@ -213,7 +222,7 @@ function turningIn(
   for (const slug of new Set([...was.keys(), ...now.keys()])) {
     const before = was.get(slug)
     const after = now.get(slug)
-    if (before?.key !== after?.key || before?.reach !== after?.reach) said.add(slug)
+    if (before?.key !== after?.key || levelIn(before) !== levelIn(after)) said.add(slug)
   }
   return said
 }
