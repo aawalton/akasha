@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/fitness/exercise-access/free-exercise-row/free-exercise-row.module.ts b/alan/fitness/exercise-access/free-exercise-row/free-exercise-row.module.ts
+index 3acf0bc1a406a75bcac965294e8c65a6a1d8fede..e82af2bc15656fa37ecdd0e7e791d4c5fdf8cd73 100644
+--- a/alan/fitness/exercise-access/free-exercise-row/free-exercise-row.module.ts
++++ b/alan/fitness/exercise-access/free-exercise-row/free-exercise-row.module.ts
+@@ -11,7 +11,7 @@ export const freeExerciseRow = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A row states an empty list for a muscle, instruction or image that row does not name.",
++        "A row states an empty list for a muscle or instruction or image that row does not name.",
+     },
+     {
+       invariantKind: "departure",
