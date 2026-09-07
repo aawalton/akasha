@@ -1,0 +1,67 @@
+writerOwesReading: false
+diff --git a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
+index db2697c19cb270b313a832746fe1bac8dcb13244..e3996d68597401e6f8557b1345830ef3a51e489a 100644
+--- a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
+@@ -1,7 +1,7 @@
+ import { refusalOver } from "../../chain-refusal/chain-refusal.module.code.ts"
+ import {
+   guarding,
+-  ranAsHook,
++  ranAsCommandHook,
+   SCOPE_FLAG,
+   toldOf,
+ } from "../../hook-answer/hook-answer.module.code.ts"
+@@ -96,7 +96,7 @@ export function refusalIn(command: string, from: string, root: string): string |
+ }
+ 
+ export async function ran(): Promise<number> {
+-  return await ranAsHook(HOOK, "command", SCOPE, import.meta.path, refusalIn)
++  return await ranAsCommandHook(HOOK, SCOPE, import.meta.path, refusalIn)
+ }
+ 
+ if (import.meta.main) process.exit(await ran())
+diff --git a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
+index 92e8016345e56bd6f60f794210dfdde380795c07..697e9a466e2f9c27070148b4ab27e75730409162 100644
+--- a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
+@@ -3,7 +3,7 @@ import { bunCallsIn } from "../../bun-calls/bun-calls.module.code.ts"
+ import { refusalOver } from "../../chain-refusal/chain-refusal.module.code.ts"
+ import {
+   guarding,
+-  ranAsHook,
++  ranAsCommandHook,
+   SCOPE_FLAG,
+   toldOf,
+ } from "../../hook-answer/hook-answer.module.code.ts"
+@@ -84,7 +84,7 @@ export function refusalIn(command: string, from: string, root: string): string |
+ }
+ 
+ export async function ran(): Promise<number> {
+-  return await ranAsHook(HOOK, "command", SCOPE, import.meta.path, refusalIn)
++  return await ranAsCommandHook(HOOK, SCOPE, import.meta.path, refusalIn)
+ }
+ 
+ if (import.meta.main) process.exit(await ran())
+diff --git a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.code.ts b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.code.ts
+index a1e111dcf497c121507cbc58e12b3eab58f7eb3f..d6434b2663c68ab738d316523b1e0c3d3774294f 100644
+--- a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.code.ts
+@@ -3,7 +3,7 @@ import { bunCallsIn, scriptOf } from "../../bun-calls/bun-calls.module.code.ts"
+ import { refusalOver } from "../../chain-refusal/chain-refusal.module.code.ts"
+ import {
+   guarding,
+-  ranAsHook,
++  ranAsCommandHook,
+   SCOPE_FLAG,
+   toldOf,
+ } from "../../hook-answer/hook-answer.module.code.ts"
+@@ -122,7 +122,7 @@ export function refusalIn(command: string, from: string, root: string): string |
+ }
+ 
+ export async function ran(): Promise<number> {
+-  return await ranAsHook(HOOK, "command", SCOPE, import.meta.path, refusalIn)
++  return await ranAsCommandHook(HOOK, SCOPE, import.meta.path, refusalIn)
+ }
+ 
+ if (import.meta.main) process.exit(await ran())
