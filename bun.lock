@@ -2478,6 +2478,7 @@
     "temper/temper-lua-runner": {
       "name": "@akasha/temper-lua-runner",
       "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
         "zod": "^4.3.6",
       },
     },

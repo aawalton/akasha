@@ -29,7 +29,7 @@ export const luaDriver = {
     },
     {
       invariantKind: "departure",
-      statement: "A table whose keys run one upward with no gap is written as a JSON array.",
+      statement: "A table whose keys start at 1 and rise with no gap is written as a JSON array.",
     },
     {
       invariantKind: "departure",
