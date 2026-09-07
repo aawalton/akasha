@@ -71,3 +71,35 @@ index 11c69063a25ea60afdc6101bd9639303ff2749a8..ddb62e0b4c229d7a5cdd21eb138a0a9d
 -  visibleProperties: ["priority", "due-date", "due-time"],
 +  visibleProperties: ["to-do-priority", "to-do-due-date", "due-time"],
  } as const satisfies View
+diff --git a/pages/views/pages/temper-tasks-today.view.ts b/pages/views/pages/temper-tasks-today.view.ts
+index e09f8895e07e4de26033c251d8c7bdda8798c6be..2d164933b639b8b89877fff58877fc3ee8b293b2 100644
+--- a/pages/views/pages/temper-tasks-today.view.ts
++++ b/pages/views/pages/temper-tasks-today.view.ts
+@@ -8,10 +8,7 @@ export const temperTasksToday = {
+   navSlug: "temper-tasks",
+   pageType: "temper-task",
+   viewPlace: 0,
+-  narrows: [
+-    { key: "completed-at", comparison: "empty", values: ["true"] },
+-    { key: "due-date", comparison: "before", values: ["eso-day-next"] },
+-  ],
++  narrows: [{ key: "due-date", comparison: "before", values: ["eso-day-next"] }],
+   viewSorts: [
+     { key: "priority", descending: false },
+     { key: "character-sort-order", descending: true },
+@@ -21,13 +18,12 @@ export const temperTasksToday = {
+     "priority",
+     "progress",
+     "character",
+-    "rrule",
++    "rrule-rule",
+     "due-date",
+     "due-time",
+     "scope",
+-    "link",
+   ],
+-  hiddenPropertiesOrder: ["page-type-id", "completion-card-id"],
++  hiddenPropertiesOrder: ["completion-card-id"],
+   pageSize: 40,
+   itemPageSize: 12,
+   groupPageSize: 6,
