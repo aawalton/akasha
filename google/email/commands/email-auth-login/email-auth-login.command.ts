@@ -23,7 +23,7 @@ export const emailAuthLogin = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A refresh token is minted for reading, composing and modifying alike.",
+      statement: "A refresh token is minted for reading and composing and modifying alike.",
     },
     {
       invariantKind: "departure",
