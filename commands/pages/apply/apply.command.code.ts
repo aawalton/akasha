@@ -9,6 +9,7 @@ import {
   keptEdits,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { writtenAgain } from "../../../command-system/address-mapping/address-mapping.module.code.ts"
+import { applying } from "../../../command-system/applying/applying.module.code.ts"
 import { BREAK_GLASS, mistaking } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { waitingSaid } from "../../../command-system/change-acting/change-acting.module.code.ts"
@@ -17,7 +18,6 @@ import {
   MESSAGE_FILE,
   unknownIn,
 } from "../../../command-system/command-flags/command-flags.module.code.ts"
-import { applying } from "../../../command-system/commands/patch/patch.command.code.ts"
 import {
   type Bodies,
   type Body,

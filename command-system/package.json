@@ -11,6 +11,7 @@
     "./asking/testing": "./asking/asking.module.test-fixtures.ts",
     "./cli": "./cli/cli.module.code.ts",
     "./address-mapping": "./address-mapping/address-mapping.module.code.ts",
+    "./applying": "./applying/applying.module.code.ts",
     "./argument-reading": "./argument-reading/argument-reading.module.code.ts",
     "./audit": "./commands/audit/audit.command.code.ts",
     "./change-acting": "./change-acting/change-acting.module.code.ts",

@@ -1,27 +1,17 @@
 import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { agentPathOf } from "@akasha/context/warranting"
-import { partedIn } from "@akasha/pages/page-file-name"
-import { textAt as textIn, valueAt } from "@akasha/pages/page-value"
-import { applied } from "../../applying/applying.module.code.ts"
+import { applying, noneSaid } from "../../applying/applying.module.code.ts"
 import {
-  BREAK_GLASS,
-  bypassedIn,
   counted,
   formattingIn,
-  glassSaid,
   mistaking,
   textAt,
   textOf,
-  unloadableIn,
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import {
   CONTENT_FILE,
   FILE_PATH,
-  glassIn,
-  MESSAGE,
-  MESSAGE_FILE,
-  messageIn,
   unknownIn,
   valuesOf,
 } from "../../command-flags/command-flags.module.code.ts"
@@ -36,8 +26,7 @@ import {
   resolved,
   wouldHold,
 } from "../../drafting/drafting.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
-import { gateBuilt, NO_GATE } from "../../gate-building/gate-building.module.code.ts"
+import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
 import { draftSaid } from "../../judged-saying/judged-saying.module.code.ts"
 import { baseOf, changeOf, editsOf, type FileEdit } from "../../landing/landing.module.code.ts"
 import { formattedSaid } from "../../landing-saying/landing-saying.module.code.ts"
@@ -56,8 +45,6 @@ export const RESOLVE = "resolve"
 
 const ACTS = [APPLY, DROP, SHOW, RESOLVE]
 
-const APPLYING = [MESSAGE, MESSAGE_FILE, BREAK_GLASS]
-
 const SHOWING = [FILE_PATH]
 
 const DROPPING = [FILE_PATH]
@@ -68,25 +55,6 @@ const BARE: readonly string[] = []
 
 const BYTES = new TextEncoder()
 
-const NONE = "nothing is drafted here, so no patch is kept"
-
-const SUBAGENT = "subagent"
-
-const SEAT_KEY = "principalSeatName"
-
-function seatOver(root: string, page: string): string | null {
-  const said = partedIn(page)
-  if (said === null || said.pageType !== SUBAGENT) return null
-  const value = valueAt(page, root)
-  return value === null ? null : textIn(value, SEAT_KEY)
-}
-
-function noneSaid(root: string, page: string): string {
-  const seat = seatOver(root, page)
-  if (seat === null) return NONE
-  return `${NONE} — a subagent's draft goes to its seat when the subagent stops, so ask the ${seat} seat for what was drafted here before`
-}
-
 const NO_PAGE = "this call names no agent whose page a patch would be kept beside"
 
 const NOT_HELD = "the patch carries no body at"
@@ -96,8 +64,6 @@ const AS_IT_WAS = "nothing was resolved — the patch is as the patch was"
 const NO_REBASE = "the patch does not rebase onto the commit at HEAD"
 
 const MOVED = " — moved under the patch since it was drafted"
-
-const WHY = "the patch this agent drafted"
 
 function markOf(one: Blobs): string {
   if (added(one)) return "added"
@@ -319,49 +285,6 @@ export async function resolving(
     ],
     refusals: [],
     code: 0,
-  }
-}
-
-export async function applying(
-  given: Given,
-  page: string,
-  argv: readonly string[]
-): Promise<Answer> {
-  const unknown = unknownIn(argv, APPLYING, BARE)
-  if (unknown.length > 0) return mistaking(unknown)
-  const message = messageIn(argv, APPLYING)
-  if ("refusals" in message) return mistaking(message.refusals)
-  const glass = glassIn(argv, APPLYING)
-  if ("refusals" in glass) return mistaking(glass.refusals)
-  const broken = glass.glass
-  if (patchIn(given.root, page) === null) return mistaking([noneSaid(given.root, page)])
-  const built = gateBuilt(given.root)
-  if (broken === null && !("gate" in built)) {
-    return { report: [], refusals: [`the checks would not load — ${built.broken}`], code: 3 }
-  }
-  const gate = broken === null && "gate" in built ? built.gate : NO_GATE
-  const unloaded = "gate" in built ? null : built.broken
-  const said0 = message.message ?? WHY
-  const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
-  const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
-  try {
-    const said = await applied(given.root, page, given.agentId, why, gate, given.writer)
-    if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
-    return {
-      report: [
-        ...said.landed.map((one) => `landed ${one}`),
-        ...formattedSaid(said.formatted),
-        ...said.said,
-        ...(broken === null ? [] : [glassSaid(broken)]),
-        said.commit === null
-          ? "nothing was committed — the tree already holds what the patch asked for"
-          : `committed as ${said.commit}`,
-      ],
-      refusals: said.wrong,
-      code: said.wrong.length === 0 ? 0 : 3,
-    }
-  } catch (thrown) {
-    return { report: [], refusals: [`nothing was committed — ${whyOf(thrown)}`], code: 3 }
   }
 }
 

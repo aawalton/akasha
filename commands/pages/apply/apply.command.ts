@@ -62,6 +62,15 @@ export const apply = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A run stopping between the landing and the clearing leaves the edits for a later apply.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edit re-folded onto the body a landing left takes nothing back out.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The edits are formatted after the edits are gathered rather than before.",
     },
     {

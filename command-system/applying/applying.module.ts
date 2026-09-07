@@ -10,6 +10,19 @@ export const applying = {
   invariants: [
     {
       invariantKind: "departure",
+      statement:
+        "The arguments an apply takes are read here rather than by the command naming the apply.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report an apply answers with is shaped here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The message saying no patch is kept is worded here rather than by a command.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A patch is rebased onto the commit at HEAD before the patch is applied.",
     },
     {

@@ -1,7 +1,26 @@
 import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import type { Judging } from "@akasha/checks/judging"
 import { said as gitSaid } from "@akasha/git/git-running"
-import { bypassedIn, MECHANICAL, noCheckSaid, preparing } from "../asking/asking.module.code.ts"
+import { partedIn } from "@akasha/pages/page-file-name"
+import { textAt as textIn, valueAt } from "@akasha/pages/page-value"
+import {
+  BREAK_GLASS,
+  bypassedIn,
+  glassSaid,
+  MECHANICAL,
+  mistaking,
+  noCheckSaid,
+  preparing,
+  unloadableIn,
+} from "../asking/asking.module.code.ts"
+import type { Answer, Given } from "../calling/calling.module.code.ts"
+import {
+  glassIn,
+  MESSAGE,
+  MESSAGE_FILE,
+  messageIn,
+  unknownIn,
+} from "../command-flags/command-flags.module.code.ts"
 import {
   APPLIED,
   type Bodies,
@@ -9,7 +28,8 @@ import {
   rebasedOnto,
   runningIn,
 } from "../drafting/drafting.module.code.ts"
-import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
+import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
+import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import {
   editsOf,
   type FileCarry,
@@ -18,6 +38,7 @@ import {
   type Refused,
 } from "../landing/landing.module.code.ts"
 import { carryLanded } from "../landing-reading/landing-reading.module.code.ts"
+import { formattedSaid } from "../landing-saying/landing-saying.module.code.ts"
 import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 
@@ -28,6 +49,74 @@ const NO_PATCH = "no patch is kept for this agent, so nothing is there to apply"
 const KEPT_AS_IT_WAS = "nothing was applied — the patch is as the patch was"
 
 const CLASHED = "nothing was applied — a patch carrying a conflict does not apply"
+
+const NONE = "nothing is drafted here, so no patch is kept"
+
+const SUBAGENT = "subagent"
+
+const SEAT_KEY = "principalSeatName"
+
+const WHY = "the patch this agent drafted"
+
+const APPLYING = [MESSAGE, MESSAGE_FILE, BREAK_GLASS]
+
+const BARE: readonly string[] = []
+
+function seatOver(root: string, page: string): string | null {
+  const said = partedIn(page)
+  if (said === null || said.pageType !== SUBAGENT) return null
+  const value = valueAt(page, root)
+  return value === null ? null : textIn(value, SEAT_KEY)
+}
+
+export function noneSaid(root: string, page: string): string {
+  const seat = seatOver(root, page)
+  if (seat === null) return NONE
+  return `${NONE} — a subagent's draft goes to its seat when the subagent stops, so ask the ${seat} seat for what was drafted here before`
+}
+
+export async function applying(
+  given: Given,
+  page: string,
+  argv: readonly string[]
+): Promise<Answer> {
+  const unknown = unknownIn(argv, APPLYING, BARE)
+  if (unknown.length > 0) return mistaking(unknown)
+  const message = messageIn(argv, APPLYING)
+  if ("refusals" in message) return mistaking(message.refusals)
+  const glass = glassIn(argv, APPLYING)
+  if ("refusals" in glass) return mistaking(glass.refusals)
+  const broken = glass.glass
+  if (patchIn(given.root, page) === null) return mistaking([noneSaid(given.root, page)])
+  const built = gateBuilt(given.root)
+  if (broken === null && !("gate" in built)) {
+    return { report: [], refusals: [`the checks would not load — ${built.broken}`], code: 3 }
+  }
+  const gate = broken === null && "gate" in built ? built.gate : NO_GATE
+  const unloaded = "gate" in built ? null : built.broken
+  const said0 = message.message ?? WHY
+  const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
+  const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
+  try {
+    const said = await applied(given.root, page, given.agentId, why, gate, given.writer)
+    if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
+    return {
+      report: [
+        ...said.landed.map((one) => `landed ${one}`),
+        ...formattedSaid(said.formatted),
+        ...said.said,
+        ...(broken === null ? [] : [glassSaid(broken)]),
+        said.commit === null
+          ? "nothing was committed — the tree already holds what the patch asked for"
+          : `committed as ${said.commit}`,
+      ],
+      refusals: said.wrong,
+      code: said.wrong.length === 0 ? 0 : 3,
+    }
+  } catch (thrown) {
+    return { report: [], refusals: [`nothing was committed — ${whyOf(thrown)}`], code: 3 }
+  }
+}
 
 export type Applied = {
   readonly base: string
