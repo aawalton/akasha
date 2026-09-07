@@ -38,7 +38,11 @@ export const proposition = {
     },
     {
       invariantKind: "departure",
-      statement: "An adopted proposition is chosen rather than proved, and carries no proof.",
+      statement: "An adopted proposition is chosen rather than proved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An adopted proposition carries no proof.",
     },
     {
       invariantKind: "absence",
