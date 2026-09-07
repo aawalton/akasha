@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { runChange as removeFileMechanical } from "../../../mechanical/pages/remove-file/remove-file.change-mechanical-file.code.ts"
+import { runChange as removeFileMechanical } from "../../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,

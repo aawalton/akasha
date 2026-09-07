@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { REACHING } from "../../../mechanical/pages/add-file/add-file.change-mechanical-file.test-fixtures.ts"
+import { REACHING } from "../../../mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts"
 import {
   NOTHING_OVER,
   type World,

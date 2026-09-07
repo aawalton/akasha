@@ -33,34 +33,34 @@ export type Changes = {
     typeof import("../../../mechanical/file/pages/change-file-content-code/change-file-content-code.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/add-file": Parameters<
-    typeof import("../../../mechanical/pages/add-file/add-file.change-mechanical-file.code.ts")["runChange"]
+    typeof import("../../../mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/add-file-code": Parameters<
-    typeof import("../../../mechanical/pages/add-file-code/add-file-code.change-mechanical-file.code.ts")["runChange"]
+    typeof import("../../../mechanical/file/add/add-file-code/add-file-code.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/add-file-page": Parameters<
-    typeof import("../../../mechanical/pages/add-file-page/add-file-page.change-mechanical-file.code.ts")["runChange"]
+    typeof import("../../../mechanical/file/add/add-file-page/add-file-page.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/add-file-page-property": Parameters<
-    typeof import("../../../mechanical/pages/add-file-page-property/add-file-page-property.change-mechanical-file.code.ts")["runChange"]
+    typeof import("../../../mechanical/file/add/add-file-page-property/add-file-page-property.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/add-file-page-type": Parameters<
-    typeof import("../../../mechanical/pages/add-file-page-type/add-file-page-type.change-mechanical-file.code.ts")["runChange"]
+    typeof import("../../../mechanical/file/add/add-file-page-type/add-file-page-type.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/move-file": Parameters<
-    typeof import("../../../mechanical/pages/move-file/move-file.change-mechanical-file.code.ts")["runChange"]
+    typeof import("../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/remove-file": Parameters<
-    typeof import("../../../mechanical/pages/remove-file/remove-file.change-mechanical-file.code.ts")["runChange"]
+    typeof import("../../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/remove-file-code": Parameters<
-    typeof import("../../../mechanical/pages/remove-file-code/remove-file-code.change-mechanical-file.code.ts")["runChange"]
+    typeof import("../../../mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/remove-file-page": Parameters<
-    typeof import("../../../mechanical/pages/remove-file-page/remove-file-page.change-mechanical-file.code.ts")["runChange"]
+    typeof import("../../../mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/rename-path": Parameters<
-    typeof import("../../../mechanical/pages/rename-path/rename-path.change-mechanical-file.code.ts")["runChange"]
+    typeof import("../../../mechanical/file/rename/rename-path/rename-path.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-folder/remove-page-type": Parameters<
     typeof import("../../../mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.code.ts")["runChange"]

@@ -14,7 +14,7 @@ import {
   type World,
   worldAt,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { removeFile } from "../../../pages/remove-file/remove-file.change-mechanical-file.code.ts"
+import { removeFile } from "../../../file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import { removePropertyValue } from "../../../pages/remove-property-value/remove-property-value.change-mechanical-data.code.ts"
 import { removePageType } from "./remove-page-type.change-mechanical-folder.code.ts"
 

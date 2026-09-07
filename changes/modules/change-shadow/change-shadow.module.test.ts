@@ -6,8 +6,8 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { addFile } from "../../mechanical/pages/add-file/add-file.change-mechanical-file.code.ts"
-import { removeFile } from "../../mechanical/pages/remove-file/remove-file.change-mechanical-file.code.ts"
+import { addFile } from "../../mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
+import { removeFile } from "../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import {
   answered,
   gathered,

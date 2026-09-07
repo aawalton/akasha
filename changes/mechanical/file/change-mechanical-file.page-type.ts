@@ -14,7 +14,12 @@ export const changeMechanicalFile = {
   definition: "a mechanical change acting on where a file sits rather than on what that file holds",
   pluralSlug: "change-mechanical-file",
   extendsSlug: ["page-type/change-mechanical"],
-  partSlugs: [],
+  partSlugs: [
+    "domain/change-mechanical-file-add",
+    "domain/change-mechanical-file-remove",
+    "domain/change-mechanical-file-move",
+    "domain/change-mechanical-file-rename",
+  ],
   properties: [
     { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
     {
