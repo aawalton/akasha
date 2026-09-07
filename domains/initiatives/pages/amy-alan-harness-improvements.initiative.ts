@@ -17,5 +17,10 @@ export const amyAlanHarnessImprovements = {
       workingMemory:
         "The cause is fixed and live at fa63d016: the page and page-type routes answer the shell's preflight 204 with the cross-origin headers, and read a bearer token as well as a session cookie. Verified from here with `Origin: capacitor://localhost` and Alan's bearer: nav answers 200 carrying 24 rows, and page types answers 464. What is unseen from here is his phone drawing them.",
     },
+    {
+      statement: "Alan reaches the akasha commands tree from a panel in his editor.",
+      workingMemory:
+        "Asked by Alan on 2026-09-07: a panel parallel to the ones the extension already draws, opening on akasha, then its namespaces and top-level commands, then what sits under each. The tree is the `command` and `namespace` pages, which is what the walk behind `akasha --help` reads. Nothing here is read yet: which panels the extension draws, and how one is registered, is unchecked.",
+    },
   ],
 } as const satisfies Initiative

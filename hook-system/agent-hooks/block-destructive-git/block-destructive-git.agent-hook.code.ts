@@ -157,7 +157,7 @@ export const SCOPE: readonly string[] = [
   "WHAT THE PUSH REFUSAL DOES NOT REACH, each measured against this hook rather than supposed:",
   "  `gp`, the `git push` alias a seat's bashrc carries — a hook is given the words of the tool",
   "    call, and `gp` carries no `git`, so no git call is read out of it at all. What closes",
-  "    `gp` is `terminal-bash`, which composes no alias that pushes while the migration runs.",
+  "    `gp` is `terminal-bash`, which composes no alias that pushes.",
   "  a push a program makes for itself — `handOffPush` spawns the pusher detached, under no",
   "    tool call, so nothing here is ever asked about it",
   "  anything typed into a terminal rather than sent as a tool call, which no hook is given",

@@ -48,7 +48,7 @@ test("a web app leaving which workload is meant unsettled is refused", async () 
   expect(answer.refusals[0]).toContain("unsettled")
 })
 
-test("a commit origin main does not carry is refused rather than pushed there", async () => {
+test("a commit origin main does not carry is pushed there rather than refused", async () => {
   const world = seededWorld()
   const origin = mkdtempSync(join(HOLD, ORIGIN_PREFIX))
   try {
@@ -56,20 +56,38 @@ test("a commit origin main does not carry is refused rather than pushed there", 
     said(["git", "-C", origin, "init", "-q", "--bare"])
     said(["git", "-C", world.root, "remote", "add", "origin", origin])
     said(["git", "-C", world.root, "push", "-q", "origin", "HEAD:refs/heads/main"])
+    said(["git", "-C", world.root, "branch", "--set-upstream-to=origin/main"])
     writeFileSync(join(world.root, "later.txt"), "later", "utf8")
     said(["git", "-C", world.root, "add", "-A"])
     committed(world.root, "what origin does not carry")
     const sha = said(["git", "-C", world.root, "rev-parse", "HEAD"]).trim()
+    await putUpWebApp("one-web", given(world.root), true)
+    const carried = said(["git", "-C", origin, "rev-parse", "refs/heads/main"]).trim()
+    expect(carried).toBe(sha)
+  } finally {
+    rmSync(origin, { recursive: true, force: true })
+    world.sweep()
+  }
+})
+
+test("a commit no remote will take refuses the call rather than building on", async () => {
+  const world = seededWorld()
+  const origin = mkdtempSync(join(HOLD, ORIGIN_PREFIX))
+  try {
+    committed(world.root, "what origin carries")
+    said(["git", "-C", origin, "init", "-q", "--bare"])
+    said(["git", "-C", world.root, "remote", "add", "origin", origin])
+    said(["git", "-C", world.root, "push", "-q", "origin", "HEAD:refs/heads/main"])
+    said(["git", "-C", world.root, "branch", "--set-upstream-to=origin/main"])
+    writeFileSync(join(world.root, "later.txt"), "later", "utf8")
+    said(["git", "-C", world.root, "add", "-A"])
+    committed(world.root, "what origin does not carry")
+    const sha = said(["git", "-C", world.root, "rev-parse", "HEAD"]).trim()
+    rmSync(origin, { recursive: true, force: true })
     const answer = await putUpWebApp("one-web", given(world.root), true)
     expect(answer.code).toBe(OPERATIONAL)
     expect(answer.refusals[0]).toContain(sha)
-    // MIGRATION ONLY, added 2026-09-03. This read
-    // `expect(answer.refusals[0]).toContain(\`git push origin ${sha}:main\`)`, which held the
-    // refusal to handing out the push akasha-migration constraint 16 forbids. Put it back and
-    // delete these three when the migration is done.
-    expect(answer.refusals[0]).not.toContain(`git push origin ${sha}:main`)
-    expect(answer.refusals[0]).toContain("akasha migration forbids pushing to the remote")
-    expect(answer.refusals[0]).toContain("nothing to work around")
+    expect(answer.refusals.join(" ")).not.toContain("migration")
   } finally {
     rmSync(origin, { recursive: true, force: true })
     world.sweep()

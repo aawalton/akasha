@@ -39,7 +39,7 @@ export const deployWebPuttingUp = {
     },
     {
       invariantKind: "departure",
-      statement: "A commit origin main does not carry refuses the call.",
+      statement: "A commit origin main does not carry is pushed there before anything is built.",
     },
     {
       invariantKind: "departure",
@@ -47,11 +47,31 @@ export const deployWebPuttingUp = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names the commit and the push that would land the commit.",
+      statement: "The push carries the branch this checkout is on rather than the commit alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A push that fails refuses the call and names the commit origin main still wants.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A push leaving the commit uncarried refuses the call rather than building on.",
     },
     {
       invariantKind: "departure",
       statement: "A build already made from that commit is made again by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A build is made before a manifest is applied.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A pod starts on a build kept beside the package that pod runs from.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A manifest moving that package rolls out a pod holding no build to start on.",
     },
     {
       invariantKind: "departure",

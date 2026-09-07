@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import { pushBranch } from "@akasha/git/git-pushing"
 import {
   alreadyBuilt,
   buildInPod,
@@ -71,16 +72,27 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
     `source\t${sha}\t${carried.carried ? "origin carries it" : "origin does not carry it"}`
   )
   if (!carried.carried) {
-    return {
-      report,
-      refusals: [
-        // MIGRATION ONLY, added 2026-09-03. This remedy used to read
-        // "so run `git push origin ${sha}:main` and deploy again", and an agent followed it:
-        // five rounds of push-then-deploy carried 5,848 commits to origin against
-        // akasha-migration constraint 16. Put the old remedy back when the migration is done.
-        `origin main does not carry ${sha}, and a pod serves what origin carries, so this web app cannot be put up. The akasha migration forbids pushing to the remote — its sixteenth constraint is that commits stay local — so the push that would close this gap is refused too. Nothing is broken and there is nothing to work around: report the deploy you could not make and carry on.`,
-      ],
-      code: OPERATIONAL,
+    const pushed = pushBranch(given.root)
+    report.push(`push\t${pushed.line}`)
+    if (pushed.failed) {
+      return {
+        report,
+        refusals: [
+          `origin main does not carry ${sha}, and a pod serves what origin carries, so this web app cannot be put up until that push lands`,
+        ],
+        code: OPERATIONAL,
+      }
+    }
+    const now = carriedByOrigin(given.root, sha)
+    if ("why" in now) return { report, refusals: [now.why], code: OPERATIONAL }
+    if (!now.carried) {
+      return {
+        report,
+        refusals: [
+          `origin main does not carry ${sha} even after the push, so this web app cannot be put up`,
+        ],
+        code: OPERATIONAL,
+      }
     }
   }
 
@@ -138,9 +150,6 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
     return { report, refusals: [], code: 0 }
   }
 
-  // THE BUILD IS MADE BEFORE THE MANIFEST IS APPLIED. A pod starts on a build kept beside the
-  // package that pod runs from, so a manifest moving that package rolls out a pod with no build to
-  // start on, and the apply waits on a rollout only this build could have finished.
   if (target !== null && !isBuilt) {
     const built = buildInPod(target, sha, resolved, !differs && up)
     for (const one of built.ran) {
