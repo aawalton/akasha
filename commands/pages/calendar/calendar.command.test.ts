@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../calling/calling.module.code.ts"
-import { refusingWith } from "../../calling/calling.module.test-fixtures.ts"
+import type { Given } from "../../../command-system/calling/calling.module.code.ts"
+import { refusingWith } from "../../../command-system/calling/calling.module.test-fixtures.ts"
 import { calendar, readIn } from "./calendar.command.code.ts"
 
 function given(): Given {

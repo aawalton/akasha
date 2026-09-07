@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../calling/calling.module.code.ts"
-import { refusingWith } from "../../calling/calling.module.test-fixtures.ts"
+import type { Given } from "../../../command-system/calling/calling.module.code.ts"
+import { refusingWith } from "../../../command-system/calling/calling.module.test-fixtures.ts"
 import { folderOf, icloud, readIn } from "./icloud.command.code.ts"
 
 const ALBUM = "https://share.icloud.com/photos/0ABCdef"
