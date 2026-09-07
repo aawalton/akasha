@@ -1,30 +1,34 @@
 writerOwesReading: false
 diff --git a/commands/pages/change/change.command.code.ts b/commands/pages/change/change.command.code.ts
-index 52fdfcd1a53297e386129f2c83ddb9b69b870a80..431e1220a982104cbfecab9e422b6c605f0d36ab 100644
+index 431e1220a982104cbfecab9e422b6c605f0d36ab..a9d1e1cc7309e3c1bbd2adfe3d2262a32b444599 100644
 --- a/commands/pages/change/change.command.code.ts
 +++ b/commands/pages/change/change.command.code.ts
-@@ -239,9 +239,9 @@ export function stamped(said: Said, owed: boolean, owing: boolean): Said {
-   }
- }
+@@ -75,14 +75,7 @@ const APPLY = "apply"
  
--function typeOf(world: World, slug: string): string {
-+function typeOf(world: World, slug: string): string | null {
-   for (const one of COMMAND_TYPES) if (world.index.pageAt(one, slug) !== null) return one
--  return CHANGE_COMMAND
-+  return null
- }
+ const NO_MESSAGE = "`apply` takes the commit message, and the message given is empty"
  
- export async function appending(
-@@ -348,6 +348,12 @@ export async function changing(
-   const asked = applyIn(given)
-   if (typeof asked === "string") return mistaking([asked])
-   const type = typeOf(world, slug)
-+  if (type === null) {
-+    return mistaking([
-+      `\`${slug}\` names no change, and this runs one of ${runsSaid(world)}`,
-+      DROP_SAID,
-+    ])
-+  }
-   const loaded = await loading(world, `${type}/${slug}`)
-   if (typeof loaded === "string") return mistaking([loaded, DROP_SAID])
-   const held: Loaded = loaded
+-const CHANGE_COMMAND = "change-command"
+-
+-const COMMAND_TYPES: readonly string[] = [
+-  CHANGE_COMMAND,
+-  "change-checked",
+-  "change-authored",
+-  "change-restated",
+-]
++const COMMAND_TYPES: readonly string[] = ["change-checked", "change-authored", "change-restated"]
+ 
+ const DROP = "drop"
+ 
+diff --git a/commands/pages/change/change.command.ts b/commands/pages/change/change.command.ts
+index 63c3980d8c1633a063e017f896afc7374e6de73a..4acd978d60af9471ac82834bb017325878dcd096 100644
+--- a/commands/pages/change/change.command.ts
++++ b/commands/pages/change/change.command.ts
+@@ -53,7 +53,7 @@ export const change = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A word reaching no change is refused by the address that reached nothing.",
++      statement: "A word naming no change is refused by that word rather than by an address.",
+     },
+     {
+       invariantKind: "departure",
