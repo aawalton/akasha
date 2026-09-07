@@ -32,7 +32,7 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "An edit states the body that edit was worked out from.",
+      statement: "An edit holding a body each side states the body that edit was worked out from.",
     },
     {
       invariantKind: "departure",
@@ -59,8 +59,76 @@ export const changeAnswer = {
       statement: "One refusal refuses the whole answer.",
     },
     {
+      invariantKind: "departure",
+      statement: "An edit holds only what making that edit takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An add holds a path and the content that path is to hold.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A replace holds a path and the passage each side.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A remove holds a path alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move holds the path moved from and the path moved to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A whole body written over another is a replace holding the whole body each side.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The body such an edit is worked out from is read off the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such an edit is widened against the bodies the earlier edits left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path holding no characters holds no body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An add onto a path holding a body is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move onto a path holding a body is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A replace naming a passage its path holds twice is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A replace naming a passage of no characters is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edit leaving the body unchanged narrows to no edit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move whose body changed narrows to a move and a replace.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move stating no body narrows to a remove of the path moved from.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the disk or writes to the disk.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An answer holds edits of the four kinds alone.",
     },
   ],
 } as const satisfies Module
