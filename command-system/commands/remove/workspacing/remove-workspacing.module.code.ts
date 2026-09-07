@@ -47,6 +47,9 @@ export function listEntrySpan(text: string, node: ts.Node): Span {
     if (!blank(here)) break
     at = at + 1
   }
+  let back = start - 1
+  while (back >= 0 && blank(text[back])) back = back - 1
+  if (back >= 0 && text[back] === ",") start = back
   return { start, end }
 }
 
