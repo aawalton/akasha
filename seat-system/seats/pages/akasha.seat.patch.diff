@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/akasha-folder-shape.initiative.ts b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
+index 54fb88d17bfdfe10201824a10ddd130df05be0b0..b4fad869e2f0c1ea9b02b0adf07a563cb91cb7c5 100644
+--- a/domains/initiatives/pages/akasha-folder-shape.initiative.ts
++++ b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
+@@ -15,7 +15,7 @@ export const akashaFolderShape = {
+     {
+       statement: "A page unique only within a scope declares `uniqueScope`.",
+       workingMemory:
+-        "`unique-scope` is a live relation property carrying all four constraints as invariants, and the schema index files it, but no index line carries a `uniqueScope` value yet. `Schema` is declared three times — in `index-entries`, in `index-reading` and in the writer `index-schema.index.code.ts` — over one file the writer never writes without a slug, so `index-reading`'s nullable `slug` and `propertySlug` type a case Trust The Index bars. One `Schema` in `index-shape` gains the field once.",
++        '`Schema` is one shape in `index-shape` now, read by the entries reader, the reading reader and the writer, and it carries `uniqueScope`, which the writer files. An absent slug reads as the empty string rather than as nothing, so a reader dropping a stub line drops on `""`. `Identifier` and `identifyingFrom` still carry `key` and `reach` alone, and `filedIn` composes no scope, so nothing reads the field a declaration states yet.',
+     },
+     {
+       statement: "The identity index files each page under the level its reach names.",
