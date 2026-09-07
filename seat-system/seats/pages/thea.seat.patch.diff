@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.code.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.code.ts
+index e3f6cfa2b65c6ab6ff2b546a9eabc783b6bb1d50..87daf1b2789b67c5d8822ad0ecb5e950de91bf63 100644
+--- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.code.ts
++++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.code.ts
+@@ -123,7 +123,7 @@ function reachIn(one: Declared): string {
+   return one.unique ?? NO_REACH
+ }
+ 
+-function widthOf(one: Declared): number {
++export function widthOf(one: Declared): number {
+   const at = one.unique === null ? -1 : REACHES.indexOf(one.unique)
+   return at === -1 ? REACHES.length : at
+ }
