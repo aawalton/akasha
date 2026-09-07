@@ -13,7 +13,7 @@ const ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
 
 const PAGE = { id: ID, pageTypeSlug: "domain", slug: "held" } as Value
 
-const RUNS = "change-mechanical/remove-property-value"
+const RUNS = "change-mechanical-data/remove-property-value"
 
 function worldWith(page: Value | null): World {
   const known = knownOf({})

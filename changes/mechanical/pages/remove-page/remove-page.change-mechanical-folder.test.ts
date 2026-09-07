@@ -33,7 +33,7 @@ import {
 import { runChange as removeCodeFile } from "../remove-code-file/remove-code-file.change-mechanical-file.code.ts"
 import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange as removePageFile } from "../remove-page-file/remove-page-file.change-mechanical-file.code.ts"
-import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
+import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical-data.code.ts"
 import { parentsOf, removePage } from "./remove-page.change-mechanical-folder.code.ts"
 
 type Unnaming = { at: string; key: string; value: string }
@@ -48,7 +48,7 @@ const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file/remove-file") {
     return Promise.resolve(removeFile(given as { at: string }, world.textOf))
   }
-  if (at === "change-mechanical/remove-property-value") {
+  if (at === "change-mechanical-data/remove-property-value") {
     return Promise.resolve(removePropertyValue(world, given as Unnaming))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))

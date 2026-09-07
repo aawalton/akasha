@@ -15,7 +15,7 @@ const PACKAGE = "01a07932-2568-72a6-8b8e-314ac44c417d"
 
 const ADDS = "change-mechanical-data/add-property-value"
 
-const REMOVES = "change-mechanical/remove-property-value"
+const REMOVES = "change-mechanical-data/remove-property-value"
 
 const HELD = "imessage/imessage.workspace-package.ts"
 

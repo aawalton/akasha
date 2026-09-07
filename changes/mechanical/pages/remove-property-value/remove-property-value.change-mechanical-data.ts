@@ -1,8 +1,8 @@
-import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+import type { ChangeMechanicalData } from "../../data/change-mechanical-data.page-type.ts"
 
 export const removePropertyValue = {
   id: "01a07758-01be-7649-a91a-f8952f0b468e",
-  pageTypeSlug: "change-mechanical",
+  pageTypeSlug: "change-mechanical-data",
   slug: "remove-property-value",
   changeModeSlug: "change-mode-remove",
   definition: "one value taken out of one page property in a page's body",
@@ -49,4 +49,4 @@ export const removePropertyValue = {
       statement: "Nothing here reads the index.",
     },
   ],
-} as const satisfies ChangeMechanical
+} as const satisfies ChangeMechanicalData

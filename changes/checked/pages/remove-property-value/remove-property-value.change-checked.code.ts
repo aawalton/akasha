@@ -3,7 +3,7 @@ import type { Answer } from "../../../modules/change-answer/change-answer.module
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { readFor } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
-const REMOVE_PROPERTY_VALUE = "change-mechanical/remove-property-value"
+const REMOVE_PROPERTY_VALUE = "change-mechanical-data/remove-property-value"
 
 const AT = "at"
 
