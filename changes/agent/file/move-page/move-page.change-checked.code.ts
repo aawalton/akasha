@@ -1,11 +1,12 @@
 import { dirname, join, relative } from "node:path"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
-  answered,
   missing,
+  narrowed,
   refusing,
+  stating,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
+import type { Said, Stated } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
@@ -41,7 +42,7 @@ function movedInto(world: World, at: string, to: string, beside: readonly string
   return { moved: said }
 }
 
-export async function movePage(world: World, given: MovePageAsked): Promise<Answer> {
+export async function movePage(world: World, given: MovePageAsked): Promise<Said> {
   const value = pageIn(world, given.at)
   if (value === null) return refusing(`\`${given.at}\` names no page, so no page is carried`)
   let beside: readonly string[]
@@ -57,32 +58,31 @@ export async function movePage(world: World, given: MovePageAsked): Promise<Answ
   const reading = importingOf(world.index, moved)
   if ("unread" in reading) return refusing(reading.unread)
   const carried = Object.fromEntries(moved)
-  const edits: Edit[] = []
+  const edits: Stated[] = []
   let seen = world
   for (const [one, next] of moved) {
     if (seen.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
     const answer = await reach(seen, CHANGE_IMPORTS, { was: one, now: next, moved: carried })
     if (answer.said.refused !== null) return answer.said
-    edits.push(...answer.said.edits)
+    for (const edit of answer.said.edits) edits.push(...narrowed(edit))
     seen = answer.world
   }
   for (const path of reading.importers) {
     if (moved.has(path)) continue
-    const held = seen.textOf(path)
-    if (held === null) return refusing(`\`${path}\` names a path that moved and could not be read`)
+    if (seen.textOf(path) === null) {
+      return refusing(`\`${path}\` names a path that moved and could not be read`)
+    }
     const answer = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved: carried })
     if (answer.said.refused !== null) return answer.said
-    for (const one of answer.said.edits) {
-      if (one.body !== held) edits.push(one)
-    }
+    for (const edit of answer.said.edits) edits.push(...narrowed(edit))
     seen = answer.world
   }
-  return answered(edits)
+  return stating(edits)
 }
 
 export type Asked = Readonly<Record<string, string>>
 
-export async function runChange(world: World, given: Asked): Promise<Answer> {
+export async function runChange(world: World, given: Asked): Promise<Said> {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
   const to = given[TO]

@@ -8,9 +8,10 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { movePage } from "./move-page.change-checked.code.ts"
+import { type MovePageAsked, movePage } from "./move-page.change-checked.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -29,8 +30,12 @@ function worldIn(root: string): World {
   })
 }
 
+async function answering(world: World, given: MovePageAsked): Promise<Answer> {
+  return widened(await movePage(world, given), world.textOf)
+}
+
 test("a page carried into another folder carries the files beside that page", async () => {
-  const said = await movePage(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
+  const said = await answering(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
   const paths = said.edits.map((one) => one.path)
 
   expect(said.refused).toBeNull()
@@ -39,14 +44,23 @@ test("a page carried into another folder carries the files beside that page", as
 })
 
 test("every path that moved says the path the move came from", async () => {
-  const said = await movePage(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
+  const said = await answering(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
   const came = said.edits.map((one) => one.from).filter((one) => one !== undefined)
 
   expect([...came].sort()).toEqual([HELD_CODE, HELD_PAGE])
 })
 
-test("a body naming a path that moved is repointed in the same answer", async () => {
+test("a file carried with its body unchanged is stated as a move holding no body", async () => {
   const said = await movePage(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
+
+  expect(said.edits.filter((one) => one.kind === "move")).toEqual([
+    { kind: "move", pathFrom: HELD_PAGE, pathTo: MOVED_PAGE },
+    { kind: "move", pathFrom: HELD_CODE, pathTo: MOVED_CODE },
+  ])
+})
+
+test("a body naming a path that moved is repointed in the same answer", async () => {
+  const said = await answering(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
   const one = said.edits.find((edit) => edit.path === NAMER_CODE)
 
   expect(one?.body ?? "").toContain("../three/held.module.code.ts")
