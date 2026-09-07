@@ -36,7 +36,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "The patch a landing works out is held by no page property.",
       workingMemory:
-        "`agent.page-type.ts` declares `file-property/patch` and `file-property/edits`, defaulting to `diff` and `jsonl`, and `patch-keeping` still defines itself as a file beside the page across its definition and all 8 invariants. Both stores already moved to `refs/akasha/patch`, `refs/akasha/edits` and `refs/akasha/edits-handed`, so each property names a file that is no longer the store. Five `.patch.diff` files remain tracked beside pages, 412 KB, last written 2026-09-06.",
+        '`agent.page-type.ts` declares `file-property/patch` and `file-property/edits`, defaulting to `diff` and `jsonl`. The edits moved: `edits-keeping` reads `refs/akasha/edits`, no `.edits.jsonl` is on disk, and `edits.file-property.ts` is stale now. The patch has not: `patch-keeping` still calls `besideAt(page, "patch", "diff")`, 10 tests assert that file, and `refs/akasha/patch` holds trees named for the file rather than replacing it. Five patch files sit beside seat pages.',
     },
     {
       statement: "Every property a command's page type declares is read.",
