@@ -8,7 +8,7 @@ import { landing } from "../landing/landing.module.code.ts"
 import { A, ADMITS, bytes, MODULE_AT, TYPE } from "../landing/landing.module.test-fixtures.ts"
 import { blobIdOf, type Reading } from "../reading/reading.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { movedOnDisk, reachedSince } from "./change-freshness.module.code.ts"
+import { commitNamed, movedOnDisk, reachedSince, unfresh } from "./change-freshness.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -192,6 +192,32 @@ test("a commit reaching `akasha/` while the change was judged refuses nothing", 
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, AT), "utf8")).toBe("written over")
   expect(readFileSync(join(root, "akasha/meanwhile.txt"), "utf8")).toBe("landed inside")
+})
+
+test("a name git resolves to one commit is answered as that commit", () => {
+  const root = repoWith(PAGES)
+  const head = headOf(root)
+  expect(commitNamed(root, "HEAD")).toBe(head)
+  expect(commitNamed(root, head)).toBe(head)
+})
+
+test("a name resolving to no commit is answered as nothing", () => {
+  const root = repoWith(PAGES)
+  expect(commitNamed(root, "no-such-ref")).toBe(null)
+})
+
+test("a body on disk that is not the body read is answered as moved, with the tail last", () => {
+  const root = repoWith(PAGES)
+  const held = readA()
+  writeFileSync(join(root, AT), "moved")
+  const said = unfresh(root, null, headOf(root), [AT], [held], "tail")
+  expect(said?.[0]).toContain(MOVED)
+  expect(said?.at(-1)).toBe("tail")
+})
+
+test("a body on disk that is the body read is answered as nothing", () => {
+  const root = repoWith(PAGES)
+  expect(unfresh(root, null, headOf(root), [AT], [readA()], "tail")).toBe(null)
 })
 
 test("a commit reaching nothing under `akasha/` while the change was judged refuses nothing", async () => {

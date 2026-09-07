@@ -33,6 +33,14 @@ export const changeFreshness = {
     },
     {
       invariantKind: "departure",
+      statement: "The commit a change states is taken by any name git resolves to one commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path read against one commit and changed by another is answered as moved.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A commit reaching nothing this repository holds can change no verdict.",
     },
     {

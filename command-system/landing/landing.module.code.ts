@@ -5,7 +5,7 @@ import { textIn, textOf } from "@akasha/code/body-text"
 import { gitIgnoring } from "@akasha/git/git-pathspec"
 import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages/change"
-import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts"
+import { commitNamed, unfresh } from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
 import type { Bodies, Draft, Running } from "../drafting/drafting.module.code.ts"
@@ -252,59 +252,6 @@ function indexed(
   return held.settle()
 }
 
-function sameBody(one: Uint8Array | null, two: Uint8Array | null): boolean {
-  if (one === null || two === null) return one === two
-  return Buffer.from(one).equals(Buffer.from(two))
-}
-
-function movedBetween(
-  root: string,
-  read: string,
-  base: string,
-  changed: readonly FileEdit[]
-): readonly string[] {
-  const moved: string[] = []
-  for (const one of changed) {
-    if (!sameBody(bodyAt(root, read, one.path), bodyAt(root, base, one.path))) moved.push(one.path)
-  }
-  return moved.sort()
-}
-
-function unfresh(
-  root: string,
-  named: string | null,
-  base: string,
-  changes: readonly FileEdit[],
-  asRead: readonly AsRead[],
-  tail: string
-): Refused | null {
-  const moved = named === null || named === base ? [] : movedBetween(root, named, base, changes)
-  if (named !== null && moved.length > 0) {
-    return {
-      refusals: [
-        ...moved.map(
-          (one) =>
-            `${one} — read against \`${named}\`, and what is at \`${base}\` is not what was read, so writing it would put back what moved in between`
-        ),
-        tail,
-      ],
-    }
-  }
-  const stirred = movedOnDisk(root, asRead)
-  if (stirred.length > 0) {
-    return {
-      refusals: [
-        ...stirred.map(
-          (one) =>
-            `${one} — what is on disk is not the body you read, so writing it would put back what moved in between`
-        ),
-        tail,
-      ],
-    }
-  }
-  return null
-}
-
 function draftsOf(root: string, base: string, changes: readonly FileEdit[]): readonly Draft[] {
   const before = beforeOf(root, base, changes)
   return changes.map((one) => ({
@@ -327,8 +274,9 @@ function draftedBy(
   running: Running
 ): Drafted | Refused {
   const base = baseOf(root)
-  const stale = unfresh(root, named, base, changes, asRead, AGAIN_DRAFTED)
-  if (stale !== null) return stale
+  const changing = changes.map((one) => one.path)
+  const stale = unfresh(root, named, base, changing, asRead, AGAIN_DRAFTED)
+  if (stale !== null) return { refusals: stale }
   const said = draftedOnto(root, page, drafts, running)
   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
   return {
@@ -338,21 +286,6 @@ function draftedBy(
     clashed: said.clashed,
     judged: paths,
     refused,
-  }
-}
-
-function commitNamed(root: string, named: string): string | null {
-  try {
-    const said = gitIn(root, [
-      "rev-parse",
-      "--verify",
-      "--quiet",
-      "--end-of-options",
-      `${named}^{commit}`,
-    ]).trim()
-    return said === "" ? null : said
-  } catch {
-    return null
   }
 }
 
@@ -443,8 +376,9 @@ export async function landing(
   }
   return holding(root, () => {
     const base = baseOf(root)
-    const stale = unfresh(root, named, base, changes, asRead, AGAIN_WRITTEN)
-    if (stale !== null) return stale
+    const paths = changes.map((one) => one.path)
+    const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN)
+    if (stale !== null) return { refusals: stale }
     const split = heldBack(root, changes)
     const before = beforeOf(root, base, split.committing)
     const keeping = indexingLoaded()
