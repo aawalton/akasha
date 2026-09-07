@@ -1,25 +1,43 @@
 diff --git a/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts b/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts
-index ebd31ca47b76d4668a3f1987b3a737bef87dfd4e..e64aa0aee768765462d1b37c2f17f25dcf59001e 100644
+index ebd31ca47b76d4668a3f1987b3a737bef87dfd4e..0fd7fd469a09988d92f51f402f07ba6e4bcdd003 100644
 --- a/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts
 +++ b/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts
-@@ -1,4 +1,5 @@
+@@ -1,14 +1,11 @@
  import { expect, test } from "bun:test"
 +import { reading } from "@akasha/pages/page-value/testing"
  import { moveFile } from "./move-file.change-mechanical.code.ts"
  
  const FROM = "akasha/one.held.ts"
+ 
+ const TO = "akasha/two.held.ts"
+ 
+-function reading(held: Record<string, string>): (path: string) => string | null {
+-  return (path) => held[path] ?? null
+-}
+-
+ test("a path the tree holds a body for is answered as one edit carrying it to another path", () => {
+   const said = moveFile({ from: FROM, to: TO }, reading({ [FROM]: "alpha\n" }))
+ 
 diff --git a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts b/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
-index b8469c7964aaef9e62d7b9bca92ced693fa030ed..ceb7bd23b81722d8f04776024e068a58a823b16a 100644
+index b8469c7964aaef9e62d7b9bca92ced693fa030ed..94000df2813afb2c37650bdd47410f841756766c 100644
 --- a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
 +++ b/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
-@@ -1,4 +1,5 @@
+@@ -1,12 +1,9 @@
  import { expect, test } from "bun:test"
 +import { reading } from "@akasha/pages/page-value/testing"
  import { removeFile } from "./remove-file.change-mechanical.code.ts"
  
  const AT = "akasha/one.held.ts"
+ 
+-function reading(held: Record<string, string>): (path: string) => string | null {
+-  return (path) => held[path] ?? null
+-}
+-
+ test("a path the tree holds a body for is answered as one edit taking that path away", () => {
+   const said = removeFile({ at: AT }, reading({ [AT]: "alpha\n" }))
+ 
 diff --git a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts
-index 9a67381d89d50f4085426da461a2c4d1489d9e8b..725c81eb675d98b3780801386e8324db140578ce 100644
+index 9a67381d89d50f4085426da461a2c4d1489d9e8b..bf4d456c287d04300cb79f878de4abc642333a5a 100644
 --- a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts
 +++ b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts
 @@ -1,4 +1,5 @@
@@ -28,8 +46,19 @@ index 9a67381d89d50f4085426da461a2c4d1489d9e8b..725c81eb675d98b3780801386e8324db
  import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
  import {
    landsOn,
+@@ -34,10 +35,6 @@ const BETA = "seat-system/beta/beta.module.code.ts"
+ 
+ const GAMMA = "seat-system/gamma/gamma.module.code.ts"
+ 
+-function reading(held: Record<string, string>): (path: string) => string | null {
+-  return (path) => held[path] ?? null
+-}
+-
+ function saidOf(going: readonly string[], text: string): Answer {
+   return removeManifestWays({ at: AT, going }, reading({ [AT]: text }))
+ }
 diff --git a/pages/indexes/package-reaching/package-reaching.module.test.ts b/pages/indexes/package-reaching/package-reaching.module.test.ts
-index 9103aceb68bef81ba99a195245da84aa3a492b25..c1f1d6b35c021221d22882d47f73fff30d82ed96 100644
+index 9103aceb68bef81ba99a195245da84aa3a492b25..c8236da80754f82bb6b14e53a04b15f3c966cc75 100644
 --- a/pages/indexes/package-reaching/package-reaching.module.test.ts
 +++ b/pages/indexes/package-reaching/package-reaching.module.test.ts
 @@ -1,6 +1,7 @@
@@ -40,6 +69,19 @@ index 9103aceb68bef81ba99a195245da84aa3a492b25..c1f1d6b35c021221d22882d47f73fff3
  import { pathFiled, schemaFiled } from "../reading/index-reading.module.test-fixtures.ts"
  import {
    bodiesAt,
+@@ -29,11 +30,7 @@ const PATHS = [
+   "akasha/two/package.json",
+ ]
+ 
+-function bodyFor(held: Record<string, string>): (path: string) => string | null {
+-  return (path) => held[path] ?? null
+-}
+-
+-const BODIES = bodyFor({ "akasha/one/package.json": ONE, "akasha/two/package.json": TWO })
++const BODIES = reading({ "akasha/one/package.json": ONE, "akasha/two/package.json": TWO })
+ 
+ function worldAt(): string {
+   const root = scratch.rootFor(PREFIX)
 diff --git a/pages/package.json b/pages/package.json
 index 9dfbc81e1d8b11465531ef565e955a0295625596..fd6cc7603197eb88a1c1f6a133fccab4509fb946 100644
 --- a/pages/package.json
