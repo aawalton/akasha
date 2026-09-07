@@ -1,4 +1,18 @@
-readersOweReading: false
+readersOweReading: false temper/temper-lib-alchemy-station/alchemy-station/alchemy-station.module.ts
+diff --git a/bun.lock b/bun.lock
+index 85fc1888637ef68f7b50dac643f5f08bdd6a2657..ee690fc43f5645008a3851a3960f33884837a471 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -2355,6 +2355,9 @@
+     },
+     "temper/temper-lib-alchemy-station": {
+       "name": "@akasha/temper-lib-alchemy-station",
++      "dependencies": {
++        "@akasha/code-system": "workspace:@akasha/code@*",
++      },
+     },
+     "temper/temper-lib-async": {
+       "name": "@akasha/temper-lib-async",
 diff --git a/temper/temper-lib-alchemy-station/alchemy-station/alchemy-station.module.ts b/temper/temper-lib-alchemy-station/alchemy-station/alchemy-station.module.ts
 index f43b71550ea985e2d7e6f481682effd416da41da..50bc053b865955c1dbcf81139dd886ce804b5064 100644
 --- a/temper/temper-lib-alchemy-station/alchemy-station/alchemy-station.module.ts
@@ -12,3 +26,16 @@ index f43b71550ea985e2d7e6f481682effd416da41da..50bc053b865955c1dbcf81139dd886ce
      },
      {
        invariantKind: "departure",
+diff --git a/temper/temper-lib-alchemy-station/package.json b/temper/temper-lib-alchemy-station/package.json
+index 141f45209335b96b0ea7d8192f80b1c6204fae0f..3a2c8706a640a02d05c4af2043b338a737837ca0 100644
+--- a/temper/temper-lib-alchemy-station/package.json
++++ b/temper/temper-lib-alchemy-station/package.json
+@@ -7,5 +7,8 @@
+     "./alchemy-station-types": "./alchemy-station-types/alchemy-station-types.module.code.ts",
+     "./alchemy-station-declarations": "./alchemy-station-declarations/alchemy-station-declarations.type-declaration.d.ts",
+     "./alchemy-station-entry": "./alchemy-station-entry/alchemy-station-entry.module.code.ts"
++  },
++  "dependencies": {
++    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
