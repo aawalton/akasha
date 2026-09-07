@@ -1,0 +1,12 @@
+diff --git a/alan/atlas-web/alan-atlas-web.router-app.ts b/alan/atlas-web/alan-atlas-web.router-app.ts
+index 54f9eca9bf3942fcc76f7785739ab79ac47fa8cd..bde5fa10e122b745f341268505825b63579ad371 100644
+--- a/alan/atlas-web/alan-atlas-web.router-app.ts
++++ b/alan/atlas-web/alan-atlas-web.router-app.ts
+@@ -12,6 +12,7 @@ export const alanAtlasWeb = {
+   serverEntry: "tsx",
+   routerConfig: "ts",
+   compileConfig: "json",
++  viteConfig: "ts",
+   partSlugs: [
+     "manifest/alanwalton-atlas",
+     "stylesheet/alan-atlas-web-look",
