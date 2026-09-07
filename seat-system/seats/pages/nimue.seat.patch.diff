@@ -1,0 +1,242 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/authored/pages/add-file/add-file.change-authored.code.ts b/changes/authored/pages/add-file/add-file.change-authored.code.ts
+index 7a0c06d07ad3c6f8e0496f0c7cd600d519204f86..02f47f857b9be37548a39f12f5b779bb4c83bda5 100644
+--- a/changes/authored/pages/add-file/add-file.change-authored.code.ts
++++ b/changes/authored/pages/add-file/add-file.change-authored.code.ts
+@@ -1,24 +1,23 @@
+-import { addFile } from "../../../mechanical/pages/add-file/add-file.change-mechanical.code.ts"
+ import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ const AT = "at"
+ 
+ const BODY = "body"
+ 
++const ADD_FILE = "change-mechanical/add-file"
++
+ export type Asked = Readonly<Record<string, string>>
+ 
+-// A command line hands the arguments in as text worked out while the command runs, so the shape is
+-// read here rather than trusted, and a shape this change cannot use is refused by name.
+-export function addFileCommand(world: World, given: Asked): Answer {
++export async function addFileCommand(world: World, given: Asked): Promise<Answer> {
+   const at = given[AT]
+   if (at === undefined) return refusing(missing(AT))
+   const body = given[BODY]
+   if (body === undefined) return refusing(missing(BODY))
+-  return addFile(world, { at, body })
++  return await reach(world, ADD_FILE, { at, body })
+ }
+ 
+-export function runChange(world: World, given: Asked): Answer {
+-  return addFileCommand(world, given)
++export async function runChange(world: World, given: Asked): Promise<Answer> {
++  return await addFileCommand(world, given)
+ }
+diff --git a/changes/authored/pages/add-file/add-file.change-authored.test.ts b/changes/authored/pages/add-file/add-file.change-authored.test.ts
+index f51d5e71118b51eb853dc185993b77b2851bfe6a..bb23dc12d30aac7909cc89e0d493698f2ee3589a 100644
+--- a/changes/authored/pages/add-file/add-file.change-authored.test.ts
++++ b/changes/authored/pages/add-file/add-file.change-authored.test.ts
+@@ -1,38 +1,66 @@
+ import { expect, test } from "bun:test"
++import { addFile } from "../../../mechanical/pages/add-file/add-file.change-mechanical.code.ts"
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import {
+   NOTHING_OVER,
++  type Reaching,
+   type World,
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { addFileCommand } from "./add-file.change-authored.code.ts"
+ 
+ const AT = "akasha/one.held.ts"
+ 
++const RUNS: Reaching = (world, at, given) => {
++  if (at === "change-mechanical/add-file") {
++    return Promise.resolve(addFile(world, given as { at: string; body: string }))
++  }
++  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
++}
++
+ function worldOf(held: Readonly<Record<string, string>>): World {
+   return {
+     root: "/nowhere",
+     index: {} as World["index"],
+     textOf: (path) => held[path] ?? null,
+     over: NOTHING_OVER,
++    reaching: RUNS,
+   }
+ }
+ 
+-test("the arguments naming a path and a body are answered as one edit", () => {
+-  const said = addFileCommand(worldOf({}), { at: AT, body: "alpha\n" })
++test("the arguments naming a path and a body are answered as one edit", async () => {
++  const said = await addFileCommand(worldOf({}), { at: AT, body: "alpha\n" })
+ 
+   expect(said.refused).toBeNull()
+   expect(said.edits).toEqual([{ path: AT, was: null, body: "alpha\n" }])
+ })
+ 
+-test("arguments holding no path are refused by the name of the argument", () => {
+-  const said = addFileCommand(worldOf({}), { body: "alpha\n" })
++test("arguments holding no path are refused by the name of the argument", async () => {
++  const said = await addFileCommand(worldOf({}), { body: "alpha\n" })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused ?? "").toMatch(/`at`/)
+ })
+ 
+-test("arguments holding no body are refused by the name of the argument", () => {
+-  const said = addFileCommand(worldOf({}), { at: AT })
++test("arguments holding no body are refused by the name of the argument", async () => {
++  const said = await addFileCommand(worldOf({}), { at: AT })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused ?? "").toMatch(/`body`/)
+ })
++
++test("the body this change hands on is reached through the runner the world carries", async () => {
++  let reached = ""
++  const said = await addFileCommand(
++    {
++      ...worldOf({}),
++      reaching: (_world, at) => {
++        reached = at
++        return Promise.resolve(NOTHING_OVER)
++      },
++    },
++    { at: AT, body: "alpha\n" }
++  )
++
++  expect(reached).toBe("change-mechanical/add-file")
++  expect(said.refused).toBeNull()
++})
+diff --git a/changes/authored/pages/change-file/change-file.change-authored.code.ts b/changes/authored/pages/change-file/change-file.change-authored.code.ts
+index c255ba9c0b2184fe545e986e4e5b9c71e823b4df..7c6b27a40ca7486238d18ac01be831ed6b9d5619 100644
+--- a/changes/authored/pages/change-file/change-file.change-authored.code.ts
++++ b/changes/authored/pages/change-file/change-file.change-authored.code.ts
+@@ -1,7 +1,6 @@
+-import { changeFile } from "../../../mechanical/pages/change-file/change-file.change-mechanical.code.ts"
+ import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ const AT = "at"
+ 
+@@ -9,20 +8,20 @@ const OLD = "old"
+ 
+ const NEW = "new"
+ 
++const CHANGE_FILE = "change-mechanical/change-file"
++
+ export type Asked = Readonly<Record<string, string>>
+ 
+-// A command line hands the arguments in as text worked out while the command runs, so the shape is
+-// read here rather than trusted, and a shape this change cannot use is refused by name.
+-export function changeFileCommand(world: World, given: Asked): Answer {
++export async function changeFileCommand(world: World, given: Asked): Promise<Answer> {
+   const at = given[AT]
+   if (at === undefined) return refusing(missing(AT))
+   const old = given[OLD]
+   if (old === undefined) return refusing(missing(OLD))
+   const becomes = given[NEW]
+   if (becomes === undefined) return refusing(missing(NEW))
+-  return changeFile(world, { at, old, new: becomes })
++  return await reach(world, CHANGE_FILE, { at, old, new: becomes })
+ }
+ 
+-export function runChange(world: World, given: Asked): Answer {
+-  return changeFileCommand(world, given)
++export async function runChange(world: World, given: Asked): Promise<Answer> {
++  return await changeFileCommand(world, given)
+ }
+diff --git a/changes/authored/pages/change-file/change-file.change-authored.test.ts b/changes/authored/pages/change-file/change-file.change-authored.test.ts
+index fd0bb46ccb6a12749a22f4528483bd7eab9b04fb..49b3b7a57c7d06fad4636e99052d3ac32585260d 100644
+--- a/changes/authored/pages/change-file/change-file.change-authored.test.ts
++++ b/changes/authored/pages/change-file/change-file.change-authored.test.ts
+@@ -1,23 +1,36 @@
+ import { expect, test } from "bun:test"
++import { changeFile } from "../../../mechanical/pages/change-file/change-file.change-mechanical.code.ts"
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import {
+   NOTHING_OVER,
++  type Reaching,
+   type World,
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { changeFileCommand } from "./change-file.change-authored.code.ts"
+ 
+ const AT = "akasha/one.held.ts"
+ 
++type Passage = { at: string; old: string; new: string }
++
++const RUNS: Reaching = (world, at, given) => {
++  if (at === "change-mechanical/change-file") {
++    return Promise.resolve(changeFile(world, given as Passage))
++  }
++  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
++}
++
+ function worldOf(held: Readonly<Record<string, string>>): World {
+   return {
+     root: "/nowhere",
+     index: {} as World["index"],
+     textOf: (path) => held[path] ?? null,
+     over: NOTHING_OVER,
++    reaching: RUNS,
+   }
+ }
+ 
+-test("the arguments naming a path and two passages are answered as one edit", () => {
+-  const said = changeFileCommand(worldOf({ [AT]: "one two\n" }), {
++test("the arguments naming a path and two passages are answered as one edit", async () => {
++  const said = await changeFileCommand(worldOf({ [AT]: "one two\n" }), {
+     at: AT,
+     old: "two",
+     new: "four",
+@@ -27,20 +40,37 @@ test("the arguments naming a path and two passages are answered as one edit", ()
+   expect(said.edits).toEqual([{ path: AT, was: "one two\n", body: "one four\n" }])
+ })
+ 
+-test("arguments holding no path are refused by the name of the argument", () => {
+-  const said = changeFileCommand(worldOf({}), { old: "two", new: "four" })
++test("arguments holding no path are refused by the name of the argument", async () => {
++  const said = await changeFileCommand(worldOf({}), { old: "two", new: "four" })
+ 
+   expect(said.refused ?? "").toMatch(/`at`/)
+ })
+ 
+-test("arguments holding no passage are refused by the name of the argument", () => {
+-  const said = changeFileCommand(worldOf({}), { at: AT, new: "four" })
++test("arguments holding no passage are refused by the name of the argument", async () => {
++  const said = await changeFileCommand(worldOf({}), { at: AT, new: "four" })
+ 
+   expect(said.refused ?? "").toMatch(/`old`/)
+ })
+ 
+-test("arguments saying nothing the passage becomes are refused by the name of the argument", () => {
+-  const said = changeFileCommand(worldOf({}), { at: AT, old: "two" })
++test("arguments saying nothing the passage becomes are refused by the name of the argument", async () => {
++  const said = await changeFileCommand(worldOf({}), { at: AT, old: "two" })
+ 
+   expect(said.refused ?? "").toMatch(/`new`/)
+ })
++
++test("the passage this change hands on is reached through the runner the world carries", async () => {
++  let reached = ""
++  const said = await changeFileCommand(
++    {
++      ...worldOf({}),
++      reaching: (_world, at) => {
++        reached = at
++        return Promise.resolve(NOTHING_OVER)
++      },
++    },
++    { at: AT, old: "two", new: "four" }
++  )
++
++  expect(reached).toBe("change-mechanical/change-file")
++  expect(said.refused).toBeNull()
++})
