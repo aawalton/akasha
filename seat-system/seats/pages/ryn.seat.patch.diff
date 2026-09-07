@@ -1,0 +1,17 @@
+diff --git a/seat-system/supervising/memory-reaper-plan/memory-reaper-plan.module.ts b/seat-system/supervising/memory-reaper-plan/memory-reaper-plan.module.ts
+index a74b9c1147385582a897ac3f49498b19fae68484..87badd716961bcde9f391bd7e99088cbf0376a34 100644
+--- a/seat-system/supervising/memory-reaper-plan/memory-reaper-plan.module.ts
++++ b/seat-system/supervising/memory-reaper-plan/memory-reaper-plan.module.ts
+@@ -18,7 +18,11 @@ export const memoryReaperPlan = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A tree holding more than one seat is refused, the ceiling answering one seat.",
++      statement: "A tree holding more than one seat is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The ceiling answers one seat.",
+     },
+     {
+       invariantKind: "departure",
