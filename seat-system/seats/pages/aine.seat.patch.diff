@@ -1,3 +1,27 @@
+diff --git a/changes/authored/pages/add-file/add-file.change-authored.code.ts b/changes/authored/pages/add-file/add-file.change-authored.code.ts
+index 3868d71c05cd7922df5f833d6df79896383d9c6d..09f3f14cf98063d75602f388edcb853bbfcf0a30 100644
+--- a/changes/authored/pages/add-file/add-file.change-authored.code.ts
++++ b/changes/authored/pages/add-file/add-file.change-authored.code.ts
+@@ -3,6 +3,7 @@ import { pageNamed } from "@akasha/pages/page-file-name"
+ import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+ import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import type { Changes } from "../../../runners/pages/change-running/change-running.change-runner.addressed.ts"
+ 
+ const AT = "at"
+ 
+diff --git a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
+index 3b584e42bc8395a50073d2ddf7426f5b0b5104eb..c4b016e4fd0b1825aba20c40640439fbb947f163 100644
+--- a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
++++ b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
+@@ -14,6 +14,7 @@ import {
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
+ import { namersIn, pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
++import type { Changes } from "../../../runners/pages/change-running/change-running.change-runner.addressed.ts"
+ 
+ const PART_SLUGS = "part-slugs"
+ 
 diff --git a/changes/modules/change-shadow/change-shadow.module.code.ts b/changes/modules/change-shadow/change-shadow.module.code.ts
 index 4be3c24bd1e40d5cd4340a588a5865b0ac298ae8..0d9838bc00300da661bd1b0527b97f938a1bbb5e 100644
 --- a/changes/modules/change-shadow/change-shadow.module.code.ts
