@@ -1,0 +1,30 @@
+diff --git a/bun.lock b/bun.lock
+index 35ee4535e864b7bed37c41b7568594312e7a8ee9..43950aca6f27ac815a21329165d419515681d034 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -996,8 +996,10 @@
+     "inference/runs": {
+       "name": "@akasha/inference-runs",
+       "dependencies": {
++        "@akasha/code": "workspace:*",
+         "@akasha/errors-core": "workspace:*",
+         "@akasha/object-store": "workspace:*",
++        "@akasha/pages": "workspace:*",
+         "@akasha/pages-access": "workspace:*",
+         "@akasha/pages-url": "workspace:*",
+         "@akasha/utils-narrow": "workspace:*",
+diff --git a/inference/runs/package.json b/inference/runs/package.json
+index 5becb2b433c49afdbac4eb3faf3513d9a886652f..96e052f73b3535ef7319b8a7ad5ff89cedd6d504 100644
+--- a/inference/runs/package.json
++++ b/inference/runs/package.json
+@@ -13,8 +13,10 @@
+     "./persist-media": "./persist-media/persist-media.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/code": "workspace:*",
+     "@akasha/errors-core": "workspace:*",
+     "@akasha/object-store": "workspace:*",
++    "@akasha/pages": "workspace:*",
+     "@akasha/pages-access": "workspace:*",
+     "@akasha/pages-url": "workspace:*",
+     "@akasha/utils-narrow": "workspace:*",
