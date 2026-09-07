@@ -19,7 +19,7 @@ export const audio = {
     },
     {
       invariantKind: "departure",
-      statement: "An audio records where its bytes are, never the bytes.",
+      statement: "An audio records where its bytes are rather than the bytes.",
     },
   ],
 } as const satisfies PageType
