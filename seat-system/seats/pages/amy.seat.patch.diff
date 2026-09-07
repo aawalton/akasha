@@ -84,6 +84,21 @@ index 62ba9cbc382a69bbc890eb5f5bfb572391368e2b..201c2c1859667137d630a43fec72ec93
    visibleProperties: ["due-date"],
    pageSize: 12,
    itemPageSize: 12,
+diff --git a/pages/views/pages/temper-tasks-completed.view.ts b/pages/views/pages/temper-tasks-completed.view.ts
+index 9aaf47bfb539c77662780bb4c2c5caf2a40ca91a..9cf8972977b37c5d9918ff2e0373822f1b485b22 100644
+--- a/pages/views/pages/temper-tasks-completed.view.ts
++++ b/pages/views/pages/temper-tasks-completed.view.ts
+@@ -8,8 +8,8 @@ export const temperTasksCompleted = {
+   navSlug: "temper-tasks",
+   pageType: "temper-task",
+   viewPlace: 3,
+-  narrows: [{ key: "completed-at", comparison: "empty", values: ["false"] }],
+-  viewSorts: [{ key: "updated-at", descending: true }],
++  narrows: [{ key: "last-completed-at", comparison: "at-or-after", values: ["eso-day"] }],
++  viewSorts: [{ key: "last-completed-at", descending: true }],
+   pageSize: 12,
+   itemPageSize: 12,
+   groupPageSize: 6,
 diff --git a/pages/views/pages/temper-tasks-today.view.ts b/pages/views/pages/temper-tasks-today.view.ts
 index e09f8895e07e4de26033c251d8c7bdda8798c6be..2d164933b639b8b89877fff58877fc3ee8b293b2 100644
 --- a/pages/views/pages/temper-tasks-today.view.ts
