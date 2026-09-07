@@ -30,23 +30,32 @@ import {
   filesIn,
   git,
   gitOver,
+  gitWatching,
   ID,
   IGNORED_OUT,
   identityAmong,
-  judgingThat,
   LINE,
+  landedAtHead,
   landedMoving,
+  MORE,
+  MOVED_BIN,
+  MOVED_TO,
+  moved,
   NUL,
   PAGE,
+  PAGE_TO,
   pageLanded,
   pageRepo,
   pagesRepo,
+  pathsSeen,
+  putBackThrows,
   REFUSES,
   repoWith,
   scratch,
   splitKept,
   splitLanded,
   splitThrew,
+  THROWN,
 } from "./landing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -97,20 +106,11 @@ test("a body carrying a raw NUL and a body that is not UTF-8 come back byte for 
 
 test("no git outlives a landing, nor one a check throws through", async () => {
   const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
-  const reading = judgingThat("reading", (change) => {
-    expect(change.after("one.txt")).not.toBeNull()
-    expect(gitOver(root).length).toBe(1)
-    return []
-  })
-  const throwing = judgingThat("throwing", (change) => {
-    expect(change.after("one.txt")).not.toBeNull()
-    expect(gitOver(root).length).toBe(1)
-    throw new Error("thrown for the test")
-  })
+  const { reading, throwing } = gitWatching(root)
   await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", reading)
   expect(gitOver(root)).toEqual([])
   await expect(landing(root, [{ path: "two.txt", body: null }], "held", throwing)).rejects.toThrow(
-    "thrown for the test"
+    THROWN
   )
   expect(gitOver(root)).toEqual([])
   expect(existsSync(join(root, "two.txt"))).toBe(true)
@@ -220,22 +220,7 @@ test("a change asking for what is already there commits nothing", async () => {
 })
 
 test("the checks are shown every path the change touches", async () => {
-  const root = repoWith({ "one.txt": "committed" })
-  const seen: string[] = []
-  const watching = judgingThat("watching", (change) => {
-    seen.push(...change.changed)
-    return []
-  })
-  await landing(
-    root,
-    [
-      { path: "b.txt", body: bytes("one") },
-      { path: "a.txt", body: bytes("two") },
-    ],
-    "held",
-    watching
-  )
-  expect(seen).toEqual(["a.txt", "b.txt"])
+  expect(await pathsSeen(repoWith({ "one.txt": "committed" }))).toEqual(["a.txt", "b.txt"])
 })
 
 test("a change read against a commit that moved a path it carries is refused unwritten", async () => {
@@ -260,17 +245,7 @@ test("a change read against a commit that moved nothing it carries is landed", a
 test("a change read against the commit at HEAD is landed", async () => {
   const root = pagesRepo()
   await landing(root, CARRIED, "held", ADMITS)
-  const said = await landing(
-    root,
-    [
-      { path: "akasha/a.domain.ts", body: bytes(A) },
-      { path: "akasha/b.txt", body: bytes("new") },
-    ],
-    "m",
-    ADMITS,
-    null,
-    baseOf(root)
-  )
+  const said = await landedAtHead(root)
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "akasha/b.txt"), "utf8")).toBe("new")
 })
@@ -298,23 +273,36 @@ test("a change read against a name that names no commit is refused unwritten", a
 test("what was written is put back when the landing throws after writing", async () => {
   const root = pagesRepo()
   fileWhereTheIndexIs(root, "no directory stands here")
-  const b = A.replace('slug: "a"', 'slug: "b"').replace("const a =", "const b =")
-  await expect(
-    landing(
-      root,
-      [
-        { path: "akasha/a.domain.ts", body: bytes("written over") },
-        { path: "akasha/b.domain.ts", body: bytes(b) },
-      ],
-      "m",
-      ADMITS
-    )
-  ).rejects.toThrow()
+  await expect(putBackThrows(root)).rejects.toThrow()
   expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(A)
   expect(existsSync(join(root, "akasha/b.domain.ts"))).toBe(false)
 })
 
-test("a path a change carries moves on disk and goes into no commit", async () => {
+test("a move of a tracked path lands as the rename the commit records", async () => {
+  const said = await moved(MOVED_BIN, MOVED_TO)
+  expect(said.tree).toContain(MOVED_TO)
+  expect(said.tree).not.toContain(MOVED_BIN)
+  expect(said.dirty).toBe("")
+  expect([said.wrote, said.took]).toEqual([[MOVED_TO], [MOVED_BIN]])
+})
+
+test("a move of bytes that are not UTF-8 arrives byte for byte", async () => {
+  expect((await moved(MOVED_BIN, MOVED_TO)).bytes).toEqual(BROKEN)
+})
+
+test("a move files the index at the path it came from and the path it landed at", async () => {
+  const filed = (await moved(PAGE, PAGE_TO)).filed.join("")
+  expect(filed).toContain(PAGE_TO)
+  expect(filed).not.toContain(`"${PAGE}"`)
+})
+
+test("a move whose body also changed lands the rename and the new body", async () => {
+  const said = await moved(PAGE, PAGE_TO, MORE)
+  expect([said.body, said.dirty]).toEqual([MORE, ""])
+  expect(said.tree).not.toContain(PAGE)
+})
+
+test("a path a change carries that no commit holds moves on disk and is committed nowhere", async () => {
   const root = await edged({ "one.txt": "committed" })
   writeFileSync(join(root, "held.uncommitted.ts"), "unsaid")
   const carries = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]

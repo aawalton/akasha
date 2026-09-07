@@ -1,8 +1,10 @@
+import { expect } from "bun:test"
 import { chmodSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { said as gitIn } from "@akasha/git/git-running"
 import { bodyOf, thePage } from "@akasha/indexes/indexing/testing"
+import { everythingFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
@@ -12,7 +14,7 @@ import { bytesOf } from "@akasha/testing-system/bodying"
 import { said as saying } from "@akasha/utils-run/running"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import type { FileCarry, FileEdit, Landed, Refused } from "./landing.module.code.ts"
-import { landing } from "./landing.module.code.ts"
+import { baseOf, landing } from "./landing.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
 
@@ -255,3 +257,110 @@ export const CARRIED: readonly FileEdit[] = [
     return { path: join("akasha", at), body: bytesOf(bodyOf(value)) }
   }),
 ]
+
+export const THROWN = "thrown for the test"
+
+export function gitWatching(root: string): {
+  readonly reading: Judging
+  readonly throwing: Judging
+} {
+  const held = (change: Change): undefined => {
+    expect(change.after("one.txt")).not.toBeNull()
+    expect(gitOver(root).length).toBe(1)
+  }
+  return {
+    reading: judgingThat("reading", (change) => {
+      held(change)
+      return []
+    }),
+    throwing: judgingThat("throwing", (change) => {
+      held(change)
+      throw new Error(THROWN)
+    }),
+  }
+}
+
+export const MOVED_BIN = "akasha/one.bin"
+
+export const MOVED_TO = "akasha/deep/one.bin"
+
+export const PAGE_TO = "akasha/deep/a.domain.ts"
+
+export const MORE = `${A}// moved\n`
+
+export type Moved = {
+  readonly tree: readonly string[]
+  readonly dirty: string
+  readonly wrote: readonly string[]
+  readonly took: readonly string[]
+  readonly filed: readonly string[]
+  readonly bytes: Uint8Array | null
+  readonly body: string | null
+}
+
+export async function moved(from: string, to: string, body: string | null = null): Promise<Moved> {
+  const root = repoWith({ [MOVED_BIN]: BROKEN })
+  const first = await landing(root, CARRIED, "held", ADMITS)
+  if ("refusals" in first) throw new Error(first.refusals.join("; "))
+  const filed = await landing(root, [{ path: PAGE, body: bytesOf(A) }], "held", ADMITS)
+  if ("refusals" in filed) throw new Error(filed.refusals.join("; "))
+  const edits = body === null ? [] : [{ path: to, body: bytesOf(body) }]
+  const said = await landing(root, edits, "moved", ADMITS, null, null, [], [{ from, to }])
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  const at = join(root, to)
+  const there = existsSync(at)
+  return {
+    tree: git(root, ["ls-tree", "-r", "--name-only", "HEAD"]).trim().split("\n"),
+    dirty: git(root, ["status", "--porcelain"]),
+    wrote: said.wrote,
+    took: said.took,
+    filed: everythingFiled(root).filter((one) => one.includes("a.domain.ts")),
+    bytes: there ? new Uint8Array(readFileSync(at)) : null,
+    body: there ? readFileSync(at, "utf8") : null,
+  }
+}
+
+export function putBackThrows(root: string): Promise<Landed | Refused> {
+  const b = A.replace('slug: "a"', 'slug: "b"').replace("const a =", "const b =")
+  return landing(
+    root,
+    [
+      { path: PAGE, body: bytesOf("written over") },
+      { path: "akasha/b.domain.ts", body: bytesOf(b) },
+    ],
+    "m",
+    ADMITS
+  )
+}
+
+export function landedAtHead(root: string): Promise<Landed | Refused> {
+  return landing(
+    root,
+    [
+      { path: PAGE, body: bytesOf(A) },
+      { path: "akasha/b.txt", body: bytesOf("new") },
+    ],
+    "m",
+    ADMITS,
+    null,
+    baseOf(root)
+  )
+}
+
+export async function pathsSeen(root: string): Promise<readonly string[]> {
+  const seen: string[] = []
+  const watching = judgingThat("watching", (change) => {
+    seen.push(...change.changed)
+    return []
+  })
+  await landing(
+    root,
+    [
+      { path: "b.txt", body: bytesOf("one") },
+      { path: "a.txt", body: bytesOf("two") },
+    ],
+    "held",
+    watching
+  )
+  return seen
+}

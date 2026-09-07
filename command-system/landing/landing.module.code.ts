@@ -160,6 +160,23 @@ function heldBack(
   }
 }
 
+function carriesHeld(
+  root: string,
+  base: string,
+  carries: readonly FileCarry[]
+): {
+  readonly committing: readonly FileCarry[]
+  readonly uncommitted: readonly FileCarry[]
+} {
+  const held = beforeOf(
+    root,
+    base,
+    carries.map((one) => one.from)
+  )
+  const on = (one: FileCarry): boolean => (held.get(one.from) ?? null) !== null
+  return { committing: carries.filter(on), uncommitted: carries.filter((one) => !on(one)) }
+}
+
 function beforeOf(
   root: string,
   base: string,
@@ -184,15 +201,22 @@ function restored(root: string, before: ReadonlyMap<string, Uint8Array | null>):
 function reindexed(
   root: string,
   changed: readonly FileEdit[],
+  carries: readonly FileCarry[],
   before: ReadonlyMap<string, Uint8Array | null>,
   keeping: Keeping
 ): undefined {
   const held = keeping(root)
+  const named = new Set(changed.map((one) => one.path))
   for (const one of changed) {
     const was = textOf(one.body)
     const back = before.get(one.path) ?? null
     if (back === null) held.took(one.path, was)
     else held.wrote(one.path, textIn(back), was)
+  }
+  for (const one of carries) {
+    const back = before.get(one.from) ?? null
+    if (!named.has(one.to)) held.took(one.to, textOf(back))
+    if (back !== null) held.wrote(one.from, textIn(back), null)
   }
   held.settle()
 }
@@ -246,14 +270,22 @@ function carriedOnto(root: string, carries: readonly FileCarry[]): () => undefin
 function indexed(
   root: string,
   changed: readonly FileEdit[],
+  carries: readonly FileCarry[],
   before: ReadonlyMap<string, Uint8Array | null>,
   keeping: Keeping
 ): readonly string[] {
   const held = keeping(root)
+  const named = new Set(changed.map((one) => one.path))
   for (const one of changed) {
     const was = textOf(before.get(one.path) ?? null)
     if (one.body === null) held.took(one.path, was)
     else held.wrote(one.path, textIn(one.body), was)
+  }
+  for (const one of carries) {
+    const body = before.get(one.from) ?? null
+    held.took(one.from, textOf(body))
+    if (named.has(one.to) || body === null) continue
+    held.wrote(one.to, textIn(body), textOf(before.get(one.to) ?? null))
   }
   return held.settle()
 }
@@ -331,7 +363,7 @@ export async function landing(
   carries: readonly FileCarry[] = [],
   drafting: Drafting | null = null
 ): Promise<Landed | Refused | Drafted> {
-  if (changes.length === 0) {
+  if (changes.length === 0 && carries.length === 0) {
     return { refusals: ["nothing was asked for, so nothing was judged and nothing was written"] }
   }
   const named = read === null ? null : commitNamed(root, read)
@@ -352,7 +384,7 @@ export async function landing(
     if ("why" in held) return { refusals: [held.why, KEPT_AS_IT_WAS] }
     edits = editsOf(held.held)
   }
-  const change = changeOf(root, { base: judgedAt, edits })
+  const change = changeOf(root, { base: judgedAt, edits, carries })
   const said = await judged(judging, change)
   if (drafting !== null) {
     return draftedBy(
@@ -390,29 +422,43 @@ export async function landing(
     const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN)
     if (stale !== null) return { refusals: stale }
     const split = heldBack(root, changes)
-    const before = beforeOf(
-      root,
-      base,
-      split.committing.map((one) => one.path)
-    )
+    const carrying = carriesHeld(root, base, carries)
+    const lands = new Set(carries.map((one) => one.to))
+    const before = beforeOf(root, base, [
+      ...split.committing.map((one) => one.path),
+      ...carrying.committing.flatMap((one) => [one.from, one.to]),
+    ])
     const keeping = indexingLoaded()
     try {
-      const put = wroteOnto(root, split.committing)
-      const noted = indexed(root, changes, before, keeping)
+      const put = wroteOnto(
+        root,
+        split.committing.filter((one) => !lands.has(one.path))
+      )
+      const noted = indexed(root, changes, carrying.committing, before, keeping)
       const back = carriedOnto(root, carries)
       try {
-        const commit = committed(root, put.wrote, put.took, message, writer)
+        const then = wroteOnto(
+          root,
+          split.committing.filter((one) => lands.has(one.path))
+        )
+        const wrote = [
+          ...new Set([...put.wrote, ...carrying.committing.map((one) => one.to), ...then.wrote]),
+        ]
+        const took = [
+          ...new Set([...put.took, ...carrying.committing.map((one) => one.from), ...then.took]),
+        ]
+        const commit = committed(root, wrote, took, message, writer)
         wroteOnto(root, split.uncommitted)
-        const gone = [...put.took, ...carries.map((one) => one.from)]
+        const gone = [...put.took, ...then.took, ...carries.map((one) => one.from)]
         const cleared = clearedOff(root, gone)
-        return { base, commit, wrote: put.wrote, took: put.took, noted, cleared }
+        return { base, commit, wrote, took, noted, cleared }
       } catch (thrown) {
         back()
         throw thrown
       }
     } catch (thrown) {
       restored(root, before)
-      const back = alsoFailed(() => reindexed(root, changes, before, keeping))
+      const back = alsoFailed(() => reindexed(root, changes, carrying.committing, before, keeping))
       const off = alsoFailed(() => unstaged(root, changes))
       if (back === null && off === null) throw thrown
       throw new Error(alsoSaid(saidBy(thrown), back, off))
