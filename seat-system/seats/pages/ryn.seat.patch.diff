@@ -1,4 +1,3 @@
-readersOweReading: false temper/temper-web/.server/supabase-service-client/supabase-service-client.module.ts
 diff --git a/bun.lock b/bun.lock
 index addd66d383e9b11e7ab934c868c9bec4c910f5a8..d8fdbf388548450fc9347586e2f34d25fedd1cc2 100644
 --- a/bun.lock
@@ -11,16 +10,3 @@ index addd66d383e9b11e7ab934c868c9bec4c910f5a8..d8fdbf388548450fc9347586e2f34d25
          "@akasha/design-badges": "workspace:*",
          "@akasha/design-forms": "workspace:*",
          "@akasha/design-layout": "workspace:*",
-diff --git a/temper/temper-web/.server/supabase-service-client/supabase-service-client.module.ts b/temper/temper-web/.server/supabase-service-client/supabase-service-client.module.ts
-index 077f76790083b17b07957789c5559e74148781ca..aec9a9dc148542ba7efdccaa9c46fcaa80adf3d0 100644
---- a/temper/temper-web/.server/supabase-service-client/supabase-service-client.module.ts
-+++ b/temper/temper-web/.server/supabase-service-client/supabase-service-client.module.ts
-@@ -9,7 +9,7 @@ export const supabaseServiceClient = {
-   invariants: [
-     {
-       invariantKind: "departure",
--      statement: "The address inside the cluster is taken over the one a browser reaches.",
-+      statement: "The address inside the cluster is taken over the address a browser reaches.",
-     },
-     {
-       invariantKind: "departure",
