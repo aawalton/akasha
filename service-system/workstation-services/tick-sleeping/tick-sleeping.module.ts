@@ -13,7 +13,11 @@ export const tickSleeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A wait says whether that wait ran out or was cut short, so a loop knows to stop.",
+      statement: "A wait says whether that wait ran out or was ended early.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A loop reads that answer to know whether to stop.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +29,11 @@ export const tickSleeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A timer left behind holds the process up, so every wait clears its own.",
+      statement: "A timer left behind holds the process up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every wait clears its own timer.",
     },
     {
       invariantKind: "absence",
