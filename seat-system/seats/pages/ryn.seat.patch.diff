@@ -1,0 +1,17 @@
+diff --git a/git-transport/bare-repo-init/bare-repo-init.module.ts b/git-transport/bare-repo-init/bare-repo-init.module.ts
+index d0ac01c081b226aac07040bd6f75edb65cb8bf73..72841fc7c04b2f741a0dcbfe4678cc758ae4c336 100644
+--- a/git-transport/bare-repo-init/bare-repo-init.module.ts
++++ b/git-transport/bare-repo-init/bare-repo-init.module.ts
+@@ -9,7 +9,11 @@ export const bareRepoInit = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "One run at a time, held by a lock beside the repositories.",
++      statement: "One run goes at a time.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A lock beside the repositories holds the run.",
+     },
+     {
+       invariantKind: "departure",
