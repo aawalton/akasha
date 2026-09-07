@@ -1,557 +1,447 @@
 writerOwesReading: false
-diff --git a/changes/agent/file-content/rename-package/rename-package.change-checked.code.ts b/changes/agent/file-content/rename-package/rename-package.change-checked.code.ts
-index 7b55b177acc4eec3a9c839aede88c018880d5c55..6c6ea424bc9b90410711028f274991b15cf89739 100644
---- a/changes/agent/file-content/rename-package/rename-package.change-checked.code.ts
-+++ b/changes/agent/file-content/rename-package/rename-package.change-checked.code.ts
-@@ -10,12 +10,11 @@ import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
- import type { Matching } from "@akasha/pages/name-format/name-matching"
- import ts from "typescript"
- import {
--  answered,
-   missing,
-   refusing,
--  writing,
-+  stating,
- } from "../../../modules/change-answer/change-answer.module.code.ts"
--import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
-+import type { Replacing, Said } from "../../../modules/change-answer/change-answer.module.types.ts"
- import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
- 
- const AT = "at"
-@@ -177,7 +176,7 @@ function namedRefusal(given: RenamePackageAsked, matching: Matching): string | n
-   return given.from === undefined ? null : refusalOf(given.from, matching)
- }
- 
--export function renamePackage(world: World, given: RenamePackageAsked): Answer {
-+export function renamePackage(world: World, given: RenamePackageAsked): Said {
-   const text = world.textOf(given.at)
-   if (text === null) return refusing(`\`${given.at}\` could not be read`)
-   const held = objectIn(text)
-@@ -193,31 +192,33 @@ export function renamePackage(world: World, given: RenamePackageAsked): Answer {
-   if (said !== null) return refusing(`${said}, ${UNRENAMED}`)
-   const reading = importingOf(world.index, reachedIn(given.at, text))
-   if ("unread" in reading) return refusing(reading.unread)
--  const edits: Edit[] = []
-+  const edits: Replacing[] = []
-   const own = restated(given.at, text, was, given.to)
--  if (own !== text) edits.push(writing(given.at, text, own))
-+  if (own !== text) {
-+    edits.push({ kind: "replace", path: given.at, contentFrom: text, contentTo: own })
-+  }
-   for (const path of manifestsOf(world)) {
-     if (path === given.at) continue
-     const body = world.textOf(path)
-     if (body === null || !body.includes(was)) continue
-     const next = restated(path, body, was, given.to)
--    if (next !== body) edits.push(writing(path, body, next))
-+    if (next !== body) edits.push({ kind: "replace", path, contentFrom: body, contentTo: next })
-   }
-   for (const path of bodiesReaching(world, given, was, reading.importers)) {
-     const body = world.textOf(path)
-     if (body === null) return refusing(`\`${path}\` reaches this package and could not be read`)
-     const next = spelledAnew(path, body, was, given.to)
--    if (next !== body) edits.push(writing(path, body, next))
-+    if (next !== body) edits.push({ kind: "replace", path, contentFrom: body, contentTo: next })
-   }
-   if (given.from !== undefined && edits.length === 0) {
-     return refusing(`nothing names \`${given.from}\`, ${UNRENAMED}`)
-   }
--  return answered(edits)
-+  return stating(edits)
- }
- 
- export type Asked = Readonly<Record<string, string>>
- 
--export function runChange(world: World, given: Asked): Answer {
-+export function runChange(world: World, given: Asked): Said {
-   const at = given[AT]
-   if (at === undefined) return refusing(missing(AT))
-   const to = given[TO]
-diff --git a/changes/agent/file-content/rename-package/rename-package.change-checked.test.ts b/changes/agent/file-content/rename-package/rename-package.change-checked.test.ts
-index 19a10aca7e22ea7ead91bc130b6b460cd0c76b72..a08bda840decb92a8322f1db15094d1d0bc705f7 100644
---- a/changes/agent/file-content/rename-package/rename-package.change-checked.test.ts
-+++ b/changes/agent/file-content/rename-package/rename-package.change-checked.test.ts
-@@ -1,6 +1,7 @@
- import { afterAll, expect, test } from "bun:test"
- import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
--import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-+import { widened } from "../../../modules/change-answer/change-answer.module.code.ts"
-+import type { Said } from "../../../modules/change-answer/change-answer.module.types.ts"
- import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
- import { renamePackage, runChange } from "./rename-package.change-checked.code.ts"
- 
-@@ -185,19 +186,26 @@ function carried(): World {
- }
- 
- function renamed(): ReadonlyMap<string, string | null> {
--  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
-+  const world = packaged()
-+  const said = widened(renamePackage(world, { at: INNER_MANIFEST, to: HELD }), world.textOf)
-   expect(said.refused).toBe(null)
-   return new Map(said.edits.map((one) => [one.path, one.body]))
- }
- 
- function resumed(): ReadonlyMap<string, string | null> {
--  const said = renamePackage(carried(), { at: INNER_MANIFEST, to: HELD, from: INNER })
-+  const world = carried()
-+  const said = widened(
-+    renamePackage(world, { at: INNER_MANIFEST, to: HELD, from: INNER }),
-+    world.textOf
-+  )
-   expect(said.refused).toBe(null)
-   return new Map(said.edits.map((one) => [one.path, one.body]))
- }
- 
--function pathsIn(said: Answer): readonly string[] {
--  return said.edits.map((one) => one.path).sort()
-+function pathsIn(world: World, said: Said): readonly string[] {
-+  return widened(said, world.textOf)
-+    .edits.map((one) => one.path)
-+    .sort()
- }
- 
- test("a manifest that could not be read is refused", () => {
-@@ -278,20 +286,28 @@ test("a body reaching the package has each specifier naming it rewritten", () =>
- })
- 
- test("only the manifests and the bodies reaching the package are answered", () => {
--  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
-+  const world = packaged()
-+  const said = renamePackage(world, { at: INNER_MANIFEST, to: HELD })
-   expect(said.refused).toBe(null)
--  expect(pathsIn(said)).toEqual([INNER_MANIFEST, OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
-+  expect(pathsIn(world, said)).toEqual([INNER_MANIFEST, OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
- })
- 
- test("a package no manifest and no body names is answered with its own manifest alone", () => {
--  const said = renamePackage(packaged(), { at: OUTER_MANIFEST, to: "@akasha/wider" })
-+  const world = packaged()
-+  const said = renamePackage(world, { at: OUTER_MANIFEST, to: "@akasha/wider" })
-   expect(said.refused).toBe(null)
--  expect(pathsIn(said)).toEqual([OUTER_MANIFEST])
-+  expect(pathsIn(world, said)).toEqual([OUTER_MANIFEST])
-+})
-+
-+test("every body the rename touches is stated as a replace", () => {
-+  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
-+
-+  expect(new Set(said.edits.map((one) => one.kind))).toEqual(new Set(["replace"]))
- })
- 
- test("each edit states the body as it was before the change", () => {
-   const world = packaged()
--  const said = renamePackage(world, { at: INNER_MANIFEST, to: HELD })
-+  const said = widened(renamePackage(world, { at: INNER_MANIFEST, to: HELD }), world.textOf)
-   expect(said.refused).toBe(null)
-   for (const one of said.edits) expect(one.was).toBe(world.textOf(one.path))
- })
-@@ -346,7 +362,8 @@ test("an old name that is no package name is refused", () => {
- })
- 
- test("a call handing over an old name renames from that name", () => {
--  const said = runChange(carried(), { at: INNER_MANIFEST, to: HELD, from: INNER })
-+  const world = carried()
-+  const said = runChange(world, { at: INNER_MANIFEST, to: HELD, from: INNER })
-   expect(said.refused).toBe(null)
--  expect(pathsIn(said)).toEqual([OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
-+  expect(pathsIn(world, said)).toEqual([OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
- })
-diff --git a/changes/modules/change-answer/change-answer.module.test.ts b/changes/modules/change-answer/change-answer.module.test.ts
-index 4da8342f6b1db8381e3bf3230c9d853a92898229..323f6343655a42771fbd1b15ee883f51a54853e3 100644
---- a/changes/modules/change-answer/change-answer.module.test.ts
-+++ b/changes/modules/change-answer/change-answer.module.test.ts
-@@ -1,4 +1,5 @@
- import { expect, test } from "bun:test"
-+import fc from "fast-check"
- import { type BodyOf, expanded, gathered, narrowed, widened } from "./change-answer.module.code.ts"
- import type { Answer, Edit } from "./change-answer.module.types.ts"
- 
-@@ -259,6 +260,62 @@ test("a move whose body changed comes back as it was", () => {
-   expect(rounded(one, { [AWAY]: "one" })).toEqual({ edits: [one], refused: null })
- })
- 
-+const TEXT = fc.string({ maxLength: 40 })
-+
-+const FULL = fc.string({ minLength: 1, maxLength: 40 })
-+
-+test("a write onto a path holding nothing comes back whole for any body", () => {
-+  fc.assert(
-+    fc.property(FULL, (body) => {
-+      const one = { path: AT, was: null, body }
-+
-+      expect(rounded(one, {})).toEqual({ edits: [one], refused: null })
-+    })
-+  )
-+})
-+
-+test("a write over a body comes back whole for any two bodies", () => {
-+  fc.assert(
-+    fc.property(TEXT, TEXT, (was, body) => {
-+      fc.pre(was !== body)
-+      const one = { path: AT, was, body }
-+
-+      expect(rounded(one, { [AT]: was })).toEqual({ edits: [one], refused: null })
-+    })
-+  )
-+})
-+
-+test("an edit stating no body comes back whole for any body", () => {
-+  fc.assert(
-+    fc.property(TEXT, (was) => {
-+      const one = { path: AT, was, body: null }
-+
-+      expect(rounded(one, { [AT]: was })).toEqual({ edits: [one], refused: null })
-+    })
-+  )
-+})
-+
-+test("a move carrying the body unchanged comes back whole for any body", () => {
-+  fc.assert(
-+    fc.property(TEXT, (was) => {
-+      const one = { path: AT, was, body: was, from: AWAY }
-+
-+      expect(rounded(one, { [AWAY]: was })).toEqual({ edits: [one], refused: null })
-+    })
-+  )
-+})
-+
-+test("a move whose body changed comes back whole for any two bodies", () => {
-+  fc.assert(
-+    fc.property(TEXT, TEXT, (was, body) => {
-+      fc.pre(was !== body)
-+      const one = { path: AT, was, body, from: AWAY }
-+
-+      expect(rounded(one, { [AWAY]: was })).toEqual({ edits: [one], refused: null })
-+    })
-+  )
-+})
-+
- test("one edit refused refuses the whole answer", () => {
-   const edits = [
-     { kind: "add", path: AT, content: "one" },
 diff --git a/changes/modules/edits-keeping/edits-keeping.module.code.ts b/changes/modules/edits-keeping/edits-keeping.module.code.ts
-index b20f814021df4e56eaa7bdb3053d3b7570217b9a..713b83a1ca1c7f37bca280210d80ba06e9d4d447 100644
+index cd4c815e3cd841b9f07b4c58fd2e3dea81cd816b..b20f814021df4e56eaa7bdb3053d3b7570217b9a 100644
 --- a/changes/modules/edits-keeping/edits-keeping.module.code.ts
 +++ b/changes/modules/edits-keeping/edits-keeping.module.code.ts
-@@ -6,7 +6,12 @@ import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
- import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
- import { besideAt } from "@akasha/pages/page-file-name"
- import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
--import { type BodyOf, gathered, widened } from "../change-answer/change-answer.module.code.ts"
-+import {
-+  type BodyOf,
-+  gathered,
-+  narrowed,
-+  widened,
-+} from "../change-answer/change-answer.module.code.ts"
- import type { Answer, Edit, Reading, Stated } from "../change-answer/change-answer.module.types.ts"
- 
- const SLUG = "edits"
-@@ -218,11 +223,50 @@ function poured(root: string, page: string, lines: readonly string[]): undefined
-   if (held.length > 0) appended(root, page, held.join(""))
+@@ -202,11 +202,10 @@ function appended(root: string, page: string, text: string): undefined {
+   appendFileSync(full, text)
  }
  
 -function appending(root: string, page: string, rows: readonly Edit[]): undefined {
-+function wasIn(one: Edit): BodyOf {
-+  const came = one.from === undefined || one.from === one.path ? one.path : one.from
-+  return (path) => (path === came ? one.was : null)
-+}
-+
-+function sameRow(one: Edit, two: Edit): boolean {
-+  return (
-+    one.path === two.path &&
-+    one.was === two.was &&
-+    one.body === two.body &&
-+    one.from === two.from &&
-+    one.readersOweReading === two.readersOweReading &&
-+    one.writerOwesReading === two.writerOwesReading
++function poured(root: string, page: string, lines: readonly string[]): undefined {
+   let held: string[] = []
+   let bytes = 0
+-  for (const one of rows) {
+-    const line = `${JSON.stringify(one)}\n`
++  for (const line of lines) {
+     const size = Buffer.byteLength(line, "utf8")
+     if (bytes > 0 && bytes + size > ENTRY_CEILING) {
+       appended(root, page, held.join(""))
+@@ -219,6 +218,14 @@ function appending(root: string, page: string, rows: readonly Edit[]): undefined
+   if (held.length > 0) appended(root, page, held.join(""))
+ }
+ 
++function appending(root: string, page: string, rows: readonly Edit[]): undefined {
++  poured(
++    root,
++    page,
++    rows.map((one) => `${JSON.stringify(one)}\n`)
 +  )
 +}
 +
-+function narrowIn(one: Edit): Stated | null {
-+  const narrow = narrowed(one)
-+  const only = narrow.length === 1 ? narrow[0] : undefined
-+  if (only === undefined) return null
-+  const back = widened({ edits: [only], refused: null }, wasIn(one))
-+  const got = back.edits[0]
-+  if (back.refused !== null || back.edits.length !== 1 || got === undefined) return null
-+  return sameRow(got, one) ? only : null
-+}
-+
-+function narrowly(one: Edit): string {
-+  return JSON.stringify(narrowIn(one) ?? one)
-+}
-+
-+function wholly(one: Edit): string {
-+  return JSON.stringify(one)
-+}
-+
-+function appending(
-+  root: string,
-+  page: string,
-+  rows: readonly Edit[],
-+  said: (one: Edit) => string
-+): undefined {
-   poured(
-     root,
-     page,
--    rows.map((one) => `${JSON.stringify(one)}\n`)
-+    rows.map((one) => `${said(one)}\n`)
-   )
- }
- 
-@@ -269,7 +313,7 @@ function migrated(root: string, page: string): undefined {
-   if (stale === null) return
-   const read = rowsIn(stale, bodyIn(root))
-   if ("why" in read) return
--  appending(root, page, read.rows)
-+  appending(root, page, read.rows, narrowly)
+ function abandoned(root: string, page: string): undefined {
+   const old = staleAt(page)
+   if (old === null) return
+@@ -231,6 +238,30 @@ function swept(root: string, page: string): undefined {
    abandoned(root, page)
  }
  
-@@ -287,11 +331,11 @@ function settled(root: string, page: string, had: readonly Edit[], next: Rows):
-     return { rows: [] }
-   }
-   if (followsOn(had, next)) {
--    appending(root, page, next.slice(had.length))
-+    appending(root, page, next.slice(had.length), narrowly)
-     return { rows: next }
-   }
-   swept(root, page)
--  appending(root, page, next)
-+  appending(root, page, next, wholly)
-   return { rows: next }
- }
- 
-@@ -329,7 +373,7 @@ export function appendEdits(root: string, page: string, edits: readonly Edit[]):
-   mkdirSync(dirname(full), { recursive: true })
-   return exclusively(full, (): Kept => {
-     migrated(root, page)
--    appending(root, page, edits)
-+    appending(root, page, edits, narrowly)
-     return { rows: edits }
-   })
- }
-diff --git a/changes/modules/edits-keeping/edits-keeping.module.test.ts b/changes/modules/edits-keeping/edits-keeping.module.test.ts
-index fafcc9cc6a552fbe8552f623d9496b101ffadb59..7cb0b78386e75c4354e62aa4e93c5a1689050753 100644
---- a/changes/modules/edits-keeping/edits-keeping.module.test.ts
-+++ b/changes/modules/edits-keeping/edits-keeping.module.test.ts
-@@ -51,6 +51,12 @@ function lined(...rows: readonly unknown[]): string {
-   return rows.map((one) => `${JSON.stringify(one)}\n`).join("")
- }
- 
-+function storedIn(root: string): readonly string[] {
-+  return readFileSync(join(root, AT), "utf8")
-+    .split("\n")
-+    .filter((one) => one !== "")
++export function linesIn(root: string, page: string): readonly string[] {
++  const held = textOver(root, page) ?? staleIn(root, page)
++  return held === null ? [] : held.split("\n").filter((one) => one !== "")
 +}
 +
- test("the file is named beside the page by the rule every file beside a page is named by", () => {
-   expect(editsAt(PAGE)).toBe(AT)
- })
-@@ -68,6 +74,7 @@ test("an agent that has appended nothing holds no row", () => {
- 
- test("two appends leave both sets of rows in the order the rows were appended", () => {
-   const root = rootFor()
-+  putting(root, "b\n", TWO)
- 
-   appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
-   appendEdits(root, PAGE, [taking(TWO, "b\n"), writing(ONE, "a\n", "c\n")])
-@@ -77,6 +84,7 @@ test("two appends leave both sets of rows in the order the rows were appended",
- 
- test("a row comes back holding the path, the body it was worked out from and the body it leaves", () => {
-   const root = rootFor()
-+  putting(root, "a\n", ONE)
- 
-   appendEdits(root, PAGE, [taking(ONE, "a\n")])
- 
-@@ -85,6 +93,7 @@ test("a row comes back holding the path, the body it was worked out from and the
- 
- test("a row naming the path it came from keeps that path", () => {
-   const root = rootFor()
-+  putting(root, "a\n", ONE)
- 
-   appendEdits(root, PAGE, [{ path: TWO, was: "a\n", body: "a\n", from: ONE }])
- 
-@@ -313,3 +322,73 @@ test("a whole row and a narrow row are read side by side", () => {
- 
-   expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE, TWO])
- })
++export function droppedFirst(root: string, page: string, went: readonly string[]): undefined {
++  const at = editsAt(page)
++  if (at === null) return
++  const full = join(root, at)
++  mkdirSync(dirname(full), { recursive: true })
++  exclusively(full, (): undefined => {
++    const held = linesIn(root, page)
++    if (held.length < went.length) return
++    for (let one = 0; one < went.length; one += 1) if (held[one] !== went[one]) return
++    const left = held.slice(went.length)
++    swept(root, page)
++    poured(
++      root,
++      page,
++      left.map((one) => `${one}\n`)
++    )
++  })
++}
 +
-+test("a row taking a path away is written without the body that path held", () => {
-+  const root = rootFor()
-+  putting(root, "a\n", ONE)
-+
-+  appendEdits(root, PAGE, [taking(ONE, "a\n")])
-+
-+  expect(storedIn(root)).toEqual([JSON.stringify({ kind: "remove", path: ONE })])
-+  expect(editsIn(root, PAGE)).toEqual({ rows: [taking(ONE, "a\n")] })
-+})
-+
-+test("a row carrying a body across is written without that body", () => {
-+  const root = rootFor()
-+  putting(root, "a\n", ONE)
-+  const row = { path: TWO, was: "a\n", body: "a\n", from: ONE }
-+
-+  appendEdits(root, PAGE, [row])
-+
-+  expect(storedIn(root)).toEqual([JSON.stringify({ kind: "move", pathFrom: ONE, pathTo: TWO })])
-+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
-+})
-+
-+test("a row adding a path is written without the body that path lacked", () => {
-+  const root = rootFor()
-+  const row = writing(ONE, null, "a\n")
-+
-+  appendEdits(root, PAGE, [row])
-+
-+  expect(storedIn(root)).toEqual([JSON.stringify({ kind: "add", path: ONE, content: "a\n" })])
-+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
-+})
-+
-+test("a row that would read back as no row states the whole body", () => {
-+  const root = rootFor()
-+  const row = writing(ONE, "a\n", "a\n")
-+
-+  appendEdits(root, PAGE, [row])
-+
-+  expect(storedIn(root)).toEqual([JSON.stringify(row)])
-+})
-+
-+test("a row that would read back under another path states the whole body", () => {
-+  const root = rootFor()
-+  const row = { path: TWO, was: "a\n", body: null, from: ONE }
-+
-+  appendEdits(root, PAGE, [row])
-+
-+  expect(storedIn(root)).toEqual([JSON.stringify(row)])
-+})
-+
-+test("a row that would read back refused states the whole body", () => {
-+  const root = rootFor()
-+  const row = { path: TWO, was: null, body: "a\n", from: ONE }
-+
-+  appendEdits(root, PAGE, [row])
-+
-+  expect(storedIn(root)).toEqual([JSON.stringify(row)])
-+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
-+})
-+
-+test("the rows a settle writes again state the whole body", () => {
-+  const root = rootFor()
-+  putting(root, "a\n", ONE)
-+  putting(root, "b\n", TWO)
-+  appendEdits(root, PAGE, [taking(ONE, "a\n"), taking(TWO, "b\n")])
-+
-+  keptEdits(root, PAGE, (had) => had.slice(1))
-+
-+  expect(storedIn(root)).toEqual([JSON.stringify(taking(TWO, "b\n"))])
-+})
+ function migrated(root: string, page: string): undefined {
+   const at = editsAt(page)
+   if (at === null || existsSync(join(root, at))) return
 diff --git a/changes/modules/edits-keeping/edits-keeping.module.ts b/changes/modules/edits-keeping/edits-keeping.module.ts
-index 1ffb3117ff7f0940966af29a9561c4879bac0274..ff99b7ee3b272f8eb8fc42edcf477474218880ba 100644
+index 251cb2e04da89bb66d951113524ef14297517c4d..1ffb3117ff7f0940966af29a9561c4879bac0274 100644
 --- a/changes/modules/edits-keeping/edits-keeping.module.ts
 +++ b/changes/modules/edits-keeping/edits-keeping.module.ts
-@@ -65,6 +65,23 @@ export const editsKeeping = {
+@@ -103,6 +103,14 @@ export const editsKeeping = {
        invariantKind: "departure",
-       statement: "A change appends its rows rather than writing the file again.",
+       statement: "A writer takes a turn over the file before appending.",
      },
 +    {
 +      invariantKind: "departure",
-+      statement:
-+        "A row appended states the edit narrowly where the narrow row reads back as that row.",
++      statement: "The lines a caller already holds are dropped as lines rather than as edits.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A row that would read back as any other row states the whole body instead.",
++      statement: "A drop finding other lines at the front leaves every line where those lines are.",
++    },
+     {
+       invariantKind: "gap",
+       statement: "A reader taking no turn can meet a row a write left half appended.",
+diff --git a/command-system/change-freshness/change-freshness.module.code.ts b/command-system/change-freshness/change-freshness.module.code.ts
+index 38d7dceae2a78984d98be2fd3f618d9899268705..7aac00038556a838f7c325c75d6db2e5f77f5699 100644
+--- a/command-system/change-freshness/change-freshness.module.code.ts
++++ b/command-system/change-freshness/change-freshness.module.code.ts
+@@ -1,6 +1,8 @@
+ import { readFileSync } from "node:fs"
+ import { join } from "node:path"
+-import { told } from "@akasha/git/git-running"
++import { said as gitIn, told } from "@akasha/git/git-running"
++import { sameBody as sameBytes } from "../body-merging/body-merging.module.code.ts"
++import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
+ import { blobIdOf, type Reading, sameBody } from "../reading/reading.module.code.ts"
+ 
+ const HERE = "."
+@@ -37,3 +39,60 @@ export function reachedSince(root: string, base: string, now: string): readonly
+   const found = changedSince(root, base, now, HERE)
+   return found === null ? null : [...found].sort()
+ }
++
++function movedBetween(
++  root: string,
++  read: string,
++  base: string,
++  paths: readonly string[]
++): readonly string[] {
++  const moved: string[] = []
++  for (const one of paths) {
++    if (!sameBytes(bodyAt(root, read, one), bodyAt(root, base, one))) moved.push(one)
++  }
++  return moved.sort()
++}
++
++export function unfresh(
++  root: string,
++  named: string | null,
++  base: string,
++  paths: readonly string[],
++  asRead: readonly Reading[],
++  tail: string
++): readonly string[] | null {
++  const moved = named === null || named === base ? [] : movedBetween(root, named, base, paths)
++  if (named !== null && moved.length > 0) {
++    return [
++      ...moved.map(
++        (one) =>
++          `${one} — read against \`${named}\`, and what is at \`${base}\` is not what was read, so writing it would put back what moved in between`
++      ),
++      tail,
++    ]
++  }
++  const stirred = movedOnDisk(root, asRead)
++  if (stirred.length === 0) return null
++  return [
++    ...stirred.map(
++      (one) =>
++        `${one} — what is on disk is not the body you read, so writing it would put back what moved in between`
++    ),
++    tail,
++  ]
++}
++
++export function commitNamed(root: string, named: string): string | null {
++  try {
++    const said = gitIn(root, [
++      "rev-parse",
++      "--verify",
++      "--quiet",
++      "--end-of-options",
++      `${named}^{commit}`,
++    ]).trim()
++    return said === "" ? null : said
++  } catch {
++    return null
++  }
++}
+diff --git a/command-system/change-freshness/change-freshness.module.test.ts b/command-system/change-freshness/change-freshness.module.test.ts
+index 9a3dc73ccab3a896b08bb52ed2ec02d387618760..477857cc7e185b4fe72558a6cfad9c5e01a3d12e 100644
+--- a/command-system/change-freshness/change-freshness.module.test.ts
++++ b/command-system/change-freshness/change-freshness.module.test.ts
+@@ -8,7 +8,7 @@ import { landing } from "../landing/landing.module.code.ts"
+ import { A, ADMITS, bytes, MODULE_AT, TYPE } from "../landing/landing.module.test-fixtures.ts"
+ import { blobIdOf, type Reading } from "../reading/reading.module.code.ts"
+ import { scratchWorld } from "../scratching/scratching.module.code.ts"
+-import { movedOnDisk, reachedSince } from "./change-freshness.module.code.ts"
++import { commitNamed, movedOnDisk, reachedSince, unfresh } from "./change-freshness.module.code.ts"
+ 
+ const scratch = scratchWorld()
+ 
+@@ -194,6 +194,32 @@ test("a commit reaching `akasha/` while the change was judged refuses nothing",
+   expect(readFileSync(join(root, "akasha/meanwhile.txt"), "utf8")).toBe("landed inside")
+ })
+ 
++test("a name git resolves to one commit is answered as that commit", () => {
++  const root = repoWith(PAGES)
++  const head = headOf(root)
++  expect(commitNamed(root, "HEAD")).toBe(head)
++  expect(commitNamed(root, head)).toBe(head)
++})
++
++test("a name resolving to no commit is answered as nothing", () => {
++  const root = repoWith(PAGES)
++  expect(commitNamed(root, "no-such-ref")).toBe(null)
++})
++
++test("a body on disk that is not the body read is answered as moved, with the tail last", () => {
++  const root = repoWith(PAGES)
++  const held = readA()
++  writeFileSync(join(root, AT), "moved")
++  const said = unfresh(root, null, headOf(root), [AT], [held], "tail")
++  expect(said?.[0]).toContain(MOVED)
++  expect(said?.at(-1)).toBe("tail")
++})
++
++test("a body on disk that is the body read is answered as nothing", () => {
++  const root = repoWith(PAGES)
++  expect(unfresh(root, null, headOf(root), [AT], [readA()], "tail")).toBe(null)
++})
++
+ test("a commit reaching nothing under `akasha/` while the change was judged refuses nothing", async () => {
+   const root = repoWith(PAGES)
+   const said = await landing(
+diff --git a/command-system/change-freshness/change-freshness.module.ts b/command-system/change-freshness/change-freshness.module.ts
+index bde1c9a033b083a5fa1e75a63ea12e88405a1a03..bb85c9da906853d190092df82497bc1078965174 100644
+--- a/command-system/change-freshness/change-freshness.module.ts
++++ b/command-system/change-freshness/change-freshness.module.ts
+@@ -31,6 +31,14 @@ export const changeFreshness = {
+       invariantKind: "absence",
+       statement: "A path no reading was recorded for is held to nothing.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The commit a change states is taken by any name git resolves to one commit.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "Whether a row reads back is answered against the body that row states.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A row written again beside rows that went states the whole body.",
++      statement: "A path read against one commit and changed by another is answered as moved.",
 +    },
      {
        invariantKind: "departure",
-       statement: "A row is appended to the last numbered file rather than to a file written anew.",
+       statement: "A commit reaching nothing this repository holds can change no verdict.",
 diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
-index 0afc1cb43eab7766423f9bb354f2ba1ede8b5fb3..da251063c7d5192bed0c3688047952d9c906448b 100644
+index 3007d0c75ad2689b561ea5871fcb50d73cf12061..0afc1cb43eab7766423f9bb354f2ba1ede8b5fb3 100644
 --- a/command-system/landing/landing.module.code.ts
 +++ b/command-system/landing/landing.module.code.ts
-@@ -33,6 +33,7 @@ export type FileCarry = {
- export type Proposed = {
-   readonly base: string
-   readonly edits: readonly FileEdit[]
-+  readonly carries?: readonly FileCarry[]
+@@ -5,7 +5,7 @@ import { textIn, textOf } from "@akasha/code/body-text"
+ import { gitIgnoring } from "@akasha/git/git-pathspec"
+ import { said as gitIn } from "@akasha/git/git-running"
+ import type { Change } from "@akasha/pages/change"
+-import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts"
++import { commitNamed, unfresh } from "../change-freshness/change-freshness.module.code.ts"
+ import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
+ import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
+ import type { Bodies, Draft, Running } from "../drafting/drafting.module.code.ts"
+@@ -252,59 +252,6 @@ function indexed(
+   return held.settle()
  }
  
- export type Landed = {
-@@ -81,8 +82,11 @@ export function baseOf(root: string): string {
- }
- 
- export function changeOf(root: string, proposed: Proposed): Change {
-+  const carries = proposed.carries ?? []
-   const held = new Map<string, Uint8Array | null>()
-+  for (const one of carries) held.set(one.from, null)
-   for (const one of proposed.edits) held.set(one.path, one.body)
-+  const came = new Map(carries.map((one) => [one.to, one.from]))
-   const read = new Map<string, Uint8Array | null>()
-   const based = (path: string): Uint8Array | null => {
-     const found = read.get(path)
-@@ -94,12 +98,14 @@ export function changeOf(root: string, proposed: Proposed): Change {
-   }
-   return {
-     root,
--    changed: proposed.edits.map((one) => one.path).sort(),
-+    changed: [...new Set([...held.keys(), ...came.keys()])].sort(),
-     before: based,
-     after: (path) => {
-       const said = held.get(path)
-       if (said !== undefined) return said
-       if (held.has(path)) return null
-+      const from = came.get(path)
-+      if (from !== undefined) return based(from)
-       return based(path)
-     },
-   }
-@@ -157,11 +163,11 @@ function heldBack(
- function beforeOf(
-   root: string,
-   base: string,
+-function sameBody(one: Uint8Array | null, two: Uint8Array | null): boolean {
+-  if (one === null || two === null) return one === two
+-  return Buffer.from(one).equals(Buffer.from(two))
+-}
+-
+-function movedBetween(
+-  root: string,
+-  read: string,
+-  base: string,
 -  changed: readonly FileEdit[]
-+  paths: readonly string[]
- ): Map<string, Uint8Array | null> {
-   try {
-     const held = new Map<string, Uint8Array | null>()
--    for (const one of changed) held.set(one.path, bodyAt(root, base, one.path))
-+    for (const one of paths) held.set(one, bodyAt(root, base, one))
-     return held
-   } finally {
-     readingEnded()
-@@ -253,7 +259,11 @@ function indexed(
+-): readonly string[] {
+-  const moved: string[] = []
+-  for (const one of changed) {
+-    if (!sameBody(bodyAt(root, read, one.path), bodyAt(root, base, one.path))) moved.push(one.path)
+-  }
+-  return moved.sort()
+-}
+-
+-function unfresh(
+-  root: string,
+-  named: string | null,
+-  base: string,
+-  changes: readonly FileEdit[],
+-  asRead: readonly AsRead[],
+-  tail: string
+-): Refused | null {
+-  const moved = named === null || named === base ? [] : movedBetween(root, named, base, changes)
+-  if (named !== null && moved.length > 0) {
+-    return {
+-      refusals: [
+-        ...moved.map(
+-          (one) =>
+-            `${one} — read against \`${named}\`, and what is at \`${base}\` is not what was read, so writing it would put back what moved in between`
+-        ),
+-        tail,
+-      ],
+-    }
+-  }
+-  const stirred = movedOnDisk(root, asRead)
+-  if (stirred.length > 0) {
+-    return {
+-      refusals: [
+-        ...stirred.map(
+-          (one) =>
+-            `${one} — what is on disk is not the body you read, so writing it would put back what moved in between`
+-        ),
+-        tail,
+-      ],
+-    }
+-  }
+-  return null
+-}
+-
+ function draftsOf(root: string, base: string, changes: readonly FileEdit[]): readonly Draft[] {
+   const before = beforeOf(root, base, changes)
+   return changes.map((one) => ({
+@@ -327,8 +274,9 @@ function draftedBy(
+   running: Running
+ ): Drafted | Refused {
+   const base = baseOf(root)
+-  const stale = unfresh(root, named, base, changes, asRead, AGAIN_DRAFTED)
+-  if (stale !== null) return stale
++  const changing = changes.map((one) => one.path)
++  const stale = unfresh(root, named, base, changing, asRead, AGAIN_DRAFTED)
++  if (stale !== null) return { refusals: stale }
+   const said = draftedOnto(root, page, drafts, running)
+   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
+   return {
+@@ -341,21 +289,6 @@ function draftedBy(
+   }
  }
  
- function draftsOf(root: string, base: string, changes: readonly FileEdit[]): readonly Draft[] {
--  const before = beforeOf(root, base, changes)
-+  const before = beforeOf(
-+    root,
-+    base,
-+    changes.map((one) => one.path)
-+  )
-   return changes.map((one) => ({
-     path: one.path,
-     was: before.get(one.path) ?? null,
-@@ -380,7 +390,11 @@ export async function landing(
-     const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN)
-     if (stale !== null) return { refusals: stale }
+-function commitNamed(root: string, named: string): string | null {
+-  try {
+-    const said = gitIn(root, [
+-      "rev-parse",
+-      "--verify",
+-      "--quiet",
+-      "--end-of-options",
+-      `${named}^{commit}`,
+-    ]).trim()
+-    return said === "" ? null : said
+-  } catch {
+-    return null
+-  }
+-}
+-
+ export function landing(
+   root: string,
+   changes: readonly FileEdit[],
+@@ -443,8 +376,9 @@ export async function landing(
+   }
+   return holding(root, () => {
+     const base = baseOf(root)
+-    const stale = unfresh(root, named, base, changes, asRead, AGAIN_WRITTEN)
+-    if (stale !== null) return stale
++    const paths = changes.map((one) => one.path)
++    const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN)
++    if (stale !== null) return { refusals: stale }
      const split = heldBack(root, changes)
--    const before = beforeOf(root, base, split.committing)
-+    const before = beforeOf(
-+      root,
-+      base,
-+      split.committing.map((one) => one.path)
-+    )
+     const before = beforeOf(root, base, split.committing)
      const keeping = indexingLoaded()
-     try {
-       const put = wroteOnto(root, split.committing)
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index bd876e2ce20a921e00d382bc0f97b8d7187c39b7..ca4e3f9f585ad36348b7550cbcda3dbbfa1aa665 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -32,10 +32,6 @@ export const landing = {
+       invariantKind: "departure",
+       statement: "A change may state the commit its bodies were read against.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The commit a change states is taken by any name git resolves to one commit.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A name resolving to no commit refuses the change unwritten.",
+diff --git a/commands/pages/apply/apply.command.code.ts b/commands/pages/apply/apply.command.code.ts
+index a6e1da50b66e3302ba5d1ea841754487dc918db4..9134b07960894ccfe1bfb6c4f46158273d770cae 100644
+--- a/commands/pages/apply/apply.command.code.ts
++++ b/commands/pages/apply/apply.command.code.ts
+@@ -4,9 +4,11 @@ import { agentPathOf, changingOf, owedIn } from "@akasha/context/warranting"
+ import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
+ import { bytesOf } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
+ import {
++  droppedFirst,
+   editsAt,
+   foldedIn,
+   keptEdits,
++  linesIn,
+ } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+ import { writtenAgain } from "../../../command-system/address-mapping/address-mapping.module.code.ts"
+ import { applying, type Carried } from "../../../command-system/applying/applying.module.code.ts"
+@@ -42,7 +44,7 @@ const BARE: readonly string[] = []
+ 
+ const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
+ 
+-export type Unfold = { readonly patch: string | null; readonly rows: readonly Edit[] }
++export type Unfold = { readonly patch: string | null; readonly went: readonly string[] }
+ 
+ export type Folded =
+   | {
+@@ -107,7 +109,7 @@ export function folding(root: string, page: string): Folded {
+     answer = {
+       folded: said.edits.map((one) => one.path).sort(),
+       dropped,
+-      unfold: { patch: was, rows: had },
++      unfold: { patch: was, went: linesIn(root, page) },
+       carried: { held: took.held, running: took.running },
+     }
+     return had
+@@ -169,11 +171,7 @@ async function refusedBefore(root: string, page: string): Promise<readonly strin
+ 
+ export function undone(root: string, page: string, unfold: Unfold): string | null {
+   if (patchIn(root, page) === null) {
+-    const rows = unfold.rows
+-    const went = JSON.stringify(rows)
+-    keptEdits(root, page, (had) =>
+-      JSON.stringify(had.slice(0, rows.length)) === went ? had.slice(rows.length) : had
+-    )
++    droppedFirst(root, page, unfold.went)
+     return null
+   }
+   putBack(root, page, unfold.patch)
+diff --git a/commands/pages/apply/apply.command.test.ts b/commands/pages/apply/apply.command.test.ts
+index 67c516da95f2cff202889e912f317c7f8b3d0254..9af1fe10673e24a0cdf2cfa0dd81265cf32a29d9 100644
+--- a/commands/pages/apply/apply.command.test.ts
++++ b/commands/pages/apply/apply.command.test.ts
+@@ -138,9 +138,13 @@ function carried(root: string): readonly string[] {
+ }
+ 
+ function foldOf(said: Folded): unknown {
+-  return "refusals" in said
+-    ? said
+-    : { folded: said.folded, dropped: said.dropped, unfold: said.unfold }
++  if ("refusals" in said) return said
++  const unfold = said.unfold
++  return {
++    folded: said.folded,
++    dropped: said.dropped,
++    unfold: unfold === null ? null : { patch: unfold.patch },
++  }
+ }
+ 
+ function landing(root: string, said: Folded): string {
+@@ -162,7 +166,7 @@ test("an edit is drafted into the patch and the rows it came from are kept", asy
+   expect(foldOf(folding(root, PAGE))).toEqual({
+     folded: [ONE],
+     dropped: [],
+-    unfold: { patch: null, rows: [row] },
++    unfold: { patch: null },
+   })
+ 
+   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+@@ -229,9 +233,10 @@ test("a patch the agent already holds takes the folded edits in", async () => {
+   expect(foldOf(folding(root, PAGE))).toEqual({
+     folded: [ONE],
+     dropped: [],
+-    unfold: { patch: was, rows: [row] },
++    unfold: { patch: was },
+   })
+ 
++  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+   expect(carried(root)).toEqual([ONE, TWO])
+ })
+ 
