@@ -1,5 +1,5 @@
 diff --git a/pages/address/page-address.module.ts b/pages/address/page-address.module.ts
-index de1f677f6276590fbe3008b8cb5e39e2de6c31f1..f9a065ec7dac97a14b1ba910366024894c132169 100644
+index de1f677f6276590fbe3008b8cb5e39e2de6c31f1..baafc366c81f3f50b38f66fa5b23662a3061eaf3 100644
 --- a/pages/address/page-address.module.ts
 +++ b/pages/address/page-address.module.ts
 @@ -14,7 +14,11 @@ export const pageAddress = {
@@ -15,7 +15,7 @@ index de1f677f6276590fbe3008b8cb5e39e2de6c31f1..f9a065ec7dac97a14b1ba91036602489
      },
      {
        invariantKind: "departure",
-@@ -30,7 +34,11 @@ export const pageAddress = {
+@@ -30,12 +34,19 @@ export const pageAddress = {
      },
      {
        invariantKind: "departure",
@@ -25,6 +25,16 @@ index de1f677f6276590fbe3008b8cb5e39e2de6c31f1..f9a065ec7dac97a14b1ba91036602489
 +    {
 +      invariantKind: "departure",
 +      statement: "The page reached is read off the caller.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An address naming its parent by a slug is refused.",
      },
      {
        invariantKind: "departure",
+-      statement:
+-        "An address naming its parent by a slug is refused, a slug naming pages of many types.",
++      statement: "A slug names pages of many types.",
+     },
+   ],
+ } as const satisfies Module
