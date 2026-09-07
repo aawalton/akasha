@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-watcher/watcher-settings-lua-block/watcher-settings-lua-block.module.ts b/temper/temper-watcher/watcher-settings-lua-block/watcher-settings-lua-block.module.ts
+index 15858cafdf7b98f22e2930b9f648f408d9359db0..d3b6e12fe1b6d21de59e2d0b3fa42aadefc6cc4a 100644
+--- a/temper/temper-watcher/watcher-settings-lua-block/watcher-settings-lua-block.module.ts
++++ b/temper/temper-watcher/watcher-settings-lua-block/watcher-settings-lua-block.module.ts
+@@ -18,7 +18,7 @@ export const watcherSettingsLuaBlock = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Braces are counted so a nested block does not end the outer one.",
++      statement: "Braces are counted so a nested block does not end the outer block.",
+     },
+     {
+       invariantKind: "departure",
