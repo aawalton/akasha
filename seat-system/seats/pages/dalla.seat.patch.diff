@@ -1,87 +1,100 @@
 writerOwesReading: false
-diff --git a/changes/agent/folder/move-folder-package/move-folder-package.change-checked.code.ts b/changes/agent/folder/move-folder-package/move-folder-package.change-checked.code.ts
-index 131a3635bb8b9380e417e8b97b22df46d5d4f63b..642be9b64d4bb42744078a16f40859aeac382341 100644
---- a/changes/agent/folder/move-folder-package/move-folder-package.change-checked.code.ts
-+++ b/changes/agent/folder/move-folder-package/move-folder-package.change-checked.code.ts
-@@ -6,9 +6,7 @@ import {
-   refusing,
- } from "../../../modules/change-answer/change-answer.module.code.ts"
- import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
--import { type World, worldOver } from "../../../modules/change-shadow/change-shadow.module.code.ts"
--import { renamePage } from "../../file/rename-page/rename-page.change-checked.code.ts"
--import { moveFolder } from "../move-folder/move-folder.change-checked.code.ts"
-+import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
- 
- const PACKAGE = "workspace-package"
- 
-@@ -16,6 +14,10 @@ const AT = "at"
- 
- const TO = "to"
- 
-+const MOVE_FOLDER = "change-checked/move-folder"
-+
-+const RENAME_PAGE = "change-checked/rename-page"
-+
- export type MoveFolderPackageAsked = {
-   readonly at: string
-   readonly to: string
-@@ -34,16 +36,16 @@ export async function moveFolderPackage(
-     return refusing(`\`${given.at}\` names no \`${PACKAGE}\`, so no folder is carried`)
-   }
-   const from = dirname(given.at)
--  const carried = await moveFolder(world, { at: from, to: given.to })
--  if (carried.refused !== null) return carried
-+  const carried = await reach(world, MOVE_FOLDER, { at: from, to: given.to })
-+  if (carried.said.refused !== null) return carried.said
-   const named = basename(given.to)
--  if (named === parted.slug) return carried
--  const said = await renamePage(worldOver(world, carried), {
-+  if (named === parted.slug) return carried.said
-+  const said = await reach(carried.world, RENAME_PAGE, {
-     at: landingFor(given.at, from, given.to),
-     to: named,
-   })
--  if (said.refused !== null) return said
--  return gathered([carried, said])
-+  if (said.said.refused !== null) return said.said
-+  return gathered([carried.said, said.said])
- }
- 
- export type Asked = Readonly<Record<string, string>>
-diff --git a/changes/agent/folder/move-folder-package/move-folder-package.change-checked.test.ts b/changes/agent/folder/move-folder-package/move-folder-package.change-checked.test.ts
-index ed3f22c47f2590de518e2146040b71b839bc3425..b184a4109a00212a21f7abbac08798ed84a3051a 100644
---- a/changes/agent/folder/move-folder-package/move-folder-package.change-checked.test.ts
-+++ b/changes/agent/folder/move-folder-package/move-folder-package.change-checked.test.ts
-@@ -17,6 +17,8 @@ import {
-   type World,
-   worldAt,
- } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-+import { runChange as renamePageChange } from "../../file/rename-page/rename-page.change-checked.code.ts"
-+import { runChange as moveFolderChange } from "../move-folder/move-folder.change-checked.code.ts"
- import {
-   landingFor,
-   moveFolderPackage,
-@@ -77,6 +79,8 @@ const HELD: Readonly<Record<string, string>> = {
- }
- 
- const REACHED = {
-+  "change-checked/move-folder": moveFolderChange,
-+  "change-checked/rename-page": renamePageChange,
-   "change-mechanical-code/change-imports": changeImports,
-   "change-mechanical-code/rename-export": renameExport,
-   "change-mechanical-data/rename-page-slug": renamePageSlug,
-diff --git a/command-system/address-mapping/address-mapping.module.ts b/command-system/address-mapping/address-mapping.module.ts
-index 9a0068f770fb8349c8aff310b0ac019a00d19522..c429447dd1664b6512959d52d72a8f499772691e 100644
---- a/command-system/address-mapping/address-mapping.module.ts
-+++ b/command-system/address-mapping/address-mapping.module.ts
-@@ -59,10 +59,6 @@ export const addressMapping = {
-       invariantKind: "departure",
-       statement: "A shadow that will not cast is said rather than passed over.",
-     },
+diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
+index 6880bbd327bf152d50acc95950b301eccb1f38b8..ba1c2877ef0df855c8c229a549f58aeac2bbdf6e 100644
+--- a/command-system/command-system.workspace-package.ts
++++ b/command-system/command-system.workspace-package.ts
+@@ -66,7 +66,6 @@ export const commandSystem = {
+     "module/command-flags",
+     "module/said-pathing",
+     "module/warrant-owing",
+-    "module/passage-counting",
+     "module/file-arguing",
+     "module/mechanical-filing",
+     "module/change-acting",
+diff --git a/command-system/passage-counting/passage-counting.module.code.ts b/command-system/passage-counting/passage-counting.module.code.ts
+deleted file mode 100644
+index 4aef0d05dcfa6139ed8e29cd242dbf873a753ccc..0000000000000000000000000000000000000000
+--- a/command-system/passage-counting/passage-counting.module.code.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-export function counted(body: string, said: string): number {
+-  let found = 0
+-  let at = body.indexOf(said)
+-  while (at !== -1) {
+-    found += 1
+-    at = body.indexOf(said, at + said.length)
+-  }
+-  return found
+-}
+diff --git a/command-system/passage-counting/passage-counting.module.test.ts b/command-system/passage-counting/passage-counting.module.test.ts
+deleted file mode 100644
+index 0f294166ea4e00426f52f43c4734a7b9de349c2d..0000000000000000000000000000000000000000
+--- a/command-system/passage-counting/passage-counting.module.test.ts
++++ /dev/null
+@@ -1,22 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { counted } from "./passage-counting.module.code.ts"
+-
+-test("a body holding the passage nowhere is answered with none", () => {
+-  expect(counted("held\n", "gone")).toBe(0)
+-})
+-
+-test("a passage in a body once is counted once", () => {
+-  expect(counted("one held two\n", "held")).toBe(1)
+-})
+-
+-test("a passage in a body twice is counted twice", () => {
+-  expect(counted("held and held\n", "held")).toBe(2)
+-})
+-
+-test("a passage is matched as the characters that passage holds rather than as a pattern", () => {
+-  expect(counted("a.c and abc\n", "a.c")).toBe(1)
+-})
+-
+-test("a second occurrence overlapping the first is passed over", () => {
+-  expect(counted("aaaa", "aa")).toBe(2)
+-})
+diff --git a/command-system/passage-counting/passage-counting.module.ts b/command-system/passage-counting/passage-counting.module.ts
+deleted file mode 100644
+index 52b22bb56e317805579a3ee83316c4286da0c78c..0000000000000000000000000000000000000000
+--- a/command-system/passage-counting/passage-counting.module.ts
++++ /dev/null
+@@ -1,38 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const passageCounting = {
+-  id: "01a07bd4-e969-78b4-bff1-0256ba1a2c30",
+-  pageTypeSlug: "module",
+-  slug: "passage-counting",
+-  definition: "how many times a literal passage is in a body",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A passage is matched as the characters that passage holds rather than as a pattern.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The search for the next occurrence opens where the occurrence just counted closes.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A second occurrence overlapping the first is passed over.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A body holding the passage nowhere is counted as zero occurrences.",
+-    },
 -    {
 -      invariantKind: "absence",
--      statement: "No change a command line reaches is in the map.",
+-      statement: "Nothing here reads a file.",
 -    },
-     {
-       invariantKind: "departure",
-       statement: "A page type extending the page type changes are filed under is reached too.",
+-    {
+-      invariantKind: "gap",
+-      statement: "An empty passage is refused by the caller rather than counted here.",
+-    },
+-  ],
+-} as const satisfies Module
