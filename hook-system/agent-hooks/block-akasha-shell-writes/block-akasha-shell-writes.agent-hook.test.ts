@@ -187,8 +187,10 @@ test("a directory made inside akasha is refused", () => {
   expect(said("mkdir -p akasha/held")).toContain(INSIDE)
 })
 
-test("a refusal names the removing command as well as the writing one", () => {
-  expect(said("rm -f akasha/held.domain.ts")).toContain("akasha remove --file-path")
+test("a refusal names the change taking a path away as well as the one carrying a body", () => {
+  const there = said("rm -f akasha/held.domain.ts") ?? ""
+  expect(there).toContain("akasha change add-file")
+  expect(there).toContain("`remove-file` takes the path away")
 })
 
 test("a write outside the guarded roots is let through for the verbs added here", () => {

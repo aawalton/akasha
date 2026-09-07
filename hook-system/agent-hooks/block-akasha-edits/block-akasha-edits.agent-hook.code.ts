@@ -1,6 +1,8 @@
 import { basename, join, resolve } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 import { dataAt, dataIn } from "@akasha/file-system/data-place"
+import { asRecord } from "@akasha/utils-narrow/as-record"
+import { stringAt } from "@akasha/utils-narrow/string-at"
 import { shownIn } from "../../path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 
@@ -73,15 +75,6 @@ export function guardedIn(root: string): Guarded {
   return { pages: settled(root), index: settled(dataIn(root)) }
 }
 
-function fieldOf(held: unknown, name: string): unknown {
-  if (held === null || typeof held !== "object" || Array.isArray(held)) return undefined
-  return (held as Record<string, unknown>)[name]
-}
-
-function texted(held: unknown): string {
-  return typeof held === "string" ? held : ""
-}
-
 export function askedIn(raw: string): Asked | null {
   let payload: unknown
   try {
@@ -89,13 +82,14 @@ export function askedIn(raw: string): Asked | null {
   } catch {
     return null
   }
-  if (payload === null || typeof payload !== "object" || Array.isArray(payload)) return null
-  const input = fieldOf(payload, "tool_input")
-  const named = texted(fieldOf(input, "file_path"))
+  const held = asRecord(payload)
+  if (held === undefined) return null
+  const input = asRecord(held["tool_input"]) ?? {}
+  const named = stringAt(input, "file_path") ?? ""
   return {
-    toolName: texted(fieldOf(payload, "tool_name")),
-    filePath: named === "" ? texted(fieldOf(input, "notebook_path")) : named,
-    from: texted(fieldOf(payload, "cwd")),
+    toolName: stringAt(held, "tool_name") ?? "",
+    filePath: named === "" ? (stringAt(input, "notebook_path") ?? "") : named,
+    from: stringAt(held, "cwd") ?? "",
   }
 }
 
@@ -123,16 +117,20 @@ function refusingPages(toolName: string, shown: string, name: string, held: stri
       `Use Write for those two files — ${bound}`,
     ].join("\n")
   }
-  const body = join(held, `${HOOK_NAME}-${name}`)
   return [
     `${HOOK_NAME}: Write lands on \`${shown}\`, inside this checkout.`,
     commands,
     "",
-    `Put the whole new body in ${body}, then run:`,
+    "Pipe the whole new body into the change, then apply it:",
     "",
-    `  akasha write --file-path ${shown} --content-file ${body} ${why}`,
+    "akasha change add-file <<'ARGS'",
+    `at: ${shown}`,
+    "body ---",
+    "<the whole body>",
+    "---",
+    "ARGS",
     "",
-    `Use Write for that file — ${bound}`,
+    `  akasha apply ${why}`,
   ].join("\n")
 }
 

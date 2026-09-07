@@ -245,11 +245,20 @@ function road(shown: string): readonly string[] {
   return [
     "",
     `  akasha read --file-path ${shown}`,
-    `  akasha write --file-path ${shown} --content-file <body> --message "<what this is for>"`,
-    `  akasha remove --file-path ${shown} --message "<why this goes>"`,
+    `  akasha apply --message "<what this change is for>"`,
     `  akasha restore --file-path ${shown}`,
     "",
-    "Write the body anywhere outside `akasha/` first — a shell write there is not refused.",
+    "A body reaches a change piped in rather than on the command line:",
+    "",
+    "akasha change add-file <<'ARGS'",
+    `at: ${shown}`,
+    "body ---",
+    "<the whole body>",
+    "---",
+    "ARGS",
+    "",
+    "`remove-file` takes the path away, and is handed `at` alone.",
+    "A change keeps the edits it answers, and the apply lands every edit kept.",
     "A restore puts the path back as HEAD holds it, and is the route for undoing drift.",
   ]
 }

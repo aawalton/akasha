@@ -109,7 +109,7 @@ test("an amend is refused, and a plain commit is not this hook's business", () =
 
 test("an amend refusal names the command that lands another commit", () => {
   expect(refusalIn("git commit --amend")).toContain(
-    "To change what a commit says, draft another with `akasha write` and `akasha patch apply`."
+    "To change what a commit says, draft another with `akasha change` and `akasha apply`."
   )
 })
 
@@ -168,11 +168,7 @@ test("a read is stood aside from", () => {
 })
 
 test("an akasha command stands aside, whatever act its words carry", () => {
-  expect(
-    refusalIn(
-      'akasha write --file-path akasha/one.ts --content-file /tmp/one --message "reset the thing"'
-    )
-  ).toBeNull()
+  expect(refusalIn('akasha apply --message "reset the thing"')).toBeNull()
   expect(refusalIn("akasha remove --file-path akasha/one.ts")).toBeNull()
 })
 

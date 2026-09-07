@@ -1,7 +1,7 @@
 import { judgingCalls } from "../../chain-refusal/chain-refusal.module.code.ts"
 import type { GitCall } from "../../git-calls/git-calls.module.code.ts"
 import { gitCallsIn } from "../../git-calls/git-calls.module.code.ts"
-import { ranAsHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
+import { ranAsCommandHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
 import { RUNS_ANOTHER } from "../../shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-destructive-git"
@@ -31,7 +31,7 @@ const TAKE_AWAY = [
 ]
 
 const SAY_AGAIN = [
-  "To change what a commit says, draft another with `akasha write` and `akasha patch apply`.",
+  "To change what a commit says, draft another with `akasha change` and `akasha apply`.",
   HELP,
 ]
 
@@ -236,7 +236,7 @@ export function refusalFor(call: GitCall): string | null {
 export const refusalIn = judgingCalls(gitCallsIn, refusalFor)
 
 export async function ran(): Promise<number> {
-  return await ranAsHook(HOOK, "command", SCOPE, import.meta.path, refusalIn)
+  return await ranAsCommandHook(HOOK, SCOPE, import.meta.path, refusalIn)
 }
 
 if (import.meta.main) process.exit(await ran())

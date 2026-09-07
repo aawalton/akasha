@@ -1,5 +1,6 @@
 import { resolve, sep } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
+import { asRecord } from "@akasha/utils-narrow/as-record"
 
 export const SCOPE_FLAG = "--scope"
 
@@ -62,14 +63,11 @@ export function refusing(reason: string): Answer {
 }
 
 export function payloadIn(raw: string): Record<string, unknown> | null {
-  let held: unknown
   try {
-    held = JSON.parse(raw)
+    return asRecord(JSON.parse(raw)) ?? null
   } catch {
     return null
   }
-  if (held === null || typeof held !== "object" || Array.isArray(held)) return null
-  return held as Record<string, unknown>
 }
 
 export function inputIn(payload: Record<string, unknown>): Record<string, unknown> | null {
@@ -110,6 +108,15 @@ export function guarding(from: string, root: string): boolean {
   if (from.trim() === "") return true
   const at = resolve(from)
   return at === root || at.startsWith(`${root}${sep}`)
+}
+
+export async function ranAsCommandHook(
+  hook: string,
+  scope: readonly string[],
+  at: string,
+  judging: (command: string, from: string, root: string) => string | null
+): Promise<number> {
+  return await ranAsHook(hook, "command", scope, at, judging)
 }
 
 export async function ranAsHook(

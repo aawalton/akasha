@@ -142,14 +142,17 @@ test("an agent that states no name is held apart from one that does", () => {
   expect(holdingIn("   ")).toBe("/var/tmp/unnamed")
 })
 
-test("Write names the write command with its flags filled in", () => {
+test("Write names the change carrying a whole body, and the apply landing it", () => {
   const root = repo()
   const said = judged(root, "akasha/held.ts") ?? ""
-  expect(said).toContain(
-    `akasha write --file-path akasha/held.ts --content-file ${HELD}/block-akasha-edits-held.ts` +
-      ' --message "<what this change is for>"'
-  )
-  expect(said).toContain(`Put the whole new body in ${HELD}/block-akasha-edits-held.ts`)
+  expect(said).toContain("akasha change add-file")
+  expect(said).toContain("at: akasha/held.ts")
+  expect(said).toContain('akasha apply --message "<what this change is for>"')
+})
+
+test("Write names no file the body is staged in", () => {
+  const root = repo()
+  expect(judged(root, "akasha/held.ts")).not.toContain(HELD)
 })
 
 test("Edit names the edit command with both files filled in", () => {
@@ -170,7 +173,7 @@ test("the refusal names the akasha commands rather than a word for them", () => 
 
 test("the refusal bounds itself by naming what it does not reach", () => {
   const root = repo()
-  const said = judged(root, "akasha/held.ts") ?? ""
+  const said = refusalFor(asking("Edit", "akasha/held.ts", root), root, root, HELD) ?? ""
   expect(said).toContain("nothing outside this checkout is refused here")
 })
 
@@ -239,12 +242,12 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
   expect(done.code).toBe(2)
   const said: unknown = JSON.parse(done.out)
   expect(said).toMatchObject({ decision: "block" })
-  expect((said as { reason: string }).reason).toContain("akasha write --file-path akasha/")
+  expect((said as { reason: string }).reason).toContain("at: akasha/")
 })
 
 test("the agent the call came from names the folder the body is staged in", () => {
   const payload = JSON.stringify({
-    tool_name: "Write",
+    tool_name: "Edit",
     tool_input: { file_path: "akasha/hook-system/hook-system.domain.ts" },
     cwd: HERE,
   })

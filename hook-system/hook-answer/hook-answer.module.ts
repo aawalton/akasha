@@ -34,6 +34,10 @@ export const hookAnswer = {
     },
     {
       invariantKind: "departure",
+      statement: "The key a hook over a shell command reads that command under is said here alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A hook's repository root is four folders above the hook's own file.",
     },
     {

@@ -6,7 +6,7 @@ import { refusalFor, refusalIn, SCOPE } from "./block-git-writes.agent-hook.code
 
 const SCRIPT = join(import.meta.dir, "block-git-writes.agent-hook.code.ts")
 
-const COMMANDS = "  akasha write, akasha edit, akasha move, akasha remove"
+const COMMANDS = "  akasha change, akasha apply, akasha edit, akasha move, akasha remove"
 
 const HELP = "Say `akasha --help` for what each takes."
 
@@ -124,9 +124,7 @@ test("every refusal names the hook that made it", () => {
 })
 
 test("an akasha command stands aside, and commits for itself", () => {
-  expect(
-    refusalIn('akasha write --file-path akasha/one.ts --content-file /tmp/one --message "one"')
-  ).toBeNull()
+  expect(refusalIn('akasha apply --message "one"')).toBeNull()
   expect(refusalIn("akasha index refresh")).toBeNull()
 })
 
