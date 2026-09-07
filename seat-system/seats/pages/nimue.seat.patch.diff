@@ -1,21 +1,25 @@
 writerOwesReading: false
 diff --git a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.code.ts b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.code.ts
-index e73e8d19cf1f31d59794f1230daf785ed1d0c62c..cc706ec2b74fc37962c5335220411088cbd170bb 100644
+index e73e8d19cf1f31d59794f1230daf785ed1d0c62c..7c0c7fa608723bc3cf970b39ee635c4829af895d 100644
 --- a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.code.ts
 +++ b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.code.ts
-@@ -1,6 +1,10 @@
+@@ -1,6 +1,14 @@
  import { dirname, join } from "node:path"
  import type { Answering } from "@akasha/indexes/answering"
 -import { type FilePropertiesBy, pathsOf } from "@akasha/indexes/entries"
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
 +import { type FilePropertiesBy, filesClaimedIn } from "@akasha/indexes/entries"
++=======
++import { type FilePropertiesBy, filesClaimedIn, type UncommittedBy } from "@akasha/indexes/entries"
++>>>>>>> what HEAD holds
 +=======
 +import { type FilePropertiesBy, filesClaimedIn, type UncommittedBy } from "@akasha/indexes/entries"
 +>>>>>>> what HEAD holds
  import type { Change } from "@akasha/pages/change"
  import { pageNamed } from "@akasha/pages/page-file-name"
  import { valueIn } from "@akasha/pages/page-value"
-@@ -55,19 +59,25 @@ export function missingFor(
+@@ -55,19 +63,29 @@ export function missingFor(
    change: Change,
    page: string,
    fileProperties: ReadonlyMap<string, string | null>,
@@ -32,7 +36,11 @@ index e73e8d19cf1f31d59794f1230daf785ed1d0c62c..cc706ec2b74fc37962c5335220411088
 -    if (one === page) continue
 -    if (change.after(one) !== null) continue
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
 +  for (const one of filesClaimedIn(value, page, change.root, filedBy)) {
++=======
++  for (const one of filesClaimedIn(value, page, change.root, filedBy, withheld)) {
++>>>>>>> what HEAD holds
 +=======
 +  for (const one of filesClaimedIn(value, page, change.root, filedBy, withheld)) {
 +>>>>>>> what HEAD holds
@@ -46,7 +54,7 @@ index e73e8d19cf1f31d59794f1230daf785ed1d0c62c..cc706ec2b74fc37962c5335220411088
      })
    }
    return said
-@@ -77,9 +87,10 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
+@@ -77,9 +95,10 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
    const pageTypes = shadow.index.pageTypesIn()
    const fileProperties = shadow.index.fileKeysAt()
    const filedBy = shadow.index.filePropertiesAt()
@@ -59,10 +67,10 @@ index e73e8d19cf1f31d59794f1230daf785ed1d0c62c..cc706ec2b74fc37962c5335220411088
    return said
  }
 diff --git a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts
-index 9b4213dd4bbbdb2e54d21dd49ae8f4c3d9b5e27c..e59dd65d61513ce4c019e9404e9277ea1a655486 100644
+index 9b4213dd4bbbdb2e54d21dd49ae8f4c3d9b5e27c..ff466b9ac7913095a7519f20f23f823ec12738e1 100644
 --- a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts
 +++ b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts
-@@ -173,6 +173,48 @@ test("a page named for a page type the change itself carries is judged", () => {
+@@ -173,6 +173,52 @@ test("a page named for a page type the change itself carries is judged", () => {
    ])
  })
  
@@ -84,7 +92,11 @@ index 9b4213dd4bbbdb2e54d21dd49ae8f4c3d9b5e27c..e59dd65d61513ce4c019e9404e9277ea
 +}
 +
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
 +test("a page stating a file its type declares uncommitted is let through though nothing stands there", () => {
++=======
++test("a page stating a file its type declares uncommitted is let through though nothing is there", () => {
++>>>>>>> what HEAD holds
 +=======
 +test("a page stating a file its type declares uncommitted is let through though nothing is there", () => {
 +>>>>>>> what HEAD holds
@@ -112,10 +124,10 @@ index 9b4213dd4bbbdb2e54d21dd49ae8f4c3d9b5e27c..e59dd65d61513ce4c019e9404e9277ea
    const root = rooted(["code"], ["code", "notes"])
    const property = "akasha/x/notes.file-property.ts"
 diff --git a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
-index f9fe81b28b29ae61d51bc0e2fe5282e7e4b13acc..5a341854fb8ad376f269f22feb29b2e22c0df039 100644
+index f9fe81b28b29ae61d51bc0e2fe5282e7e4b13acc..5aa57879c833108250d9dae0110eef192c2edec1 100644
 --- a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
 +++ b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
-@@ -38,6 +38,19 @@ export const pagePropertyHasItsFile = {
+@@ -38,6 +38,23 @@ export const pagePropertyHasItsFile = {
        statement:
          "The body standing at a path the change does not name is answered by the base commit.",
      },
@@ -127,7 +139,11 @@ index f9fe81b28b29ae61d51bc0e2fe5282e7e4b13acc..5a341854fb8ad376f269f22feb29b2e2
 +      invariantKind: "departure",
 +      statement:
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
 +        "Whether a declaration states that is read from the page's own type rather than from the property.",
++=======
++        "Which declaration claims a file is read from the page's own type rather than from the property.",
++>>>>>>> what HEAD holds
 +=======
 +        "Which declaration claims a file is read from the page's own type rather than from the property.",
 +>>>>>>> what HEAD holds
@@ -191,7 +207,7 @@ index 228b6fdca05b29c61ad78576aa561c3a9a40d098..45ed4b60a76fd8fe3a7fa59616de041f
      held?.uncommitted === true,
      beside.sort(),
 diff --git a/pages/indexes/entries/index-entries.module.code.ts b/pages/indexes/entries/index-entries.module.code.ts
-index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c0dd0fc9d 100644
+index a470cd6747317a0ec04b0ea20e84670634095a43..0b01a5349cdea12b53b01fef4f400272f67b8e2d 100644
 --- a/pages/indexes/entries/index-entries.module.code.ts
 +++ b/pages/indexes/entries/index-entries.module.code.ts
 @@ -10,7 +10,7 @@ import {
@@ -212,12 +228,17 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
  export function pageTypesIn(given: string | Reading): ReadonlySet<string> {
    const found = new Set<string>([PAGE_TYPE])
    for (const one of typeSlugsIn(given)) {
-@@ -75,31 +73,79 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string
+@@ -75,31 +73,106 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string
  
  export type IsThere = (at: string) => boolean
  
 -export function pathsOf(
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
++=======
++export type UncommittedBy = ReadonlyMap<string, ReadonlySet<string>>
++
++>>>>>>> what HEAD holds
 +=======
 +export type UncommittedBy = ReadonlyMap<string, ReadonlySet<string>>
 +
@@ -228,10 +249,17 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
 +}
 +
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
 +=======
 +const NONE_WITHHELD: UncommittedBy = new Map()
 +
 +const NO_SLUGS: ReadonlySet<string> = new Set()
++
++>>>>>>> what HEAD holds
++=======
++const NO_SLUGS: ReadonlySet<string> = new Set()
++
++const NONE_WITHHELD: UncommittedBy = new Map()
 +
 +>>>>>>> what HEAD holds
 +export function filesClaimedIn(
@@ -247,13 +275,20 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
 -  const found = [own]
 +  const found: Claimed[] = [{ at: own, uncommitted: false }]
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
    const carried = fileProperties.get(textAt(value, "pageTypeSlug") ?? "")
 +=======
 +  const pageTypeSlug = textAt(value, "pageTypeSlug") ?? ""
 +  const carried = fileProperties.get(pageTypeSlug)
 +>>>>>>> what HEAD holds
-   if (carried === undefined) return found
++  if (carried === undefined) return found
 +  const outside = withheld.get(pageTypeSlug) ?? NO_SLUGS
++=======
++  const type = textAt(value, "pageTypeSlug") ?? ""
++  const carried = fileProperties.get(type)
+   if (carried === undefined) return found
++  const outside = withheld.get(type) ?? NO_SLUGS
++>>>>>>> what HEAD holds
    for (const [key, held] of Object.entries(value)) {
      if (typeof held !== "string") continue
      const propertySlug = slugFor(key)
@@ -270,6 +305,9 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
      if (fileName !== null) {
 -      found.push(join(dirname(own), fileName))
 +      found.push({ at: join(dirname(own), fileName), uncommitted })
++<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
++=======
 +>>>>>>> what HEAD holds
        continue
      }
@@ -287,7 +325,12 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
 +  there: IsThere = () => false
 +): readonly string[] {
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
 +  return filesClaimedIn(value, path, repo, fileProperties, there).map((one) => one.at)
++=======
++  const found = filesClaimedIn(value, path, repo, fileProperties, NONE_WITHHELD, there)
++  return found.map((one) => one.at)
++>>>>>>> what HEAD holds
 +=======
 +  const found = filesClaimedIn(value, path, repo, fileProperties, NONE_WITHHELD, there)
 +  return found.map((one) => one.at)
@@ -297,7 +340,7 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
  export type Beside = {
    readonly held: string
    readonly uncommitted: boolean
-@@ -123,6 +169,8 @@ const EXTENDS = "extendsSlug"
+@@ -123,6 +196,8 @@ const EXTENDS = "extendsSlug"
  
  const FALLBACK = "default"
  
@@ -306,7 +349,7 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
  function declaredIn(value: Value): Sidecars {
    let secret = false
    let uncommitted = false
-@@ -132,7 +180,7 @@ function declaredIn(value: Value): Sidecars {
+@@ -132,7 +207,7 @@ function declaredIn(value: Value): Sidecars {
    for (const one of declared) {
      if (one === null || typeof one !== "object" || Array.isArray(one)) continue
      const held = one as Record<string, unknown>
@@ -315,7 +358,7 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
      if (held["secret"] === true) secret = true
      if (withheld) uncommitted = true
      const slug = held[DECLARES]
-@@ -217,7 +265,7 @@ export function claimsOf(
+@@ -217,7 +292,7 @@ export function claimsOf(
      if (beside !== null) found.push(beside)
    }
    for (const [slug, beside] of held.besides) {
@@ -324,7 +367,7 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
      for (const at of besidesOf(own, slug, beside, there)) {
        if (!found.includes(at)) found.push(at)
      }
-@@ -269,7 +317,12 @@ export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string
+@@ -269,7 +344,12 @@ export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string
    })
  }
  
@@ -338,11 +381,15 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
  
  type Held = {
    readonly pageTypeSlug: string
-@@ -299,19 +352,32 @@ function propertiesAmong(values: Iterable<Value>): ReadonlyMap<string, Held> {
+@@ -299,19 +379,42 @@ function propertiesAmong(values: Iterable<Value>): ReadonlyMap<string, Held> {
    return found
  }
  
++<<<<<<< what this change would leave
 +export type Carrying = {
++=======
++type Carrying = {
++>>>>>>> what HEAD holds
 +  readonly filed: FilePropertiesBy
 +  readonly withheld: UncommittedBy
 +}
@@ -360,20 +407,26 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
    }
 -  const found = new Map<string, ReadonlyMap<string, string | null>>()
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
 +  const found = new Map<string, ReadonlyMap<string, Filed>>()
 +  for (const slug of types.keys()) {
 +    const held = new Map<string, Filed>()
 +=======
++=======
++>>>>>>> what HEAD holds
 +  const filed = new Map<string, ReadonlyMap<string, string | null>>()
 +  const withheld = new Map<string, ReadonlySet<string>>()
    for (const slug of types.keys()) {
      const held = new Map<string, string | null>()
 +    const outside = new Set<string>()
++<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
++=======
 +>>>>>>> what HEAD holds
      const walked = new Set<string>()
      const waiting: string[] = [slug]
      for (let at = 0; at < waiting.length; at += 1) {
-@@ -321,18 +387,29 @@ function carriedBy(
+@@ -321,38 +424,54 @@ function carriedBy(
        const declared = types.get(here)?.[DECLARED]
        for (const one of Array.isArray(declared) ? declared : []) {
          if (one === null || typeof one !== "object" || Array.isArray(one)) continue
@@ -387,10 +440,15 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
 -        if (!held.has(hit.propertySlug)) held.set(hit.propertySlug, hit.fileName)
 +        if (held.has(hit.propertySlug)) continue
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
 +        held.set(hit.propertySlug, {
 +          fileName: hit.fileName,
 +          uncommitted: stated[WITHHELD] === true,
 +        })
++=======
++        held.set(hit.propertySlug, hit.fileName)
++        if (stated[WITHHELD] === true) outside.add(hit.propertySlug)
++>>>>>>> what HEAD holds
 +=======
 +        held.set(hit.propertySlug, hit.fileName)
 +        if (stated[WITHHELD] === true) outside.add(hit.propertySlug)
@@ -407,29 +465,39 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
  }
  
  function filedAmong(given: string | Reading): ReadonlyMap<string, Held> {
-@@ -344,15 +421,16 @@ function filedAmong(given: string | Reading): ReadonlyMap<string, Held> {
-   return found
+-  const found = new Map<string, Held>()
+-  for (const [named, held] of schemaAt(given)) {
+-    const { pageTypeSlug, propertySlug, fileName } = held
+-    found.set(named, { pageTypeSlug, propertySlug, fileName })
+-  }
+-  return found
++  return schemaAt(given)
  }
  
 -export function filePropertiesIn(values: Iterable<Value>): FilePropertiesBy {
 +export function carryingIn(values: Iterable<Value>): Carrying {
    const held = [...values]
-   return carriedBy(propertiesAmong(held), typesAmong(held))
+-  return carriedBy(propertiesAmong(held), typesAmong(held))
++  return carriedBy(propertiesAmong(held), typesAmong(held)).filed
  }
  
 -export function filePropertiesOver(
 -  given: string | Reading,
 -  left: Iterable<Value>
 -): FilePropertiesBy {
++<<<<<<< what this change would leave
 +export function filePropertiesIn(values: Iterable<Value>): FilePropertiesBy {
 +  return carryingIn(values).filed
 +}
 +
 +export function carryingOver(given: string | Reading, left: Iterable<Value>): Carrying {
++=======
++function carryingOver(given: string | Reading, left: Iterable<Value>): Carrying {
++>>>>>>> what HEAD holds
    const held = [...left]
    const properties = new Map(filedAmong(given))
    for (const [named, one] of propertiesAmong(held)) properties.set(named, one)
-@@ -362,12 +440,27 @@ export function filePropertiesOver(
+@@ -362,12 +481,31 @@ export function filePropertiesOver(
    return carriedBy(properties, types)
  }
  
@@ -441,7 +509,11 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..2174e9972b849879fd8002744de2e62c
 +  return carryingOver(given, left).filed
 +}
 +
++<<<<<<< what this change would leave
 +export function carryingAt(given: string | Reading): Carrying {
++=======
++function carryingAt(given: string | Reading): Carrying {
++>>>>>>> what HEAD holds
    return answered(given, "", "which properties each page type holds in a file", (reading) =>
 -    filePropertiesOver(reading, [])
 +    carryingOver(reading, [])
@@ -558,10 +630,10 @@ index ed9c130850c1fa30a6f82475ce8dc4945e9dc716..0d0cbcb258f0237b923ec5ffcd78eb3c
  })
  
 diff --git a/pages/indexes/entries/index-entries.module.ts b/pages/indexes/entries/index-entries.module.ts
-index ba38991574aebbadec245d21adec3831ca0b647f..43b11d4985c27748bc14ae2f50a58253415e5909 100644
+index ba38991574aebbadec245d21adec3831ca0b647f..563ca152fa49948a4dd5e0b425a403ff498b0148 100644
 --- a/pages/indexes/entries/index-entries.module.ts
 +++ b/pages/indexes/entries/index-entries.module.ts
-@@ -103,6 +103,19 @@ export const indexEntries = {
+@@ -103,6 +103,23 @@ export const indexEntries = {
        statement:
          "Which properties a page type holds in a file is answered under that page type alone.",
      },
@@ -569,7 +641,11 @@ index ba38991574aebbadec245d21adec3831ca0b647f..43b11d4985c27748bc14ae2f50a58253
 +      invariantKind: "departure",
 +      statement:
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
 +        "Whether a page type keeps a property's file outside the commit is answered beside that file's name.",
++=======
++        "Which of those properties a page type keeps outside the commit is answered the same way.",
++>>>>>>> what HEAD holds
 +=======
 +        "Which of those properties a page type keeps outside the commit is answered the same way.",
 +>>>>>>> what HEAD holds
