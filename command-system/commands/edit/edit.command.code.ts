@@ -19,6 +19,13 @@ import {
   REMOVE,
   unknownIn,
 } from "../../command-flags/command-flags.module.code.ts"
+import {
+  besideTaken,
+  RESTATED,
+  removingIn,
+  restatedIn,
+  unrestatedFor,
+} from "../../file-arguing/file-arguing.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { defaultMessage } from "../../landing-saying/landing-saying.module.code.ts"
 import { counted } from "../../passage-counting/passage-counting.module.code.ts"
@@ -34,13 +41,6 @@ import {
 } from "../../piping/piping.module.code.ts"
 import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
 import { unwarrantedIn } from "../../warrant-owing/warrant-owing.module.code.ts"
-import {
-  besideTaken,
-  RESTATED,
-  removingIn,
-  restatedIn,
-  unrestatedFor,
-} from "../write/write.command.code.ts"
 
 const OLD_FILE = "--old-file"
 

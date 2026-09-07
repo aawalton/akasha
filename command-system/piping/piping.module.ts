@@ -7,6 +7,7 @@ export const piping = {
   definition: "what a command is handed on standard input",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

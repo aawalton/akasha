@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { ran } from "@akasha/utils-run/running"
 import type { Piping } from "./piping.module.code.ts"
 import { markedLine, markingIn, passagesIn, pipedIn } from "./piping.module.code.ts"
+import { TERMINAL } from "./piping.module.test-fixtures.ts"
 
 const INSTEAD = "`--old-file` and `--new-file`"
 
@@ -65,9 +66,8 @@ test("bytes piped in are handed to whoever wants a body", () => {
 })
 
 test("a terminal and an input holding no byte are both nothing piped in", () => {
-  const terminal: Piping = () => ({ tty: true })
   const empty: Piping = () => ({ bytes: new Uint8Array() })
-  for (const one of [terminal, empty]) {
+  for (const one of [TERMINAL, empty]) {
     const held = pipedIn(one, "akasha/one.ts", SAYING)
     expect("refusals" in held && held.refusals[0]).toBe("nothing is piped in for akasha/one.ts")
   }

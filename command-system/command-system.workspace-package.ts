@@ -66,6 +66,8 @@ export const commandSystem = {
     "module/said-pathing",
     "module/warrant-owing",
     "module/passage-counting",
+    "module/file-arguing",
+    "module/mechanical-filing",
   ],
   invariants: [
     {

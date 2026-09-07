@@ -16,7 +16,8 @@ import {
   wroteWith,
 } from "../../asking/asking.module.test-fixtures.ts"
 import { baseOf as headOf } from "../../landing/landing.module.code.ts"
-import { filing, write, writing } from "./write.command.code.ts"
+import { filing } from "../../mechanical-filing/mechanical-filing.module.code.ts"
+import { write, writing } from "./write.command.code.ts"
 import {
   alsoCommitted,
   readAs,
