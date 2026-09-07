@@ -561,6 +561,7 @@
     "collections/great-courses": {
       "name": "@akasha/great-courses",
       "dependencies": {
+        "@akasha/code": "workspace:*",
         "@akasha/pages-query": "workspace:*",
         "jsdom": "^28.1.0",
       },
