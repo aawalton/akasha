@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-sets/lib-sets-data-casts/lib-sets-data-casts.module.ts b/temper/temper-lib-sets/lib-sets-data-casts/lib-sets-data-casts.module.ts
+index 654fa069197130911e90f9c0b94a160c1d3667d2..830b650ea75783bfb92727eddfaa4ad32fbd5493 100644
+--- a/temper/temper-lib-sets/lib-sets-data-casts/lib-sets-data-casts.module.ts
++++ b/temper/temper-lib-sets/lib-sets-data-casts/lib-sets-data-casts.module.ts
+@@ -9,7 +9,7 @@ export const libSetsDataCasts = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Each cast asserts a shape rather than checking one.",
++      statement: "Each cast asserts a shape rather than checking a shape.",
+     },
+   ],
+ } as const satisfies Module
