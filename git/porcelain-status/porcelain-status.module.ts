@@ -17,7 +17,7 @@ export const porcelainStatus = {
     },
     {
       invariantKind: "departure",
-      statement: "A record is two status columns, a space, and the path.",
+      statement: "A record is two status columns and a space and the path.",
     },
     {
       invariantKind: "departure",
