@@ -1,8 +1,8 @@
-import type { ChangeMechanicalCode } from "../../../code/change-mechanical-code.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
 
 export const renamePropertySignature = {
   id: "01a07718-c9b6-74eb-b71b-e0d52b81f5b7",
-  pageTypeSlug: "change-mechanical-code",
+  pageTypeSlug: "change-mechanical-file-content",
   slug: "rename-property-signature",
   changeModeSlug: "change-mode-rename",
   changeTargetTypeSlug: "change-target-type/file-content",
@@ -13,4 +13,4 @@ export const renamePropertySignature = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
-} as const satisfies ChangeMechanicalCode
+} as const satisfies ChangeMechanicalFileContent

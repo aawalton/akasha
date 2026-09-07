@@ -11,6 +11,6 @@ export const changeMechanicalFileContentRename = {
     "change-mechanical-file-content/rename-local-variable",
     "change-mechanical-data/rename-page-address",
     "change-mechanical-data/rename-page-slug",
-    "change-mechanical-code/rename-property-signature",
+    "change-mechanical-file-content/rename-property-signature",
   ],
 } as const satisfies Domain

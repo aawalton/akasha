@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratch } from "@akasha/indexes/indexing/testing"
 import { worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { renamePropertySignature } from "./rename-property-signature.change-mechanical-code.code.ts"
+import { renamePropertySignature } from "./rename-property-signature.change-mechanical-file-content.code.ts"
 
 afterAll(scratch.sweep)
 
