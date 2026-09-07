@@ -33,3 +33,18 @@ index 3dbe6901374fced105e2012b48450cdbf9f04744..577639a2600b76b93bb3386397e6829b
    return nearer.uncommitted && !further.uncommitted
  }
  
+diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts
+index 7bd974ac10913f3bb498d3b369d3cefd1d3408bf..8fae2a7916b214c756943851df3bb031c4a32600 100644
+--- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts
++++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts
+@@ -36,6 +36,10 @@ export const restatementNarrowsSomething = {
+       invariantKind: "departure",
+       statement: "A value moving out of the commit or out of the open narrows.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A reach moving toward `part-of` narrows.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A declaration is judged against the nearest declaration above that declaration.",
