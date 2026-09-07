@@ -17,7 +17,7 @@ export const alchemyStation = {
     },
     {
       invariantKind: "departure",
-      statement: "Switching mode hides every tab but the one switched to.",
+      statement: "Switching mode hides every tab but the tab switched to.",
     },
     {
       invariantKind: "departure",

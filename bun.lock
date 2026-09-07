@@ -2355,6 +2355,9 @@
     },
     "temper/temper-lib-alchemy-station": {
       "name": "@akasha/temper-lib-alchemy-station",
+      "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
+      },
     },
     "temper/temper-lib-async": {
       "name": "@akasha/temper-lib-async",
