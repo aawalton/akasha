@@ -23,8 +23,27 @@ export const trackingCapture = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Alan saying so, a device measuring, a trace another system left, someone else's word and a weighing are the five captures.",
+      statement: "There are five captures.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Alan saying so is a capture.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A device measuring is a capture.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A trace another system left is a capture.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Someone else's word is a capture.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A weighing is a capture.",
     },
     {
       invariantKind: "gap",
