@@ -1,0 +1,95 @@
+writerOwesReading: false
+diff --git a/changes/modules/change-answer/change-answer.module.code.ts b/changes/modules/change-answer/change-answer.module.code.ts
+index 124cb55bbd37c28ba627732cc729044143136cc6..852b3fd4debb93f6f332477bf95257e817ae0a65 100644
+--- a/changes/modules/change-answer/change-answer.module.code.ts
++++ b/changes/modules/change-answer/change-answer.module.code.ts
+@@ -1,4 +1,17 @@
+-import type { Answer, Edit } from "./change-answer.module.types.ts"
++import type {
++  Adding,
++  Answer,
++  Edit,
++  Moving,
++  Reading,
++  Removing,
++  Replacing,
++  Stated,
++} from "./change-answer.module.types.ts"
++
++export type BodyOf = (path: string) => string | null
++
++export type Expanded = { readonly edit: Edit } | { readonly refused: string }
+ 
+ export function refusing(why: string): Answer {
+   return { edits: [], refused: why }
+@@ -24,6 +37,70 @@ export function moving(from: string, to: string, was: string, body: string): Edi
+   return { path: to, was, body, from }
+ }
+ 
++function readingIn(one: Reading): Reading {
++  const held: { readersOweReading?: boolean; writerOwesReading?: boolean } = {}
++  if (one.readersOweReading !== undefined) held.readersOweReading = one.readersOweReading
++  if (one.writerOwesReading !== undefined) held.writerOwesReading = one.writerOwesReading
++  return held
++}
++
++function addedIn(one: Adding, textOf: BodyOf): Expanded {
++  if (textOf(one.path) !== null) {
++    return { refused: `\`${one.path}\` holds a body already, so nothing is added` }
++  }
++  return { edit: { ...readingIn(one), path: one.path, was: null, body: one.content } }
++}
++
++function replacedIn(one: Replacing, textOf: BodyOf): Expanded {
++  if (one.contentFrom === "") {
++    return { refused: "a passage of no characters names no place in a body" }
++  }
++  const text = textOf(one.path)
++  if (text === null) {
++    return { refused: `\`${one.path}\` holds no body, so no passage is changed` }
++  }
++  const first = text.indexOf(one.contentFrom)
++  if (first < 0) {
++    return { refused: `\`${one.path}\` holds no such passage, so nothing is changed` }
++  }
++  if (text.indexOf(one.contentFrom, first + 1) >= 0) {
++    return { refused: `\`${one.path}\` holds that passage twice or more, and one change works one` }
++  }
++  const shut = first + one.contentFrom.length
++  const body = `${text.slice(0, first)}${one.contentTo}${text.slice(shut)}`
++  if (body === text) {
++    return { refused: `\`${one.path}\` reads the same after this, so this change writes nothing` }
++  }
++  return { edit: { ...readingIn(one), path: one.path, was: text, body } }
++}
++
++function removedIn(one: Removing, textOf: BodyOf): Expanded {
++  const text = textOf(one.path)
++  if (text === null) {
++    return { refused: `\`${one.path}\` holds no body, so nothing is taken away` }
++  }
++  return { edit: { ...readingIn(one), path: one.path, was: text, body: null } }
++}
++
++function movedIn(one: Moving, textOf: BodyOf): Expanded {
++  const text = textOf(one.pathFrom)
++  if (text === null) {
++    return { refused: `\`${one.pathFrom}\` holds no body, so nothing is moved` }
++  }
++  if (textOf(one.pathTo) !== null) {
++    return { refused: `\`${one.pathTo}\` holds a body already, so nothing is moved there` }
++  }
++  const came = one.pathFrom
++  return { edit: { ...readingIn(one), path: one.pathTo, was: text, body: text, from: came } }
++}
++
++export function expanded(one: Stated, textOf: BodyOf): Expanded {
++  if (one.kind === "add") return addedIn(one, textOf)
++  if (one.kind === "replace") return replacedIn(one, textOf)
++  if (one.kind === "remove") return removedIn(one, textOf)
++  return movedIn(one, textOf)
++}
++
+ function under(held: ReadonlyMap<string, Edit>, edit: Edit): Edit | undefined {
+   return held.get(edit.from ?? edit.path)
+ }
