@@ -1,0 +1,41 @@
+diff --git a/pages/access/file-property-defs/file-property-defs.module.code.ts b/pages/access/file-property-defs/file-property-defs.module.code.ts
+index c16810154507b0b3ede830913f399437b4ca181c..21ce5b794a601eb620699f2842f87ff83605973d 100644
+--- a/pages/access/file-property-defs/file-property-defs.module.code.ts
++++ b/pages/access/file-property-defs/file-property-defs.module.code.ts
+@@ -86,9 +86,34 @@ function optionsFrom(value: unknown): readonly SelectOption[] | null {
+ 
+ const DECLARED_BY = "-property"
+ 
++const RENDERED_PLAIN = "text"
++
++const RENDERED_AS: Readonly<Record<string, string>> = {
++  "boolean-property": "boolean",
++  "calendar-date-property": "calendar-date",
++  "calendar-time-property": "calendar-time",
++  "computed-property": RENDERED_PLAIN,
++  "email-address-property": RENDERED_PLAIN,
++  "file-property": RENDERED_PLAIN,
++  "instant-property": "instant",
++  "named-file-property": RENDERED_PLAIN,
++  "number-property": "number",
++  "one-of-property": RENDERED_PLAIN,
++  "page-property-entry": "json",
++  "phone-number-property": RENDERED_PLAIN,
++  "process-property": "json",
++  "rank-property": "number",
++  "record-property": "json",
++  "relation-property": "relation",
++  "select-property": "select",
++  "text-property": RENDERED_PLAIN,
++  "url-property": "url",
++}
++
+ export function renderedType(pageTypeSlug: string): string {
+-  if (!pageTypeSlug.endsWith(DECLARED_BY)) return pageTypeSlug
+-  return pageTypeSlug.slice(0, -DECLARED_BY.length)
++  const named = RENDERED_AS[pageTypeSlug]
++  if (named !== undefined) return named
++  return pageTypeSlug.endsWith(DECLARED_BY) ? RENDERED_PLAIN : pageTypeSlug
+ }
+ 
+ function definitionOf(one: Declaration): PropertyDefinition {
