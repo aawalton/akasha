@@ -110,4 +110,7 @@ export type Changes = {
   "change-mechanical/respell-export": Parameters<
     typeof import("../../../mechanical/pages/respell-export/respell-export.change-mechanical.code.ts")["runChange"]
   >[1]
+  "change-restated/change-page-property-text": Parameters<
+    typeof import("../../../restated/pages/change-page-property-text/change-page-property-text.change-restated.code.ts")["runChange"]
+  >[1]
 }

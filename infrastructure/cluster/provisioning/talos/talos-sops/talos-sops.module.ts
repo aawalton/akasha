@@ -9,7 +9,7 @@ export const talosSops = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A decrypted file is written only under the temporary directory, mode 0600.",
+      statement: "A decrypted file is written only under the temporary directory at mode 0600.",
     },
   ],
 } as const satisfies Module
