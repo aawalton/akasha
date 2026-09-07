@@ -23,6 +23,14 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
+      statement: "One rule rebases bodies onto a commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller holding bodies that came from no patch reaches that rule directly.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A rebase says which paths moved between the patch's base and the commit at HEAD.",
     },
     {
@@ -250,8 +258,11 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path whose readers owe no reading is one line before the first diff header naming that flag and that path.",
+      statement: "A path whose readers owe no reading is one line before the first diff header.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That line names the flag and the path.",
     },
     {
       invariantKind: "departure",
@@ -265,7 +276,7 @@ export const drafting = {
     {
       invariantKind: "departure",
       statement:
-        "A path drafted into twice leaves its readers owing the reading where one draft of the two left those readers owing the reading.",
+        "A path drafted into twice leaves its readers owing the reading where either draft did.",
     },
     {
       invariantKind: "departure",

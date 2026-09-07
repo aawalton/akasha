@@ -12,7 +12,16 @@ import { writtenAgain } from "../../address-mapping/address-mapping.module.code.
 import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { MESSAGE, MESSAGE_FILE, unknownIn } from "../../command-flags/command-flags.module.code.ts"
-import { type Draft, drafted, putBack, type Running } from "../../drafting/drafting.module.code.ts"
+import {
+  type Bodies,
+  type Body,
+  type Draft,
+  drafted,
+  putBack,
+  type Rebased,
+  type Running,
+  rebasedHeld,
+} from "../../drafting/drafting.module.code.ts"
 import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
 import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
 import { editsFor, noPageSaid, waitingSaid } from "../change/change.command.code.ts"
@@ -115,15 +124,35 @@ export function unwarranted(
   )
 }
 
+export function heldOf(drafts: readonly Draft[]): Bodies {
+  const held = new Map<string, Body>()
+  for (const one of drafts) {
+    held.set(one.path, { was: one.was, body: one.body, readersOweReading: one.readersOweReading })
+  }
+  return held
+}
+
+export function rebasedRows(
+  root: string,
+  base: string,
+  rows: readonly Edit[]
+): Rebased | { readonly why: string } {
+  return rebasedHeld(root, base, heldOf(draftsOf(formattedEdits(root, rows))))
+}
+
 async function refusedBefore(root: string, page: string): Promise<readonly string[]> {
   const kept = keptEdits(root, page, (had) => had)
   if ("why" in kept) return [kept.why]
   if (kept.rows.length === 0) return []
+  const base = baseOf(root)
+  const rebased = rebasedRows(root, base, kept.rows)
+  if ("why" in rebased) return [rebased.why]
+  if (rebased.clashed.length > 0) return []
   const built = gateBuilt(root)
   if ("broken" in built) return [`no check ran — the checks would not load: ${built.broken}`]
   const change = changeOf(root, {
-    base: baseOf(root),
-    edits: editsFor(formattedEdits(root, kept.rows)),
+    base,
+    edits: [...rebased.held].map(([path, one]) => ({ path, body: one.body })),
   })
   const said = await built.gate.over(change)
   return said.map((one) => `${one.path} — ${one.reason}`)

@@ -10,10 +10,11 @@ import {
   editsIn,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { drafted } from "../../drafting/drafting.module.code.ts"
+import { baseOf } from "../../landing/landing.module.code.ts"
 import { blobsIn, refFor } from "../../patching/patching.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { writing as putting } from "../../scratching/scratching.module.test-fixtures.ts"
-import { draftsOf, folding, undone, unwarranted } from "./apply.command.code.ts"
+import { draftsOf, folding, rebasedRows, undone, unwarranted } from "./apply.command.code.ts"
 
 const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 
@@ -27,9 +28,21 @@ const WAS = "a\nb\nc\n"
 
 const NOW = "a\nB\nc\n"
 
+const NOTES = "akasha/notes.txt"
+
+const THREE = "a\nb\nc\n"
+
+const MINE = "a\nB\nc\n"
+
+const FOUR = "a\nb\nc\nd\n"
+
+const BOTH = "a\nB\nc\nd\n"
+
 const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=false"]
 
 const BYTES = new TextEncoder()
+
+const TEXT = new TextDecoder()
 
 const scratch = scratchWorld()
 
@@ -48,6 +61,31 @@ test("a row saying nothing of its writer is carried to the warrant", async () =>
   const rows = [{ path: ONE, was: null, body: WAS }]
   expect(() => unwarranted(root, "tester", rows)).toThrow("is not there")
 })
+
+test("a row worked out from an older body is judged as merged onto the commit at HEAD", async () => {
+  const root = await repo()
+  await committing(root, NOTES, THREE)
+  const rows = [{ path: NOTES, was: THREE, body: MINE }]
+  await committing(root, NOTES, FOUR)
+  const said = rebasedRows(root, baseOf(root), rows)
+  if ("why" in said) throw new Error(said.why)
+  expect(TEXT.decode(said.held.get(NOTES)?.body ?? new Uint8Array())).toBe(BOTH)
+})
+
+test("a row worked out from the body at HEAD is judged as that row states", async () => {
+  const root = await repo()
+  await committing(root, NOTES, FOUR)
+  const rows = [{ path: NOTES, was: FOUR, body: MINE }]
+  const said = rebasedRows(root, baseOf(root), rows)
+  if ("why" in said) throw new Error(said.why)
+  expect(TEXT.decode(said.held.get(NOTES)?.body ?? new Uint8Array())).toBe(MINE)
+})
+
+async function committing(root: string, path: string, body: string): Promise<undefined> {
+  await putting(root, path, body)
+  gitSaid(root, ["add", "--", path])
+  gitSaid(root, [...WHO, "commit", "-q", "-m", path, "--", path])
+}
 
 async function repo(): Promise<string> {
   const root = scratch.rootFor("akasha-apply-")

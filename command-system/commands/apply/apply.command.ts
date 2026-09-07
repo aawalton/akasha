@@ -112,6 +112,22 @@ export const apply = {
       statement: "The patch is applied by the act `akasha patch apply` runs.",
     },
     {
+      invariantKind: "departure",
+      statement: "The checks run before the fold judge the bodies the apply would write.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row worked out from an older body is merged onto the commit at HEAD first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That merge is the merge the apply itself makes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A merge that clashes runs no check here and is refused by the apply.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here lands.",
     },

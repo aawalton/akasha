@@ -201,12 +201,11 @@ function followed(root: string, head: string, path: string): string {
   return at
 }
 
-export function rebasedOnto(
+export function rebasedHeld(
   root: string,
   head: string,
-  patch: string | null
+  carried: Bodies
 ): Rebased | { readonly why: string } {
-  const carried = heldIn(root, patch)
   const next: Held = new Map()
   const moved: string[] = []
   for (const [where, one] of carried) {
@@ -231,6 +230,14 @@ export function rebasedOnto(
     next.set(path, { was: now, body: said.body, readersOweReading: one.readersOweReading })
   }
   return { held: next, moved: moved.sort(), clashed: clashedIn(next) }
+}
+
+export function rebasedOnto(
+  root: string,
+  head: string,
+  patch: string | null
+): Rebased | { readonly why: string } {
+  return rebasedHeld(root, head, heldIn(root, patch))
 }
 
 function folded(held: Bodies, drafts: readonly Draft[], running: Running): Worked {
