@@ -1,4 +1,28 @@
-readersOweReading: false
+readersOweReading: false temper/temper-trading-addon/trading-sell-helper/trading-sell-helper.module.ts
+diff --git a/bun.lock b/bun.lock
+index da6edc2840d9cc6997d3156079731f30b0aaf902..addd66d383e9b11e7ab934c868c9bec4c910f5a8 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -2734,6 +2734,7 @@
+     "temper/temper-trading-addon": {
+       "name": "@akasha/temper-trading-addon",
+       "dependencies": {
++        "@akasha/code-system": "workspace:@akasha/code@*",
+         "@akasha/temper-addon-init": "workspace:*",
+         "@akasha/temper-addon-library-types": "workspace:*",
+         "@akasha/temper-capture-perf": "workspace:*",
+diff --git a/temper/temper-trading-addon/package.json b/temper/temper-trading-addon/package.json
+index 1f1179e58948ee53f93ae9ce816732a03934527e..dbbaa68983b49aef8b7eb429ae3dab6bd99df222 100644
+--- a/temper/temper-trading-addon/package.json
++++ b/temper/temper-trading-addon/package.json
+@@ -24,6 +24,7 @@
+     "./trading-entry": "./trading-entry/trading-entry.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/temper-addon-init": "workspace:*",
+     "@akasha/temper-addon-library-types": "workspace:*",
+     "@akasha/temper-capture-perf": "workspace:*",
 diff --git a/temper/temper-trading-addon/trading-sell-helper/trading-sell-helper.module.ts b/temper/temper-trading-addon/trading-sell-helper/trading-sell-helper.module.ts
 index 4a46b4a78b0d8293a34ea40233bd9ab54ed27cc6..454796c5dc74ba8de166f594e9c66e5b3dbc2555 100644
 --- a/temper/temper-trading-addon/trading-sell-helper/trading-sell-helper.module.ts
