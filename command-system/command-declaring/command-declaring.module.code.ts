@@ -50,17 +50,8 @@ export interface HelpExit {
   readonly meaning: string
 }
 
-export type VerdictDisposition = "emits"
-
-export type ReadingDisposition = "emits"
-
-export type Irreversibility = "irreversible"
-
 export interface CommandHelp {
   readonly description?: string
-  readonly verdict?: VerdictDisposition
-  readonly reading?: ReadingDisposition
-  readonly irreversible?: Irreversibility
   readonly positionals?: readonly HelpPositional[]
   readonly flags?: readonly HelpFlag[]
   readonly mutuallyExclusive?: readonly (readonly string[])[]
