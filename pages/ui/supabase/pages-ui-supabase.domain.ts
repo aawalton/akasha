@@ -25,6 +25,7 @@ export const pagesUiSupabase = {
     "module/use-reader-neighbors",
     "module/use-record-page-view",
     "module/use-referrers",
+    "module/use-complete-page-optimistic",
     "module/use-set-property-optimistic",
     "module/use-subpages",
     "module/use-view-callbacks",

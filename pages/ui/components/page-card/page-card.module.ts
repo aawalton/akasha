@@ -6,4 +6,19 @@ export const pageCard = {
   slug: "page-card",
   definition: "a page shown as a card with its icon, title, cover and properties",
   code: "tsx",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A card whose page type carries a completion draws a circle where its icon goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The keys the circle reads and writes come from the page type rather than the card.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type carrying no completion draws its icon and no circle.",
+    },
+  ],
 } as const satisfies Module

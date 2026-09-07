@@ -1,6 +1,7 @@
 "use client"
 
 import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
+import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { pageRowToPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
 import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
@@ -22,11 +23,13 @@ export interface BareListingCardContext {
   readonly makeRelationHref: (rowId: string, rowHref: string) => (propertyId: string) => string
   readonly onIconChange: (pageId: string, icon: IconName) => void
   readonly onPropertyChange: (pageId: string, propId: string, value: unknown) => void
+  readonly onComplete?: (page: PageRow, atMs: number | null) => void
   readonly onDelete: (pageId: string) => void
   readonly onToggleFavorite?: (pageId: string, value: number | null) => void
 }
 
 export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext): ReactElement {
+  const completion = completionShapeOf(ctx.pageTypeSlug)
   const rowHref = ctx.buildRowHref(page)
   const { _id: id, ...rest } = page
   const fill = ctx.rowAggregates.get(id)
@@ -56,7 +59,8 @@ export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext
       onPropertyChange={(propId, value) => ctx.onPropertyChange(id, propId, value)}
       pageHref={ctx.pageHrefById}
       relationHref={ctx.makeRelationHref(id, rowHref)}
-      onComplete={(value) => ctx.onPropertyChange(id, "completedAt", value)}
+      completion={completion}
+      onComplete={ctx.onComplete != null ? (value) => ctx.onComplete?.(page, value) : undefined}
       onDelete={() => ctx.onDelete(id)}
       onToggleFavorite={
         ctx.onToggleFavorite != null ? (value) => ctx.onToggleFavorite?.(id, value) : undefined

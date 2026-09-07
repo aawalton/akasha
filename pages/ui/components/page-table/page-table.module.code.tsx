@@ -12,6 +12,7 @@ import {
   TableHeader,
   TableRow,
 } from "@akasha/design-primitives/table"
+import { type CompletionShape, readsAsDone } from "@akasha/pages-core/task-lifecycle"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
 import { orderTableColumns } from "@akasha/pages-ui-components/card-property-columns"
@@ -130,6 +131,7 @@ interface PageTableRowCellsProps {
   relationHref?: (propertyId: string) => string
   onPropertyChange?: (propertyId: string, value: unknown, eventTimeStamp?: number) => void
   onCreateOption?: (propertyId: string, label: string) => void
+  completion?: CompletionShape | null
   onComplete?: (value: number | null) => void
   isFavorite?: boolean
   onToggleFavorite?: (value: number | null) => void
@@ -145,6 +147,7 @@ export function PageTableRowCells({
   relationHref,
   onPropertyChange,
   onCreateOption,
+  completion,
   onComplete,
   isFavorite,
   onToggleFavorite,
@@ -154,9 +157,8 @@ export function PageTableRowCells({
   const resolvedTitle = data.title != null ? String(data.title) : "Untitled"
   const displayTitle = expandDateMentions(resolvedTitle)
   const iconName = data.icon != null ? String(data.icon) : null
-  const hasCompletedAtDef = definitions.some((d) => d.id === "completedAt")
-  const isCompleted = data.completedAt != null
-  const showCompletionToggle = Boolean(onComplete) && hasCompletedAtDef
+  const isCompleted = completion != null && readsAsDone(completion, data)
+  const showCompletionToggle = Boolean(onComplete) && completion != null
   const showActions = onToggleFavorite != null || onDelete != null
 
   return (
@@ -173,7 +175,12 @@ export function PageTableRowCells({
                   type="button"
                   aria-label={isCompleted ? "Uncomplete" : "Complete"}
                   className="shrink-0 cursor-pointer text-tertiary transition-colors hover:text-primary"
-                  onClick={() => onComplete?.(isCompleted ? null : Date.now())}
+                  onClick={(e) => {
+                    e.stopPropagation()
+                    e.preventDefault()
+                    e.nativeEvent.stopImmediatePropagation()
+                    onComplete?.(isCompleted ? null : Date.now())
+                  }}
                 >
                   {isCompleted ? (
                     <CheckCircle2 className="size-4 text-success" />

@@ -105,6 +105,7 @@
     "./supabase/use-reader-neighbors": "./supabase/use-reader-neighbors/use-reader-neighbors.module.code.ts",
     "./supabase/use-record-page-view": "./supabase/use-record-page-view/use-record-page-view.module.code.ts",
     "./supabase/use-referrers": "./supabase/use-referrers/use-referrers.module.code.ts",
+    "./supabase/use-complete-page-optimistic": "./supabase/use-complete-page-optimistic/use-complete-page-optimistic.module.code.tsx",
     "./supabase/use-set-property-optimistic": "./supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx",
     "./supabase/use-subpages": "./supabase/use-subpages/use-subpages.module.code.ts",
     "./supabase/use-view-callbacks": "./supabase/use-view-callbacks/use-view-callbacks.module.code.ts",

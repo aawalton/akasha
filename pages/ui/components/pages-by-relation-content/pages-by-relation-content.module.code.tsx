@@ -1,10 +1,13 @@
 "use client"
 
 import type { ViewConfig } from "@akasha/pages-core/schema/view-data"
+import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
+import { useCompletePageOptimistic } from "@akasha/pages-ui/supabase/use-complete-page-optimistic"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { viewConfigToListingParams } from "@akasha/pages-ui-components/synthetic-config"
+import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import { buildPageListingHref } from "@akasha/pages-url/page-listing-href"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback } from "react"
@@ -97,6 +100,17 @@ export function PagesFilteredContent({
 
   const { notesProperty, notesPropertyOptions } = useNotesViewProps(effectiveConfig, properties)
 
+  const completePage = useCompletePageOptimistic()
+  const completion = completionShapeOf(pageTypeSlug)
+
+  const handleComplete = useCallback(
+    (page: PageRow, atMs: number | null) => {
+      if (completion === null) return
+      completePage({ pageTypeSlug, pageId: page._id, shape: completion, values: page, atMs })
+    },
+    [completePage, completion, pageTypeSlug]
+  )
+
   const loading = pageTypesLoading || !targetPageType
 
   return (
@@ -164,6 +178,7 @@ export function PagesFilteredContent({
                 makeRelationHref,
                 onIconChange: handleIconChange,
                 onPropertyChange: handlePropertyChange,
+                onComplete: handleComplete,
                 onDelete: handleDeletePage,
                 onToggleFavorite: handleToggleFavorite,
               })

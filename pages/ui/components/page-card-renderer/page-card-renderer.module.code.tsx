@@ -1,6 +1,7 @@
 "use client"
 
 import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
+import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { type GalleryCardSize, resolveGalleryCoverUrl } from "@akasha/pages-core/view/gallery"
 import { getCoverClickHandler } from "@akasha/pages-ui/cover-click/cover-click-registry"
@@ -33,7 +34,7 @@ interface PageCardRendererProps {
     value: unknown,
     eventTimeStamp?: number
   ) => void
-  onCompletedAtChange?: (pageId: string, value: unknown) => void
+  onComplete?: (page: PageRow, atMs: number | null) => void
   onCreateOption?: (
     pageId: string,
     pageData: PageDataJSON,
@@ -60,7 +61,7 @@ export function PageCardRenderer({
   pageTypePluralSlugById,
   onIconChange,
   onPropertyChange,
-  onCompletedAtChange,
+  onComplete,
   onCreateOption,
   onDelete,
   onToggleFavorite,
@@ -69,6 +70,7 @@ export function PageCardRenderer({
   notesProperty,
   coverActionCapability,
 }: PageCardRendererProps) {
+  const completion = rowPageTypeSlug == null ? null : completionShapeOf(rowPageTypeSlug)
   const viewRowHref = buildRowHref(rowPageTypeSlug, page)
   const rowHref = viewRowHref !== "" ? viewRowHref : pageHrefById(page._id)
   const coverUrl =
@@ -121,9 +123,8 @@ export function PageCardRenderer({
               onPropertyChange(id, propertyId, value, eventTimeStamp)
           : undefined
       }
-      onComplete={
-        onCompletedAtChange != null ? (value) => onCompletedAtChange(id, value) : undefined
-      }
+      completion={completion}
+      onComplete={onComplete != null ? (value) => onComplete(page, value) : undefined}
       onCreateOption={
         onCreateOption != null
           ? (propertyId, label) => onCreateOption(id, pageData, propertyId, label)

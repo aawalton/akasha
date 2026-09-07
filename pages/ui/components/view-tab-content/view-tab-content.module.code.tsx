@@ -3,12 +3,15 @@
 import { parseListingConfig } from "@akasha/pages-core/schema/listing-config"
 import { isLocked, isPageTypeLocked, type ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import type { LockedFacet } from "@akasha/pages-core/schema/view-data-locked"
+import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
 import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
+import { useCompletePageOptimistic } from "@akasha/pages-ui/supabase/use-complete-page-optimistic"
 import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { pageRowToPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
 import { useReorderViewWiring } from "@akasha/pages-ui-components/use-reorder-view-wiring"
+import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import type { PageTypeOption } from "@akasha/pages-ui-components/view-settings-options"
 import {
   buildRelationBackLinkHref,
@@ -76,6 +79,7 @@ export function ViewTabContent({
   })
 
   const setProperty = useSetPropertyOptimistic()
+  const completePage = useCompletePageOptimistic()
   const userId = useUserId()
 
   const {
@@ -136,6 +140,19 @@ export function ViewTabContent({
 
   const coverActionCapability = parseListingConfig(effectivePageType?.properties?.listingConfig)
     ?.coverAction?.capability
+
+  const completion = rowPageTypeSlug == null ? null : completionShapeOf(rowPageTypeSlug)
+
+  const handleComplete = (page: PageRow, atMs: number | null) => {
+    if (completion === null || rowPageTypeSlug == null) return
+    completePage({
+      pageTypeSlug: rowPageTypeSlug,
+      pageId: page._id,
+      shape: completion,
+      values: page,
+      atMs,
+    })
+  }
 
   return (
     <SupabasePageResolverProvider
@@ -232,11 +249,7 @@ export function ViewTabContent({
             onPropertyChange={
               isLocked(effectiveConfig, "editRowValues") ? undefined : handlePropertyChange
             }
-            onCompletedAtChange={
-              isLocked(effectiveConfig, "editRowValues")
-                ? undefined
-                : (pageId, value) => handlePropertyChange(pageId, "completedAt", value)
-            }
+            onComplete={isLocked(effectiveConfig, "editRowValues") ? undefined : handleComplete}
             onCreateOption={
               isLocked(effectiveConfig, "editRowValues") ? undefined : handleCreateOption
             }
@@ -267,10 +280,11 @@ export function ViewTabContent({
                   ? undefined
                   : (propertyId, label) => handleCreateOption(id, pageData, propertyId, label)
               }
+              completion={completion}
               onComplete={
                 isLocked(effectiveConfig, "editRowValues")
                   ? undefined
-                  : (value) => handlePropertyChange(id, "completedAt", value)
+                  : (value) => handleComplete(page, value)
               }
               isFavorite={pageData.favoritedAt != null}
               onToggleFavorite={(value) => handleToggleFavorite(id, value)}
