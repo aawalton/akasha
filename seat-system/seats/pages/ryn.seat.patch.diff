@@ -1,0 +1,24 @@
+diff --git a/bun.lock b/bun.lock
+index 7e171e39a6102158aad010f65db5f220fdfe9802..96ae87aef71314fe401b23eb2b497df25328ea62 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -578,6 +578,7 @@
+       "dependencies": {
+         "@akasha/agents": "workspace:*",
+         "@akasha/analysis-complexity": "workspace:*",
++        "@akasha/code": "workspace:*",
+         "@akasha/errors-core": "workspace:*",
+         "@akasha/inference-clients": "workspace:*",
+         "@akasha/inference-runs": "workspace:*",
+diff --git a/command-system/package.json b/command-system/package.json
+index 184ac6b44ebc2455fdcd800a77dc59396a00058e..0cc0aaf519afc6ce4c49ea3538b06806d88db10d 100644
+--- a/command-system/package.json
++++ b/command-system/package.json
+@@ -36,6 +36,7 @@
+     "./commands-served": "./commands-served/commands-served.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/code": "workspace:*",
+     "@akasha/seat-system": "workspace:*",
+     "@akasha/agents": "workspace:*",
+     "@akasha/analysis-complexity": "workspace:*",
