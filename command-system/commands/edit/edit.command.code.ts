@@ -30,12 +30,10 @@ import {
   passagesIn,
   pipedIn,
 } from "../../piping/piping.module.code.ts"
+import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
 import {
-  barredIn,
   besideTaken,
   defaultMessage,
-  offRepo,
-  pathAt,
   RESTATED,
   removingIn,
   restatedIn,

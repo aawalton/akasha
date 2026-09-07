@@ -44,7 +44,7 @@ import { formattedSaid } from "../../landing-saying/landing-saying.module.code.t
 import { added, type Blobs, blobsIn, deleted } from "../../patching/patching.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
 import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
-import { offRepo, pathAt } from "../write/write.command.code.ts"
+import { offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
 
 export const APPLY = "apply"
 

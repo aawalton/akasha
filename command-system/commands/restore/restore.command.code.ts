@@ -5,7 +5,7 @@ import { type Answer, answering, type Given } from "../../calling/calling.module
 import { FILE_PATH } from "../../command-flags/command-flags.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
 import { saidBy } from "../../fault-saying/fault-saying.module.code.ts"
-import { offRepo, pathAt } from "../write/write.command.code.ts"
+import { offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
 
 const HEAD = "HEAD"
 

@@ -1,5 +1,5 @@
-import { existsSync, statSync } from "node:fs"
-import { isAbsolute, join, relative, resolve } from "node:path"
+import { existsSync } from "node:fs"
+import { join, resolve } from "node:path"
 import { changingOf, owedIn } from "@akasha/context/warranting"
 import { besideAll } from "@akasha/pages/page-beside"
 import {
@@ -29,14 +29,11 @@ import { baseOf } from "../../landing/landing.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
 import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
 import { unrestatedIn } from "../../restating/restating.module.code.ts"
+import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
 
 export const RESTATED = "--restated"
 
 export const RESTATED_KIND = "change-restated"
-
-export const GIT_DIR = ".git"
-
-const PARTED_BY = "/"
 
 export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
@@ -78,36 +75,6 @@ export function unrestatedFor(given: Given, changes: readonly FileEdit[]): reado
   return unrestatedIn(
     given.root,
     changes.map((one) => ({ path: one.path, was: wasAt(given.root, one.path), now: one.body }))
-  )
-}
-
-export function pathAt(root: string, said: string): string | null {
-  const full = isAbsolute(said) ? resolve(said) : resolve(root, said)
-  const rel = relative(resolve(root), full)
-  if (rel === "" || isAbsolute(rel) || rel.startsWith("..")) return null
-  return rel
-}
-
-export function offRepo(said: string): string {
-  return (
-    `\`${said}\` is no path inside the repository — a path is read against the repository root, ` +
-    "and this takes nothing from outside the repository"
-  )
-}
-
-export function barredIn(root: string, path: string): string | null {
-  if (path === GIT_DIR || path.startsWith(`${GIT_DIR}${PARTED_BY}`)) {
-    return (
-      `${path} is inside \`${GIT_DIR}/\`, which holds the repository itself rather than ` +
-      "anything the repository says"
-    )
-  }
-  if (path.includes(PARTED_BY)) return null
-  const at = join(root, path)
-  if (!existsSync(at) || !statSync(at).isDirectory()) return null
-  return (
-    `${path} is a folder at the top of the repository — name what is inside it, so no one call ` +
-    "takes a whole tree away by a slip of the keyboard"
   )
 }
 

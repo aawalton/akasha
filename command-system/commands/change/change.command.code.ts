@@ -43,8 +43,8 @@ import { MESSAGE, unknownIn } from "../../command-flags/command-flags.module.cod
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { inputIn, type Piping } from "../../piping/piping.module.code.ts"
+import { offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
 import type { Taking } from "../properties/taking.record-property.ts"
-import { offRepo, pathAt } from "../write/write.command.code.ts"
 import { change as changePage } from "./change.command.ts"
 
 const NO_PAGE = "this call names no agent whose page the edits would be kept beside"

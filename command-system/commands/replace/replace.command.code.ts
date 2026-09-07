@@ -32,14 +32,9 @@ import {
   passagesIn,
   pipedIn,
 } from "../../piping/piping.module.code.ts"
+import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
 import { counted as countedIn } from "../edit/edit.command.code.ts"
-import {
-  barredIn,
-  defaultMessage,
-  offRepo,
-  pathAt,
-  unwarrantedIn,
-} from "../write/write.command.code.ts"
+import { defaultMessage, unwarrantedIn } from "../write/write.command.code.ts"
 
 const OLD_FILE = "--old-file"
 

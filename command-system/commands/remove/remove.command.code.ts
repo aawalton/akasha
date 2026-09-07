@@ -21,7 +21,7 @@ import {
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import { dropReadings } from "../../reading/reading.module.code.ts"
-import { barredIn, GIT_DIR, offRepo, pathAt } from "../write/write.command.code.ts"
+import { barredIn, GIT_DIR, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
 import { manifestingFor, manifestingSaid } from "./manifesting/remove-manifesting.module.code.ts"
 import type { Span } from "./workspacing/remove-workspacing.module.code.ts"
 import {

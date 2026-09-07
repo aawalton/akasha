@@ -10,7 +10,7 @@ import {
   uncommittedHeld,
 } from "@akasha/pages/page-file-name"
 import { namingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { pathAt } from "../../write/write.command.code.ts"
+import { pathAt } from "../../../said-pathing/said-pathing.module.code.ts"
 import type { Renaming } from "../renaming/move-renaming.module.code.ts"
 import { besideRenamed, renamingFor } from "../renaming/move-renaming.module.code.ts"
 import type { Pair } from "../spreading/move-spreading.module.code.ts"
