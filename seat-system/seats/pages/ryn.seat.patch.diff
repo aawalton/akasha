@@ -1,0 +1,17 @@
+diff --git a/mathematics/propositions/proposition.page-type.ts b/mathematics/propositions/proposition.page-type.ts
+index d6cb9838ad71b517456f750067564084c9dee334..207990e6b75c2e789279d1229c9c1d427e89af29 100644
+--- a/mathematics/propositions/proposition.page-type.ts
++++ b/mathematics/propositions/proposition.page-type.ts
+@@ -38,7 +38,11 @@ export const proposition = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An adopted proposition is chosen rather than proved, and carries no proof.",
++      statement: "An adopted proposition is chosen rather than proved.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An adopted proposition carries no proof.",
+     },
+     {
+       invariantKind: "absence",
