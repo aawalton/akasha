@@ -3,6 +3,7 @@ import {
   CNPG_POSTGRES_PRIMARY_LABELS,
   colocationAffinityPreferred,
 } from "@akasha/k8s-types/hostnames"
+import { synthNamespaceServiceDeployment } from "@akasha/k8s-types/manifest-composing"
 
 const NAMESPACE = "gotrue"
 const APP_NAME = "gotrue"
@@ -31,17 +32,6 @@ const NAMESPACE_LABELS = {
 } as const
 
 const COMMAND_SCRIPT = ['export GOTRUE_DB_DATABASE_URL="$DATABASE_URL"', "exec auth", ""].join("\n")
-
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: {
-      name: NAMESPACE,
-      labels: NAMESPACE_LABELS,
-    },
-  })
-}
 
 function serviceYaml(): string {
   return synthOne(NAMESPACE, "gotrue-service", {
@@ -200,9 +190,5 @@ function deploymentYaml(): string {
 }
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
-  return [
-    { name: "namespace", yaml: namespaceYaml() },
-    { name: "service", yaml: serviceYaml() },
-    { name: "deployment", yaml: deploymentYaml() },
-  ]
+  return synthNamespaceServiceDeployment(NAMESPACE, NAMESPACE_LABELS, serviceYaml, deploymentYaml)
 }

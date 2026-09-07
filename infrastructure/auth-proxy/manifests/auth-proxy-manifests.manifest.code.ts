@@ -1,5 +1,6 @@
 import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { HOSTNAME_KEY, workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
+import { synthNamespaceDeploymentService } from "@akasha/k8s-types/manifest-composing"
 
 const NAMESPACE = "auth-proxy"
 const APP_NAME = "auth-proxy"
@@ -120,17 +121,6 @@ const CORS_ALLOWED_ORIGINS_VALUE = [
   "https://dev.archiveofworlds.app",
   "https://smilingjenny.me",
 ].join(",")
-
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: {
-      name: NAMESPACE,
-      labels: NAMESPACE_LABELS,
-    },
-  })
-}
 
 function deploymentYaml(): string {
   return synthOne(NAMESPACE, "deployment", {
@@ -265,9 +255,5 @@ function serviceYaml(): string {
 }
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
-  return [
-    { name: "namespace", yaml: namespaceYaml() },
-    { name: "deployment", yaml: deploymentYaml() },
-    { name: "service", yaml: serviceYaml() },
-  ]
+  return synthNamespaceDeploymentService(NAMESPACE, NAMESPACE_LABELS, deploymentYaml, serviceYaml)
 }

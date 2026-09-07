@@ -3,6 +3,7 @@ import {
   CNPG_POSTGRES_PRIMARY_LABELS,
   colocationAffinityPreferred,
 } from "@akasha/k8s-types/hostnames"
+import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
 
 const NAMESPACE = "supabase-realtime"
 const APP_LABEL = "realtime"
@@ -127,19 +128,6 @@ while true; do
   sleep 5
 done
 `
-
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: {
-      name: NAMESPACE,
-      labels: {
-        "kubernetes.io/metadata.name": NAMESPACE,
-      },
-    },
-  })
-}
 
 function serviceYaml(): string {
   return synthOne(NAMESPACE, "service", {
@@ -334,7 +322,10 @@ function deploymentYaml(): string {
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
-    { name: "namespace", yaml: namespaceYaml() },
+    {
+      name: "namespace",
+      yaml: namespaceYaml(NAMESPACE, { "kubernetes.io/metadata.name": NAMESPACE }),
+    },
     { name: "service", yaml: serviceYaml() },
     { name: "deployment", yaml: deploymentYaml() },
   ]

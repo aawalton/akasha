@@ -1,5 +1,6 @@
 import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
+import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
 import { deploymentYaml } from "../transport-deployment/transport-deployment.module.code.ts"
 import {
   APP_NAME,
@@ -7,19 +8,6 @@ import {
   RESOURCE_LABELS,
   SELECTOR_LABELS,
 } from "../transport-naming/transport-naming.module.code.ts"
-
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: {
-      name: NAMESPACE,
-      labels: {
-        "kubernetes.io/metadata.name": NAMESPACE,
-      },
-    },
-  })
-}
 
 function pvYaml(): string {
   return synthOne(NAMESPACE, "data-pv", {
@@ -86,7 +74,10 @@ function serviceYaml(): string {
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
-    { name: "namespace", yaml: namespaceYaml() },
+    {
+      name: "namespace",
+      yaml: namespaceYaml(NAMESPACE, { "kubernetes.io/metadata.name": NAMESPACE }),
+    },
     { name: "pv", yaml: pvYaml() },
     { name: "pvc", yaml: pvcYaml() },
     { name: "deployment", yaml: deploymentYaml() },

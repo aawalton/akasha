@@ -7,4 +7,5 @@ export const grafana = {
   definition:
     "the chart server, its namespace, the sources and dashboards it is given, and its way in",
   code: "ts",
+  partSlugs: ["dashboard/database", "dashboard/pods", "dashboard/resources"],
 } as const satisfies Manifest

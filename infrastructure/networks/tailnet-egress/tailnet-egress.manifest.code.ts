@@ -1,5 +1,6 @@
 import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { kubernetesLabels, selectorOf } from "@akasha/k8s-types/labels"
+import { synthNamespaceNetworkPolicyDeploymentService } from "@akasha/k8s-types/manifest-composing"
 
 const NAMESPACE = "tailnet-egress"
 const APP_NAME = "tailnet-egress"
@@ -25,17 +26,6 @@ const DEPLOYMENT_LABELS = kubernetesLabels({
 const DEPLOYMENT_SELECTOR_LABELS = selectorOf(DEPLOYMENT_LABELS, "name-instance")
 
 const NETPOL_LABELS = kubernetesLabels({ name: APP_NAME, managedBy: MANAGED_BY })
-
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: {
-      name: NAMESPACE,
-      labels: NAMESPACE_LABELS,
-    },
-  })
-}
 
 function deploymentYaml(): string {
   return synthOne(NAMESPACE, "deployment", {
@@ -258,10 +248,11 @@ function networkPolicyYaml(): string {
 }
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
-  return [
-    { name: "namespace", yaml: namespaceYaml() },
-    { name: "network-policy", yaml: networkPolicyYaml() },
-    { name: "deployment", yaml: deploymentYaml() },
-    { name: "service", yaml: serviceYaml() },
-  ]
+  return synthNamespaceNetworkPolicyDeploymentService(
+    NAMESPACE,
+    NAMESPACE_LABELS,
+    networkPolicyYaml,
+    deploymentYaml,
+    serviceYaml
+  )
 }

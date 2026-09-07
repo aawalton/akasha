@@ -4,6 +4,7 @@ import {
   colocationAffinityPreferred,
 } from "@akasha/k8s-types/hostnames"
 import { kubernetesLabels, selectorOf } from "@akasha/k8s-types/labels"
+import { synthNamespaceConfigmapDeploymentService } from "@akasha/k8s-types/manifest-composing"
 
 const NAMESPACE = "pgbouncer"
 const APP_NAME = "pgbouncer"
@@ -52,17 +53,6 @@ const PGBOUNCER_INI = [
   "ignore_startup_parameters = extra_float_digits",
   "",
 ].join("\n")
-
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: {
-      name: NAMESPACE,
-      labels: NAMESPACE_LABELS,
-    },
-  })
-}
 
 function configmapYaml(): string {
   return synthOne(NAMESPACE, "configmap", {
@@ -192,10 +182,11 @@ function serviceYaml(): string {
 }
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
-  return [
-    { name: "namespace", yaml: namespaceYaml() },
-    { name: "configmap", yaml: configmapYaml() },
-    { name: "deployment", yaml: deploymentYaml() },
-    { name: "service", yaml: serviceYaml() },
-  ]
+  return synthNamespaceConfigmapDeploymentService(
+    NAMESPACE,
+    NAMESPACE_LABELS,
+    configmapYaml,
+    deploymentYaml,
+    serviceYaml
+  )
 }

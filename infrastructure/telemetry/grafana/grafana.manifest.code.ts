@@ -2,6 +2,7 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { capabilitySelector } from "@akasha/k8s-types/hostnames"
+import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
 
 const NAMESPACE = "grafana"
 const APP_NAME = "grafana"
@@ -30,7 +31,7 @@ const SELECTOR_LABELS = {
   "app.kubernetes.io/instance": INSTANCE_NAME,
 } as const
 
-const DASHBOARD_FILES = ["resources.json", "pods.json", "database.json"] as const
+const DASHBOARD_SLUGS = ["resources", "pods", "database"] as const
 
 const DATASOURCES_YAML = [
   "apiVersion: 1",
@@ -79,17 +80,6 @@ const DASHBOARDS_PROVIDER_YAML = [
   "",
 ].join("\n")
 
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: {
-      name: NAMESPACE,
-      labels: NAMESPACE_LABELS,
-    },
-  })
-}
-
 function datasourcesConfigmapYaml(): string {
   return synthOne(NAMESPACE, "datasources-configmap", {
     apiVersion: "v1",
@@ -108,8 +98,11 @@ function datasourcesConfigmapYaml(): string {
 
 function dashboardsConfigmapYaml(): string {
   const data: Record<string, string> = {}
-  for (const file of DASHBOARD_FILES) {
-    data[file] = readFileSync(join(import.meta.dir, "data", file), "utf8")
+  for (const slug of DASHBOARD_SLUGS) {
+    data[`${slug}.json`] = readFileSync(
+      join(import.meta.dir, "pages", `${slug}.dashboard.layout.json`),
+      "utf8"
+    )
   }
   return synthOne(NAMESPACE, "dashboards-configmap", {
     apiVersion: "v1",
@@ -300,7 +293,7 @@ function serviceYaml(): string {
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
-    { name: "namespace", yaml: namespaceYaml() },
+    { name: "namespace", yaml: namespaceYaml(NAMESPACE, NAMESPACE_LABELS) },
     { name: "datasources-configmap", yaml: datasourcesConfigmapYaml() },
     { name: "dashboards-configmap", yaml: dashboardsConfigmapYaml() },
     { name: "deployment", yaml: deploymentYaml() },

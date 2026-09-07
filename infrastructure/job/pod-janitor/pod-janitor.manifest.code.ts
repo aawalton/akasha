@@ -1,4 +1,5 @@
-import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { synthMulti } from "@akasha/k8s-types/cdk8s-synth"
+import { synthNamespaceCronjob } from "@akasha/k8s-types/manifest-composing"
 
 const NAMESPACE = "pod-janitor"
 const APP_NAME = "pod-janitor"
@@ -52,17 +53,6 @@ done
 
 echo "[pod-janitor] sweep complete"
 `
-
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: {
-      name: NAMESPACE,
-      labels: NAMESPACE_LABELS,
-    },
-  })
-}
 
 function cronjobYaml(): string {
   return synthMulti(NAMESPACE, [
@@ -175,8 +165,5 @@ function cronjobYaml(): string {
 }
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
-  return [
-    { name: "namespace", yaml: namespaceYaml() },
-    { name: "cronjob", yaml: cronjobYaml() },
-  ]
+  return synthNamespaceCronjob(NAMESPACE, NAMESPACE_LABELS, cronjobYaml)
 }

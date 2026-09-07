@@ -1,5 +1,6 @@
 import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
+import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
 import {
   backupPvcYaml,
   backupPvYaml,
@@ -19,14 +20,6 @@ import {
 import { masterDeploymentYaml } from "../seaweedfs-deployments/seaweedfs-deployments.module.code.ts"
 
 const SHARED_BACKUP = "seaweedfs-backup"
-
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: { name: NAMESPACE, labels: NAMESPACE_LABELS },
-  })
-}
 
 function pvYaml(): string {
   return synthOne(NAMESPACE, "pv", {
@@ -94,7 +87,7 @@ function serviceYaml(): string {
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
-    { name: "namespace", yaml: namespaceYaml() },
+    { name: "namespace", yaml: namespaceYaml(NAMESPACE, NAMESPACE_LABELS) },
     { name: "pv", yaml: pvYaml() },
     { name: "pvc", yaml: pvcYaml() },
     { name: "service", yaml: serviceYaml() },

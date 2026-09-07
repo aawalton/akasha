@@ -1,5 +1,6 @@
 import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { HOSTNAME_KEY, workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
+import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
 
 const NAMESPACE = "cloudflared"
 const APP_NAME = "cloudflared"
@@ -26,17 +27,6 @@ const DEPLOYMENT_SELECTOR_LABELS = {
   "app.kubernetes.io/name": APP_NAME,
   "app.kubernetes.io/instance": INSTANCE_NAME,
 } as const
-
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: {
-      name: NAMESPACE,
-      labels: NAMESPACE_LABELS,
-    },
-  })
-}
 
 function deploymentYaml(): string {
   return synthOne(NAMESPACE, "deployment", {
@@ -129,7 +119,7 @@ function deploymentYaml(): string {
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
-    { name: "namespace", yaml: namespaceYaml() },
+    { name: "namespace", yaml: namespaceYaml(NAMESPACE, NAMESPACE_LABELS) },
     { name: "deployment", yaml: deploymentYaml() },
   ]
 }

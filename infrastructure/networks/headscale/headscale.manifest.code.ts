@@ -14,21 +14,11 @@ import {
 } from "@akasha/cluster-manifests/headscale-constants"
 import { statefulsetYaml } from "@akasha/cluster-manifests/headscale-statefulsets"
 import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
 import { ApiObject, App, Chart } from "cdk8s"
 
 const APP_NAME = "headscale"
 const SUBNET_ROUTER_APP_NAME = "tailscale-subnet-router"
-
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: {
-      name: NAMESPACE,
-      labels: NAMESPACE_LABELS,
-    },
-  })
-}
 
 function certificateYaml(): string {
   const app = new App()
@@ -287,7 +277,7 @@ function serviceYaml(): string {
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
-    { name: "namespace", yaml: namespaceYaml() },
+    { name: "namespace", yaml: namespaceYaml(NAMESPACE, NAMESPACE_LABELS) },
     { name: "configmap", yaml: configmapYaml() },
     { name: "policy-configmap", yaml: policyConfigmapYaml() },
     { name: "litestream-configmap", yaml: litestreamConfigmapYaml() },

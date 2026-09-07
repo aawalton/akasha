@@ -1,4 +1,5 @@
 import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { synthNamespaceCronjob } from "@akasha/k8s-types/manifest-composing"
 
 const NAMESPACE = "ddns-headscale"
 const APP_NAME = "ddns-headscale"
@@ -84,17 +85,6 @@ fi
 echo "[ddns] Done"
 `
 
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: {
-      name: NAMESPACE,
-      labels: NAMESPACE_LABELS,
-    },
-  })
-}
-
 function cronjobYaml(): string {
   return synthOne(NAMESPACE, "cronjob", {
     apiVersion: "batch/v1",
@@ -159,8 +149,5 @@ function cronjobYaml(): string {
 }
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
-  return [
-    { name: "namespace", yaml: namespaceYaml() },
-    { name: "cronjob", yaml: cronjobYaml() },
-  ]
+  return synthNamespaceCronjob(NAMESPACE, NAMESPACE_LABELS, cronjobYaml)
 }

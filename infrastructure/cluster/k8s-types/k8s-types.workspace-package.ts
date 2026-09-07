@@ -20,5 +20,7 @@ export const k8sTypes = {
     "module/orchestrator-cache-locations",
     "module/secret-checksum",
     "page-type/manifest",
+    "module/k8s-namespace",
+    "module/manifest-composing",
   ],
 } as const satisfies WorkspacePackage

@@ -3,6 +3,7 @@ import { objectStoreYaml } from "@akasha/cluster-manifests/cnpg-object-store"
 import { scheduledBackupYaml } from "@akasha/cluster-manifests/cnpg-scheduled-backup"
 import { type ApiObjectManifest, synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
+import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
 
 const NAMESPACE = "postgres"
 const APP_NAME = "postgres"
@@ -27,17 +28,6 @@ const SERVICE_SELECTOR_LABELS = {
   "cnpg.io/cluster": "postgres-cnpg",
   "cnpg.io/instanceRole": "primary",
 } as const
-
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: {
-      name: NAMESPACE,
-      labels: NAMESPACE_LABELS,
-    },
-  })
-}
 
 const PV_HOST_PRIMARY = "node-02"
 const PV_HOST_STANDBY = "node-03"
@@ -154,7 +144,7 @@ function serviceYaml(): string {
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
-    { name: "namespace", yaml: namespaceYaml() },
+    { name: "namespace", yaml: namespaceYaml(NAMESPACE, NAMESPACE_LABELS) },
     { name: "postgres-cnpg-pv", yaml: pvYaml() },
     { name: "postgres-service", yaml: serviceYaml() },
     { name: "postgres-cnpg-cluster", yaml: cnpgClusterYaml() },

@@ -3,6 +3,7 @@ import {
   CNPG_POSTGRES_PRIMARY_LABELS,
   colocationAffinityPreferred,
 } from "@akasha/k8s-types/hostnames"
+import { synthNamespaceServiceDeployment } from "@akasha/k8s-types/manifest-composing"
 import { retryTransientDdl } from "@akasha/workflow-language/retry-transient-ddl"
 
 const NAMESPACE = "supabase-studio"
@@ -98,17 +99,6 @@ db="\${hostport_db#*/}"
 export POSTGRES_DB="\${db%%\\?*}"
 exec node server.js
 `
-
-function namespaceYaml(): string {
-  return synthOne(NAMESPACE, "namespace", {
-    apiVersion: "v1",
-    kind: "Namespace",
-    metadata: {
-      name: NAMESPACE,
-      labels: NAMESPACE_LABELS,
-    },
-  })
-}
 
 function serviceYaml(): string {
   return synthOne(NAMESPACE, "service", {
@@ -327,9 +317,5 @@ function deploymentYaml(): string {
 }
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
-  return [
-    { name: "namespace", yaml: namespaceYaml() },
-    { name: "service", yaml: serviceYaml() },
-    { name: "deployment", yaml: deploymentYaml() },
-  ]
+  return synthNamespaceServiceDeployment(NAMESPACE, NAMESPACE_LABELS, serviceYaml, deploymentYaml)
 }
