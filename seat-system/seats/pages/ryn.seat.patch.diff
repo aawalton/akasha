@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-debug-logger/debug-logger-tagged-logger/debug-logger-tagged-logger.module.ts b/temper/temper-lib-debug-logger/debug-logger-tagged-logger/debug-logger-tagged-logger.module.ts
+index 433bb17271a36a030728f4abc298dfa689031aa4..d90e107cd8727c83f9f5c33114a069cb92323393 100644
+--- a/temper/temper-lib-debug-logger/debug-logger-tagged-logger/debug-logger-tagged-logger.module.ts
++++ b/temper/temper-lib-debug-logger/debug-logger-tagged-logger/debug-logger-tagged-logger.module.ts
+@@ -13,7 +13,7 @@ export const debugLoggerTaggedLogger = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A sub-logger tag is the parent tag and the new one parted by a slash.",
++      statement: "A sub-logger tag is the parent tag and the new tag parted by a slash.",
+     },
+     {
+       invariantKind: "departure",
