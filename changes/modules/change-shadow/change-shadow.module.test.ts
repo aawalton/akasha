@@ -298,7 +298,21 @@ test("a path an earlier reach took away is refused rather than taken away twice"
   expect(first.said.refused).toBe(null)
   expect(again.said.refused).toBe(gone)
   expect(twice.said.refused).toBe(null)
-  expect(gathered([first.said, twice.said]).refused).toBe(
-    `\`${HELD_CODE}\` is answered twice, the second from a body the first left`
-  )
+  expect(gathered([first.said, twice.said])).toEqual(first.said)
+})
+
+test("a reach inside a change states an edit the reach around that change states again", async () => {
+  const root = indexedRepo()
+  const around = "change-mechanical-file/add-file-around"
+  const nesting: Reaching = async (world, at, given) => {
+    if (at !== around) return await RUNS(world, at, given)
+    return (await reach(world, ADD_FILE as never, given)).said
+  }
+  const ledger = ledgerAt(root, textIn(root), nesting)
+
+  const said = await reach(ledger, around as never, { at: AT, body: "held\n" })
+
+  expect(said.said.refused).toBeNull()
+  expect(ledger.over.edits).toEqual([{ path: AT, was: null, body: "held\n" }])
+  expect(gathered([ledger.over, said.said]).refused).toBeNull()
 })
