@@ -16,7 +16,7 @@ import {
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
-import { removePageType } from "./remove-page-type.change-mechanical.code.ts"
+import { removePageType } from "./remove-page-type.change-mechanical-folder.code.ts"
 
 afterAll(scratch.sweep)
 
