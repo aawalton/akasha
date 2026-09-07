@@ -7,7 +7,7 @@ export const testsPass = {
   definition: "the check refusing a change whose tests do not pass",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
