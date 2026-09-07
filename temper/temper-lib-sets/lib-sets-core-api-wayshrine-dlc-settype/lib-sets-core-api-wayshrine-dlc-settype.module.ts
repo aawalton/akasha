@@ -9,7 +9,7 @@ export const libSetsCoreApiWayshrineDlcSettype = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "Each lookup this module offers is independent of the others.",
+      statement: "Each lookup this module offers is independent of every other lookup.",
     },
   ],
 } as const satisfies Module
