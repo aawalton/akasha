@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/seat-system/terminal-init/terminal-account-launchers/terminal-account-launchers.module.ts b/seat-system/terminal-init/terminal-account-launchers/terminal-account-launchers.module.ts
+index 7c3fe11eb416575cfdcf381925b1cc8aa8e7db53..64dc136650571c888b8c2d325ca1db3705eb9e31 100644
+--- a/seat-system/terminal-init/terminal-account-launchers/terminal-account-launchers.module.ts
++++ b/seat-system/terminal-init/terminal-account-launchers/terminal-account-launchers.module.ts
+@@ -18,7 +18,8 @@ export const terminalAccountLaunchers = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The terminal is reset once the client ends, whatever the client ended with.",
++      statement:
++        "The terminal is reset once the client ends whatever status that client ended with.",
+     },
+     {
+       invariantKind: "departure",
