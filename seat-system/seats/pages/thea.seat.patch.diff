@@ -42,3 +42,18 @@ index 39026a2b7e3f7dd14a5f6d3ef3ffcd61db7221b2..fef905b7214681e2eab326aed3914625
 +  const held = "declare namespace Held {\n  global {\n    const ONE: number\n  }\n}\n"
 +  expect(reasonsIn({ root: "", path: ONE_AT, text: held })).toHaveLength(1)
 +})
+diff --git a/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.ts b/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.ts
+index c8b57bb49dc81f5772767694a63c648b19a7f763..2e9a656191f9dfaa00792d681718f457e0c7c13d 100644
+--- a/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.ts
++++ b/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.ts
+@@ -32,6 +32,10 @@ export const noGlobalInAModule = {
+       invariantKind: "departure",
+       statement: "A file carrying two blocks is refused twice.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A block inside another declaration is refused like a block at the top.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Only the paths the change carries are judged.",
