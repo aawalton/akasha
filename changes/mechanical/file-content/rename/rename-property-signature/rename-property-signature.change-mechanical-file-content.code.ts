@@ -11,11 +11,12 @@ import {
 import ts from "typescript"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
-  answered,
+  narrowed,
   refusing,
+  stating,
   writing,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer, Edit } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type { Said, Stated } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const ADDRESSED = /^([A-Za-z_$][A-Za-z0-9_$]*)\.([A-Za-z_$][A-Za-z0-9_$]*)$/
@@ -96,7 +97,7 @@ function whyNot(given: RenamePropertySignatureAsked, address: Addressed | null):
   return null
 }
 
-export function renamePropertySignature(world: World, given: RenamePropertySignatureAsked): Answer {
+export function renamePropertySignature(world: World, given: RenamePropertySignatureAsked): Said {
   const address = addressIn(given.of)
   const why = whyNot(given, address)
   if (why !== null || address === null) return refusing(why ?? given.of)
@@ -138,7 +139,7 @@ export function renamePropertySignature(world: World, given: RenamePropertySigna
   if (held.size === 0) {
     return refusing(`nothing spells \`${given.of}\`, so there is nothing to respell`)
   }
-  const edits: Edit[] = []
+  const edits: Stated[] = []
   for (const [path, spots] of held) {
     const text = world.textOf(path)
     if (text === null) return refusing(`\`${path}\` would change and could not be read`)
@@ -146,11 +147,11 @@ export function renamePropertySignature(world: World, given: RenamePropertySigna
     for (const one of [...spots].sort((here, there) => there.start - here.start)) {
       body = body.slice(0, one.start) + one.put + body.slice(one.end)
     }
-    edits.push(writing(path, text, body))
+    edits.push(...narrowed(writing(path, text, body)))
   }
-  return answered(edits)
+  return stating(edits)
 }
 
-export function runChange(world: World, given: RenamePropertySignatureAsked): Answer {
+export function runChange(world: World, given: RenamePropertySignatureAsked): Said {
   return renamePropertySignature(world, given)
 }
