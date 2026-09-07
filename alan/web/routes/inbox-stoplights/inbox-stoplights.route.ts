@@ -8,4 +8,22 @@ export const inboxStoplights = {
   code: "ts",
   test: "ts",
   urlPath: "api/inbox-stoplights",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The key each reading travels under is `inbox` rather than `habit`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tile shipped against this reads that key as text that is always there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every readout the inboxes group admits answers a ring of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Both inbox scales fall rather than climb.",
+    },
+  ],
 } as const satisfies Route

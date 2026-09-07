@@ -1,3 +1,5 @@
+import { join } from "node:path"
+import { Glob } from "bun"
 import type { Stoplight } from "./readout-group-serving.module.code.ts"
 
 export const GROUP = "a-group-named-only-in-this-test"
@@ -46,12 +48,6 @@ export function answeredAfresh(): undefined {
 
 let heldOrigin: string | undefined
 
-// EACH PAGE TYPE THE MODULE ASKS FOR IS ANSWERED BY A BRANCH OF ITS OWN, AND ANYTHING ELSE BY NONE.
-//
-// A store answering whatever the last branch holds is a store that passes a test for the wrong
-// reason: before groups were answered here, a group asked for came back as a scale, and a scale
-// carries no answer about a figure off scale, so the false case would have passed without the
-// reading ever having been built.
 export function servingStore(): ReturnType<typeof Bun.serve> {
   const store = Bun.serve({
     port: 0,
@@ -68,13 +64,6 @@ export function servingStore(): ReturnType<typeof Bun.serve> {
   return store
 }
 
-// THE ORIGIN THIS STORE SET IS THE WHOLE PROCESS'S, AND COMES BACK WHEN THE STORE GOES.
-//
-// Every test file in one run shares one process, so a file leaving this origin in place leaves
-// every later file asking this store rather than the store the run was pointed at. Stopping the
-// store does not cover that on its own: `stop` leaves an open connection open, and `fetch` holds
-// one open, so a stopped store goes on answering the file that runs next. These rows reached
-// `readout-unread` that way and made Alan's status bar read as drawing lights carrying no reading.
 export function storeGoes(store: ReturnType<typeof Bun.serve>): undefined {
   store.stop(true)
   if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
@@ -84,4 +73,54 @@ export function storeGoes(store: ReturnType<typeof Bun.serve>): undefined {
 
 export function figureOffScaleOn(one: Stoplight | undefined): unknown {
   return (one as Record<string, unknown> | undefined)?.figureOffScale
+}
+
+export type Drawn = Record<string, unknown>
+
+export type Tile = {
+  readonly answer: () => Promise<Response>
+  readonly drawn: () => Promise<readonly Drawn[]>
+  readonly ringFor: (named: string) => Promise<Drawn | undefined>
+}
+
+export function colorIn(one: Drawn, key: string): string {
+  const held = one[key]
+  if (typeof held !== "string") {
+    throw new Error(`a stoplight carries no text under \`${key}\`: ${JSON.stringify(held)}`)
+  }
+  return held
+}
+
+async function stoplightsAt(url: string): Promise<readonly Drawn[]> {
+  const answered = await fetch(url)
+  if (answered.status !== 200) {
+    throw new Error(`the tile at ${url} answered ${answered.status} rather than 200`)
+  }
+  const body = (await answered.json()) as { stoplights: readonly Drawn[] }
+  return body.stoplights
+}
+
+export function tileAt(origin: string, path: string, key: string): Tile {
+  const url = `${origin}${path}`
+  return {
+    answer: () => fetch(url),
+    drawn: () => stoplightsAt(url),
+    ringFor: async (named) => (await stoplightsAt(url)).find((one) => one[key] === named),
+  }
+}
+
+export async function readoutsNaming(root: string, group: string): Promise<readonly string[]> {
+  const named: string[] = []
+  for await (const relative of new Glob("**/*.readout.ts").scan({ cwd: root })) {
+    if (relative.includes("node_modules")) continue
+    const loaded = (await import(join(root, relative))) as Record<
+      string,
+      { slug?: string; groupSlugs?: readonly string[] } | undefined
+    >
+    for (const one of Object.values(loaded)) {
+      if (one?.slug === undefined) continue
+      if (one.groupSlugs?.includes(group) === true) named.push(one.slug)
+    }
+  }
+  return named.sort()
 }

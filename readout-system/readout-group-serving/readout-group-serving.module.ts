@@ -185,6 +185,28 @@ export const readoutGroupServing = {
       statement: "Nothing between here and the tile is allowed to keep an answer.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A store set up for a test answers each page type asked for from a branch of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type no branch answers is answered with no row.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A store set up for a test puts back the origin that store replaced when the store goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A store that goes closes its connections rather than leaving a connection open.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The helpers reading a tile's rings sit in one file rather than in each test.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here takes a reading.",
     },
