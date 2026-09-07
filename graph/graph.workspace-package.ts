@@ -21,7 +21,7 @@ export const graph = {
     },
     {
       invariantKind: "departure",
-      statement: "The graph answers the nodes, edges and attributes that follow from the pages.",
+      statement: "The graph answers the nodes and edges and attributes that follow from the pages.",
     },
     {
       invariantKind: "departure",
