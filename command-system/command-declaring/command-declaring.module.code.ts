@@ -1,7 +1,3 @@
-export const HELP_FLAGS: readonly string[] = ["--help", "-h"]
-
-export const VERSION_FLAG = "--version"
-
 export type FlagValueShape = "prose" | "line" | "token"
 
 interface HelpFlagCommon {
@@ -58,17 +54,4 @@ export interface CommandHelp {
   readonly envVars?: readonly HelpEnvVar[]
   readonly exits?: readonly HelpExit[]
   readonly examples?: readonly string[]
-  readonly epilog?: string | (() => string | Promise<string>)
-}
-
-export interface CommandModule {
-  readonly default: (args: readonly string[]) => Promise<void>
-  readonly help?: CommandHelp
-}
-
-export interface Command {
-  readonly path: readonly string[]
-  readonly summary: string
-  readonly load: () => Promise<CommandModule>
-  readonly source?: string
 }
