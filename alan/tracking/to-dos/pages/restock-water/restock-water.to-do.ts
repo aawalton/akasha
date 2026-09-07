@@ -7,10 +7,10 @@ export const restockWater = {
   title: "Restock water",
   toDoCategory: "health",
   difficulty: "light",
-  toDoDueDate: "2026-09-06",
+  toDoDueDate: "2026-09-14",
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=2MO,4MO",
   toDoSortOrder: 32,
   toDoValueSlug: "health",
-  toDoLastCompletedAt: "2026-08-17T22:02:52.964Z",
+  toDoLastCompletedAt: "2026-09-07T01:39:26.483Z",
 } as const satisfies ToDo
