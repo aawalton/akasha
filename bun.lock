@@ -2349,6 +2349,9 @@
     },
     "temper/temper-lib-addon-menu-order-list-box": {
       "name": "@akasha/temper-lib-addon-menu-order-list-box",
+      "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
+      },
     },
     "temper/temper-lib-alchemy-station": {
       "name": "@akasha/temper-lib-alchemy-station",

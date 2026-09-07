@@ -18,5 +18,8 @@
     "./order-list-box-row-setup": "./order-list-box-row-setup/order-list-box-row-setup.module.code.ts",
     "./order-list-box-state": "./order-list-box-state/order-list-box-state.module.code.ts",
     "./order-list-box-widget": "./order-list-box-widget/order-list-box-widget.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/code-system": "workspace:@akasha/code@*"
   }
 }
