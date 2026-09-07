@@ -1,0 +1,13 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.ts b/changes/mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.ts
+index 753e7c7b894e9c0625ab8f825961de6c70b58090..a2f253ef1bd4ba715a8e97b07fcc7f52610c50ea 100644
+--- a/changes/mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.ts
++++ b/changes/mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.ts
+@@ -6,7 +6,6 @@ export const changeFileContent = {
+   slug: "change-file-content",
+   changeModeSlug: "change-mode-change",
+   changeTargetTypeSlug: "change-target-type/file-content",
+-  changeTargetSubtypeSlug: "change-target-subtype/file",
+   definition: "one passage of one body replaced by another, with nothing else judged",
+   code: "ts",
+   test: "ts",
