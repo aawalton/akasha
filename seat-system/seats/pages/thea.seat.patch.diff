@@ -60,3 +60,22 @@ index b794ed7957d8e6d63b3f2d3ebc472208d3587007..733e3bff99134dabad6c0c22df4f67f5
      typeSlugById: (id) => typeSlugById(reading, id),
      typeSlugOf: (id) => typeSlugOf(reading, id),
    }
+diff --git a/pages/indexes/answering/index-answering.module.ts b/pages/indexes/answering/index-answering.module.ts
+index 98e62175e7b4bb1d1538dee55c08cfdce1975c90..574a3c964ff725f16102723623bf83fcc363c6eb 100644
+--- a/pages/indexes/answering/index-answering.module.ts
++++ b/pages/indexes/answering/index-answering.module.ts
+@@ -76,8 +76,12 @@ export const indexAnswering = {
+       statement: "Nothing here reads a file.",
+     },
+     {
+-      invariantKind: "absence",
+-      statement: "Nothing here holds an answer.",
++      invariantKind: "departure",
++      statement: "A question here taking no arguments is answered once and held.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "A face is built for one change and lives no longer than that change.",
+     },
+     {
+       invariantKind: "gap",
