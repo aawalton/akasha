@@ -9,7 +9,7 @@ import type { Answer } from "../../../modules/change-answer/change-answer.module
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { heldIn, readFor } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
-const ADD_PROPERTY_VALUE = "change-mechanical/add-property-value"
+const ADD_PROPERTY_VALUE = "change-mechanical-data/add-property-value"
 
 const DOMAIN = "domain"
 

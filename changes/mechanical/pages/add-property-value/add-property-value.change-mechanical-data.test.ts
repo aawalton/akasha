@@ -4,7 +4,7 @@ import {
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { bodyOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { addPropertyValue } from "./add-property-value.change-mechanical.code.ts"
+import { addPropertyValue } from "./add-property-value.change-mechanical-data.code.ts"
 
 const AT = "akasha/held/kept.page-type.ts"
 

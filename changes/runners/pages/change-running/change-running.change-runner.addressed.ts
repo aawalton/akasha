@@ -11,6 +11,9 @@ export type Changes = {
   "change-mechanical-code/rename-property-signature": Parameters<
     typeof import("../../../mechanical/pages/rename-property-signature/rename-property-signature.change-mechanical-code.code.ts")["runChange"]
   >[1]
+  "change-mechanical-data/add-property-value": Parameters<
+    typeof import("../../../mechanical/pages/add-property-value/add-property-value.change-mechanical-data.code.ts")["runChange"]
+  >[1]
   "change-mechanical-data/rename-page-address": Parameters<
     typeof import("../../../mechanical/pages/rename-page-address/rename-page-address.change-mechanical-data.code.ts")["runChange"]
   >[1]
@@ -64,9 +67,6 @@ export type Changes = {
   >[1]
   "change-mechanical-manifest/rename-manifest-ways": Parameters<
     typeof import("../../../mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical-manifest.code.ts")["runChange"]
-  >[1]
-  "change-mechanical/add-property-value": Parameters<
-    typeof import("../../../mechanical/pages/add-property-value/add-property-value.change-mechanical.code.ts")["runChange"]
   >[1]
   "change-mechanical/change-page-property": Parameters<
     typeof import("../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts")["runChange"]
