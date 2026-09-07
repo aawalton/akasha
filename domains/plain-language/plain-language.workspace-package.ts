@@ -7,6 +7,7 @@ export const plainLanguage = {
   definition: "whether a sentence is written in plain language",
   manifest: "json",
   partSlugs: [
+    "module/parse-doubt",
     "module/shape-reading",
     "module/spelt-scanning",
     "module/dependency-graph",
