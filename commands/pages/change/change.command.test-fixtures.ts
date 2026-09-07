@@ -11,8 +11,8 @@ import {
   type Loaded,
   loadedAt,
 } from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
-import type { Answer } from "../../calling/calling.module.code.ts"
-import type { Piping } from "../../piping/piping.module.code.ts"
+import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
+import type { Piping } from "../../../command-system/piping/piping.module.code.ts"
 import { type Applying, changing } from "./change.command.code.ts"
 
 export const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"

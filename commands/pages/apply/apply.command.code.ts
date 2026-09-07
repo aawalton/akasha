@@ -8,11 +8,16 @@ import {
   foldedIn,
   keptEdits,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { writtenAgain } from "../../address-mapping/address-mapping.module.code.ts"
-import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { waitingSaid } from "../../change-acting/change-acting.module.code.ts"
-import { MESSAGE, MESSAGE_FILE, unknownIn } from "../../command-flags/command-flags.module.code.ts"
+import { writtenAgain } from "../../../command-system/address-mapping/address-mapping.module.code.ts"
+import { BREAK_GLASS, mistaking } from "../../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import { waitingSaid } from "../../../command-system/change-acting/change-acting.module.code.ts"
+import {
+  MESSAGE,
+  MESSAGE_FILE,
+  unknownIn,
+} from "../../../command-system/command-flags/command-flags.module.code.ts"
+import { applying } from "../../../command-system/commands/patch/patch.command.code.ts"
 import {
   type Bodies,
   type Body,
@@ -22,11 +27,10 @@ import {
   type Rebased,
   type Running,
   rebasedHeld,
-} from "../../drafting/drafting.module.code.ts"
-import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
-import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
+} from "../../../command-system/drafting/drafting.module.code.ts"
+import { gateBuilt } from "../../../command-system/gate-building/gate-building.module.code.ts"
+import { baseOf, changeOf } from "../../../command-system/landing/landing.module.code.ts"
 import { editsFor, noPageSaid } from "../change/change.command.code.ts"
-import { applying } from "../patch/patch.command.code.ts"
 
 const BYTES = new TextEncoder()
 

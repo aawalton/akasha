@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const apply = {
   id: "01a07780-1fda-7906-b5d4-939967fa5b73",

@@ -9,11 +9,11 @@ import {
   appendEdits,
   editsIn,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { drafted } from "../../drafting/drafting.module.code.ts"
-import { baseOf } from "../../landing/landing.module.code.ts"
-import { blobsIn, refFor } from "../../patching/patching.module.code.ts"
-import { scratchWorld } from "../../scratching/scratching.module.code.ts"
-import { writing as putting } from "../../scratching/scratching.module.test-fixtures.ts"
+import { drafted } from "../../../command-system/drafting/drafting.module.code.ts"
+import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
+import { blobsIn, refFor } from "../../../command-system/patching/patching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { writing as putting } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import { draftsOf, folding, rebasedRows, undone, unwarranted } from "./apply.command.code.ts"
 
 const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"

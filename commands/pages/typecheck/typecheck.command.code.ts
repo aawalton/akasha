@@ -5,10 +5,13 @@ import { foundIn, rootsOf } from "@akasha/checks/typecheck"
 import { compiled } from "@akasha/code/code-typing"
 import type { Change } from "@akasha/pages/change"
 import { shadowAsked } from "@akasha/pages/shadow"
-import { counted } from "../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { oneLine, whyOf } from "../../fault-saying/fault-saying.module.code.ts"
-import { ANSWER_CEILING, heldTo } from "../audit/audit.command.code.ts"
+import { counted } from "../../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import {
+  ANSWER_CEILING,
+  heldTo,
+} from "../../../command-system/commands/audit/audit.command.code.ts"
+import { oneLine, whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import { aiming } from "../test/test.command.code.ts"
 
 const FILE_PATH = "--file-path"

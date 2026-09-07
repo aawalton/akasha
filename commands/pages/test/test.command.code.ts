@@ -4,8 +4,8 @@ import { textIn } from "@akasha/code/body-text"
 import type { Ran, Summary, Verdict } from "@akasha/code/code-tests"
 import { plain, ranOver, testNamed, testsBesideOf } from "@akasha/code/code-tests"
 import { endingOf } from "@akasha/utils-run/running"
-import { counted } from "../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import { counted } from "../../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 
 const FILE_PATH = "--file-path"
 

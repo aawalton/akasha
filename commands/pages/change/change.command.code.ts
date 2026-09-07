@@ -28,15 +28,15 @@ import {
 import {
   type Given as Arguments,
   readingIn,
-} from "../../argument-reading/argument-reading.module.code.ts"
-import { mistaking, puttingUpSaid } from "../../asking/asking.module.code.ts"
+} from "../../../command-system/argument-reading/argument-reading.module.code.ts"
+import { mistaking, puttingUpSaid } from "../../../command-system/asking/asking.module.code.ts"
 import {
   type Answer,
   type Given,
   HELP,
   HELP_SHORT,
   helpOf,
-} from "../../calling/calling.module.code.ts"
+} from "../../../command-system/calling/calling.module.code.ts"
 import {
   dropping,
   forgetting,
@@ -45,13 +45,16 @@ import {
   saidOf,
   taking,
   waitingSaid,
-} from "../../change-acting/change-acting.module.code.ts"
-import { MESSAGE, unknownIn } from "../../command-flags/command-flags.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
-import type { FileEdit } from "../../landing/landing.module.code.ts"
-import { inputIn, type Piping } from "../../piping/piping.module.code.ts"
-import { offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
-import type { Taking } from "../properties/taking.record-property.ts"
+} from "../../../command-system/change-acting/change-acting.module.code.ts"
+import {
+  MESSAGE,
+  unknownIn,
+} from "../../../command-system/command-flags/command-flags.module.code.ts"
+import type { Taking } from "../../../command-system/commands/properties/taking.record-property.ts"
+import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
+import { inputIn, type Piping } from "../../../command-system/piping/piping.module.code.ts"
+import { offRepo, pathAt } from "../../../command-system/said-pathing/said-pathing.module.code.ts"
 import { change as changePage } from "./change.command.ts"
 
 export const PAGE_LANDING =

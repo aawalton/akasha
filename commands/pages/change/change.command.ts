@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const change = {
   id: "01a07780-1fd8-71ad-8268-5d477e7f5cbc",
