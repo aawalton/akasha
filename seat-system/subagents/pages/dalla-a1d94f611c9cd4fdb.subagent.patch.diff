@@ -1,0 +1,30 @@
+writerOwesReading: false
+diff --git a/commands/pages/change/change.command.ts b/commands/pages/change/change.command.ts
+index 4e544d2092210fcfa03c02dfe4ff2931c1904a23..77874008f9912d4ba294989b0e77ca733320cb85 100644
+--- a/commands/pages/change/change.command.ts
++++ b/commands/pages/change/change.command.ts
+@@ -114,20 +114,19 @@ export const change = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A change that refuses applies nothing though an apply was asked for.",
++      statement: "A change that refuses applies nothing.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An apply asked for is the apply `akasha apply` makes.",
++      statement: "The apply a change makes is the apply `akasha apply` makes.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An apply asked for lands every edit kept rather than the edits that run appended.",
++      statement: "An apply lands every edit kept rather than the edits that run appended.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A call asking for an apply says nothing of the edits being kept for an apply.",
++      statement: "A call that applied says nothing of the edits being kept for a later apply.",
+     },
+     {
+       invariantKind: "departure",
