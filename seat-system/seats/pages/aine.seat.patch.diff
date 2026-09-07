@@ -1,0 +1,96 @@
+diff --git a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.code.ts b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.code.ts
+index 7d2bc0fdf6c84ee0221a763b8c0fbd410543bfa0..154dad4ba6e9d62a1c844e8f4b0cb2add8b17d31 100644
+--- a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.code.ts
++++ b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.code.ts
+@@ -1,4 +1,6 @@
+ import { parsedAs } from "@akasha/code/code-source"
++import { machineWrote } from "@akasha/indexes/property-carrying"
++import { partedIn } from "@akasha/pages/page-file-name"
+ import ts from "typescript"
+ import {
+   answered,
+@@ -14,6 +16,8 @@ const ADDRESS = /^[a-z][a-z0-9]*(-[a-z0-9]+)*\/[a-z][a-z0-9]*(-[a-z0-9]+)*$/
+ 
+ const NO_ADDRESS = "is no address, an address being a page type and a slug parted by `/`"
+ 
++const FILE_PROPERTY = "file-property"
++
+ export type RenamePageAddressAsked = {
+   readonly was: string
+   readonly now: string
+@@ -37,6 +41,15 @@ export function spellingsIn(path: string, text: string, was: string): readonly S
+   return found
+ }
+ 
++export function machineWrites(world: World, path: string): boolean {
++  const said = partedIn(path)
++  if (said === null) return false
++  return said.sections.some((one) => {
++    const value = world.index.pageAt(FILE_PROPERTY, one)
++    return value !== null && machineWrote(value)
++  })
++}
++
+ export function respelled(text: string, spots: readonly Spot[], now: string): string {
+   const put = JSON.stringify(now)
+   let body = text
+@@ -61,7 +74,7 @@ export function renamePageAddress(world: World, given: RenamePageAddressAsked):
+   }
+   const edits: Edit[] = []
+   for (const path of paths) {
+-    if (!TYPED.test(path)) continue
++    if (!TYPED.test(path) || machineWrites(world, path)) continue
+     const text = world.textOf(path)
+     if (text === null || !text.includes(given.was)) continue
+     const spots = spellingsIn(path, text, given.was)
+diff --git a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.test.ts b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.test.ts
+index f9bdb4de2007c7936e93cfeb0d5c1f27d7ae3132..e57d94a6249e558c9022be4bef6424f49c7e5cdb 100644
+--- a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.test.ts
++++ b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.test.ts
+@@ -39,10 +39,18 @@ const BARE_BODY = `export const heldTwo = {
+ }
+ `
+ 
+-function worldOf(bodies: Readonly<Record<string, string>>): World {
++const MADE_AT = "akasha/held/one/held-one.held-checked.addressed.ts"
++
++const MADE_BODY = `export type Held = { "${WAS}": string }\n`
++
++function worldOf(bodies: Readonly<Record<string, string>>, made: readonly string[] = []): World {
+   return {
+     root: "/nowhere",
+-    index: { everyPath: () => Object.keys(bodies) } as never,
++    index: {
++      everyPath: () => Object.keys(bodies),
++      pageAt: (kind: string, slug: string) =>
++        kind === "file-property" && made.includes(slug) ? { machineWritten: true } : null,
++    } as never,
+     textOf: (path) => bodies[path] ?? null,
+     over: NOTHING_OVER,
+   }
+@@ -80,6 +88,25 @@ test("every body spelling the address is answered at once", () => {
+   expect(said.edits.map((one) => one.path).sort()).toEqual([CALL_AT, CONST_AT, PAGE_AT].sort())
+ })
+ 
++test("a body a machine writes is left as that body is", () => {
++  const said = renamePageAddress(worldOf({ [MADE_AT]: MADE_BODY }, ["addressed"]), {
++    was: WAS,
++    now: NOW,
++  })
++
++  expect(said.refused).toBe(null)
++  expect(said.edits).toHaveLength(0)
++})
++
++test("a body beside a page under no machine-written property is restated", () => {
++  const said = renamePageAddress(worldOf({ [CONST_AT]: CONST_BODY }, ["addressed"]), {
++    was: WAS,
++    now: NOW,
++  })
++
++  expect(bodyOf(said, CONST_AT)).toContain(`"${NOW}"`)
++})
++
+ test("a body spelling the slug without its page type is left as that body is", () => {
+   const said = renamePageAddress(worldOf({ [BARE_AT]: BARE_BODY }), { was: WAS, now: NOW })
+ 
