@@ -495,3 +495,75 @@ index cae3698be68c42c26b2a70dbd7677d8f2eb88530..5fb2a64c2acb45289687bed59e211080
  
    seams.report(
      `Task import: ${completed} completed, ${cleared} cleared, ${sweptForever} swept, ${skipped} skipped, ${rolled} rolled.`
+diff --git a/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.test-fixtures.ts b/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.test-fixtures.ts
+index 64c460d2741e884c461b5da6773f4a1dead31889..a135592aee685f1b5d891e4cd797888f1c043a01 100644
+--- a/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.test-fixtures.ts
++++ b/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.test-fixtures.ts
+@@ -30,6 +30,8 @@ export const COMPLETED_AT_ISO = new Date(COMPLETED_AT_MS).toISOString()
+ 
+ export const NOW = new Date("2024-03-15T18:00:00.000Z")
+ 
++export const NOW_ISO = NOW.toISOString()
++
+ export const LANDED = { outcome: "landed", at: "c0" } as const
+ 
+ export function buildLua(entries: ReadonlyArray<{ taskId: string; timestamp: number }>): string {
+@@ -63,34 +65,25 @@ export const SAME_DAY_MS = Date.UTC(2023, 10, 14, 18, 0, 0)
+ 
+ export const OTHER_DAY_MS = Date.UTC(2023, 10, 12, 18, 0, 0)
+ 
++export interface Landing {
++  readonly slug: string
++  readonly values: Readonly<Record<string, unknown>>
++}
++
+ export interface Tally {
+-  readonly filed: unknown[]
+-  readonly rolled: unknown[]
+-  readonly taken: unknown[]
++  readonly landed: Landing[]
+   readonly seams: ReadySeams
+   outcome?: CompletionOutcome
+ }
+ 
+ export function tallying(over: ImportTasksOptions = {}): Tally {
+-  const filed: unknown[] = []
+-  const rolled: unknown[] = []
+-  const taken: unknown[] = []
++  const landed: Landing[] = []
+   return {
+-    filed,
+-    rolled,
+-    taken,
++    landed,
+     seams: seamsReady(
+       landing({
+-        fileCompletion: async (values) => {
+-          filed.push(values)
+-          return LANDED
+-        },
+-        rollTask: async (slug, values) => {
+-          rolled.push({ slug, values })
+-          return LANDED
+-        },
+-        removeTask: async (slug, beside) => {
+-          taken.push({ slug, beside })
++        landTask: async (slug, values) => {
++          landed.push({ slug, values })
+           return LANDED
+         },
+         ...over,
+@@ -111,12 +104,8 @@ export async function applied(
+ export function landing(seams: ImportTasksOptions = {}): ImportTasksOptions {
+   return {
+     now: () => NOW,
+-    mintId: () => "minted-id",
+     ask: async () => ({ rows: [] }),
+-    fileCompletion: async () => LANDED,
+-    clearCompletionLine: async () => LANDED,
+-    rollTask: async () => LANDED,
+-    removeTask: async () => LANDED,
++    landTask: async () => LANDED,
+     report: () => undefined,
+     reportError: () => undefined,
+     ...seams,
