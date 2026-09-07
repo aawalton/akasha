@@ -1,0 +1,59 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts b/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts
+index 6b724b466af96443c89a0a868741b9153069d0a8..70f7242619cfc3196bf8318816a61bf95c5258d4 100644
+--- a/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts
++++ b/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts
+@@ -353,6 +353,17 @@ test("a page and the file beside that page leave no file behind", async () => {
+   expect(said.edits.map((one) => one.path).sort()).toEqual([NAMER_CODE, NAMER_PAGE])
+ })
+ 
++import { ledgerAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
++
++test("a page taken away over a ledger is answered rather than answered twice", async () => {
++  const root = indexedRepo()
++
++  const said = await runChange(ledgerAt(root, textIn(root), GUARDED), { at: NAMER_PAGE })
++
++  expect(said.refused).toBe(null)
++  expect(said.edits.map((one) => one.path).sort()).toEqual([NAMER_CODE, NAMER_PAGE])
++})
++
+ test("a page a parent names in part-slugs goes through the guarded chain", async () => {
+   const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "module/child") })
+ 
+diff --git a/changes/modules/change-guarding/change-guarding.module.test.ts b/changes/modules/change-guarding/change-guarding.module.test.ts
+index 7d09a86601ea1d95ebf58ec1682d6c4d4356cabd..6d6c7e5ae23b56b1f55fc5e0a5a4df99835ba8eb 100644
+--- a/changes/modules/change-guarding/change-guarding.module.test.ts
++++ b/changes/modules/change-guarding/change-guarding.module.test.ts
+@@ -82,6 +82,16 @@ test("two answers that will not gather refuse rather than being judged apart", (
+   expect(said.refused ?? "").toContain("answered twice")
+ })
+ 
++import { addedTo, ledgerAt } from "../change-shadow/change-shadow.module.code.ts"
++
++test("an answer the world already holds is judged rather than refused", () => {
++  const root = indexedRepo()
++  const said = answered([taking(NAMER_CODE, textIn(root)(NAMER_CODE) ?? "")])
++  const ledger = addedTo(ledgerAt(root, textIn(root)), said)
++
++  expect(guardedBy(ledger, said, [counting([], null)]).refused).toBe(null)
++})
++
+ test("the paths an answer takes away are read here, and a path a move leaves is not one", () => {
+   const said = answered([
+     taking("akasha/a.ts", "x\n"),
+diff --git a/changes/modules/change-guarding/change-guarding.module.ts b/changes/modules/change-guarding/change-guarding.module.ts
+index bfb4c642e20fc648c261fc02650e3ff0a2d7aab5..c903a6689a97a20f759311bbf455fc6012718e19 100644
+--- a/changes/modules/change-guarding/change-guarding.module.ts
++++ b/changes/modules/change-guarding/change-guarding.module.ts
+@@ -34,6 +34,10 @@ export const changeGuarding = {
+       invariantKind: "departure",
+       statement: "Two answers that will not gather refuse rather than being judged apart.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An answer the world already holds is judged rather than refused.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A guard is handed the world the change read before that change answered.",
