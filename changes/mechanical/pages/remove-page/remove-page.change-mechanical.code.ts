@@ -22,7 +22,7 @@ const PART_SLUGS_KEY = "partSlugs"
 
 const REMOVE_FILE = "change-mechanical-file/remove-file"
 
-const REMOVE_CODE_FILE = "change-mechanical/remove-code-file"
+const REMOVE_CODE_FILE = "change-mechanical-file/remove-code-file"
 
 const REMOVE_PAGE_FILE = "change-mechanical/remove-page-file"
 

@@ -12,11 +12,11 @@ import {
   type World,
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { runChange as removeCodeFile } from "../remove-code-file/remove-code-file.change-mechanical.code.ts"
+import { runChange as removeCodeFile } from "../remove-code-file/remove-code-file.change-mechanical-file.code.ts"
 import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange } from "./remove-page-file.change-mechanical.code.ts"
 
-const REMOVE_CODE_FILE = "change-mechanical/remove-code-file"
+const REMOVE_CODE_FILE = "change-mechanical-file/remove-code-file"
 
 const REMOVE_FILE = "change-mechanical-file/remove-file"
 

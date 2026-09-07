@@ -14,7 +14,7 @@ import {
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
-import { runChange } from "./remove-code-file.change-mechanical.code.ts"
+import { runChange } from "./remove-code-file.change-mechanical-file.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file/remove-file") {

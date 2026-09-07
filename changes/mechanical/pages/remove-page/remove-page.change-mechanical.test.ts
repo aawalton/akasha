@@ -30,7 +30,7 @@ import {
   worldAt,
   worldOver,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { runChange as removeCodeFile } from "../remove-code-file/remove-code-file.change-mechanical.code.ts"
+import { runChange as removeCodeFile } from "../remove-code-file/remove-code-file.change-mechanical-file.code.ts"
 import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange as removePageFile } from "../remove-page-file/remove-page-file.change-mechanical.code.ts"
 import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
@@ -40,7 +40,7 @@ type Unnaming = { at: string; key: string; value: string }
 
 const REMOVE_PAGE_FILE = "change-mechanical/remove-page-file"
 
-const REMOVE_CODE_FILE = "change-mechanical/remove-code-file"
+const REMOVE_CODE_FILE = "change-mechanical-file/remove-code-file"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === REMOVE_PAGE_FILE) return removePageFile(world, given as { at: string })
