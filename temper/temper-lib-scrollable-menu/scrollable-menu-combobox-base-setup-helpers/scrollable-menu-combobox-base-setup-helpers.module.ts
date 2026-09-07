@@ -9,7 +9,7 @@ export const scrollableMenuComboboxBaseSetupHelpers = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each named child control is found once and then cached on the row.",
+      statement: "A named child control is found once and then cached on the row.",
     },
     {
       invariantKind: "departure",
