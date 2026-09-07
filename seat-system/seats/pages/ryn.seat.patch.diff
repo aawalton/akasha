@@ -1,0 +1,24 @@
+diff --git a/bun.lock b/bun.lock
+index 43950aca6f27ac815a21329165d419515681d034..bd4076028628bd42db8428efdf69aaf0f1485776 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -1015,6 +1015,7 @@
+     "infrastructure/analysis-complexity": {
+       "name": "@akasha/analysis-complexity",
+       "dependencies": {
++        "@akasha/code": "workspace:*",
+         "@akasha/errors-core": "workspace:*",
+         "typescript": "^5.9.3",
+       },
+diff --git a/infrastructure/analysis-complexity/package.json b/infrastructure/analysis-complexity/package.json
+index 41bf9c8256b0359294eaa6e7c051266a46e40d2e..1913b1da2d2ea71dacf9e9e47a48ee21eb0d51b4 100644
+--- a/infrastructure/analysis-complexity/package.json
++++ b/infrastructure/analysis-complexity/package.json
+@@ -6,6 +6,7 @@
+     "./complexity-rows": "./complexity-rows/complexity-rows.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/code": "workspace:*",
+     "@akasha/errors-core": "workspace:*",
+     "typescript": "^5.9.3"
+   }
