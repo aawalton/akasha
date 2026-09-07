@@ -16,6 +16,21 @@ export const rynStandardAgentEnglish = {
     {
       statement: "Standard Agent English defines what constructions are allowed.",
     },
+    {
+      statement: "Standard Agent English defines what terms are not allowed.",
+    },
+    {
+      statement: "Nothing writes hold where have says the same thing.",
+    },
+    {
+      statement: "Nothing writes carry where have says the same thing.",
+    },
+    {
+      statement: "Nothing writes keep where have says the same thing.",
+    },
+    {
+      statement: "Nothing writes store where have says the same thing.",
+    },
   ],
   constraints: [
     "The load a construction puts on a reading agent is measured.",
