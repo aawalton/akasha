@@ -55,12 +55,15 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Loading reaches the disk and running reaches nothing outside the world handed in.",
+      statement: "Loading a change reaches the disk.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller holding a lock over a store loads before the lock is taken.",
+      statement: "A change reaching another change loads that change while the first change runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lock a caller holds over a store is held while a change reached inside loads.",
     },
     {
       invariantKind: "departure",
