@@ -1,0 +1,13 @@
+diff --git a/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts b/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts
+index 2e4cd978513cdef415643a98c56667281928692b..0e90f87e5ba57829135e29175384613e7813935e 100644
+--- a/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts
++++ b/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts
+@@ -10,7 +10,7 @@ export const orphanSweeping = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every Deployment, Service and StatefulSet in the app namespaces is read.",
++      statement: "Every Deployment and Service and StatefulSet in the app namespaces is read.",
+     },
+     {
+       invariantKind: "departure",
