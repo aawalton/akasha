@@ -1,0 +1,17 @@
+diff --git a/seat-system/seat-beside/seat-beside.module.ts b/seat-system/seat-beside/seat-beside.module.ts
+index 0acc43e7508939b16ff5d0be32926778ce5b535c..46d6a82b7b0a984446e11c64bfebc3b5622ef361 100644
+--- a/seat-system/seat-beside/seat-beside.module.ts
++++ b/seat-system/seat-beside/seat-beside.module.ts
+@@ -22,7 +22,11 @@ export const seatBeside = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A record is written whole, since a partial write takes its other fields away.",
++      statement: "A record is written whole.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A partial write takes a record's other fields away.",
+     },
+     {
+       invariantKind: "departure",
