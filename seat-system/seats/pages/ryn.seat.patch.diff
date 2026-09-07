@@ -26,7 +26,7 @@ index c266660c6d3a7bf7f6c0c3fff6006f3075896dfe..ff5dd7c5971b638f0f78a58306ce3e0e
  
  export type ParsedSentence = {
 diff --git a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
-index 889154fb352315c5f2f70a9954850ec371ee0744..6651d896f71d85c3f67d58679c3858aceeeced80 100644
+index 889154fb352315c5f2f70a9954850ec371ee0744..f3e71ad5c14e6600be654511ecb43cc5a7dc893e 100644
 --- a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
 +++ b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
 @@ -113,6 +113,21 @@ function bestOf(values: Float32Array, start: number, count: number): number {
@@ -123,3 +123,21 @@ index 889154fb352315c5f2f70a9954850ec371ee0744..6651d896f71d85c3f67d58679c3858ac
    }
  }
  
+@@ -243,10 +274,14 @@ async function parsedBatch(
+       "relation_heads": tensorOf(output, "relation_heads"),
+       "selected_heads": selectedHeadsTensor,
+     })
+-    const upos = floatsOf(output, "upos_logits")
+-    const relationScores = floatsOf(relationOutput, "relation_logits")
++    const scores: Scores = {
++      upos: floatsOf(output, "upos_logits"),
++      arc,
++      relation: floatsOf(relationOutput, "relation_logits"),
++      maxWords,
++    }
+     return sentences.map((sentence, row) =>
+-      builtSentence(held.manifest, sentence, row, maxWords, selectedHeads, upos, relationScores)
++      builtSentence(held.manifest, sentence, row, scores, selectedHeads)
+     )
+   } finally {
+     const held = new Set<ort.Tensor>(Object.values(feeds))
