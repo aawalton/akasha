@@ -23,6 +23,7 @@ export const changeMechanical = {
     "page-type/change-mechanical-data",
     "page-type/change-mechanical-text",
     "page-type/change-mechanical-manifest",
+    "page-type/change-mechanical-file-content",
     "change-mechanical-file/move-file",
     "change-mechanical-file/remove-file",
     "change-mechanical-file/remove-file-code",
