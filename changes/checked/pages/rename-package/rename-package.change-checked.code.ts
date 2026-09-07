@@ -106,7 +106,7 @@ function overHeld(
   if (ts.isStringLiteral(node) && node.text === was) found.push(saidAt(source, node, to))
 }
 
-export function respelled(at: string, text: string, was: string, to: string): string {
+export function spelledAnew(at: string, text: string, was: string, to: string): string {
   const found: Splice[] = []
   for (const one of placedIn(at, text)) {
     const next = nameFor(one.text, was, to)
@@ -172,7 +172,7 @@ export function renamePackage(world: World, given: RenamePackageAsked): Answer {
   for (const path of reading.importers) {
     const body = world.textOf(path)
     if (body === null) return refusing(`\`${path}\` reaches this package and could not be read`)
-    const next = respelled(path, body, was, given.to)
+    const next = spelledAnew(path, body, was, given.to)
     if (next !== body) edits.push(writing(path, body, next))
   }
   return answered(edits)
