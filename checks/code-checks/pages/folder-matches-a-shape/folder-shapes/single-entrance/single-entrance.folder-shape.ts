@@ -27,7 +27,7 @@ export const singleEntrance = {
     },
     {
       invariantKind: "departure",
-      statement: "A type declaration file is no entrance, whatever reaches that file.",
+      statement: "A type declaration file is no entrance whatever reaches that file.",
     },
     {
       invariantKind: "gap",
