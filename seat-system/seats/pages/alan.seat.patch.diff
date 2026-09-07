@@ -75,55 +75,6 @@ index 0000000000000000000000000000000000000000..28dea624282b05a37f60420d37396fb0
 +  holds: "number",
 +  code: "ts",
 +} as const satisfies ComputedProperty
-diff --git a/seat-system/resume-seat/resume-seat.module.code.ts b/seat-system/resume-seat/resume-seat.module.code.ts
-index 1d675240a9ca58de3584ace6471073f2fc06ce3c..ff89a9b2ec313e92cb1fb54481f44be7ab6d7061 100644
---- a/seat-system/resume-seat/resume-seat.module.code.ts
-+++ b/seat-system/resume-seat/resume-seat.module.code.ts
-@@ -5,6 +5,7 @@ import {
-   launchSeatUnderTmux,
- } from "../launch-seat-tmux/launch-seat-tmux.module.code.ts"
- import { DEFAULT_ACCOUNT } from "../seat-launching/seat-launching.module.code.ts"
-+import { SEAT_MODE_HEADLESS } from "../seat-modes/seat-modes.module.code.ts"
- import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
- import { terminatePriorAgentTree } from "../seat-recovery/seat-recovery.module.code.ts"
- import { resolveRelaunchTarget } from "../seat-relaunch-target/seat-relaunch-target.module.code.ts"
-@@ -26,6 +27,7 @@ export interface ResumeTarget {
-   readonly account: string | null
-   readonly presence: SeatPresence
-   readonly sessionId: string | null
-+  readonly mode: string | null
- }
- 
- export type ResolvedResumeTarget = { readonly target: ResumeTarget } | { readonly error: string }
-@@ -42,6 +44,10 @@ export interface ResumeSeatInput {
-   readonly agentId: string
-   readonly prompt?: string
-   readonly bootPrompt?: string
-+  // A CALLER STATING NO MODE TAKES THE MODE THE SEAT'S OWN PAGE STATES. A revive that always asked
-+  // for headless took every interactive seat out of Remote Control, and the seat page went on
-+  // saying `interactive`, so nothing reported the drift.
-+  readonly mode?: string
- }
- 
- export interface MaterializeInput {
-@@ -78,7 +84,7 @@ export async function resumeSeat(
- 
-   const resolved = await deps.resolveTarget(input.agentId)
-   if ("error" in resolved) throw dataError(resolved.error)
--  const { name, account, presence, sessionId } = resolved.target
-+  const { name, account, presence, sessionId, mode: pageMode } = resolved.target
- 
-   if (name === null) {
-     throw dataError(
-@@ -120,7 +126,7 @@ export async function resumeSeat(
-       agentId: input.agentId,
-       account: account ?? DEFAULT_ACCOUNT,
-       prompt: plan.prompt,
--      mode: "headless",
-+      mode: input.mode ?? pageMode ?? SEAT_MODE_HEADLESS,
-       resumeSessionId: plan.resumeSessionId,
-     })
-   } catch (err) {
 diff --git a/seat-system/seat-relaunch-target/seat-relaunch-target.module.code.ts b/seat-system/seat-relaunch-target/seat-relaunch-target.module.code.ts
 index f9aad3222d412f606002fcf0370bef9b5214bef5..8f915de30be50602c62cf94a64e9504d317e55ff 100644
 --- a/seat-system/seat-relaunch-target/seat-relaunch-target.module.code.ts
