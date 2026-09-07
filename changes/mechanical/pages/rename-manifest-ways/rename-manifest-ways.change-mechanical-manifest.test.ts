@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { landingFor, renameManifestWays } from "./rename-manifest-ways.change-mechanical.code.ts"
+import {
+  landingFor,
+  renameManifestWays,
+} from "./rename-manifest-ways.change-mechanical-manifest.code.ts"
 
 const AT = "seat-system/package.json"
 
