@@ -9,7 +9,7 @@ export const libSetsDataCasts = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each cast asserts a shape rather than checking one.",
+      statement: "Each cast asserts a shape rather than checking a shape.",
     },
   ],
 } as const satisfies Module
