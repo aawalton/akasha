@@ -1,0 +1,29 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.test.ts b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.test.ts
+index ebce9ec09edb3e23446ed399bede4d04f15162d1..eb5cf99f6d809b2be4e0b54d1bb27bd16a7296d4 100644
+--- a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.test.ts
++++ b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.test.ts
+@@ -115,7 +115,7 @@ const SPARE: Readonly<Record<string, string>> = {
+ 
+ const PAIR: Readonly<Record<string, string>> = {
+   [PAIR_PAGE]: pageOf({
+-    id: idOf("1"),
++    id: idOf("d"),
+     pageTypeSlug: "module",
+     slug: "pair",
+     definition: "a page whose test imports the code beside that page",
+diff --git a/pages/indexes/indexing/indexing.module.test-fixtures.ts b/pages/indexes/indexing/indexing.module.test-fixtures.ts
+index 51cbb23360727f53d62d60c731f1e22b9af634b2..0cffadf75b737c6e29d51ae1fdd5bb6e05d05684 100644
+--- a/pages/indexes/indexing/indexing.module.test-fixtures.ts
++++ b/pages/indexes/indexing/indexing.module.test-fixtures.ts
+@@ -287,8 +287,9 @@ const REPO_VOCABULARY: readonly Named[] = [
+   aType(idOf("3"), "page-property", ["page-type/page"]),
+   aType(idOf("4"), "file-property", ["page-type/page-property"]),
+   aType(idOf("5"), "domain", ["page-type/page"]),
+-  aType(idOf("6"), "module", ["page-type/domain"], ["code", "note", "part-slugs"]),
++  aType(idOf("6"), "module", ["page-type/domain"], ["code", "test", "note", "part-slugs"]),
+   aProperty(idOf("7"), "code", "file-property"),
++  aProperty("01a04a4a-0002-7000-8000-000000000007", "test", "file-property"),
+   aType(idOf("a"), "relation-property", ["page-type/page-property"]),
+   aProperty(idOf("b"), "note", "relation-property", { targetPageTypeSlug: "module" }),
+   aProperty(idOf("c"), "part-slugs", "relation-property", { targetPageTypeSlug: "domain" }),
