@@ -30,7 +30,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "The git origin clears the debris an aborted push leaves behind it.",
       workingMemory:
-        "On 2026-09-07 the origin's 4.6G volume filled and every push was refused with `unable to create temporary object directory`, which stopped both deploys. The fill was 59 `tmp_objdir-incoming-*` quarantine directories dating back to 2026-08-27 and one 1.05G `tmp_pack_*`; clearing those by hand freed 1.9G and left the volume at 60%. Nothing under `git-transport` runs `git gc` or prunes, so it refills at roughly six abandoned pushes a day.",
+        "The sweep is landed at 72b46fea: a `git-transport-janitor` CronJob runs hourly on node-03, mounts the repositories, and takes away every `tmp_objdir-*` and `tmp_pack_*` older than 180 minutes, naming each path removed. The YAML renders and the sweep was run here over a fake tree, taking the two stale entries and leaving the fresh ones. The workflow step applying the CronJob landed at 13e1d86c, so what is unseen from here is the cluster running the job.",
     },
   ],
 } as const satisfies Initiative
