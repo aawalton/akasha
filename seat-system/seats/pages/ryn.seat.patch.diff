@@ -1,5 +1,5 @@
 diff --git a/collections/royal-road/syncing/royal-road-syncing.module.ts b/collections/royal-road/syncing/royal-road-syncing.module.ts
-index 9f00ed44c4b9cc0e0b48469f808549a1133e3769..d230ba673ea85162e7d2b8394bb3fe1160f1e1fe 100644
+index 9f00ed44c4b9cc0e0b48469f808549a1133e3769..b15e10c0223c2d12161f6854894d12f4fb83f608 100644
 --- a/collections/royal-road/syncing/royal-road-syncing.module.ts
 +++ b/collections/royal-road/syncing/royal-road-syncing.module.ts
 @@ -33,12 +33,19 @@ export const royalRoadSyncing = {
@@ -22,6 +22,15 @@ index 9f00ed44c4b9cc0e0b48469f808549a1133e3769..d230ba673ea85162e7d2b8394bb3fe11
        invariantKind: "departure",
 -      statement: "The title follows, cut back to whole words at fifty characters.",
 +      statement: "A title is cut back to whole words at fifty characters.",
+     },
+     {
+       invariantKind: "departure",
+@@ -58,7 +65,7 @@ export const royalRoadSyncing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A story's status is restated only where royal road says ongoing, completed or hiatus.",
++        "A story's status is restated only where royal road says ongoing or completed or hiatus.",
      },
      {
        invariantKind: "departure",
