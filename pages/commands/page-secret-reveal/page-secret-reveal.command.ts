@@ -27,7 +27,7 @@ export const pageSecretReveal = {
     },
     {
       invariantKind: "departure",
-      statement: "The value is answered whole, with nothing else beside that value.",
+      statement: "The value is answered whole with nothing else beside that value.",
     },
     {
       invariantKind: "departure",
