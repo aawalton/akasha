@@ -5,11 +5,6 @@ export const alan = {
   pageTypeSlug: "person",
   slug: "alan",
   definition: "the person this system answers to",
-  answeredBy: "amy",
-  phone: "+16085122510",
-  email: "aawalton@gmail.com",
-  supabaseAuthUserId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  bodyweight: 180,
   directives: [
     {
       directiveKind: "principle",
@@ -61,4 +56,9 @@ export const alan = {
       aids: ["Quick, small and a lot are all estimates.", "A duration already elapsed is a fact."],
     },
   ],
+  answeredBy: "amy",
+  phone: "+16085122510",
+  email: "aawalton@gmail.com",
+  supabaseAuthUserId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  bodyweight: 177.9,
 } as const satisfies Person
