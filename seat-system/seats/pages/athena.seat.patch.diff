@@ -1,0 +1,694 @@
+writerOwesReading: false
+diff --git a/alan/library/book-of-everything/commands/book-of-everything-commands.workspace-package.ts b/alan/library/book-of-everything/commands/book-of-everything-commands.workspace-package.ts
+index 96b518c47dae340fd0f79b728b3a356327e119ad..8e4413e3fa96f920e8771ec4c338518fd30f57ce 100644
+--- a/alan/library/book-of-everything/commands/book-of-everything-commands.workspace-package.ts
++++ b/alan/library/book-of-everything/commands/book-of-everything-commands.workspace-package.ts
+@@ -6,7 +6,7 @@ export const bookOfEverythingCommands = {
+   slug: "book-of-everything-commands",
+   definition: "what an agent runs by name over how far Ali and Alan have got through the book",
+   manifest: "json",
+-  partSlugs: ["command/learn-next", "command/measure-learning"],
++  partSlugs: ["command/learn-next"],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index f80d8066f00d1aeb077da90e9393552ae0eab480..4bb5c89eea1ecd62cc2ee46a197ad32cf144d94a 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -58,8 +58,6 @@ export const command = {
+     "command/lint",
+     "command/lint-exception",
+     "command/loki",
+-    "command/measure",
+-    "command/measure-attributes",
+     "command/model-gateway",
+     "command/move",
+     "command/page-tree",
+@@ -106,6 +104,7 @@ export const command = {
+     "text-property/said",
+     "text-property/takes",
+     "namespace/imessage",
++    "namespace/measure",
+   ],
+   extendsSlug: ["page-type/module"],
+   loadedBySlug: "module/calling",
+diff --git a/command-system/commands/measure-checks/measure-checks.command.code.ts b/command-system/commands/measure-checks/measure-checks.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a38f5894b62e8c88b1fabb1a56c2f6b1b881f3b3
+--- /dev/null
++++ b/command-system/commands/measure-checks/measure-checks.command.code.ts
+@@ -0,0 +1,6 @@
++import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import { costsIn, linesOf } from "../measure/check-measuring/check-measuring.module.code.ts"
++
++export function measureChecks(_argv: readonly string[], given: Given): Answer {
++  return { report: [...linesOf(costsIn(given.root, Date.now()))], refusals: [], code: 0 }
++}
+diff --git a/command-system/commands/measure-checks/measure-checks.command.ts b/command-system/commands/measure-checks/measure-checks.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..411690cc2e5ae6760cdcc90b1dced62d1cd02793
+--- /dev/null
++++ b/command-system/commands/measure-checks/measure-checks.command.ts
+@@ -0,0 +1,34 @@
++import type { Command } from "../command.page-type.ts"
++
++export const measureChecks = {
++  id: "01a0796e-60e0-7966-a168-7960d223be13",
++  pageTypeSlug: "command",
++  slug: "measure-checks",
++  definition: "the command saying what a check's run cost in processor time and memory, by phase",
++  code: "ts",
++  changeKindSlug: "change-mechanical",
++  partSlugs: ["module/check-measuring"],
++  taking: [],
++  helpNotes: [
++    "the runs counted are the ones of the twenty-four hours ending at the moment of asking.",
++    "a run exactly twenty-four hours old is counted, and a run older than that is not.",
++    "a check no run of that window was judged at is not listed at all.",
++    "the window the numbers cover is said beneath the table.",
++    "an average is what a phase's runs took together shared out over how many runs there were.",
++    "a patch run judges the paths a change carries, and an audit run judges every page.",
++    "a run's processor time is that run's own together with the children that run reaped.",
++    "a run's memory is what that run added over the memory resident when the run opened.",
++    "a run that forgot no high-water mark is left out of the memory it would otherwise report.",
++    "that run is counted in the processor time and among the runs its phase holds all the same.",
++    "how many runs a phase holds is said before that phase's averages.",
++    "a phase no run was judged at is drawn as `-`, which is not an average of zero.",
++    "a phase no run was judged at counts `0` runs, which is a count rather than an absence.",
++    "checks are ordered by what their patch runs took on average, and no patch run comes last.",
++  ],
++  invariants: [
++    {
++      invariantKind: "absence",
++      statement: "A run writes no value the commit holds.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/command-system/commands/measure-claude-accounts-cost/measure-claude-accounts-cost.command.code.ts b/command-system/commands/measure-claude-accounts-cost/measure-claude-accounts-cost.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6a981c9dd8fe52ac23e898aa70b0ca89c2fd2e0d
+--- /dev/null
++++ b/command-system/commands/measure-claude-accounts-cost/measure-claude-accounts-cost.command.code.ts
+@@ -0,0 +1,15 @@
++import type { Answer } from "../../calling/calling.module.code.ts"
++import {
++  countedIn,
++  linesOf,
++  sinceOf,
++  storeHere,
++} from "../measure/claude-account-costing/claude-account-costing.module.code.ts"
++
++const DAYS = 30
++
++export function measureClaudeAccountsCost(): Answer {
++  const until = Date.now()
++  const counted = countedIn(storeHere(), sinceOf(until, DAYS), until)
++  return { report: [...linesOf(counted, DAYS)], refusals: [], code: 0 }
++}
+diff --git a/command-system/commands/measure-claude-accounts-cost/measure-claude-accounts-cost.command.ts b/command-system/commands/measure-claude-accounts-cost/measure-claude-accounts-cost.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..68a8fea423ca4fddf121ee4e66ffcd51c3be695d
+--- /dev/null
++++ b/command-system/commands/measure-claude-accounts-cost/measure-claude-accounts-cost.command.ts
+@@ -0,0 +1,26 @@
++import type { Command } from "../command.page-type.ts"
++
++export const measureClaudeAccountsCost = {
++  id: "01a0796e-60fd-789e-af7f-3c8104ab8bb3",
++  pageTypeSlug: "command",
++  slug: "measure-claude-accounts-cost",
++  definition: "the command pricing the calls the transcripts on this machine hold",
++  code: "ts",
++  changeKindSlug: "change-mechanical",
++  partSlugs: ["module/claude-account-costing"],
++  taking: [],
++  helpNotes: [
++    "the calls priced are the ones the transcripts on this machine hold over the last thirty days.",
++    "a price is the api's own list price, so what a subscription cost is not what this says.",
++    "a call a resumed session or a subagent wrote down again is counted once.",
++    "the transcripts sit on this machine, so calls made on another machine are not counted.",
++    "a model this holds no price for is named under the total rather than counted as nothing.",
++    "every transcript is read, which takes minutes, and nothing is written while it runs.",
++  ],
++  invariants: [
++    {
++      invariantKind: "absence",
++      statement: "A run writes no value the commit holds.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/command-system/commands/measure-claude-accounts-usage/measure-claude-accounts-usage.command.code.ts b/command-system/commands/measure-claude-accounts-usage/measure-claude-accounts-usage.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e14c1f57152c519be606f1ab0fd5662856b548a8
+--- /dev/null
++++ b/command-system/commands/measure-claude-accounts-usage/measure-claude-accounts-usage.command.code.ts
+@@ -0,0 +1,23 @@
++import { linesOf, readingsIn } from "@akasha/agents/claude-account-measuring"
++import { notesOf, refreshAll } from "@akasha/agents/claude-account-refreshing"
++import type { Answer, Given } from "../../calling/calling.module.code.ts"
++
++export async function measureClaudeAccountsUsage(
++  _argv: readonly string[],
++  given: Given
++): Promise<Answer> {
++  const notes = notesOf(await refreshAll(given.root, Date.now()))
++  const readings = readingsIn(given.root)
++  if (readings.length === 0) {
++    return {
++      report: [],
++      refusals: [
++        `no claude-account page sits under \`${given.root}\`, and every account holding a page ` +
++          `is answered, so a fleet of none is the pages being wrong rather than a fleet`,
++      ],
++      code: 2,
++    }
++  }
++  const said = [...linesOf(readings, Date.now())]
++  return { report: notes.length === 0 ? said : [...said, "", ...notes], refusals: [], code: 0 }
++}
+diff --git a/command-system/commands/measure-claude-accounts-usage/measure-claude-accounts-usage.command.ts b/command-system/commands/measure-claude-accounts-usage/measure-claude-accounts-usage.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ed362dc427d5722787b6f580da04d1c3cd388b60
+--- /dev/null
++++ b/command-system/commands/measure-claude-accounts-usage/measure-claude-accounts-usage.command.ts
+@@ -0,0 +1,48 @@
++import type { Command } from "../command.page-type.ts"
++
++export const measureClaudeAccountsUsage = {
++  id: "01a0796e-6118-7440-9744-e4d725a51a0a",
++  pageTypeSlug: "command",
++  slug: "measure-claude-accounts-usage",
++  definition: "the command saying what each account has spent of its two windows",
++  code: "ts",
++  changeKindSlug: "change-mechanical",
++  taking: [],
++  helpNotes: [
++    "each account's usage is read upstream first, and what is read lands beside that account.",
++    "reading usage costs nothing and starts no window.",
++    "renewing a token is the upkeep service's alone, so a lapsed account is passed over and named.",
++    "the `>` names the account the picker would take right now.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A fleet answered as holding nobody is the pages being wrong.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A fleet's usage is read upstream before the fleet is answered.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An account that was not refreshed is named under the numbers.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "An account that was not refreshed is answered from the usage already beside its page.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run renews no token.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run starts no rate-limit window.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run writes no value the commit holds.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/command-system/commands/measure-pages/measure-pages.command.code.ts b/command-system/commands/measure-pages/measure-pages.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..563d3e6a57afc8f34e5b8653254fe50cef5d12f9
+--- /dev/null
++++ b/command-system/commands/measure-pages/measure-pages.command.code.ts
+@@ -0,0 +1,6 @@
++import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import { countsIn, linesOf } from "../measure/page-measuring/page-measuring.module.code.ts"
++
++export function measurePages(_argv: readonly string[], given: Given): Answer {
++  return { report: [...linesOf(countsIn(given.root))], refusals: [], code: 0 }
++}
+diff --git a/command-system/commands/measure-pages/measure-pages.command.ts b/command-system/commands/measure-pages/measure-pages.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bcb50e878a7fa75733d0348384cda171b63ba2fe
+--- /dev/null
++++ b/command-system/commands/measure-pages/measure-pages.command.ts
+@@ -0,0 +1,25 @@
++import type { Command } from "../command.page-type.ts"
++
++export const measurePages = {
++  id: "01a0796e-60c4-70a1-bcfe-f3dffb873f7e",
++  pageTypeSlug: "command",
++  slug: "measure-pages",
++  definition: "the command counting the checkout's files by page type rather than by file type",
++  code: "ts",
++  changeKindSlug: "change-mechanical",
++  partSlugs: ["module/page-measuring"],
++  taking: [],
++  helpNotes: [
++    "a page type is the second part of a file name, so `amy.persona.ts` is a `persona` page.",
++    "the pages of a page type and the property files beside them are counted apart.",
++    "a file naming a page type nothing declares is counted under no page type.",
++    "a secret beside a page is no property, so a `sops` file sits outside the page types.",
++    "how many files are no page at all is said beneath the total.",
++  ],
++  invariants: [
++    {
++      invariantKind: "absence",
++      statement: "A run writes no value the commit holds.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/command-system/commands/measure-repo/measure-repo.command.code.ts b/command-system/commands/measure-repo/measure-repo.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2ef23ec3939273da75c7959d7d2fff7b688076c3
+--- /dev/null
++++ b/command-system/commands/measure-repo/measure-repo.command.code.ts
+@@ -0,0 +1,6 @@
++import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import { countsIn, linesOf } from "../measure/repo-measuring/repo-measuring.module.code.ts"
++
++export function measureRepo(_argv: readonly string[], given: Given): Answer {
++  return { report: [...linesOf(countsIn(given.root))], refusals: [], code: 0 }
++}
+diff --git a/command-system/commands/measure-repo/measure-repo.command.ts b/command-system/commands/measure-repo/measure-repo.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8a071365ba8505be924ca22e9bc6255f36477889
+--- /dev/null
++++ b/command-system/commands/measure-repo/measure-repo.command.ts
+@@ -0,0 +1,27 @@
++import type { Command } from "../command.page-type.ts"
++
++export const measureRepo = {
++  id: "01a0796e-60aa-792a-9f56-2593355a10a6",
++  pageTypeSlug: "command",
++  slug: "measure-repo",
++  definition: "the command counting the files the checkout holds, by file type",
++  code: "ts",
++  changeKindSlug: "change-mechanical",
++  partSlugs: ["module/repo-measuring", "module/checkout-counting"],
++  taking: [],
++  helpNotes: [
++    "`repo` counts the files the checkout holds and the lines those files run to, by file type.",
++    "a file type is what follows the last dot in a name, and a name with no dot is its own type.",
++    "a file a `generated`, `build`, `dist`, `out` or `coverage` folder holds is not counted.",
++    "no file is judged for being text, so a font counts whatever newlines its bytes hold.",
++    "the total beneath the types counts what was counted rather than what git listed.",
++    "what git counts is counted: tracked files, and untracked files the repository keeps.",
++    "what the repository ignores is not counted, so built output is no file waiting to arrive.",
++  ],
++  invariants: [
++    {
++      invariantKind: "absence",
++      statement: "A run writes no value the commit holds.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/command-system/commands/measure/measure.command.code.ts b/command-system/commands/measure/measure.command.code.ts
+deleted file mode 100644
+index 5e0b8d6dea50a1a55859f5685e772a13b1d16493..0000000000000000000000000000000000000000
+--- a/command-system/commands/measure/measure.command.code.ts
++++ /dev/null
+@@ -1,109 +0,0 @@
+-import { linesOf, readingsIn } from "@akasha/agents/claude-account-measuring"
+-import { notesOf, refreshAll } from "@akasha/agents/claude-account-refreshing"
+-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+-import { linesOf as checkLinesOf, costsIn } from "./check-measuring/check-measuring.module.code.ts"
+-import {
+-  linesOf as costLinesOf,
+-  countedIn,
+-  sinceOf,
+-  storeHere,
+-} from "./claude-account-costing/claude-account-costing.module.code.ts"
+-import {
+-  countsIn as pageCountsIn,
+-  linesOf as pageLinesOf,
+-} from "./page-measuring/page-measuring.module.code.ts"
+-import { countsIn, linesOf as repoLinesOf } from "./repo-measuring/repo-measuring.module.code.ts"
+-
+-const CLAUDE_ACCOUNTS = "claude-accounts"
+-
+-const REPO = "repo"
+-
+-const PAGES = "pages"
+-
+-const CHECKS = "checks"
+-
+-const COST = "cost"
+-
+-const DAYS = 30
+-
+-const SUBJECTS: readonly string[] = [CLAUDE_ACCOUNTS, REPO, PAGES, CHECKS]
+-
+-const ACTS: readonly string[] = [COST]
+-
+-function saidAsList(subjects: readonly string[]): string {
+-  return subjects.map((one) => `\`${one}\``).join(" or ")
+-}
+-
+-function refusing(said: string): Answer {
+-  return { report: [], refusals: [said], code: 1 }
+-}
+-
+-async function measureClaudeAccounts(given: Given): Promise<Answer> {
+-  const notes = notesOf(await refreshAll(given.root, Date.now()))
+-  const readings = readingsIn(given.root)
+-  if (readings.length === 0) {
+-    return {
+-      report: [],
+-      refusals: [
+-        `no claude-account page sits under \`${given.root}\`, and every account holding a page ` +
+-          `is answered, so a fleet of none is the pages being wrong rather than a fleet`,
+-      ],
+-      code: 2,
+-    }
+-  }
+-  const said = [...linesOf(readings, Date.now())]
+-  return {
+-    report: notes.length === 0 ? said : [...said, "", ...notes],
+-    refusals: [],
+-    code: 0,
+-  }
+-}
+-
+-function measureRepo(given: Given): Answer {
+-  return { report: [...repoLinesOf(countsIn(given.root))], refusals: [], code: 0 }
+-}
+-
+-function measurePages(given: Given): Answer {
+-  return { report: [...pageLinesOf(pageCountsIn(given.root))], refusals: [], code: 0 }
+-}
+-
+-function measureChecks(given: Given): Answer {
+-  const said = checkLinesOf(costsIn(given.root, Date.now()))
+-  return { report: [...said], refusals: [], code: 0 }
+-}
+-
+-function measureCost(): Answer {
+-  const until = Date.now()
+-  const counted = countedIn(storeHere(), sinceOf(until, DAYS), until)
+-  return { report: [...costLinesOf(counted, DAYS)], refusals: [], code: 0 }
+-}
+-
+-export function measure(argv: readonly string[], given: Given): Answer | Promise<Answer> {
+-  const subject = argv[0]
+-  if (subject === undefined) {
+-    return refusing(
+-      `${given.calledAs} names what to measure, and nothing followed it — it takes ${saidAsList(SUBJECTS)}`
+-    )
+-  }
+-  if (!SUBJECTS.includes(subject)) {
+-    return refusing(`\`${subject}\` is nothing this measures — it measures ${saidAsList(SUBJECTS)}`)
+-  }
+-  const act = argv[1]
+-  if (act === undefined) {
+-    if (subject === CLAUDE_ACCOUNTS) return measureClaudeAccounts(given)
+-    if (subject === REPO) return measureRepo(given)
+-    return subject === PAGES ? measurePages(given) : measureChecks(given)
+-  }
+-  if (argv.length > 2) {
+-    return refusing(
+-      `one call names one act, and \`${argv.slice(1).join(" ")}\` names more than one`
+-    )
+-  }
+-  if (subject !== CLAUDE_ACCOUNTS) {
+-    return refusing(`\`${subject}\` carries no act, and \`${act}\` followed it`)
+-  }
+-  if (!ACTS.includes(act)) {
+-    return refusing(`the act is the second word, and \`${act}\` is no act this takes`)
+-  }
+-  return measureCost()
+-}
+diff --git a/command-system/commands/measure/measure.command.test.ts b/command-system/commands/measure/measure.command.test.ts
+deleted file mode 100644
+index f6dc58a74dbc1082a67cf24ec3c5497c720bf00a..0000000000000000000000000000000000000000
+--- a/command-system/commands/measure/measure.command.test.ts
++++ /dev/null
+@@ -1,93 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import { said as git } from "@akasha/git/git-running"
+-import { put } from "@akasha/testing-system/putting"
+-import type { Given } from "../../calling/calling.module.code.ts"
+-import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+-import { measure } from "./measure.command.code.ts"
+-
+-const scratch = scratchWorld()
+-
+-afterAll(scratch.sweep)
+-
+-function given(root: string): Given {
+-  return { root, calledAs: "akasha measure", from: root, writer: null, agentId: null }
+-}
+-
+-test("a call naming no subject is refused, saying the ones it takes", async () => {
+-  const said = await measure([], given("/repo"))
+-
+-  expect(said.code).toBe(1)
+-  expect(said.report).toEqual([])
+-  expect(said.refusals[0]).toContain("claude-accounts")
+-  expect(said.refusals[0]).toContain("repo")
+-})
+-
+-test("a subject this does not measure is refused by name", async () => {
+-  const said = await measure(["seats"], given("/repo"))
+-
+-  expect(said.code).toBe(1)
+-  expect(said.refusals[0]).toContain("`seats`")
+-})
+-
+-test("an act this does not take is refused by name", async () => {
+-  const said = await measure(["claude-accounts", "repo"], given("/repo"))
+-
+-  expect(said.code).toBe(1)
+-  expect(said.refusals[0]).toContain("`repo`")
+-  expect(said.refusals[0]).toContain("no act this takes")
+-})
+-
+-test("a subject carrying no act is refused the word after it", async () => {
+-  const said = await measure(["repo", "cost"], given("/repo"))
+-
+-  expect(said.code).toBe(1)
+-  expect(said.refusals[0]).toContain("carries no act")
+-})
+-
+-test("one call names one act", async () => {
+-  const said = await measure(["claude-accounts", "cost", "cost"], given("/repo"))
+-
+-  expect(said.code).toBe(1)
+-  expect(said.refusals[0]).toContain("one act")
+-})
+-
+-test("the subject read is the first word", async () => {
+-  const said = await measure(["--claude-accounts"], given("/repo"))
+-
+-  expect(said.code).toBe(1)
+-  expect(said.refusals[0]).toContain("`--claude-accounts`")
+-})
+-
+-test("`repo` counts the files the checkout holds", async () => {
+-  const root = scratch.rootFor("measure-repo-")
+-  git(root, ["init", "--quiet"])
+-  put(root, ".git/info/exclude", "node_modules/\n")
+-  put(root, "akasha/one.ts", "one\n")
+-  put(root, "tools/two.ts", "two\n")
+-  put(root, "node_modules/pkg/three.ts", "three\n")
+-
+-  const said = await measure(["repo"], given(root))
+-
+-  expect(said.code).toBe(0)
+-  expect(said.refusals).toEqual([])
+-  expect(said.report).toEqual([
+-    "type   files  lines",
+-    "ts         2      2",
+-    "",
+-    "total      2      2",
+-  ])
+-})
+-
+-test("a checkout git cannot list throws rather than counting none", () => {
+-  const root = scratch.rootFor("measure-repo-bare-")
+-
+-  expect(() => measure(["repo"], given(root))).toThrow()
+-})
+-
+-test("`pages` in a checkout holding no index throws rather than counting none", () => {
+-  const root = scratch.rootFor("measure-pages-")
+-  git(root, ["init", "--quiet"])
+-  put(root, "one.page-type.ts", "one\n")
+-
+-  expect(() => measure(["pages"], given(root))).toThrow()
+-})
+diff --git a/command-system/commands/measure/measure.command.ts b/command-system/commands/measure/measure.command.ts
+deleted file mode 100644
+index adde892ac540573752f5a40c2a079d66d380c57b..0000000000000000000000000000000000000000
+--- a/command-system/commands/measure/measure.command.ts
++++ /dev/null
+@@ -1,126 +0,0 @@
+-import type { Command } from "../command.page-type.ts"
+-
+-export const measure = {
+-  id: "01a05827-314f-7f41-8ff3-76792d3e7ad9",
+-  pageTypeSlug: "command",
+-  slug: "measure",
+-  definition: "the command saying what a fleet has spent of what it is allowed",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-mechanical",
+-  partSlugs: [
+-    "module/check-measuring",
+-    "module/checkout-counting",
+-    "module/claude-account-costing",
+-    "module/page-measuring",
+-    "module/repo-measuring",
+-  ],
+-  taking: [
+-    {
+-      said: "<subject>",
+-      takes: "what to measure, which is `claude-accounts`, `repo`, `pages` or `checks`",
+-    },
+-    { said: "cost", takes: "the act, which is to price the calls the transcripts here hold" },
+-  ],
+-  helpNotes: [
+-    "the subject is the first word, and one call measures one subject.",
+-    "an act is the second word, and a subject said with no act is measured whole.",
+-    "`cost` is the only act there is, and `claude-accounts` is the only subject carrying one.",
+-    "`claude-accounts` says what each account has spent of its five-hour and seven-day windows.",
+-    "each account's usage is read upstream first, and what is read lands beside that account.",
+-    "reading usage costs nothing and starts no window.",
+-    "renewing a token is the upkeep service's alone, so a lapsed account is passed over and named.",
+-    "the `>` names the account the picker would take right now.",
+-    "`cost` prices the calls the transcripts on this machine hold over the last thirty days.",
+-    "a price is the api's own list price, so what a subscription cost is not what `cost` says.",
+-    "a call a resumed session or a subagent wrote down again is counted once.",
+-    "the transcripts sit on this machine, so calls made on another machine are not counted.",
+-    "a model this holds no price for is named under the total rather than counted as nothing.",
+-    "`cost` reads every transcript, which takes minutes, and writes nothing while it runs.",
+-    "`repo` counts the files the checkout holds and the lines those files run to, by file type.",
+-    "a file type is what follows the last dot in a name, and a name with no dot is its own type.",
+-    "a file a `generated`, `build`, `dist`, `out` or `coverage` folder holds is not counted.",
+-    "no file is judged for being text, so a font counts whatever newlines its bytes hold.",
+-    "the total beneath the types counts what was counted rather than what git listed.",
+-    "`pages` counts the same checkout by page type rather than by file type.",
+-    "a page type is the second part of a file name, so `amy.persona.ts` is a `persona` page.",
+-    "the pages of a page type and the property files beside them are counted apart.",
+-    "a file naming a page type nothing declares is counted under no page type.",
+-    "a secret beside a page is no property, so a `sops` file sits outside the page types.",
+-    "how many files are no page at all is said beneath the total.",
+-    "`repo` counts what git counts: tracked files, and untracked files the repository keeps.",
+-    "what the repository ignores is not counted, so built output is no file waiting to arrive.",
+-    "`checks` says what a check's run cost on average in processor time and memory, by phase.",
+-    "the runs counted are the ones of the twenty-four hours ending at the moment of asking.",
+-    "a run exactly twenty-four hours old is counted, and a run older than that is not.",
+-    "a check no run of that window was judged at is not listed at all.",
+-    "the window the numbers cover is said beneath the table.",
+-    "an average is what a phase's runs took together shared out over how many runs there were.",
+-    "a patch run judges the paths a change carries, and an audit run judges every page.",
+-    "a run's processor time is that run's own together with the children that run reaped.",
+-    "a run's memory is what that run added over the memory resident when the run opened.",
+-    "a run that forgot no high-water mark is left out of the memory it would otherwise report.",
+-    "that run is counted in the processor time and among the runs its phase holds all the same.",
+-    "how many runs a phase holds is said before that phase's averages.",
+-    "a phase no run was judged at is drawn as `-`, which is not an average of zero.",
+-    "a phase no run was judged at counts `0` runs, which is a count rather than an absence.",
+-    "checks are ordered by what their patch runs took on average, and no patch run comes last.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The subject is the first word.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The act is the second word.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A subject stating no act is measured whole.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Only the claude-accounts subject carries an act.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A subject this command does not measure is refused rather than measured as nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An act this command does not carry is refused rather than measured as nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A fleet answered as holding nobody is the pages being wrong.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A fleet's usage is read upstream before the fleet is answered.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An account that was not refreshed is named under the numbers.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "An account that was not refreshed is answered from the usage already beside its page.",
+-    },
+-
+-    {
+-      invariantKind: "absence",
+-      statement: "A run renews no token.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A run starts no rate-limit window.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A run writes no value the commit holds.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/command-system/namespaces/pages/measure-claude-accounts.namespace.ts b/command-system/namespaces/pages/measure-claude-accounts.namespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3b13aebfd6eb168411b3ad45f5e402c45ca4424f
+--- /dev/null
++++ b/command-system/namespaces/pages/measure-claude-accounts.namespace.ts
+@@ -0,0 +1,9 @@
++import type { Namespace } from "../namespace.page-type.ts"
++
++export const measureClaudeAccounts = {
++  id: "01a0796e-608f-717c-b6a8-4843088b5a0e",
++  pageTypeSlug: "namespace",
++  slug: "measure-claude-accounts",
++  definition: "what the fleet of claude accounts has spent",
++  partSlugs: ["command/measure-claude-accounts-usage", "command/measure-claude-accounts-cost"],
++} as const satisfies Namespace
+diff --git a/command-system/namespaces/pages/measure.namespace.ts b/command-system/namespaces/pages/measure.namespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6b92f1248b21d931eeaffb70bb27fa2aa9b505f4
+--- /dev/null
++++ b/command-system/namespaces/pages/measure.namespace.ts
+@@ -0,0 +1,16 @@
++import type { Namespace } from "../namespace.page-type.ts"
++
++export const measure = {
++  id: "01a0796e-6072-74f0-b75e-599b54481bb7",
++  pageTypeSlug: "namespace",
++  slug: "measure",
++  definition: "what a thing has spent of what that thing is allowed",
++  partSlugs: [
++    "command/measure-repo",
++    "command/measure-pages",
++    "command/measure-checks",
++    "namespace/measure-claude-accounts",
++    "command/measure-attributes",
++    "command/measure-learning",
++  ],
++} as const satisfies Namespace
