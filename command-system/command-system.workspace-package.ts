@@ -64,6 +64,8 @@ export const commandSystem = {
     "module/seat-act-calling",
     "module/command-flags",
     "module/said-pathing",
+    "module/warrant-owing",
+    "module/passage-counting",
   ],
   invariants: [
     {

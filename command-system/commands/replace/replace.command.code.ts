@@ -23,6 +23,7 @@ import {
 } from "../../command-flags/command-flags.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { defaultMessage } from "../../landing-saying/landing-saying.module.code.ts"
+import { counted as countedIn } from "../../passage-counting/passage-counting.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
 import {
   inputIn,
@@ -34,8 +35,7 @@ import {
   pipedIn,
 } from "../../piping/piping.module.code.ts"
 import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
-import { counted as countedIn } from "../edit/edit.command.code.ts"
-import { unwarrantedIn } from "../write/write.command.code.ts"
+import { unwarrantedIn } from "../../warrant-owing/warrant-owing.module.code.ts"
 
 const OLD_FILE = "--old-file"
 

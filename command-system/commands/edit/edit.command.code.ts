@@ -21,6 +21,7 @@ import {
 } from "../../command-flags/command-flags.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { defaultMessage } from "../../landing-saying/landing-saying.module.code.ts"
+import { counted } from "../../passage-counting/passage-counting.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
 import {
   inputIn,
@@ -32,13 +33,13 @@ import {
   pipedIn,
 } from "../../piping/piping.module.code.ts"
 import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
+import { unwarrantedIn } from "../../warrant-owing/warrant-owing.module.code.ts"
 import {
   besideTaken,
   RESTATED,
   removingIn,
   restatedIn,
   unrestatedFor,
-  unwarrantedIn,
 } from "../write/write.command.code.ts"
 
 const OLD_FILE = "--old-file"
@@ -164,16 +165,6 @@ function askingIn(read: Read, given: Given, piping: Piping): Askings {
   if ("refusals" in passages) return { refusals: passages.refusals }
   const stated = passages.passages.map((one) => ({ ...one, fromFiles: false }))
   return { asking: [...read.asking, { path, stated }] }
-}
-
-export function counted(body: string, said: string): number {
-  let found = 0
-  let at = body.indexOf(said)
-  while (at !== -1) {
-    found += 1
-    at = body.indexOf(said, at + said.length)
-  }
-  return found
 }
 
 export function substituted(body: string, said: string, put: string): string {

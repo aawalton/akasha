@@ -1,6 +1,5 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { changingOf, owedIn } from "@akasha/context/warranting"
 import { besideAll } from "@akasha/pages/page-beside"
 import {
   BREAK_GLASS,
@@ -31,6 +30,7 @@ import type { Piping } from "../../piping/piping.module.code.ts"
 import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
 import { unrestatedIn } from "../../restating/restating.module.code.ts"
 import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
+import { unwarrantedIn } from "../../warrant-owing/warrant-owing.module.code.ts"
 
 export const RESTATED = "--restated"
 
@@ -39,16 +39,6 @@ export const RESTATED_KIND = "change-restated"
 export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE: readonly string[] = [RESTATED]
-
-export function unwarrantedIn(given: Given, changes: readonly FileEdit[]): readonly string[] {
-  if (given.changeKind?.writerOwesReading === false) return []
-  return owedIn(
-    given.root,
-    given.agentId,
-    changes.map((one) => one.path),
-    changingOf(given.root, changes)
-  )
-}
 
 export function restatedIn(
   argv: readonly string[],
