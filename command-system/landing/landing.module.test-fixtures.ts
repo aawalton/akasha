@@ -117,6 +117,8 @@ export async function pageLanded(root: string): Promise<string> {
 
 const HELD_OUT = "deep/held.uncommitted.json"
 
+const KEPT_OUT = "kept.uncommitted.json"
+
 export const IGNORED_OUT: readonly string[] = [".gitignore", "new.txt", "one.txt"]
 
 const SPLIT: readonly FileEdit[] = [
@@ -142,6 +144,29 @@ export async function splitLanded(): Promise<{
     wrote: said.wrote,
     files: git(root, ["ls-tree", "-r", "--name-only", "HEAD"]).trim().split("\n").sort(),
   }
+}
+
+export async function splitKept(): Promise<string | null> {
+  const root = ignoringRepo()
+  writeFileSync(join(root, KEPT_OUT), "was")
+  const at = join(root, ".git/objects")
+  chmodSync(at, 0o500)
+  try {
+    await landing(
+      root,
+      [
+        { path: "new.txt", body: bytesOf("proposed") },
+        { path: KEPT_OUT, body: bytesOf("now") },
+      ],
+      "held",
+      ADMITS
+    )
+  } catch {
+  } finally {
+    chmodSync(at, 0o700)
+  }
+  const full = join(root, KEPT_OUT)
+  return existsSync(full) ? readFileSync(full, "utf8") : null
 }
 
 export async function splitThrew(): Promise<{

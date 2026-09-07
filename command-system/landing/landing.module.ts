@@ -117,6 +117,14 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "A landing that throws puts back the paths that landing commits alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The body an ignored path already held stands where a landing throws.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path the repository ignores is answered as neither written nor taken.",
     },
     {

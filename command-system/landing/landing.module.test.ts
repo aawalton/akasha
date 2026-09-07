@@ -44,6 +44,7 @@ import {
   REFUSES,
   repoWith,
   scratch,
+  splitKept,
   splitLanded,
   splitThrew,
 } from "./landing.module.test-fixtures.ts"
@@ -343,6 +344,10 @@ test("a path the repository ignores is written onto the tree and left out of the
   expect(said.held).toBe("unsaid")
   expect(said.wrote).toEqual(["new.txt"])
   expect(said.files).toEqual(IGNORED_OUT)
+})
+
+test("a commit that throws leaves the body an ignored path already held", async () => {
+  expect(await splitKept()).toBe("was")
 })
 
 test("a commit that throws leaves no trace of the path the repository ignores", async () => {
