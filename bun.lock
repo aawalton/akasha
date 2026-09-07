@@ -1474,6 +1474,7 @@
     "sms-access": {
       "name": "@akasha/sms-access",
       "dependencies": {
+        "@akasha/pages": "workspace:*",
         "@akasha/sms-core": "workspace:*",
       },
     },
