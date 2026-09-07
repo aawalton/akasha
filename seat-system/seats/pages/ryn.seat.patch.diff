@@ -1,0 +1,17 @@
+diff --git a/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts b/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
+index ea4eeb5b5a8a3f129ca63b9709c4cfd526b46762..76ef14cbd784049d1d31717af20df84eb766a34c 100644
+--- a/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
++++ b/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
+@@ -13,7 +13,11 @@ export const tickSleeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A wait says whether that wait ran out or was cut short, so a loop knows to stop.",
++      statement: "A wait says whether that wait ran out or was ended early.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A loop reads that answer to know whether to stop.",
+     },
+     {
+       invariantKind: "departure",
