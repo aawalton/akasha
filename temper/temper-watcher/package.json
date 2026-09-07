@@ -43,7 +43,6 @@
     "./watcher-page-landing": "./watcher-page-landing/watcher-page-landing.module.code.ts",
     "./watcher-net-worth-landing": "./watcher-net-worth-landing/watcher-net-worth-landing.module.code.ts",
     "./watcher-task-landing": "./watcher-task-landing/watcher-task-landing.module.code.ts",
-    "./watcher-completed-day-landing": "./watcher-completed-day-landing/watcher-completed-day-landing.module.code.ts",
     "./watcher-settings-consumables": "./watcher-settings-consumables/watcher-settings-consumables.module.code.ts",
     "./watcher-import-completion": "./watcher-import-completion/watcher-import-completion.module.code.ts",
     "./watcher-import-item-rule-verdicts": "./watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts",
