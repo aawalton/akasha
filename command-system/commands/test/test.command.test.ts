@@ -181,6 +181,19 @@ check("a failing run says how many ran, which file failed, and how many failed i
   expect(said[2]).toBe("  akasha/two.test.ts — 2 failed")
 })
 
+check("a failing run names each test that failed under the file holding that test", () => {
+  const root = repo({ "two.test.ts": TWICE })
+  const said = test(["--file-path", "akasha/two.test.ts"], given(root)).report
+  expect(said.slice(3, 5)).toEqual(["    first", "    second"])
+})
+
+check("a test's name is carried without the time the runner printed beside the name", () => {
+  const root = repo({ "two.test.ts": TWICE })
+  const said = test(["--file-path", "akasha/two.test.ts"], given(root)).report.join("\n")
+  expect(said).not.toContain("ms]")
+  expect(said).not.toContain("(fail)")
+})
+
 check("a file that will not load is named with the one line it gave", () => {
   const root = repo({ "gone.test.ts": LOADS })
   const said = test(["--file-path", "akasha/gone.test.ts"], given(root))
@@ -225,7 +238,7 @@ check("a run printing no summary carries what the runner printed rather than a p
 })
 
 check("the tail a crash carries is bounded in lines and in bytes alike", () => {
-  const counted = Array.from({ length: 40 }, (one, at) => `line ${at}`).join("\n")
+  const counted = Array.from({ length: 40 }, (_, at) => `line ${at}`).join("\n")
   expect(tailOf(counted).length).toBe(21)
   expect(tailOf(counted)[0]).toContain("its last 20 lines")
   expect(tailOf(counted)[1]).toBe("  line 20")
@@ -279,7 +292,7 @@ check("a run naming one test that passes carries no detail", () => {
 })
 
 check("what a named run carries is bounded in lines and in bytes alike", () => {
-  const counted = `(fail) one\n${Array.from({ length: 60 }, (one, at) => `line ${at}`).join("\n")}`
+  const counted = `(fail) one\n${Array.from({ length: 60 }, (_, at) => `line ${at}`).join("\n")}`
   expect(detailOf(counted).length).toBe(41)
   expect(detailOf(counted)[1]).toBe("  (fail) one")
   const wide = `(fail) one\n${Array.from({ length: 40 }, () => "x".repeat(300)).join("\n")}`

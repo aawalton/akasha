@@ -71,6 +71,14 @@ export const test = {
     },
     {
       invariantKind: "departure",
+      statement: "A failing run names each test that failed under the file holding that test.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test's name is carried without the time the runner printed beside the name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run printing no summary carries the tail of the output the runner printed.",
     },
     {

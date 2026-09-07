@@ -4,6 +4,7 @@ import { textIn } from "@akasha/code/body-text"
 import type { Ran, Summary, Verdict } from "@akasha/code/code-tests"
 import { plain, ranOver, testNamed, testsBesideOf } from "@akasha/code/code-tests"
 import { endingOf } from "@akasha/utils-run/running"
+import { counted } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 
 const FILE_PATH = "--file-path"
@@ -124,6 +125,8 @@ const LISTED = 20
 
 const FAILED = "(fail) "
 
+const TIMED = /\s+\[[\d.]+\s*m?s\]$/
+
 const UNLOADED = "# Unhandled error between tests"
 
 const SAID = /^error:\s*(.*)$/
@@ -144,7 +147,7 @@ const SAID_NOTHING = "the runner printed nothing about the test that failed"
 const NO_SUMMARY = "the runner printed no summary"
 
 type Read = {
-  readonly failing: ReadonlyMap<string, number>
+  readonly failing: ReadonlyMap<string, readonly string[]>
   readonly unloadable: ReadonlyMap<string, string>
 }
 
@@ -153,8 +156,12 @@ function headed(line: string): string | null {
   return testNamed(at) ? at : null
 }
 
+export function nameIn(line: string): string {
+  return line.slice(FAILED.length).replace(TIMED, "").trim()
+}
+
 function readingOf(output: string): Read {
-  const failing = new Map<string, number>()
+  const failing = new Map<string, string[]>()
   const unloadable = new Map<string, string>()
   let at = ""
   let awaiting = false
@@ -167,7 +174,9 @@ function readingOf(output: string): Read {
     }
     if (at === "") continue
     if (line.startsWith(FAILED)) {
-      failing.set(at, (failing.get(at) ?? 0) + 1)
+      const named = failing.get(at) ?? []
+      named.push(nameIn(line))
+      failing.set(at, named)
       continue
     }
     if (line === UNLOADED) {
@@ -184,8 +193,17 @@ function readingOf(output: string): Read {
   return { failing, unloadable }
 }
 
-function many(count: number, one: string): string {
-  return `${count} ${one}${count === 1 ? "" : "s"}`
+export function failedLines(
+  failing: readonly (readonly [string, readonly string[]])[]
+): readonly string[] {
+  const lines: string[] = []
+  for (const [at, names] of failing) {
+    lines.push(`  ${at} — ${names.length} failed`)
+    for (const name of names.slice(0, LISTED)) lines.push(`    ${name}`)
+    const rest = names.length - Math.min(names.length, LISTED)
+    if (rest > 0) lines.push(`    and ${counted(rest, "test")} more`)
+  }
+  return lines
 }
 
 function listed(head: string, lines: readonly string[]): readonly string[] {
@@ -215,8 +233,8 @@ export function tailOf(output: string): readonly string[] {
   if (kept.length === 0) return [`${NO_SUMMARY}, and its last line runs past what this holds.`]
   const said =
     kept.length === lines.length
-      ? `${NO_SUMMARY} — all ${many(kept.length, "line")} of what it printed:`
-      : `${NO_SUMMARY} — its last ${many(kept.length, "line")}:`
+      ? `${NO_SUMMARY} — all ${counted(kept.length, "line")} of what it printed:`
+      : `${NO_SUMMARY} — its last ${counted(kept.length, "line")}:`
   return [said, ...kept.map((one) => `  ${one}`)]
 }
 
@@ -250,14 +268,11 @@ function reportOf(
   const failing = [...read.failing].sort(byPath)
   const unloadable = [...read.unloadable].sort(byPath)
   const told = [
-    `${many(passed + failed, "test")} ran: ${passed} passed, ${failed} failed.` +
-      (loads === 0 ? "" : ` ${many(loads, "file")} would not load.`),
+    `${counted(passed + failed, "test")} ran: ${passed} passed, ${failed} failed.` +
+      (loads === 0 ? "" : ` ${counted(loads, "file")} would not load.`),
+    ...listed(`${counted(failing.length, "test file")} failed:`, failedLines(failing)),
     ...listed(
-      `${many(failing.length, "test file")} failed:`,
-      failing.map(([at, count]) => `  ${at} — ${count} failed`)
-    ),
-    ...listed(
-      `${many(unloadable.length, "file")} would not load:`,
+      `${counted(unloadable.length, "file")} would not load:`,
       unloadable.map(([at, why]) => `  ${at} — ${why}`)
     ),
   ]
