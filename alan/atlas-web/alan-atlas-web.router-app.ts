@@ -12,6 +12,7 @@ export const alanAtlasWeb = {
   serverEntry: "tsx",
   routerConfig: "ts",
   compileConfig: "json",
+  viteConfig: "ts",
   partSlugs: [
     "manifest/alanwalton-atlas",
     "stylesheet/alan-atlas-web-look",
