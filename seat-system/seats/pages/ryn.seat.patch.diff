@@ -1,0 +1,18 @@
+diff --git a/seat-system/supervising/supervisor-deferred-restart/supervisor-deferred-restart.module.ts b/seat-system/supervising/supervisor-deferred-restart/supervisor-deferred-restart.module.ts
+index 386c0c01893a6884aadc652ea6ddf74b24497514..1e906c298d3c7b57fab8f41e5094bbd46a8940df 100644
+--- a/seat-system/supervising/supervisor-deferred-restart/supervisor-deferred-restart.module.ts
++++ b/seat-system/supervising/supervisor-deferred-restart/supervisor-deferred-restart.module.ts
+@@ -9,8 +9,11 @@ export const supervisorDeferredRestart = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A restart fires once, and the timers that restart armed are cleared when that restart does.",
++      statement: "A restart fires once.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The timers a restart armed are cleared when that restart fires.",
+     },
+     {
+       invariantKind: "departure",
