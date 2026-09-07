@@ -1,0 +1,121 @@
+writerOwesReading: false
+diff --git a/command-system/address-mapping/address-mapping.module.code.ts b/command-system/address-mapping/address-mapping.module.code.ts
+index c811e8c90613c8931d779c77a6bafdb0425efb87..13405e40aa91f3bf3153b127f3dd1e3481d5d13b 100644
+--- a/command-system/address-mapping/address-mapping.module.code.ts
++++ b/command-system/address-mapping/address-mapping.module.code.ts
+@@ -1,10 +1,10 @@
+-import { readFileSync } from "node:fs"
+ import { dirname, join, relative } from "node:path"
+ import { formattedBody } from "@akasha/code/code-format"
+ import type { Change } from "@akasha/pages/change"
+ import { besideAt, partedIn } from "@akasha/pages/page-file-name"
+ import type { Shadow } from "@akasha/pages/shadow"
+ import { shadowFor } from "@akasha/pages/shadow"
++import { textOnDisk } from "@akasha/utils-fs/text-on-disk"
+ import type { FileEdit } from "../landing/landing.module.code.ts"
+ import { baseOf, changeOf } from "../landing/landing.module.code.ts"
+ 
+@@ -16,6 +16,7 @@ const REACHED = [
+   "change-mechanical",
+   "change-checked",
+   "change-authored",
++  "change-restated",
+ ]
+ 
+ const ADDRESSED = "addressed"
+@@ -42,14 +43,6 @@ export type Mapped = {
+ 
+ const NOTHING_MAPPED: Mapped = { edits: [], said: [] }
+ 
+-function onDisk(at: string): string | null {
+-  try {
+-    return readFileSync(at, "utf8")
+-  } catch {
+-    return null
+-  }
+-}
+-
+ function specifierFor(from: string, to: string): string {
+   const said = relative(dirname(from), to)
+   return said.startsWith(".") ? said : `./${said}`
+@@ -62,7 +55,7 @@ function declaresRun(text: string): boolean {
+ export function textOver(root: string, change: Change): (path: string) => string | null {
+   const carried = new Set(change.changed)
+   return (path) => {
+-    if (!carried.has(path)) return onDisk(join(root, path))
++    if (!carried.has(path)) return textOnDisk(join(root, path))
+     const after = change.after(path)
+     return after === null ? null : new TextDecoder().decode(after)
+   }
+diff --git a/command-system/package.json b/command-system/package.json
+index 0cc0aaf519afc6ce4c49ea3538b06806d88db10d..620c45d253aabd16f59c8faf7e41fdb02998c00c 100644
+--- a/command-system/package.json
++++ b/command-system/package.json
+@@ -43,6 +43,7 @@
+     "@akasha/errors-core": "workspace:*",
+     "@akasha/inference-clients": "workspace:*",
+     "@akasha/inference-runs": "workspace:*",
++    "@akasha/utils-fs": "workspace:*",
+     "@akasha/wan": "workspace:*",
+     "@akasha/zimage": "workspace:*",
+     "typescript": "5.9.3"
+diff --git a/utils-fs/package.json b/utils-fs/package.json
+index 7d1b6676f8d25ad74b915dade6900cf5a9f255f4..bfed112f0fd325a2541246f4caae6ec0d74a4a6a 100644
+--- a/utils-fs/package.json
++++ b/utils-fs/package.json
+@@ -6,9 +6,11 @@
+     "./atomic-write": "./atomic-write/atomic-write.module.code.ts",
+     "./expand-tilde": "./expand-tilde/expand-tilde.module.code.ts",
+     "./missing": "./missing/missing.module.code.ts",
+-    "./read-stdin-or-file": "./read-stdin-or-file/read-stdin-or-file.module.code.ts"
++    "./read-stdin-or-file": "./read-stdin-or-file/read-stdin-or-file.module.code.ts",
++    "./text-on-disk": "./text-on-disk/text-on-disk.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/code-system": "workspace:*",
+     "@akasha/errors-core": "workspace:*"
+   }
+ }
+diff --git a/utils-fs/text-on-disk/text-on-disk.module.code.ts b/utils-fs/text-on-disk/text-on-disk.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cb0acec90571791b79f473abf78c41e49710bdbc
+--- /dev/null
++++ b/utils-fs/text-on-disk/text-on-disk.module.code.ts
+@@ -0,0 +1,11 @@
++import { readFileSync } from "node:fs"
++import { isMissing } from "../missing/missing.module.code.ts"
++
++export function textOnDisk(path: string): string | null {
++  try {
++    return readFileSync(path, "utf8")
++  } catch (thrown) {
++    if (!isMissing(thrown)) throw thrown
++    return null
++  }
++}
+diff --git a/utils-fs/text-on-disk/text-on-disk.module.ts b/utils-fs/text-on-disk/text-on-disk.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8d406b3adf72a8d17e9b61bc19e20b8135ce0b4e
+--- /dev/null
++++ b/utils-fs/text-on-disk/text-on-disk.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const textOnDisk = {
++  id: "01a079aa-9118-7efd-9944-5e9b643983a2",
++  pageTypeSlug: "module",
++  slug: "text-on-disk",
++  definition: "the text a file holds, or nothing where no file is there",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-fs/utils-fs.workspace-package.ts b/utils-fs/utils-fs.workspace-package.ts
+index 6ec30c46ea8c8b37d8fa1bfed5401415d138f7bf..5a63679935b2b8784e4b2fd526154a5afc98fbef 100644
+--- a/utils-fs/utils-fs.workspace-package.ts
++++ b/utils-fs/utils-fs.workspace-package.ts
+@@ -11,5 +11,6 @@ export const utilsFs = {
+     "module/expand-tilde",
+     "module/missing",
+     "module/read-stdin-or-file",
++    "module/text-on-disk",
+   ],
+ } as const satisfies WorkspacePackage
