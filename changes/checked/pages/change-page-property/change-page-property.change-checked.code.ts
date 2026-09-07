@@ -34,9 +34,9 @@ export async function changePageProperty(
     )
   }
   if (targetsIn(read.known, read.value, given.key).length > 0) {
-    return await reach(world, CHANGE_PAGE_PROPERTY_RELATION, given)
+    return (await reach(world, CHANGE_PAGE_PROPERTY_RELATION, given)).said
   }
-  return await reach(world, CHANGE_PAGE_PROPERTY, given)
+  return (await reach(world, CHANGE_PAGE_PROPERTY, given)).said
 }
 
 export type Asked = Readonly<Record<string, string>>

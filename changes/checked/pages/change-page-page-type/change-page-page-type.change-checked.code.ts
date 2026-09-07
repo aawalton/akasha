@@ -115,30 +115,43 @@ export async function changePagePageType(
   const nowName = typedAs(type.slug)
   const movedOver = Object.fromEntries(moved)
   const carried: Edit[] = []
+  let reached = world
   for (const [one, next] of moved) {
-    if (world.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
-    const answer = await reach(world, REPOINT_IMPORTS, { was: one, now: next, moved: movedOver })
-    if (answer.refused !== null) return answer
-    carried.push(...answer.edits)
+    if (reached.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
+    const answer = await reach(reached, REPOINT_IMPORTS, { was: one, now: next, moved: movedOver })
+    if (answer.said.refused !== null) return answer.said
+    carried.push(...answer.said.edits)
+    reached = answer.world
   }
   let held = answered(carried)
   held = await stepped(world, held, (over) => restating(over, at, said.pageType))
-  held = await stepped(world, held, (over) => {
+  held = await stepped(world, held, async (over) => {
     const text = over.textOf(at) ?? ""
     const line = importingFor(wasName).exec(text)
     const spelled = `import type { ${nowName} } from ${JSON.stringify(specifierFor(dirname(at), given.to))}`
-    return reach(over, CHANGE_FILE, { at, old: line === null ? "" : line[0], new: spelled })
+    const one = await reach(over, CHANGE_FILE, {
+      at,
+      old: line === null ? "" : line[0],
+      new: spelled,
+    })
+    return one.said
   })
-  held = await stepped(world, held, (over) =>
-    reach(over, CHANGE_FILE, { at, old: `satisfies ${wasName}`, new: `satisfies ${nowName}` })
-  )
-  held = await stepped(world, held, (over) =>
-    reach(over, CHANGE_FILE, {
+  held = await stepped(world, held, async (over) => {
+    const one = await reach(over, CHANGE_FILE, {
+      at,
+      old: `satisfies ${wasName}`,
+      new: `satisfies ${nowName}`,
+    })
+    return one.said
+  })
+  held = await stepped(world, held, async (over) => {
+    const one = await reach(over, CHANGE_FILE, {
       at,
       old: `${TYPE_KEY}: ${JSON.stringify(said.pageType)}`,
       new: `${TYPE_KEY}: ${JSON.stringify(type.slug)}`,
     })
-  )
+    return one.said
+  })
   held = await stepped(world, held, async (over) => {
     const edits: Edit[] = []
     for (const path of reading.importers) {
@@ -152,8 +165,8 @@ export async function changePagePageType(
         now: path,
         moved: movedOver,
       })
-      if (answer.refused !== null) return answer
-      for (const one of answer.edits) {
+      if (answer.said.refused !== null) return answer.said
+      for (const one of answer.said.edits) {
         if (one.body !== text) edits.push(one)
       }
     }

@@ -58,21 +58,24 @@ export async function movePage(world: World, given: MovePageAsked): Promise<Answ
   if ("unread" in reading) return refusing(reading.unread)
   const carried = Object.fromEntries(moved)
   const edits: Edit[] = []
+  let seen = world
   for (const [one, next] of moved) {
-    if (world.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
-    const answer = await reach(world, REPOINT_IMPORTS, { was: one, now: next, moved: carried })
-    if (answer.refused !== null) return answer
-    edits.push(...answer.edits)
+    if (seen.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
+    const answer = await reach(seen, REPOINT_IMPORTS, { was: one, now: next, moved: carried })
+    if (answer.said.refused !== null) return answer.said
+    edits.push(...answer.said.edits)
+    seen = answer.world
   }
   for (const path of reading.importers) {
     if (moved.has(path)) continue
-    const held = world.textOf(path)
+    const held = seen.textOf(path)
     if (held === null) return refusing(`\`${path}\` names a path that moved and could not be read`)
-    const answer = await reach(world, REPOINT_IMPORTS, { was: path, now: path, moved: carried })
-    if (answer.refused !== null) return answer
-    for (const one of answer.edits) {
+    const answer = await reach(seen, REPOINT_IMPORTS, { was: path, now: path, moved: carried })
+    if (answer.said.refused !== null) return answer.said
+    for (const one of answer.said.edits) {
       if (one.body !== held) edits.push(one)
     }
+    seen = answer.world
   }
   return answered(edits)
 }

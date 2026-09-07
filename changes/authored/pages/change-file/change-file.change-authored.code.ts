@@ -19,7 +19,7 @@ export async function changeFileCommand(world: World, given: Asked): Promise<Ans
   if (old === undefined) return refusing(missing(OLD))
   const becomes = given[NEW]
   if (becomes === undefined) return refusing(missing(NEW))
-  return await reach(world, CHANGE_FILE, { at, old, new: becomes })
+  return (await reach(world, CHANGE_FILE, { at, old, new: becomes })).said
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {

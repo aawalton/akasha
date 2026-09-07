@@ -22,5 +22,5 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
       `\`${given.at}\` is under no \`${PAGE_TYPE}\` name, so this change writes nothing`
     )
   }
-  return await reach(world, ADD_PAGE_FILE, { at: given.at, body: given.body })
+  return (await reach(world, ADD_PAGE_FILE, { at: given.at, body: given.body })).said
 }

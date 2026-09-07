@@ -31,7 +31,7 @@ export async function addPropertyValue(
       return refusing(`\`${given.key}\` names a relation, and ${reached.refused}`)
     }
   }
-  return await reach(world, ADD_PROPERTY_VALUE, given)
+  return (await reach(world, ADD_PROPERTY_VALUE, given)).said
 }
 
 export type Asked = Readonly<Record<string, string>>

@@ -91,9 +91,13 @@ export async function changeDomainParent(
     key: PARTS,
     value: spelled,
   })
-  if (taken.refused !== null) return taken
-  const put = await reach(world, ADD_PROPERTY_VALUE, { at: to.path, key: PARTS, value: spelled })
-  return gathered([taken, put])
+  if (taken.said.refused !== null) return taken.said
+  const put = await reach(taken.world, ADD_PROPERTY_VALUE, {
+    at: to.path,
+    key: PARTS,
+    value: spelled,
+  })
+  return gathered([taken.said, put.said])
 }
 
 export type Asked = Readonly<Record<string, string>>

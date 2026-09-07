@@ -23,16 +23,18 @@ export async function renamePath(world: World, given: RenamePathAsked): Promise<
     now: given.to,
     moved,
   })
-  if (carried.refused !== null) return carried
-  const edits: Edit[] = [...carried.edits]
+  if (carried.said.refused !== null) return carried.said
+  const edits: Edit[] = [...carried.said.edits]
+  let seen = carried.world
   for (const path of reading.importers) {
-    const held = world.textOf(path)
+    const held = seen.textOf(path)
     if (held === null) return refusing(`\`${path}\` names what moved and could not be read`)
-    const said = await reach(world, REPOINT_IMPORTS, { was: path, now: path, moved })
-    if (said.refused !== null) return said
-    for (const one of said.edits) {
+    const said = await reach(seen, REPOINT_IMPORTS, { was: path, now: path, moved })
+    if (said.said.refused !== null) return said.said
+    for (const one of said.said.edits) {
       if (one.body !== held) edits.push(one)
     }
+    seen = said.world
   }
   return answered(edits)
 }

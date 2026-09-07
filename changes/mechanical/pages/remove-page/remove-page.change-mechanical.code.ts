@@ -32,28 +32,31 @@ export function parentsOf(world: World, at: string): readonly Named[] {
   return found
 }
 
-async function unnamingIn(world: World, at: string): Promise<Answer> {
+async function unnamingIn(world: World, at: string, parents: readonly Named[]): Promise<Answer> {
   const said = partedIn(at)
   if (said === null) return answered([])
   const qualified = `${said.pageType}/${said.slug}`
   const answers: Answer[] = []
-  for (const parent of parentsOf(world, at)) {
-    const one = await reach(world, REMOVE_PROPERTY_VALUE, {
+  let seen = world
+  for (const parent of parents) {
+    const one = await reach(seen, REMOVE_PROPERTY_VALUE, {
       at: parent.path,
       key: PART_SLUGS_KEY,
       value: qualified,
     })
-    if (one.refused === null) {
-      answers.push(one)
+    if (one.said.refused === null) {
+      answers.push(one.said)
+      seen = one.world
       continue
     }
-    const bare = await reach(world, REMOVE_PROPERTY_VALUE, {
+    const bare = await reach(seen, REMOVE_PROPERTY_VALUE, {
       at: parent.path,
       key: PART_SLUGS_KEY,
       value: said.slug,
     })
-    if (bare.refused !== null) return one
-    answers.push(bare)
+    if (bare.said.refused !== null) return one.said
+    answers.push(bare.said)
+    seen = bare.world
   }
   return gathered(answers)
 }
@@ -68,9 +71,15 @@ export async function removePage(world: World, given: RemoveOrdinaryPageAsked): 
     const why = cause instanceof Error ? cause.message : String(cause)
     return refusing(`${why}, so the files beside \`${given.at}\` were not worked out`)
   }
+  const parents = parentsOf(world, given.at)
   const taken: Answer[] = []
-  for (const one of beside) taken.push(await reach(world, REMOVE_FILE, { at: one }))
-  const unnamed = await unnamingIn(world, given.at)
+  let seen = world
+  for (const one of beside) {
+    const said = await reach(seen, REMOVE_FILE, { at: one })
+    taken.push(said.said)
+    seen = said.world
+  }
+  const unnamed = await unnamingIn(seen, given.at, parents)
   if (unnamed.refused !== null) return unnamed
   return gathered([...taken, unnamed])
 }

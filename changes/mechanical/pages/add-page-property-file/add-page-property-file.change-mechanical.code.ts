@@ -16,5 +16,5 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (!pageNamed(given.at, world.index.kindsUnder(PAGE_PROPERTY))) {
     return refusing(`\`${given.at}\` is under no page property name, so this change writes nothing`)
   }
-  return await reach(world, ADD_PAGE_FILE, { at: given.at, body: given.body })
+  return (await reach(world, ADD_PAGE_FILE, { at: given.at, body: given.body })).said
 }

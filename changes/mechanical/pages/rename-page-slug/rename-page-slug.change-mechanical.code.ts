@@ -191,8 +191,8 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
       key: PLURAL_SLUG,
       to: given.plural,
     })
-    if (stated.refused !== null) return stated
-    answers.push(stated)
+    if (stated.said.refused !== null) return stated.said
+    answers.push(stated.said)
   }
   const reading = importingOf(world.index, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
@@ -204,8 +204,8 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
     of: bound,
     to: exportedAs(given.to),
   })
-  if (spelled.refused !== null) return spelled
-  answers.push(spelled)
+  if (spelled.said.refused !== null) return spelled.said
+  answers.push(spelled.said)
   return gathered(answers)
 }
 

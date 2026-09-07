@@ -26,8 +26,15 @@ export const NOTHING_OVER: Answer = { edits: [], refused: null }
 const REACHES_NOTHING: Reaching = (_world, at) =>
   Promise.resolve(refusing(`\`${at}\` is reached by no runner, so no change was run`))
 
-export async function reach(world: World, at: string, given: unknown): Promise<Answer> {
-  return await (world.reaching ?? REACHES_NOTHING)(world, at, given)
+export type Reached = {
+  readonly said: Answer
+  readonly world: World
+}
+
+export async function reach(world: World, at: string, given: unknown): Promise<Reached> {
+  const said = await (world.reaching ?? REACHES_NOTHING)(world, at, given)
+  if (said.refused !== null) return { said, world }
+  return { said, world: worldOver(world, said) }
 }
 
 function bytesOf(body: string | null): Uint8Array | null {

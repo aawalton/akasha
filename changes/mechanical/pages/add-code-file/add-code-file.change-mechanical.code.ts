@@ -16,5 +16,5 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (!CODE.has(extname(given.at))) {
     return refusing(`\`${given.at}\` is under no TypeScript name, so this change writes nothing`)
   }
-  return await reach(world, ADD_FILE, { at: given.at, body: given.body })
+  return (await reach(world, ADD_FILE, { at: given.at, body: given.body })).said
 }

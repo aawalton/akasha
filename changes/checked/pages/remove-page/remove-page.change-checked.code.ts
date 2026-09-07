@@ -23,7 +23,7 @@ export async function removePage(world: World, given: RemovePageAsked): Promise<
       `\`${given.at}\` is a page type, which \`remove-page-type\` takes away rather than this change`
     )
   }
-  return await reach(world, REMOVE_PAGE, { at: given.at })
+  return (await reach(world, REMOVE_PAGE, { at: given.at })).said
 }
 
 export type Asked = Readonly<Record<string, string>>

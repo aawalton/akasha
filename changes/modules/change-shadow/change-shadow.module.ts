@@ -54,6 +54,18 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A reach answers the world that reach's answer leaves beside that answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach coming back refused answers the world that reach was handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change reaching more than one change carries each world into the next reach.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path an answer writes reads back the body that answer leaves at the path.",
     },
     {

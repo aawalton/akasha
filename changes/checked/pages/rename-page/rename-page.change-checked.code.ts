@@ -157,16 +157,16 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
       to: given.to,
       plural: given.plural,
     })
-    if (said.refused !== null) return said
-    answers.push(said)
+    if (said.said.refused !== null) return said.said
+    answers.push(said.said)
     folded = gathered(answers)
     if (folded.refused !== null) return folded
     seen = worldOver(world, folded)
   }
   for (const one of [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]) {
     const carried = await reach(seen, RENAME_PATH, one)
-    if (carried.refused !== null) return carried
-    answers.push(carried)
+    if (carried.said.refused !== null) return carried.said
+    answers.push(carried.said)
     folded = gathered(answers)
     if (folded.refused !== null) return folded
     seen = worldOver(world, folded)

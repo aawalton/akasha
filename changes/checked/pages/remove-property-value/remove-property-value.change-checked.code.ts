@@ -23,7 +23,7 @@ export async function removePropertyValue(
 ): Promise<Answer> {
   const read = readFor(world, given.at)
   if ("refused" in read) return refusing(`${read.refused}, so no value is taken out`)
-  return await reach(world, REMOVE_PROPERTY_VALUE, given)
+  return (await reach(world, REMOVE_PROPERTY_VALUE, given)).said
 }
 
 export type Asked = Readonly<Record<string, string>>

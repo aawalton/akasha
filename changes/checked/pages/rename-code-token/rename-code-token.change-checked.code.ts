@@ -90,7 +90,7 @@ export async function renameCodeToken(world: World, given: RenameCodeTokenAsked)
       of: given.of,
       to: given.to,
     })
-    return gathered([spelled])
+    return gathered([spelled.said])
   }
   const declared = declaredNamed(typing, given.at, given.of)
   if (declared.length === 0) return refusing(`\`${given.at}\` declares no \`${given.of}\``)
@@ -105,7 +105,7 @@ export async function renameCodeToken(world: World, given: RenameCodeTokenAsked)
     spot: named.getStart(source),
     to: given.to,
   })
-  return gathered([renamed])
+  return gathered([renamed.said])
 }
 
 export type Asked = Readonly<Record<string, string>>

@@ -35,7 +35,13 @@ export async function renameExport(world: World, given: RenameExportAsked): Prom
   const reading = importingOf(world.index, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
   const over = [given.at, ...reading.importers]
-  return await reach(world, RESPELL_EXPORT, { at: given.at, over, of: given.of, to: given.to })
+  const respelled = await reach(world, RESPELL_EXPORT, {
+    at: given.at,
+    over,
+    of: given.of,
+    to: given.to,
+  })
+  return respelled.said
 }
 
 export async function runChange(world: World, given: RenameExportAsked): Promise<Answer> {

@@ -24,7 +24,7 @@ export async function changePagePropertyRelation(
   if ("refused" in reached) {
     return refusing(`\`${given.key}\` names a relation, and ${reached.refused}`)
   }
-  return await reach(world, CHANGE_PAGE_PROPERTY, given)
+  return (await reach(world, CHANGE_PAGE_PROPERTY, given)).said
 }
 
 export async function runChange(

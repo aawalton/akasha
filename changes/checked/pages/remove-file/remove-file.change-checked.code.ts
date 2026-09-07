@@ -18,7 +18,7 @@ export async function removeFile(world: World, given: RemoveFileAsked): Promise<
       `\`${given.at}\` is a page file, which \`remove-page\` takes away rather than this change`
     )
   }
-  return await reach(world, REMOVE_FILE, { at: given.at })
+  return (await reach(world, REMOVE_FILE, { at: given.at })).said
 }
 
 export type Asked = Readonly<Record<string, string>>

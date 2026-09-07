@@ -28,7 +28,7 @@ export async function addFileCommand(world: World, given: Asked): Promise<Answer
   if (at === undefined) return refusing(missing(AT))
   const body = given[BODY]
   if (body === undefined) return refusing(missing(BODY))
-  return await reach(world, addressFor(world, at), { at, body })
+  return (await reach(world, addressFor(world, at), { at, body })).said
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {

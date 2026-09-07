@@ -17,5 +17,5 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
       `\`${given.at}\` is under no TypeScript name, so this change takes nothing away`
     )
   }
-  return await reach(world, REMOVE_FILE, { at: given.at })
+  return (await reach(world, REMOVE_FILE, { at: given.at })).said
 }
