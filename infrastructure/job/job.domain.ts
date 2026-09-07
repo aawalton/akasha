@@ -9,8 +9,11 @@ export const job = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A job that fails leaves its object behind, and a later run succeeding does not remove that object.",
+      statement: "A job that fails leaves its object behind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A later run succeeding does not remove the object a failed job left.",
     },
   ],
 } as const satisfies Domain
