@@ -1,0 +1,18 @@
+writerOwesReading: false
+diff --git a/alan/tracking/to-dos/pages/protein-drink-creatine/protein-drink-creatine.to-do.ts b/alan/tracking/to-dos/pages/protein-drink-creatine/protein-drink-creatine.to-do.ts
+index df152d1128ab535847e10896a67b2df25f642dee..7eec32497d457ed245e3d05a00a32914d0b7093e 100644
+--- a/alan/tracking/to-dos/pages/protein-drink-creatine/protein-drink-creatine.to-do.ts
++++ b/alan/tracking/to-dos/pages/protein-drink-creatine/protein-drink-creatine.to-do.ts
+@@ -7,10 +7,10 @@ export const proteinDrinkCreatine = {
+   title: "Protein drink + creatine",
+   toDoCategory: "health",
+   difficulty: "trivial",
+-  toDoDueDate: "2026-09-07",
++  toDoDueDate: "2026-09-08",
+   toDoPriority: "p3",
+   toDoRecurrence: "FREQ=DAILY",
+   toDoValueSlug: "health",
+-  toDoLastCompletedAt: "2026-08-18T23:35:33.283Z",
++  toDoLastCompletedAt: "2026-09-07T18:17:46.720Z",
+   whatItTakes: "txt",
+ } as const satisfies ToDo
