@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts b/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
+index de72b22d1d3fd8d384c656900ae11dca8feedd3f..5fae45e4a2e16045110df38795dd1993dd20c854 100644
+--- a/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
++++ b/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
+@@ -7,7 +7,7 @@ export const noReExport = {
+   definition: "the check refusing a file that exports a name it did not declare itself",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
