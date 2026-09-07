@@ -13,6 +13,8 @@ afterAll(scratch.sweep)
 
 const ONE_AT = "akasha/one.ts"
 
+const TWO_AT = "akasha/two.ts"
+
 const AGAIN = "written again\n"
 
 const CHECKED: Kind = {
@@ -48,4 +50,49 @@ test("a landing whose readers owe reading carries none, so every reader goes sta
 
 test("a landing handed no change kind carries nothing", () => {
   expect(carriedOver(undefined)).toBe(false)
+})
+
+test("a path whose readers owe reading loses their readings while the path beside it keeps them", () => {
+  const root = repoWith({ [ONE_AT]: "committed\n", [TWO_AT]: "committed\n" })
+  const base = baseOf(root)
+  put(root, ONE_AT, AGAIN)
+  put(root, TWO_AT, AGAIN)
+  const one = readFileSync(join(root, ONE_AT))
+  const two = readFileSync(join(root, TWO_AT))
+
+  carryLanded(
+    root,
+    base,
+    runningOf(CHECKED),
+    [
+      { path: ONE_AT, body: one, readersOweReading: true },
+      { path: TWO_AT, body: two, readersOweReading: false },
+    ],
+    []
+  )
+
+  expect(readingIn(root, AGENT, ONE_AT)).toBe(null)
+  expect(sameBody(readingIn(root, AGENT, TWO_AT), blobIdOf(two))).toBe(true)
+})
+
+test("a path saying nothing of that flag takes what the landing as a whole says", () => {
+  const root = repoWith({ [ONE_AT]: "committed\n", [TWO_AT]: "committed\n" })
+  const base = baseOf(root)
+  put(root, ONE_AT, AGAIN)
+  put(root, TWO_AT, AGAIN)
+  const one = readFileSync(join(root, ONE_AT))
+
+  carryLanded(
+    root,
+    base,
+    runningOf(AUTHORED),
+    [
+      { path: ONE_AT, body: one },
+      { path: TWO_AT, body: readFileSync(join(root, TWO_AT)), readersOweReading: false },
+    ],
+    []
+  )
+
+  expect(readingIn(root, AGENT, ONE_AT)).toBe(null)
+  expect(readingIn(root, AGENT, TWO_AT)).not.toBe(null)
 })

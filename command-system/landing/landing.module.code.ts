@@ -21,6 +21,7 @@ export type FileEdit = {
   readonly path: string
   readonly body: Uint8Array | null
   readonly carried?: boolean
+  readonly readersOweReading?: boolean
 }
 
 export type FileCarry = {
@@ -67,7 +68,11 @@ const AGAIN_DRAFTED = "nothing was drafted — read them again against what is t
 const KEPT_AS_IT_WAS = "nothing was drafted — the patch is as the patch was"
 
 export function editsOf(held: Bodies): readonly FileEdit[] {
-  return [...held].map(([path, one]) => ({ path, body: one.body }))
+  return [...held].map(([path, one]) => ({
+    path,
+    body: one.body,
+    readersOweReading: one.readersOweReading,
+  }))
 }
 
 export function baseOf(root: string): string {
@@ -287,6 +292,7 @@ function draftsOf(root: string, base: string, changes: readonly FileEdit[]): rea
     path: one.path,
     was: before.get(one.path) ?? null,
     body: one.body,
+    readersOweReading: one.readersOweReading,
   }))
 }
 

@@ -36,12 +36,28 @@ export const landingReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A landing whose readers owe no reading carries their readings onto the bodies that landing left.",
+      statement: "Each path a landing carries says on its own whether its readers owe the reading.",
     },
     {
       invariantKind: "departure",
-      statement: "A landing whose readers owe reading carries no reading.",
+      statement: "A path saying nothing takes the answer the landing as a whole gives.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path whose readers owe no reading carries their readings onto the body that landing left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path whose readers owe reading has their readings of that path dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The readings of one path are dropped rather than the readings of the whole set.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing whose readers owe reading as a whole carries no rename handed in.",
     },
     {
       invariantKind: "departure",

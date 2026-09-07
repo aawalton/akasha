@@ -47,6 +47,8 @@ const NOT_OWED_WAS = "runsWarrants: false"
 
 const NOT_STALED_AT = "readersOweReading: false"
 
+const NOT_STALED_ONE = `${NOT_STALED_AT} `
+
 const DIFF_AT = "diff --git "
 
 export type Running = {
@@ -69,16 +71,20 @@ export type Draft = {
   readonly path: string
   readonly was: Uint8Array | null
   readonly body: Uint8Array | null
+  readonly readersOweReading?: boolean
 }
 
 export type Kept = { readonly patch: string | null; readonly clashed: readonly string[] }
 
 export type Drafted = Kept | { readonly why: string }
 
-export type Bodies = ReadonlyMap<
-  string,
-  { readonly was: Uint8Array | null; readonly body: Uint8Array | null }
->
+export type Body = {
+  readonly was: Uint8Array | null
+  readonly body: Uint8Array | null
+  readonly readersOweReading?: boolean
+}
+
+export type Bodies = ReadonlyMap<string, Body>
 
 export type Rebased = {
   readonly held: Bodies
@@ -88,7 +94,7 @@ export type Rebased = {
 
 export type Would = { readonly held: Bodies } | { readonly why: string }
 
-type Held = Map<string, { readonly was: Uint8Array | null; readonly body: Uint8Array | null }>
+type Held = Map<string, Body>
 
 type Worked = { readonly held: Held } | { readonly why: string }
 
@@ -114,11 +120,6 @@ export function droppedPatch(root: string, page: string, why: string): boolean {
   return true
 }
 
-// A caller that folds into the patch and then lands the patch leaves work in a patch no change
-// reaches where the landing refuses between the two, so the fold is put back rather than left. The
-// bytes handed in are the bytes the fold found, because a patch worked out again would merge a
-// second time what the fold already merged. The fold committed the patch the fold wrote, so putting
-// that patch back is a commit of its own rather than a file written over.
 export function putBack(root: string, page: string, patch: string | null): boolean {
   const at = patchAt(page)
   if (at === null) return false
@@ -150,11 +151,30 @@ function clashedIn(held: Bodies): readonly string[] {
     .sort()
 }
 
+function linesIn(patch: string): readonly string[] {
+  const at = patch.indexOf(DIFF_AT)
+  return (at < 0 ? patch : patch.slice(0, at)).split("\n")
+}
+
+function carriedIn(patch: string): ReadonlySet<string> {
+  const held = new Set<string>()
+  for (const line of linesIn(patch)) {
+    if (line.startsWith(NOT_STALED_ONE)) held.add(line.slice(NOT_STALED_ONE.length))
+  }
+  return held
+}
+
 function heldIn(root: string, patch: string | null): Held {
   const held: Held = new Map()
   if (patch === null) return held
+  const whole = linesIn(patch).includes(NOT_STALED_AT)
+  const carried = carriedIn(patch)
   for (const [path, blobs] of blobsIn(patch)) {
-    held.set(path, { was: bodyOf(root, blobs.base), body: bodyOf(root, blobs.result) })
+    held.set(path, {
+      was: bodyOf(root, blobs.base),
+      body: bodyOf(root, blobs.result),
+      readersOweReading: !whole && !carried.has(path),
+    })
   }
   return held
 }
@@ -203,36 +223,46 @@ export function rebasedOnto(
     const held = one.body
     const away = now === null && one.was !== null && held !== null ? markedAway(held) : null
     if (away !== null) {
-      next.set(path, { was: now, body: away })
+      next.set(path, { was: now, body: away, readersOweReading: one.readersOweReading })
       continue
     }
     const said = merged(one.was, one.body, now)
     if ("why" in said) return { why: `${path} — ${said.why}` }
-    next.set(path, { was: now, body: said.body })
+    next.set(path, { was: now, body: said.body, readersOweReading: one.readersOweReading })
   }
   return { held: next, moved: moved.sort(), clashed: clashedIn(next) }
 }
 
-function folded(held: Bodies, drafts: readonly Draft[]): Worked {
+function folded(held: Bodies, drafts: readonly Draft[], running: Running): Worked {
   const next: Held = new Map(held)
   for (const one of drafts) {
+    const owed = one.readersOweReading ?? running.readersOweReading
     const had = next.get(one.path)
     if (had === undefined) {
-      next.set(one.path, { was: one.was, body: one.body })
+      next.set(one.path, { was: one.was, body: one.body, readersOweReading: owed })
       continue
     }
     const said = merged(one.was, had.body, one.body)
     if ("why" in said) return { why: `${one.path} — ${said.why}` }
-    next.set(one.path, { was: one.was, body: said.body })
+    next.set(one.path, {
+      was: one.was,
+      body: said.body,
+      readersOweReading: (had.readersOweReading ?? true) || owed,
+    })
   }
   return { held: next }
 }
 
-export function wouldHold(root: string, page: string, drafts: readonly Draft[]): Would {
+export function wouldHold(
+  root: string,
+  page: string,
+  drafts: readonly Draft[],
+  running: Running = AUTHORED
+): Would {
   if (patchAt(page) === null) return { why: NO_PAGE }
   const first = rebasedOnto(root, headOf(root), patchIn(root, page))
   if ("why" in first) return first
-  const then = folded(first.held, drafts)
+  const then = folded(first.held, drafts, running)
   return "why" in then ? then : { held: then.held }
 }
 
@@ -242,8 +272,7 @@ function changesOf(held: Held): readonly Change[] {
 
 export function runningIn(patch: string | null): Running {
   if (patch === null) return RUNS_NOTHING
-  const at = patch.indexOf(DIFF_AT)
-  const lines = (at < 0 ? patch : patch.slice(0, at)).split("\n")
+  const lines = linesIn(patch)
   return {
     checks: !lines.includes(NO_CHECKS_AT),
     writerOwesReading: !lines.includes(NOT_OWED_AT) && !lines.includes(NOT_OWED_WAS),
@@ -259,11 +288,14 @@ function eitherOf(one: Running, two: Running): Running {
   }
 }
 
-function preambleOf(running: Running): string {
+function preambleOf(running: Running, held: Bodies): string {
   const said = [
     ...(running.checks ? [] : [NO_CHECKS_AT]),
     ...(running.writerOwesReading ? [] : [NOT_OWED_AT]),
-    ...(running.readersOweReading ? [] : [NOT_STALED_AT]),
+    ...[...held]
+      .filter(([, one]) => one.readersOweReading === false)
+      .map(([path]) => `${NOT_STALED_ONE}${path}`)
+      .sort(),
   ]
   return said.length === 0 ? "" : `${said.join("\n")}\n`
 }
@@ -275,7 +307,7 @@ function keptFrom(root: string, at: string, head: string, held: Held, running: R
     dropBlobs(root, at)
     return { patch: null, clashed }
   }
-  const text = `${preambleOf(running)}${next}`
+  const text = `${preambleOf(running, held)}${next}`
   keepBlobs(root, at, text)
   return { patch: text, clashed }
 }
@@ -296,7 +328,7 @@ export function drafted(
       answer = first
       return patch
     }
-    const then = folded(first.held, drafts)
+    const then = folded(first.held, drafts, running)
     if ("why" in then) {
       answer = then
       return patch
@@ -312,7 +344,12 @@ export function drafted(
 }
 
 function draftsOf(held: Bodies): readonly Draft[] {
-  return [...held].map(([path, one]) => ({ path, was: one.was, body: one.body }))
+  return [...held].map(([path, one]) => ({
+    path,
+    was: one.was,
+    body: one.body,
+    readersOweReading: one.readersOweReading,
+  }))
 }
 
 export function tookIn(root: string, page: string, from: string): Drafted {
@@ -361,7 +398,7 @@ export function resolved(root: string, page: string, path: string, body: Uint8Ar
     const had = held.get(path)
     if (had === undefined) return { why: `${NOT_HELD} ${path}` }
     const next: Held = new Map(held)
-    next.set(path, { was: had.was, body })
+    next.set(path, { was: had.was, body, readersOweReading: true })
     return next
   })
 }

@@ -6,6 +6,7 @@ import {
   blobIdOf,
   type Carry,
   carryReadings,
+  dropReadings,
   type Reading,
   readingIn,
   recordRead,
@@ -31,15 +32,20 @@ export function carryLanded(
   changes: readonly FileEdit[],
   handed: readonly Carry[]
 ): undefined {
-  if (running.readersOweReading) return
-  const held: Carry[] = [...handed]
+  const held: Carry[] = running.readersOweReading ? [] : [...handed]
+  const owed: string[] = []
   for (const one of changes) {
+    if (one.readersOweReading ?? running.readersOweReading) {
+      owed.push(one.path)
+      continue
+    }
     if (one.body === null) continue
     const was = bodyAt(root, base, one.path)
     if (was === null) continue
     held.push({ was: one.path, now: one.path, from: blobIdOf(was) })
   }
   carryReadings(root, held)
+  dropReadings(root, owed)
 }
 
 export function asReadIn(given: Given, changes: readonly FileEdit[]): readonly Reading[] {

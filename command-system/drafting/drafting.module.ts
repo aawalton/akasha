@@ -245,7 +245,31 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch carries whether its readers owe reading again.",
+      statement:
+        "A patch carries whether the readers of each path the patch holds owe reading again.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path whose readers owe no reading is one line before the first diff header naming that flag and that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path no such line names leaves its readers owing the reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A draft saying nothing about its readers takes the answer the change drafted in gives.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path drafted into twice leaves its readers owing the reading where one draft of the two left those readers owing the reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body resolved leaves its readers owing the reading.",
     },
     {
       invariantKind: "departure",
@@ -293,6 +317,11 @@ export const drafting = {
     {
       invariantKind: "stopgap",
       statement: "A patch drafted before the flag was renamed is read under the old spelling too.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement:
+        "A patch drafted before the flag named a path is read as naming every path that patch holds.",
     },
   ],
 } as const satisfies Module
