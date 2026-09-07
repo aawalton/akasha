@@ -107,13 +107,39 @@ test("a ledger added to twice carries both answers gathered", () => {
   )
 })
 
+const FRESH_PAGE = "akasha/one/fresh.module.ts"
+
+const FRESH_BODY = `export const fresh = ${JSON.stringify(
+  {
+    id: "01a07c9a-0001-7000-8000-000000000001",
+    pageTypeSlug: "module",
+    slug: "fresh",
+    definition: "a page an edit added",
+    code: "ts",
+  },
+  null,
+  2
+)} as const\n`
+
 test("an index a ledger answers knows the page an edit added", () => {
   const ledger = ledgerIn(indexedRepo())
-  expect(ledger.index.everyPath()).not.toContain(AT)
+  expect(ledger.index.listedAt("module", "fresh")).toEqual([])
 
-  addedTo(ledger, answered([writing(AT, null, "held\n")]))
+  addedTo(ledger, answered([writing(FRESH_PAGE, null, FRESH_BODY)]))
 
-  expect(ledger.index.everyPath()).toContain(AT)
+  expect(ledger.index.listedAt("module", "fresh").map((one) => one.path)).toEqual([FRESH_PAGE])
+})
+
+test("an index a ledger answers is built again where a later edit was added", () => {
+  const ledger = ledgerIn(indexedRepo())
+  addedTo(ledger, answered([writing(FRESH_PAGE, null, FRESH_BODY)]))
+  const first = ledger.index
+
+  expect(ledger.index).toBe(first)
+
+  addedTo(ledger, answered([writing(OTHER, null, "two\n")]))
+
+  expect(ledger.index).not.toBe(first)
 })
 
 test("a reach over a ledger adds to that ledger rather than building a second world", async () => {
