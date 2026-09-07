@@ -9,5 +9,8 @@
     "./exclusive": "./exclusive/exclusive.module.code.ts",
     "./lock-holder": "./lock-holder/lock-holder.module.code.ts",
     "./lock-holder-runs": "./lock-holder-runs/lock-holder-runs.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/code": "workspace:*"
   }
 }

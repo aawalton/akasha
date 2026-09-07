@@ -801,6 +801,9 @@
     },
     "file-system": {
       "name": "@akasha/file-system",
+      "dependencies": {
+        "@akasha/code": "workspace:*",
+      },
     },
     "geo-io": {
       "name": "@akasha/geo-io",
