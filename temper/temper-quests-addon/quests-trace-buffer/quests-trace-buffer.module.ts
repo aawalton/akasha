@@ -18,7 +18,7 @@ export const questsTraceBuffer = {
     },
     {
       invariantKind: "departure",
-      statement: "Appending returns a new list rather than changing the one handed in.",
+      statement: "Appending returns a new list rather than changing the list handed in.",
     },
     {
       invariantKind: "departure",
