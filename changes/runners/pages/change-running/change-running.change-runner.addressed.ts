@@ -62,6 +62,9 @@ export type Changes = {
   "change-mechanical/rename-manifest-ways": Parameters<
     typeof import("../../../mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.code.ts")["runChange"]
   >[1]
+  "change-mechanical/rename-page-address": Parameters<
+    typeof import("../../../mechanical/pages/rename-page-address/rename-page-address.change-mechanical.code.ts")["runChange"]
+  >[1]
   "change-mechanical/rename-page-slug": Parameters<
     typeof import("../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts")["runChange"]
   >[1]
