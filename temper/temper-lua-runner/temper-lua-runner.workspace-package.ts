@@ -19,7 +19,8 @@ export const temperLuaRunner = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "The interpreter is the `lua5.1` binary on the path rather than one bundled here.",
+      statement:
+        "The interpreter is the `lua5.1` binary on the path rather than a binary bundled here.",
     },
     {
       invariantKind: "departure",
