@@ -1,3 +1,39 @@
+diff --git a/pages/ui/components/bare-listing-card/bare-listing-card.module.code.tsx b/pages/ui/components/bare-listing-card/bare-listing-card.module.code.tsx
+index f215f2e0162de5702e20221d7c494db059ed3f03..f04ca013dac5423645b8e3269dbf0f9cf01cba0f 100644
+--- a/pages/ui/components/bare-listing-card/bare-listing-card.module.code.tsx
++++ b/pages/ui/components/bare-listing-card/bare-listing-card.module.code.tsx
+@@ -1,6 +1,7 @@
+ "use client"
+ 
+ import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
++import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
+ import type { PropertyDefinition } from "@akasha/pages-core/types"
+ import { pageRowToPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
+ import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+@@ -22,11 +23,13 @@ export interface BareListingCardContext {
+   readonly makeRelationHref: (rowId: string, rowHref: string) => (propertyId: string) => string
+   readonly onIconChange: (pageId: string, icon: IconName) => void
+   readonly onPropertyChange: (pageId: string, propId: string, value: unknown) => void
++  readonly onComplete?: (page: PageRow, atMs: number | null) => void
+   readonly onDelete: (pageId: string) => void
+   readonly onToggleFavorite?: (pageId: string, value: number | null) => void
+ }
+ 
+ export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext): ReactElement {
++  const completion = completionShapeOf(ctx.pageTypeSlug)
+   const rowHref = ctx.buildRowHref(page)
+   const { _id: id, ...rest } = page
+   const fill = ctx.rowAggregates.get(id)
+@@ -56,7 +59,8 @@ export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext
+       onPropertyChange={(propId, value) => ctx.onPropertyChange(id, propId, value)}
+       pageHref={ctx.pageHrefById}
+       relationHref={ctx.makeRelationHref(id, rowHref)}
+-      onComplete={(value) => ctx.onPropertyChange(id, "completedAt", value)}
++      completion={completion}
++      onComplete={ctx.onComplete != null ? (value) => ctx.onComplete?.(page, value) : undefined}
+       onDelete={() => ctx.onDelete(id)}
+       onToggleFavorite={
+         ctx.onToggleFavorite != null ? (value) => ctx.onToggleFavorite?.(id, value) : undefined
 diff --git a/pages/ui/components/page-card-renderer/page-card-renderer.module.code.tsx b/pages/ui/components/page-card-renderer/page-card-renderer.module.code.tsx
 index 875b26204a59de96c57e34b0f91720684e29cd2c..153b0eaf28b615c8773b7d910e7846518f3e2b15 100644
 --- a/pages/ui/components/page-card-renderer/page-card-renderer.module.code.tsx
