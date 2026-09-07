@@ -1,0 +1,84 @@
+writerOwesReading: false
+diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
+index 7cdb6e8a9857ed0992233cdc9f000abdf96e6f14..ccdae91fdf0d4db19f03a6f0828583c71ffac873 100644
+--- a/command-system/landing/landing.module.code.ts
++++ b/command-system/landing/landing.module.code.ts
+@@ -2,6 +2,7 @@ import { existsSync, mkdirSync, renameSync, rmSync, writeFileSync } from "node:f
+ import { dirname, join } from "node:path"
+ import type { Judged, Judging } from "@akasha/checks/judging"
+ import { textIn, textOf } from "@akasha/code/body-text"
++import { gitIgnoring } from "@akasha/git/git-pathspec"
+ import { said as gitIn } from "@akasha/git/git-running"
+ import type { Change } from "@akasha/pages/change"
+ import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts"
+@@ -135,6 +136,24 @@ function wroteOnto(
+   return { wrote, took }
+ }
+ 
++function heldBack(
++  root: string,
++  changed: readonly FileEdit[]
++): {
++  readonly committing: readonly FileEdit[]
++  readonly uncommitted: readonly FileEdit[]
++} {
++  const ignored = gitIgnoring(
++    root,
++    changed.map((one) => one.path)
++  )
++  if (ignored === null || ignored.size === 0) return { committing: changed, uncommitted: [] }
++  return {
++    committing: changed.filter((one) => !ignored.has(one.path)),
++    uncommitted: changed.filter((one) => ignored.has(one.path)),
++  }
++}
++
+ function beforeOf(
+   root: string,
+   base: string,
+@@ -429,11 +448,13 @@ export async function landing(
+     const before = beforeOf(root, base, changes)
+     const keeping = indexingLoaded()
+     try {
+-      const put = wroteOnto(root, changes)
++      const split = heldBack(root, changes)
++      const put = wroteOnto(root, split.committing)
+       const noted = indexed(root, changes, before, keeping)
+       const back = carriedOnto(root, carries)
+       try {
+         const commit = committed(root, put.wrote, put.took, message, writer)
++        wroteOnto(root, split.uncommitted)
+         const gone = [...put.took, ...carries.map((one) => one.from)]
+         const cleared = clearedOff(root, gone)
+         return { base, commit, wrote: put.wrote, took: put.took, noted, cleared }
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index e5ecad45ea68da6d2656cd30170027fad9831a67..251e06a474a741d79a5836de656ab68f9d3b395b 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -99,6 +99,26 @@ export const landing = {
+       invariantKind: "departure",
+       statement: "A commit that throws puts back every carry made for that commit.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A change may carry a path the repository ignores.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path the repository ignores is written onto the tree rather than committed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path the repository ignores is written after the commit lands.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A landing that throws writes no path the repository ignores.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path the repository ignores is answered as neither written nor taken.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A folder left holding nothing by a path taken away is cleared off the disk.",
