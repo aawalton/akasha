@@ -1,6 +1,6 @@
 import { dirname, join } from "node:path"
 import type { Answering } from "@akasha/indexes/answering"
-import { type FilePropertiesBy, pathsOf } from "@akasha/indexes/entries"
+import { type FilePropertiesBy, filesClaimedIn, type UncommittedBy } from "@akasha/indexes/entries"
 import type { Change } from "@akasha/pages/change"
 import { pageNamed } from "@akasha/pages/page-file-name"
 import { valueIn } from "@akasha/pages/page-value"
@@ -55,19 +55,21 @@ export function missingFor(
   change: Change,
   page: string,
   fileProperties: ReadonlyMap<string, string | null>,
-  filedBy: FilePropertiesBy
+  filedBy: FilePropertiesBy,
+  withheld: UncommittedBy
 ): readonly Judged[] {
   const bytes = change.after(page)
   if (bytes === null) return []
   const value = valueIn(bodyOf({ root: change.root, path: page, bytes }))
   if (value === null) return []
   const said: Judged[] = []
-  for (const one of pathsOf(value, page, change.root, filedBy)) {
-    if (one === page) continue
-    if (change.after(one) !== null) continue
+  for (const one of filesClaimedIn(value, page, change.root, filedBy, withheld)) {
+    if (one.at === page) continue
+    if (one.uncommitted) continue
+    if (change.after(one.at) !== null) continue
     said.push({
       path: page,
-      reason: `states ${statedBy(page, one, fileProperties)}, and no file stands at ${one}`,
+      reason: `states ${statedBy(page, one.at, fileProperties)}, and no file stands at ${one.at}`,
     })
   }
   return said
@@ -77,9 +79,10 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const pageTypes = shadow.index.pageTypesIn()
   const fileProperties = shadow.index.fileKeysAt()
   const filedBy = shadow.index.filePropertiesAt()
+  const withheld = shadow.index.uncommittedFiledAt()
   const said: Judged[] = []
   for (const page of pagesTouchedBy(change, pageTypes, shadow.index)) {
-    said.push(...missingFor(change, page, fileProperties, filedBy))
+    said.push(...missingFor(change, page, fileProperties, filedBy, withheld))
   }
   return said
 }

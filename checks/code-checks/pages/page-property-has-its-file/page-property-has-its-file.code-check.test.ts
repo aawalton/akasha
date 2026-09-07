@@ -173,6 +173,44 @@ test("a page named for a page type the change itself carries is judged", () => {
   ])
 })
 
+const DECLARES_CODE_UNCOMMITTED =
+  ', properties: [{ pagePropertySlug: "code", required: false, many: false, uncommitted: true }]'
+
+const ODDITY = "akasha/x/oddity.page-type.ts"
+
+const ODD_PAGE = "akasha/b/new.oddity.ts"
+
+const ODD_CODE = "akasha/b/new.oddity.code.ts"
+
+function oddly(stated: string): Record<string, Uint8Array | null> {
+  return {
+    [ODDITY]: body(stated, "oddity", "page-type", `${ID.slice(0, -1)}5`),
+    [ODD_PAGE]: body(', code: "ts"', "new", "oddity", `${ID.slice(0, -1)}6`),
+    [ODD_CODE]: null,
+  }
+}
+
+test("a page stating a file its type declares uncommitted is let through though nothing is there", () => {
+  const root = rooted()
+
+  expect(judged(over(root, [ODDITY, ODD_PAGE], oddly(DECLARES_CODE_UNCOMMITTED)))).toEqual([])
+})
+
+test("that same property is still asked for its file under a page type declaring it committed", () => {
+  const root = rooted()
+  const said = judged(
+    over(root, [ODDITY, ODD_PAGE, PAGE], {
+      ...oddly(DECLARES_CODE_UNCOMMITTED),
+      [PAGE]: body(', code: "ts"'),
+      [CODE]: null,
+    })
+  )
+
+  expect(said).toEqual([
+    { path: PAGE, reason: `states \`code: "ts"\`, and no file stands at ${CODE}` },
+  ])
+})
+
 test("a file property the change itself introduces is asked for its file", () => {
   const root = rooted(["code"], ["code", "notes"])
   const property = "akasha/x/notes.file-property.ts"

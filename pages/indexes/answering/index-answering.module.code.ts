@@ -20,6 +20,8 @@ import {
   type SidecarsBy,
   schemaAt,
   sidecarsOver,
+  type UncommittedBy,
+  uncommittedFiledAt,
 } from "../entries/index-entries.module.code.ts"
 import { manifestsBeside } from "../package-reaching/package-reaching.module.code.ts"
 import {
@@ -88,6 +90,7 @@ export type Answering = {
   readonly sourceIn: () => Source
   readonly typeSlugById: (id: string) => string | null
   readonly typeSlugOf: (id: string) => string
+  readonly uncommittedFiledAt: () => UncommittedBy
 }
 
 function heldOnce<T>(asked: () => T): () => T {
@@ -132,5 +135,6 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     sourceIn: heldOnce(() => sourceIn(reading, pageOf)),
     typeSlugById: (id) => typeSlugById(reading, id),
     typeSlugOf: (id) => typeSlugOf(reading, id),
+    uncommittedFiledAt: heldOnce(() => uncommittedFiledAt(reading)),
   }
 }

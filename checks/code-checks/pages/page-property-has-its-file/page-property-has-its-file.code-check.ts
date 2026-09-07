@@ -40,6 +40,15 @@ export const pagePropertyHasItsFile = {
     },
     {
       invariantKind: "departure",
+      statement: "A file the declaration claiming that file states uncommitted is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which declaration claims a file is read from the page's own type rather than from the property.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page named for a page type the change itself carries is judged.",
     },
     {

@@ -105,6 +105,15 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Which of those properties a page type keeps outside the commit is answered the same way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The nearer declaration decides that as the nearer declaration decides the name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A key reaches the property its page type declares or reaches nothing.",
     },
     {

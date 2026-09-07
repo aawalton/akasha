@@ -10,7 +10,7 @@ import {
   typeValuesIn,
 } from "../../types/gathering/page-type-gathering.module.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
-import { answered, readingIn, valuesOfType } from "../reading/index-reading.module.code.ts"
+import { answered, readingIn } from "../reading/index-reading.module.code.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
 
@@ -34,8 +34,6 @@ export type Schema = {
   readonly fileName: string | null
 }
 
-// A page type is a page of any type reaching `page-type` by extending, so the slugs are read out of
-// the identity each of those types keeps rather than out of `page-type` alone.
 export function pageTypesIn(given: string | Reading): ReadonlySet<string> {
   const found = new Set<string>([PAGE_TYPE])
   for (const one of typeSlugsIn(given)) {
@@ -75,6 +73,46 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string 
 
 export type IsThere = (at: string) => boolean
 
+export type UncommittedBy = ReadonlyMap<string, ReadonlySet<string>>
+
+export type Claimed = {
+  readonly at: string
+  readonly uncommitted: boolean
+}
+
+const NO_SLUGS: ReadonlySet<string> = new Set()
+
+const NONE_WITHHELD: UncommittedBy = new Map()
+
+export function filesClaimedIn(
+  value: Value,
+  path: string,
+  repo: string,
+  fileProperties: FilePropertiesBy,
+  withheld: UncommittedBy,
+  there: IsThere = () => false
+): readonly Claimed[] {
+  const own = under(repo, path)
+  const found: Claimed[] = [{ at: own, uncommitted: false }]
+  const type = textAt(value, "pageTypeSlug") ?? ""
+  const carried = fileProperties.get(type)
+  if (carried === undefined) return found
+  const outside = withheld.get(type) ?? NO_SLUGS
+  for (const [key, held] of Object.entries(value)) {
+    if (typeof held !== "string") continue
+    const propertySlug = slugFor(key)
+    if (!carried.has(propertySlug)) continue
+    const uncommitted = outside.has(propertySlug)
+    const fileName = carried.get(propertySlug) ?? null
+    if (fileName !== null) {
+      found.push({ at: join(dirname(own), fileName), uncommitted })
+      continue
+    }
+    for (const at of partsOf(own, propertySlug, held, there)) found.push({ at, uncommitted })
+  }
+  return found
+}
+
 export function pathsOf(
   value: Value,
   path: string,
@@ -82,22 +120,8 @@ export function pathsOf(
   fileProperties: FilePropertiesBy,
   there: IsThere = () => false
 ): readonly string[] {
-  const own = under(repo, path)
-  const found = [own]
-  const carried = fileProperties.get(textAt(value, "pageTypeSlug") ?? "")
-  if (carried === undefined) return found
-  for (const [key, held] of Object.entries(value)) {
-    if (typeof held !== "string") continue
-    const propertySlug = slugFor(key)
-    if (!carried.has(propertySlug)) continue
-    const fileName = carried.get(propertySlug) ?? null
-    if (fileName !== null) {
-      found.push(join(dirname(own), fileName))
-      continue
-    }
-    found.push(...partsOf(own, propertySlug, held, there))
-  }
-  return found
+  const found = filesClaimedIn(value, path, repo, fileProperties, NONE_WITHHELD, there)
+  return found.map((one) => one.at)
 }
 
 export type Beside = {
@@ -123,6 +147,8 @@ const EXTENDS = "extendsSlug"
 
 const FALLBACK = "default"
 
+const WITHHELD = "uncommitted"
+
 function declaredIn(value: Value): Sidecars {
   let secret = false
   let uncommitted = false
@@ -132,7 +158,7 @@ function declaredIn(value: Value): Sidecars {
   for (const one of declared) {
     if (one === null || typeof one !== "object" || Array.isArray(one)) continue
     const held = one as Record<string, unknown>
-    const withheld = held["uncommitted"] === true
+    const withheld = held[WITHHELD] === true
     if (held["secret"] === true) secret = true
     if (withheld) uncommitted = true
     const slug = held[DECLARES]
@@ -299,19 +325,26 @@ function propertiesAmong(values: Iterable<Value>): ReadonlyMap<string, Held> {
   return found
 }
 
+type Carrying = {
+  readonly filed: FilePropertiesBy
+  readonly withheld: UncommittedBy
+}
+
 function carriedBy(
   properties: ReadonlyMap<string, Held>,
   types: ReadonlyMap<string, Value>
-): FilePropertiesBy {
+): Carrying {
   const bare = bareAmong(properties)
   const above = new Map<string, readonly string[]>()
   for (const [slug, value] of types) {
     const up = slugsIn(value[EXTENDS])
     if (up.length > 0) above.set(slug, up)
   }
-  const found = new Map<string, ReadonlyMap<string, string | null>>()
+  const filed = new Map<string, ReadonlyMap<string, string | null>>()
+  const withheld = new Map<string, ReadonlySet<string>>()
   for (const slug of types.keys()) {
     const held = new Map<string, string | null>()
+    const outside = new Set<string>()
     const walked = new Set<string>()
     const waiting: string[] = [slug]
     for (let at = 0; at < waiting.length; at += 1) {
@@ -321,38 +354,34 @@ function carriedBy(
       const declared = types.get(here)?.[DECLARED]
       for (const one of Array.isArray(declared) ? declared : []) {
         if (one === null || typeof one !== "object" || Array.isArray(one)) continue
-        const said = (one as Record<string, unknown>)[DECLARES]
+        const stated = one as Record<string, unknown>
+        const said = stated[DECLARES]
         if (typeof said !== "string") continue
         const hit = (said.includes("/") ? properties.get(said) : bare.get(said)) ?? null
         if (hit === null) continue
         if (hit.fileName === null && !besides(hit.pageTypeSlug)) continue
-        if (!held.has(hit.propertySlug)) held.set(hit.propertySlug, hit.fileName)
+        if (held.has(hit.propertySlug)) continue
+        held.set(hit.propertySlug, hit.fileName)
+        if (stated[WITHHELD] === true) outside.add(hit.propertySlug)
       }
       for (const up of [...(above.get(here) ?? [])].reverse()) waiting.push(up)
     }
-    found.set(slug, held)
+    filed.set(slug, held)
+    withheld.set(slug, outside)
   }
-  return found
+  return { filed, withheld }
 }
 
 function filedAmong(given: string | Reading): ReadonlyMap<string, Held> {
-  const found = new Map<string, Held>()
-  for (const [named, held] of schemaAt(given)) {
-    const { pageTypeSlug, propertySlug, fileName } = held
-    found.set(named, { pageTypeSlug, propertySlug, fileName })
-  }
-  return found
+  return schemaAt(given)
 }
 
 export function filePropertiesIn(values: Iterable<Value>): FilePropertiesBy {
   const held = [...values]
-  return carriedBy(propertiesAmong(held), typesAmong(held))
+  return carriedBy(propertiesAmong(held), typesAmong(held)).filed
 }
 
-export function filePropertiesOver(
-  given: string | Reading,
-  left: Iterable<Value>
-): FilePropertiesBy {
+function carryingOver(given: string | Reading, left: Iterable<Value>): Carrying {
   const held = [...left]
   const properties = new Map(filedAmong(given))
   for (const [named, one] of propertiesAmong(held)) properties.set(named, one)
@@ -362,10 +391,25 @@ export function filePropertiesOver(
   return carriedBy(properties, types)
 }
 
-export function filePropertiesAt(given: string | Reading): FilePropertiesBy {
+export function filePropertiesOver(
+  given: string | Reading,
+  left: Iterable<Value>
+): FilePropertiesBy {
+  return carryingOver(given, left).filed
+}
+
+function carryingAt(given: string | Reading): Carrying {
   return answered(given, "", "which properties each page type holds in a file", (reading) =>
-    filePropertiesOver(reading, [])
+    carryingOver(reading, [])
   )
+}
+
+export function filePropertiesAt(given: string | Reading): FilePropertiesBy {
+  return carryingAt(given).filed
+}
+
+export function uncommittedFiledAt(given: string | Reading): UncommittedBy {
+  return carryingAt(given).withheld
 }
 
 export function entryShapesAt(given: string | Reading): ReadonlySet<string> {
