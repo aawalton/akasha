@@ -33,12 +33,19 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A chapter's name opens with its story's slug, then its position padded to four digits.",
+      statement: "A chapter's name opens with its story's slug.",
     },
     {
       invariantKind: "departure",
-      statement: "The title follows, cut back to whole words at fifty characters.",
+      statement: "The story's slug is followed by the chapter's position padded to four digits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The title follows the position.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A title is cut back to whole words at fifty characters.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +65,7 @@ export const royalRoadSyncing = {
     {
       invariantKind: "departure",
       statement:
-        "A story's status is restated only where royal road says ongoing, completed or hiatus.",
+        "A story's status is restated only where royal road says ongoing or completed or hiatus.",
     },
     {
       invariantKind: "departure",
@@ -75,8 +82,15 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Pages land fifty at a time, each fifty its own commit, every page with the files beside that page.",
+      statement: "Pages land fifty at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each fifty is its own commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page lands with the files beside that page.",
     },
     {
       invariantKind: "departure",
