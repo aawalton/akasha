@@ -21,7 +21,7 @@ export const inventoryDiagnosticsReading = {
     {
       invariantKind: "departure",
       statement:
-        "A file that is absent, unreadable or missing its Default table is refused as data.",
+        "A file that is absent or unreadable or missing its Default table is refused as data.",
     },
     {
       invariantKind: "departure",
