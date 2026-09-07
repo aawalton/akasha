@@ -9,7 +9,7 @@ export const operatorClassification = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A token is an operator, an operand, or uncounted.",
+      statement: "A token is an operator or an operand or uncounted.",
     },
     {
       invariantKind: "departure",
