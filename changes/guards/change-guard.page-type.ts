@@ -15,7 +15,6 @@ export const changeGuard = {
     "change-guard/import-not-left-hanging",
     "change-guard/import-reaches-a-file",
     "change-guard/identity-not-already-held",
-    "change-guard/identity-not-already-held",
     "change-guard/relation-not-left-hanging",
     "change-guard/plural-slug-not-already-held",
     "change-guard/relation-reaches-a-page",
