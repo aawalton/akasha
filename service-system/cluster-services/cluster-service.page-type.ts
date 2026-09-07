@@ -64,6 +64,7 @@ export const clusterService = {
     "cluster-service/registry",
     "cluster-service/registry-gc",
     "cluster-service/git-transport",
+    "cluster-service/git-transport-janitor",
     "cluster-service/gfs-promoter",
     "cluster-service/seaweedfs-backup-assets",
     "cluster-service/seaweedfs-backup-bulk",
