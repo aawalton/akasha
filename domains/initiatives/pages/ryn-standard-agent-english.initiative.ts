@@ -11,5 +11,8 @@ export const rynStandardAgentEnglish = {
       statement: "The load a construction puts on a reading agent is measured.",
     },
   ],
-  constraints: ["The load a construction puts on a reading agent is measured."],
+  constraints: [
+    "The load a construction puts on a reading agent is measured.",
+    "Standard Agent English is designed from first principles, unbiased by current usage.",
+  ],
 } as const satisfies Initiative
