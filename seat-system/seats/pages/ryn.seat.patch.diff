@@ -1,5 +1,5 @@
 diff --git a/collections/royal-road/syncing/royal-road-syncing.module.ts b/collections/royal-road/syncing/royal-road-syncing.module.ts
-index 9f00ed44c4b9cc0e0b48469f808549a1133e3769..b15e10c0223c2d12161f6854894d12f4fb83f608 100644
+index 9f00ed44c4b9cc0e0b48469f808549a1133e3769..72cb2c00be2ed93e9b4be72610f5134837610f49 100644
 --- a/collections/royal-road/syncing/royal-road-syncing.module.ts
 +++ b/collections/royal-road/syncing/royal-road-syncing.module.ts
 @@ -33,12 +33,19 @@ export const royalRoadSyncing = {
@@ -31,6 +31,24 @@ index 9f00ed44c4b9cc0e0b48469f808549a1133e3769..b15e10c0223c2d12161f6854894d12f4
        statement:
 -        "A story's status is restated only where royal road says ongoing, completed or hiatus.",
 +        "A story's status is restated only where royal road says ongoing or completed or hiatus.",
+     },
+     {
+       invariantKind: "departure",
+@@ -75,8 +82,15 @@ export const royalRoadSyncing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Pages land fifty at a time, each fifty its own commit, every page with the files beside that page.",
++      statement: "Pages land fifty at a time.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Each fifty is its own commit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page lands with the files beside that page.",
      },
      {
        invariantKind: "departure",
