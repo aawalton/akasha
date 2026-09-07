@@ -20,7 +20,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "Alan reaches the akasha commands tree from a panel in his editor.",
       workingMemory:
-        "Asked by Alan on 2026-09-07: a panel parallel to the ones the extension already draws, opening on akasha, then its namespaces and top-level commands, then what sits under each. The tree is the `command` and `namespace` pages, which is what the walk behind `akasha --help` reads. Nothing here is read yet: which panels the extension draws, and how one is registered, is unchecked.",
+        "The panel is landed at c794b8b0: `command-tree-assemble` narrows the domain tree to the parts of the command page type, `commandTreeLine` puts each row into the row every tree carries, and the watcher writes `command-tree.…state.uncommitted.json`. Verified live: the service wrote 54 roots, 286 rows, 238 of them commands, none unreached, each carrying its own definition and a whole path. What is unseen from here is Alan reloading his window and the Commands panel drawing.",
     },
     {
       statement: "Alan's Endurance stoplight shows a reading rather than zero.",
