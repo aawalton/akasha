@@ -11,3 +11,54 @@ index 696e0e66f1fb4da7f91dc9b15b556a192c36097b..a27677d4026cbdb8ead6a63221cc7fbd
    ],
    invariants: [
      {
+diff --git a/alan/harness/overdue-rolling/overdue-rolling.module.ts b/alan/harness/overdue-rolling/overdue-rolling.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..54071c6084cfbcfee8664f0614b7d8cb7bc0f66d
+--- /dev/null
++++ b/alan/harness/overdue-rolling/overdue-rolling.module.ts
+@@ -0,0 +1,45 @@
++import type { Module } from "@akasha/code/module"
++
++export const overdueRolling = {
++  id: "01a07959-8e89-7538-b3bb-bb16b4593f03",
++  pageTypeSlug: "module",
++  slug: "overdue-rolling",
++  definition: "an overdue task moved onto the day now open",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A task due before the day now open comes due on that day.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The day now open is counted from six in the morning in New York.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A task stating no due date is not moved.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A to-do already completed is not moved.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A temper task states no completion, so a temper task already done is moved too.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A recurring task is moved as a task happening once is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The tasks of one page type are moved in one commit.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The moving is done by a workstation timer rather than by a browser opening a list.",
++    },
++  ],
++} as const satisfies Module
