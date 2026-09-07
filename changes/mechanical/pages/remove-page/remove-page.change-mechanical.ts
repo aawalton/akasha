@@ -10,7 +10,11 @@ export const removePage = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
-  guardSlugs: ["change-guard/relation-not-left-hanging", "change-guard/import-not-left-hanging"],
+  guardSlugs: [
+    "change-guard/relation-not-left-hanging",
+    "change-guard/import-not-left-hanging",
+    "change-guard/claimed-file-not-left-behind",
+  ],
   invariants: [
     {
       invariantKind: "departure",

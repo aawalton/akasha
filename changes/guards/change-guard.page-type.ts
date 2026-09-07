@@ -12,6 +12,7 @@ export const changeGuard = {
   extendsSlug: ["page-type/module"],
   partSlugs: [
     "change-guard/body-not-written-over",
+    "change-guard/claimed-file-not-left-behind",
     "change-guard/import-not-left-hanging",
     "change-guard/import-reaches-a-file",
     "change-guard/identity-not-already-held",
