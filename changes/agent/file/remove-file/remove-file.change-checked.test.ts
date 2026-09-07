@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { runChange as removeFileMechanical } from "../../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
@@ -44,7 +44,7 @@ const RUNS: Reaching = (world, at, given) => {
     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
   }
   const asked = given as Parameters<typeof removeFileMechanical>[1]
-  return Promise.resolve(removeFileMechanical(world, asked))
+  return Promise.resolve(widened(removeFileMechanical(world, asked), world.textOf))
 }
 
 function worldOf(held: Readonly<Record<string, string>>): World {

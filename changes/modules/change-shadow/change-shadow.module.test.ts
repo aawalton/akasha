@@ -7,13 +7,14 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { addFile } from "../../mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
-import { removeFile } from "../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
+import { runChange as removeFile } from "../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import {
   answered,
   gathered,
   moving,
   refusing,
   taking,
+  widened,
   writing,
 } from "../change-answer/change-answer.module.code.ts"
 import {
@@ -40,7 +41,7 @@ const ADD_FILE = "change-mechanical-file/add-file"
 
 const REMOVE_FILE = "change-mechanical-file/remove-file"
 
-const NO_BODY = `\`${AT}\` holds no body, so a removal takes nothing away`
+const NO_BODY = `\`${AT}\` holds no body, so nothing is taken away`
 
 const BYTES = new TextEncoder()
 
@@ -49,7 +50,7 @@ const RUNS: Reaching = (world, at, given) => {
     return Promise.resolve(addFile(world, given as { at: string; body: string }))
   }
   if (at === REMOVE_FILE) {
-    return Promise.resolve(removeFile(given as { at: string }, world.textOf))
+    return Promise.resolve(widened(removeFile(world, given as { at: string }), world.textOf))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
@@ -289,7 +290,7 @@ test("a change reaching more than one change carries each world into the next re
 
 test("a path an earlier reach took away is refused rather than taken away twice", async () => {
   const world = worldIn(indexedRepo())
-  const gone = `\`${HELD_CODE}\` holds no body, so a removal takes nothing away`
+  const gone = `\`${HELD_CODE}\` holds no body, so nothing is taken away`
 
   const first = await reach(world, REMOVE_FILE, { at: HELD_CODE })
   const again = await reach(first.world, REMOVE_FILE, { at: HELD_CODE })

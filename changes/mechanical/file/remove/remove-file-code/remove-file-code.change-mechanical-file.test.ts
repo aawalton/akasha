@@ -7,18 +7,18 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import {
   type Reaching,
   type World,
   worldAt,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
+import { runChange as removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange } from "./remove-file-code.change-mechanical-file.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file/remove-file") {
-    return Promise.resolve(removeFile(given as { at: string }, world.textOf))
+    return Promise.resolve(widened(removeFile(world, given as { at: string }), world.textOf))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }

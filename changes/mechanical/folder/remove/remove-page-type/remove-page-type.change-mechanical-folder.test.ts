@@ -8,13 +8,13 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import {
   type Reaching,
   type World,
   worldAt,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { removeFile } from "../../../file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
+import { runChange as removeFile } from "../../../file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
 import { removePageType } from "./remove-page-type.change-mechanical-folder.code.ts"
 
@@ -41,7 +41,7 @@ type Unnaming = { at: string; key: string; value: string }
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file/remove-file") {
-    return Promise.resolve(removeFile(given as { at: string }, world.textOf))
+    return Promise.resolve(widened(removeFile(world, given as { at: string }), world.textOf))
   }
   if (at === "change-mechanical-file-content/remove-property-value") {
     return Promise.resolve(removePropertyValue(world, given as Unnaming))

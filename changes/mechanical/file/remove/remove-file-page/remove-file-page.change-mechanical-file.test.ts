@@ -19,6 +19,7 @@ import {
   answered,
   refusing,
   taking,
+  widened,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../../modules/change-guarding/change-guarding.module.code.ts"
@@ -30,7 +31,7 @@ import {
   worldOver,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
-import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
+import { runChange as removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange as removeCodeFile } from "../remove-file-code/remove-file-code.change-mechanical-file.code.ts"
 import {
   importersFirst,
@@ -48,7 +49,9 @@ const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-va
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === REMOVE_FILE_CODE) return removeCodeFile(world, given as { at: string })
-  if (at === REMOVE_FILE) return Promise.resolve(removeFile(given as { at: string }, world.textOf))
+  if (at === REMOVE_FILE) {
+    return Promise.resolve(widened(removeFile(world, given as { at: string }), world.textOf))
+  }
   if (at === REMOVE_PROPERTY_VALUE) {
     return Promise.resolve(removePropertyValue(world, given as Unnaming))
   }
@@ -245,7 +248,7 @@ test("a page holding no body is refused by the removal of its own file", async (
   const said = await runChange(worldAt(root, reading, RUNS), { at: NAMER_PAGE })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${NAMER_PAGE}\` holds no body, so a removal takes nothing away`)
+  expect(said.refused).toBe(`\`${NAMER_PAGE}\` holds no body, so nothing is taken away`)
 })
 
 test("a file beside the page git does not track is taken away too", async () => {
