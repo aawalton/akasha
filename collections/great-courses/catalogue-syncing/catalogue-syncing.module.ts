@@ -31,13 +31,16 @@ export const catalogueSyncing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A run in which any course failed ends non-zero, so a failed run is a failed unit.",
+      statement: "A run in which any course failed ends non-zero.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A failed run is a failed unit.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Everything is read and written in this process, off the checkouts on this machine.",
+        "Everything is read and written in this process off the checkouts on this machine.",
     },
     {
       invariantKind: "absence",
