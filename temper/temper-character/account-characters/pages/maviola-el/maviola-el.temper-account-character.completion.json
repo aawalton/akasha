@@ -959,6 +959,7 @@
     6382,
     6384,
     6394,
+    6399,
     6401,
     6405,
     6406,
@@ -6914,8 +6915,8 @@
     "groupDungeonTotal": 26,
     "tutorial": 0,
     "skyshardPoints": 176,
-    "unassigned": 143,
-    "zoneQuestTotal": 101,
+    "unassigned": 144,
+    "zoneQuestTotal": 102,
     "publicDungeons": {
       "EP4": 1,
       "AD1": 1,
@@ -7070,7 +7071,7 @@
       "CY": 0,
       "AD1": 3,
       "IC": 0,
-      "SE": 3,
+      "SE": 4,
       "AD0": 0,
       "CH": 3,
       "TD": 0,
@@ -7111,7 +7112,7 @@
       "AP": 8,
       "GY": 0
     },
-    "total": 431,
+    "total": 432,
     "maelstromArena": 1
   },
   "traitResearch": {
@@ -12787,7 +12788,8 @@
       "1": {
         "1": 1,
         "2": 2,
-        "3": 3
+        "3": 3,
+        "4": 4
       },
       "2": {
         "1": 1
@@ -15445,8 +15447,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "date": "2026-09-06",
-    "completed": 7
+    "completed": 7,
+    "date": "2026-09-06"
   },
   "dailyWritStates": {
     "completed": {
