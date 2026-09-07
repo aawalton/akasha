@@ -64,9 +64,7 @@ export function pageAt(
   if (only === undefined) return null
   return read.every((each) => each.id === only.id) ? only.value : null
 }
-// A page type is a page of any type descending from `page-type`, so a slug is looked for under each
-// of those rather than under `page-type` alone. The types are read once and held, because a lookup
-// runs for every page a caller reads, and `page-type` leads them so the common path is the first.
+
 export function sourceIn(given: string | Reading, pageOf: (path: string) => Value | null): Source {
   let under: readonly string[] | null = null
   const typing = (): readonly string[] => {

@@ -20,6 +20,18 @@ export const declaredProperties = {
     },
     {
       invariantKind: "departure",
+      statement: "A slug is looked for under every type descending from `page-type`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The types descending from `page-type` are read once and held.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`page-type` is tried before every type descending from `page-type`.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every declaration is answered as well as the binding declaration.",
     },
     {
