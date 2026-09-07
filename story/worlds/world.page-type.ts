@@ -31,7 +31,6 @@ export const world = {
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/description", required: false, many: false },
     { pagePropertySlug: "page-property-entry/character-readings", required: false, many: false },
     { pagePropertySlug: "page-property-entry/mechanic-readings", required: false, many: false },
   ],

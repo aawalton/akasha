@@ -46,7 +46,6 @@ export const carMake = {
     "text-property/reliability-notes",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "text-property/charging-network-access", required: true, many: false },
     { pagePropertySlug: "text-property/country", required: true, many: false },
     { pagePropertySlug: "text-property/drm-policy", required: true, many: false },

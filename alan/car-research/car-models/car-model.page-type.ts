@@ -37,7 +37,6 @@ export const carModel = {
     "text-property/segment",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "text-property/body-style", required: true, many: false },
     { pagePropertySlug: "text-property/generation", required: true, many: false },
     { pagePropertySlug: "text-property/model-years-available", required: true, many: false },

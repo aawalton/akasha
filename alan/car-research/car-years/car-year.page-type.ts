@@ -25,7 +25,6 @@ export const carYear = {
     "text-property/refresh-notes",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "number-property/model-year", required: true, many: false },
     { pagePropertySlug: "text-property/refresh-notes", required: true, many: false },
     { pagePropertySlug: "relation-property/car-model-slug", required: true, many: false },

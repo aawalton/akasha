@@ -28,7 +28,6 @@ export const ctwAchievement = {
     { pagePropertySlug: "text-property/scope", required: true, many: false },
     { pagePropertySlug: "text-property/metric", required: true, many: false },
     { pagePropertySlug: "number-property/threshold", required: true, many: false },
-    { pagePropertySlug: "text-property/description", required: false, many: false },
   ],
   invariants: [
     {

@@ -25,7 +25,6 @@ export const personaWallpaper = {
     { pagePropertySlug: "number-property/relationship-level", required: false, many: false },
     { pagePropertySlug: "text-property/stage", required: false, many: false },
     { pagePropertySlug: "text-property/eso-day", required: false, many: false },
-    { pagePropertySlug: "text-property/description", required: false, many: false },
     { pagePropertySlug: "text-property/value-slug", required: false, many: false },
   ],
   invariants: [
