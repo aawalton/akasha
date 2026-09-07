@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@akasha/code": "workspace:*",
+    "@akasha/domains": "workspace:*",
     "@akasha/utils-run": "workspace:*",
     "zod": "^4.3.6"
   }
