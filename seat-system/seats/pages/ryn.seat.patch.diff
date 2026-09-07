@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts
+index efea774addf208a246d9ed5643afcf29b9618a45..d1640de9d342086761380db4d45411a10c50abdf 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts
+@@ -6,7 +6,7 @@ export const calendarEventDescription = {
+   id: "01a06868-aec4-7e8a-a135-d98b1ca87d62",
+   pageTypeSlug: "text-property",
+   slug: "calendar-event-description",
+-  propertySlug: "description",
++  propertySlug: "source-description",
+   definition: "what a source says an event is",
+   maxLength: 6000,
+   nameFormatSlug: null,
