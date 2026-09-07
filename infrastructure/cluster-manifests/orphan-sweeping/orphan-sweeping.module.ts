@@ -10,7 +10,7 @@ export const orphanSweeping = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every Deployment, Service and StatefulSet in the app namespaces is read.",
+      statement: "Every Deployment and Service and StatefulSet in the app namespaces is read.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,11 @@ export const orphanSweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A clean sweep says nothing, so every message this module sends is drift.",
+      statement: "A clean sweep says nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every message this module sends is drift.",
     },
     {
       invariantKind: "departure",
