@@ -41,7 +41,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Every property a command's page type declares is read.",
       workingMemory:
-        "5 of the 27 properties on `command.page-type.ts` are read, all in `surfaceOf` at `calling.module.code.ts:195-201`: `change-kind-slug`, `taking`, `said`, `takes` and `help-notes`. The other 22 are `help-*` properties nothing reads. `verdict`, `reading` and `irreversible` are typed at `command-declaring.module.code.ts:61-63`, where no page can reach them, and the literals `emits` and `irreversible` appear nowhere else. `seat-messaged.command.ts:11-17` writes a `positionals` block nothing reads.",
+        "5 of 27 properties on `command.page-type.ts` are read: `change-kind-slug` by `kindOf`, `taking` and `help-notes` by `surfaceOf`, `said` and `takes` by `helpOf`; `akasha change` reads `help-notes` a second time off its own page. The other 22 are proven unread by deleting each and diffing `--help`, on an instrument that fired on all 5. `parse-args` reads the same vocabulary off `CommandHelp`, a hand-written twin set by 5 literals, so either `calling` grows or the page type shrinks.",
     },
   ],
   constraints: [
