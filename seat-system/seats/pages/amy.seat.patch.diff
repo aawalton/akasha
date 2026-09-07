@@ -10,3 +10,31 @@ index 027610e30512f5f2efb96a43cd63198abf20a86b..b91d77ead6679302b5ba8b2eba1f57b2
  } as const
  
  export const PROMOTED_COLUMN_KEYS: ReadonlySet<string> = new Set(Object.keys(PROMOTED_COLUMN))
+diff --git a/pages/access/routing-core/routing-core.module.ts b/pages/access/routing-core/routing-core.module.ts
+index b41ff967f2ae3708a6d47e153b9390f566fa436b..c51c32df0087a1071b199bf0de54820df02ecb7d 100644
+--- a/pages/access/routing-core/routing-core.module.ts
++++ b/pages/access/routing-core/routing-core.module.ts
+@@ -6,4 +6,23 @@ export const routingCore = {
+   slug: "routing-core",
+   definition: "the page keys the store holds in columns of their own",
+   code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A key held in a column of its own is read back under that key.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A column holding nothing is read back as null.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A key the attributes hold is read back under that key.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The instant a page was marked done is held in a column of its own.",
++    },
++  ],
+ } as const satisfies Module
