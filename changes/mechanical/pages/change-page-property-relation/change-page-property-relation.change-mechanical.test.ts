@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import type { Shaped } from "@akasha/indexes/reaching"
 import type { Value } from "@akasha/pages/page-value"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
@@ -7,6 +6,7 @@ import {
   type Reaching,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { knownOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical.code.ts"
 import { changePagePropertyRelation } from "./change-page-property-relation.change-mechanical.code.ts"
 
@@ -43,14 +43,12 @@ type Told = {
 }
 
 function worldTold(told: Told): World {
-  const known = {
+  const known = knownOf({
     slugOfKeyIn: () => told.slug,
     targetOf: () => told.target,
-    admitting: (one: string) => [one],
+    admitting: (one) => [one],
     at: () => told.found,
-    byId: () => null,
-    mortal: () => false,
-  } as unknown as Shaped
+  })
   return {
     root: "/nowhere",
     index: { knownIn: () => known, pageAt: () => ("page" in told ? told.page : PAGE) } as never,

@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
   NOTHING_OVER,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { bodyOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { addPropertyValue } from "./add-property-value.change-mechanical.code.ts"
 
 const AT = "akasha/held/kept.page-type.ts"
@@ -26,12 +26,6 @@ const EMPTY = `${OPENING}  partSlugs: [],
 
 function worldOf(text: string | null): World {
   return { root: "/nowhere", index: null as never, textOf: () => text, over: NOTHING_OVER }
-}
-
-function bodyOf(said: Answer): string {
-  expect(said.refused).toBe(null)
-  expect(said.edits).toHaveLength(1)
-  return said.edits[0]?.body ?? ""
 }
 
 test("a value is put after the values the property already holds", () => {

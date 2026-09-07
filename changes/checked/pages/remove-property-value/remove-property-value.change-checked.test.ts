@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import type { Shaped } from "@akasha/indexes/reaching"
 import type { Value } from "@akasha/pages/page-value"
 import {
   NOTHING_OVER,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { knownOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { removePropertyValue, runChange } from "./remove-property-value.change-checked.code.ts"
 
 const AT = "held/held.domain.ts"
@@ -16,7 +16,7 @@ const PAGE = { id: ID, pageTypeSlug: "domain", slug: "held" } as Value
 const RUNS = "change-mechanical/remove-property-value"
 
 function worldWith(page: Value | null): World {
-  const known = { slugOfKeyIn: () => null, targetOf: () => null } as unknown as Shaped
+  const known = knownOf({})
   return {
     root: "/nowhere",
     index: { knownIn: () => known, pageAt: () => page } as never,

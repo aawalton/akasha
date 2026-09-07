@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+import { bodyOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { restated } from "./change-page-property.change-mechanical.code.ts"
 
 const AT = "akasha/held/kept.page-type.ts"
@@ -14,12 +14,6 @@ export const kept = {
   partSlugs: ["kept/one"],
 } as const satisfies PageType
 `
-
-function bodyOf(said: Answer): string {
-  expect(said.refused).toBe(null)
-  expect(said.edits).toHaveLength(1)
-  return said.edits[0]?.body ?? ""
-}
 
 test("a key's text is stated anew", () => {
   const said = restated(AT, BODY, "pluralSlug", "change-atomic")

@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { bodyOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { removePropertyValue } from "./remove-property-value.change-mechanical.code.ts"
 
 const ROOT = "/var/tmp/remove-property-value"
@@ -31,8 +32,6 @@ export const held = {
 } as const satisfies Held
 `
 
-const NOTHING = (): null => null
-
 function holding(body: string): (path: string) => string | null {
   return (path) => {
     if (path === PAGE) return body
@@ -42,12 +41,6 @@ function holding(body: string): (path: string) => string | null {
 
 function saidOf(key: string, value: string, textOf: (path: string) => string | null): Answer {
   return removePropertyValue(worldAt(ROOT, textOf), { at: PAGE, key, value })
-}
-
-function bodyOf(said: Answer): string {
-  expect(said.refused).toBe(null)
-  expect(said.edits).toHaveLength(1)
-  return said.edits[0]?.body ?? ""
 }
 
 function whyOf(key: string, value: string, textOf: (path: string) => string | null): string {
@@ -100,7 +93,7 @@ test("a key the body states nothing under is refused", () => {
 })
 
 test("a body that could not be read is refused", () => {
-  expect(whyOf("partSlugs", "beta", NOTHING)).toBe(`\`${PAGE}\` could not be read`)
+  expect(whyOf("partSlugs", "beta", () => null)).toBe(`\`${PAGE}\` could not be read`)
 })
 
 test("a type that could not be read refuses rather than taking the property away", () => {

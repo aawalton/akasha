@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import type { Shaped } from "@akasha/indexes/reaching"
 import type { Value } from "@akasha/pages/page-value"
 import { runChange as changeValue } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
 import { runChange as changeRelation } from "../../../mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.code.ts"
@@ -9,6 +8,7 @@ import {
   type Reaching,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { knownOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { changePageProperty, runChange } from "./change-page-property.change-checked.code.ts"
 
 const RUNS: Reaching = async (world, at, given) => {
@@ -38,14 +38,11 @@ export const held = {
 const PAGE = { id: ID, pageTypeSlug: "seat", slug: "held" } as Value
 
 function worldTold(slug: string | null, target: string | null): World {
-  const known = {
+  const known = knownOf({
     slugOfKeyIn: () => slug,
     targetOf: () => target,
-    admitting: (one: string) => [one],
-    at: () => [],
-    byId: () => null,
-    mortal: () => false,
-  } as unknown as Shaped
+    admitting: (one) => [one],
+  })
   return {
     root: "/nowhere",
     index: { knownIn: () => known, pageAt: () => PAGE } as never,

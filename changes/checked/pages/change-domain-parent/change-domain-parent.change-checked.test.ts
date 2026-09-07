@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import type { Shaped } from "@akasha/indexes/reaching"
 import type { Value } from "@akasha/pages/page-value"
 import {
   NOTHING_OVER,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { knownOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { changeDomainParent, runChange } from "./change-domain-parent.change-checked.code.ts"
 
 const COMMAND = "01a07932-2568-72a6-8b8e-314ac44c417b"
@@ -33,19 +33,19 @@ const LISTED: Readonly<Record<string, string>> = {
   "workspace-package/imessage": PACKAGE,
 }
 
-const PARENT = {
+const PARENT: Value = {
   id: PACKAGE,
   pageTypeSlug: "workspace-package",
   slug: "imessage",
   partSlugs: ["module/imessage-host", "command/imessage-contacts"],
-} as unknown as Value
+}
 
-const BARE = {
+const BARE: Value = {
   id: PACKAGE,
   pageTypeSlug: "workspace-package",
   slug: "imessage",
   partSlugs: ["module/imessage-host"],
-} as unknown as Value
+}
 
 type Told = {
   readonly namers: readonly string[]
@@ -58,18 +58,15 @@ function listedAt(id: string): { readonly path: string; readonly id: string } | 
 }
 
 function worldTold(told: Told): World {
-  const known = {
+  const known = knownOf({
     admitting: () => ["command", "namespace", "workspace-package"],
-    at: (pageTypeSlug: string, slug: string) => {
+    at: (pageTypeSlug, slug) => {
       const id = LISTED[`${pageTypeSlug}/${slug}`]
       const found = id === undefined ? null : listedAt(id)
       return found === null ? [] : [found]
     },
-    byId: (id: string) => listedAt(id),
-    mortal: () => false,
-    slugOfKeyIn: () => null,
-    targetOf: () => null,
-  } as unknown as Shaped
+    byId: (id) => listedAt(id),
+  })
   return {
     root: "/nowhere",
     index: {

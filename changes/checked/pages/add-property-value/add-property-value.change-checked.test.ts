@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import type { Shaped } from "@akasha/indexes/reaching"
 import type { Value } from "@akasha/pages/page-value"
 import {
   NOTHING_OVER,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { knownOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { addPropertyValue, runChange } from "./add-property-value.change-checked.code.ts"
 
 const AT = "held/held.domain.ts"
@@ -23,14 +23,12 @@ type Told = {
 }
 
 function worldTold(told: Told): World {
-  const known = {
+  const known = knownOf({
     slugOfKeyIn: () => told.slug,
     targetOf: () => told.target,
-    admitting: (one: string) => [one],
+    admitting: (one) => [one],
     at: () => told.found,
-    byId: () => null,
-    mortal: () => false,
-  } as unknown as Shaped
+  })
   return {
     root: "/nowhere",
     index: { knownIn: () => known, pageAt: () => ("page" in told ? told.page : PAGE) } as never,

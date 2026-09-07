@@ -19,6 +19,18 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "An index face is built here from the answers a test states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A face answers nothing where the test states no answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer holding one edit is read here for the body that edit leaves.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An answer is cast as the change shape the shadow already reads.",
     },
     {
