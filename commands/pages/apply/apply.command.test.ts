@@ -72,6 +72,18 @@ test("a row worked out from an older body is judged as merged onto the commit at
   expect(TEXT.decode(said.held.get(NOTES)?.body ?? new Uint8Array())).toBe(BOTH)
 })
 
+test("two rows for one path are judged as the fold lands them", async () => {
+  const root = await repo()
+  await committing(root, NOTES, THREE)
+  const rows = [
+    { path: NOTES, was: THREE, body: MINE },
+    { path: NOTES, was: MINE, body: BOTH },
+  ]
+  const said = rebasedRows(root, baseOf(root), rows)
+  if ("why" in said) throw new Error(said.why)
+  expect(TEXT.decode(said.held.get(NOTES)?.body ?? new Uint8Array())).toBe(BOTH)
+})
+
 test("a row worked out from the body at HEAD is judged as that row states", async () => {
   const root = await repo()
   await committing(root, NOTES, FOUR)

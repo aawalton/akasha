@@ -142,7 +142,9 @@ export function rebasedRows(
   base: string,
   rows: readonly Edit[]
 ): Rebased | { readonly why: string } {
-  return rebasedHeld(root, base, heldOf(draftsOf(formattedEdits(root, rows))))
+  const said = foldedIn(rows)
+  if (said.refused !== null) return { why: said.refused }
+  return rebasedHeld(root, base, heldOf(draftsOf(formattedEdits(root, said.edits))))
 }
 
 async function refusedBefore(root: string, page: string): Promise<readonly string[]> {
