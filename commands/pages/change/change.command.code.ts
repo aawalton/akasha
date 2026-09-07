@@ -248,12 +248,7 @@ function typeOf(world: World, slug: string): string | null {
   return null
 }
 
-export async function appending(
-  root: string,
-  page: string,
-  over: Over,
-  applied = false
-): Promise<Answer> {
+export async function appending(root: string, page: string, over: Over): Promise<Answer> {
   let answer: Answer = mistaking([NO_PAGE])
   const kept = await keptEdits(root, page, async (had) => {
     const before = foldedIn(had)
@@ -273,13 +268,7 @@ export async function appending(
       return had
     }
     answer = {
-      report: [
-        ...said.edits.map(saidOf).sort(),
-        ...(applied
-          ? []
-          : [`the edits are kept at ${keptAt(page) ?? ""}, and \`akasha apply\` lands them`]),
-        ...waitingSaid(root, page),
-      ],
+      report: [...said.edits.map(saidOf).sort(), ...waitingSaid(root, page)],
       refusals: [],
       code: 0,
     }
@@ -291,7 +280,13 @@ export async function appending(
 
 export type Loading = (world: World, at: string) => Promise<Loaded | string>
 
-export type Applying = (message: string) => Promise<Answer>
+export type Applying = (message: string | null) => Promise<Answer>
+
+const KEPT = "and `akasha apply` lands them once what refused is answered"
+
+function keptSaid(page: string): string {
+  return `the edits are kept at ${keptAt(page) ?? ""}, ${KEPT}`
+}
 
 const DROP_LINE = "a drop names each path on a line of its own, written `at` and the path"
 
@@ -364,17 +359,13 @@ export async function changing(
   const value = world.index.pageAt(type, slug)
   const owed = owedBy(value)
   const owing = owingBy(value)
-  const message = asked.message
-  const answered = await appending(
-    root,
-    page,
-    async (one) => stamped(await ranBy(one, held, asked.given), owed, owing),
-    message !== null
+  const answered = await appending(root, page, async (one) =>
+    stamped(await ranBy(one, held, asked.given), owed, owing)
   )
-  if (message === null || answered.code !== 0) return answered
-  const landed = await applying(message)
+  if (answered.code !== 0) return answered
+  const landed = await applying(asked.message)
   return {
-    report: [...answered.report, ...landed.report],
+    report: [...answered.report, ...landed.report, ...(landed.code === 0 ? [] : [keptSaid(page)])],
     refusals: landed.refusals,
     code: landed.code,
   }
@@ -383,7 +374,7 @@ export async function changing(
 function applyingFor(given: Given): Applying {
   return async (message) => {
     const { apply } = await import("../apply/apply.command.code.ts")
-    return await apply([MESSAGE, message], given)
+    return await apply(message === null ? [] : [MESSAGE, message], given)
   }
 }
 

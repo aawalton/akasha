@@ -1,6 +1,6 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { idOf, indexedRepo, pageOf } from "@akasha/indexes/indexing/testing"
+import { idOf, indexedRepo, NAMER_CODE, NAMER_PAGE, pageOf } from "@akasha/indexes/indexing/testing"
 import { removePage } from "../../../changes/agent/file/remove-page/remove-page.change-checked.code.ts"
 import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
@@ -60,11 +60,21 @@ export function piping(said: string): Piping {
 
 export const NOTHING: Piping = () => ({ bytes: new Uint8Array(0) })
 
-export const APPLIED: string[] = []
+export const APPLIED: (string | null)[] = []
 
 export const applying: Applying = async (message) => {
   APPLIED.push(message)
-  return { report: [`applied ${message}`], refusals: [], code: 0 }
+  return { report: [`applied ${message ?? "what the apply composes"}`], refusals: [], code: 0 }
+}
+
+const refusingApply: Applying = async () => ({
+  report: [],
+  refusals: ["the checks refused the landing"],
+  code: 3,
+})
+
+export async function refusedApply(root: string, at: string): Promise<Answer> {
+  return await changing(root, PAGE, ["remove-page"], piping(taking(at)), loading, refusingApply)
 }
 
 export function taking(path: string): string {
@@ -124,3 +134,36 @@ export async function removing(root: string, at: string, message?: string): Prom
   const said = message === undefined ? taking(at) : asking(at, message)
   return await acting(root, ["remove-page"], piping(said))
 }
+
+export const BOTH: readonly string[] = [NAMER_CODE, NAMER_PAGE]
+
+export function keptIn(root: string): readonly string[] {
+  return [...pathsIn(root)].sort()
+}
+
+export function saysApply(said: Answer): boolean {
+  return said.report.some((one) => one.includes("akasha apply"))
+}
+
+export const DROPPED_BOTH: readonly string[] = [
+  ...[`takes ${NAMER_CODE} away`, `takes ${NAMER_PAGE} away`].sort(),
+  "these edits are gone, and no apply lands them",
+]
+
+export const DROPPED_ONE: readonly string[] = [
+  `takes ${NAMER_CODE} away`,
+  "these edits are gone, and no apply lands them",
+  "1 edit(s) are still kept beside this agent's page",
+]
+
+export const HANDED_SAID: readonly string[] = [
+  "one handed 1 edit(s) over",
+  "two handed 2 edit(s) over",
+  "`akasha change take <subagent>` takes one of these into this agent's own",
+]
+
+export const BAD_DROPS: readonly (readonly [readonly string[], Piping | undefined])[] = [
+  [["drop", NAMER_CODE], undefined],
+  [["drop"], piping(`${NAMER_CODE}\n`)],
+  [["drop"], () => ({ unreadable: "went quiet", part: true as const })],
+]
