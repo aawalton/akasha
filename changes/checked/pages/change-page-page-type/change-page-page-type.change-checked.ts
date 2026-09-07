@@ -32,6 +32,10 @@ export const changePagePageType = {
       statement: "A body naming a path that moved is repointed in the same answer.",
     },
     {
+      invariantKind: "departure",
+      statement: "An address the page type moves is restated wherever a body spells that address.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here changes the slug a page states.",
     },

@@ -18,6 +18,8 @@ const CHANGE_FILE = "change-mechanical/change-file"
 
 const RENAME_IMPORTS = "change-mechanical/rename-imports"
 
+const RENAME_PAGE_ADDRESS = "change-mechanical/rename-page-address"
+
 const TYPE_KEY = "pageTypeSlug"
 
 const AT = "at"
@@ -130,6 +132,12 @@ export async function changePagePageType(
     carried.push(answered(answer.said.edits.filter((one) => one.body !== text)))
     over = answer.world
   }
+  const addressed = await reach(over, RENAME_PAGE_ADDRESS, {
+    was: `${said.pageType}/${said.slug}`,
+    now: `${type.slug}/${said.slug}`,
+  })
+  if (addressed.said.refused !== null) return addressed.said
+  carried.push(addressed.said)
   return gathered(carried)
 }
 
