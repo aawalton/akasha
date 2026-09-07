@@ -86,6 +86,10 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
+      statement: "A path drafted onto twice keeps the body the patch was already built on.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A change leaving what HEAD holds takes nothing back out of the patch.",
     },
     {

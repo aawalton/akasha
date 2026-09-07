@@ -252,7 +252,7 @@ function folded(held: Bodies, drafts: readonly Draft[], running: Running): Worke
     const said = merged(one.was, had.body, one.body)
     if ("why" in said) return { why: `${one.path} — ${said.why}` }
     next.set(one.path, {
-      was: one.was,
+      was: had.was,
       body: said.body,
       readersOweReading: (had.readersOweReading ?? true) || owed,
     })
