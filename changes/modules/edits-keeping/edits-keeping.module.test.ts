@@ -1,16 +1,31 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { said as gitIn } from "@akasha/git/git-running"
 import { scratch } from "@akasha/indexes/indexing/testing"
+import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { taking, writing } from "../change-answer/change-answer.module.code.ts"
-import { appendEdits, editsAt, editsIn, foldedIn, keptEdits } from "./edits-keeping.module.code.ts"
+import {
+  appendEdits,
+  editsAt,
+  editsIn,
+  foldedIn,
+  keptAt,
+  keptEdits,
+  putUnder,
+} from "./edits-keeping.module.code.ts"
 
 afterAll(scratch.sweep)
 
 const PAGE = "akasha/agents/pages/tester.agent.ts"
 
-const AT = "akasha/agents/pages/tester.agent.edits.jsonl"
+const AT = "akasha/agents/pages/tester.agent.edits.uncommitted.jsonl"
+
+const TWO_AT = "akasha/agents/pages/tester.agent.edits.part2.uncommitted.jsonl"
+
+const OLD_AT = "akasha/agents/pages/tester.agent.edits.jsonl"
+
+const KEPT = `refs/akasha/edits/${OLD_AT}`
 
 const ONE = "akasha/one.module.ts"
 
@@ -150,4 +165,62 @@ test("two rows for one path the later did not follow fold to a refusal", () => {
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toContain(`\`${ONE}\` is answered twice`)
+})
+
+test("an append leaves the bytes already appended where those bytes are", () => {
+  const root = rootFor()
+  appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
+  const was = readFileSync(join(root, AT), "utf8")
+
+  appendEdits(root, PAGE, [writing(TWO, null, "b\n")])
+
+  expect(readFileSync(join(root, AT), "utf8").startsWith(was)).toBe(true)
+})
+
+test("an append answers the rows appended rather than every row kept", () => {
+  const root = rootFor()
+  appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
+
+  expect(appendEdits(root, PAGE, [writing(TWO, null, "b\n")])).toEqual({
+    rows: [writing(TWO, null, "b\n")],
+  })
+})
+
+test("an append leaves no ref and writes no git object", () => {
+  const root = rootFor()
+  appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
+
+  expect(gitIn(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/**"]).trim()).toBe("")
+})
+
+test("a row past the ceiling is alone and the row after it opens the next file", () => {
+  const root = rootFor()
+  appendEdits(root, PAGE, [writing(ONE, null, "z".repeat(ENTRY_CEILING))])
+
+  appendEdits(root, PAGE, [writing(TWO, null, "b\n")])
+
+  expect(existsSync(join(root, TWO_AT))).toBe(true)
+  expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE, TWO])
+})
+
+test("a ledger an earlier keeping left under a ref is read where no file is there", () => {
+  const root = rootFor()
+  putUnder(root, KEPT, `${JSON.stringify(writing(ONE, null, "a\n"))}\n`)
+
+  expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE])
+})
+
+test("the next write moves that ledger into the file and takes the ref away", () => {
+  const root = rootFor()
+  putUnder(root, KEPT, `${JSON.stringify(writing(ONE, null, "a\n"))}\n`)
+
+  appendEdits(root, PAGE, [writing(TWO, null, "b\n")])
+
+  expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE, TWO])
+  expect(existsSync(join(root, AT))).toBe(true)
+  expect(gitIn(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/**"]).trim()).toBe("")
+})
+
+test("the file the edits are kept in is the file the apply reports", () => {
+  expect(keptAt(PAGE)).toBe(AT)
 })

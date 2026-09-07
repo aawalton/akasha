@@ -1,14 +1,19 @@
-import { existsSync, mkdirSync, readFileSync, rmSync } from "node:fs"
+import { Buffer } from "node:buffer"
+import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { exclusively } from "@akasha/file-system/exclusive"
 import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
+import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { besideAt } from "@akasha/pages/page-file-name"
+import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
 import { gathered } from "../change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../change-answer/change-answer.module.types.ts"
 
 const SLUG = "edits"
 
 const HELD = "jsonl"
+
+const FIRST_PART = 1
 
 const KEPT = "refs/akasha/edits"
 
@@ -22,13 +27,20 @@ const NO_ROW = "reads as no edit"
 
 export type Kept = { readonly rows: readonly Edit[] } | { readonly why: string }
 
+function partAt(page: string, part: number): string | null {
+  return uncommittedPartAt(page, SLUG, HELD, part)
+}
+
 export function editsAt(page: string): string | null {
-  return besideAt(page, SLUG, HELD)
+  return partAt(page, FIRST_PART)
 }
 
 export function keptAt(page: string): string | null {
-  const at = editsAt(page)
-  return at === null ? null : `${KEPT}/${at}`
+  return editsAt(page)
+}
+
+function staleAt(page: string): string | null {
+  return besideAt(page, SLUG, HELD)
 }
 
 function edited(said: unknown): Edit | null {
@@ -78,7 +90,7 @@ function textOf(rows: readonly Edit[]): string {
   return rows.map((one) => `${JSON.stringify(one)}\n`).join("")
 }
 
-function staleAt(root: string, at: string): string | null {
+function textAt(root: string, at: string): string | null {
   const full = join(root, at)
   if (!existsSync(full)) return null
   try {
@@ -103,34 +115,124 @@ export function dropUnder(root: string, ref: string): undefined {
   gitTold(root, ["update-ref", "-d", ref])
 }
 
-function readAt(root: string, at: string): string | null {
-  return readUnder(root, `${KEPT}/${at}`) ?? staleAt(root, at)
+function partsAt(root: string, page: string): readonly string[] {
+  return uncommittedPartsOf(page, SLUG, HELD, (at) => existsSync(join(root, at)))
 }
 
-function putAt(root: string, at: string, text: string): undefined {
-  putUnder(root, `${KEPT}/${at}`, text)
-  rmSync(join(root, at), { force: true })
+function textOver(root: string, page: string): string | null {
+  const held: string[] = []
+  for (const at of partsAt(root, page)) {
+    const text = textAt(root, at)
+    if (text !== null) held.push(text.endsWith("\n") ? text : `${text}\n`)
+  }
+  return held.length === 0 ? null : held.join("")
 }
 
-function heldAt(root: string, at: string): Kept {
-  const held = readAt(root, at)
+function staleIn(root: string, page: string): string | null {
+  const old = staleAt(page)
+  if (old === null) return null
+  return readUnder(root, `${KEPT}/${old}`) ?? textAt(root, old)
+}
+
+function heldIn(root: string, page: string): Kept {
+  const held = textOver(root, page) ?? staleIn(root, page)
   return held === null ? { rows: [] } : rowsIn(held)
 }
 
 export function editsIn(root: string, page: string): Kept {
+  return editsAt(page) === null ? { why: NO_PAGE } : heldIn(root, page)
+}
+
+function sizeOf(root: string, at: string): number {
+  try {
+    return statSync(join(root, at)).size
+  } catch {
+    return 0
+  }
+}
+
+function fillingAt(root: string, page: string, adding: number): string | null {
+  let part = FIRST_PART
+  let found = partAt(page, part)
+  if (found === null) return null
+  for (;;) {
+    const next = partAt(page, part + 1)
+    if (next === null || !existsSync(join(root, next))) break
+    part += 1
+    found = next
+  }
+  const size = sizeOf(root, found)
+  if (size === 0 || size + adding <= ENTRY_CEILING) return found
+  return partAt(page, part + 1) ?? found
+}
+
+function appended(root: string, page: string, text: string): undefined {
+  const at = fillingAt(root, page, Buffer.byteLength(text, "utf8"))
+  if (at === null) return
+  const full = join(root, at)
+  mkdirSync(dirname(full), { recursive: true })
+  appendFileSync(full, text)
+}
+
+function appending(root: string, page: string, rows: readonly Edit[]): undefined {
+  let held: string[] = []
+  let bytes = 0
+  for (const one of rows) {
+    const line = `${JSON.stringify(one)}\n`
+    const size = Buffer.byteLength(line, "utf8")
+    if (bytes > 0 && bytes + size > ENTRY_CEILING) {
+      appended(root, page, held.join(""))
+      held = []
+      bytes = 0
+    }
+    held.push(line)
+    bytes += size
+  }
+  if (held.length > 0) appended(root, page, held.join(""))
+}
+
+function abandoned(root: string, page: string): undefined {
+  const old = staleAt(page)
+  if (old === null) return
+  dropUnder(root, `${KEPT}/${old}`)
+  rmSync(join(root, old), { force: true })
+}
+
+function swept(root: string, page: string): undefined {
+  for (const at of partsAt(root, page)) rmSync(join(root, at), { force: true })
+  abandoned(root, page)
+}
+
+function migrated(root: string, page: string): undefined {
   const at = editsAt(page)
-  return at === null ? { why: NO_PAGE } : heldAt(root, at)
+  if (at === null || existsSync(join(root, at))) return
+  const stale = staleIn(root, page)
+  if (stale === null) return
+  const read = rowsIn(stale)
+  if ("why" in read) return
+  appending(root, page, read.rows)
+  abandoned(root, page)
 }
 
 type Rows = readonly Edit[] | null
 
-function settled(root: string, at: string, next: Rows): Kept {
+function followsOn(had: readonly Edit[], next: readonly Edit[]): boolean {
+  if (next.length < had.length) return false
+  for (let at = 0; at < had.length; at += 1) if (next[at] !== had[at]) return false
+  return true
+}
+
+function settled(root: string, page: string, had: readonly Edit[], next: Rows): Kept {
   if (next === null || next.length === 0) {
-    dropUnder(root, `${KEPT}/${at}`)
-    rmSync(join(root, at), { force: true })
+    swept(root, page)
     return { rows: [] }
   }
-  putAt(root, at, textOf(next))
+  if (followsOn(had, next)) {
+    appending(root, page, next.slice(had.length))
+    return { rows: next }
+  }
+  swept(root, page)
+  appending(root, page, next)
   return { rows: next }
 }
 
@@ -150,17 +252,27 @@ export function keptEdits(
   const full = join(root, at)
   mkdirSync(dirname(full), { recursive: true })
   return exclusively(full, (): Kept | Promise<Kept> => {
-    const had = heldAt(root, at)
+    migrated(root, page)
+    const had = heldIn(root, page)
     if ("why" in had) return had
     const next = act(had.rows)
     return next instanceof Promise
-      ? next.then((one) => settled(root, at, one))
-      : settled(root, at, next)
+      ? next.then((one) => settled(root, page, had.rows, one))
+      : settled(root, page, had.rows, next)
   })
 }
 
 export function appendEdits(root: string, page: string, edits: readonly Edit[]): Kept {
-  return keptEdits(root, page, (had) => [...had, ...edits])
+  const at = editsAt(page)
+  if (at === null) return { why: NO_PAGE }
+  if (edits.length === 0) return { rows: [] }
+  const full = join(root, at)
+  mkdirSync(dirname(full), { recursive: true })
+  return exclusively(full, (): Kept => {
+    migrated(root, page)
+    appending(root, page, edits)
+    return { rows: edits }
+  })
 }
 
 export function foldedIn(rows: readonly Edit[]): Answer {

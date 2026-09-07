@@ -4,13 +4,17 @@ export const editsKeeping = {
   id: "01a0777c-12c6-7383-a773-c4a635e8720f",
   pageTypeSlug: "module",
   slug: "edits-keeping",
-  definition: "the edits an agent has answered and not landed, kept under a ref naming its page",
+  definition: "the edits an agent has answered and not landed, appended beside the agent's page",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The edits are kept under a ref named for the page of the answering agent.",
+      statement: "The edits are kept in a file beside the page of the answering agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That file is kept outside the commit.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +22,7 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The edits outlive the page the ref is named for.",
+      statement: "The edits outlive the page the file sits beside.",
     },
     {
       invariantKind: "departure",
@@ -38,6 +42,10 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
+      statement: "A refusal counts its line from the first row of the first numbered file.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The rows are answered in the order the rows were appended.",
     },
     {
@@ -46,11 +54,45 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The rows are read and written again under one turn.",
+      statement: "A row is appended to the last numbered file rather than to a file written anew.",
     },
     {
       invariantKind: "departure",
-      statement: "A reader outside that turn never sees the edits half written.",
+      statement: "A row rolls into the next numbered file where the ceiling is reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row larger than the ceiling is alone in the file that row opens.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file's fill is read from its size rather than from its text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An append answers the rows appended rather than every row kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An append reads no row already kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A settle whose rows open with the rows read appends only the rows past the rows read.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A settle whose rows open otherwise takes the files away and writes the files again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A writer takes a turn over the file before appending.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A reader taking no turn can meet a row a write left half appended.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +100,7 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A ref left holding no row is taken away rather than left empty.",
+      statement: "A file left holding no row is taken away rather than left empty.",
     },
     {
       invariantKind: "departure",
@@ -82,7 +124,7 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "Handing edits over takes away the ref the subagent held.",
+      statement: "Handing edits over takes away the files the subagent held.",
     },
     {
       invariantKind: "departure",
@@ -98,7 +140,11 @@ export const editsKeeping = {
     },
     {
       invariantKind: "stopgap",
-      statement: "A file left by an earlier keeping is read where the ref holds nothing.",
+      statement: "A ledger an earlier keeping left under a ref is read where no file is there.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "The next write moves that ledger into the file and takes the ref away.",
     },
   ],
 } as const satisfies Module
