@@ -41,13 +41,31 @@ test("the rungs are ordered from black through blue rather than by what they sta
 })
 
 test("a rung the scale states nothing for is left out", () => {
-  expect(CLIMBING.map((rung) => rung.color)).toEqual(["red", "yellow", "green", "blue"])
+  expect(rungsIn({ blackAt: 0, redAt: 1, blueAt: 4 }).map((rung) => rung.color)).toEqual([
+    "black",
+    "red",
+    "blue",
+  ])
+})
+
+test("a climbing scale stating no black rung has its black rung read at zero", () => {
+  expect(CLIMBING[0]).toEqual({ at: 0, color: "black" })
+  expect(CLIMBING.map((rung) => rung.color)).toEqual(["black", "red", "yellow", "green", "blue"])
+})
+
+test("the black rung read in is taken only where the rungs then climb", () => {
+  expect(FALLING[0]).toEqual({ at: 100, color: "black" })
+  expect(rungsIn({ redAt: 4, yellowAt: 2, greenAt: 1, blueAt: 0 })[0]).toEqual({
+    at: 4,
+    color: "red",
+  })
+  expect(rungsIn({ redAt: 0, yellowAt: 24, greenAt: 48 })[0]).toEqual({ at: 0, color: "red" })
 })
 
 test("a scale of fewer than two rungs says nothing about which way a reading runs", () => {
-  expect(climbs(rungsIn({ redAt: 1 }))).toBe(false)
-  expect(falls(rungsIn({ redAt: 1 }))).toBe(false)
-  expect(tierAt(1, rungsIn({ redAt: 1 }))).toBeNull()
+  expect(climbs(rungsIn({ blackAt: 1 }))).toBe(false)
+  expect(falls(rungsIn({ blackAt: 1 }))).toBe(false)
+  expect(tierAt(1, rungsIn({ blackAt: 1 }))).toBeNull()
 })
 
 test("a scale climbs or falls and never both", () => {
@@ -87,8 +105,16 @@ test("how far a reading has climbed is the fraction between the two rungs it sit
   expect(tierAt(2, CLIMBING)?.progress).toBe(0)
 })
 
+test("a reading under the first rung a climbing scale states climbs toward that rung", () => {
+  const attributes = rungsIn({ redAt: 0.25, yellowAt: 0.5, greenAt: 1, blueAt: 2 })
+  const reached = tierAt(0.174355, attributes)
+  expect(reached?.tier).toBe("black")
+  expect(reached?.nextTier).toBe("red")
+  expect(reached?.progress).toBeCloseTo(0.69742, 5)
+})
+
 test("a reading under every rung has climbed an unknown fraction rather than none", () => {
-  expect(tierAt(0.5, CLIMBING)?.progress).toBeNull()
+  expect(tierAt(-2, CLIMBING)?.progress).toBeNull()
 })
 
 test("a reading on the highest rung has no tier above it", () => {

@@ -35,13 +35,17 @@ export function statedAt(value: unknown): number | null {
   return Number.isFinite(read) ? read : null
 }
 
+const BLACK_FLOOR: Rung = { at: 0, color: "black" }
+
 export function rungsIn(values: Readonly<Record<string, unknown>>): readonly Rung[] {
   const rungs: Rung[] = []
   for (const [key, color] of RUNGS) {
     const at = statedAt(values[key])
     if (at !== null) rungs.push({ at, color })
   }
-  return rungs
+  if (rungs[0]?.color === BELOW_EVERY_RUNG) return rungs
+  const floored: Rung[] = [BLACK_FLOOR, ...rungs]
+  return climbs(floored) ? floored : rungs
 }
 
 export function climbs(rungs: readonly Rung[]): boolean {

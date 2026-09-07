@@ -26,6 +26,14 @@ export const readoutTier = {
     },
     {
       invariantKind: "departure",
+      statement: "A climbing scale stating no black rung has its black rung read at zero.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The black rung read in is taken only where the rungs then climb.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The rungs are ordered from black through blue rather than by the numbers the rungs state.",
     },
