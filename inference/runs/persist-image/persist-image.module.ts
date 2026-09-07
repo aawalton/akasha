@@ -9,7 +9,7 @@ export const persistImage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Only a generate, edit or upscale run lands an image.",
+      statement: "Only a generate or edit or upscale run lands an image.",
     },
     {
       invariantKind: "departure",
