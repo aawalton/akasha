@@ -4,7 +4,7 @@ export const matchComparison = {
   id: "01a0680c-3c00-7001-a763-8d2f5b9e3102",
   pageTypeSlug: "select-property",
   slug: "match-comparison",
-  propertySlug: "match-comparison",
+  propertySlug: "comparison",
   definition: "how a clause weighs what it tests against what it holds",
   values: ["is", "is-not", "on-or-after", "is-before"],
   invariants: [
