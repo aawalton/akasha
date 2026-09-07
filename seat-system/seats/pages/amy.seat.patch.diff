@@ -52,3 +52,16 @@ index cd5fd711be0264c3757b0c1288ab66689060d8f8..7e46b2368197626cfe396e09cfc3ff7a
 +  const found = declarations.find((one) => one.key === "invariant-group-slug")
 +  expect(found?.title).toBe("Invariant Group Slug")
 +})
+diff --git a/pages/service/page-asking/page-asking.module.ts b/pages/service/page-asking/page-asking.module.ts
+index e752184a7bce041e7b4e6f7b987b22ff5915bb49..4cb1354531a70027341fc319d46ea8d591766ed6 100644
+--- a/pages/service/page-asking/page-asking.module.ts
++++ b/pages/service/page-asking/page-asking.module.ts
+@@ -183,7 +183,7 @@ export const pageAsking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A declaration carries the property page's own definition.",
++      statement: "A declaration is titled by its own property slug written in start case.",
+     },
+     {
+       invariantKind: "departure",
