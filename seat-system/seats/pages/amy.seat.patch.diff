@@ -1,3 +1,16 @@
+diff --git a/pages/service/page-asking/page-asking.module.code.ts b/pages/service/page-asking/page-asking.module.code.ts
+index 77cd2c8559fa4425f69781c4335cd414e5e52c31..d7cb16ed99586e1d14796e0bc13e0f5a9c975da4 100644
+--- a/pages/service/page-asking/page-asking.module.code.ts
++++ b/pages/service/page-asking/page-asking.module.code.ts
+@@ -114,7 +114,7 @@ export function declaredOf(one: Carried, page: Value | undefined, on: string): D
+     title: page === undefined ? said : (textAt(page, "definition") ?? said),
+     pageId: page === undefined ? "" : (textAt(page, "id") ?? ""),
+     on,
+-    values: one.many ? [] : null,
++    values: page === undefined ? null : (page["values"] ?? null),
+     targetSlug: page === undefined ? null : slugAt(page, "targetPageTypeSlug"),
+     slugProperty: one.propertySlug,
+     mayBeGone: !one.required,
 diff --git a/pages/service/page-asking/page-asking.module.ts b/pages/service/page-asking/page-asking.module.ts
 index 58403d58d93c592f1cadbe7c346e4f94deafd6a3..e752184a7bce041e7b4e6f7b987b22ff5915bb49 100644
 --- a/pages/service/page-asking/page-asking.module.ts
