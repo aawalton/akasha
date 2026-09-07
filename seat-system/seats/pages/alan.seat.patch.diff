@@ -75,3 +75,23 @@ index 0000000000000000000000000000000000000000..28dea624282b05a37f60420d37396fb0
 +  holds: "number",
 +  code: "ts",
 +} as const satisfies ComputedProperty
+diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.ts b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+index a6ff84d7f046faf41df060747c6f2b9f0952c859..5b00573bed4727ef348e943831af8258f149217d 100644
+--- a/alan/tracking/daily/wake-days/wake-day.page-type.ts
++++ b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+@@ -103,6 +103,7 @@ export const wakeDay = {
+     "computed-property/learn-stoplight",
+     "computed-property/love-level",
+     "computed-property/love-stoplight",
++    "computed-property/project-hours",
+     "computed-property/sleep-hours",
+     "computed-property/spend-hours",
+     "computed-property/stoplights",
+@@ -220,6 +221,7 @@ export const wakeDay = {
+     { pagePropertySlug: "computed-property/fun-stoplight", required: false, many: false },
+     { pagePropertySlug: "computed-property/wealth-stoplight", required: false, many: false },
+     { pagePropertySlug: "computed-property/stoplights", required: false, many: false },
++    { pagePropertySlug: "computed-property/project-hours", required: false, many: false },
+     { pagePropertySlug: "computed-property/sleep-hours", required: false, many: false },
+     { pagePropertySlug: "computed-property/spend-hours", required: false, many: false },
+     { pagePropertySlug: "computed-property/surplus-hours", required: false, many: false },
