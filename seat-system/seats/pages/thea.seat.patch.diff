@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/checked/pages/move-page/move-page.change-checked.code.ts b/changes/checked/pages/move-page/move-page.change-checked.code.ts
+index 2457b81f91184e966fadf691e5571979210944f4..acd614950e928faf2c104290313e084cbed17e9e 100644
+--- a/changes/checked/pages/move-page/move-page.change-checked.code.ts
++++ b/changes/checked/pages/move-page/move-page.change-checked.code.ts
+@@ -35,7 +35,7 @@ function movedInto(world: World, at: string, to: string, beside: readonly string
+       return { refused: `\`${one}\` sits outside \`${from}\`, so the page is not carried` }
+     }
+     const next = join(to, held)
+-    if (world.textOf(next) !== null) return { refused: `\`${next}\` is a body already` }
++    if (world.textOf(next) !== null) return { refused: `\`${next}\` holds a body already` }
+     said.set(one, next)
+   }
+   return { moved: said }
