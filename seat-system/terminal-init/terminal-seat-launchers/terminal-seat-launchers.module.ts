@@ -10,7 +10,11 @@ export const terminalSeatLaunchers = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat comes up under tmux, so a terminal that quits leaves the seat working.",
+      statement: "A seat comes up under tmux.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A terminal that quits leaves the seat working.",
     },
     {
       invariantKind: "departure",
