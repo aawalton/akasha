@@ -15,16 +15,3 @@ index 53d9436e44e79ca48011b57c5710753ad1f1344b..bddb32e5b877339b25d71796e915cd4d
      {
        invariantKind: "absence",
        statement: "A restatement that loosens is passed over here.",
-diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
-index 36f1192ae824773f0f2f567b5a663f29a954ef5f..2bef7d8e83186149a55e0ba42889b8b97c51f2aa 100644
---- a/domains/initiatives/pages/thea-checks-system.initiative.ts
-+++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
-@@ -10,7 +10,7 @@ export const theaChecksSystem = {
-     {
-       statement: "Every check is cheap enough for patch and runs there.",
-       workingMemory:
--        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Alan: turn a check on carrying its residue; clear every violation at the end, once all are on and fast. Owed: 19 in vendored lualib, wanting `bundler` and `allowImportingTsExtensions`. restatement-narrows-something is through step 1 and alone catches a restatement narrowing nothing, key-names-one-property taking the loosening. Then shell-clean, folder-matches-a-shape, identifier-matches-its-place. typecheck refuses at baseline, so compare arms.",
-+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Alan: turn a check on carrying its residue; clear every violation at the end, once all are on and fast. Owed: 19 in vendored lualib wanting `bundler`, and 10 restatements narrowing nothing. restatement-narrows-something is through step 2: it alone catches a restatement narrowing nothing, and it now descends through `underEach` as its sibling does, so tightening a parent no longer loses the refusal. Step 3 must price `kindsUnder`. Then shell-clean, folder-matches-a-shape, identifier-matches-its-place.",
-     },
-     {
-       statement: "The tests beside a changed file judge the change that carries it.",
