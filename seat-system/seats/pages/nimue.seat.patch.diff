@@ -1,0 +1,393 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/checked/pages/rename-code-token/rename-code-token.change-checked.code.ts b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.code.ts
+index 04ce97d7a160f0f81608f176568a0f95984e68d2..2afb328167dff08fc1121eb26d9f5df499cce92a 100644
+--- a/changes/checked/pages/rename-code-token/rename-code-token.change-checked.code.ts
++++ b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.code.ts
+@@ -8,18 +8,20 @@ import {
+   typingOver,
+ } from "@akasha/code/code-typing"
+ import ts from "typescript"
+-import { renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical.code.ts"
+-import { renameLocalVariable } from "../../../mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.code.ts"
+ import {
+   gathered,
+   missing,
+   refusing,
+ } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ export const LINE = "--line"
+ 
++const RENAME_EXPORT = "change-mechanical/rename-export"
++
++const RENAME_LOCAL_VARIABLE = "change-mechanical/rename-local-variable"
++
+ const AT = "at"
+ 
+ const OF = "of"
+@@ -77,13 +79,18 @@ function pickedIn(
+   }
+ }
+ 
+-export function renameCodeToken(world: World, given: RenameCodeTokenAsked): Answer {
++export async function renameCodeToken(world: World, given: RenameCodeTokenAsked): Promise<Answer> {
+   if (!typed(given.at)) return refusing(`\`${given.at}\` names no TypeScript body`)
+   const text = world.textOf(given.at)
+   if (text === null) return refusing(`\`${given.at}\` could not be read`)
+   const typing = typingOver(world.root, [given.at], readingOf(world.root, world.textOf))
+   if (exportsNamed(typing, given.at, given.of).length > 0) {
+-    return gathered([renameExport(world, { at: given.at, of: given.of, to: given.to })])
++    const spelled = await reach(world, RENAME_EXPORT, {
++      at: given.at,
++      of: given.of,
++      to: given.to,
++    })
++    return gathered([spelled])
+   }
+   const declared = declaredNamed(typing, given.at, given.of)
+   if (declared.length === 0) return refusing(`\`${given.at}\` declares no \`${given.of}\``)
+@@ -93,17 +100,17 @@ export function renameCodeToken(world: World, given: RenameCodeTokenAsked): Answ
+   if (source === null) return refusing(`\`${given.at}\` could not be read`)
+   const named = namedOf(found.node)
+   if (named === null) return refusing(`\`${given.of}\` is no simple declaration`)
+-  return gathered([
+-    renameLocalVariable(given.at, text, { at: named.getStart(source), to: given.to }),
+-  ])
++  const renamed = await reach(world, RENAME_LOCAL_VARIABLE, {
++    at: given.at,
++    spot: named.getStart(source),
++    to: given.to,
++  })
++  return gathered([renamed])
+ }
+ 
+ export type Asked = Readonly<Record<string, string>>
+ 
+-// A command line hands the arguments in as text worked out while the command runs, so the shape is
+-// read here rather than trusted, and a shape this change cannot use is refused by name. A line is
+-// counted rather than spelled, so text naming no whole number is refused rather than read as one.
+-export function runChange(world: World, given: Asked): Answer {
++export async function runChange(world: World, given: Asked): Promise<Answer> {
+   const at = given[AT]
+   if (at === undefined) return refusing(missing(AT))
+   const of = given[OF]
+@@ -111,10 +118,10 @@ export function runChange(world: World, given: Asked): Answer {
+   const to = given[TO]
+   if (to === undefined) return refusing(missing(TO))
+   const said = given[ON_LINE]
+-  if (said === undefined) return renameCodeToken(world, { at, of, to })
++  if (said === undefined) return await renameCodeToken(world, { at, of, to })
+   const line = Number(said)
+   if (!Number.isInteger(line)) {
+     return refusing(`\`${ON_LINE}\` counts a line, and \`${said}\` is no whole number`)
+   }
+-  return renameCodeToken(world, { at, of, to, line })
++  return await renameCodeToken(world, { at, of, to, line })
+ }
+diff --git a/changes/checked/pages/rename-code-token/rename-code-token.change-checked.test.ts b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.test.ts
+index c1a883e0f1b5b10bc15920f3369a63f80de4540e..37b4fed651117fab8cde7cbaeff6a0aa8c0dd9cb 100644
+--- a/changes/checked/pages/rename-code-token/rename-code-token.change-checked.test.ts
++++ b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.test.ts
+@@ -7,8 +7,16 @@ import {
+   scratch,
+   textIn,
+ } from "@akasha/indexes/indexing/testing"
++import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical.code.ts"
++import { runChange as renameLocalVariable } from "../../../mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.code.ts"
++import { runChange as respellExport } from "../../../mechanical/pages/respell-export/respell-export.change-mechanical.code.ts"
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import {
++  type Reaching,
++  type World,
++  worldAt,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { renameCodeToken } from "./rename-code-token.change-checked.code.ts"
+ 
+ afterAll(scratch.sweep)
+@@ -29,6 +37,23 @@ function bodyOf(path: string): string | null {
+   return path === LOCAL ? BODY : null
+ }
+ 
++const RUNS: Reaching = async (world, at, given) => {
++  if (at === "change-mechanical/rename-export") {
++    return await renameExport(world, given as Parameters<typeof renameExport>[1])
++  }
++  if (at === "change-mechanical/rename-local-variable") {
++    return renameLocalVariable(world, given as Parameters<typeof renameLocalVariable>[1])
++  }
++  if (at === "change-mechanical/respell-export") {
++    return respellExport(world, given as Parameters<typeof respellExport>[1])
++  }
++  return refusing(`\`${at}\` is reached by nothing here`)
++}
++
++function worldIn(root: string, textOf: (path: string) => string | null): World {
++  return worldAt(root, textOf, RUNS)
++}
++
+ function pathsOf(said: Answer): readonly string[] {
+   return said.edits.map((one) => one.path).sort()
+ }
+@@ -37,38 +62,63 @@ function bodyIn(said: Answer, path: string): string {
+   return said.edits.find((one) => one.path === path)?.body ?? ""
+ }
+ 
+-test("a path that is no TypeScript body is refused", () => {
+-  const world = worldAt(scratch.rootFor("token-"), NOTHING)
+-  const said = renameCodeToken(world, { at: "a.md", of: "one", to: "two" })
++test("a path that is no TypeScript body is refused", async () => {
++  const world = worldIn(scratch.rootFor("token-"), NOTHING)
++  const said = await renameCodeToken(world, { at: "a.md", of: "one", to: "two" })
+   expect(said.refused).toBe("`a.md` names no TypeScript body")
+ })
+ 
+-test("a body that could not be read is refused", () => {
+-  const world = worldAt(scratch.rootFor("token-"), NOTHING)
+-  const said = renameCodeToken(world, { at: LOCAL, of: "one", to: "two" })
++test("a body that could not be read is refused", async () => {
++  const world = worldIn(scratch.rootFor("token-"), NOTHING)
++  const said = await renameCodeToken(world, { at: LOCAL, of: "one", to: "two" })
+   expect(said.refused).toBe("`akasha/one/local.module.code.ts` could not be read")
+ })
+ 
+-test("an exported name is renamed through every importer", () => {
++test("an exported name is renamed through every importer", async () => {
+   const root = indexedRepo()
+-  const world = worldAt(root, textIn(root))
+-  const said = renameCodeToken(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
++  const world = worldIn(root, textIn(root))
++  const said = await renameCodeToken(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
+   expect(said.refused).toBe(null)
+   expect(pathsOf(said)).toEqual([HELD_CODE, NAMER_CODE])
+ })
+ 
+-test("a name no export carries is renamed over its own file", () => {
+-  const world = worldAt(scratch.rootFor("token-"), bodyOf)
+-  const said = renameCodeToken(world, { at: LOCAL, of: "kept", to: CARRIED })
++test("a name no export carries is renamed over its own file", async () => {
++  const world = worldIn(scratch.rootFor("token-"), bodyOf)
++  const said = await renameCodeToken(world, { at: LOCAL, of: "kept", to: CARRIED })
+   expect(said.refused).toBe(null)
+   expect(bodyIn(said, LOCAL)).toBe(BODY.replaceAll("kept", CARRIED))
+   expect(said.edits[0]?.was).toBe(BODY)
+   expect(said.edits[0]?.from).toBe(undefined)
+ })
+ 
+-test("a name the file declares nowhere is refused", () => {
+-  const world = worldAt(scratch.rootFor("token-"), bodyOf)
+-  const said = renameCodeToken(world, { at: LOCAL, of: "missing", to: CARRIED })
++test("a name the file declares nowhere is refused", async () => {
++  const world = worldIn(scratch.rootFor("token-"), bodyOf)
++  const said = await renameCodeToken(world, { at: LOCAL, of: "missing", to: CARRIED })
+   expect(said.edits).toEqual([])
+   expect(said.refused).toBe("`akasha/one/local.module.code.ts` declares no `missing`")
+ })
++
++test("an exported name is handed to the change reached at the export address", async () => {
++  const reached: string[] = []
++  const root = indexedRepo()
++  const world = worldAt(root, textIn(root), (_world, at) => {
++    reached.push(at)
++    return Promise.resolve({ edits: [], refused: null })
++  })
++
++  await renameCodeToken(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
++
++  expect(reached).toEqual(["change-mechanical/rename-export"])
++})
++
++test("a local name is handed to the change reached at the local address", async () => {
++  const reached: string[] = []
++  const world = worldAt(scratch.rootFor("token-"), bodyOf, (_world, at) => {
++    reached.push(at)
++    return Promise.resolve({ edits: [], refused: null })
++  })
++
++  await renameCodeToken(world, { at: LOCAL, of: "kept", to: CARRIED })
++
++  expect(reached).toEqual(["change-mechanical/rename-local-variable"])
++})
+diff --git a/changes/mechanical/pages/rename-export/rename-export.change-mechanical.code.ts b/changes/mechanical/pages/rename-export/rename-export.change-mechanical.code.ts
+index accb7e52e4eefb8b53a77cf033216527a7d5353e..0f5de46a5083943b83038e47243328d149fb5b9f 100644
+--- a/changes/mechanical/pages/rename-export/rename-export.change-mechanical.code.ts
++++ b/changes/mechanical/pages/rename-export/rename-export.change-mechanical.code.ts
+@@ -2,8 +2,9 @@ import { typed } from "@akasha/code/code-typing"
+ import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
+ import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { respelled } from "../respell-export/respell-export.change-mechanical.code.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++
++const RESPELL_EXPORT = "change-mechanical/respell-export"
+ 
+ const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+ 
+@@ -28,15 +29,15 @@ function whyNot(given: RenameExportAsked): string | null {
+   return null
+ }
+ 
+-export function renameExport(world: World, given: RenameExportAsked): Answer {
++export async function renameExport(world: World, given: RenameExportAsked): Promise<Answer> {
+   const why = whyNot(given)
+   if (why !== null) return refusing(why)
+   const reading = importingOf(world.index, new Map([[given.at, given.at]]))
+   if ("unread" in reading) return refusing(reading.unread)
+   const over = [given.at, ...reading.importers]
+-  return respelled(world.root, given.at, over, given.of, given.to, world.textOf)
++  return await reach(world, RESPELL_EXPORT, { at: given.at, over, of: given.of, to: given.to })
+ }
+ 
+-export function runChange(world: World, given: RenameExportAsked): Answer {
+-  return renameExport(world, given)
++export async function runChange(world: World, given: RenameExportAsked): Promise<Answer> {
++  return await renameExport(world, given)
+ }
+diff --git a/changes/mechanical/pages/rename-export/rename-export.change-mechanical.test.ts b/changes/mechanical/pages/rename-export/rename-export.change-mechanical.test.ts
+index 7815163e0d8a911c47acb6ca9aaa715e1b8ee6bf..f408ce26cdabb4780cf6073a1ffe6802d8ef3630 100644
+--- a/changes/mechanical/pages/rename-export/rename-export.change-mechanical.test.ts
++++ b/changes/mechanical/pages/rename-export/rename-export.change-mechanical.test.ts
+@@ -7,8 +7,14 @@ import {
+   scratch,
+   textIn,
+ } from "@akasha/indexes/indexing/testing"
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import {
++  type Reaching,
++  type World,
++  worldAt,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { runChange as respellExport } from "../respell-export/respell-export.change-mechanical.code.ts"
+ import { renameExport } from "./rename-export.change-mechanical.code.ts"
+ 
+ afterAll(scratch.sweep)
+@@ -27,47 +33,60 @@ function bodyIn(said: Answer, path: string): string | null | undefined {
+   return said.edits.find((one) => one.path === path)?.body
+ }
+ 
+-function whyOf(at: string, of: string, to: string): string {
+-  const world = worldAt(scratch.rootFor("rename-export-"), NOTHING)
+-  const said = renameExport(world, { at, of, to })
++const RUNS: Reaching = (world, at, given) => {
++  if (at === "change-mechanical/respell-export") {
++    return Promise.resolve(respellExport(world, given as Parameters<typeof respellExport>[1]))
++  }
++  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
++}
++
++function worldIn(root: string, textOf: (path: string) => string | null): World {
++  return worldAt(root, textOf, RUNS)
++}
++
++async function whyOf(at: string, of: string, to: string): Promise<string> {
++  const world = worldIn(scratch.rootFor("rename-export-"), NOTHING)
++  const said = await renameExport(world, { at, of, to })
+   expect(said.edits).toEqual([])
+   return said.refused ?? ""
+ }
+ 
+-test("a path that is no TypeScript body is refused", () => {
+-  expect(whyOf("akasha/one/held/held.md", "one", "two")).toBe(
++test("a path that is no TypeScript body is refused", async () => {
++  expect(await whyOf("akasha/one/held/held.md", "one", "two")).toBe(
+     "`akasha/one/held/held.md` names no TypeScript body"
+   )
+ })
+ 
+-test("a page is refused, since a page's export is its slug", () => {
+-  expect(whyOf("akasha/one/held/held.module.ts", "held", "kept")).toBe(
++test("a page is refused, since a page's export is its slug", async () => {
++  expect(await whyOf("akasha/one/held/held.module.ts", "held", "kept")).toBe(
+     "`akasha/one/held/held.module.ts` is a page, and a page's export is its slug"
+   )
+ })
+ 
+-test("a test file beside a page is renamed as its code is", () => {
+-  expect(whyOf("akasha/one/held/held.module.test.ts", "one", "two")).not.toContain("is a page")
++test("a test file beside a page is renamed as its code is", async () => {
++  expect(await whyOf("akasha/one/held/held.module.test.ts", "one", "two")).not.toContain(
++    "is a page"
++  )
+ })
+ 
+-test("a name no body could carry is refused", () => {
+-  expect(whyOf(CODE, "one", "2two")).toBe("`2two` is no name a body carries")
+-  expect(whyOf(CODE, "1one", "two")).toBe("`1one` is no name a body carries")
++test("a name no body could carry is refused", async () => {
++  expect(await whyOf(CODE, "one", "2two")).toBe("`2two` is no name a body carries")
++  expect(await whyOf(CODE, "1one", "two")).toBe("`1one` is no name a body carries")
+ })
+ 
+-test("the name it already carries is refused", () => {
+-  expect(whyOf(CODE, "one", "one")).toBe("`one` is the name it already carries")
++test("the name it already carries is refused", async () => {
++  expect(await whyOf(CODE, "one", "one")).toBe("`one` is the name it already carries")
+ })
+ 
+-test("an index that cannot answer refuses rather than narrowing the reach", () => {
+-  const said = whyOf(CODE, "one", "two")
++test("an index that cannot answer refuses rather than narrowing the reach", async () => {
++  const said = await whyOf(CODE, "one", "two")
+   expect(said).toContain("so none were repointed")
+ })
+ 
+-test("the declaring file and the file importing it are both spelled anew", () => {
++test("the declaring file and the file importing it are both spelled anew", async () => {
+   const root = indexedRepo()
+-  const world = worldAt(root, textIn(root))
+-  const said = renameExport(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
++  const world = worldIn(root, textIn(root))
++  const said = await renameExport(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
+   expect(said.refused).toBe(null)
+   expect(pathsOf(said)).toEqual([HELD_CODE, NAMER_CODE])
+   expect(bodyIn(said, HELD_CODE)).toBe(`export const ${CARRIED} = 1\n`)
+@@ -76,19 +95,37 @@ test("the declaring file and the file importing it are both spelled anew", () =>
+   )
+ })
+ 
+-test("the bodies are answered rather than written", () => {
++test("the bodies are answered rather than written", async () => {
+   const root = indexedRepo()
+   const text = textIn(root)
+-  const said = renameExport(worldAt(root, text), { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
++  const said = await renameExport(worldIn(root, text), {
++    at: HELD_CODE,
++    of: HELD_EXPORT,
++    to: CARRIED,
++  })
+   expect(said.refused).toBe(null)
+   expect(text(HELD_CODE)).toBe(`export const ${HELD_EXPORT} = 1\n`)
+   expect(text(NAMER_CODE)).toContain(`import { ${HELD_EXPORT} }`)
+ })
+ 
+-test("a rename refuses where a file it would change already reaches the new name", () => {
++test("a rename refuses where a file it would change already reaches the new name", async () => {
+   const root = indexedRepo()
+-  const world = worldAt(root, textIn(root))
+-  const said = renameExport(world, { at: HELD_CODE, of: HELD_EXPORT, to: "named" })
++  const world = worldIn(root, textIn(root))
++  const said = await renameExport(world, { at: HELD_CODE, of: HELD_EXPORT, to: "named" })
+   expect(said.edits).toEqual([])
+   expect(said.refused).toBe(`\`${NAMER_CODE}\` already reaches a \`named\``)
+ })
++
++test("the respelling is reached through the runner the world carries", async () => {
++  let reached = ""
++  const root = indexedRepo()
++  const world = worldAt(root, textIn(root), (_world, at) => {
++    reached = at
++    return Promise.resolve({ edits: [], refused: null })
++  })
++
++  const said = await renameExport(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
++
++  expect(reached).toBe("change-mechanical/respell-export")
++  expect(said.refused).toBe(null)
++})
