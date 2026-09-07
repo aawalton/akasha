@@ -774,6 +774,7 @@
     "email-watch": {
       "name": "@akasha/email-watch",
       "dependencies": {
+        "@akasha/code": "workspace:*",
         "@akasha/google-email": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/rules-engine": "workspace:*",
