@@ -14,6 +14,7 @@ import {
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 import { namersIn, pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+import type { Changes } from "../../../runners/pages/change-running/change-running.change-runner.addressed.ts"
 
 const PART_SLUGS = "part-slugs"
 
@@ -37,7 +38,7 @@ export function parentsOf(world: World, at: string): readonly Named[] {
   return namersIn(world, at, PART_SLUGS)
 }
 
-function addressFor(world: World, at: string): string {
+function addressFor(world: World, at: string): keyof Changes {
   if (pageNamed(at, world.index.pageTypesIn())) return REMOVE_PAGE_FILE
   return CODE.has(extname(at)) ? REMOVE_CODE_FILE : REMOVE_FILE
 }

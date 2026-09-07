@@ -3,6 +3,7 @@ import { pageNamed } from "@akasha/pages/page-file-name"
 import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import type { Changes } from "../../../runners/pages/change-running/change-running.change-runner.addressed.ts"
 
 const AT = "at"
 
@@ -16,7 +17,7 @@ const ADD_PAGE_FILE = "change-mechanical/add-page-file"
 
 const CODE = new Set([".ts", ".tsx"])
 
-function addressFor(world: World, at: string): string {
+function addressFor(world: World, at: string): keyof Changes {
   if (pageNamed(at, world.index.pageTypesIn())) return ADD_PAGE_FILE
   return CODE.has(extname(at)) ? ADD_CODE_FILE : ADD_FILE
 }

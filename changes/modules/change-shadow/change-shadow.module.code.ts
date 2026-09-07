@@ -6,6 +6,7 @@ import {
   shadowAt,
   shadowFor,
 } from "../../../pages/shadow/shadow.module.code.ts"
+import type { Changes } from "../../runners/pages/change-running/change-running.change-runner.addressed.ts"
 import { gathered, refusing } from "../change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../change-answer/change-answer.module.types.ts"
 
@@ -31,7 +32,7 @@ export type Reached = {
   readonly world: World
 }
 
-export async function reach(world: World, at: string, given: unknown): Promise<Reached> {
+export async function reach(world: World, at: keyof Changes, given: unknown): Promise<Reached> {
   const said = await (world.reaching ?? REACHES_NOTHING)(world, at, given)
   if (said.refused !== null) return { said, world }
   return { said, world: worldOver(world, said) }

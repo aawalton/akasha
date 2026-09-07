@@ -42,10 +42,6 @@ export const changeRunner = {
     },
     {
       invariantKind: "absence",
-      statement: "No runner holds a list of the changes that runner reaches.",
-    },
-    {
-      invariantKind: "absence",
       statement: "Nothing here reads an argument off the command line.",
     },
   ],
