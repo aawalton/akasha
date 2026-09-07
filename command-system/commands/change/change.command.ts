@@ -24,8 +24,13 @@ export const change = {
     "a change that refuses appends nothing and leaves the edits as the edits were.",
     "a change that refuses applies nothing, so an apply asked for is left unmade.",
     "a change asking for no apply holds its edits unapplied, and that is the dry run.",
-    "`drop` is the one first word naming no change, and takes away every edit kept.",
+    "`drop` and `handed` and `take` and `forget` are the first words naming no change.",
+    "`drop` takes away every edit kept, and leaves what a subagent handed over.",
     "a drop names each edit that went, because nothing puts a dropped edit back.",
+    "`handed` names each subagent that handed edits over, and how many edits each one handed.",
+    "`take <subagent>` moves one subagent's handed edits into this agent's own.",
+    "a take that would not fold is refused, and leaves both sets where those sets were.",
+    "`forget <subagent>` takes one subagent's handed edits away.",
     "no check runs over the change, and an apply judges the edits kept before folding the edits in.",
   ],
   invariants: [
@@ -181,6 +186,45 @@ export const change = {
     {
       invariantKind: "absence",
       statement: "No drop takes one path out and leaves the rest.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The edits a subagent handed over are kept apart from the edits this agent answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop leaves every edit a subagent handed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "`handed` names each subagent that handed edits over and how many edits that subagent handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`take` folds one subagent's handed edits into the edits this agent keeps.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take that would not fold refuses and leaves both sets where those sets were.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take that folds takes away the handed edits that were folded in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`forget` takes one subagent's handed edits away and names each edit that went.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A take or a forget naming no subagent is refused rather than reaching every subagent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change answering says how many subagents are holding edits for this agent.",
     },
     {
       invariantKind: "departure",

@@ -15,6 +15,9 @@ import {
 import {
   editsAt,
   foldedIn,
+  handedAway,
+  handedIn,
+  handedUnder,
   keptAt,
   keptEdits,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
@@ -78,7 +81,29 @@ const DROPPED = "these edits are gone, and no apply lands them"
 
 const NOTHING_KEPT = "no edits are kept beside this agent's page, so nothing went"
 
-const DROP_SAID = "`drop` takes away the edits kept, and is the one word here naming no change"
+const DROP_SAID = "`drop` and `handed` and `take` and `forget` name an act rather than a change"
+
+const HANDED = "handed"
+
+const TAKE = "take"
+
+const FORGET = "forget"
+
+const HANDED_TAKES = "the act naming what each subagent handed to this agent"
+
+const TAKE_TAKES = "the act taking one subagent's handed edits into this agent's own"
+
+const FORGET_TAKES = "the act taking away one subagent's handed edits"
+
+const NONE_HANDED = "no subagent has handed edits to this agent"
+
+const NO_SUBAGENT = "this call names no subagent whose handed edits would be reached"
+
+const HANDED_LANDS = "`akasha change take <subagent>` takes one of these into this agent's own"
+
+const HELD_BACK = "the handed edits are kept as they were, and this agent's own are unchanged"
+
+const TAKEN = "these edits are this agent's own now, and `akasha apply` lands them"
 
 const NO_ARGUMENTS =
   "a change reads its arguments from standard input, and this call piped nothing in"
@@ -132,6 +157,9 @@ export function takingOf(world: World): Taking {
   return [
     ...changesIn(world).map((one) => ({ said: one.slug, takes: one.definition })),
     { said: DROP, takes: DROP_TAKES },
+    { said: HANDED, takes: HANDED_TAKES },
+    { said: TAKE, takes: TAKE_TAKES },
+    { said: FORGET, takes: FORGET_TAKES },
   ]
 }
 
@@ -232,6 +260,51 @@ export function dropping(root: string, page: string): Answer {
   return { report: [...went, DROPPED], refusals: [], code: 0 }
 }
 
+export function waitingSaid(root: string, page: string): readonly string[] {
+  const many = handedUnder(root, page).length
+  if (many === 0) return []
+  return [`${String(many)} subagent(s) handed edits over, which \`akasha change handed\` names`]
+}
+
+export function listing(root: string, page: string): Answer {
+  const under = handedUnder(root, page)
+  if (under.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
+  const said = under.map((one) => {
+    const held = handedIn(root, page, one)
+    return `${one} handed ${String("why" in held ? 0 : held.rows.length)} edit(s) over`
+  })
+  return { report: [...said, HANDED_LANDS], refusals: [], code: 0 }
+}
+
+export function taking(root: string, page: string, under: string | undefined): Answer {
+  if (under === undefined) return mistaking([NO_SUBAGENT])
+  const held = handedIn(root, page, under)
+  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
+  if (held.rows.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
+  let answer: Answer = mistaking([NO_PAGE])
+  const kept = keptEdits(root, page, (had) => {
+    const folded = foldedIn([...had, ...held.rows])
+    if (folded.refused !== null) {
+      answer = { report: [], refusals: [folded.refused, HELD_BACK], code: 3 }
+      return had
+    }
+    answer = { report: [...held.rows.map(saidOf).sort(), TAKEN], refusals: [], code: 0 }
+    return [...had, ...held.rows]
+  })
+  if ("why" in kept) return { report: [], refusals: [kept.why], code: 3 }
+  if (answer.code === 0) handedAway(root, page, under)
+  return answer
+}
+
+export function forgetting(root: string, page: string, under: string | undefined): Answer {
+  if (under === undefined) return mistaking([NO_SUBAGENT])
+  const held = handedIn(root, page, under)
+  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
+  if (held.rows.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
+  handedAway(root, page, under)
+  return { report: [...held.rows.map(saidOf).sort(), DROPPED], refusals: [], code: 0 }
+}
+
 export async function appending(
   root: string,
   page: string,
@@ -262,6 +335,7 @@ export async function appending(
         ...(applied
           ? []
           : [`the edits are kept at ${keptAt(page) ?? ""}, and \`akasha apply\` lands them`]),
+        ...waitingSaid(root, page),
       ],
       refusals: [],
       code: 0,
@@ -289,6 +363,9 @@ export async function changing(
   if (slug === undefined) {
     return mistaking([`no change is named, and this runs one of ${runsSaid(world)}`, DROP_SAID])
   }
+  if (slug === HANDED) return listing(root, page)
+  if (slug === TAKE) return taking(root, page, argv[1])
+  if (slug === FORGET) return forgetting(root, page, argv[1])
   const unknown = unknownIn(argv.slice(1), BARE, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   if (slug === DROP) return dropping(root, page)
