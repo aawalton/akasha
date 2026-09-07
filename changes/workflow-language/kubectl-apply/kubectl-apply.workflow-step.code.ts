@@ -77,7 +77,7 @@ function buildApplyStep(
           )
         }
         return [
-          `sh "$AKASHA_ROOT/infrastructure/cluster-operations/ci-apply-manifests/ci-apply-manifests.shell-script.shell.sh" ${allExcludes.map((e) => `--exclude ${e}`).join(" ")} ${namespace} ${files}`,
+          `sh "$AKASHA_ROOT/infrastructure/cluster/operations/ci-apply-manifests/ci-apply-manifests.shell-script.shell.sh" ${allExcludes.map((e) => `--exclude ${e}`).join(" ")} ${namespace} ${files}`,
         ]
       }
 

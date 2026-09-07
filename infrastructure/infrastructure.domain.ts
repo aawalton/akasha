@@ -16,7 +16,6 @@ export const infrastructure = {
     "page-type/alert",
     "workspace-package/ci-benchmark",
     "domain/cluster",
-    "domain/cluster-operations",
     "domain/auth",
     "domain/container-image",
     "domain/job",

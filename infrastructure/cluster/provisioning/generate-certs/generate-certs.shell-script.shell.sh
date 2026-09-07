@@ -7,8 +7,8 @@ AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
 CERTS_DIR="${SCRIPT_DIR}"
 cd "$CERTS_DIR"
 
-_DEPLOY_LIB_DIR="${AKASHA_ROOT}/infrastructure/cluster-operations/deploy-functions"
-# shellcheck source=../../cluster-operations/deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
+_DEPLOY_LIB_DIR="${AKASHA_ROOT}/infrastructure/cluster/operations/deploy-functions"
+# shellcheck source=../../operations/deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
 . "${_DEPLOY_LIB_DIR}/deploy-functions.shell-script.shell.sh"
 
 FORCE=false

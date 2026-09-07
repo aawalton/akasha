@@ -20,7 +20,7 @@ export const aranyaClusterCleanup = {
     {
       statement: "All cluster-specific files are in the cluster/ folder.",
       workingMemory:
-        "Left to move are `infrastructure/cluster-manifests`, `infrastructure/cluster-operations` and `service-system/cluster-services`, which goes to `cluster/services/` whole. Five files no page claimed blocked them, not four: `nodes.json` and `registry.conf` are deleted into what already held their values, `config-header.yaml` is a `cluster-service` sidecar, the grafana three are dashboard pages, and `tunnel-routes.ts` is left.",
+        "`cluster/operations` has arrived, its scripts finding their library beside them rather than by a path. Left are `infrastructure/cluster-manifests`, whose path 34 files spell as text, and `service-system/cluster-services`, going to `cluster/services` whole and staying a plain folder, because no tool must read a manifest there. A move re-depths what an import spells and rewrites nothing spelled as text.",
     },
     {
       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",

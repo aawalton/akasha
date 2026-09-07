@@ -104,8 +104,8 @@ export default workflow("cloudflared", {
         `if [ "$LIVE_HASH" = "${ci.inputsHash}" ]; then echo "[skip] Content hash ${ci.inputsHash} matches — DNS already synced"; exit 0; fi`,
 
         `bun ${ci.workspace}/infrastructure/cluster-manifests/tunnel-config/tunnel-config.module.code.ts > /tmp/cloudflared-configmap.yaml`,
-        `_DEPLOY_LIB_DIR=${ci.workspace}/infrastructure/cluster-operations/deploy-functions`,
-        `. ${ci.workspace}/infrastructure/cluster-operations/deploy-functions/deploy-functions.shell-script.shell.sh`,
+        `_DEPLOY_LIB_DIR=${ci.workspace}/infrastructure/cluster/operations/deploy-functions`,
+        `. ${ci.workspace}/infrastructure/cluster/operations/deploy-functions/deploy-functions.shell-script.shell.sh`,
         "mkdir -p /tmp/.cloudflare",
         'echo "${CLOUDFLARE_API_TOKEN}" > /tmp/.cloudflare/api-token',
         "TUNNEL_ID=$(grep '^[[:space:]]*tunnel:' /tmp/cloudflared-configmap.yaml | awk '{print $2}')",

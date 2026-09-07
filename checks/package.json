@@ -29,6 +29,7 @@
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-run": "workspace:*",
     "typescript": "5.9.3",
-    "typescript-7": "npm:typescript@7.1.0-dev.20260904.1"
+    "typescript-7": "npm:typescript@7.1.0-dev.20260904.1",
+    "zod": "^4.3.6"
   }
 }
