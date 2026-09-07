@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index 27ad17c2c001bb79dcc0a9d2b6407944553686b7..ab1030bd93d522398d26ab497baa04b09f6b9cfc 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -25,7 +25,7 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "A change is reached by its address rather than by an import.",
+       workingMemory:
+-        "`change-running` loads a change by address and runs the guards its page names, so no call reaches one unguarded. Its `addressed` sidecar maps each address to `Parameters<typeof import(path)['runChange']>[1]`, reading each signature rather than restating one, and `address-mapping` writes it inside `preparing` where the gate judges it. The map reaches `change-mechanical` alone, so any other address refuses at compile time. Left: a change still reaches another change by import.",
++        "The `addressed` sidecar holds 25 addresses, all `change-mechanical-*`, so no checked change has an address and an import is the only route one has to another. `move-folder-package.change-checked.code.ts` calls `moveFolder` and `renamePage` by import and makes no `reach` call, so neither sibling's guards run. `remove-package-alias` and `change-page-page-type` import helpers the same way. `change-runner.page-type.ts` files this as a gap.",
+     },
+     {
+       statement: "The patch a landing works out is held by no page property.",
