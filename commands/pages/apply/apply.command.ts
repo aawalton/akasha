@@ -120,7 +120,7 @@ export const apply = {
     },
     {
       invariantKind: "departure",
-      statement: "The patch is applied by the act `akasha patch apply` runs.",
+      statement: "A patch the agent already holds is applied even where no edit is kept.",
     },
     {
       invariantKind: "departure",

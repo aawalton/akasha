@@ -22,6 +22,7 @@ import {
 import {
   type Bodies,
   type Body,
+  carriedFor,
   type Draft,
   type Rebased,
   type Running,
@@ -81,7 +82,8 @@ export function draftsOf(edits: readonly Edit[]): readonly Draft[] {
 }
 
 export function folding(root: string, page: string): Folded {
-  let answer: Folded = { folded: [], dropped: [], unfold: null, carried: null }
+  const carried = carriedFor(root, page)
+  let answer: Folded = { folded: [], dropped: [], unfold: null, carried }
   const kept = keptEdits(root, page, (had) => {
     if (had.length === 0) return had
     const held = had.filter((one) => !writtenAgain(one.path))
@@ -89,7 +91,7 @@ export function folding(root: string, page: string): Folded {
       ...new Set(had.filter((one) => writtenAgain(one.path)).map((one) => one.path)),
     ].sort()
     if (held.length === 0) {
-      answer = { folded: [], dropped, unfold: null, carried: null }
+      answer = { folded: [], dropped, unfold: null, carried }
       return null
     }
     const said = foldedIn(held)

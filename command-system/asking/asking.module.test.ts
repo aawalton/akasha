@@ -8,6 +8,7 @@ import { patch } from "../commands/patch/patch.command.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
 import { landedMechanically, landingAsked, NO_CHECKS } from "./asking.module.code.ts"
 import {
+  applied,
   applying,
   asking,
   BROKEN,
@@ -131,8 +132,10 @@ test("a link is repointed once the checks have loaded and never where they will 
 test("the glass carries a patch past checks that will not load, and the commit says why", async () => {
   const root = repoNoCheckLoads()
   expect(seeded(root)).toBe(true)
-  const said = await patch(
-    ["apply", "--message", "held", "--break-the-glass", "mid-refactor"],
+  const said = await applied(
+    root,
+    { report: [], refusals: [], code: 0 },
+    ["--message", "held", "--break-the-glass", "mid-refactor"],
     givenIn(root)
   )
   expect(said.code).toBe(0)

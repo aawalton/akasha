@@ -2,15 +2,16 @@ import { existsSync, mkdirSync, rmSync, symlinkSync, writeFileSync } from "node:
 import { join } from "node:path"
 import { patchAt } from "@akasha/agents/patch-keeping"
 import type { Phase } from "@akasha/checks/checking"
+import { agentPathOf } from "@akasha/context/warranting"
 import { warrantsSeeded } from "@akasha/context/warranting/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { noImportersFiled, pageFiled } from "@akasha/indexes/testing"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { ADMITS_CODE, MINTED, mintedId, minting } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
+import { applying as applyingPatch } from "../applying/applying.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
-import { patch } from "../commands/patch/patch.command.code.ts"
-import { drafted } from "../drafting/drafting.module.code.ts"
+import { carriedFor, drafted } from "../drafting/drafting.module.code.ts"
 import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
 import { inputIn } from "../piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
@@ -159,7 +160,9 @@ export async function applied(
   given: Given = givenIn(root)
 ): Promise<Answer> {
   if (said.code !== 0) return said
-  const then = await patch(["apply", ...applyingIn(argv)], given)
+  const page = given.agentId === null ? null : agentPathOf(root, given.agentId)
+  if (page === null) return said
+  const then = await applyingPatch(given, page, applyingIn(argv), carriedFor(root, page))
   return { report: [...said.report, ...then.report], refusals: then.refusals, code: then.code }
 }
 
@@ -244,7 +247,7 @@ const THREE = [{ path: THREE_AT, body: bytes(PROPOSED) }]
 export const holds = (root: string, path: string): boolean => existsSync(join(root, path))
 
 export const applying = async (root: string): Promise<Answer> =>
-  await patch(["apply", "--message", "held"], givenIn(root))
+  await applied(root, { report: [], refusals: [], code: 0 }, ["--message", "held"])
 
 export const mechanically = async (root: string): Promise<number> =>
   (await landedMechanically(root, "akasha apply", THREE, "held", [], AGENT)).code

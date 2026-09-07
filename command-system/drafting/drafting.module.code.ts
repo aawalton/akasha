@@ -278,6 +278,14 @@ export function wouldHold(
   return "why" in then ? then : { held: then.held }
 }
 
+export function carriedFor(
+  root: string,
+  page: string
+): { readonly held: Held; readonly running: Running } | null {
+  const text = patchIn(root, page)
+  return text === null ? null : { held: heldIn(root, text), running: runningIn(text) }
+}
+
 function changesOf(held: Held): readonly Change[] {
   return [...held].map(([path, one]) => ({ path, body: one.body }))
 }
