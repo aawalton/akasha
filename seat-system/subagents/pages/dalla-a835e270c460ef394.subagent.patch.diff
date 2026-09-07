@@ -1,0 +1,15 @@
+writerOwesReading: false
+diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
+index ccdae91fdf0d4db19f03a6f0828583c71ffac873..947e4b68720e055979133f236dd6a61ae4b147ab 100644
+--- a/command-system/landing/landing.module.code.ts
++++ b/command-system/landing/landing.module.code.ts
+@@ -453,8 +453,8 @@ export async function landing(
+       const noted = indexed(root, changes, before, keeping)
+       const back = carriedOnto(root, carries)
+       try {
+-        const commit = committed(root, put.wrote, put.took, message, writer)
+         wroteOnto(root, split.uncommitted)
++        const commit = committed(root, put.wrote, put.took, message, writer)
+         const gone = [...put.took, ...carries.map((one) => one.from)]
+         const cleared = clearedOff(root, gone)
+         return { base, commit, wrote: put.wrote, took: put.took, noted, cleared }
