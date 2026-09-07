@@ -1,0 +1,104 @@
+writerOwesReading: false
+diff --git a/agents/claude-accounts/claude-account.page-type.ts b/agents/claude-accounts/claude-account.page-type.ts
+index a846fc3b5d76e25747c3bc2459024b6f7e4b881a..cc594e1afe9cd57da777252a4a09279f01c5e888 100644
+--- a/agents/claude-accounts/claude-account.page-type.ts
++++ b/agents/claude-accounts/claude-account.page-type.ts
+@@ -58,8 +58,6 @@ export const claudeAccount = {
+   pluralSlug: "claude-accounts",
+   extendsSlug: ["page-type/page"],
+   partSlugs: [
+-    "command/claude-account-add",
+-    "command/claude-account-re-enable",
+     "computed-property/effective-five-hour-usage",
+     "computed-property/effective-seven-day-usage",
+     "email-address-property/email",
+diff --git a/browser/browser-commands/browser-commands.workspace-package.ts b/browser/browser-commands/browser-commands.workspace-package.ts
+index 4b0a620de4e02b3cccb4be84b42f599ea589f2f8..71919e45330a6a2ede58c1104682e7da1b61cd10 100644
+--- a/browser/browser-commands/browser-commands.workspace-package.ts
++++ b/browser/browser-commands/browser-commands.workspace-package.ts
+@@ -6,12 +6,7 @@ export const browserCommands = {
+   slug: "browser-commands",
+   definition: "what an agent runs by name over a site it drives a browser against",
+   manifest: "json",
+-  partSlugs: [
+-    "command/browser-test-storage-state",
+-    "command/browser-test-verify-render",
+-    "module/browser-command-arguing",
+-    "module/verify-render-plan",
+-  ],
++  partSlugs: ["module/browser-command-arguing", "module/verify-render-plan"],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index 8e675346840a9a30c04cc5c7fc8f126942b3a6af..c2f0b8b6e070288734d688ac9dea19f70dced5e3 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -109,6 +109,9 @@ export const command = {
+     "namespace/talos",
+     "command/cluster-rbac-manifest",
+     "namespace/page",
++    "namespace/browser",
++    "namespace/sms",
++    "namespace/claude-account",
+   ],
+   extendsSlug: ["page-type/module"],
+   loadedBySlug: "module/calling",
+diff --git a/command-system/namespaces/pages/browser.namespace.ts b/command-system/namespaces/pages/browser.namespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b7fa532424a4421d83945cdbdc00f14341b7d6c1
+--- /dev/null
++++ b/command-system/namespaces/pages/browser.namespace.ts
+@@ -0,0 +1,9 @@
++import type { Namespace } from "../namespace.page-type.ts"
++
++export const browser = {
++  id: "01a07bcb-0b96-7d87-888f-325a70adf3df",
++  pageTypeSlug: "namespace",
++  slug: "browser",
++  definition: "a site driven through the test harness",
++  partSlugs: ["command/browser-test-storage-state", "command/browser-test-verify-render"],
++} as const satisfies Namespace
+diff --git a/command-system/namespaces/pages/claude-account.namespace.ts b/command-system/namespaces/pages/claude-account.namespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6b8764313e48cee92cd6e165ed9089ac946bbb19
+--- /dev/null
++++ b/command-system/namespaces/pages/claude-account.namespace.ts
+@@ -0,0 +1,9 @@
++import type { Namespace } from "../namespace.page-type.ts"
++
++export const claudeAccount = {
++  id: "01a07bcb-0b96-7437-a26f-deb498bea34d",
++  pageTypeSlug: "namespace",
++  slug: "claude-account",
++  definition: "an Anthropic subscription put into service or brought back",
++  partSlugs: ["command/claude-account-add", "command/claude-account-re-enable"],
++} as const satisfies Namespace
+diff --git a/command-system/namespaces/pages/sms.namespace.ts b/command-system/namespaces/pages/sms.namespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d5066fea3df70de535db4fb527239347a36214f2
+--- /dev/null
++++ b/command-system/namespaces/pages/sms.namespace.ts
+@@ -0,0 +1,9 @@
++import type { Namespace } from "../namespace.page-type.ts"
++
++export const sms = {
++  id: "01a07bcb-0b96-7bdf-bd21-0e3e7f8998c0",
++  pageTypeSlug: "namespace",
++  slug: "sms",
++  definition: "a text message to or from a phone",
++  partSlugs: ["command/sms-acting-account", "command/sms-send"],
++} as const satisfies Namespace
+diff --git a/sms-core/sms-core.workspace-package.ts b/sms-core/sms-core.workspace-package.ts
+index 55cc6a3ef7861c4429179bdaebfb33c0a21c8dd1..763f5740b42aced552c8344cc9700544ce8b0340 100644
+--- a/sms-core/sms-core.workspace-package.ts
++++ b/sms-core/sms-core.workspace-package.ts
+@@ -18,8 +18,6 @@ export const smsCore = {
+     "module/ki-handler-routing",
+     "page-type/telnyx-account",
+     "module/sms-command-reading",
+-    "command/sms-acting-account",
+-    "command/sms-send",
+   ],
+   invariants: [
+     {
