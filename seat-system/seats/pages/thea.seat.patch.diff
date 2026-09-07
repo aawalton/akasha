@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/checks.workspace-package.ts b/checks/checks.workspace-package.ts
+index 19f2e227ecb1d365263a0c683210afbeae2921a6..a569d3934445f2b194ed1af8fc62c247f254d8a5 100644
+--- a/checks/checks.workspace-package.ts
++++ b/checks/checks.workspace-package.ts
+@@ -4,7 +4,7 @@ export const checks = {
+   id: "01a04bc4-7e85-704f-b87e-eac561795185",
+   pageTypeSlug: "workspace-package",
+   slug: "checks",
+-  definition: "how a change is judged against what must be true of it",
++  definition: "how a change is judged against what must be true of that change",
+   manifest: "json",
+   partSlugs: [
+     "module/body-not-utf8",
