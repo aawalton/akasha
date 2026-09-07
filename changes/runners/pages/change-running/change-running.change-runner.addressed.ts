@@ -1,4 +1,55 @@
 export type Changes = {
+  "change-authored/add-file": Parameters<
+    typeof import("../../../agent/file/add-file/add-file.change-authored.code.ts")["runChange"]
+  >[1]
+  "change-authored/change-file": Parameters<
+    typeof import("../../../agent/file-content/change-file/change-file.change-authored.code.ts")["runChange"]
+  >[1]
+  "change-checked/add-property-value": Parameters<
+    typeof import("../../../agent/file-content/add-property-value/add-property-value.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/change-domain-parent": Parameters<
+    typeof import("../../../agent/file-content/change-domain-parent/change-domain-parent.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/change-page-page-type": Parameters<
+    typeof import("../../../agent/file/change-page-page-type/change-page-page-type.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/change-page-property": Parameters<
+    typeof import("../../../agent/file-content/change-page-property/change-page-property.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/move-folder": Parameters<
+    typeof import("../../../agent/folder/move-folder/move-folder.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/move-folder-package": Parameters<
+    typeof import("../../../agent/folder/move-folder-package/move-folder-package.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/move-page": Parameters<
+    typeof import("../../../agent/file/move-page/move-page.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/remove-file": Parameters<
+    typeof import("../../../agent/file/remove-file/remove-file.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/remove-package-alias": Parameters<
+    typeof import("../../../agent/file-content/remove-package-alias/remove-package-alias.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/remove-page": Parameters<
+    typeof import("../../../agent/file/remove-page/remove-page.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/remove-page-type": Parameters<
+    typeof import("../../../agent/folder/remove-page-type/remove-page-type.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/remove-property-value": Parameters<
+    typeof import("../../../agent/file-content/remove-property-value/remove-property-value.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/rename-code-token": Parameters<
+    typeof import("../../../agent/file-content/rename-code-token/rename-code-token.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/rename-package": Parameters<
+    typeof import("../../../agent/file-content/rename-package/rename-package.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/rename-page": Parameters<
+    typeof import("../../../agent/file/rename-page/rename-page.change-checked.code.ts")["runChange"]
+  >[1]
   "change-mechanical-code/change-imports": Parameters<
     typeof import("../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-code.code.ts")["runChange"]
   >[1]
@@ -73,5 +124,8 @@ export type Changes = {
   >[1]
   "change-mechanical-text/change-page-property": Parameters<
     typeof import("../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-text.code.ts")["runChange"]
+  >[1]
+  "change-restated/change-page-property-text": Parameters<
+    typeof import("../../../agent/file-content/change-page-property-text/change-page-property-text.change-restated.code.ts")["runChange"]
   >[1]
 }
