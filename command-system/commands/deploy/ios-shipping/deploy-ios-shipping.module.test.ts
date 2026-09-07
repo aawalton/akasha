@@ -7,9 +7,17 @@ import {
   NO_UPLOAD_SAID,
   SHOWN_PATHS,
   saidOfChanged,
+  saidOfUnpushed,
   UPLOAD_SAID,
   WHERE_HEAD_IS,
 } from "./deploy-ios-shipping.module.code.ts"
+
+test("the refusal over a branch that would not push names the checkout and the commit", () => {
+  const refusal = saidOfUnpushed("/repos/akasha", "83e57975")
+  expect(refusal).toContain("/repos/akasha")
+  expect(refusal).toContain("83e57975")
+  expect(refusal).toContain("origin")
+})
 
 test("the report names the app and the page it was read from", () => {
   const lines = linesFor("atlas", "akasha:pages/ios-app/atlas-ios.ios-app.md", true, WHERE_HEAD_IS)

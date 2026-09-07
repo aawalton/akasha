@@ -28,7 +28,7 @@ export const deploy = {
     "`--ref` takes whatever git resolves — a branch, a tag or a sha — and a call naming none builds the commit HEAD is at.",
     "a call naming no `--ref` is refused where a tracked file differs from HEAD, because the build would leave that change out of the app without saying so.",
     "a `--ref` named is built however the worktree differs from it, since the commit was told rather than worked out.",
-    "a commit no origin ref reaches is refused whatever names it, because the MacBook builds by fetching origin into its own clone.",
+    "a commit no origin ref reaches is pushed there before the build begins, because the MacBook builds by fetching origin into its own clone.",
     "the report names the commit asked for before the build begins and the commit each half was pinned to once it has.",
     "nothing is said until an ios build has finished, because a command prints nothing itself, and what the build said is the report.",
     "an upload reaches every internal tester, since each app's one group holds all builds and each build notifies, so `--no-upload` is what holds a build back from a phone.",

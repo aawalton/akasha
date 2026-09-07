@@ -34,6 +34,18 @@ export const deployIosShipping = {
     },
     {
       invariantKind: "departure",
+      statement: "A commit origin does not carry is pushed there before anything is built.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The push carries the branch each repository is on rather than the commit alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A push that fails refuses the call rather than building on.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The report names the commit asked for before anything is built.",
     },
     {

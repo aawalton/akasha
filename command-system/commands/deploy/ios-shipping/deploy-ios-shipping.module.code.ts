@@ -1,3 +1,4 @@
+import { pushBranch } from "@akasha/git/git-pushing"
 import { said } from "@akasha/git/git-running"
 import { readKeychainPassword } from "@akasha/mobile-cli/foundation"
 import { resolveRepoRoot } from "@akasha/mobile-cli/git-tree-hash"
@@ -26,8 +27,8 @@ export const NO_UPLOAD_SAID =
 export const UPLOAD_SAID =
   "upload\tcarried out, so every internal tester of this app is sent the build"
 
-export function linesOf(said: readonly string[]): readonly string[] {
-  return said
+export function linesOf(chunks: readonly string[]): readonly string[] {
+  return chunks
     .join("")
     .split("\n")
     .filter((one) => one.trim() !== "")
@@ -60,6 +61,10 @@ export function saidOfChanged(slug: string, changed: readonly string[]): string 
   return `the worktree holds ${changed.length} tracked ${many} differing from ${WHERE_HEAD_IS} (${first}${rest}), so the commit ${WHERE_HEAD_IS} is at is not what you are looking at, and building it would leave those changes out of the app without saying so. Name the commit to build: \`akasha deploy ${slug} --ref ${WHERE_HEAD_IS}\` builds what is committed, and committing first builds what you have.`
 }
 
+export function saidOfUnpushed(root: string, ref: string): string {
+  return `the branch ${root} is on could not be pushed, and the macbook builds by fetching origin into its own clone, so ${ref} cannot be compiled until that push lands`
+}
+
 function trackedChanges(root: string): readonly string[] {
   return changedPaths(said(root, ["status", "--porcelain", "--untracked-files=no"]))
 }
@@ -84,15 +89,28 @@ export async function shipIosApp(
   } catch (err) {
     return { report, refusals: [saidBy(err)], code: DATA }
   }
+  let roots: readonly string[]
+  try {
+    roots = rootsOf(app)
+  } catch (err) {
+    return { report, refusals: [saidBy(err)], code: OPERATIONAL }
+  }
   if (named === null) {
     let changed: readonly string[]
     try {
-      changed = rootsOf(app).flatMap((root) => trackedChanges(root))
+      changed = roots.flatMap((root) => trackedChanges(root))
     } catch (err) {
       return { report, refusals: [saidBy(err)], code: OPERATIONAL }
     }
     if (changed.length > 0) {
       return { report, refusals: [saidOfChanged(slug, changed)], code: INPUT }
+    }
+  }
+  for (const root of roots) {
+    const pushed = pushBranch(root)
+    report.push(pushed.line)
+    if (pushed.failed) {
+      return { report, refusals: [saidOfUnpushed(root, ref)], code: OPERATIONAL }
     }
   }
   let password: string

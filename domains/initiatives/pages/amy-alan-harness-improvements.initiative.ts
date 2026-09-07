@@ -22,5 +22,10 @@ export const amyAlanHarnessImprovements = {
       workingMemory:
         "Asked by Alan on 2026-09-07: a panel parallel to the ones the extension already draws, opening on akasha, then its namespaces and top-level commands, then what sits under each. The tree is the `command` and `namespace` pages, which is what the walk behind `akasha --help` reads. Nothing here is read yet: which panels the extension draws, and how one is registered, is unchecked.",
     },
+    {
+      statement: "Alan's Endurance stoplight shows a reading rather than zero.",
+      workingMemory:
+        "Reported by Alan on 2026-09-07, a second time: the stoplight reads zero while `akasha measure attributes` prints `Endurance 0 0.17`. The data is landing — the 06:30 run patched 2026-09-04 and 2026-09-07, and 2026-09-07 carries activeCalories 69.742. So what diverges is what the stoplight reads against what the measure reads, rather than what the harness has. Which of the two columns the stoplight is meant to show is unasked.",
+    },
   ],
 } as const satisfies Initiative
