@@ -242,37 +242,6 @@ index 956996ec940c6dacfca1381e0b25d6f273558d60..1038110643448a43f3b747f20241e893
      },
      {
        invariantKind: "gap",
-diff --git a/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts b/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
-index 75c6dbd97c64b815322f7a6198512563e08a6c6b..783a32c66f6996496a007f2e1baedd824c38c0b8 100644
---- a/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
-+++ b/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
-@@ -14,7 +14,7 @@ export const deployWebPuttingUp = {
-     },
-     {
-       invariantKind: "departure",
--      statement: "A cluster already standing as the page describes is applied nothing.",
-+      statement: "A cluster that is already as the page describes is applied nothing.",
-     },
-     {
-       invariantKind: "departure",
-@@ -22,7 +22,7 @@ export const deployWebPuttingUp = {
-     },
-     {
-       invariantKind: "departure",
--      statement: "The source built is the commit the workstation's HEAD stands at.",
-+      statement: "The source built is the commit the workstation's HEAD is at.",
-     },
-     {
-       invariantKind: "departure",
-@@ -69,7 +69,7 @@ export const deployWebPuttingUp = {
-     },
-     {
-       invariantKind: "departure",
--      statement: "A change standing only in the worktree is not built.",
-+      statement: "A change only in the worktree is not built.",
-     },
-     {
-       invariantKind: "absence",
 diff --git a/pages/shadow/shadow.module.test.ts b/pages/shadow/shadow.module.test.ts
 index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..bc26a5f986eb3504b4848f410781fac774bcfb54 100644
 --- a/pages/shadow/shadow.module.test.ts
