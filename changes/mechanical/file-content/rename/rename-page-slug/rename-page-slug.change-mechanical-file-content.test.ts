@@ -11,7 +11,7 @@ import { refusing } from "../../../../modules/change-answer/change-answer.module
 import { type World, worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { runChange as changePageProperty } from "../../change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../rename-export/rename-export.change-mechanical-file-content.code.ts"
-import { renameSlug } from "./rename-page-slug.change-mechanical-data.code.ts"
+import { renameSlug } from "./rename-page-slug.change-mechanical-file-content.code.ts"
 
 afterAll(scratch.sweep)
 

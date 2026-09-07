@@ -13,7 +13,7 @@ import type { Answer } from "../../../modules/change-answer/change-answer.module
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { statedIn } from "../../../modules/page-literal/page-literal.module.code.ts"
 
-const RENAME_PAGE_SLUG = "change-mechanical-data/rename-page-slug"
+const RENAME_PAGE_SLUG = "change-mechanical-file-content/rename-page-slug"
 
 const RENAME_PATH = "change-mechanical-file/rename-path"
 

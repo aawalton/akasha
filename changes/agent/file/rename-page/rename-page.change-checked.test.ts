@@ -16,7 +16,7 @@ import { runChange as renamePathChange } from "../../../mechanical/file/rename/r
 import { runChange as changePageProperty } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
-import { runChange as renamePageSlug } from "../../../mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts"
+import { runChange as renamePageSlug } from "../../../mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
@@ -57,7 +57,7 @@ const statedAs = (value: Record<string, unknown>, named: string): string =>
   bodyOf(value).replace("export const it", `export const ${named}`)
 
 const RUNS: Reaching = async (world, at, given) => {
-  if (at === "change-mechanical-data/rename-page-slug") {
+  if (at === "change-mechanical-file-content/rename-page-slug") {
     return await renamePageSlug(world, given as Parameters<typeof renamePageSlug>[1])
   }
   if (at === "change-mechanical-file/rename-path") {
@@ -162,7 +162,7 @@ test("the slug rename and each carry are reached at their own addresses", async 
 
   await renamePage(world, { at: HELD_PAGE, to: CARRIED })
 
-  expect(reached[reached.length - 1]).toBe("change-mechanical-data/rename-page-slug")
+  expect(reached[reached.length - 1]).toBe("change-mechanical-file-content/rename-page-slug")
   expect(new Set(reached.slice(0, -1))).toEqual(new Set(["change-mechanical-file/rename-path"]))
 })
 

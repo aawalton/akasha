@@ -1,8 +1,8 @@
-import type { ChangeMechanicalData } from "../../../data/change-mechanical-data.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
 
 export const renamePageSlug = {
   id: "01a07718-c9b6-7230-ae96-ff2f36a19ec1",
-  pageTypeSlug: "change-mechanical-data",
+  pageTypeSlug: "change-mechanical-file-content",
   slug: "rename-page-slug",
   changeModeSlug: "change-mode-rename",
   changeTargetTypeSlug: "change-target-type/file-content",
@@ -13,4 +13,4 @@ export const renamePageSlug = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
-} as const satisfies ChangeMechanicalData
+} as const satisfies ChangeMechanicalFileContent
