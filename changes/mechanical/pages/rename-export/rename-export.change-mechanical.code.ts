@@ -2,8 +2,9 @@ import { typed } from "@akasha/code/code-typing"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { respelled } from "../respell-export/respell-export.change-mechanical.code.ts"
+import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+
+const RESPELL_EXPORT = "change-mechanical/respell-export"
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
@@ -28,15 +29,15 @@ function whyNot(given: RenameExportAsked): string | null {
   return null
 }
 
-export function renameExport(world: World, given: RenameExportAsked): Answer {
+export async function renameExport(world: World, given: RenameExportAsked): Promise<Answer> {
   const why = whyNot(given)
   if (why !== null) return refusing(why)
   const reading = importingOf(world.index, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
   const over = [given.at, ...reading.importers]
-  return respelled(world.root, given.at, over, given.of, given.to, world.textOf)
+  return await reach(world, RESPELL_EXPORT, { at: given.at, over, of: given.of, to: given.to })
 }
 
-export function runChange(world: World, given: RenameExportAsked): Answer {
-  return renameExport(world, given)
+export async function runChange(world: World, given: RenameExportAsked): Promise<Answer> {
+  return await renameExport(world, given)
 }

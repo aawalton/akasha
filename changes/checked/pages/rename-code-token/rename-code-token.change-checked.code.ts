@@ -8,17 +8,19 @@ import {
   typingOver,
 } from "@akasha/code/code-typing"
 import ts from "typescript"
-import { renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical.code.ts"
-import { renameLocalVariable } from "../../../mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.code.ts"
 import {
   gathered,
   missing,
   refusing,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
 export const LINE = "--line"
+
+const RENAME_EXPORT = "change-mechanical/rename-export"
+
+const RENAME_LOCAL_VARIABLE = "change-mechanical/rename-local-variable"
 
 const AT = "at"
 
@@ -77,13 +79,18 @@ function pickedIn(
   }
 }
 
-export function renameCodeToken(world: World, given: RenameCodeTokenAsked): Answer {
+export async function renameCodeToken(world: World, given: RenameCodeTokenAsked): Promise<Answer> {
   if (!typed(given.at)) return refusing(`\`${given.at}\` names no TypeScript body`)
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const typing = typingOver(world.root, [given.at], readingOf(world.root, world.textOf))
   if (exportsNamed(typing, given.at, given.of).length > 0) {
-    return gathered([renameExport(world, { at: given.at, of: given.of, to: given.to })])
+    const spelled = await reach(world, RENAME_EXPORT, {
+      at: given.at,
+      of: given.of,
+      to: given.to,
+    })
+    return gathered([spelled])
   }
   const declared = declaredNamed(typing, given.at, given.of)
   if (declared.length === 0) return refusing(`\`${given.at}\` declares no \`${given.of}\``)
@@ -93,17 +100,17 @@ export function renameCodeToken(world: World, given: RenameCodeTokenAsked): Answ
   if (source === null) return refusing(`\`${given.at}\` could not be read`)
   const named = namedOf(found.node)
   if (named === null) return refusing(`\`${given.of}\` is no simple declaration`)
-  return gathered([
-    renameLocalVariable(given.at, text, { at: named.getStart(source), to: given.to }),
-  ])
+  const renamed = await reach(world, RENAME_LOCAL_VARIABLE, {
+    at: given.at,
+    spot: named.getStart(source),
+    to: given.to,
+  })
+  return gathered([renamed])
 }
 
 export type Asked = Readonly<Record<string, string>>
 
-// A command line hands the arguments in as text worked out while the command runs, so the shape is
-// read here rather than trusted, and a shape this change cannot use is refused by name. A line is
-// counted rather than spelled, so text naming no whole number is refused rather than read as one.
-export function runChange(world: World, given: Asked): Answer {
+export async function runChange(world: World, given: Asked): Promise<Answer> {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
   const of = given[OF]
@@ -111,10 +118,10 @@ export function runChange(world: World, given: Asked): Answer {
   const to = given[TO]
   if (to === undefined) return refusing(missing(TO))
   const said = given[ON_LINE]
-  if (said === undefined) return renameCodeToken(world, { at, of, to })
+  if (said === undefined) return await renameCodeToken(world, { at, of, to })
   const line = Number(said)
   if (!Number.isInteger(line)) {
     return refusing(`\`${ON_LINE}\` counts a line, and \`${said}\` is no whole number`)
   }
-  return renameCodeToken(world, { at, of, to, line })
+  return await renameCodeToken(world, { at, of, to, line })
 }

@@ -7,8 +7,14 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
+import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  type Reaching,
+  type World,
+  worldAt,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { runChange as respellExport } from "../respell-export/respell-export.change-mechanical.code.ts"
 import { renameExport } from "./rename-export.change-mechanical.code.ts"
 
 afterAll(scratch.sweep)
@@ -27,47 +33,60 @@ function bodyIn(said: Answer, path: string): string | null | undefined {
   return said.edits.find((one) => one.path === path)?.body
 }
 
-function whyOf(at: string, of: string, to: string): string {
-  const world = worldAt(scratch.rootFor("rename-export-"), NOTHING)
-  const said = renameExport(world, { at, of, to })
+const RUNS: Reaching = (world, at, given) => {
+  if (at === "change-mechanical/respell-export") {
+    return Promise.resolve(respellExport(world, given as Parameters<typeof respellExport>[1]))
+  }
+  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+}
+
+function worldIn(root: string, textOf: (path: string) => string | null): World {
+  return worldAt(root, textOf, RUNS)
+}
+
+async function whyOf(at: string, of: string, to: string): Promise<string> {
+  const world = worldIn(scratch.rootFor("rename-export-"), NOTHING)
+  const said = await renameExport(world, { at, of, to })
   expect(said.edits).toEqual([])
   return said.refused ?? ""
 }
 
-test("a path that is no TypeScript body is refused", () => {
-  expect(whyOf("akasha/one/held/held.md", "one", "two")).toBe(
+test("a path that is no TypeScript body is refused", async () => {
+  expect(await whyOf("akasha/one/held/held.md", "one", "two")).toBe(
     "`akasha/one/held/held.md` names no TypeScript body"
   )
 })
 
-test("a page is refused, since a page's export is its slug", () => {
-  expect(whyOf("akasha/one/held/held.module.ts", "held", "kept")).toBe(
+test("a page is refused, since a page's export is its slug", async () => {
+  expect(await whyOf("akasha/one/held/held.module.ts", "held", "kept")).toBe(
     "`akasha/one/held/held.module.ts` is a page, and a page's export is its slug"
   )
 })
 
-test("a test file beside a page is renamed as its code is", () => {
-  expect(whyOf("akasha/one/held/held.module.test.ts", "one", "two")).not.toContain("is a page")
+test("a test file beside a page is renamed as its code is", async () => {
+  expect(await whyOf("akasha/one/held/held.module.test.ts", "one", "two")).not.toContain(
+    "is a page"
+  )
 })
 
-test("a name no body could carry is refused", () => {
-  expect(whyOf(CODE, "one", "2two")).toBe("`2two` is no name a body carries")
-  expect(whyOf(CODE, "1one", "two")).toBe("`1one` is no name a body carries")
+test("a name no body could carry is refused", async () => {
+  expect(await whyOf(CODE, "one", "2two")).toBe("`2two` is no name a body carries")
+  expect(await whyOf(CODE, "1one", "two")).toBe("`1one` is no name a body carries")
 })
 
-test("the name it already carries is refused", () => {
-  expect(whyOf(CODE, "one", "one")).toBe("`one` is the name it already carries")
+test("the name it already carries is refused", async () => {
+  expect(await whyOf(CODE, "one", "one")).toBe("`one` is the name it already carries")
 })
 
-test("an index that cannot answer refuses rather than narrowing the reach", () => {
-  const said = whyOf(CODE, "one", "two")
+test("an index that cannot answer refuses rather than narrowing the reach", async () => {
+  const said = await whyOf(CODE, "one", "two")
   expect(said).toContain("so none were repointed")
 })
 
-test("the declaring file and the file importing it are both spelled anew", () => {
+test("the declaring file and the file importing it are both spelled anew", async () => {
   const root = indexedRepo()
-  const world = worldAt(root, textIn(root))
-  const said = renameExport(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
+  const world = worldIn(root, textIn(root))
+  const said = await renameExport(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(pathsOf(said)).toEqual([HELD_CODE, NAMER_CODE])
   expect(bodyIn(said, HELD_CODE)).toBe(`export const ${CARRIED} = 1\n`)
@@ -76,19 +95,37 @@ test("the declaring file and the file importing it are both spelled anew", () =>
   )
 })
 
-test("the bodies are answered rather than written", () => {
+test("the bodies are answered rather than written", async () => {
   const root = indexedRepo()
   const text = textIn(root)
-  const said = renameExport(worldAt(root, text), { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
+  const said = await renameExport(worldIn(root, text), {
+    at: HELD_CODE,
+    of: HELD_EXPORT,
+    to: CARRIED,
+  })
   expect(said.refused).toBe(null)
   expect(text(HELD_CODE)).toBe(`export const ${HELD_EXPORT} = 1\n`)
   expect(text(NAMER_CODE)).toContain(`import { ${HELD_EXPORT} }`)
 })
 
-test("a rename refuses where a file it would change already reaches the new name", () => {
+test("a rename refuses where a file it would change already reaches the new name", async () => {
   const root = indexedRepo()
-  const world = worldAt(root, textIn(root))
-  const said = renameExport(world, { at: HELD_CODE, of: HELD_EXPORT, to: "named" })
+  const world = worldIn(root, textIn(root))
+  const said = await renameExport(world, { at: HELD_CODE, of: HELD_EXPORT, to: "named" })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${NAMER_CODE}\` already reaches a \`named\``)
+})
+
+test("the respelling is reached through the runner the world carries", async () => {
+  let reached = ""
+  const root = indexedRepo()
+  const world = worldAt(root, textIn(root), (_world, at) => {
+    reached = at
+    return Promise.resolve({ edits: [], refused: null })
+  })
+
+  const said = await renameExport(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
+
+  expect(reached).toBe("change-mechanical/respell-export")
+  expect(said.refused).toBe(null)
 })
