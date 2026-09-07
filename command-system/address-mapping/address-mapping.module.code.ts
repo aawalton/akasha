@@ -54,13 +54,14 @@ export function textOver(root: string, change: Change): (path: string) => string
   }
 }
 
-export function addressesFor(
+function addressedOf(
   shadow: Shadow,
+  kind: string,
   at: string,
   textAt: (path: string) => string | null
 ): readonly Address[] {
   const found: Address[] = []
-  for (const listed of shadow.index.everyOfType(REACHED)) {
+  for (const listed of shadow.index.everyOfType(kind)) {
     const value = shadow.pageOf(listed.path)
     if (value === null) continue
     const slug = value[SLUG]
@@ -69,8 +70,19 @@ export function addressesFor(
     if (code === null) continue
     const text = textAt(code)
     if (text === null || !declaresRun(text)) continue
-    found.push({ address: `${REACHED}/${slug}`, spec: specifierFor(at, code) })
+    found.push({ address: `${kind}/${slug}`, spec: specifierFor(at, code) })
   }
+  return found
+}
+
+export function addressesFor(
+  shadow: Shadow,
+  at: string,
+  textAt: (path: string) => string | null
+): readonly Address[] {
+  const found = [...shadow.index.kindsUnder(REACHED)].flatMap((kind) =>
+    addressedOf(shadow, kind, at, textAt)
+  )
   return [...found].sort((one, two) =>
     one.address < two.address ? -1 : one.address > two.address ? 1 : 0
   )

@@ -56,8 +56,8 @@ export const addressMapping = {
       statement: "No change a command line reaches is in the map.",
     },
     {
-      invariantKind: "gap",
-      statement: "The page type a change is filed under is named here rather than descended.",
+      invariantKind: "departure",
+      statement: "A page type extending the page type changes are filed under is reached too.",
     },
   ],
 } as const satisfies Module
