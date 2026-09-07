@@ -23,8 +23,11 @@ export const color = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A color is named, not specified, and whatever draws the color picks the shade from its own palette.",
+      statement: "A color is named rather than specified.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whatever draws the color picks the shade from its own palette.",
     },
     {
       invariantKind: "departure",
