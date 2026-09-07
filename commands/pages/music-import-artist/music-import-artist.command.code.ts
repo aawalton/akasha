@@ -6,21 +6,22 @@ import type { FileEdit } from "@akasha/command-system/landing"
 import { valuesOfType } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
+import { textIn } from "@akasha/pages/page-value-reading"
 import { composedFor, type Put } from "@akasha/pages-service/composing"
 import { todayYYYYMMDD } from "@akasha/utils-sync/today"
-import { searchLyrics } from "../../catalog/lrclib-client/lrclib-client.module.code.ts"
+import { searchLyrics } from "../../../alan/music/catalog/lrclib-client/lrclib-client.module.code.ts"
 import {
   lyricsFieldsOf,
   pickBestLyrics,
   type SongLyrics,
-} from "../../catalog/lrclib-map/lrclib-map.module.code.ts"
-import type { LrclibRecord } from "../../catalog/lrclib-schema/lrclib-schema.module.code.ts"
+} from "../../../alan/music/catalog/lrclib-map/lrclib-map.module.code.ts"
+import type { LrclibRecord } from "../../../alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
 import {
   browseArtistRecordings,
   browseWorks,
   getArtist,
   searchArtist,
-} from "../../catalog/musicbrainz-client/musicbrainz-client.module.code.ts"
+} from "../../../alan/music/catalog/musicbrainz-client/musicbrainz-client.module.code.ts"
 import {
   dedupeRecordings,
   extractGenres,
@@ -31,19 +32,19 @@ import {
   performedWorkIds,
   pickBestArtist,
   type SongFields,
-} from "../../catalog/musicbrainz-map/musicbrainz-map.module.code.ts"
+} from "../../../alan/music/catalog/musicbrainz-map/musicbrainz-map.module.code.ts"
 import type {
   MbArtist,
   MbArtistSearchHit,
   MbRecording,
   MbWork,
-} from "../../catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
+} from "../../../alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import {
   artistSlugOf,
   type SongNames,
   songNamesFrom,
   songSlugFor,
-} from "../../catalog/song-slug/song-slug.module.code.ts"
+} from "../../../alan/music/catalog/song-slug/song-slug.module.code.ts"
 
 const INPUT = 1
 
@@ -179,11 +180,6 @@ export function jsonOf(said: Imported): string {
 }
 
 type Catalogue = { readonly names: SongNames; readonly held: ReadonlyMap<string, Value> }
-
-function textIn(value: Value, key: string): string | null {
-  const one = value[key]
-  return typeof one === "string" && one !== "" ? one : null
-}
 
 export function catalogueIn(root: string): Catalogue {
   const rows: { readonly slug: string; readonly externalId: string | null }[] = []

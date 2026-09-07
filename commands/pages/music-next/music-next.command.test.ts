@@ -92,10 +92,6 @@ test("the catalogue is read from the song pages and the artist pages", () => {
   expect(catalog.songs.every((one) => one.artistSlug !== "")).toBe(true)
 })
 
-// THE TEST THE `rating` BUG WALKED PAST. Every test above this one either hands
-// `selectNextExploration` a catalogue built by hand — already carrying `rank`, so the reader is
-// never asked — or checks only that rows came back and their slugs are not empty. A reader
-// dropping every grade satisfies all of them. This asks whether a grade survived the read.
 test("the grades on the pages reach the catalogue", () => {
   if (!indexThere(ROOT)) return
   const catalog = catalogIn(ROOT)
@@ -113,10 +109,6 @@ test("every grade read off a page is a rung of the ladder", () => {
   expect(graded.every((one) => MUSIC_RATINGS.includes(one))).toBe(true)
 })
 
-// THE GUARD PROVED AGAINST A FAULT RATHER THAN AGAINST ITS OWN PASSING. `artist` and `song`
-// answer null because they reach `rank` through `collection`, which is the case that matters and
-// the one a check against a page type's own declarations alone would get wrong. `seat` is a real
-// page type that declares no grade, and a name no page type carries is the other way this fails.
 test("a page type that declares no grade is named rather than read as ungraded", () => {
   if (!indexThere(ROOT)) return
   expect(undeclaredIn(ROOT, "artist")).toBeNull()

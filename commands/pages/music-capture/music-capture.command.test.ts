@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Given } from "@akasha/command-system/calling"
+import { refusingWith } from "@akasha/command-system/calling/testing"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { rootOf } from "@akasha/command-system/rooting"
 import type { Value } from "@akasha/pages/page-value"
@@ -70,11 +71,7 @@ function foldedInto(ledger: Ledger, planned: Planned): Ledger {
   return { playKeys, heardIds, heardKeys, newestPlayedAt }
 }
 
-function refusalOf(argv: readonly string[]): string {
-  const held = taken(argv)
-  if (!("refused" in held)) throw new Error(`\`${argv.join(" ")}\` was taken rather than refused`)
-  return held.refused
-}
+const refusalOf = refusingWith(taken)
 
 function rowsIn(planned: Planned, day: string): readonly Value[] {
   return planned.listens.get(day) ?? []

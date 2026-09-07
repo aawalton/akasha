@@ -1,6 +1,6 @@
 import { everyOfType, everyPath, readingIn } from "@akasha/pages/index-reading"
 import { kindsUnder } from "@akasha/pages/page-type-descent"
-import { type Value, valueAt } from "@akasha/pages/page-value"
+import { textAt, type Value, valueAt } from "@akasha/pages/page-value"
 
 const DOMAIN = "domain"
 
@@ -8,11 +8,6 @@ export interface DomainRead {
   readonly relPath: string
   readonly slug: string
   readonly address: string
-}
-
-function textIn(value: Value, key: string): string | null {
-  const held = value[key]
-  return typeof held === "string" ? held : null
 }
 
 function heldIn(root: string): readonly DomainRead[] {
@@ -26,8 +21,8 @@ function heldIn(root: string): readonly DomainRead[] {
         continue
       }
       if (value === null) continue
-      const slug = textIn(value, "slug")
-      const pageTypeSlug = textIn(value, "pageTypeSlug")
+      const slug = textAt(value, "slug")
+      const pageTypeSlug = textAt(value, "pageTypeSlug")
       if (slug === null || pageTypeSlug === null) continue
       found.push({ relPath: page.path, slug, address: `${pageTypeSlug}/${slug}` })
     }

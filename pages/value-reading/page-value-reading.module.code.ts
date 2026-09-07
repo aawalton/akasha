@@ -12,6 +12,11 @@ export function textAt(value: Value, key: string): string | null {
   return typeof held === "string" ? held : null
 }
 
+export function textIn(value: Value, key: string): string | null {
+  const held = textAt(value, key)
+  return held === "" ? null : held
+}
+
 export function textsAt(value: Value, key: string): readonly string[] | null {
   const held = value[key]
   if (!Array.isArray(held)) return null

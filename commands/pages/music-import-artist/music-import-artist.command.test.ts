@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
 import { rootOf } from "@akasha/command-system/rooting"
-import type { LrclibRecord } from "../../catalog/lrclib-schema/lrclib-schema.module.code.ts"
+import type { LrclibRecord } from "../../../alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
 import type {
   MbArtist,
   MbRecording,
   MbWork,
-} from "../../catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
+} from "../../../alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import { gathered, jsonOf, type Reach, rowsOf, taken } from "./music-import-artist.command.code.ts"
 
 const ROOT = rootOf(import.meta.dir)

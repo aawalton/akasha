@@ -1,16 +1,13 @@
 import { expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { refusingWith } from "@akasha/command-system/calling/testing"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { ARTIST, SONG, saidOf, taken, valuesFor } from "./music-rate.command.code.ts"
 
 const scratch = scratchWorld()
 
-function refusalOf(argv: readonly string[]): string {
-  const held = taken(argv)
-  if (!("refused" in held)) throw new Error(`\`${argv.join(" ")}\` was taken rather than refused`)
-  return held.refused
-}
+const refusalOf = refusingWith(taken)
 
 function takingOf(argv: readonly string[]) {
   const held = taken(argv)

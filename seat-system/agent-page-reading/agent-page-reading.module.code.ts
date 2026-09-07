@@ -1,5 +1,6 @@
 import { everyOfType } from "@akasha/indexes"
 import { type Value, valueAt } from "@akasha/pages/page-value"
+import { textIn } from "@akasha/pages/page-value-reading"
 import { akashaSeatPathForAgent } from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const SUBAGENT = "subagent"
@@ -16,11 +17,6 @@ const SUBAGENT_MARK = "--"
 
 function declaredAt(at: string, root: string): Value | null {
   return valueAt(at, root)
-}
-
-function textIn(value: Value, key: string): string | null {
-  const held = value[key]
-  return typeof held === "string" && held !== "" ? held : null
 }
 
 export function seatPageAt(agentId: string, root: string): string | null {

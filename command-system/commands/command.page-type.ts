@@ -111,6 +111,7 @@ export const command = {
     "namespace/model-gateway",
     "namespace/temper",
     "module/yaml-lines",
+    "module/play-row",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/calling",
