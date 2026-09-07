@@ -1,0 +1,721 @@
+writerOwesReading: false
+diff --git a/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.code.ts b/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.code.ts
+index 22a96c23682b83c3dbb3a3e2e709734c19c4810d..fda91e75fde07c177cee280345de782a4712e9d0 100644
+--- a/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.code.ts
++++ b/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.code.ts
+@@ -21,7 +21,7 @@ const PARTS = "partSlugs"
+ 
+ const PART_SLUGS = "part-slugs"
+ 
+-const REMOVE_PROPERTY_VALUE = "change-mechanical-data/remove-property-value"
++const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-value"
+ 
+ const TO = "to"
+ 
+diff --git a/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.test.ts b/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.test.ts
+index 4c11cb0bce31c30c8430824af97f717bffeb0853..29d8300c87c7678d96e0686d7fa91879788af11e 100644
+--- a/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.test.ts
++++ b/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.test.ts
+@@ -15,7 +15,7 @@ const PACKAGE = "01a07932-2568-72a6-8b8e-314ac44c417d"
+ 
+ const ADDS = "change-mechanical-file-content/add-property-value"
+ 
+-const REMOVES = "change-mechanical-data/remove-property-value"
++const REMOVES = "change-mechanical-file-content/remove-property-value"
+ 
+ const HELD = "imessage/imessage.workspace-package.ts"
+ 
+diff --git a/changes/agent/file-content/remove-property-value/remove-property-value.change-checked.code.ts b/changes/agent/file-content/remove-property-value/remove-property-value.change-checked.code.ts
+index c24352b0d6e6f0e7209db454a1c9fdab6d4fb36b..2ed4f4882264c6c28a1f8300575afe6b3af64e74 100644
+--- a/changes/agent/file-content/remove-property-value/remove-property-value.change-checked.code.ts
++++ b/changes/agent/file-content/remove-property-value/remove-property-value.change-checked.code.ts
+@@ -3,7 +3,7 @@ import type { Answer } from "../../../modules/change-answer/change-answer.module
+ import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { readFor } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+ 
+-const REMOVE_PROPERTY_VALUE = "change-mechanical-data/remove-property-value"
++const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-value"
+ 
+ const AT = "at"
+ 
+diff --git a/changes/agent/file-content/remove-property-value/remove-property-value.change-checked.test.ts b/changes/agent/file-content/remove-property-value/remove-property-value.change-checked.test.ts
+index 439dd847c893b05ce171e1df6d4193255f5559a6..b9cf5845a97c8a08b67acdd90a1f24c59606842d 100644
+--- a/changes/agent/file-content/remove-property-value/remove-property-value.change-checked.test.ts
++++ b/changes/agent/file-content/remove-property-value/remove-property-value.change-checked.test.ts
+@@ -13,7 +13,7 @@ const ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
+ 
+ const PAGE = { id: ID, pageTypeSlug: "domain", slug: "held" } as Value
+ 
+-const RUNS = "change-mechanical-data/remove-property-value"
++const RUNS = "change-mechanical-file-content/remove-property-value"
+ 
+ function worldWith(page: Value | null): World {
+   const known = knownOf({})
+diff --git a/changes/mechanical/file-content/remove/change-mechanical-file-content-remove.domain.ts b/changes/mechanical/file-content/remove/change-mechanical-file-content-remove.domain.ts
+index ec67791f3594dc34534dc5764dacf421df673bb5..f1a6afd0208240e5ac8c3e04d559d3b4aab587ce 100644
+--- a/changes/mechanical/file-content/remove/change-mechanical-file-content-remove.domain.ts
++++ b/changes/mechanical/file-content/remove/change-mechanical-file-content-remove.domain.ts
+@@ -7,6 +7,6 @@ export const changeMechanicalFileContentRemove = {
+   definition: "a mechanical change taking part of what a file holds away",
+   partSlugs: [
+     "change-mechanical-manifest/remove-manifest-ways",
+-    "change-mechanical-data/remove-property-value",
++    "change-mechanical-file-content/remove-property-value",
+   ],
+ } as const satisfies Domain
+diff --git a/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.code.ts b/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.code.ts
+deleted file mode 100644
+index 27d82c086c4319a3848f9f001372c0dd8b1c8085..0000000000000000000000000000000000000000
+--- a/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.code.ts
++++ /dev/null
+@@ -1,104 +0,0 @@
+-import { parsedAs } from "@akasha/code/code-source"
+-import { placingOver, readingOf, typingOver } from "@akasha/code/code-typing"
+-import ts from "typescript"
+-import {
+-  answered,
+-  refusing,
+-  writing,
+-} from "../../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
+-
+-const BLIND = ts.TypeFlags.Any | ts.TypeFlags.Unknown
+-
+-export type RemovePropertyValueAsked = {
+-  readonly at: string
+-  readonly key: string
+-  readonly value: string
+-}
+-
+-function commaAfter(text: string, from: number, limit: number): number {
+-  for (let at = from; at < limit; at += 1) {
+-    const one = text[at] ?? ""
+-    if (one === ",") return at + 1
+-    if (one.trim() !== "") return from
+-  }
+-  return from
+-}
+-
+-function without(
+-  text: string,
+-  source: ts.SourceFile,
+-  held: ts.Node,
+-  every: readonly ts.Node[],
+-  at: number
+-): string {
+-  const one = every[at]
+-  if (one === undefined) return text
+-  if (every.length === 1) {
+-    return text.slice(0, held.getStart(source) + 1) + text.slice(held.getEnd() - 1)
+-  }
+-  const past = commaAfter(text, one.getEnd(), held.getEnd())
+-  if (past > one.getEnd()) return text.slice(0, one.pos) + text.slice(past)
+-  const before = every[at - 1]
+-  const from = before === undefined ? held.getStart(source) + 1 : before.getEnd()
+-  return text.slice(0, from) + text.slice(one.getEnd())
+-}
+-
+-function requiredIn(world: World, given: RemovePropertyValueAsked): boolean | null {
+-  const placed = placingOver(
+-    world.over.edits.map((one) => one.path),
+-    world.textOf
+-  )
+-  const read = readingOf(world.root, world.textOf, placed)
+-  const typing = typingOver(world.root, [given.at], read, placed)
+-  const source = typing.sourceAt(given.at)
+-  const held = source === null ? null : literalIn(source)
+-  if (held === null) return null
+-  const type = typing.checker.getContextualType(held)
+-  if (type === undefined || (type.flags & BLIND) !== 0) return null
+-  const found = type.getProperty(given.key)
+-  return found === undefined ? false : (found.flags & ts.SymbolFlags.Optional) === 0
+-}
+-
+-export function removePropertyValue(world: World, given: RemovePropertyValueAsked): Answer {
+-  const text = world.textOf(given.at)
+-  if (text === null) return refusing(`\`${given.at}\` could not be read`)
+-  const source = parsedAs(given.at, text)
+-  const owner = literalIn(source)
+-  const at =
+-    owner === null
+-      ? -1
+-      : owner.properties.findIndex(
+-          (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
+-        )
+-  const one = owner === null ? undefined : owner.properties[at]
+-  if (owner === null || one === undefined || !ts.isPropertyAssignment(one)) {
+-    return refusing(`\`${given.at}\` states no \`${given.key}\``)
+-  }
+-  const holding = one.initializer
+-  if (ts.isArrayLiteralExpression(holding)) {
+-    const found = holding.elements.findIndex(
+-      (each) => ts.isStringLiteral(each) && each.text === given.value
+-    )
+-    if (found < 0) return refusing(`\`${given.key}\` holds no \`${given.value}\``)
+-    const body = without(text, source, holding, holding.elements, found)
+-    return answered([writing(given.at, text, body)])
+-  }
+-  if (!ts.isStringLiteral(holding) || holding.text !== given.value) {
+-    return refusing(`\`${given.key}\` holds no \`${given.value}\``)
+-  }
+-  const required = requiredIn(world, given)
+-  if (required === null) {
+-    return refusing(`whether \`${given.key}\` is required could not be read`)
+-  }
+-  if (required) {
+-    return refusing(`\`${given.key}\` is required, so taking \`${given.value}\` away is a retype`)
+-  }
+-  return answered([writing(given.at, text, without(text, source, owner, owner.properties, at))])
+-}
+-
+-export function runChange(world: World, given: RemovePropertyValueAsked): Answer {
+-  return removePropertyValue(world, given)
+-}
+diff --git a/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.test.ts b/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.test.ts
+deleted file mode 100644
+index d67302db9e30264a016c85c09be8efdafb0cc563..0000000000000000000000000000000000000000
+--- a/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.test.ts
++++ /dev/null
+@@ -1,117 +0,0 @@
+-import { expect, test } from "bun:test"
+-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+-import { worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+-import { removePropertyValue } from "./remove-property-value.change-mechanical-data.code.ts"
+-
+-const ROOT = "/var/tmp/remove-property-value"
+-
+-const PAGE = "akasha/one/held.module.ts"
+-
+-const TYPE = "akasha/one/held.page-type.ts"
+-
+-const DECLARED = `export type Held = {
+-  slug: string
+-  definition?: string
+-  onCall?: boolean
+-  partSlugs?: readonly string[]
+-}
+-`
+-
+-const BODY = `import type { Held } from "./held.page-type.ts"
+-
+-export const held = {
+-  slug: "held",
+-  definition: "one thing",
+-  onCall: true,
+-  partSlugs: [
+-    "alpha",
+-    "beta",
+-    "gamma",
+-  ],
+-} as const satisfies Held
+-`
+-
+-function holding(body: string): (path: string) => string | null {
+-  return (path) => {
+-    if (path === PAGE) return body
+-    return path === TYPE ? DECLARED : null
+-  }
+-}
+-
+-function saidOf(key: string, value: string, textOf: (path: string) => string | null): Answer {
+-  return removePropertyValue(worldAt(ROOT, textOf), { at: PAGE, key, value })
+-}
+-
+-function whyOf(key: string, value: string, textOf: (path: string) => string | null): string {
+-  const said = saidOf(key, value, textOf)
+-  expect(said.edits).toEqual([])
+-  return said.refused ?? ""
+-}
+-
+-test("one value goes out of a property holding many and the rest stay", () => {
+-  expect(bodyOf(saidOf("partSlugs", "beta", holding(BODY)))).toBe(BODY.replace(`    "beta",\n`, ""))
+-})
+-
+-test("the first value and the last value each go out on their own", () => {
+-  expect(bodyOf(saidOf("partSlugs", "alpha", holding(BODY)))).toBe(
+-    BODY.replace(`    "alpha",\n`, "")
+-  )
+-  expect(bodyOf(saidOf("partSlugs", "gamma", holding(BODY)))).toBe(
+-    BODY.replace(`    "gamma",\n`, "")
+-  )
+-})
+-
+-test("a property holding many keeps its key when the last value goes", () => {
+-  const body = BODY.replace(`    "beta",\n    "gamma",\n`, "")
+-  expect(bodyOf(saidOf("partSlugs", "alpha", holding(body)))).toContain("partSlugs: [],")
+-})
+-
+-test("a property holding one value goes with that value", () => {
+-  expect(bodyOf(saidOf("definition", "one thing", holding(BODY)))).toBe(
+-    BODY.replace(`  definition: "one thing",\n`, "")
+-  )
+-})
+-
+-test("a property its page's type requires is refused rather than taken away", () => {
+-  expect(whyOf("slug", "held", holding(BODY))).toBe(
+-    "`slug` is required, so taking `held` away is a retype"
+-  )
+-})
+-
+-test("a value the property does not hold is refused", () => {
+-  expect(whyOf("partSlugs", "delta", holding(BODY))).toBe("`partSlugs` holds no `delta`")
+-  expect(whyOf("definition", "another", holding(BODY))).toBe("`definition` holds no `another`")
+-})
+-
+-test("a property holding no text at all is refused", () => {
+-  expect(whyOf("onCall", "true", holding(BODY))).toBe("`onCall` holds no `true`")
+-})
+-
+-test("a key the body states nothing under is refused", () => {
+-  expect(whyOf("cover", "x", holding(BODY))).toBe(`\`${PAGE}\` states no \`cover\``)
+-})
+-
+-test("a body that could not be read is refused", () => {
+-  expect(whyOf("partSlugs", "beta", () => null)).toBe(`\`${PAGE}\` could not be read`)
+-})
+-
+-test("a type that could not be read refuses rather than taking the property away", () => {
+-  const textOf = (path: string): string | null => (path === PAGE ? BODY : null)
+-  expect(whyOf("definition", "one thing", textOf)).toBe(
+-    "whether `definition` is required could not be read"
+-  )
+-})
+-
+-test("the body is answered under the path it was worked out from", () => {
+-  const said = saidOf("partSlugs", "beta", holding(BODY))
+-  expect(said.edits[0]?.path).toBe(PAGE)
+-  expect(said.edits[0]?.was).toBe(BODY)
+-  expect(said.edits[0]?.from).toBe(undefined)
+-})
+-
+-test("the body is answered rather than written", () => {
+-  const textOf = holding(BODY)
+-  expect(saidOf("partSlugs", "beta", textOf).refused).toBe(null)
+-  expect(textOf(PAGE)).toBe(BODY)
+-})
+diff --git a/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.ts b/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.ts
+deleted file mode 100644
+index 4b79cdbce182bca9081e749fa0a94e7bcc1ff1f4..0000000000000000000000000000000000000000
+--- a/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.ts
++++ /dev/null
+@@ -1,54 +0,0 @@
+-import type { ChangeMechanicalData } from "../../../data/change-mechanical-data.page-type.ts"
+-
+-export const removePropertyValue = {
+-  id: "01a07758-01be-7649-a91a-f8952f0b468e",
+-  pageTypeSlug: "change-mechanical-data",
+-  slug: "remove-property-value",
+-  changeModeSlug: "change-mode-remove",
+-  changeTargetTypeSlug: "change-target-type/file-content",
+-  changeTargetSubtypeSlug: "change-target-subtype/page-property",
+-  definition: "one value taken out of one page property in a page's body",
+-  code: "ts",
+-  test: "ts",
+-  runsChecks: false,
+-  readersOweReading: false,
+-  writerOwesReading: false,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A property holding many values keeps its key when the last value goes.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A property holding one value goes with that value.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Whether a property is required is read from the type the page's body satisfies.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A required property is refused rather than taken away.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Taking a required property away is a retype.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A property that could not be read as required or not is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A value the property does not hold is refused rather than taken away.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The body is answered rather than written.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads the index.",
+-    },
+-  ],
+-} as const satisfies ChangeMechanicalData
+diff --git a/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts b/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..27d82c086c4319a3848f9f001372c0dd8b1c8085
+--- /dev/null
++++ b/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts
+@@ -0,0 +1,104 @@
++import { parsedAs } from "@akasha/code/code-source"
++import { placingOver, readingOf, typingOver } from "@akasha/code/code-typing"
++import ts from "typescript"
++import {
++  answered,
++  refusing,
++  writing,
++} from "../../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
++import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
++
++const BLIND = ts.TypeFlags.Any | ts.TypeFlags.Unknown
++
++export type RemovePropertyValueAsked = {
++  readonly at: string
++  readonly key: string
++  readonly value: string
++}
++
++function commaAfter(text: string, from: number, limit: number): number {
++  for (let at = from; at < limit; at += 1) {
++    const one = text[at] ?? ""
++    if (one === ",") return at + 1
++    if (one.trim() !== "") return from
++  }
++  return from
++}
++
++function without(
++  text: string,
++  source: ts.SourceFile,
++  held: ts.Node,
++  every: readonly ts.Node[],
++  at: number
++): string {
++  const one = every[at]
++  if (one === undefined) return text
++  if (every.length === 1) {
++    return text.slice(0, held.getStart(source) + 1) + text.slice(held.getEnd() - 1)
++  }
++  const past = commaAfter(text, one.getEnd(), held.getEnd())
++  if (past > one.getEnd()) return text.slice(0, one.pos) + text.slice(past)
++  const before = every[at - 1]
++  const from = before === undefined ? held.getStart(source) + 1 : before.getEnd()
++  return text.slice(0, from) + text.slice(one.getEnd())
++}
++
++function requiredIn(world: World, given: RemovePropertyValueAsked): boolean | null {
++  const placed = placingOver(
++    world.over.edits.map((one) => one.path),
++    world.textOf
++  )
++  const read = readingOf(world.root, world.textOf, placed)
++  const typing = typingOver(world.root, [given.at], read, placed)
++  const source = typing.sourceAt(given.at)
++  const held = source === null ? null : literalIn(source)
++  if (held === null) return null
++  const type = typing.checker.getContextualType(held)
++  if (type === undefined || (type.flags & BLIND) !== 0) return null
++  const found = type.getProperty(given.key)
++  return found === undefined ? false : (found.flags & ts.SymbolFlags.Optional) === 0
++}
++
++export function removePropertyValue(world: World, given: RemovePropertyValueAsked): Answer {
++  const text = world.textOf(given.at)
++  if (text === null) return refusing(`\`${given.at}\` could not be read`)
++  const source = parsedAs(given.at, text)
++  const owner = literalIn(source)
++  const at =
++    owner === null
++      ? -1
++      : owner.properties.findIndex(
++          (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
++        )
++  const one = owner === null ? undefined : owner.properties[at]
++  if (owner === null || one === undefined || !ts.isPropertyAssignment(one)) {
++    return refusing(`\`${given.at}\` states no \`${given.key}\``)
++  }
++  const holding = one.initializer
++  if (ts.isArrayLiteralExpression(holding)) {
++    const found = holding.elements.findIndex(
++      (each) => ts.isStringLiteral(each) && each.text === given.value
++    )
++    if (found < 0) return refusing(`\`${given.key}\` holds no \`${given.value}\``)
++    const body = without(text, source, holding, holding.elements, found)
++    return answered([writing(given.at, text, body)])
++  }
++  if (!ts.isStringLiteral(holding) || holding.text !== given.value) {
++    return refusing(`\`${given.key}\` holds no \`${given.value}\``)
++  }
++  const required = requiredIn(world, given)
++  if (required === null) {
++    return refusing(`whether \`${given.key}\` is required could not be read`)
++  }
++  if (required) {
++    return refusing(`\`${given.key}\` is required, so taking \`${given.value}\` away is a retype`)
++  }
++  return answered([writing(given.at, text, without(text, source, owner, owner.properties, at))])
++}
++
++export function runChange(world: World, given: RemovePropertyValueAsked): Answer {
++  return removePropertyValue(world, given)
++}
+diff --git a/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.test.ts b/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b3e1fcafbd48daf3e241f91aea1d36a1e7c0f7d1
+--- /dev/null
++++ b/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.test.ts
+@@ -0,0 +1,117 @@
++import { expect, test } from "bun:test"
++import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
++import { worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
++import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
++import { removePropertyValue } from "./remove-property-value.change-mechanical-file-content.code.ts"
++
++const ROOT = "/var/tmp/remove-property-value"
++
++const PAGE = "akasha/one/held.module.ts"
++
++const TYPE = "akasha/one/held.page-type.ts"
++
++const DECLARED = `export type Held = {
++  slug: string
++  definition?: string
++  onCall?: boolean
++  partSlugs?: readonly string[]
++}
++`
++
++const BODY = `import type { Held } from "./held.page-type.ts"
++
++export const held = {
++  slug: "held",
++  definition: "one thing",
++  onCall: true,
++  partSlugs: [
++    "alpha",
++    "beta",
++    "gamma",
++  ],
++} as const satisfies Held
++`
++
++function holding(body: string): (path: string) => string | null {
++  return (path) => {
++    if (path === PAGE) return body
++    return path === TYPE ? DECLARED : null
++  }
++}
++
++function saidOf(key: string, value: string, textOf: (path: string) => string | null): Answer {
++  return removePropertyValue(worldAt(ROOT, textOf), { at: PAGE, key, value })
++}
++
++function whyOf(key: string, value: string, textOf: (path: string) => string | null): string {
++  const said = saidOf(key, value, textOf)
++  expect(said.edits).toEqual([])
++  return said.refused ?? ""
++}
++
++test("one value goes out of a property holding many and the rest stay", () => {
++  expect(bodyOf(saidOf("partSlugs", "beta", holding(BODY)))).toBe(BODY.replace(`    "beta",\n`, ""))
++})
++
++test("the first value and the last value each go out on their own", () => {
++  expect(bodyOf(saidOf("partSlugs", "alpha", holding(BODY)))).toBe(
++    BODY.replace(`    "alpha",\n`, "")
++  )
++  expect(bodyOf(saidOf("partSlugs", "gamma", holding(BODY)))).toBe(
++    BODY.replace(`    "gamma",\n`, "")
++  )
++})
++
++test("a property holding many keeps its key when the last value goes", () => {
++  const body = BODY.replace(`    "beta",\n    "gamma",\n`, "")
++  expect(bodyOf(saidOf("partSlugs", "alpha", holding(body)))).toContain("partSlugs: [],")
++})
++
++test("a property holding one value goes with that value", () => {
++  expect(bodyOf(saidOf("definition", "one thing", holding(BODY)))).toBe(
++    BODY.replace(`  definition: "one thing",\n`, "")
++  )
++})
++
++test("a property its page's type requires is refused rather than taken away", () => {
++  expect(whyOf("slug", "held", holding(BODY))).toBe(
++    "`slug` is required, so taking `held` away is a retype"
++  )
++})
++
++test("a value the property does not hold is refused", () => {
++  expect(whyOf("partSlugs", "delta", holding(BODY))).toBe("`partSlugs` holds no `delta`")
++  expect(whyOf("definition", "another", holding(BODY))).toBe("`definition` holds no `another`")
++})
++
++test("a property holding no text at all is refused", () => {
++  expect(whyOf("onCall", "true", holding(BODY))).toBe("`onCall` holds no `true`")
++})
++
++test("a key the body states nothing under is refused", () => {
++  expect(whyOf("cover", "x", holding(BODY))).toBe(`\`${PAGE}\` states no \`cover\``)
++})
++
++test("a body that could not be read is refused", () => {
++  expect(whyOf("partSlugs", "beta", () => null)).toBe(`\`${PAGE}\` could not be read`)
++})
++
++test("a type that could not be read refuses rather than taking the property away", () => {
++  const textOf = (path: string): string | null => (path === PAGE ? BODY : null)
++  expect(whyOf("definition", "one thing", textOf)).toBe(
++    "whether `definition` is required could not be read"
++  )
++})
++
++test("the body is answered under the path it was worked out from", () => {
++  const said = saidOf("partSlugs", "beta", holding(BODY))
++  expect(said.edits[0]?.path).toBe(PAGE)
++  expect(said.edits[0]?.was).toBe(BODY)
++  expect(said.edits[0]?.from).toBe(undefined)
++})
++
++test("the body is answered rather than written", () => {
++  const textOf = holding(BODY)
++  expect(saidOf("partSlugs", "beta", textOf).refused).toBe(null)
++  expect(textOf(PAGE)).toBe(BODY)
++})
+diff --git a/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.ts b/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e3bc83dcb82756e82717e20af4864e2bc4abbcb3
+--- /dev/null
++++ b/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.ts
+@@ -0,0 +1,54 @@
++import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
++
++export const removePropertyValue = {
++  id: "01a07758-01be-7649-a91a-f8952f0b468e",
++  pageTypeSlug: "change-mechanical-file-content",
++  slug: "remove-property-value",
++  changeModeSlug: "change-mode-remove",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/page-property",
++  definition: "one value taken out of one page property in a page's body",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A property holding many values keeps its key when the last value goes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A property holding one value goes with that value.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Whether a property is required is read from the type the page's body satisfies.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A required property is refused rather than taken away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Taking a required property away is a retype.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A property that could not be read as required or not is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A value the property does not hold is refused rather than taken away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body is answered rather than written.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads the index.",
++    },
++  ],
++} as const satisfies ChangeMechanicalFileContent
+diff --git a/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts b/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts
+index b7c7b7bfb91a827dcf8f793e3f45f0f93982a5c0..3e264bf2e502ffb6b6fcfb5533edf284ff81025b 100644
+--- a/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts
++++ b/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts
+@@ -23,7 +23,7 @@ const REMOVE_FILE = "change-mechanical-file/remove-file"
+ 
+ const REMOVE_FILE_CODE = "change-mechanical-file/remove-file-code"
+ 
+-const REMOVE_PROPERTY_VALUE = "change-mechanical-data/remove-property-value"
++const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-value"
+ 
+ const CODE = new Set([".ts", ".tsx"])
+ 
+diff --git a/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts b/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts
+index 70f7242619cfc3196bf8318816a61bf95c5258d4..875632c20ad86d32959c3385cf80d0ed718e45fa 100644
+--- a/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts
++++ b/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts
+@@ -29,7 +29,7 @@ import {
+   worldAt,
+   worldOver,
+ } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.code.ts"
++import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
+ import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
+ import { runChange as removeCodeFile } from "../remove-file-code/remove-file-code.change-mechanical-file.code.ts"
+ import {
+@@ -44,7 +44,7 @@ const REMOVE_FILE_CODE = "change-mechanical-file/remove-file-code"
+ 
+ const REMOVE_FILE = "change-mechanical-file/remove-file"
+ 
+-const REMOVE_PROPERTY_VALUE = "change-mechanical-data/remove-property-value"
++const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-value"
+ 
+ const RUNS: Reaching = (world, at, given) => {
+   if (at === REMOVE_FILE_CODE) return removeCodeFile(world, given as { at: string })
+diff --git a/changes/mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.code.ts b/changes/mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.code.ts
+index a77712ca1f7e6510c879224abf771ad7a18385d6..d3cc4d38115cd6286957e6fedc5e1792adf9f309 100644
+--- a/changes/mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.code.ts
++++ b/changes/mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.code.ts
+@@ -14,7 +14,7 @@ const PART_SLUGS_KEY = "partSlugs"
+ 
+ const REMOVE_FILE = "change-mechanical-file/remove-file"
+ 
+-const REMOVE_PROPERTY_VALUE = "change-mechanical-data/remove-property-value"
++const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-value"
+ 
+ export type RemovePageTypeAsked = {
+   readonly at: string
+diff --git a/changes/mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.test.ts b/changes/mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.test.ts
+index ea70146cead351640776b8ffe94834136296bcdc..e56de898ef8531bac6e8b3207d1479b69b428c58 100644
+--- a/changes/mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.test.ts
++++ b/changes/mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.test.ts
+@@ -15,7 +15,7 @@ import {
+   worldAt,
+ } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { removeFile } from "../../../file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
+-import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.code.ts"
++import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
+ import { removePageType } from "./remove-page-type.change-mechanical-folder.code.ts"
+ 
+ afterAll(scratch.sweep)
+@@ -43,7 +43,7 @@ const RUNS: Reaching = (world, at, given) => {
+   if (at === "change-mechanical-file/remove-file") {
+     return Promise.resolve(removeFile(given as { at: string }, world.textOf))
+   }
+-  if (at === "change-mechanical-data/remove-property-value") {
++  if (at === "change-mechanical-file-content/remove-property-value") {
+     return Promise.resolve(removePropertyValue(world, given as Unnaming))
+   }
+   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
