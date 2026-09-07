@@ -23,7 +23,7 @@ export const watcherSettingsConsumables = {
     },
     {
       invariantKind: "departure",
-      statement: "The latest snapshot is the one captured last.",
+      statement: "The latest snapshot is the snapshot captured last.",
     },
     {
       invariantKind: "departure",
