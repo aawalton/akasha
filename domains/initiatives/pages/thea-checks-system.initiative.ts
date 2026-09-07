@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. require-import-extension is on, refusing only where a file of its extensions stands at the landing: 145 refusals became 19, all in vendored lualib. Those 19 want `bundler` and `allowImportingTsExtensions` in lualib's tsconfig, which adds no type error but is untested against the Lua tstl emits. Next restatement-narrows-something, shell-clean, folder-matches-a-shape, identifier-matches-its-place. A dot in a route name is not an extension.",
+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Alan: turn a check on carrying its residue; clear every violation at the end, once all are on and fast. Owed: 19 in vendored lualib, wanting `bundler` and `allowImportingTsExtensions`. restatement-narrows-something is through step 1 and alone catches a restatement narrowing nothing, key-names-one-property taking the loosening. Then shell-clean, folder-matches-a-shape, identifier-matches-its-place. typecheck refuses at baseline, so compare arms.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
