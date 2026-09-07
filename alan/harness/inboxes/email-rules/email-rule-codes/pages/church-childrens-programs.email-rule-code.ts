@@ -12,7 +12,6 @@ export const churchChildrensPrograms = {
       comparison: "contains",
       values: ["youth", "young women", "young men", "yw ", "ym ", "primary"],
     },
-    { field: "from", comparison: "ends-with", values: ["churchofjesuschrist.org"] },
     {
       field: "from",
       comparison: "is-not",

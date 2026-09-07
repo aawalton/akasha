@@ -8,7 +8,6 @@ export const oakWardGoogleNotice = {
   matches: [
     { field: "from", comparison: "ends-with", values: ["google.com"] },
     { field: "subject", comparison: "contains", values: ["oak.hills.first.ward.tech"] },
-    { field: "from", comparison: "ends-with", values: ["google.com"] },
     {
       field: "from",
       comparison: "is-not",
