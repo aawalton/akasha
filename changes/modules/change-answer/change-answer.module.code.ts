@@ -103,6 +103,23 @@ export function expanded(one: Stated, textOf: BodyOf): Expanded {
   return movedIn(one, textOf)
 }
 
+export function narrowed(one: Edit): readonly Stated[] {
+  const reading = readingIn(one)
+  const came = one.from === one.path ? undefined : one.from
+  const body = one.body
+  if (body === null) return [{ ...reading, kind: "remove", path: came ?? one.path }]
+  const fresh = one.was === null || one.was === ""
+  if (came === undefined) {
+    if (one.was === body) return []
+    if (fresh) return [{ ...reading, kind: "add", path: one.path, content: body }]
+    return [{ ...reading, kind: "replace", path: one.path, contentFrom: one.was, contentTo: body }]
+  }
+  const moved: Stated = { ...reading, kind: "move", pathFrom: came, pathTo: one.path }
+  if (one.was === body) return [moved]
+  if (fresh) return [moved, { kind: "add", path: one.path, content: body }]
+  return [moved, { kind: "replace", path: one.path, contentFrom: one.was, contentTo: body }]
+}
+
 export function widened(said: Said, textOf: BodyOf): Answer {
   if (said.refused !== null) return refusing(said.refused)
   const held = new Map<string, string | null>()
