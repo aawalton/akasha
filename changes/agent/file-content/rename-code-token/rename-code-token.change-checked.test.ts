@@ -32,7 +32,7 @@ const PAGE_BODY = `export const held = 1\n`
 function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, async (world, at, given) => {
     if (at === "change-mechanical-file-content/rename-export") {
-      return await renameExport(world, given as Parameters<typeof renameExport>[1])
+      return widened(renameExport(world, given as Parameters<typeof renameExport>[1]), world.textOf)
     }
     if (at === "change-mechanical-file-content/rename-local-variable") {
       return widened(

@@ -10,9 +10,15 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { renameExport } from "./rename-export.change-mechanical-file-content.code.ts"
+import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { renameExport as renaming } from "./rename-export.change-mechanical-file-content.code.ts"
 
 afterAll(scratch.sweep)
+
+function renameExport(...given: Parameters<typeof renaming>): Answer {
+  return widened(renaming(...given), given[5])
+}
 
 const CARRIED = "carried"
 

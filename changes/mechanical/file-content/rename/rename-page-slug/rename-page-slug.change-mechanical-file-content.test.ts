@@ -45,7 +45,8 @@ function worldIn(root: string, textOf: (path: string) => string | null): World {
       return Promise.resolve(widened(said, world.textOf))
     }
     if (at === "change-mechanical-file-content/rename-export") {
-      return Promise.resolve(renameExport(world, given as Parameters<typeof renameExport>[1]))
+      const said = renameExport(world, given as Parameters<typeof renameExport>[1])
+      return Promise.resolve(widened(said, world.textOf))
     }
     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
   })

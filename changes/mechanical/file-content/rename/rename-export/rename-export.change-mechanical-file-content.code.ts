@@ -9,11 +9,12 @@ import {
   typingOver,
 } from "@akasha/code/code-typing"
 import {
-  answered,
+  narrowed,
   refusing,
+  stating,
   writing,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer, Edit } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type { Said, Stated } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 type Spot = {
@@ -30,7 +31,7 @@ export function renameExport(
   to: string,
   textOf: (path: string) => string | null,
   placed: Placing
-): Answer {
+): Said {
   const typing = typingOver(root, over, readingOf(root, textOf, placed), placed)
   const declared = new Set(exportsNamed(typing, at, of))
   if (declared.size === 0) return refusing(`\`${at}\` exports no \`${of}\``)
@@ -52,7 +53,7 @@ export function renameExport(
       return refusing(`\`${path}\` already reaches a \`${to}\``)
     }
   }
-  const edits: Edit[] = []
+  const edits: Stated[] = []
   for (const [path, spots] of held) {
     const text = textOf(path)
     if (text === null) return refusing(`\`${path}\` would change and could not be read`)
@@ -60,9 +61,9 @@ export function renameExport(
     for (const one of [...spots].sort((here, there) => there.start - here.start)) {
       body = body.slice(0, one.start) + one.put + body.slice(one.end)
     }
-    edits.push(writing(path, text, body))
+    edits.push(...narrowed(writing(path, text, body)))
   }
-  return answered(edits)
+  return stating(edits)
 }
 
 export type Given = {
@@ -72,7 +73,7 @@ export type Given = {
   readonly to: string
 }
 
-export function runChange(world: World, given: Given): Answer {
+export function runChange(world: World, given: Given): Said {
   const placed = placingOver(
     world.over.edits.map((one) => one.path),
     world.textOf

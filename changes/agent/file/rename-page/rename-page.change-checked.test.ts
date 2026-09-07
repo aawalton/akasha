@@ -70,7 +70,7 @@ const RUNS: Reaching = async (world, at, given) => {
     )
   }
   if (at === "change-mechanical-file-content/rename-export") {
-    return renameExport(world, given as Parameters<typeof renameExport>[1])
+    return widened(renameExport(world, given as Parameters<typeof renameExport>[1]), world.textOf)
   }
   if (at === "change-mechanical-file-content/change-imports") {
     return widened(changeImports(world, given as Parameters<typeof changeImports>[1]), world.textOf)
