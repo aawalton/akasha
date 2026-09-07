@@ -1,0 +1,18 @@
+diff --git a/command-system/gated-landing/gated-landing.module.ts b/command-system/gated-landing/gated-landing.module.ts
+index 6a3e1522eae59a2f233b39abc9b14f23803d909f..8fa496b38442db3a911f63d0d8b3f59ee6455747 100644
+--- a/command-system/gated-landing/gated-landing.module.ts
++++ b/command-system/gated-landing/gated-landing.module.ts
+@@ -14,8 +14,11 @@ export const gatedLanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A body of null takes a path away, so one landing carries both the bodies written and the removals.",
++      statement: "A body of null takes a path away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One landing carries both the bodies written and the removals.",
+     },
+     {
+       invariantKind: "departure",
