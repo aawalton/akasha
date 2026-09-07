@@ -43,7 +43,11 @@ export const drive = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The first word is the act, and only the consent takes a second word.",
+      statement: "The first word is the act.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only the consent takes a second word.",
     },
     {
       invariantKind: "departure",
