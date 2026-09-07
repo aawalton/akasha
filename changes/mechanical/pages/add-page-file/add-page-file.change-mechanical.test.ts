@@ -13,7 +13,7 @@ import {
 import { type Asked, runChange } from "./add-page-file.change-mechanical.code.ts"
 
 const RUNS: Reaching = (_world, at, given) => {
-  if (at === "change-mechanical/add-code-file") {
+  if (at === "change-mechanical-file/add-code-file") {
     const asked = given as Asked
     return Promise.resolve(answered([writing(asked.at, null, asked.body)]))
   }
