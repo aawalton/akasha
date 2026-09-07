@@ -14,12 +14,15 @@ export const commitAuthor = {
     {
       invariantKind: "departure",
       statement:
-        "A seat acting under the default persona is authored as Claude, not under that persona.",
+        "A seat acting under the default persona is authored as Claude rather than under that persona.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A persona that declares no email address cannot be authored as, so Claude is used.",
+      statement: "A persona that declares no email address cannot be authored as.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Claude is used instead.",
     },
     {
       invariantKind: "departure",
