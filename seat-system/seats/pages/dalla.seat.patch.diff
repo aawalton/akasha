@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
+index 7a875a520defda88a0b9ff73cf66819977456337..3007d0c75ad2689b561ea5871fcb50d73cf12061 100644
+--- a/command-system/landing/landing.module.code.ts
++++ b/command-system/landing/landing.module.code.ts
+@@ -446,7 +446,7 @@ export async function landing(
+     const stale = unfresh(root, named, base, changes, asRead, AGAIN_WRITTEN)
+     if (stale !== null) return stale
+     const split = heldBack(root, changes)
+-    const before = beforeOf(root, base, changes)
++    const before = beforeOf(root, base, split.committing)
+     const keeping = indexingLoaded()
+     try {
+       const put = wroteOnto(root, split.committing)
