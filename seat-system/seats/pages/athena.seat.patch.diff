@@ -1,0 +1,345 @@
+writerOwesReading: false
+diff --git a/command-system/commands/change/change.command.test-fixtures.ts b/command-system/commands/change/change.command.test-fixtures.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..978820c24ef945a8e925c62d1ede31b5a62f13e4
+--- /dev/null
++++ b/command-system/commands/change/change.command.test-fixtures.ts
+@@ -0,0 +1,90 @@
++import { idOf, indexedRepo, pageOf } from "@akasha/indexes/indexing/testing"
++import { removePage } from "../../../changes/checked/pages/remove-page/remove-page.change-checked.code.ts"
++import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
++import {
++  editsIn,
++  handedRef,
++  putUnder,
++} from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
++import {
++  type Loaded,
++  loadedAt,
++} from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
++import type { Piping } from "../../piping/piping.module.code.ts"
++import type { Applying } from "./change.command.code.ts"
++
++export const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
++
++export const MISSING = "akasha/one/missing.module.ts"
++
++export const SPARE_PAGE = "akasha/three/spare.module.ts"
++
++export const SPARE_CODE = "akasha/three/spare.module.code.ts"
++
++const SPARE: Readonly<Record<string, string>> = {
++  [SPARE_PAGE]: pageOf({
++    id: idOf("d"),
++    pageTypeSlug: "module",
++    slug: "spare",
++    definition: "a page importing the page held",
++    code: "ts",
++  }),
++  [SPARE_CODE]: 'import { kept } from "../one/held.module.code.ts"\n\nexport const spare = kept\n',
++}
++
++let given: Readonly<Record<string, string>> = {}
++
++export function givenIn(): Readonly<Record<string, string>> {
++  return given
++}
++
++const REMOVE_PAGE: Loaded = {
++  run: (world, said) => {
++    given = said as Readonly<Record<string, string>>
++    return removePage(world, said as { at: string })
++  },
++  guards: [],
++}
++
++export function repo(): string {
++  return indexedRepo(SPARE)
++}
++
++export function piping(said: string): Piping {
++  return () => ({ bytes: new TextEncoder().encode(said) })
++}
++
++export const NOTHING: Piping = () => ({ bytes: new Uint8Array(0) })
++
++export const APPLIED: string[] = []
++
++export const applying: Applying = async (message) => {
++  APPLIED.push(message)
++  return { report: [`applied ${message}`], refusals: [], code: 0 }
++}
++
++export function taking(path: string): string {
++  return `at: ${path}\n`
++}
++
++export function asking(path: string, message: string): string {
++  return `${taking(path)}apply: ${message}\n`
++}
++
++export async function loading(world: World, at: string): Promise<Loaded | string> {
++  if (at === "change-command/remove-page") return REMOVE_PAGE
++  return await loadedAt(world, at)
++}
++
++export function pathsIn(root: string): readonly string[] {
++  const said = editsIn(root, PAGE)
++  return "why" in said ? [] : said.rows.map((one) => one.path)
++}
++
++export function handing(root: string, under: string, rows: readonly Edit[]): undefined {
++  const ref = handedRef(PAGE, under)
++  if (ref !== null) putUnder(root, ref, `${rows.map((one) => JSON.stringify(one)).join("\n")}\n`)
++}
++
++export const HANDED_ONE: Edit = { path: "akasha/three/handed.md", was: null, body: "handed" }
+diff --git a/command-system/commands/change/change.command.test.ts b/command-system/commands/change/change.command.test.ts
+index 8e1439cdce2275520ee26172a64492fd3b917529..e6f2c491d79503407add7d854531b8c2274fb509 100644
+--- a/command-system/commands/change/change.command.test.ts
++++ b/command-system/commands/change/change.command.test.ts
+@@ -1,95 +1,31 @@
+ import { afterAll, expect, test } from "bun:test"
++import { NAMER_CODE, NAMER_PAGE, scratch } from "@akasha/indexes/indexing/testing"
+ import {
+-  idOf,
+-  indexedRepo,
+-  NAMER_CODE,
+-  NAMER_PAGE,
+-  pageOf,
+-  scratch,
+-} from "@akasha/indexes/indexing/testing"
+-import { removePage } from "../../../changes/checked/pages/remove-page/remove-page.change-checked.code.ts"
+-import type { World } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
+-import { editsIn } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
++  appendEdits,
++  editsIn,
++} from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
++import { changing, editsFor, owedBy, owingBy, stamped } from "./change.command.code.ts"
+ import {
+-  type Loaded,
+-  loadedAt,
+-} from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
+-import type { Piping } from "../../piping/piping.module.code.ts"
+-import {
+-  type Applying,
+-  changing,
+-  editsFor,
+-  owedBy,
+-  owingBy,
+-  stamped,
+-} from "./change.command.code.ts"
++  APPLIED,
++  applying,
++  asking,
++  givenIn,
++  HANDED_ONE,
++  handing,
++  loading,
++  MISSING,
++  NOTHING,
++  PAGE,
++  pathsIn,
++  piping,
++  repo,
++  SPARE_CODE,
++  SPARE_PAGE,
++  taking,
++} from "./change.command.test-fixtures.ts"
+ 
+ afterAll(scratch.sweep)
+ 
+-const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
+-
+-const MISSING = "akasha/one/missing.module.ts"
+-
+-const SPARE_PAGE = "akasha/three/spare.module.ts"
+-
+-const SPARE_CODE = "akasha/three/spare.module.code.ts"
+-
+-const SPARE: Readonly<Record<string, string>> = {
+-  [SPARE_PAGE]: pageOf({
+-    id: idOf("d"),
+-    pageTypeSlug: "module",
+-    slug: "spare",
+-    definition: "a page importing the page held",
+-    code: "ts",
+-  }),
+-  [SPARE_CODE]: 'import { kept } from "../one/held.module.code.ts"\n\nexport const spare = kept\n',
+-}
+-
+-let handed: Readonly<Record<string, string>> = {}
+-
+-const REMOVE_PAGE: Loaded = {
+-  run: (world, given) => {
+-    handed = given as Readonly<Record<string, string>>
+-    return removePage(world, given as { at: string })
+-  },
+-  guards: [],
+-}
+-
+-function repo(): string {
+-  return indexedRepo(SPARE)
+-}
+-
+-function piping(said: string): Piping {
+-  return () => ({ bytes: new TextEncoder().encode(said) })
+-}
+-
+-const NOTHING: Piping = () => ({ bytes: new Uint8Array(0) })
+-
+-const APPLIED: string[] = []
+-
+-const applying: Applying = async (message) => {
+-  APPLIED.push(message)
+-  return { report: [`applied ${message}`], refusals: [], code: 0 }
+-}
+-
+-function asking(path: string, message: string): string {
+-  return `${taking(path)}apply: ${message}\n`
+-}
+-
+-async function loading(world: World, at: string): Promise<Loaded | string> {
+-  if (at === "change-command/remove-page") return REMOVE_PAGE
+-  return await loadedAt(world, at)
+-}
+-
+-function taking(path: string): string {
+-  return `at: ${path}\n`
+-}
+-
+-function pathsIn(root: string): readonly string[] {
+-  const said = editsIn(root, PAGE)
+-  return "why" in said ? [] : said.rows.map((one) => one.path)
+-}
+-
+ test("a change answers its edits and appends the edits beside the calling agent's page", async () => {
+   const root = repo()
+ 
+@@ -267,6 +203,104 @@ test("a drop over no edit kept says so rather than refusing", async () => {
+   expect(said.report).toEqual(["no edits are kept beside this agent's page, so nothing went"])
+ })
+ 
++test("a call over no handed edits says no subagent has handed edits over", async () => {
++  const root = repo()
++
++  const said = await changing(root, PAGE, ["handed"], NOTHING, loading, applying)
++
++  expect(said.code).toBe(0)
++  expect(said.report).toEqual(["no subagent has handed edits to this agent"])
++})
++
++test("handed names each subagent that handed edits over and how many that subagent handed", async () => {
++  const root = repo()
++  handing(root, "one", [HANDED_ONE])
++  handing(root, "two", [HANDED_ONE, { path: "akasha/three/other.md", was: null, body: "other" }])
++
++  const said = await changing(root, PAGE, ["handed"], NOTHING, loading, applying)
++
++  expect(said.report).toEqual([
++    "one handed 1 edit(s) over",
++    "two handed 2 edit(s) over",
++    "`akasha change take <subagent>` takes one of these into this agent's own",
++  ])
++})
++
++test("a take folds one subagent's handed edits in and takes the handed edits away", async () => {
++  const root = repo()
++  handing(root, "one", [HANDED_ONE])
++
++  const said = await changing(root, PAGE, ["take", "one"], NOTHING, loading, applying)
++
++  expect(said.refusals).toEqual([])
++  expect(said.report).toEqual([
++    `adds ${HANDED_ONE.path}`,
++    "these edits are this agent's own now, and `akasha apply` lands them",
++  ])
++  expect(pathsIn(root)).toEqual([HANDED_ONE.path])
++  expect((await changing(root, PAGE, ["handed"], NOTHING, loading, applying)).report).toEqual([
++    "no subagent has handed edits to this agent",
++  ])
++})
++
++test("a take that would not fold refuses and leaves both sets as those sets were", async () => {
++  const root = repo()
++  appendEdits(root, PAGE, [{ path: HANDED_ONE.path, was: null, body: "own" }])
++  handing(root, "one", [{ path: HANDED_ONE.path, was: "another", body: "handed" }])
++
++  const said = await changing(root, PAGE, ["take", "one"], NOTHING, loading, applying)
++
++  expect(said.code).toBe(3)
++  expect(said.refusals[1]).toBe(
++    "the handed edits are kept as they were, and this agent's own are unchanged"
++  )
++  expect(pathsIn(root)).toEqual([HANDED_ONE.path])
++  expect((await changing(root, PAGE, ["handed"], NOTHING, loading, applying)).report[0]).toBe(
++    "one handed 1 edit(s) over"
++  )
++})
++
++test("a forget takes one subagent's handed edits away and names each edit that went", async () => {
++  const root = repo()
++  handing(root, "one", [HANDED_ONE])
++
++  const said = await changing(root, PAGE, ["forget", "one"], NOTHING, loading, applying)
++
++  expect(said.report).toEqual([
++    `adds ${HANDED_ONE.path}`,
++    "these edits are gone, and no apply lands them",
++  ])
++  expect(pathsIn(root)).toEqual([])
++})
++
++test("a take naming no subagent is refused rather than reaching every subagent", async () => {
++  const root = repo()
++  handing(root, "one", [HANDED_ONE])
++
++  const said = await changing(root, PAGE, ["take"], NOTHING, loading, applying)
++
++  expect(said.refusals).toEqual(["this call names no subagent whose handed edits would be reached"])
++  expect(pathsIn(root)).toEqual([])
++})
++
++test("a change answering says how many subagents handed edits over", async () => {
++  const root = repo()
++  handing(root, "one", [HANDED_ONE])
++
++  const said = await changing(
++    root,
++    PAGE,
++    ["remove-page"],
++    piping(taking(NAMER_PAGE)),
++    loading,
++    applying
++  )
++
++  expect(said.report).toContain(
++    "1 subagent(s) handed edits over, which `akasha change handed` names"
++  )
++})
++
+ test("an edit writing a body becomes a change carrying that body", () => {
+   expect(editsFor([{ path: "a/b.ts", was: null, body: "held" }])).toEqual([
+     { path: "a/b.ts", body: new TextEncoder().encode("held") },
+@@ -380,7 +414,7 @@ test("the apply asked for is not handed to the change as an argument", async ()
+     applying
+   )
+ 
+-  expect(Object.keys(handed)).toEqual(["at"])
++  expect(Object.keys(givenIn())).toEqual(["at"])
+ })
+ 
+ test("an apply asked for says nothing of the edits being kept for a later apply", async () => {
+diff --git a/command-system/commands/change/change.command.ts b/command-system/commands/change/change.command.ts
+index aa91bf4ded9f733bd3c84f822ecdedc927d82125..4f611e181c782dd4e48e87bb5bc48c1158a1dd65 100644
+--- a/command-system/commands/change/change.command.ts
++++ b/command-system/commands/change/change.command.ts
+@@ -7,6 +7,7 @@ export const change = {
+   definition: "one mechanical change run for the edits it answers rather than for a landing",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   changeKindSlug: "change-mechanical",
+   helpNotes: [
+     "the change is the first word, and the arguments that change takes are piped in.",
