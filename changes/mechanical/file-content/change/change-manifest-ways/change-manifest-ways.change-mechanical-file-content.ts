@@ -36,7 +36,7 @@ export const changeManifestWays = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest landing elsewhere is answered as one move rather than as a write.",
+      statement: "A manifest landing elsewhere is answered as a move rather than as a write.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const changeManifestWays = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest stating no way in is answered unchanged.",
+      statement: "A manifest stating no way in is answered as no edit.",
     },
     {
       invariantKind: "departure",

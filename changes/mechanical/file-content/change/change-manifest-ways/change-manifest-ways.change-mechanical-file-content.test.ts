@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { gathered, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
   landingFor,
@@ -36,7 +37,8 @@ const BROKEN = `{
 `
 
 function saidOf(moved: Record<string, string>, text: string): Answer {
-  return renameManifestWays({ at: AT, moved }, (path) => (path === AT ? text : null))
+  const textOf = (path: string): string | null => (path === AT ? text : null)
+  return gathered([widened(renameManifestWays({ at: AT, moved }, textOf), textOf)])
 }
 
 function bodyOf(moved: Record<string, string>, text: string): string {
@@ -132,22 +134,24 @@ test("a way in stated as text and landed outside goes with the exports key", () 
   expect(JSON.parse(said)).toEqual({ name: "@akasha/seat-system" })
 })
 
-test("a manifest stating no way in is answered unchanged", () => {
-  expect(
-    bodyOf(
-      { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
-      NO_WAYS
-    )
-  ).toBe(NO_WAYS)
+test("a manifest stating no way in is answered as no edit", () => {
+  const said = saidOf(
+    { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
+    NO_WAYS
+  )
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([])
 })
 
-test("a manifest naming no file that moved is answered unchanged", () => {
-  expect(
-    bodyOf(
-      { "seat-system/delta/delta.module.code.ts": "seat-system/held/delta.module.code.ts" },
-      BODY
-    )
-  ).toBe(BODY)
+test("a manifest naming no file that moved is answered as no edit", () => {
+  const said = saidOf(
+    { "seat-system/delta/delta.module.code.ts": "seat-system/held/delta.module.code.ts" },
+    BODY
+  )
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([])
 })
 
 test("a body that reads as no JSON object is refused", () => {
@@ -168,7 +172,10 @@ test("a manifest holding no body is refused", () => {
 })
 
 test("a manifest that stays is answered under the path the body was read from", () => {
-  const said = saidOf({}, BODY)
+  const said = saidOf(
+    { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
+    BODY
+  )
 
   expect(said.edits[0]?.path).toBe(AT)
   expect(said.edits[0]?.was).toBe(BODY)

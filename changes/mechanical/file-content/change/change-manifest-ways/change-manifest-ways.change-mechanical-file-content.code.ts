@@ -1,12 +1,13 @@
 import { dirname, join } from "node:path"
 import ts from "typescript"
 import {
-  answered,
   moving,
+  narrowed,
   refusing,
+  stating,
   writing,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const EXPORTS = "exports"
@@ -140,7 +141,7 @@ function spliced(text: string, splices: readonly Splice[]): string {
   return body
 }
 
-export function renameManifestWays(given: Asked, textOf: (path: string) => string | null): Answer {
+export function renameManifestWays(given: Asked, textOf: (path: string) => string | null): Said {
   const text = textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` holds no body, so no way in is repointed`)
   let read: unknown = null
@@ -156,11 +157,11 @@ export function renameManifestWays(given: Asked, textOf: (path: string) => strin
   const lands = moved.get(given.at) ?? given.at
   const source = ts.parseJsonText(given.at, text)
   const body = spliced(text, splicesFor(source, text, given.at, dirname(lands), moved))
-  return answered([
-    lands === given.at ? writing(given.at, text, body) : moving(given.at, lands, text, body),
-  ])
+  const one =
+    lands === given.at ? writing(given.at, text, body) : moving(given.at, lands, text, body)
+  return stating(narrowed(one))
 }
 
-export function runChange(world: World, given: Asked): Answer {
+export function runChange(world: World, given: Asked): Said {
   return renameManifestWays(given, world.textOf)
 }
