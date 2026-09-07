@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { bodyOf, idOf, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { runChange as changeFile } from "../../../mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   type Reaching,
   type World,
@@ -62,7 +62,9 @@ function repoIn(): string {
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/change-file-content") {
-    return Promise.resolve(changeFile(world, given as Parameters<typeof changeFile>[1]))
+    return Promise.resolve(
+      widened(changeFile(world, given as Parameters<typeof changeFile>[1]), world.textOf)
+    )
   }
   if (at === "change-mechanical-file-content/change-imports") {
     return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))

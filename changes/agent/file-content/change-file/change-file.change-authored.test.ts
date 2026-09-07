@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { changeFile } from "../../../mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { runChange as changeFile } from "../../../mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
+import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
@@ -14,7 +14,7 @@ type Passage = { at: string; old: string; new: string }
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/change-file-content") {
-    return Promise.resolve(changeFile(world, given as Passage))
+    return Promise.resolve(widened(changeFile(world, given as Passage), world.textOf))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
