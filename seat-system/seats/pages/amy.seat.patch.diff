@@ -114,10 +114,18 @@ index 0000000000000000000000000000000000000000..0226c845f27be59622d9c55b4f540c80
 +  expect(renderedType("rich-document")).toBe("rich-document")
 +})
 diff --git a/pages/access/file-property-defs/file-property-defs.module.ts b/pages/access/file-property-defs/file-property-defs.module.ts
-index 51019b542c1a29e0e85cde03ef9a89158786be18..988bdcfaa0f58e1eb5778a684eca76be52e23045 100644
+index 51019b542c1a29e0e85cde03ef9a89158786be18..2c84e36eaff9d48db754174ec600976e8d890614 100644
 --- a/pages/access/file-property-defs/file-property-defs.module.ts
 +++ b/pages/access/file-property-defs/file-property-defs.module.ts
-@@ -37,5 +37,17 @@ export const filePropertyDefs = {
+@@ -6,6 +6,7 @@ export const filePropertyDefs = {
+   slug: "file-property-defs",
+   definition: "the property definitions a file-backed page type declares",
+   code: "ts",
++  test: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+@@ -37,5 +38,17 @@ export const filePropertyDefs = {
        statement:
          "A definition's type is how a value is rendered rather than the page type declaring that property.",
      },
