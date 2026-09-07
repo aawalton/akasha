@@ -17,7 +17,7 @@ index 0000000000000000000000000000000000000000..53ebeae932d7188fb3bee7d3d1e5be75
 +  fileName: "vite.config.ts",
 +} as const satisfies NamedFileProperty
 diff --git a/code-system/router-apps/router-app.page-type.ts b/code-system/router-apps/router-app.page-type.ts
-index fd0f4d214da271681cb7f7b3cab33729857fbd3f..37c13e24ee869854b019202aeeb81c659be20117 100644
+index fd0f4d214da271681cb7f7b3cab33729857fbd3f..cb0ca313c9f57767a55d107bd90f4ee4836760e8 100644
 --- a/code-system/router-apps/router-app.page-type.ts
 +++ b/code-system/router-apps/router-app.page-type.ts
 @@ -6,6 +6,7 @@ import type { RootRoute } from "./properties/root-route.named-file-property.ts"
@@ -28,3 +28,11 @@ index fd0f4d214da271681cb7f7b3cab33729857fbd3f..37c13e24ee869854b019202aeeb81c65
  
  export type RouterApp = WorkspacePackage & {
    rootRoute: RootRoute
+@@ -14,6 +15,7 @@ export type RouterApp = WorkspacePackage & {
+   routerConfig: RouterConfig
+   compileConfig?: CompileConfig
+   appLayout?: AppLayout
++  viteConfig?: ViteConfig
+ }
+ 
+ export const routerApp = {
