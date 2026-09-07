@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
-import { type BodyOf, expanded, widened } from "./change-answer.module.code.ts"
+import { type BodyOf, expanded, gathered, narrowed, widened } from "./change-answer.module.code.ts"
+import type { Answer, Edit } from "./change-answer.module.types.ts"
 
 const AT = "akasha/one/held.ts"
 
@@ -177,6 +178,85 @@ test("an add onto the path a move earlier in the answer left is answered", () =>
     ],
     refused: null,
   })
+})
+
+function rounded(one: Edit, bodies: Readonly<Record<string, string>>): Answer {
+  return gathered([widened({ edits: narrowed(one), refused: null }, holding(bodies))])
+}
+
+test("a write onto a path holding nothing narrows to an add", () => {
+  expect(narrowed({ path: AT, was: null, body: "one" })).toEqual([
+    { kind: "add", path: AT, content: "one" },
+  ])
+})
+
+test("a write over a body narrows to a replace holding the body each side", () => {
+  expect(narrowed({ path: AT, was: "one", body: "two" })).toEqual([
+    { kind: "replace", path: AT, contentFrom: "one", contentTo: "two" },
+  ])
+})
+
+test("an edit stating no body narrows to a remove", () => {
+  expect(narrowed({ path: AT, was: "one", body: null })).toEqual([{ kind: "remove", path: AT }])
+})
+
+test("an edit leaving the body as it was narrows to nothing", () => {
+  expect(narrowed({ path: AT, was: "one", body: "one" })).toEqual([])
+})
+
+test("a move carrying the body unchanged narrows to a move alone", () => {
+  expect(narrowed({ path: AT, was: "one", body: "one", from: AWAY })).toEqual([
+    { kind: "move", pathFrom: AWAY, pathTo: AT },
+  ])
+})
+
+test("a move whose body changed narrows to a move and a replace", () => {
+  expect(narrowed({ path: AT, was: "one", body: "two", from: AWAY })).toEqual([
+    { kind: "move", pathFrom: AWAY, pathTo: AT },
+    { kind: "replace", path: AT, contentFrom: "one", contentTo: "two" },
+  ])
+})
+
+test("a move stating no body narrows to a remove of the path moved from", () => {
+  expect(narrowed({ path: AT, was: "one", body: null, from: AWAY })).toEqual([
+    { kind: "remove", path: AWAY },
+  ])
+})
+
+test("the reading an edit states is carried onto what that edit narrows to", () => {
+  expect(narrowed({ path: AT, was: null, body: "one", readersOweReading: false })).toEqual([
+    { readersOweReading: false, kind: "add", path: AT, content: "one" },
+  ])
+})
+
+test("a write onto a path holding nothing comes back as it was", () => {
+  const one = { path: AT, was: null, body: "one" }
+
+  expect(rounded(one, {})).toEqual({ edits: [one], refused: null })
+})
+
+test("a write over a body comes back as it was", () => {
+  const one = { path: AT, was: "one", body: "two" }
+
+  expect(rounded(one, { [AT]: "one" })).toEqual({ edits: [one], refused: null })
+})
+
+test("an edit stating no body comes back as it was", () => {
+  const one = { path: AT, was: "one", body: null }
+
+  expect(rounded(one, { [AT]: "one" })).toEqual({ edits: [one], refused: null })
+})
+
+test("a move carrying the body unchanged comes back as it was", () => {
+  const one = { path: AT, was: "one", body: "one", from: AWAY }
+
+  expect(rounded(one, { [AWAY]: "one" })).toEqual({ edits: [one], refused: null })
+})
+
+test("a move whose body changed comes back as it was", () => {
+  const one = { path: AT, was: "one", body: "two", from: AWAY }
+
+  expect(rounded(one, { [AWAY]: "one" })).toEqual({ edits: [one], refused: null })
 })
 
 test("one edit refused refuses the whole answer", () => {
