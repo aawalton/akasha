@@ -36,7 +36,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "The patch a landing works out is held by no page property.",
       workingMemory:
-        'The tracked `.patch.diff` files are the old store the edits ref replaces; a patch exists from here only to keep the git mechanics clean. The four still tracked, for ali, athena and the subagents of awen and olwen, are resolved before the property is dropped. `patch-keeping` still calls `besideAt(page, "patch", "diff")` and 10 tests assert that file. `edits.file-property.ts` is already stale, since no `.edits.jsonl` is on disk.',
+        "Alan ruled that the patch store and the `patch` commands both go, `resolve` ablated rather than reshaped, leaving the edits ref the sole store and a patch worked out in memory for the git mechanics. It is proven derivable: a patch rebuilds from the edits byte for byte, and a conflict mark is recomputed rather than remembered. In order: close the fold's crash window, hand the patch to the landing in memory, clear the residue, stop the writer, drop the properties.",
     },
     {
       statement: "Every property a command's page type declares is read.",
