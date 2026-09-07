@@ -1,0 +1,27 @@
+diff --git a/bun.lock b/bun.lock
+index 73e37b13340c6bcbb5063793a7dd67967460080b..ecc8357adffb071df568415e0bdd6e0b02001f87 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -1232,6 +1232,9 @@
+     },
+     "pages/indexes": {
+       "name": "@akasha/indexes",
++      "dependencies": {
++        "@akasha/code": "workspace:*",
++      },
+     },
+     "pages/query": {
+       "name": "@akasha/pages-query",
+diff --git a/pages/indexes/package.json b/pages/indexes/package.json
+index 280c35cbbb999e0df29f3bcdf045539bf0156ac4..8fa997b12874ec2cd6a38f0e16a560add9250f11 100644
+--- a/pages/indexes/package.json
++++ b/pages/indexes/package.json
+@@ -19,5 +19,8 @@
+     "./relation": "./relation/index-relation.index.code.ts",
+     "./shape": "./shape/index-shape.module.code.ts",
+     "./testing": "./reading/index-reading.module.test-fixtures.ts"
++  },
++  "dependencies": {
++    "@akasha/code": "workspace:*"
+   }
+ }
