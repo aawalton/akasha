@@ -51,7 +51,7 @@ export const akashaFolderShape = {
   constraints: [
     "A page address is a structured value rather than a string.",
     "An address carries what its index path needs, so a lookup composes that path and reads one file.",
-    "The identity index files under a level, then a scope, then a property, then a value.",
+    "The identity index files under a level — `page`, `page-type` or `page-property` — then a scope, then a property, then a value.",
     "A property declaration names its scoping property under `uniqueScope`.",
     "A property `uniqueScope` names is declared on the same page type, is required, and carries one value.",
     "A reach is `always` or `page-type`, and `uniqueScope` narrows `page-type`.",
