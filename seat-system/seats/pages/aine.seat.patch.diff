@@ -1,0 +1,563 @@
+writerOwesReading: false
+diff --git a/changes/checked/pages/rename-code-token/rename-code-token.change-checked.code.ts b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.code.ts
+index d11ce6e6400c9e5140f77fa4d52bc0863cbf1fce..13dbaa630c49dd20958e9267e4a6850e215e73ab 100644
+--- a/changes/checked/pages/rename-code-token/rename-code-token.change-checked.code.ts
++++ b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.code.ts
+@@ -19,7 +19,7 @@ import { reach, type World } from "../../../modules/change-shadow/change-shadow.
+ 
+ export const LINE = "--line"
+ 
+-const RENAME_EXPORT = "change-mechanical/rename-export"
++const RENAME_EXPORT = "change-mechanical-code/rename-export"
+ 
+ const RENAME_LOCAL_VARIABLE = "change-mechanical/rename-local-variable"
+ 
+diff --git a/changes/checked/pages/rename-code-token/rename-code-token.change-checked.test.ts b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.test.ts
+index 1fc4a519b16167d2146ce6fef747ab10dad3b090..db432c05558d540d49065c05e1807c9929571104 100644
+--- a/changes/checked/pages/rename-code-token/rename-code-token.change-checked.test.ts
++++ b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.test.ts
+@@ -7,7 +7,7 @@ import {
+   scratch,
+   textIn,
+ } from "@akasha/indexes/indexing/testing"
+-import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical.code.ts"
++import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts"
+ import { runChange as renameLocalVariable } from "../../../mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.code.ts"
+ import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+@@ -31,7 +31,7 @@ const PAGE_BODY = `export const held = 1\n`
+ 
+ function worldIn(root: string, textOf: (path: string) => string | null): World {
+   return worldAt(root, textOf, async (world, at, given) => {
+-    if (at === "change-mechanical/rename-export") {
++    if (at === "change-mechanical-code/rename-export") {
+       return await renameExport(world, given as Parameters<typeof renameExport>[1])
+     }
+     if (at === "change-mechanical/rename-local-variable") {
+@@ -143,7 +143,7 @@ test("an exported name is handed to the change reached at the export address", a
+ 
+   await renameCodeToken(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
+ 
+-  expect(reached).toEqual(["change-mechanical/rename-export"])
++  expect(reached).toEqual(["change-mechanical-code/rename-export"])
+ })
+ 
+ test("a local name is handed to the change reached at the local address", async () => {
+diff --git a/changes/checked/pages/rename-page/rename-page.change-checked.test.ts b/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
+index df6dcb4a5df0ff06a5a24e4665f020e782a46c53..a514615a34f3128de52e84ad22e913ca098cbea6 100644
+--- a/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
++++ b/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
+@@ -13,7 +13,7 @@ import {
+   textIn,
+ } from "@akasha/indexes/indexing/testing"
+ import { runChange as changePageProperty } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
+-import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical.code.ts"
++import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts"
+ import { runChange as renameImports } from "../../../mechanical/pages/rename-imports/rename-imports.change-mechanical.code.ts"
+ import { runChange as renamePageSlug } from "../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts"
+ import { runChange as renamePathChange } from "../../../mechanical/pages/rename-path/rename-path.change-mechanical-file.code.ts"
+@@ -66,7 +66,7 @@ const RUNS: Reaching = async (world, at, given) => {
+   if (at === "change-mechanical/change-page-property") {
+     return changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+   }
+-  if (at === "change-mechanical/rename-export") {
++  if (at === "change-mechanical-code/rename-export") {
+     return renameExport(world, given as Parameters<typeof renameExport>[1])
+   }
+   if (at === "change-mechanical/rename-imports") {
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index bc3d08951bcd3052c2634975b9f642e70141457f..b5f1f6848c745077fae11887867b46e446bee485 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -39,7 +39,7 @@ export const changeMechanical = {
+     "change-mechanical/remove-page",
+     "change-mechanical/remove-page-type",
+     "change-mechanical/remove-property-value",
+-    "change-mechanical/rename-export",
++    "change-mechanical-code/rename-export",
+     "change-mechanical/rename-local-variable",
+     "change-mechanical/rename-page-slug",
+     "change-mechanical-file/rename-path",
+diff --git a/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts b/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..968485f2e88e9554f33376cd2747a0aa739da22b
+--- /dev/null
++++ b/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts
+@@ -0,0 +1,74 @@
++import {
++  boundAs,
++  exportsNamed,
++  reachedFrom,
++  readingOf,
++  referencesOf,
++  typingOver,
++} from "@akasha/code/code-typing"
++import {
++  answered,
++  refusing,
++  writing,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++
++type Spot = {
++  readonly start: number
++  readonly end: number
++  readonly put: string
++}
++
++export function renameExport(
++  root: string,
++  at: string,
++  over: readonly string[],
++  of: string,
++  to: string,
++  textOf: (path: string) => string | null
++): Answer {
++  const typing = typingOver(root, over, readingOf(root, textOf))
++  const declared = new Set(exportsNamed(typing, at, of))
++  if (declared.size === 0) return refusing(`\`${at}\` exports no \`${of}\``)
++  const held = new Map<string, Spot[]>()
++  const seen = new Set<string>()
++  for (const found of referencesOf(typing, root, declared)) {
++    const spot = `${found.path}:${found.start}`
++    if (seen.has(spot)) continue
++    seen.add(spot)
++    const spots = held.get(found.path) ?? []
++    spots.push({ start: found.start, end: found.end, put: boundAs(found, of, to) })
++    held.set(found.path, spots)
++  }
++  if (held.size === 0) return refusing(`nothing names \`${of}\`, so there is nothing to spell`)
++  for (const path of held.keys()) {
++    const source = typing.sourceAt(path)
++    if (source === null) return refusing(`\`${path}\` would change and could not be read`)
++    if (reachedFrom(typing, source, to).length > 0) {
++      return refusing(`\`${path}\` already reaches a \`${to}\``)
++    }
++  }
++  const edits: Edit[] = []
++  for (const [path, spots] of held) {
++    const text = textOf(path)
++    if (text === null) return refusing(`\`${path}\` would change and could not be read`)
++    let body = text
++    for (const one of [...spots].sort((here, there) => there.start - here.start)) {
++      body = body.slice(0, one.start) + one.put + body.slice(one.end)
++    }
++    edits.push(writing(path, text, body))
++  }
++  return answered(edits)
++}
++
++export type Given = {
++  readonly at: string
++  readonly over: readonly string[]
++  readonly of: string
++  readonly to: string
++}
++
++export function runChange(world: World, given: Given): Answer {
++  return renameExport(world.root, given.at, given.over, given.of, given.to, world.textOf)
++}
+diff --git a/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.test.ts b/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..708764e556fd6e1eb2305e3c19fb9a69c9d3a162
+--- /dev/null
++++ b/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.test.ts
+@@ -0,0 +1,115 @@
++import { afterAll, expect, test } from "bun:test"
++import {
++  bodyOf,
++  HELD_CODE,
++  HELD_EXPORT,
++  idOf,
++  indexedRepo,
++  NAMER_CODE,
++  scratch,
++  textIn,
++} from "@akasha/indexes/indexing/testing"
++import { renameExport } from "./rename-export.change-mechanical-code.code.ts"
++
++afterAll(scratch.sweep)
++
++const CARRIED = "carried"
++
++const SHORT_PAGE = "akasha/five/short.module.ts"
++
++const SHORT_CODE = "akasha/five/short.module.code.ts"
++
++const SHORT_BODY = `import { ${HELD_EXPORT} } from "../one/held.module.code.ts"
++
++export const short = { ${HELD_EXPORT} }
++`
++
++const shorthandRepo = (): string =>
++  indexedRepo({
++    [SHORT_PAGE]: bodyOf({ id: idOf("f"), pageTypeSlug: "module", slug: "short", code: "ts" }),
++    [SHORT_CODE]: SHORT_BODY,
++  })
++
++test("the declaring file and the paths handed in beside it are both spelled anew", () => {
++  const root = indexedRepo()
++  const said = renameExport(
++    root,
++    HELD_CODE,
++    [HELD_CODE, NAMER_CODE],
++    HELD_EXPORT,
++    CARRIED,
++    textIn(root)
++  )
++  expect(said.refused).toBe(null)
++  expect(said.edits.map((one) => one.path).sort()).toEqual([HELD_CODE, NAMER_CODE])
++  expect(said.edits.find((one) => one.path === HELD_CODE)?.body).toBe(
++    `export const ${CARRIED} = 1\n`
++  )
++  expect(said.edits.find((one) => one.path === NAMER_CODE)?.body).toBe(
++    `import { ${CARRIED} } from "../one/held.module.code.ts"\n\nexport const named = ${CARRIED} + 1\n`
++  )
++})
++
++test("each body is answered beside the body it was worked out from", () => {
++  const root = indexedRepo()
++  const text = textIn(root)
++  const said = renameExport(root, HELD_CODE, [HELD_CODE, NAMER_CODE], HELD_EXPORT, CARRIED, text)
++  for (const one of said.edits) {
++    expect(one.was).toBe(text(one.path))
++    expect(one.from).toBe(undefined)
++  }
++})
++
++test("a file left out of the paths handed in is left as that file is", () => {
++  const root = indexedRepo()
++  const said = renameExport(root, HELD_CODE, [HELD_CODE], HELD_EXPORT, CARRIED, textIn(root))
++  expect(said.refused).toBe(null)
++  expect(said.edits.map((one) => one.path).sort()).toEqual([HELD_CODE])
++})
++
++test("a file exporting no such name is refused", () => {
++  const root = indexedRepo()
++  const said = renameExport(root, HELD_CODE, [HELD_CODE], "missing", CARRIED, textIn(root))
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${HELD_CODE}\` exports no \`missing\``)
++})
++
++test("a file that would change and already reaches the new name is refused", () => {
++  const root = indexedRepo()
++  const said = renameExport(
++    root,
++    HELD_CODE,
++    [HELD_CODE, NAMER_CODE],
++    HELD_EXPORT,
++    "named",
++    textIn(root)
++  )
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${NAMER_CODE}\` already reaches a \`named\``)
++})
++
++test("a shorthand keeps its key and points its value at the new name", () => {
++  const root = shorthandRepo()
++  const said = renameExport(
++    root,
++    HELD_CODE,
++    [HELD_CODE, SHORT_CODE],
++    HELD_EXPORT,
++    CARRIED,
++    textIn(root)
++  )
++  expect(said.refused).toBe(null)
++  expect(said.edits.find((one) => one.path === SHORT_CODE)?.body).toBe(
++    `import { ${CARRIED} } from "../one/held.module.code.ts"\n\nexport const short = { ${HELD_EXPORT}: ${CARRIED} }\n`
++  )
++})
++
++test("the bodies are answered rather than written", () => {
++  const root = indexedRepo()
++  const text = textIn(root)
++  expect(
++    renameExport(root, HELD_CODE, [HELD_CODE, NAMER_CODE], HELD_EXPORT, CARRIED, text).refused
++  ).toBe(null)
++  expect(text(HELD_CODE)).toBe(`export const ${HELD_EXPORT} = 1\n`)
++  expect(text(NAMER_CODE)).toContain(`import { ${HELD_EXPORT} }`)
++})
+diff --git a/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.ts b/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..52c993168f0157ec3e8d117addb3184a093bc86a
+--- /dev/null
++++ b/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.ts
+@@ -0,0 +1,13 @@
++import type { ChangeMechanicalCode } from "../../code/change-mechanical-code.page-type.ts"
++
++export const renameExport = {
++  id: "01a07718-c9b7-70da-a720-619f59483340",
++  pageTypeSlug: "change-mechanical-code",
++  slug: "rename-export",
++  definition: "a name one body exports spelled anew across the paths a caller hands in",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies ChangeMechanicalCode
+diff --git a/changes/mechanical/pages/rename-export/rename-export.change-mechanical.code.ts b/changes/mechanical/pages/rename-export/rename-export.change-mechanical.code.ts
+deleted file mode 100644
+index 968485f2e88e9554f33376cd2747a0aa739da22b..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/rename-export/rename-export.change-mechanical.code.ts
++++ /dev/null
+@@ -1,74 +0,0 @@
+-import {
+-  boundAs,
+-  exportsNamed,
+-  reachedFrom,
+-  readingOf,
+-  referencesOf,
+-  typingOver,
+-} from "@akasha/code/code-typing"
+-import {
+-  answered,
+-  refusing,
+-  writing,
+-} from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-
+-type Spot = {
+-  readonly start: number
+-  readonly end: number
+-  readonly put: string
+-}
+-
+-export function renameExport(
+-  root: string,
+-  at: string,
+-  over: readonly string[],
+-  of: string,
+-  to: string,
+-  textOf: (path: string) => string | null
+-): Answer {
+-  const typing = typingOver(root, over, readingOf(root, textOf))
+-  const declared = new Set(exportsNamed(typing, at, of))
+-  if (declared.size === 0) return refusing(`\`${at}\` exports no \`${of}\``)
+-  const held = new Map<string, Spot[]>()
+-  const seen = new Set<string>()
+-  for (const found of referencesOf(typing, root, declared)) {
+-    const spot = `${found.path}:${found.start}`
+-    if (seen.has(spot)) continue
+-    seen.add(spot)
+-    const spots = held.get(found.path) ?? []
+-    spots.push({ start: found.start, end: found.end, put: boundAs(found, of, to) })
+-    held.set(found.path, spots)
+-  }
+-  if (held.size === 0) return refusing(`nothing names \`${of}\`, so there is nothing to spell`)
+-  for (const path of held.keys()) {
+-    const source = typing.sourceAt(path)
+-    if (source === null) return refusing(`\`${path}\` would change and could not be read`)
+-    if (reachedFrom(typing, source, to).length > 0) {
+-      return refusing(`\`${path}\` already reaches a \`${to}\``)
+-    }
+-  }
+-  const edits: Edit[] = []
+-  for (const [path, spots] of held) {
+-    const text = textOf(path)
+-    if (text === null) return refusing(`\`${path}\` would change and could not be read`)
+-    let body = text
+-    for (const one of [...spots].sort((here, there) => there.start - here.start)) {
+-      body = body.slice(0, one.start) + one.put + body.slice(one.end)
+-    }
+-    edits.push(writing(path, text, body))
+-  }
+-  return answered(edits)
+-}
+-
+-export type Given = {
+-  readonly at: string
+-  readonly over: readonly string[]
+-  readonly of: string
+-  readonly to: string
+-}
+-
+-export function runChange(world: World, given: Given): Answer {
+-  return renameExport(world.root, given.at, given.over, given.of, given.to, world.textOf)
+-}
+diff --git a/changes/mechanical/pages/rename-export/rename-export.change-mechanical.test.ts b/changes/mechanical/pages/rename-export/rename-export.change-mechanical.test.ts
+deleted file mode 100644
+index a779e171368a2b464f404f2c1117dece74f80a6b..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/rename-export/rename-export.change-mechanical.test.ts
++++ /dev/null
+@@ -1,115 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import {
+-  bodyOf,
+-  HELD_CODE,
+-  HELD_EXPORT,
+-  idOf,
+-  indexedRepo,
+-  NAMER_CODE,
+-  scratch,
+-  textIn,
+-} from "@akasha/indexes/indexing/testing"
+-import { renameExport } from "./rename-export.change-mechanical.code.ts"
+-
+-afterAll(scratch.sweep)
+-
+-const CARRIED = "carried"
+-
+-const SHORT_PAGE = "akasha/five/short.module.ts"
+-
+-const SHORT_CODE = "akasha/five/short.module.code.ts"
+-
+-const SHORT_BODY = `import { ${HELD_EXPORT} } from "../one/held.module.code.ts"
+-
+-export const short = { ${HELD_EXPORT} }
+-`
+-
+-const shorthandRepo = (): string =>
+-  indexedRepo({
+-    [SHORT_PAGE]: bodyOf({ id: idOf("f"), pageTypeSlug: "module", slug: "short", code: "ts" }),
+-    [SHORT_CODE]: SHORT_BODY,
+-  })
+-
+-test("the declaring file and the paths handed in beside it are both spelled anew", () => {
+-  const root = indexedRepo()
+-  const said = renameExport(
+-    root,
+-    HELD_CODE,
+-    [HELD_CODE, NAMER_CODE],
+-    HELD_EXPORT,
+-    CARRIED,
+-    textIn(root)
+-  )
+-  expect(said.refused).toBe(null)
+-  expect(said.edits.map((one) => one.path).sort()).toEqual([HELD_CODE, NAMER_CODE])
+-  expect(said.edits.find((one) => one.path === HELD_CODE)?.body).toBe(
+-    `export const ${CARRIED} = 1\n`
+-  )
+-  expect(said.edits.find((one) => one.path === NAMER_CODE)?.body).toBe(
+-    `import { ${CARRIED} } from "../one/held.module.code.ts"\n\nexport const named = ${CARRIED} + 1\n`
+-  )
+-})
+-
+-test("each body is answered beside the body it was worked out from", () => {
+-  const root = indexedRepo()
+-  const text = textIn(root)
+-  const said = renameExport(root, HELD_CODE, [HELD_CODE, NAMER_CODE], HELD_EXPORT, CARRIED, text)
+-  for (const one of said.edits) {
+-    expect(one.was).toBe(text(one.path))
+-    expect(one.from).toBe(undefined)
+-  }
+-})
+-
+-test("a file left out of the paths handed in is left as that file is", () => {
+-  const root = indexedRepo()
+-  const said = renameExport(root, HELD_CODE, [HELD_CODE], HELD_EXPORT, CARRIED, textIn(root))
+-  expect(said.refused).toBe(null)
+-  expect(said.edits.map((one) => one.path).sort()).toEqual([HELD_CODE])
+-})
+-
+-test("a file exporting no such name is refused", () => {
+-  const root = indexedRepo()
+-  const said = renameExport(root, HELD_CODE, [HELD_CODE], "missing", CARRIED, textIn(root))
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(`\`${HELD_CODE}\` exports no \`missing\``)
+-})
+-
+-test("a file that would change and already reaches the new name is refused", () => {
+-  const root = indexedRepo()
+-  const said = renameExport(
+-    root,
+-    HELD_CODE,
+-    [HELD_CODE, NAMER_CODE],
+-    HELD_EXPORT,
+-    "named",
+-    textIn(root)
+-  )
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(`\`${NAMER_CODE}\` already reaches a \`named\``)
+-})
+-
+-test("a shorthand keeps its key and points its value at the new name", () => {
+-  const root = shorthandRepo()
+-  const said = renameExport(
+-    root,
+-    HELD_CODE,
+-    [HELD_CODE, SHORT_CODE],
+-    HELD_EXPORT,
+-    CARRIED,
+-    textIn(root)
+-  )
+-  expect(said.refused).toBe(null)
+-  expect(said.edits.find((one) => one.path === SHORT_CODE)?.body).toBe(
+-    `import { ${CARRIED} } from "../one/held.module.code.ts"\n\nexport const short = { ${HELD_EXPORT}: ${CARRIED} }\n`
+-  )
+-})
+-
+-test("the bodies are answered rather than written", () => {
+-  const root = indexedRepo()
+-  const text = textIn(root)
+-  expect(
+-    renameExport(root, HELD_CODE, [HELD_CODE, NAMER_CODE], HELD_EXPORT, CARRIED, text).refused
+-  ).toBe(null)
+-  expect(text(HELD_CODE)).toBe(`export const ${HELD_EXPORT} = 1\n`)
+-  expect(text(NAMER_CODE)).toContain(`import { ${HELD_EXPORT} }`)
+-})
+diff --git a/changes/mechanical/pages/rename-export/rename-export.change-mechanical.ts b/changes/mechanical/pages/rename-export/rename-export.change-mechanical.ts
+deleted file mode 100644
+index 5a4fef32915078660d52b20be51b00baf0f56f52..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/rename-export/rename-export.change-mechanical.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+-
+-export const renameExport = {
+-  id: "01a07718-c9b7-70da-a720-619f59483340",
+-  pageTypeSlug: "change-mechanical",
+-  slug: "rename-export",
+-  definition: "a name one body exports spelled anew across the paths a caller hands in",
+-  code: "ts",
+-  test: "ts",
+-  runsChecks: false,
+-  readersOweReading: false,
+-  writerOwesReading: false,
+-} as const satisfies ChangeMechanical
+diff --git a/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts b/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts
+index 851013a862baff3574382b0498a24d2c0c9daae4..6e7c3d4c3ff66e0c5549880dcdfb5c412b4c0762 100644
+--- a/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts
++++ b/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts
+@@ -20,7 +20,7 @@ import { boundIn, keyOf, statedIn } from "../../../modules/page-literal/page-lit
+ 
+ const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
+ 
+-const RENAME_EXPORT = "change-mechanical/rename-export"
++const RENAME_EXPORT = "change-mechanical-code/rename-export"
+ 
+ const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
+ 
+diff --git a/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.test.ts b/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.test.ts
+index 6ac16c34f22f809b09e491448106e0b913431441..830ed03116e4f358bb2bdae3a8688ca999494aaa 100644
+--- a/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.test.ts
++++ b/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.test.ts
+@@ -10,7 +10,7 @@ import {
+ import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical.code.ts"
+-import { runChange as renameExport } from "../rename-export/rename-export.change-mechanical.code.ts"
++import { runChange as renameExport } from "../rename-export/rename-export.change-mechanical-code.code.ts"
+ import { renameSlug } from "./rename-page-slug.change-mechanical.code.ts"
+ 
+ afterAll(scratch.sweep)
+@@ -45,7 +45,7 @@ function worldIn(root: string, textOf: (path: string) => string | null): World {
+         changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+       )
+     }
+-    if (at === "change-mechanical/rename-export") {
++    if (at === "change-mechanical-code/rename-export") {
+       return Promise.resolve(renameExport(world, given as Parameters<typeof renameExport>[1]))
+     }
+     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+@@ -234,6 +234,6 @@ test("the plural and the export rename are reached at their own addresses", asyn
+ 
+   expect(reached).toEqual([
+     "change-mechanical/change-page-property",
+-    "change-mechanical/rename-export",
++    "change-mechanical-code/rename-export",
+   ])
+ })
