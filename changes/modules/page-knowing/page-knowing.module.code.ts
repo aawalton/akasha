@@ -16,16 +16,26 @@ export function targetsIn(known: Shaped, value: Value, key: string): readonly st
   return slug === null ? [] : eachTarget(known.targetOf(slug))
 }
 
+export type Held = { readonly known: Shaped } | { readonly refused: string }
+
+export function heldIn(world: World): Held {
+  try {
+    return { known: world.index.knownIn() }
+  } catch (cause) {
+    return { refused: cause instanceof Error ? cause.message : String(cause) }
+  }
+}
+
 export function readFor(world: World, at: string): Read {
-  let known: Shaped
+  const held = heldIn(world)
+  if ("refused" in held) return { refused: `${held.refused}, so \`${at}\` was not read` }
   let value: Value | null
   try {
-    known = world.index.knownIn()
     value = pageIn(world, at)
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
     return { refused: `${why}, so \`${at}\` was not read` }
   }
   if (value === null) return { refused: `\`${at}\` names no page` }
-  return { known, value }
+  return { known: held.known, value }
 }

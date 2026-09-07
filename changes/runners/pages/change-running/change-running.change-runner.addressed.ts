@@ -8,6 +8,9 @@ export type Changes = {
   "change-checked/add-property-value": Parameters<
     typeof import("../../../checked/pages/add-property-value/add-property-value.change-checked.code.ts")["runChange"]
   >[1]
+  "change-checked/change-domain-parent": Parameters<
+    typeof import("../../../checked/pages/change-domain-parent/change-domain-parent.change-checked.code.ts")["runChange"]
+  >[1]
   "change-checked/change-page-page-type": Parameters<
     typeof import("../../../checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts")["runChange"]
   >[1]
