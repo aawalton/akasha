@@ -18,6 +18,7 @@
     "./talosctl": "./talosctl/talosctl.module.code.ts"
   },
   "dependencies": {
+    "@akasha/code": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/k8s-types": "workspace:*",
     "@akasha/pages": "workspace:*",
