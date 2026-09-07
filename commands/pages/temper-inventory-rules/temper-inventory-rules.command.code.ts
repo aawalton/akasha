@@ -3,7 +3,7 @@ import type { Answer, Given } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
-import { loadTemperInventoryConfigFromPath } from "../inventory-config-reading/inventory-config-reading.module.code.ts"
+import { loadTemperInventoryConfigFromPath } from "../../../temper/temper-commands/inventory-config-reading/inventory-config-reading.module.code.ts"
 
 const INPUT = 1
 
