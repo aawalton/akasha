@@ -9,8 +9,11 @@ export const seatIdentity = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A seat still there is answered by akasha, and a seat that has stopped by the history.",
+      statement: "A seat still there is answered by akasha.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat that has stopped is answered by the history.",
     },
     {
       invariantKind: "departure",
