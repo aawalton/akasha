@@ -15,6 +15,23 @@ describe("classifyTestflightFailure", () => {
     expect(c?.remediation).toContain("App Manager")
   })
 
+  test("a profile-API failure is ASC_PROFILE_ERROR rather than a keychain fault", () => {
+    const c = classifyTestflightFailure(
+      "OK: composed App entitlements\nASC_PROFILE_ERROR: cannot create app-store profile (500)"
+    )
+    expect(c?.failureClass).toBe("ASC_PROFILE_ERROR")
+    expect(c?.remediation).toContain("ssh")
+    expect(c?.remediation).toContain("re-run")
+    expect(c?.remediation).not.toContain("login keychain")
+  })
+
+  test("the keychain remediation says the mac is the harness's own to mend", () => {
+    const c = classifyTestflightFailure("Capacitor.framework: errSecInternalComponent")
+    expect(c?.failureClass).toBe("SIGNING_KEYCHAIN_ERROR")
+    expect(c?.remediation).toContain("ssh")
+    expect(c?.remediation).toContain("rather than Alan's")
+  })
+
   test("codesign errSecInternalComponent → SIGNING_KEYCHAIN_ERROR", () => {
     const c = classifyTestflightFailure(
       "Capacitor.framework: replacing existing signature\nCapacitor.framework: errSecInternalComponent"
