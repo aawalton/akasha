@@ -30,7 +30,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "The git origin clears the debris an aborted push leaves behind it.",
       workingMemory:
-        "The sweep is landed at 72b46fea: a `git-transport-janitor` CronJob runs hourly on node-03, mounts the repositories, and takes away every `tmp_objdir-*` and `tmp_pack_*` older than 180 minutes, naming each path removed. The YAML renders and the sweep was run here over a fake tree, taking the two stale entries and leaving the fresh ones. The workflow step applying the CronJob landed at 13e1d86c, so what is unseen from here is the cluster running the job.",
+        "The sweep is landed at 72b46fea and the step applying it at 13e1d86c, but the CronJob is in no namespace: `kubectl get cronjob -n git` answers none. The origin is at 83db1ea3 from 08:08 while this checkout is 831 commits past it, so no run has ever seen the step. The origin carries no debris at this moment either, nothing named `tmp_objdir-*` or `tmp_pack_*` under its 2.6G of repositories. What is left is a push reaching the origin.",
     },
   ],
 } as const satisfies Initiative
