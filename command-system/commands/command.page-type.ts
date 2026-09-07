@@ -103,6 +103,7 @@ export const command = {
     "namespace/seat",
     "namespace/track",
     "namespace/exercise",
+    "namespace/email",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/calling",
