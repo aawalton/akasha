@@ -47,6 +47,28 @@ index 0000000000000000000000000000000000000000..cb5a803bd5948a199f60f71fb17312ce
 +    },
 +  ],
 +} as const satisfies CalendarDateProperty
+diff --git a/temper/temper-progress/progress-things/properties/due-date.text-property.ts b/temper/temper-progress/progress-things/properties/due-date.text-property.ts
+deleted file mode 100644
+index 7da7eb3db2f5dfefada926aa1aef263a28e09160..0000000000000000000000000000000000000000
+--- a/temper/temper-progress/progress-things/properties/due-date.text-property.ts
++++ /dev/null
+@@ -1,16 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type DueDate = string
+-
+-export const dueDate = {
+-  id: "01a05fc6-81fc-7485-b3cd-4d985650b1af",
+-  pageTypeSlug: "text-property",
+-  slug: "due-date",
+-  propertySlug: "due-date",
+-  definition: "the day a task is next wanted",
+-  maxLength: 10,
+-  nameFormatSlug: null,
+-  invariants: [
+-    { invariantKind: "departure", statement: "A due date is written as an ISO 8601 calendar day." },
+-  ],
+-} as const satisfies TextProperty
 diff --git a/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts b/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
 index e7d6b7ea005f08ade8153812c7ddafabd7898570..5a682f3b4ad0735fcdb2a4571bd1db6ef307cb92 100644
 --- a/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
