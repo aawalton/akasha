@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/inference/commands/inference-plan/inference-plan.command.ts b/inference/commands/inference-plan/inference-plan.command.ts
+index 8864e21a06ed949b63dae6dd09114f6e10a5d55d..4eeb40aa5fea32abbb0f0a3bc1cfd0a3874d6acc 100644
+--- a/inference/commands/inference-plan/inference-plan.command.ts
++++ b/inference/commands/inference-plan/inference-plan.command.ts
+@@ -23,7 +23,7 @@ export const inferencePlan = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing on a host is written, started or taken away.",
++      statement: "Nothing on a host is written or started or taken away.",
+     },
+   ],
+ } as const satisfies Command
