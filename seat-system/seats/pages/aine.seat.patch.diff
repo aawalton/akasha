@@ -1,3 +1,34 @@
+diff --git a/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts b/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts
+index ebd31ca47b76d4668a3f1987b3a737bef87dfd4e..55442331262410aceb7f08bca85e7b9980b378c7 100644
+--- a/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts
++++ b/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts
+@@ -1,4 +1,5 @@
+ import { expect, test } from "bun:test"
++import { reading } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+ import { moveFile } from "./move-file.change-mechanical.code.ts"
+ 
+ const FROM = "akasha/one.held.ts"
+diff --git a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts b/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
+index b8469c7964aaef9e62d7b9bca92ced693fa030ed..e56d75d1de390ad63f9791b539fa554577355199 100644
+--- a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
++++ b/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
+@@ -1,4 +1,5 @@
+ import { expect, test } from "bun:test"
++import { reading } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+ import { removeFile } from "./remove-file.change-mechanical.code.ts"
+ 
+ const AT = "akasha/one.held.ts"
+diff --git a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts
+index 9a67381d89d50f4085426da461a2c4d1489d9e8b..a245a48fcc139043fa6ee6d7b26de4eaa5f8c3b1 100644
+--- a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts
++++ b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts
+@@ -1,5 +1,6 @@
+ import { expect, test } from "bun:test"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { reading } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+ import {
+   landsOn,
+   removeManifestWays,
 diff --git a/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts b/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..4b00745a204bd2dee7d7a01028cae899d9b9bd51
@@ -7,3 +38,24 @@ index 0000000000000000000000000000000000000000..4b00745a204bd2dee7d7a01028cae899
 +export function reading(held: Record<string, string>): (path: string) => string | null {
 +  return (path) => held[path] ?? null
 +}
+diff --git a/changes/modules/change-shadow/change-shadow.module.ts b/changes/modules/change-shadow/change-shadow.module.ts
+index 2b33ec5edcfb563b8fac4ccc382bba5ad69717d9..fead93bd704b03e4f13df0b618aa1044e5c0606d 100644
+--- a/changes/modules/change-shadow/change-shadow.module.ts
++++ b/changes/modules/change-shadow/change-shadow.module.ts
+@@ -7,11 +7,16 @@ export const changeShadow = {
+   definition: "the files and index as the answer a change gives would leave both",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+       statement: "An answer is cast as the change shape the shadow already reads.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A reader of bodies a test hands a change is built here for every such test.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A path a move leaves is among the paths the change changed.",
