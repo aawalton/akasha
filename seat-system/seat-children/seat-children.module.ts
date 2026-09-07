@@ -18,8 +18,11 @@ export const seatChildren = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A seat nobody is present in is nobody's child, because the count is of live children.",
+      statement: "A seat nobody is present in is nobody's child.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The count is of live children.",
     },
     {
       invariantKind: "departure",
