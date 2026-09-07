@@ -144,6 +144,30 @@ index 2726b4d1a75474c9458a80ca867e29a88dc39676..875a24e44fd8e6c7fdcb2d5cb8f1fa14
                >
                  {isCompleted ? (
                    <CheckCircle2 className="size-4.5 text-success" />
+diff --git a/pages/ui/components/page-card/page-card.module.ts b/pages/ui/components/page-card/page-card.module.ts
+index 889c964b48313fbad49b864d47375431bfb1585b..1e24a5fc3df9e35bac5776d0a441ed3b72492e22 100644
+--- a/pages/ui/components/page-card/page-card.module.ts
++++ b/pages/ui/components/page-card/page-card.module.ts
+@@ -6,4 +6,19 @@ export const pageCard = {
+   slug: "page-card",
+   definition: "a page shown as a card with its icon, title, cover and properties",
+   code: "tsx",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A card whose page type carries a completion draws a circle where its icon goes.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The keys the circle reads and writes come from the page type rather than the card.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page type carrying no completion draws its icon and no circle.",
++    },
++  ],
+ } as const satisfies Module
 diff --git a/pages/ui/components/page-table/page-table.module.code.tsx b/pages/ui/components/page-table/page-table.module.code.tsx
 index fcba0c7a5457c8e400aadd6446765cfd089da3b1..c4c6dc866d12edc19f10617f4d905f57fededd41 100644
 --- a/pages/ui/components/page-table/page-table.module.code.tsx
