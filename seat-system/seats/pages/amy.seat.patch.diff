@@ -44,6 +44,36 @@ index d04e6a6e81fd7d17067910ff9dc19cb6ad5f424a..d6fa7f49c9a2bbb7d736b295deb9a4da
    if (due === null) return { [shape.stampKey]: stamp }
    return { [shape.stampKey]: stamp, [shape.dueKey]: due }
  }
+diff --git a/pages/core/task-lifecycle/task-lifecycle.module.test.ts b/pages/core/task-lifecycle/task-lifecycle.module.test.ts
+index b577001237c63ec5614b2e714ceb442489b6bd05..7df15791ae5f464bd7616b1a35f47b2920571894 100644
+--- a/pages/core/task-lifecycle/task-lifecycle.module.test.ts
++++ b/pages/core/task-lifecycle/task-lifecycle.module.test.ts
+@@ -114,6 +114,25 @@ test("taking a completion back clears the key that said it was done", () => {
+   })
+ })
+ 
++test("an anchor written as the text true is read as true", () => {
++  const shape = shapeFor("temper-task")
++  expect(anchorFor(shape, { dueDate: "2026-08-01", rruleAnchorFromCompletion: "true" }, AT)).toBe(
++    "2026-09-06"
++  )
++})
++
++test("a completion captured on an earlier day comes round from the clock", () => {
++  const captured = Date.parse("2026-08-01T18:00:00.000Z")
++  const said = completionValues(
++    shapeFor("temper-task"),
++    { dueDate: "2026-07-31", rruleRule: "FREQ=DAILY" },
++    captured,
++    AT
++  )
++  expect(said.dueDate).toBe("2026-09-07")
++  expect(said.lastCompletedAt).toBe("2026-08-01T18:00:00.000Z")
++})
++
+ test("a rule that answers no next day leaves the due date alone", () => {
+   const said = completionValues(
+     shapeFor("to-do"),
 diff --git a/pages/core/task-lifecycle/task-lifecycle.module.ts b/pages/core/task-lifecycle/task-lifecycle.module.ts
 index e1aa1d7ffd79475c27be358309b7106824fa2a61..1496934e80fdeb04917538aa444291b8a1dd9fcb 100644
 --- a/pages/core/task-lifecycle/task-lifecycle.module.ts
