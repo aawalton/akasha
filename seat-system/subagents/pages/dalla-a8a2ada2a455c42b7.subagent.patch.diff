@@ -1,0 +1,275 @@
+writerOwesReading: false
+diff --git a/command-system/change-freshness/change-freshness.module.code.ts b/command-system/change-freshness/change-freshness.module.code.ts
+index 38d7dceae2a78984d98be2fd3f618d9899268705..7aac00038556a838f7c325c75d6db2e5f77f5699 100644
+--- a/command-system/change-freshness/change-freshness.module.code.ts
++++ b/command-system/change-freshness/change-freshness.module.code.ts
+@@ -1,6 +1,8 @@
+ import { readFileSync } from "node:fs"
+ import { join } from "node:path"
+-import { told } from "@akasha/git/git-running"
++import { said as gitIn, told } from "@akasha/git/git-running"
++import { sameBody as sameBytes } from "../body-merging/body-merging.module.code.ts"
++import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
+ import { blobIdOf, type Reading, sameBody } from "../reading/reading.module.code.ts"
+ 
+ const HERE = "."
+@@ -37,3 +39,60 @@ export function reachedSince(root: string, base: string, now: string): readonly
+   const found = changedSince(root, base, now, HERE)
+   return found === null ? null : [...found].sort()
+ }
++
++function movedBetween(
++  root: string,
++  read: string,
++  base: string,
++  paths: readonly string[]
++): readonly string[] {
++  const moved: string[] = []
++  for (const one of paths) {
++    if (!sameBytes(bodyAt(root, read, one), bodyAt(root, base, one))) moved.push(one)
++  }
++  return moved.sort()
++}
++
++export function unfresh(
++  root: string,
++  named: string | null,
++  base: string,
++  paths: readonly string[],
++  asRead: readonly Reading[],
++  tail: string
++): readonly string[] | null {
++  const moved = named === null || named === base ? [] : movedBetween(root, named, base, paths)
++  if (named !== null && moved.length > 0) {
++    return [
++      ...moved.map(
++        (one) =>
++          `${one} — read against \`${named}\`, and what is at \`${base}\` is not what was read, so writing it would put back what moved in between`
++      ),
++      tail,
++    ]
++  }
++  const stirred = movedOnDisk(root, asRead)
++  if (stirred.length === 0) return null
++  return [
++    ...stirred.map(
++      (one) =>
++        `${one} — what is on disk is not the body you read, so writing it would put back what moved in between`
++    ),
++    tail,
++  ]
++}
++
++export function commitNamed(root: string, named: string): string | null {
++  try {
++    const said = gitIn(root, [
++      "rev-parse",
++      "--verify",
++      "--quiet",
++      "--end-of-options",
++      `${named}^{commit}`,
++    ]).trim()
++    return said === "" ? null : said
++  } catch {
++    return null
++  }
++}
+diff --git a/command-system/change-freshness/change-freshness.module.test.ts b/command-system/change-freshness/change-freshness.module.test.ts
+index 9a3dc73ccab3a896b08bb52ed2ec02d387618760..477857cc7e185b4fe72558a6cfad9c5e01a3d12e 100644
+--- a/command-system/change-freshness/change-freshness.module.test.ts
++++ b/command-system/change-freshness/change-freshness.module.test.ts
+@@ -8,7 +8,7 @@ import { landing } from "../landing/landing.module.code.ts"
+ import { A, ADMITS, bytes, MODULE_AT, TYPE } from "../landing/landing.module.test-fixtures.ts"
+ import { blobIdOf, type Reading } from "../reading/reading.module.code.ts"
+ import { scratchWorld } from "../scratching/scratching.module.code.ts"
+-import { movedOnDisk, reachedSince } from "./change-freshness.module.code.ts"
++import { commitNamed, movedOnDisk, reachedSince, unfresh } from "./change-freshness.module.code.ts"
+ 
+ const scratch = scratchWorld()
+ 
+@@ -194,6 +194,32 @@ test("a commit reaching `akasha/` while the change was judged refuses nothing",
+   expect(readFileSync(join(root, "akasha/meanwhile.txt"), "utf8")).toBe("landed inside")
+ })
+ 
++test("a name git resolves to one commit is answered as that commit", () => {
++  const root = repoWith(PAGES)
++  const head = headOf(root)
++  expect(commitNamed(root, "HEAD")).toBe(head)
++  expect(commitNamed(root, head)).toBe(head)
++})
++
++test("a name resolving to no commit is answered as nothing", () => {
++  const root = repoWith(PAGES)
++  expect(commitNamed(root, "no-such-ref")).toBe(null)
++})
++
++test("a body on disk that is not the body read is answered as moved, with the tail last", () => {
++  const root = repoWith(PAGES)
++  const held = readA()
++  writeFileSync(join(root, AT), "moved")
++  const said = unfresh(root, null, headOf(root), [AT], [held], "tail")
++  expect(said?.[0]).toContain(MOVED)
++  expect(said?.at(-1)).toBe("tail")
++})
++
++test("a body on disk that is the body read is answered as nothing", () => {
++  const root = repoWith(PAGES)
++  expect(unfresh(root, null, headOf(root), [AT], [readA()], "tail")).toBe(null)
++})
++
+ test("a commit reaching nothing under `akasha/` while the change was judged refuses nothing", async () => {
+   const root = repoWith(PAGES)
+   const said = await landing(
+diff --git a/command-system/change-freshness/change-freshness.module.ts b/command-system/change-freshness/change-freshness.module.ts
+index bde1c9a033b083a5fa1e75a63ea12e88405a1a03..bb85c9da906853d190092df82497bc1078965174 100644
+--- a/command-system/change-freshness/change-freshness.module.ts
++++ b/command-system/change-freshness/change-freshness.module.ts
+@@ -31,6 +31,14 @@ export const changeFreshness = {
+       invariantKind: "absence",
+       statement: "A path no reading was recorded for is held to nothing.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The commit a change states is taken by any name git resolves to one commit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path read against one commit and changed by another is answered as moved.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A commit reaching nothing this repository holds can change no verdict.",
+diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
+index 3007d0c75ad2689b561ea5871fcb50d73cf12061..0afc1cb43eab7766423f9bb354f2ba1ede8b5fb3 100644
+--- a/command-system/landing/landing.module.code.ts
++++ b/command-system/landing/landing.module.code.ts
+@@ -5,7 +5,7 @@ import { textIn, textOf } from "@akasha/code/body-text"
+ import { gitIgnoring } from "@akasha/git/git-pathspec"
+ import { said as gitIn } from "@akasha/git/git-running"
+ import type { Change } from "@akasha/pages/change"
+-import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts"
++import { commitNamed, unfresh } from "../change-freshness/change-freshness.module.code.ts"
+ import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
+ import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
+ import type { Bodies, Draft, Running } from "../drafting/drafting.module.code.ts"
+@@ -252,59 +252,6 @@ function indexed(
+   return held.settle()
+ }
+ 
+-function sameBody(one: Uint8Array | null, two: Uint8Array | null): boolean {
+-  if (one === null || two === null) return one === two
+-  return Buffer.from(one).equals(Buffer.from(two))
+-}
+-
+-function movedBetween(
+-  root: string,
+-  read: string,
+-  base: string,
+-  changed: readonly FileEdit[]
+-): readonly string[] {
+-  const moved: string[] = []
+-  for (const one of changed) {
+-    if (!sameBody(bodyAt(root, read, one.path), bodyAt(root, base, one.path))) moved.push(one.path)
+-  }
+-  return moved.sort()
+-}
+-
+-function unfresh(
+-  root: string,
+-  named: string | null,
+-  base: string,
+-  changes: readonly FileEdit[],
+-  asRead: readonly AsRead[],
+-  tail: string
+-): Refused | null {
+-  const moved = named === null || named === base ? [] : movedBetween(root, named, base, changes)
+-  if (named !== null && moved.length > 0) {
+-    return {
+-      refusals: [
+-        ...moved.map(
+-          (one) =>
+-            `${one} — read against \`${named}\`, and what is at \`${base}\` is not what was read, so writing it would put back what moved in between`
+-        ),
+-        tail,
+-      ],
+-    }
+-  }
+-  const stirred = movedOnDisk(root, asRead)
+-  if (stirred.length > 0) {
+-    return {
+-      refusals: [
+-        ...stirred.map(
+-          (one) =>
+-            `${one} — what is on disk is not the body you read, so writing it would put back what moved in between`
+-        ),
+-        tail,
+-      ],
+-    }
+-  }
+-  return null
+-}
+-
+ function draftsOf(root: string, base: string, changes: readonly FileEdit[]): readonly Draft[] {
+   const before = beforeOf(root, base, changes)
+   return changes.map((one) => ({
+@@ -327,8 +274,9 @@ function draftedBy(
+   running: Running
+ ): Drafted | Refused {
+   const base = baseOf(root)
+-  const stale = unfresh(root, named, base, changes, asRead, AGAIN_DRAFTED)
+-  if (stale !== null) return stale
++  const changing = changes.map((one) => one.path)
++  const stale = unfresh(root, named, base, changing, asRead, AGAIN_DRAFTED)
++  if (stale !== null) return { refusals: stale }
+   const said = draftedOnto(root, page, drafts, running)
+   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
+   return {
+@@ -341,21 +289,6 @@ function draftedBy(
+   }
+ }
+ 
+-function commitNamed(root: string, named: string): string | null {
+-  try {
+-    const said = gitIn(root, [
+-      "rev-parse",
+-      "--verify",
+-      "--quiet",
+-      "--end-of-options",
+-      `${named}^{commit}`,
+-    ]).trim()
+-    return said === "" ? null : said
+-  } catch {
+-    return null
+-  }
+-}
+-
+ export function landing(
+   root: string,
+   changes: readonly FileEdit[],
+@@ -443,8 +376,9 @@ export async function landing(
+   }
+   return holding(root, () => {
+     const base = baseOf(root)
+-    const stale = unfresh(root, named, base, changes, asRead, AGAIN_WRITTEN)
+-    if (stale !== null) return stale
++    const paths = changes.map((one) => one.path)
++    const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN)
++    if (stale !== null) return { refusals: stale }
+     const split = heldBack(root, changes)
+     const before = beforeOf(root, base, split.committing)
+     const keeping = indexingLoaded()
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index bd876e2ce20a921e00d382bc0f97b8d7187c39b7..ca4e3f9f585ad36348b7550cbcda3dbbfa1aa665 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -32,10 +32,6 @@ export const landing = {
+       invariantKind: "departure",
+       statement: "A change may state the commit its bodies were read against.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The commit a change states is taken by any name git resolves to one commit.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A name resolving to no commit refuses the change unwritten.",
