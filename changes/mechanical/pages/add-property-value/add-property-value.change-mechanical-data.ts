@@ -35,7 +35,27 @@ export const addPropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A key the page states no value under is refused.",
+      statement: "A page stating no such key gains that key rather than being refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key the page gains is written after the property `after` names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key the page gains is written last where `after` names no such property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key the page gains is written last where no `after` is stated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`after` is left unread where the page already states the key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body exporting no object is refused rather than gaining a key.",
     },
     {
       invariantKind: "departure",
@@ -44,10 +64,6 @@ export const addPropertyValue = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads the index.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A page stating no such key gains that key rather than being refused.",
     },
   ],
 } as const satisfies ChangeMechanicalData

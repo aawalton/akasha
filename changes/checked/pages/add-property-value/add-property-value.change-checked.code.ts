@@ -12,10 +12,13 @@ const KEY = "key"
 
 const VALUE = "value"
 
+const AFTER = "after"
+
 export type AddPropertyValueAsked = {
   readonly at: string
   readonly key: string
   readonly value: string
+  readonly after?: string
 }
 
 export async function addPropertyValue(
@@ -43,5 +46,9 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (key === undefined) return refusing(missing(KEY))
   const value = given[VALUE]
   if (value === undefined) return refusing(missing(VALUE))
-  return await addPropertyValue(world, { at, key, value })
+  const after = given[AFTER]
+  return await addPropertyValue(
+    world,
+    after === undefined ? { at, key, value } : { at, key, value, after }
+  )
 }

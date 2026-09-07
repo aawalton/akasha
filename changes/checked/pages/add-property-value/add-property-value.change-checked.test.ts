@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
+import type { Shaped } from "@akasha/indexes/reaching"
 import type { Value } from "@akasha/pages/page-value"
 import {
   NOTHING_OVER,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { knownOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { addPropertyValue, runChange } from "./add-property-value.change-checked.code.ts"
 
 const AT = "held/held.domain.ts"
@@ -23,12 +23,16 @@ type Told = {
 }
 
 function worldTold(told: Told): World {
-  const known = knownOf({
-    slugOfKeyIn: () => told.slug,
+  const known: Shaped = {
     targetOf: () => told.target,
-    admitting: (one) => [one],
+    admitting: (one: string) => [one],
+    mortal: () => false,
     at: () => told.found,
-  })
+    byId: () => null,
+    fieldsOf: () => [],
+    slugOfKeyIn: () => told.slug,
+    fieldOfKey: () => null,
+  }
   return {
     root: "/nowhere",
     index: { knownIn: () => known, pageAt: () => ("page" in told ? told.page : PAGE) } as never,
@@ -96,6 +100,43 @@ test("a path the world names no page at is refused", async () => {
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/names no page/)
+})
+
+test("`after` is handed on where the caller states `after`", async () => {
+  let handed: unknown = null
+  const world = worldTold({ slug: null, target: null, found: [] })
+
+  await runChange(
+    {
+      ...world,
+      reaching: (_world, _at, given) => {
+        handed = given
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    { ...ASKED, after: "slug" }
+  )
+
+  expect(handed).toEqual({ ...ASKED, after: "slug" })
+})
+
+test("`after` is left out where no `after` is stated", async () => {
+  let handed: unknown = null
+  const world = worldTold({ slug: null, target: null, found: [] })
+
+  await runChange(
+    {
+      ...world,
+      reaching: (_world, _at, given) => {
+        handed = given
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    ASKED
+  )
+
+  expect(handed).toEqual(ASKED)
+  expect("after" in (handed as object)).toBe(false)
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {

@@ -24,6 +24,16 @@ const EMPTY = `${OPENING}  partSlugs: [],
 } as const satisfies PageType
 `
 
+const GAINED_AFTER_SLUG = `${OPENING}  extendsSlug: ["page-type/page"],
+  partSlugs: ["kept/one", "kept/two"],
+} as const satisfies PageType
+`
+
+const GAINED_LAST = `${OPENING}  partSlugs: ["kept/one", "kept/two"],
+  extendsSlug: ["page-type/page"],
+} as const satisfies PageType
+`
+
 function worldOf(text: string | null): World {
   return { root: "/nowhere", index: null as never, textOf: () => text, over: NOTHING_OVER }
 }
@@ -72,11 +82,47 @@ test("a property holding one value is refused as a restatement", () => {
   expect(said.refused).toBe("`slug` holds one value, so `other` is a restatement")
 })
 
-test("a key the page states no value under is refused", () => {
-  const said = addPropertyValue(worldOf(BODY), { at: AT, key: "definition", value: "x" })
+test("a page stating no such key gains that key after the property `after` names", () => {
+  const said = addPropertyValue(worldOf(BODY), {
+    at: AT,
+    key: "extendsSlug",
+    value: "page-type/page",
+    after: "slug",
+  })
+
+  expect(bodyOf(said)).toBe(GAINED_AFTER_SLUG)
+})
+
+test("a key the page gains is written last where `after` names no such property", () => {
+  const said = addPropertyValue(worldOf(BODY), {
+    at: AT,
+    key: "extendsSlug",
+    value: "page-type/page",
+    after: "definition",
+  })
+
+  expect(bodyOf(said)).toBe(GAINED_LAST)
+})
+
+test("a key the page gains is written last where no `after` is stated", () => {
+  const said = addPropertyValue(worldOf(BODY), {
+    at: AT,
+    key: "extendsSlug",
+    value: "page-type/page",
+  })
+
+  expect(bodyOf(said)).toBe(GAINED_LAST)
+})
+
+test("a body exporting no object is refused", () => {
+  const said = addPropertyValue(worldOf("const kept = 1\n"), {
+    at: AT,
+    key: "extendsSlug",
+    value: "page-type/page",
+  })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${AT}\` states no \`definition\``)
+  expect(said.refused).toBe(`\`${AT}\` exports no object`)
 })
 
 test("a path holding no body is refused", () => {

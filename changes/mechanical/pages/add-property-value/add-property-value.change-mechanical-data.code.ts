@@ -13,6 +13,7 @@ export type AddPropertyValueAsked = {
   readonly at: string
   readonly key: string
   readonly value: string
+  readonly after?: string
 }
 
 export function withValue(
@@ -31,17 +32,38 @@ export function withValue(
   return `${text.slice(0, ended)}, ${put}${text.slice(ended)}`
 }
 
+export function withProperty(
+  text: string,
+  source: ts.SourceFile,
+  owner: ts.ObjectLiteralExpression,
+  given: AddPropertyValueAsked
+): string {
+  const put = `${given.key}: [${JSON.stringify(given.value)}]`
+  const named = owner.properties.find(
+    (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.after
+  )
+  const anchor = named ?? owner.properties[owner.properties.length - 1]
+  if (anchor === undefined) {
+    const opened = owner.getStart(source) + 1
+    return `${text.slice(0, opened)}\n  ${put},\n${text.slice(opened)}`
+  }
+  const started = anchor.getStart(source)
+  const indent = text.slice(text.lastIndexOf("\n", started) + 1, started)
+  const ended = anchor.getEnd()
+  return `${text.slice(0, ended)},\n${indent}${put}${text.slice(ended)}`
+}
+
 export function addPropertyValue(world: World, given: AddPropertyValueAsked): Answer {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const source = parsedAs(given.at, text)
   const owner = literalIn(source)
-  const one =
-    owner === null
-      ? undefined
-      : owner.properties.find((each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key)
+  if (owner === null) return refusing(`\`${given.at}\` exports no object`)
+  const one = owner.properties.find(
+    (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
+  )
   if (one === undefined || !ts.isPropertyAssignment(one)) {
-    return refusing(`\`${given.at}\` states no \`${given.key}\``)
+    return answered([writing(given.at, text, withProperty(text, source, owner, given))])
   }
   const holding = one.initializer
   if (!ts.isArrayLiteralExpression(holding)) {

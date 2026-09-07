@@ -34,6 +34,14 @@ export const addPropertyValue = {
     },
     {
       invariantKind: "departure",
+      statement: "`after` is handed on where the caller states `after`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`after` is left out where the caller states no `after`.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That change is reached through the runner rather than by an import.",
     },
     {
