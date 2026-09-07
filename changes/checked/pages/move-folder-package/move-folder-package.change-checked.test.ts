@@ -114,7 +114,8 @@ test("the package takes the slug naming the folder that package landed in", asyn
   const landed = said.edits.find((one) => one.path === `${INTO}/code.workspace-package.ts`)
 
   expect(said.refused).toBeNull()
-  expect(landed?.body).toContain('slug: "code"')
+  expect(landed?.body).toContain('"slug": "code"')
+  expect(landed?.body).toContain("export const code = {")
 })
 
 test("no body is left at the path the package page carried", async () => {
