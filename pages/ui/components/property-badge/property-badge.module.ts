@@ -6,4 +6,10 @@ export const propertyBadge = {
   slug: "property-badge",
   definition: "The badge one property is shown as, chosen by that property's type.",
   code: "tsx",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A property whose type no badge is registered for is shown as nothing.",
+    },
+  ],
 } as const satisfies Module
