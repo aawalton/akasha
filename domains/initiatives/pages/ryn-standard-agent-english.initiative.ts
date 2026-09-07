@@ -14,5 +14,6 @@ export const rynStandardAgentEnglish = {
   constraints: [
     "The load a construction puts on a reading agent is measured.",
     "Standard Agent English is designed from first principles, unbiased by current usage.",
+    "The reader is an agent rather than a person.",
   ],
 } as const satisfies Initiative
