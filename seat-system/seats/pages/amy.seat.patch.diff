@@ -1,3 +1,15 @@
+diff --git a/alan/tracking/to-dos/pages/read-plato-s-apology/read-plato-s-apology.to-do.ts b/alan/tracking/to-dos/pages/read-plato-s-apology/read-plato-s-apology.to-do.ts
+index 30f88bb426d3aef87ca02f881021af1751698bad..736e633125712a4d16172e8a242f2e4c315bd666 100644
+--- a/alan/tracking/to-dos/pages/read-plato-s-apology/read-plato-s-apology.to-do.ts
++++ b/alan/tracking/to-dos/pages/read-plato-s-apology/read-plato-s-apology.to-do.ts
+@@ -7,7 +7,5 @@ export const readPlatoSApology = {
+   title: "Read Plato's Apology",
+   link: "https://alanwalton.com/story-chapter/apology-6fed9037",
+   toDoPriority: "p4",
+-  toDoLastCompletedAt: "2026-09-07T01:31:19.721Z",
+-  toDoCompletedAt: null,
+   whatItTakes: "txt",
+ } as const satisfies ToDo
 diff --git a/pages/core/task-lifecycle/task-lifecycle.module.code.ts b/pages/core/task-lifecycle/task-lifecycle.module.code.ts
 index ecb4f230cac0d3527d0a155c129e5a7b053e9ac0..372e70bfdf5208168890482500145d3190f8ed66 100644
 --- a/pages/core/task-lifecycle/task-lifecycle.module.code.ts
