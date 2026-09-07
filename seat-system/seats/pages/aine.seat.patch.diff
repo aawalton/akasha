@@ -1,5 +1,5 @@
 diff --git a/changes/authored/pages/add-file/add-file.change-authored.code.ts b/changes/authored/pages/add-file/add-file.change-authored.code.ts
-index 3868d71c05cd7922df5f833d6df79896383d9c6d..09f3f14cf98063d75602f388edcb853bbfcf0a30 100644
+index 3868d71c05cd7922df5f833d6df79896383d9c6d..f8eb1c34cb5950d33429d97b21db178edb08121e 100644
 --- a/changes/authored/pages/add-file/add-file.change-authored.code.ts
 +++ b/changes/authored/pages/add-file/add-file.change-authored.code.ts
 @@ -3,6 +3,7 @@ import { pageNamed } from "@akasha/pages/page-file-name"
@@ -10,8 +10,17 @@ index 3868d71c05cd7922df5f833d6df79896383d9c6d..09f3f14cf98063d75602f388edcb853b
  
  const AT = "at"
  
+@@ -16,7 +17,7 @@ const ADD_PAGE_FILE = "change-mechanical/add-page-file"
+ 
+ const CODE = new Set([".ts", ".tsx"])
+ 
+-function addressFor(world: World, at: string): string {
++function addressFor(world: World, at: string): keyof Changes {
+   if (pageNamed(at, world.index.pageTypesIn())) return ADD_PAGE_FILE
+   return CODE.has(extname(at)) ? ADD_CODE_FILE : ADD_FILE
+ }
 diff --git a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
-index 3b584e42bc8395a50073d2ddf7426f5b0b5104eb..c4b016e4fd0b1825aba20c40640439fbb947f163 100644
+index 3b584e42bc8395a50073d2ddf7426f5b0b5104eb..706215ce4ea290bb83b0dc2e94506b00fc3493ea 100644
 --- a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
 +++ b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
 @@ -14,6 +14,7 @@ import {
@@ -22,6 +31,15 @@ index 3b584e42bc8395a50073d2ddf7426f5b0b5104eb..c4b016e4fd0b1825aba20c40640439fb
  
  const PART_SLUGS = "part-slugs"
  
+@@ -37,7 +38,7 @@ export function parentsOf(world: World, at: string): readonly Named[] {
+   return namersIn(world, at, PART_SLUGS)
+ }
+ 
+-function addressFor(world: World, at: string): string {
++function addressFor(world: World, at: string): keyof Changes {
+   if (pageNamed(at, world.index.pageTypesIn())) return REMOVE_PAGE_FILE
+   return CODE.has(extname(at)) ? REMOVE_CODE_FILE : REMOVE_FILE
+ }
 diff --git a/changes/modules/change-shadow/change-shadow.module.code.ts b/changes/modules/change-shadow/change-shadow.module.code.ts
 index 4be3c24bd1e40d5cd4340a588a5865b0ac298ae8..0d9838bc00300da661bd1b0527b97f938a1bbb5e 100644
 --- a/changes/modules/change-shadow/change-shadow.module.code.ts
