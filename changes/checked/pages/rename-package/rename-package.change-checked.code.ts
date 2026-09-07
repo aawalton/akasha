@@ -1,17 +1,13 @@
 import { dirname } from "node:path"
+import { manifestIn, nameIn, namingIn, refusalOf } from "@akasha/checks/package-reached-where-named"
 import { placedIn } from "@akasha/code/code-specifier"
+import { typed } from "@akasha/code/code-typing"
 import { manifestsIn } from "@akasha/indexes/package-reaching"
+import { importingOf } from "@akasha/indexes/path-naming"
 import { matchingIn } from "@akasha/pages/name-format/format-reaching"
 import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
 import type { Matching } from "@akasha/pages/name-format/name-matching"
 import ts from "typescript"
-import {
-  manifestIn,
-  nameIn,
-  namingIn,
-  refusalOf,
-} from "../../../../checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.code.ts"
-import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
   answered,
   missing,
@@ -25,6 +21,8 @@ const AT = "at"
 
 const TO = "to"
 
+const FROM = "from"
+
 const NAME = "name"
 
 const UNDER = "/"
@@ -33,6 +31,8 @@ const AFTER = ":"
 
 const OVER = "@"
 
+const UNRENAMED = "so no package is renamed"
+
 type Splice = { readonly start: number; readonly end: number; readonly said: string }
 
 type Aliased = { readonly opening: string; readonly named: string; readonly range: string }
@@ -40,6 +40,7 @@ type Aliased = { readonly opening: string; readonly named: string; readonly rang
 export type RenamePackageAsked = {
   readonly at: string
   readonly to: string
+  readonly from?: string
 }
 
 export function nameFor(said: string, was: string, to: string): string | null {
@@ -143,25 +144,57 @@ function manifestsOf(world: World): readonly string[] {
   return manifestsIn(world.index.everyPath(), world.index.fileKeysAt())
 }
 
+function namingOld(world: World, was: string): readonly string[] {
+  const found: string[] = []
+  for (const path of world.index.everyPath()) {
+    if (!typed(path)) continue
+    const body = world.textOf(path)
+    if (body === null || !body.includes(was)) continue
+    found.push(path)
+  }
+  return found
+}
+
+function bodiesReaching(
+  world: World,
+  given: RenamePackageAsked,
+  was: string,
+  held: readonly string[]
+): readonly string[] {
+  if (given.from === undefined) return held
+  return [...new Set([...held, ...namingOld(world, was)])].sort()
+}
+
+function carriedRefusal(given: RenamePackageAsked): string {
+  if (given.from === undefined) return `\`${given.to}\` is the name this package carries`
+  return `\`${FROM}\` and \`${TO}\` name one package, ${UNRENAMED}`
+}
+
+function namedRefusal(given: RenamePackageAsked, matching: Matching): string | null {
+  const said = refusalOf(given.to, matching)
+  if (said !== null) return said
+  return given.from === undefined ? null : refusalOf(given.from, matching)
+}
+
 export function renamePackage(world: World, given: RenamePackageAsked): Answer {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const held = manifestIn(text)
   if (held === null || Array.isArray(held)) {
-    return refusing(`\`${given.at}\` reads as no JSON object, so no package is renamed`)
+    return refusing(`\`${given.at}\` reads as no JSON object, ${UNRENAMED}`)
   }
-  const was = nameIn(text)
-  if (was === null) {
-    return refusing(`\`${given.at}\` states no \`${NAME}\`, so no package is renamed`)
-  }
-  if (was === given.to) return refusing(`\`${given.to}\` is the name this package carries`)
+  const was = given.from ?? nameIn(text)
+  if (was === null) return refusing(`\`${given.at}\` states no \`${NAME}\`, ${UNRENAMED}`)
+  if (was === given.to) return refusing(carriedRefusal(given))
   const matching = matchingFor(world)
   if (typeof matching === "string") return refusing(matching)
-  const said = refusalOf(given.to, matching)
-  if (said !== null) return refusing(`${said}, so no package is renamed`)
+  const said = namedRefusal(given, matching)
+  if (said !== null) return refusing(`${said}, ${UNRENAMED}`)
   const reading = importingOf(world.index, reachedIn(given.at, text))
   if ("unread" in reading) return refusing(reading.unread)
-  const edits: Edit[] = [writing(given.at, text, restated(given.at, text, was, given.to))]
+  const edits: Edit[] = []
+  const own = restated(given.at, text, was, given.to)
+  if (own !== text) edits.push(writing(given.at, text, own))
   for (const path of manifestsOf(world)) {
     if (path === given.at) continue
     const body = world.textOf(path)
@@ -169,11 +202,14 @@ export function renamePackage(world: World, given: RenamePackageAsked): Answer {
     const next = restated(path, body, was, given.to)
     if (next !== body) edits.push(writing(path, body, next))
   }
-  for (const path of reading.importers) {
+  for (const path of bodiesReaching(world, given, was, reading.importers)) {
     const body = world.textOf(path)
     if (body === null) return refusing(`\`${path}\` reaches this package and could not be read`)
     const next = spelledAnew(path, body, was, given.to)
     if (next !== body) edits.push(writing(path, body, next))
+  }
+  if (given.from !== undefined && edits.length === 0) {
+    return refusing(`nothing names \`${given.from}\`, ${UNRENAMED}`)
   }
   return answered(edits)
 }
@@ -185,5 +221,5 @@ export function runChange(world: World, given: Asked): Answer {
   if (at === undefined) return refusing(missing(AT))
   const to = given[TO]
   if (to === undefined) return refusing(missing(TO))
-  return renamePackage(world, { at, to })
+  return renamePackage(world, { at, to, from: given[FROM] })
 }

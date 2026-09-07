@@ -10,6 +10,8 @@ const INNER = "@akasha/inner"
 
 const HELD = "@akasha/held"
 
+const ABSENT = "@akasha/absent"
+
 const INNER_MANIFEST = "akasha/inner/package.json"
 
 const OUTER_MANIFEST = "akasha/outer/package.json"
@@ -28,6 +30,8 @@ const INNER_BODY = `{
   }
 }
 `
+
+const INNER_CARRIED = INNER_BODY.replace(`"${INNER}"`, `"${HELD}"`)
 
 const OUTER_BODY = `{
   "name": "@akasha/outer",
@@ -64,6 +68,14 @@ const ROOT_WANTED = `{
 
 const READER_BODY = `import { one } from "${INNER}"
 import { two } from "${INNER}/two"
+
+export const spoken = "${INNER}"
+
+export const reader = one + two + spoken.length
+`
+
+const READER_WANTED = `import { one } from "${HELD}"
+import { two } from "${HELD}/two"
 
 export const spoken = "${INNER}"
 
@@ -167,8 +179,19 @@ function packaged(): World {
   return worldAt(root, textIn(root))
 }
 
+function carried(): World {
+  const root = indexedRepo({ ...VOCABULARY, ...PACKAGES, [INNER_MANIFEST]: INNER_CARRIED })
+  return worldAt(root, textIn(root))
+}
+
 function renamed(): ReadonlyMap<string, string | null> {
   const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
+  expect(said.refused).toBe(null)
+  return new Map(said.edits.map((one) => [one.path, one.body]))
+}
+
+function resumed(): ReadonlyMap<string, string | null> {
+  const said = renamePackage(carried(), { at: INNER_MANIFEST, to: HELD, from: INNER })
   expect(said.refused).toBe(null)
   return new Map(said.edits.map((one) => [one.path, one.body]))
 }
@@ -231,7 +254,7 @@ test("a scope written in no lower kebab case is refused", () => {
 })
 
 test("the package's own manifest states the new name and keeps its spacing", () => {
-  expect(renamed().get(INNER_MANIFEST)).toBe(INNER_BODY.replace(`"${INNER}"`, `"${HELD}"`))
+  expect(renamed().get(INNER_MANIFEST)).toBe(INNER_CARRIED)
 })
 
 test("a manifest naming the package among its dependencies is restated", () => {
@@ -251,13 +274,7 @@ test("a manifest carrying an alias is restated whole", () => {
 })
 
 test("a body reaching the package has each specifier naming it rewritten", () => {
-  expect(renamed().get(READER_CODE)).toBe(`import { one } from "${HELD}"
-import { two } from "${HELD}/two"
-
-export const spoken = "${INNER}"
-
-export const reader = one + two + spoken.length
-`)
+  expect(renamed().get(READER_CODE)).toBe(READER_WANTED)
 })
 
 test("only the manifests and the bodies reaching the package are answered", () => {
@@ -289,4 +306,47 @@ test("a call handing over no name is refused by the key naming it", () => {
   const said = runChange(packaged(), { at: INNER_MANIFEST })
   expect(said.edits).toEqual([])
   expect(said.refused).toContain("`to`")
+})
+
+test("a manifest already carrying the new name is answered with no edit of its own", () => {
+  expect([...resumed().keys()].sort()).toEqual([OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
+})
+
+test("a manifest naming the old name is restated though the package carries the new name", () => {
+  expect(resumed().get(OUTER_MANIFEST)).toBe(OUTER_BODY.replace(`"${INNER}"`, `"${HELD}"`))
+})
+
+test("a manifest aliasing the old name is restated though the package carries the new name", () => {
+  expect(resumed().get(ROOT_MANIFEST)).toBe(ROOT_WANTED)
+})
+
+test("a body reaching under the old name is rewritten though the package carries the new name", () => {
+  expect(resumed().get(READER_CODE)).toBe(READER_WANTED)
+})
+
+test("an old name equal to the new name is refused", () => {
+  const said = renamePackage(carried(), { at: INNER_MANIFEST, to: HELD, from: HELD })
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`from` and `to` name one package, so no package is renamed")
+})
+
+test("an old name nothing names is refused", () => {
+  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD, from: ABSENT })
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(`nothing names \`${ABSENT}\`, so no package is renamed`)
+})
+
+test("an old name that is no package name is refused", () => {
+  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD, from: "one/two/three" })
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "the manifest calls this package `one/two/three`, which is no `package-name`, " +
+      "so no package is renamed"
+  )
+})
+
+test("a call handing over an old name renames from that name", () => {
+  const said = runChange(carried(), { at: INNER_MANIFEST, to: HELD, from: INNER })
+  expect(said.refused).toBe(null)
+  expect(pathsIn(said)).toEqual([OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
 })

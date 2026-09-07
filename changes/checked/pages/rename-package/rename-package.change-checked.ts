@@ -14,7 +14,21 @@ export const renamePackage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The name a package carries is read from the manifest the caller names.",
+      statement:
+        "A caller stating no old name reads the old name from the manifest the caller names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A caller stating an old name renames from that name rather than from the manifest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rename the manifest alone carries is finished by a run stating the old name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The world a change reads is the world the edits before that change leave.",
     },
     {
       invariantKind: "departure",
@@ -22,15 +36,28 @@ export const renamePackage = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest stating no name is refused.",
+      statement: "A manifest stating no name is refused where the caller states no old name.",
     },
     {
       invariantKind: "departure",
-      statement: "A name the package already carries is refused.",
+      statement:
+        "A new name the package already carries is refused where the caller states no old name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An old name equal to the new name is refused.",
     },
     {
       invariantKind: "departure",
       statement: "A name that is no package name is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An old name that is no package name is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rename answering no edit is refused where the caller states an old name.",
     },
     {
       invariantKind: "departure",
@@ -54,12 +81,22 @@ export const renamePackage = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The manifest the caller names is restated only where restating changes that manifest.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A manifest keeps the spacing that manifest already carries.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The bodies reaching the package are the importers of the files the manifest names as ways in.",
+        "A caller stating no old name reaches the importers of the files the manifest names as ways in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A caller stating an old name reaches every body the index names holding that name.",
     },
     {
       invariantKind: "departure",

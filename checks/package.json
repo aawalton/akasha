@@ -8,6 +8,7 @@
     "./change-walking": "./modules/change-walking/change-walking.module.code.ts",
     "./checking": "./modules/checking/checking.module.code.ts",
     "./judging": "./modules/judging/judging.module.code.ts",
+    "./package-reached-where-named": "./code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.code.ts",
     "./repo-files": "./cluster-checks/modules/repo-files/repo-files.module.code.ts",
     "./repo-scope": "./cluster-checks/modules/repo-scope/repo-scope.module.code.ts",
     "./rule-population-audit": "./cluster-checks/modules/rule-population-audit/rule-population-audit.module.code.ts",
