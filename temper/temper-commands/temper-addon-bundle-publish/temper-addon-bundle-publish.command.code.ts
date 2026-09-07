@@ -5,6 +5,7 @@ import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
 import { ran } from "@akasha/utils-run/running"
+import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
 import { temperAddonBuild } from "../temper-addon-build/temper-addon-build.command.code.ts"
 import { temperAddonBundleBuild } from "../temper-addon-bundle-build/temper-addon-bundle-build.command.code.ts"
 
@@ -43,15 +44,6 @@ const DEFAULT_PUSH_REGISTRY = "192.168.68.87:30500"
 const TAG_FILE = "temper/temper-web/deploy/addon-bundle-image.ts"
 
 const SHA_PLACEHOLDER = "0".repeat(40)
-
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
 
 function mustRun(argv: readonly string[], what: string): string | null {
   const started = Date.now()

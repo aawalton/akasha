@@ -3,6 +3,7 @@ import { existsSync, mkdirSync, readdirSync, symlinkSync, writeFileSync } from "
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { codeRoot } from "@akasha/pages/code-root"
+import { manifestFor } from "../addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
 import { temperAddonTypecheck } from "./temper-addon-typecheck.command.code.ts"
 
 const scratch = scratchWorld()
@@ -21,20 +22,6 @@ const BASE_SETTINGS = {
     strict: true,
     skipLibCheck: true,
   },
-}
-
-function manifestFor(name: string): string {
-  return JSON.stringify({
-    name,
-    title: name,
-    description: `${name} for a test`,
-    author: "test",
-    version: "1.0.0",
-    addonVersion: 100,
-    apiVersion: ["101041"],
-    savedVariables: [],
-    dependsOn: [],
-  })
 }
 
 function rootFor(): string {

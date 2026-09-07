@@ -3,6 +3,7 @@ import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
 import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
 
 const DATA = 2
 
@@ -11,15 +12,6 @@ const ROOT_FLAG = "--repo-root"
 const JSON_FLAG = "--json"
 
 const SPACES = 2
-
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
 
 function widthOf(all: readonly AddonInfo[], of: (one: AddonInfo) => string): number {
   return all.reduce((widest, one) => Math.max(widest, of(one).length), 0)

@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
+import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
@@ -20,6 +21,7 @@ import {
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { ran } from "@akasha/utils-run/running"
+import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 
@@ -57,19 +59,6 @@ type Classified = {
   readonly triage: string
   readonly triageReason: unknown
   readonly inferred?: InferredCulprit
-}
-
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
-
-function messageOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 function previewOf(message: string): string {

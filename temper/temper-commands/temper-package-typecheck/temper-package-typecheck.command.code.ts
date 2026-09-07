@@ -4,6 +4,8 @@ import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
 import { ran } from "@akasha/utils-run/running"
+import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+import { inNameOrder } from "../name-ordering/name-ordering.module.code.ts"
 
 const DATA = 2
 const FAILED = 3
@@ -22,19 +24,6 @@ type Judged = {
   readonly ownFiles: number
   readonly errors: readonly string[]
   readonly code: number
-}
-
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
-
-function inNameOrder(names: readonly string[]): readonly string[] {
-  return [...names].sort((a, b) => a.localeCompare(b))
 }
 
 function packagesUnder(at: string): readonly string[] {
@@ -117,12 +106,12 @@ export function temperPackageTypecheck(argv: readonly string[] = []): Answer {
 
   const report = reportOf(all, at)
   const refusals: string[] = []
-  for (const one of all.filter((one) => one.ownFiles === 0)) {
+  for (const one of all.filter((row) => row.ownFiles === 0)) {
     refusals.push(
       `${one.name} compiled none of its own files, so a clean result here is a result over nothing`
     )
   }
-  for (const one of all.filter((one) => one.code !== 0)) {
+  for (const one of all.filter((row) => row.code !== 0)) {
     refusals.push(`${one.name} failed to typecheck (exit ${String(one.code)})`)
   }
   return { report, refusals, code: refusals.length > 0 ? FAILED : 0 }

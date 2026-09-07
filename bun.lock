@@ -766,12 +766,6 @@
         "@akasha/code": "workspace:*",
         "@akasha/editor-extension": "workspace:*",
       },
-      "peerDependencies": {
-        "vscode": "^1.85.0",
-      },
-      "optionalPeers": [
-        "vscode",
-      ],
     },
     "editor-extension/vscode-typings": {
       "name": "@types/vscode",
@@ -1983,6 +1977,7 @@
         "@akasha/temper-watcher": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-run": "workspace:*",
+        "fflate": "0.8.3",
         "zod": "^4.3.6",
       },
     },

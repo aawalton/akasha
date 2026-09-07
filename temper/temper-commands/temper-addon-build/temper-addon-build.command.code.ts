@@ -2,6 +2,7 @@ import { existsSync, rmSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
+import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { copyAddonMetadata } from "@akasha/temper-addon-build/addon-metadata-copy"
 import { TSCONFIG_NAME, tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
@@ -9,6 +10,8 @@ import { COMPILER_ENTRY, tstlCommand, tstlRoot } from "@akasha/temper-addon-buil
 import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
 import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
 import { ran, shown } from "@akasha/utils-run/running"
+import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+import { inNameOrder } from "../name-ordering/name-ordering.module.code.ts"
 
 const SAID_WRONG = 1
 const DATA = 2
@@ -37,15 +40,6 @@ type Built = {
   readonly code: number
 }
 
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
-
 function said(argv: readonly string[], flag: string): boolean {
   return argv.includes(flag)
 }
@@ -67,16 +61,8 @@ function walked(argv: readonly string[]): { names: string[]; unknown: string[] }
   return { names, unknown }
 }
 
-function inNameOrder(names: readonly string[]): readonly string[] {
-  return [...names].sort((a, b) => a.localeCompare(b))
-}
-
 function bytesAt(path: string): number {
   return existsSync(path) ? statSync(path).size : 0
-}
-
-function messageOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 function saidWrongIn(argv: readonly string[]): string | null {

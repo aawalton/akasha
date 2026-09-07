@@ -12,6 +12,7 @@ import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { collectGlobalWritesFromSource } from "@akasha/temper-build-deploy-checks/addon-global-ownership"
+import { namesIn, valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
 
 const DATA = 2
 
@@ -28,30 +29,6 @@ const PASSED_OVER = ["node_modules", "dist", "generated"]
 const BOUND = "lam-topology-binding"
 
 const SAVED_VARIABLES_SCHEMA = addonManifestSchema.pick({ savedVariables: true }).passthrough()
-
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
-
-function namesIn(argv: readonly string[]): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (TAKING_A_VALUE.includes(one)) {
-      at += 1
-      continue
-    }
-    if (one.startsWith("-")) continue
-    found.push(one)
-  }
-  return found
-}
 
 function filesUnder(dir: string, keep: (path: string) => boolean): readonly string[] {
   const found: string[] = []
@@ -148,7 +125,7 @@ function linesFor(report: GlobalDependentReport): readonly string[] {
 
 export function temperAddonGlobalNameDependents(argv: readonly string[] = []): Answer {
   const root = resolve(valuesOf(argv, REPO_ROOT_FLAG)[0] ?? codeRoot())
-  const named = valuesOf(argv, GLOBAL_FLAG)[0] ?? namesIn(argv)[0]
+  const named = valuesOf(argv, GLOBAL_FLAG)[0] ?? namesIn(argv, TAKING_A_VALUE)[0]
 
   const addons = listAllAddons({ repoRoot: root })
   if (addons.length === 0) {

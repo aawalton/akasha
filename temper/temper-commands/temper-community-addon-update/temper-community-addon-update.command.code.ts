@@ -1,5 +1,6 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
+import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
 import { downloadAndInstall } from "@akasha/temper-community-addons/addon-download"
 import {
@@ -12,6 +13,7 @@ import {
 import { fetchCatalog, fetchFileDetails } from "@akasha/temper-community-addons/esoui-catalog"
 import { readInstalledAddons } from "@akasha/temper-community-addons/installed-addons"
 import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 
@@ -35,19 +37,6 @@ type Outcome = {
   readonly from: string | undefined
   readonly to: string | undefined
   readonly error?: string
-}
-
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
-
-function messageOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 function dirsByUid(selected: readonly PlannedAddon[]): ReadonlyMap<string, string[]> {

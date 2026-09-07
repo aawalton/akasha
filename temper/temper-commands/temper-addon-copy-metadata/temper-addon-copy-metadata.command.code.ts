@@ -1,28 +1,17 @@
 import { resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
+import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { copyAddonMetadata } from "@akasha/temper-addon-build/addon-metadata-copy"
 import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
+import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 const DATA = 2
 
 const ADDON = "--addon"
 const CODE_ROOT = "--code-root"
-
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
-
-function messageOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
 
 export async function temperAddonCopyMetadata(argv: readonly string[] = []): Promise<Answer> {
   const asked = valuesOf(argv, ADDON)

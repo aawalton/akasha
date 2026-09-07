@@ -1,6 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
+import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { CATALOG_DOMAIN_KEYS } from "@akasha/temper-catalog-core/domain-keys"
 import {
   type AccountSummary,
@@ -11,6 +12,7 @@ import {
   resolveSideFilePath,
 } from "@akasha/temper-catalog-side-file/catalog-file-paths"
 import { parseSideFile, type SideFile } from "@akasha/temper-catalog-side-file/catalog-side-file"
+import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
 
 const DATA = 2
 
@@ -23,19 +25,6 @@ const JSON_FLAG = "--json"
 const SPACES = 2
 
 const HEADING = "account\tdomain\tcollected\tpendingInvalidation\tskipReason"
-
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
-
-function messageOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
 
 function owedIn(summary: AccountSummary, sideFile: SideFile | undefined): ReadonlySet<string> {
   if (sideFile === undefined) return new Set()

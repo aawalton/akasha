@@ -1,10 +1,12 @@
 import { join, resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
+import { saidBy as saidOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
 import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { ran } from "@akasha/utils-run/running"
+import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
 
 const DATA = 2
 
@@ -30,15 +32,6 @@ type Judged = {
   readonly code: number
 }
 
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
-
 function inNameOrder(all: readonly AddonInfo[]): readonly AddonInfo[] {
   return [...all].sort((a, b) => a.canonicalName.localeCompare(b.canonicalName))
 }
@@ -56,10 +49,6 @@ function judged(root: string, one: AddonInfo, config: string, left: number): Jud
     errors,
     code: said.code,
   }
-}
-
-function saidOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 function rowOf(one: Judged): string {

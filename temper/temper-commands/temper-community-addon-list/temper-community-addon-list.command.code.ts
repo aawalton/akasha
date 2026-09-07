@@ -1,10 +1,12 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
+import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
 import { type PlannedAddon, planUpdates } from "@akasha/temper-community-addons/addon-update-plan"
 import { fetchCatalog } from "@akasha/temper-community-addons/esoui-catalog"
 import { readInstalledAddons } from "@akasha/temper-community-addons/installed-addons"
 import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
 
 const FAILED = 3
 
@@ -17,19 +19,6 @@ const REPO_ROOT_FLAG = "--repo-root"
 const JSON_FLAG = "--json"
 
 const SPACES = 2
-
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
-
-function messageOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
 
 function ownedIn(repoRoot: string | undefined): ReadonlySet<string> {
   return new Set(

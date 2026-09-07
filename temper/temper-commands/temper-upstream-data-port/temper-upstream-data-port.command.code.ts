@@ -1,6 +1,7 @@
 import { realpathSync } from "node:fs"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
+import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { port as portHousing } from "@akasha/temper-upstream-data/housing-upstream-port"
 import { port as portMapData } from "@akasha/temper-upstream-data/map-data-upstream-port"
@@ -8,6 +9,7 @@ import { port as portTreasure } from "@akasha/temper-upstream-data/treasure-upst
 import type { UpstreamLibrary } from "@akasha/temper-upstream-data/upstream-libraries"
 import { libraryNamed, UPSTREAM_LIBRARIES } from "@akasha/temper-upstream-data/upstream-libraries"
 import { port as portZone } from "@akasha/temper-upstream-data/zone-upstream-port"
+import { namesIn, valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 
@@ -21,39 +23,11 @@ const CODE_ROOT_ENV = "CODE_ROOT"
 
 const TAKING_A_VALUE = [CODE_ROOT_FLAG]
 
-const PORTED_BY: Record<UpstreamLibrary, (codeRoot: string) => Promise<void>> = {
+const PORTED_BY: Record<UpstreamLibrary, (root: string) => Promise<void>> = {
   housing: portHousing,
   "lib-map-data": portMapData,
   "lib-treasure": portTreasure,
   "lib-zone": portZone,
-}
-
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
-
-function namesIn(argv: readonly string[]): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (TAKING_A_VALUE.includes(one)) {
-      at += 1
-      continue
-    }
-    if (one.startsWith("-")) continue
-    found.push(one)
-  }
-  return found
-}
-
-function messageOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 function carried(): string {
@@ -61,7 +35,7 @@ function carried(): string {
 }
 
 export async function temperUpstreamDataPort(argv: readonly string[] = []): Promise<Answer> {
-  const names = namesIn(argv)
+  const names = namesIn(argv, TAKING_A_VALUE)
   if (names.length === 0) {
     return refused(`name the upstream library ported — this carries ${carried()}`, SAID_WRONG)
   }

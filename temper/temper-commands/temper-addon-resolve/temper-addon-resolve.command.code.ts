@@ -3,6 +3,7 @@ import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
 import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
+import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
 
 const DATA = 2
 
@@ -13,15 +14,6 @@ const TAKES_A_VALUE = [ROOT_FLAG]
 const FLAG_MARK = "--"
 
 const SPACES = 2
-
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
 
 function namesIn(argv: readonly string[]): readonly string[] {
   const found: string[] = []

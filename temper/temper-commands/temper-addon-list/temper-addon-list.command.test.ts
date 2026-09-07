@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import { manifestFor } from "../addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
 import { temperAddonList } from "./temper-addon-list.command.code.ts"
 
 const scratch = scratchWorld()
@@ -11,20 +12,6 @@ afterAll(scratch.sweep)
 const FLAT = "TemperFlat"
 const NESTED = "TemperNested"
 const NESTED_DIR = "akasha/temper/temper-nested-addon"
-
-function manifestFor(name: string): string {
-  return JSON.stringify({
-    name,
-    title: name,
-    description: `${name} for a test`,
-    author: "test",
-    version: "1.0.0",
-    addonVersion: 100,
-    apiVersion: ["101041"],
-    savedVariables: [],
-    dependsOn: [],
-  })
-}
 
 function fixtureFor(): string {
   const root = scratch.rootFor("temper-list-root-")

@@ -2,6 +2,7 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 
 import { join, relative, resolve, sep } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
+import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
@@ -12,6 +13,7 @@ import {
 } from "@akasha/temper-addons-resolve/distributable-set"
 import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
 import { type Zippable, zipSync } from "fflate"
+import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 
@@ -42,19 +44,6 @@ const BUILT_BY = "temper-addon-build --all --build-only"
 const DEPENDS_SCHEMA = addonManifestSchema
   .pick({ dependsOn: true, optionalDependsOn: true })
   .passthrough()
-
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
-
-function messageOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
 
 function filesUnder(root: string): readonly string[] {
   const found: string[] = []

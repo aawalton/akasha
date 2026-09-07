@@ -2,6 +2,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
+import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { CATALOG_DOMAIN_KEYS } from "@akasha/temper-catalog-core/domain-keys"
 import { resolveSideFilePath } from "@akasha/temper-catalog-side-file/catalog-file-paths"
 import {
@@ -9,6 +10,7 @@ import {
   parseSideFile,
   serializeSideFile,
 } from "@akasha/temper-catalog-side-file/catalog-side-file"
+import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 
@@ -23,19 +25,6 @@ const SIDE_FILE_FLAG = "--side-file"
 const JSON_FLAG = "--json"
 
 const SPACES = 2
-
-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const value = argv[at + 1]
-    if (argv[at] === flag && value !== undefined) found.push(value)
-  }
-  return found
-}
-
-function messageOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
 
 function saidWrongIn(argv: readonly string[], asked: readonly string[]): string | null {
   const all = argv.includes(ALL_FLAG)
