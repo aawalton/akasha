@@ -1,0 +1,103 @@
+writerOwesReading: false
+diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
+index ccdae91fdf0d4db19f03a6f0828583c71ffac873..3007d0c75ad2689b561ea5871fcb50d73cf12061 100644
+--- a/command-system/landing/landing.module.code.ts
++++ b/command-system/landing/landing.module.code.ts
+@@ -445,10 +445,10 @@ export async function landing(
+     const base = baseOf(root)
+     const stale = unfresh(root, named, base, changes, asRead, AGAIN_WRITTEN)
+     if (stale !== null) return stale
+-    const before = beforeOf(root, base, changes)
++    const split = heldBack(root, changes)
++    const before = beforeOf(root, base, split.committing)
+     const keeping = indexingLoaded()
+     try {
+-      const split = heldBack(root, changes)
+       const put = wroteOnto(root, split.committing)
+       const noted = indexed(root, changes, before, keeping)
+       const back = carriedOnto(root, carries)
+diff --git a/command-system/landing/landing.module.test-fixtures.ts b/command-system/landing/landing.module.test-fixtures.ts
+index 812416f54190d99583d7e42e4aba0b47b35c4ed0..dd605fa0d422e9860b4521ba03e402e68b6ff77d 100644
+--- a/command-system/landing/landing.module.test-fixtures.ts
++++ b/command-system/landing/landing.module.test-fixtures.ts
+@@ -117,6 +117,8 @@ export async function pageLanded(root: string): Promise<string> {
+ 
+ const HELD_OUT = "deep/held.uncommitted.json"
+ 
++const KEPT_OUT = "kept.uncommitted.json"
++
+ export const IGNORED_OUT: readonly string[] = [".gitignore", "new.txt", "one.txt"]
+ 
+ const SPLIT: readonly FileEdit[] = [
+@@ -144,6 +146,29 @@ export async function splitLanded(): Promise<{
+   }
+ }
+ 
++export async function splitKept(): Promise<string | null> {
++  const root = ignoringRepo()
++  writeFileSync(join(root, KEPT_OUT), "was")
++  const at = join(root, ".git/objects")
++  chmodSync(at, 0o500)
++  try {
++    await landing(
++      root,
++      [
++        { path: "new.txt", body: bytesOf("proposed") },
++        { path: KEPT_OUT, body: bytesOf("now") },
++      ],
++      "held",
++      ADMITS
++    )
++  } catch {
++  } finally {
++    chmodSync(at, 0o700)
++  }
++  const full = join(root, KEPT_OUT)
++  return existsSync(full) ? readFileSync(full, "utf8") : null
++}
++
+ export async function splitThrew(): Promise<{
+   readonly why: string
+   readonly left: readonly string[]
+diff --git a/command-system/landing/landing.module.test.ts b/command-system/landing/landing.module.test.ts
+index fa29e13af5c5290cfd37605137eb04809bb036ce..863e0951600d00defc0bcd165dc29ff9654dfaaf 100644
+--- a/command-system/landing/landing.module.test.ts
++++ b/command-system/landing/landing.module.test.ts
+@@ -44,6 +44,7 @@ import {
+   REFUSES,
+   repoWith,
+   scratch,
++  splitKept,
+   splitLanded,
+   splitThrew,
+ } from "./landing.module.test-fixtures.ts"
+@@ -345,6 +346,10 @@ test("a path the repository ignores is written onto the tree and left out of the
+   expect(said.files).toEqual(IGNORED_OUT)
+ })
+ 
++test("a commit that throws leaves the body an ignored path already held", async () => {
++  expect(await splitKept()).toBe("was")
++})
++
+ test("a commit that throws leaves no trace of the path the repository ignores", async () => {
+   const said = await splitThrew()
+   expect(said.why).toContain("insufficient permission")
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index 251e06a474a741d79a5836de656ab68f9d3b395b..bd876e2ce20a921e00d382bc0f97b8d7187c39b7 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -115,6 +115,14 @@ export const landing = {
+       invariantKind: "departure",
+       statement: "A landing that throws writes no path the repository ignores.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A landing that throws puts back the paths that landing commits alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body an ignored path already held stands where a landing throws.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A path the repository ignores is answered as neither written nor taken.",
