@@ -1,0 +1,103 @@
+writerOwesReading: false
+diff --git a/language-design/lua-compiler/lua-compiler.workspace-package.ts b/language-design/lua-compiler/lua-compiler.workspace-package.ts
+index 0bf0d7cb21de611d7124d3f78eaeb2d18fb49124..56a47afa47bc63b942dff299e75ac6b8f5e61879 100644
+--- a/language-design/lua-compiler/lua-compiler.workspace-package.ts
++++ b/language-design/lua-compiler/lua-compiler.workspace-package.ts
+@@ -82,7 +82,7 @@ export const luaCompiler = {
+     "module/tstl-preceding-statements",
+     "module/tstl-safe-names",
+     "module/tstl-scope",
+-    "module/tstl-scope-references",
++    "module/scope-references",
+     "module/tstl-symbols",
+     "module/tstl-symbols-deps",
+     "module/tstl-this-void-adapter",
+diff --git a/language-design/lua-compiler/scope-references/scope-references.module.code.ts b/language-design/lua-compiler/scope-references/scope-references.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2c91f6401dfcfa323e725dfe6a617f8a40f5529c
+--- /dev/null
++++ b/language-design/lua-compiler/scope-references/scope-references.module.code.ts
+@@ -0,0 +1,17 @@
++import type * as ts from "typescript"
++import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
++import type * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
++import { getOrUpdate } from "../tstl-utils/tstl-utils.module.code.ts"
++
++export function markSymbolAsReferencedInCurrentScopes(
++  context: TransformationContext,
++  symbolId: luaCore.SymbolId,
++  identifier: ts.Identifier
++): undefined {
++  for (const scope of context.scopeStack) {
++    scope.referencedSymbols ??= new Map()
++
++    const references = getOrUpdate(scope.referencedSymbols, symbolId, () => [])
++    references.push(identifier)
++  }
++}
+diff --git a/language-design/lua-compiler/scope-references/scope-references.module.ts b/language-design/lua-compiler/scope-references/scope-references.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cebe64de29504d9d00c8d50f7ae0e517d8f44c03
+--- /dev/null
++++ b/language-design/lua-compiler/scope-references/scope-references.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code/module"
++
++export const scopeReferences = {
++  id: "01a06758-8e92-7001-8bb3-e808b2906a85",
++  pageTypeSlug: "module",
++  slug: "scope-references",
++  definition: "the record that a symbol is referenced in every open scope",
++  code: "ts",
++} as const satisfies Module
+diff --git a/language-design/lua-compiler/tstl-scope-references/tstl-scope-references.module.code.ts b/language-design/lua-compiler/tstl-scope-references/tstl-scope-references.module.code.ts
+deleted file mode 100644
+index 2c91f6401dfcfa323e725dfe6a617f8a40f5529c..0000000000000000000000000000000000000000
+--- a/language-design/lua-compiler/tstl-scope-references/tstl-scope-references.module.code.ts
++++ /dev/null
+@@ -1,17 +0,0 @@
+-import type * as ts from "typescript"
+-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+-import type * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
+-import { getOrUpdate } from "../tstl-utils/tstl-utils.module.code.ts"
+-
+-export function markSymbolAsReferencedInCurrentScopes(
+-  context: TransformationContext,
+-  symbolId: luaCore.SymbolId,
+-  identifier: ts.Identifier
+-): undefined {
+-  for (const scope of context.scopeStack) {
+-    scope.referencedSymbols ??= new Map()
+-
+-    const references = getOrUpdate(scope.referencedSymbols, symbolId, () => [])
+-    references.push(identifier)
+-  }
+-}
+diff --git a/language-design/lua-compiler/tstl-scope-references/tstl-scope-references.module.ts b/language-design/lua-compiler/tstl-scope-references/tstl-scope-references.module.ts
+deleted file mode 100644
+index 2faa622cebf43c7a012a35a2b10b9af82afbf149..0000000000000000000000000000000000000000
+--- a/language-design/lua-compiler/tstl-scope-references/tstl-scope-references.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const tstlScopeReferences = {
+-  id: "01a06758-8e92-7001-8bb3-e808b2906a85",
+-  pageTypeSlug: "module",
+-  slug: "tstl-scope-references",
+-  definition: "the record that a symbol is referenced in every open scope",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/language-design/lua-compiler/tstl-symbols/tstl-symbols.module.code.ts b/language-design/lua-compiler/tstl-symbols/tstl-symbols.module.code.ts
+index a924a57737c7fd70c032ad59e553bde1f7a55464..9dc5d8a8173ad2986477fab21ad772ea120a8996 100644
+--- a/language-design/lua-compiler/tstl-symbols/tstl-symbols.module.code.ts
++++ b/language-design/lua-compiler/tstl-symbols/tstl-symbols.module.code.ts
+@@ -1,7 +1,7 @@
+ import type * as ts from "typescript"
+ import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
++import { markSymbolAsReferencedInCurrentScopes } from "../scope-references/scope-references.module.code.ts"
+ import type * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
+-import { markSymbolAsReferencedInCurrentScopes } from "../tstl-scope-references/tstl-scope-references.module.code.ts"
+ import { requireIsOptimizedVarArgSpread } from "../tstl-symbols-deps/tstl-symbols-deps.module.code.ts"
+ 
+ export interface SymbolInfo {
