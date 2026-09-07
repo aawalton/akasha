@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Given } from "../../calling/calling.module.code.ts"
+import { refusingWith } from "../../calling/calling.module.test-fixtures.ts"
 import { calendar, readIn } from "./calendar.command.code.ts"
 
 function given(): Given {
@@ -12,11 +13,7 @@ function given(): Given {
   }
 }
 
-function refusedBy(argv: readonly string[]): readonly string[] {
-  const read = readIn(argv)
-  if (!("refused" in read)) throw new Error(`${argv.join(" ")} was read rather than refused`)
-  return read.refused
-}
+const refusedBy = refusingWith(readIn)
 
 test("nothing said is refused, naming what it acts on", async () => {
   const said = await calendar([], given())

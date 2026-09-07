@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Given } from "../../calling/calling.module.code.ts"
+import { refusingWith } from "../../calling/calling.module.test-fixtures.ts"
 import { drive, folderOf, readIn } from "./drive.command.code.ts"
 
 function given(): Given {
@@ -12,11 +13,7 @@ function given(): Given {
   }
 }
 
-function refusedBy(argv: readonly string[]): readonly string[] {
-  const read = readIn(argv)
-  if (!("refused" in read)) throw new Error(`${argv.join(" ")} was read rather than refused`)
-  return read.refused
-}
+const refusedBy = refusingWith(readIn)
 
 test("nothing said is refused, naming the acts", async () => {
   const said = await drive([], given())
@@ -42,7 +39,7 @@ test("a flag it does not take is refused", () => {
 })
 
 test("a flag another act takes is refused under this one", () => {
-  expect(refusedBy(["auth", "login", "--out", "/var/tmp"])[0]).toContain("--out")
+  expect(refusedBy(["auth", "login", "--out", "/elsewhere"])[0]).toContain("--out")
 })
 
 test("a flag with no value after it is refused", () => {

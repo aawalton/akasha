@@ -100,9 +100,9 @@ export function bootstrapped(root: string): undefined {
   )
 }
 
-export function refusingWith<T extends object>(
-  taken: (argv: readonly string[]) => T | { readonly refused: string }
-): (argv: readonly string[]) => string {
+export function refusingWith<T extends object, R>(
+  taken: (argv: readonly string[]) => T | { readonly refused: R }
+): (argv: readonly string[]) => R {
   return (argv) => {
     const held = taken(argv)
     if (!("refused" in held)) throw new Error(`\`${argv.join(" ")}\` was taken rather than refused`)

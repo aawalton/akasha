@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Given } from "../../calling/calling.module.code.ts"
+import { refusingWith } from "../../calling/calling.module.test-fixtures.ts"
 import { folderOf, icloud, readIn } from "./icloud.command.code.ts"
 
 const ALBUM = "https://share.icloud.com/photos/0ABCdef"
@@ -14,11 +15,7 @@ function given(): Given {
   }
 }
 
-function refusedBy(argv: readonly string[]): readonly string[] {
-  const read = readIn(argv)
-  if (!("refused" in read)) throw new Error(`${argv.join(" ")} was read rather than refused`)
-  return read.refused
-}
+const refusedBy = refusingWith(readIn)
 
 test("nothing said is refused, naming the act", async () => {
   const said = await icloud([], given())
