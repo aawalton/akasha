@@ -105,7 +105,7 @@ index 0000000000000000000000000000000000000000..330a692711d6c2261a866f22ce26ed9a
 +})
 diff --git a/changes/guards/pages/body-not-written-over/body-not-written-over.change-guard.ts b/changes/guards/pages/body-not-written-over/body-not-written-over.change-guard.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..8130eb178e4cdf766ce43bfed4d51f38a2d69fde
+index 0000000000000000000000000000000000000000..307e3681c3833ea7fc7c894e99dadb841e32d93c
 --- /dev/null
 +++ b/changes/guards/pages/body-not-written-over/body-not-written-over.change-guard.ts
 @@ -0,0 +1,37 @@
@@ -138,7 +138,7 @@ index 0000000000000000000000000000000000000000..8130eb178e4cdf766ce43bfed4d51f38
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "An edit landing where it moved to is judged by nothing here.",
++      statement: "An edit that moves a file is judged by nothing here.",
 +    },
 +    {
 +      invariantKind: "absence",
