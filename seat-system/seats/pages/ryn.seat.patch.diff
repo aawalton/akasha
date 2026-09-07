@@ -1,0 +1,17 @@
+diff --git a/code-system/file-kind-bytes/file-kind-bytes.module.ts b/code-system/file-kind-bytes/file-kind-bytes.module.ts
+index db4f9f4a9244be1e5b004ca6a20724916115b7b4..46f8df504ace4841d960de691e4029d65c0e6cf6 100644
+--- a/code-system/file-kind-bytes/file-kind-bytes.module.ts
++++ b/code-system/file-kind-bytes/file-kind-bytes.module.ts
+@@ -18,7 +18,11 @@ export const fileKindBytes = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name reaching no kind at all is text, which its reader then proves or refuses.",
++      statement: "A name reaching no kind at all is text.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The reader of that text then proves or refuses the text.",
+     },
+     {
+       invariantKind: "constraint",
