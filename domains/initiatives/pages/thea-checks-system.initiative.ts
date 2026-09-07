@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Alan: turn a check on carrying its residue; clear every violation at the end, once all are on and fast. Owed: 19 lualib specifiers, 10 restatements narrowing nothing, 18 shellcheck findings. shell-clean is on, its reliance on a host shellcheck filed as a finding at Alan's word. 41 of 44 now run at patch. Left: folder-matches-a-shape and identifier-matches-its-place, both at step 1, then the clearing. tests-pass belongs to intent 2.",
+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. The walk over every check is done and 41 of 44 run at patch. folder-matches-a-shape and identifier-matches-its-place are off by Alan's call, reviewed already, so neither is walked again. tests-pass belongs to intent 2. Clearing: restatements narrowing nothing are at 0, shellcheck findings down from 18 to 6. All 6 left are zshrc, which shellcheck reads as sh because it has no zsh mode, so that one is Alan's call. Still owed: 19 lualib specifiers.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
