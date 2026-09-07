@@ -1,0 +1,627 @@
+diff --git a/changes/checked/change-checked.page-type.ts b/changes/checked/change-checked.page-type.ts
+index 231aca1113eb6e013a84fc0bc0fb576255fe845e..706449851ef77b3ae6bf35f1b27595e2fd7e2db9 100644
+--- a/changes/checked/change-checked.page-type.ts
++++ b/changes/checked/change-checked.page-type.ts
+@@ -24,6 +24,7 @@ export const changeChecked = {
+     "change-checked/remove-page-type",
+     "change-checked/remove-property-value",
+     "change-checked/rename-code-token",
++    "change-checked/rename-package",
+     "change-checked/rename-page",
+     "change-checked/change-domain-parent",
+   ],
+diff --git a/changes/checked/pages/rename-package/rename-package.change-checked.code.ts b/changes/checked/pages/rename-package/rename-package.change-checked.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..10d197ecee3985bacd2b9c6b64deb38eea94191b
+--- /dev/null
++++ b/changes/checked/pages/rename-package/rename-package.change-checked.code.ts
+@@ -0,0 +1,189 @@
++import { dirname } from "node:path"
++import { placedIn } from "@akasha/code/code-specifier"
++import { manifestsIn } from "@akasha/indexes/package-reaching"
++import { matchingIn } from "@akasha/pages/name-format/format-reaching"
++import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
++import type { Matching } from "@akasha/pages/name-format/name-matching"
++import ts from "typescript"
++import {
++  manifestIn,
++  nameIn,
++  namingIn,
++  refusalOf,
++} from "../../../../checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.code.ts"
++import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
++import {
++  answered,
++  missing,
++  refusing,
++  writing,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++
++const AT = "at"
++
++const TO = "to"
++
++const NAME = "name"
++
++const UNDER = "/"
++
++const AFTER = ":"
++
++const OVER = "@"
++
++type Splice = { readonly start: number; readonly end: number; readonly said: string }
++
++type Aliased = { readonly opening: string; readonly named: string; readonly range: string }
++
++export type RenamePackageAsked = {
++  readonly at: string
++  readonly to: string
++}
++
++export function nameFor(said: string, was: string, to: string): string | null {
++  if (said === was) return to
++  if (said.startsWith(`${was}${UNDER}`)) return `${to}${said.slice(was.length)}`
++  return null
++}
++
++export function aliasIn(said: string): Aliased | null {
++  const at = said.indexOf(AFTER)
++  if (at < 0) return null
++  const held = said.slice(at + 1)
++  const last = held.lastIndexOf(OVER)
++  if (last <= 0) return null
++  return {
++    opening: said.slice(0, at + 1),
++    named: held.slice(0, last),
++    range: held.slice(last),
++  }
++}
++
++function splicedOver(text: string, found: readonly Splice[]): string {
++  let out = ""
++  let from = 0
++  for (const one of found) {
++    out = `${out}${text.slice(from, one.start)}${one.said}`
++    from = one.end
++  }
++  return `${out}${text.slice(from)}`
++}
++
++function saidAt(source: ts.JsonSourceFile, node: ts.Node, said: string): Splice {
++  return { start: node.getStart(source), end: node.getEnd(), said: JSON.stringify(said) }
++}
++
++function overHeld(
++  node: ts.Node,
++  source: ts.JsonSourceFile,
++  was: string,
++  to: string,
++  found: Splice[]
++): undefined {
++  if (ts.isObjectLiteralExpression(node)) {
++    for (const one of node.properties) {
++      if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
++      const value = one.initializer
++      const alias = ts.isStringLiteral(value) ? aliasIn(value.text) : null
++      if (alias !== null && alias.named === to) continue
++      if (one.name.text === was) found.push(saidAt(source, one.name, to))
++      if (alias === null) {
++        overHeld(value, source, was, to, found)
++        continue
++      }
++      if (alias.named === was) {
++        found.push(saidAt(source, value, `${alias.opening}${to}${alias.range}`))
++      }
++    }
++    return
++  }
++  if (ts.isArrayLiteralExpression(node)) {
++    for (const one of node.elements) overHeld(one, source, was, to, found)
++    return
++  }
++  if (ts.isStringLiteral(node) && node.text === was) found.push(saidAt(source, node, to))
++}
++
++export function respelled(at: string, text: string, was: string, to: string): string {
++  const found: Splice[] = []
++  for (const one of placedIn(at, text)) {
++    const next = nameFor(one.text, was, to)
++    if (next === null) continue
++    found.push({ start: one.start, end: one.end, said: JSON.stringify(next) })
++  }
++  return splicedOver(text, found)
++}
++
++export function restated(at: string, text: string, was: string, to: string): string {
++  const source = ts.parseJsonText(at, text)
++  const first = source.statements[0]
++  if (first === undefined) return text
++  const found: Splice[] = []
++  overHeld(first.expression, source, was, to, found)
++  return splicedOver(text, found)
++}
++
++function matchingFor(world: World): Matching | string {
++  try {
++    return matchingIn(world.root, world.index)(lowerKebabCase.slug)
++  } catch (cause) {
++    return cause instanceof Error ? cause.message : String(cause)
++  }
++}
++
++function reachedIn(at: string, text: string): ReadonlyMap<string, string> {
++  const held = namingIn(dirname(at), text)
++  const said = held === null ? [] : [...held.reached]
++  return new Map(said.map((one) => [one, one]))
++}
++
++function manifestsOf(world: World): readonly string[] {
++  return manifestsIn(world.index.everyPath(), world.index.fileKeysAt())
++}
++
++export function renamePackage(world: World, given: RenamePackageAsked): Answer {
++  const text = world.textOf(given.at)
++  if (text === null) return refusing(`\`${given.at}\` could not be read`)
++  const held = manifestIn(text)
++  if (held === null || Array.isArray(held)) {
++    return refusing(`\`${given.at}\` reads as no JSON object, so no package is renamed`)
++  }
++  const was = nameIn(text)
++  if (was === null) {
++    return refusing(`\`${given.at}\` states no \`${NAME}\`, so no package is renamed`)
++  }
++  if (was === given.to) return refusing(`\`${given.to}\` is the name this package carries`)
++  const matching = matchingFor(world)
++  if (typeof matching === "string") return refusing(matching)
++  const said = refusalOf(given.to, matching)
++  if (said !== null) return refusing(`${said}, so no package is renamed`)
++  const reading = importingOf(world.index, reachedIn(given.at, text))
++  if ("unread" in reading) return refusing(reading.unread)
++  const edits: Edit[] = [writing(given.at, text, restated(given.at, text, was, given.to))]
++  for (const path of manifestsOf(world)) {
++    if (path === given.at) continue
++    const body = world.textOf(path)
++    if (body === null || !body.includes(was)) continue
++    const next = restated(path, body, was, given.to)
++    if (next !== body) edits.push(writing(path, body, next))
++  }
++  for (const path of reading.importers) {
++    const body = world.textOf(path)
++    if (body === null) return refusing(`\`${path}\` reaches this package and could not be read`)
++    const next = respelled(path, body, was, given.to)
++    if (next !== body) edits.push(writing(path, body, next))
++  }
++  return answered(edits)
++}
++
++export type Asked = Readonly<Record<string, string>>
++
++export function runChange(world: World, given: Asked): Answer {
++  const at = given[AT]
++  if (at === undefined) return refusing(missing(AT))
++  const to = given[TO]
++  if (to === undefined) return refusing(missing(TO))
++  return renamePackage(world, { at, to })
++}
+diff --git a/changes/checked/pages/rename-package/rename-package.change-checked.test.ts b/changes/checked/pages/rename-package/rename-package.change-checked.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..47e110bb2025d4cd1cada0b6221395dc01caec48
+--- /dev/null
++++ b/changes/checked/pages/rename-package/rename-package.change-checked.test.ts
+@@ -0,0 +1,304 @@
++import { afterAll, expect, test } from "bun:test"
++import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { renamePackage, runChange } from "./rename-package.change-checked.code.ts"
++
++afterAll(scratch.sweep)
++
++const INNER = "@akasha/inner"
++
++const HELD = "@akasha/held"
++
++const INNER_MANIFEST = "akasha/inner/package.json"
++
++const OUTER_MANIFEST = "akasha/outer/package.json"
++
++const ROOT_MANIFEST = "akasha/root/package.json"
++
++const READER_CODE = "akasha/outer/reader.module.code.ts"
++
++const idAt = (one: string): string => `01a04a4a-0002-7000-8000-00000000000${one}`
++
++const INNER_BODY = `{
++  "name": "${INNER}",
++  "exports": {
++    ".": "./one.ts",
++    "./two": "./two.ts"
++  }
++}
++`
++
++const OUTER_BODY = `{
++  "name": "@akasha/outer",
++  "exports": {
++    ".": "./reader.module.code.ts"
++  },
++  "dependencies": {
++    "${INNER}": "workspace:*"
++  }
++}
++`
++
++const ROOT_BODY = `{
++  "name": "@akasha/root",
++  "dependencies": {
++    "${INNER}": "workspace:${HELD}@*",
++    "@akasha/stale": "workspace:${INNER}@*",
++    "typescript": "npm:typescript@5.9.3"
++  },
++  "trustedDependencies": ["${INNER}"]
++}
++`
++
++const ROOT_WANTED = `{
++  "name": "@akasha/root",
++  "dependencies": {
++    "${INNER}": "workspace:${HELD}@*",
++    "@akasha/stale": "workspace:${HELD}@*",
++    "typescript": "npm:typescript@5.9.3"
++  },
++  "trustedDependencies": ["${HELD}"]
++}
++`
++
++const READER_BODY = `import { one } from "${INNER}"
++import { two } from "${INNER}/two"
++
++export const spoken = "${INNER}"
++
++export const reader = one + two + spoken.length
++`
++
++const VOCABULARY: Readonly<Record<string, string>> = {
++  "akasha/text-property.page-type.ts": bodyOf({
++    id: idAt("0"),
++    pageTypeSlug: "page-type",
++    slug: "text-property",
++    extendsSlug: ["page-type/page-property"],
++  }),
++  "akasha/file-name.text-property.ts": bodyOf({
++    id: idAt("1"),
++    pageTypeSlug: "text-property",
++    slug: "file-name",
++    propertySlug: "file-name",
++  }),
++  "akasha/named-file-property.page-type.ts": bodyOf({
++    id: idAt("2"),
++    pageTypeSlug: "page-type",
++    slug: "named-file-property",
++    extendsSlug: ["page-type/page-property"],
++    properties: [{ pagePropertySlug: "text-property/file-name", required: true, many: false }],
++  }),
++  "akasha/manifest.named-file-property.ts": bodyOf({
++    id: idAt("3"),
++    pageTypeSlug: "named-file-property",
++    slug: "manifest",
++    propertySlug: "manifest",
++    fileName: "package.json",
++  }),
++  "akasha/workspace-package.page-type.ts": bodyOf({
++    id: idAt("4"),
++    pageTypeSlug: "page-type",
++    slug: "workspace-package",
++    extendsSlug: ["page-type/domain"],
++    properties: [{ pagePropertySlug: "named-file-property/manifest", required: true, many: false }],
++  }),
++  "akasha/name-format.page-type.ts": bodyOf({
++    id: idAt("5"),
++    pageTypeSlug: "page-type",
++    slug: "name-format",
++    extendsSlug: ["page-type/module"],
++  }),
++  "akasha/lower-kebab-case.name-format.ts": pageOf({
++    id: idAt("6"),
++    pageTypeSlug: "name-format",
++    slug: "lower-kebab-case",
++    code: "ts",
++  }),
++  "akasha/lower-kebab-case.name-format.code.ts":
++    "export const lowerKebabCase = (name: string): boolean => /^[a-z0-9]+(-[a-z0-9]+)*$/.test(name)\n",
++}
++
++const PACKAGES: Readonly<Record<string, string>> = {
++  "akasha/inner/inner.workspace-package.ts": pageOf({
++    id: idAt("7"),
++    pageTypeSlug: "workspace-package",
++    slug: "inner",
++    manifest: "json",
++  }),
++  [INNER_MANIFEST]: INNER_BODY,
++  "akasha/inner/one.ts": "export const one = 1\n",
++  "akasha/inner/two.ts": "export const two = 2\n",
++  "akasha/outer/outer.workspace-package.ts": pageOf({
++    id: idAt("8"),
++    pageTypeSlug: "workspace-package",
++    slug: "outer",
++    manifest: "json",
++  }),
++  [OUTER_MANIFEST]: OUTER_BODY,
++  "akasha/outer/reader.module.ts": pageOf({
++    id: idAt("9"),
++    pageTypeSlug: "module",
++    slug: "reader",
++    code: "ts",
++  }),
++  [READER_CODE]: READER_BODY,
++  "akasha/root/root.workspace-package.ts": pageOf({
++    id: idAt("a"),
++    pageTypeSlug: "workspace-package",
++    slug: "root",
++    manifest: "json",
++  }),
++  [ROOT_MANIFEST]: ROOT_BODY,
++}
++
++const NOTHING = (): null => null
++
++const saying =
++  (body: string) =>
++  (path: string): string | null =>
++    path === INNER_MANIFEST ? body : null
++
++function bare(body: string): World {
++  return worldAt(scratch.rootFor("package-"), saying(body))
++}
++
++function packaged(): World {
++  const root = indexedRepo({ ...VOCABULARY, ...PACKAGES })
++  return worldAt(root, textIn(root))
++}
++
++function bodyIn(said: Answer, path: string): string | null | undefined {
++  return said.edits.find((one) => one.path === path)?.body
++}
++
++function pathsIn(said: Answer): readonly string[] {
++  return said.edits.map((one) => one.path).sort()
++}
++
++test("a manifest that could not be read is refused", () => {
++  const world = worldAt(scratch.rootFor("package-"), NOTHING)
++  const said = renamePackage(world, { at: INNER_MANIFEST, to: HELD })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${INNER_MANIFEST}\` could not be read`)
++})
++
++test("a body that is no JSON is refused", () => {
++  const said = renamePackage(bare("nothing here\n"), { at: INNER_MANIFEST, to: HELD })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(
++    `\`${INNER_MANIFEST}\` reads as no JSON object, so no package is renamed`
++  )
++})
++
++test("a body reading as a JSON list is refused", () => {
++  const said = renamePackage(bare("[1, 2]\n"), { at: INNER_MANIFEST, to: HELD })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(
++    `\`${INNER_MANIFEST}\` reads as no JSON object, so no package is renamed`
++  )
++})
++
++test("a manifest stating no name is refused", () => {
++  const said = renamePackage(bare('{ "exports": {} }\n'), { at: INNER_MANIFEST, to: HELD })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${INNER_MANIFEST}\` states no \`name\`, so no package is renamed`)
++})
++
++test("the name the package already carries is refused", () => {
++  const said = renamePackage(bare(INNER_BODY), { at: INNER_MANIFEST, to: INNER })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${INNER}\` is the name this package carries`)
++})
++
++test("a name that is no package name is refused", () => {
++  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: "one/two/three" })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(
++    "the manifest calls this package `one/two/three`, which is no `package-name`, " +
++      "so no package is renamed"
++  )
++})
++
++test("a scope written in no lower kebab case is refused", () => {
++  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: "@Akasha/held" })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(
++    "the manifest calls this package `@Akasha/held`, whose `Akasha` is not written in " +
++      "`lower-kebab-case`, so no package is renamed"
++  )
++})
++
++test("the package's own manifest states the new name and keeps its spacing", () => {
++  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
++  expect(said.refused).toBe(null)
++  expect(bodyIn(said, INNER_MANIFEST)).toBe(INNER_BODY.replace(`"${INNER}"`, `"${HELD}"`))
++})
++
++test("a manifest naming the package among its dependencies is restated", () => {
++  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
++  expect(said.refused).toBe(null)
++  expect(bodyIn(said, OUTER_MANIFEST)).toBe(OUTER_BODY.replace(`"${INNER}"`, `"${HELD}"`))
++})
++
++test("an entry whose value names the package under the new name is left as it is", () => {
++  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
++  expect(said.refused).toBe(null)
++  expect(bodyIn(said, ROOT_MANIFEST)).toContain(`"${INNER}": "workspace:${HELD}@*"`)
++})
++
++test("an entry whose value names the package under the old name states the new name", () => {
++  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
++  expect(said.refused).toBe(null)
++  expect(bodyIn(said, ROOT_MANIFEST)).toContain(`"@akasha/stale": "workspace:${HELD}@*"`)
++})
++
++test("a manifest carrying an alias is restated whole", () => {
++  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
++  expect(said.refused).toBe(null)
++  expect(bodyIn(said, ROOT_MANIFEST)).toBe(ROOT_WANTED)
++})
++
++test("a body reaching the package has each specifier naming it rewritten", () => {
++  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
++  expect(said.refused).toBe(null)
++  expect(bodyIn(said, READER_CODE)).toBe(`import { one } from "${HELD}"
++import { two } from "${HELD}/two"
++
++export const spoken = "${INNER}"
++
++export const reader = one + two + spoken.length
++`)
++})
++
++test("only the manifests and the bodies reaching the package are answered", () => {
++  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
++  expect(said.refused).toBe(null)
++  expect(pathsIn(said)).toEqual([INNER_MANIFEST, OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
++})
++
++test("a package no manifest and no body names is answered with its own manifest alone", () => {
++  const said = renamePackage(packaged(), { at: OUTER_MANIFEST, to: "@akasha/wider" })
++  expect(said.refused).toBe(null)
++  expect(pathsIn(said)).toEqual([OUTER_MANIFEST])
++})
++
++test("each edit states the body as it was before the change", () => {
++  const world = packaged()
++  const said = renamePackage(world, { at: INNER_MANIFEST, to: HELD })
++  expect(said.refused).toBe(null)
++  for (const one of said.edits) expect(one.was).toBe(world.textOf(one.path))
++})
++
++test("a call handing over no path is refused by the key naming it", () => {
++  const said = runChange(packaged(), { to: HELD })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toContain("`at`")
++})
++
++test("a call handing over no name is refused by the key naming it", () => {
++  const said = runChange(packaged(), { at: INNER_MANIFEST })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toContain("`to`")
++})
+diff --git a/changes/checked/pages/rename-package/rename-package.change-checked.ts b/changes/checked/pages/rename-package/rename-package.change-checked.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bcbfa98e45873451be85aff0c1a81dbe514bac81
+--- /dev/null
++++ b/changes/checked/pages/rename-package/rename-package.change-checked.ts
+@@ -0,0 +1,90 @@
++import type { ChangeChecked } from "../../change-checked.page-type.ts"
++
++export const renamePackage = {
++  id: "01a079db-f6e1-71b9-af6e-fd2b77ce7f9d",
++  pageTypeSlug: "change-checked",
++  slug: "rename-package",
++  definition:
++    "a package renamed wherever that package is named, in its manifest and in every specifier reaching it",
++  code: "ts",
++  test: "ts",
++  runsChecks: true,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The name a package carries is read from the manifest the caller names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A manifest reading as no JSON object is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A manifest stating no name is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name the package already carries is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name that is no package name is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A whole string in a manifest equal to the old name is restated as the new name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A manifest key is read as a local name whenever the value names a package.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A value naming the package under the old name states the new name instead.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An entry whose value already names the package under the new name is left alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every manifest the index names is read for the old name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A manifest keeps the spacing that manifest already carries.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The bodies reaching the package are the importers of the files the manifest names as ways in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A specifier that is the old name becomes the new name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A specifier opening with the old name and a slash keeps the tail past that name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A string naming no module is left as that string is.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A body is worked out here rather than by a mechanical change reached for that body.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No folder is carried here.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No page is renamed here.",
++    },
++  ],
++} as const satisfies ChangeChecked
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+index b61288212924a111f532ecffe95c243120796fc8..539d41fa561fe427846e83c066fc6f6ad28da567 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+@@ -35,6 +35,9 @@ export type Changes = {
+   "change-checked/rename-code-token": Parameters<
+     typeof import("../../../checked/pages/rename-code-token/rename-code-token.change-checked.code.ts")["runChange"]
+   >[1]
++  "change-checked/rename-package": Parameters<
++    typeof import("../../../checked/pages/rename-package/rename-package.change-checked.code.ts")["runChange"]
++  >[1]
+   "change-checked/rename-page": Parameters<
+     typeof import("../../../checked/pages/rename-page/rename-page.change-checked.code.ts")["runChange"]
+   >[1]
