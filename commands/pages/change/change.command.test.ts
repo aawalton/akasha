@@ -162,7 +162,7 @@ test("a drop naming one path takes that path's edit and leaves the rest", async 
   const root = repo()
   await removing(root, NAMER_PAGE)
 
-  const said = await acting(root, ["drop", NAMER_CODE])
+  const said = await acting(root, ["drop"], piping(taking(NAMER_CODE)))
 
   expect(said.refusals).toEqual([])
   expect(said.report).toEqual([
@@ -178,7 +178,7 @@ test("a drop naming several paths takes away every edit those paths name", async
   await removing(root, NAMER_PAGE)
   await removing(root, SPARE_PAGE)
 
-  const said = await acting(root, ["drop", NAMER_CODE, NAMER_PAGE])
+  const said = await acting(root, ["drop"], piping(taking(NAMER_CODE) + taking(NAMER_PAGE)))
 
   expect(said.report).toContain("2 edit(s) are still kept beside this agent's page")
   expect([...pathsIn(root)].sort()).toEqual([SPARE_CODE, SPARE_PAGE])
@@ -188,7 +188,7 @@ test("a path naming no edit kept refuses the drop and leaves every edit kept", a
   const root = repo()
   await removing(root, NAMER_PAGE)
 
-  const said = await acting(root, ["drop", MISSING])
+  const said = await acting(root, ["drop"], piping(taking(MISSING)))
 
   expect(said.code).toBe(1)
   expect(said.refusals).toEqual([
@@ -197,26 +197,21 @@ test("a path naming no edit kept refuses the drop and leaves every edit kept", a
   expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
 })
 
-test("a drop reads the paths piped in and leaves the edit no line named", async () => {
-  for (const said of [`${NAMER_CODE}\n`, taking(NAMER_CODE), `path: ${NAMER_CODE}\n`]) {
+test("a drop the command line or a line or the input refused leaves every edit kept", async () => {
+  const stalled = () => ({ unreadable: "went quiet", part: true as const })
+  for (const [argv, said] of [
+    [["drop", NAMER_CODE], undefined],
+    [["drop"], piping(`${NAMER_CODE}\n`)],
+    [["drop"], stalled],
+  ] as const) {
     const root = repo()
     await removing(root, NAMER_PAGE)
 
-    const answer = await acting(root, ["drop"], piping(said))
+    const answer = await acting(root, argv, said)
 
-    expect(answer.refusals).toEqual([])
-    expect(pathsIn(root)).toEqual([NAMER_PAGE])
+    expect(answer.code).toBe(1)
+    expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
   }
-})
-
-test("a path piped in naming no edit kept refuses the drop", async () => {
-  const root = repo()
-  await removing(root, NAMER_PAGE)
-
-  const said = await acting(root, ["drop"], piping(`${MISSING}\n`))
-
-  expect(said.code).toBe(1)
-  expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
 })
 
 test("an input that will not open is nothing piped in", async () => {
@@ -232,7 +227,7 @@ test("an edit a move left behind is taken away by the path that move came from",
   const root = repo()
   appendEdits(root, PAGE, [MOVED])
 
-  const said = await acting(root, ["drop", MOVED_FROM])
+  const said = await acting(root, ["drop"], piping(taking(MOVED_FROM)))
 
   expect(said.refusals).toEqual([])
   expect(said.report[0]).toBe(`moves ${MOVED_FROM} to ${MOVED.path}`)

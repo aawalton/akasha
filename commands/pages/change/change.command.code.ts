@@ -75,7 +75,14 @@ const APPLY = "apply"
 
 const NO_MESSAGE = "`apply` takes the commit message, and the message given is empty"
 
-const COMMAND_TYPES: readonly string[] = ["change-checked", "change-authored", "change-restated"]
+const CHANGE_COMMAND = "change-command"
+
+const COMMAND_TYPES: readonly string[] = [
+  CHANGE_COMMAND,
+  "change-checked",
+  "change-authored",
+  "change-restated",
+]
 
 const DROP = "drop"
 
@@ -232,9 +239,9 @@ export function stamped(said: Said, owed: boolean, owing: boolean): Said {
   }
 }
 
-function typeOf(world: World, slug: string): string | null {
+function typeOf(world: World, slug: string): string {
   for (const one of COMMAND_TYPES) if (world.index.pageAt(one, slug) !== null) return one
-  return null
+  return CHANGE_COMMAND
 }
 
 export async function appending(
@@ -282,20 +289,19 @@ export type Loading = (world: World, at: string) => Promise<Loaded | string>
 
 export type Applying = (message: string) => Promise<Answer>
 
-const DROP_KEYS: readonly string[] = [AT, "path"]
+const DROP_LINE = "a drop names each path on a line of its own, written `at` and the path"
 
-const DROP_NAMES_NOTHING =
-  "the lines piped in name no path, and a drop naming no path takes every edit kept away"
+const DROP_NAMES_NOTHING = `the lines piped in name no path, and ${DROP_LINE}`
+
+const DROP_ON_LINE = `is said on the command line, and ${DROP_LINE}`
 
 export function droppedIn(said: string): readonly string[] | string {
   const held: string[] = []
   for (const line of said.split("\n")) {
     const one = line.trim()
     if (one === "") continue
-    const ends = one.indexOf(":")
-    const key = ends === -1 ? "" : one.slice(0, ends).trim()
-    const path = DROP_KEYS.includes(key) ? one.slice(ends + 1).trim() : one
-    if (path === "") return `\`${one}\` names no path, so nothing went`
+    const path = one.startsWith(`${AT}:`) ? one.slice(AT.length + 1).trim() : ""
+    if (path === "") return `\`${one}\` names no path, and ${DROP_LINE}`
     held.push(path)
   }
   return held.length === 0 ? DROP_NAMES_NOTHING : held
@@ -303,14 +309,17 @@ export function droppedIn(said: string): readonly string[] | string {
 
 export function droppedPathsIn(piping: Piping): readonly string[] | string {
   const held = piping()
+  if ("unreadable" in held && held.part === true) return held.unreadable
   if (!("bytes" in held) || held.bytes.byteLength === 0) return BARE
   return droppedIn(new TextDecoder().decode(held.bytes))
 }
 
-function dropped(root: string, page: string, at: readonly string[], piping: Piping): Answer {
+function dropped(root: string, page: string, argv: readonly string[], piping: Piping): Answer {
+  const said = argv[0]
+  if (said !== undefined) return mistaking([`\`${said}\` ${DROP_ON_LINE}`])
   const piped = droppedPathsIn(piping)
   if (typeof piped === "string") return mistaking([piped])
-  return dropping(root, page, [...at, ...piped])
+  return dropping(root, page, piped)
 }
 
 export async function changing(
@@ -339,12 +348,6 @@ export async function changing(
   const asked = applyIn(given)
   if (typeof asked === "string") return mistaking([asked])
   const type = typeOf(world, slug)
-  if (type === null) {
-    return mistaking([
-      `\`${slug}\` names no change, and this runs one of ${runsSaid(world)}`,
-      DROP_SAID,
-    ])
-  }
   const loaded = await loading(world, `${type}/${slug}`)
   if (typeof loaded === "string") return mistaking([loaded, DROP_SAID])
   const held: Loaded = loaded

@@ -27,7 +27,10 @@ export const change = {
     "a change asking for no apply holds its edits unapplied, and that is the dry run.",
     "`drop` and `handed` and `take` and `forget` are the first words naming no change.",
     "`drop` takes away every edit kept, and leaves what a subagent handed over.",
-    "`drop <path> ...` takes away the edits kept at the paths named, and leaves the rest.",
+    "`drop` names each path to drop on a line of its own, written `at` and the path, piped in.",
+    "a drop naming paths takes away the edits kept at those paths, and leaves the rest.",
+    "a path said on the command line after `drop` is refused, as every other argument there is.",
+    "a line naming no path refuses the drop, so a mistyped line takes nothing away.",
     "a path is read against the repository root, and a path a move left behind names that move.",
     "a path naming no edit kept refuses the drop, so a typo reads as no drop rather than as one.",
     "a drop naming paths says how many edits are still kept.",
@@ -50,7 +53,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A word naming no change is refused by that word rather than by an address.",
+      statement: "A word reaching no change is refused by the address that reached nothing.",
     },
     {
       invariantKind: "departure",

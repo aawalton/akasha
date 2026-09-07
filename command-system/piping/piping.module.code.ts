@@ -43,7 +43,7 @@ const WENT_QUIET =
 export type Input =
   | { readonly bytes: Uint8Array }
   | { readonly tty: true }
-  | { readonly unreadable: string }
+  | { readonly unreadable: string; readonly part?: true }
 
 export type Piping = () => Input
 
@@ -97,7 +97,7 @@ function takenFrom(fd: number): Input {
       if (code === null || !NOT_YET.has(code)) return { unreadable: whyOf(thrown) }
       if (Date.now() >= quietBy) {
         if (held.length === 0) return { bytes: new Uint8Array() }
-        return { unreadable: WENT_QUIET }
+        return { unreadable: WENT_QUIET, part: true }
       }
       Bun.sleepSync(ASKED_AGAIN_IN)
       continue

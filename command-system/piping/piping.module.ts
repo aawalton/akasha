@@ -39,6 +39,10 @@ export const piping = {
         "An input that went quiet part way through a body is refused rather than taken as that body.",
     },
     {
+      invariantKind: "departure",
+      statement: "An input that went quiet part way is told from an input that would not open.",
+    },
+    {
       invariantKind: "absence",
       statement: "A body piped in where every path names a file is left unread.",
     },
