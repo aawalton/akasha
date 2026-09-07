@@ -1,0 +1,245 @@
+writerOwesReading: false
+diff --git a/package.json b/package.json
+index fd7d6b6caee5e0f56fbecf036a1dd09655692433..a26a3433eae91fd7891a0482747b014cf80f7bac 100644
+--- a/package.json
++++ b/package.json
+@@ -6,7 +6,6 @@
+     "**"
+   ],
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/analysis-complexity": "workspace:*",
+     "@akasha/browser-launch-env": "workspace:*",
+     "@akasha/browser-test-harness": "workspace:*",
+diff --git a/temper/temper-addon-data/package.json b/temper/temper-addon-data/package.json
+index d0b6f8925d372ef8746c5cfbd111ac03d673d315..677de451aa04024bd900d18487dd40fe05ccc067 100644
+--- a/temper/temper-addon-data/package.json
++++ b/temper/temper-addon-data/package.json
+@@ -53,7 +53,6 @@
+   },
+   "dependencies": {
+     "@akasha/code": "workspace:*",
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/pages-access": "workspace:*",
+     "@akasha/pages-query": "workspace:*",
+     "@akasha/pages": "workspace:*",
+diff --git a/temper/temper-commands/package.json b/temper/temper-commands/package.json
+index 7c0739af5d8b1b6b78ca147215d4422be6ed20f5..e37c2a3c19cbe3705d611fc4a6909b1c23e1c264 100644
+--- a/temper/temper-commands/package.json
++++ b/temper/temper-commands/package.json
+@@ -27,7 +27,6 @@
+     "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/supabase-auth": "workspace:*",
+     "@akasha/command-system": "workspace:*",
+     "@akasha/errors-core": "workspace:*",
+diff --git a/temper/temper-keybinder-addon/package.json b/temper/temper-keybinder-addon/package.json
+index c1efb1545d9a77c1dc0bc322f1b2318c9e4fa634..3016f6bb232467c630d51b7094cd15570c61746d 100644
+--- a/temper/temper-keybinder-addon/package.json
++++ b/temper/temper-keybinder-addon/package.json
+@@ -21,7 +21,6 @@
+     "./keybinder-entry": "./keybinder-entry/keybinder-entry.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/temper-addon-init": "workspace:*",
+     "@akasha/temper-addon-library-types": "workspace:*"
+   }
+diff --git a/temper/temper-lib-addon-menu-order-list-box/package.json b/temper/temper-lib-addon-menu-order-list-box/package.json
+index 8c1608f149dbc1614a5f6e01084654fe0cef6c7b..163a6930e646cfed493ff410734acecb484f7c19 100644
+--- a/temper/temper-lib-addon-menu-order-list-box/package.json
++++ b/temper/temper-lib-addon-menu-order-list-box/package.json
+@@ -20,6 +20,5 @@
+     "./order-list-box-widget": "./order-list-box-widget/order-list-box-widget.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-alchemy-station/package.json b/temper/temper-lib-alchemy-station/package.json
+index 3a2c8706a640a02d05c4af2043b338a737837ca0..0e1d14dc8ed936f9b6373cc40566e7f2f37e669c 100644
+--- a/temper/temper-lib-alchemy-station/package.json
++++ b/temper/temper-lib-alchemy-station/package.json
+@@ -9,6 +9,5 @@
+     "./alchemy-station-entry": "./alchemy-station-entry/alchemy-station-entry.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-character-knowledge/package.json b/temper/temper-lib-character-knowledge/package.json
+index 0b60bb461a6ee6cf1595e17551bfb66a157ec47d..a5caf5fd85727dbbbcd0e6b2be598c2fe6fc4a79 100644
+--- a/temper/temper-lib-character-knowledge/package.json
++++ b/temper/temper-lib-character-knowledge/package.json
+@@ -3,7 +3,6 @@
+   "private": true,
+   "type": "module",
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/temper-settings-panel": "workspace:*"
+   },
+   "exports": {
+diff --git a/temper/temper-lib-custom-menu/package.json b/temper/temper-lib-custom-menu/package.json
+index 7794459ae817376f46a65d2c1b11c59eca1718c3..a9aa2ec5ddc8e81e216c7610431699b3939dc66b 100644
+--- a/temper/temper-lib-custom-menu/package.json
++++ b/temper/temper-lib-custom-menu/package.json
+@@ -20,6 +20,5 @@
+     "./submenu-window": "./submenu-window/submenu-window.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-data-encode/package.json b/temper/temper-lib-data-encode/package.json
+index b06820193b214518cc85347f619a7717149461dd..d99c6da42522d618f3cdaa7b6f2a350428df3405 100644
+--- a/temper/temper-lib-data-encode/package.json
++++ b/temper/temper-lib-data-encode/package.json
+@@ -15,6 +15,5 @@
+     "./data-encode-entry": "./data-encode-entry/data-encode-entry.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-debug-logger/package.json b/temper/temper-lib-debug-logger/package.json
+index 7d60dcc92dd69e64aa951dcc9fb243d795aa5a07..066bc59c2bf0366ba6b974bb5a58f400bd8d53a9 100644
+--- a/temper/temper-lib-debug-logger/package.json
++++ b/temper/temper-lib-debug-logger/package.json
+@@ -6,6 +6,5 @@
+     "./main": "./debug-logger-main/debug-logger-main.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-main-menu/package.json b/temper/temper-lib-main-menu/package.json
+index be234f5a59579e291551eb8d54e4fad4f4b7c11a..8874f828e01f0e64f22dcf44c5c3f93b04ff6c70 100644
+--- a/temper/temper-lib-main-menu/package.json
++++ b/temper/temper-lib-main-menu/package.json
+@@ -13,6 +13,5 @@
+     "./main-menu-version": "./main-menu-version/main-menu-version.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-scrollable-menu/package.json b/temper/temper-lib-scrollable-menu/package.json
+index 296d24eb6d0ac3dd3809ecde9f27929569a508c1..0bd17664c4826d6948dae2ec961f076a9ff91467 100644
+--- a/temper/temper-lib-scrollable-menu/package.json
++++ b/temper/temper-lib-scrollable-menu/package.json
+@@ -77,6 +77,5 @@
+     "./util-visible": "./scrollable-menu-util-visible/scrollable-menu-util-visible.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-sets/package.json b/temper/temper-lib-sets/package.json
+index 504d6b62752d597cd6749c24beb33005ce300729..d40d5ae82d611d03f38b3cc858e44606c4018e99 100644
+--- a/temper/temper-lib-sets/package.json
++++ b/temper/temper-lib-sets/package.json
+@@ -6,7 +6,6 @@
+     "./main": "./lib-sets-main/lib-sets-main.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/temper-eso-types": "workspace:*"
+   }
+ }
+diff --git a/temper/temper-lua-runner/package.json b/temper/temper-lua-runner/package.json
+index d7aa74c654aaa8b591823dd9004791aa77a8012a..54d3e87c05d2611bbc2072f1a758bbf4d4655a1b 100644
+--- a/temper/temper-lua-runner/package.json
++++ b/temper/temper-lua-runner/package.json
+@@ -8,7 +8,6 @@
+     "./lua-number-string": "./lua-number-string/lua-number-string.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "zod": "^4.3.6"
+   }
+ }
+diff --git a/temper/temper-quests-addon/package.json b/temper/temper-quests-addon/package.json
+index ea50725e5d2eb31b7b129fd1ef30759b3db397b2..45e664a38c82ab06fbe413653c05581918475adb 100644
+--- a/temper/temper-quests-addon/package.json
++++ b/temper/temper-quests-addon/package.json
+@@ -17,7 +17,6 @@
+     "./quests-entry": "./quests-entry/quests-entry.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/temper-addon-init": "workspace:*",
+     "@akasha/temper-addon-library-types": "workspace:*",
+     "@akasha/temper-quests-trace": "workspace:*",
+diff --git a/temper/temper-trading-addon/package.json b/temper/temper-trading-addon/package.json
+index dbbaa68983b49aef8b7eb429ae3dab6bd99df222..1f1179e58948ee53f93ae9ce816732a03934527e 100644
+--- a/temper/temper-trading-addon/package.json
++++ b/temper/temper-trading-addon/package.json
+@@ -24,7 +24,6 @@
+     "./trading-entry": "./trading-entry/trading-entry.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/temper-addon-init": "workspace:*",
+     "@akasha/temper-addon-library-types": "workspace:*",
+     "@akasha/temper-capture-perf": "workspace:*",
+diff --git a/temper/temper-watcher/package.json b/temper/temper-watcher/package.json
+index d72b96af32cf65294052801e67703e30aab5dbeb..493f36e5068f2bf3f55a67ca2e45ec85e9103042 100644
+--- a/temper/temper-watcher/package.json
++++ b/temper/temper-watcher/package.json
+@@ -59,7 +59,6 @@
+     "./watcher-main": "./watcher-main/watcher-main.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/day": "workspace:*",
+     "@akasha/errors-core": "workspace:*",
+     "@akasha/pages-access": "workspace:*",
+diff --git a/temper/temper-web/package.json b/temper/temper-web/package.json
+index 7f512643dc2e411436d94965c54560558cd5382d..8f8ca1d5d22131d0bd5f32e945bf6347a84bce0a 100644
+--- a/temper/temper-web/package.json
++++ b/temper/temper-web/package.json
+@@ -16,7 +16,6 @@
+   },
+   "dependencies": {
+     "@akasha/code": "workspace:*",
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/design-badges": "workspace:*",
+     "@akasha/design-forms": "workspace:*",
+     "@akasha/design-layout": "workspace:*",
+diff --git a/testing-system/package.json b/testing-system/package.json
+index b1e4b0a85136514bb63fd9f63219d51740f37bb1..a732b21cc760bff3ce9cea925f2156a9478ca120 100644
+--- a/testing-system/package.json
++++ b/testing-system/package.json
+@@ -15,7 +15,6 @@
+     "./walking": "./walking/walking.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@happy-dom/global-registrator": "^20.8.3",
+     "@testing-library/react": "^16.3.2"
+   },
+diff --git a/verdict/package.json b/verdict/package.json
+index 73e999e5d9c0d0900ecbe9231bb5e9361441ac3b..c355ba2d37881da430cf09d53a00a1f0ffe75274 100644
+--- a/verdict/package.json
++++ b/verdict/package.json
+@@ -10,6 +10,5 @@
+     "./reading-channel": "./reading-channel/reading-channel.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/web-page-answers/package.json b/web-page-answers/package.json
+index 6ca33d0b348808eddd240b0d5afd4a33b5340c4c..17226cd60d0792ed3a134002fefbab9291db18db 100644
+--- a/web-page-answers/package.json
++++ b/web-page-answers/package.json
+@@ -9,7 +9,6 @@
+     "./nav-icon-svg": "./nav-icon-svg/nav-icon-svg.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/pages-access": "workspace:*",
+     "@akasha/pages-core": "workspace:*",
+     "@akasha/supabase-rr": "workspace:*",
