@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-commands/inventory-diagnostics-reading/inventory-diagnostics-reading.module.ts b/temper/temper-commands/inventory-diagnostics-reading/inventory-diagnostics-reading.module.ts
+index d82ecd269ea4b9d753be12516a127384ea98ec1e..b00c30d2d0d732591df0b757fe95af1852c6ad58 100644
+--- a/temper/temper-commands/inventory-diagnostics-reading/inventory-diagnostics-reading.module.ts
++++ b/temper/temper-commands/inventory-diagnostics-reading/inventory-diagnostics-reading.module.ts
+@@ -21,7 +21,7 @@ export const inventoryDiagnosticsReading = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A file that is absent, unreadable or missing its Default table is refused as data.",
++        "A file that is absent or unreadable or missing its Default table is refused as data.",
+     },
+     {
+       invariantKind: "departure",
