@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts b/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
+index ff241dc0462c70e2cf33ea32e543a3e536644834..ec27679e569d10d27736a8c3011b047ad9bb1907 100644
+--- a/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
++++ b/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
+@@ -7,7 +7,7 @@ export const testsPass = {
+   definition: "the check refusing a change whose tests do not pass",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
