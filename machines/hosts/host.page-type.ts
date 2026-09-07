@@ -1,9 +1,13 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../pages/properties/title.text-property.ts"
+import type { HostAddress } from "./properties/host-address.text-property.ts"
+import type { LoginUser } from "./properties/login-user.text-property.ts"
 
 export type Host = Domain & {
   title: Title
+  address?: HostAddress
+  loginUser?: LoginUser
 }
 
 export const host = {
@@ -22,8 +26,15 @@ export const host = {
     "host/node-05",
     "host/node-06",
     "host/workstation",
+    "module/cluster-nodes",
+    "text-property/host-address",
+    "text-property/login-user",
   ],
-  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/host-address", required: false, many: false },
+    { pagePropertySlug: "text-property/login-user", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -40,6 +51,14 @@ export const host = {
     {
       invariantKind: "departure",
       statement: "A host's definition and its title alike name the host.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A host reached over the network states the address that host answers at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A host a script signs in to states the account that script signs in as.",
     },
   ],
 } as const satisfies PageType

@@ -8,9 +8,6 @@ _DEPLOY_LIB_DIR="${AKASHA_ROOT}/infrastructure/cluster-operations/deploy-functio
 # shellcheck source=../deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
 . "${_DEPLOY_LIB_DIR}/deploy-functions.shell-script.shell.sh"
 
-NODES_FILE="${AKASHA_ROOT}/infrastructure/cluster-operations/nodes.json"
-[[ -f "$NODES_FILE" ]] || die "nodes.json not found: $NODES_FILE"
-
 KEY_PATH="${HOME}/.ssh/claude_mcp_key"
 
 usage() {
@@ -27,14 +24,14 @@ usage() {
 for_each_node() {
   local callback="$1"
   local ssh_key_override="${2:-}"
-  local node_ids
-  mapfile -t node_ids < <(jq -r '.[].id' "$NODES_FILE")
+  local ids
+  mapfile -t ids < <(node_ids)
 
-  for node_id in "${node_ids[@]}"; do
+  for node_id in "${ids[@]}"; do
     local host user key
-    host="$(node_field "$node_id" host)"
+    host="$(node_field "$node_id" address)"
     user="$(node_field "$node_id" user)"
-    key="${ssh_key_override:-$(node_field "$node_id" keyPath)}"
+    key="${ssh_key_override:-$KEY_PATH}"
     "$callback" "$node_id" "$host" "$user" "$key"
   done
 }

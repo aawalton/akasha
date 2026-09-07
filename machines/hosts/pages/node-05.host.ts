@@ -6,4 +6,6 @@ export const node05 = {
   slug: "node-05",
   definition: "the machine named node-05 in the main cluster",
   title: "node-05",
+  address: "192.168.68.78",
+  loginUser: "walton",
 } as const satisfies Host

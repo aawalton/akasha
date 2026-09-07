@@ -1,5 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { Service } from "../services/service.page-type.ts"
+import type { ClusterServiceConfig } from "./properties/cluster-service-config.file-property.ts"
 import type { ClusterServiceSchedule } from "./properties/cluster-service-schedule.text-property.ts"
 import type { ContainerPort } from "./properties/container-port.number-property.ts"
 import type { Image } from "./properties/image.text-property.ts"
@@ -17,6 +18,7 @@ export type ClusterService = Service & {
   replicas?: Replicas
   containerPort?: ContainerPort
   schedule?: ClusterServiceSchedule
+  config?: ClusterServiceConfig
   manifestSlug: ManifestSlug
 }
 
@@ -81,6 +83,7 @@ export const clusterService = {
     "cluster-service/supabase-studio",
     "cluster-service/tailnet-egress",
     "cluster-service/talos-subnet-router",
+    "file-property/cluster-service-config",
     "module/cluster-api-reaching",
     "module/log-bound-saying",
     "module/loki-log-fetching",
@@ -106,6 +109,7 @@ export const clusterService = {
     { pagePropertySlug: "number-property/container-port", required: false, many: false },
     { pagePropertySlug: "text-property/cluster-service-schedule", required: false, many: false },
     { pagePropertySlug: "relation-property/manifest-slug", required: true, many: false },
+    { pagePropertySlug: "file-property/cluster-service-config", required: false, many: false },
   ],
   invariants: [
     {

@@ -17,14 +17,35 @@ warn()  { _yellow "[deploy] WARNING: $*"; }
 err()   { _red   "[deploy] ERROR: $*" >&2; }
 die()   { err "$@"; exit 1; }
 
+_cluster_nodes_table=""
+
+_cluster_nodes_load() {
+  if [ -n "$_cluster_nodes_table" ]; then return 0; fi
+  local root
+  root="$(cd "${_DEPLOY_LIB_DIR}/../../.." && pwd)"
+  _cluster_nodes_table="$(bun "${root}/machines/hosts/cluster-nodes/cluster-nodes.module.code.ts")" \
+    || die "cluster-nodes did not answer"
+  [ -n "$_cluster_nodes_table" ] || die "cluster-nodes answered nothing"
+}
+
+node_ids() {
+  _cluster_nodes_load
+  printf '%s\n' "$_cluster_nodes_table" | cut -f1
+}
+
 node_field() {
   local node_id="$1"
   local field="$2"
-  local nodes_file
-  nodes_file="$(cd "${_DEPLOY_LIB_DIR}/.." && pwd)/nodes.json"
+  local col
+  case "$field" in
+    address) col=2 ;;
+    user)    col=3 ;;
+    *)       die "cluster-nodes: no field '$field'" ;;
+  esac
+  _cluster_nodes_load
   local val
-  val="$(jq -r --arg id "$node_id" --arg f "$field" '.[] | select(.id==$id) | .[$f]' "$nodes_file")"
-  { [ -n "$val" ] && [ "$val" != "null" ]; } || die "nodes.json: no '$field' for node '$node_id'"
+  val="$(printf '%s\n' "$_cluster_nodes_table" | awk -F'\t' -v id="$node_id" -v c="$col" '$1 == id { print $c }')"
+  [ -n "$val" ] || die "cluster-nodes: no '$field' for node '$node_id'"
   echo "$val"
 }
 

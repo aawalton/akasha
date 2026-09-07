@@ -25,9 +25,6 @@ CERT_MIN_REMAINING=$((30 * 86400))
 CA_SUBJECT="/CN=cluster-ca"
 PGBOUNCER_SUBJECT="/CN=pgbouncer.pgbouncer.svc.cluster.local"
 
-NODES_FILE="${AKASHA_ROOT}/infrastructure/cluster-operations/nodes.json"
-[[ -f "$NODES_FILE" ]] || die "nodes.json not found: $NODES_FILE"
-
 PGB_SAN_DNS=(
   "DNS.1:pgbouncer.pgbouncer.svc.cluster.local"
   "DNS.2:localhost"
@@ -39,11 +36,11 @@ PGB_SAN_IP=(
 
 pgb_ip_idx=2
 while IFS= read -r node_id; do
-  node_ip="$(node_field "$node_id" host)"
+  node_ip="$(node_field "$node_id" address)"
   PGB_SAN_IP+=("IP.${pgb_ip_idx}:${node_ip}")
   log "Including ${node_id} (${node_ip}) in PgBouncer SAN entries"
   ((pgb_ip_idx++))
-done < <(jq -r '.[].id' "$NODES_FILE")
+done < <(node_ids)
 
 pgbouncer_cert_is_valid() {
   [[ -f "${CERTS_DIR}/pgbouncer.crt" && -f "${CERTS_DIR}/pgbouncer.key" && -f "${CERTS_DIR}/ca.crt" ]] || return 1
@@ -63,12 +60,12 @@ pgbouncer_cert_is_valid() {
 
   while IFS= read -r node_id; do
     local node_ip
-    node_ip="$(node_field "$node_id" host)"
+    node_ip="$(node_field "$node_id" address)"
     if ! echo "$cert_sans" | grep -q "$node_ip"; then
       log "PgBouncer cert missing ${node_id} IP ($node_ip) in SANs — will regenerate"
       return 1
     fi
-  done < <(jq -r '.[].id' "$NODES_FILE")
+  done < <(node_ids)
 
   return 0
 }

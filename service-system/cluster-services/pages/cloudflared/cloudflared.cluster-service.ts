@@ -11,5 +11,6 @@ export const cloudflared = {
   image: "cloudflare/cloudflared:2026.3.0",
   replicas: 2,
   containerPort: 2000,
+  config: "yaml",
   manifestSlug: "cloudflared",
 } as const satisfies ClusterService

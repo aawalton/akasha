@@ -120,29 +120,6 @@ export default workflow("cloudflared", {
       },
     }),
     step({
-      name: "cloudflared-sync-a-records",
-      image: IMAGES.CI,
-      shell: ["/ci-storage/tools/bash", "-c"],
-      environment: {
-        HOME: "/tmp",
-        CLOUDFLARE_API_TOKEN: secret(SECRETS.CLOUDFLARE_API_TOKEN),
-      },
-      commands: (ci) => [
-        "set -e",
-        `LIVE_HASH=$(kubectl get configmap cloudflared-config -n cloudflared -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || true)`,
-        `if [ "$LIVE_HASH" = "${ci.inputsHash}" ]; then echo "[skip] Content hash ${ci.inputsHash} matches — A records already synced"; exit 0; fi`,
-        `_DEPLOY_LIB_DIR=${ci.workspace}/infrastructure/cluster-operations/deploy-functions`,
-        `. ${ci.workspace}/infrastructure/cluster-operations/deploy-functions/deploy-functions.shell-script.shell.sh`,
-        "mkdir -p /tmp/.cloudflare",
-        'echo "${CLOUDFLARE_API_TOKEN}" > /tmp/.cloudflare/api-token',
-        `jq -r '.[] | select(.hostname) | "\\(.hostname) \\(.host)"' ${ci.workspace}/infrastructure/cluster-operations/nodes.json | while IFS=" " read -r h ip; do add_dns_a_record "$h" "$ip"; done`,
-      ],
-      dependsOn: ["cloudflared-generate-and-apply-config"],
-      backendOptions: {
-        kubernetes: { serviceAccountName: "pipeline-engine" },
-      },
-    }),
-    step({
       name: "cloudflared-stamp-content-hash",
       image: IMAGES.KUBECTL,
 
@@ -150,11 +127,7 @@ export default workflow("cloudflared", {
       commands: (ci) => [
         `kubectl annotate configmap cloudflared-config -n cloudflared pipeline.alanwalton.com/content-hash=${ci.inputsHash} --overwrite`,
       ],
-      dependsOn: [
-        "cloudflared-sync-dns",
-        "cloudflared-sync-a-records",
-        "cloudflared-apply-deployment",
-      ],
+      dependsOn: ["cloudflared-sync-dns", "cloudflared-apply-deployment"],
       backendOptions: {
         kubernetes: { serviceAccountName: "pipeline-engine" },
       },
