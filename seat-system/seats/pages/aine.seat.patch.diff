@@ -1,0 +1,27 @@
+writerOwesReading: false
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index 1830a1501f98df26a9de538bc5e614660782fa95..98d5c53d04fab93c97db43bfc12f3cc380ebba29 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -1,4 +1,5 @@
+ import type { Module } from "../code-system/modules/module.page-type.ts"
++import type { ChangeKindSlug } from "../command-system/commands/properties/change-kind-slug.relation-property.ts"
+ import type { PageType } from "../pages/types/page-type.page-type.ts"
+ import type { ReadersOweReading } from "./kinds/properties/readers-owe-reading.boolean-property.ts"
+ import type { RunsChecks } from "./kinds/properties/runs-checks.boolean-property.ts"
+@@ -8,6 +9,7 @@ import type { ChangeTargetSubtypeSlug } from "./properties/change-target-subtype
+ import type { ChangeTargetTypeSlug } from "./properties/change-target-type-slug.relation-property.ts"
+ 
+ export type Change = Module & {
++  changeKindSlug?: ChangeKindSlug
+   changeModeSlug: ChangeModeSlug
+   changeTargetTypeSlug?: ChangeTargetTypeSlug
+   changeTargetSubtypeSlug?: ChangeTargetSubtypeSlug
+@@ -49,6 +51,7 @@ export const change = {
+     "relation-property/change-target-subtype-slug",
+   ],
+   properties: [
++    { pagePropertySlug: "relation-property/change-kind-slug", required: false, many: false },
+     { pagePropertySlug: "relation-property/change-mode-slug", required: true, many: false },
+     {
+       pagePropertySlug: "relation-property/change-target-type-slug",
