@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed the fault the rule defines, building the fixture from that rule's grammar. A gate run is 9.3s, so weigh a check against that rather than against the shadow. Turning a check on freezes each file already refusing, and those files carry other refusals nothing surfaced yet. Refusing: comments 3020, two-files 1332, method-sig 307, lint 302, syntax 212, re-export 74, manifest-names 67, key-names 57, no-class 8, second-spelling 8, cycles 7. no-tmp next.",
+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed the fault the rule defines, from its grammar. A gate run is 9.3s; weigh a check against that. A text guard before a parse misses a literal's escaped value. Turning a check on freezes its refusers, which hold refusals nothing surfaced yet. Refusing: comments 3020, two-files 1332, method-sig 307, lint 302, syntax 212, re-export 74, manifest-names 67, key-names 57, no-tmp 45, no-class 8, second-spelling 8, cycles 7. package-reached-where-named next.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
