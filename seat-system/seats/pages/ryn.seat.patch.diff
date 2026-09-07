@@ -1,0 +1,17 @@
+diff --git a/git-transport/git-transport.workspace-package.ts b/git-transport/git-transport.workspace-package.ts
+index 06490f94332bc75804b1f44f7d6c5f1f1f821bfd..56f6cc6a844663d2e78fa440f530471546663059 100644
+--- a/git-transport/git-transport.workspace-package.ts
++++ b/git-transport/git-transport.workspace-package.ts
+@@ -36,7 +36,11 @@ export const gitTransport = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A repository carrying a mirror hook declares a destination, and the other way.",
++      statement: "A repository carrying a mirror hook declares a destination.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A repository declaring a destination carries a mirror hook.",
+     },
+ 
+     {
