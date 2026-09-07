@@ -9,7 +9,7 @@ export const libSetsSearchUiCasts = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every one of these narrowings is an unchecked cast.",
+      statement: "Every narrowing here is an unchecked cast.",
     },
   ],
 } as const satisfies Module
