@@ -64,6 +64,11 @@ export const spelledPathStays = {
     },
     {
       invariantKind: "gap",
+      statement:
+        "A reference written as a page type and a slug is refused where that page type names a folder too.",
+    },
+    {
+      invariantKind: "gap",
       statement: "A path no file was ever at is not seen.",
     },
     {
