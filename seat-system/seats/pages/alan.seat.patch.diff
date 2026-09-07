@@ -132,3 +132,35 @@ index efd0af4c4706ebc0155e8c23a64c74b9e3f93ee3..987ac88b4dbe760c17fab98b5268dc78
      notLanded.push(step)
      report.push(
        `${step} did not land for food entry ${foodId}: ${whyOf(thrown)}`,
+diff --git a/command-system/commands/food/food.command.test.ts b/command-system/commands/food/food.command.test.ts
+index 17edb75d1020ef6ebce49b83269172385ac19fd1..bfef4d004e0e109222ca82e971333db19df5a445 100644
+--- a/command-system/commands/food/food.command.test.ts
++++ b/command-system/commands/food/food.command.test.ts
+@@ -86,7 +86,26 @@ test("a wall clock is read on a 24-hour clock or refused", () => {
+ 
+ test("neither a date nor a time said leaves the instant as now", () => {
+   const now = new Date("2026-06-26T18:00:00.000Z")
+-  expect(happenedAtFrom(undefined, undefined, now)).toBe(now)
++  const read = happenedAtFrom(undefined, undefined, now)
++  expect(!("refused" in read) && read.at).toBe(now)
++})
++
++test("a wall clock said here is read in Mountain", () => {
++  const now = new Date("2026-09-07T12:00:00.000Z")
++  const read = happenedAtFrom("2026-09-07", { hh: 6, mm: 0 }, now)
++  expect(!("refused" in read) && read.at.toISOString()).toBe("2026-09-07T12:00:00.000Z")
++})
++
++test("a date said with no time is noon in Mountain", () => {
++  const now = new Date("2026-09-07T12:00:00.000Z")
++  const read = happenedAtFrom("2026-09-07", undefined, now)
++  expect(!("refused" in read) && read.at.toISOString()).toBe("2026-09-07T18:00:00.000Z")
++})
++
++test("a wall time the Mountain clock skipped is refused rather than invented", () => {
++  const now = new Date("2026-03-08T12:00:00.000Z")
++  const read = happenedAtFrom("2026-03-08", { hh: 2, mm: 30 }, now)
++  expect("refused" in read).toBe(true)
+ })
+ 
+ test("a stem is the day and the food's name, and is bounded", () => {
