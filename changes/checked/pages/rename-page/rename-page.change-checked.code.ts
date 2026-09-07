@@ -10,11 +10,7 @@ import {
   refusing,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import {
-  reach,
-  type World,
-  worldOver,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { statedIn } from "../../../modules/page-literal/page-literal.module.code.ts"
 
 const RENAME_PAGE_SLUG = "change-mechanical-data/rename-page-slug"
@@ -158,7 +154,7 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
     answers.push(carried.said)
     folded = gathered(answers)
     if (folded.refused !== null) return folded
-    seen = worldOver(world, folded)
+    seen = carried.world
   }
   if (given.to !== held.slug) {
     const said = await reach(seen, RENAME_PAGE_SLUG, {
@@ -170,7 +166,6 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
     answers.push(said.said)
     folded = gathered(answers)
     if (folded.refused !== null) return folded
-    seen = worldOver(world, folded)
   }
   return folded
 }
