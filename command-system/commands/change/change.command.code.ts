@@ -15,6 +15,7 @@ import {
 import {
   editsAt,
   foldedIn,
+  keptAt,
   keptEdits,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
@@ -250,7 +251,7 @@ export async function appending(
         ...said.edits.map(saidOf).sort(),
         ...(applied
           ? []
-          : [`the edits are kept at ${editsAt(page) ?? ""}, and \`akasha apply\` lands them`]),
+          : [`the edits are kept at ${keptAt(page) ?? ""}, and \`akasha apply\` lands them`]),
       ],
       refusals: [],
       code: 0,

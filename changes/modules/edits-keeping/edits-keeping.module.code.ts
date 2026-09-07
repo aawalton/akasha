@@ -1,6 +1,7 @@
-import { existsSync, mkdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { exclusively } from "@akasha/file-system/exclusive"
+import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { gathered } from "../change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../change-answer/change-answer.module.types.ts"
@@ -9,7 +10,9 @@ const SLUG = "edits"
 
 const HELD = "jsonl"
 
-const WRITING = ".writing"
+const KEPT = "refs/akasha/edits"
+
+const BYTES = new TextEncoder()
 
 const NO_PAGE = "a path that is no page keeps no edits"
 
@@ -19,6 +22,11 @@ export type Kept = { readonly rows: readonly Edit[] } | { readonly why: string }
 
 export function editsAt(page: string): string | null {
   return besideAt(page, SLUG, HELD)
+}
+
+export function keptAt(page: string): string | null {
+  const at = editsAt(page)
+  return at === null ? null : `${KEPT}/${at}`
 }
 
 function edited(said: unknown): Edit | null {
@@ -63,7 +71,8 @@ function textOf(rows: readonly Edit[]): string {
   return rows.map((one) => `${JSON.stringify(one)}\n`).join("")
 }
 
-function readAt(full: string): string | null {
+function staleAt(root: string, at: string): string | null {
+  const full = join(root, at)
   if (!existsSync(full)) return null
   try {
     const held = readFileSync(full, "utf8")
@@ -73,30 +82,36 @@ function readAt(full: string): string | null {
   }
 }
 
-function putAt(full: string, text: string): undefined {
-  const near = `${full}${WRITING}`
-  writeFileSync(near, text)
-  renameSync(near, full)
+function readAt(root: string, at: string): string | null {
+  const held = gitTold(root, ["cat-file", "blob", `${KEPT}/${at}`])
+  return held === null || held === "" ? staleAt(root, at) : held
 }
 
-function heldAt(full: string): Kept {
-  const held = readAt(full)
+function putAt(root: string, at: string, text: string): undefined {
+  const oid = gitIn(root, ["hash-object", "-w", "--stdin"], { stdin: BYTES.encode(text) }).trim()
+  gitIn(root, ["update-ref", `${KEPT}/${at}`, oid])
+  rmSync(join(root, at), { force: true })
+}
+
+function heldAt(root: string, at: string): Kept {
+  const held = readAt(root, at)
   return held === null ? { rows: [] } : rowsIn(held)
 }
 
 export function editsIn(root: string, page: string): Kept {
   const at = editsAt(page)
-  return at === null ? { why: NO_PAGE } : heldAt(join(root, at))
+  return at === null ? { why: NO_PAGE } : heldAt(root, at)
 }
 
 type Rows = readonly Edit[] | null
 
-function settled(full: string, next: Rows): Kept {
+function settled(root: string, at: string, next: Rows): Kept {
   if (next === null || next.length === 0) {
-    rmSync(full, { force: true })
+    gitTold(root, ["update-ref", "-d", `${KEPT}/${at}`])
+    rmSync(join(root, at), { force: true })
     return { rows: [] }
   }
-  putAt(full, textOf(next))
+  putAt(root, at, textOf(next))
   return { rows: next }
 }
 
@@ -116,10 +131,12 @@ export function keptEdits(
   const full = join(root, at)
   mkdirSync(dirname(full), { recursive: true })
   return exclusively(full, (): Kept | Promise<Kept> => {
-    const had = heldAt(full)
+    const had = heldAt(root, at)
     if ("why" in had) return had
     const next = act(had.rows)
-    return next instanceof Promise ? next.then((one) => settled(full, one)) : settled(full, next)
+    return next instanceof Promise
+      ? next.then((one) => settled(root, at, one))
+      : settled(root, at, next)
   })
 }
 

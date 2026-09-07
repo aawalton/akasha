@@ -4,17 +4,21 @@ export const editsKeeping = {
   id: "01a0777c-12c6-7383-a773-c4a635e8720f",
   pageTypeSlug: "module",
   slug: "edits-keeping",
-  definition: "the edits an agent has answered and not landed, kept beside the agent's page",
+  definition: "the edits an agent has answered and not landed, kept under a ref naming its page",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The edits are kept in a file beside the page of the agent answering the edits.",
+      statement: "The edits are kept under a ref named for the page of the answering agent.",
     },
     {
       invariantKind: "departure",
-      statement: "The path index and this module name the file by one rule.",
+      statement: "The path index and this module name the edits by one rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The edits outlive the page the ref is named for.",
     },
     {
       invariantKind: "departure",
@@ -42,11 +46,11 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The rows are read and written again under one turn over the file.",
+      statement: "The rows are read and written again under one turn.",
     },
     {
       invariantKind: "departure",
-      statement: "A reader outside that turn never sees the file half written.",
+      statement: "A reader outside that turn never sees the edits half written.",
     },
     {
       invariantKind: "departure",
@@ -54,7 +58,7 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A file left holding no row is taken away rather than left empty.",
+      statement: "A ref left holding no row is taken away rather than left empty.",
     },
     {
       invariantKind: "departure",
@@ -65,8 +69,8 @@ export const editsKeeping = {
       statement: "Nothing here works out a body or judges an edit.",
     },
     {
-      invariantKind: "gap",
-      statement: "The file is not committed as that file is appended to.",
+      invariantKind: "stopgap",
+      statement: "A file left by an earlier keeping is read where the ref holds nothing.",
     },
   ],
 } as const satisfies Module
