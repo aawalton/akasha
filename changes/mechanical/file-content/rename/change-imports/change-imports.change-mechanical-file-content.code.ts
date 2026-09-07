@@ -1,7 +1,13 @@
 import { basename, dirname, extname, join, relative } from "node:path"
 import { landingOf, placedIn, spelledIn } from "@akasha/code/code-specifier"
-import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Said, Stated } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import {
+  moving,
+  narrowed,
+  refusing,
+  stating,
+  writing,
+} from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const GENERATED = "+types"
@@ -57,12 +63,6 @@ function nextFor(
   return specifier ? specifierFor(dir, landed) : null
 }
 
-function statedFor(was: string, now: string, text: string, body: string): readonly Stated[] {
-  const respelt: readonly Stated[] =
-    body === text ? [] : [{ kind: "replace", path: now, contentFrom: text, contentTo: body }]
-  return was === now ? respelt : [{ kind: "move", pathFrom: was, pathTo: now }, ...respelt]
-}
-
 export function changeImports(
   was: string,
   now: string,
@@ -79,7 +79,9 @@ export function changeImports(
     out = `${out}${text.slice(at, one.start)}${JSON.stringify(next)}`
     at = one.end
   }
-  return stating(statedFor(was, now, text, `${out}${text.slice(at)}`))
+  const body = `${out}${text.slice(at)}`
+  const edit = was === now ? writing(now, text, body) : moving(was, now, text, body)
+  return stating(narrowed(edit))
 }
 
 export type Given = {
