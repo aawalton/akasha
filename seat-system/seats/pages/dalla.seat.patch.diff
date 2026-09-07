@@ -1,0 +1,16 @@
+writerOwesReading: false
+diff --git a/changes/modules/change-answer/change-answer.module.code.ts b/changes/modules/change-answer/change-answer.module.code.ts
+index d08ffd5af1e7a94f4e4d81d829fcfb7302c60a82..78457a664315234002ed658696cbf857247e9825 100644
+--- a/changes/modules/change-answer/change-answer.module.code.ts
++++ b/changes/modules/change-answer/change-answer.module.code.ts
+@@ -26,6 +26,10 @@ export function answered(edits: readonly Edit[]): Answer {
+   return { edits, refused: null }
+ }
+ 
++export function stating(edits: readonly Stated[]): Said {
++  return { edits, refused: null }
++}
++
+ export function writing(path: string, was: string | null, body: string): Edit {
+   return { path, was, body }
+ }
