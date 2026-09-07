@@ -33,6 +33,7 @@
     "./widget-tap-link": "./widget-tap-link/widget-tap-link.module.code.ts"
   },
   "dependencies": {
+    "@akasha/domains": "workspace:*",
     "@akasha/pages-service": "workspace:*",
     "zod": "^4.3.6"
   },

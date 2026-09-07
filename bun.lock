@@ -1361,6 +1361,7 @@
     "readout-system": {
       "name": "@akasha/readout-system",
       "dependencies": {
+        "@akasha/domains": "workspace:*",
         "@akasha/pages-service": "workspace:*",
         "zod": "^4.3.6",
       },
