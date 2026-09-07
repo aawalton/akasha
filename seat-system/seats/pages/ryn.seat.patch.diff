@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-sets/lib-sets-debug-debug-set-scan-run/lib-sets-debug-debug-set-scan-run.module.ts b/temper/temper-lib-sets/lib-sets-debug-debug-set-scan-run/lib-sets-debug-debug-set-scan-run.module.ts
+index da623e6e16618732fd637aeee9202cf7afafe03e..cfd3ab6a2d2e1103bd6f276adea57c911100925a 100644
+--- a/temper/temper-lib-sets/lib-sets-debug-debug-set-scan-run/lib-sets-debug-debug-set-scan-run.module.ts
++++ b/temper/temper-lib-sets/lib-sets-debug-debug-set-scan-run/lib-sets-debug-debug-set-scan-run.module.ts
+@@ -10,7 +10,7 @@ export const libSetsDebugDebugSetScanRun = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Each package of item ids is scheduled one second after the one before that package.",
++        "Each package of item ids is scheduled one second after the package before that package.",
+     },
+     {
+       invariantKind: "constraint",
