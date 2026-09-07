@@ -5,5 +5,8 @@ export const standardAgentEnglishNonTerm = {
   pageTypeSlug: "domain",
   slug: "standard-agent-english-non-term",
   definition: "one thing akasha writes that is no term",
-  partSlugs: ["page-type/standard-agent-english-non-term-kind"],
+  partSlugs: [
+    "page-type/standard-agent-english-non-term-kind",
+    "page-type/common-language-non-term",
+  ],
 } as const satisfies Domain
