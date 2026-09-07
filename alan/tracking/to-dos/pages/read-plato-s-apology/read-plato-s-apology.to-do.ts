@@ -8,6 +8,6 @@ export const readPlatoSApology = {
   link: "https://alanwalton.com/story-chapter/apology-6fed9037",
   toDoPriority: "p4",
   toDoLastCompletedAt: "2026-09-07T01:31:19.721Z",
-  toDoCompletedAt: "2026-09-07T01:31:19.721Z",
+  toDoCompletedAt: null,
   whatItTakes: "txt",
 } as const satisfies ToDo
