@@ -21,7 +21,7 @@ const PART_SLUGS_KEY = "partSlugs"
 
 const REMOVE_FILE = "change-mechanical-file/remove-file"
 
-const REMOVE_CODE_FILE = "change-mechanical-file/remove-code-file"
+const REMOVE_FILE_CODE = "change-mechanical-file/remove-file-code"
 
 const REMOVE_PROPERTY_VALUE = "change-mechanical-data/remove-property-value"
 
@@ -35,8 +35,8 @@ export function parentsOf(world: World, at: string): readonly Named[] {
   return namersIn(world, at, PART_SLUGS)
 }
 
-function addressFor(at: string): typeof REMOVE_CODE_FILE | typeof REMOVE_FILE {
-  return CODE.has(extname(at)) ? REMOVE_CODE_FILE : REMOVE_FILE
+function addressFor(at: string): typeof REMOVE_FILE_CODE | typeof REMOVE_FILE {
+  return CODE.has(extname(at)) ? REMOVE_FILE_CODE : REMOVE_FILE
 }
 
 export function importersFirst(world: World, many: readonly string[]): readonly string[] {

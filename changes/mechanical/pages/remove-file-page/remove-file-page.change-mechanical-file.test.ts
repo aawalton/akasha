@@ -29,8 +29,8 @@ import {
   worldAt,
   worldOver,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { runChange as removeCodeFile } from "../remove-code-file/remove-code-file.change-mechanical-file.code.ts"
 import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
+import { runChange as removeCodeFile } from "../remove-file-code/remove-file-code.change-mechanical-file.code.ts"
 import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical-data.code.ts"
 import {
   importersFirst,
@@ -40,14 +40,14 @@ import {
 
 type Unnaming = { at: string; key: string; value: string }
 
-const REMOVE_CODE_FILE = "change-mechanical-file/remove-code-file"
+const REMOVE_FILE_CODE = "change-mechanical-file/remove-file-code"
 
 const REMOVE_FILE = "change-mechanical-file/remove-file"
 
 const REMOVE_PROPERTY_VALUE = "change-mechanical-data/remove-property-value"
 
 const RUNS: Reaching = (world, at, given) => {
-  if (at === REMOVE_CODE_FILE) return removeCodeFile(world, given as { at: string })
+  if (at === REMOVE_FILE_CODE) return removeCodeFile(world, given as { at: string })
   if (at === REMOVE_FILE) return Promise.resolve(removeFile(given as { at: string }, world.textOf))
   if (at === REMOVE_PROPERTY_VALUE) {
     return Promise.resolve(removePropertyValue(world, given as Unnaming))
@@ -55,7 +55,7 @@ const RUNS: Reaching = (world, at, given) => {
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
 
-const GUARDS = new Map<string, readonly Guard[]>([[REMOVE_CODE_FILE, [importNotLeftHanging]]])
+const GUARDS = new Map<string, readonly Guard[]>([[REMOVE_FILE_CODE, [importNotLeftHanging]]])
 
 const GUARDED: Reaching = async (world, at, given) => {
   const said = await RUNS(world, at, given)

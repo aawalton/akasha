@@ -1,9 +1,9 @@
 import type { ChangeMechanicalFile } from "../../file/change-mechanical-file.page-type.ts"
 
-export const removeCodeFile = {
+export const removeFileCode = {
   id: "01a07987-afc1-73bf-8a8e-9ba1cc6c5248",
   pageTypeSlug: "change-mechanical-file",
-  slug: "remove-code-file",
+  slug: "remove-file-code",
   changeModeSlug: "change-mode-remove",
   definition: "one code file taken away, with the imports naming that file judged",
   code: "ts",

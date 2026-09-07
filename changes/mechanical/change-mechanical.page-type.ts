@@ -25,7 +25,7 @@ export const changeMechanical = {
     "page-type/change-mechanical-manifest",
     "change-mechanical-file/move-file",
     "change-mechanical-file/remove-file",
-    "change-mechanical-file/remove-code-file",
+    "change-mechanical-file/remove-file-code",
     "change-mechanical-file/remove-file-page",
     "change-mechanical-code/change-imports",
     "change-mechanical-text/change-page-property",
