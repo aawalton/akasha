@@ -7,7 +7,7 @@ export const noRuleInTwoFiles = {
   definition: "the check refusing a function whose rule is spelled in another file as well",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
@@ -72,10 +72,6 @@ export const noRuleInTwoFiles = {
     {
       invariantKind: "absence",
       statement: "A rule in a file no page claims is left unread.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The check judges at audit alone.",
     },
     {
       invariantKind: "departure",
