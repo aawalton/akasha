@@ -1,8 +1,8 @@
 diff --git a/collections/great-courses/catalogue-syncing/catalogue-syncing.module.ts b/collections/great-courses/catalogue-syncing/catalogue-syncing.module.ts
-index f02adddbb78d1ac30d2e353298455092165643e3..1202ab8a7150999135bfb2f0bffb4c1732e9e87f 100644
+index f02adddbb78d1ac30d2e353298455092165643e3..dca4ccfa396b239d476f2df6efe3df2092d6fca5 100644
 --- a/collections/great-courses/catalogue-syncing/catalogue-syncing.module.ts
 +++ b/collections/great-courses/catalogue-syncing/catalogue-syncing.module.ts
-@@ -31,8 +31,11 @@ export const catalogueSyncing = {
+@@ -31,13 +31,16 @@ export const catalogueSyncing = {
      },
      {
        invariantKind: "departure",
@@ -16,3 +16,9 @@ index f02adddbb78d1ac30d2e353298455092165643e3..1202ab8a7150999135bfb2f0bffb4c17
      },
      {
        invariantKind: "departure",
+       statement:
+-        "Everything is read and written in this process, off the checkouts on this machine.",
++        "Everything is read and written in this process off the checkouts on this machine.",
+     },
+     {
+       invariantKind: "absence",
