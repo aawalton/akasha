@@ -12,7 +12,11 @@ export const lonePronoun = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An indefinite pronoun points at no thing, so no noun takes its place.",
+      statement: "An indefinite pronoun points at no thing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No noun takes the place of an indefinite pronoun.",
     },
     {
       invariantKind: "departure",
