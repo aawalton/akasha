@@ -28,7 +28,7 @@ export default workflow("postgrest", {
     {
       ...applyRbac({
         name: "postgrest-apply-rbac",
-        rbacFile: "infrastructure/cluster-manifests/postgrest-rbac/postgrest-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster/manifests/postgrest-rbac/postgrest-rbac.module.code.ts",
       }),
       dependsOn: ["postgrest-apply-namespace"],
     },

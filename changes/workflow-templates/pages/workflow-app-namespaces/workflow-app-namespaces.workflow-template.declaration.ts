@@ -3,7 +3,7 @@ import { manifestPath } from "@akasha/workflow-language/manifest-path"
 import { workflow } from "@akasha/workflow-language/workflow"
 
 const APP_NAMESPACES_SYNTH =
-  "infrastructure/cluster-manifests/app-namespaces-synth/app-namespaces-synth.module.code.ts"
+  "infrastructure/cluster/manifests/app-namespaces-synth/app-namespaces-synth.module.code.ts"
 
 export default workflow("app-namespaces", {
   kind: "foundation",

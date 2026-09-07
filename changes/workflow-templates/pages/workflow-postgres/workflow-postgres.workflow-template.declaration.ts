@@ -61,7 +61,7 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
     {
       ...applyRbac({
         name: "postgres-apply-cnpg-rbac",
-        rbacFile: "infrastructure/cluster-manifests/postgres-rbac/postgres-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster/manifests/postgres-rbac/postgres-rbac.module.code.ts",
       }),
       dependsOn: ["postgres-apply-namespace"],
     },

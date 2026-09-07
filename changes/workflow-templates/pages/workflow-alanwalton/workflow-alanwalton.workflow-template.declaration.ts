@@ -14,7 +14,7 @@ export const workflows = [
       applyRbac({
         name: "alanwalton-apply-rbac",
         rbacFile:
-          "infrastructure/cluster-manifests/alanwalton-web-rbac/alanwalton-web-rbac.module.code.ts",
+          "infrastructure/cluster/manifests/alanwalton-web-rbac/alanwalton-web-rbac.module.code.ts",
       }),
       kubectlApply({
         name: "alanwalton-infra-apply-service",

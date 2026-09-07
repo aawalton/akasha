@@ -1,4 +1,4 @@
-import type { Manifest } from "../../cluster/k8s-types/manifests/manifest.page-type.ts"
+import type { Manifest } from "../../k8s-types/manifests/manifest.page-type.ts"
 
 export const headscaleStatefulsets = {
   id: "01a073ae-b2af-7e9b-a63c-63ca580ff2d0",

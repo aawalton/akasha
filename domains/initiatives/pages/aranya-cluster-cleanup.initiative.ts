@@ -20,12 +20,12 @@ export const aranyaClusterCleanup = {
     {
       statement: "All cluster-specific files are in the cluster/ folder.",
       workingMemory:
-        "`cluster/operations` and `cluster/services` have arrived. Left is `infrastructure/cluster-manifests`, whose path 34 files spell as text, going whole and keeping its package name, so no import is rewritten. A move re-depths what an import spells and rewrites nothing spelled as text, and touching an old file runs every prose and lint refusal already latent in it.",
+        "`cluster/manifests`, `cluster/operations` and `cluster/services` have all arrived, so every folder named here is under `cluster/`. What is left is what intent three moves: the workflow language and its templates, still under `changes/`. A move re-depths what an import spells and rewrites nothing spelled as text, and touching an old file runs every prose and lint refusal already latent in it.",
     },
     {
       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
       workingMemory:
-        "Renaming the three folders to `manifests`, `operations` and `services` under `cluster/` adds no refusal and removes none, measured by running the check over a seeded layout. `cluster/` carries 18 refusals: 16 folders under `provisioning/talos/` open with `talos`, `cluster-api-fetch` opens with `cluster-api`, and `provisioning` holds two domain pages where a shape allows one. The check states no phase, so only a direct run measures it.",
+        "`cluster/` carries 18 refusals: 16 folders under `provisioning/talos/` open with `talos`, `cluster-api-fetch` opens with `cluster-api`, and `provisioning` holds two domain pages where a shape allows one. Renaming the three folders that arrived added no refusal and removed none, measured over a seeded layout. The check states no phase, so only a direct run measures it.",
     },
     {
       statement: "The workflow language and its templates sit in cluster/workflow/.",

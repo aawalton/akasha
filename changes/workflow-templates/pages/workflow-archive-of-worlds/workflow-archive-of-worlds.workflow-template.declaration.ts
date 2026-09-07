@@ -12,7 +12,7 @@ export const workflows = [
       applyRbac({
         name: "archive-of-worlds-apply-rbac",
         rbacFile:
-          "infrastructure/cluster-manifests/archive-of-worlds-web-rbac/archive-of-worlds-web-rbac.module.code.ts",
+          "infrastructure/cluster/manifests/archive-of-worlds-web-rbac/archive-of-worlds-web-rbac.module.code.ts",
       }),
       kubectlApply({
         name: "archive-of-worlds-infra-apply-service",

@@ -13,7 +13,7 @@ export const workflows = [
       applyRbac({
         name: "collections-apply-rbac",
         rbacFile:
-          "infrastructure/cluster-manifests/collections-rbac/collections-rbac.module.code.ts",
+          "infrastructure/cluster/manifests/collections-rbac/collections-rbac.module.code.ts",
       }),
       secretPlaceApply({
         name: "collections-infra-apply-secrets",

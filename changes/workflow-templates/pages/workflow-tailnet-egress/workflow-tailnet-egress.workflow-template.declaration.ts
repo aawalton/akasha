@@ -20,7 +20,7 @@ export default workflow("tailnet-egress", {
     applyRbac({
       name: "tailnet-egress-apply-rbac",
       rbacFile:
-        "infrastructure/cluster-manifests/tailnet-egress-rbac/tailnet-egress-rbac.module.code.ts",
+        "infrastructure/cluster/manifests/tailnet-egress-rbac/tailnet-egress-rbac.module.code.ts",
     }),
     kubectlApply({
       name: "tailnet-egress-apply-network-policy",

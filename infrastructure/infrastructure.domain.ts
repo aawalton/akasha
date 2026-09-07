@@ -10,7 +10,6 @@ export const infrastructure = {
     "domain/network",
     "domain/secret",
     "domain/telemetry",
-    "workspace-package/cluster-manifests",
     "workspace-package/git-transport",
     "workspace-package/analysis-complexity",
     "page-type/alert",

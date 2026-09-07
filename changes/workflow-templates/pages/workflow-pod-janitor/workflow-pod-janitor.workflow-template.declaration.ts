@@ -20,7 +20,7 @@ export default workflow("pod-janitor", {
       ...applyRbac({
         name: "pod-janitor-apply-rbac",
         rbacFile:
-          "infrastructure/cluster-manifests/pod-janitor-rbac/pod-janitor-rbac.module.code.ts",
+          "infrastructure/cluster/manifests/pod-janitor-rbac/pod-janitor-rbac.module.code.ts",
       }),
       dependsOn: ["pod-janitor-apply-namespace"],
     },

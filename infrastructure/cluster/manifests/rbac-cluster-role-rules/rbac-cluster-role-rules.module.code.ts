@@ -251,14 +251,14 @@ export const clusterRoleRules: ReadonlyArray<(Rule | NonResourceRule) & { commen
   },
   {
     comment:
-      "Escalation prevention: the postgres namespace Role (infrastructure/cluster-manifests/postgres-rbac/postgres-rbac.module.code.ts)\n  # grants write verbs on the CloudNativePG `Cluster` CR (#11608) and the daily\n  # `ScheduledBackup` CR (#11723) so pipeline-engine can apply them. The CNPG\n  # operator itself is installed under admin kubeconfig — pipeline-engine only\n  # manages the CRs.",
+      "Escalation prevention: the postgres namespace Role (infrastructure/cluster/manifests/postgres-rbac/postgres-rbac.module.code.ts)\n  # grants write verbs on the CloudNativePG `Cluster` CR (#11608) and the daily\n  # `ScheduledBackup` CR (#11723) so pipeline-engine can apply them. The CNPG\n  # operator itself is installed under admin kubeconfig — pipeline-engine only\n  # manages the CRs.",
     apiGroups: ["postgresql.cnpg.io"],
     resources: ["clusters", "scheduledbackups"],
     verbs: ["get", "list", "watch", "create", "update", "patch"],
   },
   {
     comment:
-      "Escalation prevention: the postgres namespace Role (infrastructure/cluster-manifests/postgres-rbac/postgres-rbac.module.code.ts)\n  # grants write verbs on the Barman Cloud `ObjectStore` CR so pipeline-engine\n  # can apply the postgres-cnpg backup destination (#11723). The Barman Cloud\n  # plugin itself is installed under admin kubeconfig — pipeline-engine only\n  # manages the CR.",
+      "Escalation prevention: the postgres namespace Role (infrastructure/cluster/manifests/postgres-rbac/postgres-rbac.module.code.ts)\n  # grants write verbs on the Barman Cloud `ObjectStore` CR so pipeline-engine\n  # can apply the postgres-cnpg backup destination (#11723). The Barman Cloud\n  # plugin itself is installed under admin kubeconfig — pipeline-engine only\n  # manages the CR.",
     apiGroups: ["barmancloud.cnpg.io"],
     resources: ["objectstores"],
     verbs: ["get", "list", "watch", "create", "update", "patch"],

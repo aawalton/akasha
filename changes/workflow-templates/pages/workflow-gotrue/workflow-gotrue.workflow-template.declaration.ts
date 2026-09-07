@@ -27,7 +27,7 @@ export default workflow("gotrue", {
     {
       ...applyRbac({
         name: "gotrue-apply-rbac",
-        rbacFile: "infrastructure/cluster-manifests/gotrue-rbac/gotrue-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster/manifests/gotrue-rbac/gotrue-rbac.module.code.ts",
       }),
       dependsOn: ["gotrue-apply-namespace"],
     },

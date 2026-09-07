@@ -1,4 +1,4 @@
-import type { Manifest } from "../../cluster/k8s-types/manifests/manifest.page-type.ts"
+import type { Manifest } from "../../k8s-types/manifests/manifest.page-type.ts"
 
 export const registryGcManifests = {
   id: "01a073af-3331-7e46-9dcb-a64d98dd4e67",

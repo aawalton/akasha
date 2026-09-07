@@ -11,7 +11,7 @@ export const workflows = [
     steps: [
       applyRbac({
         name: "temper-apply-rbac",
-        rbacFile: "infrastructure/cluster-manifests/temper-web-rbac/temper-web-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster/manifests/temper-web-rbac/temper-web-rbac.module.code.ts",
       }),
       kubectlApply({
         name: "temper-infra-apply-service",

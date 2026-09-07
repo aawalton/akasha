@@ -26,7 +26,7 @@ export default workflow("headscale", {
     }),
     applyRbac({
       name: "headscale-apply-rbac",
-      rbacFile: "infrastructure/cluster-manifests/headscale-rbac/headscale-rbac.module.code.ts",
+      rbacFile: "infrastructure/cluster/manifests/headscale-rbac/headscale-rbac.module.code.ts",
     }),
     secretPlaceApply({
       name: "headscale-apply-secret",

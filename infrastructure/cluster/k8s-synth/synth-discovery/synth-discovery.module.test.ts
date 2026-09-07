@@ -28,7 +28,7 @@ const SERVICES: readonly (readonly [string, string | null])[] = [
 ]
 
 const GLOBBED: readonly string[] = [
-  "infrastructure/cluster-manifests/one-synth/one-synth.module.code.ts",
+  "infrastructure/cluster/manifests/one-synth/one-synth.module.code.ts",
   "inference/generations/upscale/two-synth/two-synth.module.code.ts",
 ]
 
@@ -74,7 +74,7 @@ test("the code file of the manifest a cluster service is applied as is found", (
 })
 
 test("a file the globs match is found still", () => {
-  expect(found()).toContain("infrastructure/cluster-manifests/one-synth/one-synth.module.code.ts")
+  expect(found()).toContain("infrastructure/cluster/manifests/one-synth/one-synth.module.code.ts")
   expect(found()).toContain("inference/generations/upscale/two-synth/two-synth.module.code.ts")
 })
 
@@ -111,8 +111,8 @@ test("a manifest code path reads as a synth path", () => {
 })
 
 test("a glob path reads as a synth path still", () => {
-  expect(isSynthPath("infrastructure/cluster-manifests/one-synth/one-synth.module.code.ts")).toBe(
+  expect(isSynthPath("infrastructure/cluster/manifests/one-synth/one-synth.module.code.ts")).toBe(
     true
   )
-  expect(isSynthPath("infrastructure/cluster-manifests/one-synth/one-synth.module.ts")).toBe(false)
+  expect(isSynthPath("infrastructure/cluster/manifests/one-synth/one-synth.module.ts")).toBe(false)
 })

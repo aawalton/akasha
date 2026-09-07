@@ -33,7 +33,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
     {
       ...applyRbac({
         name: "seaweedfs-apply-rbac",
-        rbacFile: "infrastructure/cluster-manifests/seaweedfs-rbac/seaweedfs-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster/manifests/seaweedfs-rbac/seaweedfs-rbac.module.code.ts",
       }),
       dependsOn: ["seaweedfs-apply-namespace"],
     },

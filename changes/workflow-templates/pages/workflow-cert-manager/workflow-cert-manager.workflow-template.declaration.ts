@@ -17,7 +17,7 @@ export default workflow("cert-manager", {
     applyRbac({
       name: "cert-manager-apply-rbac",
       rbacFile:
-        "infrastructure/cluster-manifests/cert-manager-rbac/cert-manager-rbac.module.code.ts",
+        "infrastructure/cluster/manifests/cert-manager-rbac/cert-manager-rbac.module.code.ts",
     }),
     {
       ...secretPlaceApply({

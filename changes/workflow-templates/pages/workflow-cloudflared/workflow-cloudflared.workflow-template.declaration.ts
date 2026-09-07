@@ -20,7 +20,7 @@ export default workflow("cloudflared", {
     }),
     applyRbac({
       name: "cloudflared-apply-rbac",
-      rbacFile: "infrastructure/cluster-manifests/cloudflared-rbac/cloudflared-rbac.module.code.ts",
+      rbacFile: "infrastructure/cluster/manifests/cloudflared-rbac/cloudflared-rbac.module.code.ts",
     }),
     secretPlaceApply({
       name: "cloudflared-apply-secret",
@@ -42,7 +42,7 @@ export default workflow("cloudflared", {
         "set -e",
         `LIVE_HASH=$(kubectl get configmap cloudflared-config -n cloudflared -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || true)`,
         `if [ "$LIVE_HASH" = "${ci.inputsHash}" ]; then echo "[skip] Content hash ${ci.inputsHash} matches live configmap — skipping"; exit 0; fi`,
-        `bun ${ci.workspace}/infrastructure/cluster-manifests/tunnel-config/tunnel-config.module.code.ts > /tmp/cloudflared-configmap.yaml`,
+        `bun ${ci.workspace}/infrastructure/cluster/manifests/tunnel-config/tunnel-config.module.code.ts > /tmp/cloudflared-configmap.yaml`,
         "kubectl apply -f /tmp/cloudflared-configmap.yaml",
       ],
       dependsOn: [
@@ -103,7 +103,7 @@ export default workflow("cloudflared", {
         `LIVE_HASH=$(kubectl get configmap cloudflared-config -n cloudflared -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || true)`,
         `if [ "$LIVE_HASH" = "${ci.inputsHash}" ]; then echo "[skip] Content hash ${ci.inputsHash} matches — DNS already synced"; exit 0; fi`,
 
-        `bun ${ci.workspace}/infrastructure/cluster-manifests/tunnel-config/tunnel-config.module.code.ts > /tmp/cloudflared-configmap.yaml`,
+        `bun ${ci.workspace}/infrastructure/cluster/manifests/tunnel-config/tunnel-config.module.code.ts > /tmp/cloudflared-configmap.yaml`,
         `_DEPLOY_LIB_DIR=${ci.workspace}/infrastructure/cluster/operations/deploy-functions`,
         `. ${ci.workspace}/infrastructure/cluster/operations/deploy-functions/deploy-functions.shell-script.shell.sh`,
         "mkdir -p /tmp/.cloudflare",

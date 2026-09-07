@@ -12,7 +12,7 @@ export const workflows = [
       applyRbac({
         name: "smilingjenny-apply-rbac",
         rbacFile:
-          "infrastructure/cluster-manifests/smilingjenny-web-rbac/smilingjenny-web-rbac.module.code.ts",
+          "infrastructure/cluster/manifests/smilingjenny-web-rbac/smilingjenny-web-rbac.module.code.ts",
       }),
       kubectlApply({
         name: "smilingjenny-infra-apply-service",

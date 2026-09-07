@@ -30,7 +30,7 @@ export default workflow("supabase-realtime", {
       ...applyRbac({
         name: "supabase-realtime-apply-rbac",
         rbacFile:
-          "infrastructure/cluster-manifests/supabase-realtime-rbac/supabase-realtime-rbac.module.code.ts",
+          "infrastructure/cluster/manifests/supabase-realtime-rbac/supabase-realtime-rbac.module.code.ts",
       }),
       dependsOn: ["supabase-realtime-apply-namespace"],
     },
@@ -182,7 +182,7 @@ export default workflow("supabase-realtime", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `bun ${ci.workspace}/infrastructure/cluster-manifests/realtime-tenant-bootstrap/realtime-tenant-bootstrap.module.code.ts`,
+          `bun ${ci.workspace}/infrastructure/cluster/manifests/realtime-tenant-bootstrap/realtime-tenant-bootstrap.module.code.ts`,
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
