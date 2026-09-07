@@ -10,7 +10,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "An edit holds only the information needed to make that edit.",
       workingMemory:
-        "The ledger stores narrow rows and the mechanical and agent producers answer them. Measured on real ledgers: a move-heavy one cuts 98.7%, write-heavy ones 0 to 3.2%, so the compression is bounded by what the producer names rather than by how the ledger stores it. `narrowed` no longer refuses the six shapes `gathered` reaches where `was` is null. What is left: `Edit` losing its un-kinded member across the fourteen files importing it, and the ten whole-file producers.",
+        "Nine producers still name whole bodies. The last step is forced rather than open: widening each reached answer and then gathering refuses three of four ordinary cases, since each is widened against the tree blind to what its siblings left. A folding page must instead hand back the stated edits joined in order, widened once, so joining is the fold and no gather over stated edits is needed. Reach widens today, which is why folding pages still work.",
     },
     {
       statement: "The edits an agent keeps are an uncommitted file rather than a git object.",
