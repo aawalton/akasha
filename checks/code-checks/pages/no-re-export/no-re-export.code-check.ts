@@ -31,6 +31,10 @@ export const noReExport = {
     },
     {
       invariantKind: "departure",
+      statement: "A re-export inside another declaration is refused like a re-export at the top.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A barrel quietly undoes one way into a folder.",
     },
     {

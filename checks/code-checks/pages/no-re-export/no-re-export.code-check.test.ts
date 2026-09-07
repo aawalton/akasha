@@ -111,3 +111,23 @@ test("what was found carries the line, the name and the source it came from", ()
   expect(found[0]).toEqual({ named: null, line: 1, from: "./b.ts" })
   expect(found[1]).toEqual({ named: "a", line: 2, from: "./c.ts" })
 })
+
+test("a re-export inside a module declaration is refused like one at the top", () => {
+  const said = reasonsIn(given(AT, 'declare module "x" {\n  export { a } from "./b.ts"\n}\n'))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 2")
+  expect(said[0]).toContain("`a`")
+})
+
+test("an import and a re-export both below the top are joined up", () => {
+  const body = 'declare module "x" {\n  import { a } from "./b.ts"\n  export { a }\n}\n'
+  const said = reasonsIn(given(AT, body))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 3")
+  expect(said[0]).toContain("./b.ts")
+})
+
+test("a name declared inside a declaration and exported there is let through", () => {
+  const body = 'declare module "x" {\n  const a: number\n  export { a }\n}\n'
+  expect(reasonsIn(given(AT, body))).toEqual([])
+})
