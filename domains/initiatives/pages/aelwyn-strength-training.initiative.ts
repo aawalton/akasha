@@ -40,7 +40,7 @@ export const aelwynStrengthTraining = {
     {
       statement: "A layoff has a way back in that ran once.",
       workingMemory:
-        "The selection policy states layoffGraceDays 10, layoffSaturationDays 28 and layoffMaxLoadReduction 0.12, so the 28 days since 2026-08-10 sit at full saturation and the largest reduction the policy allows is 12 percent. No session has been planned across a layoff of any length, so the reduction has never been read against sets Alan performed.",
+        "`akasha exercise-select` run on 2026-09-07, at 28 days since 2026-08-10 and so at full saturation, plans Dumbbell Bench Press at 4 sets of 15 to 17 at 30 lb and says `hold load, extend reps to 17 / add a set`. No reduction appears in the plan or among the rules fired, where the policy allows up to 12 percent. The rules named are in-kit, anchor:held, recency and coarse-jump-guard. Nothing names a layoff. So the path is unwritten rather than untested.",
     },
   ],
   constraints: [
