@@ -1,266 +1,854 @@
 writerOwesReading: false
-diff --git a/command-system/address-mapping/address-mapping.module.code.ts b/command-system/address-mapping/address-mapping.module.code.ts
-index 13405e40aa91f3bf3153b127f3dd1e3481d5d13b..ab130d35afae233590c72e0b231fdda8b369e199 100644
---- a/command-system/address-mapping/address-mapping.module.code.ts
-+++ b/command-system/address-mapping/address-mapping.module.code.ts
-@@ -10,14 +10,7 @@ import { baseOf, changeOf } from "../landing/landing.module.code.ts"
- 
- const RUNNER = "change-runner"
- 
--const REACHED = [
--  "change",
--  "change-command",
--  "change-mechanical",
--  "change-checked",
--  "change-authored",
--  "change-restated",
--]
-+const REACHED = "change-mechanical"
- 
- const ADDRESSED = "addressed"
- 
-@@ -67,18 +60,16 @@ export function addressesFor(
-   textAt: (path: string) => string | null
- ): readonly Address[] {
-   const found: Address[] = []
--  for (const kind of REACHED) {
--    for (const listed of shadow.index.everyOfType(kind)) {
--      const value = shadow.pageOf(listed.path)
--      if (value === null) continue
--      const slug = value[SLUG]
--      if (typeof slug !== "string") continue
--      const code = besideAt(listed.path, CODE, TS)
--      if (code === null) continue
--      const text = textAt(code)
--      if (text === null || !declaresRun(text)) continue
--      found.push({ address: `${kind}/${slug}`, spec: specifierFor(at, code) })
--    }
-+  for (const listed of shadow.index.everyOfType(REACHED)) {
-+    const value = shadow.pageOf(listed.path)
-+    if (value === null) continue
-+    const slug = value[SLUG]
-+    if (typeof slug !== "string") continue
-+    const code = besideAt(listed.path, CODE, TS)
-+    if (code === null) continue
-+    const text = textAt(code)
-+    if (text === null || !declaresRun(text)) continue
-+    found.push({ address: `${REACHED}/${slug}`, spec: specifierFor(at, code) })
-   }
-   return [...found].sort((one, two) =>
-     one.address < two.address ? -1 : one.address > two.address ? 1 : 0
-diff --git a/command-system/address-mapping/address-mapping.module.ts b/command-system/address-mapping/address-mapping.module.ts
-index 57690edd29bbc0e52ec383ce16ebd81683b1d3e9..59043fbc3d24a7146c27c9adcfea4c64b7ad132b 100644
---- a/command-system/address-mapping/address-mapping.module.ts
-+++ b/command-system/address-mapping/address-mapping.module.ts
-@@ -13,7 +13,7 @@ export const addressMapping = {
-     },
-     {
-       invariantKind: "departure",
--      statement: "A change exporting the run is reached by the map.",
-+      statement: "A mechanical change exporting the run is reached by the map.",
-     },
-     {
-       invariantKind: "departure",
-@@ -51,9 +51,13 @@ export const addressMapping = {
-       invariantKind: "gap",
-       statement: "A generator that throws leaves a stale map for the typecheck to refuse.",
-     },
+diff --git a/command-system/command-flags/command-flags.module.code.ts b/command-system/command-flags/command-flags.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e913857ec531a50c361b22ca189dbe02b4d10b25
+--- /dev/null
++++ b/command-system/command-flags/command-flags.module.code.ts
+@@ -0,0 +1,104 @@
++import { BREAK_GLASS, textAt } from "../asking/asking.module.code.ts"
++
++export const FILE_PATH = "--file-path"
++
++export const MESSAGE = "--message"
++
++export const MESSAGE_FILE = "--message-file"
++
++export const CONTENT_FILE = "--content-file"
++
++export const REMOVE = "--remove"
++
++export function valuesOf(
++  argv: readonly string[],
++  flag: string,
++  valued: readonly string[]
++): readonly (string | null)[] {
++  const found: (string | null)[] = []
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (one === flag) {
++      const value = argv[at + 1]
++      found.push(value === undefined ? null : value)
++      at += 1
++      continue
++    }
++    if (valued.includes(one)) at += 1
++  }
++  return found
++}
++
++export function unknownIn(
++  argv: readonly string[],
++  valued: readonly string[],
++  bare: readonly string[]
++): readonly string[] {
++  const said: string[] = []
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (valued.includes(one)) {
++      at += 1
++      continue
++    }
++    if (bare.includes(one)) continue
++    said.push(`\`${one}\` is no flag this takes`)
++  }
++  return said
++}
++
++export function glassIn(
++  argv: readonly string[],
++  valued: readonly string[]
++): { readonly glass: string | null } | { readonly refusals: readonly string[] } {
++  const said = valuesOf(argv, BREAK_GLASS, valued)
++  if (said.length === 0) return { glass: null }
++  if (said.length > 1) {
++    return {
++      refusals: [`${BREAK_GLASS} is given ${said.length} times, and one call bypasses once`],
++    }
++  }
++  const one = said[0]
++  if (one === undefined || one === null || one.trim() === "") {
++    return {
++      refusals: [`${BREAK_GLASS} takes the reason no check is to run, and this one is empty`],
++    }
++  }
++  return { glass: one.trim() }
++}
++
++export function messageIn(
++  argv: readonly string[],
++  valued: readonly string[]
++): { readonly message: string | null } | { readonly refusals: readonly string[] } {
++  const said = valuesOf(argv, MESSAGE, valued)
++  const from = valuesOf(argv, MESSAGE_FILE, valued)
++  const refusals: string[] = []
++  if (said.length > 1)
++    refusals.push(`${MESSAGE} is given ${said.length} times, and one commit carries one message`)
++  if (from.length > 1)
++    refusals.push(
++      `${MESSAGE_FILE} is given ${from.length} times, and one commit carries one message`
++    )
++  if (said.length > 0 && from.length > 0) {
++    refusals.push(`${MESSAGE} and ${MESSAGE_FILE} each carry the message, and both are given`)
++  }
++  const one = said[0]
++  const two = from[0]
++  if (one === null) refusals.push(`${MESSAGE} takes the commit message, and none follows it`)
++  if (two === null)
++    refusals.push(`${MESSAGE_FILE} takes a file to read the message from, and none follows it`)
++  if (refusals.length > 0) return { refusals }
++  let message: string | null = null
++  if (typeof one === "string") message = one.trim()
++  if (typeof two === "string") {
++    const read = textAt(two)
++    if (read === null) return { refusals: [`${MESSAGE_FILE} ${two} could not be read as text`] }
++    message = read.trim()
++  }
++  if (message === "")
++    return { refusals: ["the message given is empty, and a commit says what it is for"] }
++  return { message }
++}
+diff --git a/command-system/command-flags/command-flags.module.test.ts b/command-system/command-flags/command-flags.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b90f7e4623916c9f706672144e4f576034bf0e46
+--- /dev/null
++++ b/command-system/command-flags/command-flags.module.test.ts
+@@ -0,0 +1,102 @@
++import { expect, test } from "bun:test"
++import { BREAK_GLASS } from "../asking/asking.module.code.ts"
++import {
++  CONTENT_FILE,
++  FILE_PATH,
++  glassIn,
++  MESSAGE,
++  MESSAGE_FILE,
++  messageIn,
++  REMOVE,
++  unknownIn,
++  valuesOf,
++} from "./command-flags.module.code.ts"
++
++const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
++
++function refusedBy(said: { readonly refusals: readonly string[] } | object): string {
++  return "refusals" in said ? said.refusals.join("\n") : ""
++}
++
++test("a flag's value is the argument after that flag", () => {
++  expect(valuesOf([FILE_PATH, "akasha/one.ts"], FILE_PATH, VALUED)).toEqual(["akasha/one.ts"])
++})
++
++test("a flag given twice answers with both values", () => {
++  expect(valuesOf([REMOVE, "one", REMOVE, "two"], REMOVE, VALUED)).toEqual(["one", "two"])
++})
++
++test("a flag nothing follows answers with a value that is not there", () => {
++  expect(valuesOf([MESSAGE], MESSAGE, VALUED)).toEqual([null])
++  expect(valuesOf([], MESSAGE, VALUED)).toEqual([])
++})
++
++test("the value of one flag is not read as another flag", () => {
++  expect(valuesOf([MESSAGE, REMOVE, REMOVE, "one"], REMOVE, VALUED)).toEqual(["one"])
++})
++
++test("a flag this does not take is refused rather than ignored", () => {
++  expect(unknownIn(["--mechanical"], VALUED, [])).toEqual(["`--mechanical` is no flag this takes"])
++})
++
++test("a flag the caller says carries no value is taken", () => {
++  expect(unknownIn(["--restated"], VALUED, ["--restated"])).toEqual([])
++  expect(unknownIn([MESSAGE, "--restated"], VALUED, [])).toEqual([])
++})
++
++test("breaking the glass with no reason is refused", () => {
++  expect(refusedBy(glassIn([BREAK_GLASS, "   "], VALUED))).toContain("is empty")
++  expect(refusedBy(glassIn([BREAK_GLASS], VALUED))).toContain("is empty")
++})
++
++test("breaking the glass twice is refused", () => {
++  expect(refusedBy(glassIn([BREAK_GLASS, "one", BREAK_GLASS, "two"], VALUED))).toContain(
++    "one call bypasses once"
++  )
++})
++
++test("the reason the glass was broken is answered trimmed", () => {
++  expect(glassIn([BREAK_GLASS, "  held  "], VALUED)).toEqual({ glass: "held" })
++})
++
++test("a call breaking no glass is answered with no reason rather than refused", () => {
++  expect(glassIn([FILE_PATH, BREAK_GLASS], VALUED)).toEqual({ glass: null })
++})
++
++test("the message and the file the message is read from are refused together", () => {
++  expect(refusedBy(messageIn([MESSAGE, "held", MESSAGE_FILE, "at.txt"], VALUED))).toContain(
++    "each carry the message, and both are given"
++  )
++})
++
++test("a message given twice is refused", () => {
++  expect(refusedBy(messageIn([MESSAGE, "one", MESSAGE, "two"], VALUED))).toContain(
++    "one commit carries one message"
++  )
++  expect(refusedBy(messageIn([MESSAGE_FILE, "one", MESSAGE_FILE, "two"], VALUED))).toContain(
++    "one commit carries one message"
++  )
++})
++
++test("a message flag nothing follows is refused", () => {
++  expect(refusedBy(messageIn([MESSAGE], VALUED))).toContain("and none follows it")
++  expect(refusedBy(messageIn([MESSAGE_FILE], VALUED))).toContain("and none follows it")
++})
++
++test("a message that is empty is refused", () => {
++  expect(refusedBy(messageIn([MESSAGE, "  "], VALUED))).toContain("a commit says what it is for")
++})
++
++test("a message is answered trimmed", () => {
++  expect(messageIn([MESSAGE, "  held  "], VALUED)).toEqual({ message: "held" })
++})
++
++test("a message read from a file that will not open is refused", () => {
++  expect(refusedBy(messageIn([MESSAGE_FILE, "/nowhere/at.txt"], VALUED))).toContain(
++    "could not be read as text"
++  )
++})
++
++test("a call naming no message is answered with none rather than refused", () => {
++  expect(messageIn([FILE_PATH, MESSAGE], VALUED)).toEqual({ message: null })
++})
+diff --git a/command-system/command-flags/command-flags.module.ts b/command-system/command-flags/command-flags.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8a32307961c9b0964ae23cb582cbc0b8e2e342e7
+--- /dev/null
++++ b/command-system/command-flags/command-flags.module.ts
+@@ -0,0 +1,69 @@
++import type { Module } from "@akasha/code/module"
++
++export const commandFlags = {
++  id: "01a07bb2-16af-7ede-bbeb-aa80a15e03e1",
++  pageTypeSlug: "module",
++  slug: "command-flags",
++  definition: "the values a command line carries for the flags a command takes",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A flag's value is the argument after that flag.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag given more than once answers with every value that flag was given.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag nothing follows answers with a value that is not there.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag nothing follows is told apart from a flag no call gave.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The value of one flag is never read as another flag.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The flags a command takes are handed in rather than read from the command's page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag the caller handed in no spelling for is refused rather than passed over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A message is read from the command line or from a file.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A call naming the message and the file the message is read from is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A message is answered with the space at either end taken off.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A message that is empty once trimmed is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One call bypasses the checks once.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A reason that is empty once trimmed is refused.",
++    },
 +    {
 +      invariantKind: "absence",
-+      statement: "No change a command line reaches is in the map.",
++      statement: "Nothing here acts on a value read.",
 +    },
-     {
-       invariantKind: "gap",
--      statement: "The page types a change is filed under are listed here rather than descended.",
-+      statement: "The page type a change is filed under is named here rather than descended.",
-     },
-   ],
- } as const satisfies Module
++  ],
++} as const satisfies Module
 diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
-index c56ae1e8b7a161b5dcc2be22465cec70bafd3648..794e1be2187fc8a74cb83622fa44f17c657e3e87 100644
+index bce28476ca737aa383efa2374a2d487cdf7867ec..bbd3d0f5174b642db0c269c062a3ffcf76a3f2c6 100644
 --- a/command-system/command-system.workspace-package.ts
 +++ b/command-system/command-system.workspace-package.ts
-@@ -63,7 +63,10 @@ export const commandSystem = {
+@@ -62,6 +62,7 @@ export const commandSystem = {
+     "module/command-server",
      "module/orphaning",
      "module/seat-act-calling",
-     "module/command-flags",
-+<<<<<<< what this change would leave
-+=======
-     "module/said-pathing",
-+>>>>>>> what HEAD holds
++    "module/command-flags",
    ],
    invariants: [
      {
+diff --git a/command-system/commands/apply/apply.command.code.ts b/command-system/commands/apply/apply.command.code.ts
+index acd1420312282376908b4d48eba64822b6083428..eb4273e7b993e8940634b867f56c482781ef5fe2 100644
+--- a/command-system/commands/apply/apply.command.code.ts
++++ b/command-system/commands/apply/apply.command.code.ts
+@@ -11,12 +11,12 @@ import {
+ import { writtenAgain } from "../../address-mapping/address-mapping.module.code.ts"
+ import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import { MESSAGE, MESSAGE_FILE, unknownIn } from "../../command-flags/command-flags.module.code.ts"
+ import { type Draft, drafted, putBack, type Running } from "../../drafting/drafting.module.code.ts"
+ import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
+ import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
+ import { editsFor, noPageSaid, waitingSaid } from "../change/change.command.code.ts"
+ import { applying } from "../patch/patch.command.code.ts"
+-import { MESSAGE, MESSAGE_FILE, unknownIn } from "../write/write.command.code.ts"
+ 
+ const BYTES = new TextEncoder()
+ 
 diff --git a/command-system/commands/change/change.command.code.ts b/command-system/commands/change/change.command.code.ts
-index 9a4eaf696e6f98ddf368822de55a9dde8aae84b1..403f4684d0456018cfefaecb55c8f02279061ea9 100644
+index 34b57f76dcd4e780c0dd11fbf571f20c6520b2a9..6afcf229bab9e3a8f60f7ebe71c5049825879ad8 100644
 --- a/command-system/commands/change/change.command.code.ts
 +++ b/command-system/commands/change/change.command.code.ts
-@@ -45,6 +45,10 @@ import type { FileEdit } from "../../landing/landing.module.code.ts"
+@@ -39,11 +39,12 @@ import {
+   HELP_SHORT,
+   helpOf,
+ } from "../../calling/calling.module.code.ts"
++import { MESSAGE, unknownIn } from "../../command-flags/command-flags.module.code.ts"
+ import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+ import type { FileEdit } from "../../landing/landing.module.code.ts"
  import { inputIn, type Piping } from "../../piping/piping.module.code.ts"
- import { offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
  import type { Taking } from "../properties/taking.record-property.ts"
-+<<<<<<< what this change would leave
+-import { MESSAGE, offRepo, pathAt, unknownIn } from "../write/write.command.code.ts"
 +import { offRepo, pathAt } from "../write/write.command.code.ts"
-+=======
-+>>>>>>> what HEAD holds
  import { change as changePage } from "./change.command.ts"
  
  const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
 diff --git a/command-system/commands/edit/edit.command.code.ts b/command-system/commands/edit/edit.command.code.ts
-index 8c595080215c9ee25a981756c0d504d3fe438884..e218a8dc0f5c43dfad8fcfc4807089c4adf2a284 100644
+index 341ead4f2815c2092d13dec65228ec5a8bc5f5a1..a6ecd116d83a759219dc619754e5bd4b2e2939eb 100644
 --- a/command-system/commands/edit/edit.command.code.ts
 +++ b/command-system/commands/edit/edit.command.code.ts
-@@ -34,6 +34,11 @@ import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.modul
+@@ -10,6 +10,15 @@ import {
+   troubling,
+ } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import {
++  FILE_PATH,
++  glassIn,
++  MESSAGE,
++  MESSAGE_FILE,
++  messageIn,
++  REMOVE,
++  unknownIn,
++} from "../../command-flags/command-flags.module.code.ts"
+ import type { FileEdit } from "../../landing/landing.module.code.ts"
+ import type { Piping } from "../../piping/piping.module.code.ts"
  import {
+@@ -25,18 +34,11 @@ import {
+   barredIn,
    besideTaken,
    defaultMessage,
-+<<<<<<< what this change would leave
-+  offRepo,
-+  pathAt,
-+=======
-+>>>>>>> what HEAD holds
+-  FILE_PATH,
+-  glassIn,
+-  MESSAGE,
+-  MESSAGE_FILE,
+-  messageIn,
+   offRepo,
+   pathAt,
+-  REMOVE,
    RESTATED,
    removingIn,
    restatedIn,
+-  unknownIn,
+   unrestatedFor,
+   unwarrantedIn,
+ } from "../write/write.command.code.ts"
+diff --git a/command-system/commands/lint-exception/lint-exception.command.code.ts b/command-system/commands/lint-exception/lint-exception.command.code.ts
+index d6b05153e280ced2a3ab714c10fee95fc2568354..e0da65288360f2a093c5f1464c7dd1da76700e72 100644
+--- a/command-system/commands/lint-exception/lint-exception.command.code.ts
++++ b/command-system/commands/lint-exception/lint-exception.command.code.ts
+@@ -9,7 +9,6 @@ import {
+   wroteAndTook,
+ } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+ import {
+   glassIn,
+   MESSAGE,
+@@ -17,7 +16,8 @@ import {
+   messageIn,
+   unknownIn,
+   valuesOf,
+-} from "../write/write.command.code.ts"
++} from "../../command-flags/command-flags.module.code.ts"
++import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+ 
+ export const PACKAGE_PATH = "--package-path"
+ 
+diff --git a/command-system/commands/move/arguing/move-arguing.module.code.ts b/command-system/commands/move/arguing/move-arguing.module.code.ts
+index f1a2c965a5f371d3832c559d769e4267552f5e70..e3fa90742be3d4dc839a9b1ed8386e96200bb404 100644
+--- a/command-system/commands/move/arguing/move-arguing.module.code.ts
++++ b/command-system/commands/move/arguing/move-arguing.module.code.ts
+@@ -1,5 +1,5 @@
+ import { BREAK_GLASS, DRY_RUN } from "../../../asking/asking.module.code.ts"
+-import { MESSAGE, MESSAGE_FILE } from "../../write/write.command.code.ts"
++import { MESSAGE, MESSAGE_FILE } from "../../../command-flags/command-flags.module.code.ts"
+ import type { Pair } from "../spreading/move-spreading.module.code.ts"
+ 
+ export const FROM = "--from"
+diff --git a/command-system/commands/move/move.command.code.ts b/command-system/commands/move/move.command.code.ts
+index 1151a671f74b7a9a4a604465ff27ce4811464463..91b83434531f551f79a2be492f50f86289cb47a0 100644
+--- a/command-system/commands/move/move.command.code.ts
++++ b/command-system/commands/move/move.command.code.ts
+@@ -11,6 +11,7 @@ import type { Asked } from "../../asking/asking.module.code.ts"
+ import { counted, landingAsked, textOf } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+ import { answering } from "../../calling/calling.module.code.ts"
++import { glassIn, messageIn } from "../../command-flags/command-flags.module.code.ts"
+ import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
+ import { wouldClear } from "../../folder-clearing/folder-clearing.module.code.ts"
+ import type { FileCarry, FileEdit } from "../../landing/landing.module.code.ts"
+@@ -19,7 +20,6 @@ import { respeltNames } from "../../outside-naming/outside-naming.module.code.ts
+ import { linkingsIn, reachedOver } from "../../package-linking/package-linking.module.code.ts"
+ import type { Carry } from "../../reading/reading.module.code.ts"
+ import { blobIdOf } from "../../reading/reading.module.code.ts"
+-import { glassIn, messageIn } from "../write/write.command.code.ts"
+ import { FROM, pairsIn, TO, VALUED } from "./arguing/move-arguing.module.code.ts"
+ import { manifestingOver } from "./manifesting/move-manifesting.module.code.ts"
+ import { outsideIn, outsideSaid } from "./outside/move-outside.module.code.ts"
 diff --git a/command-system/commands/patch/patch.command.code.ts b/command-system/commands/patch/patch.command.code.ts
-index 6b8dd7316ba81329bbd59b37457ce64b5758605d..4e904bc01a5e590ffd0dc9eba781710460b8194b 100644
+index 0f762812f22953e2c75e655f99e0a32afd86519e..fc7617086dce484c56a1fbebf929670690234611 100644
 --- a/command-system/commands/patch/patch.command.code.ts
 +++ b/command-system/commands/patch/patch.command.code.ts
-@@ -44,7 +44,11 @@ import { formattedSaid } from "../../landing-saying/landing-saying.module.code.t
+@@ -1,6 +1,5 @@
+ import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
+ import { agentPathOf } from "@akasha/context/warranting"
+-import { said as gitSaid } from "@akasha/git/git-running"
+ import { partedIn } from "@akasha/pages/page-file-name"
+ import { textAt as textIn, valueAt } from "@akasha/pages/page-value"
+ import { applied } from "../../applying/applying.module.code.ts"
+@@ -16,11 +15,22 @@ import {
+   unloadableIn,
+ } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import {
++  CONTENT_FILE,
++  FILE_PATH,
++  glassIn,
++  MESSAGE,
++  MESSAGE_FILE,
++  messageIn,
++  unknownIn,
++  valuesOf,
++} from "../../command-flags/command-flags.module.code.ts"
+ import {
+   type Bodies,
+   DROPPED,
+   droppedAt,
+   droppedPatch,
++  headOf,
+   type Rebased,
+   rebasedOnto,
+   resolved,
+@@ -34,18 +44,7 @@ import { formattedSaid } from "../../landing-saying/landing-saying.module.code.t
  import { added, type Blobs, blobsIn, deleted } from "../../patching/patching.module.code.ts"
  import type { Piping } from "../../piping/piping.module.code.ts"
  import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
-+<<<<<<< what this change would leave
+-import {
+-  CONTENT_FILE,
+-  FILE_PATH,
+-  glassIn,
+-  MESSAGE,
+-  MESSAGE_FILE,
+-  messageIn,
+-  offRepo,
+-  pathAt,
+-  unknownIn,
+-  valuesOf,
+-} from "../write/write.command.code.ts"
 +import { offRepo, pathAt } from "../write/write.command.code.ts"
-+=======
- import { offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
-+>>>>>>> what HEAD holds
  
  export const APPLY = "apply"
  
+@@ -100,10 +99,6 @@ const MOVED = " — moved under the patch since it was drafted"
+ 
+ const WHY = "the patch this agent drafted"
+ 
+-function headOf(root: string): string {
+-  return gitSaid(root, ["rev-parse", "HEAD"]).trim()
+-}
+-
+ function markOf(one: Blobs): string {
+   if (added(one)) return "added"
+   if (deleted(one)) return "taken away"
+diff --git a/command-system/commands/refactor/arguing/refactor-arguing.module.code.ts b/command-system/commands/refactor/arguing/refactor-arguing.module.code.ts
+index a2ba384a83ed9d5bc8b55f83f19518f9be4d9e5c..099bc049862d8398221a1adbbfa9e2de3a67d7e8 100644
+--- a/command-system/commands/refactor/arguing/refactor-arguing.module.code.ts
++++ b/command-system/commands/refactor/arguing/refactor-arguing.module.code.ts
+@@ -1,5 +1,5 @@
+ import { BREAK_GLASS, DRY_RUN } from "../../../asking/asking.module.code.ts"
+-import { MESSAGE, MESSAGE_FILE } from "../../write/write.command.code.ts"
++import { MESSAGE, MESSAGE_FILE } from "../../../command-flags/command-flags.module.code.ts"
+ import { LINE } from "../token-renaming/token-renaming.module.code.ts"
+ 
+ export const FROM = "--from"
+diff --git a/command-system/commands/refactor/landing/refactor-landing.module.code.ts b/command-system/commands/refactor/landing/refactor-landing.module.code.ts
+index d4f5623f5c870923b249a1ac8d650de007ba3ee1..23db9c5f4f8fe95719e3ea439cfc822208f69159 100644
+--- a/command-system/commands/refactor/landing/refactor-landing.module.code.ts
++++ b/command-system/commands/refactor/landing/refactor-landing.module.code.ts
+@@ -3,12 +3,12 @@ import type { Asked } from "../../../asking/asking.module.code.ts"
+ import { landingAsked, textOf } from "../../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../../calling/calling.module.code.ts"
+ import { answering } from "../../../calling/calling.module.code.ts"
++import { glassIn, messageIn } from "../../../command-flags/command-flags.module.code.ts"
+ import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
+ import type { FileCarry, FileEdit } from "../../../landing/landing.module.code.ts"
+ import { baseOf } from "../../../landing/landing.module.code.ts"
+ import type { Carry } from "../../../reading/reading.module.code.ts"
+ import { blobIdOf } from "../../../reading/reading.module.code.ts"
+-import { glassIn, messageIn } from "../../write/write.command.code.ts"
+ 
+ const BYTES = new TextEncoder()
+ 
+diff --git a/command-system/commands/refactor/package-renaming/package-renaming.module.code.ts b/command-system/commands/refactor/package-renaming/package-renaming.module.code.ts
+index a9f1293d7de4fa303ef6def1dd5988744e046655..45234778a1a9299a0549e0c084b9b6fdaa8260ef 100644
+--- a/command-system/commands/refactor/package-renaming/package-renaming.module.code.ts
++++ b/command-system/commands/refactor/package-renaming/package-renaming.module.code.ts
+@@ -4,6 +4,7 @@ import type { Held } from "../../../asking/asking.module.code.ts"
+ import { counted, landedMechanically, landingAsked } from "../../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../../calling/calling.module.code.ts"
+ import { answering } from "../../../calling/calling.module.code.ts"
++import { glassIn, messageIn } from "../../../command-flags/command-flags.module.code.ts"
+ import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
+ import type { FileEdit } from "../../../landing/landing.module.code.ts"
+ import { baseOf } from "../../../landing/landing.module.code.ts"
+@@ -13,7 +14,6 @@ import {
+   spelledRespelt,
+ } from "../../../outside-naming/outside-naming.module.code.ts"
+ import { nameIn, reachedOver } from "../../../package-linking/package-linking.module.code.ts"
+-import { glassIn, messageIn } from "../../write/write.command.code.ts"
+ import { bodyTextOf } from "../landing/refactor-landing.module.code.ts"
+ import {
+   aliasAddedIn,
+diff --git a/command-system/commands/refactor/page-retyping/page-retyping.module.code.ts b/command-system/commands/refactor/page-retyping/page-retyping.module.code.ts
+index e562f3a6a71da51a9bdbcc7497b2d30de9809cfc..dbe3b52caba432a9814b839798917221824dfca3 100644
+--- a/command-system/commands/refactor/page-retyping/page-retyping.module.code.ts
++++ b/command-system/commands/refactor/page-retyping/page-retyping.module.code.ts
+@@ -13,11 +13,11 @@ import type { Asked as Asking } from "../../../asking/asking.module.code.ts"
+ import { counted, landingAsked } from "../../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../../calling/calling.module.code.ts"
+ import { answering } from "../../../calling/calling.module.code.ts"
++import { glassIn, messageIn } from "../../../command-flags/command-flags.module.code.ts"
+ import type { FileEdit } from "../../../landing/landing.module.code.ts"
+ import { baseOf } from "../../../landing/landing.module.code.ts"
+ import type { Carry as Reading } from "../../../reading/reading.module.code.ts"
+ import { outsideIn, saidFrom } from "../../move/outside/move-outside.module.code.ts"
+-import { glassIn, messageIn } from "../../write/write.command.code.ts"
+ import { bodyTextOf, were } from "../landing/refactor-landing.module.code.ts"
+ import type {
+   Carry,
+@@ -266,7 +266,7 @@ export async function retypeLanded(
+   const specifier = specifierFor(one.path, one.typePath, bodyText)
+   if ("refused" in specifier) return answering([], [specifier.refused], 1)
+   const carries = carriesFor(root, one)
+-  const moved = new Map<string, string>(carries.map((held) => [held.from, held.to]))
++  const moved = new Map<string, string>(carries.map((each) => [each.from, each.to]))
+   const held: Rewriting = {
+     one,
+     moved,
+diff --git a/command-system/commands/refactor/refactor.command.code.ts b/command-system/commands/refactor/refactor.command.code.ts
+index 6963806337cdd6fd8bd0e52cea95d7d5d6588f93..e1162b1a84a56e4f666f4ce89ed90a8ccd528b41 100644
+--- a/command-system/commands/refactor/refactor.command.code.ts
++++ b/command-system/commands/refactor/refactor.command.code.ts
+@@ -15,12 +15,12 @@ import type { Asked } from "../../asking/asking.module.code.ts"
+ import { counted, DRY_RUN, landingAsked, textOf } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+ import { answering } from "../../calling/calling.module.code.ts"
++import { glassIn, messageIn } from "../../command-flags/command-flags.module.code.ts"
+ import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
+ import type { FileCarry, FileEdit } from "../../landing/landing.module.code.ts"
+ import { baseOf } from "../../landing/landing.module.code.ts"
+ import type { Carry as Reading } from "../../reading/reading.module.code.ts"
+ import { blobIdOf } from "../../reading/reading.module.code.ts"
+-import { glassIn, messageIn } from "../write/write.command.code.ts"
+ import {
+   AT,
+   FROM,
 diff --git a/command-system/commands/remove/remove.command.code.ts b/command-system/commands/remove/remove.command.code.ts
-index b663d2a24c5c11fd78af58e8f81d82fc32b45e41..4b1174dfbbc135f6c854001c5aa0bd5e35c1adc2 100644
+index 3a837109e2c33a9dec5c7ab597aa94f0fe8e0729..c54950cfde4c97e6d500b5f3f4168b42df971981 100644
 --- a/command-system/commands/remove/remove.command.code.ts
 +++ b/command-system/commands/remove/remove.command.code.ts
-@@ -21,7 +21,11 @@ import {
- import type { FileEdit } from "../../landing/landing.module.code.ts"
- import { baseOf } from "../../landing/landing.module.code.ts"
- import { dropReadings } from "../../reading/reading.module.code.ts"
-+<<<<<<< what this change would leave
+@@ -11,20 +11,17 @@ import type { Asked } from "../../asking/asking.module.code.ts"
+ import { BREAK_GLASS, landingAsked } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+ import { answering } from "../../calling/calling.module.code.ts"
+-import type { FileEdit } from "../../landing/landing.module.code.ts"
+-import { baseOf } from "../../landing/landing.module.code.ts"
+-import { dropReadings } from "../../reading/reading.module.code.ts"
+ import {
+-  barredIn,
+   FILE_PATH,
+-  GIT_DIR,
+   glassIn,
+   MESSAGE,
+   MESSAGE_FILE,
+   messageIn,
+-  offRepo,
+-  pathAt,
+-} from "../write/write.command.code.ts"
++} from "../../command-flags/command-flags.module.code.ts"
++import type { FileEdit } from "../../landing/landing.module.code.ts"
++import { baseOf } from "../../landing/landing.module.code.ts"
++import { dropReadings } from "../../reading/reading.module.code.ts"
 +import { barredIn, GIT_DIR, offRepo, pathAt } from "../write/write.command.code.ts"
-+=======
- import { barredIn, GIT_DIR, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
-+>>>>>>> what HEAD holds
  import { manifestingFor, manifestingSaid } from "./manifesting/remove-manifesting.module.code.ts"
  import type { Span } from "./workspacing/remove-workspacing.module.code.ts"
  import {
 diff --git a/command-system/commands/replace/replace.command.code.ts b/command-system/commands/replace/replace.command.code.ts
-index fbaff6abe801c9a25e3f77c6866e42f7f49dd1a8..b9c8fccb3a577478186e02970ea1301ba81d21de 100644
+index 5b7877aa02ed6966322e172decfc4e229f96c374..7e1474e0e1c44feaf0900e66756205796e129651 100644
 --- a/command-system/commands/replace/replace.command.code.ts
 +++ b/command-system/commands/replace/replace.command.code.ts
-@@ -34,7 +34,17 @@ import {
- } from "../../piping/piping.module.code.ts"
- import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
- import { counted as countedIn } from "../edit/edit.command.code.ts"
-+<<<<<<< what this change would leave
+@@ -12,6 +12,15 @@ import {
+   troubling,
+ } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
 +import {
-+  barredIn,
-+  defaultMessage,
-+  offRepo,
-+  pathAt,
-+  unwarrantedIn,
-+} from "../write/write.command.code.ts"
-+=======
- import { defaultMessage, unwarrantedIn } from "../write/write.command.code.ts"
-+>>>>>>> what HEAD holds
++  FILE_PATH,
++  glassIn,
++  MESSAGE,
++  MESSAGE_FILE,
++  messageIn,
++  unknownIn,
++  valuesOf,
++} from "../../command-flags/command-flags.module.code.ts"
+ import type { FileEdit } from "../../landing/landing.module.code.ts"
+ import type { Piping } from "../../piping/piping.module.code.ts"
+ import {
+@@ -27,16 +36,9 @@ import { counted as countedIn } from "../edit/edit.command.code.ts"
+ import {
+   barredIn,
+   defaultMessage,
+-  FILE_PATH,
+-  glassIn,
+-  MESSAGE,
+-  MESSAGE_FILE,
+-  messageIn,
+   offRepo,
+   pathAt,
+-  unknownIn,
+   unwarrantedIn,
+-  valuesOf,
+ } from "../write/write.command.code.ts"
  
  const OLD_FILE = "--old-file"
- 
 diff --git a/command-system/commands/restore/restore.command.code.ts b/command-system/commands/restore/restore.command.code.ts
-index 719e6c98307d4468dd847d1e7d61e64924327890..5d16c15f6829f4af9a515566e59713237ab2a383 100644
+index 5963c675e57515da7ae3b91a698cb29488f57f42..c546b2b6b4b3f1faf0fa8b570257d2714d937d5f 100644
 --- a/command-system/commands/restore/restore.command.code.ts
 +++ b/command-system/commands/restore/restore.command.code.ts
-@@ -5,7 +5,11 @@ import { type Answer, answering, type Given } from "../../calling/calling.module
- import { FILE_PATH } from "../../command-flags/command-flags.module.code.ts"
+@@ -2,9 +2,10 @@ import { chmodSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+ import { dirname, join, resolve } from "node:path"
+ import { said as gitIn } from "@akasha/git/git-running"
+ import { type Answer, answering, type Given } from "../../calling/calling.module.code.ts"
++import { FILE_PATH } from "../../command-flags/command-flags.module.code.ts"
  import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
  import { saidBy } from "../../fault-saying/fault-saying.module.code.ts"
-+<<<<<<< what this change would leave
+-import { FILE_PATH, offRepo, pathAt } from "../write/write.command.code.ts"
 +import { offRepo, pathAt } from "../write/write.command.code.ts"
-+=======
- import { offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
-+>>>>>>> what HEAD holds
  
  const HEAD = "HEAD"
  
 diff --git a/command-system/commands/tracking/tracking.command.code.ts b/command-system/commands/tracking/tracking.command.code.ts
-index 2f60a48b118733f328447fd068c4a0b8ca6a81cf..d234970425199568e7176b3f398fa3a6af9528ba 100644
+index cde2f41aa95b0b3e8b2583182f6437907805da06..b976bd9e8c8a5e9e7d5017099a84944ab6a7c876 100644
 --- a/command-system/commands/tracking/tracking.command.code.ts
 +++ b/command-system/commands/tracking/tracking.command.code.ts
-@@ -7,8 +7,12 @@ import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
+@@ -5,15 +5,9 @@ import {
+ } from "../../../alan/tracking/tracking-landing/tracking-landing.module.code.ts"
+ import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
  import type { Answer, Given } from "../../calling/calling.module.code.ts"
- import { FILE_PATH, REMOVE, valuesOf } from "../../command-flags/command-flags.module.code.ts"
++import { FILE_PATH, REMOVE, valuesOf } from "../../command-flags/command-flags.module.code.ts"
  import { inputIn } from "../../piping/piping.module.code.ts"
-+<<<<<<< what this change would leave
+-import {
+-  builtIn,
+-  FILE_PATH,
+-  pathAt,
+-  REMOVE,
+-  VALUED,
+-  valuesOf,
+-} from "../write/write.command.code.ts"
 +import { builtIn, pathAt, VALUED } from "../write/write.command.code.ts"
-+=======
- import { pathAt } from "../../said-pathing/said-pathing.module.code.ts"
- import { builtIn, VALUED } from "../write/write.command.code.ts"
-+>>>>>>> what HEAD holds
  
  export const NO_GLASS = `${BREAK_GLASS} is no flag this takes: a body the checks refuse is a fault in the program that composed it`
  
 diff --git a/command-system/commands/write/write.command.code.ts b/command-system/commands/write/write.command.code.ts
-index 95cbaabc771106f5c3db61af7e5bf229c6e336ed..350fee3f8af75cae4c7915b2ff83ac19d41603f7 100644
+index 5e306ca7005f73e97919cb839faa2c9ea0aa13d8..68dc6fa31f5619827673d7702378413a82e7aa9b 100644
 --- a/command-system/commands/write/write.command.code.ts
 +++ b/command-system/commands/write/write.command.code.ts
-@@ -29,7 +29,10 @@ import { baseOf } from "../../landing/landing.module.code.ts"
- import type { Piping } from "../../piping/piping.module.code.ts"
+@@ -8,12 +8,21 @@ import {
+   landedMechanically,
+   landingAsked,
+   mistaking,
+-  textAt,
+   textOf,
+   troubling,
+   wroteAndTook,
+ } from "../../asking/asking.module.code.ts"
+ import { type Answer, type Given, kindNamed } from "../../calling/calling.module.code.ts"
++import {
++  CONTENT_FILE,
++  FILE_PATH,
++  glassIn,
++  MESSAGE,
++  MESSAGE_FILE,
++  messageIn,
++  REMOVE,
++  unknownIn,
++} from "../../command-flags/command-flags.module.code.ts"
+ import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
+ import type { FileEdit } from "../../landing/landing.module.code.ts"
+ import { baseOf } from "../../landing/landing.module.code.ts"
+@@ -21,16 +30,6 @@ import type { Piping } from "../../piping/piping.module.code.ts"
  import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
  import { unrestatedIn } from "../../restating/restating.module.code.ts"
-+<<<<<<< what this change would leave
-+=======
- import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
-+>>>>>>> what HEAD holds
  
+-export const FILE_PATH = "--file-path"
+-
+-export const MESSAGE = "--message"
+-
+-export const MESSAGE_FILE = "--message-file"
+-
+-export const CONTENT_FILE = "--content-file"
+-
+-export const REMOVE = "--remove"
+-
  export const RESTATED = "--restated"
  
-@@ -78,6 +81,39 @@ export function unrestatedFor(given: Given, changes: readonly FileEdit[]): reado
+ export const RESTATED_KIND = "change-restated"
+@@ -112,99 +111,6 @@ export function barredIn(root: string, path: string): string | null {
    )
  }
  
-+<<<<<<< what this change would leave
-+export function pathAt(root: string, said: string): string | null {
-+  const full = isAbsolute(said) ? resolve(said) : resolve(root, said)
-+  const rel = relative(resolve(root), full)
-+  if (rel === "" || isAbsolute(rel) || rel.startsWith("..")) return null
-+  return rel
-+}
-+
-+export function offRepo(said: string): string {
-+  return (
-+    `\`${said}\` is no path inside the repository — a path is read against the repository root, ` +
-+    "and this takes nothing from outside the repository"
-+  )
-+}
-+
-+export function barredIn(root: string, path: string): string | null {
-+  if (path === GIT_DIR || path.startsWith(`${GIT_DIR}${PARTED_BY}`)) {
-+    return (
-+      `${path} is inside \`${GIT_DIR}/\`, which holds the repository itself rather than ` +
-+      "anything the repository says"
-+    )
-+  }
-+  if (path.includes(PARTED_BY)) return null
-+  const at = join(root, path)
-+  if (!existsSync(at) || !statSync(at).isDirectory()) return null
-+  return (
-+    `${path} is a folder at the top of the repository — name what is inside it, so no one call ` +
-+    "takes a whole tree away by a slip of the keyboard"
-+  )
-+}
-+
-+=======
-+>>>>>>> what HEAD holds
+-export function valuesOf(
+-  argv: readonly string[],
+-  flag: string,
+-  valued: readonly string[]
+-): readonly (string | null)[] {
+-  const found: (string | null)[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (one === flag) {
+-      const value = argv[at + 1]
+-      found.push(value === undefined ? null : value)
+-      at += 1
+-      continue
+-    }
+-    if (valued.includes(one)) at += 1
+-  }
+-  return found
+-}
+-
+-export function unknownIn(
+-  argv: readonly string[],
+-  valued: readonly string[],
+-  bare: readonly string[]
+-): readonly string[] {
+-  const said: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (valued.includes(one)) {
+-      at += 1
+-      continue
+-    }
+-    if (bare.includes(one)) continue
+-    said.push(`\`${one}\` is no flag this takes`)
+-  }
+-  return said
+-}
+-
+-export function glassIn(
+-  argv: readonly string[],
+-  valued: readonly string[]
+-): { readonly glass: string | null } | { readonly refusals: readonly string[] } {
+-  const said = valuesOf(argv, BREAK_GLASS, valued)
+-  if (said.length === 0) return { glass: null }
+-  if (said.length > 1) {
+-    return {
+-      refusals: [`${BREAK_GLASS} is given ${said.length} times, and one call bypasses once`],
+-    }
+-  }
+-  const one = said[0]
+-  if (one === undefined || one === null || one.trim() === "") {
+-    return {
+-      refusals: [`${BREAK_GLASS} takes the reason no check is to run, and this one is empty`],
+-    }
+-  }
+-  return { glass: one.trim() }
+-}
+-
+-export function messageIn(
+-  argv: readonly string[],
+-  valued: readonly string[]
+-): { readonly message: string | null } | { readonly refusals: readonly string[] } {
+-  const said = valuesOf(argv, MESSAGE, valued)
+-  const from = valuesOf(argv, MESSAGE_FILE, valued)
+-  const refusals: string[] = []
+-  if (said.length > 1)
+-    refusals.push(`${MESSAGE} is given ${said.length} times, and one commit carries one message`)
+-  if (from.length > 1)
+-    refusals.push(
+-      `${MESSAGE_FILE} is given ${from.length} times, and one commit carries one message`
+-    )
+-  if (said.length > 0 && from.length > 0) {
+-    refusals.push(`${MESSAGE} and ${MESSAGE_FILE} each carry the message, and both are given`)
+-  }
+-  const one = said[0]
+-  const two = from[0]
+-  if (one === null) refusals.push(`${MESSAGE} takes the commit message, and none follows it`)
+-  if (two === null)
+-    refusals.push(`${MESSAGE_FILE} takes a file to read the message from, and none follows it`)
+-  if (refusals.length > 0) return { refusals }
+-  let message: string | null = null
+-  if (typeof one === "string") message = one.trim()
+-  if (typeof two === "string") {
+-    const read = textAt(two)
+-    if (read === null) return { refusals: [`${MESSAGE_FILE} ${two} could not be read as text`] }
+-    message = read.trim()
+-  }
+-  if (message === "")
+-    return { refusals: ["the message given is empty, and a commit says what it is for"] }
+-  return { message }
+-}
+-
  export function defaultMessage(what: string, paths: readonly string[]): string {
    if (paths.length <= 3) return `${what} ${[...paths].sort().join(", ")}`
    return `${what} ${paths.length} files`
+diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
+index 69a85efa20a43d9a0332f86d73379d3efee3fba3..9abbfa89af1d36ba3d1339c1e6a8eb15bca9e9e1 100644
+--- a/command-system/drafting/drafting.module.code.ts
++++ b/command-system/drafting/drafting.module.code.ts
+@@ -98,7 +98,7 @@ type Held = Map<string, Body>
+ 
+ type Worked = { readonly held: Held } | { readonly why: string }
+ 
+-function headOf(root: string): string {
++export function headOf(root: string): string {
+   return gitSaid(root, ["rev-parse", "HEAD"]).trim()
+ }
+ 
