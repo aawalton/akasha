@@ -71,6 +71,34 @@ index ce17ffba94aef04b37b69ed9e2eb7b5ec7c5f8f4..45371dfbec1aa00b424024841ff3b5ca
    return found
  }
  
+diff --git a/checks/code-checks/pages/no-re-export/no-re-export.code-check.test.ts b/checks/code-checks/pages/no-re-export/no-re-export.code-check.test.ts
+index 2d5b01515c590b204844510e844bce244003b1f2..8d076e5edc50723d257171dc5a2fe863bcbb1e2f 100644
+--- a/checks/code-checks/pages/no-re-export/no-re-export.code-check.test.ts
++++ b/checks/code-checks/pages/no-re-export/no-re-export.code-check.test.ts
+@@ -111,3 +111,23 @@ test("what was found carries the line, the name and the source it came from", ()
+   expect(found[0]).toEqual({ named: null, line: 1, from: "./b.ts" })
+   expect(found[1]).toEqual({ named: "a", line: 2, from: "./c.ts" })
+ })
++
++test("a re-export inside a module declaration is refused like one at the top", () => {
++  const said = reasonsIn(given(AT, 'declare module "x" {\n  export { a } from "./b.ts"\n}\n'))
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("line 2")
++  expect(said[0]).toContain("`a`")
++})
++
++test("an import and a re-export both below the top are joined up", () => {
++  const body = 'declare module "x" {\n  import { a } from "./b.ts"\n  export { a }\n}\n'
++  const said = reasonsIn(given(AT, body))
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("line 3")
++  expect(said[0]).toContain("./b.ts")
++})
++
++test("a name declared inside a declaration and exported there is let through", () => {
++  const body = 'declare module "x" {\n  const a: number\n  export { a }\n}\n'
++  expect(reasonsIn(given(AT, body))).toEqual([])
++})
 diff --git a/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts b/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
 index 2cdd0acae975e942353be3c7b9dd5abfb2b2ac3d..de72b22d1d3fd8d384c656900ae11dca8feedd3f 100644
 --- a/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
