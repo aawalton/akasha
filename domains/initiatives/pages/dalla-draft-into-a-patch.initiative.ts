@@ -35,7 +35,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "An edit kept in the old shape is rewritten into the shape an edit holds now.",
       workingMemory:
-        "Two ledgers carry the fault at scale: olwen held 1.4 GB in 233 move rows, awen holds 440,492,434 bytes in 13,984, every one `was === body` and wholly elidable. A move keeps only its two paths, so the rewrite drops both bodies. `edited()` at `edits-keeping.module.code.ts:41-42` refuses an absent `was` and `rowsIn:71` turns that into a refusal of the whole file, so the reader admits the new shape before any ledger is rewritten.",
+        "Measured on awen's ledger: 13,984 rows, all moves over distinct paths, 13,161 holding `was === body`, bodies filling 420,914,180 of its 440,492,434 bytes. The other 823 changed content as they moved, so a row migrates to a move and, where the body moved too, a replace beside it. `edited()` at `edits-keeping.module.code.ts:41-42` refuses an absent `was` and `rowsIn:71` turns that into a refusal of the whole file, so the reader admits the new shape before a ledger is rewritten.",
     },
     {
       statement: "A change is reached by its address rather than by an import.",
