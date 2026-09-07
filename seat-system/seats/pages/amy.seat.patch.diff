@@ -1,0 +1,25 @@
+writerOwesReading: false
+diff --git a/mobile-cli/ios-signing/ios-signing.module.test.ts b/mobile-cli/ios-signing/ios-signing.module.test.ts
+index 5f4d4ad90b437b0a3652c943cf59faea1b24062a..358b89f881fa72b692fda877586b804928051e71 100644
+--- a/mobile-cli/ios-signing/ios-signing.module.test.ts
++++ b/mobile-cli/ios-signing/ios-signing.module.test.ts
+@@ -150,6 +150,19 @@ describe("buildEnsureAppStoreProfile", () => {
+     expect(s).toContain("ASC_PERMISSION_DENIED")
+   })
+ 
++  test("asks App Store Connect again three times where the create answers 5xx", () => {
++    expect(s).toContain("3.times do |attempt|")
++    expect(s).toContain("code.to_i < 500")
++    expect(s).toContain("sleep(2 * (attempt + 1))")
++  })
++
++  test("a failing profile call says ASC_PROFILE_ERROR rather than blaming the keychain", () => {
++    expect(s).toContain("ASC_PROFILE_ERROR")
++    expect(s).toContain('fail_asc("cannot create app-store profile')
++    expect(s).not.toContain('fail_kc("cannot create app-store profile')
++    expect(s).not.toContain('fail_kc("cannot list certificates')
++  })
++
+   test("never inlines the ASC private key — only reads it by path", () => {
+     expect(s).not.toContain("BEGIN PRIVATE KEY")
+     expect(s).toContain("private_keys/AuthKey_")
