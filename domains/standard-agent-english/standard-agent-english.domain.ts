@@ -5,5 +5,9 @@ export const standardAgentEnglish = {
   pageTypeSlug: "domain",
   slug: "standard-agent-english",
   definition: "the language akasha is allowed to write in",
-  partSlugs: ["domain/standard-agent-english-term"],
+  partSlugs: [
+    "domain/standard-agent-english-term",
+    "domain/standard-agent-english-non-term",
+    "module/term-census",
+  ],
 } as const satisfies Domain

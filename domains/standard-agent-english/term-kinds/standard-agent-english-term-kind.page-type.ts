@@ -13,7 +13,6 @@ export const standardAgentEnglishTermKind = {
     "standard-agent-english-term-kind/common-language",
     "standard-agent-english-term-kind/domain-name",
     "standard-agent-english-term-kind/foreign-name",
-    "standard-agent-english-term-kind/page-address",
   ],
   extendsSlug: ["page-type/domain"],
 } as const satisfies PageType

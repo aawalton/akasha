@@ -7,6 +7,7 @@
     "./domain-slug": "./properties/domain-slug.relation-property.ts",
     "./initiative-slug": "./initiatives/properties/initiative-slug.relation-property.ts",
     "./domain-reading": "./modules/reading/domain-reading.module.code.ts",
+    "./term-census": "./standard-agent-english/term-census/term-census.module.code.ts",
     "./domain-rows": "./modules/domain-rows/domain-rows.module.code.ts",
     "./work-initiatives": "./modules/work-initiatives/work-initiatives.module.code.ts"
   }
