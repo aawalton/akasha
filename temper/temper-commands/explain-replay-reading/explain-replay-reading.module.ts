@@ -14,7 +14,11 @@ export const explainReplayReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The trace is ruled on whole, so an unknown field refuses the read.",
+      statement: "The trace is ruled on whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An unknown field refuses the read.",
     },
   ],
 } as const satisfies Module
