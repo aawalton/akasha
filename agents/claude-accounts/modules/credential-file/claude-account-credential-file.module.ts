@@ -15,8 +15,15 @@ export const claudeAccountCredentialFile = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file that cannot be read, cannot be parsed, or names an empty access token reads as no credential.",
+      statement: "A file that cannot be read reads as no credential.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file that cannot be parsed reads as no credential.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file naming an empty access token reads as no credential.",
     },
     {
       invariantKind: "departure",
@@ -47,8 +54,11 @@ export const claudeAccountCredentialFile = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A credential expiring inside the reader's buffer is written, and the lateness is said.",
+      statement: "A credential expiring inside the reader's buffer is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The lateness is said.",
     },
     {
       invariantKind: "departure",
@@ -94,7 +104,11 @@ export const claudeAccountCredentialFile = {
     },
     {
       invariantKind: "gap",
-      statement: "A refusal to write an empty token is silent, because the writer takes no door.",
+      statement: "A refusal to write an empty token is silent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The writer takes no door.",
     },
   ],
 } as const satisfies Module
