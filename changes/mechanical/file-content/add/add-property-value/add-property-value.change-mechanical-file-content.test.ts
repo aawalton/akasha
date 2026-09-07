@@ -1,10 +1,16 @@
 import { expect, test } from "bun:test"
+import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
   NOTHING_OVER,
   type World,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { addPropertyValue } from "./add-property-value.change-mechanical-file-content.code.ts"
+import { addPropertyValue as adding } from "./add-property-value.change-mechanical-file-content.code.ts"
+
+function addPropertyValue(world: World, given: Parameters<typeof adding>[1]): Answer {
+  return widened(adding(world, given), world.textOf)
+}
 
 const AT = "akasha/held/kept.page-type.ts"
 

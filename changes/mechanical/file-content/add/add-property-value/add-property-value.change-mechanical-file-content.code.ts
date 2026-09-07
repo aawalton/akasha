@@ -1,11 +1,7 @@
 import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
-import {
-  answered,
-  refusing,
-  writing,
-} from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
 
@@ -53,7 +49,7 @@ export function withProperty(
   return `${text.slice(0, ended)},\n${indent}${put}${text.slice(ended)}`
 }
 
-export function addPropertyValue(world: World, given: AddPropertyValueAsked): Answer {
+export function addPropertyValue(world: World, given: AddPropertyValueAsked): Said {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const source = parsedAs(given.at, text)
@@ -63,7 +59,8 @@ export function addPropertyValue(world: World, given: AddPropertyValueAsked): An
     (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
   )
   if (one === undefined || !ts.isPropertyAssignment(one)) {
-    return answered([writing(given.at, text, withProperty(text, source, owner, given))])
+    const gained = withProperty(text, source, owner, given)
+    return stating([{ kind: "replace", path: given.at, contentFrom: text, contentTo: gained }])
   }
   const holding = one.initializer
   if (!ts.isArrayLiteralExpression(holding)) {
@@ -72,9 +69,10 @@ export function addPropertyValue(world: World, given: AddPropertyValueAsked): An
   if (holding.elements.some((each) => ts.isStringLiteral(each) && each.text === given.value)) {
     return refusing(`\`${given.key}\` holds \`${given.value}\` already`)
   }
-  return answered([writing(given.at, text, withValue(text, source, holding, given.value))])
+  const put = withValue(text, source, holding, given.value)
+  return stating([{ kind: "replace", path: given.at, contentFrom: text, contentTo: put }])
 }
 
-export function runChange(world: World, given: AddPropertyValueAsked): Answer {
+export function runChange(world: World, given: AddPropertyValueAsked): Said {
   return addPropertyValue(world, given)
 }
