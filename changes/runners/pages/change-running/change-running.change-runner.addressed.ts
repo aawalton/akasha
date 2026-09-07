@@ -47,6 +47,9 @@ export type Changes = {
   "change-mechanical/add-page-property-file": Parameters<
     typeof import("../../../mechanical/pages/add-page-property-file/add-page-property-file.change-mechanical.code.ts")["runChange"]
   >[1]
+  "change-mechanical/add-page-type-file": Parameters<
+    typeof import("../../../mechanical/pages/add-page-type-file/add-page-type-file.change-mechanical.code.ts")["runChange"]
+  >[1]
   "change-mechanical/add-property-value": Parameters<
     typeof import("../../../mechanical/pages/add-property-value/add-property-value.change-mechanical.code.ts")["runChange"]
   >[1]

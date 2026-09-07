@@ -25,6 +25,7 @@ export const changeMechanical = {
     "change-mechanical/add-file",
     "change-mechanical/add-code-file",
     "change-mechanical/add-page-file",
+    "change-mechanical/add-page-type-file",
     "change-mechanical/add-property-value",
     "change-mechanical/add-page-property-file",
     "change-mechanical/change-file",
