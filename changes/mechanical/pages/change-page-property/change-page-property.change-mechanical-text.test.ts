@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { bodyOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { restated } from "./change-page-property.change-mechanical.code.ts"
+import { restated } from "./change-page-property.change-mechanical-text.code.ts"
 
 const AT = "akasha/held/kept.page-type.ts"
 

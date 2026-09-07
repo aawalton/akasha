@@ -5,7 +5,7 @@ import { reach, type World } from "../../../modules/change-shadow/change-shadow.
 import { readFor, targetsIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 import { manyIn } from "../../../modules/page-literal/page-literal.module.code.ts"
 
-const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
+const CHANGE_PAGE_PROPERTY = "change-mechanical-text/change-page-property"
 
 const CHANGE_PAGE_PROPERTY_RELATION = "change-mechanical-data/change-page-property-relation"
 

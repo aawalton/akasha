@@ -12,7 +12,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { runChange as changePageProperty } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
+import { runChange as changePageProperty } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical-text.code.ts"
 import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts"
 import { runChange as renameImports } from "../../../mechanical/pages/rename-imports/rename-imports.change-mechanical-code.code.ts"
 import { runChange as renamePageSlug } from "../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts"
@@ -63,7 +63,7 @@ const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical-file/rename-path") {
     return await renamePathChange(world, given as Parameters<typeof renamePathChange>[1])
   }
-  if (at === "change-mechanical/change-page-property") {
+  if (at === "change-mechanical-text/change-page-property") {
     return changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
   }
   if (at === "change-mechanical-code/rename-export") {

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Value } from "@akasha/pages/page-value"
-import { runChange as changeValue } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
+import { runChange as changeValue } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical-text.code.ts"
 import { runChange as changeRelation } from "../../../mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
@@ -12,7 +12,7 @@ import { knownOf } from "../../../modules/change-shadow/change-shadow.module.tes
 import { changePageProperty, runChange } from "./change-page-property.change-checked.code.ts"
 
 const RUNS: Reaching = async (world, at, given) => {
-  if (at === "change-mechanical/change-page-property") {
+  if (at === "change-mechanical-text/change-page-property") {
     return changeValue(world, given as Parameters<typeof changeValue>[1])
   }
   if (at === "change-mechanical-data/change-page-property-relation") {
@@ -100,6 +100,6 @@ test("each key is handed to the change reached at the address that key names", a
 
   expect(reached).toEqual([
     "change-mechanical-data/change-page-property-relation",
-    "change-mechanical/change-page-property",
+    "change-mechanical-text/change-page-property",
   ])
 })

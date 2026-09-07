@@ -9,7 +9,7 @@ import {
 } from "@akasha/indexes/indexing/testing"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical.code.ts"
+import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical-text.code.ts"
 import { runChange as renameExport } from "../rename-export/rename-export.change-mechanical-code.code.ts"
 import { renameSlug } from "./rename-page-slug.change-mechanical-data.code.ts"
 
@@ -40,7 +40,7 @@ function holding(body: string): (path: string) => string | null {
 
 function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, (world, at, given) => {
-    if (at === "change-mechanical/change-page-property") {
+    if (at === "change-mechanical-text/change-page-property") {
       return Promise.resolve(
         changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
       )
@@ -233,7 +233,7 @@ test("the plural and the export rename are reached at their own addresses", asyn
   await renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
 
   expect(reached).toEqual([
-    "change-mechanical/change-page-property",
+    "change-mechanical-text/change-page-property",
     "change-mechanical-code/rename-export",
   ])
 })

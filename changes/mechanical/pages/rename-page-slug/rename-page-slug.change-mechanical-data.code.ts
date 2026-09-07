@@ -18,7 +18,7 @@ import {
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { boundIn, keyOf, statedIn } from "../../../modules/page-literal/page-literal.module.code.ts"
 
-const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
+const CHANGE_PAGE_PROPERTY = "change-mechanical-text/change-page-property"
 
 const RENAME_EXPORT = "change-mechanical-code/rename-export"
 
