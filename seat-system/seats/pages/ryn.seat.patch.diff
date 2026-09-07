@@ -1,0 +1,18 @@
+diff --git a/collections/great-courses/catalogue-syncing/catalogue-syncing.module.ts b/collections/great-courses/catalogue-syncing/catalogue-syncing.module.ts
+index f02adddbb78d1ac30d2e353298455092165643e3..1202ab8a7150999135bfb2f0bffb4c1732e9e87f 100644
+--- a/collections/great-courses/catalogue-syncing/catalogue-syncing.module.ts
++++ b/collections/great-courses/catalogue-syncing/catalogue-syncing.module.ts
+@@ -31,8 +31,11 @@ export const catalogueSyncing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A run in which any course failed ends non-zero, so a failed run is a failed unit.",
++      statement: "A run in which any course failed ends non-zero.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A failed run is a failed unit.",
+     },
+     {
+       invariantKind: "departure",
