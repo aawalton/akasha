@@ -14,7 +14,11 @@ export const pageAddress = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug carries no slash, because a slug is lower kebab case.",
+      statement: "A slug carries no slash.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug is lower kebab case.",
     },
     {
       invariantKind: "departure",
@@ -30,12 +34,19 @@ export const pageAddress = {
     },
     {
       invariantKind: "departure",
-      statement: "A bare address is refused, the page reached being read off the caller.",
+      statement: "A bare address is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An address naming its parent by a slug is refused, a slug naming pages of many types.",
+      statement: "The page reached is read off the caller.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address naming its parent by a slug is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug names pages of many types.",
     },
   ],
 } as const satisfies Module
