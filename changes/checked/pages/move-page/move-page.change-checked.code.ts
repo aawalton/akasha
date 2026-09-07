@@ -10,7 +10,7 @@ import { reach, type World } from "../../../modules/change-shadow/change-shadow.
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
-const RENAME_IMPORTS = "change-mechanical-code/rename-imports"
+const CHANGE_IMPORTS = "change-mechanical-code/change-imports"
 
 const OUTSIDE = ".."
 
@@ -61,7 +61,7 @@ export async function movePage(world: World, given: MovePageAsked): Promise<Answ
   let seen = world
   for (const [one, next] of moved) {
     if (seen.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
-    const answer = await reach(seen, RENAME_IMPORTS, { was: one, now: next, moved: carried })
+    const answer = await reach(seen, CHANGE_IMPORTS, { was: one, now: next, moved: carried })
     if (answer.said.refused !== null) return answer.said
     edits.push(...answer.said.edits)
     seen = answer.world
@@ -70,7 +70,7 @@ export async function movePage(world: World, given: MovePageAsked): Promise<Answ
     if (moved.has(path)) continue
     const held = seen.textOf(path)
     if (held === null) return refusing(`\`${path}\` names a path that moved and could not be read`)
-    const answer = await reach(seen, RENAME_IMPORTS, { was: path, now: path, moved: carried })
+    const answer = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved: carried })
     if (answer.said.refused !== null) return answer.said
     for (const one of answer.said.edits) {
       if (one.body !== held) edits.push(one)

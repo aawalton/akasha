@@ -3,7 +3,7 @@ import { answered, refusing } from "../../../modules/change-answer/change-answer
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
-const RENAME_IMPORTS = "change-mechanical-code/rename-imports"
+const CHANGE_IMPORTS = "change-mechanical-code/change-imports"
 
 export type RenamePathAsked = {
   readonly from: string
@@ -18,7 +18,7 @@ export async function renamePath(world: World, given: RenamePathAsked): Promise<
   const moved = { [given.from]: given.to }
   const reading = importingOf(world.index, new Map(Object.entries(moved)))
   if ("unread" in reading) return refusing(reading.unread)
-  const carried = await reach(world, RENAME_IMPORTS, {
+  const carried = await reach(world, CHANGE_IMPORTS, {
     was: given.from,
     now: given.to,
     moved,
@@ -29,7 +29,7 @@ export async function renamePath(world: World, given: RenamePathAsked): Promise<
   for (const path of reading.importers) {
     const held = seen.textOf(path)
     if (held === null) return refusing(`\`${path}\` names what moved and could not be read`)
-    const said = await reach(seen, RENAME_IMPORTS, { was: path, now: path, moved })
+    const said = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved })
     if (said.said.refused !== null) return said.said
     for (const one of said.said.edits) {
       if (one.body !== held) edits.push(one)

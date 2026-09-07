@@ -12,9 +12,9 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
+import { runChange as changeImports } from "../../../mechanical/pages/change-imports/change-imports.change-mechanical-code.code.ts"
 import { runChange as changePageProperty } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical-text.code.ts"
 import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts"
-import { runChange as renameImports } from "../../../mechanical/pages/rename-imports/rename-imports.change-mechanical-code.code.ts"
 import { runChange as renamePageSlug } from "../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts"
 import { runChange as renamePathChange } from "../../../mechanical/pages/rename-path/rename-path.change-mechanical-file.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
@@ -69,8 +69,8 @@ const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical-code/rename-export") {
     return renameExport(world, given as Parameters<typeof renameExport>[1])
   }
-  if (at === "change-mechanical-code/rename-imports") {
-    return renameImports(world, given as Parameters<typeof renameImports>[1])
+  if (at === "change-mechanical-code/change-imports") {
+    return changeImports(world, given as Parameters<typeof changeImports>[1])
   }
   return refusing(`\`${at}\` is reached by nothing here`)
 }

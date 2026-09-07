@@ -7,7 +7,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { runChange as renameImports } from "../../../mechanical/pages/rename-imports/rename-imports.change-mechanical-code.code.ts"
+import { runChange as changeImports } from "../../../mechanical/pages/change-imports/change-imports.change-mechanical-code.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { movePage } from "./move-page.change-checked.code.ts"
@@ -22,8 +22,8 @@ const MOVED_CODE = "akasha/three/held.module.code.ts"
 
 function worldIn(root: string): World {
   return worldAt(root, textIn(root), (world, at, given) => {
-    if (at === "change-mechanical-code/rename-imports") {
-      return Promise.resolve(renameImports(world, given as Parameters<typeof renameImports>[1]))
+    if (at === "change-mechanical-code/change-imports") {
+      return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
     }
     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
   })
@@ -79,5 +79,5 @@ test("each body that moves is repointed by the change reached at its address", a
 
   await movePage(world, { at: HELD_PAGE, to: INTO })
 
-  expect(new Set(reached)).toEqual(new Set(["change-mechanical-code/rename-imports"]))
+  expect(new Set(reached)).toEqual(new Set(["change-mechanical-code/change-imports"]))
 })

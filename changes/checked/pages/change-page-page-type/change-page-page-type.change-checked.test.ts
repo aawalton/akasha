@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { bodyOf, idOf, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { runChange as changeFile } from "../../../mechanical/pages/change-file/change-file.change-mechanical-file.code.ts"
-import { runChange as renameImports } from "../../../mechanical/pages/rename-imports/rename-imports.change-mechanical-code.code.ts"
+import { runChange as changeImports } from "../../../mechanical/pages/change-imports/change-imports.change-mechanical-code.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   type Reaching,
@@ -64,8 +64,8 @@ const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file/change-file") {
     return Promise.resolve(changeFile(world, given as Parameters<typeof changeFile>[1]))
   }
-  if (at === "change-mechanical-code/rename-imports") {
-    return Promise.resolve(renameImports(world, given as Parameters<typeof renameImports>[1]))
+  if (at === "change-mechanical-code/change-imports") {
+    return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
@@ -137,6 +137,6 @@ test("each part of the retype is reached at the address that part names", async 
 
   expect(said.refused).toBeNull()
   expect(new Set(reached)).toEqual(
-    new Set(["change-mechanical-code/rename-imports", "change-mechanical-file/change-file"])
+    new Set(["change-mechanical-code/change-imports", "change-mechanical-file/change-file"])
   )
 })

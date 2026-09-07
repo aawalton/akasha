@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { ARRIVES, CODE, HOLDER, TARGET } from "@akasha/testing-system/page-holding"
-import { renameImports } from "./rename-imports.change-mechanical-code.code.ts"
+import { changeImports } from "./change-imports.change-mechanical-code.code.ts"
 
 const TABLE = "akasha/one/routes.ts"
 
@@ -24,7 +24,7 @@ function bodyOf(
   text: string,
   moved: ReadonlyMap<string, string>
 ): string {
-  const said = renameImports(was, now, text, moved)
+  const said = changeImports(was, now, text, moved)
   expect(said.refused).toBe(null)
   expect(said.edits).toHaveLength(1)
   return said.edits[0]?.body ?? ""
@@ -42,7 +42,7 @@ test("a body naming nothing that moved comes back as it is", () => {
 })
 
 test("a body that does not move is answered as a write rather than as a move", () => {
-  const said = renameImports(HOLDER, HOLDER, CODE, new Map())
+  const said = changeImports(HOLDER, HOLDER, CODE, new Map())
   expect(said.edits[0]?.path).toBe(HOLDER)
   expect(said.edits[0]?.was).toBe(CODE)
   expect(said.edits[0]?.from).toBe(undefined)
@@ -73,7 +73,7 @@ test("a body's import of its own generated types follows that body's folder and 
 
 test("a body landing elsewhere is answered as one move rather than as a write and a removal", () => {
   const moved = new Map([[TYPED_ROUTE, TYPED_ROUTE_AT]])
-  const said = renameImports(TYPED_ROUTE, TYPED_ROUTE_AT, TYPED_CODE, moved)
+  const said = changeImports(TYPED_ROUTE, TYPED_ROUTE_AT, TYPED_CODE, moved)
   expect(said.edits).toHaveLength(1)
   expect(said.edits[0]?.from).toBe(TYPED_ROUTE)
   expect(said.edits[0]?.path).toBe(TYPED_ROUTE_AT)

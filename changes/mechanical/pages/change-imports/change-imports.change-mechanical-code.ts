@@ -1,9 +1,9 @@
 import type { ChangeMechanicalCode } from "../../code/change-mechanical-code.page-type.ts"
 
-export const renameImports = {
+export const changeImports = {
   id: "01a07718-c9b6-7696-a9d0-77a8605d3a0b",
   pageTypeSlug: "change-mechanical-code",
-  slug: "rename-imports",
+  slug: "change-imports",
   changeModeSlug: "change-mode-rename",
   definition: "a body rewritten so the paths it names follow the files that moved",
   code: "ts",
