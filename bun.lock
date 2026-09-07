@@ -583,6 +583,7 @@
         "@akasha/inference-clients": "workspace:*",
         "@akasha/inference-runs": "workspace:*",
         "@akasha/seat-system": "workspace:*",
+        "@akasha/utils-fs": "workspace:*",
         "@akasha/wan": "workspace:*",
         "@akasha/zimage": "workspace:*",
         "typescript": "5.9.3",
@@ -2906,6 +2907,7 @@
     "utils-fs": {
       "name": "@akasha/utils-fs",
       "dependencies": {
+        "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
       },
     },

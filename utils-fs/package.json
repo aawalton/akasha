@@ -10,7 +10,7 @@
     "./text-on-disk": "./text-on-disk/text-on-disk.module.code.ts"
   },
   "dependencies": {
-    "@akasha/code-system": "workspace:*",
+    "@akasha/code": "workspace:*",
     "@akasha/errors-core": "workspace:*"
   }
 }
