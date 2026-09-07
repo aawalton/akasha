@@ -1,7 +1,10 @@
 import type { Module } from "../../code-system/modules/module.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
+import type { ChangeTargetTypeSlug } from "../properties/change-target-type-slug.relation-property.ts"
 
-export type ChangeGuard = Module
+export type ChangeGuard = Module & {
+  changeTargetTypeSlug: ChangeTargetTypeSlug
+}
 
 export const changeGuard = {
   id: "01a07744-1310-721d-8751-4a3757cf2d90",
@@ -10,17 +13,9 @@ export const changeGuard = {
   definition: "what judges the answer a change gives and says why that answer is refused",
   pluralSlug: "change-guards",
   extendsSlug: ["page-type/module"],
-  partSlugs: [
-    "change-guard/body-not-written-over",
-    "change-guard/claimed-file-not-left-behind",
-    "change-guard/import-not-left-hanging",
-    "change-guard/page-type-carries-no-pages",
-    "change-guard/import-reaches-a-file",
-    "change-guard/identity-not-already-held",
-    "change-guard/relation-not-left-hanging",
-    "change-guard/plural-slug-not-already-held",
-    "change-guard/relation-reaches-a-page",
-    "change-guard/field-key-not-carried-twice",
+  partSlugs: ["domain/change-guard-file", "domain/change-guard-file-content"],
+  properties: [
+    { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
   ],
   invariants: [
     {

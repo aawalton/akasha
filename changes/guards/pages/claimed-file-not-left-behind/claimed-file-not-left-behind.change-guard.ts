@@ -4,6 +4,7 @@ export const claimedFileNotLeftBehind = {
   id: "01a07988-b667-79dc-8556-31aaf0e2c112",
   pageTypeSlug: "change-guard",
   slug: "claimed-file-not-left-behind",
+  changeTargetTypeSlug: "change-target-type/file",
   definition:
     "the guard refusing an answer taking a page away and leaving behind a file that page claims",
   code: "ts",

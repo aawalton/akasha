@@ -4,6 +4,7 @@ export const pluralSlugNotAlreadyHeld = {
   id: "01a07984-8ee9-7d24-bca8-2d2d1b16ae97",
   pageTypeSlug: "change-guard",
   slug: "plural-slug-not-already-held",
+  changeTargetTypeSlug: "change-target-type/file-content",
   definition:
     "the guard refusing an answer writing a page type whose plural slug another page type states",
   code: "ts",

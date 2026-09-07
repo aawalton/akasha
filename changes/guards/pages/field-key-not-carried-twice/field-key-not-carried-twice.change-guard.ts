@@ -4,6 +4,7 @@ export const fieldKeyNotCarriedTwice = {
   id: "01a07984-2e7f-7d7a-aee0-2708d063ae88",
   pageTypeSlug: "change-guard",
   slug: "field-key-not-carried-twice",
+  changeTargetTypeSlug: "change-target-type/file-content",
   definition: "the guard refusing an answer whose written property carries one key on two fields",
   code: "ts",
   test: "ts",

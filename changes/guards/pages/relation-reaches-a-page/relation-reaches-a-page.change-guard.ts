@@ -4,6 +4,7 @@ export const relationReachesAPage = {
   id: "01a07976-d28f-7fac-9491-0467366b86b4",
   pageTypeSlug: "change-guard",
   slug: "relation-reaches-a-page",
+  changeTargetTypeSlug: "change-target-type/file-content",
   definition: "the guard refusing an answer whose written page names a page reaching nothing",
   code: "ts",
   test: "ts",

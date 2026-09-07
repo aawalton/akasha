@@ -4,6 +4,7 @@ export const pageTypeCarriesNoPages = {
   id: "01a0798b-75e5-74cb-96a6-d72e53dc5424",
   pageTypeSlug: "change-guard",
   slug: "page-type-carries-no-pages",
+  changeTargetTypeSlug: "change-target-type/file-content",
   definition:
     "the guard refusing an answer taking a page type away that pages are still filed under",
   code: "ts",

@@ -4,6 +4,7 @@ export const bodyNotWrittenOver = {
   id: "01a0795f-07b6-7283-82d6-21b6dd9fc91b",
   pageTypeSlug: "change-guard",
   slug: "body-not-written-over",
+  changeTargetTypeSlug: "change-target-type/file",
   definition:
     "the guard refusing an answer that writes a body at a path another body already holds",
   code: "ts",

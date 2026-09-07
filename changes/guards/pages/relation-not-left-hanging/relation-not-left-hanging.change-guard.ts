@@ -4,6 +4,7 @@ export const relationNotLeftHanging = {
   id: "01a07750-f2bc-7b43-a336-b879db98da45",
   pageTypeSlug: "change-guard",
   slug: "relation-not-left-hanging",
+  changeTargetTypeSlug: "change-target-type/file-content",
   definition: "the guard refusing an answer that takes a page away another page still names",
   code: "ts",
   test: "ts",
