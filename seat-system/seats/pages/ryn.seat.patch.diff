@@ -1,0 +1,22 @@
+diff --git a/seat-system/terminal-init/terminal-ended/terminal-ended.module.ts b/seat-system/terminal-init/terminal-ended/terminal-ended.module.ts
+index 5af92e4f0aba362ec42013883b2b12c4a64bf106..60aa9649ecc657290c90cc4302261323531b4910 100644
+--- a/seat-system/terminal-init/terminal-ended/terminal-ended.module.ts
++++ b/seat-system/terminal-init/terminal-ended/terminal-ended.module.ts
+@@ -10,8 +10,15 @@ export const terminalEnded = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The record names when the shell ended, the status that shell ended with and where that shell was.",
++      statement: "The record names when the shell ended.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The record names the status that shell ended with.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The record names where that shell was.",
+     },
+     {
+       invariantKind: "departure",
