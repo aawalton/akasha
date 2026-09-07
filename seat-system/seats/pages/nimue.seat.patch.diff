@@ -1,0 +1,68 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/nimue-code-cleanup.initiative.ts b/domains/initiatives/pages/nimue-code-cleanup.initiative.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9e3387fc85688a57fed5fed7c24ea1aa0971a101
+--- /dev/null
++++ b/domains/initiatives/pages/nimue-code-cleanup.initiative.ts
+@@ -0,0 +1,21 @@
++import type { Initiative } from "../initiative.page-type.ts"
++
++export const nimueCodeCleanup = {
++  id: "01a07693-7ea9-7fa0-ab70-5d8e33381c8c",
++  pageTypeSlug: "initiative",
++  slug: "nimue-code-cleanup",
++  domainSlug: "workspace-package/code-system",
++  personaSlug: "nimue",
++  intents: [
++    {
++      statement: "All code-system files are in the code/ folder.",
++      workingMemory:
++        "372 files are under `code-system`, and 7,742 outside it spell that name, 4,649 of those as `@akasha/code/module`. `code/` is taken: `code.domain.ts` is `domain/code`, definition `the code a machine runs`, carrying 4 directives and naming 2 parts. Both pages are parts of `akasha`. A workspace package extends a domain, so the package absorbs the domain the way `collection` absorbed `collection-system`.",
++    },
++    {
++      statement: "The code folder tree passes the folder-matches-a-shape check.",
++      workingMemory:
++        "`akasha audit --check folder-matches-a-shape --file-path code-system` answers no refusal over 372 files. The same call over `code` answers 1 over 3 files: `code/` holds 2 pages where every shape wants one. `code-audit-ast-unused` needs a folder of its own, named `audit-ast-unused`, since a folder never opens with the name of the page above it.",
++    },
++  ],
++} as const satisfies Initiative
+diff --git a/domains/initiatives/pages/vera-code-cleanup.initiative.ts b/domains/initiatives/pages/vera-code-cleanup.initiative.ts
+deleted file mode 100644
+index d62fdb5da2cfaa6e742ff535a73b0b534e30457d..0000000000000000000000000000000000000000
+--- a/domains/initiatives/pages/vera-code-cleanup.initiative.ts
++++ /dev/null
+@@ -1,21 +0,0 @@
+-import type { Initiative } from "../initiative.page-type.ts"
+-
+-export const veraCodeCleanup = {
+-  id: "01a07693-7ea9-7fa0-ab70-5d8e33381c8c",
+-  pageTypeSlug: "initiative",
+-  slug: "vera-code-cleanup",
+-  domainSlug: "workspace-package/code-system",
+-  personaSlug: "vera",
+-  intents: [
+-    {
+-      statement: "All code-system files are in the code/ folder.",
+-      workingMemory:
+-        "372 files are under `code-system`, and 7,742 outside it spell that name, 4,649 of those as `@akasha/code/module`. `code/` is taken: `code.domain.ts` is `domain/code`, definition `the code a machine runs`, carrying 4 directives and naming 2 parts. Both pages are parts of `akasha`. A workspace package extends a domain, so the package absorbs the domain the way `collection` absorbed `collection-system`.",
+-    },
+-    {
+-      statement: "The code folder tree passes the folder-matches-a-shape check.",
+-      workingMemory:
+-        "`akasha audit --check folder-matches-a-shape --file-path code-system` answers no refusal over 372 files. The same call over `code` answers 1 over 3 files: `code/` holds 2 pages where every shape wants one. `code-audit-ast-unused` needs a folder of its own, named `audit-ast-unused`, since a folder never opens with the name of the page above it.",
+-    },
+-  ],
+-} as const satisfies Initiative
+diff --git a/seat-system/seats/pages/nimue.seat.ts b/seat-system/seats/pages/nimue.seat.ts
+index 519662e29692ad2aee6a42aae58167db4ff68623..989bf2b4e82b8d7c4f8c68ae2f3effd46dc1d091 100644
+--- a/seat-system/seats/pages/nimue.seat.ts
++++ b/seat-system/seats/pages/nimue.seat.ts
+@@ -5,7 +5,7 @@ export const nimue = {
+   pageTypeSlug: "seat",
+   slug: "nimue",
+   personaSlug: "nimue",
+-  assignmentSlug: "domain/technology",
++  assignmentSlug: "initiative/nimue-code-cleanup",
+   roleSlug: "definer",
+   personSlug: "alan",
+   startMode: "interactive",
