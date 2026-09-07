@@ -4,13 +4,13 @@ import { CALORIES_TO_THE_POINT, enduranceIn } from "./attribute-endurance.readou
 const held = (figure: unknown) => ({ "active-calories": figure })
 
 test("the reading is the figure over the amount one point costs", () => {
-  expect(CALORIES_TO_THE_POINT).toBe(400)
-  expect(enduranceIn(held(400))).toBeCloseTo(1, 10)
-  expect(enduranceIn(held(400 * 2))).toBeCloseTo(2, 10)
+  expect(CALORIES_TO_THE_POINT).toBe(200)
+  expect(enduranceIn(held(200))).toBeCloseTo(1, 10)
+  expect(enduranceIn(held(200 * 2))).toBeCloseTo(2, 10)
 })
 
 test("a figure given as text is read as the number that text spells", () => {
-  expect(enduranceIn(held(String(400)))).toBeCloseTo(1, 10)
+  expect(enduranceIn(held(String(200)))).toBeCloseTo(1, 10)
 })
 
 test("a reading of zero is a reading rather than an absent one", () => {

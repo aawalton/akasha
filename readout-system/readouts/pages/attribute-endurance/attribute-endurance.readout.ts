@@ -20,7 +20,7 @@ export const attributeEndurance = {
     },
     {
       invariantKind: "departure",
-      statement: "Four hundred calories burned moving is one point.",
+      statement: "Two hundred calories burned moving is one point.",
     },
 
     {
