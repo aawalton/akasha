@@ -59,6 +59,18 @@ test("dropping a way in keeps the rest of the manifest as it was", () => {
 `)
 })
 
+test("dropping the last way in leaves a manifest that reads as JSON", () => {
+  const said = withoutWaysIn("held/package.json", MANIFEST, new Set(["./two"]))
+  expect(() => JSON.parse(said)).not.toThrow()
+  expect(Object.keys(JSON.parse(said).exports)).toEqual(["./one"])
+})
+
+test("dropping every way in leaves a manifest that reads as JSON", () => {
+  const said = withoutWaysIn("held/package.json", MANIFEST, new Set(["./one", "./two"]))
+  expect(() => JSON.parse(said)).not.toThrow()
+  expect(JSON.parse(said).exports).toEqual({})
+})
+
 test("every manifest above what goes is read", () => {
   const there = (path: string) => path === "package.json" || path === "held/package.json"
   expect(manifestsAbove(new Set(["held/one/one.ts"]), there)).toEqual([
