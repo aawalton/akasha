@@ -1,5 +1,3 @@
-import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-version"
-import { type LiveProxySeat, liveProxySeats, seatsNewestFirst } from "@akasha/agents/proxy-seats"
 import {
   describeAckTimeout,
   setRequestedAction,
@@ -7,21 +5,15 @@ import {
 } from "@akasha/seat-system/seat-action"
 import { planSeatResolution, resolveSeatTarget } from "@akasha/seat-system/seat-handle"
 import { readProxyState } from "@akasha/seat-system/seat-proxy-state"
-import { seatsPresent } from "@akasha/seat-system/seat-roster"
 import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import { liveSeats } from "../model-gateway/live-gateway-seats/live-gateway-seats.module.code.ts"
 
-const STATUS = "status"
+export const FLEET = "--fleet"
 
-const SWAP = "swap"
-
-const ACTS = [STATUS, SWAP] as const
-
-const FLEET = "--fleet"
-
-const JSON_OUT = "--json"
+export const JSON_OUT = "--json"
 
 const ACTION = "swap-proxy"
 
@@ -29,51 +21,27 @@ const STAGGER_MS = 1_000
 
 const ACK_TIMEOUT_MS = 30_000
 
-const SHORT = 12
-
-const NONE = "—"
-
-const TAKEN: { readonly [act: string]: readonly string[] } = {
-  [STATUS]: [JSON_OUT],
-  [SWAP]: [FLEET, JSON_OUT],
-}
+const TAKES = [FLEET, JSON_OUT] as const
 
 export type Taken = {
-  readonly act: string
   readonly target: string | null
   readonly on: ReadonlySet<string>
 }
 
 export type Read = Taken | { readonly refused: readonly string[] }
 
-function acts(): string {
-  return ACTS.map((one) => `\`${one}\``).join(", ")
-}
-
 export function readIn(argv: readonly string[]): Read {
-  const [named, ...rest] = argv
-  if (named === undefined) {
-    return { refused: [`this names no act — it carries ${acts()}`] }
-  }
-  if (!(ACTS as readonly string[]).includes(named)) {
-    return { refused: [`\`${named}\` is no act this carries — it carries ${acts()}`] }
-  }
-  const takes = TAKEN[named] ?? []
   const refusals: string[] = []
   const on = new Set<string>()
   let target: string | null = null
-  for (const one of rest) {
+  for (const one of argv) {
     if (one.startsWith("-")) {
-      if (!takes.includes(one)) {
-        const said = takes.map((each) => `\`${each}\``).join(", ")
-        refusals.push(`\`${one}\` is no flag \`${named}\` takes — it takes ${said}`)
+      if (!(TAKES as readonly string[]).includes(one)) {
+        const said = TAKES.map((each) => `\`${each}\``).join(", ")
+        refusals.push(`\`${one}\` is no flag a swap takes — it takes ${said}`)
         continue
       }
       on.add(one)
-      continue
-    }
-    if (named !== SWAP) {
-      refusals.push(`\`${one}\` follows \`${named}\`, which names no seat`)
       continue
     }
     if (target !== null) {
@@ -82,64 +50,14 @@ export function readIn(argv: readonly string[]): Read {
     }
     target = one
   }
-  if (named === SWAP && target !== null && on.has(FLEET)) {
-    refusals.push(
-      `\`${SWAP}\` names the seat \`${target}\` and \`${FLEET}\` both, and it takes one`
-    )
+  if (target !== null && on.has(FLEET)) {
+    refusals.push(`a swap naming the seat \`${target}\` and \`${FLEET}\` together names one`)
   }
-  if (named === SWAP && target === null && !on.has(FLEET)) {
-    refusals.push(`\`${SWAP}\` names a seat or says \`${FLEET}\`, and it said neither`)
+  if (target === null && !on.has(FLEET)) {
+    refusals.push(`a swap names a seat or says \`${FLEET}\`, and no seat was named`)
   }
   if (refusals.length > 0) return { refused: refusals }
-  return { act: named, target, on }
-}
-
-type Drift = "current" | "lagging" | "unknown"
-
-export function driftOf(running: string | null, onDisk: string | null): Drift {
-  if (running == null || onDisk == null) return "unknown"
-  return running === onDisk ? "current" : "lagging"
-}
-
-export function shortOf(version: string | null): string {
-  if (version == null || version.length === 0) return NONE
-  return version.slice(0, SHORT)
-}
-
-function resolveLiveProxySeats(): readonly LiveProxySeat[] {
-  const agents = seatsNewestFirst(
-    seatsPresent().map((seat) => ({ id: seat.id, name: seat.name, activeAtMs: seat.activeAtMs }))
-  )
-  return liveProxySeats(agents, readProxyState, pidAliveOrRefuse)
-}
-
-function labelOf(seat: LiveProxySeat): string {
-  return seat.name ?? seat.agentId.slice(0, 8)
-}
-
-function statusing(on: ReadonlySet<string>, report: string[]): Answer {
-  const seats = resolveLiveProxySeats()
-  const onDisk = computeModelGatewayTreeVersion()
-  const rows = seats.map((seat) => ({ seat, drift: driftOf(seat.runningVersion, onDisk) }))
-  if (on.has(JSON_OUT)) {
-    report.push(
-      JSON.stringify({
-        ok: true,
-        onDiskVersion: onDisk,
-        seats: rows.map(({ seat, drift }) => ({
-          agentId: seat.agentId,
-          name: seat.name,
-          status: drift,
-          runningVersion: seat.runningVersion,
-        })),
-      })
-    )
-    return { report, refusals: [], code: 0 }
-  }
-  for (const { seat, drift } of rows) {
-    report.push(`${labelOf(seat)}\t${drift}\t${shortOf(seat.runningVersion)}\t${shortOf(onDisk)}`)
-  }
-  return { report, refusals: [], code: 0 }
+  return { target, on }
 }
 
 type Outcome = "swapped" | "no-live-proxy" | "timeout"
@@ -157,7 +75,7 @@ function waiting(ms: number): Promise<void> {
 }
 
 async function fleeting(on: ReadonlySet<string>, report: string[]): Promise<Answer> {
-  const live = resolveLiveProxySeats()
+  const live = liveSeats()
   const held: { agentId: string; status: Outcome }[] = []
   for (const [at, seat] of live.entries()) {
     const status = await swapped(seat.agentId).catch((thrown: unknown): Outcome => {
@@ -211,13 +129,12 @@ async function swapping(read: Taken, report: string[]): Promise<Answer> {
   return { report, refusals: [], code: 0 }
 }
 
-export async function modelGateway(argv: readonly string[], given: Given): Promise<Answer> {
+export async function modelGatewaySwap(argv: readonly string[], given: Given): Promise<Answer> {
   void given
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   const report: string[] = []
   try {
-    if (read.act === STATUS) return statusing(read.on, report)
     return await swapping(read, report)
   } catch (thrown) {
     return { report, refusals: [whyOf(thrown)], code: 3 }
