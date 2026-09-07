@@ -15,7 +15,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "Every key the watcher names on a page is one that page type declares.",
       workingMemory:
-        "Met: temper-task narrowed on `account`; `userId` dropped from four temper page types; `display-order`; `name` on temper-sale; `capturedAt` across the watcher and the inventory UI; `target-build-id` raised to temper-character-thing; `due-time` and `pending-sync` declared on temper-task; `handle`, `platform` and `server` declared on temper-player. Open: player-settings asks `where userId` and reads `profileMetadata`, neither declared, so the ask is refused and the panels show defaults.",
+        "Met: temper-task narrowed on `account`; `userId` dropped from four temper page types; `display-order`; `name` on temper-sale; `capturedAt` across the watcher and the inventory UI; `target-build-id` raised to temper-character-thing; `due-time` and `pending-sync` declared on temper-task; `handle`, `platform` and `server` declared on temper-player. Open: ten browser reads filter on `userId`, which no temper page type declares, so the store refuses each.",
     },
     {
       statement: "A task the web holds reaches the characters config the game reads.",
