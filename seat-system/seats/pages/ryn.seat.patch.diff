@@ -1,8 +1,8 @@
 diff --git a/checks/modules/change-walking/change-walking.module.ts b/checks/modules/change-walking/change-walking.module.ts
-index 652d607f21ecb8f0640124638a812e80a10e4803..263ce77abef353161e92fcb027f0fb03262be138 100644
+index 652d607f21ecb8f0640124638a812e80a10e4803..fcc41cf96aa2bc344d8aa62c8398c435674da30f 100644
 --- a/checks/modules/change-walking/change-walking.module.ts
 +++ b/checks/modules/change-walking/change-walking.module.ts
-@@ -51,7 +51,11 @@ export const changeWalking = {
+@@ -51,11 +51,19 @@ export const changeWalking = {
      },
      {
        invariantKind: "departure",
@@ -12,6 +12,15 @@ index 652d607f21ecb8f0640124638a812e80a10e4803..263ce77abef353161e92fcb027f0fb03
 +    {
 +      invariantKind: "departure",
 +      statement: "A folder holds no body a check judges.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "Git tracks the link a package is reached by.",
      },
      {
        invariantKind: "constraint",
+-      statement: "Git tracks the link a package is reached by, and that link leads to a folder.",
++      statement: "That link leads to a folder.",
+     },
+     {
+       invariantKind: "departure",
