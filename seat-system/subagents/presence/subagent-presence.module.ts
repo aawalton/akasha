@@ -154,6 +154,14 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A patch is taken in whether or not the page beside that patch is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent stopping sweeps every patch under its seat.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A patch whose page went before this sweep is taken in like any other patch.",
     },
     {
