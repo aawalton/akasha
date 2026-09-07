@@ -20,7 +20,7 @@ const HELD = "the body states an `id` of its own, so `id` is left out or said as
 
 const NO_LITERAL = "the body declares no literal, so no `id` goes into the body"
 
-const ADD_FILE = "change-mechanical/add-file"
+const ADD_FILE = "change-mechanical-file/add-file"
 
 const ADD_CODE_FILE = "change-mechanical-file/add-code-file"
 

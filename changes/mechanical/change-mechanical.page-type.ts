@@ -29,7 +29,7 @@ export const changeMechanical = {
     "change-mechanical/rename-imports",
     "change-mechanical/change-page-property",
     "change-mechanical/change-page-property-relation",
-    "change-mechanical/add-file",
+    "change-mechanical-file/add-file",
     "change-mechanical-file/add-code-file",
     "change-mechanical/add-page-file",
     "change-mechanical/add-page-type-file",

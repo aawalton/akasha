@@ -6,7 +6,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { addFile } from "../../mechanical/pages/add-file/add-file.change-mechanical.code.ts"
+import { addFile } from "../../mechanical/pages/add-file/add-file.change-mechanical-file.code.ts"
 import { removeFile } from "../../mechanical/pages/remove-file/remove-file.change-mechanical-file.code.ts"
 import {
   answered,
@@ -32,7 +32,7 @@ const AT = "akasha/one/fresh.module.code.ts"
 
 const OTHER = "akasha/one/other.module.code.ts"
 
-const ADD_FILE = "change-mechanical/add-file"
+const ADD_FILE = "change-mechanical-file/add-file"
 
 const REMOVE_FILE = "change-mechanical-file/remove-file"
 
