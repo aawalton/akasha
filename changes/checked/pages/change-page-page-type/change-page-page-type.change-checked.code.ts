@@ -1,19 +1,16 @@
-import { dirname, relative } from "node:path"
+import { dirname } from "node:path"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { typedAs } from "../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
+import { specifierFor } from "../../../mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
 import {
   answered,
   gathered,
   missing,
   refusing,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
-import {
-  reach,
-  type World,
-  worldOver,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
@@ -30,11 +27,6 @@ const TO = "to"
 export type ChangePagePageTypeAsked = {
   readonly at: string
   readonly to: string
-}
-
-function specifierFor(dir: string, target: string): string {
-  const said = relative(dir, target)
-  return said.startsWith(".") ? said : `./${said}`
 }
 
 function importingFor(name: string): RegExp {
@@ -57,25 +49,14 @@ function renamedInto(
   return said
 }
 
-async function stepped(
-  world: World,
-  held: Answer,
-  run: (over: World) => Answer | Promise<Answer>
-): Promise<Answer> {
-  if (held.refused !== null) return held
-  const one = await run(worldOver(world, held))
-  return one.refused === null ? gathered([held, one]) : one
-}
-
-function restating(over: World, at: string, was: string): Answer {
+function restating(over: World, at: string, was: string): string | null {
   const text = over.textOf(at)
-  if (text === null) return refusing(`\`${at}\` holds no body once the page is carried`)
+  if (text === null) return `\`${at}\` holds no body once the page is carried`
   const name = typedAs(was)
-  const line = importingFor(name).exec(text)
-  if (line === null) {
-    return refusing(`\`${at}\` imports no type named \`${name}\`, so the page type is not restated`)
+  if (importingFor(name).exec(text) === null) {
+    return `\`${at}\` imports no type named \`${name}\`, so the page type is not restated`
   }
-  return answered([])
+  return null
 }
 
 export async function changePagePageType(
@@ -114,65 +95,42 @@ export async function changePagePageType(
   const wasName = typedAs(said.pageType)
   const nowName = typedAs(type.slug)
   const movedOver = Object.fromEntries(moved)
-  const carried: Edit[] = []
-  let reached = world
+  const carried: Answer[] = []
+  let over = world
   for (const [one, next] of moved) {
-    if (reached.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
-    const answer = await reach(reached, REPOINT_IMPORTS, { was: one, now: next, moved: movedOver })
+    if (over.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
+    const answer = await reach(over, REPOINT_IMPORTS, { was: one, now: next, moved: movedOver })
     if (answer.said.refused !== null) return answer.said
-    carried.push(...answer.said.edits)
-    reached = answer.world
+    carried.push(answer.said)
+    over = answer.world
   }
-  let held = answered(carried)
-  held = await stepped(world, held, (over) => restating(over, at, said.pageType))
-  held = await stepped(world, held, async (over) => {
-    const text = over.textOf(at) ?? ""
-    const line = importingFor(wasName).exec(text)
-    const spelled = `import type { ${nowName} } from ${JSON.stringify(specifierFor(dirname(at), given.to))}`
-    const one = await reach(over, CHANGE_FILE, {
-      at,
-      old: line === null ? "" : line[0],
-      new: spelled,
-    })
-    return one.said
-  })
-  held = await stepped(world, held, async (over) => {
-    const one = await reach(over, CHANGE_FILE, {
-      at,
-      old: `satisfies ${wasName}`,
-      new: `satisfies ${nowName}`,
-    })
-    return one.said
-  })
-  held = await stepped(world, held, async (over) => {
-    const one = await reach(over, CHANGE_FILE, {
-      at,
-      old: `${TYPE_KEY}: ${JSON.stringify(said.pageType)}`,
-      new: `${TYPE_KEY}: ${JSON.stringify(type.slug)}`,
-    })
-    return one.said
-  })
-  held = await stepped(world, held, async (over) => {
-    const edits: Edit[] = []
-    for (const path of reading.importers) {
-      if (moved.has(path)) continue
-      const text = over.textOf(path)
-      if (text === null) {
-        return refusing(`\`${path}\` names a path that moved and could not be read`)
-      }
-      const answer = await reach(over, REPOINT_IMPORTS, {
-        was: path,
-        now: path,
-        moved: movedOver,
-      })
-      if (answer.said.refused !== null) return answer.said
-      for (const one of answer.said.edits) {
-        if (one.body !== text) edits.push(one)
-      }
+  const unstated = restating(over, at, said.pageType)
+  if (unstated !== null) return refusing(unstated)
+  const line = importingFor(wasName).exec(over.textOf(at) ?? "")
+  const imported = `import type { ${nowName} } from ${JSON.stringify(specifierFor(dirname(at), given.to))}`
+  const passages = [
+    [line === null ? "" : line[0], imported],
+    [`satisfies ${wasName}`, `satisfies ${nowName}`],
+    [`${TYPE_KEY}: ${JSON.stringify(said.pageType)}`, `${TYPE_KEY}: ${JSON.stringify(type.slug)}`],
+  ]
+  for (const [old, spelled] of passages) {
+    const answer = await reach(over, CHANGE_FILE, { at, old, new: spelled })
+    if (answer.said.refused !== null) return answer.said
+    carried.push(answer.said)
+    over = answer.world
+  }
+  for (const path of reading.importers) {
+    if (moved.has(path)) continue
+    const text = over.textOf(path)
+    if (text === null) {
+      return refusing(`\`${path}\` names a path that moved and could not be read`)
     }
-    return answered(edits)
-  })
-  return held
+    const answer = await reach(over, REPOINT_IMPORTS, { was: path, now: path, moved: movedOver })
+    if (answer.said.refused !== null) return answer.said
+    carried.push(answered(answer.said.edits.filter((one) => one.body !== text)))
+    over = answer.world
+  }
+  return gathered(carried)
 }
 
 export type Asked = Readonly<Record<string, string>>

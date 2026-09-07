@@ -13,7 +13,7 @@ const GENERATED = "+types"
 
 const UNDER = "/"
 
-function specifierFor(dir: string, target: string): string {
+export function specifierFor(dir: string, target: string): string {
   const said = relative(dir, target)
   return said.startsWith(".") ? said : `./${said}`
 }
@@ -24,14 +24,12 @@ function stemOf(path: string): string {
   return tail === "" ? name : name.slice(0, -tail.length)
 }
 
-/** What a body names its own generated declarations by, which follows the body's folder and name. */
 function generatedFor(was: string, now: string, said: string): string | null {
   const landed = landingOf(was, said)
   if (landed === null || landed !== join(dirname(was), GENERATED, stemOf(was))) return null
   return `.${UNDER}${GENERATED}${UNDER}${stemOf(now)}`
 }
 
-/** Where a name carrying no leading dot lands, read against the folder of the body naming it. */
 function beneathFor(
   was: string,
   dir: string,
@@ -84,8 +82,6 @@ export function repointed(
   return answered([was === now ? writing(now, text, body) : moving(was, now, text, body)])
 }
 
-// The paths that moved arrive as a plain object rather than a map, so an address reaches this
-// change with arguments a command line and a caller in code can both spell.
 export type Given = {
   readonly was: string
   readonly now: string

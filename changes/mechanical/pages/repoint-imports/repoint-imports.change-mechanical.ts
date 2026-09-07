@@ -10,4 +10,24 @@ export const repointImports = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A body names the generated declarations of that body by that body's folder and name.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name carrying no leading dot lands against the folder of the body naming that name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The paths that moved arrive as a plain object rather than as a map.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The specifier naming a path from a folder is worked out here for any caller.",
+    },
+  ],
 } as const satisfies ChangeMechanical
