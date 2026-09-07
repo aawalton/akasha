@@ -17,7 +17,11 @@ export const greatCoursesSync = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A course sits on a shelf by that shelf's slug, `partOf` being a relation-slug.",
+      statement: "A course sits on a shelf by that shelf's slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`partOf` is a relation-slug.",
     },
     {
       invariantKind: "departure",
