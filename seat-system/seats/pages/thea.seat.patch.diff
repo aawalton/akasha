@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
-index 78553420d50382f202e4e54b81bbf80088baf20d..a3a050ec4b11598a23743e59e3d9c3dbb5a95a22 100644
+index 78553420d50382f202e4e54b81bbf80088baf20d..57f2a4b9f942519c80ebe8bb48731dbd3a9a7825 100644
 --- a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
 +++ b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
 @@ -1,3 +1,4 @@
@@ -9,7 +9,7 @@ index 78553420d50382f202e4e54b81bbf80088baf20d..a3a050ec4b11598a23743e59e3d9c3db
  # ~/.bashrc: executed by bash(1) for non-login shells.
  # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
  # for examples
-@@ -16,9 +17,9 @@ esac
+@@ -16,15 +17,16 @@ esac
  
  # Load secrets (DATABASE_URL, API keys) for interactive shells
  # BASH_ENV handles non-interactive shells (e.g. Claude Code's Bash tool)
@@ -20,3 +20,10 @@ index 78553420d50382f202e4e54b81bbf80088baf20d..a3a050ec4b11598a23743e59e3d9c3db
  _rc="$(readlink -f -- "${BASH_SOURCE[0]}")"
  _rc_dir="$(dirname -- "$_rc")"
  for _rc_roots in \
+   "$_rc_dir/../../scripts/repo-roots/repo-roots.shell-script.shell.sh" \
+   "${AKASHA_ROOT:-$HOME/repos/akasha}/machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh"
+ do
++  # shellcheck source=/dev/null
+   if [ -n "$_rc" ] && [ -f "$_rc_roots" ]; then . "$_rc_roots"; break; fi
+ done
+ unset _rc _rc_dir _rc_roots
