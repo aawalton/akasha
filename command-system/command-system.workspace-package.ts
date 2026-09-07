@@ -67,6 +67,7 @@ export const commandSystem = {
     "module/passage-counting",
     "module/file-arguing",
     "module/mechanical-filing",
+    "module/change-acting",
   ],
   invariants: [
     {

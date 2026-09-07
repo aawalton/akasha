@@ -11,6 +11,7 @@ import {
 import { writtenAgain } from "../../address-mapping/address-mapping.module.code.ts"
 import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import { waitingSaid } from "../../change-acting/change-acting.module.code.ts"
 import { MESSAGE, MESSAGE_FILE, unknownIn } from "../../command-flags/command-flags.module.code.ts"
 import {
   type Bodies,
@@ -24,7 +25,7 @@ import {
 } from "../../drafting/drafting.module.code.ts"
 import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
 import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
-import { editsFor, noPageSaid, waitingSaid } from "../change/change.command.code.ts"
+import { editsFor, noPageSaid } from "../change/change.command.code.ts"
 import { applying } from "../patch/patch.command.code.ts"
 
 const BYTES = new TextEncoder()

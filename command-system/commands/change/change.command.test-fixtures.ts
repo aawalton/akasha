@@ -11,8 +11,9 @@ import {
   type Loaded,
   loadedAt,
 } from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
+import type { Answer } from "../../calling/calling.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
-import type { Applying } from "./change.command.code.ts"
+import { type Applying, changing } from "./change.command.code.ts"
 
 export const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 
@@ -88,3 +89,20 @@ export function handing(root: string, under: string, rows: readonly Edit[]): und
 }
 
 export const HANDED_ONE: Edit = { path: "akasha/three/handed.md", was: null, body: "handed" }
+
+export const MOVED_FROM = "akasha/three/from.md"
+
+export const MOVED: Edit = { path: "akasha/three/to.md", was: null, body: "to", from: MOVED_FROM }
+
+export async function acting(
+  root: string,
+  argv: readonly string[],
+  said: Piping = NOTHING
+): Promise<Answer> {
+  return await changing(root, PAGE, argv, said, loading, applying)
+}
+
+export async function removing(root: string, at: string, message?: string): Promise<Answer> {
+  const said = message === undefined ? taking(at) : asking(at, message)
+  return await acting(root, ["remove-page"], piping(said))
+}

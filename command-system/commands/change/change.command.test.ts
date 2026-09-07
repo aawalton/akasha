@@ -7,17 +7,19 @@ import {
 import { changing, editsFor, owedBy, owingBy, stamped } from "./change.command.code.ts"
 import {
   APPLIED,
+  acting,
   applying,
-  asking,
   givenIn,
   HANDED_ONE,
   handing,
   loading,
   MISSING,
-  NOTHING,
+  MOVED,
+  MOVED_FROM,
   PAGE,
   pathsIn,
   piping,
+  removing,
   repo,
   SPARE_CODE,
   SPARE_PAGE,
@@ -29,14 +31,7 @@ afterAll(scratch.sweep)
 test("a change answers its edits and appends the edits beside the calling agent's page", async () => {
   const root = repo()
 
-  const said = await changing(
-    root,
-    PAGE,
-    ["remove-page"],
-    piping(taking(NAMER_PAGE)),
-    loading,
-    applying
-  )
+  const said = await removing(root, NAMER_PAGE)
 
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
@@ -46,7 +41,7 @@ test("a change answers its edits and appends the edits beside the calling agent'
 test("the edits are kept beside the agent's page rather than beside the page changed", async () => {
   const root = repo()
 
-  await changing(root, PAGE, ["remove-page"], piping(taking(NAMER_PAGE)), loading, applying)
+  await removing(root, NAMER_PAGE)
 
   expect(editsIn(root, NAMER_PAGE)).toEqual({ rows: [] })
   expect(pathsIn(root).length).toBe(2)
@@ -54,16 +49,9 @@ test("the edits are kept beside the agent's page rather than beside the page cha
 
 test("a change reads the world as every edit appended before that change had landed", async () => {
   const root = repo()
-  await changing(root, PAGE, ["remove-page"], piping(taking(NAMER_PAGE)), loading, applying)
+  await removing(root, NAMER_PAGE)
 
-  const said = await changing(
-    root,
-    PAGE,
-    ["remove-page"],
-    piping(taking(NAMER_PAGE)),
-    loading,
-    applying
-  )
+  const said = await removing(root, NAMER_PAGE)
 
   expect(said.refusals).toEqual([`\`${NAMER_PAGE}\` names no page, so no page is taken away`])
   expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
@@ -72,8 +60,8 @@ test("a change reads the world as every edit appended before that change had lan
 test("two runs leave two sets of edits in the order the runs were made", async () => {
   const root = repo()
 
-  await changing(root, PAGE, ["remove-page"], piping(taking(NAMER_PAGE)), loading, applying)
-  await changing(root, PAGE, ["remove-page"], piping(taking(SPARE_PAGE)), loading, applying)
+  await removing(root, NAMER_PAGE)
+  await removing(root, SPARE_PAGE)
 
   const said = pathsIn(root)
   expect(said.length).toBe(4)
@@ -84,47 +72,28 @@ test("two runs leave two sets of edits in the order the runs were made", async (
 test("a change that refuses appends nothing and says why that change refused", async () => {
   const root = repo()
 
-  const said = await changing(
-    root,
-    PAGE,
-    ["remove-page"],
-    piping(taking(MISSING)),
-    loading,
-    applying
-  )
+  const said = await removing(root, MISSING)
 
   expect(said.refusals).toEqual([`\`${MISSING}\` names no page, so no page is taken away`])
   expect(pathsIn(root)).toEqual([])
 })
 
 test("a word reaching no change is refused by the address that reached nothing", async () => {
-  const said = await changing(
-    repo(),
-    PAGE,
-    ["remove-file"],
-    piping(taking(NAMER_PAGE)),
-    loading,
-    applying
-  )
+  const said = await acting(repo(), ["remove-file"], piping(taking(NAMER_PAGE)))
 
   expect(said.refusals[0] ?? "").toContain("change-command/remove-file")
 })
 
 test("a call naming no change is refused with the changes this command runs", async () => {
-  const said = await changing(repo(), PAGE, [], NOTHING, loading, applying)
+  const said = await acting(repo(), [])
 
   expect(said.refusals[0] ?? "").toContain("no change is named")
 })
 
 test("a flag said on the command line is refused", async () => {
-  const said = await changing(
-    repo(),
-    PAGE,
-    ["remove-page", "--file-path", NAMER_PAGE],
-    piping(taking(NAMER_PAGE)),
-    loading,
-    applying
-  )
+  const argv = ["remove-page", "--file-path", NAMER_PAGE]
+
+  const said = await acting(repo(), argv, piping(taking(NAMER_PAGE)))
 
   expect(said.refusals).toEqual([
     "`--file-path` is no flag this takes",
@@ -133,33 +102,19 @@ test("a flag said on the command line is refused", async () => {
 })
 
 test("a call piping nothing in is refused rather than run with no argument", async () => {
-  const said = await changing(repo(), PAGE, ["remove-page"], NOTHING, loading, applying)
+  const said = await acting(repo(), ["remove-page"])
 
   expect(said.refusals[0] ?? "").toContain("standard input")
 })
 
 test("arguments that read as neither a value nor a body are refused", async () => {
-  const said = await changing(
-    repo(),
-    PAGE,
-    ["remove-page"],
-    piping("nonsense\n"),
-    loading,
-    applying
-  )
+  const said = await acting(repo(), ["remove-page"], piping("nonsense\n"))
 
   expect(said.refusals[0] ?? "").toContain("neither")
 })
 
 test("a path outside the repository is refused", async () => {
-  const said = await changing(
-    repo(),
-    PAGE,
-    ["remove-page"],
-    piping(taking("/etc/hosts")),
-    loading,
-    applying
-  )
+  const said = await removing(repo(), "/etc/hosts")
 
   expect(said.refusals.length).toBe(1)
   expect(said.refusals[0] ?? "").toContain("is no path inside the repository")
@@ -180,9 +135,9 @@ test("a path that is no page keeps no edits", async () => {
 
 test("a drop takes away every edit kept and names each edit that went", async () => {
   const root = repo()
-  await changing(root, PAGE, ["remove-page"], piping(taking(NAMER_PAGE)), loading, applying)
+  await removing(root, NAMER_PAGE)
 
-  const said = await changing(root, PAGE, ["drop"], NOTHING, loading, applying)
+  const said = await acting(root, ["drop"])
 
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
@@ -196,17 +151,67 @@ test("a drop takes away every edit kept and names each edit that went", async ()
 test("a drop over no edit kept says so rather than refusing", async () => {
   const root = repo()
 
-  const said = await changing(root, PAGE, ["drop"], NOTHING, loading, applying)
+  const said = await acting(root, ["drop"])
 
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(said.report).toEqual(["no edits are kept beside this agent's page, so nothing went"])
 })
 
+test("a drop naming one path takes that path's edit and leaves the rest", async () => {
+  const root = repo()
+  await removing(root, NAMER_PAGE)
+
+  const said = await acting(root, ["drop", NAMER_CODE])
+
+  expect(said.refusals).toEqual([])
+  expect(said.report).toEqual([
+    `takes ${NAMER_CODE} away`,
+    "these edits are gone, and no apply lands them",
+    "1 edit(s) are still kept beside this agent's page",
+  ])
+  expect(pathsIn(root)).toEqual([NAMER_PAGE])
+})
+
+test("a drop naming several paths takes away every edit those paths name", async () => {
+  const root = repo()
+  await removing(root, NAMER_PAGE)
+  await removing(root, SPARE_PAGE)
+
+  const said = await acting(root, ["drop", NAMER_CODE, NAMER_PAGE])
+
+  expect(said.report).toContain("2 edit(s) are still kept beside this agent's page")
+  expect([...pathsIn(root)].sort()).toEqual([SPARE_CODE, SPARE_PAGE])
+})
+
+test("a path naming no edit kept refuses the drop and leaves every edit kept", async () => {
+  const root = repo()
+  await removing(root, NAMER_PAGE)
+
+  const said = await acting(root, ["drop", MISSING])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals).toEqual([
+    `\`${MISSING}\` names no edit kept beside this agent's page, so nothing went`,
+  ])
+  expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
+})
+
+test("an edit a move left behind is taken away by the path that move came from", async () => {
+  const root = repo()
+  appendEdits(root, PAGE, [MOVED])
+
+  const said = await acting(root, ["drop", MOVED_FROM])
+
+  expect(said.refusals).toEqual([])
+  expect(said.report[0]).toBe(`moves ${MOVED_FROM} to ${MOVED.path}`)
+  expect(pathsIn(root)).toEqual([])
+})
+
 test("a call over no handed edits says no subagent has handed edits over", async () => {
   const root = repo()
 
-  const said = await changing(root, PAGE, ["handed"], NOTHING, loading, applying)
+  const said = await acting(root, ["handed"])
 
   expect(said.code).toBe(0)
   expect(said.report).toEqual(["no subagent has handed edits to this agent"])
@@ -217,7 +222,7 @@ test("handed names each subagent that handed edits over and how many that subage
   handing(root, "one", [HANDED_ONE])
   handing(root, "two", [HANDED_ONE, { path: "akasha/three/other.md", was: null, body: "other" }])
 
-  const said = await changing(root, PAGE, ["handed"], NOTHING, loading, applying)
+  const said = await acting(root, ["handed"])
 
   expect(said.report).toEqual([
     "one handed 1 edit(s) over",
@@ -230,7 +235,7 @@ test("a take folds one subagent's handed edits in and takes the handed edits awa
   const root = repo()
   handing(root, "one", [HANDED_ONE])
 
-  const said = await changing(root, PAGE, ["take", "one"], NOTHING, loading, applying)
+  const said = await acting(root, ["take", "one"])
 
   expect(said.refusals).toEqual([])
   expect(said.report).toEqual([
@@ -238,7 +243,7 @@ test("a take folds one subagent's handed edits in and takes the handed edits awa
     "these edits are this agent's own now, and `akasha apply` lands them",
   ])
   expect(pathsIn(root)).toEqual([HANDED_ONE.path])
-  expect((await changing(root, PAGE, ["handed"], NOTHING, loading, applying)).report).toEqual([
+  expect((await acting(root, ["handed"])).report).toEqual([
     "no subagent has handed edits to this agent",
   ])
 })
@@ -248,23 +253,21 @@ test("a take that would not fold refuses and leaves both sets as those sets were
   appendEdits(root, PAGE, [{ path: HANDED_ONE.path, was: null, body: "own" }])
   handing(root, "one", [{ path: HANDED_ONE.path, was: "another", body: "handed" }])
 
-  const said = await changing(root, PAGE, ["take", "one"], NOTHING, loading, applying)
+  const said = await acting(root, ["take", "one"])
 
   expect(said.code).toBe(3)
   expect(said.refusals[1]).toBe(
     "the handed edits are kept as they were, and this agent's own are unchanged"
   )
   expect(pathsIn(root)).toEqual([HANDED_ONE.path])
-  expect((await changing(root, PAGE, ["handed"], NOTHING, loading, applying)).report[0]).toBe(
-    "one handed 1 edit(s) over"
-  )
+  expect((await acting(root, ["handed"])).report[0]).toBe("one handed 1 edit(s) over")
 })
 
 test("a forget takes one subagent's handed edits away and names each edit that went", async () => {
   const root = repo()
   handing(root, "one", [HANDED_ONE])
 
-  const said = await changing(root, PAGE, ["forget", "one"], NOTHING, loading, applying)
+  const said = await acting(root, ["forget", "one"])
 
   expect(said.report).toEqual([
     `adds ${HANDED_ONE.path}`,
@@ -277,7 +280,7 @@ test("a take naming no subagent is refused rather than reaching every subagent",
   const root = repo()
   handing(root, "one", [HANDED_ONE])
 
-  const said = await changing(root, PAGE, ["take"], NOTHING, loading, applying)
+  const said = await acting(root, ["take"])
 
   expect(said.refusals).toEqual(["this call names no subagent whose handed edits would be reached"])
   expect(pathsIn(root)).toEqual([])
@@ -287,14 +290,7 @@ test("a change answering says how many subagents handed edits over", async () =>
   const root = repo()
   handing(root, "one", [HANDED_ONE])
 
-  const said = await changing(
-    root,
-    PAGE,
-    ["remove-page"],
-    piping(taking(NAMER_PAGE)),
-    loading,
-    applying
-  )
+  const said = await removing(root, NAMER_PAGE)
 
   expect(said.report).toContain(
     "1 subagent(s) handed edits over, which `akasha change handed` names"
@@ -376,7 +372,7 @@ test("a change owing its readers reading stamps nothing on the edits it answers"
 test("a change reached under a page that is nowhere appends rows saying nothing of the readers", async () => {
   const root = repo()
 
-  await changing(root, PAGE, ["remove-page"], piping(taking(NAMER_PAGE)), loading, applying)
+  await removing(root, NAMER_PAGE)
 
   const said = editsIn(root, PAGE)
   expect("why" in said ? [] : said.rows.map((one) => one.readersOweReading)).toEqual([
@@ -388,14 +384,7 @@ test("a change reached under a page that is nowhere appends rows saying nothing 
 test("an apply asked for in the arguments commits the message those arguments name", async () => {
   APPLIED.length = 0
 
-  const said = await changing(
-    repo(),
-    PAGE,
-    ["remove-page"],
-    piping(asking(NAMER_PAGE, "takes the namer away")),
-    loading,
-    applying
-  )
+  const said = await removing(repo(), NAMER_PAGE, "takes the namer away")
 
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
@@ -405,14 +394,7 @@ test("an apply asked for in the arguments commits the message those arguments na
 test("the apply asked for is not handed to the change as an argument", async () => {
   APPLIED.length = 0
 
-  await changing(
-    repo(),
-    PAGE,
-    ["remove-page"],
-    piping(asking(NAMER_PAGE, "takes the namer away")),
-    loading,
-    applying
-  )
+  await removing(repo(), NAMER_PAGE, "takes the namer away")
 
   expect(Object.keys(givenIn())).toEqual(["at"])
 })
@@ -420,14 +402,7 @@ test("the apply asked for is not handed to the change as an argument", async () 
 test("an apply asked for says nothing of the edits being kept for a later apply", async () => {
   APPLIED.length = 0
 
-  const said = await changing(
-    repo(),
-    PAGE,
-    ["remove-page"],
-    piping(asking(NAMER_PAGE, "takes the namer away")),
-    loading,
-    applying
-  )
+  const said = await removing(repo(), NAMER_PAGE, "takes the namer away")
 
   expect(said.report.some((one) => one.includes("akasha apply"))).toBe(false)
   expect(said.report).toContain("applied takes the namer away")
@@ -437,14 +412,7 @@ test("a change that refuses applies nothing though an apply was asked for", asyn
   APPLIED.length = 0
   const root = repo()
 
-  const said = await changing(
-    root,
-    PAGE,
-    ["remove-page"],
-    piping(asking(MISSING, "takes the missing page away")),
-    loading,
-    applying
-  )
+  const said = await removing(root, MISSING, "takes the missing page away")
 
   expect(said.refusals).toEqual([`\`${MISSING}\` names no page, so no page is taken away`])
   expect(APPLIED).toEqual([])
@@ -455,14 +423,7 @@ test("an apply asked for with no message is refused and appends nothing", async 
   APPLIED.length = 0
   const root = repo()
 
-  const said = await changing(
-    root,
-    PAGE,
-    ["remove-page"],
-    piping(asking(NAMER_PAGE, "")),
-    loading,
-    applying
-  )
+  const said = await removing(root, NAMER_PAGE, "")
 
   expect(said.refusals[0] ?? "").toContain("the message given is empty")
   expect(APPLIED).toEqual([])
@@ -472,14 +433,7 @@ test("an apply asked for with no message is refused and appends nothing", async 
 test("a change asking for no apply keeps its edits for a later apply", async () => {
   APPLIED.length = 0
 
-  const said = await changing(
-    repo(),
-    PAGE,
-    ["remove-page"],
-    piping(taking(NAMER_PAGE)),
-    loading,
-    applying
-  )
+  const said = await removing(repo(), NAMER_PAGE)
 
   expect(APPLIED).toEqual([])
   expect(said.report.some((one) => one.includes("akasha apply"))).toBe(true)

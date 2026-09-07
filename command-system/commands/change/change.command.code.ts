@@ -15,9 +15,6 @@ import {
 import {
   editsAt,
   foldedIn,
-  handedAway,
-  handedIn,
-  handedUnder,
   keptAt,
   keptEdits,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
@@ -39,6 +36,15 @@ import {
   HELP_SHORT,
   helpOf,
 } from "../../calling/calling.module.code.ts"
+import {
+  dropping,
+  forgetting,
+  listing,
+  NO_PAGE,
+  saidOf,
+  taking,
+  waitingSaid,
+} from "../../change-acting/change-acting.module.code.ts"
 import { MESSAGE, unknownIn } from "../../command-flags/command-flags.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
@@ -46,8 +52,6 @@ import { inputIn, type Piping } from "../../piping/piping.module.code.ts"
 import { offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
 import type { Taking } from "../properties/taking.record-property.ts"
 import { change as changePage } from "./change.command.ts"
-
-const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
 
 export const PAGE_LANDING =
   "A subagent dispatched a moment ago can run before its page lands, and a landing refused leaves" +
@@ -78,17 +82,13 @@ const COMMAND_TYPES: readonly string[] = [
 
 const DROP = "drop"
 
-const DROP_TAKES = "the act taking away every edit kept beside this agent's page"
+const DROP_TAKES = "the act taking away the edits kept, at the paths named or at every path"
 
 const DEFINITION = "definition"
 
 const READERS_OWE_READING = "readersOweReading"
 
 const WRITER_OWES_READING = "writerOwesReading"
-
-const DROPPED = "these edits are gone, and no apply lands them"
-
-const NOTHING_KEPT = "no edits are kept beside this agent's page, so nothing went"
 
 const DROP_SAID = "`drop` and `handed` and `take` and `forget` name an act rather than a change"
 
@@ -103,16 +103,6 @@ const HANDED_TAKES = "the act naming what each subagent handed to this agent"
 const TAKE_TAKES = "the act taking one subagent's handed edits into this agent's own"
 
 const FORGET_TAKES = "the act taking away one subagent's handed edits"
-
-const NONE_HANDED = "no subagent has handed edits to this agent"
-
-const NO_SUBAGENT = "this call names no subagent whose handed edits would be reached"
-
-const HANDED_LANDS = "`akasha change take <subagent>` takes one of these into this agent's own"
-
-const HELD_BACK = "the handed edits are kept as they were, and this agent's own are unchanged"
-
-const TAKEN = "these edits are this agent's own now, and `akasha apply` lands them"
 
 const NO_ARGUMENTS =
   "a change reads its arguments from standard input, and this call piped nothing in"
@@ -250,70 +240,6 @@ function typeOf(world: World, slug: string): string {
   return CHANGE_COMMAND
 }
 
-function saidOf(one: Edit): string {
-  const came = one.from
-  if (came !== undefined && came !== one.path) return `moves ${came} to ${one.path}`
-  if (one.body === null) return `takes ${one.path} away`
-  if (one.was === null) return `adds ${one.path}`
-  return `changes ${one.path}`
-}
-
-export function dropping(root: string, page: string): Answer {
-  let went: readonly string[] = []
-  const dropped = keptEdits(root, page, (had) => {
-    went = had.map(saidOf).sort()
-    return null
-  })
-  if ("why" in dropped) return { report: [], refusals: [dropped.why], code: 3 }
-  if (went.length === 0) return { report: [NOTHING_KEPT], refusals: [], code: 0 }
-  return { report: [...went, DROPPED], refusals: [], code: 0 }
-}
-
-export function waitingSaid(root: string, page: string): readonly string[] {
-  const many = handedUnder(root, page).length
-  if (many === 0) return []
-  return [`${String(many)} subagent(s) handed edits over, which \`akasha change handed\` names`]
-}
-
-export function listing(root: string, page: string): Answer {
-  const under = handedUnder(root, page)
-  if (under.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
-  const said = under.map((one) => {
-    const held = handedIn(root, page, one)
-    return `${one} handed ${String("why" in held ? 0 : held.rows.length)} edit(s) over`
-  })
-  return { report: [...said, HANDED_LANDS], refusals: [], code: 0 }
-}
-
-export function taking(root: string, page: string, under: string | undefined): Answer {
-  if (under === undefined) return mistaking([NO_SUBAGENT])
-  const held = handedIn(root, page, under)
-  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
-  if (held.rows.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
-  let answer: Answer = mistaking([NO_PAGE])
-  const kept = keptEdits(root, page, (had) => {
-    const folded = foldedIn([...had, ...held.rows])
-    if (folded.refused !== null) {
-      answer = { report: [], refusals: [folded.refused, HELD_BACK], code: 3 }
-      return had
-    }
-    answer = { report: [...held.rows.map(saidOf).sort(), TAKEN], refusals: [], code: 0 }
-    return [...had, ...held.rows]
-  })
-  if ("why" in kept) return { report: [], refusals: [kept.why], code: 3 }
-  if (answer.code === 0) handedAway(root, page, under)
-  return answer
-}
-
-export function forgetting(root: string, page: string, under: string | undefined): Answer {
-  if (under === undefined) return mistaking([NO_SUBAGENT])
-  const held = handedIn(root, page, under)
-  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
-  if (held.rows.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
-  handedAway(root, page, under)
-  return { report: [...held.rows.map(saidOf).sort(), DROPPED], refusals: [], code: 0 }
-}
-
 export async function appending(
   root: string,
   page: string,
@@ -375,9 +301,9 @@ export async function changing(
   if (slug === HANDED) return listing(root, page)
   if (slug === TAKE) return taking(root, page, argv[1])
   if (slug === FORGET) return forgetting(root, page, argv[1])
+  if (slug === DROP) return dropping(root, page, argv.slice(1))
   const unknown = unknownIn(argv.slice(1), BARE, BARE)
   if (unknown.length > 0) return mistaking(unknown)
-  if (slug === DROP) return dropping(root, page)
   const said = argumentsIn(piping)
   if (typeof said === "string") return mistaking([said])
   const given = rootedIn(root, said)

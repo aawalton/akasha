@@ -27,6 +27,10 @@ export const change = {
     "a change asking for no apply holds its edits unapplied, and that is the dry run.",
     "`drop` and `handed` and `take` and `forget` are the first words naming no change.",
     "`drop` takes away every edit kept, and leaves what a subagent handed over.",
+    "`drop <path> ...` takes away the edits kept at the paths named, and leaves the rest.",
+    "a path is read against the repository root, and a path a move left behind names that move.",
+    "a path naming no edit kept refuses the drop, so a typo reads as no drop rather than as one.",
+    "a drop naming paths says how many edits are still kept.",
     "a drop names each edit that went, because nothing puts a dropped edit back.",
     "`handed` names each subagent that handed edits over, and how many edits each one handed.",
     "`take <subagent>` moves one subagent's handed edits into this agent's own.",
@@ -182,7 +186,11 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "`drop` names no change and takes away every edit kept.",
+      statement: "`drop` names no change and takes the paths whose kept edits go.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop naming no path takes away every edit kept.",
     },
     {
       invariantKind: "departure",
@@ -190,11 +198,24 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A drop over no edit kept says so rather than refusing.",
+      statement: "A drop naming no path over no edit kept says so rather than refusing.",
     },
     {
-      invariantKind: "absence",
-      statement: "No drop takes one path out and leaves the rest.",
+      invariantKind: "departure",
+      statement:
+        "A drop naming paths takes away every edit kept at those paths and leaves the rest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edit a move left behind is taken away by the path that move came from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop naming paths says how many edits are still kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path naming no edit kept refuses the drop rather than being passed over.",
     },
     {
       invariantKind: "departure",
