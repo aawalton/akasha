@@ -75,14 +75,7 @@ const APPLY = "apply"
 
 const NO_MESSAGE = "`apply` takes the commit message, and the message given is empty"
 
-const CHANGE_COMMAND = "change-command"
-
-const COMMAND_TYPES: readonly string[] = [
-  CHANGE_COMMAND,
-  "change-checked",
-  "change-authored",
-  "change-restated",
-]
+const COMMAND_TYPES: readonly string[] = ["change-checked", "change-authored", "change-restated"]
 
 const DROP = "drop"
 
