@@ -38,7 +38,7 @@ export const mobileCutStatus = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here builds, uploads or files anything.",
+      statement: "Nothing here builds or uploads or files anything.",
     },
   ],
 } as const satisfies Command
