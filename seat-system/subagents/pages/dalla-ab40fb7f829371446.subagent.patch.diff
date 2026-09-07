@@ -1,0 +1,54 @@
+writerOwesReading: false
+diff --git a/agents/agent.page-type.ts b/agents/agent.page-type.ts
+index ec5900bc3ee5f21e0c5b4b1967b1fa57a6796a10..82e384582e07c3b2a8f521c53b9b744017b10034 100644
+--- a/agents/agent.page-type.ts
++++ b/agents/agent.page-type.ts
+@@ -35,7 +35,13 @@ export const agent = {
+     },
+     { pagePropertySlug: "relation-property/principal-seat-name", required: false, many: false },
+     { pagePropertySlug: "file-property/patch", required: false, many: false, default: "diff" },
+-    { pagePropertySlug: "file-property/edits", required: false, many: false, default: "jsonl" },
++    {
++      pagePropertySlug: "file-property/edits",
++      required: false,
++      many: false,
++      uncommitted: true,
++      default: "jsonl",
++    },
+   ],
+   invariants: [
+     {
+diff --git a/agents/properties/edits.file-property.ts b/agents/properties/edits.file-property.ts
+index 3e5559575059511417be188709da6fa1075f7584..48dffafeeee0e9a96340fd1534683de1275996c4 100644
+--- a/agents/properties/edits.file-property.ts
++++ b/agents/properties/edits.file-property.ts
+@@ -19,6 +19,14 @@ export const edits = {
+       invariantKind: "departure",
+       statement: "A change appends its lines rather than rewriting the file.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Lines are kept outside the commit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A line rolls into the next numbered file where the ceiling is reached.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A line holds the path an edit lands at.",
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.ts b/changes/modules/edits-keeping/edits-keeping.module.ts
+index 34cf299d7f593197094078c1eed055e3a22f22fc..2365cb91812dc00eb75420e3dac9daf3485c751f 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.ts
+@@ -12,10 +12,6 @@ export const editsKeeping = {
+       invariantKind: "departure",
+       statement: "The edits are kept in a file beside the page of the answering agent.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "That file is kept outside the commit.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "The path index and this module name the edits by one rule.",
