@@ -38,6 +38,10 @@ export const restatementNarrowsSomething = {
     },
     {
       invariantKind: "departure",
+      statement: "A reach moving toward `part-of` narrows.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A declaration is judged against the nearest declaration above that declaration.",
     },
     {

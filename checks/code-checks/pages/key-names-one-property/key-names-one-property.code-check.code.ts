@@ -123,7 +123,7 @@ function reachIn(one: Declared): string {
   return one.unique ?? NO_REACH
 }
 
-function widthOf(one: Declared): number {
+export function widthOf(one: Declared): number {
   const at = one.unique === null ? -1 : REACHES.indexOf(one.unique)
   return at === -1 ? REACHES.length : at
 }

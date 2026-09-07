@@ -8,6 +8,7 @@ import {
   judgedIn,
   looseningIn,
   underEach,
+  widthOf,
 } from "../key-names-one-property/key-names-one-property.code-check.code.ts"
 import { carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
 
@@ -20,6 +21,7 @@ function narrows(nearer: Declared, further: Declared): boolean {
   if (fallen(further.maxCount, nearer.maxCount)) return true
   if (fallen(further.maxLength, nearer.maxLength)) return true
   if (nearer.secret && !further.secret) return true
+  if (widthOf(nearer) < widthOf(further)) return true
   return nearer.uncommitted && !further.uncommitted
 }
 
