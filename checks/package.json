@@ -19,6 +19,7 @@
     "./run-cost": "./modules/run-cost/run-cost.module.code.ts"
   },
   "dependencies": {
+    "@akasha/code": "workspace:*",
     "@akasha/dockerfiles": "workspace:*",
     "@akasha/workspace-paths": "workspace:*",
     "yaml": "^2.8.1",

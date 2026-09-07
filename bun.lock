@@ -510,6 +510,7 @@
     "checks": {
       "name": "@akasha/checks",
       "dependencies": {
+        "@akasha/code": "workspace:*",
         "@akasha/dockerfiles": "workspace:*",
         "@akasha/k8s-synth": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
