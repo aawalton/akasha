@@ -15,7 +15,7 @@ export const generationImages = {
     },
     {
       invariantKind: "departure",
-      statement: "An image row records where its bytes are, never the bytes.",
+      statement: "An image row records where its bytes are rather than the bytes.",
     },
   ],
 } as const satisfies FileProperty
