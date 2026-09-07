@@ -2,7 +2,7 @@ import { dirname } from "node:path"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { typedAs } from "../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { specifierFor } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-code.code.ts"
+import { specifierFor } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import {
   answered,
   gathered,
@@ -16,7 +16,7 @@ import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.t
 
 const CHANGE_FILE = "change-mechanical-file-content/change-file-content"
 
-const CHANGE_IMPORTS = "change-mechanical-code/change-imports"
+const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
 
 const RENAME_PAGE_ADDRESS = "change-mechanical-data/rename-page-address"
 

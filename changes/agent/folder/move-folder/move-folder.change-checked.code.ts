@@ -8,7 +8,7 @@ import {
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
-const CHANGE_IMPORTS = "change-mechanical-code/change-imports"
+const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
 
 const OUTSIDE = ".."
 

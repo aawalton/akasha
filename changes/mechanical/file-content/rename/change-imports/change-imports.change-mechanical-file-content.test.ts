@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { ARRIVES, CODE, HOLDER, TARGET } from "@akasha/testing-system/page-holding"
-import { changeImports } from "./change-imports.change-mechanical-code.code.ts"
+import { changeImports } from "./change-imports.change-mechanical-file-content.code.ts"
 
 const TABLE = "akasha/one/routes.ts"
 

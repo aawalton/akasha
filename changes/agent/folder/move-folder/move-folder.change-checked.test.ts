@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { indexedRepo, pageOf, put, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-code.code.ts"
+import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { moveFolder, runChange } from "./move-folder.change-checked.code.ts"
 
@@ -145,5 +145,5 @@ test("each body that moves is repointed by the change reached at its address", a
 
   await moveFolder(world, { at: FROM, to: INTO })
 
-  expect(new Set(reached)).toEqual(new Set(["change-mechanical-code/change-imports"]))
+  expect(new Set(reached)).toEqual(new Set(["change-mechanical-file-content/change-imports"]))
 })
