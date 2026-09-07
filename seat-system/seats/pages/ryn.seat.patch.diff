@@ -1,0 +1,89 @@
+writerOwesReading: false
+diff --git a/infrastructure/alerts/alert.page-type.ts b/infrastructure/alerts/alert.page-type.ts
+index b1e36361cef9207ab79baf32613733073cdd06c4..a2123850bb129d6617618e5cd0c79a28cc464e82 100644
+--- a/infrastructure/alerts/alert.page-type.ts
++++ b/infrastructure/alerts/alert.page-type.ts
+@@ -3,10 +3,10 @@ import type { PageType } from "@akasha/pages/page-type"
+ import type { Definition } from "../../domains/properties/definition.text-property.ts"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { PersonSlug } from "../../seat-system/seats/properties/person-slug.relation-property.ts"
+-import type { AlertDescription } from "./properties/alert-description.file-property.ts"
+ import type { AlertDomain } from "./properties/alert-domain.text-property.ts"
+ import type { AlertPersonaSlug } from "./properties/alert-persona-slug.relation-property.ts"
+ import type { AlertRoleSlug } from "./properties/alert-role-slug.text-property.ts"
++import type { AlertDescription } from "./properties/alert-runbook.file-property.ts"
+ import type { AlertSummary } from "./properties/alert-summary.text-property.ts"
+ 
+ export type Alert = Page & {
+@@ -28,7 +28,7 @@ export const alert = {
+   pluralSlug: "alerts",
+   extendsSlug: ["page-type/page"],
+   partSlugs: [
+-    "file-property/alert-description",
++    "file-property/alert-runbook",
+     "relation-property/alert-persona-slug",
+     "text-property/alert-domain",
+     "text-property/alert-role-slug",
+@@ -40,7 +40,7 @@ export const alert = {
+     { pagePropertySlug: "text-property/alert-domain", required: false, many: false },
+     { pagePropertySlug: "text-property/alert-summary", required: false, many: false },
+     { pagePropertySlug: "relation-property/person-slug", required: false, many: false },
+-    { pagePropertySlug: "file-property/alert-description", required: false, many: false },
++    { pagePropertySlug: "file-property/alert-runbook", required: false, many: false },
+     { pagePropertySlug: "relation-property/alert-persona-slug", required: false, many: false },
+     { pagePropertySlug: "text-property/alert-role-slug", required: false, many: false },
+   ],
+diff --git a/infrastructure/alerts/properties/alert-description.file-property.ts b/infrastructure/alerts/properties/alert-description.file-property.ts
+deleted file mode 100644
+index ff9ed145a8f02c08c05931e239d1903e5ebb0471..0000000000000000000000000000000000000000
+--- a/infrastructure/alerts/properties/alert-description.file-property.ts
++++ /dev/null
+@@ -1,21 +0,0 @@
+-import type { FileProperty } from "@akasha/pages/file-property"
+-
+-export type AlertDescription = "txt"
+-
+-export const alertDescription = {
+-  id: "01a06755-0778-7275-8076-4aec6002693b",
+-  pageTypeSlug: "file-property",
+-  slug: "alert-description",
+-  propertySlug: "runbook",
+-  definition: "what to check once an alert is raised",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A runbook is prose rather than a rule anything runs.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A runbook outlives the deployment gap the alert that runbook belongs to sits in.",
+-    },
+-  ],
+-} as const satisfies FileProperty
+diff --git a/infrastructure/alerts/properties/alert-runbook.file-property.ts b/infrastructure/alerts/properties/alert-runbook.file-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f9ba10c257988c4eef29f0a4144d569eede8fc10
+--- /dev/null
++++ b/infrastructure/alerts/properties/alert-runbook.file-property.ts
+@@ -0,0 +1,21 @@
++import type { FileProperty } from "@akasha/pages/file-property"
++
++export type AlertDescription = "txt"
++
++export const alertRunbook = {
++  id: "01a06755-0778-7275-8076-4aec6002693b",
++  pageTypeSlug: "file-property",
++  slug: "alert-runbook",
++  propertySlug: "runbook",
++  definition: "what to check once an alert is raised",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A runbook is prose rather than a rule anything runs.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A runbook outlives the deployment gap the alert that runbook belongs to sits in.",
++    },
++  ],
++} as const satisfies FileProperty
