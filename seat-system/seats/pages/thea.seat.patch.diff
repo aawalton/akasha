@@ -48,3 +48,39 @@ index 3b95078bbff378513be5564b12869d22568499b0..319ea53a7a869e12a22d94c111583c43
      { pagePropertySlug: "number-property/model-year", required: true, many: false },
      { pagePropertySlug: "text-property/refresh-notes", required: true, many: false },
      { pagePropertySlug: "relation-property/car-model-slug", required: true, many: false },
+diff --git a/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.ts b/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.ts
+index 5461662c462d45f34e4ac2825a8fc22b4d3798c9..40484c432753396e07745b52d62ff90dc8db42ab 100644
+--- a/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.ts
++++ b/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.ts
+@@ -28,7 +28,6 @@ export const ctwAchievement = {
+     { pagePropertySlug: "text-property/scope", required: true, many: false },
+     { pagePropertySlug: "text-property/metric", required: true, many: false },
+     { pagePropertySlug: "number-property/threshold", required: true, many: false },
+-    { pagePropertySlug: "text-property/description", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/personas/wallpapers/persona-wallpaper.page-type.ts b/personas/wallpapers/persona-wallpaper.page-type.ts
+index 92b96624af8c426b7096861d8c05380229f0a964..daf39c8c3c1b72ef41fdf1252a7a96e3ffd65380 100644
+--- a/personas/wallpapers/persona-wallpaper.page-type.ts
++++ b/personas/wallpapers/persona-wallpaper.page-type.ts
+@@ -25,7 +25,6 @@ export const personaWallpaper = {
+     { pagePropertySlug: "number-property/relationship-level", required: false, many: false },
+     { pagePropertySlug: "text-property/stage", required: false, many: false },
+     { pagePropertySlug: "text-property/eso-day", required: false, many: false },
+-    { pagePropertySlug: "text-property/description", required: false, many: false },
+     { pagePropertySlug: "text-property/value-slug", required: false, many: false },
+   ],
+   invariants: [
+diff --git a/story/worlds/world.page-type.ts b/story/worlds/world.page-type.ts
+index 1fd692b1cb844452c7b4b503d41a2ea3e466fb07..21d7a5cc52dfb0e45576f94816df90ebd13aa9d7 100644
+--- a/story/worlds/world.page-type.ts
++++ b/story/worlds/world.page-type.ts
+@@ -31,7 +31,6 @@ export const world = {
+   ],
+   properties: [
+     { pagePropertySlug: "text-property/title", required: true, many: false },
+-    { pagePropertySlug: "text-property/description", required: false, many: false },
+     { pagePropertySlug: "page-property-entry/character-readings", required: false, many: false },
+     { pagePropertySlug: "page-property-entry/mechanic-readings", required: false, many: false },
+   ],
