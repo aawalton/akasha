@@ -9,7 +9,7 @@ export const keybinderKeybindManager = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The keyboard manager is preferred over the plain one.",
+      statement: "The keyboard manager is preferred over the plain manager.",
     },
     {
       invariantKind: "constraint",
