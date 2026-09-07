@@ -18,6 +18,10 @@ export const inPageProperty = {
     },
     {
       invariantKind: "departure",
+      statement: "A scope is the scope property's name followed by the scope property's value.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The scope is the value the property a declaration's `uniqueScope` names carries.",
     },
     {

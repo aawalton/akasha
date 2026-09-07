@@ -53,6 +53,7 @@ export const akashaFolderShape = {
     "An address carries what its index path needs, so a lookup composes that path and reads one file.",
     "The identity index files under a level — `page`, `page-type` or `page-property` — then a scope, then a property, then a value.",
     "A property declaration names its scoping property under `uniqueScope`.",
+    "A page-property path names the page type, then the scope property and its value, then the unique property and its value.",
     "A property `uniqueScope` names is declared on the same page type, is required, and carries one value.",
     "A reach is `always` or `page-type`, and `uniqueScope` narrows `page-type`.",
     "`partSlugs` keeps its name, and the collections edge becomes `partOfCollectionSlugs`.",
