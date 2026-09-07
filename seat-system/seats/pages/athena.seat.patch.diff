@@ -421,7 +421,7 @@ index a8c23c767c92d45859904925190d1ac264068ff6..6880bbd327bf152d50acc95950b301ec
      "module/gated-write",
      "module/ios-widget-swift",
 diff --git a/command-system/package.json b/command-system/package.json
-index af0daed8d14a0293dcd544017006f6c74a205d25..069b01d470c0148f658bacac4f273f59d4c9e50d 100644
+index 2334251bbc592508240cf72b40a6c8616cdf40c0..5b063cd52ee98a8f025a19f989616d833aa21486 100644
 --- a/command-system/package.json
 +++ b/command-system/package.json
 @@ -12,6 +12,8 @@
@@ -2112,16 +2112,16 @@ index bb323b59666f7f579048638576cde23f099daa5e..9df523eb082d585cb4cbbecd1ecdf8d0
  } from "../mobile-answering/mobile-answering.module.code.ts"
  
 diff --git a/sms-core/commands/sms-command-reading/sms-command-reading.module.code.ts b/sms-core/commands/sms-command-reading/sms-command-reading.module.code.ts
-index ff6cdf49666b746fe95d8a11669ae41fb959794e..6aa7429a2f7aa32fd16da0105ce500090d3bdef2 100644
+index ff6cdf49666b746fe95d8a11669ae41fb959794e..0fbbb097a62a87620f730f06cfcb1a42ae2f318a 100644
 --- a/sms-core/commands/sms-command-reading/sms-command-reading.module.code.ts
 +++ b/sms-core/commands/sms-command-reading/sms-command-reading.module.code.ts
-@@ -1,15 +1,10 @@
+@@ -1,19 +1,16 @@
  import { readFileSync } from "node:fs"
 -import { isAbsolute, resolve } from "node:path"
 -import type { Answer, Given } from "@akasha/command-system/calling"
 +import { resolve } from "node:path"
 +import type { Given } from "@akasha/command-system/calling"
-+import type { Filing } from "@akasha/command-system/command-filling"
++import { type Filing, filing } from "@akasha/command-system/command-filling"
  import { whyOf } from "@akasha/command-system/fault-saying"
  import { inputIn, type Piping } from "@akasha/command-system/piping"
  
@@ -2134,7 +2134,13 @@ index ff6cdf49666b746fe95d8a11669ae41fb959794e..6aa7429a2f7aa32fd16da0105ce50009
  export const JSON_SAID = "--json"
  
  export const PIPED_SAID = "-"
-@@ -66,28 +61,6 @@ export function wordsIn(
+ 
++export const TEXT = filing("--text")
++
+ const TRAILING_LINES = /(?:\r?\n)+$/
+ 
+ export type Said = {
+@@ -66,28 +63,6 @@ export function wordsIn(
    return { named, loose, flags }
  }
  
@@ -2163,7 +2169,7 @@ index ff6cdf49666b746fe95d8a11669ae41fb959794e..6aa7429a2f7aa32fd16da0105ce50009
  export type Held = { readonly text: string } | { readonly refused: readonly string[] }
  
  export function heldAt(given: Given, flag: string, path: string, piping: Piping = inputIn): Held {
-@@ -102,21 +75,12 @@ export function heldAt(given: Given, flag: string, path: string, piping: Piping
+@@ -102,21 +77,12 @@ export function heldAt(given: Given, flag: string, path: string, piping: Piping
      return { text: new TextDecoder().decode(input.bytes) }
    }
    try {
@@ -2186,7 +2192,7 @@ index ff6cdf49666b746fe95d8a11669ae41fb959794e..6aa7429a2f7aa32fd16da0105ce50009
  export type Prose = { readonly text: string | undefined } | { readonly refused: readonly string[] }
  
  export function proseIn(given: Given, said: Said, one: Filing, piping: Piping = inputIn): Prose {
-@@ -135,27 +99,3 @@ export function proseIn(given: Given, said: Said, one: Filing, piping: Piping =
+@@ -135,27 +101,3 @@ export function proseIn(given: Given, said: Said, one: Filing, piping: Piping =
    if ("refused" in held) return held
    return { text: held.text.replace(TRAILING_LINES, "") }
  }
