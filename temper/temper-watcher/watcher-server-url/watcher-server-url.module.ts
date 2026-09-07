@@ -19,7 +19,7 @@ export const watcherServerUrl = {
     {
       invariantKind: "gap",
       statement:
-        "An empty `TEMPER_SERVER_URL` is read as an empty address rather than as none set.",
+        "An empty `TEMPER_SERVER_URL` is read as an empty address rather than as no address set.",
     },
     {
       invariantKind: "absence",
