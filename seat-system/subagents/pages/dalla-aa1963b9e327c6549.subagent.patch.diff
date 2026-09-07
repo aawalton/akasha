@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/pages/repoint-manifest-ways/repoint-manifest-ways.change-mechanical.code.ts b/changes/mechanical/pages/repoint-manifest-ways/repoint-manifest-ways.change-mechanical.code.ts
+index f43daa4437777c65ffabf72874d86e1eaf726ce8..d618f61f8fa2669c84dddb08e714383a4a55e57d 100644
+--- a/changes/mechanical/pages/repoint-manifest-ways/repoint-manifest-ways.change-mechanical.code.ts
++++ b/changes/mechanical/pages/repoint-manifest-ways/repoint-manifest-ways.change-mechanical.code.ts
+@@ -81,7 +81,7 @@ export function landingFor(
+   const was = join(dirname(at), value)
+   const arrived = moved.get(was) ?? was
+   const under = arriving === HERE ? "" : `${arriving}${PARTED_BY}`
+-  if (!arrived.startsWith(under)) return { gone: true }
++  if (arrived.startsWith(under)) return { gone: true }
+   return { said: `${OPENING}${arrived.slice(under.length)}` }
+ }
+ 
