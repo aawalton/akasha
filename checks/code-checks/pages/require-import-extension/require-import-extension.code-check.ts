@@ -8,7 +8,7 @@ export const requireImportExtension = {
     "the check refusing a relative specifier written without the extension of the file it names",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
@@ -23,7 +23,12 @@ export const requireImportExtension = {
     },
     {
       invariantKind: "departure",
-      statement: "A relative specifier carrying no extension is refused.",
+      statement:
+        "A relative specifier carrying no extension is refused where the file it names stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier no file of these extensions stands at is let through.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +44,8 @@ export const requireImportExtension = {
     },
     {
       invariantKind: "departure",
-      statement: "A relative specifier carrying any other extension is refused.",
+      statement:
+        "A relative specifier carrying any other extension is refused where that file stands.",
     },
     {
       invariantKind: "departure",
