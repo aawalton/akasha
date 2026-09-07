@@ -39,7 +39,7 @@ export const smsDiscard = {
     {
       invariantKind: "departure",
       statement:
-        "A discard's slug is the instant the message was thrown away, colon and dot as hyphen.",
+        "A discard's slug is the instant the message was thrown away with colon and dot as hyphen.",
     },
     {
       invariantKind: "gap",
