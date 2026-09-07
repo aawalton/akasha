@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/code-system/code-rule/code-rule.module.code.ts b/code-system/code-rule/code-rule.module.code.ts
-index dceb763180d92530b22c277d80d25ca557cf5ab4..00bfb8288af6d40cc7fce9007d28bddf8bccc9b1 100644
+index dceb763180d92530b22c277d80d25ca557cf5ab4..16aeef33b476b6e1f1ccbd5a43b16770aeecc7b0 100644
 --- a/code-system/code-rule/code-rule.module.code.ts
 +++ b/code-system/code-rule/code-rule.module.code.ts
 @@ -35,6 +35,10 @@ const SAYING: ReadonlySet<ts.SyntaxKind> = new Set([
@@ -15,3 +15,11 @@ index dceb763180d92530b22c277d80d25ca557cf5ab4..00bfb8288af6d40cc7fce9007d28bddf
  function bound(fn: ts.FunctionLikeDeclaration): ReadonlyMap<string, string> {
    const found = new Map<string, string>()
    const take = (name: string): undefined => {
+@@ -94,6 +98,7 @@ function exported(node: ts.Node): boolean {
+ }
+ 
+ export function speltIn(path: string, text: string): readonly Spelt[] {
++  if (!text.includes(DECLARED) && !text.includes(ARROW)) return []
+   const source = parsedAs(path, text)
+   const found: Spelt[] = []
+   const walk = (node: ts.Node): undefined => {
