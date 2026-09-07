@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
-index 79894b0a3499421c51d402d8d47ab2f0bf484729..8f596af0f856adaea3cf29fbeb8bf8a39e1d4e94 100644
+index 79894b0a3499421c51d402d8d47ab2f0bf484729..463499ee53ad908dc815ed00aa54d5dc56be9532 100644
 --- a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
 +++ b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
 @@ -15,8 +15,15 @@ export const claudeAccountCredentialFile = {
@@ -34,3 +34,16 @@ index 79894b0a3499421c51d402d8d47ab2f0bf484729..8f596af0f856adaea3cf29fbeb8bf8a3
      },
      {
        invariantKind: "departure",
+@@ -94,7 +104,11 @@ export const claudeAccountCredentialFile = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A refusal to write an empty token is silent, because the writer takes no door.",
++      statement: "A refusal to write an empty token is silent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The writer takes no door.",
+     },
+   ],
+ } as const satisfies Module
