@@ -15,7 +15,7 @@ export const akashaFolderShape = {
     {
       statement: "A page unique only within a scope declares `uniqueScope`.",
       workingMemory:
-        "`uniqueScope` is a property now, statable on a property page and inside a declaration. Threading it into the shape the index files is refused: `index-entries.module.code.ts` is over its ceiling, so that shape gains no field until the module is divided. Touching `index-reading` and `declared-properties` runs their latent refusals too — prose comments, `noShadow` thrice, and `named` restating `asStringOrNull` in 7 files. A length refusal makes a file read unedited, so its type errors are one.",
+        "`uniqueScope` is a property now, statable on a property page and inside a declaration. The shape the index files gains that field once `index-entries.module.code.ts` is divided, and the cut is by concern: the schema half — `Schema`, `schemaAt`, `Identifier`, `uniquePropertiesIn` and `uniquePropertiesAt` — moves to a module of its own, repointing 8 importers, the package exports and the partSlugs. `index-reading` still carries `noShadow` thrice and `named` restating `asStringOrNull` in 7 files.",
     },
     {
       statement: "The identity index files each page under the level its reach names.",
