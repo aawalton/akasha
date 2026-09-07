@@ -62,8 +62,11 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "The repository root is the akasha folder, so every path that repository tracks is akasha content.",
+      statement: "The repository root is the akasha folder.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Every path the repository tracks is akasha content.",
     },
     {
       invariantKind: "constraint",
