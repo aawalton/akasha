@@ -1,5 +1,6 @@
-writerOwesReading: false
-readersOweReading: false
+readersOweReading: false temper/temper-progress/completed-days/properties/completed-at.instant-property.ts
+readersOweReading: false temper/temper-progress/completed-days/temper-completed-day.page-type.ts
+readersOweReading: false temper/temper-progress/tasks/properties/completed-at.instant-property.ts
 diff --git a/temper/temper-progress/completed-days/properties/completed-at.instant-property.ts b/temper/temper-progress/completed-days/properties/completed-at.instant-property.ts
 deleted file mode 100644
 index d03f439b92f4696efed5d69d322077825566d979..0000000000000000000000000000000000000000
@@ -53,10 +54,26 @@ index 0000000000000000000000000000000000000000..d03f439b92f4696efed5d69d32207782
 +  definition: "when a task was marked done",
 +} as const satisfies InstantProperty
 diff --git a/temper/temper-progress/tasks/temper-task.page-type.ts b/temper/temper-progress/tasks/temper-task.page-type.ts
-index f47fd4c9023a66908000a0f86e9d343da67679f7..2d1ac91a9f8114920db721ccbb2cd0dc4a20dd60 100644
+index f47fd4c9023a66908000a0f86e9d343da67679f7..eeffdc2df0ec8b3303963f4557107006411b0f99 100644
 --- a/temper/temper-progress/tasks/temper-task.page-type.ts
 +++ b/temper/temper-progress/tasks/temper-task.page-type.ts
-@@ -30,6 +30,7 @@ export const temperTask = {
+@@ -1,6 +1,7 @@
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ import type { CharacterSortOrder } from "./properties/character-sort-order.number-property.ts"
++import type { CompletedAt } from "./properties/completed-at.instant-property.ts"
+ import type { DueTime } from "./properties/due-time.calendar-time-property.ts"
+ import type { EffectiveCharacter } from "./properties/effective-character.text-property.ts"
+ import type { LastCompletedAt } from "./properties/last-completed-at.instant-property.ts"
+@@ -11,6 +12,7 @@ import type { ProgressTotal } from "./properties/progress-total.number-property.
+ 
+ export type TemperTask = TemperProgressThing & {
+   characterSortOrder?: CharacterSortOrder
++  completedAt?: CompletedAt
+   dueTime?: DueTime
+   effectiveCharacter?: EffectiveCharacter
+   lastCompletedAt?: LastCompletedAt
+@@ -30,6 +32,7 @@ export const temperTask = {
    partSlugs: [
      "boolean-property/pending-sync",
      "calendar-time-property/due-time",
@@ -64,3 +81,20 @@ index f47fd4c9023a66908000a0f86e9d343da67679f7..2d1ac91a9f8114920db721ccbb2cd0dc
      "instant-property/last-completed-at",
      "number-property/character-sort-order",
      "number-property/progress-current",
+@@ -45,6 +48,7 @@ export const temperTask = {
+     { pagePropertySlug: "calendar-time-property/due-time", required: false, many: false },
+     { pagePropertySlug: "text-property/effective-character", required: false, many: false },
+     { pagePropertySlug: "instant-property/last-completed-at", required: false, many: false },
++    { pagePropertySlug: "instant-property/completed-at", required: false, many: false },
+     { pagePropertySlug: "page-property-entry/progress", required: false, many: false },
+     { pagePropertySlug: "number-property/progress-total", required: false, many: false },
+     { pagePropertySlug: "number-property/progress-current", required: false, many: false },
+@@ -59,7 +63,7 @@ export const temperTask = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A task stating no recurrence is done once and then deleted.",
++      statement: "A task stating no recurrence is marked done and kept.",
+     },
+     {
+       invariantKind: "departure",
