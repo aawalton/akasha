@@ -20,7 +20,7 @@ export const aranyaClusterCleanup = {
     {
       statement: "All cluster-specific files are in the cluster/ folder.",
       workingMemory:
-        "`cluster/operations` has arrived, its scripts finding their library beside them rather than by a path. Left are `infrastructure/cluster-manifests`, whose path 34 files spell as text, and `service-system/cluster-services`, going to `cluster/services` whole and staying a plain folder, because no tool must read a manifest there. A move re-depths what an import spells and rewrites nothing spelled as text.",
+        "`cluster/operations` and `cluster/services` have arrived. Left is `infrastructure/cluster-manifests`, whose path 34 files spell as text, going whole and keeping its package name, so no import is rewritten. A move re-depths what an import spells and rewrites nothing spelled as text, and touching an old file runs every prose and lint refusal already latent in it.",
     },
     {
       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",

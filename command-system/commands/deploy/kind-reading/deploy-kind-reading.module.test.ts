@@ -1,7 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { mkdtempSync, rmSync } from "node:fs"
+import { join } from "node:path"
 import { said } from "@akasha/utils-run/running"
+import { writingUnder } from "../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import { type Apps, IOS_APP, kindNamed, WEB_APP } from "./deploy-kind-reading.module.code.ts"
 
 const HOLD = "/var/tmp"
@@ -29,11 +30,7 @@ function pageOf(name: string, slug: string, pageTypeSlug: string): string {
 
 function seededWorld(): World {
   const root = mkdtempSync(join(HOLD, PREFIX))
-  const written = (path: string, body: string): undefined => {
-    const at = join(root, path)
-    mkdirSync(dirname(at), { recursive: true })
-    writeFileSync(at, body, "utf8")
-  }
+  const written = writingUnder(root)
   written(`${WEB_APPS_AT}/one-web.web-app.ts`, pageOf("oneWeb", "one-web", "web-app"))
   written(`${WEB_APPS_AT}/both-app.web-app.ts`, pageOf("bothApp", "both-app", "web-app"))
   said(["git", "-C", root, "init", "-q"])

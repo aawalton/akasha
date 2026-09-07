@@ -96,13 +96,17 @@ function manifest(slug: string, at: number): string {
   })
 }
 
-export function seededWorld(): World {
-  const root = mkdtempSync(join(HOLD, PREFIX))
-  const written = (path: string, body: string): undefined => {
+export function writingUnder(root: string): (path: string, body: string) => undefined {
+  return (path: string, body: string): undefined => {
     const at = join(root, path)
     mkdirSync(dirname(at), { recursive: true })
     writeFileSync(at, body, "utf8")
   }
+}
+
+export function seededWorld(): World {
+  const root = mkdtempSync(join(HOLD, PREFIX))
+  const written = writingUnder(root)
   written(`${WEB_APPS_AT}/one-web.web-app.ts`, webApp("one-web", 1, ["one-web"]))
   written(`${WEB_APPS_AT}/two-web.web-app.ts`, webApp("two-web", 2, ["one-web", "other-web"]))
   written(`${WEB_APPS_AT}/none-web.web-app.ts`, webApp("none-web", 3, []))

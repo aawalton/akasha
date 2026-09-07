@@ -12,7 +12,6 @@ export const serviceSystem = {
     "module/tick-sleeping",
     "page-type/service",
     "page-type/workstation-service",
-    "page-type/cluster-service",
     "page-type/vendored-workload",
     "page-type/web-app",
     "page-type/secret",

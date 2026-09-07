@@ -53,8 +53,8 @@ export function runKubectl(argv: readonly string[]): Ran {
   return { argv, code: done.code, stdout: done.out, stderr: done.err }
 }
 
-export function runKubectlOn(argv: readonly string[], said: string): Ran {
-  const done = running([KUBECTL, ...argv], { stdin: new TextEncoder().encode(said) })
+export function runKubectlOn(argv: readonly string[], text: string): Ran {
+  const done = running([KUBECTL, ...argv], { stdin: new TextEncoder().encode(text) })
   return { argv, code: done.code, stdout: done.out, stderr: done.err }
 }
 

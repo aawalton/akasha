@@ -329,9 +329,6 @@ export interface Built {
   readonly why: string | null
 }
 
-// A BUILD RESTARTS THE WORKLOAD ONLY WHERE NOTHING ELSE WILL. A caller about to apply a manifest
-// rolls the workload over on that apply, and restarting first would put the pods onto the spec the
-// apply is replacing, which is the spec whose entry point the build just moved out from under.
 export function buildInPod(
   target: BuildTarget,
   sha: string,

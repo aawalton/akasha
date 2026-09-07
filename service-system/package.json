@@ -7,18 +7,10 @@
     "./tick-ratchet": "./workstation-services/tick-ratchet/tick-ratchet.module.code.ts",
     "./tick-sleeping": "./workstation-services/tick-sleeping/tick-sleeping.module.code.ts",
     "./workstation-service": "./workstation-services/workstation-service.page-type.ts",
-    "./image": "./cluster-services/properties/image.text-property.ts",
     "./service-installing": "./workstation-services/service-installing/service-installing.module.code.ts",
     "./service-wrapping": "./workstation-services/service-wrapping/service-wrapping.module.code.ts",
     "./unit-writing": "./workstation-services/unit-writing/unit-writing.module.code.ts",
     "./service-reading": "./workstation-services/service-reading/service-reading.module.code.ts",
-    "./web-app-reading": "./cluster-services/web-app-reading/web-app-reading.module.code.ts",
-    "./web-app-reading/testing": "./cluster-services/web-app-reading/web-app-reading.module.test-fixtures.ts",
-    "./workload-deploying": "./cluster-services/workload-deploying/workload-deploying.module.code.ts",
-    "./web-app-building": "./cluster-services/web-app-building/web-app-building.module.code.ts",
-    "./cluster-api-reaching": "./cluster-services/cluster-api-reaching/cluster-api-reaching.module.code.ts",
-    "./loki-log-fetching": "./cluster-services/loki-log-fetching/loki-log-fetching.module.code.ts",
-    "./log-bound-saying": "./cluster-services/log-bound-saying/log-bound-saying.module.code.ts",
     "./dev-server-stating": "./web-apps/dev-server-stating/dev-server-stating.module.code.ts",
     "./dev-server-recording": "./web-apps/dev-server-recording/dev-server-recording.module.code.ts",
     "./dev-server-env-writing": "./web-apps/dev-server-env-writing/dev-server-env-writing.module.code.ts",
@@ -34,6 +26,6 @@
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-process": "workspace:*",
     "@akasha/workflow-language": "workspace:*",
-    "zod": "^4.3.6"
+    "yaml": "^2.8.1"
   }
 }

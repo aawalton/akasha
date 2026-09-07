@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Service } from "../services/service.page-type.ts"
+import type { Service } from "../../../service-system/services/service.page-type.ts"
 import type { ClusterServiceConfig } from "./properties/cluster-service-config.file-property.ts"
 import type { ClusterServiceSchedule } from "./properties/cluster-service-schedule.text-property.ts"
 import type { ContainerPort } from "./properties/container-port.number-property.ts"

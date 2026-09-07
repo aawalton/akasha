@@ -3,16 +3,14 @@ import { git } from "@akasha/git/git-capping"
 import { secretAt } from "@akasha/pages/page-file-name"
 import { type Secrets, secretsIn } from "@akasha/pages/page-secret"
 import { textAt, type Value, valueAt } from "@akasha/pages/page-value"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { parseAllDocuments, stringify } from "yaml"
 import {
   type Plan,
   type Ran,
   runKubectlOn,
-} from "../../cluster-services/workload-deploying/workload-deploying.module.code.ts"
+} from "../../../infrastructure/cluster/services/workload-deploying/workload-deploying.module.code.ts"
 
-// The refusal deploy-system raised. It came from `deploy-system/refusal/refusal.ts`, which went
-// with the rest of that folder, and nothing inside akasha replaced it, so it sits here beside
-// its only thrower.
 export class DeployRefused extends Error {
   constructor(message: string) {
     super(message)
@@ -41,11 +39,7 @@ export interface Demand {
   readonly key: string
 }
 
-function isRecord(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
-}
-
-function walk(node: unknown, found: Demand[]): void {
+function walk(node: unknown, found: Demand[]): undefined {
   if (Array.isArray(node)) {
     for (const one of node) walk(one, found)
     return
@@ -148,6 +142,7 @@ export function placedAt(pages: readonly SecretPage[]): ReadonlyMap<string, Secr
   return at
 }
 
+// biome-ignore lint/suspicious/noShadowRestrictedNames: a module export, never a property
 export function valueOf(akasha: string, page: SecretPage): string {
   const sidecar = secretAt(page.relPath)
   if (sidecar === null) {

@@ -18,16 +18,14 @@ export default workflow("eso-rig", {
     kubectlApply({
       name: "eso-rig-apply-namespace",
       namespace: "eso-rig",
-      files:
-        "service-system/cluster-services/pages/eso-rig/generated/namespace.generated.yaml",
+      files: "infrastructure/cluster/services/pages/eso-rig/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
     {
       ...applyRbac({
         name: "eso-rig-apply-rbac",
-        rbacFile:
-          "infrastructure/cluster-manifests/eso-rig-rbac/eso-rig-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/eso-rig-rbac/eso-rig-rbac.module.code.ts",
       }),
       dependsOn: ["eso-rig-apply-namespace"],
     },
@@ -41,7 +39,7 @@ export default workflow("eso-rig", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          "kubectl apply --server-side --force-conflicts -n eso-rig -f service-system/cluster-services/pages/eso-rig/generated/deployment.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n eso-rig -f infrastructure/cluster/services/pages/eso-rig/generated/deployment.generated.yaml",
           ...verifyRolloutCommands({
             namespace: "eso-rig",
             deployment: "eso-rig",

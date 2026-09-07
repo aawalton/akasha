@@ -1,6 +1,6 @@
 import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Image } from "@akasha/service-system/image"
+import type { Image } from "../../infrastructure/cluster/services/properties/image.text-property.ts"
 import type { AlwaysRun } from "./properties/always-run.boolean-property.ts"
 import type { ClosurePolicy } from "./properties/closure-policy.text-property.ts"
 import type { DispatchNodeTypes } from "./properties/dispatch-node-types.record-property.ts"

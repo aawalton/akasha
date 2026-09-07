@@ -1,6 +1,9 @@
 import { basename } from "node:path"
 import { mobileApps } from "@akasha/mobile-cli/mobile-app"
-import { namedAmong, pagesUnder } from "@akasha/service-system/web-app-reading"
+import {
+  namedAmong,
+  pagesUnder,
+} from "../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
 
 export const WEB_APP = "web-app"
 

@@ -75,6 +75,11 @@ export const webAppBuilding = {
     {
       invariantKind: "departure",
       statement:
+        "A build restarts the workload only where no apply is about to roll that workload.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A build run leaves the sha that run was made from inside the build that run made.",
     },
     {

@@ -1,5 +1,12 @@
 import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
-import { chooseLogsDiagnostic, describeBounds } from "@akasha/service-system/log-bound-saying"
+import { commitSha40, inputsHash12 } from "@akasha/workflow-language/ci-identifiers"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import {
+  chooseLogsDiagnostic,
+  describeBounds,
+} from "../../../infrastructure/cluster/services/log-bound-saying/log-bound-saying.module.code.ts"
 import {
   fetchAllLokiLogs,
   fetchLokiLogs,
@@ -9,11 +16,7 @@ import {
   type LogEntry,
   parseLokiDuration,
   parseLokiPositiveInt,
-} from "@akasha/service-system/loki-log-fetching"
-import { commitSha40, inputsHash12 } from "@akasha/workflow-language/ci-identifiers"
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { refused } from "../../../command-system/calling/calling.module.code.ts"
-import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+} from "../../../infrastructure/cluster/services/loki-log-fetching/loki-log-fetching.module.code.ts"
 
 export const LOGS = "logs"
 

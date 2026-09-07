@@ -12,8 +12,8 @@ import {
   livePod,
   type Resolved,
   resolveBuildEnv,
-} from "@akasha/service-system/web-app-building"
-import { deployableNamed } from "@akasha/service-system/web-app-reading"
+} from "../../../../infrastructure/cluster/services/web-app-building/web-app-building.module.code.ts"
+import { deployableNamed } from "../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
 import {
   appliedOf,
   planFor,
@@ -21,7 +21,7 @@ import {
   unfilledOf,
   upAlready,
   writeManifests,
-} from "@akasha/service-system/workload-deploying"
+} from "../../../../infrastructure/cluster/services/workload-deploying/workload-deploying.module.code.ts"
 import type { Answer, Given } from "../../../calling/calling.module.code.ts"
 import { refused } from "../../../calling/calling.module.code.ts"
 
