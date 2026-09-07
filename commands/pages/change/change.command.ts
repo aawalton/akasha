@@ -277,7 +277,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A call asking for no apply lands nothing.",
+      statement: "A call naming no apply lands the edits that call answers.",
     },
     {
       invariantKind: "departure",
