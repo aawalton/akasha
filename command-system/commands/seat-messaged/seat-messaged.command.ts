@@ -8,13 +8,7 @@ export const seatMessaged = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-mechanical",
-  positionals: [
-    {
-      name: "name",
-      description: "the seat Alan wrote to",
-      required: true,
-    },
-  ],
+  taking: [{ said: "<name>", takes: "the seat Alan wrote to" }],
   helpNotes: [
     "the moment kept is the moment of the run rather than a moment the caller states.",
     "the value is kept beside the persona's page rather than in the commit.",
