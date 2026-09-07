@@ -9,7 +9,7 @@ export const libSetsKbfDropFilters = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A zone id of zero or less names a special zone rather than a game zone.",
+      statement: "A zone id at zero or below names a special zone rather than a game zone.",
     },
   ],
 } as const satisfies Module
