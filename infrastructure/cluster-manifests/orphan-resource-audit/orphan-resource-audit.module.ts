@@ -22,7 +22,7 @@ export const orphanResourceAudit = {
     },
     {
       invariantKind: "departure",
-      statement: "A resource is known by its kind, its namespace and its name together.",
+      statement: "A resource is known by its kind and its namespace and its name together.",
     },
   ],
 } as const satisfies Module
