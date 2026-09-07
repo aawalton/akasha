@@ -1,0 +1,1121 @@
+writerOwesReading: false
+diff --git a/commands/pages/temper-inventory-buy-rule-delete/temper-inventory-buy-rule-delete.command.code.ts b/commands/pages/temper-inventory-buy-rule-delete/temper-inventory-buy-rule-delete.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e59ee616d950112f455e7a88e942302dd1f4b38a
+--- /dev/null
++++ b/commands/pages/temper-inventory-buy-rule-delete/temper-inventory-buy-rule-delete.command.code.ts
+@@ -0,0 +1,20 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  droppedRule,
++  FORCE,
++  readIn,
++  refusedAll,
++  shapeOf,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-buy-rule-delete"
++
++const SHAPE = shapeOf([FORCE], { alone: [FORCE], namesARule: true })
++
++export async function temperInventoryBuyRuleDelete(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => droppedRule("buy", id, read.said.has(FORCE)))
++}
+diff --git a/commands/pages/temper-inventory-buy-rule-delete/temper-inventory-buy-rule-delete.command.ts b/commands/pages/temper-inventory-buy-rule-delete/temper-inventory-buy-rule-delete.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..90620f4fbe44591bbbce443fc0a6001412d7664a
+--- /dev/null
++++ b/commands/pages/temper-inventory-buy-rule-delete/temper-inventory-buy-rule-delete.command.ts
+@@ -0,0 +1,28 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryBuyRuleDelete = {
++  id: "01a0603c-c1cf-7d7d-8d74-72103cd55734",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-buy-rule-delete",
++  definition: "the command taking away a buy rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "<id>", takes: "the id of the buy rule taken away" },
++    { said: "--force", takes: "take it away even where it is locked" },
++  ],
++  helpNotes: [
++    "a locked buy rule is refused rather than taken away, unless `--force` is said.",
++    "an id no buy rule carries is refused by that id.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A locked buy rule is refused unless the call says `--force`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An id no buy rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-buy-rule-duplicate/temper-inventory-buy-rule-duplicate.command.code.ts b/commands/pages/temper-inventory-buy-rule-duplicate/temper-inventory-buy-rule-duplicate.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d200a9164ef9fd64394f85687e5b5218a7ecd784
+--- /dev/null
++++ b/commands/pages/temper-inventory-buy-rule-duplicate/temper-inventory-buy-rule-duplicate.command.code.ts
+@@ -0,0 +1,21 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  copiedRule,
++  readIn,
++  refusedAll,
++  shapeOf,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-buy-rule-duplicate"
++
++const SHAPE = shapeOf([], { namesARule: true })
++
++export async function temperInventoryBuyRuleDuplicate(
++  argv: readonly string[] = []
++): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => copiedRule("buy", id))
++}
+diff --git a/commands/pages/temper-inventory-buy-rule-duplicate/temper-inventory-buy-rule-duplicate.command.ts b/commands/pages/temper-inventory-buy-rule-duplicate/temper-inventory-buy-rule-duplicate.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4c05cb5aafd0c795f5ac65aa8cbb13d28306e01b
+--- /dev/null
++++ b/commands/pages/temper-inventory-buy-rule-duplicate/temper-inventory-buy-rule-duplicate.command.ts
+@@ -0,0 +1,29 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryBuyRuleDuplicate = {
++  id: "01a0603c-c1cf-724f-8dcf-c1faa571392d",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-buy-rule-duplicate",
++  definition: "the command copying a buy rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [{ said: "<id>", takes: "the id of the buy rule copied" }],
++  helpNotes: [
++    "the copy is unlocked and inactive whatever the original was.",
++    "an id no buy rule carries is refused by that id.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The copy is unlocked.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The copy is inactive.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An id no buy rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.code.ts b/commands/pages/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..950e1106a8fcb52ef107eb539a2dffb7ddbdfdad
+--- /dev/null
++++ b/commands/pages/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.code.ts
+@@ -0,0 +1,19 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  lockedRule,
++  readIn,
++  refusedAll,
++  shapeOf,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-buy-rule-lock"
++
++const SHAPE = shapeOf([], { namesARule: true })
++
++export async function temperInventoryBuyRuleLock(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => lockedRule("buy", id, true))
++}
+diff --git a/commands/pages/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.ts b/commands/pages/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a3d15721d9953ddb7b80b6fd5842ac46f4506488
+--- /dev/null
++++ b/commands/pages/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.ts
+@@ -0,0 +1,24 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryBuyRuleLock = {
++  id: "01a0603c-c1d0-727d-9e10-7b3b2d6bec58",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-buy-rule-lock",
++  definition: "the command locking a buy rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [{ said: "<id>", takes: "the id of the buy rule locked" }],
++  helpNotes: [
++    "a locked rule is refused an update or a deletion until it is unlocked or the call forces it.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Locking a buy rule already locked changes nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An id no buy rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-buy-rule-show/temper-inventory-buy-rule-show.command.code.ts b/commands/pages/temper-inventory-buy-rule-show/temper-inventory-buy-rule-show.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f32ee79933a1a76f02665428a81eff7ca15b34c4
+--- /dev/null
++++ b/commands/pages/temper-inventory-buy-rule-show/temper-inventory-buy-rule-show.command.code.ts
+@@ -0,0 +1,20 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  readIn,
++  refusedAll,
++  shapeOf,
++  shownRule,
++  TSV,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-buy-rule-show"
++
++const SHAPE = shapeOf([TSV], { alone: [TSV], namesARule: true })
++
++export async function temperInventoryBuyRuleShow(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => shownRule("buy", id, read.said))
++}
+diff --git a/commands/pages/temper-inventory-buy-rule-show/temper-inventory-buy-rule-show.command.ts b/commands/pages/temper-inventory-buy-rule-show/temper-inventory-buy-rule-show.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..71252b6bca3f6f0f6bf538ad1b1c4da0d6cd9c2b
+--- /dev/null
++++ b/commands/pages/temper-inventory-buy-rule-show/temper-inventory-buy-rule-show.command.ts
+@@ -0,0 +1,21 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryBuyRuleShow = {
++  id: "01a0603c-c1d1-7af1-a8ec-2f502e0eb1db",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-buy-rule-show",
++  definition: "the command giving back one buy rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "<id>", takes: "the id of the buy rule given back" },
++    { said: "--tsv", takes: "give one tab-separated row rather than JSON" },
++  ],
++  helpNotes: ["an id no buy rule carries is refused by that id."],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An id no buy rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.code.ts b/commands/pages/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..745255681b6a42358b33b8d48c3e554a26eb35eb
+--- /dev/null
++++ b/commands/pages/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.code.ts
+@@ -0,0 +1,19 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  lockedRule,
++  readIn,
++  refusedAll,
++  shapeOf,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-buy-rule-unlock"
++
++const SHAPE = shapeOf([], { namesARule: true })
++
++export async function temperInventoryBuyRuleUnlock(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => lockedRule("buy", id, false))
++}
+diff --git a/commands/pages/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.ts b/commands/pages/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2249f8b8de76f9a2c8c5383b3b4d9b4673833fd5
+--- /dev/null
++++ b/commands/pages/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.ts
+@@ -0,0 +1,21 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryBuyRuleUnlock = {
++  id: "01a0603c-c1d1-7388-9210-2b06caa8d25f",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-buy-rule-unlock",
++  definition: "the command unlocking a buy rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [{ said: "<id>", takes: "the id of the buy rule unlocked" }],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Unlocking a buy rule already unlocked changes nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An id no buy rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.code.ts b/commands/pages/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..94211d17000e0eae949c2a2200038f798698fcc5
+--- /dev/null
++++ b/commands/pages/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.code.ts
+@@ -0,0 +1,20 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  droppedRule,
++  FORCE,
++  readIn,
++  refusedAll,
++  shapeOf,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-item-rule-delete"
++
++const SHAPE = shapeOf([FORCE], { alone: [FORCE], namesARule: true })
++
++export async function temperInventoryItemRuleDelete(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => droppedRule("item", id, read.said.has(FORCE)))
++}
+diff --git a/commands/pages/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.ts b/commands/pages/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c74aa1a8fd5caeac78373672b128d2f9c8b2a8ca
+--- /dev/null
++++ b/commands/pages/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.ts
+@@ -0,0 +1,24 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryItemRuleDelete = {
++  id: "01a0603c-c1d2-7862-9289-2b1f29d3c20e",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-item-rule-delete",
++  definition: "the command taking away a per-item rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "<id>", takes: "the id of the per-item rule taken away" },
++    { said: "--force", takes: "take it away even where it is locked" },
++  ],
++  helpNotes: [
++    "a locked per-item rule is refused rather than taken away, unless `--force` is said.",
++    "an id no per-item rule carries is refused by that id.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An id no per-item rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-item-rule-duplicate/temper-inventory-item-rule-duplicate.command.code.ts b/commands/pages/temper-inventory-item-rule-duplicate/temper-inventory-item-rule-duplicate.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8bbc3b9b542559872d2d24856454c8d63067a854
+--- /dev/null
++++ b/commands/pages/temper-inventory-item-rule-duplicate/temper-inventory-item-rule-duplicate.command.code.ts
+@@ -0,0 +1,21 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  copiedRule,
++  readIn,
++  refusedAll,
++  shapeOf,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-item-rule-duplicate"
++
++const SHAPE = shapeOf([], { namesARule: true })
++
++export async function temperInventoryItemRuleDuplicate(
++  argv: readonly string[] = []
++): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => copiedRule("item", id))
++}
+diff --git a/commands/pages/temper-inventory-item-rule-duplicate/temper-inventory-item-rule-duplicate.command.ts b/commands/pages/temper-inventory-item-rule-duplicate/temper-inventory-item-rule-duplicate.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4589db210b36fbbdfc8f2b67afa1d2b1a7b071be
+--- /dev/null
++++ b/commands/pages/temper-inventory-item-rule-duplicate/temper-inventory-item-rule-duplicate.command.ts
+@@ -0,0 +1,29 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryItemRuleDuplicate = {
++  id: "01a0603c-c1d3-7aad-9ae3-451fe2454676",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-item-rule-duplicate",
++  definition: "the command copying a per-item rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [{ said: "<id>", takes: "the id of the per-item rule copied" }],
++  helpNotes: [
++    "the copy is unlocked and inactive whatever the original was.",
++    "an id no per-item rule carries is refused by that id.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The copy is unlocked.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The copy is inactive.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An id no per-item rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.code.ts b/commands/pages/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a0ec796e4e5e557549465c005aae52b6793453ac
+--- /dev/null
++++ b/commands/pages/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.code.ts
+@@ -0,0 +1,19 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  lockedRule,
++  readIn,
++  refusedAll,
++  shapeOf,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-item-rule-lock"
++
++const SHAPE = shapeOf([], { namesARule: true })
++
++export async function temperInventoryItemRuleLock(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => lockedRule("item", id, true))
++}
+diff --git a/commands/pages/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.ts b/commands/pages/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fd7ff8ed9ad901733ccb5d45fe8845126ccc7be4
+--- /dev/null
++++ b/commands/pages/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.ts
+@@ -0,0 +1,24 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryItemRuleLock = {
++  id: "01a0603c-c1d3-7b21-8e7e-1cbbd4192e8b",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-item-rule-lock",
++  definition: "the command locking a per-item rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [{ said: "<id>", takes: "the id of the per-item rule locked" }],
++  helpNotes: [
++    "a locked rule is refused an update or a deletion until it is unlocked or the call forces it.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Locking a per-item rule already locked changes nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An id no per-item rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-item-rule-show/temper-inventory-item-rule-show.command.code.ts b/commands/pages/temper-inventory-item-rule-show/temper-inventory-item-rule-show.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3e43f5abc935b43eadcca8e5ccffdaaba1a268ba
+--- /dev/null
++++ b/commands/pages/temper-inventory-item-rule-show/temper-inventory-item-rule-show.command.code.ts
+@@ -0,0 +1,20 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  readIn,
++  refusedAll,
++  shapeOf,
++  shownRule,
++  TSV,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-item-rule-show"
++
++const SHAPE = shapeOf([TSV], { alone: [TSV], namesARule: true })
++
++export async function temperInventoryItemRuleShow(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => shownRule("item", id, read.said))
++}
+diff --git a/commands/pages/temper-inventory-item-rule-show/temper-inventory-item-rule-show.command.ts b/commands/pages/temper-inventory-item-rule-show/temper-inventory-item-rule-show.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a17e7b0f611fe9a4b68b41b482241ecbf3004dd4
+--- /dev/null
++++ b/commands/pages/temper-inventory-item-rule-show/temper-inventory-item-rule-show.command.ts
+@@ -0,0 +1,21 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryItemRuleShow = {
++  id: "01a0603c-c1d4-7e72-bcc5-fb55fe3c992c",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-item-rule-show",
++  definition: "the command giving back one per-item rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "<id>", takes: "the id of the per-item rule given back" },
++    { said: "--tsv", takes: "give one tab-separated row rather than JSON" },
++  ],
++  helpNotes: ["an id no per-item rule carries is refused by that id."],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An id no per-item rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-item-rule-unlock/temper-inventory-item-rule-unlock.command.code.ts b/commands/pages/temper-inventory-item-rule-unlock/temper-inventory-item-rule-unlock.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2cc181ef1b71e8b96ce7fc66908b9cc947a6c3ef
+--- /dev/null
++++ b/commands/pages/temper-inventory-item-rule-unlock/temper-inventory-item-rule-unlock.command.code.ts
+@@ -0,0 +1,19 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  lockedRule,
++  readIn,
++  refusedAll,
++  shapeOf,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-item-rule-unlock"
++
++const SHAPE = shapeOf([], { namesARule: true })
++
++export async function temperInventoryItemRuleUnlock(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => lockedRule("item", id, false))
++}
+diff --git a/commands/pages/temper-inventory-item-rule-unlock/temper-inventory-item-rule-unlock.command.ts b/commands/pages/temper-inventory-item-rule-unlock/temper-inventory-item-rule-unlock.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6bb0a927ca67a0867b2f768ba89bd905f20e94ed
+--- /dev/null
++++ b/commands/pages/temper-inventory-item-rule-unlock/temper-inventory-item-rule-unlock.command.ts
+@@ -0,0 +1,21 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryItemRuleUnlock = {
++  id: "01a0603c-c1d4-7ce4-89db-b0f353aba838",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-item-rule-unlock",
++  definition: "the command unlocking a per-item rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [{ said: "<id>", takes: "the id of the per-item rule unlocked" }],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Unlocking a per-item rule already unlocked changes nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An id no per-item rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-delete/temper-inventory-buy-rule-delete.command.code.ts b/temper/temper-commands/temper-inventory-buy-rule-delete/temper-inventory-buy-rule-delete.command.code.ts
+deleted file mode 100644
+index 5afa46f77e6311acdf5789fe70e2507be5a475e0..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-buy-rule-delete/temper-inventory-buy-rule-delete.command.code.ts
++++ /dev/null
+@@ -1,20 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  droppedRule,
+-  FORCE,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-buy-rule-delete"
+-
+-const SHAPE = shapeOf([FORCE], { alone: [FORCE], namesARule: true })
+-
+-export async function temperInventoryBuyRuleDelete(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => droppedRule("buy", id, read.said.has(FORCE)))
+-}
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-delete/temper-inventory-buy-rule-delete.command.ts b/temper/temper-commands/temper-inventory-buy-rule-delete/temper-inventory-buy-rule-delete.command.ts
+deleted file mode 100644
+index 90620f4fbe44591bbbce443fc0a6001412d7664a..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-buy-rule-delete/temper-inventory-buy-rule-delete.command.ts
++++ /dev/null
+@@ -1,28 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryBuyRuleDelete = {
+-  id: "01a0603c-c1cf-7d7d-8d74-72103cd55734",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-buy-rule-delete",
+-  definition: "the command taking away a buy rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "<id>", takes: "the id of the buy rule taken away" },
+-    { said: "--force", takes: "take it away even where it is locked" },
+-  ],
+-  helpNotes: [
+-    "a locked buy rule is refused rather than taken away, unless `--force` is said.",
+-    "an id no buy rule carries is refused by that id.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A locked buy rule is refused unless the call says `--force`.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no buy rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-duplicate/temper-inventory-buy-rule-duplicate.command.code.ts b/temper/temper-commands/temper-inventory-buy-rule-duplicate/temper-inventory-buy-rule-duplicate.command.code.ts
+deleted file mode 100644
+index 450ab601a4d4f757520ba6abebf026aeaa5202d1..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-buy-rule-duplicate/temper-inventory-buy-rule-duplicate.command.code.ts
++++ /dev/null
+@@ -1,21 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  copiedRule,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-buy-rule-duplicate"
+-
+-const SHAPE = shapeOf([], { namesARule: true })
+-
+-export async function temperInventoryBuyRuleDuplicate(
+-  argv: readonly string[] = []
+-): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => copiedRule("buy", id))
+-}
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-duplicate/temper-inventory-buy-rule-duplicate.command.ts b/temper/temper-commands/temper-inventory-buy-rule-duplicate/temper-inventory-buy-rule-duplicate.command.ts
+deleted file mode 100644
+index 4c05cb5aafd0c795f5ac65aa8cbb13d28306e01b..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-buy-rule-duplicate/temper-inventory-buy-rule-duplicate.command.ts
++++ /dev/null
+@@ -1,29 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryBuyRuleDuplicate = {
+-  id: "01a0603c-c1cf-724f-8dcf-c1faa571392d",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-buy-rule-duplicate",
+-  definition: "the command copying a buy rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [{ said: "<id>", takes: "the id of the buy rule copied" }],
+-  helpNotes: [
+-    "the copy is unlocked and inactive whatever the original was.",
+-    "an id no buy rule carries is refused by that id.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The copy is unlocked.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The copy is inactive.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no buy rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.code.ts b/temper/temper-commands/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.code.ts
+deleted file mode 100644
+index 4aad75ec76fee9ad6a287a40e864b6d446fb420d..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.code.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  lockedRule,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-buy-rule-lock"
+-
+-const SHAPE = shapeOf([], { namesARule: true })
+-
+-export async function temperInventoryBuyRuleLock(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => lockedRule("buy", id, true))
+-}
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.ts b/temper/temper-commands/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.ts
+deleted file mode 100644
+index a3d15721d9953ddb7b80b6fd5842ac46f4506488..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.ts
++++ /dev/null
+@@ -1,24 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryBuyRuleLock = {
+-  id: "01a0603c-c1d0-727d-9e10-7b3b2d6bec58",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-buy-rule-lock",
+-  definition: "the command locking a buy rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [{ said: "<id>", takes: "the id of the buy rule locked" }],
+-  helpNotes: [
+-    "a locked rule is refused an update or a deletion until it is unlocked or the call forces it.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Locking a buy rule already locked changes nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no buy rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-show/temper-inventory-buy-rule-show.command.code.ts b/temper/temper-commands/temper-inventory-buy-rule-show/temper-inventory-buy-rule-show.command.code.ts
+deleted file mode 100644
+index 71f4ca5a260d24dbfee76f9a66b36c8b6d0e9bac..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-buy-rule-show/temper-inventory-buy-rule-show.command.code.ts
++++ /dev/null
+@@ -1,20 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-  shownRule,
+-  TSV,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-buy-rule-show"
+-
+-const SHAPE = shapeOf([TSV], { alone: [TSV], namesARule: true })
+-
+-export async function temperInventoryBuyRuleShow(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => shownRule("buy", id, read.said))
+-}
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-show/temper-inventory-buy-rule-show.command.ts b/temper/temper-commands/temper-inventory-buy-rule-show/temper-inventory-buy-rule-show.command.ts
+deleted file mode 100644
+index 71252b6bca3f6f0f6bf538ad1b1c4da0d6cd9c2b..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-buy-rule-show/temper-inventory-buy-rule-show.command.ts
++++ /dev/null
+@@ -1,21 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryBuyRuleShow = {
+-  id: "01a0603c-c1d1-7af1-a8ec-2f502e0eb1db",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-buy-rule-show",
+-  definition: "the command giving back one buy rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "<id>", takes: "the id of the buy rule given back" },
+-    { said: "--tsv", takes: "give one tab-separated row rather than JSON" },
+-  ],
+-  helpNotes: ["an id no buy rule carries is refused by that id."],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no buy rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.code.ts b/temper/temper-commands/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.code.ts
+deleted file mode 100644
+index 7e2b6c5c2751710611100cdee39b363687e407c4..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.code.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  lockedRule,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-buy-rule-unlock"
+-
+-const SHAPE = shapeOf([], { namesARule: true })
+-
+-export async function temperInventoryBuyRuleUnlock(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => lockedRule("buy", id, false))
+-}
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.ts b/temper/temper-commands/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.ts
+deleted file mode 100644
+index 2249f8b8de76f9a2c8c5383b3b4d9b4673833fd5..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.ts
++++ /dev/null
+@@ -1,21 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryBuyRuleUnlock = {
+-  id: "01a0603c-c1d1-7388-9210-2b06caa8d25f",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-buy-rule-unlock",
+-  definition: "the command unlocking a buy rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [{ said: "<id>", takes: "the id of the buy rule unlocked" }],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Unlocking a buy rule already unlocked changes nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no buy rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.code.ts b/temper/temper-commands/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.code.ts
+deleted file mode 100644
+index bba2551d2c35b1a52d3a48775bf09a23fcddf648..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.code.ts
++++ /dev/null
+@@ -1,20 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  droppedRule,
+-  FORCE,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-item-rule-delete"
+-
+-const SHAPE = shapeOf([FORCE], { alone: [FORCE], namesARule: true })
+-
+-export async function temperInventoryItemRuleDelete(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => droppedRule("item", id, read.said.has(FORCE)))
+-}
+diff --git a/temper/temper-commands/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.ts b/temper/temper-commands/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.ts
+deleted file mode 100644
+index c74aa1a8fd5caeac78373672b128d2f9c8b2a8ca..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.ts
++++ /dev/null
+@@ -1,24 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryItemRuleDelete = {
+-  id: "01a0603c-c1d2-7862-9289-2b1f29d3c20e",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-item-rule-delete",
+-  definition: "the command taking away a per-item rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "<id>", takes: "the id of the per-item rule taken away" },
+-    { said: "--force", takes: "take it away even where it is locked" },
+-  ],
+-  helpNotes: [
+-    "a locked per-item rule is refused rather than taken away, unless `--force` is said.",
+-    "an id no per-item rule carries is refused by that id.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no per-item rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-item-rule-duplicate/temper-inventory-item-rule-duplicate.command.code.ts b/temper/temper-commands/temper-inventory-item-rule-duplicate/temper-inventory-item-rule-duplicate.command.code.ts
+deleted file mode 100644
+index 16058be7696c0a7b11ebe976284468c25ee79b0c..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-item-rule-duplicate/temper-inventory-item-rule-duplicate.command.code.ts
++++ /dev/null
+@@ -1,21 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  copiedRule,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-item-rule-duplicate"
+-
+-const SHAPE = shapeOf([], { namesARule: true })
+-
+-export async function temperInventoryItemRuleDuplicate(
+-  argv: readonly string[] = []
+-): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => copiedRule("item", id))
+-}
+diff --git a/temper/temper-commands/temper-inventory-item-rule-duplicate/temper-inventory-item-rule-duplicate.command.ts b/temper/temper-commands/temper-inventory-item-rule-duplicate/temper-inventory-item-rule-duplicate.command.ts
+deleted file mode 100644
+index 4589db210b36fbbdfc8f2b67afa1d2b1a7b071be..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-item-rule-duplicate/temper-inventory-item-rule-duplicate.command.ts
++++ /dev/null
+@@ -1,29 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryItemRuleDuplicate = {
+-  id: "01a0603c-c1d3-7aad-9ae3-451fe2454676",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-item-rule-duplicate",
+-  definition: "the command copying a per-item rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [{ said: "<id>", takes: "the id of the per-item rule copied" }],
+-  helpNotes: [
+-    "the copy is unlocked and inactive whatever the original was.",
+-    "an id no per-item rule carries is refused by that id.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The copy is unlocked.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The copy is inactive.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no per-item rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.code.ts b/temper/temper-commands/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.code.ts
+deleted file mode 100644
+index 0fbca5498c4a240b5079575970721154dc5472cd..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.code.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  lockedRule,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-item-rule-lock"
+-
+-const SHAPE = shapeOf([], { namesARule: true })
+-
+-export async function temperInventoryItemRuleLock(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => lockedRule("item", id, true))
+-}
+diff --git a/temper/temper-commands/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.ts b/temper/temper-commands/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.ts
+deleted file mode 100644
+index fd7ff8ed9ad901733ccb5d45fe8845126ccc7be4..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.ts
++++ /dev/null
+@@ -1,24 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryItemRuleLock = {
+-  id: "01a0603c-c1d3-7b21-8e7e-1cbbd4192e8b",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-item-rule-lock",
+-  definition: "the command locking a per-item rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [{ said: "<id>", takes: "the id of the per-item rule locked" }],
+-  helpNotes: [
+-    "a locked rule is refused an update or a deletion until it is unlocked or the call forces it.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Locking a per-item rule already locked changes nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no per-item rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-item-rule-show/temper-inventory-item-rule-show.command.code.ts b/temper/temper-commands/temper-inventory-item-rule-show/temper-inventory-item-rule-show.command.code.ts
+deleted file mode 100644
+index 857761a8053b26bd979e8faa33ef073873f2bdcc..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-item-rule-show/temper-inventory-item-rule-show.command.code.ts
++++ /dev/null
+@@ -1,20 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-  shownRule,
+-  TSV,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-item-rule-show"
+-
+-const SHAPE = shapeOf([TSV], { alone: [TSV], namesARule: true })
+-
+-export async function temperInventoryItemRuleShow(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => shownRule("item", id, read.said))
+-}
+diff --git a/temper/temper-commands/temper-inventory-item-rule-show/temper-inventory-item-rule-show.command.ts b/temper/temper-commands/temper-inventory-item-rule-show/temper-inventory-item-rule-show.command.ts
+deleted file mode 100644
+index a17e7b0f611fe9a4b68b41b482241ecbf3004dd4..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-item-rule-show/temper-inventory-item-rule-show.command.ts
++++ /dev/null
+@@ -1,21 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryItemRuleShow = {
+-  id: "01a0603c-c1d4-7e72-bcc5-fb55fe3c992c",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-item-rule-show",
+-  definition: "the command giving back one per-item rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "<id>", takes: "the id of the per-item rule given back" },
+-    { said: "--tsv", takes: "give one tab-separated row rather than JSON" },
+-  ],
+-  helpNotes: ["an id no per-item rule carries is refused by that id."],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no per-item rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-item-rule-unlock/temper-inventory-item-rule-unlock.command.code.ts b/temper/temper-commands/temper-inventory-item-rule-unlock/temper-inventory-item-rule-unlock.command.code.ts
+deleted file mode 100644
+index cb7216327c5a3a583c5dc47b4dd158f74d1d3da9..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-item-rule-unlock/temper-inventory-item-rule-unlock.command.code.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  lockedRule,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-item-rule-unlock"
+-
+-const SHAPE = shapeOf([], { namesARule: true })
+-
+-export async function temperInventoryItemRuleUnlock(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => lockedRule("item", id, false))
+-}
+diff --git a/temper/temper-commands/temper-inventory-item-rule-unlock/temper-inventory-item-rule-unlock.command.ts b/temper/temper-commands/temper-inventory-item-rule-unlock/temper-inventory-item-rule-unlock.command.ts
+deleted file mode 100644
+index 6bb0a927ca67a0867b2f768ba89bd905f20e94ed..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-item-rule-unlock/temper-inventory-item-rule-unlock.command.ts
++++ /dev/null
+@@ -1,21 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryItemRuleUnlock = {
+-  id: "01a0603c-c1d4-7ce4-89db-b0f353aba838",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-item-rule-unlock",
+-  definition: "the command unlocking a per-item rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [{ said: "<id>", takes: "the id of the per-item rule unlocked" }],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Unlocking a per-item rule already unlocked changes nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no per-item rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
