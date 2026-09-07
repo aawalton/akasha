@@ -13,10 +13,6 @@ export const changeTargetType = {
     "change-target-type/file",
     "change-target-type/folder",
     "change-target-type/file-content",
-    "change-target-type/code",
-    "change-target-type/data",
-    "change-target-type/text",
-    "change-target-type/manifest",
   ],
   extendsSlug: ["page-type/domain"],
   invariants: [
