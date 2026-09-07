@@ -20,7 +20,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A change applies as it answers rather than waiting for an apply.",
       workingMemory:
-        "`APPLY` at `change.command.code.ts:74` and `applyIn` at `:188` read the key, and `change.command.ts` declares the old default across roughly fifteen invariants and four help notes. Alan ruled the flip reaches subagents, so the constraint holding a subagent to drafting is deleted. `apply` takes the commit message as its value today and is refused where that message is empty, so applying by default takes the message an apply already works out where none is named.",
+        "The code is landed and a refusing change still lands nothing, but `change.command.ts` was left declaring the old default across roughly fifteen invariants and four help notes. Applying by default takes the message an apply works out where none is named. Alan ruled the flip reaches subagents. A bare `keep` holds the edits for a later apply: without one, no module can be created at all, as a page declaring code and the file beside it must arrive together, and no change page composes that.",
     },
     {
       statement: "A file that is not text is refused rather than decoded into an edit.",
