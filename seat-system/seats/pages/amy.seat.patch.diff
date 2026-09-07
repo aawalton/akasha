@@ -19,9 +19,25 @@ index 7b93c1fefaebd358397300db4ffb9ed265825b86..93b3b6a2e8a1805f3bf55beafc5d229a
  
  export function narrowFor(one: Rolling, day: string): PageWhere {
 diff --git a/alan/harness/overdue-rolling/overdue-rolling.module.test.ts b/alan/harness/overdue-rolling/overdue-rolling.module.test.ts
-index b9242fd6c71e15e097883218657f5ebc172879d5..0f59a9be3481933b8761277cd0db3bf2c2ea2488 100644
+index b9242fd6c71e15e097883218657f5ebc172879d5..8906782da8622756079af03823267b62360cf9ba 100644
 --- a/alan/harness/overdue-rolling/overdue-rolling.module.test.ts
 +++ b/alan/harness/overdue-rolling/overdue-rolling.module.test.ts
+@@ -1,5 +1,5 @@
+ import { expect, test } from "bun:test"
+-import type { Page, PageWhere } from "@akasha/pages-core/page-types"
++import { asPage, type Page, type PageWhere } from "@akasha/pages-core/page-types"
+ import {
+   narrowFor,
+   ROLLED,
+@@ -18,7 +18,7 @@ function rollingFor(pageTypeSlug: string): Rolling {
+ }
+ 
+ function pageNamed(slug: string | null): Page {
+-  return { slug } as unknown as Page
++  return asPage({ slug })
+ }
+ 
+ test("a to-do is narrowed by its due date and by carrying no completion", () => {
 @@ -28,8 +28,11 @@ test("a to-do is narrowed by its due date and by carrying no completion", () =>
    ])
  })
