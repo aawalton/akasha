@@ -1,0 +1,98 @@
+writerOwesReading: false
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts b/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
+index 6b5f39ac2fba47b1a0880e50db3eab408220026f..ae7db9309c22cf3f44ccd1233c0aa88ab11585d8 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
+@@ -18,7 +18,11 @@ export const events = {
+     { pagePropertySlug: "instant-property/calendar-event-end-at", required: false, many: false },
+     { pagePropertySlug: "boolean-property/calendar-event-all-day", required: false, many: false },
+     { pagePropertySlug: "text-property/calendar-event-location", required: false, many: false },
+-    { pagePropertySlug: "text-property/calendar-event-description", required: false, many: false },
++    {
++      pagePropertySlug: "text-property/calendar-event-source-description",
++      required: false,
++      many: false,
++    },
+     {
+       pagePropertySlug: "text-property/calendar-event-types",
+       required: false,
+diff --git a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
+index cbb6587ed28dd0a62c917ca07dba30eda118aa54..634a1605929e7f693d0bc24dad860bb292cec3d2 100644
+--- a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
++++ b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
+@@ -2,7 +2,6 @@ import type { Page } from "@akasha/pages/page"
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { CalendarEventAgeGroups } from "./properties/calendar-event-age-groups.text-property.ts"
+ import type { CalendarEventAllDay } from "./properties/calendar-event-all-day.boolean-property.ts"
+-import type { CalendarEventDescription } from "./properties/calendar-event-description.text-property.ts"
+ import type { CalendarEventEndAt } from "./properties/calendar-event-end-at.instant-property.ts"
+ import type { CalendarEventExternalId } from "./properties/calendar-event-external-id.text-property.ts"
+ import type { CalendarEventExternalLink } from "./properties/calendar-event-external-link.url-property.ts"
+@@ -13,6 +12,7 @@ import type { CalendarEventMaxAttendees } from "./properties/calendar-event-max-
+ import type { CalendarEventRegistrationOpensAt } from "./properties/calendar-event-registration-opens-at.instant-property.ts"
+ import type { CalendarEventRegistrationRequired } from "./properties/calendar-event-registration-required.boolean-property.ts"
+ import type { CalendarEventRegistrationUrl } from "./properties/calendar-event-registration-url.url-property.ts"
++import type { CalendarEventDescription } from "./properties/calendar-event-source-description.text-property.ts"
+ import type { CalendarEventStartAt } from "./properties/calendar-event-start-at.instant-property.ts"
+ import type { CalendarEventTags } from "./properties/calendar-event-tags.text-property.ts"
+ import type { CalendarEventTypes } from "./properties/calendar-event-types.text-property.ts"
+@@ -51,7 +51,7 @@ export const calendarEvent = {
+     "instant-property/calendar-event-start-at",
+     "number-property/calendar-event-max-attendees",
+     "text-property/calendar-event-age-groups",
+-    "text-property/calendar-event-description",
++    "text-property/calendar-event-source-description",
+     "text-property/calendar-event-external-id",
+     "text-property/calendar-event-location",
+     "text-property/calendar-event-tags",
+@@ -68,7 +68,11 @@ export const calendarEvent = {
+     { pagePropertySlug: "instant-property/calendar-event-end-at", required: false, many: false },
+     { pagePropertySlug: "boolean-property/calendar-event-all-day", required: false, many: false },
+     { pagePropertySlug: "text-property/calendar-event-location", required: false, many: false },
+-    { pagePropertySlug: "text-property/calendar-event-description", required: false, many: false },
++    {
++      pagePropertySlug: "text-property/calendar-event-source-description",
++      required: false,
++      many: false,
++    },
+     {
+       pagePropertySlug: "text-property/calendar-event-types",
+       required: false,
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts
+deleted file mode 100644
+index d1640de9d342086761380db4d45411a10c50abdf..0000000000000000000000000000000000000000
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type CalendarEventDescription = string
+-
+-export const calendarEventDescription = {
+-  id: "01a06868-aec4-7e8a-a135-d98b1ca87d62",
+-  pageTypeSlug: "text-property",
+-  slug: "calendar-event-description",
+-  propertySlug: "source-description",
+-  definition: "what a source says an event is",
+-  maxLength: 6000,
+-  nameFormatSlug: null,
+-} as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-source-description.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-source-description.text-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e05d0f436b17a51a7a1c6ec03676c52e3982f3de
+--- /dev/null
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-source-description.text-property.ts
+@@ -0,0 +1,13 @@
++import type { TextProperty } from "@akasha/pages/text-property"
++
++export type CalendarEventDescription = string
++
++export const calendarEventSourceDescription = {
++  id: "01a06868-aec4-7e8a-a135-d98b1ca87d62",
++  pageTypeSlug: "text-property",
++  slug: "calendar-event-source-description",
++  propertySlug: "source-description",
++  definition: "what a source says an event is",
++  maxLength: 6000,
++  nameFormatSlug: null,
++} as const satisfies TextProperty
