@@ -32,9 +32,11 @@ import {
   GOING,
   HELD_ASSIGNMENT,
   HELD_ID,
+  handedPaths,
   heldInHistory,
   heldUnder,
   idIn,
+  keptUnder,
   LOCKED,
   landedAt,
   landedUnder,
@@ -49,6 +51,7 @@ import {
   SEAT_ID,
   seated,
   stampOpening,
+  underSeat,
   WENT,
   whyIn,
 } from "./subagent-presence.module.test-fixtures.ts"
@@ -169,72 +172,64 @@ test("a page that is no seat names no seat", () => {
 })
 
 test("a page is landed by a program, its commit saying no check ran", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
     expect(landedAt(root, OWN)).toContain('dispatchedAs: "Explore"')
     expect(messageIn(root)).toContain(MECHANICAL)
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a page that landed states the agent id the subagent acts under", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
     expect(landedAt(root, OWN)).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a page already there is left as it is", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
     const held = gitIn(root, ["rev-parse", "HEAD"])
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
     expect(gitIn(root, ["rev-parse", "HEAD"])).toBe(held)
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a seat stating no assignment writes nothing and says which seat and why", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     const went = await wrote(root, "thea", SEAT_ID, OWN, "Explore")
     expect(whyIn(went)).toContain("thea")
     expect(whyIn(went)).toContain("no assignment is stated")
     expect(whyIn(went)).toContain(pathOf(slugOf("thea", OWN)))
     expect(existsSync(join(root, pathOf(slugOf("thea", OWN))))).toBe(false)
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a page taken away goes, and the commit says a program took it", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     await wrote(root, "akasha", SEAT_ID, OWN, "Explore")
     expect(await took(root, "akasha", OWN)).toEqual(WENT)
     expect(existsSync(join(root, pathOf(slugOf("akasha", OWN))))).toBe(false)
     expect(messageIn(root)).toContain(MECHANICAL)
+  })
+})
+
+test("a subagent stopping hands the edits it kept to the seat that dispatched it", async () => {
+  const world = scratchWorld()
+  try {
+    const root = seated(world.rootFor("subagent-presence-"))
+    const slug = slugOf("akasha", OWN)
+    await wrote(root, "akasha", SEAT_ID, OWN, "Explore")
+    keptUnder(root, slug, "one.md")
+    expect(await took(root, "akasha", OWN)).toEqual(WENT)
+    expect(handedPaths(root, "akasha", slug)).toEqual(["one.md"])
   } finally {
     world.sweep()
   }
 })
 
 test("a page taken away is forgotten by whoever read it", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     await wrote(root, "akasha", SEAT_ID, OWN, "Explore")
     const at = pathOf(slugOf("akasha", OWN))
     const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, at), "utf8")))
@@ -242,39 +237,27 @@ test("a page taken away is forgotten by whoever read it", async () => {
     expect(readingIn(root, AGENT, at)).not.toBe(null)
     expect(await took(root, "akasha", OWN)).toEqual(WENT)
     expect(readingIn(root, AGENT, at)).toBe(null)
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a page that is not there is taken away by doing nothing", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     const held = gitIn(root, ["rev-parse", "HEAD"])
     expect(await took(root, "akasha", OWN)).toEqual(WENT)
     expect(gitIn(root, ["rev-parse", "HEAD"])).toBe(held)
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a subagent whose page is in history takes up that page rather than a new one", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     heldInHistory(root, OWN, agentIdOf(SEAT_ID, OWN), "Explore")
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
     expect(idIn(landedAt(root, OWN))).toBe(HELD_ID)
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a page taken up keeps the kind it carried and takes its seat's assignment", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     heldInHistory(root, OWN, agentIdOf(SEAT_ID, OWN), "Explore")
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
     const landed = landedAt(root, OWN)
@@ -282,80 +265,58 @@ test("a page taken up keeps the kind it carried and takes its seat's assignment"
     expect(landed).toContain('assignmentSlug: "domain/akasha-system"')
     expect(landed).not.toContain(HELD_ASSIGNMENT)
     expect(landed).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a page taken up under a seat stating no assignment takes history's", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     heldUnder(root, "thea", OWN, agentIdOf(SEAT_ID, OWN), "Explore")
     expect(await wrote(root, "thea", SEAT_ID, OWN, "Task")).toEqual(WENT)
     expect(landedUnder(root, "thea", OWN)).toContain(
       `assignmentSlug: ${JSON.stringify(HELD_ASSIGNMENT)}`
     )
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a subagent with no page in history has one composed as before", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
     const landed = landedAt(root, OWN)
     expect(idIn(landed)).toBe(null)
     expect(landed).toContain('dispatchedAs: "Task"')
     expect(landed).toContain('assignmentSlug: "domain/akasha-system"')
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a page in history under another agent id is composed afresh", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     heldInHistory(root, OWN, agentIdOf(ANOTHER, OWN), "Explore")
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
     const landed = landedAt(root, OWN)
     expect(idIn(landed)).toBe(null)
     expect(landed).toContain('dispatchedAs: "Task"')
     expect(landed).toContain('assignmentSlug: "domain/akasha-system"')
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("the commit says whether the page was taken up or composed", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
     expect(messageIn(root)).toContain("a subagent states the agent id it acts under")
     heldInHistory(root, AGAIN, agentIdOf(SEAT_ID, AGAIN), "Explore")
     expect(await wrote(root, "akasha", SEAT_ID, AGAIN, "Explore")).toEqual(WENT)
     expect(messageIn(root)).toContain("a subagent resuming takes up the page it had")
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a page put up and taken down comes back with the id it had", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
+  await underSeat(async (root) => {
     heldInHistory(root, OWN, agentIdOf(SEAT_ID, OWN), "Explore")
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
     expect(await took(root, "akasha", OWN)).toEqual(WENT)
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
     expect(idIn(landedAt(root, OWN))).toBe(HELD_ID)
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a write the seat's assignment refuses leaves its reason in the log", async () => {

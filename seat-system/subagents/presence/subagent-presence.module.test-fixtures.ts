@@ -1,10 +1,15 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
-import { bodyOf, pathOf, slugOf, type Went } from "./subagent-presence.module.code.ts"
+import {
+  handedIn,
+  keptEdits,
+} from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { bodyOf, pathOf, seatPathOf, slugOf, type Went } from "./subagent-presence.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
@@ -53,6 +58,15 @@ export function seated(root: string): string {
   return root
 }
 
+export async function underSeat(act: (root: string) => Promise<void>): Promise<undefined> {
+  const world = scratchWorld()
+  try {
+    await act(seated(world.rootFor("subagent-presence-")))
+  } finally {
+    world.sweep()
+  }
+}
+
 export function messageIn(root: string): string {
   return gitIn(root, ["log", "-1", "--pretty=%B"])
 }
@@ -75,8 +89,6 @@ export async function loggedAt(at: string, within: number): Promise<string> {
 
 export const STAMP = /^(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}[+-]\d{2}:\d{2}) /
 
-// WHAT THE LINE SAYS ITS TIME WAS, or nothing where the line opens with no time. Read here rather
-// than in the test so the seeded control and the assertion ask one question.
 export function stampOpening(line: string): Date | null {
   const read = STAMP.exec(line)
   if (read === null) return null
@@ -100,10 +112,15 @@ export function landedAt(root: string, own: string): string {
   return landedUnder(root, "akasha", own)
 }
 
-// THE PAGE A SUBAGENT HAD, PUT INTO THE HISTORY AND TAKEN OFF THE DISK, which is what a seat's
-// working tree holds after a subagent stops. The body is composed by the module under test rather
-// than spelled again, so what a resume reads back is what a put-up wrote. The seat is named because
-// a seat stating no assignment is the one case where history answers for the assignment.
+export function keptUnder(root: string, slug: string, at: string): undefined {
+  keptEdits(root, pathOf(slug), () => [{ path: at, was: null, body: at }])
+}
+
+export function handedPaths(root: string, seatName: string, slug: string): readonly string[] {
+  const held = handedIn(root, seatPathOf(seatName), slug)
+  return "why" in held ? [held.why] : held.rows.map((one) => one.path)
+}
+
 export function heldUnder(
   root: string,
   seatName: string,
@@ -132,9 +149,6 @@ export const LOCKED: Went = {
 
 export const REFUSED: Went = { why: "no assignment is stated for the akasha seat" }
 
-// A COUNTING ASK BESIDE A WAIT THAT DOES NOT WAIT. The answers are given in the order they are
-// written and the last is given again for every ask past that list, so a test seeds a run of
-// refusals and reads how many asks it took without a test ever sleeping.
 export function counting(answers: readonly Went[]): {
   readonly ask: () => Promise<Went>
   readonly waited: (ms: number) => Promise<void>
