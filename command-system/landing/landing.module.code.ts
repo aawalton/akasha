@@ -2,6 +2,7 @@ import { existsSync, mkdirSync, renameSync, rmSync, writeFileSync } from "node:f
 import { dirname, join } from "node:path"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { textIn, textOf } from "@akasha/code/body-text"
+import { gitIgnoring } from "@akasha/git/git-pathspec"
 import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages/change"
 import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts"
@@ -133,6 +134,24 @@ function wroteOnto(
     wrote.push(one.path)
   }
   return { wrote, took }
+}
+
+function heldBack(
+  root: string,
+  changed: readonly FileEdit[]
+): {
+  readonly committing: readonly FileEdit[]
+  readonly uncommitted: readonly FileEdit[]
+} {
+  const ignored = gitIgnoring(
+    root,
+    changed.map((one) => one.path)
+  )
+  if (ignored === null || ignored.size === 0) return { committing: changed, uncommitted: [] }
+  return {
+    committing: changed.filter((one) => !ignored.has(one.path)),
+    uncommitted: changed.filter((one) => ignored.has(one.path)),
+  }
 }
 
 function beforeOf(
@@ -429,11 +448,13 @@ export async function landing(
     const before = beforeOf(root, base, changes)
     const keeping = indexingLoaded()
     try {
-      const put = wroteOnto(root, changes)
+      const split = heldBack(root, changes)
+      const put = wroteOnto(root, split.committing)
       const noted = indexed(root, changes, before, keeping)
       const back = carriedOnto(root, carries)
       try {
         const commit = committed(root, put.wrote, put.took, message, writer)
+        wroteOnto(root, split.uncommitted)
         const gone = [...put.took, ...carries.map((one) => one.from)]
         const cleared = clearedOff(root, gone)
         return { base, commit, wrote: put.wrote, took: put.took, noted, cleared }

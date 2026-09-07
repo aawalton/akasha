@@ -101,6 +101,26 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "A change may carry a path the repository ignores.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the repository ignores is written onto the tree rather than committed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the repository ignores is written after the commit lands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that throws writes no path the repository ignores.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the repository ignores is answered as neither written nor taken.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder left holding nothing by a path taken away is cleared off the disk.",
     },
     {
