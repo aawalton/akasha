@@ -1,0 +1,39 @@
+diff --git a/domains/findings/pages/a-capacitor-manifest-cannot-name-the-plugins-it-installs.finding.ts b/domains/findings/pages/a-capacitor-manifest-cannot-name-the-plugins-it-installs.finding.ts
+index 2a68624287cec151e8084d06dc6fb52cdbdd6614..60ea8382658fcec1b8573b1963c90dbf4c136e6f 100644
+--- a/domains/findings/pages/a-capacitor-manifest-cannot-name-the-plugins-it-installs.finding.ts
++++ b/domains/findings/pages/a-capacitor-manifest-cannot-name-the-plugins-it-installs.finding.ts
+@@ -4,7 +4,7 @@ export const aCapacitorManifestCannotNameThePluginsItInstalls = {
+   id: "01a0657e-994b-7691-a021-58c3ded0198a",
+   pageTypeSlug: "finding",
+   slug: "a-capacitor-manifest-cannot-name-the-plugins-it-installs",
+-  domainSlug: "domain/code",
++  domainSlug: "workspace-package/code-system",
+   claim:
+     "`manifest-names-what-is-reached` refuses every Capacitor dependency a shell package names, because nothing in such a package imports them: `cap sync` reads them from the manifest. atlas landed with its dependency block removed to get in at all, and the block is held here so it is not lost.",
+   evidence:
+diff --git a/domains/findings/pages/a-refusal-explains-itself-by-a-fact-the-day-migration-turns.finding.ts b/domains/findings/pages/a-refusal-explains-itself-by-a-fact-the-day-migration-turns.finding.ts
+index 339c337da79fe857ba7e7bce5c8b2d3f2859f98c..cfd227f9c5f781371493b39a9cb2a4cec03395b0 100644
+--- a/domains/findings/pages/a-refusal-explains-itself-by-a-fact-the-day-migration-turns.finding.ts
++++ b/domains/findings/pages/a-refusal-explains-itself-by-a-fact-the-day-migration-turns.finding.ts
+@@ -4,7 +4,7 @@ export const aRefusalExplainsItselfByAFactTheDayMigrationTurns = {
+   id: "01a0608f-82c2-7f86-a40d-fc9823ddec7f",
+   pageTypeSlug: "finding",
+   slug: "a-refusal-explains-itself-by-a-fact-the-day-migration-turns",
+-  domainSlug: "domain/code",
++  domainSlug: "workspace-package/code-system",
+ 
+   claim:
+     "A refusal or a comment under `akasha/` that explains itself by where a day is kept goes false when `MIGRATED_DAYS` turns while the code it explains stays right, so the next reader repairs the wrong thing. Two were corrected at `b208cd373a`. Three more carry the same idiom word for word over page types this flip does not move, so the shape recurs once per migration rather than once. A cheap check catches that idiom and nothing else in the class.",
+diff --git a/domains/findings/pages/the-shared-ios-scripts-folder-was-renamed-and-four-scripts-still-name-the-old-one.finding.ts b/domains/findings/pages/the-shared-ios-scripts-folder-was-renamed-and-four-scripts-still-name-the-old-one.finding.ts
+index eddc53b7e47b0dd27af9d0506a763f246c004b3e..d2099f77946206c5744cb6d59ef4efedeaead55e 100644
+--- a/domains/findings/pages/the-shared-ios-scripts-folder-was-renamed-and-four-scripts-still-name-the-old-one.finding.ts
++++ b/domains/findings/pages/the-shared-ios-scripts-folder-was-renamed-and-four-scripts-still-name-the-old-one.finding.ts
+@@ -4,7 +4,7 @@ export const theSharedIosScriptsFolderWasRenamedAndFourScriptsStillNameTheOldOne
+   id: "01a0657e-994b-72c0-bd83-4bb8c304ed8b",
+   pageTypeSlug: "finding",
+   slug: "the-shared-ios-scripts-folder-was-renamed-and-four-scripts-still-name-the-old-one",
+-  domainSlug: "domain/code",
++  domainSlug: "workspace-package/code-system",
+   claim:
+     "The shared iOS scripts folder is `akasha/code-system/ios-apps/scripts`, and four shell scripts across alanwalton and smilingjenny still resolve it as `shell-scripts`, a folder that is not there. Each one exits on its own guard, so neither app can run its seam or its add. A rename repointed the TypeScript importers and reached no shell script.",
+   evidence:
