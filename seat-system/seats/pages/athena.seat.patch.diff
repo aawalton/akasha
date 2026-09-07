@@ -1336,7 +1336,7 @@ index 0000000000000000000000000000000000000000..e0823d543b43f32d0df8a0c3fab5469f
 +})
 diff --git a/inference/clients/riff-bytes/riff-bytes.module.ts b/inference/clients/riff-bytes/riff-bytes.module.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..af430ce4625728962861930ad893c06a5185b53a
+index 0000000000000000000000000000000000000000..b5c1c3c9e407adba4aacdf7f28f5fd99187f3c6c
 --- /dev/null
 +++ b/inference/clients/riff-bytes/riff-bytes.module.ts
 @@ -0,0 +1,24 @@
@@ -1360,7 +1360,7 @@ index 0000000000000000000000000000000000000000..af430ce4625728962861930ad893c06a
 +    },
 +    {
 +      invariantKind: "absence",
-+      statement: "Nothing here reads what a payload holds past its header.",
++      statement: "Nothing here reads the sound a payload holds past its header.",
 +    },
 +  ],
 +} as const satisfies Module
