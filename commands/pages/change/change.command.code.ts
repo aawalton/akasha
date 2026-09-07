@@ -310,9 +310,7 @@ export function droppedIn(said: string): readonly string[] | string {
 
 export function droppedPathsIn(piping: Piping): readonly string[] | string {
   const held = piping()
-  if ("tty" in held) return BARE
-  if ("unreadable" in held) return `the arguments would not open: ${held.unreadable}`
-  if (held.bytes.byteLength === 0) return BARE
+  if (!("bytes" in held) || held.bytes.byteLength === 0) return BARE
   return droppedIn(new TextDecoder().decode(held.bytes))
 }
 
