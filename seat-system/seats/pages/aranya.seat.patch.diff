@@ -1,0 +1,16 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+index 1a14ad24ca9b816c15ed83ef74adbee267bf120d..da69c53031480f96b4decea9bfa8b7b8de345e41 100644
+--- a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
++++ b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+@@ -27,5 +27,10 @@ export const aranyaClusterCleanup = {
+       workingMemory:
+         "`openingWith` refuses a folder whose name equals or opens with the name of the page above it, so `cluster-manifests`, `cluster-operations` and `cluster-services` lose the prefix as each moves under `cluster/`. `api` and `provisioning` already have. Folder names only; slugs and npm names are untouched. An earlier run also failed on `tunnel-routes.ts`, `nodes.json`, an undeclared `cluster-secrets` and two domain pages in `cluster/provisioning`. Those counts are re-run rather than kept.",
+     },
++    {
++      statement: "The workflow language and its templates sit in cluster/workflow/.",
++      workingMemory:
++        "Both sit under `changes/` now, beside a change system they are no part of. `workflow-cloudflared.workflow-template.declaration.ts:138` runs jq over `infrastructure/cluster-operations/nodes.json` selecting `.hostname`, and those records carry `id`, `host`, `user` and `keyPath` and no `hostname`, so that step adds no DNS record at all. The move carries that reader with it, and fixing the field is part of the move rather than a separate errand.",
++    },
+   ],
+ } as const satisfies Initiative
