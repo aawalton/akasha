@@ -75,6 +75,7 @@ SNAPSHOT_REF=refs/heads/mirror-root
 
 # GIT_TERMINAL_PROMPT=0 turns a missing or rejected credential into an
 # immediate failure instead of a read on a /dev/tty that is not there.
+# shellcheck disable=SC2016
 CREDENTIAL_HELPER='!f() { echo username=x-access-token; echo "password=$GITHUB_ACCESS_TOKEN"; }; f'
 export GIT_TERMINAL_PROMPT=0
 export GIT_AUTHOR_NAME="${GIT_AUTHOR_NAME:-git-transport}"
