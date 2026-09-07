@@ -1,0 +1,52 @@
+import type { Module } from "@akasha/code/module"
+
+export const pageKnowing = {
+  id: "01a0795c-c0d5-7580-afd1-7b86083ef2dd",
+  pageTypeSlug: "module",
+  slug: "page-knowing",
+  definition: "the page a world's index answers at a path, and the pages that page's keys name",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A path reading as no page file names no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path carrying a section beside the page's own names no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the index files no page at names no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The world is read rather than the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index that will not answer is refused with the reason rather than thrown.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller reading a page is handed the shape the index knows that page by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages a key names are read from the property the key reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key reaching no property names no page.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here works out a body.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here decides whether a page may be acted on.",
+    },
+  ],
+} as const satisfies Module

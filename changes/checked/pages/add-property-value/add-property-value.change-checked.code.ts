@@ -1,11 +1,8 @@
 import { reaches } from "@akasha/indexes/reaching"
-import {
-  readFor,
-  targetsIn,
-} from "../../../mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.code.ts"
 import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { readFor, targetsIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
 const ADD_PROPERTY_VALUE = "change-mechanical/add-property-value"
 

@@ -1,6 +1,5 @@
 import { dirname, relative } from "node:path"
 import { partedIn } from "@akasha/pages/page-file-name"
-import type { Value } from "@akasha/pages/page-value"
 import { typedAs } from "../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { importNotLeftHanging } from "../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
@@ -18,6 +17,7 @@ import {
   worldOver,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
+import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
 const GUARDS = [importNotLeftHanging]
 
@@ -34,12 +34,6 @@ const TO = "to"
 export type ChangePagePageTypeAsked = {
   readonly at: string
   readonly to: string
-}
-
-function pageIn(world: World, at: string): Value | null {
-  const said = partedIn(at)
-  if (said === null || said.sections.length > 0) return null
-  return world.index.pageAt(said.pageType, said.slug)
 }
 
 function specifierFor(dir: string, target: string): string {

@@ -1,0 +1,31 @@
+import { eachTarget, type Shaped } from "@akasha/indexes/reaching"
+import { partedIn } from "@akasha/pages/page-file-name"
+import type { Value } from "@akasha/pages/page-value"
+import type { World } from "../change-shadow/change-shadow.module.code.ts"
+
+export type Read = { readonly known: Shaped; readonly value: Value } | { readonly refused: string }
+
+export function pageIn(world: World, at: string): Value | null {
+  const said = partedIn(at)
+  if (said === null || said.sections.length > 0) return null
+  return world.index.pageAt(said.pageType, said.slug)
+}
+
+export function targetsIn(known: Shaped, value: Value, key: string): readonly string[] {
+  const slug = known.slugOfKeyIn(value, key)
+  return slug === null ? [] : eachTarget(known.targetOf(slug))
+}
+
+export function readFor(world: World, at: string): Read {
+  let known: Shaped
+  let value: Value | null
+  try {
+    known = world.index.knownIn()
+    value = pageIn(world, at)
+  } catch (cause) {
+    const why = cause instanceof Error ? cause.message : String(cause)
+    return { refused: `${why}, so \`${at}\` was not read` }
+  }
+  if (value === null) return { refused: `\`${at}\` names no page` }
+  return { known, value }
+}

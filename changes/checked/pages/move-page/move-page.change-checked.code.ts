@@ -1,6 +1,4 @@
 import { dirname, join, relative } from "node:path"
-import { partedIn } from "@akasha/pages/page-file-name"
-import type { Value } from "@akasha/pages/page-value"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { importNotLeftHanging } from "../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
 import {
@@ -12,6 +10,7 @@ import type { Answer, Edit } from "../../../modules/change-answer/change-answer.
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
+import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
 const GUARDS = [importNotLeftHanging]
 
@@ -29,12 +28,6 @@ export type MovePageAsked = {
 }
 
 type Moved = { readonly moved: ReadonlyMap<string, string> } | { readonly refused: string }
-
-function pageIn(world: World, at: string): Value | null {
-  const said = partedIn(at)
-  if (said === null || said.sections.length > 0) return null
-  return world.index.pageAt(said.pageType, said.slug)
-}
 
 function movedInto(world: World, at: string, to: string, beside: readonly string[]): Moved {
   const from = dirname(at)

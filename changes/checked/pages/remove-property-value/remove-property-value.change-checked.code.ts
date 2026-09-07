@@ -1,7 +1,7 @@
-import { readFor } from "../../../mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.code.ts"
 import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { readFor } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
 const REMOVE_PROPERTY_VALUE = "change-mechanical/remove-property-value"
 
