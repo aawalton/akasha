@@ -1,0 +1,17 @@
+diff --git a/seat-system/supervisor-log-path/supervisor-log-path.module.ts b/seat-system/supervisor-log-path/supervisor-log-path.module.ts
+index 5f5eabdcc452cb5c55bcbd35919719c2ac7537e6..5ffcf864475a08e81e6001d4cf0f8b14a047faf5 100644
+--- a/seat-system/supervisor-log-path/supervisor-log-path.module.ts
++++ b/seat-system/supervisor-log-path/supervisor-log-path.module.ts
+@@ -22,7 +22,11 @@ export const supervisorLogPath = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may name another base folder, as a test standing aside does.",
++      statement: "A caller may name another base folder.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A test working apart from the real folder names another base folder.",
+     },
+     {
+       invariantKind: "absence",
