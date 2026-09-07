@@ -13,5 +13,8 @@
     "./data-encode-self-test": "./data-encode-self-test/data-encode-self-test.module.code.ts",
     "./data-encode-types": "./data-encode-types/data-encode-types.module.code.ts",
     "./data-encode-entry": "./data-encode-entry/data-encode-entry.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/code-system": "workspace:@akasha/code@*"
   }
 }

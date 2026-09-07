@@ -17,7 +17,7 @@ export const dataEncodeEncoder = {
     },
     {
       invariantKind: "departure",
-      statement: "A table whose keys run one upward with no gaps is written as an array.",
+      statement: "A table whose keys start at 1 and rise with no gaps is written as an array.",
     },
     {
       invariantKind: "departure",

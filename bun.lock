@@ -2380,6 +2380,9 @@
     },
     "temper/temper-lib-data-encode": {
       "name": "@akasha/temper-lib-data-encode",
+      "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
+      },
     },
     "temper/temper-lib-debug-logger": {
       "name": "@akasha/temper-lib-debug-logger",
