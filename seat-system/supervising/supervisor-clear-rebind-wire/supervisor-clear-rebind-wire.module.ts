@@ -9,7 +9,11 @@ export const supervisorClearRebindWire = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rotation is claimed once, so two watchers cannot rebind onto the same session.",
+      statement: "A rotation is claimed once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two watchers cannot rebind onto one session.",
     },
     {
       invariantKind: "departure",
