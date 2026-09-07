@@ -1,0 +1,13 @@
+writerOwesReading: false
+diff --git a/changes/checked/pages/drop-package-alias/drop-package-alias.change-checked.code.ts b/changes/checked/pages/drop-package-alias/drop-package-alias.change-checked.code.ts
+index 21f0a2b9aa11b84604609195e9a4919d8d6351fc..22767ebe316993e0bc30ef19c0e909700f6e39d9 100644
+--- a/changes/checked/pages/drop-package-alias/drop-package-alias.change-checked.code.ts
++++ b/changes/checked/pages/drop-package-alias/drop-package-alias.change-checked.code.ts
+@@ -33,7 +33,6 @@ export type DropPackageAliasAsked = {
+ }
+ 
+ export function aliasedTo(held: ts.ObjectLiteralExpression, was: string, to: string): boolean {
+-  if (was !== "") return false
+   for (const one of held.properties) {
+     if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
+     if (one.name.text !== was) continue
