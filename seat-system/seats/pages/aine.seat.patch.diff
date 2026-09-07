@@ -1,0 +1,53 @@
+writerOwesReading: false
+diff --git a/changes/authored/pages/add-file/add-file.change-authored.code.ts b/changes/authored/pages/add-file/add-file.change-authored.code.ts
+index 69167a2b5f71fd3ff4a888862236f517bc96e6d6..dddc4872f0b8ee8d2e67c1cc3a7ae12ff18f0acb 100644
+--- a/changes/authored/pages/add-file/add-file.change-authored.code.ts
++++ b/changes/authored/pages/add-file/add-file.change-authored.code.ts
+@@ -1,4 +1,5 @@
+ import { extname } from "node:path"
++import { pageNamed } from "@akasha/pages/page-file-name"
+ import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+ import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+@@ -11,8 +12,15 @@ const ADD_FILE = "change-mechanical/add-file"
+ 
+ const ADD_CODE_FILE = "change-mechanical/add-code-file"
+ 
++const ADD_PAGE_FILE = "change-mechanical/add-page-file"
++
+ const CODE = new Set([".ts", ".tsx"])
+ 
++function addressFor(world: World, at: string): string {
++  if (pageNamed(at, world.index.pageTypesIn())) return ADD_PAGE_FILE
++  return CODE.has(extname(at)) ? ADD_CODE_FILE : ADD_FILE
++}
++
+ export type Asked = Readonly<Record<string, string>>
+ 
+ export async function addFileCommand(world: World, given: Asked): Promise<Answer> {
+@@ -20,7 +28,7 @@ export async function addFileCommand(world: World, given: Asked): Promise<Answer
+   if (at === undefined) return refusing(missing(AT))
+   const body = given[BODY]
+   if (body === undefined) return refusing(missing(BODY))
+-  return await reach(world, CODE.has(extname(at)) ? ADD_CODE_FILE : ADD_FILE, { at, body })
++  return await reach(world, addressFor(world, at), { at, body })
+ }
+ 
+ export async function runChange(world: World, given: Asked): Promise<Answer> {
+diff --git a/changes/authored/pages/add-file/add-file.change-authored.ts b/changes/authored/pages/add-file/add-file.change-authored.ts
+index 1f4e7a03ed5e0106c6ad3d3c011021f9db05529f..f0101c2eaa298cbfddce26009b1e237fac05bfec 100644
+--- a/changes/authored/pages/add-file/add-file.change-authored.ts
++++ b/changes/authored/pages/add-file/add-file.change-authored.ts
+@@ -21,7 +21,11 @@ export const addFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A path under a TypeScript name is written by the change judging imports.",
++      statement: "A path under a page name is written by the change judging the pages named.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every other TypeScript path is written by the change judging the imports named.",
+     },
+     {
+       invariantKind: "departure",
