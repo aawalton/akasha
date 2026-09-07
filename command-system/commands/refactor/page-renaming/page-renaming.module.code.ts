@@ -2,6 +2,7 @@ import { listedAt } from "@akasha/indexes"
 import { renamePage } from "../../../../changes/checked/pages/rename-page/rename-page.change-checked.code.ts"
 import type { Edit } from "../../../../changes/modules/change-answer/change-answer.module.types.ts"
 import { worldAt } from "../../../../changes/modules/change-shadow/change-shadow.module.code.ts"
+import { runAt } from "../../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
 import { counted } from "../../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../calling/calling.module.code.ts"
 import { answering } from "../../../calling/calling.module.code.ts"
@@ -22,8 +23,6 @@ export function saidUnder(
   return said
 }
 
-// A change answers one list of edits, and a landing takes the paths that moved apart from the
-// bodies written, so the one list is read out here as the two maps a landing takes.
 export function movedIn(edits: readonly Edit[]): ReadonlyMap<string, string> {
   const said = new Map<string, string>()
   for (const one of edits) {
@@ -67,8 +66,8 @@ export async function pageLanded(
   if ("refused" in asked) return answering([], [asked.refused], 1)
   const was = asked.pair.was
   const at = asked.pair.from
-  const world = worldAt(root, bodyTextOf(root, baseOf(root)))
-  const renamed = renamePage(world, plural === undefined ? { at, to } : { at, to, plural })
+  const world = worldAt(root, bodyTextOf(root, baseOf(root)), runAt)
+  const renamed = await renamePage(world, plural === undefined ? { at, to } : { at, to, plural })
   if (renamed.refused !== null) return answering([], [renamed.refused], 1)
   const moved = movedIn(renamed.edits)
   const said = saidUnder(moved, bodiesIn(renamed.edits))

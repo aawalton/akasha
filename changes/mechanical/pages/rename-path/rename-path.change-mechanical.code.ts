@@ -1,33 +1,42 @@
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { answered, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { repointed } from "../repoint-imports/repoint-imports.change-mechanical.code.ts"
+import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+
+const REPOINT_IMPORTS = "change-mechanical/repoint-imports"
 
 export type RenamePathAsked = {
   readonly from: string
   readonly to: string
 }
 
-export function renamePath(world: World, given: RenamePathAsked): Answer {
+export async function renamePath(world: World, given: RenamePathAsked): Promise<Answer> {
   if (given.from === given.to) return refusing(`\`${given.to}\` is the path it already sits at`)
   const text = world.textOf(given.from)
   if (text === null) return refusing(`\`${given.from}\` could not be read`)
   if (world.textOf(given.to) !== null) return refusing(`\`${given.to}\` is a body already`)
-  const moved = new Map([[given.from, given.to]])
-  const reading = importingOf(world.index, moved)
+  const moved = { [given.from]: given.to }
+  const reading = importingOf(world.index, new Map(Object.entries(moved)))
   if ("unread" in reading) return refusing(reading.unread)
-  const edits: Edit[] = [...repointed(given.from, given.to, text, moved).edits]
+  const carried = await reach(world, REPOINT_IMPORTS, {
+    was: given.from,
+    now: given.to,
+    moved,
+  })
+  if (carried.refused !== null) return carried
+  const edits: Edit[] = [...carried.edits]
   for (const path of reading.importers) {
     const held = world.textOf(path)
     if (held === null) return refusing(`\`${path}\` names what moved and could not be read`)
-    for (const one of repointed(path, path, held, moved).edits) {
+    const said = await reach(world, REPOINT_IMPORTS, { was: path, now: path, moved })
+    if (said.refused !== null) return said
+    for (const one of said.edits) {
       if (one.body !== held) edits.push(one)
     }
   }
   return answered(edits)
 }
 
-export function runChange(world: World, given: RenamePathAsked): Answer {
-  return renamePath(world, given)
+export async function runChange(world: World, given: RenamePathAsked): Promise<Answer> {
+  return await renamePath(world, given)
 }

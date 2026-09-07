@@ -4,8 +4,6 @@ import { besideAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import { folderFor } from "../../../../pages/service/page-composing/page-composing.module.code.ts"
 import { statedIn } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
-import { renameSlug } from "../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts"
-import { renamePath } from "../../../mechanical/pages/rename-path/rename-path.change-mechanical.code.ts"
 import {
   answered,
   gathered,
@@ -13,7 +11,15 @@ import {
   refusing,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { type World, worldOver } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  reach,
+  type World,
+  worldOver,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+
+const RENAME_PAGE_SLUG = "change-mechanical/rename-page-slug"
+
+const RENAME_PATH = "change-mechanical/rename-path"
 
 const TYPED = ".ts"
 
@@ -120,7 +126,7 @@ function landingIn(
   return join(dirname(folder), folderFor(pluralIn(world, held), held.pageTypeSlug, given.to), name)
 }
 
-export function renamePage(world: World, given: RenamePageAsked): Answer {
+export async function renamePage(world: World, given: RenamePageAsked): Promise<Answer> {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const read = readIn(given.at, text)
@@ -146,7 +152,11 @@ export function renamePage(world: World, given: RenamePageAsked): Answer {
     if (given.plural !== undefined) return refusing(`${carries}, so no plural is restated`)
     if (lands === given.at) return refusing(`${carries}, in the folder that slug names`)
   } else {
-    const said = renameSlug(seen, { at: given.at, to: given.to, plural: given.plural })
+    const said = await reach(seen, RENAME_PAGE_SLUG, {
+      at: given.at,
+      to: given.to,
+      plural: given.plural,
+    })
     if (said.refused !== null) return said
     answers.push(said)
     folded = gathered(answers)
@@ -154,7 +164,7 @@ export function renamePage(world: World, given: RenamePageAsked): Answer {
     seen = worldOver(world, folded)
   }
   for (const one of [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]) {
-    const carried = renamePath(seen, one)
+    const carried = await reach(seen, RENAME_PATH, one)
     if (carried.refused !== null) return carried
     answers.push(carried)
     folded = gathered(answers)
@@ -166,11 +176,11 @@ export function renamePage(world: World, given: RenamePageAsked): Answer {
 
 export type Asked = Readonly<Record<string, string>>
 
-export function runChange(world: World, given: Asked): Answer {
+export async function runChange(world: World, given: Asked): Promise<Answer> {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
   const to = given[TO]
   if (to === undefined) return refusing(missing(TO))
   const plural = given[PLURAL]
-  return renamePage(world, plural === undefined ? { at, to } : { at, to, plural })
+  return await renamePage(world, plural === undefined ? { at, to } : { at, to, plural })
 }

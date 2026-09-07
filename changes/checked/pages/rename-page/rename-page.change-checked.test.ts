@@ -12,8 +12,18 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
+import { runChange as changePageProperty } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
+import { runChange as renamePageSlug } from "../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts"
+import { runChange as renamePathChange } from "../../../mechanical/pages/rename-path/rename-path.change-mechanical.code.ts"
+import { runChange as repointImports } from "../../../mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
+import { runChange as respellExport } from "../../../mechanical/pages/respell-export/respell-export.change-mechanical.code.ts"
+import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  type Reaching,
+  type World,
+  worldAt,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { renamePage } from "./rename-page.change-checked.code.ts"
 
 afterAll(scratch.sweep)
@@ -48,6 +58,29 @@ const saying =
 const statedAs = (value: Record<string, unknown>, named: string): string =>
   bodyOf(value).replace("export const it", `export const ${named}`)
 
+const RUNS: Reaching = async (world, at, given) => {
+  if (at === "change-mechanical/rename-page-slug") {
+    return await renamePageSlug(world, given as Parameters<typeof renamePageSlug>[1])
+  }
+  if (at === "change-mechanical/rename-path") {
+    return await renamePathChange(world, given as Parameters<typeof renamePathChange>[1])
+  }
+  if (at === "change-mechanical/change-page-property") {
+    return changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+  }
+  if (at === "change-mechanical/respell-export") {
+    return respellExport(world, given as Parameters<typeof respellExport>[1])
+  }
+  if (at === "change-mechanical/repoint-imports") {
+    return repointImports(world, given as Parameters<typeof repointImports>[1])
+  }
+  return refusing(`\`${at}\` is reached by nothing here`)
+}
+
+function worldIn(root: string, textOf: (path: string) => string | null): World {
+  return worldAt(root, textOf, RUNS)
+}
+
 function movesOf(said: Answer): readonly (readonly [string, string])[] {
   const found: (readonly [string, string])[] = []
   for (const one of said.edits) {
@@ -64,8 +97,8 @@ function holdsIn(said: Answer, path: string): boolean {
   return said.edits.some((one) => one.path === path)
 }
 
-test("a body that could not be read is refused", () => {
-  const said = renamePage(worldAt(scratch.rootFor("slug-"), NOTHING), {
+test("a body that could not be read is refused", async () => {
+  const said = await renamePage(worldIn(scratch.rootFor("slug-"), NOTHING), {
     at: HELD_PAGE,
     to: CARRIED,
   })
@@ -73,59 +106,73 @@ test("a body that could not be read is refused", () => {
   expect(said.refused).toBe("`akasha/one/held.module.ts` could not be read")
 })
 
-test("a body stating no slug is refused", () => {
+test("a body stating no slug is refused", async () => {
   const body = bodyOf({ id: idOf("8"), pageTypeSlug: "module" })
-  const world = worldAt(scratch.rootFor("slug-"), saying(body))
-  const said = renamePage(world, { at: HELD_PAGE, to: CARRIED })
+  const world = worldIn(scratch.rootFor("slug-"), saying(body))
+  const said = await renamePage(world, { at: HELD_PAGE, to: CARRIED })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`akasha/one/held.module.ts` states no `slug`")
 })
 
-test("a body stating no page type is refused", () => {
+test("a body stating no page type is refused", async () => {
   const body = bodyOf({ id: idOf("8"), slug: HELD_SLUG })
-  const world = worldAt(scratch.rootFor("slug-"), saying(body))
-  const said = renamePage(world, { at: HELD_PAGE, to: CARRIED })
+  const world = worldIn(scratch.rootFor("slug-"), saying(body))
+  const said = await renamePage(world, { at: HELD_PAGE, to: CARRIED })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`akasha/one/held.module.ts` states no `pageTypeSlug`")
 })
 
-test("a page type is refused, its slug being renamed by another act", () => {
+test("a page type is refused, its slug being renamed by another act", async () => {
   const body = bodyOf({ id: idOf("8"), pageTypeSlug: "page-type", slug: HELD_SLUG })
-  const world = worldAt(scratch.rootFor("slug-"), saying(body))
-  const said = renamePage(world, { at: HELD_PAGE, to: CARRIED })
+  const world = worldIn(scratch.rootFor("slug-"), saying(body))
+  const said = await renamePage(world, { at: HELD_PAGE, to: CARRIED })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
     "`akasha/one/held.module.ts` names a page type, whose slug is renamed by another act"
   )
 })
 
-test("a refusal from the slug rename is answered as this change's own", () => {
+test("a refusal from the slug rename is answered as this change's own", async () => {
   const root = indexedRepo()
-  const said = renamePage(worldAt(root, textIn(root)), { at: HELD_PAGE, to: "namer" })
+  const said = await renamePage(worldIn(root, textIn(root)), { at: HELD_PAGE, to: "namer" })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("a `module` carries the slug `namer` already")
 })
 
-test("a page whose slug is more than one word has its camel export renamed too", () => {
+test("a page whose slug is more than one word has its camel export renamed too", async () => {
   const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
   const root = indexedRepo({
     [OTHER_PAGE]: statedAs(value, "otherOne"),
     [OTHER_CODE]: "export const kept = 2\n",
   })
-  const said = renamePage(worldAt(root, textIn(root)), { at: OTHER_PAGE, to: CARRIED })
+  const said = await renamePage(worldIn(root, textIn(root)), { at: OTHER_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(bodyIn(said, CARRIED_PAGE)).toContain(`export const ${CARRIED} =`)
   expect(bodyIn(said, CARRIED_PAGE)).not.toContain("export const otherOne")
 })
 
-test("a page's slug is renamed in its data, and its files are carried with it", () => {
+test("the slug rename and each carry are reached at their own addresses", async () => {
+  const reached: string[] = []
+  const root = indexedRepo()
+  const world = worldAt(root, textIn(root), (_world, at) => {
+    reached.push(at)
+    return Promise.resolve({ edits: [], refused: null })
+  })
+
+  await renamePage(world, { at: HELD_PAGE, to: CARRIED })
+
+  expect(reached[0]).toBe("change-mechanical/rename-page-slug")
+  expect(new Set(reached.slice(1))).toEqual(new Set(["change-mechanical/rename-path"]))
+})
+
+test("a page's slug is renamed in its data, and its files are carried with it", async () => {
   const root = indexedRepo()
   const was = textIn(root)
   const page = was(HELD_PAGE) ?? ""
   const namer = was(NAMER_PAGE) ?? ""
   const namerCode = was(NAMER_CODE) ?? ""
   const heldCode = was(HELD_CODE) ?? ""
-  const said = renamePage(worldAt(root, was), { at: HELD_PAGE, to: CARRIED })
+  const said = await renamePage(worldIn(root, was), { at: HELD_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [HELD_PAGE, CARRIED_PAGE],
@@ -152,17 +199,17 @@ test("a page's slug is renamed in its data, and its files are carried with it", 
   expect(holdsIn(said, HELD_CODE)).toBe(false)
 })
 
-test("a body a move carries states the body on disk before the change", () => {
+test("a body a move carries states the body on disk before the change", async () => {
   const root = indexedRepo()
   const was = textIn(root)
-  const said = renamePage(worldAt(root, was), { at: HELD_PAGE, to: CARRIED })
+  const said = await renamePage(worldIn(root, was), { at: HELD_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   for (const one of said.edits) {
     expect(one.was).toBe(was(one.from ?? one.path))
   }
 })
 
-test("a beside file whose key is more than one word is carried too", () => {
+test("a beside file whose key is more than one word is carried too", async () => {
   const root = indexedRepo({
     "akasha/test-fixtures.file-property.ts": bodyOf({
       id: idOf("d"),
@@ -180,7 +227,7 @@ test("a beside file whose key is more than one word is carried too", () => {
     "akasha/four/wide.module.code.ts": "export const kept = 3\n",
     "akasha/four/wide.module.test-fixtures.ts": "export const set = 4\n",
   })
-  const said = renamePage(worldAt(root, textIn(root)), { at: WIDE_PAGE, to: CARRIED })
+  const said = await renamePage(worldIn(root, textIn(root)), { at: WIDE_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [WIDE_PAGE, CARRIED_PAGE],
@@ -189,7 +236,7 @@ test("a beside file whose key is more than one word is carried too", () => {
   ])
 })
 
-test("a page sharing its folder is renamed in the folder that page sits in", () => {
+test("a page sharing its folder is renamed in the folder that page sits in", async () => {
   const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
   const root = indexedRepo({
     [OTHER_PAGE]: statedAs(value, "otherOne"),
@@ -200,7 +247,7 @@ test("a page sharing its folder is renamed in the folder that page sits in", () 
       slug: "second",
     }),
   })
-  const said = renamePage(worldAt(root, textIn(root)), { at: OTHER_PAGE, to: CARRIED })
+  const said = await renamePage(worldIn(root, textIn(root)), { at: OTHER_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [OTHER_PAGE, "akasha/three/carried.module.ts"],
@@ -208,13 +255,13 @@ test("a page sharing its folder is renamed in the folder that page sits in", () 
   ])
 })
 
-test("a page carrying the slug asked for is carried into the folder that slug names", () => {
+test("a page carrying the slug asked for is carried into the folder that slug names", async () => {
   const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
   const root = indexedRepo({
     [OTHER_PAGE]: statedAs(value, "otherOne"),
     [OTHER_CODE]: "export const kept = 2\n",
   })
-  const said = renamePage(worldAt(root, textIn(root)), { at: OTHER_PAGE, to: OTHER_SLUG })
+  const said = await renamePage(worldIn(root, textIn(root)), { at: OTHER_PAGE, to: OTHER_SLUG })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [OTHER_PAGE, `akasha/${OTHER_SLUG}/${OTHER_SLUG}.module.ts`],
@@ -222,7 +269,7 @@ test("a page carrying the slug asked for is carried into the folder that slug na
   ])
 })
 
-test("a page carrying the slug asked for, in the folder that slug names, is refused", () => {
+test("a page carrying the slug asked for, in the folder that slug names, is refused", async () => {
   const root = indexedRepo({
     [SEATED_PAGE]: pageOf({
       id: idOf("e"),
@@ -232,7 +279,7 @@ test("a page carrying the slug asked for, in the folder that slug names, is refu
     }),
     [SEATED_CODE]: "export const kept = 5\n",
   })
-  const said = renamePage(worldAt(root, textIn(root)), { at: SEATED_PAGE, to: SEATED_SLUG })
+  const said = await renamePage(worldIn(root, textIn(root)), { at: SEATED_PAGE, to: SEATED_SLUG })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
     `\`${SEATED_SLUG}\` is the slug this page carries, in the folder that slug names`

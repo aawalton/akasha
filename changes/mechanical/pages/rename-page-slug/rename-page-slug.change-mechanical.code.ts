@@ -11,12 +11,16 @@ import {
   writing,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import {
-  restated,
-  statedIn,
-} from "../change-page-property/change-page-property.change-mechanical.code.ts"
-import { respelled } from "../respell-export/respell-export.change-mechanical.code.ts"
+  reach,
+  type World,
+  worldOver,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { statedIn } from "../change-page-property/change-page-property.change-mechanical.code.ts"
+
+const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
+
+const RESPELL_EXPORT = "change-mechanical/respell-export"
 
 const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
 
@@ -140,7 +144,7 @@ function namingIn(namers: readonly Named[]): ReadonlyMap<string, ReadonlySet<str
   return found
 }
 
-export function renameSlug(world: World, given: RenamePageSlugAsked): Answer {
+export async function renameSlug(world: World, given: RenamePageSlugAsked): Promise<Answer> {
   if (!given.at.endsWith(TYPED)) return refusing(`\`${given.at}\` is no \`.ts\` file`)
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
@@ -167,9 +171,9 @@ export function renameSlug(world: World, given: RenamePageSlugAsked): Answer {
     return refusing(`\`${given.to}\` is no slug, a slug being lower kebab case`)
   }
   if (given.to === slug.text) return refusing(`\`${given.to}\` is the slug it already carries`)
-  const reach = reachOf(world, id.text, pageType.text)
-  if ("unread" in reach) return refusing(reach.unread)
-  if (reach.slugs.includes(given.to)) {
+  const reached = reachOf(world, id.text, pageType.text)
+  if ("unread" in reached) return refusing(reached.unread)
+  if (reached.slugs.includes(given.to)) {
     return refusing(`a \`${pageType.text}\` carries the slug \`${given.to}\` already`)
   }
   const one = { was: slug.text, now: given.to, pageTypeSlug: pageType.text }
@@ -181,7 +185,7 @@ export function renameSlug(world: World, given: RenamePageSlugAsked): Answer {
   put(given.at, [
     { start: slug.getStart(source), end: slug.getEnd(), put: JSON.stringify(given.to) },
   ])
-  for (const [path, slugs] of namingIn(reach.namers)) {
+  for (const [path, slugs] of namingIn(reached.namers)) {
     let body = texts.get(path)
     if (body === undefined) {
       const read = world.textOf(path)
@@ -191,34 +195,40 @@ export function renameSlug(world: World, given: RenamePageSlugAsked): Answer {
     }
     put(path, addressedIn(path, body, slugs, one))
   }
-  const bodies = new Map<string, string>()
   const restating: Edit[] = []
   for (const [path, held] of spots) {
     const body = texts.get(path) ?? ""
     const next = splicedIn(body, held)
     if (next === body) continue
-    bodies.set(path, next)
     restating.push(writing(path, body, next))
   }
   const answers: Answer[] = [answered(restating)]
   if (given.plural !== undefined) {
-    const held = bodies.get(given.at) ?? text
-    const stated = restated(given.at, held, PLURAL_SLUG, given.plural)
+    const before = gathered(answers)
+    if (before.refused !== null) return before
+    const stated = await reach(worldOver(world, before), CHANGE_PAGE_PROPERTY, {
+      at: given.at,
+      key: PLURAL_SLUG,
+      to: given.plural,
+    })
     if (stated.refused !== null) return stated
     answers.push(stated)
-    for (const edit of stated.edits) if (edit.body !== null) bodies.set(edit.path, edit.body)
   }
   const reading = importingOf(world.index, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
-  const over = [given.at, ...reading.importers]
-  const spelled = respelled(world.root, given.at, over, bound, exportedAs(given.to), (path) => {
-    return bodies.get(path) ?? world.textOf(path)
+  const folded = gathered(answers)
+  if (folded.refused !== null) return folded
+  const spelled = await reach(worldOver(world, folded), RESPELL_EXPORT, {
+    at: given.at,
+    over: [given.at, ...reading.importers],
+    of: bound,
+    to: exportedAs(given.to),
   })
   if (spelled.refused !== null) return spelled
   answers.push(spelled)
   return gathered(answers)
 }
 
-export function runChange(world: World, given: RenamePageSlugAsked): Answer {
-  return renameSlug(world, given)
+export async function runChange(world: World, given: RenamePageSlugAsked): Promise<Answer> {
+  return await renameSlug(world, given)
 }

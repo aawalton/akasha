@@ -7,8 +7,15 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
+import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  type Reaching,
+  type World,
+  worldAt,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical.code.ts"
+import { runChange as respellExport } from "../respell-export/respell-export.change-mechanical.code.ts"
 import { renameSlug } from "./rename-page-slug.change-mechanical.code.ts"
 
 afterAll(scratch.sweep)
@@ -46,81 +53,103 @@ function bodyIn(said: Answer, path: string): string {
   return said.edits.find((one) => one.path === path)?.body ?? ""
 }
 
-function whyOf(at: string, to: string, textOf: (path: string) => string | null): string {
-  const world = worldAt(scratch.rootFor("rename-slug-"), textOf)
-  const said = renameSlug(world, { at, to })
+const RUNS: Reaching = (world, at, given) => {
+  if (at === "change-mechanical/change-page-property") {
+    return Promise.resolve(
+      changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+    )
+  }
+  if (at === "change-mechanical/respell-export") {
+    return Promise.resolve(respellExport(world, given as Parameters<typeof respellExport>[1]))
+  }
+  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+}
+
+function worldIn(root: string, textOf: (path: string) => string | null): World {
+  return worldAt(root, textOf, RUNS)
+}
+
+async function whyOf(
+  at: string,
+  to: string,
+  textOf: (path: string) => string | null
+): Promise<string> {
+  const world = worldIn(scratch.rootFor("rename-slug-"), textOf)
+  const said = await renameSlug(world, { at, to })
   expect(said.edits).toEqual([])
   return said.refused ?? ""
 }
 
-test("a path that is no `.ts` file is refused", () => {
-  expect(whyOf("akasha/one/held.md", KEPT, NOTHING)).toBe("`akasha/one/held.md` is no `.ts` file")
+test("a path that is no `.ts` file is refused", async () => {
+  expect(await whyOf("akasha/one/held.md", KEPT, NOTHING)).toBe(
+    "`akasha/one/held.md` is no `.ts` file"
+  )
 })
 
-test("a body that could not be read is refused", () => {
-  expect(whyOf(PAGE, KEPT, NOTHING)).toBe(`\`${PAGE}\` could not be read`)
+test("a body that could not be read is refused", async () => {
+  expect(await whyOf(PAGE, KEPT, NOTHING)).toBe(`\`${PAGE}\` could not be read`)
 })
 
-test("a body stating no slug is refused", () => {
+test("a body stating no slug is refused", async () => {
   const body = WHOLE.replace(`  slug: "held",\n`, "")
-  expect(whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`slug\``)
+  expect(await whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`slug\``)
 })
 
-test("a body stating no page type is refused", () => {
+test("a body stating no page type is refused", async () => {
   const body = WHOLE.replace(`  pageTypeSlug: "module",\n`, "")
-  expect(whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`pageTypeSlug\``)
+  expect(await whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`pageTypeSlug\``)
 })
 
-test("a body stating no id is refused", () => {
+test("a body stating no id is refused", async () => {
   const body = WHOLE.replace(`  id: "01a04a4a-0000-7000-8000-000000000008",\n`, "")
-  expect(whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`id\``)
+  expect(await whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`id\``)
 })
 
-test("a body exporting no name its slug makes is refused", () => {
+test("a body exporting no name its slug makes is refused", async () => {
   const body = WHOLE.replace("export const held", "export const it")
-  expect(whyOf(PAGE, KEPT, holding(body))).toBe(
+  expect(await whyOf(PAGE, KEPT, holding(body))).toBe(
     `\`${PAGE}\` exports no \`${HELD_SLUG}\`, the name its slug makes`
   )
 })
 
-test("a name that is no slug is refused", () => {
-  expect(whyOf(PAGE, "Kept", holding(WHOLE))).toBe(
+test("a name that is no slug is refused", async () => {
+  expect(await whyOf(PAGE, "Kept", holding(WHOLE))).toBe(
     "`Kept` is no slug, a slug being lower kebab case"
   )
-  expect(whyOf(PAGE, "kept-", holding(WHOLE))).toBe(
+  expect(await whyOf(PAGE, "kept-", holding(WHOLE))).toBe(
     "`kept-` is no slug, a slug being lower kebab case"
   )
 })
 
-test("the slug it already carries is refused", () => {
-  expect(whyOf(PAGE, HELD_SLUG, holding(WHOLE))).toBe(
+test("the slug it already carries is refused", async () => {
+  expect(await whyOf(PAGE, HELD_SLUG, holding(WHOLE))).toBe(
     `\`${HELD_SLUG}\` is the slug it already carries`
   )
 })
 
-test("an index that cannot answer refuses rather than narrowing the reach", () => {
-  expect(whyOf(PAGE, KEPT, holding(WHOLE))).toContain("so no slug was restated")
+test("an index that cannot answer refuses rather than narrowing the reach", async () => {
+  expect(await whyOf(PAGE, KEPT, holding(WHOLE))).toContain("so no slug was restated")
 })
 
-test("a slug a page of that page type carries already is refused", () => {
+test("a slug a page of that page type carries already is refused", async () => {
   const root = indexedRepo()
-  const said = renameSlug(worldAt(root, textIn(root)), { at: HELD_PAGE, to: "namer" })
+  const said = await renameSlug(worldIn(root, textIn(root)), { at: HELD_PAGE, to: "namer" })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("a `module` carries the slug `namer` already")
 })
 
-test("a namer that could not be read is refused", () => {
+test("a namer that could not be read is refused", async () => {
   const root = indexedRepo()
   const text = textIn(root)
-  const world = worldAt(root, (path) => (path === NAMER_PAGE ? null : text(path)))
-  const said = renameSlug(world, { at: HELD_PAGE, to: KEPT })
+  const world = worldIn(root, (path) => (path === NAMER_PAGE ? null : text(path)))
+  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${NAMER_PAGE}\` names this page and could not be read`)
 })
 
-test("the page's own slug and every name of it are restated", () => {
+test("the page's own slug and every name of it are restated", async () => {
   const root = indexedRepo()
-  const said = renameSlug(worldAt(root, textIn(root)), { at: HELD_PAGE, to: KEPT })
+  const said = await renameSlug(worldIn(root, textIn(root)), { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
   expect(pathsOf(said)).toEqual([HELD_PAGE, NAMER_PAGE])
   expect(bodyIn(said, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
@@ -130,56 +159,82 @@ test("the page's own slug and every name of it are restated", () => {
   expect(bodyIn(said, NAMER_PAGE)).not.toContain(HELD_SLUG)
 })
 
-test("each body is answered beside the body it was worked out from", () => {
+test("each body is answered beside the body it was worked out from", async () => {
   const root = indexedRepo()
   const text = textIn(root)
-  const said = renameSlug(worldAt(root, text), { at: HELD_PAGE, to: KEPT })
+  const said = await renameSlug(worldIn(root, text), { at: HELD_PAGE, to: KEPT })
   for (const one of said.edits) {
     expect(one.was).toBe(text(one.path))
     expect(one.from).toBe(undefined)
   }
 })
 
-test("the page's exported const is renamed with its slug", () => {
+test("the page's exported const is renamed with its slug", async () => {
   const root = indexedRepo()
-  const said = renameSlug(worldAt(root, textIn(root)), { at: HELD_PAGE, to: KEPT })
+  const said = await renameSlug(worldIn(root, textIn(root)), { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
   expect(bodyIn(said, HELD_PAGE)).toContain(`export const ${KEPT} =`)
   expect(bodyIn(said, HELD_PAGE)).not.toContain(`export const ${HELD_SLUG} =`)
 })
 
-test("the bodies are answered rather than written", () => {
+test("the bodies are answered rather than written", async () => {
   const root = indexedRepo()
   const text = textIn(root)
-  expect(renameSlug(worldAt(root, text), { at: HELD_PAGE, to: KEPT }).refused).toBe(null)
+  const said = await renameSlug(worldIn(root, text), { at: HELD_PAGE, to: KEPT })
+  expect(said.refused).toBe(null)
   expect(text(HELD_PAGE)).toContain(`"slug": "${HELD_SLUG}"`)
   expect(text(NAMER_PAGE)).toContain(`"note": "${HELD_SLUG}"`)
 })
 
-test("a page stating a plural is refused where the plural it becomes is not said", () => {
-  const world = worldAt(scratch.rootFor("rename-slug-"), holding(PLURAL))
-  const said = renameSlug(world, { at: PAGE, to: KEPT })
+test("a page stating a plural is refused where the plural it becomes is not said", async () => {
+  const world = worldIn(scratch.rootFor("rename-slug-"), holding(PLURAL))
+  const said = await renameSlug(world, { at: PAGE, to: KEPT })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${PAGE}\` states a \`pluralSlug\`, so the plural it becomes is said`)
 })
 
-test("a page stating no plural is refused where one is said", () => {
-  const world = worldAt(scratch.rootFor("rename-slug-"), holding(WHOLE))
-  const said = renameSlug(world, { at: PAGE, to: KEPT, plural: "kepts" })
+test("a page stating no plural is refused where one is said", async () => {
+  const world = worldIn(scratch.rootFor("rename-slug-"), holding(WHOLE))
+  const said = await renameSlug(world, { at: PAGE, to: KEPT, plural: "kepts" })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${PAGE}\` states no \`pluralSlug\`, so no plural is said`)
 })
 
-test("the plural is stated anew beside the slug", () => {
+test("the plural is stated anew beside the slug", async () => {
   const root = indexedRepo()
   const text = textIn(root)
   const held = (text(HELD_PAGE) ?? "").replace(
     `"slug": "${HELD_SLUG}",`,
     `"slug": "${HELD_SLUG}",\n  "pluralSlug": "helds",`
   )
-  const world = worldAt(root, (path) => (path === HELD_PAGE ? held : text(path)))
-  const said = renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
+  const world = worldIn(root, (path) => (path === HELD_PAGE ? held : text(path)))
+  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
   expect(said.refused).toBe(null)
   expect(bodyIn(said, HELD_PAGE)).toContain(`"pluralSlug": "kepts"`)
   expect(bodyIn(said, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
+})
+
+test("the plural and the respelling are reached at their own addresses", async () => {
+  const reached: string[] = []
+  const root = indexedRepo()
+  const text = textIn(root)
+  const held = (text(HELD_PAGE) ?? "").replace(
+    `"slug": "${HELD_SLUG}",`,
+    `"slug": "${HELD_SLUG}",\n  "pluralSlug": "helds",`
+  )
+  const world = worldAt(
+    root,
+    (path) => (path === HELD_PAGE ? held : text(path)),
+    (_world, at) => {
+      reached.push(at)
+      return Promise.resolve({ edits: [], refused: null })
+    }
+  )
+
+  await renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
+
+  expect(reached).toEqual([
+    "change-mechanical/change-page-property",
+    "change-mechanical/respell-export",
+  ])
 })
