@@ -66,6 +66,19 @@ export const attributes = {
         "An attribute nothing can be read for is shown as no signal rather than as a zero.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "`akasha measure attributes` answers an attribute's level beside that attribute's total.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An attribute no readout counts is left out of the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A total is floored to two decimal places.",
+    },
+    {
       invariantKind: "constraint",
       statement: "Points are counted forward from the day an attribute begins.",
     },
