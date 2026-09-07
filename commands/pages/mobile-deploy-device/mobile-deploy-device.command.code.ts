@@ -1,5 +1,12 @@
 import type { Answer } from "@akasha/command-system/calling"
 import {
+  answering,
+  flagsAloneIn,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "@akasha/command-system/command-answering"
+import {
   ascAuthArgs,
   buildKeychainUnlock,
   buildNativeSync,
@@ -16,13 +23,8 @@ import { iosAppDir, nativeShellDir } from "@akasha/mobile-cli/mobile-app"
 import { runSshCapture } from "@akasha/mobile-cli/mobile-ssh"
 import {
   APP_SAID,
-  answering,
   appIn,
-  flagsAloneIn,
-  OPERATIONAL,
   type Reading,
-  refusedBy,
-  told,
   wordsIn,
 } from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
 

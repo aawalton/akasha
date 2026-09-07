@@ -1,13 +1,10 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { asJson, DATA, refusedBy, told } from "@akasha/command-system/command-answering"
 import { writeBodyweight } from "@akasha/exercise-access/selection-policy"
 import {
-  asJson,
-  DATA,
   decimalIn,
   JSON_SAID,
-  refusedBy,
   rowsOf,
-  told,
   wantsJson,
   wordsIn,
 } from "../../../alan/fitness/commands/exercise-saying/exercise-saying.module.code.ts"

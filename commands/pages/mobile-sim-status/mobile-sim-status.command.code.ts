@@ -1,14 +1,11 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, flagsAloneIn, refusedBy, told } from "@akasha/command-system/command-answering"
 import { getContexts } from "@akasha/mobile-cli/appium-client"
 import { appiumIsUp } from "@akasha/mobile-cli/sim-macbook"
 import { loadSessionState, SIM_SESSION_PATH } from "@akasha/mobile-cli/sim-session"
 import {
-  answering,
-  flagsAloneIn,
   keyedLines,
   type Reading,
-  refusedBy,
-  told,
   wordsIn,
 } from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
 

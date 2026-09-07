@@ -1,30 +1,12 @@
 import { readFile } from "node:fs/promises"
-import type { Answer } from "@akasha/command-system/calling"
-import { whyOf } from "@akasha/command-system/fault-saying"
 import { OperationalError } from "@akasha/errors-core/exit-code"
 import { getHost } from "@akasha/inference-pool/inference-hosts"
 import type { InferenceHost, InferenceService } from "@akasha/inference-pool/inference-schema"
 import { SERVICES } from "@akasha/inference-pool/inference-services"
 
-export const OK = 0
-
-export const INPUT = 1
-
-export const DATA = 2
-
-export const OPERATIONAL = 3
-
 export const PROSE_ROUTE = "-file"
 
 export const STDIN = "-"
-
-const CARRIES_A_CODE: ReadonlySet<string> = new Set([
-  "ExitError",
-  "CliError",
-  "InputError",
-  "DataError",
-  "OperationalError",
-])
 
 export type Reading<T> = T | { readonly refused: readonly string[] }
 
@@ -43,38 +25,6 @@ export type Said = {
   readonly flags: ReadonlySet<string>
 }
 
-export function told(report: readonly string[]): Answer {
-  return { report, refusals: [], code: OK }
-}
-
-export function refusedBy(said: readonly string[]): Answer {
-  return { report: [], refusals: said, code: INPUT }
-}
-
-export function asJson(value: unknown): Answer {
-  return told([JSON.stringify(value)])
-}
-
-export function codeOf(thrown: unknown): number {
-  if (thrown instanceof Error && CARRIES_A_CODE.has(thrown.name)) {
-    const held = (thrown as { readonly code?: unknown }).code
-    if (typeof held === "number" && held >= INPUT && held <= OPERATIONAL) return held
-  }
-  return OPERATIONAL
-}
-
-export function faulted(thrown: unknown): Answer {
-  return { report: [], refusals: [whyOf(thrown)], code: codeOf(thrown) }
-}
-
-export async function answering(work: () => Answer | Promise<Answer>): Promise<Answer> {
-  try {
-    return await work()
-  } catch (thrown) {
-    return faulted(thrown)
-  }
-}
-
 export function keyedLines(
   entries: ReadonlyArray<readonly [string, string | number | undefined]>
 ): readonly string[] {
@@ -84,10 +34,6 @@ export function keyedLines(
     lines.push(`${key}\t${value}`)
   }
   return lines
-}
-
-export function oneCell(value: string): string {
-  return value.replace(/\s+/g, " ").trim()
 }
 
 function looksLikeFlag(word: string): boolean {
@@ -133,11 +79,15 @@ export function wordsIn(
         continue
       }
       if (route !== undefined) {
-        ;(routed[held] ??= []).push(value)
+        const filled = routed[held] ?? []
+        filled.push(value)
+        routed[held] = filled
         continue
       }
       if (repeats.has(held)) {
-        ;(many[held] ??= []).push(value)
+        const filled = many[held] ?? []
+        filled.push(value)
+        many[held] = filled
         continue
       }
       named[held] = value
@@ -182,10 +132,6 @@ export function aloneIn(said: Said, wants: string): Reading<string | undefined> 
     return { refused: [`this names ${wants} once, and ${extra} followed the one it named`] }
   }
   return said.loose[0]
-}
-
-export function nothingLooseIn(said: Said): readonly string[] {
-  return said.loose.map((one) => `\`${one}\` follows nothing this takes — it takes flags alone`)
 }
 
 async function stdinText(): Promise<string> {
@@ -261,6 +207,11 @@ export function oneOf(
     }
   }
   return held
+}
+
+export function boundTo(command: readonly string[], flag: string): string | undefined {
+  const at = command.indexOf(flag)
+  return at >= 0 ? command[at + 1] : undefined
 }
 
 export type Reached = {

@@ -1,16 +1,18 @@
 import type { Answer, Given } from "@akasha/command-system/calling"
-import { requireEnv } from "@akasha/utils-narrow/require-env"
 import {
   answering,
   asJson,
-  filing,
-  JSON_SAID,
   OPERATIONAL,
-  proseIn,
-  type Reading,
   refusedBy,
   told,
-  wordFilling,
+} from "@akasha/command-system/command-answering"
+import { wordFilling } from "@akasha/command-system/command-filling"
+import { requireEnv } from "@akasha/utils-narrow/require-env"
+import {
+  JSON_SAID,
+  proseIn,
+  type Reading,
+  TEXT,
   wordsIn,
 } from "../../../sms-core/commands/sms-command-reading/sms-command-reading.module.code.ts"
 import {
@@ -19,8 +21,6 @@ import {
 } from "../../../sms-core/telnyx-send/telnyx-send.module.code.ts"
 
 const TO = "--to"
-
-const TEXT = filing("--text")
 
 const FROM = "--from"
 

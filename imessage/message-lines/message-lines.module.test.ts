@@ -1,23 +1,9 @@
 import { describe, expect, test } from "bun:test"
-import type { ImessageMessage } from "../chat-db/chat-db.module.code.ts"
 import { buildNameIndex, handleKey } from "../contacts-db/contacts-db.module.code.ts"
 import { messageLabel, nameFor, singleLine } from "./message-lines.module.code.ts"
+import { message } from "./message-lines.module.test-fixtures.ts"
 
 const CONTACTS = [{ name: "Alan", phones: ["+1 555 010 2030"], emails: ["alan@example.com"] }]
-
-function message(over: Partial<ImessageMessage>): ImessageMessage {
-  return {
-    rowid: 1,
-    guid: "g",
-    text: "hi",
-    isFromMe: false,
-    unixSeconds: 0,
-    handleId: null,
-    chatIdentifier: null,
-    chatDisplayName: null,
-    ...over,
-  }
-}
 
 describe("nameFor", () => {
   const name = nameFor({ buildNameIndex, handleKey }, CONTACTS)

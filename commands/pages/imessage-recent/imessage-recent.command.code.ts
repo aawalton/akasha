@@ -1,7 +1,7 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, flagsAloneIn, refusedBy } from "@akasha/command-system/command-answering"
 import { buildRecentSql } from "../../../imessage/chat-db/chat-db.module.code.ts"
 import {
-  answering,
   CONTACT_SAID,
   countOf,
   JSON_SAID,
@@ -9,9 +9,7 @@ import {
   LIMIT_SAID,
   messagesAnswered,
   namingIn,
-  noneLoose,
   type Reading,
-  refusedBy,
   wordsIn,
 } from "../../../imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
 import {
@@ -35,7 +33,7 @@ export type Read = {
 export function readIn(argv: readonly string[]): Reading<Read> {
   const said = wordsIn(argv, VALUED, SWITCHES, LIMIT_ALSO)
   if ("refused" in said) return said
-  const refusals = [...noneLoose(said)]
+  const refusals = [...flagsAloneIn(said)]
   const limit = countOf(said.named[LIMIT_SAID], LIMIT_SAID)
   if (typeof limit === "object") refusals.push(...limit.refused)
   if (refusals.length > 0) return { refused: refusals }

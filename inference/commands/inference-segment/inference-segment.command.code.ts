@@ -1,5 +1,6 @@
 import { readFile, writeFile } from "node:fs/promises"
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
 import {
   buildSegmentFields,
@@ -10,13 +11,10 @@ import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/infer
 import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import {
   aloneIn,
-  answering,
   calledAs,
   countAt,
   heldOr,
-  refusedBy,
   serviceNamed,
-  told,
   wasRefused,
   wordsIn,
   wroteTo,

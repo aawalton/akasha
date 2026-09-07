@@ -1,13 +1,11 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import { HOSTS } from "@akasha/inference-pool/inference-hosts"
 import { parseActualState } from "@akasha/inference-pool/inference-reconcile"
 import { runSshCapture } from "@akasha/inference-pool/inference-ssh"
 import { buildQueryScript } from "@akasha/inference-pool/provision-script"
 import {
-  answering,
-  refusedBy,
   targetOf,
-  told,
   wasRefused,
   wordsIn,
 } from "../inference-answering/inference-answering.module.code.ts"

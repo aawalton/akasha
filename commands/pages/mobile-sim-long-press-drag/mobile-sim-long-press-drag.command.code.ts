@@ -1,14 +1,11 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, flagsAloneIn, refusedBy, told } from "@akasha/command-system/command-answering"
 import { longPressDrag } from "@akasha/mobile-cli/appium-client"
 import {
-  answering,
   countOf,
   driving,
-  flagsAloneIn,
   type Reading,
-  refusedBy,
   type Said,
-  told,
   wordsIn,
 } from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
 

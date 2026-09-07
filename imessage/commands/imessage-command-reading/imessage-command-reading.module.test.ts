@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { ImessageMessage } from "../../chat-db/chat-db.module.code.ts"
+import { message } from "../../message-lines/message-lines.module.test-fixtures.ts"
 import {
   countOf,
   JSON_SAID,
@@ -7,7 +7,6 @@ import {
   LIMIT_SAID,
   messageLines,
   namingIn,
-  wordFilling,
   wordsIn,
 } from "./imessage-command-reading.module.code.ts"
 
@@ -19,20 +18,6 @@ function said(argv: readonly string[]) {
   const read = wordsIn(argv, VALUED, SWITCHES, LIMIT_ALSO)
   if ("refused" in read) throw new Error(read.refused.join("; "))
   return read
-}
-
-function message(over: Partial<ImessageMessage>): ImessageMessage {
-  return {
-    rowid: 1,
-    guid: "g",
-    text: "hi",
-    isFromMe: false,
-    unixSeconds: 0,
-    handleId: null,
-    chatIdentifier: null,
-    chatDisplayName: null,
-    ...over,
-  }
 }
 
 describe("wordsIn", () => {
@@ -61,18 +46,6 @@ describe("wordsIn", () => {
   test("refuses a flag said twice", () => {
     const read = wordsIn(["--contact", "a", "--contact", "b"], VALUED, SWITCHES)
     expect("refused" in read).toBe(true)
-  })
-})
-
-describe("wordFilling", () => {
-  test("takes the loose word where the flag is unsaid", () => {
-    expect(wordFilling(said(["sleep"]), "--query", "what to search for")).toBe("sleep")
-  })
-
-  test("refuses the same thing said twice over", () => {
-    const read = wordsIn(["--contact", "mary", "mary"], VALUED, SWITCHES)
-    if ("refused" in read) throw new Error("this reads")
-    expect(wordFilling(read, "--contact", "a contact")).toHaveProperty("refused")
   })
 })
 

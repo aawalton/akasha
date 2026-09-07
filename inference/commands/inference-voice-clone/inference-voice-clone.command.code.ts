@@ -1,8 +1,11 @@
 import { access, writeFile } from "node:fs/promises"
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
+import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { OperationalError } from "@akasha/errors-core/exit-code"
 import { buildCopFetchInit } from "@akasha/inference-clients/cop-fetch"
 import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
+import { isRiff } from "@akasha/inference-clients/riff-bytes"
 import {
   buildSpeechRequestBody,
   copPriorityHeaders,
@@ -11,17 +14,14 @@ import { scpUpload } from "@akasha/inference-pool/inference-ssh"
 import { buildInferenceRunRecord } from "@akasha/inference-runs/inference-run-record"
 import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import {
-  answering,
   calledAs,
   countAt,
   heldOr,
   oneOf,
   proseAt,
   proseNeededAt,
-  refusedBy,
   serviceNamed,
   targetOf,
-  told,
   wasRefused,
   wordsIn,
   wroteTo,
@@ -75,14 +75,6 @@ const DEFAULT_TIMEOUT_SEC = 1800
 
 const SECOND_MS = 1000
 
-const RIFF_HEADER = 44
-
-const RIFF = [0x52, 0x49, 0x46, 0x46]
-
-export function isRiff(bytes: Uint8Array): boolean {
-  return bytes.length > RIFF_HEADER && RIFF.every((one, at) => bytes[at] === one)
-}
-
 function isPriority(one: string): one is Priority {
   return (PRIORITIES as readonly string[]).includes(one)
 }
@@ -129,7 +121,9 @@ export async function inferenceVoiceClone(argv: readonly string[]): Promise<Answ
     const outputPath = resolveOutputPath("voice-clone", said.named[OUTPUT], nowMs)
     const stamp = `${process.pid}-${nowMs}`
     const refAudioRemote =
-      refAudio === undefined ? DEFAULT_REF_AUDIO : `/tmp/inference-voice-clone-ref-${stamp}.wav`
+      refAudio === undefined
+        ? DEFAULT_REF_AUDIO
+        : `${SCRATCH_AT}/inference-voice-clone-ref-${stamp}.wav`
     const refText = refTextSaid ?? DEFAULT_REF_TEXT
 
     const record = buildInferenceRunRecord({

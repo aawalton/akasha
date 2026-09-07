@@ -1,4 +1,5 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { asJson, DATA, refusedBy, told } from "@akasha/command-system/command-answering"
 import { exerciseNamed } from "@akasha/exercise-access/exercise-finding"
 import {
   boolIn,
@@ -14,12 +15,8 @@ import { readSelectionPolicy } from "@akasha/exercise-access/selection-policy"
 import type { GoalScores, MovementFeatures } from "@akasha/session-planning/movement-scoring"
 import { scoreMovement } from "@akasha/session-planning/movement-scoring"
 import {
-  asJson,
   countIn,
-  DATA,
   JSON_SAID,
-  refusedBy,
-  told,
   wantsJson,
   wordsIn,
 } from "../../../alan/fitness/commands/exercise-saying/exercise-saying.module.code.ts"

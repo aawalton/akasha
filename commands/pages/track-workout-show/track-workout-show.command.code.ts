@@ -1,4 +1,5 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { asJson, DATA, refusedBy, told } from "@akasha/command-system/command-answering"
 import { openSession } from "@akasha/exercise-access/exercise-finding"
 import {
   boolIn,
@@ -10,11 +11,7 @@ import {
   titleOf,
 } from "@akasha/exercise-access/exercise-rows"
 import {
-  asJson,
-  DATA,
   JSON_SAID,
-  refusedBy,
-  told,
   wantsJson,
   wordsIn,
 } from "../../../alan/fitness/commands/exercise-saying/exercise-saying.module.code.ts"

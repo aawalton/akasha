@@ -1,9 +1,4 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { getEsoDayStr } from "@akasha/day/eso-day"
-
-export const INPUT = 1
-
-export const DATA = 2
 
 export const JSON_SAID = "--json"
 
@@ -126,18 +121,6 @@ export function oneOfIn(
 
 export function wantsJson(said: Said): boolean {
   return said.flags.has(JSON_SAID)
-}
-
-export function refusedBy(refusals: readonly string[], code = INPUT): Answer {
-  return { report: [], refusals, code }
-}
-
-export function told(lines: readonly string[]): Answer {
-  return { report: lines, refusals: [], code: 0 }
-}
-
-export function asJson(value: unknown): Answer {
-  return { report: [JSON.stringify(value)], refusals: [], code: 0 }
 }
 
 export function rowsOf(pairs: readonly (readonly [string, string])[]): readonly string[] {

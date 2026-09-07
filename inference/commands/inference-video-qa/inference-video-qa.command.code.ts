@@ -1,7 +1,8 @@
 import { mkdtemp, readdir, readFile, rm } from "node:fs/promises"
-import { tmpdir } from "node:os"
 import { join } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
+import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { OperationalError } from "@akasha/errors-core/exit-code"
 import {
   buildFrameExtractArgs,
@@ -15,14 +16,11 @@ import {
 import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
 import { finishInferenceRun, startInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import {
-  answering,
   calledAs,
   countAt,
   heldOr,
   proseNeededAt,
-  refusedBy,
   serviceNamed,
-  told,
   wasRefused,
   wordsIn,
 } from "../inference-answering/inference-answering.module.code.ts"
@@ -111,7 +109,7 @@ export async function inferenceVideoQa(argv: readonly string[]): Promise<Answer>
           return refusedBy([`\`${VIDEO}\` names \`${videoPath}\`, which will not read`])
         }
         videoFields = { inputVideoPath: videoPath, inputVideoSha256: sha256Hex(clipBytes) }
-        taken = await mkdtemp(join(tmpdir(), "inference-video-qa-"))
+        taken = await mkdtemp(join(SCRATCH_AT, "inference-video-qa-"))
         await runFfmpeg(
           buildFrameExtractArgs({
             videoPath,

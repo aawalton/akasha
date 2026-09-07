@@ -1,4 +1,11 @@
 import type { Answer } from "@akasha/command-system/calling"
+import {
+  answering,
+  flagsAloneIn,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "@akasha/command-system/command-answering"
 import { createAscJwtSource, fetchLatestBuild, resolveAppId } from "@akasha/mobile-cli/asc-client"
 import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
 import {
@@ -11,13 +18,8 @@ import {
 } from "@akasha/mobile-cli/testflight-poll"
 import {
   APP_SAID,
-  answering,
   appIn,
-  flagsAloneIn,
-  OPERATIONAL,
   type Reading,
-  refusedBy,
-  told,
   wordsIn,
 } from "../mobile-answering/mobile-answering.module.code.ts"
 

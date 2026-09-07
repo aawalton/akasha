@@ -1,6 +1,8 @@
 import { readFileSync } from "node:fs"
-import { isAbsolute, resolve } from "node:path"
+import { resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
+import { asJson, told } from "@akasha/command-system/command-answering"
+import type { Filing } from "@akasha/command-system/command-filling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { inputIn, type Piping } from "@akasha/command-system/piping"
 import type { ImessageMessage } from "../../chat-db/chat-db.module.code.ts"
@@ -14,14 +16,6 @@ import {
   singleLine,
 } from "../../message-lines/message-lines.module.code.ts"
 
-export const OK = 0
-
-export const INPUT = 1
-
-export const DATA = 2
-
-export const OPERATIONAL = 3
-
 export const JSON_SAID = "--json"
 
 export const CONTACT_SAID = "--contact"
@@ -33,13 +27,6 @@ export const TAIL_SAID = "--tail"
 export const PIPED_SAID = "-"
 
 export const LIMIT_ALSO: Readonly<Record<string, string>> = { [TAIL_SAID]: LIMIT_SAID }
-
-const CARRIES_A_CODE: ReadonlySet<string> = new Set([
-  "CliError",
-  "DataError",
-  "InputError",
-  "OperationalError",
-])
 
 const TRAILING_LINES = /(?:\r?\n)+$/
 
@@ -101,28 +88,6 @@ export function wordsIn(
   return { named, loose, flags }
 }
 
-export function wordFilling(said: Said, flag: string, wants: string): Reading<string | undefined> {
-  if (said.loose.length > 1) {
-    const extra = said.loose
-      .slice(1)
-      .map((one) => `\`${one}\``)
-      .join(", ")
-    return { refused: [`this names ${wants} once, and ${extra} followed the one it named`] }
-  }
-  const word = said.loose[0]
-  const named = said.named[flag]
-  if (word !== undefined && named !== undefined) {
-    return {
-      refused: [`${wants} is said at \`${flag}\` and as a word, and one way at a time is the way`],
-    }
-  }
-  return named ?? word
-}
-
-export function noneLoose(said: Said): readonly string[] {
-  return said.loose.map((one) => `\`${one}\` follows nothing this takes — it takes flags alone`)
-}
-
 export function countOf(said: string | undefined, flag: string): Reading<number | undefined> {
   if (said === undefined) return undefined
   if (!/^\d+$/.test(said) || Number(said) === 0) {
@@ -135,20 +100,7 @@ export function countOf(said: string | undefined, flag: string): Reading<number 
   return held
 }
 
-export type Filing = {
-  readonly said: string
-  readonly file: string
-}
-
-export function filing(said: string): Filing {
-  return { said, file: `${said}-file` }
-}
-
 export type Prose = { readonly text: string | undefined } | { readonly refused: readonly string[] }
-
-export function pathAt(root: string, path: string): string {
-  return isAbsolute(path) ? path : resolve(root, path)
-}
 
 export function proseIn(given: Given, said: Said, one: Filing, piping: Piping = inputIn): Prose {
   const inline = said.named[one.said]
@@ -173,41 +125,9 @@ export function proseIn(given: Given, said: Said, one: Filing, piping: Piping = 
     return { text: new TextDecoder().decode(held.bytes).replace(TRAILING_LINES, "") }
   }
   try {
-    return { text: readFileSync(pathAt(given.root, path), "utf8").replace(TRAILING_LINES, "") }
+    return { text: readFileSync(resolve(given.root, path), "utf8").replace(TRAILING_LINES, "") }
   } catch (thrown) {
     return { refused: [`\`${one.file} ${path}\` would not open — ${whyOf(thrown)}`] }
-  }
-}
-
-export function refusedBy(said: readonly string[]): Answer {
-  return { report: [], refusals: said, code: INPUT }
-}
-
-export function told(report: readonly string[]): Answer {
-  return { report, refusals: [], code: OK }
-}
-
-export function asJson(value: unknown): Answer {
-  return told([JSON.stringify(value)])
-}
-
-export function codeOf(thrown: unknown): number {
-  if (thrown instanceof Error && CARRIES_A_CODE.has(thrown.name)) {
-    const held = (thrown as { readonly code?: unknown }).code
-    if (typeof held === "number" && held >= INPUT && held <= OPERATIONAL) return held
-  }
-  return OPERATIONAL
-}
-
-export function faulted(thrown: unknown): Answer {
-  return { report: [], refusals: [whyOf(thrown)], code: codeOf(thrown) }
-}
-
-export async function answering(work: () => Answer | Promise<Answer>): Promise<Answer> {
-  try {
-    return await work()
-  } catch (thrown) {
-    return faulted(thrown)
   }
 }
 

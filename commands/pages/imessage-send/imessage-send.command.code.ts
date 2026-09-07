@@ -1,20 +1,15 @@
 import { readFileSync, statSync } from "node:fs"
-import { basename } from "node:path"
+import { basename, resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
+import { answering, asJson, refusedBy, told } from "@akasha/command-system/command-answering"
+import { filing, wordFilling } from "@akasha/command-system/command-filling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { InputError } from "@akasha/errors-core/exit-code"
 import { runSshCapture } from "@akasha/ssh-access/ssh-reach"
 import {
-  answering,
-  asJson,
-  filing,
   JSON_SAID,
-  pathAt,
   proseIn,
   type Reading,
-  refusedBy,
-  told,
-  wordFilling,
   wordsIn,
 } from "../../../imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
 import {
@@ -73,7 +68,7 @@ export function readIn(argv: readonly string[], given: Given): Reading<Read> {
 }
 
 export function attachmentAt(root: string, path: string): SendAttachment {
-  const at = pathAt(root, path)
+  const at = resolve(root, path)
   let size: number
   try {
     const stat = statSync(at)
@@ -124,7 +119,7 @@ export function imessageSend(argv: readonly string[], given: Given): Promise<Ans
         sent: true,
         to: handle,
         text: said.text ?? null,
-        image: said.image === undefined ? null : pathAt(given.root, said.image),
+        image: said.image === undefined ? null : resolve(given.root, said.image),
       })
     }
     return told([`sent\t${handle}`])

@@ -11,6 +11,7 @@
     "./inference-seed": "./inference-seed/inference-seed.module.code.ts",
     "./mlx-image-client": "./mlx-image-client/mlx-image-client.module.code.ts",
     "./mlx-vlm-client": "./mlx-vlm-client/mlx-vlm-client.module.code.ts",
+    "./riff-bytes": "./riff-bytes/riff-bytes.module.code.ts",
     "./segment-client": "./segment-client/segment-client.module.code.ts",
     "./voice-clone-client": "./voice-clone-client/voice-clone-client.module.code.ts"
   },

@@ -1,5 +1,6 @@
 import { landingAsked, wroteAndTook } from "@akasha/command-system/asking"
 import type { Answer, Given } from "@akasha/command-system/calling"
+import { asJson, DATA, refusedBy, told } from "@akasha/command-system/command-answering"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { capitalizedDay, dayOfWeekFromDayStr } from "@akasha/exercise-access/day-of-week"
 import { activeSchedule, scheduleDayFor } from "@akasha/exercise-access/exercise-finding"
@@ -10,13 +11,9 @@ import { listedAt } from "@akasha/indexes"
 import { type Value, valueAt } from "@akasha/pages/page-value"
 import { composedFor } from "@akasha/pages-service/composing"
 import {
-  asJson,
-  DATA,
   dayIn,
   JSON_SAID,
-  refusedBy,
   rowsOf,
-  told,
   wantsJson,
   wordsIn,
 } from "../../../alan/fitness/commands/exercise-saying/exercise-saying.module.code.ts"

@@ -1,5 +1,6 @@
 import { readFile, writeFile } from "node:fs/promises"
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import type { GeminiImageConfig } from "@akasha/inference-clients/gemini-image-client"
 import {
   imageFormatForPath,
@@ -10,14 +11,11 @@ import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/in
 import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
 import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import {
-  answering,
   calledAs,
   countAt,
   heldOr,
   oneOf,
   proseNeededAt,
-  refusedBy,
-  told,
   wasRefused,
   wordsIn,
   wroteTo,

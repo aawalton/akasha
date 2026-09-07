@@ -1,15 +1,12 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, flagsAloneIn, refusedBy, told } from "@akasha/command-system/command-answering"
 import type { CutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
 import { readLatestCutFingerprint, recordCutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
 import {
   APP_SAID,
-  answering,
   appIn,
   countOf,
-  flagsAloneIn,
   type Reading,
-  refusedBy,
-  told,
   wordsIn,
 } from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
 

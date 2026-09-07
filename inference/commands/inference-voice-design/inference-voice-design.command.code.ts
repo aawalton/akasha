@@ -1,20 +1,19 @@
 import { writeFile } from "node:fs/promises"
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import { OperationalError } from "@akasha/errors-core/exit-code"
 import { buildCopFetchInit } from "@akasha/inference-clients/cop-fetch"
 import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
+import { isRiff } from "@akasha/inference-clients/riff-bytes"
 import { buildInferenceRunRecord } from "@akasha/inference-runs/inference-run-record"
 import type { InferenceService } from "@akasha/inference-runs/inference-run-services"
 import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import {
-  answering,
   calledAs,
   heldOr,
   oneOf,
   proseNeededAt,
-  refusedBy,
   serviceNamed,
-  told,
   wasRefused,
   wordsIn,
   wroteTo,
@@ -76,14 +75,6 @@ const SAMPLING = {
   repetitionPenalty: 1.0,
   maxTokens: 1200,
 } as const
-
-const RIFF_HEADER = 44
-
-const RIFF = [0x52, 0x49, 0x46, 0x46]
-
-export function isRiff(bytes: Uint8Array): boolean {
-  return bytes.length > RIFF_HEADER && RIFF.every((one, at) => bytes[at] === one)
-}
 
 export async function inferenceVoiceDesign(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, TAKING, SWITCHES)

@@ -62,11 +62,6 @@ export const imessageCommandReading = {
       statement: "A message Alan sent carries an arrow away from Alan.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "A fault thrown at the mac is answered as operational unless that fault names its own code.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here prints.",
     },

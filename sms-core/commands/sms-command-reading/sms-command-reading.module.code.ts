@@ -1,18 +1,15 @@
 import { readFileSync } from "node:fs"
-import { isAbsolute, resolve } from "node:path"
-import type { Answer, Given } from "@akasha/command-system/calling"
+import { resolve } from "node:path"
+import type { Given } from "@akasha/command-system/calling"
+import { type Filing, filing } from "@akasha/command-system/command-filling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { inputIn, type Piping } from "@akasha/command-system/piping"
-
-export const OK = 0
-
-export const INPUT = 1
-
-export const OPERATIONAL = 3
 
 export const JSON_SAID = "--json"
 
 export const PIPED_SAID = "-"
+
+export const TEXT = filing("--text")
 
 const TRAILING_LINES = /(?:\r?\n)+$/
 
@@ -66,28 +63,6 @@ export function wordsIn(
   return { named, loose, flags }
 }
 
-export function wordFilling(said: Said, flag: string, wants: string): Reading<string | undefined> {
-  if (said.loose.length > 1) {
-    const extra = said.loose
-      .slice(1)
-      .map((one) => `\`${one}\``)
-      .join(", ")
-    return { refused: [`this names ${wants} once, and ${extra} followed the one it named`] }
-  }
-  const word = said.loose[0]
-  const named = said.named[flag]
-  if (word !== undefined && named !== undefined) {
-    return {
-      refused: [`${wants} is said at \`${flag}\` and as a word, and one way at a time is the way`],
-    }
-  }
-  return named ?? word
-}
-
-export function pathAt(root: string, path: string): string {
-  return isAbsolute(path) ? path : resolve(root, path)
-}
-
 export type Held = { readonly text: string } | { readonly refused: readonly string[] }
 
 export function heldAt(given: Given, flag: string, path: string, piping: Piping = inputIn): Held {
@@ -102,19 +77,10 @@ export function heldAt(given: Given, flag: string, path: string, piping: Piping 
     return { text: new TextDecoder().decode(input.bytes) }
   }
   try {
-    return { text: readFileSync(pathAt(given.root, path), "utf8") }
+    return { text: readFileSync(resolve(given.root, path), "utf8") }
   } catch (thrown) {
     return { refused: [`\`${flag} ${path}\` would not open — ${whyOf(thrown)}`] }
   }
-}
-
-export type Filing = {
-  readonly said: string
-  readonly file: string
-}
-
-export function filing(said: string): Filing {
-  return { said, file: `${said}-file` }
 }
 
 export type Prose = { readonly text: string | undefined } | { readonly refused: readonly string[] }
@@ -134,28 +100,4 @@ export function proseIn(given: Given, said: Said, one: Filing, piping: Piping = 
   const held = heldAt(given, one.file, path, piping)
   if ("refused" in held) return held
   return { text: held.text.replace(TRAILING_LINES, "") }
-}
-
-export function refusedBy(said: readonly string[]): Answer {
-  return { report: [], refusals: said, code: INPUT }
-}
-
-export function told(report: readonly string[]): Answer {
-  return { report, refusals: [], code: OK }
-}
-
-export function asJson(value: unknown): Answer {
-  return told([JSON.stringify(value)])
-}
-
-export function faulted(thrown: unknown): Answer {
-  return { report: [], refusals: [whyOf(thrown)], code: OPERATIONAL }
-}
-
-export async function answering(work: () => Answer | Promise<Answer>): Promise<Answer> {
-  try {
-    return await work()
-  } catch (thrown) {
-    return faulted(thrown)
-  }
 }

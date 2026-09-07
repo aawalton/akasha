@@ -15,6 +15,7 @@ export const inferenceClients = {
     "module/inference-seed",
     "module/mlx-image-client",
     "module/mlx-vlm-client",
+    "module/riff-bytes",
     "module/segment-client",
     "module/voice-clone-client",
   ],

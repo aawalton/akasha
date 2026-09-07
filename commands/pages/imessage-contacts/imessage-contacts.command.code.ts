@@ -1,12 +1,9 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, asJson, refusedBy, told } from "@akasha/command-system/command-answering"
+import { wordFilling } from "@akasha/command-system/command-filling"
 import {
-  answering,
-  asJson,
   JSON_SAID,
   type Reading,
-  refusedBy,
-  told,
-  wordFilling,
   wordsIn,
 } from "../../../imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
 import { searchContacts } from "../../../imessage/contacts-db/contacts-db.module.code.ts"

@@ -1,5 +1,6 @@
 import { writeFile } from "node:fs/promises"
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
 import { drawSeed, resolveSeed } from "@akasha/inference-clients/inference-seed"
 import {
@@ -12,14 +13,12 @@ import type { InferenceService } from "@akasha/inference-runs/inference-run-serv
 import { INFERENCE_SERVICES } from "@akasha/inference-runs/inference-run-services"
 import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import {
-  answering,
+  boundTo,
   calledAs,
   countAt,
   heldOr,
   proseNeededAt,
-  refusedBy,
   serviceNamed,
-  told,
   wasRefused,
   wordsIn,
   wroteTo,
@@ -75,11 +74,6 @@ const MODEL_PATH = "--model-path"
 const IMAGE_GENERATION = "image-generation"
 
 const SECOND_MS = 1000
-
-export function boundTo(command: readonly string[], flag: string): string | undefined {
-  const at = command.indexOf(flag)
-  return at >= 0 ? command[at + 1] : undefined
-}
 
 export function generates(command: readonly string[]): boolean {
   return boundTo(command, MODEL_TYPE) === IMAGE_GENERATION

@@ -1,4 +1,5 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { getHost } from "@akasha/inference-pool/inference-hosts"
 import { parseMfluxTools } from "@akasha/inference-pool/inference-reconcile"
@@ -7,10 +8,8 @@ import { SERVICES } from "@akasha/inference-pool/inference-services"
 import { runSshCapture } from "@akasha/inference-pool/inference-ssh"
 import { buildMfluxQueryScript } from "@akasha/inference-pool/provision-script"
 import {
-  answering,
-  refusedBy,
+  boundTo,
   targetOf,
-  told,
   wasRefused,
   wordsIn,
 } from "../inference-answering/inference-answering.module.code.ts"
@@ -22,11 +21,6 @@ const MODEL_PATH = "--model-path"
 const IMAGE_EDIT = "image-edit"
 
 const IMAGE_PREFIX = "image-"
-
-export function boundTo(command: readonly string[], flag: string): string | undefined {
-  const at = command.indexOf(flag)
-  return at >= 0 ? command[at + 1] : undefined
-}
 
 export function routeOf(command: readonly string[]): string {
   return boundTo(command, MODEL_TYPE) === IMAGE_EDIT

@@ -3,6 +3,7 @@ import { dirname } from "node:path"
 import { readBrowserTestEnv } from "@akasha/browser-test-harness/browser-test-env"
 import { launchAndSignIn } from "@akasha/browser-test-harness/harness-launch"
 import type { Answer } from "@akasha/command-system/calling"
+import { refusedBy } from "@akasha/command-system/command-answering"
 import { playwrightStorageStatePath } from "@akasha/seat-system/mcp-registry"
 import { isInvalidCredentialsError, signInWithPassword } from "@akasha/supabase-auth/auth"
 import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
@@ -11,10 +12,7 @@ import {
   DEFAULT_THROWAWAY_EMAIL,
   ensureThrowawayUser,
 } from "@akasha/supabase-server/throwaway-user"
-import {
-  refusedBy,
-  wordsIn,
-} from "../browser-command-arguing/browser-command-arguing.module.code.ts"
+import { wordsIn } from "../browser-command-arguing/browser-command-arguing.module.code.ts"
 
 const URL_SAID = "--url"
 
@@ -44,9 +42,6 @@ export type StorageStateAsked = {
   readonly at?: string | undefined
 }
 
-// What an importer asks for: the storage state written, and the lines saying where it went. It
-// throws rather than answering a refusal, so a caller is the one that decides what a refusal
-// means for it.
 export async function exportBrowserTestStorageState(
   asked: StorageStateAsked = {}
 ): Promise<readonly string[]> {

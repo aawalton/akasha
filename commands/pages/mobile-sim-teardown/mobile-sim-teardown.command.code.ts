@@ -1,13 +1,10 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { answering, flagsAloneIn, refusedBy, told } from "@akasha/command-system/command-answering"
 import { deleteSession } from "@akasha/mobile-cli/appium-client"
 import { stopAppium } from "@akasha/mobile-cli/sim-macbook"
 import { clearSessionState, loadSessionState } from "@akasha/mobile-cli/sim-session"
 import {
-  answering,
-  flagsAloneIn,
   type Reading,
-  refusedBy,
-  told,
   wordsIn,
 } from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
 

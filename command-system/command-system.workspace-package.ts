@@ -15,6 +15,8 @@ export const commandSystem = {
     "page-type/namespace",
     "page-type/refactor-command",
     "module/calling",
+    "module/command-answering",
+    "module/command-filling",
     "module/command-declaring",
     "module/gated-write",
     "module/ios-widget-swift",

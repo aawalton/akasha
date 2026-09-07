@@ -18,10 +18,10 @@ import {
   createReadOnlyThrowawayHarness,
 } from "@akasha/browser-test-harness/read-only-harness"
 import type { Answer } from "@akasha/command-system/calling"
+import { refusedBy } from "@akasha/command-system/command-answering"
 import {
   countIn,
   missingOf,
-  refusedBy,
   wordsIn,
 } from "../browser-command-arguing/browser-command-arguing.module.code.ts"
 import {

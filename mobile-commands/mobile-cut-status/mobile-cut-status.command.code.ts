@@ -1,4 +1,11 @@
 import type { Answer } from "@akasha/command-system/calling"
+import {
+  answering,
+  asJson,
+  flagsAloneIn,
+  refusedBy,
+  told,
+} from "@akasha/command-system/command-answering"
 import { buildInputSources } from "@akasha/mobile-cli/build-input-sources"
 import type { CurrentTreeState } from "@akasha/mobile-cli/cut-fingerprint"
 import { compareCutStatus, readLatestCutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
@@ -14,15 +21,10 @@ import { shellRepoRoot } from "@akasha/mobile-cli/mobile-app"
 import { codeRoot } from "@akasha/pages/code-root"
 import {
   APP_SAID,
-  answering,
   appIn,
-  asJson,
-  flagsAloneIn,
   JSON_SAID,
   keyedLines,
   type Reading,
-  refusedBy,
-  told,
   wordsIn,
 } from "../mobile-answering/mobile-answering.module.code.ts"
 
@@ -49,7 +51,7 @@ export function readIn(argv: readonly string[]): Reading<Read> {
   return { app, json: said.flags.has(JSON_SAID) }
 }
 
-async function stated(read: Read): Promise<Answer> {
+async function compared(read: Read): Promise<Answer> {
   const repoRoot = resolveRepoRoot(codeRoot())
   fetchOrigin(repoRoot)
   const mainSha = resolveRef(repoRoot, MAIN)
@@ -116,5 +118,5 @@ async function stated(read: Read): Promise<Answer> {
 export async function mobileCutStatus(argv: readonly string[]): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async () => await stated(read))
+  return await answering(async () => await compared(read))
 }

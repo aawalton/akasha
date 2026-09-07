@@ -12,6 +12,8 @@
     "./cli": "./cli/cli.module.code.ts",
     "./calling": "./calling/calling.module.code.ts",
     "./calling/testing": "./calling/calling.module.test-fixtures.ts",
+    "./command-answering": "./command-answering/command-answering.module.code.ts",
+    "./command-filling": "./command-filling/command-filling.module.code.ts",
     "./command": "./commands/command.page-type.ts",
     "./command-declaring": "./command-declaring/command-declaring.module.code.ts",
     "./committing": "./committing/committing.module.code.ts",

@@ -41,14 +41,6 @@ export const mobileAnswering = {
     },
 
     {
-      invariantKind: "departure",
-      statement: "A fault carrying a code of its own is answered with that code.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A fault carrying no code of its own is answered as operational.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here prints.",
     },

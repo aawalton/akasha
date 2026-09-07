@@ -1,5 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
-
 export type Said = {
   readonly named: Readonly<Record<string, string | undefined>>
   readonly flags: ReadonlySet<string>
@@ -50,8 +48,4 @@ export function missingOf(
   wanted: readonly string[]
 ): readonly string[] {
   return wanted.filter((one) => named[one] === undefined || named[one] === "")
-}
-
-export function refusedBy(said: readonly string[]): Answer {
-  return { report: [], refusals: said, code: 1 }
 }

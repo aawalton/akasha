@@ -7,6 +7,7 @@ export const messageLines = {
   definition: "a run of iMessage rows written out as tab-parted lines or as one JSON array",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

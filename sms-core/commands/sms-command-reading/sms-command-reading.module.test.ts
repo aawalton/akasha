@@ -1,14 +1,8 @@
 import { describe, expect, test } from "bun:test"
 import type { Given } from "@akasha/command-system/calling"
-import {
-  filing,
-  JSON_SAID,
-  proseIn,
-  wordFilling,
-  wordsIn,
-} from "./sms-command-reading.module.code.ts"
+import { JSON_SAID, proseIn, wordsIn } from "./sms-command-reading.module.code.ts"
 
-const TEXT = filing("--text")
+const TEXT = { said: "--text", file: "--text-file" }
 
 const VALUED = ["--to", TEXT.said, TEXT.file]
 
@@ -42,17 +36,6 @@ describe("wordsIn", () => {
 
   test("refuses a flag whose value is another flag it takes", () => {
     expect("refused" in wordsIn(["--to", TEXT.said], VALUED, SWITCHES)).toBe(true)
-  })
-})
-
-describe("wordFilling", () => {
-  test("takes the loose word where the flag is unsaid", () => {
-    expect(wordFilling(said(["+18015551234"]), "--to", "who it goes to")).toBe("+18015551234")
-  })
-
-  test("refuses the same thing said both ways", () => {
-    const read = said(["--to", "+1801", "+1802"])
-    expect("refused" in Object(wordFilling(read, "--to", "who it goes to"))).toBe(true)
   })
 })
 
