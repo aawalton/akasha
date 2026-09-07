@@ -72,13 +72,13 @@ test("a path no body is at is written without a reading", async () => {
   expect(said.code).toBe(0)
 })
 
-test("the glass broken writes over a body the record does not show read", async () => {
+test("the glass broken still refuses a body the record does not show read", async () => {
   const root = repoWith()
   put(root, "akasha/loose.ts", "loose\n")
   const said = await wroteAt(root, "akasha/loose.ts", ["--break-the-glass", "held"])
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("proposed\n")
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join(" ")).toContain("akasha/loose.ts")
+  expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("loose\n")
 })
 
 test("a write charged to no agent is refused whole", async () => {
