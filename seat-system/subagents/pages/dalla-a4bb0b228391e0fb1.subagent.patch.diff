@@ -1,0 +1,87 @@
+writerOwesReading: false
+diff --git a/commands/pages/change/change.command.code.ts b/commands/pages/change/change.command.code.ts
+index 2ff495099b5a7c287e3ec4d2e2fe6b16fe5211c9..449ac8eba34dda82e1af30903676eeac8640b992 100644
+--- a/commands/pages/change/change.command.code.ts
++++ b/commands/pages/change/change.command.code.ts
+@@ -289,6 +289,39 @@ export type Loading = (world: World, at: string) => Promise<Loaded | string>
+ 
+ export type Applying = (message: string) => Promise<Answer>
+ 
++const DROP_KEYS: readonly string[] = [AT, "path"]
++
++const DROP_NAMES_NOTHING =
++  "the lines piped in name no path, and a drop naming no path takes every edit kept away"
++
++export function droppedIn(said: string): readonly string[] | string {
++  const held: string[] = []
++  for (const line of said.split("\n")) {
++    const one = line.trim()
++    if (one === "") continue
++    const ends = one.indexOf(":")
++    const key = ends === -1 ? "" : one.slice(0, ends).trim()
++    const path = DROP_KEYS.includes(key) ? one.slice(ends + 1).trim() : one
++    if (path === "") return `\`${one}\` names no path, so nothing went`
++    held.push(path)
++  }
++  return held.length === 0 ? DROP_NAMES_NOTHING : held
++}
++
++export function droppedPathsIn(piping: Piping): readonly string[] | string {
++  const held = piping()
++  if ("tty" in held) return BARE
++  if ("unreadable" in held) return `the arguments would not open: ${held.unreadable}`
++  if (held.bytes.byteLength === 0) return BARE
++  return droppedIn(new TextDecoder().decode(held.bytes))
++}
++
++function dropped(root: string, page: string, at: readonly string[], piping: Piping): Answer {
++  const piped = droppedPathsIn(piping)
++  if (typeof piped === "string") return mistaking([piped])
++  return dropping(root, page, [...at, ...piped])
++}
++
+ export async function changing(
+   root: string,
+   page: string,
+@@ -305,7 +338,7 @@ export async function changing(
+   if (slug === HANDED) return listing(root, page)
+   if (slug === TAKE) return taking(root, page, argv[1])
+   if (slug === FORGET) return forgetting(root, page, argv[1])
+-  if (slug === DROP) return dropping(root, page, argv.slice(1))
++  if (slug === DROP) return dropped(root, page, argv.slice(1), piping)
+   const unknown = unknownIn(argv.slice(1), BARE, BARE)
+   if (unknown.length > 0) return mistaking(unknown)
+   const said = argumentsIn(piping)
+diff --git a/commands/pages/change/change.command.test.ts b/commands/pages/change/change.command.test.ts
+index 7615d11de511545e5682f6dc4344dc3165e1b5e1..20e5e1aa7fb5d3055115858404f4dfb35da3f9be 100644
+--- a/commands/pages/change/change.command.test.ts
++++ b/commands/pages/change/change.command.test.ts
+@@ -197,6 +197,28 @@ test("a path naming no edit kept refuses the drop and leaves every edit kept", a
+   expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
+ })
+ 
++test("a drop reads the paths piped in and leaves the edit no line named", async () => {
++  for (const said of [`${NAMER_CODE}\n`, taking(NAMER_CODE), `path: ${NAMER_CODE}\n`]) {
++    const root = repo()
++    await removing(root, NAMER_PAGE)
++
++    const answer = await acting(root, ["drop"], piping(said))
++
++    expect(answer.refusals).toEqual([])
++    expect(pathsIn(root)).toEqual([NAMER_PAGE])
++  }
++})
++
++test("a path piped in naming no edit kept refuses the drop", async () => {
++  const root = repo()
++  await removing(root, NAMER_PAGE)
++
++  const said = await acting(root, ["drop"], piping(`${MISSING}\n`))
++
++  expect(said.code).toBe(1)
++  expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
++})
++
+ test("an edit a move left behind is taken away by the path that move came from", async () => {
+   const root = repo()
+   appendEdits(root, PAGE, [MOVED])
