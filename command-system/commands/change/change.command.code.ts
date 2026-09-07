@@ -8,9 +8,10 @@ import type {
   Answer as Said,
 } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
 import {
+  addedTo,
+  ledgerAt,
   type World,
   worldAt,
-  worldOver,
 } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
 import {
   editsAt,
@@ -124,8 +125,8 @@ function textIn(root: string): (path: string) => string | null {
 }
 
 function worldFor(root: string, had: readonly Edit[], before: Said): World {
-  const base = worldAt(root, textIn(root), runAt)
-  return had.length === 0 ? base : worldOver(base, before)
+  const base = ledgerAt(root, textIn(root), runAt)
+  return had.length === 0 ? base : addedTo(base, before)
 }
 
 export type Runs = {
