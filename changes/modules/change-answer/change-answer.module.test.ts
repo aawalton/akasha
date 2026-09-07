@@ -108,6 +108,14 @@ test("a move onto a path already holding a body is refused", () => {
   })
 })
 
+test("a move onto a path holding no characters is answered", () => {
+  const one = { kind: "move", pathFrom: AWAY, pathTo: AT } as const
+
+  expect(expanded(one, holding({ [AWAY]: "one", [AT]: "" }))).toEqual({
+    edit: { path: AT, was: "one", body: "one", from: AWAY },
+  })
+})
+
 test("the reading an edit states is carried onto the edit answered", () => {
   const one = { kind: "add", path: AT, content: "one", readersOweReading: false } as const
 

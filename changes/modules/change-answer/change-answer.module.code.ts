@@ -93,7 +93,8 @@ function movedIn(one: Moving, textOf: BodyOf): Expanded {
   if (text === null) {
     return { refused: `\`${one.pathFrom}\` holds no body, so nothing is moved` }
   }
-  if (textOf(one.pathTo) !== null) {
+  const there = textOf(one.pathTo)
+  if (there !== null && there !== "") {
     return { refused: `\`${one.pathTo}\` holds a body already, so nothing is moved there` }
   }
   const came = one.pathFrom
