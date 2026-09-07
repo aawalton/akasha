@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/pages/change-file/change-file.change-mechanical.code.ts b/changes/mechanical/pages/change-file/change-file.change-mechanical.code.ts
+index b988a9f763d3a1d87418203187351d56865bebb3..8525c1213776d5f836add18ef3a7684d96a0fa25 100644
+--- a/changes/mechanical/pages/change-file/change-file.change-mechanical.code.ts
++++ b/changes/mechanical/pages/change-file/change-file.change-mechanical.code.ts
+@@ -12,8 +12,6 @@ export type Asked = {
+   readonly new: string
+ }
+ 
+-// A passage the body holds twice is refused rather than worked at the first, because a caller who
+-// meant the second place gets a body that reads right and is wrong.
+ export function changeFile(world: World, given: Asked): Answer {
+   if (given.old === "") {
+     return refusing("a passage of no characters names no place in a body")
