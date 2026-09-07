@@ -15,6 +15,8 @@ const COMMAND = "command/"
 const NAMESPACE = "namespace/"
 const DEFINITION = "definition"
 const UNDER = "-"
+const APART = " "
+const HARNESS = "akasha"
 
 export type CommandNode = {
   readonly key: string
@@ -66,14 +68,16 @@ function commandRoot(nodes: readonly Node[]): Node | null {
   return null
 }
 
-function labelOf(called: string, above: string): string {
-  const opening = `${above}${UNDER}`
-  return above !== "" && called.startsWith(opening) ? called.slice(opening.length) : called
+function labelOf(called: string): string {
+  return `${HARNESS}${APART}${called.split(UNDER).join(APART)}`
+}
+
+function byLabel(one: CommandNode, two: CommandNode): number {
+  return one.label < two.label ? -1 : one.label > two.label ? 1 : 0
 }
 
 function commandNode(
   node: Node,
-  above: string,
   definitions: ReadonlyMap<string, string>,
   reached: Set<string>
 ): CommandNode {
@@ -81,14 +85,15 @@ function commandNode(
   const called = node.slug.slice(node.slug.indexOf("/") + 1)
   return {
     key: node.slug,
-    label: labelOf(called, above),
+    label: labelOf(called),
     called,
     kind: node.slug.startsWith(NAMESPACE) ? "namespace" : "command",
     at: node.relPath,
     detail: definitions.get(node.slug) ?? null,
     children: node.children
       .filter(wanted)
-      .map((child) => commandNode(child, called, definitions, reached)),
+      .map((child) => commandNode(child, definitions, reached))
+      .sort(byLabel),
   }
 }
 
@@ -100,7 +105,10 @@ export function assembleCommandTree(root: string): CommandTree {
   const roots =
     under === null
       ? []
-      : under.children.filter(wanted).map((child) => commandNode(child, "", definitions, reached))
+      : under.children
+          .filter(wanted)
+          .map((child) => commandNode(child, definitions, reached))
+          .sort(byLabel)
   const unreached = rows
     .map((one) => one.slug)
     .filter(

@@ -25,15 +25,27 @@ export const commandTreeAssemble = {
     },
     {
       invariantKind: "departure",
-      statement: "A row is labelled by the segment that row adds to the name above.",
+      statement: "A row is labelled by the whole call that row is made by.",
     },
     {
       invariantKind: "departure",
-      statement: "A row whose name does not open with the name above is labelled in full.",
+      statement: "A label parts the words of a call by spaces rather than by hyphens.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call written with spaces reaches the command the hyphens reach.",
     },
     {
       invariantKind: "departure",
       statement: "A row carries the whole name the harness is called by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rows under one row are in alphabetical order.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A namespace is ordered among the commands rather than apart from the commands.",
     },
     {
       invariantKind: "departure",

@@ -29,11 +29,11 @@ export const commandTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carries the whole name the command is called by as that row's tooltip.",
+      statement: "A row is labelled by the whole call that row is made by.",
     },
     {
-      invariantKind: "departure",
-      statement: "A row is labelled by the segment that row adds rather than the whole name.",
+      invariantKind: "absence",
+      statement: "A row draws no definition beside its label.",
     },
     {
       invariantKind: "departure",

@@ -79,9 +79,8 @@ function buildTreeItem(element: CommandTreeRow, filtering: boolean): vscode.Tree
   )
   item.id = filtering ? `filtered:${element.key}` : element.key
   item.count = element.children.length === 0 ? undefined : element.children.length
-  item.description = element.detail ?? undefined
   item.contextValue = element.kind
-  item.tooltip = [`akasha ${element.called}`, element.detail, element.at]
+  item.tooltip = [element.detail, element.at]
     .filter((line): line is string => line !== null)
     .join("\n")
   if (element.at !== null) {
