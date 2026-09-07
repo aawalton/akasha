@@ -25,7 +25,7 @@ export const seatRotatedSession = {
     },
     {
       invariantKind: "departure",
-      statement: "The rotated session has a key of its own, apart from the current session.",
+      statement: "The rotated session has a key of its own apart from the current session.",
     },
   ],
 } as const satisfies Module
