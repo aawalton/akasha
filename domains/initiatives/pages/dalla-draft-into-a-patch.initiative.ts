@@ -58,6 +58,11 @@ export const dallaDraftIntoAPatch = {
       workingMemory:
         "`harness-landing` writes the tree with raw `writeFileSync`, `renameSync` and `rmSync`, reaching neither `landing` nor a change. `page-writing` lands with a null gate. Every `landedMechanically` call site composes its own `FileEdit`. `replace` builds its own `FileEdit` and imports nothing from `changes/`, so it is `change-file`'s act written twice. The `addressed` sidecar types every address as `Parameters<typeof import(path)['runChange']>[1]` and holds 25, all `change-mechanical-*`.",
     },
+    {
+      statement: "Every property a command's page type declares is read.",
+      workingMemory:
+        "5 of the 27 properties on `command.page-type.ts` are read, all in `surfaceOf` at `calling.module.code.ts:195-201`: `change-kind-slug`, `taking`, `said`, `takes` and `help-notes`. The other 22 are `help-*` properties nothing reads. `verdict`, `reading` and `irreversible` are typed at `command-declaring.module.code.ts:61-63`, where no page can reach them, and the literals `emits` and `irreversible` appear nowhere else. `seat-messaged.command.ts:11-17` writes a `positionals` block nothing reads.",
+    },
   ],
   constraints: [
     "A read hands back the body at HEAD rather than the body the patch would leave.",
