@@ -24,6 +24,10 @@ export const renamePageAddress = {
       statement: "A body spelling the address nowhere is read and left alone.",
     },
     {
+      invariantKind: "departure",
+      statement: "A body a machine writes is left as that body is.",
+    },
+    {
       invariantKind: "absence",
       statement: "A slug naming the page without its page type is left as that slug is.",
     },
