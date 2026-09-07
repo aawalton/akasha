@@ -1,5 +1,6 @@
 import { createHash, randomBytes, timingSafeEqual } from "node:crypto"
 import { upperUuid } from "@akasha/pages/name-format/upper-uuid"
+import { exportedAs } from "@akasha/pages/page-export-name"
 import type { Test } from "@akasha/pages-service/asking"
 import {
   askingFor,
@@ -126,19 +127,11 @@ export function deviceSecretPath(slug: string): string {
   return `${DEVICE_SECRETS_FOLDER}/${slug}.device-secret.ts`
 }
 
-export function exportNameFor(slug: string): string {
-  const parts = slug.split("-").filter((one) => one !== "")
-  const first = parts[0]
-  if (first === undefined) return ""
-  const rest = parts.slice(1).map((one) => one.charAt(0).toUpperCase() + one.slice(1))
-  return first + rest.join("")
-}
-
 export function deviceSecretBody(page: DeviceSecretPage): string {
   const lines = [
     'import type { DeviceSecret } from "../device-secret.page-type.ts"',
     "",
-    `export const ${exportNameFor(page.slug)} = {`,
+    `export const ${exportedAs(page.slug)} = {`,
     `  id: ${JSON.stringify(page.id)},`,
     `  pageTypeSlug: ${JSON.stringify(DEVICE_SECRET_PAGE_TYPE)},`,
     `  slug: ${JSON.stringify(page.slug)},`,

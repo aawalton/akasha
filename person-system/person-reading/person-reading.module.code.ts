@@ -14,7 +14,7 @@ export interface Person {
   readonly supabaseAuthUserId: string | null
 }
 
-function valueOf(root: string, path: string): Value {
+function loadedAt(root: string, path: string): Value {
   let held: Value | null
   try {
     held = valueAt(path, root)
@@ -31,7 +31,7 @@ function valueOf(root: string, path: string): Value {
 }
 
 function personFrom(root: string, listed: Listed): Person {
-  const value = valueOf(root, listed.path)
+  const value = loadedAt(root, listed.path)
   const slug = textAt(value, "slug")
   if (slug === null) {
     throw new Error(`${listed.path} is a person page and states no slug, so nothing names them`)

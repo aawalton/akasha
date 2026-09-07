@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { exportedAs } from "@akasha/pages/page-export-name"
 import type { Fetcher } from "@akasha/pages-service/calling"
 import {
   DEVICE_SECRET_PREFIX,
@@ -16,7 +17,6 @@ import {
   deviceSecretPath,
   deviceSecretPresented,
   deviceSecretSlug,
-  exportNameFor,
   generateDeviceSecret,
   hashDeviceSecret,
   pageIn,
@@ -39,8 +39,8 @@ function storeLike(byType: Rows): Fetcher {
       where?: Record<string, { is?: unknown }>
     }
     const rows = (byType[asked.pageTypeSlug] ?? []).filter((value) => {
-      for (const [key, test] of Object.entries(asked.where ?? {})) {
-        if (value[key] !== test.is) return false
+      for (const [key, wanted] of Object.entries(asked.where ?? {})) {
+        if (value[key] !== wanted.is) return false
       }
       return true
     })
@@ -102,7 +102,7 @@ test("a slug names the person and the device in lower kebab", () => {
 })
 
 test("a slug becomes an export name that opens with a letter", () => {
-  const name = exportNameFor(deviceSecretSlug("alan", A_DEVICE))
+  const name = exportedAs(deviceSecretSlug("alan", A_DEVICE))
   expect(name).toBe("alanA1b2c3d4E5f647b89c0d1e2f3a4b5c6d")
   expect(name).toMatch(AN_IDENTIFIER)
 })
