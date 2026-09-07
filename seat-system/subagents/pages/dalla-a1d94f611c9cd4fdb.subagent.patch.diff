@@ -1,0 +1,317 @@
+writerOwesReading: false
+diff --git a/commands/pages/change/change.command.code.ts b/commands/pages/change/change.command.code.ts
+index efa61c7d613bafdc3912b8932f9a812146cfc07c..92e5492cdc0fc8dcba8aa7eed77cdb0d5dec98be 100644
+--- a/commands/pages/change/change.command.code.ts
++++ b/commands/pages/change/change.command.code.ts
+@@ -248,12 +248,7 @@ function typeOf(world: World, slug: string): string | null {
+   return null
+ }
+ 
+-export async function appending(
+-  root: string,
+-  page: string,
+-  over: Over,
+-  applied = false
+-): Promise<Answer> {
++export async function appending(root: string, page: string, over: Over): Promise<Answer> {
+   let answer: Answer = mistaking([NO_PAGE])
+   const kept = await keptEdits(root, page, async (had) => {
+     const before = foldedIn(had)
+@@ -273,13 +268,7 @@ export async function appending(
+       return had
+     }
+     answer = {
+-      report: [
+-        ...said.edits.map(saidOf).sort(),
+-        ...(applied
+-          ? []
+-          : [`the edits are kept at ${keptAt(page) ?? ""}, and \`akasha apply\` lands them`]),
+-        ...waitingSaid(root, page),
+-      ],
++      report: [...said.edits.map(saidOf).sort(), ...waitingSaid(root, page)],
+       refusals: [],
+       code: 0,
+     }
+@@ -291,7 +280,13 @@ export async function appending(
+ 
+ export type Loading = (world: World, at: string) => Promise<Loaded | string>
+ 
+-export type Applying = (message: string) => Promise<Answer>
++export type Applying = (message: string | null) => Promise<Answer>
++
++const KEPT = "and `akasha apply` lands them once what refused is answered"
++
++function keptSaid(page: string): string {
++  return `the edits are kept at ${keptAt(page) ?? ""}, ${KEPT}`
++}
+ 
+ const DROP_LINE = "a drop names each path on a line of its own, written `at` and the path"
+ 
+@@ -364,17 +359,13 @@ export async function changing(
+   const value = world.index.pageAt(type, slug)
+   const owed = owedBy(value)
+   const owing = owingBy(value)
+-  const message = asked.message
+-  const answered = await appending(
+-    root,
+-    page,
+-    async (one) => stamped(await ranBy(one, held, asked.given), owed, owing),
+-    message !== null
++  const answered = await appending(root, page, async (one) =>
++    stamped(await ranBy(one, held, asked.given), owed, owing)
+   )
+-  if (message === null || answered.code !== 0) return answered
+-  const landed = await applying(message)
++  if (answered.code !== 0) return answered
++  const landed = await applying(asked.message)
+   return {
+-    report: [...answered.report, ...landed.report],
++    report: [...answered.report, ...landed.report, ...(landed.code === 0 ? [] : [keptSaid(page)])],
+     refusals: landed.refusals,
+     code: landed.code,
+   }
+@@ -383,7 +374,7 @@ export async function changing(
+ function applyingFor(given: Given): Applying {
+   return async (message) => {
+     const { apply } = await import("../apply/apply.command.code.ts")
+-    return await apply([MESSAGE, message], given)
++    return await apply(message === null ? [] : [MESSAGE, message], given)
+   }
+ }
+ 
+diff --git a/commands/pages/change/change.command.test-fixtures.ts b/commands/pages/change/change.command.test-fixtures.ts
+index bd564305f6f39934ad306efe7a3e7cbb75a2cab7..c864525e08d30e7ed842627450dbeac3673bc5f3 100644
+--- a/commands/pages/change/change.command.test-fixtures.ts
++++ b/commands/pages/change/change.command.test-fixtures.ts
+@@ -1,6 +1,6 @@
+ import { writeFileSync } from "node:fs"
+ import { join } from "node:path"
+-import { idOf, indexedRepo, pageOf } from "@akasha/indexes/indexing/testing"
++import { idOf, indexedRepo, NAMER_CODE, NAMER_PAGE, pageOf } from "@akasha/indexes/indexing/testing"
+ import { removePage } from "../../../changes/agent/file/remove-page/remove-page.change-checked.code.ts"
+ import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
+ import type { World } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
+@@ -60,11 +60,21 @@ export function piping(said: string): Piping {
+ 
+ export const NOTHING: Piping = () => ({ bytes: new Uint8Array(0) })
+ 
+-export const APPLIED: string[] = []
++export const APPLIED: (string | null)[] = []
+ 
+ export const applying: Applying = async (message) => {
+   APPLIED.push(message)
+-  return { report: [`applied ${message}`], refusals: [], code: 0 }
++  return { report: [`applied ${message ?? "what the apply composes"}`], refusals: [], code: 0 }
++}
++
++const refusingApply: Applying = async () => ({
++  report: [],
++  refusals: ["the checks refused the landing"],
++  code: 3,
++})
++
++export async function refusedApply(root: string, at: string): Promise<Answer> {
++  return await changing(root, PAGE, ["remove-page"], piping(taking(at)), loading, refusingApply)
+ }
+ 
+ export function taking(path: string): string {
+@@ -124,3 +134,36 @@ export async function removing(root: string, at: string, message?: string): Prom
+   const said = message === undefined ? taking(at) : asking(at, message)
+   return await acting(root, ["remove-page"], piping(said))
+ }
++
++export const BOTH: readonly string[] = [NAMER_CODE, NAMER_PAGE]
++
++export function keptIn(root: string): readonly string[] {
++  return [...pathsIn(root)].sort()
++}
++
++export function saysApply(said: Answer): boolean {
++  return said.report.some((one) => one.includes("akasha apply"))
++}
++
++export const DROPPED_BOTH: readonly string[] = [
++  ...[`takes ${NAMER_CODE} away`, `takes ${NAMER_PAGE} away`].sort(),
++  "these edits are gone, and no apply lands them",
++]
++
++export const DROPPED_ONE: readonly string[] = [
++  `takes ${NAMER_CODE} away`,
++  "these edits are gone, and no apply lands them",
++  "1 edit(s) are still kept beside this agent's page",
++]
++
++export const HANDED_SAID: readonly string[] = [
++  "one handed 1 edit(s) over",
++  "two handed 2 edit(s) over",
++  "`akasha change take <subagent>` takes one of these into this agent's own",
++]
++
++export const BAD_DROPS: readonly (readonly [readonly string[], Piping | undefined])[] = [
++  [["drop", NAMER_CODE], undefined],
++  [["drop"], piping(`${NAMER_CODE}\n`)],
++  [["drop"], () => ({ unreadable: "went quiet", part: true as const })],
++]
+diff --git a/commands/pages/change/change.command.test.ts b/commands/pages/change/change.command.test.ts
+index 7584a485ec98eb968ead6df424bd5cfb99582859..d4d7aa9ed8413a9d967eaa74a6a75644db50b924 100644
+--- a/commands/pages/change/change.command.test.ts
++++ b/commands/pages/change/change.command.test.ts
+@@ -9,11 +9,17 @@ import {
+   APPLIED,
+   acting,
+   applying,
++  BAD_DROPS,
++  BOTH,
++  DROPPED_BOTH,
++  DROPPED_ONE,
+   EDIT,
+   givenIn,
+   HANDED_ONE,
++  HANDED_SAID,
+   HELD,
+   handing,
++  keptIn,
+   loading,
+   MISSING,
+   MOVED,
+@@ -23,10 +29,12 @@ import {
+   pathsIn,
+   piping,
+   readingNotText,
++  refusedApply,
+   removing,
+   repo,
+   SPARE_CODE,
+   SPARE_PAGE,
++  saysApply,
+   taking,
+ } from "./change.command.test-fixtures.ts"
+ 
+@@ -39,7 +47,7 @@ test("a change answers its edits and appends the edits beside the calling agent'
+ 
+   expect(said.refusals).toEqual([])
+   expect(said.code).toBe(0)
+-  expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
++  expect(keptIn(root)).toEqual(BOTH)
+ })
+ 
+ test("the edits are kept beside the agent's page rather than beside the page changed", async () => {
+@@ -58,7 +66,7 @@ test("a change reads the world as every edit appended before that change had lan
+   const said = await removing(root, NAMER_PAGE)
+ 
+   expect(said.refusals).toEqual([`\`${NAMER_PAGE}\` names no page, so no page is taken away`])
+-  expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
++  expect(keptIn(root)).toEqual(BOTH)
+ })
+ 
+ test("two runs leave two sets of edits in the order the runs were made", async () => {
+@@ -145,10 +153,7 @@ test("a drop takes away every edit kept and names each edit that went", async ()
+ 
+   expect(said.refusals).toEqual([])
+   expect(said.code).toBe(0)
+-  expect(said.report).toEqual([
+-    ...[`takes ${NAMER_CODE} away`, `takes ${NAMER_PAGE} away`].sort(),
+-    "these edits are gone, and no apply lands them",
+-  ])
++  expect(said.report).toEqual(DROPPED_BOTH)
+   expect(pathsIn(root)).toEqual([])
+ })
+ 
+@@ -169,11 +174,7 @@ test("a drop naming one path takes that path's edit and leaves the rest", async
+   const said = await acting(root, ["drop"], piping(taking(NAMER_CODE)))
+ 
+   expect(said.refusals).toEqual([])
+-  expect(said.report).toEqual([
+-    `takes ${NAMER_CODE} away`,
+-    "these edits are gone, and no apply lands them",
+-    "1 edit(s) are still kept beside this agent's page",
+-  ])
++  expect(said.report).toEqual(DROPPED_ONE)
+   expect(pathsIn(root)).toEqual([NAMER_PAGE])
+ })
+ 
+@@ -198,23 +199,18 @@ test("a path naming no edit kept refuses the drop and leaves every edit kept", a
+   expect(said.refusals).toEqual([
+     `\`${MISSING}\` names no edit kept beside this agent's page, so nothing went`,
+   ])
+-  expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
++  expect(keptIn(root)).toEqual(BOTH)
+ })
+ 
+ test("a drop the command line or a line or the input refused leaves every edit kept", async () => {
+-  const stalled = () => ({ unreadable: "went quiet", part: true as const })
+-  for (const [argv, said] of [
+-    [["drop", NAMER_CODE], undefined],
+-    [["drop"], piping(`${NAMER_CODE}\n`)],
+-    [["drop"], stalled],
+-  ] as const) {
++  for (const [argv, said] of BAD_DROPS) {
+     const root = repo()
+     await removing(root, NAMER_PAGE)
+ 
+     const answer = await acting(root, argv, said)
+ 
+     expect(answer.code).toBe(1)
+-    expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
++    expect(keptIn(root)).toEqual(BOTH)
+   }
+ })
+ 
+@@ -254,11 +250,7 @@ test("handed names each subagent that handed edits over and how many that subage
+ 
+   const said = await acting(root, ["handed"])
+ 
+-  expect(said.report).toEqual([
+-    "one handed 1 edit(s) over",
+-    "two handed 2 edit(s) over",
+-    "`akasha change take <subagent>` takes one of these into this agent's own",
+-  ])
++  expect(said.report).toEqual(HANDED_SAID)
+ })
+ 
+ test("a take folds one subagent's handed edits in and takes the handed edits away", async () => {
+@@ -418,7 +410,7 @@ test("an apply asked for says nothing of the edits being kept for a later apply"
+ 
+   const said = await removing(repo(), NAMER_PAGE, "takes the namer away")
+ 
+-  expect(said.report.some((one) => one.includes("akasha apply"))).toBe(false)
++  expect(saysApply(said)).toBe(false)
+   expect(said.report).toContain("applied takes the namer away")
+ })
+ 
+@@ -444,13 +436,32 @@ test("an apply asked for with no message is refused and appends nothing", async
+   expect(pathsIn(root)).toEqual([])
+ })
+ 
+-test("a change asking for no apply keeps its edits for a later apply", async () => {
++test("a change naming no apply lands rather than keeping its edits for a later apply", async () => {
+   APPLIED.length = 0
+ 
+   const said = await removing(repo(), NAMER_PAGE)
+ 
+-  expect(APPLIED).toEqual([])
+-  expect(said.report.some((one) => one.includes("akasha apply"))).toBe(true)
++  expect(said.code).toBe(0)
++  expect(APPLIED.length).toBe(1)
++  expect(saysApply(said)).toBe(false)
++})
++
++test("a change naming no apply takes the message the apply composes", async () => {
++  APPLIED.length = 0
++
++  await removing(repo(), NAMER_PAGE)
++
++  expect(APPLIED).toEqual([null])
++})
++
++test("an apply that refuses says the edits are kept and what lands them", async () => {
++  const root = repo()
++
++  const said = await refusedApply(root, NAMER_PAGE)
++
++  expect(said.code).toBe(3)
++  expect(saysApply(said)).toBe(true)
++  expect(keptIn(root)).toEqual(BOTH)
+ })
+ 
+ test("a body that is not text refuses the change rather than being read as text", async () => {
