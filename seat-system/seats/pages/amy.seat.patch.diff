@@ -170,6 +170,50 @@ index fcba0c7a5457c8e400aadd6446765cfd089da3b1..b50e92faf3d285e155762afaa45e444e
    const showActions = onToggleFavorite != null || onDelete != null
  
    return (
+diff --git a/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx b/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx
+index fdc599146f24799a149a7f3d6574fca44126182f..2a1f3dabc4d942ff7ffc7bcd90bbe06acb614766 100644
+--- a/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx
++++ b/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx
+@@ -1,10 +1,13 @@
+ "use client"
+ 
+ import type { ViewConfig } from "@akasha/pages-core/schema/view-data"
++import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
+ import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
+ import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
++import { useCompletePageOptimistic } from "@akasha/pages-ui/supabase/use-complete-page-optimistic"
+ import { useUserId } from "@akasha/pages-ui/use-user-id"
+ import { viewConfigToListingParams } from "@akasha/pages-ui-components/synthetic-config"
++import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+ import { buildPageListingHref } from "@akasha/pages-url/page-listing-href"
+ import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
+ import { useCallback } from "react"
+@@ -97,6 +100,17 @@ export function PagesFilteredContent({
+ 
+   const { notesProperty, notesPropertyOptions } = useNotesViewProps(effectiveConfig, properties)
+ 
++  const completePage = useCompletePageOptimistic()
++  const completion = completionShapeOf(pageTypeSlug)
++
++  const handleComplete = useCallback(
++    (page: PageRow, atMs: number | null) => {
++      if (completion === null) return
++      completePage({ pageTypeSlug, pageId: page._id, shape: completion, values: page, atMs })
++    },
++    [completePage, completion, pageTypeSlug]
++  )
++
+   const loading = pageTypesLoading || !targetPageType
+ 
+   return (
+@@ -164,6 +178,7 @@ export function PagesFilteredContent({
+                 makeRelationHref,
+                 onIconChange: handleIconChange,
+                 onPropertyChange: handlePropertyChange,
++                onComplete: handleComplete,
+                 onDelete: handleDeletePage,
+                 onToggleFavorite: handleToggleFavorite,
+               })
 diff --git a/pages/ui/components/view-tab-content/view-tab-content.module.code.tsx b/pages/ui/components/view-tab-content/view-tab-content.module.code.tsx
 index 4f264eb57624b6cf115d6d6dc2535e1e66a72990..41df451cd994ecfd011d6f57a799fc5e3f8bacb2 100644
 --- a/pages/ui/components/view-tab-content/view-tab-content.module.code.tsx
