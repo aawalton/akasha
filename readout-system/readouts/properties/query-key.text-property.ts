@@ -9,8 +9,12 @@ export const queryKey = {
   propertySlug: "query-key",
   definition: "the number a reading takes where its query answers more than one",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormatSlug: null,
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A key is written as the answer carrying that number writes the key.",
+    },
     {
       invariantKind: "departure",
       statement: "A readout naming no key takes the one number its query reduces to.",

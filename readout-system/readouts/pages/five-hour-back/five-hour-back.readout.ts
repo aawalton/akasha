@@ -9,7 +9,6 @@ export const fiveHourBack = {
   label: "5h back",
   unit: "hours",
   place: 2,
-  figureFormat: "decimal",
   drawnAs: "number",
   colorSlug: "text",
   groupSlugs: ["claude-usage"],

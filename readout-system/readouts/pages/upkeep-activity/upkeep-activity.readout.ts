@@ -10,7 +10,6 @@ export const upkeepActivity = {
   label: "Activity",
   unit: "calories",
   place: 5,
-  figureFormat: "integer",
   scaleSlug: "activity-calories",
   wireKey: "activity",
   invariants: [

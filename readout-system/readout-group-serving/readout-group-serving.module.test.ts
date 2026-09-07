@@ -218,14 +218,12 @@ test("a reading under ten keeps one decimal place", async () => {
   expect((await stoplights())[0]?.reading).toBe("-1.5")
 })
 
-test("the format a readout states decides nothing about how its figure is written", async () => {
-  ANSWERED.readouts = [{ ...READOUT_ROW, figureFormat: "decimal" }]
+test("a reading added up out of hours is floored to two significant figures", async () => {
   relayedFor(READOUT, -0.008333333333334636)
   expect((await stoplights())[0]?.reading).toBe("-0.0084")
 })
 
 test("a reading is never answered as the whole tail of the float it was added up from", async () => {
-  ANSWERED.readouts = [{ ...READOUT_ROW, figureFormat: "decimal" }]
   relayedFor(READOUT, 2.6666666666666665)
   const said = (await stoplights())[0]?.reading ?? ""
   expect(said.length).toBeLessThanOrEqual(6)

@@ -10,7 +10,6 @@ export const attributeCharisma = {
   label: "Charisma",
   unit: "points",
   place: 6,
-  figureFormat: "decimal",
   scaleSlug: "attribute-points",
   groupSlugs: ["attributes"],
   wireKey: "charisma",

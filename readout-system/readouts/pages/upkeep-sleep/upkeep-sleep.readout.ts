@@ -10,7 +10,6 @@ export const upkeepSleep = {
   label: "Sleep",
   unit: "hours",
   place: 6,
-  figureFormat: "integer",
   scaleSlug: "sleep-hours",
   groupSlugs: ["upkeep"],
   wireKey: "sleep",

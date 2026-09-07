@@ -10,7 +10,6 @@ export const attributeStrength = {
   label: "Strength",
   unit: "points",
   place: 1,
-  figureFormat: "decimal",
   scaleSlug: "attribute-points",
   groupSlugs: ["attributes"],
   wireKey: "strength",

@@ -10,7 +10,6 @@ export const inboxesTemperTasks = {
   label: "Temper tasks",
   unit: "tasks",
   place: 3,
-  figureFormat: "integer",
   scaleSlug: "daily-inbox",
   earnedKey: "inbox-temper-tasks-cleared-today",
   groupSlugs: ["inboxes"],

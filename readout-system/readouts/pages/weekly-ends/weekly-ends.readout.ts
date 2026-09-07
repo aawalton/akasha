@@ -9,7 +9,6 @@ export const weeklyEnds = {
   label: "7d ends",
   unit: "hours",
   place: 4,
-  figureFormat: "decimal",
   drawnAs: "number",
   scaleSlug: "allowance-hours",
   groupSlugs: ["claude-usage"],

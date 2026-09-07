@@ -10,7 +10,6 @@ export const upkeepSurplus = {
   label: "Surplus",
   unit: "hours",
   place: 2,
-  figureFormat: "integer",
   scaleSlug: "surplus-hours",
   groupSlugs: ["upkeep", "surplus"],
   wireKey: "surplus",

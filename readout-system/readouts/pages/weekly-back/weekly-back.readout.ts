@@ -9,7 +9,6 @@ export const weeklyBack = {
   label: "7d back",
   unit: "hours",
   place: 3,
-  figureFormat: "decimal",
   drawnAs: "number",
   colorSlug: "text",
   groupSlugs: ["claude-usage"],

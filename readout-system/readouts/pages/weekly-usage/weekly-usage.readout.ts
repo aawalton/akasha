@@ -9,7 +9,6 @@ export const weeklyUsage = {
   label: "Weekly Usage",
   unit: "percent",
   place: 1,
-  figureFormat: "integer",
   drawnAs: "number",
   colorFromSlug: "weekly-ends",
   groupSlugs: ["claude-usage"],

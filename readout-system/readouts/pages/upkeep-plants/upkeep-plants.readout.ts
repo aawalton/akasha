@@ -10,7 +10,6 @@ export const upkeepPlants = {
   label: "Plants",
   unit: "grams",
   place: 4,
-  figureFormat: "integer",
   scaleSlug: "plant-grams",
   wireKey: "plants",
   invariants: [

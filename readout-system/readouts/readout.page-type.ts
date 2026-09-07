@@ -4,7 +4,6 @@ import type { ColorFromSlug } from "./properties/color-from-slug.relation-proper
 import type { ColorSlug } from "./properties/color-slug.text-property.ts"
 import type { DrawnAs } from "./properties/drawn-as.text-property.ts"
 import type { EarnedKey } from "./properties/earned-key.text-property.ts"
-import type { FigureFormat } from "./properties/figure-format.text-property.ts"
 import type { GroupSlugs } from "./properties/group-slugs.relation-property.ts"
 import type { Label } from "./properties/label.text-property.ts"
 import type { LastValue } from "./properties/last-value.number-property.ts"
@@ -25,7 +24,6 @@ export type Readout = Module & {
   label: Label
   unit?: Unit
   place: Place
-  figureFormat?: FigureFormat
   drawnAs?: DrawnAs
   scaleSlug?: ScaleSlug
   colorSlug?: ColorSlug
@@ -63,7 +61,6 @@ export const readout = {
     "text-property/day-kind",
     "text-property/drawn-as",
     "text-property/earned-key",
-    "text-property/figure-format",
     "text-property/label",
     "text-property/none-left-emoji",
     "text-property/none-left-words",
@@ -78,7 +75,6 @@ export const readout = {
     { pagePropertySlug: "text-property/label", required: true, many: false },
     { pagePropertySlug: "text-property/unit", required: false, many: false },
     { pagePropertySlug: "number-property/place", required: true, many: false },
-    { pagePropertySlug: "text-property/figure-format", required: false, many: false },
     {
       pagePropertySlug: "text-property/drawn-as",
       required: false,
@@ -146,10 +142,6 @@ export const readout = {
     {
       invariantKind: "departure",
       statement: "A readout carries nothing about how the label and unit are drawn.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A readout carries how its own figure is written.",
     },
     {
       invariantKind: "departure",

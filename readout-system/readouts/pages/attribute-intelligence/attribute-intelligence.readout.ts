@@ -10,7 +10,6 @@ export const attributeIntelligence = {
   label: "Intelligence",
   unit: "points",
   place: 5,
-  figureFormat: "decimal",
   scaleSlug: "attribute-points",
   groupSlugs: ["attributes"],
   wireKey: "intelligence",
