@@ -13,8 +13,11 @@ export const addonDataWritesCodec = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The codec section reads no page, the constants sitting in the codec's own widths.",
+      statement: "The codec section reads no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The constants sit in the codec's own widths.",
     },
   ],
 } as const satisfies Module
