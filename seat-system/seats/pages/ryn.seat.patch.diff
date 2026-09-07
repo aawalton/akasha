@@ -1,0 +1,201 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/ryn-trained-parser.initiative.ts b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+deleted file mode 100644
+index 76dd62dec52a79b7e7921cf8b0b6d4d3f2992013..0000000000000000000000000000000000000000
+--- a/domains/initiatives/pages/ryn-trained-parser.initiative.ts
++++ /dev/null
+@@ -1,41 +0,0 @@
+-import type { Initiative } from "../initiative.page-type.ts"
+-
+-export const rynTrainedParser = {
+-  id: "01a06d30-4bca-74a1-b610-dcc27a519d56",
+-  pageTypeSlug: "initiative",
+-  slug: "ryn-trained-parser",
+-  domainSlug: "workspace-package/domain",
+-  personaSlug: "ryn",
+-  intents: [
+-    {
+-      statement: "Every sentence akasha writes is parsed into a dependency tree.",
+-      workingMemory:
+-        "The parser is landed: the compact-parser page, its four file properties and the four weight files beside it, read through onnxruntime-node from a fork of writinglint-parser-node under MIT. What is parsed is invariant statements alone, because Alan scoped this campaign to invariants for now. Definitions, directives and help notes are sentences akasha writes that nothing parses, so this widens when he says so.",
+-    },
+-    {
+-      statement: "Whether akasha writes in the passive is decided.",
+-      workingMemory:
+-        "43.5% of akasha's invariant statements are passive. The tree marks this cleanly as aux:pass, so a predicate is two lines. The decision is Alan's, and no other single shape reaches as many statements.",
+-    },
+-    {
+-      statement: "Every invariant under akasha is written in plain language.",
+-      workingMemory:
+-        "Every invariant under akasha passes the join gate, the reason gate and the five sentence shapes: 26,108 statements parsed and none refused. What the parser taught the rewrites: a bare `one`, `the rest`, `both`, `each one` and `all` read as quantifiers, and repeating the head noun clears them; the numeral word `one` trips where the digit 1 does not; `any one of` and `every one of` trip as partitive; a thousands separator inside a numeral reads as a comma join.",
+-    },
+-  ],
+-  constraints: [
+-    "The parser is owned as a package in this repository rather than taken as a live upstream dependency.",
+-    "The model weights are an uncommitted file property, colocated and never committed.",
+-    "A shape's predicate is a file property exporting one function of a type every shape shares.",
+-    "A statement is parsed alone, because batching moved the tree on 95 of 300 sentences.",
+-    "A trained model commits to one tree rather than ranking several trees.",
+-    "one by one is acceptable.",
+-    "A relative `that` is not a lone pronoun.",
+-    "A sentence shape is put to Alan only where it is proposed for acceptance.",
+-    "A remediation change that only rewords is landed as restated rather than as authored.",
+-    "A remediation change deleting a clause is landed as authored.",
+-    "A remediation landing carries one file, so agents contend on the gate rather than on each other.",
+-    "Twenty agents remediate at once.",
+-    "A statement an agent cannot rewrite is left as it is and handed back to ryn.",
+-  ],
+-} as const satisfies Initiative
+diff --git a/seat-system/subagents/pages/ryn-a40d9c8e5aac39331.subagent.ts b/seat-system/subagents/pages/ryn-a40d9c8e5aac39331.subagent.ts
+deleted file mode 100644
+index 19002391b19b04b717336e3f0993c0c87d9bf1e9..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a40d9c8e5aac39331.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA40d9c8e5aac39331 = {
+-  id: "01a07c04-b326-702b-95b4-6e3dfa9e1011",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a40d9c8e5aac39331",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a40d9c8e5aac39331",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a4e8375698391550c.subagent.ts b/seat-system/subagents/pages/ryn-a4e8375698391550c.subagent.ts
+deleted file mode 100644
+index 6e1b793e711e74a392dcebc6d0ce2edabc6d0a39..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a4e8375698391550c.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA4e8375698391550c = {
+-  id: "01a07c01-c014-7689-b062-65772f83c292",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a4e8375698391550c",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a4e8375698391550c",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a4ef6fa56e29a9d42.subagent.ts b/seat-system/subagents/pages/ryn-a4ef6fa56e29a9d42.subagent.ts
+deleted file mode 100644
+index d29f931e0a887fa40d53d7204fa9031d8ef36adf..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a4ef6fa56e29a9d42.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA4ef6fa56e29a9d42 = {
+-  id: "01a07c03-e4b0-7763-821a-7f1561e830b0",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a4ef6fa56e29a9d42",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a4ef6fa56e29a9d42",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a83c34857bde75888.subagent.ts b/seat-system/subagents/pages/ryn-a83c34857bde75888.subagent.ts
+deleted file mode 100644
+index 74f8713a4b7929dab7a1dc881a281d8df94003b4..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a83c34857bde75888.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA83c34857bde75888 = {
+-  id: "01a07bfc-52c1-71c1-b044-5354e4c7b431",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a83c34857bde75888",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a83c34857bde75888",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a946f8b480bc68d92.subagent.ts b/seat-system/subagents/pages/ryn-a946f8b480bc68d92.subagent.ts
+deleted file mode 100644
+index f46ff53b02353f1a8de5795bcc1970681abe52bc..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a946f8b480bc68d92.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA946f8b480bc68d92 = {
+-  id: "01a07c01-64ba-771e-907d-76f51c33d9e9",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a946f8b480bc68d92",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a946f8b480bc68d92",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-ac45f2b22033a2b17.subagent.ts b/seat-system/subagents/pages/ryn-ac45f2b22033a2b17.subagent.ts
+deleted file mode 100644
+index b7487085a2886c445d7c1fdd4fce14e25ee0004f..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-ac45f2b22033a2b17.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynAc45f2b22033a2b17 = {
+-  id: "01a07bf6-4180-7e49-97ad-67bb1e44eec4",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-ac45f2b22033a2b17",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--ac45f2b22033a2b17",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-ada4da2b143386ea2.subagent.ts b/seat-system/subagents/pages/ryn-ada4da2b143386ea2.subagent.ts
+deleted file mode 100644
+index 2f0ab233fc844744e250772afbfbd1e4e7a05e7d..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-ada4da2b143386ea2.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynAda4da2b143386ea2 = {
+-  id: "01a07bf6-d3a7-7cf8-8207-976c3fdc4f7f",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-ada4da2b143386ea2",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--ada4da2b143386ea2",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-adc0be13ac7989fcf.subagent.ts b/seat-system/subagents/pages/ryn-adc0be13ac7989fcf.subagent.ts
+deleted file mode 100644
+index abbd46f59cb5e0b2f0d43fd89c0fce5723360d61..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-adc0be13ac7989fcf.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynAdc0be13ac7989fcf = {
+-  id: "01a07bf5-a3cc-70d9-b6e4-4967e1f69557",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-adc0be13ac7989fcf",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--adc0be13ac7989fcf",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-ae669007a27a72309.subagent.ts b/seat-system/subagents/pages/ryn-ae669007a27a72309.subagent.ts
+deleted file mode 100644
+index 593d65c48d4864e18e8cc2c83c2594820aa1e2d8..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-ae669007a27a72309.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynAe669007a27a72309 = {
+-  id: "01a07c00-f5c7-7f77-902b-96c54d8e1984",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-ae669007a27a72309",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--ae669007a27a72309",
+-} as const satisfies Subagent
