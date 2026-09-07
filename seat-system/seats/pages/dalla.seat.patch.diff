@@ -1,132 +1,99 @@
 writerOwesReading: false
-diff --git a/changes/agent/file/move-page/move-page.change-checked.code.ts b/changes/agent/file/move-page/move-page.change-checked.code.ts
-index b44a0028b47389045197d6cd158b108e8613ffe9..58ce6dcf18db8d0c719ef1249bd91ee789d95169 100644
---- a/changes/agent/file/move-page/move-page.change-checked.code.ts
-+++ b/changes/agent/file/move-page/move-page.change-checked.code.ts
-@@ -1,11 +1,12 @@
- import { dirname, join, relative } from "node:path"
- import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
- import {
+diff --git a/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts b/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts
+index 70a570bb7dae40e8fc7b7d4f083f39af3ee45d48..5f4cab319086129d83daac9304457b28a60f71a7 100644
+--- a/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts
++++ b/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts
+@@ -1,9 +1,5 @@
+-import {
 -  answered,
-   missing,
-+  narrowed,
-   refusing,
-+  stating,
- } from "../../../modules/change-answer/change-answer.module.code.ts"
--import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
-+import type { Said, Stated } from "../../../modules/change-answer/change-answer.module.types.ts"
- import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
- import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
- import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
-@@ -41,7 +42,7 @@ function movedInto(world: World, at: string, to: string, beside: readonly string
-   return { moved: said }
+-  moving,
+-  refusing,
+-} from "../../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
++import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
++import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
+ import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ export type Asked = {
+@@ -11,14 +7,7 @@ export type Asked = {
+   readonly to: string
  }
  
--export async function movePage(world: World, given: MovePageAsked): Promise<Answer> {
-+export async function movePage(world: World, given: MovePageAsked): Promise<Said> {
-   const value = pageIn(world, given.at)
-   if (value === null) return refusing(`\`${given.at}\` names no page, so no page is carried`)
-   let beside: readonly string[]
-@@ -57,32 +58,31 @@ export async function movePage(world: World, given: MovePageAsked): Promise<Answ
-   const reading = importingOf(world.index, moved)
-   if ("unread" in reading) return refusing(reading.unread)
-   const carried = Object.fromEntries(moved)
--  const edits: Edit[] = []
-+  const edits: Stated[] = []
-   let seen = world
-   for (const [one, next] of moved) {
-     if (seen.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
-     const answer = await reach(seen, CHANGE_IMPORTS, { was: one, now: next, moved: carried })
-     if (answer.said.refused !== null) return answer.said
--    edits.push(...answer.said.edits)
-+    for (const edit of answer.said.edits) edits.push(...narrowed(edit))
-     seen = answer.world
-   }
-   for (const path of reading.importers) {
-     if (moved.has(path)) continue
--    const held = seen.textOf(path)
--    if (held === null) return refusing(`\`${path}\` names a path that moved and could not be read`)
-+    if (seen.textOf(path) === null) {
-+      return refusing(`\`${path}\` names a path that moved and could not be read`)
-+    }
-     const answer = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved: carried })
-     if (answer.said.refused !== null) return answer.said
--    for (const one of answer.said.edits) {
--      if (one.body !== held) edits.push(one)
--    }
-+    for (const edit of answer.said.edits) edits.push(...narrowed(edit))
-     seen = answer.world
-   }
--  return answered(edits)
-+  return stating(edits)
+-export function moveFile(given: Asked, textOf: (path: string) => string | null): Answer {
++export function runChange(_world: World, given: Asked): Said {
+   if (given.from === given.to) return refusing(`\`${given.to}\` is the path it already sits at`)
+-  const text = textOf(given.from)
+-  if (text === null) return refusing(`\`${given.from}\` holds no body, so a move carries nothing`)
+-  if (textOf(given.to) !== null) return refusing(`\`${given.to}\` is a body already`)
+-  return answered([moving(given.from, given.to, text, text)])
+-}
+-
+-export function runChange(world: World, given: Asked): Answer {
+-  return moveFile(given, world.textOf)
++  return stating([{ kind: "move", pathFrom: given.from, pathTo: given.to }])
  }
+diff --git a/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.test.ts b/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.test.ts
+index 5aaec4c204aa498bc7a04e78798c61de16562990..376f49db5129bb01bf3bdb58ec3052f2c6d74b76 100644
+--- a/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.test.ts
++++ b/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.test.ts
+@@ -1,35 +1,48 @@
+ import { expect, test } from "bun:test"
+-import { reading } from "@akasha/pages/page-value/testing"
+-import { moveFile } from "./move-file.change-mechanical-file.code.ts"
++import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
++import { worldOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
++import { type Asked, runChange } from "./move-file.change-mechanical-file.code.ts"
  
- export type Asked = Readonly<Record<string, string>>
+ const FROM = "akasha/one.held.ts"
  
--export async function runChange(world: World, given: Asked): Promise<Answer> {
-+export async function runChange(world: World, given: Asked): Promise<Said> {
-   const at = given[AT]
-   if (at === undefined) return refusing(missing(AT))
-   const to = given[TO]
-diff --git a/changes/agent/file/move-page/move-page.change-checked.test.ts b/changes/agent/file/move-page/move-page.change-checked.test.ts
-index cdfe2031820e352de6aa400f46100cf34f5ffc1e..c80c56659d6e3b995d94ba5a3dc7603e0e973d61 100644
---- a/changes/agent/file/move-page/move-page.change-checked.test.ts
-+++ b/changes/agent/file/move-page/move-page.change-checked.test.ts
-@@ -8,9 +8,10 @@ import {
-   textIn,
- } from "@akasha/indexes/indexing/testing"
- import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
--import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
-+import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
-+import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
- import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
--import { movePage } from "./move-page.change-checked.code.ts"
-+import { type MovePageAsked, movePage } from "./move-page.change-checked.code.ts"
+ const TO = "akasha/two.held.ts"
  
- afterAll(scratch.sweep)
- 
-@@ -29,8 +30,12 @@ function worldIn(root: string): World {
-   })
- }
- 
-+async function answering(world: World, given: MovePageAsked): Promise<Answer> {
-+  return widened(await movePage(world, given), world.textOf)
++function ranOn(held: Readonly<Record<string, string>>, given: Asked): Answer {
++  const world = worldOf(held)
++  return widened(runChange(world, given), world.textOf)
 +}
 +
- test("a page carried into another folder carries the files beside that page", async () => {
--  const said = await movePage(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
-+  const said = await answering(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
-   const paths = said.edits.map((one) => one.path)
+ test("a path the tree holds a body for is answered as one edit carrying it to another path", () => {
+-  const said = moveFile({ from: FROM, to: TO }, reading({ [FROM]: "alpha\n" }))
++  const said = ranOn({ [FROM]: "alpha\n" }, { from: FROM, to: TO })
  
    expect(said.refused).toBeNull()
-@@ -39,14 +44,23 @@ test("a page carried into another folder carries the files beside that page", as
+   expect(said.edits).toEqual([{ path: TO, was: "alpha\n", body: "alpha\n", from: FROM }])
  })
  
- test("every path that moved says the path the move came from", async () => {
--  const said = await movePage(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
-+  const said = await answering(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
-   const came = said.edits.map((one) => one.from).filter((one) => one !== undefined)
+ test("a path holding no body is refused and answers no edit", () => {
+-  const said = moveFile({ from: FROM, to: TO }, reading({}))
++  const said = ranOn({}, { from: FROM, to: TO })
  
-   expect([...came].sort()).toEqual([HELD_CODE, HELD_PAGE])
+   expect(said.edits).toEqual([])
+   expect(said.refused ?? "").toMatch(/holds no body/)
  })
  
--test("a body naming a path that moved is repointed in the same answer", async () => {
-+test("a file carried with its body unchanged is stated as a move holding no body", async () => {
-   const said = await movePage(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
+ test("a path a body already stands at is refused rather than written over", () => {
+-  const said = moveFile({ from: FROM, to: TO }, reading({ [FROM]: "alpha\n", [TO]: "beta\n" }))
++  const said = ranOn({ [FROM]: "alpha\n", [TO]: "beta\n" }, { from: FROM, to: TO })
+ 
+   expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toMatch(/is a body already/)
++  expect(said.refused ?? "").toMatch(/holds a body already/)
+ })
+ 
+ test("the path a file already sits at is refused rather than answered as a move", () => {
+-  const said = moveFile({ from: FROM, to: FROM }, reading({ [FROM]: "alpha\n" }))
++  const said = ranOn({ [FROM]: "alpha\n" }, { from: FROM, to: FROM })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused ?? "").toMatch(/already sits at/)
+ })
 +
-+  expect(said.edits.filter((one) => one.kind === "move")).toEqual([
-+    { kind: "move", pathFrom: HELD_PAGE, pathTo: MOVED_PAGE },
-+    { kind: "move", pathFrom: HELD_CODE, pathTo: MOVED_CODE },
-+  ])
++test("the two paths alone are stated rather than the body carried between them", () => {
++  const said = runChange(worldOf({ [FROM]: "alpha\n" }), { from: FROM, to: TO })
++
++  expect(said.edits).toEqual([{ kind: "move", pathFrom: FROM, pathTo: TO }])
 +})
-+
-+test("a body naming a path that moved is repointed in the same answer", async () => {
-+  const said = await answering(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
-   const one = said.edits.find((edit) => edit.path === NAMER_CODE)
- 
-   expect(one?.body ?? "").toContain("../three/held.module.code.ts")
 diff --git a/changes/modules/edits-keeping/edits-keeping.module.code.ts b/changes/modules/edits-keeping/edits-keeping.module.code.ts
-index 713b83a1ca1c7f37bca280210d80ba06e9d4d447..14f0289a53632b3051377f60e193a33b0bcf11f1 100644
+index 025e1d1c027e5290bfa840697615dfc84a1899fe..14f0289a53632b3051377f60e193a33b0bcf11f1 100644
 --- a/changes/modules/edits-keeping/edits-keeping.module.code.ts
 +++ b/changes/modules/edits-keeping/edits-keeping.module.code.ts
 @@ -223,6 +223,13 @@ function poured(root: string, page: string, lines: readonly string[]): undefined
@@ -143,15 +110,6 @@ index 713b83a1ca1c7f37bca280210d80ba06e9d4d447..14f0289a53632b3051377f60e193a33b
  function wasIn(one: Edit): BodyOf {
    const came = one.from === undefined || one.from === one.path ? one.path : one.from
    return (path) => (path === came ? one.was : null)
-@@ -242,7 +249,7 @@ function sameRow(one: Edit, two: Edit): boolean {
- function narrowIn(one: Edit): Stated | null {
-   const narrow = narrowed(one)
-   const only = narrow.length === 1 ? narrow[0] : undefined
--  if (only === undefined) return null
-+  if (only === undefined || only.kind === "replace") return null
-   const back = widened({ edits: [only], refused: null }, wasIn(one))
-   const got = back.edits[0]
-   if (back.refused !== null || back.edits.length !== 1 || got === undefined) return null
 @@ -267,6 +274,7 @@ function appending(
      root,
      page,
@@ -160,58 +118,3 @@ index 713b83a1ca1c7f37bca280210d80ba06e9d4d447..14f0289a53632b3051377f60e193a33b
    )
  }
  
-diff --git a/changes/modules/edits-keeping/edits-keeping.module.test.ts b/changes/modules/edits-keeping/edits-keeping.module.test.ts
-index 7cb0b78386e75c4354e62aa4e93c5a1689050753..43b4adc628f9792514c697e91980a6707e32e614 100644
---- a/changes/modules/edits-keeping/edits-keeping.module.test.ts
-+++ b/changes/modules/edits-keeping/edits-keeping.module.test.ts
-@@ -354,6 +354,27 @@ test("a row adding a path is written without the body that path lacked", () => {
-   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
- })
- 
-+test("a row writing one body over another states the whole body each side", () => {
-+  const root = rootFor()
-+  putting(root, "a\n", ONE)
-+  const row = writing(ONE, "a\n", "b\n")
-+
-+  appendEdits(root, PAGE, [row])
-+
-+  expect(storedIn(root)).toEqual([JSON.stringify(row)])
-+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
-+})
-+
-+test("a row writing over a body the files beneath no longer hold reads back as that row", () => {
-+  const root = rootFor()
-+  putting(root, "c\n", ONE)
-+  const row = writing(ONE, "a\n", "b\n")
-+
-+  appendEdits(root, PAGE, [row])
-+
-+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
-+})
-+
- test("a row that would read back as no row states the whole body", () => {
-   const root = rootFor()
-   const row = writing(ONE, "a\n", "a\n")
-diff --git a/changes/modules/edits-keeping/edits-keeping.module.ts b/changes/modules/edits-keeping/edits-keeping.module.ts
-index ff99b7ee3b272f8eb8fc42edcf477474218880ba..4e0d4d4069c41766003007d9e86e7c8960855f98 100644
---- a/changes/modules/edits-keeping/edits-keeping.module.ts
-+++ b/changes/modules/edits-keeping/edits-keeping.module.ts
-@@ -74,6 +74,18 @@ export const editsKeeping = {
-       invariantKind: "departure",
-       statement: "A row that would read back as any other row states the whole body instead.",
-     },
-+    {
-+      invariantKind: "departure",
-+      statement: "A row whose path holds a body each side states the whole body each side.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A row narrowed names no passage of a body.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A body that moved beneath a narrowed row is read as that body is now.",
-+    },
-     {
-       invariantKind: "departure",
-       statement: "Whether a row reads back is answered against the body that row states.",
