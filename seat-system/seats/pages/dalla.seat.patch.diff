@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index 6e816267ffc6ae54f9387d21e052d755e94d2d72..046a1f46d20ea7d6cdb7b49d0fb5051371f3f879 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -10,7 +10,7 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "A change is reached by its address rather than by an import.",
+       workingMemory:
+-        "Every change loads one way, through `runChange` by address. This is for one loading path rather than for guards: `guardSlugs` is declared on `ChangeMechanical` alone, so no guard is skipped. `address-mapping` builds the map from `change-mechanical` alone and bars command-line changes, which Alan's direction supersedes. `move-folder-package` is the one site importing a sibling; converting it answers the same, and its hand-built world re-gathers edits its inner reaches added.",
++        "Met but for one defect. `REACHED` is `change`, so the map covers all 43 addresses where it held 25: 25 mechanical, 15 checked, 2 authored, 1 restated, and `change-command` has no pages. The absence invariant barring command-line changes is deleted. `move-folder-package` reaches both siblings by address. The residue: `addedTo` writes what `gathered` answers into `kept.over` without reading `refused`, so a refusal blanks the ledger rather than surfacing.",
+     },
+     {
+       statement: "An applied patch runs the checks and the warrants its changes call for.",
