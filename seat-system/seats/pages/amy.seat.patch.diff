@@ -23,3 +23,32 @@ index d7cb16ed99586e1d14796e0bc13e0f5a9c975da4..8bcb58002a7f7c68bd514121c616d351
      pageId: page === undefined ? "" : (textAt(page, "id") ?? ""),
      on,
      values: page === undefined ? null : (page["values"] ?? null),
+diff --git a/pages/service/page-asking/page-asking.module.test.ts b/pages/service/page-asking/page-asking.module.test.ts
+index cd5fd711be0264c3757b0c1288ab66689060d8f8..7e46b2368197626cfe396e09cfc3ff7a10ddefab 100644
+--- a/pages/service/page-asking/page-asking.module.test.ts
++++ b/pages/service/page-asking/page-asking.module.test.ts
+@@ -8,6 +8,8 @@ import {
+   meets,
+   ownerFor,
+   type Query,
++  shaping,
++  titledAs,
+ } from "./page-asking.module.code.ts"
+ 
+ const root = join(import.meta.dir, "..", "..", "..")
+@@ -341,3 +343,15 @@ test("what a query asks for is every key it names, each under where it named it"
+     ["definition", "keys"],
+   ])
+ })
++
++test("a property slug is titled with its words spaced and each word opening capital", () => {
++  expect(titledAs("to-do-due-date")).toBe("To Do Due Date")
++  expect(titledAs("title")).toBe("Title")
++})
++
++test("a declaration is titled by its own property slug rather than by the definition", () => {
++  const shaped = shaping(root, "invariant-kind")
++  const declarations = "shape" in shaped ? (shaped.shape?.declarations ?? []) : []
++  const found = declarations.find((one) => one.key === "invariant-group-slug")
++  expect(found?.title).toBe("Invariant Group Slug")
++})
