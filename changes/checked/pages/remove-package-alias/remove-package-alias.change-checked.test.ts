@@ -7,7 +7,7 @@ import {
   dropPackageAlias,
   runChange,
   withoutAliasIn,
-} from "./drop-package-alias.change-checked.code.ts"
+} from "./remove-package-alias.change-checked.code.ts"
 
 afterAll(scratch.sweep)
 

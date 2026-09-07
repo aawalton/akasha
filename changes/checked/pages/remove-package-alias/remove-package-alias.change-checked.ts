@@ -1,9 +1,9 @@
 import type { ChangeChecked } from "../../change-checked.page-type.ts"
 
-export const dropPackageAlias = {
+export const removePackageAlias = {
   id: "01a07c16-3e5f-7641-95c5-a6e485991ad1",
   pageTypeSlug: "change-checked",
-  slug: "drop-package-alias",
+  slug: "remove-package-alias",
   changeModeSlug: "change-mode-remove",
   definition: "the alias a renamed package was reached under taken out of every manifest",
   code: "ts",
