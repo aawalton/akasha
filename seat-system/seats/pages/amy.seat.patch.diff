@@ -12,6 +12,24 @@ index b7a663d45606a0d7417b509301fc0479337588e3..66591cd19101f762feccd4606fe5127f
          return (nextTier, progress)
      }
  
+diff --git a/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts b/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts
+index 5308377e664a6c7099c4cb2e69df182382d8973b..47a6b2388112b473241a60f40ae58b5c373c2b74 100644
+--- a/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts
++++ b/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts
+@@ -20,5 +20,13 @@ export const alanwaltonStoplightRing = {
+       invariantKind: "absence",
+       statement: "Nothing here works out whether a reading past either end draws its number.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An arc filling the whole ring is not drawn.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A reading at the end of its band draws that band's own tier.",
++    },
+   ],
+ } as const satisfies IosComponent
 diff --git a/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts b/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts
 index ac734644bf5d7e92cc324b340b0d662dc82d8a02..f2703617a830cdfd89095dfd43adaf8cd310f02b 100644
 --- a/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts
