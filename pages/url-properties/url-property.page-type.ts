@@ -12,6 +12,7 @@ export const urlProperty = {
   slug: "url-property",
   definition: "a page property holding a web address",
   pluralSlug: "url-properties",
+  prose: false,
   extendsSlug: ["page-type/page-property"],
   properties: [{ pagePropertySlug: "number-property/max-length", required: true, many: false }],
   invariants: [

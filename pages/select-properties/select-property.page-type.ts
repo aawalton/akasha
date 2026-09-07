@@ -12,6 +12,7 @@ export const selectProperty = {
   slug: "select-property",
   definition: "a page property holding one of a set of values the property states",
   pluralSlug: "select-properties",
+  prose: false,
   partSlugs: ["text-property/select-values"],
   extendsSlug: ["page-type/page-property"],
   properties: [

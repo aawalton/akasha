@@ -9,6 +9,7 @@ export const processProperty = {
   slug: "process-property",
   definition: "a page property holding one run of one program",
   pluralSlug: "process-properties",
+  prose: false,
   extendsSlug: ["page-type/page-property"],
   invariants: [
     {
