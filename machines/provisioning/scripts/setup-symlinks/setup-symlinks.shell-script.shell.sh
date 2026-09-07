@@ -15,6 +15,7 @@ REPOS="$(dirname -- "$AKASHA_ROOT")"
 FILES="$AKASHA_ROOT/machines/provisioning/provisioned-files/pages"
 SCRIPTS="$AKASHA_ROOT/machines/provisioning/scripts"
 
+# shellcheck source=../link-making/link-making.shell-script.shell.sh
 . "$SCRIPTS/link-making/link-making.shell-script.shell.sh"
 
 echo "Setting up dotfile symlinks..."

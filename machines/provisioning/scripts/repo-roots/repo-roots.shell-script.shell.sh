@@ -8,6 +8,7 @@ if [ ! -f "$_rr_own/akasha.domain.ts" ]; then
   printf 'repo-roots: derived %s, which holds no akasha.domain.ts, so it is not an akasha checkout\n' \
     "$_rr_own" >&2
   unset _rr_self _rr_own _rr_beside
+  # shellcheck disable=SC2317
   return 1 2>/dev/null || exit 1
 fi
 
