@@ -1,0 +1,894 @@
+writerOwesReading: false
+diff --git a/command-system/change-acting/change-acting.module.code.ts b/command-system/change-acting/change-acting.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..882d40624e7fb2fd360be82ef6f1ac1b3dc18503
+--- /dev/null
++++ b/command-system/change-acting/change-acting.module.code.ts
+@@ -0,0 +1,113 @@
++import type { Edit } from "../../changes/modules/change-answer/change-answer.module.types.ts"
++import {
++  foldedIn,
++  handedAway,
++  handedIn,
++  handedUnder,
++  keptEdits,
++} from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
++import { mistaking } from "../asking/asking.module.code.ts"
++import type { Answer } from "../calling/calling.module.code.ts"
++import { offRepo, pathAt } from "../said-pathing/said-pathing.module.code.ts"
++
++export const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
++
++const DROPPED = "these edits are gone, and no apply lands them"
++
++const NOTHING_KEPT = "no edits are kept beside this agent's page, so nothing went"
++
++const NO_KEPT_EDIT = "names no edit kept beside this agent's page, so nothing went"
++
++const STILL_KEPT = "edit(s) are still kept beside this agent's page"
++
++const NONE_HANDED = "no subagent has handed edits to this agent"
++
++const NO_SUBAGENT = "this call names no subagent whose handed edits would be reached"
++
++const HANDED_LANDS = "`akasha change take <subagent>` takes one of these into this agent's own"
++
++const HELD_BACK = "the handed edits are kept as they were, and this agent's own are unchanged"
++
++const TAKEN = "these edits are this agent's own now, and `akasha apply` lands them"
++
++export function saidOf(one: Edit): string {
++  const came = one.from
++  if (came !== undefined && came !== one.path) return `moves ${came} to ${one.path}`
++  if (one.body === null) return `takes ${one.path} away`
++  if (one.was === null) return `adds ${one.path}`
++  return `changes ${one.path}`
++}
++
++function namedIn(one: Edit, at: readonly string[]): boolean {
++  return at.includes(one.path) || (one.from !== undefined && at.includes(one.from))
++}
++
++export function dropping(root: string, page: string, said: readonly string[]): Answer {
++  const at: string[] = []
++  for (const one of said) {
++    const path = pathAt(root, one)
++    if (path === null) return mistaking([offRepo(one)])
++    at.push(path)
++  }
++  let answer: Answer = { report: [NOTHING_KEPT], refusals: [], code: 0 }
++  const dropped = keptEdits(root, page, (had) => {
++    const bare = at.length === 0
++    const went = bare ? had : had.filter((one) => namedIn(one, at))
++    const missed = at.filter((one) => !went.some((edit) => namedIn(edit, [one])))
++    if (missed.length > 0) {
++      answer = mistaking(missed.map((one) => `\`${one}\` ${NO_KEPT_EDIT}`))
++      return had
++    }
++    if (went.length === 0) return null
++    const left = bare ? [] : [`${String(had.length - went.length)} ${STILL_KEPT}`]
++    answer = { report: [...went.map(saidOf).sort(), DROPPED, ...left], refusals: [], code: 0 }
++    return bare ? null : had.filter((one) => !namedIn(one, at))
++  })
++  if ("why" in dropped) return { report: [], refusals: [dropped.why], code: 3 }
++  return answer
++}
++
++export function waitingSaid(root: string, page: string): readonly string[] {
++  const many = handedUnder(root, page).length
++  if (many === 0) return []
++  return [`${String(many)} subagent(s) handed edits over, which \`akasha change handed\` names`]
++}
++
++export function listing(root: string, page: string): Answer {
++  const under = handedUnder(root, page)
++  if (under.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
++  const said = under.map((one) => {
++    const held = handedIn(root, page, one)
++    return `${one} handed ${String("why" in held ? 0 : held.rows.length)} edit(s) over`
++  })
++  return { report: [...said, HANDED_LANDS], refusals: [], code: 0 }
++}
++
++export function taking(root: string, page: string, under: string | undefined): Answer {
++  if (under === undefined) return mistaking([NO_SUBAGENT])
++  const held = handedIn(root, page, under)
++  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
++  if (held.rows.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
++  let answer: Answer = mistaking([NO_PAGE])
++  const kept = keptEdits(root, page, (had) => {
++    const folded = foldedIn([...had, ...held.rows])
++    if (folded.refused !== null) {
++      answer = { report: [], refusals: [folded.refused, HELD_BACK], code: 3 }
++      return had
++    }
++    answer = { report: [...held.rows.map(saidOf).sort(), TAKEN], refusals: [], code: 0 }
++    return [...had, ...held.rows]
++  })
++  if ("why" in kept) return { report: [], refusals: [kept.why], code: 3 }
++  if (answer.code === 0) handedAway(root, page, under)
++  return answer
++}
++
++export function forgetting(root: string, page: string, under: string | undefined): Answer {
++  if (under === undefined) return mistaking([NO_SUBAGENT])
++  const held = handedIn(root, page, under)
++  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
++  if (held.rows.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
++  handedAway(root, page, under)
++  return { report: [...held.rows.map(saidOf).sort(), DROPPED], refusals: [], code: 0 }
++}
+diff --git a/command-system/change-acting/change-acting.module.ts b/command-system/change-acting/change-acting.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..913bddb9726d81f3bf7b116930cf3d50d7eb0006
+--- /dev/null
++++ b/command-system/change-acting/change-acting.module.ts
+@@ -0,0 +1,47 @@
++import type { Module } from "@akasha/code/module"
++
++export const changeActing = {
++  id: "01a07c62-0a71-737e-8955-3410b4a608bf",
++  pageTypeSlug: "module",
++  slug: "change-acting",
++  definition: "the acts `akasha change` runs over the edits kept rather than over a change",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An act here names no change and runs no change.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An act reaches the edits kept beside the calling agent's page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "How one edit is said in a report is worded here rather than by each act.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drop naming paths reads each path against the repository root.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drop naming paths leaves every edit no path named.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path naming no edit kept refuses the drop rather than being passed over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drop leaves every edit a subagent handed over.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads an argument off the command line.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here lands.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
+index 8995815bbd559c76b8e40163ca49931072ebcb78..a8c23c767c92d45859904925190d1ac264068ff6 100644
+--- a/command-system/command-system.workspace-package.ts
++++ b/command-system/command-system.workspace-package.ts
+@@ -67,6 +67,7 @@ export const commandSystem = {
+     "module/passage-counting",
+     "module/file-arguing",
+     "module/mechanical-filing",
++    "module/change-acting",
+   ],
+   invariants: [
+     {
+diff --git a/command-system/commands/apply/apply.command.code.ts b/command-system/commands/apply/apply.command.code.ts
+index 0e55bce041f6aa36d61d90c2d722d7fbfea3a8ea..91b569e98c5a0f8648b0d19f20b05a684b2ec58d 100644
+--- a/command-system/commands/apply/apply.command.code.ts
++++ b/command-system/commands/apply/apply.command.code.ts
+@@ -11,6 +11,7 @@ import {
+ import { writtenAgain } from "../../address-mapping/address-mapping.module.code.ts"
+ import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import { waitingSaid } from "../../change-acting/change-acting.module.code.ts"
+ import { MESSAGE, MESSAGE_FILE, unknownIn } from "../../command-flags/command-flags.module.code.ts"
+ import {
+   type Bodies,
+@@ -24,7 +25,7 @@ import {
+ } from "../../drafting/drafting.module.code.ts"
+ import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
+ import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
+-import { editsFor, noPageSaid, waitingSaid } from "../change/change.command.code.ts"
++import { editsFor, noPageSaid } from "../change/change.command.code.ts"
+ import { applying } from "../patch/patch.command.code.ts"
+ 
+ const BYTES = new TextEncoder()
+diff --git a/command-system/commands/change/change.command.code.ts b/command-system/commands/change/change.command.code.ts
+index 9a4eaf696e6f98ddf368822de55a9dde8aae84b1..8a6124be4dccaf50c1b5525bdb5ecd2803e18376 100644
+--- a/command-system/commands/change/change.command.code.ts
++++ b/command-system/commands/change/change.command.code.ts
+@@ -15,9 +15,6 @@ import {
+ import {
+   editsAt,
+   foldedIn,
+-  handedAway,
+-  handedIn,
+-  handedUnder,
+   keptAt,
+   keptEdits,
+ } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+@@ -39,6 +36,15 @@ import {
+   HELP_SHORT,
+   helpOf,
+ } from "../../calling/calling.module.code.ts"
++import {
++  dropping,
++  forgetting,
++  listing,
++  NO_PAGE,
++  saidOf,
++  taking,
++  waitingSaid,
++} from "../../change-acting/change-acting.module.code.ts"
+ import { MESSAGE, unknownIn } from "../../command-flags/command-flags.module.code.ts"
+ import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+ import type { FileEdit } from "../../landing/landing.module.code.ts"
+@@ -47,8 +53,6 @@ import { offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
+ import type { Taking } from "../properties/taking.record-property.ts"
+ import { change as changePage } from "./change.command.ts"
+ 
+-const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
+-
+ export const PAGE_LANDING =
+   "A subagent dispatched a moment ago can run before its page lands, and a landing refused leaves" +
+   " that subagent with no page at all. Run this from a terminal to put the page up, then ask again:"
+@@ -78,7 +82,7 @@ const COMMAND_TYPES: readonly string[] = [
+ 
+ const DROP = "drop"
+ 
+-const DROP_TAKES = "the act taking away every edit kept beside this agent's page"
++const DROP_TAKES = "the act taking away the edits kept, at the paths named or at every path"
+ 
+ const DEFINITION = "definition"
+ 
+@@ -86,10 +90,6 @@ const READERS_OWE_READING = "readersOweReading"
+ 
+ const WRITER_OWES_READING = "writerOwesReading"
+ 
+-const DROPPED = "these edits are gone, and no apply lands them"
+-
+-const NOTHING_KEPT = "no edits are kept beside this agent's page, so nothing went"
+-
+ const DROP_SAID = "`drop` and `handed` and `take` and `forget` name an act rather than a change"
+ 
+ const HANDED = "handed"
+@@ -104,16 +104,6 @@ const TAKE_TAKES = "the act taking one subagent's handed edits into this agent's
+ 
+ const FORGET_TAKES = "the act taking away one subagent's handed edits"
+ 
+-const NONE_HANDED = "no subagent has handed edits to this agent"
+-
+-const NO_SUBAGENT = "this call names no subagent whose handed edits would be reached"
+-
+-const HANDED_LANDS = "`akasha change take <subagent>` takes one of these into this agent's own"
+-
+-const HELD_BACK = "the handed edits are kept as they were, and this agent's own are unchanged"
+-
+-const TAKEN = "these edits are this agent's own now, and `akasha apply` lands them"
+-
+ const NO_ARGUMENTS =
+   "a change reads its arguments from standard input, and this call piped nothing in"
+ 
+@@ -250,70 +240,6 @@ function typeOf(world: World, slug: string): string {
+   return CHANGE_COMMAND
+ }
+ 
+-function saidOf(one: Edit): string {
+-  const came = one.from
+-  if (came !== undefined && came !== one.path) return `moves ${came} to ${one.path}`
+-  if (one.body === null) return `takes ${one.path} away`
+-  if (one.was === null) return `adds ${one.path}`
+-  return `changes ${one.path}`
+-}
+-
+-export function dropping(root: string, page: string): Answer {
+-  let went: readonly string[] = []
+-  const dropped = keptEdits(root, page, (had) => {
+-    went = had.map(saidOf).sort()
+-    return null
+-  })
+-  if ("why" in dropped) return { report: [], refusals: [dropped.why], code: 3 }
+-  if (went.length === 0) return { report: [NOTHING_KEPT], refusals: [], code: 0 }
+-  return { report: [...went, DROPPED], refusals: [], code: 0 }
+-}
+-
+-export function waitingSaid(root: string, page: string): readonly string[] {
+-  const many = handedUnder(root, page).length
+-  if (many === 0) return []
+-  return [`${String(many)} subagent(s) handed edits over, which \`akasha change handed\` names`]
+-}
+-
+-export function listing(root: string, page: string): Answer {
+-  const under = handedUnder(root, page)
+-  if (under.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
+-  const said = under.map((one) => {
+-    const held = handedIn(root, page, one)
+-    return `${one} handed ${String("why" in held ? 0 : held.rows.length)} edit(s) over`
+-  })
+-  return { report: [...said, HANDED_LANDS], refusals: [], code: 0 }
+-}
+-
+-export function taking(root: string, page: string, under: string | undefined): Answer {
+-  if (under === undefined) return mistaking([NO_SUBAGENT])
+-  const held = handedIn(root, page, under)
+-  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
+-  if (held.rows.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
+-  let answer: Answer = mistaking([NO_PAGE])
+-  const kept = keptEdits(root, page, (had) => {
+-    const folded = foldedIn([...had, ...held.rows])
+-    if (folded.refused !== null) {
+-      answer = { report: [], refusals: [folded.refused, HELD_BACK], code: 3 }
+-      return had
+-    }
+-    answer = { report: [...held.rows.map(saidOf).sort(), TAKEN], refusals: [], code: 0 }
+-    return [...had, ...held.rows]
+-  })
+-  if ("why" in kept) return { report: [], refusals: [kept.why], code: 3 }
+-  if (answer.code === 0) handedAway(root, page, under)
+-  return answer
+-}
+-
+-export function forgetting(root: string, page: string, under: string | undefined): Answer {
+-  if (under === undefined) return mistaking([NO_SUBAGENT])
+-  const held = handedIn(root, page, under)
+-  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
+-  if (held.rows.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
+-  handedAway(root, page, under)
+-  return { report: [...held.rows.map(saidOf).sort(), DROPPED], refusals: [], code: 0 }
+-}
+-
+ export async function appending(
+   root: string,
+   page: string,
+@@ -375,9 +301,9 @@ export async function changing(
+   if (slug === HANDED) return listing(root, page)
+   if (slug === TAKE) return taking(root, page, argv[1])
+   if (slug === FORGET) return forgetting(root, page, argv[1])
++  if (slug === DROP) return dropping(root, page, argv.slice(1))
+   const unknown = unknownIn(argv.slice(1), BARE, BARE)
+   if (unknown.length > 0) return mistaking(unknown)
+-  if (slug === DROP) return dropping(root, page)
+   const said = argumentsIn(piping)
+   if (typeof said === "string") return mistaking([said])
+   const given = rootedIn(root, said)
+diff --git a/command-system/commands/change/change.command.test-fixtures.ts b/command-system/commands/change/change.command.test-fixtures.ts
+index 978820c24ef945a8e925c62d1ede31b5a62f13e4..dd295e2cae3cacdc6735654302030c4e712da8d0 100644
+--- a/command-system/commands/change/change.command.test-fixtures.ts
++++ b/command-system/commands/change/change.command.test-fixtures.ts
+@@ -11,8 +11,9 @@ import {
+   type Loaded,
+   loadedAt,
+ } from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
++import type { Answer } from "../../calling/calling.module.code.ts"
+ import type { Piping } from "../../piping/piping.module.code.ts"
+-import type { Applying } from "./change.command.code.ts"
++import { type Applying, changing } from "./change.command.code.ts"
+ 
+ export const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
+ 
+@@ -88,3 +89,20 @@ export function handing(root: string, under: string, rows: readonly Edit[]): und
+ }
+ 
+ export const HANDED_ONE: Edit = { path: "akasha/three/handed.md", was: null, body: "handed" }
++
++export const MOVED_FROM = "akasha/three/from.md"
++
++export const MOVED: Edit = { path: "akasha/three/to.md", was: null, body: "to", from: MOVED_FROM }
++
++export async function acting(
++  root: string,
++  argv: readonly string[],
++  said: Piping = NOTHING
++): Promise<Answer> {
++  return await changing(root, PAGE, argv, said, loading, applying)
++}
++
++export async function removing(root: string, at: string, message?: string): Promise<Answer> {
++  const said = message === undefined ? taking(at) : asking(at, message)
++  return await acting(root, ["remove-page"], piping(said))
++}
+diff --git a/command-system/commands/change/change.command.test.ts b/command-system/commands/change/change.command.test.ts
+index e6f2c491d79503407add7d854531b8c2274fb509..7615d11de511545e5682f6dc4344dc3165e1b5e1 100644
+--- a/command-system/commands/change/change.command.test.ts
++++ b/command-system/commands/change/change.command.test.ts
+@@ -7,17 +7,19 @@ import {
+ import { changing, editsFor, owedBy, owingBy, stamped } from "./change.command.code.ts"
+ import {
+   APPLIED,
++  acting,
+   applying,
+-  asking,
+   givenIn,
+   HANDED_ONE,
+   handing,
+   loading,
+   MISSING,
+-  NOTHING,
++  MOVED,
++  MOVED_FROM,
+   PAGE,
+   pathsIn,
+   piping,
++  removing,
+   repo,
+   SPARE_CODE,
+   SPARE_PAGE,
+@@ -29,14 +31,7 @@ afterAll(scratch.sweep)
+ test("a change answers its edits and appends the edits beside the calling agent's page", async () => {
+   const root = repo()
+ 
+-  const said = await changing(
+-    root,
+-    PAGE,
+-    ["remove-page"],
+-    piping(taking(NAMER_PAGE)),
+-    loading,
+-    applying
+-  )
++  const said = await removing(root, NAMER_PAGE)
+ 
+   expect(said.refusals).toEqual([])
+   expect(said.code).toBe(0)
+@@ -46,7 +41,7 @@ test("a change answers its edits and appends the edits beside the calling agent'
+ test("the edits are kept beside the agent's page rather than beside the page changed", async () => {
+   const root = repo()
+ 
+-  await changing(root, PAGE, ["remove-page"], piping(taking(NAMER_PAGE)), loading, applying)
++  await removing(root, NAMER_PAGE)
+ 
+   expect(editsIn(root, NAMER_PAGE)).toEqual({ rows: [] })
+   expect(pathsIn(root).length).toBe(2)
+@@ -54,16 +49,9 @@ test("the edits are kept beside the agent's page rather than beside the page cha
+ 
+ test("a change reads the world as every edit appended before that change had landed", async () => {
+   const root = repo()
+-  await changing(root, PAGE, ["remove-page"], piping(taking(NAMER_PAGE)), loading, applying)
++  await removing(root, NAMER_PAGE)
+ 
+-  const said = await changing(
+-    root,
+-    PAGE,
+-    ["remove-page"],
+-    piping(taking(NAMER_PAGE)),
+-    loading,
+-    applying
+-  )
++  const said = await removing(root, NAMER_PAGE)
+ 
+   expect(said.refusals).toEqual([`\`${NAMER_PAGE}\` names no page, so no page is taken away`])
+   expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
+@@ -72,8 +60,8 @@ test("a change reads the world as every edit appended before that change had lan
+ test("two runs leave two sets of edits in the order the runs were made", async () => {
+   const root = repo()
+ 
+-  await changing(root, PAGE, ["remove-page"], piping(taking(NAMER_PAGE)), loading, applying)
+-  await changing(root, PAGE, ["remove-page"], piping(taking(SPARE_PAGE)), loading, applying)
++  await removing(root, NAMER_PAGE)
++  await removing(root, SPARE_PAGE)
+ 
+   const said = pathsIn(root)
+   expect(said.length).toBe(4)
+@@ -84,47 +72,28 @@ test("two runs leave two sets of edits in the order the runs were made", async (
+ test("a change that refuses appends nothing and says why that change refused", async () => {
+   const root = repo()
+ 
+-  const said = await changing(
+-    root,
+-    PAGE,
+-    ["remove-page"],
+-    piping(taking(MISSING)),
+-    loading,
+-    applying
+-  )
++  const said = await removing(root, MISSING)
+ 
+   expect(said.refusals).toEqual([`\`${MISSING}\` names no page, so no page is taken away`])
+   expect(pathsIn(root)).toEqual([])
+ })
+ 
+ test("a word reaching no change is refused by the address that reached nothing", async () => {
+-  const said = await changing(
+-    repo(),
+-    PAGE,
+-    ["remove-file"],
+-    piping(taking(NAMER_PAGE)),
+-    loading,
+-    applying
+-  )
++  const said = await acting(repo(), ["remove-file"], piping(taking(NAMER_PAGE)))
+ 
+   expect(said.refusals[0] ?? "").toContain("change-command/remove-file")
+ })
+ 
+ test("a call naming no change is refused with the changes this command runs", async () => {
+-  const said = await changing(repo(), PAGE, [], NOTHING, loading, applying)
++  const said = await acting(repo(), [])
+ 
+   expect(said.refusals[0] ?? "").toContain("no change is named")
+ })
+ 
+ test("a flag said on the command line is refused", async () => {
+-  const said = await changing(
+-    repo(),
+-    PAGE,
+-    ["remove-page", "--file-path", NAMER_PAGE],
+-    piping(taking(NAMER_PAGE)),
+-    loading,
+-    applying
+-  )
++  const argv = ["remove-page", "--file-path", NAMER_PAGE]
++
++  const said = await acting(repo(), argv, piping(taking(NAMER_PAGE)))
+ 
+   expect(said.refusals).toEqual([
+     "`--file-path` is no flag this takes",
+@@ -133,33 +102,19 @@ test("a flag said on the command line is refused", async () => {
+ })
+ 
+ test("a call piping nothing in is refused rather than run with no argument", async () => {
+-  const said = await changing(repo(), PAGE, ["remove-page"], NOTHING, loading, applying)
++  const said = await acting(repo(), ["remove-page"])
+ 
+   expect(said.refusals[0] ?? "").toContain("standard input")
+ })
+ 
+ test("arguments that read as neither a value nor a body are refused", async () => {
+-  const said = await changing(
+-    repo(),
+-    PAGE,
+-    ["remove-page"],
+-    piping("nonsense\n"),
+-    loading,
+-    applying
+-  )
++  const said = await acting(repo(), ["remove-page"], piping("nonsense\n"))
+ 
+   expect(said.refusals[0] ?? "").toContain("neither")
+ })
+ 
+ test("a path outside the repository is refused", async () => {
+-  const said = await changing(
+-    repo(),
+-    PAGE,
+-    ["remove-page"],
+-    piping(taking("/etc/hosts")),
+-    loading,
+-    applying
+-  )
++  const said = await removing(repo(), "/etc/hosts")
+ 
+   expect(said.refusals.length).toBe(1)
+   expect(said.refusals[0] ?? "").toContain("is no path inside the repository")
+@@ -180,9 +135,9 @@ test("a path that is no page keeps no edits", async () => {
+ 
+ test("a drop takes away every edit kept and names each edit that went", async () => {
+   const root = repo()
+-  await changing(root, PAGE, ["remove-page"], piping(taking(NAMER_PAGE)), loading, applying)
++  await removing(root, NAMER_PAGE)
+ 
+-  const said = await changing(root, PAGE, ["drop"], NOTHING, loading, applying)
++  const said = await acting(root, ["drop"])
+ 
+   expect(said.refusals).toEqual([])
+   expect(said.code).toBe(0)
+@@ -196,17 +151,67 @@ test("a drop takes away every edit kept and names each edit that went", async ()
+ test("a drop over no edit kept says so rather than refusing", async () => {
+   const root = repo()
+ 
+-  const said = await changing(root, PAGE, ["drop"], NOTHING, loading, applying)
++  const said = await acting(root, ["drop"])
+ 
+   expect(said.refusals).toEqual([])
+   expect(said.code).toBe(0)
+   expect(said.report).toEqual(["no edits are kept beside this agent's page, so nothing went"])
+ })
+ 
++test("a drop naming one path takes that path's edit and leaves the rest", async () => {
++  const root = repo()
++  await removing(root, NAMER_PAGE)
++
++  const said = await acting(root, ["drop", NAMER_CODE])
++
++  expect(said.refusals).toEqual([])
++  expect(said.report).toEqual([
++    `takes ${NAMER_CODE} away`,
++    "these edits are gone, and no apply lands them",
++    "1 edit(s) are still kept beside this agent's page",
++  ])
++  expect(pathsIn(root)).toEqual([NAMER_PAGE])
++})
++
++test("a drop naming several paths takes away every edit those paths name", async () => {
++  const root = repo()
++  await removing(root, NAMER_PAGE)
++  await removing(root, SPARE_PAGE)
++
++  const said = await acting(root, ["drop", NAMER_CODE, NAMER_PAGE])
++
++  expect(said.report).toContain("2 edit(s) are still kept beside this agent's page")
++  expect([...pathsIn(root)].sort()).toEqual([SPARE_CODE, SPARE_PAGE])
++})
++
++test("a path naming no edit kept refuses the drop and leaves every edit kept", async () => {
++  const root = repo()
++  await removing(root, NAMER_PAGE)
++
++  const said = await acting(root, ["drop", MISSING])
++
++  expect(said.code).toBe(1)
++  expect(said.refusals).toEqual([
++    `\`${MISSING}\` names no edit kept beside this agent's page, so nothing went`,
++  ])
++  expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
++})
++
++test("an edit a move left behind is taken away by the path that move came from", async () => {
++  const root = repo()
++  appendEdits(root, PAGE, [MOVED])
++
++  const said = await acting(root, ["drop", MOVED_FROM])
++
++  expect(said.refusals).toEqual([])
++  expect(said.report[0]).toBe(`moves ${MOVED_FROM} to ${MOVED.path}`)
++  expect(pathsIn(root)).toEqual([])
++})
++
+ test("a call over no handed edits says no subagent has handed edits over", async () => {
+   const root = repo()
+ 
+-  const said = await changing(root, PAGE, ["handed"], NOTHING, loading, applying)
++  const said = await acting(root, ["handed"])
+ 
+   expect(said.code).toBe(0)
+   expect(said.report).toEqual(["no subagent has handed edits to this agent"])
+@@ -217,7 +222,7 @@ test("handed names each subagent that handed edits over and how many that subage
+   handing(root, "one", [HANDED_ONE])
+   handing(root, "two", [HANDED_ONE, { path: "akasha/three/other.md", was: null, body: "other" }])
+ 
+-  const said = await changing(root, PAGE, ["handed"], NOTHING, loading, applying)
++  const said = await acting(root, ["handed"])
+ 
+   expect(said.report).toEqual([
+     "one handed 1 edit(s) over",
+@@ -230,7 +235,7 @@ test("a take folds one subagent's handed edits in and takes the handed edits awa
+   const root = repo()
+   handing(root, "one", [HANDED_ONE])
+ 
+-  const said = await changing(root, PAGE, ["take", "one"], NOTHING, loading, applying)
++  const said = await acting(root, ["take", "one"])
+ 
+   expect(said.refusals).toEqual([])
+   expect(said.report).toEqual([
+@@ -238,7 +243,7 @@ test("a take folds one subagent's handed edits in and takes the handed edits awa
+     "these edits are this agent's own now, and `akasha apply` lands them",
+   ])
+   expect(pathsIn(root)).toEqual([HANDED_ONE.path])
+-  expect((await changing(root, PAGE, ["handed"], NOTHING, loading, applying)).report).toEqual([
++  expect((await acting(root, ["handed"])).report).toEqual([
+     "no subagent has handed edits to this agent",
+   ])
+ })
+@@ -248,23 +253,21 @@ test("a take that would not fold refuses and leaves both sets as those sets were
+   appendEdits(root, PAGE, [{ path: HANDED_ONE.path, was: null, body: "own" }])
+   handing(root, "one", [{ path: HANDED_ONE.path, was: "another", body: "handed" }])
+ 
+-  const said = await changing(root, PAGE, ["take", "one"], NOTHING, loading, applying)
++  const said = await acting(root, ["take", "one"])
+ 
+   expect(said.code).toBe(3)
+   expect(said.refusals[1]).toBe(
+     "the handed edits are kept as they were, and this agent's own are unchanged"
+   )
+   expect(pathsIn(root)).toEqual([HANDED_ONE.path])
+-  expect((await changing(root, PAGE, ["handed"], NOTHING, loading, applying)).report[0]).toBe(
+-    "one handed 1 edit(s) over"
+-  )
++  expect((await acting(root, ["handed"])).report[0]).toBe("one handed 1 edit(s) over")
+ })
+ 
+ test("a forget takes one subagent's handed edits away and names each edit that went", async () => {
+   const root = repo()
+   handing(root, "one", [HANDED_ONE])
+ 
+-  const said = await changing(root, PAGE, ["forget", "one"], NOTHING, loading, applying)
++  const said = await acting(root, ["forget", "one"])
+ 
+   expect(said.report).toEqual([
+     `adds ${HANDED_ONE.path}`,
+@@ -277,7 +280,7 @@ test("a take naming no subagent is refused rather than reaching every subagent",
+   const root = repo()
+   handing(root, "one", [HANDED_ONE])
+ 
+-  const said = await changing(root, PAGE, ["take"], NOTHING, loading, applying)
++  const said = await acting(root, ["take"])
+ 
+   expect(said.refusals).toEqual(["this call names no subagent whose handed edits would be reached"])
+   expect(pathsIn(root)).toEqual([])
+@@ -287,14 +290,7 @@ test("a change answering says how many subagents handed edits over", async () =>
+   const root = repo()
+   handing(root, "one", [HANDED_ONE])
+ 
+-  const said = await changing(
+-    root,
+-    PAGE,
+-    ["remove-page"],
+-    piping(taking(NAMER_PAGE)),
+-    loading,
+-    applying
+-  )
++  const said = await removing(root, NAMER_PAGE)
+ 
+   expect(said.report).toContain(
+     "1 subagent(s) handed edits over, which `akasha change handed` names"
+@@ -376,7 +372,7 @@ test("a change owing its readers reading stamps nothing on the edits it answers"
+ test("a change reached under a page that is nowhere appends rows saying nothing of the readers", async () => {
+   const root = repo()
+ 
+-  await changing(root, PAGE, ["remove-page"], piping(taking(NAMER_PAGE)), loading, applying)
++  await removing(root, NAMER_PAGE)
+ 
+   const said = editsIn(root, PAGE)
+   expect("why" in said ? [] : said.rows.map((one) => one.readersOweReading)).toEqual([
+@@ -388,14 +384,7 @@ test("a change reached under a page that is nowhere appends rows saying nothing
+ test("an apply asked for in the arguments commits the message those arguments name", async () => {
+   APPLIED.length = 0
+ 
+-  const said = await changing(
+-    repo(),
+-    PAGE,
+-    ["remove-page"],
+-    piping(asking(NAMER_PAGE, "takes the namer away")),
+-    loading,
+-    applying
+-  )
++  const said = await removing(repo(), NAMER_PAGE, "takes the namer away")
+ 
+   expect(said.refusals).toEqual([])
+   expect(said.code).toBe(0)
+@@ -405,14 +394,7 @@ test("an apply asked for in the arguments commits the message those arguments na
+ test("the apply asked for is not handed to the change as an argument", async () => {
+   APPLIED.length = 0
+ 
+-  await changing(
+-    repo(),
+-    PAGE,
+-    ["remove-page"],
+-    piping(asking(NAMER_PAGE, "takes the namer away")),
+-    loading,
+-    applying
+-  )
++  await removing(repo(), NAMER_PAGE, "takes the namer away")
+ 
+   expect(Object.keys(givenIn())).toEqual(["at"])
+ })
+@@ -420,14 +402,7 @@ test("the apply asked for is not handed to the change as an argument", async ()
+ test("an apply asked for says nothing of the edits being kept for a later apply", async () => {
+   APPLIED.length = 0
+ 
+-  const said = await changing(
+-    repo(),
+-    PAGE,
+-    ["remove-page"],
+-    piping(asking(NAMER_PAGE, "takes the namer away")),
+-    loading,
+-    applying
+-  )
++  const said = await removing(repo(), NAMER_PAGE, "takes the namer away")
+ 
+   expect(said.report.some((one) => one.includes("akasha apply"))).toBe(false)
+   expect(said.report).toContain("applied takes the namer away")
+@@ -437,14 +412,7 @@ test("a change that refuses applies nothing though an apply was asked for", asyn
+   APPLIED.length = 0
+   const root = repo()
+ 
+-  const said = await changing(
+-    root,
+-    PAGE,
+-    ["remove-page"],
+-    piping(asking(MISSING, "takes the missing page away")),
+-    loading,
+-    applying
+-  )
++  const said = await removing(root, MISSING, "takes the missing page away")
+ 
+   expect(said.refusals).toEqual([`\`${MISSING}\` names no page, so no page is taken away`])
+   expect(APPLIED).toEqual([])
+@@ -455,14 +423,7 @@ test("an apply asked for with no message is refused and appends nothing", async
+   APPLIED.length = 0
+   const root = repo()
+ 
+-  const said = await changing(
+-    root,
+-    PAGE,
+-    ["remove-page"],
+-    piping(asking(NAMER_PAGE, "")),
+-    loading,
+-    applying
+-  )
++  const said = await removing(root, NAMER_PAGE, "")
+ 
+   expect(said.refusals[0] ?? "").toContain("the message given is empty")
+   expect(APPLIED).toEqual([])
+@@ -472,14 +433,7 @@ test("an apply asked for with no message is refused and appends nothing", async
+ test("a change asking for no apply keeps its edits for a later apply", async () => {
+   APPLIED.length = 0
+ 
+-  const said = await changing(
+-    repo(),
+-    PAGE,
+-    ["remove-page"],
+-    piping(taking(NAMER_PAGE)),
+-    loading,
+-    applying
+-  )
++  const said = await removing(repo(), NAMER_PAGE)
+ 
+   expect(APPLIED).toEqual([])
+   expect(said.report.some((one) => one.includes("akasha apply"))).toBe(true)
+diff --git a/command-system/commands/change/change.command.ts b/command-system/commands/change/change.command.ts
+index 8c4d43e440fee98d2c1c913028205727ec9bff5a..64e072786f185b731add826ebfd4e91ba865a1ee 100644
+--- a/command-system/commands/change/change.command.ts
++++ b/command-system/commands/change/change.command.ts
+@@ -27,6 +27,10 @@ export const change = {
+     "a change asking for no apply holds its edits unapplied, and that is the dry run.",
+     "`drop` and `handed` and `take` and `forget` are the first words naming no change.",
+     "`drop` takes away every edit kept, and leaves what a subagent handed over.",
++    "`drop <path> ...` takes away the edits kept at the paths named, and leaves the rest.",
++    "a path is read against the repository root, and a path a move left behind names that move.",
++    "a path naming no edit kept refuses the drop, so a typo reads as no drop rather than as one.",
++    "a drop naming paths says how many edits are still kept.",
+     "a drop names each edit that went, because nothing puts a dropped edit back.",
+     "`handed` names each subagent that handed edits over, and how many edits each one handed.",
+     "`take <subagent>` moves one subagent's handed edits into this agent's own.",
+@@ -182,7 +186,11 @@ export const change = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "`drop` names no change and takes away every edit kept.",
++      statement: "`drop` names no change and takes the paths whose kept edits go.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drop naming no path takes away every edit kept.",
+     },
+     {
+       invariantKind: "departure",
+@@ -190,11 +198,24 @@ export const change = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A drop over no edit kept says so rather than refusing.",
++      statement: "A drop naming no path over no edit kept says so rather than refusing.",
+     },
+     {
+-      invariantKind: "absence",
+-      statement: "No drop takes one path out and leaves the rest.",
++      invariantKind: "departure",
++      statement:
++        "A drop naming paths takes away every edit kept at those paths and leaves the rest.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An edit a move left behind is taken away by the path that move came from.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drop naming paths says how many edits are still kept.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path naming no edit kept refuses the drop rather than being passed over.",
+     },
+     {
+       invariantKind: "departure",
