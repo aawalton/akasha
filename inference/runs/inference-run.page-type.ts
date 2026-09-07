@@ -15,7 +15,7 @@ export const inferenceRun = {
     },
     {
       invariantKind: "departure",
-      statement: "A run records where its output was written, never the output itself.",
+      statement: "A run records where its output was written rather than the output itself.",
     },
   ],
 } as const satisfies PageType
