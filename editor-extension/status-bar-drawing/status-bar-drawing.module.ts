@@ -21,7 +21,7 @@ export const statusBarDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A stale slot says in its tooltip since when that slot has been stale.",
+      statement: "A stale slot says in its tooltip how long that slot has been stale.",
     },
     {
       invariantKind: "departure",
