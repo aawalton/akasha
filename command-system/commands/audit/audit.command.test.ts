@@ -16,7 +16,7 @@ import {
   underOf,
 } from "./audit.command.code.ts"
 
-const ROOT = "/var/tmp/nowhere-an-audit-reaches"
+const ROOT = "/elsewhere/nowhere-an-audit-reaches"
 
 function over(files: readonly string[]): Change {
   return { root: ROOT, changed: files, after: () => null, before: () => null }

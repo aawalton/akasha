@@ -1,6 +1,7 @@
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { type Plan, planFor } from "@akasha/code/app-building"
+import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { ran as running } from "@akasha/utils-run/running"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 
@@ -15,8 +16,6 @@ const HOST_ENV = "AKASHA_MAC_HOST"
 const DEFAULT_HOST = "macbook"
 
 const RUN_ROOT = ".akasha-ios-build"
-
-const SCRATCH_AT = "/var/tmp"
 
 const WWW_AT = "www-staged"
 

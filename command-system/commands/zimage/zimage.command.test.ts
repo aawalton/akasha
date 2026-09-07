@@ -23,13 +23,21 @@ test("the prompt and the path it writes to are both named", () => {
 })
 
 test("a flag it does not take is refused", () => {
-  const said = readIn(["generate", "--prompt", "a cat", "--output", "/var/tmp/a.png", "--wat", "1"])
+  const said = readIn([
+    "generate",
+    "--prompt",
+    "a cat",
+    "--output",
+    "/elsewhere/a.png",
+    "--wat",
+    "1",
+  ])
   expect("refused" in said).toBe(true)
   if ("refused" in said) expect(said.refused[0]).toContain("--wat")
 })
 
 test("the mflux defaults hold where nothing said them", () => {
-  const said = readIn(["generate", "--prompt", "a cat", "--output", "/var/tmp/a.png"])
+  const said = readIn(["generate", "--prompt", "a cat", "--output", "/elsewhere/a.png"])
   expect("refused" in said).toBe(false)
   if (!("refused" in said)) {
     expect(said.said.get("--width")).toBe("1024")
@@ -45,7 +53,7 @@ test("a guidance that is no number is refused", () => {
     "--prompt",
     "a cat",
     "--output",
-    "/var/tmp/a.png",
+    "/elsewhere/a.png",
     "--guidance",
     "loud",
   ])
@@ -58,7 +66,7 @@ test("a width that is no whole number is refused", () => {
     "--prompt",
     "a",
     "--output",
-    "/var/tmp/a.png",
+    "/elsewhere/a.png",
     "--width",
     "10.5",
   ])
@@ -67,7 +75,7 @@ test("a width that is no whole number is refused", () => {
 
 test("a model nothing registers is the caller's mistake", async () => {
   const said = await zimage(
-    ["generate", "--prompt", "a cat", "--output", "/var/tmp/a.png", "--model", "nothing-here"],
+    ["generate", "--prompt", "a cat", "--output", "/elsewhere/a.png", "--model", "nothing-here"],
     given("/nowhere")
   )
   expect(said.code).toBe(1)
@@ -81,9 +89,9 @@ test("a comma list of checkpoints is refused", async () => {
       "--prompt",
       "a cat",
       "--output",
-      "/var/tmp/a.png",
+      "/elsewhere/a.png",
       "--lora-paths",
-      "/var/tmp/one.safetensors,/var/tmp/two.safetensors",
+      "/elsewhere/one.safetensors,/elsewhere/two.safetensors",
     ],
     given("/nowhere")
   )
@@ -93,5 +101,5 @@ test("a comma list of checkpoints is refused", async () => {
 
 test("a relative path is read against the root rather than the calling folder", () => {
   expect(at(given("/repo"), "out/a.png")).toBe("/repo/out/a.png")
-  expect(at(given("/repo"), "/var/tmp/a.png")).toBe("/var/tmp/a.png")
+  expect(at(given("/repo"), "/elsewhere/a.png")).toBe("/elsewhere/a.png")
 })

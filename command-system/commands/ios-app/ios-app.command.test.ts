@@ -58,10 +58,10 @@ test("an app and an act are the first word and the second", () => {
 })
 
 test("a site is named by a flag rather than by its place among the words", () => {
-  expect(readIn(["build", "alanwalton", "--www", "/var/tmp/site"])).toEqual({
+  expect(readIn(["build", "alanwalton", "--www", "/elsewhere/site"])).toEqual({
     act: "build",
     app: "alanwalton",
-    www: "/var/tmp/site",
+    www: "/elsewhere/site",
   })
 })
 
