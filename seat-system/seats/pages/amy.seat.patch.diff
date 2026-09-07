@@ -128,6 +128,25 @@ index 79a620da6a0f8857b276148bcdb7d8696551f674..2ffa9889bb53e435639426e5a87699ee
  
    if (tasks.length === 0) {
      report("No tasks to export.")
+diff --git a/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.ts b/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.ts
+index 5aaa3ddf6dd25eee3e48d8457cff0bd057fdbbe7..0ead82747506a81e2594434afc027246e65f1c98 100644
+--- a/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.ts
++++ b/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.ts
+@@ -30,6 +30,14 @@ export const watcherExportTasks = {
+       invariantKind: "departure",
+       statement: "A task row carrying no page id is left out.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A task already marked done is left out.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The key saying a task is done is read from the page type exported.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "No task at all leaves the saved-variables content unchanged.",
 diff --git a/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.code.ts b/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.code.ts
 index cae3698be68c42c26b2a70dbd7677d8f2eb88530..5fb2a64c2acb45289687bed59e211080b16e713b 100644
 --- a/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.code.ts
