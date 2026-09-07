@@ -10,14 +10,7 @@ import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 
 const RUNNER = "change-runner"
 
-const REACHED = [
-  "change",
-  "change-command",
-  "change-mechanical",
-  "change-checked",
-  "change-authored",
-  "change-restated",
-]
+const REACHED = "change-mechanical"
 
 const ADDRESSED = "addressed"
 
@@ -67,18 +60,16 @@ export function addressesFor(
   textAt: (path: string) => string | null
 ): readonly Address[] {
   const found: Address[] = []
-  for (const kind of REACHED) {
-    for (const listed of shadow.index.everyOfType(kind)) {
-      const value = shadow.pageOf(listed.path)
-      if (value === null) continue
-      const slug = value[SLUG]
-      if (typeof slug !== "string") continue
-      const code = besideAt(listed.path, CODE, TS)
-      if (code === null) continue
-      const text = textAt(code)
-      if (text === null || !declaresRun(text)) continue
-      found.push({ address: `${kind}/${slug}`, spec: specifierFor(at, code) })
-    }
+  for (const listed of shadow.index.everyOfType(REACHED)) {
+    const value = shadow.pageOf(listed.path)
+    if (value === null) continue
+    const slug = value[SLUG]
+    if (typeof slug !== "string") continue
+    const code = besideAt(listed.path, CODE, TS)
+    if (code === null) continue
+    const text = textAt(code)
+    if (text === null || !declaresRun(text)) continue
+    found.push({ address: `${REACHED}/${slug}`, spec: specifierFor(at, code) })
   }
   return [...found].sort((one, two) =>
     one.address < two.address ? -1 : one.address > two.address ? 1 : 0

@@ -13,7 +13,7 @@ export const addressMapping = {
     },
     {
       invariantKind: "departure",
-      statement: "A change exporting the run is reached by the map.",
+      statement: "A mechanical change exporting the run is reached by the map.",
     },
     {
       invariantKind: "departure",
@@ -52,8 +52,12 @@ export const addressMapping = {
       statement: "A generator that throws leaves a stale map for the typecheck to refuse.",
     },
     {
+      invariantKind: "absence",
+      statement: "No change a command line reaches is in the map.",
+    },
+    {
       invariantKind: "gap",
-      statement: "The page types a change is filed under are listed here rather than descended.",
+      statement: "The page type a change is filed under is named here rather than descended.",
     },
   ],
 } as const satisfies Module
