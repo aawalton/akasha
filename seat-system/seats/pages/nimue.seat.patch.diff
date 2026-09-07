@@ -1,0 +1,210 @@
+writerOwesReading: false
+diff --git a/changes/modules/change-shadow/change-shadow.module.code.ts b/changes/modules/change-shadow/change-shadow.module.code.ts
+index a1c1e21503ef8641fbe073e366db418e3cc74f31..60f9bcdebfc0bf8725427cf584c4a80d2a798a1a 100644
+--- a/changes/modules/change-shadow/change-shadow.module.code.ts
++++ b/changes/modules/change-shadow/change-shadow.module.code.ts
+@@ -1,10 +1,12 @@
+ import type { Change } from "../../../pages/change/change.module.code.ts"
+ import type { Answering } from "../../../pages/indexes/answering/index-answering.module.code.ts"
++import type { Reading } from "../../../pages/indexes/shape/index-shape.module.code.ts"
+ import {
+   type Cast,
+   shadowAsked,
+   shadowAt,
+   shadowFor,
++  shadowOnto,
+ } from "../../../pages/shadow/shadow.module.code.ts"
+ import type { Changes } from "../../runners/pages/change-running/change-running.change-runner.addressed.ts"
+ import { gathered, refusing } from "../change-answer/change-answer.module.code.ts"
+@@ -104,6 +106,8 @@ export type Kept = {
+   readonly base: (path: string) => string | null
+   readonly bodies: Map<string, string | null>
+   readonly stated: Map<string, Edit[]>
++  fresh: Answer
++  reading: Reading | null
+   over: Answer
+   index: Answering | null
+ }
+@@ -114,6 +118,15 @@ export function isLedger(world: World): world is Ledger {
+   return "kept" in world
+ }
+ 
++function settledIn(kept: Kept): Answering {
++  if (kept.reading === null && kept.fresh.edits.length === 0) return shadowAt(kept.root).index
++  const cast = shadowOnto(kept.reading, changeOver(kept.root, kept.fresh))
++  if ("refused" in cast) throw new Error(cast.refused)
++  kept.reading = cast.reading
++  kept.fresh = NOTHING_OVER
++  return cast.shadow.index
++}
++
+ export function ledgerAt(
+   root: string,
+   textOf: (path: string) => string | null,
+@@ -124,6 +137,8 @@ export function ledgerAt(
+     base: textOf,
+     bodies: new Map<string, string | null>(),
+     stated: new Map<string, Edit[]>(),
++    fresh: NOTHING_OVER,
++    reading: null,
+     over: NOTHING_OVER,
+     index: null,
+   }
+@@ -132,12 +147,7 @@ export function ledgerAt(
+     root,
+     reaching,
+     get index(): Answering {
+-      if (kept.index === null) {
+-        kept.index =
+-          kept.over.edits.length === 0
+-            ? shadowAt(root).index
+-            : shadowAsked(changeOver(root, kept.over)).index
+-      }
++      if (kept.index === null) kept.index = settledIn(kept)
+       return kept.index
+     },
+     get over(): Answer {
+@@ -169,7 +179,9 @@ export function addedTo(ledger: Ledger, said: Answer): Ledger {
+     if (one.from !== undefined) kept.bodies.set(one.from, null)
+   }
+   for (const one of fresh) kept.bodies.set(one.path, one.body)
+-  kept.over = gathered([kept.over, { edits: fresh, refused: null }])
++  const held = { edits: fresh, refused: null }
++  kept.over = gathered([kept.over, held])
++  kept.fresh = gathered([kept.fresh, held])
+   kept.index = null
+   return ledger
+ }
+diff --git a/changes/modules/change-shadow/change-shadow.module.ts b/changes/modules/change-shadow/change-shadow.module.ts
+index 80d1fc4cbbf9cdacf577c6cd3c85c0197c3fde0f..075fde4e3f605c0deba322e06b205e42ce2761f0 100644
+--- a/changes/modules/change-shadow/change-shadow.module.ts
++++ b/changes/modules/change-shadow/change-shadow.module.ts
+@@ -126,6 +126,18 @@ export const changeShadow = {
+       invariantKind: "departure",
+       statement: "An index a ledger answers is built again where an edit was added.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A ledger settles the edits added after that ledger last answered an index.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A ledger settles those edits onto the reading that ledger already settled.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No edit a ledger already settled is settled a second time.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A reach over a ledger adds to that ledger rather than building a second world.",
+diff --git a/pages/shadow/shadow.module.code.ts b/pages/shadow/shadow.module.code.ts
+index 4506731131ea36154b368e0f59d7db6f9ce6c6fe..7c19c31ed57de2f86644abb7e75058dbc696974c 100644
+--- a/pages/shadow/shadow.module.code.ts
++++ b/pages/shadow/shadow.module.code.ts
+@@ -1,5 +1,5 @@
+-import { createHash } from "node:crypto"
+ import { textOf } from "@akasha/code/body-text"
++import { digestOf } from "@akasha/code/carried-file"
+ import { everyValue, readingIn } from "@akasha/indexes"
+ import { type Answering, answeringOver } from "@akasha/indexes/answering"
+ import { settlingOver } from "@akasha/indexes/indexing"
+@@ -61,10 +61,6 @@ function nothingMoved(change: Change): boolean {
+   return change.after === change.before
+ }
+ 
+-function keyOf(bytes: Uint8Array): string {
+-  return createHash("sha256").update(bytes).digest("hex")
+-}
+-
+ function codeOver(change: Change): (path: string) => string | null {
+   const carried = new Set(change.changed)
+   let held: Map<string, string> | null = null
+@@ -73,7 +69,7 @@ function codeOver(change: Change): (path: string) => string | null {
+     const found = new Map<string, string>()
+     for (const path of change.changed) {
+       const bytes = change.before(path)
+-      if (bytes !== null) found.set(keyOf(bytes), path)
++      if (bytes !== null) found.set(digestOf(bytes), path)
+     }
+     held = found
+     return found
+@@ -82,7 +78,7 @@ function codeOver(change: Change): (path: string) => string | null {
+     if (!carried.has(path)) return path
+     const after = change.after(path)
+     if (after === null) return null
+-    return before().get(keyOf(after)) ?? null
++    return before().get(digestOf(after)) ?? null
+   }
+ }
+ 
+@@ -100,22 +96,21 @@ export function shadowAt(root: string): Shadow {
+   return shadowOver(readingIn(root), bodyOnDisk(root))
+ }
+ 
+-function castOver(change: Change): Cast {
++function castFrom(was: Reading, change: Change): Cast {
+   const body = bodyIn(change)
+   if (nothingMoved(change)) {
+-    const reading = readingIn(change.root)
+-    return { shadow: shadowOver(reading, body), reading }
++    return { shadow: shadowOver(was, body), reading: was }
+   }
+   const carried = new Set(change.changed)
+-  const filed = filedOver(readingIn(change.root), body)
+-  const pageOf = remembering((path) => (carried.has(path) ? body(path) : filed(path)))
++  const under = filedOver(was, body)
++  const pageOf = remembering((path) => (carried.has(path) ? body(path) : under(path)))
+   try {
+     const moving = change.changed.map((path) => ({
+       path,
+       before: textOf(change.before(path)),
+       after: textOf(change.after(path)),
+     }))
+-    const settled = settlingOver(readingIn(change.root), change.root, moving, pageOf)
++    const settled = settlingOver(was, change.root, moving, pageOf)
+     const reading = settled.reading
+     const index = answeringOver(reading, pageOf)
+     const filed = (): readonly Filing[] => settled.filings
+@@ -126,6 +121,14 @@ function castOver(change: Change): Cast {
+   }
+ }
+ 
++export function shadowOnto(was: Reading | null, change: Change): Cast {
++  return castFrom(was ?? readingIn(change.root), change)
++}
++
++function castOver(change: Change): Cast {
++  return castFrom(readingIn(change.root), change)
++}
++
+ export function shadowAsked(change: Change): Shadow {
+   let held: Made | null = null
+   const worked = (): Made => {
+diff --git a/pages/shadow/shadow.module.ts b/pages/shadow/shadow.module.ts
+index 0eb18393ca9cf487a2624b5ed3ac26c7b9de6704..d34401e25da5cc8eb9dfa83f7269e7f90a72157d 100644
+--- a/pages/shadow/shadow.module.ts
++++ b/pages/shadow/shadow.module.ts
+@@ -130,6 +130,22 @@ export const shadow = {
+       invariantKind: "departure",
+       statement: "A shadow over a change is asked for one way.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A shadow is worked out over a reading a caller hands in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A caller handing in no reading is answered over the reading at the root.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A reading a settle left carries the change that settle was handed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Settling one change and then a second leaves the reading both changes leave.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
