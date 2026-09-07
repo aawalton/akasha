@@ -1,0 +1,157 @@
+writerOwesReading: false
+diff --git a/git-transport/git-transport-janitor/git-transport-janitor.manifest.code.ts b/git-transport/git-transport-janitor/git-transport-janitor.manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8c7510996e5337e0585caac586c830b5e2071b02
+--- /dev/null
++++ b/git-transport/git-transport-janitor/git-transport-janitor.manifest.code.ts
+@@ -0,0 +1,69 @@
++import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
++import { workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
++import { BUN_RUNTIME_IMAGE } from "@akasha/k8s-types/orchestrator-cache-locations"
++import { NAMESPACE, RESOURCE_LABELS } from "../transport-naming/transport-naming.module.code.ts"
++
++const JANITOR_NAME = "git-transport-janitor"
++const REPOSITORIES = "/data/git/repositories"
++const SCHEDULE = "0 * * * *"
++const STALE_MINUTES = 180
++
++const SWEEP = `set -eu
++find ${REPOSITORIES} -maxdepth 5 -mmin +${STALE_MINUTES} \\( -name 'tmp_objdir-*' -o -name 'tmp_pack_*' \\) -print -prune -exec rm -rf {} ';'
++echo "swept ${REPOSITORIES} of push debris older than ${STALE_MINUTES} minutes"`
++
++function janitorCronjobYaml(): string {
++  return synthOne(NAMESPACE, "janitor-cronjob", {
++    apiVersion: "batch/v1",
++    kind: "CronJob",
++    metadata: { name: JANITOR_NAME, namespace: NAMESPACE, labels: RESOURCE_LABELS },
++    spec: {
++      schedule: SCHEDULE,
++      concurrencyPolicy: "Forbid",
++      successfulJobsHistoryLimit: 1,
++      failedJobsHistoryLimit: 3,
++      jobTemplate: {
++        spec: {
++          ttlSecondsAfterFinished: 3600,
++          template: {
++            metadata: { labels: RESOURCE_LABELS },
++            spec: {
++              nodeSelector: workloadClassMemberSelector("build"),
++              restartPolicy: "OnFailure",
++              securityContext: { fsGroup: 1000, fsGroupChangePolicy: "OnRootMismatch" },
++              containers: [
++                {
++                  name: "sweep",
++                  image: BUN_RUNTIME_IMAGE,
++                  imagePullPolicy: "IfNotPresent",
++                  command: ["sh", "-c", SWEEP],
++                  volumeMounts: [{ name: "data", mountPath: REPOSITORIES }],
++                  resources: {
++                    requests: { cpu: "100m", memory: "128Mi" },
++                    limits: { cpu: "500m", memory: "128Mi" },
++                  },
++                  securityContext: {
++                    runAsNonRoot: true,
++                    runAsUser: 1000,
++                    allowPrivilegeEscalation: false,
++                    capabilities: { drop: ["ALL"] },
++                  },
++                },
++              ],
++              volumes: [
++                {
++                  name: "data",
++                  persistentVolumeClaim: { claimName: "git-transport-data" },
++                },
++              ],
++            },
++          },
++        },
++      },
++    },
++  })
++}
++
++export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
++  return [{ name: "janitor-cronjob", yaml: janitorCronjobYaml() }]
++}
+diff --git a/git-transport/git-transport-janitor/git-transport-janitor.manifest.ts b/git-transport/git-transport-janitor/git-transport-janitor.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..08b5fc17fde51417f66be806f7ac8a3f539a2d33
+--- /dev/null
++++ b/git-transport/git-transport-janitor/git-transport-janitor.manifest.ts
+@@ -0,0 +1,31 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const gitTransportJanitor = {
++  id: "01a07c78-54fc-794e-becc-d1343a783c8d",
++  pageTypeSlug: "manifest",
++  slug: "git-transport-janitor",
++  definition: "the cron job clearing push debris out of the repositories the transport serves",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The sweep reaches the repositories through the volume the server writes to.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The sweep runs on the node the repositories sit on.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Debris younger than the stale window is left alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A push still writing keeps its own quarantine younger than the stale window.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every path taken away is named in the job's output.",
++    },
++  ],
++} as const satisfies Manifest
+diff --git a/git-transport/git-transport.workspace-package.ts b/git-transport/git-transport.workspace-package.ts
+index 56f6cc6a844663d2e78fa440f530471546663059..521e685737417dcc52348580b7b388c2e8095d30 100644
+--- a/git-transport/git-transport.workspace-package.ts
++++ b/git-transport/git-transport.workspace-package.ts
+@@ -7,6 +7,7 @@ export const gitTransport = {
+   definition: "the repositories this system keeps, served over the network",
+   manifest: "json",
+   partSlugs: [
++    "manifest/git-transport-janitor",
+     "manifest/git-transport-manifests",
+     "module/transport-repos",
+     "module/transport-auth",
+diff --git a/service-system/cluster-services/cluster-service.page-type.ts b/service-system/cluster-services/cluster-service.page-type.ts
+index dfcf21696693def4fd7ed972336ffad8e3627b8c..6a5d12071f68dd269b409194288880849c42a12b 100644
+--- a/service-system/cluster-services/cluster-service.page-type.ts
++++ b/service-system/cluster-services/cluster-service.page-type.ts
+@@ -64,6 +64,7 @@ export const clusterService = {
+     "cluster-service/registry",
+     "cluster-service/registry-gc",
+     "cluster-service/git-transport",
++    "cluster-service/git-transport-janitor",
+     "cluster-service/gfs-promoter",
+     "cluster-service/seaweedfs-backup-assets",
+     "cluster-service/seaweedfs-backup-bulk",
+diff --git a/service-system/cluster-services/pages/git-transport-janitor.cluster-service.ts b/service-system/cluster-services/pages/git-transport-janitor.cluster-service.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..161531ecd0b8c6729d572f00eb006dcb01cb132d
+--- /dev/null
++++ b/service-system/cluster-services/pages/git-transport-janitor.cluster-service.ts
+@@ -0,0 +1,14 @@
++import type { ClusterService } from "../cluster-service.page-type.ts"
++
++export const gitTransportJanitor = {
++  id: "01a07c78-6dec-7595-bde9-99656b98280f",
++  pageTypeSlug: "cluster-service",
++  slug: "git-transport-janitor",
++  definition: "the job clearing the debris an aborted push leaves in the repositories",
++  resourceKind: "CronJob",
++  namespace: "git",
++  resourceName: "git-transport-janitor",
++  image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
++  schedule: "0 * * * *",
++  manifestSlug: "git-transport-janitor",
++} as const satisfies ClusterService
