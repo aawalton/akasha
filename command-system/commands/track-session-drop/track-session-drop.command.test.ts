@@ -10,8 +10,8 @@ import {
   ACTIVITIES_AT,
   DAYS_AT,
   RELATIONSHIPS_AT,
-} from "./session-rows/session-rows.module.code.ts"
-import { track } from "./track.command.code.ts"
+} from "../track/session-rows/session-rows.module.code.ts"
+import { trackSessionDrop } from "./track-session-drop.command.code.ts"
 
 const DAY = "2026-09-01"
 
@@ -42,7 +42,7 @@ function dayRepo(): string {
 function servingIn(root: string): Given {
   return {
     root,
-    calledAs: "akasha track",
+    calledAs: "akasha track session drop",
     from: root,
     writer: null,
     agentId: null,
@@ -50,31 +50,10 @@ function servingIn(root: string): Given {
   }
 }
 
-function titlesIn(root: string): readonly string[] {
-  return readFileSync(join(root, ROWS_AT), "utf8")
-    .trim()
-    .split("\n")
-    .map((one) => (JSON.parse(one) as { title: string }).title)
-}
-
-test("a stretch logged lands the day's rows under no agent id and no reading", async () => {
-  const root = dayRepo()
-  const was = baseOf(root)
-  const said = await track(
-    ["session", "log", "--day", DAY, "--title", "Held", "--start", "15:00", "--end", "16:00"],
-    servingIn(root)
-  )
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(titlesIn(root)).toEqual(["Slept", "Held"])
-  expect(baseOf(root)).not.toBe(was)
-  expect(git(root, ["log", "-1", "--pretty=%s"]).trim()).toBe(`Log Held on ${DAY}`)
-})
-
 test("a stretch dropped lands the day's rows under no agent id and no reading", async () => {
   const root = dayRepo()
   const was = baseOf(root)
-  const said = await track(["session", "drop", "--day", DAY, "--id", SLEPT], servingIn(root))
+  const said = await trackSessionDrop(["--day", DAY, "--id", SLEPT], servingIn(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, ROWS_AT), "utf8")).toBe("\n")
