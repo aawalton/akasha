@@ -1,12 +1,7 @@
 import { basename, dirname, extname, join, relative } from "node:path"
 import { landingOf, placedIn, spelledIn } from "@akasha/code/code-specifier"
-import {
-  answered,
-  moving,
-  refusing,
-  writing,
-} from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Said, Stated } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const GENERATED = "+types"
@@ -62,12 +57,18 @@ function nextFor(
   return specifier ? specifierFor(dir, landed) : null
 }
 
+function statedFor(was: string, now: string, text: string, body: string): readonly Stated[] {
+  const respelt: readonly Stated[] =
+    body === text ? [] : [{ kind: "replace", path: now, contentFrom: text, contentTo: body }]
+  return was === now ? respelt : [{ kind: "move", pathFrom: was, pathTo: now }, ...respelt]
+}
+
 export function changeImports(
   was: string,
   now: string,
   text: string,
   moved: ReadonlyMap<string, string>
-): Answer {
+): Said {
   const dir = dirname(now)
   const specifier = new Set(placedIn(now, text).map((one) => one.start))
   let out = ""
@@ -78,8 +79,7 @@ export function changeImports(
     out = `${out}${text.slice(at, one.start)}${JSON.stringify(next)}`
     at = one.end
   }
-  const body = `${out}${text.slice(at)}`
-  return answered([was === now ? writing(now, text, body) : moving(was, now, text, body)])
+  return stating(statedFor(was, now, text, `${out}${text.slice(at)}`))
 }
 
 export type Given = {
@@ -88,7 +88,7 @@ export type Given = {
   readonly moved: Readonly<Record<string, string>>
 }
 
-export function runChange(world: World, given: Given): Answer {
+export function runChange(world: World, given: Given): Said {
   const text = world.textOf(given.was)
   if (text === null) return refusing(`\`${given.was}\` holds no body, so nothing is repointed`)
   return changeImports(given.was, given.now, text, new Map(Object.entries(given.moved)))

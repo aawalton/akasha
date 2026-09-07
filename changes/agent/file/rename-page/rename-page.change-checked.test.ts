@@ -17,7 +17,7 @@ import { runChange as changePageProperty } from "../../../mechanical/file-conten
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { runChange as renamePageSlug } from "../../../mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
   type Reaching,
@@ -70,7 +70,7 @@ const RUNS: Reaching = async (world, at, given) => {
     return renameExport(world, given as Parameters<typeof renameExport>[1])
   }
   if (at === "change-mechanical-file-content/change-imports") {
-    return changeImports(world, given as Parameters<typeof changeImports>[1])
+    return widened(changeImports(world, given as Parameters<typeof changeImports>[1]), world.textOf)
   }
   return refusing(`\`${at}\` is reached by nothing here`)
 }

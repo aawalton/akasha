@@ -57,7 +57,9 @@ const UNDER: readonly string[] = Object.keys(HELD)
 
 function worldIn(root: string): World {
   return worldAt(root, textIn(root), (world, _at, given) =>
-    Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
+    Promise.resolve(
+      widened(changeImports(world, given as Parameters<typeof changeImports>[1]), world.textOf)
+    )
   )
 }
 

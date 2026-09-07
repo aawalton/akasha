@@ -67,7 +67,9 @@ const RUNS: Reaching = (world, at, given) => {
     )
   }
   if (at === "change-mechanical-file-content/change-imports") {
-    return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
+    return Promise.resolve(
+      widened(changeImports(world, given as Parameters<typeof changeImports>[1]), world.textOf)
+    )
   }
   if (at === "change-mechanical-data/rename-page-address") {
     return import(

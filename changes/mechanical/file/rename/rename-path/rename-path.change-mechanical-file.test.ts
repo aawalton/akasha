@@ -6,7 +6,11 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { gathered, refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import {
+  gathered,
+  refusing,
+  widened,
+} from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
   type World,
@@ -25,7 +29,9 @@ const CARRIED = "akasha/one/carried.module.code.ts"
 function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, (world, at, given) => {
     if (at === "change-mechanical-file-content/change-imports") {
-      return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
+      return Promise.resolve(
+        widened(changeImports(world, given as Parameters<typeof changeImports>[1]), world.textOf)
+      )
     }
     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
   })

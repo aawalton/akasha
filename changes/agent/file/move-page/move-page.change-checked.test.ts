@@ -24,7 +24,9 @@ const MOVED_CODE = "akasha/three/held.module.code.ts"
 function worldIn(root: string): World {
   return worldAt(root, textIn(root), (world, at, given) => {
     if (at === "change-mechanical-file-content/change-imports") {
-      return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
+      return Promise.resolve(
+        widened(changeImports(world, given as Parameters<typeof changeImports>[1]), world.textOf)
+      )
     }
     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
   })
