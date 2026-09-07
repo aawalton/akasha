@@ -54,7 +54,7 @@ export const dallaDraftIntoAPatch = {
     "A warrant refuses a draft as it refuses a landing.",
     "A patch holding conflicts does not apply.",
     "An agent id carries at most one patch.",
-    "A patch and its conflicts are stored in the formats git already reads.",
+    "The edits a draft keeps are stored in the format git already reads.",
     "A draft is an authored change.",
     "A patch runs the checks and the warrants that any change drafted into it runs.",
     "A patch applies only where the caller asked for an apply.",
