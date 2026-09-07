@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/seat-rotated-session/seat-rotated-session.module.ts b/seat-system/seat-rotated-session/seat-rotated-session.module.ts
+index 9fdbc2b50181c32b7107f7b0df56fb477a4427ab..1f7b54baa3855fc7fc60516f84867992702acf21 100644
+--- a/seat-system/seat-rotated-session/seat-rotated-session.module.ts
++++ b/seat-system/seat-rotated-session/seat-rotated-session.module.ts
+@@ -25,7 +25,7 @@ export const seatRotatedSession = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The rotated session has a key of its own, apart from the current session.",
++      statement: "The rotated session has a key of its own apart from the current session.",
+     },
+   ],
+ } as const satisfies Module
