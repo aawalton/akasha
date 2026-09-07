@@ -1,7 +1,7 @@
 import { refusalOver } from "../../chain-refusal/chain-refusal.module.code.ts"
 import {
   guarding,
-  ranAsHook,
+  ranAsCommandHook,
   SCOPE_FLAG,
   toldOf,
 } from "../../hook-answer/hook-answer.module.code.ts"
@@ -96,7 +96,7 @@ export function refusalIn(command: string, from: string, root: string): string |
 }
 
 export async function ran(): Promise<number> {
-  return await ranAsHook(HOOK, "command", SCOPE, import.meta.path, refusalIn)
+  return await ranAsCommandHook(HOOK, SCOPE, import.meta.path, refusalIn)
 }
 
 if (import.meta.main) process.exit(await ran())
