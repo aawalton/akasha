@@ -76,8 +76,12 @@ export const indexAnswering = {
       statement: "Nothing here reads a file.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here holds an answer.",
+      invariantKind: "departure",
+      statement: "A question here taking no arguments is answered once and held.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A face is built for one change and lives no longer than that change.",
     },
     {
       invariantKind: "gap",
