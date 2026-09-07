@@ -21,7 +21,7 @@ export const kiFranchise = {
     },
     {
       invariantKind: "departure",
-      statement: "A show or movie a franchise of Ki's names, names that franchise back.",
+      statement: "A show or movie named by a franchise of Ki's names that franchise back.",
     },
   ],
 } as const satisfies PageType
