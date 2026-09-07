@@ -1,0 +1,14 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/modules/run-cost/run-cost.module.code.ts b/checks/modules/run-cost/run-cost.module.code.ts
+index 6cf8a8fa6b3f654cc2576d365a3e5ea7dae953fa..17a13c8a5866ba584f664d88d7513799db6b6855 100644
+--- a/checks/modules/run-cost/run-cost.module.code.ts
++++ b/checks/modules/run-cost/run-cost.module.code.ts
+@@ -1,4 +1,7 @@
+ import { readFileSync } from "node:fs"
++import { seconds as itself } from "./run-cost.module.code.ts"
++
++export const held = itself
+ 
+ export const BANDS = ["fast", "lagging", "slow", "painful", "torture", "eternal"] as const
+ 
