@@ -1,3 +1,16 @@
+diff --git a/alan/tracking/daily/wake-days/properties/completed-tasks.page-property-entry.ts b/alan/tracking/daily/wake-days/properties/completed-tasks.page-property-entry.ts
+index b0c956687b7a52fbe071b06f5ca678091e18a67f..67a11af3c608661b4f85d56abb7c8deaa92df596 100644
+--- a/alan/tracking/daily/wake-days/properties/completed-tasks.page-property-entry.ts
++++ b/alan/tracking/daily/wake-days/properties/completed-tasks.page-property-entry.ts
+@@ -12,7 +12,7 @@ export const completedTasks = {
+     { pagePropertySlug: "number-property/seq", required: true, many: false },
+     { pagePropertySlug: "text-property/title", required: true, many: false },
+     { pagePropertySlug: "instant-property/completed-at", required: true, many: false },
+-    { pagePropertySlug: "text-property/due-date", required: false, many: false },
++    { pagePropertySlug: "calendar-date-property/due-date", required: false, many: false },
+     { pagePropertySlug: "text-property/value-slug", required: false, many: false },
+     { pagePropertySlug: "text-property/recurrence", required: false, many: false },
+     { pagePropertySlug: "text-property/category", required: false, many: false },
 diff --git a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts b/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
 index 921cce4157831c970db0896e22334452c2a4b295..729585c598ee75b5a358b0fbf957b81e08a76b8a 100644
 --- a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
