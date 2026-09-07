@@ -9,7 +9,7 @@ export const inventoryRuleCalling = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The category rules, the item rules and the buy rules carry one act set.",
+      statement: "The category rules and the item rules and the buy rules carry one act set.",
     },
     {
       invariantKind: "departure",
