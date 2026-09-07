@@ -19,6 +19,7 @@ export const changeChecked = {
     "change-checked/change-page-page-type",
     "change-checked/change-page-property",
     "change-checked/move-page",
+    "change-checked/remove-file",
     "change-checked/remove-page",
     "change-checked/remove-page-type",
     "change-checked/remove-property-value",

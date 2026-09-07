@@ -20,6 +20,9 @@ export type Changes = {
   "change-checked/move-page": Parameters<
     typeof import("../../../checked/pages/move-page/move-page.change-checked.code.ts")["runChange"]
   >[1]
+  "change-checked/remove-file": Parameters<
+    typeof import("../../../checked/pages/remove-file/remove-file.change-checked.code.ts")["runChange"]
+  >[1]
   "change-checked/remove-page": Parameters<
     typeof import("../../../checked/pages/remove-page/remove-page.change-checked.code.ts")["runChange"]
   >[1]
