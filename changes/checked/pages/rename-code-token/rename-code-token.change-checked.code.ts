@@ -8,6 +8,7 @@ import {
   typingOver,
 } from "@akasha/code/code-typing"
 import ts from "typescript"
+import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
   gathered,
   missing,
@@ -29,6 +30,10 @@ const OF = "of"
 const TO = "to"
 
 const ON_LINE = "line"
+
+const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+
+const BESIDE = [".code.ts", ".code.tsx", ".test.ts", ".test.tsx", ".test-fixtures.ts"]
 
 export type RenameCodeTokenAsked = {
   readonly at: string
@@ -79,19 +84,36 @@ function pickedIn(
   }
 }
 
+function whyNot(given: RenameCodeTokenAsked): string | null {
+  if (!BESIDE.some((one) => given.at.endsWith(one))) {
+    return `\`${given.at}\` is a page, and a page's export is its slug`
+  }
+  if (!NAMED.test(given.of)) return `\`${given.of}\` is no name a body carries`
+  if (!NAMED.test(given.to)) return `\`${given.to}\` is no name a body carries`
+  if (given.of === given.to) return `\`${given.to}\` is the name it already carries`
+  return null
+}
+
+async function exported(world: World, given: RenameCodeTokenAsked): Promise<Answer> {
+  const why = whyNot(given)
+  if (why !== null) return refusing(why)
+  const reading = importingOf(world.index, new Map([[given.at, given.at]]))
+  if ("unread" in reading) return refusing(reading.unread)
+  const spelled = await reach(world, RENAME_EXPORT, {
+    at: given.at,
+    over: [given.at, ...reading.importers],
+    of: given.of,
+    to: given.to,
+  })
+  return gathered([spelled.said])
+}
+
 export async function renameCodeToken(world: World, given: RenameCodeTokenAsked): Promise<Answer> {
   if (!typed(given.at)) return refusing(`\`${given.at}\` names no TypeScript body`)
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const typing = typingOver(world.root, [given.at], readingOf(world.root, world.textOf))
-  if (exportsNamed(typing, given.at, given.of).length > 0) {
-    const spelled = await reach(world, RENAME_EXPORT, {
-      at: given.at,
-      of: given.of,
-      to: given.to,
-    })
-    return gathered([spelled.said])
-  }
+  if (exportsNamed(typing, given.at, given.of).length > 0) return await exported(world, given)
   const declared = declaredNamed(typing, given.at, given.of)
   if (declared.length === 0) return refusing(`\`${given.at}\` declares no \`${given.of}\``)
   const found = pickedIn(typing, given, declared)

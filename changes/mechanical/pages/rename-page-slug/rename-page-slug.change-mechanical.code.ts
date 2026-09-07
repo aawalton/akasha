@@ -20,7 +20,7 @@ import { boundIn, keyOf, statedIn } from "../../../modules/page-literal/page-lit
 
 const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
 
-const RESPELL_EXPORT = "change-mechanical/respell-export"
+const RENAME_EXPORT = "change-mechanical/rename-export"
 
 const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
 
@@ -198,7 +198,7 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
   if ("unread" in reading) return refusing(reading.unread)
   const folded = gathered(answers)
   if (folded.refused !== null) return folded
-  const spelled = await reach(worldOver(world, folded), RESPELL_EXPORT, {
+  const spelled = await reach(worldOver(world, folded), RENAME_EXPORT, {
     at: given.at,
     over: [given.at, ...reading.importers],
     of: bound,

@@ -13,10 +13,10 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { runChange as changePageProperty } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
+import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical.code.ts"
 import { runChange as renameImports } from "../../../mechanical/pages/rename-imports/rename-imports.change-mechanical.code.ts"
 import { runChange as renamePageSlug } from "../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts"
 import { runChange as renamePathChange } from "../../../mechanical/pages/rename-path/rename-path.change-mechanical.code.ts"
-import { runChange as respellExport } from "../../../mechanical/pages/respell-export/respell-export.change-mechanical.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
@@ -66,8 +66,8 @@ const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical/change-page-property") {
     return changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
   }
-  if (at === "change-mechanical/respell-export") {
-    return respellExport(world, given as Parameters<typeof respellExport>[1])
+  if (at === "change-mechanical/rename-export") {
+    return renameExport(world, given as Parameters<typeof renameExport>[1])
   }
   if (at === "change-mechanical/rename-imports") {
     return renameImports(world, given as Parameters<typeof renameImports>[1])

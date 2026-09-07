@@ -116,9 +116,6 @@ export type Changes = {
   "change-mechanical/rename-property-signature": Parameters<
     typeof import("../../../mechanical/pages/rename-property-signature/rename-property-signature.change-mechanical.code.ts")["runChange"]
   >[1]
-  "change-mechanical/respell-export": Parameters<
-    typeof import("../../../mechanical/pages/respell-export/respell-export.change-mechanical.code.ts")["runChange"]
-  >[1]
   "change-restated/change-page-property-text": Parameters<
     typeof import("../../../restated/pages/change-page-property-text/change-page-property-text.change-restated.code.ts")["runChange"]
   >[1]

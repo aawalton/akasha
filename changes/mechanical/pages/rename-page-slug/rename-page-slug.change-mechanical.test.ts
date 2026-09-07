@@ -8,14 +8,9 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import {
-  type Reaching,
-  type World,
-  worldAt,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical.code.ts"
-import { runChange as respellExport } from "../respell-export/respell-export.change-mechanical.code.ts"
+import { runChange as renameExport } from "../rename-export/rename-export.change-mechanical.code.ts"
 import { renameSlug } from "./rename-page-slug.change-mechanical.code.ts"
 
 afterAll(scratch.sweep)
@@ -39,34 +34,22 @@ const PLURAL = `export const held = {
 } as const
 `
 
-const NOTHING = (): null => null
-
 function holding(body: string): (path: string) => string | null {
   return (path) => (path === PAGE ? body : null)
 }
 
-function pathsOf(said: Answer): readonly string[] {
-  return said.edits.map((one) => one.path).sort()
-}
-
-function bodyIn(said: Answer, path: string): string {
-  return said.edits.find((one) => one.path === path)?.body ?? ""
-}
-
-const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical/change-page-property") {
-    return Promise.resolve(
-      changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
-    )
-  }
-  if (at === "change-mechanical/respell-export") {
-    return Promise.resolve(respellExport(world, given as Parameters<typeof respellExport>[1]))
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
-
 function worldIn(root: string, textOf: (path: string) => string | null): World {
-  return worldAt(root, textOf, RUNS)
+  return worldAt(root, textOf, (world, at, given) => {
+    if (at === "change-mechanical/change-page-property") {
+      return Promise.resolve(
+        changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+      )
+    }
+    if (at === "change-mechanical/rename-export") {
+      return Promise.resolve(renameExport(world, given as Parameters<typeof renameExport>[1]))
+    }
+    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+  })
 }
 
 async function whyOf(
@@ -81,13 +64,13 @@ async function whyOf(
 }
 
 test("a path that is no `.ts` file is refused", async () => {
-  expect(await whyOf("akasha/one/held.md", KEPT, NOTHING)).toBe(
+  expect(await whyOf("akasha/one/held.md", KEPT, () => null)).toBe(
     "`akasha/one/held.md` is no `.ts` file"
   )
 })
 
 test("a body that could not be read is refused", async () => {
-  expect(await whyOf(PAGE, KEPT, NOTHING)).toBe(`\`${PAGE}\` could not be read`)
+  expect(await whyOf(PAGE, KEPT, () => null)).toBe(`\`${PAGE}\` could not be read`)
 })
 
 test("a body stating no slug is refused", async () => {
@@ -151,12 +134,20 @@ test("the page's own slug and every name of it are restated", async () => {
   const root = indexedRepo()
   const said = await renameSlug(worldIn(root, textIn(root)), { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
-  expect(pathsOf(said)).toEqual([HELD_PAGE, NAMER_PAGE])
-  expect(bodyIn(said, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
-  expect(bodyIn(said, HELD_PAGE)).not.toContain(`"${HELD_SLUG}"`)
-  expect(bodyIn(said, NAMER_PAGE)).toContain(`"note": "${KEPT}"`)
-  expect(bodyIn(said, NAMER_PAGE)).toContain(`"module/${KEPT}"`)
-  expect(bodyIn(said, NAMER_PAGE)).not.toContain(HELD_SLUG)
+  expect(said.edits.map((one) => one.path).sort()).toEqual([HELD_PAGE, NAMER_PAGE])
+  expect(said.edits.find((one) => one.path === HELD_PAGE)?.body ?? "").toContain(
+    `"slug": "${KEPT}"`
+  )
+  expect(said.edits.find((one) => one.path === HELD_PAGE)?.body ?? "").not.toContain(
+    `"${HELD_SLUG}"`
+  )
+  expect(said.edits.find((one) => one.path === NAMER_PAGE)?.body ?? "").toContain(
+    `"note": "${KEPT}"`
+  )
+  expect(said.edits.find((one) => one.path === NAMER_PAGE)?.body ?? "").toContain(
+    `"module/${KEPT}"`
+  )
+  expect(said.edits.find((one) => one.path === NAMER_PAGE)?.body ?? "").not.toContain(HELD_SLUG)
 })
 
 test("each body is answered beside the body it was worked out from", async () => {
@@ -173,8 +164,12 @@ test("the page's exported const is renamed with its slug", async () => {
   const root = indexedRepo()
   const said = await renameSlug(worldIn(root, textIn(root)), { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
-  expect(bodyIn(said, HELD_PAGE)).toContain(`export const ${KEPT} =`)
-  expect(bodyIn(said, HELD_PAGE)).not.toContain(`export const ${HELD_SLUG} =`)
+  expect(said.edits.find((one) => one.path === HELD_PAGE)?.body ?? "").toContain(
+    `export const ${KEPT} =`
+  )
+  expect(said.edits.find((one) => one.path === HELD_PAGE)?.body ?? "").not.toContain(
+    `export const ${HELD_SLUG} =`
+  )
 })
 
 test("the bodies are answered rather than written", async () => {
@@ -210,11 +205,15 @@ test("the plural is stated anew beside the slug", async () => {
   const world = worldIn(root, (path) => (path === HELD_PAGE ? held : text(path)))
   const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
   expect(said.refused).toBe(null)
-  expect(bodyIn(said, HELD_PAGE)).toContain(`"pluralSlug": "kepts"`)
-  expect(bodyIn(said, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
+  expect(said.edits.find((one) => one.path === HELD_PAGE)?.body ?? "").toContain(
+    `"pluralSlug": "kepts"`
+  )
+  expect(said.edits.find((one) => one.path === HELD_PAGE)?.body ?? "").toContain(
+    `"slug": "${KEPT}"`
+  )
 })
 
-test("the plural and the respelling are reached at their own addresses", async () => {
+test("the plural and the export rename are reached at their own addresses", async () => {
   const reached: string[] = []
   const root = indexedRepo()
   const text = textIn(root)
@@ -235,6 +234,6 @@ test("the plural and the respelling are reached at their own addresses", async (
 
   expect(reached).toEqual([
     "change-mechanical/change-page-property",
-    "change-mechanical/respell-export",
+    "change-mechanical/rename-export",
   ])
 })
