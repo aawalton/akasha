@@ -1,0 +1,24 @@
+diff --git a/bun.lock b/bun.lock
+index b81e6145657601453490675c73ed395762f3859f..b6ed0ad827509f93a6b8d8365a7c1a747c47ce2a 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -1407,6 +1407,7 @@
+         "@akasha/code": "workspace:*",
+         "@akasha/command-system": "workspace:*",
+         "@akasha/errors-core": "workspace:*",
++        "@akasha/pages": "workspace:*",
+         "@akasha/supabase-auth": "workspace:*",
+         "@akasha/utils-fs": "workspace:*",
+         "@akasha/utils-system": "workspace:*",
+diff --git a/seat-system/package.json b/seat-system/package.json
+index 52dc7350b5609c19949848224f740fdb37d1ea8a..59be61a58026b5f49cf8738ab2df9c93b2a1d064 100644
+--- a/seat-system/package.json
++++ b/seat-system/package.json
+@@ -263,6 +263,7 @@
+     "@akasha/code": "workspace:*",
+     "@akasha/command-system": "workspace:*",
+     "@akasha/errors-core": "workspace:*",
++    "@akasha/pages": "workspace:*",
+     "@akasha/supabase-auth": "workspace:*",
+     "@akasha/utils-fs": "workspace:*",
+     "@akasha/utils-system": "workspace:*",
