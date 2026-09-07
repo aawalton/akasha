@@ -1,10 +1,18 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.code.ts b/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.code.ts
-index 8e8e8c816c5de1b2826341c53c9b675035dcc3d9..0687665f320d310ba1434b30ee7ea2c0021e3148 100644
+index 8e8e8c816c5de1b2826341c53c9b675035dcc3d9..a945bfcaad747339a0ec266d6d09ac29cc354fef 100644
 --- a/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.code.ts
 +++ b/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.code.ts
-@@ -47,10 +47,27 @@ export function reachedIn(at: string, text: string): readonly string[] {
+@@ -1,6 +1,7 @@
+ import { skimmedAs } from "@akasha/code/code-source"
+ import { landingOf } from "@akasha/code/code-specifier"
+ import type { Change } from "@akasha/pages/change"
++import type { Shadow } from "@akasha/pages/shadow"
+ import ts from "typescript"
+ import {
+   input,
+@@ -47,10 +48,27 @@ export function reachedIn(at: string, text: string): readonly string[] {
    return found
  }
  
@@ -34,7 +42,7 @@ index 8e8e8c816c5de1b2826341c53c9b675035dcc3d9..0687665f320d310ba1434b30ee7ea2c0
      const text = textIn(change, path)
      if (text === null) {
        found.set(path, [])
-@@ -59,8 +76,12 @@ export function reachingIn(change: Change): ReadonlyMap<string, readonly string[
+@@ -59,8 +77,12 @@ export function reachingIn(change: Change): ReadonlyMap<string, readonly string[
      const outs: string[] = []
      for (const one of reachedIn(path, text)) {
        const landed = landingOf(path, one)
@@ -48,7 +56,7 @@ index 8e8e8c816c5de1b2826341c53c9b675035dcc3d9..0687665f320d310ba1434b30ee7ea2c0
      }
      found.set(path, outs)
    }
-@@ -116,9 +137,11 @@ export function reasonFor(at: string, held: readonly string[]): string {
+@@ -116,9 +138,11 @@ export function reasonFor(at: string, held: readonly string[]): string {
    return `sits in a cycle reaching ${first}${rest} — ${ITSELF}`
  }
  
