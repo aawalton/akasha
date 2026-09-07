@@ -6,15 +6,7 @@ export const pageCommands = {
   slug: "page-commands",
   definition: "what an agent runs by name over the pages themselves",
   manifest: "json",
-  partSlugs: [
-    "command/page-icon-search-index-generate",
-    "command/page-secret-clear",
-    "command/page-secret-reveal",
-    "command/page-secret-set",
-    "command/page-secret-show",
-    "module/icon-index-rendering",
-    "module/page-secret-acting",
-  ],
+  partSlugs: ["module/icon-index-rendering", "module/page-secret-acting"],
   invariants: [
     {
       invariantKind: "departure",

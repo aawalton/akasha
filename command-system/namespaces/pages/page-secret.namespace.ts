@@ -1,0 +1,14 @@
+import type { Namespace } from "../namespace.page-type.ts"
+
+export const pageSecret = {
+  id: "01a07bc6-efea-754e-b4cc-6744893bc509",
+  pageTypeSlug: "namespace",
+  slug: "page-secret",
+  definition: "a value a page carries that the files hide",
+  partSlugs: [
+    "command/page-secret-clear",
+    "command/page-secret-reveal",
+    "command/page-secret-set",
+    "command/page-secret-show",
+  ],
+} as const satisfies Namespace
