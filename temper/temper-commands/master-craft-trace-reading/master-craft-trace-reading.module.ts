@@ -13,8 +13,11 @@ export const masterCraftTraceReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The traces are read as a list, so a run that crafted nothing answers empty rather than absent.",
+      statement: "The traces are read as a list.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that crafted nothing answers empty rather than absent.",
     },
   ],
 } as const satisfies Module
