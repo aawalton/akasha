@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-commands/inventory-rule-flags/inventory-rule-flags.module.ts b/temper/temper-commands/inventory-rule-flags/inventory-rule-flags.module.ts
+index 5b6b762feae6e8e5c38413a8c4231358e2bf86d7..6cd7eeb1a69f0f968343acad4748610e4bd1f1cc 100644
+--- a/temper/temper-commands/inventory-rule-flags/inventory-rule-flags.module.ts
++++ b/temper/temper-commands/inventory-rule-flags/inventory-rule-flags.module.ts
+@@ -14,7 +14,7 @@ export const inventoryRuleFlags = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refusal names the flag, the value said, and the values that flag takes.",
++      statement: "A refusal names the flag and the value said and the values that flag takes.",
+     },
+     {
+       invariantKind: "departure",
