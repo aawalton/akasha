@@ -257,10 +257,10 @@ index 0000000000000000000000000000000000000000..d120da56dd39fa83d7863059c8e0ff56
 +}
 diff --git a/changes/modules/page-literal/page-literal.module.test.ts b/changes/modules/page-literal/page-literal.module.test.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..df1c754609d79ebcffadd07ff2289fe1566d2e66
+index 0000000000000000000000000000000000000000..e8935c4cbee33d09869e38dae6e67d8db19821df
 --- /dev/null
 +++ b/changes/modules/page-literal/page-literal.module.test.ts
-@@ -0,0 +1,95 @@
+@@ -0,0 +1,98 @@
 +import { expect, test } from "bun:test"
 +import { parsedAs } from "@akasha/code/code-source"
 +import ts from "typescript"
@@ -344,7 +344,10 @@ index 0000000000000000000000000000000000000000..df1c754609d79ebcffadd07ff2289fe1
 +
 +test("a key is read off the assignment stating that key", () => {
 +  const held = literalIn(sourceOf())
-+  const found = (held?.properties ?? []).filter((one) => ts.isPropertyAssignment(one)).map(keyOf)
++  const found: (string | null)[] = []
++  for (const one of held?.properties ?? []) {
++    if (ts.isPropertyAssignment(one)) found.push(keyOf(one))
++  }
 +
 +  expect(found).toEqual([
 +    "id",
