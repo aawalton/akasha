@@ -345,7 +345,7 @@ test("a path the repository ignores is written onto the tree and left out of the
   expect(said.files).toEqual(IGNORED_OUT)
 })
 
-test("a commit that throws leaves the path the repository ignores unwritten", async () => {
+test("a commit that throws leaves no trace of the path the repository ignores", async () => {
   const said = await splitThrew()
   expect(said.why).toContain("insufficient permission")
   expect(said.left).toEqual([])

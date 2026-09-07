@@ -115,7 +115,7 @@ export async function pageLanded(root: string): Promise<string> {
   return root
 }
 
-const HELD_OUT = "held.uncommitted.json"
+const HELD_OUT = "deep/held.uncommitted.json"
 
 export const IGNORED_OUT: readonly string[] = [".gitignore", "new.txt", "one.txt"]
 
@@ -159,7 +159,8 @@ export async function splitThrew(): Promise<{
   } finally {
     chmodSync(at, 0o700)
   }
-  return { why, left: [HELD_OUT, "new.txt"].filter((one) => existsSync(join(root, one))) }
+  const might = [HELD_OUT, "new.txt", "deep"]
+  return { why, left: might.filter((one) => existsSync(join(root, one))) }
 }
 
 function typed(
