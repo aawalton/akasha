@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/file-length/file-length.code-check.code.ts b/checks/code-checks/pages/file-length/file-length.code-check.code.ts
-index b3c499b8df118acb3838b417e41731a0264d0b6d..61a31733937aec73483ad477e2c9d884a1b6c9d7 100644
+index b3c499b8df118acb3838b417e41731a0264d0b6d..fb8c45bf6e5180dc09f1d881d7bf8007cf30f857 100644
 --- a/checks/code-checks/pages/file-length/file-length.code-check.code.ts
 +++ b/checks/code-checks/pages/file-length/file-length.code-check.code.ts
 @@ -1,4 +1,10 @@
@@ -29,6 +29,41 @@ index b3c499b8df118acb3838b417e41731a0264d0b6d..61a31733937aec73483ad477e2c9d884
  const NAMING = new WeakMap<Shadow, readonly Naming[]>()
  
  const HELD_OFF = new WeakMap<Shadow, ReadonlySet<string>>()
+@@ -72,25 +72,20 @@ function namingIn(shadow: Shadow): readonly Naming[] {
+ function sectionsOff(shadow: Shadow): ReadonlySet<string> {
+   const found = HELD_OFF.get(shadow)
+   if (found !== undefined) return found
+-  const made = new Set<string>()
+-  for (const kind of shadow.index.kindsUnder(FILE_PROPERTY)) {
+-    for (const listed of shadow.index.everyOfType(kind)) {
+-      const value = shadow.pageOf(listed.path)
+-      if (value === null || !heldOff(value)) continue
+-      if (typeof value[FILE_NAME] === "string") continue
+-      const slug = value[PROPERTY_SLUG]
+-      if (typeof slug === "string") made.add(slug)
+-    }
+-  }
++  const made = slugsWhere(
++    {
++      kindsUnder: (of) => shadow.index.kindsUnder(of),
++      everyOfType: (kind) => shadow.index.everyOfType(kind),
++      valueAt: (path) => shadow.pageOf(path),
++    },
++    heldOff
++  )
+   HELD_OFF.set(shadow, made)
+   return made
+ }
+ 
+ function sectionOff(path: string, shadow: Shadow): boolean {
+-  const said = partedIn(path)
+-  if (said === null) return false
+-  const held = sectionedIn(said)
+-  return held !== null && sectionsOff(shadow).has(held.propertySlug)
++  return sectionHeld(path, sectionsOff(shadow))
+ }
+ 
+ export function exemptIn(path: string, shadow: Shadow): boolean {
 diff --git a/pages/indexes/property-carrying/property-carrying.module.code.ts b/pages/indexes/property-carrying/property-carrying.module.code.ts
 index 31918d32cc69664824f2e163a997f4d80cf21d89..11c7525abad52892b0ac64268da877af774bf14f 100644
 --- a/pages/indexes/property-carrying/property-carrying.module.code.ts
