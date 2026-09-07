@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Alan: turn a check on carrying its residue; clear every violation at the end, once all are on and fast. Owed: 19 in vendored lualib, wanting `bundler` and `allowImportingTsExtensions`. restatement-narrows-something is through step 1 and alone catches a restatement narrowing nothing, key-names-one-property taking the loosening. Then shell-clean, folder-matches-a-shape, identifier-matches-its-place. typecheck refuses at baseline, so compare arms.",
+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Alan: turn a check on carrying its residue; clear every violation at the end, once all are on and fast. Owed: 19 in vendored lualib wanting `bundler`, and 10 restatements narrowing nothing. restatement-narrows-something is through step 2: it alone catches one narrowing nothing, and now descends via `underEach`, so tightening a parent no longer loses it. Step 3 prices `kindsUnder`. Then shell-clean, folder-matches-a-shape, identifier-matches-its-place.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",

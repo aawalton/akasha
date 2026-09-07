@@ -50,6 +50,10 @@ export const restatementNarrowsSomething = {
         "A page type is judged when the change carries that page type or a property that type declares.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page type under a judged page type is judged as well.",
+    },
+    {
       invariantKind: "absence",
       statement: "A restatement that loosens is passed over here.",
     },
