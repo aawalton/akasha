@@ -26,7 +26,7 @@ export type AliasEntry = {
 }
 
 function claudeUsageFn(): string {
-  return [`${implName("cu")}() {`, `  ${AKASHA} measure claude-accounts "$@"`, "}"].join("\n")
+  return [`${implName("cu")}() {`, `  ${AKASHA} measure claude-accounts usage "$@"`, "}"].join("\n")
 }
 
 function aliases(): string {
