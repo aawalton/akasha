@@ -31,3 +31,24 @@ index c2f637bc6ad1890b3611744b315d9e6ebe6f1250..42507a92086221f3c7a5eba23530fda6
    pageSize: 40,
    itemPageSize: 12,
    groupPageSize: 6,
+diff --git a/pages/views/pages/tasks-up-next.view.ts b/pages/views/pages/tasks-up-next.view.ts
+index 11c69063a25ea60afdc6101bd9639303ff2749a8..ddb62e0b4c229d7a5cdd21eb138a0a9d9a9998b0 100644
+--- a/pages/views/pages/tasks-up-next.view.ts
++++ b/pages/views/pages/tasks-up-next.view.ts
+@@ -9,12 +9,12 @@ export const tasksUpNext = {
+   pageType: "to-do",
+   viewPlace: 1,
+   narrows: [
+-    { key: "completed-at", comparison: "empty", values: ["true"] },
+-    { key: "due-date", comparison: "at-or-after", values: ["eso-day-next"] },
++    { key: "to-do-completed-at", comparison: "empty", values: ["true"] },
++    { key: "to-do-due-date", comparison: "at-or-after", values: ["eso-day-next"] },
+   ],
+   viewSorts: [
+-    { key: "due-date", descending: false },
++    { key: "to-do-due-date", descending: false },
+     { key: "due-time", descending: false },
+   ],
+-  visibleProperties: ["priority", "due-date", "due-time"],
++  visibleProperties: ["to-do-priority", "to-do-due-date", "due-time"],
+ } as const satisfies View
