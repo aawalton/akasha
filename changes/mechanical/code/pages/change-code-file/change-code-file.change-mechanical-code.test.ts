@@ -6,13 +6,13 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import {
   type Reaching,
   type World,
   worldAt,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { changeFile } from "../change-file/change-file.change-mechanical.code.ts"
+} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { changeFile } from "../../../pages/change-file/change-file.change-mechanical.code.ts"
 import { runChange } from "./change-code-file.change-mechanical-code.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
