@@ -1,0 +1,66 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/temper/temper-progress/completed-days/properties/completed-at.instant-property.ts b/temper/temper-progress/completed-days/properties/completed-at.instant-property.ts
+deleted file mode 100644
+index d03f439b92f4696efed5d69d322077825566d979..0000000000000000000000000000000000000000
+--- a/temper/temper-progress/completed-days/properties/completed-at.instant-property.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { InstantProperty } from "@akasha/pages/instant-property"
+-
+-export type CompletedAt = string
+-
+-export const completedAt = {
+-  id: "01a05fd3-4360-7ee7-a3d6-063adb7fe7f5",
+-  pageTypeSlug: "instant-property",
+-  slug: "completed-at",
+-  propertySlug: "completed-at",
+-  definition: "when a task was marked done",
+-} as const satisfies InstantProperty
+diff --git a/temper/temper-progress/completed-days/temper-completed-day.page-type.ts b/temper/temper-progress/completed-days/temper-completed-day.page-type.ts
+index 2822f5de8462a8eef6101d8ce4e474c5034f5d6c..d02f28f26e092018960b133651677ce9f9531b5e 100644
+--- a/temper/temper-progress/completed-days/temper-completed-day.page-type.ts
++++ b/temper/temper-progress/completed-days/temper-completed-day.page-type.ts
+@@ -15,12 +15,7 @@ export const temperCompletedDay = {
+   definition: "one day of tasks already marked done",
+   pluralSlug: "temper-completed-days",
+   extendsSlug: ["page-type/temper-progress-thing"],
+-  partSlugs: [
+-    "instant-property/completed-at",
+-    "page-property-entry/completions",
+-    "text-property/day",
+-    "text-property/task",
+-  ],
++  partSlugs: ["page-property-entry/completions", "text-property/day", "text-property/task"],
+   properties: [
+     { pagePropertySlug: "text-property/day", required: true, many: false },
+     { pagePropertySlug: "page-property-entry/completions", required: false, many: false },
+diff --git a/temper/temper-progress/tasks/properties/completed-at.instant-property.ts b/temper/temper-progress/tasks/properties/completed-at.instant-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d03f439b92f4696efed5d69d322077825566d979
+--- /dev/null
++++ b/temper/temper-progress/tasks/properties/completed-at.instant-property.ts
+@@ -0,0 +1,11 @@
++import type { InstantProperty } from "@akasha/pages/instant-property"
++
++export type CompletedAt = string
++
++export const completedAt = {
++  id: "01a05fd3-4360-7ee7-a3d6-063adb7fe7f5",
++  pageTypeSlug: "instant-property",
++  slug: "completed-at",
++  propertySlug: "completed-at",
++  definition: "when a task was marked done",
++} as const satisfies InstantProperty
+diff --git a/temper/temper-progress/tasks/temper-task.page-type.ts b/temper/temper-progress/tasks/temper-task.page-type.ts
+index f47fd4c9023a66908000a0f86e9d343da67679f7..2d1ac91a9f8114920db721ccbb2cd0dc4a20dd60 100644
+--- a/temper/temper-progress/tasks/temper-task.page-type.ts
++++ b/temper/temper-progress/tasks/temper-task.page-type.ts
+@@ -30,6 +30,7 @@ export const temperTask = {
+   partSlugs: [
+     "boolean-property/pending-sync",
+     "calendar-time-property/due-time",
++    "instant-property/completed-at",
+     "instant-property/last-completed-at",
+     "number-property/character-sort-order",
+     "number-property/progress-current",
