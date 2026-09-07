@@ -1,0 +1,81 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/astra-person-system-cleanup.initiative.ts b/domains/initiatives/pages/astra-person-system-cleanup.initiative.ts
+deleted file mode 100644
+index e830eea3286212f67b51e2839acc2d464927753f..0000000000000000000000000000000000000000
+--- a/domains/initiatives/pages/astra-person-system-cleanup.initiative.ts
++++ /dev/null
+@@ -1,21 +0,0 @@
+-import type { Initiative } from "../initiative.page-type.ts"
+-
+-export const astraPersonSystemCleanup = {
+-  id: "01a06cd9-a5d8-7ceb-980a-d9e77ebb0437",
+-  pageTypeSlug: "initiative",
+-  slug: "astra-person-system-cleanup",
+-  domainSlug: "workspace-package/persons",
+-  personaSlug: "astra",
+-  intents: [
+-    {
+-      statement: "All persons-specific files are organized in the persons/ folder.",
+-      workingMemory:
+-        "Met on arrival. Every page of every page type persons declares sits under `persons/`, but for the email rule pages under `alan/harness/inboxes/email-rules/`, and those belong where they are: `email-rule` holds that one person's rules are a set of their own, and that a rule's kind is the folder the rule is in.",
+-    },
+-    {
+-      statement: "The persons/ folder passes the `folder-matches-a-shape` check.",
+-      workingMemory:
+-        "Met: 156 files judged, none refused. It took each part of the email domain into a folder of its own, every folder name with the name of the page above it taken off, and `email-rule` declaring its two kinds where `email` had declared them. Twelve invariants over nine pages were restated to say one fact each. `alan/harness/inboxes/email-rules` refuses yet, wanting the disabled `pages-of-one-type` shape.",
+-    },
+-  ],
+-} as const satisfies Initiative
+diff --git a/domains/initiatives/pages/astra-persons-cleanup.initiative.ts b/domains/initiatives/pages/astra-persons-cleanup.initiative.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0d7766049a945ac59f3ef50f4f83743d4db1f728
+--- /dev/null
++++ b/domains/initiatives/pages/astra-persons-cleanup.initiative.ts
+@@ -0,0 +1,21 @@
++import type { Initiative } from "../initiative.page-type.ts"
++
++export const astraPersonsCleanup = {
++  id: "01a06cd9-a5d8-7ceb-980a-d9e77ebb0437",
++  pageTypeSlug: "initiative",
++  slug: "astra-persons-cleanup",
++  domainSlug: "workspace-package/persons",
++  personaSlug: "astra",
++  intents: [
++    {
++      statement: "All persons-specific files are organized in the persons/ folder.",
++      workingMemory:
++        "Met on arrival. Every page of every page type persons declares sits under `persons/`, but for the email rule pages under `alan/harness/inboxes/email-rules/`, and those belong where they are: `email-rule` holds that one person's rules are a set of their own, and that a rule's kind is the folder the rule is in.",
++    },
++    {
++      statement: "The persons/ folder passes the `folder-matches-a-shape` check.",
++      workingMemory:
++        "Met: 156 files judged, none refused. It took each part of the email domain into a folder of its own, every folder name with the name of the page above it taken off, and `email-rule` declaring its two kinds where `email` had declared them. Twelve invariants over nine pages were restated to say one fact each. `alan/harness/inboxes/email-rules` refuses yet, wanting the disabled `pages-of-one-type` shape.",
++    },
++  ],
++} as const satisfies Initiative
+diff --git a/seat-system/seats/pages/astra.seat.ts b/seat-system/seats/pages/astra.seat.ts
+index e9b4750b34ad398e53ee1079cefefddc3e46f4ad..a9b3f1d8cea456e79a57b53ddfaec9b718e670d2 100644
+--- a/seat-system/seats/pages/astra.seat.ts
++++ b/seat-system/seats/pages/astra.seat.ts
+@@ -5,7 +5,7 @@ export const astra = {
+   pageTypeSlug: "seat",
+   slug: "astra",
+   personaSlug: "astra",
+-  assignmentSlug: "initiative/astra-person-system-cleanup",
++  assignmentSlug: "initiative/astra-persons-cleanup",
+   roleSlug: "definer",
+   personSlug: "alan",
+   startMode: "interactive",
+diff --git a/seat-system/subagents/pages/astra-a4b7fcf7d441cf48d.subagent.ts b/seat-system/subagents/pages/astra-a4b7fcf7d441cf48d.subagent.ts
+index 0dee718e955a5aff6d19280fd9453516491f7fe2..1ceea6ecce22064babd0b18e6f6039df29367aed 100644
+--- a/seat-system/subagents/pages/astra-a4b7fcf7d441cf48d.subagent.ts
++++ b/seat-system/subagents/pages/astra-a4b7fcf7d441cf48d.subagent.ts
+@@ -5,7 +5,7 @@ export const astraA4b7fcf7d441cf48d = {
+   pageTypeSlug: "subagent",
+   slug: "astra-a4b7fcf7d441cf48d",
+   principalSeatName: "astra",
+-  assignmentSlug: "initiative/astra-person-system-cleanup",
++  assignmentSlug: "initiative/astra-persons-cleanup",
+   dispatchedAs: "general-purpose",
+   agentId: "01a06cd6-841c-7000-873e-4c76fc0be224--a4b7fcf7d441cf48d",
+ } as const satisfies Subagent
