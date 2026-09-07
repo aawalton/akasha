@@ -85,7 +85,7 @@ index 875b26204a59de96c57e34b0f91720684e29cd2c..153b0eaf28b615c8773b7d910e784651
          onCreateOption != null
            ? (propertyId, label) => onCreateOption(id, pageData, propertyId, label)
 diff --git a/pages/ui/components/page-card/page-card.module.code.tsx b/pages/ui/components/page-card/page-card.module.code.tsx
-index 2726b4d1a75474c9458a80ca867e29a88dc39676..e49d303fd1603e6fcc28dd2feb73276e8ae829cf 100644
+index 2726b4d1a75474c9458a80ca867e29a88dc39676..875a24e44fd8e6c7fdcb2d5cb8f1fa141782b658 100644
 --- a/pages/ui/components/page-card/page-card.module.code.tsx
 +++ b/pages/ui/components/page-card/page-card.module.code.tsx
 @@ -8,6 +8,8 @@ import { cn } from "@akasha/design-primitives/cn"
@@ -130,6 +130,20 @@ index 2726b4d1a75474c9458a80ca867e29a88dc39676..e49d303fd1603e6fcc28dd2feb73276e
    const isFavorite = data?.favoritedAt != null
  
    const titleLinkFade = useOverflowFade<HTMLSpanElement>(displayTitle)
+@@ -109,7 +112,12 @@ export function PageCard({
+                 type="button"
+                 aria-label={isCompleted ? "Uncomplete" : "Complete"}
+                 className="shrink-0 cursor-pointer text-tertiary transition-colors hover:text-primary"
+-                onClick={() => onComplete?.(isCompleted ? null : Date.now())}
++                onClick={(e) => {
++                  e.stopPropagation()
++                  e.preventDefault()
++                  e.nativeEvent.stopImmediatePropagation()
++                  onComplete?.(isCompleted ? null : Date.now())
++                }}
+               >
+                 {isCompleted ? (
+                   <CheckCircle2 className="size-4.5 text-success" />
 diff --git a/pages/ui/components/page-table/page-table.module.code.tsx b/pages/ui/components/page-table/page-table.module.code.tsx
 index fcba0c7a5457c8e400aadd6446765cfd089da3b1..b50e92faf3d285e155762afaa45e444e45ff444b 100644
 --- a/pages/ui/components/page-table/page-table.module.code.tsx
