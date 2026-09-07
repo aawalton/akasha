@@ -1,5 +1,5 @@
 diff --git a/bun.lock b/bun.lock
-index ecc8357adffb071df568415e0bdd6e0b02001f87..9e15d70d31d5adc9702bcaed61573e9cb28811bd 100644
+index 58139d29a960b7b9663e118c44fd7a52d6fe9cf8..72858123ecd5c4181b31dcc25f74ff9afb77aa20 100644
 --- a/bun.lock
 +++ b/bun.lock
 @@ -1042,7 +1042,6 @@
@@ -306,3 +306,62 @@ index 0000000000000000000000000000000000000000..75d26e6785514c10e959a6d4b064b5ac
 +  expect(said.toDoDueDate).toBeUndefined()
 +  expect(said.toDoLastCompletedAt).toBe("2026-09-06T22:00:00.000Z")
 +})
+diff --git a/pages/core/task-lifecycle/task-lifecycle.module.ts b/pages/core/task-lifecycle/task-lifecycle.module.ts
+index 82536a1df9e025bafc2e8ebc9404642154cc946a..a23624ce0c5f5b9de928670652a871971d83bc41 100644
+--- a/pages/core/task-lifecycle/task-lifecycle.module.ts
++++ b/pages/core/task-lifecycle/task-lifecycle.module.ts
+@@ -4,6 +4,53 @@ export const taskLifecycle = {
+   id: "01a05b92-a9c7-7218-a6a2-fd22347d97b9",
+   pageTypeSlug: "module",
+   slug: "task-lifecycle",
+-  definition: "the state changes a task can undergo",
++  definition: "what a task carries once it is marked done",
+   code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A task marked done carries the instant of the marking.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A task holding a rule comes due again rather than reading as done.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A task anchored from completion comes round from the day of the marking.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every other task comes round from the day that task was already due.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The day a completion is anchored on is Alan's day rather than the UTC date.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A task holding no rule reads as done from the day of the marking onward.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A temper task holds no key saying that task is done.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A temper task never reads as done.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The keys a completion touches are read from the page type marked.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a clock.",
++    },
++  ],
+ } as const satisfies Module
