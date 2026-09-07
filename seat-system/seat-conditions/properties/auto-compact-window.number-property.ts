@@ -13,7 +13,7 @@ export const autoCompactWindow = {
     {
       invariantKind: "constraint",
       statement:
-        "The harness holds this count between 100,000 and 1,000,000 whatever value is stated.",
+        "The harness holds this count between one hundred thousand and one million whatever value is stated.",
     },
     {
       invariantKind: "departure",
