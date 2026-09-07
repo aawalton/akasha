@@ -207,10 +207,10 @@ index 0000000000000000000000000000000000000000..10d197ecee3985bacd2b9c6b64deb38e
 +}
 diff --git a/changes/checked/pages/rename-package/rename-package.change-checked.test.ts b/changes/checked/pages/rename-package/rename-package.change-checked.test.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..47e110bb2025d4cd1cada0b6221395dc01caec48
+index 0000000000000000000000000000000000000000..6745d6edee0b794fcac052fe864d4e1978838a66
 --- /dev/null
 +++ b/changes/checked/pages/rename-package/rename-package.change-checked.test.ts
-@@ -0,0 +1,304 @@
+@@ -0,0 +1,292 @@
 +import { afterAll, expect, test } from "bun:test"
 +import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
 +import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
@@ -366,8 +366,6 @@ index 0000000000000000000000000000000000000000..47e110bb2025d4cd1cada0b6221395dc
 +  [ROOT_MANIFEST]: ROOT_BODY,
 +}
 +
-+const NOTHING = (): null => null
-+
 +const saying =
 +  (body: string) =>
 +  (path: string): string | null =>
@@ -382,8 +380,10 @@ index 0000000000000000000000000000000000000000..47e110bb2025d4cd1cada0b6221395dc
 +  return worldAt(root, textIn(root))
 +}
 +
-+function bodyIn(said: Answer, path: string): string | null | undefined {
-+  return said.edits.find((one) => one.path === path)?.body
++function renamed(): ReadonlyMap<string, string | null> {
++  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
++  expect(said.refused).toBe(null)
++  return new Map(said.edits.map((one) => [one.path, one.body]))
 +}
 +
 +function pathsIn(said: Answer): readonly string[] {
@@ -391,7 +391,7 @@ index 0000000000000000000000000000000000000000..47e110bb2025d4cd1cada0b6221395dc
 +}
 +
 +test("a manifest that could not be read is refused", () => {
-+  const world = worldAt(scratch.rootFor("package-"), NOTHING)
++  const world = worldAt(scratch.rootFor("package-"), () => null)
 +  const said = renamePackage(world, { at: INNER_MANIFEST, to: HELD })
 +  expect(said.edits).toEqual([])
 +  expect(said.refused).toBe(`\`${INNER_MANIFEST}\` could not be read`)
@@ -444,39 +444,27 @@ index 0000000000000000000000000000000000000000..47e110bb2025d4cd1cada0b6221395dc
 +})
 +
 +test("the package's own manifest states the new name and keeps its spacing", () => {
-+  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
-+  expect(said.refused).toBe(null)
-+  expect(bodyIn(said, INNER_MANIFEST)).toBe(INNER_BODY.replace(`"${INNER}"`, `"${HELD}"`))
++  expect(renamed().get(INNER_MANIFEST)).toBe(INNER_BODY.replace(`"${INNER}"`, `"${HELD}"`))
 +})
 +
 +test("a manifest naming the package among its dependencies is restated", () => {
-+  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
-+  expect(said.refused).toBe(null)
-+  expect(bodyIn(said, OUTER_MANIFEST)).toBe(OUTER_BODY.replace(`"${INNER}"`, `"${HELD}"`))
++  expect(renamed().get(OUTER_MANIFEST)).toBe(OUTER_BODY.replace(`"${INNER}"`, `"${HELD}"`))
 +})
 +
 +test("an entry whose value names the package under the new name is left as it is", () => {
-+  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
-+  expect(said.refused).toBe(null)
-+  expect(bodyIn(said, ROOT_MANIFEST)).toContain(`"${INNER}": "workspace:${HELD}@*"`)
++  expect(renamed().get(ROOT_MANIFEST)).toContain(`"${INNER}": "workspace:${HELD}@*"`)
 +})
 +
 +test("an entry whose value names the package under the old name states the new name", () => {
-+  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
-+  expect(said.refused).toBe(null)
-+  expect(bodyIn(said, ROOT_MANIFEST)).toContain(`"@akasha/stale": "workspace:${HELD}@*"`)
++  expect(renamed().get(ROOT_MANIFEST)).toContain(`"@akasha/stale": "workspace:${HELD}@*"`)
 +})
 +
 +test("a manifest carrying an alias is restated whole", () => {
-+  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
-+  expect(said.refused).toBe(null)
-+  expect(bodyIn(said, ROOT_MANIFEST)).toBe(ROOT_WANTED)
++  expect(renamed().get(ROOT_MANIFEST)).toBe(ROOT_WANTED)
 +})
 +
 +test("a body reaching the package has each specifier naming it rewritten", () => {
-+  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
-+  expect(said.refused).toBe(null)
-+  expect(bodyIn(said, READER_CODE)).toBe(`import { one } from "${HELD}"
++  expect(renamed().get(READER_CODE)).toBe(`import { one } from "${HELD}"
 +import { two } from "${HELD}/two"
 +
 +export const spoken = "${INNER}"
@@ -612,7 +600,7 @@ index 0000000000000000000000000000000000000000..bcbfa98e45873451be85aff0c1a81dbe
 +  ],
 +} as const satisfies ChangeChecked
 diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
-index b61288212924a111f532ecffe95c243120796fc8..539d41fa561fe427846e83c066fc6f6ad28da567 100644
+index af631b0d168397079122d6e8859274cbbb8c92fb..8485a81f096f3c3a45fc74cbcc583a480e0d6498 100644
 --- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
 +++ b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
 @@ -35,6 +35,9 @@ export type Changes = {
