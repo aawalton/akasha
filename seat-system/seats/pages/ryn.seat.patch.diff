@@ -1,15 +1,3 @@
-diff --git a/domains/sentence-shapes/sentence-shape.page-type.ts b/domains/sentence-shapes/sentence-shape.page-type.ts
-index 8b00431c5beb36d0b833b4d5d6be052160f89917..7d6b2c4724693f2b99e31404fd896d3525610b42 100644
---- a/domains/sentence-shapes/sentence-shape.page-type.ts
-+++ b/domains/sentence-shapes/sentence-shape.page-type.ts
-@@ -17,6 +17,7 @@ export const sentenceShape = {
-   pluralSlug: "sentence-shapes",
-   extendsSlug: ["page-type/module"],
-   partSlugs: [
-+    "module/shape-fixture",
-     "boolean-property/allowed",
-     "text-property/reason",
-     "sentence-shape/closing-count",
 diff --git a/domains/sentence-shapes/shape-fixture/shape-fixture.module.code.ts b/domains/sentence-shapes/shape-fixture/shape-fixture.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..aa6f7e040c7e3b633dbe7f1319c8c49c83f93ece
