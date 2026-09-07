@@ -13,6 +13,7 @@ export const changeGuard = {
   partSlugs: [
     "change-guard/body-not-written-over",
     "change-guard/import-not-left-hanging",
+    "change-guard/import-reaches-a-file",
     "change-guard/relation-not-left-hanging",
   ],
   invariants: [

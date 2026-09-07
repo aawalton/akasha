@@ -16,9 +16,15 @@ export function takingIn(said: Answer): readonly string[] {
     .map((one) => one.path)
 }
 
-// The shadow is built over every answer the world already holds as well as this one, because a
-// caller gathering answers hands each change a world the answers before it left, and a shadow
-// built from the commit alone reads a file another answer took away as a file that is there.
+export function holdsAfter(given: Guarding, path: string): boolean {
+  let moved = false
+  for (const one of given.said.edits) {
+    if (one.path === path) return one.body !== null
+    if (one.from === path) moved = true
+  }
+  return moved ? false : given.before.textOf(path) !== null
+}
+
 export function guardedBy(world: World, said: Answer, guards: readonly Guard[]): Answer {
   if (said.refused !== null || guards.length === 0) return said
   const whole = gathered([world.over, said])

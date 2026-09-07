@@ -51,6 +51,11 @@ export const changeGuarding = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Whether a path holds a body after the answer is read here rather than by each guard.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path a move leaves behind is no path taken away.",
     },
     {

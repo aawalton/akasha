@@ -21,6 +21,14 @@ export const addFile = {
     },
     {
       invariantKind: "departure",
+      statement: "A path under a TypeScript name is written by the change judging imports.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other path is written by the change judging the file alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The checks judge the tree the edits leave.",
     },
   ],

@@ -35,6 +35,9 @@ export type Changes = {
   "change-checked/rename-page": Parameters<
     typeof import("../../../checked/pages/rename-page/rename-page.change-checked.code.ts")["runChange"]
   >[1]
+  "change-mechanical/add-code-file": Parameters<
+    typeof import("../../../mechanical/pages/add-code-file/add-code-file.change-mechanical.code.ts")["runChange"]
+  >[1]
   "change-mechanical/add-file": Parameters<
     typeof import("../../../mechanical/pages/add-file/add-file.change-mechanical.code.ts")["runChange"]
   >[1]
