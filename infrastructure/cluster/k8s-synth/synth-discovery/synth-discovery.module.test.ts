@@ -1,14 +1,16 @@
 import { afterAll, beforeAll, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
-import { dirname, join } from "node:path"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { writing } from "@akasha/command-system/scratching/testing"
+import { valueAlsoFiled } from "@akasha/indexes/testing"
 import {
   appliedManifestPaths,
   discoverSynthFiles,
   isSynthPath,
 } from "./synth-discovery.module.code.ts"
 
-const VALUE_AT = ".git/data/index/value"
+const MANIFEST = "manifest"
+
+const CLUSTER_SERVICE = "cluster-service"
 
 const MANIFESTS: readonly (readonly [string, string])[] = [
   ["alpha/gamma/gamma.manifest.ts", "gamma"],
@@ -30,45 +32,40 @@ const GLOBBED: readonly string[] = [
   "inference/generations/upscale/two-synth/two-synth.module.code.ts",
 ]
 
+const SYNTH_BODY = "export default () => []\n"
+
+const scratch = scratchWorld()
+
 let root = ""
-
-function put(rel: string, body: string): undefined {
-  const at = join(root, rel)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
-}
-
-function filed(name: string, lines: readonly unknown[]): undefined {
-  put(`${VALUE_AT}/${name}.jsonl`, lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
-}
 
 function found(pkgFilter?: string): readonly string[] {
   return discoverSynthFiles(root, pkgFilter).map((one) => one.slice(root.length + 1))
 }
 
 beforeAll(() => {
-  root = mkdtempSync(join(tmpdir(), "synth-discovery-"))
-  for (const rel of GLOBBED) put(rel, "export default () => []\n")
-  for (const [path] of MANIFESTS)
-    put(path.replace(/\.ts$/, ".code.ts"), "export default () => []\n")
-  filed(
-    "manifest",
-    MANIFESTS.map(([path, slug]) => ({ path, value: { pageTypeSlug: "manifest", slug } }))
+  root = scratch.rootFor("synth-discovery-")
+  for (const rel of GLOBBED) writing(root, rel, SYNTH_BODY)
+  for (const [path] of MANIFESTS) writing(root, path.replace(/\.ts$/, ".code.ts"), SYNTH_BODY)
+  valueAlsoFiled(
+    root,
+    MANIFEST,
+    MANIFESTS.map(([path, slug]) => ({ path, value: { pageTypeSlug: MANIFEST, slug } }))
   )
-  filed(
-    "cluster-service",
+  valueAlsoFiled(
+    root,
+    CLUSTER_SERVICE,
     SERVICES.map(([path, named]) => ({
       path,
       value:
         named === null
-          ? { pageTypeSlug: "cluster-service" }
-          : { pageTypeSlug: "cluster-service", manifestSlug: named },
+          ? { pageTypeSlug: CLUSTER_SERVICE }
+          : { pageTypeSlug: CLUSTER_SERVICE, manifestSlug: named },
     }))
   )
 })
 
 afterAll(() => {
-  rmSync(root, { recursive: true, force: true })
+  scratch.sweep()
 })
 
 test("the code file of the manifest a cluster service is applied as is found", () => {

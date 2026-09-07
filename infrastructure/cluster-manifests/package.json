@@ -69,6 +69,8 @@
     "@akasha/k8s-types": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/seat-system": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils-run": "workspace:*",
     "@akasha/workflow-language": "workspace:*",
     "yaml": "^2.8.0",
     "zod": "^4.3.6"

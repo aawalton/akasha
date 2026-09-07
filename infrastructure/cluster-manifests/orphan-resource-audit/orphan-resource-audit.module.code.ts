@@ -2,6 +2,7 @@ import { relative } from "node:path"
 import { discoverSynthFiles } from "@akasha/k8s-synth/synth-discovery"
 import { loadSynthOutputs } from "@akasha/k8s-synth/synth-loading"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { parseAllDocuments } from "yaml"
 import { NAMESPACE_NAMES } from "../app-namespaces-synth/app-namespaces-synth.module.code.ts"
 import {
@@ -18,10 +19,6 @@ const AUDITED_KIND_NAMES: ReadonlySet<string> = new Set<string>(AUDITED_KINDS)
 
 export function resourceKey(kind: string, namespace: string, name: string): string {
   return `${kind}/${namespace}/${name}`
-}
-
-function isRecord(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null
 }
 
 export function keyOfManifest(body: unknown): string | null {

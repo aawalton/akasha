@@ -1,6 +1,7 @@
 #!/usr/bin/env bun
 
 import { createHmac } from "node:crypto"
+import { ran } from "@akasha/utils-run/running"
 import { z } from "zod"
 
 const REALTIME_URL = z
@@ -22,19 +23,23 @@ const REALTIME_SECRET_NAME = z
   .parse(process.env.REALTIME_SECRET_NAME)
 
 function readKubeSecret(namespace: string, secretName: string, key: string): string {
-  const proc = Bun.spawnSync({
-    cmd: ["kubectl", "get", "secret", "-n", namespace, secretName, "-o", `jsonpath={.data.${key}}`],
-    stdout: "pipe",
-    stderr: "pipe",
-  })
-  if (proc.exitCode !== 0) {
-    const stderr = proc.stderr ? new TextDecoder().decode(proc.stderr).trim() : ""
+  const done = ran([
+    "kubectl",
+    "get",
+    "secret",
+    "-n",
+    namespace,
+    secretName,
+    "-o",
+    `jsonpath={.data.${key}}`,
+  ])
+  if (done.code !== 0) {
     console.error(
-      `kubectl get secret ${secretName} (key=${key}) in namespace ${namespace} failed (exit ${proc.exitCode}): ${stderr}`
+      `kubectl get secret ${secretName} (key=${key}) in namespace ${namespace} failed (exit ${done.code}): ${done.err.trim()}`
     )
     process.exit(1)
   }
-  const encoded = new TextDecoder().decode(proc.stdout).trim()
+  const encoded = done.out.trim()
   if (encoded === "") {
     console.error(
       `${key} not present in secret ${secretName}/${key} — has the secret been applied?`
