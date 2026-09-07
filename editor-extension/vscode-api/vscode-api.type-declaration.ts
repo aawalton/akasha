@@ -9,7 +9,11 @@ export const vscodeApi = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The editor host injects `vscode`, so a file reaching `vscode` states no import.",
+      statement: "The editor host injects `vscode`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file reaching `vscode` states no import.",
     },
     {
       invariantKind: "departure",
