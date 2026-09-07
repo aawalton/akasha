@@ -1,5 +1,5 @@
 diff --git a/collections/collection.page-type.ts b/collections/collection.page-type.ts
-index 7bcc832c90e0a2842d943bce0a6b3ae53c60b3ab..6326cef3d3ce6d0fbe4bacfc6ceae653580ccf4f 100644
+index 7bcc832c90e0a2842d943bce0a6b3ae53c60b3ab..b88954b875167ce6c72c396d84add30cc4c962ca 100644
 --- a/collections/collection.page-type.ts
 +++ b/collections/collection.page-type.ts
 @@ -2,7 +2,6 @@ import type { Page } from "@akasha/pages/page"
@@ -26,3 +26,17 @@ index 7bcc832c90e0a2842d943bce0a6b3ae53c60b3ab..6326cef3d3ce6d0fbe4bacfc6ceae653
      "text-property/collection-tags",
      "workspace-package/great-courses",
      "workspace-package/royal-road",
+@@ -89,7 +86,12 @@ export const collection = {
+   properties: [
+     { pagePropertySlug: "text-property/collection-author", required: false, many: false },
+     { pagePropertySlug: "instant-property/collection-completed-at", required: false, many: false },
+-    { pagePropertySlug: "text-property/collection-description", required: false, many: false },
++    {
++      pagePropertySlug: "text-property/description",
++      required: false,
++      many: false,
++      maxLength: 1000,
++    },
+     {
+       pagePropertySlug: "boolean-property/following",
+       required: false,
