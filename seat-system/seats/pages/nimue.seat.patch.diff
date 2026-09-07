@@ -1,0 +1,173 @@
+diff --git a/pages/indexes/beside-turning/beside-turning.module.code.ts b/pages/indexes/beside-turning/beside-turning.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..228b6fdca05b29c61ad78576aa561c3a9a40d098
+--- /dev/null
++++ b/pages/indexes/beside-turning/beside-turning.module.code.ts
+@@ -0,0 +1,51 @@
++import type { FilePropertiesBy, SidecarsBy } from "../entries/index-entries.module.code.ts"
++import { type Valued, valuesOfType } from "../reading/index-reading.module.code.ts"
++import type { Reading } from "../shape/index-shape.module.code.ts"
++
++export type Besides = {
++  readonly fileProperties: FilePropertiesBy
++  readonly sidecars: SidecarsBy
++}
++
++function shapeOf(given: Besides, slug: string): string {
++  const carried = given.fileProperties.get(slug) ?? new Map<string, string | null>()
++  const held = given.sidecars.get(slug)
++  const beside = [...(held?.besides ?? [])]
++    .filter(([key]) => carried.get(key) === null)
++    .map(([key, one]) => [key, one.held, one.uncommitted])
++  return JSON.stringify([
++    [...carried].sort(),
++    held?.secret === true,
++    held?.uncommitted === true,
++    beside.sort(),
++  ])
++}
++
++export function besidesTurned(was: Besides, now: Besides): ReadonlySet<string> {
++  const found = new Set<string>()
++  const slugs = new Set([
++    ...was.fileProperties.keys(),
++    ...now.fileProperties.keys(),
++    ...was.sidecars.keys(),
++    ...now.sidecars.keys(),
++  ])
++  for (const slug of slugs) {
++    if (shapeOf(was, slug) !== shapeOf(now, slug)) found.add(slug)
++  }
++  return found
++}
++
++export function pagesTurned(
++  reading: Reading,
++  was: Besides,
++  now: Besides,
++  carried: ReadonlySet<string>
++): readonly Valued[] {
++  const found: Valued[] = []
++  for (const slug of besidesTurned(was, now)) {
++    for (const one of valuesOfType(reading, slug)) {
++      if (!carried.has(one.path)) found.push(one)
++    }
++  }
++  return found
++}
+diff --git a/pages/indexes/beside-turning/beside-turning.module.test.ts b/pages/indexes/beside-turning/beside-turning.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d6512e88fbd0fb4f1aea57e2e309381a00bc5f1f
+--- /dev/null
++++ b/pages/indexes/beside-turning/beside-turning.module.test.ts
+@@ -0,0 +1,67 @@
++import { expect, test } from "bun:test"
++import { filePropertiesIn, sidecarsIn } from "../entries/index-entries.module.code.ts"
++import type { Reading } from "../shape/index-shape.module.code.ts"
++import { type Besides, besidesTurned, pagesTurned } from "./beside-turning.module.code.ts"
++
++type Held = Record<string, unknown>
++
++const CODE: Held = { pageTypeSlug: "file-property", slug: "code", propertySlug: "code" }
++
++const ENTRIES: Held = { pageTypeSlug: "file-property", slug: "entries", propertySlug: "entries" }
++
++const aType = (slug: string, above: readonly string[], properties: readonly Held[]): Held => ({
++  pageTypeSlug: "page-type",
++  slug,
++  extendsSlug: above,
++  properties,
++})
++
++const declaring = (slug: string, rest: Held = {}): Held => ({
++  pagePropertySlug: slug,
++  required: false,
++  many: false,
++  ...rest,
++})
++
++const BASE = aType("base", [], [])
++
++const BLAND = aType("bland", ["base"], [])
++
++const AT = "value/bland.jsonl"
++
++const READING: Reading = {
++  holds: (at) => at === "",
++  listing: () => [],
++  lines: (at) =>
++    at === AT
++      ? [JSON.stringify({ path: "one.bland.ts", value: { pageTypeSlug: "bland", slug: "one" } })]
++      : [],
++}
++
++function besidesOf(values: readonly Held[]): Besides {
++  return { fileProperties: filePropertiesIn(values), sidecars: sidecarsIn(values) }
++}
++
++test("a page type gaining a file property is turned, and one changing nothing is not", () => {
++  const was = besidesOf([CODE, BASE, BLAND])
++  const now = besidesOf([CODE, aType("base", [], [declaring("code")]), BLAND])
++
++  expect([...besidesTurned(was, was)]).toEqual([])
++  expect([...besidesTurned(was, now)].sort()).toEqual(["base", "bland"])
++})
++
++test("a declaration gaining a default turns its page type though the file properties are the same", () => {
++  const was = besidesOf([ENTRIES, aType("base", [], [declaring("entries")])])
++  const now = besidesOf([ENTRIES, aType("base", [], [declaring("entries", { default: "jsonl" })])])
++
++  expect(now.fileProperties.get("base")).toEqual(was.fileProperties.get("base"))
++  expect([...besidesTurned(was, now)]).toEqual(["base"])
++})
++
++test("a page already of a turned page type is answered, and one the change carries is not", () => {
++  const was = besidesOf([CODE, BASE, BLAND])
++  const now = besidesOf([CODE, BASE, aType("bland", ["base"], [declaring("code")])])
++
++  expect(pagesTurned(READING, was, now, new Set()).map((one) => one.path)).toEqual(["one.bland.ts"])
++  expect(pagesTurned(READING, was, now, new Set(["one.bland.ts"]))).toEqual([])
++})
+diff --git a/pages/indexes/beside-turning/beside-turning.module.ts b/pages/indexes/beside-turning/beside-turning.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9153191253c0132538a044c3f686704abcb2d96d
+--- /dev/null
++++ b/pages/indexes/beside-turning/beside-turning.module.ts
+@@ -0,0 +1,37 @@
++import type { Module } from "@akasha/code/module"
++
++export const besideTurning = {
++  id: "01a079a7-c9d9-7936-a9d3-e002d3f8e708",
++  pageTypeSlug: "module",
++  slug: "beside-turning",
++  definition: "the pages a change leaves claiming different files beside them",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A page type is turned where the files that page type holds beside its pages differ.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page type is turned where a page type that page type extends is turned.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A declaration gaining or losing a default turns the page type declaring it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The pages of a turned page type are read off the index rather than off the disk.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A page the change carries is not answered here.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here files an entry.",
++    },
++  ],
++} as const satisfies Module
