@@ -14,10 +14,6 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "That file is kept outside the commit.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The path index and this module name the edits by one rule.",
     },
     {

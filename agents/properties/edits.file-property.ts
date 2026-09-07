@@ -21,6 +21,14 @@ export const edits = {
     },
     {
       invariantKind: "departure",
+      statement: "Lines are kept outside the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line rolls into the next numbered file where the ceiling is reached.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A line holds the path an edit lands at.",
     },
     {

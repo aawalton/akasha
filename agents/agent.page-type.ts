@@ -35,7 +35,13 @@ export const agent = {
     },
     { pagePropertySlug: "relation-property/principal-seat-name", required: false, many: false },
     { pagePropertySlug: "file-property/patch", required: false, many: false, default: "diff" },
-    { pagePropertySlug: "file-property/edits", required: false, many: false, default: "jsonl" },
+    {
+      pagePropertySlug: "file-property/edits",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
   ],
   invariants: [
     {
