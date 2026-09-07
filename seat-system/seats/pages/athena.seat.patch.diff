@@ -1,0 +1,45 @@
+writerOwesReading: false
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.code.ts b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+index ee2a2415b15e1ab41bb2606d0dbda643d2418b1c..dbd80a885a01e6626ee6c2e78dd5c71ebcac703f 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.code.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+@@ -87,14 +87,26 @@ function staleAt(root: string, at: string): string | null {
+   }
+ }
+ 
++export function readUnder(root: string, ref: string): string | null {
++  const held = gitTold(root, ["cat-file", "blob", ref])
++  return held === null || held === "" ? null : held
++}
++
++export function putUnder(root: string, ref: string, text: string): undefined {
++  const oid = gitIn(root, ["hash-object", "-w", "--stdin"], { stdin: BYTES.encode(text) }).trim()
++  gitIn(root, ["update-ref", ref, oid])
++}
++
++export function dropUnder(root: string, ref: string): undefined {
++  gitTold(root, ["update-ref", "-d", ref])
++}
++
+ function readAt(root: string, at: string): string | null {
+-  const held = gitTold(root, ["cat-file", "blob", `${KEPT}/${at}`])
+-  return held === null || held === "" ? staleAt(root, at) : held
++  return readUnder(root, `${KEPT}/${at}`) ?? staleAt(root, at)
+ }
+ 
+ function putAt(root: string, at: string, text: string): undefined {
+-  const oid = gitIn(root, ["hash-object", "-w", "--stdin"], { stdin: BYTES.encode(text) }).trim()
+-  gitIn(root, ["update-ref", `${KEPT}/${at}`, oid])
++  putUnder(root, `${KEPT}/${at}`, text)
+   rmSync(join(root, at), { force: true })
+ }
+ 
+@@ -112,7 +124,7 @@ type Rows = readonly Edit[] | null
+ 
+ function settled(root: string, at: string, next: Rows): Kept {
+   if (next === null || next.length === 0) {
+-    gitTold(root, ["update-ref", "-d", `${KEPT}/${at}`])
++    dropUnder(root, `${KEPT}/${at}`)
+     rmSync(join(root, at), { force: true })
+     return { rows: [] }
+   }
