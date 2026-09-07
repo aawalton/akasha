@@ -1232,6 +1232,9 @@
     },
     "pages/indexes": {
       "name": "@akasha/indexes",
+      "dependencies": {
+        "@akasha/code": "workspace:*",
+      },
     },
     "pages/query": {
       "name": "@akasha/pages-query",
