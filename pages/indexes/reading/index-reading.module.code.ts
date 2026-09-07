@@ -168,15 +168,13 @@ function schemaIn(reading: Reading, at: string): readonly Schema[] {
   for (const line of reading.lines(at)) {
     const said = JSON.parse(line) as Record<string, unknown>
     const pageTypeSlug = stringAt(said, "pageTypeSlug")
-    const slug = stringAt(said, "slug")
-    const propertySlug = stringAt(said, "propertySlug")
-    if (pageTypeSlug === null || slug === null || propertySlug === null) continue
+    if (pageTypeSlug === null) continue
     found.push({
       pageTypeSlug,
       targetPageTypeSlug: stringAt(said, "targetPageTypeSlug"),
       unique: stringAt(said, "unique"),
-      slug,
-      propertySlug,
+      slug: stringAt(said, "slug") ?? "",
+      propertySlug: stringAt(said, "propertySlug") ?? "",
       fileName: stringAt(said, "fileName"),
     })
   }
