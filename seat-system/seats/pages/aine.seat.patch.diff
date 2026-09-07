@@ -1,25 +1,43 @@
 diff --git a/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts b/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts
-index ebd31ca47b76d4668a3f1987b3a737bef87dfd4e..55442331262410aceb7f08bca85e7b9980b378c7 100644
+index ebd31ca47b76d4668a3f1987b3a737bef87dfd4e..d17edb7f523cc9ebd2d94df21f8e1f126562faa2 100644
 --- a/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts
 +++ b/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts
-@@ -1,4 +1,5 @@
+@@ -1,14 +1,11 @@
  import { expect, test } from "bun:test"
 +import { reading } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
  import { moveFile } from "./move-file.change-mechanical.code.ts"
  
  const FROM = "akasha/one.held.ts"
+ 
+ const TO = "akasha/two.held.ts"
+ 
+-function reading(held: Record<string, string>): (path: string) => string | null {
+-  return (path) => held[path] ?? null
+-}
+-
+ test("a path the tree holds a body for is answered as one edit carrying it to another path", () => {
+   const said = moveFile({ from: FROM, to: TO }, reading({ [FROM]: "alpha\n" }))
+ 
 diff --git a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts b/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
-index b8469c7964aaef9e62d7b9bca92ced693fa030ed..e56d75d1de390ad63f9791b539fa554577355199 100644
+index b8469c7964aaef9e62d7b9bca92ced693fa030ed..382cf5146e48083fdeb2d4e2ea5bfc93880a2843 100644
 --- a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
 +++ b/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
-@@ -1,4 +1,5 @@
+@@ -1,12 +1,9 @@
  import { expect, test } from "bun:test"
 +import { reading } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
  import { removeFile } from "./remove-file.change-mechanical.code.ts"
  
  const AT = "akasha/one.held.ts"
+ 
+-function reading(held: Record<string, string>): (path: string) => string | null {
+-  return (path) => held[path] ?? null
+-}
+-
+ test("a path the tree holds a body for is answered as one edit taking that path away", () => {
+   const said = removeFile({ at: AT }, reading({ [AT]: "alpha\n" }))
+ 
 diff --git a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts
-index 9a67381d89d50f4085426da461a2c4d1489d9e8b..a245a48fcc139043fa6ee6d7b26de4eaa5f8c3b1 100644
+index 9a67381d89d50f4085426da461a2c4d1489d9e8b..944247427690b2f49536155de32a93aa14a23188 100644
 --- a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts
 +++ b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts
 @@ -1,5 +1,6 @@
@@ -29,6 +47,17 @@ index 9a67381d89d50f4085426da461a2c4d1489d9e8b..a245a48fcc139043fa6ee6d7b26de4ea
  import {
    landsOn,
    removeManifestWays,
+@@ -34,10 +35,6 @@ const BETA = "seat-system/beta/beta.module.code.ts"
+ 
+ const GAMMA = "seat-system/gamma/gamma.module.code.ts"
+ 
+-function reading(held: Record<string, string>): (path: string) => string | null {
+-  return (path) => held[path] ?? null
+-}
+-
+ function saidOf(going: readonly string[], text: string): Answer {
+   return removeManifestWays({ at: AT, going }, reading({ [AT]: text }))
+ }
 diff --git a/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts b/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..4b00745a204bd2dee7d7a01028cae899d9b9bd51
