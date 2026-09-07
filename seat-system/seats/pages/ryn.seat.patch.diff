@@ -1,5 +1,5 @@
 diff --git a/pages/carry/page-carry.module.ts b/pages/carry/page-carry.module.ts
-index 75fafe9f1fb09cb8a907449a78d2a6afe3326bde..6dab7117d7afc792bced648782335511b6ff67b9 100644
+index 75fafe9f1fb09cb8a907449a78d2a6afe3326bde..cd440693192a36eb20f40e27086ef39506d897a5 100644
 --- a/pages/carry/page-carry.module.ts
 +++ b/pages/carry/page-carry.module.ts
 @@ -18,7 +18,7 @@ export const pageCarry = {
@@ -11,3 +11,16 @@ index 75fafe9f1fb09cb8a907449a78d2a6afe3326bde..6dab7117d7afc792bced648782335511
      },
      {
        invariantKind: "departure",
+@@ -30,7 +30,11 @@ export const pageCarry = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Text carried into a list is trimmed, and text that trims away lists as nothing.",
++      statement: "Text carried into a list is trimmed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Text that trims away lists as nothing.",
+     },
+     {
+       invariantKind: "absence",
