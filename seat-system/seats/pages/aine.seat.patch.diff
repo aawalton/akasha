@@ -1,0 +1,27 @@
+diff --git a/changes/modules/change-shadow/change-shadow.module.code.ts b/changes/modules/change-shadow/change-shadow.module.code.ts
+index 4be3c24bd1e40d5cd4340a588a5865b0ac298ae8..a1b07bc8e38da1e48cdc8445ffe1f284370e9941 100644
+--- a/changes/modules/change-shadow/change-shadow.module.code.ts
++++ b/changes/modules/change-shadow/change-shadow.module.code.ts
+@@ -6,6 +6,7 @@ import {
+   shadowAt,
+   shadowFor,
+ } from "../../../pages/shadow/shadow.module.code.ts"
++import type { Changes } from "../../runners/pages/change-running/change-running.change-runner.addressed.ts"
+ import { gathered, refusing } from "../change-answer/change-answer.module.code.ts"
+ import type { Answer, Edit } from "../change-answer/change-answer.module.types.ts"
+ 
+diff --git a/changes/runners/change-runner.page-type.ts b/changes/runners/change-runner.page-type.ts
+index 064aa14a44a7df40e543dae2fbc314e1375572a1..90d214616dc93c37ceea35d0b97b52170fade25f 100644
+--- a/changes/runners/change-runner.page-type.ts
++++ b/changes/runners/change-runner.page-type.ts
+@@ -40,10 +40,6 @@ export const changeRunner = {
+       invariantKind: "gap",
+       statement: "A change reaches another change through a runner rather than through an import.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "No runner holds a list of the changes that runner reaches.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here reads an argument off the command line.",
