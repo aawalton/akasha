@@ -18,7 +18,7 @@ export const watcherSettingsLuaBlock = {
     },
     {
       invariantKind: "departure",
-      statement: "Braces are counted so a nested block does not end the outer one.",
+      statement: "Braces are counted so a nested block does not end the outer block.",
     },
     {
       invariantKind: "departure",
