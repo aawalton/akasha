@@ -1,0 +1,101 @@
+writerOwesReading: false
+diff --git a/readout-system/readout-tier/readout-tier.module.code.ts b/readout-system/readout-tier/readout-tier.module.code.ts
+index 68682f9b205ecac85341354fc10ce0457a3d9eb2..e499ebda5a531cdd0c84c010b31f3982aef3cea3 100644
+--- a/readout-system/readout-tier/readout-tier.module.code.ts
++++ b/readout-system/readout-tier/readout-tier.module.code.ts
+@@ -35,13 +35,17 @@ export function statedAt(value: unknown): number | null {
+   return Number.isFinite(read) ? read : null
+ }
+ 
++const BLACK_FLOOR: Rung = { at: 0, color: "black" }
++
+ export function rungsIn(values: Readonly<Record<string, unknown>>): readonly Rung[] {
+   const rungs: Rung[] = []
+   for (const [key, color] of RUNGS) {
+     const at = statedAt(values[key])
+     if (at !== null) rungs.push({ at, color })
+   }
+-  return rungs
++  if (rungs[0]?.color === BELOW_EVERY_RUNG) return rungs
++  const floored: Rung[] = [BLACK_FLOOR, ...rungs]
++  return climbs(floored) ? floored : rungs
+ }
+ 
+ export function climbs(rungs: readonly Rung[]): boolean {
+diff --git a/readout-system/readout-tier/readout-tier.module.test.ts b/readout-system/readout-tier/readout-tier.module.test.ts
+index c0ff3b6f63212cb732fb4e47adaa63fea7009817..d8419a3717c6afad57c76462800b577743d423ea 100644
+--- a/readout-system/readout-tier/readout-tier.module.test.ts
++++ b/readout-system/readout-tier/readout-tier.module.test.ts
+@@ -41,13 +41,31 @@ test("the rungs are ordered from black through blue rather than by what they sta
+ })
+ 
+ test("a rung the scale states nothing for is left out", () => {
+-  expect(CLIMBING.map((rung) => rung.color)).toEqual(["red", "yellow", "green", "blue"])
++  expect(rungsIn({ blackAt: 0, redAt: 1, blueAt: 4 }).map((rung) => rung.color)).toEqual([
++    "black",
++    "red",
++    "blue",
++  ])
++})
++
++test("a climbing scale stating no black rung has its black rung read at zero", () => {
++  expect(CLIMBING[0]).toEqual({ at: 0, color: "black" })
++  expect(CLIMBING.map((rung) => rung.color)).toEqual(["black", "red", "yellow", "green", "blue"])
++})
++
++test("the black rung read in is taken only where the rungs then climb", () => {
++  expect(FALLING[0]).toEqual({ at: 100, color: "black" })
++  expect(rungsIn({ redAt: 4, yellowAt: 2, greenAt: 1, blueAt: 0 })[0]).toEqual({
++    at: 4,
++    color: "red",
++  })
++  expect(rungsIn({ redAt: 0, yellowAt: 24, greenAt: 48 })[0]).toEqual({ at: 0, color: "red" })
+ })
+ 
+ test("a scale of fewer than two rungs says nothing about which way a reading runs", () => {
+-  expect(climbs(rungsIn({ redAt: 1 }))).toBe(false)
+-  expect(falls(rungsIn({ redAt: 1 }))).toBe(false)
+-  expect(tierAt(1, rungsIn({ redAt: 1 }))).toBeNull()
++  expect(climbs(rungsIn({ blackAt: 1 }))).toBe(false)
++  expect(falls(rungsIn({ blackAt: 1 }))).toBe(false)
++  expect(tierAt(1, rungsIn({ blackAt: 1 }))).toBeNull()
+ })
+ 
+ test("a scale climbs or falls and never both", () => {
+@@ -87,8 +105,16 @@ test("how far a reading has climbed is the fraction between the two rungs it sit
+   expect(tierAt(2, CLIMBING)?.progress).toBe(0)
+ })
+ 
++test("a reading under the first rung a climbing scale states climbs toward that rung", () => {
++  const attributes = rungsIn({ redAt: 0.25, yellowAt: 0.5, greenAt: 1, blueAt: 2 })
++  const reached = tierAt(0.174355, attributes)
++  expect(reached?.tier).toBe("black")
++  expect(reached?.nextTier).toBe("red")
++  expect(reached?.progress).toBeCloseTo(0.69742, 5)
++})
++
+ test("a reading under every rung has climbed an unknown fraction rather than none", () => {
+-  expect(tierAt(0.5, CLIMBING)?.progress).toBeNull()
++  expect(tierAt(-2, CLIMBING)?.progress).toBeNull()
+ })
+ 
+ test("a reading on the highest rung has no tier above it", () => {
+diff --git a/readout-system/readout-tier/readout-tier.module.ts b/readout-system/readout-tier/readout-tier.module.ts
+index 3f36b79ca812b4f533ce6a3f92a03001ca7e9ad6..d4884446beef24b9c08700f2277dc91fdf814b9d 100644
+--- a/readout-system/readout-tier/readout-tier.module.ts
++++ b/readout-system/readout-tier/readout-tier.module.ts
+@@ -24,6 +24,14 @@ export const readoutTier = {
+       invariantKind: "departure",
+       statement: "A rung a scale states nothing for is no rung.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A climbing scale stating no black rung has its black rung read at zero.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The black rung read in is taken only where the rungs then climb.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
