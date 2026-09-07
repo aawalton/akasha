@@ -67,6 +67,11 @@ const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-code/change-imports") {
     return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
   }
+  if (at === "change-mechanical-data/rename-page-address") {
+    return import(
+      "../../../mechanical/pages/rename-page-address/rename-page-address.change-mechanical-data.code.ts"
+    ).then((held) => held.runChange(world, given as never))
+  }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
 
