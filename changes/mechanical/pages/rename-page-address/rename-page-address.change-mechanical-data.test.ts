@@ -4,7 +4,7 @@ import {
   NOTHING_OVER,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { renamePageAddress } from "./rename-page-address.change-mechanical.code.ts"
+import { renamePageAddress } from "./rename-page-address.change-mechanical-data.code.ts"
 
 const WAS = ["held-kind", "held-one"].join("/")
 

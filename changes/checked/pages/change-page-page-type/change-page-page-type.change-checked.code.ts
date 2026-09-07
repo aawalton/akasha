@@ -18,7 +18,7 @@ const CHANGE_FILE = "change-mechanical/change-file"
 
 const RENAME_IMPORTS = "change-mechanical/rename-imports"
 
-const RENAME_PAGE_ADDRESS = "change-mechanical/rename-page-address"
+const RENAME_PAGE_ADDRESS = "change-mechanical-data/rename-page-address"
 
 const TYPE_KEY = "pageTypeSlug"
 
