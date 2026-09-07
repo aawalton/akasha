@@ -1,0 +1,17 @@
+diff --git a/editor-extension/vscode-typings/vscode-typings.workspace-package.ts b/editor-extension/vscode-typings/vscode-typings.workspace-package.ts
+index 50894566c0ae9632d360ff603a40afdf23094e63..0c8b22d19d3c18a4f90d4afd444dc7a42f435d50 100644
+--- a/editor-extension/vscode-typings/vscode-typings.workspace-package.ts
++++ b/editor-extension/vscode-typings/vscode-typings.workspace-package.ts
+@@ -10,7 +10,11 @@ export const vscodeTypings = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The manifest name is the whole mechanism, so nothing here is imported by path.",
++      statement: "The manifest name is the whole mechanism.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Nothing here is imported by path.",
+     },
+     {
+       invariantKind: "absence",
