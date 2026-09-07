@@ -1,8 +1,8 @@
-import type { ChangeMechanicalData } from "../../../data/change-mechanical-data.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
 
 export const addPropertyValue = {
   id: "01a07932-2568-72a6-8b8e-314ac44c417b",
-  pageTypeSlug: "change-mechanical-data",
+  pageTypeSlug: "change-mechanical-file-content",
   slug: "add-property-value",
   changeModeSlug: "change-mode-add",
   changeTargetTypeSlug: "change-target-type/file-content",
@@ -68,4 +68,4 @@ export const addPropertyValue = {
       statement: "Nothing here reads the index.",
     },
   ],
-} as const satisfies ChangeMechanicalData
+} as const satisfies ChangeMechanicalFileContent
