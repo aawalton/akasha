@@ -26,7 +26,7 @@ export const relationReachesAPage = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names the key the name is held under.",
+      statement: "The refusal names the property the name is held under.",
     },
     {
       invariantKind: "departure",

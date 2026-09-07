@@ -35,7 +35,9 @@ test("a page naming a page that reaches nothing is refused", () => {
   const said = judged(root, answered([writing(AT, null, naming("f", "fresh", ["module/gone"]))]))
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain("module/gone")
+  expect(said.refused).toBe(
+    `\`${AT}\` states \`part-slugs\`, and no \`module\` carries the slug \`gone\``
+  )
 })
 
 test("a page naming a page that reaches a page is not refused", () => {
