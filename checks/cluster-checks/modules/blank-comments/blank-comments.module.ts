@@ -10,8 +10,11 @@ export const blankComments = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A blanked span keeps the replaced text's length and line breaks, so every line and column lands.",
+      statement: "A blanked span keeps the replaced text's length and line breaks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every line and column lands where that text sat.",
     },
     {
       invariantKind: "departure",
