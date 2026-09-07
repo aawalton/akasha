@@ -10,14 +10,14 @@ export default workflow("git-transport", {
     kubectlApply({
       name: "git-transport-apply-git-namespace",
       namespace: "git",
-      files: "infra/git-transport/generated/namespace.generated.yaml",
+      files: "git-transport/manifests/generated/namespace.generated.yaml",
       serverSide: true,
     }),
     {
       ...kubectlApply({
         name: "git-transport-apply-pv",
         namespace: "git",
-        files: "infra/git-transport/generated/pv.generated.yaml",
+        files: "git-transport/manifests/generated/pv.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["git-transport-apply-git-namespace"],
@@ -26,7 +26,7 @@ export default workflow("git-transport", {
       ...kubectlApply({
         name: "git-transport-apply-pvc",
         namespace: "git",
-        files: "infra/git-transport/generated/pvc.generated.yaml",
+        files: "git-transport/manifests/generated/pvc.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["git-transport-apply-pv"],
@@ -35,7 +35,7 @@ export default workflow("git-transport", {
       ...kubectlApply({
         name: "git-transport-apply-deployment",
         namespace: "git",
-        files: "infra/git-transport/generated/deployment.generated.yaml",
+        files: "git-transport/manifests/generated/deployment.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["git-transport-apply-pvc"],
@@ -44,10 +44,19 @@ export default workflow("git-transport", {
       ...kubectlApply({
         name: "git-transport-apply-service",
         namespace: "git",
-        files: "infra/git-transport/generated/service.generated.yaml",
+        files: "git-transport/manifests/generated/service.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["git-transport-apply-git-namespace"],
+    },
+    {
+      ...kubectlApply({
+        name: "git-transport-apply-janitor",
+        namespace: "git",
+        files: "git-transport/git-transport-janitor/generated/janitor-cronjob.generated.yaml",
+        serverSide: true,
+      }),
+      dependsOn: ["git-transport-apply-pvc"],
     },
     {
       ...deploySourceSync({

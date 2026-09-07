@@ -7,5 +7,5 @@ export const workflowGitTransport = {
   title: "Workflow git transport",
   workflowKind: "foundation",
   declaration: "ts",
-  clusterServiceSlugs: ["git-transport"],
+  clusterServiceSlugs: ["git-transport", "git-transport-janitor"],
 } as const satisfies WorkflowTemplate
