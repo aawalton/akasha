@@ -17,7 +17,11 @@ export const geminiImageClient = {
     },
     {
       invariantKind: "departure",
-      statement: "Both text and image are asked for back, and the image alone is kept.",
+      statement: "Both text and image are asked for back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The image alone is kept.",
     },
     {
       invariantKind: "departure",
