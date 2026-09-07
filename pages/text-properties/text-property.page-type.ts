@@ -12,12 +12,20 @@ export const textProperty = {
   id: "01a04dff-9d7d-7b50-a58a-419207af8ec0",
   pageTypeSlug: "page-type",
   slug: "text-property",
-  definition: "a page property holding text",
+  definition: "a page property holding text that is not prose",
   pluralSlug: "text-properties",
+  prose: false,
   partSlugs: ["relation-property/name-format-slug"],
   extendsSlug: ["page-type/page-property"],
   properties: [
     { pagePropertySlug: "number-property/max-length", required: true, many: false },
     { pagePropertySlug: "relation-property/name-format-slug", required: true, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A text property holds a name or a value read by a machine rather than as English.",
+    },
   ],
 } as const satisfies PageType
