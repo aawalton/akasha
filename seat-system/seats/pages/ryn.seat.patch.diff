@@ -25,3 +25,29 @@ index c266660c6d3a7bf7f6c0c3fff6006f3075896dfe..ff5dd7c5971b638f0f78a58306ce3e0e
  }
  
  export type ParsedSentence = {
+diff --git a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
+index 889154fb352315c5f2f70a9954850ec371ee0744..47e6276e3eec331a0c0ad057285c23c1ce8a2fd7 100644
+--- a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
++++ b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
+@@ -113,6 +113,21 @@ function bestOf(values: Float32Array, start: number, count: number): number {
+   return best
+ }
+ 
++function chanceAt(values: Float32Array, start: number, count: number, chosen: number): number {
++  let top = Number.NEGATIVE_INFINITY
++  for (let index = 0; index < count; index += 1) {
++    const held = values[start + index] ?? Number.NEGATIVE_INFINITY
++    if (held > top) top = held
++  }
++  if (!Number.isFinite(top)) return 0
++  let total = 0
++  for (let index = 0; index < count; index += 1) {
++    total += Math.exp((values[start + index] ?? Number.NEGATIVE_INFINITY) - top)
++  }
++  if (total === 0) return 0
++  return Math.exp((values[start + chosen] ?? Number.NEGATIVE_INFINITY) - top) / total
++}
++
+ function floatsOf(held: ort.InferenceSession.ReturnType, name: string): Float32Array {
+   const data = held[name]?.data
+   if (!(data instanceof Float32Array)) throw new Error(`the model gave no \`${name}\` scores`)
