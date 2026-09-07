@@ -7,7 +7,7 @@ import { manyIn } from "../../../modules/page-literal/page-literal.module.code.t
 
 const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
 
-const CHANGE_PAGE_PROPERTY_RELATION = "change-mechanical/change-page-property-relation"
+const CHANGE_PAGE_PROPERTY_RELATION = "change-mechanical-data/change-page-property-relation"
 
 const AT = "at"
 
