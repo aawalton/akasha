@@ -1,3 +1,62 @@
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+index 5d90ff5c5ddc7cae1da29ba4efe5af6059096021..ebeb99db3d25eea1cca5bb5e2c4875ca311d370b 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+@@ -1,46 +1,4 @@
+ export type Changes = {
+-  "change-authored/add-file": Parameters<
+-    typeof import("../../../authored/pages/add-file/add-file.change-authored.code.ts")["runChange"]
+-  >[1]
+-  "change-authored/change-file": Parameters<
+-    typeof import("../../../authored/pages/change-file/change-file.change-authored.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/add-property-value": Parameters<
+-    typeof import("../../../checked/pages/add-property-value/add-property-value.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/change-domain-parent": Parameters<
+-    typeof import("../../../checked/pages/change-domain-parent/change-domain-parent.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/change-page-page-type": Parameters<
+-    typeof import("../../../checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/change-page-property": Parameters<
+-    typeof import("../../../checked/pages/change-page-property/change-page-property.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/move-page": Parameters<
+-    typeof import("../../../checked/pages/move-page/move-page.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/remove-file": Parameters<
+-    typeof import("../../../checked/pages/remove-file/remove-file.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/remove-page": Parameters<
+-    typeof import("../../../checked/pages/remove-page/remove-page.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/remove-page-type": Parameters<
+-    typeof import("../../../checked/pages/remove-page-type/remove-page-type.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/remove-property-value": Parameters<
+-    typeof import("../../../checked/pages/remove-property-value/remove-property-value.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/rename-code-token": Parameters<
+-    typeof import("../../../checked/pages/rename-code-token/rename-code-token.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/rename-package": Parameters<
+-    typeof import("../../../checked/pages/rename-package/rename-package.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/rename-page": Parameters<
+-    typeof import("../../../checked/pages/rename-page/rename-page.change-checked.code.ts")["runChange"]
+-  >[1]
+   "change-mechanical/add-code-file": Parameters<
+     typeof import("../../../mechanical/pages/add-code-file/add-code-file.change-mechanical.code.ts")["runChange"]
+   >[1]
+@@ -113,7 +71,4 @@ export type Changes = {
+   "change-mechanical/rename-property-signature": Parameters<
+     typeof import("../../../mechanical/pages/rename-property-signature/rename-property-signature.change-mechanical.code.ts")["runChange"]
+   >[1]
+-  "change-restated/change-page-property-text": Parameters<
+-    typeof import("../../../restated/pages/change-page-property-text/change-page-property-text.change-restated.code.ts")["runChange"]
+-  >[1]
+ }
 diff --git a/domains/plain-language/dependency-graph/dependency-graph.module.code.ts b/domains/plain-language/dependency-graph/dependency-graph.module.code.ts
 index c266660c6d3a7bf7f6c0c3fff6006f3075896dfe..ff5dd7c5971b638f0f78a58306ce3e0e751db92a 100644
 --- a/domains/plain-language/dependency-graph/dependency-graph.module.code.ts
@@ -26,10 +85,19 @@ index c266660c6d3a7bf7f6c0c3fff6006f3075896dfe..ff5dd7c5971b638f0f78a58306ce3e0e
  
  export type ParsedSentence = {
 diff --git a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
-index 889154fb352315c5f2f70a9954850ec371ee0744..ed114c78cefc80629f9bd80f222b5be0cf2b96c6 100644
+index 889154fb352315c5f2f70a9954850ec371ee0744..4d5e0062a2824c5da0dc87228a337aad532540d8 100644
 --- a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
 +++ b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
-@@ -113,6 +113,21 @@ function bestOf(values: Float32Array, start: number, count: number): number {
+@@ -81,6 +81,8 @@ const CAPABILITIES = ["sentence-boundaries", "tokens", "part-of-speech", "depend
+ 
+ const LANGUAGES = ["en"]
+ 
++const PARSE_SHAPE = "2"
++
+ function modelFileAt(propertySlug: string, held: string): string {
+   const at = uncommittedBesideAt(fileURLToPath(MODEL_PAGE), propertySlug, held)
+   if (at === null) throw new Error(`no \`${propertySlug}\` sits beside the parser model page`)
+@@ -113,6 +115,21 @@ function bestOf(values: Float32Array, start: number, count: number): number {
    return best
  }
  
@@ -51,7 +119,7 @@ index 889154fb352315c5f2f70a9954850ec371ee0744..ed114c78cefc80629f9bd80f222b5be0
  function floatsOf(held: ort.InferenceSession.ReturnType, name: string): Float32Array {
    const data = held[name]?.data
    if (!(data instanceof Float32Array)) throw new Error(`the model gave no \`${name}\` scores`)
-@@ -150,36 +165,52 @@ function headsFor(
+@@ -150,36 +167,52 @@ function headsFor(
    return decodeTree(scores)
  }
  
@@ -123,7 +191,7 @@ index 889154fb352315c5f2f70a9954850ec371ee0744..ed114c78cefc80629f9bd80f222b5be0
    }
  }
  
-@@ -243,17 +274,21 @@ async function parsedBatch(
+@@ -243,17 +276,21 @@ async function parsedBatch(
        "relation_heads": tensorOf(output, "relation_heads"),
        "selected_heads": selectedHeadsTensor,
      })
