@@ -24,7 +24,7 @@ const REMOVE_FILE = "change-mechanical-file/remove-file"
 
 const REMOVE_CODE_FILE = "change-mechanical-file/remove-code-file"
 
-const REMOVE_PAGE_FILE = "change-mechanical/remove-page-file"
+const REMOVE_PAGE_FILE = "change-mechanical-file/remove-page-file"
 
 const REMOVE_PROPERTY_VALUE = "change-mechanical/remove-property-value"
 
