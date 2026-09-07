@@ -22,7 +22,6 @@ import {
 import {
   type Bodies,
   type Body,
-  carriedFor,
   type Draft,
   type Rebased,
   type Running,
@@ -82,8 +81,7 @@ export function draftsOf(edits: readonly Edit[]): readonly Draft[] {
 }
 
 export function folding(root: string, page: string): Folded {
-  const carried = carriedFor(root, page)
-  let answer: Folded = { folded: [], dropped: [], unfold: null, carried }
+  let answer: Folded = { folded: [], dropped: [], unfold: null, carried: null }
   const kept = keptEdits(root, page, (had) => {
     if (had.length === 0) return had
     const held = had.filter((one) => !writtenAgain(one.path))
@@ -91,7 +89,7 @@ export function folding(root: string, page: string): Folded {
       ...new Set(had.filter((one) => writtenAgain(one.path)).map((one) => one.path)),
     ].sort()
     if (held.length === 0) {
-      answer = { folded: [], dropped, unfold: null, carried }
+      answer = { folded: [], dropped, unfold: null, carried: null }
       return null
     }
     const said = foldedIn(held)
@@ -193,7 +191,7 @@ export async function apply(argv: readonly string[], given: Given): Promise<Answ
   return {
     report: [
       ...said.dropped.map((one) => `${one} is dropped — that body is written again on every apply`),
-      ...said.folded.map((one) => `folded ${one} into the patch`),
+      ...said.folded.map((one) => `folded ${one} in`),
       ...answered.report,
       ...waitingSaid(given.root, page),
     ],

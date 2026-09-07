@@ -4,7 +4,7 @@ export const apply = {
   id: "01a07780-1fda-7906-b5d4-939967fa5b73",
   pageTypeSlug: "command",
   slug: "apply",
-  definition: "the edits an agent has answered compiled into that agent's patch and landed",
+  definition: "the edits an agent has answered folded into one change and landed",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-authored",
@@ -14,11 +14,8 @@ export const apply = {
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
   ],
   helpNotes: [
-    "the edits `akasha change` appended are folded into one answer and drafted into this agent's patch.",
-    "a patch this agent already holds takes the folded edits in rather than being written over.",
+    "the edits `akasha change` appended are folded into one answer and landed.",
     "the folded edits leave the file holding them once the apply has landed.",
-    "an apply is the apply `akasha patch apply` runs, so the checks, the commit and the record are the same.",
-    "a fold the patch refuses leaves the edits where the edits are.",
     "an apply that refuses puts the fold back, so the edits are kept for a change to mend.",
     "an edit for a body the apply writes again is dropped rather than folded, and the report names it.",
     "an apply over no edits applies nothing, as the fold of the edits is what an apply lands.",
@@ -36,12 +33,11 @@ export const apply = {
     },
     {
       invariantKind: "departure",
-      statement: "The folded answer is drafted into the patch the agent already holds.",
+      statement: "The folded answer is the change the apply lands.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The edits go once the apply has landed rather than once the patch carries the bodies.",
+      statement: "The edits go once the apply has landed rather than once the fold has read.",
     },
     {
       invariantKind: "departure",
@@ -88,10 +84,6 @@ export const apply = {
     },
     {
       invariantKind: "departure",
-      statement: "A draft the patch refuses leaves the edits where the edits are.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A row for a body written again on every apply is dropped rather than folded.",
     },
     {
@@ -100,7 +92,7 @@ export const apply = {
     },
     {
       invariantKind: "departure",
-      statement: "A run holding nothing but such rows drops those rows and applies the patch.",
+      statement: "A run holding nothing but such rows drops those rows and lands nothing.",
     },
     {
       invariantKind: "departure",
@@ -117,10 +109,6 @@ export const apply = {
     {
       invariantKind: "departure",
       statement: "`--break-the-glass` passes the checks and passes no warrant.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A patch the agent already holds is applied even where no edit is kept.",
     },
     {
       invariantKind: "departure",
@@ -173,15 +161,11 @@ export const apply = {
     },
     {
       invariantKind: "departure",
-      statement: "The patch is put back as that patch stood before the fold.",
+      statement: "Whether the apply landed is read off the landing rather than off the refusals.",
     },
     {
       invariantKind: "departure",
-      statement: "Whether the apply landed is read off the patch rather than off the refusals.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An apply that landed leaves the fold standing.",
+      statement: "An apply that landed puts no fold back.",
     },
     {
       invariantKind: "absence",

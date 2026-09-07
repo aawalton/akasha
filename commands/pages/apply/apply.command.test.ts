@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { dropPatch, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import {
   taking,
@@ -182,7 +181,6 @@ test("a row appended while the apply ran is left where the folded rows go", asyn
   if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
   const later = writing(TWO, WAS, NOW)
   appendEdits(root, PAGE, [later])
-  dropPatch(root, PAGE)
 
   expect(undone(root, PAGE, said.unfold, true)).toBe(null)
 
@@ -214,20 +212,18 @@ test("a fold the apply landed is left where the apply left it", async () => {
   appendEdits(root, PAGE, [row])
   const said = folding(root, PAGE)
   if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
-  dropPatch(root, PAGE)
 
   expect(undone(root, PAGE, said.unfold, true)).toBe(null)
 
   expect(editsIn(root, PAGE)).toEqual({ rows: [] })
 })
 
-test("a fold the apply did not land leaves the rows though no patch is on disk", async () => {
+test("a fold the apply did not land leaves the rows", async () => {
   const root = await repo()
   const row = writing(ONE, WAS, WAS)
   appendEdits(root, PAGE, [row])
   const said = folding(root, PAGE)
   if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
-  expect(patchIn(root, PAGE)).toBe(null)
 
   expect(undone(root, PAGE, said.unfold, false)).not.toBe(null)
 
