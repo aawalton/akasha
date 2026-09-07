@@ -1,0 +1,13 @@
+diff --git a/command-system/harness-landing/harness-landing.module.ts b/command-system/harness-landing/harness-landing.module.ts
+index 1a2625cf650c907cddd4739772fe18853659a85f..97c393b020a25f58699f4207f08740049fa52794 100644
+--- a/command-system/harness-landing/harness-landing.module.ts
++++ b/command-system/harness-landing/harness-landing.module.ts
+@@ -9,7 +9,7 @@ export const harnessLanding = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Bodies land, removals unlink and carries rename before anything commits.",
++      statement: "Bodies land and removals unlink and carries rename before anything commits.",
+     },
+     {
+       invariantKind: "departure",
