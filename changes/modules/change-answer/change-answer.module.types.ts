@@ -3,6 +3,7 @@ export type Edit = {
   readonly was: string | null
   readonly body: string | null
   readonly from?: string
+  readonly readersOweReading?: boolean
 }
 
 export type Answer = {

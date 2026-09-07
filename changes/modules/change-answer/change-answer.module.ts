@@ -23,6 +23,14 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
+      statement: "An edit states whether the readers of its path owe the reading again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edit stating nothing there leaves its readers owing the reading.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An edit states the body that edit was worked out from.",
     },
     {

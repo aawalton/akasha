@@ -41,6 +41,14 @@ export const edits = {
     },
     {
       invariantKind: "departure",
+      statement: "A line holds whether the readers of that path owe the reading again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line holding nothing there leaves those readers owing the reading.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The lines are folded into one answer before a patch is worked out.",
     },
     {

@@ -71,6 +71,41 @@ test("a row naming the path it came from keeps that path", () => {
   })
 })
 
+test("a row saying its readers owe no reading keeps that flag", () => {
+  const root = rootFor()
+
+  appendEdits(root, PAGE, [{ path: ONE, was: null, body: "a\n", readersOweReading: false }])
+
+  expect(editsIn(root, PAGE)).toEqual({
+    rows: [{ path: ONE, was: null, body: "a\n", readersOweReading: false }],
+  })
+})
+
+test("a row saying its readers owe reading keeps that flag", () => {
+  const root = rootFor()
+
+  appendEdits(root, PAGE, [{ path: ONE, was: null, body: "a\n", readersOweReading: true }])
+
+  expect(editsIn(root, PAGE)).toEqual({
+    rows: [{ path: ONE, was: null, body: "a\n", readersOweReading: true }],
+  })
+})
+
+test("a row saying nothing of that flag comes back saying nothing", () => {
+  const root = rootFor()
+
+  appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
+
+  expect(editsIn(root, PAGE)).toEqual({ rows: [{ path: ONE, was: null, body: "a\n" }] })
+})
+
+test("a line whose flag is no boolean refuses the whole file", () => {
+  const root = rootFor()
+  putting(root, `${JSON.stringify({ ...writing(ONE, null, "a\n"), readersOweReading: "no" })}\n`)
+
+  expect(editsIn(root, PAGE)).toEqual({ why: "line 1 reads as no edit" })
+})
+
 test("a file worked out to no row is taken away", () => {
   const root = rootFor()
   appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
