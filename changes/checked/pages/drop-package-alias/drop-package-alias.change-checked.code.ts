@@ -33,6 +33,7 @@ export type DropPackageAliasAsked = {
 }
 
 export function aliasedTo(held: ts.ObjectLiteralExpression, was: string, to: string): boolean {
+  if (was !== "") return false
   for (const one of held.properties) {
     if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
     if (one.name.text !== was) continue
