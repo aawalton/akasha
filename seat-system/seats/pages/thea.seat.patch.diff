@@ -70,3 +70,20 @@ index 8e8e8c816c5de1b2826341c53c9b675035dcc3d9..a945bfcaad747339a0ec266d6d09ac29
      for (const path of held) said.push({ path, reason: reasonFor(path, held) })
    }
    return said.sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
+diff --git a/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.ts b/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.ts
+index 864c4021ca4aeb9ba1d506d767449075d89527a3..7ced9f580fbd081935652cfce6337cb0309dc265 100644
+--- a/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.ts
++++ b/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.ts
+@@ -18,7 +18,11 @@ export const noImportCycle = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This check runs at audit alone.",
++      statement: "A file outside the change is read where an importer reaches it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Only a cycle holding a file the change carries is refused.",
+     },
+     {
+       invariantKind: "departure",
