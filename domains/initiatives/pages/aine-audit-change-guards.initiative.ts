@@ -40,6 +40,28 @@ export const aineAuditChangeGuards = {
       workingMemory:
         "`change-page-property` and `change-page-property-relation` are to be `change-page-page-property` and `change-page-page-property-relation`, matching `change-page-page-type`. Three pages, mechanical and checked. Each rename moves an address, and `reach` now takes `keyof Changes`, so an address left stale refuses at `TS2820` naming the address it meant.",
     },
+    {
+      statement: "The target a change acts on is factored out of the changes that carry one.",
+      workingMemory:
+        "Every mechanical change is handed the path or the page it acts on, and each works that argument out again. The census to take is which changes read `at`, which read `from` and `to`, and which read an address, before anything is factored.",
+    },
+    {
+      statement:
+        "The kind of target a change acts on is factored out of the changes that carry one.",
+      workingMemory:
+        "`remove-page` and `remove-page-type` pick the change to reach by asking what kind of file the target is, through `addressFor` on the extension and on whether the path names a page. That question is asked in more than one change and belongs in one.",
+    },
+    {
+      statement: "The mode a change runs in is factored out of the changes that carry one.",
+      workingMemory:
+        "A change answers edits rather than writing them, and some roads take a dry run or a draft. What varies between those roads is a mode the change is handed rather than a branch each change writes.",
+    },
+    {
+      statement:
+        "A command change is refused where that change does the work a mechanical change or a guard does.",
+      workingMemory:
+        "A check to write, so the boundary holds without an agent reading for it. `akasha refactor retype` composed no change address and built its own file edits, which is the shape the check is to refuse. The address map's own descent gap was found this way: a command doing a mechanical change's work carries that work's defects with no page stating them.",
+    },
   ],
   constraints: [
     "A guard judges the answer a change gives, so what can be judged without that answer is a check.",
