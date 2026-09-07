@@ -13,7 +13,7 @@ export const orderListBoxState = {
     },
     {
       invariantKind: "departure",
-      statement: "A widget is counted so each one is named apart from the rest.",
+      statement: "A widget is counted so each widget is named apart from every other widget.",
     },
   ],
 } as const satisfies Module
