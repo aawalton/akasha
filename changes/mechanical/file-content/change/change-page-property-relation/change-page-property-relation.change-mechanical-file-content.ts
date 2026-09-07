@@ -1,8 +1,8 @@
-import type { ChangeMechanicalData } from "../../../data/change-mechanical-data.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
 
 export const changePagePropertyRelation = {
   id: "01a07932-2568-72d1-a8c7-94da97d53b1e",
-  pageTypeSlug: "change-mechanical-data",
+  pageTypeSlug: "change-mechanical-file-content",
   slug: "change-page-property-relation",
   changeModeSlug: "change-mode-change",
   changeTargetTypeSlug: "change-target-type/file-content",
@@ -52,4 +52,4 @@ export const changePagePropertyRelation = {
       statement: "Nothing here reads the disk.",
     },
   ],
-} as const satisfies ChangeMechanicalData
+} as const satisfies ChangeMechanicalFileContent

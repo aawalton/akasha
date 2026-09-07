@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Value } from "@akasha/pages/page-value"
 import { runChange as changeValue } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
-import { runChange as changeRelation } from "../../../mechanical/file-content/change/change-page-property-relation/change-page-property-relation.change-mechanical-data.code.ts"
+import { runChange as changeRelation } from "../../../mechanical/file-content/change/change-page-property-relation/change-page-property-relation.change-mechanical-file-content.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
@@ -15,7 +15,7 @@ const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical-file-content/change-page-property") {
     return changeValue(world, given as Parameters<typeof changeValue>[1])
   }
-  if (at === "change-mechanical-data/change-page-property-relation") {
+  if (at === "change-mechanical-file-content/change-page-property-relation") {
     return await changeRelation(world, given as Parameters<typeof changeRelation>[1])
   }
   return refusing(`\`${at}\` is reached by nothing here`)
@@ -99,7 +99,7 @@ test("each key is handed to the change reached at the address that key names", a
   await changePageProperty(seeing("slug", null), { at: AT, key: "slug", to: "other" })
 
   expect(reached).toEqual([
-    "change-mechanical-data/change-page-property-relation",
+    "change-mechanical-file-content/change-page-property-relation",
     "change-mechanical-file-content/change-page-property",
   ])
 })

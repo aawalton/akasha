@@ -10,6 +10,6 @@ export const changeMechanicalFileContentChange = {
     "change-mechanical-file-content/change-file-content-code",
     "change-mechanical-manifest/change-manifest-ways",
     "change-mechanical-file-content/change-page-property",
-    "change-mechanical-data/change-page-property-relation",
+    "change-mechanical-file-content/change-page-property-relation",
   ],
 } as const satisfies Domain
