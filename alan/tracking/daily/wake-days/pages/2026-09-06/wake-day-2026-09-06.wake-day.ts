@@ -9,7 +9,7 @@ export const wakeDay20260906 = {
   version: "3.0",
   wisdomWords: 7976,
   intelligenceTopics: 3,
-  inboxTasks: 26,
+  inboxTasks: 25,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 14,
   inboxTemperTasksClearedToday: false,
