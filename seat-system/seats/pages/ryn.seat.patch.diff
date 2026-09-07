@@ -1,0 +1,18 @@
+diff --git a/checks/cluster-checks/modules/workspace-deps/workspace-deps.module.ts b/checks/cluster-checks/modules/workspace-deps/workspace-deps.module.ts
+index 4554078796ba016952cda39840ac7035a42fe893..b356ef21ba37792b365639cc55accae5bcb2d844 100644
+--- a/checks/cluster-checks/modules/workspace-deps/workspace-deps.module.ts
++++ b/checks/cluster-checks/modules/workspace-deps/workspace-deps.module.ts
+@@ -9,8 +9,11 @@ export const workspaceDeps = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A dependency and a development dependency are both reached, and are told apart as well.",
++      statement: "A dependency and a development dependency are both reached.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A development dependency is told apart from a dependency.",
+     },
+     {
+       invariantKind: "departure",
