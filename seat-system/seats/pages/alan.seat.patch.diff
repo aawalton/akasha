@@ -1,0 +1,49 @@
+diff --git a/command-system/commands/food/food.command.code.ts b/command-system/commands/food/food.command.code.ts
+index efd0af4c4706ebc0155e8c23a64c74b9e3f93ee3..a45cc84d9c2ecbf418766ba65931c7c602670972 100644
+--- a/command-system/commands/food/food.command.code.ts
++++ b/command-system/commands/food/food.command.code.ts
+@@ -1,6 +1,7 @@
+ import { readFile } from "node:fs/promises"
+-import { getEsoDayStr } from "@akasha/day/eso-day"
+-import { nyWallToInstant } from "@akasha/day/new-york-wall"
++import { pad2 } from "@akasha/day/day-string"
++import { getMountainMorningDayStr } from "@akasha/day/mountain-day"
++import { readMountainWallTime } from "@akasha/day/mountain-wall"
+ import { imageObjectKey } from "@akasha/object-store/object-store-key"
+ import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
+ import { resolveRoots } from "@akasha/pages/checkout-roots"
+@@ -192,15 +193,19 @@ export function readIn(argv: readonly string[]): Read {
+   }
+ }
+ 
++export type HappenedAtRead = { readonly at: Date } | { readonly refused: string }
++
+ export function happenedAtFrom(
+   date: string | undefined,
+   time: WallClock | undefined,
+   now: Date
+-): Date {
+-  if (date === undefined && time === undefined) return now
+-  const dayStr = date ?? getEsoDayStr(now)
++): HappenedAtRead {
++  if (date === undefined && time === undefined) return { at: now }
++  const dayStr = date ?? getMountainMorningDayStr(now)
+   const wall = time ?? { hh: NOON, mm: 0 }
+-  return nyWallToInstant(dayStr, wall.hh, wall.mm)
++  const reading = readMountainWallTime(`${dayStr} ${pad2(wall.hh)}:${pad2(wall.mm)}`, now)
++  if (reading.read === "refused") return { refused: reading.saying }
++  return { at: reading.at }
+ }
+ 
+ export function stemFor(dayStr: string, title: string): string {
+@@ -279,7 +284,9 @@ async function landFoodEntry(root: string, slug: string, values: Value): Promise
+ }
+ 
+ async function logging(read: Logged, given: Given): Promise<Answer> {
+-  const happenedAtDate = happenedAtFrom(read.date, read.time, new Date())
++  const happenedAtRead = happenedAtFrom(read.date, read.time, new Date())
++  if ("refused" in happenedAtRead) return refused(happenedAtRead.refused, 1)
++  const happenedAtDate = happenedAtRead.at
+   const happenedAt = happenedAtDate.toISOString()
+   const dayStr = wakeDayOf(resolveRoots(), happenedAtDate)
+   const root = rootOf()
