@@ -11,7 +11,7 @@ import { runChange as renamePathChange } from "../../../mechanical/file/rename/r
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { runChange as renamePageSlug } from "../../../mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   type Reaching,
   type World,
@@ -87,10 +87,10 @@ const REACHED = {
   "change-mechanical-file/rename-path": renamePathChange,
 } as const
 
-const RUNS: Reaching = async (_world, at, given) => {
+const RUNS: Reaching = async (world, at, given) => {
   const run = REACHED[at as keyof typeof REACHED]
   if (run === undefined) return refusing(`\`${at}\` is reached by nothing here`)
-  return await run(_world, given as never)
+  return widened(await run(world, given as never), world.textOf)
 }
 
 function worldIn(): World {

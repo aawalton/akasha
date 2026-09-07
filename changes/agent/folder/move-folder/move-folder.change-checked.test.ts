@@ -1,8 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { indexedRepo, pageOf, put, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
+import { widened } from "../../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { moveFolder, runChange } from "./move-folder.change-checked.code.ts"
+import { type MoveFolderAsked, moveFolder, runChange } from "./move-folder.change-checked.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -59,8 +61,21 @@ function worldIn(root: string): World {
   )
 }
 
+async function answering(world: World, given: MoveFolderAsked): Promise<Answer> {
+  return widened(await moveFolder(world, given), world.textOf)
+}
+
+function unchanged(over: World, given: unknown): Answer {
+  const asked = given as { readonly was: string; readonly now: string }
+  const text = over.textOf(asked.was) ?? ""
+  if (asked.was === asked.now) {
+    return { edits: [{ path: asked.now, was: text, body: text }], refused: null }
+  }
+  return { edits: [{ path: asked.now, was: text, body: text, from: asked.was }], refused: null }
+}
+
 test("every file under the folder lands beneath the folder it moved to", async () => {
-  const said = await moveFolder(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
+  const said = await answering(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
   const paths = said.edits.map((one) => one.path)
 
   expect(said.refused).toBeNull()
@@ -71,15 +86,27 @@ test("every file under the folder lands beneath the folder it moved to", async (
 })
 
 test("the paths that moved are the paths under the folder and no other", async () => {
-  const said = await moveFolder(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
+  const said = await answering(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
   const came = said.edits.map((one) => one.from).filter((one) => one !== undefined)
 
   expect([...came].sort()).toEqual([...UNDER])
 })
 
+test("a file carried with its body unchanged is stated as a move holding no body", async () => {
+  const said = await moveFolder(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
+  const moves = said.edits.filter((one) => one.kind === "move")
+
+  expect(moves).toHaveLength(UNDER.length)
+  expect(moves).toContainEqual({
+    kind: "move",
+    pathFrom: ALPHA_CODE,
+    pathTo: `${INTO}/alpha.module.code.ts`,
+  })
+})
+
 test("a reach from one carried file to another is left as that reach is", async () => {
   const root = indexedRepo(HELD)
-  const said = await moveFolder(worldIn(root), { at: FROM, to: INTO })
+  const said = await answering(worldIn(root), { at: FROM, to: INTO })
   const alpha = said.edits.filter((one) => one.path === `${INTO}/alpha.module.code.ts`)
   const beta = said.edits.filter((one) => one.path === `${INTO}/beta.module.code.ts`)
 
@@ -90,7 +117,7 @@ test("a reach from one carried file to another is left as that reach is", async 
 })
 
 test("a body outside the folder naming a path that moved is repointed", async () => {
-  const said = await moveFolder(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
+  const said = await answering(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
   const one = said.edits.find((edit) => edit.path === OUTER_CODE)
 
   expect(one?.body ?? "").toContain("../six/deep/gamma.module.code.ts")
@@ -124,6 +151,16 @@ test("a folder inside the folder that moves is refused", async () => {
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/sits under/)
+})
+
+test("a body a reach leaves unchanged is stated as no edit beside the move", async () => {
+  const root = indexedRepo(HELD)
+  const world = worldAt(root, textIn(root), (over, _at, given) =>
+    Promise.resolve(unchanged(over, given))
+  )
+  const said = await moveFolder(world, { at: FROM, to: INTO })
+
+  expect(said.edits.filter((one) => one.kind !== "move")).toEqual([])
 })
 
 test("an argument the change was handed no value for is refused by its key", async () => {
