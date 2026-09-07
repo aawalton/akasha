@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Definition } from "./properties/definition.text-property.ts"
+import type { Definition } from "./properties/definition.standard-agent-english-property.ts"
 import type { Directives } from "./properties/directives.record-property.ts"
 import type { Expands } from "./properties/expands.boolean-property.ts"
 import type { Invariants } from "./properties/invariants.record-property.ts"
@@ -28,7 +28,7 @@ export const domain = {
     "relation-property/part-slugs",
     "standard-agent-english-property/act",
     "standard-agent-english-property/aids",
-    "text-property/definition",
+    "standard-agent-english-property/definition",
     "standard-agent-english-property/invariant-statement",
     "text-property/name",
     "text-property/plural-slug",
@@ -40,7 +40,7 @@ export const domain = {
   pluralSlug: "domains",
   extendsSlug: ["page-type/page"],
   properties: [
-    { pagePropertySlug: "text-property/definition", required: true, many: false },
+    { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
     { pagePropertySlug: "text-property/plural-slug", required: false, many: false },
     {
       pagePropertySlug: "relation-property/part-slugs",

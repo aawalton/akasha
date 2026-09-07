@@ -184,7 +184,13 @@ test("a declaration restating an inherited property qualified binds once, the ne
     root,
     "page-type",
     ["domain"],
-    [{ pagePropertySlug: "text-property/definition", required: true, many: false }]
+    [
+      {
+        pagePropertySlug: "standard-agent-english-property/definition",
+        required: true,
+        many: false,
+      },
+    ]
   )
 
   const carried = carriedBy(root, "page-type")
@@ -260,7 +266,13 @@ test("a shadowed declaration keeps the required it states, not the one that bind
     root,
     "page-type",
     ["domain"],
-    [{ pagePropertySlug: "text-property/definition", required: true, many: false }]
+    [
+      {
+        pagePropertySlug: "standard-agent-english-property/definition",
+        required: true,
+        many: false,
+      },
+    ]
   )
 
   expect(declaredIn(root, "page-type").map((one) => one.required)).toEqual([true, false])
@@ -286,7 +298,13 @@ test("what binds is the first of the declarations, and the rest are answered her
     root,
     "domain",
     ["page"],
-    [{ pagePropertySlug: "text-property/definition", required: true, many: false }]
+    [
+      {
+        pagePropertySlug: "standard-agent-english-property/definition",
+        required: true,
+        many: false,
+      },
+    ]
   )
   typed(
     root,

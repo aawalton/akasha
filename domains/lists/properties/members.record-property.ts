@@ -1,6 +1,6 @@
 import type { List } from "@akasha/pages/page-property"
 import type { RecordProperty } from "@akasha/pages/record-property"
-import type { Definition } from "../../properties/definition.text-property.ts"
+import type { Definition } from "../../properties/definition.standard-agent-english-property.ts"
 import type { MemberName } from "./member-name.text-property.ts"
 
 export type Member = {
@@ -18,7 +18,7 @@ export const members = {
   definition: "the things a list's subject is a set of, each with its gloss",
   properties: [
     { pagePropertySlug: "text-property/member-name", required: true, many: false },
-    { pagePropertySlug: "text-property/definition", required: true, many: false },
+    { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
   ],
   invariants: [
     {

@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Definition } from "../../../../domains/properties/definition.text-property.ts"
+import type { Definition } from "../../../../domains/properties/definition.standard-agent-english-property.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { Simulation } from "./properties/simulation.file-property.ts"
 
@@ -20,7 +20,7 @@ export const allAboutAlanModel = {
   partSlugs: ["file-property/simulation"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/definition", required: true, many: false },
+    { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
     { pagePropertySlug: "file-property/simulation", required: false, many: false },
   ],
   invariants: [

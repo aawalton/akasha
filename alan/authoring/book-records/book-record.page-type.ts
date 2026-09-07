@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Definition } from "../../../domains/properties/definition.text-property.ts"
+import type { Definition } from "../../../domains/properties/definition.standard-agent-english-property.ts"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { KeptBy } from "./properties/kept-by.text-property.ts"
 import type { RecordBookSlug } from "./properties/record-book-slug.text-property.ts"
@@ -32,7 +32,7 @@ export const bookRecord = {
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/definition", required: true, many: false },
+    { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
     { pagePropertySlug: "text-property/record-book-slug", required: true, many: false },
     { pagePropertySlug: "text-property/record-brief", required: false, many: false },
     { pagePropertySlug: "text-property/kept-by", required: false, many: false },

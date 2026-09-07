@@ -1,10 +1,10 @@
-import type { TextProperty } from "@akasha/pages/text-property"
+import type { StandardAgentEnglishProperty } from "../standard-agent-english/standard-agent-english-properties/standard-agent-english-property.page-type.ts"
 
 export type Definition = string
 
 export const definition = {
   id: "01a049b9-856c-70ca-bfd8-31cb76ead837",
-  pageTypeSlug: "text-property",
+  pageTypeSlug: "standard-agent-english-property",
   slug: "definition",
   propertySlug: "definition",
   definition: "the sentence naming what a page's subject is",
@@ -42,4 +42,4 @@ export const definition = {
         "A domain's concern stays on its own line even where every sibling is about the same thing.",
     },
   ],
-} as const satisfies TextProperty
+} as const satisfies StandardAgentEnglishProperty

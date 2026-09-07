@@ -183,7 +183,7 @@ test("a property that names no page is answered with a shape that is not a relat
   }
   schemaFiled(root, "text-property", "definition", [held])
 
-  expect(schemaOf(root, "text-property/definition")).toEqual({ schema: held })
+  expect(schemaOf(root, "standard-agent-english-property/definition")).toEqual({ schema: held })
 })
 
 test("a property naming many pages is answered with the target it names itself", () => {

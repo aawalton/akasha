@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Definition } from "../../../../domains/properties/definition.text-property.ts"
+import type { Definition } from "../../../../domains/properties/definition.standard-agent-english-property.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { MonarchId } from "./properties/monarch-id.text-property.ts"
 
@@ -21,7 +21,11 @@ export const monarchRecord = {
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "text-property/monarch-id", required: false, many: false },
-    { pagePropertySlug: "text-property/definition", required: false, many: false },
+    {
+      pagePropertySlug: "standard-agent-english-property/definition",
+      required: false,
+      many: false,
+    },
   ],
   invariants: [
     {

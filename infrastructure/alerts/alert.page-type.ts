@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Definition } from "../../domains/properties/definition.text-property.ts"
+import type { Definition } from "../../domains/properties/definition.standard-agent-english-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { PersonSlug } from "../../seat-system/seats/properties/person-slug.relation-property.ts"
 import type { AlertDomain } from "./properties/alert-domain.text-property.ts"
@@ -36,7 +36,7 @@ export const alert = {
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/definition", required: true, many: false },
+    { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
     { pagePropertySlug: "text-property/alert-domain", required: false, many: false },
     { pagePropertySlug: "text-property/alert-summary", required: false, many: false },
     { pagePropertySlug: "relation-property/person-slug", required: false, many: false },

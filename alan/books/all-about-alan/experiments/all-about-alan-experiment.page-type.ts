@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Definition } from "../../../../domains/properties/definition.text-property.ts"
+import type { Definition } from "../../../../domains/properties/definition.standard-agent-english-property.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { LineSet } from "./properties/line-set.file-property.ts"
 
@@ -20,7 +20,7 @@ export const allAboutAlanExperiment = {
   partSlugs: ["file-property/line-set"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/definition", required: true, many: false },
+    { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
     { pagePropertySlug: "file-property/line-set", required: false, many: false },
   ],
   invariants: [
