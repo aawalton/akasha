@@ -1,0 +1,29 @@
+writerOwesReading: false
+diff --git a/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.test.ts b/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.test.ts
+index 3bbf33350c79fc0729a2a1c51072b634a5138654..7720251b33c7292a62fdfb0a12614bd3543178e7 100644
+--- a/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.test.ts
++++ b/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.test.ts
+@@ -35,7 +35,9 @@ test("a page naming a page that reaches nothing is refused", () => {
+   const said = judged(root, answered([writing(AT, null, naming("f", "fresh", ["module/gone"]))]))
+ 
+   expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toContain("module/gone")
++  expect(said.refused).toBe(
++    `\`${AT}\` states \`part-slugs\`, and no \`module\` carries the slug \`gone\``
++  )
+ })
+ 
+ test("a page naming a page that reaches a page is not refused", () => {
+diff --git a/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.ts b/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.ts
+index de513518b57a74199d1e69e8239a30e28e18d1fb..f52fcec959bc3d0923cb0fe1c10f1e99e1fac543 100644
+--- a/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.ts
++++ b/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.ts
+@@ -26,7 +26,7 @@ export const relationReachesAPage = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The refusal names the key the name is held under.",
++      statement: "The refusal names the property the name is held under.",
+     },
+     {
+       invariantKind: "departure",
