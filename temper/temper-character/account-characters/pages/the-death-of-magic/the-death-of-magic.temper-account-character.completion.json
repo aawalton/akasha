@@ -1115,7 +1115,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 16,
+            "numCompleted": 17,
             "numRequired": 20
           }
         }
@@ -1128,7 +1128,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 16,
+            "numCompleted": 17,
             "numRequired": 30
           }
         }
@@ -3272,7 +3272,7 @@
           "isUltimate": false,
           "base": {
             "name": "Purge",
-            "rank": 3
+            "rank": 4
           },
           "abilityIndex": 4,
           "morph1": {
@@ -12949,7 +12949,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-06"
+    "date": "2026-09-07"
   },
   "dailyWritStates": {
     "completed": {
@@ -12970,7 +12970,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-06"
+    "date": "2026-09-07"
   },
   "motifKnowledge": {
     "4": {
