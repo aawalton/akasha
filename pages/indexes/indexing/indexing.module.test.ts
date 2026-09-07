@@ -386,9 +386,9 @@ test("a path the index stores is relative to the repository root", () => {
 })
 
 test("a reach respelled to the scope it already named files nothing for a page left alone", () => {
-  const elsewhere = (found: readonly string[]): boolean =>
-    found.some((one) => one.includes(join("identity", "domain", "slug")))
+  const untouched = (found: readonly string[]): boolean =>
+    found.some((one) => one.includes(join("identity", "page", "id", B)))
 
-  expect(elsewhere(reachRespelled("id", "page"))).toBe(false)
-  expect(elsewhere(reachRespelled("slug", "always"))).toBe(true)
+  expect(untouched(reachRespelled("page"))).toBe(false)
+  expect(untouched(reachRespelled("page-type"))).toBe(true)
 })

@@ -226,11 +226,10 @@ export function aWorldDeclaringNothing(): Pair {
   return held
 }
 
-export function reachRespelled(named: "id" | "slug", unique: string): readonly string[] {
+export function reachRespelled(unique: string): readonly string[] {
   const { tree, root } = grounded()
-  const page: Held = named === "id" ? idPage : slugPage
-  const at = join(tree, `${named}.text-property.ts`)
-  const moving = [{ path: at, before: bodyOf(page), after: bodyOf({ ...page, unique }) }]
+  const at = join(tree, "id.text-property.ts")
+  const moving = [{ path: at, before: bodyOf(idPage), after: bodyOf({ ...idPage, unique }) }]
   return settlingOver(readingAt(root), tree, moving, (path) => valueAt(path, tree)).filings.map(
     (one) => one.at
   )
