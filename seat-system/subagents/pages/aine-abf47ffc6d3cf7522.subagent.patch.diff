@@ -1,0 +1,357 @@
+writerOwesReading: false
+diff --git a/changes/guards/change-guard.page-type.ts b/changes/guards/change-guard.page-type.ts
+index 404b46739d808a9c67d263b25c5195b9dd5991e4..7e9c30d9774142b111f55cdd427af9005933f8e7 100644
+--- a/changes/guards/change-guard.page-type.ts
++++ b/changes/guards/change-guard.page-type.ts
+@@ -14,6 +14,7 @@ export const changeGuard = {
+     "change-guard/body-not-written-over",
+     "change-guard/claimed-file-not-left-behind",
+     "change-guard/import-not-left-hanging",
++    "change-guard/page-type-carries-no-pages",
+     "change-guard/import-reaches-a-file",
+     "change-guard/identity-not-already-held",
+     "change-guard/relation-not-left-hanging",
+diff --git a/changes/guards/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.code.ts b/changes/guards/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..26fea2edc11dd07bac71e4c4df629184f7cde0e2
+--- /dev/null
++++ b/changes/guards/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.code.ts
+@@ -0,0 +1,51 @@
++import { partedIn } from "@akasha/pages/page-file-name"
++import {
++  takingIn,
++  unreadable,
++} from "../../../modules/change-guarding/change-guarding.module.code.ts"
++import type {
++  Guard,
++  Guarding,
++} from "../../../modules/change-guarding/change-guarding.module.types.ts"
++
++const PAGE_TYPE = "page-type"
++
++const NAMED = 5
++
++function typeSlugIn(path: string): string | null {
++  const said = partedIn(path)
++  if (said === null || said.sections.length > 0 || said.pageType !== PAGE_TYPE) return null
++  return said.slug
++}
++
++export function carryingIn(given: Guarding, slug: string): readonly string[] {
++  return [...given.shadow.index.everyOfType(slug).map((one) => one.path)].sort()
++}
++
++export function carrySaid(slug: string, carrying: readonly string[]): string {
++  const named = carrying.slice(0, NAMED).join(", ")
++  const rest = carrying.length > NAMED ? `, and ${carrying.length - NAMED} more` : ""
++  return `\`${slug}\` is the page type of ${carrying.length} pages, which go first — ${named}${rest}`
++}
++
++function carriedIn(given: Guarding, taken: readonly string[]): string | null {
++  for (const path of taken) {
++    const slug = typeSlugIn(path)
++    if (slug === null) continue
++    const carrying = carryingIn(given, slug)
++    if (carrying.length > 0) return carrySaid(slug, carrying)
++  }
++  return null
++}
++
++export function pageTypeCarriesNoPages(given: Guarding): string | null {
++  const taken = takingIn(given.said)
++  if (taken.length === 0) return null
++  try {
++    return carriedIn(given, taken)
++  } catch (cause) {
++    return unreadable(cause)
++  }
++}
++
++export const runGuard: Guard = pageTypeCarriesNoPages
+diff --git a/changes/guards/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.test.ts b/changes/guards/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f7dc2f9bfa7c48917f4b21040fa27b620bf5eecb
+--- /dev/null
++++ b/changes/guards/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.test.ts
+@@ -0,0 +1,100 @@
++import { afterAll, expect, test } from "bun:test"
++import {
++  bodyOf,
++  idOf,
++  indexedRepo,
++  NAMER_PAGE,
++  pageOf,
++  scratch,
++  textIn,
++} from "@akasha/indexes/indexing/testing"
++import { answered, taking } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import {
++  guardedBy,
++  NOT_READ,
++} from "../../../modules/change-guarding/change-guarding.module.code.ts"
++import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { pageTypeCarriesNoPages } from "./page-type-carries-no-pages.change-guard.code.ts"
++
++afterAll(scratch.sweep)
++
++const GUARDS = [pageTypeCarriesNoPages]
++
++const KEPT_TYPE = "akasha/kept.page-type.ts"
++
++const KEPT_PAGE = "akasha/kept/one.kept.ts"
++
++const OTHER_PAGE = "akasha/kept/two.kept.ts"
++
++const TYPE = bodyOf({
++  id: idOf("e"),
++  pageTypeSlug: "page-type",
++  slug: "kept",
++  extendsSlug: ["page-type/page"],
++})
++
++const PAGE = pageOf({ id: idOf("f"), pageTypeSlug: "kept", slug: "one" })
++
++const OTHER = pageOf({ id: idOf("d"), pageTypeSlug: "kept", slug: "two" })
++
++function takingAway(root: string, paths: readonly string[]): Answer {
++  const text = textIn(root)
++  const edits = paths.map((path) => taking(path, text(path) ?? ""))
++  return guardedBy(worldAt(root, text), answered(edits), GUARDS)
++}
++
++test("a page type a page is still filed under is refused", () => {
++  const root = indexedRepo({ [KEPT_TYPE]: TYPE, [KEPT_PAGE]: PAGE })
++
++  const said = takingAway(root, [KEPT_TYPE])
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`kept\` is the page type of 1 pages, which go first — ${KEPT_PAGE}`)
++})
++
++test("the refusal names every page filed under the page type", () => {
++  const root = indexedRepo({ [KEPT_TYPE]: TYPE, [KEPT_PAGE]: PAGE, [OTHER_PAGE]: OTHER })
++
++  const said = takingAway(root, [KEPT_TYPE])
++
++  expect(said.refused).toBe(
++    `\`kept\` is the page type of 2 pages, which go first — ${KEPT_PAGE}, ${OTHER_PAGE}`
++  )
++})
++
++test("a page type taken away with every page of that page type is not refused", () => {
++  const root = indexedRepo({ [KEPT_TYPE]: TYPE, [KEPT_PAGE]: PAGE })
++
++  const said = takingAway(root, [KEPT_TYPE, KEPT_PAGE])
++
++  expect(said.refused).toBe(null)
++  expect(said.edits).toHaveLength(2)
++})
++
++test("a page type no page is filed under is not refused", () => {
++  const root = indexedRepo({ [KEPT_TYPE]: TYPE })
++
++  const said = takingAway(root, [KEPT_TYPE])
++
++  expect(said.refused).toBe(null)
++  expect(said.edits).toHaveLength(1)
++})
++
++test("a page that is no page type is not refused", () => {
++  const root = indexedRepo({ [KEPT_TYPE]: TYPE, [KEPT_PAGE]: PAGE })
++
++  const said = takingAway(root, [NAMER_PAGE])
++
++  expect(said.refused).toBe(null)
++  expect(said.edits).toHaveLength(1)
++})
++
++test("an index that will not read refuses rather than answering no page", () => {
++  const root = scratch.rootFor("carries-no-index-")
++
++  const said = takingAway(root, [KEPT_TYPE])
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toContain(NOT_READ)
++})
+diff --git a/changes/guards/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.ts b/changes/guards/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f6a85ee395b6f044e9bfbed7fe0f5cc3c2cba5ac
+--- /dev/null
++++ b/changes/guards/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.ts
+@@ -0,0 +1,45 @@
++import type { ChangeGuard } from "../../change-guard.page-type.ts"
++
++export const pageTypeCarriesNoPages = {
++  id: "01a0798b-75e5-74cb-96a6-d72e53dc5424",
++  pageTypeSlug: "change-guard",
++  slug: "page-type-carries-no-pages",
++  definition:
++    "the guard refusing an answer taking a page type away that pages are still filed under",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Only a path the naming grammar reads as a page type's page is judged here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The pages of that page type are read from the index the answer leaves.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page the same answer takes away is filed under that page type no longer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page type the index still files a page under refuses the answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The refusal names the page type and the pages filed under that page type.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The refusal names five pages and counts the pages past those five.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An index a guard cannot read refuses the answer.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads the working tree or the index on disk.",
++    },
++  ],
++} as const satisfies ChangeGuard
+diff --git a/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.code.ts b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.code.ts
+index 6ee289a413f750d27ff08c1dd829e5028f663040..676b69603dc72802120dc3b25d17f367cea00b02 100644
+--- a/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.code.ts
++++ b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.code.ts
+@@ -12,8 +12,6 @@ const PART_SLUGS = "part-slugs"
+ 
+ const PART_SLUGS_KEY = "partSlugs"
+ 
+-const NAMED = 5
+-
+ const REMOVE_FILE = "change-mechanical/remove-file"
+ 
+ const REMOVE_PROPERTY_VALUE = "change-mechanical/remove-property-value"
+@@ -28,16 +26,6 @@ function typeIn(world: World, at: string): Value | null {
+   return world.index.pageAt(PAGE_TYPE, said.slug)
+ }
+ 
+-export function carryingIn(world: World, slug: string): readonly string[] {
+-  return [...world.index.everyOfType(slug).map((one) => one.path)].sort()
+-}
+-
+-export function carrySaid(slug: string, carrying: readonly string[]): string {
+-  const named = carrying.slice(0, NAMED).join(", ")
+-  const rest = carrying.length > NAMED ? `, and ${carrying.length - NAMED} more` : ""
+-  return `\`${slug}\` is the page type of ${carrying.length} pages, which go first — ${named}${rest}`
+-}
+-
+ function parentsOf(world: World, at: string): readonly Named[] {
+   const found: Named[] = []
+   for (const one of world.index.listedByPath(at)) {
+@@ -76,18 +64,15 @@ export async function removePageType(world: World, given: RemovePageTypeAsked):
+   const nowhere = `\`${given.at}\` names no page type, so no page type is taken away`
+   const said = partedIn(given.at)
+   if (said === null) return refusing(nowhere)
+-  let carrying: readonly string[]
+   let beside: readonly string[]
+   try {
+     const value = typeIn(world, given.at)
+     if (value === null) return refusing(nowhere)
+-    carrying = carryingIn(world, said.slug)
+     beside = claimedIn(world, given.at, value)
+   } catch (cause) {
+     const why = cause instanceof Error ? cause.message : String(cause)
+     return refusing(`${why}, so \`${given.at}\` was not taken away`)
+   }
+-  if (carrying.length > 0) return refusing(carrySaid(said.slug, carrying))
+   const taken: Answer[] = []
+   for (const one of beside) taken.push(await reach(world, REMOVE_FILE, { at: one }))
+   const unnamed = await unnamingIn(world, given.at, said.slug)
+diff --git a/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.test.ts b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.test.ts
+index 28d9d5b10bf04a1b3bb894b1a28c06377c7397b9..0b79d97246e20729d4742f9def3b887a3b156a5d 100644
+--- a/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.test.ts
++++ b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.test.ts
+@@ -16,7 +16,7 @@ import {
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
+ import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
+-import { carryingIn, removePageType } from "./remove-page-type.change-mechanical.code.ts"
++import { removePageType } from "./remove-page-type.change-mechanical.code.ts"
+ 
+ afterAll(scratch.sweep)
+ 
+@@ -70,13 +70,13 @@ function bodyIn(
+   return said.edits.find((one) => one.path === at)?.body ?? ""
+ }
+ 
+-test("a page type the index files pages under is refused, and the refusal names those pages", async () => {
++test("a page type the index files pages under is left to the guard rather than refused here", async () => {
+   const root = indexedRepo({ [KEPT_TYPE]: TYPE, [KEPT_PAGE]: PAGE })
+ 
+   const said = await removePageType(worldIn(root), { at: KEPT_TYPE })
+ 
+-  expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toContain(KEPT_PAGE)
++  expect(said.refused).toBe(null)
++  expect(said.edits.map((one) => one.path)).toEqual([KEPT_TYPE])
+ })
+ 
+ test("a page type no page is filed under goes with the files beside that page type", async () => {
+@@ -89,13 +89,6 @@ test("a page type no page is filed under goes with the files beside that page ty
+   expect(said.edits[0]?.body).toBe(null)
+ })
+ 
+-test("which pages a page type is the page type of is read from the values the index files", () => {
+-  const root = indexedRepo({ [KEPT_TYPE]: TYPE, [KEPT_PAGE]: PAGE })
+-
+-  expect(carryingIn(worldIn(root), "kept")).toEqual([KEPT_PAGE])
+-  expect(carryingIn(worldIn(root), "bare")).toEqual([])
+-})
+-
+ test("a path the world names no page type at is refused", async () => {
+   const root = indexedRepo()
+ 
+diff --git a/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.ts b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.ts
+index 768c4296af2c44b3d328cca2865df46005b57249..1a3535b611c0dc9283d1d3d2db26906d8134b5dd 100644
+--- a/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.ts
++++ b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.ts
+@@ -10,24 +10,19 @@ export const removePageType = {
+   runsChecks: false,
+   readersOweReading: false,
+   writerOwesReading: false,
+-  guardSlugs: ["change-guard/relation-not-left-hanging", "change-guard/import-not-left-hanging"],
++  guardSlugs: [
++    "change-guard/relation-not-left-hanging",
++    "change-guard/import-not-left-hanging",
++    "change-guard/page-type-carries-no-pages",
++  ],
+   invariants: [
+     {
+-      invariantKind: "departure",
+-      statement: "A page type the index files pages under is refused rather than taken away.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Which pages a page type is the page type of is read from the values the index files.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The refusal names the pages the index files under the page type.",
++      invariantKind: "absence",
++      statement: "No page of the page type is taken away here.",
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No page of the page type is taken away here.",
++      statement: "Nothing here reads which pages the page type is the page type of.",
+     },
+     {
+       invariantKind: "departure",
