@@ -8,7 +8,11 @@ export const stoplight = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A stoplight has five colors, worst to best: black, red, yellow, green, blue.",
+      statement: "A stoplight has five colors.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The colors from worst to best are black and red and yellow and green and blue.",
     },
     {
       invariantKind: "departure",
