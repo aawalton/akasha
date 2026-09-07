@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-addon-menu-order-list-box/order-list-box-state/order-list-box-state.module.ts b/temper/temper-lib-addon-menu-order-list-box/order-list-box-state/order-list-box-state.module.ts
+index f81b30cd1fbf85b3ada4d539244eab8e48a91dad..120927302a9383fc03d4b90e2d7469afe685b40f 100644
+--- a/temper/temper-lib-addon-menu-order-list-box/order-list-box-state/order-list-box-state.module.ts
++++ b/temper/temper-lib-addon-menu-order-list-box/order-list-box-state/order-list-box-state.module.ts
+@@ -13,7 +13,7 @@ export const orderListBoxState = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A widget is counted so each one is named apart from the rest.",
++      statement: "A widget is counted so each widget is named apart from every other widget.",
+     },
+   ],
+ } as const satisfies Module
