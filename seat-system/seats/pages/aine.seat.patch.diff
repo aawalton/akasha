@@ -1,0 +1,80 @@
+diff --git a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.test.ts b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.test.ts
+index ec15ac4b3e2209cb37794f498aecf3ae6809de7a..f9bdb4de2007c7936e93cfeb0d5c1f27d7ae3132 100644
+--- a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.test.ts
++++ b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.test.ts
+@@ -6,35 +6,36 @@ import {
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { renamePageAddress } from "./rename-page-address.change-mechanical.code.ts"
+ 
+-const WAS = "change-mechanical/remove-file"
++const WAS = ["held-kind", "held-one"].join("/")
+ 
+-const NOW = "change-mechanical-file/remove-file"
++const NOW = ["held-other", "held-one"].join("/")
+ 
+-const CONST_AT = "changes/checked/pages/remove-file/remove-file.change-checked.code.ts"
++const BESIDE = ["held-kind", "held-two"].join("/")
+ 
+-const CONST_BODY = `const REMOVE_FILE = "change-mechanical/remove-file"
++const CONST_AT = "akasha/held/one/held-one.held-checked.code.ts"
++
++const CONST_BODY = `const HELD_ONE = "${WAS}"
+ 
+ export function held(): string {
+-  return REMOVE_FILE
++  return HELD_ONE
+ }
+ `
+ 
+-const PAGE_AT = "changes/mechanical/change-mechanical.page-type.ts"
++const PAGE_AT = "akasha/held/held-kind.page-type.ts"
+ 
+-const PAGE_BODY = `export const changeMechanical = {
+-  partSlugs: ["change-mechanical/move-file", "change-mechanical/remove-file"],
++const PAGE_BODY = `export const heldKind = {
++  partSlugs: ["${BESIDE}", "${WAS}"],
+ }
+ `
+ 
+-const CALL_AT = "changes/modules/change-shadow/change-shadow.module.test.ts"
++const CALL_AT = "akasha/held/one/held-one.held-checked.test.ts"
+ 
+-const CALL_BODY = `held(world, "change-mechanical/remove-file", {})
+-`
++const CALL_BODY = `held(world, "${WAS}", {})\n`
+ 
+-const BARE_AT = "changes/mechanical/pages/remove-page/remove-page.change-mechanical.ts"
++const BARE_AT = "akasha/held/two/held-two.held-kind.ts"
+ 
+-const BARE_BODY = `export const removePage = {
+-  slug: "remove-file",
++const BARE_BODY = `export const heldTwo = {
++  slug: "held-one",
+ }
+ `
+ 
+@@ -55,13 +56,13 @@ function bodyOf(said: Answer, path: string): string {
+ test("an address a top-level const holds is restated", () => {
+   const said = renamePageAddress(worldOf({ [CONST_AT]: CONST_BODY }), { was: WAS, now: NOW })
+ 
+-  expect(bodyOf(said, CONST_AT)).toContain(`const REMOVE_FILE = "${NOW}"`)
++  expect(bodyOf(said, CONST_AT)).toContain(`const HELD_ONE = "${NOW}"`)
+ })
+ 
+ test("an address stated among a page's parts is restated", () => {
+   const said = renamePageAddress(worldOf({ [PAGE_AT]: PAGE_BODY }), { was: WAS, now: NOW })
+ 
+-  expect(bodyOf(said, PAGE_AT)).toContain(`["change-mechanical/move-file", "${NOW}"]`)
++  expect(bodyOf(said, PAGE_AT)).toContain(`["${BESIDE}", "${NOW}"]`)
+ })
+ 
+ test("an address handed to a call is restated", () => {
+@@ -97,7 +98,7 @@ test("a body spelling the address nowhere is answered with no edit", () => {
+ })
+ 
+ test("an address stating no page type is refused", () => {
+-  const said = renamePageAddress(worldOf({}), { was: "remove-file", now: NOW })
++  const said = renamePageAddress(worldOf({}), { was: "held-one", now: NOW })
+ 
+   expect(said.refused).toContain("is no address")
+ })
