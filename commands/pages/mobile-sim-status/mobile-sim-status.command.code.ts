@@ -7,7 +7,7 @@ import {
   keyedLines,
   type Reading,
   wordsIn,
-} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+} from "../../modules/mobile-answering/mobile-answering.module.code.ts"
 
 const A_SECOND = 1_000
 

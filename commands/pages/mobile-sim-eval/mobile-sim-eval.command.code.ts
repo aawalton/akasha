@@ -7,7 +7,7 @@ import {
   driving,
   type Reading,
   wordsIn,
-} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+} from "../../modules/mobile-answering/mobile-answering.module.code.ts"
 
 const SCRIPT = "--script"
 

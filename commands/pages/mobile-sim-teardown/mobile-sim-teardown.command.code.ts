@@ -6,7 +6,7 @@ import { clearSessionState, loadSessionState } from "@akasha/mobile-cli/sim-sess
 import {
   type Reading,
   wordsIn,
-} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+} from "../../modules/mobile-answering/mobile-answering.module.code.ts"
 
 const STOP_APPIUM = "--stop-appium"
 

@@ -12,7 +12,7 @@ import {
   DEFAULT_THROWAWAY_EMAIL,
   ensureThrowawayUser,
 } from "@akasha/supabase-server/throwaway-user"
-import { wordsIn } from "../browser-command-arguing/browser-command-arguing.module.code.ts"
+import { wordsIn } from "../../../commands/modules/browser-command-arguing/browser-command-arguing.module.code.ts"
 
 const URL_SAID = "--url"
 
