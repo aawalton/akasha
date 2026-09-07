@@ -32,5 +32,11 @@ export const amyAlanHarnessImprovements = {
       workingMemory:
         "On 2026-09-07 the origin's 4.6G volume filled and every push was refused with `unable to create temporary object directory`, which stopped both deploys. The fill was 59 `tmp_objdir-incoming-*` quarantine directories dating back to 2026-08-27 and one 1.05G `tmp_pack_*`; clearing those by hand freed 1.9G and left the volume at 60%. Nothing under `git-transport` runs `git gc` or prunes, so it refills at roughly six abandoned pushes a day.",
     },
+    {
+      statement:
+        "A climbing scale stating no black rung is read as one whose black rung is at zero.",
+      workingMemory:
+        "`readout-scale.page-type.ts` says `Black is at zero unless a scale moves black`, and `rungsIn` in `readout-tier.module.code.ts` does not do it, so a reading under the first rung draws neither an arc nor a figure. Alan met it on the attributes, where `blackAt: 0` was stated by hand on 2026-09-07. The same hole is open on activity-calories, green-day-units, plant-grams, safety-level and sleep-hours. In `rungsIn` it must skip a falling scale and allowance-hours.",
+    },
   ],
 } as const satisfies Initiative

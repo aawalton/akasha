@@ -5,6 +5,7 @@ export const attributePoints = {
   pageTypeSlug: "readout-scale",
   slug: "attribute-points",
   definition: "the points an attribute earned against a day's target",
+  blackAt: 0,
   redAt: 0.25,
   yellowAt: 0.5,
   greenAt: 1,

@@ -14,11 +14,4 @@ export const attributes = {
     "readout/attribute-charisma",
   ],
   sortOrder: "place",
-  figureOffScale: true,
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "An attribute under its first rung draws its figure.",
-    },
-  ],
 } as const satisfies ReadoutGroup
