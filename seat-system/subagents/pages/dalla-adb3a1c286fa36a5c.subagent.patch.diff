@@ -1,0 +1,124 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/agents/properties/edits.file-property.ts b/agents/properties/edits.file-property.ts
+index 06806bd98cd9a4d57bde2a001e357344ebd4f86b..3e5559575059511417be188709da6fa1075f7584 100644
+--- a/agents/properties/edits.file-property.ts
++++ b/agents/properties/edits.file-property.ts
+@@ -39,6 +39,14 @@ export const edits = {
+       invariantKind: "departure",
+       statement: "A line naming a path an edit came from is a move.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A line holds whether the readers of that path owe the reading again.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A line holding nothing there leaves those readers owing the reading.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The lines are folded into one answer before a patch is worked out.",
+diff --git a/changes/modules/change-answer/change-answer.module.ts b/changes/modules/change-answer/change-answer.module.ts
+index fd5b97d388c3bd04b388e10c6cd709f93608bc2f..29b8b5233f0964134ff086cf424de95c4b59a98a 100644
+--- a/changes/modules/change-answer/change-answer.module.ts
++++ b/changes/modules/change-answer/change-answer.module.ts
+@@ -21,6 +21,14 @@ export const changeAnswer = {
+       invariantKind: "departure",
+       statement: "An edit naming a path that edit came from is a move.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An edit states whether the readers of its path owe the reading again.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An edit stating nothing there leaves its readers owing the reading.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "An edit states the body that edit was worked out from.",
+diff --git a/changes/modules/change-answer/change-answer.module.types.ts b/changes/modules/change-answer/change-answer.module.types.ts
+index 073e1d7dd683238a4a3176bf57dccea118dd076a..ab83ce1bd0b2cd07f2a9716c894e4d0c4e925a23 100644
+--- a/changes/modules/change-answer/change-answer.module.types.ts
++++ b/changes/modules/change-answer/change-answer.module.types.ts
+@@ -3,6 +3,7 @@ export type Edit = {
+   readonly was: string | null
+   readonly body: string | null
+   readonly from?: string
++  readonly readersOweReading?: boolean
+ }
+ 
+ export type Answer = {
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.code.ts b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+index 0a7650f093e2f91efd3311fe792196b8a9e47048..788821fe841c0fe9bd79685e090809beb7b9ade9 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.code.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+@@ -23,12 +23,19 @@ export function editsAt(page: string): string | null {
+ 
+ function edited(said: unknown): Edit | null {
+   if (typeof said !== "object" || said === null) return null
+-  const { path, was, body, from } = said as Record<string, unknown>
++  const { path, was, body, from, readersOweReading } = said as Record<string, unknown>
+   if (typeof path !== "string") return null
+   if (was !== null && typeof was !== "string") return null
+   if (body !== null && typeof body !== "string") return null
+   if (from !== undefined && typeof from !== "string") return null
+-  return from === undefined ? { path, was, body } : { path, was, body, from }
++  if (readersOweReading !== undefined && typeof readersOweReading !== "boolean") return null
++  return {
++    path,
++    was,
++    body,
++    ...(from === undefined ? {} : { from }),
++    ...(readersOweReading === undefined ? {} : { readersOweReading }),
++  }
+ }
+ 
+ function parsed(line: string): unknown {
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.test.ts b/changes/modules/edits-keeping/edits-keeping.module.test.ts
+index 331e2689424616401f851eb2b245832d3b25d7ba..0bd1a80cc8550edb73369371f49b0b784509f4e6 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.test.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.test.ts
+@@ -71,6 +71,41 @@ test("a row naming the path it came from keeps that path", () => {
+   })
+ })
+ 
++test("a row saying its readers owe no reading keeps that flag", () => {
++  const root = rootFor()
++
++  appendEdits(root, PAGE, [{ path: ONE, was: null, body: "a\n", readersOweReading: false }])
++
++  expect(editsIn(root, PAGE)).toEqual({
++    rows: [{ path: ONE, was: null, body: "a\n", readersOweReading: false }],
++  })
++})
++
++test("a row saying its readers owe reading keeps that flag", () => {
++  const root = rootFor()
++
++  appendEdits(root, PAGE, [{ path: ONE, was: null, body: "a\n", readersOweReading: true }])
++
++  expect(editsIn(root, PAGE)).toEqual({
++    rows: [{ path: ONE, was: null, body: "a\n", readersOweReading: true }],
++  })
++})
++
++test("a row saying nothing of that flag comes back saying nothing", () => {
++  const root = rootFor()
++
++  appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
++
++  expect(editsIn(root, PAGE)).toEqual({ rows: [{ path: ONE, was: null, body: "a\n" }] })
++})
++
++test("a line whose flag is no boolean refuses the whole file", () => {
++  const root = rootFor()
++  putting(root, `${JSON.stringify({ ...writing(ONE, null, "a\n"), readersOweReading: "no" })}\n`)
++
++  expect(editsIn(root, PAGE)).toEqual({ why: "line 1 reads as no edit" })
++})
++
+ test("a file worked out to no row is taken away", () => {
+   const root = rootFor()
+   appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
