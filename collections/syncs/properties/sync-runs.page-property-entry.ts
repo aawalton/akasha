@@ -23,7 +23,11 @@ export const syncRuns = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run names no source: the run sits beside the sync the run was a pull of.",
+      statement: "A run names no source.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run sits beside the sync that run was a pull of.",
     },
     {
       invariantKind: "departure",
