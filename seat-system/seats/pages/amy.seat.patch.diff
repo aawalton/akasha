@@ -87,6 +87,84 @@ index f60c0f69eda4c546fd6b433bf5caf09ac215bcf1..3f4ddab704c8d7cdbdb2c44f88037860
      },
      {
        invariantKind: "constraint",
+diff --git a/alan/harness/inboxes/inbox-count-watch/inbox-count-watch.module.ts b/alan/harness/inboxes/inbox-count-watch/inbox-count-watch.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..183911e15b402fb7f821fba8f32a793c711c2db7
+--- /dev/null
++++ b/alan/harness/inboxes/inbox-count-watch/inbox-count-watch.module.ts
+@@ -0,0 +1,72 @@
++import type { Module } from "@akasha/code/module"
++
++export const inboxCountWatch = {
++  id: "01a079d7-ff03-70cd-9492-5509345eeb97",
++  pageTypeSlug: "module",
++  slug: "inbox-count-watch",
++  definition: "the task counts kept current as pages land",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The counts are taken again whenever the index moves.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The folder followed is the index's own value folder.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One take is made when the watch opens.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A take finding the same counts as the take before writes nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A count is written onto the tracking day.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A count is kept beside the readout that count was taken for.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A count is carried to the site showing that count.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A count kept beside a readout is the count that take made rather than a count read back off the day.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A take arriving while a take runs is made once the running take is done.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Two takes never run at once.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The day written and the day counted are one ESO day settled once.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A throw says its reason and ends the run rather than being passed over.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "The timers taking these counts run whatever this watch does.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here counts the mail.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here waits on a beat.",
++    },
++  ],
++} as const satisfies Module
 diff --git a/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.code.ts b/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.code.ts
 index 8cdf51852d37077566c184c73e4548bf04161753..c198bacf2d760790238b7fb66fefdf428e35749e 100644
 --- a/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.code.ts
