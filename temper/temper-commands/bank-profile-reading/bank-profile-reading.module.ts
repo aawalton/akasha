@@ -9,7 +9,11 @@ export const bankProfileReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The profile is ruled on whole, so an unknown field refuses the read.",
+      statement: "The profile is ruled on whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An unknown field refuses the read.",
     },
     {
       invariantKind: "departure",
