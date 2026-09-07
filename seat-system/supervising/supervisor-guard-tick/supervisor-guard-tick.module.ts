@@ -14,7 +14,11 @@ export const supervisorGuardTick = {
     },
     {
       invariantKind: "departure",
-      statement: "A tick never rejects, so the timer that called that tick survives.",
+      statement: "A tick never rejects.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The timer that called a tick survives.",
     },
   ],
 } as const satisfies Module
