@@ -10,8 +10,15 @@ export const terminalEnded = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The record names when the shell ended, the status that shell ended with and where that shell was.",
+      statement: "The record names when the shell ended.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The record names the status that shell ended with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The record names where that shell was.",
     },
     {
       invariantKind: "departure",
