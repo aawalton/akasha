@@ -1,9 +1,11 @@
 import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
 import type { Properties } from "../types/properties/properties.record-property.ts"
+import type { RenderedAs } from "./properties/rendered-as.text-property.ts"
 
 export type PagePropertyEntry = PageProperty & {
   properties: Properties
+  renderedAs?: RenderedAs
 }
 
 export const pagePropertyEntry = {
@@ -13,8 +15,10 @@ export const pagePropertyEntry = {
   definition: "a page property whose values are kept one to a line beside the page",
   pluralSlug: "page-property-entries",
   extendsSlug: ["page-type/page-property"],
+  partSlugs: ["text-property/rendered-as"],
   properties: [
     { pagePropertySlug: "record-property/properties", required: true, many: true, maxCount: null },
+    { pagePropertySlug: "text-property/rendered-as", required: false, many: false },
   ],
   invariants: [
     {

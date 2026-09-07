@@ -1,6 +1,6 @@
 import { listedAt, type Valued } from "@akasha/indexes"
 import type { Carried } from "@akasha/pages/page-type-properties"
-import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
+import { slugAt, slugOf, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
 import {
   carriedFor,
   computedInto,
@@ -92,6 +92,7 @@ export type Declared = {
   readonly pageId: string
   readonly on: string
   readonly values: unknown
+  readonly renderedAs: string | null
   readonly targetSlug: string | null
   readonly slugProperty: string | null
   readonly mayBeGone: boolean
@@ -121,15 +122,11 @@ export function declaredOf(one: Carried, page: Value | undefined, on: string): D
     pageId: page === undefined ? "" : (textAt(page, "id") ?? ""),
     on,
     values: page === undefined ? null : (page["values"] ?? null),
+    renderedAs: page === undefined ? null : textAt(page, "renderedAs"),
     targetSlug: page === undefined ? null : slugAt(page, "targetPageTypeSlug"),
     slugProperty: one.propertySlug,
     mayBeGone: !one.required,
   }
-}
-
-function lastSegment(said: string): string {
-  const at = said.lastIndexOf("/")
-  return at === -1 ? said : said.slice(at + 1)
 }
 
 export function ownerFor(root: string, named: Named, pageTypeSlug: string): string | null {
@@ -142,7 +139,7 @@ export function ownerFor(root: string, named: Named, pageTypeSlug: string): stri
     const page = pagesOfType(root, named, PAGE_TYPE).get(own)
     if (page === undefined) continue
     const owner = textAt(page, "ownerSlug")
-    if (owner !== null && owner !== "") return lastSegment(owner)
+    if (owner !== null && owner !== "") return slugOf(owner)
     for (const above of [...slugsIn(page["extendsSlug"])].reverse()) waiting.push(above)
   }
   return null

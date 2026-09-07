@@ -8,6 +8,7 @@ export const progress = {
   slug: "progress",
   propertySlug: "progress",
   definition: "how far a task has come, one character to a line",
+  renderedAs: "progress",
   properties: [
     { pagePropertySlug: "text-property/character-name", required: true, many: false },
     { pagePropertySlug: "number-property/progress-total", required: true, many: false },

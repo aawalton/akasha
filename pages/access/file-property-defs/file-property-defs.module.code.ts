@@ -14,6 +14,7 @@ export type Declaration = {
   readonly pageId: string
   readonly on: string
   readonly values: unknown
+  readonly renderedAs: string | null
   readonly targetSlug: string | null
   readonly slugProperty: string | null
   readonly mayBeGone: boolean
@@ -125,7 +126,7 @@ function definitionOf(one: Declaration): PropertyDefinition {
     id: camelizeKey(one.key),
     key: one.key,
     title: one.title,
-    type: renderedType(one.type),
+    type: one.renderedAs ?? renderedType(one.type),
     pageId: one.pageId,
     ...(stated ? { config } : {}),
   }

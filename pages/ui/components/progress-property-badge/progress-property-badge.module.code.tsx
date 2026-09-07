@@ -16,6 +16,7 @@ import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule-variant"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { useState } from "react"
 
 interface NarrowedEntry {
@@ -34,25 +35,58 @@ interface NarrowedProgress {
   entries?: readonly NarrowedEntry[]
 }
 
-function isPlainObject(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
+function foldedEntries(lines: readonly unknown[]): NarrowedProgress | null {
+  const entries: NarrowedEntry[] = []
+  let current = 0
+  let total = 0
+  for (const line of lines) {
+    if (!isRecord(line)) continue
+    let label: string | undefined
+    let lineCurrent: number | undefined
+    let lineTotal: number | undefined
+    let sortOrder = 0
+    for (const [key, held] of Object.entries(line)) {
+      if (key === "id") continue
+      if (typeof held === "string") {
+        if (label === undefined) label = held
+        continue
+      }
+      if (typeof held !== "number") continue
+      if (key.endsWith("Current")) lineCurrent = held
+      else if (key.endsWith("Total")) lineTotal = held
+      else if (key === "displayOrder") sortOrder = held
+    }
+    if (lineCurrent === undefined || lineTotal === undefined) continue
+    const stated = line.id
+    const key = typeof stated === "string" ? stated : (label ?? String(entries.length))
+    entries.push({ key, current: lineCurrent, total: lineTotal, sortOrder, label })
+    current += lineCurrent
+    total += lineTotal
+  }
+  if (entries.length === 0) return null
+  entries.sort((a, b) => {
+    const so = a.sortOrder - b.sortOrder
+    return so !== 0 ? so : a.key.localeCompare(b.key)
+  })
+  return { current, total, entries }
 }
 
 function narrowProgress(value: PropertyValue): NarrowedProgress | null {
-  if (!isPlainObject(value)) return null
+  if (Array.isArray(value)) return foldedEntries(value)
+  if (!isRecord(value)) return null
   const { current, total } = value
   if (typeof current !== "number" || typeof total !== "number") return null
 
   const activeEntryKey = typeof value.activeEntryKey === "string" ? value.activeEntryKey : undefined
 
   const rawEntries = value.entries
-  if (!isPlainObject(rawEntries)) {
+  if (!isRecord(rawEntries)) {
     return { current, total, activeEntryKey }
   }
 
   const entries: NarrowedEntry[] = []
   for (const [key, entry] of Object.entries(rawEntries)) {
-    if (!isPlainObject(entry)) continue
+    if (!isRecord(entry)) continue
     const c = entry.current
     const t = entry.total
     const so = entry.sortOrder
