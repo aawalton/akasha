@@ -1,0 +1,99 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.code.ts b/changes/mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.code.ts
+index 6d1a66995c9b16493e3b30d55d56c2e3671af2b4..ee6d55f60e1e3853564460cd1abc57b781f13604 100644
+--- a/changes/mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.code.ts
++++ b/changes/mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.code.ts
+@@ -1,11 +1,7 @@
+ import { dirname } from "node:path"
+ import ts from "typescript"
+-import {
+-  answered,
+-  refusing,
+-  writing,
+-} from "../../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
++import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
++import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
+ import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ const EXPORTS = "exports"
+@@ -126,17 +122,18 @@ export function withoutEntriesIn(
+   return body
+ }
+ 
+-export function removeManifestWays(given: Asked, textOf: (path: string) => string | null): Answer {
++export function removeManifestWays(given: Asked, textOf: (path: string) => string | null): Said {
+   const text = textOf(given.at)
+   if (text === null) return refusing(`\`${given.at}\` holds no body, so no way in is dropped`)
+   if (!readsAsObject(text)) {
+     return refusing(`\`${given.at}\` reads as no JSON object, so no way in is dropped`)
+   }
+   const ways = waysGoneIn(given.at, text, new Set(given.going))
+-  const body = ways.length === 0 ? text : withoutWaysIn(given.at, text, new Set(ways))
+-  return answered([writing(given.at, text, body)])
++  if (ways.length === 0) return stating([])
++  const body = withoutWaysIn(given.at, text, new Set(ways))
++  return stating([{ kind: "replace", path: given.at, contentFrom: text, contentTo: body }])
+ }
+ 
+-export function runChange(world: World, given: Asked): Answer {
++export function runChange(world: World, given: Asked): Said {
+   return removeManifestWays(given, world.textOf)
+ }
+diff --git a/changes/mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.test.ts b/changes/mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.test.ts
+index 4cb619262ac2283a42b05d04219f2178152fa707..4e1971bf3f352b301b30cbd8e8bb33526a1ed276 100644
+--- a/changes/mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.test.ts
++++ b/changes/mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.test.ts
+@@ -1,5 +1,6 @@
+ import { expect, test } from "bun:test"
+ import { reading } from "@akasha/pages/page-value/testing"
++import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+ import {
+   landsOn,
+@@ -36,7 +37,8 @@ const BETA = "seat-system/beta/beta.module.code.ts"
+ const GAMMA = "seat-system/gamma/gamma.module.code.ts"
+ 
+ function saidOf(going: readonly string[], text: string): Answer {
+-  return removeManifestWays({ at: AT, going }, reading({ [AT]: text }))
++  const textOf = reading({ [AT]: text })
++  return widened(removeManifestWays({ at: AT, going }, textOf), textOf)
+ }
+ 
+ function bodyOf(said: Answer): string {
+@@ -68,12 +70,18 @@ test("every way in goes and the exports key stays", () => {
+   expect(waysOf(said)).toEqual({})
+ })
+ 
+-test("a manifest stating no way in is answered unchanged", () => {
+-  expect(bodyOf(saidOf([BETA], NO_WAYS))).toBe(NO_WAYS)
++test("a manifest stating no way in is answered as no edit", () => {
++  const said = saidOf([BETA], NO_WAYS)
++
++  expect(said.refused).toBeNull()
++  expect(said.edits).toEqual([])
+ })
+ 
+-test("a path no way in lands on leaves the manifest as the manifest is", () => {
+-  expect(bodyOf(saidOf(["seat-system/delta/delta.module.code.ts"], BODY))).toBe(BODY)
++test("a path no way in lands on is answered as no edit", () => {
++  const said = saidOf(["seat-system/delta/delta.module.code.ts"], BODY)
++
++  expect(said.refused).toBeNull()
++  expect(said.edits).toEqual([])
+ })
+ 
+ test("a body that reads as no JSON object is refused", () => {
+diff --git a/changes/mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.ts b/changes/mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.ts
+index abd2268cef727c93997f5645c5c4be647afab493..5e695dead5ea7a125594db4a50f7f393e859a288 100644
+--- a/changes/mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.ts
++++ b/changes/mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.ts
+@@ -44,7 +44,7 @@ export const removeManifestWays = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A manifest stating no way in is answered unchanged.",
++      statement: "A manifest stating no way in is answered as no edit.",
+     },
+     {
+       invariantKind: "departure",
