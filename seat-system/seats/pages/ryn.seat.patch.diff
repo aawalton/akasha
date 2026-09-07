@@ -1,0 +1,18 @@
+diff --git a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
+index d943ed5692a40c1a4167c6641a679ea03dec361e..9cee3acea44899d1580d7c4cb95b5379c55bac4b 100644
+--- a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
++++ b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
+@@ -35,8 +35,11 @@ export const rulePopulationSweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A rule weighing nothing is reported and never refused, the call staying a person's.",
++      statement: "A rule weighing nothing is reported and never refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The call stays a person's.",
+     },
+     {
+       invariantKind: "departure",
