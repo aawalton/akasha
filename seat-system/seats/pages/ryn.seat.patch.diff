@@ -1,0 +1,18 @@
+diff --git a/pages/types/properties/child-collection.record-property.ts b/pages/types/properties/child-collection.record-property.ts
+index 05338886831ab1d26df546db7eef8233f9b9bed2..4a0936b8d36aea1ef460c00ca1d93a6f8f08d42a 100644
+--- a/pages/types/properties/child-collection.record-property.ts
++++ b/pages/types/properties/child-collection.record-property.ts
+@@ -29,8 +29,11 @@ export const childCollection = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement:
+-        "Each key here repeats this record's name because the reader outside names that key so.",
++      statement: "Each key here repeats this record's name.",
++    },
++    {
++      invariantKind: "stopgap",
++      statement: "The reader outside names that key so.",
+     },
+   ],
+ } as const satisfies RecordProperty
