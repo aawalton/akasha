@@ -22,7 +22,11 @@ export const containerRecipe = {
     },
     {
       invariantKind: "departure",
-      statement: "A recipe holds one image, so a second image is a second page.",
+      statement: "A recipe holds one image.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A second image is a second page.",
     },
     {
       invariantKind: "departure",
