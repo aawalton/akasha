@@ -1,19 +1,21 @@
 import { afterAll, expect, test } from "bun:test"
 import { indexedRepo, scratch } from "@akasha/indexes/indexing/testing"
 import { worldIn } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { runChange } from "./add-page-type-file.change-mechanical-file.code.ts"
+import { runChange } from "./add-file-page-property.change-mechanical-file.code.ts"
 
-const REACHES = "change-mechanical-file/add-page-file"
+const REACHES = "change-mechanical-file/add-file-page"
 
 afterAll(scratch.sweep)
 
 const BODY = "export const fresh = 1\n"
 
-const REFUSED = "is under no `page-type` name, so this change writes nothing"
+function whyRefused(at: string): string {
+  return `\`${at}\` is under no page property name, so this change writes nothing`
+}
 
-test("a page type path is written by the change this change reaches", async () => {
+test("a page property path is written by the change this change reaches", async () => {
   const root = indexedRepo()
-  const at = "akasha/one/fresh.page-type.ts"
+  const at = "akasha/one/fresh.relation-property.ts"
 
   const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
 
@@ -21,24 +23,24 @@ test("a page type path is written by the change this change reaches", async () =
   expect(said.edits).toEqual([{ path: at, was: null, body: BODY }])
 })
 
-test("a path under another page type is refused", async () => {
+test("a page that is no page property is refused", async () => {
   const root = indexedRepo()
   const at = "akasha/one/fresh.module.ts"
 
   const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${at}\` ${REFUSED}`)
+  expect(said.refused).toBe(whyRefused(at))
 })
 
-test("a path beside a page type is refused", async () => {
+test("a path beside a page property is refused", async () => {
   const root = indexedRepo()
-  const at = "akasha/one/fresh.page-type.code.ts"
+  const at = "akasha/one/fresh.relation-property.code.ts"
 
   const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${at}\` ${REFUSED}`)
+  expect(said.refused).toBe(whyRefused(at))
 })
 
 test("a path under no page type is refused", async () => {
@@ -48,5 +50,5 @@ test("a path under no page type is refused", async () => {
   const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${at}\` ${REFUSED}`)
+  expect(said.refused).toBe(whyRefused(at))
 })

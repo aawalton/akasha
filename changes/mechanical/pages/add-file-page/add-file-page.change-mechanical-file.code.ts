@@ -3,7 +3,7 @@ import { refusing } from "../../../modules/change-answer/change-answer.module.co
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
-const ADD_CODE_FILE = "change-mechanical-file/add-code-file"
+const ADD_FILE_CODE = "change-mechanical-file/add-file-code"
 
 export type Asked = {
   readonly at: string
@@ -14,5 +14,5 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (!pageNamed(given.at, world.index.pageTypesIn())) {
     return refusing(`\`${given.at}\` is under no page name, so this change writes nothing`)
   }
-  return (await reach(world, ADD_CODE_FILE, { at: given.at, body: given.body })).said
+  return (await reach(world, ADD_FILE_CODE, { at: given.at, body: given.body })).said
 }

@@ -1,9 +1,9 @@
 import type { ChangeMechanicalFile } from "../../file/change-mechanical-file.page-type.ts"
 
-export const addPageTypeFile = {
+export const addFilePageType = {
   id: "01a07984-8ef3-719a-972b-cb77ca7dafec",
   pageTypeSlug: "change-mechanical-file",
-  slug: "add-page-type-file",
+  slug: "add-file-page-type",
   changeModeSlug: "change-mode-add",
   definition:
     "one page type written at one path, with the plural slug that page type states judged",

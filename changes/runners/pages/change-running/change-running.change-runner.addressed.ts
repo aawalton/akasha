@@ -26,20 +26,20 @@ export type Changes = {
   "change-mechanical-data/rename-page-slug": Parameters<
     typeof import("../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts")["runChange"]
   >[1]
-  "change-mechanical-file/add-code-file": Parameters<
-    typeof import("../../../mechanical/pages/add-code-file/add-code-file.change-mechanical-file.code.ts")["runChange"]
-  >[1]
   "change-mechanical-file/add-file": Parameters<
     typeof import("../../../mechanical/pages/add-file/add-file.change-mechanical-file.code.ts")["runChange"]
   >[1]
-  "change-mechanical-file/add-page-file": Parameters<
-    typeof import("../../../mechanical/pages/add-page-file/add-page-file.change-mechanical-file.code.ts")["runChange"]
+  "change-mechanical-file/add-file-code": Parameters<
+    typeof import("../../../mechanical/pages/add-file-code/add-file-code.change-mechanical-file.code.ts")["runChange"]
   >[1]
-  "change-mechanical-file/add-page-property-file": Parameters<
-    typeof import("../../../mechanical/pages/add-page-property-file/add-page-property-file.change-mechanical-file.code.ts")["runChange"]
+  "change-mechanical-file/add-file-page": Parameters<
+    typeof import("../../../mechanical/pages/add-file-page/add-file-page.change-mechanical-file.code.ts")["runChange"]
   >[1]
-  "change-mechanical-file/add-page-type-file": Parameters<
-    typeof import("../../../mechanical/pages/add-page-type-file/add-page-type-file.change-mechanical-file.code.ts")["runChange"]
+  "change-mechanical-file/add-file-page-property": Parameters<
+    typeof import("../../../mechanical/pages/add-file-page-property/add-file-page-property.change-mechanical-file.code.ts")["runChange"]
+  >[1]
+  "change-mechanical-file/add-file-page-type": Parameters<
+    typeof import("../../../mechanical/pages/add-file-page-type/add-file-page-type.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/change-code-file": Parameters<
     typeof import("../../../mechanical/file/pages/change-code-file/change-code-file.change-mechanical-file.code.ts")["runChange"]

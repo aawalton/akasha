@@ -22,15 +22,15 @@ const NO_LITERAL = "the body declares no literal, so no `id` goes into the body"
 
 const ADD_FILE = "change-mechanical-file/add-file"
 
-const ADD_CODE_FILE = "change-mechanical-file/add-code-file"
+const ADD_FILE_CODE = "change-mechanical-file/add-file-code"
 
-const ADD_PAGE_FILE = "change-mechanical-file/add-page-file"
+const ADD_FILE_PAGE = "change-mechanical-file/add-file-page"
 
 const CODE = new Set([".ts", ".tsx"])
 
 function addressFor(world: World, at: string): keyof Changes {
-  if (pageNamed(at, world.index.pageTypesIn())) return ADD_PAGE_FILE
-  return CODE.has(extname(at)) ? ADD_CODE_FILE : ADD_FILE
+  if (pageNamed(at, world.index.pageTypesIn())) return ADD_FILE_PAGE
+  return CODE.has(extname(at)) ? ADD_FILE_CODE : ADD_FILE
 }
 
 export function idFilled(at: string, body: string, said: string): string | { refused: string } {
@@ -51,7 +51,7 @@ export async function addFileCommand(world: World, given: Asked): Promise<Answer
   const body = given[BODY]
   if (body === undefined) return refusing(missing(BODY))
   const address = addressFor(world, at)
-  if (address !== ADD_PAGE_FILE) return (await reach(world, address, { at, body })).said
+  if (address !== ADD_FILE_PAGE) return (await reach(world, address, { at, body })).said
   const filled = idFilled(at, body, given[ID] ?? AUTO)
   if (typeof filled !== "string") return refusing(filled.refused)
   return (await reach(world, address, { at, body: filled })).said

@@ -1,9 +1,9 @@
 import type { ChangeMechanicalFile } from "../../file/change-mechanical-file.page-type.ts"
 
-export const addCodeFile = {
+export const addFileCode = {
   id: "01a07969-9123-7320-b8c9-3afd2dae9bfa",
   pageTypeSlug: "change-mechanical-file",
-  slug: "add-code-file",
+  slug: "add-file-code",
   changeModeSlug: "change-mode-add",
   definition: "one code body written at one path, with the imports that body names judged",
   code: "ts",
