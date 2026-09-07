@@ -90,3 +90,23 @@ index b41ff967f2ae3708a6d47e153b9390f566fa436b..c51c32df0087a1071b199bf0de54820d
 +    },
 +  ],
  } as const satisfies Module
+diff --git a/pages/ui/supabase/mutations/build-patch-plan/build-patch-plan.module.code.ts b/pages/ui/supabase/mutations/build-patch-plan/build-patch-plan.module.code.ts
+index 3848dbf521f04412e8a7e54e58525971951fe73c..6bfa1e3262c45d813d3508be4999b8b68bac6bea 100644
+--- a/pages/ui/supabase/mutations/build-patch-plan/build-patch-plan.module.code.ts
++++ b/pages/ui/supabase/mutations/build-patch-plan/build-patch-plan.module.code.ts
+@@ -13,6 +13,7 @@ const PromotedColumnPatchSchema = z
+     page_type_id: z.string().optional(),
+     seq: z.number().int().optional(),
+     page_type_slug: z.string().optional(),
++    completed_at: z.string().nullable().optional(),
+   })
+   .strict()
+ 
+@@ -27,6 +28,7 @@ const CAMEL_TO_SNAKE: Record<string, string> = {
+   pageTypeId: "page_type_id",
+   pageTypeSlug: "page_type_slug",
+   uniqueKey: "unique_key",
++  completedAt: "completed_at",
+ }
+ 
+ export function buildPatchPlan(args: {
