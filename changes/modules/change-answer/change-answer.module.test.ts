@@ -223,6 +223,33 @@ test("a move stating no body narrows to a remove of the path moved from", () => 
   ])
 })
 
+test("an edit worked out from no body and stating no body narrows to no edit", () => {
+  expect(narrowed({ path: AT, was: null, body: null })).toEqual([])
+})
+
+test("an edit worked out from no body naming a path moved from narrows to an add", () => {
+  expect(narrowed({ path: AT, was: null, body: "one", from: AWAY })).toEqual([
+    { kind: "add", path: AT, content: "one" },
+  ])
+})
+
+test("an edit worked out from no body naming a path moved from and stating no body narrows to no edit", () => {
+  expect(narrowed({ path: AT, was: null, body: null, from: AWAY })).toEqual([])
+})
+
+test("an edit worked out from no body and stating no body is answered rather than refused", () => {
+  expect(rounded({ path: AT, was: null, body: null }, {})).toEqual({ edits: [], refused: null })
+})
+
+test("an edit worked out from no body naming a path moved from is answered as an add", () => {
+  const one = { path: AT, was: null, body: "one", from: AWAY }
+
+  expect(rounded(one, {})).toEqual({
+    edits: [{ path: AT, was: null, body: "one" }],
+    refused: null,
+  })
+})
+
 test("the reading an edit states is carried onto what that edit narrows to", () => {
   expect(narrowed({ path: AT, was: null, body: "one", readersOweReading: false })).toEqual([
     { readersOweReading: false, kind: "add", path: AT, content: "one" },

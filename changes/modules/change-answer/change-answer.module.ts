@@ -123,6 +123,10 @@ export const changeAnswer = {
       statement: "A move stating no body narrows to a remove of the path moved from.",
     },
     {
+      invariantKind: "departure",
+      statement: "An edit worked out from no body narrows to an add or to no edit.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the disk or writes to the disk.",
     },

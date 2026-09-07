@@ -111,8 +111,12 @@ export function narrowed(one: Edit): readonly Stated[] {
   const reading = readingIn(one)
   const came = one.from === one.path ? undefined : one.from
   const body = one.body
+  if (one.was === null) {
+    if (body === null) return []
+    return [{ ...reading, kind: "add", path: one.path, content: body }]
+  }
   if (body === null) return [{ ...reading, kind: "remove", path: came ?? one.path }]
-  const fresh = one.was === null || one.was === ""
+  const fresh = one.was === ""
   if (came === undefined) {
     if (one.was === body) return []
     if (fresh) return [{ ...reading, kind: "add", path: one.path, content: body }]
