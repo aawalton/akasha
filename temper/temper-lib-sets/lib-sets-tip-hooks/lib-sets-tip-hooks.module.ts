@@ -15,7 +15,7 @@ export const libSetsTipHooks = {
     {
       invariantKind: "constraint",
       statement:
-        "An existing handler on another add-on's control keeps being called before this one.",
+        "An existing handler on another add-on's control keeps being called before this handler.",
     },
     {
       invariantKind: "constraint",
