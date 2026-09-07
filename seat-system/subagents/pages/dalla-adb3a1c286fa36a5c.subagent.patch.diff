@@ -1,0 +1,39 @@
+writerOwesReading: false
+diff --git a/command-system/applying/applying.module.test.ts b/command-system/applying/applying.module.test.ts
+index 7cbd90a8827da2a907fe3e2374f97d797ee5a780..2986bb4d052b1b820f4373e3a524a5a0633a0c49 100644
+--- a/command-system/applying/applying.module.test.ts
++++ b/command-system/applying/applying.module.test.ts
+@@ -149,6 +149,33 @@ test("an apply whose readers owe reading carries none, so every reader goes stal
+   expect(await reading(undefined)).toBe(false)
+ })
+ 
++test("a patch naming no reading flag for a path leaves that reader's record dropped", async () => {
++  const root = await indexed()
++  recordRead(root, READER, { path: PAGE, oid: headOid(root, PAGE), seenAt: 1, carriedOid: null })
++  expect("why" in drafted(root, PAGE, [{ path: PAGE, was: bytes(A), body: bytes(MORE) }])).toBe(
++    false
++  )
++  expect(patchIn(root, PAGE) ?? "").not.toContain("readersOweReading")
++
++  const said = await applied(root, PAGE, AGENT, "applied", ADMITS, null)
++
++  if ("refusals" in said) throw new Error(said.refusals.join("; "))
++  expect(readingIn(root, READER, PAGE)).toBeNull()
++})
++
++test("an apply naming the path whose readers owe no reading leaves that record standing", async () => {
++  const root = await indexed()
++  recordRead(root, READER, { path: PAGE, oid: headOid(root, PAGE), seenAt: 1, carriedOid: null })
++  const draft = [{ path: PAGE, was: bytes(A), body: bytes(MORE), readersOweReading: false }]
++  expect("why" in drafted(root, PAGE, draft)).toBe(false)
++  expect(patchIn(root, PAGE) ?? "").toContain("readersOweReading: false")
++
++  const said = await applied(root, PAGE, AGENT, "applied", ADMITS, null)
++
++  if ("refusals" in said) throw new Error(said.refusals.join("; "))
++  expect(sameBody(readingIn(root, READER, PAGE), headOid(root, PAGE))).toBe(true)
++})
++
+ test("a path the patch moved under has no reading recorded", async () => {
+   const root = pagesRepo()
+   drafting(root)
