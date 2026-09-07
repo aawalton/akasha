@@ -1,0 +1,50 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.code.ts b/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.code.ts
+index 8e8e8c816c5de1b2826341c53c9b675035dcc3d9..319023e9d480bc4c5fd18c1107a7298efbc366ca 100644
+--- a/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.code.ts
++++ b/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.code.ts
+@@ -47,10 +47,27 @@ export function reachedIn(at: string, text: string): readonly string[] {
+   return found
+ }
+ 
+-export function reachingIn(change: Change): ReadonlyMap<string, readonly string[]> {
++export function reachingIn(
++  change: Change,
++  importersOf: (path: string) => readonly string[] = () => []
++): ReadonlyMap<string, readonly string[]> {
+   const held = new Set(change.changed.filter((one) => textNamed(one)))
++  const back = [...held]
++  while (back.length > 0) {
++    const at = back.pop()
++    if (at === undefined) break
++    for (const one of importersOf(at)) {
++      if (!textNamed(one) || held.has(one)) continue
++      held.add(one)
++      back.push(one)
++    }
++  }
+   const found = new Map<string, readonly string[]>()
+-  for (const path of [...held].sort()) {
++  const ahead = [...held].sort()
++  while (ahead.length > 0) {
++    const path = ahead.shift()
++    if (path === undefined) break
++    if (found.has(path)) continue
+     const text = textIn(change, path)
+     if (text === null) {
+       found.set(path, [])
+@@ -59,8 +76,12 @@ export function reachingIn(change: Change): ReadonlyMap<string, readonly string[
+     const outs: string[] = []
+     for (const one of reachedIn(path, text)) {
+       const landed = landingOf(path, one)
+-      if (landed === null || !held.has(landed) || outs.includes(landed)) continue
++      if (landed === null || outs.includes(landed) || !textNamed(landed)) continue
++      if (textIn(change, landed) === null) continue
+       outs.push(landed)
++      if (held.has(landed)) continue
++      held.add(landed)
++      ahead.push(landed)
+     }
+     found.set(path, outs)
+   }
