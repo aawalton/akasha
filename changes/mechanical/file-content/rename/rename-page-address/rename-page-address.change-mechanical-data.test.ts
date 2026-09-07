@@ -1,10 +1,18 @@
 import { expect, test } from "bun:test"
+import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
   NOTHING_OVER,
   type World,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { pathsIn, renamePageAddress } from "./rename-page-address.change-mechanical-data.code.ts"
+import {
+  pathsIn,
+  renamePageAddress as renaming,
+} from "./rename-page-address.change-mechanical-data.code.ts"
+
+function renamePageAddress(world: World, given: Parameters<typeof renaming>[1]): Answer {
+  return widened(renaming(world, given), world.textOf)
+}
 
 const MOVED_TO = "akasha/held/one/held-one.held-other.code.ts"
 

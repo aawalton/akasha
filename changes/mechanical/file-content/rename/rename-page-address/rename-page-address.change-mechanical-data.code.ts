@@ -1,11 +1,12 @@
 import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 import {
-  answered,
+  narrowed,
   refusing,
+  stating,
   writing,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer, Edit } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type { Said, Stated } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const TYPED = /\.tsx?$/
@@ -56,7 +57,7 @@ export function pathsIn(world: World): readonly string[] {
   return [...found]
 }
 
-export function renamePageAddress(world: World, given: RenamePageAddressAsked): Answer {
+export function renamePageAddress(world: World, given: RenamePageAddressAsked): Said {
   if (!ADDRESS.test(given.was)) return refusing(`\`${given.was}\` ${NO_ADDRESS}`)
   if (!ADDRESS.test(given.now)) return refusing(`\`${given.now}\` ${NO_ADDRESS}`)
   if (given.was === given.now) {
@@ -69,18 +70,18 @@ export function renamePageAddress(world: World, given: RenamePageAddressAsked): 
     const why = cause instanceof Error ? cause.message : String(cause)
     return refusing(`${why}, so no address was restated`)
   }
-  const edits: Edit[] = []
+  const edits: Stated[] = []
   for (const path of paths) {
     if (!TYPED.test(path)) continue
     const text = world.textOf(path)
     if (text === null || !text.includes(given.was)) continue
     const spots = spellingsIn(path, text, given.was)
     if (spots.length === 0) continue
-    edits.push(writing(path, text, respelled(text, spots, given.now)))
+    edits.push(...narrowed(writing(path, text, respelled(text, spots, given.now))))
   }
-  return answered(edits)
+  return stating(edits)
 }
 
-export function runChange(world: World, given: RenamePageAddressAsked): Promise<Answer> {
+export function runChange(world: World, given: RenamePageAddressAsked): Promise<Said> {
   return Promise.resolve(renamePageAddress(world, given))
 }
