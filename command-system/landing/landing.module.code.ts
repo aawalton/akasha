@@ -453,8 +453,8 @@ export async function landing(
       const noted = indexed(root, changes, before, keeping)
       const back = carriedOnto(root, carries)
       try {
-        const commit = committed(root, put.wrote, put.took, message, writer)
         wroteOnto(root, split.uncommitted)
+        const commit = committed(root, put.wrote, put.took, message, writer)
         const gone = [...put.took, ...carries.map((one) => one.from)]
         const cleared = clearedOff(root, gone)
         return { base, commit, wrote: put.wrote, took: put.took, noted, cleared }
