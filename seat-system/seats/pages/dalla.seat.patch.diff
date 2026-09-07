@@ -1,0 +1,13 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index a6ba77efc5f85f6156adc22e7711875ae78df105..89269ee5ac0ff634386a1bf6b25df0e2fb1b11af 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -62,6 +62,6 @@ export const dallaDraftIntoAPatch = {
+     "Alan settles each block's shape before it lands.",
+     "A mechanical change is landed by a change page rather than by the command that page replaces.",
+     "A change page takes no dry run.",
+-    "The patch a draft keeps is the dry run.",
++    "The edits a draft keeps are the dry run.",
+   ],
+ } as const satisfies Initiative
