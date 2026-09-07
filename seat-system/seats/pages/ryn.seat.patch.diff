@@ -1,0 +1,34 @@
+diff --git a/alan/tracking/tracking-captures/tracking-capture.page-type.ts b/alan/tracking/tracking-captures/tracking-capture.page-type.ts
+index baadd18dc45e3b5f9c32ccf5823d920e58d37b40..3dfd596598189206c6d04207696991324c8c743d 100644
+--- a/alan/tracking/tracking-captures/tracking-capture.page-type.ts
++++ b/alan/tracking/tracking-captures/tracking-capture.page-type.ts
+@@ -23,8 +23,27 @@ export const trackingCapture = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Alan saying so, a device measuring, a trace another system left, someone else's word and a weighing are the five captures.",
++      statement: "There are five captures.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Alan saying so is a capture.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A device measuring is a capture.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A trace another system left is a capture.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Someone else's word is a capture.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A weighing is a capture.",
+     },
+     {
+       invariantKind: "gap",
