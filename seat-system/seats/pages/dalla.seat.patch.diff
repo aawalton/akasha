@@ -1,0 +1,142 @@
+writerOwesReading: false
+diff --git a/command-system/commands/remove/manifesting/remove-manifesting.module.code.ts b/command-system/commands/remove/manifesting/remove-manifesting.module.code.ts
+index 36c1fbb940a039ce87d32e16fa12ae146ac8bc0b..198ce2e24976448af5907b5450c27466d5ece1fb 100644
+--- a/command-system/commands/remove/manifesting/remove-manifesting.module.code.ts
++++ b/command-system/commands/remove/manifesting/remove-manifesting.module.code.ts
+@@ -3,7 +3,11 @@ import ts from "typescript"
+ import { counted, type Held, textOf } from "../../../asking/asking.module.code.ts"
+ import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
+ import type { FileEdit } from "../../../landing/landing.module.code.ts"
+-import { listEntrySpan, type Span } from "../workspacing/remove-workspacing.module.code.ts"
++import {
++  listEntrySpan,
++  type Span,
++  withoutSpans,
++} from "../workspacing/remove-workspacing.module.code.ts"
+ 
+ const MANIFEST = "package.json"
+ 
+@@ -87,11 +91,7 @@ export function withoutWaysIn(at: string, text: string, dropping: ReadonlySet<st
+     if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
+     if (dropping.has(one.name.text)) spans.push(listEntrySpan(text, one))
+   }
+-  let body = text
+-  for (const one of [...spans].sort((first, next) => next.start - first.start)) {
+-    body = `${body.slice(0, one.start)}${body.slice(one.end)}`
+-  }
+-  return body
++  return withoutSpans(text, spans)
+ }
+ 
+ export type Dropped = { readonly at: string; readonly ways: readonly string[] }
+diff --git a/command-system/commands/remove/remove.command.code.ts b/command-system/commands/remove/remove.command.code.ts
+index c089436745d66d5bff597d1d4010a615684cda25..3a837109e2c33a9dec5c7ab597aa94f0fe8e0729 100644
+--- a/command-system/commands/remove/remove.command.code.ts
++++ b/command-system/commands/remove/remove.command.code.ts
+@@ -29,6 +29,7 @@ import { manifestingFor, manifestingSaid } from "./manifesting/remove-manifestin
+ import type { Span } from "./workspacing/remove-workspacing.module.code.ts"
+ import {
+   listEntrySpan,
++  withoutSpans,
+   workspacingFor,
+   workspacingSaid,
+ } from "./workspacing/remove-workspacing.module.code.ts"
+@@ -212,11 +213,7 @@ export function unnamed(path: string, text: string, dropping: ReadonlySet<string
+     ts.forEachChild(node, walk)
+   }
+   ts.forEachChild(source, walk)
+-  let body = text
+-  for (const one of [...spans].sort((first, next) => next.start - first.start)) {
+-    body = `${body.slice(0, one.start)}${body.slice(one.end)}`
+-  }
+-  return { body, left }
++  return { body: withoutSpans(text, spans), left }
+ }
+ 
+ export type Unnaming = {
+diff --git a/command-system/commands/remove/workspacing/remove-workspacing.module.code.ts b/command-system/commands/remove/workspacing/remove-workspacing.module.code.ts
+index f008cb56bc50d7e608be41aa7767bd9aa22e1348..a213bc818642088ce4c2fd3adbf27658cc302133 100644
+--- a/command-system/commands/remove/workspacing/remove-workspacing.module.code.ts
++++ b/command-system/commands/remove/workspacing/remove-workspacing.module.code.ts
+@@ -33,22 +33,37 @@ export function emptiedBy(named: readonly string[], going: ReadonlySet<string>):
+ 
+ export type Span = { readonly start: number; readonly end: number }
+ 
++function blank(here: string | undefined): boolean {
++  return here === " " || here === "\t" || here === "\r" || here === "\n"
++}
++
+ export function listEntrySpan(text: string, node: ts.Node): Span {
+-  const start = node.getFullStart()
+-  let end = node.getEnd()
++  let start = node.getFullStart()
++  const end = node.getEnd()
+   let at = end
+   while (at < text.length) {
+     const here = text[at]
+-    if (here === ",") {
+-      end = at + 1
+-      break
+-    }
+-    if (here !== " " && here !== "\t" && here !== "\r" && here !== "\n") break
++    if (here === ",") return { start, end: at + 1 }
++    if (!blank(here)) break
+     at = at + 1
+   }
++  let back = start - 1
++  while (back >= 0 && blank(text[back])) back = back - 1
++  if (back >= 0 && text[back] === ",") start = back
+   return { start, end }
+ }
+ 
++export function withoutSpans(text: string, spans: readonly Span[]): string {
++  let body = text
++  let cut = text.length
++  for (const one of [...spans].sort((first, next) => next.start - first.start)) {
++    const end = one.end < cut ? one.end : cut
++    if (end > one.start) body = `${body.slice(0, one.start)}${body.slice(end)}`
++    cut = one.start
++  }
++  return body
++}
++
+ function listedIn(source: ts.JsonSourceFile, key: string): ts.ArrayLiteralExpression | null {
+   const first = source.statements[0]
+   if (first === undefined || !ts.isExpressionStatement(first)) return null
+@@ -70,11 +85,7 @@ export function withoutNamed(path: string, text: string, dropping: ReadonlySet<s
+   for (const one of held.elements) {
+     if (ts.isStringLiteral(one) && dropping.has(one.text)) spans.push(listEntrySpan(text, one))
+   }
+-  let body = text
+-  for (const one of [...spans].sort((first, next) => next.start - first.start)) {
+-    body = `${body.slice(0, one.start)}${body.slice(one.end)}`
+-  }
+-  return body
++  return withoutSpans(text, spans)
+ }
+ 
+ export type Workspacing = {
+diff --git a/command-system/commands/remove/workspacing/remove-workspacing.module.test.ts b/command-system/commands/remove/workspacing/remove-workspacing.module.test.ts
+index 58639efcc2787fce050ad92de854e135a50ee36c..853fac7438b0b07f3d5dad8dbc234daff058837b 100644
+--- a/command-system/commands/remove/workspacing/remove-workspacing.module.test.ts
++++ b/command-system/commands/remove/workspacing/remove-workspacing.module.test.ts
+@@ -94,6 +94,19 @@ test("an entry is dropped out of the list and every other byte is left as it was
+   expect(withoutNamed(MANIFEST, ROOT_BODY, new Set(["three"]))).toBe(ROOT_BODY)
+ })
+ 
++test("the last entry goes and what stays reads as JSON", () => {
++  const said = withoutNamed(MANIFEST, ROOT_BODY, new Set(["two"]))
++  expect(workspacesIn(said)).toEqual(["one"])
++  expect(() => JSON.parse(said)).not.toThrow()
++  expect(said).not.toContain(",\n  ]")
++})
++
++test("every entry goes at once and what stays reads as JSON", () => {
++  const said = withoutNamed(MANIFEST, ROOT_BODY, new Set(["one", "two"]))
++  expect(workspacesIn(said)).toEqual([])
++  expect(JSON.parse(said).trustedDependencies).toEqual(["one"])
++})
++
+ test("a removal emptying no workspace asks for no change and has nothing to say", () => {
+   const root = world()
+   const held = workspacingFor(root, baseOf(root), new Set(["one/src/held.ts"]))
