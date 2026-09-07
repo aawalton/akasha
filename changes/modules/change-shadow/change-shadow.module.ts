@@ -7,7 +7,12 @@ export const changeShadow = {
   definition: "the files and index as the answer a change gives would leave both",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A world over bodies held in memory is built here rather than by each test.",
+    },
     {
       invariantKind: "departure",
       statement: "An answer is cast as the change shape the shadow already reads.",

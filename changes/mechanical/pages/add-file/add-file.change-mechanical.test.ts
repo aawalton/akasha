@@ -1,20 +1,8 @@
 import { expect, test } from "bun:test"
-import {
-  NOTHING_OVER,
-  type World,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { worldOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { addFile } from "./add-file.change-mechanical.code.ts"
 
 const AT = "akasha/one.held.ts"
-
-function worldOf(held: Readonly<Record<string, string>>): World {
-  return {
-    root: "/nowhere",
-    index: {} as World["index"],
-    textOf: (path) => held[path] ?? null,
-    over: NOTHING_OVER,
-  }
-}
 
 test("a path holding no body is answered as one edit adding that body", () => {
   const said = addFile(worldOf({}), { at: AT, body: "alpha\n" })
