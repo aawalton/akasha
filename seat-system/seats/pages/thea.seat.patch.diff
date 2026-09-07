@@ -1,0 +1,14 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts
+index 873fa5dfdc41d6f2069d6ba70f2bee547c902192..14e8a72d2facfdfb29ae66eebad6523eac99212a 100644
+--- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts
++++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts
+@@ -7,6 +7,7 @@ import {
+   type Held,
+   judgedIn,
+   looseningIn,
++  underEach,
+ } from "../key-names-one-property/key-names-one-property.code-check.code.ts"
+ import { carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
+ 
