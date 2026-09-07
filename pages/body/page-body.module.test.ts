@@ -98,9 +98,9 @@ test("a key inside a value is written bare where TypeScript reads it bare", () =
     slug: "one",
     importFrom: "./thing.page-type.ts",
     keys: ["invariants"],
-    values: { invariants: [{ invariantKind: "gap", statement: "one" }] },
+    values: { invariants: [{ invariantKind: "gap", statement: "A key is bare." }] },
   })
-  expect(said).toContain('  invariants: [{invariantKind:"gap",statement:"one"}],')
+  expect(said).toContain('  invariants: [{invariantKind:"gap",statement:"A key is bare."}],')
 })
 
 test("a key TypeScript does not read bare is written quoted", () => {
