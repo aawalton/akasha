@@ -6,6 +6,7 @@ import type {
   Reading,
   Removing,
   Replacing,
+  Said,
   Stated,
 } from "./change-answer.module.types.ts"
 
@@ -99,6 +100,21 @@ export function expanded(one: Stated, textOf: BodyOf): Expanded {
   if (one.kind === "replace") return replacedIn(one, textOf)
   if (one.kind === "remove") return removedIn(one, textOf)
   return movedIn(one, textOf)
+}
+
+export function widened(said: Said, textOf: BodyOf): Answer {
+  if (said.refused !== null) return refusing(said.refused)
+  const held = new Map<string, string | null>()
+  const over: BodyOf = (path) => (held.has(path) ? (held.get(path) ?? null) : textOf(path))
+  const edits: Edit[] = []
+  for (const one of said.edits) {
+    const grown = one.kind === undefined ? { edit: one } : expanded(one, over)
+    if ("refused" in grown) return refusing(grown.refused)
+    edits.push(grown.edit)
+    if (grown.edit.from !== undefined) held.set(grown.edit.from, null)
+    held.set(grown.edit.path, grown.edit.body)
+  }
+  return { edits, refused: null }
 }
 
 function under(held: ReadonlyMap<string, Edit>, edit: Edit): Edit | undefined {
