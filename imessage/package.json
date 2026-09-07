@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./chat-db": "./chat-db/chat-db.module.code.ts",
+    "./imessage-command-reading": "./commands/imessage-command-reading/imessage-command-reading.module.code.ts",
     "./contacts-db": "./contacts-db/contacts-db.module.code.ts",
     "./host": "./host/imessage-host.module.code.ts",
     "./message-lines": "./message-lines/message-lines.module.code.ts",
