@@ -30,8 +30,6 @@ import {
 
 const HOURS = "temper/temper-holdings/net-worth-hours/pages"
 
-const DAYS = "temper/temper-progress/completed-days/pages"
-
 const TASKS = "temper/temper-progress/tasks/pages"
 
 test("the writer is the name and address every landing was already committing under", () => {
@@ -54,7 +52,6 @@ test("an export name is the slug in lower camel case", () => {
 
 test("a type name is the page type slug in upper camel case", () => {
   expect(typeNameFor("temper-net-worth-hour")).toBe("TemperNetWorthHour")
-  expect(typeNameFor("temper-completed-day")).toBe("TemperCompletedDay")
   expect(typeNameFor("temper-task")).toBe("TemperTask")
 })
 
@@ -73,12 +70,6 @@ test("a page path and the jsonl path beside it are the paths the landings alread
   )
   expect(rowsPathIn(HOURS, "hour-2026-04-29-14", "temper-net-worth-hour", "snapshots")).toBe(
     "temper/temper-holdings/net-worth-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.snapshots.jsonl"
-  )
-  expect(pagePathIn(DAYS, "day-2026-03-05", "temper-completed-day")).toBe(
-    "temper/temper-progress/completed-days/pages/day-2026-03-05/day-2026-03-05.temper-completed-day.ts"
-  )
-  expect(rowsPathIn(DAYS, "day-2026-03-05", "temper-completed-day", "completions")).toBe(
-    "temper/temper-progress/completed-days/pages/day-2026-03-05/day-2026-03-05.temper-completed-day.completions.jsonl"
   )
   expect(pagePathIn(TASKS, "hireling-mails", "temper-task")).toBe(
     "temper/temper-progress/tasks/pages/hireling-mails/hireling-mails.temper-task.ts"
@@ -104,15 +95,15 @@ test("a page body is the body the hour landing wrote, byte for byte", () => {
   )
 })
 
-test("a page body is the body the day landing wrote, byte for byte", () => {
+test("a page body is the body the task landing wrote, byte for byte", () => {
   expect(
-    pageBodyFor("temper-completed-day", "day-2026-03-05", "01a05fe3-09ca-7e72-8b3e-e6b34e0d2978", [
-      ["title", "2026-03-05"],
-      ["day", "2026-03-05"],
-      ["completions", "jsonl"],
+    pageBodyFor("temper-task", "hireling-mails", "01a05fe3-09ca-7e72-8b3e-e6b34e0d2978", [
+      ["title", "Hireling Mails"],
+      ["dueDate", "2026-03-05"],
+      ["progress", "jsonl"],
     ])
   ).toBe(
-    'import type { TemperCompletedDay } from "../../temper-completed-day.page-type.ts"\n\nexport const day20260305 = {\n  id: "01a05fe3-09ca-7e72-8b3e-e6b34e0d2978",\n  pageTypeSlug: "temper-completed-day",\n  slug: "day-2026-03-05",\n  title: "2026-03-05",\n  day: "2026-03-05",\n  completions: "jsonl",\n} as const satisfies TemperCompletedDay\n'
+    'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const hirelingMails = {\n  id: "01a05fe3-09ca-7e72-8b3e-e6b34e0d2978",\n  pageTypeSlug: "temper-task",\n  slug: "hireling-mails",\n  title: "Hireling Mails",\n  dueDate: "2026-03-05",\n  progress: "jsonl",\n} as const satisfies TemperTask\n'
   )
 })
 
