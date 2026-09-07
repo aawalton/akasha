@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
+index 43553a859d7807805068327430e83525a30ba0f9..b24d76cae37804fbe9e046e29f32e1b483bde8a6 100644
+--- a/domains/initiatives/pages/thea-checks-system.initiative.ts
++++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
+@@ -10,7 +10,7 @@ export const theaChecksSystem = {
+     {
+       statement: "Every check is cheap enough for patch and runs there.",
+       workingMemory:
+-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. 38 of 44 run at patch. Seed the fault from the rule's own grammar, at tree scale too. Print the premise; a confounded arm reads as clean. A patch run is ~7s, so a paired run under 100ms is noise. A check's fixed cost is the index re-deriving; ask what is new. Clear what the fleet edits weekly. Await a check in a harness; some are async. `akasha change` edits land by `apply`, not `patch apply`; remove-page mends the parts tree. relation-resolves next.",
++        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Still off: folder-matches-a-shape, identifier-matches-its-place, require-import-extension, restatement-narrows-something, shell-clean, tests-pass (intent 2). The first two sit behind the walk; take them last. require-import-extension next. Seed the fault from the rule's grammar, at tree scale. Print the premise; a confounded arm reads as clean. A check's fixed cost is the index re-deriving; ask what is new. `akasha change` edits land by `apply`, not `patch apply`.",
+     },
+     {
+       statement: "The tests beside a changed file judge the change that carries it.",
