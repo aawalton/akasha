@@ -1333,20 +1333,6 @@
     "pages/url": {
       "name": "@akasha/pages-url",
     },
-    "person-system": {
-      "name": "@akasha/persons",
-      "dependencies": {
-        "@akasha/health-samples-access": "workspace:*",
-        "@akasha/pages-service": "workspace:*",
-        "@akasha/pages-url": "workspace:*",
-        "@akasha/supabase-auth": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "peerDependencies": {
-        "react": "^18 || ^19",
-      },
-    },
     "personas": {
       "name": "@akasha/personas",
       "dependencies": {
@@ -1361,6 +1347,20 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
+      },
+    },
+    "persons": {
+      "name": "@akasha/persons",
+      "dependencies": {
+        "@akasha/health-samples-access": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
+        "@akasha/pages-url": "workspace:*",
+        "@akasha/supabase-auth": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
       },
     },
     "readout-system": {
@@ -3184,7 +3184,7 @@
 
     "@akasha/personas-core": ["@akasha/personas-core@workspace:personas-core"],
 
-    "@akasha/persons": ["@akasha/persons@workspace:person-system"],
+    "@akasha/persons": ["@akasha/persons@workspace:persons"],
 
     "@akasha/plain-language": ["@akasha/plain-language@workspace:domains/plain-language"],
 
