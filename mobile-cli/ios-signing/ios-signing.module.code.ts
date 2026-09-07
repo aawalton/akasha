@@ -3,6 +3,7 @@ import type { MobileApp } from "../mobile-app/mobile-app.module.code.ts"
 
 export type SigningFailureClass =
   | "ASC_PERMISSION_DENIED"
+  | "ASC_PROFILE_ERROR"
   | "CONCURRENT_BUILD_MUTATION"
   | "SIGNING_KEYCHAIN_ERROR"
 
@@ -24,10 +25,20 @@ const CONCURRENT_BUILD_MUTATION_REMEDIATION =
   "$HOME/.appstoreconnect/deploy-testflight.lock on the mac (a live-pid holder is a real " +
   "concurrent build; a dead-pid holder is auto-stolen) and confirm mac disk health."
 
+const ASC_PROFILE_REMEDIATION =
+  "App Store Connect refused a provisioning-profile call. This is neither the mac's keychain " +
+  "nor Alan's to mend: the mac is reached over ssh from this workstation, so mending it is " +
+  "the harness's own work. A 5xx is Apple briefly unavailable and the call already retries " +
+  "three times, so re-run. Any other code is named in the line above; read that code against " +
+  "the App Store Connect profiles API. A run failing after the delete leaves the bundle with " +
+  "no App Store profile, and the next run makes one."
+
 const KEYCHAIN_REMEDIATION =
-  "codesign could not access the distribution signing key on the macbook — ensure the login " +
-  "keychain holds the iOS Distribution cert + its private key and that no stale keychain " +
-  "shadows it earlier in the search list, then re-run."
+  "codesign could not access the distribution signing key on the macbook, which this " +
+  "workstation reaches over ssh, so mending it is the harness's own work rather than Alan's " +
+  "— over that ssh, check that the login keychain holds the iOS Distribution cert + its " +
+  "private key and that no stale keychain shadows it earlier in the search list, then " +
+  "re-run. `security find-identity -v -p codesigning` names what the keychain holds."
 
 export function classifyTestflightFailure(output: string): SigningFailure | undefined {
   if (output.includes("ASC_PERMISSION_DENIED")) {
@@ -42,6 +53,9 @@ export function classifyTestflightFailure(output: string): SigningFailure | unde
       failureClass: "CONCURRENT_BUILD_MUTATION",
       remediation: CONCURRENT_BUILD_MUTATION_REMEDIATION,
     }
+  }
+  if (output.includes("ASC_PROFILE_ERROR")) {
+    return { failureClass: "ASC_PROFILE_ERROR", remediation: ASC_PROFILE_REMEDIATION }
   }
   if (
     output.includes("errSecInternalComponent") ||

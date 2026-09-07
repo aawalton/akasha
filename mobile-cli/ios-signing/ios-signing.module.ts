@@ -32,5 +32,25 @@ export const iosSigning = {
       invariantKind: "constraint",
       statement: "the App Store Connect .p8 private key is read from the mac's own home directory",
     },
+    {
+      invariantKind: "departure",
+      statement: "The mac is reached and mended over ssh from the workstation rather than by hand.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A signing failure on the mac is the harness's to mend rather than Alan's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A profile call App Store Connect refuses is no fault of the mac's keychain.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A create App Store Connect answers with a 5xx is asked again three times.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run failing after the delete leaves the bundle no profile until the next run.",
+    },
   ],
 } as const satisfies Module
