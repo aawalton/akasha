@@ -27,7 +27,7 @@ export const domain = {
     "relation-property/invariant-kind",
     "relation-property/part-slugs",
     "standard-agent-english-property/act",
-    "text-property/aids",
+    "standard-agent-english-property/aids",
     "text-property/definition",
     "text-property/invariant-statement",
     "text-property/name",
