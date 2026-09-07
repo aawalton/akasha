@@ -124,6 +124,10 @@ export const codeCheck = {
       statement: "That landing is how a check states its rule before that check binds anyone.",
     },
     {
+      invariantKind: "absence",
+      statement: "A check the change turns on does not judge the change turning that check on.",
+    },
+    {
       invariantKind: "departure",
       statement: "Patch judges only the paths a change carries.",
     },
