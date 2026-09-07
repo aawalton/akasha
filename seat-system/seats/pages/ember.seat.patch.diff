@@ -1,0 +1,370 @@
+writerOwesReading: false
+diff --git a/design/primitives/design-primitives.workspace-package.ts b/design/primitives/design-primitives.workspace-package.ts
+index 292c75b5910e915897d19b1a35eb035f501ea006..210bbb5c9fba7e86fb0ba680c20391b8d25d2b8e 100644
+--- a/design/primitives/design-primitives.workspace-package.ts
++++ b/design/primitives/design-primitives.workspace-package.ts
+@@ -33,6 +33,7 @@ export const designPrimitives = {
+     "module/input",
+     "module/keyboard-registry",
+     "module/label",
++    "module/listener-set",
+     "module/menubar",
+     "module/popover",
+     "module/popover-tokens",
+diff --git a/design/primitives/listener-set/listener-set.module.code.ts b/design/primitives/listener-set/listener-set.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..81347790c1fdbfdfa1736b52c2e413f203f7a83d
+--- /dev/null
++++ b/design/primitives/listener-set/listener-set.module.code.ts
+@@ -0,0 +1,19 @@
++export interface ListenerSet {
++  readonly tell: () => undefined
++  readonly subscribe: (listener: () => void) => () => void
++}
++
++export function listenerSet(): ListenerSet {
++  const listeners = new Set<() => void>()
++  return {
++    tell: (): undefined => {
++      for (const listener of listeners) listener()
++    },
++    subscribe: (listener: () => void): (() => void) => {
++      listeners.add(listener)
++      return () => {
++        listeners.delete(listener)
++      }
++    },
++  }
++}
+diff --git a/design/primitives/listener-set/listener-set.module.ts b/design/primitives/listener-set/listener-set.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ec2036e2015967dd3eab7b7eed522ad4d6037ffd
+--- /dev/null
++++ b/design/primitives/listener-set/listener-set.module.ts
+@@ -0,0 +1,19 @@
++import type { Module } from "@akasha/code/module"
++
++export const listenerSet = {
++  id: "01a07cd7-ff21-7b3f-a03a-2ca0fd18a8b8",
++  pageTypeSlug: "module",
++  slug: "listener-set",
++  definition: "the callbacks a store tells when the value that store holds changes",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A subscriber is handed back the call that drops that subscriber.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A store holds the value and reaches here only for the callbacks.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/design/primitives/package.json b/design/primitives/package.json
+index 7626c4bd33c757c86c6cb7c9d7f8e2b27d14a9cf..5af68dc1bf1acfac5e6276af55f20d5dc5057c6a 100644
+--- a/design/primitives/package.json
++++ b/design/primitives/package.json
+@@ -29,6 +29,7 @@
+     "./input": "./input/input.module.code.tsx",
+     "./keyboard-registry": "./keyboard-registry/keyboard-registry.module.code.ts",
+     "./label": "./label/label.module.code.tsx",
++    "./listener-set": "./listener-set/listener-set.module.code.ts",
+     "./menubar": "./menubar/menubar.module.code.tsx",
+     "./popover": "./popover/popover.module.code.tsx",
+     "./popover-tokens": "./popover-tokens/popover-tokens.module.code.ts",
+diff --git a/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts b/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts
+index f6e5b06550252eec89ce70dc33c5c0d777dc3637..777fb9ea3aa2a1d1beed015a8d4e3f5039f210df 100644
+--- a/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts
++++ b/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts
+@@ -1,5 +1,6 @@
+ "use client"
+ 
++import { listenerSet } from "@akasha/design-primitives/listener-set"
+ import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
+ import { deletePages } from "@akasha/pages-access/delete"
+ import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
+@@ -55,10 +56,6 @@ const SETTINGS = "settings"
+ 
+ const ENDING = "json"
+ 
+-// A player's settings are a file beside the page, so a query answers the four characters naming
+-// that file's ending unless the query names `settings` under `files`. Reading the ending as an
+-// empty blob is what left every panel unset, and writing on top of that empty blob is what would
+-// have put one panel's settings over the whole file.
+ async function settingsBodyOf(userId: string): Promise<SettingsBlob> {
+   const asked = await askComposed({
+     "page-type": PLAYER_PAGE_TYPE_SLUG,
+@@ -80,9 +77,6 @@ async function settingsBodyOf(userId: string): Promise<SettingsBlob> {
+   return asSettingsBlob(JSON.parse(held))
+ }
+ 
+-// EVERY PANEL WRITES THE WHOLE BLOB, merged onto what was read, so the five hooks share one copy.
+-// Were each to hold its own, a write from one panel would carry a blob read before another
+-// panel's write and put it back over it.
+ interface SettingsHeld {
+   readonly blob: SettingsBlob
+   readonly isRead: boolean
+@@ -93,31 +87,20 @@ const UNREAD: SettingsHeld = { blob: {}, isRead: false, error: null }
+ 
+ let heldFor: string | null = null
+ let held: SettingsHeld = UNREAD
+-const listeners = new Set<() => void>()
++const settingsListeners = listenerSet()
+ 
+-function tellListeners() {
+-  for (const listener of listeners) listener()
+-}
+-
+-function holdSettings(next: SettingsHeld) {
++function holdSettings(next: SettingsHeld): undefined {
+   held = next
+-  tellListeners()
+-}
+-
+-function subscribeSettings(listener: () => void) {
+-  listeners.add(listener)
+-  return () => {
+-    listeners.delete(listener)
+-  }
++  settingsListeners.tell()
+ }
+ 
+ function readSettings(): SettingsHeld {
+   return held
+ }
+ 
+-function useSettingsBlob() {
++export function useSettingsBlob() {
+   const userId = useUserId()
+-  const state = useSyncExternalStore(subscribeSettings, readSettings, readSettings)
++  const state = useSyncExternalStore(settingsListeners.subscribe, readSettings, readSettings)
+ 
+   useEffect(() => {
+     if (userId == null) {
+@@ -219,26 +202,23 @@ export function useInventorySettings() {
+         : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
+     limit: RULES_AT_MOST,
+   })
+-  const held = useMemo(
+-    () => heldFromRows(rows as unknown as readonly Record<string, unknown>[]),
+-    [rows]
+-  )
++  const heldRules = useMemo(() => heldFromRows(rows.map((row) => ({ ...row }))), [rows])
+   const blob = settings.inventory
+ 
+   const inventorySettings = useMemo<InventoryRuleSettings>(
+     () => ({
+       version: 2,
+-      rules: rulesFromPages(held),
++      rules: rulesFromPages(heldRules),
+       ...(blob?.itemRules === undefined ? {} : { itemRules: blob.itemRules }),
+       ...(blob?.buyRules === undefined ? {} : { buyRules: blob.buyRules }),
+     }),
+-    [held, blob?.itemRules, blob?.buyRules]
++    [heldRules, blob?.itemRules, blob?.buyRules]
+   )
+ 
+   const updateInventorySettings = useCallback(
+     async (next: InventoryRuleSettings) => {
+       if (userId == null) return
+-      const { upserts, deletes } = writesFor(next.rules, held, userId)
++      const { upserts, deletes } = writesFor(next.rules, heldRules, userId)
+       if (upserts.length > 0) {
+         await upsertPages({
+           pageTypeSlug: RULE_PAGE_TYPE_SLUG,
+@@ -255,7 +235,7 @@ export function useInventorySettings() {
+         })
+       }
+     },
+-    [held, userId]
++    [heldRules, userId]
+   )
+ 
+   return {
+diff --git a/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts b/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts
+index beda2a40938ddde9a24b1ac226400f3b7eb151f9..8060b541842133df834ca7e45ef4be56d9be76a7 100644
+--- a/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts
++++ b/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts
+@@ -39,6 +39,16 @@ export const hooksInventorySettings = {
+       invariantKind: "departure",
+       statement: "One copy of the blob is held here.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A write carries the whole blob merged onto the blob last read rather than one panel's section.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The panels outside this package read this copy rather than opening a second copy.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Every panel reads that copy.",
+diff --git a/temper/temper-web/player-settings/player-settings.module.code.ts b/temper/temper-web/player-settings/player-settings.module.code.ts
+index dc23b7239903de9f6615aab2e89c9f619bb62427..5e9ce48f19001bd16eb1dca705e634cf33963d8e 100644
+--- a/temper/temper-web/player-settings/player-settings.module.code.ts
++++ b/temper/temper-web/player-settings/player-settings.module.code.ts
+@@ -1,28 +1,14 @@
+ "use client"
+ 
+-import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
+-import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
+-import { upsertPage } from "@akasha/pages-access/upsert"
+-import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
+-import { usePages } from "@akasha/pages-ui/supabase/use-pages"
+-import { useUserId } from "@akasha/pages-ui/use-user-id"
+ import type { InventoryLoggingSettings } from "@akasha/temper-items-core/inventory-logging-types"
+ import {
+   ALL_DESTRUCTIVE_ACTIONS,
+   type InventorySafetySettings,
+ } from "@akasha/temper-items-core/inventory-safety-types"
++import { useSettingsBlob } from "@akasha/temper-player-inventory-management-ui/hooks-inventory-settings"
+ import type { ShoppingSettings } from "@akasha/temper-shopping/shopping-settings"
+ import { isRecord } from "@akasha/utils-narrow/is-record"
+-import type { Json } from "@akasha/utils-narrow/json-value"
+-import { useCallback, useMemo } from "react"
+-
+-const PLAYER_PAGE_TYPE_SLUG = "temper-player"
+-
+-interface SettingsBlob {
+-  logging?: InventoryLoggingSettings
+-  safety?: InventorySafetySettings
+-  shopping?: ShoppingSettings | Record<string, boolean>
+-}
++import { useCallback } from "react"
+ 
+ function isInventoryLoggingSettings(v: unknown): v is InventoryLoggingSettings {
+   if (!isRecord(v)) return false
+@@ -36,23 +22,6 @@ function isInventorySafetySettings(v: unknown): v is InventorySafetySettings {
+   return v.confirmActions.every((a) => typeof a === "string")
+ }
+ 
+-function isShoppingSettingsLike(v: unknown): v is ShoppingSettings | Record<string, boolean> {
+-  return isRecord(v)
+-}
+-
+-function asSettingsBlob(value: unknown): SettingsBlob {
+-  if (!isRecord(value)) return {}
+-  const out: SettingsBlob = {}
+-  if (isInventoryLoggingSettings(value.logging)) out.logging = value.logging
+-  if (isInventorySafetySettings(value.safety)) out.safety = value.safety
+-  if (isShoppingSettingsLike(value.shopping)) out.shopping = value.shopping
+-  return out
+-}
+-
+-function asJson(blob: SettingsBlob): Json {
+-  return blob as Json
+-}
+-
+ function isStringBooleanRecord(value: unknown): value is Record<string, boolean> {
+   if (!isRecord(value)) return false
+   for (const v of Object.values(value)) {
+@@ -61,44 +30,6 @@ function isStringBooleanRecord(value: unknown): value is Record<string, boolean>
+   return true
+ }
+ 
+-function useSettingsBlob() {
+-  const userId = useUserId()
+-  const { rows } = usePages({
+-    pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
+-    where:
+-      userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }],
+-    limit: 1,
+-  })
+-  const playerRow = rows[0]
+-  const settings = useMemo<SettingsBlob>(() => {
+-    return asSettingsBlob(playerRow?.settings)
+-  }, [playerRow?.settings])
+-  const runUpsert = useOptimisticUpsertPage((args) => upsertPage(args))
+-
+-  const rawWrite = useCallback(
+-    async (next: SettingsBlob) => {
+-      if (userId == null) return
+-      const handle = typeof playerRow?.handle === "string" ? playerRow.handle : null
+-      const profileMetadata = isRecord(playerRow?.profileMetadata) ? playerRow.profileMetadata : {}
+-      await runUpsert({
+-        pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
+-        where: [{ key: "title", eq: userId }],
+-        set: {
+-          userId,
+-          title: userId,
+-          handle,
+-          profileMetadata,
+-          settings: asJson(next),
+-        },
+-      })
+-    },
+-    [runUpsert, userId, playerRow]
+-  )
+-
+-  const write = useSingleFlight(rawWrite)
+-  return { settings, write, userId }
+-}
+-
+ const DEFAULT_LOGGING_SETTINGS: InventoryLoggingSettings = {
+   actionReports: "verbose",
+   perfTracing: "none",
+@@ -106,7 +37,9 @@ const DEFAULT_LOGGING_SETTINGS: InventoryLoggingSettings = {
+ 
+ export function useLoggingSettings() {
+   const { settings, write } = useSettingsBlob()
+-  const loggingSettings = settings.logging ?? DEFAULT_LOGGING_SETTINGS
++  const loggingSettings = isInventoryLoggingSettings(settings.logging)
++    ? settings.logging
++    : DEFAULT_LOGGING_SETTINGS
+ 
+   const updateLoggingSettings = useCallback(
+     async (partial: Partial<InventoryLoggingSettings>) => {
+@@ -128,7 +61,9 @@ const DEFAULT_SAFETY_SETTINGS: InventorySafetySettings = {
+ 
+ export function useSafetySettings() {
+   const { settings, write } = useSettingsBlob()
+-  const safetySettings = settings.safety ?? DEFAULT_SAFETY_SETTINGS
++  const safetySettings = isInventorySafetySettings(settings.safety)
++    ? settings.safety
++    : DEFAULT_SAFETY_SETTINGS
+ 
+   const updateSafetySettings = useCallback(
+     async (partial: Partial<InventorySafetySettings>) => {
+@@ -145,7 +80,10 @@ export function useSafetySettings() {
+ 
+ export function useShoppingMarks() {
+   const { settings, write } = useSettingsBlob()
+-  const shoppingSettings = settings.shopping
++  const held = settings.shopping
++  const shoppingSettings = isRecord(held)
++    ? (held as ShoppingSettings | Record<string, boolean>)
++    : undefined
+ 
+   const updateShoppingMarks = useCallback(
+     async (keys: readonly string[]) => {
+diff --git a/temper/temper-web/player-settings/player-settings.module.ts b/temper/temper-web/player-settings/player-settings.module.ts
+index 25b50bef4f50bb59574666f9a07695554e8919e1..69346d21f3014880b32e458a3bdd623d272906bf 100644
+--- a/temper/temper-web/player-settings/player-settings.module.ts
++++ b/temper/temper-web/player-settings/player-settings.module.ts
+@@ -13,7 +13,7 @@ export const playerSettings = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A section that does not narrow is left out rather than kept part-read.",
++      statement: "A section that does not narrow reads as its default.",
+     },
+     {
+       invariantKind: "departure",
+@@ -21,11 +21,11 @@ export const playerSettings = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One write is in flight at a time.",
++      statement: "These three sections read the copy hooks-inventory-settings holds.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reader with no user id matches no player row.",
++      statement: "A section this module leaves alone survives a write from this module.",
+     },
+   ],
+ } as const satisfies Module
