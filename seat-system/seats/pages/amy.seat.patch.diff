@@ -1,0 +1,23 @@
+diff --git a/temper/temper-progress/progress-things/properties/due-date.calendar-date-property.ts b/temper/temper-progress/progress-things/properties/due-date.calendar-date-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cb5a803bd5948a199f60f71fb17312ce069b5bb6
+--- /dev/null
++++ b/temper/temper-progress/progress-things/properties/due-date.calendar-date-property.ts
+@@ -0,0 +1,17 @@
++import type { CalendarDateProperty } from "@akasha/pages/calendar-date-property"
++
++export type DueDate = string
++
++export const dueDate = {
++  id: "01a0793a-2730-7efc-b4a0-869a6e3af33f",
++  pageTypeSlug: "calendar-date-property",
++  slug: "due-date",
++  propertySlug: "due-date",
++  definition: "the day a task is next wanted",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A due date rolls forward to the next round when the task is marked done.",
++    },
++  ],
++} as const satisfies CalendarDateProperty
