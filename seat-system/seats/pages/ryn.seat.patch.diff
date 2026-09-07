@@ -1,0 +1,24 @@
+diff --git a/bun.lock b/bun.lock
+index ecc8357adffb071df568415e0bdd6e0b02001f87..58139d29a960b7b9663e118c44fd7a52d6fe9cf8 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -1361,6 +1361,7 @@
+     "readout-system": {
+       "name": "@akasha/readout-system",
+       "dependencies": {
++        "@akasha/domains": "workspace:*",
+         "@akasha/pages-service": "workspace:*",
+         "zod": "^4.3.6",
+       },
+diff --git a/readout-system/package.json b/readout-system/package.json
+index 279ebd5974686ce1e5a1810029fd990da764d5f2..459de8c3ede0be03d4a76e4d7e590cdb79301c59 100644
+--- a/readout-system/package.json
++++ b/readout-system/package.json
+@@ -33,6 +33,7 @@
+     "./widget-tap-link": "./widget-tap-link/widget-tap-link.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/domains": "workspace:*",
+     "@akasha/pages-service": "workspace:*",
+     "zod": "^4.3.6"
+   },
