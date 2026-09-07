@@ -1,0 +1,668 @@
+writerOwesReading: false
+diff --git a/changes/agent/file-content/add-property-value/add-property-value.change-checked.code.ts b/changes/agent/file-content/add-property-value/add-property-value.change-checked.code.ts
+index 4cbdbf939ab7935614446bb756401e5d7dacd7c8..925210882c68c42fc31cf3d39b35d0df5d9aa7e3 100644
+--- a/changes/agent/file-content/add-property-value/add-property-value.change-checked.code.ts
++++ b/changes/agent/file-content/add-property-value/add-property-value.change-checked.code.ts
+@@ -4,7 +4,7 @@ import type { Answer } from "../../../modules/change-answer/change-answer.module
+ import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { readFor, targetsIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+ 
+-const ADD_PROPERTY_VALUE = "change-mechanical-data/add-property-value"
++const ADD_PROPERTY_VALUE = "change-mechanical-file-content/add-property-value"
+ 
+ const AT = "at"
+ 
+diff --git a/changes/agent/file-content/add-property-value/add-property-value.change-checked.test.ts b/changes/agent/file-content/add-property-value/add-property-value.change-checked.test.ts
+index c5019b068734f91baf4ee179246f1446ea93f734..97ab9d4c25f2792dc46ce8433e8a8ecb168c2857 100644
+--- a/changes/agent/file-content/add-property-value/add-property-value.change-checked.test.ts
++++ b/changes/agent/file-content/add-property-value/add-property-value.change-checked.test.ts
+@@ -13,7 +13,7 @@ const ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
+ 
+ const PAGE = { id: ID, pageTypeSlug: "domain", slug: "held" } as Value
+ 
+-const RUNS = "change-mechanical-data/add-property-value"
++const RUNS = "change-mechanical-file-content/add-property-value"
+ 
+ type Told = {
+   readonly slug: string | null
+diff --git a/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.code.ts b/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.code.ts
+index 537bceefd95690d5d12024ca7b8730274912cc62..22a96c23682b83c3dbb3a3e2e709734c19c4810d 100644
+--- a/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.code.ts
++++ b/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.code.ts
+@@ -9,7 +9,7 @@ import type { Answer } from "../../../modules/change-answer/change-answer.module
+ import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { heldIn, readFor } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+ 
+-const ADD_PROPERTY_VALUE = "change-mechanical-data/add-property-value"
++const ADD_PROPERTY_VALUE = "change-mechanical-file-content/add-property-value"
+ 
+ const DOMAIN = "domain"
+ 
+diff --git a/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.test.ts b/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.test.ts
+index 3954c16ae2d8d6331c72af275295699ebd10b082..4c11cb0bce31c30c8430824af97f717bffeb0853 100644
+--- a/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.test.ts
++++ b/changes/agent/file-content/change-domain-parent/change-domain-parent.change-checked.test.ts
+@@ -13,7 +13,7 @@ const NAMESPACE = "01a07932-2568-72a6-8b8e-314ac44c417c"
+ 
+ const PACKAGE = "01a07932-2568-72a6-8b8e-314ac44c417d"
+ 
+-const ADDS = "change-mechanical-data/add-property-value"
++const ADDS = "change-mechanical-file-content/add-property-value"
+ 
+ const REMOVES = "change-mechanical-data/remove-property-value"
+ 
+diff --git a/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-data.code.ts b/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-data.code.ts
+deleted file mode 100644
+index 07b2e44be6b5b0da418bde18d95361ebcbfb6c70..0000000000000000000000000000000000000000
+--- a/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-data.code.ts
++++ /dev/null
+@@ -1,80 +0,0 @@
+-import { parsedAs } from "@akasha/code/code-source"
+-import ts from "typescript"
+-import {
+-  answered,
+-  refusing,
+-  writing,
+-} from "../../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
+-
+-export type AddPropertyValueAsked = {
+-  readonly at: string
+-  readonly key: string
+-  readonly value: string
+-  readonly after?: string
+-}
+-
+-export function withValue(
+-  text: string,
+-  source: ts.SourceFile,
+-  holding: ts.ArrayLiteralExpression,
+-  value: string
+-): string {
+-  const put = JSON.stringify(value)
+-  const last = holding.elements[holding.elements.length - 1]
+-  if (last === undefined) {
+-    const opened = holding.getStart(source) + 1
+-    return text.slice(0, opened) + put + text.slice(opened)
+-  }
+-  const ended = last.getEnd()
+-  return `${text.slice(0, ended)}, ${put}${text.slice(ended)}`
+-}
+-
+-export function withProperty(
+-  text: string,
+-  source: ts.SourceFile,
+-  owner: ts.ObjectLiteralExpression,
+-  given: AddPropertyValueAsked
+-): string {
+-  const put = `${given.key}: [${JSON.stringify(given.value)}]`
+-  const named = owner.properties.find(
+-    (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.after
+-  )
+-  const anchor = named ?? owner.properties[owner.properties.length - 1]
+-  if (anchor === undefined) {
+-    const opened = owner.getStart(source) + 1
+-    return `${text.slice(0, opened)}\n  ${put},\n${text.slice(opened)}`
+-  }
+-  const started = anchor.getStart(source)
+-  const indent = text.slice(text.lastIndexOf("\n", started) + 1, started)
+-  const ended = anchor.getEnd()
+-  return `${text.slice(0, ended)},\n${indent}${put}${text.slice(ended)}`
+-}
+-
+-export function addPropertyValue(world: World, given: AddPropertyValueAsked): Answer {
+-  const text = world.textOf(given.at)
+-  if (text === null) return refusing(`\`${given.at}\` could not be read`)
+-  const source = parsedAs(given.at, text)
+-  const owner = literalIn(source)
+-  if (owner === null) return refusing(`\`${given.at}\` exports no object`)
+-  const one = owner.properties.find(
+-    (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
+-  )
+-  if (one === undefined || !ts.isPropertyAssignment(one)) {
+-    return answered([writing(given.at, text, withProperty(text, source, owner, given))])
+-  }
+-  const holding = one.initializer
+-  if (!ts.isArrayLiteralExpression(holding)) {
+-    return refusing(`\`${given.key}\` holds one value, so \`${given.value}\` is a restatement`)
+-  }
+-  if (holding.elements.some((each) => ts.isStringLiteral(each) && each.text === given.value)) {
+-    return refusing(`\`${given.key}\` holds \`${given.value}\` already`)
+-  }
+-  return answered([writing(given.at, text, withValue(text, source, holding, given.value))])
+-}
+-
+-export function runChange(world: World, given: AddPropertyValueAsked): Answer {
+-  return addPropertyValue(world, given)
+-}
+diff --git a/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-data.test.ts b/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-data.test.ts
+deleted file mode 100644
+index 63418b72db7b8752ead32583ff95101f3b077fd0..0000000000000000000000000000000000000000
+--- a/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-data.test.ts
++++ /dev/null
+@@ -1,133 +0,0 @@
+-import { expect, test } from "bun:test"
+-import {
+-  NOTHING_OVER,
+-  type World,
+-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+-import { addPropertyValue } from "./add-property-value.change-mechanical-data.code.ts"
+-
+-const AT = "akasha/held/kept.page-type.ts"
+-
+-const OPENING = `import type { PageType } from "../../pages/types/page-type.page-type.ts"
+-
+-export const kept = {
+-  id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
+-  pageTypeSlug: "page-type",
+-  slug: "kept",
+-`
+-
+-const BODY = `${OPENING}  partSlugs: ["kept/one", "kept/two"],
+-} as const satisfies PageType
+-`
+-
+-const EMPTY = `${OPENING}  partSlugs: [],
+-} as const satisfies PageType
+-`
+-
+-const GAINED_AFTER_SLUG = `${OPENING}  extendsSlug: ["page-type/page"],
+-  partSlugs: ["kept/one", "kept/two"],
+-} as const satisfies PageType
+-`
+-
+-const GAINED_LAST = `${OPENING}  partSlugs: ["kept/one", "kept/two"],
+-  extendsSlug: ["page-type/page"],
+-} as const satisfies PageType
+-`
+-
+-function worldOf(text: string | null): World {
+-  return { root: "/nowhere", index: null as never, textOf: () => text, over: NOTHING_OVER }
+-}
+-
+-test("a value is put after the values the property already holds", () => {
+-  const said = addPropertyValue(worldOf(BODY), {
+-    at: AT,
+-    key: "partSlugs",
+-    value: "kept/three",
+-  })
+-
+-  expect(bodyOf(said)).toContain(`["kept/one", "kept/two", "kept/three"]`)
+-})
+-
+-test("the rest of the body is left as the body was", () => {
+-  const said = addPropertyValue(worldOf(BODY), { at: AT, key: "partSlugs", value: "kept/three" })
+-
+-  expect(bodyOf(said)).toBe(BODY.replace(`"kept/two"`, `"kept/two", "kept/three"`))
+-})
+-
+-test("a property holding no value yet takes the first value", () => {
+-  const said = addPropertyValue(worldOf(EMPTY), { at: AT, key: "partSlugs", value: "kept/one" })
+-
+-  expect(bodyOf(said)).toContain(`partSlugs: ["kept/one"],`)
+-})
+-
+-test("the body is answered under the path the body was worked out from", () => {
+-  const said = addPropertyValue(worldOf(BODY), { at: AT, key: "partSlugs", value: "kept/three" })
+-
+-  expect(said.edits[0]?.path).toBe(AT)
+-  expect(said.edits[0]?.was).toBe(BODY)
+-  expect(said.edits[0]?.from).toBe(undefined)
+-})
+-
+-test("a value the property holds already is refused", () => {
+-  const said = addPropertyValue(worldOf(BODY), { at: AT, key: "partSlugs", value: "kept/two" })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe("`partSlugs` holds `kept/two` already")
+-})
+-
+-test("a property holding one value is refused as a restatement", () => {
+-  const said = addPropertyValue(worldOf(BODY), { at: AT, key: "slug", value: "other" })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe("`slug` holds one value, so `other` is a restatement")
+-})
+-
+-test("a page stating no such key gains that key after the property `after` names", () => {
+-  const said = addPropertyValue(worldOf(BODY), {
+-    at: AT,
+-    key: "extendsSlug",
+-    value: "page-type/page",
+-    after: "slug",
+-  })
+-
+-  expect(bodyOf(said)).toBe(GAINED_AFTER_SLUG)
+-})
+-
+-test("a key the page gains is written last where `after` names no such property", () => {
+-  const said = addPropertyValue(worldOf(BODY), {
+-    at: AT,
+-    key: "extendsSlug",
+-    value: "page-type/page",
+-    after: "definition",
+-  })
+-
+-  expect(bodyOf(said)).toBe(GAINED_LAST)
+-})
+-
+-test("a key the page gains is written last where no `after` is stated", () => {
+-  const said = addPropertyValue(worldOf(BODY), {
+-    at: AT,
+-    key: "extendsSlug",
+-    value: "page-type/page",
+-  })
+-
+-  expect(bodyOf(said)).toBe(GAINED_LAST)
+-})
+-
+-test("a body exporting no object is refused", () => {
+-  const said = addPropertyValue(worldOf("const kept = 1\n"), {
+-    at: AT,
+-    key: "extendsSlug",
+-    value: "page-type/page",
+-  })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(`\`${AT}\` exports no object`)
+-})
+-
+-test("a path holding no body is refused", () => {
+-  const said = addPropertyValue(worldOf(null), { at: AT, key: "partSlugs", value: "kept/three" })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(`\`${AT}\` could not be read`)
+-})
+diff --git a/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-data.ts b/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-data.ts
+deleted file mode 100644
+index bb27fb0f48df6ca5801674b24bb2c23a6a4e99e1..0000000000000000000000000000000000000000
+--- a/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-data.ts
++++ /dev/null
+@@ -1,71 +0,0 @@
+-import type { ChangeMechanicalData } from "../../../data/change-mechanical-data.page-type.ts"
+-
+-export const addPropertyValue = {
+-  id: "01a07932-2568-72a6-8b8e-314ac44c417b",
+-  pageTypeSlug: "change-mechanical-data",
+-  slug: "add-property-value",
+-  changeModeSlug: "change-mode-add",
+-  changeTargetTypeSlug: "change-target-type/file-content",
+-  changeTargetSubtypeSlug: "change-target-subtype/page-property",
+-  definition: "one value put into one page property in a page's body",
+-  code: "ts",
+-  test: "ts",
+-  runsChecks: false,
+-  readersOweReading: false,
+-  writerOwesReading: false,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A value is put after the values the property already holds.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Whether a property holds many values is read from the body rather than from the type.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A property holding one value is refused rather than made a list.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Putting a second value into a property holding one value is a restatement.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A value the property holds already is refused rather than held twice.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page stating no such key gains that key rather than being refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A key the page gains is written after the property `after` names.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A key the page gains is written last where `after` names no such property.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A key the page gains is written last where no `after` is stated.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "`after` is left unread where the page already states the key.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A body exporting no object is refused rather than gaining a key.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The body is answered rather than written.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads the index.",
+-    },
+-  ],
+-} as const satisfies ChangeMechanicalData
+diff --git a/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts b/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..07b2e44be6b5b0da418bde18d95361ebcbfb6c70
+--- /dev/null
++++ b/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts
+@@ -0,0 +1,80 @@
++import { parsedAs } from "@akasha/code/code-source"
++import ts from "typescript"
++import {
++  answered,
++  refusing,
++  writing,
++} from "../../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
++import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
++
++export type AddPropertyValueAsked = {
++  readonly at: string
++  readonly key: string
++  readonly value: string
++  readonly after?: string
++}
++
++export function withValue(
++  text: string,
++  source: ts.SourceFile,
++  holding: ts.ArrayLiteralExpression,
++  value: string
++): string {
++  const put = JSON.stringify(value)
++  const last = holding.elements[holding.elements.length - 1]
++  if (last === undefined) {
++    const opened = holding.getStart(source) + 1
++    return text.slice(0, opened) + put + text.slice(opened)
++  }
++  const ended = last.getEnd()
++  return `${text.slice(0, ended)}, ${put}${text.slice(ended)}`
++}
++
++export function withProperty(
++  text: string,
++  source: ts.SourceFile,
++  owner: ts.ObjectLiteralExpression,
++  given: AddPropertyValueAsked
++): string {
++  const put = `${given.key}: [${JSON.stringify(given.value)}]`
++  const named = owner.properties.find(
++    (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.after
++  )
++  const anchor = named ?? owner.properties[owner.properties.length - 1]
++  if (anchor === undefined) {
++    const opened = owner.getStart(source) + 1
++    return `${text.slice(0, opened)}\n  ${put},\n${text.slice(opened)}`
++  }
++  const started = anchor.getStart(source)
++  const indent = text.slice(text.lastIndexOf("\n", started) + 1, started)
++  const ended = anchor.getEnd()
++  return `${text.slice(0, ended)},\n${indent}${put}${text.slice(ended)}`
++}
++
++export function addPropertyValue(world: World, given: AddPropertyValueAsked): Answer {
++  const text = world.textOf(given.at)
++  if (text === null) return refusing(`\`${given.at}\` could not be read`)
++  const source = parsedAs(given.at, text)
++  const owner = literalIn(source)
++  if (owner === null) return refusing(`\`${given.at}\` exports no object`)
++  const one = owner.properties.find(
++    (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
++  )
++  if (one === undefined || !ts.isPropertyAssignment(one)) {
++    return answered([writing(given.at, text, withProperty(text, source, owner, given))])
++  }
++  const holding = one.initializer
++  if (!ts.isArrayLiteralExpression(holding)) {
++    return refusing(`\`${given.key}\` holds one value, so \`${given.value}\` is a restatement`)
++  }
++  if (holding.elements.some((each) => ts.isStringLiteral(each) && each.text === given.value)) {
++    return refusing(`\`${given.key}\` holds \`${given.value}\` already`)
++  }
++  return answered([writing(given.at, text, withValue(text, source, holding, given.value))])
++}
++
++export function runChange(world: World, given: AddPropertyValueAsked): Answer {
++  return addPropertyValue(world, given)
++}
+diff --git a/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.test.ts b/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e3751840d395bd22b3eb56913b6ed8aafa4ba587
+--- /dev/null
++++ b/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.test.ts
+@@ -0,0 +1,133 @@
++import { expect, test } from "bun:test"
++import {
++  NOTHING_OVER,
++  type World,
++} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
++import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
++import { addPropertyValue } from "./add-property-value.change-mechanical-file-content.code.ts"
++
++const AT = "akasha/held/kept.page-type.ts"
++
++const OPENING = `import type { PageType } from "../../pages/types/page-type.page-type.ts"
++
++export const kept = {
++  id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
++  pageTypeSlug: "page-type",
++  slug: "kept",
++`
++
++const BODY = `${OPENING}  partSlugs: ["kept/one", "kept/two"],
++} as const satisfies PageType
++`
++
++const EMPTY = `${OPENING}  partSlugs: [],
++} as const satisfies PageType
++`
++
++const GAINED_AFTER_SLUG = `${OPENING}  extendsSlug: ["page-type/page"],
++  partSlugs: ["kept/one", "kept/two"],
++} as const satisfies PageType
++`
++
++const GAINED_LAST = `${OPENING}  partSlugs: ["kept/one", "kept/two"],
++  extendsSlug: ["page-type/page"],
++} as const satisfies PageType
++`
++
++function worldOf(text: string | null): World {
++  return { root: "/nowhere", index: null as never, textOf: () => text, over: NOTHING_OVER }
++}
++
++test("a value is put after the values the property already holds", () => {
++  const said = addPropertyValue(worldOf(BODY), {
++    at: AT,
++    key: "partSlugs",
++    value: "kept/three",
++  })
++
++  expect(bodyOf(said)).toContain(`["kept/one", "kept/two", "kept/three"]`)
++})
++
++test("the rest of the body is left as the body was", () => {
++  const said = addPropertyValue(worldOf(BODY), { at: AT, key: "partSlugs", value: "kept/three" })
++
++  expect(bodyOf(said)).toBe(BODY.replace(`"kept/two"`, `"kept/two", "kept/three"`))
++})
++
++test("a property holding no value yet takes the first value", () => {
++  const said = addPropertyValue(worldOf(EMPTY), { at: AT, key: "partSlugs", value: "kept/one" })
++
++  expect(bodyOf(said)).toContain(`partSlugs: ["kept/one"],`)
++})
++
++test("the body is answered under the path the body was worked out from", () => {
++  const said = addPropertyValue(worldOf(BODY), { at: AT, key: "partSlugs", value: "kept/three" })
++
++  expect(said.edits[0]?.path).toBe(AT)
++  expect(said.edits[0]?.was).toBe(BODY)
++  expect(said.edits[0]?.from).toBe(undefined)
++})
++
++test("a value the property holds already is refused", () => {
++  const said = addPropertyValue(worldOf(BODY), { at: AT, key: "partSlugs", value: "kept/two" })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe("`partSlugs` holds `kept/two` already")
++})
++
++test("a property holding one value is refused as a restatement", () => {
++  const said = addPropertyValue(worldOf(BODY), { at: AT, key: "slug", value: "other" })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe("`slug` holds one value, so `other` is a restatement")
++})
++
++test("a page stating no such key gains that key after the property `after` names", () => {
++  const said = addPropertyValue(worldOf(BODY), {
++    at: AT,
++    key: "extendsSlug",
++    value: "page-type/page",
++    after: "slug",
++  })
++
++  expect(bodyOf(said)).toBe(GAINED_AFTER_SLUG)
++})
++
++test("a key the page gains is written last where `after` names no such property", () => {
++  const said = addPropertyValue(worldOf(BODY), {
++    at: AT,
++    key: "extendsSlug",
++    value: "page-type/page",
++    after: "definition",
++  })
++
++  expect(bodyOf(said)).toBe(GAINED_LAST)
++})
++
++test("a key the page gains is written last where no `after` is stated", () => {
++  const said = addPropertyValue(worldOf(BODY), {
++    at: AT,
++    key: "extendsSlug",
++    value: "page-type/page",
++  })
++
++  expect(bodyOf(said)).toBe(GAINED_LAST)
++})
++
++test("a body exporting no object is refused", () => {
++  const said = addPropertyValue(worldOf("const kept = 1\n"), {
++    at: AT,
++    key: "extendsSlug",
++    value: "page-type/page",
++  })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${AT}\` exports no object`)
++})
++
++test("a path holding no body is refused", () => {
++  const said = addPropertyValue(worldOf(null), { at: AT, key: "partSlugs", value: "kept/three" })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${AT}\` could not be read`)
++})
+diff --git a/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts b/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e5fefc97741b6303e4a27f62469131a0de661f20
+--- /dev/null
++++ b/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts
+@@ -0,0 +1,71 @@
++import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
++
++export const addPropertyValue = {
++  id: "01a07932-2568-72a6-8b8e-314ac44c417b",
++  pageTypeSlug: "change-mechanical-file-content",
++  slug: "add-property-value",
++  changeModeSlug: "change-mode-add",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/page-property",
++  definition: "one value put into one page property in a page's body",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A value is put after the values the property already holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Whether a property holds many values is read from the body rather than from the type.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A property holding one value is refused rather than made a list.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Putting a second value into a property holding one value is a restatement.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A value the property holds already is refused rather than held twice.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page stating no such key gains that key rather than being refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A key the page gains is written after the property `after` names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A key the page gains is written last where `after` names no such property.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A key the page gains is written last where no `after` is stated.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "`after` is left unread where the page already states the key.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body exporting no object is refused rather than gaining a key.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body is answered rather than written.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads the index.",
++    },
++  ],
++} as const satisfies ChangeMechanicalFileContent
+diff --git a/changes/mechanical/file-content/add/change-mechanical-file-content-add.domain.ts b/changes/mechanical/file-content/add/change-mechanical-file-content-add.domain.ts
+index 588e654583e9562ab852be94b2a2067ecb0f91df..78d9adefaf0372256dd3a01953e2b3eb15734e03 100644
+--- a/changes/mechanical/file-content/add/change-mechanical-file-content-add.domain.ts
++++ b/changes/mechanical/file-content/add/change-mechanical-file-content-add.domain.ts
+@@ -5,5 +5,5 @@ export const changeMechanicalFileContentAdd = {
+   pageTypeSlug: "domain",
+   slug: "change-mechanical-file-content-add",
+   definition: "a mechanical change adding to what a file holds",
+-  partSlugs: ["change-mechanical-data/add-property-value"],
++  partSlugs: ["change-mechanical-file-content/add-property-value"],
+ } as const satisfies Domain
