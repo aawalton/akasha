@@ -1,5 +1,5 @@
 diff --git a/collections/collection.page-type.ts b/collections/collection.page-type.ts
-index 7bcc832c90e0a2842d943bce0a6b3ae53c60b3ab..d0a1aecd6486d73e965659142ca99d118373eebe 100644
+index 7bcc832c90e0a2842d943bce0a6b3ae53c60b3ab..6326cef3d3ce6d0fbe4bacfc6ceae653580ccf4f 100644
 --- a/collections/collection.page-type.ts
 +++ b/collections/collection.page-type.ts
 @@ -2,7 +2,6 @@ import type { Page } from "@akasha/pages/page"
@@ -18,3 +18,11 @@ index 7bcc832c90e0a2842d943bce0a6b3ae53c60b3ab..d0a1aecd6486d73e965659142ca99d11
    following?: Following
    ownLength?: OwnLength
    ownProgress?: OwnProgress
+@@ -80,7 +78,6 @@ export const collection = {
+     "relation-property/unit-slug",
+     "select-property/status",
+     "text-property/collection-author",
+-    "text-property/collection-description",
+     "text-property/collection-tags",
+     "workspace-package/great-courses",
+     "workspace-package/royal-road",
