@@ -9,5 +9,5 @@ export const containerOomKilled = {
   domain: "infrastructure",
   summary:
     "Container {{ $labels.namespace }}/{{ $labels.pod }}/{{ $labels.container }} is OOM-killed and restarting",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

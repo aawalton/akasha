@@ -9,5 +9,5 @@ export const postgresHighConnections = {
   domain: "infrastructure",
   summary:
     "Postgres {{ $labels.server }} at {{ $value | humanizePercentage }} of its own max_connections",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

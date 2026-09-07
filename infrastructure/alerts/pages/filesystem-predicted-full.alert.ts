@@ -9,5 +9,5 @@ export const filesystemPredictedFull = {
   domain: "infrastructure",
   summary:
     "Filesystem {{ $labels.mountpoint }} on {{ $labels.instance }} predicted to fill within 7 days",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

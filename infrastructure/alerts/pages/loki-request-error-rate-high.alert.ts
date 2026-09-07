@@ -8,5 +8,5 @@ export const lokiRequestErrorRateHigh = {
   definition: "Loki is failing a large share of the requests it is given",
   domain: "infrastructure",
   summary: "'Loki is returning 5xx on {{ $value | printf \"%.1f\" }}% of requests'",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

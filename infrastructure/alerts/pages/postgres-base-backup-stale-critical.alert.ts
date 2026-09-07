@@ -10,5 +10,5 @@ export const postgresBaseBackupStaleCritical = {
   domain: "infrastructure",
   summary:
     "Newest Postgres base backup is {{ $value | humanizeDuration }} old (>50h — two+ missed dailies)",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

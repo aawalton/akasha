@@ -8,5 +8,5 @@ export const nodeMemoryPressure = {
   definition: "a node has less memory left than it needs to keep scheduling work",
   domain: "infrastructure",
   summary: "Node {{ $labels.instance }} memory available < 10%",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

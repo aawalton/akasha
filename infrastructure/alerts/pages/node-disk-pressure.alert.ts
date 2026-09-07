@@ -8,5 +8,5 @@ export const nodeDiskPressure = {
   definition: "a node has less disk left than it needs to keep scheduling work",
   domain: "infrastructure",
   summary: "Node {{ $labels.instance }} disk available < 15%",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

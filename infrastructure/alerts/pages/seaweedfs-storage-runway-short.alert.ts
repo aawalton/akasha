@@ -8,5 +8,5 @@ export const seaweedfsStorageRunwayShort = {
   definition: "SeaweedFS is filling fast enough to run out of room soon",
   domain: "infrastructure",
   summary: "SeaweedFS store on {{ $labels.instance }} predicted to fill within 7 days",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

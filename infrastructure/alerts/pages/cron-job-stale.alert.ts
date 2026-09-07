@@ -9,5 +9,5 @@ export const cronJobStale = {
   domain: "infrastructure",
   summary:
     "CronJob {{ $labels.namespace }}/{{ $labels.cronjob }} has not succeeded within 2x its schedule",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

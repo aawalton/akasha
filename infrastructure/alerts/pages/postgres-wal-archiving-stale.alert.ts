@@ -8,5 +8,5 @@ export const postgresWalArchivingStale = {
   definition: "Postgres has not archived any write-ahead log for longer than is allowed",
   domain: "infrastructure",
   summary: "No successful WAL archive in {{ $value | humanizeDuration }}",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

@@ -8,5 +8,5 @@ export const domainRegistrationExpiringSoon = {
   definition: "a domain name's registration is close to expiring",
   domain: "infrastructure",
   summary: "Domain {{ $labels.domain }} registration expires in {{ $value | humanizeDuration }}",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

@@ -8,5 +8,5 @@ export const certManagerCertNotReady = {
   definition: "cert-manager has a certificate it has not been able to make ready",
   domain: "infrastructure",
   summary: "TLS cert {{ $labels.namespace }}/{{ $labels.name }} is not Ready",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

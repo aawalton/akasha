@@ -8,5 +8,5 @@ export const postgresBackupMetricAbsent = {
   definition: "nothing is reporting when Postgres was last backed up",
   domain: "infrastructure",
   summary: "Postgres backup-age gauge is absent — scrape lost or plugin metric dead",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

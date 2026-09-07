@@ -8,5 +8,5 @@ export const gitMirrorDestinationUnreachable = {
   definition: "a repository's mirror destination did not answer",
   domain: "git-repos",
   summary: "git mirror destination for {{ $labels.repo }} could not be read",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

@@ -8,5 +8,5 @@ export const statefulSetReplicasMismatch = {
   definition: "a stateful set has been running fewer replicas than it asks for",
   domain: "infrastructure",
   summary: "StatefulSet {{ $labels.namespace }}/{{ $labels.statefulset }} replicas mismatch",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

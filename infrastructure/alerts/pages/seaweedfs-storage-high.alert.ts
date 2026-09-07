@@ -8,5 +8,5 @@ export const seaweedfsStorageHigh = {
   definition: "SeaweedFS is holding close to as much as it has room for",
   domain: "infrastructure",
   summary: "'SeaweedFS store on {{ $labels.instance }} is {{ $value | printf \"%.1f\" }}% free'",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

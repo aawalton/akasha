@@ -8,5 +8,5 @@ export const cgroupPsiCollectorStale = {
   definition: "the collector reading how long work waits on cgroup resources has stopped writing",
   domain: "infrastructure",
   summary: "cgroup-psi collector on {{ $labels.instance }} has not published for over 300s",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

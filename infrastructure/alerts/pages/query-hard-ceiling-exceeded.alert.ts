@@ -9,5 +9,5 @@ export const queryHardCeilingExceeded = {
   domain: "query-performance",
   summary:
     "'Statement running {{ $value | printf \"%.0f\" }}s (queryid {{ $labels.queryid }}, role {{ $labels.role }}) exceeds the 30s ceiling'",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

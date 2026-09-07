@@ -8,5 +8,5 @@ export const targetDown = {
   definition: "Prometheus cannot scrape a target it is configured to reach",
   domain: "infrastructure",
   summary: "Scrape target {{ $labels.job }} / {{ $labels.instance }} is down",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

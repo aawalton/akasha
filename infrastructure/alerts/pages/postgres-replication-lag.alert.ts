@@ -8,5 +8,5 @@ export const postgresReplicationLag = {
   definition: "a Postgres replica has fallen behind its primary",
   domain: "infrastructure",
   summary: "Postgres replica {{ $labels.application_name }} lagging > 5m",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

@@ -9,5 +9,5 @@ export const claudeAccountLoginNeeded = {
   summary:
     "Claude account {{ $labels.account }} needs a login — access expiry {{ $value | humanizeDuration }} past-due",
   personSlug: "alan",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

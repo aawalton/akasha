@@ -8,5 +8,5 @@ export const claudeAccountTokenExpiryMetricAbsent = {
   definition: "nothing is reporting when the Claude accounts' credentials expire",
   domain: "claude-account",
   summary: "claude-account token-expiry gauge is absent — auth-death alert path blind",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

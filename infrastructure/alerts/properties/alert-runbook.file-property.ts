@@ -1,6 +1,6 @@
 import type { FileProperty } from "@akasha/pages/file-property"
 
-export type AlertDescription = "txt"
+export type AlertRunbook = "txt"
 
 export const alertRunbook = {
   id: "01a06755-0778-7275-8076-4aec6002693b",

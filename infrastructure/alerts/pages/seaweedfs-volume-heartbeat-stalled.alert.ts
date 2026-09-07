@@ -8,5 +8,5 @@ export const seaweedfsVolumeHeartbeatStalled = {
   definition: "a SeaweedFS volume server has stopped reporting itself alive",
   domain: "infrastructure",
   summary: "SeaweedFS master has received no volume-server heartbeats in 10m",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

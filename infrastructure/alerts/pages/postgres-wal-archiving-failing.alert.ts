@@ -8,5 +8,5 @@ export const postgresWalArchivingFailing = {
   definition: "Postgres is failing to archive its write-ahead log",
   domain: "infrastructure",
   summary: "Postgres WAL archiving is failing ({{ $value }} failures in 15m)",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

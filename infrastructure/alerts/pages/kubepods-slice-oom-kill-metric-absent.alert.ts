@@ -8,5 +8,5 @@ export const kubepodsSliceOomKillMetricAbsent = {
   definition: "nothing is reporting out-of-memory kills in the kubepods cgroup slice",
   domain: "infrastructure",
   summary: "Kubepods slice-OOM tripwire series is absent — the tripwire is blind",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

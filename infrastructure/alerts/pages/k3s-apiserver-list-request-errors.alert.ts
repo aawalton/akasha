@@ -8,5 +8,5 @@ export const k3sApiserverListRequestErrors = {
   definition: "the k3s apiserver is failing list requests",
   domain: "infrastructure",
   summary: "k3s apiserver LIST requests returning 5xx for resource={{ $labels.resource }}",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

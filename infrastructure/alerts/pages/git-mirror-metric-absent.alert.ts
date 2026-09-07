@@ -8,5 +8,5 @@ export const gitMirrorMetricAbsent = {
   definition: "nothing is reporting whether the repositories are mirrored",
   domain: "git-repos",
   summary: "git mirror gauge is absent",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

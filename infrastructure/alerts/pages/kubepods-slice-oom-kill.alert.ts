@@ -9,5 +9,5 @@ export const kubepodsSliceOomKill = {
   domain: "infrastructure",
   summary:
     "Kubepods parent slice on {{ $labels.instance }} killed a container that was within its own memory limit",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

@@ -9,5 +9,5 @@ export const macbookInferenceProbeStale = {
     "the probe watching the macbook inference pool has stopped writing while its host is up",
   domain: "inference",
   summary: "Macbook inference liveness probe is stale — monitoring blind",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

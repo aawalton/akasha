@@ -8,5 +8,5 @@ export const postgresBaseBackupStale = {
   definition: "no Postgres base backup has completed for longer than is allowed",
   domain: "infrastructure",
   summary: "Newest Postgres base backup is {{ $value | humanizeDuration }} old (>26h)",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

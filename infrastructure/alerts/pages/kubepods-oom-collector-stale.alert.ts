@@ -10,5 +10,5 @@ export const kubepodsOomCollectorStale = {
   domain: "infrastructure",
   summary:
     "Kubepods OOM collector on {{ $labels.instance }} has stopped refreshing — tripwire reading is frozen",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

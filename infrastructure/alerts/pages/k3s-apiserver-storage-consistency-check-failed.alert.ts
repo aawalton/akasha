@@ -8,5 +8,5 @@ export const k3sApiserverStorageConsistencyCheckFailed = {
   definition: "the k3s apiserver found its storage disagreeing with itself",
   domain: "infrastructure",
   summary: "k3s apiserver detected cache/etcd inconsistency for resource={{ $labels.resource }}",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

@@ -8,5 +8,5 @@ export const k3sKineRangeLatencyHigh = {
   definition: "kine is taking a long time to answer the k3s apiserver's range reads",
   domain: "infrastructure",
   summary: "k3s kine range-query p99 > 500 ms (operation={{ $labels.operation }})",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

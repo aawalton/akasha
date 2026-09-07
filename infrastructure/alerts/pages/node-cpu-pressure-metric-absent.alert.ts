@@ -8,5 +8,5 @@ export const nodeCpuPressureMetricAbsent = {
   definition: "nothing is reporting how long work on a node waits for CPU",
   domain: "infrastructure",
   summary: "Node PSI CPU series absent — scrape lost or metric dead",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

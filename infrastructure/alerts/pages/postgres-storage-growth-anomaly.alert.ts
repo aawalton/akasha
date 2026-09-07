@@ -8,5 +8,5 @@ export const postgresStorageGrowthAnomaly = {
   definition: "Postgres is growing on disk faster than it usually does",
   domain: "infrastructure",
   summary: "Postgres storage growth rate is abnormally high ({{ $value | humanize }}B/s vs normal)",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

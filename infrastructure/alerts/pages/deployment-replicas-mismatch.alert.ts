@@ -8,5 +8,5 @@ export const deploymentReplicasMismatch = {
   definition: "a deployment has been running fewer replicas than it asks for",
   domain: "infrastructure",
   summary: "Deployment {{ $labels.namespace }}/{{ $labels.deployment }} replicas mismatch",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

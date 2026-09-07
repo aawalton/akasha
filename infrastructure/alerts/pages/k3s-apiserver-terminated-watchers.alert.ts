@@ -8,5 +8,5 @@ export const k3sApiserverTerminatedWatchers = {
   definition: "the k3s apiserver is cutting off clients watching for changes",
   domain: "infrastructure",
   summary: "k3s apiserver terminated >10 pods watchers in 5 min",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

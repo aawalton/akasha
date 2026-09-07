@@ -8,5 +8,5 @@ export const seaweedfsVolumeServerDown = {
   definition: "a SeaweedFS volume server is not answering",
   domain: "infrastructure",
   summary: "SeaweedFS volume server is down",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

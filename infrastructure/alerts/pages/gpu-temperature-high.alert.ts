@@ -8,5 +8,5 @@ export const gpuTemperatureHigh = {
   definition: "a GPU is running hotter than it should be allowed to",
   domain: "infrastructure",
   summary: "GPU temperature > 85C on {{ $labels.instance }}",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

@@ -8,5 +8,5 @@ export const macbookInferencePoolUnreachable = {
   definition: "the macbook inference pool is not answering",
   domain: "inference",
   summary: "Macbook inference pool not serving ({{ $labels.probe_result }})",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

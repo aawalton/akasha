@@ -8,5 +8,5 @@ export const lokiScrapeJobAbsent = {
   definition: "Prometheus has no Loki job to scrape",
   domain: "infrastructure",
   summary: "The loki scrape job has no targets — Loki is unmonitored again",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

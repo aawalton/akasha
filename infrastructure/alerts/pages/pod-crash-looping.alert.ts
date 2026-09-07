@@ -8,5 +8,5 @@ export const podCrashLooping = {
   definition: "a pod is restarting over and over instead of staying up",
   domain: "infrastructure",
   summary: "Pod {{ $labels.namespace }}/{{ $labels.pod }} is crash looping",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

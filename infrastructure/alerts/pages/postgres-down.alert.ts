@@ -8,5 +8,5 @@ export const postgresDown = {
   definition: "Postgres is not answering",
   domain: "infrastructure",
   summary: "Postgres exporter reports database is down",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

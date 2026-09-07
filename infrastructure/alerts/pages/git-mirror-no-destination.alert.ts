@@ -8,5 +8,5 @@ export const gitMirrorNoDestination = {
   definition: "a repository is served with no mirror destination declared for it",
   domain: "git-repos",
   summary: "git repo {{ $labels.repo }} declares no mirror destination",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

@@ -8,5 +8,5 @@ export const gitMirrorProbeUnauthenticated = {
   definition: "the mirror probe's credential was refused, so nothing is known about the mirrors",
   domain: "git-repos",
   summary: "git mirror probe could not authenticate for {{ $labels.repo }}",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

@@ -8,5 +8,5 @@ export const domainRegistrationExpiryMetricAbsent = {
   definition: "nothing is reporting when the domain names expire",
   domain: "infrastructure",
   summary: "domain registration expiry gauge is absent",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

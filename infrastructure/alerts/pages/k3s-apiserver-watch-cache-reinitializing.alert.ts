@@ -8,5 +8,5 @@ export const k3sApiserverWatchCacheReinitializing = {
   definition: "the k3s apiserver is rebuilding the cache it serves watches from",
   domain: "infrastructure",
   summary: "k3s apiserver pods watch cache reinitialized >1× in 15 min",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

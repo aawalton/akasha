@@ -8,5 +8,5 @@ export const lokiPushLatencyHigh = {
   definition: "Loki is taking a long time to accept the logs pushed to it",
   domain: "infrastructure",
   summary: "'Loki push p99 latency is {{ $value | printf \"%.2f\" }}s'",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

@@ -9,5 +9,5 @@ export const lokiIngesterStreamsHigh = {
   domain: "infrastructure",
   summary:
     "'Loki ingester holds {{ $value | printf \"%.0f\" }} in-memory streams (tenant {{ $labels.tenant }})'",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

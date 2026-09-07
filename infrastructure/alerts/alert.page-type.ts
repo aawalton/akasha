@@ -6,7 +6,7 @@ import type { PersonSlug } from "../../seat-system/seats/properties/person-slug.
 import type { AlertDomain } from "./properties/alert-domain.text-property.ts"
 import type { AlertPersonaSlug } from "./properties/alert-persona-slug.relation-property.ts"
 import type { AlertRoleSlug } from "./properties/alert-role-slug.text-property.ts"
-import type { AlertDescription } from "./properties/alert-runbook.file-property.ts"
+import type { AlertRunbook } from "./properties/alert-runbook.file-property.ts"
 import type { AlertSummary } from "./properties/alert-summary.text-property.ts"
 
 export type Alert = Page & {
@@ -15,7 +15,7 @@ export type Alert = Page & {
   domain?: AlertDomain
   summary?: AlertSummary
   personSlug?: PersonSlug
-  description?: AlertDescription
+  runbook?: AlertRunbook
   personaSlug?: AlertPersonaSlug
   roleSlug?: AlertRoleSlug
 }

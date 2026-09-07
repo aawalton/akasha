@@ -9,5 +9,5 @@ export const nodeCpuPressureHigh = {
   domain: "infrastructure",
   summary:
     "Node {{ $labels.instance }} CPU pressure {{ $value | humanizePercentage }} — tasks stalled waiting on CPU",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

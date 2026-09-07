@@ -8,5 +8,5 @@ export const jobFailed = {
   definition: "a job finished without succeeding",
   domain: "infrastructure",
   summary: "Job(s) owned by {{ $labels.namespace }}/{{ $labels.owner_name }} failed",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

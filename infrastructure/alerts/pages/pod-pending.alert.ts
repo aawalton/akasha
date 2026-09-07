@@ -8,5 +8,5 @@ export const podPending = {
   definition: "a pod has stayed unscheduled instead of being placed on a node",
   domain: "infrastructure",
   summary: "Pod {{ $labels.namespace }}/{{ $labels.pod }} stuck Pending > 15m",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

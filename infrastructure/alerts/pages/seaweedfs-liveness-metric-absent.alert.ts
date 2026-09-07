@@ -8,5 +8,5 @@ export const seaweedfsLivenessMetricAbsent = {
   definition: "nothing is reporting whether SeaweedFS is alive",
   domain: "infrastructure",
   summary: "SeaweedFS master metrics are absent — scrape lost or metricsPort dropped",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

@@ -9,5 +9,5 @@ export const containerMemoryNearLimit = {
   domain: "infrastructure",
   summary:
     "Container {{ $labels.namespace }}/{{ $labels.container }} peaked at {{ $value | humanizePercentage }} of its memory limit",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

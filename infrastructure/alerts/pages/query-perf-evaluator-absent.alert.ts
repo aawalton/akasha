@@ -8,5 +8,5 @@ export const queryPerfEvaluatorAbsent = {
   definition: "nothing is evaluating how long Postgres queries take",
   domain: "infrastructure",
   summary: "Query-perf evaluator heartbeat absent (pg_query_perf_evaluator_up)",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

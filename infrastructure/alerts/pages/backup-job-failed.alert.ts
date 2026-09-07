@@ -8,5 +8,5 @@ export const backupJobFailed = {
   definition: "a backup job finished without succeeding",
   domain: "infrastructure",
   summary: "Backup job {{ $labels.job_name }} failed in {{ $labels.namespace }}",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

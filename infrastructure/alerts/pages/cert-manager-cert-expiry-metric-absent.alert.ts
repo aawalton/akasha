@@ -8,5 +8,5 @@ export const certManagerCertExpiryMetricAbsent = {
   definition: "nothing is reporting when cert-manager's certificates expire",
   domain: "infrastructure",
   summary: "cert-manager expiry gauge is absent — scrape lost or metric dead",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

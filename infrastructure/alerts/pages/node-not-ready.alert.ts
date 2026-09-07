@@ -8,5 +8,5 @@ export const nodeNotReady = {
   definition: "a node has stopped reporting itself ready to run work",
   domain: "infrastructure",
   summary: "Node {{ $labels.node }} is NotReady",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert

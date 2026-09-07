@@ -8,5 +8,5 @@ export const backupStale = {
   definition: "no backup has completed for longer than is allowed",
   domain: "infrastructure",
   summary: "Backup CronJob {{ $labels.cronjob }} has not succeeded within 1.5x its own schedule",
-  description: "txt",
+  runbook: "txt",
 } as const satisfies Alert
