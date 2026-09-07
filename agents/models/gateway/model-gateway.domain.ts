@@ -41,7 +41,6 @@ export const modelGateway = {
     "module/proxy-entry",
     "module/proxy-headers",
     "module/proxy-process",
-    "module/proxy-run",
     "module/proxy-seats",
     "module/proxy-serving",
     "module/proxy-start",
