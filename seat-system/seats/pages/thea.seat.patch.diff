@@ -13,3 +13,15 @@ index e3f6cfa2b65c6ab6ff2b546a9eabc783b6bb1d50..87daf1b2789b67c5d8822ad0ecb5e950
    const at = one.unique === null ? -1 : REACHES.indexOf(one.unique)
    return at === -1 ? REACHES.length : at
  }
+diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts
+index 3dbe6901374fced105e2012b48450cdbf9f04744..8cf9a1614ed9c719593ca4b4fc1e01934fe7d971 100644
+--- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts
++++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts
+@@ -8,6 +8,7 @@ import {
+   judgedIn,
+   looseningIn,
+   underEach,
++  widthOf,
+ } from "../key-names-one-property/key-names-one-property.code-check.code.ts"
+ import { carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
+ 
