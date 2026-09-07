@@ -1,0 +1,13 @@
+diff --git a/command-system/commit-author/commit-author.module.ts b/command-system/commit-author/commit-author.module.ts
+index e9eda529b54fadaf20b3809db8caaf9f608b9e71..304f70ec412ae037dda17e844bfbf9f1de7832e8 100644
+--- a/command-system/commit-author/commit-author.module.ts
++++ b/command-system/commit-author/commit-author.module.ts
+@@ -14,7 +14,7 @@ export const commitAuthor = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A seat acting under the default persona is authored as Claude, not under that persona.",
++        "A seat acting under the default persona is authored as Claude rather than under that persona.",
+     },
+     {
+       invariantKind: "departure",
