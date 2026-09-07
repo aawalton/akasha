@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-custom-menu/custom-menu-hooks/custom-menu-hooks.module.ts b/temper/temper-lib-custom-menu/custom-menu-hooks/custom-menu-hooks.module.ts
+index 8bd527e842b67c8151117b8d0424cc8ead770a68..ac6952e9bbe8872ec7a526ee89fcea21764826cd 100644
+--- a/temper/temper-lib-custom-menu/custom-menu-hooks/custom-menu-hooks.module.ts
++++ b/temper/temper-lib-custom-menu/custom-menu-hooks/custom-menu-hooks.module.ts
+@@ -17,7 +17,7 @@ export const customMenuHooks = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A held modifier key turns an inventory context menu into a special one.",
++      statement: "A held modifier key turns an inventory context menu into a special menu.",
+     },
+   ],
+ } as const satisfies Module
