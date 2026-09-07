@@ -1,3 +1,42 @@
+diff --git a/pages/access/file-read/file-read.module.code.ts b/pages/access/file-read/file-read.module.code.ts
+index 05b40a41b01c5812f8622a378281627e5859784b..fa7bfd66f64f3965419379108cd4c11835152472 100644
+--- a/pages/access/file-read/file-read.module.code.ts
++++ b/pages/access/file-read/file-read.module.code.ts
+@@ -14,6 +14,7 @@ import {
+   ranked,
+ } from "../file-narrow/file-narrow.module.code.ts"
+ import { buildRawPageRows } from "../file-rows/file-rows.module.code.ts"
++import { rosterOverServer, writesOverServer } from "../over-server/over-server.module.code.ts"
+ import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
+ import { flattenRow } from "../routing-core/routing-core.module.code.ts"
+ import type { PageCursor, PageOrder, PageSelect } from "../types/types.module.code.ts"
+@@ -85,7 +86,7 @@ export function forgetFileBackedPageTypes(): undefined {
+   pending = null
+ }
+ 
+-async function rosterFrom(ask: (query: Query) => Promise<Asked>): Promise<ReadonlySet<string>> {
++async function rosterAsked(ask: (query: Query) => Promise<Asked>): Promise<ReadonlySet<string>> {
+   const asked = await ask({ pageTypeSlug: PAGE_TYPE, keys: ["slug"] })
+   if ("refused" in asked) throw new RosterUnreachable(`${NO_ROSTER}: ${asked.refused}`)
+   const slugs = new Set<string>()
+@@ -93,6 +94,17 @@ async function rosterFrom(ask: (query: Query) => Promise<Asked>): Promise<Readon
+     const slug = row.slug
+     if (typeof slug === "string" && slug !== "") slugs.add(slug)
+   }
++  return slugs
++}
++
++async function rosterInABrowser(): Promise<ReadonlySet<string>> {
++  const answered = await rosterOverServer()
++  if ("refused" in answered) throw new RosterUnreachable(`${NO_ROSTER}: ${answered.refused}`)
++  return answered.slugs
++}
++
++async function rosterFrom(ask: (query: Query) => Promise<Asked>): Promise<ReadonlySet<string>> {
++  const slugs = writesOverServer() ? await rosterInABrowser() : await rosterAsked(ask)
+   if (slugs.size === 0) throw new RosterUnreachable(NO_PAGE_TYPE)
+   return slugs
+ }
 diff --git a/pages/access/over-server/over-server.module.code.ts b/pages/access/over-server/over-server.module.code.ts
 index 1f3f2f039100fc43f320f3ff3b2a7a40d92236d4..c376344fdeacd8f50df3d18a47a3dc15aea34aef 100644
 --- a/pages/access/over-server/over-server.module.code.ts
