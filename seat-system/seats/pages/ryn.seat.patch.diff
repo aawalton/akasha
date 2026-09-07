@@ -1,0 +1,18 @@
+diff --git a/seat-system/recipient-resolving/seat-identity/seat-identity.module.ts b/seat-system/recipient-resolving/seat-identity/seat-identity.module.ts
+index 20d083c34dbb755ed48517ea545b6c36134eb0ce..a58b232ded5c6d464f405e2b8e901ae5fe354bee 100644
+--- a/seat-system/recipient-resolving/seat-identity/seat-identity.module.ts
++++ b/seat-system/recipient-resolving/seat-identity/seat-identity.module.ts
+@@ -9,8 +9,11 @@ export const seatIdentity = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A seat still there is answered by akasha, and a seat that has stopped by the history.",
++      statement: "A seat still there is answered by akasha.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat that has stopped is answered by the history.",
+     },
+     {
+       invariantKind: "departure",
