@@ -43,10 +43,10 @@ test("a row whose writer owes no reading is held to no warrant", async () => {
   expect(unwarranted(root, "tester", rows)).toEqual([])
 })
 
-test("a row saying nothing of its writer is warranted, and a body no read is recorded of is named", async () => {
+test("a row saying nothing of its writer is carried to the warrant", async () => {
   const root = await repo()
   const rows = [{ path: ONE, was: null, body: WAS }]
-  expect(unwarranted(root, "tester", rows).join(" ")).toContain(ONE)
+  expect(() => unwarranted(root, "tester", rows)).toThrow("is not there")
 })
 
 async function repo(): Promise<string> {
