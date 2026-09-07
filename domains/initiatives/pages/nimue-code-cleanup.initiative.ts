@@ -1,11 +1,11 @@
 import type { Initiative } from "../initiative.page-type.ts"
 
-export const veraCodeCleanup = {
+export const nimueCodeCleanup = {
   id: "01a07693-7ea9-7fa0-ab70-5d8e33381c8c",
   pageTypeSlug: "initiative",
-  slug: "vera-code-cleanup",
+  slug: "nimue-code-cleanup",
   domainSlug: "workspace-package/code-system",
-  personaSlug: "vera",
+  personaSlug: "nimue",
   intents: [
     {
       statement: "All code-system files are in the code/ folder.",
