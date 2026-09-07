@@ -1,10 +1,10 @@
-import type { TextProperty } from "@akasha/pages/text-property"
+import type { StandardAgentEnglishProperty } from "../../standard-agent-english/standard-agent-english-properties/standard-agent-english-property.page-type.ts"
 
 export type Constraints = string
 
 export const constraints = {
   id: "01a058a3-b01f-7000-8216-401fe8124486",
-  pageTypeSlug: "text-property",
+  pageTypeSlug: "standard-agent-english-property",
   slug: "constraints",
   propertySlug: "constraints",
   definition: "a bound the work is done within",
@@ -20,4 +20,4 @@ export const constraints = {
       statement: "A constraint that no longer bounds the work is deleted.",
     },
   ],
-} as const satisfies TextProperty
+} as const satisfies StandardAgentEnglishProperty

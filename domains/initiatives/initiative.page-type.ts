@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { DomainSlug } from "../properties/domain-slug.relation-property.ts"
-import type { Constraints } from "./properties/constraints.text-property.ts"
+import type { Constraints } from "./properties/constraints.standard-agent-english-property.ts"
 import type { InitiativePersonaSlug } from "./properties/initiative-persona-slug.relation-property.ts"
 import type { Intents } from "./properties/intents.record-property.ts"
 import type { ParentSlug } from "./properties/parent-slug.relation-property.ts"
@@ -25,7 +25,7 @@ export const initiative = {
     "relation-property/initiative-persona-slug",
     "relation-property/initiative-slug",
     "relation-property/parent-slug",
-    "text-property/constraints",
+    "standard-agent-english-property/constraints",
     "standard-agent-english-property/intent-statement",
     "standard-agent-english-property/working-memory",
   ],
@@ -35,7 +35,12 @@ export const initiative = {
     { pagePropertySlug: "relation-property/initiative-persona-slug", required: true, many: false },
     { pagePropertySlug: "relation-property/parent-slug", required: false, many: false },
     { pagePropertySlug: "record-property/intents", required: false, many: true, maxCount: null },
-    { pagePropertySlug: "text-property/constraints", required: false, many: true, maxCount: 30 },
+    {
+      pagePropertySlug: "standard-agent-english-property/constraints",
+      required: false,
+      many: true,
+      maxCount: 30,
+    },
   ],
   mortal: true,
   invariants: [
