@@ -12,8 +12,6 @@ export type Asked = {
   readonly new: string
 }
 
-// A passage the body holds twice is refused rather than worked at the first, because a caller who
-// meant the second place gets a body that reads right and is wrong.
 export function changeFile(world: World, given: Asked): Answer {
   if (given.old === "") {
     return refusing("a passage of no characters names no place in a body")
