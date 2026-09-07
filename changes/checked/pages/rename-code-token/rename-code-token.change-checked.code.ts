@@ -2,6 +2,7 @@ import {
   declaredNamed,
   declaredOn,
   exportsNamed,
+  placingOver,
   readingOf,
   type Typing,
   typed,
@@ -112,7 +113,9 @@ export async function renameCodeToken(world: World, given: RenameCodeTokenAsked)
   if (!typed(given.at)) return refusing(`\`${given.at}\` names no TypeScript body`)
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
-  const typing = typingOver(world.root, [given.at], readingOf(world.root, world.textOf))
+  const placed = placingOver(world.index.everyPath(), world.textOf)
+  const read = readingOf(world.root, world.textOf, placed)
+  const typing = typingOver(world.root, [given.at], read, placed)
   if (exportsNamed(typing, given.at, given.of).length > 0) return await exported(world, given)
   const declared = declaredNamed(typing, given.at, given.of)
   if (declared.length === 0) return refusing(`\`${given.at}\` declares no \`${given.of}\``)

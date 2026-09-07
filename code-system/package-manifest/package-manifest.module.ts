@@ -22,6 +22,14 @@ export const packageManifest = {
     },
     {
       invariantKind: "departure",
+      statement: "The name a manifest calls its package is answered apart from the ways in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that is not there calls its package nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A target that is no string names no way in.",
     },
     {

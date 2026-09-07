@@ -154,6 +154,14 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
+      statement: "A workspace package is reached where the manifest the change leaves sits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package the change brings into being needs no link on disk to be reached.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A manifest the change carries reaches the files its ways in name.",
     },
     {

@@ -1,6 +1,6 @@
-import { readdirSync } from "node:fs"
+import { existsSync, readdirSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { textIn } from "@akasha/code/body-text"
+import { textIn, textOf } from "@akasha/code/body-text"
 import { parsedAs } from "@akasha/code/code-source"
 import { specifiersIn } from "@akasha/code/code-specifier"
 import {
@@ -8,6 +8,8 @@ import {
   directoriesIn,
   linkedOf,
   manifested,
+  type Placing,
+  placingOver,
   readingOf,
   servedOf,
 } from "@akasha/code/code-typing"
@@ -47,7 +49,11 @@ const CONFIGS = [universalConfig.fileName, lua50Config.fileName]
 
 const CONFIG_NAME = "tsconfig.typecheck.json"
 
-const TYPES_AT = "node_modules/@types"
+const PACKAGES_AT = "node_modules"
+
+const TYPES_IN = "@types"
+
+const MANIFEST_NAME = "package.json"
 
 const FIRST_LINE = 1
 
@@ -145,15 +151,23 @@ export function mintingIn(change: Change, keys: readonly string[], index: Answer
   }
 }
 
-export function bodiesOf(change: Change, minting: Minting): (at: string) => string | undefined {
+export function bodiesOf(
+  change: Change,
+  minting: Minting,
+  placed: Placing
+): (at: string) => string | undefined {
   const root = resolve(change.root)
   const held = new Map<string, string | undefined>()
-  const base = readingOf(root, (rel) => {
-    const bytes = change.after(rel)
-    return bytes === null ? null : minting(rel, textIn(bytes))
-  })
+  const base = readingOf(
+    root,
+    (rel) => {
+      const bytes = change.after(rel)
+      return bytes === null ? null : minting(rel, textIn(bytes))
+    },
+    placed
+  )
   return (path) => {
-    const at = linkedOf(root, resolve(path))
+    const at = linkedOf(root, resolve(path), placed)
     if (held.has(at)) return held.get(at)
     const said = base(at)
     held.set(at, said)
@@ -162,11 +176,8 @@ export function bodiesOf(change: Change, minting: Minting): (at: string) => stri
 }
 
 export function typesIn(root: string): readonly string[] {
-  try {
-    return readdirSync(join(root, TYPES_AT)).sort()
-  } catch {
-    return []
-  }
+  const at = join(root, PACKAGES_AT, TYPES_IN)
+  return existsSync(at) ? readdirSync(at).sort() : []
 }
 
 export function configOf(root: string, named: readonly string[]): string {
@@ -177,11 +188,12 @@ export function servingOf(
   root: string,
   at: string,
   config: string,
-  read: (path: string) => string | undefined
+  read: (path: string) => string | undefined,
+  placed: Placing
 ): (name: string) => string | null | undefined {
   return (name) => {
     if (name === at) return config
-    if (servedOf(root, resolve(name)) === null) return undefined
+    if (servedOf(root, resolve(name), placed) === null) return undefined
     const body = read(name)
     return body === undefined ? null : body
   }
@@ -198,9 +210,11 @@ export function existingOf(
 
 export function foldersIn(
   root: string,
-  named: readonly string[]
+  named: readonly string[],
+  placed: Placing
 ): (name: string) => boolean | undefined {
-  const held = directoriesIn(root, named)
+  const linked = [...placed.keys()].map((one) => join(PACKAGES_AT, one, MANIFEST_NAME))
+  const held = directoriesIn(root, [...named, ...linked])
   return (name) => (held.has(resolve(name)) ? true : undefined)
 }
 
@@ -211,8 +225,8 @@ type Diagnosed = {
   readonly startPosition?: { readonly line: number }
 }
 
-export function foundOf(root: string, said: Diagnosed): Found {
-  const at = said.fileName === undefined ? null : servedOf(root, resolve(said.fileName))
+export function foundOf(root: string, said: Diagnosed, placed: Placing): Found {
+  const at = said.fileName === undefined ? null : servedOf(root, resolve(said.fileName), placed)
   const line = (said.startPosition?.line ?? 0) + FIRST_LINE
   return {
     path: at ?? said.fileName ?? "",
@@ -252,18 +266,20 @@ export async function foundIn(change: Change, shadow: Shadow): Promise<readonly 
   const roots = reached.filter((one) => !claimed(one))
   if (roots.length === 0) return []
   const root = resolve(change.root)
+  const every = [...new Set([...shadow.index.everyPath(), ...change.changed])]
+  const placed = placingOver(every, (one) => textOf(change.after(one)))
   const declared = declaringIn(change, shadow.index).filter((one) => !claimed(one))
   const named = [...new Set([...roots, ...declared])]
-  const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index))
+  const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index), placed)
   const at = join(root, CONFIG_NAME)
   const config = configOf(root, named)
-  const readFile = servingOf(root, at, config, read)
+  const readFile = servingOf(root, at, config, read, placed)
   const api = new API({
     cwd: root,
     fs: {
       readFile,
       fileExists: existingOf(readFile),
-      directoryExists: foldersIn(root, named),
+      directoryExists: foldersIn(root, named, placed),
     },
   })
   try {
@@ -275,8 +291,9 @@ export async function foundIn(change: Change, shadow: Shadow): Promise<readonly 
     for (const one of roots) {
       const file = join(root, one)
       for (const said of await program.getSyntacticDiagnostics(file))
-        found.push(foundOf(root, said))
-      for (const said of await program.getSemanticDiagnostics(file)) found.push(foundOf(root, said))
+        found.push(foundOf(root, said, placed))
+      for (const said of await program.getSemanticDiagnostics(file))
+        found.push(foundOf(root, said, placed))
     }
     return found
   } finally {

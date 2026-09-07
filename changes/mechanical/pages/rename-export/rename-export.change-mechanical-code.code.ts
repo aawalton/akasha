@@ -1,6 +1,8 @@
 import {
   boundAs,
   exportsNamed,
+  type Placing,
+  placingOver,
   reachedFrom,
   readingOf,
   referencesOf,
@@ -26,9 +28,10 @@ export function renameExport(
   over: readonly string[],
   of: string,
   to: string,
-  textOf: (path: string) => string | null
+  textOf: (path: string) => string | null,
+  placed: Placing
 ): Answer {
-  const typing = typingOver(root, over, readingOf(root, textOf))
+  const typing = typingOver(root, over, readingOf(root, textOf, placed), placed)
   const declared = new Set(exportsNamed(typing, at, of))
   if (declared.size === 0) return refusing(`\`${at}\` exports no \`${of}\``)
   const held = new Map<string, Spot[]>()
@@ -70,5 +73,6 @@ export type Given = {
 }
 
 export function runChange(world: World, given: Given): Answer {
-  return renameExport(world.root, given.at, given.over, given.of, given.to, world.textOf)
+  const placed = placingOver(world.index.everyPath(), world.textOf)
+  return renameExport(world.root, given.at, given.over, given.of, given.to, world.textOf, placed)
 }

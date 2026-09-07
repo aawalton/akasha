@@ -1,5 +1,6 @@
 import { realpathSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
+import { calledIn } from "@akasha/code/package-manifest"
 import { stamped, versionOf, writtenTo } from "@akasha/code/typing-keeping"
 import ts from "typescript"
 
@@ -62,6 +63,21 @@ export function insideOf(root: string, at: string): string | null {
   return at.slice(root.length + 1)
 }
 
+export type Bodies = (path: string) => string | null
+
+export type Placing = ReadonlyMap<string, string>
+
+export const NOWHERE: Placing = new Map()
+
+export function placingOver(every: readonly string[], textOf: Bodies): Placing {
+  const found = new Map<string, string>()
+  for (const one of every.filter(manifested)) {
+    const named = calledIn(textOf(one))
+    if (named !== null) found.set(named, dirname(one))
+  }
+  return found
+}
+
 const LINKED = new Map<string, string>()
 
 function realOf(at: string): string {
@@ -77,28 +93,31 @@ function realOf(at: string): string {
   return real
 }
 
-export function linkedOf(root: string, at: string): string {
+export function linkedOf(root: string, at: string, placed: Placing): string {
   const mark = `${root}/${PACKAGES}/`
   if (!at.startsWith(mark)) return at
   for (let to = at.indexOf("/", mark.length); to > 0; to = at.indexOf("/", to + 1)) {
     const head = at.slice(0, to)
+    const folder = placed.get(head.slice(mark.length))
+    if (folder !== undefined) return join(root, folder, at.slice(to))
     const real = realOf(head)
     if (real !== head) return `${real}${at.slice(to)}`
   }
-  return at
+  const whole = placed.get(at.slice(mark.length))
+  return whole === undefined ? at : join(root, whole)
 }
 
-export function manifestOf(root: string, at: string): string | null {
+export function manifestOf(root: string, at: string, placed: Placing): string | null {
   if (!manifested(at)) return null
-  const real = linkedOf(root, at)
+  const real = linkedOf(root, at, placed)
   if (!real.startsWith(`${root}/`)) return null
   const rel = real.slice(root.length + 1)
   return packaged(rel) ? null : rel
 }
 
-export function servedOf(root: string, at: string): string | null {
-  const real = linkedOf(root, at)
-  return insideOf(root, real) ?? manifestOf(root, real)
+export function servedOf(root: string, at: string, placed: Placing): string | null {
+  const real = linkedOf(root, at, placed)
+  return insideOf(root, real) ?? manifestOf(root, real, placed)
 }
 
 export function directoriesIn(root: string, every: readonly string[]): ReadonlySet<string> {
@@ -113,15 +132,22 @@ export function directoriesIn(root: string, every: readonly string[]): ReadonlyS
   return held
 }
 
-function hostOver(root: string, read: Reading, every: readonly string[]): ts.CompilerHost {
+function hostOver(
+  root: string,
+  read: Reading,
+  every: readonly string[],
+  placed: Placing
+): ts.CompilerHost {
   const base = ts.createCompilerHost(SETTINGS, true)
   const dirs = directoriesIn(root, every)
   return {
     ...base,
     getCurrentDirectory: () => root,
-    realpath: (path) => linkedOf(root, resolve(base.realpath?.(path) ?? path)),
+    realpath: (path) => linkedOf(root, resolve(base.realpath?.(path) ?? path), placed),
     fileExists: (path) =>
-      servedOf(root, resolve(path)) === null ? ts.sys.fileExists(path) : read(path) !== undefined,
+      servedOf(root, resolve(path), placed) === null
+        ? ts.sys.fileExists(path)
+        : read(path) !== undefined,
     directoryExists: (path) => dirs.has(resolve(path)) || ts.sys.directoryExists(path),
     readFile: read,
     writeFile: writtenTo,
@@ -136,25 +162,30 @@ function hostOver(root: string, read: Reading, every: readonly string[]): ts.Com
   }
 }
 
-export function readingOf(root: string, textOf: (path: string) => string | null): Reading {
+export function readingOf(root: string, textOf: Bodies, placed: Placing): Reading {
   return (at) => {
-    const full = linkedOf(root, resolve(at))
+    const full = linkedOf(root, resolve(at), placed)
     const rel = insideOf(root, full)
     if (rel !== null) {
       const text = textOf(rel)
       return text === null ? undefined : text
     }
-    const named = manifestOf(root, full)
+    const named = manifestOf(root, full, placed)
     if (named === null) return ts.sys.readFile(at)
     return textOf(named) ?? ts.sys.readFile(at)
   }
 }
 
-export function typingOver(root: string, roots: readonly string[], read: Reading): Typing {
+export function typingOver(
+  root: string,
+  roots: readonly string[],
+  read: Reading,
+  placed: Placing
+): Typing {
   const program = ts.createProgram({
     rootNames: roots.map((one) => join(root, one)),
     options: SETTINGS,
-    host: hostOver(root, read, roots),
+    host: hostOver(root, read, roots, placed),
   })
   return {
     program,

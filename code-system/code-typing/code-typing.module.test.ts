@@ -9,37 +9,64 @@ import {
   exportsNamed,
   insideOf,
   keyingsIn,
+  linkedOf,
   manifested,
   manifestOf,
+  NOWHERE,
   namingOf,
+  placingOver,
   readingOf,
   referencesOf,
   servedOf,
   spelledAs,
 } from "./code-typing.module.code.ts"
-import { linked, PACKAGED, scratch, typed } from "./code-typing.module.test-fixtures.ts"
+import {
+  KEYS_SAID,
+  linked,
+  MANIFEST,
+  MANIFEST_AT,
+  PACKAGED,
+  scratch,
+  typed,
+  unlinked,
+} from "./code-typing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
-test("a body reached through the packages folder is served from inside the akasha folder", () => {
-  const root = linked({ "akasha/one/package.json": '{ "name": "@akasha/one" }\n' }, "one")
+const TWO_AT = "akasha/one/two.module.code.ts"
 
-  expect(servedOf(root, join(root, PACKAGED, "one/two/two.module.code.ts"))).toBe(
+const TWO = "export const two = 2\n"
+
+test("a body reached through the packages folder is served from inside the akasha folder", () => {
+  const root = linked({ [MANIFEST_AT]: MANIFEST }, "one")
+
+  expect(servedOf(root, join(root, PACKAGED, "one/two/two.module.code.ts"), NOWHERE)).toBe(
     "akasha/one/two/two.module.code.ts"
   )
 })
 
 test("a body the change brings is served through the packages folder though no disk holds it", () => {
-  const root = linked({ "akasha/one/package.json": '{ "name": "@akasha/one" }\n' }, "one")
-  const body = "export const two = 2\n"
-  const read = readingOf(root, (rel) => (rel === "akasha/one/two.module.code.ts" ? body : null))
+  const root = linked({ [MANIFEST_AT]: MANIFEST }, "one")
+  const read = readingOf(root, (rel) => (rel === TWO_AT ? TWO : null), NOWHERE)
 
-  expect(read(join(root, PACKAGED, "one/two.module.code.ts"))).toBe(body)
+  expect(read(join(root, PACKAGED, "one/two.module.code.ts"))).toBe(TWO)
+})
+
+test("a package a manifest places is reached there though no link points at it", () => {
+  const root = unlinked({ [MANIFEST_AT]: MANIFEST })
+  const placed = placingOver([MANIFEST_AT], () => MANIFEST)
+  const at = join(root, PACKAGED, "one/package.json")
+  const read = readingOf(root, (rel) => (rel === TWO_AT ? TWO : null), placed)
+
+  expect(servedOf(root, at, NOWHERE)).toBe(null)
+  expect(servedOf(root, at, placed)).toBe(MANIFEST_AT)
+  expect(read(join(root, PACKAGED, "one/two.module.code.ts"))).toBe(TWO)
+  expect(linkedOf(root, join(root, PACKAGED, "one"), placed)).toBe(join(root, "akasha/one"))
 })
 
 test("a body the change takes away reads as nothing through the packages folder", () => {
-  const root = linked({ "akasha/one/two.module.code.ts": "export const two = 2\n" }, "one")
-  const read = readingOf(root, () => null)
+  const root = linked({ [TWO_AT]: TWO }, "one")
+  const read = readingOf(root, () => null, NOWHERE)
 
   expect(read(join(root, PACKAGED, "one/two.module.code.ts"))).toBe(undefined)
 })
@@ -52,39 +79,38 @@ test("a manifest is known by the name of the file holding it wherever it sits", 
 })
 
 test("a manifest reached through the packages folder is answered where it links to", () => {
-  const root = linked({ "akasha/one/package.json": '{ "name": "@akasha/one" }\n' }, "one")
+  const root = linked({ [MANIFEST_AT]: MANIFEST }, "one")
 
-  expect(manifestOf(root, join(root, PACKAGED, "one/package.json"))).toBe("akasha/one/package.json")
-  expect(manifestOf(root, join(root, "akasha/one/package.json"))).toBe("akasha/one/package.json")
-  expect(manifestOf(root, join(root, "package.json"))).toBe("package.json")
-  expect(manifestOf(root, join(root, "akasha/one/one.module.code.ts"))).toBe(null)
+  expect(manifestOf(root, join(root, PACKAGED, "one/package.json"), NOWHERE)).toBe(MANIFEST_AT)
+  expect(manifestOf(root, join(root, MANIFEST_AT), NOWHERE)).toBe(MANIFEST_AT)
+  expect(manifestOf(root, join(root, "package.json"), NOWHERE)).toBe("package.json")
+  expect(manifestOf(root, join(root, "akasha/one/one.module.code.ts"), NOWHERE)).toBe(null)
 })
 
 test("the program is served a body it compiles and a manifest reaching one alike", () => {
-  const root = linked({ "akasha/one/package.json": '{ "name": "@akasha/one" }\n' }, "one")
+  const root = linked({ [MANIFEST_AT]: MANIFEST }, "one")
 
-  expect(servedOf(root, join(root, "akasha/one/one.module.code.ts"))).toBe(
+  expect(servedOf(root, join(root, "akasha/one/one.module.code.ts"), NOWHERE)).toBe(
     "akasha/one/one.module.code.ts"
   )
-  expect(servedOf(root, join(root, PACKAGED, "one/package.json"))).toBe("akasha/one/package.json")
-  expect(servedOf(root, join(root, "tools/one.ts"))).toBe("tools/one.ts")
+  expect(servedOf(root, join(root, PACKAGED, "one/package.json"), NOWHERE)).toBe(MANIFEST_AT)
+  expect(servedOf(root, join(root, "tools/one.ts"), NOWHERE)).toBe("tools/one.ts")
 })
 
 test("a manifest the change carries is read from the change where resolution asks for it", () => {
-  const root = linked({ "akasha/one/package.json": '{ "name": "@akasha/one" }\n' }, "one")
+  const root = linked({ [MANIFEST_AT]: MANIFEST }, "one")
   const carried = '{ "name": "@akasha/one", "exports": { ".": "./one.module.code.ts" } }\n'
-  const read = readingOf(root, (rel) => (rel === "akasha/one/package.json" ? carried : null))
+  const read = readingOf(root, (rel) => (rel === MANIFEST_AT ? carried : null), NOWHERE)
 
   expect(read(join(root, PACKAGED, "one/package.json"))).toBe(carried)
 })
 
 test("a manifest the change does not carry is read as the disk holds it", () => {
-  const body = '{ "name": "@akasha/one" }\n'
-  const root = linked({ "akasha/one/package.json": body }, "one")
-  const read = readingOf(root, () => null)
+  const root = linked({ [MANIFEST_AT]: MANIFEST }, "one")
+  const read = readingOf(root, () => null, NOWHERE)
 
-  expect(read(join(root, PACKAGED, "one/package.json"))).toBe(body)
-  expect(read(join(root, "akasha/one/package.json"))).toBe(body)
+  expect(read(join(root, PACKAGED, "one/package.json"))).toBe(MANIFEST)
+  expect(read(join(root, MANIFEST_AT))).toBe(MANIFEST)
 })
 
 test("every place one file spells a key is answered with what a shorthand there names", () => {
@@ -108,11 +134,7 @@ test("every place one file spells a key is answered with what a shorthand there 
 test("a key written out names nothing the checker could weld a name to", () => {
   const at = "akasha/apart.module.code.ts"
   const { typing } = typed({
-    [at]:
-      "export type Held = { readonly keyed: readonly string[] }\n" +
-      "export function heldOf(said: readonly string[]): Held {\n" +
-      "  return { keyed: said }\n" +
-      "}\n",
+    [at]: `export type Held = { readonly keyed: readonly string[] }\n${KEYS_SAID}`,
   })
   const found = keyingsIn(typing, at, "keyed")
   const declared = declarationsNamed(typing, at, "keyed")
@@ -126,11 +148,7 @@ test("a key written out names nothing the checker could weld a name to", () => {
 test("a key one part of a union alone declares is resolved through that part", () => {
   const at = "akasha/parted.module.code.ts"
   const { root, typing } = typed({
-    [at]:
-      "export type Held = { readonly keyed: readonly string[] } | { readonly refused: string }\n" +
-      "export function heldOf(said: readonly string[]): Held {\n" +
-      "  return { keyed: said }\n" +
-      "}\n",
+    [at]: `export type Held = { readonly keyed: readonly string[] } | { readonly refused: string }\n${KEYS_SAID}`,
   })
   const naming = namingOf(typing, root, new Set(declarationsNamed(typing, at, "keyed")))
 
@@ -144,10 +162,7 @@ test("a key more than one part of a union declares apart is resolved through non
       "type One = { readonly keyed: readonly string[] }\n" +
       "type Two = { readonly keyed: number }\n" +
       "type Three = { readonly other: string }\n" +
-      "export type Held = One | Two | Three\n" +
-      "export function heldOf(said: readonly string[]): Held {\n" +
-      "  return { keyed: said }\n" +
-      "}\n",
+      `export type Held = One | Two | Three\n${KEYS_SAID}`,
   })
   const declared = declarationsNamed(typing, at, "keyed")
   const naming = namingOf(typing, root, new Set(declared.slice(0, 1)))

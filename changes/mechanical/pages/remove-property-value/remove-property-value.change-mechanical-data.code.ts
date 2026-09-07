@@ -1,5 +1,5 @@
 import { parsedAs } from "@akasha/code/code-source"
-import { readingOf, typingOver } from "@akasha/code/code-typing"
+import { placingOver, readingOf, typingOver } from "@akasha/code/code-typing"
 import ts from "typescript"
 import {
   answered,
@@ -47,7 +47,9 @@ function without(
 }
 
 function requiredIn(world: World, given: RemovePropertyValueAsked): boolean | null {
-  const typing = typingOver(world.root, [given.at], readingOf(world.root, world.textOf))
+  const placed = placingOver(world.index.everyPath(), world.textOf)
+  const read = readingOf(world.root, world.textOf, placed)
+  const typing = typingOver(world.root, [given.at], read, placed)
   const source = typing.sourceAt(given.at)
   const held = source === null ? null : literalIn(source)
   if (held === null) return null

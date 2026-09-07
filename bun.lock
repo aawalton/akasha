@@ -517,6 +517,7 @@
         "@akasha/utils-run": "workspace:*",
         "@akasha/workspace-paths": "workspace:*",
         "typescript": "5.9.3",
+        "typescript-7": "npm:typescript@7.1.0-dev.20260904.1",
         "yaml": "^2.8.1",
       },
     },
@@ -766,6 +767,12 @@
         "@akasha/code": "workspace:*",
         "@akasha/editor-extension": "workspace:*",
       },
+      "peerDependencies": {
+        "vscode": "^1.85.0",
+      },
+      "optionalPeers": [
+        "vscode",
+      ],
     },
     "editor-extension/vscode-typings": {
       "name": "@types/vscode",

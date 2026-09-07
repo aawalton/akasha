@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { NOWHERE } from "@akasha/code/code-typing"
 import type { Change } from "@akasha/pages/change"
 import { shadowAsked, shadowFor } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
@@ -35,8 +36,11 @@ import {
   IMPORTS_TYPEGEN,
   LOADED_AT,
   MADE,
+  numbered,
   ONE_NUMBER,
+  packaging,
   pairing,
+  READER_AT,
   reading,
   scratch,
   staged,
@@ -49,10 +53,10 @@ import {
 
 afterAll(scratch.sweep)
 
-async function judged(change: Change): Promise<readonly Judged[]> {
-  const cast = shadowFor(change)
+async function judged(one: Change): Promise<readonly Judged[]> {
+  const cast = shadowFor(one)
   if ("refused" in cast) throw new Error(cast.refused)
-  return await typecheck(change, cast.shadow)
+  return await typecheck(one, cast.shadow)
 }
 
 function reached(one: Change): readonly string[] {
@@ -76,8 +80,12 @@ test("the settings carry the files judged and every ambient type the packages fo
 
 test("the config is answered at the path the compiler was told to open", () => {
   const at = `${HERE}/tsconfig.typecheck.json`
-  const serving = servingOf(HERE, at, "{}", (path) =>
-    path.endsWith("held.ts") ? "export const held = 1" : undefined
+  const serving = servingOf(
+    HERE,
+    at,
+    "{}",
+    (path) => (path.endsWith("held.ts") ? "export const held = 1" : undefined),
+    NOWHERE
   )
   expect(serving(at)).toBe("{}")
   expect(serving(`${HERE}/held.ts`)).toBe("export const held = 1")
@@ -172,12 +180,12 @@ test("a page being created is still refused for what the narrowing does not cove
 })
 
 test("akasha TypeScript that compiles is judged clean", async () => {
-  const root = staged({ "akasha/one.ts": ONE_NUMBER })
+  const root = numbered()
   expect(await over(root, "akasha/one.ts", ONE_NUMBER)).toEqual([])
 })
 
 test("a proposed body whose type does not hold is refused, and names the line", async () => {
-  const root = staged({ "akasha/one.ts": ONE_NUMBER })
+  const root = numbered()
   const said = await over(root, "akasha/one.ts", TWO_BREAKS)
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe("akasha/one.ts")
@@ -192,7 +200,7 @@ test("a proposed body that fixes what stands on disk is judged clean, so the cha
 })
 
 test("a proposed body that breaks what stands clean on disk is refused, so the change is what is read", async () => {
-  const root = staged({ "akasha/one.ts": ONE_NUMBER })
+  const root = numbered()
   expect(await judged(change(root, {}))).toEqual([])
   expect(await over(root, "akasha/one.ts", "export const one: string = 1\n")).toHaveLength(1)
   expect(await judged(change(root, {}))).toEqual([])
@@ -242,20 +250,14 @@ test("an export the change takes away breaks the file reading it", async () => {
 })
 
 test("a file the change brings is compiled though no disk holds it", async () => {
-  const root = staged({ "akasha/one.ts": ONE_NUMBER })
+  const root = numbered()
   const said = await judged(change(root, { "akasha/two.ts": "export const two: string = 2\n" }))
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe("akasha/two.ts")
 })
 
 test("a diagnostic against a file the change did not touch is reported once, however many paths it holds", async () => {
-  const root = staged({
-    "akasha/broken.ts":
-      'import { a } from "./a.ts"\nimport { b } from "./b.ts"\nimport { c } from "./c.ts"\nexport const one: string = a + b + c\n',
-    "akasha/a.ts": "export const a = 1\n",
-    "akasha/b.ts": "export const b = 2\n",
-    "akasha/c.ts": "export const c = 3\n",
-  })
+  const root = reading()
   const said = await judged(
     change(root, {
       "akasha/a.ts": "export const a = 10\n",
@@ -287,12 +289,7 @@ test("a folder holding no TypeScript is judged clean without a program being bui
 })
 
 test("the files compiled are the change and everything importing it, however far", () => {
-  const root = staged({
-    "akasha/one.ts": "export const one = 1\n",
-    "akasha/deep/two.ts": 'import { one } from "../one.ts"\nexport const two = one\n',
-    "akasha/deep/three.ts": 'import { two } from "./two.ts"\nexport const three = two\n',
-    "akasha/apart.ts": "export const apart = 1\n",
-  })
+  const root = deep()
   expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
     "akasha/deep/three.ts",
     "akasha/deep/two.ts",
@@ -368,8 +365,19 @@ test("what is passed over is what imports generated route types rather than wher
 })
 
 test("a body importing generated route types is reached and left unjudged", async () => {
-  const root = staged({ "akasha/one.ts": ONE_NUMBER })
+  const root = numbered()
   const held = change(root, { "akasha/two.ts": IMPORTS_TYPEGEN })
   expect(reached(held)).toEqual(["akasha/two.ts"])
   expect(await judged(held)).toEqual([])
+})
+
+test("a package the change brings into being is reached where its manifest sits, with no link on disk", async () => {
+  expect(await judged(change(holding(), packaging("@akasha/persons")))).toEqual([])
+})
+
+test("a way in that manifest does not name is refused, so not every specifier resolves", async () => {
+  const said = await judged(change(holding(), packaging("@akasha/persons/apart")))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(READER_AT)
+  expect(said[0]?.reason).toContain("TS2307")
 })

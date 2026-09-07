@@ -134,8 +134,21 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
+      statement: "A placement names the folder each package's manifest sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A placement is worked out from the manifests among the paths handed in.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A path reached through the packages folder is answered where that package's link leads.",
+        "A path through the packages folder under a placed name is answered where that manifest sits.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path through the packages folder under an unplaced name is answered where its link leads.",
     },
     {
       invariantKind: "departure",

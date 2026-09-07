@@ -306,3 +306,24 @@ export function deep(): string {
     "akasha/apart.ts": "export const apart = 1\n",
   })
 }
+
+export function numbered(): string {
+  return staged({ "akasha/one.ts": ONE_NUMBER })
+}
+
+export const READER_AT = "akasha/reader.ts"
+
+const PACKAGE_AT = "akasha/persons/package.json"
+
+const PACKAGE_CODE_AT = "akasha/persons/persons.module.code.ts"
+
+const PACKAGE_MANIFEST =
+  '{ "name": "@akasha/persons", "exports": { ".": "./persons.module.code.ts" } }\n'
+
+export function packaging(specifier: string): Readonly<Record<string, string>> {
+  return {
+    [PACKAGE_AT]: PACKAGE_MANIFEST,
+    [PACKAGE_CODE_AT]: "export const persons = 1\n",
+    [READER_AT]: `import { persons } from "${specifier}"\n\nexport const said = persons\n`,
+  }
+}

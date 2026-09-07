@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { reachesIn, reachingOver } from "./package-manifest.module.code.ts"
+import { calledIn, reachesIn, reachingOver } from "./package-manifest.module.code.ts"
 
 const FOLDER = "akasha/pages-system/indexes"
 
@@ -13,6 +13,22 @@ const MANIFEST = JSON.stringify({
     ".": "./index-reading/index-reading.module.code.ts",
     "./shape": "./index-shape/index-shape.module.code.ts",
   },
+})
+
+test("what a manifest calls its package is answered apart from the ways in", () => {
+  expect(calledIn(MANIFEST)).toBe("@akasha/indexes")
+  expect(calledIn(JSON.stringify({ name: "one" }))).toBe("one")
+})
+
+test("a manifest naming its package nothing is called nothing", () => {
+  expect(calledIn(JSON.stringify({ exports: { ".": "./a.ts" } }))).toBe(null)
+  expect(calledIn(JSON.stringify({ name: 7 }))).toBe(null)
+  expect(calledIn("{ this is not json\n")).toBe(null)
+  expect(calledIn("null")).toBe(null)
+})
+
+test("a body that is not there calls its package nothing", () => {
+  expect(calledIn(null)).toBe(null)
 })
 
 test("a key that is a lone dot names the package itself", () => {
