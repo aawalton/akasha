@@ -27,5 +27,17 @@ export const standardAgentEnglishTerm = {
       invariantKind: "departure",
       statement: "A foreign name is defined on a page of its own.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A word and that word's variants are one term.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two spellings that differ only by grammar are variants.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A term is written under its plainest spelling.",
+    },
   ],
 } as const satisfies Domain
