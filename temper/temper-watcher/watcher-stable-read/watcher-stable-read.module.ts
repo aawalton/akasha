@@ -18,7 +18,7 @@ export const watcherStableRead = {
     },
     {
       invariantKind: "departure",
-      statement: "Fewer looks than are required is never enough.",
+      statement: "A run of agreeing looks under the number required never settles a file.",
     },
     {
       invariantKind: "departure",
