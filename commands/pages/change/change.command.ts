@@ -94,7 +94,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "The key `apply` asks for an apply once the change has answered.",
+      statement: "A change checks and applies once that change has answered.",
     },
     {
       invariantKind: "departure",
@@ -102,7 +102,11 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "An apply is asked for among the arguments rather than on the command line.",
+      statement: "A change naming no message takes the message `akasha apply` composes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The commit message is named among the arguments rather than on the command line.",
     },
     {
       invariantKind: "departure",
@@ -110,7 +114,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "An apply asked for with no message is refused before the change is loaded.",
+      statement: "An `apply` naming no message is refused before the change is loaded.",
     },
     {
       invariantKind: "departure",
