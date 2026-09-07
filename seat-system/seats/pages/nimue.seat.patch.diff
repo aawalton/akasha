@@ -1,0 +1,29 @@
+writerOwesReading: false
+diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
+index b9cf96c88de6cd4913ea37c093b98f28eca4d4cb..b369cacc850b7cd7c9c2c4b304812512d5ee40ea 100644
+--- a/command-system/drafting/drafting.module.code.ts
++++ b/command-system/drafting/drafting.module.code.ts
+@@ -252,7 +252,7 @@ function folded(held: Bodies, drafts: readonly Draft[], running: Running): Worke
+     const said = merged(one.was, had.body, one.body)
+     if ("why" in said) return { why: `${one.path} — ${said.why}` }
+     next.set(one.path, {
+-      was: one.was,
++      was: had.was,
+       body: said.body,
+       readersOweReading: (had.readersOweReading ?? true) || owed,
+     })
+diff --git a/command-system/drafting/drafting.module.ts b/command-system/drafting/drafting.module.ts
+index 49232e4073697ea96f2ce0439311837eab222c2e..6d95a5418c374440ab74bdb536111202b8d1fc9c 100644
+--- a/command-system/drafting/drafting.module.ts
++++ b/command-system/drafting/drafting.module.ts
+@@ -84,6 +84,10 @@ export const drafting = {
+       invariantKind: "departure",
+       statement: "A change against a path the patch carries is merged onto the body drafted there.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A path drafted onto twice keeps the body the patch was already built on.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A change leaving what HEAD holds takes nothing back out of the patch.",
