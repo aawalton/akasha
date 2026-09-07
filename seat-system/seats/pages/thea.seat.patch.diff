@@ -1,5 +1,21 @@
 writerOwesReading: false
 readersOweReading: false
+diff --git a/checks/code-checks/pages/file-length/file-length.code-check.code.ts b/checks/code-checks/pages/file-length/file-length.code-check.code.ts
+index b3c499b8df118acb3838b417e41731a0264d0b6d..e5fdaf9001fccd1270ae928821c7a2dea756eb9e 100644
+--- a/checks/code-checks/pages/file-length/file-length.code-check.code.ts
++++ b/checks/code-checks/pages/file-length/file-length.code-check.code.ts
+@@ -1,4 +1,10 @@
+-import { type Carried, heldBeside, type Naming } from "@akasha/indexes/property-carrying"
++import {
++  type Carried,
++  heldBeside,
++  type Naming,
++  sectionHeld,
++  slugsWhere,
++} from "@akasha/indexes/property-carrying"
+ import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
+ import { partedIn, sectionedIn } from "@akasha/pages/page-file-name"
+ import type { Value } from "@akasha/pages/page-value"
 diff --git a/pages/indexes/property-carrying/property-carrying.module.code.ts b/pages/indexes/property-carrying/property-carrying.module.code.ts
 index 31918d32cc69664824f2e163a997f4d80cf21d89..11c7525abad52892b0ac64268da877af774bf14f 100644
 --- a/pages/indexes/property-carrying/property-carrying.module.code.ts
