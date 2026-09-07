@@ -23,11 +23,6 @@ export const dallaDraftIntoAPatch = {
         "The apply has its own `unwarranted` at `apply.command.code.ts:112-126` rather than calling `unwarrantedIn`, and runs it above the glass, so `--break-the-glass` skips the checks and skips no warrant. Its predicate is `writerOwesReading !== false`, so a row silent about its writer is owing. Checks run on the apply alone; `akasha change` builds no gate. Left: `lint-exception` and `patch` declare `change-authored` and never ask, and `lint-exception` now states that absence.",
     },
     {
-      statement: "Every change page is mechanical, checked or authored.",
-      workingMemory:
-        "The four page types `akasha change` dispatches over are named at `change.command.code.ts:72`, so the page type carries whether a change is reached from the command line. A mechanical change is a building block a checked change composes, and no command line reaches one. `slug` is unique per page type, so `add-file` and `change-file` each name a mechanical page and an authored page. Left: `change-command` names no page and is still dispatched over.",
-    },
-    {
       statement: "A change is reached by its address rather than by an import.",
       workingMemory:
         "`change-running` loads a change by address and runs the guards its page names, so no call reaches one unguarded. Its `addressed` sidecar maps each address to `Parameters<typeof import(path)['runChange']>[1]`, reading each signature rather than restating one, and `address-mapping` writes it inside `preparing` where the gate judges it. The map reaches `change-mechanical` alone, so any other address refuses at compile time. Left: a change still reaches another change by import.",
