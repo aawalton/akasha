@@ -1,0 +1,25 @@
+diff --git a/pages/service/page-asking/page-asking.module.code.ts b/pages/service/page-asking/page-asking.module.code.ts
+index d7cb16ed99586e1d14796e0bc13e0f5a9c975da4..8bcb58002a7f7c68bd514121c616d351dcc19bb7 100644
+--- a/pages/service/page-asking/page-asking.module.code.ts
++++ b/pages/service/page-asking/page-asking.module.code.ts
+@@ -106,12 +106,18 @@ export type Shape = {
+ 
+ export type Shaped = { readonly shape: Shape | null } | { readonly refused: string }
+ 
++export function titledAs(propertySlug: string): string {
++  return propertySlug
++    .split("-")
++    .map((word) => `${word.slice(0, 1).toUpperCase()}${word.slice(1)}`)
++    .join(" ")
++}
++
+ export function declaredOf(one: Carried, page: Value | undefined, on: string): Declared {
+-  const said = one.pagePropertySlug
+   return {
+     key: one.propertySlug,
+     type: one.pageTypeSlug,
+-    title: page === undefined ? said : (textAt(page, "definition") ?? said),
++    title: titledAs(one.propertySlug),
+     pageId: page === undefined ? "" : (textAt(page, "id") ?? ""),
+     on,
+     values: page === undefined ? null : (page["values"] ?? null),
