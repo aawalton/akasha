@@ -26,7 +26,7 @@ index c266660c6d3a7bf7f6c0c3fff6006f3075896dfe..ff5dd7c5971b638f0f78a58306ce3e0e
  
  export type ParsedSentence = {
 diff --git a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
-index 889154fb352315c5f2f70a9954850ec371ee0744..f3e71ad5c14e6600be654511ecb43cc5a7dc893e 100644
+index 889154fb352315c5f2f70a9954850ec371ee0744..ed114c78cefc80629f9bd80f222b5be0cf2b96c6 100644
 --- a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
 +++ b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
 @@ -113,6 +113,21 @@ function bestOf(values: Float32Array, start: number, count: number): number {
@@ -123,7 +123,7 @@ index 889154fb352315c5f2f70a9954850ec371ee0744..f3e71ad5c14e6600be654511ecb43cc5
    }
  }
  
-@@ -243,10 +274,14 @@ async function parsedBatch(
+@@ -243,17 +274,21 @@ async function parsedBatch(
        "relation_heads": tensorOf(output, "relation_heads"),
        "selected_heads": selectedHeadsTensor,
      })
@@ -140,4 +140,16 @@ index 889154fb352315c5f2f70a9954850ec371ee0744..f3e71ad5c14e6600be654511ecb43cc5
 +      builtSentence(held.manifest, sentence, row, scores, selectedHeads)
      )
    } finally {
-     const held = new Set<ort.Tensor>(Object.values(feeds))
+-    const held = new Set<ort.Tensor>(Object.values(feeds))
+-    for (const tensor of tensorsIn(output)) held.add(tensor)
+-    for (const tensor of tensorsIn(relationOutput)) held.add(tensor)
+-    if (selectedHeadsTensor !== undefined) held.add(selectedHeadsTensor)
+-    for (const tensor of held) tensor.dispose()
++    const open = new Set<ort.Tensor>(Object.values(feeds))
++    for (const tensor of tensorsIn(output)) open.add(tensor)
++    for (const tensor of tensorsIn(relationOutput)) open.add(tensor)
++    if (selectedHeadsTensor !== undefined) open.add(selectedHeadsTensor)
++    for (const tensor of open) tensor.dispose()
+   }
+ }
+ 
