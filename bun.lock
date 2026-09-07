@@ -2374,6 +2374,9 @@
     },
     "temper/temper-lib-custom-menu": {
       "name": "@akasha/temper-lib-custom-menu",
+      "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
+      },
     },
     "temper/temper-lib-data-encode": {
       "name": "@akasha/temper-lib-data-encode",

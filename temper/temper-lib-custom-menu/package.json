@@ -18,5 +18,8 @@
     "./submenu-text-colors": "./submenu-text-colors/submenu-text-colors.module.code.ts",
     "./submenu-timeout": "./submenu-timeout/submenu-timeout.module.code.ts",
     "./submenu-window": "./submenu-window/submenu-window.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/code-system": "workspace:@akasha/code@*"
   }
 }

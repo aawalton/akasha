@@ -17,7 +17,7 @@ export const customMenuHooks = {
     },
     {
       invariantKind: "departure",
-      statement: "A held modifier key turns an inventory context menu into a special one.",
+      statement: "A held modifier key turns an inventory context menu into a special menu.",
     },
   ],
 } as const satisfies Module
