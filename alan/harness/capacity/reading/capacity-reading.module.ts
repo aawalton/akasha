@@ -41,7 +41,7 @@ export const capacityReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Each stretch's capacity hours are worked out by the store rather than here.",
+      statement: "Each stretch's capacity hours are worked out by the readout's own code.",
     },
     {
       invariantKind: "departure",

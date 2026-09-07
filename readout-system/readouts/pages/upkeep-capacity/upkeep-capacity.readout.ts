@@ -17,7 +17,7 @@ export const upkeepCapacity = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the sum of every stretch of the day.",
+      statement: "The reading is the sum of the day's stretches that have ended.",
     },
     {
       invariantKind: "departure",
@@ -27,6 +27,10 @@ export const upkeepCapacity = {
     {
       invariantKind: "departure",
       statement: "A stretch gives capacity back or takes capacity away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stretch still running carries no capacity rather than the hours run so far.",
     },
     {
       invariantKind: "departure",
