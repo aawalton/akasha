@@ -1,0 +1,12 @@
+diff --git a/pages/access/routing-core/routing-core.module.code.ts b/pages/access/routing-core/routing-core.module.code.ts
+index 027610e30512f5f2efb96a43cd63198abf20a86b..b91d77ead6679302b5ba8b2eba1f57b2108dade5 100644
+--- a/pages/access/routing-core/routing-core.module.code.ts
++++ b/pages/access/routing-core/routing-core.module.code.ts
+@@ -13,6 +13,7 @@ export const PROMOTED_COLUMN = {
+   pageTypeId: "page_type_id",
+   pageTypeSlug: "page_type_slug",
+   uniqueKey: "unique_key",
++  completedAt: "completed_at",
+ } as const
+ 
+ export const PROMOTED_COLUMN_KEYS: ReadonlySet<string> = new Set(Object.keys(PROMOTED_COLUMN))
