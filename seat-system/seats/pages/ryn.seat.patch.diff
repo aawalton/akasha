@@ -1,4 +1,16 @@
-readersOweReading: false
+readersOweReading: false temper/temper-web/.server/supabase-service-client/supabase-service-client.module.ts
+diff --git a/bun.lock b/bun.lock
+index addd66d383e9b11e7ab934c868c9bec4c910f5a8..d8fdbf388548450fc9347586e2f34d25fedd1cc2 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -2832,6 +2832,7 @@
+       "version": "0.1.0",
+       "dependencies": {
+         "@akasha/code": "workspace:*",
++        "@akasha/code-system": "workspace:@akasha/code@*",
+         "@akasha/design-badges": "workspace:*",
+         "@akasha/design-forms": "workspace:*",
+         "@akasha/design-layout": "workspace:*",
 diff --git a/temper/temper-web/.server/supabase-service-client/supabase-service-client.module.ts b/temper/temper-web/.server/supabase-service-client/supabase-service-client.module.ts
 index 077f76790083b17b07957789c5559e74148781ca..aec9a9dc148542ba7efdccaa9c46fcaa80adf3d0 100644
 --- a/temper/temper-web/.server/supabase-service-client/supabase-service-client.module.ts
@@ -12,3 +24,15 @@ index 077f76790083b17b07957789c5559e74148781ca..aec9a9dc148542ba7efdccaa9c46fcaa
      },
      {
        invariantKind: "departure",
+diff --git a/temper/temper-web/package.json b/temper/temper-web/package.json
+index 8f8ca1d5d22131d0bd5f32e945bf6347a84bce0a..7f512643dc2e411436d94965c54560558cd5382d 100644
+--- a/temper/temper-web/package.json
++++ b/temper/temper-web/package.json
+@@ -16,6 +16,7 @@
+   },
+   "dependencies": {
+     "@akasha/code": "workspace:*",
++    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/design-badges": "workspace:*",
+     "@akasha/design-forms": "workspace:*",
+     "@akasha/design-layout": "workspace:*",
