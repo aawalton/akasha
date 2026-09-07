@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/seat-presence-read/seat-presence-read.module.ts b/seat-system/seat-presence-read/seat-presence-read.module.ts
+index 2eb7907e652d88f96cdf78dbbb2e7ffe8be000f3..a7df4f960c9e26ac9ce83595f918ed0cf1933d16 100644
+--- a/seat-system/seat-presence-read/seat-presence-read.module.ts
++++ b/seat-system/seat-presence-read/seat-presence-read.module.ts
+@@ -21,7 +21,7 @@ export const seatPresenceRead = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The agents listed are the ones akasha holds a seat for, in sorted order.",
++      statement: "The agents akasha holds a seat for are listed in sorted order.",
+     },
+     {
+       invariantKind: "departure",
