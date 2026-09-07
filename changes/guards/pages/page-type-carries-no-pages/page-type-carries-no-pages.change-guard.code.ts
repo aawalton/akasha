@@ -22,10 +22,14 @@ export function carryingIn(given: Guarding, slug: string): readonly string[] {
   return [...given.shadow.index.everyOfType(slug).map((one) => one.path)].sort()
 }
 
+function countSaid(count: number): string {
+  return count === 1 ? "1 page, which goes first" : `${count} pages, which go first`
+}
+
 export function carrySaid(slug: string, carrying: readonly string[]): string {
   const named = carrying.slice(0, NAMED).join(", ")
   const rest = carrying.length > NAMED ? `, and ${carrying.length - NAMED} more` : ""
-  return `\`${slug}\` is the page type of ${carrying.length} pages, which go first — ${named}${rest}`
+  return `\`${slug}\` is the page type of ${countSaid(carrying.length)} — ${named}${rest}`
 }
 
 function carriedIn(given: Guarding, taken: readonly string[]): string | null {

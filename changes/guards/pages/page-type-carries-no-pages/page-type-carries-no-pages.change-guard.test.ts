@@ -50,7 +50,7 @@ test("a page type a page is still filed under is refused", () => {
   const said = takingAway(root, [KEPT_TYPE])
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`kept\` is the page type of 1 pages, which go first — ${KEPT_PAGE}`)
+  expect(said.refused).toBe(`\`kept\` is the page type of 1 page, which goes first — ${KEPT_PAGE}`)
 })
 
 test("the refusal names every page filed under the page type", () => {
