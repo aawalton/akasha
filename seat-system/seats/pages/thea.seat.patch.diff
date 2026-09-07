@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/domains/properties/definition.text-property.ts b/domains/properties/definition.text-property.ts
+index ff13f783bb4685221402c69024eed797e042f71a..e341988e1c2dbcfc4219c636176c5a1cea0fd895 100644
+--- a/domains/properties/definition.text-property.ts
++++ b/domains/properties/definition.text-property.ts
+@@ -7,7 +7,7 @@ export const definition = {
+   pageTypeSlug: "text-property",
+   slug: "definition",
+   propertySlug: "definition",
+-  definition: "the sentence naming what a page's subject is",
++  definition: "the sentence naming what a page's subject is.",
+   maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
