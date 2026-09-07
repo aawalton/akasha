@@ -1,0 +1,43 @@
+diff --git a/readout-system/readout-tier/readout-tier.module.code.ts b/readout-system/readout-tier/readout-tier.module.code.ts
+index a6263824f614ed3859d2a6ddd0679315a424bdb7..68682f9b205ecac85341354fc10ce0457a3d9eb2 100644
+--- a/readout-system/readout-tier/readout-tier.module.code.ts
++++ b/readout-system/readout-tier/readout-tier.module.code.ts
+@@ -22,7 +22,9 @@ const RUNGS: readonly (readonly [string, TierColor])[] = [
+   ["blueAt", "blue"],
+ ]
+ 
+-export const DECIMAL_PLACES = 2
++export const LEAST_FIGURES = 2
++
++export const MOST_PLACES = 20
+ 
+ export function statedAt(value: unknown): number | null {
+   if (typeof value === "number") return Number.isFinite(value) ? value : null
+@@ -115,10 +117,22 @@ export function withoutSignedZero(said: number): number {
+   return said === 0 ? 0 : said
+ }
+ 
+-export function readingSaid(reading: number, figureFormat?: string): string {
+-  if (figureFormat === "integer") return String(withoutSignedZero(Math.round(reading)))
+-  if (figureFormat === "decimal") {
+-    return String(withoutSignedZero(Number(reading.toFixed(DECIMAL_PLACES))))
++export function placesFor(reading: number): number {
++  const size = Math.abs(reading)
++  if (size === 0 || size >= 10) return 0
++  let places = 0
++  let scaled = size
++  while (scaled < 1 && places < MOST_PLACES) {
++    scaled *= 10
++    places += 1
+   }
+-  return String(reading)
++  return places + LEAST_FIGURES - 1
++}
++
++export function readingSaid(reading: number): string {
++  if (!Number.isFinite(reading)) return String(reading)
++  if (Number.isInteger(reading)) return String(withoutSignedZero(reading))
++  const places = placesFor(reading)
++  const scale = 10 ** places
++  return withoutSignedZero(Math.floor(reading * scale) / scale).toFixed(places)
+ }
