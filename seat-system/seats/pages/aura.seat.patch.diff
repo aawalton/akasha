@@ -1,0 +1,424 @@
+writerOwesReading: false
+diff --git a/alan/attributes/attribute.page-type.ts b/alan/attributes/attribute.page-type.ts
+index ff204abfdf8a9864af4301ab387cd4f5c51c387f..b06e906a02231eee4bcaf3103037c22495a93c8a 100644
+--- a/alan/attributes/attribute.page-type.ts
++++ b/alan/attributes/attribute.page-type.ts
+@@ -1,11 +1,9 @@
+-import type { Domain } from "../../domains/domain.page-type.ts"
++import type { Module } from "../../code-system/modules/module.page-type.ts"
+ import type { PageType } from "../../pages/types/page-type.page-type.ts"
+-import type { LifetimePoints } from "./properties/lifetime-points.number-property.ts"
+ import type { PointUnit } from "./properties/point-unit.text-property.ts"
+ 
+-export type Attribute = Domain & {
++export type Attribute = Module & {
+   pointUnit: PointUnit
+-  lifetimePoints: LifetimePoints
+ }
+ 
+ export const attribute = {
+@@ -14,7 +12,7 @@ export const attribute = {
+   slug: "attribute",
+   definition: "a capacity Alan builds through a daily habit",
+   pluralSlug: "attributes",
+-  extendsSlug: ["page-type/domain"],
++  extendsSlug: ["page-type/module"],
+   partSlugs: [
+     "attribute/charisma",
+     "attribute/constitution",
+@@ -23,13 +21,9 @@ export const attribute = {
+     "attribute/luck",
+     "attribute/strength",
+     "attribute/wisdom",
+-    "number-property/lifetime-points",
+     "text-property/point-unit",
+   ],
+-  properties: [
+-    { pagePropertySlug: "text-property/point-unit", required: true, many: false },
+-    { pagePropertySlug: "number-property/lifetime-points", required: true, many: false },
+-  ],
++  properties: [{ pagePropertySlug: "text-property/point-unit", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+@@ -45,15 +39,28 @@ export const attribute = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Lifetime points never fall.",
++      statement: "Recalibrating the daily target leaves an attribute's point unit unchanged.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Recalibrating the daily target leaves an attribute's point unit unchanged.",
++      statement: "An attribute shown as no daily light earns points all the same.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An attribute shown as no daily light earns points all the same.",
++      statement: "An attribute works out its own points today, its own total and its own level.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Each of the three is an export of the code file beside the attribute's page.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A reader takes those three from the attribute rather than working them out again.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An attribute nothing earns yet answers absent rather than zero.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/alan/attributes/pages/charisma.attribute.code.ts b/alan/attributes/pages/charisma.attribute.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f91d3ac5b1369c2151591482db187460e85ca1b1
+--- /dev/null
++++ b/alan/attributes/pages/charisma.attribute.code.ts
+@@ -0,0 +1,26 @@
++import { getEsoDayStr } from "@akasha/day/eso-day"
++import { levelOf } from "../../harness/attributes/levelling/attributes-levelling.module.code.ts"
++import {
++  charismaOf,
++  trackedDay,
++} from "../../harness/attributes/reading/attributes-reading.module.code.ts"
++import {
++  charismaOf as charismaOverDay,
++  totalOverDays,
++} from "../../harness/attributes/totalling/attributes-totalling.module.code.ts"
++
++// THE STRETCHES ARE REACHED TWO WAYS. Today's stretches are asked for under the day's own id, and a
++// day already read carries its stretches, so the total reads what the day holds rather than asking
++// again for every day Alan has tracked.
++export async function pointsToday(now: Date = new Date()): Promise<number | null> {
++  const values = await trackedDay(getEsoDayStr(now))
++  return values === null ? null : charismaOf(values)
++}
++
++export async function pointsTotal(root: string): Promise<number | null> {
++  return totalOverDays(root, charismaOverDay)
++}
++
++export async function level(root: string): Promise<number> {
++  return levelOf((await pointsTotal(root)) ?? 0)
++}
+diff --git a/alan/attributes/pages/charisma.attribute.ts b/alan/attributes/pages/charisma.attribute.ts
+index dedb4e23bb73b6cef0ef18fe621f39fbde75966b..f72308295ecdce045bc5f913c57d76d25d8242b4 100644
+--- a/alan/attributes/pages/charisma.attribute.ts
++++ b/alan/attributes/pages/charisma.attribute.ts
+@@ -6,5 +6,5 @@ export const charisma = {
+   slug: "charisma",
+   definition: "what Alan has built by hours spent at ease",
+   pointUnit: "one hour of a stretch whose safety less its difficulty is at least 1",
+-  lifetimePoints: 0,
++  code: "ts",
+ } as const satisfies Attribute
+diff --git a/alan/attributes/pages/constitution.attribute.code.ts b/alan/attributes/pages/constitution.attribute.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e89efa6b7ab570b2d941c5edf5ada31c6064af9f
+--- /dev/null
++++ b/alan/attributes/pages/constitution.attribute.code.ts
+@@ -0,0 +1,21 @@
++import { levelOf } from "../../harness/attributes/levelling/attributes-levelling.module.code.ts"
++import { constitutionOf } from "../../harness/attributes/reading/attributes-reading.module.code.ts"
++import {
++  constitutionOver,
++  daysCounted,
++  daysTracked,
++} from "../../harness/attributes/totalling/attributes-totalling.module.code.ts"
++
++// THE PLANTS ARE COUNTED OVER A SPAN RATHER THAN READ OFF A DAY. A food entry states the instant it
++// happened at, so this attribute alone reaches past the tracking day for what it counts.
++export async function pointsToday(now: Date = new Date()): Promise<number | null> {
++  return constitutionOf(now)
++}
++
++export async function pointsTotal(root: string): Promise<number | null> {
++  return constitutionOver(daysCounted(daysTracked(root)))
++}
++
++export async function level(root: string): Promise<number> {
++  return levelOf((await pointsTotal(root)) ?? 0)
++}
+diff --git a/alan/attributes/pages/constitution.attribute.ts b/alan/attributes/pages/constitution.attribute.ts
+index 9c16fd243d2bc8efd4328a5900b6a846e56ec219..eec292f4d23a061b84f719c9800b87e444db692b 100644
+--- a/alan/attributes/pages/constitution.attribute.ts
++++ b/alan/attributes/pages/constitution.attribute.ts
+@@ -6,5 +6,5 @@ export const constitution = {
+   slug: "constitution",
+   definition: "what Alan has built by eating whole plants",
+   pointUnit: "100 grams of whole plants eaten",
+-  lifetimePoints: 0,
++  code: "ts",
+ } as const satisfies Attribute
+diff --git a/alan/attributes/pages/endurance.attribute.code.ts b/alan/attributes/pages/endurance.attribute.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..934e259037169d3211ce0e7ba7501ed7387052f2
+--- /dev/null
++++ b/alan/attributes/pages/endurance.attribute.code.ts
+@@ -0,0 +1,20 @@
++import { getEsoDayStr } from "@akasha/day/eso-day"
++import { enduranceIn } from "@akasha/readout-system/attribute-endurance"
++import { levelOf } from "../../harness/attributes/levelling/attributes-levelling.module.code.ts"
++import { trackedDay } from "../../harness/attributes/reading/attributes-reading.module.code.ts"
++import { totalOverDays } from "../../harness/attributes/totalling/attributes-totalling.module.code.ts"
++
++// AN ATTRIBUTE IS ASKED FOR ITS OWN THREE FIGURES. Every reader takes these from here rather than
++// adding the days up again, so a reader and a tile can never disagree about what Alan has earned.
++export async function pointsToday(now: Date = new Date()): Promise<number | null> {
++  const values = await trackedDay(getEsoDayStr(now))
++  return values === null ? null : enduranceIn(values)
++}
++
++export async function pointsTotal(root: string): Promise<number | null> {
++  return totalOverDays(root, enduranceIn)
++}
++
++export async function level(root: string): Promise<number> {
++  return levelOf((await pointsTotal(root)) ?? 0)
++}
+diff --git a/alan/attributes/pages/endurance.attribute.ts b/alan/attributes/pages/endurance.attribute.ts
+index fc7b1ebe09c7e8addc69dddf178c32e7ac018d87..7cf68836ef2945b6ecceb46b7c0cd1ab33ae310d 100644
+--- a/alan/attributes/pages/endurance.attribute.ts
++++ b/alan/attributes/pages/endurance.attribute.ts
+@@ -6,5 +6,5 @@ export const endurance = {
+   slug: "endurance",
+   definition: "what Alan has built by moving his body",
+   pointUnit: "400 active calories burned",
+-  lifetimePoints: 0,
++  code: "ts",
+ } as const satisfies Attribute
+diff --git a/alan/attributes/pages/intelligence.attribute.code.ts b/alan/attributes/pages/intelligence.attribute.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..604390555601193dc4209cc5065dcb1b2b49479a
+--- /dev/null
++++ b/alan/attributes/pages/intelligence.attribute.code.ts
+@@ -0,0 +1,20 @@
++import { getEsoDayStr } from "@akasha/day/eso-day"
++import { intelligenceIn } from "@akasha/readout-system/attribute-intelligence"
++import { levelOf } from "../../harness/attributes/levelling/attributes-levelling.module.code.ts"
++import { trackedDay } from "../../harness/attributes/reading/attributes-reading.module.code.ts"
++import { totalOverDays } from "../../harness/attributes/totalling/attributes-totalling.module.code.ts"
++
++// AN ATTRIBUTE IS ASKED FOR ITS OWN THREE FIGURES. Every reader takes these from here rather than
++// adding the days up again, so a reader and a tile can never disagree about what Alan has earned.
++export async function pointsToday(now: Date = new Date()): Promise<number | null> {
++  const values = await trackedDay(getEsoDayStr(now))
++  return values === null ? null : intelligenceIn(values)
++}
++
++export async function pointsTotal(root: string): Promise<number | null> {
++  return totalOverDays(root, intelligenceIn)
++}
++
++export async function level(root: string): Promise<number> {
++  return levelOf((await pointsTotal(root)) ?? 0)
++}
+diff --git a/alan/attributes/pages/intelligence.attribute.ts b/alan/attributes/pages/intelligence.attribute.ts
+index 6ddbda0d9baed926263f3d36f1117c6c4ac946bd..f98ace8a2dc1442021d0815a12f9f6bed433cec5 100644
+--- a/alan/attributes/pages/intelligence.attribute.ts
++++ b/alan/attributes/pages/intelligence.attribute.ts
+@@ -6,5 +6,5 @@ export const intelligence = {
+   slug: "intelligence",
+   definition: "what Alan has built by learning about the world",
+   pointUnit: "four learn-everything topics updated",
+-  lifetimePoints: 0,
++  code: "ts",
+ } as const satisfies Attribute
+diff --git a/alan/attributes/pages/luck.attribute.code.ts b/alan/attributes/pages/luck.attribute.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5c5440620b4fbd5f297b739ac4f12deea75a684b
+--- /dev/null
++++ b/alan/attributes/pages/luck.attribute.code.ts
+@@ -0,0 +1,14 @@
++// NOTHING RECORDS A REJECTION ATTEMPT YET, SO LUCK ANSWERS ABSENT RATHER THAN ZERO. A zero would
++// say Alan attempted nothing on a day nothing was asked of him, and this attribute earns points the
++// moment a rejection attempt is recorded anywhere a reader can reach.
++export async function pointsToday(): Promise<number | null> {
++  return null
++}
++
++export async function pointsTotal(): Promise<number | null> {
++  return null
++}
++
++export async function level(): Promise<number> {
++  return 0
++}
+diff --git a/alan/attributes/pages/luck.attribute.ts b/alan/attributes/pages/luck.attribute.ts
+index 1f7b152656b6a420ca4091a41fa7ff4a1fbb4b3e..dada311bfcfb649c46a86c7f1aadcb7db99c04d9 100644
+--- a/alan/attributes/pages/luck.attribute.ts
++++ b/alan/attributes/pages/luck.attribute.ts
+@@ -6,5 +6,5 @@ export const luck = {
+   slug: "luck",
+   definition: "what Alan has built by inviting rejection",
+   pointUnit: "one rejection attempted",
+-  lifetimePoints: 0,
++  code: "ts",
+ } as const satisfies Attribute
+diff --git a/alan/attributes/pages/strength.attribute.code.ts b/alan/attributes/pages/strength.attribute.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7239abb593a28e5f2e772906041fb9ba22b742ce
+--- /dev/null
++++ b/alan/attributes/pages/strength.attribute.code.ts
+@@ -0,0 +1,20 @@
++import { getEsoDayStr } from "@akasha/day/eso-day"
++import { strengthIn } from "@akasha/readout-system/attribute-strength"
++import { levelOf } from "../../harness/attributes/levelling/attributes-levelling.module.code.ts"
++import { trackedDay } from "../../harness/attributes/reading/attributes-reading.module.code.ts"
++import { totalOverDays } from "../../harness/attributes/totalling/attributes-totalling.module.code.ts"
++
++// AN ATTRIBUTE IS ASKED FOR ITS OWN THREE FIGURES. Every reader takes these from here rather than
++// adding the days up again, so a reader and a tile can never disagree about what Alan has earned.
++export async function pointsToday(now: Date = new Date()): Promise<number | null> {
++  const values = await trackedDay(getEsoDayStr(now))
++  return values === null ? null : strengthIn(values)
++}
++
++export async function pointsTotal(root: string): Promise<number | null> {
++  return totalOverDays(root, strengthIn)
++}
++
++export async function level(root: string): Promise<number> {
++  return levelOf((await pointsTotal(root)) ?? 0)
++}
+diff --git a/alan/attributes/pages/strength.attribute.ts b/alan/attributes/pages/strength.attribute.ts
+index dce5b99bc48f876c9194b36744f235ef97ea22d7..46d00d75c51870d17062badafe6f19185ad4e2c5 100644
+--- a/alan/attributes/pages/strength.attribute.ts
++++ b/alan/attributes/pages/strength.attribute.ts
+@@ -6,5 +6,5 @@ export const strength = {
+   slug: "strength",
+   definition: "what Alan has built by lifting weight",
+   pointUnit: "1000 kilograms lifted",
+-  lifetimePoints: 0,
++  code: "ts",
+ } as const satisfies Attribute
+diff --git a/alan/attributes/pages/wisdom.attribute.code.ts b/alan/attributes/pages/wisdom.attribute.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b35c506e47cb15ea866189212ce584f7ca875168
+--- /dev/null
++++ b/alan/attributes/pages/wisdom.attribute.code.ts
+@@ -0,0 +1,20 @@
++import { getEsoDayStr } from "@akasha/day/eso-day"
++import { wisdomIn } from "@akasha/readout-system/attribute-wisdom"
++import { levelOf } from "../../harness/attributes/levelling/attributes-levelling.module.code.ts"
++import { trackedDay } from "../../harness/attributes/reading/attributes-reading.module.code.ts"
++import { totalOverDays } from "../../harness/attributes/totalling/attributes-totalling.module.code.ts"
++
++// AN ATTRIBUTE IS ASKED FOR ITS OWN THREE FIGURES. Every reader takes these from here rather than
++// adding the days up again, so a reader and a tile can never disagree about what Alan has earned.
++export async function pointsToday(now: Date = new Date()): Promise<number | null> {
++  const values = await trackedDay(getEsoDayStr(now))
++  return values === null ? null : wisdomIn(values)
++}
++
++export async function pointsTotal(root: string): Promise<number | null> {
++  return totalOverDays(root, wisdomIn)
++}
++
++export async function level(root: string): Promise<number> {
++  return levelOf((await pointsTotal(root)) ?? 0)
++}
+diff --git a/alan/attributes/pages/wisdom.attribute.ts b/alan/attributes/pages/wisdom.attribute.ts
+index 22ae38f10a430b49331feedf90d8379db10d9302..9524d126194b14715cf7ebf1ea4f373374f510bb 100644
+--- a/alan/attributes/pages/wisdom.attribute.ts
++++ b/alan/attributes/pages/wisdom.attribute.ts
+@@ -6,5 +6,5 @@ export const wisdom = {
+   slug: "wisdom",
+   definition: "what Alan has built by learning about himself",
+   pointUnit: "10,000 words added to an all-about-alan topic",
+-  lifetimePoints: 0,
++  code: "ts",
+ } as const satisfies Attribute
+diff --git a/alan/attributes/properties/lifetime-points.number-property.ts b/alan/attributes/properties/lifetime-points.number-property.ts
+deleted file mode 100644
+index 93fde1a629972b5173f071e5c45261cf72348eaa..0000000000000000000000000000000000000000
+--- a/alan/attributes/properties/lifetime-points.number-property.ts
++++ /dev/null
+@@ -1,12 +0,0 @@
+-import type { NumberProperty } from "../../../pages/number-properties/number-property.page-type.ts"
+-
+-export type LifetimePoints = number
+-
+-export const lifetimePoints = {
+-  id: "01a06841-a12b-749f-b587-3b43c8b461be",
+-  pageTypeSlug: "number-property",
+-  slug: "lifetime-points",
+-  propertySlug: "lifetime-points",
+-  definition: "the points earned in an attribute for all time",
+-  max: null,
+-} as const satisfies NumberProperty
+diff --git a/alan/harness/attributes/reading/attributes-reading.module.code.ts b/alan/harness/attributes/reading/attributes-reading.module.code.ts
+index 4722aa109418bfb6d1b4c0199c8f2e1d2f4f25dc..5bcb638511bb493b8d3d6682af787fdea17c4d00 100644
+--- a/alan/harness/attributes/reading/attributes-reading.module.code.ts
++++ b/alan/harness/attributes/reading/attributes-reading.module.code.ts
+@@ -55,7 +55,7 @@ export function whyOf(thrown: unknown): string {
+   return thrown instanceof Error ? thrown.message : String(thrown)
+ }
+ 
+-async function trackedDay(day: string): Promise<Readonly<Record<string, unknown>> | null> {
++export async function trackedDay(day: string): Promise<Readonly<Record<string, unknown>> | null> {
+   const asked = await askDayByDate(day)
+   if (!asked.ok) {
+     throw new Error(
+@@ -73,14 +73,14 @@ export function spelledBack(stretch: Readonly<Record<string, unknown>>): Row {
+   return { values }
+ }
+ 
+-async function charismaOf(day: Readonly<Record<string, unknown>>): Promise<number | null> {
++export async function charismaOf(day: Readonly<Record<string, unknown>>): Promise<number | null> {
+   const dayId = day[ID]
+   if (typeof dayId !== "string" || dayId.trim() === "") return null
+   const stretches = await sessionsOfDay(dayId, STRETCH_KEYS)
+   return charismaIn(stretches.map(spelledBack))
+ }
+ 
+-async function constitutionOf(now: Date): Promise<number> {
++export async function constitutionOf(now: Date): Promise<number> {
+   const here = resolveRoots()
+   const window = wakeDayWindow(here, wakeDayOf(here, now))
+   const checkout = here[AKASHA]
+diff --git a/alan/harness/attributes/totalling/attributes-totalling.module.code.ts b/alan/harness/attributes/totalling/attributes-totalling.module.code.ts
+index b408e715f950a2bf61d6ccf678c64300e4a393c8..90ba4ecd42c56b5d966c1d161553cd8eaefccdd8 100644
+--- a/alan/harness/attributes/totalling/attributes-totalling.module.code.ts
++++ b/alan/harness/attributes/totalling/attributes-totalling.module.code.ts
+@@ -95,6 +95,12 @@ export function daysCounted(days: readonly Day[]): readonly Day[] {
+   return days.filter((day) => String(day[DATE] ?? "") >= ATTRIBUTES_COUNTED_FROM)
+ }
+ 
++// AN ATTRIBUTE ADDS ITS OWN DAYS UP THROUGH HERE RATHER THAN WALKING THE DAYS ITSELF. The days that
++// count and the way a day is added are one rule, and an attribute states only what one day earns.
++export function totalOverDays(root: string, pointsOf: (day: Day) => number | null): number | null {
++  return totalOver(daysCounted(daysTracked(root)), pointsOf)
++}
++
+ // EVERY DAY IS READ IN ONE ASK RATHER THAN ONE ASK TO THE DAY. Every day Alan tracked is read here
+ // and the days that count are picked out after, so asking day by day would put a hundred and more
+ // reads behind a single figure.
+@@ -124,7 +130,7 @@ export function spanTracked(days: readonly Day[]): { readonly from: string; read
+   }
+ }
+ 
+-async function constitutionOver(days: readonly Day[]): Promise<number> {
++export async function constitutionOver(days: readonly Day[]): Promise<number> {
+   const span = spanTracked(days)
+   const checkout = resolveRoots()[AKASHA]
+   if (checkout === undefined || checkout === "") throw new Error(NO_CHECKOUT)
+diff --git a/alan/harness/attributes/totalling/attributes-totalling.module.ts b/alan/harness/attributes/totalling/attributes-totalling.module.ts
+index 4f8f857aa67f35411a996d5a7c2cd698583bdacc..2ff9a05a2d30dace1ed4b8df2cd37a97a8caa536 100644
+--- a/alan/harness/attributes/totalling/attributes-totalling.module.ts
++++ b/alan/harness/attributes/totalling/attributes-totalling.module.ts
+@@ -68,10 +68,6 @@ export const attributesTotalling = {
+       invariantKind: "departure",
+       statement: "The days that cannot be read leave every attribute unread rather than zero.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "No total is kept beside a readout.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here turns a total into a color.",
