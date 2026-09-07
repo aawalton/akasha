@@ -1,0 +1,17 @@
+diff --git a/temper/temper-commands/master-writ-probe-reading/master-writ-probe-reading.module.ts b/temper/temper-commands/master-writ-probe-reading/master-writ-probe-reading.module.ts
+index 4d1d3aa2462f9d77fc005e272ea2fad40c7344a5..711d859378899ca652e17a3569607a0c72c8c21d 100644
+--- a/temper/temper-commands/master-writ-probe-reading/master-writ-probe-reading.module.ts
++++ b/temper/temper-commands/master-writ-probe-reading/master-writ-probe-reading.module.ts
+@@ -9,7 +9,11 @@ export const masterWritProbeReading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The probe is ruled on whole, so an unknown field refuses the read.",
++      statement: "The probe is ruled on whole.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An unknown field refuses the read.",
+     },
+   ],
+ } as const satisfies Module
