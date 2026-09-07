@@ -1,0 +1,50 @@
+diff --git a/changes/mechanical/code/change-mechanical-code.page-type.ts b/changes/mechanical/code/change-mechanical-code.page-type.ts
+index bef54b27065beb69510a971c99849b58567764fe..4696275a9518193581a0968b948201281b46d28b 100644
+--- a/changes/mechanical/code/change-mechanical-code.page-type.ts
++++ b/changes/mechanical/code/change-mechanical-code.page-type.ts
+@@ -10,4 +10,5 @@ export const changeMechanicalCode = {
+   definition: "a mechanical change acting on a body read as code",
+   pluralSlug: "change-mechanical-code",
+   extendsSlug: ["page-type/change-mechanical"],
++  partSlugs: [],
+ } as const satisfies PageType
+diff --git a/changes/mechanical/data/change-mechanical-data.page-type.ts b/changes/mechanical/data/change-mechanical-data.page-type.ts
+index f34de5407e6c10970dbc32113ff8af84ebacfae4..2374f2737688e7809bdd94c2affd6bbb18e93bd7 100644
+--- a/changes/mechanical/data/change-mechanical-data.page-type.ts
++++ b/changes/mechanical/data/change-mechanical-data.page-type.ts
+@@ -10,4 +10,5 @@ export const changeMechanicalData = {
+   definition: "a mechanical change acting on a body read as data",
+   pluralSlug: "change-mechanical-data",
+   extendsSlug: ["page-type/change-mechanical"],
++  partSlugs: [],
+ } as const satisfies PageType
+diff --git a/changes/mechanical/file/change-mechanical-file.page-type.ts b/changes/mechanical/file/change-mechanical-file.page-type.ts
+index c26f35e39f62a2c09c1e2032a30fc22b6d2723ed..3f1dee0d09574362cac8ab5477e3c9dc725a03b2 100644
+--- a/changes/mechanical/file/change-mechanical-file.page-type.ts
++++ b/changes/mechanical/file/change-mechanical-file.page-type.ts
+@@ -10,4 +10,5 @@ export const changeMechanicalFile = {
+   definition: "a mechanical change acting on where a file sits rather than on what that file holds",
+   pluralSlug: "change-mechanical-file",
+   extendsSlug: ["page-type/change-mechanical"],
++  partSlugs: [],
+ } as const satisfies PageType
+diff --git a/changes/mechanical/folder/change-mechanical-folder.page-type.ts b/changes/mechanical/folder/change-mechanical-folder.page-type.ts
+index 590c0f10d1fe66b577565b193f28d0dc0c00e29b..87c6c60e15dab9016c3a50124b42e6d6f5cfb5b1 100644
+--- a/changes/mechanical/folder/change-mechanical-folder.page-type.ts
++++ b/changes/mechanical/folder/change-mechanical-folder.page-type.ts
+@@ -10,4 +10,5 @@ export const changeMechanicalFolder = {
+   definition: "a mechanical change acting on the files a folder holds rather than on one of them",
+   pluralSlug: "change-mechanical-folder",
+   extendsSlug: ["page-type/change-mechanical"],
++  partSlugs: [],
+ } as const satisfies PageType
+diff --git a/changes/mechanical/text/change-mechanical-text.page-type.ts b/changes/mechanical/text/change-mechanical-text.page-type.ts
+index eec8a7878c69ad87ff3cd28de7f643a4173d3b08..ea077a46387c18f1007afa4b6bbc32ee300782f5 100644
+--- a/changes/mechanical/text/change-mechanical-text.page-type.ts
++++ b/changes/mechanical/text/change-mechanical-text.page-type.ts
+@@ -10,4 +10,5 @@ export const changeMechanicalText = {
+   definition: "a mechanical change acting on a body read as text",
+   pluralSlug: "change-mechanical-text",
+   extendsSlug: ["page-type/change-mechanical"],
++  partSlugs: [],
+ } as const satisfies PageType
