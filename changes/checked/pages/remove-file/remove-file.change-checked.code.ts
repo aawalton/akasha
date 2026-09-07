@@ -1,4 +1,3 @@
-import { partedIn } from "@akasha/pages/page-file-name"
 import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -12,12 +11,6 @@ export type RemoveFileAsked = {
 }
 
 export async function removeFile(world: World, given: RemoveFileAsked): Promise<Answer> {
-  const said = partedIn(given.at)
-  if (said !== null && said.sections.length === 0) {
-    return refusing(
-      `\`${given.at}\` is a page file, which \`remove-page\` takes away rather than this change`
-    )
-  }
   return (await reach(world, REMOVE_FILE, { at: given.at })).said
 }
 
