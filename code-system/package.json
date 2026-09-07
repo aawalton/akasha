@@ -48,6 +48,8 @@
     "./workspace-package": "./workspace-packages/workspace-package.page-type.ts"
   },
   "dependencies": {
+    "@akasha/domains": "workspace:*",
+    "@akasha/pages": "workspace:*",
     "typescript": "5.9.3"
   }
 }

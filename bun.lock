@@ -522,6 +522,8 @@
     "code-system": {
       "name": "@akasha/code",
       "dependencies": {
+        "@akasha/domains": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "typescript": "5.9.3",
       },
     },
