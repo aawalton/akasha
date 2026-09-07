@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/inference/clients/segment-client/segment-client.module.ts b/inference/clients/segment-client/segment-client.module.ts
+index 533134d3104556e08a0b9547421f995872b1b3d0..7b306c8eb2562d53b8a4f9b770ab0a8e40f252fa 100644
+--- a/inference/clients/segment-client/segment-client.module.ts
++++ b/inference/clients/segment-client/segment-client.module.ts
+@@ -13,7 +13,7 @@ export const segmentClient = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The service answers a matte, a cutout or a flattened image.",
++      statement: "The service answers a matte or a cutout or a flattened image.",
+     },
+     {
+       invariantKind: "departure",
