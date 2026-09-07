@@ -4,5 +4,5 @@ export const commonLanguage = {
   id: "01a07c58-5eb9-76c2-adbc-afbe67cc6460",
   pageTypeSlug: "standard-agent-english-term-kind",
   slug: "common-language",
-  definition: "a word carrying its ordinary sense",
+  definition: "a term carrying its ordinary sense",
 } as const satisfies StandardAgentEnglishTermKind

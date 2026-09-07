@@ -4,5 +4,5 @@ export const domainName = {
   id: "01a07c58-442e-70e7-8229-740e667fb62b",
   pageTypeSlug: "standard-agent-english-term-kind",
   slug: "domain-name",
-  definition: "a word whose sense is set by the page declaring that word",
+  definition: "a term whose sense is set by the page declaring that term",
 } as const satisfies StandardAgentEnglishTermKind
