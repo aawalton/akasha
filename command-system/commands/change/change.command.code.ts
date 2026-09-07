@@ -56,7 +56,12 @@ const NO_MESSAGE = "`apply` takes the commit message, and the message given is e
 
 const CHANGE_COMMAND = "change-command"
 
-const COMMAND_TYPES: readonly string[] = [CHANGE_COMMAND, "change-checked", "change-authored"]
+const COMMAND_TYPES: readonly string[] = [
+  CHANGE_COMMAND,
+  "change-checked",
+  "change-authored",
+  "change-restated",
+]
 
 const DROP = "drop"
 
@@ -75,13 +80,17 @@ const DROP_SAID = "`drop` takes away the edits kept, and is the one word here na
 const NO_ARGUMENTS =
   "a change reads its arguments from standard input, and this call piped nothing in"
 
+const NO_SUCH_PATH = "ENOENT"
+
 export type Over = (world: World) => Promise<Said>
 
 function textIn(root: string): (path: string) => string | null {
   return (path) => {
     try {
       return readFileSync(join(root, path), "utf8")
-    } catch {
+    } catch (cause) {
+      const said = cause instanceof Error && "code" in cause ? String(cause.code) : ""
+      if (said !== NO_SUCH_PATH) throw cause
       return null
     }
   }
