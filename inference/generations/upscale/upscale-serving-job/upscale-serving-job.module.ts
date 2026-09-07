@@ -13,8 +13,11 @@ export const upscaleServingJob = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The job is never retried, so a failure is read rather than hidden by a second attempt.",
+      statement: "The job is never retried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A failure is read rather than hidden by a second attempt.",
     },
     {
       invariantKind: "departure",
