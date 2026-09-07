@@ -1,0 +1,453 @@
+writerOwesReading: false
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.code.ts b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+index 84e39acad8f77dfb857c4fe265aa0bba7227f010..0e1e8163b099ab0d932edf122a7cf50e47271158 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.code.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+@@ -1,8 +1,11 @@
+-import { existsSync, mkdirSync, readFileSync, rmSync } from "node:fs"
++import { Buffer } from "node:buffer"
++import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync, statSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import { exclusively } from "@akasha/file-system/exclusive"
+ import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
++import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
+ import { besideAt } from "@akasha/pages/page-file-name"
++import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
+ import { gathered } from "../change-answer/change-answer.module.code.ts"
+ import type { Answer, Edit } from "../change-answer/change-answer.module.types.ts"
+ 
+@@ -10,6 +13,8 @@ const SLUG = "edits"
+ 
+ const HELD = "jsonl"
+ 
++const FIRST_PART = 1
++
+ const KEPT = "refs/akasha/edits"
+ 
+ const HANDED = "refs/akasha/edits-handed"
+@@ -22,13 +27,20 @@ const NO_ROW = "reads as no edit"
+ 
+ export type Kept = { readonly rows: readonly Edit[] } | { readonly why: string }
+ 
++function partAt(page: string, part: number): string | null {
++  return uncommittedPartAt(page, SLUG, HELD, part)
++}
++
+ export function editsAt(page: string): string | null {
+-  return besideAt(page, SLUG, HELD)
++  return partAt(page, FIRST_PART)
+ }
+ 
+ export function keptAt(page: string): string | null {
+-  const at = editsAt(page)
+-  return at === null ? null : `${KEPT}/${at}`
++  return editsAt(page)
++}
++
++function staleAt(page: string): string | null {
++  return besideAt(page, SLUG, HELD)
+ }
+ 
+ function edited(said: unknown): Edit | null {
+@@ -78,7 +90,7 @@ function textOf(rows: readonly Edit[]): string {
+   return rows.map((one) => `${JSON.stringify(one)}\n`).join("")
+ }
+ 
+-function staleAt(root: string, at: string): string | null {
++function textAt(root: string, at: string): string | null {
+   const full = join(root, at)
+   if (!existsSync(full)) return null
+   try {
+@@ -103,34 +115,124 @@ export function dropUnder(root: string, ref: string): undefined {
+   gitTold(root, ["update-ref", "-d", ref])
+ }
+ 
+-function readAt(root: string, at: string): string | null {
+-  return readUnder(root, `${KEPT}/${at}`) ?? staleAt(root, at)
++function partsAt(root: string, page: string): readonly string[] {
++  return uncommittedPartsOf(page, SLUG, HELD, (at) => existsSync(join(root, at)))
++}
++
++function textOver(root: string, page: string): string | null {
++  const held: string[] = []
++  for (const at of partsAt(root, page)) {
++    const text = textAt(root, at)
++    if (text !== null) held.push(text.endsWith("\n") ? text : `${text}\n`)
++  }
++  return held.length === 0 ? null : held.join("")
+ }
+ 
+-function putAt(root: string, at: string, text: string): undefined {
+-  putUnder(root, `${KEPT}/${at}`, text)
+-  rmSync(join(root, at), { force: true })
++function staleIn(root: string, page: string): string | null {
++  const old = staleAt(page)
++  if (old === null) return null
++  return readUnder(root, `${KEPT}/${old}`) ?? textAt(root, old)
+ }
+ 
+-function heldAt(root: string, at: string): Kept {
+-  const held = readAt(root, at)
++function heldIn(root: string, page: string): Kept {
++  const held = textOver(root, page) ?? staleIn(root, page)
+   return held === null ? { rows: [] } : rowsIn(held)
+ }
+ 
+ export function editsIn(root: string, page: string): Kept {
++  return editsAt(page) === null ? { why: NO_PAGE } : heldIn(root, page)
++}
++
++function sizeOf(root: string, at: string): number {
++  try {
++    return statSync(join(root, at)).size
++  } catch {
++    return 0
++  }
++}
++
++function fillingAt(root: string, page: string, adding: number): string | null {
++  let part = FIRST_PART
++  let found = partAt(page, part)
++  if (found === null) return null
++  for (;;) {
++    const next = partAt(page, part + 1)
++    if (next === null || !existsSync(join(root, next))) break
++    part += 1
++    found = next
++  }
++  const size = sizeOf(root, found)
++  if (size === 0 || size + adding <= ENTRY_CEILING) return found
++  return partAt(page, part + 1) ?? found
++}
++
++function appended(root: string, page: string, text: string): undefined {
++  const at = fillingAt(root, page, Buffer.byteLength(text, "utf8"))
++  if (at === null) return
++  const full = join(root, at)
++  mkdirSync(dirname(full), { recursive: true })
++  appendFileSync(full, text)
++}
++
++function appending(root: string, page: string, rows: readonly Edit[]): undefined {
++  let held: string[] = []
++  let bytes = 0
++  for (const one of rows) {
++    const line = `${JSON.stringify(one)}\n`
++    const size = Buffer.byteLength(line, "utf8")
++    if (bytes > 0 && bytes + size > ENTRY_CEILING) {
++      appended(root, page, held.join(""))
++      held = []
++      bytes = 0
++    }
++    held.push(line)
++    bytes += size
++  }
++  if (held.length > 0) appended(root, page, held.join(""))
++}
++
++function abandoned(root: string, page: string): undefined {
++  const old = staleAt(page)
++  if (old === null) return
++  dropUnder(root, `${KEPT}/${old}`)
++  rmSync(join(root, old), { force: true })
++}
++
++function swept(root: string, page: string): undefined {
++  for (const at of partsAt(root, page)) rmSync(join(root, at), { force: true })
++  abandoned(root, page)
++}
++
++function migrated(root: string, page: string): undefined {
+   const at = editsAt(page)
+-  return at === null ? { why: NO_PAGE } : heldAt(root, at)
++  if (at === null || existsSync(join(root, at))) return
++  const stale = staleIn(root, page)
++  if (stale === null) return
++  const read = rowsIn(stale)
++  if ("why" in read) return
++  appending(root, page, read.rows)
++  abandoned(root, page)
+ }
+ 
+ type Rows = readonly Edit[] | null
+ 
+-function settled(root: string, at: string, next: Rows): Kept {
++function followsOn(had: readonly Edit[], next: readonly Edit[]): boolean {
++  if (next.length < had.length) return false
++  for (let at = 0; at < had.length; at += 1) if (next[at] !== had[at]) return false
++  return true
++}
++
++function settled(root: string, page: string, had: readonly Edit[], next: Rows): Kept {
+   if (next === null || next.length === 0) {
+-    dropUnder(root, `${KEPT}/${at}`)
+-    rmSync(join(root, at), { force: true })
++    swept(root, page)
+     return { rows: [] }
+   }
+-  putAt(root, at, textOf(next))
++  if (followsOn(had, next)) {
++    appending(root, page, next.slice(had.length))
++    return { rows: next }
++  }
++  swept(root, page)
++  appending(root, page, next)
+   return { rows: next }
+ }
+ 
+@@ -150,17 +252,27 @@ export function keptEdits(
+   const full = join(root, at)
+   mkdirSync(dirname(full), { recursive: true })
+   return exclusively(full, (): Kept | Promise<Kept> => {
+-    const had = heldAt(root, at)
++    migrated(root, page)
++    const had = heldIn(root, page)
+     if ("why" in had) return had
+     const next = act(had.rows)
+     return next instanceof Promise
+-      ? next.then((one) => settled(root, at, one))
+-      : settled(root, at, next)
++      ? next.then((one) => settled(root, page, had.rows, one))
++      : settled(root, page, had.rows, next)
+   })
+ }
+ 
+ export function appendEdits(root: string, page: string, edits: readonly Edit[]): Kept {
+-  return keptEdits(root, page, (had) => [...had, ...edits])
++  const at = editsAt(page)
++  if (at === null) return { why: NO_PAGE }
++  if (edits.length === 0) return { rows: [] }
++  const full = join(root, at)
++  mkdirSync(dirname(full), { recursive: true })
++  return exclusively(full, (): Kept => {
++    migrated(root, page)
++    appending(root, page, edits)
++    return { rows: edits }
++  })
+ }
+ 
+ export function foldedIn(rows: readonly Edit[]): Answer {
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.test.ts b/changes/modules/edits-keeping/edits-keeping.module.test.ts
+index f9af886cf9270c0dddc5a1cee87d7725d242198f..f562d5a4b9970675dea8e8fd6b7a57b56bc6544c 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.test.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.test.ts
+@@ -1,16 +1,31 @@
+ import { afterAll, expect, test } from "bun:test"
+-import { mkdirSync, writeFileSync } from "node:fs"
++import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import { said as gitIn } from "@akasha/git/git-running"
+ import { scratch } from "@akasha/indexes/indexing/testing"
++import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
+ import { taking, writing } from "../change-answer/change-answer.module.code.ts"
+-import { appendEdits, editsAt, editsIn, foldedIn, keptEdits } from "./edits-keeping.module.code.ts"
++import {
++  appendEdits,
++  editsAt,
++  editsIn,
++  foldedIn,
++  keptAt,
++  keptEdits,
++  putUnder,
++} from "./edits-keeping.module.code.ts"
+ 
+ afterAll(scratch.sweep)
+ 
+ const PAGE = "akasha/agents/pages/tester.agent.ts"
+ 
+-const AT = "akasha/agents/pages/tester.agent.edits.jsonl"
++const AT = "akasha/agents/pages/tester.agent.edits.uncommitted.jsonl"
++
++const TWO_AT = "akasha/agents/pages/tester.agent.edits.part2.uncommitted.jsonl"
++
++const OLD_AT = "akasha/agents/pages/tester.agent.edits.jsonl"
++
++const KEPT = `refs/akasha/edits/${OLD_AT}`
+ 
+ const ONE = "akasha/one.module.ts"
+ 
+@@ -151,3 +166,61 @@ test("two rows for one path the later did not follow fold to a refusal", () => {
+   expect(said.edits).toEqual([])
+   expect(said.refused ?? "").toContain(`\`${ONE}\` is answered twice`)
+ })
++
++test("an append leaves the bytes already appended where those bytes are", () => {
++  const root = rootFor()
++  appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
++  const was = readFileSync(join(root, AT), "utf8")
++
++  appendEdits(root, PAGE, [writing(TWO, null, "b\n")])
++
++  expect(readFileSync(join(root, AT), "utf8").startsWith(was)).toBe(true)
++})
++
++test("an append answers the rows appended rather than every row kept", () => {
++  const root = rootFor()
++  appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
++
++  expect(appendEdits(root, PAGE, [writing(TWO, null, "b\n")])).toEqual({
++    rows: [writing(TWO, null, "b\n")],
++  })
++})
++
++test("an append leaves no ref and writes no git object", () => {
++  const root = rootFor()
++  appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
++
++  expect(gitIn(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/**"]).trim()).toBe("")
++})
++
++test("a row past the ceiling is alone and the row after it opens the next file", () => {
++  const root = rootFor()
++  appendEdits(root, PAGE, [writing(ONE, null, "z".repeat(ENTRY_CEILING))])
++
++  appendEdits(root, PAGE, [writing(TWO, null, "b\n")])
++
++  expect(existsSync(join(root, TWO_AT))).toBe(true)
++  expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE, TWO])
++})
++
++test("a ledger an earlier keeping left under a ref is read where no file is there", () => {
++  const root = rootFor()
++  putUnder(root, KEPT, `${JSON.stringify(writing(ONE, null, "a\n"))}\n`)
++
++  expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE])
++})
++
++test("the next write moves that ledger into the file and takes the ref away", () => {
++  const root = rootFor()
++  putUnder(root, KEPT, `${JSON.stringify(writing(ONE, null, "a\n"))}\n`)
++
++  appendEdits(root, PAGE, [writing(TWO, null, "b\n")])
++
++  expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE, TWO])
++  expect(existsSync(join(root, AT))).toBe(true)
++  expect(gitIn(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/**"]).trim()).toBe("")
++})
++
++test("the file the edits are kept in is the file the apply reports", () => {
++  expect(keptAt(PAGE)).toBe(AT)
++})
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.ts b/changes/modules/edits-keeping/edits-keeping.module.ts
+index 65f0f6dcd6a6cfa4db3bc751b3f6bf820af5f7e9..34cf299d7f593197094078c1eed055e3a22f22fc 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.ts
+@@ -4,13 +4,17 @@ export const editsKeeping = {
+   id: "01a0777c-12c6-7383-a773-c4a635e8720f",
+   pageTypeSlug: "module",
+   slug: "edits-keeping",
+-  definition: "the edits an agent has answered and not landed, kept under a ref naming its page",
++  definition: "the edits an agent has answered and not landed, appended beside the agent's page",
+   code: "ts",
+   test: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The edits are kept under a ref named for the page of the answering agent.",
++      statement: "The edits are kept in a file beside the page of the answering agent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That file is kept outside the commit.",
+     },
+     {
+       invariantKind: "departure",
+@@ -18,7 +22,7 @@ export const editsKeeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The edits outlive the page the ref is named for.",
++      statement: "The edits outlive the page the file sits beside.",
+     },
+     {
+       invariantKind: "departure",
+@@ -36,6 +40,10 @@ export const editsKeeping = {
+       invariantKind: "departure",
+       statement: "That refusal names the line the reading stopped at.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A refusal counts its line from the first row of the first numbered file.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The rows are answered in the order the rows were appended.",
+@@ -46,11 +54,45 @@ export const editsKeeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The rows are read and written again under one turn.",
++      statement: "A row is appended to the last numbered file rather than to a file written anew.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A row rolls into the next numbered file where the ceiling is reached.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A row larger than the ceiling is alone in the file that row opens.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file's fill is read from its size rather than from its text.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An append answers the rows appended rather than every row kept.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An append reads no row already kept.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A settle whose rows open with the rows read appends only the rows past the rows read.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reader outside that turn never sees the edits half written.",
++      statement:
++        "A settle whose rows open otherwise takes the files away and writes the files again.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A writer takes a turn over the file before appending.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A reader taking no turn can meet a row a write left half appended.",
+     },
+     {
+       invariantKind: "departure",
+@@ -58,7 +100,7 @@ export const editsKeeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A ref left holding no row is taken away rather than left empty.",
++      statement: "A file left holding no row is taken away rather than left empty.",
+     },
+     {
+       invariantKind: "departure",
+@@ -82,7 +124,7 @@ export const editsKeeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Handing edits over takes away the ref the subagent held.",
++      statement: "Handing edits over takes away the files the subagent held.",
+     },
+     {
+       invariantKind: "departure",
+@@ -98,7 +140,11 @@ export const editsKeeping = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "A file left by an earlier keeping is read where the ref holds nothing.",
++      statement: "A ledger an earlier keeping left under a ref is read where no file is there.",
++    },
++    {
++      invariantKind: "stopgap",
++      statement: "The next write moves that ledger into the file and takes the ref away.",
+     },
+   ],
+ } as const satisfies Module
