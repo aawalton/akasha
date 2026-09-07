@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
@@ -40,7 +41,8 @@ function holding(body: string): (path: string) => string | null {
 }
 
 function saidOf(key: string, value: string, textOf: (path: string) => string | null): Answer {
-  return removePropertyValue(worldAt(ROOT, textOf), { at: PAGE, key, value })
+  const world = worldAt(ROOT, textOf)
+  return widened(removePropertyValue(world, { at: PAGE, key, value }), world.textOf)
 }
 
 function whyOf(key: string, value: string, textOf: (path: string) => string | null): string {

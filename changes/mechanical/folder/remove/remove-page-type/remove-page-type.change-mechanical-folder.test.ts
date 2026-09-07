@@ -44,7 +44,7 @@ const RUNS: Reaching = (world, at, given) => {
     return Promise.resolve(widened(removeFile(world, given as { at: string }), world.textOf))
   }
   if (at === "change-mechanical-file-content/remove-property-value") {
-    return Promise.resolve(removePropertyValue(world, given as Unnaming))
+    return Promise.resolve(widened(removePropertyValue(world, given as Unnaming), world.textOf))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }

@@ -1,12 +1,8 @@
 import { parsedAs } from "@akasha/code/code-source"
 import { placingOver, readingOf, typingOver } from "@akasha/code/code-typing"
 import ts from "typescript"
-import {
-  answered,
-  refusing,
-  writing,
-} from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
 
@@ -62,7 +58,7 @@ function requiredIn(world: World, given: RemovePropertyValueAsked): boolean | nu
   return found === undefined ? false : (found.flags & ts.SymbolFlags.Optional) === 0
 }
 
-export function removePropertyValue(world: World, given: RemovePropertyValueAsked): Answer {
+export function removePropertyValue(world: World, given: RemovePropertyValueAsked): Said {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const source = parsedAs(given.at, text)
@@ -84,7 +80,7 @@ export function removePropertyValue(world: World, given: RemovePropertyValueAske
     )
     if (found < 0) return refusing(`\`${given.key}\` holds no \`${given.value}\``)
     const body = without(text, source, holding, holding.elements, found)
-    return answered([writing(given.at, text, body)])
+    return stating([{ kind: "replace", path: given.at, contentFrom: text, contentTo: body }])
   }
   if (!ts.isStringLiteral(holding) || holding.text !== given.value) {
     return refusing(`\`${given.key}\` holds no \`${given.value}\``)
@@ -96,9 +92,10 @@ export function removePropertyValue(world: World, given: RemovePropertyValueAske
   if (required) {
     return refusing(`\`${given.key}\` is required, so taking \`${given.value}\` away is a retype`)
   }
-  return answered([writing(given.at, text, without(text, source, owner, owner.properties, at))])
+  const left = without(text, source, owner, owner.properties, at)
+  return stating([{ kind: "replace", path: given.at, contentFrom: text, contentTo: left }])
 }
 
-export function runChange(world: World, given: RemovePropertyValueAsked): Answer {
+export function runChange(world: World, given: RemovePropertyValueAsked): Said {
   return removePropertyValue(world, given)
 }
