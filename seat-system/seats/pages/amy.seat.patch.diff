@@ -25,18 +25,3 @@ index 499ed95c4be5746c76a759b26892539bc67992e8..c16810154507b0b3ede830913f399437
      pageId: one.pageId,
      ...(stated ? { config } : {}),
    }
-diff --git a/pages/access/file-property-defs/file-property-defs.module.ts b/pages/access/file-property-defs/file-property-defs.module.ts
-index 5cd629438de983aa9583c668dc264b415e479db0..59d5815b3841468c53f856db9a9b59ca4f6c2a4f 100644
---- a/pages/access/file-property-defs/file-property-defs.module.ts
-+++ b/pages/access/file-property-defs/file-property-defs.module.ts
-@@ -32,5 +32,10 @@ export const filePropertyDefs = {
-       invariantKind: "departure",
-       statement: "A shape carries the property naming the account a page belongs to.",
-     },
-+    {
-+      invariantKind: "departure",
-+      statement:
-+        "A definition's type is the kind its value is rendered as rather than the page type declaring it.",
-+    },
-   ],
- } as const satisfies Module
