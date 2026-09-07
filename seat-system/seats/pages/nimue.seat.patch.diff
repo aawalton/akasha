@@ -1,0 +1,370 @@
+writerOwesReading: false
+diff --git a/changes/checked/change-checked.page-type.ts b/changes/checked/change-checked.page-type.ts
+index b48e502609f58aeca86a8a7aec6e69b4b6c09fe2..81c22d946bb25507706cebac41c1d13da4a68652 100644
+--- a/changes/checked/change-checked.page-type.ts
++++ b/changes/checked/change-checked.page-type.ts
+@@ -28,6 +28,7 @@ export const changeChecked = {
+     "change-checked/rename-page",
+     "change-checked/change-domain-parent",
+     "change-checked/remove-package-alias",
++    "change-checked/move-folder-package",
+   ],
+   invariants: [
+     {
+diff --git a/changes/checked/pages/move-folder-package/move-folder-package.change-checked.code.ts b/changes/checked/pages/move-folder-package/move-folder-package.change-checked.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fb7437b5a93c4655ac732ae48c22029dfd98e0dd
+--- /dev/null
++++ b/changes/checked/pages/move-folder-package/move-folder-package.change-checked.code.ts
+@@ -0,0 +1,121 @@
++import { basename, dirname, join, relative } from "node:path"
++import { partedIn } from "@akasha/pages/page-file-name"
++import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
++import {
++  answered,
++  missing,
++  refusing,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
++
++const CHANGE_IMPORTS = "change-mechanical-code/change-imports"
++
++const RENAME_PAGE_SLUG = "change-mechanical-data/rename-page-slug"
++
++const PACKAGE = "workspace-package"
++
++const UNCARRIED = "so no folder is carried"
++
++const AT = "at"
++
++const TO = "to"
++
++const UNDER = "/"
++
++export type MoveFolderPackageAsked = {
++  readonly at: string
++  readonly to: string
++}
++
++type Carried = { readonly moved: ReadonlyMap<string, string> } | { readonly refused: string }
++
++export function landsAt(tail: string, to: string, opening: string, said: string): string {
++  const base = basename(tail)
++  if (!base.startsWith(opening)) return join(to, tail)
++  return join(to, dirname(tail), `${said}${base.slice(opening.length - 1)}`)
++}
++
++function carriedInto(
++  world: World,
++  from: string,
++  to: string,
++  said: string,
++  held: { readonly slug: string; readonly pageType: string }
++): Carried {
++  const opening = `${held.slug}.${held.pageType}.`
++  const moved = new Map<string, string>()
++  for (const one of world.index.everyPath()) {
++    if (!one.startsWith(`${from}${UNDER}`)) continue
++    const next = landsAt(relative(from, one), to, opening, `${said}.${held.pageType}.`)
++    if (world.textOf(next) !== null)
++      return { refused: `\`${next}\` is a body already, ${UNCARRIED}` }
++    moved.set(one, next)
++  }
++  return { moved }
++}
++
++export async function moveFolderPackage(
++  world: World,
++  given: MoveFolderPackageAsked
++): Promise<Answer> {
++  const parted = partedIn(given.at)
++  if (parted === null || pageIn(world, given.at) === null) {
++    return refusing(`\`${given.at}\` names no page, ${UNCARRIED}`)
++  }
++  if (parted.pageType !== PACKAGE) {
++    return refusing(`\`${given.at}\` is no \`${PACKAGE}\`, ${UNCARRIED}`)
++  }
++  const from = dirname(given.at)
++  if (from === given.to) {
++    return refusing(`\`${given.to}\` is the folder this package sits in, ${UNCARRIED}`)
++  }
++  const said = basename(given.to)
++  const carried = carriedInto(world, from, given.to, said, parted)
++  if ("refused" in carried) return refusing(carried.refused)
++  const moved = carried.moved
++  if (moved.size === 0) return refusing(`\`${from}\` holds no file, ${UNCARRIED}`)
++  if (!moved.has(given.at))
++    return refusing(`\`${given.at}\` is no file of \`${from}\`, ${UNCARRIED}`)
++  const reading = importingOf(world.index, moved)
++  if ("unread" in reading) return refusing(reading.unread)
++  const held = Object.fromEntries(moved)
++  const edits: Edit[] = []
++  let seen = world
++  for (const [one, next] of moved) {
++    if (seen.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
++    const answer = await reach(seen, CHANGE_IMPORTS, { was: one, now: next, moved: held })
++    if (answer.said.refused !== null) return answer.said
++    edits.push(...answer.said.edits)
++    seen = answer.world
++  }
++  for (const path of reading.importers) {
++    if (moved.has(path)) continue
++    const body = seen.textOf(path)
++    if (body === null) return refusing(`\`${path}\` names a path that moved and could not be read`)
++    const answer = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved: held })
++    if (answer.said.refused !== null) return answer.said
++    for (const one of answer.said.edits) {
++      if (one.body !== body) edits.push(one)
++    }
++    seen = answer.world
++  }
++  if (said === parted.slug) return answered(edits)
++  const landed = moved.get(given.at)
++  if (landed === undefined) return refusing(`\`${given.at}\` was not carried, ${UNCARRIED}`)
++  const answer = await reach(seen, RENAME_PAGE_SLUG, { at: landed, to: said })
++  if (answer.said.refused !== null) return answer.said
++  edits.push(...answer.said.edits)
++  return answered(edits)
++}
++
++export type Asked = Readonly<Record<string, string>>
++
++export async function runChange(world: World, given: Asked): Promise<Answer> {
++  const at = given[AT]
++  if (at === undefined) return refusing(missing(AT))
++  const to = given[TO]
++  if (to === undefined) return refusing(missing(TO))
++  return await moveFolderPackage(world, { at, to })
++}
+diff --git a/changes/checked/pages/move-folder-package/move-folder-package.change-checked.test.ts b/changes/checked/pages/move-folder-package/move-folder-package.change-checked.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..625290895320500742a624d716bb6103331c6ec0
+--- /dev/null
++++ b/changes/checked/pages/move-folder-package/move-folder-package.change-checked.test.ts
+@@ -0,0 +1,142 @@
++import { afterAll, expect, test } from "bun:test"
++import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
++import { runChange as changeImports } from "../../../mechanical/pages/change-imports/change-imports.change-mechanical-code.code.ts"
++import { runChange as renamePageSlug } from "../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts"
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { landsAt, moveFolderPackage } from "./move-folder-package.change-checked.code.ts"
++
++afterAll(scratch.sweep)
++
++const FROM = "akasha/one"
++
++const INTO = "akasha/two"
++
++const PACKAGE_PAGE = "akasha/one/one.workspace-package.ts"
++
++const INNER_PAGE = "akasha/one/held/held.module.ts"
++
++const INNER_CODE = "akasha/one/held/held.module.code.ts"
++
++const OUTER_CODE = "akasha/outside/namer.module.code.ts"
++
++const LANDED_PAGE = "akasha/two/two.workspace-package.ts"
++
++const LANDED_CODE = "akasha/two/held/held.module.code.ts"
++
++const idAt = (one: string): string => `01a07c55-0004-7000-8000-00000000000${one}`
++
++const SPELLED: Readonly<Record<string, string>> = {
++  "akasha/workspace-package.page-type.ts": bodyOf({
++    id: idAt("0"),
++    pageTypeSlug: "page-type",
++    slug: "workspace-package",
++    extendsSlug: ["page-type/domain"],
++  }),
++  [PACKAGE_PAGE]: pageOf({
++    id: idAt("1"),
++    pageTypeSlug: "workspace-package",
++    slug: "one",
++  }),
++  [INNER_PAGE]: pageOf({
++    id: idAt("2"),
++    pageTypeSlug: "module",
++    slug: "held",
++    code: "ts",
++  }),
++  [INNER_CODE]: "export const held = 1\n",
++  "akasha/outside/namer.module.ts": pageOf({
++    id: idAt("3"),
++    pageTypeSlug: "module",
++    slug: "namer",
++    code: "ts",
++  }),
++  [OUTER_CODE]: `import { held } from "../one/held/held.module.code.ts"\n\nexport const namer = held\n`,
++}
++
++function worldIn(root: string): World {
++  return worldAt(root, textIn(root), (world, at, given) => {
++    if (at === "change-mechanical-code/change-imports") {
++      return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
++    }
++    if (at === "change-mechanical-data/rename-page-slug") {
++      return Promise.resolve(renamePageSlug(world, given as Parameters<typeof renamePageSlug>[1]))
++    }
++    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
++  })
++}
++
++function packaged(): World {
++  return worldIn(indexedRepo(SPELLED))
++}
++
++test("a file beneath the folder lands beneath the folder the package moves to", () => {
++  expect(
++    landsAt("held/held.module.code.ts", INTO, "one.workspace-package.", "two.workspace-package.")
++  ).toBe(LANDED_CODE)
++})
++
++test("a file named for the package is renamed for the slug the package takes", () => {
++  expect(
++    landsAt("one.workspace-package.ts", INTO, "one.workspace-package.", "two.workspace-package.")
++  ).toBe(LANDED_PAGE)
++})
++
++test("every file the index names under the folder is carried", async () => {
++  const said = await moveFolderPackage(packaged(), { at: PACKAGE_PAGE, to: INTO })
++  const paths = said.edits.map((one) => one.path)
++
++  expect(said.refused).toBeNull()
++  expect(paths).toContain(LANDED_PAGE)
++  expect(paths).toContain(LANDED_CODE)
++  expect(paths).toContain("akasha/two/held/held.module.ts")
++})
++
++test("every path that moved says the path the move came from", async () => {
++  const said = await moveFolderPackage(packaged(), { at: PACKAGE_PAGE, to: INTO })
++  const came = said.edits.map((one) => one.from).filter((one) => one !== undefined)
++
++  expect([...came].sort()).toEqual([INNER_CODE, INNER_PAGE, PACKAGE_PAGE])
++})
++
++test("a body reaching the folder by a relative address is repointed here", async () => {
++  const said = await moveFolderPackage(packaged(), { at: PACKAGE_PAGE, to: INTO })
++  const one = said.edits.find((edit) => edit.path === OUTER_CODE)
++
++  expect(one?.body ?? "").toContain("../two/held/held.module.code.ts")
++})
++
++test("the package takes the slug the folder it lands in is named by", async () => {
++  const said = await moveFolderPackage(packaged(), { at: PACKAGE_PAGE, to: INTO })
++  const one = said.edits.find((edit) => edit.path === LANDED_PAGE)
++
++  expect(one?.body ?? "").toContain(`slug: "two"`)
++})
++
++test("the folder a package sits in is refused rather than carried", async () => {
++  const said = await moveFolderPackage(packaged(), { at: PACKAGE_PAGE, to: FROM })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/is the folder this package sits in/)
++})
++
++test("a page that is no workspace package is refused", async () => {
++  const said = await moveFolderPackage(packaged(), { at: INNER_PAGE, to: INTO })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/is no `workspace-package`/)
++})
++
++test("a path naming no page is refused", async () => {
++  const said = await moveFolderPackage(packaged(), { at: INNER_CODE, to: INTO })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/names no page/)
++})
++
++test("a call stating no folder is refused by that key", async () => {
++  const said = await moveFolderPackage(packaged(), { at: PACKAGE_PAGE, to: "akasha/outside" })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/is a body already/)
++})
+diff --git a/changes/checked/pages/move-folder-package/move-folder-package.change-checked.ts b/changes/checked/pages/move-folder-package/move-folder-package.change-checked.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dbd5944e7455bd76411fb330db18abdcb09ccbfe
+--- /dev/null
++++ b/changes/checked/pages/move-folder-package/move-folder-package.change-checked.ts
+@@ -0,0 +1,76 @@
++import type { ChangeChecked } from "../../change-checked.page-type.ts"
++
++export const moveFolderPackage = {
++  id: "01a07c55-cbc4-75f7-8057-cd3bd1e93075",
++  pageTypeSlug: "change-checked",
++  slug: "move-folder-package",
++  changeModeSlug: "change-mode-move",
++  definition: "a package's whole folder carried to another path, named for where that folder lands",
++  code: "ts",
++  test: "ts",
++  runsChecks: true,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Every file the index names under the folder is carried.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file keeps the place that file sits in beneath the folder.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page that is no workspace package is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page outside the folder it names is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The package takes the slug naming the folder the package lands in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file named for the package is renamed for the slug the package takes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A package landing under the name that package carries leaves the slug alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body naming a path that moved is repointed in the same answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body reaching the folder by a relative address is repointed here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page naming the package as a part names the slug the package takes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path the move would write a second body at is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder holding no file the index names is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The slug is restated after every file has moved.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No package name is restated here.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No manifest is read here.",
++    },
++  ],
++} as const satisfies ChangeChecked
