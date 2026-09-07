@@ -59,7 +59,7 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A change a move carries elsewhere is loaded from the path that code came from.",
+      statement: "A change is loaded from the path its code sits at rather than the path named.",
     },
     {
       invariantKind: "departure",

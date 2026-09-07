@@ -24,7 +24,7 @@ export function codeAt(world: World, address: string): string | null {
   if (parts === null) return null
   const listed = world.index.listedAt(parts[0], parts[1])[0]
   if (listed === undefined) return null
-  return besideAt(listed.path, CODE, TS)
+  return besideAt(sittingAt(world, listed.path), CODE, TS)
 }
 
 export function sittingAt(world: World, path: string): string {
