@@ -13,7 +13,7 @@ export const libSetsSearchUiSharedState = {
     },
     {
       invariantKind: "constraint",
-      statement: "A set is taken to have at most twelve bonus lines.",
+      statement: "A set is taken to have twelve bonus lines at the most.",
     },
   ],
 } as const satisfies Module
