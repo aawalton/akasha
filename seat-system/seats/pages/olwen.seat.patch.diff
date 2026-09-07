@@ -1,0 +1,140 @@
+writerOwesReading: false
+diff --git a/personas/package.json b/personas/package.json
+index 6d5fb806f6336f89126f349c5608d157cddf205e..3ac8f590ad0df30a1635431b6a0929d09d552116 100644
+--- a/personas/package.json
++++ b/personas/package.json
+@@ -4,7 +4,7 @@
+   "type": "module",
+   "exports": {
+     "./email-address": "./properties/email-address.email-address-property.ts",
+-    "./persona-targets": "./persona-targets/persona-targets.module.code.ts",
++    "./persona-targets": "./targets/persona-targets.module.code.ts",
+     "./persona-reading": "./persona-reading/persona-reading.module.code.ts"
+   },
+   "dependencies": {
+diff --git a/personas/persona-targets/persona-targets.module.code.ts b/personas/persona-targets/persona-targets.module.code.ts
+deleted file mode 100644
+index de9a1211b5de4e15c33a3b76d01b070ef0476f28..0000000000000000000000000000000000000000
+--- a/personas/persona-targets/persona-targets.module.code.ts
++++ /dev/null
+@@ -1,31 +0,0 @@
+-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+-import type { CommsRule } from "@akasha/seat-system/seat-wake-rules"
+-import { personasStanding } from "../persona-reading/persona-reading.module.code.ts"
+-
+-export interface PersonaTarget {
+-  readonly id: string
+-  readonly slug: string
+-  readonly wakeSources: readonly CommsRule[]
+-}
+-
+-const NONE: readonly CommsRule[] = []
+-
+-export async function listPersonaTargets(): Promise<readonly PersonaTarget[]> {
+-  const root = rootFor(resolveRoots(), AKASHA)
+-  return personasStanding(root).map((one) => ({
+-    id: one.id,
+-    slug: one.slug,
+-    wakeSources: NONE,
+-  }))
+-}
+-
+-export async function listPersonaWakeSources(): Promise<ReadonlyMap<string, readonly CommsRule[]>> {
+-  const entries = (await listPersonaTargets())
+-    .filter((one) => one.wakeSources.length > 0)
+-    .map((one): readonly [string, readonly CommsRule[]] => [one.slug, one.wakeSources])
+-  return new Map(entries)
+-}
+-
+-export async function listPersonaSlugs(): Promise<readonly string[]> {
+-  return (await listPersonaTargets()).map((one) => one.slug)
+-}
+diff --git a/personas/persona-targets/persona-targets.module.ts b/personas/persona-targets/persona-targets.module.ts
+deleted file mode 100644
+index 3d1caebdad27b0a02f9ccc1e53e6010e3731ebcc..0000000000000000000000000000000000000000
+--- a/personas/persona-targets/persona-targets.module.ts
++++ /dev/null
+@@ -1,20 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const personaTargets = {
+-  id: "01a0657d-a75e-7009-bc7f-b3d878fd5671",
+-  pageTypeSlug: "module",
+-  slug: "persona-targets",
+-  definition: "each persona akasha holds, beside the rules by which a message starts her seat",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "absence",
+-      statement: "No persona page states a rule by which a message starts a seat.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The empty list is the answer the persona pages give rather than a reading that failed.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/personas/targets/persona-targets.module.code.ts b/personas/targets/persona-targets.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..de9a1211b5de4e15c33a3b76d01b070ef0476f28
+--- /dev/null
++++ b/personas/targets/persona-targets.module.code.ts
+@@ -0,0 +1,31 @@
++import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
++import type { CommsRule } from "@akasha/seat-system/seat-wake-rules"
++import { personasStanding } from "../persona-reading/persona-reading.module.code.ts"
++
++export interface PersonaTarget {
++  readonly id: string
++  readonly slug: string
++  readonly wakeSources: readonly CommsRule[]
++}
++
++const NONE: readonly CommsRule[] = []
++
++export async function listPersonaTargets(): Promise<readonly PersonaTarget[]> {
++  const root = rootFor(resolveRoots(), AKASHA)
++  return personasStanding(root).map((one) => ({
++    id: one.id,
++    slug: one.slug,
++    wakeSources: NONE,
++  }))
++}
++
++export async function listPersonaWakeSources(): Promise<ReadonlyMap<string, readonly CommsRule[]>> {
++  const entries = (await listPersonaTargets())
++    .filter((one) => one.wakeSources.length > 0)
++    .map((one): readonly [string, readonly CommsRule[]] => [one.slug, one.wakeSources])
++  return new Map(entries)
++}
++
++export async function listPersonaSlugs(): Promise<readonly string[]> {
++  return (await listPersonaTargets()).map((one) => one.slug)
++}
+diff --git a/personas/targets/persona-targets.module.ts b/personas/targets/persona-targets.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3d1caebdad27b0a02f9ccc1e53e6010e3731ebcc
+--- /dev/null
++++ b/personas/targets/persona-targets.module.ts
+@@ -0,0 +1,20 @@
++import type { Module } from "@akasha/code/module"
++
++export const personaTargets = {
++  id: "01a0657d-a75e-7009-bc7f-b3d878fd5671",
++  pageTypeSlug: "module",
++  slug: "persona-targets",
++  definition: "each persona akasha holds, beside the rules by which a message starts her seat",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "absence",
++      statement: "No persona page states a rule by which a message starts a seat.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The empty list is the answer the persona pages give rather than a reading that failed.",
++    },
++  ],
++} as const satisfies Module
