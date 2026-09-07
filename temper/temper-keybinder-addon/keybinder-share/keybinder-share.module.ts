@@ -18,8 +18,7 @@ export const keybinderShare = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The toggle clears the shown actions where every one of those actions is already shared.",
+      statement: "The toggle clears the shown actions where those actions are already shared.",
     },
     {
       invariantKind: "departure",
