@@ -9,7 +9,8 @@ export const useCompletionBodies = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A body is asked for by the view that reads it rather than held for every view.",
+      statement:
+        "A body is asked for by the view that reads the body rather than held for every view.",
     },
     {
       invariantKind: "departure",
