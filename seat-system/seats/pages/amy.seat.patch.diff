@@ -18,3 +18,27 @@ index 4e9f65a26a1ed025a980744b19fad4fe62fb3af6..a71b10d00326a6afb4715ceb513739dd
 +    headers: withCors(new Headers(answered.headers), cors),
 +  })
 +}
+diff --git a/code-system/router-apps/router-app.page-type.ts b/code-system/router-apps/router-app.page-type.ts
+index 557b7e91097d6ec35493e1c019bc0df904f752d1..48378c307dadf0c2e1a1ed2e9575a9bc827919fe 100644
+--- a/code-system/router-apps/router-app.page-type.ts
++++ b/code-system/router-apps/router-app.page-type.ts
+@@ -61,5 +61,19 @@ export const routerApp = {
+       invariantKind: "constraint",
+       statement: "The tsconfig naming a fixed name gives that name the package's path mappings.",
+     },
++    {
++      invariantKind: "constraint",
++      statement:
++        "The router strips `loader`, `action`, `middleware` and `headers` from a route module and bundles what is left to the browser.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A route module exports `loader`, `action`, `middleware` and `headers` alone.",
++    },
++    {
++      invariantKind: "constraint",
++      statement:
++        "A request whose method is OPTIONS reaches a route's loader rather than its action.",
++    },
+   ],
+ } as const satisfies PageType
