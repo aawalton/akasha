@@ -3,7 +3,6 @@ import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { importNotLeftHanging } from "../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
-import { repointed } from "../../../mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
 import {
   answered,
   missing,
@@ -11,10 +10,12 @@ import {
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 
 const GUARDS = [importNotLeftHanging]
+
+const REPOINT_IMPORTS = "change-mechanical/repoint-imports"
 
 const OUTSIDE = ".."
 
@@ -35,8 +36,6 @@ function pageIn(world: World, at: string): Value | null {
   return world.index.pageAt(said.pageType, said.slug)
 }
 
-// Each file keeps the place that file holds under the page's folder, so a file in a folder of its
-// own arrives under a folder of the same name rather than beside the page.
 function movedInto(world: World, at: string, to: string, beside: readonly string[]): Moved {
   const from = dirname(at)
   if (from === to) return { refused: `\`${to}\` is the folder the page already sits in` }
@@ -53,7 +52,7 @@ function movedInto(world: World, at: string, to: string, beside: readonly string
   return { moved: said }
 }
 
-export function movePage(world: World, given: MovePageAsked): Answer {
+export async function movePage(world: World, given: MovePageAsked): Promise<Answer> {
   const value = pageIn(world, given.at)
   if (value === null) return refusing(`\`${given.at}\` names no page, so no page is carried`)
   let beside: readonly string[]
@@ -68,17 +67,21 @@ export function movePage(world: World, given: MovePageAsked): Answer {
   const moved = said.moved
   const reading = importingOf(world.index, moved)
   if ("unread" in reading) return refusing(reading.unread)
+  const carried = Object.fromEntries(moved)
   const edits: Edit[] = []
   for (const [one, next] of moved) {
-    const text = world.textOf(one)
-    if (text === null) return refusing(`\`${one}\` could not be read`)
-    edits.push(...repointed(one, next, text, moved).edits)
+    if (world.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
+    const answer = await reach(world, REPOINT_IMPORTS, { was: one, now: next, moved: carried })
+    if (answer.refused !== null) return answer
+    edits.push(...answer.edits)
   }
   for (const path of reading.importers) {
     if (moved.has(path)) continue
     const held = world.textOf(path)
     if (held === null) return refusing(`\`${path}\` names a path that moved and could not be read`)
-    for (const one of repointed(path, path, held, moved).edits) {
+    const answer = await reach(world, REPOINT_IMPORTS, { was: path, now: path, moved: carried })
+    if (answer.refused !== null) return answer
+    for (const one of answer.edits) {
       if (one.body !== held) edits.push(one)
     }
   }
@@ -87,12 +90,10 @@ export function movePage(world: World, given: MovePageAsked): Answer {
 
 export type Asked = Readonly<Record<string, string>>
 
-// A command line hands the arguments in as text worked out while the command runs, so the shape is
-// read here rather than trusted, and a shape this change cannot use is refused by name.
-export function runChange(world: World, given: Asked): Answer {
+export async function runChange(world: World, given: Asked): Promise<Answer> {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
   const to = given[TO]
   if (to === undefined) return refusing(missing(TO))
-  return movePage(world, { at, to })
+  return await movePage(world, { at, to })
 }

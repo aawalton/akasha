@@ -1,6 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { bodyOf, idOf, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { runChange as changeFile } from "../../../mechanical/pages/change-file/change-file.change-mechanical.code.ts"
+import { runChange as repointImports } from "../../../mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
+import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import {
+  type Reaching,
+  type World,
+  worldAt,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { changePagePageType } from "./change-page-page-type.change-checked.code.ts"
 
 afterAll(scratch.sweep)
@@ -53,19 +60,29 @@ function repoIn(): string {
   })
 }
 
-function worldIn(root: string): World {
-  return worldAt(root, textIn(root))
+const RUNS: Reaching = (world, at, given) => {
+  if (at === "change-mechanical/change-file") {
+    return Promise.resolve(changeFile(world, given as Parameters<typeof changeFile>[1]))
+  }
+  if (at === "change-mechanical/repoint-imports") {
+    return Promise.resolve(repointImports(world, given as Parameters<typeof repointImports>[1]))
+  }
+  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
 
-test("a page stated as another page type is carried to the name that type spells", () => {
-  const said = changePagePageType(worldIn(repoIn()), { at: ONE_PAGE, to: SPARE_TYPE })
+function worldIn(root: string): World {
+  return worldAt(root, textIn(root), RUNS)
+}
+
+test("a page stated as another page type is carried to the name that type spells", async () => {
+  const said = await changePagePageType(worldIn(repoIn()), { at: ONE_PAGE, to: SPARE_TYPE })
 
   expect(said.refused).toBeNull()
   expect(said.edits.map((one) => one.path)).toContain(ONE_MOVED)
 })
 
-test("the page type a page states is restated in the body", () => {
-  const said = changePagePageType(worldIn(repoIn()), { at: ONE_PAGE, to: SPARE_TYPE })
+test("the page type a page states is restated in the body", async () => {
+  const said = await changePagePageType(worldIn(repoIn()), { at: ONE_PAGE, to: SPARE_TYPE })
   const one = said.edits.find((edit) => edit.path === ONE_MOVED)
 
   expect(one?.body ?? "").toContain(`pageTypeSlug: "spare"`)
@@ -73,23 +90,23 @@ test("the page type a page states is restated in the body", () => {
   expect(one?.body ?? "").toContain(`from "../spare.page-type.ts"`)
 })
 
-test("a moved body naming another moved path is repointed in the same answer", () => {
-  const said = changePagePageType(worldIn(repoIn()), { at: ONE_PAGE, to: SPARE_TYPE })
+test("a moved body naming another moved path is repointed in the same answer", async () => {
+  const said = await changePagePageType(worldIn(repoIn()), { at: ONE_PAGE, to: SPARE_TYPE })
   const one = said.edits.find((edit) => edit.path === ONE_CODE_MOVED)
 
   expect(said.refused).toBeNull()
   expect(one?.body ?? "").toContain(`from "./one.spare.ts"`)
 })
 
-test("the page type a page already is refuses rather than carrying the page", () => {
-  const said = changePagePageType(worldIn(repoIn()), { at: ONE_PAGE, to: KEPT_TYPE })
+test("the page type a page already is refuses rather than carrying the page", async () => {
+  const said = await changePagePageType(worldIn(repoIn()), { at: ONE_PAGE, to: KEPT_TYPE })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/the page already is/)
 })
 
-test("a path naming no page refuses and answers no edit", () => {
-  const said = changePagePageType(worldIn(repoIn()), {
+test("a path naming no page refuses and answers no edit", async () => {
+  const said = await changePagePageType(worldIn(repoIn()), {
     at: "akasha/kept/nobody.kept.ts",
     to: SPARE_TYPE,
   })
@@ -98,12 +115,27 @@ test("a path naming no page refuses and answers no edit", () => {
   expect(said.refused ?? "").toMatch(/names no page/)
 })
 
-test("a page type whose page holds no body refuses", () => {
-  const said = changePagePageType(worldIn(repoIn()), {
+test("a page type whose page holds no body refuses", async () => {
+  const said = await changePagePageType(worldIn(repoIn()), {
     at: ONE_PAGE,
     to: "akasha/nowhere.page-type.ts",
   })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/holds no body/)
+})
+
+test("each part of the retype is reached at the address that part names", async () => {
+  const reached: string[] = []
+  const root = repoIn()
+  const world = worldAt(root, textIn(root), (_world, at) => {
+    reached.push(at)
+    return Promise.resolve({ edits: [], refused: null })
+  })
+
+  await changePagePageType(world, { at: ONE_PAGE, to: SPARE_TYPE })
+
+  expect(new Set(reached)).toEqual(
+    new Set(["change-mechanical/repoint-imports", "change-mechanical/change-file"])
+  )
 })

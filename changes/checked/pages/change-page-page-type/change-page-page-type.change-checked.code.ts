@@ -4,8 +4,6 @@ import type { Value } from "@akasha/pages/page-value"
 import { typedAs } from "../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { importNotLeftHanging } from "../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
-import { changeFile } from "../../../mechanical/pages/change-file/change-file.change-mechanical.code.ts"
-import { repointed } from "../../../mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
 import {
   answered,
   gathered,
@@ -14,10 +12,18 @@ import {
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import { type World, worldOver } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  reach,
+  type World,
+  worldOver,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 
 const GUARDS = [importNotLeftHanging]
+
+const CHANGE_FILE = "change-mechanical/change-file"
+
+const REPOINT_IMPORTS = "change-mechanical/repoint-imports"
 
 const TYPE_KEY = "pageTypeSlug"
 
@@ -45,8 +51,6 @@ function importingFor(name: string): RegExp {
   return new RegExp(`^import type \\{ ${name} \\} from "[^"]*"$`, "m")
 }
 
-// Every file a page keeps beside that page states the page type in the file's name, so the type
-// stated in a name moves with the type stated in the body.
 function renamedInto(
   world: World,
   was: string,
@@ -63,11 +67,13 @@ function renamedInto(
   return said
 }
 
-// Each act reads the tree as every act before that one had already landed, because a passage is
-// looked for in the body the moves leave rather than in the body at the path the page came from.
-function stepped(world: World, held: Answer, run: (over: World) => Answer): Answer {
+async function stepped(
+  world: World,
+  held: Answer,
+  run: (over: World) => Answer | Promise<Answer>
+): Promise<Answer> {
   if (held.refused !== null) return held
-  const one = run(worldOver(world, held))
+  const one = await run(worldOver(world, held))
   return one.refused === null ? gathered([held, one]) : one
 }
 
@@ -82,7 +88,10 @@ function restating(over: World, at: string, was: string): Answer {
   return answered([])
 }
 
-export function changePagePageType(world: World, given: ChangePagePageTypeAsked): Answer {
+export async function changePagePageType(
+  world: World,
+  given: ChangePagePageTypeAsked
+): Promise<Answer> {
   const said = partedIn(given.at)
   if (said === null || said.sections.length > 0) {
     return refusing(`\`${given.at}\` reads as no page file, so no page type is changed`)
@@ -114,38 +123,47 @@ export function changePagePageType(world: World, given: ChangePagePageTypeAsked)
   if (at === undefined) return refusing(`\`${given.at}\` names no file the page type moves`)
   const wasName = typedAs(said.pageType)
   const nowName = typedAs(type.slug)
+  const movedOver = Object.fromEntries(moved)
   const carried: Edit[] = []
   for (const [one, next] of moved) {
-    const text = world.textOf(one)
-    if (text === null) return refusing(`\`${one}\` could not be read`)
-    carried.push(...repointed(one, next, text, moved).edits)
+    if (world.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
+    const answer = await reach(world, REPOINT_IMPORTS, { was: one, now: next, moved: movedOver })
+    if (answer.refused !== null) return answer
+    carried.push(...answer.edits)
   }
   let held = answered(carried)
-  held = stepped(world, held, (over) => restating(over, at, said.pageType))
-  held = stepped(world, held, (over) => {
+  held = await stepped(world, held, (over) => restating(over, at, said.pageType))
+  held = await stepped(world, held, (over) => {
     const text = over.textOf(at) ?? ""
     const line = importingFor(wasName).exec(text)
     const spelled = `import type { ${nowName} } from ${JSON.stringify(specifierFor(dirname(at), given.to))}`
-    return changeFile(over, { at, old: line === null ? "" : line[0], new: spelled })
+    return reach(over, CHANGE_FILE, { at, old: line === null ? "" : line[0], new: spelled })
   })
-  held = stepped(world, held, (over) =>
-    changeFile(over, { at, old: `satisfies ${wasName}`, new: `satisfies ${nowName}` })
+  held = await stepped(world, held, (over) =>
+    reach(over, CHANGE_FILE, { at, old: `satisfies ${wasName}`, new: `satisfies ${nowName}` })
   )
-  held = stepped(world, held, (over) =>
-    changeFile(over, {
+  held = await stepped(world, held, (over) =>
+    reach(over, CHANGE_FILE, {
       at,
       old: `${TYPE_KEY}: ${JSON.stringify(said.pageType)}`,
       new: `${TYPE_KEY}: ${JSON.stringify(type.slug)}`,
     })
   )
-  held = stepped(world, held, (over) => {
+  held = await stepped(world, held, async (over) => {
     const edits: Edit[] = []
     for (const path of reading.importers) {
       if (moved.has(path)) continue
       const text = over.textOf(path)
-      if (text === null)
+      if (text === null) {
         return refusing(`\`${path}\` names a path that moved and could not be read`)
-      for (const one of repointed(path, path, text, moved).edits) {
+      }
+      const answer = await reach(over, REPOINT_IMPORTS, {
+        was: path,
+        now: path,
+        moved: movedOver,
+      })
+      if (answer.refused !== null) return answer
+      for (const one of answer.edits) {
         if (one.body !== text) edits.push(one)
       }
     }
@@ -157,12 +175,10 @@ export function changePagePageType(world: World, given: ChangePagePageTypeAsked)
 
 export type Asked = Readonly<Record<string, string>>
 
-// A command line hands the arguments in as text worked out while the command runs, so the shape is
-// read here rather than trusted, and a shape this change cannot use is refused by name.
-export function runChange(world: World, given: Asked): Answer {
+export async function runChange(world: World, given: Asked): Promise<Answer> {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
   const to = given[TO]
   if (to === undefined) return refusing(missing(TO))
-  return changePagePageType(world, { at, to })
+  return await changePagePageType(world, { at, to })
 }
