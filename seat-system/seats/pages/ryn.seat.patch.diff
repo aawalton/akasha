@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/modules/body-not-utf8/body-not-utf8.module.ts b/checks/modules/body-not-utf8/body-not-utf8.module.ts
+index dbe89a715663a072335cb2c763dd7da950d5c64b..7f5ecbb3e1447e463b89ef8f9b155f8f0471fb4b 100644
+--- a/checks/modules/body-not-utf8/body-not-utf8.module.ts
++++ b/checks/modules/body-not-utf8/body-not-utf8.module.ts
+@@ -10,7 +10,7 @@ export const bodyNotUtf8 = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The refusal names the source the command read, how many bytes were there, and the leading bytes.",
++        "The refusal names the source the command read and how many bytes were there and the leading bytes.",
+     },
+   ],
+ } as const satisfies Module
