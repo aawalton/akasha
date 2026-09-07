@@ -29,7 +29,7 @@ export const domain = {
     "standard-agent-english-property/act",
     "standard-agent-english-property/aids",
     "text-property/definition",
-    "text-property/invariant-statement",
+    "standard-agent-english-property/invariant-statement",
     "text-property/name",
     "text-property/plural-slug",
     "standard-agent-english-property/warrant",

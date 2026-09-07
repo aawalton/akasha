@@ -1,7 +1,7 @@
 import type { List } from "@akasha/pages/page-property"
 import type { RecordProperty } from "@akasha/pages/record-property"
 import type { InvariantKind } from "./invariant-kind.relation-property.ts"
-import type { InvariantStatement } from "./invariant-statement.text-property.ts"
+import type { InvariantStatement } from "./invariant-statement.standard-agent-english-property.ts"
 
 export type Invariant = {
   invariantKind: InvariantKind
@@ -18,7 +18,11 @@ export const invariants = {
   definition: "what must be true of a page, each with the sort it is",
   properties: [
     { pagePropertySlug: "relation-property/invariant-kind", required: true, many: false },
-    { pagePropertySlug: "text-property/invariant-statement", required: true, many: false },
+    {
+      pagePropertySlug: "standard-agent-english-property/invariant-statement",
+      required: true,
+      many: false,
+    },
   ],
   invariants: [
     {
