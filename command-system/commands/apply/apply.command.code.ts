@@ -106,7 +106,7 @@ export function unwarranted(
   agentId: string | null,
   rows: readonly Edit[]
 ): readonly string[] {
-  const owing = rows.filter((one) => one.writerOwesReading !== false)
+  const owing = rows
   if (owing.length === 0) return []
   const edits = editsFor(formattedEdits(root, owing))
   return owedIn(
