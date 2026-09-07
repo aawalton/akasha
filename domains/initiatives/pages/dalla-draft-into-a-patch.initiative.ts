@@ -13,6 +13,21 @@ export const dallaDraftIntoAPatch = {
         "Olwen's ledger held 1.4 GB in 233 rows, every one a move, each carrying the whole file in `was` and again in `body`; the 76 `.png` rows are 531 MB. 193 of 233 have `was === body`, the 40 that differ being `.ts` files whose imports the move rewrote. The union: `add` holds a path and content, `replace` a path and two passages, `remove` a path, `move` two paths. A whole-file write becomes a `replace` carrying both bodies, the rare road rather than the only one.",
     },
     {
+      statement: "A file that is not text is refused rather than decoded into an edit.",
+      workingMemory:
+        '`change.command.code.ts:111-121` reads a file with `readFileSync(path, "utf8")` and no text check, so every byte the decoder rejects becomes U+FFFD one way. Re-encoding five of olwen\'s sampled wallpapers the way the apply writes them grew 7,410,188 bytes to 13,431,160; 0 of 5 came back, and the move it drafted would have replaced all 76 with files that are no longer PNGs. `asking.module.code.ts:143-149` already holds the strict decoder `akasha read` refuses with.',
+    },
+    {
+      statement: "The edits kept fold as each edit is appended.",
+      workingMemory:
+        "`appendEdits` at `edits-keeping.module.code.ts:163` is `[...had, ...edits]` with no fold, and `gathered()` runs only at read time and is never written back. thea holds 503 rows over 149 paths, 79.3% of them superseded; aura 57.0%, akasha 51.8%. `settled` rewrites the whole blob through `git hash-object -w` on every append, so a ledger grown to n rows has written on the order of n squared bytes of objects.",
+    },
+    {
+      statement: "An edit kept in the old shape is rewritten into the shape an edit holds now.",
+      workingMemory:
+        "Two ledgers carry the fault at scale: olwen held 1.4 GB in 233 move rows, awen holds 440,492,434 bytes in 13,984, every one `was === body` and wholly elidable. A move keeps only its two paths, so the rewrite drops both bodies. `edited()` at `edits-keeping.module.code.ts:41-42` refuses an absent `was` and `rowsIn:71` turns that into a refusal of the whole file, so the reader admits the new shape before any ledger is rewritten.",
+    },
+    {
       statement: "A change is reached by its address rather than by an import.",
       workingMemory:
         "Met but for one defect. `REACHED` is `change`, so the map covers all 43 addresses where it held 25: 25 mechanical, 15 checked, 2 authored, 1 restated, and `change-command` has no pages. The absence invariant barring command-line changes is deleted. `move-folder-package` reaches both siblings by address. The residue: `addedTo` writes what `gathered` answers into `kept.over` without reading `refused`, so a refusal blanks the ledger rather than surfacing.",
