@@ -21,6 +21,7 @@ export const change = {
     "page-type/change-command",
     "page-type/change-checked",
     "page-type/change-authored",
+    "page-type/change-restated",
     "page-type/change-mechanical",
     "page-type/change-runner",
     "page-type/workflow-template",
