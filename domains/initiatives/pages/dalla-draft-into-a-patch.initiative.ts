@@ -13,6 +13,16 @@ export const dallaDraftIntoAPatch = {
         "Olwen's ledger held 1.4 GB in 233 rows, every one a move, each carrying the whole file in `was` and again in `body`; the 76 `.png` rows are 531 MB. 193 of 233 have `was === body`, the 40 that differ being `.ts` files whose imports the move rewrote. The union: `add` holds a path and content, `replace` a path and two passages, `remove` a path, `move` two paths. A whole-file write becomes a `replace` carrying both bodies, the rare road rather than the only one.",
     },
     {
+      statement: "The edits an agent keeps are an uncommitted file rather than a git object.",
+      workingMemory:
+        "`settled` writes the whole ledger through `git hash-object -w` on every append, so a ledger grown to n rows has written on the order of n squared bytes; `.git/objects` climbed 8.6 GB to 13.3 GB in twelve minutes. `check-cost` already holds the pattern replacing it: `uncommittedPartAt` beside the page, `appendFileSync`, and a ceiling rolling over to a further part, at 197,728 rows across 45 files. `file-property/edits` is declared on the agent page type already, defaulting to `jsonl`.",
+    },
+    {
+      statement: "A change applies as it answers rather than waiting for an apply.",
+      workingMemory:
+        "`APPLY` at `change.command.code.ts:74` and `applyIn` at `:188` read the key, and `change.command.ts` declares the old default across roughly fifteen invariants and four help notes. Alan ruled the flip reaches subagents, so the constraint holding a subagent to drafting is deleted. `apply` takes the commit message as its value today and is refused where that message is empty, so applying by default takes the message an apply already works out where none is named.",
+    },
+    {
       statement: "A file that is not text is refused rather than decoded into an edit.",
       workingMemory:
         '`change.command.code.ts:111-121` reads a file with `readFileSync(path, "utf8")` and no text check, so every byte the decoder rejects becomes U+FFFD one way. Re-encoding five of olwen\'s sampled wallpapers the way the apply writes them grew 7,410,188 bytes to 13,431,160; 0 of 5 came back, and the move it drafted would have replaced all 76 with files that are no longer PNGs. `asking.module.code.ts:143-149` already holds the strict decoder `akasha read` refuses with.',
@@ -74,11 +84,9 @@ export const dallaDraftIntoAPatch = {
     "A warrant refuses a draft as it refuses a landing.",
     "A patch holding conflicts does not apply.",
     "An agent id carries at most one patch.",
-    "The edits a draft keeps are stored in the format git already reads.",
+    "The edits an agent keeps are an uncommitted file appended to in place.",
     "A draft is an authored change.",
     "A patch runs the checks and the warrants that any change drafted into it runs.",
-    "A patch applies only where the caller asked for an apply.",
-    "A subagent drafts by default rather than applying.",
     "Alan settles each block's shape before it lands.",
     "A mechanical change is landed by a change page rather than by the command that page replaces.",
     "A change page takes no dry run.",
