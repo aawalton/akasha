@@ -1,0 +1,32 @@
+import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+
+export const addPageFile = {
+  id: "01a07976-d290-7a2a-b91c-bc7a0bc36dca",
+  pageTypeSlug: "change-mechanical",
+  slug: "add-page-file",
+  definition: "one page written at one path, with the pages that page names judged",
+  code: "ts",
+  test: "ts",
+  runsChecks: false,
+  readersOweReading: false,
+  writerOwesReading: false,
+  guardSlugs: ["change-guard/relation-reaches-a-page"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A path under no page name is refused here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page types a name is read against are the ones the world files.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The body is written by the change this change reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages the body names are judged by the guard this change names.",
+    },
+  ],
+} as const satisfies ChangeMechanical
