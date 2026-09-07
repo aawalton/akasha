@@ -1,5 +1,5 @@
 diff --git a/git-transport/bare-repo-init/bare-repo-init.module.ts b/git-transport/bare-repo-init/bare-repo-init.module.ts
-index d0ac01c081b226aac07040bd6f75edb65cb8bf73..72841fc7c04b2f741a0dcbfe4678cc758ae4c336 100644
+index d0ac01c081b226aac07040bd6f75edb65cb8bf73..dc5ea60a6697e4ec9700573ab3d38be7b54c17d3 100644
 --- a/git-transport/bare-repo-init/bare-repo-init.module.ts
 +++ b/git-transport/bare-repo-init/bare-repo-init.module.ts
 @@ -9,7 +9,11 @@ export const bareRepoInit = {
@@ -12,6 +12,19 @@ index d0ac01c081b226aac07040bd6f75edb65cb8bf73..72841fc7c04b2f741a0dcbfe4678cc75
 +    {
 +      invariantKind: "departure",
 +      statement: "A lock beside the repositories holds the run.",
+     },
+     {
+       invariantKind: "departure",
+@@ -34,7 +38,11 @@ export const bareRepoInit = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A hook is a stub this module writes, running the script the source cache holds.",
++      statement: "A hook is a stub this module writes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A hook stub runs the script the source cache holds.",
      },
      {
        invariantKind: "departure",
