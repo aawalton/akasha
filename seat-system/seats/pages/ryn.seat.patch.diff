@@ -1,0 +1,18 @@
+diff --git a/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts b/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
+index 6f102308e97ef48929770cb86acab9e414a76f2b..3364cad2b795e0c4eeaa4175b2a26bfaf2a356ee 100644
+--- a/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
++++ b/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
+@@ -13,8 +13,11 @@ export const orphanResourceListing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Every read shares one deadline, so a slow cluster ends the sweep rather than the sweep running on.",
++      statement: "Every read shares one deadline.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A slow cluster ends the sweep rather than the sweep running on.",
+     },
+     {
+       invariantKind: "departure",
