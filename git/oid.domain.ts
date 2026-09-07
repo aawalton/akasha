@@ -8,7 +8,7 @@ export const oid = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every name for a git object id is `oid`, or a scoped form of `oid`.",
+      statement: "Every name for a git object id is `oid` or a scoped form of `oid`.",
     },
   ],
 } as const satisfies Domain
