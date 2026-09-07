@@ -48,3 +48,24 @@ index 176e5e0003328c6aa26ed0340a425562e64168b4..04f4338c515af1af8e9aa6feb29148a3
    }
    return out
  }
+diff --git a/pages/access/answer/answer.module.ts b/pages/access/answer/answer.module.ts
+index b74d852512f6a66f0464f15715477734456dd8bd..39b1e51f66d05d9a57440e25fcc48b278ee40a80 100644
+--- a/pages/access/answer/answer.module.ts
++++ b/pages/access/answer/answer.module.ts
+@@ -51,6 +51,16 @@ export const answer = {
+       invariantKind: "departure",
+       statement: "A row of any other page type carries no property definition.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A page type whose properties went unread carries no definition rather than refusing the listing.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A page type carrying no definition is told apart from a page type carrying an empty list.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
