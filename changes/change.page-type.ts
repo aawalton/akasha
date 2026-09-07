@@ -3,8 +3,10 @@ import type { PageType } from "../pages/types/page-type.page-type.ts"
 import type { ReadersOweReading } from "./kinds/properties/readers-owe-reading.boolean-property.ts"
 import type { RunsChecks } from "./kinds/properties/runs-checks.boolean-property.ts"
 import type { WriterOwesReading } from "./kinds/properties/writer-owes-reading.boolean-property.ts"
+import type { ChangeModeSlug } from "./properties/change-mode-slug.relation-property.ts"
 
 export type Change = Module & {
+  changeModeSlug?: ChangeModeSlug
   runsChecks: RunsChecks
   readersOweReading: ReadersOweReading
   writerOwesReading: WriterOwesReading
@@ -35,8 +37,11 @@ export const change = {
     "module/page-literal",
     "module/change-answer",
     "module/edits-keeping",
+    "page-type/change-mode",
+    "relation-property/change-mode-slug",
   ],
   properties: [
+    { pagePropertySlug: "relation-property/change-mode-slug", required: false, many: false },
     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
     { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
     { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
@@ -45,7 +50,7 @@ export const change = {
     {
       invariantKind: "departure",
       statement:
-        "A change reached from the command line reads the arguments handed in rather than trusting the arguments.",
+        "A change the command line reaches reads the arguments handed in rather than trusting the arguments.",
     },
     {
       invariantKind: "departure",
