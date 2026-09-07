@@ -24,7 +24,7 @@ export const requiredReading = {
     },
     {
       invariantKind: "departure",
-      statement: "An akasha write is refused where nothing identifies the agent.",
+      statement: "A landing into akasha is refused where nothing identifies the agent.",
     },
     {
       invariantKind: "departure",
