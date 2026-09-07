@@ -95,7 +95,7 @@ index e1aa1d7ffd79475c27be358309b7106824fa2a61..1496934e80fdeb04917538aa444291b8
        invariantKind: "departure",
        statement: "A task holding no rule reads as done from the day of the marking onward.",
 diff --git a/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.code.ts b/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.code.ts
-index cae3698be68c42c26b2a70dbd7677d8f2eb88530..5ca716c061aa61c2e87ea132cc66f4294081542e 100644
+index cae3698be68c42c26b2a70dbd7677d8f2eb88530..5fb2a64c2acb45289687bed59e211080b16e713b 100644
 --- a/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.code.ts
 +++ b/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.code.ts
 @@ -1,16 +1,16 @@
@@ -458,7 +458,7 @@ index cae3698be68c42c26b2a70dbd7677d8f2eb88530..5ca716c061aa61c2e87ea132cc66f429
        seams.report(`Task ${entry.taskId}: completed${what}`)
        completed++
        continue
-@@ -390,19 +319,20 @@ export async function runImportTasks(
+@@ -390,22 +319,28 @@ export async function runImportTasks(
  
    let sweptForever = 0
    for (const task of tasks) {
@@ -485,4 +485,13 @@ index cae3698be68c42c26b2a70dbd7677d8f2eb88530..5ca716c061aa61c2e87ea132cc66f429
 +    seams.report(`Task ${task.slug}: cumulative cap reached, marked done`)
    }
  
-   const rolled = await rollOnProgress(tasks, read, userId, seams)
+-  const rolled = await rollOnProgress(tasks, read, userId, seams)
++  const rolled = await rollOnProgress(
++    tasks.filter((task) => !marked.has(task.slug)),
++    read,
++    userId,
++    seams
++  )
+ 
+   seams.report(
+     `Task import: ${completed} completed, ${cleared} cleared, ${sweptForever} swept, ${skipped} skipped, ${rolled} rolled.`
