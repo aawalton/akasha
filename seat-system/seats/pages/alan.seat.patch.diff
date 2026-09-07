@@ -1,3 +1,80 @@
+diff --git a/alan/tracking/daily/wake-days/properties/project-hours.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/project-hours.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..97bf62c39dcb580b5a6ee8b3516d677a099a0643
+--- /dev/null
++++ b/alan/tracking/daily/wake-days/properties/project-hours.computed-property.code.ts
+@@ -0,0 +1,52 @@
++import type { Work } from "@akasha/pages/computed-property"
++import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
++
++const AN_HOUR = 3600000
++
++const WORD_CHARACTER = /[\p{L}\p{N}]/u
++
++// A stretch counts as project time when its title says this as a word of its own, so that
++// `Jen + Projects + Church` counts and a title merely holding those letters does not.
++const PROJECT = "projects"
++
++// The stretch's hours, read either way round, and nothing where either end is unreadable.
++function hoursBetween(from: unknown, to: unknown): number | null {
++  if (typeof from !== "string" || typeof to !== "string") return null
++  const start = Date.parse(from)
++  const end = Date.parse(to)
++  if (Number.isNaN(start) || Number.isNaN(end)) return null
++  const hours = Math.abs(end - start) / AN_HOUR
++  return Number.isFinite(hours) ? hours : null
++}
++
++// Letters and digits mark a word's edges, and case is ignored.
++function hasWord(text: string, word: string): boolean {
++  const inText = text.toLowerCase()
++  const inWord = word.toLowerCase()
++  let from = 0
++  for (;;) {
++    const found = inText.indexOf(inWord, from)
++    if (found === -1) return false
++    const before = found === 0 ? "" : inText.slice(found - 1, found)
++    const after = inText.slice(found + inWord.length, found + inWord.length + 1)
++    if (!WORD_CHARACTER.test(before) && !WORD_CHARACTER.test(after)) return true
++    from = found + 1
++  }
++}
++
++export const work: Work<WorkedWakeDay, number> = (page) => {
++  const rows = page.sessions
++  // A day with no stretches beside it holds no project time to add up, and is no reading rather
++  // than a spend of nothing.
++  if (!Array.isArray(rows)) return null
++  const now = new Date().toISOString()
++  let hours = 0
++  for (const row of rows) {
++    const title = typeof row.title === "string" ? row.title : ""
++    if (!hasWord(title, PROJECT)) continue
++    // A stretch still open counts up to now, the way spend reads one, because the day's last
++    // stretch is open for as long as the day is being lived.
++    hours += hoursBetween(row.startTime, row.endTime) ?? hoursBetween(row.startTime, now) ?? 0
++  }
++  return hours
++}
+diff --git a/alan/tracking/daily/wake-days/properties/project-hours.computed-property.ts b/alan/tracking/daily/wake-days/properties/project-hours.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..28dea624282b05a37f60420d37396fb062c69b78
+--- /dev/null
++++ b/alan/tracking/daily/wake-days/properties/project-hours.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages/computed-property"
++
++export type ProjectHours = number
++
++export const projectHours = {
++  id: "01a079c7-08a2-7126-a95c-29853fc8e604",
++  pageTypeSlug: "computed-property",
++  slug: "project-hours",
++  propertySlug: "project-hours",
++  definition: "the hours Alan spent on projects, added up from the day's own stretches",
++  holds: "number",
++  code: "ts",
++} as const satisfies ComputedProperty
 diff --git a/seat-system/resume-seat/resume-seat.module.code.ts b/seat-system/resume-seat/resume-seat.module.code.ts
 index 1d675240a9ca58de3584ace6471073f2fc06ce3c..ff89a9b2ec313e92cb1fb54481f44be7ab6d7061 100644
 --- a/seat-system/resume-seat/resume-seat.module.code.ts
