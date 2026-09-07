@@ -1,0 +1,72 @@
+writerOwesReading: false
+diff --git a/domains/standard-agent-english/common-language-terms/common-language-term.page-type.ts b/domains/standard-agent-english/common-language-terms/common-language-term.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3e2dfa400804e5bd5fa6f8586d0aa831492c5684
+--- /dev/null
++++ b/domains/standard-agent-english/common-language-terms/common-language-term.page-type.ts
+@@ -0,0 +1,13 @@
++import type { PageType } from "@akasha/pages/page-type"
++import type { Domain } from "../../domain.page-type.ts"
++
++export type CommonLanguageTerm = Domain
++
++export const commonLanguageTerm = {
++  id: "01a07c6e-d2b5-7a30-95da-e46d29cd2e27",
++  pageTypeSlug: "page-type",
++  slug: "common-language-term",
++  definition: "one word or phrase carrying its ordinary sense",
++  pluralSlug: "common-language-terms",
++  extendsSlug: ["page-type/domain"],
++} as const satisfies PageType
+diff --git a/domains/standard-agent-english/foreign-name-terms/foreign-name-term.page-type.ts b/domains/standard-agent-english/foreign-name-terms/foreign-name-term.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..40aa2e837534dcf9be19ddaa93d8baf95950b10b
+--- /dev/null
++++ b/domains/standard-agent-english/foreign-name-terms/foreign-name-term.page-type.ts
+@@ -0,0 +1,13 @@
++import type { PageType } from "@akasha/pages/page-type"
++import type { Domain } from "../../domain.page-type.ts"
++
++export type ForeignNameTerm = Domain
++
++export const foreignNameTerm = {
++  id: "01a07c6e-df85-7cad-a74c-d84a45b5f15c",
++  pageTypeSlug: "page-type",
++  slug: "foreign-name-term",
++  definition: "one name whose sense is set outside akasha",
++  pluralSlug: "foreign-name-terms",
++  extendsSlug: ["page-type/domain"],
++} as const satisfies PageType
+diff --git a/domains/standard-agent-english/terms/standard-agent-english-term.domain.ts b/domains/standard-agent-english/terms/standard-agent-english-term.domain.ts
+index c467312298ffd1feba3c75fed51cf9d15b0bf82c..248737ed4ac40597ed0432e33301001c02207f50 100644
+--- a/domains/standard-agent-english/terms/standard-agent-english-term.domain.ts
++++ b/domains/standard-agent-english/terms/standard-agent-english-term.domain.ts
+@@ -5,5 +5,27 @@ export const standardAgentEnglishTerm = {
+   pageTypeSlug: "domain",
+   slug: "standard-agent-english-term",
+   definition: "one word or phrase akasha is allowed to write",
+-  partSlugs: ["page-type/standard-agent-english-term-kind"],
++  partSlugs: [
++    "page-type/standard-agent-english-term-kind",
++    "page-type/common-language-term",
++    "page-type/foreign-name-term",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A domain name is defined on the domain page.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A page address is defined in the page address system.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A common language term is defined on a page of its own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A foreign name is defined on a page of its own.",
++    },
++  ],
+ } as const satisfies Domain
