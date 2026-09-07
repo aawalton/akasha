@@ -58,8 +58,6 @@ export const claudeAccount = {
   pluralSlug: "claude-accounts",
   extendsSlug: ["page-type/page"],
   partSlugs: [
-    "command/claude-account-add",
-    "command/claude-account-re-enable",
     "computed-property/effective-five-hour-usage",
     "computed-property/effective-seven-day-usage",
     "email-address-property/email",

@@ -18,8 +18,6 @@ export const smsCore = {
     "module/ki-handler-routing",
     "page-type/telnyx-account",
     "module/sms-command-reading",
-    "command/sms-acting-account",
-    "command/sms-send",
   ],
   invariants: [
     {

@@ -6,12 +6,7 @@ export const browserCommands = {
   slug: "browser-commands",
   definition: "what an agent runs by name over a site it drives a browser against",
   manifest: "json",
-  partSlugs: [
-    "command/browser-test-storage-state",
-    "command/browser-test-verify-render",
-    "module/browser-command-arguing",
-    "module/verify-render-plan",
-  ],
+  partSlugs: ["module/browser-command-arguing", "module/verify-render-plan"],
   invariants: [
     {
       invariantKind: "departure",
