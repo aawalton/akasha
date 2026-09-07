@@ -1,0 +1,379 @@
+writerOwesReading: false
+diff --git a/changes/checked/pages/remove-file/remove-file.change-checked.code.ts b/changes/checked/pages/remove-file/remove-file.change-checked.code.ts
+index ef495cd20136e5ce800e5479ecef278a403ec504..073fdf5b6cda343ef5ef1b0cda688576e923b0a1 100644
+--- a/changes/checked/pages/remove-file/remove-file.change-checked.code.ts
++++ b/changes/checked/pages/remove-file/remove-file.change-checked.code.ts
+@@ -5,7 +5,7 @@ import { reach, type World } from "../../../modules/change-shadow/change-shadow.
+ 
+ const AT = "at"
+ 
+-const REMOVE_FILE = "change-mechanical/remove-file"
++const REMOVE_FILE = "change-mechanical-file/remove-file"
+ 
+ export type RemoveFileAsked = {
+   readonly at: string
+diff --git a/changes/checked/pages/remove-file/remove-file.change-checked.test.ts b/changes/checked/pages/remove-file/remove-file.change-checked.test.ts
+index 0f8b4d0b03a097eb9b4537989dbd557888cd772e..4ba517e7072cf42db4b287343af97846031559cd 100644
+--- a/changes/checked/pages/remove-file/remove-file.change-checked.test.ts
++++ b/changes/checked/pages/remove-file/remove-file.change-checked.test.ts
+@@ -1,5 +1,5 @@
+ import { expect, test } from "bun:test"
+-import { runChange as removeFileMechanical } from "../../../mechanical/pages/remove-file/remove-file.change-mechanical.code.ts"
++import { runChange as removeFileMechanical } from "../../../mechanical/pages/remove-file/remove-file.change-mechanical-file.code.ts"
+ import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import {
+   NOTHING_OVER,
+@@ -10,7 +10,7 @@ import { removeFile } from "./remove-file.change-checked.code.ts"
+ 
+ const ASKED = "the world was asked"
+ 
+-const REMOVE_FILE = "change-mechanical/remove-file"
++const REMOVE_FILE = "change-mechanical-file/remove-file"
+ 
+ const ORDINARY = "akasha/notes.md"
+ 
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index 6a6b86ceba70a17db9c29089eb0a70df52545325..3c3428a2b359648493eb23acf73d5825b0aa0359 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -23,7 +23,7 @@ export const changeMechanical = {
+     "page-type/change-mechanical-data",
+     "page-type/change-mechanical-text",
+     "change-mechanical/move-file",
+-    "change-mechanical/remove-file",
++    "change-mechanical-file/remove-file",
+     "change-mechanical/remove-code-file",
+     "change-mechanical/remove-page-file",
+     "change-mechanical/rename-imports",
+diff --git a/changes/mechanical/pages/remove-code-file/remove-code-file.change-mechanical.code.ts b/changes/mechanical/pages/remove-code-file/remove-code-file.change-mechanical.code.ts
+index 099586cec59ccba1f92d400ce5ecea086d0414a3..cecff10b0f45e783a67b5addbe5635a66b602b02 100644
+--- a/changes/mechanical/pages/remove-code-file/remove-code-file.change-mechanical.code.ts
++++ b/changes/mechanical/pages/remove-code-file/remove-code-file.change-mechanical.code.ts
+@@ -3,7 +3,7 @@ import { refusing } from "../../../modules/change-answer/change-answer.module.co
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+ import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+-const REMOVE_FILE = "change-mechanical/remove-file"
++const REMOVE_FILE = "change-mechanical-file/remove-file"
+ 
+ const CODE = new Set([".ts", ".tsx"])
+ 
+diff --git a/changes/mechanical/pages/remove-code-file/remove-code-file.change-mechanical.test.ts b/changes/mechanical/pages/remove-code-file/remove-code-file.change-mechanical.test.ts
+index 5a2944da5c563b48f44f1d197ed2b8820a75306d..fd63e92748fdef621d8d76a6e87009920505f370 100644
+--- a/changes/mechanical/pages/remove-code-file/remove-code-file.change-mechanical.test.ts
++++ b/changes/mechanical/pages/remove-code-file/remove-code-file.change-mechanical.test.ts
+@@ -13,11 +13,11 @@ import {
+   type World,
+   worldAt,
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
++import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
+ import { runChange } from "./remove-code-file.change-mechanical.code.ts"
+ 
+ const RUNS: Reaching = (world, at, given) => {
+-  if (at === "change-mechanical/remove-file") {
++  if (at === "change-mechanical-file/remove-file") {
+     return Promise.resolve(removeFile(given as { at: string }, world.textOf))
+   }
+   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+diff --git a/changes/mechanical/pages/remove-file/remove-file.change-mechanical-file.code.ts b/changes/mechanical/pages/remove-file/remove-file.change-mechanical-file.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bef65939ae70b115ae9608dd7e31f472c511ce61
+--- /dev/null
++++ b/changes/mechanical/pages/remove-file/remove-file.change-mechanical-file.code.ts
+@@ -0,0 +1,23 @@
++import {
++  answered,
++  refusing,
++  taking,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++
++export type Asked = {
++  readonly at: string
++}
++
++export function removeFile(given: Asked, textOf: (path: string) => string | null): Answer {
++  const text = textOf(given.at)
++  if (text === null) {
++    return refusing(`\`${given.at}\` holds no body, so a removal takes nothing away`)
++  }
++  return answered([taking(given.at, text)])
++}
++
++export function runChange(world: World, given: Asked): Answer {
++  return removeFile(given, world.textOf)
++}
+diff --git a/changes/mechanical/pages/remove-file/remove-file.change-mechanical-file.test.ts b/changes/mechanical/pages/remove-file/remove-file.change-mechanical-file.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3783335ec21206b8220b5b34ed68d83b0e8789bb
+--- /dev/null
++++ b/changes/mechanical/pages/remove-file/remove-file.change-mechanical-file.test.ts
+@@ -0,0 +1,19 @@
++import { expect, test } from "bun:test"
++import { reading } from "@akasha/pages/page-value/testing"
++import { removeFile } from "./remove-file.change-mechanical-file.code.ts"
++
++const AT = "akasha/one.held.ts"
++
++test("a path the tree holds a body for is answered as one edit taking that path away", () => {
++  const said = removeFile({ at: AT }, reading({ [AT]: "alpha\n" }))
++
++  expect(said.refused).toBeNull()
++  expect(said.edits).toEqual([{ path: AT, was: "alpha\n", body: null }])
++})
++
++test("a path holding no body is refused and answers no edit", () => {
++  const said = removeFile({ at: AT }, reading({}))
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/holds no body/)
++})
+diff --git a/changes/mechanical/pages/remove-file/remove-file.change-mechanical-file.ts b/changes/mechanical/pages/remove-file/remove-file.change-mechanical-file.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c060ba0f785fdae24c7fce72285d6cb0d748b6bc
+--- /dev/null
++++ b/changes/mechanical/pages/remove-file/remove-file.change-mechanical-file.ts
+@@ -0,0 +1,35 @@
++import type { ChangeMechanicalFile } from "../../file/change-mechanical-file.page-type.ts"
++
++export const removeFile = {
++  id: "01a07744-1311-748c-a35b-3ebe72349dee",
++  pageTypeSlug: "change-mechanical-file",
++  slug: "remove-file",
++  definition: "one file taken away, with nothing else judged",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A path holding no body is refused rather than taken away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Nothing here judges whether a file may go.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The calling change judges whether a file may go.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A directory is left to the landing rather than taken away here.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads the disk or an index.",
++    },
++  ],
++} as const satisfies ChangeMechanicalFile
+diff --git a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.code.ts b/changes/mechanical/pages/remove-file/remove-file.change-mechanical.code.ts
+deleted file mode 100644
+index bef65939ae70b115ae9608dd7e31f472c511ce61..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.code.ts
++++ /dev/null
+@@ -1,23 +0,0 @@
+-import {
+-  answered,
+-  refusing,
+-  taking,
+-} from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-
+-export type Asked = {
+-  readonly at: string
+-}
+-
+-export function removeFile(given: Asked, textOf: (path: string) => string | null): Answer {
+-  const text = textOf(given.at)
+-  if (text === null) {
+-    return refusing(`\`${given.at}\` holds no body, so a removal takes nothing away`)
+-  }
+-  return answered([taking(given.at, text)])
+-}
+-
+-export function runChange(world: World, given: Asked): Answer {
+-  return removeFile(given, world.textOf)
+-}
+diff --git a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts b/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
+deleted file mode 100644
+index 94000df2813afb2c37650bdd47410f841756766c..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { reading } from "@akasha/pages/page-value/testing"
+-import { removeFile } from "./remove-file.change-mechanical.code.ts"
+-
+-const AT = "akasha/one.held.ts"
+-
+-test("a path the tree holds a body for is answered as one edit taking that path away", () => {
+-  const said = removeFile({ at: AT }, reading({ [AT]: "alpha\n" }))
+-
+-  expect(said.refused).toBeNull()
+-  expect(said.edits).toEqual([{ path: AT, was: "alpha\n", body: null }])
+-})
+-
+-test("a path holding no body is refused and answers no edit", () => {
+-  const said = removeFile({ at: AT }, reading({}))
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toMatch(/holds no body/)
+-})
+diff --git a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.ts b/changes/mechanical/pages/remove-file/remove-file.change-mechanical.ts
+deleted file mode 100644
+index 135e2646a325b187f0f5f41bc7f562b9449ecdcd..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.ts
++++ /dev/null
+@@ -1,35 +0,0 @@
+-import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+-
+-export const removeFile = {
+-  id: "01a07744-1311-748c-a35b-3ebe72349dee",
+-  pageTypeSlug: "change-mechanical",
+-  slug: "remove-file",
+-  definition: "one file taken away, with nothing else judged",
+-  code: "ts",
+-  test: "ts",
+-  runsChecks: false,
+-  readersOweReading: false,
+-  writerOwesReading: false,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A path holding no body is refused rather than taken away.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Nothing here judges whether a file may go.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The calling change judges whether a file may go.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A directory is left to the landing rather than taken away here.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads the disk or an index.",
+-    },
+-  ],
+-} as const satisfies ChangeMechanical
+diff --git a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical.test.ts b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical.test.ts
+index 43994f13467c5bec5259146709fdf847d333701e..f7997d61b0b682441ef993f48e1ec21f2e5f6708 100644
+--- a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical.test.ts
++++ b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical.test.ts
+@@ -13,12 +13,12 @@ import {
+   worldAt,
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { runChange as removeCodeFile } from "../remove-code-file/remove-code-file.change-mechanical.code.ts"
+-import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
++import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
+ import { runChange } from "./remove-page-file.change-mechanical.code.ts"
+ 
+ const REMOVE_CODE_FILE = "change-mechanical/remove-code-file"
+ 
+-const REMOVE_FILE = "change-mechanical/remove-file"
++const REMOVE_FILE = "change-mechanical-file/remove-file"
+ 
+ const RUNS: Reaching = (world, at, given) => {
+   if (at === REMOVE_CODE_FILE) return removeCodeFile(world, given as { at: string })
+diff --git a/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.code.ts b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.code.ts
+index dfb2c1dd5a1db0fd38066e7301766db79a8ad197..3f4a73f8ce4992cb362bece6c3302f1b0c8bae0b 100644
+--- a/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.code.ts
++++ b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.code.ts
+@@ -12,7 +12,7 @@ const PART_SLUGS = "part-slugs"
+ 
+ const PART_SLUGS_KEY = "partSlugs"
+ 
+-const REMOVE_FILE = "change-mechanical/remove-file"
++const REMOVE_FILE = "change-mechanical-file/remove-file"
+ 
+ const REMOVE_PROPERTY_VALUE = "change-mechanical/remove-property-value"
+ 
+diff --git a/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.test.ts b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.test.ts
+index 0b79d97246e20729d4742f9def3b887a3b156a5d..1ac516767d0475a9bbe065ed3c80dc42ab9f17da 100644
+--- a/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.test.ts
++++ b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.test.ts
+@@ -14,7 +14,7 @@ import {
+   type World,
+   worldAt,
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
++import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
+ import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
+ import { removePageType } from "./remove-page-type.change-mechanical.code.ts"
+ 
+@@ -40,7 +40,7 @@ const PAGE = pageOf({ id: idOf("f"), pageTypeSlug: "kept", slug: "one" })
+ type Unnaming = { at: string; key: string; value: string }
+ 
+ const RUNS: Reaching = (world, at, given) => {
+-  if (at === "change-mechanical/remove-file") {
++  if (at === "change-mechanical-file/remove-file") {
+     return Promise.resolve(removeFile(given as { at: string }, world.textOf))
+   }
+   if (at === "change-mechanical/remove-property-value") {
+diff --git a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
+index 706215ce4ea290bb83b0dc2e94506b00fc3493ea..241213a028ef3d050e2ec8c8c1d1b2312b368524 100644
+--- a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
++++ b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
+@@ -20,7 +20,7 @@ const PART_SLUGS = "part-slugs"
+ 
+ const PART_SLUGS_KEY = "partSlugs"
+ 
+-const REMOVE_FILE = "change-mechanical/remove-file"
++const REMOVE_FILE = "change-mechanical-file/remove-file"
+ 
+ const REMOVE_CODE_FILE = "change-mechanical/remove-code-file"
+ 
+diff --git a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.test.ts b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.test.ts
+index 1d6edde346d2dc515ecf291d39f4a587c15a3eda..8e114a74b4586455bcd1a983cd0f5b7708b0aa2c 100644
+--- a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.test.ts
++++ b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.test.ts
+@@ -31,7 +31,7 @@ import {
+   worldOver,
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { runChange as removeCodeFile } from "../remove-code-file/remove-code-file.change-mechanical.code.ts"
+-import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
++import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
+ import { runChange as removePageFile } from "../remove-page-file/remove-page-file.change-mechanical.code.ts"
+ import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
+ import { parentsOf, removePage } from "./remove-page.change-mechanical.code.ts"
+@@ -45,7 +45,7 @@ const REMOVE_CODE_FILE = "change-mechanical/remove-code-file"
+ const RUNS: Reaching = (world, at, given) => {
+   if (at === REMOVE_PAGE_FILE) return removePageFile(world, given as { at: string })
+   if (at === REMOVE_CODE_FILE) return removeCodeFile(world, given as { at: string })
+-  if (at === "change-mechanical/remove-file") {
++  if (at === "change-mechanical-file/remove-file") {
+     return Promise.resolve(removeFile(given as { at: string }, world.textOf))
+   }
+   if (at === "change-mechanical/remove-property-value") {
+diff --git a/changes/modules/change-shadow/change-shadow.module.test.ts b/changes/modules/change-shadow/change-shadow.module.test.ts
+index 847a786cee5a2fa7e1771bb21b6d3df725e5ff1e..85b941be6ef0a003b59a4f74007c5e1ab72ff71d 100644
+--- a/changes/modules/change-shadow/change-shadow.module.test.ts
++++ b/changes/modules/change-shadow/change-shadow.module.test.ts
+@@ -7,7 +7,7 @@ import {
+   textIn,
+ } from "@akasha/indexes/indexing/testing"
+ import { addFile } from "../../mechanical/pages/add-file/add-file.change-mechanical.code.ts"
+-import { removeFile } from "../../mechanical/pages/remove-file/remove-file.change-mechanical.code.ts"
++import { removeFile } from "../../mechanical/pages/remove-file/remove-file.change-mechanical-file.code.ts"
+ import {
+   answered,
+   gathered,
+@@ -34,7 +34,7 @@ const OTHER = "akasha/one/other.module.code.ts"
+ 
+ const ADD_FILE = "change-mechanical/add-file"
+ 
+-const REMOVE_FILE = "change-mechanical/remove-file"
++const REMOVE_FILE = "change-mechanical-file/remove-file"
+ 
+ const NO_BODY = `\`${AT}\` holds no body, so a removal takes nothing away`
+ 
