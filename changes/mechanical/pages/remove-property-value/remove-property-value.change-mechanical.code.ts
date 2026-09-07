@@ -8,10 +8,7 @@ import {
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import {
-  keyOf,
-  literalIn,
-} from "../change-page-property/change-page-property.change-mechanical.code.ts"
+import { keyOf, literalIn } from "../../../modules/page-literal/page-literal.module.code.ts"
 
 const BLIND = ts.TypeFlags.Any | ts.TypeFlags.Unknown
 

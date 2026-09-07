@@ -1,4 +1,4 @@
-import { literalOf, parsedAs } from "@akasha/code/code-source"
+import { parsedAs } from "@akasha/code/code-source"
 import type { Named } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { slugFor } from "@akasha/pages/page-property-key"
@@ -16,7 +16,7 @@ import {
   type World,
   worldOver,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { statedIn } from "../change-page-property/change-page-property.change-mechanical.code.ts"
+import { boundIn, keyOf, statedIn } from "../../../modules/page-literal/page-literal.module.code.ts"
 
 const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
 
@@ -55,26 +55,6 @@ type Renaming = {
 type Reach =
   | { readonly namers: readonly Named[]; readonly slugs: readonly string[] }
   | { readonly unread: string }
-
-function keyOf(held: ts.PropertyAssignment): string | null {
-  const name = held.name
-  return ts.isIdentifier(name) || ts.isStringLiteral(name) ? name.text : null
-}
-
-function exported(statement: ts.VariableStatement): boolean {
-  return statement.modifiers?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword) === true
-}
-
-function boundIn(source: ts.SourceFile): string | null {
-  for (const statement of source.statements) {
-    if (!ts.isVariableStatement(statement) || !exported(statement)) continue
-    for (const one of statement.declarationList.declarations) {
-      if (one.initializer === undefined || literalOf(one.initializer) === null) continue
-      if (ts.isIdentifier(one.name)) return one.name.text
-    }
-  }
-  return null
-}
 
 function readdressed(said: string, one: Renaming): string | null {
   if (said === one.was) return one.now

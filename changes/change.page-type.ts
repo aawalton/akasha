@@ -30,6 +30,7 @@ export const change = {
     "module/change-shadow",
     "module/change-guarding",
     "module/page-claiming",
+    "module/page-literal",
     "module/change-answer",
     "module/edits-keeping",
   ],

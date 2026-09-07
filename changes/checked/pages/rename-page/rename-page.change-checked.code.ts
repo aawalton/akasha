@@ -3,7 +3,6 @@ import { parsedAs } from "@akasha/code/code-source"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import { folderFor } from "../../../../pages/service/page-composing/page-composing.module.code.ts"
-import { statedIn } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
 import {
   answered,
   gathered,
@@ -16,6 +15,7 @@ import {
   type World,
   worldOver,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { statedIn } from "../../../modules/page-literal/page-literal.module.code.ts"
 
 const RENAME_PAGE_SLUG = "change-mechanical/rename-page-slug"
 

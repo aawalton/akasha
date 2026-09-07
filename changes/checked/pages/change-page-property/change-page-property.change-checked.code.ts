@@ -1,5 +1,4 @@
 import { parsedAs } from "@akasha/code/code-source"
-import { manyIn } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
 import {
   readFor,
   targetsIn,
@@ -7,6 +6,7 @@ import {
 import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { manyIn } from "../../../modules/page-literal/page-literal.module.code.ts"
 
 const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
 
