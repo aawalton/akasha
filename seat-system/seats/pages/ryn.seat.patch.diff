@@ -1,0 +1,17 @@
+diff --git a/seat-system/supervising/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.ts b/seat-system/supervising/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.ts
+index 8c9841db524831b71a845b1c9a5e48f86ff0e5f6..0b1f245f127e9ac11cb51a3c49b6715bf963aa66 100644
+--- a/seat-system/supervising/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.ts
++++ b/seat-system/supervising/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.ts
+@@ -9,7 +9,11 @@ export const supervisorInteractiveBootContract = {
+   invariants: [
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here holds behaviour; every export is a type.",
++      statement: "Nothing here holds behaviour.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every export is a type.",
+     },
+     {
+       invariantKind: "departure",
