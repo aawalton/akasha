@@ -11,7 +11,7 @@ export const libSetsConstTextures = {
     {
       invariantKind: "departure",
       statement:
-        "Every supported language table other than English is given the English table as its fallback.",
+        "A supported language table that is not English is given the English table as its fallback.",
     },
   ],
 } as const satisfies Module
