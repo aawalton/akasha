@@ -1,0 +1,72 @@
+writerOwesReading: false
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.code.ts b/changes/runners/pages/change-running/change-running.change-runner.code.ts
+index 5502b3661145f5f3854b01104ff3e6a70b8cda20..badd933f575404f672cf1175415230dc5d795380 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.code.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.code.ts
+@@ -27,10 +27,15 @@ export function codeAt(world: World, address: string): string | null {
+   return besideAt(listed.path, CODE, TS)
+ }
+ 
++export function sittingAt(world: World, path: string): string {
++  const moved = world.over.edits.find((one) => one.path === path && one.from !== undefined)
++  return moved?.from ?? path
++}
++
+ async function exportedAt(world: World, address: string, named: string): Promise<unknown> {
+   const at = codeAt(world, address)
+   if (at === null) return null
+-  const held = (await import(join(world.root, at))) as Record<string, unknown>
++  const held = (await import(join(world.root, sittingAt(world, at)))) as Record<string, unknown>
+   return held[named] ?? null
+ }
+ 
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.test.ts b/changes/runners/pages/change-running/change-running.change-runner.test.ts
+index b31be08cc149f69808318bfc41de62ea05676e61..a42d527aac4001f3bf607558d6cc50ced2d767f2 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.test.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.test.ts
+@@ -9,12 +9,29 @@ import {
+   NOTHING_OVER,
+   type World,
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { partsOf, ranBy } from "./change-running.change-runner.code.ts"
++import { partsOf, ranBy, sittingAt } from "./change-running.change-runner.code.ts"
+ 
+ const AT = "akasha/one.held.ts"
+ 
++const WAS = "akasha/one/one.held.code.ts"
++
++const NOW = "akasha/one/one.held-anew.code.ts"
++
+ const WROTE: Answer = answered([writing(AT, null, "held\n")])
+ 
++test("a path a move carries a body to is loaded from the path that body came from", () => {
++  const world = {
++    ...worldOf(),
++    over: answered([{ path: NOW, was: "held\n", body: "held\n", from: WAS }]),
++  }
++
++  expect(sittingAt(world, NOW)).toBe(WAS)
++})
++
++test("a path no move carries a body to is loaded from that path", () => {
++  expect(sittingAt(worldOf(), AT)).toBe(AT)
++})
++
+ function worldOf(): World {
+   return {
+     root: "/nowhere",
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.ts b/changes/runners/pages/change-running/change-running.change-runner.ts
+index 63139e595a95a64e231237b26381f648f8f5c9fc..7906c84c9009145e90357a1b8371f4ee3a7b7b3b 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.ts
+@@ -57,6 +57,10 @@ export const changeRunning = {
+       invariantKind: "departure",
+       statement: "Loading a change reaches the disk.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A change a move carries elsewhere is loaded from the path that code came from.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A change reaching another change loads that change while the first change runs.",
