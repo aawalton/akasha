@@ -1,0 +1,26 @@
+diff --git a/bun.lock b/bun.lock
+index d6bf8736e93d30a14760cefce0a81a15abce189e..0539930e7da6503c6c8beb79a3ad68172995086c 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -522,6 +522,8 @@
+     "code-system": {
+       "name": "@akasha/code",
+       "dependencies": {
++        "@akasha/domains": "workspace:*",
++        "@akasha/pages": "workspace:*",
+         "typescript": "5.9.3",
+       },
+     },
+diff --git a/code-system/package.json b/code-system/package.json
+index e4a42c4b9d6a531ef49a3cf5d02713cb96ceb2db..d2b09e9444d73bdbf33bd92eab95ded4cad60cb5 100644
+--- a/code-system/package.json
++++ b/code-system/package.json
+@@ -48,6 +48,8 @@
+     "./workspace-package": "./workspace-packages/workspace-package.page-type.ts"
+   },
+   "dependencies": {
++    "@akasha/domains": "workspace:*",
++    "@akasha/pages": "workspace:*",
+     "typescript": "5.9.3"
+   }
+ }
