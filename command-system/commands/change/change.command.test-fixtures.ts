@@ -1,5 +1,5 @@
 import { idOf, indexedRepo, pageOf } from "@akasha/indexes/indexing/testing"
-import { removePage } from "../../../changes/checked/pages/remove-page/remove-page.change-checked.code.ts"
+import { removePage } from "../../../changes/agent/file/remove-page/remove-page.change-checked.code.ts"
 import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
 import {

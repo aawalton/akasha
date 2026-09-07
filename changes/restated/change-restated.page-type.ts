@@ -14,7 +14,7 @@ export const changeRestated = {
   definition: "a change carrying words an agent composed for a meaning already stated",
   pluralSlug: "change-restated",
   extendsSlug: ["page-type/change"],
-  partSlugs: ["change-restated/change-page-property-text"],
+  partSlugs: [],
   invariants: [
     {
       invariantKind: "departure",
