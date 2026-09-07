@@ -81,7 +81,7 @@ export function landingFor(
   const was = join(dirname(at), value)
   const arrived = moved.get(was) ?? was
   const under = arriving === HERE ? "" : `${arriving}${PARTED_BY}`
-  if (!arrived.startsWith(under)) return { gone: true }
+  if (arrived.startsWith(under)) return { gone: true }
   return { said: `${OPENING}${arrived.slice(under.length)}` }
 }
 
