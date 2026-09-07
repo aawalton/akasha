@@ -35,6 +35,7 @@ export const readoutGroup = {
       many: false,
       default: "label",
     },
+    { pagePropertySlug: "boolean-property/figure-off-scale", required: false, many: false },
   ],
   invariants: [
     {
