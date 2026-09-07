@@ -242,57 +242,6 @@ index 956996ec940c6dacfca1381e0b25d6f273558d60..1038110643448a43f3b747f20241e893
      },
      {
        invariantKind: "gap",
-diff --git a/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts b/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
-index 0fb6f4e8eded4dabd16458e4fbdadc16efbe0bd4..49d9327e536455d9ef7f1ec348c134e612dacbde 100644
---- a/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
-+++ b/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
-@@ -49,7 +49,7 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean):
-     return {
-       report,
-       refusals: left.map(
--        (one) => `${one}, and applying it would write the stand-in itself into the cluster`
-+        (one) => `${one}, and applying it would write the placeholder itself into the cluster`
-       ),
-       code: DATA,
-     }
-@@ -60,7 +60,7 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean):
-     return {
-       report,
-       refusals: [
--        `git says no commit stands at HEAD under ${given.root}, so nothing names the source to build`,
-+        `git says no commit is at HEAD under ${given.root}, so nothing names the source to build`,
-       ],
-       code: DATA,
-     }
-@@ -120,16 +120,14 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean):
-   for (const manifest of plan.manifests) {
-     const applied = appliedOf(manifest)
-     if ("why" in applied) return { report, refusals: [applied.why], code: OPERATIONAL }
--    report.push(`manifest\t${manifest.path}\t${applied.stands ? "stands" : "differs"}`)
-+    report.push(`manifest\t${manifest.path}\t${applied.stands ? "matches" : "differs"}`)
-     if (!applied.stands) differs = true
-   }
-   const up = upAlready(workload)
--  report.push(`standing\t${up ? "up" : "not up"}`)
-+  report.push(`up-already\t${up ? "up" : "not up"}`)
- 
-   if (!differs && up && isBuilt) {
--    report.push(
--      `nothing\tthe cluster already stands as ${deployable.slug}'s page describes, at ${sha}`
--    )
-+    report.push(`nothing\tthe cluster is already as ${deployable.slug}'s page describes, at ${sha}`)
-     return { report, refusals: [], code: 0 }
-   }
- 
-@@ -163,7 +161,7 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean):
-   }
- 
-   report.push(
--    `up\t${workload.kind} ${workload.namespace}/${workload.name} stands as its page describes`
-+    `up\t${workload.kind} ${workload.namespace}/${workload.name} is as its page describes`
-   )
-   return { report, refusals: [], code: 0 }
- }
 diff --git a/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts b/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
 index 75c6dbd97c64b815322f7a6198512563e08a6c6b..783a32c66f6996496a007f2e1baedd824c38c0b8 100644
 --- a/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
