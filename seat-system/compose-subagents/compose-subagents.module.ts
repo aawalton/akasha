@@ -26,7 +26,11 @@ export const composeSubagents = {
     },
     {
       invariantKind: "departure",
-      statement: "An index naming no kind is refused, because an empty map turns delegation off.",
+      statement: "An index naming no kind is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An empty map turns delegation off.",
     },
     {
       invariantKind: "departure",
