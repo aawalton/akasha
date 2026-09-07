@@ -13,13 +13,13 @@ export const pageIconSearchIndexGenerate = {
     { said: "--stage <path>", takes: "the folder the bodies are staged in" },
   ],
   helpNotes: [
-    "nothing lands here: the bodies are staged and the `akasha write` call that lands them is answered.",
+    "nothing lands here: the bodies are staged, and the script answered drafts them with `akasha change` and lands them with `akasha apply`.",
     "a shard that stood before keeps the id it had, and only a shard that is new is given one.",
     "the icons are packed into shards under a budget rather than written as one file, because a body is refused past a size.",
     "the budget an entries shard is packed against leaves room for what formatting adds, and the pascal shards need none.",
     "a shard the new release no longer fills is named to be removed rather than left unimported.",
-    "the staging folder is left standing, since the write that reads it is made afterwards.",
-    "a page already standing has to be read before the write, or the write breaks the glass.",
+    "the staging folder remains, since the script that reads it is run afterwards.",
+    "every file the script changes has to be read before the apply, and breaking the glass passes the checks rather than the reading.",
   ],
   invariants: [
     {
@@ -30,7 +30,7 @@ export const pageIconSearchIndexGenerate = {
 
     {
       invariantKind: "departure",
-      statement: "A body rendered at or past the size a write refuses stages nothing at all.",
+      statement: "A body rendered at or past the size a landing refuses stages nothing at all.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const pageIconSearchIndexGenerate = {
     },
     {
       invariantKind: "gap",
-      statement: "The list of shards the owning package's page states is written by this run.",
+      statement: "A shard that is new is written into the list the owning package's page states.",
     },
   ],
 } as const satisfies Command

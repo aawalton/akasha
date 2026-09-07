@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { quoted } from "@akasha/code/name-series"
+import { addingFile, changingFile, quoted, removingAt } from "@akasha/code/name-series"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { ran } from "@akasha/utils-run/running"
 import {
@@ -101,7 +101,7 @@ function staged(
   pages: readonly Staged[],
   gone: readonly string[]
 ): string {
-  const argv: string[] = []
+  const calls: string[] = []
   for (const page of pages) {
     for (const [at, body] of [
       [page.codeAt, page.code],
@@ -110,21 +110,28 @@ function staged(
       const into = join(stage, at)
       mkdirSync(dirname(into), { recursive: true })
       writeFileSync(into, body)
-      argv.push("--file-path", at, "--content-file", into)
+      const was = join(root, at)
+      calls.push(
+        ...(existsSync(was) ? changingFile(at, was, into, body) : addingFile(at, into, body))
+      )
     }
   }
-  for (const slug of gone) argv.push("--remove", pageAtOf(slug))
+  for (const slug of gone) calls.push(removingAt("remove-page", pageAtOf(slug)))
 
   const messageAt = join(stage, "message.txt")
   writeFileSync(
     messageAt,
     `regenerate the icon search index from lucide ${LUCIDE_TAG}\n\nWritten by \`${REGENERATE}\`.\n`
   )
-  argv.push("--message-file", messageAt)
 
   const landAt = join(stage, "land.sh")
-  const call = argv.map(quoted).join(" \\\n  ")
-  writeFileSync(landAt, `#!/usr/bin/env bash\nset -euo pipefail\nakasha write \\\n  ${call}\n`)
+  const script = [
+    "#!/usr/bin/env bash",
+    "set -euo pipefail",
+    ...calls,
+    `akasha apply --message-file ${quoted(messageAt)}`,
+  ]
+  writeFileSync(landAt, `${script.join("\n")}\n`)
   return landAt
 }
 
@@ -174,20 +181,19 @@ export async function pageIconSearchIndexGenerate(
       `nothing has landed. To land what was staged, run:`,
       `  bash ${landAt}`,
       "",
-      "a write over a body the read record does not show you read is refused, so every page " +
-        "above that already stands has to be read first, or the write has to break the glass " +
-        "— which also passes the checks that judge the sizes.",
+      "the apply is refused for a body the read record does not show you read, so every file " +
+        "the script changes has to be read first. Breaking the glass passes the checks and " +
+        "passes no reading.",
     ]
 
     const stood = new Set(standing)
     const arrived = [...kept].filter((slug) => slug !== AGGREGATE && !stood.has(slug)).sort()
-    if (arrived.length > 0 || gone.length > 0) {
+    if (arrived.length > 0) {
       report.push(
         "",
-        "the shard count changed, so the `partSlugs` of the package holding these no longer " +
-          "names what stands. Nothing here writes that list:",
-        ...arrived.map((slug) => `  add     module/${slug}`),
-        ...gone.map((slug) => `  remove  module/${slug}`)
+        "a shard that is new is named by no `partSlugs` of the package holding these, and " +
+          "nothing here writes that list. A shard removed is taken out of it by `remove-page`:",
+        ...arrived.map((slug) => `  add     module/${slug}`)
       )
     }
     return { report, refusals: [], code: 0 }
