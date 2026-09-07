@@ -42,7 +42,7 @@ export const changeMechanical = {
     "change-mechanical/rename-export",
     "change-mechanical/rename-local-variable",
     "change-mechanical/rename-page-slug",
-    "change-mechanical/rename-path",
+    "change-mechanical-file/rename-path",
     "change-mechanical/rename-property-signature",
     "change-mechanical/rename-manifest-ways",
     "change-mechanical/remove-manifest-ways",

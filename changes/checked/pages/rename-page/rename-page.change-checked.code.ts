@@ -19,7 +19,7 @@ import { statedIn } from "../../../modules/page-literal/page-literal.module.code
 
 const RENAME_PAGE_SLUG = "change-mechanical/rename-page-slug"
 
-const RENAME_PATH = "change-mechanical/rename-path"
+const RENAME_PATH = "change-mechanical-file/rename-path"
 
 const TYPED = ".ts"
 

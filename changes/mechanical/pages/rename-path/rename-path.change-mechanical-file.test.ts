@@ -14,7 +14,7 @@ import {
   worldOver,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { runChange as renameImports } from "../rename-imports/rename-imports.change-mechanical.code.ts"
-import { renamePath } from "./rename-path.change-mechanical.code.ts"
+import { renamePath } from "./rename-path.change-mechanical-file.code.ts"
 
 afterAll(scratch.sweep)
 
