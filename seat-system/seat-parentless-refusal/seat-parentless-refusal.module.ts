@@ -10,7 +10,7 @@ export const seatParentlessRefusal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat a person opened needs no parent, that person having opened that seat.",
+      statement: "A seat a person opened needs no parent.",
     },
     {
       invariantKind: "departure",
