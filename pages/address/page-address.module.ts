@@ -10,39 +10,19 @@ export const pageAddress = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page type and a slug are cut at the first `/`.",
+      statement: "This module holds the union of every address kind.",
     },
     {
       invariantKind: "departure",
-      statement: "A slug carries no slash.",
+      statement: "A kind left out of the union does not compile.",
     },
     {
       invariantKind: "departure",
-      statement: "A slug is lower kebab case.",
+      statement: "An address names the property a value is read by.",
     },
     {
-      invariantKind: "departure",
-      statement: "A third part names the collection a slug is unique within.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An address naming a page by id carries no slug.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The shape an id is judged by is the lower uuid format's own.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A bare address is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The page reached is read off the caller.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An address naming its parent by a slug is refused.",
+      invariantKind: "absence",
+      statement: "No address names a page by a value alone.",
     },
     {
       invariantKind: "departure",

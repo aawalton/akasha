@@ -10,11 +10,11 @@ export const inPageType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The index answers this kind under the scope of the page type named.",
+      statement: "This kind answers the level `page-type`.",
     },
     {
       invariantKind: "departure",
-      statement: "This kind answers the reach `page-type`.",
+      statement: "The index answers this kind under the page type named.",
     },
     {
       invariantKind: "departure",

@@ -10,20 +10,15 @@ export const byId = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The index answers this kind under the scope `page`.",
+      statement: "This kind answers the level `page`.",
     },
     {
       invariantKind: "departure",
-      statement: "This kind answers the reach every page shares.",
+      statement: "An address of this kind names the property the value is read by.",
     },
     {
       invariantKind: "absence",
-      statement: "An address of this kind names no page type and no property.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "A second property reaching every page leaves an address of this kind pointing at two reaches.",
+      statement: "An address of this kind names no page type.",
     },
   ],
 } as const satisfies PageAddressKind
