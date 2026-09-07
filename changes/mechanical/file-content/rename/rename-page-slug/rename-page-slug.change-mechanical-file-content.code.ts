@@ -12,9 +12,9 @@ import {
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
+  holding,
   reach,
   type World,
-  worldOver,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import {
   boundIn,
@@ -190,7 +190,7 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
   if (given.plural !== undefined) {
     const before = gathered(answers)
     if (before.refused !== null) return before
-    const stated = await reach(worldOver(world, before), CHANGE_PAGE_PROPERTY, {
+    const stated = await reach(holding(world, before), CHANGE_PAGE_PROPERTY, {
       at: given.at,
       key: PLURAL_SLUG,
       to: given.plural,
@@ -202,7 +202,7 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
   if ("unread" in reading) return refusing(reading.unread)
   const folded = gathered(answers)
   if (folded.refused !== null) return folded
-  const spelled = await reach(worldOver(world, folded), RENAME_EXPORT, {
+  const spelled = await reach(holding(world, folded), RENAME_EXPORT, {
     at: given.at,
     over: [given.at, ...reading.importers],
     of: bound,

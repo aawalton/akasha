@@ -34,10 +34,14 @@ export type Reached = {
   readonly world: World
 }
 
+export function holding(world: World, said: Answer): World {
+  return isLedger(world) ? addedTo(world, said) : worldOver(world, said)
+}
+
 export async function reach(world: World, at: keyof Changes, given: unknown): Promise<Reached> {
   const said = await (world.reaching ?? REACHES_NOTHING)(world, at, given)
   if (said.refused !== null) return { said, world }
-  return { said, world: isLedger(world) ? addedTo(world, said) : worldOver(world, said) }
+  return { said, world: holding(world, said) }
 }
 
 export function bytesOf(body: string | null): Uint8Array | null {
