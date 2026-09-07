@@ -1,5 +1,7 @@
 import type { Query } from "@akasha/pages-service/asking"
 import { askingFor } from "@akasha/pages-service/calling"
+import { stilled } from "@akasha/readout-system/readout-group-serving"
+import { stated } from "@akasha/readout-system/readout-none-left"
 import { climbs, rungsIn } from "@akasha/readout-system/readout-tier"
 import { sleepIn } from "@akasha/readout-system/upkeep-sleep"
 import { surplusIn } from "@akasha/readout-system/upkeep-surplus"
@@ -20,10 +22,6 @@ const READOUT_PAGE_TYPE_SLUG = "readout"
 const READOUT_SCALE_PAGE_TYPE_SLUG = "readout-scale"
 
 type Values = Readonly<Record<string, unknown>>
-
-function stated(held: unknown): string | null {
-  return typeof held === "string" && held !== "" ? held : null
-}
 
 async function rowsOf(query: Query, doing: string): Promise<readonly Values[]> {
   const asked = await askingFor(query, onTheWorkstation)
@@ -67,10 +65,6 @@ export async function rungsOf(scaleSlug: string): Promise<readonly Rung[]> {
   return rungs
 }
 
-function stilled(row: Values): boolean {
-  return row.enabled === false
-}
-
 export async function resolveOneReadout(groupSlug: string): Promise<Readout> {
   const rows = await rowsOf(
     {
@@ -79,7 +73,7 @@ export async function resolveOneReadout(groupSlug: string): Promise<Readout> {
     },
     `resolveOneReadout: the readouts of the group \`${groupSlug}\` went unread, so what is being watched is unknown`
   )
-  const drawn = rows.filter((row) => !stilled(row))
+  const drawn = rows.filter((one) => !stilled(one))
   const [row, ...rest] = drawn
   if (row === undefined || rest.length > 0) {
     throw new Error(
@@ -89,7 +83,7 @@ export async function resolveOneReadout(groupSlug: string): Promise<Readout> {
   const slug = stated(row.slug)
   const label = stated(row.label)
   const scaleSlug = stated(row.scaleSlug)
-  if (slug === null || label === null || scaleSlug === null) {
+  if (slug === undefined || label === undefined || scaleSlug === undefined) {
     throw new Error(
       `resolveOneReadout: the one readout of the group \`${groupSlug}\` states no slug, no label or no scale-slug, and a fall names the readout it fell on and the rung it reached`
     )

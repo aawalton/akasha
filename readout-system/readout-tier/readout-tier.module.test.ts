@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   climbs,
   falls,
+  placesFor,
   readingSaid,
   rungsIn,
   statedAt,
@@ -140,36 +141,36 @@ test("an inbox at empty is blue and one over a hundred is black", () => {
   expect(tierAt(9, lowest)?.tier).toBe("green")
 })
 
-test("a readout stating no format has its reading said as the number it is", () => {
+test("a figure is floored rather than rounded", () => {
+  expect(readingSaid(7.583333333333333)).toBe("7.5")
+  expect(readingSaid(8.666666666666666)).toBe("8.6")
   expect(readingSaid(2.5)).toBe("2.5")
-  expect(readingSaid(3)).toBe("3")
   expect(readingSaid(-1.5)).toBe("-1.5")
-  expect(readingSaid(-0.008333333333334636)).toBe("-0.008333333333334636")
 })
 
-test("a figure written as a decimal is written to no more than two places", () => {
-  expect(readingSaid(-0.008333333333334636, "decimal")).toBe("-0.01")
-  expect(readingSaid(8.666666666666666, "decimal")).toBe("8.67")
-  expect(readingSaid(-3.256, "decimal")).toBe("-3.26")
+test("a figure carries two significant figures at least", () => {
+  expect(readingSaid(0.10708000000000002)).toBe("0.10")
+  expect(readingSaid(-0.008333333333334636)).toBe("-0.0084")
+  expect(placesFor(7.58)).toBe(1)
+  expect(placesFor(0.107)).toBe(2)
 })
 
-test("a figure written as a decimal drops the places it has nothing to put in them", () => {
-  expect(readingSaid(2.5, "decimal")).toBe("2.5")
-  expect(readingSaid(3, "decimal")).toBe("3")
-  expect(readingSaid(-2, "decimal")).toBe("-2")
+test("a figure reaching ten is written whole", () => {
+  expect(readingSaid(42.83200000000001)).toBe("42")
+  expect(placesFor(42.832)).toBe(0)
 })
 
-test("a figure written as an integer is written to the nearest whole number", () => {
-  expect(readingSaid(2.5, "integer")).toBe("3")
-  expect(readingSaid(-3.4, "integer")).toBe("-3")
-  expect(readingSaid(7, "integer")).toBe("7")
+test("a figure that is a whole number is written without a decimal place", () => {
+  expect(readingSaid(3)).toBe("3")
+  expect(readingSaid(18)).toBe("18")
+  expect(readingSaid(0)).toBe("0")
+  expect(readingSaid(-2)).toBe("-2")
 })
 
-test("a figure that rounds onto zero is written as zero rather than as a signed zero", () => {
-  expect(readingSaid(-0.001, "decimal")).toBe("0")
-  expect(readingSaid(-0.4, "integer")).toBe("0")
+test("a figure that floors onto zero is written as zero rather than as a signed zero", () => {
+  expect(readingSaid(-0)).toBe("0")
 })
 
-test("a format no page states leaves the reading said as the number it is", () => {
-  expect(readingSaid(-0.008333333333334636, "duration")).toBe("-0.008333333333334636")
+test("a reading that is no finite number is written as the number that reading is", () => {
+  expect(readingSaid(Number.NaN)).toBe("NaN")
 })
