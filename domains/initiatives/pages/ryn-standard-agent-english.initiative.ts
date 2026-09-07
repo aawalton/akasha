@@ -6,4 +6,10 @@ export const rynStandardAgentEnglish = {
   slug: "ryn-standard-agent-english",
   domainSlug: "workspace-package/plain-language",
   personaSlug: "ryn",
+  intents: [
+    {
+      statement: "The load a construction puts on a reading agent is measured.",
+    },
+  ],
+  constraints: ["The load a construction puts on a reading agent is measured."],
 } as const satisfies Initiative
