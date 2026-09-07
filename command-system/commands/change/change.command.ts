@@ -7,6 +7,7 @@ export const change = {
   definition: "one mechanical change run for the edits it answers rather than for a landing",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   changeKindSlug: "change-mechanical",
   helpNotes: [
     "the change is the first word, and the arguments that change takes are piped in.",
