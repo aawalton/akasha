@@ -1,5 +1,5 @@
 diff --git a/changes/modules/change-shadow/change-shadow.module.code.ts b/changes/modules/change-shadow/change-shadow.module.code.ts
-index 4be3c24bd1e40d5cd4340a588a5865b0ac298ae8..a1b07bc8e38da1e48cdc8445ffe1f284370e9941 100644
+index 4be3c24bd1e40d5cd4340a588a5865b0ac298ae8..0d9838bc00300da661bd1b0527b97f938a1bbb5e 100644
 --- a/changes/modules/change-shadow/change-shadow.module.code.ts
 +++ b/changes/modules/change-shadow/change-shadow.module.code.ts
 @@ -6,6 +6,7 @@ import {
@@ -10,6 +10,15 @@ index 4be3c24bd1e40d5cd4340a588a5865b0ac298ae8..a1b07bc8e38da1e48cdc8445ffe1f284
  import { gathered, refusing } from "../change-answer/change-answer.module.code.ts"
  import type { Answer, Edit } from "../change-answer/change-answer.module.types.ts"
  
+@@ -31,7 +32,7 @@ export type Reached = {
+   readonly world: World
+ }
+ 
+-export async function reach(world: World, at: string, given: unknown): Promise<Reached> {
++export async function reach(world: World, at: keyof Changes, given: unknown): Promise<Reached> {
+   const said = await (world.reaching ?? REACHES_NOTHING)(world, at, given)
+   if (said.refused !== null) return { said, world }
+   return { said, world: worldOver(world, said) }
 diff --git a/changes/runners/change-runner.page-type.ts b/changes/runners/change-runner.page-type.ts
 index 064aa14a44a7df40e543dae2fbc314e1375572a1..90d214616dc93c37ceea35d0b97b52170fade25f 100644
 --- a/changes/runners/change-runner.page-type.ts
