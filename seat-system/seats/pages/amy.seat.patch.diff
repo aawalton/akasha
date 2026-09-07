@@ -129,10 +129,20 @@ index 79a620da6a0f8857b276148bcdb7d8696551f674..2ffa9889bb53e435639426e5a87699ee
    if (tasks.length === 0) {
      report("No tasks to export.")
 diff --git a/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.ts b/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.ts
-index 5aaa3ddf6dd25eee3e48d8457cff0bd057fdbbe7..0ead82747506a81e2594434afc027246e65f1c98 100644
+index 5aaa3ddf6dd25eee3e48d8457cff0bd057fdbbe7..4764cc0d8075fec225651a646c5e181687421bde 100644
 --- a/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.ts
 +++ b/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.ts
-@@ -30,6 +30,14 @@ export const watcherExportTasks = {
+@@ -19,8 +19,7 @@ export const watcherExportTasks = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A task is keyed by its pgId where that task has one and by its page id otherwise.",
++      statement: "A task is keyed by its page id.",
+     },
+     {
+       invariantKind: "departure",
+@@ -30,6 +29,14 @@ export const watcherExportTasks = {
        invariantKind: "departure",
        statement: "A task row carrying no page id is left out.",
      },
