@@ -1,263 +1,118 @@
 writerOwesReading: false
-diff --git a/changes/agent/file-content/change-page-property-text/change-page-property-text.change-restated.test.ts b/changes/agent/file-content/change-page-property-text/change-page-property-text.change-restated.test.ts
-index 1caa4bbbba24d7ddde35b367399a52056e74ea24..95273c7fb79378635df31548fcfb0180543395f6 100644
---- a/changes/agent/file-content/change-page-property-text/change-page-property-text.change-restated.test.ts
-+++ b/changes/agent/file-content/change-page-property-text/change-page-property-text.change-restated.test.ts
-@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
- import type { Carried } from "@akasha/pages/page-type-properties"
- import type { Value } from "@akasha/pages/page-value"
- import { runChange as changeValue } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
--import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
-+import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
+diff --git a/command-system/applying/applying.module.code.ts b/command-system/applying/applying.module.code.ts
+index 32d3e1f273239da1c823bdd669de997923f61dc8..d9ab9b15daa426709703e2c2dec4098e26561be1 100644
+--- a/command-system/applying/applying.module.code.ts
++++ b/command-system/applying/applying.module.code.ts
+@@ -1,4 +1,4 @@
+-import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
++import { patchAt } from "@akasha/agents/patch-keeping"
+ import type { Judging } from "@akasha/checks/judging"
+ import { said as gitSaid } from "@akasha/git/git-running"
+ import { partedIn } from "@akasha/pages/page-file-name"
+@@ -25,10 +25,8 @@ import {
+   APPLIED,
+   type Bodies,
+   droppedPatch,
+-  heldIn,
+   type Running,
+   rebasedHeld,
+-  runningIn,
+ } from "../drafting/drafting.module.code.ts"
+ import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
+ import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
+@@ -96,7 +94,7 @@ export async function applying(
+   const glass = glassIn(argv, APPLYING)
+   if ("refusals" in glass) return notLanded(mistaking(glass.refusals))
+   const broken = glass.glass
+-  if (carried === null && patchIn(given.root, page) === null) {
++  if (carried === null) {
+     return notLanded(mistaking([noneSaid(given.root, page)]))
+   }
+   const built = gateBuilt(given.root)
+@@ -149,11 +147,6 @@ export async function applying(
+ 
+ export type Carried = { readonly held: Bodies; readonly running: Running }
+ 
+-function carriedIn(root: string, page: string): Carried | null {
+-  const patch = patchIn(root, page)
+-  return patch === null ? null : { held: heldIn(root, patch), running: runningIn(patch) }
+-}
+-
+ export type Applied = {
+   readonly base: string
+   readonly landed: readonly string[]
+@@ -212,8 +205,8 @@ export async function applied(
+ ): Promise<Applied | Refused> {
+   const at = patchAt(page)
+   if (at === null) return { refusals: [NO_PAGE] }
+-  const holding = carried ?? carriedIn(root, page)
+-  if (holding === null) return { refusals: [NO_PATCH] }
++  if (carried === null) return { refusals: [NO_PATCH] }
++  const holding = carried
+   const head = gitSaid(root, ["rev-parse", "HEAD"]).trim()
+   const said = rebasedHeld(root, head, holding.held)
+   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
+diff --git a/command-system/applying/applying.module.test.ts b/command-system/applying/applying.module.test.ts
+index 2986bb4d052b1b820f4373e3a524a5a0633a0c49..bfddc867eae99dd31920a6c9b0a7bcdd7c24d372 100644
+--- a/command-system/applying/applying.module.test.ts
++++ b/command-system/applying/applying.module.test.ts
+@@ -5,7 +5,7 @@ import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
+ import { said as gitSaid } from "@akasha/git/git-running"
+ import { noImportersFiled } from "@akasha/indexes/testing"
+ import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
+-import { drafted, runningIn } from "../drafting/drafting.module.code.ts"
++import { drafted, heldIn, runningIn } from "../drafting/drafting.module.code.ts"
+ import { landing } from "../landing/landing.module.code.ts"
  import {
-   NOTHING_OVER,
-   type Reaching,
-@@ -15,7 +15,8 @@ import {
+   A,
+@@ -19,10 +19,16 @@ import {
+   scratch,
+ } from "../landing/landing.module.test-fixtures.ts"
+ import { readingIn, recordRead, sameBody } from "../reading/reading.module.code.ts"
+-import { applied } from "./applying.module.code.ts"
++import { applied as appliedWith } from "./applying.module.code.ts"
  
- const RUNS: Reaching = (world, at, given) => {
-   if (at === "change-mechanical-file-content/change-page-property") {
--    return Promise.resolve(changeValue(world, given as Parameters<typeof changeValue>[1]))
-+    const said = changeValue(world, given as Parameters<typeof changeValue>[1])
-+    return Promise.resolve(widened(said, world.textOf))
-   }
-   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
- }
-diff --git a/changes/agent/file-content/change-page-property/change-page-property.change-checked.test.ts b/changes/agent/file-content/change-page-property/change-page-property.change-checked.test.ts
-index abf58b1134f03b47c9a8ecd99f10a31c5d57ada0..e43de8bfde9d7e8ef0b81309399aa4c50f244b44 100644
---- a/changes/agent/file-content/change-page-property/change-page-property.change-checked.test.ts
-+++ b/changes/agent/file-content/change-page-property/change-page-property.change-checked.test.ts
-@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
- import type { Value } from "@akasha/pages/page-value"
- import { runChange as changeValue } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
- import { runChange as changeRelation } from "../../../mechanical/file-content/change/change-page-property-relation/change-page-property-relation.change-mechanical-file-content.code.ts"
--import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
-+import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
- import {
-   NOTHING_OVER,
-   type Reaching,
-@@ -13,7 +13,7 @@ import { changePageProperty, runChange } from "./change-page-property.change-che
+ const AGENT = "01a05f00-0000-7000-8000-000000000001"
  
- const RUNS: Reaching = async (world, at, given) => {
-   if (at === "change-mechanical-file-content/change-page-property") {
--    return changeValue(world, given as Parameters<typeof changeValue>[1])
-+    return widened(changeValue(world, given as Parameters<typeof changeValue>[1]), world.textOf)
-   }
-   if (at === "change-mechanical-file-content/change-page-property-relation") {
-     return await changeRelation(world, given as Parameters<typeof changeRelation>[1])
-diff --git a/changes/agent/file/rename-page/rename-page.change-checked.test.ts b/changes/agent/file/rename-page/rename-page.change-checked.test.ts
-index 6aae4c500ea3535c63940d66d20ba93e3c10bb26..b805ce31d53a7e872df9f8dbbc5204de89c5bc46 100644
---- a/changes/agent/file/rename-page/rename-page.change-checked.test.ts
-+++ b/changes/agent/file/rename-page/rename-page.change-checked.test.ts
-@@ -64,7 +64,10 @@ const RUNS: Reaching = async (world, at, given) => {
-     return await renamePathChange(world, given as Parameters<typeof renamePathChange>[1])
-   }
-   if (at === "change-mechanical-file-content/change-page-property") {
--    return changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
-+    return widened(
-+      changePageProperty(world, given as Parameters<typeof changePageProperty>[1]),
-+      world.textOf
-+    )
-   }
-   if (at === "change-mechanical-file-content/rename-export") {
-     return renameExport(world, given as Parameters<typeof renameExport>[1])
-diff --git a/changes/mechanical/file-content/change/change-page-property-relation/change-page-property-relation.change-mechanical-file-content.test.ts b/changes/mechanical/file-content/change/change-page-property-relation/change-page-property-relation.change-mechanical-file-content.test.ts
-index 991d85533bc197741f795f9ef34829754342cc20..d0efa2212c30d89f8b61a024cbfc6cdc00499627 100644
---- a/changes/mechanical/file-content/change/change-page-property-relation/change-page-property-relation.change-mechanical-file-content.test.ts
-+++ b/changes/mechanical/file-content/change/change-page-property-relation/change-page-property-relation.change-mechanical-file-content.test.ts
-@@ -1,6 +1,6 @@
- import { expect, test } from "bun:test"
- import type { Value } from "@akasha/pages/page-value"
--import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
-+import { refusing, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
- import {
-   NOTHING_OVER,
-   type Reaching,
-@@ -12,9 +12,8 @@ import { changePagePropertyRelation } from "./change-page-property-relation.chan
- 
- const RUNS: Reaching = (world, at, given) => {
-   if (at === "change-mechanical-file-content/change-page-property") {
--    return Promise.resolve(
--      changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
--    )
-+    const said = changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
-+    return Promise.resolve(widened(said, world.textOf))
-   }
-   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
- }
-diff --git a/changes/mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts b/changes/mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts
-index 473551527035581038e79cd7bfb1176d7fdb7fe3..11511ebbd7cba485c0d3ce97069d03c354b816bd 100644
---- a/changes/mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts
-+++ b/changes/mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts
-@@ -1,21 +1,17 @@
- import { parsedAs } from "@akasha/code/code-source"
--import {
--  answered,
--  refusing,
--  writing,
--} from "../../../../modules/change-answer/change-answer.module.code.ts"
--import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
-+import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
-+import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
- import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
- import { statedIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
- 
--export function restated(path: string, text: string, key: string, to: string): Answer {
-+export function restated(path: string, text: string, key: string, to: string): Said {
-   const source = parsedAs(path, text)
-   const held = statedIn(source).get(key)
-   if (held === undefined) return refusing(`\`${path}\` states no text under \`${key}\``)
-   if (held.text === to) return refusing(`\`${to}\` is what \`${key}\` states already`)
-   const start = held.getStart(source)
-   const body = text.slice(0, start) + JSON.stringify(to) + text.slice(held.getEnd())
--  return answered([writing(path, text, body)])
-+  return stating([{ kind: "replace", path, contentFrom: text, contentTo: body }])
- }
- 
- export type Given = {
-@@ -24,7 +20,7 @@ export type Given = {
-   readonly to: string
- }
- 
--export function runChange(world: World, given: Given): Answer {
-+export function runChange(world: World, given: Given): Said {
-   const text = world.textOf(given.at)
-   if (text === null) return refusing(`\`${given.at}\` holds no body, so nothing is restated`)
-   return restated(given.at, text, given.key, given.to)
-diff --git a/changes/mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.test.ts b/changes/mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.test.ts
-index 824ce0c35f09b54b3a398c4f1a57611068d2669f..b42ddb7b0ae28ebe430738e15dc2939f407d68ab 100644
---- a/changes/mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.test.ts
-+++ b/changes/mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.test.ts
-@@ -1,7 +1,13 @@
- import { expect, test } from "bun:test"
-+import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
-+import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
- import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
- import { restated } from "./change-page-property.change-mechanical-file-content.code.ts"
- 
-+function ranOn(path: string, text: string, key: string, to: string): Answer {
-+  return widened(restated(path, text, key, to), (asked) => (asked === path ? text : null))
++function applied(...said: Parameters<typeof appliedWith>): ReturnType<typeof appliedWith> {
++  const patch = patchIn(said[0], said[1])
++  const held = patch === null ? null : { held: heldIn(said[0], patch), running: runningIn(patch) }
++  return appliedWith(said[0], said[1], said[2], said[3], said[4], said[5], said[6], held)
 +}
 +
- const AT = "akasha/held/kept.page-type.ts"
+ const MORE = `${A}// drafted\n`
  
- const BODY = `import type { PageType } from "../../pages/types/page-type.page-type.ts"
-@@ -16,52 +22,64 @@ export const kept = {
- `
+ afterAll(() => {
+@@ -43,10 +49,6 @@ function drafting(root: string): undefined {
+   )
+ }
  
- test("a key's text is stated anew", () => {
--  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
-+  const said = ranOn(AT, BODY, "pluralSlug", "change-atomic")
-   expect(bodyOf(said)).toContain(`pluralSlug: "change-atomic",`)
+-function refs(root: string): string {
+-  return gitSaid(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/patch"])
+-}
+-
+ function headOid(root: string, path: string): string {
+   return gitSaid(root, ["rev-parse", `HEAD:${path}`]).trim()
+ }
+@@ -58,7 +60,7 @@ test("a patch applied lands its bodies and takes the patch away", async () => {
+   if ("refusals" in said) throw new Error(said.refusals.join("; "))
+   expect(readFileSync(join(root, PAGE), "utf8")).toBe(MORE)
+   expect(patchIn(root, PAGE)).toBeNull()
+-  expect(refs(root)).toBe("")
++  expect(gitSaid(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/patch"])).toBe("")
  })
  
- test("one key is restated and the rest of the body is left as it is", () => {
--  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
-+  const said = ranOn(AT, BODY, "pluralSlug", "change-atomic")
-   expect(bodyOf(said)).toBe(BODY.replace(`"kepts"`, `"change-atomic"`))
- })
- 
- test("the body is answered under the path it was worked out from", () => {
--  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
-+  const said = ranOn(AT, BODY, "pluralSlug", "change-atomic")
-   expect(said.edits[0]?.path).toBe(AT)
-   expect(said.edits[0]?.was).toBe(BODY)
-   expect(said.edits[0]?.from).toBe(undefined)
- })
- 
-+test("the whole body is stated each side rather than the passage under that key", () => {
-+  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
-+  expect(said.edits).toEqual([
-+    {
-+      kind: "replace",
-+      path: AT,
-+      contentFrom: BODY,
-+      contentTo: BODY.replace(`"kepts"`, `"change-atomic"`),
-+    },
-+  ])
-+})
-+
- test("a key the page states no text under is refused", () => {
--  const said = restated(AT, BODY, "definition", "x")
-+  const said = ranOn(AT, BODY, "definition", "x")
-   expect(said.edits).toEqual([])
-   expect(said.refused).toBe(`\`${AT}\` states no text under \`definition\``)
- })
- 
- test("a key holding something other than text is refused", () => {
--  const said = restated(AT, BODY, "partSlugs", "x")
-+  const said = ranOn(AT, BODY, "partSlugs", "x")
-   expect(said.edits).toEqual([])
-   expect(said.refused).toBe(`\`${AT}\` states no text under \`partSlugs\``)
- })
- 
- test("a key stating what was asked for already is refused", () => {
--  const said = restated(AT, BODY, "slug", "kept")
-+  const said = ranOn(AT, BODY, "slug", "kept")
-   expect(said.edits).toEqual([])
-   expect(said.refused).toBe("`kept` is what `slug` states already")
- })
- 
- test("the text is written back quoted", () => {
--  const said = restated(AT, BODY, "slug", 'has "quotes"')
-+  const said = ranOn(AT, BODY, "slug", 'has "quotes"')
-   expect(bodyOf(said)).toContain(`slug: "has \\"quotes\\"",`)
- })
- 
- test("an object above the exported one is not read", () => {
-   const held = `const held = { slug: "wrong" }\n${BODY}`
--  const said = restated(AT, held, "slug", "change-atomic")
-+  const said = ranOn(AT, held, "slug", "change-atomic")
-   expect(bodyOf(said)).toContain(`const held = { slug: "wrong" }`)
-   expect(bodyOf(said)).toContain(`slug: "change-atomic",`)
- })
- 
- test("nothing here judges whether that key may be restated", () => {
--  expect(restated(AT, BODY, "id", "01a00000-0000-7000-8000-000000000000").refused).toBe(null)
-+  expect(ranOn(AT, BODY, "id", "01a00000-0000-7000-8000-000000000000").refused).toBe(null)
- })
-diff --git a/changes/mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.ts b/changes/mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.ts
-index f3af004cd8b06ea3f6fe74ec7616296ed3387c41..1804ed2d1b53b7d2fcea3962153860df615966c3 100644
---- a/changes/mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.ts
-+++ b/changes/mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.ts
-@@ -10,6 +10,16 @@ export const changePageProperty = {
-   definition: "one key of a page's exported object stated anew",
-   code: "ts",
-   test: "ts",
-+  invariants: [
-+    {
-+      invariantKind: "departure",
-+      statement: "The body is answered whole each side rather than as the passage under that key.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A body holds the text a key states in other places as well.",
-+    },
-+  ],
-   runsChecks: false,
-   readersOweReading: false,
-   writerOwesReading: false,
-diff --git a/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.test.ts b/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.test.ts
-index aa5b893fabbb6959eff533ebe64326f2ffde2955..77adef72fa9fea3c18a9fdacbeeb938cc0d4fbd1 100644
---- a/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.test.ts
-+++ b/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.test.ts
-@@ -7,7 +7,7 @@ import {
-   scratch,
-   textIn,
- } from "@akasha/indexes/indexing/testing"
--import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
-+import { refusing, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
- import { type World, worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
- import { runChange as changePageProperty } from "../../change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
- import { runChange as renameExport } from "../rename-export/rename-export.change-mechanical-file-content.code.ts"
-@@ -41,9 +41,8 @@ function holding(body: string): (path: string) => string | null {
- function worldIn(root: string, textOf: (path: string) => string | null): World {
-   return worldAt(root, textOf, (world, at, given) => {
-     if (at === "change-mechanical-file-content/change-page-property") {
--      return Promise.resolve(
--        changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
--      )
-+      const said = changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
-+      return Promise.resolve(widened(said, world.textOf))
-     }
-     if (at === "change-mechanical-file-content/rename-export") {
-       return Promise.resolve(renameExport(world, given as Parameters<typeof renameExport>[1]))
+ test("a patch applied answers which of its bodies the formatter moved", async () => {
+diff --git a/commands/pages/apply/apply.command.ts b/commands/pages/apply/apply.command.ts
+index 3e53a3392ffee375264fdf65374df9f652a16c68..822066b332f2db9e04dedd5e719be791f401c024 100644
+--- a/commands/pages/apply/apply.command.ts
++++ b/commands/pages/apply/apply.command.ts
+@@ -21,7 +21,7 @@ export const apply = {
+     "a fold the patch refuses leaves the edits where the edits are.",
+     "an apply that refuses puts the fold back, so the edits are kept for a change to mend.",
+     "an edit for a body the apply writes again is dropped rather than folded, and the report names it.",
+-    "an apply over no edits applies the patch the agent already holds.",
++    "an apply over no edits applies nothing, as the fold of the edits is what an apply lands.",
+     "--break-the-glass applies with no check run, and the reason is said in the commit.",
+     "an apply says how many subagents handed edits over, because an apply lands none of them.",
+   ],
