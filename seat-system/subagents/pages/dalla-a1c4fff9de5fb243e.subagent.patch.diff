@@ -1,0 +1,47 @@
+writerOwesReading: false
+diff --git a/commands/pages/change/change.command.code.ts b/commands/pages/change/change.command.code.ts
+index a9d1e1cc7309e3c1bbd2adfe3d2262a32b444599..efa61c7d613bafdc3912b8932f9a812146cfc07c 100644
+--- a/commands/pages/change/change.command.code.ts
++++ b/commands/pages/change/change.command.code.ts
+@@ -1,5 +1,6 @@
+ import { readFileSync } from "node:fs"
+ import { join } from "node:path"
++import { decodeUtf8 } from "@akasha/code/utf8-body"
+ import { agentPathOf } from "@akasha/context/warranting"
+ import { partedIn } from "@akasha/pages/page-file-name"
+ import { textAt, type Value } from "@akasha/pages/page-value"
+@@ -106,17 +107,27 @@ const NO_ARGUMENTS =
+ 
+ const NO_SUCH_PATH = "ENOENT"
+ 
++const NOT_TEXT = "is not text, and a change reads a body as text"
++
+ export type Over = (world: World) => Promise<Said>
+ 
++function bytesIn(root: string, path: string): Uint8Array | null {
++  try {
++    return readFileSync(join(root, path))
++  } catch (cause) {
++    const said = cause instanceof Error && "code" in cause ? String(cause.code) : ""
++    if (said !== NO_SUCH_PATH) throw cause
++    return null
++  }
++}
++
+ function textIn(root: string): (path: string) => string | null {
+   return (path) => {
+-    try {
+-      return readFileSync(join(root, path), "utf8")
+-    } catch (cause) {
+-      const said = cause instanceof Error && "code" in cause ? String(cause.code) : ""
+-      if (said !== NO_SUCH_PATH) throw cause
+-      return null
+-    }
++    const bytes = bytesIn(root, path)
++    if (bytes === null) return null
++    const text = decodeUtf8(bytes)
++    if (text === null) throw new Error(`\`${path}\` ${NOT_TEXT}`)
++    return text
+   }
+ }
+ 
