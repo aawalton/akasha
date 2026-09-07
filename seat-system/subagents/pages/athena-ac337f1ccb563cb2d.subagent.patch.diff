@@ -1,0 +1,1235 @@
+writerOwesReading: false
+diff --git a/bun.lock b/bun.lock
+index 46659a83d2162d486219eb168df6d46b585b2373..b3fd4ce6bd8707aa467f71f894ead5346c1f7bb7 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -766,12 +766,6 @@
+         "@akasha/code": "workspace:*",
+         "@akasha/editor-extension": "workspace:*",
+       },
+-      "peerDependencies": {
+-        "vscode": "^1.85.0",
+-      },
+-      "optionalPeers": [
+-        "vscode",
+-      ],
+     },
+     "editor-extension/vscode-typings": {
+       "name": "@types/vscode",
+@@ -1983,6 +1977,7 @@
+         "@akasha/temper-watcher": "workspace:*",
+         "@akasha/utils-narrow": "workspace:*",
+         "@akasha/utils-run": "workspace:*",
++        "fflate": "0.8.3",
+         "zod": "^4.3.6",
+       },
+     },
+diff --git a/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.code.ts b/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6684ad9e6415896fdf7282515266f59d1db8cc2d
+--- /dev/null
++++ b/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.code.ts
+@@ -0,0 +1,33 @@
++const AUTHOR = "test"
++
++const VERSION = "1.0.0"
++
++const ADDON_VERSION = 100
++
++const API_VERSION = ["101041"]
++
++export type AddonFixtureManifest = {
++  readonly name: string
++  readonly title: string
++  readonly description: string
++  readonly author: string
++  readonly version: string
++  readonly addonVersion: number
++  readonly apiVersion: readonly string[]
++  readonly savedVariables: readonly string[]
++  readonly dependsOn: readonly string[]
++}
++
++export function addonManifestOf(name: string): AddonFixtureManifest {
++  return {
++    name,
++    title: name,
++    description: `${name} for a test`,
++    author: AUTHOR,
++    version: VERSION,
++    addonVersion: ADDON_VERSION,
++    apiVersion: API_VERSION,
++    savedVariables: [],
++    dependsOn: [],
++  }
++}
+diff --git a/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts b/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..eadf7c7e55504d331c1d29e5c29aedcbe4d6ca48
+--- /dev/null
++++ b/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts
+@@ -0,0 +1,5 @@
++import { addonManifestOf } from "./addon-fixture-manifest.module.code.ts"
++
++export function manifestFor(name: string): string {
++  return JSON.stringify(addonManifestOf(name))
++}
+diff --git a/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test.ts b/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6bd1f6b0e00359363ecfce30585fbebf5102a96a
+--- /dev/null
++++ b/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test.ts
+@@ -0,0 +1,20 @@
++import { expect, test } from "bun:test"
++import { addonManifestOf } from "./addon-fixture-manifest.module.code.ts"
++
++const PROBE = "TemperProbe"
++
++test("a fixture manifest is named and titled for the addon named", () => {
++  const held = addonManifestOf(PROBE)
++  expect(held.name).toBe(PROBE)
++  expect(held.title).toBe(PROBE)
++})
++
++test("a fixture manifest depends on nothing and saves nothing", () => {
++  const held = addonManifestOf(PROBE)
++  expect(held.dependsOn).toEqual([])
++  expect(held.savedVariables).toEqual([])
++})
++
++test("a fixture manifest carries an api version the roster reads", () => {
++  expect(addonManifestOf(PROBE).apiVersion.length).toBe(1)
++})
+diff --git a/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.ts b/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..aab661938903b6cdddae22e7172b5dc6b447a60e
+--- /dev/null
++++ b/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.ts
+@@ -0,0 +1,33 @@
++import type { Module } from "@akasha/code/module"
++
++export const addonFixtureManifest = {
++  id: "01a07c93-f240-7b33-9d06-f8459b129064",
++  pageTypeSlug: "module",
++  slug: "addon-fixture-manifest",
++  definition: "the addon manifest a test writes into a scratch world",
++  code: "ts",
++  test: "ts",
++  testFixtures: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A fixture manifest is named and titled for the addon named.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A fixture manifest depends on nothing and saves nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A fixture manifest carries the fields the addon roster reads.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A test writing a manifest to disk takes the manifest as JSON text.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes a file.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts b/temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a75e719d8a46785443de5844af9a7ab21cddd487
+--- /dev/null
++++ b/temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts
+@@ -0,0 +1,26 @@
++export function valuesOf(argv: readonly string[], flag: string): readonly string[] {
++  const found: string[] = []
++  for (let at = 0; at < argv.length; at += 1) {
++    const value = argv[at + 1]
++    if (argv[at] === flag && value !== undefined) found.push(value)
++  }
++  return found
++}
++
++export function namesIn(
++  argv: readonly string[],
++  takingAValue: readonly string[]
++): readonly string[] {
++  const found: string[] = []
++  for (let at = 0; at < argv.length; at += 1) {
++    const word = argv[at]
++    if (word === undefined) continue
++    if (takingAValue.includes(word)) {
++      at += 1
++      continue
++    }
++    if (word.startsWith("-")) continue
++    found.push(word)
++  }
++  return found
++}
+diff --git a/temper/temper-commands/argument-word-reading/argument-word-reading.module.test.ts b/temper/temper-commands/argument-word-reading/argument-word-reading.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f48a8e34391d9d8e285dcc2d6592c540f381fe22
+--- /dev/null
++++ b/temper/temper-commands/argument-word-reading/argument-word-reading.module.test.ts
+@@ -0,0 +1,27 @@
++import { expect, test } from "bun:test"
++import { namesIn, valuesOf } from "./argument-word-reading.module.code.ts"
++
++const ROOT_FLAG = "--repo-root"
++
++const OUT_FLAG = "--out"
++
++test("a flag answers with every value said after that flag", () => {
++  const said = [ROOT_FLAG, "one", OUT_FLAG, "two", ROOT_FLAG, "three"]
++  expect(valuesOf(said, ROOT_FLAG)).toEqual(["one", "three"])
++})
++
++test("a flag the call does not carry answers with nothing", () => {
++  expect(valuesOf(["one", "two"], ROOT_FLAG)).toEqual([])
++})
++
++test("a flag no word follows answers with nothing", () => {
++  expect(valuesOf([OUT_FLAG, ROOT_FLAG], ROOT_FLAG)).toEqual([])
++})
++
++test("a word opening with a dash is no name", () => {
++  expect(namesIn(["one", "--all", "two"], [])).toEqual(["one", "two"])
++})
++
++test("the word after a flag taking a value is no name", () => {
++  expect(namesIn([ROOT_FLAG, "one", "two"], [ROOT_FLAG])).toEqual(["two"])
++})
+diff --git a/temper/temper-commands/argument-word-reading/argument-word-reading.module.ts b/temper/temper-commands/argument-word-reading/argument-word-reading.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2350080060a9ca1d4aebee72629c370334a2c4e1
+--- /dev/null
++++ b/temper/temper-commands/argument-word-reading/argument-word-reading.module.ts
+@@ -0,0 +1,53 @@
++import type { Module } from "@akasha/code/module"
++
++export const argumentWordReading = {
++  id: "01a07c95-1051-774e-bcef-6c84d8c106fb",
++  pageTypeSlug: "module",
++  slug: "argument-word-reading",
++  definition: "the values said after a flag and the words a call says as names",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A flag's values are the words said after each occurrence of that flag.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag said more than once answers with a value for each saying of that flag.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The values are answered in the order the call said those values.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag no word follows carries no value.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag the call does not carry answers with nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name is a word opening with no dash.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The word after a flag that takes a value is passed over rather than read as a name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Which flags take a value is the caller's to say.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here refuses a flag the command does not know.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here says how many names a command takes.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/temper/temper-commands/name-ordering/name-ordering.module.code.ts b/temper/temper-commands/name-ordering/name-ordering.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..70c199bce7c9d00255504b513cf0baf5c02d55d0
+--- /dev/null
++++ b/temper/temper-commands/name-ordering/name-ordering.module.code.ts
+@@ -0,0 +1,3 @@
++export function inNameOrder(names: readonly string[]): readonly string[] {
++  return [...names].sort((a, b) => a.localeCompare(b))
++}
+diff --git a/temper/temper-commands/name-ordering/name-ordering.module.test.ts b/temper/temper-commands/name-ordering/name-ordering.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..027d8b82de697673d36e46e85ac98e93509df827
+--- /dev/null
++++ b/temper/temper-commands/name-ordering/name-ordering.module.test.ts
+@@ -0,0 +1,16 @@
++import { expect, test } from "bun:test"
++import { inNameOrder } from "./name-ordering.module.code.ts"
++
++test("names are answered in the order the locale sorts them by", () => {
++  expect(inNameOrder(["B", "a", "c"])).toEqual(["a", "B", "c"])
++})
++
++test("the names handed in are left in the order handed in", () => {
++  const said = ["b", "a"]
++  inNameOrder(said)
++  expect(said).toEqual(["b", "a"])
++})
++
++test("a name said twice is answered twice", () => {
++  expect(inNameOrder(["a", "a"])).toEqual(["a", "a"])
++})
+diff --git a/temper/temper-commands/name-ordering/name-ordering.module.ts b/temper/temper-commands/name-ordering/name-ordering.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f4e718b4e8de781894b8eb47a88258136a74dba1
+--- /dev/null
++++ b/temper/temper-commands/name-ordering/name-ordering.module.ts
+@@ -0,0 +1,24 @@
++import type { Module } from "@akasha/code/module"
++
++export const nameOrdering = {
++  id: "01a07c93-d1ce-7d75-844c-a9a61f0601d8",
++  pageTypeSlug: "module",
++  slug: "name-ordering",
++  definition: "names held in the order a locale sorts names by",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Names are ordered by the locale's own comparison rather than by code point.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The list of names handed in is left as that list was handed in.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here drops a name said twice.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/temper/temper-commands/package.json b/temper/temper-commands/package.json
+index e37c2a3c19cbe3705d611fc4a6909b1c23e1c264..23af8cbcee38894f1052612e76a8244fe9c00c93 100644
+--- a/temper/temper-commands/package.json
++++ b/temper/temper-commands/package.json
+@@ -3,9 +3,16 @@
+   "private": true,
+   "type": "module",
+   "exports": {
++    "./addon-fixture-manifest": "./addon-fixture-manifest/addon-fixture-manifest.module.code.ts",
++    "./addon-fixture-manifest/testing": "./addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts",
++    "./argument-word-reading": "./argument-word-reading/argument-word-reading.module.code.ts",
+     "./bank-profile-reading": "./bank-profile-reading/bank-profile-reading.module.code.ts",
+     "./bank-trace-reading": "./bank-trace-reading/bank-trace-reading.module.code.ts",
++    "./eso-base-game-globals": "./eso-base-game-globals/eso-base-game-globals.module.code.ts",
++    "./eso-chatter-names": "./eso-chatter-names/eso-chatter-names.module.code.ts",
++    "./eso-colon-methods": "./eso-colon-methods/eso-colon-methods.module.code.ts",
+     "./explain-replay-reading": "./explain-replay-reading/explain-replay-reading.module.code.ts",
++    "./flag-fault-stage": "./flag-fault-stage/flag-fault-stage.module.code.ts",
+     "./inventory-characters-reading": "./inventory-characters-reading/inventory-characters-reading.module.code.ts",
+     "./inventory-config-reading": "./inventory-config-reading/inventory-config-reading.module.code.ts",
+     "./inventory-diagnostics-reading": "./inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts",
+@@ -17,6 +24,7 @@
+     "./inventory-parity-trace": "./inventory-parity-trace/inventory-parity-trace.module.code.ts",
+     "./inventory-plan-capabilities": "./inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts",
+     "./inventory-plan-inputs": "./inventory-plan-inputs/inventory-plan-inputs.module.code.ts",
++    "./inventory-rule-calling": "./inventory-rule-calling/inventory-rule-calling.module.code.ts",
+     "./inventory-rule-flags": "./inventory-rule-flags/inventory-rule-flags.module.code.ts",
+     "./inventory-rule-rows": "./inventory-rule-rows/inventory-rule-rows.module.code.ts",
+     "./inventory-rule-settings-shape": "./inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts",
+@@ -24,7 +32,8 @@
+     "./inventory-settings-handle": "./inventory-settings-handle/inventory-settings-handle.module.code.ts",
+     "./inventory-snapshot-reading": "./inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts",
+     "./master-craft-trace-reading": "./master-craft-trace-reading/master-craft-trace-reading.module.code.ts",
+-    "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts"
++    "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts",
++    "./name-ordering": "./name-ordering/name-ordering.module.code.ts"
+   },
+   "dependencies": {
+     "@akasha/supabase-auth": "workspace:*",
+@@ -44,6 +53,7 @@
+     "@akasha/temper-upstream-data": "workspace:*",
+     "@akasha/temper-watcher": "workspace:*",
+     "@akasha/utils-run": "workspace:*",
++    "fflate": "0.8.3",
+     "zod": "^4.3.6",
+     "@akasha/indexes": "workspace:*",
+     "@akasha/pages-query": "workspace:*",
+diff --git a/temper/temper-commands/temper-addon-build/temper-addon-build.command.code.ts b/temper/temper-commands/temper-addon-build/temper-addon-build.command.code.ts
+index c5ec981310e45188370c9909893649703afefd72..c6bce1a68c3232219d6aa3e6d3369de9124e5698 100644
+--- a/temper/temper-commands/temper-addon-build/temper-addon-build.command.code.ts
++++ b/temper/temper-commands/temper-addon-build/temper-addon-build.command.code.ts
+@@ -2,6 +2,7 @@ import { existsSync, rmSync, statSync } from "node:fs"
+ import { join, resolve } from "node:path"
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
++import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { copyAddonMetadata } from "@akasha/temper-addon-build/addon-metadata-copy"
+ import { TSCONFIG_NAME, tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
+@@ -9,6 +10,8 @@ import { COMPILER_ENTRY, tstlCommand, tstlRoot } from "@akasha/temper-addon-buil
+ import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
+ import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
+ import { ran, shown } from "@akasha/utils-run/running"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
++import { inNameOrder } from "../name-ordering/name-ordering.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ const DATA = 2
+@@ -37,15 +40,6 @@ type Built = {
+   readonly code: number
+ }
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+ function said(argv: readonly string[], flag: string): boolean {
+   return argv.includes(flag)
+ }
+@@ -67,18 +61,10 @@ function walked(argv: readonly string[]): { names: string[]; unknown: string[] }
+   return { names, unknown }
+ }
+ 
+-function inNameOrder(names: readonly string[]): readonly string[] {
+-  return [...names].sort((a, b) => a.localeCompare(b))
+-}
+-
+ function bytesAt(path: string): number {
+   return existsSync(path) ? statSync(path).size : 0
+ }
+ 
+-function messageOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+ function saidWrongIn(argv: readonly string[]): string | null {
+   const { names, unknown } = walked(argv)
+   if (unknown.length > 0) {
+diff --git a/temper/temper-commands/temper-addon-bundle-build/temper-addon-bundle-build.command.code.ts b/temper/temper-commands/temper-addon-bundle-build/temper-addon-bundle-build.command.code.ts
+index 2a0af89a7d3f3009519f8cfc2ec86e42415f9b99..5c4f22d93cd11edbbd6fceef4b2ccad79c5e0d61 100644
+--- a/temper/temper-commands/temper-addon-bundle-build/temper-addon-bundle-build.command.code.ts
++++ b/temper/temper-commands/temper-addon-bundle-build/temper-addon-bundle-build.command.code.ts
+@@ -2,6 +2,7 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from
+ import { join, relative, resolve, sep } from "node:path"
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
++import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
+ import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
+@@ -12,6 +13,7 @@ import {
+ } from "@akasha/temper-addons-resolve/distributable-set"
+ import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
+ import { type Zippable, zipSync } from "fflate"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ 
+@@ -43,19 +45,6 @@ const DEPENDS_SCHEMA = addonManifestSchema
+   .pick({ dependsOn: true, optionalDependsOn: true })
+   .passthrough()
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-function messageOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+ function filesUnder(root: string): readonly string[] {
+   const found: string[] = []
+   for (const entry of readdirSync(root, { withFileTypes: true })) {
+diff --git a/temper/temper-commands/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts b/temper/temper-commands/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts
+index 770498479f8e1d4bdcdfc464c4390d3fc833cfa6..2ca07824ab5ec1cb995bc83cb8e165adffa71715 100644
+--- a/temper/temper-commands/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts
++++ b/temper/temper-commands/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts
+@@ -5,6 +5,7 @@ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { ran } from "@akasha/utils-run/running"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ import { temperAddonBuild } from "../temper-addon-build/temper-addon-build.command.code.ts"
+ import { temperAddonBundleBuild } from "../temper-addon-bundle-build/temper-addon-bundle-build.command.code.ts"
+ 
+@@ -44,15 +45,6 @@ const TAG_FILE = "temper/temper-web/deploy/addon-bundle-image.ts"
+ 
+ const SHA_PLACEHOLDER = "0".repeat(40)
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+ function mustRun(argv: readonly string[], what: string): string | null {
+   const started = Date.now()
+   const done = ran([...argv], { timeout: PUSH_CEILING_MS })
+diff --git a/temper/temper-commands/temper-addon-copy-metadata/temper-addon-copy-metadata.command.code.ts b/temper/temper-commands/temper-addon-copy-metadata/temper-addon-copy-metadata.command.code.ts
+index b9474c74d057260b15650062631484fbcf576c6f..3bde7acd0abf2bfc961eaec2b5c52bad76363a58 100644
+--- a/temper/temper-commands/temper-addon-copy-metadata/temper-addon-copy-metadata.command.code.ts
++++ b/temper/temper-commands/temper-addon-copy-metadata/temper-addon-copy-metadata.command.code.ts
+@@ -1,9 +1,11 @@
+ import { resolve } from "node:path"
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
++import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { copyAddonMetadata } from "@akasha/temper-addon-build/addon-metadata-copy"
+ import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ const DATA = 2
+@@ -11,19 +13,6 @@ const DATA = 2
+ const ADDON = "--addon"
+ const CODE_ROOT = "--code-root"
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-function messageOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+ export async function temperAddonCopyMetadata(argv: readonly string[] = []): Promise<Answer> {
+   const asked = valuesOf(argv, ADDON)
+   if (asked.length === 0) {
+diff --git a/temper/temper-commands/temper-addon-data-generate/temper-addon-data-generate.command.code.ts b/temper/temper-commands/temper-addon-data-generate/temper-addon-data-generate.command.code.ts
+index a6887d281ec62b86a4b14dcdc03aa61365fdf653..75e68d49ccfed48e9245b357a1df6e307a676301 100644
+--- a/temper/temper-commands/temper-addon-data-generate/temper-addon-data-generate.command.code.ts
++++ b/temper/temper-commands/temper-addon-data-generate/temper-addon-data-generate.command.code.ts
+@@ -1,7 +1,9 @@
+ import { realpathSync } from "node:fs"
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
++import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { codeRoot } from "@akasha/pages/code-root"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const DATA = 2
+ 
+@@ -13,19 +15,6 @@ const CODE_ROOT_ENV = "CODE_ROOT"
+ 
+ const GENERATORS = "@akasha/temper-addon-data/generate-addon-data"
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-function messageOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+ export async function temperAddonDataGenerate(argv: readonly string[] = []): Promise<Answer> {
+   const named = valuesOf(argv, CODE_ROOT_FLAG)[0]
+ 
+diff --git a/temper/temper-commands/temper-addon-generate-load-order/temper-addon-generate-load-order.command.code.ts b/temper/temper-commands/temper-addon-generate-load-order/temper-addon-generate-load-order.command.code.ts
+index 9602d570573b1cce606720e1b785a06fc04c143d..b771dff889ea2178ed8592795952f6d581e9c3bb 100644
+--- a/temper/temper-commands/temper-addon-generate-load-order/temper-addon-generate-load-order.command.code.ts
++++ b/temper/temper-commands/temper-addon-generate-load-order/temper-addon-generate-load-order.command.code.ts
+@@ -1,9 +1,11 @@
+ import { resolve } from "node:path"
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
++import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { writeLoadOrder } from "@akasha/temper-addon-build/addon-load-order"
+ import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ const DATA = 2
+@@ -11,19 +13,6 @@ const DATA = 2
+ const ADDON = "--addon"
+ const CODE_ROOT = "--code-root"
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-function messageOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+ export async function temperAddonGenerateLoadOrder(argv: readonly string[] = []): Promise<Answer> {
+   const asked = valuesOf(argv, ADDON)
+   if (asked.length === 0) {
+diff --git a/temper/temper-commands/temper-addon-global-name-dependents/temper-addon-global-name-dependents.command.code.ts b/temper/temper-commands/temper-addon-global-name-dependents/temper-addon-global-name-dependents.command.code.ts
+index 6755609c0574306e65952b492deae9f8961844e2..5c655aa1861aa63dd16564ab9ec970768e1525e0 100644
+--- a/temper/temper-commands/temper-addon-global-name-dependents/temper-addon-global-name-dependents.command.code.ts
++++ b/temper/temper-commands/temper-addon-global-name-dependents/temper-addon-global-name-dependents.command.code.ts
+@@ -12,6 +12,7 @@ import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
+ import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
+ import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+ import { collectGlobalWritesFromSource } from "@akasha/temper-build-deploy-checks/addon-global-ownership"
++import { namesIn, valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const DATA = 2
+ 
+@@ -29,30 +30,6 @@ const BOUND = "lam-topology-binding"
+ 
+ const SAVED_VARIABLES_SCHEMA = addonManifestSchema.pick({ savedVariables: true }).passthrough()
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-function namesIn(argv: readonly string[]): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (TAKING_A_VALUE.includes(one)) {
+-      at += 1
+-      continue
+-    }
+-    if (one.startsWith("-")) continue
+-    found.push(one)
+-  }
+-  return found
+-}
+-
+ function filesUnder(dir: string, keep: (path: string) => boolean): readonly string[] {
+   const found: string[] = []
+   let entries: readonly string[]
+@@ -148,7 +125,7 @@ function linesFor(report: GlobalDependentReport): readonly string[] {
+ 
+ export function temperAddonGlobalNameDependents(argv: readonly string[] = []): Answer {
+   const root = resolve(valuesOf(argv, REPO_ROOT_FLAG)[0] ?? codeRoot())
+-  const named = valuesOf(argv, GLOBAL_FLAG)[0] ?? namesIn(argv)[0]
++  const named = valuesOf(argv, GLOBAL_FLAG)[0] ?? namesIn(argv, TAKING_A_VALUE)[0]
+ 
+   const addons = listAllAddons({ repoRoot: root })
+   if (addons.length === 0) {
+diff --git a/temper/temper-commands/temper-addon-list/temper-addon-list.command.code.ts b/temper/temper-commands/temper-addon-list/temper-addon-list.command.code.ts
+index 5425c2de3e32b35d1da7a4ba0ea8e1f550115b74..e84416c4600ae2a72334a6e280a34a23b430c44f 100644
+--- a/temper/temper-commands/temper-addon-list/temper-addon-list.command.code.ts
++++ b/temper/temper-commands/temper-addon-list/temper-addon-list.command.code.ts
+@@ -3,6 +3,7 @@ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const DATA = 2
+ 
+@@ -12,15 +13,6 @@ const JSON_FLAG = "--json"
+ 
+ const SPACES = 2
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+ function widthOf(all: readonly AddonInfo[], of: (one: AddonInfo) => string): number {
+   return all.reduce((widest, one) => Math.max(widest, of(one).length), 0)
+ }
+diff --git a/temper/temper-commands/temper-addon-list/temper-addon-list.command.test.ts b/temper/temper-commands/temper-addon-list/temper-addon-list.command.test.ts
+index 28ff4aa3e4dd738d400daf9b651202323e394269..e6c068039bf9f3102ab8e24746027458956aae14 100644
+--- a/temper/temper-commands/temper-addon-list/temper-addon-list.command.test.ts
++++ b/temper/temper-commands/temper-addon-list/temper-addon-list.command.test.ts
+@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
+ import { mkdirSync, rmSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
++import { manifestFor } from "../addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
+ import { temperAddonList } from "./temper-addon-list.command.code.ts"
+ 
+ const scratch = scratchWorld()
+@@ -12,20 +13,6 @@ const FLAT = "TemperFlat"
+ const NESTED = "TemperNested"
+ const NESTED_DIR = "akasha/temper/temper-nested-addon"
+ 
+-function manifestFor(name: string): string {
+-  return JSON.stringify({
+-    name,
+-    title: name,
+-    description: `${name} for a test`,
+-    author: "test",
+-    version: "1.0.0",
+-    addonVersion: 100,
+-    apiVersion: ["101041"],
+-    savedVariables: [],
+-    dependsOn: [],
+-  })
+-}
+-
+ function fixtureFor(): string {
+   const root = scratch.rootFor("temper-list-root-")
+   writeFileSync(
+diff --git a/temper/temper-commands/temper-addon-resolve/temper-addon-resolve.command.code.ts b/temper/temper-commands/temper-addon-resolve/temper-addon-resolve.command.code.ts
+index 6787a2413c54509f4cd1376a795003f6e1f5c92e..1d4b456a0e545729105aa81c1647dd9774f1f42d 100644
+--- a/temper/temper-commands/temper-addon-resolve/temper-addon-resolve.command.code.ts
++++ b/temper/temper-commands/temper-addon-resolve/temper-addon-resolve.command.code.ts
+@@ -3,6 +3,7 @@ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const DATA = 2
+ 
+@@ -14,15 +15,6 @@ const FLAG_MARK = "--"
+ 
+ const SPACES = 2
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+ function namesIn(argv: readonly string[]): readonly string[] {
+   const found: string[] = []
+   for (let at = 0; at < argv.length; at += 1) {
+diff --git a/temper/temper-commands/temper-addon-resolve/temper-addon-resolve.command.test.ts b/temper/temper-commands/temper-addon-resolve/temper-addon-resolve.command.test.ts
+index 0e522e076b866ba4a461d9a5f540b662735b10c4..c5ec281685989a5178ba2a45596b480b838899ff 100644
+--- a/temper/temper-commands/temper-addon-resolve/temper-addon-resolve.command.test.ts
++++ b/temper/temper-commands/temper-addon-resolve/temper-addon-resolve.command.test.ts
+@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
+ import { mkdirSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
++import { manifestFor } from "../addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
+ import { temperAddonResolve } from "./temper-addon-resolve.command.code.ts"
+ 
+ const scratch = scratchWorld()
+@@ -12,20 +13,6 @@ const NESTED = "TemperNested"
+ const NESTED_LEAF = "temper-nested-addon"
+ const NESTED_DIR = `akasha/temper/${NESTED_LEAF}`
+ 
+-function manifestFor(name: string): string {
+-  return JSON.stringify({
+-    name,
+-    title: name,
+-    description: `${name} for a test`,
+-    author: "test",
+-    version: "1.0.0",
+-    addonVersion: 100,
+-    apiVersion: ["101041"],
+-    savedVariables: [],
+-    dependsOn: [],
+-  })
+-}
+-
+ function fixtureFor(): string {
+   const root = scratch.rootFor("temper-resolve-root-")
+   writeFileSync(
+diff --git a/temper/temper-commands/temper-addon-typecheck/temper-addon-typecheck.command.code.ts b/temper/temper-commands/temper-addon-typecheck/temper-addon-typecheck.command.code.ts
+index 4fcf53267ada0ed9d445826fcbe19400985055aa..74dc4a17ffab66a0dea520a93ca04b415329023e 100644
+--- a/temper/temper-commands/temper-addon-typecheck/temper-addon-typecheck.command.code.ts
++++ b/temper/temper-commands/temper-addon-typecheck/temper-addon-typecheck.command.code.ts
+@@ -1,10 +1,12 @@
+ import { join, resolve } from "node:path"
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
++import { saidBy as saidOf } from "@akasha/command-system/fault-saying"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
+ import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+ import { ran } from "@akasha/utils-run/running"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const DATA = 2
+ 
+@@ -30,15 +32,6 @@ type Judged = {
+   readonly code: number
+ }
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+ function inNameOrder(all: readonly AddonInfo[]): readonly AddonInfo[] {
+   return [...all].sort((a, b) => a.canonicalName.localeCompare(b.canonicalName))
+ }
+@@ -58,10 +51,6 @@ function judged(root: string, one: AddonInfo, config: string, left: number): Jud
+   }
+ }
+ 
+-function saidOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+ function rowOf(one: Judged): string {
+   return `${one.name}: ${String(one.errors.length)} error(s), ${String(one.ownFiles)} own file(s) of ${String(one.readFiles)} read, exit ${String(one.code)}`
+ }
+diff --git a/temper/temper-commands/temper-addon-typecheck/temper-addon-typecheck.command.test.ts b/temper/temper-commands/temper-addon-typecheck/temper-addon-typecheck.command.test.ts
+index cf8b48db86fa1836ed88a1bd1c681f451c2148a2..20c257537736a45af1f1b243d16313288cbc53ff 100644
+--- a/temper/temper-commands/temper-addon-typecheck/temper-addon-typecheck.command.test.ts
++++ b/temper/temper-commands/temper-addon-typecheck/temper-addon-typecheck.command.test.ts
+@@ -3,6 +3,7 @@ import { existsSync, mkdirSync, readdirSync, symlinkSync, writeFileSync } from "
+ import { join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { codeRoot } from "@akasha/pages/code-root"
++import { manifestFor } from "../addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
+ import { temperAddonTypecheck } from "./temper-addon-typecheck.command.code.ts"
+ 
+ const scratch = scratchWorld()
+@@ -23,20 +24,6 @@ const BASE_SETTINGS = {
+   },
+ }
+ 
+-function manifestFor(name: string): string {
+-  return JSON.stringify({
+-    name,
+-    title: name,
+-    description: `${name} for a test`,
+-    author: "test",
+-    version: "1.0.0",
+-    addonVersion: 100,
+-    apiVersion: ["101041"],
+-    savedVariables: [],
+-    dependsOn: [],
+-  })
+-}
+-
+ function rootFor(): string {
+   const root = scratch.rootFor("temper-addon-typecheck-")
+   writeFileSync(
+diff --git a/temper/temper-commands/temper-catalog-invalidate/temper-catalog-invalidate.command.code.ts b/temper/temper-commands/temper-catalog-invalidate/temper-catalog-invalidate.command.code.ts
+index 175bffd78db020e38f2b51fffb9b28ab43d3dd5c..c303597ebab866a49fd30ef5bcabd26ec716978f 100644
+--- a/temper/temper-commands/temper-catalog-invalidate/temper-catalog-invalidate.command.code.ts
++++ b/temper/temper-commands/temper-catalog-invalidate/temper-catalog-invalidate.command.code.ts
+@@ -2,6 +2,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+ import { dirname } from "node:path"
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
++import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { CATALOG_DOMAIN_KEYS } from "@akasha/temper-catalog-core/domain-keys"
+ import { resolveSideFilePath } from "@akasha/temper-catalog-side-file/catalog-file-paths"
+ import {
+@@ -9,6 +10,7 @@ import {
+   parseSideFile,
+   serializeSideFile,
+ } from "@akasha/temper-catalog-side-file/catalog-side-file"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ 
+@@ -24,19 +26,6 @@ const JSON_FLAG = "--json"
+ 
+ const SPACES = 2
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-function messageOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+ function saidWrongIn(argv: readonly string[], asked: readonly string[]): string | null {
+   const all = argv.includes(ALL_FLAG)
+   if (all && asked.length > 0) {
+diff --git a/temper/temper-commands/temper-catalog-status/temper-catalog-status.command.code.ts b/temper/temper-commands/temper-catalog-status/temper-catalog-status.command.code.ts
+index 02e4cfd6367d3c2a827a1e1d44feb5417cbe5f1b..8fc73e012d2d3bac283d5753aea9b056c068ddd4 100644
+--- a/temper/temper-commands/temper-catalog-status/temper-catalog-status.command.code.ts
++++ b/temper/temper-commands/temper-catalog-status/temper-catalog-status.command.code.ts
+@@ -1,6 +1,7 @@
+ import { existsSync, readFileSync } from "node:fs"
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
++import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { CATALOG_DOMAIN_KEYS } from "@akasha/temper-catalog-core/domain-keys"
+ import {
+   type AccountSummary,
+@@ -11,6 +12,7 @@ import {
+   resolveSideFilePath,
+ } from "@akasha/temper-catalog-side-file/catalog-file-paths"
+ import { parseSideFile, type SideFile } from "@akasha/temper-catalog-side-file/catalog-side-file"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const DATA = 2
+ 
+@@ -24,19 +26,6 @@ const SPACES = 2
+ 
+ const HEADING = "account\tdomain\tcollected\tpendingInvalidation\tskipReason"
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-function messageOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+ function owedIn(summary: AccountSummary, sideFile: SideFile | undefined): ReadonlySet<string> {
+   if (sideFile === undefined) return new Set()
+   if (sideFile.invalidateVersion <= summary.lastSeenInvalidateVersion) return new Set()
+diff --git a/temper/temper-commands/temper-commands.workspace-package.ts b/temper/temper-commands/temper-commands.workspace-package.ts
+index 8ce4637d3d8b1bfecef434cf4f7551d138264f9d..6fd7c5ba66a53ab9facdbd1a558c3c8fd690377e 100644
+--- a/temper/temper-commands/temper-commands.workspace-package.ts
++++ b/temper/temper-commands/temper-commands.workspace-package.ts
+@@ -34,6 +34,9 @@ export const temperCommands = {
+     "module/inventory-diagnostics-reading",
+     "module/master-craft-trace-reading",
+     "module/master-writ-probe-reading",
++    "module/argument-word-reading",
++    "module/name-ordering",
++    "module/addon-fixture-manifest",
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-commands/temper-community-addon-install/temper-community-addon-install.command.code.ts b/temper/temper-commands/temper-community-addon-install/temper-community-addon-install.command.code.ts
+index f9e8c43e7c79b4fc16d9b49670e2ea4af8f7a153..5631d75c20207dcdcfd0e2080654f81ac511ad6a 100644
+--- a/temper/temper-commands/temper-community-addon-install/temper-community-addon-install.command.code.ts
++++ b/temper/temper-commands/temper-community-addon-install/temper-community-addon-install.command.code.ts
+@@ -1,8 +1,10 @@
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
++import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
+ import { installNamedAddon } from "@akasha/temper-community-addons/install-named-addon"
+ import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
++import { namesIn, valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ 
+@@ -20,36 +22,8 @@ const TAKING_A_VALUE = [ADDONS_DIR_FLAG, REPO_ROOT_FLAG]
+ 
+ const SPACES = 2
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-function namesIn(argv: readonly string[]): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (TAKING_A_VALUE.includes(one)) {
+-      at += 1
+-      continue
+-    }
+-    if (one.startsWith("-")) continue
+-    found.push(one)
+-  }
+-  return found
+-}
+-
+-function messageOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+ export async function temperCommunityAddonInstall(argv: readonly string[] = []): Promise<Answer> {
+-  const names = namesIn(argv)
++  const names = namesIn(argv, TAKING_A_VALUE)
+   if (names.length === 0) {
+     return refused(
+       "nothing here names the community addon installed, so there is no name to reach one by",
+diff --git a/temper/temper-commands/temper-community-addon-list/temper-community-addon-list.command.code.ts b/temper/temper-commands/temper-community-addon-list/temper-community-addon-list.command.code.ts
+index 608f91b96ac20d0ad5a9f7033e68191e1705ee62..7422dad32aaf55a30bed22a2f0f8ed6539abcbdd 100644
+--- a/temper/temper-commands/temper-community-addon-list/temper-community-addon-list.command.code.ts
++++ b/temper/temper-commands/temper-community-addon-list/temper-community-addon-list.command.code.ts
+@@ -1,10 +1,12 @@
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
++import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
+ import { type PlannedAddon, planUpdates } from "@akasha/temper-community-addons/addon-update-plan"
+ import { fetchCatalog } from "@akasha/temper-community-addons/esoui-catalog"
+ import { readInstalledAddons } from "@akasha/temper-community-addons/installed-addons"
+ import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const FAILED = 3
+ 
+@@ -18,19 +20,6 @@ const JSON_FLAG = "--json"
+ 
+ const SPACES = 2
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-function messageOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+ function ownedIn(repoRoot: string | undefined): ReadonlySet<string> {
+   return new Set(
+     listDeployables(repoRoot === undefined ? undefined : { repoRoot }).map((one) => one.name)
+diff --git a/temper/temper-commands/temper-community-addon-update/temper-community-addon-update.command.code.ts b/temper/temper-commands/temper-community-addon-update/temper-community-addon-update.command.code.ts
+index 5d624ae74ca76153bfc0db8f483fae5dca297026..79ecd82561b84fc5296671d1209608f9f022d23f 100644
+--- a/temper/temper-commands/temper-community-addon-update/temper-community-addon-update.command.code.ts
++++ b/temper/temper-commands/temper-community-addon-update/temper-community-addon-update.command.code.ts
+@@ -1,5 +1,6 @@
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
++import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
+ import { downloadAndInstall } from "@akasha/temper-community-addons/addon-download"
+ import {
+@@ -12,6 +13,7 @@ import {
+ import { fetchCatalog, fetchFileDetails } from "@akasha/temper-community-addons/esoui-catalog"
+ import { readInstalledAddons } from "@akasha/temper-community-addons/installed-addons"
+ import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ 
+@@ -37,19 +39,6 @@ type Outcome = {
+   readonly error?: string
+ }
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-function messageOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+ function dirsByUid(selected: readonly PlannedAddon[]): ReadonlyMap<string, string[]> {
+   const found = new Map<string, string[]>()
+   for (const one of selected) {
+diff --git a/temper/temper-commands/temper-errors-list/temper-errors-list.command.code.ts b/temper/temper-commands/temper-errors-list/temper-errors-list.command.code.ts
+index 8f348aaf178b1cb1e7d84de76b00e2acffc2da97..6a2af285ade7c77cb05bdb9f29aa284a38f01dcb 100644
+--- a/temper/temper-commands/temper-errors-list/temper-errors-list.command.code.ts
++++ b/temper/temper-commands/temper-errors-list/temper-errors-list.command.code.ts
+@@ -1,6 +1,7 @@
+ import { readFileSync } from "node:fs"
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
++import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+ import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
+@@ -20,6 +21,7 @@ import {
+ import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
+ import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
+ import { ran } from "@akasha/utils-run/running"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ 
+@@ -59,19 +61,6 @@ type Classified = {
+   readonly inferred?: InferredCulprit
+ }
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-function messageOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+ function previewOf(message: string): string {
+   const first = message.split("\n", 1)[0] ?? ""
+   return first.length <= MESSAGE_PREVIEW_MAX ? first : `${first.slice(0, MESSAGE_PREVIEW_MAX)}…`
+diff --git a/temper/temper-commands/temper-package-typecheck/temper-package-typecheck.command.code.ts b/temper/temper-commands/temper-package-typecheck/temper-package-typecheck.command.code.ts
+index 98a5b16d325655badc245fe95e23dabced7e25d5..bc357d8020e20b8304429b8aba96876ae80ff819 100644
+--- a/temper/temper-commands/temper-package-typecheck/temper-package-typecheck.command.code.ts
++++ b/temper/temper-commands/temper-package-typecheck/temper-package-typecheck.command.code.ts
+@@ -4,6 +4,8 @@ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { ran } from "@akasha/utils-run/running"
++import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
++import { inNameOrder } from "../name-ordering/name-ordering.module.code.ts"
+ 
+ const DATA = 2
+ const FAILED = 3
+@@ -24,19 +26,6 @@ type Judged = {
+   readonly code: number
+ }
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-function inNameOrder(names: readonly string[]): readonly string[] {
+-  return [...names].sort((a, b) => a.localeCompare(b))
+-}
+-
+ function packagesUnder(at: string): readonly string[] {
+   const folders = readdirSync(at, { withFileTypes: true })
+     .filter((one) => one.isDirectory())
+@@ -117,12 +106,12 @@ export function temperPackageTypecheck(argv: readonly string[] = []): Answer {
+ 
+   const report = reportOf(all, at)
+   const refusals: string[] = []
+-  for (const one of all.filter((one) => one.ownFiles === 0)) {
++  for (const one of all.filter((row) => row.ownFiles === 0)) {
+     refusals.push(
+       `${one.name} compiled none of its own files, so a clean result here is a result over nothing`
+     )
+   }
+-  for (const one of all.filter((one) => one.code !== 0)) {
++  for (const one of all.filter((row) => row.code !== 0)) {
+     refusals.push(`${one.name} failed to typecheck (exit ${String(one.code)})`)
+   }
+   return { report, refusals, code: refusals.length > 0 ? FAILED : 0 }
+diff --git a/temper/temper-commands/temper-upstream-data-port/temper-upstream-data-port.command.code.ts b/temper/temper-commands/temper-upstream-data-port/temper-upstream-data-port.command.code.ts
+index c0865d5730407304ad36d1f0d1b028a783909f0c..b8e4c7c5e64bf5fb9aab7f31df62868553de7b7f 100644
+--- a/temper/temper-commands/temper-upstream-data-port/temper-upstream-data-port.command.code.ts
++++ b/temper/temper-commands/temper-upstream-data-port/temper-upstream-data-port.command.code.ts
+@@ -1,6 +1,7 @@
+ import { realpathSync } from "node:fs"
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
++import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { port as portHousing } from "@akasha/temper-upstream-data/housing-upstream-port"
+ import { port as portMapData } from "@akasha/temper-upstream-data/map-data-upstream-port"
+@@ -8,6 +9,7 @@ import { port as portTreasure } from "@akasha/temper-upstream-data/treasure-upst
+ import type { UpstreamLibrary } from "@akasha/temper-upstream-data/upstream-libraries"
+ import { libraryNamed, UPSTREAM_LIBRARIES } from "@akasha/temper-upstream-data/upstream-libraries"
+ import { port as portZone } from "@akasha/temper-upstream-data/zone-upstream-port"
++import { namesIn, valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ 
+@@ -21,47 +23,19 @@ const CODE_ROOT_ENV = "CODE_ROOT"
+ 
+ const TAKING_A_VALUE = [CODE_ROOT_FLAG]
+ 
+-const PORTED_BY: Record<UpstreamLibrary, (codeRoot: string) => Promise<void>> = {
++const PORTED_BY: Record<UpstreamLibrary, (root: string) => Promise<void>> = {
+   housing: portHousing,
+   "lib-map-data": portMapData,
+   "lib-treasure": portTreasure,
+   "lib-zone": portZone,
+ }
+ 
+-function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-function namesIn(argv: readonly string[]): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (TAKING_A_VALUE.includes(one)) {
+-      at += 1
+-      continue
+-    }
+-    if (one.startsWith("-")) continue
+-    found.push(one)
+-  }
+-  return found
+-}
+-
+-function messageOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+ function carried(): string {
+   return UPSTREAM_LIBRARIES.join(", ")
+ }
+ 
+ export async function temperUpstreamDataPort(argv: readonly string[] = []): Promise<Answer> {
+-  const names = namesIn(argv)
++  const names = namesIn(argv, TAKING_A_VALUE)
+   if (names.length === 0) {
+     return refused(`name the upstream library ported — this carries ${carried()}`, SAID_WRONG)
+   }
