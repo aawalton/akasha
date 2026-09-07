@@ -35,5 +35,37 @@ export const addFile = {
       invariantKind: "departure",
       statement: "The checks judge the tree the edits leave.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page arrives with its `id` worked out here rather than at the landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index files a page this change writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A later act in the same change names a page this change wrote.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller saying no `id` is taken to have said `auto`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An `id` a caller states goes in rather than an `id` worked out here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body already stating an `id` keeps that `id` under `auto`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body already stating an `id` refuses an `id` handed in beside that body.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A path naming no page takes no `id`.",
+    },
   ],
 } as const satisfies ChangeAuthored

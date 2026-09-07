@@ -10,10 +10,8 @@ import {
   earlyIn,
   identified,
   identifiedOver,
-  insertedInto,
   mintedFor,
   mintingOnto,
-  uuidVersion7,
 } from "./value-minting.module.code.ts"
 
 const scratch = scratchWorld()
@@ -110,27 +108,6 @@ function textOf(changes: readonly FileEdit[], path: string = AT): string {
     ? ""
     : new TextDecoder().decode(found.body)
 }
-
-test("a uuid version 7 carries its version, its variant and the time it was worked out", () => {
-  const said = uuidVersion7(0x0123456789ab)
-  expect(said).toMatch(SHAPE)
-  expect(said.slice(0, 15)).toBe("01234567-89ab-7")
-})
-
-test("two worked out in the same millisecond are still two", () => {
-  const at = Date.now()
-  expect(uuidVersion7(at)).not.toBe(uuidVersion7(at))
-})
-
-test("a value goes in first in the literal, and the rest of the body is unchanged", () => {
-  const said = insertedInto(AT, BODY, "id", '"held"') ?? ""
-  expect(said).toContain('{ id: "held", pageTypeSlug: "thing"')
-  expect(said.split("\n").length).toBe(BODY.split("\n").length)
-})
-
-test("a body declaring no literal takes no value", () => {
-  expect(insertedInto(AT, "export const one = 1\n", "id", '"held"')).toBe(null)
-})
 
 test("a kind nothing here works out is refused rather than left unfilled", () => {
   expect(() => mintedFor("held", "id")).toThrow("nothing here works that kind out")

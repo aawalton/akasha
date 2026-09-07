@@ -50,10 +50,6 @@ export const valueMinting = {
     },
     {
       invariantKind: "departure",
-      statement: "The value goes in first in the literal.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An index that will not answer works nothing out.",
     },
     {

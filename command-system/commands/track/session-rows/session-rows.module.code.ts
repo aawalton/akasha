@@ -1,7 +1,9 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { mountainWallAt, readMountainWallTime } from "@akasha/day/mountain-wall"
-import { uuidVersion7 } from "../../../value-minting/value-minting.module.code.ts"
+import { padTwo } from "@akasha/digit-padding"
+import { uuidVersion7 } from "@akasha/id-minting/uuid-version-7"
+import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import {
   type ActivityDifficulty,
   difficultyForTitle,
@@ -68,8 +70,6 @@ const KEYS = [
 
 const V7 = /^[0-9a-f]{8}-[0-9a-f]{4}-7[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/
 
-const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
-
 const SAFETY_LOW = -2
 const SAFETY_HIGH = 5
 const DIFFICULTY_LOW = 0
@@ -101,8 +101,7 @@ export function saidFor(argv: readonly string[], flag: string): string | null {
 
 export function dayNow(now: Date): string {
   const wall = mountainWallAt(now)
-  const pad = (one: number): string => String(one).padStart(2, "0")
-  return `${String(wall.year)}-${pad(wall.month)}-${pad(wall.day)}`
+  return `${String(wall.year)}-${padTwo(wall.month)}-${padTwo(wall.day)}`
 }
 
 export function pathsFor(root: string, day: string): { path: string; page: string } {
@@ -205,12 +204,12 @@ export function idsForTokens(
   const ids: string[] = []
   for (const token of tokens) {
     let id: string | null = null
-    if (UUID.test(token)) {
-      const said = token.toLowerCase()
+    const said = token.toLowerCase()
+    if (lowerUuid(said)) {
       if (V7.test(said)) id = said
       else refusals.push(`${token} is no uuid version 7, so no relationship carries it`)
     } else {
-      const found = byTitle.get(token.toLowerCase()) ?? []
+      const found = byTitle.get(said) ?? []
       if (found.length === 0) refusals.push(`no relationship is titled ${token}`)
       else if (found.length > 1) {
         refusals.push(
@@ -394,9 +393,8 @@ export function shownOf(rows: readonly Row[]): string {
     .map((one) => {
       const from = mountainWallAt(new Date(one.startTime))
       const to = one.endTime === undefined ? null : mountainWallAt(new Date(one.endTime))
-      const pad = (at: number): string => String(at).padStart(2, "0")
       const clock = (at: { hour: number; minute: number } | null): string =>
-        at === null ? "     " : `${pad(at.hour)}:${pad(at.minute)}`
+        at === null ? "     " : `${padTwo(at.hour)}:${padTwo(at.minute)}`
       const safety = typeof one.safetyLevel === "string" ? one.safetyLevel : "?"
       const level = typeof one.difficultyLevel === "string" ? one.difficultyLevel : "?"
       return `${clock(from)}-${clock(to)}  s${safety}d${level}  ${one.title}  ${one.id}`

@@ -1,10 +1,10 @@
-import { parsedAs } from "@akasha/code/code-source"
+import { insertedInto } from "@akasha/code/value-inserting"
+import { uuidVersion7 } from "@akasha/id-minting/uuid-version-7"
 import type { Generated } from "@akasha/indexes/generated-properties"
 import { generatedProperties } from "@akasha/indexes/generated-properties"
 import { heldIn, pageNamed } from "@akasha/pages/page-file-name"
 import { loadedFrom } from "@akasha/pages/page-value"
 import { type Shadow, shadowFor } from "@akasha/pages/shadow"
-import ts from "typescript"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 
@@ -16,10 +16,6 @@ const NEW_PAGE = "a page being created states none of its own"
 
 const NEW_ENTRY = "an entry arriving without one is given one"
 
-const STAMPED = 6
-
-const OVER = 256
-
 export type Filled = {
   readonly path: string
   readonly keys: readonly string[]
@@ -29,54 +25,6 @@ export type Filled = {
 export type Minted = {
   readonly changes: readonly FileEdit[]
   readonly filled: readonly Filled[]
-}
-
-export function uuidVersion7(at: number = Date.now()): string {
-  const bytes = new Uint8Array(16)
-  crypto.getRandomValues(bytes)
-  let left = at
-  for (let one = STAMPED - 1; one >= 0; one -= 1) {
-    bytes[one] = left % OVER
-    left = Math.floor(left / OVER)
-  }
-  bytes[6] = ((bytes[6] ?? 0) & 0x0f) | 0x70
-  bytes[8] = ((bytes[8] ?? 0) & 0x3f) | 0x80
-  const said = [...bytes].map((one) => one.toString(16).padStart(2, "0")).join("")
-  return [
-    said.slice(0, 8),
-    said.slice(8, 12),
-    said.slice(12, 16),
-    said.slice(16, 20),
-    said.slice(20),
-  ].join("-")
-}
-
-function literalOf(node: ts.Expression): ts.ObjectLiteralExpression | null {
-  let held = node
-  for (;;) {
-    if (ts.isSatisfiesExpression(held) || ts.isAsExpression(held)) {
-      held = held.expression
-      continue
-    }
-    return ts.isObjectLiteralExpression(held) ? held : null
-  }
-}
-
-export function insertedInto(path: string, text: string, key: string, said: string): string | null {
-  const source = parsedAs(path, text)
-  for (const statement of source.statements) {
-    if (!ts.isVariableStatement(statement)) continue
-    for (const declared of statement.declarationList.declarations) {
-      const held = declared.initializer
-      if (held === undefined) continue
-      const literal = literalOf(held)
-      if (literal === null) continue
-      const first = literal.properties[0]
-      const at = first === undefined ? literal.getStart(source) + 1 : first.getStart(source)
-      return `${text.slice(0, at)}${key}: ${said}, ${text.slice(at)}`
-    }
-  }
-  return null
 }
 
 export function mintedFor(kind: string, slug: string): string {

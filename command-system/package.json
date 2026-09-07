@@ -40,12 +40,13 @@
     "@akasha/seat-system": "workspace:*",
     "@akasha/agents": "workspace:*",
     "@akasha/analysis-complexity": "workspace:*",
+    "@akasha/digit-padding": "workspace:*",
+    "@akasha/id-minting": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/inference-clients": "workspace:*",
     "@akasha/inference-runs": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@akasha/wan": "workspace:*",
-    "@akasha/zimage": "workspace:*",
-    "typescript": "5.9.3"
+    "@akasha/zimage": "workspace:*"
   }
 }

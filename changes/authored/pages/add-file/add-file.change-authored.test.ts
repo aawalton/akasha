@@ -1,23 +1,20 @@
 import { expect, test } from "bun:test"
-import { addFile } from "../../../mechanical/pages/add-file/add-file.change-mechanical.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { REACHING } from "../../../mechanical/pages/add-file/add-file.change-mechanical.test-fixtures.ts"
 import {
   NOTHING_OVER,
-  type Reaching,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { addFileCommand } from "./add-file.change-authored.code.ts"
+import { addFileCommand, idFilled } from "./add-file.change-authored.code.ts"
 
 const AT = "akasha/one.held.ts"
 
 const PLAIN = "akasha/one/notes.md"
 
-const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical/add-file") {
-    return Promise.resolve(addFile(world, given as { at: string; body: string }))
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
+const MINTED = /id: "[0-9a-f]{8}-[0-9a-f]{4}-7[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}"/
+
+const PAGE_BODY = 'export const one = { pageTypeSlug: "held", slug: "one" } as const\n'
+
+const STATED = 'export const one = { id: "held", pageTypeSlug: "held", slug: "one" } as const\n'
 
 function worldOf(held: Readonly<Record<string, string>>): World {
   return {
@@ -25,7 +22,7 @@ function worldOf(held: Readonly<Record<string, string>>): World {
     index: Object.assign({} as World["index"], { pageTypesIn: () => new Set<string>() }),
     textOf: (path) => held[path] ?? null,
     over: NOTHING_OVER,
-    reaching: RUNS,
+    reaching: REACHING,
   }
 }
 
@@ -65,4 +62,52 @@ test("the body this change hands on is reached through the runner the world carr
 
   expect(reached).toBe("change-mechanical/add-code-file")
   expect(said.refused).toBeNull()
+})
+
+function pagedWorld(): World {
+  return {
+    ...worldOf({}),
+    index: Object.assign({} as World["index"], { pageTypesIn: () => new Set(["held"]) }),
+  }
+}
+
+test("a body stating no id is given one worked out here", () => {
+  expect(String(idFilled(AT, PAGE_BODY, "auto"))).toMatch(MINTED)
+})
+
+test("a body already stating an id keeps the id that body states", () => {
+  expect(idFilled(AT, STATED, "auto")).toBe(STATED)
+})
+
+test("a body already stating an id refuses an id handed in beside that body", () => {
+  expect(idFilled(AT, STATED, "01a07bd4-3a11-708f-ad12-c22715ac9f9c")).toEqual({
+    refused: "the body states an `id` of its own, so `id` is left out or said as `auto`",
+  })
+})
+
+test("an id a caller states goes in rather than one worked out", () => {
+  expect(String(idFilled(AT, PAGE_BODY, "held"))).toContain('{ id: "held", pageTypeSlug: "held"')
+})
+
+test("a body declaring no literal is refused rather than written without an id", () => {
+  expect(idFilled(AT, "export const one = 1\n", "auto")).toEqual({
+    refused: "the body declares no literal, so no `id` goes into the body",
+  })
+})
+
+test("a page reaches the mechanical change with the id already in the body", async () => {
+  let carried = ""
+  const said = await addFileCommand(
+    {
+      ...pagedWorld(),
+      reaching: (_world, _at, given) => {
+        carried = (given as { body: string }).body
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    { at: AT, body: PAGE_BODY }
+  )
+
+  expect(said.refused).toBeNull()
+  expect(carried).toMatch(MINTED)
 })

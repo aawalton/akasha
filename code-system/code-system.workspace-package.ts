@@ -52,6 +52,7 @@ export const codeSystem = {
     "module/shape-progress",
     "module/carried-file",
     "module/name-series",
+    "module/value-inserting",
   ],
   directives: [
     {
