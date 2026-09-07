@@ -11,7 +11,11 @@ export const seatWakeRules = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rule matches only where the sender matches, whatever its content pattern says.",
+      statement: "A rule matches only where the sender matches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A content pattern makes no rule match where the sender does not.",
     },
     {
       invariantKind: "departure",
