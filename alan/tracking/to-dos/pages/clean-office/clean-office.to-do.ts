@@ -12,4 +12,5 @@ export const cleanOffice = {
   toDoRecurrence: "FREQ=WEEKLY;BYDAY=SA",
   toDoSortOrder: 27,
   toDoValueSlug: "health",
+  toDoLastCompletedAt: "2026-08-16T21:45:10.329Z",
 } as const satisfies ToDo

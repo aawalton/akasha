@@ -12,4 +12,5 @@ export const pickUpPrescription = {
   toDoRecurrence: "INTERVAL=30;FREQ=DAILY",
   toDoSortOrder: 33,
   toDoValueSlug: "health",
+  toDoLastCompletedAt: "2026-07-30T10:31:03.068Z",
 } as const satisfies ToDo

@@ -12,4 +12,5 @@ export const swapBathroomTowels = {
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 29,
   toDoValueSlug: "health",
+  toDoLastCompletedAt: "2026-07-27T20:36:10.491Z",
 } as const satisfies ToDo

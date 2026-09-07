@@ -12,4 +12,5 @@ export const restockWater = {
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=2MO,4MO",
   toDoSortOrder: 32,
   toDoValueSlug: "health",
+  toDoLastCompletedAt: "2026-08-17T22:02:52.964Z",
 } as const satisfies ToDo

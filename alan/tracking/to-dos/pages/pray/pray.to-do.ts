@@ -11,4 +11,5 @@ export const pray = {
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 0,
   toDoValueSlug: "faith",
+  toDoLastCompletedAt: "2026-08-18T23:35:30.481Z",
 } as const satisfies ToDo

@@ -12,4 +12,5 @@ export const bringInTrashCans = {
   toDoRecurrence: "FREQ=WEEKLY;BYDAY=TH",
   toDoSortOrder: 37,
   toDoValueSlug: "health",
+  toDoLastCompletedAt: "2026-08-14T21:41:08.620Z",
 } as const satisfies ToDo

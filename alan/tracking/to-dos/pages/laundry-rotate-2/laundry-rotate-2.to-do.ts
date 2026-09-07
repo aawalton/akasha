@@ -12,4 +12,5 @@ export const laundryRotate2 = {
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=2MO,4MO",
   toDoSortOrder: 45,
   toDoValueSlug: "health",
+  toDoLastCompletedAt: "2026-08-10T19:07:29.695Z",
 } as const satisfies ToDo

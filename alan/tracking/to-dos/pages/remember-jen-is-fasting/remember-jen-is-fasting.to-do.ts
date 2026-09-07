@@ -11,4 +11,5 @@ export const rememberJenIsFasting = {
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=1SU",
   toDoSortOrder: 18,
   toDoValueSlug: "love",
+  toDoLastCompletedAt: "2026-08-02T12:12:33.155Z",
 } as const satisfies ToDo

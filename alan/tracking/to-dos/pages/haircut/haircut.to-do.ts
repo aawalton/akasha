@@ -12,4 +12,5 @@ export const haircut = {
   toDoRecurrence: "FREQ=WEEKLY;INTERVAL=6",
   toDoSortOrder: 53,
   toDoValueSlug: "health",
+  toDoLastCompletedAt: "2026-07-24T15:45:04.713Z",
 } as const satisfies ToDo
