@@ -1,3 +1,29 @@
+diff --git a/alan/web/.server/alan-answer-page-types/alan-answer-page-types.module.code.ts b/alan/web/.server/alan-answer-page-types/alan-answer-page-types.module.code.ts
+index faa6c0f1d369b25d9666db50499312209bd11ee2..8676fb6367159f4b030026f77e1e01ec0197eaba 100644
+--- a/alan/web/.server/alan-answer-page-types/alan-answer-page-types.module.code.ts
++++ b/alan/web/.server/alan-answer-page-types/alan-answer-page-types.module.code.ts
+@@ -1,8 +1,17 @@
+ import { answerPageTypes as answerFrom, pageTypesDeps } from "@akasha/pages-access/answer"
+-import { getUser } from "@akasha/supabase-rr/auth-server"
++import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
++import {
++  capacitorCorsHeaders,
++  corsAnswered,
++  corsPreflight,
++} from "../../capacitor-cors/capacitor-cors.module.code.ts"
+ 
+-const DEPS = pageTypesDeps(getUser)
++const CORS_METHODS = "GET, OPTIONS"
+ 
+-export function answerPageTypes(request: Request): Promise<Response> {
+-  return answerFrom(request, DEPS)
++const DEPS = pageTypesDeps(resolveRequestUser)
++
++export async function answerPageTypes(request: Request): Promise<Response> {
++  const cors = capacitorCorsHeaders(request, CORS_METHODS)
++  if (request.method === "OPTIONS") return corsPreflight(cors)
++  return corsAnswered(await answerFrom(request, DEPS), cors)
+ }
 diff --git a/alan/web/.server/alan-answer-pages/alan-answer-pages.module.code.ts b/alan/web/.server/alan-answer-pages/alan-answer-pages.module.code.ts
 index 902cc3c6e54c89870673169149945dd9e824186c..743f33062121bce150432e7796ada6fa98ceea4d 100644
 --- a/alan/web/.server/alan-answer-pages/alan-answer-pages.module.code.ts
