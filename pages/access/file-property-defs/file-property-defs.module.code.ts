@@ -84,6 +84,13 @@ function optionsFrom(value: unknown): readonly SelectOption[] | null {
   return named.length === 0 ? null : named
 }
 
+const DECLARED_BY = "-property"
+
+export function renderedType(pageTypeSlug: string): string {
+  if (!pageTypeSlug.endsWith(DECLARED_BY)) return pageTypeSlug
+  return pageTypeSlug.slice(0, -DECLARED_BY.length)
+}
+
 function definitionOf(one: Declaration): PropertyDefinition {
   const config: Record<string, Json> = {}
   const options = optionsFrom(one.values)
@@ -93,7 +100,7 @@ function definitionOf(one: Declaration): PropertyDefinition {
     id: camelizeKey(one.key),
     key: one.key,
     title: one.title,
-    type: one.type,
+    type: renderedType(one.type),
     pageId: one.pageId,
     ...(stated ? { config } : {}),
   }

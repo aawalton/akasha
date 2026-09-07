@@ -45,6 +45,14 @@ export const answer = {
     },
     {
       invariantKind: "departure",
+      statement: "A page type's row carries the property definitions that page type declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row of any other page type carries no property definition.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A roster that will not read is answered 503 carrying the reason that roster went unread.",
     },

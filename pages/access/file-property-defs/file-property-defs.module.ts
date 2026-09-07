@@ -32,5 +32,10 @@ export const filePropertyDefs = {
       invariantKind: "departure",
       statement: "A shape carries the property naming the account a page belongs to.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A definition's type is how a value is rendered rather than the page type declaring that property.",
+    },
   ],
 } as const satisfies Module

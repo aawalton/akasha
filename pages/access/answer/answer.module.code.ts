@@ -1,5 +1,6 @@
 import type { Asked } from "@akasha/pages-service/asking"
 import { askingFor } from "@akasha/pages-service/calling"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import {
   fileBackedPageTypes,
   RosterUnreachable,
@@ -11,8 +12,15 @@ import {
   getPropertyDefinitions,
   type PropertyDefinition,
 } from "../page-type-config/page-type-config.module.code.ts"
+import type { RawPageRow } from "../raw-page-row/raw-page-row.module.code.ts"
 
 export const LISTING_CEILING = 5_000
+
+export const DEFINITIONS_AT_ONCE = 16
+
+const PAGE_TYPE = "page-type"
+
+const NO_DEFINITIONS: readonly PropertyDefinition[] = []
 
 const UNREAD_ROSTER =
   "the page types did not answer, so this route holds no roster to report; an empty roster would read as a tree where no page type is backed by files at all"
@@ -38,10 +46,6 @@ export function pageTypesDeps(readUser: ReadUser): PageTypesDeps {
   return { readUser, roster: () => fileBackedPageTypes() }
 }
 
-// A ROSTER ENTRY CARRIES A SLUG AND NOTHING ELSE. The roster this route once answered named, for
-// each page type, the repository its pages were kept in and the glob those files were filed under.
-// `@akasha/pages-service` answers for every page akasha holds and draws no such line, so a page
-// type it lists is a page type backed by files, and the slug is the whole of what a reader needs.
 export async function answerPageTypes(request: Request, deps: PageTypesDeps): Promise<Response> {
   const { user, headers } = await deps.readUser(request)
   if (user === null) {
@@ -67,6 +71,7 @@ export type PagesDeps = {
   readonly readUser: ReadUser
   readonly ask: (pageTypeSlug: string) => Promise<Asked>
   readonly readPageType: (pageTypeSlug: string) => Promise<PageTypeReading | null>
+  readonly definitionsFor: (pageTypeSlug: string) => Promise<readonly PropertyDefinition[]>
 }
 
 export function pagesDeps(readUser: ReadUser): PagesDeps {
@@ -81,7 +86,28 @@ export function pagesDeps(readUser: ReadUser): PagesDeps {
         definitions: await getPropertyDefinitions({ pageTypeSlug }),
       }
     },
+    definitionsFor: (pageTypeSlug) => getPropertyDefinitions({ pageTypeSlug }),
   }
+}
+
+function carrying(row: RawPageRow, definitions: readonly PropertyDefinition[]): RawPageRow {
+  const held = isRecord(row.attributes) ? row.attributes : {}
+  return { ...row, attributes: { ...held, propertyDefinitions: definitions } }
+}
+
+export async function withDefinitions(
+  rows: readonly RawPageRow[],
+  definitionsFor: PagesDeps["definitionsFor"]
+): Promise<readonly RawPageRow[]> {
+  const out: RawPageRow[] = []
+  for (let at = 0; at < rows.length; at += DEFINITIONS_AT_ONCE) {
+    const batch = rows.slice(at, at + DEFINITIONS_AT_ONCE)
+    const every = await Promise.all(
+      batch.map((row) => (row.slug === null ? NO_DEFINITIONS : definitionsFor(row.slug)))
+    )
+    batch.forEach((row, which) => out.push(carrying(row, every[which] ?? NO_DEFINITIONS)))
+  }
+  return out
 }
 
 export async function answerPages(
@@ -117,12 +143,14 @@ export async function answerPages(
   }
 
   const held = asked.rows.length
-  const rows = buildRawPageRows({
+  const built = buildRawPageRows({
     rows: valuedRows(asked.rows.slice(0, LISTING_CEILING)),
     definitions: reading.definitions,
     pageTypeId: reading.pageTypeId,
     pageTypeSlug,
   })
+  const rows =
+    pageTypeSlug === PAGE_TYPE ? await withDefinitions(built, deps.definitionsFor) : built
   if (held > rows.length) {
     console.warn(
       `answerPages(${pageTypeSlug}): ${held} pages are filed and this answer carries ${rows.length}; the listing stops at ${LISTING_CEILING}`
