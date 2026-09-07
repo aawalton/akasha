@@ -218,7 +218,7 @@ test("a row appended while the apply ran is left where the folded rows go", asyn
   appendEdits(root, PAGE, [later])
   dropPatch(root, PAGE)
 
-  expect(undone(root, PAGE, said.unfold)).toBe(null)
+  expect(undone(root, PAGE, said.unfold, true)).toBe(null)
 
   expect(editsIn(root, PAGE)).toEqual({ rows: [later] })
 })
@@ -281,7 +281,7 @@ test("a fold the apply refuses is undone, and the patch and the rows come back",
   if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
   const folded = kept(root)
 
-  expect(undone(root, PAGE, said.unfold)).not.toBe(null)
+  expect(undone(root, PAGE, said.unfold, false)).not.toBe(null)
 
   expect(patchIn(root, PAGE)).toEqual(was)
   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
@@ -297,7 +297,7 @@ test("a fold that made the patch is undone by taking the patch away", async () =
   const said = folding(root, PAGE)
   if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
 
-  undone(root, PAGE, said.unfold)
+  undone(root, PAGE, said.unfold, false)
 
   expect(patchIn(root, PAGE)).toBe(null)
   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
@@ -311,9 +311,22 @@ test("a fold the apply landed is left where the apply left it", async () => {
   if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
   dropPatch(root, PAGE)
 
-  expect(undone(root, PAGE, said.unfold)).toBe(null)
+  expect(undone(root, PAGE, said.unfold, true)).toBe(null)
 
   expect(editsIn(root, PAGE)).toEqual({ rows: [] })
+})
+
+test("a fold the apply did not land leaves the rows though no patch is on disk", async () => {
+  const root = await repo()
+  const row = writing(ONE, WAS, WAS)
+  appendEdits(root, PAGE, [row])
+  const said = folding(root, PAGE)
+  if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
+  expect(patchIn(root, PAGE)).toBe(null)
+
+  expect(undone(root, PAGE, said.unfold, false)).not.toBe(null)
+
+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
 })
 
 test("two rows for one path the later did not follow refuse the fold and leave the rows", async () => {

@@ -77,25 +77,35 @@ export function noneSaid(root: string, page: string): string {
   return `${NONE} — a subagent's draft goes to its seat when the subagent stops, so ask the ${seat} seat for what was drafted here before`
 }
 
+export type Applying = Answer & { readonly landed: boolean }
+
+function notLanded(answer: Answer): Applying {
+  return { ...answer, landed: false }
+}
+
 export async function applying(
   given: Given,
   page: string,
   argv: readonly string[],
   carried: Carried | null = null
-): Promise<Answer> {
+): Promise<Applying> {
   const unknown = unknownIn(argv, APPLYING, BARE)
-  if (unknown.length > 0) return mistaking(unknown)
+  if (unknown.length > 0) return notLanded(mistaking(unknown))
   const message = messageIn(argv, APPLYING)
-  if ("refusals" in message) return mistaking(message.refusals)
+  if ("refusals" in message) return notLanded(mistaking(message.refusals))
   const glass = glassIn(argv, APPLYING)
-  if ("refusals" in glass) return mistaking(glass.refusals)
+  if ("refusals" in glass) return notLanded(mistaking(glass.refusals))
   const broken = glass.glass
   if (carried === null && patchIn(given.root, page) === null) {
-    return mistaking([noneSaid(given.root, page)])
+    return notLanded(mistaking([noneSaid(given.root, page)]))
   }
   const built = gateBuilt(given.root)
   if (broken === null && !("gate" in built)) {
-    return { report: [], refusals: [`the checks would not load — ${built.broken}`], code: 3 }
+    return notLanded({
+      report: [],
+      refusals: [`the checks would not load — ${built.broken}`],
+      code: 3,
+    })
   }
   const gate = broken === null && "gate" in built ? built.gate : NO_GATE
   const unloaded = "gate" in built ? null : built.broken
@@ -113,7 +123,7 @@ export async function applying(
       [],
       carried
     )
-    if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
+    if ("refusals" in said) return notLanded({ report: [], refusals: said.refusals, code: 3 })
     return {
       report: [
         ...said.landed.map((one) => `landed ${one}`),
@@ -126,9 +136,14 @@ export async function applying(
       ],
       refusals: said.wrong,
       code: said.wrong.length === 0 ? 0 : 3,
+      landed: true,
     }
   } catch (thrown) {
-    return { report: [], refusals: [`nothing was committed — ${whyOf(thrown)}`], code: 3 }
+    return notLanded({
+      report: [],
+      refusals: [`nothing was committed — ${whyOf(thrown)}`],
+      code: 3,
+    })
   }
 }
 

@@ -169,8 +169,8 @@ async function refusedBefore(root: string, page: string): Promise<readonly strin
   return said.map((one) => `${one.path} — ${one.reason}`)
 }
 
-export function undone(root: string, page: string, unfold: Unfold): string | null {
-  if (patchIn(root, page) === null) {
+export function undone(root: string, page: string, unfold: Unfold, landed: boolean): string | null {
+  if (landed) {
     droppedFirst(root, page, unfold.went)
     return null
   }
@@ -196,7 +196,7 @@ export async function apply(argv: readonly string[], given: Given): Promise<Answ
   const said = folding(given.root, page)
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
   const answered = await applying(given, page, argv, said.carried)
-  const put = said.unfold === null ? null : undone(given.root, page, said.unfold)
+  const put = said.unfold === null ? null : undone(given.root, page, said.unfold, answered.landed)
   if (put !== null) return { report: [put], refusals: answered.refusals, code: answered.code }
   return {
     report: [
