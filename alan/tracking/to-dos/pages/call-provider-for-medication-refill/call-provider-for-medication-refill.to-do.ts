@@ -7,9 +7,10 @@ export const callProviderForMedicationRefill = {
   title: "Call provider for medication refill",
   toDoCategory: "inbox",
   difficulty: "hard",
-  toDoDueDate: "2026-09-06",
+  toDoDueDate: "2026-12-05",
   toDoPriority: "p1",
   toDoRecurrence: "FREQ=DAILY;INTERVAL=90",
   toDoSortOrder: 0,
   toDoValueSlug: "health",
+  toDoLastCompletedAt: "2026-09-07T01:38:26.028Z",
 } as const satisfies ToDo
