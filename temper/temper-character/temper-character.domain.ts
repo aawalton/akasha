@@ -25,7 +25,11 @@ export const temperCharacter = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name is author-given, so several builds answer to the same name.",
+      statement: "A name is author-given.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Several builds answer to one name.",
     },
   ],
 } as const satisfies Domain
