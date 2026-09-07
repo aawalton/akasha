@@ -38,8 +38,11 @@ export const blockBunTest = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "The repository root is the akasha folder, so every test file that folder holds is an akasha test.",
+      statement: "The repository root is the akasha folder.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Every test file the akasha folder holds is an akasha test.",
     },
   ],
 } as const satisfies AgentHook
