@@ -1,5 +1,5 @@
 diff --git a/pages/access/answer/answer.module.code.ts b/pages/access/answer/answer.module.code.ts
-index 59cefc682092aad9cd8634bc70f7c4ce3a0bd21b..45efbdac3327f217109daa29bce744d8489008cf 100644
+index 59cefc682092aad9cd8634bc70f7c4ce3a0bd21b..176e5e0003328c6aa26ed0340a425562e64168b4 100644
 --- a/pages/access/answer/answer.module.code.ts
 +++ b/pages/access/answer/answer.module.code.ts
 @@ -1,5 +1,6 @@
@@ -26,7 +26,18 @@ index 59cefc682092aad9cd8634bc70f7c4ce3a0bd21b..45efbdac3327f217109daa29bce744d8
  const UNREAD_ROSTER =
    "the page types did not answer, so this route holds no roster to report; an empty roster would read as a tree where no page type is backed by files at all"
  
-@@ -67,6 +75,7 @@ export type PagesDeps = {
+@@ -38,10 +46,6 @@ export function pageTypesDeps(readUser: ReadUser): PageTypesDeps {
+   return { readUser, roster: () => fileBackedPageTypes() }
+ }
+ 
+-// A ROSTER ENTRY CARRIES A SLUG AND NOTHING ELSE. The roster this route once answered named, for
+-// each page type, the repository its pages were kept in and the glob those files were filed under.
+-// `@akasha/pages-service` answers for every page akasha holds and draws no such line, so a page
+-// type it lists is a page type backed by files, and the slug is the whole of what a reader needs.
+ export async function answerPageTypes(request: Request, deps: PageTypesDeps): Promise<Response> {
+   const { user, headers } = await deps.readUser(request)
+   if (user === null) {
+@@ -67,6 +71,7 @@ export type PagesDeps = {
    readonly readUser: ReadUser
    readonly ask: (pageTypeSlug: string) => Promise<Asked>
    readonly readPageType: (pageTypeSlug: string) => Promise<PageTypeReading | null>
@@ -34,7 +45,7 @@ index 59cefc682092aad9cd8634bc70f7c4ce3a0bd21b..45efbdac3327f217109daa29bce744d8
  }
  
  export function pagesDeps(readUser: ReadUser): PagesDeps {
-@@ -81,7 +90,28 @@ export function pagesDeps(readUser: ReadUser): PagesDeps {
+@@ -81,7 +86,28 @@ export function pagesDeps(readUser: ReadUser): PagesDeps {
          definitions: await getPropertyDefinitions({ pageTypeSlug }),
        }
      },
@@ -63,7 +74,7 @@ index 59cefc682092aad9cd8634bc70f7c4ce3a0bd21b..45efbdac3327f217109daa29bce744d8
  }
  
  export async function answerPages(
-@@ -117,12 +147,14 @@ export async function answerPages(
+@@ -117,12 +143,14 @@ export async function answerPages(
    }
  
    const held = asked.rows.length
