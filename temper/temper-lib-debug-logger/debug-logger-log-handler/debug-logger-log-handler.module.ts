@@ -10,7 +10,7 @@ export const debugLoggerLogHandler = {
     {
       invariantKind: "departure",
       statement:
-        "A message repeating the one before that message raises a count rather than adding an entry.",
+        "A message repeating the message before that message raises a count rather than adding an entry.",
     },
     {
       invariantKind: "departure",

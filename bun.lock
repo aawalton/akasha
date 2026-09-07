@@ -2386,6 +2386,9 @@
     },
     "temper/temper-lib-debug-logger": {
       "name": "@akasha/temper-lib-debug-logger",
+      "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
+      },
     },
     "temper/temper-lib-extended-journal": {
       "name": "@akasha/temper-lib-extended-journal",

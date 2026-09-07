@@ -4,5 +4,8 @@
   "type": "module",
   "exports": {
     "./main": "./debug-logger-main/debug-logger-main.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/code-system": "workspace:@akasha/code@*"
   }
 }
