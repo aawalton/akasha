@@ -33,6 +33,7 @@ export const designPrimitives = {
     "module/input",
     "module/keyboard-registry",
     "module/label",
+    "module/listener-set",
     "module/menubar",
     "module/popover",
     "module/popover-tokens",

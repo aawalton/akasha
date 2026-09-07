@@ -13,7 +13,7 @@ export const playerSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "A section that does not narrow is left out rather than kept part-read.",
+      statement: "A section that does not narrow reads as its default.",
     },
     {
       invariantKind: "departure",
@@ -21,11 +21,11 @@ export const playerSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "One write is in flight at a time.",
+      statement: "These three sections read the copy hooks-inventory-settings holds.",
     },
     {
       invariantKind: "departure",
-      statement: "A reader with no user id matches no player row.",
+      statement: "A section this module leaves alone survives a write from this module.",
     },
   ],
 } as const satisfies Module

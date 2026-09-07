@@ -1,5 +1,6 @@
 "use client"
 
+import { listenerSet } from "@akasha/design-primitives/listener-set"
 import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
 import { deletePages } from "@akasha/pages-access/delete"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
@@ -55,10 +56,6 @@ const SETTINGS = "settings"
 
 const ENDING = "json"
 
-// A player's settings are a file beside the page, so a query answers the four characters naming
-// that file's ending unless the query names `settings` under `files`. Reading the ending as an
-// empty blob is what left every panel unset, and writing on top of that empty blob is what would
-// have put one panel's settings over the whole file.
 async function settingsBodyOf(userId: string): Promise<SettingsBlob> {
   const asked = await askComposed({
     "page-type": PLAYER_PAGE_TYPE_SLUG,
@@ -80,9 +77,6 @@ async function settingsBodyOf(userId: string): Promise<SettingsBlob> {
   return asSettingsBlob(JSON.parse(held))
 }
 
-// EVERY PANEL WRITES THE WHOLE BLOB, merged onto what was read, so the five hooks share one copy.
-// Were each to hold its own, a write from one panel would carry a blob read before another
-// panel's write and put it back over it.
 interface SettingsHeld {
   readonly blob: SettingsBlob
   readonly isRead: boolean
@@ -93,31 +87,20 @@ const UNREAD: SettingsHeld = { blob: {}, isRead: false, error: null }
 
 let heldFor: string | null = null
 let held: SettingsHeld = UNREAD
-const listeners = new Set<() => void>()
+const settingsListeners = listenerSet()
 
-function tellListeners() {
-  for (const listener of listeners) listener()
-}
-
-function holdSettings(next: SettingsHeld) {
+function holdSettings(next: SettingsHeld): undefined {
   held = next
-  tellListeners()
-}
-
-function subscribeSettings(listener: () => void) {
-  listeners.add(listener)
-  return () => {
-    listeners.delete(listener)
-  }
+  settingsListeners.tell()
 }
 
 function readSettings(): SettingsHeld {
   return held
 }
 
-function useSettingsBlob() {
+export function useSettingsBlob() {
   const userId = useUserId()
-  const state = useSyncExternalStore(subscribeSettings, readSettings, readSettings)
+  const state = useSyncExternalStore(settingsListeners.subscribe, readSettings, readSettings)
 
   useEffect(() => {
     if (userId == null) {
@@ -219,26 +202,23 @@ export function useInventorySettings() {
         : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
     limit: RULES_AT_MOST,
   })
-  const held = useMemo(
-    () => heldFromRows(rows as unknown as readonly Record<string, unknown>[]),
-    [rows]
-  )
+  const heldRules = useMemo(() => heldFromRows(rows.map((row) => ({ ...row }))), [rows])
   const blob = settings.inventory
 
   const inventorySettings = useMemo<InventoryRuleSettings>(
     () => ({
       version: 2,
-      rules: rulesFromPages(held),
+      rules: rulesFromPages(heldRules),
       ...(blob?.itemRules === undefined ? {} : { itemRules: blob.itemRules }),
       ...(blob?.buyRules === undefined ? {} : { buyRules: blob.buyRules }),
     }),
-    [held, blob?.itemRules, blob?.buyRules]
+    [heldRules, blob?.itemRules, blob?.buyRules]
   )
 
   const updateInventorySettings = useCallback(
     async (next: InventoryRuleSettings) => {
       if (userId == null) return
-      const { upserts, deletes } = writesFor(next.rules, held, userId)
+      const { upserts, deletes } = writesFor(next.rules, heldRules, userId)
       if (upserts.length > 0) {
         await upsertPages({
           pageTypeSlug: RULE_PAGE_TYPE_SLUG,
@@ -255,7 +235,7 @@ export function useInventorySettings() {
         })
       }
     },
-    [held, userId]
+    [heldRules, userId]
   )
 
   return {

@@ -41,6 +41,16 @@ export const hooksInventorySettings = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A write carries the whole blob merged onto the blob last read rather than one panel's section.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The panels outside this package read this copy rather than opening a second copy.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every panel reads that copy.",
     },
     {

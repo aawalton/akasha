@@ -29,6 +29,7 @@
     "./input": "./input/input.module.code.tsx",
     "./keyboard-registry": "./keyboard-registry/keyboard-registry.module.code.ts",
     "./label": "./label/label.module.code.tsx",
+    "./listener-set": "./listener-set/listener-set.module.code.ts",
     "./menubar": "./menubar/menubar.module.code.tsx",
     "./popover": "./popover/popover.module.code.tsx",
     "./popover-tokens": "./popover-tokens/popover-tokens.module.code.ts",

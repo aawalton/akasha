@@ -1,28 +1,14 @@
 "use client"
 
-import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
-import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
-import { upsertPage } from "@akasha/pages-access/upsert"
-import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
-import { usePages } from "@akasha/pages-ui/supabase/use-pages"
-import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type { InventoryLoggingSettings } from "@akasha/temper-items-core/inventory-logging-types"
 import {
   ALL_DESTRUCTIVE_ACTIONS,
   type InventorySafetySettings,
 } from "@akasha/temper-items-core/inventory-safety-types"
+import { useSettingsBlob } from "@akasha/temper-player-inventory-management-ui/hooks-inventory-settings"
 import type { ShoppingSettings } from "@akasha/temper-shopping/shopping-settings"
 import { isRecord } from "@akasha/utils-narrow/is-record"
-import type { Json } from "@akasha/utils-narrow/json-value"
-import { useCallback, useMemo } from "react"
-
-const PLAYER_PAGE_TYPE_SLUG = "temper-player"
-
-interface SettingsBlob {
-  logging?: InventoryLoggingSettings
-  safety?: InventorySafetySettings
-  shopping?: ShoppingSettings | Record<string, boolean>
-}
+import { useCallback } from "react"
 
 function isInventoryLoggingSettings(v: unknown): v is InventoryLoggingSettings {
   if (!isRecord(v)) return false
@@ -36,67 +22,12 @@ function isInventorySafetySettings(v: unknown): v is InventorySafetySettings {
   return v.confirmActions.every((a) => typeof a === "string")
 }
 
-function isShoppingSettingsLike(v: unknown): v is ShoppingSettings | Record<string, boolean> {
-  return isRecord(v)
-}
-
-function asSettingsBlob(value: unknown): SettingsBlob {
-  if (!isRecord(value)) return {}
-  const out: SettingsBlob = {}
-  if (isInventoryLoggingSettings(value.logging)) out.logging = value.logging
-  if (isInventorySafetySettings(value.safety)) out.safety = value.safety
-  if (isShoppingSettingsLike(value.shopping)) out.shopping = value.shopping
-  return out
-}
-
-function asJson(blob: SettingsBlob): Json {
-  return blob as Json
-}
-
 function isStringBooleanRecord(value: unknown): value is Record<string, boolean> {
   if (!isRecord(value)) return false
   for (const v of Object.values(value)) {
     if (typeof v !== "boolean") return false
   }
   return true
-}
-
-function useSettingsBlob() {
-  const userId = useUserId()
-  const { rows } = usePages({
-    pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
-    where:
-      userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }],
-    limit: 1,
-  })
-  const playerRow = rows[0]
-  const settings = useMemo<SettingsBlob>(() => {
-    return asSettingsBlob(playerRow?.settings)
-  }, [playerRow?.settings])
-  const runUpsert = useOptimisticUpsertPage((args) => upsertPage(args))
-
-  const rawWrite = useCallback(
-    async (next: SettingsBlob) => {
-      if (userId == null) return
-      const handle = typeof playerRow?.handle === "string" ? playerRow.handle : null
-      const profileMetadata = isRecord(playerRow?.profileMetadata) ? playerRow.profileMetadata : {}
-      await runUpsert({
-        pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
-        where: [{ key: "title", eq: userId }],
-        set: {
-          userId,
-          title: userId,
-          handle,
-          profileMetadata,
-          settings: asJson(next),
-        },
-      })
-    },
-    [runUpsert, userId, playerRow]
-  )
-
-  const write = useSingleFlight(rawWrite)
-  return { settings, write, userId }
 }
 
 const DEFAULT_LOGGING_SETTINGS: InventoryLoggingSettings = {
@@ -106,7 +37,9 @@ const DEFAULT_LOGGING_SETTINGS: InventoryLoggingSettings = {
 
 export function useLoggingSettings() {
   const { settings, write } = useSettingsBlob()
-  const loggingSettings = settings.logging ?? DEFAULT_LOGGING_SETTINGS
+  const loggingSettings = isInventoryLoggingSettings(settings.logging)
+    ? settings.logging
+    : DEFAULT_LOGGING_SETTINGS
 
   const updateLoggingSettings = useCallback(
     async (partial: Partial<InventoryLoggingSettings>) => {
@@ -128,7 +61,9 @@ const DEFAULT_SAFETY_SETTINGS: InventorySafetySettings = {
 
 export function useSafetySettings() {
   const { settings, write } = useSettingsBlob()
-  const safetySettings = settings.safety ?? DEFAULT_SAFETY_SETTINGS
+  const safetySettings = isInventorySafetySettings(settings.safety)
+    ? settings.safety
+    : DEFAULT_SAFETY_SETTINGS
 
   const updateSafetySettings = useCallback(
     async (partial: Partial<InventorySafetySettings>) => {
@@ -145,7 +80,10 @@ export function useSafetySettings() {
 
 export function useShoppingMarks() {
   const { settings, write } = useSettingsBlob()
-  const shoppingSettings = settings.shopping
+  const held = settings.shopping
+  const shoppingSettings = isRecord(held)
+    ? (held as ShoppingSettings | Record<string, boolean>)
+    : undefined
 
   const updateShoppingMarks = useCallback(
     async (keys: readonly string[]) => {
