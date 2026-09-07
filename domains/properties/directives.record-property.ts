@@ -1,6 +1,6 @@
 import type { List } from "@akasha/pages/page-property"
 import type { RecordProperty } from "@akasha/pages/record-property"
-import type { Act } from "./act.text-property.ts"
+import type { Act } from "./act.standard-agent-english-property.ts"
 import type { Aids } from "./aids.text-property.ts"
 import type { DirectiveKind } from "./directive-kind.relation-property.ts"
 import type { Name } from "./name.text-property.ts"
@@ -25,7 +25,7 @@ export const directives = {
   properties: [
     { pagePropertySlug: "relation-property/directive-kind", required: true, many: false },
     { pagePropertySlug: "text-property/name", required: true, many: false },
-    { pagePropertySlug: "text-property/act", required: true, many: false },
+    { pagePropertySlug: "standard-agent-english-property/act", required: true, many: false },
     { pagePropertySlug: "text-property/warrant", required: true, many: false },
     { pagePropertySlug: "text-property/aids", required: true, many: true, maxCount: 10 },
   ],

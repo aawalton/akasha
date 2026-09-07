@@ -45,7 +45,6 @@ export const value = {
   extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "text-property/label", required: true, many: false },
-    { pagePropertySlug: "text-property/description", required: false, many: false },
     { pagePropertySlug: "relation-property/value-color-slug", required: false, many: false },
     { pagePropertySlug: "number-property/place", required: true, many: false },
     { pagePropertySlug: "text-property/unit", required: false, many: false },
