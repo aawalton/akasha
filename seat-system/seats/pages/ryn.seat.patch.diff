@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-sets/lib-sets-const-base/lib-sets-const-base.module.ts b/temper/temper-lib-sets/lib-sets-const-base/lib-sets-const-base.module.ts
+index 296f2d9e9327de467bdad5bf35d42a0f4e10beb4..b513c1bea4ce91752080fff38b94de0fd71d44ee 100644
+--- a/temper/temper-lib-sets/lib-sets-const-base/lib-sets-const-base.module.ts
++++ b/temper/temper-lib-sets/lib-sets-const-base/lib-sets-const-base.module.ts
+@@ -13,7 +13,7 @@ export const libSetsConstBase = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "English is the language every other falls back to.",
++      statement: "English is the language every other language falls back to.",
+     },
+     {
+       invariantKind: "departure",
