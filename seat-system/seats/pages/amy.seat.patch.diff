@@ -1,3 +1,45 @@
+diff --git a/alan/harness/inboxes/count-watch-service/inbox-count-watch-service.workstation-service.ts b/alan/harness/inboxes/count-watch-service/inbox-count-watch-service.workstation-service.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..40802cc464a86b47533d40af5ddb31ab8fee56b1
+--- /dev/null
++++ b/alan/harness/inboxes/count-watch-service/inbox-count-watch-service.workstation-service.ts
+@@ -0,0 +1,36 @@
++import type { WorkstationService } from "@akasha/service-system/workstation-service"
++
++export const inboxCountWatchService = {
++  id: "01a079d9-1d24-75e7-83d0-5be4d56f6807",
++  pageTypeSlug: "workstation-service",
++  slug: "inbox-count-watch-service",
++  definition: "the service taking the task counts again the moment a page lands",
++  runs: [
++    "bun alan/harness/inboxes/inbox-count-watch/inbox-count-watch.module.code.ts https://alanwalton.com",
++  ],
++  enabled: true,
++  needsSecrets: true,
++  systemd: {
++    restart: "on-failure",
++    restartDelaySeconds: 5,
++    startLimitIntervalSeconds: 0,
++  },
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The unit running the watch is a simple one.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Repeated starts are counted over no window.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A watch failing all night keeps on.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The site the counts are carried to is named here rather than held as a secret.",
++    },
++  ],
++} as const satisfies WorkstationService
 diff --git a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts b/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
 index 2d2b191e487bb732ee0b4c1c7e5417c3f8f65e70..8d592b8b8473de3327cf5bc7f9b88f34820ea8f2 100644
 --- a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
