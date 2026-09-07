@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/sms-access/sms-discards/sms-discard.page-type.ts b/sms-access/sms-discards/sms-discard.page-type.ts
+index 48c908d6b7f2c51b86a699421db84a5760b95dcd..9c5e7557d1ceb36c5ae402a073a1cda0d58dd0c3 100644
+--- a/sms-access/sms-discards/sms-discard.page-type.ts
++++ b/sms-access/sms-discards/sms-discard.page-type.ts
+@@ -39,7 +39,7 @@ export const smsDiscard = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A discard's slug is the instant the message was thrown away, colon and dot as hyphen.",
++        "A discard's slug is the instant the message was thrown away with colon and dot as hyphen.",
+     },
+     {
+       invariantKind: "gap",
