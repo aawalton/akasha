@@ -2734,6 +2734,7 @@
     "temper/temper-trading-addon": {
       "name": "@akasha/temper-trading-addon",
       "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-capture-perf": "workspace:*",
