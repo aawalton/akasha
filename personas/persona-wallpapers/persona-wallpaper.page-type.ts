@@ -3,7 +3,7 @@ import type { EsoDay } from "../../alan/tracking/daily/eso-days/properties/eso-d
 import type { Description } from "../../pages/properties/description.text-property.ts"
 import type { RelationshipLevel } from "../closeness-levels/properties/relationship-level.number-property.ts"
 import type { Stage } from "../closeness-levels/properties/stage.text-property.ts"
-import type { PersonaImage } from "../persona-images/persona-image.page-type.ts"
+import type { PersonaImage } from "../images/persona-image.page-type.ts"
 import type { ValueSlug } from "../properties/value-slug.text-property.ts"
 
 export type PersonaWallpaper = PersonaImage & {
