@@ -1,11 +1,11 @@
-import type { ChangeMechanicalFile } from "../../file/change-mechanical-file.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../file-content/change-mechanical-file-content.page-type.ts"
 
 export const changeFile = {
   id: "01a07810-fb33-7e75-8e1e-ce1e302d5668",
-  pageTypeSlug: "change-mechanical-file",
+  pageTypeSlug: "change-mechanical-file-content",
   slug: "change-file",
   changeModeSlug: "change-mode-change",
-  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetTypeSlug: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file",
   definition: "one passage of one body replaced by another, with nothing else judged",
   code: "ts",
@@ -47,4 +47,4 @@ export const changeFile = {
       statement: "Nothing here reads the disk.",
     },
   ],
-} as const satisfies ChangeMechanicalFile
+} as const satisfies ChangeMechanicalFileContent
