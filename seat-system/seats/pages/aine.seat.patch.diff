@@ -1,0 +1,345 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index a851f1a06cd4f9da91f9a6fd79cb3be745918fba..57f1e624c9e0b2df0c3ce249a108346df626c785 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -25,7 +25,7 @@ export const changeMechanical = {
+     "change-mechanical/move-file",
+     "change-mechanical-file/remove-file",
+     "change-mechanical-file/remove-code-file",
+-    "change-mechanical/remove-page-file",
++    "change-mechanical-file/remove-page-file",
+     "change-mechanical/rename-imports",
+     "change-mechanical/change-page-property",
+     "change-mechanical/change-page-property-relation",
+diff --git a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.code.ts b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d8fedba00a3c9568f8b4cf022540f5db88508f45
+--- /dev/null
++++ b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.code.ts
+@@ -0,0 +1,17 @@
++import { pageNamed } from "@akasha/pages/page-file-name"
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++
++const REMOVE_CODE_FILE = "change-mechanical-file/remove-code-file"
++
++export type Asked = {
++  readonly at: string
++}
++
++export async function runChange(world: World, given: Asked): Promise<Answer> {
++  if (!pageNamed(given.at, world.index.pageTypesIn())) {
++    return refusing(`\`${given.at}\` is under no page name, so this change takes nothing away`)
++  }
++  return (await reach(world, REMOVE_CODE_FILE, { at: given.at })).said
++}
+diff --git a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.test.ts b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cca518e6924c3c2583c09b490d4b100f5cb13f43
+--- /dev/null
++++ b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.test.ts
+@@ -0,0 +1,75 @@
++import { afterAll, expect, test } from "bun:test"
++import {
++  HELD_CODE,
++  HELD_PAGE,
++  indexedRepo,
++  scratch,
++  textIn,
++} from "@akasha/indexes/indexing/testing"
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import {
++  type Reaching,
++  type World,
++  worldAt,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { runChange as removeCodeFile } from "../remove-code-file/remove-code-file.change-mechanical-file.code.ts"
++import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
++import { runChange } from "./remove-page-file.change-mechanical-file.code.ts"
++
++const REMOVE_CODE_FILE = "change-mechanical-file/remove-code-file"
++
++const REMOVE_FILE = "change-mechanical-file/remove-file"
++
++const RUNS: Reaching = (world, at, given) => {
++  if (at === REMOVE_CODE_FILE) return removeCodeFile(world, given as { at: string })
++  if (at === REMOVE_FILE) return Promise.resolve(removeFile(given as { at: string }, world.textOf))
++  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
++}
++
++afterAll(scratch.sweep)
++
++function worldIn(root: string): World {
++  return worldAt(root, textIn(root), RUNS)
++}
++
++test("a page path is taken away by the change this change reaches", async () => {
++  const root = indexedRepo()
++  const was = textIn(root)
++
++  const said = await runChange(worldIn(root), { at: HELD_PAGE })
++
++  expect(said.refused).toBe(null)
++  expect(said.edits).toEqual([{ path: HELD_PAGE, was: was(HELD_PAGE) ?? "", body: null }])
++})
++
++test("a path beside a page is refused", async () => {
++  const root = indexedRepo()
++
++  const said = await runChange(worldIn(root), { at: HELD_CODE })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(
++    `\`${HELD_CODE}\` is under no page name, so this change takes nothing away`
++  )
++})
++
++test("a path under no page type is refused", async () => {
++  const root = indexedRepo()
++  const at = "akasha/one/fresh.notatype.ts"
++
++  const said = await runChange(worldIn(root), { at })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${at}\` is under no page name, so this change takes nothing away`)
++})
++
++test("a refusal from the change this change reaches comes back", async () => {
++  const root = indexedRepo()
++  const was = textIn(root)
++  const reading = (path: string): string | null => (path === HELD_PAGE ? null : was(path))
++
++  const said = await runChange(worldAt(root, reading, RUNS), { at: HELD_PAGE })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${HELD_PAGE}\` holds no body, so a removal takes nothing away`)
++})
+diff --git a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.ts b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..727f4149233f1d6831d3c3a1a412ccc0b2940e0b
+--- /dev/null
++++ b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.ts
+@@ -0,0 +1,39 @@
++import type { ChangeMechanicalFile } from "../../file/change-mechanical-file.page-type.ts"
++
++export const removePageFile = {
++  id: "01a079a5-8d4a-70e6-a33b-73d49d514b05",
++  pageTypeSlug: "change-mechanical-file",
++  slug: "remove-page-file",
++  definition: "one page file taken away, with the relations and the files beside that page judged",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++  guardSlugs: [
++    "change-guard/relation-not-left-hanging",
++    "change-guard/claimed-file-not-left-behind",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A path under no page name is refused here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The page types a name is read against are the ones the world files.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The file is taken away by the change this change reaches.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The relations naming the page are judged by a guard this change names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The files beside the page are judged by a guard this change names.",
++    },
++  ],
++} as const satisfies ChangeMechanicalFile
+diff --git a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical.code.ts b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical.code.ts
+deleted file mode 100644
+index d8fedba00a3c9568f8b4cf022540f5db88508f45..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical.code.ts
++++ /dev/null
+@@ -1,17 +0,0 @@
+-import { pageNamed } from "@akasha/pages/page-file-name"
+-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-
+-const REMOVE_CODE_FILE = "change-mechanical-file/remove-code-file"
+-
+-export type Asked = {
+-  readonly at: string
+-}
+-
+-export async function runChange(world: World, given: Asked): Promise<Answer> {
+-  if (!pageNamed(given.at, world.index.pageTypesIn())) {
+-    return refusing(`\`${given.at}\` is under no page name, so this change takes nothing away`)
+-  }
+-  return (await reach(world, REMOVE_CODE_FILE, { at: given.at })).said
+-}
+diff --git a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical.test.ts b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical.test.ts
+deleted file mode 100644
+index e8918d1cc1d28319883f7a2e1bd288720137eab6..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical.test.ts
++++ /dev/null
+@@ -1,75 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import {
+-  HELD_CODE,
+-  HELD_PAGE,
+-  indexedRepo,
+-  scratch,
+-  textIn,
+-} from "@akasha/indexes/indexing/testing"
+-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+-import {
+-  type Reaching,
+-  type World,
+-  worldAt,
+-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { runChange as removeCodeFile } from "../remove-code-file/remove-code-file.change-mechanical-file.code.ts"
+-import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
+-import { runChange } from "./remove-page-file.change-mechanical.code.ts"
+-
+-const REMOVE_CODE_FILE = "change-mechanical-file/remove-code-file"
+-
+-const REMOVE_FILE = "change-mechanical-file/remove-file"
+-
+-const RUNS: Reaching = (world, at, given) => {
+-  if (at === REMOVE_CODE_FILE) return removeCodeFile(world, given as { at: string })
+-  if (at === REMOVE_FILE) return Promise.resolve(removeFile(given as { at: string }, world.textOf))
+-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+-}
+-
+-afterAll(scratch.sweep)
+-
+-function worldIn(root: string): World {
+-  return worldAt(root, textIn(root), RUNS)
+-}
+-
+-test("a page path is taken away by the change this change reaches", async () => {
+-  const root = indexedRepo()
+-  const was = textIn(root)
+-
+-  const said = await runChange(worldIn(root), { at: HELD_PAGE })
+-
+-  expect(said.refused).toBe(null)
+-  expect(said.edits).toEqual([{ path: HELD_PAGE, was: was(HELD_PAGE) ?? "", body: null }])
+-})
+-
+-test("a path beside a page is refused", async () => {
+-  const root = indexedRepo()
+-
+-  const said = await runChange(worldIn(root), { at: HELD_CODE })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(
+-    `\`${HELD_CODE}\` is under no page name, so this change takes nothing away`
+-  )
+-})
+-
+-test("a path under no page type is refused", async () => {
+-  const root = indexedRepo()
+-  const at = "akasha/one/fresh.notatype.ts"
+-
+-  const said = await runChange(worldIn(root), { at })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(`\`${at}\` is under no page name, so this change takes nothing away`)
+-})
+-
+-test("a refusal from the change this change reaches comes back", async () => {
+-  const root = indexedRepo()
+-  const was = textIn(root)
+-  const reading = (path: string): string | null => (path === HELD_PAGE ? null : was(path))
+-
+-  const said = await runChange(worldAt(root, reading, RUNS), { at: HELD_PAGE })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(`\`${HELD_PAGE}\` holds no body, so a removal takes nothing away`)
+-})
+diff --git a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical.ts b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical.ts
+deleted file mode 100644
+index 645a4b020748250fe6c85975956bc838832abf18..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical.ts
++++ /dev/null
+@@ -1,39 +0,0 @@
+-import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+-
+-export const removePageFile = {
+-  id: "01a079a5-8d4a-70e6-a33b-73d49d514b05",
+-  pageTypeSlug: "change-mechanical",
+-  slug: "remove-page-file",
+-  definition: "one page file taken away, with the relations and the files beside that page judged",
+-  code: "ts",
+-  test: "ts",
+-  runsChecks: false,
+-  readersOweReading: false,
+-  writerOwesReading: false,
+-  guardSlugs: [
+-    "change-guard/relation-not-left-hanging",
+-    "change-guard/claimed-file-not-left-behind",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A path under no page name is refused here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The page types a name is read against are the ones the world files.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The file is taken away by the change this change reaches.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The relations naming the page are judged by a guard this change names.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The files beside the page are judged by a guard this change names.",
+-    },
+-  ],
+-} as const satisfies ChangeMechanical
+diff --git a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
+index d2000bf24719aa1726f68e27d63da718cbfd51b8..3aebc6394b405f386c70e5ac30f006ff9da7a6fb 100644
+--- a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
++++ b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
+@@ -24,7 +24,7 @@ const REMOVE_FILE = "change-mechanical-file/remove-file"
+ 
+ const REMOVE_CODE_FILE = "change-mechanical-file/remove-code-file"
+ 
+-const REMOVE_PAGE_FILE = "change-mechanical/remove-page-file"
++const REMOVE_PAGE_FILE = "change-mechanical-file/remove-page-file"
+ 
+ const REMOVE_PROPERTY_VALUE = "change-mechanical/remove-property-value"
+ 
+diff --git a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.test.ts b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.test.ts
+index 5334c4cde6f84dbf57aa8c688fa919caa71d0308..20618f27d1536820be6d503dc8b6ab0018aba5d4 100644
+--- a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.test.ts
++++ b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.test.ts
+@@ -32,13 +32,13 @@ import {
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { runChange as removeCodeFile } from "../remove-code-file/remove-code-file.change-mechanical-file.code.ts"
+ import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
+-import { runChange as removePageFile } from "../remove-page-file/remove-page-file.change-mechanical.code.ts"
++import { runChange as removePageFile } from "../remove-page-file/remove-page-file.change-mechanical-file.code.ts"
+ import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
+ import { parentsOf, removePage } from "./remove-page.change-mechanical.code.ts"
+ 
+ type Unnaming = { at: string; key: string; value: string }
+ 
+-const REMOVE_PAGE_FILE = "change-mechanical/remove-page-file"
++const REMOVE_PAGE_FILE = "change-mechanical-file/remove-page-file"
+ 
+ const REMOVE_CODE_FILE = "change-mechanical-file/remove-code-file"
+ 
