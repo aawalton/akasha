@@ -1,0 +1,23 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index b42da9ddb9a3a03e91ac86dec210a9b91d4ceaae..e5f96811fc6f4bcd7ac9278bd1c24d5f095a4c6c 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -30,7 +30,7 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "An applied patch runs the checks and the warrants its changes call for.",
+       workingMemory:
+-        "`owedIn` has two production callers, `write` and `edit`, so the read record and the 41 taboo terms guard those two alone. `lint-exception` and `patch` declare `change-authored`, whose data says they owe reads, and never ask. `--break-the-glass` bypasses the warrant at `write` and `edit` and the checks everywhere else: one spelling, two gates.",
++        "`owedIn` is called by `write`, `edit`, `replace` and by the apply, which warrants every row whose writer owes reading before the edits fold. A row saying nothing of its writer is warranted, so a flag lost reads as owing. `--break-the-glass` passes the checks and passes no warrant. Left: `lint-exception` and `patch` declare `change-authored`, whose data says they owe reads, and never ask.",
+     },
+     {
+       statement: "One command run carries several changes, each judged by its own requirements.",
+@@ -65,7 +65,7 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "Every change page is mechanical, checked or authored.",
+       workingMemory:
+-        "`change-checked` and `change-authored` are the page types `akasha change` dispatches over, at `change.command.code.ts:58`, so the page type carries whether a change is reached from the command line. A mechanical change is a building block a checked change composes, and no command line reaches a mechanical change. One slug sits under two page types, which `slug` allows by being unique per page type, so `add-file` and `change-file` each name a mechanical page and an authored page. `change-partial` is taken away. Left: `change-command` names no page and is still dispatched over.",
++        "The four page types `akasha change` dispatches over are named at `change.command.code.ts:58`, so the page type carries whether a change is reached from the command line. A mechanical change is a building block a checked change composes, and no command line reaches a mechanical change. One slug sits under two page types, which `slug` allows by being unique per page type, so `add-file` and `change-file` each name a mechanical page and an authored page. Left: `change-command` names no page and is still dispatched over.",
+     },
+     {
+       statement: "Removing a page, a page type and a page property are three peer changes.",
