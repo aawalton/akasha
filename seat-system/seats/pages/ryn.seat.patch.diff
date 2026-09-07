@@ -1,0 +1,12 @@
+diff --git a/archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.router-app.ts b/archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.router-app.ts
+index 6257854d6326d5f58d1d4dbbfc83c3f6cc529731..9c6461654fe0c560c803e9596f634658c09c3b9a 100644
+--- a/archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.router-app.ts
++++ b/archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.router-app.ts
+@@ -12,6 +12,7 @@ export const archiveOfWorldsWeb = {
+   serverEntry: "tsx",
+   routerConfig: "ts",
+   compileConfig: "json",
++  viteConfig: "ts",
+   partSlugs: [
+     "manifest/archive-of-worlds-web-manifests",
+     "stylesheet/archive-of-worlds-web-look",
