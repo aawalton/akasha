@@ -51,6 +51,31 @@ export const apply = {
     },
     {
       invariantKind: "departure",
+      statement: "The edits are formatted after the edits are gathered rather than before.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A gather reads the body an earlier edit left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Formatting first would leave the later edit reading another body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fold that made nothing is put back by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row appended while the apply ran follows the rows put back.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A row saying nothing of its readers leaves the readers of that path owing the reading.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A draft the patch refuses leaves the edits where the edits are.",
     },
     {

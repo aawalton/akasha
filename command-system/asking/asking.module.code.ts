@@ -93,7 +93,7 @@ export function formattingIn(root: string, changes: readonly FileEdit[]): Format
       held.push(one)
       continue
     }
-    held.push({ path: one.path, body: said.body })
+    held.push({ ...one, body: said.body })
     formatted.push(one.path)
   }
   return { changes: held, formatted }
@@ -105,10 +105,6 @@ export type Prepared = {
   readonly said: readonly string[]
 }
 
-// Each of these three rewrites the change set the gate judges, so all three are worked out
-// before the landing takes the hold and the hold covers the commit alone. The install is not
-// among them: it moves what is on disk rather than what the change carries, so it runs once the
-// hold is given up.
 export function preparing(root: string, base: string, changes: readonly FileEdit[]): Prepared {
   const formatting = formattingIn(root, changes)
   const locking = lockingFor(root, base, formatting.changes)

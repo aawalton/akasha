@@ -133,6 +133,15 @@ export const asking = {
     },
     {
       invariantKind: "departure",
+      statement: "The address map is worked out before the hold is taken alongside those three.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Formatting a body leaves every other thing the change says about that path unchanged.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every road that lands works those three out through one step here.",
     },
     {

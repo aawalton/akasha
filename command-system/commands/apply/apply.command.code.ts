@@ -27,7 +27,7 @@ const BARE: readonly string[] = []
 
 const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
 
-const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: false }
+const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
 
 export type Unfold = { readonly patch: string | null; readonly rows: readonly Edit[] }
 
@@ -43,11 +43,6 @@ function bytesOf(body: string | null): Uint8Array | null {
   return body === null ? null : BYTES.encode(body)
 }
 
-// The gate judges the body the landing writes, so a body is formatted before that body is judged.
-// A body is formatted after the edits are gathered rather than before, because gathering reads the
-// body an earlier edit left, and formatting a body first leaves the later edit reading another.
-// A layout the formatter mends is applied rather than refused, and what a check refuses is what no
-// formatter can mend.
 export function formattedEdits(root: string, rows: readonly Edit[]): readonly Edit[] {
   return rows.map((one) => {
     if (one.body === null) return one
@@ -59,22 +54,23 @@ export function formattedEdits(root: string, rows: readonly Edit[]): readonly Ed
 export function draftsOf(edits: readonly Edit[]): readonly Draft[] {
   const held: Draft[] = []
   for (const one of edits) {
+    const owed = one.readersOweReading
     const came = one.from
     if (came !== undefined && came !== one.path) {
-      held.push({ path: came, was: bytesOf(one.was), body: null })
-      held.push({ path: one.path, was: null, body: bytesOf(one.body) })
+      held.push({ path: came, was: bytesOf(one.was), body: null, readersOweReading: owed })
+      held.push({ path: one.path, was: null, body: bytesOf(one.body), readersOweReading: owed })
       continue
     }
-    held.push({ path: one.path, was: bytesOf(one.was), body: bytesOf(one.body) })
+    held.push({
+      path: one.path,
+      was: bytesOf(one.was),
+      body: bytesOf(one.body),
+      readersOweReading: owed,
+    })
   }
   return held
 }
 
-// What the fold found is answered beside what the fold made, so a caller landing the patch after
-// this can put the fold back where the landing refuses. A fold that made nothing answers no unfold,
-// because putting back a patch no fold wrote would take away the patch the agent already held. A
-// row for a body written again on every apply is named as dropped rather than folded, because a row
-// going without being named reads as a row that landed.
 export function folding(root: string, page: string): Folded {
   let answer: Folded = { folded: [], dropped: [], unfold: null }
   const kept = keptEdits(root, page, (had) => {
@@ -108,8 +104,6 @@ export function folding(root: string, page: string): Folded {
   return "why" in kept ? { refusals: [kept.why] } : answer
 }
 
-// The edits are judged where the edits are kept, so a refusal leaves the edits beside the agent's
-// page for another change to mend rather than in a patch no change reaches.
 async function refusedBefore(root: string, page: string): Promise<readonly string[]> {
   const kept = keptEdits(root, page, (had) => had)
   if ("why" in kept) return [kept.why]
@@ -124,11 +118,6 @@ async function refusedBefore(root: string, page: string): Promise<readonly strin
   return said.map((one) => `${one.path} — ${one.reason}`)
 }
 
-// The fold and the apply are one act, so an apply that refuses puts the edits back where the fold
-// found them, for a change to mend rather than a hand. Whether the apply landed is read off the
-// patch rather than off the refusals, because an apply that lands and then refuses something
-// carries refusals too, and the patch it landed is gone. A row appended while the apply ran follows
-// the rows put back, which is the order the rows were appended in.
 export function undone(root: string, page: string, unfold: Unfold): string | null {
   if (patchIn(root, page) === null) return null
   putBack(root, page, unfold.patch)
