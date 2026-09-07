@@ -41,7 +41,7 @@ export const talosHealth = {
     },
     {
       invariantKind: "departure",
-      statement: "An address list is read as its comma-separated parts, trimmed.",
+      statement: "An address list is read as its trimmed comma-separated parts.",
     },
     {
       invariantKind: "departure",
