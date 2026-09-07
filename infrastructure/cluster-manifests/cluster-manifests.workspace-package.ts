@@ -6,6 +6,7 @@ export const clusterManifests = {
   slug: "cluster-manifests",
   definition: "the Kubernetes manifests each part of the cluster is applied as",
   manifest: "json",
+  tunnelRoutes: "ts",
   partSlugs: [
     "module/alanwalton-web-rbac",
     "module/app-namespaces-synth",

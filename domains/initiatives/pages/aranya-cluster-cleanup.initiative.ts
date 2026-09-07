@@ -20,17 +20,17 @@ export const aranyaClusterCleanup = {
     {
       statement: "All cluster-specific files are in the cluster/ folder.",
       workingMemory:
-        "`infrastructure/cluster/` holds `api`, `provisioning`, `k8s-types` and `k8s-synth`. Left are `infrastructure/cluster-manifests`, `infrastructure/cluster-operations` and `service-system/cluster-services`, which goes to `cluster/services/` whole. Each is blocked by a file no page claims, which a move refuses: `nodes.json`, `tunnel-routes.ts`, `registry.conf` and two grafana json files. A named-file-property page claims each, the grafana pair with `runsFileLength: false`.",
+        "Left to move are `infrastructure/cluster-manifests`, `infrastructure/cluster-operations` and `service-system/cluster-services`, which goes to `cluster/services/` whole. Five files no page claimed blocked them, not four: `nodes.json` and `registry.conf` are deleted into what already held their values, `config-header.yaml` is a `cluster-service` sidecar, the grafana three are dashboard pages, and `tunnel-routes.ts` is left.",
     },
     {
       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
       workingMemory:
-        "`openingWith` refuses a folder whose name equals or opens with the name of the page above it, so `cluster-manifests`, `cluster-operations` and `cluster-services` lose the prefix as each moves under `cluster/`. `api` and `provisioning` already have. Folder names only; slugs and npm names are untouched. An earlier run also failed on `tunnel-routes.ts`, `nodes.json`, an undeclared `cluster-secrets` and two domain pages in `cluster/provisioning`. Those counts are re-run rather than kept.",
+        "Renaming the three folders to `manifests`, `operations` and `services` under `cluster/` adds no refusal and removes none, measured by running the check over a seeded layout. `cluster/` carries 18 refusals: 16 folders under `provisioning/talos/` open with `talos`, `cluster-api-fetch` opens with `cluster-api`, and `provisioning` holds two domain pages where a shape allows one. The check states no phase, so only a direct run measures it.",
     },
     {
       statement: "The workflow language and its templates sit in cluster/workflow/.",
       workingMemory:
-        "Both sit under `changes/` now, beside a change system they are no part of. `workflow-cloudflared.workflow-template.declaration.ts:138` runs jq over `infrastructure/cluster-operations/nodes.json` selecting `.hostname`, and those records carry `id`, `host`, `user` and `keyPath` and no `hostname`, so that step adds no DNS record at all. The move carries that reader with it, and fixing the field is part of the move rather than a separate errand.",
+        "Both sit under `changes/`. All 38 declarations reach the language by its package name, so a move breaks no import, and only `bun.lock` and one comment spell either folder's path. A seeded run of `folder-matches-a-shape` over the whole layout under `cluster/workflow/` refused nothing, though the parent folder's own verdict is unproven: a probe cannot file a new page into the committed index.",
     },
   ],
 } as const satisfies Initiative

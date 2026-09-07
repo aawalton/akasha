@@ -79,7 +79,7 @@ scrape_configs:
         replacement: \${1}:9400
 
   # Cloudflared metrics — the tunnel pods expose /metrics + /ready on :2000
-  # (config-header.yaml binds metrics: 0.0.0.0:2000). Scraped via pod
+  # (cloudflared.cluster-service.config.yaml binds metrics: 0.0.0.0:2000). Scraped via pod
   # service-discovery (mirroring the cnpg-pods / promtail jobs), NOT a static
   # Service-DNS target: the Deployment runs 2 replicas and no backing Service
   # named 'cloudflared' ever existed, so the old static target

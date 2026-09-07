@@ -313,7 +313,7 @@ usage() {
   echo "  --repo <name>      Filter to a single repo (list only)"
   echo ""
   echo "Environment:"
-  echo "  REGISTRY_URL       Registry endpoint (default: https://registry.registry.svc.cluster.local:5000)"
+  echo "  REGISTRY_URL       Registry endpoint (default: https://${CONTAINER_REGISTRY})"
   echo "  RETAIN_COUNT       SHA tags to keep per repo (default: 10)"
   echo "  REGISTRY_NS        K8s namespace (default: registry)"
   exit 1

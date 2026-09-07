@@ -53,9 +53,5 @@ export const workflowTemplate = {
       invariantKind: "departure",
       statement: "The runner gathers every workflow declaration.",
     },
-    {
-      invariantKind: "gap",
-      statement: "The workflow language a declaration is written in is outside akasha.",
-    },
   ],
 } as const satisfies PageType
