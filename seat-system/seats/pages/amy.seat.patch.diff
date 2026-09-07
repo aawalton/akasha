@@ -39,25 +39,3 @@ index c16810154507b0b3ede830913f399437b4ca181c..21ce5b794a601eb620699f2842f87ff8
  }
  
  function definitionOf(one: Declaration): PropertyDefinition {
-diff --git a/pages/access/file-property-defs/file-property-defs.module.ts b/pages/access/file-property-defs/file-property-defs.module.ts
-index 51019b542c1a29e0e85cde03ef9a89158786be18..60af44ea1452789c72f970cd7c663856f2b5e1d5 100644
---- a/pages/access/file-property-defs/file-property-defs.module.ts
-+++ b/pages/access/file-property-defs/file-property-defs.module.ts
-@@ -37,5 +37,17 @@ export const filePropertyDefs = {
-       statement:
-         "A definition's type is how a value is rendered rather than the page type declaring that property.",
-     },
-+    {
-+      invariantKind: "departure",
-+      statement: "Every property page type is named here with the type a screen draws it as.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A property page type named nowhere here is rendered as text.",
-+    },
-+    {
-+      invariantKind: "absence",
-+      statement: "No type a screen has no drawing for leaves here.",
-+    },
-   ],
- } as const satisfies Module
