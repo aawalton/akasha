@@ -1,0 +1,20 @@
+diff --git a/alan/web/capacitor-cors/capacitor-cors.module.code.ts b/alan/web/capacitor-cors/capacitor-cors.module.code.ts
+index 4e9f65a26a1ed025a980744b19fad4fe62fb3af6..a71b10d00326a6afb4715ceb513739ddbae88b60 100644
+--- a/alan/web/capacitor-cors/capacitor-cors.module.code.ts
++++ b/alan/web/capacitor-cors/capacitor-cors.module.code.ts
+@@ -25,3 +25,15 @@ export function withCors(headers: Headers, cors: Record<string, string>): Header
+   for (const [key, value] of Object.entries(cors)) headers.set(key, value)
+   return headers
+ }
++
++export function corsPreflight(cors: Record<string, string>): Response {
++  return new Response(null, { status: 204, headers: withCors(new Headers(), cors) })
++}
++
++export function corsAnswered(answered: Response, cors: Record<string, string>): Response {
++  if (Object.keys(cors).length === 0) return answered
++  return new Response(answered.body, {
++    status: answered.status,
++    headers: withCors(new Headers(answered.headers), cors),
++  })
++}
