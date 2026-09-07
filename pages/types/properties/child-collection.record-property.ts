@@ -29,8 +29,11 @@ export const childCollection = {
     },
     {
       invariantKind: "stopgap",
-      statement:
-        "Each key here repeats this record's name because the reader outside names that key so.",
+      statement: "Each key here repeats this record's name.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "The reader outside names that key so.",
     },
   ],
 } as const satisfies RecordProperty
