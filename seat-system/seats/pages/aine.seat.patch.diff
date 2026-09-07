@@ -195,6 +195,44 @@ index 0000000000000000000000000000000000000000..ec15ac4b3e2209cb37794f498aecf3ae
 +
 +  expect(said.refused).toContain("already carries")
 +})
+diff --git a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.ts b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9a03679a73369da225532c875f3ab212ce4630e9
+--- /dev/null
++++ b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.ts
+@@ -0,0 +1,32 @@
++import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
++
++export const renamePageAddress = {
++  id: "01a07bd4-2e44-7514-afaa-593ff1189bdb",
++  pageTypeSlug: "change-mechanical",
++  slug: "rename-page-address",
++  definition: "one page's address restated wherever a body spells that address",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "An address is restated wherever a body spells that address rather than only where a page names the page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A spelling is found by the parse rather than by matching the text of the body.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body spelling the address nowhere is read and left alone.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A slug naming the page without its page type is left as that slug is.",
++    },
++  ],
++} as const satisfies ChangeMechanical
 diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
 index ebeb99db3d25eea1cca5bb5e2c4875ca311d370b..884cc9fe1f84fb1b71bbf4da968610d028cbc577 100644
 --- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
