@@ -1,0 +1,387 @@
+The restricted research wing occupied the old boiler house at the rear of the mill.
+
+A steel door separated it from the main factory floor. Two armed guards stood outside. The door itself had two locks: one mechanical, one rune-keyed.
+
+The guard checked my identity, checked Augustin's, then opened the door.
+
+Augustin had returned from his office to accompany me to the research wing, ledgers tucked beneath one arm.
+
+A deafening crack thundered through the steel door ahead of us. The sound rolled down the corridor, followed by the low groan of overstressed metal.
+
+Augustin flinched.
+
+"What was that?"
+
+"A failed test," I said.
+
+"A failed test of what?"
+
+"Hopefully not the roof."
+
+We passed through the first chamber.
+
+The room had once housed the mill's boilers. The old brick furnace mouths remained along the far wall. Rolf had converted the central space into a test range.
+
+A waist-high rail assembly sat at the room's center.
+
+It was not a cannon. But it was too large to be mistaken for a pistol.
+
+The ironwood frame was almost five meters long, mounted on a reinforced wheeled cradle. Two heavy copper rails ran through the center, each one as thick as my wrist. Crystal housings had been fixed along the frame in a sequence of six slots rather than one. Most were empty.
+
+A thick shield of layered sand-packed timber stood at the far end of the range. The shield had already been hit several times.
+
+Three fist-sized craters marked its center.
+
+The fourth crater had melted into a ragged hole.
+
+Rolf stood beside a chalkboard covered in glyph diagrams.
+
+He looked worse than when I had left.
+
+His robes had been replaced by a stained work shirt. His wiry frame had become even thinner. Dark crescents sat beneath his eyes. His hair, which had never been disciplined, had reached a state that suggested he had attempted to solve a high-current mana problem by placing both hands inside it.
+
+He was arguing with two people.
+
+One was a narrow young man with close-cropped brown hair, sleeves rolled above his elbows, and chalk ground into the creases of his fingers. He stood near the rail assembly holding a copper plate covered in hand-drawn calculations.
+
+The other was a young woman with dark hair braided tightly down her back. She wore thick protective lenses over one eye and held a small hammer in one hand.
+
+"The power does not need to enter all six crystal housings simultaneously," the young man said. "If we stagger the charge through the crystal bank, we avoid the initial thermal spike."
+
+"And lose projectile velocity," the woman replied. "The copper does not fail because the first charge is too strong. It fails because your recursive loop has nowhere to bleed the excess heat after the projectile leaves the acceleration channel."
+
+"It can be redirected."
+
+"Into what?"
+
+Rolf saw me first.
+
+The argument stopped.
+
+"Kaspar," he said.
+
+His face brightened.
+
+"You are alive."
+
+"I have been told."
+
+"You were supposed to return two days from now."
+
+"I walked quickly."
+
+"Across a desert?"
+
+"I had help."
+
+Rolf looked at the state of my clothes. The dust still ground into the seams of my boots. The pistol at my hip.
+
+Then he looked at the rail assembly.
+
+"I assume you want to know whether we can kill a Titan with that."
+
+"Yes."
+
+"Then the answer is not yet."
+
+He said it without shame.
+
+He crossed the room and motioned to the two researchers.
+
+"These are Ansel Reiter and Hanna Volker," he said. "Ansel specializes in high-current glyph architecture. Hanna studies mana fatigue in metals and materials."
+
+The young man set down his copper plate and bowed.
+
+"Lord Kaspar," Ansel said. His voice was careful, but his eyes kept drifting toward the rail assembly. "It is an honor to work with you."
+
+Hanna gave a sharper bow, hammer still in hand.
+
+"It is good to meet the man who gave Rolf Mercer an impossible problem," she said.
+
+Rolf frowned.
+
+"I gave myself the impossible problem."
+
+Hanna looked at him.
+
+"You accepted the money."
+
+"That is not the same thing."
+
+The corner of my mouth pulled upward.
+
+"Just Kaspar," I said. "Not Lord Kaspar."
+
+Ansel blinked.
+
+Hanna did not.
+
+"Your rail-pistol design is structurally reckless."
+
+"Thank you."
+
+"It is impressive," she added. "But reckless."
+
+"Also true."
+
+Rolf stepped between us before Hanna could continue dismantling my work in public.
+
+"The pistol works because it discharges a limited amount of mana through a short acceleration channel," he said, pointing to the chalkboard. "The cannon requires a much larger projectile, a longer rail length, and a power output that would liquefy the current copper structure if we simply scaled the pistol architecture."
+
+He tapped a line on the board where two diagrams diverged.
+
+"Two problems. Power delivery. Structural survival. Solve either alone and the other still kills you."
+
+Ansel stepped forward and tapped one of the chalk marks.
+
+"The Grade AA crystal can provide the energy," he said. "Theoretically. The problem is not total energy. It is release timing. If we dump everything into the rails at once, the projectile either vaporizes before it leaves the chamber or the rails explode outward." He traced the recursive loop on the board. "And after the projectile exits, the remaining charge has nowhere to bleed. The heat stays inside the loop, builds, and destroys the channel from within."
+
+"That is the energy wall," Rolf said flatly.
+
+Hanna lifted the warped metal sample with her tongs.
+
+"And here is the materials wall." She turned the copper plate so the light caught its deformation. "Even if Ansel solves the timing, this is what one shot already does — and we are nowhere near full scale. Copper accepts the glyphwork cleanly, better than any other metal we have. But it does not forgive heat. At projected power, one discharge and the rails bend. Two, and they fuse. Three does not happen."
+
+"So find a better metal," I said.
+
+"There is no better metal," Hanna said. "Not one that takes glyphwork and survives this temperature. We need something that does not exist yet. Or something nobody has thought to use."
+
+I opened Mana Perception.
+
+The room changed.
+
+The physical shapes remained. But beneath them, the mana signals came alive.
+
+Rolf's recursive glyph architecture threaded through the cannon frame in looping channels. I could see the altered direction of the flow, the way he had reversed the recycling system to create an accelerating cascade. The structure was elegant.
+
+And unstable.
+
+At the fourth crystal housing, the mana path narrowed too sharply. The pressure built there, compressed, then splintered outward along a dozen minor runes meant to stabilize the rail energy.
+
+The entire system was a throat trying to swallow a river.
+
+I stepped closer.
+
+"The fourth junction," I said.
+
+Rolf went still.
+
+"What about it?"
+
+"The flow pinches there. It backs up against the secondary lattice before the discharge channel takes it."
+
+Ansel stared.
+
+"You can see that?"
+
+"In a way."
+
+Hanna removed the protective lens from her face.
+
+Rolf moved to the chalkboard.
+
+"That is what I told you," he said to Ansel, pointing at a cluster of symbols.
+
+Ansel frowned at the diagram.
+
+"I thought the instability came after the charge passed through the sixth housing."
+
+"It does," Hanna said. "Because the fourth starts killing it before the sixth has a chance."
+
+Ansel studied the glyphwork for several seconds.
+
+Then he picked up a piece of chalk and began writing.
+
+The three of them fell into conversation again before I had moved away.
+
+"Separate the charge," Ansel said. "The first bank establishes propulsion. The second bank sustains. The third corrects the field."
+
+"Then what holds the initial charge?" Hanna asked.
+
+"A capacitive reservoir."
+
+"Made from what?"
+
+"Not copper."
+
+Rolf looked at me.
+
+"Two walls," he said again. "And we are not past either."
+
+My hand went to the satchel beneath my coat.
+
+For a second the flat weight of the documents from Site 09 pressed through the satchel.
+
+Directed mana discharge systems.
+
+Material specifications.
+
+The old world had spent one hundred and thirty years building weapons that used mana as energy. Somewhere in the archive pages I carried, there might be an answer.
+
+But that knowledge was dangerous.
+
+Too dangerous to drop onto a table in an overcrowded factory full of new workers and fresh researchers.
+
+Not yet.
+
+"We will find it," I said.
+
+Rolf looked at the cannon frame.
+
+Hanna set the warped metal sample down.
+
+"We need more people," she said. "Not just engineers. Alchemists. Crystal cutters. Formation analysts. Someone who understands high-density mana containment. Someone who has worked on military-grade arrays. Like those used on the front line."
+
+Hanna looked from the craters in the sand-packed shield to the walls, then the ceiling.
+
+"And even if we solve both problems," she said, "we cannot test it here."
+
+Rolf nodded slowly.
+
+"The current tests are at one-fifth projected power," he said. "That is already cracking the backstop. A full-scale discharge inside this room would breach the walls. Possibly collapse the wing. We would lose the equipment, the research, and everyone standing in this corridor."
+
+"We need a proving ground," Hanna said. "Somewhere remote. Somewhere a failure does not destroy two years of work and kill the production floor."
+
+I looked at Augustin.
+
+He was already writing — proving ground, remoteness, cost.
+
+"You have done good work," I said.
+
+Rolf rubbed at one bloodshot eye.
+
+"We have not done anything yet."
+
+I looked at the unfinished cannon.
+
+"You have built more than they managed in centuries."
+
+No one answered.
+
+I put my hand against the ironwood frame.
+
+"We will change Silberwald once more."
+
+Augustin and I left the boiler house minutes later.
+
+The corridor outside was cooler. The door shut behind us, sealing the research wing away from the rest of the factory.
+
+Neither of us spoke.
+
+Workers passed at the far end of the corridor carrying crates of cooling-unit housings. Somewhere beyond the wall, a drill whined against ironwood.
+
+I waited until the workers had gone.
+
+Then I lowered my voice.
+
+"Augustin."
+
+"Yes?"
+
+"I need you to check their background."
+
+He looked at me.
+
+"Ansel or Hanna?"
+
+"On both. Thoroughly."
+
+His expression became careful.
+
+"What precisely are you looking for?"
+
+"Princess Elara."
+
+Augustin's eyes did not widen. He had been Imperial Comptroller once. He understood the political play.
+
+"Direct payments?" he asked.
+
+"Direct payments. Academy grants. Research fellowships. Family debt paid by intermediaries. Patronage routed through House Steinhauer, Cräusen, Meltzer, or any other financial structure that feeds her bloc."
+
+"That is a wide net."
+
+"It needs to be."
+
+Augustin looked toward the closed boiler-house door.
+
+"You believe she has people inside the Academy."
+
+"I know she does."
+
+Sigrid's face flashed through my mind.
+
+"I do not want anyone in this factory who has accepted her money," I said.
+
+"And if the checks come back clean?"
+
+"Then they stay."
+
+"And if they do not?"
+
+"Get them out quietly. Pay them what is owed. Give them a reason that does not make them panic." I paused. "But get them out."
+
+Augustin nodded slowly.
+
+"I can have preliminary records by tomorrow. Full tracing will take longer."
+
+"Take the time."
+
+He considered me for another moment.
+
+"You are becoming suspicious."
+
+"I have reasons."
+
+"I assumed so."
+
+I looked back toward the boiler house.
+
+Then toward the factory floor.
+
+"We need more than background checks," I said.
+
+Augustin's attention sharpened.
+
+"What do you mean?"
+
+"Make me a list."
+
+"Of what?"
+
+"Researchers. Academy students. Independent artisans. Failed inventors. Disgraced theorists. People whose work has been ignored because their families do not matter, because their supervisors stole credit, because they do not have the right Circle, because they refused the wrong patron."
+
+Augustin's face changed.
+
+"What fields?" he asked.
+
+"Applied Magitek Engineering. Theoretical Alchemy. Materials science. Crystal refinement. High-current glyphwork. Mana containment. Any discipline that could help us build weapons, power systems, armor, cooling devices, transport, or something nobody has thought to name yet."
+
+I paused.
+
+"Journalism. History. The humanities, too. We need people who can see the political shape and influence others."
+
+"And the condition?"
+
+"They cannot have received money from Elara."
+
+Augustin's mouth twitched.
+
+"You want the researchers nobody else owns."
+
+"Yes."
+
+"That list will be short."
+
+He looked out across the factory.
+
+Then he adjusted the ledgers beneath his arm.
+
+"I will start with the Academy registry," he said. "Then the private workshops. Then the provincial schools. There are probably dozens of people whose work has been buried because they lacked a patron."
+
+"Find them."
+
+"And when I do?"
+
+I looked at the locked door of the research wing.
+
+"At that point," I said, "we go shopping."
