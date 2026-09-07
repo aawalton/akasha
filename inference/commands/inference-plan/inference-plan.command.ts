@@ -23,7 +23,7 @@ export const inferencePlan = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing on a host is written, started or taken away.",
+      statement: "Nothing on a host is written or started or taken away.",
     },
   ],
 } as const satisfies Command
