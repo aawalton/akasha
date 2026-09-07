@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Still off: folder-matches-a-shape, identifier-matches-its-place, require-import-extension, restatement-narrows-something, shell-clean, tests-pass (intent 2). The first two sit behind the walk; take them last. require-import-extension next. Seed the fault from the rule's grammar, at tree scale. Print the premise; a confounded arm reads as clean. A check's fixed cost is the index; ask what is new. `akasha change` edits land by `apply`, not `patch apply`.",
+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. require-import-extension is stuck at 4: 145 refusals, none akasha's own. 112 are React Router `./+types/...`; 33 are vendored lualib, where TS5097 bans the spelling. `landingOf` joins rather than resolves, so every extensionless relative specifier is refused. Alan holds the scope. Then restatement-narrows-something, shell-clean, folder-matches-a-shape, identifier-matches-its-place. Print the premise. `akasha change` edits land by `apply`.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
