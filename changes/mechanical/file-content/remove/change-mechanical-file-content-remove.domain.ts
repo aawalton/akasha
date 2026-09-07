@@ -6,7 +6,7 @@ export const changeMechanicalFileContentRemove = {
   slug: "change-mechanical-file-content-remove",
   definition: "a mechanical change taking part of what a file holds away",
   partSlugs: [
-    "change-mechanical-manifest/remove-manifest-ways",
+    "change-mechanical-file-content/remove-manifest-ways",
     "change-mechanical-file-content/remove-property-value",
   ],
 } as const satisfies Domain

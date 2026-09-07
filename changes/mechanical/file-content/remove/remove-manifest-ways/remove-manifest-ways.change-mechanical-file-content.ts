@@ -1,8 +1,8 @@
-import type { ChangeMechanicalManifest } from "../../../manifest/change-mechanical-manifest.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
 
 export const removeManifestWays = {
   id: "01a0798b-3398-72f0-8d29-c5c8301326de",
-  pageTypeSlug: "change-mechanical-manifest",
+  pageTypeSlug: "change-mechanical-file-content",
   slug: "remove-manifest-ways",
   changeModeSlug: "change-mode-remove",
   changeTargetTypeSlug: "change-target-type/file-content",
@@ -63,4 +63,4 @@ export const removeManifestWays = {
       statement: "A manifest stating one way in as text has that way in judged.",
     },
   ],
-} as const satisfies ChangeMechanicalManifest
+} as const satisfies ChangeMechanicalFileContent
