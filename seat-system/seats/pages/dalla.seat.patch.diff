@@ -1,0 +1,34 @@
+writerOwesReading: false
+diff --git a/changes/modules/change-answer/change-answer.module.code.ts b/changes/modules/change-answer/change-answer.module.code.ts
+index e22839e86f3918eb56d23adb689fb18963e4f486..bae4828cc00b4c1d5395a62367b86c3ac7ad48ee 100644
+--- a/changes/modules/change-answer/change-answer.module.code.ts
++++ b/changes/modules/change-answer/change-answer.module.code.ts
+@@ -93,7 +93,8 @@ function movedIn(one: Moving, textOf: BodyOf): Expanded {
+   if (text === null) {
+     return { refused: `\`${one.pathFrom}\` holds no body, so nothing is moved` }
+   }
+-  if (textOf(one.pathTo) !== null) {
++  const there = textOf(one.pathTo)
++  if (there !== null && there !== "") {
+     return { refused: `\`${one.pathTo}\` holds a body already, so nothing is moved there` }
+   }
+   const came = one.pathFrom
+diff --git a/changes/modules/change-answer/change-answer.module.test.ts b/changes/modules/change-answer/change-answer.module.test.ts
+index d410cef6c5af4fb639ec06f6121aa0a07ed4e91b..251bf1170b73fd6db0081eb69d729040206d7e3e 100644
+--- a/changes/modules/change-answer/change-answer.module.test.ts
++++ b/changes/modules/change-answer/change-answer.module.test.ts
+@@ -108,6 +108,14 @@ test("a move onto a path already holding a body is refused", () => {
+   })
+ })
+ 
++test("a move onto a path holding no characters is answered", () => {
++  const one = { kind: "move", pathFrom: AWAY, pathTo: AT } as const
++
++  expect(expanded(one, holding({ [AWAY]: "one", [AT]: "" }))).toEqual({
++    edit: { path: AT, was: "one", body: "one", from: AWAY },
++  })
++})
++
+ test("the reading an edit states is carried onto the edit answered", () => {
+   const one = { kind: "add", path: AT, content: "one", readersOweReading: false } as const
+ 
