@@ -1,0 +1,118 @@
+writerOwesReading: false
+diff --git a/pages/types/page-properties/page-property.page-type.ts b/pages/types/page-properties/page-property.page-type.ts
+index 8b662114a86df7089703c959df40f8cad8e58a01..3be815e00ee19200d1a5f9f009a0b1bdd4440f04 100644
+--- a/pages/types/page-properties/page-property.page-type.ts
++++ b/pages/types/page-properties/page-property.page-type.ts
+@@ -3,11 +3,13 @@ import type { PageType } from "../page-type.page-type.ts"
+ import type { Generator } from "./properties/generator.relation-property.ts"
+ import type { PropertySlug } from "./properties/property-slug.text-property.ts"
+ import type { Unique } from "./properties/unique.relation-property.ts"
++import type { UniqueScope } from "./properties/unique-scope.relation-property.ts"
+ 
+ export type PageProperty = Domain & {
+   propertySlug: PropertySlug
+   generator?: Generator
+   unique?: Unique
++  uniqueScope?: UniqueScope
+ }
+ 
+ export type List<T> = readonly T[]
+@@ -24,6 +26,7 @@ export const pageProperty = {
+     "number-property/max-length",
+     "relation-property/generator",
+     "relation-property/unique",
++    "relation-property/unique-scope",
+     "text-property/property-slug",
+   ],
+   extendsSlug: ["page-type/domain"],
+@@ -31,6 +34,7 @@ export const pageProperty = {
+     { pagePropertySlug: "text-property/property-slug", required: true, many: false },
+     { pagePropertySlug: "relation-property/generator", required: false, many: false },
+     { pagePropertySlug: "relation-property/unique", required: false, many: false },
++    { pagePropertySlug: "relation-property/unique-scope", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/pages/types/page-properties/properties/unique-scope.relation-property.ts b/pages/types/page-properties/properties/unique-scope.relation-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ea7dff41e828ed23cd1985f108bb5b27aa1b2ae6
+--- /dev/null
++++ b/pages/types/page-properties/properties/unique-scope.relation-property.ts
+@@ -0,0 +1,41 @@
++import type { RelationProperty } from "../../../relation-properties/relation-property.page-type.ts"
++
++export type UniqueScope = string
++
++export const uniqueScope = {
++  id: "01a07c96-3272-7d36-9394-051287145f2a",
++  pageTypeSlug: "relation-property",
++  slug: "unique-scope",
++  propertySlug: "unique-scope",
++  definition: "the property whose value a unique value is unique within",
++  targetPageTypeSlug: "page-type/page-property",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A property naming a scope is unique within that scope rather than across its page type.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The property a scope names is declared on the same page type as the property naming that scope.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The property a scope names is required.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The property a scope names carries one value.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A scope narrows the reach `page-type`.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A property stating no scope is unique across the whole reach that property states.",
++    },
++  ],
++} as const satisfies RelationProperty
+diff --git a/pages/types/properties/properties.record-property.ts b/pages/types/properties/properties.record-property.ts
+index 65da519d4bf1fa87c440789a24006da43e51649e..de34d5ced5f0444288ac5e63e28514f10ca0abc6 100644
+--- a/pages/types/properties/properties.record-property.ts
++++ b/pages/types/properties/properties.record-property.ts
+@@ -3,6 +3,7 @@ import type { List } from "../page-properties/page-property.page-type.ts"
+ import type { MaxCount } from "../page-properties/properties/max-count.number-property.ts"
+ import type { MaxLength } from "../page-properties/properties/max-length.number-property.ts"
+ import type { Unique } from "../page-properties/properties/unique.relation-property.ts"
++import type { UniqueScope } from "../page-properties/properties/unique-scope.relation-property.ts"
+ import type { DefaultValue } from "./default-value.text-property.ts"
+ import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"
+ import type { Required } from "./required.boolean-property.ts"
+@@ -19,6 +20,7 @@ export type Declaration =
+       uncommitted?: Uncommitted
+       secret?: Secret
+       unique?: Unique
++      uniqueScope?: UniqueScope
+     }
+   | {
+       pagePropertySlug: PagePropertySlug
+@@ -29,6 +31,7 @@ export type Declaration =
+       uncommitted?: Uncommitted
+       secret?: Secret
+       unique?: Unique
++      uniqueScope?: UniqueScope
+     }
+ 
+ export type Properties = List<Declaration>
+@@ -49,6 +52,7 @@ export const properties = {
+     { pagePropertySlug: "boolean-property/uncommitted", required: false, many: false },
+     { pagePropertySlug: "boolean-property/secret", required: false, many: false },
+     { pagePropertySlug: "relation-property/unique", required: false, many: false },
++    { pagePropertySlug: "relation-property/unique-scope", required: false, many: false },
+   ],
+   invariants: [
+     {
