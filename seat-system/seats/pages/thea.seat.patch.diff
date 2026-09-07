@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.ts b/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.ts
-index c1f98e8b028efcde7e7c4a813bb240352d753b36..23ab1cae8686338711f1847a1c684c785caafddf 100644
+index c1f98e8b028efcde7e7c4a813bb240352d753b36..1f9769ab0407e2f4cab6b029c016131ef4e379f5 100644
 --- a/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.ts
 +++ b/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.ts
 @@ -8,7 +8,7 @@ export const requireImportExtension = {
@@ -24,6 +24,16 @@ index c1f98e8b028efcde7e7c4a813bb240352d753b36..23ab1cae8686338711f1847a1c684c78
 +    {
 +      invariantKind: "departure",
 +      statement: "A specifier no file of these extensions stands at is let through.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,7 +44,8 @@ export const requireImportExtension = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A relative specifier carrying any other extension is refused.",
++      statement:
++        "A relative specifier carrying any other extension is refused where that file stands.",
      },
      {
        invariantKind: "departure",
