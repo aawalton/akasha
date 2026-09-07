@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 right files, 3 cheap, 4 on. Seed a fault before believing a zero; the count of checks judged rises when one goes on. Count how often the refused files change before calling a blast radius blocking. A tested decision can be wrong. A .d.ts emits nothing, so a runtime rule skips it. key-names-one-property refuses 57, lint-clean 302, manifest-names-what-is-reached 67, no-class 8, no-code-comments 3020, no-global 2. Four checks reparse each text: 297ms. no-import-cycle next.",
+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed a fault before believing a zero. Charge a check on a warm shadow, not the shared build. Count how often the refused files change before calling a radius blocking. A tested decision can be wrong. A .d.ts emits nothing, so a runtime rule skips it. Grow a graph out from the change through the index, never over the tree. Refusing: comments 3020, lint 302, manifest-names 67, key-names 57, no-class 8, cycles 7, globals 2. no-index-path-spelled next.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
