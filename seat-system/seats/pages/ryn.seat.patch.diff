@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-alchemy-station/alchemy-station/alchemy-station.module.ts b/temper/temper-lib-alchemy-station/alchemy-station/alchemy-station.module.ts
+index f43b71550ea985e2d7e6f481682effd416da41da..50bc053b865955c1dbcf81139dd886ce804b5064 100644
+--- a/temper/temper-lib-alchemy-station/alchemy-station/alchemy-station.module.ts
++++ b/temper/temper-lib-alchemy-station/alchemy-station/alchemy-station.module.ts
+@@ -17,7 +17,7 @@ export const alchemyStation = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Switching mode hides every tab but the one switched to.",
++      statement: "Switching mode hides every tab but the tab switched to.",
+     },
+     {
+       invariantKind: "departure",
