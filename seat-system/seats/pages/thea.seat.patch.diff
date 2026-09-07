@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
-index 78553420d50382f202e4e54b81bbf80088baf20d..6e63875d71fa0a6e3e50b5525ac2c85101560bc4 100644
+index 78553420d50382f202e4e54b81bbf80088baf20d..a3a050ec4b11598a23743e59e3d9c3dbb5a95a22 100644
 --- a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
 +++ b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
 @@ -1,3 +1,4 @@
@@ -9,11 +9,14 @@ index 78553420d50382f202e4e54b81bbf80088baf20d..6e63875d71fa0a6e3e50b5525ac2c851
  # ~/.bashrc: executed by bash(1) for non-login shells.
  # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
  # for examples
-@@ -16,6 +17,7 @@ esac
+@@ -16,9 +17,9 @@ esac
  
  # Load secrets (DATABASE_URL, API keys) for interactive shells
  # BASH_ENV handles non-interactive shells (e.g. Claude Code's Bash tool)
 +# shellcheck source=/dev/null
  [ -f ~/.secrets.env ] && source ~/.secrets.env
  
- # shellcheck source=/dev/null
+-# shellcheck source=/dev/null
+ _rc="$(readlink -f -- "${BASH_SOURCE[0]}")"
+ _rc_dir="$(dirname -- "$_rc")"
+ for _rc_roots in \
