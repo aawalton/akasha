@@ -93,7 +93,7 @@ export const storyChapterRead = {
 
     {
       invariantKind: "departure",
-      statement: "The source a chapter came from is the one its story names.",
+      statement: "The source a chapter came from is the source its story names.",
     },
     {
       invariantKind: "departure",
