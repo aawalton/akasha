@@ -1,0 +1,13 @@
+diff --git a/pages/core/task-lifecycle/task-lifecycle.module.code.ts b/pages/core/task-lifecycle/task-lifecycle.module.code.ts
+index ecb4f230cac0d3527d0a155c129e5a7b053e9ac0..372e70bfdf5208168890482500145d3190f8ed66 100644
+--- a/pages/core/task-lifecycle/task-lifecycle.module.code.ts
++++ b/pages/core/task-lifecycle/task-lifecycle.module.code.ts
+@@ -90,7 +90,7 @@ export function completionValues(
+ 
+ export function uncompletionValues(shape: CompletionShape): Readonly<Record<string, null>> {
+   if (shape.doneKey === null) return { [shape.stampKey]: null }
+-  return { [shape.doneKey]: null }
++  return { [shape.stampKey]: null, [shape.doneKey]: null }
+ }
+ 
+ export function readsAsDone(shape: CompletionShape, values: TaskValues): boolean {
