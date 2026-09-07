@@ -13,7 +13,7 @@ export const trackingEntry = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An entry takes one of three shapes: an instant, a session or a date.",
+      statement: "An entry is an instant or a session or a date.",
     },
     {
       invariantKind: "departure",
