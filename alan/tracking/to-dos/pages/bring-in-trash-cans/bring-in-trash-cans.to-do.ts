@@ -7,7 +7,7 @@ export const bringInTrashCans = {
   title: "Bring in trash cans",
   toDoCategory: "health",
   difficulty: "light",
-  toDoDueDate: "2026-08-23",
+  toDoDueDate: "2026-09-06",
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=WEEKLY;BYDAY=TH",
   toDoSortOrder: 37,

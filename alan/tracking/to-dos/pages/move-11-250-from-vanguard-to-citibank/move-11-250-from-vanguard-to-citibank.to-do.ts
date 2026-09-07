@@ -6,7 +6,7 @@ export const move11250FromVanguardToCitibank = {
   slug: "move-11-250-from-vanguard-to-citibank",
   title: "Move $11,250 from Vanguard to Citibank",
   toDoCategory: "wealth",
-  toDoDueDate: "2026-09-01",
+  toDoDueDate: "2026-09-06",
   toDoPriority: "p1",
   toDoRecurrence: "FREQ=MONTHLY;BYMONTHDAY=1",
   toDoSortOrder: 57,

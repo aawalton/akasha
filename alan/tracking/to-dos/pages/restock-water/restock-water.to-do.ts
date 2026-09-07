@@ -7,7 +7,7 @@ export const restockWater = {
   title: "Restock water",
   toDoCategory: "health",
   difficulty: "light",
-  toDoDueDate: "2026-08-24",
+  toDoDueDate: "2026-09-06",
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=2MO,4MO",
   toDoSortOrder: 32,
