@@ -1,0 +1,139 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts b/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts
+index 94f3cdf80d7658c4878269aac18d1e38783bfb6a..bd95b5a87b1d4bc5852ffd798975b7a808504086 100644
+--- a/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts
++++ b/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts
+@@ -1,12 +1,13 @@
+ import { dirname, join } from "node:path"
+ import ts from "typescript"
+ import {
+-  answered,
+   moving,
++  narrowed,
+   refusing,
++  stating,
+   writing,
+ } from "../../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
++import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
+ import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ const EXPORTS = "exports"
+@@ -140,7 +141,7 @@ function spliced(text: string, splices: readonly Splice[]): string {
+   return body
+ }
+ 
+-export function renameManifestWays(given: Asked, textOf: (path: string) => string | null): Answer {
++export function renameManifestWays(given: Asked, textOf: (path: string) => string | null): Said {
+   const text = textOf(given.at)
+   if (text === null) return refusing(`\`${given.at}\` holds no body, so no way in is repointed`)
+   let read: unknown = null
+@@ -156,11 +157,11 @@ export function renameManifestWays(given: Asked, textOf: (path: string) => strin
+   const lands = moved.get(given.at) ?? given.at
+   const source = ts.parseJsonText(given.at, text)
+   const body = spliced(text, splicesFor(source, text, given.at, dirname(lands), moved))
+-  return answered([
+-    lands === given.at ? writing(given.at, text, body) : moving(given.at, lands, text, body),
+-  ])
++  const one =
++    lands === given.at ? writing(given.at, text, body) : moving(given.at, lands, text, body)
++  return stating(narrowed(one))
+ }
+ 
+-export function runChange(world: World, given: Asked): Answer {
++export function runChange(world: World, given: Asked): Said {
+   return renameManifestWays(given, world.textOf)
+ }
+diff --git a/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.test.ts b/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.test.ts
+index c35c5ddee3432d0174d281025a3afa92f8a3dc33..bb72af0a8e2a024b677bbcc2eed2c951bef17a25 100644
+--- a/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.test.ts
++++ b/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.test.ts
+@@ -1,4 +1,5 @@
+ import { expect, test } from "bun:test"
++import { gathered, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+ import {
+   landingFor,
+@@ -36,7 +37,8 @@ const BROKEN = `{
+ `
+ 
+ function saidOf(moved: Record<string, string>, text: string): Answer {
+-  return renameManifestWays({ at: AT, moved }, (path) => (path === AT ? text : null))
++  const textOf = (path: string): string | null => (path === AT ? text : null)
++  return gathered([widened(renameManifestWays({ at: AT, moved }, textOf), textOf)])
+ }
+ 
+ function bodyOf(moved: Record<string, string>, text: string): string {
+@@ -132,22 +134,24 @@ test("a way in stated as text and landed outside goes with the exports key", ()
+   expect(JSON.parse(said)).toEqual({ name: "@akasha/seat-system" })
+ })
+ 
+-test("a manifest stating no way in is answered unchanged", () => {
+-  expect(
+-    bodyOf(
+-      { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
+-      NO_WAYS
+-    )
+-  ).toBe(NO_WAYS)
++test("a manifest stating no way in is answered as no edit", () => {
++  const said = saidOf(
++    { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
++    NO_WAYS
++  )
++
++  expect(said.refused).toBeNull()
++  expect(said.edits).toEqual([])
+ })
+ 
+-test("a manifest naming no file that moved is answered unchanged", () => {
+-  expect(
+-    bodyOf(
+-      { "seat-system/delta/delta.module.code.ts": "seat-system/held/delta.module.code.ts" },
+-      BODY
+-    )
+-  ).toBe(BODY)
++test("a manifest naming no file that moved is answered as no edit", () => {
++  const said = saidOf(
++    { "seat-system/delta/delta.module.code.ts": "seat-system/held/delta.module.code.ts" },
++    BODY
++  )
++
++  expect(said.refused).toBeNull()
++  expect(said.edits).toEqual([])
+ })
+ 
+ test("a body that reads as no JSON object is refused", () => {
+@@ -168,7 +172,10 @@ test("a manifest holding no body is refused", () => {
+ })
+ 
+ test("a manifest that stays is answered under the path the body was read from", () => {
+-  const said = saidOf({}, BODY)
++  const said = saidOf(
++    { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
++    BODY
++  )
+ 
+   expect(said.edits[0]?.path).toBe(AT)
+   expect(said.edits[0]?.was).toBe(BODY)
+diff --git a/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.ts b/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.ts
+index c1513ab1f323042f8a3f6c6957b9eb401ff4512e..0f55d3eb72cae985629f9ce813bb5a17fc632668 100644
+--- a/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.ts
++++ b/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.ts
+@@ -36,7 +36,7 @@ export const changeManifestWays = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A manifest landing elsewhere is answered as one move rather than as a write.",
++      statement: "A manifest landing elsewhere is answered as a move rather than as a write.",
+     },
+     {
+       invariantKind: "departure",
+@@ -44,7 +44,7 @@ export const changeManifestWays = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A manifest stating no way in is answered unchanged.",
++      statement: "A manifest stating no way in is answered as no edit.",
+     },
+     {
+       invariantKind: "departure",
