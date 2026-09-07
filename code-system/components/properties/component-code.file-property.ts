@@ -11,7 +11,7 @@ export const componentCode = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This code is written in TSX because this code draws something for a browser.",
+      statement: "This code is written in TSX.",
     },
   ],
 } as const satisfies FileProperty
