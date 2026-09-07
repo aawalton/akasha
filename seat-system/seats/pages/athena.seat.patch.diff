@@ -1,0 +1,60 @@
+writerOwesReading: false
+diff --git a/alan/music/commands/music-commands.workspace-package.ts b/alan/music/commands/music-commands.workspace-package.ts
+index 0e1aa079abed47e82eb72145546f7c139d436d72..2a126b8211ba542e44fc944d3c6d6ad788c3a83d 100644
+--- a/alan/music/commands/music-commands.workspace-package.ts
++++ b/alan/music/commands/music-commands.workspace-package.ts
+@@ -6,16 +6,5 @@ export const musicCommands = {
+   slug: "music-commands",
+   definition: "what an agent runs by name over Alan's music",
+   manifest: "json",
+-  partSlugs: [
+-    "command/music-capture",
+-    "command/music-import-artist",
+-    "command/music-listening",
+-    "command/music-next",
+-    "command/music-now-playing",
+-    "command/music-play",
+-    "command/music-queue",
+-    "command/music-rate",
+-    "command/music-search",
+-    "module/play-row",
+-  ],
++  partSlugs: ["module/play-row"],
+ } as const satisfies WorkspacePackage
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index a24647fe44a9b2c1b3a828c65f0dc751c332b0db..44d8961ffcc25cbee5beb02f94446ffbc2c60fbe 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -104,6 +104,7 @@ export const command = {
+     "namespace/track",
+     "namespace/exercise",
+     "namespace/email",
++    "namespace/music",
+   ],
+   extendsSlug: ["page-type/module"],
+   loadedBySlug: "module/calling",
+diff --git a/command-system/namespaces/pages/music.namespace.ts b/command-system/namespaces/pages/music.namespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..19c91aad3d6bb60e383dbc06e48cbd38d97097c8
+--- /dev/null
++++ b/command-system/namespaces/pages/music.namespace.ts
+@@ -0,0 +1,19 @@
++import type { Namespace } from "../namespace.page-type.ts"
++
++export const music = {
++  id: "01a07bbf-258e-7f64-8bc2-f340c44e592e",
++  pageTypeSlug: "namespace",
++  slug: "music",
++  definition: "the music playing now and what Alan says about it",
++  partSlugs: [
++    "command/music-capture",
++    "command/music-import-artist",
++    "command/music-listening",
++    "command/music-next",
++    "command/music-now-playing",
++    "command/music-play",
++    "command/music-queue",
++    "command/music-rate",
++    "command/music-search",
++  ],
++} as const satisfies Namespace
