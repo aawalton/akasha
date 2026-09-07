@@ -1,0 +1,11 @@
+diff --git a/temper/temper-progress/tasks/pages/golden-pursuits-straight-to-the-crate/golden-pursuits-straight-to-the-crate.temper-task.ts b/temper/temper-progress/tasks/pages/golden-pursuits-straight-to-the-crate/golden-pursuits-straight-to-the-crate.temper-task.ts
+index 4b4c022f3d1ac166753920e11b983e03fb8a1adb..3f29b066571a34b26df0f3b236c8bfa15b06f25d 100644
+--- a/temper/temper-progress/tasks/pages/golden-pursuits-straight-to-the-crate/golden-pursuits-straight-to-the-crate.temper-task.ts
++++ b/temper/temper-progress/tasks/pages/golden-pursuits-straight-to-the-crate/golden-pursuits-straight-to-the-crate.temper-task.ts
+@@ -13,6 +13,4 @@ export const goldenPursuitsStraightToTheCrate = {
+   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+   scope: "account",
+   priority: "p1",
+-  lastCompletedAt: null,
+-  completedAt: null,
+ } as const satisfies TemperTask
