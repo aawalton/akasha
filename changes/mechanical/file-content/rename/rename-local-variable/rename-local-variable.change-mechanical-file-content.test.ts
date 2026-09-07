@@ -1,10 +1,17 @@
 import { expect, test } from "bun:test"
+import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { renameLocalVariable } from "./rename-local-variable.change-mechanical-file-content.code.ts"
 
 const AT = "/repo/one.ts"
 
+function ranOn(text: string, of: string, to: string): Answer {
+  const said = renameLocalVariable(AT, text, { at: text.indexOf(of), to })
+  return widened(said, (path) => (path === AT ? text : null))
+}
+
 function bodyOf(text: string, of: string, to: string): string {
-  const answered = renameLocalVariable(AT, text, { at: text.indexOf(of), to })
+  const answered = ranOn(text, of, to)
   expect(answered.refused).toBe(null)
   expect(answered.edits).toHaveLength(1)
   expect(answered.edits[0]?.path).toBe(AT)
@@ -13,7 +20,7 @@ function bodyOf(text: string, of: string, to: string): string {
 }
 
 function whyOf(text: string, of: string, to: string): string {
-  const answered = renameLocalVariable(AT, text, { at: text.indexOf(of), to })
+  const answered = ranOn(text, of, to)
   expect(answered.edits).toEqual([])
   return answered.refused ?? ""
 }

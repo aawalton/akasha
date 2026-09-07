@@ -9,7 +9,7 @@ import {
 } from "@akasha/indexes/indexing/testing"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { runChange as renameLocalVariable } from "../../../mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { renameCodeToken } from "./rename-code-token.change-checked.code.ts"
 
@@ -35,7 +35,10 @@ function worldIn(root: string, textOf: (path: string) => string | null): World {
       return await renameExport(world, given as Parameters<typeof renameExport>[1])
     }
     if (at === "change-mechanical-file-content/rename-local-variable") {
-      return renameLocalVariable(world, given as Parameters<typeof renameLocalVariable>[1])
+      return widened(
+        renameLocalVariable(world, given as Parameters<typeof renameLocalVariable>[1]),
+        world.textOf
+      )
     }
     return refusing(`\`${at}\` is reached by nothing here`)
   })

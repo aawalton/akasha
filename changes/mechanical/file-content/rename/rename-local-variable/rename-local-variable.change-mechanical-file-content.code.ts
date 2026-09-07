@@ -1,11 +1,7 @@
 import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
-import {
-  answered,
-  refusing,
-  writing,
-} from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
@@ -210,7 +206,7 @@ function spanning(scope: ts.Node, of: string): readonly ts.Identifier[] {
   return identifiersIn(scope).filter((one) => one.text === of && referencing(one))
 }
 
-export function renameLocalVariable(path: string, text: string, given: Asked): Answer {
+export function renameLocalVariable(path: string, text: string, given: Asked): Said {
   if (!NAMED.test(given.to)) return refusing(`\`${given.to}\` is no identifier`)
   if (RESERVED.has(given.to)) return refusing(`\`${given.to}\` is a reserved word`)
   const source = parsedAs(path, text)
@@ -236,7 +232,7 @@ export function renameLocalVariable(path: string, text: string, given: Asked): A
     const put = shorthand ? `${named.text}: ${given.to}` : given.to
     body = body.slice(0, from) + put + body.slice(one.getEnd())
   }
-  return answered([writing(path, text, body)])
+  return stating([{ kind: "replace", path, contentFrom: text, contentTo: body }])
 }
 
 export type Given = {
@@ -245,7 +241,7 @@ export type Given = {
   readonly to: string
 }
 
-export function runChange(world: World, given: Given): Answer {
+export function runChange(world: World, given: Given): Said {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` holds no body, so nothing is renamed`)
   return renameLocalVariable(given.at, text, { at: given.spot, to: given.to })
