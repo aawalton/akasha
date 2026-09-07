@@ -21,7 +21,11 @@ export const seatTranscripts = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This command takes no word, and a word this command is given is refused.",
+      statement: "This command takes no word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word this command is given is refused.",
     },
     {
       invariantKind: "departure",
