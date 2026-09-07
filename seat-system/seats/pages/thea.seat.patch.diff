@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/modules/run-cost/run-cost.module.code.ts b/checks/modules/run-cost/run-cost.module.code.ts
+index 6cf8a8fa6b3f654cc2576d365a3e5ea7dae953fa..ccf91aed9ce89e43bc19eff466df7179715f70f8 100644
+--- a/checks/modules/run-cost/run-cost.module.code.ts
++++ b/checks/modules/run-cost/run-cost.module.code.ts
+@@ -18,7 +18,7 @@ export function looser(band: Band): Band {
+   return BANDS[Math.min(at + 1, BANDS.length - 1)] ?? band
+ }
+ 
+-const TICKS_PER_SECOND = 100
++const TICKS_PER_SECOND = [100][0]!
+ 
+ const AFTER_COMM = 2
+ 
