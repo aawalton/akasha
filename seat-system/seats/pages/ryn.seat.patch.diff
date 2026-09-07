@@ -1,0 +1,18 @@
+diff --git a/temper/temper-commands/master-craft-trace-reading/master-craft-trace-reading.module.ts b/temper/temper-commands/master-craft-trace-reading/master-craft-trace-reading.module.ts
+index 8236dca6be2b641b024253fa60d1f5a57fe628bb..1db63af3fb12301b77939a7f07d46de9024c33e4 100644
+--- a/temper/temper-commands/master-craft-trace-reading/master-craft-trace-reading.module.ts
++++ b/temper/temper-commands/master-craft-trace-reading/master-craft-trace-reading.module.ts
+@@ -13,8 +13,11 @@ export const masterCraftTraceReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The traces are read as a list, so a run that crafted nothing answers empty rather than absent.",
++      statement: "The traces are read as a list.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run that crafted nothing answers empty rather than absent.",
+     },
+   ],
+ } as const satisfies Module
