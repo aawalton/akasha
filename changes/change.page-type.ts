@@ -25,7 +25,6 @@ export const change = {
   extendsSlug: ["page-type/module"],
   partSlugs: [
     "domain/change-agent",
-    "page-type/change-command",
     "page-type/change-checked",
     "page-type/change-authored",
     "page-type/change-restated",
