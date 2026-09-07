@@ -41,7 +41,11 @@ export const temperEsoTypingsAudit = {
     },
     {
       invariantKind: "departure",
-      statement: "A finding is reported rather than refused, and a run with findings still passes.",
+      statement: "A finding is reported rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run with findings still succeeds.",
     },
     {
       invariantKind: "departure",
