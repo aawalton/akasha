@@ -7,10 +7,10 @@ export const trimToenails = {
   title: "Trim Toenails",
   toDoCategory: "health",
   difficulty: "light",
-  toDoDueDate: "2026-09-07",
+  toDoDueDate: "2026-09-28",
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 51,
   toDoValueSlug: "health",
-  toDoLastCompletedAt: "2026-08-10T17:41:31.580Z",
+  toDoLastCompletedAt: "2026-09-07T13:29:20.100Z",
 } as const satisfies ToDo
