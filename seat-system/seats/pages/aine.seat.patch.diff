@@ -1,0 +1,448 @@
+writerOwesReading: false
+diff --git a/changes/checked/pages/change-page-property/change-page-property.change-checked.code.ts b/changes/checked/pages/change-page-property/change-page-property.change-checked.code.ts
+index 70a9b878737e0a644c5f4a58c0aef946693cd09a..4aebfd3236ec914469c8fd06913e657dd5c084e2 100644
+--- a/changes/checked/pages/change-page-property/change-page-property.change-checked.code.ts
++++ b/changes/checked/pages/change-page-property/change-page-property.change-checked.code.ts
+@@ -5,7 +5,7 @@ import { reach, type World } from "../../../modules/change-shadow/change-shadow.
+ import { readFor, targetsIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+ import { manyIn } from "../../../modules/page-literal/page-literal.module.code.ts"
+ 
+-const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
++const CHANGE_PAGE_PROPERTY = "change-mechanical-text/change-page-property"
+ 
+ const CHANGE_PAGE_PROPERTY_RELATION = "change-mechanical-data/change-page-property-relation"
+ 
+diff --git a/changes/checked/pages/change-page-property/change-page-property.change-checked.test.ts b/changes/checked/pages/change-page-property/change-page-property.change-checked.test.ts
+index 25191ccfaacf823f3e11cb2e1ca8f8f7dd555245..92579cbafe649947199a0bddf1904ef28cc9ca29 100644
+--- a/changes/checked/pages/change-page-property/change-page-property.change-checked.test.ts
++++ b/changes/checked/pages/change-page-property/change-page-property.change-checked.test.ts
+@@ -1,6 +1,6 @@
+ import { expect, test } from "bun:test"
+ import type { Value } from "@akasha/pages/page-value"
+-import { runChange as changeValue } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
++import { runChange as changeValue } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical-text.code.ts"
+ import { runChange as changeRelation } from "../../../mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.code.ts"
+ import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import {
+@@ -12,7 +12,7 @@ import { knownOf } from "../../../modules/change-shadow/change-shadow.module.tes
+ import { changePageProperty, runChange } from "./change-page-property.change-checked.code.ts"
+ 
+ const RUNS: Reaching = async (world, at, given) => {
+-  if (at === "change-mechanical/change-page-property") {
++  if (at === "change-mechanical-text/change-page-property") {
+     return changeValue(world, given as Parameters<typeof changeValue>[1])
+   }
+   if (at === "change-mechanical-data/change-page-property-relation") {
+@@ -100,6 +100,6 @@ test("each key is handed to the change reached at the address that key names", a
+ 
+   expect(reached).toEqual([
+     "change-mechanical-data/change-page-property-relation",
+-    "change-mechanical/change-page-property",
++    "change-mechanical-text/change-page-property",
+   ])
+ })
+diff --git a/changes/checked/pages/rename-page/rename-page.change-checked.test.ts b/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
+index b0a265bd8d504e161461f16760510532bb78d4fc..81dad700ba1d97fcc871c9e20691da292369ad7b 100644
+--- a/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
++++ b/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
+@@ -12,7 +12,7 @@ import {
+   scratch,
+   textIn,
+ } from "@akasha/indexes/indexing/testing"
+-import { runChange as changePageProperty } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
++import { runChange as changePageProperty } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical-text.code.ts"
+ import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts"
+ import { runChange as renameImports } from "../../../mechanical/pages/rename-imports/rename-imports.change-mechanical-code.code.ts"
+ import { runChange as renamePageSlug } from "../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts"
+@@ -63,7 +63,7 @@ const RUNS: Reaching = async (world, at, given) => {
+   if (at === "change-mechanical-file/rename-path") {
+     return await renamePathChange(world, given as Parameters<typeof renamePathChange>[1])
+   }
+-  if (at === "change-mechanical/change-page-property") {
++  if (at === "change-mechanical-text/change-page-property") {
+     return changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+   }
+   if (at === "change-mechanical-code/rename-export") {
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index c5a8c17c4a2e8fd945ddaf7b6603403a6ae70675..ea0520d1c30dc7b983431f3e767f6e82bfcbedb2 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -28,7 +28,7 @@ export const changeMechanical = {
+     "change-mechanical-file/remove-code-file",
+     "change-mechanical-file/remove-page-file",
+     "change-mechanical-code/rename-imports",
+-    "change-mechanical/change-page-property",
++    "change-mechanical-text/change-page-property",
+     "change-mechanical-data/change-page-property-relation",
+     "change-mechanical-file/add-file",
+     "change-mechanical-file/add-code-file",
+diff --git a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.code.ts b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.code.ts
+index fc297df756190ee3b9ccfb4347bc3b1f121b1d95..981e7fb815385ad12b1195b80c378ad58020a7c3 100644
+--- a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.code.ts
++++ b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.code.ts
+@@ -4,7 +4,7 @@ import type { Answer } from "../../../modules/change-answer/change-answer.module
+ import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { readFor, targetsIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+ 
+-const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
++const CHANGE_PAGE_PROPERTY = "change-mechanical-text/change-page-property"
+ 
+ export type ChangePagePropertyRelationAsked = {
+   readonly at: string
+diff --git a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.test.ts b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.test.ts
+index 03ada3f3f3848870ae52cd2a713ccf910d5cf626..ba5b18e0ca2fc09ae9752f9ce435fb12204b7304 100644
+--- a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.test.ts
++++ b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.test.ts
+@@ -7,11 +7,11 @@ import {
+   type World,
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { knownOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+-import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical.code.ts"
++import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical-text.code.ts"
+ import { changePagePropertyRelation } from "./change-page-property-relation.change-mechanical-data.code.ts"
+ 
+ const RUNS: Reaching = (world, at, given) => {
+-  if (at === "change-mechanical/change-page-property") {
++  if (at === "change-mechanical-text/change-page-property") {
+     return Promise.resolve(
+       changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+     )
+diff --git a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical-text.code.ts b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical-text.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..faf72a0db6f212208b01bc3106c480f70f78b84d
+--- /dev/null
++++ b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical-text.code.ts
+@@ -0,0 +1,31 @@
++import { parsedAs } from "@akasha/code/code-source"
++import {
++  answered,
++  refusing,
++  writing,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { statedIn } from "../../../modules/page-literal/page-literal.module.code.ts"
++
++export function restated(path: string, text: string, key: string, to: string): Answer {
++  const source = parsedAs(path, text)
++  const held = statedIn(source).get(key)
++  if (held === undefined) return refusing(`\`${path}\` states no text under \`${key}\``)
++  if (held.text === to) return refusing(`\`${to}\` is what \`${key}\` states already`)
++  const start = held.getStart(source)
++  const body = text.slice(0, start) + JSON.stringify(to) + text.slice(held.getEnd())
++  return answered([writing(path, text, body)])
++}
++
++export type Given = {
++  readonly at: string
++  readonly key: string
++  readonly to: string
++}
++
++export function runChange(world: World, given: Given): Answer {
++  const text = world.textOf(given.at)
++  if (text === null) return refusing(`\`${given.at}\` holds no body, so nothing is restated`)
++  return restated(given.at, text, given.key, given.to)
++}
+diff --git a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical-text.test.ts b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical-text.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5aafcbaf3e3daa20a424bf3e124252ee9f19c79a
+--- /dev/null
++++ b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical-text.test.ts
+@@ -0,0 +1,67 @@
++import { expect, test } from "bun:test"
++import { bodyOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
++import { restated } from "./change-page-property.change-mechanical-text.code.ts"
++
++const AT = "akasha/held/kept.page-type.ts"
++
++const BODY = `import type { PageType } from "../../pages/types/page-type.page-type.ts"
++
++export const kept = {
++  id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
++  pageTypeSlug: "page-type",
++  slug: "kept",
++  pluralSlug: "kepts",
++  partSlugs: ["kept/one"],
++} as const satisfies PageType
++`
++
++test("a key's text is stated anew", () => {
++  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
++  expect(bodyOf(said)).toContain(`pluralSlug: "change-atomic",`)
++})
++
++test("one key is restated and the rest of the body is left as it is", () => {
++  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
++  expect(bodyOf(said)).toBe(BODY.replace(`"kepts"`, `"change-atomic"`))
++})
++
++test("the body is answered under the path it was worked out from", () => {
++  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
++  expect(said.edits[0]?.path).toBe(AT)
++  expect(said.edits[0]?.was).toBe(BODY)
++  expect(said.edits[0]?.from).toBe(undefined)
++})
++
++test("a key the page states no text under is refused", () => {
++  const said = restated(AT, BODY, "definition", "x")
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${AT}\` states no text under \`definition\``)
++})
++
++test("a key holding something other than text is refused", () => {
++  const said = restated(AT, BODY, "partSlugs", "x")
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${AT}\` states no text under \`partSlugs\``)
++})
++
++test("a key stating what was asked for already is refused", () => {
++  const said = restated(AT, BODY, "slug", "kept")
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe("`kept` is what `slug` states already")
++})
++
++test("the text is written back quoted", () => {
++  const said = restated(AT, BODY, "slug", 'has "quotes"')
++  expect(bodyOf(said)).toContain(`slug: "has \\"quotes\\"",`)
++})
++
++test("an object above the exported one is not read", () => {
++  const held = `const held = { slug: "wrong" }\n${BODY}`
++  const said = restated(AT, held, "slug", "change-atomic")
++  expect(bodyOf(said)).toContain(`const held = { slug: "wrong" }`)
++  expect(bodyOf(said)).toContain(`slug: "change-atomic",`)
++})
++
++test("nothing here judges whether that key may be restated", () => {
++  expect(restated(AT, BODY, "id", "01a00000-0000-7000-8000-000000000000").refused).toBe(null)
++})
+diff --git a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical-text.ts b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical-text.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bdd001447439ee1679e940a641d5c1c33e475c18
+--- /dev/null
++++ b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical-text.ts
+@@ -0,0 +1,14 @@
++import type { ChangeMechanicalText } from "../../text/change-mechanical-text.page-type.ts"
++
++export const changePageProperty = {
++  id: "01a07716-76a6-7428-9e18-f3fc32d18085",
++  pageTypeSlug: "change-mechanical-text",
++  slug: "change-page-property",
++  changeModeSlug: "change-mode-change",
++  definition: "one key of a page's exported object stated anew",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies ChangeMechanicalText
+diff --git a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts
+deleted file mode 100644
+index faf72a0db6f212208b01bc3106c480f70f78b84d..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts
++++ /dev/null
+@@ -1,31 +0,0 @@
+-import { parsedAs } from "@akasha/code/code-source"
+-import {
+-  answered,
+-  refusing,
+-  writing,
+-} from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { statedIn } from "../../../modules/page-literal/page-literal.module.code.ts"
+-
+-export function restated(path: string, text: string, key: string, to: string): Answer {
+-  const source = parsedAs(path, text)
+-  const held = statedIn(source).get(key)
+-  if (held === undefined) return refusing(`\`${path}\` states no text under \`${key}\``)
+-  if (held.text === to) return refusing(`\`${to}\` is what \`${key}\` states already`)
+-  const start = held.getStart(source)
+-  const body = text.slice(0, start) + JSON.stringify(to) + text.slice(held.getEnd())
+-  return answered([writing(path, text, body)])
+-}
+-
+-export type Given = {
+-  readonly at: string
+-  readonly key: string
+-  readonly to: string
+-}
+-
+-export function runChange(world: World, given: Given): Answer {
+-  const text = world.textOf(given.at)
+-  if (text === null) return refusing(`\`${given.at}\` holds no body, so nothing is restated`)
+-  return restated(given.at, text, given.key, given.to)
+-}
+diff --git a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.test.ts b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.test.ts
+deleted file mode 100644
+index 4437446284c43db8b8929c6dea53ab5fa6b69c73..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.test.ts
++++ /dev/null
+@@ -1,67 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { bodyOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+-import { restated } from "./change-page-property.change-mechanical.code.ts"
+-
+-const AT = "akasha/held/kept.page-type.ts"
+-
+-const BODY = `import type { PageType } from "../../pages/types/page-type.page-type.ts"
+-
+-export const kept = {
+-  id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
+-  pageTypeSlug: "page-type",
+-  slug: "kept",
+-  pluralSlug: "kepts",
+-  partSlugs: ["kept/one"],
+-} as const satisfies PageType
+-`
+-
+-test("a key's text is stated anew", () => {
+-  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
+-  expect(bodyOf(said)).toContain(`pluralSlug: "change-atomic",`)
+-})
+-
+-test("one key is restated and the rest of the body is left as it is", () => {
+-  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
+-  expect(bodyOf(said)).toBe(BODY.replace(`"kepts"`, `"change-atomic"`))
+-})
+-
+-test("the body is answered under the path it was worked out from", () => {
+-  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
+-  expect(said.edits[0]?.path).toBe(AT)
+-  expect(said.edits[0]?.was).toBe(BODY)
+-  expect(said.edits[0]?.from).toBe(undefined)
+-})
+-
+-test("a key the page states no text under is refused", () => {
+-  const said = restated(AT, BODY, "definition", "x")
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(`\`${AT}\` states no text under \`definition\``)
+-})
+-
+-test("a key holding something other than text is refused", () => {
+-  const said = restated(AT, BODY, "partSlugs", "x")
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(`\`${AT}\` states no text under \`partSlugs\``)
+-})
+-
+-test("a key stating what was asked for already is refused", () => {
+-  const said = restated(AT, BODY, "slug", "kept")
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe("`kept` is what `slug` states already")
+-})
+-
+-test("the text is written back quoted", () => {
+-  const said = restated(AT, BODY, "slug", 'has "quotes"')
+-  expect(bodyOf(said)).toContain(`slug: "has \\"quotes\\"",`)
+-})
+-
+-test("an object above the exported one is not read", () => {
+-  const held = `const held = { slug: "wrong" }\n${BODY}`
+-  const said = restated(AT, held, "slug", "change-atomic")
+-  expect(bodyOf(said)).toContain(`const held = { slug: "wrong" }`)
+-  expect(bodyOf(said)).toContain(`slug: "change-atomic",`)
+-})
+-
+-test("nothing here judges whether that key may be restated", () => {
+-  expect(restated(AT, BODY, "id", "01a00000-0000-7000-8000-000000000000").refused).toBe(null)
+-})
+diff --git a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.ts b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.ts
+deleted file mode 100644
+index e34f5300518aa5af56cac51b1a00272d4d68f2c6..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.ts
++++ /dev/null
+@@ -1,14 +0,0 @@
+-import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+-
+-export const changePageProperty = {
+-  id: "01a07716-76a6-7428-9e18-f3fc32d18085",
+-  pageTypeSlug: "change-mechanical",
+-  slug: "change-page-property",
+-  changeModeSlug: "change-mode-change",
+-  definition: "one key of a page's exported object stated anew",
+-  code: "ts",
+-  test: "ts",
+-  runsChecks: false,
+-  readersOweReading: false,
+-  writerOwesReading: false,
+-} as const satisfies ChangeMechanical
+diff --git a/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts b/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts
+index 6e7c3d4c3ff66e0c5549880dcdfb5c412b4c0762..ceb28ad5dfe786839b9bc7823646a04b4a298489 100644
+--- a/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts
++++ b/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts
+@@ -18,7 +18,7 @@ import {
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { boundIn, keyOf, statedIn } from "../../../modules/page-literal/page-literal.module.code.ts"
+ 
+-const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
++const CHANGE_PAGE_PROPERTY = "change-mechanical-text/change-page-property"
+ 
+ const RENAME_EXPORT = "change-mechanical-code/rename-export"
+ 
+diff --git a/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.test.ts b/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.test.ts
+index 7fdc1d6b43e27aad1c50ba2bbaf3e8fc84fa5c41..73e228a8fc5a9d36508098a27bf0b8246fc6862c 100644
+--- a/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.test.ts
++++ b/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.test.ts
+@@ -9,7 +9,7 @@ import {
+ } from "@akasha/indexes/indexing/testing"
+ import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical.code.ts"
++import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical-text.code.ts"
+ import { runChange as renameExport } from "../rename-export/rename-export.change-mechanical-code.code.ts"
+ import { renameSlug } from "./rename-page-slug.change-mechanical-data.code.ts"
+ 
+@@ -40,7 +40,7 @@ function holding(body: string): (path: string) => string | null {
+ 
+ function worldIn(root: string, textOf: (path: string) => string | null): World {
+   return worldAt(root, textOf, (world, at, given) => {
+-    if (at === "change-mechanical/change-page-property") {
++    if (at === "change-mechanical-text/change-page-property") {
+       return Promise.resolve(
+         changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+       )
+@@ -233,7 +233,7 @@ test("the plural and the export rename are reached at their own addresses", asyn
+   await renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
+ 
+   expect(reached).toEqual([
+-    "change-mechanical/change-page-property",
++    "change-mechanical-text/change-page-property",
+     "change-mechanical-code/rename-export",
+   ])
+ })
+diff --git a/changes/restated/pages/change-page-property-text/change-page-property-text.change-restated.code.ts b/changes/restated/pages/change-page-property-text/change-page-property-text.change-restated.code.ts
+index f1f4dc0dccf0104f5e89ca7b5b95d9932b5d4a37..9cdbc6fd08ff3819dde6d2adda092e25f073b9cc 100644
+--- a/changes/restated/pages/change-page-property-text/change-page-property-text.change-restated.code.ts
++++ b/changes/restated/pages/change-page-property-text/change-page-property-text.change-restated.code.ts
+@@ -4,7 +4,7 @@ import type { Answer } from "../../../modules/change-answer/change-answer.module
+ import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { readFor } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+ 
+-const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
++const CHANGE_PAGE_PROPERTY = "change-mechanical-text/change-page-property"
+ 
+ const TEXT_PROPERTY = "text-property"
+ 
+diff --git a/changes/restated/pages/change-page-property-text/change-page-property-text.change-restated.test.ts b/changes/restated/pages/change-page-property-text/change-page-property-text.change-restated.test.ts
+index 803df42968fb42e1026ac4c80371be3b6ae8a008..5ee7b3f430477cbde5a109bad1cee38e87b77f46 100644
+--- a/changes/restated/pages/change-page-property-text/change-page-property-text.change-restated.test.ts
++++ b/changes/restated/pages/change-page-property-text/change-page-property-text.change-restated.test.ts
+@@ -1,7 +1,7 @@
+ import { expect, test } from "bun:test"
+ import type { Carried } from "@akasha/pages/page-type-properties"
+ import type { Value } from "@akasha/pages/page-value"
+-import { runChange as changeValue } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
++import { runChange as changeValue } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical-text.code.ts"
+ import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import {
+   NOTHING_OVER,
+@@ -14,7 +14,7 @@ import {
+ } from "./change-page-property-text.change-restated.code.ts"
+ 
+ const RUNS: Reaching = (world, at, given) => {
+-  if (at === "change-mechanical/change-page-property") {
++  if (at === "change-mechanical-text/change-page-property") {
+     return Promise.resolve(changeValue(world, given as Parameters<typeof changeValue>[1]))
+   }
+   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
