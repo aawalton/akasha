@@ -1,0 +1,454 @@
+writerOwesReading: false
+diff --git a/changes/checked/pages/rename-page/rename-page.change-checked.code.ts b/changes/checked/pages/rename-page/rename-page.change-checked.code.ts
+index 877eb9b6fb23e99e5fa668b5429d6d5c7e3edd8f..bc004b50b25402924c17b34382d6d1de05e801ff 100644
+--- a/changes/checked/pages/rename-page/rename-page.change-checked.code.ts
++++ b/changes/checked/pages/rename-page/rename-page.change-checked.code.ts
+@@ -19,7 +19,7 @@ import { statedIn } from "../../../modules/page-literal/page-literal.module.code
+ 
+ const RENAME_PAGE_SLUG = "change-mechanical/rename-page-slug"
+ 
+-const RENAME_PATH = "change-mechanical/rename-path"
++const RENAME_PATH = "change-mechanical-file/rename-path"
+ 
+ const TYPED = ".ts"
+ 
+diff --git a/changes/checked/pages/rename-page/rename-page.change-checked.test.ts b/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
+index dcafaf420351abab08aae89c24eaed4d868ef08a..df6dcb4a5df0ff06a5a24e4665f020e782a46c53 100644
+--- a/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
++++ b/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
+@@ -16,7 +16,7 @@ import { runChange as changePageProperty } from "../../../mechanical/pages/chang
+ import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical.code.ts"
+ import { runChange as renameImports } from "../../../mechanical/pages/rename-imports/rename-imports.change-mechanical.code.ts"
+ import { runChange as renamePageSlug } from "../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts"
+-import { runChange as renamePathChange } from "../../../mechanical/pages/rename-path/rename-path.change-mechanical.code.ts"
++import { runChange as renamePathChange } from "../../../mechanical/pages/rename-path/rename-path.change-mechanical-file.code.ts"
+ import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+ import {
+@@ -60,7 +60,7 @@ const RUNS: Reaching = async (world, at, given) => {
+   if (at === "change-mechanical/rename-page-slug") {
+     return await renamePageSlug(world, given as Parameters<typeof renamePageSlug>[1])
+   }
+-  if (at === "change-mechanical/rename-path") {
++  if (at === "change-mechanical-file/rename-path") {
+     return await renamePathChange(world, given as Parameters<typeof renamePathChange>[1])
+   }
+   if (at === "change-mechanical/change-page-property") {
+@@ -163,7 +163,7 @@ test("the slug rename and each carry are reached at their own addresses", async
+   await renamePage(world, { at: HELD_PAGE, to: CARRIED })
+ 
+   expect(reached[0]).toBe("change-mechanical/rename-page-slug")
+-  expect(new Set(reached.slice(1))).toEqual(new Set(["change-mechanical/rename-path"]))
++  expect(new Set(reached.slice(1))).toEqual(new Set(["change-mechanical-file/rename-path"]))
+ })
+ 
+ test("a page's slug is renamed in its data, and its files are carried with it", async () => {
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index 0f8aff3398f6b5d33c711b8dfedd5cb2421d0b8f..bc3d08951bcd3052c2634975b9f642e70141457f 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -42,7 +42,7 @@ export const changeMechanical = {
+     "change-mechanical/rename-export",
+     "change-mechanical/rename-local-variable",
+     "change-mechanical/rename-page-slug",
+-    "change-mechanical/rename-path",
++    "change-mechanical-file/rename-path",
+     "change-mechanical/rename-property-signature",
+     "change-mechanical/rename-manifest-ways",
+     "change-mechanical/remove-manifest-ways",
+diff --git a/changes/mechanical/pages/rename-path/rename-path.change-mechanical-file.code.ts b/changes/mechanical/pages/rename-path/rename-path.change-mechanical-file.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b420be501fb78ffc6ff0be5fecbb0885edb2d767
+--- /dev/null
++++ b/changes/mechanical/pages/rename-path/rename-path.change-mechanical-file.code.ts
+@@ -0,0 +1,44 @@
++import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
++import { answered, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++
++const RENAME_IMPORTS = "change-mechanical/rename-imports"
++
++export type RenamePathAsked = {
++  readonly from: string
++  readonly to: string
++}
++
++export async function renamePath(world: World, given: RenamePathAsked): Promise<Answer> {
++  if (given.from === given.to) return refusing(`\`${given.to}\` is the path it already sits at`)
++  const text = world.textOf(given.from)
++  if (text === null) return refusing(`\`${given.from}\` could not be read`)
++  if (world.textOf(given.to) !== null) return refusing(`\`${given.to}\` is a body already`)
++  const moved = { [given.from]: given.to }
++  const reading = importingOf(world.index, new Map(Object.entries(moved)))
++  if ("unread" in reading) return refusing(reading.unread)
++  const carried = await reach(world, RENAME_IMPORTS, {
++    was: given.from,
++    now: given.to,
++    moved,
++  })
++  if (carried.said.refused !== null) return carried.said
++  const edits: Edit[] = [...carried.said.edits]
++  let seen = carried.world
++  for (const path of reading.importers) {
++    const held = seen.textOf(path)
++    if (held === null) return refusing(`\`${path}\` names what moved and could not be read`)
++    const said = await reach(seen, RENAME_IMPORTS, { was: path, now: path, moved })
++    if (said.said.refused !== null) return said.said
++    for (const one of said.said.edits) {
++      if (one.body !== held) edits.push(one)
++    }
++    seen = said.world
++  }
++  return answered(edits)
++}
++
++export async function runChange(world: World, given: RenamePathAsked): Promise<Answer> {
++  return await renamePath(world, given)
++}
+diff --git a/changes/mechanical/pages/rename-path/rename-path.change-mechanical-file.test.ts b/changes/mechanical/pages/rename-path/rename-path.change-mechanical-file.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8a36b4e684b34fe8935732bed1e88513ba4562cf
+--- /dev/null
++++ b/changes/mechanical/pages/rename-path/rename-path.change-mechanical-file.test.ts
+@@ -0,0 +1,123 @@
++import { afterAll, expect, test } from "bun:test"
++import {
++  HELD_CODE,
++  indexedRepo,
++  NAMER_CODE,
++  scratch,
++  textIn,
++} from "@akasha/indexes/indexing/testing"
++import { gathered, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
++import {
++  type World,
++  worldAt,
++  worldOver,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { runChange as renameImports } from "../rename-imports/rename-imports.change-mechanical.code.ts"
++import { renamePath } from "./rename-path.change-mechanical-file.code.ts"
++
++afterAll(scratch.sweep)
++
++const KEPT = "akasha/one/kept.module.code.ts"
++
++const CARRIED = "akasha/one/carried.module.code.ts"
++
++function worldIn(root: string, textOf: (path: string) => string | null): World {
++  return worldAt(root, textOf, (world, at, given) => {
++    if (at === "change-mechanical/rename-imports") {
++      return Promise.resolve(renameImports(world, given as Parameters<typeof renameImports>[1]))
++    }
++    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
++  })
++}
++
++function pathsOf(said: Answer): readonly string[] {
++  return said.edits.map((one) => one.path).sort()
++}
++
++function movesOf(said: Answer): readonly Edit[] {
++  return said.edits.filter((one) => one.from !== undefined)
++}
++
++test("the path it already sits at is refused", async () => {
++  const world = worldIn(scratch.rootFor("rename-path-"), () => null)
++  const said = await renamePath(world, { from: KEPT, to: KEPT })
++  expect(said.refused).toBe("`akasha/one/kept.module.code.ts` is the path it already sits at")
++})
++
++test("a body that could not be read is refused", async () => {
++  const world = worldIn(scratch.rootFor("rename-path-"), () => null)
++  const said = await renamePath(world, { from: HELD_CODE, to: KEPT })
++  expect(said.refused).toBe(`\`${HELD_CODE}\` could not be read`)
++})
++
++test("a body already at the path it would move to is refused", async () => {
++  const root = indexedRepo()
++  const said = await renamePath(worldIn(root, textIn(root)), {
++    from: HELD_CODE,
++    to: NAMER_CODE,
++  })
++  expect(said.refused).toBe(`\`${NAMER_CODE}\` is a body already`)
++})
++
++test("an index that cannot answer refuses rather than narrowing the reach", async () => {
++  const held = (path: string): string | null =>
++    path === HELD_CODE ? "export const kept = 1\n" : null
++  const world = worldIn(scratch.rootFor("rename-path-"), held)
++  const said = await renamePath(world, { from: HELD_CODE, to: KEPT })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toContain("so none were repointed")
++})
++
++test("a path that moves carries its importer with it", async () => {
++  const root = indexedRepo()
++  const text = textIn(root)
++  const said = await renamePath(worldIn(root, text), { from: HELD_CODE, to: KEPT })
++  expect(said.refused).toBe(null)
++  expect(pathsOf(said)).toEqual([KEPT, NAMER_CODE].sort())
++  expect(said.edits.find((one) => one.path === NAMER_CODE)?.body).toContain(
++    "../one/kept.module.code.ts"
++  )
++})
++
++test("the path taken away is answered as the move the body arrives by", async () => {
++  const root = indexedRepo()
++  const text = textIn(root)
++  const said = await renamePath(worldIn(root, text), { from: HELD_CODE, to: KEPT })
++  const moves = movesOf(said)
++  expect(moves).toHaveLength(1)
++  expect(moves[0]?.from).toBe(HELD_CODE)
++  expect(moves[0]?.path).toBe(KEPT)
++  expect(moves[0]?.was).toBe(text(HELD_CODE))
++})
++
++test("a move off a path the move before it made reads that path and its importers", async () => {
++  const root = indexedRepo()
++  const text = textIn(root)
++  const world = worldIn(root, text)
++  const first = await renamePath(world, { from: HELD_CODE, to: KEPT })
++  expect(first.refused).toBe(null)
++  const said = await renamePath(worldOver(world, gathered([first])), {
++    from: KEPT,
++    to: CARRIED,
++  })
++  expect(said.refused).toBe(null)
++  expect(pathsOf(said)).toEqual([CARRIED, NAMER_CODE].sort())
++  expect(said.edits.find((one) => one.path === NAMER_CODE)?.body).toContain(
++    "../one/carried.module.code.ts"
++  )
++  expect(movesOf(said)[0]?.from).toBe(KEPT)
++})
++
++test("the body that moves is repointed by the change reached at its address", async () => {
++  const reached: string[] = []
++  const root = indexedRepo()
++  const world = worldAt(root, textIn(root), (_world, at) => {
++    reached.push(at)
++    return Promise.resolve({ edits: [], refused: null })
++  })
++
++  await renamePath(world, { from: HELD_CODE, to: KEPT })
++
++  expect(new Set(reached)).toEqual(new Set(["change-mechanical/rename-imports"]))
++})
+diff --git a/changes/mechanical/pages/rename-path/rename-path.change-mechanical-file.ts b/changes/mechanical/pages/rename-path/rename-path.change-mechanical-file.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9de6fcaaf9bc46246ebe9be9eb714be43692f7e9
+--- /dev/null
++++ b/changes/mechanical/pages/rename-path/rename-path.change-mechanical-file.ts
+@@ -0,0 +1,13 @@
++import type { ChangeMechanicalFile } from "../../file/change-mechanical-file.page-type.ts"
++
++export const renamePath = {
++  id: "01a07718-c9b6-7bb2-9eb2-27a44ed4fe7d",
++  pageTypeSlug: "change-mechanical-file",
++  slug: "rename-path",
++  definition: "one file's path changed, with every body importing it repointed",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies ChangeMechanicalFile
+diff --git a/changes/mechanical/pages/rename-path/rename-path.change-mechanical.code.ts b/changes/mechanical/pages/rename-path/rename-path.change-mechanical.code.ts
+deleted file mode 100644
+index b420be501fb78ffc6ff0be5fecbb0885edb2d767..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/rename-path/rename-path.change-mechanical.code.ts
++++ /dev/null
+@@ -1,44 +0,0 @@
+-import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
+-import { answered, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-
+-const RENAME_IMPORTS = "change-mechanical/rename-imports"
+-
+-export type RenamePathAsked = {
+-  readonly from: string
+-  readonly to: string
+-}
+-
+-export async function renamePath(world: World, given: RenamePathAsked): Promise<Answer> {
+-  if (given.from === given.to) return refusing(`\`${given.to}\` is the path it already sits at`)
+-  const text = world.textOf(given.from)
+-  if (text === null) return refusing(`\`${given.from}\` could not be read`)
+-  if (world.textOf(given.to) !== null) return refusing(`\`${given.to}\` is a body already`)
+-  const moved = { [given.from]: given.to }
+-  const reading = importingOf(world.index, new Map(Object.entries(moved)))
+-  if ("unread" in reading) return refusing(reading.unread)
+-  const carried = await reach(world, RENAME_IMPORTS, {
+-    was: given.from,
+-    now: given.to,
+-    moved,
+-  })
+-  if (carried.said.refused !== null) return carried.said
+-  const edits: Edit[] = [...carried.said.edits]
+-  let seen = carried.world
+-  for (const path of reading.importers) {
+-    const held = seen.textOf(path)
+-    if (held === null) return refusing(`\`${path}\` names what moved and could not be read`)
+-    const said = await reach(seen, RENAME_IMPORTS, { was: path, now: path, moved })
+-    if (said.said.refused !== null) return said.said
+-    for (const one of said.said.edits) {
+-      if (one.body !== held) edits.push(one)
+-    }
+-    seen = said.world
+-  }
+-  return answered(edits)
+-}
+-
+-export async function runChange(world: World, given: RenamePathAsked): Promise<Answer> {
+-  return await renamePath(world, given)
+-}
+diff --git a/changes/mechanical/pages/rename-path/rename-path.change-mechanical.test.ts b/changes/mechanical/pages/rename-path/rename-path.change-mechanical.test.ts
+deleted file mode 100644
+index 2d7ddf233083c5245202073e0698ca38db053501..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/rename-path/rename-path.change-mechanical.test.ts
++++ /dev/null
+@@ -1,123 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import {
+-  HELD_CODE,
+-  indexedRepo,
+-  NAMER_CODE,
+-  scratch,
+-  textIn,
+-} from "@akasha/indexes/indexing/testing"
+-import { gathered, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import {
+-  type World,
+-  worldAt,
+-  worldOver,
+-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { runChange as renameImports } from "../rename-imports/rename-imports.change-mechanical.code.ts"
+-import { renamePath } from "./rename-path.change-mechanical.code.ts"
+-
+-afterAll(scratch.sweep)
+-
+-const KEPT = "akasha/one/kept.module.code.ts"
+-
+-const CARRIED = "akasha/one/carried.module.code.ts"
+-
+-function worldIn(root: string, textOf: (path: string) => string | null): World {
+-  return worldAt(root, textOf, (world, at, given) => {
+-    if (at === "change-mechanical/rename-imports") {
+-      return Promise.resolve(renameImports(world, given as Parameters<typeof renameImports>[1]))
+-    }
+-    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+-  })
+-}
+-
+-function pathsOf(said: Answer): readonly string[] {
+-  return said.edits.map((one) => one.path).sort()
+-}
+-
+-function movesOf(said: Answer): readonly Edit[] {
+-  return said.edits.filter((one) => one.from !== undefined)
+-}
+-
+-test("the path it already sits at is refused", async () => {
+-  const world = worldIn(scratch.rootFor("rename-path-"), () => null)
+-  const said = await renamePath(world, { from: KEPT, to: KEPT })
+-  expect(said.refused).toBe("`akasha/one/kept.module.code.ts` is the path it already sits at")
+-})
+-
+-test("a body that could not be read is refused", async () => {
+-  const world = worldIn(scratch.rootFor("rename-path-"), () => null)
+-  const said = await renamePath(world, { from: HELD_CODE, to: KEPT })
+-  expect(said.refused).toBe(`\`${HELD_CODE}\` could not be read`)
+-})
+-
+-test("a body already at the path it would move to is refused", async () => {
+-  const root = indexedRepo()
+-  const said = await renamePath(worldIn(root, textIn(root)), {
+-    from: HELD_CODE,
+-    to: NAMER_CODE,
+-  })
+-  expect(said.refused).toBe(`\`${NAMER_CODE}\` is a body already`)
+-})
+-
+-test("an index that cannot answer refuses rather than narrowing the reach", async () => {
+-  const held = (path: string): string | null =>
+-    path === HELD_CODE ? "export const kept = 1\n" : null
+-  const world = worldIn(scratch.rootFor("rename-path-"), held)
+-  const said = await renamePath(world, { from: HELD_CODE, to: KEPT })
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toContain("so none were repointed")
+-})
+-
+-test("a path that moves carries its importer with it", async () => {
+-  const root = indexedRepo()
+-  const text = textIn(root)
+-  const said = await renamePath(worldIn(root, text), { from: HELD_CODE, to: KEPT })
+-  expect(said.refused).toBe(null)
+-  expect(pathsOf(said)).toEqual([KEPT, NAMER_CODE].sort())
+-  expect(said.edits.find((one) => one.path === NAMER_CODE)?.body).toContain(
+-    "../one/kept.module.code.ts"
+-  )
+-})
+-
+-test("the path taken away is answered as the move the body arrives by", async () => {
+-  const root = indexedRepo()
+-  const text = textIn(root)
+-  const said = await renamePath(worldIn(root, text), { from: HELD_CODE, to: KEPT })
+-  const moves = movesOf(said)
+-  expect(moves).toHaveLength(1)
+-  expect(moves[0]?.from).toBe(HELD_CODE)
+-  expect(moves[0]?.path).toBe(KEPT)
+-  expect(moves[0]?.was).toBe(text(HELD_CODE))
+-})
+-
+-test("a move off a path the move before it made reads that path and its importers", async () => {
+-  const root = indexedRepo()
+-  const text = textIn(root)
+-  const world = worldIn(root, text)
+-  const first = await renamePath(world, { from: HELD_CODE, to: KEPT })
+-  expect(first.refused).toBe(null)
+-  const said = await renamePath(worldOver(world, gathered([first])), {
+-    from: KEPT,
+-    to: CARRIED,
+-  })
+-  expect(said.refused).toBe(null)
+-  expect(pathsOf(said)).toEqual([CARRIED, NAMER_CODE].sort())
+-  expect(said.edits.find((one) => one.path === NAMER_CODE)?.body).toContain(
+-    "../one/carried.module.code.ts"
+-  )
+-  expect(movesOf(said)[0]?.from).toBe(KEPT)
+-})
+-
+-test("the body that moves is repointed by the change reached at its address", async () => {
+-  const reached: string[] = []
+-  const root = indexedRepo()
+-  const world = worldAt(root, textIn(root), (_world, at) => {
+-    reached.push(at)
+-    return Promise.resolve({ edits: [], refused: null })
+-  })
+-
+-  await renamePath(world, { from: HELD_CODE, to: KEPT })
+-
+-  expect(new Set(reached)).toEqual(new Set(["change-mechanical/rename-imports"]))
+-})
+diff --git a/changes/mechanical/pages/rename-path/rename-path.change-mechanical.ts b/changes/mechanical/pages/rename-path/rename-path.change-mechanical.ts
+deleted file mode 100644
+index b54e6829f5031d40ccf6edafcf64641c032e2a4f..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/rename-path/rename-path.change-mechanical.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+-
+-export const renamePath = {
+-  id: "01a07718-c9b6-7bb2-9eb2-27a44ed4fe7d",
+-  pageTypeSlug: "change-mechanical",
+-  slug: "rename-path",
+-  definition: "one file's path changed, with every body importing it repointed",
+-  code: "ts",
+-  test: "ts",
+-  runsChecks: false,
+-  readersOweReading: false,
+-  writerOwesReading: false,
+-} as const satisfies ChangeMechanical
