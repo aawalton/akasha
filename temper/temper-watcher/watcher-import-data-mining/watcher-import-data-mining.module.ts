@@ -15,7 +15,7 @@ export const watcherImportDataMining = {
     },
     {
       invariantKind: "departure",
-      statement: "The items block and the quests block each go to an address of their own.",
+      statement: "The items block and the quests block go to addresses of their own.",
     },
     {
       invariantKind: "departure",
