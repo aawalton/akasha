@@ -9,8 +9,11 @@ export const supervisorDeferredRestart = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A restart fires once, and the timers that restart armed are cleared when that restart does.",
+      statement: "A restart fires once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The timers a restart armed are cleared when that restart fires.",
     },
     {
       invariantKind: "departure",
