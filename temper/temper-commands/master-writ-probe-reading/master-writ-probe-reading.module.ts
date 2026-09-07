@@ -9,7 +9,11 @@ export const masterWritProbeReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The probe is ruled on whole, so an unknown field refuses the read.",
+      statement: "The probe is ruled on whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An unknown field refuses the read.",
     },
   ],
 } as const satisfies Module
