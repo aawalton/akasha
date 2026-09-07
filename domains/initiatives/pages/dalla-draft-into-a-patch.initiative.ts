@@ -23,11 +23,6 @@ export const dallaDraftIntoAPatch = {
         "The apply has its own `unwarranted` at `apply.command.code.ts:112-126` rather than calling `unwarrantedIn`, and runs it above the glass, so `--break-the-glass` skips the checks and skips no warrant. Its predicate is `writerOwesReading !== false`, so a row silent about its writer is owing. Checks run on the apply alone; `akasha change` builds no gate. Left: `lint-exception` and `patch` declare `change-authored` and never ask, and `lint-exception` now states that absence.",
     },
     {
-      statement: "The record is carried and dropped by the landing rather than by each command.",
-      workingMemory:
-        "`carryLanded` in `landing-reading` is the one carry site, gated on the change kind's `readersOweReading` and handed the rename pairs at `asked.readings`, so the landing binds the carry. The drop is not the landing's yet: `dropReadings` is called from `reading`, `landing-reading`, `subagent-sweep`, `seat-stopping`, `subagent-presence` and `log-day-sweeping` rather than from one place.",
-    },
-    {
       statement: "Every mechanical change is a change page rather than code a command holds.",
       workingMemory:
         "The three tiers are one, every change sitting under `changes/pages` and taking a `World`. The `refactor` command that ran them is deleted, so a mechanical change is reached by its address through `change-running` or from the `akasha change` command line. `rename-page-address` and `rename-page-slug` are mechanical pages and `rename-page` is a checked one. Left: renaming a page type and its slug.",
