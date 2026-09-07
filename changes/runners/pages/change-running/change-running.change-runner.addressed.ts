@@ -1,4 +1,7 @@
 export type Changes = {
+  "change-mechanical-file/change-code-file": Parameters<
+    typeof import("../../../mechanical/file/pages/change-code-file/change-code-file.change-mechanical-file.code.ts")["runChange"]
+  >[1]
   "change-mechanical/add-code-file": Parameters<
     typeof import("../../../mechanical/pages/add-code-file/add-code-file.change-mechanical.code.ts")["runChange"]
   >[1]
