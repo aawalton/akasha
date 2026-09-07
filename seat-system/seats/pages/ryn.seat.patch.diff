@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-character-knowledge/knowledge-public-api/knowledge-public-api.module.ts b/temper/temper-lib-character-knowledge/knowledge-public-api/knowledge-public-api.module.ts
+index 934d8371a61c3268230d4a9f33242f3033d878f3..a3647330167281752bf15e171b7d66ccca6d4ae5 100644
+--- a/temper/temper-lib-character-knowledge/knowledge-public-api/knowledge-public-api.module.ts
++++ b/temper/temper-lib-character-knowledge/knowledge-public-api/knowledge-public-api.module.ts
+@@ -14,7 +14,7 @@ export const knowledgePublicApi = {
+     {
+       invariantKind: "constraint",
+       statement:
+-        "Whichever copy of a shared library loads first and is newest is the one the game uses.",
++        "Whichever copy of a shared library loads first and is newest is the copy the game uses.",
+     },
+   ],
+ } as const satisfies Module
