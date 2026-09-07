@@ -7,7 +7,7 @@ export const vacuumOffice = {
   title: "Vacuum office",
   toDoCategory: "health",
   difficulty: "light",
-  toDoDueDate: "2026-09-06",
+  toDoDueDate: "2026-09-07",
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 31,
