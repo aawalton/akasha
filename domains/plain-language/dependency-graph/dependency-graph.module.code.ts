@@ -1,3 +1,9 @@
+export type DepConfidence = {
+  upos: number
+  head: number
+  deprel: number
+}
+
 export type DepToken = {
   id: number
   form: string
@@ -8,11 +14,7 @@ export type DepToken = {
   end: number
   lemma?: string
   features?: Readonly<Record<string, string>>
-  confidence?: {
-    upos?: number
-    head?: number
-    deprel?: number
-  }
+  confidence?: DepConfidence
 }
 
 export type ParsedSentence = {

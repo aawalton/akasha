@@ -43,5 +43,17 @@ export const onnxParsing = {
       invariantKind: "departure",
       statement: "A text the model reads is written to the cache as a side effect of that reading.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A head's confidence is taken over the heads its own sentence offers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The cache is keyed by the shape a parse carries as well as by the model.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A parse stored under an earlier shape is read as no parse.",
+    },
   ],
 } as const satisfies Module

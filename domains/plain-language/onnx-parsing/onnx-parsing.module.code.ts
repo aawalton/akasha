@@ -81,6 +81,8 @@ const CAPABILITIES = ["sentence-boundaries", "tokens", "part-of-speech", "depend
 
 const LANGUAGES = ["en"]
 
+const PARSE_SHAPE = "2"
+
 function modelFileAt(propertySlug: string, held: string): string {
   const at = uncommittedBesideAt(fileURLToPath(MODEL_PAGE), propertySlug, held)
   if (at === null) throw new Error(`no \`${propertySlug}\` sits beside the parser model page`)
@@ -111,6 +113,21 @@ function bestOf(values: Float32Array, start: number, count: number): number {
     if (held > (values[start + best] ?? Number.NEGATIVE_INFINITY)) best = index
   }
   return best
+}
+
+function chanceAt(values: Float32Array, start: number, count: number, chosen: number): number {
+  let top = Number.NEGATIVE_INFINITY
+  for (let index = 0; index < count; index += 1) {
+    const held = values[start + index] ?? Number.NEGATIVE_INFINITY
+    if (held > top) top = held
+  }
+  if (!Number.isFinite(top)) return 0
+  let total = 0
+  for (let index = 0; index < count; index += 1) {
+    total += Math.exp((values[start + index] ?? Number.NEGATIVE_INFINITY) - top)
+  }
+  if (total === 0) return 0
+  return Math.exp((values[start + chosen] ?? Number.NEGATIVE_INFINITY) - top) / total
 }
 
 function floatsOf(held: ort.InferenceSession.ReturnType, name: string): Float32Array {
@@ -150,36 +167,52 @@ function headsFor(
   return decodeTree(scores)
 }
 
+type Scores = {
+  upos: Float32Array
+  arc: Float32Array
+  relation: Float32Array
+  maxWords: number
+}
+
 function builtSentence(
   manifest: Manifest,
   sentence: SentenceTokens,
   row: number,
-  maxWords: number,
-  heads: readonly number[],
-  upos: Float32Array,
-  relationScores: Float32Array
+  scores: Scores,
+  heads: readonly number[]
 ): ParsedSentence {
   const uposWidth = manifest.upos.length
   const relationWidth = manifest.relations.length
+  const maxWords = scores.maxWords
+  const headWidth = maxWords + 1
+  const words = sentence.words.length
   return {
     text: sentence.text,
     start: sentence.start,
     end: sentence.end,
-    tokens: sentence.words.map((word, index) => ({
-      id: index + 1,
-      form: word.form,
-      lemma: word.form.toLowerCase(),
-      upos:
-        manifest.upos[bestOf(upos, index3(row, index, uposWidth, maxWords), uposWidth)] ??
-        OTHER_CLASS,
-      head: heads[row * maxWords + index] ?? 0,
-      deprel:
-        manifest.relations[
-          bestOf(relationScores, index3(row, index, relationWidth, maxWords), relationWidth)
-        ] ?? UNSPECIFIED_RELATION,
-      start: word.start,
-      end: word.end,
-    })),
+    tokens: sentence.words.map((word, index) => {
+      const uposAt = index3(row, index, uposWidth, maxWords)
+      const uposPick = bestOf(scores.upos, uposAt, uposWidth)
+      const relationAt = index3(row, index, relationWidth, maxWords)
+      const relationPick = bestOf(scores.relation, relationAt, relationWidth)
+      const headAt = index3(row, index, headWidth, maxWords)
+      const head = heads[row * maxWords + index] ?? 0
+      return {
+        id: index + 1,
+        form: word.form,
+        lemma: word.form.toLowerCase(),
+        upos: manifest.upos[uposPick] ?? OTHER_CLASS,
+        head,
+        deprel: manifest.relations[relationPick] ?? UNSPECIFIED_RELATION,
+        start: word.start,
+        end: word.end,
+        confidence: {
+          upos: chanceAt(scores.upos, uposAt, uposWidth, uposPick),
+          head: chanceAt(scores.arc, headAt, words + 1, head),
+          deprel: chanceAt(scores.relation, relationAt, relationWidth, relationPick),
+        },
+      }
+    }),
   }
 }
 
@@ -243,17 +276,21 @@ async function parsedBatch(
       "relation_heads": tensorOf(output, "relation_heads"),
       "selected_heads": selectedHeadsTensor,
     })
-    const upos = floatsOf(output, "upos_logits")
-    const relationScores = floatsOf(relationOutput, "relation_logits")
+    const scores: Scores = {
+      upos: floatsOf(output, "upos_logits"),
+      arc,
+      relation: floatsOf(relationOutput, "relation_logits"),
+      maxWords,
+    }
     return sentences.map((sentence, row) =>
-      builtSentence(held.manifest, sentence, row, maxWords, selectedHeads, upos, relationScores)
+      builtSentence(held.manifest, sentence, row, scores, selectedHeads)
     )
   } finally {
-    const held = new Set<ort.Tensor>(Object.values(feeds))
-    for (const tensor of tensorsIn(output)) held.add(tensor)
-    for (const tensor of tensorsIn(relationOutput)) held.add(tensor)
-    if (selectedHeadsTensor !== undefined) held.add(selectedHeadsTensor)
-    for (const tensor of held) tensor.dispose()
+    const open = new Set<ort.Tensor>(Object.values(feeds))
+    for (const tensor of tensorsIn(output)) open.add(tensor)
+    for (const tensor of tensorsIn(relationOutput)) open.add(tensor)
+    if (selectedHeadsTensor !== undefined) open.add(selectedHeadsTensor)
+    for (const tensor of open) tensor.dispose()
   }
 }
 
@@ -302,7 +339,8 @@ export async function loadOnnxParser(options: OnnxParserOptions = {}): Promise<D
     capabilities: CAPABILITIES,
     modelHash: manifest["source_checkpoint_sha256"],
   }
-  const cache = makeParseCache(descriptor.modelHash, dirname(fileURLToPath(import.meta.url)))
+  const shaped = `${descriptor.modelHash ?? UNKNOWN_VERSION}-shape-${PARSE_SHAPE}`
+  const cache = makeParseCache(shaped, dirname(fileURLToPath(import.meta.url)))
   return {
     descriptor,
     parse: async (text: string) => {

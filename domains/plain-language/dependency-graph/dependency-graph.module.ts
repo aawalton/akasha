@@ -35,5 +35,17 @@ export const dependencyGraph = {
       invariantKind: "departure",
       statement: "A cycle is broken by the swap that costs the least score.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A token the model built carries how sure the model was of each class.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A confidence is the chance the model gave the class the model chose.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A token built by hand carries no confidence.",
+    },
   ],
 } as const satisfies Module
