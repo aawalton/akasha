@@ -1,5 +1,22 @@
 writerOwesReading: false
 readersOweReading: false
+diff --git a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
+index 84e5ac9d0d7cdf7d375f08f9e53b802bab4c5812..369ca57d124393f27a7ad8b4615e36a4d4e43303 100644
+--- a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
++++ b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
+@@ -2,12 +2,6 @@
+ # ~/.bashrc: executed by bash(1) for non-login shells.
+ # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+ # for examples
+-#
+-# PARITY: keep feature-aligned with the `zshrc` provisioned-file page (the macOS
+-# MacBook's zsh config). This file is Linux/bash-specific (linuxbrew prefix,
+-# /home paths, `shopt`, bash completions); .zshrc carries the macOS-correct
+-# equivalents. When you add a shared feature (a PATH entry, a secret load, a
+-# tool init) here, add the platform-correct version to .zshrc too.
+ 
+ # If not running interactively, don't do anything
+ case $- in
 diff --git a/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh b/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh
 old mode 100755
 new mode 100644
