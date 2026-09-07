@@ -103,3 +103,17 @@ index 1f3f2f039100fc43f320f3ff3b2a7a40d92236d4..c376344fdeacd8f50df3d18a47a3dc15
  export async function overServer(op: WriteOverServerOp, args: unknown): Promise<Json> {
    let response: Response
    try {
+diff --git a/pages/access/over-server/over-server.module.ts b/pages/access/over-server/over-server.module.ts
+index bf329c6d22bf640a26a99f3d510c85d4783fd15f..6267addc717457b3c3ca0b9a31061cde7aa1cee3 100644
+--- a/pages/access/over-server/over-server.module.ts
++++ b/pages/access/over-server/over-server.module.ts
+@@ -15,5 +15,9 @@ export const overServer = {
+       invariantKind: "departure",
+       statement: "The guards inside that function judge a write from a browser unchanged.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The roster a guard reads comes from the route the app answers page types on.",
++    },
+   ],
+ } as const satisfies Module
