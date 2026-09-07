@@ -25,7 +25,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A file that is not text is refused rather than decoded into an edit.",
       workingMemory:
-        '`change.command.code.ts:111-121` reads a file with `readFileSync(path, "utf8")` and no text check, so every byte the decoder rejects becomes U+FFFD one way. Re-encoding five of olwen\'s sampled wallpapers the way the apply writes them grew 7,410,188 bytes to 13,431,160; 0 of 5 came back, and the move it drafted would have replaced all 76 with files that are no longer PNGs. `asking.module.code.ts:143-149` already holds the strict decoder `akasha read` refuses with.',
+        "Landed as a refusal at `change.command.code.ts`, reusing `decodeUtf8` from `code-system/utf8-body`. Measured: of 121,768 tracked files exactly 80 fail a strict decode, all `.png`, two per persona. That refusal also blocks removing one, which was safe before, as a removal carries a null body. The precise route is declared already: `holdsBytes` is true on the two wallpaper file properties and nowhere else, and `no-raw-nul-bytes` reads it. A file declaring bytes is carried rather than decoded.",
     },
     {
       statement: "The edits kept fold as each edit is appended.",
