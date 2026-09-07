@@ -1,0 +1,24 @@
+diff --git a/bun.lock b/bun.lock
+index 3dd8ae0fdeea0b16b749975ca72612ba33c9a558..67b400a1ea2a850bfe10e485b92653c89b77a742 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -774,6 +774,7 @@
+     "email-watch": {
+       "name": "@akasha/email-watch",
+       "dependencies": {
++        "@akasha/code": "workspace:*",
+         "@akasha/google-email": "workspace:*",
+         "@akasha/pages": "workspace:*",
+         "@akasha/rules-engine": "workspace:*",
+diff --git a/email-watch/package.json b/email-watch/package.json
+index 59f5d0ae3949f2103155e80cd90d7712afd00faa..3b4c315d5d7df45fa44f8c7751b86c6c0333a2e7 100644
+--- a/email-watch/package.json
++++ b/email-watch/package.json
+@@ -10,6 +10,7 @@
+     "./inbox-watching": "./inbox-watching/inbox-watching.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/code": "workspace:*",
+     "@akasha/seat-system": "workspace:*",
+     "@akasha/google-email": "workspace:*",
+     "@akasha/pages": "workspace:*",
