@@ -6,6 +6,7 @@ export const inboxCountWriting = {
   slug: "inbox-count-writing",
   definition: "the counts one poll took, written onto that day's tracking row",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -35,6 +36,14 @@ export const inboxCountWriting = {
     {
       invariantKind: "departure",
       statement: "A read or a write that fails ends the run rather than answering half a reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Counts the day already carries are not landed again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count already on the day is read as the number that count spells.",
     },
   ],
 } as const satisfies Module

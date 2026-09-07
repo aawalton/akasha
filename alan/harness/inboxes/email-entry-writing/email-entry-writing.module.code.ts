@@ -19,7 +19,7 @@ const LOWEST_INBOX_COUNT = "lowestInboxCount"
 
 export const INBOX_WRITER = "inbox-tracking"
 
-export type PersistOutcome = "created" | "patched"
+export type PersistOutcome = "created" | "patched" | "unchanged"
 
 type Standing = Readonly<Record<string, unknown>> | undefined
 

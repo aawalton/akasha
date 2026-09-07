@@ -1,3 +1,4 @@
+import { saidBy } from "@akasha/command-system/fault-saying"
 import { dayAfter } from "@akasha/day/day-string"
 import { makeGmailClient } from "@akasha/google-email/client"
 import { INBOX_LABEL, listMessages } from "@akasha/google-email/messages"
@@ -12,12 +13,9 @@ const TEMPER_TASK_PAGE_TYPE_SLUG = "temper-task"
 const TO_DO_DUE_DATE = "toDoDueDate"
 const TO_DO_COMPLETED_AT = "toDoCompletedAt"
 const TEMPER_TASK_DUE_DATE = "dueDate"
+const TEMPER_TASK_COMPLETED_AT = "completedAt"
 
 export type PollLogger = (level: "INFO" | "ERROR", message: string) => void
-
-function errMessage(err: unknown): string {
-  return err instanceof Error ? err.message : String(err)
-}
 
 async function pollEmail(): Promise<number> {
   const client = await makeGmailClient()
@@ -50,7 +48,18 @@ async function pollToDosDue(dayStr: string): Promise<number> {
 async function pollTemperTasksDue(dayStr: string): Promise<number> {
   return howMany(TEMPER_TASK_PAGE_TYPE_SLUG, {
     [TEMPER_TASK_DUE_DATE]: { before: dayAfter(dayStr) },
+    [TEMPER_TASK_COMPLETED_AT]: { empty: true },
   })
+}
+
+export type TaskCounts = {
+  readonly tasks: number
+  readonly temperTasks: number
+}
+
+export async function pollTaskCounts(dayStr: string): Promise<TaskCounts> {
+  const [tasks, temperTasks] = await Promise.all([pollToDosDue(dayStr), pollTemperTasksDue(dayStr)])
+  return { tasks, temperTasks }
 }
 
 export async function pollInboxCounts(
@@ -68,7 +77,7 @@ export async function pollInboxCounts(
       try {
         return [key, await run()] as const
       } catch (err) {
-        log("ERROR", `inbox source '${key}' failed (omitted): ${errMessage(err)}`)
+        log("ERROR", `inbox source '${key}' failed (omitted): ${saidBy(err)}`)
         return [key, undefined] as const
       }
     })

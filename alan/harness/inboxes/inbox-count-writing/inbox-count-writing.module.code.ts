@@ -1,3 +1,4 @@
+import { statedAt } from "@akasha/readout-system/readout-tier"
 import {
   DAILY_TRACKING,
   landDayPage,
@@ -16,7 +17,7 @@ import {
   type InboxKey,
 } from "../inbox-keys/inbox-keys.module.code.ts"
 
-type Standing = Readonly<Record<string, unknown>> | undefined
+type RowBefore = Readonly<Record<string, unknown>> | undefined
 
 function truthy(value: unknown): boolean {
   return value === true || value === 1 || value === "true"
@@ -24,7 +25,7 @@ function truthy(value: unknown): boolean {
 
 function buildAttrs(
   counts: Partial<Record<InboxKey, number>>,
-  row: Standing
+  row: RowBefore
 ): Record<string, number | boolean> {
   const attrs: Record<string, number | boolean> = {}
   for (const key of INBOX_KEYS) {
@@ -38,6 +39,21 @@ function buildAttrs(
   return attrs
 }
 
+export function alreadyThere(
+  attrs: Readonly<Record<string, number | boolean>>,
+  row: RowBefore
+): boolean {
+  if (row === undefined) return false
+  for (const [key, value] of Object.entries(attrs)) {
+    if (typeof value === "boolean") {
+      if (truthy(row[key]) !== value) return false
+    } else if (statedAt(row[key]) !== value) {
+      return false
+    }
+  }
+  return true
+}
+
 export async function persistInboxCounts(
   counts: Partial<Record<InboxKey, number>>,
   day: string,
@@ -49,6 +65,7 @@ export async function persistInboxCounts(
   const asked = await askDayByDate(day)
   if (!asked.ok) throw new Error(`reading ${DAILY_TRACKING} for ${day}: ${asked.why}`)
   const attrs = buildAttrs(counts, asked.rows[0]?.values)
+  if (alreadyThere(attrs, asked.rows[0]?.values)) return "unchanged"
   const { created } = await resolveOrCreateDaily(null, day)
   const landed = await landDayPage("patch", day, attrs, INBOX_WRITER)
   if (!landed.ok) throw new Error(`writing ${DAILY_TRACKING} for ${day}: ${landed.why}`)

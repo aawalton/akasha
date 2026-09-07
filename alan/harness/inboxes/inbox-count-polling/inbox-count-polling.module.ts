@@ -29,11 +29,15 @@ export const inboxCountPolling = {
     },
     {
       invariantKind: "departure",
-      statement: "A temper task is owed on its due date alone.",
+      statement: "A temper task is owed where its day has come and the task is not done.",
     },
     {
       invariantKind: "constraint",
-      statement: "A temper task's recurrence moves its due date on once the task is done.",
+      statement: "A temper task that recurs no further keeps the due date that task was done on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The two counts read from the checkout are taken together on their own.",
     },
     {
       invariantKind: "constraint",
