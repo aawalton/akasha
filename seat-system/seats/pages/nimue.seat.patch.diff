@@ -1,0 +1,478 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/checked/pages/remove-page/remove-page.change-checked.code.ts b/changes/checked/pages/remove-page/remove-page.change-checked.code.ts
+index 73150b455a8a3674ca289cf1d91441ad419e7ffd..e44a564197b888b8c9f910c920366957f2228c6d 100644
+--- a/changes/checked/pages/remove-page/remove-page.change-checked.code.ts
++++ b/changes/checked/pages/remove-page/remove-page.change-checked.code.ts
+@@ -1,18 +1,19 @@
+ import { partedIn } from "@akasha/pages/page-file-name"
+-import { removePage as removeOrdinaryPage } from "../../../mechanical/pages/remove-page/remove-page.change-mechanical.code.ts"
+ import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ const AT = "at"
+ 
+ const PAGE_TYPE = "page-type"
+ 
++const REMOVE_PAGE = "change-mechanical/remove-page"
++
+ export type RemovePageAsked = {
+   readonly at: string
+ }
+ 
+-export function removePage(world: World, given: RemovePageAsked): Answer {
++export async function removePage(world: World, given: RemovePageAsked): Promise<Answer> {
+   const said = partedIn(given.at)
+   if (said === null || said.sections.length > 0) {
+     return refusing(`\`${given.at}\` reads as no page file, so no page is taken away`)
+@@ -22,15 +23,13 @@ export function removePage(world: World, given: RemovePageAsked): Answer {
+       `\`${given.at}\` is a page type, which \`remove-page-type\` takes away rather than this change`
+     )
+   }
+-  return removeOrdinaryPage(world, { at: given.at })
++  return await reach(world, REMOVE_PAGE, { at: given.at })
+ }
+ 
+ export type Asked = Readonly<Record<string, string>>
+ 
+-// A command line hands the arguments in as text worked out while the command runs, so the shape is
+-// read here rather than trusted, and a shape this change cannot use is refused by name.
+-export function runChange(world: World, given: Asked): Answer {
++export async function runChange(world: World, given: Asked): Promise<Answer> {
+   const at = given[AT]
+   if (at === undefined) return refusing(missing(AT))
+-  return removePage(world, { at })
++  return await removePage(world, { at })
+ }
+diff --git a/changes/checked/pages/remove-page/remove-page.change-checked.test.ts b/changes/checked/pages/remove-page/remove-page.change-checked.test.ts
+index f61c576859ffee8d1e7aee8c8b2175101d5bc73b..22aeb0e8cf3f29e2ff48053c24d50371c940c042 100644
+--- a/changes/checked/pages/remove-page/remove-page.change-checked.test.ts
++++ b/changes/checked/pages/remove-page/remove-page.change-checked.test.ts
+@@ -23,20 +23,37 @@ const UNASKED: World = {
+   over: NOTHING_OVER,
+ }
+ 
+-test("a page type is refused, and the refusal names the change that takes a page type away", () => {
+-  const said = removePage(UNASKED, { at: "changes/change.page-type.ts" })
++test("a page type is refused, and the refusal names the change that takes a page type away", async () => {
++  const said = await removePage(UNASKED, { at: "changes/change.page-type.ts" })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused ?? "").toMatch(/remove-page-type/)
+ })
+ 
+-test("a page type is refused from the path alone, with the world never asked", () => {
+-  expect(() => removePage(UNASKED, { at: "changes/change.page-type.ts" })).not.toThrow()
++test("a page type is refused from the path alone, with the world never asked", async () => {
++  await expect(removePage(UNASKED, { at: "changes/change.page-type.ts" })).resolves.toBeDefined()
+ })
+ 
+-test("a path reading as no page file is refused", () => {
+-  const said = removePage(UNASKED, { at: "changes/notes.md" })
++test("a path reading as no page file is refused", async () => {
++  const said = await removePage(UNASKED, { at: "changes/notes.md" })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused ?? "").toMatch(/no page file/)
+ })
++
++test("a page this change hands on is reached through the runner the world carries", async () => {
++  let reached = ""
++  const said = await removePage(
++    {
++      ...UNASKED,
++      reaching: (_world, at) => {
++        reached = at
++        return Promise.resolve(NOTHING_OVER)
++      },
++    },
++    { at: "changes/one.module.ts" }
++  )
++
++  expect(reached).toBe("change-mechanical/remove-page")
++  expect(said.refused).toBeNull()
++})
+diff --git a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
+index 48071f3ee99747a7b1a0a48986cd9a5f9312879c..3906149f5cd9a187f2350d002e0930cc5176226e 100644
+--- a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
++++ b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
+@@ -1,25 +1,22 @@
+ import type { Named } from "@akasha/indexes"
+ import { partedIn } from "@akasha/pages/page-file-name"
+ import type { Value } from "@akasha/pages/page-value"
+-import { importNotLeftHanging } from "../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
+-import { relationNotLeftHanging } from "../../../guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
+ import {
+   answered,
+   gathered,
+   refusing,
+ } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
+-import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
+-import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
+ 
+ const PART_SLUGS = "part-slugs"
+ 
+ const PART_SLUGS_KEY = "partSlugs"
+ 
+-const GUARDS = [relationNotLeftHanging, importNotLeftHanging]
++const REMOVE_FILE = "change-mechanical/remove-file"
++
++const REMOVE_PROPERTY_VALUE = "change-mechanical/remove-property-value"
+ 
+ export type RemoveOrdinaryPageAsked = {
+   readonly at: string
+@@ -41,14 +38,13 @@ export function parentsOf(world: World, at: string): readonly Named[] {
+   return found
+ }
+ 
+-/** A parent names the page qualified or bare, so the bare spelling is tried where the other refuses. */
+-function unnamingIn(world: World, at: string): Answer {
++async function unnamingIn(world: World, at: string): Promise<Answer> {
+   const said = partedIn(at)
+   if (said === null) return answered([])
+   const qualified = `${said.pageType}/${said.slug}`
+   const answers: Answer[] = []
+   for (const parent of parentsOf(world, at)) {
+-    const one = removePropertyValue(world, {
++    const one = await reach(world, REMOVE_PROPERTY_VALUE, {
+       at: parent.path,
+       key: PART_SLUGS_KEY,
+       value: qualified,
+@@ -57,7 +53,7 @@ function unnamingIn(world: World, at: string): Answer {
+       answers.push(one)
+       continue
+     }
+-    const bare = removePropertyValue(world, {
++    const bare = await reach(world, REMOVE_PROPERTY_VALUE, {
+       at: parent.path,
+       key: PART_SLUGS_KEY,
+       value: said.slug,
+@@ -68,7 +64,7 @@ function unnamingIn(world: World, at: string): Answer {
+   return gathered(answers)
+ }
+ 
+-export function removePage(world: World, given: RemoveOrdinaryPageAsked): Answer {
++export async function removePage(world: World, given: RemoveOrdinaryPageAsked): Promise<Answer> {
+   let beside: readonly string[]
+   try {
+     const value = pageIn(world, given.at)
+@@ -78,12 +74,13 @@ export function removePage(world: World, given: RemoveOrdinaryPageAsked): Answer
+     const why = cause instanceof Error ? cause.message : String(cause)
+     return refusing(`${why}, so the files beside \`${given.at}\` were not worked out`)
+   }
+-  const taken = beside.map((one) => removeFile({ at: one }, world.textOf))
+-  const unnamed = unnamingIn(world, given.at)
++  const taken: Answer[] = []
++  for (const one of beside) taken.push(await reach(world, REMOVE_FILE, { at: one }))
++  const unnamed = await unnamingIn(world, given.at)
+   if (unnamed.refused !== null) return unnamed
+-  return guardedBy(world, gathered([...taken, unnamed]), GUARDS)
++  return gathered([...taken, unnamed])
+ }
+ 
+-export function runChange(world: World, given: RemoveOrdinaryPageAsked): Answer {
+-  return removePage(world, given)
++export async function runChange(world: World, given: RemoveOrdinaryPageAsked): Promise<Answer> {
++  return await removePage(world, given)
+ }
+diff --git a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.test.ts b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.test.ts
+index a0a12ffe621e0301d4d76f7579a9b321817cd132..0dca86bf75ac686e9f6c28e0fc0f4d1a96cf566c 100644
+--- a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.test.ts
++++ b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.test.ts
+@@ -12,16 +12,35 @@ import {
+   textIn,
+ } from "@akasha/indexes/indexing/testing"
+ import { relationNotLeftHanging } from "../../../guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
+-import { answered, taking } from "../../../modules/change-answer/change-answer.module.code.ts"
++import {
++  answered,
++  refusing,
++  taking,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+ import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+ import {
++  type Reaching,
+   type World,
+   worldAt,
+   worldOver,
+ } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
++import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
+ import { parentsOf, removePage } from "./remove-page.change-mechanical.code.ts"
+ 
++type Unnaming = { at: string; key: string; value: string }
++
++const RUNS: Reaching = (world, at, given) => {
++  if (at === "change-mechanical/remove-file") {
++    return Promise.resolve(removeFile(given as { at: string }, world.textOf))
++  }
++  if (at === "change-mechanical/remove-property-value") {
++    return Promise.resolve(removePropertyValue(world, given as Unnaming))
++  }
++  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
++}
++
+ afterAll(scratch.sweep)
+ 
+ const MISSING = "akasha/one/missing.module.ts"
+@@ -72,7 +91,7 @@ const CHILD = pageOf({
+ })
+ 
+ function worldIn(root: string): World {
+-  return worldAt(root, textIn(root))
++  return worldAt(root, textIn(root), RUNS)
+ }
+ 
+ function keptRepo(): string {
+@@ -121,11 +140,11 @@ function tookAway(root: string, path: string): Answer {
+   return answered([taking(path, textIn(root)(path) ?? "")])
+ }
+ 
+-test("a page and the file beside that page are taken away together", () => {
++test("a page and the file beside that page are taken away together", async () => {
+   const root = indexedRepo(SPARE)
+   const was = textIn(root)
+ 
+-  const said = removePage(worldIn(root), { at: NAMER_PAGE })
++  const said = await removePage(worldIn(root), { at: NAMER_PAGE })
+ 
+   expect(said.refused).toBe(null)
+   expect(said.edits.map((one) => one.path).sort()).toEqual([NAMER_CODE, NAMER_PAGE])
+@@ -135,49 +154,51 @@ test("a page and the file beside that page are taken away together", () => {
+   }
+ })
+ 
+-test("a page another page still names is refused by the guards this change names", () => {
++test("a page another page still names is refused by the guards this change names", async () => {
+   const root = indexedRepo(SPARE)
++  const world = worldIn(root)
+ 
+-  const said = removePage(worldIn(root), { at: HELD_PAGE })
++  const answer = await removePage(world, { at: HELD_PAGE })
++  const said = guardedBy(world, answer, [relationNotLeftHanging])
+ 
+-  expect(said.edits).toEqual([])
++  expect(answer.refused).toBe(null)
+   expect(said.refused ?? "").toContain(`\`${HELD_PAGE}\` is taken away`)
+ })
+ 
+-test("a path the world names no page at is refused", () => {
++test("a path the world names no page at is refused", async () => {
+   const root = indexedRepo()
+ 
+-  const said = removePage(worldIn(root), { at: MISSING })
++  const said = await removePage(worldIn(root), { at: MISSING })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused).toBe(`\`${MISSING}\` names no page, so no page is taken away`)
+ })
+ 
+-test("a page holding no body is refused by the removal of its own file", () => {
++test("a page holding no body is refused by the removal of its own file", async () => {
+   const root = indexedRepo(SPARE)
+   const was = textIn(root)
+   const reading = (path: string): string | null => (path === NAMER_PAGE ? null : was(path))
+ 
+-  const said = removePage(worldAt(root, reading), { at: NAMER_PAGE })
++  const said = await removePage(worldAt(root, reading, RUNS), { at: NAMER_PAGE })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused).toBe(`\`${NAMER_PAGE}\` holds no body, so a removal takes nothing away`)
+ })
+ 
+-test("a file beside the page git does not track is taken away too", () => {
++test("a file beside the page git does not track is taken away too", async () => {
+   const root = keptRepo()
+ 
+-  const said = removePage(worldIn(root), { at: KEPT_PAGE })
++  const said = await removePage(worldIn(root), { at: KEPT_PAGE })
+ 
+   expect(said.refused).toBe(null)
+   expect(said.edits.map((one) => one.path).sort()).toEqual([KEPT_NOTES, KEPT_PAGE])
+ })
+ 
+-test("a page an earlier change in the same answer took away is no page here", () => {
++test("a page an earlier change in the same answer took away is no page here", async () => {
+   const root = indexedRepo(SPARE)
+   const world = worldOver(worldIn(root), tookAway(root, NAMER_PAGE))
+ 
+-  const said = removePage(world, { at: NAMER_PAGE })
++  const said = await removePage(world, { at: NAMER_PAGE })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused).toBe(`\`${NAMER_PAGE}\` names no page, so no page is taken away`)
+@@ -198,11 +219,11 @@ test("a parent an earlier change in the same answer took away is answered no lon
+   expect(parentsOf(world, HELD_PAGE)).toEqual([])
+ })
+ 
+-test("the page and the parent's entry for that page go in one answer", () => {
++test("the page and the parent's entry for that page go in one answer", async () => {
+   const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "module/child") })
+   const was = textIn(root)
+ 
+-  const said = removePage(worldIn(root), { at: CHILD_PAGE })
++  const said = await removePage(worldIn(root), { at: CHILD_PAGE })
+ 
+   expect(said.refused).toBe(null)
+   expect(said.edits.map((one) => one.path).sort()).toEqual([CHILD_PAGE, PARENT_PAGE])
+@@ -212,10 +233,10 @@ test("the page and the parent's entry for that page go in one answer", () => {
+   expect(said.edits.find((one) => one.path === PARENT_PAGE)?.was).toBe(was(PARENT_PAGE))
+ })
+ 
+-test("a parent naming the page bare rather than qualified loses that entry too", () => {
++test("a parent naming the page bare rather than qualified loses that entry too", async () => {
+   const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "child") })
+ 
+-  const said = removePage(worldIn(root), { at: CHILD_PAGE })
++  const said = await removePage(worldIn(root), { at: CHILD_PAGE })
+ 
+   expect(said.refused).toBe(null)
+   expect(said.edits.map((one) => one.path).sort()).toEqual([CHILD_PAGE, PARENT_PAGE])
+@@ -223,13 +244,13 @@ test("a parent naming the page bare rather than qualified loses that entry too",
+   expect(bodyIn(said, PARENT_PAGE)).not.toContain('"child"')
+ })
+ 
+-test("a page two parents name loses its entry in both", () => {
++test("a page two parents name loses its entry in both", async () => {
+   const root = familyRepo({
+     [PARENT_PAGE]: naming("parent", idOf("e"), "module/child"),
+     [AUNT_PAGE]: naming("aunt", idOf("f"), "module/child"),
+   })
+ 
+-  const said = removePage(worldIn(root), { at: CHILD_PAGE })
++  const said = await removePage(worldIn(root), { at: CHILD_PAGE })
+ 
+   expect(said.refused).toBe(null)
+   expect(said.edits.map((one) => one.path).sort()).toEqual([AUNT_PAGE, CHILD_PAGE, PARENT_PAGE])
+@@ -237,12 +258,12 @@ test("a page two parents name loses its entry in both", () => {
+   expect(bodyIn(said, AUNT_PAGE)).toContain('"partSlugs": []')
+ })
+ 
+-test("a page its parent names is refused by the relation guard no longer", () => {
++test("a page its parent names is refused by the relation guard no longer", async () => {
+   const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "module/child") })
+   const world = worldIn(root)
+   const alone = guardedBy(world, tookAway(root, CHILD_PAGE), [relationNotLeftHanging])
+ 
+   expect(parentsOf(world, CHILD_PAGE)).toEqual([{ path: PARENT_PAGE, propertySlug: "part-slugs" }])
+   expect(alone.refused ?? "").toContain(`\`${CHILD_PAGE}\` is taken away`)
+-  expect(removePage(world, { at: CHILD_PAGE }).refused).toBe(null)
++  expect((await removePage(world, { at: CHILD_PAGE })).refused).toBe(null)
+ })
+diff --git a/changes/modules/change-shadow/change-shadow.module.code.ts b/changes/modules/change-shadow/change-shadow.module.code.ts
+index 67d1d57426231e96ab921efbfabfd087dae2d9f3..787e06a4abcb67ddf6a207b3927a95ab3e873086 100644
+--- a/changes/modules/change-shadow/change-shadow.module.code.ts
++++ b/changes/modules/change-shadow/change-shadow.module.code.ts
+@@ -6,21 +6,30 @@ import {
+   shadowAt,
+   shadowFor,
+ } from "../../../pages/shadow/shadow.module.code.ts"
+-import { gathered } from "../change-answer/change-answer.module.code.ts"
++import { gathered, refusing } from "../change-answer/change-answer.module.code.ts"
+ import type { Answer, Edit } from "../change-answer/change-answer.module.types.ts"
+ 
+ const BYTES = new TextEncoder()
+ 
+-/** The files and the index a change reads, as the answers before that change left both. */
++export type Reaching = (world: World, at: string, given: unknown) => Promise<Answer>
++
+ export type World = {
+   readonly root: string
+   readonly index: Answering
+   readonly textOf: (path: string) => string | null
+   readonly over: Answer
++  readonly reaching?: Reaching
+ }
+ 
+ export const NOTHING_OVER: Answer = { edits: [], refused: null }
+ 
++const REACHES_NOTHING: Reaching = (_world, at) =>
++  Promise.resolve(refusing(`\`${at}\` is reached by no runner, so no change was run`))
++
++export async function reach(world: World, at: string, given: unknown): Promise<Answer> {
++  return await (world.reaching ?? REACHES_NOTHING)(world, at, given)
++}
++
+ function bytesOf(body: string | null): Uint8Array | null {
+   return body === null ? null : BYTES.encode(body)
+ }
+@@ -53,7 +62,6 @@ export function shadowOver(root: string, said: Answer): Cast {
+   return shadowFor(changeOver(root, said))
+ }
+ 
+-/** A move empties the path it came from, and every other edit leaves its own path. */
+ function bodiesIn(said: Answer): ReadonlyMap<string, string | null> {
+   const found = new Map<string, string | null>()
+   for (const one of said.edits) {
+@@ -63,8 +71,12 @@ function bodiesIn(said: Answer): ReadonlyMap<string, string | null> {
+   return found
+ }
+ 
+-export function worldAt(root: string, textOf: (path: string) => string | null): World {
+-  return { root, index: shadowAt(root).index, textOf, over: NOTHING_OVER }
++export function worldAt(
++  root: string,
++  textOf: (path: string) => string | null,
++  reaching: Reaching = REACHES_NOTHING
++): World {
++  return { root, index: shadowAt(root).index, textOf, over: NOTHING_OVER, reaching }
+ }
+ 
+ export function worldOver(world: World, said: Answer): World {
+@@ -75,5 +87,6 @@ export function worldOver(world: World, said: Answer): World {
+     index,
+     textOf: (path) => (held.has(path) ? (held.get(path) ?? null) : world.textOf(path)),
+     over: gathered([world.over, said]),
++    reaching: world.reaching,
+   }
+ }
+diff --git a/command-system/commands/change/change.command.code.ts b/command-system/commands/change/change.command.code.ts
+index bacb1acdd30d8d44580c3e0cb04f0031cd0474bf..3c2e2a74a7a75bd5072b326bab5c4c96d5c4376e 100644
+--- a/command-system/commands/change/change.command.code.ts
++++ b/command-system/commands/change/change.command.code.ts
+@@ -21,6 +21,7 @@ import {
+   type Loaded,
+   loadedAt,
+   ranBy,
++  runAt,
+ } from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
+ import {
+   type Given as Arguments,
+@@ -85,7 +86,7 @@ function textIn(root: string): (path: string) => string | null {
+ }
+ 
+ function worldFor(root: string, had: readonly Edit[], before: Said): World {
+-  const base = worldAt(root, textIn(root))
++  const base = worldAt(root, textIn(root), runAt)
+   return had.length === 0 ? base : worldOver(base, before)
+ }
+ 
+@@ -121,7 +122,10 @@ export function takingOf(world: World): Taking {
+ }
+ 
+ export function helping(root: string, calledAs: string): Answer {
+-  const surface = { taking: takingOf(worldAt(root, textIn(root))), helpNotes: changePage.helpNotes }
++  const surface = {
++    taking: takingOf(worldAt(root, textIn(root), runAt)),
++    helpNotes: changePage.helpNotes,
++  }
+   return { report: helpOf(calledAs, changePage.definition, surface), refusals: [], code: 0 }
+ }
+ 
+@@ -239,7 +243,7 @@ export async function changing(
+   loading: Loading,
+   applying: Applying
+ ): Promise<Answer> {
+-  const world = worldAt(root, textIn(root))
++  const world = worldAt(root, textIn(root), runAt)
+   const slug = argv[0]
+   if (slug === undefined) {
+     return mistaking([`no change is named, and this runs one of ${runsSaid(world)}`, DROP_SAID])
