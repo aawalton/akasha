@@ -6,17 +6,7 @@ export const infrastructureCommands = {
   slug: "infrastructure-commands",
   definition: "what an agent runs by name over what the system runs on",
   manifest: "json",
-  partSlugs: [
-    "command/cluster-rbac-manifest",
-    "command/talos-apply",
-    "command/talos-bootstrap",
-    "command/talos-config-gen",
-    "command/talos-health",
-    "command/talos-image-build",
-    "command/talos-kubeconfig",
-    "command/talos-remote-install",
-    "command/talos-secrets-gen",
-  ],
+  partSlugs: [],
   invariants: [
     {
       invariantKind: "departure",

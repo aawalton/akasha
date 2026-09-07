@@ -107,6 +107,8 @@ export const command = {
     "namespace/music",
     "namespace/inference",
     "namespace/mobile",
+    "namespace/talos",
+    "command/cluster-rbac-manifest",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/calling",
