@@ -1,0 +1,17 @@
+diff --git a/temper/temper-character/temper-character.domain.ts b/temper/temper-character/temper-character.domain.ts
+index a4497e553c24af4633c3895fec43ef440839369c..59c25c9bc774f9838ae384353385669be98e3775 100644
+--- a/temper/temper-character/temper-character.domain.ts
++++ b/temper/temper-character/temper-character.domain.ts
+@@ -25,7 +25,11 @@ export const temperCharacter = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A name is author-given, so several builds answer to the same name.",
++      statement: "A name is author-given.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Several builds answer to one name.",
+     },
+   ],
+ } as const satisfies Domain
