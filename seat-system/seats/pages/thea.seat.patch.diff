@@ -14,7 +14,7 @@ index e3f6cfa2b65c6ab6ff2b546a9eabc783b6bb1d50..87daf1b2789b67c5d8822ad0ecb5e950
    return at === -1 ? REACHES.length : at
  }
 diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts
-index 3dbe6901374fced105e2012b48450cdbf9f04744..8cf9a1614ed9c719593ca4b4fc1e01934fe7d971 100644
+index 3dbe6901374fced105e2012b48450cdbf9f04744..577639a2600b76b93bb3386397e6829b2324dfe3 100644
 --- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts
 +++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts
 @@ -8,6 +8,7 @@ import {
@@ -24,4 +24,12 @@ index 3dbe6901374fced105e2012b48450cdbf9f04744..8cf9a1614ed9c719593ca4b4fc1e0193
 +  widthOf,
  } from "../key-names-one-property/key-names-one-property.code-check.code.ts"
  import { carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
+ 
+@@ -20,6 +21,7 @@ function narrows(nearer: Declared, further: Declared): boolean {
+   if (fallen(further.maxCount, nearer.maxCount)) return true
+   if (fallen(further.maxLength, nearer.maxLength)) return true
+   if (nearer.secret && !further.secret) return true
++  if (widthOf(nearer) < widthOf(further)) return true
+   return nearer.uncommitted && !further.uncommitted
+ }
  
