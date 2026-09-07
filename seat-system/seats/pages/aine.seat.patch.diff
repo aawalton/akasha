@@ -1,0 +1,358 @@
+writerOwesReading: false
+diff --git a/changes/authored/pages/change-file/change-file.change-authored.test.ts b/changes/authored/pages/change-file/change-file.change-authored.test.ts
+index c0b2e94a166b334f3c46e7b21a43c153f5901cd3..0122fc4c90fd87e6c7ab493c175408c2709ca502 100644
+--- a/changes/authored/pages/change-file/change-file.change-authored.test.ts
++++ b/changes/authored/pages/change-file/change-file.change-authored.test.ts
+@@ -1,5 +1,5 @@
+ import { expect, test } from "bun:test"
+-import { changeFile } from "../../../mechanical/pages/change-file/change-file.change-mechanical-file-content.code.ts"
++import { changeFile } from "../../../mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
+ import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import {
+   NOTHING_OVER,
+diff --git a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.test.ts b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.test.ts
+index 09d86fceaef29a4af9d86eb099d061a1ab123ce3..20bc14ee63fc9dac937df56af4d1d2d0178a7205 100644
+--- a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.test.ts
++++ b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.test.ts
+@@ -1,6 +1,6 @@
+ import { afterAll, expect, test } from "bun:test"
+ import { bodyOf, idOf, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
+-import { runChange as changeFile } from "../../../mechanical/pages/change-file/change-file.change-mechanical-file-content.code.ts"
++import { runChange as changeFile } from "../../../mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
+ import { runChange as changeImports } from "../../../mechanical/pages/change-imports/change-imports.change-mechanical-code.code.ts"
+ import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import {
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index 161b3fc64967ec043e9403d9e6c14dce9c71060a..cc4970cde663106a5f8fc3d8bcfcf37213d0da89 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -37,7 +37,7 @@ export const changeMechanical = {
+     "change-mechanical-file/add-file-page-type",
+     "change-mechanical-data/add-property-value",
+     "change-mechanical-file/add-file-page-property",
+-    "change-mechanical-file-content/change-file",
++    "change-mechanical-file-content/change-file-content",
+     "change-mechanical-folder/remove-page-type",
+     "change-mechanical-data/remove-property-value",
+     "change-mechanical-code/rename-export",
+diff --git a/changes/mechanical/file/pages/change-file-content-code/change-file-content-code.change-mechanical-file-content.test.ts b/changes/mechanical/file/pages/change-file-content-code/change-file-content-code.change-mechanical-file-content.test.ts
+index 7f4360d77e3cb339177c00f76e7211b032dd3fc2..863fc6b4548a5c14d78287acd1281b7058c0284c 100644
+--- a/changes/mechanical/file/pages/change-file-content-code/change-file-content-code.change-mechanical-file-content.test.ts
++++ b/changes/mechanical/file/pages/change-file-content-code/change-file-content-code.change-mechanical-file-content.test.ts
+@@ -12,7 +12,7 @@ import {
+   type World,
+   worldAt,
+ } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { changeFile } from "../../../pages/change-file/change-file.change-mechanical-file-content.code.ts"
++import { changeFile } from "../../../pages/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
+ import { runChange } from "./change-file-content-code.change-mechanical-file-content.code.ts"
+ 
+ const RUNS: Reaching = (world, at, given) => {
+diff --git a/changes/mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.code.ts b/changes/mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8525c1213776d5f836add18ef3a7684d96a0fa25
+--- /dev/null
++++ b/changes/mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.code.ts
+@@ -0,0 +1,39 @@
++import {
++  answered,
++  refusing,
++  writing,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++
++export type Asked = {
++  readonly at: string
++  readonly old: string
++  readonly new: string
++}
++
++export function changeFile(world: World, given: Asked): Answer {
++  if (given.old === "") {
++    return refusing("a passage of no characters names no place in a body")
++  }
++  const text = world.textOf(given.at)
++  if (text === null) {
++    return refusing(`\`${given.at}\` holds no body, so no passage is changed`)
++  }
++  const first = text.indexOf(given.old)
++  if (first < 0) {
++    return refusing(`\`${given.at}\` holds no such passage, so nothing is changed`)
++  }
++  if (text.indexOf(given.old, first + 1) >= 0) {
++    return refusing(`\`${given.at}\` holds that passage twice or more, and one change works one`)
++  }
++  const body = `${text.slice(0, first)}${given.new}${text.slice(first + given.old.length)}`
++  if (body === text) {
++    return refusing(`\`${given.at}\` reads the same after this, so this change writes nothing`)
++  }
++  return answered([writing(given.at, text, body)])
++}
++
++export function runChange(world: World, given: Asked): Answer {
++  return changeFile(world, given)
++}
+diff --git a/changes/mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.test.ts b/changes/mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9c28b61aa6f10639721128a03acf8fab75dabbd4
+--- /dev/null
++++ b/changes/mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.test.ts
+@@ -0,0 +1,47 @@
++import { expect, test } from "bun:test"
++import { worldOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
++import { changeFile } from "./change-file-content.change-mechanical-file-content.code.ts"
++
++const AT = "akasha/one.held.ts"
++
++test("a passage the body holds once is answered as one edit holding the body after", () => {
++  const said = changeFile(worldOf({ [AT]: "one two three\n" }), {
++    at: AT,
++    old: "two",
++    new: "four",
++  })
++
++  expect(said.refused).toBeNull()
++  expect(said.edits).toEqual([{ path: AT, was: "one two three\n", body: "one four three\n" }])
++})
++
++test("a passage the body holds twice is refused and answers no edit", () => {
++  const said = changeFile(worldOf({ [AT]: "two and two\n" }), { at: AT, old: "two", new: "four" })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/twice or more/)
++})
++
++test("a passage the body holds nowhere is refused and answers no edit", () => {
++  const said = changeFile(worldOf({ [AT]: "one\n" }), { at: AT, old: "two", new: "four" })
++
++  expect(said.refused ?? "").toMatch(/holds no such passage/)
++})
++
++test("a path holding no body is refused and answers no edit", () => {
++  const said = changeFile(worldOf({}), { at: AT, old: "two", new: "four" })
++
++  expect(said.refused ?? "").toMatch(/holds no body/)
++})
++
++test("a passage of no characters is refused and answers no edit", () => {
++  const said = changeFile(worldOf({ [AT]: "one\n" }), { at: AT, old: "", new: "four" })
++
++  expect(said.refused ?? "").toMatch(/no characters/)
++})
++
++test("a passage replaced by itself is refused and answers no edit", () => {
++  const said = changeFile(worldOf({ [AT]: "one two\n" }), { at: AT, old: "two", new: "two" })
++
++  expect(said.refused ?? "").toMatch(/reads the same/)
++})
+diff --git a/changes/mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.ts b/changes/mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..753e7c7b894e9c0625ab8f825961de6c70b58090
+--- /dev/null
++++ b/changes/mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.ts
+@@ -0,0 +1,50 @@
++import type { ChangeMechanicalFileContent } from "../../file-content/change-mechanical-file-content.page-type.ts"
++
++export const changeFileContent = {
++  id: "01a07810-fb33-7e75-8e1e-ce1e302d5668",
++  pageTypeSlug: "change-mechanical-file-content",
++  slug: "change-file-content",
++  changeModeSlug: "change-mode-change",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/file",
++  definition: "one passage of one body replaced by another, with nothing else judged",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "One call works one passage.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A passage that is not alone in the body is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A passage the body holds nowhere is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A passage of no characters is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path holding no body is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A change leaving the body as the body was is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body worked on is the body the world answers rather than the body on disk.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads the disk.",
++    },
++  ],
++} as const satisfies ChangeMechanicalFileContent
+diff --git a/changes/mechanical/pages/change-file/change-file.change-mechanical-file-content.code.ts b/changes/mechanical/pages/change-file/change-file.change-mechanical-file-content.code.ts
+deleted file mode 100644
+index 8525c1213776d5f836add18ef3a7684d96a0fa25..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/change-file/change-file.change-mechanical-file-content.code.ts
++++ /dev/null
+@@ -1,39 +0,0 @@
+-import {
+-  answered,
+-  refusing,
+-  writing,
+-} from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-
+-export type Asked = {
+-  readonly at: string
+-  readonly old: string
+-  readonly new: string
+-}
+-
+-export function changeFile(world: World, given: Asked): Answer {
+-  if (given.old === "") {
+-    return refusing("a passage of no characters names no place in a body")
+-  }
+-  const text = world.textOf(given.at)
+-  if (text === null) {
+-    return refusing(`\`${given.at}\` holds no body, so no passage is changed`)
+-  }
+-  const first = text.indexOf(given.old)
+-  if (first < 0) {
+-    return refusing(`\`${given.at}\` holds no such passage, so nothing is changed`)
+-  }
+-  if (text.indexOf(given.old, first + 1) >= 0) {
+-    return refusing(`\`${given.at}\` holds that passage twice or more, and one change works one`)
+-  }
+-  const body = `${text.slice(0, first)}${given.new}${text.slice(first + given.old.length)}`
+-  if (body === text) {
+-    return refusing(`\`${given.at}\` reads the same after this, so this change writes nothing`)
+-  }
+-  return answered([writing(given.at, text, body)])
+-}
+-
+-export function runChange(world: World, given: Asked): Answer {
+-  return changeFile(world, given)
+-}
+diff --git a/changes/mechanical/pages/change-file/change-file.change-mechanical-file-content.test.ts b/changes/mechanical/pages/change-file/change-file.change-mechanical-file-content.test.ts
+deleted file mode 100644
+index 2283f9d409cabfdcd9535768bac113486582db56..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/change-file/change-file.change-mechanical-file-content.test.ts
++++ /dev/null
+@@ -1,47 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { worldOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+-import { changeFile } from "./change-file.change-mechanical-file-content.code.ts"
+-
+-const AT = "akasha/one.held.ts"
+-
+-test("a passage the body holds once is answered as one edit holding the body after", () => {
+-  const said = changeFile(worldOf({ [AT]: "one two three\n" }), {
+-    at: AT,
+-    old: "two",
+-    new: "four",
+-  })
+-
+-  expect(said.refused).toBeNull()
+-  expect(said.edits).toEqual([{ path: AT, was: "one two three\n", body: "one four three\n" }])
+-})
+-
+-test("a passage the body holds twice is refused and answers no edit", () => {
+-  const said = changeFile(worldOf({ [AT]: "two and two\n" }), { at: AT, old: "two", new: "four" })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toMatch(/twice or more/)
+-})
+-
+-test("a passage the body holds nowhere is refused and answers no edit", () => {
+-  const said = changeFile(worldOf({ [AT]: "one\n" }), { at: AT, old: "two", new: "four" })
+-
+-  expect(said.refused ?? "").toMatch(/holds no such passage/)
+-})
+-
+-test("a path holding no body is refused and answers no edit", () => {
+-  const said = changeFile(worldOf({}), { at: AT, old: "two", new: "four" })
+-
+-  expect(said.refused ?? "").toMatch(/holds no body/)
+-})
+-
+-test("a passage of no characters is refused and answers no edit", () => {
+-  const said = changeFile(worldOf({ [AT]: "one\n" }), { at: AT, old: "", new: "four" })
+-
+-  expect(said.refused ?? "").toMatch(/no characters/)
+-})
+-
+-test("a passage replaced by itself is refused and answers no edit", () => {
+-  const said = changeFile(worldOf({ [AT]: "one two\n" }), { at: AT, old: "two", new: "two" })
+-
+-  expect(said.refused ?? "").toMatch(/reads the same/)
+-})
+diff --git a/changes/mechanical/pages/change-file/change-file.change-mechanical-file-content.ts b/changes/mechanical/pages/change-file/change-file.change-mechanical-file-content.ts
+deleted file mode 100644
+index bc88d5d2e4bb820be58b6281dd0cb96078750246..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/change-file/change-file.change-mechanical-file-content.ts
++++ /dev/null
+@@ -1,50 +0,0 @@
+-import type { ChangeMechanicalFileContent } from "../../file-content/change-mechanical-file-content.page-type.ts"
+-
+-export const changeFile = {
+-  id: "01a07810-fb33-7e75-8e1e-ce1e302d5668",
+-  pageTypeSlug: "change-mechanical-file-content",
+-  slug: "change-file",
+-  changeModeSlug: "change-mode-change",
+-  changeTargetTypeSlug: "change-target-type/file-content",
+-  changeTargetSubtypeSlug: "change-target-subtype/file",
+-  definition: "one passage of one body replaced by another, with nothing else judged",
+-  code: "ts",
+-  test: "ts",
+-  runsChecks: false,
+-  readersOweReading: false,
+-  writerOwesReading: false,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "One call works one passage.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A passage that is not alone in the body is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A passage the body holds nowhere is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A passage of no characters is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A path holding no body is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A change leaving the body as the body was is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The body worked on is the body the world answers rather than the body on disk.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads the disk.",
+-    },
+-  ],
+-} as const satisfies ChangeMechanicalFileContent
