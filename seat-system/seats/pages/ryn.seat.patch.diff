@@ -1,0 +1,12 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/ryn-standard-agent-english.initiative.ts b/domains/initiatives/pages/ryn-standard-agent-english.initiative.ts
+index 7f9c789335a289e635899db40b8f01c38f0f748d..fb628771a410f00d0f97cfe9a73481b0fcbd6984 100644
+--- a/domains/initiatives/pages/ryn-standard-agent-english.initiative.ts
++++ b/domains/initiatives/pages/ryn-standard-agent-english.initiative.ts
+@@ -21,5 +21,6 @@ export const rynStandardAgentEnglish = {
+     "The load a construction puts on a reading agent is measured.",
+     "Standard Agent English is designed from first principles, unbiased by current usage.",
+     "The reader is an agent rather than a person.",
++    "Standard Agent English is built beside the taboo terms and the sentence shapes, and those pages are deleted only once Alan says Standard Agent English is mature.",
+   ],
+ } as const satisfies Initiative
