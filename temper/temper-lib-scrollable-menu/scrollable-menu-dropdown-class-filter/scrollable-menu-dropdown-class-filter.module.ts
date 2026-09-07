@@ -9,7 +9,7 @@ export const scrollableMenuDropdownClassFilter = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "The search history keeps at most ten entries per combobox.",
+      statement: "The search history keeps the ten latest entries in a combobox.",
     },
     {
       invariantKind: "departure",
