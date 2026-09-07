@@ -250,7 +250,7 @@ const CHANGE_TYPE = "change-mechanical"
 
 const CHANGE_CODE_AT = "../../../changes/mechanical/pages"
 
-const CHANGE_SLUGS: readonly string[] = ["remove-file", "remove-page", "remove-property-value"]
+const CHANGE_SLUGS: readonly string[] = ["remove-file", "remove-property-value"]
 
 const changeId = (one: string): string => `01a04a4a-0001-7000-8000-00000000000${one}`
 
