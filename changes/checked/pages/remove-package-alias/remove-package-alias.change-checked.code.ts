@@ -1,6 +1,6 @@
-import { manifestIn, nameIn } from "@akasha/checks/package-reached-where-named"
 import { placedIn } from "@akasha/code/code-specifier"
 import { typed } from "@akasha/code/code-typing"
+import { calledIn, objectIn } from "@akasha/code/package-manifest"
 import { manifestsIn } from "@akasha/indexes/package-reaching"
 import ts from "typescript"
 import {
@@ -69,11 +69,11 @@ function reachingOld(world: World, was: string): string | null {
 export function removePackageAlias(world: World, given: RemovePackageAliasAsked): Answer {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
-  const held = manifestIn(text)
+  const held = objectIn(text)
   if (held === null || Array.isArray(held)) {
     return refusing(`\`${given.at}\` reads as no JSON object, ${UNDROPPED}`)
   }
-  const to = nameIn(text)
+  const to = calledIn(text)
   if (to === null) return refusing(`\`${given.at}\` states no \`${NAME}\`, ${UNDROPPED}`)
   if (to === given.was) {
     return refusing(`\`${given.was}\` is the name this package carries, ${UNDROPPED}`)

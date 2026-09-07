@@ -16,8 +16,7 @@ function specifierFor(named: string, key: string): string | null {
   return `${named}${PARTED_BY}${key.slice(OPENING.length)}`
 }
 
-export function calledIn(text: string | null): string | null {
-  if (text === null) return null
+export function objectIn(text: string): Record<string, unknown> | null {
   let read: unknown
   try {
     read = JSON.parse(text)
@@ -25,20 +24,19 @@ export function calledIn(text: string | null): string | null {
     return null
   }
   if (read === null || typeof read !== "object") return null
-  const named = (read as Record<string, unknown>)[NAME]
+  return read as Record<string, unknown>
+}
+
+export function calledIn(text: string | null): string | null {
+  const held = text === null ? null : objectIn(text)
+  const named = held === null ? null : held[NAME]
   return typeof named === "string" ? named : null
 }
 
 export function reachesIn(folder: string, text: string): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
-  let read: unknown
-  try {
-    read = JSON.parse(text)
-  } catch {
-    return found
-  }
-  if (read === null || typeof read !== "object") return found
-  const held = read as Record<string, unknown>
+  const held = objectIn(text)
+  if (held === null) return found
   const named = held[NAME]
   if (typeof named !== "string") return found
   const said = held[EXPORTS]

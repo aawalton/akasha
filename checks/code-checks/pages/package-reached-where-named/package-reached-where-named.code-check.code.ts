@@ -1,5 +1,6 @@
 import { dirname, join } from "node:path"
 import { landingOf, specifiersIn } from "@akasha/code/code-specifier"
+import { calledIn, objectIn } from "@akasha/code/package-manifest"
 import type { Change } from "@akasha/pages/change"
 import { matchingIn } from "@akasha/pages/name-format/format-reaching"
 import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
@@ -20,8 +21,6 @@ const PACKAGE = "workspace-package"
 const MANIFEST = "manifest"
 
 const EXPORTS = "exports"
-
-const NAME = "name"
 
 const AT = "@"
 
@@ -54,33 +53,12 @@ function reachedIn(folder: string, said: unknown): ReadonlySet<string> | null {
   return found
 }
 
-export function manifestIn(text: string): Record<string, unknown> | null {
-  let said: unknown
-  try {
-    said = JSON.parse(text)
-  } catch {
-    return null
-  }
-  if (said === null || typeof said !== "object") return null
-  return said as Record<string, unknown>
-}
-
-function calledIn(held: Record<string, unknown>): string | null {
-  const named = held[NAME]
-  return typeof named === "string" ? named : null
-}
-
 export function namingIn(folder: string, text: string): Package | null {
-  const held = manifestIn(text)
+  const held = objectIn(text)
   if (held === null) return null
   const reached = reachedIn(folder, held[EXPORTS])
   if (reached === null) return null
-  return { folder, named: calledIn(held) ?? folder, reached }
-}
-
-export function nameIn(text: string): string | null {
-  const held = manifestIn(text)
-  return held === null ? null : calledIn(held)
+  return { folder, named: calledIn(text) ?? folder, reached }
 }
 
 export function partsIn(named: string): readonly string[] | null {
@@ -104,7 +82,7 @@ export function refusalOf(named: string, matching: Matching): string | null {
 }
 
 function nameReasonsIn(text: string, matching: Matching): readonly string[] {
-  const named = nameIn(text)
+  const named = calledIn(text)
   if (named === null) return []
   const said = refusalOf(named, matching)
   return said === null ? [] : [said]

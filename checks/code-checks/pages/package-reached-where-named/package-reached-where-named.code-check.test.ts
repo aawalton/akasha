@@ -5,7 +5,6 @@ import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
 import { shadowAt } from "@akasha/pages/shadow"
 import {
   holdingIn,
-  nameIn,
   namingIn,
   type Package,
   partsIn,
@@ -45,10 +44,6 @@ const MANIFEST = JSON.stringify({
   },
 })
 
-function nothingIsAPage(): boolean {
-  return false
-}
-
 function onlyThePage(at: string): boolean {
   return at === PAGE
 }
@@ -70,17 +65,12 @@ test("each target a manifest names is resolved against the package's folder", ()
 
 test("a reach at a path the manifest names is let through", () => {
   expect(
-    reasonsIn(NAMED, OUTSIDE, `import { readingIn } from "${AT_READING}"\n`, nothingIsAPage)
+    reasonsIn(NAMED, OUTSIDE, `import { readingIn } from "${AT_READING}"\n`, () => false)
   ).toEqual([])
 })
 
 test("a reach at a path the manifest does not name is refused, naming where it landed", () => {
-  const said = reasonsIn(
-    NAMED,
-    OUTSIDE,
-    `import { beneath } from "${AT_SURFACE}"\n`,
-    nothingIsAPage
-  )
+  const said = reasonsIn(NAMED, OUTSIDE, `import { beneath } from "${AT_SURFACE}"\n`, () => false)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain(`\`${AT_SURFACE}\``)
   expect(said[0]).toContain(SURFACE)
@@ -90,30 +80,30 @@ test("a reach at a path the manifest does not name is refused, naming where it l
 
 test("a file inside the package reaches a module its manifest does not name", () => {
   const body = 'import { beneath } from "../index-surface/index-surface.module.code.ts"\n'
-  expect(reasonsIn(NAMED, INSIDE, body, nothingIsAPage)).toEqual([])
+  expect(reasonsIn(NAMED, INSIDE, body, () => false)).toEqual([])
 })
 
 test("an export from an unnamed path is refused as an import is", () => {
   expect(
-    reasonsIn(NAMED, OUTSIDE, `export { beneath } from "${AT_SURFACE}"\n`, nothingIsAPage)
+    reasonsIn(NAMED, OUTSIDE, `export { beneath } from "${AT_SURFACE}"\n`, () => false)
   ).toHaveLength(1)
 })
 
 test("a dynamic import at an unnamed path is refused", () => {
   expect(
-    reasonsIn(NAMED, OUTSIDE, `const held = import("${AT_SURFACE}")\n`, nothingIsAPage)
+    reasonsIn(NAMED, OUTSIDE, `const held = import("${AT_SURFACE}")\n`, () => false)
   ).toHaveLength(1)
 })
 
 test("a require of an unnamed path is refused", () => {
   expect(
-    reasonsIn(NAMED, OUTSIDE, `const held = require("${AT_SURFACE}")\n`, nothingIsAPage)
+    reasonsIn(NAMED, OUTSIDE, `const held = require("${AT_SURFACE}")\n`, () => false)
   ).toHaveLength(1)
 })
 
 test("a type-only import of an unnamed path is refused", () => {
   expect(
-    reasonsIn(NAMED, OUTSIDE, `import type { Held } from "${AT_SURFACE}"\n`, nothingIsAPage)
+    reasonsIn(NAMED, OUTSIDE, `import type { Held } from "${AT_SURFACE}"\n`, () => false)
   ).toHaveLength(1)
 })
 
@@ -151,13 +141,13 @@ test("a package standing inside another holds the files under it, so the outer o
 test("a reach the inner manifest names is let through though the outer one never names it", () => {
   const body = `import { readingIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"\n`
   const at = "akasha/checks-system/held/held.module.code.ts"
-  expect(reasonsIn(NESTED, at, body, nothingIsAPage)).toEqual([])
+  expect(reasonsIn(NESTED, at, body, () => false)).toEqual([])
 })
 
 test("a reach neither manifest names is refused once, by the inner package alone", () => {
   const body = `import { beneath } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"\n`
   const at = "akasha/checks-system/held/held.module.code.ts"
-  const said = reasonsIn(NESTED, at, body, nothingIsAPage)
+  const said = reasonsIn(NESTED, at, body, () => false)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("@akasha/indexes")
 })
@@ -169,7 +159,7 @@ test("a manifest naming no exports declares no interface", () => {
 test("a package declaring no interface is not enforced", () => {
   const held = declaring(JSON.stringify({ name: "@akasha/indexes" }))
   expect(
-    reasonsIn(held, OUTSIDE, `import { beneath } from "${AT_SURFACE}"\n`, nothingIsAPage)
+    reasonsIn(held, OUTSIDE, `import { beneath } from "${AT_SURFACE}"\n`, () => false)
   ).toEqual([])
 })
 
@@ -180,7 +170,7 @@ test("a manifest that will not parse leaves its package declaring nothing", () =
 test("a manifest stating an empty exports map names no way in", () => {
   const held = declaring(JSON.stringify({ name: "@akasha/indexes", exports: {} }))
   expect(
-    reasonsIn(held, OUTSIDE, `import { readingIn } from "${AT_READING}"\n`, nothingIsAPage)
+    reasonsIn(held, OUTSIDE, `import { readingIn } from "${AT_READING}"\n`, () => false)
   ).toHaveLength(1)
 })
 
@@ -192,18 +182,18 @@ test("a target that is not a string names no way in", () => {
 test("a package whose manifest calls it nothing is named by its folder", () => {
   const held = declaring(JSON.stringify({ exports: {} }))
   expect(
-    reasonsIn(held, OUTSIDE, `import { readingIn } from "${AT_READING}"\n`, nothingIsAPage)[0]
+    reasonsIn(held, OUTSIDE, `import { readingIn } from "${AT_READING}"\n`, () => false)[0]
   ).toContain(`\`${FOLDER}\``)
 })
 
 test("a file reaching into no package at all is untouched", () => {
   const body = 'import { held } from "../../code-system/held/held.module.code.ts"\n'
-  expect(reasonsIn(NAMED, OUTSIDE, body, nothingIsAPage)).toEqual([])
+  expect(reasonsIn(NAMED, OUTSIDE, body, () => false)).toEqual([])
 })
 
 test("a specifier naming the package rather than a path is the way in", () => {
   expect(
-    reasonsIn(NAMED, OUTSIDE, 'import { readingIn } from "@akasha/indexes"\n', nothingIsAPage)
+    reasonsIn(NAMED, OUTSIDE, 'import { readingIn } from "@akasha/indexes"\n', () => false)
   ).toEqual([])
 })
 
@@ -240,10 +230,4 @@ test("a name parted by more than one slash is no package name", () => {
 test("a scope carrying nothing past the at sign is refused", () => {
   expect(partsIn("@/indexes")).toEqual(["", "indexes"])
   expect(refusing("@/indexes")).toContain(lowerKebabCase.slug)
-})
-
-test("a manifest stating no name states no package name", () => {
-  expect(nameIn(JSON.stringify({ exports: {} }))).toBe(null)
-  expect(nameIn("{ this is not json\n")).toBe(null)
-  expect(nameIn(JSON.stringify({ name: "@akasha/indexes" }))).toBe("@akasha/indexes")
 })

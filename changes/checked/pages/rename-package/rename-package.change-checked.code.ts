@@ -1,7 +1,8 @@
 import { dirname } from "node:path"
-import { manifestIn, nameIn, namingIn, refusalOf } from "@akasha/checks/package-reached-where-named"
+import { namingIn, refusalOf } from "@akasha/checks/package-reached-where-named"
 import { placedIn } from "@akasha/code/code-specifier"
 import { typed } from "@akasha/code/code-typing"
+import { calledIn, objectIn } from "@akasha/code/package-manifest"
 import { manifestsIn } from "@akasha/indexes/package-reaching"
 import { importingOf } from "@akasha/indexes/path-naming"
 import { matchingIn } from "@akasha/pages/name-format/format-reaching"
@@ -179,11 +180,11 @@ function namedRefusal(given: RenamePackageAsked, matching: Matching): string | n
 export function renamePackage(world: World, given: RenamePackageAsked): Answer {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
-  const held = manifestIn(text)
+  const held = objectIn(text)
   if (held === null || Array.isArray(held)) {
     return refusing(`\`${given.at}\` reads as no JSON object, ${UNRENAMED}`)
   }
-  const was = given.from ?? nameIn(text)
+  const was = given.from ?? calledIn(text)
   if (was === null) return refusing(`\`${given.at}\` states no \`${NAME}\`, ${UNRENAMED}`)
   if (was === given.to) return refusing(carriedRefusal(given))
   const matching = matchingFor(world)

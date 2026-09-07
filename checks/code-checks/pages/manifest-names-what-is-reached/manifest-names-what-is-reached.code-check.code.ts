@@ -1,6 +1,7 @@
 import { builtinModules } from "node:module"
 import { join } from "node:path"
 import { landingOf, specifiersIn } from "@akasha/code/code-specifier"
+import { calledIn, objectIn } from "@akasha/code/package-manifest"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
 import {
@@ -16,9 +17,7 @@ import {
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   type Manifest,
-  manifestIn,
   manifestsIn,
-  nameIn,
 } from "../package-reached-where-named/package-reached-where-named.code-check.code.ts"
 
 const AT = "@"
@@ -174,7 +173,7 @@ function commandsOf(held: Record<string, unknown>): ReadonlySet<string> {
 }
 
 export function declaringIn(folder: string, at: string, text: string): Named | null {
-  const held = manifestIn(text)
+  const held = objectIn(text)
   if (held === null) return null
   const declared = new Map<string, string>()
   for (const field of NAMING) {
@@ -183,7 +182,7 @@ export function declaringIn(folder: string, at: string, text: string): Named | n
   return {
     folder,
     at,
-    called: nameIn(text) ?? folder,
+    called: calledIn(text) ?? folder,
     declared,
     peers: new Set(keysOf(held, PEERS)),
     commands: commandsOf(held),
