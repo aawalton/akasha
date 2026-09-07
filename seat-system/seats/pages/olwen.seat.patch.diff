@@ -1,0 +1,95 @@
+writerOwesReading: false
+diff --git a/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts b/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts
+index 666deb32c3dce98c541bd8dc35914ab99322f9c0..0b3e608d037477e789bc931666693d0b6bef925b 100644
+--- a/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts
++++ b/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts
+@@ -1,6 +1,6 @@
+ import {
+-  takingIn,
+-  unreadable,
++  holdsAfter,
++  judging,
+ } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+ import type {
+   Guard,
+@@ -9,8 +9,8 @@ import type {
+ 
+ function hangingIn(given: Guarding, taken: readonly string[]): string | null {
+   for (const path of taken) {
+-    const importer = given.shadow.index.importersOf(path)[0]
+-    if (importer !== undefined) {
++    for (const importer of given.shadow.index.importersOf(path)) {
++      if (!holdsAfter(given, importer)) continue
+       return `\`${importer}\` imports \`${path}\`, and \`${path}\` is taken away`
+     }
+   }
+@@ -18,13 +18,7 @@ function hangingIn(given: Guarding, taken: readonly string[]): string | null {
+ }
+ 
+ export function importNotLeftHanging(given: Guarding): string | null {
+-  const taken = takingIn(given.said)
+-  if (taken.length === 0) return null
+-  try {
+-    return hangingIn(given, taken)
+-  } catch (cause) {
+-    return unreadable(cause)
+-  }
++  return judging(given, hangingIn)
+ }
+ 
+ export const runGuard: Guard = importNotLeftHanging
+diff --git a/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts b/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts
+index c2f7de729e002323e75058d4ac9079ee72b43fd8..54e5e30aa4cf0249cf3b7e2437eb6a66911e9823 100644
+--- a/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts
++++ b/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts
+@@ -1,10 +1,7 @@
+ import type { Named } from "@akasha/indexes"
+ import type { Known } from "@akasha/indexes/reaching"
+ import { pageNamed, partedIn } from "@akasha/pages/page-file-name"
+-import {
+-  takingIn,
+-  unreadable,
+-} from "../../../modules/change-guarding/change-guarding.module.code.ts"
++import { judging } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+ import type {
+   Guard,
+   Guarding,
+@@ -39,13 +36,7 @@ function hangingIn(given: Guarding, taken: readonly string[]): string | null {
+ }
+ 
+ export function relationNotLeftHanging(given: Guarding): string | null {
+-  const taken = takingIn(given.said)
+-  if (taken.length === 0) return null
+-  try {
+-    return hangingIn(given, taken)
+-  } catch (cause) {
+-    return unreadable(cause)
+-  }
++  return judging(given, hangingIn)
+ }
+ 
+ export const runGuard: Guard = relationNotLeftHanging
+diff --git a/changes/modules/change-guarding/change-guarding.module.code.ts b/changes/modules/change-guarding/change-guarding.module.code.ts
+index 2f2b80bdaf05bf00160d9db4ba4aadd3210b0a62..7525a74ecd26f86f7ae80d241c74a4b9346d3485 100644
+--- a/changes/modules/change-guarding/change-guarding.module.code.ts
++++ b/changes/modules/change-guarding/change-guarding.module.code.ts
+@@ -16,6 +16,19 @@ export function takingIn(said: Answer): readonly string[] {
+     .map((one) => one.path)
+ }
+ 
++export function judging(
++  given: Guarding,
++  hanging: (asked: Guarding, paths: readonly string[]) => string | null
++): string | null {
++  const taken = takingIn(given.said)
++  if (taken.length === 0) return null
++  try {
++    return hanging(given, taken)
++  } catch (cause) {
++    return unreadable(cause)
++  }
++}
++
+ export function holdsAfter(given: Guarding, path: string): boolean {
+   let moved = false
+   for (const one of given.said.edits) {
