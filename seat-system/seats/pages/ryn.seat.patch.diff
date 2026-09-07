@@ -1,0 +1,24 @@
+diff --git a/bun.lock b/bun.lock
+index bbc570f071b3f951c29761635c1a39adfaf2e3cc..a6aea4c4946d32c1ad5958d659b93317692a0e44 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -978,6 +978,7 @@
+     "inference/generations/zimage": {
+       "name": "@akasha/zimage",
+       "dependencies": {
++        "@akasha/code": "workspace:*",
+         "@akasha/comfy": "workspace:*",
+       },
+     },
+diff --git a/inference/generations/zimage/package.json b/inference/generations/zimage/package.json
+index 4950ad10fb8beefd78ac342069881e9db9e4a162..fcaf99a5b6dc4607cd46d9b2b1706d93dbba7792 100644
+--- a/inference/generations/zimage/package.json
++++ b/inference/generations/zimage/package.json
+@@ -7,6 +7,7 @@
+     "./zimage-models": "./zimage-models/zimage-models.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/code": "workspace:*",
+     "@akasha/comfy": "workspace:*"
+   }
+ }
