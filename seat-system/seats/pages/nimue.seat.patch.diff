@@ -1,0 +1,117 @@
+writerOwesReading: false
+diff --git a/code-system/audit-ast-unused/audit-ast-unused.domain.ts b/code-system/audit-ast-unused/audit-ast-unused.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e9d3ecc4ce6538a7dd99c1004e85971fecb8140e
+--- /dev/null
++++ b/code-system/audit-ast-unused/audit-ast-unused.domain.ts
+@@ -0,0 +1,39 @@
++import type { Domain } from "../../domains/domain.page-type.ts"
++
++export const auditAstUnused = {
++  id: "01a0675b-16da-7bfd-8434-ddca9c15459f",
++  pageTypeSlug: "domain",
++  slug: "audit-ast-unused",
++  definition:
++    "the audit reading the code repository against what the instructions repository reaches into it",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The curation is a root file naming its parts.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The root names a part for each package family.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The curation is read by merging the root with each part the root names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A part the tree does not hold refuses the read rather than being skipped.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A workspace the curation does not name takes the default entry globs.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Reachability is computed from the entry globs the curation names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A change to the entry globs moves the files that read as reached.",
++    },
++  ],
++} as const satisfies Domain
+diff --git a/code-system/audit-ast-unused/code-audit-ast-unused.domain.ts b/code-system/audit-ast-unused/code-audit-ast-unused.domain.ts
+deleted file mode 100644
+index b0c35a122f84ce5f75794eb7b4316624a037d5b1..0000000000000000000000000000000000000000
+--- a/code-system/audit-ast-unused/code-audit-ast-unused.domain.ts
++++ /dev/null
+@@ -1,39 +0,0 @@
+-import type { Domain } from "../../domains/domain.page-type.ts"
+-
+-export const codeAuditAstUnused = {
+-  id: "01a0675b-16da-7bfd-8434-ddca9c15459f",
+-  pageTypeSlug: "domain",
+-  slug: "code-audit-ast-unused",
+-  definition:
+-    "the audit reading the code repository against what the instructions repository reaches into it",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The curation is a root file naming its parts.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The root names a part for each package family.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The curation is read by merging the root with each part the root names.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A part the tree does not hold refuses the read rather than being skipped.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A workspace the curation does not name takes the default entry globs.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Reachability is computed from the entry globs the curation names.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A change to the entry globs moves the files that read as reached.",
+-    },
+-  ],
+-} as const satisfies Domain
+diff --git a/code-system/code-system.workspace-package.ts b/code-system/code-system.workspace-package.ts
+index 3edf107ea4d88d800d6dfb5df6b3fbae48fc6bed..236166b9d07afc5d54eafc71ff62e4c51a3df7bf 100644
+--- a/code-system/code-system.workspace-package.ts
++++ b/code-system/code-system.workspace-package.ts
+@@ -7,7 +7,7 @@ export const codeSystem = {
+   definition: "the code a machine runs",
+   manifest: "json",
+   partSlugs: [
+-    "domain/code-audit-ast-unused",
++    "domain/audit-ast-unused",
+     "page-type/component",
+     "page-type/flag",
+     "page-type/module",
+diff --git a/domains/findings/pages/an-ablation-search-that-reads-imports-misses-a-dynamic-one.finding.ts b/domains/findings/pages/an-ablation-search-that-reads-imports-misses-a-dynamic-one.finding.ts
+index 553cb35a166f644b5befbf1a4a9a36d2a0359468..3d007dfb355c2e326b01ca9ba671f554ebf915bc 100644
+--- a/domains/findings/pages/an-ablation-search-that-reads-imports-misses-a-dynamic-one.finding.ts
++++ b/domains/findings/pages/an-ablation-search-that-reads-imports-misses-a-dynamic-one.finding.ts
+@@ -4,7 +4,7 @@ export const anAblationSearchThatReadsImportsMissesADynamicOne = {
+   id: "01a0685d-4b35-701a-8ebd-2164b14035a7",
+   pageTypeSlug: "finding",
+   slug: "an-ablation-search-that-reads-imports-misses-a-dynamic-one",
+-  domainSlug: "domain/code-audit-ast-unused",
++  domainSlug: "domain/audit-ast-unused",
+   claim:
+     'A file cleared for deletion because nothing names it can still be named, by a dynamic `await import("...")` whose specifier is a string rather than an import. The search that clears a file reads imports, so a dynamic one is a blind spot, and a false negative and a true negative are the same empty result. The deletion then lands quietly: nothing fails to resolve at build time either, because the specifier is only a string until it runs.',
+   evidence:
