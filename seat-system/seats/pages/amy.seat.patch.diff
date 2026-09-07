@@ -1,0 +1,46 @@
+diff --git a/pages/ui/components/page-card/page-card.module.code.tsx b/pages/ui/components/page-card/page-card.module.code.tsx
+index 2726b4d1a75474c9458a80ca867e29a88dc39676..e49d303fd1603e6fcc28dd2feb73276e8ae829cf 100644
+--- a/pages/ui/components/page-card/page-card.module.code.tsx
++++ b/pages/ui/components/page-card/page-card.module.code.tsx
+@@ -8,6 +8,8 @@ import { cn } from "@akasha/design-primitives/cn"
+ import { surfaceClass } from "@akasha/design-primitives/surface-class"
+ import { useSurface } from "@akasha/design-primitives/surface-provider"
+ import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
++import type { CompletionShape } from "@akasha/pages-core/task-lifecycle"
++import { readsAsDone } from "@akasha/pages-core/task-lifecycle"
+ import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
+ import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
+ import type { GalleryCardSize } from "@akasha/pages-core/view/gallery"
+@@ -36,6 +38,7 @@ interface PageCardProps extends Omit<React.ComponentProps<"div">, "title" | "id"
+   pageHref?: (pageId: string, opts?: { targetPageTypeId?: string }) => string
+   relationHref?: (propertyId: string) => string
+   onCardNavigate?: (pageId: string) => void
++  completion?: CompletionShape | null
+   onComplete?: (value: number | null) => void
+   href?: string
+   onDelete?: () => void
+@@ -63,6 +66,7 @@ export function PageCard({
+   pageHref,
+   relationHref,
+   onCardNavigate,
++  completion,
+   onComplete,
+   href,
+   onDelete,
+@@ -82,12 +86,11 @@ export function PageCard({
+   const ownIconName = data?.icon != null ? String(data.icon) : null
+   const displayIconName = ownIconName ?? defaultIconName ?? null
+ 
+-  const hasCompletedAtDef = useMemo(
+-    () => definitions?.some((d) => d.id === "completedAt") ?? false,
+-    [definitions]
++  const isCompleted = useMemo(
++    () => (completion == null || data == null ? false : readsAsDone(completion, data)),
++    [completion, data]
+   )
+-  const isCompleted = data?.completedAt != null
+-  const showCompletionToggle = Boolean(onComplete) && hasCompletedAtDef
++  const showCompletionToggle = Boolean(onComplete) && completion != null
+   const isFavorite = data?.favoritedAt != null
+ 
+   const titleLinkFade = useOverflowFade<HTMLSpanElement>(displayTitle)
