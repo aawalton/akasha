@@ -1,4 +1,18 @@
-readersOweReading: false
+readersOweReading: false temper/temper-lib-custom-menu/custom-menu-hooks/custom-menu-hooks.module.ts
+diff --git a/bun.lock b/bun.lock
+index 69b4e123d961a141b827f7d55357427dd2abde8a..3845864aa3abc94fd45dddb951922aaceb5b1c63 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -2374,6 +2374,9 @@
+     },
+     "temper/temper-lib-custom-menu": {
+       "name": "@akasha/temper-lib-custom-menu",
++      "dependencies": {
++        "@akasha/code-system": "workspace:@akasha/code@*",
++      },
+     },
+     "temper/temper-lib-data-encode": {
+       "name": "@akasha/temper-lib-data-encode",
 diff --git a/temper/temper-lib-custom-menu/custom-menu-hooks/custom-menu-hooks.module.ts b/temper/temper-lib-custom-menu/custom-menu-hooks/custom-menu-hooks.module.ts
 index 8bd527e842b67c8151117b8d0424cc8ead770a68..ac6952e9bbe8872ec7a526ee89fcea21764826cd 100644
 --- a/temper/temper-lib-custom-menu/custom-menu-hooks/custom-menu-hooks.module.ts
@@ -12,3 +26,16 @@ index 8bd527e842b67c8151117b8d0424cc8ead770a68..ac6952e9bbe8872ec7a526ee89fcea21
      },
    ],
  } as const satisfies Module
+diff --git a/temper/temper-lib-custom-menu/package.json b/temper/temper-lib-custom-menu/package.json
+index d836c6d9822f6a1adaf9542f32c1131c61644eef..7794459ae817376f46a65d2c1b11c59eca1718c3 100644
+--- a/temper/temper-lib-custom-menu/package.json
++++ b/temper/temper-lib-custom-menu/package.json
+@@ -18,5 +18,8 @@
+     "./submenu-text-colors": "./submenu-text-colors/submenu-text-colors.module.code.ts",
+     "./submenu-timeout": "./submenu-timeout/submenu-timeout.module.code.ts",
+     "./submenu-window": "./submenu-window/submenu-window.module.code.ts"
++  },
++  "dependencies": {
++    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
