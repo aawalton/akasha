@@ -1,0 +1,12 @@
+diff --git a/collections/collection.page-type.ts b/collections/collection.page-type.ts
+index 7bcc832c90e0a2842d943bce0a6b3ae53c60b3ab..48cde86a1a822a6747e61df69ee8fbb5bef28a54 100644
+--- a/collections/collection.page-type.ts
++++ b/collections/collection.page-type.ts
+@@ -2,7 +2,6 @@ import type { Page } from "@akasha/pages/page"
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { CollectionAuthor } from "./properties/collection-author.text-property.ts"
+ import type { CollectionCompletedAt } from "./properties/collection-completed-at.instant-property.ts"
+-import type { CollectionDescription } from "./properties/collection-description.text-property.ts"
+ import type { CollectionPublishedAt } from "./properties/collection-published-at.one-of-property.ts"
+ import type { CollectionTags } from "./properties/collection-tags.text-property.ts"
+ import type { CollectionTypeSlug } from "./properties/collection-type-slug.relation-property.ts"
