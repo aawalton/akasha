@@ -16,7 +16,7 @@ export const apply = {
   helpNotes: [
     "the edits `akasha change` appended are folded into one answer and drafted into this agent's patch.",
     "a patch this agent already holds takes the folded edits in rather than being written over.",
-    "the folded edits leave the file holding them once the patch carries the edits.",
+    "the folded edits leave the file holding them once the apply has landed.",
     "an apply is the apply `akasha patch apply` runs, so the checks, the commit and the record are the same.",
     "a fold the patch refuses leaves the edits where the edits are.",
     "an apply that refuses puts the fold back, so the edits are kept for a change to mend.",
@@ -48,7 +48,17 @@ export const apply = {
     },
     {
       invariantKind: "departure",
-      statement: "The edits go once the patch carries the bodies the edits state.",
+      statement:
+        "The edits go once the apply has landed rather than once the patch carries the bodies.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run stopping between the fold and the landing leaves the edits where the fold found the edits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only the rows the fold read go.",
     },
     {
       invariantKind: "departure",

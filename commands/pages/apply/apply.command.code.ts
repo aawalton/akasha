@@ -108,7 +108,7 @@ export function folding(root: string, page: string): Folded {
       dropped,
       unfold: { patch: was, rows: had },
     }
-    return null
+    return had
   })
   return "why" in kept ? { refusals: [kept.why] } : answer
 }
@@ -166,9 +166,15 @@ async function refusedBefore(root: string, page: string): Promise<readonly strin
 }
 
 export function undone(root: string, page: string, unfold: Unfold): string | null {
-  if (patchIn(root, page) === null) return null
+  if (patchIn(root, page) === null) {
+    const rows = unfold.rows
+    const went = JSON.stringify(rows)
+    keptEdits(root, page, (had) =>
+      JSON.stringify(had.slice(0, rows.length)) === went ? had.slice(rows.length) : had
+    )
+    return null
+  }
   putBack(root, page, unfold.patch)
-  keptEdits(root, page, (had) => [...unfold.rows, ...had])
   return "the fold is undone — the edits are kept where the edits were, for a change to mend"
 }
 

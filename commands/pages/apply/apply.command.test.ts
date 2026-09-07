@@ -130,7 +130,7 @@ function kept(root: string): string {
   return gitSaid(root, ["rev-parse", refFor(patchAt(PAGE) ?? "")]).trim()
 }
 
-test("an edit is drafted into the patch and the rows it came from go", async () => {
+test("an edit is drafted into the patch and the rows it came from are kept", async () => {
   const root = await repo()
   const row = taking(ONE, WAS)
   appendEdits(root, PAGE, [row])
@@ -141,8 +141,34 @@ test("an edit is drafted into the patch and the rows it came from go", async () 
     unfold: { patch: null, rows: [row] },
   })
 
-  expect(editsIn(root, PAGE)).toEqual({ rows: [] })
+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
   expect(carried(root)).toEqual([ONE])
+})
+
+test("a run that stops between the fold and the landing keeps the edits", async () => {
+  const root = await repo()
+  const row = taking(ONE, WAS)
+  appendEdits(root, PAGE, [row])
+
+  folding(root, PAGE)
+
+  expect(carried(root)).toEqual([ONE])
+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+})
+
+test("a row appended while the apply ran is left where the folded rows go", async () => {
+  const root = await repo()
+  const row = taking(ONE, WAS)
+  appendEdits(root, PAGE, [row])
+  const said = folding(root, PAGE)
+  if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
+  const later = writing(TWO, WAS, NOW)
+  appendEdits(root, PAGE, [later])
+  dropPatch(root, PAGE)
+
+  expect(undone(root, PAGE, said.unfold)).toBe(null)
+
+  expect(editsIn(root, PAGE)).toEqual({ rows: [later] })
 })
 
 test("a patch the agent already holds takes the folded edits in", async () => {
