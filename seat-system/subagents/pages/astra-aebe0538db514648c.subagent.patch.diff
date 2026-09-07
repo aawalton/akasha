@@ -1,0 +1,323 @@
+writerOwesReading: false
+diff --git a/changes/checked/change-checked.page-type.ts b/changes/checked/change-checked.page-type.ts
+index b48e502609f58aeca86a8a7aec6e69b4b6c09fe2..95d0ae12057426348975a436b786005b0aba86ec 100644
+--- a/changes/checked/change-checked.page-type.ts
++++ b/changes/checked/change-checked.page-type.ts
+@@ -28,6 +28,7 @@ export const changeChecked = {
+     "change-checked/rename-page",
+     "change-checked/change-domain-parent",
+     "change-checked/remove-package-alias",
++    "change-checked/move-folder",
+   ],
+   invariants: [
+     {
+diff --git a/changes/checked/pages/move-folder/move-folder.change-checked.code.ts b/changes/checked/pages/move-folder/move-folder.change-checked.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2d512d58b5ba3fc57cffff5203230e913180e017
+--- /dev/null
++++ b/changes/checked/pages/move-folder/move-folder.change-checked.code.ts
+@@ -0,0 +1,90 @@
++import { join, relative } from "node:path"
++import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
++import {
++  answered,
++  missing,
++  refusing,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++
++const CHANGE_IMPORTS = "change-mechanical-code/change-imports"
++
++const OUTSIDE = ".."
++
++const AT = "at"
++
++const TO = "to"
++
++export type MoveFolderAsked = {
++  readonly at: string
++  readonly to: string
++}
++
++type Moved = { readonly moved: ReadonlyMap<string, string> } | { readonly refused: string }
++
++function underneath(world: World, at: string): readonly string[] {
++  const found: string[] = []
++  for (const path of world.index.everyPath()) {
++    const held = relative(at, path)
++    if (held === "" || held.startsWith(OUTSIDE)) continue
++    found.push(path)
++  }
++  return found.sort()
++}
++
++function movedInto(world: World, at: string, to: string, under: readonly string[]): Moved {
++  const said = new Map<string, string>()
++  for (const one of under) {
++    const next = join(to, relative(at, one))
++    if (world.textOf(next) !== null) return { refused: `\`${next}\` is a body already` }
++    said.set(one, next)
++  }
++  return { moved: said }
++}
++
++export async function moveFolder(world: World, given: MoveFolderAsked): Promise<Answer> {
++  if (given.at === given.to) return refusing(`\`${given.to}\` is the folder those files sit under`)
++  const under = underneath(world, given.at)
++  if (under.length === 0) return refusing(`\`${given.at}\` holds no file, so nothing is carried`)
++  if (!relative(given.at, given.to).startsWith(OUTSIDE)) {
++    return refusing(`\`${given.to}\` sits under \`${given.at}\`, so the folder is not carried`)
++  }
++  const said = movedInto(world, given.at, given.to, under)
++  if ("refused" in said) return refusing(said.refused)
++  const moved = said.moved
++  const reading = importingOf(world.index, moved)
++  if ("unread" in reading) return refusing(reading.unread)
++  const carried = Object.fromEntries(moved)
++  const edits: Edit[] = []
++  let seen = world
++  for (const [one, next] of moved) {
++    if (seen.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
++    const answer = await reach(seen, CHANGE_IMPORTS, { was: one, now: next, moved: carried })
++    if (answer.said.refused !== null) return answer.said
++    edits.push(...answer.said.edits)
++    seen = answer.world
++  }
++  for (const path of reading.importers) {
++    if (moved.has(path)) continue
++    const held = seen.textOf(path)
++    if (held === null) return refusing(`\`${path}\` names a path that moved and could not be read`)
++    const answer = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved: carried })
++    if (answer.said.refused !== null) return answer.said
++    for (const one of answer.said.edits) {
++      if (one.body !== held) edits.push(one)
++    }
++    seen = answer.world
++  }
++  return answered(edits)
++}
++
++export type Asked = Readonly<Record<string, string>>
++
++export async function runChange(world: World, given: Asked): Promise<Answer> {
++  const at = given[AT]
++  if (at === undefined) return refusing(missing(AT))
++  const to = given[TO]
++  if (to === undefined) return refusing(missing(TO))
++  return await moveFolder(world, { at, to })
++}
+diff --git a/changes/checked/pages/move-folder/move-folder.change-checked.test.ts b/changes/checked/pages/move-folder/move-folder.change-checked.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..010e452dc30b0275cf8f9ad57e1cde35ce7c7338
+--- /dev/null
++++ b/changes/checked/pages/move-folder/move-folder.change-checked.test.ts
+@@ -0,0 +1,149 @@
++import { afterAll, expect, test } from "bun:test"
++import { indexedRepo, pageOf, put, scratch, textIn } from "@akasha/indexes/indexing/testing"
++import { runChange as changeImports } from "../../../mechanical/pages/change-imports/change-imports.change-mechanical-code.code.ts"
++import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { moveFolder, runChange } from "./move-folder.change-checked.code.ts"
++
++afterAll(scratch.sweep)
++
++const FROM = "akasha/four"
++
++const INTO = "akasha/six"
++
++const ALPHA_CODE = `${FROM}/alpha.module.code.ts`
++
++const BETA_CODE = `${FROM}/beta.module.code.ts`
++
++const GAMMA_CODE = `${FROM}/deep/gamma.module.code.ts`
++
++const OUTER_CODE = "akasha/five/outer.module.code.ts"
++
++const ALPHA_ID = "01a04a4a-0002-7000-8000-000000000001"
++
++const BETA_ID = "01a04a4a-0002-7000-8000-000000000002"
++
++const GAMMA_ID = "01a04a4a-0002-7000-8000-000000000003"
++
++const OUTER_ID = "01a04a4a-0002-7000-8000-000000000004"
++
++const pageBody = (slug: string, id: string): string =>
++  pageOf({
++    id,
++    pageTypeSlug: "module",
++    slug,
++    definition: "a page a carried folder holds",
++    code: "ts",
++  })
++
++const HELD: Readonly<Record<string, string>> = {
++  [`${FROM}/alpha.module.ts`]: pageBody("alpha", ALPHA_ID),
++  [ALPHA_CODE]:
++    'import { beta } from "./beta.module.code.ts"\n\nexport type Alpha = number\n\nexport const alpha = beta + 1\n',
++  [`${FROM}/beta.module.ts`]: pageBody("beta", BETA_ID),
++  [BETA_CODE]:
++    'import type { Alpha } from "./alpha.module.code.ts"\n\nexport const beta: Alpha = 1\n',
++  [`${FROM}/deep/gamma.module.ts`]: pageBody("gamma", GAMMA_ID),
++  [GAMMA_CODE]: "export const gamma = 3\n",
++  "akasha/five/outer.module.ts": pageBody("outer", OUTER_ID),
++  [OUTER_CODE]:
++    'import { gamma } from "../four/deep/gamma.module.code.ts"\n\nexport const outer = gamma + 1\n',
++}
++
++const UNDER: readonly string[] = Object.keys(HELD)
++  .filter((one) => one.startsWith(`${FROM}/`))
++  .sort()
++
++function worldIn(root: string): World {
++  return worldAt(root, textIn(root), (world, _at, given) =>
++    Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
++  )
++}
++
++test("every file under the folder lands beneath the folder it moved to", async () => {
++  const said = await moveFolder(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
++  const paths = said.edits.map((one) => one.path)
++
++  expect(said.refused).toBeNull()
++  expect(paths).toContain(`${INTO}/alpha.module.ts`)
++  expect(paths).toContain(`${INTO}/alpha.module.code.ts`)
++  expect(paths).toContain(`${INTO}/deep/gamma.module.ts`)
++  expect(paths).toContain(`${INTO}/deep/gamma.module.code.ts`)
++})
++
++test("the paths that moved are the paths under the folder and no other", async () => {
++  const said = await moveFolder(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
++  const came = said.edits.map((one) => one.from).filter((one) => one !== undefined)
++
++  expect([...came].sort()).toEqual([...UNDER])
++})
++
++test("a reach from one carried file to another is left as that reach is", async () => {
++  const root = indexedRepo(HELD)
++  const said = await moveFolder(worldIn(root), { at: FROM, to: INTO })
++  const alpha = said.edits.filter((one) => one.path === `${INTO}/alpha.module.code.ts`)
++  const beta = said.edits.filter((one) => one.path === `${INTO}/beta.module.code.ts`)
++
++  expect(alpha).toHaveLength(1)
++  expect(beta).toHaveLength(1)
++  expect(alpha[0]?.body).toEqual(textIn(root)(ALPHA_CODE) ?? "")
++  expect(beta[0]?.body).toEqual(textIn(root)(BETA_CODE) ?? "")
++})
++
++test("a body outside the folder naming a path that moved is repointed", async () => {
++  const said = await moveFolder(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
++  const one = said.edits.find((edit) => edit.path === OUTER_CODE)
++
++  expect(one?.body ?? "").toContain("../six/deep/gamma.module.code.ts")
++})
++
++test("a folder already holding a body at a path the move would write is refused", async () => {
++  const root = indexedRepo(HELD)
++  put(root, `${INTO}/deep/gamma.module.code.ts`, "export const gamma = 9\n")
++  const said = await moveFolder(worldIn(root), { at: FROM, to: INTO })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/is a body already/)
++})
++
++test("a folder holding no file is refused", async () => {
++  const said = await moveFolder(worldIn(indexedRepo(HELD)), { at: "akasha/nine", to: INTO })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/holds no file/)
++})
++
++test("the folder the files already sit under is refused", async () => {
++  const said = await moveFolder(worldIn(indexedRepo(HELD)), { at: FROM, to: FROM })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/those files sit under/)
++})
++
++test("a folder inside the folder that moves is refused", async () => {
++  const said = await moveFolder(worldIn(indexedRepo(HELD)), { at: FROM, to: `${FROM}/deep` })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/sits under/)
++})
++
++test("an argument the change was handed no value for is refused by its key", async () => {
++  const world = worldIn(indexedRepo(HELD))
++  const neither = await runChange(world, {})
++  const noTo = await runChange(world, { at: FROM })
++
++  expect(neither.refused ?? "").toContain("`at`")
++  expect(noTo.refused ?? "").toContain("`to`")
++})
++
++test("each body that moves is repointed by the change reached at its address", async () => {
++  const reached: string[] = []
++  const root = indexedRepo(HELD)
++  const world = worldAt(root, textIn(root), (_world, at) => {
++    reached.push(at)
++    return Promise.resolve({ edits: [], refused: null })
++  })
++
++  await moveFolder(world, { at: FROM, to: INTO })
++
++  expect(new Set(reached)).toEqual(new Set(["change-mechanical-code/change-imports"]))
++})
+diff --git a/changes/checked/pages/move-folder/move-folder.change-checked.ts b/changes/checked/pages/move-folder/move-folder.change-checked.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f66e5a65583decab0f21af9c833da0caba965443
+--- /dev/null
++++ b/changes/checked/pages/move-folder/move-folder.change-checked.ts
+@@ -0,0 +1,53 @@
++import type { ChangeChecked } from "../../change-checked.page-type.ts"
++
++export const moveFolder = {
++  id: "01a07c54-a9b0-797b-add8-8e9d734c5213",
++  pageTypeSlug: "change-checked",
++  slug: "move-folder",
++  changeModeSlug: "change-mode-move",
++  definition: "one folder and every file under it carried to another path",
++  code: "ts",
++  test: "ts",
++  runsChecks: true,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Every file under the folder is carried.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "No file outside the folder is carried.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file keeps its place beneath the folder that file moved with.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A reach from one carried file to another is left as that reach is.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A body outside the folder naming a path that moved is repointed in the same answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder already holding a body at a path the move would write is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder holding no file is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page carried with the folder keeps the slug that page had.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Nothing here changes the data a page states.",
++    },
++  ],
++} as const satisfies ChangeChecked
