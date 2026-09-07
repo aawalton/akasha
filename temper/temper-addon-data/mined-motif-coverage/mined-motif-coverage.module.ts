@@ -35,7 +35,7 @@ export const minedMotifCoverage = {
     },
     {
       invariantKind: "departure",
-      statement: "A tome edition restates a book already named, so that tome edition is left out.",
+      statement: "A tome edition restating a book already named is left out.",
     },
     {
       invariantKind: "departure",
