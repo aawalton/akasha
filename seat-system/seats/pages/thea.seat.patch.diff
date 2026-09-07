@@ -1,0 +1,17 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts
+index 53d9436e44e79ca48011b57c5710753ad1f1344b..bddb32e5b877339b25d71796e915cd4d4967546a 100644
+--- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts
++++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts
+@@ -49,6 +49,10 @@ export const restatementNarrowsSomething = {
+       statement:
+         "A page type is judged when the change carries that page type or a property that type declares.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A page type under a judged page type is judged as well.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "A restatement that loosens is passed over here.",
