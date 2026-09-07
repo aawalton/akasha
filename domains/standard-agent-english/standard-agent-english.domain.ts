@@ -8,6 +8,7 @@ export const standardAgentEnglish = {
   partSlugs: [
     "domain/standard-agent-english-term",
     "domain/standard-agent-english-non-term",
+    "page-type/standard-agent-english-property",
     "module/term-census",
   ],
 } as const satisfies Domain
