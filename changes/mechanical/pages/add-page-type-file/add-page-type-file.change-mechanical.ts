@@ -4,6 +4,7 @@ export const addPageTypeFile = {
   id: "01a07984-8ef3-719a-972b-cb77ca7dafec",
   pageTypeSlug: "change-mechanical",
   slug: "add-page-type-file",
+  changeModeSlug: "change-mode-add",
   definition:
     "one page type written at one path, with the plural slug that page type states judged",
   code: "ts",

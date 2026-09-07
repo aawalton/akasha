@@ -4,6 +4,7 @@ export const addPropertyValue = {
   id: "01a07932-2568-72a6-8b8e-314ac44c417b",
   pageTypeSlug: "change-mechanical",
   slug: "add-property-value",
+  changeModeSlug: "change-mode-add",
   definition: "one value put into one page property in a page's body",
   code: "ts",
   test: "ts",

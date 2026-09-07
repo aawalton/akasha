@@ -4,6 +4,7 @@ export const addPagePropertyFile = {
   id: "01a07984-2e7e-7ced-801b-160efbf7e220",
   pageTypeSlug: "change-mechanical",
   slug: "add-page-property-file",
+  changeModeSlug: "change-mode-add",
   definition: "one page property written at one path, with the keys that property carries judged",
   code: "ts",
   test: "ts",
