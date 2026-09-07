@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
-index 78553420d50382f202e4e54b81bbf80088baf20d..9e21fd024a9c601e68f5634de1753c503ab2ee4e 100644
+index 78553420d50382f202e4e54b81bbf80088baf20d..84e5ac9d0d7cdf7d375f08f9e53b802bab4c5812 100644
 --- a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
 +++ b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
 @@ -1,3 +1,4 @@
@@ -74,3 +74,14 @@ index 78553420d50382f202e4e54b81bbf80088baf20d..9e21fd024a9c601e68f5634de1753c50
      . ~/.bash_aliases
  fi
  
+@@ -127,8 +108,10 @@ fi
+ # sources /etc/bash.bashrc).
+ if ! shopt -oq posix; then
+   if [ -f /usr/share/bash-completion/bash_completion ]; then
++    # shellcheck source=/dev/null
+     . /usr/share/bash-completion/bash_completion
+   elif [ -f /etc/bash_completion ]; then
++    # shellcheck source=/dev/null
+     . /etc/bash_completion
+   fi
+ fi
