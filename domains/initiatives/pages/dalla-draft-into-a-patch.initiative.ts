@@ -23,11 +23,6 @@ export const dallaDraftIntoAPatch = {
         "The apply has its own `unwarranted` at `apply.command.code.ts:112-126` rather than calling `unwarrantedIn`, and runs it above the glass, so `--break-the-glass` skips the checks and skips no warrant. Its predicate is `writerOwesReading !== false`, so a row silent about its writer is owing. Checks run on the apply alone; `akasha change` builds no gate. Left: `lint-exception` and `patch` declare `change-authored` and never ask, and `lint-exception` now states that absence.",
     },
     {
-      statement: "One command run carries several changes, each judged by its own requirements.",
-      workingMemory:
-        "`changeKindSlug` is `many: false` on the command page and a landing is one commit, so a per-change kind cannot be said. Four shapes found: a sequence of acts (`food` lands three commits), batch until done (`migration-system`, which buys it by leaving the gate), budget and re-run, and accumulate-then-apply (the patch).",
-    },
-    {
       statement: "A command declares the guards and the capabilities it carries.",
       workingMemory:
         "22 of the 27 properties on `command.page-type.ts` are written by no page, because nothing reads them. `verdict`, `reading` and `irreversible` are typed at `command-declaring.module.code.ts:61` and cannot be reached from a page. Whether a command drafts, takes a dry run, or takes the glass is a literal at each call site rather than read off the command's page. An opt-out is data on the subject page and nowhere on the command.",
