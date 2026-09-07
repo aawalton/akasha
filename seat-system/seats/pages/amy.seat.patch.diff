@@ -24,6 +24,23 @@ index faa6c0f1d369b25d9666db50499312209bd11ee2..8676fb6367159f4b030026f77e1e01ec
 +  if (request.method === "OPTIONS") return corsPreflight(cors)
 +  return corsAnswered(await answerFrom(request, DEPS), cors)
  }
+diff --git a/alan/web/.server/alan-answer-page-write/alan-answer-page-write.module.code.ts b/alan/web/.server/alan-answer-page-write/alan-answer-page-write.module.code.ts
+index 6b08c5184a4b63e900e3b777ff9d87f65faa3c5d..739b7835312073d42eb22342ffcb399cabf4134d 100644
+--- a/alan/web/.server/alan-answer-page-write/alan-answer-page-write.module.code.ts
++++ b/alan/web/.server/alan-answer-page-write/alan-answer-page-write.module.code.ts
+@@ -1,10 +1,10 @@
+ import { readPageWrite, runPageWrite, TAKES, writesAs } from "@akasha/pages-access/answer-write"
+-import { getUser } from "@akasha/supabase-rr/auth-server"
++import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
+ 
+ writesAs("alanwalton-web")
+ 
+ export async function answerPageWrite(request: Request): Promise<Response> {
+-  const { user, headers } = await getUser(request)
++  const { user, headers } = await resolveRequestUser(request)
+   if (user === null) {
+     return Response.json(
+       { error: "this route answers a signed-in writer only" },
 diff --git a/alan/web/.server/alan-answer-pages/alan-answer-pages.module.code.ts b/alan/web/.server/alan-answer-pages/alan-answer-pages.module.code.ts
 index 902cc3c6e54c89870673169149945dd9e824186c..743f33062121bce150432e7796ada6fa98ceea4d 100644
 --- a/alan/web/.server/alan-answer-pages/alan-answer-pages.module.code.ts
