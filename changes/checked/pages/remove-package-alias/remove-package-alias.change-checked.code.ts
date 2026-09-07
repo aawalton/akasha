@@ -27,7 +27,7 @@ const UNDROPPED = "so no alias is dropped"
 
 const HOLDING = ["dependencies", "devDependencies", "peerDependencies", "optionalDependencies"]
 
-export type DropPackageAliasAsked = {
+export type RemovePackageAliasAsked = {
   readonly at: string
   readonly was: string
 }
@@ -66,7 +66,7 @@ function reachingOld(world: World, was: string): string | null {
   return null
 }
 
-export function dropPackageAlias(world: World, given: DropPackageAliasAsked): Answer {
+export function removePackageAlias(world: World, given: RemovePackageAliasAsked): Answer {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const held = manifestIn(text)
@@ -100,5 +100,5 @@ export function runChange(world: World, given: Asked): Answer {
   if (at === undefined) return refusing(missing(AT))
   const was = given[WAS]
   if (was === undefined) return refusing(missing(WAS))
-  return dropPackageAlias(world, { at, was })
+  return removePackageAlias(world, { at, was })
 }

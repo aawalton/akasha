@@ -4,7 +4,7 @@ import ts from "typescript"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import {
   aliasedTo,
-  dropPackageAlias,
+  removePackageAlias,
   runChange,
   withoutAliasIn,
 } from "./remove-package-alias.change-checked.code.ts"
@@ -158,7 +158,7 @@ function worldOver(code: string): World {
 }
 
 function dropped(): ReadonlyMap<string, string | null> {
-  const said = dropPackageAlias(worldOver(CLEAR_CODE), { at: HELD_MANIFEST, was: WAS })
+  const said = removePackageAlias(worldOver(CLEAR_CODE), { at: HELD_MANIFEST, was: WAS })
   expect(said.refused).toBe(null)
   return new Map(said.edits.map((one) => [one.path, one.body]))
 }
@@ -212,7 +212,7 @@ test("the alias goes and the entries left behind keep their spacing", () => {
 })
 
 test("a body still reaching the package under the old name is refused", () => {
-  const said = dropPackageAlias(worldOver(REACHING_CODE), { at: HELD_MANIFEST, was: WAS })
+  const said = removePackageAlias(worldOver(REACHING_CODE), { at: HELD_MANIFEST, was: WAS })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
     `\`${READER_CODE}\` reaches this package as \`${WAS}\`, so no alias is dropped`
@@ -220,25 +220,28 @@ test("a body still reaching the package under the old name is refused", () => {
 })
 
 test("a sentence holding the old name reaches nothing", () => {
-  const said = dropPackageAlias(worldOver(CLEAR_CODE), { at: HELD_MANIFEST, was: WAS })
+  const said = removePackageAlias(worldOver(CLEAR_CODE), { at: HELD_MANIFEST, was: WAS })
   expect(said.refused).toBe(null)
 })
 
 test("an old name the package carries now is refused", () => {
-  const said = dropPackageAlias(worldOver(CLEAR_CODE), { at: HELD_MANIFEST, was: HELD })
+  const said = removePackageAlias(worldOver(CLEAR_CODE), { at: HELD_MANIFEST, was: HELD })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${HELD}\` is the name this package carries, so no alias is dropped`)
 })
 
 test("an old name no manifest aliases is refused", () => {
-  const said = dropPackageAlias(worldOver(CLEAR_CODE), { at: HELD_MANIFEST, was: "@probe/absent" })
+  const said = removePackageAlias(worldOver(CLEAR_CODE), {
+    at: HELD_MANIFEST,
+    was: "@probe/absent",
+  })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("no manifest aliases `@probe/absent`, so no alias is dropped")
 })
 
 test("a manifest that could not be read is refused", () => {
   const world = worldAt(scratch.rootFor("alias-"), () => null)
-  const said = dropPackageAlias(world, { at: HELD_MANIFEST, was: WAS })
+  const said = removePackageAlias(world, { at: HELD_MANIFEST, was: WAS })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${HELD_MANIFEST}\` could not be read`)
 })
