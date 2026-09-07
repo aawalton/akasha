@@ -1,0 +1,49 @@
+writerOwesReading: false
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.code.ts b/changes/runners/pages/change-running/change-running.change-runner.code.ts
+index 152e5ed374eda3f923f1afbdee9ee39aa3d78322..ea1e1eaa928165cd88301bd0df5d5e3160f6b81f 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.code.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.code.ts
+@@ -64,14 +64,25 @@ export type Loaded = {
+   readonly guards: readonly Guard[]
+ }
+ 
++const LOADED = new WeakMap<World, Map<string, Loaded>>()
++
+ export async function loadedAt(world: World, at: string): Promise<Loaded | string> {
++  const held = LOADED.get(world)
++  const before = held?.get(at)
++  if (before !== undefined) return before
+   const run = await exportedAt(world, at, RUN_CHANGE)
+   if (typeof run !== "function") {
+     return `\`${at}\` reaches no change exporting \`${RUN_CHANGE}\``
+   }
+   const guards = await guardsIn(world, at)
+   if (typeof guards === "string") return guards
+-  return { run: run as (over: World, asked: unknown) => Answer | Promise<Answer>, guards }
++  const loaded: Loaded = {
++    run: run as (over: World, asked: unknown) => Answer | Promise<Answer>,
++    guards,
++  }
++  if (held === undefined) LOADED.set(world, new Map([[at, loaded]]))
++  else held.set(at, loaded)
++  return loaded
+ }
+ 
+ export async function ranBy(world: World, loaded: Loaded, given: unknown): Promise<Answer> {
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.ts b/changes/runners/pages/change-running/change-running.change-runner.ts
+index b0f22991f37c1f9609917156b8f92f3b98eee5a1..3c4660f8e08dfcd8612431873a20ab98d72b63f3 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.ts
+@@ -63,7 +63,11 @@ export const changeRunning = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A change reaching another change loads that change while the first change runs.",
++      statement: "A change reached more than once over one world is looked up once.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A world reached over twice looks a change up again for the second world.",
+     },
+     {
+       invariantKind: "departure",
