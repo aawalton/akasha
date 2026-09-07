@@ -17,6 +17,18 @@ index 84e5ac9d0d7cdf7d375f08f9e53b802bab4c5812..369ca57d124393f27a7ad8b4615e36a4
  
  # If not running interactively, don't do anything
  case $- in
+diff --git a/machines/provisioning/provisioned-files/pages/macbook-brewfile.provisioned-file.content.conf b/machines/provisioning/provisioned-files/pages/macbook-brewfile.provisioned-file.content.conf
+index b8b86a0c747b4a90404aadbfb635363f4b55b307..552d4eabcc7edef019d9a47596f61611ccc105bf 100644
+--- a/machines/provisioning/provisioned-files/pages/macbook-brewfile.provisioned-file.content.conf
++++ b/machines/provisioning/provisioned-files/pages/macbook-brewfile.provisioned-file.content.conf
+@@ -22,6 +22,5 @@ cask "1password-cli"
+ 
+ # Miniforge — minimal conda installer defaulting to the conda-forge channel,
+ # native osx-arm64. Per-service isolated Python envs for AI inference (PyTorch /
+-# MPS, etc.); the conda init block lives in the managed .zshrc, not via
+-# `conda init` (which would rewrite that symlinked, read-only file). See CLAUDE.md.
++# MPS, etc.). No shell config here runs `conda init`.
+ cask "miniforge"
 diff --git a/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh b/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh
 old mode 100755
 new mode 100644
