@@ -9,12 +9,15 @@ export const harnessLanding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Bodies land, removals unlink and carries rename before anything commits.",
+      statement: "Bodies land and removals unlink and carries rename before anything commits.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A failed commit names every path already applied and uncommitted, and the remedy.",
+      statement: "A failed commit names every path already applied and uncommitted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A failed commit names the remedy.",
     },
     {
       invariantKind: "departure",
