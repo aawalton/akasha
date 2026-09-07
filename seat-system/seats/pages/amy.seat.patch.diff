@@ -142,3 +142,19 @@ index c846f6cd470dc289f43088a3f8c19c3160119256..bfb33ecf712b13dc5c543a8f8e2ab836
      favorited_at: null,
      last_viewed_at: null,
    }
+diff --git a/pages/views/pages/temper-tasks-today.view.ts b/pages/views/pages/temper-tasks-today.view.ts
+index 2d164933b639b8b89877fff58877fc3ee8b293b2..d1145c83ab4f68ad8ab27d796500b7a9fe032f73 100644
+--- a/pages/views/pages/temper-tasks-today.view.ts
++++ b/pages/views/pages/temper-tasks-today.view.ts
+@@ -8,7 +8,10 @@ export const temperTasksToday = {
+   navSlug: "temper-tasks",
+   pageType: "temper-task",
+   viewPlace: 0,
+-  narrows: [{ key: "due-date", comparison: "before", values: ["eso-day-next"] }],
++  narrows: [
++    { key: "due-date", comparison: "before", values: ["eso-day-next"] },
++    { key: "completed-at", comparison: "empty", values: ["true"] },
++  ],
+   viewSorts: [
+     { key: "priority", descending: false },
+     { key: "character-sort-order", descending: true },
