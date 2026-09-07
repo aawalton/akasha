@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.ts b/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.ts
-index c1f98e8b028efcde7e7c4a813bb240352d753b36..e87d2eb9ee7824e0f062fd30ccc5a200475b607b 100644
+index c1f98e8b028efcde7e7c4a813bb240352d753b36..27c7901681a7fba40e57b8d296751ddddb442622 100644
 --- a/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.ts
 +++ b/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.ts
 @@ -8,7 +8,7 @@ export const requireImportExtension = {
@@ -24,6 +24,16 @@ index c1f98e8b028efcde7e7c4a813bb240352d753b36..e87d2eb9ee7824e0f062fd30ccc5a200
 +    {
 +      invariantKind: "departure",
 +      statement: "A specifier no `.ts`, `.tsx` or `.css` file stands at is let through.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,7 +44,8 @@ export const requireImportExtension = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A relative specifier carrying any other extension is refused.",
++      statement:
++        "A relative specifier carrying any other extension is refused where that file stands.",
      },
      {
        invariantKind: "departure",
