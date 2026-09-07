@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/command-system/landing/landing.module.test-fixtures.ts b/command-system/landing/landing.module.test-fixtures.ts
+index dd605fa0d422e9860b4521ba03e402e68b6ff77d..ae2d9e99df555f3ec1e67e81bc84801aeb96298f 100644
+--- a/command-system/landing/landing.module.test-fixtures.ts
++++ b/command-system/landing/landing.module.test-fixtures.ts
+@@ -230,7 +230,7 @@ export const pagesRepo = (): string =>
+ 
+ export const filedFor = (id: string): readonly string[] => [
+   `identity/page/id/${id}.jsonl`,
+-  "identity/domain/slug/a.jsonl",
++  "identity/page-type/domain/slug/a.jsonl",
+   "path/akasha/a.domain.ts.jsonl",
+ ]
+ 
