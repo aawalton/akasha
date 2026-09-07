@@ -13,7 +13,7 @@ export const libSetsCoreLifecycleUiButtons = {
     },
     {
       invariantKind: "departure",
-      statement: "The same function is published under a public key and an internal one.",
+      statement: "The same function is published under a public key and an internal key.",
     },
   ],
 } as const satisfies Module
