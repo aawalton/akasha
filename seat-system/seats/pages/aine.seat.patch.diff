@@ -1,0 +1,394 @@
+writerOwesReading: false
+diff --git a/changes/authored/pages/add-file/add-file.change-authored.code.ts b/changes/authored/pages/add-file/add-file.change-authored.code.ts
+index 02f47f857b9be37548a39f12f5b779bb4c83bda5..69167a2b5f71fd3ff4a888862236f517bc96e6d6 100644
+--- a/changes/authored/pages/add-file/add-file.change-authored.code.ts
++++ b/changes/authored/pages/add-file/add-file.change-authored.code.ts
+@@ -1,3 +1,4 @@
++import { extname } from "node:path"
+ import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+ import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+@@ -8,6 +9,10 @@ const BODY = "body"
+ 
+ const ADD_FILE = "change-mechanical/add-file"
+ 
++const ADD_CODE_FILE = "change-mechanical/add-code-file"
++
++const CODE = new Set([".ts", ".tsx"])
++
+ export type Asked = Readonly<Record<string, string>>
+ 
+ export async function addFileCommand(world: World, given: Asked): Promise<Answer> {
+@@ -15,7 +20,7 @@ export async function addFileCommand(world: World, given: Asked): Promise<Answer
+   if (at === undefined) return refusing(missing(AT))
+   const body = given[BODY]
+   if (body === undefined) return refusing(missing(BODY))
+-  return await reach(world, ADD_FILE, { at, body })
++  return await reach(world, CODE.has(extname(at)) ? ADD_CODE_FILE : ADD_FILE, { at, body })
+ }
+ 
+ export async function runChange(world: World, given: Asked): Promise<Answer> {
+diff --git a/changes/authored/pages/add-file/add-file.change-authored.ts b/changes/authored/pages/add-file/add-file.change-authored.ts
+index 8521c6411e5be679e631e934ca06156fbda93185..1f4e7a03ed5e0106c6ad3d3c011021f9db05529f 100644
+--- a/changes/authored/pages/add-file/add-file.change-authored.ts
++++ b/changes/authored/pages/add-file/add-file.change-authored.ts
+@@ -19,6 +19,14 @@ export const addFile = {
+       invariantKind: "departure",
+       statement: "Writing the body is left to the partial this change runs.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A path under a TypeScript name is written by the change judging imports.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every other path is written by the change judging the file alone.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The checks judge the tree the edits leave.",
+diff --git a/changes/guards/change-guard.page-type.ts b/changes/guards/change-guard.page-type.ts
+index ac4d56cb258cd2f8ef57eac6ecfb4edc9847d66c..8d78edf4e0053dbd7422e002cfddf4c19c6ffb7d 100644
+--- a/changes/guards/change-guard.page-type.ts
++++ b/changes/guards/change-guard.page-type.ts
+@@ -13,6 +13,7 @@ export const changeGuard = {
+   partSlugs: [
+     "change-guard/body-not-written-over",
+     "change-guard/import-not-left-hanging",
++    "change-guard/import-reaches-a-file",
+     "change-guard/relation-not-left-hanging",
+   ],
+   invariants: [
+diff --git a/changes/guards/pages/import-reaches-a-file/import-reaches-a-file.change-guard.code.ts b/changes/guards/pages/import-reaches-a-file/import-reaches-a-file.change-guard.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4f77298c977e56893120610b8c44ef02609ae637
+--- /dev/null
++++ b/changes/guards/pages/import-reaches-a-file/import-reaches-a-file.change-guard.code.ts
+@@ -0,0 +1,29 @@
++import { extname } from "node:path"
++import { landingOf, placedIn } from "@akasha/code/code-specifier"
++import { holdsAfter } from "../../../modules/change-guarding/change-guarding.module.code.ts"
++import type {
++  Guard,
++  Guarding,
++} from "../../../modules/change-guarding/change-guarding.module.types.ts"
++
++const CODE = new Set([".ts", ".tsx"])
++
++function reachingIn(given: Guarding, path: string, body: string): string | null {
++  for (const one of placedIn(path, body)) {
++    const landed = landingOf(path, one.text)
++    if (landed === null || holdsAfter(given, landed)) continue
++    return `\`${path}\` imports \`${one.text}\`, and \`${landed}\` holds no body`
++  }
++  return null
++}
++
++export function importReachesAFile(given: Guarding): string | null {
++  for (const one of given.said.edits) {
++    if (one.body === null || !CODE.has(extname(one.path))) continue
++    const why = reachingIn(given, one.path, one.body)
++    if (why !== null) return why
++  }
++  return null
++}
++
++export const runGuard: Guard = importReachesAFile
+diff --git a/changes/guards/pages/import-reaches-a-file/import-reaches-a-file.change-guard.test.ts b/changes/guards/pages/import-reaches-a-file/import-reaches-a-file.change-guard.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7d192c42a38f1fbe553c67554e15d47ac6038d64
+--- /dev/null
++++ b/changes/guards/pages/import-reaches-a-file/import-reaches-a-file.change-guard.test.ts
+@@ -0,0 +1,69 @@
++import { afterAll, expect, test } from "bun:test"
++import { dirname, join } from "node:path"
++import { HELD_CODE, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
++import { answered, writing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
++import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { importReachesAFile } from "./import-reaches-a-file.change-guard.code.ts"
++
++afterAll(scratch.sweep)
++
++const GUARDS = [importReachesAFile]
++
++const AT = join(dirname(HELD_CODE), "fresh.module.code.ts")
++
++const MADE = join(dirname(HELD_CODE), "made.module.code.ts")
++
++function judged(root: string, said: Answer): Answer {
++  return guardedBy(worldAt(root, textIn(root)), said, GUARDS)
++}
++
++test("a code body naming an import that reaches no file is refused", () => {
++  const root = indexedRepo()
++  const body = 'import { gone } from "./gone.module.code.ts"\n\nexport const fresh = gone\n'
++
++  const said = judged(root, answered([writing(AT, null, body)]))
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toContain("holds no body")
++})
++
++test("a code body naming an import that reaches a file is not refused", () => {
++  const root = indexedRepo()
++  const body = 'import { held } from "./held.module.code.ts"\n\nexport const fresh = held\n'
++
++  const said = judged(root, answered([writing(AT, null, body)]))
++
++  expect(said.refused).toBe(null)
++})
++
++test("a body under no TypeScript name is judged by nothing", () => {
++  const root = indexedRepo()
++  const notes = join(dirname(HELD_CODE), "notes.md")
++
++  const said = judged(root, answered([writing(notes, null, "see ./gone.module.code.ts\n")]))
++
++  expect(said.refused).toBe(null)
++})
++
++test("a code body naming an import the same answer writes is not refused", () => {
++  const root = indexedRepo()
++  const body = 'import { made } from "./made.module.code.ts"\n\nexport const fresh = made\n'
++
++  const said = judged(
++    root,
++    answered([writing(MADE, null, "export const made = 1\n"), writing(AT, null, body)])
++  )
++
++  expect(said.refused).toBe(null)
++})
++
++test("a specifier naming a package is not refused", () => {
++  const root = indexedRepo()
++  const body = 'import { join } from "node:path"\n\nexport const fresh = join\n'
++
++  const said = judged(root, answered([writing(AT, null, body)]))
++
++  expect(said.refused).toBe(null)
++})
+diff --git a/changes/guards/pages/import-reaches-a-file/import-reaches-a-file.change-guard.ts b/changes/guards/pages/import-reaches-a-file/import-reaches-a-file.change-guard.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f4470d780d8f4445d4153b547535e512d76304f1
+--- /dev/null
++++ b/changes/guards/pages/import-reaches-a-file/import-reaches-a-file.change-guard.ts
+@@ -0,0 +1,40 @@
++import type { ChangeGuard } from "../../change-guard.page-type.ts"
++
++export const importReachesAFile = {
++  id: "01a07969-9122-7db9-ad3c-de58ab103a06",
++  pageTypeSlug: "change-guard",
++  slug: "import-reaches-a-file",
++  definition: "the guard refusing an answer whose written code names an import reaching no file",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The imports judged are read from the body the answer writes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path the answer writes a body at holds a body.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path the answer moves away from holds no body.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path no edit names holds the body the world before the change holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An import reaching no file refuses the answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A specifier naming a package is judged by nothing here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body under no TypeScript name is judged by nothing here.",
++    },
++  ],
++} as const satisfies ChangeGuard
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index 76c8b285f1394e976755decb719f0fc382076f5c..54f7f81118abe7cead3eec1a7d7ac53a06957487 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -23,6 +23,7 @@ export const changeMechanical = {
+     "change-mechanical/change-page-property",
+     "change-mechanical/change-page-property-relation",
+     "change-mechanical/add-file",
++    "change-mechanical/add-code-file",
+     "change-mechanical/add-property-value",
+     "change-mechanical/change-file",
+     "change-mechanical/remove-page",
+diff --git a/changes/mechanical/pages/add-code-file/add-code-file.change-mechanical.code.ts b/changes/mechanical/pages/add-code-file/add-code-file.change-mechanical.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a2650d4d1f1721debf420edb2ce7847600d3d8ca
+--- /dev/null
++++ b/changes/mechanical/pages/add-code-file/add-code-file.change-mechanical.code.ts
+@@ -0,0 +1,20 @@
++import { extname } from "node:path"
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++
++const ADD_FILE = "change-mechanical/add-file"
++
++const CODE = new Set([".ts", ".tsx"])
++
++export type Asked = {
++  readonly at: string
++  readonly body: string
++}
++
++export async function runChange(world: World, given: Asked): Promise<Answer> {
++  if (!CODE.has(extname(given.at))) {
++    return refusing(`\`${given.at}\` is under no TypeScript name, so this change writes nothing`)
++  }
++  return await reach(world, ADD_FILE, { at: given.at, body: given.body })
++}
+diff --git a/changes/mechanical/pages/add-code-file/add-code-file.change-mechanical.test.ts b/changes/mechanical/pages/add-code-file/add-code-file.change-mechanical.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..24eb6bdec85fcd43d893eb4caac8138f22e697be
+--- /dev/null
++++ b/changes/mechanical/pages/add-code-file/add-code-file.change-mechanical.test.ts
+@@ -0,0 +1,56 @@
++import { afterAll, expect, test } from "bun:test"
++import { dirname, join } from "node:path"
++import { HELD_CODE, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import {
++  type Reaching,
++  type World,
++  worldAt,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { addFile } from "../add-file/add-file.change-mechanical.code.ts"
++import { runChange } from "./add-code-file.change-mechanical.code.ts"
++
++const RUNS: Reaching = (world, at, given) => {
++  if (at === "change-mechanical/add-file") {
++    return Promise.resolve(addFile(world, given as { at: string; body: string }))
++  }
++  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
++}
++
++afterAll(scratch.sweep)
++
++const BODY = "export const fresh = 1\n"
++
++function worldIn(root: string): World {
++  return worldAt(root, textIn(root), RUNS)
++}
++
++test("a code path is written by the change this change reaches", async () => {
++  const root = indexedRepo()
++  const at = join(dirname(HELD_CODE), "fresh.module.code.ts")
++
++  const said = await runChange(worldIn(root), { at, body: BODY })
++
++  expect(said.refused).toBe(null)
++  expect(said.edits).toEqual([{ path: at, was: null, body: BODY }])
++})
++
++test("a path under no TypeScript name is refused", async () => {
++  const root = indexedRepo()
++  const at = join(dirname(HELD_CODE), "notes.md")
++
++  const said = await runChange(worldIn(root), { at, body: BODY })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${at}\` is under no TypeScript name, so this change writes nothing`)
++})
++
++test("a path named as TSX is written", async () => {
++  const root = indexedRepo()
++  const at = join(dirname(HELD_CODE), "fresh.module.code.tsx")
++
++  const said = await runChange(worldIn(root), { at, body: BODY })
++
++  expect(said.refused).toBe(null)
++  expect(said.edits).toHaveLength(1)
++})
+diff --git a/changes/mechanical/pages/add-code-file/add-code-file.change-mechanical.ts b/changes/mechanical/pages/add-code-file/add-code-file.change-mechanical.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..34bcafa5aef10d058894cc0d38fb5c27017324d1
+--- /dev/null
++++ b/changes/mechanical/pages/add-code-file/add-code-file.change-mechanical.ts
+@@ -0,0 +1,32 @@
++import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
++
++export const addCodeFile = {
++  id: "01a07969-9123-7320-b8c9-3afd2dae9bfa",
++  pageTypeSlug: "change-mechanical",
++  slug: "add-code-file",
++  definition: "one code body written at one path, with the imports that body names judged",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++  guardSlugs: ["change-guard/import-reaches-a-file"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A path under no TypeScript name is refused here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body is written by the change this change reaches.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The imports the body names are judged by the guard this change names.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here judges the path a body is written at.",
++    },
++  ],
++} as const satisfies ChangeMechanical
+diff --git a/changes/modules/change-guarding/change-guarding.module.code.ts b/changes/modules/change-guarding/change-guarding.module.code.ts
+index 7cb1503613bf2757737940e92044af55835c1ec6..2f2b80bdaf05bf00160d9db4ba4aadd3210b0a62 100644
+--- a/changes/modules/change-guarding/change-guarding.module.code.ts
++++ b/changes/modules/change-guarding/change-guarding.module.code.ts
+@@ -16,9 +16,15 @@ export function takingIn(said: Answer): readonly string[] {
+     .map((one) => one.path)
+ }
+ 
+-// The shadow is built over every answer the world already holds as well as this one, because a
+-// caller gathering answers hands each change a world the answers before it left, and a shadow
+-// built from the commit alone reads a file another answer took away as a file that is there.
++export function holdsAfter(given: Guarding, path: string): boolean {
++  let moved = false
++  for (const one of given.said.edits) {
++    if (one.path === path) return one.body !== null
++    if (one.from === path) moved = true
++  }
++  return moved ? false : given.before.textOf(path) !== null
++}
++
+ export function guardedBy(world: World, said: Answer, guards: readonly Guard[]): Answer {
+   if (said.refused !== null || guards.length === 0) return said
+   const whole = gathered([world.over, said])
+diff --git a/changes/modules/change-guarding/change-guarding.module.ts b/changes/modules/change-guarding/change-guarding.module.ts
+index 27cc99cda0567830464e6dc261684cf01d28e827..3c3a0ba6ad37d368bdb2a5727bd5a79fc776312b 100644
+--- a/changes/modules/change-guarding/change-guarding.module.ts
++++ b/changes/modules/change-guarding/change-guarding.module.ts
+@@ -49,6 +49,11 @@ export const changeGuarding = {
+       invariantKind: "departure",
+       statement: "The paths an answer takes away are read here rather than by each guard.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "Whether a path holds a body after the answer is read here rather than by each guard.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A path a move leaves behind is no path taken away.",
