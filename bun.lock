@@ -996,8 +996,10 @@
     "inference/runs": {
       "name": "@akasha/inference-runs",
       "dependencies": {
+        "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/object-store": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
