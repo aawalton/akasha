@@ -114,7 +114,7 @@ export function declaredOf(one: Carried, page: Value | undefined, on: string): D
     title: page === undefined ? said : (textAt(page, "definition") ?? said),
     pageId: page === undefined ? "" : (textAt(page, "id") ?? ""),
     on,
-    values: one.many ? [] : null,
+    values: page === undefined ? null : (page["values"] ?? null),
     targetSlug: page === undefined ? null : slugAt(page, "targetPageTypeSlug"),
     slugProperty: one.propertySlug,
     mayBeGone: !one.required,

@@ -195,6 +195,10 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
+      statement: "A declaration carries the values a select property states.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name that is no page type is shaped as nothing rather than refused.",
     },
     {
