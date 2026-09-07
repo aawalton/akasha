@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/seat-transcript-path/seat-transcript-path.module.ts b/seat-system/seat-transcript-path/seat-transcript-path.module.ts
+index 4e97e563a53913a6636bca94f781ce1b0d08fb58..73e6147710b89060e8f44fb1a908ded57ce4f735 100644
+--- a/seat-system/seat-transcript-path/seat-transcript-path.module.ts
++++ b/seat-system/seat-transcript-path/seat-transcript-path.module.ts
+@@ -13,7 +13,7 @@ export const seatTranscriptPath = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A path is taken as given, with no check on its shape.",
++      statement: "A path is taken as given with no check on its shape.",
+     },
+     {
+       invariantKind: "departure",
