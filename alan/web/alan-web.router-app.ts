@@ -150,6 +150,7 @@ export const alanWeb = {
     "route/inbox-stoplights",
     "route/no-such-route",
     "route/pages-ready",
+    "route/surplus",
     "route/wallpaper",
     "route/widget-tap",
   ],

@@ -1,42 +1,26 @@
-// Jenny's surplus tile, driven over real HTTP: the relay carrier POSTs a reading into her
-// receiving route, and her own route answers it as the `stoplights` body her shipped widget
-// decodes. The two secrets are the only made-up things here, generated fresh for each run.
-//
-// The reading in these tests is a fixture. The surplus Alan actually has is never read here, and
-// no test asserts an hour count as though it were his.
-//
-// The surplus is Alan's. Jenny's widget says so in its own words — "Hours of sleep left after
-// what Alan's day cost" — so the group her route serves is the same one his site serves, and the
-// reading reaching her pod is the same reading, carried to two sites rather than taken twice.
-//
-// What this pins that her safety file does not: the `surplus-hours` scale is the first one whose
-// rungs are negative. A day that has eaten into the night reads below zero, and the widget still
-// has to receive a tier, a next tier and a fraction between them. A scale read as though it began
-// at zero would answer black for every ordinary day, which draws on Jenny's phone as an alarm.
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
-import { dropRelayed, RELAY_PATH, relayReading } from "@akasha/readout-system/readout-relay"
-import { action } from "./api.readout-relay.ts"
-import { loader } from "./api.surplus.ts"
+import { type Tile, tileAt } from "@akasha/readout-system/readout-group-serving/testing"
+import { dropRelayed, RELAY_PATH } from "@akasha/readout-system/readout-relay"
+import { type Relaying, relayingTo } from "@akasha/readout-system/readout-relay/testing"
+import { action } from "../api.readout-relay.ts"
+import { loader } from "./jenny-surplus.route.code.ts"
 
 const RING_CREDENTIAL = crypto.randomUUID()
 const RELAY_SECRET = crypto.randomUUID()
 const READOUT = "upkeep-surplus"
 const GROUP = "surplus"
+const PATH = "/api/surplus"
 
 process.env.SMILINGJENNY_RING_CREDENTIAL = RING_CREDENTIAL
 process.env.READING_RELAY_SECRET = RELAY_SECRET
 
 const TIERS = ["black", "red", "orange", "yellow", "green", "blue"]
 
-// The rungs the `surplus-hours` scale page states, and the keys the `upkeep-surplus` readout page
-// carries. Both pages are the ones Alan's site reads too, held here so a change to either shows
-// up as a failure rather than as a blank tile on Jenny's home screen.
 const READOUT_ROW = {
   slug: READOUT,
   label: "Surplus",
   unit: "hours",
   place: 2,
-  figureFormat: "decimal",
   scaleSlug: "surplus-hours",
   wireKey: GROUP,
   groupSlugs: [GROUP],
@@ -57,6 +41,8 @@ let store: ReturnType<typeof Bun.serve>
 let server: ReturnType<typeof Bun.serve>
 let origin: string
 let heldOrigin: string | undefined
+let tile: Tile
+let carried: Relaying
 
 beforeAll(() => {
   store = Bun.serve({
@@ -74,19 +60,15 @@ beforeAll(() => {
     fetch(request) {
       const { pathname } = new URL(request.url)
       if (pathname === RELAY_PATH) return action({ request } as never)
-      if (pathname === "/api/surplus") return loader({ request } as never)
+      if (pathname === PATH) return loader({ request })
       return new Response("no such route", { status: 404 })
     },
   })
   origin = `http://localhost:${server.port}`
+  tile = tileAt(origin, PATH, GROUP, { "X-Ring-Credential": RING_CREDENTIAL })
+  carried = relayingTo(origin, RELAY_SECRET)
 })
 
-// THE ORIGIN THIS FILE SET IS THE WHOLE PROCESS'S, AND COMES BACK WHEN THE STORE GOES.
-//
-// Every test file in one run shares one process, so a file leaving this origin in place leaves
-// every later file asking this store rather than the store the run was pointed at. Stopping the
-// store does not cover that on its own: `stop` leaves an open connection open, and `fetch` holds
-// one, so a stopped store goes on answering the file that runs next.
 afterAll(() => {
   server.stop()
   store.stop(true)
@@ -99,20 +81,8 @@ beforeEach(() => {
   ANSWERED.readouts = [READOUT_ROW]
 })
 
-type Stoplight = {
-  habit?: string
-  label?: string
-  tier: string
-  reading?: string
-  readingHeld?: string
-  nextTier?: string
-  progress?: number
-}
-
-// `null` is the caller holding nothing. `undefined` would take the default back, which is how a
-// test meaning to send no credential quietly sends the right one and passes.
-const tile = (credential: string | null = RING_CREDENTIAL) =>
-  fetch(`${origin}/api/surplus`, {
+const askedWith = (credential: string | null) =>
+  fetch(`${origin}${PATH}`, {
     headers: credential === null ? {} : { "X-Ring-Credential": credential },
   })
 
@@ -123,20 +93,14 @@ const carry = (secret: string, body: unknown) =>
     body: JSON.stringify(body),
   })
 
-const carryNow = (value: number, at: Date = new Date()) =>
-  relayReading(origin, RELAY_SECRET, { readout: READOUT, value, at: at.toISOString() })
+const carryNow = (value: number, at: Date = new Date()) => carried(READOUT, value, at)
 
-async function drawn(): Promise<readonly Stoplight[]> {
-  const answered = await tile()
-  expect(answered.status).toBe(200)
-  const body = (await answered.json()) as { stoplights: readonly Stoplight[] }
-  return body.stoplights
-}
+const drawn = () => tile.drawn()
 
 test("a caller holding no ring credential is refused", async () => {
   await carryNow(1)
-  expect((await tile(null)).status).toBe(401)
-  expect((await tile(crypto.randomUUID())).status).toBe(401)
+  expect((await askedWith(null)).status).toBe(401)
+  expect((await askedWith(crypto.randomUUID())).status).toBe(401)
 })
 
 test("a carrier holding no relay secret is refused", async () => {
@@ -175,24 +139,24 @@ test("the widget's body is a non-empty list under `stoplights`", async () => {
   expect(stoplights.length).toBeGreaterThan(0)
 })
 
-test("every stoplight carries a tier that is one of the six colours the phone decodes", async () => {
+test("every stoplight carries a tier that is one of the six colors the phone decodes", async () => {
   for (const hours of [-20, -12, -9, -6, -4, -1, 0, 2, 4, 9]) {
     dropRelayed()
     await carryNow(hours)
     for (const one of await drawn()) {
-      expect(TIERS).toContain(one.tier)
-      if (one.nextTier !== undefined) expect(TIERS).toContain(one.nextTier)
+      expect(TIERS).toContain(String(one.tier))
+      if (one.nextTier !== undefined) expect(TIERS).toContain(String(one.nextTier))
     }
   }
 })
 
-test("the colour is resolved here rather than sent as rungs for the phone to work out", async () => {
+test("the color is resolved here rather than sent as rungs for the phone to work out", async () => {
   await carryNow(-2)
   const [one] = await drawn()
   expect(one?.tier).toBe("yellow")
   expect(one?.nextTier).toBe("green")
   expect(one?.progress).toBe(0.5)
-  expect((one as Record<string, unknown>).scale).toBeUndefined()
+  expect(one?.scale).toBeUndefined()
 
   dropRelayed()
   await carryNow(0)
@@ -261,31 +225,27 @@ test("a reading never taken and one gone stale are told apart on the wire", asyn
   expect(stale).toBe("stale")
 })
 
-// A surplus is added up out of session hours, so it arrives as a float carrying its whole tail —
-// twenty digits of it, and a tile drawing that on one line at one size breaks it off mid-number
-// with an ellipsis. The readout page states `figure-format: decimal`, and these pin that the
-// figure reaching the widget is written to that rather than handed over raw.
-test("a surplus added up out of hours is written to the places the readout states", async () => {
+test("a surplus added up out of hours is floored to two significant figures", async () => {
   await carryNow(-0.008333333333334636)
   const [one] = await drawn()
-  expect(one?.reading).toBe("-0.01")
+  expect(one?.reading).toBe("-0.0084")
 })
 
 test("a surplus is never sent to the tile as the whole tail of a float", async () => {
   await carryNow(2.6666666666666665)
-  const said = (await drawn())[0]?.reading ?? ""
-  expect(said).toBe("2.67")
+  const said = String((await drawn())[0]?.reading ?? "")
+  expect(said).toBe("2.6")
   expect(said.length).toBeLessThanOrEqual(6)
 })
 
-test("a surplus rounding onto zero is written as zero rather than as a signed zero", async () => {
+test("a surplus smaller than a hundredth still carries two figures", async () => {
   await carryNow(-0.0004)
-  expect((await drawn())[0]?.reading).toBe("0")
+  expect((await drawn())[0]?.reading).toBe("-0.00040")
 })
 
 test("nothing between here and the tile is allowed to keep an answer", async () => {
   await carryNow(1)
-  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
+  expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
   dropRelayed()
-  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
+  expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
 })

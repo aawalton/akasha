@@ -16,6 +16,10 @@ const ORDINARY = "akasha/notes.md"
 
 const PAGE = "changes/change.page-type.ts"
 
+const SHAPED = "alan/web/routes/api.surplus.ts"
+
+const PAGE_TYPES = new Set(["page-type"])
+
 const BODY = "alpha\n"
 
 const UNASKED: World = {
@@ -23,7 +27,8 @@ const UNASKED: World = {
   index: new Proxy(
     {},
     {
-      get() {
+      get(_held, named) {
+        if (named === "pageTypesIn") return () => PAGE_TYPES
         throw new Error(ASKED)
       },
     }
@@ -60,8 +65,11 @@ test("a page file is refused, and the refusal names the change that takes a page
   expect(said.refused ?? "").toMatch(/remove-page/)
 })
 
-test("a page file is refused from the path alone, with the world never asked", async () => {
-  await expect(removeFile(UNASKED, { at: PAGE })).resolves.toBeDefined()
+test("a file named as a page of no page type is taken away rather than refused", async () => {
+  const said = await removeFile(worldOf({ [SHAPED]: BODY }), { at: SHAPED })
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([{ path: SHAPED, was: BODY, body: null }])
 })
 
 test("a path holding no body is refused and answers no edit", async () => {

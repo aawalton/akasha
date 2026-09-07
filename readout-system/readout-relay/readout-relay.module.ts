@@ -103,6 +103,11 @@ export const readoutRelay = {
       statement: "A reading held is dropped only to prove that no reading is held.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The helper a test carries a reading over HTTP with sits here rather than in each test.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here takes a reading.",
     },

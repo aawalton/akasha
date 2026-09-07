@@ -20,5 +20,6 @@ export const smilingjennyWeb = {
     "module/jenny-ring-credential",
     "module/jenny-session",
     "module/jenny-shell",
+    "route/jenny-surplus",
   ],
 } as const satisfies RouterApp

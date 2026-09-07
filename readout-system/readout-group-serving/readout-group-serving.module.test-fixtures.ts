@@ -91,8 +91,10 @@ export function colorIn(one: Drawn, key: string): string {
   return held
 }
 
-async function stoplightsAt(url: string): Promise<readonly Drawn[]> {
-  const answered = await fetch(url)
+type Sent = Readonly<Record<string, string>>
+
+async function stoplightsAt(url: string, headers: Sent): Promise<readonly Drawn[]> {
+  const answered = await fetch(url, { headers })
   if (answered.status !== 200) {
     throw new Error(`the tile at ${url} answered ${answered.status} rather than 200`)
   }
@@ -100,12 +102,12 @@ async function stoplightsAt(url: string): Promise<readonly Drawn[]> {
   return body.stoplights
 }
 
-export function tileAt(origin: string, path: string, key: string): Tile {
+export function tileAt(origin: string, path: string, key: string, headers: Sent = {}): Tile {
   const url = `${origin}${path}`
   return {
-    answer: () => fetch(url),
-    drawn: () => stoplightsAt(url),
-    ringFor: async (named) => (await stoplightsAt(url)).find((one) => one[key] === named),
+    answer: () => fetch(url, { headers }),
+    drawn: () => stoplightsAt(url, headers),
+    ringFor: async (named) => (await stoplightsAt(url, headers)).find((one) => one[key] === named),
   }
 }
 
