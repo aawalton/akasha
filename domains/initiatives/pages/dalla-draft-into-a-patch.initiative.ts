@@ -20,7 +20,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
       workingMemory:
-        "`unwarrantedIn` lives in `warrant-owing` and is called by `replace` and by the apply, which warrants every row whose writer owes reading before the edits fold. A row saying nothing of its writer is warranted, so a flag lost reads as owing. `--break-the-glass` passes the checks and passes no warrant. Left: `lint-exception` and `patch` declare `change-authored`, whose data says they owe reads, and never ask.",
+        "The apply has its own `unwarranted` at `apply.command.code.ts:112-126` rather than calling `unwarrantedIn`, and runs it above the glass, so `--break-the-glass` skips the checks and skips no warrant. Its predicate is `writerOwesReading !== false`, so a row silent about its writer is owing. Checks run on the apply alone; `akasha change` builds no gate. Left: `lint-exception` and `patch` declare `change-authored` and never ask, and `lint-exception` now states that absence.",
     },
     {
       statement: "One command run carries several changes, each judged by its own requirements.",
