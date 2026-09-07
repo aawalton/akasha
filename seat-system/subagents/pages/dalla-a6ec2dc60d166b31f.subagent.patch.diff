@@ -1,0 +1,26 @@
+writerOwesReading: false
+diff --git a/changes/restated/pages/change-page-property-text/change-page-property-text.change-restated.code.ts b/changes/restated/pages/change-page-property-text/change-page-property-text.change-restated.code.ts
+index f2a32b44a95615831bff90afafaeaf08684691a6..f1f4dc0dccf0104f5e89ca7b5b95d9932b5d4a37 100644
+--- a/changes/restated/pages/change-page-property-text/change-page-property-text.change-restated.code.ts
++++ b/changes/restated/pages/change-page-property-text/change-page-property-text.change-restated.code.ts
+@@ -6,6 +6,8 @@ import { readFor } from "../../../modules/page-knowing/page-knowing.module.code.
+ 
+ const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
+ 
++const TEXT_PROPERTY = "text-property"
++
+ const PAGE_TYPE_SLUG = "pageTypeSlug"
+ 
+ const AT = "at"
+@@ -35,6 +37,11 @@ export async function changePagePropertyText(
+   if (held === undefined) {
+     return refusing(`a \`${pageTypeSlug}\` carries no property under \`${given.key}\``)
+   }
++  if (held.pageTypeSlug !== TEXT_PROPERTY) {
++    return refusing(
++      `\`${given.key}\` names a \`${held.pageTypeSlug}\`, and a restatement states a \`${TEXT_PROPERTY}\` anew`
++    )
++  }
+   return (await reach(world, CHANGE_PAGE_PROPERTY, given)).said
+ }
+ 
