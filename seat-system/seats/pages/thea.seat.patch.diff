@@ -1,0 +1,16 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts b/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts
+index c8a36f7a01e9436f2afc9dcefb4753f4c4264262..d08eeb97a43c0e581bc0aa07a60ea008fa473f4f 100644
+--- a/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts
++++ b/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts
+@@ -53,5 +53,9 @@ export const noTmp = {
+       invariantKind: "gap",
+       statement: "A reach for /tmp through a re-export is not seen.",
+     },
++    {
++      invariantKind: "gap",
++      statement: "A reach for /tmp outside TypeScript is not seen.",
++    },
+   ],
+ } as const satisfies CodeCheck
