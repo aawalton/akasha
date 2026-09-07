@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { said as gitIn } from "@akasha/git/git-running"
 import { scratch } from "@akasha/indexes/indexing/testing"
 import { taking, writing } from "../change-answer/change-answer.module.code.ts"
 import { appendEdits, editsAt, editsIn, foldedIn, keptEdits } from "./edits-keeping.module.code.ts"
@@ -16,7 +17,9 @@ const ONE = "akasha/one.module.ts"
 const TWO = "akasha/two.module.ts"
 
 function rootFor(): string {
-  return scratch.rootFor("akasha-edits-")
+  const root = scratch.rootFor("akasha-edits-")
+  gitIn(root, ["init"])
+  return root
 }
 
 function pathsIn(said: ReturnType<typeof editsIn>): readonly string[] {
