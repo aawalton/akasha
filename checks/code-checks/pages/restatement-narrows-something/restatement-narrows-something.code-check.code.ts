@@ -7,6 +7,7 @@ import {
   type Held,
   judgedIn,
   looseningIn,
+  underEach,
 } from "../key-names-one-property/key-names-one-property.code-check.code.ts"
 import { carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
 
@@ -48,7 +49,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(change, shadow.index.pageTypesIn())
   if (carried.length === 0) return []
   const said: Judged[] = []
-  for (const one of judgedIn(carried, shadow)) {
+  for (const one of underEach(judgedIn(carried, shadow), shadow)) {
     if (one.descends) said.push(...restatingIn(one, shadow))
   }
   return said
