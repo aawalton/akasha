@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed the fault the rule defines, from its grammar. The 32 patch checks cost 7.7s; weigh against that. A check's fixed cost is usually the index re-deriving, not itself. A text guard before a parse misses a literal's escaped value. Refusing: comments 3020, two-files 1332, method-sig 307, lint 302, syntax 212, re-export 74, manifest-names 67, key-names 57, no-tmp 45, package-reached 20, no-class 8, second-spelling 8, cycles 7. page-matches-its-type next.",
+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed the fault the rule defines, from its grammar. A patch run is 7.7s of check time. A check's fixed cost is usually the index re-deriving. A big refusal count can be one declaration fault repeated. Clear what the fleet edits weekly before turning on. Refusing: comments 3020, two-files 1332, method-sig 307, lint 302, syntax 212, page-matches 202, re-export 74, manifest-names 67, key-names 57, no-tmp 45, package-reached 20. page-named-as-stated next.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
