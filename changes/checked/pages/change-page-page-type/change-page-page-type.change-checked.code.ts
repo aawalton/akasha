@@ -2,7 +2,6 @@ import { dirname, relative } from "node:path"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { typedAs } from "../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { importNotLeftHanging } from "../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
 import {
   answered,
   gathered,
@@ -10,7 +9,6 @@ import {
   refusing,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import {
   reach,
   type World,
@@ -18,8 +16,6 @@ import {
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
-
-const GUARDS = [importNotLeftHanging]
 
 const CHANGE_FILE = "change-mechanical/change-file"
 
@@ -163,8 +159,7 @@ export async function changePagePageType(
     }
     return answered(edits)
   })
-  if (held.refused !== null) return held
-  return guardedBy(world, held, GUARDS)
+  return held
 }
 
 export type Asked = Readonly<Record<string, string>>

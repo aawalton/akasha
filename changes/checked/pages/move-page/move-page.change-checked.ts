@@ -31,13 +31,5 @@ export const movePage = {
       invariantKind: "absence",
       statement: "Nothing here changes the data a page states.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A guard runs over the answer before that answer comes back.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The guard run here is imported rather than reached through `guard-slugs`.",
-    },
   ],
 } as const satisfies ChangeChecked

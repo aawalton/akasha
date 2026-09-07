@@ -1,18 +1,14 @@
 import { dirname, join, relative } from "node:path"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { importNotLeftHanging } from "../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
 import {
   answered,
   missing,
   refusing,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
-
-const GUARDS = [importNotLeftHanging]
 
 const REPOINT_IMPORTS = "change-mechanical/repoint-imports"
 
@@ -78,7 +74,7 @@ export async function movePage(world: World, given: MovePageAsked): Promise<Answ
       if (one.body !== held) edits.push(one)
     }
   }
-  return guardedBy(world, answered(edits), GUARDS)
+  return answered(edits)
 }
 
 export type Asked = Readonly<Record<string, string>>
