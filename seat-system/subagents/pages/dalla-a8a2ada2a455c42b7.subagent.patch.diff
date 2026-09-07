@@ -1,0 +1,153 @@
+writerOwesReading: false
+diff --git a/command-system/applying/applying.module.code.ts b/command-system/applying/applying.module.code.ts
+index 477d89f4c05679fac64abc111f07b0037e668bed..32d3e1f273239da1c823bdd669de997923f61dc8 100644
+--- a/command-system/applying/applying.module.code.ts
++++ b/command-system/applying/applying.module.code.ts
+@@ -77,25 +77,35 @@ export function noneSaid(root: string, page: string): string {
+   return `${NONE} — a subagent's draft goes to its seat when the subagent stops, so ask the ${seat} seat for what was drafted here before`
+ }
+ 
++export type Applying = Answer & { readonly landed: boolean }
++
++function notLanded(answer: Answer): Applying {
++  return { ...answer, landed: false }
++}
++
+ export async function applying(
+   given: Given,
+   page: string,
+   argv: readonly string[],
+   carried: Carried | null = null
+-): Promise<Answer> {
++): Promise<Applying> {
+   const unknown = unknownIn(argv, APPLYING, BARE)
+-  if (unknown.length > 0) return mistaking(unknown)
++  if (unknown.length > 0) return notLanded(mistaking(unknown))
+   const message = messageIn(argv, APPLYING)
+-  if ("refusals" in message) return mistaking(message.refusals)
++  if ("refusals" in message) return notLanded(mistaking(message.refusals))
+   const glass = glassIn(argv, APPLYING)
+-  if ("refusals" in glass) return mistaking(glass.refusals)
++  if ("refusals" in glass) return notLanded(mistaking(glass.refusals))
+   const broken = glass.glass
+   if (carried === null && patchIn(given.root, page) === null) {
+-    return mistaking([noneSaid(given.root, page)])
++    return notLanded(mistaking([noneSaid(given.root, page)]))
+   }
+   const built = gateBuilt(given.root)
+   if (broken === null && !("gate" in built)) {
+-    return { report: [], refusals: [`the checks would not load — ${built.broken}`], code: 3 }
++    return notLanded({
++      report: [],
++      refusals: [`the checks would not load — ${built.broken}`],
++      code: 3,
++    })
+   }
+   const gate = broken === null && "gate" in built ? built.gate : NO_GATE
+   const unloaded = "gate" in built ? null : built.broken
+@@ -113,7 +123,7 @@ export async function applying(
+       [],
+       carried
+     )
+-    if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
++    if ("refusals" in said) return notLanded({ report: [], refusals: said.refusals, code: 3 })
+     return {
+       report: [
+         ...said.landed.map((one) => `landed ${one}`),
+@@ -126,9 +136,14 @@ export async function applying(
+       ],
+       refusals: said.wrong,
+       code: said.wrong.length === 0 ? 0 : 3,
++      landed: true,
+     }
+   } catch (thrown) {
+-    return { report: [], refusals: [`nothing was committed — ${whyOf(thrown)}`], code: 3 }
++    return notLanded({
++      report: [],
++      refusals: [`nothing was committed — ${whyOf(thrown)}`],
++      code: 3,
++    })
+   }
+ }
+ 
+diff --git a/commands/pages/apply/apply.command.code.ts b/commands/pages/apply/apply.command.code.ts
+index 9134b07960894ccfe1bfb6c4f46158273d770cae..54c62b14c59c22a7d2bd9ce05fbbe0fb72d1dae8 100644
+--- a/commands/pages/apply/apply.command.code.ts
++++ b/commands/pages/apply/apply.command.code.ts
+@@ -169,8 +169,8 @@ async function refusedBefore(root: string, page: string): Promise<readonly strin
+   return said.map((one) => `${one.path} — ${one.reason}`)
+ }
+ 
+-export function undone(root: string, page: string, unfold: Unfold): string | null {
+-  if (patchIn(root, page) === null) {
++export function undone(root: string, page: string, unfold: Unfold, landed: boolean): string | null {
++  if (landed) {
+     droppedFirst(root, page, unfold.went)
+     return null
+   }
+@@ -196,7 +196,7 @@ export async function apply(argv: readonly string[], given: Given): Promise<Answ
+   const said = folding(given.root, page)
+   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
+   const answered = await applying(given, page, argv, said.carried)
+-  const put = said.unfold === null ? null : undone(given.root, page, said.unfold)
++  const put = said.unfold === null ? null : undone(given.root, page, said.unfold, answered.landed)
+   if (put !== null) return { report: [put], refusals: answered.refusals, code: answered.code }
+   return {
+     report: [
+diff --git a/commands/pages/apply/apply.command.test.ts b/commands/pages/apply/apply.command.test.ts
+index 9af1fe10673e24a0cdf2cfa0dd81265cf32a29d9..c5cf1d71cc166468f41d59330829b041f9701c78 100644
+--- a/commands/pages/apply/apply.command.test.ts
++++ b/commands/pages/apply/apply.command.test.ts
+@@ -218,7 +218,7 @@ test("a row appended while the apply ran is left where the folded rows go", asyn
+   appendEdits(root, PAGE, [later])
+   dropPatch(root, PAGE)
+ 
+-  expect(undone(root, PAGE, said.unfold)).toBe(null)
++  expect(undone(root, PAGE, said.unfold, true)).toBe(null)
+ 
+   expect(editsIn(root, PAGE)).toEqual({ rows: [later] })
+ })
+@@ -281,7 +281,7 @@ test("a fold the apply refuses is undone, and the patch and the rows come back",
+   if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
+   const folded = kept(root)
+ 
+-  expect(undone(root, PAGE, said.unfold)).not.toBe(null)
++  expect(undone(root, PAGE, said.unfold, false)).not.toBe(null)
+ 
+   expect(patchIn(root, PAGE)).toEqual(was)
+   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+@@ -297,7 +297,7 @@ test("a fold that made the patch is undone by taking the patch away", async () =
+   const said = folding(root, PAGE)
+   if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
+ 
+-  undone(root, PAGE, said.unfold)
++  undone(root, PAGE, said.unfold, false)
+ 
+   expect(patchIn(root, PAGE)).toBe(null)
+   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+@@ -311,11 +311,24 @@ test("a fold the apply landed is left where the apply left it", async () => {
+   if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
+   dropPatch(root, PAGE)
+ 
+-  expect(undone(root, PAGE, said.unfold)).toBe(null)
++  expect(undone(root, PAGE, said.unfold, true)).toBe(null)
+ 
+   expect(editsIn(root, PAGE)).toEqual({ rows: [] })
+ })
+ 
++test("a fold the apply did not land leaves the rows though no patch is on disk", async () => {
++  const root = await repo()
++  const row = writing(ONE, WAS, WAS)
++  appendEdits(root, PAGE, [row])
++  const said = folding(root, PAGE)
++  if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
++  expect(patchIn(root, PAGE)).toBe(null)
++
++  expect(undone(root, PAGE, said.unfold, false)).not.toBe(null)
++
++  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
++})
++
+ test("two rows for one path the later did not follow refuse the fold and leave the rows", async () => {
+   const root = await repo()
+   appendEdits(root, PAGE, [writing(ONE, WAS, NOW), writing(ONE, "z\n", NOW)])
