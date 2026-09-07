@@ -11,6 +11,24 @@ index 515f568e794bd2097a071d0a1931054804e22b2b..895bd1e3de044bcc7eb0c9a3682630c5
      ...(reached.nextTier === null ? {} : { nextTier: reached.nextTier }),
      ...(reached.progress === null ? {} : { progress: reached.progress }),
    }
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.ts b/readout-system/readout-group-serving/readout-group-serving.module.ts
+index 7c9522db1468c5efeace4197190ab7e80e77b8cf..c28bdf80f3eb0a0dd19398abce987361a862b9b0 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.ts
+@@ -48,12 +48,7 @@ export const readoutGroupServing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The reading answered is the number carried in written the way the readout states.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A readout whose page states no format has its reading answered as that number.",
++      statement: "The reading answered is the number carried in written as a figure is written.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/readout-system/readout-tier/readout-tier.module.code.ts b/readout-system/readout-tier/readout-tier.module.code.ts
 index a6263824f614ed3859d2a6ddd0679315a424bdb7..68682f9b205ecac85341354fc10ce0457a3d9eb2 100644
 --- a/readout-system/readout-tier/readout-tier.module.code.ts
