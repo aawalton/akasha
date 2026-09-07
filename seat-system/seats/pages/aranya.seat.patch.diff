@@ -1,0 +1,196 @@
+diff --git a/command-system/commands/index/index.command.ts b/command-system/commands/index/index.command.ts
+index 8d932b13975cb17c09e660212c0d63e14ce35d07..a77eeb063e8dc1e6c477e975a8be43186ef28d24 100644
+--- a/command-system/commands/index/index.command.ts
++++ b/command-system/commands/index/index.command.ts
+@@ -4,16 +4,24 @@ export const index = {
+   id: "01a04de1-13fa-7331-979e-d443758eefad",
+   pageTypeSlug: "command",
+   slug: "index",
++<<<<<<< what this change would leave
++  definition: "the index repaired in place against the pages as they are",
++=======
+   definition: "the index repaired against the pages of the repository as it is",
++>>>>>>> what HEAD holds
+   code: "ts",
+   test: "ts",
+   changeKindSlug: "change-none",
+   taking: [
+     {
+       said: "refresh",
+-      takes: "build the index over the repository as it stands and put it in place",
++      takes: "build the index over the repository as it is and put it in place",
+     },
++<<<<<<< what this change would leave
++    { said: "--dry-run", takes: "say what the rebuild would change and put nothing in place" },
++=======
+     { said: "--dry-run", takes: "say what the repair would change and write nothing" },
++>>>>>>> what HEAD holds
+   ],
+   helpNotes: [
+     "refresh is the act it carries, and one call names one act.",
+@@ -30,6 +38,29 @@ export const index = {
+     },
+     {
+       invariantKind: "departure",
++<<<<<<< what this change would leave
++      statement: "The index is built over the repository as the repository is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A worktree differing from HEAD is built over rather than refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The index is repaired in place rather than built aside and put in place whole.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An entry saying what the pages say is left alone rather than written again.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The commit the index was built over is named in the report.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The landing lock is held from reading HEAD to the last entry written.",
++=======
+       statement: "The commit the report names is read from HEAD as the repair opens.",
+     },
+     {
+@@ -51,6 +82,7 @@ export const index = {
+     {
+       invariantKind: "departure",
+       statement: "`--dry-run` says the change the repair would make and writes no file.",
++>>>>>>> what HEAD holds
+     },
+     {
+       invariantKind: "departure",
+@@ -58,7 +90,11 @@ export const index = {
+     },
+     {
+       invariantKind: "departure",
++<<<<<<< what this change would leave
++      statement: "`--dry-run` says what differs and writes no entry.",
++=======
+       statement: "A path under the index belonging to no index is taken away before the repair.",
++>>>>>>> what HEAD holds
+     },
+     {
+       invariantKind: "departure",
+@@ -78,7 +114,12 @@ export const index = {
+     },
+     {
+       invariantKind: "departure",
++<<<<<<< what this change would leave
++      statement:
++        "A repair stopped partway leaves an index behind on a subset rather than a broken one.",
++=======
+       statement: "The report counts the files under each index the difference falls in.",
++>>>>>>> what HEAD holds
+     },
+     {
+       invariantKind: "absence",
+diff --git a/pages/indexes/index.workspace-package.ts b/pages/indexes/index.workspace-package.ts
+index 250a1a88ced843e69ec023ec1424431ec9904d6e..dc6bcbc618fe884294e8784fbfb3e270630736ed 100644
+--- a/pages/indexes/index.workspace-package.ts
++++ b/pages/indexes/index.workspace-package.ts
+@@ -19,6 +19,7 @@ export const index = {
+     "module/indexing",
+     "module/index-reading",
+     "module/index-surface",
++    "module/index-stamp",
+     "module/generated-properties",
+     "module/beside-turning",
+     "module/reaching",
+@@ -118,6 +119,8 @@ export const index = {
+     },
+     {
+       invariantKind: "gap",
++<<<<<<< what this change would leave
++=======
+       statement: "Only an importer of a file is refused.",
+     },
+     {
+@@ -134,6 +137,7 @@ export const index = {
+     },
+     {
+       invariantKind: "gap",
++>>>>>>> what HEAD holds
+       statement: "A question and its answer cross this boundary.",
+     },
+     {
+diff --git a/pages/indexes/rebuilding/rebuilding.module.ts b/pages/indexes/rebuilding/rebuilding.module.ts
+index e3134130e7352516241a824bcb58006a5c964c3b..6daebc91a77fda64385c0c855084790276435c88 100644
+--- a/pages/indexes/rebuilding/rebuilding.module.ts
++++ b/pages/indexes/rebuilding/rebuilding.module.ts
+@@ -4,12 +4,39 @@ export const rebuilding = {
+   id: "01a0584f-30ed-7000-bd17-95f4f41ac634",
+   pageTypeSlug: "module",
+   slug: "rebuilding",
++<<<<<<< what this change would leave
++  definition: "the entries a section of the index is repaired to, one file at a time",
++=======
+   definition: "the index reconciled against what the pages say, file by file",
++>>>>>>> what HEAD holds
+   code: "ts",
+   test: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
++<<<<<<< what this change would leave
++      statement: "A section of the index is repaired where it is rather than built beside itself.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "What the pages say is written before what no page claims is taken away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A repair stopped partway leaves a section behind on a subset of its entries.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Running a repair again over the same pages writes nothing the first left right.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An entry file already saying what the pages say is not written again.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An entry file holds each line the pages imply once, sorted.",
++=======
+       statement:
+         "The index is repaired in place rather than built beside the index and swapped in.",
+     },
+@@ -32,11 +59,29 @@ export const rebuilding = {
+     {
+       invariantKind: "departure",
+       statement: "A folder left holding nothing goes with the file taken away.",
++>>>>>>> what HEAD holds
++    },
++    {
++      invariantKind: "departure",
++      statement:
++<<<<<<< what this change would leave
++        "What the repair found to differ is answered as what was added, changed and taken away.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
++        "A repair asked to put nothing in place answers that difference and writes none of it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder left holding nothing goes with the last entry file taken out of it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An entry file is written whole through a neighbouring file renamed over it.",
++=======
+         "A build putting nothing in place is answered for as fully as a build writing files.",
++>>>>>>> what HEAD holds
+     },
+     {
+       invariantKind: "departure",
