@@ -1,0 +1,358 @@
+writerOwesReading: false
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index d01eb111bab73fe46130f806da6969641e544827..0e74b0f75de9fc55824d69ff5397153fe1a1d44b 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -4,9 +4,13 @@ import type { ReadersOweReading } from "./kinds/properties/readers-owe-reading.b
+ import type { RunsChecks } from "./kinds/properties/runs-checks.boolean-property.ts"
+ import type { WriterOwesReading } from "./kinds/properties/writer-owes-reading.boolean-property.ts"
+ import type { ChangeModeSlug } from "./properties/change-mode-slug.relation-property.ts"
++import type { ChangeTargetSubtypeSlug } from "./properties/change-target-subtype-slug.relation-property.ts"
++import type { ChangeTargetTypeSlug } from "./properties/change-target-type-slug.relation-property.ts"
+ 
+ export type Change = Module & {
+   changeModeSlug: ChangeModeSlug
++  changeTargetTypeSlug?: ChangeTargetTypeSlug
++  changeTargetSubtypeSlug?: ChangeTargetSubtypeSlug
+   runsChecks: RunsChecks
+   readersOweReading: ReadersOweReading
+   writerOwesReading: WriterOwesReading
+@@ -39,9 +43,23 @@ export const change = {
+     "module/edits-keeping",
+     "page-type/change-mode",
+     "relation-property/change-mode-slug",
++    "page-type/change-target-type",
++    "page-type/change-target-subtype",
++    "relation-property/change-target-type-slug",
++    "relation-property/change-target-subtype-slug",
+   ],
+   properties: [
+     { pagePropertySlug: "relation-property/change-mode-slug", required: true, many: false },
++    {
++      pagePropertySlug: "relation-property/change-target-type-slug",
++      required: false,
++      many: false,
++    },
++    {
++      pagePropertySlug: "relation-property/change-target-subtype-slug",
++      required: false,
++      many: false,
++    },
+     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
+     { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
+     { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
+diff --git a/changes/properties/change-target-subtype-parent-slug.relation-property.ts b/changes/properties/change-target-subtype-parent-slug.relation-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2b37f034b145afce338810235e8683470472eff6
+--- /dev/null
++++ b/changes/properties/change-target-subtype-parent-slug.relation-property.ts
+@@ -0,0 +1,13 @@
++import type { Slug } from "../../pages/properties/slug.text-property.ts"
++import type { RelationProperty } from "../../pages/relation-properties/relation-property.page-type.ts"
++
++export type ChangeTargetSubtypeParentSlug = Slug
++
++export const changeTargetSubtypeParentSlug = {
++  id: "01a07c70-3907-751a-a23e-6e2b0bb761be",
++  pageTypeSlug: "relation-property",
++  slug: "change-target-subtype-parent-slug",
++  propertySlug: "parent-slug",
++  definition: "the change target subtype another change target subtype narrows",
++  targetPageTypeSlug: "page-type/change-target-subtype",
++} as const satisfies RelationProperty
+diff --git a/changes/properties/change-target-subtype-slug.relation-property.ts b/changes/properties/change-target-subtype-slug.relation-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d3744927be9158a52124627a9c3808da3162243d
+--- /dev/null
++++ b/changes/properties/change-target-subtype-slug.relation-property.ts
+@@ -0,0 +1,13 @@
++import type { Slug } from "../../pages/properties/slug.text-property.ts"
++import type { RelationProperty } from "../../pages/relation-properties/relation-property.page-type.ts"
++
++export type ChangeTargetSubtypeSlug = Slug
++
++export const changeTargetSubtypeSlug = {
++  id: "01a07c70-2c9f-7d84-a5fc-f10029577f81",
++  pageTypeSlug: "relation-property",
++  slug: "change-target-subtype-slug",
++  propertySlug: "change-target-subtype-slug",
++  definition: "the change target subtype a change acts on",
++  targetPageTypeSlug: "page-type/change-target-subtype",
++} as const satisfies RelationProperty
+diff --git a/changes/properties/change-target-type-slug.relation-property.ts b/changes/properties/change-target-type-slug.relation-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..339a1ef53bd51874f53ba4b2ee94199513908ebf
+--- /dev/null
++++ b/changes/properties/change-target-type-slug.relation-property.ts
+@@ -0,0 +1,13 @@
++import type { Slug } from "../../pages/properties/slug.text-property.ts"
++import type { RelationProperty } from "../../pages/relation-properties/relation-property.page-type.ts"
++
++export type ChangeTargetTypeSlug = Slug
++
++export const changeTargetTypeSlug = {
++  id: "01a07c70-2049-7248-8790-afaa12ca852e",
++  pageTypeSlug: "relation-property",
++  slug: "change-target-type-slug",
++  propertySlug: "change-target-type-slug",
++  definition: "the change target type a page names",
++  targetPageTypeSlug: "page-type/change-target-type",
++} as const satisfies RelationProperty
+diff --git a/changes/target-subtypes/change-target-subtype.page-type.ts b/changes/target-subtypes/change-target-subtype.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5a03037565b14148b91342ff54897d5940c57325
+--- /dev/null
++++ b/changes/target-subtypes/change-target-subtype.page-type.ts
+@@ -0,0 +1,52 @@
++import type { Domain } from "../../domains/domain.page-type.ts"
++import type { PageType } from "../../pages/types/page-type.page-type.ts"
++import type { ChangeTargetSubtypeParentSlug } from "../properties/change-target-subtype-parent-slug.relation-property.ts"
++import type { ChangeTargetTypeSlug } from "../properties/change-target-type-slug.relation-property.ts"
++
++export type ChangeTargetSubtype = Domain & {
++  changeTargetTypeSlug: ChangeTargetTypeSlug
++  parentSlug?: ChangeTargetSubtypeParentSlug
++}
++
++export const changeTargetSubtype = {
++  id: "01a07c71-2924-76f9-b37f-a239b7b97045",
++  pageTypeSlug: "page-type",
++  slug: "change-target-subtype",
++  definition: "a narrower sort of thing a change acts on",
++  pluralSlug: "change-target-subtypes",
++  partSlugs: [
++    "relation-property/change-target-subtype-parent-slug",
++    "change-target-subtype/file",
++    "change-target-subtype/file-code",
++    "change-target-subtype/file-page",
++    "change-target-subtype/file-page-type",
++    "change-target-subtype/file-page-property",
++  ],
++  extendsSlug: ["page-type/domain"],
++  properties: [
++    { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
++    {
++      pagePropertySlug: "relation-property/change-target-subtype-parent-slug",
++      required: false,
++      many: false,
++    },
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A target subtype narrows one target type.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A target subtype narrowing another target subtype names that one as its parent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A target subtype naming no parent narrows its target type alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A target subtype narrows the target type its parent narrows.",
++    },
++  ],
++} as const satisfies PageType
+diff --git a/changes/target-subtypes/pages/file-code.change-target-subtype.ts b/changes/target-subtypes/pages/file-code.change-target-subtype.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8f41c2ed22b3bf85a0b95f2bdce702baed65ebea
+--- /dev/null
++++ b/changes/target-subtypes/pages/file-code.change-target-subtype.ts
+@@ -0,0 +1,10 @@
++import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
++
++export const fileCode = {
++  id: "01a07c70-afc7-75b7-a1aa-9615a67cf8ce",
++  pageTypeSlug: "change-target-subtype",
++  slug: "file-code",
++  definition: "a file holding code",
++  changeTargetTypeSlug: "change-target-type/file",
++  parentSlug: "change-target-subtype/file",
++} as const satisfies ChangeTargetSubtype
+diff --git a/changes/target-subtypes/pages/file-page-property.change-target-subtype.ts b/changes/target-subtypes/pages/file-page-property.change-target-subtype.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ddf7b7036f6e14020c5993210309bed7a783a852
+--- /dev/null
++++ b/changes/target-subtypes/pages/file-page-property.change-target-subtype.ts
+@@ -0,0 +1,10 @@
++import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
++
++export const filePageProperty = {
++  id: "01a07c70-e94b-7c20-a22e-d3ee67bc58b9",
++  pageTypeSlug: "change-target-subtype",
++  slug: "file-page-property",
++  definition: "a file holding a page property",
++  changeTargetTypeSlug: "change-target-type/file",
++  parentSlug: "change-target-subtype/file-page",
++} as const satisfies ChangeTargetSubtype
+diff --git a/changes/target-subtypes/pages/file-page-type.change-target-subtype.ts b/changes/target-subtypes/pages/file-page-type.change-target-subtype.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ecba09bcb13c8abfa99c1e29ee8898432470bf3d
+--- /dev/null
++++ b/changes/target-subtypes/pages/file-page-type.change-target-subtype.ts
+@@ -0,0 +1,10 @@
++import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
++
++export const filePageType = {
++  id: "01a07c70-dd0a-7f9c-bc4a-2604e64246d3",
++  pageTypeSlug: "change-target-subtype",
++  slug: "file-page-type",
++  definition: "a file holding a page type",
++  changeTargetTypeSlug: "change-target-type/file",
++  parentSlug: "change-target-subtype/file-page",
++} as const satisfies ChangeTargetSubtype
+diff --git a/changes/target-subtypes/pages/file-page.change-target-subtype.ts b/changes/target-subtypes/pages/file-page.change-target-subtype.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dc897d291878b567c04d19c8f69fdfb07db6ac3a
+--- /dev/null
++++ b/changes/target-subtypes/pages/file-page.change-target-subtype.ts
+@@ -0,0 +1,10 @@
++import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
++
++export const filePage = {
++  id: "01a07c70-bc1d-7011-9766-74cbb066190d",
++  pageTypeSlug: "change-target-subtype",
++  slug: "file-page",
++  definition: "a file holding a page",
++  changeTargetTypeSlug: "change-target-type/file",
++  parentSlug: "change-target-subtype/file-code",
++} as const satisfies ChangeTargetSubtype
+diff --git a/changes/target-subtypes/pages/file.change-target-subtype.ts b/changes/target-subtypes/pages/file.change-target-subtype.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..94e11b9384f7a6545d35c2dc3817e821f9d45af6
+--- /dev/null
++++ b/changes/target-subtypes/pages/file.change-target-subtype.ts
+@@ -0,0 +1,9 @@
++import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
++
++export const file = {
++  id: "01a07c70-a373-7d0b-b347-5000e312f47e",
++  pageTypeSlug: "change-target-subtype",
++  slug: "file",
++  definition: "any file, whatever that file holds",
++  changeTargetTypeSlug: "change-target-type/file",
++} as const satisfies ChangeTargetSubtype
+diff --git a/changes/target-types/change-target-type.page-type.ts b/changes/target-types/change-target-type.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f1fc211f698ffc5f4249fc4e7db7415d3476eae9
+--- /dev/null
++++ b/changes/target-types/change-target-type.page-type.ts
+@@ -0,0 +1,31 @@
++import type { Domain } from "../../domains/domain.page-type.ts"
++import type { PageType } from "../../pages/types/page-type.page-type.ts"
++
++export type ChangeTargetType = Domain
++
++export const changeTargetType = {
++  id: "01a07c73-47c8-7571-af7f-96259b306e66",
++  pageTypeSlug: "page-type",
++  slug: "change-target-type",
++  definition: "the sort of thing a change acts on",
++  pluralSlug: "change-target-types",
++  partSlugs: [
++    "change-target-type/file",
++    "change-target-type/folder",
++    "change-target-type/code",
++    "change-target-type/data",
++    "change-target-type/text",
++    "change-target-type/manifest",
++  ],
++  extendsSlug: ["page-type/domain"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A change states the target type from the thing that change acts on.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Which act a change makes and which thing a change acts on are two answers.",
++    },
++  ],
++} as const satisfies PageType
+diff --git a/changes/target-types/pages/code.change-target-type.ts b/changes/target-types/pages/code.change-target-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6dd4408a21763b73ea02a6db028771b1efd2ada9
+--- /dev/null
++++ b/changes/target-types/pages/code.change-target-type.ts
+@@ -0,0 +1,8 @@
++import type { ChangeTargetType } from "../change-target-type.page-type.ts"
++
++export const code = {
++  id: "01a07c6e-6154-7896-9393-2917f41de8ce",
++  pageTypeSlug: "change-target-type",
++  slug: "code",
++  definition: "the code a file holds",
++} as const satisfies ChangeTargetType
+diff --git a/changes/target-types/pages/data.change-target-type.ts b/changes/target-types/pages/data.change-target-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b96952b7b3e57a1578e8447b98a7f532ee6044ae
+--- /dev/null
++++ b/changes/target-types/pages/data.change-target-type.ts
+@@ -0,0 +1,8 @@
++import type { ChangeTargetType } from "../change-target-type.page-type.ts"
++
++export const data = {
++  id: "01a07c6e-6dec-7157-993f-1757c9b5a6b9",
++  pageTypeSlug: "change-target-type",
++  slug: "data",
++  definition: "the values a page states",
++} as const satisfies ChangeTargetType
+diff --git a/changes/target-types/pages/file.change-target-type.ts b/changes/target-types/pages/file.change-target-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e8e9978024c8bf89c2e7c92e8f74ffdd0c979823
+--- /dev/null
++++ b/changes/target-types/pages/file.change-target-type.ts
+@@ -0,0 +1,8 @@
++import type { ChangeTargetType } from "../change-target-type.page-type.ts"
++
++export const file = {
++  id: "01a07c6e-4855-7f2a-9df4-f6d8a93d172b",
++  pageTypeSlug: "change-target-type",
++  slug: "file",
++  definition: "a file, taken as where that file sits rather than what that file holds",
++} as const satisfies ChangeTargetType
+diff --git a/changes/target-types/pages/folder.change-target-type.ts b/changes/target-types/pages/folder.change-target-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5e45480ced832feaa9222fd3e8e51229e703d38c
+--- /dev/null
++++ b/changes/target-types/pages/folder.change-target-type.ts
+@@ -0,0 +1,8 @@
++import type { ChangeTargetType } from "../change-target-type.page-type.ts"
++
++export const folder = {
++  id: "01a07c72-8d36-7c31-93e3-5752f3dbad61",
++  pageTypeSlug: "change-target-type",
++  slug: "folder",
++  definition: "a folder and everything under it",
++} as const satisfies ChangeTargetType
+diff --git a/changes/target-types/pages/manifest.change-target-type.ts b/changes/target-types/pages/manifest.change-target-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5821fbc833445502477b11c069be45e6dc769343
+--- /dev/null
++++ b/changes/target-types/pages/manifest.change-target-type.ts
+@@ -0,0 +1,8 @@
++import type { ChangeTargetType } from "../change-target-type.page-type.ts"
++
++export const manifest = {
++  id: "01a07c6e-86e9-7b7e-81db-4704161b9883",
++  pageTypeSlug: "change-target-type",
++  slug: "manifest",
++  definition: "the ways a package manifest declares",
++} as const satisfies ChangeTargetType
+diff --git a/changes/target-types/pages/text.change-target-type.ts b/changes/target-types/pages/text.change-target-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..22239ad6bc59f66da42c6a4d8473b5c66849a86c
+--- /dev/null
++++ b/changes/target-types/pages/text.change-target-type.ts
+@@ -0,0 +1,8 @@
++import type { ChangeTargetType } from "../change-target-type.page-type.ts"
++
++export const text = {
++  id: "01a07c6e-7a75-78ec-b991-9eb0131acc6d",
++  pageTypeSlug: "change-target-type",
++  slug: "text",
++  definition: "the prose a page states",
++} as const satisfies ChangeTargetType
