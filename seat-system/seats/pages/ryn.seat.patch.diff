@@ -1,0 +1,14 @@
+diff --git a/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.ts b/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.ts
+index 3792889cd9e26dc9fad71119078231677bd80c22..9243259fe50127947cce661eaf9cd6abccb2fcfc 100644
+--- a/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.ts
++++ b/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.ts
+@@ -25,7 +25,8 @@ export const gatewayTreeVersion = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A relative specifier resolves as written, then with `.ts`, then as a directory.",
++      statement:
++        "A relative specifier resolves as written and then with `.ts` and then as a directory.",
+     },
+     {
+       invariantKind: "departure",
