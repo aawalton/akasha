@@ -173,6 +173,7 @@ function schemaIn(reading: Reading, at: string): readonly Schema[] {
       pageTypeSlug,
       targetPageTypeSlug: stringAt(said, "targetPageTypeSlug"),
       unique: stringAt(said, "unique"),
+      uniqueScope: stringAt(said, "uniqueScope"),
       slug: stringAt(said, "slug") ?? "",
       propertySlug: stringAt(said, "propertySlug") ?? "",
       fileName: stringAt(said, "fileName"),

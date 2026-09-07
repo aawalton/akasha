@@ -23,6 +23,7 @@ export function schemaIn(value: Value): readonly Entry[] {
     pageTypeSlug,
     targetPageTypeSlug: slugAt(value, "targetPageTypeSlug"),
     unique: slugAt(value, "unique"),
+    uniqueScope: slugAt(value, "uniqueScope"),
     slug,
     propertySlug,
     fileName: textAt(value, "fileName"),

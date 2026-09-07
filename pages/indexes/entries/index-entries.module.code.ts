@@ -266,6 +266,7 @@ export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
         pageTypeSlug,
         targetPageTypeSlug: textAt(held, "targetPageTypeSlug"),
         unique: textAt(held, "unique"),
+        uniqueScope: textAt(held, "uniqueScope"),
         slug,
         propertySlug: textAt(held, "propertySlug") ?? "",
         fileName: textAt(held, "fileName"),
