@@ -1,0 +1,80 @@
+writerOwesReading: false
+diff --git a/pages/address-kinds/in-part-of/in-part-of.page-address-kind.ts b/pages/address-kinds/in-part-of/in-part-of.page-address-kind.ts
+index be2faf2d42b36e5fd5afb033949a3aa012c6f290..dcb49549822396432553fdd791bb56b3d580e7aa 100644
+--- a/pages/address-kinds/in-part-of/in-part-of.page-address-kind.ts
++++ b/pages/address-kinds/in-part-of/in-part-of.page-address-kind.ts
+@@ -10,23 +10,36 @@ export const inPartOf = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The index answers this kind under the scope of the parent named.",
++      statement: "The index answers this kind under the page type and then the parent.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This kind answers the reach `part-of`.",
++      statement: "This kind answers the level `part-of`.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The parent is named by an address rather than by a slug.",
++      statement:
++        "The parent is the value the property a declaration's `partOfScope` names carries.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page part of more than one page has an address under every parent page.",
++      statement: "That property is required and carries one value.",
+     },
+     {
+-      invariantKind: "absence",
+-      statement: "No address of this kind is the one address for the page that address names.",
++      invariantKind: "departure",
++      statement: "The part-of edge is a spanning tree.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That property declares the parent's page type.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The address carries no page type for the parent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page has one address of this kind.",
+     },
+   ],
+ } as const satisfies PageAddressKind
+diff --git a/pages/address-kinds/page-address-kind.page-type.ts b/pages/address-kinds/page-address-kind.page-type.ts
+index 274398a9c56dc096b0f9a0148376ce1ac43e164a..e007bfe4c301d9dbe484aa37ef4b637fce5f618f 100644
+--- a/pages/address-kinds/page-address-kind.page-type.ts
++++ b/pages/address-kinds/page-address-kind.page-type.ts
+@@ -22,15 +22,23 @@ export const pageAddressKind = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Each kind answers a single reach a unique property is filed under.",
++      statement: "Each kind answers one level the identity index files under.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A kind holds the code recognising an address of that kind.",
++      statement: "A kind holds the code finding the page an address of that kind names.",
+     },
+     {
+-      invariantKind: "absence",
+-      statement: "No address is told apart by counting the slashes a string carries.",
++      invariantKind: "departure",
++      statement: "An address is a structured value rather than a string that is parsed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An address carries what its index path needs.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Finding a page reads one file.",
+     },
+   ],
+ } as const satisfies PageType
