@@ -7,7 +7,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical.code.ts"
+import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts"
 import { runChange as renameLocalVariable } from "../../../mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -31,7 +31,7 @@ const PAGE_BODY = `export const held = 1\n`
 
 function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, async (world, at, given) => {
-    if (at === "change-mechanical/rename-export") {
+    if (at === "change-mechanical-code/rename-export") {
       return await renameExport(world, given as Parameters<typeof renameExport>[1])
     }
     if (at === "change-mechanical/rename-local-variable") {
@@ -143,7 +143,7 @@ test("an exported name is handed to the change reached at the export address", a
 
   await renameCodeToken(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
 
-  expect(reached).toEqual(["change-mechanical/rename-export"])
+  expect(reached).toEqual(["change-mechanical-code/rename-export"])
 })
 
 test("a local name is handed to the change reached at the local address", async () => {

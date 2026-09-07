@@ -10,7 +10,7 @@ import {
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical.code.ts"
-import { runChange as renameExport } from "../rename-export/rename-export.change-mechanical.code.ts"
+import { runChange as renameExport } from "../rename-export/rename-export.change-mechanical-code.code.ts"
 import { renameSlug } from "./rename-page-slug.change-mechanical.code.ts"
 
 afterAll(scratch.sweep)
@@ -45,7 +45,7 @@ function worldIn(root: string, textOf: (path: string) => string | null): World {
         changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
       )
     }
-    if (at === "change-mechanical/rename-export") {
+    if (at === "change-mechanical-code/rename-export") {
       return Promise.resolve(renameExport(world, given as Parameters<typeof renameExport>[1]))
     }
     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
@@ -234,6 +234,6 @@ test("the plural and the export rename are reached at their own addresses", asyn
 
   expect(reached).toEqual([
     "change-mechanical/change-page-property",
-    "change-mechanical/rename-export",
+    "change-mechanical-code/rename-export",
   ])
 })

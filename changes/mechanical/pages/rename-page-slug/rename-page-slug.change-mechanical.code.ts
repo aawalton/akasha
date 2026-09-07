@@ -20,7 +20,7 @@ import { boundIn, keyOf, statedIn } from "../../../modules/page-literal/page-lit
 
 const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
 
-const RENAME_EXPORT = "change-mechanical/rename-export"
+const RENAME_EXPORT = "change-mechanical-code/rename-export"
 
 const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
 
