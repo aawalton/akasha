@@ -1,36 +1,14 @@
 writerOwesReading: false
-diff --git a/commands/pages/change/change.command.ts b/commands/pages/change/change.command.ts
-index 77874008f9912d4ba294989b0e77ca733320cb85..fc12985b5c760b030887a3c557046f82bbf8dbd0 100644
---- a/commands/pages/change/change.command.ts
-+++ b/commands/pages/change/change.command.ts
-@@ -94,7 +94,7 @@ export const change = {
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index 7424443fc56d354f1510b3ad6301938ad6e93722..457fe43c052138ebe3b17eeadc4dc4148ff81834 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -20,7 +20,7 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "A change applies as it answers rather than waiting for an apply.",
+       workingMemory:
+-        "The code is landed and a refusing change still lands nothing, but `change.command.ts` was left declaring the old default across roughly fifteen invariants and four help notes. Applying by default takes the message an apply works out where none is named. Alan ruled the flip reaches subagents. A bare `keep` holds the edits for a later apply: without one, no module can be created at all, as a page declaring code and the file beside it must arrive together, and no change page composes that.",
++        "The code is landed and a refusing change still lands nothing, but `change.command.ts` was left declaring the old default across roughly fifteen invariants and four help notes. Applying by default takes the message an apply works out where none is named. Alan named `draft` as the opt-out, holding the edits for a later apply, and ruled the flip reaches subagents. Without an opt-out no module can be created at all, as a page declaring code and the file beside it arrive together.",
      },
      {
-       invariantKind: "departure",
--      statement: "The key `apply` asks for an apply once the change has answered.",
-+      statement: "A change checks and applies once that change has answered.",
-     },
-     {
-       invariantKind: "departure",
-@@ -102,7 +102,11 @@ export const change = {
-     },
-     {
-       invariantKind: "departure",
--      statement: "An apply is asked for among the arguments rather than on the command line.",
-+      statement: "A change naming no message takes the message `akasha apply` composes.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "The commit message is named among the arguments rather than on the command line.",
-     },
-     {
-       invariantKind: "departure",
-@@ -110,7 +114,7 @@ export const change = {
-     },
-     {
-       invariantKind: "departure",
--      statement: "An apply asked for with no message is refused before the change is loaded.",
-+      statement: "An `apply` naming no message is refused before the change is loaded.",
-     },
-     {
-       invariantKind: "departure",
+       statement: "A file that is not text is refused rather than decoded into an edit.",
