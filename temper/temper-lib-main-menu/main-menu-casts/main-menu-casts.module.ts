@@ -9,7 +9,7 @@ export const mainMenuCasts = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A narrowing here asserts a shape rather than checking one.",
+      statement: "A narrowing here asserts a shape rather than checking a shape.",
     },
     {
       invariantKind: "departure",

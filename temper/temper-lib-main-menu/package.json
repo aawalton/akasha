@@ -11,5 +11,8 @@
     "./main-menu-setup": "./main-menu-setup/main-menu-setup.module.code.ts",
     "./main-menu-shape": "./main-menu-shape/main-menu-shape.module.code.ts",
     "./main-menu-version": "./main-menu-version/main-menu-version.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/code-system": "workspace:@akasha/code@*"
   }
 }

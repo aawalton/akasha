@@ -2406,6 +2406,9 @@
     },
     "temper/temper-lib-main-menu": {
       "name": "@akasha/temper-lib-main-menu",
+      "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
+      },
     },
     "temper/temper-lib-map-data": {
       "name": "@akasha/temper-lib-map-data",
