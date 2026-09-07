@@ -1,5 +1,5 @@
 diff --git a/pages/export-name/page-export-name.module.ts b/pages/export-name/page-export-name.module.ts
-index 65ca04a4af2ad5cf5d6901f37c6d7a5cab08074a..ef9b668099ab9b830c3d349eabc8711410f22107 100644
+index 65ca04a4af2ad5cf5d6901f37c6d7a5cab08074a..dafbf1ffe5eaa1d62e12822d491fedd4c315779b 100644
 --- a/pages/export-name/page-export-name.module.ts
 +++ b/pages/export-name/page-export-name.module.ts
 @@ -23,8 +23,11 @@ export const pageExportName = {
@@ -13,6 +13,19 @@ index 65ca04a4af2ad5cf5d6901f37c6d7a5cab08074a..ef9b668099ab9b830c3d349eabc87114
 +    {
 +      invariantKind: "departure",
 +      statement: "The slug making such a name is at fault.",
+     },
+     {
+       invariantKind: "departure",
+@@ -33,7 +36,11 @@ export const pageExportName = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A word reserved only under strict mode is kept too, because a page is a module.",
++      statement: "A word reserved only under strict mode is kept too.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page is a module.",
      },
      {
        invariantKind: "departure",
