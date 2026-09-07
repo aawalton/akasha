@@ -10,7 +10,7 @@ export const inferenceNaming = {
     {
       invariantKind: "departure",
       statement:
-        "A name is made into a label, an environment and a path here rather than spelled out at each caller.",
+        "A name is made into a label and an environment and a path here rather than at each caller.",
     },
   ],
 } as const satisfies Module
