@@ -9,7 +9,11 @@ export const supervisorInteractiveBootContract = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here holds behaviour; every export is a type.",
+      statement: "Nothing here holds behaviour.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every export is a type.",
     },
     {
       invariantKind: "departure",
