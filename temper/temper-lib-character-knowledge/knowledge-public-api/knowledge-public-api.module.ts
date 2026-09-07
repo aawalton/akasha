@@ -14,7 +14,7 @@ export const knowledgePublicApi = {
     {
       invariantKind: "constraint",
       statement:
-        "Whichever copy of a shared library loads first and is newest is the one the game uses.",
+        "Whichever copy of a shared library loads first and is newest is the copy the game uses.",
     },
   ],
 } as const satisfies Module
