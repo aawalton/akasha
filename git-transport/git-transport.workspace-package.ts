@@ -36,7 +36,11 @@ export const gitTransport = {
     },
     {
       invariantKind: "departure",
-      statement: "A repository carrying a mirror hook declares a destination, and the other way.",
+      statement: "A repository carrying a mirror hook declares a destination.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A repository declaring a destination carries a mirror hook.",
     },
 
     {
