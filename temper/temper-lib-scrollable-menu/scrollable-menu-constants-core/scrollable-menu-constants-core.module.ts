@@ -17,7 +17,7 @@ export const scrollableMenuConstantsCore = {
     },
     {
       invariantKind: "departure",
-      statement: "The debug table is created here with both debug switches off.",
+      statement: "The debug table is created here with the two debug switches off.",
     },
     {
       invariantKind: "constraint",
