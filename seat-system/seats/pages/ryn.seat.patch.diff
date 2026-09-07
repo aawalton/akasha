@@ -1,0 +1,17 @@
+diff --git a/seat-system/compose-subagents/compose-subagents.module.ts b/seat-system/compose-subagents/compose-subagents.module.ts
+index 684f5bc3ab353aee2e830103c716b2b6f2cd5f41..66469703437af916b6c4756807af892d32bdecec 100644
+--- a/seat-system/compose-subagents/compose-subagents.module.ts
++++ b/seat-system/compose-subagents/compose-subagents.module.ts
+@@ -26,7 +26,11 @@ export const composeSubagents = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An index naming no kind is refused, because an empty map turns delegation off.",
++      statement: "An index naming no kind is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An empty map turns delegation off.",
+     },
+     {
+       invariantKind: "departure",
