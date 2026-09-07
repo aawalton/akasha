@@ -14,6 +14,7 @@
     "./walking": "./walking/walking.module.code.ts"
   },
   "dependencies": {
+    "@akasha/code-system": "workspace:@akasha/code@*",
     "@happy-dom/global-registrator": "^20.8.3",
     "@testing-library/react": "^16.3.2"
   },

@@ -10,7 +10,7 @@ export const domGuarding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A test naming itself a component test is the one this guards.",
+      statement: "A test naming itself a component test is the test this guards.",
     },
     {
       invariantKind: "departure",

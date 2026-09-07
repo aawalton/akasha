@@ -2925,6 +2925,7 @@
     "testing-system": {
       "name": "@akasha/testing-system",
       "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
         "@happy-dom/global-registrator": "^20.8.3",
         "@testing-library/react": "^16.3.2",
       },
