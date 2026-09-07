@@ -1,0 +1,50 @@
+diff --git a/pages/access/answer/answer.module.code.ts b/pages/access/answer/answer.module.code.ts
+index 176e5e0003328c6aa26ed0340a425562e64168b4..04f4338c515af1af8e9aa6feb29148a3d901511b 100644
+--- a/pages/access/answer/answer.module.code.ts
++++ b/pages/access/answer/answer.module.code.ts
+@@ -16,7 +16,7 @@ import type { RawPageRow } from "../raw-page-row/raw-page-row.module.code.ts"
+ 
+ export const LISTING_CEILING = 5_000
+ 
+-export const DEFINITIONS_AT_ONCE = 16
++export const DEFINITIONS_AT_ONCE = 4
+ 
+ const PAGE_TYPE = "page-type"
+ 
+@@ -95,6 +95,20 @@ function carrying(row: RawPageRow, definitions: readonly PropertyDefinition[]):
+   return { ...row, attributes: { ...held, propertyDefinitions: definitions } }
+ }
+ 
++async function definitionsOr(
++  slug: string | null,
++  definitionsFor: PagesDeps["definitionsFor"]
++): Promise<readonly PropertyDefinition[] | null> {
++  if (slug === null) return NO_DEFINITIONS
++  try {
++    return await definitionsFor(slug)
++  } catch (thrown) {
++    const why = thrown instanceof Error ? thrown.message : String(thrown)
++    console.warn(`withDefinitions(${slug}): this row states no properties, because ${why}`)
++    return null
++  }
++}
++
+ export async function withDefinitions(
+   rows: readonly RawPageRow[],
+   definitionsFor: PagesDeps["definitionsFor"]
+@@ -102,10 +116,11 @@ export async function withDefinitions(
+   const out: RawPageRow[] = []
+   for (let at = 0; at < rows.length; at += DEFINITIONS_AT_ONCE) {
+     const batch = rows.slice(at, at + DEFINITIONS_AT_ONCE)
+-    const every = await Promise.all(
+-      batch.map((row) => (row.slug === null ? NO_DEFINITIONS : definitionsFor(row.slug)))
+-    )
+-    batch.forEach((row, which) => out.push(carrying(row, every[which] ?? NO_DEFINITIONS)))
++    const every = await Promise.all(batch.map((row) => definitionsOr(row.slug, definitionsFor)))
++    batch.forEach((row, which) => {
++      const defs = every[which]
++      out.push(defs === null || defs === undefined ? row : carrying(row, defs))
++    })
+   }
+   return out
+ }
