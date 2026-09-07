@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-scrollable-menu/scrollable-menu-buttongroup/scrollable-menu-buttongroup.module.ts b/temper/temper-lib-scrollable-menu/scrollable-menu-buttongroup/scrollable-menu-buttongroup.module.ts
+index 52a7ae06fb6387cb2e4ddc0f2705975e9e78a070..05ec4b73b1788695d5c9e094066a7bd7558747ca 100644
+--- a/temper/temper-lib-scrollable-menu/scrollable-menu-buttongroup/scrollable-menu-buttongroup.module.ts
++++ b/temper/temper-lib-scrollable-menu/scrollable-menu-buttongroup/scrollable-menu-buttongroup.module.ts
+@@ -17,7 +17,7 @@ export const scrollableMenuButtongroup = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Check-all and invert are carried out by driving each button's original handler.",
++      statement: "A bulk check or invert is carried out by driving each button's original handler.",
+     },
+     {
+       invariantKind: "departure",
