@@ -1,0 +1,49 @@
+writerOwesReading: false
+diff --git a/readout-system/readout-tier/readout-tier.module.code.ts b/readout-system/readout-tier/readout-tier.module.code.ts
+index e499ebda5a531cdd0c84c010b31f3982aef3cea3..4c24b5e626764743fe4b6f5ac41247a0d321851f 100644
+--- a/readout-system/readout-tier/readout-tier.module.code.ts
++++ b/readout-system/readout-tier/readout-tier.module.code.ts
+@@ -80,8 +80,11 @@ function climbedTo(reading: number, rungs: readonly Rung[]): Tiered {
+   const here = rungs[reached]
+   const next = rungs[reached + 1]
+   const tier = here === undefined ? BELOW_EVERY_RUNG : here.color
++  if (here === undefined) {
++    const above = rungs.find((rung) => rung.color !== BELOW_EVERY_RUNG)
++    return { tier, nextTier: above?.color ?? null, progress: null }
++  }
+   if (next === undefined) return { tier, nextTier: null, progress: null }
+-  if (here === undefined) return { tier, nextTier: next.color, progress: null }
+ 
+   const span = next.at - here.at
+   const climbed = (reading - here.at) / span
+diff --git a/readout-system/readout-tier/readout-tier.module.test.ts b/readout-system/readout-tier/readout-tier.module.test.ts
+index d8419a3717c6afad57c76462800b577743d423ea..0f0cbbee19a730950bba692037a9191c59690701 100644
+--- a/readout-system/readout-tier/readout-tier.module.test.ts
++++ b/readout-system/readout-tier/readout-tier.module.test.ts
+@@ -100,6 +100,11 @@ test("a rung the scale states nothing for is never named as the tier above", ()
+   expect(tierAt(0.5, CLIMBING)?.nextTier).toBe("red")
+ })
+ 
++test("the tier above a reading under every rung is the first rung that is not black", () => {
++  expect(tierAt(-2, CLIMBING)?.nextTier).toBe("red")
++  expect(tierAt(-2, rungsIn({ blackAt: 0, redAt: 1, blueAt: 4 }))?.nextTier).toBe("red")
++})
++
+ test("how far a reading has climbed is the fraction between the two rungs it sits on", () => {
+   expect(tierAt(2.5, CLIMBING)?.progress).toBe(0.5)
+   expect(tierAt(2, CLIMBING)?.progress).toBe(0)
+diff --git a/readout-system/readout-tier/readout-tier.module.ts b/readout-system/readout-tier/readout-tier.module.ts
+index 3dd696ade58bba9cf0830583537d115cefec3e86..3759ec28e24e512ab8cee799ed7bf79f4d29330e 100644
+--- a/readout-system/readout-tier/readout-tier.module.ts
++++ b/readout-system/readout-tier/readout-tier.module.ts
+@@ -58,6 +58,10 @@ export const readoutTier = {
+       invariantKind: "departure",
+       statement: "A rung the scale states nothing for is never named as the tier above.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The tier above a reading under every rung is the first rung that is not black.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
