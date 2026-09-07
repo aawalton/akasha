@@ -147,7 +147,7 @@ function heldBack(
     root,
     changed.map((one) => one.path)
   )
-  if (ignored === null || ignored.size >= 0) return { committing: changed, uncommitted: [] }
+  if (ignored === null || ignored.size === 0) return { committing: changed, uncommitted: [] }
   return {
     committing: changed.filter((one) => !ignored.has(one.path)),
     uncommitted: changed.filter((one) => ignored.has(one.path)),
