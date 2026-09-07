@@ -17,7 +17,11 @@ import {
   writing,
 } from "../change-answer/change-answer.module.code.ts"
 import {
+  addedTo,
   changeOver,
+  isLedger,
+  type Ledger,
+  ledgerAt,
   NOTHING_OVER,
   type Reaching,
   reach,
@@ -53,6 +57,90 @@ const RUNS: Reaching = (world, at, given) => {
 function worldIn(root: string): World {
   return worldAt(root, textIn(root), RUNS)
 }
+
+function ledgerIn(root: string): Ledger {
+  return ledgerAt(root, textIn(root), RUNS)
+}
+
+test("a ledger over no answer carries an answer holding no edit", () => {
+  expect(ledgerIn(indexedRepo()).over).toEqual(NOTHING_OVER)
+})
+
+test("a ledger reads a path no edit names from the files beneath", () => {
+  const root = indexedRepo()
+  expect(ledgerIn(root).textOf(HELD_CODE)).toBe(textIn(root)(HELD_CODE))
+})
+
+test("a ledger reads back the body an edit added leaves", () => {
+  const ledger = ledgerIn(indexedRepo())
+  addedTo(ledger, answered([writing(AT, null, "held\n")]))
+
+  expect(ledger.textOf(AT)).toBe("held\n")
+})
+
+test("a ledger reads back nothing where an edit carried a path away", () => {
+  const root = indexedRepo()
+  const was = textIn(root)(HELD_CODE) ?? ""
+  const ledger = ledgerIn(root)
+  addedTo(ledger, answered([taking(HELD_CODE, was)]))
+
+  expect(ledger.textOf(HELD_CODE)).toBeNull()
+})
+
+test("a ledger reads back nothing at the path a move left", () => {
+  const root = indexedRepo()
+  const was = textIn(root)(HELD_CODE) ?? ""
+  const ledger = ledgerIn(root)
+  addedTo(ledger, answered([moving(HELD_CODE, AT, was, was)]))
+
+  expect(ledger.textOf(HELD_CODE)).toBeNull()
+  expect(ledger.textOf(AT)).toBe(was)
+})
+
+test("a ledger added to twice carries both answers gathered", () => {
+  const ledger = ledgerIn(indexedRepo())
+  addedTo(ledger, answered([writing(AT, null, "one\n")]))
+  addedTo(ledger, answered([writing(OTHER, null, "two\n")]))
+
+  expect(ledger.over).toEqual(
+    gathered([answered([writing(AT, null, "one\n")]), answered([writing(OTHER, null, "two\n")])])
+  )
+})
+
+test("an index a ledger answers knows the page an edit added", () => {
+  const ledger = ledgerIn(indexedRepo())
+  expect(ledger.index.everyPath()).not.toContain(AT)
+
+  addedTo(ledger, answered([writing(AT, null, "held\n")]))
+
+  expect(ledger.index.everyPath()).toContain(AT)
+})
+
+test("a reach over a ledger adds to that ledger rather than building a second world", async () => {
+  const ledger = ledgerIn(indexedRepo())
+  const said = await reach(ledger, ADD_FILE as never, { at: AT, body: "held\n" })
+
+  expect(said.said.refused).toBeNull()
+  expect(said.world).toBe(ledger)
+  expect(ledger.textOf(AT)).toBe("held\n")
+})
+
+test("a reach that refuses adds nothing to the ledger", async () => {
+  const ledger = ledgerIn(indexedRepo())
+  const said = await reach(ledger, REMOVE_FILE as never, { at: AT })
+
+  expect(said.said.refused).toBe(NO_BODY)
+  expect(said.world).toBe(ledger)
+  expect(ledger.over).toEqual(NOTHING_OVER)
+})
+
+test("a ledger is told from a world built over an answer", () => {
+  const root = indexedRepo()
+
+  expect(isLedger(ledgerIn(root))).toBe(true)
+  expect(isLedger(worldIn(root))).toBe(false)
+  expect(isLedger(worldOver(worldIn(root), answered([writing(AT, null, "held\n")])))).toBe(false)
+})
 
 test("a world over no answer carries an answer holding no edit", () => {
   expect(worldIn(indexedRepo()).over).toEqual(NOTHING_OVER)

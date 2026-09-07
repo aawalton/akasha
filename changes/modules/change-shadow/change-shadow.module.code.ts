@@ -35,7 +35,7 @@ export type Reached = {
 export async function reach(world: World, at: keyof Changes, given: unknown): Promise<Reached> {
   const said = await (world.reaching ?? REACHES_NOTHING)(world, at, given)
   if (said.refused !== null) return { said, world }
-  return { said, world: worldOver(world, said) }
+  return { said, world: isLedger(world) ? addedTo(world, said) : worldOver(world, said) }
 }
 
 export function bytesOf(body: string | null): Uint8Array | null {
@@ -97,4 +97,64 @@ export function worldOver(world: World, said: Answer): World {
     over: gathered([world.over, said]),
     reaching: world.reaching,
   }
+}
+
+export type Kept = {
+  readonly root: string
+  readonly base: (path: string) => string | null
+  readonly bodies: Map<string, string | null>
+  over: Answer
+  index: Answering | null
+}
+
+export type Ledger = World & { readonly kept: Kept }
+
+export function isLedger(world: World): world is Ledger {
+  return "kept" in world
+}
+
+export function ledgerAt(
+  root: string,
+  textOf: (path: string) => string | null,
+  reaching: Reaching = REACHES_NOTHING
+): Ledger {
+  const kept: Kept = {
+    root,
+    base: textOf,
+    bodies: new Map<string, string | null>(),
+    over: NOTHING_OVER,
+    index: null,
+  }
+  return {
+    kept,
+    root,
+    reaching,
+    get index(): Answering {
+      if (kept.index === null) {
+        kept.index =
+          kept.over.edits.length === 0
+            ? shadowAt(root).index
+            : shadowAsked(changeOver(root, kept.over)).index
+      }
+      return kept.index
+    },
+    get over(): Answer {
+      return kept.over
+    },
+    textOf: (path) => {
+      const held = kept.bodies.get(path)
+      return held === undefined ? kept.base(path) : held
+    },
+  }
+}
+
+export function addedTo(ledger: Ledger, said: Answer): Ledger {
+  const kept = ledger.kept
+  for (const one of said.edits) {
+    if (one.from !== undefined) kept.bodies.set(one.from, null)
+  }
+  for (const one of said.edits) kept.bodies.set(one.path, one.body)
+  kept.over = gathered([kept.over, said])
+  kept.index = null
+  return ledger
 }

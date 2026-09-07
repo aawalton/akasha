@@ -110,5 +110,29 @@ export const changeShadow = {
       invariantKind: "absence",
       statement: "Nothing here builds a second shadow of its own.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A ledger holds the edits added so far rather than a world for each answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ledger reads a path from the edits added to that ledger.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ledger reads a path no edit names from the files beneath.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index a ledger answers is built again where an edit was added.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach over a ledger adds to that ledger rather than building a second world.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach that refuses adds nothing to the ledger.",
+    },
   ],
 } as const satisfies Module
