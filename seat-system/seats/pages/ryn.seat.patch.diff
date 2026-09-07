@@ -1,0 +1,17 @@
+diff --git a/editor-extension/vscode-api/vscode-api.type-declaration.ts b/editor-extension/vscode-api/vscode-api.type-declaration.ts
+index ef0e6a9e93956d6ca3b9970dcc56cd9d120baae0..002ab433f589d88bbe41b7283756086051bb8f65 100644
+--- a/editor-extension/vscode-api/vscode-api.type-declaration.ts
++++ b/editor-extension/vscode-api/vscode-api.type-declaration.ts
+@@ -9,7 +9,11 @@ export const vscodeApi = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The editor host injects `vscode`, so a file reaching `vscode` states no import.",
++      statement: "The editor host injects `vscode`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file reaching `vscode` states no import.",
+     },
+     {
+       invariantKind: "departure",
