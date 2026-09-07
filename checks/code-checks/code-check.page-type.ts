@@ -69,6 +69,7 @@ export const codeCheck = {
     "code-check/require-import-extension",
     "code-check/restatement-narrows-something",
     "code-check/shell-clean",
+    "code-check/spelled-path-stays",
     "code-check/invariant-statement-is-plain",
     "code-check/tests-pass",
     "code-check/typecheck",

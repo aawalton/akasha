@@ -20,6 +20,12 @@ export function lineOf(source: ts.SourceFile, node: ts.Node): number {
   return lineAt(source, node.getStart(source))
 }
 
+export function literalIn(node: ts.Node): string | null {
+  if (ts.isStringLiteral(node) || ts.isNoSubstitutionTemplateLiteral(node)) return node.text
+  if (ts.isTemplateHead(node)) return node.text
+  return null
+}
+
 export function literalOf(node: ts.Expression): ts.ObjectLiteralExpression | null {
   if (ts.isObjectLiteralExpression(node)) return node
   if (ts.isAsExpression(node) || ts.isSatisfiesExpression(node)) return literalOf(node.expression)

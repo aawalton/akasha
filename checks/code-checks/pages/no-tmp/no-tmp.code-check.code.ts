@@ -1,4 +1,4 @@
-import { lineOf, parsedAs } from "@akasha/code/code-source"
+import { lineOf, literalIn, parsedAs } from "@akasha/code/code-source"
 import { textAt } from "@akasha/pages/page-value"
 import type { Shadow } from "@akasha/pages/shadow"
 import ts from "typescript"
@@ -23,12 +23,6 @@ const ALLOWS = "allowsTmpPaths"
 function specifierOf(node: ts.ImportDeclaration): string | null {
   const held = node.moduleSpecifier
   return ts.isStringLiteral(held) ? held.text : null
-}
-
-function literalIn(node: ts.Node): string | null {
-  if (ts.isStringLiteral(node) || ts.isNoSubstitutionTemplateLiteral(node)) return node.text
-  if (ts.isTemplateHead(node)) return node.text
-  return null
 }
 
 type Taken = {
