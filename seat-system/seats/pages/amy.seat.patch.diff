@@ -1,0 +1,33 @@
+diff --git a/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.code.ts b/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.code.ts
+index 6dcd5adde203d5d92f891a4b860b6d0c6f1effdb..e750acd3caa60cc8069b86ac408be44e3457c805 100644
+--- a/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.code.ts
++++ b/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.code.ts
+@@ -12,6 +12,7 @@ const TEMPER_TASK_PAGE_TYPE_SLUG = "temper-task"
+ const TO_DO_DUE_DATE = "toDoDueDate"
+ const TO_DO_COMPLETED_AT = "toDoCompletedAt"
+ const TEMPER_TASK_DUE_DATE = "dueDate"
++const TEMPER_TASK_COMPLETED_AT = "completedAt"
+ 
+ export type PollLogger = (level: "INFO" | "ERROR", message: string) => void
+ 
+@@ -50,9 +51,20 @@ async function pollToDosDue(dayStr: string): Promise<number> {
+ async function pollTemperTasksDue(dayStr: string): Promise<number> {
+   return howMany(TEMPER_TASK_PAGE_TYPE_SLUG, {
+     [TEMPER_TASK_DUE_DATE]: { before: dayAfter(dayStr) },
++    [TEMPER_TASK_COMPLETED_AT]: { empty: true },
+   })
+ }
+ 
++export type TaskCounts = {
++  readonly tasks: number
++  readonly temperTasks: number
++}
++
++export async function pollTaskCounts(dayStr: string): Promise<TaskCounts> {
++  const [tasks, temperTasks] = await Promise.all([pollToDosDue(dayStr), pollTemperTasksDue(dayStr)])
++  return { tasks, temperTasks }
++}
++
+ export async function pollInboxCounts(
+   dayStr: string,
+   log: PollLogger
