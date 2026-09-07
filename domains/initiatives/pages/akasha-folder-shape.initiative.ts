@@ -8,15 +8,9 @@ export const akashaFolderShape = {
   personaSlug: "akasha",
   intents: [
     {
-      statement:
-        "`turningIn` compares the scopes a reach resolves to rather than the reach's spelling.",
-      workingMemory:
-        "`elsewhereIn` at `indexing.module.code.ts:303` reads every path and materialises every page where a property's identifier key or reach differs before a change and after it. `scopesFor` already sends `always` and `page` to the one scope `page`, so folding them moves no entry yet reads every page regardless. A dry run was killed at 2444 seconds, 35 minutes of CPU, reporting nothing. Three controls ran flat at 140.7, 142.4 and 146.1 seconds across a 64000 fold range of spelling counts.",
-    },
-    {
       statement: "A reach is `always` or `page-type`.",
       workingMemory:
-        "`Unique` is typed `always | page | page-type | part-of`, and only three are `unique-kind` pages — there is no `unique-kind/page`. `id` declares `always`, `slug` declares `page-type`, and no live property declares `part-of`. Deleting `unique-kind/part-of` moves no index entry, and the finding used renaming that page as the control that does not trip that reading. Folding `page` into `always` waits on `turningIn`.",
+        "`Unique` is typed `always | page | page-type | part-of`, and only three are `unique-kind` pages — there is no `unique-kind/page`. `id` declares `always`, `slug` declares `page-type`, and no live property declares `part-of`. Deleting `unique-kind/part-of` moves no index entry, and the finding used renaming that page as the control that does not trip that reading. `turningIn` now compares levels, so folding `page` into `always` files nothing.",
     },
     {
       statement: "A page unique only within a scope declares `uniqueScope`.",
