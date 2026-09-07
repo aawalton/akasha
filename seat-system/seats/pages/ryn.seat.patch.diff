@@ -1,0 +1,24 @@
+diff --git a/bun.lock b/bun.lock
+index 5b2a9bba49cbd461d93e8eab912313fec70e619d..b999bc0c684299794000778cbbc25c7dfddc0c26 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -1946,6 +1946,7 @@
+     "temper/temper-commands": {
+       "name": "@akasha/temper-commands",
+       "dependencies": {
++        "@akasha/code-system": "workspace:@akasha/code@*",
+         "@akasha/command-system": "workspace:*",
+         "@akasha/errors-core": "workspace:*",
+         "@akasha/indexes": "workspace:*",
+diff --git a/temper/temper-commands/package.json b/temper/temper-commands/package.json
+index e37c2a3c19cbe3705d611fc4a6909b1c23e1c264..7c0739af5d8b1b6b78ca147215d4422be6ed20f5 100644
+--- a/temper/temper-commands/package.json
++++ b/temper/temper-commands/package.json
+@@ -27,6 +27,7 @@
+     "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/supabase-auth": "workspace:*",
+     "@akasha/command-system": "workspace:*",
+     "@akasha/errors-core": "workspace:*",
