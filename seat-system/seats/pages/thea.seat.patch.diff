@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
+index db2a0403a9be16549615f1555878f905d3f89ee6..1a17711982966b891aa5e76e3bcebd1589b99a4b 100644
+--- a/domains/initiatives/pages/thea-checks-system.initiative.ts
++++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
+@@ -10,7 +10,7 @@ export const theaChecksSystem = {
+     {
+       statement: "Every check is cheap enough for patch and runs there.",
+       workingMemory:
+-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Alan: turn a check on carrying its residue; clear every violation at the end, once all are on and fast. Owed: 19 lualib specifiers, 10 restatements narrowing nothing, 18 shellcheck findings. shell-clean is through step 2: it alone reads a .sh body, fails closed without shellcheck, needs all 112 in its world, and lints only carried scripts, losing a dependent's finding but not the refusal. Then folder-matches-a-shape, identifier-matches-its-place.",
++        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Alan: turn a check on carrying its residue; clear every violation at the end, once all are on and fast. Owed: 19 lualib specifiers, 10 restatements narrowing nothing, 18 shellcheck findings. shell-clean is through step 3: 60ms behind a warm index, 4.7s carrying all 112, and 0 of 200 commits invoke it. Step 4 turns it on, but it fails closed where the host lacks shellcheck, so ask Alan first. Then folder-matches-a-shape, identifier-matches-its-place.",
+     },
+     {
+       statement: "The tests beside a changed file judge the change that carries it.",
