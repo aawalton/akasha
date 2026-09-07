@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/phone-number-is-e164/phone-number-is-e164.code-check.ts b/checks/code-checks/pages/phone-number-is-e164/phone-number-is-e164.code-check.ts
+index eff66d988a87de35a46b435b0d39ce4d83854a66..4048377b6e3d248fe5ca904f5625e52ed8d3f729 100644
+--- a/checks/code-checks/pages/phone-number-is-e164/phone-number-is-e164.code-check.ts
++++ b/checks/code-checks/pages/phone-number-is-e164/phone-number-is-e164.code-check.ts
+@@ -7,7 +7,7 @@ export const phoneNumberIsE164 = {
+   definition: "the check refusing a phone number that is not written in E.164",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
