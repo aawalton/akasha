@@ -90,6 +90,79 @@ index 59cefc682092aad9cd8634bc70f7c4ce3a0bd21b..176e5e0003328c6aa26ed0340a425562
    if (held > rows.length) {
      console.warn(
        `answerPages(${pageTypeSlug}): ${held} pages are filed and this answer carries ${rows.length}; the listing stops at ${LISTING_CEILING}`
+diff --git a/pages/access/answer/answer.module.test.ts b/pages/access/answer/answer.module.test.ts
+index 4933b22519f2942efb7280ea7af98f40af29d576..7f296caf351774d6110764607e77b71b91790c59 100644
+--- a/pages/access/answer/answer.module.test.ts
++++ b/pages/access/answer/answer.module.test.ts
+@@ -1,11 +1,13 @@
+ import { expect, test } from "bun:test"
+ import { RosterUnreachable } from "../file-read/file-read.module.code.ts"
++import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
+ import {
+   answerPages,
+   answerPageTypes,
+   type PagesDeps,
+   type PageTypeReading,
+   type PageTypesDeps,
++  withDefinitions,
+ } from "./answer.module.code.ts"
+ 
+ const AT = "https://alanwalton.com/api/pages/readout"
+@@ -24,9 +26,54 @@ function depsReading(readPageType: PagesDeps["readPageType"]): PagesDeps {
+     readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
+     ask: async () => ({ rows: [] }),
+     readPageType,
++    definitionsFor: async () => [],
+   }
+ }
+ 
++function rowFor(slug: string | null): Parameters<typeof withDefinitions>[0][number] {
++  return {
++    id: slug ?? "none",
++    page_type_id: "one",
++    seq: null,
++    title: null,
++    icon: null,
++    attributes: { pluralSlug: "to-dos" },
++    page_type_slug: "page-type",
++    unique_key: null,
++    status: null,
++    completed_at: null,
++    slug,
++    favorited_at: null,
++    last_viewed_at: null,
++  }
++}
++
++const DEFINED: readonly PropertyDefinition[] = [
++  { id: "toDoDueDate", title: "the day it is due", type: "calendar-date", pageId: "two" },
++]
++
++test("a page type's row carries the property definitions that page type declares", async () => {
++  const rows = await withDefinitions([rowFor("to-do")], async () => DEFINED)
++  expect(rows[0]?.attributes).toEqual({ pluralSlug: "to-dos", propertyDefinitions: DEFINED })
++})
++
++test("a row naming no page type carries no definition rather than asking for none", async () => {
++  let asked = 0
++  const rows = await withDefinitions([rowFor(null)], async () => {
++    asked += 1
++    return DEFINED
++  })
++  expect(asked).toBe(0)
++  expect(rows[0]?.attributes).toEqual({ pluralSlug: "to-dos", propertyDefinitions: [] })
++})
++
++test("every row is carried however many rows run past one batch", async () => {
++  const many = Array.from({ length: 40 }, (_, at) => rowFor(`type-${at}`))
++  const rows = await withDefinitions(many, async () => DEFINED)
++  expect(rows.length).toBe(40)
++  expect(rows.every((one) => one.attributes !== null)).toBe(true)
++})
++
+ test("a roster that will not read refuses at 501 and names why", async () => {
+   const deps = depsReading(() => Promise.reject(new RosterUnreachable("there is no roster left")))
+   const answered = await answerPages(new Request(AT), "readout", deps)
 diff --git a/pages/access/file-property-defs/file-property-defs.module.code.ts b/pages/access/file-property-defs/file-property-defs.module.code.ts
 index 499ed95c4be5746c76a759b26892539bc67992e8..c16810154507b0b3ede830913f399437b4ca181c 100644
 --- a/pages/access/file-property-defs/file-property-defs.module.code.ts
