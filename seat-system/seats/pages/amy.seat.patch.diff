@@ -110,3 +110,22 @@ index 3848dbf521f04412e8a7e54e58525971951fe73c..6bfa1e3262c45d813d3508be4999b8b6
  }
  
  export function buildPatchPlan(args: {
+diff --git a/pages/ui/supabase/mutations/build-patch-plan/build-patch-plan.module.ts b/pages/ui/supabase/mutations/build-patch-plan/build-patch-plan.module.ts
+index 9ccd686c11384abd4909ac3158d69f87e04c9d87..0786c311bf0e3486bf2d02425b72f65e355bad49 100644
+--- a/pages/ui/supabase/mutations/build-patch-plan/build-patch-plan.module.ts
++++ b/pages/ui/supabase/mutations/build-patch-plan/build-patch-plan.module.ts
+@@ -6,4 +6,14 @@ export const buildPatchPlan = {
+   slug: "build-patch-plan",
+   definition: "how one page write divides into promoted columns and a JSON patch",
+   code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A key the store holds in a column of its own is set on that column.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every other key is set in the attributes.",
++    },
++  ],
+ } as const satisfies Module
