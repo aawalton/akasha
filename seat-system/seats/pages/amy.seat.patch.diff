@@ -18,3 +18,26 @@ index 4e9f65a26a1ed025a980744b19fad4fe62fb3af6..a71b10d00326a6afb4715ceb513739dd
 +    headers: withCors(new Headers(answered.headers), cors),
 +  })
 +}
+diff --git a/alan/web/capacitor-cors/capacitor-cors.module.ts b/alan/web/capacitor-cors/capacitor-cors.module.ts
+index cf2741668d6a0c2bf7e6cac8cfd256f9c7294232..9b0e4504abaf16601cac2bed3227fb5da169089e 100644
+--- a/alan/web/capacitor-cors/capacitor-cors.module.ts
++++ b/alan/web/capacitor-cors/capacitor-cors.module.ts
+@@ -6,4 +6,18 @@ export const capacitorCors = {
+   slug: "capacitor-cors",
+   definition: "the cross-origin headers a request from the native shell is answered with",
+   code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A request from another origin is answered without a cross-origin header.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A preflight is answered 204 carrying the cross-origin headers alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An answer to the native shell keeps its own status and its own body.",
++    },
++  ],
+ } as const satisfies Module
