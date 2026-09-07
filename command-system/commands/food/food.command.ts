@@ -60,8 +60,11 @@ export const food = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An entry is filed under the day and the food's name, numbered where that name is taken on that day.",
+      statement: "An entry is filed under the day and the food's name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry is numbered where that name is taken on that day.",
     },
     {
       invariantKind: "departure",
