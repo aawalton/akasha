@@ -1,0 +1,881 @@
+writerOwesReading: false
+diff --git a/alan/web/attribute-stoplights/attribute-stoplights.module.test.ts b/alan/web/attribute-stoplights/attribute-stoplights.module.test.ts
+index 76149c406e5a5550ec2475a26adfc3479f40bc6e..9748f386ac788bf8369423d6515506b8a23acb9e 100644
+--- a/alan/web/attribute-stoplights/attribute-stoplights.module.test.ts
++++ b/alan/web/attribute-stoplights/attribute-stoplights.module.test.ts
+@@ -1,21 +1,28 @@
+ import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+ import { join } from "node:path"
+ import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group-serving"
+-import { dropRelayed, holdRelayed } from "@akasha/readout-system/readout-relay"
+-import { Glob } from "bun"
++import {
++  colorIn,
++  readoutsNaming,
++  type Tile,
++  tileAt,
++} from "@akasha/readout-system/readout-group-serving/testing"
++import { dropRelayed } from "@akasha/readout-system/readout-relay"
++import { relayedFor } from "@akasha/readout-system/readout-relay/testing"
+ import { GROUP, WIRE_KEY_NAME } from "./attribute-stoplights.module.code.ts"
+ 
+ globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
+ 
+ const TIERS = ["black", "red", "orange", "yellow", "green", "blue"]
+ 
++const PATH = "/api/attribute-stoplights"
++
+ const READOUT_ROWS = [
+   {
+     slug: "attribute-strength",
+     label: "Strength",
+     unit: "points",
+     place: 1,
+-    figureFormat: "decimal",
+     scaleSlug: "attribute-points",
+     wireKey: "strength",
+     groupSlugs: [GROUP],
+@@ -25,7 +32,6 @@ const READOUT_ROWS = [
+     label: "Endurance",
+     unit: "points",
+     place: 2,
+-    figureFormat: "decimal",
+     scaleSlug: "attribute-points",
+     wireKey: "endurance",
+     groupSlugs: [GROUP],
+@@ -35,7 +41,6 @@ const READOUT_ROWS = [
+     label: "Constitution",
+     unit: "points",
+     place: 3,
+-    figureFormat: "decimal",
+     scaleSlug: "attribute-points",
+     wireKey: "constitution",
+     groupSlugs: [GROUP],
+@@ -45,7 +50,6 @@ const READOUT_ROWS = [
+     label: "Wisdom",
+     unit: "points",
+     place: 4,
+-    figureFormat: "decimal",
+     scaleSlug: "attribute-points",
+     wireKey: "wisdom",
+     groupSlugs: [GROUP],
+@@ -55,7 +59,6 @@ const READOUT_ROWS = [
+     label: "Intelligence",
+     unit: "points",
+     place: 5,
+-    figureFormat: "decimal",
+     scaleSlug: "attribute-points",
+     wireKey: "intelligence",
+     groupSlugs: [GROUP],
+@@ -65,7 +68,6 @@ const READOUT_ROWS = [
+     label: "Charisma",
+     unit: "points",
+     place: 6,
+-    figureFormat: "decimal",
+     scaleSlug: "attribute-points",
+     wireKey: "charisma",
+     groupSlugs: [GROUP],
+@@ -95,8 +97,8 @@ const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: R
+ 
+ let store: ReturnType<typeof Bun.serve>
+ let server: ReturnType<typeof Bun.serve>
+-let origin: string
+ let heldOrigin: string | undefined
++let tile: Tile
+ 
+ beforeAll(() => {
+   store = Bun.serve({
+@@ -118,21 +120,15 @@ beforeAll(() => {
+     port: 0,
+     fetch(request) {
+       const { pathname } = new URL(request.url)
+-      if (pathname === "/api/attribute-stoplights") {
++      if (pathname === PATH) {
+         return answerStoplightsAdmittedBy(request, () => null, GROUP, WIRE_KEY_NAME)
+       }
+       return new Response("no such route", { status: 404 })
+     },
+   })
+-  origin = `http://localhost:${server.port}`
++  tile = tileAt(`http://localhost:${server.port}`, PATH, WIRE_KEY_NAME)
+ })
+ 
+-// THE ORIGIN THIS FILE SET IS THE WHOLE PROCESS'S, AND COMES BACK WHEN THE STORE GOES.
+-//
+-// Every test file in one run shares one process, so a file leaving this origin in place leaves
+-// every later file asking this store rather than the store the run was pointed at. Stopping the
+-// store does not cover that on its own: `stop` leaves an open connection open, and `fetch` holds
+-// one, so a stopped store goes on answering the file that runs next.
+ afterAll(() => {
+   server.stop()
+   store.stop(true)
+@@ -145,55 +141,12 @@ beforeEach(() => {
+   ANSWERED.readouts = READOUT_ROWS
+ })
+ 
+-type Stoplight = Record<string, unknown>
+-
+-function colorIn(one: Stoplight, key: string): string {
+-  const held = one[key]
+-  if (typeof held !== "string") {
+-    throw new Error(`a stoplight carries no text under \`${key}\`: ${JSON.stringify(held)}`)
+-  }
+-  return held
+-}
+-
+-const tile = () => fetch(`${origin}/api/attribute-stoplights`)
+-
+-function carryNow(readout: string, value: number, at: Date = new Date()): undefined {
+-  holdRelayed({ readout, value, at: at.toISOString() })
+-}
+-
+ function carryAll(at: Date = new Date()): undefined {
+-  for (const [readout, value] of CARRIED) carryNow(readout, value, at)
+-}
+-
+-async function drawn(): Promise<readonly Stoplight[]> {
+-  const answered = await tile()
+-  expect(answered.status).toBe(200)
+-  const body = (await answered.json()) as { stoplights: readonly Stoplight[] }
+-  return body.stoplights
+-}
+-
+-async function ringFor(attribute: string): Promise<Stoplight | undefined> {
+-  return (await drawn()).find((one) => one.attribute === attribute)
++  for (const [readout, value] of CARRIED) relayedFor(readout, value, at)
+ }
+ 
+ const AKASHA = join(import.meta.dir, "..", "..", "..")
+ 
+-async function readoutsNamingAttributes(): Promise<readonly string[]> {
+-  const named: string[] = []
+-  for await (const relative of new Glob("**/*.readout.ts").scan({ cwd: AKASHA })) {
+-    if (relative.includes("node_modules")) continue
+-    const loaded = (await import(join(AKASHA, relative))) as Record<
+-      string,
+-      { slug?: string; groupSlugs?: readonly string[] } | undefined
+-    >
+-    for (const one of Object.values(loaded)) {
+-      if (one?.slug === undefined) continue
+-      if (one.groupSlugs?.includes(GROUP) === true) named.push(one.slug)
+-    }
+-  }
+-  return named.sort()
+-}
+-
+ test("the group this answers for is the attributes group", () => {
+   expect(GROUP).toBe("attributes")
+ })
+@@ -203,7 +156,7 @@ test("the key a reading travels under is `attribute` rather than `habit`", () =>
+ })
+ 
+ test("the pages naming the attributes group are the six the fixture holds", async () => {
+-  expect(await readoutsNamingAttributes()).toEqual([
++  expect(await readoutsNaming(AKASHA, GROUP)).toEqual([
+     "attribute-charisma",
+     "attribute-constitution",
+     "attribute-endurance",
+@@ -215,12 +168,12 @@ test("the pages naming the attributes group are the six the fixture holds", asyn
+ 
+ test("the fixture holds every page naming the group and no page it does not", async () => {
+   expect(READOUT_ROWS.map((one) => one.slug).sort()).toEqual([
+-    ...(await readoutsNamingAttributes()),
++    ...(await readoutsNaming(AKASHA, GROUP)),
+   ])
+ })
+ 
+ test("nothing carried in shows six empty rings rather than an empty list", async () => {
+-  const some = await drawn()
++  const some = await tile.drawn()
+   expect(some.length).toBe(6)
+   for (const one of some) {
+     expect(one.readingHeld).toBe("none")
+@@ -231,12 +184,12 @@ test("nothing carried in shows six empty rings rather than an empty list", async
+ 
+ test("all six attributes come back when all six have been carried in", async () => {
+   carryAll()
+-  expect((await drawn()).length).toBe(6)
++  expect((await tile.drawn()).length).toBe(6)
+ })
+ 
+ test("every stoplight carries its key under `attribute` rather than under `habit`", async () => {
+   carryAll()
+-  for (const one of await drawn()) {
++  for (const one of await tile.drawn()) {
+     expect(Object.keys(one)).toContain("attribute")
+     expect(Object.keys(one)).not.toContain("habit")
+   }
+@@ -244,7 +197,7 @@ test("every stoplight carries its key under `attribute` rather than under `habit
+ 
+ test("the six keys are the six the tile finds its rings under", async () => {
+   carryAll()
+-  expect((await drawn()).map((one) => one.attribute)).toEqual([
++  expect((await tile.drawn()).map((one) => one.attribute)).toEqual([
+     "strength",
+     "endurance",
+     "constitution",
+@@ -256,7 +209,7 @@ test("the six keys are the six the tile finds its rings under", async () => {
+ 
+ test("the rings come back in the place order the readout pages state", async () => {
+   carryAll()
+-  expect((await drawn()).map((one) => one.label)).toEqual([
++  expect((await tile.drawn()).map((one) => one.label)).toEqual([
+     "Strength",
+     "Endurance",
+     "Constitution",
+@@ -267,18 +220,18 @@ test("the rings come back in the place order the readout pages state", async ()
+ })
+ 
+ test("an attribute with no fresh reading keeps its ring rather than leaving the tile short", async () => {
+-  carryNow("attribute-strength", 1.4)
+-  const some = await drawn()
++  relayedFor("attribute-strength", 1.4)
++  const some = await tile.drawn()
+   expect(some.length).toBe(6)
+-  expect((await ringFor("strength"))?.reading).toBe("1.4")
+-  expect((await ringFor("strength"))?.readingHeld).toBeUndefined()
+-  expect((await ringFor("charisma"))?.reading).toBe("")
+-  expect((await ringFor("charisma"))?.readingHeld).toBe("none")
++  expect((await tile.ringFor("strength"))?.reading).toBe("1.4")
++  expect((await tile.ringFor("strength"))?.readingHeld).toBeUndefined()
++  expect((await tile.ringFor("charisma"))?.reading).toBe("")
++  expect((await tile.ringFor("charisma"))?.readingHeld).toBe("none")
+ })
+ 
+ test("every stoplight carries a tier that is one of the six colors the phone reads", async () => {
+   carryAll()
+-  for (const one of await drawn()) {
++  for (const one of await tile.drawn()) {
+     expect(TIERS).toContain(colorIn(one, "tier"))
+     if (one.nextTier !== undefined) expect(TIERS).toContain(colorIn(one, "nextTier"))
+   }
+@@ -286,69 +239,80 @@ test("every stoplight carries a tier that is one of the six colors the phone rea
+ 
+ test("a climbing scale colors a rising figure better rather than worse", async () => {
+   carryAll()
+-  expect((await ringFor("intelligence"))?.tier).toBe("red")
+-  expect((await ringFor("charisma"))?.tier).toBe("yellow")
+-  expect((await ringFor("strength"))?.tier).toBe("green")
+-  expect((await ringFor("constitution"))?.tier).toBe("blue")
++  expect((await tile.ringFor("intelligence"))?.tier).toBe("red")
++  expect((await tile.ringFor("charisma"))?.tier).toBe("yellow")
++  expect((await tile.ringFor("strength"))?.tier).toBe("green")
++  expect((await tile.ringFor("constitution"))?.tier).toBe("blue")
+ })
+ 
+ test("an attribute past its best rung is blue, with no tier above it", async () => {
+   carryAll()
+-  const one = await ringFor("constitution")
++  const one = await tile.ringFor("constitution")
+   expect(one?.tier).toBe("blue")
+   expect(one?.reading).toBe("2.3")
+   expect(one?.nextTier).toBeUndefined()
+   expect(one?.progress).toBeUndefined()
+ })
+ 
+-test("an attribute under every rung is black with red above it and no fraction climbed", async () => {
+-  carryNow("attribute-wisdom", 0)
+-  const one = await ringFor("wisdom")
++test("an attribute at the black rung is black with red above it and none of its band climbed", async () => {
++  relayedFor("attribute-wisdom", 0)
++  const one = await tile.ringFor("wisdom")
+   expect(one?.tier).toBe("black")
+   expect(one?.reading).toBe("0")
+   expect(one?.nextTier).toBe("red")
+-  expect(one?.progress).toBeUndefined()
++  expect(one?.progress).toBe(0)
++})
++
++test("an attribute under the first rung the scale states climbs toward that rung", async () => {
++  relayedFor("attribute-endurance", 0.17)
++  const one = await tile.ringFor("endurance")
++  expect(one?.tier).toBe("black")
++  expect(one?.reading).toBe("0.17")
++  expect(one?.nextTier).toBe("red")
++  expect(one?.progress).toBeCloseTo(0.68, 12)
+ })
+ 
+ test("a figure of zero and a figure never carried are told apart on the wire", async () => {
+-  carryNow("attribute-wisdom", 0)
+-  const carried = await ringFor("wisdom")
++  relayedFor("attribute-wisdom", 0)
++  const carried = await tile.ringFor("wisdom")
+   expect(carried?.reading).toBe("0")
+   expect(carried?.readingHeld).toBeUndefined()
+ 
+-  const absent = await ringFor("intelligence")
++  const absent = await tile.ringFor("intelligence")
+   expect(absent?.reading).toBe("")
+   expect(absent?.readingHeld).toBe("none")
+ })
+ 
+ test("the tier a rising figure is next to reach is the better one", async () => {
+   carryAll()
+-  expect((await ringFor("endurance"))?.nextTier).toBe("green")
+-  expect((await ringFor("strength"))?.nextTier).toBe("blue")
++  expect((await tile.ringFor("endurance"))?.nextTier).toBe("green")
++  expect((await tile.ringFor("strength"))?.nextTier).toBe("blue")
+ })
+ 
+ test("how far a rising figure has come is the fraction of its band it has climbed", async () => {
+   carryAll()
+-  expect((await ringFor("endurance"))?.progress).toBeCloseTo(0.5, 12)
+-  expect((await ringFor("strength"))?.progress).toBeCloseTo(0.4, 12)
+-  expect((await ringFor("intelligence"))?.progress).toBeCloseTo(0.2, 12)
++  expect((await tile.ringFor("endurance"))?.progress).toBeCloseTo(0.5, 12)
++  expect((await tile.ringFor("strength"))?.progress).toBeCloseTo(0.4, 12)
++  expect((await tile.ringFor("intelligence"))?.progress).toBeCloseTo(0.2, 12)
+ })
+ 
+ test("a figure reaches the tile as a string, which is what the tile reads", async () => {
+   carryAll()
+-  for (const one of await drawn()) expect(typeof one.reading).toBe("string")
++  for (const one of await tile.drawn()) expect(typeof one.reading).toBe("string")
+ })
+ 
+-test("a figure is written to two places at most, with trailing zeros dropped", async () => {
+-  carryNow("attribute-strength", 1.23456)
+-  expect((await ringFor("strength"))?.reading).toBe("1.23")
+-  carryNow("attribute-endurance", 1.5)
+-  expect((await ringFor("endurance"))?.reading).toBe("1.5")
++test("a figure is floored to two significant figures at least", async () => {
++  relayedFor("attribute-strength", 1.23456)
++  expect((await tile.ringFor("strength"))?.reading).toBe("1.2")
++  relayedFor("attribute-endurance", 1.5)
++  expect((await tile.ringFor("endurance"))?.reading).toBe("1.5")
++  relayedFor("attribute-wisdom", 0.10708)
++  expect((await tile.ringFor("wisdom"))?.reading).toBe("0.10")
+ })
+ 
+ test("a reading past forty-five minutes shows an empty ring rather than the figure it held", async () => {
+   carryAll(new Date(Date.now() - 46 * 60_000))
+-  const some = await drawn()
++  const some = await tile.drawn()
+   expect(some.length).toBe(6)
+   for (const one of some) {
+     expect(one.readingHeld).toBe("stale")
+@@ -358,5 +322,5 @@ test("a reading past forty-five minutes shows an empty ring rather than the figu
+ 
+ test("nothing between here and the tile is allowed to keep an answer", async () => {
+   carryAll()
+-  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
++  expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
+ })
+diff --git a/alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts b/alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts
+index fd6d10b059d2578e8784b7f49e14969beeadff1b..092561bc3d08dac1728735d0b8e25bc86bdac5b3 100644
+--- a/alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts
++++ b/alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts
+@@ -1,43 +1,15 @@
+-// Alan's inbox tile, driven over real HTTP: the relay carrier POSTs each reading into his
+-// receiving route, and the group-serving path answers them as the `stoplights` body his shipped
+-// widget decodes. The relay secret is the only made-up thing here, generated fresh for each run.
+-//
+-// The readings are fixtures, and they are the three in the widget's own `INBOX_PREVIEW`. Alan's own
+-// inbox counts are never read here, and no test asserts a count as though it were his.
+-//
+-// What this pins that the upkeep files do not:
+-//
+-// The key. `InboxStoplight` decodes `let inbox: String`, non-optional, where every other stoplight
+-// consumer decodes `habit`, and `answerStoplightsAdmittedBy` defaults to `habit`. A route that
+-// forgot the fourth argument would answer 200 with a well-formed body that throws inside the array
+-// decode on the phone, leaving the last good payload on screen. Nothing on the server would say
+-// so. The assertion is on `Object.keys` of the decoded body rather than on field access, because
+-// `habit` and `inbox` are both declared on `Stoplight` and reading either one typechecks.
+-//
+-// The count. Two of three readouts would answer two rings and look right, so these count what
+-// comes back rather than asking whether anything did. Three is the number: two and four are both
+-// failures that draw a plausible tile.
+-//
+-// The membership. `READOUT_ROWS` below is a hand-copy of the pages, so it would go on answering
+-// three however many readouts really name the group. `the pages naming the inboxes group` reads
+-// the pages themselves off disk instead, and is the one test here that a readout left in the group
+-// by a half-finished removal cannot get past.
+-//
+-// The direction. Both inbox scales fall — a hundred waiting is black and an empty inbox is
+-// blue — where every upkeep scale climbs. A `tierAt` that reads only climbing scales answers null
+-// for all three, and a readout answering null is left out rather than refused, so the tile would
+-// have shown no rings while nothing errored.
+-
+ import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+ import { join } from "node:path"
+ import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group-serving"
++import {
++  colorIn,
++  readoutsNaming,
++  type Tile,
++  tileAt,
++} from "@akasha/readout-system/readout-group-serving/testing"
+ import { dropRelayed, RELAY_PATH, relayReading } from "@akasha/readout-system/readout-relay"
+-import { Glob } from "bun"
+ import { action } from "../api.readout-relay.ts"
+ 
+-// This workspace preloads happy-dom, which replaces `globalThis.Response` with one `Bun.serve`
+-// refuses to answer with. The preload keeps the native `fetch`, so the native `Response` comes
+-// back off any answer that fetch gives.
+ globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
+ 
+ const RELAY_SECRET = crypto.randomUUID()
+@@ -47,16 +19,14 @@ process.env.READING_RELAY_SECRET = RELAY_SECRET
+ 
+ const TIERS = ["black", "red", "orange", "yellow", "green", "blue"]
+ 
+-// The three readouts naming the `inboxes` group and the two scales they are read against, as
+-// those pages state them. Held here so a change to any of them shows up as a failure rather than
+-// as a missing ring.
++const PATH = "/api/inbox-stoplights"
++
+ const READOUT_ROWS = [
+   {
+     slug: "inboxes-email",
+     label: "Email",
+     unit: "messages",
+     place: 1,
+-    figureFormat: "integer",
+     scaleSlug: "lowest-inbox-count",
+     wireKey: "email",
+     groupSlugs: [GROUP],
+@@ -66,7 +36,6 @@ const READOUT_ROWS = [
+     label: "Tasks",
+     unit: "tasks",
+     place: 2,
+-    figureFormat: "integer",
+     scaleSlug: "daily-inbox",
+     wireKey: "tasks",
+     groupSlugs: [GROUP],
+@@ -76,7 +45,6 @@ const READOUT_ROWS = [
+     label: "Temper tasks",
+     unit: "tasks",
+     place: 3,
+-    figureFormat: "integer",
+     scaleSlug: "daily-inbox",
+     wireKey: "temperTasks",
+     groupSlugs: [GROUP],
+@@ -102,7 +70,6 @@ const SCALE_ROWS: Record<string, Record<string, unknown>> = {
+   },
+ }
+ 
+-// The widget's own preview payload, which is the record of what the old server sent.
+ const CARRIED: readonly (readonly [string, number])[] = [
+   ["inboxes-email", 0],
+   ["inboxes-tasks", 4],
+@@ -115,6 +82,7 @@ let store: ReturnType<typeof Bun.serve>
+ let server: ReturnType<typeof Bun.serve>
+ let origin: string
+ let heldOrigin: string | undefined
++let tile: Tile
+ 
+ beforeAll(() => {
+   store = Bun.serve({
+@@ -137,21 +105,16 @@ beforeAll(() => {
+     fetch(request) {
+       const { pathname } = new URL(request.url)
+       if (pathname === RELAY_PATH) return action({ request } as never)
+-      if (pathname === "/api/inbox-stoplights") {
++      if (pathname === PATH) {
+         return answerStoplightsAdmittedBy(request, () => null, GROUP, "inbox")
+       }
+       return new Response("no such route", { status: 404 })
+     },
+   })
+   origin = `http://localhost:${server.port}`
++  tile = tileAt(origin, PATH, "inbox")
+ })
+ 
+-// THE ORIGIN THIS FILE SET IS THE WHOLE PROCESS'S, AND COMES BACK WHEN THE STORE GOES.
+-//
+-// Every test file in one run shares one process, so a file leaving this origin in place leaves
+-// every later file asking this store rather than the store the run was pointed at. Stopping the
+-// store does not cover that on its own: `stop` leaves an open connection open, and `fetch` holds
+-// one, so a stopped store goes on answering the file that runs next.
+ afterAll(() => {
+   server.stop()
+   store.stop(true)
+@@ -164,21 +127,6 @@ beforeEach(() => {
+   ANSWERED.readouts = READOUT_ROWS
+ })
+ 
+-type Stoplight = Record<string, unknown>
+-
+-// A stoplight is read here as the wire carries it, so every value arrives as `unknown` and a
+-// colour has to be narrowed before it can be compared. Narrowing by throwing rather than by
+-// casting keeps a key that arrives as the wrong shape from reading as a colour the list refuses.
+-function colourIn(one: Stoplight, key: string): string {
+-  const held = one[key]
+-  if (typeof held !== "string") {
+-    throw new Error(`a stoplight carries no text under \`${key}\`: ${JSON.stringify(held)}`)
+-  }
+-  return held
+-}
+-
+-const tile = () => fetch(`${origin}/api/inbox-stoplights`)
+-
+ const carryNow = (readout: string, value: number, at: Date = new Date()) =>
+   relayReading(origin, RELAY_SECRET, { readout, value, at: at.toISOString() })
+ 
+@@ -186,41 +134,10 @@ async function carryAll(at: Date = new Date()): Promise<void> {
+   for (const [readout, value] of CARRIED) await carryNow(readout, value, at)
+ }
+ 
+-async function drawn(): Promise<readonly Stoplight[]> {
+-  const answered = await tile()
+-  expect(answered.status).toBe(200)
+-  const body = (await answered.json()) as { stoplights: readonly Stoplight[] }
+-  return body.stoplights
+-}
+-
+-// Every admitted readout answers a ring now, so a position no longer means the same inbox from
+-// one run to the next. Name the inbox wanted rather than counting to it.
+-async function ringFor(inbox: string): Promise<Stoplight | undefined> {
+-  return (await drawn()).find((one) => one.inbox === inbox)
+-}
+-
+ const AKASHA = join(import.meta.dir, "..", "..", "..", "..", "..", "akasha")
+ 
+-// Every readout page under `akasha/` that names the inboxes group, read off the pages rather than
+-// off the fixture above. A readout page left behind by a removal shows up here by its own slug.
+-async function readoutsNamingInboxes(): Promise<readonly string[]> {
+-  const named: string[] = []
+-  for await (const relative of new Glob("**/*.readout.ts").scan({ cwd: AKASHA })) {
+-    if (relative.includes("node_modules")) continue
+-    const loaded = (await import(join(AKASHA, relative))) as Record<
+-      string,
+-      { slug?: string; groupSlugs?: readonly string[] } | undefined
+-    >
+-    for (const one of Object.values(loaded)) {
+-      if (one?.slug === undefined) continue
+-      if (one.groupSlugs?.includes(GROUP) === true) named.push(one.slug)
+-    }
+-  }
+-  return named.sort()
+-}
+-
+ test("the pages naming the inboxes group are the three the fixture holds", async () => {
+-  expect(await readoutsNamingInboxes()).toEqual([
++  expect(await readoutsNaming(AKASHA, GROUP)).toEqual([
+     "inboxes-email",
+     "inboxes-tasks",
+     "inboxes-temper-tasks",
+@@ -228,11 +145,13 @@ test("the pages naming the inboxes group are the three the fixture holds", async
+ })
+ 
+ test("the fixture holds every page naming the group and no page it does not", async () => {
+-  expect(READOUT_ROWS.map((one) => one.slug).sort()).toEqual([...(await readoutsNamingInboxes())])
++  expect(READOUT_ROWS.map((one) => one.slug).sort()).toEqual([
++    ...(await readoutsNaming(AKASHA, GROUP)),
++  ])
+ })
+ 
+ test("nothing carried in shows three empty rings rather than an empty list", async () => {
+-  const some = await drawn()
++  const some = await tile.drawn()
+   expect(some.length).toBe(3)
+   for (const one of some) {
+     expect(one.readingHeld).toBe("none")
+@@ -243,12 +162,12 @@ test("nothing carried in shows three empty rings rather than an empty list", asy
+ 
+ test("all three inboxes come back when all three have been carried in", async () => {
+   await carryAll()
+-  expect((await drawn()).length).toBe(3)
++  expect((await tile.drawn()).length).toBe(3)
+ })
+ 
+ test("every stoplight carries its key under `inbox` rather than under `habit`", async () => {
+   await carryAll()
+-  for (const one of await drawn()) {
++  for (const one of await tile.drawn()) {
+     expect(Object.keys(one)).toContain("inbox")
+     expect(Object.keys(one)).not.toContain("habit")
+   }
+@@ -256,36 +175,36 @@ test("every stoplight carries its key under `inbox` rather than under `habit`",
+ 
+ test("the three keys are the three the shipped widget looks its labels up by", async () => {
+   await carryAll()
+-  expect((await drawn()).map((one) => one.inbox)).toEqual(["email", "tasks", "temperTasks"])
++  expect((await tile.drawn()).map((one) => one.inbox)).toEqual(["email", "tasks", "temperTasks"])
+ })
+ 
+ test("the rings come back in the place order the readout pages state", async () => {
+   await carryAll()
+-  expect((await drawn()).map((one) => one.label)).toEqual(["Email", "Tasks", "Temper tasks"])
++  expect((await tile.drawn()).map((one) => one.label)).toEqual(["Email", "Tasks", "Temper tasks"])
+ })
+ 
+ test("an inbox with no fresh reading keeps its ring rather than leaving the tile short", async () => {
+   await carryNow("inboxes-email", 0)
+-  const some = await drawn()
++  const some = await tile.drawn()
+   expect(some.length).toBe(3)
+   expect(some.map((one) => one.inbox)).toEqual(["email", "tasks", "temperTasks"])
+-  expect((await ringFor("email"))?.reading).toBe("0")
+-  expect((await ringFor("email"))?.readingHeld).toBeUndefined()
+-  expect((await ringFor("tasks"))?.reading).toBe("")
+-  expect((await ringFor("tasks"))?.readingHeld).toBe("none")
++  expect((await tile.ringFor("email"))?.reading).toBe("0")
++  expect((await tile.ringFor("email"))?.readingHeld).toBeUndefined()
++  expect((await tile.ringFor("tasks"))?.reading).toBe("")
++  expect((await tile.ringFor("tasks"))?.readingHeld).toBe("none")
+ })
+ 
+ test("every stoplight carries a tier that is one of the six colours the phone decodes", async () => {
+   await carryAll()
+-  for (const one of await drawn()) {
+-    expect(TIERS).toContain(colourIn(one, "tier"))
+-    if (one.nextTier !== undefined) expect(TIERS).toContain(colourIn(one, "nextTier"))
++  for (const one of await tile.drawn()) {
++    expect(TIERS).toContain(colorIn(one, "tier"))
++    if (one.nextTier !== undefined) expect(TIERS).toContain(colorIn(one, "nextTier"))
+   }
+ })
+ 
+ test("an inbox at empty is blue, with no tier above it", async () => {
+   await carryAll()
+-  const [email] = await drawn()
++  const [email] = await tile.drawn()
+   expect(email?.tier).toBe("blue")
+   expect(email?.reading).toBe("0")
+   expect(email?.nextTier).toBeUndefined()
+@@ -294,56 +213,58 @@ test("an inbox at empty is blue, with no tier above it", async () => {
+ 
+ test("a falling scale colours a rising count worse rather than better", async () => {
+   await carryAll()
+-  const [, tasks, temperTasks] = await drawn()
++  const [, tasks, temperTasks] = await tile.drawn()
+   expect(tasks?.tier).toBe("yellow")
+   expect(temperTasks?.tier).toBe("red")
+ })
+ 
+ test("an inbox over a hundred is black rather than a reading gone missing", async () => {
+   await carryNow("inboxes-tasks", 140)
+-  const one = await ringFor("tasks")
++  const one = await tile.ringFor("tasks")
+   expect(one?.tier).toBe("black")
+   expect(one?.reading).toBe("140")
+ })
+ 
+ test("a count of zero and a count never carried are told apart on the wire", async () => {
+   await carryNow("inboxes-email", 0)
+-  const carried = await ringFor("email")
++  const carried = await tile.ringFor("email")
+   expect(carried?.reading).toBe("0")
+   expect(carried?.readingHeld).toBeUndefined()
+ 
+-  const absent = await ringFor("temperTasks")
++  const absent = await tile.ringFor("temperTasks")
+   expect(absent?.reading).toBe("")
+   expect(absent?.readingHeld).toBe("none")
+ })
+ 
+ test("the tier a falling reading is next to reach is the better one", async () => {
+   await carryAll()
+-  const [, tasks, temperTasks] = await drawn()
++  const [, tasks, temperTasks] = await tile.drawn()
+   expect(tasks?.nextTier).toBe("blue")
+   expect(temperTasks?.nextTier).toBe("yellow")
+ })
+ 
+ test("how far a falling reading has come is the fraction of its band it has come down", async () => {
+   await carryAll()
+-  const [, tasks, temperTasks] = await drawn()
++  const [, tasks, temperTasks] = await tile.drawn()
+   expect(tasks?.progress).toBeCloseTo(6 / 9, 12)
+   expect(temperTasks?.progress).toBeCloseTo(77 / 90, 12)
+ })
+ 
+ test("a count reaches the widget as a string, which is what the widget decodes", async () => {
+   await carryAll()
+-  for (const one of await drawn()) expect(typeof one.reading).toBe("string")
++  for (const one of await tile.drawn()) expect(typeof one.reading).toBe("string")
+ })
+ 
+-test("a count is written whole rather than as the float the relay carried", async () => {
++test("a count is written as the number the relay carried rather than rounded off", async () => {
++  await carryNow("inboxes-tasks", 4)
++  expect((await tile.ringFor("tasks"))?.reading).toBe("4")
+   await carryNow("inboxes-tasks", 4.4)
+-  expect((await ringFor("tasks"))?.reading).toBe("4")
++  expect((await tile.ringFor("tasks"))?.reading).toBe("4.4")
+ })
+ 
+ test("a reading past forty-five minutes shows an empty ring rather than the count it held", async () => {
+   await carryAll(new Date(Date.now() - 46 * 60_000))
+-  const some = await drawn()
++  const some = await tile.drawn()
+   expect(some.length).toBe(3)
+   for (const one of some) {
+     expect(one.readingHeld).toBe("stale")
+@@ -353,5 +274,5 @@ test("a reading past forty-five minutes shows an empty ring rather than the coun
+ 
+ test("nothing between here and the tile is allowed to keep an answer", async () => {
+   await carryAll()
+-  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
++  expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
+ })
+diff --git a/alan/web/routes/inbox-stoplights/inbox-stoplights.route.ts b/alan/web/routes/inbox-stoplights/inbox-stoplights.route.ts
+index 1600a3c15d5af61795c26ceec11a44588cabd0b5..95960166dbd8e8ccb58d1eda0e7d6fd771b42d65 100644
+--- a/alan/web/routes/inbox-stoplights/inbox-stoplights.route.ts
++++ b/alan/web/routes/inbox-stoplights/inbox-stoplights.route.ts
+@@ -8,4 +8,22 @@ export const inboxStoplights = {
+   code: "ts",
+   test: "ts",
+   urlPath: "api/inbox-stoplights",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The key each reading travels under is `inbox` rather than `habit`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The tile shipped against this reads that key as text that is always there.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every readout the inboxes group admits answers a ring of its own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Both inbox scales fall rather than climb.",
++    },
++  ],
+ } as const satisfies Route
+diff --git a/readout-system/package.json b/readout-system/package.json
+index 459de8c3ede0be03d4a76e4d7e590cdb79301c59..32e924d5312ae5ac3c7dda98ec409767ff87ad6f 100644
+--- a/readout-system/package.json
++++ b/readout-system/package.json
+@@ -22,11 +22,13 @@
+     "./readout-asking/testing": "./readout-asking/readout-asking.module.test-fixtures.ts",
+     "./readout-body": "./readout-body/readout-body.module.code.ts",
+     "./readout-group-serving": "./readout-group-serving/readout-group-serving.module.code.ts",
++    "./readout-group-serving/testing": "./readout-group-serving/readout-group-serving.module.test-fixtures.ts",
+     "./readout-serving": "./readout-serving/readout-serving.module.code.ts",
+     "./readout-credential": "./readout-credential/readout-credential.module.code.ts",
+     "./readout-none-left": "./readout-none-left/readout-none-left.module.code.ts",
+     "./readout-reading": "./readout-reading/readout-reading.module.code.ts",
+     "./readout-relay": "./readout-relay/readout-relay.module.code.ts",
++    "./readout-relay/testing": "./readout-relay/readout-relay.module.test-fixtures.ts",
+     "./readout-scale-reading": "./readout-scale-reading/readout-scale-reading.module.code.ts",
+     "./readout-tier": "./readout-tier/readout-tier.module.code.ts",
+     "./widget-tap-counting": "./widget-tap-counting/widget-tap-counting.module.code.ts",
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.test-fixtures.ts b/readout-system/readout-group-serving/readout-group-serving.module.test-fixtures.ts
+index 674fb4996ff8ade605b1898d2f547ccd7b68ca3c..9feb73e26b026f4cf7bb4bb387b098308d296240 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.test-fixtures.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.test-fixtures.ts
+@@ -1,3 +1,5 @@
++import { join } from "node:path"
++import { Glob } from "bun"
+ import type { Stoplight } from "./readout-group-serving.module.code.ts"
+ 
+ export const GROUP = "a-group-named-only-in-this-test"
+@@ -46,12 +48,6 @@ export function answeredAfresh(): undefined {
+ 
+ let heldOrigin: string | undefined
+ 
+-// EACH PAGE TYPE THE MODULE ASKS FOR IS ANSWERED BY A BRANCH OF ITS OWN, AND ANYTHING ELSE BY NONE.
+-//
+-// A store answering whatever the last branch holds is a store that passes a test for the wrong
+-// reason: before groups were answered here, a group asked for came back as a scale, and a scale
+-// carries no answer about a figure off scale, so the false case would have passed without the
+-// reading ever having been built.
+ export function servingStore(): ReturnType<typeof Bun.serve> {
+   const store = Bun.serve({
+     port: 0,
+@@ -68,13 +64,6 @@ export function servingStore(): ReturnType<typeof Bun.serve> {
+   return store
+ }
+ 
+-// THE ORIGIN THIS STORE SET IS THE WHOLE PROCESS'S, AND COMES BACK WHEN THE STORE GOES.
+-//
+-// Every test file in one run shares one process, so a file leaving this origin in place leaves
+-// every later file asking this store rather than the store the run was pointed at. Stopping the
+-// store does not cover that on its own: `stop` leaves an open connection open, and `fetch` holds
+-// one open, so a stopped store goes on answering the file that runs next. These rows reached
+-// `readout-unread` that way and made Alan's status bar read as drawing lights carrying no reading.
+ export function storeGoes(store: ReturnType<typeof Bun.serve>): undefined {
+   store.stop(true)
+   if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
+@@ -85,3 +74,53 @@ export function storeGoes(store: ReturnType<typeof Bun.serve>): undefined {
+ export function figureOffScaleOn(one: Stoplight | undefined): unknown {
+   return (one as Record<string, unknown> | undefined)?.figureOffScale
+ }
++
++export type Drawn = Record<string, unknown>
++
++export type Tile = {
++  readonly answer: () => Promise<Response>
++  readonly drawn: () => Promise<readonly Drawn[]>
++  readonly ringFor: (named: string) => Promise<Drawn | undefined>
++}
++
++export function colorIn(one: Drawn, key: string): string {
++  const held = one[key]
++  if (typeof held !== "string") {
++    throw new Error(`a stoplight carries no text under \`${key}\`: ${JSON.stringify(held)}`)
++  }
++  return held
++}
++
++async function stoplightsAt(url: string): Promise<readonly Drawn[]> {
++  const answered = await fetch(url)
++  if (answered.status !== 200) {
++    throw new Error(`the tile at ${url} answered ${answered.status} rather than 200`)
++  }
++  const body = (await answered.json()) as { stoplights: readonly Drawn[] }
++  return body.stoplights
++}
++
++export function tileAt(origin: string, path: string, key: string): Tile {
++  const url = `${origin}${path}`
++  return {
++    answer: () => fetch(url),
++    drawn: () => stoplightsAt(url),
++    ringFor: async (named) => (await stoplightsAt(url)).find((one) => one[key] === named),
++  }
++}
++
++export async function readoutsNaming(root: string, group: string): Promise<readonly string[]> {
++  const named: string[] = []
++  for await (const relative of new Glob("**/*.readout.ts").scan({ cwd: root })) {
++    if (relative.includes("node_modules")) continue
++    const loaded = (await import(join(root, relative))) as Record<
++      string,
++      { slug?: string; groupSlugs?: readonly string[] } | undefined
++    >
++    for (const one of Object.values(loaded)) {
++      if (one?.slug === undefined) continue
++      if (one.groupSlugs?.includes(group) === true) named.push(one.slug)
++    }
++  }
++  return named.sort()
++}
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.ts b/readout-system/readout-group-serving/readout-group-serving.module.ts
+index c28bdf80f3eb0a0dd19398abce987361a862b9b0..d0060fa7ce8a057b13b9cff8dfafac83c9eaa5fe 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.ts
+@@ -184,6 +184,28 @@ export const readoutGroupServing = {
+       invariantKind: "departure",
+       statement: "Nothing between here and the tile is allowed to keep an answer.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A store set up for a test answers each page type asked for from a branch of its own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page type no branch answers is answered with no row.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A store set up for a test puts back the origin that store replaced when the store goes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A store that goes closes its connections rather than leaving a connection open.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The helpers reading a tile's rings sit in one file rather than in each test.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here takes a reading.",
