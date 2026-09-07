@@ -40,3 +40,22 @@ index 7bcc832c90e0a2842d943bce0a6b3ae53c60b3ab..b88954b875167ce6c72c396d84add30c
      {
        pagePropertySlug: "boolean-property/following",
        required: false,
+diff --git a/collections/properties/collection-description.text-property.ts b/collections/properties/collection-description.text-property.ts
+deleted file mode 100644
+index c4791c6429ca20dc6818f85113eb2fa89d9c4678..0000000000000000000000000000000000000000
+--- a/collections/properties/collection-description.text-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type CollectionDescription = string
+-
+-export const collectionDescription = {
+-  id: "01a063de-2c60-7009-94bd-19c39c43b53e",
+-  pageTypeSlug: "text-property",
+-  slug: "collection-description",
+-  propertySlug: "description",
+-  definition: "what a collection is about",
+-  maxLength: 1000,
+-  nameFormatSlug: null,
+-} as const satisfies TextProperty
