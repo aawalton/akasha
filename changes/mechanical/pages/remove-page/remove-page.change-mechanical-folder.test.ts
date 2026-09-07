@@ -34,7 +34,7 @@ import { runChange as removeCodeFile } from "../remove-code-file/remove-code-fil
 import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange as removePageFile } from "../remove-page-file/remove-page-file.change-mechanical-file.code.ts"
 import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
-import { parentsOf, removePage } from "./remove-page.change-mechanical.code.ts"
+import { parentsOf, removePage } from "./remove-page.change-mechanical-folder.code.ts"
 
 type Unnaming = { at: string; key: string; value: string }
 

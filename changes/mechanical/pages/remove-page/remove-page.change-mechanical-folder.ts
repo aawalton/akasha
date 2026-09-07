@@ -1,8 +1,8 @@
-import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+import type { ChangeMechanicalFolder } from "../../folder/change-mechanical-folder.page-type.ts"
 
 export const removePage = {
   id: "01a07750-f2bb-7d0e-b301-cc3c2ede50b1",
-  pageTypeSlug: "change-mechanical",
+  pageTypeSlug: "change-mechanical-folder",
   slug: "remove-page",
   definition: "one page taken away with every file that page keeps beside it",
   code: "ts",
@@ -95,4 +95,4 @@ export const removePage = {
         "The guards the tests here run are imported rather than reached through `guard-slugs`.",
     },
   ],
-} as const satisfies ChangeMechanical
+} as const satisfies ChangeMechanicalFolder
