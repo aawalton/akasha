@@ -1,0 +1,12 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/code-system/code-rule/code-rule.module.code.ts b/code-system/code-rule/code-rule.module.code.ts
+index 16aeef33b476b6e1f1ccbd5a43b16770aeecc7b0..4422e7d90751b96b9b281c76601f43526355e8f0 100644
+--- a/code-system/code-rule/code-rule.module.code.ts
++++ b/code-system/code-rule/code-rule.module.code.ts
+@@ -134,3 +134,5 @@ export function speltIn(path: string, text: string): readonly Spelt[] {
+   walk(source)
+   return found
+ }
++
++export const seeded = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/u
