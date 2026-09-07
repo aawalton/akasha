@@ -1,0 +1,44 @@
+writerOwesReading: false
+diff --git a/pages/indexes/entries/index-entries.module.test-fixtures.ts b/pages/indexes/entries/index-entries.module.test-fixtures.ts
+index fa88a0b684849a509fde0d9756d399d8aeb79843..726aeecf2a933e88610b7fc090711a9fbb8dae7e 100644
+--- a/pages/indexes/entries/index-entries.module.test-fixtures.ts
++++ b/pages/indexes/entries/index-entries.module.test-fixtures.ts
+@@ -19,24 +19,25 @@ export const D = "01a04b79-0000-7000-8000-00000000000d"
+ 
+ export const SCHEMA = {
+   code:
+-    '{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,' +
++    '{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniqueScope":null,' +
+     '"slug":"code","propertySlug":"code","fileName":null}',
+   domainSlug:
+-    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,' +
++    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniqueScope":null,' +
+     '"slug":"domain-slug","propertySlug":"domain-slug","fileName":null}',
+   partSlugs:
+-    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,' +
++    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniqueScope":null,' +
+     '"slug":"part-slugs","propertySlug":"part-slugs","fileName":null}',
+   noteSlug:
+-    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"note","unique":null,' +
++    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"note","unique":null,"uniqueScope":null,' +
+     '"slug":"note-slug","propertySlug":"note-slug","fileName":null}',
+   either:
+-    '{"pageTypeSlug":"one-of-property","targetPageTypeSlug":null,"unique":null,' +
++    '{"pageTypeSlug":"one-of-property","targetPageTypeSlug":null,"unique":null,"uniqueScope":null,' +
+     '"slug":"either","propertySlug":"either","fileName":null}',
+   id: JSON.stringify({
+     pageTypeSlug: idPage.pageTypeSlug,
+     targetPageTypeSlug: null,
+     unique: idPage.unique,
++    uniqueScope: null,
+     slug: idPage.slug,
+     propertySlug: idPage.propertySlug,
+     fileName: null,
+@@ -45,6 +46,7 @@ export const SCHEMA = {
+     pageTypeSlug: slugPage.pageTypeSlug,
+     targetPageTypeSlug: null,
+     unique: slugPage.unique,
++    uniqueScope: null,
+     slug: slugPage.slug,
+     propertySlug: slugPage.propertySlug,
+     fileName: null,
