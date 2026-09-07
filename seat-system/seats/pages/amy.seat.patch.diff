@@ -398,6 +398,21 @@ index 0808be3ab04a639dc84d7a74f5ecd871b4a51235..66a93fb97b10af8695ccfba64774355d
 +    },
    ],
  } as const satisfies Module
+diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
+index bbf112feaaa7dc75f0fe2be2a85e9d3c13dcb1d0..9bf8f289b65752751e2fb8702741dee1e9742423 100644
+--- a/pages/indexes/reading/index-reading.module.code.ts
++++ b/pages/indexes/reading/index-reading.module.code.ts
+@@ -63,6 +63,10 @@ export function indexNamed(): string {
+   return INDEX_AT
+ }
+ 
++export function valuesAt(): string {
++  return join(INDEX_AT, VALUE)
++}
++
+ export function indexThere(given: string | Reading): boolean {
+   return readingIn(given).holds("")
+ }
 diff --git a/pages/indexes/reading/index-reading.module.ts b/pages/indexes/reading/index-reading.module.ts
 index fdc5641071c3ca19c96aa0b9ac1a523d94715031..038b39d571b5de17d36f1e60a9805d79ba81e2d2 100644
 --- a/pages/indexes/reading/index-reading.module.ts
