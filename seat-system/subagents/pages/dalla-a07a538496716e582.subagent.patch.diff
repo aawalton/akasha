@@ -1,0 +1,1053 @@
+writerOwesReading: false
+diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
+index fc14c9ec610498b588fe2e489fe2fcc30f9d9fac..2266ab1f5fa849fc2bb5ae80d5047adf355a6f39 100644
+--- a/command-system/command-system.workspace-package.ts
++++ b/command-system/command-system.workspace-package.ts
+@@ -66,6 +66,8 @@ export const commandSystem = {
+     "module/said-pathing",
+     "module/warrant-owing",
+     "module/passage-counting",
++    "module/file-arguing",
++    "module/mechanical-filing",
+   ],
+   invariants: [
+     {
+diff --git a/command-system/commands/edit/edit.command.code.ts b/command-system/commands/edit/edit.command.code.ts
+index 3f5db0cd49190ab5a91b7ec3d2656e8d6f0d4a71..bd227651677fd0a9ca633031ce25c99e409f3836 100644
+--- a/command-system/commands/edit/edit.command.code.ts
++++ b/command-system/commands/edit/edit.command.code.ts
+@@ -19,6 +19,13 @@ import {
+   REMOVE,
+   unknownIn,
+ } from "../../command-flags/command-flags.module.code.ts"
++import {
++  besideTaken,
++  RESTATED,
++  removingIn,
++  restatedIn,
++  unrestatedFor,
++} from "../../file-arguing/file-arguing.module.code.ts"
+ import type { FileEdit } from "../../landing/landing.module.code.ts"
+ import { defaultMessage } from "../../landing-saying/landing-saying.module.code.ts"
+ import { counted } from "../../passage-counting/passage-counting.module.code.ts"
+@@ -34,13 +41,6 @@ import {
+ } from "../../piping/piping.module.code.ts"
+ import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
+ import { unwarrantedIn } from "../../warrant-owing/warrant-owing.module.code.ts"
+-import {
+-  besideTaken,
+-  RESTATED,
+-  removingIn,
+-  restatedIn,
+-  unrestatedFor,
+-} from "../write/write.command.code.ts"
+ 
+ const OLD_FILE = "--old-file"
+ 
+diff --git a/command-system/commands/track/session-acting/session-acting.module.code.ts b/command-system/commands/track/session-acting/session-acting.module.code.ts
+index 9cd898e3347293003cc5c04d86554625282bbb29..af6b19c938ef4c92addeadbbc135deb9dbc6abd2 100644
+--- a/command-system/commands/track/session-acting/session-acting.module.code.ts
++++ b/command-system/commands/track/session-acting/session-acting.module.code.ts
+@@ -2,8 +2,8 @@ import { mkdtempSync, rmSync } from "node:fs"
+ import { join } from "node:path"
+ import { mistaking } from "../../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../../calling/calling.module.code.ts"
++import { filing } from "../../../mechanical-filing/mechanical-filing.module.code.ts"
+ import { SCRATCH_AT } from "../../../scratching/scratching.module.code.ts"
+-import { filing } from "../../write/write.command.code.ts"
+ import { besideArgv, type Landing, pathUnder } from "../day-landing/day-landing.module.code.ts"
+ import type { ActivityDifficulty } from "../session-leveling/session-leveling.module.code.ts"
+ import {
+diff --git a/command-system/commands/tracking/tracking.command.code.ts b/command-system/commands/tracking/tracking.command.code.ts
+index 2f60a48b118733f328447fd068c4a0b8ca6a81cf..555a6c0bc57ea77f420373f05d0a96d2829ed0ab 100644
+--- a/command-system/commands/tracking/tracking.command.code.ts
++++ b/command-system/commands/tracking/tracking.command.code.ts
+@@ -6,9 +6,9 @@ import {
+ import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+ import { FILE_PATH, REMOVE, valuesOf } from "../../command-flags/command-flags.module.code.ts"
++import { builtIn, VALUED } from "../../file-arguing/file-arguing.module.code.ts"
+ import { inputIn } from "../../piping/piping.module.code.ts"
+ import { pathAt } from "../../said-pathing/said-pathing.module.code.ts"
+-import { builtIn, VALUED } from "../write/write.command.code.ts"
+ 
+ export const NO_GLASS = `${BREAK_GLASS} is no flag this takes: a body the checks refuse is a fault in the program that composed it`
+ 
+diff --git a/command-system/commands/write/write.command.code.ts b/command-system/commands/write/write.command.code.ts
+index 9faebadfd42e20b5dfdabe62b38855bb473d53eb..e4ade71d50509d32331d91d9c3f90da178620b6e 100644
+--- a/command-system/commands/write/write.command.code.ts
++++ b/command-system/commands/write/write.command.code.ts
+@@ -1,302 +1,8 @@
+-import { existsSync } from "node:fs"
+-import { join, resolve } from "node:path"
+-import { besideAll } from "@akasha/pages/page-beside"
+-import {
+-  BREAK_GLASS,
+-  bytesAt,
+-  landedMechanically,
+-  landingAsked,
+-  mistaking,
+-  textOf,
+-  troubling,
+-  wroteAndTook,
+-} from "../../asking/asking.module.code.ts"
+-import { type Answer, type Given, kindNamed } from "../../calling/calling.module.code.ts"
+-import {
+-  CONTENT_FILE,
+-  FILE_PATH,
+-  glassIn,
+-  MESSAGE,
+-  MESSAGE_FILE,
+-  messageIn,
+-  REMOVE,
+-  unknownIn,
+-} from "../../command-flags/command-flags.module.code.ts"
+-import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
+-import type { FileEdit } from "../../landing/landing.module.code.ts"
+-import { baseOf } from "../../landing/landing.module.code.ts"
+-import { defaultMessage } from "../../landing-saying/landing-saying.module.code.ts"
++import { landingAsked, mistaking, wroteAndTook } from "../../asking/asking.module.code.ts"
++import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import { builtIn, restatedIn } from "../../file-arguing/file-arguing.module.code.ts"
+ import type { Piping } from "../../piping/piping.module.code.ts"
+-import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
+-import { unrestatedIn } from "../../restating/restating.module.code.ts"
+-import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
+-import { unwarrantedIn } from "../../warrant-owing/warrant-owing.module.code.ts"
+-
+-export const RESTATED = "--restated"
+-
+-export const RESTATED_KIND = "change-restated"
+-
+-export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
+-
+-const BARE: readonly string[] = [RESTATED]
+-
+-export function restatedIn(
+-  argv: readonly string[],
+-  given: Given
+-): { readonly given: Given } | { readonly refusals: readonly string[] } {
+-  if (!argv.includes(RESTATED)) return { given }
+-  const kind = kindNamed(given.root, RESTATED_KIND)
+-  if (kind === null) {
+-    return {
+-      refusals: [
+-        `${RESTATED} lands a \`${RESTATED_KIND}\` change, and no such kind is a page here`,
+-      ],
+-    }
+-  }
+-  return { given: { ...given, changeKind: kind } }
+-}
+-
+-function wasAt(root: string, path: string): Uint8Array | null {
+-  const held = bytesAt(join(root, path))
+-  return "bytes" in held ? held.bytes : null
+-}
+-
+-export function unrestatedFor(given: Given, changes: readonly FileEdit[]): readonly string[] {
+-  if (given.changeKind?.slug !== RESTATED_KIND) return []
+-  return unrestatedIn(
+-    given.root,
+-    changes.map((one) => ({ path: one.path, was: wasAt(given.root, one.path), now: one.body }))
+-  )
+-}
+-
+-export type Removing = {
+-  readonly changes: readonly FileEdit[]
+-  readonly taken: readonly string[]
+-  readonly base: string | null
+-  readonly mistaken: readonly string[]
+-  readonly wrong: readonly string[]
+-}
+-
+-export function removingIn(
+-  given: Given,
+-  removals: readonly string[],
+-  seen: Set<string>,
+-  both: (path: string) => string
+-): Removing {
+-  const base = removals.length === 0 ? null : baseOf(given.root)
+-  const changes: FileEdit[] = []
+-  const taken: string[] = []
+-  const mistaken: string[] = []
+-  const wrong: string[] = []
+-  for (const one of removals) {
+-    const path = pathAt(given.root, one)
+-    if (path === null) {
+-      mistaken.push(offRepo(one))
+-      continue
+-    }
+-    if (seen.has(path)) {
+-      mistaken.push(both(path))
+-      continue
+-    }
+-    seen.add(path)
+-    if (
+-      base !== null &&
+-      bodyAt(given.root, base, path) === null &&
+-      !existsSync(join(given.root, path))
+-    ) {
+-      wrong.push(`${REMOVE} ${path} is not there, so the removal would take nothing away`)
+-      continue
+-    }
+-    taken.push(path)
+-    changes.push({ path, body: null })
+-  }
+-  return { changes, taken, base, mistaken, wrong }
+-}
+-
+-export function besideTaken(
+-  given: Given,
+-  base: string | null,
+-  taken: readonly string[],
+-  seen: Set<string>
+-): readonly FileEdit[] {
+-  if (base === null) return []
+-  const changes: FileEdit[] = []
+-  for (const one of besideAll(resolve(given.root), taken)) {
+-    if (seen.has(one)) continue
+-    seen.add(one)
+-    changes.push({ path: one, body: null })
+-  }
+-  return changes
+-}
+-
+-type Pair = {
+-  readonly path: string
+-  readonly from: string | null
+-}
+-
+-type Read = {
+-  readonly pairs: readonly Pair[]
+-  readonly removals: readonly string[]
+-  readonly refusals: readonly string[]
+-}
+-
+-function readIn(argv: readonly string[]): Read {
+-  const pairs: Pair[] = []
+-  const removals: string[] = []
+-  const refusals: string[] = []
+-  let open: string | null = null
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const token = argv[at]
+-    if (token === undefined) continue
+-    if (token === FILE_PATH) {
+-      const value = argv[at + 1]
+-      if (value === undefined) {
+-        refusals.push(`${FILE_PATH} takes a path, and none follows it`)
+-        break
+-      }
+-      if (open !== null) {
+-        refusals.push(
+-          `${FILE_PATH} ${open} is closed by no ${CONTENT_FILE} before the next ${FILE_PATH}`
+-        )
+-      }
+-      open = value
+-      at += 1
+-      continue
+-    }
+-    if (token === CONTENT_FILE) {
+-      const value = argv[at + 1]
+-      if (value === undefined) {
+-        refusals.push(`${CONTENT_FILE} takes a file, and none follows it`)
+-        break
+-      }
+-      if (open === null) refusals.push(`${CONTENT_FILE} ${value} follows no ${FILE_PATH}`)
+-      else pairs.push({ path: open, from: value })
+-      open = null
+-      at += 1
+-      continue
+-    }
+-    if (token === REMOVE) {
+-      const value = argv[at + 1]
+-      if (value === undefined) {
+-        refusals.push(`${REMOVE} takes a path, and none follows it`)
+-        break
+-      }
+-      removals.push(value)
+-      at += 1
+-      continue
+-    }
+-    if (VALUED.includes(token)) at += 1
+-  }
+-  if (open !== null) pairs.push({ path: open, from: null })
+-  return { pairs, removals, refusals }
+-}
+-
+-export type Built = {
+-  readonly changes: readonly FileEdit[]
+-  readonly message: string
+-}
+-
+-export function builtIn(argv: readonly string[], given: Given, piping: Piping): Built | Answer {
+-  const unknown = unknownIn(argv, VALUED, BARE)
+-  if (unknown.length > 0) return mistaking(unknown)
+-  const read = readIn(argv)
+-  if (read.refusals.length > 0) return mistaking(read.refusals)
+-  if (read.pairs.length === 0 && read.removals.length === 0) {
+-    return mistaking([
+-      `this call names no ${FILE_PATH} to write and no ${REMOVE} to take away, so it asks for nothing`,
+-    ])
+-  }
+-  const glass = glassIn(argv, VALUED)
+-  if ("refusals" in glass) return mistaking(glass.refusals)
+-  const said = messageIn(argv, VALUED)
+-  if ("refusals" in said) return mistaking(said.refusals)
+-
+-  let piped: Uint8Array | null = null
+-  if (read.pairs.length > 0) {
+-    const wanted = read.pairs.find((one) => one.from === null)?.path ?? null
+-    const held = pipedIn(piping, wanted, {
+-      bare: (path) =>
+-        `${FILE_PATH} ${path} names no ${CONTENT_FILE}, so its body is read from the input,` +
+-        ` and nothing is piped in — say it as` +
+-        ` \`${given.calledAs} ${FILE_PATH} ${path} ${MESSAGE} <text> <<'EOF'\`,` +
+-        " then the body, then `EOF` on a line of its own",
+-      opening: (path, why) =>
+-        `the body for ${path} is read from the input, and the input would not open — ${why}`,
+-    })
+-    if ("refusals" in held) return mistaking(held.refusals)
+-    if ("bytes" in held) {
+-      const body = textOf(held.bytes)
+-      if (body !== null && markingIn(body)) {
+-        return mistaking([
+-          `the body piped in holds a line beginning with ${RUNS_SAID}, and a body like that` +
+-            ` is handed in at ${CONTENT_FILE} rather than piped in`,
+-        ])
+-      }
+-      piped = held.bytes
+-    }
+-  }
+-
+-  const mistaken: string[] = []
+-  const wrong: string[] = []
+-  const changes: FileEdit[] = []
+-  const seen = new Set<string>()
+-  for (const one of read.pairs) {
+-    const path = pathAt(given.root, one.path)
+-    if (path === null) {
+-      mistaken.push(offRepo(one.path))
+-      continue
+-    }
+-    const barred = barredIn(given.root, path)
+-    if (barred !== null) {
+-      mistaken.push(barred)
+-      continue
+-    }
+-    if (seen.has(path)) {
+-      mistaken.push(`${path} is named more than once by one call`)
+-      continue
+-    }
+-    seen.add(path)
+-    if (one.from === null) {
+-      changes.push({ path, body: piped ?? new Uint8Array() })
+-      continue
+-    }
+-    const held = bytesAt(one.from)
+-    if ("absent" in held) {
+-      mistaken.push(`${CONTENT_FILE} ${one.from} is not there, so ${path} has no body to write`)
+-      continue
+-    }
+-    if ("unreadable" in held) {
+-      mistaken.push(
+-        `${CONTENT_FILE} ${one.from} would not open, so ${path} has no body to write — ${held.unreadable}`
+-      )
+-      continue
+-    }
+-    changes.push({ path, body: held.bytes })
+-  }
+-  const removing = removingIn(
+-    given,
+-    read.removals,
+-    seen,
+-    (path) => `${path} is both written and taken away by one call`
+-  )
+-  changes.push(...removing.changes)
+-  mistaken.push(...removing.mistaken)
+-  wrong.push(...removing.wrong)
+-  wrong.push(...unwarrantedIn(given, changes))
+-  wrong.push(...unrestatedFor(given, changes))
+-  changes.push(...besideTaken(given, removing.base, removing.taken, seen))
+-  const troubled = troubling({ mistaken, wrong })
+-  if (troubled !== null) return troubled
+-  return {
+-    changes,
+-    message:
+-      said.message ??
+-      defaultMessage(
+-        "write",
+-        changes.map((one) => one.path)
+-      ),
+-  }
+-}
++import { inputIn } from "../../piping/piping.module.code.ts"
+ 
+ export async function writing(
+   argv: readonly string[],
+@@ -318,16 +24,6 @@ export async function writing(
+   })
+ }
+ 
+-export async function filing(
+-  argv: readonly string[],
+-  given: Given,
+-  piping: Piping
+-): Promise<Answer> {
+-  const built = builtIn(argv, given, piping)
+-  if ("code" in built) return built
+-  return await landedMechanically(given.root, given.calledAs, built.changes, built.message)
+-}
+-
+ export async function write(argv: readonly string[], given: Given): Promise<Answer> {
+   return await writing(argv, given, inputIn)
+ }
+diff --git a/command-system/commands/write/write.command.test.ts b/command-system/commands/write/write.command.test.ts
+index 37a22efb187ec0ed1243d9207dd6f7900df1f299..9209628719ac7c950a4490ed5e3b00b1815d737f 100644
+--- a/command-system/commands/write/write.command.test.ts
++++ b/command-system/commands/write/write.command.test.ts
+@@ -16,7 +16,8 @@ import {
+   wroteWith,
+ } from "../../asking/asking.module.test-fixtures.ts"
+ import { baseOf as headOf } from "../../landing/landing.module.code.ts"
+-import { filing, write, writing } from "./write.command.code.ts"
++import { filing } from "../../mechanical-filing/mechanical-filing.module.code.ts"
++import { write, writing } from "./write.command.code.ts"
+ import {
+   alsoCommitted,
+   readAs,
+diff --git a/command-system/file-arguing/file-arguing.module.code.ts b/command-system/file-arguing/file-arguing.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f10c928ca4751d2480d658c02fa5a1bfcf657e03
+--- /dev/null
++++ b/command-system/file-arguing/file-arguing.module.code.ts
+@@ -0,0 +1,290 @@
++import { existsSync } from "node:fs"
++import { join, resolve } from "node:path"
++import { besideAll } from "@akasha/pages/page-beside"
++import { BREAK_GLASS, bytesAt, mistaking, textOf, troubling } from "../asking/asking.module.code.ts"
++import { type Answer, type Given, kindNamed } from "../calling/calling.module.code.ts"
++import {
++  CONTENT_FILE,
++  FILE_PATH,
++  glassIn,
++  MESSAGE,
++  MESSAGE_FILE,
++  messageIn,
++  REMOVE,
++  unknownIn,
++} from "../command-flags/command-flags.module.code.ts"
++import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
++import type { FileEdit } from "../landing/landing.module.code.ts"
++import { baseOf } from "../landing/landing.module.code.ts"
++import { defaultMessage } from "../landing-saying/landing-saying.module.code.ts"
++import type { Piping } from "../piping/piping.module.code.ts"
++import { markingIn, pipedIn, RUNS_SAID } from "../piping/piping.module.code.ts"
++import { unrestatedIn } from "../restating/restating.module.code.ts"
++import { barredIn, offRepo, pathAt } from "../said-pathing/said-pathing.module.code.ts"
++import { unwarrantedIn } from "../warrant-owing/warrant-owing.module.code.ts"
++
++export const RESTATED = "--restated"
++
++export const RESTATED_KIND = "change-restated"
++
++export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
++
++const BARE: readonly string[] = [RESTATED]
++
++export function restatedIn(
++  argv: readonly string[],
++  given: Given
++): { readonly given: Given } | { readonly refusals: readonly string[] } {
++  if (!argv.includes(RESTATED)) return { given }
++  const kind = kindNamed(given.root, RESTATED_KIND)
++  if (kind === null) {
++    return {
++      refusals: [
++        `${RESTATED} lands a \`${RESTATED_KIND}\` change, and no such kind is a page here`,
++      ],
++    }
++  }
++  return { given: { ...given, changeKind: kind } }
++}
++
++function wasAt(root: string, path: string): Uint8Array | null {
++  const held = bytesAt(join(root, path))
++  return "bytes" in held ? held.bytes : null
++}
++
++export function unrestatedFor(given: Given, changes: readonly FileEdit[]): readonly string[] {
++  if (given.changeKind?.slug !== RESTATED_KIND) return []
++  return unrestatedIn(
++    given.root,
++    changes.map((one) => ({ path: one.path, was: wasAt(given.root, one.path), now: one.body }))
++  )
++}
++
++export type Removing = {
++  readonly changes: readonly FileEdit[]
++  readonly taken: readonly string[]
++  readonly base: string | null
++  readonly mistaken: readonly string[]
++  readonly wrong: readonly string[]
++}
++
++export function removingIn(
++  given: Given,
++  removals: readonly string[],
++  seen: Set<string>,
++  both: (path: string) => string
++): Removing {
++  const base = removals.length === 0 ? null : baseOf(given.root)
++  const changes: FileEdit[] = []
++  const taken: string[] = []
++  const mistaken: string[] = []
++  const wrong: string[] = []
++  for (const one of removals) {
++    const path = pathAt(given.root, one)
++    if (path === null) {
++      mistaken.push(offRepo(one))
++      continue
++    }
++    if (seen.has(path)) {
++      mistaken.push(both(path))
++      continue
++    }
++    seen.add(path)
++    if (
++      base !== null &&
++      bodyAt(given.root, base, path) === null &&
++      !existsSync(join(given.root, path))
++    ) {
++      wrong.push(`${REMOVE} ${path} is not there, so the removal would take nothing away`)
++      continue
++    }
++    taken.push(path)
++    changes.push({ path, body: null })
++  }
++  return { changes, taken, base, mistaken, wrong }
++}
++
++export function besideTaken(
++  given: Given,
++  base: string | null,
++  taken: readonly string[],
++  seen: Set<string>
++): readonly FileEdit[] {
++  if (base === null) return []
++  const changes: FileEdit[] = []
++  for (const one of besideAll(resolve(given.root), taken)) {
++    if (seen.has(one)) continue
++    seen.add(one)
++    changes.push({ path: one, body: null })
++  }
++  return changes
++}
++
++type Pair = {
++  readonly path: string
++  readonly from: string | null
++}
++
++type Read = {
++  readonly pairs: readonly Pair[]
++  readonly removals: readonly string[]
++  readonly refusals: readonly string[]
++}
++
++function readIn(argv: readonly string[]): Read {
++  const pairs: Pair[] = []
++  const removals: string[] = []
++  const refusals: string[] = []
++  let open: string | null = null
++  for (let at = 0; at < argv.length; at += 1) {
++    const token = argv[at]
++    if (token === undefined) continue
++    if (token === FILE_PATH) {
++      const value = argv[at + 1]
++      if (value === undefined) {
++        refusals.push(`${FILE_PATH} takes a path, and none follows it`)
++        break
++      }
++      if (open !== null) {
++        refusals.push(
++          `${FILE_PATH} ${open} is closed by no ${CONTENT_FILE} before the next ${FILE_PATH}`
++        )
++      }
++      open = value
++      at += 1
++      continue
++    }
++    if (token === CONTENT_FILE) {
++      const value = argv[at + 1]
++      if (value === undefined) {
++        refusals.push(`${CONTENT_FILE} takes a file, and none follows it`)
++        break
++      }
++      if (open === null) refusals.push(`${CONTENT_FILE} ${value} follows no ${FILE_PATH}`)
++      else pairs.push({ path: open, from: value })
++      open = null
++      at += 1
++      continue
++    }
++    if (token === REMOVE) {
++      const value = argv[at + 1]
++      if (value === undefined) {
++        refusals.push(`${REMOVE} takes a path, and none follows it`)
++        break
++      }
++      removals.push(value)
++      at += 1
++      continue
++    }
++    if (VALUED.includes(token)) at += 1
++  }
++  if (open !== null) pairs.push({ path: open, from: null })
++  return { pairs, removals, refusals }
++}
++
++export type Built = {
++  readonly changes: readonly FileEdit[]
++  readonly message: string
++}
++
++export function builtIn(argv: readonly string[], given: Given, piping: Piping): Built | Answer {
++  const unknown = unknownIn(argv, VALUED, BARE)
++  if (unknown.length > 0) return mistaking(unknown)
++  const read = readIn(argv)
++  if (read.refusals.length > 0) return mistaking(read.refusals)
++  if (read.pairs.length === 0 && read.removals.length === 0) {
++    return mistaking([
++      `this call names no ${FILE_PATH} to write and no ${REMOVE} to take away, so it asks for nothing`,
++    ])
++  }
++  const glass = glassIn(argv, VALUED)
++  if ("refusals" in glass) return mistaking(glass.refusals)
++  const said = messageIn(argv, VALUED)
++  if ("refusals" in said) return mistaking(said.refusals)
++
++  let piped: Uint8Array | null = null
++  if (read.pairs.length > 0) {
++    const wanted = read.pairs.find((one) => one.from === null)?.path ?? null
++    const held = pipedIn(piping, wanted, {
++      bare: (path) =>
++        `${FILE_PATH} ${path} names no ${CONTENT_FILE}, so its body is read from the input,` +
++        ` and nothing is piped in — say it as` +
++        ` \`${given.calledAs} ${FILE_PATH} ${path} ${MESSAGE} <text> <<'EOF'\`,` +
++        " then the body, then `EOF` on a line of its own",
++      opening: (path, why) =>
++        `the body for ${path} is read from the input, and the input would not open — ${why}`,
++    })
++    if ("refusals" in held) return mistaking(held.refusals)
++    if ("bytes" in held) {
++      const body = textOf(held.bytes)
++      if (body !== null && markingIn(body)) {
++        return mistaking([
++          `the body piped in holds a line beginning with ${RUNS_SAID}, and a body like that` +
++            ` is handed in at ${CONTENT_FILE} rather than piped in`,
++        ])
++      }
++      piped = held.bytes
++    }
++  }
++
++  const mistaken: string[] = []
++  const wrong: string[] = []
++  const changes: FileEdit[] = []
++  const seen = new Set<string>()
++  for (const one of read.pairs) {
++    const path = pathAt(given.root, one.path)
++    if (path === null) {
++      mistaken.push(offRepo(one.path))
++      continue
++    }
++    const barred = barredIn(given.root, path)
++    if (barred !== null) {
++      mistaken.push(barred)
++      continue
++    }
++    if (seen.has(path)) {
++      mistaken.push(`${path} is named more than once by one call`)
++      continue
++    }
++    seen.add(path)
++    if (one.from === null) {
++      changes.push({ path, body: piped ?? new Uint8Array() })
++      continue
++    }
++    const held = bytesAt(one.from)
++    if ("absent" in held) {
++      mistaken.push(`${CONTENT_FILE} ${one.from} is not there, so ${path} has no body to write`)
++      continue
++    }
++    if ("unreadable" in held) {
++      mistaken.push(
++        `${CONTENT_FILE} ${one.from} would not open, so ${path} has no body to write — ${held.unreadable}`
++      )
++      continue
++    }
++    changes.push({ path, body: held.bytes })
++  }
++  const removing = removingIn(
++    given,
++    read.removals,
++    seen,
++    (path) => `${path} is both written and taken away by one call`
++  )
++  changes.push(...removing.changes)
++  mistaken.push(...removing.mistaken)
++  wrong.push(...removing.wrong)
++  wrong.push(...unwarrantedIn(given, changes))
++  wrong.push(...unrestatedFor(given, changes))
++  changes.push(...besideTaken(given, removing.base, removing.taken, seen))
++  const troubled = troubling({ mistaken, wrong })
++  if (troubled !== null) return troubled
++  return {
++    changes,
++    message:
++      said.message ??
++      defaultMessage(
++        "write",
++        changes.map((one) => one.path)
++      ),
++  }
++}
+diff --git a/command-system/file-arguing/file-arguing.module.test.ts b/command-system/file-arguing/file-arguing.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0865bfd36a9ea704f146a41d9514459f70cab9c2
+--- /dev/null
++++ b/command-system/file-arguing/file-arguing.module.test.ts
+@@ -0,0 +1,96 @@
++import { expect, test } from "bun:test"
++import { put } from "@akasha/testing-system/putting"
++import type { Given } from "../calling/calling.module.code.ts"
++import type { Piping } from "../piping/piping.module.code.ts"
++import { TERMINAL } from "../piping/piping.module.test-fixtures.ts"
++import { scratchWorld } from "../scratching/scratching.module.code.ts"
++import { builtIn } from "./file-arguing.module.code.ts"
++
++const scratch = scratchWorld()
++
++const BODY = "export const held = 1\n"
++
++function givenIn(root: string): Given {
++  return { root, calledAs: "akasha tracking", from: root, writer: null, agentId: null }
++}
++
++function refusedBy(argv: readonly string[], root = "/repo", piping: Piping = TERMINAL): string {
++  const said = builtIn(argv, givenIn(root), piping)
++  return "code" in said ? said.refusals.join("\n") : ""
++}
++
++test("a call naming no file to write and no path to take away is refused", () => {
++  expect(refusedBy([])).toContain("asks for nothing")
++})
++
++test("a flag this reading does not take is refused", () => {
++  expect(refusedBy(["--nowhere"])).toContain("--nowhere")
++})
++
++test("a --file-path with nothing after it is refused", () => {
++  expect(refusedBy(["--file-path"])).toContain("takes a path, and none follows it")
++})
++
++test("a --content-file following no --file-path is refused", () => {
++  expect(refusedBy(["--content-file", "body.txt"])).toContain("follows no --file-path")
++})
++
++test("a second --file-path opening before the first is closed is refused", () => {
++  const said = refusedBy(["--file-path", "akasha/one.ts", "--file-path", "akasha/two.ts"])
++  expect(said).toContain("is closed by no --content-file")
++})
++
++test("a --file-path that no --content-file closes and nothing piped in is refused", () => {
++  expect(refusedBy(["--file-path", "akasha/one.ts"])).toContain("nothing is piped in")
++})
++
++test("the body for a file is read from the file --content-file names", () => {
++  const root = scratch.rootFor("akasha-file-arguing-")
++  const from = put(root, "body.txt", BODY)
++  const said = builtIn(
++    ["--file-path", "akasha/one.ts", "--content-file", from],
++    givenIn(root),
++    TERMINAL
++  )
++  expect("code" in said).toBe(false)
++  if ("code" in said) return
++  expect(said.changes).toEqual([{ path: "akasha/one.ts", body: new TextEncoder().encode(BODY) }])
++})
++
++test("a commit message worked out from the paths names the path written", () => {
++  const root = scratch.rootFor("akasha-file-arguing-")
++  const from = put(root, "body.txt", BODY)
++  const said = builtIn(
++    ["--file-path", "akasha/one.ts", "--content-file", from],
++    givenIn(root),
++    TERMINAL
++  )
++  if ("code" in said) return
++  expect(said.message).toBe("write akasha/one.ts")
++})
++
++test("a path outside the repository is refused", () => {
++  const root = scratch.rootFor("akasha-file-arguing-")
++  const from = put(root, "body.txt", BODY)
++  const said = refusedBy(["--file-path", "../one.ts", "--content-file", from], root)
++  expect(said).toContain("is no path inside the repository")
++})
++
++test("a path named more than once by one call is refused", () => {
++  const root = scratch.rootFor("akasha-file-arguing-")
++  const from = put(root, "body.txt", BODY)
++  const said = refusedBy(
++    [
++      "--file-path",
++      "akasha/one.ts",
++      "--content-file",
++      from,
++      "--file-path",
++      "akasha/one.ts",
++      "--content-file",
++      from,
++    ],
++    root
++  )
++  expect(said).toContain("is named more than once by one call")
++})
+diff --git a/command-system/file-arguing/file-arguing.module.ts b/command-system/file-arguing/file-arguing.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b6bf87c96f860ccbe5c247024a9c64ecd9a8eaf6
+--- /dev/null
++++ b/command-system/file-arguing/file-arguing.module.ts
+@@ -0,0 +1,92 @@
++import type { Module } from "@akasha/code/module"
++
++export const fileArguing = {
++  id: "01a07bd4-e969-7d84-be28-cfc9777fb405",
++  pageTypeSlug: "module",
++  slug: "file-arguing",
++  definition: "the files a command line names, and the body each file is left with",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A file to write is named at `--file-path`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body for that file is read from the file `--content-file` names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A `--file-path` that no `--content-file` closes is given the body piped in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A second `--file-path` opening before the first is closed is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A `--content-file` following no `--file-path` is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path named at `--remove` is left with no body at all.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path `--remove` names that no commit and no working tree holds is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file beside a path taken away is taken away with that path.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path named more than once by one call is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path both written and taken away by one call is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path outside the repository is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path the repository bars is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body piped in that opens a line with the payload marker is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A call naming no file to write and no path to take away is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The readings the writer owes are answered as faults of the call.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A commit message is read from the command line or worked out from the paths.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "`--restated` names the change kind a restatement lands under.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A change kind no page here declares refuses the call.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here lands or commits.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here judges a body.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/command-system/mechanical-filing/mechanical-filing.module.code.ts b/command-system/mechanical-filing/mechanical-filing.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..63323b3ab5c13f06594ae844f9cb21e34b22069f
+--- /dev/null
++++ b/command-system/mechanical-filing/mechanical-filing.module.code.ts
+@@ -0,0 +1,14 @@
++import { landedMechanically } from "../asking/asking.module.code.ts"
++import type { Answer, Given } from "../calling/calling.module.code.ts"
++import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
++import type { Piping } from "../piping/piping.module.code.ts"
++
++export async function filing(
++  argv: readonly string[],
++  given: Given,
++  piping: Piping
++): Promise<Answer> {
++  const built = builtIn(argv, given, piping)
++  if ("code" in built) return built
++  return await landedMechanically(given.root, given.calledAs, built.changes, built.message)
++}
+diff --git a/command-system/mechanical-filing/mechanical-filing.module.test.ts b/command-system/mechanical-filing/mechanical-filing.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c4d2bff52e2815685281f815a16039d1eebde1da
+--- /dev/null
++++ b/command-system/mechanical-filing/mechanical-filing.module.test.ts
+@@ -0,0 +1,24 @@
++import { expect, test } from "bun:test"
++import type { Given } from "../calling/calling.module.code.ts"
++import { TERMINAL } from "../piping/piping.module.test-fixtures.ts"
++import { filing } from "./mechanical-filing.module.code.ts"
++
++const GIVEN: Given = {
++  root: "/repo",
++  calledAs: "akasha track",
++  from: "/repo",
++  writer: null,
++  agentId: null,
++}
++
++test("a refusal the reading answers with is passed back untouched", async () => {
++  const said = await filing([], GIVEN, TERMINAL)
++  expect(said.code).toBe(1)
++  expect(said.refusals.join("\n")).toContain("asks for nothing")
++})
++
++test("a call refused lands nothing and reports nothing", async () => {
++  const said = await filing(["--content-file", "body.txt"], GIVEN, TERMINAL)
++  expect(said.code).toBe(1)
++  expect(said.report).toEqual([])
++})
+diff --git a/command-system/mechanical-filing/mechanical-filing.module.ts b/command-system/mechanical-filing/mechanical-filing.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5b717db5879d4e32db4e954a3feadce75fb0db9e
+--- /dev/null
++++ b/command-system/mechanical-filing/mechanical-filing.module.ts
+@@ -0,0 +1,40 @@
++import type { Module } from "@akasha/code/module"
++
++export const mechanicalFiling = {
++  id: "01a07bdb-21d1-719a-b4d8-4208b5776792",
++  pageTypeSlug: "module",
++  slug: "mechanical-filing",
++  definition: "the files a command line names, landed with no gate run over the bodies",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The files a command line names are read by `file-arguing` rather than here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A refusal the reading answers with is passed back untouched.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The bodies read are landed as a mechanical landing lands.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "No check runs over a body landed here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The name the caller was called as is said in the commit.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here drafts into a patch.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Which callers may land this way is settled elsewhere.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/command-system/piping/piping.module.test-fixtures.ts b/command-system/piping/piping.module.test-fixtures.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cbc6281c3e282c00d042720c502671cc4c4a728d
+--- /dev/null
++++ b/command-system/piping/piping.module.test-fixtures.ts
+@@ -0,0 +1,3 @@
++import type { Piping } from "./piping.module.code.ts"
++
++export const TERMINAL: Piping = () => ({ tty: true })
+diff --git a/command-system/piping/piping.module.test.ts b/command-system/piping/piping.module.test.ts
+index 47216b583ac33409ede9dbf27984ca29855839a5..f0421c2821bdf69d4189545033f9fd8e58dd99b2 100644
+--- a/command-system/piping/piping.module.test.ts
++++ b/command-system/piping/piping.module.test.ts
+@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
+ import { ran } from "@akasha/utils-run/running"
+ import type { Piping } from "./piping.module.code.ts"
+ import { markedLine, markingIn, passagesIn, pipedIn } from "./piping.module.code.ts"
++import { TERMINAL } from "./piping.module.test-fixtures.ts"
+ 
+ const INSTEAD = "`--old-file` and `--new-file`"
+ 
+@@ -65,9 +66,8 @@ test("bytes piped in are handed to whoever wants a body", () => {
+ })
+ 
+ test("a terminal and an input holding no byte are both nothing piped in", () => {
+-  const terminal: Piping = () => ({ tty: true })
+   const empty: Piping = () => ({ bytes: new Uint8Array() })
+-  for (const one of [terminal, empty]) {
++  for (const one of [TERMINAL, empty]) {
+     const held = pipedIn(one, "akasha/one.ts", SAYING)
+     expect("refusals" in held && held.refusals[0]).toBe("nothing is piped in for akasha/one.ts")
+   }
+diff --git a/command-system/piping/piping.module.ts b/command-system/piping/piping.module.ts
+index b74783a7b227ddfd702db9f1f560a2b714d27358..b12ca85b87f3071aa9d95f5980e598b465abb404 100644
+--- a/command-system/piping/piping.module.ts
++++ b/command-system/piping/piping.module.ts
+@@ -7,6 +7,7 @@ export const piping = {
+   definition: "what a command is handed on standard input",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
