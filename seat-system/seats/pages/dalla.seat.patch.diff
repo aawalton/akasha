@@ -1,304 +1,342 @@
 writerOwesReading: false
-diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
-index c56ae1e8b7a161b5dcc2be22465cec70bafd3648..fc14c9ec610498b588fe2e489fe2fcc30f9d9fac 100644
---- a/command-system/command-system.workspace-package.ts
-+++ b/command-system/command-system.workspace-package.ts
-@@ -64,6 +64,8 @@ export const commandSystem = {
-     "module/seat-act-calling",
-     "module/command-flags",
-     "module/said-pathing",
-+    "module/warrant-owing",
-+    "module/passage-counting",
-   ],
-   invariants: [
-     {
-diff --git a/command-system/commands/edit/edit.command.code.ts b/command-system/commands/edit/edit.command.code.ts
-index b34327a0e4cf9dbd4c0adf4a04407079fd4a71d5..3f5db0cd49190ab5a91b7ec3d2656e8d6f0d4a71 100644
---- a/command-system/commands/edit/edit.command.code.ts
-+++ b/command-system/commands/edit/edit.command.code.ts
-@@ -21,6 +21,7 @@ import {
- } from "../../command-flags/command-flags.module.code.ts"
- import type { FileEdit } from "../../landing/landing.module.code.ts"
- import { defaultMessage } from "../../landing-saying/landing-saying.module.code.ts"
-+import { counted } from "../../passage-counting/passage-counting.module.code.ts"
- import type { Piping } from "../../piping/piping.module.code.ts"
- import {
-   inputIn,
-@@ -32,13 +33,13 @@ import {
-   pipedIn,
- } from "../../piping/piping.module.code.ts"
- import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
-+import { unwarrantedIn } from "../../warrant-owing/warrant-owing.module.code.ts"
- import {
-   besideTaken,
-   RESTATED,
-   removingIn,
-   restatedIn,
-   unrestatedFor,
--  unwarrantedIn,
- } from "../write/write.command.code.ts"
+diff --git a/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts b/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts
+index c2f8197ea6d5910189c06d99c41e9e1937f9bad5..dd42e945ab397e3f7c3cdc5f17a56fd386f958a7 100644
+--- a/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts
+@@ -1,4 +1,4 @@
+-import { basename, join, resolve } from "node:path"
++import { resolve } from "node:path"
+ import { rootOf } from "@akasha/command-system/rooting"
+ import { dataAt, dataIn } from "@akasha/file-system/data-place"
+ import { asRecord } from "@akasha/utils-narrow/as-record"
+@@ -12,10 +12,6 @@ const UNREADABLE = 5
  
- const OLD_FILE = "--old-file"
-@@ -166,16 +167,6 @@ function askingIn(read: Read, given: Given, piping: Piping): Askings {
-   return { asking: [...read.asking, { path, stated }] }
+ const REFUSED = 2
+ 
+-const HOLD = "/var/tmp"
+-
+-const UNNAMED = "unnamed"
+-
+ const WRITE = "Write"
+ 
+ const EDIT = "Edit"
+@@ -67,10 +63,6 @@ export type Guarded = {
+   readonly index: string
  }
  
--export function counted(body: string, said: string): number {
--  let found = 0
--  let at = body.indexOf(said)
--  while (at !== -1) {
--    found += 1
--    at = body.indexOf(said, at + said.length)
+-export function holdingIn(agentId: string): string {
+-  return join(HOLD, agentId.trim() === "" ? UNNAMED : agentId.trim())
+-}
+-
+ export function guardedIn(root: string): Guarded {
+   return { pages: settled(root), index: settled(dataIn(root)) }
+ }
+@@ -93,7 +85,7 @@ export function askedIn(raw: string): Asked | null {
+   }
+ }
+ 
+-function refusingPages(toolName: string, shown: string, name: string, held: string): string {
++function refusingPages(toolName: string, shown: string): string {
+   if (toolName === NOTEBOOK_EDIT) {
+     return [
+       `${HOOK_NAME}: NotebookEdit lands on \`${shown}\`, inside this checkout.`,
+@@ -102,19 +94,26 @@ function refusingPages(toolName: string, shown: string, name: string, held: stri
+   }
+   const commands = "The akasha commands write this checkout — they check the change and commit it."
+   const why = '--message "<what this change is for>"'
+-  const bound = `nothing outside this checkout is refused here, and \`${HOLD}\` is outside it.`
+   if (toolName === EDIT) {
+-    const was = join(held, `${HOOK_NAME}-${name}.old`)
+-    const now = join(held, `${HOOK_NAME}-${name}.new`)
+     return [
+       `${HOOK_NAME}: Edit lands on \`${shown}\`, inside this checkout.`,
+       commands,
+       "",
+-      `Put the text you are replacing in ${was}, and the text replacing it in ${now}, then run:`,
++      "Pipe the passage being replaced and the passage replacing it into the change:",
++      "",
++      "akasha change change-file <<'ARGS'",
++      `at: ${shown}`,
++      "old ---",
++      "<the passage being replaced>",
++      "---",
++      "new ---",
++      "<the passage replacing it>",
++      "---",
++      "ARGS",
+       "",
+-      `  akasha edit --file-path ${shown} --old-file ${was} --new-file ${now} ${why}`,
++      `  akasha apply ${why}`,
+       "",
+-      `Use Write for those two files — ${bound}`,
++      "A passage ending mid-line opens with `old --- no-newline`, because a heredoc adds one.",
+     ].join("\n")
+   }
+   return [
+@@ -145,12 +144,7 @@ function refusingIndex(toolName: string, shown: string): string {
+   ].join("\n")
+ }
+ 
+-export function refusalFor(
+-  asked: Asked,
+-  root: string,
+-  fallback: string,
+-  held: string
+-): string | null {
++export function refusalFor(asked: Asked, root: string, fallback: string): string | null {
+   if (!JUDGED.includes(asked.toolName)) return null
+   if (asked.filePath.trim() === "") return null
+   const from = asked.from === "" ? fallback : asked.from
+@@ -158,9 +152,7 @@ export function refusalFor(
+   const here = settled(root)
+   const guarded = guardedIn(here)
+   if (insideOf(guarded.index, at)) return refusingIndex(asked.toolName, shownIn(here, at))
+-  if (insideOf(guarded.pages, at)) {
+-    return refusingPages(asked.toolName, shownIn(here, at), basename(at), held)
 -  }
--  return found
--}
--
- export function substituted(body: string, said: string, put: string): string {
-   const at = body.indexOf(said)
-   return body.slice(0, at) + put + body.slice(at + said.length)
-diff --git a/command-system/commands/replace/replace.command.code.ts b/command-system/commands/replace/replace.command.code.ts
-index eb30e0ece20820b2f9d97631c1c6de0b5c235f0d..e5fceceffae48a3006afe834dbbc74cc5cda292f 100644
---- a/command-system/commands/replace/replace.command.code.ts
-+++ b/command-system/commands/replace/replace.command.code.ts
-@@ -23,6 +23,7 @@ import {
- } from "../../command-flags/command-flags.module.code.ts"
- import type { FileEdit } from "../../landing/landing.module.code.ts"
- import { defaultMessage } from "../../landing-saying/landing-saying.module.code.ts"
-+import { counted as countedIn } from "../../passage-counting/passage-counting.module.code.ts"
- import type { Piping } from "../../piping/piping.module.code.ts"
- import {
-   inputIn,
-@@ -34,8 +35,7 @@ import {
-   pipedIn,
- } from "../../piping/piping.module.code.ts"
- import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
--import { counted as countedIn } from "../edit/edit.command.code.ts"
--import { unwarrantedIn } from "../write/write.command.code.ts"
-+import { unwarrantedIn } from "../../warrant-owing/warrant-owing.module.code.ts"
++  if (insideOf(guarded.pages, at)) return refusingPages(asked.toolName, shownIn(here, at))
+   return null
+ }
  
- const OLD_FILE = "--old-file"
- 
-diff --git a/command-system/commands/write/write.command.code.ts b/command-system/commands/write/write.command.code.ts
-index a7513dfd1ec526127c96057524427213daeb65de..9faebadfd42e20b5dfdabe62b38855bb473d53eb 100644
---- a/command-system/commands/write/write.command.code.ts
-+++ b/command-system/commands/write/write.command.code.ts
-@@ -1,6 +1,5 @@
- import { existsSync } from "node:fs"
- import { join, resolve } from "node:path"
--import { changingOf, owedIn } from "@akasha/context/warranting"
- import { besideAll } from "@akasha/pages/page-beside"
- import {
-   BREAK_GLASS,
-@@ -31,6 +30,7 @@ import type { Piping } from "../../piping/piping.module.code.ts"
- import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
- import { unrestatedIn } from "../../restating/restating.module.code.ts"
- import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
-+import { unwarrantedIn } from "../../warrant-owing/warrant-owing.module.code.ts"
- 
- export const RESTATED = "--restated"
- 
-@@ -40,16 +40,6 @@ export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, B
- 
- const BARE: readonly string[] = [RESTATED]
- 
--export function unwarrantedIn(given: Given, changes: readonly FileEdit[]): readonly string[] {
--  if (given.changeKind?.writerOwesReading === false) return []
--  return owedIn(
--    given.root,
--    given.agentId,
--    changes.map((one) => one.path),
--    changingOf(given.root, changes)
+@@ -178,12 +170,7 @@ async function main(): Promise<number> {
+     )
+     return UNREADABLE
+   }
+-  const said = refusalFor(
+-    asked,
+-    rootOf(import.meta.path),
+-    process.cwd(),
+-    holdingIn(process.env["AGENT_ID"] ?? "")
 -  )
--}
++  const said = refusalFor(asked, rootOf(import.meta.path), process.cwd())
+   if (said === null) return 0
+   process.stderr.write(`${said}\n`)
+   process.stdout.write(`${JSON.stringify({ decision: "block", reason: said }, null, 2)}\n`)
+diff --git a/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.test.ts b/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.test.ts
+index a53bee407b16922b3210d0228e740436bb5f0e34..0bf35fa88128101ba55ec2ada96ba4af4ca43829 100644
+--- a/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.test.ts
++++ b/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.test.ts
+@@ -6,7 +6,7 @@ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { dataAt } from "@akasha/file-system/data-place"
+ import { ran } from "@akasha/utils-run/running"
+ import { insideOf, settled } from "../../settling/settling.module.code.ts"
+-import { askedIn, holdingIn, refusalFor, SCOPE } from "./block-akasha-edits.agent-hook.code.ts"
++import { askedIn, refusalFor, SCOPE } from "./block-akasha-edits.agent-hook.code.ts"
+ 
+ const HERE = rootOf(import.meta.path)
+ 
+@@ -32,7 +32,7 @@ function asking(toolName: string, filePath: string, from: string) {
+ }
+ 
+ function judged(root: string, filePath: string, from = root): string | null {
+-  return refusalFor(asking("Write", filePath, from), root, root, HELD)
++  return refusalFor(asking("Write", filePath, from), root, root)
+ }
+ 
+ test("every spelling of one path inside akasha is the same refusal", () => {
+@@ -74,7 +74,7 @@ test("the repository root reached through a symlink is the same root", () => {
+   const root = repo()
+   const near = join(realpathSync(scratch.rootFor("block-akasha-edits-link-")), "repo")
+   symlinkSync(root, near)
+-  const said = refusalFor(asking("Write", "akasha/held.ts", near), near, near, HELD)
++  const said = refusalFor(asking("Write", "akasha/held.ts", near), near, near)
+   expect(said).toContain("at: akasha/held.ts")
+ })
+ 
+@@ -88,8 +88,8 @@ test("a folder beside the checkout whose name opens with the checkout's own is l
+ test("a temp file outside the guarded roots is written as usual", () => {
+   const root = repo()
+   expect(judged(root, "/var/tmp/block-akasha-edits-body.txt")).toBeNull()
+-  expect(refusalFor(asking("Edit", "/var/tmp/held.old", root), root, root, HELD)).toBeNull()
+-  expect(refusalFor(asking("Write", "/var/tmp/held.new", "/var/tmp"), root, root, HELD)).toBeNull()
++  expect(refusalFor(asking("Edit", "/var/tmp/held.old", root), root, root)).toBeNull()
++  expect(refusalFor(asking("Write", "/var/tmp/held.new", "/var/tmp"), root, root)).toBeNull()
+ })
+ 
+ test("a path under `.git/data` is refused, and names the one repair", () => {
+@@ -115,10 +115,8 @@ test("a relative path is resolved against the working directory the call was mad
+ 
+ test("a call stating no working directory falls back to the one given", () => {
+   const root = repo()
+-  expect(
+-    refusalFor(asking("Write", "held.ts", ""), root, join(root, "akasha"), HELD)
+-  ).not.toBeNull()
+-  expect(refusalFor(asking("Write", "held.ts", ""), root, "/var/tmp", HELD)).toBeNull()
++  expect(refusalFor(asking("Write", "held.ts", ""), root, join(root, "akasha"))).not.toBeNull()
++  expect(refusalFor(asking("Write", "held.ts", ""), root, "/var/tmp")).toBeNull()
+ })
+ 
+ test("a call carrying no path is stood aside", () => {
+@@ -128,18 +126,8 @@ test("a call carrying no path is stood aside", () => {
+ 
+ test("a tool this hook does not name is stood aside", () => {
+   const root = repo()
+-  expect(refusalFor(asking("Read", "akasha/held.ts", root), root, root, HELD)).toBeNull()
+-  expect(refusalFor(asking("Bash", "akasha/held.ts", root), root, root, HELD)).toBeNull()
+-})
 -
- export function restatedIn(
-   argv: readonly string[],
-   given: Given
-diff --git a/command-system/passage-counting/passage-counting.module.code.ts b/command-system/passage-counting/passage-counting.module.code.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..4aef0d05dcfa6139ed8e29cd242dbf873a753ccc
---- /dev/null
-+++ b/command-system/passage-counting/passage-counting.module.code.ts
-@@ -0,0 +1,9 @@
-+export function counted(body: string, said: string): number {
-+  let found = 0
-+  let at = body.indexOf(said)
-+  while (at !== -1) {
-+    found += 1
-+    at = body.indexOf(said, at + said.length)
-+  }
-+  return found
-+}
-diff --git a/command-system/passage-counting/passage-counting.module.test.ts b/command-system/passage-counting/passage-counting.module.test.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..0f294166ea4e00426f52f43c4734a7b9de349c2d
---- /dev/null
-+++ b/command-system/passage-counting/passage-counting.module.test.ts
-@@ -0,0 +1,22 @@
-+import { expect, test } from "bun:test"
-+import { counted } from "./passage-counting.module.code.ts"
-+
-+test("a body holding the passage nowhere is answered with none", () => {
-+  expect(counted("held\n", "gone")).toBe(0)
+-test("the body a write is staged in sits under the agent's own folder", () => {
+-  expect(holdingIn("01a0-seat")).toBe("/var/tmp/01a0-seat")
+-  expect(holdingIn("  01a0-seat  ")).toBe("/var/tmp/01a0-seat")
+-})
+-
+-test("an agent that states no name is held apart from one that does", () => {
+-  expect(holdingIn("")).toBe("/var/tmp/unnamed")
+-  expect(holdingIn("   ")).toBe("/var/tmp/unnamed")
++  expect(refusalFor(asking("Read", "akasha/held.ts", root), root, root)).toBeNull()
++  expect(refusalFor(asking("Bash", "akasha/held.ts", root), root, root)).toBeNull()
+ })
+ 
+ test("Write names the change carrying a whole body, and the apply landing it", () => {
+@@ -155,13 +143,19 @@ test("Write names no file the body is staged in", () => {
+   expect(judged(root, "akasha/held.ts")).not.toContain(HELD)
+ })
+ 
+-test("Edit names the edit command with both files filled in", () => {
++test("Edit names the change replacing one passage, and the apply landing it", () => {
++  const root = repo()
++  const said = refusalFor(asking("Edit", "akasha/held.ts", root), root, root) ?? ""
++  expect(said).toContain("akasha change change-file")
++  expect(said).toContain("at: akasha/held.ts")
++  expect(said).toContain("old ---")
++  expect(said).toContain("new ---")
++  expect(said).toContain('akasha apply --message "<what this change is for>"')
 +})
 +
-+test("a passage in a body once is counted once", () => {
-+  expect(counted("one held two\n", "held")).toBe(1)
-+})
-+
-+test("a passage in a body twice is counted twice", () => {
-+  expect(counted("held and held\n", "held")).toBe(2)
-+})
-+
-+test("a passage is matched as the characters that passage holds rather than as a pattern", () => {
-+  expect(counted("a.c and abc\n", "a.c")).toBe(1)
-+})
-+
-+test("a second occurrence overlapping the first is passed over", () => {
-+  expect(counted("aaaa", "aa")).toBe(2)
-+})
-diff --git a/command-system/passage-counting/passage-counting.module.ts b/command-system/passage-counting/passage-counting.module.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..52b22bb56e317805579a3ee83316c4286da0c78c
---- /dev/null
-+++ b/command-system/passage-counting/passage-counting.module.ts
-@@ -0,0 +1,38 @@
-+import type { Module } from "@akasha/code/module"
-+
-+export const passageCounting = {
-+  id: "01a07bd4-e969-78b4-bff1-0256ba1a2c30",
-+  pageTypeSlug: "module",
-+  slug: "passage-counting",
-+  definition: "how many times a literal passage is in a body",
-+  code: "ts",
-+  test: "ts",
-+  invariants: [
-+    {
-+      invariantKind: "departure",
-+      statement:
-+        "A passage is matched as the characters that passage holds rather than as a pattern.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement:
-+        "The search for the next occurrence opens where the occurrence just counted closes.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A second occurrence overlapping the first is passed over.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A body holding the passage nowhere is counted as zero occurrences.",
-+    },
-+    {
-+      invariantKind: "absence",
-+      statement: "Nothing here reads a file.",
-+    },
-+    {
-+      invariantKind: "gap",
-+      statement: "An empty passage is refused by the caller rather than counted here.",
-+    },
-+  ],
-+} as const satisfies Module
-diff --git a/command-system/warrant-owing/warrant-owing.module.code.ts b/command-system/warrant-owing/warrant-owing.module.code.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..5b125b0b572dbeb3270fe2e6a32dd45124b9683b
---- /dev/null
-+++ b/command-system/warrant-owing/warrant-owing.module.code.ts
-@@ -0,0 +1,13 @@
-+import { changingOf, owedIn } from "@akasha/context/warranting"
-+import type { Given } from "../calling/calling.module.code.ts"
-+import type { FileEdit } from "../landing/landing.module.code.ts"
-+
-+export function unwarrantedIn(given: Given, changes: readonly FileEdit[]): readonly string[] {
-+  if (given.changeKind?.writerOwesReading === false) return []
-+  return owedIn(
-+    given.root,
-+    given.agentId,
-+    changes.map((one) => one.path),
-+    changingOf(given.root, changes)
-+  )
-+}
-diff --git a/command-system/warrant-owing/warrant-owing.module.test.ts b/command-system/warrant-owing/warrant-owing.module.test.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..25237e61f271cda40f649fdd132c0530e90eae22
---- /dev/null
-+++ b/command-system/warrant-owing/warrant-owing.module.test.ts
-@@ -0,0 +1,34 @@
-+import { expect, test } from "bun:test"
-+import type { Given, Kind } from "../calling/calling.module.code.ts"
-+import { unwarrantedIn } from "./warrant-owing.module.code.ts"
-+
-+const GIVEN: Given = {
-+  root: "/repo",
-+  calledAs: "akasha tracking",
-+  from: "/repo",
-+  writer: null,
-+  agentId: null,
-+}
-+
-+const OWES: Kind = {
-+  slug: "change-checked",
-+  runsChecks: true,
-+  writerOwesReading: true,
-+  readersOweReading: true,
-+}
-+
-+const CHANGES = [{ path: "akasha/two.ts", body: new Uint8Array() }]
-+
-+test("a change kind saying the writer owes no reading is answered with nothing owed", () => {
-+  const given: Given = { ...GIVEN, changeKind: { ...OWES, writerOwesReading: false } }
-+  expect(unwarrantedIn(given, CHANGES)).toEqual([])
-+})
-+
-+test("a change kind saying the writer owes a reading is asked of the warranting", () => {
-+  const given: Given = { ...GIVEN, changeKind: OWES }
-+  expect(unwarrantedIn(given, CHANGES).length).toBeGreaterThan(0)
-+})
-+
-+test("a call naming no change kind is asked of the warranting", () => {
-+  expect(unwarrantedIn(GIVEN, CHANGES).length).toBeGreaterThan(0)
-+})
-diff --git a/command-system/warrant-owing/warrant-owing.module.ts b/command-system/warrant-owing/warrant-owing.module.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..c40363425bc0b2a007320c4eece9ea08b7a77764
---- /dev/null
-+++ b/command-system/warrant-owing/warrant-owing.module.ts
-@@ -0,0 +1,36 @@
-+import type { Module } from "@akasha/code/module"
-+
-+export const warrantOwing = {
-+  id: "01a07bd4-e969-75ff-8616-768c59e748f6",
-+  pageTypeSlug: "module",
-+  slug: "warrant-owing",
-+  definition: "the readings a writer still owes for the paths a change touches",
-+  code: "ts",
-+  test: "ts",
-+  invariants: [
-+    {
-+      invariantKind: "departure",
-+      statement: "A writer owes a reading of every path that writer changes.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A change kind saying the writer owes no reading is answered with nothing owed.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "The body each path is left at is worked out before the warranting is asked for.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "An owing is worded by the warranting rather than here.",
-+    },
-+    {
-+      invariantKind: "absence",
-+      statement: "Nothing here writes into the repository.",
-+    },
-+    {
-+      invariantKind: "absence",
-+      statement: "Whether an owing refuses a call is the caller's own.",
-+    },
-+  ],
-+} as const satisfies Module
++test("Edit names no file a passage is staged in", () => {
+   const root = repo()
+-  const said = refusalFor(asking("Edit", "akasha/held.ts", root), root, root, HELD) ?? ""
+-  expect(said).toContain(
+-    `akasha edit --file-path akasha/held.ts --old-file ${HELD}/block-akasha-edits-held.ts.old` +
+-      ` --new-file ${HELD}/block-akasha-edits-held.ts.new --message "<what this change is for>"`
+-  )
++  expect(refusalFor(asking("Edit", "akasha/held.ts", root), root, root)).not.toContain(HELD)
+ })
+ 
+ test("the refusal names the akasha commands rather than a word for them", () => {
+@@ -171,15 +165,9 @@ test("the refusal names the akasha commands rather than a word for them", () =>
+   expect(said).not.toContain("the door")
+ })
+ 
+-test("the refusal bounds itself by naming what it does not reach", () => {
+-  const root = repo()
+-  const said = refusalFor(asking("Edit", "akasha/held.ts", root), root, root, HELD) ?? ""
+-  expect(said).toContain("nothing outside this checkout is refused here")
+-})
+-
+ test("NotebookEdit is refused plainly, and names no command", () => {
+   const root = repo()
+-  const said = refusalFor(asking("NotebookEdit", "akasha/one.ipynb", root), root, root, HELD) ?? ""
++  const said = refusalFor(asking("NotebookEdit", "akasha/one.ipynb", root), root, root) ?? ""
+   expect(said).toContain("There is no akasha command for a notebook")
+   expect(said).not.toContain("akasha write")
+   expect(said).not.toContain("akasha edit")
+@@ -245,20 +233,6 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
+   expect((said as { reason: string }).reason).toContain("at: akasha/")
+ })
+ 
+-test("the agent the call came from names the folder the body is staged in", () => {
+-  const payload = JSON.stringify({
+-    tool_name: "Edit",
+-    tool_input: { file_path: "akasha/hook-system/hook-system.domain.ts" },
+-    cwd: HERE,
+-  })
+-  const done = ran(["bun", SCRIPT], {
+-    stdin: Buffer.from(payload),
+-    env: { ...process.env, AGENT_ID: "01a0-stated" },
+-  })
+-  expect(done.code).toBe(2)
+-  expect(done.err).toContain("/var/tmp/01a0-stated/block-akasha-edits-")
+-})
+-
+ test("the hook stands aside on stdin for a path outside the guarded roots", () => {
+   const payload = JSON.stringify({
+     tool_name: "Write",
+diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
+index b96cca34ad03732e1fd4f5a6f03229089f89dff2..7b04fa6565650ddedc87932bc4c0d4a5e387f698 100644
+--- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
+@@ -25,7 +25,7 @@ const PUT_BACK = [
+ 
+ const TAKE_AWAY = [
+   "To take a file away:",
+-  "  under `akasha/`:  akasha remove",
++  "  under `akasha/`:  akasha change remove-page or remove-file, then akasha apply",
+   '  anywhere else:    rm <path> && git commit -m "<why>" -- <path>',
+   HELP,
+ ]
+diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts
+index 19a71fe2680848d55df8e5efed6053d9da808e9b..ba871cbed3b124d278303c0b8247457a4d77b532 100644
+--- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts
++++ b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts
+@@ -80,7 +80,7 @@ test("a refusal over a body says the worktree is shared, not that the file is ak
+ 
+ test("a refusal over a deletion names a route inside akasha and a route outside it", () => {
+   const said = refusalIn("git rm akasha/one.ts") ?? ""
+-  expect(said).toContain("under `akasha/`:  akasha remove")
++  expect(said).toContain("under `akasha/`:  akasha change remove-page or remove-file")
+   expect(said).toContain('anywhere else:    rm <path> && git commit -m "<why>" -- <path>')
+   expect(said).toContain("This worktree is shared")
+ })
+@@ -169,7 +169,7 @@ test("a read is stood aside from", () => {
+ 
+ test("an akasha command stands aside, whatever act its words carry", () => {
+   expect(refusalIn('akasha apply --message "reset the thing"')).toBeNull()
+-  expect(refusalIn("akasha remove --file-path akasha/one.ts")).toBeNull()
++  expect(refusalIn("akasha change remove-page")).toBeNull()
+ })
+ 
+ test("a command that is not git carrying a named act stands aside", () => {
+diff --git a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts
+index 5a2fb986de38a38fbf42bdc597f1a8fa6e0933be..e7ec05f31b323ea8e4769ff71bdf7308af291651 100644
+--- a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts
+@@ -8,8 +8,8 @@ const HOOK = "block-git-writes"
+ 
+ const COMMANDS = [
+   "Land akasha content with the akasha commands, which write no body onto the tree by hand:",
+-  "  akasha change, akasha apply, akasha edit, akasha move, akasha remove",
+-  "Say `akasha --help` for what each takes.",
++  "  akasha change drafts the edits, and akasha apply lands them as one commit",
++  "Say `akasha change --help` for the changes it runs.",
+ ]
+ 
+ const EVERY_PATH =
+@@ -42,8 +42,8 @@ const OVER_ACTS = new Map<string, readonly string[]>([
+       "`git mv` moves a tracked file and stages the move.",
+       EVERY_PATH,
+       "",
+-      "To move an akasha file, use `akasha move`.",
+-      "Say `akasha --help` for what it takes.",
++      "To move an akasha file, draft it with `akasha change move-page`, then `akasha apply`.",
++      "Say `akasha change --help` for what that takes.",
+     ],
+   ],
+   [
+diff --git a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.test.ts b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.test.ts
+index 35b2a8ff352b03f563a776c8fdd1b96079173b80..0f59715a82bd74fbb55c3b4afb77c663827ddd6a 100644
+--- a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.test.ts
++++ b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.test.ts
+@@ -6,9 +6,9 @@ import { refusalFor, refusalIn, SCOPE } from "./block-git-writes.agent-hook.code
+ 
+ const SCRIPT = join(import.meta.dir, "block-git-writes.agent-hook.code.ts")
+ 
+-const COMMANDS = "  akasha change, akasha apply, akasha edit, akasha move, akasha remove"
++const COMMANDS = "  akasha change drafts the edits, and akasha apply lands them as one commit"
+ 
+-const HELP = "Say `akasha --help` for what each takes."
++const HELP = "Say `akasha change --help` for the changes it runs."
+ 
+ test("a commit naming no paths is refused, and this is the call that took the gate down", () => {
+   expect(refusalIn('git commit -m "one"')).not.toBeNull()
+@@ -106,8 +106,8 @@ test("a refusal spells no akasha flag, so no flag of ours can go stale in it", (
+ 
+ test("a move refusal names the move command and where to read its flags", () => {
+   const said = refusalIn("git mv one two") ?? ""
+-  expect(said).toContain("To move an akasha file, use `akasha move`.")
+-  expect(said).toContain("Say `akasha --help` for what it takes.")
++  expect(said).toContain("akasha change move-page")
++  expect(said).toContain("Say `akasha change --help` for what that takes.")
+ })
+ 
+ test("no refusal prescribes a form of the call this hook would refuse anyway", () => {
