@@ -4,7 +4,6 @@ import { join } from "node:path"
 import { listedTakenFrom, valueTakenFrom } from "@akasha/indexes/testing"
 import { ADMITS_CODE, REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
-import { patch } from "../commands/patch/patch.command.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
 import { landedMechanically, landingAsked, NO_CHECKS } from "./asking.module.code.ts"
 import {
@@ -17,13 +16,13 @@ import {
   checking,
   commitIn,
   drafting,
+  EDITS_AT,
   git,
   givenIn,
   holds,
   LOOSE,
   landedFrom,
   mechanically,
-  PATCH_AT,
   PROGRAM,
   PROPOSED,
   REFORMATTED,
@@ -170,12 +169,11 @@ test("a gate counts the removal it judged beside the body it wrote, so a move is
   const from = bodyIn(root)
   const said = await landedFrom(
     ["--file-path", "akasha/three.ts", "--content-file", from, "--remove", "akasha/two.ts"],
-    givenIn(root)
+    givenIn(root),
+    false
   )
   expect(said.code).toBe(0)
-  expect(said.report).toContain(
-    "1 check judged the 2 paths the patch would leave, and none refused"
-  )
+  expect(said.report).toContain("1 check judged the 2 paths asked for, and none refused")
 })
 
 test("a landing whose phase runs no check says the paths landed unjudged", async () => {
@@ -183,10 +181,14 @@ test("a landing whose phase runs no check says the paths landed unjudged", async
   listedTakenFrom(root, "code-check", "admits")
   valueTakenFrom(root, "code-check", "admits")
   checking(root, "later", ADMITS_CODE, "deploy")
-  const said = await wrote(root, ["--message", "held"])
+  const said = await landedFrom(
+    ["--file-path", "akasha/two.ts", "--content-file", bodyIn(root), "--message", "held"],
+    givenIn(root),
+    false
+  )
   expect(said.code).toBe(0)
   expect(said.report).toContain(
-    "no check runs at this phase, so the 1 path the patch would leave went unjudged"
+    "no check runs at this phase, so the 1 path asked for landed unjudged"
   )
 })
 
@@ -223,11 +225,11 @@ test("a landing made by a program is told apart from a glass that was broken", a
   expect(said.report.join("\n")).not.toContain("the glass was broken")
 })
 
-test("a mechanical change under an agent drafts into its patch rather than landing", async () => {
+test("a mechanical change under an agent drafts into its edits rather than landing", async () => {
   const root = repoWith()
   expect(await mechanically(root)).toBe(0)
   expect(holds(root, THREE_AT)).toBe(false)
-  expect(holds(root, PATCH_AT)).toBe(true)
+  expect(holds(root, EDITS_AT)).toBe(true)
 })
 
 test("a mechanical change lands no authored draft the patch was already holding", async () => {
@@ -237,13 +239,13 @@ test("a mechanical change lands no authored draft the patch was already holding"
   expect(holds(root, "akasha/two.ts")).toBe(false)
 })
 
-test("an apply over a patch a mechanical change alone drafted runs no check", async () => {
+test("an apply over a mechanical draft is judged, as the draft itself ran no check", async () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES_CODE)
   expect(await mechanically(root)).toBe(0)
   const said = await applying(root)
-  expect(said.code).toBe(0)
-  expect(commitIn(root, said)).toContain("Checks-bypassed: a `change-mechanical` change")
+  expect(said.code).toBe(3)
+  expect(said.refusals.join("\n")).toContain("refused for the test")
 })
 
 test("an authored draft flips the patch off mechanical, so the apply is judged", async () => {
@@ -261,19 +263,6 @@ test("a mechanical change after an authored one leaves the patch judged still", 
   checking(root, "refuses", REFUSES_CODE)
   expect((await drafting(root, [])).code).toBe(0)
   expect(await mechanically(root)).toBe(0)
-  expect((await applying(root)).code).toBe(3)
-})
-
-test("a resolve flips the patch off mechanical, so a body the caller chose is judged", async () => {
-  const root = repoWith()
-  expect(await mechanically(root)).toBe(0)
-  const from = put(root, "resolved.txt", PROPOSED)
-  const held = await patch(
-    ["resolve", "--file-path", THREE_AT, "--content-file", from],
-    givenIn(root)
-  )
-  expect(held.code).toBe(0)
-  checking(root, "refuses", REFUSES_CODE)
   expect((await applying(root)).code).toBe(3)
 })
 

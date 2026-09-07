@@ -5,11 +5,12 @@ import { textIn, textOf } from "@akasha/code/body-text"
 import { gitIgnoring } from "@akasha/git/git-pathspec"
 import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages/change"
+import type { Stated } from "../../changes/modules/change-answer/change-answer.module.types.ts"
+import { appendStated } from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { commitNamed, unfresh } from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
-import type { Bodies, Draft, Running } from "../drafting/drafting.module.code.ts"
-import { AUTHORED, drafted as draftedOnto, wouldHold } from "../drafting/drafting.module.code.ts"
+import type { Bodies } from "../drafting/drafting.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import { clearedOff } from "../folder-clearing/folder-clearing.module.code.ts"
 import type { Keeping } from "../gate-building/gate-building.module.code.ts"
@@ -51,23 +52,30 @@ export type Refused = {
 
 export type Drafting = {
   readonly page: string
-  readonly running?: Running
 }
 
 export type Drafted = {
   readonly base: string
   readonly drafted: readonly string[]
-  readonly patch: string | null
-  readonly clashed: readonly string[]
-  readonly judged: readonly string[]
-  readonly refused: readonly Judged[]
 }
 
 const AGAIN_WRITTEN = "nothing was written — read them again against what is there now"
 
 const AGAIN_DRAFTED = "nothing was drafted — read them again against what is there now"
 
-const KEPT_AS_IT_WAS = "nothing was drafted — the patch is as the patch was"
+const KEPT_AS_IT_WAS = "nothing was drafted — the edits are as the edits were"
+
+const NO_TEXT = "spells no text, so its body is edited by nothing; a move or a removal takes it"
+
+const FATAL = new TextDecoder("utf-8", { fatal: true })
+
+function textFrom(bytes: Uint8Array): string | null {
+  try {
+    return FATAL.decode(bytes)
+  } catch {
+    return null
+  }
+}
 
 export function editsOf(held: Bodies): readonly FileEdit[] {
   return [...held].map(([path, one]) => ({
@@ -290,18 +298,37 @@ function indexed(
   return held.settle()
 }
 
-function draftsOf(root: string, base: string, changes: readonly FileEdit[]): readonly Draft[] {
+function statedFrom(
+  root: string,
+  base: string,
+  changes: readonly FileEdit[]
+): { readonly rows: readonly Stated[] } | { readonly why: string } {
   const before = beforeOf(
     root,
     base,
     changes.map((one) => one.path)
   )
-  return changes.map((one) => ({
-    path: one.path,
-    was: before.get(one.path) ?? null,
-    body: one.body,
-    readersOweReading: one.readersOweReading,
-  }))
+  const rows: Stated[] = []
+  for (const one of changes) {
+    const reading =
+      one.readersOweReading === undefined ? {} : { readersOweReading: one.readersOweReading }
+    if (one.body === null) {
+      rows.push({ ...reading, kind: "remove", path: one.path })
+      continue
+    }
+    const body = textFrom(one.body)
+    if (body === null) return { why: `${one.path} ${NO_TEXT}` }
+    const held = before.get(one.path) ?? null
+    if (held === null) {
+      rows.push({ ...reading, kind: "add", path: one.path, content: body })
+      continue
+    }
+    const was = textFrom(held)
+    if (was === null) return { why: `${one.path} ${NO_TEXT}` }
+    if (was === body) continue
+    rows.push({ ...reading, kind: "replace", path: one.path, contentFrom: was, contentTo: body })
+  }
+  return { rows }
 }
 
 function draftedBy(
@@ -309,26 +336,17 @@ function draftedBy(
   page: string,
   changes: readonly FileEdit[],
   named: string | null,
-  asRead: readonly AsRead[],
-  drafts: readonly Draft[],
-  paths: readonly string[],
-  refused: readonly Judged[],
-  running: Running
+  asRead: readonly AsRead[]
 ): Drafted | Refused {
   const base = baseOf(root)
   const changing = changes.map((one) => one.path)
   const stale = unfresh(root, named, base, changing, asRead, AGAIN_DRAFTED)
   if (stale !== null) return { refusals: stale }
-  const said = draftedOnto(root, page, drafts, running)
+  const said = statedFrom(root, base, changes)
   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
-  return {
-    base,
-    drafted: changes.map((one) => one.path).sort(),
-    patch: said.patch,
-    clashed: said.clashed,
-    judged: paths,
-    refused,
-  }
+  const why = appendStated(root, page, said.rows)
+  if (why !== null) return { refusals: [why, KEPT_AS_IT_WAS] }
+  return { base, drafted: [...changing].sort() }
 }
 
 export function landing(
@@ -375,30 +393,13 @@ export async function landing(
       ],
     }
   }
-  const judgedAt = baseOf(root)
-  let edits: readonly FileEdit[] = changes
-  let drafts: readonly Draft[] = []
   if (drafting !== null) {
-    drafts = draftsOf(root, judgedAt, changes)
-    const held = wouldHold(root, drafting.page, drafts)
-    if ("why" in held) return { refusals: [held.why, KEPT_AS_IT_WAS] }
-    edits = editsOf(held.held)
+    return draftedBy(root, drafting.page, changes, named, asRead)
   }
+  const judgedAt = baseOf(root)
+  const edits: readonly FileEdit[] = changes
   const change = changeOf(root, { base: judgedAt, edits, carries })
   const said = await judged(judging, change)
-  if (drafting !== null) {
-    return draftedBy(
-      root,
-      drafting.page,
-      changes,
-      named,
-      asRead,
-      drafts,
-      edits.map((one) => one.path).sort(),
-      said,
-      drafting.running ?? AUTHORED
-    )
-  }
   const orphaned = orphaningIn(change, absentAfter(edits, carries))
   if (orphaned.length > 0) {
     return {

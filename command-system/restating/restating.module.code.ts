@@ -1,5 +1,6 @@
 import { formattedBody } from "@akasha/code/code-format"
 import { tokensOf } from "@akasha/code/code-tokens"
+import { textOf } from "../asking/asking.module.code.ts"
 
 export type Interior = {
   readonly start: number
@@ -18,13 +19,7 @@ export function judgedHere(path: string): boolean {
   return CODE.some((one) => path.endsWith(one))
 }
 
-export function textIn(body: Uint8Array): string | null {
-  try {
-    return new TextDecoder("utf-8", { fatal: true }).decode(body)
-  } catch {
-    return null
-  }
-}
+export const textIn = textOf
 
 export function interiorsIn(body: string): readonly Interior[] {
   const held = tokensOf(body)

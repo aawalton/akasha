@@ -5,9 +5,7 @@ import type {
 
 const HEADER = "[TemperInventory] Checklist"
 
-function plural(count: number, word: string): string {
-  return `${count} ${word}${count === 1 ? "" : "s"}`
-}
+import { counted as plural } from "@akasha/command-system/asking"
 
 function venueLine(venue: VenueStop): string {
   const parts: string[] = []

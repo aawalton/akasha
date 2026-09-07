@@ -10,7 +10,7 @@ import {
   MESSAGE,
   mistaken,
   pipedIn,
-  valueOf as valueSaid,
+  valueIn as valueSaid,
 } from "../../../pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
 
 const ACT = "set"

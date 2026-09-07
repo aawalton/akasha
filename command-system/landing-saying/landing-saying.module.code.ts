@@ -2,7 +2,7 @@ import { UNNAMED } from "../committing/committing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT } from "../gate-building/gate-building.module.code.ts"
 import type { Counting } from "../judged-saying/judged-saying.module.code.ts"
-import { draftSaid, judgedBy, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
+import { judgedBy, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
 import type { Drafted, FileEdit, Landed } from "../landing/landing.module.code.ts"
 import type { Filled } from "../value-minting/value-minting.module.code.ts"
 
@@ -80,18 +80,13 @@ export function reported(count: Counting, said: Landed, over: Reported): readonl
 }
 
 export function draftedSaid(
-  count: Counting,
   said: Drafted,
   at: string | null,
-  aside: readonly string[],
-  checks: number
+  aside: readonly string[]
 ): readonly string[] {
   return [
     ...aside,
     ...said.drafted.map((one) => `drafted ${one}`),
-    ...draftSaid(count, checks, said.judged, said.refused, said.clashed),
-    said.patch === null
-      ? "the patch was worked out to nothing and taken away"
-      : `the patch is kept at ${at ?? "the page of the agent that asked"} against ${said.base}`,
+    `the edits are kept at ${at ?? "the page of the agent that asked"}, and \`akasha apply\` lands them`,
   ]
 }

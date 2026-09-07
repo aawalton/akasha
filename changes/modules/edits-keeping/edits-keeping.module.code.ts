@@ -378,6 +378,23 @@ export function appendEdits(root: string, page: string, edits: readonly Edit[]):
   })
 }
 
+export function appendStated(root: string, page: string, rows: readonly Stated[]): string | null {
+  const at = editsAt(page)
+  if (at === null) return NO_PAGE
+  if (rows.length === 0) return null
+  const full = join(root, at)
+  mkdirSync(dirname(full), { recursive: true })
+  return exclusively(full, (): string | null => {
+    migrated(root, page)
+    poured(
+      root,
+      page,
+      rows.map((one) => `${JSON.stringify(one)}\n`)
+    )
+    return null
+  })
+}
+
 export function foldedIn(rows: readonly Edit[]): Answer {
   return gathered(rows.map((one) => ({ edits: [one], refused: null })))
 }

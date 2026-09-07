@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { patchIn } from "@akasha/agents/patch-keeping"
 import { rebuiltFrom } from "@akasha/indexes/indexing"
 import { butTheStamp } from "@akasha/indexes/indexing/testing"
 import {
@@ -24,7 +23,7 @@ import {
   bytes,
   CARRIED,
   committedAgain,
-  DRAFT,
+  drafting,
   edged,
   filedFor,
   filesIn,
@@ -34,6 +33,7 @@ import {
   ID,
   IGNORED_OUT,
   identityAmong,
+  keptText,
   LINE,
   landedAtHead,
   landedMoving,
@@ -344,23 +344,26 @@ test("a commit that throws leaves no trace of the path the repository ignores", 
   expect(said.left).toEqual([])
 })
 
-test("a change drafted is kept in the patch and reaches no file and no commit of its own", async () => {
+test("a change drafted is kept as an edit and reaches no file and no commit of its own", async () => {
   const root = pageRepo()
-  const change = [{ path: "new.txt", body: bytes("proposed") }]
-  const said = await landing(root, change, "held", ADMITS, null, null, [], [], DRAFT)
+  const said = await drafting(root, [{ path: "new.txt", body: bytes("proposed") }])
   expect("refusals" in said ? [] : said.drafted).toEqual(["new.txt"])
-  expect(patchIn(root, PAGE) ?? "").toContain("+proposed")
+  expect(keptText(root)).toContain("proposed")
   expect(existsSync(join(root, "new.txt"))).toBe(false)
   expect(git(root, ["log", "--name-only", "--format="])).not.toContain("new.txt")
 })
 
-test("a check refusing a draft says so over the whole patch and refuses nothing", async () => {
+test("a draft runs no check, so a gate that would refuse drafts all the same", async () => {
   const root = pageRepo()
-  const a = [{ path: "one.txt", body: bytes("first") }]
-  await landing(root, a, "held", ADMITS, null, null, [], [], DRAFT)
-  const b = [{ path: "two.txt", body: bytes("second") }]
-  const said = await landing(root, b, "held", REFUSES, null, null, [], [], DRAFT)
-  const refused = "refusals" in said ? [] : said.refused.map((one) => one.path)
-  expect(refused).toEqual(["one.txt", "two.txt"])
-  expect(patchIn(root, PAGE) ?? "").toContain("+second")
+  await drafting(root, [{ path: "one.txt", body: bytes("first") }])
+  await drafting(root, [{ path: "two.txt", body: bytes("second") }], REFUSES)
+  expect(keptText(root)).toContain("first")
+  expect(keptText(root)).toContain("second")
+})
+
+test("a body that spells no text is drafted by no edit", async () => {
+  const root = pageRepo()
+  const said = await drafting(root, [{ path: "blob.bin", body: BROKEN }])
+  expect("refusals" in said ? said.refusals.join("\n") : "").toContain("spells no text")
+  expect(keptText(root)).toBe("")
 })

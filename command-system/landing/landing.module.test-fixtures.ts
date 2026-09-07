@@ -12,8 +12,9 @@ import type { Value } from "@akasha/pages/page-value"
 import { textProperty } from "@akasha/pages/text-property"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { said as saying } from "@akasha/utils-run/running"
+import { editsAt } from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import type { FileCarry, FileEdit, Landed, Refused } from "./landing.module.code.ts"
+import type { Drafted, FileCarry, FileEdit, Landed, Refused } from "./landing.module.code.ts"
 import { baseOf, landing } from "./landing.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
@@ -50,6 +51,21 @@ export function judgingThat(name: string, over: (change: Change) => readonly Jud
 export const PAGE = "akasha/a.domain.ts"
 
 export const DRAFT = { page: PAGE }
+
+export function drafting(
+  root: string,
+  changes: readonly FileEdit[],
+  gate: Judging = ADMITS
+): Promise<Drafted | Refused> {
+  return landing(root, changes, "held", gate, null, null, [], [], DRAFT)
+}
+
+export function keptText(root: string): string {
+  const at = editsAt(PAGE)
+  if (at === null) return ""
+  const full = join(root, at)
+  return existsSync(full) ? readFileSync(full, "utf8") : ""
+}
 
 export const REFUSES: Judging = {
   named: ["refuses"],

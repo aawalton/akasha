@@ -1,6 +1,5 @@
 import { existsSync, mkdirSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { patchAt } from "@akasha/agents/patch-keeping"
 import type { Phase } from "@akasha/checks/checking"
 import { agentPathOf } from "@akasha/context/warranting"
 import { warrantsSeeded } from "@akasha/context/warranting/testing"
@@ -9,9 +8,11 @@ import { noImportersFiled, pageFiled } from "@akasha/indexes/testing"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { ADMITS_CODE, MINTED, mintedId, minting } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
+import { editsAt } from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { folding } from "../../commands/pages/apply/apply.command.code.ts"
 import { applying as applyingPatch } from "../applying/applying.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
-import { carriedFor, drafted } from "../drafting/drafting.module.code.ts"
+import { drafted } from "../drafting/drafting.module.code.ts"
 import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
 import { inputIn } from "../piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
@@ -162,11 +163,17 @@ export async function applied(
   if (said.code !== 0) return said
   const page = given.agentId === null ? null : agentPathOf(root, given.agentId)
   if (page === null) return said
-  const then = await applyingPatch(given, page, applyingIn(argv), carriedFor(root, page))
+  const held = folding(root, page)
+  if ("refusals" in held) return { report: [], refusals: held.refusals, code: 3 }
+  const then = await applyingPatch(given, page, applyingIn(argv), held.carried)
   return { report: [...said.report, ...then.report], refusals: then.refusals, code: then.code }
 }
 
-export async function landedFrom(argv: readonly string[], given: Given): Promise<Answer> {
+export async function landedFrom(
+  argv: readonly string[],
+  given: Given,
+  draft = true
+): Promise<Answer> {
   const built = builtIn(argv, given, inputIn)
   if ("code" in built) return built
   return await landingAsked(
@@ -175,7 +182,7 @@ export async function landedFrom(argv: readonly string[], given: Given): Promise
       changes: built.changes,
       message: built.message,
       saying: (landed) => wroteAndTook(landed),
-      draft: true,
+      draft,
     })
   )
 }
@@ -240,7 +247,7 @@ export function blocked(root: string): Asked {
 
 export const THREE_AT = "akasha/three.ts"
 
-export const PATCH_AT = patchAt(SEAT_AT) as string
+export const EDITS_AT = editsAt(SEAT_AT) as string
 
 const THREE = [{ path: THREE_AT, body: bytes(PROPOSED) }]
 

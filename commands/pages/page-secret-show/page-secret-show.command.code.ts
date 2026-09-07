@@ -1,10 +1,10 @@
 import type { Answer, Given } from "@akasha/command-system/calling"
+import { quoted as listed } from "@akasha/command-system/seat-act-calling"
 import { keysBeside } from "@akasha/pages/page-secret"
 import {
   aiming,
   caught,
   FILE_PATH,
-  listed,
 } from "../../../pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
 
 const NOTHING = "nothing"

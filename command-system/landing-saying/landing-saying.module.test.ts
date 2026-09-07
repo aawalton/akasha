@@ -26,10 +26,6 @@ const LANDED: Landed = {
 const DRAFTED: Drafted = {
   base: "held",
   drafted: ["akasha/two.ts"],
-  patch: "a patch",
-  clashed: [],
-  judged: ["akasha/two.ts"],
-  refused: [],
 }
 
 const PLAINLY: Saying = (said) => [
@@ -125,21 +121,17 @@ test("the paths of a change are read from the change", () => {
 })
 
 test("what a draft left is named in the report as what was drafted", () => {
-  const said = draftedSaid(counted, DRAFTED, "a page", ["said beside it"], 2)
+  const said = draftedSaid(DRAFTED, "a page", ["said beside it"])
   expect(said[0]).toBe("said beside it")
   expect(said).toContain("drafted akasha/two.ts")
-  expect(said).toContain("2 checks judged the 1 path the patch would leave, and none refused")
 })
 
-test("where a draft's patch is kept is named in the report", () => {
-  expect(draftedSaid(counted, DRAFTED, "a page", [], 2).at(-1)).toBe(
-    "the patch is kept at a page against held"
+test("where a draft's edits are kept is named in the report", () => {
+  expect(draftedSaid(DRAFTED, "a page", []).at(-1)).toBe(
+    "the edits are kept at a page, and `akasha apply` lands them"
   )
-  expect(draftedSaid(counted, DRAFTED, null, [], 2).at(-1)).toBe(
-    "the patch is kept at the page of the agent that asked against held"
-  )
-  expect(draftedSaid(counted, { ...DRAFTED, patch: null }, "a page", [], 2).at(-1)).toBe(
-    "the patch was worked out to nothing and taken away"
+  expect(draftedSaid(DRAFTED, null, []).at(-1)).toBe(
+    "the edits are kept at the page of the agent that asked, and `akasha apply` lands them"
   )
 })
 

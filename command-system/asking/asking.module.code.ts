@@ -1,11 +1,11 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { patchAt } from "@akasha/agents/patch-keeping"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { formattedBody } from "@akasha/code/code-format"
 import { agentPathOf } from "@akasha/context/warranting"
 import { nameFaultIn } from "@akasha/pages/page-export-name"
 import { isMissing } from "@akasha/utils-fs/missing"
+import { editsAt } from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
 import { runningOf } from "../drafting/drafting.module.code.ts"
@@ -343,14 +343,14 @@ async function draftingAsked(
       asked.read ?? null,
       asRead,
       asked.carries ?? [],
-      { page, running: runningOf(given.changeKind) }
+      { page }
     )
   } catch (thrown) {
     return { report: [], refusals: [`nothing was drafted — ${whyOf(thrown)}`], code: 3 }
   }
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
   return {
-    report: draftedSaid(counted, said, patchAt(page), aside, gate.named.length),
+    report: draftedSaid(said, editsAt(page), aside),
     refusals: [],
     code: 0,
   }

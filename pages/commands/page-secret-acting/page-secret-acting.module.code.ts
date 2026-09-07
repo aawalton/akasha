@@ -1,8 +1,9 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { landingAsked, wroteAndTook } from "@akasha/command-system/asking"
+import { landingAsked, mistaking, wroteAndTook } from "@akasha/command-system/asking"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
+import { quoted as listed } from "@akasha/command-system/seat-act-calling"
 import { secretAt } from "@akasha/pages/page-file-name"
 import { cipherFor, type Secrets } from "@akasha/pages/page-secret"
 import { propertiesOf } from "@akasha/pages/page-type-properties"
@@ -20,13 +21,7 @@ const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const INPUT_AT = "/dev/stdin"
 
-export function listed(said: readonly string[]): string {
-  return said.map((one) => `\`${one}\``).join(", ")
-}
-
-export function mistaken(said: readonly string[]): Answer {
-  return { report: [], refusals: said, code: 1 }
-}
+export const mistaken = mistaking
 
 export function wrongData(said: string): Answer {
   return { report: [], refusals: [said], code: 2 }
@@ -137,7 +132,7 @@ export function pipedIn(): Taken {
   }
 }
 
-export function valueOf(
+export function valueIn(
   bytes: Uint8Array,
   keepLastNewline = false
 ): string | { readonly refused: string } {

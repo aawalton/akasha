@@ -6,7 +6,7 @@ import {
   MESSAGE,
   readIn,
   undeclared,
-  valueOf,
+  valueIn,
 } from "./page-secret-acting.module.code.ts"
 
 const AT = "akasha/agents/claude-accounts/pages/one.claude-account.ts"
@@ -92,29 +92,29 @@ test("a page type declaring no secret says so rather than naming nothing", () =>
 })
 
 test("one trailing newline is dropped from a value piped in", () => {
-  expect(valueOf(new TextEncoder().encode("held\n"))).toBe("held")
+  expect(valueIn(new TextEncoder().encode("held\n"))).toBe("held")
 })
 
 test("a value carrying no trailing newline is taken whole", () => {
-  expect(valueOf(new TextEncoder().encode("held"))).toBe("held")
+  expect(valueIn(new TextEncoder().encode("held"))).toBe("held")
 })
 
 test("a value holding newlines of its own is taken whole", () => {
-  expect(valueOf(new TextEncoder().encode("one\ntwo\n"))).toBe("one\ntwo")
+  expect(valueIn(new TextEncoder().encode("one\ntwo\n"))).toBe("one\ntwo")
 })
 
 test("the trailing newline is kept where the caller says to keep it", () => {
-  expect(valueOf(new TextEncoder().encode("one\ntwo\n"), true)).toBe("one\ntwo\n")
+  expect(valueIn(new TextEncoder().encode("one\ntwo\n"), true)).toBe("one\ntwo\n")
 })
 
 test("a value that arrives empty is refused rather than standing for a usable one", () => {
-  expect(typeof valueOf(new TextEncoder().encode("\n"))).toBe("object")
+  expect(typeof valueIn(new TextEncoder().encode("\n"))).toBe("object")
 })
 
 test("a value that is one newline kept is a value rather than empty", () => {
-  expect(valueOf(new TextEncoder().encode("\n"), true)).toBe("\n")
+  expect(valueIn(new TextEncoder().encode("\n"), true)).toBe("\n")
 })
 
 test("what is piped in that is no utf-8 text is refused", () => {
-  expect(typeof valueOf(new Uint8Array([0xff, 0xfe, 0xfd]))).toBe("object")
+  expect(typeof valueIn(new Uint8Array([0xff, 0xfe, 0xfd]))).toBe("object")
 })
