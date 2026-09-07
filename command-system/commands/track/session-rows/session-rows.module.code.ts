@@ -23,8 +23,6 @@ export type LevelsReading =
   | { readonly read: "levels"; readonly levels: { safetyLevel?: string; difficultyLevel?: string } }
   | { readonly read: "refused"; readonly refusals: readonly string[] }
 
-export const SESSION = "session"
-
 export const DAYS_AT = "alan/tracking/daily/wake-days/pages"
 
 export const ACTIVITIES_AT = "alan/tracking/session-activities/pages"
@@ -51,21 +49,6 @@ export const RELATIONSHIP = "--relationship"
 export const VALUED = [TITLE, AT, START, END, DAY, SAFETY, DIFFICULTY, ID, FROM_FILE, RELATIONSHIP]
 
 export const BARE = [OPEN, LAST, JSON_SAID, DRY_RUN, LEAVE_GAP, MEND]
-
-export const ACTS = [
-  "open",
-  "switch",
-  "close",
-  "log",
-  "amend",
-  "drop",
-  "split",
-  "show",
-  "file",
-  "check",
-]
-
-export const UNBUILT: readonly string[] = []
 
 const KEYS = [
   "id",
