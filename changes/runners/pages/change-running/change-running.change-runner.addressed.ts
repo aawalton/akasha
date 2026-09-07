@@ -56,8 +56,8 @@ export type Changes = {
   "change-mechanical-file/remove-file": Parameters<
     typeof import("../../../mechanical/pages/remove-file/remove-file.change-mechanical-file.code.ts")["runChange"]
   >[1]
-  "change-mechanical-file/remove-page-file": Parameters<
-    typeof import("../../../mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.code.ts")["runChange"]
+  "change-mechanical-file/remove-file-page": Parameters<
+    typeof import("../../../mechanical/pages/remove-file-page/remove-file-page.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/rename-path": Parameters<
     typeof import("../../../mechanical/pages/rename-path/rename-path.change-mechanical-file.code.ts")["runChange"]

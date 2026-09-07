@@ -36,7 +36,7 @@ import {
   importersFirst,
   parentsOf,
   runChange,
-} from "./remove-page-file.change-mechanical-file.code.ts"
+} from "./remove-file-page.change-mechanical-file.code.ts"
 
 type Unnaming = { at: string; key: string; value: string }
 

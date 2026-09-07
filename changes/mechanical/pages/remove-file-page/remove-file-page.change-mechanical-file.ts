@@ -1,9 +1,9 @@
 import type { ChangeMechanicalFile } from "../../file/change-mechanical-file.page-type.ts"
 
-export const removePageFile = {
+export const removeFilePage = {
   id: "01a079a5-8d4a-70e6-a33b-73d49d514b05",
   pageTypeSlug: "change-mechanical-file",
-  slug: "remove-page-file",
+  slug: "remove-file-page",
   changeModeSlug: "change-mode-remove",
   definition: "one page taken away with every file that page keeps beside the page",
   code: "ts",
