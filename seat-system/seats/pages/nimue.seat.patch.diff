@@ -1,0 +1,511 @@
+writerOwesReading: false
+diff --git a/changes/checked/change-checked.page-type.ts b/changes/checked/change-checked.page-type.ts
+index 706449851ef77b3ae6bf35f1b27595e2fd7e2db9..f74cdc68de4a6979c214198b3bda46628a8c8103 100644
+--- a/changes/checked/change-checked.page-type.ts
++++ b/changes/checked/change-checked.page-type.ts
+@@ -27,6 +27,7 @@ export const changeChecked = {
+     "change-checked/rename-package",
+     "change-checked/rename-page",
+     "change-checked/change-domain-parent",
++    "change-checked/drop-package-alias",
+   ],
+   invariants: [
+     {
+diff --git a/changes/checked/pages/drop-package-alias/drop-package-alias.change-checked.code.ts b/changes/checked/pages/drop-package-alias/drop-package-alias.change-checked.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..22767ebe316993e0bc30ef19c0e909700f6e39d9
+--- /dev/null
++++ b/changes/checked/pages/drop-package-alias/drop-package-alias.change-checked.code.ts
+@@ -0,0 +1,104 @@
++import { manifestIn, nameIn } from "@akasha/checks/package-reached-where-named"
++import { placedIn } from "@akasha/code/code-specifier"
++import { typed } from "@akasha/code/code-typing"
++import { manifestsIn } from "@akasha/indexes/package-reaching"
++import ts from "typescript"
++import {
++  objectAt,
++  withoutEntriesIn,
++} from "../../../mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.code.ts"
++import {
++  answered,
++  missing,
++  refusing,
++  writing,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { aliasIn, nameFor } from "../rename-package/rename-package.change-checked.code.ts"
++
++const AT = "at"
++
++const WAS = "was"
++
++const NAME = "name"
++
++const UNDROPPED = "so no alias is dropped"
++
++const HOLDING = ["dependencies", "devDependencies", "peerDependencies", "optionalDependencies"]
++
++export type DropPackageAliasAsked = {
++  readonly at: string
++  readonly was: string
++}
++
++export function aliasedTo(held: ts.ObjectLiteralExpression, was: string, to: string): boolean {
++  for (const one of held.properties) {
++    if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
++    if (one.name.text !== was) continue
++    const value = one.initializer
++    if (!ts.isStringLiteral(value)) return false
++    const alias = aliasIn(value.text)
++    return alias !== null && alias.named === to
++  }
++  return false
++}
++
++export function withoutAliasIn(at: string, text: string, was: string, to: string): string {
++  let body = text
++  for (const holding of HOLDING) {
++    const held = objectAt(ts.parseJsonText(at, body), holding)
++    if (held === null || !aliasedTo(held, was, to)) continue
++    body = withoutEntriesIn(at, body, holding, new Set([was]))
++  }
++  return body
++}
++
++function reachingOld(world: World, was: string): string | null {
++  for (const path of world.index.everyPath()) {
++    if (!typed(path)) continue
++    const body = world.textOf(path)
++    if (body === null || !body.includes(was)) continue
++    for (const one of placedIn(path, body)) {
++      if (nameFor(one.text, was, was) !== null) return path
++    }
++  }
++  return null
++}
++
++export function dropPackageAlias(world: World, given: DropPackageAliasAsked): Answer {
++  const text = world.textOf(given.at)
++  if (text === null) return refusing(`\`${given.at}\` could not be read`)
++  const held = manifestIn(text)
++  if (held === null || Array.isArray(held)) {
++    return refusing(`\`${given.at}\` reads as no JSON object, ${UNDROPPED}`)
++  }
++  const to = nameIn(text)
++  if (to === null) return refusing(`\`${given.at}\` states no \`${NAME}\`, ${UNDROPPED}`)
++  if (to === given.was) {
++    return refusing(`\`${given.was}\` is the name this package carries, ${UNDROPPED}`)
++  }
++  const reaching = reachingOld(world, given.was)
++  if (reaching !== null) {
++    return refusing(`\`${reaching}\` reaches this package as \`${given.was}\`, ${UNDROPPED}`)
++  }
++  const edits: Edit[] = []
++  for (const path of manifestsIn(world.index.everyPath(), world.index.fileKeysAt())) {
++    const body = world.textOf(path)
++    if (body === null || !body.includes(given.was)) continue
++    const next = withoutAliasIn(path, body, given.was, to)
++    if (next !== body) edits.push(writing(path, body, next))
++  }
++  if (edits.length === 0) return refusing(`no manifest aliases \`${given.was}\`, ${UNDROPPED}`)
++  return answered(edits)
++}
++
++export type Asked = Readonly<Record<string, string>>
++
++export function runChange(world: World, given: Asked): Answer {
++  const at = given[AT]
++  if (at === undefined) return refusing(missing(AT))
++  const was = given[WAS]
++  if (was === undefined) return refusing(missing(WAS))
++  return dropPackageAlias(world, { at, was })
++}
+diff --git a/changes/checked/pages/drop-package-alias/drop-package-alias.change-checked.test.ts b/changes/checked/pages/drop-package-alias/drop-package-alias.change-checked.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5a910eda574e392bbd929e7d704025832c802647
+--- /dev/null
++++ b/changes/checked/pages/drop-package-alias/drop-package-alias.change-checked.test.ts
+@@ -0,0 +1,252 @@
++import { afterAll, expect, test } from "bun:test"
++import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
++import ts from "typescript"
++import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import {
++  aliasedTo,
++  dropPackageAlias,
++  runChange,
++  withoutAliasIn,
++} from "./drop-package-alias.change-checked.code.ts"
++
++afterAll(scratch.sweep)
++
++const WAS = "@probe/was"
++
++const HELD = "@probe/held"
++
++const HELD_MANIFEST = "akasha/held/package.json"
++
++const ROOT_MANIFEST = "akasha/root/package.json"
++
++const SIDE_MANIFEST = "akasha/side/package.json"
++
++const READER_CODE = "akasha/side/reader.module.code.ts"
++
++const idAt = (one: string): string => `01a07c16-0003-7000-8000-00000000000${one}`
++
++const HELD_BODY = `{
++  "name": "${HELD}",
++  "exports": {
++    ".": "./one.ts"
++  }
++}
++`
++
++const ROOT_BODY = `{
++  "name": "@probe/root",
++  "dependencies": {
++    "${WAS}": "workspace:${HELD}@*",
++    "typescript": "npm:typescript@5.9.3"
++  }
++}
++`
++
++const ROOT_WANTED = `{
++  "name": "@probe/root",
++  "dependencies": {
++    "typescript": "npm:typescript@5.9.3"
++  }
++}
++`
++
++const SIDE_BODY = `{
++  "name": "@probe/side",
++  "dependencies": {
++    "typescript": "npm:typescript@5.9.3",
++    "${WAS}": "workspace:${HELD}@*"
++  }
++}
++`
++
++const SIDE_WANTED = `{
++  "name": "@probe/side",
++  "dependencies": {
++    "typescript": "npm:typescript@5.9.3"
++  }
++}
++`
++
++const PLAIN_BODY = `{
++  "name": "@probe/plain",
++  "dependencies": {
++    "${WAS}": "^1.2.3"
++  }
++}
++`
++
++const CLEAR_CODE = `export const spoken = "${WAS} is the name this package went by"
++
++export const reader = spoken.length
++`
++
++const REACHING_CODE = `import { one } from "${WAS}"
++
++export const reader = one
++`
++
++const SPEAKING: Readonly<Record<string, string>> = {
++  "akasha/text-property.page-type.ts": bodyOf({
++    id: idAt("0"),
++    pageTypeSlug: "page-type",
++    slug: "text-property",
++    extendsSlug: ["page-type/page-property"],
++  }),
++  "akasha/file-name.text-property.ts": bodyOf({
++    id: idAt("1"),
++    pageTypeSlug: "text-property",
++    slug: "file-name",
++    propertySlug: "file-name",
++  }),
++  "akasha/named-file-property.page-type.ts": bodyOf({
++    id: idAt("2"),
++    pageTypeSlug: "page-type",
++    slug: "named-file-property",
++    extendsSlug: ["page-type/page-property"],
++    properties: [{ pagePropertySlug: "text-property/file-name", required: true, many: false }],
++  }),
++  "akasha/manifest.named-file-property.ts": bodyOf({
++    id: idAt("3"),
++    pageTypeSlug: "named-file-property",
++    slug: "manifest",
++    propertySlug: "manifest",
++    fileName: "package.json",
++  }),
++  "akasha/workspace-package.page-type.ts": bodyOf({
++    id: idAt("4"),
++    pageTypeSlug: "page-type",
++    slug: "workspace-package",
++    extendsSlug: ["page-type/domain"],
++    properties: [{ pagePropertySlug: "named-file-property/manifest", required: true, many: false }],
++  }),
++}
++
++const PACKAGED: Readonly<Record<string, string>> = {
++  "akasha/held/held.workspace-package.ts": pageOf({
++    id: idAt("5"),
++    pageTypeSlug: "workspace-package",
++    slug: "held",
++    manifest: "json",
++  }),
++  [HELD_MANIFEST]: HELD_BODY,
++  "akasha/held/one.ts": "export const one = 1\n",
++  "akasha/root/root.workspace-package.ts": pageOf({
++    id: idAt("6"),
++    pageTypeSlug: "workspace-package",
++    slug: "root",
++    manifest: "json",
++  }),
++  [ROOT_MANIFEST]: ROOT_BODY,
++  "akasha/side/side.workspace-package.ts": pageOf({
++    id: idAt("7"),
++    pageTypeSlug: "workspace-package",
++    slug: "side",
++    manifest: "json",
++  }),
++  [SIDE_MANIFEST]: SIDE_BODY,
++  "akasha/side/reader.module.ts": pageOf({
++    id: idAt("8"),
++    pageTypeSlug: "module",
++    slug: "reader",
++    code: "ts",
++  }),
++}
++
++function worldOver(code: string): World {
++  const root = indexedRepo({ ...SPEAKING, ...PACKAGED, [READER_CODE]: code })
++  return worldAt(root, textIn(root))
++}
++
++function dropped(): ReadonlyMap<string, string | null> {
++  const said = dropPackageAlias(worldOver(CLEAR_CODE), { at: HELD_MANIFEST, was: WAS })
++  expect(said.refused).toBe(null)
++  return new Map(said.edits.map((one) => [one.path, one.body]))
++}
++
++function heldIn(text: string): ts.ObjectLiteralExpression {
++  const source = ts.parseJsonText(SIDE_MANIFEST, text)
++  const first = source.statements[0]
++  if (first === undefined || !ts.isObjectLiteralExpression(first.expression)) {
++    throw new Error("the fixture reads as no JSON object")
++  }
++  for (const one of first.expression.properties) {
++    if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
++    if (one.name.text === "dependencies" && ts.isObjectLiteralExpression(one.initializer)) {
++      return one.initializer
++    }
++  }
++  throw new Error("the fixture states no dependencies")
++}
++
++test("an entry whose value aliases the name now carried is found", () => {
++  expect(aliasedTo(heldIn(SIDE_BODY), WAS, HELD)).toBe(true)
++})
++
++test("an entry whose value is no alias is not found", () => {
++  expect(aliasedTo(heldIn(PLAIN_BODY), WAS, HELD)).toBe(false)
++})
++
++test("an entry the manifest does not state is not found", () => {
++  expect(aliasedTo(heldIn(ROOT_BODY), "@probe/absent", HELD)).toBe(false)
++})
++
++test("an alias parted from a later entry takes its comma with it", () => {
++  expect(withoutAliasIn(ROOT_MANIFEST, ROOT_BODY, WAS, HELD)).toBe(ROOT_WANTED)
++})
++
++test("an alias stated last takes the comma before it", () => {
++  expect(withoutAliasIn(SIDE_MANIFEST, SIDE_BODY, WAS, HELD)).toBe(SIDE_WANTED)
++})
++
++test("an entry under the old name whose value is no alias is left alone", () => {
++  expect(withoutAliasIn(SIDE_MANIFEST, PLAIN_BODY, WAS, HELD)).toBe(PLAIN_BODY)
++})
++
++test("every manifest aliasing the old name is answered", () => {
++  expect([...dropped().keys()].sort()).toEqual([ROOT_MANIFEST, SIDE_MANIFEST])
++})
++
++test("the alias goes and the entries left behind keep their spacing", () => {
++  expect(dropped().get(ROOT_MANIFEST)).toBe(ROOT_WANTED)
++  expect(dropped().get(SIDE_MANIFEST)).toBe(SIDE_WANTED)
++})
++
++test("a body still reaching the package under the old name is refused", () => {
++  const said = dropPackageAlias(worldOver(REACHING_CODE), { at: HELD_MANIFEST, was: WAS })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(
++    `\`${READER_CODE}\` reaches this package as \`${WAS}\`, so no alias is dropped`
++  )
++})
++
++test("a sentence holding the old name reaches nothing", () => {
++  const said = dropPackageAlias(worldOver(CLEAR_CODE), { at: HELD_MANIFEST, was: WAS })
++  expect(said.refused).toBe(null)
++})
++
++test("an old name the package carries now is refused", () => {
++  const said = dropPackageAlias(worldOver(CLEAR_CODE), { at: HELD_MANIFEST, was: HELD })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${HELD}\` is the name this package carries, so no alias is dropped`)
++})
++
++test("an old name no manifest aliases is refused", () => {
++  const said = dropPackageAlias(worldOver(CLEAR_CODE), { at: HELD_MANIFEST, was: "@probe/absent" })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe("no manifest aliases `@probe/absent`, so no alias is dropped")
++})
++
++test("a manifest that could not be read is refused", () => {
++  const world = worldAt(scratch.rootFor("alias-"), () => null)
++  const said = dropPackageAlias(world, { at: HELD_MANIFEST, was: WAS })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${HELD_MANIFEST}\` could not be read`)
++})
++
++test("a call stating no old name is refused by that key", () => {
++  const said = runChange(worldOver(CLEAR_CODE), { at: HELD_MANIFEST })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(
++    "`was` names what this change is handed, and the arguments hold no `was`"
++  )
++})
+diff --git a/changes/checked/pages/drop-package-alias/drop-package-alias.change-checked.ts b/changes/checked/pages/drop-package-alias/drop-package-alias.change-checked.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..842e5b4e4d235fd48f0c157dd3c33e45879d2b12
+--- /dev/null
++++ b/changes/checked/pages/drop-package-alias/drop-package-alias.change-checked.ts
+@@ -0,0 +1,75 @@
++import type { ChangeChecked } from "../../change-checked.page-type.ts"
++
++export const dropPackageAlias = {
++  id: "01a07c16-3e5f-7641-95c5-a6e485991ad1",
++  pageTypeSlug: "change-checked",
++  slug: "drop-package-alias",
++  definition: "the alias a renamed package was reached under taken out of every manifest",
++  code: "ts",
++  test: "ts",
++  runsChecks: true,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The name the package carries now is read from the manifest the caller names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An old name equal to the name the package carries is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body still reaching the package under the old name refuses the whole drop.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The refusal names the body that still reaches the package.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A string holding the old name inside a longer sentence reaches nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An entry is dropped only where that entry's value aliases the name now carried.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An entry under the old name whose value is no alias is left where that entry is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An alias is looked for under each kind of dependency a manifest states.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every manifest the index names is read for the alias.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A dropped entry takes the comma parting that entry from its neighbour.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A manifest keeps the spacing around the entries left behind.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drop answering no edit is refused.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "The lockfile a dropped alias leaves is settled by the landing rather than here.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No body is repointed here.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No package is renamed here.",
++    },
++  ],
++} as const satisfies ChangeChecked
+diff --git a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.code.ts b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.code.ts
+index 8566cd766e5d5f64d711a8cf5ef786033821bbdd..da959b89a29756874c313f916ce3c0c86d1d8ce1 100644
+--- a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.code.ts
++++ b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.code.ts
+@@ -33,7 +33,10 @@ function readsAsObject(text: string): boolean {
+   return read !== null && typeof read === "object" && !Array.isArray(read)
+ }
+ 
+-function objectAt(source: ts.JsonSourceFile, key: string): ts.ObjectLiteralExpression | null {
++export function objectAt(
++  source: ts.JsonSourceFile,
++  key: string
++): ts.ObjectLiteralExpression | null {
+   const first = source.statements[0]
+   if (first === undefined || !ts.isExpressionStatement(first)) return null
+   const held = first.expression
+@@ -91,7 +94,16 @@ export function waysGoneIn(
+ }
+ 
+ export function withoutWaysIn(at: string, text: string, dropping: ReadonlySet<string>): string {
+-  const held = objectAt(ts.parseJsonText(at, text), EXPORTS)
++  return withoutEntriesIn(at, text, EXPORTS, dropping)
++}
++
++export function withoutEntriesIn(
++  at: string,
++  text: string,
++  holding: string,
++  dropping: ReadonlySet<string>
++): string {
++  const held = objectAt(ts.parseJsonText(at, text), holding)
+   if (held === null) return text
+   const spans: Span[] = []
+   let after = false
+diff --git a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.ts b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.ts
+index e25290332ce249a67e4a3298c56ec223f8669a59..2c92efea8593936c13b466bb4007d67495dae474 100644
+--- a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.ts
++++ b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.ts
+@@ -23,6 +23,10 @@ export const removeManifestWays = {
+       invariantKind: "departure",
+       statement: "A way in is dropped by splicing the manifest's text.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The entries under any key a caller names are spliced out the same way.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The manifest keeps the spacing the manifest already carries.",
