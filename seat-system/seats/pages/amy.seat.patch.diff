@@ -1,3 +1,15 @@
+diff --git a/pages/access/file-read/file-read.module.code.ts b/pages/access/file-read/file-read.module.code.ts
+index fa7bfd66f64f3965419379108cd4c11835152472..80378d1d466504681dd34e5ae9f7c9612cccf2ae 100644
+--- a/pages/access/file-read/file-read.module.code.ts
++++ b/pages/access/file-read/file-read.module.code.ts
+@@ -39,7 +39,6 @@ const NON_NULLABLE_ORDER_KEYS: ReadonlySet<string> = new Set([
+ 
+ const ALSO_READ: Readonly<Record<string, string>> = {
+   status: "status",
+-  completedAt: "completed_at",
+   favoritedAt: "favorited_at",
+   lastViewedAt: "last_viewed_at",
+ }
 diff --git a/pages/access/routing-core/routing-core.module.code.ts b/pages/access/routing-core/routing-core.module.code.ts
 index 027610e30512f5f2efb96a43cd63198abf20a86b..b91d77ead6679302b5ba8b2eba1f57b2108dade5 100644
 --- a/pages/access/routing-core/routing-core.module.code.ts
