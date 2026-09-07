@@ -1,0 +1,24 @@
+diff --git a/bun.lock b/bun.lock
+index 9701b5cd45d62d32c6c367b220b7744f8128c7b0..2e7549ee17ad171681b3f2f8d16370c911a7ad43 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -822,6 +822,7 @@
+     "git-transport": {
+       "name": "@akasha/git-transport",
+       "dependencies": {
++        "@akasha/code": "workspace:*",
+         "@akasha/k8s-types": "workspace:*",
+         "@akasha/utils-narrow": "workspace:*",
+         "zod": "^4.3.6",
+diff --git a/git-transport/package.json b/git-transport/package.json
+index b24570118c5e5c180496813d4fa26c5f14ea3eb5..34f4b8500489df715f294b8b4e216ed1f8b0b3d1 100644
+--- a/git-transport/package.json
++++ b/git-transport/package.json
+@@ -4,6 +4,7 @@
+   "type": "module",
+   "exports": {},
+   "dependencies": {
++    "@akasha/code": "workspace:*",
+     "@akasha/k8s-types": "workspace:*",
+     "@akasha/utils-narrow": "workspace:*",
+     "zod": "^4.3.6"
