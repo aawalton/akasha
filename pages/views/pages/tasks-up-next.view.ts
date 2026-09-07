@@ -9,12 +9,12 @@ export const tasksUpNext = {
   pageType: "to-do",
   viewPlace: 1,
   narrows: [
-    { key: "completed-at", comparison: "empty", values: ["true"] },
-    { key: "due-date", comparison: "at-or-after", values: ["eso-day-next"] },
+    { key: "to-do-completed-at", comparison: "empty", values: ["true"] },
+    { key: "to-do-due-date", comparison: "at-or-after", values: ["eso-day-next"] },
   ],
   viewSorts: [
-    { key: "due-date", descending: false },
+    { key: "to-do-due-date", descending: false },
     { key: "due-time", descending: false },
   ],
-  visibleProperties: ["priority", "due-date", "due-time"],
+  visibleProperties: ["to-do-priority", "to-do-due-date", "due-time"],
 } as const satisfies View

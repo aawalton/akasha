@@ -8,7 +8,7 @@ export const temperTasksAll = {
   navSlug: "temper-tasks",
   pageType: "temper-task",
   viewPlace: 4,
-  viewSorts: [{ key: "updated-at", descending: true }],
+  viewSorts: [{ key: "display-order", descending: false }],
   visibleProperties: ["due-date"],
   pageSize: 12,
   itemPageSize: 12,
