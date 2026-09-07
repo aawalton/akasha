@@ -374,7 +374,7 @@ index 0000000000000000000000000000000000000000..613c5ac8b5a57389babcc1bf17cce7cb
 +})
 diff --git a/command-system/command-filling/command-filling.module.ts b/command-system/command-filling/command-filling.module.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..ebcdaeafecf51b04fbc6422bc3ae222ddec335de
+index 0000000000000000000000000000000000000000..675c787e3bd287449ca57dfd0f7bf4827b65f585
 --- /dev/null
 +++ b/command-system/command-filling/command-filling.module.ts
 @@ -0,0 +1,29 @@
@@ -394,7 +394,7 @@ index 0000000000000000000000000000000000000000..ebcdaeafecf51b04fbc6422bc3ae222d
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A bare word past the one a command takes is the caller's mistake.",
++      statement: "A second bare word is the caller's mistake where a command takes a bare word.",
 +    },
 +    {
 +      invariantKind: "departure",
