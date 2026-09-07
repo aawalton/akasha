@@ -45,7 +45,7 @@ export const mobileTestflightStatus = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here builds, uploads or reaches the mac.",
+      statement: "Nothing here builds or uploads or reaches the mac.",
     },
   ],
 } as const satisfies Command
