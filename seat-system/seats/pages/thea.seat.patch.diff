@@ -1,5 +1,18 @@
 writerOwesReading: false
 readersOweReading: false
+diff --git a/alan/harness/monarch/category-rules/properties/match-comparison.select-property.ts b/alan/harness/monarch/category-rules/properties/match-comparison.select-property.ts
+index 0dac3864e30d04ef5f8b4af4bf0bb3ef1aef20f4..9718d820e9ab1debd4bcead5f06abdeed85480f4 100644
+--- a/alan/harness/monarch/category-rules/properties/match-comparison.select-property.ts
++++ b/alan/harness/monarch/category-rules/properties/match-comparison.select-property.ts
+@@ -4,7 +4,7 @@ export const matchComparison = {
+   id: "01a0680c-3c00-7001-a763-8d2f5b9e3102",
+   pageTypeSlug: "select-property",
+   slug: "match-comparison",
+-  propertySlug: "match-comparison",
++  propertySlug: "comparison",
+   definition: "how a clause weighs what it tests against what it holds",
+   values: ["is", "is-not", "on-or-after", "is-before"],
+   invariants: [
 diff --git a/alan/harness/monarch/category-rules/properties/match-key.select-property.ts b/alan/harness/monarch/category-rules/properties/match-key.select-property.ts
 index aa35b2a78a870cf5c1ee7e71ea5ba44622665598..b85d55bf652f2326b506f45fb48e518634c798ba 100644
 --- a/alan/harness/monarch/category-rules/properties/match-key.select-property.ts
