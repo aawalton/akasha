@@ -52,8 +52,11 @@ export const nav = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A nav item belongs to one app, and an app's navigation is every nav item naming that app.",
+      statement: "A nav item belongs to one app.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An app's navigation is every nav item naming that app.",
     },
     {
       invariantKind: "departure",
