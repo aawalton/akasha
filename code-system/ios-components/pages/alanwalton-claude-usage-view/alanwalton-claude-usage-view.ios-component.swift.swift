@@ -89,7 +89,12 @@ struct ClaudeUsageHomeView: View {
         }
         .padding(LARGE_RING_TILE_PADDING)
         .containerBackground(for: .widget) { Color(.systemBackground) }
-        .widgetURL(URL(string: "capacitor://localhost/nav/claude-accounts-d93b211a"))
+        .widgetURL(
+            URL(
+                string:
+                    "capacitor://localhost/nav/claude-accounts-d93b211a#widget=alanwalton-claude-usage"
+            )
+        )
     }
 
     private var usage: ClaudeUsage? {

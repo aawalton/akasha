@@ -81,7 +81,12 @@ struct InboxHomeView: View {
                 RefusedView()
             }
         }
-        .widgetURL(URL(string: "capacitor://localhost/nav/tasks-a7242626"))
+        .widgetURL(
+            URL(
+                string:
+                    "capacitor://localhost/nav/tasks-a7242626#widget=alanwalton-inbox-stoplights"
+            )
+        )
     }
 
     private func grid(_ stoplights: [InboxStoplight]) -> some View {
