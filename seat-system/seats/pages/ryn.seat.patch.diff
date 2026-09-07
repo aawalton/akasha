@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/testing-system/dom-guarding/dom-guarding.module.ts b/testing-system/dom-guarding/dom-guarding.module.ts
+index 8921b269ed08cf3bd95011c3deffb7b1f3f592bb..58653ba1c597e583eadfd73177f4f3b141c078d1 100644
+--- a/testing-system/dom-guarding/dom-guarding.module.ts
++++ b/testing-system/dom-guarding/dom-guarding.module.ts
+@@ -10,7 +10,7 @@ export const domGuarding = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A test naming itself a component test is the one this guards.",
++      statement: "A test naming itself a component test is the test this guards.",
+     },
+     {
+       invariantKind: "departure",
