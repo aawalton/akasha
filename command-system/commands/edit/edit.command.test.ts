@@ -41,7 +41,7 @@ test("a body the record shows read is edited", async () => {
   expect(said.code).toBe(0)
 })
 
-test("the glass broken edits a body the record does not show read", async () => {
+test("the glass broken still refuses a body the record does not show read", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
   put(root, "akasha/loose.ts", "alpha\n")
   const said = await edited(root, [
@@ -49,9 +49,9 @@ test("the glass broken edits a body the record does not show read", async () => 
     "--break-the-glass",
     "held",
   ])
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("delta\n")
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join(" ")).toContain("akasha/loose.ts")
+  expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("alpha\n")
 })
 
 test("an edit charged to no agent is refused whole", async () => {
