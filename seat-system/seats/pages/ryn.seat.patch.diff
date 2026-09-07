@@ -1,0 +1,24 @@
+diff --git a/bun.lock b/bun.lock
+index bd4076028628bd42db8428efdf69aaf0f1485776..7d0d8c44149327835ffec0541653c0a275f61c68 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -1042,6 +1042,7 @@
+     "infrastructure/cluster-manifests": {
+       "name": "@akasha/cluster-manifests",
+       "dependencies": {
++        "@akasha/code": "workspace:*",
+         "@akasha/k8s-synth": "workspace:*",
+         "@akasha/k8s-types": "workspace:*",
+         "@akasha/pages": "workspace:*",
+diff --git a/infrastructure/cluster-manifests/package.json b/infrastructure/cluster-manifests/package.json
+index f1ef7ec81283f1b3760c2d2bb981ad21f763d21a..f90b415cecaf6eb2a7fd01dbd972146fb9f4a45f 100644
+--- a/infrastructure/cluster-manifests/package.json
++++ b/infrastructure/cluster-manifests/package.json
+@@ -64,6 +64,7 @@
+     "./voice-infer-rbac": "./voice-infer-rbac/voice-infer-rbac.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/code": "workspace:*",
+     "@akasha/k8s-synth": "workspace:*",
+     "@akasha/k8s-types": "workspace:*",
+     "@akasha/pages": "workspace:*",
