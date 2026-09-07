@@ -1,5 +1,5 @@
 diff --git a/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts b/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
-index ea4eeb5b5a8a3f129ca63b9709c4cfd526b46762..76ef14cbd784049d1d31717af20df84eb766a34c 100644
+index ea4eeb5b5a8a3f129ca63b9709c4cfd526b46762..ea11eac0a15460e89d716326ad302126673c9e52 100644
 --- a/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
 +++ b/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
 @@ -13,7 +13,11 @@ export const tickSleeping = {
@@ -15,3 +15,16 @@ index ea4eeb5b5a8a3f129ca63b9709c4cfd526b46762..76ef14cbd784049d1d31717af20df84e
      },
      {
        invariantKind: "departure",
+@@ -25,7 +29,11 @@ export const tickSleeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A timer left behind holds the process up, so every wait clears its own.",
++      statement: "A timer left behind holds the process up.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every wait clears its own timer.",
+     },
+     {
+       invariantKind: "absence",
