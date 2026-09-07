@@ -1,3 +1,19 @@
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index 9e6654c0184554089ae51831778b48b35bebac0b..361ec3d3d7024b0d71042c21257a2bc6fc298884 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -17,6 +17,11 @@ export const changeMechanical = {
+   pluralSlug: "change-mechanical",
+   extendsSlug: ["page-type/change"],
+   partSlugs: [
++    "page-type/change-mechanical-file",
++    "page-type/change-mechanical-folder",
++    "page-type/change-mechanical-code",
++    "page-type/change-mechanical-data",
++    "page-type/change-mechanical-text",
+     "change-mechanical/move-file",
+     "change-mechanical/remove-file",
+     "change-mechanical/remove-code-file",
 diff --git a/changes/mechanical/code/change-mechanical-code.page-type.ts b/changes/mechanical/code/change-mechanical-code.page-type.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..bef54b27065beb69510a971c99849b58567764fe
