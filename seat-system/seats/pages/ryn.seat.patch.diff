@@ -1,0 +1,13 @@
+diff --git a/command-system/prose-routing/prose-routing.module.ts b/command-system/prose-routing/prose-routing.module.ts
+index 894c48187bdade5ed5c7f6da6be8d9cf1a2336f7..5e88f1b93ae9ad2dc0a4d66f2e7ffb6238184219 100644
+--- a/command-system/prose-routing/prose-routing.module.ts
++++ b/command-system/prose-routing/prose-routing.module.ts
+@@ -20,7 +20,7 @@ export const proseRouting = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A route reads its value from a file, or from standard input where the path is `-`.",
++        "A route reads its value from a file or from standard input where the path is `-`.",
+     },
+     {
+       invariantKind: "departure",
