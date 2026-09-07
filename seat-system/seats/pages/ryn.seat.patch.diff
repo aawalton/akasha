@@ -153,15 +153,3 @@ index 889154fb352315c5f2f70a9954850ec371ee0744..ed114c78cefc80629f9bd80f222b5be0
    }
  }
  
-diff --git a/domains/plain-language/parse-cache/parse-cache.module.code.ts b/domains/plain-language/parse-cache/parse-cache.module.code.ts
-index 8b0a30ccb9086b7e948f76ab97158c94ae0929a5..92ec215a227fc4c5d9720aba50039cfb77afa81a 100644
---- a/domains/plain-language/parse-cache/parse-cache.module.code.ts
-+++ b/domains/plain-language/parse-cache/parse-cache.module.code.ts
-@@ -9,6 +9,7 @@ const SHARD_WIDTH = 2
- const KEY_WIDTH = 32
- const NO_MODEL = "unknown-model"
- const CACHE_PARTS = ["cache", "parse"]
-+const PARSE_SHAPE = "2"
- 
- export type ParseCache = {
-   readonly at: string | null
