@@ -1,0 +1,44 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index b6113060fec1d24379f026b6b865478e3990a5f2..eb8cbc1ca605d4272fc73f2cdc8496896f20efe3 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -20,7 +20,6 @@ export const changeMechanical = {
+     "page-type/change-mechanical-file",
+     "page-type/change-mechanical-folder",
+     "page-type/change-mechanical-data",
+-    "page-type/change-mechanical-text",
+     "page-type/change-mechanical-manifest",
+     "page-type/change-mechanical-file-content",
+     "relation-property/guard-slugs",
+diff --git a/changes/mechanical/text/change-mechanical-text.page-type.ts b/changes/mechanical/text/change-mechanical-text.page-type.ts
+deleted file mode 100644
+index 1a0926db8e37b56d31f628ce62e337acac1c4529..0000000000000000000000000000000000000000
+--- a/changes/mechanical/text/change-mechanical-text.page-type.ts
++++ /dev/null
+@@ -1,25 +0,0 @@
+-import type { PageType } from "../../../pages/types/page-type.page-type.ts"
+-import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
+-
+-export type ChangeMechanicalText = ChangeMechanical & {
+-  changeTargetTypeSlug: "change-target-type/file-content"
+-  changeTargetSubtypeSlug: "change-target-subtype/page-property-prose"
+-}
+-
+-export const changeMechanicalText = {
+-  id: "01a07ba6-609d-7990-846f-5fa9c55e643a",
+-  pageTypeSlug: "page-type",
+-  slug: "change-mechanical-text",
+-  definition: "a mechanical change acting on a body read as text",
+-  pluralSlug: "change-mechanical-text",
+-  extendsSlug: ["page-type/change-mechanical"],
+-  partSlugs: [],
+-  properties: [
+-    { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
+-    {
+-      pagePropertySlug: "relation-property/change-target-subtype-slug",
+-      required: true,
+-      many: false,
+-    },
+-  ],
+-} as const satisfies PageType
