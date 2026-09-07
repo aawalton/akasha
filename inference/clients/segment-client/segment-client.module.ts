@@ -13,7 +13,7 @@ export const segmentClient = {
     },
     {
       invariantKind: "departure",
-      statement: "The service answers a matte, a cutout or a flattened image.",
+      statement: "The service answers a matte or a cutout or a flattened image.",
     },
     {
       invariantKind: "departure",
