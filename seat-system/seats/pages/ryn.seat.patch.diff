@@ -1,0 +1,85 @@
+writerOwesReading: false
+diff --git a/domains/domain.page-type.ts b/domains/domain.page-type.ts
+index a969bc51715e45f6aef38396a534df6a504417d3..0a1cb7d4558d5ffc423e0eec099be1f674f764b3 100644
+--- a/domains/domain.page-type.ts
++++ b/domains/domain.page-type.ts
+@@ -26,7 +26,7 @@ export const domain = {
+     "relation-property/domain-slug",
+     "relation-property/invariant-kind",
+     "relation-property/part-slugs",
+-    "text-property/act",
++    "standard-agent-english-property/act",
+     "text-property/aids",
+     "text-property/definition",
+     "text-property/invariant-statement",
+diff --git a/domains/properties/act.standard-agent-english-property.ts b/domains/properties/act.standard-agent-english-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7f1664c1e3f7694dc320268f3d223f1a15522b4d
+--- /dev/null
++++ b/domains/properties/act.standard-agent-english-property.ts
+@@ -0,0 +1,13 @@
++import type { StandardAgentEnglishProperty } from "../standard-agent-english/standard-agent-english-properties/standard-agent-english-property.page-type.ts"
++
++export type Act = string
++
++export const act = {
++  id: "01a049c9-3a2c-7234-9286-d41a1bc4a7c0",
++  pageTypeSlug: "standard-agent-english-property",
++  slug: "act",
++  propertySlug: "act",
++  definition: "what a directive tells its reader to do",
++  maxLength: 100,
++  nameFormatSlug: null,
++} as const satisfies StandardAgentEnglishProperty
+diff --git a/domains/properties/act.text-property.ts b/domains/properties/act.text-property.ts
+deleted file mode 100644
+index ff1627b64079f5433e168c3bdab92291d08cab8b..0000000000000000000000000000000000000000
+--- a/domains/properties/act.text-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type Act = string
+-
+-export const act = {
+-  id: "01a049c9-3a2c-7234-9286-d41a1bc4a7c0",
+-  pageTypeSlug: "text-property",
+-  slug: "act",
+-  propertySlug: "act",
+-  definition: "what a directive tells its reader to do",
+-  maxLength: 100,
+-  nameFormatSlug: null,
+-} as const satisfies TextProperty
+diff --git a/domains/properties/directives.record-property.ts b/domains/properties/directives.record-property.ts
+index ba7dab64d3fd6c94bd54fd7dee3549f0636f7783..c3f86a33bad95e7cb7009b0a5b53c59fc62ac667 100644
+--- a/domains/properties/directives.record-property.ts
++++ b/domains/properties/directives.record-property.ts
+@@ -1,6 +1,6 @@
+ import type { List } from "@akasha/pages/page-property"
+ import type { RecordProperty } from "@akasha/pages/record-property"
+-import type { Act } from "./act.text-property.ts"
++import type { Act } from "./act.standard-agent-english-property.ts"
+ import type { Aids } from "./aids.text-property.ts"
+ import type { DirectiveKind } from "./directive-kind.relation-property.ts"
+ import type { Name } from "./name.text-property.ts"
+@@ -25,7 +25,7 @@ export const directives = {
+   properties: [
+     { pagePropertySlug: "relation-property/directive-kind", required: true, many: false },
+     { pagePropertySlug: "text-property/name", required: true, many: false },
+-    { pagePropertySlug: "text-property/act", required: true, many: false },
++    { pagePropertySlug: "standard-agent-english-property/act", required: true, many: false },
+     { pagePropertySlug: "text-property/warrant", required: true, many: false },
+     { pagePropertySlug: "text-property/aids", required: true, many: true, maxCount: 10 },
+   ],
+diff --git a/readout-system/values/value.page-type.ts b/readout-system/values/value.page-type.ts
+index 4e1d1f5d9351a75288f718f04d1dd5268ab3fb0d..f995acd799fd68e01d292180f6d2e973ffe7ca08 100644
+--- a/readout-system/values/value.page-type.ts
++++ b/readout-system/values/value.page-type.ts
+@@ -45,7 +45,6 @@ export const value = {
+   extendsSlug: ["page-type/domain"],
+   properties: [
+     { pagePropertySlug: "text-property/label", required: true, many: false },
+-    { pagePropertySlug: "text-property/description", required: false, many: false },
+     { pagePropertySlug: "relation-property/value-color-slug", required: false, many: false },
+     { pagePropertySlug: "number-property/place", required: true, many: false },
+     { pagePropertySlug: "text-property/unit", required: false, many: false },
