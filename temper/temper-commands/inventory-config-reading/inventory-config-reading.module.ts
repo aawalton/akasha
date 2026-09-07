@@ -22,7 +22,11 @@ export const inventoryConfigReading = {
     },
     {
       invariantKind: "departure",
-      statement: "An ordered rule carries no id, the id being the caller's to hold.",
+      statement: "An ordered rule carries no id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The id is the caller's to hold.",
     },
     {
       invariantKind: "departure",
