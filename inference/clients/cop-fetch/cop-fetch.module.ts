@@ -13,8 +13,11 @@ export const copFetch = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The runtime's own idle timeout is turned off, so a slow cold model load is waited out.",
+      statement: "The runtime's own idle timeout is turned off.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slow cold model load is waited out.",
     },
   ],
 } as const satisfies Module
