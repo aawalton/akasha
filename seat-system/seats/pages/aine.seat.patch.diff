@@ -1,0 +1,33 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index 4e7006809e125a36e609b0e904fbe1c0b25b2715..aabfd7d9f682e4c194650729802bdf7c07b67502 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -22,6 +22,7 @@ export const changeMechanical = {
+     "page-type/change-mechanical-code",
+     "page-type/change-mechanical-data",
+     "page-type/change-mechanical-text",
++    "page-type/change-mechanical-manifest",
+     "change-mechanical-file/move-file",
+     "change-mechanical-file/remove-file",
+     "change-mechanical-file/remove-code-file",
+diff --git a/changes/mechanical/manifest/change-mechanical-manifest.page-type.ts b/changes/mechanical/manifest/change-mechanical-manifest.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..43371412a31c0dbcb70c610771cbb0c23d4bb7aa
+--- /dev/null
++++ b/changes/mechanical/manifest/change-mechanical-manifest.page-type.ts
+@@ -0,0 +1,14 @@
++import type { PageType } from "../../../pages/types/page-type.page-type.ts"
++import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
++
++export type ChangeMechanicalManifest = ChangeMechanical
++
++export const changeMechanicalManifest = {
++  id: "01a07c41-bccd-79d5-9e2c-62625488915e",
++  pageTypeSlug: "page-type",
++  slug: "change-mechanical-manifest",
++  definition: "a mechanical change acting on a package manifest rather than on a page's own body",
++  pluralSlug: "change-mechanical-manifest",
++  extendsSlug: ["page-type/change-mechanical"],
++  partSlugs: [],
++} as const satisfies PageType
