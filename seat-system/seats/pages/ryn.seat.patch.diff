@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/inference/runs/persist-audio/persist-audio.module.ts b/inference/runs/persist-audio/persist-audio.module.ts
+index a48cc3b676f89b4a8f60aa72085564bb75f484ef..470d80e3bdc4ebadde2c3ffb0ade28738f010eac 100644
+--- a/inference/runs/persist-audio/persist-audio.module.ts
++++ b/inference/runs/persist-audio/persist-audio.module.ts
+@@ -9,7 +9,7 @@ export const persistAudio = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Only a voice-design, voice-clone or music run lands audio.",
++      statement: "Only a voice-design or voice-clone or music run lands audio.",
+     },
+     {
+       invariantKind: "departure",
