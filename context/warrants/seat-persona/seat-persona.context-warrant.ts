@@ -20,8 +20,12 @@ export const seatPersona = {
       statement: "A seat stating no persona warrants the type all the same.",
     },
     {
+      invariantKind: "departure",
+      statement: "A subagent speaks to nobody as a persona.",
+    },
+    {
       invariantKind: "absence",
-      statement: "A subagent speaks to nobody as a persona, so a subagent warrants no type here.",
+      statement: "A subagent warrants no type here.",
     },
     {
       invariantKind: "departure",
