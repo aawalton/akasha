@@ -1,120 +1,49 @@
 writerOwesReading: false
-diff --git a/code-system/name-series/name-series.module.code.ts b/code-system/name-series/name-series.module.code.ts
-index 54c59e6d3584dd2eda9cfe223ac8833fcccf2015..7c84c37b344e74bd5328e619ba4b3ee6f69d0bf9 100644
---- a/code-system/name-series/name-series.module.code.ts
-+++ b/code-system/name-series/name-series.module.code.ts
-@@ -9,7 +9,6 @@ export const RUN_LINE_BUDGET_BYTES = 13_501
- 
- const MODULE_PAGE_TYPE_REL = "code-system/modules/module.page-type.ts"
- 
--/** The module page type, reached by the id it keeps rather than by the slug it answers to. */
- const MODULE_PAGE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
- 
- const encoder = new TextEncoder()
-@@ -245,10 +244,49 @@ function holdsBody(root: string, rel: string, body: string): boolean {
-   return readFileSync(at, "utf8") === body
- }
- 
--function quoted(word: string): string {
-+export function quoted(word: string): string {
-   return `'${word.replaceAll("'", `'\\''`)}'`
- }
- 
-+const FENCE = "AKASHA-BODY"
-+
-+export function removingAt(change: string, rel: string): string {
-+  return `printf 'at: %s\\n' ${quoted(rel)} | akasha change ${change}`
-+}
-+
-+function fenced(key: string, at: string, body: string): readonly string[] {
-+  const whole = body.endsWith("\n")
-+  return [
-+    `  printf '${key} ${FENCE}${whole ? "" : " no-newline"}\\n'`,
-+    `  cat ${quoted(at)}`,
-+    `  printf '${whole ? "" : "\\n"}${FENCE}\\n'`,
-+  ]
-+}
-+
-+export function addingFile(rel: string, at: string, body: string): readonly string[] {
-+  return [
-+    "{",
-+    `  printf 'at: %s\\n' ${quoted(rel)}`,
-+    ...fenced("body", at, body),
-+    "} | akasha change add-file",
-+  ]
-+}
-+
-+export function changingFile(
-+  rel: string,
-+  was: string,
-+  at: string,
-+  body: string
-+): readonly string[] {
-+  return [
-+    "{",
-+    `  printf 'at: %s\\n' ${quoted(rel)}`,
-+    ...fenced("old", was, readFileSync(was, "utf8")),
-+    ...fenced("new", at, body),
-+    "} | akasha change change-file",
-+  ]
-+}
-+
- export function stageSeries(
-   root: string,
-   spec: SeriesSpec,
-@@ -262,20 +300,17 @@ export function stageSeries(
-     .map((slug) => pageRelOf(spec, slug))
- 
-   const files: StagedFile[] = []
+diff --git a/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.code.ts b/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.code.ts
+index 47c4b23b48d927c7a6abdffdbc3abf4f281a26af..295981aed8eefebbc31e6c7c1aa44f710a10cb8c 100644
+--- a/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.code.ts
++++ b/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.code.ts
+@@ -1,6 +1,6 @@
+ import { existsSync, mkdirSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+-import { quoted } from "@akasha/code/name-series"
++import { addingFile, changingFile, quoted, removingAt } from "@akasha/code/name-series"
+ import type { Answer, Given } from "@akasha/command-system/calling"
+ import { ran } from "@akasha/utils-run/running"
+ import {
+@@ -101,7 +101,7 @@ function staged(
+   pages: readonly Staged[],
+   gone: readonly string[]
+ ): string {
 -  const argv: string[] = []
 +  const calls: string[] = []
-   const changed: string[] = []
- 
    for (const page of pages) {
--    const candidates: readonly (readonly [string, string, boolean])[] = [
--      [page.codeRel, page.code, false],
--      [page.pageRel, page.page, true],
-+    const candidates: readonly (readonly [string, string])[] = [
-+      [page.codeRel, page.code],
-+      [page.pageRel, page.page],
-     ]
--    for (const [rel, body, isPage] of candidates) {
--      const there = existsSync(resolve(root, rel))
--      if (isPage && there) {
--        files.push({ rel, at: null, alreadyThere: true })
--        continue
--      }
-+    for (const [rel, body] of candidates) {
-+      const was = resolve(root, rel)
-+      const there = existsSync(was)
-       if (holdsBody(root, rel, body)) {
-         files.push({ rel, at: null, alreadyThere: true })
-         continue
-@@ -285,23 +320,25 @@ export function stageSeries(
-       writeFileSync(at, body)
-       files.push({ rel, at, alreadyThere: there })
-       changed.push(rel)
--      argv.push("--file-path", rel, "--content-file", at)
-+      calls.push(...(there ? changingFile(rel, was, at, body) : addingFile(rel, at, body)))
+     for (const [at, body] of [
+       [page.codeAt, page.code],
+@@ -110,21 +110,28 @@ function staged(
+       const into = join(stage, at)
+       mkdirSync(dirname(into), { recursive: true })
+       writeFileSync(into, body)
+-      argv.push("--file-path", at, "--content-file", into)
++      const was = join(root, at)
++      calls.push(
++        ...(existsSync(was) ? changingFile(at, was, into, body) : addingFile(at, into, body))
++      )
      }
    }
- 
--  for (const rel of goneRels) argv.push("--remove", rel)
-+  for (const rel of goneRels) calls.push(removingAt("remove-page", rel))
- 
--  if (argv.length === 0) return { files, goneRels, changed, landAt: null }
-+  if (calls.length === 0) return { files, goneRels, changed, landAt: null }
+-  for (const slug of gone) argv.push("--remove", pageAtOf(slug))
++  for (const slug of gone) calls.push(removingAt("remove-page", pageAtOf(slug)))
  
    const messageAt = join(stage, "message.txt")
-   mkdirSync(dirname(messageAt), { recursive: true })
-   writeFileSync(messageAt, `${message}\n`)
+   writeFileSync(
+     messageAt,
+     `regenerate the icon search index from lucide ${LUCIDE_TAG}\n\nWritten by \`${REGENERATE}\`.\n`
+   )
 -  argv.push("--message-file", messageAt)
  
    const landAt = join(stage, "land.sh")
--  writeFileSync(
--    landAt,
--    `#!/usr/bin/env bash\nset -euo pipefail\nakasha write \\\n  ${argv.map(quoted).join(" \\\n  ")}\n`
--  )
+-  const call = argv.map(quoted).join(" \\\n  ")
+-  writeFileSync(landAt, `#!/usr/bin/env bash\nset -euo pipefail\nakasha write \\\n  ${call}\n`)
 +  const script = [
 +    "#!/usr/bin/env bash",
 +    "set -euo pipefail",
@@ -122,166 +51,73 @@ index 54c59e6d3584dd2eda9cfe223ac8833fcccf2015..7c84c37b344e74bd5328e619ba4b3ee6
 +    `akasha apply --message-file ${quoted(messageAt)}`,
 +  ]
 +  writeFileSync(landAt, `${script.join("\n")}\n`)
-   return { files, goneRels, changed, landAt }
- }
-diff --git a/code-system/name-series/name-series.module.ts b/code-system/name-series/name-series.module.ts
-index 624f9e6efce50a464602f598b3fa7897a6a7ab7b..ff9b128cafd0fd65e2f9e0cecd9d6048a034f038 100644
---- a/code-system/name-series/name-series.module.ts
-+++ b/code-system/name-series/name-series.module.ts
-@@ -38,7 +38,7 @@ export const nameSeries = {
-     },
-     {
-       invariantKind: "departure",
--      statement: "A page file already there is left alone and only the code beside is rewritten.",
-+      statement: "A file already holding the body rendered is left alone.",
-     },
-     {
-       invariantKind: "absence",
-diff --git a/pages/commands/package.json b/pages/commands/package.json
-index ac4d70f15304782f3f0ad680b157191634e8bf78..a0f016eac0f327855c7baf9d4f61dbfcaaf0369c 100644
---- a/pages/commands/package.json
-+++ b/pages/commands/package.json
-@@ -5,6 +5,7 @@
-   "dependencies": {
-     "@akasha/code": "workspace:*",
-     "@akasha/command-system": "workspace:*",
--    "@akasha/pages": "workspace:*"
-+    "@akasha/pages": "workspace:*",
-+    "@akasha/utils-run": "workspace:*"
-   }
- }
-diff --git a/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.code.ts b/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.code.ts
-index 4a4fcc41f848747bf18853259919adfb82e9d765..47c4b23b48d927c7a6abdffdbc3abf4f281a26af 100644
---- a/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.code.ts
-+++ b/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.code.ts
-@@ -1,7 +1,8 @@
--import { spawnSync } from "node:child_process"
- import { existsSync, mkdirSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
- import { dirname, join } from "node:path"
-+import { quoted } from "@akasha/code/name-series"
- import type { Answer, Given } from "@akasha/command-system/calling"
-+import { ran } from "@akasha/utils-run/running"
- import {
-   AGGREGATE,
-   bytesIn,
-@@ -20,7 +21,6 @@ const STAGE = "--stage"
- 
- const VALUED: readonly string[] = [CODE_ROOT, STAGE]
- 
--/** The release the icons are read from. Bumping this is the whole point of a run. */
- const LUCIDE_TAG = "0.576.0"
- 
- const LUCIDE_REPO = "https://github.com/lucide-icons/lucide"
-@@ -63,10 +63,6 @@ export function wordsIn(argv: readonly string[]): Reading {
-   return refusals.length > 0 ? { refused: refusals } : { named }
- }
- 
--export function quoted(word: string): string {
--  return `'${word.replaceAll("'", `'\\''`)}'`
--}
--
- async function fetched(
-   into: string
- ): Promise<{ readonly icons: string } | { readonly why: string }> {
-@@ -88,9 +84,9 @@ async function fetched(
-     return { why: thrown instanceof Error ? thrown.message : String(thrown) }
-   }
-   await Bun.write(tarball, bytes)
--  const unpacked = spawnSync("tar", ["xzf", tarball, "-C", into])
--  if (unpacked.status !== 0) {
--    return { why: `the lucide ${LUCIDE_TAG} tarball would not unpack: ${String(unpacked.stderr)}` }
-+  const unpacked = ran(["tar", "xzf", tarball, "-C", into])
-+  if (unpacked.code !== 0) {
-+    return { why: `the lucide ${LUCIDE_TAG} tarball would not unpack: ${unpacked.err}` }
-   }
-   const icons = join(into, `lucide-${LUCIDE_TAG}`, "icons")
-   if (!existsSync(icons)) {
-@@ -99,8 +95,6 @@ async function fetched(
-   return { icons }
- }
- 
--/** Writes the bodies into the staging folder and the script that lands them. Nothing under
-- *  `akasha/` is touched: a body reaches there through `akasha write` alone. */
- function staged(
-   stage: string,
-   root: string,
-@@ -119,8 +113,6 @@ function staged(
-       argv.push("--file-path", at, "--content-file", into)
-     }
-   }
--  // A removed page carries the files standing beside it, so naming the page file takes the
--  // code body with it and empties the folder.
-   for (const slug of gone) argv.push("--remove", pageAtOf(slug))
- 
-   const messageAt = join(stage, "message.txt")
-@@ -136,8 +128,6 @@ function staged(
    return landAt
  }
  
--/** The staging folder is left standing after this returns, because the `akasha write` call
-- *  that lands what is in it is made afterwards by whoever ran this. */
- function stagingAt(named: string | undefined): string {
-   if (named === undefined) return mkdtempSync(join(realpathSync(SCRATCH_UNDER), STAGE_PREFIX))
-   mkdirSync(named, { recursive: true })
-diff --git a/temper/temper-addon-data/addon-data-target/addon-data-target.module.code.ts b/temper/temper-addon-data/addon-data-target/addon-data-target.module.code.ts
-index 9878a2f6cc5c0c7e9d80adb76f3f5c0cb1855015..e1f16ee86594c3e1c78a2f1e89ea0d03b495283a 100644
---- a/temper/temper-addon-data/addon-data-target/addon-data-target.module.code.ts
-+++ b/temper/temper-addon-data/addon-data-target/addon-data-target.module.code.ts
-@@ -1,3 +1,5 @@
-+import { ordinalWidth } from "@akasha/code-system/name-series"
-+
- export type AddonDataModuleTarget = {
-   readonly rendered: string
-   readonly workspacePackage: string
-@@ -406,17 +408,13 @@ export function targetOf(rendered: string): AddonDataTarget | undefined {
-   return ADDON_DATA_TARGETS.find((one) => one.rendered === rendered)
- }
+@@ -174,20 +181,19 @@ export async function pageIconSearchIndexGenerate(
+       `nothing has landed. To land what was staged, run:`,
+       `  bash ${landAt}`,
+       "",
+-      "a write over a body the read record does not show you read is refused, so every page " +
+-        "above that already stands has to be read first, or the write has to break the glass " +
+-        "— which also passes the checks that judge the sizes.",
++      "the apply is refused for a body the read record does not show you read, so every file " +
++        "the script changes has to be read first. Breaking the glass passes the checks and " +
++        "passes no reading.",
+     ]
  
--export function partDigitsOf(parts: number): number {
--  return Math.max(2, String(parts - 1).length)
--}
--
- export function landsAsEntries(target: AddonDataTarget): target is AddonDataEntriesTarget {
-   return "pageTypeSlug" in target
- }
+     const stood = new Set(standing)
+     const arrived = [...kept].filter((slug) => slug !== AGGREGATE && !stood.has(slug)).sort()
+-    if (arrived.length > 0 || gone.length > 0) {
++    if (arrived.length > 0) {
+       report.push(
+         "",
+-        "the shard count changed, so the `partSlugs` of the package holding these no longer " +
+-          "names what stands. Nothing here writes that list:",
+-        ...arrived.map((slug) => `  add     module/${slug}`),
+-        ...gone.map((slug) => `  remove  module/${slug}`)
++        "a shard that is new is named by no `partSlugs` of the package holding these, and " +
++          "nothing here writes that list. A shard removed is taken out of it by `remove-page`:",
++        ...arrived.map((slug) => `  add     module/${slug}`)
+       )
+     }
+     return { report, refusals: [], code: 0 }
+diff --git a/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.ts b/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.ts
+index a9074fad1f09ad9e14c66c83212c55f13ff3e427..fa7aab6f2ff44d7f510316832f5790efa3e82763 100644
+--- a/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.ts
++++ b/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.ts
+@@ -13,13 +13,13 @@ export const pageIconSearchIndexGenerate = {
+     { said: "--stage <path>", takes: "the folder the bodies are staged in" },
+   ],
+   helpNotes: [
+-    "nothing lands here: the bodies are staged and the `akasha write` call that lands them is answered.",
++    "nothing lands here: the bodies are staged, and the script answered drafts them with `akasha change` and lands them with `akasha apply`.",
+     "a shard that stood before keeps the id it had, and only a shard that is new is given one.",
+     "the icons are packed into shards under a budget rather than written as one file, because a body is refused past a size.",
+     "the budget an entries shard is packed against leaves room for what formatting adds, and the pascal shards need none.",
+     "a shard the new release no longer fills is named to be removed rather than left unimported.",
+-    "the staging folder is left standing, since the write that reads it is made afterwards.",
+-    "a page already standing has to be read before the write, or the write breaks the glass.",
++    "the staging folder remains, since the script that reads it is run afterwards.",
++    "every file the script changes has to be read before the apply, and breaking the glass passes the checks rather than the reading.",
+   ],
+   invariants: [
+     {
+@@ -30,7 +30,7 @@ export const pageIconSearchIndexGenerate = {
  
- export function partSlugsOf(target: AddonDataModuleTarget): readonly string[] {
-   if (target.parts === 1) return [target.moduleSlug]
--  const width = partDigitsOf(target.parts)
-+  const width = ordinalWidth(target.parts)
-   const held: string[] = []
-   for (let at = 0; at < target.parts; at += 1) {
-     held.push(`${target.partPrefix}-${String(at).padStart(width, "0")}`)
-diff --git a/temper/temper-addon-data/addon-data-target/addon-data-target.module.test.ts b/temper/temper-addon-data/addon-data-target/addon-data-target.module.test.ts
-index e3dd11cc87924afc6042eb351d5bd6b3206fc084..d8da00b033d652df6fd79574f4b065ff81de5df1 100644
---- a/temper/temper-addon-data/addon-data-target/addon-data-target.module.test.ts
-+++ b/temper/temper-addon-data/addon-data-target/addon-data-target.module.test.ts
-@@ -4,7 +4,6 @@ import {
-   type AddonDataEntriesTarget,
-   type AddonDataModuleTarget,
-   landsAsEntries,
--  partDigitsOf,
-   partSlugsOf,
-   targetOf,
- } from "./addon-data-target.module.code.ts"
-@@ -40,16 +39,14 @@ test("a single-part target is named by its module slug alone", () => {
- })
- 
- test("a part slug is written with no fewer than two digits", () => {
--  expect(partDigitsOf(2)).toBe(2)
--  expect(partDigitsOf(4)).toBe(2)
--  expect(partDigitsOf(100)).toBe(2)
-   expect(partSlugsOf(withParts(2))).toEqual(["a-part-00", "a-part-01"])
-+  expect(partSlugsOf(withParts(4))[0]).toBe("a-part-00")
-+  expect(partSlugsOf(withParts(100))[99]).toBe("a-part-99")
- })
- 
- test("a part slug is written with as many digits as the highest index needs", () => {
--  expect(partDigitsOf(101)).toBe(3)
--  expect(partDigitsOf(124)).toBe(3)
--  expect(partDigitsOf(1001)).toBe(4)
-+  expect(partSlugsOf(withParts(101))[100]).toBe("a-part-100")
-+  expect(partSlugsOf(withParts(1001))[1000]).toBe("a-part-1000")
-   const held = partSlugsOf(withParts(124))
-   expect(held).toHaveLength(124)
-   expect(held[0]).toBe("a-part-000")
+     {
+       invariantKind: "departure",
+-      statement: "A body rendered at or past the size a write refuses stages nothing at all.",
++      statement: "A body rendered at or past the size a landing refuses stages nothing at all.",
+     },
+     {
+       invariantKind: "departure",
+@@ -47,7 +47,7 @@ export const pageIconSearchIndexGenerate = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The list of shards the owning package's page states is written by this run.",
++      statement: "A shard that is new is written into the list the owning package's page states.",
+     },
+   ],
+ } as const satisfies Command
