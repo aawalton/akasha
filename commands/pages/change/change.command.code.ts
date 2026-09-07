@@ -289,6 +289,39 @@ export type Loading = (world: World, at: string) => Promise<Loaded | string>
 
 export type Applying = (message: string) => Promise<Answer>
 
+const DROP_KEYS: readonly string[] = [AT, "path"]
+
+const DROP_NAMES_NOTHING =
+  "the lines piped in name no path, and a drop naming no path takes every edit kept away"
+
+export function droppedIn(said: string): readonly string[] | string {
+  const held: string[] = []
+  for (const line of said.split("\n")) {
+    const one = line.trim()
+    if (one === "") continue
+    const ends = one.indexOf(":")
+    const key = ends === -1 ? "" : one.slice(0, ends).trim()
+    const path = DROP_KEYS.includes(key) ? one.slice(ends + 1).trim() : one
+    if (path === "") return `\`${one}\` names no path, so nothing went`
+    held.push(path)
+  }
+  return held.length === 0 ? DROP_NAMES_NOTHING : held
+}
+
+export function droppedPathsIn(piping: Piping): readonly string[] | string {
+  const held = piping()
+  if ("tty" in held) return BARE
+  if ("unreadable" in held) return `the arguments would not open: ${held.unreadable}`
+  if (held.bytes.byteLength === 0) return BARE
+  return droppedIn(new TextDecoder().decode(held.bytes))
+}
+
+function dropped(root: string, page: string, at: readonly string[], piping: Piping): Answer {
+  const piped = droppedPathsIn(piping)
+  if (typeof piped === "string") return mistaking([piped])
+  return dropping(root, page, [...at, ...piped])
+}
+
 export async function changing(
   root: string,
   page: string,
@@ -305,7 +338,7 @@ export async function changing(
   if (slug === HANDED) return listing(root, page)
   if (slug === TAKE) return taking(root, page, argv[1])
   if (slug === FORGET) return forgetting(root, page, argv[1])
-  if (slug === DROP) return dropping(root, page, argv.slice(1))
+  if (slug === DROP) return dropped(root, page, argv.slice(1), piping)
   const unknown = unknownIn(argv.slice(1), BARE, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const said = argumentsIn(piping)
