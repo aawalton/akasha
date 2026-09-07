@@ -10,7 +10,11 @@ export const vscodeTypings = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The manifest name is the whole mechanism, so nothing here is imported by path.",
+      statement: "The manifest name is the whole mechanism.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing here is imported by path.",
     },
     {
       invariantKind: "absence",
