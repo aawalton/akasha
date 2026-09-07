@@ -1,0 +1,77 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/initiative.page-type.ts b/domains/initiatives/initiative.page-type.ts
+index 70e9e85aa956d369f41020ad9854a05fc010ae0a..78880abc47188299d5b5571aed3fb4d301879fe6 100644
+--- a/domains/initiatives/initiative.page-type.ts
++++ b/domains/initiatives/initiative.page-type.ts
+@@ -26,7 +26,7 @@ export const initiative = {
+     "relation-property/initiative-slug",
+     "relation-property/parent-slug",
+     "text-property/constraints",
+-    "text-property/intent-statement",
++    "standard-agent-english-property/intent-statement",
+     "text-property/working-memory",
+   ],
+   extendsSlug: ["page-type/page"],
+diff --git a/domains/initiatives/properties/intent-statement.standard-agent-english-property.ts b/domains/initiatives/properties/intent-statement.standard-agent-english-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..152a8bd7dc7fc4e3bb2c43235719e0018f52be86
+--- /dev/null
++++ b/domains/initiatives/properties/intent-statement.standard-agent-english-property.ts
+@@ -0,0 +1,13 @@
++import type { StandardAgentEnglishProperty } from "../../standard-agent-english/standard-agent-english-properties/standard-agent-english-property.page-type.ts"
++
++export type IntentStatement = string
++
++export const intentStatement = {
++  id: "01a05f19-7b27-7bb1-955d-9086b34c5c30",
++  pageTypeSlug: "standard-agent-english-property",
++  slug: "intent-statement",
++  propertySlug: "statement",
++  definition: "one sentence saying what an initiative is to make so",
++  maxLength: 100,
++  nameFormatSlug: null,
++} as const satisfies StandardAgentEnglishProperty
+diff --git a/domains/initiatives/properties/intent-statement.text-property.ts b/domains/initiatives/properties/intent-statement.text-property.ts
+deleted file mode 100644
+index 1ba4de074d7f3fcb822594bc3b32c7fe321e4c67..0000000000000000000000000000000000000000
+--- a/domains/initiatives/properties/intent-statement.text-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type IntentStatement = string
+-
+-export const intentStatement = {
+-  id: "01a05f19-7b27-7bb1-955d-9086b34c5c30",
+-  pageTypeSlug: "text-property",
+-  slug: "intent-statement",
+-  propertySlug: "statement",
+-  definition: "one sentence saying what an initiative is to make so",
+-  maxLength: 100,
+-  nameFormatSlug: null,
+-} as const satisfies TextProperty
+diff --git a/domains/initiatives/properties/intents.record-property.ts b/domains/initiatives/properties/intents.record-property.ts
+index 0d5b270847b577fff060c49d0b44d4cc4e5add3f..38ab95e2518ee89d79dab0b68fd5019ee3f95bf0 100644
+--- a/domains/initiatives/properties/intents.record-property.ts
++++ b/domains/initiatives/properties/intents.record-property.ts
+@@ -1,6 +1,6 @@
+ import type { List } from "@akasha/pages/page-property"
+ import type { RecordProperty } from "@akasha/pages/record-property"
+-import type { IntentStatement } from "./intent-statement.text-property.ts"
++import type { IntentStatement } from "./intent-statement.standard-agent-english-property.ts"
+ import type { WorkingMemory } from "./working-memory.text-property.ts"
+ 
+ export type Intent = {
+@@ -17,7 +17,11 @@ export const intents = {
+   propertySlug: "intents",
+   definition: "what an initiative is to make so",
+   properties: [
+-    { pagePropertySlug: "text-property/intent-statement", required: true, many: false },
++    {
++      pagePropertySlug: "standard-agent-english-property/intent-statement",
++      required: true,
++      many: false,
++    },
+     { pagePropertySlug: "text-property/working-memory", required: false, many: false },
+   ],
+   invariants: [
