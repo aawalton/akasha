@@ -10,6 +10,7 @@ import {
 } from "@akasha/cluster-manifests/rbac-yaml"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
+import { lines } from "../../modules/yaml-lines/yaml-lines.module.code.ts"
 
 const DATA = 2
 
@@ -66,12 +67,6 @@ export function documentIn(): string {
     clusterRoleBinding(CLUSTER_ROLE_NAME, LABELS, SUBJECTS),
   ]
   return HEADER + sections.join("\n---\n") + "\n"
-}
-
-export function lines(yaml: string): readonly string[] {
-  const held = yaml.split("\n")
-  while (held.length > 0 && held[held.length - 1] === "") held.pop()
-  return held
 }
 
 export async function clusterRbacManifest(argv: readonly string[], given: Given): Promise<Answer> {

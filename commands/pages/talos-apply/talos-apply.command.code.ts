@@ -1,9 +1,9 @@
 import { existsSync } from "node:fs"
 import { chmod, copyFile, mkdir, mkdtemp, rm, writeFile } from "node:fs/promises"
-import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
+import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { buildNodePatch } from "@akasha/talos/talos-build-patch"
 import { buildSchematic } from "@akasha/talos/talos-build-schematic"
 import { buildNodeVolumes } from "@akasha/talos/talos-build-volumes"
@@ -120,7 +120,7 @@ async function applying(read: Named, given: Given): Promise<Answer> {
 
   const registryCa = cluster.registryHosts.length > 0 ? readRegistryCa() : undefined
   const patchYaml = emitPatchYaml(buildNodePatch(node, cluster, schematicId, { registryCa }))
-  const workDir = await mkdtemp(join(tmpdir(), `talos-apply-${node.id}-`))
+  const workDir = await mkdtemp(join(SCRATCH_AT, `talos-apply-${node.id}-`))
   const patchPath = join(workDir, "patch.yaml")
   await writeFile(patchPath, patchYaml)
 

@@ -4,9 +4,10 @@ import {
   SNAPSHOT_METRICS,
   summarizeSnapshot,
 } from "@akasha/health-samples-import/health-snapshot"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import { lines } from "../../modules/yaml-lines/yaml-lines.module.code.ts"
 
 export const HEALTH_SNAPSHOT = "health-snapshot"
 
@@ -17,6 +18,8 @@ export const PATH = "--path"
 export const JSON_SAID = "--json"
 
 const ACTS = [HEALTH_SNAPSHOT]
+
+const CARRIED = ACTS.join("`, `")
 
 const VALUED = new Set([DAYS, PATH])
 
@@ -32,10 +35,6 @@ export type Read =
       readonly json: boolean
     }
   | { readonly refused: readonly string[] }
-
-function acts(): string {
-  return ACTS.join("`, `")
-}
 
 export function readIn(argv: readonly string[]): Read {
   const refusals: string[] = []
@@ -69,10 +68,10 @@ export function readIn(argv: readonly string[]): Read {
   }
   const [act, ...rest] = words
   if (act === undefined) {
-    return { refused: [...refusals, `this names no act — it carries \`${acts()}\``] }
+    return { refused: [...refusals, `this names no act — it carries \`${CARRIED}\``] }
   }
   if (!ACTS.includes(act)) {
-    refusals.push(`\`${act}\` is no act this carries — it carries \`${acts()}\``)
+    refusals.push(`\`${act}\` is no act this carries — it carries \`${CARRIED}\``)
   }
   for (const stray of rest) {
     refusals.push(`\`${stray}\` follows the act \`${act}\`, and one call names one act`)
@@ -93,12 +92,6 @@ export function readIn(argv: readonly string[]): Read {
 
 export function sinceDay(days: number, nowMs: number): string {
   return new Date(nowMs - (days + 1) * DAY_MS).toISOString().slice(0, 10)
-}
-
-export function linesOf(said: string): readonly string[] {
-  const every = said.split("\n")
-  while (every.length > 0 && every[every.length - 1] === "") every.pop()
-  return every
 }
 
 export async function elaine(argv: readonly string[], given: Given): Promise<Answer> {
@@ -122,7 +115,7 @@ export async function elaine(argv: readonly string[], given: Given): Promise<Ans
     }
     const snapshot = summarizeSnapshot(exported, read.days, nowMs)
     if (read.json) return { report: [JSON.stringify(snapshot)], refusals: [], code: 0 }
-    return { report: [...linesOf(formatSnapshot(snapshot))], refusals: [], code: 0 }
+    return { report: [...lines(formatSnapshot(snapshot))], refusals: [], code: 0 }
   } catch (thrown) {
     return refused(whyOf(thrown), 3)
   }

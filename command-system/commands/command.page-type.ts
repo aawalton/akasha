@@ -110,6 +110,7 @@ export const command = {
     "namespace/domain",
     "namespace/model-gateway",
     "namespace/temper",
+    "module/yaml-lines",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/calling",

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../calling/calling.module.code.ts"
-import { elaine, linesOf, readIn, sinceDay } from "./elaine.command.code.ts"
+import type { Given } from "../../../command-system/calling/calling.module.code.ts"
+import { elaine, readIn, sinceDay } from "./elaine.command.code.ts"
 
 function given(root: string): Given {
   return { root, calledAs: "akasha elaine", from: root, writer: null, agentId: null }
@@ -61,10 +61,4 @@ test("the window reaches a day further back than the days asked for", () => {
   const nowMs = Date.parse("2026-09-03T12:00:00.000Z")
   expect(sinceDay(1, nowMs)).toBe("2026-09-01")
   expect(sinceDay(14, nowMs)).toBe("2026-08-19")
-})
-
-test("a formatted snapshot becomes one report line for each of its lines", () => {
-  expect(linesOf("one\ntwo\n")).toEqual(["one", "two"])
-  expect(linesOf("one\n\n")).toEqual(["one"])
-  expect(linesOf("")).toEqual([])
 })

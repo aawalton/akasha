@@ -8,6 +8,7 @@ import { emitDocumentsYaml } from "@akasha/talos/talos-emit-yaml"
 import { getClusterForNode, getNode } from "@akasha/talos/talos-nodes"
 import { readRegistryCa } from "@akasha/talos/talos-registry-ca"
 import type { ClusterIntent, NodeIntent } from "@akasha/talos/talos-schema"
+import { lines } from "../../modules/yaml-lines/yaml-lines.module.code.ts"
 
 export const NODE = "--node"
 
@@ -76,12 +77,6 @@ export function readIn(argv: readonly string[]): Read {
 export function schematicSaid(): string {
   const said = process.env[SCHEMATIC_ENV]
   return said === undefined || said === "" ? PLACEHOLDER_SCHEMATIC_ID : said
-}
-
-export function lines(yaml: string): readonly string[] {
-  const held = yaml.split("\n")
-  while (held.length > 0 && held[held.length - 1] === "") held.pop()
-  return held
 }
 
 async function writing(read: Named, given: Given): Promise<Answer> {

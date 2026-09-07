@@ -1,9 +1,9 @@
 import { existsSync } from "node:fs"
 import { mkdir, mkdtemp, rm, stat } from "node:fs/promises"
-import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
+import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { DEFAULT_CLUSTER_NAME } from "@akasha/talos/talos-nodes"
 import { clusterSecretsSopsPath } from "@akasha/talos/talos-paths"
 import { encryptFile } from "@akasha/talos/talos-sops"
@@ -76,7 +76,7 @@ async function generating(read: Named): Promise<Answer> {
     }
   }
   await mkdir(dirname(destPath), { recursive: true })
-  const workDir = await mkdtemp(join(tmpdir(), "talos-secrets-gen-"))
+  const workDir = await mkdtemp(join(SCRATCH_AT, "talos-secrets-gen-"))
   const tmpSecretsPath = join(workDir, "secrets.yaml")
   try {
     await runTalosctl({ args: ["gen", "secrets", "-o", tmpSecretsPath, "--force"] })
