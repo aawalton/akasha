@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/food/food.command.code.ts b/command-system/commands/food/food.command.code.ts
-index efd0af4c4706ebc0155e8c23a64c74b9e3f93ee3..a45cc84d9c2ecbf418766ba65931c7c602670972 100644
+index efd0af4c4706ebc0155e8c23a64c74b9e3f93ee3..987ac88b4dbe760c17fab98b5268dc78faecbc2b 100644
 --- a/command-system/commands/food/food.command.code.ts
 +++ b/command-system/commands/food/food.command.code.ts
 @@ -1,6 +1,7 @@
@@ -12,7 +12,51 @@ index efd0af4c4706ebc0155e8c23a64c74b9e3f93ee3..a45cc84d9c2ecbf418766ba65931c7c6
  import { imageObjectKey } from "@akasha/object-store/object-store-key"
  import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
  import { resolveRoots } from "@akasha/pages/checkout-roots"
-@@ -192,15 +193,19 @@ export function readIn(argv: readonly string[]): Read {
+@@ -31,17 +32,12 @@ export const JSON_SAID = "--json"
+ 
+ const ACTS = [LOG]
+ 
++const ACTS_SAID = ACTS.join("`, `")
++
+ const VALUED = new Set([TITLE, IMAGE, PLANT_GRAMS, ESTIMATED_CALORIES, DATE, TIME])
+ 
+ const FOOD_ENTRY_PAGE_TYPE_SLUG = "food-entry"
+ 
+-/**
+- * What a food entry's slug opens with, which its stem does not carry.
+- *
+- * A page in akasha is slugged for its type and its stem together —
+- * `food-entry-2026-08-22-banana` — while the stem `2026-08-22-banana` is what names the day and
+- * the food and what `freeStemIn` numbers past. The two meet here and nowhere else.
+- */
+ const SLUG_OPENING = `${FOOD_ENTRY_PAGE_TYPE_SLUG}-`
+ 
+ const SLUG = "slug"
+@@ -88,10 +84,6 @@ type Landed =
+   | { readonly ok: true; readonly at: string }
+   | { readonly ok: false; readonly why: string }
+ 
+-function acts(): string {
+-  return ACTS.join("`, `")
+-}
+-
+ export function wallClockIn(raw: string): WallClock | null {
+   const match = TIME_PATTERN.exec(raw)
+   if (match === null) return null
+@@ -140,10 +132,10 @@ export function readIn(argv: readonly string[]): Read {
+   }
+   const [act, ...rest] = words
+   if (act === undefined) {
+-    return { refused: [...refusals, `this names no act — it carries \`${acts()}\``] }
++    return { refused: [...refusals, `this names no act — it carries \`${ACTS_SAID}\``] }
+   }
+   if (!ACTS.includes(act)) {
+-    refusals.push(`\`${act}\` is no act this carries — it carries \`${acts()}\``)
++    refusals.push(`\`${act}\` is no act this carries — it carries \`${ACTS_SAID}\``)
+   }
+   for (const stray of rest.slice(1)) {
+     refusals.push(`\`${stray}\` follows the food's name, and one call names one food`)
+@@ -192,15 +184,19 @@ export function readIn(argv: readonly string[]): Read {
    }
  }
  
@@ -36,7 +80,39 @@ index efd0af4c4706ebc0155e8c23a64c74b9e3f93ee3..a45cc84d9c2ecbf418766ba65931c7c6
  }
  
  export function stemFor(dayStr: string, title: string): string {
-@@ -279,7 +284,9 @@ async function landFoodEntry(root: string, slug: string, values: Value): Promise
+@@ -230,15 +226,6 @@ export function freeStemIn(stem: string, slugs: readonly string[]): string {
+ 
+ export type Stems = { readonly stems: readonly string[] } | { readonly refused: string }
+ 
+-/**
+- * Every stem a food entry is already filed under.
+- *
+- * `asking` rather than the markdown query this asked before. That query read `pages/food-entry/`,
+- * which the migration emptied, so it answered no slugs and no error at all and every new entry
+- * took the first stem it liked — the numbering that keeps two foods of a day apart was reading an
+- * empty list. `asking` refuses a page type the index does not hold and refuses a key the page type
+- * does not declare, so a spelling that has moved is a refusal rather than a clean nothing.
+- */
+ export function stemsThere(root: string): Stems {
+   const asked = asking(root, { pageTypeSlug: FOOD_ENTRY_PAGE_TYPE_SLUG, keys: [SLUG] })
+   if ("refused" in asked) return { refused: asked.refused }
+@@ -250,15 +237,6 @@ export function stemsThere(root: string): Stems {
+   return { stems }
+ }
+ 
+-/**
+- * One food entry landed as an akasha page.
+- *
+- * The whole value is composed every time rather than a difference being written, because a page
+- * body is the whole value: the cover is landed by composing the entry again with the cover on it.
+- * `composedFor` is what the pages system composes every akasha write from, so where the page
+- * already is, what its file is called and what order its keys are written in are decided in the
+- * one place that decides them for every other page.
+- */
+ async function landFoodEntry(root: string, slug: string, values: Value): Promise<Landed> {
+   const composed = composedFor(root, {
+     pageTypeSlug: FOOD_ENTRY_PAGE_TYPE_SLUG,
+@@ -279,7 +257,9 @@ async function landFoodEntry(root: string, slug: string, values: Value): Promise
  }
  
  async function logging(read: Logged, given: Given): Promise<Answer> {
@@ -47,3 +123,12 @@ index efd0af4c4706ebc0155e8c23a64c74b9e3f93ee3..a45cc84d9c2ecbf418766ba65931c7c6
    const happenedAt = happenedAtDate.toISOString()
    const dayStr = wakeDayOf(resolveRoots(), happenedAtDate)
    const root = rootOf()
+@@ -323,7 +303,7 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
+ 
+   const report: string[] = []
+   const notLanded: string[] = []
+-  const missed = (step: string, thrown: unknown, after: string): void => {
++  const missed = (step: string, thrown: unknown, after: string): undefined => {
+     notLanded.push(step)
+     report.push(
+       `${step} did not land for food entry ${foodId}: ${whyOf(thrown)}`,
