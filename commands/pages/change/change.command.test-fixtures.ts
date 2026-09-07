@@ -1,3 +1,5 @@
+import { writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { idOf, indexedRepo, pageOf } from "@akasha/indexes/indexing/testing"
 import { removePage } from "../../../changes/agent/file/remove-page/remove-page.change-checked.code.ts"
 import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
@@ -13,7 +15,7 @@ import {
 } from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
 import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
 import type { Piping } from "../../../command-system/piping/piping.module.code.ts"
-import { type Applying, changing } from "./change.command.code.ts"
+import { type Applying, changing, type Over } from "./change.command.code.ts"
 
 export const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 
@@ -93,6 +95,22 @@ export const HANDED_ONE: Edit = { path: "akasha/three/handed.md", was: null, bod
 export const MOVED_FROM = "akasha/three/from.md"
 
 export const MOVED: Edit = { path: "akasha/three/to.md", was: null, body: "to", from: MOVED_FROM }
+
+export const EDIT: Edit = { path: "a/b.ts", was: null, body: "held" }
+
+export const HELD = { edits: [EDIT], refused: null }
+
+export const NOT_TEXT_AT = "akasha/three/wallpaper.png"
+
+export const NOT_TEXT_SAID = `\`${NOT_TEXT_AT}\` is not text, and a change reads a body as text`
+
+export function readingNotText(root: string): Over {
+  writeFileSync(join(root, NOT_TEXT_AT), new Uint8Array([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a]))
+  return async (world) => ({
+    edits: [{ path: NOT_TEXT_AT, was: null, body: world.textOf(NOT_TEXT_AT) }],
+    refused: null,
+  })
+}
 
 export async function acting(
   root: string,

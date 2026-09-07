@@ -4,21 +4,25 @@ import {
   appendEdits,
   editsIn,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { changing, editsFor, owedBy, owingBy, stamped } from "./change.command.code.ts"
+import { appending, changing, editsFor, owedBy, owingBy, stamped } from "./change.command.code.ts"
 import {
   APPLIED,
   acting,
   applying,
+  EDIT,
   givenIn,
   HANDED_ONE,
+  HELD,
   handing,
   loading,
   MISSING,
   MOVED,
   MOVED_FROM,
+  NOT_TEXT_SAID,
   PAGE,
   pathsIn,
   piping,
+  readingNotText,
   removing,
   repo,
   SPARE_CODE,
@@ -356,27 +360,15 @@ test("a change page saying nothing there leaves its readers owing the reading", 
 })
 
 test("a change owing its readers no reading stamps that on every edit it answers", () => {
-  const said = stamped(
-    { edits: [{ path: "a/b.ts", was: null, body: "held" }], refused: null },
-    false,
-    true
-  )
+  const said = stamped(HELD, false, true)
 
-  expect(said.edits).toEqual([
-    { path: "a/b.ts", was: null, body: "held", readersOweReading: false },
-  ])
+  expect(said.edits).toEqual([{ ...EDIT, readersOweReading: false }])
 })
 
 test("a change whose writer owes no reading stamps that on every edit it answers", () => {
-  const said = stamped(
-    { edits: [{ path: "a/b.ts", was: null, body: "held" }], refused: null },
-    true,
-    false
-  )
+  const said = stamped(HELD, true, false)
 
-  expect(said.edits).toEqual([
-    { path: "a/b.ts", was: null, body: "held", writerOwesReading: false },
-  ])
+  expect(said.edits).toEqual([{ ...EDIT, writerOwesReading: false }])
 })
 
 test("a change page saying its writer owes no reading is read as saying so", () => {
@@ -386,13 +378,9 @@ test("a change page saying its writer owes no reading is read as saying so", () 
 })
 
 test("a change owing its readers reading stamps nothing on the edits it answers", () => {
-  const said = stamped(
-    { edits: [{ path: "a/b.ts", was: null, body: "held" }], refused: null },
-    true,
-    true
-  )
+  const said = stamped(HELD, true, true)
 
-  expect(said.edits).toEqual([{ path: "a/b.ts", was: null, body: "held" }])
+  expect(said.edits).toEqual([EDIT])
 })
 
 test("a change reached under a page that is nowhere appends rows saying nothing of the readers", async () => {
@@ -463,4 +451,14 @@ test("a change asking for no apply keeps its edits for a later apply", async () 
 
   expect(APPLIED).toEqual([])
   expect(said.report.some((one) => one.includes("akasha apply"))).toBe(true)
+})
+
+test("a body that is not text refuses the change rather than being read as text", async () => {
+  const root = repo()
+
+  const said = await appending(root, PAGE, readingNotText(root))
+
+  expect(said.code).toBe(3)
+  expect(said.refusals).toEqual([NOT_TEXT_SAID])
+  expect(pathsIn(root)).toEqual([])
 })
