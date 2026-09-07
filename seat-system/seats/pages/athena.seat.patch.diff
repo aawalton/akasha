@@ -1,0 +1,1429 @@
+writerOwesReading: false
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index 67e513d7c6437e15cf06bd24a6061076d6597359..23ccfb372f606f4b0c07b929cebc8b354ac87e7c 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -45,8 +45,6 @@ export const command = {
+     "command/compose-notices",
+     "command/deploy",
+     "command/dev-server",
+-    "command/domain",
+-    "command/domain-tree",
+     "command/drive",
+     "command/elaine",
+     "command/food",
+@@ -111,6 +109,7 @@ export const command = {
+     "command/shell-init-bash",
+     "command/model-gateway-start",
+     "namespace/lint",
++    "namespace/domain",
+   ],
+   extendsSlug: ["page-type/module"],
+   loadedBySlug: "module/calling",
+diff --git a/command-system/commands/domain-dag/domain-dag.command.code.ts b/command-system/commands/domain-dag/domain-dag.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..480d003f8d5f3e7457425f196d5773cb546d58b7
+--- /dev/null
++++ b/command-system/commands/domain-dag/domain-dag.command.code.ts
+@@ -0,0 +1,60 @@
++import { resolve } from "node:path"
++import type { Answer, Given } from "@akasha/command-system/calling"
++import {
++  answering,
++  type Drawn,
++  dagLines,
++} from "../domain/domain-drawing/domain-drawing.module.code.ts"
++
++export const AT_DOMAIN = "--domain"
++
++export const UP = "--up"
++
++export const PATHS = "--paths"
++
++export const DESCENT = "--descent"
++
++const FLAGS: readonly string[] = [AT_DOMAIN, UP, PATHS, DESCENT]
++
++export type Read = Drawn | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  const rooted: string[] = []
++  const above: string[] = []
++  let paths = false
++  let descent = false
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (one === PATHS) {
++      paths = true
++      continue
++    }
++    if (one === DESCENT) {
++      descent = true
++      continue
++    }
++    if (one === AT_DOMAIN || one === UP) {
++      const value = argv[at + 1]
++      at += 1
++      if (value === undefined || value.startsWith("-")) {
++        refusals.push(`\`${one}\` names one word and nothing followed it`)
++        continue
++      }
++      if (one === AT_DOMAIN) rooted.push(value)
++      else above.push(value)
++      continue
++    }
++    const taken = FLAGS.map((each) => `\`${each}\``).join(", ")
++    refusals.push(`\`${one}\` is no flag this takes — it takes ${taken}`)
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { rooted, above, paths, descent }
++}
++
++export function domainDag(argv: readonly string[], given: Given): Answer {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
++  return answering(() => dagLines(read, resolve(given.root)))
++}
+diff --git a/command-system/commands/domain-dag/domain-dag.command.test.ts b/command-system/commands/domain-dag/domain-dag.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5280ec10c38f9dfb93bb49943811f0251ee74f74
+--- /dev/null
++++ b/command-system/commands/domain-dag/domain-dag.command.test.ts
+@@ -0,0 +1,52 @@
++import { expect, test } from "bun:test"
++import { AT_DOMAIN, DESCENT, PATHS, readIn, UP } from "./domain-dag.command.code.ts"
++import { domainDag } from "./domain-dag.command.ts"
++
++function refusalsOf(argv: readonly string[]): readonly string[] {
++  const read = readIn(argv)
++  return "refused" in read ? read.refused : []
++}
++
++function wantedOf(argv: readonly string[]) {
++  const read = readIn(argv)
++  if ("refused" in read) throw new Error(`refused: ${read.refused.join("; ")}`)
++  return read
++}
++
++test("a call naming nothing draws from the roots and states no flag", () => {
++  const wanted = wantedOf([])
++  expect(wanted.rooted).toEqual([])
++  expect(wanted.above).toEqual([])
++  expect(wanted.paths).toBe(false)
++  expect(wanted.descent).toBe(false)
++})
++
++test("the two bare flags are read as they are said", () => {
++  const wanted = wantedOf([PATHS, DESCENT])
++  expect(wanted.paths).toBe(true)
++  expect(wanted.descent).toBe(true)
++})
++
++test("a flag it does not take is refused by name", () => {
++  expect(refusalsOf(["--nope"]).join(" ")).toContain("`--nope` is no flag this takes")
++})
++
++test("a word that is no flag at all is refused too", () => {
++  expect(refusalsOf(["declarations"]).join(" ")).toContain("is no flag this takes")
++})
++
++test("a flag wanting a word and given none is refused", () => {
++  expect(refusalsOf([AT_DOMAIN]).join(" ")).toContain("nothing followed it")
++  expect(refusalsOf([UP, PATHS]).join(" ")).toContain("nothing followed it")
++})
++
++test("--domain and --up are each repeatable", () => {
++  const wanted = wantedOf([AT_DOMAIN, "one", AT_DOMAIN, "two", UP, "three"])
++  expect(wanted.rooted).toEqual(["one", "two"])
++  expect(wanted.above).toEqual(["three"])
++})
++
++test("the page says it writes nothing and names the module it draws with", () => {
++  expect(domainDag.changeKindSlug).toBe("change-none")
++  expect(domainDag.partSlugs).toContain("module/domain-drawing")
++})
+diff --git a/command-system/commands/domain-dag/domain-dag.command.ts b/command-system/commands/domain-dag/domain-dag.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f389cd55aeb444166a3cf3d3a163499ad6fc5782
+--- /dev/null
++++ b/command-system/commands/domain-dag/domain-dag.command.ts
+@@ -0,0 +1,45 @@
++import type { Command } from "../command.page-type.ts"
++
++export const domainDag = {
++  id: "01a07c03-8a7b-7661-a70a-f3c561dbfe12",
++  pageTypeSlug: "command",
++  slug: "domain-dag",
++  definition: "the command drawing the domain tree, each domain under the domain holding it",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-none",
++  partSlugs: ["module/domain-drawing"],
++  taking: [
++    { said: "--domain <slug>", takes: "the domain to root the tree at instead of at its roots" },
++    { said: "--up <slug>", takes: "the domain to draw ABOVE instead of below, up to the roots" },
++    { said: "--paths", takes: "the file carrying each domain, drawn beside its slug" },
++    { said: "--descent", takes: "every page type extending `domain` as well as `domain` itself" },
++  ],
++  helpNotes: [
++    "a domain names the domains it holds in `partSlugs`, as `domain/<slug>`, so an edge is read off the domain holding it rather than off the domain held.",
++    "`--domain` and `--up` are each repeatable, and a slug carrying no domain page refuses the call by name.",
++    "a domain held by several domains is drawn beneath each of them, that being what the edges say; the repeats are the graph rather than a fault in the drawing.",
++    "a domain already open further up its own branch is drawn once and marked, so a cycle terminates rather than running away.",
++    "a page of the `domain` page type is what is read by default, `module`, `command` and the other types extending `domain` being outside it.",
++    "`--descent` widens the reading to every page type extending `domain`, which is the whole tree of code rather than the domains alone.",
++    "the pages are read from the index, which carries what each page file declares and applies nothing of its own.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A flag this does not take is refused by name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag wanting a word and handed none is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A tree holding nothing refuses rather than answering empty.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run writes nothing.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/command-system/commands/domain-declarations/domain-declarations.command.code.ts b/command-system/commands/domain-declarations/domain-declarations.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c53f40c08c9a9afbbec0a4f2e02cdbc217a8f12d
+--- /dev/null
++++ b/command-system/commands/domain-declarations/domain-declarations.command.code.ts
+@@ -0,0 +1,46 @@
++import { resolve } from "node:path"
++import type { Answer, Given } from "@akasha/command-system/calling"
++import {
++  answering,
++  declarationLines,
++  SUBJECTS,
++} from "../domain/domain-drawing/domain-drawing.module.code.ts"
++
++export const SUBJECT = "--subject"
++
++export type Read =
++  | { readonly subjects: readonly string[] }
++  | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  const subjects: string[] = []
++  const named = SUBJECTS.map((each) => `\`${each}\``).join(", ")
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (one !== SUBJECT) {
++      refusals.push(`\`${one}\` is no flag this takes — it takes \`${SUBJECT}\``)
++      continue
++    }
++    const value = argv[at + 1]
++    at += 1
++    if (value === undefined || value.startsWith("-")) {
++      refusals.push(`\`${SUBJECT}\` names one word and nothing followed it`)
++      continue
++    }
++    if (!SUBJECTS.includes(value)) {
++      refusals.push(`\`${value}\` is no subject — \`${SUBJECT}\` names ${named}`)
++      continue
++    }
++    subjects.push(value)
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { subjects }
++}
++
++export function domainDeclarations(argv: readonly string[], given: Given): Answer {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
++  return answering(() => declarationLines(read.subjects, resolve(given.root)))
++}
+diff --git a/command-system/commands/domain-declarations/domain-declarations.command.test.ts b/command-system/commands/domain-declarations/domain-declarations.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..08d44affd3077b5d172a84215154211a6d6b909f
+--- /dev/null
++++ b/command-system/commands/domain-declarations/domain-declarations.command.test.ts
+@@ -0,0 +1,35 @@
++import { expect, test } from "bun:test"
++import { readIn, SUBJECT } from "./domain-declarations.command.code.ts"
++import { domainDeclarations } from "./domain-declarations.command.ts"
++
++function refusalsOf(argv: readonly string[]): readonly string[] {
++  const read = readIn(argv)
++  return "refused" in read ? read.refused : []
++}
++
++test("a call naming no subject is handed both", () => {
++  const read = readIn([])
++  expect("refused" in read ? [] : read.subjects).toEqual([])
++})
++
++test("a subject it names is read as it is said", () => {
++  const read = readIn([SUBJECT, "personas"])
++  expect("refused" in read ? [] : read.subjects).toEqual(["personas"])
++})
++
++test("a subject that is neither domains nor personas is refused", () => {
++  expect(refusalsOf([SUBJECT, "widgets"]).join(" ")).toContain("`widgets` is no subject")
++})
++
++test("a flag it does not take is refused by name", () => {
++  expect(refusalsOf(["--paths"]).join(" ")).toContain("`--paths` is no flag this takes")
++})
++
++test("a flag wanting a word and given none is refused", () => {
++  expect(refusalsOf([SUBJECT]).join(" ")).toContain("nothing followed it")
++})
++
++test("the page says it writes nothing and takes one flag", () => {
++  expect(domainDeclarations.changeKindSlug).toBe("change-none")
++  expect(domainDeclarations.taking.map((one) => one.said)).toEqual([`${SUBJECT} <subject>`])
++})
+diff --git a/command-system/commands/domain-declarations/domain-declarations.command.ts b/command-system/commands/domain-declarations/domain-declarations.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b30ec0056d57ebf255550a95670871fc8e5af3a2
+--- /dev/null
++++ b/command-system/commands/domain-declarations/domain-declarations.command.ts
+@@ -0,0 +1,44 @@
++import type { Command } from "../command.page-type.ts"
++
++export const domainDeclarations = {
++  id: "01a07c03-ab2b-79aa-bfa7-3e62543a4164",
++  pageTypeSlug: "command",
++  slug: "domain-declarations",
++  definition: "the command handing over every domain and persona page whole, as JSON",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    {
++      said: "--subject <subject>",
++      takes: "`domains` or `personas` alone, where both would be said",
++    },
++  ],
++  helpNotes: [
++    "it carries each page WHOLE, so a property the pages grow needs no flag here and no change at any caller.",
++    "the pages are read from the index, which carries what each page file declares and applies nothing of its own.",
++    "a subject holding nothing refuses the call rather than answering an empty list, an empty tree being a dead read.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A subject that is neither domains nor personas is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A call naming no subject is handed both.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag this does not take is refused by name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A subject holding nothing refuses rather than answering empty.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run writes nothing.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/command-system/commands/domain/domain-drawing/domain-drawing.module.code.ts b/command-system/commands/domain/domain-drawing/domain-drawing.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ea673617354ba5e247eec09f5bd206243400ad5c
+--- /dev/null
++++ b/command-system/commands/domain/domain-drawing/domain-drawing.module.code.ts
+@@ -0,0 +1,209 @@
++import { readingIn, valuesOfType } from "@akasha/indexes"
++import { kindsUnder } from "@akasha/pages/page-type-descent"
++import { valueAt } from "@akasha/pages/page-value"
++import type { Answer } from "../../../calling/calling.module.code.ts"
++import { whyOf } from "../../../fault-saying/fault-saying.module.code.ts"
++
++export const DOMAINS = "domains"
++
++export const PERSONAS = "personas"
++
++export const SUBJECTS: readonly string[] = [DOMAINS, PERSONAS]
++
++const DOMAIN_TYPE = "domain"
++
++const PERSONA_TYPE = "persona"
++
++const PART = "domain/"
++
++const SLUG = "slug"
++
++const PART_SLUGS = "partSlugs"
++
++const UNDECLARED = "— named as a part, carried by no domain page"
++
++const OPEN_ABOVE = "— already open above here"
++
++export interface Entry {
++  readonly slug: string
++  readonly path: string
++  readonly parts: readonly string[]
++}
++
++export interface Drawn {
++  readonly rooted: readonly string[]
++  readonly above: readonly string[]
++  readonly paths: boolean
++  readonly descent: boolean
++}
++
++function slugOf(said: string): string {
++  const at = said.lastIndexOf("/")
++  return at === -1 ? said : said.slice(at + 1)
++}
++
++function textIn(value: Record<string, unknown>, key: string): string | null {
++  const said = value[key]
++  return typeof said === "string" && said !== "" ? said : null
++}
++
++export function kindsUnderDomain(root: string): ReadonlySet<string> {
++  return kindsUnder(DOMAIN_TYPE, readingIn(root), (path) => valueAt(path, root))
++}
++
++function partsOf(value: Record<string, unknown>): readonly string[] {
++  const held = value[PART_SLUGS]
++  if (!Array.isArray(held)) return []
++  return held.flatMap((one) =>
++    typeof one === "string" && one.startsWith(PART) ? [slugOf(one)] : []
++  )
++}
++
++export function domainsIn(root: string, descent: boolean): ReadonlyMap<string, Entry> {
++  const kinds = descent ? [...kindsUnderDomain(root)].sort() : [DOMAIN_TYPE]
++  const found = new Map<string, Entry>()
++  for (const kind of kinds) {
++    for (const one of valuesOfType(root, kind)) {
++      const value = one.value as Record<string, unknown>
++      const slug = textIn(value, SLUG)
++      if (slug === null || found.has(slug)) continue
++      found.set(slug, {
++        slug,
++        path: one.path,
++        parts: partsOf(value).filter((part) => part !== slug),
++      })
++    }
++  }
++  return found
++}
++
++export function heldBy(
++  domains: ReadonlyMap<string, Entry>
++): ReadonlyMap<string, readonly string[]> {
++  const holders = new Map<string, string[]>()
++  for (const one of domains.values()) {
++    for (const part of one.parts) {
++      const already = holders.get(part)
++      if (already === undefined) holders.set(part, [one.slug])
++      else already.push(one.slug)
++    }
++  }
++  return holders
++}
++
++function label(slug: string, domains: ReadonlyMap<string, Entry>, paths: boolean): string {
++  const at = domains.get(slug)
++  if (at === undefined) return `${slug}  ${UNDECLARED}`
++  return paths ? `${slug}  ${at.path}` : slug
++}
++
++function descend(
++  slug: string,
++  depth: number,
++  open: ReadonlySet<string>,
++  domains: ReadonlyMap<string, Entry>,
++  paths: boolean,
++  into: string[]
++): undefined {
++  const indent = "  ".repeat(depth)
++  if (open.has(slug)) {
++    into.push(`${indent}${slug}  ${OPEN_ABOVE}`)
++    return undefined
++  }
++  into.push(`${indent}${label(slug, domains, paths)}`)
++  const next = new Set([...open, slug])
++  const parts = [...(domains.get(slug)?.parts ?? [])].sort((one, two) => one.localeCompare(two))
++  for (const part of parts) descend(part, depth + 1, next, domains, paths, into)
++  return undefined
++}
++
++export function treeLines(
++  from: readonly string[],
++  domains: ReadonlyMap<string, Entry>,
++  paths: boolean
++): readonly string[] {
++  const lines: string[] = []
++  for (const slug of from) descend(slug, 0, new Set(), domains, paths, lines)
++  return lines
++}
++
++function ascend(
++  slug: string,
++  domains: ReadonlyMap<string, Entry>,
++  holders: ReadonlyMap<string, readonly string[]>,
++  paths: boolean
++): readonly string[] {
++  const lines: string[] = [label(slug, domains, paths)]
++  const seen = new Set([slug])
++  let frontier: readonly string[] = holders.get(slug) ?? []
++  let depth = 1
++  while (frontier.length > 0) {
++    const next: string[] = []
++    for (const one of [...frontier].sort((a, b) => a.localeCompare(b))) {
++      if (seen.has(one)) continue
++      seen.add(one)
++      lines.push(`${"  ".repeat(depth)}${label(one, domains, paths)}`)
++      next.push(...(holders.get(one) ?? []))
++    }
++    frontier = next
++    depth += 1
++  }
++  return lines
++}
++
++export function dagLines(wanted: Drawn, root: string): readonly string[] {
++  const domains = domainsIn(root, wanted.descent)
++  if (domains.size === 0) {
++    throw new Error(
++      `\`${root}\` carries no domain page, which is a dead read rather than a tree holding none`
++    )
++  }
++  const holders = heldBy(domains)
++  const unknown = [...wanted.rooted, ...wanted.above].filter((slug) => !domains.has(slug))
++  if (unknown.length > 0) {
++    throw new Error(`no domain page carries ${unknown.map((one) => `\`${one}\``).join(", ")}`)
++  }
++  if (wanted.above.length > 0) {
++    return wanted.above.flatMap((slug, at) => [
++      ...(at > 0 ? [""] : []),
++      ...ascend(slug, domains, holders, wanted.paths),
++    ])
++  }
++  const from =
++    wanted.rooted.length > 0
++      ? wanted.rooted
++      : [...domains.values()]
++          .filter((one) => (holders.get(one.slug) ?? []).length === 0)
++          .map((one) => one.slug)
++          .sort((one, two) => one.localeCompare(two))
++  return treeLines(from, domains, wanted.paths)
++}
++
++export function declarationLines(asked: readonly string[], root: string): readonly string[] {
++  const wanted = asked.length > 0 ? asked : SUBJECTS
++  const subjects: Record<string, unknown> = {}
++  for (const subject of wanted) {
++    const records = valuesOfType(root, subject === DOMAINS ? DOMAIN_TYPE : PERSONA_TYPE).map(
++      (one) => ({
++        slug: textIn(one.value as Record<string, unknown>, SLUG),
++        path: one.path,
++        page: one.value,
++      })
++    )
++    if (records.length === 0) {
++      throw new Error(
++        `\`${root}\` carries no ${subject}, which is a dead read rather than a tree declaring none`
++      )
++    }
++    subjects[subject] = { records }
++  }
++  return [JSON.stringify({ root, subjects }, null, 2)]
++}
++
++export function answering(lines: () => readonly string[]): Answer {
++  try {
++    return { report: [...lines()], refusals: [], code: 0 }
++  } catch (thrown) {
++    return { report: [], refusals: [whyOf(thrown)], code: 3 }
++  }
++}
+diff --git a/command-system/commands/domain/domain-drawing/domain-drawing.module.test.ts b/command-system/commands/domain/domain-drawing/domain-drawing.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8166f5661f30ecf5d9f38f75de7fe0f4efcb767a
+--- /dev/null
++++ b/command-system/commands/domain/domain-drawing/domain-drawing.module.test.ts
+@@ -0,0 +1,141 @@
++import { afterAll, expect, test } from "bun:test"
++import { mkdirSync, writeFileSync } from "node:fs"
++import { dirname, join } from "node:path"
++import { rootOf } from "@akasha/command-system/rooting"
++import { scratchWorld } from "@akasha/command-system/scratching"
++import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
++import {
++  answering,
++  domainsIn,
++  type Entry,
++  heldBy,
++  kindsUnderDomain,
++  treeLines,
++} from "./domain-drawing.module.code.ts"
++
++const ROOT = rootOf(import.meta.path)
++
++const scratch = scratchWorld()
++
++afterAll(scratch.sweep)
++
++test("a domain page carries its parts as the domains it holds", () => {
++  const domains = domainsIn(ROOT, false)
++  expect(domains.size).toBeGreaterThan(0)
++  const email = domains.get("email")
++  expect(email?.path.endsWith("email.domain.ts")).toBe(true)
++  expect(email?.parts).toContain("email-action")
++})
++
++test("a domain never names itself as one of its own parts", () => {
++  for (const one of domainsIn(ROOT, false).values()) expect(one.parts).not.toContain(one.slug)
++})
++
++test("the holders of a part are the domains naming it", () => {
++  const domains = domainsIn(ROOT, false)
++  expect(heldBy(domains).get("email-action")).toContain("email")
++})
++
++test("`domain` itself is under `domain`, and `module` and `command` are too", () => {
++  const kinds = kindsUnderDomain(ROOT)
++  expect(kinds.has("domain")).toBe(true)
++  expect(kinds.has("module")).toBe(true)
++  expect(kinds.has("command")).toBe(true)
++  expect(kinds.has("page")).toBe(false)
++})
++
++test("the descent reading holds strictly more than the domain pages alone", () => {
++  expect(domainsIn(ROOT, true).size).toBeGreaterThan(domainsIn(ROOT, false).size)
++})
++
++function entriesOf(said: Readonly<Record<string, readonly string[]>>): ReadonlyMap<string, Entry> {
++  return new Map(
++    Object.entries(said).map(([slug, parts]) => [slug, { slug, path: `${slug}.domain.ts`, parts }])
++  )
++}
++
++test("a domain held by two domains is drawn under each of them", () => {
++  const domains = entriesOf({ one: ["held"], two: ["held"], held: ["under"], under: [] })
++
++  expect(treeLines(["one", "two"], domains, false)).toEqual([
++    "one",
++    "  held",
++    "    under",
++    "two",
++    "  held",
++    "    under",
++  ])
++})
++
++test("a domain drawn a second time beside the first is no domain already open", () => {
++  const domains = entriesOf({ root: ["one", "two"], one: ["held"], two: ["held"], held: [] })
++
++  expect(treeLines(["root"], domains, false)).toEqual([
++    "root",
++    "  one",
++    "    held",
++    "  two",
++    "    held",
++  ])
++})
++
++test("a domain open above the point being drawn is marked rather than drawn again", () => {
++  const domains = entriesOf({ root: ["held"], held: ["beside"], beside: ["held"] })
++
++  expect(treeLines(["root"], domains, false)).toEqual([
++    "root",
++    "  held",
++    "    beside",
++    "      held  — already open above here",
++  ])
++})
++
++test("a thrown reason comes back as a refusal carrying that reason", () => {
++  const said = answering(() => {
++    throw new Error("nothing was there")
++  })
++
++  expect(said.code).toBe(3)
++  expect(said.refusals.join(" ")).toContain("nothing was there")
++})
++
++function typed(root: string, slug: string, above: readonly string[]): undefined {
++  const path = `akasha/held/${slug}.page-type.ts`
++  const named = above.map((one) => `page-type/${one}`)
++  listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
++  valueAlsoFiled(root, "page-type", [
++    { path, value: { id: `id-${slug}`, pageTypeSlug: "page-type", slug, extendsSlug: named } },
++  ])
++  const page = join(root, path)
++  mkdirSync(dirname(page), { recursive: true })
++  writeFileSync(
++    page,
++    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${JSON.stringify(named)} }\n`
++  )
++  return undefined
++}
++
++test("a page type naming one type above it is a kind of domain as it always was", () => {
++  const root = scratch.rootFor("akasha-domain-")
++  typed(root, "domain", [])
++  typed(root, "page", [])
++  typed(root, "module", ["domain"])
++
++  const kinds = kindsUnderDomain(root)
++
++  expect([...kinds].sort()).toEqual(["domain", "module"])
++})
++
++test("a page type naming two types above it is a kind of domain where either of them is", () => {
++  const root = scratch.rootFor("akasha-domain-")
++  typed(root, "domain", [])
++  typed(root, "page", [])
++  typed(root, "module", ["domain"])
++  typed(root, "page-property", ["page"])
++  typed(root, "computed-property", ["page-property", "module"])
++  typed(root, "faith-points", ["computed-property"])
++
++  const kinds = kindsUnderDomain(root)
++
++  expect([...kinds].sort()).toEqual(["computed-property", "domain", "faith-points", "module"])
++})
+diff --git a/command-system/commands/domain/domain-drawing/domain-drawing.module.ts b/command-system/commands/domain/domain-drawing/domain-drawing.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..033faacbc54b9b7cbb925783d9f5ceb8e31a47bc
+--- /dev/null
++++ b/command-system/commands/domain/domain-drawing/domain-drawing.module.ts
+@@ -0,0 +1,60 @@
++import type { Module } from "@akasha/code/module"
++
++export const domainDrawing = {
++  id: "01a07c03-68a7-7fca-91e7-b541e1efa8cb",
++  pageTypeSlug: "module",
++  slug: "domain-drawing",
++  definition: "the domains read off their pages, drawn as a tree or handed over whole",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A domain is a page of the `domain` page type rather than a page carrying a slug.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An edge is a `domain/<slug>` part named by the domain holding that part.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A root is a domain no domain names as a part.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A part naming no domain page is drawn and marked rather than passed over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A slug named that carries no domain page throws.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A tree or a subject holding nothing throws rather than answering empty.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page type is a kind of domain where any type it names above it is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A domain open above the point being drawn is marked rather than drawn again.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A domain drawn elsewhere is no domain open above the point being drawn.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A thrown reason is handed back as a refusal carrying that reason.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a command line.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/command-system/commands/domain/domain.command.code.ts b/command-system/commands/domain/domain.command.code.ts
+deleted file mode 100644
+index a6736929a11efb68233249ccea027848d5710191..0000000000000000000000000000000000000000
+--- a/command-system/commands/domain/domain.command.code.ts
++++ /dev/null
+@@ -1,307 +0,0 @@
+-import { resolve } from "node:path"
+-import type { Answer, Given } from "@akasha/command-system/calling"
+-import { whyOf } from "@akasha/command-system/fault-saying"
+-import { readingIn, valuesOfType } from "@akasha/indexes"
+-import { kindsUnder } from "@akasha/pages/page-type-descent"
+-import { valueAt } from "@akasha/pages/page-value"
+-
+-export const DAG = "dag"
+-
+-export const DECLARATIONS = "declarations"
+-
+-export const AT_DOMAIN = "--domain"
+-
+-export const UP = "--up"
+-
+-export const PATHS = "--paths"
+-
+-export const DESCENT = "--descent"
+-
+-export const SUBJECT = "--subject"
+-
+-export const DOMAINS = "domains"
+-
+-export const PERSONAS = "personas"
+-
+-const ACTS: readonly string[] = [DAG, DECLARATIONS]
+-
+-const SUBJECTS: readonly string[] = [DOMAINS, PERSONAS]
+-
+-const DOMAIN_TYPE = "domain"
+-
+-const PERSONA_TYPE = "persona"
+-
+-const PART = "domain/"
+-
+-const SLUG = "slug"
+-
+-const PART_SLUGS = "partSlugs"
+-
+-const UNDECLARED = "— named as a part, carried by no domain page"
+-
+-const OPEN_ABOVE = "— already open above here"
+-
+-export interface Wanted {
+-  readonly act: string
+-  readonly rooted: readonly string[]
+-  readonly above: readonly string[]
+-  readonly paths: boolean
+-  readonly descent: boolean
+-  readonly subjects: readonly string[]
+-}
+-
+-export type Read = Wanted | { readonly refused: readonly string[] }
+-
+-function said(words: readonly string[]): string {
+-  return words.map((one) => `\`${one}\``).join(", ")
+-}
+-
+-function forAct(flag: string, act: string): string {
+-  return `\`${flag}\` is taken by \`${act}\` alone`
+-}
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const refusals: string[] = []
+-  const rooted: string[] = []
+-  const above: string[] = []
+-  const subjects: string[] = []
+-  let paths = false
+-  let descent = false
+-  let act: string | null = null
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (one === PATHS) {
+-      paths = true
+-      continue
+-    }
+-    if (one === DESCENT) {
+-      descent = true
+-      continue
+-    }
+-    if (one === AT_DOMAIN || one === UP || one === SUBJECT) {
+-      const value = argv[at + 1]
+-      at += 1
+-      if (value === undefined || value.startsWith("-")) {
+-        refusals.push(`\`${one}\` names one word and nothing followed it`)
+-        continue
+-      }
+-      if (one === AT_DOMAIN) rooted.push(value)
+-      else if (one === UP) above.push(value)
+-      else subjects.push(value)
+-      continue
+-    }
+-    if (one.startsWith("-")) {
+-      refusals.push(
+-        `\`${one}\` is no flag this takes — it takes ${said([AT_DOMAIN, UP, PATHS, DESCENT, SUBJECT])}`
+-      )
+-      continue
+-    }
+-    if (act !== null) {
+-      refusals.push(`\`${one}\` follows the act \`${act}\`, and one call names one act`)
+-      continue
+-    }
+-    act = one
+-  }
+-  if (act === null) {
+-    return { refused: [...refusals, `this names no act — it carries ${said(ACTS)}`] }
+-  }
+-  if (!ACTS.includes(act)) {
+-    refusals.push(`\`${act}\` is no act this carries — it carries ${said(ACTS)}`)
+-  }
+-  if (act === DECLARATIONS) {
+-    if (rooted.length > 0) refusals.push(forAct(AT_DOMAIN, DAG))
+-    if (above.length > 0) refusals.push(forAct(UP, DAG))
+-    if (paths) refusals.push(forAct(PATHS, DAG))
+-    if (descent) refusals.push(forAct(DESCENT, DAG))
+-    for (const one of subjects) {
+-      if (!SUBJECTS.includes(one)) {
+-        refusals.push(`\`${one}\` is no subject — \`${SUBJECT}\` names ${said(SUBJECTS)}`)
+-      }
+-    }
+-  }
+-  if (act === DAG && subjects.length > 0) refusals.push(forAct(SUBJECT, DECLARATIONS))
+-  if (refusals.length > 0) return { refused: refusals }
+-  return { act, rooted, above, paths, descent, subjects }
+-}
+-
+-export interface Entry {
+-  readonly slug: string
+-  readonly path: string
+-  readonly parts: readonly string[]
+-}
+-
+-function slugOf(said: string): string {
+-  const at = said.lastIndexOf("/")
+-  return at === -1 ? said : said.slice(at + 1)
+-}
+-
+-function textIn(value: Record<string, unknown>, key: string): string | null {
+-  const said = value[key]
+-  return typeof said === "string" && said !== "" ? said : null
+-}
+-
+-export function kindsUnderDomain(root: string): ReadonlySet<string> {
+-  return kindsUnder(DOMAIN_TYPE, readingIn(root), (path) => valueAt(path, root))
+-}
+-
+-function partsOf(value: Record<string, unknown>): readonly string[] {
+-  const held = value[PART_SLUGS]
+-  if (!Array.isArray(held)) return []
+-  return held.flatMap((one) =>
+-    typeof one === "string" && one.startsWith(PART) ? [slugOf(one)] : []
+-  )
+-}
+-
+-export function domainsIn(root: string, descent: boolean): ReadonlyMap<string, Entry> {
+-  const kinds = descent ? [...kindsUnderDomain(root)].sort() : [DOMAIN_TYPE]
+-  const found = new Map<string, Entry>()
+-  for (const kind of kinds) {
+-    for (const one of valuesOfType(root, kind)) {
+-      const value = one.value as Record<string, unknown>
+-      const slug = textIn(value, SLUG)
+-      if (slug === null || found.has(slug)) continue
+-      found.set(slug, {
+-        slug,
+-        path: one.path,
+-        parts: partsOf(value).filter((part) => part !== slug),
+-      })
+-    }
+-  }
+-  return found
+-}
+-
+-export function heldBy(
+-  domains: ReadonlyMap<string, Entry>
+-): ReadonlyMap<string, readonly string[]> {
+-  const holders = new Map<string, string[]>()
+-  for (const one of domains.values()) {
+-    for (const part of one.parts) {
+-      const already = holders.get(part)
+-      if (already === undefined) holders.set(part, [one.slug])
+-      else already.push(one.slug)
+-    }
+-  }
+-  return holders
+-}
+-
+-function label(slug: string, domains: ReadonlyMap<string, Entry>, paths: boolean): string {
+-  const at = domains.get(slug)
+-  if (at === undefined) return `${slug}  ${UNDECLARED}`
+-  return paths ? `${slug}  ${at.path}` : slug
+-}
+-
+-function descend(
+-  slug: string,
+-  depth: number,
+-  open: ReadonlySet<string>,
+-  domains: ReadonlyMap<string, Entry>,
+-  paths: boolean,
+-  into: string[]
+-): undefined {
+-  const indent = "  ".repeat(depth)
+-  if (open.has(slug)) {
+-    into.push(`${indent}${slug}  ${OPEN_ABOVE}`)
+-    return undefined
+-  }
+-  into.push(`${indent}${label(slug, domains, paths)}`)
+-  const next = new Set([...open, slug])
+-  const parts = [...(domains.get(slug)?.parts ?? [])].sort((one, two) => one.localeCompare(two))
+-  for (const part of parts) descend(part, depth + 1, next, domains, paths, into)
+-  return undefined
+-}
+-
+-export function treeLines(
+-  from: readonly string[],
+-  domains: ReadonlyMap<string, Entry>,
+-  paths: boolean
+-): readonly string[] {
+-  const lines: string[] = []
+-  for (const slug of from) descend(slug, 0, new Set(), domains, paths, lines)
+-  return lines
+-}
+-
+-function ascend(
+-  slug: string,
+-  domains: ReadonlyMap<string, Entry>,
+-  holders: ReadonlyMap<string, readonly string[]>,
+-  paths: boolean
+-): readonly string[] {
+-  const lines: string[] = [label(slug, domains, paths)]
+-  const seen = new Set([slug])
+-  let frontier: readonly string[] = holders.get(slug) ?? []
+-  let depth = 1
+-  while (frontier.length > 0) {
+-    const next: string[] = []
+-    for (const one of [...frontier].sort((a, b) => a.localeCompare(b))) {
+-      if (seen.has(one)) continue
+-      seen.add(one)
+-      lines.push(`${"  ".repeat(depth)}${label(one, domains, paths)}`)
+-      next.push(...(holders.get(one) ?? []))
+-    }
+-    frontier = next
+-    depth += 1
+-  }
+-  return lines
+-}
+-
+-export function dagLines(wanted: Wanted, root: string): readonly string[] {
+-  const domains = domainsIn(root, wanted.descent)
+-  if (domains.size === 0) {
+-    throw new Error(
+-      `\`${root}\` carries no domain page, which is a dead read rather than a tree holding none`
+-    )
+-  }
+-  const holders = heldBy(domains)
+-  const unknown = [...wanted.rooted, ...wanted.above].filter((slug) => !domains.has(slug))
+-  if (unknown.length > 0) {
+-    throw new Error(`no domain page carries ${unknown.map((one) => `\`${one}\``).join(", ")}`)
+-  }
+-  if (wanted.above.length > 0) {
+-    return wanted.above.flatMap((slug, at) => [
+-      ...(at > 0 ? [""] : []),
+-      ...ascend(slug, domains, holders, wanted.paths),
+-    ])
+-  }
+-  const from =
+-    wanted.rooted.length > 0
+-      ? wanted.rooted
+-      : [...domains.values()]
+-          .filter((one) => (holders.get(one.slug) ?? []).length === 0)
+-          .map((one) => one.slug)
+-          .sort((one, two) => one.localeCompare(two))
+-  return treeLines(from, domains, wanted.paths)
+-}
+-
+-export function declarationLines(wanted: Wanted, root: string): readonly string[] {
+-  const asked = wanted.subjects.length > 0 ? wanted.subjects : SUBJECTS
+-  const subjects: Record<string, unknown> = {}
+-  for (const subject of asked) {
+-    const records = valuesOfType(root, subject === DOMAINS ? DOMAIN_TYPE : PERSONA_TYPE).map(
+-      (one) => ({
+-        slug: textIn(one.value as Record<string, unknown>, SLUG),
+-        path: one.path,
+-        page: one.value,
+-      })
+-    )
+-    if (records.length === 0) {
+-      throw new Error(
+-        `\`${root}\` carries no ${subject}, which is a dead read rather than a tree declaring none`
+-      )
+-    }
+-    subjects[subject] = { records }
+-  }
+-  return [JSON.stringify({ root, subjects }, null, 2)]
+-}
+-
+-export function domain(argv: readonly string[], given: Given): Answer {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+-  const root = resolve(given.root)
+-  try {
+-    const lines = read.act === DAG ? dagLines(read, root) : declarationLines(read, root)
+-    return { report: [...lines], refusals: [], code: 0 }
+-  } catch (thrown) {
+-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+-  }
+-}
+diff --git a/command-system/commands/domain/domain.command.test.ts b/command-system/commands/domain/domain.command.test.ts
+deleted file mode 100644
+index 400d12a9227e56d752c0c97e9050c0819569b7aa..0000000000000000000000000000000000000000
+--- a/command-system/commands/domain/domain.command.test.ts
++++ /dev/null
+@@ -1,209 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import { mkdirSync, writeFileSync } from "node:fs"
+-import { dirname, join } from "node:path"
+-import { rootOf } from "@akasha/command-system/rooting"
+-import { scratchWorld } from "@akasha/command-system/scratching"
+-import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+-import {
+-  AT_DOMAIN,
+-  DAG,
+-  DECLARATIONS,
+-  DESCENT,
+-  domainsIn,
+-  type Entry,
+-  heldBy,
+-  kindsUnderDomain,
+-  PATHS,
+-  readIn,
+-  SUBJECT,
+-  treeLines,
+-  UP,
+-} from "./domain.command.code.ts"
+-import { domain as domainCommand } from "./domain.command.ts"
+-
+-const ROOT = rootOf(import.meta.path)
+-
+-const scratch = scratchWorld()
+-
+-afterAll(scratch.sweep)
+-
+-function refusalsOf(argv: readonly string[]): readonly string[] {
+-  const read = readIn(argv)
+-  return "refused" in read ? read.refused : []
+-}
+-
+-function wantedOf(argv: readonly string[]) {
+-  const read = readIn(argv)
+-  if ("refused" in read) throw new Error(`refused: ${read.refused.join("; ")}`)
+-  return read
+-}
+-
+-test("the act is the first word", () => {
+-  expect(wantedOf([DAG]).act).toBe(DAG)
+-  expect(wantedOf([DECLARATIONS]).act).toBe(DECLARATIONS)
+-})
+-
+-test("naming no act is refused, naming what it carries", () => {
+-  const refused = refusalsOf([])
+-  expect(refused.length).toBe(1)
+-  expect(refused[0]).toContain(DAG)
+-  expect(refused[0]).toContain(DECLARATIONS)
+-})
+-
+-test("an act it does not carry is refused rather than answered as nothing", () => {
+-  expect(refusalsOf(["unreached"]).join(" ")).toContain("`unreached` is no act")
+-})
+-
+-test("one call names one act", () => {
+-  expect(refusalsOf([DAG, DECLARATIONS]).join(" ")).toContain("one call names one act")
+-})
+-
+-test("a flag an act does not take is refused against that act by name", () => {
+-  expect(refusalsOf([DECLARATIONS, PATHS]).join(" ")).toContain(
+-    `\`${PATHS}\` is taken by \`${DAG}\``
+-  )
+-  expect(refusalsOf([DECLARATIONS, DESCENT]).join(" ")).toContain(`\`${DESCENT}\` is taken by`)
+-  expect(refusalsOf([DAG, SUBJECT, "domains"]).join(" ")).toContain(
+-    `\`${SUBJECT}\` is taken by \`${DECLARATIONS}\``
+-  )
+-})
+-
+-test("a flag it carries at all is refused when it is none of them", () => {
+-  expect(refusalsOf([DAG, "--nope"]).join(" ")).toContain("`--nope` is no flag this takes")
+-})
+-
+-test("a flag wanting a word and given none is refused", () => {
+-  expect(refusalsOf([DAG, AT_DOMAIN]).join(" ")).toContain("nothing followed it")
+-  expect(refusalsOf([DAG, UP, PATHS]).join(" ")).toContain("nothing followed it")
+-})
+-
+-test("--domain and --up are each repeatable", () => {
+-  const wanted = wantedOf([DAG, AT_DOMAIN, "one", AT_DOMAIN, "two", UP, "three"])
+-  expect(wanted.rooted).toEqual(["one", "two"])
+-  expect(wanted.above).toEqual(["three"])
+-})
+-
+-test("a subject that is neither domains nor personas is refused", () => {
+-  expect(refusalsOf([DECLARATIONS, SUBJECT, "widgets"]).join(" ")).toContain(
+-    "`widgets` is no subject"
+-  )
+-})
+-
+-test("a domain page carries its parts as the domains it holds", () => {
+-  const domains = domainsIn(ROOT, false)
+-  expect(domains.size).toBeGreaterThan(0)
+-  const email = domains.get("email")
+-  expect(email?.path.endsWith("email.domain.ts")).toBe(true)
+-  expect(email?.parts).toContain("email-action")
+-})
+-
+-test("a domain never names itself as one of its own parts", () => {
+-  for (const one of domainsIn(ROOT, false).values()) expect(one.parts).not.toContain(one.slug)
+-})
+-
+-test("the holders of a part are the domains naming it", () => {
+-  const domains = domainsIn(ROOT, false)
+-  expect(heldBy(domains).get("email-action")).toContain("email")
+-})
+-
+-test("`domain` itself is under `domain`, and `module` and `command` are too", () => {
+-  const kinds = kindsUnderDomain(ROOT)
+-  expect(kinds.has("domain")).toBe(true)
+-  expect(kinds.has("module")).toBe(true)
+-  expect(kinds.has("command")).toBe(true)
+-  expect(kinds.has("page")).toBe(false)
+-})
+-
+-test("the descent reading holds strictly more than the domain pages alone", () => {
+-  expect(domainsIn(ROOT, true).size).toBeGreaterThan(domainsIn(ROOT, false).size)
+-})
+-
+-test("the page says it writes nothing and takes both acts", () => {
+-  expect(domainCommand.changeKindSlug).toBe("change-none")
+-  const said = domainCommand.taking.map((one) => one.said)
+-  expect(said).toContain(DAG)
+-  expect(said).toContain(DECLARATIONS)
+-})
+-
+-function standingOf(said: Readonly<Record<string, readonly string[]>>): ReadonlyMap<string, Entry> {
+-  return new Map(
+-    Object.entries(said).map(([slug, parts]) => [slug, { slug, path: `${slug}.domain.ts`, parts }])
+-  )
+-}
+-
+-test("a domain held by two domains is drawn under each of them", () => {
+-  const domains = standingOf({ one: ["held"], two: ["held"], held: ["under"], under: [] })
+-
+-  expect(treeLines(["one", "two"], domains, false)).toEqual([
+-    "one",
+-    "  held",
+-    "    under",
+-    "two",
+-    "  held",
+-    "    under",
+-  ])
+-})
+-
+-test("a domain drawn a second time beside the first is no domain already open", () => {
+-  const domains = standingOf({ root: ["one", "two"], one: ["held"], two: ["held"], held: [] })
+-
+-  expect(treeLines(["root"], domains, false)).toEqual([
+-    "root",
+-    "  one",
+-    "    held",
+-    "  two",
+-    "    held",
+-  ])
+-})
+-
+-test("a domain open above the point being drawn is marked rather than drawn again", () => {
+-  const domains = standingOf({ root: ["held"], held: ["beside"], beside: ["held"] })
+-
+-  expect(treeLines(["root"], domains, false)).toEqual([
+-    "root",
+-    "  held",
+-    "    beside",
+-    "      held  — already open above here",
+-  ])
+-})
+-
+-function typed(root: string, slug: string, above: readonly string[]): undefined {
+-  const path = `akasha/held/${slug}.page-type.ts`
+-  const named = above.map((one) => `page-type/${one}`)
+-  listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
+-  valueAlsoFiled(root, "page-type", [
+-    { path, value: { id: `id-${slug}`, pageTypeSlug: "page-type", slug, extendsSlug: named } },
+-  ])
+-  const page = join(root, path)
+-  mkdirSync(dirname(page), { recursive: true })
+-  writeFileSync(
+-    page,
+-    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${JSON.stringify(named)} }\n`
+-  )
+-  return undefined
+-}
+-
+-test("a page type naming one type above it is a kind of domain as it always was", () => {
+-  const root = scratch.rootFor("akasha-domain-")
+-  typed(root, "domain", [])
+-  typed(root, "page", [])
+-  typed(root, "module", ["domain"])
+-
+-  const kinds = kindsUnderDomain(root)
+-
+-  expect([...kinds].sort()).toEqual(["domain", "module"])
+-})
+-
+-test("a page type naming two types above it is a kind of domain where either of them is", () => {
+-  const root = scratch.rootFor("akasha-domain-")
+-  typed(root, "domain", [])
+-  typed(root, "page", [])
+-  typed(root, "module", ["domain"])
+-  typed(root, "page-property", ["page"])
+-  typed(root, "computed-property", ["page-property", "module"])
+-  typed(root, "faith-points", ["computed-property"])
+-
+-  const kinds = kindsUnderDomain(root)
+-
+-  expect([...kinds].sort()).toEqual(["computed-property", "domain", "faith-points", "module"])
+-})
+diff --git a/command-system/commands/domain/domain.command.ts b/command-system/commands/domain/domain.command.ts
+deleted file mode 100644
+index 4ed2cbd4010c7863854b3468f781c7445ad71eec..0000000000000000000000000000000000000000
+--- a/command-system/commands/domain/domain.command.ts
++++ /dev/null
+@@ -1,112 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const domain = {
+-  id: "01a06888-ab2d-7350-8540-b1eb2fcaa3f5",
+-  pageTypeSlug: "command",
+-  slug: "domain",
+-  definition: "the command saying which domains there are and how they sit inside each other",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    {
+-      said: "dag",
+-      takes: "the act, which is the domain tree, each domain under the domain holding that domain",
+-    },
+-    {
+-      said: "declarations",
+-      takes: "the act, which is every domain and persona page whole, as JSON",
+-    },
+-    { said: "--domain <slug>", takes: "the domain to root the tree at instead of at its roots" },
+-    { said: "--up <slug>", takes: "the domain to print ABOVE instead of below, up to the roots" },
+-    { said: "--paths", takes: "the file carrying each domain, printed beside its slug" },
+-    { said: "--descent", takes: "every page type extending `domain` as well as `domain` itself" },
+-    {
+-      said: "--subject <subject>",
+-      takes: "`domains` or `personas` alone, where both would be said",
+-    },
+-  ],
+-  helpNotes: [
+-    "the act is the first word, and one call names one act.",
+-    "a domain names the domains it holds in `partSlugs`, as `domain/<slug>`, so an edge is read off the domain holding it rather than off the domain held.",
+-    "`--domain` and `--up` are each repeatable, and a slug carrying no domain page refuses the call by name.",
+-    "a domain held by several domains is printed beneath each of them, that being what the edges say; the repeats are the graph rather than a fault in the printing.",
+-    "a domain already open further up its own branch is printed once and marked, so a cycle terminates rather than running away.",
+-    "a page of the `domain` page type is what is read by default, `module`, `command` and the other 96 types extending `domain` being outside it.",
+-    "`--descent` widens the reading to every page type extending `domain`, which is the whole tree of code rather than the domains alone.",
+-    "`declarations` carries each page WHOLE, so a property the pages grow needs no flag here and no change at any caller.",
+-    "the pages are read from the index, which carries what each page file declares and applies nothing of its own.",
+-    "a subject holding nothing refuses the call rather than answering an empty list, an empty tree being a dead read.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The act is the first word.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "One call names one act.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An act the command does not carry is refused rather than answered as nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A flag an act does not take is refused against that act by name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A domain is a page of the `domain` page type rather than a page carrying a slug.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An edge is a `domain/<slug>` part named by the domain holding that part.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A root is a domain no domain names as a part.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A part naming no domain page is printed and marked rather than passed over.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A slug named that carries no domain page refuses the call.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A tree or a subject holding nothing refuses rather than answering empty.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page type names any number of types above that page type.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A page type is a kind of domain where any type that page type names above that page type is.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here walks the types a page type names above that page type.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A domain open above the point being drawn is marked rather than drawn again.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A domain drawn elsewhere is no domain open above the point being drawn.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A run writes nothing.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads a markdown document.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/command-system/namespaces/pages/domain.namespace.ts b/command-system/namespaces/pages/domain.namespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4c0dd8d97c1adde4dadf6f99451fb07858bd7927
+--- /dev/null
++++ b/command-system/namespaces/pages/domain.namespace.ts
+@@ -0,0 +1,9 @@
++import type { Namespace } from "../namespace.page-type.ts"
++
++export const domain = {
++  id: "01a07c03-e381-7406-89c5-7c74061fd947",
++  pageTypeSlug: "namespace",
++  slug: "domain",
++  definition: "the domains this repository carries, drawn or handed over",
++  partSlugs: ["command/domain-dag", "command/domain-declarations", "command/domain-tree"],
++} as const satisfies Namespace
