@@ -1,0 +1,1823 @@
+writerOwesReading: false
+diff --git a/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.code.ts b/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6684ad9e6415896fdf7282515266f59d1db8cc2d
+--- /dev/null
++++ b/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.code.ts
+@@ -0,0 +1,33 @@
++const AUTHOR = "test"
++
++const VERSION = "1.0.0"
++
++const ADDON_VERSION = 100
++
++const API_VERSION = ["101041"]
++
++export type AddonFixtureManifest = {
++  readonly name: string
++  readonly title: string
++  readonly description: string
++  readonly author: string
++  readonly version: string
++  readonly addonVersion: number
++  readonly apiVersion: readonly string[]
++  readonly savedVariables: readonly string[]
++  readonly dependsOn: readonly string[]
++}
++
++export function addonManifestOf(name: string): AddonFixtureManifest {
++  return {
++    name,
++    title: name,
++    description: `${name} for a test`,
++    author: AUTHOR,
++    version: VERSION,
++    addonVersion: ADDON_VERSION,
++    apiVersion: API_VERSION,
++    savedVariables: [],
++    dependsOn: [],
++  }
++}
+diff --git a/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts b/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..eadf7c7e55504d331c1d29e5c29aedcbe4d6ca48
+--- /dev/null
++++ b/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts
+@@ -0,0 +1,5 @@
++import { addonManifestOf } from "./addon-fixture-manifest.module.code.ts"
++
++export function manifestFor(name: string): string {
++  return JSON.stringify(addonManifestOf(name))
++}
+diff --git a/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.test.ts b/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6bd1f6b0e00359363ecfce30585fbebf5102a96a
+--- /dev/null
++++ b/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.test.ts
+@@ -0,0 +1,20 @@
++import { expect, test } from "bun:test"
++import { addonManifestOf } from "./addon-fixture-manifest.module.code.ts"
++
++const PROBE = "TemperProbe"
++
++test("a fixture manifest is named and titled for the addon named", () => {
++  const held = addonManifestOf(PROBE)
++  expect(held.name).toBe(PROBE)
++  expect(held.title).toBe(PROBE)
++})
++
++test("a fixture manifest depends on nothing and saves nothing", () => {
++  const held = addonManifestOf(PROBE)
++  expect(held.dependsOn).toEqual([])
++  expect(held.savedVariables).toEqual([])
++})
++
++test("a fixture manifest carries an api version the roster reads", () => {
++  expect(addonManifestOf(PROBE).apiVersion.length).toBe(1)
++})
+diff --git a/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.ts b/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..aab661938903b6cdddae22e7172b5dc6b447a60e
+--- /dev/null
++++ b/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.ts
+@@ -0,0 +1,33 @@
++import type { Module } from "@akasha/code/module"
++
++export const addonFixtureManifest = {
++  id: "01a07c93-f240-7b33-9d06-f8459b129064",
++  pageTypeSlug: "module",
++  slug: "addon-fixture-manifest",
++  definition: "the addon manifest a test writes into a scratch world",
++  code: "ts",
++  test: "ts",
++  testFixtures: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A fixture manifest is named and titled for the addon named.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A fixture manifest depends on nothing and saves nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A fixture manifest carries the fields the addon roster reads.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A test writing a manifest to disk takes the manifest as JSON text.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes a file.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/commands/modules/argument-word-reading/argument-word-reading.module.code.ts b/commands/modules/argument-word-reading/argument-word-reading.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a75e719d8a46785443de5844af9a7ab21cddd487
+--- /dev/null
++++ b/commands/modules/argument-word-reading/argument-word-reading.module.code.ts
+@@ -0,0 +1,26 @@
++export function valuesOf(argv: readonly string[], flag: string): readonly string[] {
++  const found: string[] = []
++  for (let at = 0; at < argv.length; at += 1) {
++    const value = argv[at + 1]
++    if (argv[at] === flag && value !== undefined) found.push(value)
++  }
++  return found
++}
++
++export function namesIn(
++  argv: readonly string[],
++  takingAValue: readonly string[]
++): readonly string[] {
++  const found: string[] = []
++  for (let at = 0; at < argv.length; at += 1) {
++    const word = argv[at]
++    if (word === undefined) continue
++    if (takingAValue.includes(word)) {
++      at += 1
++      continue
++    }
++    if (word.startsWith("-")) continue
++    found.push(word)
++  }
++  return found
++}
+diff --git a/commands/modules/argument-word-reading/argument-word-reading.module.test.ts b/commands/modules/argument-word-reading/argument-word-reading.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f48a8e34391d9d8e285dcc2d6592c540f381fe22
+--- /dev/null
++++ b/commands/modules/argument-word-reading/argument-word-reading.module.test.ts
+@@ -0,0 +1,27 @@
++import { expect, test } from "bun:test"
++import { namesIn, valuesOf } from "./argument-word-reading.module.code.ts"
++
++const ROOT_FLAG = "--repo-root"
++
++const OUT_FLAG = "--out"
++
++test("a flag answers with every value said after that flag", () => {
++  const said = [ROOT_FLAG, "one", OUT_FLAG, "two", ROOT_FLAG, "three"]
++  expect(valuesOf(said, ROOT_FLAG)).toEqual(["one", "three"])
++})
++
++test("a flag the call does not carry answers with nothing", () => {
++  expect(valuesOf(["one", "two"], ROOT_FLAG)).toEqual([])
++})
++
++test("a flag no word follows answers with nothing", () => {
++  expect(valuesOf([OUT_FLAG, ROOT_FLAG], ROOT_FLAG)).toEqual([])
++})
++
++test("a word opening with a dash is no name", () => {
++  expect(namesIn(["one", "--all", "two"], [])).toEqual(["one", "two"])
++})
++
++test("the word after a flag taking a value is no name", () => {
++  expect(namesIn([ROOT_FLAG, "one", "two"], [ROOT_FLAG])).toEqual(["two"])
++})
+diff --git a/commands/modules/argument-word-reading/argument-word-reading.module.ts b/commands/modules/argument-word-reading/argument-word-reading.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2350080060a9ca1d4aebee72629c370334a2c4e1
+--- /dev/null
++++ b/commands/modules/argument-word-reading/argument-word-reading.module.ts
+@@ -0,0 +1,53 @@
++import type { Module } from "@akasha/code/module"
++
++export const argumentWordReading = {
++  id: "01a07c95-1051-774e-bcef-6c84d8c106fb",
++  pageTypeSlug: "module",
++  slug: "argument-word-reading",
++  definition: "the values said after a flag and the words a call says as names",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A flag's values are the words said after each occurrence of that flag.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag said more than once answers with a value for each saying of that flag.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The values are answered in the order the call said those values.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag no word follows carries no value.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag the call does not carry answers with nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name is a word opening with no dash.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The word after a flag that takes a value is passed over rather than read as a name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Which flags take a value is the caller's to say.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here refuses a flag the command does not know.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here says how many names a command takes.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/commands/modules/eso-chatter-names/eso-chatter-names.module.code.ts b/commands/modules/eso-chatter-names/eso-chatter-names.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1f7be2ac2014148e7084506cd204ae4a155a5469
+--- /dev/null
++++ b/commands/modules/eso-chatter-names/eso-chatter-names.module.code.ts
+@@ -0,0 +1,45 @@
++export interface ChatterNamesModule {
++  readonly chatter: readonly string[]
++  readonly interaction: readonly string[]
++  readonly text: string
++}
++
++function namesWithPrefix(source: string, prefix: string): readonly string[] {
++  const pattern = new RegExp(`^declare const (${prefix}[A-Z0-9_]+):\\s*number`, "gm")
++  const found = new Set<string>()
++  for (const match of source.matchAll(pattern)) {
++    const name = match[1]
++    if (name !== undefined) found.add(name)
++  }
++  return [...found].sort()
++}
++
++function renderArray(exportName: string, names: readonly string[]): string {
++  const body = names.map((n) => `  "${n}",`).join("\n")
++  return `export const ${exportName}: readonly string[] = [\n${body}\n]`
++}
++
++export function chatterNamesModule(source: string, generatorRef: string): ChatterNamesModule {
++  const chatter = namesWithPrefix(source, "CHATTER_")
++  const interaction = namesWithPrefix(source, "INTERACTION_")
++
++  const text = `/**
++ * Chatter / Interaction constant-name registry (Generated)
++ *
++ * Source: types/eso/generated/enums.d.ts
++ *
++ * DO NOT EDIT — regenerate with:
++ *   ${generatorRef}
++ *
++ * The auto-quest debug trace resolves option/interaction type codes to names by
++ * reading each of these globals individually (\`_G[name]\`). It must NOT scan
++ * \`pairs(_G)\` — that taints the ESO call stack on protected-function globals.
++ */
++
++${renderArray("CHATTER_OPTION_TYPE_NAMES", chatter)}
++
++${renderArray("INTERACTION_TYPE_NAMES", interaction)}
++`
++
++  return { chatter, interaction, text }
++}
+diff --git a/commands/modules/eso-chatter-names/eso-chatter-names.module.ts b/commands/modules/eso-chatter-names/eso-chatter-names.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f876e135ca61b186eec6ea1797008db4f88cb7d9
+--- /dev/null
++++ b/commands/modules/eso-chatter-names/eso-chatter-names.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code/module"
++
++export const esoChatterNames = {
++  id: "01a069cf-7042-7000-8df6-e6b7ffd0efc8",
++  pageTypeSlug: "module",
++  slug: "eso-chatter-names",
++  definition: "the chatter names a generated Lua module declares, read back as a module",
++  code: "ts",
++} as const satisfies Module
+diff --git a/commands/modules/explain-replay-reading/explain-replay-reading.module.code.ts b/commands/modules/explain-replay-reading/explain-replay-reading.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c3c30241b1495b1db7ee75906e8aa2b2895b82af
+--- /dev/null
++++ b/commands/modules/explain-replay-reading/explain-replay-reading.module.code.ts
+@@ -0,0 +1,160 @@
++import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
++import { z } from "zod"
++import { readInventoryDiagnostic } from "../../../temper/temper-commands/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
++
++const SIGNALS_SCHEMA = z
++  .object({
++    itemType: z.number(),
++    specializedItemType: z.number().optional(),
++    filterType: z.number(),
++    traitType: z.number(),
++    equipType: z.number(),
++    armorType: z.number(),
++    weaponType: z.number(),
++    quality: z.number(),
++  })
++  .strict()
++
++const CLASSIFICATION_SCHEMA = z
++  .object({
++    leafCategoryId: z.string(),
++    ancestorChain: luaArrayOrEmpty(z.string()),
++    categoryPath: z.string(),
++  })
++  .strict()
++
++const MOTIF_LOOKUP_SCHEMA = z
++  .object({
++    rawName: z.string(),
++    cleanName: z.string(),
++    lookupHit: z.boolean(),
++    coords: z.object({ collection: z.number(), book: z.number() }).strict().optional(),
++  })
++  .strict()
++
++const ITEM_KEY_SCHEMA = z
++  .object({
++    kind: z.enum(["recipe", "motif", "script", "consumable", "collectible", "fragment", "none"]),
++    detail: z.record(z.string(), z.union([z.number(), z.string(), z.boolean()])),
++  })
++  .strict()
++
++const UNLOCK_WALK_SCHEMA = z
++  .object({
++    currentCharId: z.string(),
++    priority: z
++      .array(
++        z
++          .object({
++            charId: z.string(),
++            knows: z.union([z.boolean(), z.literal("no-data-treated-as-knows")]),
++            chosen: z.boolean(),
++          })
++          .strict()
++      )
++      .readonly(),
++    chosen: z.string().optional(),
++  })
++  .strict()
++
++const ITEM_RULES_MATCH_SCHEMA = z
++  .object({
++    itemId: z.number(),
++    action: z.string(),
++    destination: z.string().optional(),
++  })
++  .strict()
++
++const MATCHED_WALK_SCHEMA = z
++  .object({
++    index: z.number(),
++    categoryId: z.string(),
++    action: z.string(),
++    destination: z.string(),
++    conditions: z.string(),
++  })
++  .strict()
++
++const REJECTION_SCHEMA = z
++  .object({
++    index: z.number(),
++    categoryId: z.string(),
++    action: z.string(),
++    reason: z.enum([
++      "category-miss",
++      "conditions-fail",
++      "destination-resolve-fail",
++      "container-skip",
++    ]),
++    detail: z.string().optional(),
++  })
++  .strict()
++
++const ORDERED_WALK_SCHEMA = z
++  .object({
++    rulesConsidered: z.number(),
++    rulesEvaluated: z.number(),
++    matched: MATCHED_WALK_SCHEMA.optional(),
++    rejections: luaArrayOrEmpty(REJECTION_SCHEMA),
++  })
++  .strict()
++
++const OUTCOME_SCHEMA = z
++  .object({
++    action: z.string(),
++    destination: z.string(),
++    summary: z.string(),
++  })
++  .strict()
++
++const INVENTORY_LOC_SCHEMA = z
++  .object({
++    found: z.boolean(),
++    bagId: z.number().optional(),
++    slotIndex: z.number().optional(),
++  })
++  .strict()
++
++const EXPLAIN_TRACE_SCHEMA = z
++  .object({
++    schemaVersion: z.number(),
++    timestamp: z.number(),
++    itemLink: z.string(),
++    itemId: z.number(),
++    itemName: z.string(),
++    itemNameRaw: z.string(),
++    inventory: INVENTORY_LOC_SCHEMA,
++    signals: SIGNALS_SCHEMA,
++    classification: CLASSIFICATION_SCHEMA,
++    motifLookup: MOTIF_LOOKUP_SCHEMA.optional(),
++    itemKey: ITEM_KEY_SCHEMA,
++    unlockWalk: UNLOCK_WALK_SCHEMA.optional(),
++    itemRulesMatch: ITEM_RULES_MATCH_SCHEMA.optional(),
++    orderedWalk: ORDERED_WALK_SCHEMA,
++    outcome: OUTCOME_SCHEMA,
++    notes: luaArrayOrEmpty(z.string()),
++  })
++  .strict()
++
++type ExplainTrace = z.infer<typeof EXPLAIN_TRACE_SCHEMA>
++
++const DIAGNOSTICS_SCHEMA = z
++  .object({
++    lastExplain: EXPLAIN_TRACE_SCHEMA.optional(),
++  })
++  .passthrough()
++
++const ACCOUNT_WIDE_SCHEMA = z
++  .object({
++    diagnostics: DIAGNOSTICS_SCHEMA.optional(),
++  })
++  .passthrough()
++
++export async function readLastExplain(inventoryPath: string): Promise<ExplainTrace> {
++  return await readInventoryDiagnostic(
++    inventoryPath,
++    ACCOUNT_WIDE_SCHEMA,
++    (wide) => wide.diagnostics?.lastExplain,
++    "no diagnostics.lastExplain (have you run the in-game explain keybind?)"
++  )
++}
+diff --git a/commands/modules/explain-replay-reading/explain-replay-reading.module.ts b/commands/modules/explain-replay-reading/explain-replay-reading.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5d8f289e4a7bd79a600a8b83216079d08b37af08
+--- /dev/null
++++ b/commands/modules/explain-replay-reading/explain-replay-reading.module.ts
+@@ -0,0 +1,24 @@
++import type { Module } from "@akasha/code/module"
++
++export const explainReplayReading = {
++  id: "01a06864-aa2b-7005-8de7-99cdead2fd47",
++  pageTypeSlug: "module",
++  slug: "explain-replay-reading",
++  definition: "the last rule walk the inventory addon recorded in the game, read back for replay",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "The walk is read back as the addon recorded that walk rather than run again on this side.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The trace is ruled on whole.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An unknown field refuses the read.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/commands/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts b/commands/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..545979d189e0f305d1c8709e4cf7ea08b84b203b
+--- /dev/null
++++ b/commands/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts
+@@ -0,0 +1,68 @@
++import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
++import type {
++  CategoryRule,
++  InventoryRuleSettings,
++  ItemRule,
++} from "@akasha/temper-items-rules-core/inventory-rule-types"
++import { z } from "zod"
++
++const SETTINGS_VERSION = 2
++
++const ITEM_ACTION_SCHEMA = z.enum([
++  "nothing",
++  "lock",
++  "unlock",
++  "move-to",
++  "stock",
++  "character-equip",
++  "companion-equip",
++  "deconstruct",
++  "refine",
++  "destroy",
++  "fence-launder",
++  "fence-sell",
++  "list",
++  "mail",
++  "research",
++  "sell",
++  "use",
++  "open",
++])
++
++const CategoryRuleSchema: z.ZodType<CategoryRule> = z
++  .object({
++    id: z.string(),
++    categoryId: z.string(),
++    action: ITEM_ACTION_SCHEMA,
++  })
++  .passthrough()
++
++const ItemRuleSchema: z.ZodType<ItemRule> = z
++  .object({
++    id: z.string(),
++    itemId: z.number(),
++    itemName: z.string(),
++    action: ITEM_ACTION_SCHEMA,
++  })
++  .passthrough()
++
++const BUY_SOURCE_SCHEMA = z.enum(["merchant"])
++
++const BuyRuleSchema: z.ZodType<BuyRule> = z
++  .object({
++    id: z.string(),
++    itemId: z.number(),
++    itemName: z.string(),
++    targetQuantity: z.number(),
++    source: BUY_SOURCE_SCHEMA,
++  })
++  .passthrough()
++
++export const InventoryRuleSettingsShape: z.ZodType<InventoryRuleSettings> = z
++  .object({
++    version: z.literal(SETTINGS_VERSION),
++    rules: z.array(CategoryRuleSchema).readonly(),
++    itemRules: z.array(ItemRuleSchema).readonly().optional(),
++    buyRules: z.array(BuyRuleSchema).readonly().optional(),
++  })
++  .passthrough()
+diff --git a/commands/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.test.ts b/commands/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..24cbe5a6ebd8c9b0176adf7f81f441725680e953
+--- /dev/null
++++ b/commands/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.test.ts
+@@ -0,0 +1,56 @@
++import { expect, test } from "bun:test"
++import { InventoryRuleSettingsShape } from "./inventory-rule-settings-shape.module.code.ts"
++
++const ONE_RULE = {
++  version: 2,
++  rules: [{ id: "a", categoryId: "weapons", action: "sell" }],
++}
++
++test("settings carrying one rule are read", () => {
++  const held = InventoryRuleSettingsShape.parse(ONE_RULE)
++  expect(held.rules[0]?.id).toBe("a")
++})
++
++test("a version other than two is refused", () => {
++  expect(() => InventoryRuleSettingsShape.parse({ ...ONE_RULE, version: 1 })).toThrow()
++})
++
++test("a rule carrying an action nobody declares is refused", () => {
++  expect(() =>
++    InventoryRuleSettingsShape.parse({
++      version: 2,
++      rules: [{ id: "a", categoryId: "weapons", action: "burn" }],
++    })
++  ).toThrow()
++})
++
++test("a key written by a newer temper is carried through rather than refused", () => {
++  const held = InventoryRuleSettingsShape.parse({
++    version: 2,
++    rules: [{ id: "a", categoryId: "weapons", action: "sell", laterKey: 9 }],
++    laterSlice: { anything: true },
++  })
++  expect(held).toMatchObject({ laterSlice: { anything: true } })
++  expect(held.rules[0]).toMatchObject({ laterKey: 9 })
++})
++
++test("item rules and buy rules are read where they are there", () => {
++  const held = InventoryRuleSettingsShape.parse({
++    version: 2,
++    rules: [],
++    itemRules: [{ id: "i", itemId: 1, itemName: "Rope", action: "lock" }],
++    buyRules: [{ id: "b", itemId: 2, itemName: "Soup", targetQuantity: 4, source: "merchant" }],
++  })
++  expect(held.itemRules?.[0]?.itemName).toBe("Rope")
++  expect(held.buyRules?.[0]?.targetQuantity).toBe(4)
++})
++
++test("a buy rule from a source nobody declares is refused", () => {
++  expect(() =>
++    InventoryRuleSettingsShape.parse({
++      version: 2,
++      rules: [],
++      buyRules: [{ id: "b", itemId: 2, itemName: "Soup", targetQuantity: 4, source: "guild" }],
++    })
++  ).toThrow()
++})
+diff --git a/commands/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.ts b/commands/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0b83c69acdc47a665098ea60756ec59815a9e311
+--- /dev/null
++++ b/commands/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.ts
+@@ -0,0 +1,32 @@
++import type { Module } from "@akasha/code/module"
++
++export const inventoryRuleSettingsShape = {
++  id: "01a068e2-226a-7523-928d-85398937e67c",
++  pageTypeSlug: "module",
++  slug: "inventory-rule-settings-shape",
++  definition: "what unknown JSON holds to be read as a player's inventory rule settings",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Settings arrive as JSON nobody has vouched for.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Only version two is read.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A rule is required to carry an id and an action and nothing more.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Settings written by a newer temper are still read by an older temper.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "Every action name is written out again here.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/commands/modules/name-ordering/name-ordering.module.code.ts b/commands/modules/name-ordering/name-ordering.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..70c199bce7c9d00255504b513cf0baf5c02d55d0
+--- /dev/null
++++ b/commands/modules/name-ordering/name-ordering.module.code.ts
+@@ -0,0 +1,3 @@
++export function inNameOrder(names: readonly string[]): readonly string[] {
++  return [...names].sort((a, b) => a.localeCompare(b))
++}
+diff --git a/commands/modules/name-ordering/name-ordering.module.test.ts b/commands/modules/name-ordering/name-ordering.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..027d8b82de697673d36e46e85ac98e93509df827
+--- /dev/null
++++ b/commands/modules/name-ordering/name-ordering.module.test.ts
+@@ -0,0 +1,16 @@
++import { expect, test } from "bun:test"
++import { inNameOrder } from "./name-ordering.module.code.ts"
++
++test("names are answered in the order the locale sorts them by", () => {
++  expect(inNameOrder(["B", "a", "c"])).toEqual(["a", "B", "c"])
++})
++
++test("the names handed in are left in the order handed in", () => {
++  const said = ["b", "a"]
++  inNameOrder(said)
++  expect(said).toEqual(["b", "a"])
++})
++
++test("a name said twice is answered twice", () => {
++  expect(inNameOrder(["a", "a"])).toEqual(["a", "a"])
++})
+diff --git a/commands/modules/name-ordering/name-ordering.module.ts b/commands/modules/name-ordering/name-ordering.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f4e718b4e8de781894b8eb47a88258136a74dba1
+--- /dev/null
++++ b/commands/modules/name-ordering/name-ordering.module.ts
+@@ -0,0 +1,24 @@
++import type { Module } from "@akasha/code/module"
++
++export const nameOrdering = {
++  id: "01a07c93-d1ce-7d75-844c-a9a61f0601d8",
++  pageTypeSlug: "module",
++  slug: "name-ordering",
++  definition: "names held in the order a locale sorts names by",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Names are ordered by the locale's own comparison rather than by code point.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The list of names handed in is left as that list was handed in.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here drops a name said twice.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/commands/pages/temper-addon-build/temper-addon-build.command.code.ts b/commands/pages/temper-addon-build/temper-addon-build.command.code.ts
+index bbb1d90147b983e7284aabf1437431f4279b1f7e..e44fd8cc15c9085b59b2c233f27c4ec1670c82ed 100644
+--- a/commands/pages/temper-addon-build/temper-addon-build.command.code.ts
++++ b/commands/pages/temper-addon-build/temper-addon-build.command.code.ts
+@@ -10,8 +10,8 @@ import { COMPILER_ENTRY, tstlCommand, tstlRoot } from "@akasha/temper-addon-buil
+ import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
+ import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
+ import { ran, shown } from "@akasha/utils-run/running"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
+-import { inNameOrder } from "../../../temper/temper-commands/name-ordering/name-ordering.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
++import { inNameOrder } from "../../modules/name-ordering/name-ordering.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ const DATA = 2
+diff --git a/commands/pages/temper-addon-bundle-build/temper-addon-bundle-build.command.code.ts b/commands/pages/temper-addon-bundle-build/temper-addon-bundle-build.command.code.ts
+index 2354a3f2c4f99eac219c19197fe328ce8dc37fb1..c9d32a8f9765816f24cb394dd9f01a93ae6845d4 100644
+--- a/commands/pages/temper-addon-bundle-build/temper-addon-bundle-build.command.code.ts
++++ b/commands/pages/temper-addon-bundle-build/temper-addon-bundle-build.command.code.ts
+@@ -13,7 +13,7 @@ import {
+ } from "@akasha/temper-addons-resolve/distributable-set"
+ import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
+ import { type Zippable, zipSync } from "fflate"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ 
+diff --git a/commands/pages/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts b/commands/pages/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts
+index 5f15088d20072730949eff551d29ffbb698a445f..60e37afccab78301a13d745d90330c6203561d3e 100644
+--- a/commands/pages/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts
++++ b/commands/pages/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts
+@@ -5,7 +5,7 @@ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { ran } from "@akasha/utils-run/running"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ import { temperAddonBuild } from "../temper-addon-build/temper-addon-build.command.code.ts"
+ import { temperAddonBundleBuild } from "../temper-addon-bundle-build/temper-addon-bundle-build.command.code.ts"
+ 
+diff --git a/commands/pages/temper-addon-copy-metadata/temper-addon-copy-metadata.command.code.ts b/commands/pages/temper-addon-copy-metadata/temper-addon-copy-metadata.command.code.ts
+index c6c46cc8808956220d545500f7fde8950a7551f6..c5aaec3a0fb25c432f93c1c87d5ff015c8665f58 100644
+--- a/commands/pages/temper-addon-copy-metadata/temper-addon-copy-metadata.command.code.ts
++++ b/commands/pages/temper-addon-copy-metadata/temper-addon-copy-metadata.command.code.ts
+@@ -5,7 +5,7 @@ import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { copyAddonMetadata } from "@akasha/temper-addon-build/addon-metadata-copy"
+ import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ const DATA = 2
+diff --git a/commands/pages/temper-addon-data-generate/temper-addon-data-generate.command.code.ts b/commands/pages/temper-addon-data-generate/temper-addon-data-generate.command.code.ts
+index e7d984a7f40d88831555389b8bd109d6e9097c1b..51492655b654a86273d512ab3ed341194fbd9a34 100644
+--- a/commands/pages/temper-addon-data-generate/temper-addon-data-generate.command.code.ts
++++ b/commands/pages/temper-addon-data-generate/temper-addon-data-generate.command.code.ts
+@@ -3,7 +3,7 @@ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
+ import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { codeRoot } from "@akasha/pages/code-root"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const DATA = 2
+ 
+diff --git a/commands/pages/temper-addon-generate-load-order/temper-addon-generate-load-order.command.code.ts b/commands/pages/temper-addon-generate-load-order/temper-addon-generate-load-order.command.code.ts
+index 1b384e6dcfb29790418fa0bd4ef9d413a9837587..bc0191a20cee862e95beb22fb160f1f6b21f8f85 100644
+--- a/commands/pages/temper-addon-generate-load-order/temper-addon-generate-load-order.command.code.ts
++++ b/commands/pages/temper-addon-generate-load-order/temper-addon-generate-load-order.command.code.ts
+@@ -5,7 +5,7 @@ import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { writeLoadOrder } from "@akasha/temper-addon-build/addon-load-order"
+ import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ const DATA = 2
+diff --git a/commands/pages/temper-addon-global-name-dependents/temper-addon-global-name-dependents.command.code.ts b/commands/pages/temper-addon-global-name-dependents/temper-addon-global-name-dependents.command.code.ts
+index a340aa71c1dbda02af7b76079609301222165e3b..9e8ef2dfa9da191feef1fc3088516b2e40ca6143 100644
+--- a/commands/pages/temper-addon-global-name-dependents/temper-addon-global-name-dependents.command.code.ts
++++ b/commands/pages/temper-addon-global-name-dependents/temper-addon-global-name-dependents.command.code.ts
+@@ -15,7 +15,7 @@ import { collectGlobalWritesFromSource } from "@akasha/temper-build-deploy-check
+ import {
+   namesIn,
+   valuesOf,
+-} from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++} from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const DATA = 2
+ 
+diff --git a/commands/pages/temper-addon-list/temper-addon-list.command.code.ts b/commands/pages/temper-addon-list/temper-addon-list.command.code.ts
+index 58595d2b5ebaff8d4615e8c054564d57c1899cb2..4f279ea6bd5966681b76ada5c87897f8eee59496 100644
+--- a/commands/pages/temper-addon-list/temper-addon-list.command.code.ts
++++ b/commands/pages/temper-addon-list/temper-addon-list.command.code.ts
+@@ -3,7 +3,7 @@ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const DATA = 2
+ 
+diff --git a/commands/pages/temper-addon-list/temper-addon-list.command.test.ts b/commands/pages/temper-addon-list/temper-addon-list.command.test.ts
+index 521d2bc18b5e0e50d0c8491e96654412828f5f25..ea691fa26fc2d9e3f7bf416f26e18f9106151929 100644
+--- a/commands/pages/temper-addon-list/temper-addon-list.command.test.ts
++++ b/commands/pages/temper-addon-list/temper-addon-list.command.test.ts
+@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
+ import { mkdirSync, rmSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { manifestFor } from "../../../temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
++import { manifestFor } from "../../modules/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
+ import { temperAddonList } from "./temper-addon-list.command.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/commands/pages/temper-addon-resolve/temper-addon-resolve.command.code.ts b/commands/pages/temper-addon-resolve/temper-addon-resolve.command.code.ts
+index e8dc6a39590214d4eeeb629b8fe7103adb89f10c..4f5181794f2c3c71e4403e2bee56c295847867b9 100644
+--- a/commands/pages/temper-addon-resolve/temper-addon-resolve.command.code.ts
++++ b/commands/pages/temper-addon-resolve/temper-addon-resolve.command.code.ts
+@@ -3,7 +3,7 @@ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const DATA = 2
+ 
+diff --git a/commands/pages/temper-addon-resolve/temper-addon-resolve.command.test.ts b/commands/pages/temper-addon-resolve/temper-addon-resolve.command.test.ts
+index 4f60f8507b6683d4a7c620c394ea4cf5e519abeb..2fc55535776eb821b1ed581c5157c7db6a883bc7 100644
+--- a/commands/pages/temper-addon-resolve/temper-addon-resolve.command.test.ts
++++ b/commands/pages/temper-addon-resolve/temper-addon-resolve.command.test.ts
+@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
+ import { mkdirSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { manifestFor } from "../../../temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
++import { manifestFor } from "../../modules/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
+ import { temperAddonResolve } from "./temper-addon-resolve.command.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/commands/pages/temper-addon-typecheck/temper-addon-typecheck.command.code.ts b/commands/pages/temper-addon-typecheck/temper-addon-typecheck.command.code.ts
+index 1981a5b949605074151fc113d21df5fcc53b6768..e3c26e62d210ddc6ab82362a87b4365dc91562c2 100644
+--- a/commands/pages/temper-addon-typecheck/temper-addon-typecheck.command.code.ts
++++ b/commands/pages/temper-addon-typecheck/temper-addon-typecheck.command.code.ts
+@@ -6,7 +6,7 @@ import { codeRoot } from "@akasha/pages/code-root"
+ import { tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
+ import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+ import { ran } from "@akasha/utils-run/running"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const DATA = 2
+ 
+diff --git a/commands/pages/temper-addon-typecheck/temper-addon-typecheck.command.test.ts b/commands/pages/temper-addon-typecheck/temper-addon-typecheck.command.test.ts
+index f265ec8a4cc58c15d880e1a220296406e4d3949f..aab8a1b49840a924638f609b3f865badd6dc8757 100644
+--- a/commands/pages/temper-addon-typecheck/temper-addon-typecheck.command.test.ts
++++ b/commands/pages/temper-addon-typecheck/temper-addon-typecheck.command.test.ts
+@@ -3,7 +3,7 @@ import { existsSync, mkdirSync, readdirSync, symlinkSync, writeFileSync } from "
+ import { join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { codeRoot } from "@akasha/pages/code-root"
+-import { manifestFor } from "../../../temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
++import { manifestFor } from "../../modules/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
+ import { temperAddonTypecheck } from "./temper-addon-typecheck.command.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/commands/pages/temper-catalog-invalidate/temper-catalog-invalidate.command.code.ts b/commands/pages/temper-catalog-invalidate/temper-catalog-invalidate.command.code.ts
+index 9875529db34dd473fab1bc152f12dd26cbfb9d42..a826255a3f444de11e41e43d340e9dd174d53d04 100644
+--- a/commands/pages/temper-catalog-invalidate/temper-catalog-invalidate.command.code.ts
++++ b/commands/pages/temper-catalog-invalidate/temper-catalog-invalidate.command.code.ts
+@@ -10,7 +10,7 @@ import {
+   parseSideFile,
+   serializeSideFile,
+ } from "@akasha/temper-catalog-side-file/catalog-side-file"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ 
+diff --git a/commands/pages/temper-catalog-status/temper-catalog-status.command.code.ts b/commands/pages/temper-catalog-status/temper-catalog-status.command.code.ts
+index 360b807a18b7230a9b69a1d133cc9886ae59e082..46c490729f4ca754a925efa6f50032c6538d9594 100644
+--- a/commands/pages/temper-catalog-status/temper-catalog-status.command.code.ts
++++ b/commands/pages/temper-catalog-status/temper-catalog-status.command.code.ts
+@@ -12,7 +12,7 @@ import {
+   resolveSideFilePath,
+ } from "@akasha/temper-catalog-side-file/catalog-file-paths"
+ import { parseSideFile, type SideFile } from "@akasha/temper-catalog-side-file/catalog-side-file"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const DATA = 2
+ 
+diff --git a/commands/pages/temper-community-addon-install/temper-community-addon-install.command.code.ts b/commands/pages/temper-community-addon-install/temper-community-addon-install.command.code.ts
+index 7a1bb2166f634c506d8b9217c07736e7d008e481..6daba5303e4a64b2a0e00666b5c341c44c91b7df 100644
+--- a/commands/pages/temper-community-addon-install/temper-community-addon-install.command.code.ts
++++ b/commands/pages/temper-community-addon-install/temper-community-addon-install.command.code.ts
+@@ -7,7 +7,7 @@ import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+ import {
+   namesIn,
+   valuesOf,
+-} from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++} from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ 
+diff --git a/commands/pages/temper-community-addon-list/temper-community-addon-list.command.code.ts b/commands/pages/temper-community-addon-list/temper-community-addon-list.command.code.ts
+index c7e07ee6327dfb0aaf5d33f366cf5f87aab0618e..22c0b8771e0cc019f066f86a6cb1fe088447f403 100644
+--- a/commands/pages/temper-community-addon-list/temper-community-addon-list.command.code.ts
++++ b/commands/pages/temper-community-addon-list/temper-community-addon-list.command.code.ts
+@@ -6,7 +6,7 @@ import { type PlannedAddon, planUpdates } from "@akasha/temper-community-addons/
+ import { fetchCatalog } from "@akasha/temper-community-addons/esoui-catalog"
+ import { readInstalledAddons } from "@akasha/temper-community-addons/installed-addons"
+ import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const FAILED = 3
+ 
+diff --git a/commands/pages/temper-community-addon-update/temper-community-addon-update.command.code.ts b/commands/pages/temper-community-addon-update/temper-community-addon-update.command.code.ts
+index f644d23784be676b367db12433a1dba1687c2dd4..da383dbda303a246471adcca39d6b3f3c96719af 100644
+--- a/commands/pages/temper-community-addon-update/temper-community-addon-update.command.code.ts
++++ b/commands/pages/temper-community-addon-update/temper-community-addon-update.command.code.ts
+@@ -13,7 +13,7 @@ import {
+ import { fetchCatalog, fetchFileDetails } from "@akasha/temper-community-addons/esoui-catalog"
+ import { readInstalledAddons } from "@akasha/temper-community-addons/installed-addons"
+ import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ 
+diff --git a/commands/pages/temper-errors-list/temper-errors-list.command.code.ts b/commands/pages/temper-errors-list/temper-errors-list.command.code.ts
+index 859a354f968d844b958bc1a7fd5c425e7ee889cd..fc698cdab5f6ec588c78fdeeeabbdd02d15d95bd 100644
+--- a/commands/pages/temper-errors-list/temper-errors-list.command.code.ts
++++ b/commands/pages/temper-errors-list/temper-errors-list.command.code.ts
+@@ -21,7 +21,7 @@ import {
+ import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
+ import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
+ import { ran } from "@akasha/utils-run/running"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ 
+diff --git a/commands/pages/temper-eso-generate-chatter-names/temper-eso-generate-chatter-names.command.code.ts b/commands/pages/temper-eso-generate-chatter-names/temper-eso-generate-chatter-names.command.code.ts
+index bfae17d1bb9dbe4b3cd1a9026a34ab3b88557622..7a95f61b69f9bb3d53d879a8f1dbde9b6228d18d 100644
+--- a/commands/pages/temper-eso-generate-chatter-names/temper-eso-generate-chatter-names.command.code.ts
++++ b/commands/pages/temper-eso-generate-chatter-names/temper-eso-generate-chatter-names.command.code.ts
+@@ -4,11 +4,11 @@ import { resolve } from "node:path"
+ import type { Answer } from "@akasha/command-system/calling"
+ import { answering, refused } from "@akasha/command-system/calling"
+ import { codeRoot } from "@akasha/pages/code-root"
+-import { chatterNamesModule } from "../../../temper/temper-commands/eso-chatter-names/eso-chatter-names.module.code.ts"
+ import {
+   saidFor,
+   saidShort,
+ } from "../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
++import { chatterNamesModule } from "../../modules/eso-chatter-names/eso-chatter-names.module.code.ts"
+ 
+ const DATA = 2
+ 
+diff --git a/commands/pages/temper-inventory-replay-explain/temper-inventory-replay-explain.command.code.ts b/commands/pages/temper-inventory-replay-explain/temper-inventory-replay-explain.command.code.ts
+index 28b73a1a55472c74f4c1f2fed9595a0958a254ba..726885f9ec7a5a6aa5e596be6915ce371e6e80ea 100644
+--- a/commands/pages/temper-inventory-replay-explain/temper-inventory-replay-explain.command.code.ts
++++ b/commands/pages/temper-inventory-replay-explain/temper-inventory-replay-explain.command.code.ts
+@@ -8,7 +8,7 @@ import {
+   type JsonOutput,
+   type RuleTraceRow,
+ } from "@akasha/temper-explain/explain-walk"
+-import { readLastExplain } from "../../../temper/temper-commands/explain-replay-reading/explain-replay-reading.module.code.ts"
++import { readLastExplain } from "../../modules/explain-replay-reading/explain-replay-reading.module.code.ts"
+ 
+ const INPUT = 1
+ 
+diff --git a/commands/pages/temper-package-typecheck/temper-package-typecheck.command.code.ts b/commands/pages/temper-package-typecheck/temper-package-typecheck.command.code.ts
+index 85d87bd08a19fbdae0267a49a37dc44a8117a9b7..fa0330e6288764306539bd5737aef78b1ed82fb9 100644
+--- a/commands/pages/temper-package-typecheck/temper-package-typecheck.command.code.ts
++++ b/commands/pages/temper-package-typecheck/temper-package-typecheck.command.code.ts
+@@ -4,8 +4,8 @@ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
+ import { codeRoot } from "@akasha/pages/code-root"
+ import { ran } from "@akasha/utils-run/running"
+-import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
+-import { inNameOrder } from "../../../temper/temper-commands/name-ordering/name-ordering.module.code.ts"
++import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
++import { inNameOrder } from "../../modules/name-ordering/name-ordering.module.code.ts"
+ 
+ const DATA = 2
+ const FAILED = 3
+diff --git a/commands/pages/temper-upstream-data-port/temper-upstream-data-port.command.code.ts b/commands/pages/temper-upstream-data-port/temper-upstream-data-port.command.code.ts
+index c92548e59941a0b5775dbe5e95fa384f2aac2d2d..642ad110286c68b40afc1a5e63f214599e179c9c 100644
+--- a/commands/pages/temper-upstream-data-port/temper-upstream-data-port.command.code.ts
++++ b/commands/pages/temper-upstream-data-port/temper-upstream-data-port.command.code.ts
+@@ -12,7 +12,7 @@ import { port as portZone } from "@akasha/temper-upstream-data/zone-upstream-por
+ import {
+   namesIn,
+   valuesOf,
+-} from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
++} from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+ 
+ const SAID_WRONG = 1
+ 
+diff --git a/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.code.ts b/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.code.ts
+deleted file mode 100644
+index 6684ad9e6415896fdf7282515266f59d1db8cc2d..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.code.ts
++++ /dev/null
+@@ -1,33 +0,0 @@
+-const AUTHOR = "test"
+-
+-const VERSION = "1.0.0"
+-
+-const ADDON_VERSION = 100
+-
+-const API_VERSION = ["101041"]
+-
+-export type AddonFixtureManifest = {
+-  readonly name: string
+-  readonly title: string
+-  readonly description: string
+-  readonly author: string
+-  readonly version: string
+-  readonly addonVersion: number
+-  readonly apiVersion: readonly string[]
+-  readonly savedVariables: readonly string[]
+-  readonly dependsOn: readonly string[]
+-}
+-
+-export function addonManifestOf(name: string): AddonFixtureManifest {
+-  return {
+-    name,
+-    title: name,
+-    description: `${name} for a test`,
+-    author: AUTHOR,
+-    version: VERSION,
+-    addonVersion: ADDON_VERSION,
+-    apiVersion: API_VERSION,
+-    savedVariables: [],
+-    dependsOn: [],
+-  }
+-}
+diff --git a/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts b/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts
+deleted file mode 100644
+index eadf7c7e55504d331c1d29e5c29aedcbe4d6ca48..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts
++++ /dev/null
+@@ -1,5 +0,0 @@
+-import { addonManifestOf } from "./addon-fixture-manifest.module.code.ts"
+-
+-export function manifestFor(name: string): string {
+-  return JSON.stringify(addonManifestOf(name))
+-}
+diff --git a/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test.ts b/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test.ts
+deleted file mode 100644
+index 6bd1f6b0e00359363ecfce30585fbebf5102a96a..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test.ts
++++ /dev/null
+@@ -1,20 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { addonManifestOf } from "./addon-fixture-manifest.module.code.ts"
+-
+-const PROBE = "TemperProbe"
+-
+-test("a fixture manifest is named and titled for the addon named", () => {
+-  const held = addonManifestOf(PROBE)
+-  expect(held.name).toBe(PROBE)
+-  expect(held.title).toBe(PROBE)
+-})
+-
+-test("a fixture manifest depends on nothing and saves nothing", () => {
+-  const held = addonManifestOf(PROBE)
+-  expect(held.dependsOn).toEqual([])
+-  expect(held.savedVariables).toEqual([])
+-})
+-
+-test("a fixture manifest carries an api version the roster reads", () => {
+-  expect(addonManifestOf(PROBE).apiVersion.length).toBe(1)
+-})
+diff --git a/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.ts b/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.ts
+deleted file mode 100644
+index aab661938903b6cdddae22e7172b5dc6b447a60e..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.ts
++++ /dev/null
+@@ -1,33 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const addonFixtureManifest = {
+-  id: "01a07c93-f240-7b33-9d06-f8459b129064",
+-  pageTypeSlug: "module",
+-  slug: "addon-fixture-manifest",
+-  definition: "the addon manifest a test writes into a scratch world",
+-  code: "ts",
+-  test: "ts",
+-  testFixtures: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A fixture manifest is named and titled for the addon named.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A fixture manifest depends on nothing and saves nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A fixture manifest carries the fields the addon roster reads.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A test writing a manifest to disk takes the manifest as JSON text.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here writes a file.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts b/temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts
+deleted file mode 100644
+index a75e719d8a46785443de5844af9a7ab21cddd487..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts
++++ /dev/null
+@@ -1,26 +0,0 @@
+-export function valuesOf(argv: readonly string[], flag: string): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const value = argv[at + 1]
+-    if (argv[at] === flag && value !== undefined) found.push(value)
+-  }
+-  return found
+-}
+-
+-export function namesIn(
+-  argv: readonly string[],
+-  takingAValue: readonly string[]
+-): readonly string[] {
+-  const found: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const word = argv[at]
+-    if (word === undefined) continue
+-    if (takingAValue.includes(word)) {
+-      at += 1
+-      continue
+-    }
+-    if (word.startsWith("-")) continue
+-    found.push(word)
+-  }
+-  return found
+-}
+diff --git a/temper/temper-commands/argument-word-reading/argument-word-reading.module.test.ts b/temper/temper-commands/argument-word-reading/argument-word-reading.module.test.ts
+deleted file mode 100644
+index f48a8e34391d9d8e285dcc2d6592c540f381fe22..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/argument-word-reading/argument-word-reading.module.test.ts
++++ /dev/null
+@@ -1,27 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { namesIn, valuesOf } from "./argument-word-reading.module.code.ts"
+-
+-const ROOT_FLAG = "--repo-root"
+-
+-const OUT_FLAG = "--out"
+-
+-test("a flag answers with every value said after that flag", () => {
+-  const said = [ROOT_FLAG, "one", OUT_FLAG, "two", ROOT_FLAG, "three"]
+-  expect(valuesOf(said, ROOT_FLAG)).toEqual(["one", "three"])
+-})
+-
+-test("a flag the call does not carry answers with nothing", () => {
+-  expect(valuesOf(["one", "two"], ROOT_FLAG)).toEqual([])
+-})
+-
+-test("a flag no word follows answers with nothing", () => {
+-  expect(valuesOf([OUT_FLAG, ROOT_FLAG], ROOT_FLAG)).toEqual([])
+-})
+-
+-test("a word opening with a dash is no name", () => {
+-  expect(namesIn(["one", "--all", "two"], [])).toEqual(["one", "two"])
+-})
+-
+-test("the word after a flag taking a value is no name", () => {
+-  expect(namesIn([ROOT_FLAG, "one", "two"], [ROOT_FLAG])).toEqual(["two"])
+-})
+diff --git a/temper/temper-commands/argument-word-reading/argument-word-reading.module.ts b/temper/temper-commands/argument-word-reading/argument-word-reading.module.ts
+deleted file mode 100644
+index 2350080060a9ca1d4aebee72629c370334a2c4e1..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/argument-word-reading/argument-word-reading.module.ts
++++ /dev/null
+@@ -1,53 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const argumentWordReading = {
+-  id: "01a07c95-1051-774e-bcef-6c84d8c106fb",
+-  pageTypeSlug: "module",
+-  slug: "argument-word-reading",
+-  definition: "the values said after a flag and the words a call says as names",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A flag's values are the words said after each occurrence of that flag.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A flag said more than once answers with a value for each saying of that flag.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The values are answered in the order the call said those values.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A flag no word follows carries no value.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A flag the call does not carry answers with nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A name is a word opening with no dash.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The word after a flag that takes a value is passed over rather than read as a name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Which flags take a value is the caller's to say.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here refuses a flag the command does not know.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here says how many names a command takes.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/temper/temper-commands/eso-chatter-names/eso-chatter-names.module.code.ts b/temper/temper-commands/eso-chatter-names/eso-chatter-names.module.code.ts
+deleted file mode 100644
+index 1f7be2ac2014148e7084506cd204ae4a155a5469..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/eso-chatter-names/eso-chatter-names.module.code.ts
++++ /dev/null
+@@ -1,45 +0,0 @@
+-export interface ChatterNamesModule {
+-  readonly chatter: readonly string[]
+-  readonly interaction: readonly string[]
+-  readonly text: string
+-}
+-
+-function namesWithPrefix(source: string, prefix: string): readonly string[] {
+-  const pattern = new RegExp(`^declare const (${prefix}[A-Z0-9_]+):\\s*number`, "gm")
+-  const found = new Set<string>()
+-  for (const match of source.matchAll(pattern)) {
+-    const name = match[1]
+-    if (name !== undefined) found.add(name)
+-  }
+-  return [...found].sort()
+-}
+-
+-function renderArray(exportName: string, names: readonly string[]): string {
+-  const body = names.map((n) => `  "${n}",`).join("\n")
+-  return `export const ${exportName}: readonly string[] = [\n${body}\n]`
+-}
+-
+-export function chatterNamesModule(source: string, generatorRef: string): ChatterNamesModule {
+-  const chatter = namesWithPrefix(source, "CHATTER_")
+-  const interaction = namesWithPrefix(source, "INTERACTION_")
+-
+-  const text = `/**
+- * Chatter / Interaction constant-name registry (Generated)
+- *
+- * Source: types/eso/generated/enums.d.ts
+- *
+- * DO NOT EDIT — regenerate with:
+- *   ${generatorRef}
+- *
+- * The auto-quest debug trace resolves option/interaction type codes to names by
+- * reading each of these globals individually (\`_G[name]\`). It must NOT scan
+- * \`pairs(_G)\` — that taints the ESO call stack on protected-function globals.
+- */
+-
+-${renderArray("CHATTER_OPTION_TYPE_NAMES", chatter)}
+-
+-${renderArray("INTERACTION_TYPE_NAMES", interaction)}
+-`
+-
+-  return { chatter, interaction, text }
+-}
+diff --git a/temper/temper-commands/eso-chatter-names/eso-chatter-names.module.ts b/temper/temper-commands/eso-chatter-names/eso-chatter-names.module.ts
+deleted file mode 100644
+index f876e135ca61b186eec6ea1797008db4f88cb7d9..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/eso-chatter-names/eso-chatter-names.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const esoChatterNames = {
+-  id: "01a069cf-7042-7000-8df6-e6b7ffd0efc8",
+-  pageTypeSlug: "module",
+-  slug: "eso-chatter-names",
+-  definition: "the chatter names a generated Lua module declares, read back as a module",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/temper/temper-commands/explain-replay-reading/explain-replay-reading.module.code.ts b/temper/temper-commands/explain-replay-reading/explain-replay-reading.module.code.ts
+deleted file mode 100644
+index 1346a58f352a9c2b33bdca871412e2e455d3d936..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/explain-replay-reading/explain-replay-reading.module.code.ts
++++ /dev/null
+@@ -1,160 +0,0 @@
+-import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
+-import { z } from "zod"
+-import { readInventoryDiagnostic } from "../inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
+-
+-const SIGNALS_SCHEMA = z
+-  .object({
+-    itemType: z.number(),
+-    specializedItemType: z.number().optional(),
+-    filterType: z.number(),
+-    traitType: z.number(),
+-    equipType: z.number(),
+-    armorType: z.number(),
+-    weaponType: z.number(),
+-    quality: z.number(),
+-  })
+-  .strict()
+-
+-const CLASSIFICATION_SCHEMA = z
+-  .object({
+-    leafCategoryId: z.string(),
+-    ancestorChain: luaArrayOrEmpty(z.string()),
+-    categoryPath: z.string(),
+-  })
+-  .strict()
+-
+-const MOTIF_LOOKUP_SCHEMA = z
+-  .object({
+-    rawName: z.string(),
+-    cleanName: z.string(),
+-    lookupHit: z.boolean(),
+-    coords: z.object({ collection: z.number(), book: z.number() }).strict().optional(),
+-  })
+-  .strict()
+-
+-const ITEM_KEY_SCHEMA = z
+-  .object({
+-    kind: z.enum(["recipe", "motif", "script", "consumable", "collectible", "fragment", "none"]),
+-    detail: z.record(z.string(), z.union([z.number(), z.string(), z.boolean()])),
+-  })
+-  .strict()
+-
+-const UNLOCK_WALK_SCHEMA = z
+-  .object({
+-    currentCharId: z.string(),
+-    priority: z
+-      .array(
+-        z
+-          .object({
+-            charId: z.string(),
+-            knows: z.union([z.boolean(), z.literal("no-data-treated-as-knows")]),
+-            chosen: z.boolean(),
+-          })
+-          .strict()
+-      )
+-      .readonly(),
+-    chosen: z.string().optional(),
+-  })
+-  .strict()
+-
+-const ITEM_RULES_MATCH_SCHEMA = z
+-  .object({
+-    itemId: z.number(),
+-    action: z.string(),
+-    destination: z.string().optional(),
+-  })
+-  .strict()
+-
+-const MATCHED_WALK_SCHEMA = z
+-  .object({
+-    index: z.number(),
+-    categoryId: z.string(),
+-    action: z.string(),
+-    destination: z.string(),
+-    conditions: z.string(),
+-  })
+-  .strict()
+-
+-const REJECTION_SCHEMA = z
+-  .object({
+-    index: z.number(),
+-    categoryId: z.string(),
+-    action: z.string(),
+-    reason: z.enum([
+-      "category-miss",
+-      "conditions-fail",
+-      "destination-resolve-fail",
+-      "container-skip",
+-    ]),
+-    detail: z.string().optional(),
+-  })
+-  .strict()
+-
+-const ORDERED_WALK_SCHEMA = z
+-  .object({
+-    rulesConsidered: z.number(),
+-    rulesEvaluated: z.number(),
+-    matched: MATCHED_WALK_SCHEMA.optional(),
+-    rejections: luaArrayOrEmpty(REJECTION_SCHEMA),
+-  })
+-  .strict()
+-
+-const OUTCOME_SCHEMA = z
+-  .object({
+-    action: z.string(),
+-    destination: z.string(),
+-    summary: z.string(),
+-  })
+-  .strict()
+-
+-const INVENTORY_LOC_SCHEMA = z
+-  .object({
+-    found: z.boolean(),
+-    bagId: z.number().optional(),
+-    slotIndex: z.number().optional(),
+-  })
+-  .strict()
+-
+-const EXPLAIN_TRACE_SCHEMA = z
+-  .object({
+-    schemaVersion: z.number(),
+-    timestamp: z.number(),
+-    itemLink: z.string(),
+-    itemId: z.number(),
+-    itemName: z.string(),
+-    itemNameRaw: z.string(),
+-    inventory: INVENTORY_LOC_SCHEMA,
+-    signals: SIGNALS_SCHEMA,
+-    classification: CLASSIFICATION_SCHEMA,
+-    motifLookup: MOTIF_LOOKUP_SCHEMA.optional(),
+-    itemKey: ITEM_KEY_SCHEMA,
+-    unlockWalk: UNLOCK_WALK_SCHEMA.optional(),
+-    itemRulesMatch: ITEM_RULES_MATCH_SCHEMA.optional(),
+-    orderedWalk: ORDERED_WALK_SCHEMA,
+-    outcome: OUTCOME_SCHEMA,
+-    notes: luaArrayOrEmpty(z.string()),
+-  })
+-  .strict()
+-
+-type ExplainTrace = z.infer<typeof EXPLAIN_TRACE_SCHEMA>
+-
+-const DIAGNOSTICS_SCHEMA = z
+-  .object({
+-    lastExplain: EXPLAIN_TRACE_SCHEMA.optional(),
+-  })
+-  .passthrough()
+-
+-const ACCOUNT_WIDE_SCHEMA = z
+-  .object({
+-    diagnostics: DIAGNOSTICS_SCHEMA.optional(),
+-  })
+-  .passthrough()
+-
+-export async function readLastExplain(inventoryPath: string): Promise<ExplainTrace> {
+-  return await readInventoryDiagnostic(
+-    inventoryPath,
+-    ACCOUNT_WIDE_SCHEMA,
+-    (wide) => wide.diagnostics?.lastExplain,
+-    "no diagnostics.lastExplain (have you run the in-game explain keybind?)"
+-  )
+-}
+diff --git a/temper/temper-commands/explain-replay-reading/explain-replay-reading.module.ts b/temper/temper-commands/explain-replay-reading/explain-replay-reading.module.ts
+deleted file mode 100644
+index 5d8f289e4a7bd79a600a8b83216079d08b37af08..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/explain-replay-reading/explain-replay-reading.module.ts
++++ /dev/null
+@@ -1,24 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const explainReplayReading = {
+-  id: "01a06864-aa2b-7005-8de7-99cdead2fd47",
+-  pageTypeSlug: "module",
+-  slug: "explain-replay-reading",
+-  definition: "the last rule walk the inventory addon recorded in the game, read back for replay",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The walk is read back as the addon recorded that walk rather than run again on this side.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The trace is ruled on whole.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An unknown field refuses the read.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/temper/temper-commands/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts b/temper/temper-commands/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts
+deleted file mode 100644
+index 545979d189e0f305d1c8709e4cf7ea08b84b203b..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts
++++ /dev/null
+@@ -1,68 +0,0 @@
+-import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
+-import type {
+-  CategoryRule,
+-  InventoryRuleSettings,
+-  ItemRule,
+-} from "@akasha/temper-items-rules-core/inventory-rule-types"
+-import { z } from "zod"
+-
+-const SETTINGS_VERSION = 2
+-
+-const ITEM_ACTION_SCHEMA = z.enum([
+-  "nothing",
+-  "lock",
+-  "unlock",
+-  "move-to",
+-  "stock",
+-  "character-equip",
+-  "companion-equip",
+-  "deconstruct",
+-  "refine",
+-  "destroy",
+-  "fence-launder",
+-  "fence-sell",
+-  "list",
+-  "mail",
+-  "research",
+-  "sell",
+-  "use",
+-  "open",
+-])
+-
+-const CategoryRuleSchema: z.ZodType<CategoryRule> = z
+-  .object({
+-    id: z.string(),
+-    categoryId: z.string(),
+-    action: ITEM_ACTION_SCHEMA,
+-  })
+-  .passthrough()
+-
+-const ItemRuleSchema: z.ZodType<ItemRule> = z
+-  .object({
+-    id: z.string(),
+-    itemId: z.number(),
+-    itemName: z.string(),
+-    action: ITEM_ACTION_SCHEMA,
+-  })
+-  .passthrough()
+-
+-const BUY_SOURCE_SCHEMA = z.enum(["merchant"])
+-
+-const BuyRuleSchema: z.ZodType<BuyRule> = z
+-  .object({
+-    id: z.string(),
+-    itemId: z.number(),
+-    itemName: z.string(),
+-    targetQuantity: z.number(),
+-    source: BUY_SOURCE_SCHEMA,
+-  })
+-  .passthrough()
+-
+-export const InventoryRuleSettingsShape: z.ZodType<InventoryRuleSettings> = z
+-  .object({
+-    version: z.literal(SETTINGS_VERSION),
+-    rules: z.array(CategoryRuleSchema).readonly(),
+-    itemRules: z.array(ItemRuleSchema).readonly().optional(),
+-    buyRules: z.array(BuyRuleSchema).readonly().optional(),
+-  })
+-  .passthrough()
+diff --git a/temper/temper-commands/inventory-rule-settings-shape/inventory-rule-settings-shape.module.test.ts b/temper/temper-commands/inventory-rule-settings-shape/inventory-rule-settings-shape.module.test.ts
+deleted file mode 100644
+index 24cbe5a6ebd8c9b0176adf7f81f441725680e953..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/inventory-rule-settings-shape/inventory-rule-settings-shape.module.test.ts
++++ /dev/null
+@@ -1,56 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { InventoryRuleSettingsShape } from "./inventory-rule-settings-shape.module.code.ts"
+-
+-const ONE_RULE = {
+-  version: 2,
+-  rules: [{ id: "a", categoryId: "weapons", action: "sell" }],
+-}
+-
+-test("settings carrying one rule are read", () => {
+-  const held = InventoryRuleSettingsShape.parse(ONE_RULE)
+-  expect(held.rules[0]?.id).toBe("a")
+-})
+-
+-test("a version other than two is refused", () => {
+-  expect(() => InventoryRuleSettingsShape.parse({ ...ONE_RULE, version: 1 })).toThrow()
+-})
+-
+-test("a rule carrying an action nobody declares is refused", () => {
+-  expect(() =>
+-    InventoryRuleSettingsShape.parse({
+-      version: 2,
+-      rules: [{ id: "a", categoryId: "weapons", action: "burn" }],
+-    })
+-  ).toThrow()
+-})
+-
+-test("a key written by a newer temper is carried through rather than refused", () => {
+-  const held = InventoryRuleSettingsShape.parse({
+-    version: 2,
+-    rules: [{ id: "a", categoryId: "weapons", action: "sell", laterKey: 9 }],
+-    laterSlice: { anything: true },
+-  })
+-  expect(held).toMatchObject({ laterSlice: { anything: true } })
+-  expect(held.rules[0]).toMatchObject({ laterKey: 9 })
+-})
+-
+-test("item rules and buy rules are read where they are there", () => {
+-  const held = InventoryRuleSettingsShape.parse({
+-    version: 2,
+-    rules: [],
+-    itemRules: [{ id: "i", itemId: 1, itemName: "Rope", action: "lock" }],
+-    buyRules: [{ id: "b", itemId: 2, itemName: "Soup", targetQuantity: 4, source: "merchant" }],
+-  })
+-  expect(held.itemRules?.[0]?.itemName).toBe("Rope")
+-  expect(held.buyRules?.[0]?.targetQuantity).toBe(4)
+-})
+-
+-test("a buy rule from a source nobody declares is refused", () => {
+-  expect(() =>
+-    InventoryRuleSettingsShape.parse({
+-      version: 2,
+-      rules: [],
+-      buyRules: [{ id: "b", itemId: 2, itemName: "Soup", targetQuantity: 4, source: "guild" }],
+-    })
+-  ).toThrow()
+-})
+diff --git a/temper/temper-commands/inventory-rule-settings-shape/inventory-rule-settings-shape.module.ts b/temper/temper-commands/inventory-rule-settings-shape/inventory-rule-settings-shape.module.ts
+deleted file mode 100644
+index 0b83c69acdc47a665098ea60756ec59815a9e311..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/inventory-rule-settings-shape/inventory-rule-settings-shape.module.ts
++++ /dev/null
+@@ -1,32 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const inventoryRuleSettingsShape = {
+-  id: "01a068e2-226a-7523-928d-85398937e67c",
+-  pageTypeSlug: "module",
+-  slug: "inventory-rule-settings-shape",
+-  definition: "what unknown JSON holds to be read as a player's inventory rule settings",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Settings arrive as JSON nobody has vouched for.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Only version two is read.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A rule is required to carry an id and an action and nothing more.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Settings written by a newer temper are still read by an older temper.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "Every action name is written out again here.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/temper/temper-commands/name-ordering/name-ordering.module.code.ts b/temper/temper-commands/name-ordering/name-ordering.module.code.ts
+deleted file mode 100644
+index 70c199bce7c9d00255504b513cf0baf5c02d55d0..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/name-ordering/name-ordering.module.code.ts
++++ /dev/null
+@@ -1,3 +0,0 @@
+-export function inNameOrder(names: readonly string[]): readonly string[] {
+-  return [...names].sort((a, b) => a.localeCompare(b))
+-}
+diff --git a/temper/temper-commands/name-ordering/name-ordering.module.test.ts b/temper/temper-commands/name-ordering/name-ordering.module.test.ts
+deleted file mode 100644
+index 027d8b82de697673d36e46e85ac98e93509df827..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/name-ordering/name-ordering.module.test.ts
++++ /dev/null
+@@ -1,16 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { inNameOrder } from "./name-ordering.module.code.ts"
+-
+-test("names are answered in the order the locale sorts them by", () => {
+-  expect(inNameOrder(["B", "a", "c"])).toEqual(["a", "B", "c"])
+-})
+-
+-test("the names handed in are left in the order handed in", () => {
+-  const said = ["b", "a"]
+-  inNameOrder(said)
+-  expect(said).toEqual(["b", "a"])
+-})
+-
+-test("a name said twice is answered twice", () => {
+-  expect(inNameOrder(["a", "a"])).toEqual(["a", "a"])
+-})
+diff --git a/temper/temper-commands/name-ordering/name-ordering.module.ts b/temper/temper-commands/name-ordering/name-ordering.module.ts
+deleted file mode 100644
+index f4e718b4e8de781894b8eb47a88258136a74dba1..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/name-ordering/name-ordering.module.ts
++++ /dev/null
+@@ -1,24 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const nameOrdering = {
+-  id: "01a07c93-d1ce-7d75-844c-a9a61f0601d8",
+-  pageTypeSlug: "module",
+-  slug: "name-ordering",
+-  definition: "names held in the order a locale sorts names by",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Names are ordered by the locale's own comparison rather than by code point.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The list of names handed in is left as that list was handed in.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here drops a name said twice.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/temper/temper-commands/package.json b/temper/temper-commands/package.json
+index 23af8cbcee38894f1052612e76a8244fe9c00c93..69d850e468dc504c07b549dd0e6e075cf3a27358 100644
+--- a/temper/temper-commands/package.json
++++ b/temper/temper-commands/package.json
+@@ -3,15 +3,10 @@
+   "private": true,
+   "type": "module",
+   "exports": {
+-    "./addon-fixture-manifest": "./addon-fixture-manifest/addon-fixture-manifest.module.code.ts",
+-    "./addon-fixture-manifest/testing": "./addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts",
+-    "./argument-word-reading": "./argument-word-reading/argument-word-reading.module.code.ts",
+     "./bank-profile-reading": "./bank-profile-reading/bank-profile-reading.module.code.ts",
+     "./bank-trace-reading": "./bank-trace-reading/bank-trace-reading.module.code.ts",
+     "./eso-base-game-globals": "./eso-base-game-globals/eso-base-game-globals.module.code.ts",
+-    "./eso-chatter-names": "./eso-chatter-names/eso-chatter-names.module.code.ts",
+     "./eso-colon-methods": "./eso-colon-methods/eso-colon-methods.module.code.ts",
+-    "./explain-replay-reading": "./explain-replay-reading/explain-replay-reading.module.code.ts",
+     "./flag-fault-stage": "./flag-fault-stage/flag-fault-stage.module.code.ts",
+     "./inventory-characters-reading": "./inventory-characters-reading/inventory-characters-reading.module.code.ts",
+     "./inventory-config-reading": "./inventory-config-reading/inventory-config-reading.module.code.ts",
+@@ -27,13 +22,11 @@
+     "./inventory-rule-calling": "./inventory-rule-calling/inventory-rule-calling.module.code.ts",
+     "./inventory-rule-flags": "./inventory-rule-flags/inventory-rule-flags.module.code.ts",
+     "./inventory-rule-rows": "./inventory-rule-rows/inventory-rule-rows.module.code.ts",
+-    "./inventory-rule-settings-shape": "./inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts",
+     "./inventory-settings-access": "./inventory-settings-access/inventory-settings-access.module.code.ts",
+     "./inventory-settings-handle": "./inventory-settings-handle/inventory-settings-handle.module.code.ts",
+     "./inventory-snapshot-reading": "./inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts",
+     "./master-craft-trace-reading": "./master-craft-trace-reading/master-craft-trace-reading.module.code.ts",
+-    "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts",
+-    "./name-ordering": "./name-ordering/name-ordering.module.code.ts"
++    "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts"
+   },
+   "dependencies": {
+     "@akasha/supabase-auth": "workspace:*",
+@@ -53,7 +46,6 @@
+     "@akasha/temper-upstream-data": "workspace:*",
+     "@akasha/temper-watcher": "workspace:*",
+     "@akasha/utils-run": "workspace:*",
+-    "fflate": "0.8.3",
+     "zod": "^4.3.6",
+     "@akasha/indexes": "workspace:*",
+     "@akasha/pages-query": "workspace:*",
