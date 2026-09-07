@@ -9,7 +9,11 @@ export const messageReachWrite = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Only a message being written is addressed; every other page is passed over.",
+      statement: "Only a message being written is addressed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other page is passed over.",
     },
     {
       invariantKind: "departure",
