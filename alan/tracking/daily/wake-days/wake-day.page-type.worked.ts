@@ -9,6 +9,7 @@ import type { LearnLevel } from "./properties/learn-level.computed-property.ts"
 import type { LearnStoplight } from "./properties/learn-stoplight.computed-property.ts"
 import type { LoveLevel } from "./properties/love-level.computed-property.ts"
 import type { LoveStoplight } from "./properties/love-stoplight.computed-property.ts"
+import type { ProjectHours } from "./properties/project-hours.computed-property.ts"
 import type { WorkedSessions } from "./properties/sessions.page-property-entry.ts"
 import type { SleepHours } from "./properties/sleep-hours.computed-property.ts"
 import type { SpendHours } from "./properties/spend-hours.computed-property.ts"
@@ -40,6 +41,7 @@ export type WorkedWakeDay = Omit<WakeDay, "sessions"> & {
   funStoplight?: FunStoplight
   wealthStoplight?: WealthStoplight
   stoplights?: Stoplights
+  projectHours?: ProjectHours
   sleepHours?: SleepHours
   spendHours?: SpendHours
   surplusHours?: SurplusHours
