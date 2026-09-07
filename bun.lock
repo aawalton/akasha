@@ -1163,6 +1163,9 @@
     },
     "pages": {
       "name": "@akasha/pages",
+      "dependencies": {
+        "@akasha/code": "workspace:*",
+      },
     },
     "pages/access": {
       "name": "@akasha/pages-access",

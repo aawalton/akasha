@@ -89,5 +89,8 @@
     "./test-run-marking": "./test-run-marking/test-run-marking.module.code.ts",
     "./text-property": "./text-properties/text-property.page-type.ts",
     "./url-property": "./url-properties/url-property.page-type.ts"
+  },
+  "dependencies": {
+    "@akasha/code": "workspace:*"
   }
 }
