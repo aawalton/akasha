@@ -1,0 +1,98 @@
+writerOwesReading: false
+diff --git a/infrastructure/cluster-operations/bootstrap-namespace/bootstrap-namespace.shell-script.shell.sh b/infrastructure/cluster-operations/bootstrap-namespace/bootstrap-namespace.shell-script.shell.sh
+index ba97f2f8eaecad94fdc3e1959af3f621fd7e278e..0de6da6ce297722e99adfb84f1b0788be13cf5b0 100644
+--- a/infrastructure/cluster-operations/bootstrap-namespace/bootstrap-namespace.shell-script.shell.sh
++++ b/infrastructure/cluster-operations/bootstrap-namespace/bootstrap-namespace.shell-script.shell.sh
+@@ -4,7 +4,7 @@ set -euo pipefail
+ 
+ AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
+ 
+-_DEPLOY_LIB_DIR="${AKASHA_ROOT}/infrastructure/cluster-operations/deploy-functions"
++_DEPLOY_LIB_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../deploy-functions" && pwd)"
+ # shellcheck source=../deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
+ . "${_DEPLOY_LIB_DIR}/deploy-functions.shell-script.shell.sh"
+ 
+diff --git a/infrastructure/cluster-operations/create-tunnel/create-tunnel.shell-script.shell.sh b/infrastructure/cluster-operations/create-tunnel/create-tunnel.shell-script.shell.sh
+index d19af066f38e02423d368b71f61bb6123423a45c..3bd20152cf7c2e3f60ea0957aa4a312fbbcfc5d8 100644
+--- a/infrastructure/cluster-operations/create-tunnel/create-tunnel.shell-script.shell.sh
++++ b/infrastructure/cluster-operations/create-tunnel/create-tunnel.shell-script.shell.sh
+@@ -4,7 +4,7 @@ set -euo pipefail
+ 
+ AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
+ 
+-_DEPLOY_LIB_DIR="${AKASHA_ROOT}/infrastructure/cluster-operations/deploy-functions"
++_DEPLOY_LIB_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../deploy-functions" && pwd)"
+ # shellcheck source=../deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
+ . "${_DEPLOY_LIB_DIR}/deploy-functions.shell-script.shell.sh"
+ 
+diff --git a/infrastructure/cluster-operations/promote/promote.shell-script.shell.sh b/infrastructure/cluster-operations/promote/promote.shell-script.shell.sh
+index 2637f1685125303be9baf54364da4ac5aea9e07c..98f0684cc9e1aa3d4780ad419ad41e6f785f0db0 100644
+--- a/infrastructure/cluster-operations/promote/promote.shell-script.shell.sh
++++ b/infrastructure/cluster-operations/promote/promote.shell-script.shell.sh
+@@ -2,9 +2,7 @@
+ 
+ set -euo pipefail
+ 
+-AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
+-
+-_DEPLOY_LIB_DIR="${AKASHA_ROOT}/infrastructure/cluster-operations/deploy-functions"
++_DEPLOY_LIB_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../deploy-functions" && pwd)"
+ # shellcheck source=../deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
+ . "${_DEPLOY_LIB_DIR}/deploy-functions.shell-script.shell.sh"
+ 
+diff --git a/infrastructure/cluster-operations/registry-gc/registry-gc.shell-script.shell.sh b/infrastructure/cluster-operations/registry-gc/registry-gc.shell-script.shell.sh
+index 9fc54a4b39f1c2d46faf822d19c3677a6c9889f4..23c4823fd4c7130154b5f179453920eec3bb6041 100644
+--- a/infrastructure/cluster-operations/registry-gc/registry-gc.shell-script.shell.sh
++++ b/infrastructure/cluster-operations/registry-gc/registry-gc.shell-script.shell.sh
+@@ -4,7 +4,7 @@ set -euo pipefail
+ 
+ AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
+ 
+-_DEPLOY_LIB_DIR="${AKASHA_ROOT}/infrastructure/cluster-operations/deploy-functions"
++_DEPLOY_LIB_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../deploy-functions" && pwd)"
+ # shellcheck source=../deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
+ . "${_DEPLOY_LIB_DIR}/deploy-functions.shell-script.shell.sh"
+ CONTAINER_REGISTRY="$(cd "$AKASHA_ROOT" && bun -e 'import { REGISTRY } from "@akasha/workflow-language/images"; process.stdout.write(REGISTRY)')" || die "could not read the registry named by @akasha/workflow-language/images"
+diff --git a/infrastructure/cluster-operations/rotate-age-key/rotate-age-key.shell-script.shell.sh b/infrastructure/cluster-operations/rotate-age-key/rotate-age-key.shell-script.shell.sh
+index 7742cc19a6841e8a9de7440c38bd5e2c536cd8a2..4c7f101efff75540eba5f0b15072720a20add66d 100644
+--- a/infrastructure/cluster-operations/rotate-age-key/rotate-age-key.shell-script.shell.sh
++++ b/infrastructure/cluster-operations/rotate-age-key/rotate-age-key.shell-script.shell.sh
+@@ -5,7 +5,7 @@ set -euo pipefail
+ AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
+ REPO_ROOT="${AKASHA_ROOT}"
+ 
+-_DEPLOY_LIB_DIR="${AKASHA_ROOT}/infrastructure/cluster-operations/deploy-functions"
++_DEPLOY_LIB_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../deploy-functions" && pwd)"
+ # shellcheck source=../deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
+ . "${_DEPLOY_LIB_DIR}/deploy-functions.shell-script.shell.sh"
+ 
+diff --git a/infrastructure/cluster-operations/rotate-cf-token/rotate-cf-token.shell-script.shell.sh b/infrastructure/cluster-operations/rotate-cf-token/rotate-cf-token.shell-script.shell.sh
+index a4332ce62887406555f63e7c828cd69dbcbf9541..80b80984a676d33564d070a2273b0d8ecf60c309 100644
+--- a/infrastructure/cluster-operations/rotate-cf-token/rotate-cf-token.shell-script.shell.sh
++++ b/infrastructure/cluster-operations/rotate-cf-token/rotate-cf-token.shell-script.shell.sh
+@@ -2,9 +2,7 @@
+ 
+ set -euo pipefail
+ 
+-AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
+-
+-_DEPLOY_LIB_DIR="${AKASHA_ROOT}/infrastructure/cluster-operations/deploy-functions"
++_DEPLOY_LIB_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../deploy-functions" && pwd)"
+ # shellcheck source=../deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
+ . "${_DEPLOY_LIB_DIR}/deploy-functions.shell-script.shell.sh"
+ 
+diff --git a/infrastructure/cluster-operations/rotate-ssh-key/rotate-ssh-key.shell-script.shell.sh b/infrastructure/cluster-operations/rotate-ssh-key/rotate-ssh-key.shell-script.shell.sh
+index 783077144b877cfff74b84b5f62e7bb7c93e60af..0bff201d51fb0acba6d79cf6279da416f31471af 100644
+--- a/infrastructure/cluster-operations/rotate-ssh-key/rotate-ssh-key.shell-script.shell.sh
++++ b/infrastructure/cluster-operations/rotate-ssh-key/rotate-ssh-key.shell-script.shell.sh
+@@ -2,9 +2,7 @@
+ 
+ set -euo pipefail
+ 
+-AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
+-
+-_DEPLOY_LIB_DIR="${AKASHA_ROOT}/infrastructure/cluster-operations/deploy-functions"
++_DEPLOY_LIB_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../deploy-functions" && pwd)"
+ # shellcheck source=../deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
+ . "${_DEPLOY_LIB_DIR}/deploy-functions.shell-script.shell.sh"
+ 
