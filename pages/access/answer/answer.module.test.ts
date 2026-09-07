@@ -67,6 +67,15 @@ test("a row naming no page type carries no definition rather than asking for non
   expect(rows[0]?.attributes).toEqual({ pluralSlug: "to-dos", propertyDefinitions: [] })
 })
 
+test("a page type whose properties went unread carries none rather than refusing", async () => {
+  const rows = await withDefinitions([rowFor("to-do"), rowFor("nav")], async (slug) => {
+    if (slug === "to-do") throw new Error("the pages answered no shape")
+    return DEFINED
+  })
+  expect(rows[0]?.attributes).toEqual({ pluralSlug: "to-dos" })
+  expect(rows[1]?.attributes).toEqual({ pluralSlug: "to-dos", propertyDefinitions: DEFINED })
+})
+
 test("every row is carried however many rows run past one batch", async () => {
   const many = Array.from({ length: 40 }, (_, at) => rowFor(`type-${at}`))
   const rows = await withDefinitions(many, async () => DEFINED)

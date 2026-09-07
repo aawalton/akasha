@@ -54,6 +54,16 @@ export const answer = {
     {
       invariantKind: "departure",
       statement:
+        "A page type whose properties went unread carries no definition rather than refusing the listing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page type carrying no definition is told apart from a page type carrying an empty list.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A roster that will not read is answered 503 carrying the reason that roster went unread.",
     },
     {
