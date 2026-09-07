@@ -14,7 +14,7 @@ export const noAngleBracketCast = {
     },
     {
       invariantKind: "departure",
-      statement: "`as` is the one spelling an assertion is written in.",
+      statement: "`as` is the spelling an assertion is written in.",
     },
     {
       invariantKind: "departure",
