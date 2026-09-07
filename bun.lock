@@ -2440,6 +2440,7 @@
     "temper/temper-lib-sets": {
       "name": "@akasha/temper-lib-sets",
       "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/temper-eso-types": "workspace:*",
       },
     },

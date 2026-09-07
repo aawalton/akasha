@@ -13,7 +13,7 @@ export const libSetsConstBase = {
     },
     {
       invariantKind: "departure",
-      statement: "English is the language every other falls back to.",
+      statement: "English is the language every other language falls back to.",
     },
     {
       invariantKind: "departure",
