@@ -1,0 +1,304 @@
+writerOwesReading: false
+diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
+index c56ae1e8b7a161b5dcc2be22465cec70bafd3648..fc14c9ec610498b588fe2e489fe2fcc30f9d9fac 100644
+--- a/command-system/command-system.workspace-package.ts
++++ b/command-system/command-system.workspace-package.ts
+@@ -64,6 +64,8 @@ export const commandSystem = {
+     "module/seat-act-calling",
+     "module/command-flags",
+     "module/said-pathing",
++    "module/warrant-owing",
++    "module/passage-counting",
+   ],
+   invariants: [
+     {
+diff --git a/command-system/commands/edit/edit.command.code.ts b/command-system/commands/edit/edit.command.code.ts
+index b34327a0e4cf9dbd4c0adf4a04407079fd4a71d5..3f5db0cd49190ab5a91b7ec3d2656e8d6f0d4a71 100644
+--- a/command-system/commands/edit/edit.command.code.ts
++++ b/command-system/commands/edit/edit.command.code.ts
+@@ -21,6 +21,7 @@ import {
+ } from "../../command-flags/command-flags.module.code.ts"
+ import type { FileEdit } from "../../landing/landing.module.code.ts"
+ import { defaultMessage } from "../../landing-saying/landing-saying.module.code.ts"
++import { counted } from "../../passage-counting/passage-counting.module.code.ts"
+ import type { Piping } from "../../piping/piping.module.code.ts"
+ import {
+   inputIn,
+@@ -32,13 +33,13 @@ import {
+   pipedIn,
+ } from "../../piping/piping.module.code.ts"
+ import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
++import { unwarrantedIn } from "../../warrant-owing/warrant-owing.module.code.ts"
+ import {
+   besideTaken,
+   RESTATED,
+   removingIn,
+   restatedIn,
+   unrestatedFor,
+-  unwarrantedIn,
+ } from "../write/write.command.code.ts"
+ 
+ const OLD_FILE = "--old-file"
+@@ -166,16 +167,6 @@ function askingIn(read: Read, given: Given, piping: Piping): Askings {
+   return { asking: [...read.asking, { path, stated }] }
+ }
+ 
+-export function counted(body: string, said: string): number {
+-  let found = 0
+-  let at = body.indexOf(said)
+-  while (at !== -1) {
+-    found += 1
+-    at = body.indexOf(said, at + said.length)
+-  }
+-  return found
+-}
+-
+ export function substituted(body: string, said: string, put: string): string {
+   const at = body.indexOf(said)
+   return body.slice(0, at) + put + body.slice(at + said.length)
+diff --git a/command-system/commands/replace/replace.command.code.ts b/command-system/commands/replace/replace.command.code.ts
+index eb30e0ece20820b2f9d97631c1c6de0b5c235f0d..e5fceceffae48a3006afe834dbbc74cc5cda292f 100644
+--- a/command-system/commands/replace/replace.command.code.ts
++++ b/command-system/commands/replace/replace.command.code.ts
+@@ -23,6 +23,7 @@ import {
+ } from "../../command-flags/command-flags.module.code.ts"
+ import type { FileEdit } from "../../landing/landing.module.code.ts"
+ import { defaultMessage } from "../../landing-saying/landing-saying.module.code.ts"
++import { counted as countedIn } from "../../passage-counting/passage-counting.module.code.ts"
+ import type { Piping } from "../../piping/piping.module.code.ts"
+ import {
+   inputIn,
+@@ -34,8 +35,7 @@ import {
+   pipedIn,
+ } from "../../piping/piping.module.code.ts"
+ import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
+-import { counted as countedIn } from "../edit/edit.command.code.ts"
+-import { unwarrantedIn } from "../write/write.command.code.ts"
++import { unwarrantedIn } from "../../warrant-owing/warrant-owing.module.code.ts"
+ 
+ const OLD_FILE = "--old-file"
+ 
+diff --git a/command-system/commands/write/write.command.code.ts b/command-system/commands/write/write.command.code.ts
+index a7513dfd1ec526127c96057524427213daeb65de..9faebadfd42e20b5dfdabe62b38855bb473d53eb 100644
+--- a/command-system/commands/write/write.command.code.ts
++++ b/command-system/commands/write/write.command.code.ts
+@@ -1,6 +1,5 @@
+ import { existsSync } from "node:fs"
+ import { join, resolve } from "node:path"
+-import { changingOf, owedIn } from "@akasha/context/warranting"
+ import { besideAll } from "@akasha/pages/page-beside"
+ import {
+   BREAK_GLASS,
+@@ -31,6 +30,7 @@ import type { Piping } from "../../piping/piping.module.code.ts"
+ import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
+ import { unrestatedIn } from "../../restating/restating.module.code.ts"
+ import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
++import { unwarrantedIn } from "../../warrant-owing/warrant-owing.module.code.ts"
+ 
+ export const RESTATED = "--restated"
+ 
+@@ -40,16 +40,6 @@ export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, B
+ 
+ const BARE: readonly string[] = [RESTATED]
+ 
+-export function unwarrantedIn(given: Given, changes: readonly FileEdit[]): readonly string[] {
+-  if (given.changeKind?.writerOwesReading === false) return []
+-  return owedIn(
+-    given.root,
+-    given.agentId,
+-    changes.map((one) => one.path),
+-    changingOf(given.root, changes)
+-  )
+-}
+-
+ export function restatedIn(
+   argv: readonly string[],
+   given: Given
+diff --git a/command-system/passage-counting/passage-counting.module.code.ts b/command-system/passage-counting/passage-counting.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4aef0d05dcfa6139ed8e29cd242dbf873a753ccc
+--- /dev/null
++++ b/command-system/passage-counting/passage-counting.module.code.ts
+@@ -0,0 +1,9 @@
++export function counted(body: string, said: string): number {
++  let found = 0
++  let at = body.indexOf(said)
++  while (at !== -1) {
++    found += 1
++    at = body.indexOf(said, at + said.length)
++  }
++  return found
++}
+diff --git a/command-system/passage-counting/passage-counting.module.test.ts b/command-system/passage-counting/passage-counting.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0f294166ea4e00426f52f43c4734a7b9de349c2d
+--- /dev/null
++++ b/command-system/passage-counting/passage-counting.module.test.ts
+@@ -0,0 +1,22 @@
++import { expect, test } from "bun:test"
++import { counted } from "./passage-counting.module.code.ts"
++
++test("a body holding the passage nowhere is answered with none", () => {
++  expect(counted("held\n", "gone")).toBe(0)
++})
++
++test("a passage in a body once is counted once", () => {
++  expect(counted("one held two\n", "held")).toBe(1)
++})
++
++test("a passage in a body twice is counted twice", () => {
++  expect(counted("held and held\n", "held")).toBe(2)
++})
++
++test("a passage is matched as the characters that passage holds rather than as a pattern", () => {
++  expect(counted("a.c and abc\n", "a.c")).toBe(1)
++})
++
++test("a second occurrence overlapping the first is passed over", () => {
++  expect(counted("aaaa", "aa")).toBe(2)
++})
+diff --git a/command-system/passage-counting/passage-counting.module.ts b/command-system/passage-counting/passage-counting.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..52b22bb56e317805579a3ee83316c4286da0c78c
+--- /dev/null
++++ b/command-system/passage-counting/passage-counting.module.ts
+@@ -0,0 +1,38 @@
++import type { Module } from "@akasha/code/module"
++
++export const passageCounting = {
++  id: "01a07bd4-e969-78b4-bff1-0256ba1a2c30",
++  pageTypeSlug: "module",
++  slug: "passage-counting",
++  definition: "how many times a literal passage is in a body",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A passage is matched as the characters that passage holds rather than as a pattern.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The search for the next occurrence opens where the occurrence just counted closes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A second occurrence overlapping the first is passed over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body holding the passage nowhere is counted as zero occurrences.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a file.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "An empty passage is refused by the caller rather than counted here.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/command-system/warrant-owing/warrant-owing.module.code.ts b/command-system/warrant-owing/warrant-owing.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5b125b0b572dbeb3270fe2e6a32dd45124b9683b
+--- /dev/null
++++ b/command-system/warrant-owing/warrant-owing.module.code.ts
+@@ -0,0 +1,13 @@
++import { changingOf, owedIn } from "@akasha/context/warranting"
++import type { Given } from "../calling/calling.module.code.ts"
++import type { FileEdit } from "../landing/landing.module.code.ts"
++
++export function unwarrantedIn(given: Given, changes: readonly FileEdit[]): readonly string[] {
++  if (given.changeKind?.writerOwesReading === false) return []
++  return owedIn(
++    given.root,
++    given.agentId,
++    changes.map((one) => one.path),
++    changingOf(given.root, changes)
++  )
++}
+diff --git a/command-system/warrant-owing/warrant-owing.module.test.ts b/command-system/warrant-owing/warrant-owing.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..25237e61f271cda40f649fdd132c0530e90eae22
+--- /dev/null
++++ b/command-system/warrant-owing/warrant-owing.module.test.ts
+@@ -0,0 +1,34 @@
++import { expect, test } from "bun:test"
++import type { Given, Kind } from "../calling/calling.module.code.ts"
++import { unwarrantedIn } from "./warrant-owing.module.code.ts"
++
++const GIVEN: Given = {
++  root: "/repo",
++  calledAs: "akasha tracking",
++  from: "/repo",
++  writer: null,
++  agentId: null,
++}
++
++const OWES: Kind = {
++  slug: "change-checked",
++  runsChecks: true,
++  writerOwesReading: true,
++  readersOweReading: true,
++}
++
++const CHANGES = [{ path: "akasha/two.ts", body: new Uint8Array() }]
++
++test("a change kind saying the writer owes no reading is answered with nothing owed", () => {
++  const given: Given = { ...GIVEN, changeKind: { ...OWES, writerOwesReading: false } }
++  expect(unwarrantedIn(given, CHANGES)).toEqual([])
++})
++
++test("a change kind saying the writer owes a reading is asked of the warranting", () => {
++  const given: Given = { ...GIVEN, changeKind: OWES }
++  expect(unwarrantedIn(given, CHANGES).length).toBeGreaterThan(0)
++})
++
++test("a call naming no change kind is asked of the warranting", () => {
++  expect(unwarrantedIn(GIVEN, CHANGES).length).toBeGreaterThan(0)
++})
+diff --git a/command-system/warrant-owing/warrant-owing.module.ts b/command-system/warrant-owing/warrant-owing.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c40363425bc0b2a007320c4eece9ea08b7a77764
+--- /dev/null
++++ b/command-system/warrant-owing/warrant-owing.module.ts
+@@ -0,0 +1,36 @@
++import type { Module } from "@akasha/code/module"
++
++export const warrantOwing = {
++  id: "01a07bd4-e969-75ff-8616-768c59e748f6",
++  pageTypeSlug: "module",
++  slug: "warrant-owing",
++  definition: "the readings a writer still owes for the paths a change touches",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A writer owes a reading of every path that writer changes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A change kind saying the writer owes no reading is answered with nothing owed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body each path is left at is worked out before the warranting is asked for.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An owing is worded by the warranting rather than here.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes into the repository.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Whether an owing refuses a call is the caller's own.",
++    },
++  ],
++} as const satisfies Module
