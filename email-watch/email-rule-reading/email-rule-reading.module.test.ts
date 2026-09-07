@@ -1,6 +1,5 @@
 import { describe, expect, test } from "bun:test"
 import { rulesOf } from "@akasha/email-watch/email-rule-reading"
-import { ruleFolderIn, ruleLocation } from "@akasha/email-watch/email-rule-set"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
 
 const ROOT = akashaRoot()
@@ -77,20 +76,5 @@ describe("rulesOf", () => {
 
   test("raises where a person's rules cannot be read", () => {
     expect(() => rulesOf("nobody-of-that-name", ROOT)).toThrow(/cannot be read/)
-  })
-})
-
-describe("ruleLocation", () => {
-  test("reads the person, the kind and the slug off a rule's path", () => {
-    const at = `${ruleFolderIn("alan", "code")}/account-statements.email-rule-code.ts`
-    expect(ruleLocation(at)).toEqual({
-      person: "alan",
-      kind: "code",
-      slug: "account-statements",
-    })
-  })
-
-  test("answers none for a path that is no rule", () => {
-    expect(ruleLocation("akasha/email-watch/inbox-run/inbox-run.module.code.ts")).toBeNull()
   })
 })
