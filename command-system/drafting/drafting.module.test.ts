@@ -328,3 +328,70 @@ test("a patch a change staling no reader opened stales none", () => {
 test("a change staling its readers leaves the whole patch staling them", () => {
   expect(folding(repoAt(), RESTATED, BOTH_RUN)).toEqual(BOTH_RUN)
 })
+
+test("a patch names the one path whose readers owe no reading", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [draft(ONE, TEN, swapped(TEN, "b", "B"))], RESTATED)
+  drafted(root, PAGE, [draft(TWO, null, "fresh\n")], BOTH_RUN)
+  const patch = patchIn(root, PAGE) ?? ""
+  expect(patch).toContain(`readersOweReading: false ${ONE}\n`)
+  expect(patch.split("\n")).not.toContain("readersOweReading: false")
+})
+
+test("what the patch would hold says path by path whether the readers owe the reading", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [draft(ONE, TEN, swapped(TEN, "b", "B"))], RESTATED)
+  drafted(root, PAGE, [draft(TWO, null, "fresh\n")], BOTH_RUN)
+  const said = wouldHold(root, PAGE, [])
+  if ("why" in said) throw new Error(said.why)
+  expect(said.held.get(ONE)?.readersOweReading).toBe(false)
+  expect(said.held.get(TWO)?.readersOweReading).toBe(true)
+})
+
+test("a patch naming no such line leaves every path it holds owing the reading", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [draft(ONE, TEN, swapped(TEN, "b", "B"))], BOTH_RUN)
+  const patch = patchIn(root, PAGE) ?? ""
+  expect(patch).not.toContain("readersOweReading")
+  const said = wouldHold(root, PAGE, [])
+  if ("why" in said) throw new Error(said.why)
+  expect(said.held.get(ONE)?.readersOweReading).toBe(true)
+})
+
+test("a draft says on its own whether the readers of its path owe the reading", () => {
+  const root = repoAt()
+  drafted(
+    root,
+    PAGE,
+    [
+      { ...draft(ONE, TEN, swapped(TEN, "b", "B")), readersOweReading: false },
+      draft(TWO, null, "fresh\n"),
+    ],
+    BOTH_RUN
+  )
+  const said = wouldHold(root, PAGE, [])
+  if ("why" in said) throw new Error(said.why)
+  expect(said.held.get(ONE)?.readersOweReading).toBe(false)
+  expect(said.held.get(TWO)?.readersOweReading).toBe(true)
+})
+
+test("a path drafted into twice owes the reading where one draft of the two owed it", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [draft(ONE, TEN, swapped(TEN, "b", "B"))], RESTATED)
+  drafted(root, PAGE, [draft(ONE, TEN, swapped(TEN, "i", "I"))], BOTH_RUN)
+  const said = wouldHold(root, PAGE, [])
+  if ("why" in said) throw new Error(said.why)
+  expect(said.held.get(ONE)?.readersOweReading).toBe(true)
+})
+
+test("a body resolved leaves the readers of that path owing the reading", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [draft(ONE, TEN, swapped(TEN, "b", "B"))], RESTATED)
+  drafted(root, PAGE, [draft(TWO, null, "fresh\n")], RESTATED)
+  const took = resolved(root, PAGE, ONE, bytes(swapped(TEN, "b", "R")))
+  if ("why" in took) throw new Error(took.why)
+  const said = wouldHold(root, PAGE, [])
+  if ("why" in said) throw new Error(said.why)
+  expect(said.held.get(ONE)?.readersOweReading).toBe(true)
+  expect(said.held.get(TWO)?.readersOweReading).toBe(false)
+})
