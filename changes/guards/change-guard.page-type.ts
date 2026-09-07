@@ -17,6 +17,7 @@ export const changeGuard = {
     "change-guard/identity-not-already-held",
     "change-guard/relation-not-left-hanging",
     "change-guard/relation-reaches-a-page",
+    "change-guard/field-key-not-carried-twice",
   ],
   invariants: [
     {
