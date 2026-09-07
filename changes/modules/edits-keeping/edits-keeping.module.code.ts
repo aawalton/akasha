@@ -31,18 +31,23 @@ export function keptAt(page: string): string | null {
 
 function edited(said: unknown): Edit | null {
   if (typeof said !== "object" || said === null) return null
-  const { path, was, body, from, readersOweReading } = said as Record<string, unknown>
+  const { path, was, body, from, readersOweReading, writerOwesReading } = said as Record<
+    string,
+    unknown
+  >
   if (typeof path !== "string") return null
   if (was !== null && typeof was !== "string") return null
   if (body !== null && typeof body !== "string") return null
   if (from !== undefined && typeof from !== "string") return null
   if (readersOweReading !== undefined && typeof readersOweReading !== "boolean") return null
+  if (writerOwesReading !== undefined && typeof writerOwesReading !== "boolean") return null
   return {
     path,
     was,
     body,
     ...(from === undefined ? {} : { from }),
     ...(readersOweReading === undefined ? {} : { readersOweReading }),
+    ...(writerOwesReading === undefined ? {} : { writerOwesReading }),
   }
 }
 

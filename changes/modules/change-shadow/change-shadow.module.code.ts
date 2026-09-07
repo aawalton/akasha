@@ -37,7 +37,7 @@ export async function reach(world: World, at: string, given: unknown): Promise<R
   return { said, world: worldOver(world, said) }
 }
 
-function bytesOf(body: string | null): Uint8Array | null {
+export function bytesOf(body: string | null): Uint8Array | null {
   return body === null ? null : BYTES.encode(body)
 }
 

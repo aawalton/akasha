@@ -72,6 +72,8 @@ const DEFINITION = "definition"
 
 const READERS_OWE_READING = "readersOweReading"
 
+const WRITER_OWES_READING = "writerOwesReading"
+
 const DROPPED = "these edits are gone, and no apply lands them"
 
 const NOTHING_KEPT = "no edits are kept beside this agent's page, so nothing went"
@@ -190,10 +192,18 @@ export function owedBy(value: Value | null): boolean {
   return value === null || value[READERS_OWE_READING] !== false
 }
 
-export function stamped(said: Said, owed: boolean): Said {
-  if (owed) return said
+export function owingBy(value: Value | null): boolean {
+  return value === null || value[WRITER_OWES_READING] !== false
+}
+
+export function stamped(said: Said, owed: boolean, owing: boolean): Said {
+  if (owed && owing) return said
   return {
-    edits: said.edits.map((one) => ({ ...one, readersOweReading: false })),
+    edits: said.edits.map((one) => ({
+      ...one,
+      ...(owed ? {} : { readersOweReading: false }),
+      ...(owing ? {} : { writerOwesReading: false }),
+    })),
     refused: said.refused,
   }
 }
@@ -292,12 +302,14 @@ export async function changing(
   const loaded = await loading(world, `${type}/${slug}`)
   if (typeof loaded === "string") return mistaking([loaded, DROP_SAID])
   const held: Loaded = loaded
-  const owed = owedBy(world.index.pageAt(type, slug))
+  const value = world.index.pageAt(type, slug)
+  const owed = owedBy(value)
+  const owing = owingBy(value)
   const message = asked.message
   const answered = await appending(
     root,
     page,
-    async (one) => stamped(await ranBy(one, held, asked.given), owed),
+    async (one) => stamped(await ranBy(one, held, asked.given), owed, owing),
     message !== null
   )
   if (message === null || answered.code !== 0) return answered

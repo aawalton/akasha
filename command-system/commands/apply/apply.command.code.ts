@@ -1,7 +1,8 @@
 import { patchIn } from "@akasha/agents/patch-keeping"
 import { formattedBody } from "@akasha/code/code-format"
-import { agentPathOf } from "@akasha/context/warranting"
+import { agentPathOf, changingOf, owedIn } from "@akasha/context/warranting"
 import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
+import { bytesOf } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
 import {
   editsAt,
   foldedIn,
@@ -38,10 +39,6 @@ export type Folded =
       readonly unfold: Unfold | null
     }
   | { readonly refusals: readonly string[] }
-
-function bytesOf(body: string | null): Uint8Array | null {
-  return body === null ? null : BYTES.encode(body)
-}
 
 export function formattedEdits(root: string, rows: readonly Edit[]): readonly Edit[] {
   return rows.map((one) => {
@@ -104,6 +101,22 @@ export function folding(root: string, page: string): Folded {
   return "why" in kept ? { refusals: [kept.why] } : answer
 }
 
+export function unwarranted(
+  root: string,
+  agentId: string | null,
+  rows: readonly Edit[]
+): readonly string[] {
+  const owing = rows.filter((one) => one.writerOwesReading !== false)
+  if (owing.length === 0) return []
+  const edits = editsFor(formattedEdits(root, owing))
+  return owedIn(
+    root,
+    agentId,
+    edits.map((one) => one.path),
+    changingOf(root, edits)
+  )
+}
+
 async function refusedBefore(root: string, page: string): Promise<readonly string[]> {
   const kept = keptEdits(root, page, (had) => had)
   if ("why" in kept) return [kept.why]
@@ -130,6 +143,10 @@ export async function apply(argv: readonly string[], given: Given): Promise<Answ
   if (unknown.length > 0) return mistaking(unknown)
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) return mistaking([NO_PAGE])
+  const held = keptEdits(given.root, page, (had) => had)
+  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
+  const owing = unwarranted(given.root, given.agentId, held.rows)
+  if (owing.length > 0) return { report: [], refusals: owing, code: 3 }
   if (!argv.includes(BREAK_GLASS)) {
     const refused = await refusedBefore(given.root, page)
     if (refused.length > 0) return { report: [], refusals: refused, code: 3 }

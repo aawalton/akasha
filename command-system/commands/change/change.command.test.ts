@@ -15,7 +15,14 @@ import {
   loadedAt,
 } from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
-import { type Applying, changing, editsFor, owedBy, stamped } from "./change.command.code.ts"
+import {
+  type Applying,
+  changing,
+  editsFor,
+  owedBy,
+  owingBy,
+  stamped,
+} from "./change.command.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -295,7 +302,8 @@ test("a change page saying nothing there leaves its readers owing the reading", 
 test("a change owing its readers no reading stamps that on every edit it answers", () => {
   const said = stamped(
     { edits: [{ path: "a/b.ts", was: null, body: "held" }], refused: null },
-    false
+    false,
+    true
   )
 
   expect(said.edits).toEqual([
@@ -303,9 +311,28 @@ test("a change owing its readers no reading stamps that on every edit it answers
   ])
 })
 
+test("a change whose writer owes no reading stamps that on every edit it answers", () => {
+  const said = stamped(
+    { edits: [{ path: "a/b.ts", was: null, body: "held" }], refused: null },
+    true,
+    false
+  )
+
+  expect(said.edits).toEqual([
+    { path: "a/b.ts", was: null, body: "held", writerOwesReading: false },
+  ])
+})
+
+test("a change page saying its writer owes no reading is read as saying so", () => {
+  expect(owingBy({ slug: "add-file", writerOwesReading: false })).toBe(false)
+  expect(owingBy({ slug: "add-file", writerOwesReading: true })).toBe(true)
+  expect(owingBy(null)).toBe(true)
+})
+
 test("a change owing its readers reading stamps nothing on the edits it answers", () => {
   const said = stamped(
     { edits: [{ path: "a/b.ts", was: null, body: "held" }], refused: null },
+    true,
     true
   )
 

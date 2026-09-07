@@ -23,6 +23,7 @@ import {
   passagesIn,
   pipedIn,
 } from "../../piping/piping.module.code.ts"
+import { counted as countedIn } from "../edit/edit.command.code.ts"
 import {
   barredIn,
   defaultMessage,
@@ -60,16 +61,6 @@ type Paths = { readonly paths: readonly string[] } | { readonly refusals: readon
 type Counting = {
   readonly path: string
   readonly found: number
-}
-
-export function countedIn(body: string, said: string): number {
-  let found = 0
-  let at = body.indexOf(said)
-  while (at !== -1) {
-    found += 1
-    at = body.indexOf(said, at + said.length)
-  }
-  return found
 }
 
 export function replacedIn(body: string, said: string, put: string): string {
@@ -250,9 +241,7 @@ export async function replacing(
   }
   const dry = argv.includes(DRY_RUN)
   const held = working(given, named.paths, reading.passage, dry)
-  const wrong = dry
-    ? held.wrong
-    : [...held.wrong, ...unwarrantedIn(given, glass.glass, held.changes)]
+  const wrong = dry ? held.wrong : [...held.wrong, ...unwarrantedIn(given, held.changes)]
   const troubled = troubling({ mistaken: held.mistaken, wrong })
   if (troubled !== null) return troubled
   if (dry) return reporting(held.counting)

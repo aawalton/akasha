@@ -4,6 +4,7 @@ export type Edit = {
   readonly body: string | null
   readonly from?: string
   readonly readersOweReading?: boolean
+  readonly writerOwesReading?: boolean
 }
 
 export type Answer = {

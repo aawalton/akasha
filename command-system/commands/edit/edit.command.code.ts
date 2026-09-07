@@ -146,14 +146,14 @@ type Askings = { readonly asking: readonly Asking[] } | { readonly refusals: rea
 function askingIn(read: Read, given: Given, piping: Piping): Askings {
   if (read.asking.length === 0 && read.wanting === null) return { asking: [] }
   const held = pipedIn(piping, read.wanting, {
-    bare: (path) =>
-      `${FILE_PATH} ${path} states no ${OLD_FILE}, so its passages are read from the input,` +
+    bare: (at) =>
+      `${FILE_PATH} ${at} states no ${OLD_FILE}, so its passages are read from the input,` +
       ` and nothing is piped in — say it as` +
-      ` \`${given.calledAs} ${FILE_PATH} ${path} ${MESSAGE} <text> <<'EOF'\`, then` +
+      ` \`${given.calledAs} ${FILE_PATH} ${at} ${MESSAGE} <text> <<'EOF'\`, then` +
       ` \`${MARK_OLD}\`, the passage, \`${MARK_SPLIT}\`, what it becomes, \`${MARK_NEW}\`,` +
       " then `EOF` on a line of its own",
-    opening: (path, why) =>
-      `the passages for ${path} are read from the input, and the input would not open — ${why}`,
+    opening: (at, why) =>
+      `the passages for ${at} are read from the input, and the input would not open — ${why}`,
   })
   if ("refusals" in held) return { refusals: held.refusals }
   const path = read.wanting
@@ -284,7 +284,7 @@ export function askedWith(argv: readonly string[], given: Given, piping: Piping)
   changes.push(...removing.changes)
   mistaken.push(...removing.mistaken)
   wrong.push(...removing.wrong)
-  wrong.push(...unwarrantedIn(given, glass.glass, changes))
+  wrong.push(...unwarrantedIn(given, changes))
   wrong.push(...unrestatedFor(given, changes))
   changes.push(...besideTaken(given, removing.base, removing.taken, seen))
   const troubled = troubling({ mistaken, wrong })

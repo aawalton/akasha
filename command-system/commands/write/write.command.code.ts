@@ -43,13 +43,8 @@ export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, B
 
 const BARE: readonly string[] = [RESTATED]
 
-export function unwarrantedIn(
-  given: Given,
-  glass: string | null,
-  changes: readonly FileEdit[]
-): readonly string[] {
+export function unwarrantedIn(given: Given, changes: readonly FileEdit[]): readonly string[] {
   if (given.changeKind?.writerOwesReading === false) return []
-  if (glass !== null) return []
   return owedIn(
     given.root,
     given.agentId,
@@ -428,7 +423,7 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping): 
   changes.push(...removing.changes)
   mistaken.push(...removing.mistaken)
   wrong.push(...removing.wrong)
-  wrong.push(...unwarrantedIn(given, glass.glass, changes))
+  wrong.push(...unwarrantedIn(given, changes))
   wrong.push(...unrestatedFor(given, changes))
   changes.push(...besideTaken(given, removing.base, removing.taken, seen))
   const troubled = troubling({ mistaken, wrong })
