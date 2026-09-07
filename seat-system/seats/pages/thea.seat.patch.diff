@@ -72,6 +72,22 @@ index 92b96624af8c426b7096861d8c05380229f0a964..daf39c8c3c1b72ef41fdf1252a7a96e3
      { pagePropertySlug: "text-property/value-slug", required: false, many: false },
    ],
    invariants: [
+diff --git a/story/turns-played/story-turn-played.page-type.ts b/story/turns-played/story-turn-played.page-type.ts
+index a99249f65fe12a998ea356ecc826b97d2c53bf18..a4cd7eb4a49d36a9b9cf1e6101fd8e100c8fa32c 100644
+--- a/story/turns-played/story-turn-played.page-type.ts
++++ b/story/turns-played/story-turn-played.page-type.ts
+@@ -16,10 +16,7 @@ export const storyTurnPlayed = {
+   pluralSlug: "story-turns-played",
+   extendsSlug: ["page-type/collection"],
+   runsTabooCheck: false,
+-  properties: [
+-    { pagePropertySlug: "number-property/own-length", required: false, many: false },
+-    { pagePropertySlug: "file-property/prose", required: true, many: false },
+-  ],
++  properties: [{ pagePropertySlug: "file-property/prose", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/story/worlds/world.page-type.ts b/story/worlds/world.page-type.ts
 index 1fd692b1cb844452c7b4b503d41a2ea3e466fb07..21d7a5cc52dfb0e45576f94816df90ebd13aa9d7 100644
 --- a/story/worlds/world.page-type.ts
