@@ -1,0 +1,170 @@
+diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
+index 7a33d3424db8c036f4d8be6aeaa1f756478c141a..4ebcac3c94914bf03f15ca6132c684e9327561d0 100644
+--- a/checks/modules/change-walking/change-walking.module.code.ts
++++ b/checks/modules/change-walking/change-walking.module.code.ts
+@@ -9,6 +9,7 @@ import { pageNamed, partedIn, uncommittedHeld } from "@akasha/pages/page-file-na
+ import { type Loaded, loadedFrom } from "@akasha/pages/page-value"
+ import type { Shadow } from "@akasha/pages/shadow"
+ import { isMissing } from "@akasha/utils-fs/missing"
++import { sortedOnce } from "@akasha/utils-narrow/sorted-once"
+ import type { Judged, Running, RunningAsync } from "../judging/judging.module.code.ts"
+ 
+ export type Body = {
+@@ -228,16 +229,18 @@ export function overEachFile(
+   return said
+ }
+ 
+-function filedOnce(paths: readonly string[]): readonly string[] {
+-  return [...new Set(paths)].sort()
+-}
+-
+ export function everyFileIn(given: Reading): readonly string[] {
+-  return filedOnce(everyPath(given))
++  return sortedOnce(everyPath(given))
+ }
+ 
++const EVERY_PATH = new WeakMap<Answering, readonly string[]>()
++
+ export function everyFileOf(index: Answering): readonly string[] {
+-  return filedOnce(index.everyPath())
++  const found = EVERY_PATH.get(index)
++  if (found !== undefined) return found
++  const made = sortedOnce(index.everyPath())
++  EVERY_PATH.set(index, made)
++  return made
+ }
+ 
+ const WALK_CEILING = 512 * 1024 * 1024
+@@ -263,7 +266,7 @@ function heldThough(path: string): boolean {
+ function everyFileInside(root: string): readonly string[] {
+   const kept = walked(root, ["--cached", "--others"])
+   const held = walked(root, ["--others", "--ignored"]).filter(heldThough)
+-  return filedOnce([...kept, ...held])
++  return sortedOnce([...kept, ...held])
+ }
+ 
+ export function everythingIn(root: string): Change {
+diff --git a/checks/modules/change-walking/change-walking.module.ts b/checks/modules/change-walking/change-walking.module.ts
+index fcc41cf96aa2bc344d8aa62c8398c435674da30f..cca87b195cdd3750c2cfac902fcd38d87a6a9488 100644
+--- a/checks/modules/change-walking/change-walking.module.ts
++++ b/checks/modules/change-walking/change-walking.module.ts
+@@ -70,6 +70,10 @@ export const changeWalking = {
+       statement:
+         "A walk over everything takes the files in the tree rather than the files the index names.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The paths one index names are worked out once and held for that index.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+diff --git a/checks/package.json b/checks/package.json
+index e4a940cea3fe69619890051796dfc2a45f07a757..098c32e31af6511db2b3a8cdfa3e86e31140e578 100644
+--- a/checks/package.json
++++ b/checks/package.json
+@@ -25,6 +25,7 @@
+     "yaml": "^2.8.1",
+     "@akasha/k8s-synth": "workspace:*",
+     "@akasha/temper-addons-resolve": "workspace:*",
++    "@akasha/utils-narrow": "workspace:*",
+     "typescript": "5.9.3"
+   }
+ }
+diff --git a/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts b/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts
+index 7f3d045b4074d63f974922edbda677c707c0d429..bc6b9306fb0fbaa66388619e0b49e00f9f17eb0a 100644
+--- a/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts
++++ b/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts
+@@ -1,3 +1,4 @@
++import { sortedOnce } from "@akasha/utils-narrow/sorted-once"
+ import { companionBaseRoles } from "../companion-base-roles/companion-base-roles.module.code.ts"
+ import { evaluate } from "../companion-optimizer/companion-optimizer.module.code.ts"
+ import { calculateCompanionStats } from "../companion-stats-calculator/companion-stats-calculator.module.code.ts"
+@@ -33,7 +34,7 @@ export function getBuildScore(buildData: CompanionState): number {
+ const DISPLAY_ROLE_ORDER: readonly string[] = companionBaseRoles.ids
+ 
+ export function mapBaseRolesToDisplayRoles(baseRoles: readonly string[]): readonly string[] {
+-  return [...new Set(baseRoles)].sort()
++  return sortedOnce(baseRoles)
+ }
+ 
+ export function displayRoleComboKey(displayRoles: readonly string[]): string {
+diff --git a/utils-narrow/package.json b/utils-narrow/package.json
+index ea4452b287bf73fd0ba620eefe117b61d5f487a3..cd51074fcaa701c85a701745e6295da0348bcd68 100644
+--- a/utils-narrow/package.json
++++ b/utils-narrow/package.json
+@@ -33,6 +33,7 @@
+     "./require-match": "./require-match/require-match.module.code.ts",
+     "./require-match-positional": "./require-match-positional/require-match-positional.module.code.ts",
+     "./require-only": "./require-only/require-only.module.code.ts",
++    "./sorted-once": "./sorted-once/sorted-once.module.code.ts",
+     "./string-at": "./string-at/string-at.module.code.ts",
+     "./text-at": "./text-at/text-at.module.code.ts"
+   },
+diff --git a/utils-narrow/sorted-once/sorted-once.module.code.ts b/utils-narrow/sorted-once/sorted-once.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7c6bc1770960d34de95c94053304ba6f1f4b322a
+--- /dev/null
++++ b/utils-narrow/sorted-once/sorted-once.module.code.ts
+@@ -0,0 +1,3 @@
++export function sortedOnce(values: readonly string[]): readonly string[] {
++  return [...new Set(values)].sort()
++}
+diff --git a/utils-narrow/sorted-once/sorted-once.module.test.ts b/utils-narrow/sorted-once/sorted-once.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7eea5c63e00cbcbd9a8ff1c4757b7164c2798f35
+--- /dev/null
++++ b/utils-narrow/sorted-once/sorted-once.module.test.ts
+@@ -0,0 +1,14 @@
++import { expect, test } from "bun:test"
++import { sortedOnce } from "./sorted-once.module.code.ts"
++
++test("a value given more than once comes back once", () => {
++  expect(sortedOnce(["b", "a", "b"])).toEqual(["a", "b"])
++})
++
++test("the order is the one sorting puts the values in rather than the order given", () => {
++  expect(sortedOnce(["c", "a", "b"])).toEqual(["a", "b", "c"])
++})
++
++test("nothing given comes back as nothing", () => {
++  expect(sortedOnce([])).toEqual([])
++})
+diff --git a/utils-narrow/sorted-once/sorted-once.module.ts b/utils-narrow/sorted-once/sorted-once.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cb6d141ab4e33e7456d4465e7017fcfaf6f0026e
+--- /dev/null
++++ b/utils-narrow/sorted-once/sorted-once.module.ts
+@@ -0,0 +1,20 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const sortedOnce = {
++  id: "01a079ad-7822-7000-a707-78723d52e222",
++  pageTypeSlug: "module",
++  slug: "sorted-once",
++  definition: "values given back in sorted order, each one once",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A value given more than once comes back once.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The order is the one sorting puts the values in rather than the order given.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/utils-narrow/utils-narrow.workspace-package.ts b/utils-narrow/utils-narrow.workspace-package.ts
+index 91e00d311b75a349f7d0e9fa175ea129ff8bb7bf..33d5506c784d9422e76cbd1071f2d0de80554f7e 100644
+--- a/utils-narrow/utils-narrow.workspace-package.ts
++++ b/utils-narrow/utils-narrow.workspace-package.ts
+@@ -38,6 +38,7 @@ export const utilsNarrow = {
+     "module/require-match",
+     "module/require-match-positional",
+     "module/require-only",
++    "module/sorted-once",
+     "module/string-at",
+     "module/text-at",
+   ],
