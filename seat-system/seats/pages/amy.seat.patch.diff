@@ -1,0 +1,27 @@
+diff --git a/pages/access/file-property-defs/file-property-defs.module.code.ts b/pages/access/file-property-defs/file-property-defs.module.code.ts
+index 499ed95c4be5746c76a759b26892539bc67992e8..c16810154507b0b3ede830913f399437b4ca181c 100644
+--- a/pages/access/file-property-defs/file-property-defs.module.code.ts
++++ b/pages/access/file-property-defs/file-property-defs.module.code.ts
+@@ -84,6 +84,13 @@ function optionsFrom(value: unknown): readonly SelectOption[] | null {
+   return named.length === 0 ? null : named
+ }
+ 
++const DECLARED_BY = "-property"
++
++export function renderedType(pageTypeSlug: string): string {
++  if (!pageTypeSlug.endsWith(DECLARED_BY)) return pageTypeSlug
++  return pageTypeSlug.slice(0, -DECLARED_BY.length)
++}
++
+ function definitionOf(one: Declaration): PropertyDefinition {
+   const config: Record<string, Json> = {}
+   const options = optionsFrom(one.values)
+@@ -93,7 +100,7 @@ function definitionOf(one: Declaration): PropertyDefinition {
+     id: camelizeKey(one.key),
+     key: one.key,
+     title: one.title,
+-    type: one.type,
++    type: renderedType(one.type),
+     pageId: one.pageId,
+     ...(stated ? { config } : {}),
+   }
