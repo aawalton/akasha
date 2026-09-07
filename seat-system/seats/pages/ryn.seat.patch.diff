@@ -1,0 +1,14 @@
+diff --git a/design/system/design-system.workspace-package.ts b/design/system/design-system.workspace-package.ts
+index 4968b784fdf4d8376cd9f731dbfce7e0ba6e55ec..d575979cc85678f3693a2e717897165c459dc5a3 100644
+--- a/design/system/design-system.workspace-package.ts
++++ b/design/system/design-system.workspace-package.ts
+@@ -52,8 +52,7 @@ export const designSystem = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The space separating a component from its neighbours is written on the parent, not the component.",
++      statement: "The space separating a component from its neighbours is written on the parent.",
+     },
+     {
+       invariantKind: "absence",
