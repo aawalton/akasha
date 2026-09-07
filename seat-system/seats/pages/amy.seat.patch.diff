@@ -44,3 +44,18 @@ index 8d864c8eb7dd9513965b9dae36b182a7978d8af8..ecb4f230cac0d3527d0a155c129e5a7b
  }
  
  export function uncompletionValues(shape: CompletionShape): Readonly<Record<string, null>> {
+diff --git a/pages/core/task-lifecycle/task-lifecycle.module.ts b/pages/core/task-lifecycle/task-lifecycle.module.ts
+index a23624ce0c5f5b9de928670652a871971d83bc41..bc1e7d458b96cc07702b02475463a94028045353 100644
+--- a/pages/core/task-lifecycle/task-lifecycle.module.ts
++++ b/pages/core/task-lifecycle/task-lifecycle.module.ts
+@@ -44,6 +44,10 @@ export const taskLifecycle = {
+       invariantKind: "departure",
+       statement: "The keys a completion touches are read from the page type marked.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A rule that will not parse leaves the due date alone.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here writes.",
