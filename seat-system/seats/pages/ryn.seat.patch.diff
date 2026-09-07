@@ -1,0 +1,17 @@
+diff --git a/code-system/rust-crates/properties/crate-icon.file-property.ts b/code-system/rust-crates/properties/crate-icon.file-property.ts
+index 94fc411a9d42a5c26c8f283db90ad357ef60bb21..32f8081f0036371202b6dbf325eb88ca92139aea 100644
+--- a/code-system/rust-crates/properties/crate-icon.file-property.ts
++++ b/code-system/rust-crates/properties/crate-icon.file-property.ts
+@@ -15,7 +15,11 @@ export const crateIcon = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The picture is carried as base64 in json, so the file holds no NUL byte.",
++      statement: "The picture is carried as base64 in json.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The file holds no NUL byte.",
+     },
+     {
+       invariantKind: "departure",
