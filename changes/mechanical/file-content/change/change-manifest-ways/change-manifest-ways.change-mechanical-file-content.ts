@@ -1,8 +1,8 @@
-import type { ChangeMechanicalManifest } from "../../../manifest/change-mechanical-manifest.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
 
 export const changeManifestWays = {
   id: "01a0798b-3398-71d0-ba4b-fa40530ad360",
-  pageTypeSlug: "change-mechanical-manifest",
+  pageTypeSlug: "change-mechanical-file-content",
   slug: "change-manifest-ways",
   changeModeSlug: "change-mode-change",
   changeTargetTypeSlug: "change-target-type/file-content",
@@ -59,4 +59,4 @@ export const changeManifestWays = {
       statement: "Nothing here reads the disk or an index.",
     },
   ],
-} as const satisfies ChangeMechanicalManifest
+} as const satisfies ChangeMechanicalFileContent
