@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/commands/pages/change/change.command.ts b/commands/pages/change/change.command.ts
+index 4acd978d60af9471ac82834bb017325878dcd096..4e544d2092210fcfa03c02dfe4ff2931c1904a23 100644
+--- a/commands/pages/change/change.command.ts
++++ b/commands/pages/change/change.command.ts
+@@ -277,7 +277,7 @@ export const change = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A call asking for no apply lands nothing.",
++      statement: "A call naming no apply lands the edits that call answers.",
+     },
+     {
+       invariantKind: "departure",
