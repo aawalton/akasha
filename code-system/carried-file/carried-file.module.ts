@@ -27,8 +27,11 @@ export const carriedFile = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The base64 is one line, so a seam with no json reader takes that base64 in one read.",
+      statement: "The base64 is one line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seam with no json reader takes the base64 in one read.",
     },
     {
       invariantKind: "departure",
