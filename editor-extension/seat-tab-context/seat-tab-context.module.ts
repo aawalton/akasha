@@ -13,7 +13,11 @@ export const seatTabContext = {
     },
     {
       invariantKind: "departure",
-      statement: "Every key is answered, empty where no tab matches that key.",
+      statement: "Every key is answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key no tab matches is answered empty.",
     },
     {
       invariantKind: "departure",
