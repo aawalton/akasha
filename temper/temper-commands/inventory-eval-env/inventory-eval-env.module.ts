@@ -14,7 +14,7 @@ export const inventoryEvalEnv = {
     },
     {
       invariantKind: "departure",
-      statement: "A character knows a recipe, a motif or a script and nothing else.",
+      statement: "A character knows a recipe or a motif or a script and nothing else.",
     },
     {
       invariantKind: "departure",
