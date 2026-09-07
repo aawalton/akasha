@@ -1,0 +1,3967 @@
+writerOwesReading: false
+diff --git a/command-system/commands/calendar/calendar.command.code.ts b/command-system/commands/calendar/calendar.command.code.ts
+deleted file mode 100644
+index a23be83236bb5bcfc10d776362f4d29ccb7e62f4..0000000000000000000000000000000000000000
+--- a/command-system/commands/calendar/calendar.command.code.ts
++++ /dev/null
+@@ -1,381 +0,0 @@
+-import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
+-import { CALENDAR_OAUTH_SCOPE } from "@akasha/google-calendar/env"
+-import { narrowSendUpdates, SEND_UPDATES } from "@akasha/google-calendar/send-updates-narrowing"
+-import type { EventInput, EventPatch, RsvpStatus } from "@akasha/google-calendar/types"
+-import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
+-import { googleOauthConsent } from "@akasha/google-oauth/oauth-consent"
+-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+-import { quoted } from "../../seat-act-calling/seat-act-calling.module.code.ts"
+-
+-export const AUTH = "auth"
+-
+-export const EVENTS = "events"
+-
+-const LOGIN = "login"
+-
+-const CREATE = "create"
+-
+-const DELETE = "delete"
+-
+-const GET = "get"
+-
+-const LIST = "list"
+-
+-const RSVP = "rsvp"
+-
+-const UPDATE = "update"
+-
+-const CALLBACK_URL = "--callback-url"
+-
+-const CALENDAR = "--calendar"
+-
+-const EVENT = "--event"
+-
+-const FROM = "--from"
+-
+-const TO = "--to"
+-
+-const QUERY = "--query"
+-
+-const MAX = "--max"
+-
+-const SUMMARY = "--summary"
+-
+-const START = "--start"
+-
+-const END = "--end"
+-
+-const DESCRIPTION = "--description"
+-
+-const LOCATION = "--location"
+-
+-const ATTENDEES = "--attendees"
+-
+-const TIMEZONE = "--timezone"
+-
+-const RECURRENCE = "--recurrence"
+-
+-const SENDING = "--send-updates"
+-
+-const STATUS = "--status"
+-
+-const REFRESH_TOKEN_VAR = "GOOGLE_CALENDAR_OAUTH_REFRESH_TOKEN"
+-
+-const STATUSES: readonly RsvpStatus[] = ["accepted", "declined", "tentative"]
+-
+-const ACTS: Readonly<Record<string, readonly string[]>> = {
+-  [AUTH]: [LOGIN],
+-  [EVENTS]: [CREATE, DELETE, GET, LIST, RSVP, UPDATE],
+-}
+-
+-const SHAPING = [SUMMARY, START, END, DESCRIPTION, LOCATION, ATTENDEES, TIMEZONE, RECURRENCE]
+-
+-const TAKES: Readonly<Record<string, readonly string[]>> = {
+-  [`${AUTH} ${LOGIN}`]: [CALLBACK_URL],
+-  [`${EVENTS} ${LIST}`]: [CALENDAR, FROM, TO, QUERY, MAX],
+-  [`${EVENTS} ${GET}`]: [CALENDAR, EVENT],
+-  [`${EVENTS} ${DELETE}`]: [CALENDAR, EVENT],
+-  [`${EVENTS} ${CREATE}`]: [CALENDAR, ...SHAPING, SENDING],
+-  [`${EVENTS} ${UPDATE}`]: [CALENDAR, EVENT, ...SHAPING, SENDING],
+-  [`${EVENTS} ${RSVP}`]: [CALENDAR, EVENT, STATUS, SENDING],
+-}
+-
+-const NEEDS: Readonly<Record<string, readonly string[]>> = {
+-  [`${EVENTS} ${GET}`]: [EVENT],
+-  [`${EVENTS} ${DELETE}`]: [EVENT],
+-  [`${EVENTS} ${CREATE}`]: [SUMMARY, START, END],
+-  [`${EVENTS} ${UPDATE}`]: [EVENT],
+-  [`${EVENTS} ${RSVP}`]: [EVENT, STATUS],
+-}
+-
+-const IN_PLACE = new Set([
+-  `${EVENTS} ${GET}`,
+-  `${EVENTS} ${DELETE}`,
+-  `${EVENTS} ${UPDATE}`,
+-  `${EVENTS} ${RSVP}`,
+-])
+-
+-const VALUED = new Set([
+-  CALLBACK_URL,
+-  CALENDAR,
+-  EVENT,
+-  FROM,
+-  TO,
+-  QUERY,
+-  MAX,
+-  SUMMARY,
+-  START,
+-  END,
+-  DESCRIPTION,
+-  LOCATION,
+-  ATTENDEES,
+-  TIMEZONE,
+-  RECURRENCE,
+-  SENDING,
+-  STATUS,
+-])
+-
+-export type Read =
+-  | {
+-      readonly act: string
+-      readonly said: ReadonlyMap<string, string>
+-      readonly recurrence: readonly string[]
+-    }
+-  | { readonly refused: readonly string[] }
+-
+-function wholeNumber(raw: string): number | null {
+-  if (!/^\d+$/.test(raw)) return null
+-  const held = Number(raw)
+-  return Number.isSafeInteger(held) ? held : null
+-}
+-
+-function emails(raw: string | undefined): readonly string[] | undefined {
+-  return raw === undefined ? undefined : raw.split(",").map((one) => one.trim())
+-}
+-
+-function rules(said: readonly string[]): readonly string[] | undefined {
+-  return said.length > 0 ? said : undefined
+-}
+-
+-function jsonSaid(value: unknown): readonly string[] {
+-  return JSON.stringify(value, null, 2).split("\n")
+-}
+-
+-function reading(argv: readonly string[]): {
+-  readonly refusals: readonly string[]
+-  readonly words: readonly string[]
+-  readonly said: Map<string, string>
+-  readonly recurrence: readonly string[]
+-} {
+-  const refusals: string[] = []
+-  const words: string[] = []
+-  const said = new Map<string, string>()
+-  const recurrence: string[] = []
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (!one.startsWith("-")) {
+-      words.push(one)
+-      continue
+-    }
+-    if (!VALUED.has(one)) {
+-      refusals.push(`\`${one}\` is no flag this takes`)
+-      continue
+-    }
+-    const value = argv[at + 1]
+-    if (value === undefined || value.startsWith("--")) {
+-      refusals.push(`\`${one}\` takes a value, and none followed it`)
+-      continue
+-    }
+-    at += 1
+-    if (one === RECURRENCE) {
+-      recurrence.push(value)
+-      continue
+-    }
+-    if (said.has(one)) {
+-      refusals.push(`\`${one}\` is said twice over, and it takes one value`)
+-      continue
+-    }
+-    said.set(one, value)
+-  }
+-  return { refusals, words, said, recurrence }
+-}
+-
+-function actIn(words: readonly string[], refusals: string[]): string | null {
+-  const on = words[0]
+-  if (on === undefined) {
+-    refusals.push(`this names nothing to act on — it acts on ${quoted(Object.keys(ACTS))}`)
+-    return null
+-  }
+-  const acts = ACTS[on]
+-  if (acts === undefined) {
+-    refusals.push(`\`${on}\` is nothing this acts on — it acts on ${quoted(Object.keys(ACTS))}`)
+-    return null
+-  }
+-  const act = words[1]
+-  if (act === undefined) {
+-    refusals.push(`\`${on}\` names no act — it carries ${quoted(acts)}`)
+-    return null
+-  }
+-  if (!acts.includes(act)) {
+-    refusals.push(`\`${act}\` is no act \`${on}\` carries — it carries ${quoted(acts)}`)
+-    return null
+-  }
+-  return `${on} ${act}`
+-}
+-
+-function placing(
+-  act: string,
+-  rest: readonly string[],
+-  said: Map<string, string>,
+-  refusals: string[]
+-): undefined {
+-  const first = rest[0]
+-  if (first === undefined) return
+-  if (!IN_PLACE.has(act)) {
+-    refusals.push(`\`${first}\` follows \`${act}\`, which names nothing in place`)
+-    return
+-  }
+-  if (rest.length > 1) {
+-    refusals.push(`\`${rest[1]}\` follows the event, and one call names one event`)
+-    return
+-  }
+-  if (said.has(EVENT)) {
+-    refusals.push(`\`${first}\` names the event in place where \`${EVENT}\` names it too`)
+-    return
+-  }
+-  said.set(EVENT, first)
+-}
+-
+-function valuing(act: string, said: ReadonlyMap<string, string>, refusals: string[]): undefined {
+-  const max = said.get(MAX)
+-  if (max !== undefined && wholeNumber(max) === null) {
+-    refusals.push(`\`${MAX}\` takes a whole number of events, and \`${max}\` is none`)
+-  }
+-  const status = said.get(STATUS)
+-  if (status !== undefined && !STATUSES.some((one) => one === status)) {
+-    refusals.push(`\`${STATUS}\` takes ${quoted(STATUSES)}, and \`${status}\` is none of them`)
+-  }
+-  const sending = said.get(SENDING)
+-  if (sending !== undefined && !SEND_UPDATES.some((one) => one === sending)) {
+-    refusals.push(
+-      `\`${SENDING}\` takes ${quoted(SEND_UPDATES)}, and \`${sending}\` is none of them`
+-    )
+-  }
+-  for (const one of NEEDS[act] ?? []) {
+-    if (!said.has(one)) refusals.push(`\`${act}\` takes \`${one}\`, and none was said`)
+-  }
+-}
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const held = reading(argv)
+-  const refusals = [...held.refusals]
+-  const act = actIn(held.words, refusals)
+-  if (act === null) return { refused: refusals }
+-  placing(act, held.words.slice(2), held.said, refusals)
+-  const takes = TAKES[act] ?? []
+-  for (const one of held.said.keys()) {
+-    if (!takes.includes(one)) refusals.push(`\`${one}\` is no flag \`${act}\` takes`)
+-  }
+-  if (held.recurrence.length > 0 && !takes.includes(RECURRENCE)) {
+-    refusals.push(`\`${RECURRENCE}\` is no flag \`${act}\` takes`)
+-  }
+-  valuing(act, held.said, refusals)
+-  if (refusals.length > 0) return { refused: refusals }
+-  return { act, said: held.said, recurrence: held.recurrence }
+-}
+-
+-async function loggingIn(said: ReadonlyMap<string, string>): Promise<Answer> {
+-  const { clientId, clientSecret } = readGoogleOauthAppCredentials()
+-  await googleOauthConsent({
+-    scopes: [CALENDAR_OAUTH_SCOPE],
+-    clientId,
+-    clientSecret,
+-    tokenVar: REFRESH_TOKEN_VAR,
+-    callbackUrl: said.get(CALLBACK_URL),
+-  })
+-  return {
+-    report: [`consent was granted, and the round trip wrote \`${REFRESH_TOKEN_VAR}\` out itself`],
+-    refusals: [],
+-    code: 0,
+-  }
+-}
+-
+-function inputOf(said: ReadonlyMap<string, string>, recurrence: readonly string[]): EventInput {
+-  return {
+-    calendarId: said.get(CALENDAR),
+-    summary: said.get(SUMMARY) ?? "",
+-    start: said.get(START) ?? "",
+-    end: said.get(END) ?? "",
+-    description: said.get(DESCRIPTION),
+-    location: said.get(LOCATION),
+-    attendees: emails(said.get(ATTENDEES)),
+-    timezone: said.get(TIMEZONE),
+-    recurrence: rules(recurrence),
+-    sendUpdates: narrowSendUpdates(said.get(SENDING)),
+-  }
+-}
+-
+-function patchOf(said: ReadonlyMap<string, string>, recurrence: readonly string[]): EventPatch {
+-  return {
+-    calendarId: said.get(CALENDAR),
+-    eventId: said.get(EVENT) ?? "",
+-    summary: said.get(SUMMARY),
+-    start: said.get(START),
+-    end: said.get(END),
+-    description: said.get(DESCRIPTION),
+-    location: said.get(LOCATION),
+-    attendees: emails(said.get(ATTENDEES)),
+-    timezone: said.get(TIMEZONE),
+-    recurrence: rules(recurrence),
+-    sendUpdates: narrowSendUpdates(said.get(SENDING)),
+-  }
+-}
+-
+-async function asAlan() {
+-  return await (await import("@akasha/google-calendar/client")).makeOAuthCalendarClient()
+-}
+-
+-async function asAkasha() {
+-  return await (await import("@akasha/google-calendar/client")).makeCalendarClient()
+-}
+-
+-async function acting(read: {
+-  readonly act: string
+-  readonly said: ReadonlyMap<string, string>
+-  readonly recurrence: readonly string[]
+-}): Promise<Answer> {
+-  const { act, said, recurrence } = read
+-  if (act === `${AUTH} ${LOGIN}`) return await loggingIn(said)
+-  const events = await import("@akasha/google-calendar/events")
+-  const answered = (value: unknown): Answer => ({ report: jsonSaid(value), refusals: [], code: 0 })
+-  if (act === `${EVENTS} ${LIST}`) {
+-    const max = said.get(MAX)
+-    return answered(
+-      await events.listEvents(await asAkasha(), {
+-        calendarId: said.get(CALENDAR),
+-        from: said.get(FROM),
+-        to: said.get(TO),
+-        query: said.get(QUERY),
+-        max: max === undefined ? undefined : (wholeNumber(max) ?? undefined),
+-      })
+-    )
+-  }
+-  const eventId = said.get(EVENT) ?? ""
+-  const calendarId = said.get(CALENDAR)
+-  if (act === `${EVENTS} ${GET}`) {
+-    return answered(await events.getEvent(await asAkasha(), { calendarId, eventId }))
+-  }
+-  if (act === `${EVENTS} ${DELETE}`) {
+-    return answered(await events.deleteEvent(await asAkasha(), { calendarId, eventId }))
+-  }
+-  if (act === `${EVENTS} ${CREATE}`) {
+-    return answered(await events.createEvent(await asAlan(), inputOf(said, recurrence)))
+-  }
+-  if (act === `${EVENTS} ${UPDATE}`) {
+-    return answered(await events.updateEvent(await asAlan(), patchOf(said, recurrence)))
+-  }
+-  return answered(
+-    await events.rsvpEvent(await asAlan(), {
+-      calendarId,
+-      eventId,
+-      status: (said.get(STATUS) ?? "accepted") as RsvpStatus,
+-      sendUpdates: narrowSendUpdates(said.get(SENDING)),
+-    })
+-  )
+-}
+-
+-export async function calendar(argv: readonly string[], given: Given): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+-  try {
+-    return await acting(read)
+-  } catch (thrown) {
+-    return {
+-      report: [],
+-      refusals: [`${given.calledAs} ${read.act} — ${whyOf(thrown)}`],
+-      code: exitCodeForThrowable(thrown),
+-    }
+-  }
+-}
+diff --git a/command-system/commands/calendar/calendar.command.test.ts b/command-system/commands/calendar/calendar.command.test.ts
+deleted file mode 100644
+index a5d6a27339e2453e12da80005d7b267a27666154..0000000000000000000000000000000000000000
+--- a/command-system/commands/calendar/calendar.command.test.ts
++++ /dev/null
+@@ -1,116 +0,0 @@
+-import { expect, test } from "bun:test"
+-import type { Given } from "../../calling/calling.module.code.ts"
+-import { refusingWith } from "../../calling/calling.module.test-fixtures.ts"
+-import { calendar, readIn } from "./calendar.command.code.ts"
+-
+-function given(): Given {
+-  return {
+-    root: "/nowhere",
+-    calledAs: "akasha calendar",
+-    from: "/nowhere",
+-    writer: null,
+-    agentId: null,
+-  }
+-}
+-
+-const refusedBy = refusingWith(readIn)
+-
+-test("nothing said is refused, naming what it acts on", async () => {
+-  const said = await calendar([], given())
+-  expect(said.code).toBe(1)
+-  expect(said.refusals[0]).toContain("auth")
+-  expect(said.refusals[0]).toContain("events")
+-})
+-
+-test("a subject it does not act on is refused", () => {
+-  expect(refusedBy(["mailbox"])[0]).toContain("mailbox")
+-})
+-
+-test("a subject named with no act is refused, naming the acts", () => {
+-  expect(refusedBy(["events"])[0]).toContain("create")
+-})
+-
+-test("an act the subject does not carry is refused", () => {
+-  expect(refusedBy(["events", "archive"])[0]).toContain("archive")
+-})
+-
+-test("a flag it does not take at all is refused", () => {
+-  expect(refusedBy(["events", "list", "--colour", "red"])[0]).toContain("--colour")
+-})
+-
+-test("a flag another act takes is refused under this one", () => {
+-  expect(refusedBy(["events", "list", "--status", "accepted"])[0]).toContain("--status")
+-})
+-
+-test("a flag with no value after it is refused", () => {
+-  expect(refusedBy(["events", "get", "--event"])[0]).toContain("takes a value")
+-})
+-
+-test("a flag said twice over is refused", () => {
+-  expect(refusedBy(["events", "get", "--event", "a", "--event", "b"])[0]).toContain("twice")
+-})
+-
+-test("an act naming no event where one is needed is refused", () => {
+-  expect(refusedBy(["events", "get"])[0]).toContain("--event")
+-})
+-
+-test("the event is read from the word after the act", () => {
+-  const read = readIn(["events", "get", "abc123"])
+-  if ("refused" in read) throw new Error("this was refused")
+-  expect(read.said.get("--event")).toBe("abc123")
+-})
+-
+-test("an event named in place and as a flag is refused", () => {
+-  expect(refusedBy(["events", "get", "abc123", "--event", "abc123"])[0]).toContain("in place")
+-})
+-
+-test("a second word after the event is refused", () => {
+-  expect(refusedBy(["events", "get", "abc123", "def456"])[0]).toContain("one event")
+-})
+-
+-test("a word after an act that names nothing in place is refused", () => {
+-  expect(refusedBy(["events", "list", "abc123"])[0]).toContain("names nothing in place")
+-})
+-
+-test("a create missing a field it takes is refused", () => {
+-  expect(refusedBy(["events", "create", "--summary", "Lunch"])[0]).toContain("--start")
+-})
+-
+-test("a max that is no whole number is refused", () => {
+-  expect(refusedBy(["events", "list", "--max", "ten"])[0]).toContain("--max")
+-})
+-
+-test("a status outside the three is refused", () => {
+-  expect(refusedBy(["events", "rsvp", "abc", "--status", "maybe"])[0]).toContain("--status")
+-})
+-
+-test("a send-updates outside the three is refused", () => {
+-  expect(
+-    refusedBy(["events", "rsvp", "abc", "--status", "accepted", "--send-updates", "some"])[0]
+-  ).toContain("--send-updates")
+-})
+-
+-test("a recurrence is kept once over for each rule rather than parted by commas", () => {
+-  const read = readIn([
+-    "events",
+-    "create",
+-    "--summary",
+-    "Sunday",
+-    "--start",
+-    "2026-06-21T10:30:00",
+-    "--end",
+-    "2026-06-21T11:30:00",
+-    "--recurrence",
+-    "FREQ=WEEKLY;BYDAY=SU",
+-    "--recurrence",
+-    "FREQ=YEARLY",
+-  ])
+-  if ("refused" in read) throw new Error("this was refused")
+-  expect(read.recurrence).toEqual(["FREQ=WEEKLY;BYDAY=SU", "FREQ=YEARLY"])
+-})
+-
+-test("a whole call reads to the act it named", () => {
+-  const read = readIn(["auth", "login", "--callback-url", "http://127.0.0.1:1/cb?code=x"])
+-  if ("refused" in read) throw new Error("this was refused")
+-  expect(read.act).toBe("auth login")
+-})
+diff --git a/command-system/commands/calendar/calendar.command.ts b/command-system/commands/calendar/calendar.command.ts
+deleted file mode 100644
+index 5a66b60214d986a808c2dcc299d7e73951ae1489..0000000000000000000000000000000000000000
+--- a/command-system/commands/calendar/calendar.command.ts
++++ /dev/null
+@@ -1,148 +0,0 @@
+-import type { Command } from "../command.page-type.ts"
+-
+-export const calendar = {
+-  id: "01a06809-e6ee-7c9b-8778-5da992d3080f",
+-  pageTypeSlug: "command",
+-  slug: "calendar",
+-  definition: "the command acting on Alan's Google calendar and the events on it",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-mechanical",
+-  taking: [
+-    {
+-      said: "auth",
+-      takes: "what to act on, which is the consent a calendar is reached as Alan on",
+-    },
+-    {
+-      said: "login",
+-      takes: "the act, which is to grant that consent once and mint a refresh token",
+-    },
+-    {
+-      said: "--callback-url <url>",
+-      takes:
+-        "the callback URL pasted from the browser, where the loopback listener cannot be reached",
+-    },
+-    { said: "events", takes: "what to act on, which is the events a calendar holds" },
+-    { said: "list", takes: "the act, which is to answer the events in a window" },
+-    { said: "get", takes: "the act, which is to answer one event named by its id" },
+-    {
+-      said: "create",
+-      takes: "the act, which is to place a new event and invite everyone named on it",
+-    },
+-    { said: "update", takes: "the act, which is to change the fields the call names on one event" },
+-    { said: "delete", takes: "the act, which is to take one event off its calendar" },
+-    { said: "rsvp", takes: "the act, which is to set Alan's own response on one event" },
+-    { said: "<id>", takes: "the event to act on, said in place after the act" },
+-    { said: "--event <id>", takes: "the event to act on, said as a flag rather than in place" },
+-    {
+-      said: "--calendar <id>",
+-      takes: "the calendar to act on, where `primary` and saying nothing both name Alan's own",
+-    },
+-    { said: "--from <iso>", takes: "where a list's window opens" },
+-    { said: "--to <iso>", takes: "where a list's window closes" },
+-    { said: "--query <text>", takes: "the text a list keeps an event for" },
+-    { said: "--max <n>", takes: "how many events a list answers with at most" },
+-    { said: "--summary <text>", takes: "the event's title" },
+-    { said: "--start <iso>", takes: "when the event opens, as a timestamp or as a date alone" },
+-    { said: "--end <iso>", takes: "when the event closes, as a timestamp or as a date alone" },
+-    { said: "--description <text>", takes: "the event's description" },
+-    { said: "--location <text>", takes: "the event's location" },
+-    {
+-      said: "--attendees <emails>",
+-      takes: "who attends, parted by commas, taking the place of whoever attends now",
+-    },
+-    {
+-      said: "--timezone <iana>",
+-      takes: "the IANA zone a start and an end carrying none are read in",
+-    },
+-    {
+-      said: "--recurrence <rrule>",
+-      takes: "one RRULE body, said once over for each rule it carries",
+-    },
+-    {
+-      said: "--send-updates <who>",
+-      takes: "who is emailed about the change, of `all`, `externalOnly` and `none`",
+-    },
+-    {
+-      said: "--status <status>",
+-      takes: "the response to set, of `accepted`, `declined` and `tentative`",
+-    },
+-  ],
+-  helpNotes: [
+-    "the words are in order, and one call names one act.",
+-    "an event is named in place after the act or as a flag, and naming it both ways over is refused.",
+-    "create, update and rsvp reach the calendar as Alan, so the invites and the responses carry his name.",
+-    "get, list and delete reach the calendar as the account akasha runs under rather than as Alan.",
+-    "the consent create, update and rsvp lean on is granted once by the login act.",
+-    "a date alone at both ends is a whole-day event, and its end is the day after the last day it covers.",
+-    "a zone is an IANA name rather than an offset, and a whole-day event carries none.",
+-    "an update changes the fields the call names and leaves every other field as it is.",
+-    "an rsvp writes the whole guest list back with Alan's response alone turned.",
+-    "an event an act answered with is reported as JSON.",
+-    "the minted refresh token is written to stdout by the consent round trip rather than answered here.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The subject to act on is the first word and the act is the second.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An event named in place and as a flag is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A call naming no calendar acts on Alan's own.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An act that writes an event reaches the calendar as Alan.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An act that only reads reaches the calendar as the account akasha runs under.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A start and an end are both a date alone or both a timestamp.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A whole-day event's end is the day after the last day the event covers.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A zone is an IANA name rather than a raw offset.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A whole-day event carries no zone.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An update leaves every field the call does not name as that field is.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A recurrence rule is said once over for each rule rather than parted by commas.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "An rsvp turns Alan's own response and leaves every other guest's response as that response is.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Everyone attending is emailed unless the call says who to email instead.",
+-    },
+-
+-    {
+-      invariantKind: "departure",
+-      statement: "A flag under an act that does not take that flag is refused.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads a calendar the call does not name or Alan does not own.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/command-system/commands/complexity/complexity.command.code.ts b/command-system/commands/complexity/complexity.command.code.ts
+deleted file mode 100644
+index a212579502b757df85b144ae9da2178c1c0504eb..0000000000000000000000000000000000000000
+--- a/command-system/commands/complexity/complexity.command.code.ts
++++ /dev/null
+@@ -1,271 +0,0 @@
+-import { resolve } from "node:path"
+-import {
+-  type AnalysisInputs,
+-  type CyclomaticRow,
+-  collectCyclomaticRows,
+-  collectHalsteadRows,
+-  collectMaintainabilityRows,
+-  type HalsteadRow,
+-  type MaintainabilityRow,
+-  percentile,
+-  resolveAnalysisInputs,
+-} from "@akasha/analysis-complexity/complexity-rows"
+-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+-import { quoted } from "../../seat-act-calling/seat-act-calling.module.code.ts"
+-
+-export const CYCLOMATIC = "cyclomatic"
+-
+-export const HALSTEAD = "halstead"
+-
+-export const MAINTAINABILITY = "maintainability"
+-
+-export const REPORT = "report"
+-
+-export const FILE = "--file"
+-
+-export const THRESHOLD = "--threshold"
+-
+-export const TOP = "--top"
+-
+-export const AS_JSON = "--json"
+-
+-const ACTS: readonly string[] = [CYCLOMATIC, HALSTEAD, MAINTAINABILITY, REPORT]
+-
+-const VALUED: readonly string[] = [FILE, THRESHOLD, TOP]
+-
+-const FLAGS: readonly string[] = [FILE, THRESHOLD, TOP, AS_JSON]
+-
+-const REPORT_TOP = 10
+-
+-export interface Wanted {
+-  readonly act: string
+-  readonly file: string | null
+-  readonly threshold: number | null
+-  readonly top: number | null
+-  readonly asJson: boolean
+-}
+-
+-export type Read = Wanted | { readonly refused: readonly string[] }
+-
+-function wholeOf(flag: string, value: string | undefined): number | string {
+-  if (value === undefined) return `${flag} names a whole number and nothing followed it`
+-  const many = Number(value)
+-  if (!Number.isInteger(many) || many < 0) {
+-    return `${flag} names a whole number of nought or more, and \`${value}\` is none`
+-  }
+-  return many
+-}
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const refusals: string[] = []
+-  let act: string | null = null
+-  let file: string | null = null
+-  let threshold: number | null = null
+-  let top: number | null = null
+-  let asJson = false
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (one === AS_JSON) {
+-      asJson = true
+-      continue
+-    }
+-    if (VALUED.includes(one)) {
+-      const value = argv[at + 1]
+-      at += 1
+-      if (one === FILE) {
+-        if (value === undefined) refusals.push(`${FILE} names a path and nothing followed it`)
+-        else file = value
+-        continue
+-      }
+-      const many = wholeOf(one, value)
+-      if (typeof many === "string") refusals.push(many)
+-      else if (one === THRESHOLD) threshold = many
+-      else top = many
+-      continue
+-    }
+-    if (one.startsWith("-")) {
+-      refusals.push(`\`${one}\` is no flag this takes — it takes ${quoted(FLAGS)}`)
+-      continue
+-    }
+-    if (act !== null) {
+-      refusals.push(`\`${one}\` follows the act \`${act}\`, and one call names one act`)
+-      continue
+-    }
+-    act = one
+-  }
+-  if (act === null) {
+-    return { refused: [...refusals, `this names no act — it carries ${quoted(ACTS)}`] }
+-  }
+-  if (!ACTS.includes(act)) {
+-    refusals.push(`\`${act}\` is no act this carries — it carries ${quoted(ACTS)}`)
+-  } else if (act === REPORT) {
+-    if (file !== null) {
+-      refusals.push(
+-        `${FILE} names one file to read, and \`${REPORT}\` is taken over the whole workspace`
+-      )
+-    }
+-    if (threshold !== null) {
+-      refusals.push(
+-        `${THRESHOLD} keeps the rows at a figure, and \`${REPORT}\` counts every row there is`
+-      )
+-    }
+-  }
+-  if (refusals.length > 0) return { refused: refusals }
+-  return { act, file, threshold, top, asJson }
+-}
+-
+-function fmt(one: number, digits = 2): string {
+-  return one.toFixed(digits)
+-}
+-
+-function inputsFor(root: string, file: string | null): AnalysisInputs {
+-  return resolveAnalysisInputs(file === null ? undefined : resolve(root, file))
+-}
+-
+-function kept<T>(rows: readonly T[], top: number | null): readonly T[] {
+-  return top === null ? rows : rows.slice(0, top)
+-}
+-
+-function cyclomaticLines(wanted: Wanted, root: string): readonly string[] {
+-  const rows = [...collectCyclomaticRows(inputsFor(root, wanted.file))].sort((a, b) => {
+-    if (b.cc !== a.cc) return b.cc - a.cc
+-    if (a.file !== b.file) return a.file.localeCompare(b.file)
+-    return a.line - b.line
+-  })
+-  const floor = wanted.threshold
+-  const over = floor === null ? rows : rows.filter((one) => one.cc >= floor)
+-  const shown = kept(over, wanted.top)
+-  if (wanted.asJson) return [JSON.stringify({ rows: shown })]
+-  return shown.map((one) => `${one.file}\t${one.function}\t${one.line}\t${one.cc}`)
+-}
+-
+-function halsteadLines(wanted: Wanted, root: string): readonly string[] {
+-  const rows = [...collectHalsteadRows(inputsFor(root, wanted.file))].sort((a, b) => {
+-    if (b.volume !== a.volume) return b.volume - a.volume
+-    if (a.file !== b.file) return a.file.localeCompare(b.file)
+-    return a.line - b.line
+-  })
+-  const floor = wanted.threshold
+-  const over = floor === null ? rows : rows.filter((one) => one.volume >= floor)
+-  const shown = kept(over, wanted.top)
+-  if (wanted.asJson) return [JSON.stringify({ rows: shown })]
+-  return shown.map(
+-    (one) =>
+-      `${one.file}\t${one.function}\t${one.line}\t${one.n1}\t${one.n2}\t${one.N1}\t${one.N2}\t` +
+-      `${fmt(one.volume)}\t${fmt(one.difficulty)}\t${fmt(one.effort)}\t${fmt(one.time)}\t${fmt(one.bugs)}`
+-  )
+-}
+-
+-function maintainabilityLines(wanted: Wanted, root: string): readonly string[] {
+-  const rows = [...collectMaintainabilityRows(inputsFor(root, wanted.file))].sort((a, b) => {
+-    if (a.mi !== b.mi) return a.mi - b.mi
+-    return a.file.localeCompare(b.file)
+-  })
+-  const ceiling = wanted.threshold
+-  const under = ceiling === null ? rows : rows.filter((one) => one.mi <= ceiling)
+-  const shown = kept(under, wanted.top)
+-  if (wanted.asJson) return [JSON.stringify({ rows: shown })]
+-  return shown.map(
+-    (one) => `${one.file}\t${fmt(one.mi, 1)}\t${one.sloc}\t${one.ccSum}\t${fmt(one.volumeSum)}`
+-  )
+-}
+-
+-export interface MetricSummary {
+-  readonly p50: number
+-  readonly p75: number
+-  readonly p90: number
+-  readonly p95: number
+-  readonly p99: number
+-  readonly max: number
+-  readonly count: number
+-}
+-
+-export function summaryOf(values: readonly number[]): MetricSummary {
+-  const sorted = [...values].sort((a, b) => a - b)
+-  return {
+-    p50: percentile(sorted, 50),
+-    p75: percentile(sorted, 75),
+-    p90: percentile(sorted, 90),
+-    p95: percentile(sorted, 95),
+-    p99: percentile(sorted, 99),
+-    max: sorted[sorted.length - 1] ?? 0,
+-    count: sorted.length,
+-  }
+-}
+-
+-function sectionLines(title: string, summary: MetricSummary, digits: number): readonly string[] {
+-  return [
+-    `# ${title}  (n=${summary.count})`,
+-    `p50\t${fmt(summary.p50, digits)}`,
+-    `p75\t${fmt(summary.p75, digits)}`,
+-    `p90\t${fmt(summary.p90, digits)}`,
+-    `p95\t${fmt(summary.p95, digits)}`,
+-    `p99\t${fmt(summary.p99, digits)}`,
+-    `max\t${fmt(summary.max, digits)}`,
+-  ]
+-}
+-
+-interface Rolled {
+-  readonly cyclomatic: MetricSummary & { readonly top: readonly CyclomaticRow[] }
+-  readonly halstead: MetricSummary & { readonly top: readonly HalsteadRow[] }
+-  readonly maintainability: MetricSummary & { readonly top: readonly MaintainabilityRow[] }
+-}
+-
+-function reportLines(wanted: Wanted, root: string): readonly string[] {
+-  const top = wanted.top ?? REPORT_TOP
+-  const inputs = inputsFor(root, null)
+-  const cc = collectCyclomaticRows(inputs)
+-  const hs = collectHalsteadRows(inputs)
+-  const mi = collectMaintainabilityRows(inputs)
+-  const ccTop = [...cc].sort((a, b) => b.cc - a.cc).slice(0, top)
+-  const hsTop = [...hs].sort((a, b) => b.volume - a.volume).slice(0, top)
+-  const miTop = [...mi].sort((a, b) => a.mi - b.mi).slice(0, top)
+-  const ccSaid = summaryOf(cc.map((one) => one.cc))
+-  const hsSaid = summaryOf(hs.map((one) => one.volume))
+-  const miSaid = summaryOf(mi.map((one) => one.mi))
+-  if (wanted.asJson) {
+-    const rolled: Rolled = {
+-      cyclomatic: { ...ccSaid, top: ccTop },
+-      halstead: { ...hsSaid, top: hsTop },
+-      maintainability: { ...miSaid, top: miTop },
+-    }
+-    return [JSON.stringify(rolled)]
+-  }
+-  const lines: string[] = [...sectionLines("Cyclomatic Complexity (per function)", ccSaid, 0)]
+-  if (ccTop.length > 0) {
+-    lines.push("", "## top by cc")
+-    for (const one of ccTop) lines.push(`${one.cc}\t${one.file}\t${one.function}:${one.line}`)
+-  }
+-  lines.push("", ...sectionLines("Halstead Volume (per function)", hsSaid, 2))
+-  if (hsTop.length > 0) {
+-    lines.push("", "## top by volume")
+-    for (const one of hsTop) {
+-      lines.push(`${fmt(one.volume)}\t${one.file}\t${one.function}:${one.line}`)
+-    }
+-  }
+-  lines.push("", ...sectionLines("Maintainability Index (per file)", miSaid, 1))
+-  if (miTop.length > 0) {
+-    lines.push("", "## bottom by mi")
+-    for (const one of miTop) lines.push(`${fmt(one.mi, 1)}\t${one.file}`)
+-  }
+-  return lines
+-}
+-
+-function linesFor(wanted: Wanted, root: string): readonly string[] {
+-  if (wanted.act === CYCLOMATIC) return cyclomaticLines(wanted, root)
+-  if (wanted.act === HALSTEAD) return halsteadLines(wanted, root)
+-  if (wanted.act === MAINTAINABILITY) return maintainabilityLines(wanted, root)
+-  return reportLines(wanted, root)
+-}
+-
+-export function complexity(argv: readonly string[], given: Given): Answer {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+-  try {
+-    return { report: [...linesFor(read, resolve(given.root))], refusals: [], code: 0 }
+-  } catch (thrown) {
+-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+-  }
+-}
+diff --git a/command-system/commands/complexity/complexity.command.test.ts b/command-system/commands/complexity/complexity.command.test.ts
+deleted file mode 100644
+index 79dc45b6bfd8b3fb66d1aa50a80811724ab812e3..0000000000000000000000000000000000000000
+--- a/command-system/commands/complexity/complexity.command.test.ts
++++ /dev/null
+@@ -1,138 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { join } from "node:path"
+-import type { Given } from "../../calling/calling.module.code.ts"
+-import { complexity, readIn, summaryOf } from "./complexity.command.code.ts"
+-
+-const OWN = join(import.meta.dir, "complexity.command.code.ts")
+-
+-function given(root: string): Given {
+-  return { root, calledAs: "akasha complexity", from: root, writer: null, agentId: null }
+-}
+-
+-test("a call naming no act is refused, saying the acts it carries", () => {
+-  const read = readIn([])
+-
+-  expect("refused" in read).toBe(true)
+-  if (!("refused" in read)) return
+-  expect(read.refused[0]).toContain("cyclomatic")
+-  expect(read.refused[0]).toContain("report")
+-})
+-
+-test("an act this does not carry is refused by name", () => {
+-  const read = readIn(["cognitive"])
+-
+-  expect("refused" in read).toBe(true)
+-  if (!("refused" in read)) return
+-  expect(read.refused[0]).toContain("`cognitive`")
+-})
+-
+-test("one call names one act", () => {
+-  const read = readIn(["cyclomatic", "halstead"])
+-
+-  expect("refused" in read).toBe(true)
+-  if (!("refused" in read)) return
+-  expect(read.refused[0]).toContain("one act")
+-})
+-
+-test("a flag this does not take is refused rather than read as an act", () => {
+-  const read = readIn(["--cyclomatic"])
+-
+-  expect("refused" in read).toBe(true)
+-  if (!("refused" in read)) return
+-  expect(read.refused[0]).toContain("`--cyclomatic`")
+-})
+-
+-test("a count that is no whole number is refused, naming what was said", () => {
+-  const read = readIn(["cyclomatic", "--top", "two"])
+-
+-  expect("refused" in read).toBe(true)
+-  if (!("refused" in read)) return
+-  expect(read.refused[0]).toContain("`two`")
+-})
+-
+-test("the report is taken over the whole workspace, so it takes no file", () => {
+-  const read = readIn(["report", "--file", "tools/one.ts"])
+-
+-  expect("refused" in read).toBe(true)
+-  if (!("refused" in read)) return
+-  expect(read.refused[0]).toContain("--file")
+-})
+-
+-test("the report counts every row, so it takes no threshold", () => {
+-  const read = readIn(["report", "--threshold", "5"])
+-
+-  expect("refused" in read).toBe(true)
+-  if (!("refused" in read)) return
+-  expect(read.refused[0]).toContain("--threshold")
+-})
+-
+-test("what was said is read into the act and its flags", () => {
+-  const read = readIn([
+-    "maintainability",
+-    "--file",
+-    "a.ts",
+-    "--threshold",
+-    "40",
+-    "--top",
+-    "3",
+-    "--json",
+-  ])
+-
+-  expect("refused" in read).toBe(false)
+-  if ("refused" in read) return
+-  expect(read).toEqual({
+-    act: "maintainability",
+-    file: "a.ts",
+-    threshold: 40,
+-    top: 3,
+-    asJson: true,
+-  })
+-})
+-
+-test("a run over one file answers a row for each of its functions", () => {
+-  const said = complexity(["cyclomatic", "--file", OWN], given("/repo"))
+-
+-  expect(said.code).toBe(0)
+-  expect(said.refusals).toEqual([])
+-  expect(said.report.length).toBeGreaterThan(0)
+-  expect(said.report[0]).toContain("\t")
+-})
+-
+-test("rows are ordered worst first, so the highest complexity leads", () => {
+-  const said = complexity(["cyclomatic", "--file", OWN], given("/repo"))
+-  const cc = said.report.map((one) => Number(one.split("\t")[3]))
+-
+-  expect(cc).toEqual([...cc].sort((a, b) => b - a))
+-})
+-
+-test("a threshold no row reaches answers empty rather than refusing", () => {
+-  const said = complexity(["cyclomatic", "--file", OWN, "--threshold", "100000"], given("/repo"))
+-
+-  expect(said.code).toBe(0)
+-  expect(said.report).toEqual([])
+-})
+-
+-test("the top keeps that many rows", () => {
+-  const said = complexity(["cyclomatic", "--file", OWN, "--top", "2"], given("/repo"))
+-
+-  expect(said.report.length).toBe(2)
+-})
+-
+-test("the json answer is one line", () => {
+-  const said = complexity(["cyclomatic", "--file", OWN, "--json"], given("/repo"))
+-
+-  expect(said.report.length).toBe(1)
+-  expect(String(said.report[0]).startsWith('{"rows":')).toBe(true)
+-})
+-
+-test("a file that will not open is passed over rather than refused", () => {
+-  const said = complexity(["cyclomatic", "--file", "/nowhere/at/all.ts"], given("/repo"))
+-
+-  expect(said.code).toBe(0)
+-  expect(said.refusals).toEqual([])
+-  expect(said.report).toEqual([])
+-})
+-
+-test("a summary over nothing counts nothing rather than throwing", () => {
+-  expect(summaryOf([])).toEqual({ p50: 0, p75: 0, p90: 0, p95: 0, p99: 0, max: 0, count: 0 })
+-})
+diff --git a/command-system/commands/complexity/complexity.command.ts b/command-system/commands/complexity/complexity.command.ts
+deleted file mode 100644
+index 7e7c6cf10471bd4cca4d17bec68ab518867c4410..0000000000000000000000000000000000000000
+--- a/command-system/commands/complexity/complexity.command.ts
++++ /dev/null
+@@ -1,95 +0,0 @@
+-import type { Command } from "../command.page-type.ts"
+-
+-export const complexity = {
+-  id: "01a0680b-94d1-745a-98c7-ad24f22fec92",
+-  pageTypeSlug: "command",
+-  slug: "complexity",
+-  definition: "the command saying how complex each function and file of a checkout's TypeScript is",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "cyclomatic", takes: "the act, which is the McCabe complexity of each function" },
+-    { said: "halstead", takes: "the act, which is each function's token counts and what follows" },
+-    { said: "maintainability", takes: "the act, which is the maintainability index of each file" },
+-    { said: "report", takes: "the act, which is every metric by percentile with its outliers" },
+-    { said: "--file <path>", takes: "the one file to read, said from the repository root" },
+-    { said: "--threshold <n>", takes: "the figure a row must reach to be in the answer" },
+-    { said: "--top <n>", takes: "how many rows are in the answer, worst first" },
+-    { said: "--json", takes: "the rows as one line of JSON rather than as tab-separated columns" },
+-  ],
+-  helpNotes: [
+-    "the act is the first word, and one call names one act.",
+-    "cyclomatic complexity is one over the decision points: if, case, for, while, do, catch, ternary, each `&&`, `||`, `??`, and each `?.`.",
+-    "else and finally are no decision point and count for nothing.",
+-    "halstead counts the distinct and the total operators and operands of a function, and volume, difficulty, effort, time and bugs follow from those four.",
+-    "type annotations and comments sit outside the halstead counts.",
+-    "the maintainability index is the Visual Studio variant over halstead volume, the cyclomatic sum and the source lines a file holds.",
+-    "blank lines and comment-only lines are no source line.",
+-    "the index rises as a file shortens, so splitting one function in two raises it though neither the decision points nor the vocabulary changed.",
+-    "`report` says p50, p75, p90, p95, p99 and the maximum, because complexity follows a power law and a mean hides the outliers the maintenance is spent on.",
+-    "`--threshold` keeps the rows at or over the figure, and under `maintainability` keeps the rows at or under it, since a low index is the bad one.",
+-    "`report` takes `--top` alone, and carries ten of each metric where none is said.",
+-    "an answer is figures rather than violations, so nothing here refuses a body for being complex.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The act is the first word.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "One call names one act.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An act this command does not carry is refused rather than answered as nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A flag an act does not take is refused against that act by name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A cyclomatic row is one function and a maintainability row is one file.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Rows are ordered worst first.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Worst is the highest complexity and the lowest maintainability index.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A threshold is a floor for every metric but the maintainability index.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A threshold is a ceiling for the maintainability index.",
+-    },
+-
+-    {
+-      invariantKind: "departure",
+-      statement: "A file that will not open is passed over rather than refusing the rest.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A scope holding no row is answered empty rather than refused.",
+-    },
+-    {
+-      invariantKind: "stopgap",
+-      statement:
+-        "The workspace read is the workspace the process is in rather than the root the call names.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A run writes nothing.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here judges a figure against a limit.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/command-system/commands/drive/drive.command.code.ts b/command-system/commands/drive/drive.command.code.ts
+deleted file mode 100644
+index f52f5f55f901387975e88cea88042c0bbdd03a7a..0000000000000000000000000000000000000000
+--- a/command-system/commands/drive/drive.command.code.ts
++++ /dev/null
+@@ -1,231 +0,0 @@
+-import { mkdir } from "node:fs/promises"
+-import { basename, isAbsolute, join, resolve } from "node:path"
+-import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
+-import { DRIVE_SCOPES } from "@akasha/google-drive/env"
+-import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
+-import { googleOauthConsent } from "@akasha/google-oauth/oauth-consent"
+-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+-import { refused } from "../../calling/calling.module.code.ts"
+-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+-import { quoted } from "../../seat-act-calling/seat-act-calling.module.code.ts"
+-
+-export const AUTH = "auth"
+-
+-export const FETCH = "fetch"
+-
+-const LOGIN = "login"
+-
+-const CALLBACK_URL = "--callback-url"
+-
+-const SOURCE = "--source"
+-
+-const OUT = "--out"
+-
+-const REFRESH_TOKEN_VAR = "GOOGLE_DRIVE_OAUTH_REFRESH_TOKEN"
+-
+-const ACTS: Readonly<Record<string, readonly string[]>> = {
+-  [AUTH]: [LOGIN],
+-  [FETCH]: [],
+-}
+-
+-const TAKES: Readonly<Record<string, readonly string[]>> = {
+-  [`${AUTH} ${LOGIN}`]: [CALLBACK_URL],
+-  [FETCH]: [SOURCE, OUT],
+-}
+-
+-const VALUED = new Set([CALLBACK_URL, SOURCE, OUT])
+-
+-export type Read =
+-  | { readonly act: string; readonly said: ReadonlyMap<string, string> }
+-  | { readonly refused: readonly string[] }
+-
+-function reading(argv: readonly string[]): {
+-  readonly refusals: readonly string[]
+-  readonly words: readonly string[]
+-  readonly said: Map<string, string>
+-} {
+-  const refusals: string[] = []
+-  const words: string[] = []
+-  const said = new Map<string, string>()
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (!one.startsWith("-")) {
+-      words.push(one)
+-      continue
+-    }
+-    if (!VALUED.has(one)) {
+-      refusals.push(`\`${one}\` is no flag this takes`)
+-      continue
+-    }
+-    const value = argv[at + 1]
+-    if (value === undefined || value.startsWith("--")) {
+-      refusals.push(`\`${one}\` takes a value, and none followed it`)
+-      continue
+-    }
+-    at += 1
+-    if (said.has(one)) {
+-      refusals.push(`\`${one}\` is said twice over, and it takes one value`)
+-      continue
+-    }
+-    said.set(one, value)
+-  }
+-  return { refusals, words, said }
+-}
+-
+-function actIn(words: readonly string[], refusals: string[]): { act: string; rest: number } | null {
+-  const first = words[0]
+-  if (first === undefined) {
+-    refusals.push(`this names no act — it carries ${quoted(Object.keys(ACTS))}`)
+-    return null
+-  }
+-  const under = ACTS[first]
+-  if (under === undefined) {
+-    refusals.push(`\`${first}\` is no act this carries — it carries ${quoted(Object.keys(ACTS))}`)
+-    return null
+-  }
+-  if (under.length === 0) return { act: first, rest: 1 }
+-  const second = words[1]
+-  if (second === undefined) {
+-    refusals.push(`\`${first}\` names no act — it carries ${quoted(under)}`)
+-    return null
+-  }
+-  if (!under.includes(second)) {
+-    refusals.push(`\`${second}\` is no act \`${first}\` carries — it carries ${quoted(under)}`)
+-    return null
+-  }
+-  return { act: `${first} ${second}`, rest: 2 }
+-}
+-
+-function placing(
+-  act: string,
+-  rest: readonly string[],
+-  said: Map<string, string>,
+-  refusals: string[]
+-): undefined {
+-  const first = rest[0]
+-  if (first === undefined) return
+-  if (act !== FETCH) {
+-    refusals.push(`\`${first}\` follows \`${act}\`, which names nothing in place`)
+-    return
+-  }
+-  if (rest.length > 1) {
+-    refusals.push(`\`${rest[1]}\` follows the file, and one call names one file`)
+-    return
+-  }
+-  if (said.has(SOURCE)) {
+-    refusals.push(`\`${first}\` names the file in place where \`${SOURCE}\` names it too`)
+-    return
+-  }
+-  said.set(SOURCE, first)
+-}
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const held = reading(argv)
+-  const refusals = [...held.refusals]
+-  const found = actIn(held.words, refusals)
+-  if (found === null) return { refused: refusals }
+-  placing(found.act, held.words.slice(found.rest), held.said, refusals)
+-  const takes = TAKES[found.act] ?? []
+-  for (const one of held.said.keys()) {
+-    if (!takes.includes(one)) refusals.push(`\`${one}\` is no flag \`${found.act}\` takes`)
+-  }
+-  if (found.act === FETCH && !held.said.has(SOURCE)) {
+-    refusals.push(`\`${FETCH}\` takes the file to fetch, and none was named`)
+-  }
+-  if (refusals.length > 0) return { refused: refusals }
+-  return { act: found.act, said: held.said }
+-}
+-
+-export function folderOf(said: string | undefined, root: string, from: string): string {
+-  if (said === undefined) return from
+-  return isAbsolute(said) ? said : resolve(root, said)
+-}
+-
+-function statusOf(thrown: unknown): number | undefined {
+-  if (typeof thrown !== "object" || thrown === null) return undefined
+-  const status = (thrown as { readonly status?: unknown }).status
+-  return typeof status === "number" ? status : undefined
+-}
+-
+-async function loggingIn(said: ReadonlyMap<string, string>): Promise<Answer> {
+-  const { clientId, clientSecret } = readGoogleOauthAppCredentials()
+-  await googleOauthConsent({
+-    scopes: [...DRIVE_SCOPES],
+-    clientId,
+-    clientSecret,
+-    tokenVar: REFRESH_TOKEN_VAR,
+-    callbackUrl: said.get(CALLBACK_URL),
+-  })
+-  return {
+-    report: [`consent was granted, and the round trip wrote \`${REFRESH_TOKEN_VAR}\` out itself`],
+-    refusals: [],
+-    code: 0,
+-  }
+-}
+-
+-function reachSaid(thrown: unknown, fileId: string): Answer | null {
+-  const status = statusOf(thrown)
+-  if (status === 404) {
+-    return refused(
+-      `Drive holds no file ${fileId} this consent can reach — check the id, and that the file ` +
+-        "is shared with the account the consent was granted for",
+-      2
+-    )
+-  }
+-  if (status === 401 || status === 403) {
+-    return refused(
+-      `Drive turned the request for ${fileId} away with ${status} — the consent held is missing ` +
+-        "or too narrow, and the login act grants a fresh one",
+-      3
+-    )
+-  }
+-  return null
+-}
+-
+-async function fetching(
+-  said: ReadonlyMap<string, string>,
+-  root: string,
+-  from: string
+-): Promise<Answer> {
+-  const files = await import("@akasha/google-drive/files")
+-  const fileId = files.parseDriveFileId(said.get(SOURCE) ?? "")
+-  const folder = folderOf(said.get(OUT), root, from)
+-  const { makeDriveClient } = await import("@akasha/google-drive/client")
+-  const client = await makeDriveClient()
+-  try {
+-    const metadata = await files.fetchFileMetadata(client, fileId)
+-    if (files.isNativeGoogleDoc(metadata.mimeType)) {
+-      return refused(
+-        `"${metadata.name}" is a native Google ${metadata.mimeType ?? "app"} file holding no ` +
+-          "bytes to download, and exporting one sits outside what this reaches",
+-        1
+-      )
+-    }
+-    const bytes = await files.downloadFileBytes(client, fileId)
+-    const name = basename(metadata.name).trim()
+-    if (name === "" || name === "." || name === "..") {
+-      return refused(
+-        `Drive file ${fileId} carries a name nothing can be written under: "${metadata.name}"`,
+-        3
+-      )
+-    }
+-    const at = join(folder, name)
+-    await mkdir(folder, { recursive: true })
+-    await Bun.write(at, bytes)
+-    return { report: [isAbsolute(at) ? at : resolve(at)], refusals: [], code: 0 }
+-  } catch (thrown) {
+-    return reachSaid(thrown, fileId) ?? refused(whyOf(thrown), exitCodeForThrowable(thrown))
+-  }
+-}
+-
+-export async function drive(argv: readonly string[], given: Given): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+-  try {
+-    if (read.act === FETCH) return await fetching(read.said, resolve(given.root), given.from)
+-    return await loggingIn(read.said)
+-  } catch (thrown) {
+-    return refused(`${given.calledAs} ${read.act} — ${whyOf(thrown)}`, exitCodeForThrowable(thrown))
+-  }
+-}
+diff --git a/command-system/commands/drive/drive.command.test.ts b/command-system/commands/drive/drive.command.test.ts
+deleted file mode 100644
+index 998a3acc3710ba26e7a688ed56a25a193bd0ef3c..0000000000000000000000000000000000000000
+--- a/command-system/commands/drive/drive.command.test.ts
++++ /dev/null
+@@ -1,77 +0,0 @@
+-import { expect, test } from "bun:test"
+-import type { Given } from "../../calling/calling.module.code.ts"
+-import { refusingWith } from "../../calling/calling.module.test-fixtures.ts"
+-import { drive, folderOf, readIn } from "./drive.command.code.ts"
+-
+-function given(): Given {
+-  return {
+-    root: "/nowhere",
+-    calledAs: "akasha drive",
+-    from: "/called/from",
+-    writer: null,
+-    agentId: null,
+-  }
+-}
+-
+-const refusedBy = refusingWith(readIn)
+-
+-test("nothing said is refused, naming the acts", async () => {
+-  const said = await drive([], given())
+-  expect(said.code).toBe(1)
+-  expect(said.refusals[0]).toContain("fetch")
+-  expect(said.refusals[0]).toContain("auth")
+-})
+-
+-test("an act it does not carry is refused", () => {
+-  expect(refusedBy(["upload"])[0]).toContain("upload")
+-})
+-
+-test("the consent named with no act is refused", () => {
+-  expect(refusedBy(["auth"])[0]).toContain("login")
+-})
+-
+-test("a fetch naming no file is refused", () => {
+-  expect(refusedBy(["fetch"])[0]).toContain("none was named")
+-})
+-
+-test("a flag it does not take is refused", () => {
+-  expect(refusedBy(["fetch", "abc", "--depth", "2"])[0]).toContain("--depth")
+-})
+-
+-test("a flag another act takes is refused under this one", () => {
+-  expect(refusedBy(["auth", "login", "--out", "/elsewhere"])[0]).toContain("--out")
+-})
+-
+-test("a flag with no value after it is refused", () => {
+-  expect(refusedBy(["fetch", "--source"])[0]).toContain("takes a value")
+-})
+-
+-test("the file is read from the word after the act", () => {
+-  const read = readIn(["fetch", "1AbC"])
+-  if ("refused" in read) throw new Error("this was refused")
+-  expect(read.said.get("--source")).toBe("1AbC")
+-})
+-
+-test("a file named in place and as a flag is refused", () => {
+-  expect(refusedBy(["fetch", "1AbC", "--source", "1AbC"])[0]).toContain("in place")
+-})
+-
+-test("a second file is refused", () => {
+-  expect(refusedBy(["fetch", "1AbC", "2DeF"])[0]).toContain("one file")
+-})
+-
+-test("a word after the consent act is refused", () => {
+-  expect(refusedBy(["auth", "login", "extra"])[0]).toContain("names nothing in place")
+-})
+-
+-test("a folder named as a relative path is read against the repository root", () => {
+-  expect(folderOf("album", "/repo", "/called/from")).toBe("/repo/album")
+-})
+-
+-test("a folder named as an absolute path is taken as it is", () => {
+-  expect(folderOf("/pictures/in", "/repo", "/called/from")).toBe("/pictures/in")
+-})
+-
+-test("naming no folder writes into the folder the call came from", () => {
+-  expect(folderOf(undefined, "/repo", "/called/from")).toBe("/called/from")
+-})
+diff --git a/command-system/commands/drive/drive.command.ts b/command-system/commands/drive/drive.command.ts
+deleted file mode 100644
+index 6c57f40bc40ead90f4ed538cdd814b99a7556368..0000000000000000000000000000000000000000
+--- a/command-system/commands/drive/drive.command.ts
++++ /dev/null
+@@ -1,95 +0,0 @@
+-import type { Command } from "../command.page-type.ts"
+-
+-export const drive = {
+-  id: "01a06809-e6ee-78ea-b3d7-34282c2848ae",
+-  pageTypeSlug: "command",
+-  slug: "drive",
+-  definition: "the command acting on the files in Alan's Google Drive",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-mechanical",
+-  taking: [
+-    { said: "auth", takes: "what to act on, which is the consent Drive is reached as Alan on" },
+-    {
+-      said: "login",
+-      takes: "the act, which is to grant that consent once and mint a refresh token",
+-    },
+-    {
+-      said: "--callback-url <url>",
+-      takes:
+-        "the callback URL pasted from the browser, where the loopback listener cannot be reached",
+-    },
+-    {
+-      said: "fetch",
+-      takes: "the act, which is to write one Drive file to disk under its Drive name",
+-    },
+-    { said: "<url-or-id>", takes: "the file to fetch, said in place as a share URL or a bare id" },
+-    {
+-      said: "--source <url-or-id>",
+-      takes: "the file to fetch, said as a flag rather than in place",
+-    },
+-    { said: "--out <dir>", takes: "the folder to write into, made where nothing is there" },
+-  ],
+-  helpNotes: [
+-    "the words are in order, and one call names one act.",
+-    "the file is named in place after the act or as a flag, and naming it both ways over is refused.",
+-    "every Drive URL shape is read for the id it carries, and a bare id is taken as it is.",
+-    "the name the file lands under on disk is the name Drive holds for it.",
+-    "a folder named here is read against the repository root, and naming none writes into the folder the call came from.",
+-    "a Docs, Sheets or Slides file holds no bytes to download and is refused rather than exported.",
+-    "the consent a fetch leans on is granted once by the login act, and it reaches Drive read-only.",
+-    "the minted refresh token is written to stdout by the consent round trip rather than answered here.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The first word is the act.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Only the consent takes a second word.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A file named in place and as a flag is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A share URL and a bare id name the same file.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The name a fetched file lands under is the name Drive holds for that file.",
+-    },
+-
+-    {
+-      invariantKind: "departure",
+-      statement: "A call naming no folder writes into the folder the call came from.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A folder that is not there is made before the file is written.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A file in a native Google format is refused as the caller's mistake.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A file this consent cannot reach is answered as the data rather than as a fault.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Drive turning the consent away is answered as operational.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A Drive name that cannot be written to disk is answered as operational.",
+-    },
+-
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here writes to Drive.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/command-system/commands/icloud/icloud.command.code.ts b/command-system/commands/icloud/icloud.command.code.ts
+deleted file mode 100644
+index 8edea155d4c23e2164c5d8f4e087c19f1f6c301d..0000000000000000000000000000000000000000
+--- a/command-system/commands/icloud/icloud.command.code.ts
++++ /dev/null
+@@ -1,193 +0,0 @@
+-import { mkdir } from "node:fs/promises"
+-import { exitCodeForThrowable, OperationalError } from "@akasha/errors-core/exit-code"
+-import type { PhotoAsset } from "@akasha/icloud-photos/album-pulling"
+-import {
+-  buildQueryRequest,
+-  buildResolveRequest,
+-  dedupePaths,
+-  nextStartRank,
+-  parseQueryPage,
+-  parseResolveResponse,
+-  parseShareToken,
+-  resolveOutputDir,
+-} from "@akasha/icloud-photos/album-pulling"
+-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+-import { quoted } from "../../seat-act-calling/seat-act-calling.module.code.ts"
+-
+-export const FETCH = "fetch"
+-
+-const URL_FLAG = "--url"
+-
+-const OUT = "--out"
+-
+-const OUTPUT = "--output"
+-
+-const JSON_FLAG = "--json"
+-
+-const ACTS = [FETCH]
+-
+-const VALUED = new Set([URL_FLAG, OUT, OUTPUT])
+-
+-const BARE = new Set([JSON_FLAG])
+-
+-export type Read =
+-  | { readonly act: string; readonly said: ReadonlyMap<string, string>; readonly json: boolean }
+-  | { readonly refused: readonly string[] }
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const refusals: string[] = []
+-  const words: string[] = []
+-  const said = new Map<string, string>()
+-  let json = false
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (!one.startsWith("-")) {
+-      words.push(one)
+-      continue
+-    }
+-    if (BARE.has(one)) {
+-      json = true
+-      continue
+-    }
+-    if (!VALUED.has(one)) {
+-      refusals.push(`\`${one}\` is no flag this takes`)
+-      continue
+-    }
+-    const value = argv[at + 1]
+-    if (value === undefined || value.startsWith("--")) {
+-      refusals.push(`\`${one}\` takes a value, and none followed it`)
+-      continue
+-    }
+-    at += 1
+-    const key = one === OUTPUT ? OUT : one
+-    if (said.has(key)) {
+-      refusals.push(`\`${key}\` is said twice over, and it takes one value`)
+-      continue
+-    }
+-    said.set(key, value)
+-  }
+-  const act = words[0]
+-  if (act === undefined) {
+-    return { refused: [...refusals, `this names no act — it carries ${quoted(ACTS)}`] }
+-  }
+-  if (!ACTS.includes(act)) {
+-    return {
+-      refused: [...refusals, `\`${act}\` is no act this carries — it carries ${quoted(ACTS)}`],
+-    }
+-  }
+-  const rest = words.slice(1)
+-  const first = rest[0]
+-  if (first !== undefined) {
+-    if (rest.length > 1) {
+-      refusals.push(`\`${rest[1]}\` follows the album, and one call names one album`)
+-    } else if (said.has(URL_FLAG)) {
+-      refusals.push(`\`${first}\` names the album in place where \`${URL_FLAG}\` names it too`)
+-    } else {
+-      said.set(URL_FLAG, first)
+-    }
+-  }
+-  if (!said.has(URL_FLAG)) {
+-    refusals.push(`\`${FETCH}\` takes the album to fetch, and none was named`)
+-  }
+-  if (refusals.length > 0) return { refused: refusals }
+-  return { act, said, json }
+-}
+-
+-export function folderOf(said: string | undefined, root: string, from: string): string {
+-  return said === undefined ? from : resolveOutputDir(said, root)
+-}
+-
+-async function postJson(url: string, body: unknown): Promise<unknown> {
+-  let answer: Response
+-  try {
+-    answer = await fetch(url, {
+-      method: "POST",
+-      headers: { "Content-Type": "application/json" },
+-      body: JSON.stringify(body),
+-    })
+-  } catch (thrown) {
+-    throw new OperationalError(`the iCloud request failed: ${whyOf(thrown)}`)
+-  }
+-  if (!answer.ok) {
+-    throw new OperationalError(`iCloud answered ${answer.status} ${answer.statusText}`)
+-  }
+-  try {
+-    return await answer.json()
+-  } catch {
+-    throw new OperationalError("what iCloud answered with is no JSON")
+-  }
+-}
+-
+-async function downloadTo(url: string, at: string): Promise<void> {
+-  let answer: Response
+-  try {
+-    answer = await fetch(url)
+-  } catch (thrown) {
+-    throw new OperationalError(`the download for ${at} failed: ${whyOf(thrown)}`)
+-  }
+-  if (!answer.ok) {
+-    throw new OperationalError(
+-      `the download for ${at} answered ${answer.status} ${answer.statusText}`
+-    )
+-  }
+-  await Bun.write(at, await answer.arrayBuffer())
+-}
+-
+-async function everyAsset(raw: unknown): Promise<readonly PhotoAsset[]> {
+-  const held = parseResolveResponse(raw)
+-  const assets: PhotoAsset[] = []
+-  let startRank = 0
+-  for (;;) {
+-    const asked = buildQueryRequest(held, startRank)
+-    const page = parseQueryPage(await postJson(asked.url, asked.body))
+-    assets.push(...page)
+-    const next = nextStartRank(startRank, page.length)
+-    if (next === undefined) break
+-    startRank = next
+-  }
+-  return assets
+-}
+-
+-async function fetching(
+-  read: {
+-    readonly said: ReadonlyMap<string, string>
+-    readonly json: boolean
+-  },
+-  root: string,
+-  from: string
+-): Promise<Answer> {
+-  const shareUrl = read.said.get(URL_FLAG) ?? ""
+-  const token = parseShareToken(shareUrl)
+-  const asked = buildResolveRequest(token)
+-  const assets = await everyAsset(await postJson(asked.url, asked.body))
+-  if (assets.length === 0) {
+-    return { report: [], refusals: [`the shared album at ${shareUrl} holds no photo`], code: 2 }
+-  }
+-  const folder = folderOf(read.said.get(OUT), root, from)
+-  await mkdir(folder, { recursive: true })
+-  const targets = dedupePaths(assets, folder)
+-  for (const target of targets) await downloadTo(target.asset.downloadURL, target.path)
+-  return {
+-    report: targets.map((one) =>
+-      read.json ? JSON.stringify({ path: one.path }) : `path\t${one.path}`
+-    ),
+-    refusals: [],
+-    code: 0,
+-  }
+-}
+-
+-export async function icloud(argv: readonly string[], given: Given): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+-  try {
+-    return await fetching(read, given.root, given.from)
+-  } catch (thrown) {
+-    return {
+-      report: [],
+-      refusals: [`${given.calledAs} ${read.act} — ${whyOf(thrown)}`],
+-      code: exitCodeForThrowable(thrown),
+-    }
+-  }
+-}
+diff --git a/command-system/commands/icloud/icloud.command.test.ts b/command-system/commands/icloud/icloud.command.test.ts
+deleted file mode 100644
+index b2a4c8682b9e918b812001efc505feaced2dc5e1..0000000000000000000000000000000000000000
+--- a/command-system/commands/icloud/icloud.command.test.ts
++++ /dev/null
+@@ -1,82 +0,0 @@
+-import { expect, test } from "bun:test"
+-import type { Given } from "../../calling/calling.module.code.ts"
+-import { refusingWith } from "../../calling/calling.module.test-fixtures.ts"
+-import { folderOf, icloud, readIn } from "./icloud.command.code.ts"
+-
+-const ALBUM = "https://share.icloud.com/photos/0ABCdef"
+-
+-function given(): Given {
+-  return {
+-    root: "/nowhere",
+-    calledAs: "akasha icloud",
+-    from: "/called/from",
+-    writer: null,
+-    agentId: null,
+-  }
+-}
+-
+-const refusedBy = refusingWith(readIn)
+-
+-test("nothing said is refused, naming the act", async () => {
+-  const said = await icloud([], given())
+-  expect(said.code).toBe(1)
+-  expect(said.refusals[0]).toContain("fetch")
+-})
+-
+-test("an act it does not carry is refused", () => {
+-  expect(refusedBy(["push"])[0]).toContain("push")
+-})
+-
+-test("a fetch naming no album is refused", () => {
+-  expect(refusedBy(["fetch"])[0]).toContain("none was named")
+-})
+-
+-test("a flag it does not take is refused", () => {
+-  expect(refusedBy(["fetch", ALBUM, "--since", "2026"])[0]).toContain("--since")
+-})
+-
+-test("a flag with no value after it is refused", () => {
+-  expect(refusedBy(["fetch", "--url"])[0]).toContain("takes a value")
+-})
+-
+-test("the album is read from the word after the act", () => {
+-  const read = readIn(["fetch", ALBUM])
+-  if ("refused" in read) throw new Error("this was refused")
+-  expect(read.said.get("--url")).toBe(ALBUM)
+-})
+-
+-test("an album named in place and as a flag is refused", () => {
+-  expect(refusedBy(["fetch", ALBUM, "--url", ALBUM])[0]).toContain("in place")
+-})
+-
+-test("a second album is refused", () => {
+-  expect(refusedBy(["fetch", ALBUM, ALBUM])[0]).toContain("one album")
+-})
+-
+-test("the older spelling of the folder flag is read as the folder flag", () => {
+-  const read = readIn(["fetch", ALBUM, "--output", "/pictures"])
+-  if ("refused" in read) throw new Error("this was refused")
+-  expect(read.said.get("--out")).toBe("/pictures")
+-})
+-
+-test("the folder flag said under both spellings is refused", () => {
+-  expect(refusedBy(["fetch", ALBUM, "--out", "/a", "--output", "/b"])[0]).toContain("twice")
+-})
+-
+-test("the json flag is alone and takes no value", () => {
+-  const read = readIn(["fetch", ALBUM, "--json"])
+-  if ("refused" in read) throw new Error("this was refused")
+-  expect(read.json).toBe(true)
+-})
+-
+-test("a folder named as a relative path is read against the repository root", () => {
+-  expect(folderOf("album", "/repo", "/called/from")).toBe("/repo/album")
+-})
+-
+-test("a folder named as an absolute path is taken as it is", () => {
+-  expect(folderOf("/pictures/in", "/repo", "/called/from")).toBe("/pictures/in")
+-})
+-
+-test("naming no folder writes into the folder the call came from", () => {
+-  expect(folderOf(undefined, "/repo", "/called/from")).toBe("/called/from")
+-})
+diff --git a/command-system/commands/icloud/icloud.command.ts b/command-system/commands/icloud/icloud.command.ts
+deleted file mode 100644
+index 37527e21aec8e852e9f33eb74850374925c3974d..0000000000000000000000000000000000000000
+--- a/command-system/commands/icloud/icloud.command.ts
++++ /dev/null
+@@ -1,84 +0,0 @@
+-import type { Command } from "../command.page-type.ts"
+-
+-export const icloud = {
+-  id: "01a06809-e6ee-767a-a4ca-40bb4b0c44c0",
+-  pageTypeSlug: "command",
+-  slug: "icloud",
+-  definition: "the command acting on the photos an iCloud shared album holds",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-mechanical",
+-  taking: [
+-    { said: "fetch", takes: "the act, which is to write every photo in an album to disk" },
+-    { said: "<share-url>", takes: "the album to fetch, said in place as its share URL" },
+-    { said: "--url <share-url>", takes: "the album to fetch, said as a flag rather than in place" },
+-    { said: "--out <dir>", takes: "the folder to write into, made where nothing is there" },
+-    {
+-      said: "--json",
+-      takes: "report each written path as a JSON object rather than as a path alone",
+-    },
+-  ],
+-  helpNotes: [
+-    "the album is named in place after the act or as a flag, and naming it both ways over is refused.",
+-    "the share link alone reaches the album, so no Apple account and no credential is asked for.",
+-    "the album is walked a page at a time until no photo is left, and every original resource is written as it is stored.",
+-    "two photos of one name land under names told apart rather than one written over the other.",
+-    "a folder named here is read against the repository root, and naming none writes into the folder the call came from.",
+-    "an album holding no photo is answered as the data rather than as an empty run.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The first word is the act.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An album named in place and as a flag is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A URL that is no iCloud share is the caller's mistake.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The share link alone reaches the album.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every photo the album holds is written rather than the first page alone.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A photo is written as the original resource is stored.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Two photos carrying one name land under names told apart.",
+-    },
+-
+-    {
+-      invariantKind: "departure",
+-      statement: "A call naming no folder writes into the folder the call came from.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A folder nothing is at is made before a photo is written.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An album holding no photo is answered as the data.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A response iCloud could not be read from is answered as operational.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here holds an Apple credential.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here writes to the album.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/commands/pages/calendar/calendar.command.code.ts b/commands/pages/calendar/calendar.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b9408dc76f444e23beb1c74ca88747eaa99f444f
+--- /dev/null
++++ b/commands/pages/calendar/calendar.command.code.ts
+@@ -0,0 +1,381 @@
++import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
++import { CALENDAR_OAUTH_SCOPE } from "@akasha/google-calendar/env"
++import { narrowSendUpdates, SEND_UPDATES } from "@akasha/google-calendar/send-updates-narrowing"
++import type { EventInput, EventPatch, RsvpStatus } from "@akasha/google-calendar/types"
++import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
++import { googleOauthConsent } from "@akasha/google-oauth/oauth-consent"
++import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
++import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
++import { quoted } from "../../../command-system/seat-act-calling/seat-act-calling.module.code.ts"
++
++export const AUTH = "auth"
++
++export const EVENTS = "events"
++
++const LOGIN = "login"
++
++const CREATE = "create"
++
++const DELETE = "delete"
++
++const GET = "get"
++
++const LIST = "list"
++
++const RSVP = "rsvp"
++
++const UPDATE = "update"
++
++const CALLBACK_URL = "--callback-url"
++
++const CALENDAR = "--calendar"
++
++const EVENT = "--event"
++
++const FROM = "--from"
++
++const TO = "--to"
++
++const QUERY = "--query"
++
++const MAX = "--max"
++
++const SUMMARY = "--summary"
++
++const START = "--start"
++
++const END = "--end"
++
++const DESCRIPTION = "--description"
++
++const LOCATION = "--location"
++
++const ATTENDEES = "--attendees"
++
++const TIMEZONE = "--timezone"
++
++const RECURRENCE = "--recurrence"
++
++const SENDING = "--send-updates"
++
++const STATUS = "--status"
++
++const REFRESH_TOKEN_VAR = "GOOGLE_CALENDAR_OAUTH_REFRESH_TOKEN"
++
++const STATUSES: readonly RsvpStatus[] = ["accepted", "declined", "tentative"]
++
++const ACTS: Readonly<Record<string, readonly string[]>> = {
++  [AUTH]: [LOGIN],
++  [EVENTS]: [CREATE, DELETE, GET, LIST, RSVP, UPDATE],
++}
++
++const SHAPING = [SUMMARY, START, END, DESCRIPTION, LOCATION, ATTENDEES, TIMEZONE, RECURRENCE]
++
++const TAKES: Readonly<Record<string, readonly string[]>> = {
++  [`${AUTH} ${LOGIN}`]: [CALLBACK_URL],
++  [`${EVENTS} ${LIST}`]: [CALENDAR, FROM, TO, QUERY, MAX],
++  [`${EVENTS} ${GET}`]: [CALENDAR, EVENT],
++  [`${EVENTS} ${DELETE}`]: [CALENDAR, EVENT],
++  [`${EVENTS} ${CREATE}`]: [CALENDAR, ...SHAPING, SENDING],
++  [`${EVENTS} ${UPDATE}`]: [CALENDAR, EVENT, ...SHAPING, SENDING],
++  [`${EVENTS} ${RSVP}`]: [CALENDAR, EVENT, STATUS, SENDING],
++}
++
++const NEEDS: Readonly<Record<string, readonly string[]>> = {
++  [`${EVENTS} ${GET}`]: [EVENT],
++  [`${EVENTS} ${DELETE}`]: [EVENT],
++  [`${EVENTS} ${CREATE}`]: [SUMMARY, START, END],
++  [`${EVENTS} ${UPDATE}`]: [EVENT],
++  [`${EVENTS} ${RSVP}`]: [EVENT, STATUS],
++}
++
++const IN_PLACE = new Set([
++  `${EVENTS} ${GET}`,
++  `${EVENTS} ${DELETE}`,
++  `${EVENTS} ${UPDATE}`,
++  `${EVENTS} ${RSVP}`,
++])
++
++const VALUED = new Set([
++  CALLBACK_URL,
++  CALENDAR,
++  EVENT,
++  FROM,
++  TO,
++  QUERY,
++  MAX,
++  SUMMARY,
++  START,
++  END,
++  DESCRIPTION,
++  LOCATION,
++  ATTENDEES,
++  TIMEZONE,
++  RECURRENCE,
++  SENDING,
++  STATUS,
++])
++
++export type Read =
++  | {
++      readonly act: string
++      readonly said: ReadonlyMap<string, string>
++      readonly recurrence: readonly string[]
++    }
++  | { readonly refused: readonly string[] }
++
++function wholeNumber(raw: string): number | null {
++  if (!/^\d+$/.test(raw)) return null
++  const held = Number(raw)
++  return Number.isSafeInteger(held) ? held : null
++}
++
++function emails(raw: string | undefined): readonly string[] | undefined {
++  return raw === undefined ? undefined : raw.split(",").map((one) => one.trim())
++}
++
++function rules(said: readonly string[]): readonly string[] | undefined {
++  return said.length > 0 ? said : undefined
++}
++
++function jsonSaid(value: unknown): readonly string[] {
++  return JSON.stringify(value, null, 2).split("\n")
++}
++
++function reading(argv: readonly string[]): {
++  readonly refusals: readonly string[]
++  readonly words: readonly string[]
++  readonly said: Map<string, string>
++  readonly recurrence: readonly string[]
++} {
++  const refusals: string[] = []
++  const words: string[] = []
++  const said = new Map<string, string>()
++  const recurrence: string[] = []
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (!one.startsWith("-")) {
++      words.push(one)
++      continue
++    }
++    if (!VALUED.has(one)) {
++      refusals.push(`\`${one}\` is no flag this takes`)
++      continue
++    }
++    const value = argv[at + 1]
++    if (value === undefined || value.startsWith("--")) {
++      refusals.push(`\`${one}\` takes a value, and none followed it`)
++      continue
++    }
++    at += 1
++    if (one === RECURRENCE) {
++      recurrence.push(value)
++      continue
++    }
++    if (said.has(one)) {
++      refusals.push(`\`${one}\` is said twice over, and it takes one value`)
++      continue
++    }
++    said.set(one, value)
++  }
++  return { refusals, words, said, recurrence }
++}
++
++function actIn(words: readonly string[], refusals: string[]): string | null {
++  const on = words[0]
++  if (on === undefined) {
++    refusals.push(`this names nothing to act on — it acts on ${quoted(Object.keys(ACTS))}`)
++    return null
++  }
++  const acts = ACTS[on]
++  if (acts === undefined) {
++    refusals.push(`\`${on}\` is nothing this acts on — it acts on ${quoted(Object.keys(ACTS))}`)
++    return null
++  }
++  const act = words[1]
++  if (act === undefined) {
++    refusals.push(`\`${on}\` names no act — it carries ${quoted(acts)}`)
++    return null
++  }
++  if (!acts.includes(act)) {
++    refusals.push(`\`${act}\` is no act \`${on}\` carries — it carries ${quoted(acts)}`)
++    return null
++  }
++  return `${on} ${act}`
++}
++
++function placing(
++  act: string,
++  rest: readonly string[],
++  said: Map<string, string>,
++  refusals: string[]
++): undefined {
++  const first = rest[0]
++  if (first === undefined) return
++  if (!IN_PLACE.has(act)) {
++    refusals.push(`\`${first}\` follows \`${act}\`, which names nothing in place`)
++    return
++  }
++  if (rest.length > 1) {
++    refusals.push(`\`${rest[1]}\` follows the event, and one call names one event`)
++    return
++  }
++  if (said.has(EVENT)) {
++    refusals.push(`\`${first}\` names the event in place where \`${EVENT}\` names it too`)
++    return
++  }
++  said.set(EVENT, first)
++}
++
++function valuing(act: string, said: ReadonlyMap<string, string>, refusals: string[]): undefined {
++  const max = said.get(MAX)
++  if (max !== undefined && wholeNumber(max) === null) {
++    refusals.push(`\`${MAX}\` takes a whole number of events, and \`${max}\` is none`)
++  }
++  const status = said.get(STATUS)
++  if (status !== undefined && !STATUSES.some((one) => one === status)) {
++    refusals.push(`\`${STATUS}\` takes ${quoted(STATUSES)}, and \`${status}\` is none of them`)
++  }
++  const sending = said.get(SENDING)
++  if (sending !== undefined && !SEND_UPDATES.some((one) => one === sending)) {
++    refusals.push(
++      `\`${SENDING}\` takes ${quoted(SEND_UPDATES)}, and \`${sending}\` is none of them`
++    )
++  }
++  for (const one of NEEDS[act] ?? []) {
++    if (!said.has(one)) refusals.push(`\`${act}\` takes \`${one}\`, and none was said`)
++  }
++}
++
++export function readIn(argv: readonly string[]): Read {
++  const held = reading(argv)
++  const refusals = [...held.refusals]
++  const act = actIn(held.words, refusals)
++  if (act === null) return { refused: refusals }
++  placing(act, held.words.slice(2), held.said, refusals)
++  const takes = TAKES[act] ?? []
++  for (const one of held.said.keys()) {
++    if (!takes.includes(one)) refusals.push(`\`${one}\` is no flag \`${act}\` takes`)
++  }
++  if (held.recurrence.length > 0 && !takes.includes(RECURRENCE)) {
++    refusals.push(`\`${RECURRENCE}\` is no flag \`${act}\` takes`)
++  }
++  valuing(act, held.said, refusals)
++  if (refusals.length > 0) return { refused: refusals }
++  return { act, said: held.said, recurrence: held.recurrence }
++}
++
++async function loggingIn(said: ReadonlyMap<string, string>): Promise<Answer> {
++  const { clientId, clientSecret } = readGoogleOauthAppCredentials()
++  await googleOauthConsent({
++    scopes: [CALENDAR_OAUTH_SCOPE],
++    clientId,
++    clientSecret,
++    tokenVar: REFRESH_TOKEN_VAR,
++    callbackUrl: said.get(CALLBACK_URL),
++  })
++  return {
++    report: [`consent was granted, and the round trip wrote \`${REFRESH_TOKEN_VAR}\` out itself`],
++    refusals: [],
++    code: 0,
++  }
++}
++
++function inputOf(said: ReadonlyMap<string, string>, recurrence: readonly string[]): EventInput {
++  return {
++    calendarId: said.get(CALENDAR),
++    summary: said.get(SUMMARY) ?? "",
++    start: said.get(START) ?? "",
++    end: said.get(END) ?? "",
++    description: said.get(DESCRIPTION),
++    location: said.get(LOCATION),
++    attendees: emails(said.get(ATTENDEES)),
++    timezone: said.get(TIMEZONE),
++    recurrence: rules(recurrence),
++    sendUpdates: narrowSendUpdates(said.get(SENDING)),
++  }
++}
++
++function patchOf(said: ReadonlyMap<string, string>, recurrence: readonly string[]): EventPatch {
++  return {
++    calendarId: said.get(CALENDAR),
++    eventId: said.get(EVENT) ?? "",
++    summary: said.get(SUMMARY),
++    start: said.get(START),
++    end: said.get(END),
++    description: said.get(DESCRIPTION),
++    location: said.get(LOCATION),
++    attendees: emails(said.get(ATTENDEES)),
++    timezone: said.get(TIMEZONE),
++    recurrence: rules(recurrence),
++    sendUpdates: narrowSendUpdates(said.get(SENDING)),
++  }
++}
++
++async function asAlan() {
++  return await (await import("@akasha/google-calendar/client")).makeOAuthCalendarClient()
++}
++
++async function asAkasha() {
++  return await (await import("@akasha/google-calendar/client")).makeCalendarClient()
++}
++
++async function acting(read: {
++  readonly act: string
++  readonly said: ReadonlyMap<string, string>
++  readonly recurrence: readonly string[]
++}): Promise<Answer> {
++  const { act, said, recurrence } = read
++  if (act === `${AUTH} ${LOGIN}`) return await loggingIn(said)
++  const events = await import("@akasha/google-calendar/events")
++  const answered = (value: unknown): Answer => ({ report: jsonSaid(value), refusals: [], code: 0 })
++  if (act === `${EVENTS} ${LIST}`) {
++    const max = said.get(MAX)
++    return answered(
++      await events.listEvents(await asAkasha(), {
++        calendarId: said.get(CALENDAR),
++        from: said.get(FROM),
++        to: said.get(TO),
++        query: said.get(QUERY),
++        max: max === undefined ? undefined : (wholeNumber(max) ?? undefined),
++      })
++    )
++  }
++  const eventId = said.get(EVENT) ?? ""
++  const calendarId = said.get(CALENDAR)
++  if (act === `${EVENTS} ${GET}`) {
++    return answered(await events.getEvent(await asAkasha(), { calendarId, eventId }))
++  }
++  if (act === `${EVENTS} ${DELETE}`) {
++    return answered(await events.deleteEvent(await asAkasha(), { calendarId, eventId }))
++  }
++  if (act === `${EVENTS} ${CREATE}`) {
++    return answered(await events.createEvent(await asAlan(), inputOf(said, recurrence)))
++  }
++  if (act === `${EVENTS} ${UPDATE}`) {
++    return answered(await events.updateEvent(await asAlan(), patchOf(said, recurrence)))
++  }
++  return answered(
++    await events.rsvpEvent(await asAlan(), {
++      calendarId,
++      eventId,
++      status: (said.get(STATUS) ?? "accepted") as RsvpStatus,
++      sendUpdates: narrowSendUpdates(said.get(SENDING)),
++    })
++  )
++}
++
++export async function calendar(argv: readonly string[], given: Given): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
++  try {
++    return await acting(read)
++  } catch (thrown) {
++    return {
++      report: [],
++      refusals: [`${given.calledAs} ${read.act} — ${whyOf(thrown)}`],
++      code: exitCodeForThrowable(thrown),
++    }
++  }
++}
+diff --git a/commands/pages/calendar/calendar.command.test.ts b/commands/pages/calendar/calendar.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5163f1c4b7ec87765d67e40a8943474ca747e81c
+--- /dev/null
++++ b/commands/pages/calendar/calendar.command.test.ts
+@@ -0,0 +1,116 @@
++import { expect, test } from "bun:test"
++import type { Given } from "../../../command-system/calling/calling.module.code.ts"
++import { refusingWith } from "../../../command-system/calling/calling.module.test-fixtures.ts"
++import { calendar, readIn } from "./calendar.command.code.ts"
++
++function given(): Given {
++  return {
++    root: "/nowhere",
++    calledAs: "akasha calendar",
++    from: "/nowhere",
++    writer: null,
++    agentId: null,
++  }
++}
++
++const refusedBy = refusingWith(readIn)
++
++test("nothing said is refused, naming what it acts on", async () => {
++  const said = await calendar([], given())
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).toContain("auth")
++  expect(said.refusals[0]).toContain("events")
++})
++
++test("a subject it does not act on is refused", () => {
++  expect(refusedBy(["mailbox"])[0]).toContain("mailbox")
++})
++
++test("a subject named with no act is refused, naming the acts", () => {
++  expect(refusedBy(["events"])[0]).toContain("create")
++})
++
++test("an act the subject does not carry is refused", () => {
++  expect(refusedBy(["events", "archive"])[0]).toContain("archive")
++})
++
++test("a flag it does not take at all is refused", () => {
++  expect(refusedBy(["events", "list", "--colour", "red"])[0]).toContain("--colour")
++})
++
++test("a flag another act takes is refused under this one", () => {
++  expect(refusedBy(["events", "list", "--status", "accepted"])[0]).toContain("--status")
++})
++
++test("a flag with no value after it is refused", () => {
++  expect(refusedBy(["events", "get", "--event"])[0]).toContain("takes a value")
++})
++
++test("a flag said twice over is refused", () => {
++  expect(refusedBy(["events", "get", "--event", "a", "--event", "b"])[0]).toContain("twice")
++})
++
++test("an act naming no event where one is needed is refused", () => {
++  expect(refusedBy(["events", "get"])[0]).toContain("--event")
++})
++
++test("the event is read from the word after the act", () => {
++  const read = readIn(["events", "get", "abc123"])
++  if ("refused" in read) throw new Error("this was refused")
++  expect(read.said.get("--event")).toBe("abc123")
++})
++
++test("an event named in place and as a flag is refused", () => {
++  expect(refusedBy(["events", "get", "abc123", "--event", "abc123"])[0]).toContain("in place")
++})
++
++test("a second word after the event is refused", () => {
++  expect(refusedBy(["events", "get", "abc123", "def456"])[0]).toContain("one event")
++})
++
++test("a word after an act that names nothing in place is refused", () => {
++  expect(refusedBy(["events", "list", "abc123"])[0]).toContain("names nothing in place")
++})
++
++test("a create missing a field it takes is refused", () => {
++  expect(refusedBy(["events", "create", "--summary", "Lunch"])[0]).toContain("--start")
++})
++
++test("a max that is no whole number is refused", () => {
++  expect(refusedBy(["events", "list", "--max", "ten"])[0]).toContain("--max")
++})
++
++test("a status outside the three is refused", () => {
++  expect(refusedBy(["events", "rsvp", "abc", "--status", "maybe"])[0]).toContain("--status")
++})
++
++test("a send-updates outside the three is refused", () => {
++  expect(
++    refusedBy(["events", "rsvp", "abc", "--status", "accepted", "--send-updates", "some"])[0]
++  ).toContain("--send-updates")
++})
++
++test("a recurrence is kept once over for each rule rather than parted by commas", () => {
++  const read = readIn([
++    "events",
++    "create",
++    "--summary",
++    "Sunday",
++    "--start",
++    "2026-06-21T10:30:00",
++    "--end",
++    "2026-06-21T11:30:00",
++    "--recurrence",
++    "FREQ=WEEKLY;BYDAY=SU",
++    "--recurrence",
++    "FREQ=YEARLY",
++  ])
++  if ("refused" in read) throw new Error("this was refused")
++  expect(read.recurrence).toEqual(["FREQ=WEEKLY;BYDAY=SU", "FREQ=YEARLY"])
++})
++
++test("a whole call reads to the act it named", () => {
++  const read = readIn(["auth", "login", "--callback-url", "http://127.0.0.1:1/cb?code=x"])
++  if ("refused" in read) throw new Error("this was refused")
++  expect(read.act).toBe("auth login")
++})
+diff --git a/commands/pages/calendar/calendar.command.ts b/commands/pages/calendar/calendar.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e5e20fbb70bc359fbd6e328a5ae037d5d83f722a
+--- /dev/null
++++ b/commands/pages/calendar/calendar.command.ts
+@@ -0,0 +1,148 @@
++import type { Command } from "../../../command-system/commands/command.page-type.ts"
++
++export const calendar = {
++  id: "01a06809-e6ee-7c9b-8778-5da992d3080f",
++  pageTypeSlug: "command",
++  slug: "calendar",
++  definition: "the command acting on Alan's Google calendar and the events on it",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-mechanical",
++  taking: [
++    {
++      said: "auth",
++      takes: "what to act on, which is the consent a calendar is reached as Alan on",
++    },
++    {
++      said: "login",
++      takes: "the act, which is to grant that consent once and mint a refresh token",
++    },
++    {
++      said: "--callback-url <url>",
++      takes:
++        "the callback URL pasted from the browser, where the loopback listener cannot be reached",
++    },
++    { said: "events", takes: "what to act on, which is the events a calendar holds" },
++    { said: "list", takes: "the act, which is to answer the events in a window" },
++    { said: "get", takes: "the act, which is to answer one event named by its id" },
++    {
++      said: "create",
++      takes: "the act, which is to place a new event and invite everyone named on it",
++    },
++    { said: "update", takes: "the act, which is to change the fields the call names on one event" },
++    { said: "delete", takes: "the act, which is to take one event off its calendar" },
++    { said: "rsvp", takes: "the act, which is to set Alan's own response on one event" },
++    { said: "<id>", takes: "the event to act on, said in place after the act" },
++    { said: "--event <id>", takes: "the event to act on, said as a flag rather than in place" },
++    {
++      said: "--calendar <id>",
++      takes: "the calendar to act on, where `primary` and saying nothing both name Alan's own",
++    },
++    { said: "--from <iso>", takes: "where a list's window opens" },
++    { said: "--to <iso>", takes: "where a list's window closes" },
++    { said: "--query <text>", takes: "the text a list keeps an event for" },
++    { said: "--max <n>", takes: "how many events a list answers with at most" },
++    { said: "--summary <text>", takes: "the event's title" },
++    { said: "--start <iso>", takes: "when the event opens, as a timestamp or as a date alone" },
++    { said: "--end <iso>", takes: "when the event closes, as a timestamp or as a date alone" },
++    { said: "--description <text>", takes: "the event's description" },
++    { said: "--location <text>", takes: "the event's location" },
++    {
++      said: "--attendees <emails>",
++      takes: "who attends, parted by commas, taking the place of whoever attends now",
++    },
++    {
++      said: "--timezone <iana>",
++      takes: "the IANA zone a start and an end carrying none are read in",
++    },
++    {
++      said: "--recurrence <rrule>",
++      takes: "one RRULE body, said once over for each rule it carries",
++    },
++    {
++      said: "--send-updates <who>",
++      takes: "who is emailed about the change, of `all`, `externalOnly` and `none`",
++    },
++    {
++      said: "--status <status>",
++      takes: "the response to set, of `accepted`, `declined` and `tentative`",
++    },
++  ],
++  helpNotes: [
++    "the words are in order, and one call names one act.",
++    "an event is named in place after the act or as a flag, and naming it both ways over is refused.",
++    "create, update and rsvp reach the calendar as Alan, so the invites and the responses carry his name.",
++    "get, list and delete reach the calendar as the account akasha runs under rather than as Alan.",
++    "the consent create, update and rsvp lean on is granted once by the login act.",
++    "a date alone at both ends is a whole-day event, and its end is the day after the last day it covers.",
++    "a zone is an IANA name rather than an offset, and a whole-day event carries none.",
++    "an update changes the fields the call names and leaves every other field as it is.",
++    "an rsvp writes the whole guest list back with Alan's response alone turned.",
++    "an event an act answered with is reported as JSON.",
++    "the minted refresh token is written to stdout by the consent round trip rather than answered here.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The subject to act on is the first word and the act is the second.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An event named in place and as a flag is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A call naming no calendar acts on Alan's own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An act that writes an event reaches the calendar as Alan.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An act that only reads reaches the calendar as the account akasha runs under.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A start and an end are both a date alone or both a timestamp.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A whole-day event's end is the day after the last day the event covers.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A zone is an IANA name rather than a raw offset.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A whole-day event carries no zone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An update leaves every field the call does not name as that field is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A recurrence rule is said once over for each rule rather than parted by commas.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "An rsvp turns Alan's own response and leaves every other guest's response as that response is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Everyone attending is emailed unless the call says who to email instead.",
++    },
++
++    {
++      invariantKind: "departure",
++      statement: "A flag under an act that does not take that flag is refused.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a calendar the call does not name or Alan does not own.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/complexity/complexity.command.code.ts b/commands/pages/complexity/complexity.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2d955be4d09cc4a1cb13b8e8a083cd793fb0cc2f
+--- /dev/null
++++ b/commands/pages/complexity/complexity.command.code.ts
+@@ -0,0 +1,271 @@
++import { resolve } from "node:path"
++import {
++  type AnalysisInputs,
++  type CyclomaticRow,
++  collectCyclomaticRows,
++  collectHalsteadRows,
++  collectMaintainabilityRows,
++  type HalsteadRow,
++  type MaintainabilityRow,
++  percentile,
++  resolveAnalysisInputs,
++} from "@akasha/analysis-complexity/complexity-rows"
++import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
++import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
++import { quoted } from "../../../command-system/seat-act-calling/seat-act-calling.module.code.ts"
++
++export const CYCLOMATIC = "cyclomatic"
++
++export const HALSTEAD = "halstead"
++
++export const MAINTAINABILITY = "maintainability"
++
++export const REPORT = "report"
++
++export const FILE = "--file"
++
++export const THRESHOLD = "--threshold"
++
++export const TOP = "--top"
++
++export const AS_JSON = "--json"
++
++const ACTS: readonly string[] = [CYCLOMATIC, HALSTEAD, MAINTAINABILITY, REPORT]
++
++const VALUED: readonly string[] = [FILE, THRESHOLD, TOP]
++
++const FLAGS: readonly string[] = [FILE, THRESHOLD, TOP, AS_JSON]
++
++const REPORT_TOP = 10
++
++export interface Wanted {
++  readonly act: string
++  readonly file: string | null
++  readonly threshold: number | null
++  readonly top: number | null
++  readonly asJson: boolean
++}
++
++export type Read = Wanted | { readonly refused: readonly string[] }
++
++function wholeOf(flag: string, value: string | undefined): number | string {
++  if (value === undefined) return `${flag} names a whole number and nothing followed it`
++  const many = Number(value)
++  if (!Number.isInteger(many) || many < 0) {
++    return `${flag} names a whole number of nought or more, and \`${value}\` is none`
++  }
++  return many
++}
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  let act: string | null = null
++  let file: string | null = null
++  let threshold: number | null = null
++  let top: number | null = null
++  let asJson = false
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (one === AS_JSON) {
++      asJson = true
++      continue
++    }
++    if (VALUED.includes(one)) {
++      const value = argv[at + 1]
++      at += 1
++      if (one === FILE) {
++        if (value === undefined) refusals.push(`${FILE} names a path and nothing followed it`)
++        else file = value
++        continue
++      }
++      const many = wholeOf(one, value)
++      if (typeof many === "string") refusals.push(many)
++      else if (one === THRESHOLD) threshold = many
++      else top = many
++      continue
++    }
++    if (one.startsWith("-")) {
++      refusals.push(`\`${one}\` is no flag this takes — it takes ${quoted(FLAGS)}`)
++      continue
++    }
++    if (act !== null) {
++      refusals.push(`\`${one}\` follows the act \`${act}\`, and one call names one act`)
++      continue
++    }
++    act = one
++  }
++  if (act === null) {
++    return { refused: [...refusals, `this names no act — it carries ${quoted(ACTS)}`] }
++  }
++  if (!ACTS.includes(act)) {
++    refusals.push(`\`${act}\` is no act this carries — it carries ${quoted(ACTS)}`)
++  } else if (act === REPORT) {
++    if (file !== null) {
++      refusals.push(
++        `${FILE} names one file to read, and \`${REPORT}\` is taken over the whole workspace`
++      )
++    }
++    if (threshold !== null) {
++      refusals.push(
++        `${THRESHOLD} keeps the rows at a figure, and \`${REPORT}\` counts every row there is`
++      )
++    }
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { act, file, threshold, top, asJson }
++}
++
++function fmt(one: number, digits = 2): string {
++  return one.toFixed(digits)
++}
++
++function inputsFor(root: string, file: string | null): AnalysisInputs {
++  return resolveAnalysisInputs(file === null ? undefined : resolve(root, file))
++}
++
++function kept<T>(rows: readonly T[], top: number | null): readonly T[] {
++  return top === null ? rows : rows.slice(0, top)
++}
++
++function cyclomaticLines(wanted: Wanted, root: string): readonly string[] {
++  const rows = [...collectCyclomaticRows(inputsFor(root, wanted.file))].sort((a, b) => {
++    if (b.cc !== a.cc) return b.cc - a.cc
++    if (a.file !== b.file) return a.file.localeCompare(b.file)
++    return a.line - b.line
++  })
++  const floor = wanted.threshold
++  const over = floor === null ? rows : rows.filter((one) => one.cc >= floor)
++  const shown = kept(over, wanted.top)
++  if (wanted.asJson) return [JSON.stringify({ rows: shown })]
++  return shown.map((one) => `${one.file}\t${one.function}\t${one.line}\t${one.cc}`)
++}
++
++function halsteadLines(wanted: Wanted, root: string): readonly string[] {
++  const rows = [...collectHalsteadRows(inputsFor(root, wanted.file))].sort((a, b) => {
++    if (b.volume !== a.volume) return b.volume - a.volume
++    if (a.file !== b.file) return a.file.localeCompare(b.file)
++    return a.line - b.line
++  })
++  const floor = wanted.threshold
++  const over = floor === null ? rows : rows.filter((one) => one.volume >= floor)
++  const shown = kept(over, wanted.top)
++  if (wanted.asJson) return [JSON.stringify({ rows: shown })]
++  return shown.map(
++    (one) =>
++      `${one.file}\t${one.function}\t${one.line}\t${one.n1}\t${one.n2}\t${one.N1}\t${one.N2}\t` +
++      `${fmt(one.volume)}\t${fmt(one.difficulty)}\t${fmt(one.effort)}\t${fmt(one.time)}\t${fmt(one.bugs)}`
++  )
++}
++
++function maintainabilityLines(wanted: Wanted, root: string): readonly string[] {
++  const rows = [...collectMaintainabilityRows(inputsFor(root, wanted.file))].sort((a, b) => {
++    if (a.mi !== b.mi) return a.mi - b.mi
++    return a.file.localeCompare(b.file)
++  })
++  const ceiling = wanted.threshold
++  const under = ceiling === null ? rows : rows.filter((one) => one.mi <= ceiling)
++  const shown = kept(under, wanted.top)
++  if (wanted.asJson) return [JSON.stringify({ rows: shown })]
++  return shown.map(
++    (one) => `${one.file}\t${fmt(one.mi, 1)}\t${one.sloc}\t${one.ccSum}\t${fmt(one.volumeSum)}`
++  )
++}
++
++export interface MetricSummary {
++  readonly p50: number
++  readonly p75: number
++  readonly p90: number
++  readonly p95: number
++  readonly p99: number
++  readonly max: number
++  readonly count: number
++}
++
++export function summaryOf(values: readonly number[]): MetricSummary {
++  const sorted = [...values].sort((a, b) => a - b)
++  return {
++    p50: percentile(sorted, 50),
++    p75: percentile(sorted, 75),
++    p90: percentile(sorted, 90),
++    p95: percentile(sorted, 95),
++    p99: percentile(sorted, 99),
++    max: sorted[sorted.length - 1] ?? 0,
++    count: sorted.length,
++  }
++}
++
++function sectionLines(title: string, summary: MetricSummary, digits: number): readonly string[] {
++  return [
++    `# ${title}  (n=${summary.count})`,
++    `p50\t${fmt(summary.p50, digits)}`,
++    `p75\t${fmt(summary.p75, digits)}`,
++    `p90\t${fmt(summary.p90, digits)}`,
++    `p95\t${fmt(summary.p95, digits)}`,
++    `p99\t${fmt(summary.p99, digits)}`,
++    `max\t${fmt(summary.max, digits)}`,
++  ]
++}
++
++interface Rolled {
++  readonly cyclomatic: MetricSummary & { readonly top: readonly CyclomaticRow[] }
++  readonly halstead: MetricSummary & { readonly top: readonly HalsteadRow[] }
++  readonly maintainability: MetricSummary & { readonly top: readonly MaintainabilityRow[] }
++}
++
++function reportLines(wanted: Wanted, root: string): readonly string[] {
++  const top = wanted.top ?? REPORT_TOP
++  const inputs = inputsFor(root, null)
++  const cc = collectCyclomaticRows(inputs)
++  const hs = collectHalsteadRows(inputs)
++  const mi = collectMaintainabilityRows(inputs)
++  const ccTop = [...cc].sort((a, b) => b.cc - a.cc).slice(0, top)
++  const hsTop = [...hs].sort((a, b) => b.volume - a.volume).slice(0, top)
++  const miTop = [...mi].sort((a, b) => a.mi - b.mi).slice(0, top)
++  const ccSaid = summaryOf(cc.map((one) => one.cc))
++  const hsSaid = summaryOf(hs.map((one) => one.volume))
++  const miSaid = summaryOf(mi.map((one) => one.mi))
++  if (wanted.asJson) {
++    const rolled: Rolled = {
++      cyclomatic: { ...ccSaid, top: ccTop },
++      halstead: { ...hsSaid, top: hsTop },
++      maintainability: { ...miSaid, top: miTop },
++    }
++    return [JSON.stringify(rolled)]
++  }
++  const lines: string[] = [...sectionLines("Cyclomatic Complexity (per function)", ccSaid, 0)]
++  if (ccTop.length > 0) {
++    lines.push("", "## top by cc")
++    for (const one of ccTop) lines.push(`${one.cc}\t${one.file}\t${one.function}:${one.line}`)
++  }
++  lines.push("", ...sectionLines("Halstead Volume (per function)", hsSaid, 2))
++  if (hsTop.length > 0) {
++    lines.push("", "## top by volume")
++    for (const one of hsTop) {
++      lines.push(`${fmt(one.volume)}\t${one.file}\t${one.function}:${one.line}`)
++    }
++  }
++  lines.push("", ...sectionLines("Maintainability Index (per file)", miSaid, 1))
++  if (miTop.length > 0) {
++    lines.push("", "## bottom by mi")
++    for (const one of miTop) lines.push(`${fmt(one.mi, 1)}\t${one.file}`)
++  }
++  return lines
++}
++
++function linesFor(wanted: Wanted, root: string): readonly string[] {
++  if (wanted.act === CYCLOMATIC) return cyclomaticLines(wanted, root)
++  if (wanted.act === HALSTEAD) return halsteadLines(wanted, root)
++  if (wanted.act === MAINTAINABILITY) return maintainabilityLines(wanted, root)
++  return reportLines(wanted, root)
++}
++
++export function complexity(argv: readonly string[], given: Given): Answer {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
++  try {
++    return { report: [...linesFor(read, resolve(given.root))], refusals: [], code: 0 }
++  } catch (thrown) {
++    return { report: [], refusals: [whyOf(thrown)], code: 3 }
++  }
++}
+diff --git a/commands/pages/complexity/complexity.command.test.ts b/commands/pages/complexity/complexity.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..14b13e0ec8248f1d29a399d00d06307d03a46980
+--- /dev/null
++++ b/commands/pages/complexity/complexity.command.test.ts
+@@ -0,0 +1,138 @@
++import { expect, test } from "bun:test"
++import { join } from "node:path"
++import type { Given } from "../../../command-system/calling/calling.module.code.ts"
++import { complexity, readIn, summaryOf } from "./complexity.command.code.ts"
++
++const OWN = join(import.meta.dir, "complexity.command.code.ts")
++
++function given(root: string): Given {
++  return { root, calledAs: "akasha complexity", from: root, writer: null, agentId: null }
++}
++
++test("a call naming no act is refused, saying the acts it carries", () => {
++  const read = readIn([])
++
++  expect("refused" in read).toBe(true)
++  if (!("refused" in read)) return
++  expect(read.refused[0]).toContain("cyclomatic")
++  expect(read.refused[0]).toContain("report")
++})
++
++test("an act this does not carry is refused by name", () => {
++  const read = readIn(["cognitive"])
++
++  expect("refused" in read).toBe(true)
++  if (!("refused" in read)) return
++  expect(read.refused[0]).toContain("`cognitive`")
++})
++
++test("one call names one act", () => {
++  const read = readIn(["cyclomatic", "halstead"])
++
++  expect("refused" in read).toBe(true)
++  if (!("refused" in read)) return
++  expect(read.refused[0]).toContain("one act")
++})
++
++test("a flag this does not take is refused rather than read as an act", () => {
++  const read = readIn(["--cyclomatic"])
++
++  expect("refused" in read).toBe(true)
++  if (!("refused" in read)) return
++  expect(read.refused[0]).toContain("`--cyclomatic`")
++})
++
++test("a count that is no whole number is refused, naming what was said", () => {
++  const read = readIn(["cyclomatic", "--top", "two"])
++
++  expect("refused" in read).toBe(true)
++  if (!("refused" in read)) return
++  expect(read.refused[0]).toContain("`two`")
++})
++
++test("the report is taken over the whole workspace, so it takes no file", () => {
++  const read = readIn(["report", "--file", "tools/one.ts"])
++
++  expect("refused" in read).toBe(true)
++  if (!("refused" in read)) return
++  expect(read.refused[0]).toContain("--file")
++})
++
++test("the report counts every row, so it takes no threshold", () => {
++  const read = readIn(["report", "--threshold", "5"])
++
++  expect("refused" in read).toBe(true)
++  if (!("refused" in read)) return
++  expect(read.refused[0]).toContain("--threshold")
++})
++
++test("what was said is read into the act and its flags", () => {
++  const read = readIn([
++    "maintainability",
++    "--file",
++    "a.ts",
++    "--threshold",
++    "40",
++    "--top",
++    "3",
++    "--json",
++  ])
++
++  expect("refused" in read).toBe(false)
++  if ("refused" in read) return
++  expect(read).toEqual({
++    act: "maintainability",
++    file: "a.ts",
++    threshold: 40,
++    top: 3,
++    asJson: true,
++  })
++})
++
++test("a run over one file answers a row for each of its functions", () => {
++  const said = complexity(["cyclomatic", "--file", OWN], given("/repo"))
++
++  expect(said.code).toBe(0)
++  expect(said.refusals).toEqual([])
++  expect(said.report.length).toBeGreaterThan(0)
++  expect(said.report[0]).toContain("\t")
++})
++
++test("rows are ordered worst first, so the highest complexity leads", () => {
++  const said = complexity(["cyclomatic", "--file", OWN], given("/repo"))
++  const cc = said.report.map((one) => Number(one.split("\t")[3]))
++
++  expect(cc).toEqual([...cc].sort((a, b) => b - a))
++})
++
++test("a threshold no row reaches answers empty rather than refusing", () => {
++  const said = complexity(["cyclomatic", "--file", OWN, "--threshold", "100000"], given("/repo"))
++
++  expect(said.code).toBe(0)
++  expect(said.report).toEqual([])
++})
++
++test("the top keeps that many rows", () => {
++  const said = complexity(["cyclomatic", "--file", OWN, "--top", "2"], given("/repo"))
++
++  expect(said.report.length).toBe(2)
++})
++
++test("the json answer is one line", () => {
++  const said = complexity(["cyclomatic", "--file", OWN, "--json"], given("/repo"))
++
++  expect(said.report.length).toBe(1)
++  expect(String(said.report[0]).startsWith('{"rows":')).toBe(true)
++})
++
++test("a file that will not open is passed over rather than refused", () => {
++  const said = complexity(["cyclomatic", "--file", "/nowhere/at/all.ts"], given("/repo"))
++
++  expect(said.code).toBe(0)
++  expect(said.refusals).toEqual([])
++  expect(said.report).toEqual([])
++})
++
++test("a summary over nothing counts nothing rather than throwing", () => {
++  expect(summaryOf([])).toEqual({ p50: 0, p75: 0, p90: 0, p95: 0, p99: 0, max: 0, count: 0 })
++})
+diff --git a/commands/pages/complexity/complexity.command.ts b/commands/pages/complexity/complexity.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..65f219f0c7066a7b9e581a076051f4e852e2eb08
+--- /dev/null
++++ b/commands/pages/complexity/complexity.command.ts
+@@ -0,0 +1,95 @@
++import type { Command } from "../../../command-system/commands/command.page-type.ts"
++
++export const complexity = {
++  id: "01a0680b-94d1-745a-98c7-ad24f22fec92",
++  pageTypeSlug: "command",
++  slug: "complexity",
++  definition: "the command saying how complex each function and file of a checkout's TypeScript is",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "cyclomatic", takes: "the act, which is the McCabe complexity of each function" },
++    { said: "halstead", takes: "the act, which is each function's token counts and what follows" },
++    { said: "maintainability", takes: "the act, which is the maintainability index of each file" },
++    { said: "report", takes: "the act, which is every metric by percentile with its outliers" },
++    { said: "--file <path>", takes: "the one file to read, said from the repository root" },
++    { said: "--threshold <n>", takes: "the figure a row must reach to be in the answer" },
++    { said: "--top <n>", takes: "how many rows are in the answer, worst first" },
++    { said: "--json", takes: "the rows as one line of JSON rather than as tab-separated columns" },
++  ],
++  helpNotes: [
++    "the act is the first word, and one call names one act.",
++    "cyclomatic complexity is one over the decision points: if, case, for, while, do, catch, ternary, each `&&`, `||`, `??`, and each `?.`.",
++    "else and finally are no decision point and count for nothing.",
++    "halstead counts the distinct and the total operators and operands of a function, and volume, difficulty, effort, time and bugs follow from those four.",
++    "type annotations and comments sit outside the halstead counts.",
++    "the maintainability index is the Visual Studio variant over halstead volume, the cyclomatic sum and the source lines a file holds.",
++    "blank lines and comment-only lines are no source line.",
++    "the index rises as a file shortens, so splitting one function in two raises it though neither the decision points nor the vocabulary changed.",
++    "`report` says p50, p75, p90, p95, p99 and the maximum, because complexity follows a power law and a mean hides the outliers the maintenance is spent on.",
++    "`--threshold` keeps the rows at or over the figure, and under `maintainability` keeps the rows at or under it, since a low index is the bad one.",
++    "`report` takes `--top` alone, and carries ten of each metric where none is said.",
++    "an answer is figures rather than violations, so nothing here refuses a body for being complex.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The act is the first word.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One call names one act.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An act this command does not carry is refused rather than answered as nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag an act does not take is refused against that act by name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A cyclomatic row is one function and a maintainability row is one file.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Rows are ordered worst first.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Worst is the highest complexity and the lowest maintainability index.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A threshold is a floor for every metric but the maintainability index.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A threshold is a ceiling for the maintainability index.",
++    },
++
++    {
++      invariantKind: "departure",
++      statement: "A file that will not open is passed over rather than refusing the rest.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A scope holding no row is answered empty rather than refused.",
++    },
++    {
++      invariantKind: "stopgap",
++      statement:
++        "The workspace read is the workspace the process is in rather than the root the call names.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run writes nothing.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here judges a figure against a limit.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/drive/drive.command.code.ts b/commands/pages/drive/drive.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d5b89877bf4fb0a1bd72466ecfee0f5b55733da7
+--- /dev/null
++++ b/commands/pages/drive/drive.command.code.ts
+@@ -0,0 +1,231 @@
++import { mkdir } from "node:fs/promises"
++import { basename, isAbsolute, join, resolve } from "node:path"
++import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
++import { DRIVE_SCOPES } from "@akasha/google-drive/env"
++import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
++import { googleOauthConsent } from "@akasha/google-oauth/oauth-consent"
++import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
++import { refused } from "../../../command-system/calling/calling.module.code.ts"
++import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
++import { quoted } from "../../../command-system/seat-act-calling/seat-act-calling.module.code.ts"
++
++export const AUTH = "auth"
++
++export const FETCH = "fetch"
++
++const LOGIN = "login"
++
++const CALLBACK_URL = "--callback-url"
++
++const SOURCE = "--source"
++
++const OUT = "--out"
++
++const REFRESH_TOKEN_VAR = "GOOGLE_DRIVE_OAUTH_REFRESH_TOKEN"
++
++const ACTS: Readonly<Record<string, readonly string[]>> = {
++  [AUTH]: [LOGIN],
++  [FETCH]: [],
++}
++
++const TAKES: Readonly<Record<string, readonly string[]>> = {
++  [`${AUTH} ${LOGIN}`]: [CALLBACK_URL],
++  [FETCH]: [SOURCE, OUT],
++}
++
++const VALUED = new Set([CALLBACK_URL, SOURCE, OUT])
++
++export type Read =
++  | { readonly act: string; readonly said: ReadonlyMap<string, string> }
++  | { readonly refused: readonly string[] }
++
++function reading(argv: readonly string[]): {
++  readonly refusals: readonly string[]
++  readonly words: readonly string[]
++  readonly said: Map<string, string>
++} {
++  const refusals: string[] = []
++  const words: string[] = []
++  const said = new Map<string, string>()
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (!one.startsWith("-")) {
++      words.push(one)
++      continue
++    }
++    if (!VALUED.has(one)) {
++      refusals.push(`\`${one}\` is no flag this takes`)
++      continue
++    }
++    const value = argv[at + 1]
++    if (value === undefined || value.startsWith("--")) {
++      refusals.push(`\`${one}\` takes a value, and none followed it`)
++      continue
++    }
++    at += 1
++    if (said.has(one)) {
++      refusals.push(`\`${one}\` is said twice over, and it takes one value`)
++      continue
++    }
++    said.set(one, value)
++  }
++  return { refusals, words, said }
++}
++
++function actIn(words: readonly string[], refusals: string[]): { act: string; rest: number } | null {
++  const first = words[0]
++  if (first === undefined) {
++    refusals.push(`this names no act — it carries ${quoted(Object.keys(ACTS))}`)
++    return null
++  }
++  const under = ACTS[first]
++  if (under === undefined) {
++    refusals.push(`\`${first}\` is no act this carries — it carries ${quoted(Object.keys(ACTS))}`)
++    return null
++  }
++  if (under.length === 0) return { act: first, rest: 1 }
++  const second = words[1]
++  if (second === undefined) {
++    refusals.push(`\`${first}\` names no act — it carries ${quoted(under)}`)
++    return null
++  }
++  if (!under.includes(second)) {
++    refusals.push(`\`${second}\` is no act \`${first}\` carries — it carries ${quoted(under)}`)
++    return null
++  }
++  return { act: `${first} ${second}`, rest: 2 }
++}
++
++function placing(
++  act: string,
++  rest: readonly string[],
++  said: Map<string, string>,
++  refusals: string[]
++): undefined {
++  const first = rest[0]
++  if (first === undefined) return
++  if (act !== FETCH) {
++    refusals.push(`\`${first}\` follows \`${act}\`, which names nothing in place`)
++    return
++  }
++  if (rest.length > 1) {
++    refusals.push(`\`${rest[1]}\` follows the file, and one call names one file`)
++    return
++  }
++  if (said.has(SOURCE)) {
++    refusals.push(`\`${first}\` names the file in place where \`${SOURCE}\` names it too`)
++    return
++  }
++  said.set(SOURCE, first)
++}
++
++export function readIn(argv: readonly string[]): Read {
++  const held = reading(argv)
++  const refusals = [...held.refusals]
++  const found = actIn(held.words, refusals)
++  if (found === null) return { refused: refusals }
++  placing(found.act, held.words.slice(found.rest), held.said, refusals)
++  const takes = TAKES[found.act] ?? []
++  for (const one of held.said.keys()) {
++    if (!takes.includes(one)) refusals.push(`\`${one}\` is no flag \`${found.act}\` takes`)
++  }
++  if (found.act === FETCH && !held.said.has(SOURCE)) {
++    refusals.push(`\`${FETCH}\` takes the file to fetch, and none was named`)
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { act: found.act, said: held.said }
++}
++
++export function folderOf(said: string | undefined, root: string, from: string): string {
++  if (said === undefined) return from
++  return isAbsolute(said) ? said : resolve(root, said)
++}
++
++function statusOf(thrown: unknown): number | undefined {
++  if (typeof thrown !== "object" || thrown === null) return undefined
++  const status = (thrown as { readonly status?: unknown }).status
++  return typeof status === "number" ? status : undefined
++}
++
++async function loggingIn(said: ReadonlyMap<string, string>): Promise<Answer> {
++  const { clientId, clientSecret } = readGoogleOauthAppCredentials()
++  await googleOauthConsent({
++    scopes: [...DRIVE_SCOPES],
++    clientId,
++    clientSecret,
++    tokenVar: REFRESH_TOKEN_VAR,
++    callbackUrl: said.get(CALLBACK_URL),
++  })
++  return {
++    report: [`consent was granted, and the round trip wrote \`${REFRESH_TOKEN_VAR}\` out itself`],
++    refusals: [],
++    code: 0,
++  }
++}
++
++function reachSaid(thrown: unknown, fileId: string): Answer | null {
++  const status = statusOf(thrown)
++  if (status === 404) {
++    return refused(
++      `Drive holds no file ${fileId} this consent can reach — check the id, and that the file ` +
++        "is shared with the account the consent was granted for",
++      2
++    )
++  }
++  if (status === 401 || status === 403) {
++    return refused(
++      `Drive turned the request for ${fileId} away with ${status} — the consent held is missing ` +
++        "or too narrow, and the login act grants a fresh one",
++      3
++    )
++  }
++  return null
++}
++
++async function fetching(
++  said: ReadonlyMap<string, string>,
++  root: string,
++  from: string
++): Promise<Answer> {
++  const files = await import("@akasha/google-drive/files")
++  const fileId = files.parseDriveFileId(said.get(SOURCE) ?? "")
++  const folder = folderOf(said.get(OUT), root, from)
++  const { makeDriveClient } = await import("@akasha/google-drive/client")
++  const client = await makeDriveClient()
++  try {
++    const metadata = await files.fetchFileMetadata(client, fileId)
++    if (files.isNativeGoogleDoc(metadata.mimeType)) {
++      return refused(
++        `"${metadata.name}" is a native Google ${metadata.mimeType ?? "app"} file holding no ` +
++          "bytes to download, and exporting one sits outside what this reaches",
++        1
++      )
++    }
++    const bytes = await files.downloadFileBytes(client, fileId)
++    const name = basename(metadata.name).trim()
++    if (name === "" || name === "." || name === "..") {
++      return refused(
++        `Drive file ${fileId} carries a name nothing can be written under: "${metadata.name}"`,
++        3
++      )
++    }
++    const at = join(folder, name)
++    await mkdir(folder, { recursive: true })
++    await Bun.write(at, bytes)
++    return { report: [isAbsolute(at) ? at : resolve(at)], refusals: [], code: 0 }
++  } catch (thrown) {
++    return reachSaid(thrown, fileId) ?? refused(whyOf(thrown), exitCodeForThrowable(thrown))
++  }
++}
++
++export async function drive(argv: readonly string[], given: Given): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
++  try {
++    if (read.act === FETCH) return await fetching(read.said, resolve(given.root), given.from)
++    return await loggingIn(read.said)
++  } catch (thrown) {
++    return refused(`${given.calledAs} ${read.act} — ${whyOf(thrown)}`, exitCodeForThrowable(thrown))
++  }
++}
+diff --git a/commands/pages/drive/drive.command.test.ts b/commands/pages/drive/drive.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b8c3e8662504b215f7d85d339259d27c2ef3d5d2
+--- /dev/null
++++ b/commands/pages/drive/drive.command.test.ts
+@@ -0,0 +1,77 @@
++import { expect, test } from "bun:test"
++import type { Given } from "../../../command-system/calling/calling.module.code.ts"
++import { refusingWith } from "../../../command-system/calling/calling.module.test-fixtures.ts"
++import { drive, folderOf, readIn } from "./drive.command.code.ts"
++
++function given(): Given {
++  return {
++    root: "/nowhere",
++    calledAs: "akasha drive",
++    from: "/called/from",
++    writer: null,
++    agentId: null,
++  }
++}
++
++const refusedBy = refusingWith(readIn)
++
++test("nothing said is refused, naming the acts", async () => {
++  const said = await drive([], given())
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).toContain("fetch")
++  expect(said.refusals[0]).toContain("auth")
++})
++
++test("an act it does not carry is refused", () => {
++  expect(refusedBy(["upload"])[0]).toContain("upload")
++})
++
++test("the consent named with no act is refused", () => {
++  expect(refusedBy(["auth"])[0]).toContain("login")
++})
++
++test("a fetch naming no file is refused", () => {
++  expect(refusedBy(["fetch"])[0]).toContain("none was named")
++})
++
++test("a flag it does not take is refused", () => {
++  expect(refusedBy(["fetch", "abc", "--depth", "2"])[0]).toContain("--depth")
++})
++
++test("a flag another act takes is refused under this one", () => {
++  expect(refusedBy(["auth", "login", "--out", "/elsewhere"])[0]).toContain("--out")
++})
++
++test("a flag with no value after it is refused", () => {
++  expect(refusedBy(["fetch", "--source"])[0]).toContain("takes a value")
++})
++
++test("the file is read from the word after the act", () => {
++  const read = readIn(["fetch", "1AbC"])
++  if ("refused" in read) throw new Error("this was refused")
++  expect(read.said.get("--source")).toBe("1AbC")
++})
++
++test("a file named in place and as a flag is refused", () => {
++  expect(refusedBy(["fetch", "1AbC", "--source", "1AbC"])[0]).toContain("in place")
++})
++
++test("a second file is refused", () => {
++  expect(refusedBy(["fetch", "1AbC", "2DeF"])[0]).toContain("one file")
++})
++
++test("a word after the consent act is refused", () => {
++  expect(refusedBy(["auth", "login", "extra"])[0]).toContain("names nothing in place")
++})
++
++test("a folder named as a relative path is read against the repository root", () => {
++  expect(folderOf("album", "/repo", "/called/from")).toBe("/repo/album")
++})
++
++test("a folder named as an absolute path is taken as it is", () => {
++  expect(folderOf("/pictures/in", "/repo", "/called/from")).toBe("/pictures/in")
++})
++
++test("naming no folder writes into the folder the call came from", () => {
++  expect(folderOf(undefined, "/repo", "/called/from")).toBe("/called/from")
++})
+diff --git a/commands/pages/drive/drive.command.ts b/commands/pages/drive/drive.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9646e5a43ac5efb851e02f92045e96fff29f128f
+--- /dev/null
++++ b/commands/pages/drive/drive.command.ts
+@@ -0,0 +1,95 @@
++import type { Command } from "../../../command-system/commands/command.page-type.ts"
++
++export const drive = {
++  id: "01a06809-e6ee-78ea-b3d7-34282c2848ae",
++  pageTypeSlug: "command",
++  slug: "drive",
++  definition: "the command acting on the files in Alan's Google Drive",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-mechanical",
++  taking: [
++    { said: "auth", takes: "what to act on, which is the consent Drive is reached as Alan on" },
++    {
++      said: "login",
++      takes: "the act, which is to grant that consent once and mint a refresh token",
++    },
++    {
++      said: "--callback-url <url>",
++      takes:
++        "the callback URL pasted from the browser, where the loopback listener cannot be reached",
++    },
++    {
++      said: "fetch",
++      takes: "the act, which is to write one Drive file to disk under its Drive name",
++    },
++    { said: "<url-or-id>", takes: "the file to fetch, said in place as a share URL or a bare id" },
++    {
++      said: "--source <url-or-id>",
++      takes: "the file to fetch, said as a flag rather than in place",
++    },
++    { said: "--out <dir>", takes: "the folder to write into, made where nothing is there" },
++  ],
++  helpNotes: [
++    "the words are in order, and one call names one act.",
++    "the file is named in place after the act or as a flag, and naming it both ways over is refused.",
++    "every Drive URL shape is read for the id it carries, and a bare id is taken as it is.",
++    "the name the file lands under on disk is the name Drive holds for it.",
++    "a folder named here is read against the repository root, and naming none writes into the folder the call came from.",
++    "a Docs, Sheets or Slides file holds no bytes to download and is refused rather than exported.",
++    "the consent a fetch leans on is granted once by the login act, and it reaches Drive read-only.",
++    "the minted refresh token is written to stdout by the consent round trip rather than answered here.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The first word is the act.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Only the consent takes a second word.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file named in place and as a flag is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A share URL and a bare id name the same file.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The name a fetched file lands under is the name Drive holds for that file.",
++    },
++
++    {
++      invariantKind: "departure",
++      statement: "A call naming no folder writes into the folder the call came from.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder that is not there is made before the file is written.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file in a native Google format is refused as the caller's mistake.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file this consent cannot reach is answered as the data rather than as a fault.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Drive turning the consent away is answered as operational.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A Drive name that cannot be written to disk is answered as operational.",
++    },
++
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes to Drive.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/icloud/icloud.command.code.ts b/commands/pages/icloud/icloud.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cdf719396a57ca41727f4e06ba33383c2fc5f312
+--- /dev/null
++++ b/commands/pages/icloud/icloud.command.code.ts
+@@ -0,0 +1,193 @@
++import { mkdir } from "node:fs/promises"
++import { exitCodeForThrowable, OperationalError } from "@akasha/errors-core/exit-code"
++import type { PhotoAsset } from "@akasha/icloud-photos/album-pulling"
++import {
++  buildQueryRequest,
++  buildResolveRequest,
++  dedupePaths,
++  nextStartRank,
++  parseQueryPage,
++  parseResolveResponse,
++  parseShareToken,
++  resolveOutputDir,
++} from "@akasha/icloud-photos/album-pulling"
++import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
++import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
++import { quoted } from "../../../command-system/seat-act-calling/seat-act-calling.module.code.ts"
++
++export const FETCH = "fetch"
++
++const URL_FLAG = "--url"
++
++const OUT = "--out"
++
++const OUTPUT = "--output"
++
++const JSON_FLAG = "--json"
++
++const ACTS = [FETCH]
++
++const VALUED = new Set([URL_FLAG, OUT, OUTPUT])
++
++const BARE = new Set([JSON_FLAG])
++
++export type Read =
++  | { readonly act: string; readonly said: ReadonlyMap<string, string>; readonly json: boolean }
++  | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  const words: string[] = []
++  const said = new Map<string, string>()
++  let json = false
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (!one.startsWith("-")) {
++      words.push(one)
++      continue
++    }
++    if (BARE.has(one)) {
++      json = true
++      continue
++    }
++    if (!VALUED.has(one)) {
++      refusals.push(`\`${one}\` is no flag this takes`)
++      continue
++    }
++    const value = argv[at + 1]
++    if (value === undefined || value.startsWith("--")) {
++      refusals.push(`\`${one}\` takes a value, and none followed it`)
++      continue
++    }
++    at += 1
++    const key = one === OUTPUT ? OUT : one
++    if (said.has(key)) {
++      refusals.push(`\`${key}\` is said twice over, and it takes one value`)
++      continue
++    }
++    said.set(key, value)
++  }
++  const act = words[0]
++  if (act === undefined) {
++    return { refused: [...refusals, `this names no act — it carries ${quoted(ACTS)}`] }
++  }
++  if (!ACTS.includes(act)) {
++    return {
++      refused: [...refusals, `\`${act}\` is no act this carries — it carries ${quoted(ACTS)}`],
++    }
++  }
++  const rest = words.slice(1)
++  const first = rest[0]
++  if (first !== undefined) {
++    if (rest.length > 1) {
++      refusals.push(`\`${rest[1]}\` follows the album, and one call names one album`)
++    } else if (said.has(URL_FLAG)) {
++      refusals.push(`\`${first}\` names the album in place where \`${URL_FLAG}\` names it too`)
++    } else {
++      said.set(URL_FLAG, first)
++    }
++  }
++  if (!said.has(URL_FLAG)) {
++    refusals.push(`\`${FETCH}\` takes the album to fetch, and none was named`)
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { act, said, json }
++}
++
++export function folderOf(said: string | undefined, root: string, from: string): string {
++  return said === undefined ? from : resolveOutputDir(said, root)
++}
++
++async function postJson(url: string, body: unknown): Promise<unknown> {
++  let answer: Response
++  try {
++    answer = await fetch(url, {
++      method: "POST",
++      headers: { "Content-Type": "application/json" },
++      body: JSON.stringify(body),
++    })
++  } catch (thrown) {
++    throw new OperationalError(`the iCloud request failed: ${whyOf(thrown)}`)
++  }
++  if (!answer.ok) {
++    throw new OperationalError(`iCloud answered ${answer.status} ${answer.statusText}`)
++  }
++  try {
++    return await answer.json()
++  } catch {
++    throw new OperationalError("what iCloud answered with is no JSON")
++  }
++}
++
++async function downloadTo(url: string, at: string): Promise<void> {
++  let answer: Response
++  try {
++    answer = await fetch(url)
++  } catch (thrown) {
++    throw new OperationalError(`the download for ${at} failed: ${whyOf(thrown)}`)
++  }
++  if (!answer.ok) {
++    throw new OperationalError(
++      `the download for ${at} answered ${answer.status} ${answer.statusText}`
++    )
++  }
++  await Bun.write(at, await answer.arrayBuffer())
++}
++
++async function everyAsset(raw: unknown): Promise<readonly PhotoAsset[]> {
++  const held = parseResolveResponse(raw)
++  const assets: PhotoAsset[] = []
++  let startRank = 0
++  for (;;) {
++    const asked = buildQueryRequest(held, startRank)
++    const page = parseQueryPage(await postJson(asked.url, asked.body))
++    assets.push(...page)
++    const next = nextStartRank(startRank, page.length)
++    if (next === undefined) break
++    startRank = next
++  }
++  return assets
++}
++
++async function fetching(
++  read: {
++    readonly said: ReadonlyMap<string, string>
++    readonly json: boolean
++  },
++  root: string,
++  from: string
++): Promise<Answer> {
++  const shareUrl = read.said.get(URL_FLAG) ?? ""
++  const token = parseShareToken(shareUrl)
++  const asked = buildResolveRequest(token)
++  const assets = await everyAsset(await postJson(asked.url, asked.body))
++  if (assets.length === 0) {
++    return { report: [], refusals: [`the shared album at ${shareUrl} holds no photo`], code: 2 }
++  }
++  const folder = folderOf(read.said.get(OUT), root, from)
++  await mkdir(folder, { recursive: true })
++  const targets = dedupePaths(assets, folder)
++  for (const target of targets) await downloadTo(target.asset.downloadURL, target.path)
++  return {
++    report: targets.map((one) =>
++      read.json ? JSON.stringify({ path: one.path }) : `path\t${one.path}`
++    ),
++    refusals: [],
++    code: 0,
++  }
++}
++
++export async function icloud(argv: readonly string[], given: Given): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
++  try {
++    return await fetching(read, given.root, given.from)
++  } catch (thrown) {
++    return {
++      report: [],
++      refusals: [`${given.calledAs} ${read.act} — ${whyOf(thrown)}`],
++      code: exitCodeForThrowable(thrown),
++    }
++  }
++}
+diff --git a/commands/pages/icloud/icloud.command.test.ts b/commands/pages/icloud/icloud.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f8b69e1229f6b3157b3198b41860704de83a8860
+--- /dev/null
++++ b/commands/pages/icloud/icloud.command.test.ts
+@@ -0,0 +1,82 @@
++import { expect, test } from "bun:test"
++import type { Given } from "../../../command-system/calling/calling.module.code.ts"
++import { refusingWith } from "../../../command-system/calling/calling.module.test-fixtures.ts"
++import { folderOf, icloud, readIn } from "./icloud.command.code.ts"
++
++const ALBUM = "https://share.icloud.com/photos/0ABCdef"
++
++function given(): Given {
++  return {
++    root: "/nowhere",
++    calledAs: "akasha icloud",
++    from: "/called/from",
++    writer: null,
++    agentId: null,
++  }
++}
++
++const refusedBy = refusingWith(readIn)
++
++test("nothing said is refused, naming the act", async () => {
++  const said = await icloud([], given())
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).toContain("fetch")
++})
++
++test("an act it does not carry is refused", () => {
++  expect(refusedBy(["push"])[0]).toContain("push")
++})
++
++test("a fetch naming no album is refused", () => {
++  expect(refusedBy(["fetch"])[0]).toContain("none was named")
++})
++
++test("a flag it does not take is refused", () => {
++  expect(refusedBy(["fetch", ALBUM, "--since", "2026"])[0]).toContain("--since")
++})
++
++test("a flag with no value after it is refused", () => {
++  expect(refusedBy(["fetch", "--url"])[0]).toContain("takes a value")
++})
++
++test("the album is read from the word after the act", () => {
++  const read = readIn(["fetch", ALBUM])
++  if ("refused" in read) throw new Error("this was refused")
++  expect(read.said.get("--url")).toBe(ALBUM)
++})
++
++test("an album named in place and as a flag is refused", () => {
++  expect(refusedBy(["fetch", ALBUM, "--url", ALBUM])[0]).toContain("in place")
++})
++
++test("a second album is refused", () => {
++  expect(refusedBy(["fetch", ALBUM, ALBUM])[0]).toContain("one album")
++})
++
++test("the older spelling of the folder flag is read as the folder flag", () => {
++  const read = readIn(["fetch", ALBUM, "--output", "/pictures"])
++  if ("refused" in read) throw new Error("this was refused")
++  expect(read.said.get("--out")).toBe("/pictures")
++})
++
++test("the folder flag said under both spellings is refused", () => {
++  expect(refusedBy(["fetch", ALBUM, "--out", "/a", "--output", "/b"])[0]).toContain("twice")
++})
++
++test("the json flag is alone and takes no value", () => {
++  const read = readIn(["fetch", ALBUM, "--json"])
++  if ("refused" in read) throw new Error("this was refused")
++  expect(read.json).toBe(true)
++})
++
++test("a folder named as a relative path is read against the repository root", () => {
++  expect(folderOf("album", "/repo", "/called/from")).toBe("/repo/album")
++})
++
++test("a folder named as an absolute path is taken as it is", () => {
++  expect(folderOf("/pictures/in", "/repo", "/called/from")).toBe("/pictures/in")
++})
++
++test("naming no folder writes into the folder the call came from", () => {
++  expect(folderOf(undefined, "/repo", "/called/from")).toBe("/called/from")
++})
+diff --git a/commands/pages/icloud/icloud.command.ts b/commands/pages/icloud/icloud.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8e189036e92d42330a43710f46e386a230c5d6a6
+--- /dev/null
++++ b/commands/pages/icloud/icloud.command.ts
+@@ -0,0 +1,84 @@
++import type { Command } from "../../../command-system/commands/command.page-type.ts"
++
++export const icloud = {
++  id: "01a06809-e6ee-767a-a4ca-40bb4b0c44c0",
++  pageTypeSlug: "command",
++  slug: "icloud",
++  definition: "the command acting on the photos an iCloud shared album holds",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-mechanical",
++  taking: [
++    { said: "fetch", takes: "the act, which is to write every photo in an album to disk" },
++    { said: "<share-url>", takes: "the album to fetch, said in place as its share URL" },
++    { said: "--url <share-url>", takes: "the album to fetch, said as a flag rather than in place" },
++    { said: "--out <dir>", takes: "the folder to write into, made where nothing is there" },
++    {
++      said: "--json",
++      takes: "report each written path as a JSON object rather than as a path alone",
++    },
++  ],
++  helpNotes: [
++    "the album is named in place after the act or as a flag, and naming it both ways over is refused.",
++    "the share link alone reaches the album, so no Apple account and no credential is asked for.",
++    "the album is walked a page at a time until no photo is left, and every original resource is written as it is stored.",
++    "two photos of one name land under names told apart rather than one written over the other.",
++    "a folder named here is read against the repository root, and naming none writes into the folder the call came from.",
++    "an album holding no photo is answered as the data rather than as an empty run.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The first word is the act.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An album named in place and as a flag is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A URL that is no iCloud share is the caller's mistake.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The share link alone reaches the album.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every photo the album holds is written rather than the first page alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A photo is written as the original resource is stored.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Two photos carrying one name land under names told apart.",
++    },
++
++    {
++      invariantKind: "departure",
++      statement: "A call naming no folder writes into the folder the call came from.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder nothing is at is made before a photo is written.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An album holding no photo is answered as the data.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A response iCloud could not be read from is answered as operational.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here holds an Apple credential.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes to the album.",
++    },
++  ],
++} as const satisfies Command
