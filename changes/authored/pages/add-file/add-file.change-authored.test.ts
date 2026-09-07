@@ -10,6 +10,8 @@ import { addFileCommand } from "./add-file.change-authored.code.ts"
 
 const AT = "akasha/one.held.ts"
 
+const PLAIN = "akasha/one/notes.md"
+
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical/add-file") {
     return Promise.resolve(addFile(world, given as { at: string; body: string }))
@@ -20,7 +22,7 @@ const RUNS: Reaching = (world, at, given) => {
 function worldOf(held: Readonly<Record<string, string>>): World {
   return {
     root: "/nowhere",
-    index: {} as World["index"],
+    index: Object.assign({} as World["index"], { pageTypesIn: () => new Set<string>() }),
     textOf: (path) => held[path] ?? null,
     over: NOTHING_OVER,
     reaching: RUNS,
@@ -28,10 +30,10 @@ function worldOf(held: Readonly<Record<string, string>>): World {
 }
 
 test("the arguments naming a path and a body are answered as one edit", async () => {
-  const said = await addFileCommand(worldOf({}), { at: AT, body: "alpha\n" })
+  const said = await addFileCommand(worldOf({}), { at: PLAIN, body: "alpha\n" })
 
   expect(said.refused).toBeNull()
-  expect(said.edits).toEqual([{ path: AT, was: null, body: "alpha\n" }])
+  expect(said.edits).toEqual([{ path: PLAIN, was: null, body: "alpha\n" }])
 })
 
 test("arguments holding no path are refused by the name of the argument", async () => {
@@ -61,6 +63,6 @@ test("the body this change hands on is reached through the runner the world carr
     { at: AT, body: "alpha\n" }
   )
 
-  expect(reached).toBe("change-mechanical/add-file")
+  expect(reached).toBe("change-mechanical/add-code-file")
   expect(said.refused).toBeNull()
 })
