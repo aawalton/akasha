@@ -7,11 +7,11 @@ export const weeklyChallenges = {
   title: "Weekly Challenges",
   icon: "file-text",
   character: "erin-solstice",
-  dueDate: "2026-09-06",
+  dueDate: "2026-09-08",
   rruleRule: "FREQ=WEEKLY;BYDAY=TU",
   rruleAnchorFromCompletion: false,
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "character",
   priority: "p3",
-  lastCompletedAt: "2026-08-18T17:07:30.670Z",
+  lastCompletedAt: "2026-09-07T02:44:32.361Z",
 } as const satisfies TemperTask
