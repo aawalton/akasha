@@ -65,11 +65,11 @@ export type Changes = {
   "change-mechanical-folder/remove-page-type": Parameters<
     typeof import("../../../mechanical/pages/remove-page-type/remove-page-type.change-mechanical-folder.code.ts")["runChange"]
   >[1]
+  "change-mechanical-manifest/change-manifest-ways": Parameters<
+    typeof import("../../../mechanical/pages/change-manifest-ways/change-manifest-ways.change-mechanical-manifest.code.ts")["runChange"]
+  >[1]
   "change-mechanical-manifest/remove-manifest-ways": Parameters<
     typeof import("../../../mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical-manifest.code.ts")["runChange"]
-  >[1]
-  "change-mechanical-manifest/rename-manifest-ways": Parameters<
-    typeof import("../../../mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical-manifest.code.ts")["runChange"]
   >[1]
   "change-mechanical-text/change-page-property": Parameters<
     typeof import("../../../mechanical/pages/change-page-property/change-page-property.change-mechanical-text.code.ts")["runChange"]

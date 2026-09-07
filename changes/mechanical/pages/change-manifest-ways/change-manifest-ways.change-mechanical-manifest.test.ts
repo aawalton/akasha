@@ -3,7 +3,7 @@ import type { Answer } from "../../../modules/change-answer/change-answer.module
 import {
   landingFor,
   renameManifestWays,
-} from "./rename-manifest-ways.change-mechanical-manifest.code.ts"
+} from "./change-manifest-ways.change-mechanical-manifest.code.ts"
 
 const AT = "seat-system/package.json"
 

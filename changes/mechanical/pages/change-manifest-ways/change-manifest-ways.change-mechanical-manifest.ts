@@ -1,10 +1,10 @@
 import type { ChangeMechanicalManifest } from "../../manifest/change-mechanical-manifest.page-type.ts"
 
-export const renameManifestWays = {
+export const changeManifestWays = {
   id: "01a0798b-3398-71d0-ba4b-fa40530ad360",
   pageTypeSlug: "change-mechanical-manifest",
-  slug: "rename-manifest-ways",
-  changeModeSlug: "change-mode-rename",
+  slug: "change-manifest-ways",
+  changeModeSlug: "change-mode-change",
   definition: "a manifest's ways in rewritten to follow the files those ways in name",
   code: "ts",
   test: "ts",
