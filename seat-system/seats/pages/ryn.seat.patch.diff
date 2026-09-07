@@ -1,0 +1,20 @@
+diff --git a/inference/pool/reconcile-plan/reconcile-plan.module.ts b/inference/pool/reconcile-plan/reconcile-plan.module.ts
+index 6c519f22bf05f5c6832275a60d8cb7d98952b909..e9db1792d8e367c0c562e884cb5daf9ba0f23ea1 100644
+--- a/inference/pool/reconcile-plan/reconcile-plan.module.ts
++++ b/inference/pool/reconcile-plan/reconcile-plan.module.ts
+@@ -7,10 +7,14 @@ export const reconcilePlan = {
+   definition: "what is on a host set against what is declared, read as apply, skip or prune",
+   code: "ts",
+   invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A service is skipped only where every check about that service agrees.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A service is skipped only where its directory, environment, health, launchd job and hash all agree.",
++        "The checks are its directory and environment and health and launchd job and hash.",
+     },
+     {
+       invariantKind: "departure",
