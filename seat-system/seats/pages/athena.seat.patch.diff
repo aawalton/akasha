@@ -1,0 +1,821 @@
+writerOwesReading: false
+diff --git a/commands/pages/seat-refresh-settings/seat-refresh-settings.command.code.ts b/commands/pages/seat-refresh-settings/seat-refresh-settings.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ab344566134846d43f820560dc4b324bd5dc8001
+--- /dev/null
++++ b/commands/pages/seat-refresh-settings/seat-refresh-settings.command.code.ts
+@@ -0,0 +1,119 @@
++import { readdirSync, readFileSync, writeFileSync } from "node:fs"
++import { basename } from "node:path"
++import type { Answer } from "@akasha/command-system/calling"
++import { whyOf } from "@akasha/command-system/fault-saying"
++import {
++  AGENT_SETTINGS_PATH,
++  readAgentSettingsBase,
++  refreshedSettings,
++} from "../../../seat-system/supervising/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
++
++const JSON_FLAG = "--json"
++
++const SETTINGS_FLAG = "--settings"
++
++const SETTINGS_STEM = "agent-settings-"
++
++const SETTINGS_ENDING = ".json"
++
++const PROC = "/proc"
++
++const DIGITS = /^\d+$/
++
++const NOTHING_LIVE =
++  "no running process names a spawned settings file, which on this workstation means the scan " +
++  "found nothing rather than that the fleet is empty"
++
++export type Outcome = "refreshed" | "unchanged" | "unreadable"
++
++export type Row = {
++  readonly path: string
++  readonly outcome: Outcome
++}
++
++export function settingsPathIn(argv: readonly string[]): string | null {
++  const at = argv.indexOf(SETTINGS_FLAG)
++  if (at === -1) return null
++  const named = argv[at + 1]
++  return named === undefined || named === "" ? null : named
++}
++
++export function isSpawnedSettings(path: string): boolean {
++  return basename(path).startsWith(SETTINGS_STEM) && path.endsWith(SETTINGS_ENDING)
++}
++
++export function liveSettingsPaths(root: string = PROC): readonly string[] {
++  const found = new Set<string>()
++  for (const entry of readdirSync(root)) {
++    if (!DIGITS.test(entry)) continue
++    let argv: readonly string[]
++    try {
++      argv = readFileSync(`${root}/${entry}/cmdline`, "utf8").split("\0")
++    } catch {
++      continue
++    }
++    const named = settingsPathIn(argv)
++    if (named !== null && isSpawnedSettings(named)) found.add(named)
++  }
++  return [...found].sort()
++}
++
++export function objectIn(said: string): Record<string, unknown> | null {
++  let parsed: unknown
++  try {
++    parsed = JSON.parse(said)
++  } catch {
++    return null
++  }
++  if (parsed === null || typeof parsed !== "object" || Array.isArray(parsed)) return null
++  return parsed as Record<string, unknown>
++}
++
++export function refreshedAt(path: string, base: Record<string, unknown>): Row {
++  let was: string
++  try {
++    was = readFileSync(path, "utf8")
++  } catch {
++    return { path, outcome: "unreadable" }
++  }
++  const existing = objectIn(was)
++  if (existing === null) return { path, outcome: "unreadable" }
++  const contents = JSON.stringify(refreshedSettings(existing, base))
++  if (contents === was) return { path, outcome: "unchanged" }
++  writeFileSync(path, contents)
++  return { path, outcome: "refreshed" }
++}
++
++export async function seatRefreshSettings(argv: readonly string[]): Promise<Answer> {
++  const stray = argv.filter((one) => one !== JSON_FLAG)
++  if (stray.length > 0) {
++    const said = stray.map((one) => `\`${one}\``).join(", ")
++    return {
++      report: [],
++      refusals: [`this takes \`${JSON_FLAG}\` and nothing else, and ${said} was said`],
++      code: 1,
++    }
++  }
++  const base = await readAgentSettingsBase()
++  if (base.kind !== "loaded") {
++    return {
++      report: [],
++      refusals: [
++        `${AGENT_SETTINGS_PATH} would not read, so there is nothing to write: ${base.reason}`,
++      ],
++      code: 2,
++    }
++  }
++  let paths: readonly string[]
++  try {
++    paths = liveSettingsPaths()
++  } catch (thrown) {
++    return { report: [], refusals: [whyOf(thrown)], code: 3 }
++  }
++  if (paths.length === 0) return { report: [], refusals: [NOTHING_LIVE], code: 2 }
++  const rows = paths.map((path) => refreshedAt(path, base.settings))
++  if (argv.includes(JSON_FLAG)) {
++    return { report: [JSON.stringify({ rows })], refusals: [], code: 0 }
++  }
++  return { report: rows.map((row) => `${row.path}\t${row.outcome}`), refusals: [], code: 0 }
++}
+diff --git a/commands/pages/seat-refresh-settings/seat-refresh-settings.command.ts b/commands/pages/seat-refresh-settings/seat-refresh-settings.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..97bc60fe4835034ce5ed859a0a10d23fc8dc41ea
+--- /dev/null
++++ b/commands/pages/seat-refresh-settings/seat-refresh-settings.command.ts
+@@ -0,0 +1,63 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const seatRefreshSettings = {
++  id: "01a0685f-5754-74e9-8b40-493ffdcdadda",
++  pageTypeSlug: "command",
++  slug: "seat-refresh-settings",
++  definition:
++    "the command rewriting each running seat's settings file from the document as it now is",
++  code: "ts",
++  changeKindSlug: "change-mechanical",
++  taking: [{ said: "--json", takes: "give the rows as JSON rather than as tab-separated lines" }],
++  helpNotes: [
++    "a running client watches the settings file it was launched with, so a permission change reaches a seat here without stopping it.",
++    "a spawn names its settings file for a digest of the contents, so a changed document makes a new file for the next spawn and never touches the one a running seat watches.",
++    "the per-spawn keys are read off the file being replaced and written again, so a seat keeps the overrides it was launched with.",
++    "the digest in a name is left as it is and stops describing the contents, being a spawn-time cache key rather than a claim about the file.",
++    "a hook's registration is read once, when the client starts, so a registration change needs the client cycled and nothing here cycles one.",
++    "finding no running process that names a spawned settings file is the scan failing rather than the fleet being empty.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Every settings file a running process names is read.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The document is read once and every file is written from that one reading.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The per-spawn keys a file holds are carried into the file replacing that file.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file already holding the body that would be written is left alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The digest in a file's name is left as the digest is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file that will not read is reported rather than written.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Every file is acted on rather than the run stopping at the first that will not read.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Reading no live settings file at all is a data refusal.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here stops a seat or a client.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes the settings document.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/shell-init-bash/shell-init-bash.command.code.ts b/commands/pages/shell-init-bash/shell-init-bash.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b55cbc6dd4be99b21eb999927f62179248d13bf2
+--- /dev/null
++++ b/commands/pages/shell-init-bash/shell-init-bash.command.code.ts
+@@ -0,0 +1,36 @@
++import { aliasIndexesIn } from "@akasha/agents/claude-account-reading"
++import type { Answer, Given } from "@akasha/command-system/calling"
++import { whyOf } from "@akasha/command-system/fault-saying"
++import type { AliasEntry } from "@akasha/seat-system/terminal-bash"
++import { generateBashInit } from "@akasha/seat-system/terminal-bash"
++
++const NO_ACCOUNT =
++  "no claude account page was read, so the set would carry no account launcher at all — " +
++  "the shell keeps the definitions it started with rather than losing them silently"
++
++export type Read = { readonly composing: true } | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals = argv.map(
++    (one) => `\`${one}\` is no word this takes — this takes none and composes one set, for bash`
++  )
++  return refusals.length > 0 ? { refused: refusals } : { composing: true }
++}
++
++export function accountsIn(root: string): readonly AliasEntry[] {
++  return [...aliasIndexesIn(root)]
++    .map(([account, aliasIndex]) => ({ account, aliasIndex }))
++    .sort((a, b) => a.aliasIndex - b.aliasIndex)
++}
++
++export function shellInitBash(argv: readonly string[], given: Given): Answer {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
++  try {
++    const accounts = accountsIn(given.root)
++    if (accounts.length === 0) return { report: [], refusals: [NO_ACCOUNT], code: 2 }
++    return { report: generateBashInit(accounts).split("\n"), refusals: [], code: 0 }
++  } catch (thrown) {
++    return { report: [], refusals: [whyOf(thrown)], code: 3 }
++  }
++}
+diff --git a/commands/pages/shell-init-bash/shell-init-bash.command.test.ts b/commands/pages/shell-init-bash/shell-init-bash.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b2ec4daa71e6d5ada0339438db58679708f50cba
+--- /dev/null
++++ b/commands/pages/shell-init-bash/shell-init-bash.command.test.ts
+@@ -0,0 +1,97 @@
++import { describe, expect, test } from "bun:test"
++import type { Given } from "@akasha/command-system/calling"
++import { scratchWorld } from "@akasha/command-system/scratching"
++import { writing } from "@akasha/command-system/scratching/testing"
++import { listedFiled, pageFiled } from "@akasha/indexes/testing"
++import { readIn, shellInitBash } from "./shell-init-bash.command.code.ts"
++
++const given: Given = {
++  root: "/var/home/walton/repos/akasha",
++  calledAs: "akasha shell-init-bash",
++  from: "/var/home/walton/repos/akasha",
++  writer: null,
++  agentId: null,
++}
++
++describe("what this takes", () => {
++  test("is nothing", () => {
++    expect(readIn([])).toEqual({ composing: true })
++  })
++
++  test("so a word given to it is refused", () => {
++    const read = readIn(["bash"])
++    expect("refused" in read).toBe(true)
++    expect(shellInitBash(["bash"], given).code).toBe(1)
++  })
++
++  test("and every word given is named rather than the first alone", () => {
++    const read = readIn(["one", "two"])
++    expect("refused" in read && read.refused.length).toBe(2)
++  })
++})
++
++describe("the set composed", () => {
++  const answer = shellInitBash([], given)
++
++  test("is answered rather than refused", () => {
++    expect(answer.refusals).toEqual([])
++    expect(answer.code).toBe(0)
++  })
++
++  test("goes to the report, one line of the set to one line of the report", () => {
++    expect(answer.report.length).toBeGreaterThan(50)
++    for (const one of answer.report) expect(one).not.toContain("\n")
++  })
++
++  test("carries the launchers a terminal reaches", () => {
++    const said = answer.report.join("\n")
++    for (const name of ["sn()", "sr()", "cu()", "cna()", "_akasha_reload()"]) {
++      expect(said).toContain(name)
++    }
++  })
++
++  test("carries one launcher for each account page stating an alias index", () => {
++    const said = answer.report.join("\n")
++    expect(said).toMatch(/^c\d+\(\) \{$/m)
++  })
++
++  test("is bash a shell can parse", async () => {
++    const ran = Bun.spawn({
++      cmd: ["bash", "-n"],
++      stdin: new TextEncoder().encode(answer.report.join("\n")),
++      stderr: "pipe",
++    })
++    expect(await new Response(ran.stderr).text()).toBe("")
++    expect(await ran.exited).toBe(0)
++  })
++})
++
++const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
++
++const ACCOUNT_TYPE_AT = "akasha/agents/claude-accounts/claude-account.page-type.ts"
++
++const ACCOUNT_TYPE_BODY =
++  `export const claudeAccount = { id: "${ACCOUNT_TYPE}", pageTypeSlug: "page-type", ` +
++  `slug: "claude-account", pluralSlug: "claude-accounts", extendsSlug: [] } as const\n`
++
++function accountlessRoot(root: string): string {
++  writing(root, ACCOUNT_TYPE_AT, ACCOUNT_TYPE_BODY)
++  pageFiled(root, ACCOUNT_TYPE, ACCOUNT_TYPE_AT)
++  listedFiled(root, "page-type", "claude-account", [{ path: ACCOUNT_TYPE_AT, id: ACCOUNT_TYPE }])
++  return root
++}
++
++describe("a root holding no account page", () => {
++  test("is a data refusal rather than a set with no launcher", () => {
++    const world = scratchWorld()
++    try {
++      const root = accountlessRoot(world.rootFor("shell-init-bash-"))
++      const answer = shellInitBash([], { ...given, root })
++      expect(answer.code).toBe(2)
++      expect(answer.report).toEqual([])
++      expect(answer.refusals[0]).toContain("no claude account page was read")
++    } finally {
++      world.sweep()
++    }
++  })
++})
+diff --git a/commands/pages/shell-init-bash/shell-init-bash.command.ts b/commands/pages/shell-init-bash/shell-init-bash.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b7839ba1c2bc5cf17f4471a6126ddc6378dea4fb
+--- /dev/null
++++ b/commands/pages/shell-init-bash/shell-init-bash.command.ts
+@@ -0,0 +1,59 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const shellInitBash = {
++  id: "01a0680a-fa30-7da6-aede-88d6a9a5e49a",
++  pageTypeSlug: "command",
++  slug: "shell-init-bash",
++  definition: "the command composing the bash a terminal sources",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-none",
++  taking: [],
++  helpNotes: [
++    "this takes no word and no flag: it composes one set, for bash, and every terminal sources the same one.",
++    "the set is written to the output stream for a shell to evaluate, so nothing else is ever printed there.",
++    "the accounts a `c<N>` launcher is composed for are the claude account pages akasha carries.",
++    "an account whose page states no alias index gets no launcher, and the rest are composed as before.",
++    "reading no account at all is refused rather than composed as a set with no account launcher in it.",
++    "every launcher in the set composes the set again by calling this, so a change here reaches a terminal already open.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The set is composed whole on every call rather than kept between calls.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The set goes to the report.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A shell evaluates the output stream.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One line of the set is one line of the report.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A word given to this command is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The accounts are read from the pages rather than from a snapshot beside those pages.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Reading no account is a data refusal rather than a set with no launchers.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes a file or starts a seat.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A terminal reaches its own functions only where this command can be read.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.code.ts b/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.code.ts
+deleted file mode 100644
+index cce6c8732b761cd168d9355b928fb0a474c74398..0000000000000000000000000000000000000000
+--- a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.code.ts
++++ /dev/null
+@@ -1,119 +0,0 @@
+-import { readdirSync, readFileSync, writeFileSync } from "node:fs"
+-import { basename } from "node:path"
+-import type { Answer } from "@akasha/command-system/calling"
+-import { whyOf } from "@akasha/command-system/fault-saying"
+-import {
+-  AGENT_SETTINGS_PATH,
+-  readAgentSettingsBase,
+-  refreshedSettings,
+-} from "../../supervising/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
+-
+-const JSON_FLAG = "--json"
+-
+-const SETTINGS_FLAG = "--settings"
+-
+-const SETTINGS_STEM = "agent-settings-"
+-
+-const SETTINGS_ENDING = ".json"
+-
+-const PROC = "/proc"
+-
+-const DIGITS = /^\d+$/
+-
+-const NOTHING_LIVE =
+-  "no running process names a spawned settings file, which on this workstation means the scan " +
+-  "found nothing rather than that the fleet is empty"
+-
+-export type Outcome = "refreshed" | "unchanged" | "unreadable"
+-
+-export type Row = {
+-  readonly path: string
+-  readonly outcome: Outcome
+-}
+-
+-export function settingsPathIn(argv: readonly string[]): string | null {
+-  const at = argv.indexOf(SETTINGS_FLAG)
+-  if (at === -1) return null
+-  const named = argv[at + 1]
+-  return named === undefined || named === "" ? null : named
+-}
+-
+-export function isSpawnedSettings(path: string): boolean {
+-  return basename(path).startsWith(SETTINGS_STEM) && path.endsWith(SETTINGS_ENDING)
+-}
+-
+-export function liveSettingsPaths(root: string = PROC): readonly string[] {
+-  const found = new Set<string>()
+-  for (const entry of readdirSync(root)) {
+-    if (!DIGITS.test(entry)) continue
+-    let argv: readonly string[]
+-    try {
+-      argv = readFileSync(`${root}/${entry}/cmdline`, "utf8").split("\0")
+-    } catch {
+-      continue
+-    }
+-    const named = settingsPathIn(argv)
+-    if (named !== null && isSpawnedSettings(named)) found.add(named)
+-  }
+-  return [...found].sort()
+-}
+-
+-export function objectIn(said: string): Record<string, unknown> | null {
+-  let parsed: unknown
+-  try {
+-    parsed = JSON.parse(said)
+-  } catch {
+-    return null
+-  }
+-  if (parsed === null || typeof parsed !== "object" || Array.isArray(parsed)) return null
+-  return parsed as Record<string, unknown>
+-}
+-
+-export function refreshedAt(path: string, base: Record<string, unknown>): Row {
+-  let was: string
+-  try {
+-    was = readFileSync(path, "utf8")
+-  } catch {
+-    return { path, outcome: "unreadable" }
+-  }
+-  const existing = objectIn(was)
+-  if (existing === null) return { path, outcome: "unreadable" }
+-  const contents = JSON.stringify(refreshedSettings(existing, base))
+-  if (contents === was) return { path, outcome: "unchanged" }
+-  writeFileSync(path, contents)
+-  return { path, outcome: "refreshed" }
+-}
+-
+-export async function seatRefreshSettings(argv: readonly string[]): Promise<Answer> {
+-  const stray = argv.filter((one) => one !== JSON_FLAG)
+-  if (stray.length > 0) {
+-    const said = stray.map((one) => `\`${one}\``).join(", ")
+-    return {
+-      report: [],
+-      refusals: [`this takes \`${JSON_FLAG}\` and nothing else, and ${said} was said`],
+-      code: 1,
+-    }
+-  }
+-  const base = await readAgentSettingsBase()
+-  if (base.kind !== "loaded") {
+-    return {
+-      report: [],
+-      refusals: [
+-        `${AGENT_SETTINGS_PATH} would not read, so there is nothing to write: ${base.reason}`,
+-      ],
+-      code: 2,
+-    }
+-  }
+-  let paths: readonly string[]
+-  try {
+-    paths = liveSettingsPaths()
+-  } catch (thrown) {
+-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+-  }
+-  if (paths.length === 0) return { report: [], refusals: [NOTHING_LIVE], code: 2 }
+-  const rows = paths.map((path) => refreshedAt(path, base.settings))
+-  if (argv.includes(JSON_FLAG)) {
+-    return { report: [JSON.stringify({ rows })], refusals: [], code: 0 }
+-  }
+-  return { report: rows.map((row) => `${row.path}\t${row.outcome}`), refusals: [], code: 0 }
+-}
+diff --git a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts b/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
+deleted file mode 100644
+index 97bc60fe4835034ce5ed859a0a10d23fc8dc41ea..0000000000000000000000000000000000000000
+--- a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
++++ /dev/null
+@@ -1,63 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const seatRefreshSettings = {
+-  id: "01a0685f-5754-74e9-8b40-493ffdcdadda",
+-  pageTypeSlug: "command",
+-  slug: "seat-refresh-settings",
+-  definition:
+-    "the command rewriting each running seat's settings file from the document as it now is",
+-  code: "ts",
+-  changeKindSlug: "change-mechanical",
+-  taking: [{ said: "--json", takes: "give the rows as JSON rather than as tab-separated lines" }],
+-  helpNotes: [
+-    "a running client watches the settings file it was launched with, so a permission change reaches a seat here without stopping it.",
+-    "a spawn names its settings file for a digest of the contents, so a changed document makes a new file for the next spawn and never touches the one a running seat watches.",
+-    "the per-spawn keys are read off the file being replaced and written again, so a seat keeps the overrides it was launched with.",
+-    "the digest in a name is left as it is and stops describing the contents, being a spawn-time cache key rather than a claim about the file.",
+-    "a hook's registration is read once, when the client starts, so a registration change needs the client cycled and nothing here cycles one.",
+-    "finding no running process that names a spawned settings file is the scan failing rather than the fleet being empty.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Every settings file a running process names is read.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The document is read once and every file is written from that one reading.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The per-spawn keys a file holds are carried into the file replacing that file.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A file already holding the body that would be written is left alone.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The digest in a file's name is left as the digest is.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A file that will not read is reported rather than written.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Every file is acted on rather than the run stopping at the first that will not read.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Reading no live settings file at all is a data refusal.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here stops a seat or a client.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here writes the settings document.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/seat-system/commands/shell-init-bash/shell-init-bash.command.code.ts b/seat-system/commands/shell-init-bash/shell-init-bash.command.code.ts
+deleted file mode 100644
+index 6630dfe41f7aa2f4aa422f1d74a2fb1ec72052be..0000000000000000000000000000000000000000
+--- a/seat-system/commands/shell-init-bash/shell-init-bash.command.code.ts
++++ /dev/null
+@@ -1,36 +0,0 @@
+-import { aliasIndexesIn } from "@akasha/agents/claude-account-reading"
+-import type { Answer, Given } from "@akasha/command-system/calling"
+-import { whyOf } from "@akasha/command-system/fault-saying"
+-import type { AliasEntry } from "../../terminal-init/terminal-bash/terminal-bash.module.code.ts"
+-import { generateBashInit } from "../../terminal-init/terminal-bash/terminal-bash.module.code.ts"
+-
+-const NO_ACCOUNT =
+-  "no claude account page was read, so the set would carry no account launcher at all — " +
+-  "the shell keeps the definitions it started with rather than losing them silently"
+-
+-export type Read = { readonly composing: true } | { readonly refused: readonly string[] }
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const refusals = argv.map(
+-    (one) => `\`${one}\` is no word this takes — this takes none and composes one set, for bash`
+-  )
+-  return refusals.length > 0 ? { refused: refusals } : { composing: true }
+-}
+-
+-export function accountsIn(root: string): readonly AliasEntry[] {
+-  return [...aliasIndexesIn(root)]
+-    .map(([account, aliasIndex]) => ({ account, aliasIndex }))
+-    .sort((a, b) => a.aliasIndex - b.aliasIndex)
+-}
+-
+-export function shellInitBash(argv: readonly string[], given: Given): Answer {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+-  try {
+-    const accounts = accountsIn(given.root)
+-    if (accounts.length === 0) return { report: [], refusals: [NO_ACCOUNT], code: 2 }
+-    return { report: generateBashInit(accounts).split("\n"), refusals: [], code: 0 }
+-  } catch (thrown) {
+-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+-  }
+-}
+diff --git a/seat-system/commands/shell-init-bash/shell-init-bash.command.test.ts b/seat-system/commands/shell-init-bash/shell-init-bash.command.test.ts
+deleted file mode 100644
+index b2ec4daa71e6d5ada0339438db58679708f50cba..0000000000000000000000000000000000000000
+--- a/seat-system/commands/shell-init-bash/shell-init-bash.command.test.ts
++++ /dev/null
+@@ -1,97 +0,0 @@
+-import { describe, expect, test } from "bun:test"
+-import type { Given } from "@akasha/command-system/calling"
+-import { scratchWorld } from "@akasha/command-system/scratching"
+-import { writing } from "@akasha/command-system/scratching/testing"
+-import { listedFiled, pageFiled } from "@akasha/indexes/testing"
+-import { readIn, shellInitBash } from "./shell-init-bash.command.code.ts"
+-
+-const given: Given = {
+-  root: "/var/home/walton/repos/akasha",
+-  calledAs: "akasha shell-init-bash",
+-  from: "/var/home/walton/repos/akasha",
+-  writer: null,
+-  agentId: null,
+-}
+-
+-describe("what this takes", () => {
+-  test("is nothing", () => {
+-    expect(readIn([])).toEqual({ composing: true })
+-  })
+-
+-  test("so a word given to it is refused", () => {
+-    const read = readIn(["bash"])
+-    expect("refused" in read).toBe(true)
+-    expect(shellInitBash(["bash"], given).code).toBe(1)
+-  })
+-
+-  test("and every word given is named rather than the first alone", () => {
+-    const read = readIn(["one", "two"])
+-    expect("refused" in read && read.refused.length).toBe(2)
+-  })
+-})
+-
+-describe("the set composed", () => {
+-  const answer = shellInitBash([], given)
+-
+-  test("is answered rather than refused", () => {
+-    expect(answer.refusals).toEqual([])
+-    expect(answer.code).toBe(0)
+-  })
+-
+-  test("goes to the report, one line of the set to one line of the report", () => {
+-    expect(answer.report.length).toBeGreaterThan(50)
+-    for (const one of answer.report) expect(one).not.toContain("\n")
+-  })
+-
+-  test("carries the launchers a terminal reaches", () => {
+-    const said = answer.report.join("\n")
+-    for (const name of ["sn()", "sr()", "cu()", "cna()", "_akasha_reload()"]) {
+-      expect(said).toContain(name)
+-    }
+-  })
+-
+-  test("carries one launcher for each account page stating an alias index", () => {
+-    const said = answer.report.join("\n")
+-    expect(said).toMatch(/^c\d+\(\) \{$/m)
+-  })
+-
+-  test("is bash a shell can parse", async () => {
+-    const ran = Bun.spawn({
+-      cmd: ["bash", "-n"],
+-      stdin: new TextEncoder().encode(answer.report.join("\n")),
+-      stderr: "pipe",
+-    })
+-    expect(await new Response(ran.stderr).text()).toBe("")
+-    expect(await ran.exited).toBe(0)
+-  })
+-})
+-
+-const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
+-
+-const ACCOUNT_TYPE_AT = "akasha/agents/claude-accounts/claude-account.page-type.ts"
+-
+-const ACCOUNT_TYPE_BODY =
+-  `export const claudeAccount = { id: "${ACCOUNT_TYPE}", pageTypeSlug: "page-type", ` +
+-  `slug: "claude-account", pluralSlug: "claude-accounts", extendsSlug: [] } as const\n`
+-
+-function accountlessRoot(root: string): string {
+-  writing(root, ACCOUNT_TYPE_AT, ACCOUNT_TYPE_BODY)
+-  pageFiled(root, ACCOUNT_TYPE, ACCOUNT_TYPE_AT)
+-  listedFiled(root, "page-type", "claude-account", [{ path: ACCOUNT_TYPE_AT, id: ACCOUNT_TYPE }])
+-  return root
+-}
+-
+-describe("a root holding no account page", () => {
+-  test("is a data refusal rather than a set with no launcher", () => {
+-    const world = scratchWorld()
+-    try {
+-      const root = accountlessRoot(world.rootFor("shell-init-bash-"))
+-      const answer = shellInitBash([], { ...given, root })
+-      expect(answer.code).toBe(2)
+-      expect(answer.report).toEqual([])
+-      expect(answer.refusals[0]).toContain("no claude account page was read")
+-    } finally {
+-      world.sweep()
+-    }
+-  })
+-})
+diff --git a/seat-system/commands/shell-init-bash/shell-init-bash.command.ts b/seat-system/commands/shell-init-bash/shell-init-bash.command.ts
+deleted file mode 100644
+index b7839ba1c2bc5cf17f4471a6126ddc6378dea4fb..0000000000000000000000000000000000000000
+--- a/seat-system/commands/shell-init-bash/shell-init-bash.command.ts
++++ /dev/null
+@@ -1,59 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const shellInitBash = {
+-  id: "01a0680a-fa30-7da6-aede-88d6a9a5e49a",
+-  pageTypeSlug: "command",
+-  slug: "shell-init-bash",
+-  definition: "the command composing the bash a terminal sources",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [],
+-  helpNotes: [
+-    "this takes no word and no flag: it composes one set, for bash, and every terminal sources the same one.",
+-    "the set is written to the output stream for a shell to evaluate, so nothing else is ever printed there.",
+-    "the accounts a `c<N>` launcher is composed for are the claude account pages akasha carries.",
+-    "an account whose page states no alias index gets no launcher, and the rest are composed as before.",
+-    "reading no account at all is refused rather than composed as a set with no account launcher in it.",
+-    "every launcher in the set composes the set again by calling this, so a change here reaches a terminal already open.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The set is composed whole on every call rather than kept between calls.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The set goes to the report.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A shell evaluates the output stream.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "One line of the set is one line of the report.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A word given to this command is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The accounts are read from the pages rather than from a snapshot beside those pages.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Reading no account is a data refusal rather than a set with no launchers.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here writes a file or starts a seat.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "A terminal reaches its own functions only where this command can be read.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/seat-system/package.json b/seat-system/package.json
+index 59be61a58026b5f49cf8738ab2df9c93b2a1d064..b97e776f3b160c4ca8652bd0073c4b49ba038cc3 100644
+--- a/seat-system/package.json
++++ b/seat-system/package.json
+@@ -23,6 +23,7 @@
+     "./subagent-page": "./subagent-page/subagent-page.module.code.ts",
+     "./subagent-page-akasha": "./subagent-page-akasha/subagent-page-akasha.module.code.ts",
+     "./takeover-seat": "./takeover-seat/takeover-seat.module.code.ts",
++    "./terminal-bash": "./terminal-init/terminal-bash/terminal-bash.module.code.ts",
+     "./transcript-materialize": "./transcript-materialize/transcript-materialize.module.code.ts",
+     "./agent-io-probe": "./agent-io-probe/agent-io-probe.module.code.ts",
+     "./agent-name-bind": "./agent-name-bind/agent-name-bind.module.code.ts",
