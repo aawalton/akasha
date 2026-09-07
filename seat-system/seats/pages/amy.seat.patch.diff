@@ -39,6 +39,80 @@ index c16810154507b0b3ede830913f399437b4ca181c..21ce5b794a601eb620699f2842f87ff8
  }
  
  function definitionOf(one: Declaration): PropertyDefinition {
+diff --git a/pages/access/file-property-defs/file-property-defs.module.test.ts b/pages/access/file-property-defs/file-property-defs.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0226c845f27be59622d9c55b4f540c80abb2383b
+--- /dev/null
++++ b/pages/access/file-property-defs/file-property-defs.module.test.ts
+@@ -0,0 +1,68 @@
++import { expect, test } from "bun:test"
++import { renderedType } from "./file-property-defs.module.code.ts"
++
++const DRAWN = [
++  "text",
++  "markdown",
++  "number",
++  "select",
++  "multi-select",
++  "path-select",
++  "calendar-date",
++  "calendar-time",
++  "instant",
++  "boolean",
++  "url",
++  "relation",
++  "multi-relation",
++  "rollup",
++  "aggregate",
++  "formula",
++  "json",
++  "rrule",
++  "progress",
++  "rich-document",
++  "action-button",
++]
++
++const DECLARERS = [
++  "boolean-property",
++  "calendar-date-property",
++  "calendar-time-property",
++  "computed-property",
++  "email-address-property",
++  "file-property",
++  "instant-property",
++  "named-file-property",
++  "number-property",
++  "one-of-property",
++  "page-property",
++  "page-property-entry",
++  "phone-number-property",
++  "process-property",
++  "rank-property",
++  "record-property",
++  "relation-property",
++  "select-property",
++  "text-property",
++  "url-property",
++]
++
++test("every property page type renders as a type a screen draws", () => {
++  for (const declarer of DECLARERS) {
++    expect(DRAWN).toContain(renderedType(declarer))
++  }
++})
++
++test("a computed property renders as text rather than as computed", () => {
++  expect(renderedType("computed-property")).toBe("text")
++})
++
++test("a property page type named nowhere renders as text", () => {
++  expect(renderedType("sundial-property")).toBe("text")
++})
++
++test("a type a screen already draws is left as that type", () => {
++  expect(renderedType("markdown")).toBe("markdown")
++  expect(renderedType("rich-document")).toBe("rich-document")
++})
 diff --git a/pages/access/file-property-defs/file-property-defs.module.ts b/pages/access/file-property-defs/file-property-defs.module.ts
 index 51019b542c1a29e0e85cde03ef9a89158786be18..988bdcfaa0f58e1eb5778a684eca76be52e23045 100644
 --- a/pages/access/file-property-defs/file-property-defs.module.ts
