@@ -1,0 +1,383 @@
+diff --git a/changes/checked/pages/rename-package/rename-package.change-checked.code.ts b/changes/checked/pages/rename-package/rename-package.change-checked.code.ts
+index f345161bf756de7a9ca9d40083102877b3907078..985ce3ec4a03858d58a049f381bcf51636afe44f 100644
+--- a/changes/checked/pages/rename-package/rename-package.change-checked.code.ts
++++ b/changes/checked/pages/rename-package/rename-package.change-checked.code.ts
+@@ -1,17 +1,13 @@
+ import { dirname } from "node:path"
++import { manifestIn, nameIn, namingIn, refusalOf } from "@akasha/checks/package-reached-where-named"
+ import { placedIn } from "@akasha/code/code-specifier"
++import { typed } from "@akasha/code/code-typing"
+ import { manifestsIn } from "@akasha/indexes/package-reaching"
++import { importingOf } from "@akasha/indexes/path-naming"
+ import { matchingIn } from "@akasha/pages/name-format/format-reaching"
+ import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
+ import type { Matching } from "@akasha/pages/name-format/name-matching"
+ import ts from "typescript"
+-import {
+-  manifestIn,
+-  nameIn,
+-  namingIn,
+-  refusalOf,
+-} from "../../../../checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.code.ts"
+-import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
+ import {
+   answered,
+   missing,
+@@ -25,6 +21,8 @@ const AT = "at"
+ 
+ const TO = "to"
+ 
++const FROM = "from"
++
+ const NAME = "name"
+ 
+ const UNDER = "/"
+@@ -33,6 +31,8 @@ const AFTER = ":"
+ 
+ const OVER = "@"
+ 
++const UNRENAMED = "so no package is renamed"
++
+ type Splice = { readonly start: number; readonly end: number; readonly said: string }
+ 
+ type Aliased = { readonly opening: string; readonly named: string; readonly range: string }
+@@ -40,6 +40,7 @@ type Aliased = { readonly opening: string; readonly named: string; readonly rang
+ export type RenamePackageAsked = {
+   readonly at: string
+   readonly to: string
++  readonly from?: string
+ }
+ 
+ export function nameFor(said: string, was: string, to: string): string | null {
+@@ -143,25 +144,57 @@ function manifestsOf(world: World): readonly string[] {
+   return manifestsIn(world.index.everyPath(), world.index.fileKeysAt())
+ }
+ 
++function namingOld(world: World, was: string): readonly string[] {
++  const found: string[] = []
++  for (const path of world.index.everyPath()) {
++    if (!typed(path)) continue
++    const body = world.textOf(path)
++    if (body === null || !body.includes(was)) continue
++    found.push(path)
++  }
++  return found
++}
++
++function bodiesReaching(
++  world: World,
++  given: RenamePackageAsked,
++  was: string,
++  held: readonly string[]
++): readonly string[] {
++  if (given.from === undefined) return held
++  return [...new Set([...held, ...namingOld(world, was)])].sort()
++}
++
++function carriedRefusal(given: RenamePackageAsked): string {
++  if (given.from === undefined) return `\`${given.to}\` is the name this package carries`
++  return `\`${FROM}\` and \`${TO}\` name one package, ${UNRENAMED}`
++}
++
++function namedRefusal(given: RenamePackageAsked, matching: Matching): string | null {
++  const said = refusalOf(given.to, matching)
++  if (said !== null) return said
++  return given.from === undefined ? null : refusalOf(given.from, matching)
++}
++
+ export function renamePackage(world: World, given: RenamePackageAsked): Answer {
+   const text = world.textOf(given.at)
+   if (text === null) return refusing(`\`${given.at}\` could not be read`)
+   const held = manifestIn(text)
+   if (held === null || Array.isArray(held)) {
+-    return refusing(`\`${given.at}\` reads as no JSON object, so no package is renamed`)
+-  }
+-  const was = nameIn(text)
+-  if (was === null) {
+-    return refusing(`\`${given.at}\` states no \`${NAME}\`, so no package is renamed`)
++    return refusing(`\`${given.at}\` reads as no JSON object, ${UNRENAMED}`)
+   }
+-  if (was === given.to) return refusing(`\`${given.to}\` is the name this package carries`)
++  const was = given.from ?? nameIn(text)
++  if (was === null) return refusing(`\`${given.at}\` states no \`${NAME}\`, ${UNRENAMED}`)
++  if (was === given.to) return refusing(carriedRefusal(given))
+   const matching = matchingFor(world)
+   if (typeof matching === "string") return refusing(matching)
+-  const said = refusalOf(given.to, matching)
+-  if (said !== null) return refusing(`${said}, so no package is renamed`)
++  const said = namedRefusal(given, matching)
++  if (said !== null) return refusing(`${said}, ${UNRENAMED}`)
+   const reading = importingOf(world.index, reachedIn(given.at, text))
+   if ("unread" in reading) return refusing(reading.unread)
+-  const edits: Edit[] = [writing(given.at, text, restated(given.at, text, was, given.to))]
++  const edits: Edit[] = []
++  const own = restated(given.at, text, was, given.to)
++  if (own !== text) edits.push(writing(given.at, text, own))
+   for (const path of manifestsOf(world)) {
+     if (path === given.at) continue
+     const body = world.textOf(path)
+@@ -169,12 +202,15 @@ export function renamePackage(world: World, given: RenamePackageAsked): Answer {
+     const next = restated(path, body, was, given.to)
+     if (next !== body) edits.push(writing(path, body, next))
+   }
+-  for (const path of reading.importers) {
++  for (const path of bodiesReaching(world, given, was, reading.importers)) {
+     const body = world.textOf(path)
+     if (body === null) return refusing(`\`${path}\` reaches this package and could not be read`)
+     const next = spelledAnew(path, body, was, given.to)
+     if (next !== body) edits.push(writing(path, body, next))
+   }
++  if (given.from !== undefined && edits.length === 0) {
++    return refusing(`nothing names \`${given.from}\`, ${UNRENAMED}`)
++  }
+   return answered(edits)
+ }
+ 
+@@ -185,5 +221,5 @@ export function runChange(world: World, given: Asked): Answer {
+   if (at === undefined) return refusing(missing(AT))
+   const to = given[TO]
+   if (to === undefined) return refusing(missing(TO))
+-  return renamePackage(world, { at, to })
++  return renamePackage(world, { at, to, from: given[FROM] })
+ }
+diff --git a/changes/checked/pages/rename-package/rename-package.change-checked.test.ts b/changes/checked/pages/rename-package/rename-package.change-checked.test.ts
+index 6745d6edee0b794fcac052fe864d4e1978838a66..19a10aca7e22ea7ead91bc130b6b460cd0c76b72 100644
+--- a/changes/checked/pages/rename-package/rename-package.change-checked.test.ts
++++ b/changes/checked/pages/rename-package/rename-package.change-checked.test.ts
+@@ -10,6 +10,8 @@ const INNER = "@akasha/inner"
+ 
+ const HELD = "@akasha/held"
+ 
++const ABSENT = "@akasha/absent"
++
+ const INNER_MANIFEST = "akasha/inner/package.json"
+ 
+ const OUTER_MANIFEST = "akasha/outer/package.json"
+@@ -29,6 +31,8 @@ const INNER_BODY = `{
+ }
+ `
+ 
++const INNER_CARRIED = INNER_BODY.replace(`"${INNER}"`, `"${HELD}"`)
++
+ const OUTER_BODY = `{
+   "name": "@akasha/outer",
+   "exports": {
+@@ -70,6 +74,14 @@ export const spoken = "${INNER}"
+ export const reader = one + two + spoken.length
+ `
+ 
++const READER_WANTED = `import { one } from "${HELD}"
++import { two } from "${HELD}/two"
++
++export const spoken = "${INNER}"
++
++export const reader = one + two + spoken.length
++`
++
+ const VOCABULARY: Readonly<Record<string, string>> = {
+   "akasha/text-property.page-type.ts": bodyOf({
+     id: idAt("0"),
+@@ -167,12 +179,23 @@ function packaged(): World {
+   return worldAt(root, textIn(root))
+ }
+ 
++function carried(): World {
++  const root = indexedRepo({ ...VOCABULARY, ...PACKAGES, [INNER_MANIFEST]: INNER_CARRIED })
++  return worldAt(root, textIn(root))
++}
++
+ function renamed(): ReadonlyMap<string, string | null> {
+   const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
+   expect(said.refused).toBe(null)
+   return new Map(said.edits.map((one) => [one.path, one.body]))
+ }
+ 
++function resumed(): ReadonlyMap<string, string | null> {
++  const said = renamePackage(carried(), { at: INNER_MANIFEST, to: HELD, from: INNER })
++  expect(said.refused).toBe(null)
++  return new Map(said.edits.map((one) => [one.path, one.body]))
++}
++
+ function pathsIn(said: Answer): readonly string[] {
+   return said.edits.map((one) => one.path).sort()
+ }
+@@ -231,7 +254,7 @@ test("a scope written in no lower kebab case is refused", () => {
+ })
+ 
+ test("the package's own manifest states the new name and keeps its spacing", () => {
+-  expect(renamed().get(INNER_MANIFEST)).toBe(INNER_BODY.replace(`"${INNER}"`, `"${HELD}"`))
++  expect(renamed().get(INNER_MANIFEST)).toBe(INNER_CARRIED)
+ })
+ 
+ test("a manifest naming the package among its dependencies is restated", () => {
+@@ -251,13 +274,7 @@ test("a manifest carrying an alias is restated whole", () => {
+ })
+ 
+ test("a body reaching the package has each specifier naming it rewritten", () => {
+-  expect(renamed().get(READER_CODE)).toBe(`import { one } from "${HELD}"
+-import { two } from "${HELD}/two"
+-
+-export const spoken = "${INNER}"
+-
+-export const reader = one + two + spoken.length
+-`)
++  expect(renamed().get(READER_CODE)).toBe(READER_WANTED)
+ })
+ 
+ test("only the manifests and the bodies reaching the package are answered", () => {
+@@ -290,3 +307,46 @@ test("a call handing over no name is refused by the key naming it", () => {
+   expect(said.edits).toEqual([])
+   expect(said.refused).toContain("`to`")
+ })
++
++test("a manifest already carrying the new name is answered with no edit of its own", () => {
++  expect([...resumed().keys()].sort()).toEqual([OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
++})
++
++test("a manifest naming the old name is restated though the package carries the new name", () => {
++  expect(resumed().get(OUTER_MANIFEST)).toBe(OUTER_BODY.replace(`"${INNER}"`, `"${HELD}"`))
++})
++
++test("a manifest aliasing the old name is restated though the package carries the new name", () => {
++  expect(resumed().get(ROOT_MANIFEST)).toBe(ROOT_WANTED)
++})
++
++test("a body reaching under the old name is rewritten though the package carries the new name", () => {
++  expect(resumed().get(READER_CODE)).toBe(READER_WANTED)
++})
++
++test("an old name equal to the new name is refused", () => {
++  const said = renamePackage(carried(), { at: INNER_MANIFEST, to: HELD, from: HELD })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe("`from` and `to` name one package, so no package is renamed")
++})
++
++test("an old name nothing names is refused", () => {
++  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD, from: ABSENT })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`nothing names \`${ABSENT}\`, so no package is renamed`)
++})
++
++test("an old name that is no package name is refused", () => {
++  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD, from: "one/two/three" })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(
++    "the manifest calls this package `one/two/three`, which is no `package-name`, " +
++      "so no package is renamed"
++  )
++})
++
++test("a call handing over an old name renames from that name", () => {
++  const said = runChange(carried(), { at: INNER_MANIFEST, to: HELD, from: INNER })
++  expect(said.refused).toBe(null)
++  expect(pathsIn(said)).toEqual([OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
++})
+diff --git a/changes/checked/pages/rename-package/rename-package.change-checked.ts b/changes/checked/pages/rename-package/rename-package.change-checked.ts
+index bcbfa98e45873451be85aff0c1a81dbe514bac81..7644129eff3ec999a9474ff8713db12429fb9337 100644
+--- a/changes/checked/pages/rename-package/rename-package.change-checked.ts
++++ b/changes/checked/pages/rename-package/rename-package.change-checked.ts
+@@ -14,7 +14,21 @@ export const renamePackage = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The name a package carries is read from the manifest the caller names.",
++      statement:
++        "A caller stating no old name reads the old name from the manifest the caller names.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A caller stating an old name renames from that name rather than from the manifest.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A rename the manifest alone carries is finished by a run stating the old name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The world a change reads is the world the edits before that change leave.",
+     },
+     {
+       invariantKind: "departure",
+@@ -22,16 +36,29 @@ export const renamePackage = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A manifest stating no name is refused.",
++      statement: "A manifest stating no name is refused where the caller states no old name.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A new name the package already carries is refused where the caller states no old name.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name the package already carries is refused.",
++      statement: "An old name equal to the new name is refused.",
+     },
+     {
+       invariantKind: "departure",
+       statement: "A name that is no package name is refused.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An old name that is no package name is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A rename answering no edit is refused where the caller states an old name.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A whole string in a manifest equal to the old name is restated as the new name.",
+@@ -52,6 +79,11 @@ export const renamePackage = {
+       invariantKind: "departure",
+       statement: "Every manifest the index names is read for the old name.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "The manifest the caller names is restated only where restating changes that manifest.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A manifest keeps the spacing that manifest already carries.",
+@@ -59,7 +91,12 @@ export const renamePackage = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The bodies reaching the package are the importers of the files the manifest names as ways in.",
++        "A caller stating no old name reaches the importers of the files the manifest names as ways in.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A caller stating an old name reaches every body the index names holding that name.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/checks/package.json b/checks/package.json
+index db78df69eb5dbd4fe9df3cf60f30f3fc70dc46d5..ac7717f79ee6a2cf5fe96c300bdb6003e7486ed9 100644
+--- a/checks/package.json
++++ b/checks/package.json
+@@ -8,6 +8,7 @@
+     "./change-walking": "./modules/change-walking/change-walking.module.code.ts",
+     "./checking": "./modules/checking/checking.module.code.ts",
+     "./judging": "./modules/judging/judging.module.code.ts",
++    "./package-reached-where-named": "./code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.code.ts",
+     "./repo-files": "./cluster-checks/modules/repo-files/repo-files.module.code.ts",
+     "./repo-scope": "./cluster-checks/modules/repo-scope/repo-scope.module.code.ts",
+     "./rule-population-audit": "./cluster-checks/modules/rule-population-audit/rule-population-audit.module.code.ts",
+diff --git a/pages/indexes/package.json b/pages/indexes/package.json
+index fd0e7ca78dad19672d5e4e32fcde72987a20690e..915aed6d380c7a98ea3e91bfb75236a79bce316b 100644
+--- a/pages/indexes/package.json
++++ b/pages/indexes/package.json
+@@ -13,6 +13,7 @@
+     "./indexing": "./indexing/indexing.module.code.ts",
+     "./indexing/testing": "./indexing/indexing.module.test-fixtures.ts",
+     "./package-reaching": "./package-reaching/package-reaching.module.code.ts",
++    "./path-naming": "./path-naming/path-naming.module.code.ts",
+     "./property-carrying": "./property-carrying/property-carrying.module.code.ts",
+     "./reaching": "./reaching/reaching.module.code.ts",
+     "./rebuilding": "./rebuilding/rebuilding.module.code.ts",
