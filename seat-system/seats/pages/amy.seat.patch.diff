@@ -1,0 +1,46 @@
+diff --git a/pages/core/task-lifecycle/task-lifecycle.module.code.ts b/pages/core/task-lifecycle/task-lifecycle.module.code.ts
+index 8d864c8eb7dd9513965b9dae36b182a7978d8af8..ecb4f230cac0d3527d0a155c129e5a7b053e9ac0 100644
+--- a/pages/core/task-lifecycle/task-lifecycle.module.code.ts
++++ b/pages/core/task-lifecycle/task-lifecycle.module.code.ts
+@@ -54,6 +54,24 @@ export function completedOnTheDayOf(
+   return getEsoDayStr(new Date(was)) === getEsoDayStr(new Date(atMs))
+ }
+ 
++export function nextDueFor(
++  shape: CompletionShape,
++  values: TaskValues,
++  rule: string,
++  atMs: number
++): string | null {
++  try {
++    const next = advanceRecurrenceDueDate(
++      { rrule: rule, dueDate: anchorFor(shape, values, atMs), dueTime: null },
++      new Date(atMs),
++      getEsoResetTime
++    )
++    return next === null ? null : next.dueDate
++  } catch {
++    return null
++  }
++}
++
+ export function completionValues(
+   shape: CompletionShape,
+   values: TaskValues,
+@@ -65,13 +83,9 @@ export function completionValues(
+     if (shape.doneKey === null) return { [shape.stampKey]: stamp }
+     return { [shape.stampKey]: stamp, [shape.doneKey]: stamp }
+   }
+-  const next = advanceRecurrenceDueDate(
+-    { rrule: rule, dueDate: anchorFor(shape, values, atMs), dueTime: null },
+-    new Date(atMs),
+-    getEsoResetTime
+-  )
+-  if (next === null) return { [shape.stampKey]: stamp }
+-  return { [shape.stampKey]: stamp, [shape.dueKey]: next.dueDate }
++  const due = nextDueFor(shape, values, rule, atMs)
++  if (due === null) return { [shape.stampKey]: stamp }
++  return { [shape.stampKey]: stamp, [shape.dueKey]: due }
+ }
+ 
+ export function uncompletionValues(shape: CompletionShape): Readonly<Record<string, null>> {
