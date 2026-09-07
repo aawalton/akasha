@@ -70,6 +70,10 @@ export const noRuleInTwoFiles = {
       statement: "Every file the index names is read on each run whatever the change carries.",
     },
     {
+      invariantKind: "absence",
+      statement: "A rule in a file no page claims is left unread.",
+    },
+    {
       invariantKind: "departure",
       statement: "The check judges at audit alone.",
     },
