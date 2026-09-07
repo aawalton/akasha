@@ -33,7 +33,8 @@ export const tracking = {
     },
     {
       invariantKind: "departure",
-      statement: "The change a call asks for is read by `write` and landed by `tracking-landing`.",
+      statement:
+        "The change a call asks for is read by `file-arguing` and landed by `tracking-landing`.",
     },
     {
       invariantKind: "departure",

@@ -8,6 +8,10 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
+import { said as git } from "@akasha/git/git-running"
+import { declaringUnder } from "@akasha/testing-system/declaring"
+import { admitting } from "@akasha/testing-system/minting"
+import { HELD } from "@akasha/testing-system/page-holding"
 import { everyFileUnder } from "@akasha/testing-system/walking"
 import type { Entry } from "../entries/index-entries.module.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
@@ -304,4 +308,52 @@ export function fileWhereTheIndexIs(root: string, text: string): undefined {
   const at = indexIn(root)
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, text)
+}
+
+const TREE = "akasha"
+
+const IMPORTS_NONE = "akasha/one/imports-none.module.ts"
+
+export const HELD_PAGE = `export const held = {
+  id: "01a04bed-1450-7000-8000-00000000aaaa",
+  pageTypeSlug: "module",
+  slug: "held",
+  definition: "a page carried across a move",
+}
+`
+
+export function moduleTyped(root: string): undefined {
+  const at = `${TREE}/module.page-type.ts`
+  const id = "01a04bed-1450-7000-8000-0000000000ff"
+  listedFiled(root, "page-type", "module", [{ path: at, id }])
+}
+
+export function pagesRebuilt(root: string): string {
+  rebuiltIn(root, TREE)
+  moduleTyped(root)
+  importFiled(root, IMPORTS_NONE, [])
+  admitting(root)
+  return root
+}
+
+export function repoAt(root: string, named: Readonly<Record<string, string>>): string {
+  git(root, ["init", "--quiet"])
+  git(root, ["config", "user.email", "held@nowhere"])
+  git(root, ["config", "user.name", "Held"])
+  for (const [path, body] of Object.entries({ ...declaringUnder(TREE), ...named })) {
+    const at = join(root, path)
+    mkdirSync(join(at, ".."), { recursive: true })
+    writeFileSync(at, body)
+  }
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "first"])
+  writeFileSync(
+    join(root, ".git/info/exclude"),
+    "akasha/*.code-check.ts\nakasha/*.code-check.code.ts\n*.uncommitted.ts\n*.uncommitted.jsonl\n"
+  )
+  return pagesRebuilt(root)
+}
+
+export function heldIndexedAt(root: string): string {
+  return pagesRebuilt(repoAt(root, { [HELD]: HELD_PAGE }))
 }

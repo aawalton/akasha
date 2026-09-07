@@ -1,11 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import {
-  HELD,
-  heldIndexed,
-  scratch,
-  THREE,
-} from "../../../command-system/commands/move/move.command.test-fixtures.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { HELD, THREE } from "@akasha/testing-system/page-holding"
+import { heldIndexedAt } from "../reading/index-reading.module.test-fixtures.ts"
 import { importingOf, namingOf, spellingOf } from "./path-naming.module.code.ts"
+
+const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
@@ -17,6 +16,10 @@ const MOVING = new Map([[HELD, THREE]])
 
 function unindexed(): string {
   return scratch.rootFor("path-naming-")
+}
+
+function heldIndexed(): string {
+  return heldIndexedAt(scratch.rootFor("path-naming-"))
 }
 
 test("a path no page owns is answered as owned by no page", () => {
