@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-keybinder-addon/keybinder-binding-utils/keybinder-binding-utils.module.ts b/temper/temper-keybinder-addon/keybinder-binding-utils/keybinder-binding-utils.module.ts
+index 66e5e2562faea7498744ff35dbe070ee384c7e8d..2e960059a21b73d83b36d184023781d7f3251b11 100644
+--- a/temper/temper-keybinder-addon/keybinder-binding-utils/keybinder-binding-utils.module.ts
++++ b/temper/temper-keybinder-addon/keybinder-binding-utils/keybinder-binding-utils.module.ts
+@@ -14,7 +14,7 @@ export const keybinderBindingUtils = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An action is bound when any one of its binding slots holds a key.",
++      statement: "An action is bound when a binding slot of that action holds a key.",
+     },
+   ],
+ } as const satisfies Module
