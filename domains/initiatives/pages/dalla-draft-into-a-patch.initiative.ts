@@ -8,6 +8,11 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
+      statement: "An edit holds only the information needed to make that edit.",
+      workingMemory:
+        "Olwen's ledger held 1.4 GB in 233 rows, every one a move, each carrying the whole file in `was` and again in `body`; the 76 `.png` rows are 531 MB. 193 of 233 have `was === body`, the 40 that differ being `.ts` files whose imports the move rewrote. The union: `add` holds a path and content, `replace` a path and two passages, `remove` a path, `move` two paths. A whole-file write becomes a `replace` carrying both bodies, the rare road rather than the only one.",
+    },
+    {
       statement: "A change is reached by its address rather than by an import.",
       workingMemory:
         "Met but for one defect. `REACHED` is `change`, so the map covers all 43 addresses where it held 25: 25 mechanical, 15 checked, 2 authored, 1 restated, and `change-command` has no pages. The absence invariant barring command-line changes is deleted. `move-folder-package` reaches both siblings by address. The residue: `addedTo` writes what `gathered` answers into `kept.over` without reading `refused`, so a refusal blanks the ledger rather than surfacing.",
