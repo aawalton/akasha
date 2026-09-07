@@ -49,6 +49,10 @@ export const taskLifecycle = {
       statement: "A rule that will not parse leaves the due date alone.",
     },
     {
+      invariantKind: "departure",
+      statement: "Taking a completion back clears every key that completion set.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes.",
     },

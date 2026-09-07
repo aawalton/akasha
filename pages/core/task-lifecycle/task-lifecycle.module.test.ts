@@ -94,7 +94,10 @@ test("a temper task never reads as done", () => {
 })
 
 test("taking a completion back clears the key that said it was done", () => {
-  expect(uncompletionValues(shapeFor("to-do"))).toEqual({ toDoCompletedAt: null })
+  expect(uncompletionValues(shapeFor("to-do"))).toEqual({
+    toDoLastCompletedAt: null,
+    toDoCompletedAt: null,
+  })
   expect(uncompletionValues(shapeFor("temper-task"))).toEqual({ lastCompletedAt: null })
 })
 

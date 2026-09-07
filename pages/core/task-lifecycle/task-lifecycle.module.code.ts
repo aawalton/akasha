@@ -90,7 +90,7 @@ export function completionValues(
 
 export function uncompletionValues(shape: CompletionShape): Readonly<Record<string, null>> {
   if (shape.doneKey === null) return { [shape.stampKey]: null }
-  return { [shape.doneKey]: null }
+  return { [shape.stampKey]: null, [shape.doneKey]: null }
 }
 
 export function readsAsDone(shape: CompletionShape, values: TaskValues): boolean {
