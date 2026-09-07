@@ -34,6 +34,10 @@ export const noGlobalInAModule = {
     },
     {
       invariantKind: "departure",
+      statement: "A block inside another declaration is refused like a block at the top.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Only the paths the change carries are judged.",
     },
     {

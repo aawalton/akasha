@@ -27,11 +27,15 @@ const MODULES: Selector<Text> = {
 export function reasonsIn(given: Text): readonly string[] {
   const source = parsedAs(given.path, given.text)
   const said: string[] = []
-  for (const one of source.statements) {
-    if (!ts.isModuleDeclaration(one)) continue
-    if (!ts.isIdentifier(one.name) || one.name.text !== GLOBAL) continue
-    said.push(`a \`declare global\` block is written at line ${lineOf(source, one)}. ${WHY} ${HOW}`)
+  const walk = (node: ts.Node): undefined => {
+    if (ts.isModuleDeclaration(node) && ts.isIdentifier(node.name) && node.name.text === GLOBAL) {
+      said.push(
+        `a \`declare global\` block is written at line ${lineOf(source, node)}. ${WHY} ${HOW}`
+      )
+    }
+    ts.forEachChild(node, walk)
   }
+  ts.forEachChild(source, walk)
   return said
 }
 

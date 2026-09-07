@@ -85,3 +85,13 @@ test("a module naming a namespace that is not global is refused nothing", () => 
   const held = "export const away = 1\n\ndeclare module Held {\n  const ONE: number\n}\n"
   expect(reasonsIn({ root: "", path: ONE_AT, text: held })).toEqual([])
 })
+
+test("a block standing inside a declaration about a package is refused like one at the top", () => {
+  const held = 'declare module "foo" {\n  global {\n    const ONE: number\n  }\n}\n'
+  expect(reasonsIn({ root: "", path: ONE_AT, text: held })).toHaveLength(1)
+})
+
+test("a block standing inside a namespace is refused like one at the top", () => {
+  const held = "declare namespace Held {\n  global {\n    const ONE: number\n  }\n}\n"
+  expect(reasonsIn({ root: "", path: ONE_AT, text: held })).toHaveLength(1)
+})
