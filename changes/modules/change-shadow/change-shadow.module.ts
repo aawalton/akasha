@@ -15,6 +15,10 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A world reaching one address is built here rather than by each test.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An answer is cast as the change shape the shadow already reads.",
     },
     {
