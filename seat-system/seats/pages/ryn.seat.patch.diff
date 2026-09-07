@@ -24,15 +24,3 @@ index 077f76790083b17b07957789c5559e74148781ca..aec9a9dc148542ba7efdccaa9c46fcaa
      },
      {
        invariantKind: "departure",
-diff --git a/temper/temper-web/package.json b/temper/temper-web/package.json
-index 8f8ca1d5d22131d0bd5f32e945bf6347a84bce0a..7f512643dc2e411436d94965c54560558cd5382d 100644
---- a/temper/temper-web/package.json
-+++ b/temper/temper-web/package.json
-@@ -16,6 +16,7 @@
-   },
-   "dependencies": {
-     "@akasha/code": "workspace:*",
-+    "@akasha/code-system": "workspace:@akasha/code@*",
-     "@akasha/design-badges": "workspace:*",
-     "@akasha/design-forms": "workspace:*",
-     "@akasha/design-layout": "workspace:*",
