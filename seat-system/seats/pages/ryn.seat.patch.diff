@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/inference/generations/logs/properties/generation-audios.file-property.ts b/inference/generations/logs/properties/generation-audios.file-property.ts
+index b43c6be974e44b913d69a15c2c7b8ffc0154fe5e..332b21d87ffbb0604a139d709212485866c7705f 100644
+--- a/inference/generations/logs/properties/generation-audios.file-property.ts
++++ b/inference/generations/logs/properties/generation-audios.file-property.ts
+@@ -15,7 +15,7 @@ export const generationAudios = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An audio row records where its bytes are, never the bytes.",
++      statement: "An audio row records where its bytes are rather than the bytes.",
+     },
+   ],
+ } as const satisfies FileProperty
