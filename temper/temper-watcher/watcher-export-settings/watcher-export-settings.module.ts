@@ -77,7 +77,7 @@ export const watcherExportSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "The hash answered is the one from whatever wrote the side file.",
+      statement: "The hash answered is the hash from whatever wrote the side file.",
     },
     {
       invariantKind: "departure",
@@ -90,7 +90,7 @@ export const watcherExportSettings = {
     {
       invariantKind: "departure",
       statement:
-        "A caller may hand in what settings are read, what rules are read, and the write of the side file.",
+        "A caller may hand in what settings are read and what rules are read and the write of the side file.",
     },
     {
       invariantKind: "absence",
