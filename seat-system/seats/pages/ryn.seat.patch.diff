@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/inference/generations/audios/audio.page-type.ts b/inference/generations/audios/audio.page-type.ts
+index e1f4b92445a39b7d122bbc4c61c707247f25d550..c9d6763b3775347b9ffcbcb392df82cf93cf78b5 100644
+--- a/inference/generations/audios/audio.page-type.ts
++++ b/inference/generations/audios/audio.page-type.ts
+@@ -19,7 +19,7 @@ export const audio = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An audio records where its bytes are, never the bytes.",
++      statement: "An audio records where its bytes are rather than the bytes.",
+     },
+   ],
+ } as const satisfies PageType
