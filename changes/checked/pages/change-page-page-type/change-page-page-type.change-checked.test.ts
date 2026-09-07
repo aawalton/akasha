@@ -142,6 +142,10 @@ test("each part of the retype is reached at the address that part names", async 
 
   expect(said.refused).toBeNull()
   expect(new Set(reached)).toEqual(
-    new Set(["change-mechanical-code/change-imports", "change-mechanical-file/change-file"])
+    new Set([
+      "change-mechanical-code/change-imports",
+      "change-mechanical-data/rename-page-address",
+      "change-mechanical-file/change-file",
+    ])
   )
 })
