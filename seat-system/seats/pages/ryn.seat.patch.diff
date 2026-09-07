@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/temper/temper-web/use-completion-bodies/use-completion-bodies.module.ts b/temper/temper-web/use-completion-bodies/use-completion-bodies.module.ts
+index 5fdf8c8b026173aa812916a80bec9326fdb3ccf9..93e4e4aea800176291f5a75abfba9e758e48b770 100644
+--- a/temper/temper-web/use-completion-bodies/use-completion-bodies.module.ts
++++ b/temper/temper-web/use-completion-bodies/use-completion-bodies.module.ts
+@@ -9,7 +9,8 @@ export const useCompletionBodies = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A body is asked for by the view that reads it rather than held for every view.",
++      statement:
++        "A body is asked for by the view that reads the body rather than held for every view.",
+     },
+     {
+       invariantKind: "departure",
