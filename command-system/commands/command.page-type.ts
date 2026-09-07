@@ -109,6 +109,7 @@ export const command = {
     "namespace/lint",
     "namespace/domain",
     "namespace/model-gateway",
+    "namespace/temper",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/calling",
