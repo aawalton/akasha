@@ -23,20 +23,37 @@ const UNASKED: World = {
   over: NOTHING_OVER,
 }
 
-test("a page type is refused, and the refusal names the change that takes a page type away", () => {
-  const said = removePage(UNASKED, { at: "changes/change.page-type.ts" })
+test("a page type is refused, and the refusal names the change that takes a page type away", async () => {
+  const said = await removePage(UNASKED, { at: "changes/change.page-type.ts" })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/remove-page-type/)
 })
 
-test("a page type is refused from the path alone, with the world never asked", () => {
-  expect(() => removePage(UNASKED, { at: "changes/change.page-type.ts" })).not.toThrow()
+test("a page type is refused from the path alone, with the world never asked", async () => {
+  await expect(removePage(UNASKED, { at: "changes/change.page-type.ts" })).resolves.toBeDefined()
 })
 
-test("a path reading as no page file is refused", () => {
-  const said = removePage(UNASKED, { at: "changes/notes.md" })
+test("a path reading as no page file is refused", async () => {
+  const said = await removePage(UNASKED, { at: "changes/notes.md" })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/no page file/)
+})
+
+test("a page this change hands on is reached through the runner the world carries", async () => {
+  let reached = ""
+  const said = await removePage(
+    {
+      ...UNASKED,
+      reaching: (_world, at) => {
+        reached = at
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    { at: "changes/one.module.ts" }
+  )
+
+  expect(reached).toBe("change-mechanical/remove-page")
+  expect(said.refused).toBeNull()
 })

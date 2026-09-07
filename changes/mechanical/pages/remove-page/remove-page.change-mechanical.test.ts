@@ -12,15 +12,34 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { relationNotLeftHanging } from "../../../guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
-import { answered, taking } from "../../../modules/change-answer/change-answer.module.code.ts"
+import {
+  answered,
+  refusing,
+  taking,
+} from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import {
+  type Reaching,
   type World,
   worldAt,
   worldOver,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
+import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
 import { parentsOf, removePage } from "./remove-page.change-mechanical.code.ts"
+
+type Unnaming = { at: string; key: string; value: string }
+
+const RUNS: Reaching = (world, at, given) => {
+  if (at === "change-mechanical/remove-file") {
+    return Promise.resolve(removeFile(given as { at: string }, world.textOf))
+  }
+  if (at === "change-mechanical/remove-property-value") {
+    return Promise.resolve(removePropertyValue(world, given as Unnaming))
+  }
+  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+}
 
 afterAll(scratch.sweep)
 
@@ -72,7 +91,7 @@ const CHILD = pageOf({
 })
 
 function worldIn(root: string): World {
-  return worldAt(root, textIn(root))
+  return worldAt(root, textIn(root), RUNS)
 }
 
 function keptRepo(): string {
@@ -121,11 +140,11 @@ function tookAway(root: string, path: string): Answer {
   return answered([taking(path, textIn(root)(path) ?? "")])
 }
 
-test("a page and the file beside that page are taken away together", () => {
+test("a page and the file beside that page are taken away together", async () => {
   const root = indexedRepo(SPARE)
   const was = textIn(root)
 
-  const said = removePage(worldIn(root), { at: NAMER_PAGE })
+  const said = await removePage(worldIn(root), { at: NAMER_PAGE })
 
   expect(said.refused).toBe(null)
   expect(said.edits.map((one) => one.path).sort()).toEqual([NAMER_CODE, NAMER_PAGE])
@@ -135,49 +154,51 @@ test("a page and the file beside that page are taken away together", () => {
   }
 })
 
-test("a page another page still names is refused by the guards this change names", () => {
+test("a page another page still names is refused by the guards this change names", async () => {
   const root = indexedRepo(SPARE)
+  const world = worldIn(root)
 
-  const said = removePage(worldIn(root), { at: HELD_PAGE })
+  const answer = await removePage(world, { at: HELD_PAGE })
+  const said = guardedBy(world, answer, [relationNotLeftHanging])
 
-  expect(said.edits).toEqual([])
+  expect(answer.refused).toBe(null)
   expect(said.refused ?? "").toContain(`\`${HELD_PAGE}\` is taken away`)
 })
 
-test("a path the world names no page at is refused", () => {
+test("a path the world names no page at is refused", async () => {
   const root = indexedRepo()
 
-  const said = removePage(worldIn(root), { at: MISSING })
+  const said = await removePage(worldIn(root), { at: MISSING })
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${MISSING}\` names no page, so no page is taken away`)
 })
 
-test("a page holding no body is refused by the removal of its own file", () => {
+test("a page holding no body is refused by the removal of its own file", async () => {
   const root = indexedRepo(SPARE)
   const was = textIn(root)
   const reading = (path: string): string | null => (path === NAMER_PAGE ? null : was(path))
 
-  const said = removePage(worldAt(root, reading), { at: NAMER_PAGE })
+  const said = await removePage(worldAt(root, reading, RUNS), { at: NAMER_PAGE })
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${NAMER_PAGE}\` holds no body, so a removal takes nothing away`)
 })
 
-test("a file beside the page git does not track is taken away too", () => {
+test("a file beside the page git does not track is taken away too", async () => {
   const root = keptRepo()
 
-  const said = removePage(worldIn(root), { at: KEPT_PAGE })
+  const said = await removePage(worldIn(root), { at: KEPT_PAGE })
 
   expect(said.refused).toBe(null)
   expect(said.edits.map((one) => one.path).sort()).toEqual([KEPT_NOTES, KEPT_PAGE])
 })
 
-test("a page an earlier change in the same answer took away is no page here", () => {
+test("a page an earlier change in the same answer took away is no page here", async () => {
   const root = indexedRepo(SPARE)
   const world = worldOver(worldIn(root), tookAway(root, NAMER_PAGE))
 
-  const said = removePage(world, { at: NAMER_PAGE })
+  const said = await removePage(world, { at: NAMER_PAGE })
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${NAMER_PAGE}\` names no page, so no page is taken away`)
@@ -198,11 +219,11 @@ test("a parent an earlier change in the same answer took away is answered no lon
   expect(parentsOf(world, HELD_PAGE)).toEqual([])
 })
 
-test("the page and the parent's entry for that page go in one answer", () => {
+test("the page and the parent's entry for that page go in one answer", async () => {
   const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "module/child") })
   const was = textIn(root)
 
-  const said = removePage(worldIn(root), { at: CHILD_PAGE })
+  const said = await removePage(worldIn(root), { at: CHILD_PAGE })
 
   expect(said.refused).toBe(null)
   expect(said.edits.map((one) => one.path).sort()).toEqual([CHILD_PAGE, PARENT_PAGE])
@@ -212,10 +233,10 @@ test("the page and the parent's entry for that page go in one answer", () => {
   expect(said.edits.find((one) => one.path === PARENT_PAGE)?.was).toBe(was(PARENT_PAGE))
 })
 
-test("a parent naming the page bare rather than qualified loses that entry too", () => {
+test("a parent naming the page bare rather than qualified loses that entry too", async () => {
   const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "child") })
 
-  const said = removePage(worldIn(root), { at: CHILD_PAGE })
+  const said = await removePage(worldIn(root), { at: CHILD_PAGE })
 
   expect(said.refused).toBe(null)
   expect(said.edits.map((one) => one.path).sort()).toEqual([CHILD_PAGE, PARENT_PAGE])
@@ -223,13 +244,13 @@ test("a parent naming the page bare rather than qualified loses that entry too",
   expect(bodyIn(said, PARENT_PAGE)).not.toContain('"child"')
 })
 
-test("a page two parents name loses its entry in both", () => {
+test("a page two parents name loses its entry in both", async () => {
   const root = familyRepo({
     [PARENT_PAGE]: naming("parent", idOf("e"), "module/child"),
     [AUNT_PAGE]: naming("aunt", idOf("f"), "module/child"),
   })
 
-  const said = removePage(worldIn(root), { at: CHILD_PAGE })
+  const said = await removePage(worldIn(root), { at: CHILD_PAGE })
 
   expect(said.refused).toBe(null)
   expect(said.edits.map((one) => one.path).sort()).toEqual([AUNT_PAGE, CHILD_PAGE, PARENT_PAGE])
@@ -237,12 +258,12 @@ test("a page two parents name loses its entry in both", () => {
   expect(bodyIn(said, AUNT_PAGE)).toContain('"partSlugs": []')
 })
 
-test("a page its parent names is refused by the relation guard no longer", () => {
+test("a page its parent names is refused by the relation guard no longer", async () => {
   const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "module/child") })
   const world = worldIn(root)
   const alone = guardedBy(world, tookAway(root, CHILD_PAGE), [relationNotLeftHanging])
 
   expect(parentsOf(world, CHILD_PAGE)).toEqual([{ path: PARENT_PAGE, propertySlug: "part-slugs" }])
   expect(alone.refused ?? "").toContain(`\`${CHILD_PAGE}\` is taken away`)
-  expect(removePage(world, { at: CHILD_PAGE }).refused).toBe(null)
+  expect((await removePage(world, { at: CHILD_PAGE })).refused).toBe(null)
 })

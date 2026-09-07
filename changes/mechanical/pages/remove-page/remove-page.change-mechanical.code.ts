@@ -1,25 +1,22 @@
 import type { Named } from "@akasha/indexes"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
-import { importNotLeftHanging } from "../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
-import { relationNotLeftHanging } from "../../../guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
 import {
   answered,
   gathered,
   refusing,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
-import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
-import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
 
 const PART_SLUGS = "part-slugs"
 
 const PART_SLUGS_KEY = "partSlugs"
 
-const GUARDS = [relationNotLeftHanging, importNotLeftHanging]
+const REMOVE_FILE = "change-mechanical/remove-file"
+
+const REMOVE_PROPERTY_VALUE = "change-mechanical/remove-property-value"
 
 export type RemoveOrdinaryPageAsked = {
   readonly at: string
@@ -41,14 +38,13 @@ export function parentsOf(world: World, at: string): readonly Named[] {
   return found
 }
 
-/** A parent names the page qualified or bare, so the bare spelling is tried where the other refuses. */
-function unnamingIn(world: World, at: string): Answer {
+async function unnamingIn(world: World, at: string): Promise<Answer> {
   const said = partedIn(at)
   if (said === null) return answered([])
   const qualified = `${said.pageType}/${said.slug}`
   const answers: Answer[] = []
   for (const parent of parentsOf(world, at)) {
-    const one = removePropertyValue(world, {
+    const one = await reach(world, REMOVE_PROPERTY_VALUE, {
       at: parent.path,
       key: PART_SLUGS_KEY,
       value: qualified,
@@ -57,7 +53,7 @@ function unnamingIn(world: World, at: string): Answer {
       answers.push(one)
       continue
     }
-    const bare = removePropertyValue(world, {
+    const bare = await reach(world, REMOVE_PROPERTY_VALUE, {
       at: parent.path,
       key: PART_SLUGS_KEY,
       value: said.slug,
@@ -68,7 +64,7 @@ function unnamingIn(world: World, at: string): Answer {
   return gathered(answers)
 }
 
-export function removePage(world: World, given: RemoveOrdinaryPageAsked): Answer {
+export async function removePage(world: World, given: RemoveOrdinaryPageAsked): Promise<Answer> {
   let beside: readonly string[]
   try {
     const value = pageIn(world, given.at)
@@ -78,12 +74,13 @@ export function removePage(world: World, given: RemoveOrdinaryPageAsked): Answer
     const why = cause instanceof Error ? cause.message : String(cause)
     return refusing(`${why}, so the files beside \`${given.at}\` were not worked out`)
   }
-  const taken = beside.map((one) => removeFile({ at: one }, world.textOf))
-  const unnamed = unnamingIn(world, given.at)
+  const taken: Answer[] = []
+  for (const one of beside) taken.push(await reach(world, REMOVE_FILE, { at: one }))
+  const unnamed = await unnamingIn(world, given.at)
   if (unnamed.refused !== null) return unnamed
-  return guardedBy(world, gathered([...taken, unnamed]), GUARDS)
+  return gathered([...taken, unnamed])
 }
 
-export function runChange(world: World, given: RemoveOrdinaryPageAsked): Answer {
-  return removePage(world, given)
+export async function runChange(world: World, given: RemoveOrdinaryPageAsked): Promise<Answer> {
+  return await removePage(world, given)
 }

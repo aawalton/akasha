@@ -21,6 +21,7 @@ import {
   type Loaded,
   loadedAt,
   ranBy,
+  runAt,
 } from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
 import {
   type Given as Arguments,
@@ -85,7 +86,7 @@ function textIn(root: string): (path: string) => string | null {
 }
 
 function worldFor(root: string, had: readonly Edit[], before: Said): World {
-  const base = worldAt(root, textIn(root))
+  const base = worldAt(root, textIn(root), runAt)
   return had.length === 0 ? base : worldOver(base, before)
 }
 
@@ -121,7 +122,10 @@ export function takingOf(world: World): Taking {
 }
 
 export function helping(root: string, calledAs: string): Answer {
-  const surface = { taking: takingOf(worldAt(root, textIn(root))), helpNotes: changePage.helpNotes }
+  const surface = {
+    taking: takingOf(worldAt(root, textIn(root), runAt)),
+    helpNotes: changePage.helpNotes,
+  }
   return { report: helpOf(calledAs, changePage.definition, surface), refusals: [], code: 0 }
 }
 
@@ -239,7 +243,7 @@ export async function changing(
   loading: Loading,
   applying: Applying
 ): Promise<Answer> {
-  const world = worldAt(root, textIn(root))
+  const world = worldAt(root, textIn(root), runAt)
   const slug = argv[0]
   if (slug === undefined) {
     return mistaking([`no change is named, and this runs one of ${runsSaid(world)}`, DROP_SAID])
