@@ -1,0 +1,23 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/alan/fitness/equipment-items/equipment-item.page-type.ts b/alan/fitness/equipment-items/equipment-item.page-type.ts
+index 58bfe8d8d8997ed3a85850709d3e8993cf450678..6d67988eeb63bed3ff20da71b017db23e03a5467 100644
+--- a/alan/fitness/equipment-items/equipment-item.page-type.ts
++++ b/alan/fitness/equipment-items/equipment-item.page-type.ts
+@@ -27,16 +27,10 @@ export const equipmentItem = {
+   extendsSlug: ["page-type/page"],
+   partSlugs: [
+     "boolean-property/equipment-available",
+-    "boolean-property/equipment-item-available",
+-    "number-property/equipment-item-sort-order",
+     "number-property/equipment-loads",
+     "number-property/equipment-sort-order",
+     "select-property/equipment-category",
+     "select-property/equipment-configuration",
+-    "select-property/equipment-item-category",
+-    "select-property/equipment-item-configuration",
+-    "text-property/equipment-item-loads",
+-    "text-property/equipment-item-notes",
+     "text-property/equipment-notes",
+   ],
+   properties: [
