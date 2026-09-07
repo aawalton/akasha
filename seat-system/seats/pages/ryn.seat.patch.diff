@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/ops-extension/ops-extension.workspace-package.ts b/editor-extension/ops-extension/ops-extension.workspace-package.ts
+index 4b84257272cbc6be8559807c45fe85990dd45e64..a9a9b143e4c1211d683fb735236869ccf0c608e4 100644
+--- a/editor-extension/ops-extension/ops-extension.workspace-package.ts
++++ b/editor-extension/ops-extension/ops-extension.workspace-package.ts
+@@ -18,7 +18,7 @@ export const opsExtension = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A panel, a command, a menu and a color are stated in the manifest.",
++      statement: "A panel and a command and a menu and a color are stated in the manifest.",
+     },
+     {
+       invariantKind: "departure",
