@@ -1,0 +1,27 @@
+writerOwesReading: false
+diff --git a/command-system/address-mapping/address-mapping.module.code.ts b/command-system/address-mapping/address-mapping.module.code.ts
+index 3117811dd5a5e1d36d7079a72e6fbed3f480ad7d..233a47ff908b2f4ee9c9cad24823d5b36d85ff36 100644
+--- a/command-system/address-mapping/address-mapping.module.code.ts
++++ b/command-system/address-mapping/address-mapping.module.code.ts
+@@ -10,7 +10,7 @@ import { baseOf, changeOf } from "../landing/landing.module.code.ts"
+ 
+ const RUNNER = "change-runner"
+ 
+-const REACHED = "change-mechanical"
++const REACHED = "change"
+ 
+ const ADDRESSED = "addressed"
+ 
+diff --git a/command-system/address-mapping/address-mapping.module.ts b/command-system/address-mapping/address-mapping.module.ts
+index 5e1f2b4e75d4f49d12b6522794b1f6333984d4de..9a0068f770fb8349c8aff310b0ac019a00d19522 100644
+--- a/command-system/address-mapping/address-mapping.module.ts
++++ b/command-system/address-mapping/address-mapping.module.ts
+@@ -13,7 +13,7 @@ export const addressMapping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A mechanical change exporting the run is reached by the map.",
++      statement: "A change exporting the run is reached by the map.",
+     },
+     {
+       invariantKind: "departure",
