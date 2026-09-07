@@ -18,7 +18,7 @@ export const pageCarry = {
     {
       invariantKind: "departure",
       statement:
-        "A value that is neither text, a number, a boolean nor a list is carried as its JSON.",
+        "A value that is neither text nor a number nor a boolean nor a list is carried as its JSON.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,11 @@ export const pageCarry = {
     },
     {
       invariantKind: "departure",
-      statement: "Text carried into a list is trimmed, and text that trims away lists as nothing.",
+      statement: "Text carried into a list is trimmed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Text that trims away lists as nothing.",
     },
     {
       invariantKind: "absence",
