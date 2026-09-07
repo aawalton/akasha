@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index b42cbd90f6452bee4e86cfce3578046b4fc396fa..8378d10378e0b1c9069ee98740a40950e9ad54ff 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -15,7 +15,7 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "An applied patch runs the checks and the warrants its changes call for.",
+       workingMemory:
+-        "The apply has its own `unwarranted` at `apply.command.code.ts:112-126` rather than calling `unwarrantedIn`, and runs it above the glass, so `--break-the-glass` skips the checks and skips no warrant. Its predicate is `writerOwesReading !== false`, so a row silent about its writer is owing. Checks run on the apply alone; `akasha change` builds no gate. Left: `lint-exception` and `patch` declare `change-authored` and never ask, and `lint-exception` now states that absence.",
++        "The apply's own `unwarranted` at `apply.command.code.ts:112-126` is not `unwarrantedIn` rewritten: the shared one reads one flag off the call, the local one filters each row, and `FileEdit` carries no `writerOwesReading` field. It runs above the glass, so the glass skips checks and skips no warrant. `lint-exception` and `patch` both run checks and neither warrants; `akasha patch apply` reaches `applying` directly where `akasha apply` warrants its rows first.",
+     },
+     {
+       statement:
