@@ -1,5 +1,5 @@
 diff --git a/pages/export-name/page-export-name.module.ts b/pages/export-name/page-export-name.module.ts
-index 65ca04a4af2ad5cf5d6901f37c6d7a5cab08074a..dafbf1ffe5eaa1d62e12822d491fedd4c315779b 100644
+index 65ca04a4af2ad5cf5d6901f37c6d7a5cab08074a..9cf812f7690fad7d2711f727225ec5d97e2df9a4 100644
 --- a/pages/export-name/page-export-name.module.ts
 +++ b/pages/export-name/page-export-name.module.ts
 @@ -23,8 +23,11 @@ export const pageExportName = {
@@ -29,3 +29,12 @@ index 65ca04a4af2ad5cf5d6901f37c6d7a5cab08074a..dafbf1ffe5eaa1d62e12822d491fedd4
      },
      {
        invariantKind: "departure",
+@@ -45,7 +52,7 @@ export const pageExportName = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reaches a page, an index or a change.",
++      statement: "Nothing here reaches a page or an index or a change.",
+     },
+   ],
+ } as const satisfies Module
