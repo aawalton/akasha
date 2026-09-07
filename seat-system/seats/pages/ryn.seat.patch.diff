@@ -1,0 +1,17 @@
+diff --git a/command-system/commands/drive/drive.command.ts b/command-system/commands/drive/drive.command.ts
+index 03149b70bded6303fbe78da879c72146df3e3bf6..6c57f40bc40ead90f4ed538cdd814b99a7556368 100644
+--- a/command-system/commands/drive/drive.command.ts
++++ b/command-system/commands/drive/drive.command.ts
+@@ -43,7 +43,11 @@ export const drive = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The first word is the act, and only the consent takes a second word.",
++      statement: "The first word is the act.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Only the consent takes a second word.",
+     },
+     {
+       invariantKind: "departure",
