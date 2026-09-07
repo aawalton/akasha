@@ -25,7 +25,8 @@ export const gatewayTreeVersion = {
     },
     {
       invariantKind: "departure",
-      statement: "A relative specifier resolves as written, then with `.ts`, then as a directory.",
+      statement:
+        "A relative specifier resolves as written and then with `.ts` and then as a directory.",
     },
     {
       invariantKind: "departure",
