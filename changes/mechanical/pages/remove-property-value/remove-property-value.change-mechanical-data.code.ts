@@ -47,7 +47,10 @@ function without(
 }
 
 function requiredIn(world: World, given: RemovePropertyValueAsked): boolean | null {
-  const placed = placingOver(world.index.everyPath(), world.textOf)
+  const placed = placingOver(
+    world.over.edits.map((one) => one.path),
+    world.textOf
+  )
   const read = readingOf(world.root, world.textOf, placed)
   const typing = typingOver(world.root, [given.at], read, placed)
   const source = typing.sourceAt(given.at)

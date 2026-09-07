@@ -73,6 +73,9 @@ export type Given = {
 }
 
 export function runChange(world: World, given: Given): Answer {
-  const placed = placingOver(world.index.everyPath(), world.textOf)
+  const placed = placingOver(
+    world.over.edits.map((one) => one.path),
+    world.textOf
+  )
   return renameExport(world.root, given.at, given.over, given.of, given.to, world.textOf, placed)
 }

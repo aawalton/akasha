@@ -113,7 +113,10 @@ export async function renameCodeToken(world: World, given: RenameCodeTokenAsked)
   if (!typed(given.at)) return refusing(`\`${given.at}\` names no TypeScript body`)
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
-  const placed = placingOver(world.index.everyPath(), world.textOf)
+  const placed = placingOver(
+    world.over.edits.map((one) => one.path),
+    world.textOf
+  )
   const read = readingOf(world.root, world.textOf, placed)
   const typing = typingOver(world.root, [given.at], read, placed)
   if (exportsNamed(typing, given.at, given.of).length > 0) return await exported(world, given)
