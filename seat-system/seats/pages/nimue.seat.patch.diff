@@ -1,0 +1,24 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.test.ts b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.test.ts
+index e59bc7972e781eb361996c607802454101638a0c..0a87c28eb35c60f337691ab4ed2500dfd3b2f4e6 100644
+--- a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.test.ts
++++ b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.test.ts
+@@ -128,13 +128,14 @@ test("a page type whose page holds no body refuses", async () => {
+ test("each part of the retype is reached at the address that part names", async () => {
+   const reached: string[] = []
+   const root = repoIn()
+-  const world = worldAt(root, textIn(root), (_world, at) => {
++  const world = worldAt(root, textIn(root), (over, at, given) => {
+     reached.push(at)
+-    return Promise.resolve({ edits: [], refused: null })
++    return RUNS(over, at, given)
+   })
+ 
+-  await changePagePageType(world, { at: ONE_PAGE, to: SPARE_TYPE })
++  const said = await changePagePageType(world, { at: ONE_PAGE, to: SPARE_TYPE })
+ 
++  expect(said.refused).toBeNull()
+   expect(new Set(reached)).toEqual(
+     new Set(["change-mechanical/repoint-imports", "change-mechanical/change-file"])
+   )
