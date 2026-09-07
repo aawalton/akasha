@@ -1,447 +1,74 @@
 writerOwesReading: false
-diff --git a/changes/modules/edits-keeping/edits-keeping.module.code.ts b/changes/modules/edits-keeping/edits-keeping.module.code.ts
-index cd4c815e3cd841b9f07b4c58fd2e3dea81cd816b..b20f814021df4e56eaa7bdb3053d3b7570217b9a 100644
---- a/changes/modules/edits-keeping/edits-keeping.module.code.ts
-+++ b/changes/modules/edits-keeping/edits-keeping.module.code.ts
-@@ -202,11 +202,10 @@ function appended(root: string, page: string, text: string): undefined {
-   appendFileSync(full, text)
- }
+diff --git a/changes/modules/change-answer/change-answer.module.test.ts b/changes/modules/change-answer/change-answer.module.test.ts
+index 4da8342f6b1db8381e3bf3230c9d853a92898229..323f6343655a42771fbd1b15ee883f51a54853e3 100644
+--- a/changes/modules/change-answer/change-answer.module.test.ts
++++ b/changes/modules/change-answer/change-answer.module.test.ts
+@@ -1,4 +1,5 @@
+ import { expect, test } from "bun:test"
++import fc from "fast-check"
+ import { type BodyOf, expanded, gathered, narrowed, widened } from "./change-answer.module.code.ts"
+ import type { Answer, Edit } from "./change-answer.module.types.ts"
  
--function appending(root: string, page: string, rows: readonly Edit[]): undefined {
-+function poured(root: string, page: string, lines: readonly string[]): undefined {
-   let held: string[] = []
-   let bytes = 0
--  for (const one of rows) {
--    const line = `${JSON.stringify(one)}\n`
-+  for (const line of lines) {
-     const size = Buffer.byteLength(line, "utf8")
-     if (bytes > 0 && bytes + size > ENTRY_CEILING) {
-       appended(root, page, held.join(""))
-@@ -219,6 +218,14 @@ function appending(root: string, page: string, rows: readonly Edit[]): undefined
-   if (held.length > 0) appended(root, page, held.join(""))
- }
+@@ -259,6 +260,62 @@ test("a move whose body changed comes back as it was", () => {
+   expect(rounded(one, { [AWAY]: "one" })).toEqual({ edits: [one], refused: null })
+ })
  
-+function appending(root: string, page: string, rows: readonly Edit[]): undefined {
-+  poured(
-+    root,
-+    page,
-+    rows.map((one) => `${JSON.stringify(one)}\n`)
++const TEXT = fc.string({ maxLength: 40 })
++
++const FULL = fc.string({ minLength: 1, maxLength: 40 })
++
++test("a write onto a path holding nothing comes back whole for any body", () => {
++  fc.assert(
++    fc.property(FULL, (body) => {
++      const one = { path: AT, was: null, body }
++
++      expect(rounded(one, {})).toEqual({ edits: [one], refused: null })
++    })
 +  )
-+}
-+
- function abandoned(root: string, page: string): undefined {
-   const old = staleAt(page)
-   if (old === null) return
-@@ -231,6 +238,30 @@ function swept(root: string, page: string): undefined {
-   abandoned(root, page)
- }
- 
-+export function linesIn(root: string, page: string): readonly string[] {
-+  const held = textOver(root, page) ?? staleIn(root, page)
-+  return held === null ? [] : held.split("\n").filter((one) => one !== "")
-+}
-+
-+export function droppedFirst(root: string, page: string, went: readonly string[]): undefined {
-+  const at = editsAt(page)
-+  if (at === null) return
-+  const full = join(root, at)
-+  mkdirSync(dirname(full), { recursive: true })
-+  exclusively(full, (): undefined => {
-+    const held = linesIn(root, page)
-+    if (held.length < went.length) return
-+    for (let one = 0; one < went.length; one += 1) if (held[one] !== went[one]) return
-+    const left = held.slice(went.length)
-+    swept(root, page)
-+    poured(
-+      root,
-+      page,
-+      left.map((one) => `${one}\n`)
-+    )
-+  })
-+}
-+
- function migrated(root: string, page: string): undefined {
-   const at = editsAt(page)
-   if (at === null || existsSync(join(root, at))) return
-diff --git a/changes/modules/edits-keeping/edits-keeping.module.ts b/changes/modules/edits-keeping/edits-keeping.module.ts
-index 251cb2e04da89bb66d951113524ef14297517c4d..1ffb3117ff7f0940966af29a9561c4879bac0274 100644
---- a/changes/modules/edits-keeping/edits-keeping.module.ts
-+++ b/changes/modules/edits-keeping/edits-keeping.module.ts
-@@ -103,6 +103,14 @@ export const editsKeeping = {
-       invariantKind: "departure",
-       statement: "A writer takes a turn over the file before appending.",
-     },
-+    {
-+      invariantKind: "departure",
-+      statement: "The lines a caller already holds are dropped as lines rather than as edits.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A drop finding other lines at the front leaves every line where those lines are.",
-+    },
-     {
-       invariantKind: "gap",
-       statement: "A reader taking no turn can meet a row a write left half appended.",
-diff --git a/command-system/change-freshness/change-freshness.module.code.ts b/command-system/change-freshness/change-freshness.module.code.ts
-index 38d7dceae2a78984d98be2fd3f618d9899268705..7aac00038556a838f7c325c75d6db2e5f77f5699 100644
---- a/command-system/change-freshness/change-freshness.module.code.ts
-+++ b/command-system/change-freshness/change-freshness.module.code.ts
-@@ -1,6 +1,8 @@
- import { readFileSync } from "node:fs"
- import { join } from "node:path"
--import { told } from "@akasha/git/git-running"
-+import { said as gitIn, told } from "@akasha/git/git-running"
-+import { sameBody as sameBytes } from "../body-merging/body-merging.module.code.ts"
-+import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
- import { blobIdOf, type Reading, sameBody } from "../reading/reading.module.code.ts"
- 
- const HERE = "."
-@@ -37,3 +39,60 @@ export function reachedSince(root: string, base: string, now: string): readonly
-   const found = changedSince(root, base, now, HERE)
-   return found === null ? null : [...found].sort()
- }
-+
-+function movedBetween(
-+  root: string,
-+  read: string,
-+  base: string,
-+  paths: readonly string[]
-+): readonly string[] {
-+  const moved: string[] = []
-+  for (const one of paths) {
-+    if (!sameBytes(bodyAt(root, read, one), bodyAt(root, base, one))) moved.push(one)
-+  }
-+  return moved.sort()
-+}
-+
-+export function unfresh(
-+  root: string,
-+  named: string | null,
-+  base: string,
-+  paths: readonly string[],
-+  asRead: readonly Reading[],
-+  tail: string
-+): readonly string[] | null {
-+  const moved = named === null || named === base ? [] : movedBetween(root, named, base, paths)
-+  if (named !== null && moved.length > 0) {
-+    return [
-+      ...moved.map(
-+        (one) =>
-+          `${one} — read against \`${named}\`, and what is at \`${base}\` is not what was read, so writing it would put back what moved in between`
-+      ),
-+      tail,
-+    ]
-+  }
-+  const stirred = movedOnDisk(root, asRead)
-+  if (stirred.length === 0) return null
-+  return [
-+    ...stirred.map(
-+      (one) =>
-+        `${one} — what is on disk is not the body you read, so writing it would put back what moved in between`
-+    ),
-+    tail,
-+  ]
-+}
-+
-+export function commitNamed(root: string, named: string): string | null {
-+  try {
-+    const said = gitIn(root, [
-+      "rev-parse",
-+      "--verify",
-+      "--quiet",
-+      "--end-of-options",
-+      `${named}^{commit}`,
-+    ]).trim()
-+    return said === "" ? null : said
-+  } catch {
-+    return null
-+  }
-+}
-diff --git a/command-system/change-freshness/change-freshness.module.test.ts b/command-system/change-freshness/change-freshness.module.test.ts
-index 9a3dc73ccab3a896b08bb52ed2ec02d387618760..477857cc7e185b4fe72558a6cfad9c5e01a3d12e 100644
---- a/command-system/change-freshness/change-freshness.module.test.ts
-+++ b/command-system/change-freshness/change-freshness.module.test.ts
-@@ -8,7 +8,7 @@ import { landing } from "../landing/landing.module.code.ts"
- import { A, ADMITS, bytes, MODULE_AT, TYPE } from "../landing/landing.module.test-fixtures.ts"
- import { blobIdOf, type Reading } from "../reading/reading.module.code.ts"
- import { scratchWorld } from "../scratching/scratching.module.code.ts"
--import { movedOnDisk, reachedSince } from "./change-freshness.module.code.ts"
-+import { commitNamed, movedOnDisk, reachedSince, unfresh } from "./change-freshness.module.code.ts"
- 
- const scratch = scratchWorld()
- 
-@@ -194,6 +194,32 @@ test("a commit reaching `akasha/` while the change was judged refuses nothing",
-   expect(readFileSync(join(root, "akasha/meanwhile.txt"), "utf8")).toBe("landed inside")
- })
- 
-+test("a name git resolves to one commit is answered as that commit", () => {
-+  const root = repoWith(PAGES)
-+  const head = headOf(root)
-+  expect(commitNamed(root, "HEAD")).toBe(head)
-+  expect(commitNamed(root, head)).toBe(head)
 +})
 +
-+test("a name resolving to no commit is answered as nothing", () => {
-+  const root = repoWith(PAGES)
-+  expect(commitNamed(root, "no-such-ref")).toBe(null)
++test("a write over a body comes back whole for any two bodies", () => {
++  fc.assert(
++    fc.property(TEXT, TEXT, (was, body) => {
++      fc.pre(was !== body)
++      const one = { path: AT, was, body }
++
++      expect(rounded(one, { [AT]: was })).toEqual({ edits: [one], refused: null })
++    })
++  )
 +})
 +
-+test("a body on disk that is not the body read is answered as moved, with the tail last", () => {
-+  const root = repoWith(PAGES)
-+  const held = readA()
-+  writeFileSync(join(root, AT), "moved")
-+  const said = unfresh(root, null, headOf(root), [AT], [held], "tail")
-+  expect(said?.[0]).toContain(MOVED)
-+  expect(said?.at(-1)).toBe("tail")
++test("an edit stating no body comes back whole for any body", () => {
++  fc.assert(
++    fc.property(TEXT, (was) => {
++      const one = { path: AT, was, body: null }
++
++      expect(rounded(one, { [AT]: was })).toEqual({ edits: [one], refused: null })
++    })
++  )
 +})
 +
-+test("a body on disk that is the body read is answered as nothing", () => {
-+  const root = repoWith(PAGES)
-+  expect(unfresh(root, null, headOf(root), [AT], [readA()], "tail")).toBe(null)
++test("a move carrying the body unchanged comes back whole for any body", () => {
++  fc.assert(
++    fc.property(TEXT, (was) => {
++      const one = { path: AT, was, body: was, from: AWAY }
++
++      expect(rounded(one, { [AWAY]: was })).toEqual({ edits: [one], refused: null })
++    })
++  )
 +})
 +
- test("a commit reaching nothing under `akasha/` while the change was judged refuses nothing", async () => {
-   const root = repoWith(PAGES)
-   const said = await landing(
-diff --git a/command-system/change-freshness/change-freshness.module.ts b/command-system/change-freshness/change-freshness.module.ts
-index bde1c9a033b083a5fa1e75a63ea12e88405a1a03..bb85c9da906853d190092df82497bc1078965174 100644
---- a/command-system/change-freshness/change-freshness.module.ts
-+++ b/command-system/change-freshness/change-freshness.module.ts
-@@ -31,6 +31,14 @@ export const changeFreshness = {
-       invariantKind: "absence",
-       statement: "A path no reading was recorded for is held to nothing.",
-     },
-+    {
-+      invariantKind: "departure",
-+      statement: "The commit a change states is taken by any name git resolves to one commit.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A path read against one commit and changed by another is answered as moved.",
-+    },
-     {
-       invariantKind: "departure",
-       statement: "A commit reaching nothing this repository holds can change no verdict.",
-diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
-index 3007d0c75ad2689b561ea5871fcb50d73cf12061..0afc1cb43eab7766423f9bb354f2ba1ede8b5fb3 100644
---- a/command-system/landing/landing.module.code.ts
-+++ b/command-system/landing/landing.module.code.ts
-@@ -5,7 +5,7 @@ import { textIn, textOf } from "@akasha/code/body-text"
- import { gitIgnoring } from "@akasha/git/git-pathspec"
- import { said as gitIn } from "@akasha/git/git-running"
- import type { Change } from "@akasha/pages/change"
--import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts"
-+import { commitNamed, unfresh } from "../change-freshness/change-freshness.module.code.ts"
- import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
- import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
- import type { Bodies, Draft, Running } from "../drafting/drafting.module.code.ts"
-@@ -252,59 +252,6 @@ function indexed(
-   return held.settle()
- }
- 
--function sameBody(one: Uint8Array | null, two: Uint8Array | null): boolean {
--  if (one === null || two === null) return one === two
--  return Buffer.from(one).equals(Buffer.from(two))
--}
--
--function movedBetween(
--  root: string,
--  read: string,
--  base: string,
--  changed: readonly FileEdit[]
--): readonly string[] {
--  const moved: string[] = []
--  for (const one of changed) {
--    if (!sameBody(bodyAt(root, read, one.path), bodyAt(root, base, one.path))) moved.push(one.path)
--  }
--  return moved.sort()
--}
--
--function unfresh(
--  root: string,
--  named: string | null,
--  base: string,
--  changes: readonly FileEdit[],
--  asRead: readonly AsRead[],
--  tail: string
--): Refused | null {
--  const moved = named === null || named === base ? [] : movedBetween(root, named, base, changes)
--  if (named !== null && moved.length > 0) {
--    return {
--      refusals: [
--        ...moved.map(
--          (one) =>
--            `${one} — read against \`${named}\`, and what is at \`${base}\` is not what was read, so writing it would put back what moved in between`
--        ),
--        tail,
--      ],
--    }
--  }
--  const stirred = movedOnDisk(root, asRead)
--  if (stirred.length > 0) {
--    return {
--      refusals: [
--        ...stirred.map(
--          (one) =>
--            `${one} — what is on disk is not the body you read, so writing it would put back what moved in between`
--        ),
--        tail,
--      ],
--    }
--  }
--  return null
--}
--
- function draftsOf(root: string, base: string, changes: readonly FileEdit[]): readonly Draft[] {
-   const before = beforeOf(root, base, changes)
-   return changes.map((one) => ({
-@@ -327,8 +274,9 @@ function draftedBy(
-   running: Running
- ): Drafted | Refused {
-   const base = baseOf(root)
--  const stale = unfresh(root, named, base, changes, asRead, AGAIN_DRAFTED)
--  if (stale !== null) return stale
-+  const changing = changes.map((one) => one.path)
-+  const stale = unfresh(root, named, base, changing, asRead, AGAIN_DRAFTED)
-+  if (stale !== null) return { refusals: stale }
-   const said = draftedOnto(root, page, drafts, running)
-   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
-   return {
-@@ -341,21 +289,6 @@ function draftedBy(
-   }
- }
- 
--function commitNamed(root: string, named: string): string | null {
--  try {
--    const said = gitIn(root, [
--      "rev-parse",
--      "--verify",
--      "--quiet",
--      "--end-of-options",
--      `${named}^{commit}`,
--    ]).trim()
--    return said === "" ? null : said
--  } catch {
--    return null
--  }
--}
--
- export function landing(
-   root: string,
-   changes: readonly FileEdit[],
-@@ -443,8 +376,9 @@ export async function landing(
-   }
-   return holding(root, () => {
-     const base = baseOf(root)
--    const stale = unfresh(root, named, base, changes, asRead, AGAIN_WRITTEN)
--    if (stale !== null) return stale
-+    const paths = changes.map((one) => one.path)
-+    const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN)
-+    if (stale !== null) return { refusals: stale }
-     const split = heldBack(root, changes)
-     const before = beforeOf(root, base, split.committing)
-     const keeping = indexingLoaded()
-diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
-index bd876e2ce20a921e00d382bc0f97b8d7187c39b7..ca4e3f9f585ad36348b7550cbcda3dbbfa1aa665 100644
---- a/command-system/landing/landing.module.ts
-+++ b/command-system/landing/landing.module.ts
-@@ -32,10 +32,6 @@ export const landing = {
-       invariantKind: "departure",
-       statement: "A change may state the commit its bodies were read against.",
-     },
--    {
--      invariantKind: "departure",
--      statement: "The commit a change states is taken by any name git resolves to one commit.",
--    },
-     {
-       invariantKind: "departure",
-       statement: "A name resolving to no commit refuses the change unwritten.",
-diff --git a/commands/pages/apply/apply.command.code.ts b/commands/pages/apply/apply.command.code.ts
-index a6e1da50b66e3302ba5d1ea841754487dc918db4..9134b07960894ccfe1bfb6c4f46158273d770cae 100644
---- a/commands/pages/apply/apply.command.code.ts
-+++ b/commands/pages/apply/apply.command.code.ts
-@@ -4,9 +4,11 @@ import { agentPathOf, changingOf, owedIn } from "@akasha/context/warranting"
- import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
- import { bytesOf } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
- import {
-+  droppedFirst,
-   editsAt,
-   foldedIn,
-   keptEdits,
-+  linesIn,
- } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
- import { writtenAgain } from "../../../command-system/address-mapping/address-mapping.module.code.ts"
- import { applying, type Carried } from "../../../command-system/applying/applying.module.code.ts"
-@@ -42,7 +44,7 @@ const BARE: readonly string[] = []
- 
- const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
- 
--export type Unfold = { readonly patch: string | null; readonly rows: readonly Edit[] }
-+export type Unfold = { readonly patch: string | null; readonly went: readonly string[] }
- 
- export type Folded =
-   | {
-@@ -107,7 +109,7 @@ export function folding(root: string, page: string): Folded {
-     answer = {
-       folded: said.edits.map((one) => one.path).sort(),
-       dropped,
--      unfold: { patch: was, rows: had },
-+      unfold: { patch: was, went: linesIn(root, page) },
-       carried: { held: took.held, running: took.running },
-     }
-     return had
-@@ -169,11 +171,7 @@ async function refusedBefore(root: string, page: string): Promise<readonly strin
- 
- export function undone(root: string, page: string, unfold: Unfold): string | null {
-   if (patchIn(root, page) === null) {
--    const rows = unfold.rows
--    const went = JSON.stringify(rows)
--    keptEdits(root, page, (had) =>
--      JSON.stringify(had.slice(0, rows.length)) === went ? had.slice(rows.length) : had
--    )
-+    droppedFirst(root, page, unfold.went)
-     return null
-   }
-   putBack(root, page, unfold.patch)
-diff --git a/commands/pages/apply/apply.command.test.ts b/commands/pages/apply/apply.command.test.ts
-index 67c516da95f2cff202889e912f317c7f8b3d0254..9af1fe10673e24a0cdf2cfa0dd81265cf32a29d9 100644
---- a/commands/pages/apply/apply.command.test.ts
-+++ b/commands/pages/apply/apply.command.test.ts
-@@ -138,9 +138,13 @@ function carried(root: string): readonly string[] {
- }
- 
- function foldOf(said: Folded): unknown {
--  return "refusals" in said
--    ? said
--    : { folded: said.folded, dropped: said.dropped, unfold: said.unfold }
-+  if ("refusals" in said) return said
-+  const unfold = said.unfold
-+  return {
-+    folded: said.folded,
-+    dropped: said.dropped,
-+    unfold: unfold === null ? null : { patch: unfold.patch },
-+  }
- }
- 
- function landing(root: string, said: Folded): string {
-@@ -162,7 +166,7 @@ test("an edit is drafted into the patch and the rows it came from are kept", asy
-   expect(foldOf(folding(root, PAGE))).toEqual({
-     folded: [ONE],
-     dropped: [],
--    unfold: { patch: null, rows: [row] },
-+    unfold: { patch: null },
-   })
- 
-   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
-@@ -229,9 +233,10 @@ test("a patch the agent already holds takes the folded edits in", async () => {
-   expect(foldOf(folding(root, PAGE))).toEqual({
-     folded: [ONE],
-     dropped: [],
--    unfold: { patch: was, rows: [row] },
-+    unfold: { patch: was },
-   })
- 
-+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
-   expect(carried(root)).toEqual([ONE, TWO])
- })
- 
++test("a move whose body changed comes back whole for any two bodies", () => {
++  fc.assert(
++    fc.property(TEXT, TEXT, (was, body) => {
++      fc.pre(was !== body)
++      const one = { path: AT, was, body, from: AWAY }
++
++      expect(rounded(one, { [AWAY]: was })).toEqual({ edits: [one], refused: null })
++    })
++  )
++})
++
+ test("one edit refused refuses the whole answer", () => {
+   const edits = [
+     { kind: "add", path: AT, content: "one" },
