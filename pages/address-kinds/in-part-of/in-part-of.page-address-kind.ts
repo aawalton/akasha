@@ -10,23 +10,36 @@ export const inPartOf = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The index answers this kind under the scope of the parent named.",
+      statement: "The index answers this kind under the page type and then the parent.",
     },
     {
       invariantKind: "departure",
-      statement: "This kind answers the reach `part-of`.",
+      statement: "This kind answers the level `part-of`.",
     },
     {
       invariantKind: "departure",
-      statement: "The parent is named by an address rather than by a slug.",
+      statement:
+        "The parent is the value the property a declaration's `partOfScope` names carries.",
     },
     {
       invariantKind: "departure",
-      statement: "A page part of more than one page has an address under every parent page.",
+      statement: "That property is required and carries one value.",
     },
     {
-      invariantKind: "absence",
-      statement: "No address of this kind is the one address for the page that address names.",
+      invariantKind: "departure",
+      statement: "The part-of edge is a spanning tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That property declares the parent's page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The address carries no page type for the parent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page has one address of this kind.",
     },
   ],
 } as const satisfies PageAddressKind

@@ -22,15 +22,23 @@ export const pageAddressKind = {
     },
     {
       invariantKind: "departure",
-      statement: "Each kind answers a single reach a unique property is filed under.",
+      statement: "Each kind answers one level the identity index files under.",
     },
     {
       invariantKind: "departure",
-      statement: "A kind holds the code recognising an address of that kind.",
+      statement: "A kind holds the code finding the page an address of that kind names.",
     },
     {
-      invariantKind: "absence",
-      statement: "No address is told apart by counting the slashes a string carries.",
+      invariantKind: "departure",
+      statement: "An address is a structured value rather than a string that is parsed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address carries every part of the identity path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Finding a page reads one file.",
     },
   ],
 } as const satisfies PageType
