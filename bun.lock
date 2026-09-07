@@ -978,6 +978,7 @@
     "inference/generations/zimage": {
       "name": "@akasha/zimage",
       "dependencies": {
+        "@akasha/code": "workspace:*",
         "@akasha/comfy": "workspace:*",
       },
     },
