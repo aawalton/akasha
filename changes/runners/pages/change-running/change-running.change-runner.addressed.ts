@@ -41,11 +41,11 @@ export type Changes = {
   "change-mechanical-file/add-file-page-type": Parameters<
     typeof import("../../../mechanical/pages/add-file-page-type/add-file-page-type.change-mechanical-file.code.ts")["runChange"]
   >[1]
-  "change-mechanical-file/change-code-file": Parameters<
-    typeof import("../../../mechanical/file/pages/change-code-file/change-code-file.change-mechanical-file.code.ts")["runChange"]
-  >[1]
   "change-mechanical-file/change-file": Parameters<
     typeof import("../../../mechanical/pages/change-file/change-file.change-mechanical-file.code.ts")["runChange"]
+  >[1]
+  "change-mechanical-file/change-file-code": Parameters<
+    typeof import("../../../mechanical/file/pages/change-file-code/change-file-code.change-mechanical-file.code.ts")["runChange"]
   >[1]
   "change-mechanical-file/move-file": Parameters<
     typeof import("../../../mechanical/pages/move-file/move-file.change-mechanical-file.code.ts")["runChange"]

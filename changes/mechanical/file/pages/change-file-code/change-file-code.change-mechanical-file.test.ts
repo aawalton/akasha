@@ -13,7 +13,7 @@ import {
   worldAt,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { changeFile } from "../../../pages/change-file/change-file.change-mechanical-file.code.ts"
-import { runChange } from "./change-code-file.change-mechanical-file.code.ts"
+import { runChange } from "./change-file-code.change-mechanical-file.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file/change-file") {
