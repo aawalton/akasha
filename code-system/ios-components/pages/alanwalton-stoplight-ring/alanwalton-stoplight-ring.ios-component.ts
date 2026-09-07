@@ -20,5 +20,13 @@ export const alanwaltonStoplightRing = {
       invariantKind: "absence",
       statement: "Nothing here works out whether a reading past either end draws its number.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An arc filling the whole ring is not drawn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading at the end of its band draws that band's own tier.",
+    },
   ],
 } as const satisfies IosComponent

@@ -16,7 +16,8 @@ struct StoplightRing: View {
     private static let lineHeightFactor = 1.2
 
     private var arc: (tier: Tier, progress: Double)? {
-        guard let nextTier = nextTier, let progress = progress, progress > 0 else { return nil }
+        guard let nextTier = nextTier, let progress = progress, progress > 0, progress < 1
+        else { return nil }
         return (nextTier, progress)
     }
 
