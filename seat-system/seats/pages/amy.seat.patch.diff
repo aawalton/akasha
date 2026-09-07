@@ -398,3 +398,17 @@ index 0808be3ab04a639dc84d7a74f5ecd871b4a51235..66a93fb97b10af8695ccfba64774355d
 +    },
    ],
  } as const satisfies Module
+diff --git a/pages/indexes/package.json b/pages/indexes/package.json
+index 8fa997b12874ec2cd6a38f0e16a560add9250f11..fd0e7ca78dad19672d5e4e32fcde72987a20690e 100644
+--- a/pages/indexes/package.json
++++ b/pages/indexes/package.json
+@@ -18,7 +18,8 @@
+     "./rebuilding": "./rebuilding/rebuilding.module.code.ts",
+     "./relation": "./relation/index-relation.index.code.ts",
+     "./shape": "./shape/index-shape.module.code.ts",
+-    "./testing": "./reading/index-reading.module.test-fixtures.ts"
++    "./testing": "./reading/index-reading.module.test-fixtures.ts",
++    "./value/page": "./value/index-value.index.ts"
+   },
+   "dependencies": {
+     "@akasha/code": "workspace:*"
