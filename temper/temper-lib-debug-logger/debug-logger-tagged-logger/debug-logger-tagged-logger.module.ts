@@ -13,7 +13,7 @@ export const debugLoggerTaggedLogger = {
     },
     {
       invariantKind: "departure",
-      statement: "A sub-logger tag is the parent tag and the new one parted by a slash.",
+      statement: "A sub-logger tag is the parent tag and the new tag parted by a slash.",
     },
     {
       invariantKind: "departure",
