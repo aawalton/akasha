@@ -1946,6 +1946,7 @@
     "temper/temper-commands": {
       "name": "@akasha/temper-commands",
       "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/command-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/indexes": "workspace:*",
