@@ -2972,6 +2972,9 @@
     },
     "verdict": {
       "name": "@akasha/verdict",
+      "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
+      },
     },
     "version/checkout": {
       "name": "@akasha/checkout-version",

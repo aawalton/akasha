@@ -21,7 +21,7 @@ export const outcome = {
     },
     {
       invariantKind: "departure",
-      statement: "How much was looked at is carried beside the findings.",
+      statement: "The amount looked at is carried beside the findings.",
     },
   ],
 } as const satisfies Module
