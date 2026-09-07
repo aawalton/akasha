@@ -1,0 +1,210 @@
+writerOwesReading: false
+diff --git a/infrastructure/cluster-manifests/ci-namespace-synth/ci-namespace-synth.module.code.ts b/infrastructure/cluster-manifests/ci-namespace-synth/ci-namespace-synth.module.code.ts
+index 6fca0e875e4a235a831c8a40bb9ce3d0142eea3b..f82de68e5872f9cdf0763587f81388cec1a5e3dc 100644
+--- a/infrastructure/cluster-manifests/ci-namespace-synth/ci-namespace-synth.module.code.ts
++++ b/infrastructure/cluster-manifests/ci-namespace-synth/ci-namespace-synth.module.code.ts
+@@ -1,4 +1,4 @@
+-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
++import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
+ 
+ const NAMESPACE = "ci"
+ 
+@@ -6,17 +6,6 @@ const NAMESPACE_LABELS = {
+   "kubernetes.io/metadata.name": NAMESPACE,
+ } as const
+ 
+-function namespaceYaml(): string {
+-  return synthOne(NAMESPACE, "namespace", {
+-    apiVersion: "v1",
+-    kind: "Namespace",
+-    metadata: {
+-      name: NAMESPACE,
+-      labels: NAMESPACE_LABELS,
+-    },
+-  })
+-}
+-
+ export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
+-  return [{ name: "namespace", yaml: namespaceYaml() }]
++  return [{ name: "namespace", yaml: namespaceYaml(NAMESPACE, NAMESPACE_LABELS) }]
+ }
+diff --git a/infrastructure/cluster-manifests/orphan-resource-audit/orphan-resource-audit.module.code.ts b/infrastructure/cluster-manifests/orphan-resource-audit/orphan-resource-audit.module.code.ts
+index 0f53b9c6d264a992fc5e2450c35ef4495c239868..ebd51074acbce2eb0380cbf68d1771e16fc94d2d 100644
+--- a/infrastructure/cluster-manifests/orphan-resource-audit/orphan-resource-audit.module.code.ts
++++ b/infrastructure/cluster-manifests/orphan-resource-audit/orphan-resource-audit.module.code.ts
+@@ -2,6 +2,7 @@ import { relative } from "node:path"
+ import { discoverSynthFiles } from "@akasha/k8s-synth/synth-discovery"
+ import { loadSynthOutputs } from "@akasha/k8s-synth/synth-loading"
+ import { akashaRoot } from "@akasha/pages/checkout-roots"
++import { isRecord } from "@akasha/utils-narrow/is-record"
+ import { parseAllDocuments } from "yaml"
+ import { NAMESPACE_NAMES } from "../app-namespaces-synth/app-namespaces-synth.module.code.ts"
+ import {
+@@ -20,10 +21,6 @@ export function resourceKey(kind: string, namespace: string, name: string): stri
+   return `${kind}/${namespace}/${name}`
+ }
+ 
+-function isRecord(value: unknown): value is Record<string, unknown> {
+-  return typeof value === "object" && value !== null
+-}
+-
+ export function keyOfManifest(body: unknown): string | null {
+   if (!isRecord(body)) return null
+   const kind = body.kind
+diff --git a/infrastructure/cluster-manifests/package.json b/infrastructure/cluster-manifests/package.json
+index f90b415cecaf6eb2a7fd01dbd972146fb9f4a45f..f3ff2d4918a4db1270f73943b6c3eea39aceffc0 100644
+--- a/infrastructure/cluster-manifests/package.json
++++ b/infrastructure/cluster-manifests/package.json
+@@ -69,6 +69,8 @@
+     "@akasha/k8s-types": "workspace:*",
+     "@akasha/pages": "workspace:*",
+     "@akasha/seat-system": "workspace:*",
++    "@akasha/utils-narrow": "workspace:*",
++    "@akasha/utils-run": "workspace:*",
+     "@akasha/workflow-language": "workspace:*",
+     "yaml": "^2.8.0",
+     "zod": "^4.3.6"
+diff --git a/infrastructure/cluster-manifests/realtime-tenant-bootstrap/realtime-tenant-bootstrap.module.code.ts b/infrastructure/cluster-manifests/realtime-tenant-bootstrap/realtime-tenant-bootstrap.module.code.ts
+index 4381bed3095d12958e52751462bfdec2adc6ddc6..5439374817aa9b8e4e332f913b28143bbf79ca94 100644
+--- a/infrastructure/cluster-manifests/realtime-tenant-bootstrap/realtime-tenant-bootstrap.module.code.ts
++++ b/infrastructure/cluster-manifests/realtime-tenant-bootstrap/realtime-tenant-bootstrap.module.code.ts
+@@ -1,6 +1,7 @@
+ #!/usr/bin/env bun
+ 
+ import { createHmac } from "node:crypto"
++import { ran } from "@akasha/utils-run/running"
+ import { z } from "zod"
+ 
+ const REALTIME_URL = z
+@@ -22,19 +23,23 @@ const REALTIME_SECRET_NAME = z
+   .parse(process.env.REALTIME_SECRET_NAME)
+ 
+ function readKubeSecret(namespace: string, secretName: string, key: string): string {
+-  const proc = Bun.spawnSync({
+-    cmd: ["kubectl", "get", "secret", "-n", namespace, secretName, "-o", `jsonpath={.data.${key}}`],
+-    stdout: "pipe",
+-    stderr: "pipe",
+-  })
+-  if (proc.exitCode !== 0) {
+-    const stderr = proc.stderr ? new TextDecoder().decode(proc.stderr).trim() : ""
++  const done = ran([
++    "kubectl",
++    "get",
++    "secret",
++    "-n",
++    namespace,
++    secretName,
++    "-o",
++    `jsonpath={.data.${key}}`,
++  ])
++  if (done.code !== 0) {
+     console.error(
+-      `kubectl get secret ${secretName} (key=${key}) in namespace ${namespace} failed (exit ${proc.exitCode}): ${stderr}`
++      `kubectl get secret ${secretName} (key=${key}) in namespace ${namespace} failed (exit ${done.code}): ${done.err.trim()}`
+     )
+     process.exit(1)
+   }
+-  const encoded = new TextDecoder().decode(proc.stdout).trim()
++  const encoded = done.out.trim()
+   if (encoded === "") {
+     console.error(
+       `${key} not present in secret ${secretName}/${key} — has the secret been applied?`
+diff --git a/infrastructure/cluster/k8s-synth/package.json b/infrastructure/cluster/k8s-synth/package.json
+index b5d44ac72dd2ad06bff6f11c99e1bcddfaa7924d..d17df53c0cb3eb3418431fe45b15d5289912e97a 100644
+--- a/infrastructure/cluster/k8s-synth/package.json
++++ b/infrastructure/cluster/k8s-synth/package.json
+@@ -8,6 +8,7 @@
+     "./synth-loading": "./synth-loading/synth-loading.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/command-system": "workspace:*",
+     "@akasha/indexes": "workspace:*",
+     "zod": "^4.3.6"
+   }
+diff --git a/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.test.ts b/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.test.ts
+index 14738dcca0cb8b33d0b121b7e787769424224c66..51df489fbf2be67f5ec8bb1062d5bd9f70d81884 100644
+--- a/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.test.ts
++++ b/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.test.ts
+@@ -1,14 +1,16 @@
+ import { afterAll, beforeAll, expect, test } from "bun:test"
+-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+-import { tmpdir } from "node:os"
+-import { dirname, join } from "node:path"
++import { scratchWorld } from "@akasha/command-system/scratching"
++import { writing } from "@akasha/command-system/scratching/testing"
++import { valueAlsoFiled } from "@akasha/indexes/testing"
+ import {
+   appliedManifestPaths,
+   discoverSynthFiles,
+   isSynthPath,
+ } from "./synth-discovery.module.code.ts"
+ 
+-const VALUE_AT = ".git/data/index/value"
++const MANIFEST = "manifest"
++
++const CLUSTER_SERVICE = "cluster-service"
+ 
+ const MANIFESTS: readonly (readonly [string, string])[] = [
+   ["alpha/gamma/gamma.manifest.ts", "gamma"],
+@@ -30,45 +32,40 @@ const GLOBBED: readonly string[] = [
+   "inference/generations/upscale/two-synth/two-synth.module.code.ts",
+ ]
+ 
+-let root = ""
++const SYNTH_BODY = "export default () => []\n"
+ 
+-function put(rel: string, body: string): undefined {
+-  const at = join(root, rel)
+-  mkdirSync(dirname(at), { recursive: true })
+-  writeFileSync(at, body)
+-}
++const scratch = scratchWorld()
+ 
+-function filed(name: string, lines: readonly unknown[]): undefined {
+-  put(`${VALUE_AT}/${name}.jsonl`, lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
+-}
++let root = ""
+ 
+ function found(pkgFilter?: string): readonly string[] {
+   return discoverSynthFiles(root, pkgFilter).map((one) => one.slice(root.length + 1))
+ }
+ 
+ beforeAll(() => {
+-  root = mkdtempSync(join(tmpdir(), "synth-discovery-"))
+-  for (const rel of GLOBBED) put(rel, "export default () => []\n")
+-  for (const [path] of MANIFESTS)
+-    put(path.replace(/\.ts$/, ".code.ts"), "export default () => []\n")
+-  filed(
+-    "manifest",
+-    MANIFESTS.map(([path, slug]) => ({ path, value: { pageTypeSlug: "manifest", slug } }))
++  root = scratch.rootFor("synth-discovery-")
++  for (const rel of GLOBBED) writing(root, rel, SYNTH_BODY)
++  for (const [path] of MANIFESTS) writing(root, path.replace(/\.ts$/, ".code.ts"), SYNTH_BODY)
++  valueAlsoFiled(
++    root,
++    MANIFEST,
++    MANIFESTS.map(([path, slug]) => ({ path, value: { pageTypeSlug: MANIFEST, slug } }))
+   )
+-  filed(
+-    "cluster-service",
++  valueAlsoFiled(
++    root,
++    CLUSTER_SERVICE,
+     SERVICES.map(([path, named]) => ({
+       path,
+       value:
+         named === null
+-          ? { pageTypeSlug: "cluster-service" }
+-          : { pageTypeSlug: "cluster-service", manifestSlug: named },
++          ? { pageTypeSlug: CLUSTER_SERVICE }
++          : { pageTypeSlug: CLUSTER_SERVICE, manifestSlug: named },
+     }))
+   )
+ })
+ 
+ afterAll(() => {
+-  rmSync(root, { recursive: true, force: true })
++  scratch.sweep()
+ })
+ 
+ test("the code file of the manifest a cluster service is applied as is found", () => {
