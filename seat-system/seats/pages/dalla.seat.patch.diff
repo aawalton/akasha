@@ -1,0 +1,17 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index f05b47b63e06b0286a67ac8956c7517dedec3567..202bde5e62dcda709afb0336bec437773e2ed181 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -72,6 +72,11 @@ export const dallaDraftIntoAPatch = {
+       workingMemory:
+         "`change-running` loads a change by address and runs the guards its page names, so no call reaches one unguarded. Its `addressed` sidecar maps each address to `Parameters<typeof import(path)['runChange']>[1]`, reading each signature rather than restating one, and `address-mapping` writes it inside `preparing` where the gate judges it. The map reaches `change-mechanical` alone, so any other address refuses at compile time. Left: a change still reaches another change by import.",
+     },
++    {
++      statement: "The patch a landing works out is held by no page property.",
++      workingMemory:
++        "`agent.page-type.ts` declares `file-property/patch` and `file-property/edits`, defaulting to `diff` and `jsonl`, and `patch-keeping` still defines itself as a file beside the page across its definition and all 8 invariants. Both stores already moved to `refs/akasha/patch`, `refs/akasha/edits` and `refs/akasha/edits-handed`, so each property names a file that is no longer the store. Five `.patch.diff` files remain tracked beside pages, 412 KB, last written 2026-09-06.",
++    },
+   ],
+   constraints: [
+     "A read hands back the body at HEAD rather than the body the patch would leave.",
