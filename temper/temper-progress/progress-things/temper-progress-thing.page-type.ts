@@ -3,7 +3,7 @@ import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
 import type { Character } from "./properties/character.text-property.ts"
 import type { CompletionCardId } from "./properties/completion-card-id.text-property.ts"
 import type { CompletionItemPath } from "./properties/completion-item-path.text-property.ts"
-import type { DueDate } from "./properties/due-date.text-property.ts"
+import type { DueDate } from "./properties/due-date.calendar-date-property.ts"
 import type { NodeId } from "./properties/node-id.text-property.ts"
 import type { Priority } from "./properties/priority.text-property.ts"
 import type { RruleAnchorFromCompletion } from "./properties/rrule-anchor-from-completion.boolean-property.ts"
@@ -31,10 +31,10 @@ export const temperProgressThing = {
   extendsSlug: ["page-type/temper-thing"],
   partSlugs: [
     "boolean-property/rrule-anchor-from-completion",
+    "calendar-date-property/due-date",
     "text-property/character",
     "text-property/completion-card-id",
     "text-property/completion-item-path",
-    "text-property/due-date",
     "text-property/node-id",
     "text-property/priority",
     "text-property/rrule-rule",
@@ -52,7 +52,7 @@ export const temperProgressThing = {
     },
     { pagePropertySlug: "text-property/scope", required: false, many: false },
     { pagePropertySlug: "text-property/priority", required: false, many: false },
-    { pagePropertySlug: "text-property/due-date", required: false, many: false },
+    { pagePropertySlug: "calendar-date-property/due-date", required: false, many: false },
     { pagePropertySlug: "text-property/rrule-rule", required: false, many: false },
     {
       pagePropertySlug: "boolean-property/rrule-anchor-from-completion",

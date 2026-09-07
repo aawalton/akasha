@@ -14,7 +14,7 @@ export const completions = {
     { pagePropertySlug: "text-property/title", required: false, many: false },
     { pagePropertySlug: "text-property/character", required: false, many: false },
     { pagePropertySlug: "text-property/eso-character-id", required: false, many: false },
-    { pagePropertySlug: "text-property/due-date", required: false, many: false },
+    { pagePropertySlug: "calendar-date-property/due-date", required: false, many: false },
     { pagePropertySlug: "text-property/completion-card-id", required: false, many: false },
     {
       pagePropertySlug: "text-property/completion-item-path",
