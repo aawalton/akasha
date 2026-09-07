@@ -162,6 +162,36 @@ export const HANDED_SAID: readonly string[] = [
   "`akasha change take <subagent>` takes one of these into this agent's own",
 ]
 
+export const NONE_HANDED = "no subagent has handed edits to this agent"
+
+export const WRITES: Edit = { path: "a/b.ts", was: null, body: "held" }
+
+export const WRITTEN = [{ path: "a/b.ts", body: new TextEncoder().encode("held") }]
+
+export const REMOVES: Edit = { path: "a/b.ts", was: "held", body: null }
+
+export const REMOVED = [{ path: "a/b.ts", body: null }]
+
+export const MOVES: Edit = { path: "a/two.ts", was: "held", body: "held", from: "a/one.ts" }
+
+export const MADE_MOVE = [
+  { path: "a/one.ts", body: null },
+  { path: "a/two.ts", body: new TextEncoder().encode("held") },
+]
+
+export function owedIn(root: string): readonly (boolean | undefined)[] {
+  const said = editsIn(root, PAGE)
+  return "why" in said ? [] : said.rows.map((one) => one.readersOweReading)
+}
+
+export function drafting(root: string, at: string): Promise<Answer> {
+  return acting(root, ["remove-page"], piping(`${taking(at)}draft: true\n`))
+}
+
+export function draftingAndApplying(root: string, at: string): Promise<Answer> {
+  return acting(root, ["remove-page"], piping(`${taking(at)}draft: true\napply: a message\n`))
+}
+
 export const BAD_DROPS: readonly (readonly [readonly string[], Piping | undefined])[] = [
   [["drop", NAMER_CODE], undefined],
   [["drop"], piping(`${NAMER_CODE}\n`)],

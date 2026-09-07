@@ -13,6 +13,8 @@ import {
   BOTH,
   DROPPED_BOTH,
   DROPPED_ONE,
+  drafting,
+  draftingAndApplying,
   EDIT,
   givenIn,
   HANDED_ONE,
@@ -21,13 +23,19 @@ import {
   handing,
   keptIn,
   loading,
+  MADE_MOVE,
   MISSING,
   MOVED,
   MOVED_FROM,
+  MOVES,
+  NONE_HANDED,
   NOT_TEXT_SAID,
+  owedIn,
   PAGE,
   pathsIn,
   piping,
+  REMOVED,
+  REMOVES,
   readingNotText,
   refusedApply,
   removing,
@@ -36,6 +44,8 @@ import {
   SPARE_PAGE,
   saysApply,
   taking,
+  WRITES,
+  WRITTEN,
 } from "./change.command.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -240,7 +250,7 @@ test("a call over no handed edits says no subagent has handed edits over", async
   const said = await acting(root, ["handed"])
 
   expect(said.code).toBe(0)
-  expect(said.report).toEqual(["no subagent has handed edits to this agent"])
+  expect(said.report).toEqual([NONE_HANDED])
 })
 
 test("handed names each subagent that handed edits over and how many that subagent handed", async () => {
@@ -265,9 +275,7 @@ test("a take folds one subagent's handed edits in and takes the handed edits awa
     "these edits are this agent's own now, and `akasha apply` lands them",
   ])
   expect(pathsIn(root)).toEqual([HANDED_ONE.path])
-  expect((await acting(root, ["handed"])).report).toEqual([
-    "no subagent has handed edits to this agent",
-  ])
+  expect((await acting(root, ["handed"])).report).toEqual([NONE_HANDED])
 })
 
 test("a take that would not fold refuses and leaves both sets as those sets were", async () => {
@@ -320,22 +328,15 @@ test("a change answering says how many subagents handed edits over", async () =>
 })
 
 test("an edit writing a body becomes a change carrying that body", () => {
-  expect(editsFor([{ path: "a/b.ts", was: null, body: "held" }])).toEqual([
-    { path: "a/b.ts", body: new TextEncoder().encode("held") },
-  ])
+  expect(editsFor([WRITES])).toEqual(WRITTEN)
 })
 
 test("an edit stating no body becomes a change taking that path away", () => {
-  expect(editsFor([{ path: "a/b.ts", was: "held", body: null }])).toEqual([
-    { path: "a/b.ts", body: null },
-  ])
+  expect(editsFor([REMOVES])).toEqual(REMOVED)
 })
 
 test("a move becomes the path it came from taken away beside the path it lands at", () => {
-  expect(editsFor([{ path: "a/two.ts", was: "held", body: "held", from: "a/one.ts" }])).toEqual([
-    { path: "a/one.ts", body: null },
-    { path: "a/two.ts", body: new TextEncoder().encode("held") },
-  ])
+  expect(editsFor([MOVES])).toEqual(MADE_MOVE)
 })
 
 test("a change page saying its readers owe no reading is read as saying so", () => {
@@ -380,11 +381,7 @@ test("a change reached under a page that is nowhere appends rows saying nothing 
 
   await removing(root, NAMER_PAGE)
 
-  const said = editsIn(root, PAGE)
-  expect("why" in said ? [] : said.rows.map((one) => one.readersOweReading)).toEqual([
-    undefined,
-    undefined,
-  ])
+  expect(owedIn(root)).toEqual([undefined, undefined])
 })
 
 test("an apply asked for in the arguments commits the message those arguments name", async () => {
@@ -462,6 +459,29 @@ test("an apply that refuses says the edits are kept and what lands them", async 
   expect(said.code).toBe(3)
   expect(saysApply(said)).toBe(true)
   expect(keptIn(root)).toEqual(BOTH)
+})
+
+test("a change naming draft keeps its edits for a later apply and lands nothing", async () => {
+  APPLIED.length = 0
+  const root = repo()
+
+  const said = await drafting(root, NAMER_PAGE)
+
+  expect(said.code).toBe(0)
+  expect(APPLIED).toEqual([])
+  expect(saysApply(said)).toBe(true)
+  expect(keptIn(root)).toEqual(BOTH)
+})
+
+test("a change naming draft and apply together is refused and appends nothing", async () => {
+  APPLIED.length = 0
+  const root = repo()
+
+  const said = await draftingAndApplying(root, NAMER_PAGE)
+
+  expect(said.refusals[0] ?? "").toContain("`draft` declines")
+  expect(APPLIED).toEqual([])
+  expect(pathsIn(root)).toEqual([])
 })
 
 test("a body that is not text refuses the change rather than being read as text", async () => {
