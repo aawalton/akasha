@@ -49,7 +49,7 @@ export const HELP: CommandHelp = {
       argLabel: "<slug>",
       valueShape: "token",
       description:
-        "Who this seat's output is produced for — a person a page under `person-system/` answers to, or `agent` where it works for the fleet.",
+        "Who this seat's output is produced for — a person a page under `persons/` answers to, or `agent` where it works for the fleet.",
     },
     {
       name: "--flex",

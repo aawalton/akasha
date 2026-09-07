@@ -24,8 +24,8 @@ describe("a shape", () => {
   })
 
   test("blanks a file whose name opens with the slug", () => {
-    expect(shapeOf("akasha/person-system/people/pages/alan.person.ts", "alan")).toBe(
-      `akasha/person-system/people/pages/${SLUG_MARK}.person.ts`
+    expect(shapeOf("akasha/persons/people/pages/alan.person.ts", "alan")).toBe(
+      `akasha/persons/people/pages/${SLUG_MARK}.person.ts`
     )
   })
 })

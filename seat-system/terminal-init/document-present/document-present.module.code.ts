@@ -6,18 +6,12 @@ export const SLUG_MARK = "<slug>"
 
 export const PERSONA_FALLBACK = `personas/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
 
-export const PERSON_FALLBACK = `person-system/people/pages/${SLUG_MARK}.person.ts`
+export const PERSON_FALLBACK = `persons/people/pages/${SLUG_MARK}.person.ts`
 
 export interface Named {
   readonly slug: string
   readonly path: string
 }
-
-// A DOCUMENT'S PLACE IS READ OFF THE PAGES THERE RATHER THAN SPELLED HERE. The akasha tree is
-// still being arranged, so a folder written into this file goes stale the next time a page type
-// moves, and the shell function built from it then refuses a seat that is perfectly well declared.
-// Reading the path of a page that is there and blanking its slug survives every move that keeps a
-// page named for its slug.
 export function shapeOf(path: string, slug: string): string {
   const parts = path.split("/")
   return parts
