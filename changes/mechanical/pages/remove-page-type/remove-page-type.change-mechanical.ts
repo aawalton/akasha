@@ -7,7 +7,6 @@ export const removePageType = {
   definition: "one page type taken away with every file that page type keeps beside it",
   code: "ts",
   test: "ts",
-  isCommand: false,
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,

@@ -7,7 +7,6 @@ export const movePage = {
   definition: "one page and the files beside that page carried into another folder",
   code: "ts",
   test: "ts",
-  isCommand: true,
   runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,

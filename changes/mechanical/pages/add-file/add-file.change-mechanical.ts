@@ -7,7 +7,6 @@ export const addFile = {
   definition: "one body written at one path, with nothing else judged",
   code: "ts",
   test: "ts",
-  isCommand: false,
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,

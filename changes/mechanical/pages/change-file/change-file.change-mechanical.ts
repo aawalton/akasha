@@ -7,7 +7,6 @@ export const changeFile = {
   definition: "one passage of one body replaced by another, with nothing else judged",
   code: "ts",
   test: "ts",
-  isCommand: false,
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,

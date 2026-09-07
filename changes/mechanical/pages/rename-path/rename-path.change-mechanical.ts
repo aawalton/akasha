@@ -7,7 +7,6 @@ export const renamePath = {
   definition: "one file's path changed, with every body importing it repointed",
   code: "ts",
   test: "ts",
-  isCommand: false,
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,

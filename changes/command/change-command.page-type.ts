@@ -2,7 +2,6 @@ import type { PageType } from "../../pages/types/page-type.page-type.ts"
 import type { Change } from "../change.page-type.ts"
 
 export type ChangeCommand = Change & {
-  isCommand: true
   runsChecks: true
 }
 

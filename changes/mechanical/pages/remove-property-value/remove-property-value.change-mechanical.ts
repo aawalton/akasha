@@ -7,7 +7,6 @@ export const removePropertyValue = {
   definition: "one value taken out of one page property in a page's body",
   code: "ts",
   test: "ts",
-  isCommand: false,
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,

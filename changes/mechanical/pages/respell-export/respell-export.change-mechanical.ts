@@ -7,7 +7,6 @@ export const respellExport = {
   definition: "a name one body exports spelled anew across the paths a caller hands in",
   code: "ts",
   test: "ts",
-  isCommand: false,
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,

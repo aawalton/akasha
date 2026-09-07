@@ -7,7 +7,6 @@ export const changeFile = {
   definition: "one passage of one body replaced, judged by the checks a landing runs",
   code: "ts",
   test: "ts",
-  isCommand: true,
   runsChecks: true,
   readersOweReading: true,
   writerOwesReading: true,

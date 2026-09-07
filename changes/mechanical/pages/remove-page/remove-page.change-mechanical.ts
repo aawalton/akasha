@@ -7,7 +7,6 @@ export const removePage = {
   definition: "one page taken away with every file that page keeps beside it",
   code: "ts",
   test: "ts",
-  isCommand: false,
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,

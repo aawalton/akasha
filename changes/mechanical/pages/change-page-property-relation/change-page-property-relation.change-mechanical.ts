@@ -7,7 +7,6 @@ export const changePagePropertyRelation = {
   definition: "one relation a page states pointed at another page",
   code: "ts",
   test: "ts",
-  isCommand: false,
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,

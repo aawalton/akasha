@@ -7,7 +7,6 @@ export const removePageType = {
   definition: "one page type taken away, by the partial change taking a page type away",
   code: "ts",
   test: "ts",
-  isCommand: true,
   runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,

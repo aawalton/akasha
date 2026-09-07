@@ -3,10 +3,8 @@ import type { PageType } from "../pages/types/page-type.page-type.ts"
 import type { ReadersOweReading } from "./kinds/properties/readers-owe-reading.boolean-property.ts"
 import type { RunsChecks } from "./kinds/properties/runs-checks.boolean-property.ts"
 import type { WriterOwesReading } from "./kinds/properties/writer-owes-reading.boolean-property.ts"
-import type { IsCommand } from "./properties/is-command.boolean-property.ts"
 
 export type Change = Module & {
-  isCommand: IsCommand
   runsChecks: RunsChecks
   readersOweReading: ReadersOweReading
   writerOwesReading: WriterOwesReading
@@ -28,7 +26,6 @@ export const change = {
     "page-type/workflow-template",
     "page-type/change-kind",
     "workspace-package/workflow-language",
-    "boolean-property/is-command",
     "page-type/change-guard",
     "module/change-shadow",
     "module/change-guarding",
@@ -37,7 +34,6 @@ export const change = {
     "module/edits-keeping",
   ],
   properties: [
-    { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
     { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
     { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
@@ -59,15 +55,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A change that is expected to pass checks is a command.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A change that is not expected to pass checks does not run checks.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A change that is not expected to pass checks is not a command.",
     },
   ],
 } as const satisfies PageType
