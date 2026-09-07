@@ -11,8 +11,11 @@ export const domainLeadDecide = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A domain no document declares yields no lead, and says the slug may be spelled otherwise.",
+      statement: "A domain no document declares yields no lead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The answer for such a domain says the slug may be spelled otherwise.",
     },
     {
       invariantKind: "departure",
