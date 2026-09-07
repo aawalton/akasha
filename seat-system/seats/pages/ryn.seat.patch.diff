@@ -1,0 +1,17 @@
+diff --git a/pages/value-key/page-value-key.module.ts b/pages/value-key/page-value-key.module.ts
+index a86c5039a3c6b37468f6f0757ff4e9c38bd9a608..65a3eae7bf8493200912244c5f437c6ab73b3325 100644
+--- a/pages/value-key/page-value-key.module.ts
++++ b/pages/value-key/page-value-key.module.ts
+@@ -9,7 +9,11 @@ export const pageValueKey = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A page's body is in its values under one name, and that name is stated here.",
++      statement: "A page's body is in its values under one name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The name a body sits under is stated here.",
+     },
+     {
+       invariantKind: "departure",
