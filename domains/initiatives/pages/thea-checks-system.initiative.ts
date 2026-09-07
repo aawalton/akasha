@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. 36 of 44 run at patch. Seed the fault from the rule's own grammar, at tree scale too. A patch run is ~7s, so a paired run under 100ms is noise. A check's fixed cost is the index re-deriving; ask what is new. A big refusal count can be one declaration fault repeated. Clear what the fleet edits weekly. Await a check in a harness: some are async and read as clean. `akasha apply` lands add-file edits; `patch apply` leaves them. phone-number-is-e164 next.",
+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. 37 of 44 run at patch. Seed the fault from the rule's own grammar, at tree scale too. Print the premise; a confounded arm reads as clean. A patch run is ~7s, so a paired run under 100ms is noise. A check's fixed cost is the index re-deriving; ask what is new. Clear what the fleet edits weekly. Await a check in a harness: some are async and read as clean. `akasha apply` lands add-file edits; `patch apply` leaves them. property-is-declared-by-a-type next.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
