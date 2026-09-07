@@ -1,9 +1,9 @@
-import type { ById } from "../address-kinds/by-id/by-id.page-address-kind.code.ts"
+import type { InPage } from "../address-kinds/in-page/in-page.page-address-kind.code.ts"
+import type { InPageProperty } from "../address-kinds/in-page-property/in-page-property.page-address-kind.code.ts"
 import type { InPageType } from "../address-kinds/in-page-type/in-page-type.page-address-kind.code.ts"
-import type { InPartOf } from "../address-kinds/in-part-of/in-part-of.page-address-kind.code.ts"
 import { lowerUuid } from "../name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
-export type PageAddress = ById | InPageType | InPartOf
+export type PageAddress = InPage | InPageType | InPageProperty
 
 const SLUG = "slug"
 

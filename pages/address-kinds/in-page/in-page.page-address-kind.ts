@@ -1,9 +1,9 @@
 import type { PageAddressKind } from "../page-address-kind.page-type.ts"
 
-export const byId = {
+export const inPage = {
   id: "01a0731d-f93e-7ca8-8fdd-a8a5e083664d",
   pageTypeSlug: "page-address-kind",
-  slug: "by-id",
+  slug: "in-page",
   definition: "an address naming a page by the id that page keeps for life",
   code: "ts",
   test: "ts",
