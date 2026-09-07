@@ -3,7 +3,6 @@ import { cpSync, existsSync, readdirSync, readFileSync, rmSync, writeFileSync } 
 import { join, relative, resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
-import { saidBy } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { CONSOLIDATION_MIGRATIONS } from "@akasha/temper-addon-build/consolidation-migrations"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
@@ -31,6 +30,7 @@ import {
   type ConsolidationMigration,
   migrateAddonSavedVars,
 } from "@akasha/temper-saved-vars-migration/saved-vars-migration"
+import { saidFor, saidShort } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 const FAILED = 3
@@ -49,13 +49,6 @@ type Placed = {
   readonly lines: readonly string[]
   readonly refusals: readonly string[]
   readonly skipped: boolean
-}
-
-function saidAfter(argv: readonly string[], flag: string): string | undefined {
-  for (let at = 0; at < argv.length; at += 1) {
-    if (argv[at] === flag) return argv[at + 1]
-  }
-  return undefined
 }
 
 function filesUnder(root: string): readonly string[] {
@@ -199,9 +192,7 @@ function placed(
   } catch (thrown) {
     return {
       lines: [],
-      refusals: [
-        `${folder}: replacing ${target} from ${source} broke off — ${saidBy(thrown).replace(/\s+/g, " ").trim()}`,
-      ],
+      refusals: [`${folder}: replacing ${target} from ${source} broke off — ${saidShort(thrown)}`],
       skipped: false,
     }
   }
@@ -268,11 +259,11 @@ function migratedIn(canonicalName: string, sourceDir: string, vars: string): rea
 }
 
 export function temperAddonInstall(argv: readonly string[] = []): Answer {
-  const named = saidAfter(argv, "--addon")
+  const named = saidFor(argv, "--addon")
   if (named === undefined) {
     return refused("`--addon <name>` names the addon installed, and none was named", DATA)
   }
-  const root = resolve(saidAfter(argv, "--code-root") ?? codeRoot())
+  const root = resolve(saidFor(argv, "--code-root") ?? codeRoot())
   let sourceDir: string
   let canonicalName: string
   try {
@@ -281,7 +272,7 @@ export function temperAddonInstall(argv: readonly string[] = []): Answer {
     canonicalName = found.canonicalName
   } catch (thrown) {
     return refused(
-      `the addons under ${root} could not be read, so ${named} could not be looked for — ${saidBy(thrown).replace(/\s+/g, " ").trim()}`,
+      `the addons under ${root} could not be read, so ${named} could not be looked for — ${saidShort(thrown)}`,
       DATA
     )
   }
@@ -306,7 +297,7 @@ export function temperAddonInstall(argv: readonly string[] = []): Answer {
     esoAddons = addonsDir()
   } catch (thrown) {
     return refused(
-      `${canonicalName} is installed into the game's addons folder, and no live directory was found — ${saidBy(thrown).replace(/\s+/g, " ").trim()}`,
+      `${canonicalName} is installed into the game's addons folder, and no live directory was found — ${saidShort(thrown)}`,
       DATA
     )
   }

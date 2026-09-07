@@ -3,9 +3,9 @@ import { readFile, writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
-import { saidBy } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { chatterNamesModule } from "../eso-chatter-names/eso-chatter-names.module.code.ts"
+import { saidFor, saidShort } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 
@@ -18,17 +18,6 @@ const CODE_ROOT_FLAG = "--code-root"
 const SOURCE_REL = "temper/addons/types/eso/generated/enums.d.ts"
 
 const OUT_REL = "temper/player-quests-addon/src/generated/chatter-names.generated.ts"
-
-function saidFor(argv: readonly string[], flag: string): string | undefined {
-  for (let at = 0; at < argv.length; at += 1) {
-    if (argv[at] === flag) return argv[at + 1]
-  }
-  return undefined
-}
-
-function saidShort(thrown: unknown): string {
-  return saidBy(thrown).replace(/\s+/g, " ").trim()
-}
 
 export async function temperEsoGenerateChatterNames(argv: readonly string[] = []): Promise<Answer> {
   const named = saidFor(argv, CODE_ROOT_FLAG)

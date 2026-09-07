@@ -4,6 +4,7 @@ import { refused } from "@akasha/command-system/calling"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { TEMPER_QUESTS_SAVED_VARIABLES } from "@akasha/temper-quests-trace/auto-quest-trace"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
+import { saidFor, saidShort } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 
@@ -48,17 +49,6 @@ type AccountBlock = {
 
 type CaptureRoot = { readonly Default?: Record<string, AccountBlock> }
 
-function valueOf(argv: readonly string[], flag: string): string | undefined {
-  for (let at = 0; at < argv.length; at += 1) {
-    if (argv[at] === flag) return argv[at + 1]
-  }
-  return undefined
-}
-
-function messageOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
-
 function entriesIn(root: CaptureRoot): readonly TraceEntry[] {
   const accounts = root.Default
   if (accounts === undefined) return []
@@ -96,14 +86,14 @@ function linesOf(entry: TraceEntry): readonly string[] {
 }
 
 export function temperAutoQuestTrace(argv: readonly string[] = []): Answer {
-  const tracePath = valueOf(argv, PATH_FLAG) ?? savedVarsFile(CAPTURE_FILE)
+  const tracePath = saidFor(argv, PATH_FLAG) ?? savedVarsFile(CAPTURE_FILE)
 
   let content: string
   try {
     content = readFileSync(tracePath, "utf8")
   } catch (thrown) {
     return refused(
-      `no capture is at ${tracePath}, so there is no trace to read: ${messageOf(thrown)}`,
+      `no capture is at ${tracePath}, so there is no trace to read: ${saidShort(thrown)}`,
       DATA
     )
   }
@@ -113,7 +103,7 @@ export function temperAutoQuestTrace(argv: readonly string[] = []): Answer {
     const raw = parseLuaSavedVariablesFile(content, SAVED_VARIABLES_NAME)
     entries = entriesIn(TEMPER_QUESTS_SAVED_VARIABLES.parse(raw) as CaptureRoot)
   } catch (thrown) {
-    return refused(`${tracePath} holds no trace this reads: ${messageOf(thrown)}`, DATA)
+    return refused(`${tracePath} holds no trace this reads: ${saidShort(thrown)}`, DATA)
   }
 
   if (entries.length === 0) return refused(`${tracePath} ${NOTHING_CAPTURED}`, DATA)

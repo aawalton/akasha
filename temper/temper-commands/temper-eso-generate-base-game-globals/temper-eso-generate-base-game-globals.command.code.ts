@@ -1,10 +1,9 @@
-import { mkdirSync, mkdtempSync, readFileSync, realpathSync, statSync } from "node:fs"
-import { join, resolve } from "node:path"
+import { readFileSync, realpathSync, statSync } from "node:fs"
+import { resolve } from "node:path"
 import type { SeriesSpec } from "@akasha/code-system/name-series"
 import { byteLength, renderSeries, stageSeries } from "@akasha/code-system/name-series"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
-import { saidBy } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { esoDocPathForLuaRoot } from "@akasha/temper-build-deploy-checks/eso-doc-api-version"
 import {
@@ -17,6 +16,7 @@ import {
   extractGlobalNames,
   extractStringIdNames,
 } from "../eso-base-game-globals/eso-base-game-globals.module.code.ts"
+import { saidFor, saidShort, stagingAt } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 
@@ -34,26 +34,7 @@ const STEM = "eso-base-game-string-ids"
 
 const BINDING = "ESO_BASE_GAME_STRING_IDS"
 
-const SCRATCH_PARENT = "/var/tmp"
-
 const STAGE_PREFIX = "eso-base-game-string-ids-stage-"
-
-function saidFor(argv: readonly string[], flag: string): string | undefined {
-  for (let at = 0; at < argv.length; at += 1) {
-    if (argv[at] === flag) return argv[at + 1]
-  }
-  return undefined
-}
-
-function saidShort(thrown: unknown): string {
-  return saidBy(thrown).replace(/\s+/g, " ").trim()
-}
-
-function stagingAt(named: string | undefined): string {
-  if (named === undefined) return mkdtempSync(join(realpathSync(SCRATCH_PARENT), STAGE_PREFIX))
-  mkdirSync(named, { recursive: true })
-  return realpathSync(named)
-}
 
 export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []): Answer {
   const namedCheckout = saidFor(argv, CODE_ROOT_FLAG)
@@ -133,7 +114,7 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []): 
     checkout,
     spec,
     pages,
-    stagingAt(saidFor(argv, STAGE_FLAG)),
+    stagingAt(saidFor(argv, STAGE_FLAG), STAGE_PREFIX),
     `write the base-game string-id census from the ~/esoui clone at API ${String(apiVersion)}`
   )
 

@@ -3,7 +3,6 @@ import { resolve } from "node:path"
 import { renderAuditReading, summarizeAudit } from "@akasha/checks/audit-reading"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
-import { saidBy } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import {
   buildEsoClonePopulation,
@@ -12,6 +11,7 @@ import {
 import type { StampedArtifact } from "@akasha/temper-build-deploy-checks/eso-doc-api-version"
 import { parseEsoDocApiVersion } from "@akasha/temper-eso-paths/eso-clone-stamp"
 import { esouiDocPath } from "@akasha/temper-eso-paths/eso-paths"
+import { saidFor, saidShort } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const OPERATIONAL = 3
 
@@ -25,31 +25,24 @@ const ESO_DOC_FLAG = "--eso-doc"
 
 const JSON_FLAG = "--json"
 
-function valueOf(argv: readonly string[], flag: string): string | undefined {
-  for (let at = 0; at < argv.length; at += 1) {
-    if (argv[at] === flag) return argv[at + 1]
-  }
-  return undefined
-}
-
-function saidShort(thrown: unknown): string {
-  return saidBy(thrown).replace(/\s+/g, " ").trim()
-}
-
-function realOrGiven(path: string): string {
-  try {
-    return realpathSync(path)
-  } catch {
-    return path
-  }
-}
-
 export function temperEsoTypingsAudit(argv: readonly string[] = []): Answer {
-  const namedRepo = valueOf(argv, REPO_ROOT_FLAG)
-  const repoRoot = realOrGiven(namedRepo === undefined ? codeRoot() : resolve(namedRepo))
+  const namedRepo = saidFor(argv, REPO_ROOT_FLAG)
+  const givenRepo = namedRepo === undefined ? codeRoot() : resolve(namedRepo)
+  let repoRoot: string
+  try {
+    repoRoot = realpathSync(givenRepo)
+  } catch {
+    repoRoot = givenRepo
+  }
 
-  const namedDoc = valueOf(argv, ESO_DOC_FLAG)
-  const docPath = realOrGiven(namedDoc === undefined ? esouiDocPath() : resolve(namedDoc))
+  const namedDoc = saidFor(argv, ESO_DOC_FLAG)
+  const givenDoc = namedDoc === undefined ? esouiDocPath() : resolve(namedDoc)
+  let docPath: string
+  try {
+    docPath = realpathSync(givenDoc)
+  } catch {
+    docPath = givenDoc
+  }
 
   if (!existsSync(docPath)) {
     return refused(

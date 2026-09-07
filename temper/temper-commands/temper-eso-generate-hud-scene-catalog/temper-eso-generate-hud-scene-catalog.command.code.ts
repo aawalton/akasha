@@ -3,7 +3,6 @@ import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
-import { saidBy } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { parseEsoDocApiVersion } from "@akasha/temper-eso-paths/eso-clone-stamp"
 import { esouiDir } from "@akasha/temper-eso-paths/eso-paths"
@@ -11,6 +10,7 @@ import type { HudComponentRecord } from "@akasha/temper-hud-components/hud-compo
 import { HUD_SCENE_CATALOG_SCHEMA } from "@akasha/temper-hud-components/hud-component-record"
 import { buildCatalog } from "@akasha/temper-hud-components/hud-scene-parse"
 import { HUD_SCENE_SOURCE } from "@akasha/temper-hud-components/hud-scene-source"
+import { saidFor, saidShort } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 
@@ -22,7 +22,6 @@ const DOC_REL = "ESOUIDocumentation.txt"
 
 const CATALOG_DIR = "temper/temper-hud-components"
 
-// Nothing under akasha/ may exceed this, and no kind of file is exempt.
 const AKASHA_FILE_CEILING = 15000
 
 interface CatalogModule {
@@ -48,17 +47,6 @@ const CATALOG_MODULES: readonly CatalogModule[] = [
     holds: (record) => record.kind === "non-fragment-control",
   },
 ]
-
-function valueOf(argv: readonly string[], flag: string): string | undefined {
-  for (let at = 0; at < argv.length; at += 1) {
-    if (argv[at] === flag) return argv[at + 1]
-  }
-  return undefined
-}
-
-function saidShort(thrown: unknown): string {
-  return saidBy(thrown).replace(/\s+/g, " ").trim()
-}
 
 function renderRecord(record: HudComponentRecord): string {
   const lines = [
@@ -94,7 +82,7 @@ ${records.map(renderRecord).join("\n")}
 export async function temperEsoGenerateHudSceneCatalog(
   argv: readonly string[] = []
 ): Promise<Answer> {
-  const named = valueOf(argv, CODE_ROOT_FLAG)
+  const named = saidFor(argv, CODE_ROOT_FLAG)
 
   let root: string
   try {

@@ -3,7 +3,6 @@ import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
-import { saidBy } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import {
   esoCloneHeaderLines,
@@ -24,6 +23,7 @@ import {
 } from "@akasha/temper-eso-typings/eso-doc-tokens"
 import { ESO_OPT_IN } from "@akasha/temper-eso-typings/eso-opt-in"
 import { selectOptIn } from "@akasha/temper-eso-typings/eso-token-scope"
+import { saidFor, saidShort } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 
@@ -40,17 +40,6 @@ const INDEX_BODY = `/// <reference path="./enums.d.ts" />
 /// <reference path="./events.d.ts" />
 /// <reference path="./objects.d.ts" />
 `
-
-function saidFor(argv: readonly string[], flag: string): string | undefined {
-  for (let at = 0; at < argv.length; at += 1) {
-    if (argv[at] === flag) return argv[at + 1]
-  }
-  return undefined
-}
-
-function saidShort(thrown: unknown): string {
-  return saidBy(thrown).replace(/\s+/g, " ").trim()
-}
 
 export async function temperEsoGenerateTypings(argv: readonly string[] = []): Promise<Answer> {
   const named = saidFor(argv, CODE_ROOT_FLAG)

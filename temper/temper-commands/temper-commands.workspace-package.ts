@@ -97,6 +97,7 @@ export const temperCommands = {
     "command/temper-watcher-status",
     "module/eso-base-game-globals",
     "module/eso-chatter-names",
+    "module/flag-fault-stage",
     "module/eso-colon-methods",
     "module/inventory-rule-calling",
     "module/bank-profile-reading",
