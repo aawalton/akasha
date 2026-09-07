@@ -1,0 +1,44 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index eb8cbc1ca605d4272fc73f2cdc8496896f20efe3..f0fee95c3441bbe41ce33b156d8dbd358ed6ccd6 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -20,7 +20,6 @@ export const changeMechanical = {
+     "page-type/change-mechanical-file",
+     "page-type/change-mechanical-folder",
+     "page-type/change-mechanical-data",
+-    "page-type/change-mechanical-manifest",
+     "page-type/change-mechanical-file-content",
+     "relation-property/guard-slugs",
+   ],
+diff --git a/changes/mechanical/manifest/change-mechanical-manifest.page-type.ts b/changes/mechanical/manifest/change-mechanical-manifest.page-type.ts
+deleted file mode 100644
+index bcc77c8638e007317476da61bfc9b28430328aba..0000000000000000000000000000000000000000
+--- a/changes/mechanical/manifest/change-mechanical-manifest.page-type.ts
++++ /dev/null
+@@ -1,25 +0,0 @@
+-import type { PageType } from "../../../pages/types/page-type.page-type.ts"
+-import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
+-
+-export type ChangeMechanicalManifest = ChangeMechanical & {
+-  changeTargetTypeSlug: "change-target-type/file-content"
+-  changeTargetSubtypeSlug: "change-target-subtype/manifest"
+-}
+-
+-export const changeMechanicalManifest = {
+-  id: "01a07c41-bccd-79d5-9e2c-62625488915e",
+-  pageTypeSlug: "page-type",
+-  slug: "change-mechanical-manifest",
+-  definition: "a mechanical change acting on a package manifest rather than on a page's own body",
+-  pluralSlug: "change-mechanical-manifest",
+-  extendsSlug: ["page-type/change-mechanical"],
+-  partSlugs: [],
+-  properties: [
+-    { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
+-    {
+-      pagePropertySlug: "relation-property/change-target-subtype-slug",
+-      required: true,
+-      many: false,
+-    },
+-  ],
+-} as const satisfies PageType
