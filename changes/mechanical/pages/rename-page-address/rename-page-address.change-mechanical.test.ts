@@ -43,14 +43,10 @@ const MADE_AT = "akasha/held/one/held-one.held-checked.addressed.ts"
 
 const MADE_BODY = `export type Held = { "${WAS}": string }\n`
 
-function worldOf(bodies: Readonly<Record<string, string>>, made: readonly string[] = []): World {
+function worldOf(bodies: Readonly<Record<string, string>>): World {
   return {
     root: "/nowhere",
-    index: {
-      everyPath: () => Object.keys(bodies),
-      pageAt: (kind: string, slug: string) =>
-        kind === "file-property" && made.includes(slug) ? { machineWritten: true } : null,
-    } as never,
+    index: { everyPath: () => Object.keys(bodies) } as never,
     textOf: (path) => bodies[path] ?? null,
     over: NOTHING_OVER,
   }
@@ -88,23 +84,10 @@ test("every body spelling the address is answered at once", () => {
   expect(said.edits.map((one) => one.path).sort()).toEqual([CALL_AT, CONST_AT, PAGE_AT].sort())
 })
 
-test("a body a machine writes is left as that body is", () => {
-  const said = renamePageAddress(worldOf({ [MADE_AT]: MADE_BODY }, ["addressed"]), {
-    was: WAS,
-    now: NOW,
-  })
+test("a body a machine writes is restated too", () => {
+  const said = renamePageAddress(worldOf({ [MADE_AT]: MADE_BODY }), { was: WAS, now: NOW })
 
-  expect(said.refused).toBe(null)
-  expect(said.edits).toHaveLength(0)
-})
-
-test("a body beside a page under no machine-written property is restated", () => {
-  const said = renamePageAddress(worldOf({ [CONST_AT]: CONST_BODY }, ["addressed"]), {
-    was: WAS,
-    now: NOW,
-  })
-
-  expect(bodyOf(said, CONST_AT)).toContain(`"${NOW}"`)
+  expect(bodyOf(said, MADE_AT)).toBe(`export type Held = { "${NOW}": string }\n`)
 })
 
 test("a body spelling the slug without its page type is left as that body is", () => {

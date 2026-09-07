@@ -37,6 +37,10 @@ export const addressMapping = {
     },
     {
       invariantKind: "departure",
+      statement: "A map the change itself answers is left as that change wrote the map.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The addresses come out sorted rather than in the order the index answers.",
     },
     {

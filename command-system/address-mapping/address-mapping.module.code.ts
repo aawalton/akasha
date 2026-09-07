@@ -108,7 +108,8 @@ export function writtenAgain(path: string): boolean {
 export function mappedOver(
   root: string,
   shadow: Shadow,
-  textAt: (path: string) => string | null
+  textAt: (path: string) => string | null,
+  answered: ReadonlySet<string>
 ): Mapped {
   const edits: FileEdit[] = []
   const said: string[] = []
@@ -116,7 +117,7 @@ export function mappedOver(
     const value = shadow.pageOf(listed.path)
     if (value === null || value[ADDRESSED] !== HOLDS) continue
     const at = besideAt(listed.path, ADDRESSED, TS)
-    if (at === null) continue
+    if (at === null || answered.has(at)) continue
     const addresses = addressesFor(shadow, at, textAt)
     const raw = new TextEncoder().encode(bodyFor(addresses))
     const body = formattedBody(root, at, raw).body
@@ -133,7 +134,7 @@ export function mappedFor(root: string, changes: readonly FileEdit[]): Mapped {
     const change = changeOf(root, { base: baseOf(root), edits: changes })
     const cast = shadowFor(change)
     if ("refused" in cast) return NOTHING_MAPPED
-    return mappedOver(root, cast.shadow, textOver(root, change))
+    return mappedOver(root, cast.shadow, textOver(root, change), new Set(change.changed))
   } catch (thrown) {
     return {
       edits: [],

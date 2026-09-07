@@ -1,6 +1,4 @@
 import { parsedAs } from "@akasha/code/code-source"
-import { machineWrote } from "@akasha/indexes/property-carrying"
-import { partedIn } from "@akasha/pages/page-file-name"
 import ts from "typescript"
 import {
   answered,
@@ -15,8 +13,6 @@ const TYPED = /\.tsx?$/
 const ADDRESS = /^[a-z][a-z0-9]*(-[a-z0-9]+)*\/[a-z][a-z0-9]*(-[a-z0-9]+)*$/
 
 const NO_ADDRESS = "is no address, an address being a page type and a slug parted by `/`"
-
-const FILE_PROPERTY = "file-property"
 
 export type RenamePageAddressAsked = {
   readonly was: string
@@ -39,15 +35,6 @@ export function spellingsIn(path: string, text: string, was: string): readonly S
   }
   ts.forEachChild(source, walk)
   return found
-}
-
-export function machineWrites(world: World, path: string): boolean {
-  const said = partedIn(path)
-  if (said === null) return false
-  return said.sections.some((one) => {
-    const value = world.index.pageAt(FILE_PROPERTY, one)
-    return value !== null && machineWrote(value)
-  })
 }
 
 export function respelled(text: string, spots: readonly Spot[], now: string): string {
@@ -74,7 +61,7 @@ export function renamePageAddress(world: World, given: RenamePageAddressAsked): 
   }
   const edits: Edit[] = []
   for (const path of paths) {
-    if (!TYPED.test(path) || machineWrites(world, path)) continue
+    if (!TYPED.test(path)) continue
     const text = world.textOf(path)
     if (text === null || !text.includes(given.was)) continue
     const spots = spellingsIn(path, text, given.was)

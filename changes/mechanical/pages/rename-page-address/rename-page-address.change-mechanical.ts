@@ -25,7 +25,7 @@ export const renamePageAddress = {
     },
     {
       invariantKind: "departure",
-      statement: "A body a machine writes is left as that body is.",
+      statement: "A body a machine writes spelling the address is restated too.",
     },
     {
       invariantKind: "absence",
