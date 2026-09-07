@@ -11,13 +11,13 @@ export const aineAuditChangeGuards = {
       statement:
         "Every mechanical change that can leave an edge hanging names the guard judging that edge.",
       workingMemory:
-        "8 of the 24 mechanical changes name any guard, and `guardedBy` returns before it casts a shadow where the list is empty, so the other 16 cost nothing and judge nothing. Whether something is a guard is settled by asking whether judging it needs the answer: a guard judges the answer a change gives, a check judges the tree a landing leaves. Guards never read `world.index`; `guardedBy` casts its shadow from `gathered([world.over, said])`, which is why a stale index on a threaded world cannot reach one.",
+        "8 of the 24 mechanical changes name any guard, and `guardedBy` returns before casting a shadow where the list is empty, so the other 16 cost nothing and judge nothing. Whether something is a guard is settled by asking whether judging it needs the answer. Guards never read `world.index`; `guardedBy` casts its shadow from `gathered([world.over, said])`, so a stale index on a threaded world cannot reach one.",
     },
     {
       statement:
         "A content change is judged by the guards that judge an edge into the body that change leaves.",
       workingMemory:
-        "An add guard judges the edges out of the new body and a remove guard judges the edges into the path that went, so the inversion is edge direction rather than a negated predicate. A content change is the third case: it breaks an inbound edge while the path survives. `import-not-left-hanging` and `relation-not-left-hanging` both key on `takingIn(given.said)`, so neither can fire where nothing is taken away, though the fault each names is real for a body that stopped carrying a name. Measured design: a body-side gate through `filedIn`, 0.1 to 2.1 ms and no index read, asking which names the body stopped carrying, with the inbound edges asked for only where a name did go. Widen the trigger the two guards already share rather than writing a third, which `no-rule-in-two-files` would refuse as a duplicate.",
+        "An add guard judges the edges out of the new body and a remove guard judges the edges into the path that went, so the inversion is edge direction. A content change is the third case: it breaks an inbound edge while the path survives. `import-not-left-hanging` and `relation-not-left-hanging` both key on `takingIn(given.said)`, so neither fires. Widen the trigger they share rather than writing a third, which `no-rule-in-two-files` would refuse.",
     },
     {
       statement: "The remove family mirrors the add family at every file kind.",
@@ -27,7 +27,7 @@ export const aineAuditChangeGuards = {
     {
       statement: "A world stacked over more than one answer answers the index every answer leaves.",
       workingMemory:
-        "`worldOver` works its index out from `said` alone where its two sibling fields accumulate, so a page an earlier answer took away is back in the stacked world's index: `listedByPath` answered 0 rows after one answer and 1 row after a second. Nothing is red today, because no guard reads that field. The readers left are `pageIn`, `parentsOf` and `addressFor`, each called on the base world a caller hands in. The fix is to cast the index from the gathered answer where that answer is not refused. Drafted and not landed.",
+        "`worldOver` works its index out from `said` alone where its two sibling fields accumulate, so a page an earlier answer took away is back in the stacked world's index: `listedByPath` answered 0 rows after one answer and 1 row after a second. Nothing is red today, because no guard reads that field. The fix is to cast the index from the gathered answer where that answer is not refused. Drafted and not landed.",
     },
     {
       statement:
