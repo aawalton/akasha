@@ -61,5 +61,19 @@ export const routerApp = {
       invariantKind: "constraint",
       statement: "The tsconfig naming a fixed name gives that name the package's path mappings.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "The router bundles to the browser whatever a route module exports beyond its loader and its action.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A route module exports its loader and its action alone.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A request whose method is OPTIONS reaches a route's loader rather than its action.",
+    },
   ],
 } as const satisfies PageType

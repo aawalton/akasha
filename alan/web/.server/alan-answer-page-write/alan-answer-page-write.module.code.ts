@@ -1,10 +1,10 @@
 import { readPageWrite, runPageWrite, TAKES, writesAs } from "@akasha/pages-access/answer-write"
-import { getUser } from "@akasha/supabase-rr/auth-server"
+import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 
 writesAs("alanwalton-web")
 
 export async function answerPageWrite(request: Request): Promise<Response> {
-  const { user, headers } = await getUser(request)
+  const { user, headers } = await resolveRequestUser(request)
   if (user === null) {
     return Response.json(
       { error: "this route answers a signed-in writer only" },

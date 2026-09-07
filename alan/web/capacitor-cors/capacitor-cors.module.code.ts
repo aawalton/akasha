@@ -25,3 +25,15 @@ export function withCors(headers: Headers, cors: Record<string, string>): Header
   for (const [key, value] of Object.entries(cors)) headers.set(key, value)
   return headers
 }
+
+export function corsPreflight(cors: Record<string, string>): Response {
+  return new Response(null, { status: 204, headers: withCors(new Headers(), cors) })
+}
+
+export function corsAnswered(answered: Response, cors: Record<string, string>): Response {
+  if (Object.keys(cors).length === 0) return answered
+  return new Response(answered.body, {
+    status: answered.status,
+    headers: withCors(new Headers(answered.headers), cors),
+  })
+}
