@@ -1,0 +1,135 @@
+writerOwesReading: false
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.code.ts b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+index dbd80a885a01e6626ee6c2e78dd5c71ebcac703f..84e39acad8f77dfb857c4fe265aa0bba7227f010 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.code.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+@@ -12,6 +12,8 @@ const HELD = "jsonl"
+ 
+ const KEPT = "refs/akasha/edits"
+ 
++const HANDED = "refs/akasha/edits-handed"
++
+ const BYTES = new TextEncoder()
+ 
+ const NO_PAGE = "a path that is no page keeps no edits"
+@@ -164,3 +166,46 @@ export function appendEdits(root: string, page: string, edits: readonly Edit[]):
+ export function foldedIn(rows: readonly Edit[]): Answer {
+   return gathered(rows.map((one) => ({ edits: [one], refused: null })))
+ }
++
++export function handedRef(seat: string, under: string): string | null {
++  const at = editsAt(seat)
++  return at === null ? null : `${HANDED}/${at}/${under}`
++}
++
++export function handedUnder(root: string, seat: string): readonly string[] {
++  const at = editsAt(seat)
++  if (at === null) return []
++  const held = `${HANDED}/${at}/`
++  const said = gitTold(root, ["for-each-ref", "--format=%(refname)", `${held}*`])
++  if (said === null) return []
++  return said
++    .split("\n")
++    .filter((one) => one !== "")
++    .map((one) => one.slice(held.length))
++    .sort()
++}
++
++export function handedIn(root: string, seat: string, under: string): Kept {
++  const ref = handedRef(seat, under)
++  if (ref === null) return { why: NO_PAGE }
++  const held = readUnder(root, ref)
++  return held === null ? { rows: [] } : rowsIn(held)
++}
++
++export function handedOver(root: string, seat: string, from: string, under: string): Kept {
++  const ref = handedRef(seat, under)
++  if (ref === null) return { why: NO_PAGE }
++  const held = editsIn(root, from)
++  if ("why" in held) return held
++  if (held.rows.length === 0) return { rows: [] }
++  const had = handedIn(root, seat, under)
++  if ("why" in had) return had
++  putUnder(root, ref, textOf([...had.rows, ...held.rows]))
++  keptEdits(root, from, () => null)
++  return { rows: held.rows }
++}
++
++export function handedAway(root: string, seat: string, under: string): undefined {
++  const ref = handedRef(seat, under)
++  if (ref !== null) dropUnder(root, ref)
++}
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.ts b/changes/modules/edits-keeping/edits-keeping.module.ts
+index 1fdc970522ce1960e62b1697d635a5cb8522c3bf..65f0f6dcd6a6cfa4db3bc751b3f6bf820af5f7e9 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.ts
+@@ -60,6 +60,34 @@ export const editsKeeping = {
+       invariantKind: "departure",
+       statement: "A ref left holding no row is taken away rather than left empty.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The edits a subagent leaves are handed to the seat that dispatched the subagent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Edits handed over are kept under a ref naming the subagent the edits came from.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One subagent's handed edits are read and taken away apart from another's.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Edits handed over are never folded into the edits a seat is holding.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A subagent holding no row hands nothing over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Handing edits over takes away the ref the subagent held.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Edits handed over twice are kept in the order the edits arrived.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The rows are folded into one answer by the rule one answer is gathered by.",
+diff --git a/seat-system/subagents/presence/subagent-presence.module.code.ts b/seat-system/subagents/presence/subagent-presence.module.code.ts
+index 6a87f6c930dfd3ce805c6b60737f22ef5a61118f..94d23729ab5f617e214a2869517d8652e745309d 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.code.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.code.ts
+@@ -10,6 +10,7 @@ import { partedIn } from "@akasha/pages/page-file-name"
+ import { valueAt } from "@akasha/pages/page-value"
+ import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
+ import { textAt } from "@akasha/utils-narrow/text-at"
++import { handedOver } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+ import { subagentPageInHistory } from "../../subagent-page-history/subagent-page-history.module.code.ts"
+ 
+ export const SUBAGENTS_AT = "seat-system/subagents/pages"
+@@ -180,6 +181,8 @@ export async function took(root: string, seatName: string, own: string): Promise
+   const slug = slugOf(seatName, own)
+   const at = pathOf(slug)
+   const went = tookInUnder(root, seatName, patchesUnder(root, seatName))
++  const seat = seatPathOf(seatName)
++  if (existsSync(join(root, seat))) handedOver(root, seat, at, slug)
+   if (!existsSync(join(root, at))) return WENT
+   const why = went.includes(at)
+     ? `${slug} is done, so its page goes; the patch it drafted went to the ${seatName} seat,` +
+@@ -224,6 +227,13 @@ export async function tookUnder(root: string, seatName: string, why: string): Pr
+   tookInUnder(root, seatName, patchesUnder(root, seatName))
+   const paths = pathsUnder(root, seatName)
+   if (paths.length === 0) return WENT
++  const seat = seatPathOf(seatName)
++  if (existsSync(join(root, seat))) {
++    for (const one of paths) {
++      const named = partedIn(one)
++      if (named !== null) handedOver(root, seat, one, named.slug)
++    }
++  }
+   const gone = await handed(
+     root,
+     paths.map((path) => ({ path, body: null })),
