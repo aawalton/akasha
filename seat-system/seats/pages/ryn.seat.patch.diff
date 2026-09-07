@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.ts b/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.ts
+index 5f06d1e85dc95105dc56bfa35234101cce58bff6..d7d20f602fd75f81fd27b133ecbaf157a58b31da 100644
+--- a/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.ts
++++ b/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.ts
+@@ -90,7 +90,7 @@ export const watcherExportSettings = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A caller may hand in what settings are read, what rules are read, and the write of the side file.",
++        "A caller may hand in what settings are read and what rules are read and the write of the side file.",
+     },
+     {
+       invariantKind: "absence",
