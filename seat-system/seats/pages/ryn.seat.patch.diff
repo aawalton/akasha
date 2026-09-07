@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.ts b/temper/temper-lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.ts
+index a6b5b7d7e715f25f3e95621a5048270accc8b62b..c4933e138e3a828d0b755d4268f70d5688c9c7d0 100644
+--- a/temper/temper-lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.ts
++++ b/temper/temper-lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.ts
+@@ -13,7 +13,7 @@ export const libSetsSearchUiSharedState = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A set is taken to have at most twelve bonus lines.",
++      statement: "A set is taken to have twelve bonus lines at the most.",
+     },
+   ],
+ } as const satisfies Module
