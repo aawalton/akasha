@@ -6,7 +6,7 @@ import {
   AGENT_SETTINGS_PATH,
   readAgentSettingsBase,
   refreshedSettings,
-} from "../../supervising/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
+} from "../../../seat-system/supervising/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 
 const JSON_FLAG = "--json"
 

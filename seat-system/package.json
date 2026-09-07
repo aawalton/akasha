@@ -23,6 +23,7 @@
     "./subagent-page": "./subagent-page/subagent-page.module.code.ts",
     "./subagent-page-akasha": "./subagent-page-akasha/subagent-page-akasha.module.code.ts",
     "./takeover-seat": "./takeover-seat/takeover-seat.module.code.ts",
+    "./terminal-bash": "./terminal-init/terminal-bash/terminal-bash.module.code.ts",
     "./transcript-materialize": "./transcript-materialize/transcript-materialize.module.code.ts",
     "./agent-io-probe": "./agent-io-probe/agent-io-probe.module.code.ts",
     "./agent-name-bind": "./agent-name-bind/agent-name-bind.module.code.ts",

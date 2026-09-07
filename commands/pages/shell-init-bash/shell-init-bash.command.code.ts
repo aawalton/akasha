@@ -1,8 +1,8 @@
 import { aliasIndexesIn } from "@akasha/agents/claude-account-reading"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import type { AliasEntry } from "../../terminal-init/terminal-bash/terminal-bash.module.code.ts"
-import { generateBashInit } from "../../terminal-init/terminal-bash/terminal-bash.module.code.ts"
+import type { AliasEntry } from "@akasha/seat-system/terminal-bash"
+import { generateBashInit } from "@akasha/seat-system/terminal-bash"
 
 const NO_ACCOUNT =
   "no claude account page was read, so the set would carry no account launcher at all — " +
