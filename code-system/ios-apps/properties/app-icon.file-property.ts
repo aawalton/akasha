@@ -15,7 +15,11 @@ export const appIcon = {
     },
     {
       invariantKind: "departure",
-      statement: "The picture is carried as base64 in json, so the file holds no NUL byte.",
+      statement: "The picture is carried as base64 in json.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file holds no NUL byte.",
     },
     {
       invariantKind: "departure",
