@@ -29,7 +29,7 @@ import {
   worldAt,
   worldOver,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.code.ts"
+import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
 import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange as removeCodeFile } from "../remove-file-code/remove-file-code.change-mechanical-file.code.ts"
 import {
@@ -44,7 +44,7 @@ const REMOVE_FILE_CODE = "change-mechanical-file/remove-file-code"
 
 const REMOVE_FILE = "change-mechanical-file/remove-file"
 
-const REMOVE_PROPERTY_VALUE = "change-mechanical-data/remove-property-value"
+const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-value"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === REMOVE_FILE_CODE) return removeCodeFile(world, given as { at: string })

@@ -21,7 +21,7 @@ const PARTS = "partSlugs"
 
 const PART_SLUGS = "part-slugs"
 
-const REMOVE_PROPERTY_VALUE = "change-mechanical-data/remove-property-value"
+const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-value"
 
 const TO = "to"
 

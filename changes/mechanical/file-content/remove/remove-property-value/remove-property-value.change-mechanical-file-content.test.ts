@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { removePropertyValue } from "./remove-property-value.change-mechanical-data.code.ts"
+import { removePropertyValue } from "./remove-property-value.change-mechanical-file-content.code.ts"
 
 const ROOT = "/var/tmp/remove-property-value"
 

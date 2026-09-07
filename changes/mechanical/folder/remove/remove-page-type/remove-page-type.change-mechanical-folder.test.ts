@@ -15,7 +15,7 @@ import {
   worldAt,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { removeFile } from "../../../file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
-import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.code.ts"
+import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
 import { removePageType } from "./remove-page-type.change-mechanical-folder.code.ts"
 
 afterAll(scratch.sweep)
@@ -43,7 +43,7 @@ const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file/remove-file") {
     return Promise.resolve(removeFile(given as { at: string }, world.textOf))
   }
-  if (at === "change-mechanical-data/remove-property-value") {
+  if (at === "change-mechanical-file-content/remove-property-value") {
     return Promise.resolve(removePropertyValue(world, given as Unnaming))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))

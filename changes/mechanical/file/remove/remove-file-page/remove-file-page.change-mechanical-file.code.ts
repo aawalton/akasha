@@ -23,7 +23,7 @@ const REMOVE_FILE = "change-mechanical-file/remove-file"
 
 const REMOVE_FILE_CODE = "change-mechanical-file/remove-file-code"
 
-const REMOVE_PROPERTY_VALUE = "change-mechanical-data/remove-property-value"
+const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-value"
 
 const CODE = new Set([".ts", ".tsx"])
 
