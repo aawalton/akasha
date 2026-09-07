@@ -9,6 +9,7 @@ import {
   sourceOver,
 } from "@akasha/pages/page-type-properties"
 import { loadedFrom, type Value, valueAt } from "@akasha/pages/page-value"
+import { pagesTurned } from "../beside-turning/beside-turning.module.code.ts"
 import {
   type Entry,
   fileKeysAt,
@@ -185,9 +186,6 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
   }
 }
 
-// The sweep runs before the build, so what the build files is filed over a folder holding the index
-// and nothing else. A dry run reads the same paths and takes none away, because a run answering none
-// whatever is there cannot be told from one that looked and found none.
 export function rebuiltWhole(repo: string, tree: string, put: boolean): Rebuilt {
   const root = indexIn(repo)
   const swept = sweptBeside(root, put)
@@ -336,11 +334,23 @@ export function settlingOver(
       ),
     ]
   )
+  const wasBesides = {
+    fileProperties: filePropertiesOver(reading, []),
+    sidecars: sidecarsOver(reading, []),
+  }
+  const wasClaim = claimingIn(repo, wasBesides.fileProperties, wasBesides.sidecars, carried)
   const claim = claimingIn(repo, filedBy, sidecars, carried)
+  const beside = pagesTurned(reading, wasBesides, { fileProperties: filedBy, sidecars }, carriedAt)
   const paths = filingOf(
     reading,
-    held.flatMap((one) => (one.was === null ? [] : claim(one.was, one.path, true))),
-    held.flatMap((one) => (one.now === null ? [] : claim(one.now, one.path, false)))
+    [
+      ...held.flatMap((one) => (one.was === null ? [] : wasClaim(one.was, one.path, true))),
+      ...beside.flatMap((one) => wasClaim(one.value, one.path, true)),
+    ],
+    [
+      ...held.flatMap((one) => (one.now === null ? [] : claim(one.now, one.path, false))),
+      ...beside.flatMap((one) => claim(one.value, one.path, false)),
+    ]
   )
 
   const valued = filingOf(

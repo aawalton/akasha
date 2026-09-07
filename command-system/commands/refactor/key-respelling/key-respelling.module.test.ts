@@ -1,7 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { readingIn } from "@akasha/indexes"
+import { textIn } from "@akasha/indexes/indexing/testing"
 import {
   idFiled,
   listedFiled,
@@ -95,21 +96,11 @@ function rooted(beside: readonly string[] = []): string {
   return root
 }
 
-function textOf(root: string): (path: string) => string | null {
-  return (path) => {
-    try {
-      return readFileSync(join(root, path), "utf8")
-    } catch {
-      return null
-    }
-  }
-}
-
 function respelled(root: string): Respelling {
   const given = readingIn(root)
   const asked = keyingFor(given, "text-property/keyed", "read-by")
   if ("refused" in asked) throw new Error(asked.refused)
-  const made = respellingFor(root, given, asked.keying, textOf(root))
+  const made = respellingFor(root, given, asked.keying, textIn(root))
   if ("refused" in made) throw new Error(made.refused)
   return made.respelling
 }
@@ -159,7 +150,7 @@ test("the signature, the page stating it and the code reading it are all respell
   const given = readingIn(root)
   const asked = keyingFor(given, "text-property/keyed", "read-by")
   if ("refused" in asked) throw new Error(asked.refused)
-  const made = respellingFor(root, given, asked.keying, textOf(root))
+  const made = respellingFor(root, given, asked.keying, textIn(root))
   if ("refused" in made) throw new Error(made.refused)
 
   expect(made.respelling.declarers).toEqual([TYPE_AT])
@@ -178,7 +169,7 @@ test("the slug a property is reached by does not change when its key does", () =
   const given = readingIn(root)
   const asked = keyingFor(given, "text-property/keyed", "read-by")
   if ("refused" in asked) throw new Error(asked.refused)
-  const made = respellingFor(root, given, asked.keying, textOf(root))
+  const made = respellingFor(root, given, asked.keying, textIn(root))
   if ("refused" in made) throw new Error(made.refused)
 
   expect(made.respelling.changes.get(PROPERTY_AT)).toContain('slug: "keyed"')

@@ -64,6 +64,10 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
+      statement: "A rebuild sweeps the paths belonging to no index before filing an entry.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A settle reads an index that stands nowhere yet as an index filing nothing.",
     },
     {
@@ -88,6 +92,16 @@ export const indexing = {
       invariantKind: "departure",
       statement:
         "A change turning a property's `unique` on or off files that property for every standing page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change turning which files a page type holds beside its pages files every page already of that page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The paths a change withdraws are read against the files the page types held before the change.",
     },
     {
       invariantKind: "departure",
@@ -121,7 +135,7 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "A rebuild inverts that edge in memory, holding every page value already.",
+      statement: "A rebuild inverts that edge in memory.",
     },
     {
       invariantKind: "departure",

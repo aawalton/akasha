@@ -6,9 +6,14 @@ import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
 import {
   A,
   aProperty,
+  aSource,
+  aTarget,
   aType,
   B,
+  BLAND,
+  BLAND_CODE,
   bare,
+  blandWith,
   bodyOf,
   C,
   D,
@@ -20,7 +25,6 @@ import {
   idFile,
   importFile,
   linesIn,
-  type Named,
   NOTE,
   namingAType,
   pathFile,
@@ -36,6 +40,7 @@ import {
   thePage,
   tookAway,
   VOCABULARY,
+  writingTo,
   wrotePages,
   wroteText,
 } from "./indexing.module.test-fixtures.ts"
@@ -200,10 +205,14 @@ test("a retargeted value withdraws the edge it left", () => {
   expect(existsSync(edgeFile(root, C, "part-slugs", A))).toBe(true)
 })
 
-const aTarget = (slug: string): Named => thePage({ id: D, pageTypeSlug: "domain", slug })
+test("a page type that gains a file property files that file beside every page already of it", () => {
+  const { tree, root } = blandWith(BLAND)
+  expect(existsSync(pathFile(root, "one.bland.code.ts"))).toBe(false)
 
-const aSource = (slug: string, names: string): Named =>
-  thePage({ id: A, pageTypeSlug: "domain", slug, partSlugs: [`domain/${names}`] })
+  settled(root, tree, ...BLAND_CODE, BLAND[1])
+
+  expect(said(pathFile(root, "one.bland.code.ts"))).toEqual({ path: "one.bland.ts", id: A })
+})
 
 test("renaming a page and the page naming it by slug leaves no line for where it was", () => {
   const { tree, root } = grounded()
@@ -352,7 +361,7 @@ test("a file taken away leaves none of the edges it left", () => {
 test("a file a page property holds is not loaded, so it is neither run nor read as a page", () => {
   const { tree, root } = grounded()
   const ran = join(tree, "ran")
-  const body = `import { writeFileSync } from "node:fs"\nwriteFileSync("${ran}", "x")\nexport const it = { id: "${D}", pageTypeSlug: "domain", slug: "d" }\n`
+  const body = writingTo(ran)
   const indexing = indexingAt(root, tree)
   indexing.wrote(put(tree, "x.module.code.ts", body), body, null)
 

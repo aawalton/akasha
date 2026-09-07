@@ -20,6 +20,7 @@ export const index = {
     "module/index-reading",
     "module/index-surface",
     "module/generated-properties",
+    "module/beside-turning",
     "module/reaching",
     "module/rebuilding",
     "module/index-shape",
