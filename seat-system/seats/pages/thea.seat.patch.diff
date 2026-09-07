@@ -1,0 +1,17 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/modules/run-cost/run-cost.module.code.ts b/checks/modules/run-cost/run-cost.module.code.ts
+index 6cf8a8fa6b3f654cc2576d365a3e5ea7dae953fa..e511754b51387fbefa19fadf069b5550b2de09ce 100644
+--- a/checks/modules/run-cost/run-cost.module.code.ts
++++ b/checks/modules/run-cost/run-cost.module.code.ts
+@@ -31,6 +31,10 @@ export function cpuMs(): number {
+   return (ticks / TICKS_PER_SECOND) * 1000
+ }
+ 
++declare global {
++  const oneHeld: number
++}
++
+ export function seconds(ms: number): string {
+   return Number.isFinite(ms) ? `${(ms / 1000).toFixed(2)}s` : "no ceiling"
+ }
