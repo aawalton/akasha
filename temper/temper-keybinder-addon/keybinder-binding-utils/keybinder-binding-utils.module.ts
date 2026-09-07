@@ -14,7 +14,7 @@ export const keybinderBindingUtils = {
     },
     {
       invariantKind: "departure",
-      statement: "An action is bound when any one of its binding slots holds a key.",
+      statement: "An action is bound when a binding slot of that action holds a key.",
     },
   ],
 } as const satisfies Module

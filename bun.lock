@@ -2336,6 +2336,7 @@
     "temper/temper-keybinder-addon": {
       "name": "@akasha/temper-keybinder-addon",
       "dependencies": {
+        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
       },
