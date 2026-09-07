@@ -1,5 +1,5 @@
 diff --git a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
-index 2d803d262f4886ba54e3cda478b19b60d69d5851..97524cb3daa38bc8ec0e0df209a68b7562b9b823 100644
+index 2d803d262f4886ba54e3cda478b19b60d69d5851..f8fd996a948b2ed98713e26320ac7e939e8b087c 100644
 --- a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
 +++ b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
 @@ -69,6 +69,8 @@ const MODEL_PAGE = new URL(
@@ -11,3 +11,14 @@ index 2d803d262f4886ba54e3cda478b19b60d69d5851..97524cb3daa38bc8ec0e0df209a68b75
  const OTHER_CLASS = "X"
  
  const UNSPECIFIED_RELATION = "dep"
+@@ -323,9 +325,7 @@ export async function loadOnnxParser(options: OnnxParserOptions = {}): Promise<D
+   const sessionOptions: ort.InferenceSession.SessionOptions = {
+     executionProviders: ["cpu"],
+     graphOptimizationLevel: "all",
+-  }
+-  if (options.intraOpNumThreads !== undefined) {
+-    sessionOptions.intraOpNumThreads = options.intraOpNumThreads
++    intraOpNumThreads: options.intraOpNumThreads ?? DEFAULT_INTRA_OP_THREADS,
+   }
+   const [parser, relations] = await Promise.all([
+     ort.InferenceSession.create(files.parserWeights, sessionOptions),
