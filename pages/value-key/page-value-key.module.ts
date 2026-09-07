@@ -9,12 +9,19 @@ export const pageValueKey = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page's body is in its values under one name, and that name is stated here.",
+      statement: "A page's body is in its values under one name.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An attachment is in a page's values under one name, and that name is stated here.",
+      statement: "The name a body sits under is stated here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An attachment is in a page's values under one name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The name an attachment sits under is stated here.",
     },
     {
       invariantKind: "absence",
