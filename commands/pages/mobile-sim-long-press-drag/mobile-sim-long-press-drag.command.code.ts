@@ -10,7 +10,7 @@ import {
   type Said,
   told,
   wordsIn,
-} from "../mobile-answering/mobile-answering.module.code.ts"
+} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
 
 const X = "--x"
 

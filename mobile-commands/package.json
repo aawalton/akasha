@@ -2,7 +2,9 @@
   "name": "@akasha/mobile-commands",
   "private": true,
   "type": "module",
-  "exports": {},
+  "exports": {
+    "./mobile-answering": "./mobile-answering/mobile-answering.module.code.ts"
+  },
   "dependencies": {
     "@akasha/code": "workspace:*",
     "@akasha/command-system": "workspace:*",

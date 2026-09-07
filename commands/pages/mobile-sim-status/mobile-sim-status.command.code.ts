@@ -10,7 +10,7 @@ import {
   refusedBy,
   told,
   wordsIn,
-} from "../mobile-answering/mobile-answering.module.code.ts"
+} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
 
 const A_SECOND = 1_000
 

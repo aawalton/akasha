@@ -1,7 +1,7 @@
 import { writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
 import { join } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
+import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { screenshot } from "@akasha/mobile-cli/appium-client"
 import {
   answering,
@@ -11,7 +11,7 @@ import {
   refusedBy,
   told,
   wordsIn,
-} from "../mobile-answering/mobile-answering.module.code.ts"
+} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
 
 const OUT = "--out"
 
@@ -26,7 +26,7 @@ export function readIn(argv: readonly string[], nowMs: number): Reading<Read> {
   if ("refused" in said) return said
   const loose = flagsAloneIn(said)
   if (loose.length > 0) return { refused: loose }
-  return { out: said.named[OUT] ?? join(tmpdir(), `mobile-sim-${nowMs}.png`) }
+  return { out: said.named[OUT] ?? join(SCRATCH_AT, `mobile-sim-${nowMs}.png`) }
 }
 
 async function pictured(read: Read): Promise<Answer> {
