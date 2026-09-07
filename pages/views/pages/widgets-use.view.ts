@@ -1,0 +1,32 @@
+import type { View } from "../view.page-type.ts"
+
+export const widgetsUse = {
+  id: "01a07c99-d4ae-7dac-be34-5aa8cdd57108",
+  pageTypeSlug: "view",
+  slug: "widgets-use",
+  title: "Use",
+  navSlug: "widgets",
+  pageType: "readout-widget",
+  viewPlace: 0,
+  layout: "table",
+  viewSorts: [{ key: "taps", descending: true }],
+  visibleProperties: ["taps", "last-tapped-at", "gallery-name", "app-slug", "place", "opens"],
+  alwaysShowProperties: ["taps", "last-tapped-at"],
+  hiddenPropertiesOrder: [
+    "definition",
+    "caption",
+    "kind",
+    "families",
+    "feed",
+    "component-slug",
+    "gallery-description",
+    "group-slugs",
+    "created-at",
+    "updated-at",
+    "seq",
+    "page-type-id",
+  ],
+  pageSize: 24,
+  itemPageSize: 12,
+  groupPageSize: 6,
+} as const satisfies View
