@@ -21,5 +21,6 @@ export const rynStandardAgentEnglish = {
     "The load a construction puts on a reading agent is measured.",
     "Standard Agent English is designed from first principles, unbiased by current usage.",
     "The reader is an agent rather than a person.",
+    "Standard Agent English is built beside the taboo terms and the sentence shapes, and those pages are deleted only once Alan says Standard Agent English is mature.",
   ],
 } as const satisfies Initiative
