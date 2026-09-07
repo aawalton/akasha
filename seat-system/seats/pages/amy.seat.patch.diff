@@ -41,6 +41,25 @@ index cf2741668d6a0c2bf7e6cac8cfd256f9c7294232..9b0e4504abaf16601cac2bed3227fb5d
 +    },
 +  ],
  } as const satisfies Module
+diff --git a/alan/web/routes/api.page-types.ts b/alan/web/routes/api.page-types.ts
+index 5e0cb7f89b61eff16e323e637384fb344020e15b..05c3233fbcbba5483faafd8416c1de6ec3b4ee00 100644
+--- a/alan/web/routes/api.page-types.ts
++++ b/alan/web/routes/api.page-types.ts
+@@ -1,6 +1,13 @@
+ import { answerPageTypes } from "../.server/alan-answer-page-types/alan-answer-page-types.module.code.ts"
++import {
++  capacitorCorsHeaders,
++  corsAnswered,
++  corsPreflight,
++} from "../capacitor-cors/capacitor-cors.module.code.ts"
+ import type { Route } from "./+types/api.page-types"
+ 
+ export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
+-  return answerPageTypes(request)
++  const cors = capacitorCorsHeaders(request, "GET, OPTIONS")
++  if (request.method === "OPTIONS") return corsPreflight(cors)
++  return corsAnswered(await answerPageTypes(request), cors)
+ }
 diff --git a/alan/web/routes/api.pages.$pageTypeSlug.ts b/alan/web/routes/api.pages.$pageTypeSlug.ts
 index 8ce040185521ec9176b9035a7b2af76aba2a2447..d1558271074f3fea985bf192108b560b75acaf7c 100644
 --- a/alan/web/routes/api.pages.$pageTypeSlug.ts
