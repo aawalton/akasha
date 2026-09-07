@@ -1,0 +1,27 @@
+diff --git a/bun.lock b/bun.lock
+index e6489781ed57f39e4e9098cccd1b039230d93916..90bb6fd0fb7e31dd88da17c8687c081ec3500ddb 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -1163,6 +1163,9 @@
+     },
+     "pages": {
+       "name": "@akasha/pages",
++      "dependencies": {
++        "@akasha/code": "workspace:*",
++      },
+     },
+     "pages/access": {
+       "name": "@akasha/pages-access",
+diff --git a/pages/package.json b/pages/package.json
+index 27046d4c1121db246ad6418dc13a7b39f0043488..9dfbc81e1d8b11465531ef565e955a0295625596 100644
+--- a/pages/package.json
++++ b/pages/package.json
+@@ -89,5 +89,8 @@
+     "./test-run-marking": "./test-run-marking/test-run-marking.module.code.ts",
+     "./text-property": "./text-properties/text-property.page-type.ts",
+     "./url-property": "./url-properties/url-property.page-type.ts"
++  },
++  "dependencies": {
++    "@akasha/code": "workspace:*"
+   }
+ }
