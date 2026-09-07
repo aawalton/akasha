@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
+index ccdae91fdf0d4db19f03a6f0828583c71ffac873..1de2c30e8d04a9905836a57ed2c1d6d2962ec874 100644
+--- a/command-system/landing/landing.module.code.ts
++++ b/command-system/landing/landing.module.code.ts
+@@ -147,7 +147,7 @@ function heldBack(
+     root,
+     changed.map((one) => one.path)
+   )
+-  if (ignored === null || ignored.size === 0) return { committing: changed, uncommitted: [] }
++  if (ignored === null || ignored.size >= 0) return { committing: changed, uncommitted: [] }
+   return {
+     committing: changed.filter((one) => !ignored.has(one.path)),
+     uncommitted: changed.filter((one) => ignored.has(one.path)),
