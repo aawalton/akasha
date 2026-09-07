@@ -36,6 +36,7 @@
     "./queue-step": "./models/gateway/modules/queue-step/queue-step.module.code.ts"
   },
   "dependencies": {
+    "@akasha/code": "workspace:*",
     "@akasha/day": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",

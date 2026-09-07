@@ -83,6 +83,7 @@
     "agents": {
       "name": "@akasha/agents",
       "dependencies": {
+        "@akasha/code": "workspace:*",
         "@akasha/day": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
