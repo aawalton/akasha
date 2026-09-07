@@ -6,6 +6,8 @@ import { readFor } from "../../../modules/page-knowing/page-knowing.module.code.
 
 const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
 
+const TEXT_PROPERTY = "text-property"
+
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const AT = "at"
@@ -34,6 +36,11 @@ export async function changePagePropertyText(
   const held = carried.find((one) => one.key === given.key)
   if (held === undefined) {
     return refusing(`a \`${pageTypeSlug}\` carries no property under \`${given.key}\``)
+  }
+  if (held.pageTypeSlug !== TEXT_PROPERTY) {
+    return refusing(
+      `\`${given.key}\` names a \`${held.pageTypeSlug}\`, and a restatement states a \`${TEXT_PROPERTY}\` anew`
+    )
   }
   return (await reach(world, CHANGE_PAGE_PROPERTY, given)).said
 }
