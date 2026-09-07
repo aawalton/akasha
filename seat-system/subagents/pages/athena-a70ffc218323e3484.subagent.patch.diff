@@ -1,0 +1,4317 @@
+writerOwesReading: false
+diff --git a/commands/pages/temper-inventory-automation-set/temper-inventory-automation-set.command.code.ts b/commands/pages/temper-inventory-automation-set/temper-inventory-automation-set.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d7b220741e3120445e825841fb309bd77e1d794f
+--- /dev/null
++++ b/commands/pages/temper-inventory-automation-set/temper-inventory-automation-set.command.code.ts
+@@ -0,0 +1,133 @@
++import type { Answer } from "@akasha/command-system/calling"
++import { refused } from "@akasha/command-system/calling"
++import { whyOf } from "@akasha/command-system/fault-saying"
++import {
++  type AutomationScope,
++  applyToggle,
++  parseScope,
++  parseValue,
++  type ToggleValue,
++} from "@akasha/temper-inventory-automation/automation-toggle-change"
++import {
++  type AutomationSettings,
++  inventorySettings,
++} from "../../../temper/temper-commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
++
++const INPUT = 1
++
++const OPERATIONAL = 3
++
++const SCOPE = "--scope"
++
++const TOGGLE = "--toggle"
++
++const VALUE = "--value"
++
++const TARGET = "--target"
++
++const SPACES = 2
++
++const TAKING_A_VALUE = [SCOPE, TOGGLE, VALUE, TARGET]
++
++const NEEDED = [SCOPE, TOGGLE, VALUE]
++
++export type Read =
++  | {
++      readonly scope: string
++      readonly toggle: string
++      readonly value: string
++      readonly target: string | null
++    }
++  | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  const held = new Map<string, string>()
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (!TAKING_A_VALUE.includes(one)) {
++      refusals.push(
++        `\`${one}\` is nothing this takes — it takes \`${SCOPE}\`, \`${TOGGLE}\`, ` +
++          `\`${VALUE}\` and \`${TARGET}\``
++      )
++      continue
++    }
++    const value = argv[at + 1]
++    at += 1
++    if (value === undefined) {
++      refusals.push(`\`${one}\` takes a value, and none followed it`)
++      continue
++    }
++    held.set(one, value)
++  }
++  for (const flag of NEEDED) {
++    if (!held.has(flag)) {
++      refusals.push(`\`${flag}\` names part of what is set, and nothing said it`)
++    }
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return {
++    scope: held.get(SCOPE) as string,
++    toggle: held.get(TOGGLE) as string,
++    value: held.get(VALUE) as string,
++    target: held.get(TARGET) ?? null,
++  }
++}
++
++export function scopeSaid(scope: AutomationScope): string {
++  if (scope.kind === "global") return `global.${scope.target}`
++  if (scope.kind === "character") return `character:${scope.esoCharId}`
++  return `companion:${scope.companionId}`
++}
++
++type Asked =
++  | { readonly scope: AutomationScope; readonly value: ToggleValue }
++  | { readonly why: string }
++
++function askedIn(read: Exclude<Read, { refused: readonly string[] }>): Asked {
++  try {
++    return {
++      scope: parseScope(read.scope, read.toggle, read.target ?? undefined),
++      value: parseValue(read.value),
++    }
++  } catch (thrown) {
++    return { why: whyOf(thrown) }
++  }
++}
++
++export async function temperInventoryAutomationSet(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
++
++  const asked = askedIn(read)
++  if ("why" in asked) return refused(asked.why, INPUT)
++
++  const access = await inventorySettings()
++
++  let settings: AutomationSettings
++  try {
++    settings = await access.readAutomation()
++  } catch (thrown) {
++    return refused(`the automation settings went unread — ${whyOf(thrown)}`, OPERATIONAL)
++  }
++
++  let next: AutomationSettings
++  try {
++    next = applyToggle(settings, asked.scope, read.toggle, asked.value)
++  } catch (thrown) {
++    return refused(whyOf(thrown), INPUT)
++  }
++
++  try {
++    await access.writeAutomation(next)
++  } catch (thrown) {
++    return refused(
++      `the automation settings were not written, so no toggle changed — ${whyOf(thrown)}`,
++      OPERATIONAL
++    )
++  }
++
++  const said = { scope: scopeSaid(asked.scope), toggle: read.toggle, value: asked.value }
++  return { report: JSON.stringify(said, null, SPACES).split("\n"), refusals: [], code: 0 }
++}
+diff --git a/commands/pages/temper-inventory-automation-set/temper-inventory-automation-set.command.ts b/commands/pages/temper-inventory-automation-set/temper-inventory-automation-set.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e0a7b0a166d4758360c2a39e078554d5f26016c1
+--- /dev/null
++++ b/commands/pages/temper-inventory-automation-set/temper-inventory-automation-set.command.ts
+@@ -0,0 +1,48 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryAutomationSet = {
++  id: "01a0603c-c1ce-7042-a37c-880bfd4380f9",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-automation-set",
++  definition: "the command setting or clearing one automation toggle",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    {
++      said: "--scope <scope>",
++      takes: "the scope set: everything, one character, or one companion",
++    },
++    { said: "--toggle <name>", takes: "the toggle set" },
++    {
++      said: "--value <true|false|null>",
++      takes: "what the toggle becomes, where `null` takes the entry away",
++    },
++    {
++      said: "--target <characters|companions>",
++      takes: "which interface a toggle carried by both is set on",
++    },
++  ],
++  helpNotes: [
++    "a scope is `global`, `character:<id>` or `companion:<id>`.",
++    "`--target` is needed only where the scope is global and the toggle is carried by both interfaces.",
++    "saying `null` takes the entry away rather than setting it false.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "One call sets one toggle.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A null value takes the entry away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A global toggle carried by both interfaces needs a target.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A toggle no interface carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-automation-show/temper-inventory-automation-show.command.code.ts b/commands/pages/temper-inventory-automation-show/temper-inventory-automation-show.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cb2df25089c3d2b0f76fe3a809cde62511a9235d
+--- /dev/null
++++ b/commands/pages/temper-inventory-automation-show/temper-inventory-automation-show.command.code.ts
+@@ -0,0 +1,88 @@
++import type { Answer } from "@akasha/command-system/calling"
++import { refused } from "@akasha/command-system/calling"
++import { whyOf } from "@akasha/command-system/fault-saying"
++import {
++  type AutomationSettings,
++  inventorySettings,
++  type Toggles,
++} from "../../../temper/temper-commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
++
++const INPUT = 1
++
++const OPERATIONAL = 3
++
++const JSON_FLAG = "--json"
++
++const SPACES = 2
++
++const HEADING = "scope\ttoggle\tvalue"
++
++const GLOBAL_CHARACTERS = "global.characters"
++
++const GLOBAL_COMPANIONS = "global.companions"
++
++type Row = { readonly scope: string; readonly toggle: string; readonly value: boolean }
++
++export type Read = { readonly json: boolean } | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  let json = false
++  for (const one of argv) {
++    if (one === JSON_FLAG) {
++      json = true
++      continue
++    }
++    refusals.push(`\`${one}\` is nothing this takes — it takes \`${JSON_FLAG}\``)
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { json }
++}
++
++function rowsFor(scope: string, toggles: Toggles | undefined): readonly Row[] {
++  if (toggles === undefined) return []
++  const found: Row[] = []
++  for (const [toggle, value] of Object.entries(toggles)) {
++    if (typeof value !== "boolean") continue
++    found.push({ scope, toggle, value })
++  }
++  return found
++}
++
++export function rowsOf(settings: AutomationSettings): readonly Row[] {
++  return [
++    ...rowsFor(GLOBAL_CHARACTERS, settings.global?.characters),
++    ...rowsFor(GLOBAL_COMPANIONS, settings.global?.companions),
++    ...Object.entries(settings.characters).flatMap(([esoCharId, toggles]) =>
++      rowsFor(`character:${esoCharId}`, toggles)
++    ),
++    ...Object.entries(settings.companions).flatMap(([companionId, toggles]) =>
++      rowsFor(`companion:${companionId}`, toggles)
++    ),
++  ]
++}
++
++export async function temperInventoryAutomationShow(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
++
++  let settings: AutomationSettings
++  try {
++    settings = await (await inventorySettings()).readAutomation()
++  } catch (thrown) {
++    return refused(`the automation settings went unread — ${whyOf(thrown)}`, OPERATIONAL)
++  }
++
++  if (read.json) {
++    return { report: JSON.stringify(settings, null, SPACES).split("\n"), refusals: [], code: 0 }
++  }
++
++  return {
++    report: [
++      HEADING,
++      ...rowsOf(settings).map((one) => `${one.scope}\t${one.toggle}\t${one.value}`),
++    ],
++    refusals: [],
++    code: 0,
++  }
++}
+diff --git a/commands/pages/temper-inventory-automation-show/temper-inventory-automation-show.command.ts b/commands/pages/temper-inventory-automation-show/temper-inventory-automation-show.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9e3487b2d12b3943e654559de4692cf18e86c4d1
+--- /dev/null
++++ b/commands/pages/temper-inventory-automation-show/temper-inventory-automation-show.command.ts
+@@ -0,0 +1,24 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryAutomationShow = {
++  id: "01a0603c-c1ce-749d-a434-9035b90e6e37",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-automation-show",
++  definition: "the command giving back the automation toggles as they are set",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "--json", takes: "give the whole shape as JSON rather than as tab-separated rows" },
++  ],
++  helpNotes: ["every scope is reported: the global one, each character and each companion."],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Every scope is reported.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here changes a toggle.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-capacity-audit/temper-inventory-capacity-audit.command.code.ts b/commands/pages/temper-inventory-capacity-audit/temper-inventory-capacity-audit.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5cca7a0c0c0cdc84c08bbdc001c46630fac3ea99
+--- /dev/null
++++ b/commands/pages/temper-inventory-capacity-audit/temper-inventory-capacity-audit.command.code.ts
+@@ -0,0 +1,129 @@
++import { resolve } from "node:path"
++import type { Answer, Given } from "@akasha/command-system/calling"
++import { refused } from "@akasha/command-system/calling"
++import { whyOf } from "@akasha/command-system/fault-saying"
++import {
++  type CapacityAudit,
++  capacityFilter,
++  planInputs,
++  ruleMatcher,
++} from "../../../temper/temper-commands/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
++
++const INPUT = 1
++
++const OPERATIONAL = 3
++
++const INVENTORY_PATH = "--inventory-path"
++
++const CHARACTERS_PATH = "--characters-path"
++
++const JSON_FLAG = "--json"
++
++const SPACES = 2
++
++const AUDIT_HEADER = "[TemperInventory] Capacity audit:"
++
++export type Read =
++  | {
++      readonly inventoryPath: string | null
++      readonly charactersPath: string | null
++      readonly json: boolean
++    }
++  | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  let inventoryPath: string | null = null
++  let charactersPath: string | null = null
++  let json = false
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (one === JSON_FLAG) {
++      json = true
++      continue
++    }
++    if (one === INVENTORY_PATH || one === CHARACTERS_PATH) {
++      const value = argv[at + 1]
++      at += 1
++      if (value === undefined) {
++        refusals.push(`\`${one}\` takes a value, and none followed it`)
++        continue
++      }
++      if (one === INVENTORY_PATH) inventoryPath = value
++      else charactersPath = value
++      continue
++    }
++    refusals.push(
++      `\`${one}\` is nothing this takes — it takes \`${INVENTORY_PATH}\`, ` +
++        `\`${CHARACTERS_PATH}\` and \`${JSON_FLAG}\``
++    )
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { inventoryPath, charactersPath, json }
++}
++
++export function auditSaid(audit: CapacityAudit): readonly string[] {
++  if (audit.entries.length === 0) {
++    return [AUDIT_HEADER, "  No capacity overflow — every destination fits."]
++  }
++  const lines: string[] = [AUDIT_HEADER]
++  for (const entry of audit.entries) {
++    lines.push(
++      `  ${entry.destinationName} — needed ${entry.neededSlots} slots, ${entry.freeSlots} free, ` +
++        `dropped ${entry.droppedStacks} (${entry.droppedUnits} items)`
++    )
++    for (const rule of entry.rules) {
++      const label = rule.ruleTitle ?? rule.ruleId
++      const items = rule.items.map((one) => `${one.itemName} ×${one.units}`).join(", ")
++      lines.push(`    ${label} (${rule.action}): ${items}`)
++    }
++  }
++  return lines
++}
++
++export async function temperInventoryCapacityAudit(
++  argv: readonly string[] = [],
++  given?: Given
++): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
++  const root = given === undefined ? process.cwd() : resolve(given.root)
++  try {
++    const inputs = await planInputs()
++    const inventoryPath =
++      read.inventoryPath === null
++        ? inputs.DEFAULT_INVENTORY_PATH
++        : resolve(root, read.inventoryPath)
++    const charactersPath =
++      read.charactersPath === null
++        ? inputs.DEFAULT_CHARACTERS_PATH
++        : resolve(root, read.charactersPath)
++    const { db, orderedRules, itemRules, context, classifiedItems } =
++      await inputs.loadInventoryPlanInputs(inventoryPath, charactersPath)
++    const matcher = await ruleMatcher()
++    const matched = matcher.computeAllRuleAffectedItems(
++      orderedRules,
++      classifiedItems,
++      context,
++      itemRules
++    )
++    const filter = await capacityFilter()
++    const { audit } = filter.applyDestinationCapacityFilterWithAudit(
++      orderedRules,
++      itemRules,
++      matched.ruleMap,
++      db
++    )
++    if (read.json) {
++      return {
++        report: JSON.stringify(audit, null, SPACES).split("\n"),
++        refusals: [],
++        code: 0,
++      }
++    }
++    return { report: [...auditSaid(audit)], refusals: [], code: 0 }
++  } catch (thrown) {
++    return refused(whyOf(thrown), OPERATIONAL)
++  }
++}
+diff --git a/commands/pages/temper-inventory-capacity-audit/temper-inventory-capacity-audit.command.ts b/commands/pages/temper-inventory-capacity-audit/temper-inventory-capacity-audit.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..37c2fba759777fbc3ffd7c9581212fc641812bc8
+--- /dev/null
++++ b/commands/pages/temper-inventory-capacity-audit/temper-inventory-capacity-audit.command.ts
+@@ -0,0 +1,40 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryCapacityAudit = {
++  id: "01a0603c-c1d1-78cf-9174-01514c3d023a",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-capacity-audit",
++  definition: "the command naming the destinations whose storage the rules would overflow",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    {
++      said: "--inventory-path <path>",
++      takes: "the saved-variables file the holdings are read from",
++    },
++    {
++      said: "--characters-path <path>",
++      takes: "the saved-variables file the characters are read from",
++    },
++    { said: "--json", takes: "give the whole audit as JSON rather than as text" },
++  ],
++  helpNotes: [
++    "each overflowing destination carries the slots needed against the slots free.",
++    "the rules and the items the capacity filter dropped are named beside it.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A destination is reported only where the slots needed run past the slots free.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "An overflowing destination names the rules and items the capacity filter dropped.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run finding no overflow reports nothing.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-parity/temper-inventory-parity.command.code.ts b/commands/pages/temper-inventory-parity/temper-inventory-parity.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5cfaa2c76bf68b68a94ea9ea826b8320652e35e6
+--- /dev/null
++++ b/commands/pages/temper-inventory-parity/temper-inventory-parity.command.code.ts
+@@ -0,0 +1,382 @@
++import { readFile } from "node:fs/promises"
++import { resolve } from "node:path"
++import type { Answer, Given } from "@akasha/command-system/calling"
++import { refused } from "@akasha/command-system/calling"
++import { whyOf } from "@akasha/command-system/fault-saying"
++import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
++import { assertNever } from "@akasha/utils-narrow/assert-never"
++import {
++  allBagItems,
++  type CharacterKnowledge,
++  type CompiledOrderedRule,
++  explainCapabilities,
++  type ItemFacts,
++  type RuleEvalResult,
++  resolveItemFromInventory,
++  type WalkTrace,
++} from "../../../temper/temper-commands/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
++import {
++  type MatchedRoute,
++  type ParityAddonTrace,
++  parityAddonTrace,
++  parityRouting,
++} from "../../../temper/temper-commands/inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts"
++
++const INPUT = 1
++
++const DATA = 2
++
++const OPERATIONAL = 3
++
++const CHAR = "--char"
++
++const INVENTORY_PATH = "--inventory-path"
++
++const CHARACTERS_PATH = "--characters-path"
++
++const INVENTORY_LUA = "TemperInventory.lua"
++
++const CHARACTERS_LUA = "TemperCharacters.lua"
++
++const TAKING_A_VALUE = [CHAR, INVENTORY_PATH, CHARACTERS_PATH]
++
++const ABSENT = "(absent)"
++
++const NO_DIVERGENCE = "  (no divergence)"
++
++const NOT_EVALUATED = "skip(not-evaluated)"
++
++const UNKNOWN_CATEGORY = "(unknown)"
++
++type DiffRow = { readonly field: string; readonly web: string; readonly addon: string }
++
++type WalkDiffRow = {
++  readonly index: number
++  readonly categoryId: string
++  readonly web: string
++  readonly addon: string
++}
++
++type AddonVerdict =
++  | { readonly kind: "matched"; readonly action: string }
++  | { readonly kind: "rejected"; readonly reason: string; readonly detail?: string }
++  | { readonly kind: "skipped" }
++
++export type Read =
++  | {
++      readonly itemId: number
++      readonly charId: string
++      readonly inventoryPath: string | null
++      readonly charactersPath: string | null
++    }
++  | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  const held = new Map<string, string>()
++  let named: string | null = null
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (TAKING_A_VALUE.includes(one)) {
++      const value = argv[at + 1]
++      at += 1
++      if (value === undefined) {
++        refusals.push(`\`${one}\` takes a value, and none followed it`)
++        continue
++      }
++      held.set(one, value)
++      continue
++    }
++    if (one.startsWith("--")) {
++      refusals.push(
++        `\`${one}\` is no flag this takes — it takes \`${CHAR}\`, ` +
++          `\`${INVENTORY_PATH}\` and \`${CHARACTERS_PATH}\``
++      )
++      continue
++    }
++    if (named !== null) {
++      refusals.push(`\`${one}\` follows the item already named, and one call compares one item`)
++      continue
++    }
++    named = one
++  }
++  if (named === null) refusals.push("this names no item — it takes a bare item id")
++  else if (!/^\d+$/.test(named)) {
++    refusals.push(`\`${named}\` is no whole item id, and a stored trace is reached by id`)
++  }
++  const charId = held.get(CHAR)
++  if (charId === undefined) {
++    refusals.push(
++      `\`${CHAR}\` names the character the stored trace was captured from, and nothing said it`
++    )
++  }
++  if (refusals.length > 0 || named === null || charId === undefined) return { refused: refusals }
++  return {
++    itemId: Number(named),
++    charId,
++    inventoryPath: held.get(INVENTORY_PATH) ?? null,
++    charactersPath: held.get(CHARACTERS_PATH) ?? null,
++  }
++}
++
++function numSaid(value: number | undefined): string {
++  return value === undefined ? ABSENT : String(value)
++}
++
++function numbersAgree(web: number | undefined, addon: number | undefined): boolean {
++  return (web ?? 0) === (addon ?? 0)
++}
++
++export function inputsDiff(trace: ParityAddonTrace, facts: ItemFacts): readonly DiffRow[] {
++  const addon = trace.signals
++  const checks: readonly {
++    readonly field: string
++    readonly web: number | undefined
++    readonly addon: number | undefined
++  }[] = [
++    { field: "itemType", web: facts.itemType, addon: addon.itemType },
++    {
++      field: "specializedItemType",
++      web: facts.specializedItemType,
++      addon: addon.specializedItemType,
++    },
++    { field: "filterType", web: facts.filterType, addon: addon.filterType },
++    { field: "traitType", web: facts.traitType, addon: addon.traitType },
++    { field: "equipType", web: facts.equipType, addon: addon.equipType },
++    { field: "armorType", web: facts.armorType, addon: addon.armorType },
++    { field: "weaponType", web: facts.weaponType, addon: addon.weaponType },
++    { field: "quality", web: facts.quality, addon: addon.quality },
++  ]
++  const rows: DiffRow[] = []
++  for (const check of checks) {
++    if (numbersAgree(check.web, check.addon)) continue
++    rows.push({ field: check.field, web: numSaid(check.web), addon: numSaid(check.addon) })
++  }
++  const chain = facts.categoryNodeIds ?? []
++  const leaf = chain.length === 0 ? undefined : chain[chain.length - 1]
++  if (leaf !== trace.classification.leafCategoryId) {
++    rows.push({
++      field: "leafCategoryId",
++      web: leaf ?? ABSENT,
++      addon: trace.classification.leafCategoryId,
++    })
++  }
++  return rows
++}
++
++function addonVerdictSaid(one: AddonVerdict): string {
++  if (one.kind === "matched") return `match(${one.action})`
++  if (one.kind === "rejected") {
++    return one.detail === undefined ? `skip(${one.reason})` : `skip(${one.reason}:${one.detail})`
++  }
++  return NOT_EVALUATED
++}
++
++function webVerdictSaid(one: RuleEvalResult): string {
++  const verdict = one.verdict
++  if (verdict.kind === "matched") return `match(${one.action})`
++  if (verdict.kind === "indeterminate") return `indeterminate(${verdict.reason.kind})`
++  switch (verdict.reason.kind) {
++    case "category-mismatch":
++      return "skip(category-mismatch)"
++    case "condition-fail":
++      return `skip(condition-fail:${verdict.reason.conditionKind})`
++    case "container-skip":
++      return "skip(container-skip)"
++    case "destination-resolve-fail":
++      return "skip(destination-resolve-fail)"
++    default:
++      return assertNever(verdict.reason as never)
++  }
++}
++
++function verdictsDiffer(web: RuleEvalResult, addon: AddonVerdict): boolean {
++  const webKind = web.verdict.kind
++  const bothPassOver =
++    addon.kind === "skipped" &&
++    webKind === "rejected" &&
++    web.verdict.reason.kind === "category-mismatch"
++  if (bothPassOver) return false
++  return webKind !== addon.kind
++}
++
++function addonByIndexIn(trace: ParityAddonTrace): ReadonlyMap<number, AddonVerdict> {
++  const found = new Map<number, AddonVerdict>()
++  const matched = trace.orderedWalk.matched
++  if (matched !== undefined) found.set(matched.index, { kind: "matched", action: matched.action })
++  for (const one of trace.orderedWalk.rejections) {
++    found.set(one.index, { kind: "rejected", reason: one.reason, detail: one.detail })
++  }
++  return found
++}
++
++export function walkDiff(
++  trace: ParityAddonTrace,
++  webTrace: WalkTrace,
++  rules: readonly CompiledOrderedRule[]
++): readonly WalkDiffRow[] {
++  const addonByIndex = addonByIndexIn(trace)
++  const webByIndex = new Map<number, RuleEvalResult>()
++  let webMatchedIndex: number | undefined
++  for (const one of webTrace.perRule) {
++    webByIndex.set(one.index, one)
++    if (one.verdict.kind === "matched" && webMatchedIndex === undefined) webMatchedIndex = one.index
++  }
++  const stops: number[] = []
++  const addonMatchedIndex = trace.orderedWalk.matched?.index
++  if (addonMatchedIndex !== undefined) stops.push(addonMatchedIndex)
++  if (webMatchedIndex !== undefined) stops.push(webMatchedIndex)
++  const cap = stops.length === 0 ? Number.POSITIVE_INFINITY : Math.min(...stops)
++
++  const rows: WalkDiffRow[] = []
++  const indices = [...new Set([...addonByIndex.keys(), ...webByIndex.keys()])]
++    .filter((one) => one <= cap)
++    .sort((a, b) => a - b)
++  for (const index of indices) {
++    const addon: AddonVerdict = addonByIndex.get(index) ?? { kind: "skipped" }
++    const web = webByIndex.get(index)
++    if (web === undefined) {
++      if (addon.kind === "skipped") continue
++      rows.push({
++        index,
++        categoryId: rules[index]?.categoryId ?? UNKNOWN_CATEGORY,
++        web: NOT_EVALUATED,
++        addon: addonVerdictSaid(addon),
++      })
++      continue
++    }
++    if (!verdictsDiffer(web, addon)) continue
++    rows.push({
++      index,
++      categoryId: web.categoryId,
++      web: webVerdictSaid(web),
++      addon: addonVerdictSaid(addon),
++    })
++  }
++  return rows
++}
++
++export function inputsSaid(rows: readonly DiffRow[]): readonly string[] {
++  if (rows.length === 0) return ["INPUTS DIFF", NO_DIVERGENCE]
++  return ["INPUTS DIFF", ...rows.map((one) => `  ${one.field}  web=${one.web}  addon=${one.addon}`)]
++}
++
++export function walkSaid(rows: readonly WalkDiffRow[]): readonly string[] {
++  if (rows.length === 0) return ["WALK DIFF", NO_DIVERGENCE]
++  return [
++    "WALK DIFF",
++    ...rows.map(
++      (one) => `  rule ${String(one.index)} "${one.categoryId}"   web=${one.web} addon=${one.addon}`
++    ),
++  ]
++}
++
++export async function temperInventoryParity(
++  argv: readonly string[] = [],
++  given?: Given
++): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
++
++  const root = given === undefined ? process.cwd() : resolve(given.root)
++  const inventoryPath =
++    read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
++  const charactersPath =
++    read.charactersPath === null
++      ? savedVarsFile(CHARACTERS_LUA)
++      : resolve(root, read.charactersPath)
++
++  let content: string
++  try {
++    content = await readFile(inventoryPath, "utf8")
++  } catch (thrown) {
++    return refused(`${INVENTORY_LUA} at ${inventoryPath} would not open — ${whyOf(thrown)}`, DATA)
++  }
++
++  const [caps, addonTraces, routing] = await Promise.all([
++    explainCapabilities(),
++    parityAddonTrace(),
++    parityRouting(),
++  ])
++
++  let trace: ParityAddonTrace
++  try {
++    trace = addonTraces.loadParityAddonTraceFromContent(content, read.itemId)
++  } catch (thrown) {
++    return refused(
++      `${inventoryPath} holds no stored trace for item ${String(read.itemId)} — ${whyOf(thrown)}`,
++      DATA
++    )
++  }
++
++  const db = caps.parseInventoryContent(content)
++  const resolved = resolveItemFromInventory(caps, db, read.itemId)
++  if (resolved === undefined) {
++    return refused(
++      `item ${String(read.itemId)} is in the stored trace and in no bag scan of ` +
++        `${inventoryPath}, so there is nothing fresh to compare it against`,
++      DATA
++    )
++  }
++
++  let webWalk: WalkTrace
++  let facts: ItemFacts
++  try {
++    const { item, location } = resolved
++    const config = await caps.loadTemperInventoryConfigFromPath(inventoryPath)
++    const characters = await caps.loadTemperCharactersFromPath(charactersPath)
++    const charactersById = new Map<string, CharacterKnowledge>(
++      characters.map((one) => [one.id, one])
++    )
++    const env = caps.buildCliEvalEnv({
++      charactersById,
++      characterPriority: config.characterPriority,
++      wantedConsumables: config.wantedConsumables,
++    })
++    facts = caps.cliItemFactsFromInventoryItem(item, caps.classifyItemToNodeIds(item), location)
++    const stockGroupByRuleId = caps.computeStockGroups(
++      config.orderedRules,
++      allBagItems(caps, db),
++      ({ item: stockItem, location: stockLocation }) =>
++        caps.cliItemFactsFromInventoryItem(
++          stockItem,
++          caps.classifyItemToNodeIds(stockItem),
++          stockLocation
++        ),
++      env
++    )
++    webWalk = caps.walkRules(config.orderedRules, facts, { env, stockGroupByRuleId })
++    const inputRows = inputsDiff(trace, facts)
++    const walkRows = walkDiff(trace, webWalk, config.orderedRules)
++    const webMatch: MatchedRoute | undefined =
++      webWalk.outcome.kind === "matched"
++        ? routing.matchedRouteFrom(webWalk.outcome.action, webWalk.outcome.destination)
++        : undefined
++    const addonMatched = trace.orderedWalk.matched
++    const addonMatch: MatchedRoute | undefined =
++      addonMatched === undefined
++        ? undefined
++        : routing.matchedRouteFrom(addonMatched.action, addonMatched.destination)
++    const routingDiff = routing.computeRoutingDiff(read.charId, item, webMatch, addonMatch)
++    const report = [
++      ...inputsSaid(inputRows),
++      "",
++      ...walkSaid(walkRows),
++      "",
++      ...routing.renderRoutingSection(routingDiff).replace(/\n+$/, "").split("\n"),
++    ]
++    const diverged = inputRows.length > 0 || walkRows.length > 0 || routingDiff.mismatch
++    if (!diverged) return { report, refusals: [], code: 0 }
++    return {
++      report,
++      refusals: [
++        `the addon's stored trace for item ${String(read.itemId)} and a fresh evaluation ` +
++          "do not agree, and the rows above name where",
++      ],
++      code: DATA,
++    }
++  } catch (thrown) {
++    return refused(whyOf(thrown), OPERATIONAL)
++  }
++}
+diff --git a/commands/pages/temper-inventory-parity/temper-inventory-parity.command.ts b/commands/pages/temper-inventory-parity/temper-inventory-parity.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dccea69b22603b04e8e6d5e7a80379d87c49cd9c
+--- /dev/null
++++ b/commands/pages/temper-inventory-parity/temper-inventory-parity.command.ts
+@@ -0,0 +1,41 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryParity = {
++  id: "01a0603c-c1d6-73fa-8ab1-b6d5deb216e2",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-parity",
++  definition: "the command ruling whether the addon's trace of an item matches a fresh evaluation",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "<item-id>", takes: "the item whose stored trace is compared" },
++    { said: "--char <id>", takes: "the character the stored trace was captured from" },
++    {
++      said: "--inventory-path <path>",
++      takes: "the saved-variables file the holdings are read from",
++    },
++    {
++      said: "--characters-path <path>",
++      takes: "the saved-variables file the characters are read from",
++    },
++  ],
++  helpNotes: [
++    "the inputs are compared first and the walks after, so an input difference explains a walk difference.",
++    "the character is named rather than worked out, because a trace is captured from one perspective.",
++    "a stored trace for another item refuses the call rather than being compared.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The inputs are compared before the walks.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The character the trace was captured from is named on the call.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A stored trace for another item refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-plan/temper-inventory-plan.command.code.ts b/commands/pages/temper-inventory-plan/temper-inventory-plan.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2b33a0feb8d3444331013af06306c64e1a963372
+--- /dev/null
++++ b/commands/pages/temper-inventory-plan/temper-inventory-plan.command.code.ts
+@@ -0,0 +1,261 @@
++import { readFile } from "node:fs/promises"
++import { resolve } from "node:path"
++import type { Answer, Given } from "@akasha/command-system/calling"
++import { refused } from "@akasha/command-system/calling"
++import { whyOf } from "@akasha/command-system/fault-saying"
++import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
++import type { ClassifiableItem } from "@akasha/temper-items-core/item-category-tree-types"
++import { assertNever } from "@akasha/utils-narrow/assert-never"
++import {
++  type CharacterKnowledge,
++  type CharacterSession,
++  type ClassifiedInventoryItem,
++  type CompiledOrderedRule,
++  capacityFilter,
++  classifyItem,
++  inventoryParser,
++  type ManagementPlan,
++  managementPlan,
++  type PlanItem,
++  parseCharacters,
++  parseConfig,
++  planChecklist,
++  planInputs,
++  ruleMatcher,
++  type VenueStop,
++} from "../../../temper/temper-commands/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
++
++const INPUT = 1
++
++const DATA = 2
++
++const OPERATIONAL = 3
++
++const INVENTORY_PATH = "--inventory-path"
++
++const CHARACTERS_PATH = "--characters-path"
++
++const JSON_FLAG = "--json"
++
++const CHECKLIST = "--checklist"
++
++const INVENTORY_LUA = "TemperInventory.lua"
++
++const SPACES = 2
++
++const PLAN_HEADER = "[TemperInventory] Plan:"
++
++export type Read =
++  | {
++      readonly inventoryPath: string | null
++      readonly charactersPath: string | null
++      readonly json: boolean
++      readonly checklist: boolean
++    }
++  | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  let inventoryPath: string | null = null
++  let charactersPath: string | null = null
++  let json = false
++  let checklist = false
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (one === JSON_FLAG) {
++      json = true
++      continue
++    }
++    if (one === CHECKLIST) {
++      checklist = true
++      continue
++    }
++    if (one === INVENTORY_PATH || one === CHARACTERS_PATH) {
++      const value = argv[at + 1]
++      at += 1
++      if (value === undefined) {
++        refusals.push(`\`${one}\` takes a value, and none followed it`)
++        continue
++      }
++      if (one === INVENTORY_PATH) inventoryPath = value
++      else charactersPath = value
++      continue
++    }
++    refusals.push(
++      `\`${one}\` is nothing this takes — it takes \`${INVENTORY_PATH}\`, ` +
++        `\`${CHARACTERS_PATH}\`, \`${JSON_FLAG}\` and \`${CHECKLIST}\``
++    )
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { inventoryPath, charactersPath, json, checklist }
++}
++
++function verbOf(action: string, destination: string | undefined): string {
++  switch (action) {
++    case "sell":
++    case "destroy":
++    case "fence-sell":
++      return "sell"
++    case "fence-launder":
++      return "launder"
++    case "list":
++      return "list"
++    case "mail":
++      return "mail"
++    case "deconstruct":
++      return "deconstruct"
++    case "refine":
++      return "refine"
++    case "research":
++      return "research"
++    case "character-equip":
++    case "companion-equip":
++      return "equip"
++    case "stock":
++      return "stock"
++    case "move-to":
++      return destination?.startsWith("character:") === true ? "withdraw" : "deposit"
++    case "use":
++      return "use"
++    case "open":
++      return "open"
++    case "nothing":
++    case "lock":
++    case "unlock":
++      return action
++    default:
++      return assertNever(action as never)
++  }
++}
++
++function venueRows(plan: ManagementPlan): ReadonlyMap<string, Map<string, number>> {
++  const labelToVerbs = new Map<string, Map<string, number>>()
++  const holdItem = (item: PlanItem, verbs: Map<string, number>): undefined => {
++    const verb = verbOf(item.action, undefined)
++    verbs.set(verb, (verbs.get(verb) ?? 0) + item.stackCount)
++    return undefined
++  }
++  const holdVenue = (venue: VenueStop): undefined => {
++    let verbs = labelToVerbs.get(venue.label)
++    if (verbs === undefined) {
++      verbs = new Map()
++      labelToVerbs.set(venue.label, verbs)
++    }
++    for (const group of venue.actionGroups) for (const item of group.items) holdItem(item, verbs)
++    return undefined
++  }
++  const holdSession = (session: CharacterSession): undefined => {
++    for (const venue of session.venues) holdVenue(venue)
++    return undefined
++  }
++  for (const session of plan.sessions) holdSession(session)
++  return labelToVerbs
++}
++
++export function planSaid(plan: ManagementPlan): readonly string[] {
++  const rows = venueRows(plan)
++  if (rows.size === 0) return [PLAN_HEADER, "  (no actions pending)"]
++  const lines: string[] = [PLAN_HEADER]
++  for (const [label, verbs] of rows) {
++    const parts: string[] = []
++    for (const [verb, count] of verbs) parts.push(`${verb} ${count}`)
++    if (parts.length === 0) continue
++    lines.push(`  ${label} — ${parts.join(", ")}`)
++  }
++  return lines
++}
++
++function classifiedFor(
++  db: InventoryDatabase,
++  toNodeIds: (item: ClassifiableItem) => readonly string[]
++): readonly ClassifiedInventoryItem[] {
++  const out: ClassifiedInventoryItem[] = []
++  for (const [locationKey, location] of Object.entries(db.locations)) {
++    for (const [bagIdSaid, slots] of Object.entries(location.bags)) {
++      for (const item of Object.values(slots)) {
++        out.push({
++          item,
++          locationKey,
++          locationDisplayName: location.displayName,
++          nodeIds: toNodeIds(item),
++          bagId: Number(bagIdSaid),
++        })
++      }
++    }
++  }
++  return out
++}
++
++export async function temperInventoryPlan(
++  argv: readonly string[] = [],
++  given?: Given
++): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
++  const root = given === undefined ? process.cwd() : resolve(given.root)
++  try {
++    const inputs = await planInputs()
++    const inventoryPath =
++      read.inventoryPath === null
++        ? inputs.DEFAULT_INVENTORY_PATH
++        : resolve(root, read.inventoryPath)
++    const charactersPath =
++      read.charactersPath === null
++        ? inputs.DEFAULT_CHARACTERS_PATH
++        : resolve(root, read.charactersPath)
++    let content: string
++    try {
++      content = await readFile(inventoryPath, "utf8")
++    } catch (thrown) {
++      return refused(`${INVENTORY_LUA} at ${inventoryPath} would not open — ${whyOf(thrown)}`, DATA)
++    }
++    const [parser, configModule, charactersModule, classifier] = await Promise.all([
++      inventoryParser(),
++      parseConfig(),
++      parseCharacters(),
++      classifyItem(),
++    ])
++    const db = parser.parseInventoryContent(content)
++    const config = configModule.parseTemperInventoryConfig(content)
++    const characters = await charactersModule.loadTemperCharactersFromPath(charactersPath)
++    const charactersById = new Map<string, CharacterKnowledge>(
++      characters.map((one) => [one.id, one])
++    )
++    const context = inputs.buildMatcherContext(config, charactersById, db)
++    const classifiedItems = classifiedFor(db, classifier.classifyItemToNodeIds)
++    const orderedRules: readonly CompiledOrderedRule[] = config.orderedRules.map((rule, at) => ({
++      ...rule,
++      id: config.rules[at]?.id ?? `rule#${at}`,
++    }))
++    const itemRules = [] as const
++    const [matcher, filter, builder] = await Promise.all([
++      ruleMatcher(),
++      capacityFilter(),
++      managementPlan(),
++    ])
++    const matched = matcher.computeAllRuleAffectedItems(
++      orderedRules,
++      classifiedItems,
++      context,
++      itemRules
++    )
++    const filtered = filter.applyDestinationCapacityFilter(
++      orderedRules,
++      itemRules,
++      matched.ruleMap,
++      db
++    )
++    const plan = builder.buildManagementPlan(orderedRules, itemRules, filtered, db, context)
++    if (read.json) {
++      return { report: JSON.stringify(plan, null, SPACES).split("\n"), refusals: [], code: 0 }
++    }
++    if (read.checklist) {
++      const said = (await planChecklist()).formatPlanChecklist(plan)
++      return { report: said.replace(/\n+$/, "").split("\n"), refusals: [], code: 0 }
++    }
++    return { report: [...planSaid(plan)], refusals: [], code: 0 }
++  } catch (thrown) {
++    return refused(whyOf(thrown), OPERATIONAL)
++  }
++}
+diff --git a/commands/pages/temper-inventory-plan/temper-inventory-plan.command.ts b/commands/pages/temper-inventory-plan/temper-inventory-plan.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9c078dc2a1cfa2f2b8ba1686fbb8ddfbb015e395
+--- /dev/null
++++ b/commands/pages/temper-inventory-plan/temper-inventory-plan.command.ts
+@@ -0,0 +1,52 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryPlan = {
++  id: "01a0603c-c1d6-7f83-b8aa-93c9e3917440",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-plan",
++  definition: "the command working out the management plan the addon would carry out",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    {
++      said: "--inventory-path <path>",
++      takes: "the saved-variables file the holdings are read from",
++    },
++    {
++      said: "--characters-path <path>",
++      takes: "the saved-variables file the characters are read from",
++    },
++    { said: "--json", takes: "give the whole plan as JSON rather than as text" },
++    {
++      said: "--checklist",
++      takes: "give the login and venue-stop checklist rather than the plan the addon shows",
++    },
++  ],
++  helpNotes: [
++    "the items every rule reaches are worked out first, then the capacity filter, then the plan.",
++    "the checklist is two levels deep: which characters to log in and which venues to stop at.",
++    "the checklist never names one item, because a stop is what a player acts on.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The items every rule reaches are worked out before the capacity filter.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The capacity filter runs before the plan is built.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The checklist names character logins and venue stops.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "The checklist names no single item.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "The holdings are read from a stored snapshot rather than from the workstation.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-replay-explain/temper-inventory-replay-explain.command.code.ts b/commands/pages/temper-inventory-replay-explain/temper-inventory-replay-explain.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..28b73a1a55472c74f4c1f2fed9595a0958a254ba
+--- /dev/null
++++ b/commands/pages/temper-inventory-replay-explain/temper-inventory-replay-explain.command.code.ts
+@@ -0,0 +1,172 @@
++import { resolve } from "node:path"
++import type { Answer, Given } from "@akasha/command-system/calling"
++import { refused } from "@akasha/command-system/calling"
++import { whyOf } from "@akasha/command-system/fault-saying"
++import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
++import {
++  formatExplainWalk,
++  type JsonOutput,
++  type RuleTraceRow,
++} from "@akasha/temper-explain/explain-walk"
++import { readLastExplain } from "../../../temper/temper-commands/explain-replay-reading/explain-replay-reading.module.code.ts"
++
++const INPUT = 1
++
++const OPERATIONAL = 3
++
++const INVENTORY_PATH = "--inventory-path"
++
++const ITEM_LINK = "--itemlink"
++
++const INVENTORY_LUA = "TemperInventory.lua"
++
++const NO_KEY = "none"
++
++type Rejection = {
++  readonly index: number
++  readonly categoryId: string
++  readonly action: string
++  readonly reason: string
++  readonly detail?: string
++}
++
++type MatchedWalk = {
++  readonly index: number
++  readonly categoryId: string
++  readonly action: string
++  readonly destination: string
++  readonly conditions: string
++}
++
++type ExplainTrace = {
++  readonly timestamp: number
++  readonly itemLink: string
++  readonly itemId: number
++  readonly itemName: string
++  readonly classification: { readonly ancestorChain: readonly string[] }
++  readonly itemKey: {
++    readonly kind: string
++    readonly detail: Readonly<Record<string, number | string | boolean>>
++  }
++  readonly orderedWalk: {
++    readonly matched?: MatchedWalk
++    readonly rejections: readonly Rejection[]
++  }
++  readonly outcome: {
++    readonly action: string
++    readonly destination: string
++    readonly summary: string
++  }
++}
++
++export type Read =
++  | { readonly inventoryPath: string | null; readonly itemLink: string | null }
++  | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  let inventoryPath: string | null = null
++  let itemLink: string | null = null
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (one === INVENTORY_PATH || one === ITEM_LINK) {
++      const value = argv[at + 1]
++      at += 1
++      if (value === undefined) {
++        refusals.push(`\`${one}\` takes a value, and none followed it`)
++        continue
++      }
++      if (one === INVENTORY_PATH) inventoryPath = value
++      else itemLink = value
++      continue
++    }
++    refusals.push(
++      `\`${one}\` is nothing this takes — it takes \`${INVENTORY_PATH}\` and \`${ITEM_LINK}\``
++    )
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { inventoryPath, itemLink }
++}
++
++function itemKeySaid(itemKey: ExplainTrace["itemKey"]): string | null {
++  if (itemKey.kind === NO_KEY) return null
++  const entries = Object.entries(itemKey.detail)
++  if (entries.length === 0) return itemKey.kind
++  return `${itemKey.kind}:${entries.map(([key, value]) => `${key}=${String(value)}`).join(",")}`
++}
++
++export function outputOf(trace: ExplainTrace): JsonOutput {
++  const perRule: RuleTraceRow[] = []
++  const matched = trace.orderedWalk.matched
++  if (matched !== undefined) {
++    perRule.push({
++      index: matched.index,
++      ruleId: null,
++      categoryId: matched.categoryId,
++      action: matched.action,
++      destination: matched.destination,
++      verdict: "matched",
++      verdictDetail: matched.conditions === "" ? null : matched.conditions,
++      resolvedDestination: trace.outcome.destination,
++    })
++  }
++  for (const one of trace.orderedWalk.rejections) {
++    perRule.push({
++      index: one.index,
++      ruleId: null,
++      categoryId: one.categoryId,
++      action: one.action,
++      destination: null,
++      verdict: "rejected",
++      verdictDetail: one.detail !== undefined ? `${one.reason} (${one.detail})` : one.reason,
++      resolvedDestination: null,
++    })
++  }
++  return {
++    itemId: trace.itemId,
++    itemName: trace.itemName,
++    itemLink: trace.itemLink,
++    categoryNodeIds: trace.classification.ancestorChain,
++    itemKey: itemKeySaid(trace.itemKey),
++    ttc: null,
++    perRule,
++    outcome: {
++      kind: matched !== undefined ? "matched" : "implicit-terminal",
++      action: trace.outcome.action,
++      destination: trace.outcome.destination,
++      label: trace.outcome.summary,
++      indeterminateRules: [],
++    },
++  }
++}
++
++export async function temperInventoryReplayExplain(
++  argv: readonly string[] = [],
++  given?: Given
++): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
++  const root = given === undefined ? process.cwd() : resolve(given.root)
++  const at =
++    read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
++  let trace: ExplainTrace
++  try {
++    trace = (await readLastExplain(at)) as ExplainTrace
++  } catch (thrown) {
++    return refused(whyOf(thrown), OPERATIONAL)
++  }
++  if (read.itemLink !== null && read.itemLink !== trace.itemLink) {
++    return refused(
++      `the stored trace is for item ${trace.itemId} (${trace.itemLink}), ` +
++        `and \`${ITEM_LINK} ${read.itemLink}\` names another`,
++      INPUT
++    )
++  }
++  const said = formatExplainWalk(outputOf(trace))
++  return {
++    report: [`[addon @ ${trace.timestamp}]`, ...said.replace(/\n+$/, "").split("\n")],
++    refusals: [],
++    code: 0,
++  }
++}
+diff --git a/commands/pages/temper-inventory-replay-explain/temper-inventory-replay-explain.command.ts b/commands/pages/temper-inventory-replay-explain/temper-inventory-replay-explain.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9b60f739150eef6382a2a519bb4835caffcd9c7c
+--- /dev/null
++++ b/commands/pages/temper-inventory-replay-explain/temper-inventory-replay-explain.command.ts
+@@ -0,0 +1,39 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryReplayExplain = {
++  id: "01a0603c-c1d6-752a-86f1-3c9eca4b7916",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-replay-explain",
++  definition: "the command giving back the addon's last stored explain trace",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "--inventory-path <path>", takes: "the saved-variables file the trace is read from" },
++    {
++      said: "--itemlink <link>",
++      takes: "give the trace back only where its item link is this one",
++    },
++  ],
++  helpNotes: [
++    "the trace is the one the addon stored, so nothing is evaluated again here.",
++    "naming an item link the stored trace does not carry refuses the call by naming what it does carry.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The trace given back is the trace the addon stored.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An item link the stored trace does not carry refuses the call.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The refusal names the item the stored trace carries.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here evaluates a rule.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-rule-delete/temper-inventory-rule-delete.command.code.ts b/commands/pages/temper-inventory-rule-delete/temper-inventory-rule-delete.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d48081d71b6e9cc78bb269662f0d5765196eee86
+--- /dev/null
++++ b/commands/pages/temper-inventory-rule-delete/temper-inventory-rule-delete.command.code.ts
+@@ -0,0 +1,20 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  droppedRule,
++  FORCE,
++  readIn,
++  refusedAll,
++  shapeOf,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-rule-delete"
++
++const SHAPE = shapeOf([FORCE], { alone: [FORCE], namesARule: true })
++
++export async function temperInventoryRuleDelete(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => droppedRule("category", id, read.said.has(FORCE)))
++}
+diff --git a/commands/pages/temper-inventory-rule-delete/temper-inventory-rule-delete.command.ts b/commands/pages/temper-inventory-rule-delete/temper-inventory-rule-delete.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2bd9a04ee99d5ba6f79b6a4a9922aeacde64f3b2
+--- /dev/null
++++ b/commands/pages/temper-inventory-rule-delete/temper-inventory-rule-delete.command.ts
+@@ -0,0 +1,28 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryRuleDelete = {
++  id: "01a0603c-c1d7-71ff-becd-5055afe65a24",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-rule-delete",
++  definition: "the command taking away a category rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "<id>", takes: "the id of the category rule taken away" },
++    { said: "--force", takes: "take it away even where it is locked" },
++  ],
++  helpNotes: [
++    "a locked category rule is refused rather than taken away, unless `--force` is said.",
++    "an id no category rule carries is refused by that id.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A locked category rule is refused unless the call says `--force`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An id no category rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-rule-duplicate/temper-inventory-rule-duplicate.command.code.ts b/commands/pages/temper-inventory-rule-duplicate/temper-inventory-rule-duplicate.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..000376be0076b0833f689c33ca82fcc58be50f0a
+--- /dev/null
++++ b/commands/pages/temper-inventory-rule-duplicate/temper-inventory-rule-duplicate.command.code.ts
+@@ -0,0 +1,19 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  copiedRule,
++  readIn,
++  refusedAll,
++  shapeOf,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-rule-duplicate"
++
++const SHAPE = shapeOf([], { namesARule: true })
++
++export async function temperInventoryRuleDuplicate(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => copiedRule("category", id))
++}
+diff --git a/commands/pages/temper-inventory-rule-duplicate/temper-inventory-rule-duplicate.command.ts b/commands/pages/temper-inventory-rule-duplicate/temper-inventory-rule-duplicate.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1ccf43e5bdcdb9c6a4b53d4a3deab9d6798ab5f5
+--- /dev/null
++++ b/commands/pages/temper-inventory-rule-duplicate/temper-inventory-rule-duplicate.command.ts
+@@ -0,0 +1,29 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryRuleDuplicate = {
++  id: "01a0603c-c1d7-79c4-89bc-1293587ca4fc",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-rule-duplicate",
++  definition: "the command copying a category rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [{ said: "<id>", takes: "the id of the category rule copied" }],
++  helpNotes: [
++    "the copy is unlocked and inactive whatever the original was.",
++    "an id no category rule carries is refused by that id.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The copy is unlocked.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The copy is inactive.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An id no category rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-rule-lock/temper-inventory-rule-lock.command.code.ts b/commands/pages/temper-inventory-rule-lock/temper-inventory-rule-lock.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..44b5e61a7c1e5df629a079d75b71bd8fe308e180
+--- /dev/null
++++ b/commands/pages/temper-inventory-rule-lock/temper-inventory-rule-lock.command.code.ts
+@@ -0,0 +1,19 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  lockedRule,
++  readIn,
++  refusedAll,
++  shapeOf,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-rule-lock"
++
++const SHAPE = shapeOf([], { namesARule: true })
++
++export async function temperInventoryRuleLock(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => lockedRule("category", id, true))
++}
+diff --git a/commands/pages/temper-inventory-rule-lock/temper-inventory-rule-lock.command.ts b/commands/pages/temper-inventory-rule-lock/temper-inventory-rule-lock.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5a09b42a3c762e50646b4fd944fe60b612a649d7
+--- /dev/null
++++ b/commands/pages/temper-inventory-rule-lock/temper-inventory-rule-lock.command.ts
+@@ -0,0 +1,24 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryRuleLock = {
++  id: "01a0603c-c1d7-740c-ba2b-29b12244bd79",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-rule-lock",
++  definition: "the command locking a category rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [{ said: "<id>", takes: "the id of the category rule locked" }],
++  helpNotes: [
++    "a locked rule is refused an update or a deletion until it is unlocked or the call forces it.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Locking a category rule already locked changes nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An id no category rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.code.ts b/commands/pages/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..39bd687404b54b75733765c5efa50111d1dcd3f5
+--- /dev/null
++++ b/commands/pages/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.code.ts
+@@ -0,0 +1,96 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  reorderCategoryRule,
++  resolveAnchorIndex,
++} from "@akasha/temper-items-rules-core/inventory-rule-settings"
++import {
++  answering,
++  DATA,
++  FORCE,
++  INPUT,
++  lockedOff,
++  named,
++  readIn,
++  refusedAll,
++  refusing,
++  settingsOf,
++  shapeOf,
++  toldOf,
++  unfound,
++  wholeOf,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-rule-reorder"
++
++const TO = "--to"
++
++const BEFORE = "--before"
++
++const AFTER = "--after"
++
++const WHERE = [TO, BEFORE, AFTER]
++
++const SHAPE = shapeOf([...WHERE, FORCE], { alone: [FORCE], whole: [TO], namesARule: true })
++
++async function moved(id: string, held: ReadonlyMap<string, string>): Promise<Answer> {
++  const given = WHERE.filter((one) => held.has(one))
++  if (given.length === 0) {
++    return refusing(`\`${CALLED_AS}\` takes one of ${named(WHERE)}, and it was given none`, INPUT)
++  }
++  if (given.length > 1) {
++    return refusing(
++      `\`${CALLED_AS}\` takes one of ${named(WHERE)}, and it was given ${named(given)}`,
++      INPUT
++    )
++  }
++  const force = held.has(FORCE)
++  const settingsAccess = await settingsOf()
++  const settings = await settingsAccess.read()
++  const rule = settings.rules.find((one) => one.id === id)
++  if (rule === undefined) return unfound("category", id)
++  if (rule.locked === true && !force) return lockedOff("category", id)
++
++  const to = wholeOf(held, TO)
++  let toIndex: number
++  if (to !== undefined) {
++    if (to > settings.rules.length) {
++      return refusing(
++        `\`${TO}\` names the index ${to} and the written rules run to ${settings.rules.length}`,
++        INPUT
++      )
++    }
++    toIndex = to
++  } else {
++    const before = held.get(BEFORE)
++    const flag = before !== undefined ? BEFORE : AFTER
++    const anchorId = before ?? held.get(AFTER) ?? ""
++    if (anchorId === id) {
++      return refusing(
++        `\`${flag}\` names the rule being moved, and a rule anchors to another`,
++        INPUT
++      )
++    }
++    const found = resolveAnchorIndex(
++      settings,
++      id,
++      anchorId,
++      before !== undefined ? "before" : "after"
++    )
++    if (found === undefined) {
++      return refusing(
++        `\`${flag}\` names \`${anchorId}\`, which is no written category rule — a controlled rule is derived rather than written and anchors nothing`,
++        DATA
++      )
++    }
++    toIndex = found
++  }
++  await settingsAccess.write(reorderCategoryRule(settings, id, toIndex))
++  return toldOf({ id, toIndex })
++}
++
++export async function temperInventoryRuleReorder(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => moved(id, read.said))
++}
+diff --git a/commands/pages/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.ts b/commands/pages/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a63bd9421915f44de06ff6644a4242a67cc3dcd8
+--- /dev/null
++++ b/commands/pages/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.ts
+@@ -0,0 +1,41 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryRuleReorder = {
++  id: "01a0603c-c1d8-70b7-a1e7-d602bcd411b0",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-rule-reorder",
++  definition: "the command moving a category rule to another place in the priority order",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "<id>", takes: "the id of the category rule moved" },
++    { said: "--to <index>", takes: "the position the rule moves to" },
++    { said: "--before <anchor-id>", takes: "the rule the moved rule comes before" },
++    { said: "--after <anchor-id>", takes: "the rule the moved rule comes after" },
++    { said: "--force", takes: "move it even where it is locked" },
++  ],
++  helpNotes: [
++    "one of `--to`, `--before` and `--after` is said, and naming two is refused.",
++    "the position is counted over the rules a person wrote rather than over the compiled order.",
++    "an anchor id no rule carries is refused by that id.",
++    "a locked rule is refused rather than moved, unless `--force` is said.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A call naming more than one way of placing the rule is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The position is counted over the rules a person wrote.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An anchor id no rule carries refuses the call.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A locked rule is refused unless the call says `--force`.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-rule-show/temper-inventory-rule-show.command.code.ts b/commands/pages/temper-inventory-rule-show/temper-inventory-rule-show.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e0059f2bb0ef81762af6e13ab098b55ce7071859
+--- /dev/null
++++ b/commands/pages/temper-inventory-rule-show/temper-inventory-rule-show.command.code.ts
+@@ -0,0 +1,21 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  JSON_FLAG,
++  readIn,
++  refusedAll,
++  shapeOf,
++  shownRule,
++  TSV,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-rule-show"
++
++const SHAPE = shapeOf([JSON_FLAG, TSV], { alone: [JSON_FLAG, TSV], namesARule: true })
++
++export async function temperInventoryRuleShow(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => shownRule("category", id, read.said))
++}
+diff --git a/commands/pages/temper-inventory-rule-show/temper-inventory-rule-show.command.ts b/commands/pages/temper-inventory-rule-show/temper-inventory-rule-show.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8b7f8aaa7f0411e72bfb4b64ea7cbd3f87e0e494
+--- /dev/null
++++ b/commands/pages/temper-inventory-rule-show/temper-inventory-rule-show.command.ts
+@@ -0,0 +1,29 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryRuleShow = {
++  id: "01a0603c-c1d8-7a9c-b7d3-8fab0e6c8abf",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-rule-show",
++  definition: "the command giving back one category rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "<id>", takes: "the id of the category rule given back" },
++    { said: "--json", takes: "give the rule as JSON" },
++    { said: "--tsv", takes: "give one tab-separated row rather than JSON" },
++  ],
++  helpNotes: [
++    "the rules a person wrote are looked in first, then the controlled rules worked out from settings.",
++    "a controlled rule is named as `controlled:` and what it was worked out from.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The rules a person wrote are looked in before the controlled ones.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An id no category rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.code.ts b/commands/pages/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..726d6496f7dfe55d8de29f3dadb80167ccff0f96
+--- /dev/null
++++ b/commands/pages/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.code.ts
+@@ -0,0 +1,19 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  answering,
++  lockedRule,
++  readIn,
++  refusedAll,
++  shapeOf,
++} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
++
++const CALLED_AS = "akasha temper-inventory-rule-unlock"
++
++const SHAPE = shapeOf([], { namesARule: true })
++
++export async function temperInventoryRuleUnlock(argv: readonly string[] = []): Promise<Answer> {
++  const read = readIn(argv, CALLED_AS, SHAPE)
++  if ("refused" in read) return refusedAll(read.refused)
++  const id = read.id ?? ""
++  return await answering(() => lockedRule("category", id, false))
++}
+diff --git a/commands/pages/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.ts b/commands/pages/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b53aae6aabe98522dc7ead87ec570185839b312a
+--- /dev/null
++++ b/commands/pages/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.ts
+@@ -0,0 +1,21 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryRuleUnlock = {
++  id: "01a0603c-c1d8-788c-b8ed-bed2e9c842df",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-rule-unlock",
++  definition: "the command unlocking a category rule named by its id",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [{ said: "<id>", takes: "the id of the category rule unlocked" }],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Unlocking a category rule already unlocked changes nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An id no category rule carries refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/temper-inventory-rules/temper-inventory-rules.command.code.ts b/commands/pages/temper-inventory-rules/temper-inventory-rules.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..738f183137ac90634b459e9cebd4a70191e47ab0
+--- /dev/null
++++ b/commands/pages/temper-inventory-rules/temper-inventory-rules.command.code.ts
+@@ -0,0 +1,189 @@
++import { resolve } from "node:path"
++import type { Answer, Given } from "@akasha/command-system/calling"
++import { refused } from "@akasha/command-system/calling"
++import { whyOf } from "@akasha/command-system/fault-saying"
++import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
++import { loadTemperInventoryConfigFromPath } from "../../../temper/temper-commands/inventory-config-reading/inventory-config-reading.module.code.ts"
++
++const INPUT = 1
++
++const OPERATIONAL = 3
++
++const INVENTORY_PATH = "--inventory-path"
++
++const SECTION = "--section"
++
++const JSON_FLAG = "--json"
++
++const INVENTORY_LUA = "TemperInventory.lua"
++
++const SECTIONS = ["rules", "consumables", "priority", "all"] as const
++
++const NAMED_KEYS = 3
++
++type Section = (typeof SECTIONS)[number]
++
++type CompiledRule = {
++  readonly id: string
++  readonly action: string
++  readonly destination?: string
++  readonly categoryId?: string
++  readonly [extra: string]: unknown
++}
++
++type CompiledInventoryConfig = {
++  readonly rules: ReadonlyArray<CompiledRule>
++  readonly wantedConsumables: Record<string, unknown>
++  readonly characterPriority: ReadonlyArray<string>
++}
++
++export type Read =
++  | {
++      readonly inventoryPath: string | null
++      readonly section: Section
++      readonly json: boolean
++    }
++  | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  let inventoryPath: string | null = null
++  let section: Section = "all"
++  let json = false
++  for (let at = 0; at < argv.length; at += 1) {
++    const one = argv[at]
++    if (one === undefined) continue
++    if (one === JSON_FLAG) {
++      json = true
++      continue
++    }
++    if (one === INVENTORY_PATH || one === SECTION) {
++      const value = argv[at + 1]
++      at += 1
++      if (value === undefined) {
++        refusals.push(`\`${one}\` takes a value, and none followed it`)
++        continue
++      }
++      if (one === INVENTORY_PATH) {
++        inventoryPath = value
++        continue
++      }
++      if (!SECTIONS.includes(value as Section)) {
++        refusals.push(
++          `\`${SECTION}\` takes \`${SECTIONS.join("`, `")}\`, and \`${value}\` is none of them`
++        )
++        continue
++      }
++      section = value as Section
++      continue
++    }
++    refusals.push(
++      `\`${one}\` is nothing this takes — it takes \`${INVENTORY_PATH}\`, ` +
++        `\`${SECTION}\` and \`${JSON_FLAG}\``
++    )
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { inventoryPath, section, json }
++}
++
++const RULE_IDENTITY = new Set(["id", "action", "destination", "categoryId"])
++
++function conditionCount(rule: CompiledRule): number {
++  let held = 0
++  for (const key of Object.keys(rule)) if (!RULE_IDENTITY.has(key)) held += 1
++  return held
++}
++
++function ruleShape(rule: CompiledRule): Record<string, unknown> {
++  return {
++    id: rule.id,
++    action: rule.action,
++    destination: rule.destination ?? "",
++    categoryId: rule.categoryId ?? "",
++    conditionCount: conditionCount(rule),
++  }
++}
++
++function consumableSaid(value: unknown): string {
++  if (Array.isArray(value)) return `[${value.length} char(s)]`
++  if (value !== null && typeof value === "object") {
++    const keys = Object.keys(value)
++    return `{${keys.length} field(s): ${keys.slice(0, NAMED_KEYS).join(", ")}}`
++  }
++  if (value === null) return "(null)"
++  return String(value)
++}
++
++export function rulesSaid(rules: ReadonlyArray<CompiledRule>): readonly string[] {
++  if (rules.length === 0) return ["(no compiled rules)"]
++  const lines: string[] = []
++  for (let at = 0; at < rules.length; at += 1) {
++    const rule = rules[at]
++    if (rule === undefined) continue
++    const shape = ruleShape(rule)
++    lines.push(
++      [at, shape.id, shape.action, shape.destination, shape.categoryId, shape.conditionCount].join(
++        "\t"
++      )
++    )
++  }
++  return lines
++}
++
++export function consumablesSaid(wanted: Record<string, unknown>): readonly string[] {
++  const keys = Object.keys(wanted)
++  if (keys.length === 0) return ["(no wanted consumables)"]
++  return keys.map((one) => `${one}\t${consumableSaid(wanted[one])}`)
++}
++
++export function prioritySaid(priority: ReadonlyArray<string>): readonly string[] {
++  return priority.length === 0 ? ["(no character priority)"] : [...priority]
++}
++
++function jsonShape(config: CompiledInventoryConfig, section: Section): Record<string, unknown> {
++  const rules = config.rules.map(ruleShape)
++  if (section === "rules") return { rules }
++  if (section === "consumables") return { wantedConsumables: config.wantedConsumables }
++  if (section === "priority") return { characterPriority: config.characterPriority }
++  return {
++    rules,
++    wantedConsumables: config.wantedConsumables,
++    characterPriority: config.characterPriority,
++  }
++}
++
++function textOf(config: CompiledInventoryConfig, section: Section): readonly string[] {
++  if (section === "rules") return rulesSaid(config.rules)
++  if (section === "consumables") return consumablesSaid(config.wantedConsumables)
++  if (section === "priority") return prioritySaid(config.characterPriority)
++  return [
++    `# rules (${config.rules.length})`,
++    ...rulesSaid(config.rules),
++    "",
++    `# consumables (${Object.keys(config.wantedConsumables).length})`,
++    ...consumablesSaid(config.wantedConsumables),
++    "",
++    `# priority (${config.characterPriority.length})`,
++    ...prioritySaid(config.characterPriority),
++  ]
++}
++
++export async function temperInventoryRules(
++  argv: readonly string[] = [],
++  given?: Given
++): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
++  const root = given === undefined ? process.cwd() : resolve(given.root)
++  const at =
++    read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
++  try {
++    const config = (await loadTemperInventoryConfigFromPath(at)) as CompiledInventoryConfig
++    if (read.json) {
++      return { report: [JSON.stringify(jsonShape(config, read.section))], refusals: [], code: 0 }
++    }
++    return { report: [...textOf(config, read.section)], refusals: [], code: 0 }
++  } catch (thrown) {
++    return refused(whyOf(thrown), OPERATIONAL)
++  }
++}
+diff --git a/commands/pages/temper-inventory-rules/temper-inventory-rules.command.ts b/commands/pages/temper-inventory-rules/temper-inventory-rules.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..069544a30f4e6ffe89743de94ed6eb9fd911ec18
+--- /dev/null
++++ b/commands/pages/temper-inventory-rules/temper-inventory-rules.command.ts
+@@ -0,0 +1,38 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const temperInventoryRules = {
++  id: "01a0603c-c1d9-7bdc-8aab-dcc717f3de9b",
++  pageTypeSlug: "command",
++  slug: "temper-inventory-rules",
++  definition: "the command giving back the compiled rule configuration the addon carries",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    {
++      said: "--inventory-path <path>",
++      takes: "the saved-variables file the configuration is read from",
++    },
++    {
++      said: "--section <section>",
++      takes: "which section is given back: rules, consumables, priority or all",
++    },
++    { said: "--json", takes: "give the section as JSON rather than as tab-separated rows" },
++  ],
++  helpNotes: [
++    "the configuration read is what the addon compiled rather than what the rules were written as.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The configuration read is the compiled configuration.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Naming no section gives back every section.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A section the configuration does not hold refuses the call.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-automation-set/temper-inventory-automation-set.command.code.ts b/temper/temper-commands/temper-inventory-automation-set/temper-inventory-automation-set.command.code.ts
+deleted file mode 100644
+index a9a20d5a8b01bdcb807a285067144f2360e4390c..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-automation-set/temper-inventory-automation-set.command.code.ts
++++ /dev/null
+@@ -1,133 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import { refused } from "@akasha/command-system/calling"
+-import { whyOf } from "@akasha/command-system/fault-saying"
+-import {
+-  type AutomationScope,
+-  applyToggle,
+-  parseScope,
+-  parseValue,
+-  type ToggleValue,
+-} from "@akasha/temper-inventory-automation/automation-toggle-change"
+-import {
+-  type AutomationSettings,
+-  inventorySettings,
+-} from "../inventory-settings-handle/inventory-settings-handle.module.code.ts"
+-
+-const INPUT = 1
+-
+-const OPERATIONAL = 3
+-
+-const SCOPE = "--scope"
+-
+-const TOGGLE = "--toggle"
+-
+-const VALUE = "--value"
+-
+-const TARGET = "--target"
+-
+-const SPACES = 2
+-
+-const TAKING_A_VALUE = [SCOPE, TOGGLE, VALUE, TARGET]
+-
+-const NEEDED = [SCOPE, TOGGLE, VALUE]
+-
+-export type Read =
+-  | {
+-      readonly scope: string
+-      readonly toggle: string
+-      readonly value: string
+-      readonly target: string | null
+-    }
+-  | { readonly refused: readonly string[] }
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const refusals: string[] = []
+-  const held = new Map<string, string>()
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (!TAKING_A_VALUE.includes(one)) {
+-      refusals.push(
+-        `\`${one}\` is nothing this takes — it takes \`${SCOPE}\`, \`${TOGGLE}\`, ` +
+-          `\`${VALUE}\` and \`${TARGET}\``
+-      )
+-      continue
+-    }
+-    const value = argv[at + 1]
+-    at += 1
+-    if (value === undefined) {
+-      refusals.push(`\`${one}\` takes a value, and none followed it`)
+-      continue
+-    }
+-    held.set(one, value)
+-  }
+-  for (const flag of NEEDED) {
+-    if (!held.has(flag)) {
+-      refusals.push(`\`${flag}\` names part of what is set, and nothing said it`)
+-    }
+-  }
+-  if (refusals.length > 0) return { refused: refusals }
+-  return {
+-    scope: held.get(SCOPE) as string,
+-    toggle: held.get(TOGGLE) as string,
+-    value: held.get(VALUE) as string,
+-    target: held.get(TARGET) ?? null,
+-  }
+-}
+-
+-export function scopeSaid(scope: AutomationScope): string {
+-  if (scope.kind === "global") return `global.${scope.target}`
+-  if (scope.kind === "character") return `character:${scope.esoCharId}`
+-  return `companion:${scope.companionId}`
+-}
+-
+-type Asked =
+-  | { readonly scope: AutomationScope; readonly value: ToggleValue }
+-  | { readonly why: string }
+-
+-function askedIn(read: Exclude<Read, { refused: readonly string[] }>): Asked {
+-  try {
+-    return {
+-      scope: parseScope(read.scope, read.toggle, read.target ?? undefined),
+-      value: parseValue(read.value),
+-    }
+-  } catch (thrown) {
+-    return { why: whyOf(thrown) }
+-  }
+-}
+-
+-export async function temperInventoryAutomationSet(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+-
+-  const asked = askedIn(read)
+-  if ("why" in asked) return refused(asked.why, INPUT)
+-
+-  const access = await inventorySettings()
+-
+-  let settings: AutomationSettings
+-  try {
+-    settings = await access.readAutomation()
+-  } catch (thrown) {
+-    return refused(`the automation settings went unread — ${whyOf(thrown)}`, OPERATIONAL)
+-  }
+-
+-  let next: AutomationSettings
+-  try {
+-    next = applyToggle(settings, asked.scope, read.toggle, asked.value)
+-  } catch (thrown) {
+-    return refused(whyOf(thrown), INPUT)
+-  }
+-
+-  try {
+-    await access.writeAutomation(next)
+-  } catch (thrown) {
+-    return refused(
+-      `the automation settings were not written, so no toggle changed — ${whyOf(thrown)}`,
+-      OPERATIONAL
+-    )
+-  }
+-
+-  const said = { scope: scopeSaid(asked.scope), toggle: read.toggle, value: asked.value }
+-  return { report: JSON.stringify(said, null, SPACES).split("\n"), refusals: [], code: 0 }
+-}
+diff --git a/temper/temper-commands/temper-inventory-automation-set/temper-inventory-automation-set.command.ts b/temper/temper-commands/temper-inventory-automation-set/temper-inventory-automation-set.command.ts
+deleted file mode 100644
+index e0a7b0a166d4758360c2a39e078554d5f26016c1..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-automation-set/temper-inventory-automation-set.command.ts
++++ /dev/null
+@@ -1,48 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryAutomationSet = {
+-  id: "01a0603c-c1ce-7042-a37c-880bfd4380f9",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-automation-set",
+-  definition: "the command setting or clearing one automation toggle",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    {
+-      said: "--scope <scope>",
+-      takes: "the scope set: everything, one character, or one companion",
+-    },
+-    { said: "--toggle <name>", takes: "the toggle set" },
+-    {
+-      said: "--value <true|false|null>",
+-      takes: "what the toggle becomes, where `null` takes the entry away",
+-    },
+-    {
+-      said: "--target <characters|companions>",
+-      takes: "which interface a toggle carried by both is set on",
+-    },
+-  ],
+-  helpNotes: [
+-    "a scope is `global`, `character:<id>` or `companion:<id>`.",
+-    "`--target` is needed only where the scope is global and the toggle is carried by both interfaces.",
+-    "saying `null` takes the entry away rather than setting it false.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "One call sets one toggle.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A null value takes the entry away.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A global toggle carried by both interfaces needs a target.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A toggle no interface carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-automation-show/temper-inventory-automation-show.command.code.ts b/temper/temper-commands/temper-inventory-automation-show/temper-inventory-automation-show.command.code.ts
+deleted file mode 100644
+index 2d05a24d7d97055a488a4b6112d5aae1976c3349..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-automation-show/temper-inventory-automation-show.command.code.ts
++++ /dev/null
+@@ -1,88 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import { refused } from "@akasha/command-system/calling"
+-import { whyOf } from "@akasha/command-system/fault-saying"
+-import {
+-  type AutomationSettings,
+-  inventorySettings,
+-  type Toggles,
+-} from "../inventory-settings-handle/inventory-settings-handle.module.code.ts"
+-
+-const INPUT = 1
+-
+-const OPERATIONAL = 3
+-
+-const JSON_FLAG = "--json"
+-
+-const SPACES = 2
+-
+-const HEADING = "scope\ttoggle\tvalue"
+-
+-const GLOBAL_CHARACTERS = "global.characters"
+-
+-const GLOBAL_COMPANIONS = "global.companions"
+-
+-type Row = { readonly scope: string; readonly toggle: string; readonly value: boolean }
+-
+-export type Read = { readonly json: boolean } | { readonly refused: readonly string[] }
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const refusals: string[] = []
+-  let json = false
+-  for (const one of argv) {
+-    if (one === JSON_FLAG) {
+-      json = true
+-      continue
+-    }
+-    refusals.push(`\`${one}\` is nothing this takes — it takes \`${JSON_FLAG}\``)
+-  }
+-  if (refusals.length > 0) return { refused: refusals }
+-  return { json }
+-}
+-
+-function rowsFor(scope: string, toggles: Toggles | undefined): readonly Row[] {
+-  if (toggles === undefined) return []
+-  const found: Row[] = []
+-  for (const [toggle, value] of Object.entries(toggles)) {
+-    if (typeof value !== "boolean") continue
+-    found.push({ scope, toggle, value })
+-  }
+-  return found
+-}
+-
+-export function rowsOf(settings: AutomationSettings): readonly Row[] {
+-  return [
+-    ...rowsFor(GLOBAL_CHARACTERS, settings.global?.characters),
+-    ...rowsFor(GLOBAL_COMPANIONS, settings.global?.companions),
+-    ...Object.entries(settings.characters).flatMap(([esoCharId, toggles]) =>
+-      rowsFor(`character:${esoCharId}`, toggles)
+-    ),
+-    ...Object.entries(settings.companions).flatMap(([companionId, toggles]) =>
+-      rowsFor(`companion:${companionId}`, toggles)
+-    ),
+-  ]
+-}
+-
+-export async function temperInventoryAutomationShow(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+-
+-  let settings: AutomationSettings
+-  try {
+-    settings = await (await inventorySettings()).readAutomation()
+-  } catch (thrown) {
+-    return refused(`the automation settings went unread — ${whyOf(thrown)}`, OPERATIONAL)
+-  }
+-
+-  if (read.json) {
+-    return { report: JSON.stringify(settings, null, SPACES).split("\n"), refusals: [], code: 0 }
+-  }
+-
+-  return {
+-    report: [
+-      HEADING,
+-      ...rowsOf(settings).map((one) => `${one.scope}\t${one.toggle}\t${one.value}`),
+-    ],
+-    refusals: [],
+-    code: 0,
+-  }
+-}
+diff --git a/temper/temper-commands/temper-inventory-automation-show/temper-inventory-automation-show.command.ts b/temper/temper-commands/temper-inventory-automation-show/temper-inventory-automation-show.command.ts
+deleted file mode 100644
+index 9e3487b2d12b3943e654559de4692cf18e86c4d1..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-automation-show/temper-inventory-automation-show.command.ts
++++ /dev/null
+@@ -1,24 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryAutomationShow = {
+-  id: "01a0603c-c1ce-749d-a434-9035b90e6e37",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-automation-show",
+-  definition: "the command giving back the automation toggles as they are set",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "--json", takes: "give the whole shape as JSON rather than as tab-separated rows" },
+-  ],
+-  helpNotes: ["every scope is reported: the global one, each character and each companion."],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Every scope is reported.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here changes a toggle.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-capacity-audit/temper-inventory-capacity-audit.command.code.ts b/temper/temper-commands/temper-inventory-capacity-audit/temper-inventory-capacity-audit.command.code.ts
+deleted file mode 100644
+index 108d417cdffa6ac38635bc2a2487e2333cd28aa2..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-capacity-audit/temper-inventory-capacity-audit.command.code.ts
++++ /dev/null
+@@ -1,129 +0,0 @@
+-import { resolve } from "node:path"
+-import type { Answer, Given } from "@akasha/command-system/calling"
+-import { refused } from "@akasha/command-system/calling"
+-import { whyOf } from "@akasha/command-system/fault-saying"
+-import {
+-  type CapacityAudit,
+-  capacityFilter,
+-  planInputs,
+-  ruleMatcher,
+-} from "../inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+-
+-const INPUT = 1
+-
+-const OPERATIONAL = 3
+-
+-const INVENTORY_PATH = "--inventory-path"
+-
+-const CHARACTERS_PATH = "--characters-path"
+-
+-const JSON_FLAG = "--json"
+-
+-const SPACES = 2
+-
+-const AUDIT_HEADER = "[TemperInventory] Capacity audit:"
+-
+-export type Read =
+-  | {
+-      readonly inventoryPath: string | null
+-      readonly charactersPath: string | null
+-      readonly json: boolean
+-    }
+-  | { readonly refused: readonly string[] }
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const refusals: string[] = []
+-  let inventoryPath: string | null = null
+-  let charactersPath: string | null = null
+-  let json = false
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (one === JSON_FLAG) {
+-      json = true
+-      continue
+-    }
+-    if (one === INVENTORY_PATH || one === CHARACTERS_PATH) {
+-      const value = argv[at + 1]
+-      at += 1
+-      if (value === undefined) {
+-        refusals.push(`\`${one}\` takes a value, and none followed it`)
+-        continue
+-      }
+-      if (one === INVENTORY_PATH) inventoryPath = value
+-      else charactersPath = value
+-      continue
+-    }
+-    refusals.push(
+-      `\`${one}\` is nothing this takes — it takes \`${INVENTORY_PATH}\`, ` +
+-        `\`${CHARACTERS_PATH}\` and \`${JSON_FLAG}\``
+-    )
+-  }
+-  if (refusals.length > 0) return { refused: refusals }
+-  return { inventoryPath, charactersPath, json }
+-}
+-
+-export function auditSaid(audit: CapacityAudit): readonly string[] {
+-  if (audit.entries.length === 0) {
+-    return [AUDIT_HEADER, "  No capacity overflow — every destination fits."]
+-  }
+-  const lines: string[] = [AUDIT_HEADER]
+-  for (const entry of audit.entries) {
+-    lines.push(
+-      `  ${entry.destinationName} — needed ${entry.neededSlots} slots, ${entry.freeSlots} free, ` +
+-        `dropped ${entry.droppedStacks} (${entry.droppedUnits} items)`
+-    )
+-    for (const rule of entry.rules) {
+-      const label = rule.ruleTitle ?? rule.ruleId
+-      const items = rule.items.map((one) => `${one.itemName} ×${one.units}`).join(", ")
+-      lines.push(`    ${label} (${rule.action}): ${items}`)
+-    }
+-  }
+-  return lines
+-}
+-
+-export async function temperInventoryCapacityAudit(
+-  argv: readonly string[] = [],
+-  given?: Given
+-): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+-  const root = given === undefined ? process.cwd() : resolve(given.root)
+-  try {
+-    const inputs = await planInputs()
+-    const inventoryPath =
+-      read.inventoryPath === null
+-        ? inputs.DEFAULT_INVENTORY_PATH
+-        : resolve(root, read.inventoryPath)
+-    const charactersPath =
+-      read.charactersPath === null
+-        ? inputs.DEFAULT_CHARACTERS_PATH
+-        : resolve(root, read.charactersPath)
+-    const { db, orderedRules, itemRules, context, classifiedItems } =
+-      await inputs.loadInventoryPlanInputs(inventoryPath, charactersPath)
+-    const matcher = await ruleMatcher()
+-    const matched = matcher.computeAllRuleAffectedItems(
+-      orderedRules,
+-      classifiedItems,
+-      context,
+-      itemRules
+-    )
+-    const filter = await capacityFilter()
+-    const { audit } = filter.applyDestinationCapacityFilterWithAudit(
+-      orderedRules,
+-      itemRules,
+-      matched.ruleMap,
+-      db
+-    )
+-    if (read.json) {
+-      return {
+-        report: JSON.stringify(audit, null, SPACES).split("\n"),
+-        refusals: [],
+-        code: 0,
+-      }
+-    }
+-    return { report: [...auditSaid(audit)], refusals: [], code: 0 }
+-  } catch (thrown) {
+-    return refused(whyOf(thrown), OPERATIONAL)
+-  }
+-}
+diff --git a/temper/temper-commands/temper-inventory-capacity-audit/temper-inventory-capacity-audit.command.ts b/temper/temper-commands/temper-inventory-capacity-audit/temper-inventory-capacity-audit.command.ts
+deleted file mode 100644
+index 37c2fba759777fbc3ffd7c9581212fc641812bc8..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-capacity-audit/temper-inventory-capacity-audit.command.ts
++++ /dev/null
+@@ -1,40 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryCapacityAudit = {
+-  id: "01a0603c-c1d1-78cf-9174-01514c3d023a",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-capacity-audit",
+-  definition: "the command naming the destinations whose storage the rules would overflow",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    {
+-      said: "--inventory-path <path>",
+-      takes: "the saved-variables file the holdings are read from",
+-    },
+-    {
+-      said: "--characters-path <path>",
+-      takes: "the saved-variables file the characters are read from",
+-    },
+-    { said: "--json", takes: "give the whole audit as JSON rather than as text" },
+-  ],
+-  helpNotes: [
+-    "each overflowing destination carries the slots needed against the slots free.",
+-    "the rules and the items the capacity filter dropped are named beside it.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A destination is reported only where the slots needed run past the slots free.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "An overflowing destination names the rules and items the capacity filter dropped.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A run finding no overflow reports nothing.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-parity/temper-inventory-parity.command.code.ts b/temper/temper-commands/temper-inventory-parity/temper-inventory-parity.command.code.ts
+deleted file mode 100644
+index db96dd56c4c836326f1bebc78876b0185a7007eb..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-parity/temper-inventory-parity.command.code.ts
++++ /dev/null
+@@ -1,382 +0,0 @@
+-import { readFile } from "node:fs/promises"
+-import { resolve } from "node:path"
+-import type { Answer, Given } from "@akasha/command-system/calling"
+-import { refused } from "@akasha/command-system/calling"
+-import { whyOf } from "@akasha/command-system/fault-saying"
+-import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
+-import { assertNever } from "@akasha/utils-narrow/assert-never"
+-import {
+-  allBagItems,
+-  type CharacterKnowledge,
+-  type CompiledOrderedRule,
+-  explainCapabilities,
+-  type ItemFacts,
+-  type RuleEvalResult,
+-  resolveItemFromInventory,
+-  type WalkTrace,
+-} from "../inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
+-import {
+-  type MatchedRoute,
+-  type ParityAddonTrace,
+-  parityAddonTrace,
+-  parityRouting,
+-} from "../inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts"
+-
+-const INPUT = 1
+-
+-const DATA = 2
+-
+-const OPERATIONAL = 3
+-
+-const CHAR = "--char"
+-
+-const INVENTORY_PATH = "--inventory-path"
+-
+-const CHARACTERS_PATH = "--characters-path"
+-
+-const INVENTORY_LUA = "TemperInventory.lua"
+-
+-const CHARACTERS_LUA = "TemperCharacters.lua"
+-
+-const TAKING_A_VALUE = [CHAR, INVENTORY_PATH, CHARACTERS_PATH]
+-
+-const ABSENT = "(absent)"
+-
+-const NO_DIVERGENCE = "  (no divergence)"
+-
+-const NOT_EVALUATED = "skip(not-evaluated)"
+-
+-const UNKNOWN_CATEGORY = "(unknown)"
+-
+-type DiffRow = { readonly field: string; readonly web: string; readonly addon: string }
+-
+-type WalkDiffRow = {
+-  readonly index: number
+-  readonly categoryId: string
+-  readonly web: string
+-  readonly addon: string
+-}
+-
+-type AddonVerdict =
+-  | { readonly kind: "matched"; readonly action: string }
+-  | { readonly kind: "rejected"; readonly reason: string; readonly detail?: string }
+-  | { readonly kind: "skipped" }
+-
+-export type Read =
+-  | {
+-      readonly itemId: number
+-      readonly charId: string
+-      readonly inventoryPath: string | null
+-      readonly charactersPath: string | null
+-    }
+-  | { readonly refused: readonly string[] }
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const refusals: string[] = []
+-  const held = new Map<string, string>()
+-  let named: string | null = null
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (TAKING_A_VALUE.includes(one)) {
+-      const value = argv[at + 1]
+-      at += 1
+-      if (value === undefined) {
+-        refusals.push(`\`${one}\` takes a value, and none followed it`)
+-        continue
+-      }
+-      held.set(one, value)
+-      continue
+-    }
+-    if (one.startsWith("--")) {
+-      refusals.push(
+-        `\`${one}\` is no flag this takes — it takes \`${CHAR}\`, ` +
+-          `\`${INVENTORY_PATH}\` and \`${CHARACTERS_PATH}\``
+-      )
+-      continue
+-    }
+-    if (named !== null) {
+-      refusals.push(`\`${one}\` follows the item already named, and one call compares one item`)
+-      continue
+-    }
+-    named = one
+-  }
+-  if (named === null) refusals.push("this names no item — it takes a bare item id")
+-  else if (!/^\d+$/.test(named)) {
+-    refusals.push(`\`${named}\` is no whole item id, and a stored trace is reached by id`)
+-  }
+-  const charId = held.get(CHAR)
+-  if (charId === undefined) {
+-    refusals.push(
+-      `\`${CHAR}\` names the character the stored trace was captured from, and nothing said it`
+-    )
+-  }
+-  if (refusals.length > 0 || named === null || charId === undefined) return { refused: refusals }
+-  return {
+-    itemId: Number(named),
+-    charId,
+-    inventoryPath: held.get(INVENTORY_PATH) ?? null,
+-    charactersPath: held.get(CHARACTERS_PATH) ?? null,
+-  }
+-}
+-
+-function numSaid(value: number | undefined): string {
+-  return value === undefined ? ABSENT : String(value)
+-}
+-
+-function numbersAgree(web: number | undefined, addon: number | undefined): boolean {
+-  return (web ?? 0) === (addon ?? 0)
+-}
+-
+-export function inputsDiff(trace: ParityAddonTrace, facts: ItemFacts): readonly DiffRow[] {
+-  const addon = trace.signals
+-  const checks: readonly {
+-    readonly field: string
+-    readonly web: number | undefined
+-    readonly addon: number | undefined
+-  }[] = [
+-    { field: "itemType", web: facts.itemType, addon: addon.itemType },
+-    {
+-      field: "specializedItemType",
+-      web: facts.specializedItemType,
+-      addon: addon.specializedItemType,
+-    },
+-    { field: "filterType", web: facts.filterType, addon: addon.filterType },
+-    { field: "traitType", web: facts.traitType, addon: addon.traitType },
+-    { field: "equipType", web: facts.equipType, addon: addon.equipType },
+-    { field: "armorType", web: facts.armorType, addon: addon.armorType },
+-    { field: "weaponType", web: facts.weaponType, addon: addon.weaponType },
+-    { field: "quality", web: facts.quality, addon: addon.quality },
+-  ]
+-  const rows: DiffRow[] = []
+-  for (const check of checks) {
+-    if (numbersAgree(check.web, check.addon)) continue
+-    rows.push({ field: check.field, web: numSaid(check.web), addon: numSaid(check.addon) })
+-  }
+-  const chain = facts.categoryNodeIds ?? []
+-  const leaf = chain.length === 0 ? undefined : chain[chain.length - 1]
+-  if (leaf !== trace.classification.leafCategoryId) {
+-    rows.push({
+-      field: "leafCategoryId",
+-      web: leaf ?? ABSENT,
+-      addon: trace.classification.leafCategoryId,
+-    })
+-  }
+-  return rows
+-}
+-
+-function addonVerdictSaid(one: AddonVerdict): string {
+-  if (one.kind === "matched") return `match(${one.action})`
+-  if (one.kind === "rejected") {
+-    return one.detail === undefined ? `skip(${one.reason})` : `skip(${one.reason}:${one.detail})`
+-  }
+-  return NOT_EVALUATED
+-}
+-
+-function webVerdictSaid(one: RuleEvalResult): string {
+-  const verdict = one.verdict
+-  if (verdict.kind === "matched") return `match(${one.action})`
+-  if (verdict.kind === "indeterminate") return `indeterminate(${verdict.reason.kind})`
+-  switch (verdict.reason.kind) {
+-    case "category-mismatch":
+-      return "skip(category-mismatch)"
+-    case "condition-fail":
+-      return `skip(condition-fail:${verdict.reason.conditionKind})`
+-    case "container-skip":
+-      return "skip(container-skip)"
+-    case "destination-resolve-fail":
+-      return "skip(destination-resolve-fail)"
+-    default:
+-      return assertNever(verdict.reason as never)
+-  }
+-}
+-
+-function verdictsDiffer(web: RuleEvalResult, addon: AddonVerdict): boolean {
+-  const webKind = web.verdict.kind
+-  const bothPassOver =
+-    addon.kind === "skipped" &&
+-    webKind === "rejected" &&
+-    web.verdict.reason.kind === "category-mismatch"
+-  if (bothPassOver) return false
+-  return webKind !== addon.kind
+-}
+-
+-function addonByIndexIn(trace: ParityAddonTrace): ReadonlyMap<number, AddonVerdict> {
+-  const found = new Map<number, AddonVerdict>()
+-  const matched = trace.orderedWalk.matched
+-  if (matched !== undefined) found.set(matched.index, { kind: "matched", action: matched.action })
+-  for (const one of trace.orderedWalk.rejections) {
+-    found.set(one.index, { kind: "rejected", reason: one.reason, detail: one.detail })
+-  }
+-  return found
+-}
+-
+-export function walkDiff(
+-  trace: ParityAddonTrace,
+-  webTrace: WalkTrace,
+-  rules: readonly CompiledOrderedRule[]
+-): readonly WalkDiffRow[] {
+-  const addonByIndex = addonByIndexIn(trace)
+-  const webByIndex = new Map<number, RuleEvalResult>()
+-  let webMatchedIndex: number | undefined
+-  for (const one of webTrace.perRule) {
+-    webByIndex.set(one.index, one)
+-    if (one.verdict.kind === "matched" && webMatchedIndex === undefined) webMatchedIndex = one.index
+-  }
+-  const stops: number[] = []
+-  const addonMatchedIndex = trace.orderedWalk.matched?.index
+-  if (addonMatchedIndex !== undefined) stops.push(addonMatchedIndex)
+-  if (webMatchedIndex !== undefined) stops.push(webMatchedIndex)
+-  const cap = stops.length === 0 ? Number.POSITIVE_INFINITY : Math.min(...stops)
+-
+-  const rows: WalkDiffRow[] = []
+-  const indices = [...new Set([...addonByIndex.keys(), ...webByIndex.keys()])]
+-    .filter((one) => one <= cap)
+-    .sort((a, b) => a - b)
+-  for (const index of indices) {
+-    const addon: AddonVerdict = addonByIndex.get(index) ?? { kind: "skipped" }
+-    const web = webByIndex.get(index)
+-    if (web === undefined) {
+-      if (addon.kind === "skipped") continue
+-      rows.push({
+-        index,
+-        categoryId: rules[index]?.categoryId ?? UNKNOWN_CATEGORY,
+-        web: NOT_EVALUATED,
+-        addon: addonVerdictSaid(addon),
+-      })
+-      continue
+-    }
+-    if (!verdictsDiffer(web, addon)) continue
+-    rows.push({
+-      index,
+-      categoryId: web.categoryId,
+-      web: webVerdictSaid(web),
+-      addon: addonVerdictSaid(addon),
+-    })
+-  }
+-  return rows
+-}
+-
+-export function inputsSaid(rows: readonly DiffRow[]): readonly string[] {
+-  if (rows.length === 0) return ["INPUTS DIFF", NO_DIVERGENCE]
+-  return ["INPUTS DIFF", ...rows.map((one) => `  ${one.field}  web=${one.web}  addon=${one.addon}`)]
+-}
+-
+-export function walkSaid(rows: readonly WalkDiffRow[]): readonly string[] {
+-  if (rows.length === 0) return ["WALK DIFF", NO_DIVERGENCE]
+-  return [
+-    "WALK DIFF",
+-    ...rows.map(
+-      (one) => `  rule ${String(one.index)} "${one.categoryId}"   web=${one.web} addon=${one.addon}`
+-    ),
+-  ]
+-}
+-
+-export async function temperInventoryParity(
+-  argv: readonly string[] = [],
+-  given?: Given
+-): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+-
+-  const root = given === undefined ? process.cwd() : resolve(given.root)
+-  const inventoryPath =
+-    read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
+-  const charactersPath =
+-    read.charactersPath === null
+-      ? savedVarsFile(CHARACTERS_LUA)
+-      : resolve(root, read.charactersPath)
+-
+-  let content: string
+-  try {
+-    content = await readFile(inventoryPath, "utf8")
+-  } catch (thrown) {
+-    return refused(`${INVENTORY_LUA} at ${inventoryPath} would not open — ${whyOf(thrown)}`, DATA)
+-  }
+-
+-  const [caps, addonTraces, routing] = await Promise.all([
+-    explainCapabilities(),
+-    parityAddonTrace(),
+-    parityRouting(),
+-  ])
+-
+-  let trace: ParityAddonTrace
+-  try {
+-    trace = addonTraces.loadParityAddonTraceFromContent(content, read.itemId)
+-  } catch (thrown) {
+-    return refused(
+-      `${inventoryPath} holds no stored trace for item ${String(read.itemId)} — ${whyOf(thrown)}`,
+-      DATA
+-    )
+-  }
+-
+-  const db = caps.parseInventoryContent(content)
+-  const resolved = resolveItemFromInventory(caps, db, read.itemId)
+-  if (resolved === undefined) {
+-    return refused(
+-      `item ${String(read.itemId)} is in the stored trace and in no bag scan of ` +
+-        `${inventoryPath}, so there is nothing fresh to compare it against`,
+-      DATA
+-    )
+-  }
+-
+-  let webWalk: WalkTrace
+-  let facts: ItemFacts
+-  try {
+-    const { item, location } = resolved
+-    const config = await caps.loadTemperInventoryConfigFromPath(inventoryPath)
+-    const characters = await caps.loadTemperCharactersFromPath(charactersPath)
+-    const charactersById = new Map<string, CharacterKnowledge>(
+-      characters.map((one) => [one.id, one])
+-    )
+-    const env = caps.buildCliEvalEnv({
+-      charactersById,
+-      characterPriority: config.characterPriority,
+-      wantedConsumables: config.wantedConsumables,
+-    })
+-    facts = caps.cliItemFactsFromInventoryItem(item, caps.classifyItemToNodeIds(item), location)
+-    const stockGroupByRuleId = caps.computeStockGroups(
+-      config.orderedRules,
+-      allBagItems(caps, db),
+-      ({ item: stockItem, location: stockLocation }) =>
+-        caps.cliItemFactsFromInventoryItem(
+-          stockItem,
+-          caps.classifyItemToNodeIds(stockItem),
+-          stockLocation
+-        ),
+-      env
+-    )
+-    webWalk = caps.walkRules(config.orderedRules, facts, { env, stockGroupByRuleId })
+-    const inputRows = inputsDiff(trace, facts)
+-    const walkRows = walkDiff(trace, webWalk, config.orderedRules)
+-    const webMatch: MatchedRoute | undefined =
+-      webWalk.outcome.kind === "matched"
+-        ? routing.matchedRouteFrom(webWalk.outcome.action, webWalk.outcome.destination)
+-        : undefined
+-    const addonMatched = trace.orderedWalk.matched
+-    const addonMatch: MatchedRoute | undefined =
+-      addonMatched === undefined
+-        ? undefined
+-        : routing.matchedRouteFrom(addonMatched.action, addonMatched.destination)
+-    const routingDiff = routing.computeRoutingDiff(read.charId, item, webMatch, addonMatch)
+-    const report = [
+-      ...inputsSaid(inputRows),
+-      "",
+-      ...walkSaid(walkRows),
+-      "",
+-      ...routing.renderRoutingSection(routingDiff).replace(/\n+$/, "").split("\n"),
+-    ]
+-    const diverged = inputRows.length > 0 || walkRows.length > 0 || routingDiff.mismatch
+-    if (!diverged) return { report, refusals: [], code: 0 }
+-    return {
+-      report,
+-      refusals: [
+-        `the addon's stored trace for item ${String(read.itemId)} and a fresh evaluation ` +
+-          "do not agree, and the rows above name where",
+-      ],
+-      code: DATA,
+-    }
+-  } catch (thrown) {
+-    return refused(whyOf(thrown), OPERATIONAL)
+-  }
+-}
+diff --git a/temper/temper-commands/temper-inventory-parity/temper-inventory-parity.command.ts b/temper/temper-commands/temper-inventory-parity/temper-inventory-parity.command.ts
+deleted file mode 100644
+index dccea69b22603b04e8e6d5e7a80379d87c49cd9c..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-parity/temper-inventory-parity.command.ts
++++ /dev/null
+@@ -1,41 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryParity = {
+-  id: "01a0603c-c1d6-73fa-8ab1-b6d5deb216e2",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-parity",
+-  definition: "the command ruling whether the addon's trace of an item matches a fresh evaluation",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "<item-id>", takes: "the item whose stored trace is compared" },
+-    { said: "--char <id>", takes: "the character the stored trace was captured from" },
+-    {
+-      said: "--inventory-path <path>",
+-      takes: "the saved-variables file the holdings are read from",
+-    },
+-    {
+-      said: "--characters-path <path>",
+-      takes: "the saved-variables file the characters are read from",
+-    },
+-  ],
+-  helpNotes: [
+-    "the inputs are compared first and the walks after, so an input difference explains a walk difference.",
+-    "the character is named rather than worked out, because a trace is captured from one perspective.",
+-    "a stored trace for another item refuses the call rather than being compared.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The inputs are compared before the walks.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The character the trace was captured from is named on the call.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A stored trace for another item refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-plan/temper-inventory-plan.command.code.ts b/temper/temper-commands/temper-inventory-plan/temper-inventory-plan.command.code.ts
+deleted file mode 100644
+index fe5365477faffd2c7a3b14d5518c1a5af1b5ebbd..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-plan/temper-inventory-plan.command.code.ts
++++ /dev/null
+@@ -1,261 +0,0 @@
+-import { readFile } from "node:fs/promises"
+-import { resolve } from "node:path"
+-import type { Answer, Given } from "@akasha/command-system/calling"
+-import { refused } from "@akasha/command-system/calling"
+-import { whyOf } from "@akasha/command-system/fault-saying"
+-import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
+-import type { ClassifiableItem } from "@akasha/temper-items-core/item-category-tree-types"
+-import { assertNever } from "@akasha/utils-narrow/assert-never"
+-import {
+-  type CharacterKnowledge,
+-  type CharacterSession,
+-  type ClassifiedInventoryItem,
+-  type CompiledOrderedRule,
+-  capacityFilter,
+-  classifyItem,
+-  inventoryParser,
+-  type ManagementPlan,
+-  managementPlan,
+-  type PlanItem,
+-  parseCharacters,
+-  parseConfig,
+-  planChecklist,
+-  planInputs,
+-  ruleMatcher,
+-  type VenueStop,
+-} from "../inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+-
+-const INPUT = 1
+-
+-const DATA = 2
+-
+-const OPERATIONAL = 3
+-
+-const INVENTORY_PATH = "--inventory-path"
+-
+-const CHARACTERS_PATH = "--characters-path"
+-
+-const JSON_FLAG = "--json"
+-
+-const CHECKLIST = "--checklist"
+-
+-const INVENTORY_LUA = "TemperInventory.lua"
+-
+-const SPACES = 2
+-
+-const PLAN_HEADER = "[TemperInventory] Plan:"
+-
+-export type Read =
+-  | {
+-      readonly inventoryPath: string | null
+-      readonly charactersPath: string | null
+-      readonly json: boolean
+-      readonly checklist: boolean
+-    }
+-  | { readonly refused: readonly string[] }
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const refusals: string[] = []
+-  let inventoryPath: string | null = null
+-  let charactersPath: string | null = null
+-  let json = false
+-  let checklist = false
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (one === JSON_FLAG) {
+-      json = true
+-      continue
+-    }
+-    if (one === CHECKLIST) {
+-      checklist = true
+-      continue
+-    }
+-    if (one === INVENTORY_PATH || one === CHARACTERS_PATH) {
+-      const value = argv[at + 1]
+-      at += 1
+-      if (value === undefined) {
+-        refusals.push(`\`${one}\` takes a value, and none followed it`)
+-        continue
+-      }
+-      if (one === INVENTORY_PATH) inventoryPath = value
+-      else charactersPath = value
+-      continue
+-    }
+-    refusals.push(
+-      `\`${one}\` is nothing this takes — it takes \`${INVENTORY_PATH}\`, ` +
+-        `\`${CHARACTERS_PATH}\`, \`${JSON_FLAG}\` and \`${CHECKLIST}\``
+-    )
+-  }
+-  if (refusals.length > 0) return { refused: refusals }
+-  return { inventoryPath, charactersPath, json, checklist }
+-}
+-
+-function verbOf(action: string, destination: string | undefined): string {
+-  switch (action) {
+-    case "sell":
+-    case "destroy":
+-    case "fence-sell":
+-      return "sell"
+-    case "fence-launder":
+-      return "launder"
+-    case "list":
+-      return "list"
+-    case "mail":
+-      return "mail"
+-    case "deconstruct":
+-      return "deconstruct"
+-    case "refine":
+-      return "refine"
+-    case "research":
+-      return "research"
+-    case "character-equip":
+-    case "companion-equip":
+-      return "equip"
+-    case "stock":
+-      return "stock"
+-    case "move-to":
+-      return destination?.startsWith("character:") === true ? "withdraw" : "deposit"
+-    case "use":
+-      return "use"
+-    case "open":
+-      return "open"
+-    case "nothing":
+-    case "lock":
+-    case "unlock":
+-      return action
+-    default:
+-      return assertNever(action as never)
+-  }
+-}
+-
+-function venueRows(plan: ManagementPlan): ReadonlyMap<string, Map<string, number>> {
+-  const labelToVerbs = new Map<string, Map<string, number>>()
+-  const holdItem = (item: PlanItem, verbs: Map<string, number>): undefined => {
+-    const verb = verbOf(item.action, undefined)
+-    verbs.set(verb, (verbs.get(verb) ?? 0) + item.stackCount)
+-    return undefined
+-  }
+-  const holdVenue = (venue: VenueStop): undefined => {
+-    let verbs = labelToVerbs.get(venue.label)
+-    if (verbs === undefined) {
+-      verbs = new Map()
+-      labelToVerbs.set(venue.label, verbs)
+-    }
+-    for (const group of venue.actionGroups) for (const item of group.items) holdItem(item, verbs)
+-    return undefined
+-  }
+-  const holdSession = (session: CharacterSession): undefined => {
+-    for (const venue of session.venues) holdVenue(venue)
+-    return undefined
+-  }
+-  for (const session of plan.sessions) holdSession(session)
+-  return labelToVerbs
+-}
+-
+-export function planSaid(plan: ManagementPlan): readonly string[] {
+-  const rows = venueRows(plan)
+-  if (rows.size === 0) return [PLAN_HEADER, "  (no actions pending)"]
+-  const lines: string[] = [PLAN_HEADER]
+-  for (const [label, verbs] of rows) {
+-    const parts: string[] = []
+-    for (const [verb, count] of verbs) parts.push(`${verb} ${count}`)
+-    if (parts.length === 0) continue
+-    lines.push(`  ${label} — ${parts.join(", ")}`)
+-  }
+-  return lines
+-}
+-
+-function classifiedFor(
+-  db: InventoryDatabase,
+-  toNodeIds: (item: ClassifiableItem) => readonly string[]
+-): readonly ClassifiedInventoryItem[] {
+-  const out: ClassifiedInventoryItem[] = []
+-  for (const [locationKey, location] of Object.entries(db.locations)) {
+-    for (const [bagIdSaid, slots] of Object.entries(location.bags)) {
+-      for (const item of Object.values(slots)) {
+-        out.push({
+-          item,
+-          locationKey,
+-          locationDisplayName: location.displayName,
+-          nodeIds: toNodeIds(item),
+-          bagId: Number(bagIdSaid),
+-        })
+-      }
+-    }
+-  }
+-  return out
+-}
+-
+-export async function temperInventoryPlan(
+-  argv: readonly string[] = [],
+-  given?: Given
+-): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+-  const root = given === undefined ? process.cwd() : resolve(given.root)
+-  try {
+-    const inputs = await planInputs()
+-    const inventoryPath =
+-      read.inventoryPath === null
+-        ? inputs.DEFAULT_INVENTORY_PATH
+-        : resolve(root, read.inventoryPath)
+-    const charactersPath =
+-      read.charactersPath === null
+-        ? inputs.DEFAULT_CHARACTERS_PATH
+-        : resolve(root, read.charactersPath)
+-    let content: string
+-    try {
+-      content = await readFile(inventoryPath, "utf8")
+-    } catch (thrown) {
+-      return refused(`${INVENTORY_LUA} at ${inventoryPath} would not open — ${whyOf(thrown)}`, DATA)
+-    }
+-    const [parser, configModule, charactersModule, classifier] = await Promise.all([
+-      inventoryParser(),
+-      parseConfig(),
+-      parseCharacters(),
+-      classifyItem(),
+-    ])
+-    const db = parser.parseInventoryContent(content)
+-    const config = configModule.parseTemperInventoryConfig(content)
+-    const characters = await charactersModule.loadTemperCharactersFromPath(charactersPath)
+-    const charactersById = new Map<string, CharacterKnowledge>(
+-      characters.map((one) => [one.id, one])
+-    )
+-    const context = inputs.buildMatcherContext(config, charactersById, db)
+-    const classifiedItems = classifiedFor(db, classifier.classifyItemToNodeIds)
+-    const orderedRules: readonly CompiledOrderedRule[] = config.orderedRules.map((rule, at) => ({
+-      ...rule,
+-      id: config.rules[at]?.id ?? `rule#${at}`,
+-    }))
+-    const itemRules = [] as const
+-    const [matcher, filter, builder] = await Promise.all([
+-      ruleMatcher(),
+-      capacityFilter(),
+-      managementPlan(),
+-    ])
+-    const matched = matcher.computeAllRuleAffectedItems(
+-      orderedRules,
+-      classifiedItems,
+-      context,
+-      itemRules
+-    )
+-    const filtered = filter.applyDestinationCapacityFilter(
+-      orderedRules,
+-      itemRules,
+-      matched.ruleMap,
+-      db
+-    )
+-    const plan = builder.buildManagementPlan(orderedRules, itemRules, filtered, db, context)
+-    if (read.json) {
+-      return { report: JSON.stringify(plan, null, SPACES).split("\n"), refusals: [], code: 0 }
+-    }
+-    if (read.checklist) {
+-      const said = (await planChecklist()).formatPlanChecklist(plan)
+-      return { report: said.replace(/\n+$/, "").split("\n"), refusals: [], code: 0 }
+-    }
+-    return { report: [...planSaid(plan)], refusals: [], code: 0 }
+-  } catch (thrown) {
+-    return refused(whyOf(thrown), OPERATIONAL)
+-  }
+-}
+diff --git a/temper/temper-commands/temper-inventory-plan/temper-inventory-plan.command.ts b/temper/temper-commands/temper-inventory-plan/temper-inventory-plan.command.ts
+deleted file mode 100644
+index 9c078dc2a1cfa2f2b8ba1686fbb8ddfbb015e395..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-plan/temper-inventory-plan.command.ts
++++ /dev/null
+@@ -1,52 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryPlan = {
+-  id: "01a0603c-c1d6-7f83-b8aa-93c9e3917440",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-plan",
+-  definition: "the command working out the management plan the addon would carry out",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    {
+-      said: "--inventory-path <path>",
+-      takes: "the saved-variables file the holdings are read from",
+-    },
+-    {
+-      said: "--characters-path <path>",
+-      takes: "the saved-variables file the characters are read from",
+-    },
+-    { said: "--json", takes: "give the whole plan as JSON rather than as text" },
+-    {
+-      said: "--checklist",
+-      takes: "give the login and venue-stop checklist rather than the plan the addon shows",
+-    },
+-  ],
+-  helpNotes: [
+-    "the items every rule reaches are worked out first, then the capacity filter, then the plan.",
+-    "the checklist is two levels deep: which characters to log in and which venues to stop at.",
+-    "the checklist never names one item, because a stop is what a player acts on.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The items every rule reaches are worked out before the capacity filter.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The capacity filter runs before the plan is built.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The checklist names character logins and venue stops.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "The checklist names no single item.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "The holdings are read from a stored snapshot rather than from the workstation.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-replay-explain/temper-inventory-replay-explain.command.code.ts b/temper/temper-commands/temper-inventory-replay-explain/temper-inventory-replay-explain.command.code.ts
+deleted file mode 100644
+index 1a52bc2056d32300b811962766f73beb8ef5dd1c..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-replay-explain/temper-inventory-replay-explain.command.code.ts
++++ /dev/null
+@@ -1,172 +0,0 @@
+-import { resolve } from "node:path"
+-import type { Answer, Given } from "@akasha/command-system/calling"
+-import { refused } from "@akasha/command-system/calling"
+-import { whyOf } from "@akasha/command-system/fault-saying"
+-import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
+-import {
+-  formatExplainWalk,
+-  type JsonOutput,
+-  type RuleTraceRow,
+-} from "@akasha/temper-explain/explain-walk"
+-import { readLastExplain } from "../explain-replay-reading/explain-replay-reading.module.code.ts"
+-
+-const INPUT = 1
+-
+-const OPERATIONAL = 3
+-
+-const INVENTORY_PATH = "--inventory-path"
+-
+-const ITEM_LINK = "--itemlink"
+-
+-const INVENTORY_LUA = "TemperInventory.lua"
+-
+-const NO_KEY = "none"
+-
+-type Rejection = {
+-  readonly index: number
+-  readonly categoryId: string
+-  readonly action: string
+-  readonly reason: string
+-  readonly detail?: string
+-}
+-
+-type MatchedWalk = {
+-  readonly index: number
+-  readonly categoryId: string
+-  readonly action: string
+-  readonly destination: string
+-  readonly conditions: string
+-}
+-
+-type ExplainTrace = {
+-  readonly timestamp: number
+-  readonly itemLink: string
+-  readonly itemId: number
+-  readonly itemName: string
+-  readonly classification: { readonly ancestorChain: readonly string[] }
+-  readonly itemKey: {
+-    readonly kind: string
+-    readonly detail: Readonly<Record<string, number | string | boolean>>
+-  }
+-  readonly orderedWalk: {
+-    readonly matched?: MatchedWalk
+-    readonly rejections: readonly Rejection[]
+-  }
+-  readonly outcome: {
+-    readonly action: string
+-    readonly destination: string
+-    readonly summary: string
+-  }
+-}
+-
+-export type Read =
+-  | { readonly inventoryPath: string | null; readonly itemLink: string | null }
+-  | { readonly refused: readonly string[] }
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const refusals: string[] = []
+-  let inventoryPath: string | null = null
+-  let itemLink: string | null = null
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (one === INVENTORY_PATH || one === ITEM_LINK) {
+-      const value = argv[at + 1]
+-      at += 1
+-      if (value === undefined) {
+-        refusals.push(`\`${one}\` takes a value, and none followed it`)
+-        continue
+-      }
+-      if (one === INVENTORY_PATH) inventoryPath = value
+-      else itemLink = value
+-      continue
+-    }
+-    refusals.push(
+-      `\`${one}\` is nothing this takes — it takes \`${INVENTORY_PATH}\` and \`${ITEM_LINK}\``
+-    )
+-  }
+-  if (refusals.length > 0) return { refused: refusals }
+-  return { inventoryPath, itemLink }
+-}
+-
+-function itemKeySaid(itemKey: ExplainTrace["itemKey"]): string | null {
+-  if (itemKey.kind === NO_KEY) return null
+-  const entries = Object.entries(itemKey.detail)
+-  if (entries.length === 0) return itemKey.kind
+-  return `${itemKey.kind}:${entries.map(([key, value]) => `${key}=${String(value)}`).join(",")}`
+-}
+-
+-export function outputOf(trace: ExplainTrace): JsonOutput {
+-  const perRule: RuleTraceRow[] = []
+-  const matched = trace.orderedWalk.matched
+-  if (matched !== undefined) {
+-    perRule.push({
+-      index: matched.index,
+-      ruleId: null,
+-      categoryId: matched.categoryId,
+-      action: matched.action,
+-      destination: matched.destination,
+-      verdict: "matched",
+-      verdictDetail: matched.conditions === "" ? null : matched.conditions,
+-      resolvedDestination: trace.outcome.destination,
+-    })
+-  }
+-  for (const one of trace.orderedWalk.rejections) {
+-    perRule.push({
+-      index: one.index,
+-      ruleId: null,
+-      categoryId: one.categoryId,
+-      action: one.action,
+-      destination: null,
+-      verdict: "rejected",
+-      verdictDetail: one.detail !== undefined ? `${one.reason} (${one.detail})` : one.reason,
+-      resolvedDestination: null,
+-    })
+-  }
+-  return {
+-    itemId: trace.itemId,
+-    itemName: trace.itemName,
+-    itemLink: trace.itemLink,
+-    categoryNodeIds: trace.classification.ancestorChain,
+-    itemKey: itemKeySaid(trace.itemKey),
+-    ttc: null,
+-    perRule,
+-    outcome: {
+-      kind: matched !== undefined ? "matched" : "implicit-terminal",
+-      action: trace.outcome.action,
+-      destination: trace.outcome.destination,
+-      label: trace.outcome.summary,
+-      indeterminateRules: [],
+-    },
+-  }
+-}
+-
+-export async function temperInventoryReplayExplain(
+-  argv: readonly string[] = [],
+-  given?: Given
+-): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+-  const root = given === undefined ? process.cwd() : resolve(given.root)
+-  const at =
+-    read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
+-  let trace: ExplainTrace
+-  try {
+-    trace = (await readLastExplain(at)) as ExplainTrace
+-  } catch (thrown) {
+-    return refused(whyOf(thrown), OPERATIONAL)
+-  }
+-  if (read.itemLink !== null && read.itemLink !== trace.itemLink) {
+-    return refused(
+-      `the stored trace is for item ${trace.itemId} (${trace.itemLink}), ` +
+-        `and \`${ITEM_LINK} ${read.itemLink}\` names another`,
+-      INPUT
+-    )
+-  }
+-  const said = formatExplainWalk(outputOf(trace))
+-  return {
+-    report: [`[addon @ ${trace.timestamp}]`, ...said.replace(/\n+$/, "").split("\n")],
+-    refusals: [],
+-    code: 0,
+-  }
+-}
+diff --git a/temper/temper-commands/temper-inventory-replay-explain/temper-inventory-replay-explain.command.ts b/temper/temper-commands/temper-inventory-replay-explain/temper-inventory-replay-explain.command.ts
+deleted file mode 100644
+index 9b60f739150eef6382a2a519bb4835caffcd9c7c..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-replay-explain/temper-inventory-replay-explain.command.ts
++++ /dev/null
+@@ -1,39 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryReplayExplain = {
+-  id: "01a0603c-c1d6-752a-86f1-3c9eca4b7916",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-replay-explain",
+-  definition: "the command giving back the addon's last stored explain trace",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "--inventory-path <path>", takes: "the saved-variables file the trace is read from" },
+-    {
+-      said: "--itemlink <link>",
+-      takes: "give the trace back only where its item link is this one",
+-    },
+-  ],
+-  helpNotes: [
+-    "the trace is the one the addon stored, so nothing is evaluated again here.",
+-    "naming an item link the stored trace does not carry refuses the call by naming what it does carry.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The trace given back is the trace the addon stored.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An item link the stored trace does not carry refuses the call.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The refusal names the item the stored trace carries.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here evaluates a rule.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-rule-delete/temper-inventory-rule-delete.command.code.ts b/temper/temper-commands/temper-inventory-rule-delete/temper-inventory-rule-delete.command.code.ts
+deleted file mode 100644
+index 8d04a667e12fdb7953b03f3885c195a59444ea25..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rule-delete/temper-inventory-rule-delete.command.code.ts
++++ /dev/null
+@@ -1,20 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  droppedRule,
+-  FORCE,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-rule-delete"
+-
+-const SHAPE = shapeOf([FORCE], { alone: [FORCE], namesARule: true })
+-
+-export async function temperInventoryRuleDelete(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => droppedRule("category", id, read.said.has(FORCE)))
+-}
+diff --git a/temper/temper-commands/temper-inventory-rule-delete/temper-inventory-rule-delete.command.ts b/temper/temper-commands/temper-inventory-rule-delete/temper-inventory-rule-delete.command.ts
+deleted file mode 100644
+index 2bd9a04ee99d5ba6f79b6a4a9922aeacde64f3b2..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rule-delete/temper-inventory-rule-delete.command.ts
++++ /dev/null
+@@ -1,28 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryRuleDelete = {
+-  id: "01a0603c-c1d7-71ff-becd-5055afe65a24",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-rule-delete",
+-  definition: "the command taking away a category rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "<id>", takes: "the id of the category rule taken away" },
+-    { said: "--force", takes: "take it away even where it is locked" },
+-  ],
+-  helpNotes: [
+-    "a locked category rule is refused rather than taken away, unless `--force` is said.",
+-    "an id no category rule carries is refused by that id.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A locked category rule is refused unless the call says `--force`.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no category rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-rule-duplicate/temper-inventory-rule-duplicate.command.code.ts b/temper/temper-commands/temper-inventory-rule-duplicate/temper-inventory-rule-duplicate.command.code.ts
+deleted file mode 100644
+index 49fa04e8c1b815d207e2493035df98add7d008a2..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rule-duplicate/temper-inventory-rule-duplicate.command.code.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  copiedRule,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-rule-duplicate"
+-
+-const SHAPE = shapeOf([], { namesARule: true })
+-
+-export async function temperInventoryRuleDuplicate(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => copiedRule("category", id))
+-}
+diff --git a/temper/temper-commands/temper-inventory-rule-duplicate/temper-inventory-rule-duplicate.command.ts b/temper/temper-commands/temper-inventory-rule-duplicate/temper-inventory-rule-duplicate.command.ts
+deleted file mode 100644
+index 1ccf43e5bdcdb9c6a4b53d4a3deab9d6798ab5f5..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rule-duplicate/temper-inventory-rule-duplicate.command.ts
++++ /dev/null
+@@ -1,29 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryRuleDuplicate = {
+-  id: "01a0603c-c1d7-79c4-89bc-1293587ca4fc",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-rule-duplicate",
+-  definition: "the command copying a category rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [{ said: "<id>", takes: "the id of the category rule copied" }],
+-  helpNotes: [
+-    "the copy is unlocked and inactive whatever the original was.",
+-    "an id no category rule carries is refused by that id.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The copy is unlocked.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The copy is inactive.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no category rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-rule-lock/temper-inventory-rule-lock.command.code.ts b/temper/temper-commands/temper-inventory-rule-lock/temper-inventory-rule-lock.command.code.ts
+deleted file mode 100644
+index 77b51bc828fe25d441030042a0a8e301b0ef4440..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rule-lock/temper-inventory-rule-lock.command.code.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  lockedRule,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-rule-lock"
+-
+-const SHAPE = shapeOf([], { namesARule: true })
+-
+-export async function temperInventoryRuleLock(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => lockedRule("category", id, true))
+-}
+diff --git a/temper/temper-commands/temper-inventory-rule-lock/temper-inventory-rule-lock.command.ts b/temper/temper-commands/temper-inventory-rule-lock/temper-inventory-rule-lock.command.ts
+deleted file mode 100644
+index 5a09b42a3c762e50646b4fd944fe60b612a649d7..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rule-lock/temper-inventory-rule-lock.command.ts
++++ /dev/null
+@@ -1,24 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryRuleLock = {
+-  id: "01a0603c-c1d7-740c-ba2b-29b12244bd79",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-rule-lock",
+-  definition: "the command locking a category rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [{ said: "<id>", takes: "the id of the category rule locked" }],
+-  helpNotes: [
+-    "a locked rule is refused an update or a deletion until it is unlocked or the call forces it.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Locking a category rule already locked changes nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no category rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.code.ts b/temper/temper-commands/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.code.ts
+deleted file mode 100644
+index 06235fe607ec35dabec36d597ac1ebcbe0da1562..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.code.ts
++++ /dev/null
+@@ -1,96 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  reorderCategoryRule,
+-  resolveAnchorIndex,
+-} from "@akasha/temper-items-rules-core/inventory-rule-settings"
+-import {
+-  answering,
+-  DATA,
+-  FORCE,
+-  INPUT,
+-  lockedOff,
+-  named,
+-  readIn,
+-  refusedAll,
+-  refusing,
+-  settingsOf,
+-  shapeOf,
+-  toldOf,
+-  unfound,
+-  wholeOf,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-rule-reorder"
+-
+-const TO = "--to"
+-
+-const BEFORE = "--before"
+-
+-const AFTER = "--after"
+-
+-const WHERE = [TO, BEFORE, AFTER]
+-
+-const SHAPE = shapeOf([...WHERE, FORCE], { alone: [FORCE], whole: [TO], namesARule: true })
+-
+-async function moved(id: string, held: ReadonlyMap<string, string>): Promise<Answer> {
+-  const given = WHERE.filter((one) => held.has(one))
+-  if (given.length === 0) {
+-    return refusing(`\`${CALLED_AS}\` takes one of ${named(WHERE)}, and it was given none`, INPUT)
+-  }
+-  if (given.length > 1) {
+-    return refusing(
+-      `\`${CALLED_AS}\` takes one of ${named(WHERE)}, and it was given ${named(given)}`,
+-      INPUT
+-    )
+-  }
+-  const force = held.has(FORCE)
+-  const settingsAccess = await settingsOf()
+-  const settings = await settingsAccess.read()
+-  const rule = settings.rules.find((one) => one.id === id)
+-  if (rule === undefined) return unfound("category", id)
+-  if (rule.locked === true && !force) return lockedOff("category", id)
+-
+-  const to = wholeOf(held, TO)
+-  let toIndex: number
+-  if (to !== undefined) {
+-    if (to > settings.rules.length) {
+-      return refusing(
+-        `\`${TO}\` names the index ${to} and the written rules run to ${settings.rules.length}`,
+-        INPUT
+-      )
+-    }
+-    toIndex = to
+-  } else {
+-    const before = held.get(BEFORE)
+-    const flag = before !== undefined ? BEFORE : AFTER
+-    const anchorId = before ?? held.get(AFTER) ?? ""
+-    if (anchorId === id) {
+-      return refusing(
+-        `\`${flag}\` names the rule being moved, and a rule anchors to another`,
+-        INPUT
+-      )
+-    }
+-    const found = resolveAnchorIndex(
+-      settings,
+-      id,
+-      anchorId,
+-      before !== undefined ? "before" : "after"
+-    )
+-    if (found === undefined) {
+-      return refusing(
+-        `\`${flag}\` names \`${anchorId}\`, which is no written category rule — a controlled rule is derived rather than written and anchors nothing`,
+-        DATA
+-      )
+-    }
+-    toIndex = found
+-  }
+-  await settingsAccess.write(reorderCategoryRule(settings, id, toIndex))
+-  return toldOf({ id, toIndex })
+-}
+-
+-export async function temperInventoryRuleReorder(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => moved(id, read.said))
+-}
+diff --git a/temper/temper-commands/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.ts b/temper/temper-commands/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.ts
+deleted file mode 100644
+index a63bd9421915f44de06ff6644a4242a67cc3dcd8..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.ts
++++ /dev/null
+@@ -1,41 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryRuleReorder = {
+-  id: "01a0603c-c1d8-70b7-a1e7-d602bcd411b0",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-rule-reorder",
+-  definition: "the command moving a category rule to another place in the priority order",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "<id>", takes: "the id of the category rule moved" },
+-    { said: "--to <index>", takes: "the position the rule moves to" },
+-    { said: "--before <anchor-id>", takes: "the rule the moved rule comes before" },
+-    { said: "--after <anchor-id>", takes: "the rule the moved rule comes after" },
+-    { said: "--force", takes: "move it even where it is locked" },
+-  ],
+-  helpNotes: [
+-    "one of `--to`, `--before` and `--after` is said, and naming two is refused.",
+-    "the position is counted over the rules a person wrote rather than over the compiled order.",
+-    "an anchor id no rule carries is refused by that id.",
+-    "a locked rule is refused rather than moved, unless `--force` is said.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A call naming more than one way of placing the rule is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The position is counted over the rules a person wrote.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An anchor id no rule carries refuses the call.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A locked rule is refused unless the call says `--force`.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-rule-show/temper-inventory-rule-show.command.code.ts b/temper/temper-commands/temper-inventory-rule-show/temper-inventory-rule-show.command.code.ts
+deleted file mode 100644
+index 80b81a7ca30a5a3c4b5390d65e4c36e440328979..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rule-show/temper-inventory-rule-show.command.code.ts
++++ /dev/null
+@@ -1,21 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  JSON_FLAG,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-  shownRule,
+-  TSV,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-rule-show"
+-
+-const SHAPE = shapeOf([JSON_FLAG, TSV], { alone: [JSON_FLAG, TSV], namesARule: true })
+-
+-export async function temperInventoryRuleShow(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => shownRule("category", id, read.said))
+-}
+diff --git a/temper/temper-commands/temper-inventory-rule-show/temper-inventory-rule-show.command.ts b/temper/temper-commands/temper-inventory-rule-show/temper-inventory-rule-show.command.ts
+deleted file mode 100644
+index 8b7f8aaa7f0411e72bfb4b64ea7cbd3f87e0e494..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rule-show/temper-inventory-rule-show.command.ts
++++ /dev/null
+@@ -1,29 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryRuleShow = {
+-  id: "01a0603c-c1d8-7a9c-b7d3-8fab0e6c8abf",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-rule-show",
+-  definition: "the command giving back one category rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "<id>", takes: "the id of the category rule given back" },
+-    { said: "--json", takes: "give the rule as JSON" },
+-    { said: "--tsv", takes: "give one tab-separated row rather than JSON" },
+-  ],
+-  helpNotes: [
+-    "the rules a person wrote are looked in first, then the controlled rules worked out from settings.",
+-    "a controlled rule is named as `controlled:` and what it was worked out from.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The rules a person wrote are looked in before the controlled ones.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no category rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.code.ts b/temper/temper-commands/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.code.ts
+deleted file mode 100644
+index 0c9558a5d636ea7a2fd54cfd18ecb6b6b5b43c06..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.code.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  answering,
+-  lockedRule,
+-  readIn,
+-  refusedAll,
+-  shapeOf,
+-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+-
+-const CALLED_AS = "akasha temper-inventory-rule-unlock"
+-
+-const SHAPE = shapeOf([], { namesARule: true })
+-
+-export async function temperInventoryRuleUnlock(argv: readonly string[] = []): Promise<Answer> {
+-  const read = readIn(argv, CALLED_AS, SHAPE)
+-  if ("refused" in read) return refusedAll(read.refused)
+-  const id = read.id ?? ""
+-  return await answering(() => lockedRule("category", id, false))
+-}
+diff --git a/temper/temper-commands/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.ts b/temper/temper-commands/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.ts
+deleted file mode 100644
+index b53aae6aabe98522dc7ead87ec570185839b312a..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.ts
++++ /dev/null
+@@ -1,21 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryRuleUnlock = {
+-  id: "01a0603c-c1d8-788c-b8ed-bed2e9c842df",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-rule-unlock",
+-  definition: "the command unlocking a category rule named by its id",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [{ said: "<id>", takes: "the id of the category rule unlocked" }],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Unlocking a category rule already unlocked changes nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An id no category rule carries refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/temper/temper-commands/temper-inventory-rules/temper-inventory-rules.command.code.ts b/temper/temper-commands/temper-inventory-rules/temper-inventory-rules.command.code.ts
+deleted file mode 100644
+index f73454401649ea8cba83830256f5cce77222d475..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rules/temper-inventory-rules.command.code.ts
++++ /dev/null
+@@ -1,189 +0,0 @@
+-import { resolve } from "node:path"
+-import type { Answer, Given } from "@akasha/command-system/calling"
+-import { refused } from "@akasha/command-system/calling"
+-import { whyOf } from "@akasha/command-system/fault-saying"
+-import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
+-import { loadTemperInventoryConfigFromPath } from "../inventory-config-reading/inventory-config-reading.module.code.ts"
+-
+-const INPUT = 1
+-
+-const OPERATIONAL = 3
+-
+-const INVENTORY_PATH = "--inventory-path"
+-
+-const SECTION = "--section"
+-
+-const JSON_FLAG = "--json"
+-
+-const INVENTORY_LUA = "TemperInventory.lua"
+-
+-const SECTIONS = ["rules", "consumables", "priority", "all"] as const
+-
+-const NAMED_KEYS = 3
+-
+-type Section = (typeof SECTIONS)[number]
+-
+-type CompiledRule = {
+-  readonly id: string
+-  readonly action: string
+-  readonly destination?: string
+-  readonly categoryId?: string
+-  readonly [extra: string]: unknown
+-}
+-
+-type CompiledInventoryConfig = {
+-  readonly rules: ReadonlyArray<CompiledRule>
+-  readonly wantedConsumables: Record<string, unknown>
+-  readonly characterPriority: ReadonlyArray<string>
+-}
+-
+-export type Read =
+-  | {
+-      readonly inventoryPath: string | null
+-      readonly section: Section
+-      readonly json: boolean
+-    }
+-  | { readonly refused: readonly string[] }
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const refusals: string[] = []
+-  let inventoryPath: string | null = null
+-  let section: Section = "all"
+-  let json = false
+-  for (let at = 0; at < argv.length; at += 1) {
+-    const one = argv[at]
+-    if (one === undefined) continue
+-    if (one === JSON_FLAG) {
+-      json = true
+-      continue
+-    }
+-    if (one === INVENTORY_PATH || one === SECTION) {
+-      const value = argv[at + 1]
+-      at += 1
+-      if (value === undefined) {
+-        refusals.push(`\`${one}\` takes a value, and none followed it`)
+-        continue
+-      }
+-      if (one === INVENTORY_PATH) {
+-        inventoryPath = value
+-        continue
+-      }
+-      if (!SECTIONS.includes(value as Section)) {
+-        refusals.push(
+-          `\`${SECTION}\` takes \`${SECTIONS.join("`, `")}\`, and \`${value}\` is none of them`
+-        )
+-        continue
+-      }
+-      section = value as Section
+-      continue
+-    }
+-    refusals.push(
+-      `\`${one}\` is nothing this takes — it takes \`${INVENTORY_PATH}\`, ` +
+-        `\`${SECTION}\` and \`${JSON_FLAG}\``
+-    )
+-  }
+-  if (refusals.length > 0) return { refused: refusals }
+-  return { inventoryPath, section, json }
+-}
+-
+-const RULE_IDENTITY = new Set(["id", "action", "destination", "categoryId"])
+-
+-function conditionCount(rule: CompiledRule): number {
+-  let held = 0
+-  for (const key of Object.keys(rule)) if (!RULE_IDENTITY.has(key)) held += 1
+-  return held
+-}
+-
+-function ruleShape(rule: CompiledRule): Record<string, unknown> {
+-  return {
+-    id: rule.id,
+-    action: rule.action,
+-    destination: rule.destination ?? "",
+-    categoryId: rule.categoryId ?? "",
+-    conditionCount: conditionCount(rule),
+-  }
+-}
+-
+-function consumableSaid(value: unknown): string {
+-  if (Array.isArray(value)) return `[${value.length} char(s)]`
+-  if (value !== null && typeof value === "object") {
+-    const keys = Object.keys(value)
+-    return `{${keys.length} field(s): ${keys.slice(0, NAMED_KEYS).join(", ")}}`
+-  }
+-  if (value === null) return "(null)"
+-  return String(value)
+-}
+-
+-export function rulesSaid(rules: ReadonlyArray<CompiledRule>): readonly string[] {
+-  if (rules.length === 0) return ["(no compiled rules)"]
+-  const lines: string[] = []
+-  for (let at = 0; at < rules.length; at += 1) {
+-    const rule = rules[at]
+-    if (rule === undefined) continue
+-    const shape = ruleShape(rule)
+-    lines.push(
+-      [at, shape.id, shape.action, shape.destination, shape.categoryId, shape.conditionCount].join(
+-        "\t"
+-      )
+-    )
+-  }
+-  return lines
+-}
+-
+-export function consumablesSaid(wanted: Record<string, unknown>): readonly string[] {
+-  const keys = Object.keys(wanted)
+-  if (keys.length === 0) return ["(no wanted consumables)"]
+-  return keys.map((one) => `${one}\t${consumableSaid(wanted[one])}`)
+-}
+-
+-export function prioritySaid(priority: ReadonlyArray<string>): readonly string[] {
+-  return priority.length === 0 ? ["(no character priority)"] : [...priority]
+-}
+-
+-function jsonShape(config: CompiledInventoryConfig, section: Section): Record<string, unknown> {
+-  const rules = config.rules.map(ruleShape)
+-  if (section === "rules") return { rules }
+-  if (section === "consumables") return { wantedConsumables: config.wantedConsumables }
+-  if (section === "priority") return { characterPriority: config.characterPriority }
+-  return {
+-    rules,
+-    wantedConsumables: config.wantedConsumables,
+-    characterPriority: config.characterPriority,
+-  }
+-}
+-
+-function textOf(config: CompiledInventoryConfig, section: Section): readonly string[] {
+-  if (section === "rules") return rulesSaid(config.rules)
+-  if (section === "consumables") return consumablesSaid(config.wantedConsumables)
+-  if (section === "priority") return prioritySaid(config.characterPriority)
+-  return [
+-    `# rules (${config.rules.length})`,
+-    ...rulesSaid(config.rules),
+-    "",
+-    `# consumables (${Object.keys(config.wantedConsumables).length})`,
+-    ...consumablesSaid(config.wantedConsumables),
+-    "",
+-    `# priority (${config.characterPriority.length})`,
+-    ...prioritySaid(config.characterPriority),
+-  ]
+-}
+-
+-export async function temperInventoryRules(
+-  argv: readonly string[] = [],
+-  given?: Given
+-): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+-  const root = given === undefined ? process.cwd() : resolve(given.root)
+-  const at =
+-    read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
+-  try {
+-    const config = (await loadTemperInventoryConfigFromPath(at)) as CompiledInventoryConfig
+-    if (read.json) {
+-      return { report: [JSON.stringify(jsonShape(config, read.section))], refusals: [], code: 0 }
+-    }
+-    return { report: [...textOf(config, read.section)], refusals: [], code: 0 }
+-  } catch (thrown) {
+-    return refused(whyOf(thrown), OPERATIONAL)
+-  }
+-}
+diff --git a/temper/temper-commands/temper-inventory-rules/temper-inventory-rules.command.ts b/temper/temper-commands/temper-inventory-rules/temper-inventory-rules.command.ts
+deleted file mode 100644
+index 069544a30f4e6ffe89743de94ed6eb9fd911ec18..0000000000000000000000000000000000000000
+--- a/temper/temper-commands/temper-inventory-rules/temper-inventory-rules.command.ts
++++ /dev/null
+@@ -1,38 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const temperInventoryRules = {
+-  id: "01a0603c-c1d9-7bdc-8aab-dcc717f3de9b",
+-  pageTypeSlug: "command",
+-  slug: "temper-inventory-rules",
+-  definition: "the command giving back the compiled rule configuration the addon carries",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    {
+-      said: "--inventory-path <path>",
+-      takes: "the saved-variables file the configuration is read from",
+-    },
+-    {
+-      said: "--section <section>",
+-      takes: "which section is given back: rules, consumables, priority or all",
+-    },
+-    { said: "--json", takes: "give the section as JSON rather than as tab-separated rows" },
+-  ],
+-  helpNotes: [
+-    "the configuration read is what the addon compiled rather than what the rules were written as.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The configuration read is the compiled configuration.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Naming no section gives back every section.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A section the configuration does not hold refuses the call.",
+-    },
+-  ],
+-} as const satisfies Command
