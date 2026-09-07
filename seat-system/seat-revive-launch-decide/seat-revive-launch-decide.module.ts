@@ -18,7 +18,11 @@ export const seatReviveLaunchDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat being revived is handed no boot prompt, having already been booted once.",
+      statement: "A seat being revived is handed no boot prompt.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat being revived has already been booted once.",
     },
     {
       invariantKind: "departure",
