@@ -8,6 +8,7 @@
     "./cluster-workloads": "./cluster-workloads/cluster-workloads.module.code.ts"
   },
   "dependencies": {
+    "@akasha/code": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
