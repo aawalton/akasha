@@ -25,7 +25,7 @@ export const akashaFolderShape = {
     {
       statement: "No relation value lands that akasha cannot key to one page.",
       workingMemory:
-        "`identifier-names-one-page` is the only guard, and it runs on a patch alone: `runsOnWorktree`, `runsOnDeploy` and `runsOnAudit` are all false. `akasha replace` and `akasha remove` land as `change-mechanical` and are judged by no check at all, which is the path a bulk migration takes. Measured clean today: no second line in any of the 70040 id files, nor in any file under a `slug` key.",
+        "`identifier-names-one-page` is the only guard, and it runs on a patch alone: `runsOnWorktree`, `runsOnDeploy` and `runsOnAudit` are all false. `akasha replace` lands as `change-mechanical` and is judged by no check at all, which is the path a bulk migration takes. Measured clean today: no second line in any of the 70040 id files, nor in any file under a `slug` key.",
     },
     {
       statement: "No relation property's name ends in `slug`.",
