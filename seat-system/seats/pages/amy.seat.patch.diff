@@ -1,0 +1,22 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts b/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
+index edf0ba23c388b67156e3c375d64eb4caf9d42462..30ed2c534b09cb97f0c9d4c701c94a96ac2dd629 100644
+--- a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
++++ b/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
+@@ -32,16 +32,5 @@ export const amyAlanHarnessImprovements = {
+       workingMemory:
+         "On 2026-09-07 the origin's 4.6G volume filled and every push was refused with `unable to create temporary object directory`, which stopped both deploys. The fill was 59 `tmp_objdir-incoming-*` quarantine directories dating back to 2026-08-27 and one 1.05G `tmp_pack_*`; clearing those by hand freed 1.9G and left the volume at 60%. Nothing under `git-transport` runs `git gc` or prunes, so it refills at roughly six abandoned pushes a day.",
+     },
+-    {
+-      statement:
+-        "A climbing scale stating no black rung is read as one whose black rung is at zero.",
+-      workingMemory:
+-        "`readout-scale.page-type.ts` says `Black is at zero unless a scale moves black`, and `rungsIn` in `readout-tier.module.code.ts` does not do it, so a reading under the first rung draws neither an arc nor a figure. Alan met it on the attributes, where `blackAt: 0` was stated by hand on 2026-09-07. The same hole is open on activity-calories, green-day-units, plant-grams, safety-level and sleep-hours. In `rungsIn` it must skip a falling scale and allowance-hours.",
+-    },
+-    {
+-      statement: "The attribute stoplight tests come back green when the file runs whole.",
+-      workingMemory:
+-        "`alan/web/attribute-stoplights/attribute-stoplights.module.test.ts` runs 21 tests: the 21 come back green under `--named` one at a time, and one fails when the file runs whole. `akasha test` names no failing test either way. The file fakes its store and its scale fixture states no `blackAt`, so the scale page landed on 2026-09-07 cannot reach it. Running the file at the parent commit is barred: a worktree's `.git` is a file, so `akasha index` builds no index there.",
+-    },
+   ],
+ } as const satisfies Initiative
