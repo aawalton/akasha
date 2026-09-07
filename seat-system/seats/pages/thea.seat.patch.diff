@@ -1,0 +1,22 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
+index 7a33d3424db8c036f4d8be6aeaa1f756478c141a..912bab63cc325401f615568feb4e8f945918613e 100644
+--- a/checks/modules/change-walking/change-walking.module.code.ts
++++ b/checks/modules/change-walking/change-walking.module.code.ts
+@@ -236,8 +236,14 @@ export function everyFileIn(given: Reading): readonly string[] {
+   return filedOnce(everyPath(given))
+ }
+ 
++const EVERY_PATH = new WeakMap<Answering, readonly string[]>()
++
+ export function everyFileOf(index: Answering): readonly string[] {
+-  return filedOnce(index.everyPath())
++  const found = EVERY_PATH.get(index)
++  if (found !== undefined) return found
++  const made = filedOnce(index.everyPath())
++  EVERY_PATH.set(index, made)
++  return made
+ }
+ 
+ const WALK_CEILING = 512 * 1024 * 1024
