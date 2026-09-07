@@ -1,0 +1,21 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/astra-person-system-cleanup.initiative.ts b/domains/initiatives/pages/astra-person-system-cleanup.initiative.ts
+index c166f3ce508c93c64add5ecdd74e687fda99f1d5..e830eea3286212f67b51e2839acc2d464927753f 100644
+--- a/domains/initiatives/pages/astra-person-system-cleanup.initiative.ts
++++ b/domains/initiatives/pages/astra-person-system-cleanup.initiative.ts
+@@ -8,12 +8,12 @@ export const astraPersonSystemCleanup = {
+   personaSlug: "astra",
+   intents: [
+     {
+-      statement: "All person-system-specific files are organized in the person-system/ folder.",
++      statement: "All persons-specific files are organized in the persons/ folder.",
+       workingMemory:
+-        "Met on arrival, so this intent wants replacing. Every page of every page type person-system declares sits under `person-system/`, but for the email rule pages under `alan/harness/inboxes/email-rules/`, and those belong where they are: `email-rule` holds that one person's rules are a set of their own, and that a rule's kind is the folder the rule is in.",
++        "Met on arrival. Every page of every page type persons declares sits under `persons/`, but for the email rule pages under `alan/harness/inboxes/email-rules/`, and those belong where they are: `email-rule` holds that one person's rules are a set of their own, and that a rule's kind is the folder the rule is in.",
+     },
+     {
+-      statement: "The person-system/ folder passes the `folder-matches-a-shape` check.",
++      statement: "The persons/ folder passes the `folder-matches-a-shape` check.",
+       workingMemory:
+         "Met: 156 files judged, none refused. It took each part of the email domain into a folder of its own, every folder name with the name of the page above it taken off, and `email-rule` declaring its two kinds where `email` had declared them. Twelve invariants over nine pages were restated to say one fact each. `alan/harness/inboxes/email-rules` refuses yet, wanting the disabled `pages-of-one-type` shape.",
+     },
