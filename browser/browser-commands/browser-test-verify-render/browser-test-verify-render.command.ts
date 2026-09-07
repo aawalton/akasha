@@ -73,7 +73,15 @@ export const browserTestVerifyRender = {
     },
     {
       invariantKind: "departure",
-      statement: "A pass answers 0, a failure 1, and an indeterminate 3.",
+      statement: "A success answers 0.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A failure answers 1.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An indeterminate answers 3.",
     },
     {
       invariantKind: "departure",
