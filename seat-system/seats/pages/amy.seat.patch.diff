@@ -163,6 +163,25 @@ index 4933b22519f2942efb7280ea7af98f40af29d576..7f296caf351774d6110764607e77b71b
  test("a roster that will not read refuses at 501 and names why", async () => {
    const deps = depsReading(() => Promise.reject(new RosterUnreachable("there is no roster left")))
    const answered = await answerPages(new Request(AT), "readout", deps)
+diff --git a/pages/access/answer/answer.module.ts b/pages/access/answer/answer.module.ts
+index 1dae9f1144f48ba4a9524389493e1aac1132c680..b74d852512f6a66f0464f15715477734456dd8bd 100644
+--- a/pages/access/answer/answer.module.ts
++++ b/pages/access/answer/answer.module.ts
+@@ -43,6 +43,14 @@ export const answer = {
+       invariantKind: "departure",
+       statement: "A roster entry carries that page type's slug alone.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A page type's row carries the property definitions that page type declares.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A row of any other page type carries no property definition.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
 diff --git a/pages/access/file-property-defs/file-property-defs.module.code.ts b/pages/access/file-property-defs/file-property-defs.module.code.ts
 index 499ed95c4be5746c76a759b26892539bc67992e8..c16810154507b0b3ede830913f399437b4ca181c 100644
 --- a/pages/access/file-property-defs/file-property-defs.module.code.ts
