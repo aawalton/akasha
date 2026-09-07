@@ -1,0 +1,17 @@
+diff --git a/temper/temper-commands/bank-trace-reading/bank-trace-reading.module.ts b/temper/temper-commands/bank-trace-reading/bank-trace-reading.module.ts
+index 744452d31b0eb372d3e1ffb99eca58ec0c76c990..1aa9c6a3cca1eabba3a29c98fda46b0696c53394 100644
+--- a/temper/temper-commands/bank-trace-reading/bank-trace-reading.module.ts
++++ b/temper/temper-commands/bank-trace-reading/bank-trace-reading.module.ts
+@@ -9,7 +9,11 @@ export const bankTraceReading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The trace is ruled on whole, so an unknown field refuses the read.",
++      statement: "The trace is ruled on whole.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An unknown field refuses the read.",
+     },
+     {
+       invariantKind: "departure",
