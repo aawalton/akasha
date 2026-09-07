@@ -1,4 +1,18 @@
-readersOweReading: false
+readersOweReading: false temper/temper-lib-addon-menu-order-list-box/order-list-box-casts/order-list-box-casts.module.ts
+diff --git a/bun.lock b/bun.lock
+index 02478c3c289b29fe4168a2947129e2295abe0e17..85fc1888637ef68f7b50dac643f5f08bdd6a2657 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -2349,6 +2349,9 @@
+     },
+     "temper/temper-lib-addon-menu-order-list-box": {
+       "name": "@akasha/temper-lib-addon-menu-order-list-box",
++      "dependencies": {
++        "@akasha/code-system": "workspace:@akasha/code@*",
++      },
+     },
+     "temper/temper-lib-alchemy-station": {
+       "name": "@akasha/temper-lib-alchemy-station",
 diff --git a/temper/temper-lib-addon-menu-order-list-box/order-list-box-casts/order-list-box-casts.module.ts b/temper/temper-lib-addon-menu-order-list-box/order-list-box-casts/order-list-box-casts.module.ts
 index c5718f0b5771d957005546487231e503230797c3..d4a489b41bc9a7f8709d59ff3a1aa1d1c8b3d7c6 100644
 --- a/temper/temper-lib-addon-menu-order-list-box/order-list-box-casts/order-list-box-casts.module.ts
@@ -12,3 +26,16 @@ index c5718f0b5771d957005546487231e503230797c3..d4a489b41bc9a7f8709d59ff3a1aa1d1
      },
      {
        invariantKind: "departure",
+diff --git a/temper/temper-lib-addon-menu-order-list-box/package.json b/temper/temper-lib-addon-menu-order-list-box/package.json
+index eabb2dcb2d6104618ff857322f4cfb9b055e3909..8c1608f149dbc1614a5f6e01084654fe0cef6c7b 100644
+--- a/temper/temper-lib-addon-menu-order-list-box/package.json
++++ b/temper/temper-lib-addon-menu-order-list-box/package.json
+@@ -18,5 +18,8 @@
+     "./order-list-box-row-setup": "./order-list-box-row-setup/order-list-box-row-setup.module.code.ts",
+     "./order-list-box-state": "./order-list-box-state/order-list-box-state.module.code.ts",
+     "./order-list-box-widget": "./order-list-box-widget/order-list-box-widget.module.code.ts"
++  },
++  "dependencies": {
++    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
