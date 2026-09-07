@@ -1,6 +1,7 @@
 import { skimmedAs } from "@akasha/code/code-source"
 import { landingOf } from "@akasha/code/code-specifier"
 import type { Change } from "@akasha/pages/change"
+import type { Shadow } from "@akasha/pages/shadow"
 import ts from "typescript"
 import {
   input,
@@ -47,10 +48,27 @@ export function reachedIn(at: string, text: string): readonly string[] {
   return found
 }
 
-export function reachingIn(change: Change): ReadonlyMap<string, readonly string[]> {
+export function reachingIn(
+  change: Change,
+  importersOf: (path: string) => readonly string[] = () => []
+): ReadonlyMap<string, readonly string[]> {
   const held = new Set(change.changed.filter((one) => textNamed(one)))
+  const back = [...held]
+  while (back.length > 0) {
+    const at = back.pop()
+    if (at === undefined) break
+    for (const one of importersOf(at)) {
+      if (!textNamed(one) || held.has(one)) continue
+      held.add(one)
+      back.push(one)
+    }
+  }
   const found = new Map<string, readonly string[]>()
-  for (const path of [...held].sort()) {
+  const ahead = [...held].sort()
+  while (ahead.length > 0) {
+    const path = ahead.shift()
+    if (path === undefined) break
+    if (found.has(path)) continue
     const text = textIn(change, path)
     if (text === null) {
       found.set(path, [])
@@ -59,8 +77,12 @@ export function reachingIn(change: Change): ReadonlyMap<string, readonly string[
     const outs: string[] = []
     for (const one of reachedIn(path, text)) {
       const landed = landingOf(path, one)
-      if (landed === null || !held.has(landed) || outs.includes(landed)) continue
+      if (landed === null || outs.includes(landed) || !textNamed(landed)) continue
+      if (textIn(change, landed) === null) continue
       outs.push(landed)
+      if (held.has(landed)) continue
+      held.add(landed)
+      ahead.push(landed)
     }
     found.set(path, outs)
   }
@@ -116,9 +138,11 @@ export function reasonFor(at: string, held: readonly string[]): string {
   return `sits in a cycle reaching ${first}${rest} — ${ITSELF}`
 }
 
-function refusalsIn(change: Change): readonly Judged[] {
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
+  const carried = new Set(change.changed)
   const said: Judged[] = []
-  for (const held of cyclesIn(reachingIn(change))) {
+  for (const held of cyclesIn(reachingIn(change, shadow.index.importersOf))) {
+    if (!held.some((one) => carried.has(one))) continue
     for (const path of held) said.push({ path, reason: reasonFor(path, held) })
   }
   return said.sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))

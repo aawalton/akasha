@@ -18,7 +18,11 @@ export const noImportCycle = {
     },
     {
       invariantKind: "departure",
-      statement: "This check runs at audit alone.",
+      statement: "A file outside the change is read where an importer reaches that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a cycle holding a file the change carries is refused.",
     },
     {
       invariantKind: "departure",
