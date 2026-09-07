@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./email-command-reading": "./commands/email-command-reading/email-command-reading.module.code.ts",
     "./env": "./gmail-credentials/gmail-credentials.module.code.ts",
     "./auth": "./gmail-auth/gmail-auth.module.code.ts",
     "./client": "./gmail-client/gmail-client.module.code.ts",
