@@ -11,6 +11,19 @@ index ac734644bf5d7e92cc324b340b0d662dc82d8a02..f2703617a830cdfd89095dfd43adaf8c
    scaleSlug: "capacity-hours",
    groupSlugs: ["upkeep"],
    wireKey: "capacity",
+diff --git a/readout-system/readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts b/readout-system/readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts
+index 437af1d4212c1f5c9a9616a5befef73497c91476..ddd2c97bfe772148ac7900b3c3e8caf5a2f2a37f 100644
+--- a/readout-system/readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts
++++ b/readout-system/readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts
+@@ -10,7 +10,7 @@ export const upkeepSleep = {
+   label: "Sleep",
+   unit: "hours",
+   place: 6,
+-  figureFormat: "decimal",
++  figureFormat: "integer",
+   scaleSlug: "sleep-hours",
+   groupSlugs: ["upkeep"],
+   wireKey: "sleep",
 diff --git a/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts b/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts
 index 6202f3331c9ad01ba5cc5f63c3bea6f848aed0c4..5598d22e8412a2ea7c9cddc63b2810cc3fd07a6f 100644
 --- a/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts
