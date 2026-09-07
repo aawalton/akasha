@@ -9,7 +9,7 @@ import {
   shadowOnto,
 } from "../../../pages/shadow/shadow.module.code.ts"
 import type { Changes } from "../../runners/pages/change-running/change-running.change-runner.addressed.ts"
-import { gathered, refusing } from "../change-answer/change-answer.module.code.ts"
+import { gathered, refusing, sameEdit } from "../change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../change-answer/change-answer.module.types.ts"
 
 const BYTES = new TextEncoder()
@@ -165,9 +165,9 @@ export function ledgerAt(
 export function statedIn(kept: Kept, edit: Edit): boolean {
   const before = kept.stated.get(edit.path)
   if (before === undefined) return false
-  return before.some(
-    (one) => one.was === edit.was && one.body === edit.body && one.from === edit.from
-  )
+  if (before.some((one) => sameEdit(one, edit))) return true
+  const last = before[before.length - 1]
+  return last !== undefined && last.body === edit.body && last.from === edit.from
 }
 
 export function addedTo(ledger: Ledger, said: Answer): Ledger {

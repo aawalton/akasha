@@ -167,6 +167,11 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
+        "An edit leaving a path where the edit added last left that path is added no second time.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A reach inside a change states an edit the reach around that change states again.",
     },
   ],
