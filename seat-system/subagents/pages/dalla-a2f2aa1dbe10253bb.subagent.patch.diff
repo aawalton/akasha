@@ -1,0 +1,20 @@
+writerOwesReading: false
+diff --git a/changes/checked/pages/remove-file/remove-file.change-checked.test-fixtures.ts b/changes/checked/pages/remove-file/remove-file.change-checked.test-fixtures.ts
+deleted file mode 100644
+index af44f0e93494096590a355c14a73ee17724bb4ce..0000000000000000000000000000000000000000
+--- a/changes/checked/pages/remove-file/remove-file.change-checked.test-fixtures.ts
++++ /dev/null
+@@ -1 +0,0 @@
+-export const REMOVE_FILE_PROVING_BODY = "a body standing to prove the change taking a file away"
+diff --git a/changes/checked/pages/remove-file/remove-file.change-checked.ts b/changes/checked/pages/remove-file/remove-file.change-checked.ts
+index ed7a6a099340dabfbf442bf1cb7f42791ce5df88..7b920c114c40b35de08d1811cf78fd3f5e3d2793 100644
+--- a/changes/checked/pages/remove-file/remove-file.change-checked.ts
++++ b/changes/checked/pages/remove-file/remove-file.change-checked.ts
+@@ -7,7 +7,6 @@ export const removeFile = {
+   definition: "one file taken away, judged by the checks a landing runs",
+   code: "ts",
+   test: "ts",
+-  testFixtures: "ts",
+   runsChecks: true,
+   readersOweReading: false,
+   writerOwesReading: false,
