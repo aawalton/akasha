@@ -1,0 +1,326 @@
+writerOwesReading: false
+diff --git a/changes/modules/change-answer/change-answer.module.types.ts b/changes/modules/change-answer/change-answer.module.types.ts
+index ab83ce1bd0b2cd07f2a9716c894e4d0c4e925a23..374960228ee0a6bf63f6fa99066df6d1fc3df2ac 100644
+--- a/changes/modules/change-answer/change-answer.module.types.ts
++++ b/changes/modules/change-answer/change-answer.module.types.ts
+@@ -4,6 +4,7 @@ export type Edit = {
+   readonly body: string | null
+   readonly from?: string
+   readonly readersOweReading?: boolean
++  readonly writerOwesReading?: boolean
+ }
+ 
+ export type Answer = {
+diff --git a/changes/modules/change-shadow/change-shadow.module.code.ts b/changes/modules/change-shadow/change-shadow.module.code.ts
+index b76e6a9dccce7be45568277617fc12997bf935cc..4be3c24bd1e40d5cd4340a588a5865b0ac298ae8 100644
+--- a/changes/modules/change-shadow/change-shadow.module.code.ts
++++ b/changes/modules/change-shadow/change-shadow.module.code.ts
+@@ -37,7 +37,7 @@ export async function reach(world: World, at: string, given: unknown): Promise<R
+   return { said, world: worldOver(world, said) }
+ }
+ 
+-function bytesOf(body: string | null): Uint8Array | null {
++export function bytesOf(body: string | null): Uint8Array | null {
+   return body === null ? null : BYTES.encode(body)
+ }
+ 
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.code.ts b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+index d2ef42491a071a67c323e73b909d7b33ba1959c4..ee2a2415b15e1ab41bb2606d0dbda643d2418b1c 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.code.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+@@ -31,18 +31,23 @@ export function keptAt(page: string): string | null {
+ 
+ function edited(said: unknown): Edit | null {
+   if (typeof said !== "object" || said === null) return null
+-  const { path, was, body, from, readersOweReading } = said as Record<string, unknown>
++  const { path, was, body, from, readersOweReading, writerOwesReading } = said as Record<
++    string,
++    unknown
++  >
+   if (typeof path !== "string") return null
+   if (was !== null && typeof was !== "string") return null
+   if (body !== null && typeof body !== "string") return null
+   if (from !== undefined && typeof from !== "string") return null
+   if (readersOweReading !== undefined && typeof readersOweReading !== "boolean") return null
++  if (writerOwesReading !== undefined && typeof writerOwesReading !== "boolean") return null
+   return {
+     path,
+     was,
+     body,
+     ...(from === undefined ? {} : { from }),
+     ...(readersOweReading === undefined ? {} : { readersOweReading }),
++    ...(writerOwesReading === undefined ? {} : { writerOwesReading }),
+   }
+ }
+ 
+diff --git a/command-system/commands/apply/apply.command.code.ts b/command-system/commands/apply/apply.command.code.ts
+index 6a76f94c286c5504269bfffe5b5535adbaf763d4..0df53a67cd192dac3e56c600687c4541f84b299a 100644
+--- a/command-system/commands/apply/apply.command.code.ts
++++ b/command-system/commands/apply/apply.command.code.ts
+@@ -1,7 +1,8 @@
+ import { patchIn } from "@akasha/agents/patch-keeping"
+ import { formattedBody } from "@akasha/code/code-format"
+-import { agentPathOf } from "@akasha/context/warranting"
++import { agentPathOf, changingOf, owedIn } from "@akasha/context/warranting"
+ import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
++import { bytesOf } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
+ import {
+   editsAt,
+   foldedIn,
+@@ -39,10 +40,6 @@ export type Folded =
+     }
+   | { readonly refusals: readonly string[] }
+ 
+-function bytesOf(body: string | null): Uint8Array | null {
+-  return body === null ? null : BYTES.encode(body)
+-}
+-
+ export function formattedEdits(root: string, rows: readonly Edit[]): readonly Edit[] {
+   return rows.map((one) => {
+     if (one.body === null) return one
+@@ -104,6 +101,22 @@ export function folding(root: string, page: string): Folded {
+   return "why" in kept ? { refusals: [kept.why] } : answer
+ }
+ 
++export function unwarranted(
++  root: string,
++  agentId: string | null,
++  rows: readonly Edit[]
++): readonly string[] {
++  const owing = rows.filter((one) => one.writerOwesReading !== false)
++  if (owing.length === 0) return []
++  const edits = editsFor(formattedEdits(root, owing))
++  return owedIn(
++    root,
++    agentId,
++    edits.map((one) => one.path),
++    changingOf(root, edits)
++  )
++}
++
+ async function refusedBefore(root: string, page: string): Promise<readonly string[]> {
+   const kept = keptEdits(root, page, (had) => had)
+   if ("why" in kept) return [kept.why]
+@@ -130,6 +143,10 @@ export async function apply(argv: readonly string[], given: Given): Promise<Answ
+   if (unknown.length > 0) return mistaking(unknown)
+   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
+   if (page === null || editsAt(page) === null) return mistaking([NO_PAGE])
++  const held = keptEdits(given.root, page, (had) => had)
++  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
++  const owing = unwarranted(given.root, given.agentId, held.rows)
++  if (owing.length > 0) return { report: [], refusals: owing, code: 3 }
+   if (!argv.includes(BREAK_GLASS)) {
+     const refused = await refusedBefore(given.root, page)
+     if (refused.length > 0) return { report: [], refusals: refused, code: 3 }
+diff --git a/command-system/commands/change/change.command.code.ts b/command-system/commands/change/change.command.code.ts
+index 6f1107cf25b6109f924926e28932231f5a1d98ae..0b0ea7d7709a6607b959e31e12b55cdc18802447 100644
+--- a/command-system/commands/change/change.command.code.ts
++++ b/command-system/commands/change/change.command.code.ts
+@@ -72,6 +72,8 @@ const DEFINITION = "definition"
+ 
+ const READERS_OWE_READING = "readersOweReading"
+ 
++const WRITER_OWES_READING = "writerOwesReading"
++
+ const DROPPED = "these edits are gone, and no apply lands them"
+ 
+ const NOTHING_KEPT = "no edits are kept beside this agent's page, so nothing went"
+@@ -190,10 +192,18 @@ export function owedBy(value: Value | null): boolean {
+   return value === null || value[READERS_OWE_READING] !== false
+ }
+ 
+-export function stamped(said: Said, owed: boolean): Said {
+-  if (owed) return said
++export function owingBy(value: Value | null): boolean {
++  return value === null || value[WRITER_OWES_READING] !== false
++}
++
++export function stamped(said: Said, owed: boolean, owing: boolean): Said {
++  if (owed && owing) return said
+   return {
+-    edits: said.edits.map((one) => ({ ...one, readersOweReading: false })),
++    edits: said.edits.map((one) => ({
++      ...one,
++      ...(owed ? {} : { readersOweReading: false }),
++      ...(owing ? {} : { writerOwesReading: false }),
++    })),
+     refused: said.refused,
+   }
+ }
+@@ -292,12 +302,14 @@ export async function changing(
+   const loaded = await loading(world, `${type}/${slug}`)
+   if (typeof loaded === "string") return mistaking([loaded, DROP_SAID])
+   const held: Loaded = loaded
+-  const owed = owedBy(world.index.pageAt(type, slug))
++  const value = world.index.pageAt(type, slug)
++  const owed = owedBy(value)
++  const owing = owingBy(value)
+   const message = asked.message
+   const answered = await appending(
+     root,
+     page,
+-    async (one) => stamped(await ranBy(one, held, asked.given), owed),
++    async (one) => stamped(await ranBy(one, held, asked.given), owed, owing),
+     message !== null
+   )
+   if (message === null || answered.code !== 0) return answered
+diff --git a/command-system/commands/change/change.command.test.ts b/command-system/commands/change/change.command.test.ts
+index 1f4734769ae6f985f94bdf6f5cd43d123af5e6ad..8e1439cdce2275520ee26172a64492fd3b917529 100644
+--- a/command-system/commands/change/change.command.test.ts
++++ b/command-system/commands/change/change.command.test.ts
+@@ -15,7 +15,14 @@ import {
+   loadedAt,
+ } from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
+ import type { Piping } from "../../piping/piping.module.code.ts"
+-import { type Applying, changing, editsFor, owedBy, stamped } from "./change.command.code.ts"
++import {
++  type Applying,
++  changing,
++  editsFor,
++  owedBy,
++  owingBy,
++  stamped,
++} from "./change.command.code.ts"
+ 
+ afterAll(scratch.sweep)
+ 
+@@ -295,7 +302,8 @@ test("a change page saying nothing there leaves its readers owing the reading",
+ test("a change owing its readers no reading stamps that on every edit it answers", () => {
+   const said = stamped(
+     { edits: [{ path: "a/b.ts", was: null, body: "held" }], refused: null },
+-    false
++    false,
++    true
+   )
+ 
+   expect(said.edits).toEqual([
+@@ -303,9 +311,28 @@ test("a change owing its readers no reading stamps that on every edit it answers
+   ])
+ })
+ 
++test("a change whose writer owes no reading stamps that on every edit it answers", () => {
++  const said = stamped(
++    { edits: [{ path: "a/b.ts", was: null, body: "held" }], refused: null },
++    true,
++    false
++  )
++
++  expect(said.edits).toEqual([
++    { path: "a/b.ts", was: null, body: "held", writerOwesReading: false },
++  ])
++})
++
++test("a change page saying its writer owes no reading is read as saying so", () => {
++  expect(owingBy({ slug: "add-file", writerOwesReading: false })).toBe(false)
++  expect(owingBy({ slug: "add-file", writerOwesReading: true })).toBe(true)
++  expect(owingBy(null)).toBe(true)
++})
++
+ test("a change owing its readers reading stamps nothing on the edits it answers", () => {
+   const said = stamped(
+     { edits: [{ path: "a/b.ts", was: null, body: "held" }], refused: null },
++    true,
+     true
+   )
+ 
+diff --git a/command-system/commands/edit/edit.command.code.ts b/command-system/commands/edit/edit.command.code.ts
+index 9d0d50d4a51ea362a46cb168399806ced0db4576..341ead4f2815c2092d13dec65228ec5a8bc5f5a1 100644
+--- a/command-system/commands/edit/edit.command.code.ts
++++ b/command-system/commands/edit/edit.command.code.ts
+@@ -146,14 +146,14 @@ type Askings = { readonly asking: readonly Asking[] } | { readonly refusals: rea
+ function askingIn(read: Read, given: Given, piping: Piping): Askings {
+   if (read.asking.length === 0 && read.wanting === null) return { asking: [] }
+   const held = pipedIn(piping, read.wanting, {
+-    bare: (path) =>
+-      `${FILE_PATH} ${path} states no ${OLD_FILE}, so its passages are read from the input,` +
++    bare: (at) =>
++      `${FILE_PATH} ${at} states no ${OLD_FILE}, so its passages are read from the input,` +
+       ` and nothing is piped in — say it as` +
+-      ` \`${given.calledAs} ${FILE_PATH} ${path} ${MESSAGE} <text> <<'EOF'\`, then` +
++      ` \`${given.calledAs} ${FILE_PATH} ${at} ${MESSAGE} <text> <<'EOF'\`, then` +
+       ` \`${MARK_OLD}\`, the passage, \`${MARK_SPLIT}\`, what it becomes, \`${MARK_NEW}\`,` +
+       " then `EOF` on a line of its own",
+-    opening: (path, why) =>
+-      `the passages for ${path} are read from the input, and the input would not open — ${why}`,
++    opening: (at, why) =>
++      `the passages for ${at} are read from the input, and the input would not open — ${why}`,
+   })
+   if ("refusals" in held) return { refusals: held.refusals }
+   const path = read.wanting
+@@ -284,7 +284,7 @@ export function askedWith(argv: readonly string[], given: Given, piping: Piping)
+   changes.push(...removing.changes)
+   mistaken.push(...removing.mistaken)
+   wrong.push(...removing.wrong)
+-  wrong.push(...unwarrantedIn(given, glass.glass, changes))
++  wrong.push(...unwarrantedIn(given, changes))
+   wrong.push(...unrestatedFor(given, changes))
+   changes.push(...besideTaken(given, removing.base, removing.taken, seen))
+   const troubled = troubling({ mistaken, wrong })
+diff --git a/command-system/commands/replace/replace.command.code.ts b/command-system/commands/replace/replace.command.code.ts
+index f282c9dfd22ce892ca0a2c33717ffac4ac620ffb..5b7877aa02ed6966322e172decfc4e229f96c374 100644
+--- a/command-system/commands/replace/replace.command.code.ts
++++ b/command-system/commands/replace/replace.command.code.ts
+@@ -23,6 +23,7 @@ import {
+   passagesIn,
+   pipedIn,
+ } from "../../piping/piping.module.code.ts"
++import { counted as countedIn } from "../edit/edit.command.code.ts"
+ import {
+   barredIn,
+   defaultMessage,
+@@ -62,16 +63,6 @@ type Counting = {
+   readonly found: number
+ }
+ 
+-export function countedIn(body: string, said: string): number {
+-  let found = 0
+-  let at = body.indexOf(said)
+-  while (at !== -1) {
+-    found += 1
+-    at = body.indexOf(said, at + said.length)
+-  }
+-  return found
+-}
+-
+ export function replacedIn(body: string, said: string, put: string): string {
+   return body.split(said).join(put)
+ }
+@@ -250,9 +241,7 @@ export async function replacing(
+   }
+   const dry = argv.includes(DRY_RUN)
+   const held = working(given, named.paths, reading.passage, dry)
+-  const wrong = dry
+-    ? held.wrong
+-    : [...held.wrong, ...unwarrantedIn(given, glass.glass, held.changes)]
++  const wrong = dry ? held.wrong : [...held.wrong, ...unwarrantedIn(given, held.changes)]
+   const troubled = troubling({ mistaken: held.mistaken, wrong })
+   if (troubled !== null) return troubled
+   if (dry) return reporting(held.counting)
+diff --git a/command-system/commands/write/write.command.code.ts b/command-system/commands/write/write.command.code.ts
+index 9ff4c61c558976fa445455d72327bdd95f1a76b8..5e306ca7005f73e97919cb839faa2c9ea0aa13d8 100644
+--- a/command-system/commands/write/write.command.code.ts
++++ b/command-system/commands/write/write.command.code.ts
+@@ -43,13 +43,8 @@ export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, B
+ 
+ const BARE: readonly string[] = [RESTATED]
+ 
+-export function unwarrantedIn(
+-  given: Given,
+-  glass: string | null,
+-  changes: readonly FileEdit[]
+-): readonly string[] {
++export function unwarrantedIn(given: Given, changes: readonly FileEdit[]): readonly string[] {
+   if (given.changeKind?.writerOwesReading === false) return []
+-  if (glass !== null) return []
+   return owedIn(
+     given.root,
+     given.agentId,
+@@ -428,7 +423,7 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping):
+   changes.push(...removing.changes)
+   mistaken.push(...removing.mistaken)
+   wrong.push(...removing.wrong)
+-  wrong.push(...unwarrantedIn(given, glass.glass, changes))
++  wrong.push(...unwarrantedIn(given, changes))
+   wrong.push(...unrestatedFor(given, changes))
+   changes.push(...besideTaken(given, removing.base, removing.taken, seen))
+   const troubled = troubling({ mistaken, wrong })
