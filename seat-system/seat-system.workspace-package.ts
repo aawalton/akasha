@@ -116,7 +116,6 @@ export const seatSystem = {
     "domain/seat-capability",
     "domain/seat-declaration",
     "domain/seat-observation",
-    "command/seat-refresh-settings",
     "command/shell-init-bash",
     "module/channel-delivery",
     "module/compose-notices",

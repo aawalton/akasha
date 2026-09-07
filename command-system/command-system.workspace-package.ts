@@ -61,6 +61,7 @@ export const commandSystem = {
     "module/commands-served",
     "module/command-server",
     "module/orphaning",
+    "module/seat-act-calling",
   ],
   invariants: [
     {
