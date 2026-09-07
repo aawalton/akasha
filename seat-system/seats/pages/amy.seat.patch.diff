@@ -1,3 +1,17 @@
+diff --git a/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.swift.swift b/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.swift.swift
+index b7a663d45606a0d7417b509301fc0479337588e3..66591cd19101f762feccd4606fe5127f793972a3 100644
+--- a/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.swift.swift
++++ b/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.swift.swift
+@@ -16,7 +16,8 @@ struct StoplightRing: View {
+     private static let lineHeightFactor = 1.2
+ 
+     private var arc: (tier: Tier, progress: Double)? {
+-        guard let nextTier = nextTier, let progress = progress, progress > 0 else { return nil }
++        guard let nextTier = nextTier, let progress = progress, progress > 0, progress < 1
++        else { return nil }
+         return (nextTier, progress)
+     }
+ 
 diff --git a/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts b/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts
 index ac734644bf5d7e92cc324b340b0d662dc82d8a02..f2703617a830cdfd89095dfd43adaf8cd310f02b 100644
 --- a/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts
