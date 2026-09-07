@@ -1,0 +1,29 @@
+writerOwesReading: false
+diff --git a/readout-system/readout-groups/pages/attributes.readout-group.ts b/readout-system/readout-groups/pages/attributes.readout-group.ts
+index 737fc23f74551e5eeaa15db167a337d92974d0b2..7b456d46419c5c86997cf6e1d333aaf85a96a9ba 100644
+--- a/readout-system/readout-groups/pages/attributes.readout-group.ts
++++ b/readout-system/readout-groups/pages/attributes.readout-group.ts
+@@ -14,4 +14,11 @@ export const attributes = {
+     "readout/attribute-charisma",
+   ],
+   sortOrder: "place",
++  figureOffScale: true,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An attribute under its first rung draws its figure.",
++    },
++  ],
+ } as const satisfies ReadoutGroup
+diff --git a/readout-system/readout-groups/readout-group.page-type.ts b/readout-system/readout-groups/readout-group.page-type.ts
+index 4e69d2f0f3af276e7f76583e74c37032f6e16fc7..85dbcf3cec2ff87ee88f300336be2b93878e512a 100644
+--- a/readout-system/readout-groups/readout-group.page-type.ts
++++ b/readout-system/readout-groups/readout-group.page-type.ts
+@@ -35,6 +35,7 @@ export const readoutGroup = {
+       many: false,
+       default: "label",
+     },
++    { pagePropertySlug: "boolean-property/figure-off-scale", required: false, many: false },
+   ],
+   invariants: [
+     {
