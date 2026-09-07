@@ -3,7 +3,7 @@ import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { seededWorld } from "@akasha/service-system/web-app-reading/testing"
 import { said } from "@akasha/utils-run/running"
-import { given } from "../deploy.command.test-fixtures.ts"
+import { given } from "../../../../commands/pages/deploy/deploy.command.test-fixtures.ts"
 import { putUpWebApp } from "./deploy-web-putting-up.module.code.ts"
 
 const WORLD = seededWorld()
