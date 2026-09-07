@@ -210,7 +210,7 @@ test("the key the caller names carries a stoplight that carries no figure too", 
   expect(await keysAnswered()).toContain("habit")
 })
 
-test("a readout whose page states no format has its reading answered as that number", async () => {
+test("a reading under ten keeps one decimal place", async () => {
   relayedFor(READOUT, 2.5)
   expect((await stoplights())[0]?.reading).toBe("2.5")
   dropRelayed()
@@ -218,10 +218,10 @@ test("a readout whose page states no format has its reading answered as that num
   expect((await stoplights())[0]?.reading).toBe("-1.5")
 })
 
-test("the reading answered is written the way the readout's own page states", async () => {
+test("the format a readout states decides nothing about how its figure is written", async () => {
   ANSWERED.readouts = [{ ...READOUT_ROW, figureFormat: "decimal" }]
   relayedFor(READOUT, -0.008333333333334636)
-  expect((await stoplights())[0]?.reading).toBe("-0.01")
+  expect((await stoplights())[0]?.reading).toBe("-0.0084")
 })
 
 test("a reading is never answered as the whole tail of the float it was added up from", async () => {
@@ -229,7 +229,7 @@ test("a reading is never answered as the whole tail of the float it was added up
   relayedFor(READOUT, 2.6666666666666665)
   const said = (await stoplights())[0]?.reading ?? ""
   expect(said.length).toBeLessThanOrEqual(6)
-  expect(said).toBe("2.67")
+  expect(said).toBe("2.6")
 })
 
 test("a reading below every rung is black rather than left out", async () => {
