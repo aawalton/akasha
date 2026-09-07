@@ -23,3 +23,18 @@ index dceb763180d92530b22c277d80d25ca557cf5ab4..16aeef33b476b6e1f1ccbd5a43b16770
    const source = parsedAs(path, text)
    const found: Spelt[] = []
    const walk = (node: ts.Node): undefined => {
+diff --git a/code-system/code-rule/code-rule.module.ts b/code-system/code-rule/code-rule.module.ts
+index ddbf188b87eb97c4645ea3eaf8c332578cbbe4ce..1cf8793e874c09bbd32ebb1bb5c86bf320aa916e 100644
+--- a/code-system/code-rule/code-rule.module.ts
++++ b/code-system/code-rule/code-rule.module.ts
+@@ -41,6 +41,10 @@ export const codeRule = {
+       invariantKind: "departure",
+       statement: "The source is parsed with parent links.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A body spelling neither `function` nor `=>` is answered without a parse.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
