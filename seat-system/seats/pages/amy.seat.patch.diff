@@ -1,3 +1,16 @@
+diff --git a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts b/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
+index 921cce4157831c970db0896e22334452c2a4b295..729585c598ee75b5a358b0fbf957b81e08a76b8a 100644
+--- a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
++++ b/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
+@@ -14,7 +14,7 @@ export const completions = {
+     { pagePropertySlug: "text-property/title", required: false, many: false },
+     { pagePropertySlug: "text-property/character", required: false, many: false },
+     { pagePropertySlug: "text-property/eso-character-id", required: false, many: false },
+-    { pagePropertySlug: "text-property/due-date", required: false, many: false },
++    { pagePropertySlug: "calendar-date-property/due-date", required: false, many: false },
+     { pagePropertySlug: "text-property/completion-card-id", required: false, many: false },
+     {
+       pagePropertySlug: "text-property/completion-item-path",
 diff --git a/temper/temper-progress/progress-things/properties/due-date.calendar-date-property.ts b/temper/temper-progress/progress-things/properties/due-date.calendar-date-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..cb5a803bd5948a199f60f71fb17312ce069b5bb6
