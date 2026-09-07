@@ -85,7 +85,7 @@ export async function applying(
   given: Given,
   page: string,
   argv: readonly string[],
-  carried: Carried | null = null
+  carried: Carried | null
 ): Promise<Applying> {
   const unknown = unknownIn(argv, APPLYING, BARE)
   if (unknown.length > 0) return notLanded(mistaking(unknown))

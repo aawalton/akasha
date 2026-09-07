@@ -1,6 +1,6 @@
 import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { agentPathOf } from "@akasha/context/warranting"
-import { applying, type Carried, noneSaid } from "../../applying/applying.module.code.ts"
+import { noneSaid } from "../../applying/applying.module.code.ts"
 import {
   counted,
   formattingIn,
@@ -21,11 +21,9 @@ import {
   droppedAt,
   droppedPatch,
   headOf,
-  heldIn,
   type Rebased,
   rebasedOnto,
   resolved,
-  runningIn,
   wouldHold,
 } from "../../drafting/drafting.module.code.ts"
 import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
@@ -37,15 +35,13 @@ import type { Piping } from "../../piping/piping.module.code.ts"
 import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
 import { offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
 
-export const APPLY = "apply"
-
 export const DROP = "drop"
 
 export const SHOW = "show"
 
 export const RESOLVE = "resolve"
 
-const ACTS = [APPLY, DROP, SHOW, RESOLVE]
+const ACTS = [DROP, SHOW, RESOLVE]
 
 const SHOWING = [FILE_PATH]
 
@@ -290,11 +286,6 @@ export async function resolving(
   }
 }
 
-function carriedIn(root: string, page: string): Carried | null {
-  const text = patchIn(root, page)
-  return text === null ? null : { held: heldIn(root, text), running: runningIn(text) }
-}
-
 export async function patching(
   argv: readonly string[],
   given: Given,
@@ -312,8 +303,7 @@ export async function patching(
   if (act === undefined) return showing(given.root, page)
   if (act === DROP) return dropping(given.root, page, rest)
   if (act === SHOW) return showingBody(given.root, page, rest)
-  if (act === RESOLVE) return await resolving(given, page, rest, piping)
-  return await applying(given, page, rest, carriedIn(given.root, page))
+  return await resolving(given, page, rest, piping)
 }
 
 export function patch(argv: readonly string[], given: Given): Promise<Answer> {

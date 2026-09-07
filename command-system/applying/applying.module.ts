@@ -27,12 +27,7 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "An apply handed no bodies reads the bodies off the patch.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Bodies handed in are rebased onto the commit at HEAD as a patch read off disk is.",
+      statement: "An apply handed no bodies refuses rather than reading a patch off disk.",
     },
     {
       invariantKind: "departure",
