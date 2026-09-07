@@ -141,3 +141,21 @@ index 8cdf51852d37077566c184c73e4548bf04161753..c198bacf2d760790238b7fb66fefdf42
    const { created } = await resolveOrCreateDaily(null, day)
    const landed = await landDayPage("patch", day, attrs, INBOX_WRITER)
    if (!landed.ok) throw new Error(`writing ${DAILY_TRACKING} for ${day}: ${landed.why}`)
+diff --git a/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.ts b/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.ts
+index 0808be3ab04a639dc84d7a74f5ecd871b4a51235..66a93fb97b10af8695ccfba64774355d99ad3e64 100644
+--- a/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.ts
++++ b/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.ts
+@@ -36,5 +36,13 @@ export const inboxCountWriting = {
+       invariantKind: "departure",
+       statement: "A read or a write that fails ends the run rather than answering half a reading.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Counts the day already carries are not landed again.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A count already on the day is read as the number that count spells.",
++    },
+   ],
+ } as const satisfies Module
