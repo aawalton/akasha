@@ -1,6 +1,7 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
+import type { Bodyweight } from "../../../../person-system/people/properties/bodyweight.number-property.ts"
 import type { ActiveCalories } from "./properties/active-calories.number-property.ts"
 import type { BreathingPoints } from "./properties/breathing-points.number-property.ts"
 import type { CardioPoints } from "./properties/cardio-points.number-property.ts"
@@ -60,6 +61,7 @@ export type WakeDay = Page & {
   nutritionPoints?: NutritionPoints
   breathingPoints?: BreathingPoints
   activeCalories?: ActiveCalories
+  bodyweight?: Bodyweight
   wisdomWords?: WisdomWords
   intelligenceTopics?: IntelligenceTopics
   spannedFromDayBoundary?: SpannedFromDayBoundary
@@ -168,6 +170,7 @@ export const wakeDay = {
     { pagePropertySlug: "number-property/nutrition-points", required: false, many: false },
     { pagePropertySlug: "number-property/breathing-points", required: false, many: false },
     { pagePropertySlug: "number-property/active-calories", required: false, many: false },
+    { pagePropertySlug: "number-property/bodyweight", required: false, many: false },
     { pagePropertySlug: "number-property/wisdom-words", required: false, many: false },
     { pagePropertySlug: "number-property/intelligence-topics", required: false, many: false },
     {

@@ -9,6 +9,7 @@ const DAILY_TRACKING_VERSION = "3.0"
 
 const DAY_KEY_OF: Readonly<Record<string, string>> = {
   activeCalories: "active-calories",
+  bodyweight: "bodyweight",
   sleepPoints: "sleep-points",
   nutritionPoints: "nutrition-points",
   taskPoints: "task-points",

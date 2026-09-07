@@ -7,12 +7,17 @@ export const bodyweight = {
   pageTypeSlug: "number-property",
   slug: "bodyweight",
   propertySlug: "bodyweight",
-  definition: "what a person's body weighs, in pounds",
+  definition: "what a body weighs, in pounds",
   max: null,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The weight is read off the person's page rather than handed in by a caller.",
+      statement:
+        "A person carries the weight last measured and a day the weight measured that day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The weight a movement is counted against is read off the person's page.",
     },
     {
       invariantKind: "departure",

@@ -5,5 +5,10 @@ export const track = {
   pageTypeSlug: "namespace",
   slug: "track",
   definition: "what one of Alan's days held, written down",
-  partSlugs: ["namespace/track-session", "command/track-health-import", "namespace/track-workout"],
+  partSlugs: [
+    "namespace/track-session",
+    "command/track-health-import",
+    "command/track-weight",
+    "namespace/track-workout",
+  ],
 } as const satisfies Namespace
