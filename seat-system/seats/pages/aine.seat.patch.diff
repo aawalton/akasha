@@ -1,0 +1,88 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/pages/add-file/add-file.change-mechanical.test.ts b/changes/mechanical/pages/add-file/add-file.change-mechanical.test.ts
+index d1a62b12e9a57687f63036e25b75c2cd5aea5b2c..bac0a1451c37639e18e5dbf45fe55257d5f47673 100644
+--- a/changes/mechanical/pages/add-file/add-file.change-mechanical.test.ts
++++ b/changes/mechanical/pages/add-file/add-file.change-mechanical.test.ts
+@@ -1,21 +1,9 @@
+ import { expect, test } from "bun:test"
+-import {
+-  NOTHING_OVER,
+-  type World,
+-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { worldOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+ import { addFile } from "./add-file.change-mechanical.code.ts"
+ 
+ const AT = "akasha/one.held.ts"
+ 
+-function worldOf(held: Readonly<Record<string, string>>): World {
+-  return {
+-    root: "/nowhere",
+-    index: {} as World["index"],
+-    textOf: (path) => held[path] ?? null,
+-    over: NOTHING_OVER,
+-  }
+-}
+-
+ test("a path holding no body is answered as one edit adding that body", () => {
+   const said = addFile(worldOf({}), { at: AT, body: "alpha\n" })
+ 
+diff --git a/changes/mechanical/pages/change-file/change-file.change-mechanical.test.ts b/changes/mechanical/pages/change-file/change-file.change-mechanical.test.ts
+index 69939a42d1dbd4ef894ea07599d8b44d561f3275..e02e8c3e40e1be88e8c5f51e51491d0da7c1b133 100644
+--- a/changes/mechanical/pages/change-file/change-file.change-mechanical.test.ts
++++ b/changes/mechanical/pages/change-file/change-file.change-mechanical.test.ts
+@@ -1,21 +1,9 @@
+ import { expect, test } from "bun:test"
+-import {
+-  NOTHING_OVER,
+-  type World,
+-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { worldOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+ import { changeFile } from "./change-file.change-mechanical.code.ts"
+ 
+ const AT = "akasha/one.held.ts"
+ 
+-function worldOf(held: Readonly<Record<string, string>>): World {
+-  return {
+-    root: "/nowhere",
+-    index: {} as World["index"],
+-    textOf: (path) => held[path] ?? null,
+-    over: NOTHING_OVER,
+-  }
+-}
+-
+ test("a passage the body holds once is answered as one edit holding the body after", () => {
+   const said = changeFile(worldOf({ [AT]: "one two three\n" }), {
+     at: AT,
+diff --git a/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts b/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..31d6dd7680ba30dbeba276ec33204e6e57e94193
+--- /dev/null
++++ b/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts
+@@ -0,0 +1,10 @@
++import { NOTHING_OVER, type World } from "./change-shadow.module.code.ts"
++
++export function worldOf(held: Readonly<Record<string, string>>): World {
++  return {
++    root: "/nowhere",
++    index: {} as World["index"],
++    textOf: (path) => held[path] ?? null,
++    over: NOTHING_OVER,
++  }
++}
+diff --git a/changes/modules/change-shadow/change-shadow.module.ts b/changes/modules/change-shadow/change-shadow.module.ts
+index 2b33ec5edcfb563b8fac4ccc382bba5ad69717d9..738c9ec9a0f84b731916a5496477f4534303dfb6 100644
+--- a/changes/modules/change-shadow/change-shadow.module.ts
++++ b/changes/modules/change-shadow/change-shadow.module.ts
+@@ -7,7 +7,12 @@ export const changeShadow = {
+   definition: "the files and index as the answer a change gives would leave both",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A world over bodies held in memory is built here rather than by each test.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "An answer is cast as the change shape the shadow already reads.",
