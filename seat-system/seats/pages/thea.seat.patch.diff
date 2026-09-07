@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/pages/indexes/property-carrying/property-carrying.module.code.ts b/pages/indexes/property-carrying/property-carrying.module.code.ts
-index 31918d32cc69664824f2e163a997f4d80cf21d89..f058025bfd6ea4d329ef1c9ccd4a04f9a1c2326d 100644
+index 31918d32cc69664824f2e163a997f4d80cf21d89..bb248084f2d910740b8a2ad2c358ae00099bb3bb 100644
 --- a/pages/indexes/property-carrying/property-carrying.module.code.ts
 +++ b/pages/indexes/property-carrying/property-carrying.module.code.ts
 @@ -1,5 +1,5 @@
@@ -11,3 +11,14 @@ index 31918d32cc69664824f2e163a997f4d80cf21d89..f058025bfd6ea4d329ef1c9ccd4a04f9
  import type { Value } from "@akasha/pages/page-value"
  import {
    everyOfType,
+@@ -26,6 +26,10 @@ const NAMED_FILE_PROPERTY = "named-file-property"
+ 
+ const MACHINE_WRITTEN = "machineWritten"
+ 
++const FILE_PROPERTY = "file-property"
++
++const PROPERTY_SLUG = "propertySlug"
++
+ export type Carrying = {
+   readonly pageTypeSlug: string
+   readonly path: string
