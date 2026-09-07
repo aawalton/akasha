@@ -22,8 +22,11 @@ export const liveStoreWriteGuard = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The root a write is going to is not itself guarded, only the roots that root is read against.",
+      statement: "The root a write is going to is not itself guarded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The roots that root is read against are guarded.",
     },
   ],
 } as const satisfies Module
