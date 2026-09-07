@@ -13,7 +13,7 @@ export const seatTranscriptPath = {
     },
     {
       invariantKind: "departure",
-      statement: "A path is taken as given, with no check on its shape.",
+      statement: "A path is taken as given with no check on its shape.",
     },
     {
       invariantKind: "departure",
