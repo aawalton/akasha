@@ -230,7 +230,7 @@ export const pagesRepo = (): string =>
 
 export const filedFor = (id: string): readonly string[] => [
   `identity/page/id/${id}.jsonl`,
-  "identity/domain/slug/a.jsonl",
+  "identity/page-type/domain/slug/a.jsonl",
   "path/akasha/a.domain.ts.jsonl",
 ]
 
