@@ -1349,7 +1349,7 @@
       },
     },
     "personas": {
-      "name": "@akasha/persona-system",
+      "name": "@akasha/personas",
       "dependencies": {
         "@akasha/pages": "workspace:*",
       },
@@ -3219,7 +3219,7 @@
 
     "@akasha/pages-url": ["@akasha/pages-url@workspace:pages/url"],
 
-    "@akasha/persona-system": ["@akasha/persona-system@workspace:personas"],
+    "@akasha/personas": ["@akasha/personas@workspace:personas"],
 
     "@akasha/personas-core": ["@akasha/personas-core@workspace:personas-core"],
 

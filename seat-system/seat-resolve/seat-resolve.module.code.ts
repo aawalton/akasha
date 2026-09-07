@@ -1,6 +1,6 @@
 import { domainsRead } from "@akasha/domains/domain-reading"
 import { slugOf } from "@akasha/pages/page-value"
-import { personaAt, personasStanding } from "@akasha/persona-system/persona-reading"
+import { personaAt, personasStanding } from "@akasha/personas/persona-reading"
 import {
   ATTRIBUTES,
   type AttributeKey,

@@ -1,4 +1,4 @@
-import { listPersonaSlugs, listPersonaWakeSources } from "@akasha/persona-system/persona-targets"
+import { listPersonaSlugs, listPersonaWakeSources } from "@akasha/personas/persona-targets"
 import {
   recipientResolverConfigBanner,
   resolveRecipientResolverConfig,

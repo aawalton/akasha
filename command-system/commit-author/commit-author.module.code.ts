@@ -1,6 +1,6 @@
 import { ownRepoRoot } from "@akasha/pages/checkout-roots"
 import { slugOf } from "@akasha/pages/page-value"
-import { displayNameOf, personaAt } from "@akasha/persona-system/persona-reading"
+import { displayNameOf, personaAt } from "@akasha/personas/persona-reading"
 import { seat } from "@akasha/seat-system/seat-page-type"
 import { pageTextOf } from "@akasha/seat-system/seat-page-values"
 import { writerIn } from "../reading/reading.module.code.ts"

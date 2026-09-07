@@ -1,4 +1,4 @@
-import { personaAt } from "@akasha/persona-system/persona-reading"
+import { personaAt } from "@akasha/personas/persona-reading"
 import { answeredByOf, peopleStanding } from "@akasha/persons/person-reading"
 import { personaIsDefault } from "../seat-resolve/seat-resolve.module.code.ts"
 
