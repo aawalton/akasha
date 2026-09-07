@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-quests-addon/quests-chatter-name-tables/quests-chatter-name-tables.module.ts b/temper/temper-quests-addon/quests-chatter-name-tables/quests-chatter-name-tables.module.ts
+index 9ffe98ae187d2774f75d5bc06ebdc57f88d48286..fa6b983292a715aa4445d16f3afae4efe81d167e 100644
+--- a/temper/temper-quests-addon/quests-chatter-name-tables/quests-chatter-name-tables.module.ts
++++ b/temper/temper-quests-addon/quests-chatter-name-tables/quests-chatter-name-tables.module.ts
+@@ -9,7 +9,7 @@ export const questsChatterNameTables = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Each name is read from the globals one at a time.",
++      statement: "Each name is read from the globals on its own.",
+     },
+     {
+       invariantKind: "absence",
