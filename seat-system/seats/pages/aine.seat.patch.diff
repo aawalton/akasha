@@ -478,7 +478,7 @@ index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..d1bf2edcf24fa6c8ccd6cbd6991b542a
    locked(root, `${process.pid} 1`)
    const from = Date.now()
 diff --git a/pages/uncommitted/page-uncommitted.module.ts b/pages/uncommitted/page-uncommitted.module.ts
-index f10b0ef38dcf55064e31af534546ee7a7e499ae7..d3bb893c3178dc714c044dda8b55184174717135 100644
+index f10b0ef38dcf55064e31af534546ee7a7e499ae7..234a187e977879947db22f14960527a5984b16fa 100644
 --- a/pages/uncommitted/page-uncommitted.module.ts
 +++ b/pages/uncommitted/page-uncommitted.module.ts
 @@ -65,7 +65,7 @@ export const pageUncommitted = {
@@ -490,7 +490,7 @@ index f10b0ef38dcf55064e31af534546ee7a7e499ae7..d3bb893c3178dc714c044dda8b551841
      },
      {
        invariantKind: "departure",
-@@ -87,11 +87,15 @@ export const pageUncommitted = {
+@@ -87,11 +87,11 @@ export const pageUncommitted = {
      {
        invariantKind: "departure",
        statement:
@@ -499,11 +499,8 @@ index f10b0ef38dcf55064e31af534546ee7a7e499ae7..d3bb893c3178dc714c044dda8b551841
      },
      {
        invariantKind: "departure",
-+<<<<<<< what this change would leave
-+      statement: "Values merge key by key into what is there.",
-+=======
-       statement: "Values merge key by key into the values already standing.",
-+>>>>>>> what HEAD holds
+-      statement: "Values merge key by key into the values already standing.",
++      statement: "Values merge key by key into the values already there.",
      },
      {
        invariantKind: "departure",
