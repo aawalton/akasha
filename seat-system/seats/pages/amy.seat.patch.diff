@@ -41,35 +41,6 @@ index cf2741668d6a0c2bf7e6cac8cfd256f9c7294232..9b0e4504abaf16601cac2bed3227fb5d
 +    },
 +  ],
  } as const satisfies Module
-diff --git a/alan/web/routes/api.page-write.ts b/alan/web/routes/api.page-write.ts
-index d3f06c45d069767ee22bf1860fc10cc2f889395e..c126f8507102c3c2cb69485b166845ba06bc3b68 100644
---- a/alan/web/routes/api.page-write.ts
-+++ b/alan/web/routes/api.page-write.ts
-@@ -1,10 +1,19 @@
- import { answerPageWrite } from "../.server/alan-answer-page-write/alan-answer-page-write.module.code.ts"
-+import {
-+  capacitorCorsHeaders,
-+  corsAnswered,
-+  corsPreflight,
-+} from "../capacitor-cors/capacitor-cors.module.code.ts"
- import type { Route } from "./+types/api.page-write"
- 
--// `action` is this module's only export on purpose. React Router strips just
--// `loader`, `action`, `middleware` and `headers`; anything else exported here
--// would hold `answer-page-write.server` — and the server client it reaches —
--// into the client bundle.
-+const WRITE_METHODS = "POST, OPTIONS"
-+
-+export function loader({ request }: Route.LoaderArgs): Response {
-+  if (request.method !== "OPTIONS") return new Response(null, { status: 405 })
-+  return corsPreflight(capacitorCorsHeaders(request, WRITE_METHODS))
-+}
-+
- export async function action({ request }: Route.ActionArgs): Promise<Response> {
--  return answerPageWrite(request)
-+  const cors = capacitorCorsHeaders(request, WRITE_METHODS)
-+  return corsAnswered(await answerPageWrite(request), cors)
- }
 diff --git a/code-system/router-apps/router-app.page-type.ts b/code-system/router-apps/router-app.page-type.ts
 index 557b7e91097d6ec35493e1c019bc0df904f752d1..477025ed6e7bfc75d5c5e43f56fe26ff3330b6a4 100644
 --- a/code-system/router-apps/router-app.page-type.ts
