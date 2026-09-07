@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-watcher/workstation-services/temper-watcher.workstation-service.ts b/temper/temper-watcher/workstation-services/temper-watcher.workstation-service.ts
+index f355c38eae067e58c51dfeb349168e24b7ed9071..2dd355f8921d01af6a7dd039021de631a1967983 100644
+--- a/temper/temper-watcher/workstation-services/temper-watcher.workstation-service.ts
++++ b/temper/temper-watcher/workstation-services/temper-watcher.workstation-service.ts
+@@ -18,7 +18,7 @@ export const temperWatcher = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The unit running the worker is a simple one.",
++      statement: "The unit running the worker is a simple unit.",
+     },
+     {
+       invariantKind: "departure",
