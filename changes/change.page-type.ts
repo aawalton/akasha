@@ -6,7 +6,7 @@ import type { WriterOwesReading } from "./kinds/properties/writer-owes-reading.b
 import type { ChangeModeSlug } from "./properties/change-mode-slug.relation-property.ts"
 
 export type Change = Module & {
-  changeModeSlug?: ChangeModeSlug
+  changeModeSlug: ChangeModeSlug
   runsChecks: RunsChecks
   readersOweReading: ReadersOweReading
   writerOwesReading: WriterOwesReading
@@ -41,7 +41,7 @@ export const change = {
     "relation-property/change-mode-slug",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/change-mode-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/change-mode-slug", required: true, many: false },
     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
     { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
     { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
