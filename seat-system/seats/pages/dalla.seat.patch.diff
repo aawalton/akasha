@@ -1,0 +1,393 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/file/pages/change-code-file/change-code-file.change-mechanical-file.ts b/changes/mechanical/file/pages/change-code-file/change-code-file.change-mechanical-file.ts
+index 7c8936358e0fcf01db129fb3e5138e80e6223846..7d30a0faea091a10bd6ae950d5a157f6c9a55425 100644
+--- a/changes/mechanical/file/pages/change-code-file/change-code-file.change-mechanical-file.ts
++++ b/changes/mechanical/file/pages/change-code-file/change-code-file.change-mechanical-file.ts
+@@ -4,6 +4,7 @@ export const changeCodeFile = {
+   id: "01a079ac-d401-7d7b-aa1f-45743f81cf73",
+   pageTypeSlug: "change-mechanical-file",
+   slug: "change-code-file",
++  changeModeSlug: "change-mode-change",
+   definition: "one passage of one code body replaced, with the imports that body names judged",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/add-code-file/add-code-file.change-mechanical-file.ts b/changes/mechanical/pages/add-code-file/add-code-file.change-mechanical-file.ts
+index cab766f22273a3509e57af5f16b0c20385b6851b..75fff6ccf5cfe21831549dd756caab2ccb3e5842 100644
+--- a/changes/mechanical/pages/add-code-file/add-code-file.change-mechanical-file.ts
++++ b/changes/mechanical/pages/add-code-file/add-code-file.change-mechanical-file.ts
+@@ -4,6 +4,7 @@ export const addCodeFile = {
+   id: "01a07969-9123-7320-b8c9-3afd2dae9bfa",
+   pageTypeSlug: "change-mechanical-file",
+   slug: "add-code-file",
++  changeModeSlug: "change-mode-add",
+   definition: "one code body written at one path, with the imports that body names judged",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/add-file/add-file.change-mechanical.ts b/changes/mechanical/pages/add-file/add-file.change-mechanical.ts
+index f35e80f5d2fa6e50842df3d3dc6ffa684a762cff..21b660f28d30841ac4092b4a43d6b5a2a6fcf7a4 100644
+--- a/changes/mechanical/pages/add-file/add-file.change-mechanical.ts
++++ b/changes/mechanical/pages/add-file/add-file.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const addFile = {
+   id: "01a07810-4657-7cb0-8eff-29902c541102",
+   pageTypeSlug: "change-mechanical",
+   slug: "add-file",
++  changeModeSlug: "change-mode-add",
+   definition: "one body written at one path, with nothing else judged",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.ts b/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.ts
+index ea34dfcc214fdf87af9e61ca176954cb487374d8..fa7308b150beb90112584202a22593c65273eb5c 100644
+--- a/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.ts
++++ b/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const addPageFile = {
+   id: "01a07976-d290-7a2a-b91c-bc7a0bc36dca",
+   pageTypeSlug: "change-mechanical",
+   slug: "add-page-file",
++  changeModeSlug: "change-mode-add",
+   definition: "one page written at one path, with the pages that page names judged",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/add-page-property-file/add-page-property-file.change-mechanical.ts b/changes/mechanical/pages/add-page-property-file/add-page-property-file.change-mechanical.ts
+index 4f358be9e556c368f0c997fe0beb73f6b9e9296c..212f9e9affdb0e87544e4f70eed4f3e8ba3cf0da 100644
+--- a/changes/mechanical/pages/add-page-property-file/add-page-property-file.change-mechanical.ts
++++ b/changes/mechanical/pages/add-page-property-file/add-page-property-file.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const addPagePropertyFile = {
+   id: "01a07984-2e7e-7ced-801b-160efbf7e220",
+   pageTypeSlug: "change-mechanical",
+   slug: "add-page-property-file",
++  changeModeSlug: "change-mode-add",
+   definition: "one page property written at one path, with the keys that property carries judged",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/add-page-type-file/add-page-type-file.change-mechanical.ts b/changes/mechanical/pages/add-page-type-file/add-page-type-file.change-mechanical.ts
+index 99559a91bd6855cf478281a730334d63456a67b3..5d153f54441130a03cd09bc472a270388d8869b8 100644
+--- a/changes/mechanical/pages/add-page-type-file/add-page-type-file.change-mechanical.ts
++++ b/changes/mechanical/pages/add-page-type-file/add-page-type-file.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const addPageTypeFile = {
+   id: "01a07984-8ef3-719a-972b-cb77ca7dafec",
+   pageTypeSlug: "change-mechanical",
+   slug: "add-page-type-file",
++  changeModeSlug: "change-mode-add",
+   definition:
+     "one page type written at one path, with the plural slug that page type states judged",
+   code: "ts",
+diff --git a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.ts b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.ts
+index a83b62398cbf6f01452549e04139786de802d561..3bbef590155b3a01bf506bca976e0f17d61f08c5 100644
+--- a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.ts
++++ b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const addPropertyValue = {
+   id: "01a07932-2568-72a6-8b8e-314ac44c417b",
+   pageTypeSlug: "change-mechanical",
+   slug: "add-property-value",
++  changeModeSlug: "change-mode-add",
+   definition: "one value put into one page property in a page's body",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/change-file/change-file.change-mechanical.ts b/changes/mechanical/pages/change-file/change-file.change-mechanical.ts
+index 26b75a338f7df920c4701ab143f65e703e168cd4..618cb6bc50282c3de8d0c1c20082ed85599e5ff4 100644
+--- a/changes/mechanical/pages/change-file/change-file.change-mechanical.ts
++++ b/changes/mechanical/pages/change-file/change-file.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const changeFile = {
+   id: "01a07810-fb33-7e75-8e1e-ce1e302d5668",
+   pageTypeSlug: "change-mechanical",
+   slug: "change-file",
++  changeModeSlug: "change-mode-change",
+   definition: "one passage of one body replaced by another, with nothing else judged",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.ts b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.ts
+index 6c56d42805ba1d1eafc3f1bf2a716473c87b9470..17c894b26b2e196fec990362d70962b3802fb88a 100644
+--- a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.ts
++++ b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const changePagePropertyRelation = {
+   id: "01a07932-2568-72d1-a8c7-94da97d53b1e",
+   pageTypeSlug: "change-mechanical",
+   slug: "change-page-property-relation",
++  changeModeSlug: "change-mode-change",
+   definition: "one relation a page states pointed at another page",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.ts b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.ts
+index a043c9283534277791b696a6883cd177289fbf32..e34f5300518aa5af56cac51b1a00272d4d68f2c6 100644
+--- a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.ts
++++ b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const changePageProperty = {
+   id: "01a07716-76a6-7428-9e18-f3fc32d18085",
+   pageTypeSlug: "change-mechanical",
+   slug: "change-page-property",
++  changeModeSlug: "change-mode-change",
+   definition: "one key of a page's exported object stated anew",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/move-file/move-file.change-mechanical-file.ts b/changes/mechanical/pages/move-file/move-file.change-mechanical-file.ts
+index 1099d97f616ec3a607e22dbcea8fa65f048a1afa..7f2dc2a8be9e65b3c247b9cc43eae71c0a1b29b2 100644
+--- a/changes/mechanical/pages/move-file/move-file.change-mechanical-file.ts
++++ b/changes/mechanical/pages/move-file/move-file.change-mechanical-file.ts
+@@ -4,6 +4,7 @@ export const moveFile = {
+   id: "01a07883-67ed-7849-b6e5-e499695cac46",
+   pageTypeSlug: "change-mechanical-file",
+   slug: "move-file",
++  changeModeSlug: "change-mode-move",
+   definition: "one file carried to another path, with nothing else judged",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/remove-code-file/remove-code-file.change-mechanical-file.ts b/changes/mechanical/pages/remove-code-file/remove-code-file.change-mechanical-file.ts
+index ce914e3bc2f1b5ab0d78ce87eca49fda41a58c39..886ecf149c91240c4e6965d321f5c30d73139222 100644
+--- a/changes/mechanical/pages/remove-code-file/remove-code-file.change-mechanical-file.ts
++++ b/changes/mechanical/pages/remove-code-file/remove-code-file.change-mechanical-file.ts
+@@ -4,6 +4,7 @@ export const removeCodeFile = {
+   id: "01a07987-afc1-73bf-8a8e-9ba1cc6c5248",
+   pageTypeSlug: "change-mechanical-file",
+   slug: "remove-code-file",
++  changeModeSlug: "change-mode-remove",
+   definition: "one code file taken away, with the imports naming that file judged",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/remove-file/remove-file.change-mechanical-file.ts b/changes/mechanical/pages/remove-file/remove-file.change-mechanical-file.ts
+index c060ba0f785fdae24c7fce72285d6cb0d748b6bc..230d7facf13ecab3d124c67cb6939099a37dc684 100644
+--- a/changes/mechanical/pages/remove-file/remove-file.change-mechanical-file.ts
++++ b/changes/mechanical/pages/remove-file/remove-file.change-mechanical-file.ts
+@@ -4,6 +4,7 @@ export const removeFile = {
+   id: "01a07744-1311-748c-a35b-3ebe72349dee",
+   pageTypeSlug: "change-mechanical-file",
+   slug: "remove-file",
++  changeModeSlug: "change-mode-remove",
+   definition: "one file taken away, with nothing else judged",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.ts b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.ts
+index 2c92efea8593936c13b466bb4007d67495dae474..9117a2eac86b797c0eb0b4650ed0b9797f0a6ab7 100644
+--- a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.ts
++++ b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const removeManifestWays = {
+   id: "01a0798b-3398-72f0-8d29-c5c8301326de",
+   pageTypeSlug: "change-mechanical",
+   slug: "remove-manifest-ways",
++  changeModeSlug: "change-mode-remove",
+   definition: "a manifest's ways in dropped where the files those ways in name go",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.ts b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.ts
+index 727f4149233f1d6831d3c3a1a412ccc0b2940e0b..a4f709491989330f5aea8f2d985d294fb8cb71ac 100644
+--- a/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.ts
++++ b/changes/mechanical/pages/remove-page-file/remove-page-file.change-mechanical-file.ts
+@@ -4,6 +4,7 @@ export const removePageFile = {
+   id: "01a079a5-8d4a-70e6-a33b-73d49d514b05",
+   pageTypeSlug: "change-mechanical-file",
+   slug: "remove-page-file",
++  changeModeSlug: "change-mode-remove",
+   definition: "one page file taken away, with the relations and the files beside that page judged",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.ts b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..eeba6524e743e00382de695899ae81821dc3ced4
+--- /dev/null
++++ b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical.ts
+@@ -0,0 +1,86 @@
++import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
++
++export const removePageType = {
++  id: "01a0783a-11c0-7708-a1a5-f138cd15644b",
++  pageTypeSlug: "change-mechanical",
++  slug: "remove-page-type",
++  changeModeSlug: "change-mode-remove",
++  definition: "one page type taken away with every file that page type keeps beside it",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++  guardSlugs: [
++    "change-guard/relation-not-left-hanging",
++    "change-guard/import-not-left-hanging",
++    "change-guard/page-type-carries-no-pages",
++  ],
++  invariants: [
++    {
++      invariantKind: "absence",
++      statement: "No page of the page type is taken away here.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads which pages the page type is the page type of.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A page type and every file that page type keeps beside the page type go together.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Which files sit beside a page type is read from the index rather than from the folder.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One call of `remove-file` takes each file away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A refusal from `remove-file` refuses the whole removal.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every index question here is asked of the world the caller hands in.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No index question here is asked of the index on disk.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path the world names no page type at is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Containment is a relation named in the parent's `part-slugs`.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The parent naming the page type in `part-slugs` is answered from that same world.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The page type's entry in the parent's `part-slugs` is dropped by `remove-property-value`.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A parent naming the page type bare rather than qualified is dropped just the same.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The guards named here run over the answer before that answer comes back.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A guard refusing refuses the removal.",
++    },
++  ],
++} as const satisfies ChangeMechanical
+diff --git a/changes/mechanical/pages/remove-page/remove-page.change-mechanical-folder.ts b/changes/mechanical/pages/remove-page/remove-page.change-mechanical-folder.ts
+index 3c46c19ebd755938ecddabd05a42b4df84e0e547..e380d5acb4a8efaf74e8767ebac6923ab6155d28 100644
+--- a/changes/mechanical/pages/remove-page/remove-page.change-mechanical-folder.ts
++++ b/changes/mechanical/pages/remove-page/remove-page.change-mechanical-folder.ts
+@@ -4,6 +4,7 @@ export const removePage = {
+   id: "01a07750-f2bb-7d0e-b301-cc3c2ede50b1",
+   pageTypeSlug: "change-mechanical-folder",
+   slug: "remove-page",
++  changeModeSlug: "change-mode-remove",
+   definition: "one page taken away with every file that page keeps beside it",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/remove-property-value/remove-property-value.change-mechanical.ts b/changes/mechanical/pages/remove-property-value/remove-property-value.change-mechanical.ts
+index f46eff35626767b6f72071715dfc884dbd9b135b..435fc3796fcb4853a7234d822b997916eab14f90 100644
+--- a/changes/mechanical/pages/remove-property-value/remove-property-value.change-mechanical.ts
++++ b/changes/mechanical/pages/remove-property-value/remove-property-value.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const removePropertyValue = {
+   id: "01a07758-01be-7649-a91a-f8952f0b468e",
+   pageTypeSlug: "change-mechanical",
+   slug: "remove-property-value",
++  changeModeSlug: "change-mode-remove",
+   definition: "one value taken out of one page property in a page's body",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.ts b/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.ts
+index 52c993168f0157ec3e8d117addb3184a093bc86a..c94cc12cde71e82099278ce5643cece21446231e 100644
+--- a/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.ts
++++ b/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.ts
+@@ -4,6 +4,7 @@ export const renameExport = {
+   id: "01a07718-c9b7-70da-a720-619f59483340",
+   pageTypeSlug: "change-mechanical-code",
+   slug: "rename-export",
++  changeModeSlug: "change-mode-rename",
+   definition: "a name one body exports spelled anew across the paths a caller hands in",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/rename-imports/rename-imports.change-mechanical.ts b/changes/mechanical/pages/rename-imports/rename-imports.change-mechanical.ts
+index f1ed7f21da0ad3527b09e727cc6b5d12092ccce1..bfcb8f8a81ff5bcd000f94a8c73f600ef6737986 100644
+--- a/changes/mechanical/pages/rename-imports/rename-imports.change-mechanical.ts
++++ b/changes/mechanical/pages/rename-imports/rename-imports.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const renameImports = {
+   id: "01a07718-c9b6-7696-a9d0-77a8605d3a0b",
+   pageTypeSlug: "change-mechanical",
+   slug: "rename-imports",
++  changeModeSlug: "change-mode-rename",
+   definition: "a body rewritten so the paths it names follow the files that moved",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.ts b/changes/mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.ts
+index b6db5b1102116b2dda47e9840a0ebd1ff4fb038c..954c6671ffaca915c791c089639ebc43dfe65f92 100644
+--- a/changes/mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.ts
++++ b/changes/mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const renameLocalVariable = {
+   id: "01a07718-c9b5-7a1b-822f-308aef9ac22a",
+   pageTypeSlug: "change-mechanical",
+   slug: "rename-local-variable",
++  changeModeSlug: "change-mode-rename",
+   definition: "the change spelling a local binding and its references anew in one file",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.ts b/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.ts
+index f7054a6ddd5f04da3c93a0a5d477040edf160221..f052c8a698ac5f2f58e6f05e5be89cd128dd1650 100644
+--- a/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.ts
++++ b/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const renameManifestWays = {
+   id: "01a0798b-3398-71d0-ba4b-fa40530ad360",
+   pageTypeSlug: "change-mechanical",
+   slug: "rename-manifest-ways",
++  changeModeSlug: "change-mode-rename",
+   definition: "a manifest's ways in rewritten to follow the files those ways in name",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.ts b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.ts
+index b648a9cd48189c8c427b4bf7acaad9b61021aed8..cb7ebfe7d0521673ed80f751e52bac436619380e 100644
+--- a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.ts
++++ b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const renamePageAddress = {
+   id: "01a07bd5-a749-7789-bfa6-a2a288d8f0c7",
+   pageTypeSlug: "change-mechanical",
+   slug: "rename-page-address",
++  changeModeSlug: "change-mode-rename",
+   definition: "one page's address restated wherever a body spells that address",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.ts b/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.ts
+index 06ddbdcfe95981f11be7cd15d712839f0ce86bd4..bbf20fb2e1da17ff0cdd3720a91c10dddfc89e5b 100644
+--- a/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.ts
++++ b/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const renamePageSlug = {
+   id: "01a07718-c9b6-7230-ae96-ff2f36a19ec1",
+   pageTypeSlug: "change-mechanical",
+   slug: "rename-page-slug",
++  changeModeSlug: "change-mode-rename",
+   definition: "one page's slug restated in its own body and in the data of every page naming it",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/rename-path/rename-path.change-mechanical-file.ts b/changes/mechanical/pages/rename-path/rename-path.change-mechanical-file.ts
+index 9de6fcaaf9bc46246ebe9be9eb714be43692f7e9..e18afcd7ba4749ff5963e045df4057b95bfd03db 100644
+--- a/changes/mechanical/pages/rename-path/rename-path.change-mechanical-file.ts
++++ b/changes/mechanical/pages/rename-path/rename-path.change-mechanical-file.ts
+@@ -4,6 +4,7 @@ export const renamePath = {
+   id: "01a07718-c9b6-7bb2-9eb2-27a44ed4fe7d",
+   pageTypeSlug: "change-mechanical-file",
+   slug: "rename-path",
++  changeModeSlug: "change-mode-rename",
+   definition: "one file's path changed, with every body importing it repointed",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/rename-property-signature/rename-property-signature.change-mechanical.ts b/changes/mechanical/pages/rename-property-signature/rename-property-signature.change-mechanical.ts
+index 03ce9f4ec2576f8d080af8760ceccc64986f7d8e..9b64e623bee5187cb2948df54c6327a589c586ca 100644
+--- a/changes/mechanical/pages/rename-property-signature/rename-property-signature.change-mechanical.ts
++++ b/changes/mechanical/pages/rename-property-signature/rename-property-signature.change-mechanical.ts
+@@ -4,6 +4,7 @@ export const renamePropertySignature = {
+   id: "01a07718-c9b6-74eb-b71b-e0d52b81f5b7",
+   pageTypeSlug: "change-mechanical",
+   slug: "rename-property-signature",
++  changeModeSlug: "change-mode-rename",
+   definition: "one property a type declares spelled anew wherever the checker resolves to it",
+   code: "ts",
+   test: "ts",
