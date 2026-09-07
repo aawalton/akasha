@@ -4,6 +4,7 @@ export const renamePageAddress = {
   id: "01a07bd5-a749-7789-bfa6-a2a288d8f0c7",
   pageTypeSlug: "change-mechanical",
   slug: "rename-page-address",
+  changeModeSlug: "change-mode-rename",
   definition: "one page's address restated wherever a body spells that address",
   code: "ts",
   test: "ts",

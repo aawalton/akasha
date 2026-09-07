@@ -4,6 +4,7 @@ export const changePageProperty = {
   id: "01a07716-76a6-7428-9e18-f3fc32d18085",
   pageTypeSlug: "change-mechanical",
   slug: "change-page-property",
+  changeModeSlug: "change-mode-change",
   definition: "one key of a page's exported object stated anew",
   code: "ts",
   test: "ts",

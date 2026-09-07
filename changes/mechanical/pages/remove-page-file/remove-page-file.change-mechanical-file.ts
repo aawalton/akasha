@@ -4,6 +4,7 @@ export const removePageFile = {
   id: "01a079a5-8d4a-70e6-a33b-73d49d514b05",
   pageTypeSlug: "change-mechanical-file",
   slug: "remove-page-file",
+  changeModeSlug: "change-mode-remove",
   definition: "one page file taken away, with the relations and the files beside that page judged",
   code: "ts",
   test: "ts",

@@ -4,6 +4,7 @@ export const removePageType = {
   id: "01a0783a-11c0-7708-a1a5-f138cd15644b",
   pageTypeSlug: "change-mechanical-folder",
   slug: "remove-page-type",
+  changeModeSlug: "change-mode-remove",
   definition: "one page type taken away with every file that page type keeps beside it",
   code: "ts",
   test: "ts",

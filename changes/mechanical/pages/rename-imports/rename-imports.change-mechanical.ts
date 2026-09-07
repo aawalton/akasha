@@ -4,6 +4,7 @@ export const renameImports = {
   id: "01a07718-c9b6-7696-a9d0-77a8605d3a0b",
   pageTypeSlug: "change-mechanical",
   slug: "rename-imports",
+  changeModeSlug: "change-mode-rename",
   definition: "a body rewritten so the paths it names follow the files that moved",
   code: "ts",
   test: "ts",

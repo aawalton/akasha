@@ -4,6 +4,7 @@ export const changePagePropertyRelation = {
   id: "01a07932-2568-72d1-a8c7-94da97d53b1e",
   pageTypeSlug: "change-mechanical",
   slug: "change-page-property-relation",
+  changeModeSlug: "change-mode-change",
   definition: "one relation a page states pointed at another page",
   code: "ts",
   test: "ts",
