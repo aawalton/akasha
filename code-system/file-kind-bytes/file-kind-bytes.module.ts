@@ -18,7 +18,11 @@ export const fileKindBytes = {
     },
     {
       invariantKind: "departure",
-      statement: "A name reaching no kind at all is text, which its reader then proves or refuses.",
+      statement: "A name reaching no kind at all is text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reader of that text then proves or refuses the text.",
     },
     {
       invariantKind: "constraint",
