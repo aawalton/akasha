@@ -1,0 +1,50 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/akasha-folder-shape.initiative.ts b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
+index ce8b7c29e02e03b05d757a2f507da2b83fc722d9..c39564a1e027c6f7ad2e1aaaedcfec2b50961ebe 100644
+--- a/domains/initiatives/pages/akasha-folder-shape.initiative.ts
++++ b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
+@@ -7,6 +7,27 @@ export const akashaFolderShape = {
+   domainSlug: "domain/akasha",
+   personaSlug: "akasha",
+   intents: [
++    {
++      statement:
++        "`turningIn` compares the scopes a reach resolves to rather than the reach's spelling.",
++      workingMemory:
++        "`elsewhereIn` at `indexing.module.code.ts:303` reads every path and materialises every page where a property's identifier key or reach differs before a change and after it. `scopesFor` already sends `always` and `page` to the one scope `page`, so folding them moves no entry yet reads every page regardless. A dry run was killed at 2444 seconds, 35 minutes of CPU, reporting nothing. Three controls ran flat at 140.7, 142.4 and 146.1 seconds across a 64000 fold range of spelling counts.",
++    },
++    {
++      statement: "A reach is `always` or `page-type`.",
++      workingMemory:
++        "`Unique` is typed `always | page | page-type | part-of`, and only three are `unique-kind` pages — there is no `unique-kind/page`. `id` declares `always`, `slug` declares `page-type`, and no live property declares `part-of`. Deleting `unique-kind/part-of` moves no index entry, and the finding used renaming that page as the control that does not trip that reading. Folding `page` into `always` waits on `turningIn`.",
++    },
++    {
++      statement: "A page unique only within a scope declares `uniqueScope`.",
++      workingMemory:
++        "Three edges were called part-of: `partSlugs` keeps the name, the collections dag becomes `partOfCollectionSlugs`, and the address scope becomes `uniqueScope`. A scope names a property on the same page type, required and single. `partOfCollectionSlugs` cannot serve, because a declaration may not narrow many to one, so the 13607 chapters need a single story property — each carries exactly one today. 1066 pages name several parents, 1055 of them `great-course`.",
++    },
++    {
++      statement: "The identity index files each page under the level its reach names.",
++      workingMemory:
++        "`filedIn` answers `{ scope, propertySlug, said }` and `identityIn` joins `identity/{scope}/{propertySlug}/{said}.jsonl`, so there is no level segment and the universal scope `page` shares a directory with the page type named `page`. `scopesFor` sends `part-of` to the parent slugs `partOf(value)` answers. The three levels each add one scope, and the writer's triple gains the level and the scope property.",
++    },
+     {
+       statement: "Each page address kind holds the code that finds its page.",
+       workingMemory:
+@@ -18,9 +39,14 @@ export const akashaFolderShape = {
+         "27651 entries over 26133 pages: 21756 bare across 510 values, 5895 qualified, 0 dangling. The declaring property's target page type settles every ambiguous value but `profile`. Count by parsing arrays, not lines: 16 values sit only in multi-entry arrays. Beyond relations, 2563 of the 2601 `pagePropertySlug` values are bare, and `shapedIn`'s search across page types answers them; `4eb997e9` took it out and emptied 443 of 453 page types, unfiling all 914 unique keys in silence. It goes last.",
+     },
+     {
+-      statement: "A page unique only within a scope declares `uniqueScope`.",
++      statement: "The collections edge is named `partOfCollectionSlugs`.",
+       workingMemory:
+-        "Three edges were called part-of: `partSlugs` keeps the name, the collections dag becomes `partOfCollectionSlugs`, and the address scope becomes `uniqueScope`. A scope names a property on the same page type, required and single. `partOfCollectionSlugs` cannot serve, because a declaration may not narrow many to one, so the 13607 chapters need a single story property — each carries exactly one today. 1066 pages name several parents, 1055 of them `great-course`.",
++        "25744 children name a parent through `partOfSlugs` and 11138 pages are named as a part through `partSlugs`; `partingIn` reads both directions into one parent map. `partSlugs` keeps its name and stays the domain spanning tree. 1066 children name several parents, 1055 of them `great-course`, and that dag is the collections edge rather than a fault to mend.",
++    },
++    {
++      statement: "A story chapter names its story with one property of its own.",
++      workingMemory:
++        "All 13607 chapters name exactly one parent today, so nothing is lost by binding one. A chapter's slug carries the story name as a prefix, which `story.domain.ts` holds as an invariant, and that invariant goes once the scope binds. `sequence` groups on `partOfSlugs` and retargets to the new property. The collections edge stays beside it, carrying a different fact.",
+     },
+     {
+       statement: "No relation value lands that akasha cannot key to one page.",
