@@ -8,12 +8,11 @@ import {
   withoutEntriesIn,
 } from "../../../mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.code.ts"
 import {
-  answered,
   missing,
   refusing,
-  writing,
+  stating,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
+import type { Replacing, Said } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { aliasIn, nameFor } from "../rename-package/rename-package.change-checked.code.ts"
 
@@ -66,7 +65,7 @@ function reachingOld(world: World, was: string): string | null {
   return null
 }
 
-export function removePackageAlias(world: World, given: RemovePackageAliasAsked): Answer {
+export function removePackageAlias(world: World, given: RemovePackageAliasAsked): Said {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const held = objectIn(text)
@@ -82,20 +81,20 @@ export function removePackageAlias(world: World, given: RemovePackageAliasAsked)
   if (reaching !== null) {
     return refusing(`\`${reaching}\` reaches this package as \`${given.was}\`, ${UNDROPPED}`)
   }
-  const edits: Edit[] = []
+  const edits: Replacing[] = []
   for (const path of manifestsIn(world.index.everyPath(), world.index.fileKeysAt())) {
     const body = world.textOf(path)
     if (body === null || !body.includes(given.was)) continue
     const next = withoutAliasIn(path, body, given.was, to)
-    if (next !== body) edits.push(writing(path, body, next))
+    if (next !== body) edits.push({ kind: "replace", path, contentFrom: body, contentTo: next })
   }
   if (edits.length === 0) return refusing(`no manifest aliases \`${given.was}\`, ${UNDROPPED}`)
-  return answered(edits)
+  return stating(edits)
 }
 
 export type Asked = Readonly<Record<string, string>>
 
-export function runChange(world: World, given: Asked): Answer {
+export function runChange(world: World, given: Asked): Said {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
   const was = given[WAS]

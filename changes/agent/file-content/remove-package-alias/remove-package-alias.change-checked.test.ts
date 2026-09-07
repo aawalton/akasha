@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import ts from "typescript"
+import { widened } from "../../../modules/change-answer/change-answer.module.code.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import {
   aliasedTo,
@@ -158,7 +159,8 @@ function worldOver(code: string): World {
 }
 
 function dropped(): ReadonlyMap<string, string | null> {
-  const said = removePackageAlias(worldOver(CLEAR_CODE), { at: HELD_MANIFEST, was: WAS })
+  const world = worldOver(CLEAR_CODE)
+  const said = widened(removePackageAlias(world, { at: HELD_MANIFEST, was: WAS }), world.textOf)
   expect(said.refused).toBe(null)
   return new Map(said.edits.map((one) => [one.path, one.body]))
 }
@@ -204,6 +206,12 @@ test("an entry under the old name whose value is no alias is left alone", () => 
 
 test("every manifest aliasing the old name is answered", () => {
   expect([...dropped().keys()].sort()).toEqual([ROOT_MANIFEST, SIDE_MANIFEST])
+})
+
+test("each manifest the alias goes out of is stated as a replace", () => {
+  const said = removePackageAlias(worldOver(CLEAR_CODE), { at: HELD_MANIFEST, was: WAS })
+
+  expect(said.edits.map((one) => one.kind)).toEqual(["replace", "replace"])
 })
 
 test("the alias goes and the entries left behind keep their spacing", () => {
