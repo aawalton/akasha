@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/temper/temper-lua-runner/temper-lua-runner.workspace-package.ts b/temper/temper-lua-runner/temper-lua-runner.workspace-package.ts
+index c9261fe1747d4bd584beabaad20e47fd2d6b8f38..38e4ed01e2c30606e4b9914e68f114a9b200f10d 100644
+--- a/temper/temper-lua-runner/temper-lua-runner.workspace-package.ts
++++ b/temper/temper-lua-runner/temper-lua-runner.workspace-package.ts
+@@ -19,7 +19,8 @@ export const temperLuaRunner = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "The interpreter is the `lua5.1` binary on the path rather than one bundled here.",
++      statement:
++        "The interpreter is the `lua5.1` binary on the path rather than a binary bundled here.",
+     },
+     {
+       invariantKind: "departure",
