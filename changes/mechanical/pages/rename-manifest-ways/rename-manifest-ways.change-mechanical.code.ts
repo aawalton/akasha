@@ -26,16 +26,6 @@ export type Asked = {
   readonly moved: Readonly<Record<string, string>>
 }
 
-function readsAsObject(text: string): boolean {
-  let read: unknown
-  try {
-    read = JSON.parse(text)
-  } catch {
-    return false
-  }
-  return read !== null && typeof read === "object" && !Array.isArray(read)
-}
-
 function heldIn(source: ts.JsonSourceFile): ts.ObjectLiteralExpression | null {
   const first = source.statements[0]
   if (first === undefined || !ts.isExpressionStatement(first)) return null
@@ -150,10 +140,16 @@ function spliced(text: string, splices: readonly Splice[]): string {
   return body
 }
 
-export function repointManifestWays(given: Asked, textOf: (path: string) => string | null): Answer {
+export function renameManifestWays(given: Asked, textOf: (path: string) => string | null): Answer {
   const text = textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` holds no body, so no way in is repointed`)
-  if (!readsAsObject(text)) {
+  let read: unknown = null
+  try {
+    read = JSON.parse(text)
+  } catch {
+    read = null
+  }
+  if (read === null || typeof read !== "object" || Array.isArray(read)) {
     return refusing(`\`${given.at}\` reads as no JSON object, so no way in is repointed`)
   }
   const moved = new Map(Object.entries(given.moved))
@@ -166,5 +162,5 @@ export function repointManifestWays(given: Asked, textOf: (path: string) => stri
 }
 
 export function runChange(world: World, given: Asked): Answer {
-  return repointManifestWays(given, world.textOf)
+  return renameManifestWays(given, world.textOf)
 }
