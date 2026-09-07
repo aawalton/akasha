@@ -1,0 +1,39 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/akasha-folder-shape.initiative.ts b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
+index 5922b034cae639fd83a23fdca429244b12292e72..e7e38168d6963325a90927cea3f1cac8899dd4bf 100644
+--- a/domains/initiatives/pages/akasha-folder-shape.initiative.ts
++++ b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
+@@ -10,7 +10,7 @@ export const akashaFolderShape = {
+     {
+       statement: "Each page address kind holds the code that finds its page.",
+       workingMemory:
+-        "`page-address-kind` extends `page-type/module`, as `folder-shape`, `name-format`, `syntax-rule`, `code-check`, `command`, `agent-hook` and `index` do. The address module dispatches and holds the union, so a kind missing its resolver fails to compile rather than falling into another kind's else. `reaching.module.code.ts:1` and `index-reading.module.code.ts:2` import `addressIn` today, so the parse leaves the index before the resolver enters the module.",
++        "The three kinds are pages with a type and a recogniser, and the module holds the union, so a kind missing from it fails to compile. None holds a resolver. `reaches` at `reaching.module.code.ts:216` finds every page, switching on `addressIn`'s four arms — id, qualified, scoped, bare — told apart by counting slashes, lining up with no kind. `addressedIn` refuses a bare address that `reaches` resolves. A kind's resolver composes the identity path off the address and reads one file.",
+     },
+     {
+       statement: "Every relation value in akasha is a page address of one of the three kinds.",
+@@ -18,9 +18,9 @@ export const akashaFolderShape = {
+         "27651 entries over 26133 pages: 21756 bare across 510 values, 5895 qualified, 0 dangling. The declaring property's target page type settles every ambiguous value but `profile`. Count by parsing arrays, not lines: 16 values sit only in multi-entry arrays. Beyond relations, 2563 of the 2601 `pagePropertySlug` values are bare, and `shapedIn`'s search across page types answers them; `4eb997e9` took it out and emptied 443 of 453 page types, unfiling all 914 unique keys in silence. It goes last.",
+     },
+     {
+-      statement: "A page unique only within its parent declares `unique: part-of`.",
++      statement: "A page unique only within its parent declares `partOfScope`.",
+       workingMemory:
+-        "No live property declares the reach. `scopesFor` handles it and `partingIn`/`partingOver` compute a page's parents, but no scope folder is on disk. `a-new-unique-property-costs-the-gate-minutes` measured 578s and 1803s of CPU for one new key, killed unfinished, against 13607 `story-chapter-read` pages. A part-of scope is a parent slug alone, and 81 of those name both a `world` and a `story-read`, so a parent is named by an address rather than a value.",
++        "27262 part-of edges over 25744 children, and 24678 name one parent already. The 1066 naming more are 1055 `great-course`, 7 `show`, 2 `artist`, 1 `show-collection` and 1 `fandom` — collections, which invert the edge into a dag. No scope folder is on disk: `scopesFor` files under a parent slug, and `partingIn` infers a parent from both directions. A chapter carries `partOfSlugs` bare and repeats the story name inside its own slug, which `story.domain.ts` holds as an invariant.",
+     },
+     {
+       statement: "No relation value lands that akasha cannot key to one page.",
+@@ -48,4 +48,12 @@ export const akashaFolderShape = {
+         "Nothing states this today, so it is decided case by case. Alan's default: a folder unless there is a reason to make it a package, and a reason is a name the outside must reach. `agents` earns its manifest, reached by 18 subpaths from 37 import sites across `seat-system` and `command-system`. The workspace-package page already carries the rule Earn The Manifest.",
+     },
+   ],
++  constraints: [
++    "A page address is a structured value rather than a string.",
++    "An address carries what its index path needs, so a lookup composes that path and reads one file.",
++    "The identity index files under a level — `page`, `page-type` or `part-of` — then a scope, then a property, then a value.",
++    "A property declaration names the relation carrying its parent under `partOfScope`.",
++    "The part-of edge is a spanning tree, so a relation `partOfScope` names is required and carries one value.",
++    "A reach is `always` or `page-type`, and `partOfScope` narrows `page-type`.",
++  ],
+ } as const satisfies Initiative
