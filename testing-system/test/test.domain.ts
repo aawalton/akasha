@@ -20,7 +20,7 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "Neither test replaces the other.",
+      statement: "A test over invented data and a test over the pages do not replace each other.",
     },
     {
       invariantKind: "departure",
