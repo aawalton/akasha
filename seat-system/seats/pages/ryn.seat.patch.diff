@@ -1,5 +1,5 @@
 diff --git a/pages/address/page-address.module.ts b/pages/address/page-address.module.ts
-index de1f677f6276590fbe3008b8cb5e39e2de6c31f1..5eedcb08fa05d1c541c0b12d6896f2cceb132ff4 100644
+index de1f677f6276590fbe3008b8cb5e39e2de6c31f1..f9a065ec7dac97a14b1ba910366024894c132169 100644
 --- a/pages/address/page-address.module.ts
 +++ b/pages/address/page-address.module.ts
 @@ -14,7 +14,11 @@ export const pageAddress = {
@@ -12,6 +12,19 @@ index de1f677f6276590fbe3008b8cb5e39e2de6c31f1..5eedcb08fa05d1c541c0b12d6896f2cc
 +    {
 +      invariantKind: "departure",
 +      statement: "A slug is lower kebab case.",
+     },
+     {
+       invariantKind: "departure",
+@@ -30,7 +34,11 @@ export const pageAddress = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A bare address is refused, the page reached being read off the caller.",
++      statement: "A bare address is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The page reached is read off the caller.",
      },
      {
        invariantKind: "departure",
