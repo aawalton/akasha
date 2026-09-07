@@ -26,13 +26,11 @@ export const namespace = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A command's parent is its namespace rather than the domain that namespace is part of.",
+      statement: "A command's parent is its namespace rather than a domain.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A domain names a namespace among its parts rather than each command under the namespace.",
+      statement: "Every namespace is a part of the `command` page type.",
     },
     {
       invariantKind: "absence",
