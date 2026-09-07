@@ -1,0 +1,12 @@
+diff --git a/temper/temper-web/temper-web.router-app.ts b/temper/temper-web/temper-web.router-app.ts
+index 8d13551b9f2c003c8fd1a7f49f1ed13d1199ec6f..f3a05a06d0e17251fc7ea08d3ceb9c1ff881a754 100644
+--- a/temper/temper-web/temper-web.router-app.ts
++++ b/temper/temper-web/temper-web.router-app.ts
+@@ -12,6 +12,7 @@ export const temperWeb = {
+   serverEntry: "tsx",
+   routerConfig: "ts",
+   compileConfig: "json",
++  viteConfig: "ts",
+   partSlugs: [
+     "manifest/temper-web-manifests",
+     "stylesheet/temper-web-look",
