@@ -11,3 +11,19 @@ index ecb4f230cac0d3527d0a155c129e5a7b053e9ac0..372e70bfdf5208168890482500145d31
  }
  
  export function readsAsDone(shape: CompletionShape, values: TaskValues): boolean {
+diff --git a/pages/core/task-lifecycle/task-lifecycle.module.test.ts b/pages/core/task-lifecycle/task-lifecycle.module.test.ts
+index 75d26e6785514c10e959a6d4b064b5ac96bb2de0..bfeb208dd5ed1d8c9d7e8f4bfcf2f91b9ab2c951 100644
+--- a/pages/core/task-lifecycle/task-lifecycle.module.test.ts
++++ b/pages/core/task-lifecycle/task-lifecycle.module.test.ts
+@@ -94,7 +94,10 @@ test("a temper task never reads as done", () => {
+ })
+ 
+ test("taking a completion back clears the key that said it was done", () => {
+-  expect(uncompletionValues(shapeFor("to-do"))).toEqual({ toDoCompletedAt: null })
++  expect(uncompletionValues(shapeFor("to-do"))).toEqual({
++    toDoLastCompletedAt: null,
++    toDoCompletedAt: null,
++  })
+   expect(uncompletionValues(shapeFor("temper-task"))).toEqual({ lastCompletedAt: null })
+ })
+ 
