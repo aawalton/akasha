@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts b/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts
+index d4d29651f319ade02c4b6a4a0669fb14dd0d1814..7a6bc46c814259bc6a03c067e5991ce70af06030 100644
+--- a/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts
++++ b/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts
+@@ -8,7 +8,7 @@ export const packageReachedWhereNamed = {
+     "the check holding a package to the name its manifest states and the ways in it names",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
