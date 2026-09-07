@@ -1,0 +1,39 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+index f166d197bffd63c41aaa3aed9d9c10b723425117..1a14ad24ca9b816c15ed83ef74adbee267bf120d 100644
+--- a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
++++ b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+@@ -11,7 +11,7 @@ export const aranyaClusterCleanup = {
+     "A path inside a container is left as it is; only this machine's own scratch paths move to /var/tmp.",
+     "What builds Kubernetes resources is named by a page type rather than by a file name suffix.",
+     "Each manifest code file has a page of its own rather than being named by a path.",
+-    "A cluster service page sits under the domain it serves, and a folder is made where none is there.",
++    "Every cluster service's domain folder sits in cluster/services/.",
+     "No secret value changes; what moves is where a value is read from rather than what the value is.",
+     "A count that turns over faster than the work is re-taken rather than written into working memory.",
+     "A census names what it cannot see, and a comparison is run against a seeded fault before it is believed.",
+@@ -20,22 +20,12 @@ export const aranyaClusterCleanup = {
+     {
+       statement: "All cluster-specific files are in the cluster/ folder.",
+       workingMemory:
+-        "`infrastructure/cluster/` holds `api`, `provisioning`, `k8s-types` and `k8s-synth`. Three folders are left, each blocked by a file no page claims, which a move refuses: `cluster-operations` by `nodes.json`, `cluster-manifests` by `tunnel-routes.ts`, and `service-system/cluster-services` by `registry.conf` and two grafana json files over the 15,000 byte ceiling. Each blocker is read by path rather than named by a page, so claiming it is a design change. `checks/cluster-checks` stays.",
++        "`infrastructure/cluster/` holds `api`, `provisioning`, `k8s-types` and `k8s-synth`. Left are `infrastructure/cluster-manifests`, `infrastructure/cluster-operations` and `service-system/cluster-services`, which goes to `cluster/services/` whole. Each is blocked by a file no page claims, which a move refuses: `nodes.json`, `tunnel-routes.ts`, `registry.conf` and two grafana json files. A named-file-property page claims each, the grafana pair with `runsFileLength: false`.",
+     },
+     {
+       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
+       workingMemory:
+-        "`openingWith` refuses a folder whose name equals or opens with the name of the page above it, so `cluster-api`, `cluster-manifests`, `cluster-operations`, `cluster-provisioning` and `cluster-services` lose the prefix. Folder names only; slugs and npm names are untouched. Besides the prefixes, the roots fail on `tunnel-routes.ts`, `nodes.json`, an undeclared `cluster-secrets` and two domain pages in `cluster-provisioning`. The refusal counts are re-run rather than kept, the tree moving under them.",
+-    },
+-    {
+-      statement: "Every working subagent has a page, and every stopped one has none.",
+-      workingMemory:
+-        "The page is the restart interlock rather than bookkeeping: `standingSubagentsOf` reads the pages on disk and gates `seat-resume.module.code.ts:265` and `stop-seat.module.code.ts:56`, so a wrong answer restarts a seat under a live subagent or refuses to restart an idle one. A seat's transcript now proves an end as well as life. What stays undetermined is an id whose launch receipt the fold never read, so no end can be read either. The census turns over by the hour and is re-taken.",
+-    },
+-    {
+-      statement: "A subagent whose page did not land does not work unseen.",
+-      workingMemory:
+-        "13 landings were refused in `.supervisors/<seat id>/subagent-presence.log`, each because another landing held `.git/akasha-landing.lock` past 120s: 4 put-ups naming 3 subagents, and 9 take-downs. `state-subagent.agent-hook.ts` carries the gap as `Nothing reads that log to put up a page the refusal left unwritten.` No reader of that log can recompose the page: the line names the seat and the own id and not the kind, which `puttingUp` takes.",
++        "`openingWith` refuses a folder whose name equals or opens with the name of the page above it, so `cluster-manifests`, `cluster-operations` and `cluster-services` lose the prefix as each moves under `cluster/`. `api` and `provisioning` already have. Folder names only; slugs and npm names are untouched. An earlier run also failed on `tunnel-routes.ts`, `nodes.json`, an undeclared `cluster-secrets` and two domain pages in `cluster/provisioning`. Those counts are re-run rather than kept.",
+     },
+   ],
+ } as const satisfies Initiative
