@@ -1,0 +1,13 @@
+diff --git a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts
+index 9bb337a287e58e7a135929498b4179dd06692c4c..7f39c2ee4d60d19d7d32b32b2046f77750e3818a 100644
+--- a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts
++++ b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts
+@@ -18,6 +18,8 @@ const CHANGE_FILE = "change-mechanical/change-file"
+ 
+ const RENAME_IMPORTS = "change-mechanical/rename-imports"
+ 
++const RENAME_PAGE_ADDRESS = "change-mechanical/rename-page-address"
++
+ const TYPE_KEY = "pageTypeSlug"
+ 
+ const AT = "at"
