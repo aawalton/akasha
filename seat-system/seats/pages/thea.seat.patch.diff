@@ -1,0 +1,33 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-re-export/no-re-export.code-check.code.ts b/checks/code-checks/pages/no-re-export/no-re-export.code-check.code.ts
+index ce17ffba94aef04b37b69ed9e2eb7b5ec7c5f8f4..d548a15bac1aec4e6ed5678befa1b31c82507810 100644
+--- a/checks/code-checks/pages/no-re-export/no-re-export.code-check.code.ts
++++ b/checks/code-checks/pages/no-re-export/no-re-export.code-check.code.ts
+@@ -16,17 +16,22 @@ type Found = {
+ 
+ function cameIn(source: ts.SourceFile): ReadonlyMap<string, string> {
+   const found = new Map<string, string>()
+-  for (const one of source.statements) {
+-    if (!ts.isImportDeclaration(one) || !ts.isStringLiteral(one.moduleSpecifier)) continue
++  const took = (one: ts.Node): undefined => {
++    if (!ts.isImportDeclaration(one) || !ts.isStringLiteral(one.moduleSpecifier)) return
+     const clause = one.importClause
+-    if (clause === undefined) continue
++    if (clause === undefined) return
+     const at = one.moduleSpecifier.text
+     if (clause.name !== undefined) found.set(clause.name.text, at)
+     const bound = clause.namedBindings
+-    if (bound === undefined) continue
++    if (bound === undefined) return
+     if (ts.isNamespaceImport(bound)) found.set(bound.name.text, at)
+     else for (const each of bound.elements) found.set(each.name.text, at)
+   }
++  const held = (one: ts.Node): undefined => {
++    took(one)
++    ts.forEachChild(one, held)
++  }
++  ts.forEachChild(source, held)
+   return found
+ }
+ 
