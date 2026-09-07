@@ -137,3 +137,16 @@ index c1513ab1f323042f8a3f6c6957b9eb401ff4512e..0f55d3eb72cae985629f9ce813bb5a17
      },
      {
        invariantKind: "departure",
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index 65edca472b3daad976602ecc3d36b37ca86d7b53..c953505aab4cbb4357395d17add2667fd6409229 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -15,7 +15,7 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "The edits an agent keeps are an uncommitted file rather than a git object.",
+       workingMemory:
+-        "`settled` writes the whole ledger through `git hash-object -w` on every append, so a ledger grown to n rows has written on the order of n squared bytes; `.git/objects` climbed 8.6 GB to 13.3 GB in twelve minutes. `check-cost` already holds the pattern replacing it: `uncommittedPartAt` beside the page, `appendFileSync`, and a ceiling rolling over to a further part, at 197,728 rows across 45 files. `file-property/edits` is declared on the agent page type already, defaulting to `jsonl`.",
++        "Met for the keeping: rows are appended into numbered files beside the answering agent's page, and no `refs/akasha/edits` is left in this checkout. Two paths still reach a git object. A ledger an earlier keeping left under a ref is read where no file is there, and the next write moves that ledger into the file and drops the ref, which is migration and goes once no such ref is left anywhere. Edits handed over are still kept under a ref naming the subagent.",
+     },
+     {
+       statement: "A file that is not text is refused rather than decoded into an edit.",
