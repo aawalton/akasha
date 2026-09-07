@@ -53,6 +53,17 @@ index 0000000000000000000000000000000000000000..d03f439b92f4696efed5d69d32207782
 +  propertySlug: "completed-at",
 +  definition: "when a task was marked done",
 +} as const satisfies InstantProperty
+diff --git a/temper/temper-progress/tasks/properties/last-completed-at.instant-property.ts b/temper/temper-progress/tasks/properties/last-completed-at.instant-property.ts
+index 97271caeb8d181473caa3486394ba1f13c05fadb..a3426237c960b2c364439b23fcc9897831342f6a 100644
+--- a/temper/temper-progress/tasks/properties/last-completed-at.instant-property.ts
++++ b/temper/temper-progress/tasks/properties/last-completed-at.instant-property.ts
+@@ -7,5 +7,5 @@ export const lastCompletedAt = {
+   pageTypeSlug: "instant-property",
+   slug: "last-completed-at",
+   propertySlug: "last-completed-at",
+-  definition: "when a recurring task was last marked done",
++  definition: "when a task was last marked done",
+ } as const satisfies InstantProperty
 diff --git a/temper/temper-progress/tasks/temper-task.page-type.ts b/temper/temper-progress/tasks/temper-task.page-type.ts
 index f47fd4c9023a66908000a0f86e9d343da67679f7..eeffdc2df0ec8b3303963f4557107006411b0f99 100644
 --- a/temper/temper-progress/tasks/temper-task.page-type.ts
