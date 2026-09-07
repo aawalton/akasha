@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts b/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts
+index c22ef42583171ba53d4afd45efae2d5fe8e987e6..4ebab94d2a3b70b2af104368f7854f9d1a412507 100644
+--- a/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts
++++ b/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts
+@@ -13,7 +13,7 @@ export const autoCompactWindow = {
+     {
+       invariantKind: "constraint",
+       statement:
+-        "The harness holds this count between 100,000 and 1,000,000 whatever value is stated.",
++        "The harness holds this count between one hundred thousand and one million whatever value is stated.",
+     },
+     {
+       invariantKind: "departure",
