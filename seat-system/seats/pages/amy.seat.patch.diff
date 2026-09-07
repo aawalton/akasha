@@ -1,0 +1,114 @@
+writerOwesReading: false
+diff --git a/alan/harness/capacity/reading/capacity-reading.module.ts b/alan/harness/capacity/reading/capacity-reading.module.ts
+index eebb3259d5af8ac1e77653b7c705669b930b68c9..5bd46cbe72f11ea7a834c199be87cd342887eb94 100644
+--- a/alan/harness/capacity/reading/capacity-reading.module.ts
++++ b/alan/harness/capacity/reading/capacity-reading.module.ts
+@@ -41,7 +41,7 @@ export const capacityReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Each stretch's capacity hours are worked out by the store rather than here.",
++      statement: "Each stretch's capacity hours are worked out by the readout's own code.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.test.ts b/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.test.ts
+index 59209bad2d8ccdd3b6c36eb2ae6981101aeb4246..6e7610ad198ac089cd8cebbc505b28d504e2d16a 100644
+--- a/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.test.ts
++++ b/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.test.ts
+@@ -1,11 +1,70 @@
+ import { expect, test } from "bun:test"
+ import { answering, refusing } from "../../../readout-asking/readout-asking.module.test-fixtures.ts"
+-import { capacityIn, fetchCapacityHours, stretchesOf } from "./upkeep-capacity.readout.code.ts"
++import {
++  capacityHoursOf,
++  capacityIn,
++  costFor,
++  fetchCapacityHours,
++  recoveryFor,
++  stretchesOf,
++} from "./upkeep-capacity.readout.code.ts"
+ 
+ const DAY = "01a05fc3-145a-7000-9000-000000000000"
+ 
+ const held = (capacity: unknown) => ({ values: { "health-capacity-hours": capacity } })
+ 
++const stretch = (over: Readonly<Record<string, unknown>>) => ({
++  title: "Projects",
++  "start-time": "2026-09-07T13:00:00.000Z",
++  "end-time": "2026-09-07T14:00:00.000Z",
++  "safety-level": "3",
++  "difficulty-level": "3",
++  ...over,
++})
++
++test("a stretch still running carries no capacity rather than its hours so far", () => {
++  expect(capacityHoursOf(stretch({ "end-time": undefined }))).toBeNull()
++  expect(capacityHoursOf(stretch({ "end-time": "" }))).toBeNull()
++})
++
++test("a stretch is worth the hours it ran times what an hour of it was worth", () => {
++  expect(capacityHoursOf(stretch({ title: "Pod", "difficulty-level": "2" }))).toBe(3)
++  expect(
++    capacityHoursOf(
++      stretch({
++        "end-time": "2026-09-07T15:00:00.000Z",
++        title: "Bath",
++        "difficulty-level": "2",
++      })
++    )
++  ).toBe(6)
++})
++
++test("a stretch whose times will not be read carries no capacity", () => {
++  expect(capacityHoursOf(stretch({ "start-time": "soon" }))).toBeNull()
++})
++
++test("a title gives capacity back only where it names a rest as a word of its own", () => {
++  expect(recoveryFor("Projects + Pod")).toBe(3)
++  expect(recoveryFor("Bath")).toBe(3)
++  expect(recoveryFor("Breathing")).toBe(1)
++  expect(recoveryFor("Podcast")).toBe(0)
++  expect(recoveryFor(undefined)).toBe(0)
++})
++
++test("a stretch costs capacity by how far its difficulty ran past its safety", () => {
++  expect(costFor("3", "2")).toBe(0)
++  expect(costFor("3", "3")).toBe(1)
++  expect(costFor("3", "3.5")).toBe(1.5)
++  expect(costFor("3", "7.5")).toBe(24)
++  expect(costFor("3", "8")).toBe(32)
++})
++
++test("a stretch stating no safety or no difficulty costs nothing", () => {
++  expect(costFor(undefined, "5")).toBe(0)
++  expect(costFor("3", "")).toBe(0)
++})
++
+ test("the stretches asked for are the ones beside the day the caller named", () => {
+   const query = stretchesOf(DAY) as Record<string, unknown>
+   expect(query["page-type"]).toBe("session-tracking")
+diff --git a/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts b/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts
+index f2703617a830cdfd89095dfd43adaf8cd310f02b..6889772ebcfabb472db51f7457c612e039b6f0fe 100644
+--- a/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts
++++ b/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts
+@@ -17,7 +17,7 @@ export const upkeepCapacity = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The reading is the sum of every stretch of the day.",
++      statement: "The reading is the sum of the day's stretches that have ended.",
+     },
+     {
+       invariantKind: "departure",
+@@ -28,6 +28,10 @@ export const upkeepCapacity = {
+       invariantKind: "departure",
+       statement: "A stretch gives capacity back or takes capacity away.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A stretch still running carries no capacity rather than the hours run so far.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A capacity below zero is a reading.",
