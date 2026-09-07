@@ -1,5 +1,5 @@
 diff --git a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
-index d943ed5692a40c1a4167c6641a679ea03dec361e..905928b9c00b0a9250abcdafa9f656f9e0c4561e 100644
+index d943ed5692a40c1a4167c6641a679ea03dec361e..47b7bfa3efff80fd7b99a4cb3f1cf508dc6581ef 100644
 --- a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
 +++ b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
 @@ -35,8 +35,11 @@ export const rulePopulationSweeping = {
@@ -16,7 +16,7 @@ index d943ed5692a40c1a4167c6641a679ea03dec361e..905928b9c00b0a9250abcdafa9f656f9
      },
      {
        invariantKind: "departure",
-@@ -44,8 +47,11 @@ export const rulePopulationSweeping = {
+@@ -44,12 +47,19 @@ export const rulePopulationSweeping = {
      },
      {
        invariantKind: "absence",
@@ -27,6 +27,15 @@ index d943ed5692a40c1a4167c6641a679ea03dec361e..905928b9c00b0a9250abcdafa9f656f9
 +    {
 +      invariantKind: "departure",
 +      statement: "The population is the repository as that repository now is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A dry run prints the body.",
      },
      {
        invariantKind: "departure",
+-      statement: "Asked for a dry run, the body is printed and nothing is filed.",
++      statement: "A dry run files nothing.",
+     },
+   ],
+ } as const satisfies Module
