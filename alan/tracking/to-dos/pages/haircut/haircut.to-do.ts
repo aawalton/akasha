@@ -7,7 +7,7 @@ export const haircut = {
   title: "Haircut",
   toDoCategory: "health",
   difficulty: "major",
-  toDoDueDate: "2026-09-06",
+  toDoDueDate: "2026-09-07",
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=WEEKLY;INTERVAL=6",
   toDoSortOrder: 53,
