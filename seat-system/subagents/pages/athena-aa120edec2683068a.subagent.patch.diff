@@ -1,0 +1,2597 @@
+writerOwesReading: false
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/command-tree-assemble/command-tree-assemble.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/command-tree-assemble/command-tree-assemble.module.code.ts
+index 6ce88b858520343c6e7dba053c077a5888d2f682..becb23458d36a4cbda4525f41a7a180556000700 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/command-tree-assemble/command-tree-assemble.module.code.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/command-tree-assemble/command-tree-assemble.module.code.ts
+@@ -1,4 +1,4 @@
+-import { domainRowsIn } from "../../../../../command-system/commands/domain-tree/domain-tree.command.code.ts"
++import { domainRowsIn } from "../../../../../commands/pages/domain-tree/domain-tree.command.code.ts"
+ import { championTree } from "../../../../../editor-extension/champions-tree/champions-tree.module.code.ts"
+ import { partedIn } from "../../../../../pages/file-name/page-file-name.module.code.ts"
+ import {
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts
+index 23b212cab49c2c3cadac2bfc41362200aab616ae..8a04db5a3aa4ede4641d8c92d6d47d256dd27a50 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts
+@@ -6,9 +6,9 @@ import {
+   forestOver,
+   NOW,
+ } from "../../../../../command-system/commands/agent-forest/agent-forest.command.code.ts"
+-import { domainRowsIn } from "../../../../../command-system/commands/domain-tree/domain-tree.command.code.ts"
+ import { pageAnswers } from "../../../../../command-system/commands/page-tree/page-tree.command.code.ts"
+ import { treeIn } from "../../../../../command-system/commands/work-tree/work-tree.command.code.ts"
++import { domainRowsIn } from "../../../../../commands/pages/domain-tree/domain-tree.command.code.ts"
+ import {
+   ALAN,
+   assembleForest,
+diff --git a/command-system/commands/compose-notices/compose-notices.command.code.ts b/command-system/commands/compose-notices/compose-notices.command.code.ts
+deleted file mode 100644
+index b093c91fa80fc751f6821a014a4bde283374a85f..0000000000000000000000000000000000000000
+--- a/command-system/commands/compose-notices/compose-notices.command.code.ts
++++ /dev/null
+@@ -1,66 +0,0 @@
+-import { writeFileSync } from "node:fs"
+-import { isAbsolute, resolve } from "node:path"
+-import type { Answer, Given } from "@akasha/command-system/calling"
+-import { whyOf } from "@akasha/command-system/fault-saying"
+-import { notices } from "@akasha/seat-system/compose-notices"
+-
+-export const OUT = "--out"
+-
+-export type Read = { readonly out: string | null } | { readonly refused: readonly string[] }
+-
+-// WHAT WAS SAID ON THE LINE. The file this was carried from ended the process on the first word
+-// it did not take; every word is read here and every one it does not take is named, because a
+-// refusal a caller reads once is worth more than the first of four.
+-export function readIn(argv: readonly string[]): Read {
+-  const refusals: string[] = []
+-  let out: string | null = null
+-  for (let i = 0; i < argv.length; i += 1) {
+-    const one = argv[i]
+-    if (one === OUT) {
+-      const value = argv[i + 1]
+-      if (value === undefined) refusals.push(`\`${OUT}\` takes a value, and none was named`)
+-      else {
+-        i += 1
+-        out = value
+-      }
+-      continue
+-    }
+-    refusals.push(`\`${one}\` is no word this takes — it takes \`${OUT} <path>\``)
+-  }
+-  if (refusals.length > 0) return { refused: refusals }
+-  return { out }
+-}
+-
+-// TWO SPACES, AND THAT IS LOAD-BEARING. Every other command the editor asks says its JSON compact;
+-// this one is indented, as the file it was carried from was, so a caller diffing what it composed
+-// against what it composed before reads a match as a match.
+-export function saidOf(found: Readonly<Record<string, string>>): string {
+-  return JSON.stringify(found, null, 2)
+-}
+-
+-// A path a command is named is read against the repository root rather than the calling folder.
+-export function pathOf(said: string, root: string): string {
+-  return isAbsolute(said) ? said : resolve(root, said)
+-}
+-
+-export function composeNotices(argv: readonly string[], given: Given): Answer {
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+-  let found: Readonly<Record<string, string>>
+-  // A folder that is not there and a folder holding no notice page are the two the module throws
+-  // on, and they are the two this refused on while it composed the notices itself, so a throw
+-  // refuses here on the line those were refused on rather than reading as a fault in the command.
+-  try {
+-    found = notices()
+-  } catch (thrown) {
+-    return { report: [], refusals: [whyOf(thrown)], code: 1 }
+-  }
+-  try {
+-    const json = saidOf(found)
+-    if (read.out === null) return { report: [json], refusals: [], code: 0 }
+-    writeFileSync(pathOf(read.out, resolve(given.root)), `${json}\n`)
+-    return { report: [], refusals: [], code: 0 }
+-  } catch (thrown) {
+-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+-  }
+-}
+diff --git a/command-system/commands/compose-notices/compose-notices.command.test.ts b/command-system/commands/compose-notices/compose-notices.command.test.ts
+deleted file mode 100644
+index 81b823fc256a7a420c273b8b95b1005101d17c26..0000000000000000000000000000000000000000
+--- a/command-system/commands/compose-notices/compose-notices.command.test.ts
++++ /dev/null
+@@ -1,185 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+-import { join, resolve } from "node:path"
+-import type { Given } from "@akasha/command-system/calling"
+-import { NOTICES, notices, noticesUnder, render } from "@akasha/seat-system/compose-notices"
+-import { composeNotices, OUT, pathOf, readIn, saidOf } from "./compose-notices.command.code.ts"
+-
+-const ROOT = resolve(import.meta.dir, "../..")
+-
+-function givenIn(root: string): Given {
+-  return { root, calledAs: "akasha compose-notices", from: root, writer: null, agentId: null }
+-}
+-
+-function scratch(): string {
+-  const at = mkdtempSync("/var/tmp/compose-notices-test-")
+-  mkdirSync(join(at, ".git"), { recursive: true })
+-  return at
+-}
+-
+-// WHERE THE NOTICES ARE READ FROM IS THE ENVIRONMENT'S TO SAY. `notices` works the akasha root out
+-// afresh on each call, so a scratch checkout steers it. Which repositories there are is worked out
+-// once, from where the module sits, and a real call settles that before the scratch root goes in.
+-function underRoot<T>(root: string, run: () => T): T {
+-  notices()
+-  const held = process.env["AKASHA_ROOT"]
+-  process.env["AKASHA_ROOT"] = root
+-  try {
+-    return run()
+-  } finally {
+-    if (held === undefined) delete process.env["AKASHA_ROOT"]
+-    else process.env["AKASHA_ROOT"] = held
+-  }
+-}
+-
+-function saidBy(run: () => unknown): string {
+-  try {
+-    run()
+-  } catch (thrown) {
+-    return thrown instanceof Error ? thrown.message : String(thrown)
+-  }
+-  return ""
+-}
+-
+-test("the lines of a paragraph are joined with a space", () => {
+-  expect(render("one\ntwo\nthree\n")).toBe("one two three")
+-})
+-
+-test("a blank line between two paragraphs survives as one", () => {
+-  expect(render("one\ntwo\n\nthree\nfour\n")).toBe("one two\n\nthree four")
+-})
+-
+-test("a run of blank lines between two paragraphs is still one blank line", () => {
+-  expect(render("one\n \ntwo\n\t\nthree")).toBe("one\n\ntwo\n\nthree")
+-})
+-
+-test("a page holding nothing renders as an empty text", () => {
+-  expect(render("")).toBe("")
+-  expect(render("\n\n  \n")).toBe("")
+-})
+-
+-test("a notice is keyed by its file name with the tail taken off", () => {
+-  const folder = scratch()
+-  try {
+-    writeFileSync(join(folder, "alpha.notice.text.md"), "one\ntwo\n")
+-    writeFileSync(join(folder, "beta.notice.text.md"), "")
+-    writeFileSync(join(folder, "README.md"), "not a notice\n")
+-
+-    expect(noticesUnder(folder)).toEqual({ alpha: "one two", beta: "" })
+-  } finally {
+-    rmSync(folder, { recursive: true, force: true })
+-  }
+-})
+-
+-test("a folder that is not there is refused rather than answered as no notice", () => {
+-  const folder = scratch()
+-  try {
+-    const said = underRoot(folder, () => saidBy(notices))
+-
+-    expect(said).toContain("is not there")
+-    expect(said).toContain(NOTICES)
+-  } finally {
+-    rmSync(folder, { recursive: true, force: true })
+-  }
+-})
+-
+-test("a folder holding no notice page is refused the same way", () => {
+-  const folder = scratch()
+-  try {
+-    mkdirSync(join(folder, NOTICES), { recursive: true })
+-    const said = underRoot(folder, () => saidBy(notices))
+-
+-    expect(said).toContain("holds no notice page")
+-  } finally {
+-    rmSync(folder, { recursive: true, force: true })
+-  }
+-})
+-
+-test("what the module refuses to compose is what the command refuses with", () => {
+-  const folder = scratch()
+-  try {
+-    const said = underRoot(folder, () => composeNotices([], givenIn(ROOT)))
+-
+-    expect(said.code).toBe(1)
+-    expect(said.report).toEqual([])
+-    expect(said.refusals.length).toBe(1)
+-    expect(said.refusals[0]).toContain("is not there")
+-  } finally {
+-    rmSync(folder, { recursive: true, force: true })
+-  }
+-})
+-
+-test("a call naming nothing writes nowhere and asks for the notices", () => {
+-  expect(readIn([])).toEqual({ out: null })
+-})
+-
+-test("`--out` carries the path said after it", () => {
+-  expect(readIn([OUT, "/var/tmp/one.json"])).toEqual({ out: "/var/tmp/one.json" })
+-})
+-
+-test("`--out` naming no value is refused rather than writing to nothing", () => {
+-  const said = readIn([OUT])
+-
+-  expect("refused" in said && said.refused[0]).toContain("takes a value")
+-})
+-
+-test("a word this does not take is named in its own refusal", () => {
+-  const said = readIn(["--json", "notices"])
+-
+-  expect("refused" in said && said.refused.length).toBe(2)
+-  expect("refused" in said && said.refused[0]).toContain("`--json`")
+-  expect("refused" in said && said.refused[1]).toContain("`notices`")
+-})
+-
+-test("a word this does not take refuses as a fault in the call", () => {
+-  const said = composeNotices(["--help-me"], givenIn(ROOT))
+-
+-  expect(said.code).toBe(1)
+-  expect(said.report).toEqual([])
+-})
+-
+-test("a relative out path is read against the repository root, not the calling folder", () => {
+-  expect(pathOf("one.json", "/repo")).toBe("/repo/one.json")
+-  expect(pathOf("/var/tmp/one.json", "/repo")).toBe("/var/tmp/one.json")
+-})
+-
+-test("what is said is indented two spaces", () => {
+-  expect(saidOf({ one: "a" })).toBe('{\n  "one": "a"\n}')
+-})
+-
+-test("the happy answer parses as the JSON the editor's revive reads, out of the real checkout", () => {
+-  const said = composeNotices([], givenIn(ROOT))
+-
+-  expect(said.refusals).toEqual([])
+-  expect(said.code).toBe(0)
+-  expect(said.report.length).toBe(1)
+-  const line = said.report[0] ?? ""
+-  const held = JSON.parse(line) as Record<string, unknown>
+-
+-  expect(typeof held["editor-revive"]).toBe("string")
+-  expect(String(held["editor-revive"]).length).toBeGreaterThan(0)
+-  for (const key of ["restart-immediate", "restart-deferred", "restart-recovery-clause"]) {
+-    expect(typeof held[key]).toBe("string")
+-  }
+-  expect(line.startsWith('{\n  "')).toBe(true)
+-})
+-
+-test("named an out path it writes there and says nothing", () => {
+-  const folder = scratch()
+-  const at = join(folder, "notices.json")
+-  try {
+-    const said = composeNotices([OUT, at], givenIn(ROOT))
+-
+-    expect(said.code).toBe(0)
+-    expect(said.report).toEqual([])
+-    expect(said.refusals).toEqual([])
+-    const written = readFileSync(at, "utf8")
+-
+-    expect(written.endsWith("\n")).toBe(true)
+-    expect(JSON.parse(written)).toEqual(
+-      JSON.parse(composeNotices([], givenIn(ROOT)).report[0] ?? "null")
+-    )
+-  } finally {
+-    rmSync(folder, { recursive: true, force: true })
+-  }
+-})
+diff --git a/command-system/commands/compose-notices/compose-notices.command.ts b/command-system/commands/compose-notices/compose-notices.command.ts
+deleted file mode 100644
+index 70194dcacf82a86bbefbe5bafba0ae450cbde0c0..0000000000000000000000000000000000000000
+--- a/command-system/commands/compose-notices/compose-notices.command.ts
++++ /dev/null
+@@ -1,61 +0,0 @@
+-import type { Command } from "../command.page-type.ts"
+-
+-export const composeNotices = {
+-  id: "01a0693b-42f9-7c87-95fd-2c7147ecd1f2",
+-  pageTypeSlug: "command",
+-  slug: "compose-notices",
+-  definition: "what a seat is told when it is put back to work, as one JSON object",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-mechanical",
+-  taking: [{ said: "--out <path>", takes: "a file to write into, rather than saying it" }],
+-  helpNotes: [
+-    "it prints one JSON object of notice slug to composed text, and nothing else.",
+-    "every notice page under `seat-system/notices/pages` is rendered, keyed by its file name.",
+-    "callers ask for a notice by slug, so a page renamed there is a notice one of them no longer finds.",
+-    "nothing says so before a fleet meets it: the check that did went with an orphaned folder and has no successor yet.",
+-    "wrapping is the author's convenience and not part of the text.",
+-    "the lines of a paragraph are joined with a space, and a blank line between two paragraphs survives as one.",
+-    "a notice page holding nothing is rendered as an empty text rather than left out.",
+-    "the JSON is indented two spaces, unlike the other verbs the editor asks, so a caller diffing it reads a match as a match.",
+-    "named `--out`, it writes there and says nothing, so a run that wrote prints no line at all.",
+-    "a relative `--out` path is read against the repository root rather than the calling folder.",
+-    "nothing calls this from code: the editor's seat revive and the supervisor both import the compose module and call it.",
+-    "the editor reads the `editor-revive` key alone, and the supervisor `restart-immediate`, `restart-deferred` and `restart-recovery-clause`.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The notices are composed by the compose module rather than in here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A composing that throws refuses the call rather than answering with no notice.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The JSON is indented two spaces.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The callers of this command diff the JSON written.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A run named `--out` writes the JSON there rather than saying the JSON.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A relative `--out` path is read against the repository root rather than the caller's folder.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here says which notice a caller asks for.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A run named no `--out` writes nothing.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/command-system/commands/domain-tree/domain-tree.command.code.ts b/command-system/commands/domain-tree/domain-tree.command.code.ts
+deleted file mode 100644
+index f632110a76217a7b5e36d1da00ff4305d4f795e5..0000000000000000000000000000000000000000
+--- a/command-system/commands/domain-tree/domain-tree.command.code.ts
++++ /dev/null
+@@ -1,68 +0,0 @@
+-import { resolve } from "node:path"
+-import { sayAnswer } from "@akasha/command-system/answer-bytes"
+-import type { Answer, Given } from "@akasha/command-system/calling"
+-import { AUTHOR } from "@akasha/command-system/committing"
+-import { whyOf } from "@akasha/command-system/fault-saying"
+-import { writerIn } from "@akasha/command-system/reading"
+-import { rootOf } from "@akasha/command-system/rooting"
+-import { type DomainRow as Drawn, domainsDrawn } from "@akasha/domains/domain-rows"
+-import { championTree, type DomainRow } from "@akasha/editor-extension/champions-tree"
+-
+-// A domain as the panel reads it, said as the tree wants it. The two spell the path differently and
+-// agree on the rest.
+-export function rowsFrom(drawn: readonly Drawn[]): readonly DomainRow[] {
+-  return drawn.map((one) => ({
+-    slug: one.slug,
+-    relPath: one.path,
+-    persona: one.persona,
+-    parent: one.parent,
+-    sequence: one.sequence,
+-  }))
+-}
+-
+-export function domainRowsIn(repo: string): readonly DomainRow[] {
+-  return rowsFrom(domainsDrawn(repo))
+-}
+-
+-export function treeSaid(repo: string, rows: readonly DomainRow[]): string {
+-  const { roots, unreached } = championTree(rows)
+-  return JSON.stringify({ repo, roots, unreached })
+-}
+-
+-export function refusalsIn(argv: readonly string[]): readonly string[] {
+-  return argv.map((one) => `\`${one}\` is no word this takes — this takes no word at all`)
+-}
+-
+-export function domainTree(argv: readonly string[], given: Given): Answer {
+-  const refusals = refusalsIn(argv)
+-  if (refusals.length > 0) return { report: [], refusals, code: 1 }
+-  try {
+-    const repo = resolve(given.root)
+-    return { report: [treeSaid(repo, domainRowsIn(repo))], refusals: [], code: 0 }
+-  } catch (thrown) {
+-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+-  }
+-}
+-
+-// ASKED AS A CHILD OF ITS OWN, so this file is an entry point as well as a command. The editor
+-// spawns this rather than asking the held-open server, because a cheap read queued behind two
+-// expensive trees waits on both, and the outside a command is handed is composed here the way the
+-// command line composes it.
+-function outsideHere(): Given {
+-  const stated = process.env.AKASHA_ROOT
+-  const said = process.env.AKASHA_WRITER
+-  return {
+-    root: stated === undefined || stated === "" ? rootOf(import.meta.path) : resolve(stated),
+-    calledAs: "akasha domain-tree",
+-    from: process.cwd(),
+-    writer: said === undefined || said === "" ? AUTHOR : said,
+-    agentId: writerIn(process.env),
+-  }
+-}
+-
+-if (import.meta.main) {
+-  const answer = domainTree(process.argv.slice(2), outsideHere())
+-  if (answer.report.length > 0) sayAnswer(answer.report.map((one) => `${one}\n`).join(""))
+-  for (const one of answer.refusals) process.stderr.write(`${one}\n`)
+-  process.exitCode = answer.code
+-}
+diff --git a/command-system/commands/domain-tree/domain-tree.command.test.ts b/command-system/commands/domain-tree/domain-tree.command.test.ts
+deleted file mode 100644
+index 95953528b28e7a567fe20c0a203fc8bb28dedd53..0000000000000000000000000000000000000000
+--- a/command-system/commands/domain-tree/domain-tree.command.test.ts
++++ /dev/null
+@@ -1,113 +0,0 @@
+-import { expect, test } from "bun:test"
+-import type { Given } from "@akasha/command-system/calling"
+-import type { DomainRow } from "@akasha/editor-extension/champions-tree"
+-import { domainTree, refusalsIn, rowsFrom, treeSaid } from "./domain-tree.command.code.ts"
+-
+-const ROOT = "/nowhere"
+-
+-function givenIn(): Given {
+-  return { root: ROOT, calledAs: "akasha domain-tree", from: ROOT, writer: null, agentId: null }
+-}
+-
+-const ROWS: readonly DomainRow[] = [
+-  {
+-    slug: "domain/akasha",
+-    relPath: "akasha/akasha.domain.ts",
+-    persona: null,
+-    parent: null,
+-    sequence: ["domain/pages"],
+-  },
+-  {
+-    slug: "domain/pages",
+-    relPath: "akasha/pages-system/pages.domain.ts",
+-    persona: null,
+-    parent: "domain/akasha",
+-    sequence: [],
+-  },
+-]
+-
+-test("the answer carries the three keys the editor's reader consumes", () => {
+-  const said = JSON.parse(treeSaid("/repo", ROWS))
+-
+-  expect(Object.keys(said).sort()).toEqual(["repo", "roots", "unreached"])
+-  expect(said.repo).toBe("/repo")
+-  expect(said.unreached).toEqual([])
+-})
+-
+-test("a row carries the five keys a node is read by", () => {
+-  const said = JSON.parse(treeSaid("/repo", ROWS))
+-  const root = said.roots[0]
+-
+-  expect(Object.keys(root).sort()).toEqual(["children", "persona", "position", "relPath", "slug"])
+-  expect(root.slug).toBe("domain/akasha")
+-  expect(root.relPath).toBe("akasha/akasha.domain.ts")
+-  expect(root.children[0].slug).toBe("domain/pages")
+-})
+-
+-test("a domain no root reaches is named in unreached", () => {
+-  const circle: readonly DomainRow[] = [
+-    { slug: "one", relPath: "one.ts", persona: null, parent: "two", sequence: [] },
+-    { slug: "two", relPath: "two.ts", persona: null, parent: "one", sequence: [] },
+-  ]
+-  const said = JSON.parse(treeSaid("/repo", circle))
+-
+-  expect(said.roots).toEqual([])
+-  expect(said.unreached).toEqual(["one", "two"])
+-})
+-
+-test("the panel's path is said as the tree's relPath, and the champion is carried on", () => {
+-  const said = rowsFrom([
+-    {
+-      slug: "domain/akasha",
+-      path: "akasha/akasha.domain.ts",
+-      persona: "amy",
+-      parent: null,
+-      sequence: [],
+-    },
+-  ])
+-
+-  expect(said).toEqual([
+-    {
+-      slug: "domain/akasha",
+-      relPath: "akasha/akasha.domain.ts",
+-      persona: "amy",
+-      parent: null,
+-      sequence: [],
+-    },
+-  ])
+-})
+-
+-test("a domain no persona champions is said with no champion", () => {
+-  const said = rowsFrom([
+-    { slug: "domain/pages", path: "pages.domain.ts", persona: null, parent: null, sequence: [] },
+-  ])
+-
+-  expect(said[0]?.persona).toBeNull()
+-})
+-
+-test("a call naming nothing is refused nothing", () => {
+-  expect(refusalsIn([])).toEqual([])
+-})
+-
+-test("a word this does not take refuses as a fault in the call", () => {
+-  const said = domainTree(["--json"], givenIn())
+-
+-  expect(said.code).toBe(1)
+-  expect(said.report).toEqual([])
+-  expect(said.refusals[0]).toContain("`--json`")
+-})
+-
+-test("a word carrying no dash is refused too, this taking no word at all", () => {
+-  const said = domainTree(["sideways"], givenIn())
+-
+-  expect(said.code).toBe(1)
+-  expect(said.refusals).toHaveLength(1)
+-})
+-
+-test("a repo nothing can be read from answers a fault rather than throwing", () => {
+-  const said = domainTree([], givenIn())
+-
+-  expect(said.code).toBe(3)
+-  expect(said.report).toEqual([])
+-  expect(said.refusals).toHaveLength(1)
+-})
+diff --git a/command-system/commands/domain-tree/domain-tree.command.ts b/command-system/commands/domain-tree/domain-tree.command.ts
+deleted file mode 100644
+index 0107da637721df20fe8299feea1bf43a0142cca3..0000000000000000000000000000000000000000
+--- a/command-system/commands/domain-tree/domain-tree.command.ts
++++ /dev/null
+@@ -1,51 +0,0 @@
+-import type { Command } from "../command.page-type.ts"
+-
+-export const domainTree = {
+-  id: "01a06936-1ef0-76c1-a12f-33eb7a0e5a10",
+-  pageTypeSlug: "command",
+-  slug: "domain-tree",
+-  definition: "the domain tree, composed from the domain pages at the moment of asking",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [],
+-  helpNotes: [
+-    "it prints one JSON object on stdout and nothing else.",
+-    "the object carries `repo`, the `roots` of the tree, and `unreached`.",
+-    "each row under `roots` carries `slug`, `relPath`, `persona`, `position` and `children`.",
+-    "a domain hangs under the domain it names as its parent, and one naming no parent it can reach is a root.",
+-    "a domain no root reaches is named in `unreached`, so a broken edge is said rather than swallowed.",
+-    "`repo` is the akasha checkout the tree was read from, and `relPath` is each domain's path inside it, so a reader joins the two to open the file.",
+-    "the editor's domain tree asks this as a child process, because composing the tree reaches page bodies and loading one needs a transpiler only bun carries.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The tree is composed at the moment of asking rather than read from a store.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A domain hangs under the domain that domain names as its parent.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A domain no root reaches is named in `unreached` rather than dropped in silence.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The answer is one JSON object on stdout and nothing else.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "This command takes no word.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A call naming a word is refused.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A run writes nothing.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/command-system/commands/measure-attributes/measure-attributes.command.code.ts b/command-system/commands/measure-attributes/measure-attributes.command.code.ts
+deleted file mode 100644
+index 376691e4995d8f0e17355e362f75fae2feb35707..0000000000000000000000000000000000000000
+--- a/command-system/commands/measure-attributes/measure-attributes.command.code.ts
++++ /dev/null
+@@ -1,109 +0,0 @@
+-import { asking } from "@akasha/pages-service/asking"
+-import { levelOf } from "../../../alan/harness/attributes/levelling/attributes-levelling.module.code.ts"
+-import type { Taken } from "../../../alan/harness/attributes/reading/attributes-reading.module.code.ts"
+-import { totalAttributes } from "../../../alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
+-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+-
+-const READOUT = "readout"
+-
+-const GROUP = "attributes"
+-
+-const PLACES = 2
+-
+-const NOTHING_READ =
+-  "no attribute could be worked out, so there is nothing to say. A figure Alan did not earn " +
+-  "would be a lie, and no figure at all is not a figure of zero."
+-
+-export type Measured = {
+-  readonly label: string
+-  readonly level: number
+-  readonly figure: number
+-}
+-
+-// A FIGURE IS FLOORED RATHER THAN ROUNDED. A reading just short of a rung reads as the rung it has
+-// not reached once it is rounded up, and the whole point of the figure is to say what is earned.
+-export function flooredTo(value: number, places: number): number {
+-  const scale = 10 ** places
+-  return Math.floor(value * scale) / scale
+-}
+-
+-function slugIn(path: string): string {
+-  const parts = path.split("/")
+-  return parts[parts.length - 2] ?? ""
+-}
+-
+-type Drawn = { readonly label: string; readonly place: number }
+-
+-// THE LABEL AND THE ORDER COME FROM THE READOUT'S OWN PAGE. An attribute added later is answered
+-// with the rest of them, where a list written here would answer the six that were there today.
+-export function drawnIn(root: string): ReadonlyMap<string, Drawn> {
+-  const found = new Map<string, Drawn>()
+-  const asked = asking(root, {
+-    pageTypeSlug: READOUT,
+-    keys: ["slug", "label", "place", "groupSlugs"],
+-  } as never)
+-  if ("refused" in asked) throw new Error(asked.refused)
+-  for (const row of asked.rows) {
+-    const one = row as Readonly<Record<string, unknown>>
+-    const groups = one["groupSlugs"]
+-    if (!Array.isArray(groups) || !groups.includes(GROUP)) continue
+-    const slug = String(one["slug"] ?? "")
+-    const label = String(one["label"] ?? slug)
+-    const place = typeof one["place"] === "number" ? one["place"] : 0
+-    found.set(slug, { label, place })
+-  }
+-  return found
+-}
+-
+-export function measuredIn(taken: Taken, drawn: ReadonlyMap<string, Drawn>): readonly Measured[] {
+-  const held: (Measured & { place: number })[] = []
+-  for (const [path, value] of Object.entries(taken.kept)) {
+-    const shown = drawn.get(slugIn(path))
+-    if (shown === undefined) continue
+-    held.push({
+-      label: shown.label,
+-      level: levelOf(value),
+-      figure: flooredTo(value, PLACES),
+-      place: shown.place,
+-    })
+-  }
+-  held.sort((one, two) => one.place - two.place)
+-  return held.map((one) => ({ label: one.label, level: one.level, figure: one.figure }))
+-}
+-
+-function widestOf(values: readonly string[]): number {
+-  return values.reduce((most, one) => Math.max(most, one.length), 0)
+-}
+-
+-// EVERY COLUMN IS WRITTEN TO THE WIDTH OF ITS OWN WIDEST ENTRY. A number written as the number it
+-// is drops the places it has no digits for, so a column reads `0`, `0.6` and `0.63`, and the
+-// hundredths of one attribute sit under the tenths of the next. A level of ten digits two wide
+-// would shove the points of every other attribute across by one for the same reason.
+-export function linesOf(measured: readonly Measured[]): readonly string[] {
+-  const cells = measured.map((one) => ({
+-    label: one.label,
+-    level: String(one.level),
+-    figure: one.figure.toFixed(PLACES),
+-  }))
+-  const labels = widestOf(cells.map((one) => one.label))
+-  const levels = widestOf(cells.map((one) => one.level))
+-  const figures = widestOf(cells.map((one) => one.figure))
+-  return cells.map(
+-    (one) =>
+-      `${one.label.padEnd(labels)}  ${one.level.padStart(levels)}  ${one.figure.padStart(figures)}`
+-  )
+-}
+-
+-export async function measureAttributes(_argv: readonly string[], given: Given): Promise<Answer> {
+-  const taken = await totalAttributes(given.root)
+-  const measured = measuredIn(taken, drawnIn(given.root))
+-  if (measured.length === 0) {
+-    return { report: [], refusals: [NOTHING_READ, ...taken.unread], code: 2 }
+-  }
+-  const said = [...linesOf(measured)]
+-  return {
+-    report: taken.unread.length === 0 ? said : [...said, "", ...taken.unread],
+-    refusals: [],
+-    code: 0,
+-  }
+-}
+diff --git a/command-system/commands/measure-attributes/measure-attributes.command.test.ts b/command-system/commands/measure-attributes/measure-attributes.command.test.ts
+deleted file mode 100644
+index b83da7e25f16bd06e688ebe9e5317132f79ff06d..0000000000000000000000000000000000000000
+--- a/command-system/commands/measure-attributes/measure-attributes.command.test.ts
++++ /dev/null
+@@ -1,63 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { flooredTo, linesOf, measuredIn } from "./measure-attributes.command.code.ts"
+-
+-const DRAWN = new Map([
+-  ["attribute-strength", { label: "Strength", place: 1 }],
+-  ["attribute-charisma", { label: "Charisma", place: 6 }],
+-])
+-
+-const AT = "readout-system/readouts/pages"
+-
+-const STRENGTH = `${AT}/attribute-strength/attribute-strength.readout.ts`
+-
+-const CHARISMA = `${AT}/attribute-charisma/attribute-charisma.readout.ts`
+-
+-test("a figure is floored to two places rather than rounded", () => {
+-  expect(flooredTo(2.703413740236413, 2)).toBe(2.7)
+-  expect(flooredTo(0.0224, 2)).toBe(0.02)
+-  expect(flooredTo(0.999, 2)).toBe(0.99)
+-  expect(flooredTo(0, 2)).toBe(0)
+-})
+-
+-test("the attributes come back in the order their readouts state", () => {
+-  const taken = { kept: { [CHARISMA]: 1.5, [STRENGTH]: 45.44 }, unread: [] }
+-  expect(measuredIn(taken, DRAWN)).toEqual([
+-    { label: "Strength", level: 3, figure: 45.44 },
+-    { label: "Charisma", level: 0, figure: 1.5 },
+-  ])
+-})
+-
+-test("a reading whose readout is drawn in no group here is left out", () => {
+-  const taken = {
+-    kept: { "readout-system/readouts/pages/plants/plants.readout.ts": 4 },
+-    unread: [],
+-  }
+-  expect(measuredIn(taken, DRAWN)).toEqual([])
+-})
+-
+-test("the labels are padded so the levels and the totals line up", () => {
+-  expect(
+-    linesOf([
+-      { label: "Strength", level: 3, figure: 45.44 },
+-      { label: "Wisdom", level: 0, figure: 0.02 },
+-    ])
+-  ).toEqual(["Strength  3  45.44", "Wisdom    0   0.02"])
+-})
+-
+-test("a level of two digits leaves the totals in one column", () => {
+-  expect(
+-    linesOf([
+-      { label: "Strength", level: 12, figure: 3760 },
+-      { label: "Wisdom", level: 0, figure: 0.02 },
+-    ])
+-  ).toEqual(["Strength  12  3760.00", "Wisdom     0     0.02"])
+-})
+-
+-test("a level is written as a whole number", () => {
+-  expect(linesOf([{ label: "Wisdom", level: 4, figure: 70 }])).toEqual(["Wisdom  4  70.00"])
+-})
+-
+-test("a total with no hundredths and no tenths is written to two places anyway", () => {
+-  expect(linesOf([{ label: "Wisdom", level: 0, figure: 0 }])).toEqual(["Wisdom  0  0.00"])
+-  expect(linesOf([{ label: "Wisdom", level: 0, figure: 3 }])).toEqual(["Wisdom  0  3.00"])
+-})
+diff --git a/command-system/commands/measure-attributes/measure-attributes.command.ts b/command-system/commands/measure-attributes/measure-attributes.command.ts
+deleted file mode 100644
+index ba6e4f19199be76c9c2389d67d94b612dbf3052e..0000000000000000000000000000000000000000
+--- a/command-system/commands/measure-attributes/measure-attributes.command.ts
++++ /dev/null
+@@ -1,83 +0,0 @@
+-import type { Command } from "../command.page-type.ts"
+-
+-export const measureAttributes = {
+-  id: "01a07803-0b6a-7fdb-9b43-0d4b23b072ee",
+-  pageTypeSlug: "command",
+-  slug: "measure-attributes",
+-  definition: "the command saying each attribute's level and the total behind that level",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-mechanical",
+-  helpNotes: [
+-    "the level and the total are worked out at the moment of asking rather than read off the tiles.",
+-    "a total is an attribute's daily points added up over the days from 2026-09-06 onward.",
+-    "a level is the highest rung a total has reached, each climb costing 10, 10, 20, 30, 50, 80 points and on up the Fibonacci numbers.",
+-    "a level is a whole number, and a total is floored to two decimal places, so a total short of a hundredth reads `0.00`.",
+-    "an attribute nothing can be read for is named beneath the lines rather than drawn at level 0.",
+-    "the attributes sit in the order their readouts state.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Each figure is worked out when the command is called.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A line says an attribute's label before that attribute's level.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A line says an attribute's level before that attribute's total.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A total is the sum of an attribute's points over the days from 2026-09-06 onward.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A level is read from the levelling module rather than worked out here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A level is written as a whole number with no decimal place.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A total is floored to two decimal places rather than rounded.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A total is written to two decimal places whatever digits that total has.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Each column is written to the width of the widest entry in that column.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An attribute that could not be read is named rather than answered as zero.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "An attribute that could not be read is left out of the lines rather than shown at level 0.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The label and the order of an attribute are read from its readout's page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A run answering no attribute at all is refused.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A run keeps no reading beside a readout.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A run turns no figure into a color.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/command-system/commands/seat-messaged/seat-messaged.command.code.ts b/command-system/commands/seat-messaged/seat-messaged.command.code.ts
+deleted file mode 100644
+index 2d630c7127d6ffde06d8c68988131bded80dee37..0000000000000000000000000000000000000000
+--- a/command-system/commands/seat-messaged/seat-messaged.command.code.ts
++++ /dev/null
+@@ -1,60 +0,0 @@
+-import { asking } from "@akasha/pages-service/asking"
+-import { keepLastMessagedAt, personaOr } from "@akasha/personas/persona-reading"
+-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+-
+-const SEAT = "seat"
+-
+-export type Seated = {
+-  readonly slug: string
+-  readonly personaSlug: string
+-}
+-
+-export function seatedIn(root: string): readonly Seated[] {
+-  const asked = asking(root, {
+-    pageTypeSlug: SEAT,
+-    keys: ["slug", "personaSlug"],
+-  } as never)
+-  if ("refused" in asked) throw new Error(asked.refused)
+-  const held: Seated[] = []
+-  for (const row of asked.rows) {
+-    const one = row as Readonly<Record<string, unknown>>
+-    const slug = one["slug"]
+-    const persona = one["personaSlug"]
+-    if (typeof slug !== "string" || typeof persona !== "string") continue
+-    held.push({ slug, personaSlug: persona })
+-  }
+-  return held
+-}
+-
+-// A SEAT NAMING NOBODY IS THE SAME ANSWER AS NO SEAT AT ALL. Either way there is no persona to mark,
+-// and a caller that had to tell the two apart would be deciding what to do with a seat rather than
+-// with a persona.
+-export function personaIn(seats: readonly Seated[], name: string): string | null {
+-  for (const one of seats) {
+-    if (one.slug === name && one.personaSlug !== "") return one.personaSlug
+-  }
+-  return null
+-}
+-
+-export function noSeat(name: string): string {
+-  return (
+-    `\`${name}\` names no seat holding a persona, so there is nobody to mark as written to. ` +
+-    "Marking the wrong persona would move a wallpaper and a readout onto her."
+-  )
+-}
+-
+-const NO_NAME = "no seat is named, and a run naming none would mark whichever persona came first"
+-
+-export async function seatMessaged(argv: readonly string[], given: Given): Promise<Answer> {
+-  const name = argv[0]
+-  if (name === undefined || name === "") {
+-    return { report: [], refusals: [NO_NAME], code: 2 }
+-  }
+-  const slug = personaIn(seatedIn(given.root), name)
+-  if (slug === null) {
+-    return { report: [], refusals: [noSeat(name)], code: 2 }
+-  }
+-  const at = new Date()
+-  keepLastMessagedAt(given.root, personaOr(given.root, slug), at)
+-  return { report: [`${slug} ${at.toISOString()}`], refusals: [], code: 0 }
+-}
+diff --git a/command-system/commands/seat-messaged/seat-messaged.command.test.ts b/command-system/commands/seat-messaged/seat-messaged.command.test.ts
+deleted file mode 100644
+index 25f4b7549afaea89a9eef08ccadbbdff6a38db74..0000000000000000000000000000000000000000
+--- a/command-system/commands/seat-messaged/seat-messaged.command.test.ts
++++ /dev/null
+@@ -1,26 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { noSeat, personaIn, type Seated } from "./seat-messaged.command.code.ts"
+-
+-const SEATS: readonly Seated[] = [
+-  { slug: "amy", personaSlug: "amy" },
+-  { slug: "ops", personaSlug: "sophia" },
+-  { slug: "spare", personaSlug: "" },
+-]
+-
+-test("a seat answers the persona that seat states", () => {
+-  expect(personaIn(SEATS, "amy")).toBe("amy")
+-  expect(personaIn(SEATS, "ops")).toBe("sophia")
+-})
+-
+-test("a name that is no seat answers nobody", () => {
+-  expect(personaIn(SEATS, "nobody")).toBe(null)
+-  expect(personaIn([], "amy")).toBe(null)
+-})
+-
+-test("a seat naming no persona answers nobody", () => {
+-  expect(personaIn(SEATS, "spare")).toBe(null)
+-})
+-
+-test("the refusal names the seat that was asked for", () => {
+-  expect(noSeat("spare")).toContain("`spare`")
+-})
+diff --git a/command-system/commands/seat-messaged/seat-messaged.command.ts b/command-system/commands/seat-messaged/seat-messaged.command.ts
+deleted file mode 100644
+index 7d119678a64a40bcfab042a683a469eb5c5ab67a..0000000000000000000000000000000000000000
+--- a/command-system/commands/seat-messaged/seat-messaged.command.ts
++++ /dev/null
+@@ -1,39 +0,0 @@
+-import type { Command } from "../command.page-type.ts"
+-
+-export const seatMessaged = {
+-  id: "01a0780e-7f14-71fd-ac09-b12de342c207",
+-  pageTypeSlug: "command",
+-  slug: "seat-messaged",
+-  definition: "the command marking the persona at a seat as the one Alan wrote to last",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-mechanical",
+-  taking: [{ said: "<name>", takes: "the seat Alan wrote to" }],
+-  helpNotes: [
+-    "the moment kept is the moment of the run rather than a moment the caller states.",
+-    "the value is kept beside the persona's page rather than in the commit.",
+-    "a seat holding no persona is refused rather than kept against nobody.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The persona marked is the persona the named seat states.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A name that is no seat is refused rather than kept against nobody.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A run states which persona was marked and at what moment.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads the seat's work.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A run marks no persona but the named seat's persona.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/command-system/commands/seat-transcripts/seat-transcripts.command.code.ts b/command-system/commands/seat-transcripts/seat-transcripts.command.code.ts
+deleted file mode 100644
+index 16925abef3f2af8a370b95f659a9f1888980e4e2..0000000000000000000000000000000000000000
+--- a/command-system/commands/seat-transcripts/seat-transcripts.command.code.ts
++++ /dev/null
+@@ -1,67 +0,0 @@
+-import type { Answer, Given } from "@akasha/command-system/calling"
+-import { whyOf } from "@akasha/command-system/fault-saying"
+-import { akashaSeatsThatExist } from "@akasha/seat-system/seat-akasha-beside"
+-import { akashaSeatRecordOf } from "@akasha/seat-system/seat-akasha-read"
+-
+-const TRANSCRIPT_KEY = "transcript-path"
+-
+-export interface SeatTranscript {
+-  readonly agentId: string
+-  readonly seatName: string
+-  readonly transcriptPath: string
+-}
+-
+-// One value read off a seat, in the shape the seat readers answer it in. It is named here so the
+-// walk below can be driven by a seeded reader as well as by the real one: which seats are there,
+-// what each of them holds, changes between one call and the next, so a check that asked the live
+-// fleet would agree with whatever it was handed and prove nothing about the walk.
+-export type Held = { readonly value: string } | null
+-
+-export type Reading = (agentId: string, key: string) => Held
+-
+-// WHERE EACH SEAT'S TRANSCRIPT IS, over the seats handed in. A seat holding no transcript, or
+-// holding an empty one, is left out rather than answered with an empty path: an empty path names
+-// a file, and the caller opening it would read the absence as a broken transcript rather than as
+-// a seat that has none yet.
+-export function transcriptsOver(
+-  seats: Iterable<readonly [string, string]>,
+-  reading: Reading
+-): readonly SeatTranscript[] {
+-  const found: SeatTranscript[] = []
+-  for (const [agentId, seatName] of seats) {
+-    const held = reading(agentId, TRANSCRIPT_KEY)
+-    if (held === null || held.value === "") continue
+-    found.push({ agentId, seatName, transcriptPath: held.value })
+-  }
+-  return found
+-}
+-
+-// Every seat akasha holds at the moment of asking, each with where its transcript is. A seat
+-// is named by the index and its transcript is read from the values kept beside its page, so a
+-// seat kept only in akasha is answered here like any other.
+-export function transcriptsNow(): readonly SeatTranscript[] {
+-  return transcriptsOver(akashaSeatsThatExist(), akashaSeatRecordOf)
+-}
+-
+-// The whole of what goes back: one JSON object carrying a `seats` list, and nothing else.
+-export function saidOf(seats: readonly SeatTranscript[]): string {
+-  return JSON.stringify({ seats })
+-}
+-
+-// THE ROOT IS NOT TAKEN FROM `given`, and that is on purpose. The seats are read from the akasha
+-// checkout `resolveRoots()` names, which is what the readers underneath reach on their own and
+-// what this verb reached before it was a command. `given.root` is the root the caller was in,
+-// and handing it down here would move which fleet a call reads — so the caller's root is left
+-// where it is rather than passed to readers that do not take one.
+-export function seatTranscripts(argv: readonly string[], _given: Given): Answer {
+-  if (argv.length > 0) {
+-    const said = argv.map((one) => `\`${one}\``).join(", ")
+-    const are = argv.length === 1 ? "is no word this takes" : "are no words this takes"
+-    return { report: [], refusals: [`${said} ${are} — this command takes none`], code: 1 }
+-  }
+-  try {
+-    return { report: [saidOf(transcriptsNow())], refusals: [], code: 0 }
+-  } catch (thrown) {
+-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+-  }
+-}
+diff --git a/command-system/commands/seat-transcripts/seat-transcripts.command.test.ts b/command-system/commands/seat-transcripts/seat-transcripts.command.test.ts
+deleted file mode 100644
+index b141d0588b48bf9193af90eb07e33541c6e1408c..0000000000000000000000000000000000000000
+--- a/command-system/commands/seat-transcripts/seat-transcripts.command.test.ts
++++ /dev/null
+@@ -1,149 +0,0 @@
+-import { expect, test } from "bun:test"
+-import type { Given } from "@akasha/command-system/calling"
+-import {
+-  type Held,
+-  saidOf,
+-  seatTranscripts,
+-  transcriptsOver,
+-} from "./seat-transcripts.command.code.ts"
+-
+-const ROOT = "/nowhere"
+-
+-function givenIn(): Given {
+-  return {
+-    root: ROOT,
+-    calledAs: "akasha seat-transcripts",
+-    from: ROOT,
+-    writer: null,
+-    agentId: null,
+-  }
+-}
+-
+-const SEATS: readonly (readonly [string, string])[] = [
+-  ["01a00000-0000-7000-8000-00000000000a", "astra"],
+-  ["01a00000-0000-7000-8000-00000000000b", "borea"],
+-  ["01a00000-0000-7000-8000-00000000000c", "cirra"],
+-]
+-
+-function holding(byId: Readonly<Record<string, string>>): (agentId: string) => Held {
+-  return (agentId) => {
+-    const said = byId[agentId]
+-    return said === undefined ? null : { value: said }
+-  }
+-}
+-
+-test("each seat carries its agent id, its seat name and where its transcript is", () => {
+-  const found = transcriptsOver(
+-    SEATS,
+-    holding({
+-      "01a00000-0000-7000-8000-00000000000a": "/home/one/a.jsonl",
+-      "01a00000-0000-7000-8000-00000000000b": "/home/one/b.jsonl",
+-      "01a00000-0000-7000-8000-00000000000c": "/home/one/c.jsonl",
+-    })
+-  )
+-
+-  expect(found).toEqual([
+-    {
+-      agentId: "01a00000-0000-7000-8000-00000000000a",
+-      seatName: "astra",
+-      transcriptPath: "/home/one/a.jsonl",
+-    },
+-    {
+-      agentId: "01a00000-0000-7000-8000-00000000000b",
+-      seatName: "borea",
+-      transcriptPath: "/home/one/b.jsonl",
+-    },
+-    {
+-      agentId: "01a00000-0000-7000-8000-00000000000c",
+-      seatName: "cirra",
+-      transcriptPath: "/home/one/c.jsonl",
+-    },
+-  ])
+-})
+-
+-test("a seat holding no transcript is left out rather than answered an empty path", () => {
+-  const found = transcriptsOver(
+-    SEATS,
+-    holding({ "01a00000-0000-7000-8000-00000000000b": "/home/one/b.jsonl" })
+-  )
+-
+-  expect(found.map((one) => one.seatName)).toEqual(["borea"])
+-})
+-
+-test("a seat holding an empty transcript path is left out the same way", () => {
+-  const found = transcriptsOver(
+-    SEATS,
+-    holding({
+-      "01a00000-0000-7000-8000-00000000000a": "",
+-      "01a00000-0000-7000-8000-00000000000b": "/home/one/b.jsonl",
+-      "01a00000-0000-7000-8000-00000000000c": "",
+-    })
+-  )
+-
+-  expect(found.map((one) => one.seatName)).toEqual(["borea"])
+-})
+-
+-test("a fleet holding nothing answers an empty list rather than nothing at all", () => {
+-  expect(transcriptsOver([], holding({}))).toEqual([])
+-  expect(JSON.parse(saidOf(transcriptsOver([], holding({}))))).toEqual({ seats: [] })
+-})
+-
+-test("what is said is one object carrying the seats and nothing else", () => {
+-  const said = JSON.parse(
+-    saidOf(
+-      transcriptsOver(SEATS, holding({ "01a00000-0000-7000-8000-00000000000a": "/one.jsonl" }))
+-    )
+-  )
+-
+-  expect(Object.keys(said)).toEqual(["seats"])
+-  expect(said.seats).toEqual([
+-    {
+-      agentId: "01a00000-0000-7000-8000-00000000000a",
+-      seatName: "astra",
+-      transcriptPath: "/one.jsonl",
+-    },
+-  ])
+-})
+-
+-test("a word this does not take refuses as a fault in the call", () => {
+-  const said = seatTranscripts(["--json"], givenIn())
+-
+-  expect(said.code).toBe(1)
+-  expect(said.report).toEqual([])
+-  expect(said.refusals[0]).toContain("`--json`")
+-})
+-
+-test("a word carrying no dash is refused too, because this takes no word at all", () => {
+-  const said = seatTranscripts(["seats"], givenIn())
+-
+-  expect(said.code).toBe(1)
+-  expect(said.refusals[0]).toContain("`seats`")
+-})
+-
+-test("every word it was given is named rather than the first of them alone", () => {
+-  const said = seatTranscripts(["--json", "--counts"], givenIn())
+-
+-  expect(said.refusals[0]).toContain("`--json`")
+-  expect(said.refusals[0]).toContain("`--counts`")
+-})
+-
+-// THIS ARM IS WHAT PROVES THE HELPERS RESOLVE. Everything above drives a seeded reader, so it
+-// would pass with `@akasha/seat-system/seat-akasha-beside` misspelt into a module that is
+-// not there. This one calls the command, which reaches both helpers, so a bad specifier
+-// fails it at import.
+-test("a call naming nothing answers the seats the fleet holds now", () => {
+-  const said = seatTranscripts([], givenIn())
+-
+-  expect(said.refusals).toEqual([])
+-  expect(said.code).toBe(0)
+-  expect(said.report.length).toBe(1)
+-  const held = JSON.parse(said.report[0] ?? "")
+-
+-  expect(Array.isArray(held.seats)).toBe(true)
+-  for (const one of held.seats) {
+-    expect(typeof one.agentId).toBe("string")
+-    expect(typeof one.seatName).toBe("string")
+-    expect(typeof one.transcriptPath).toBe("string")
+-    expect(one.transcriptPath).not.toBe("")
+-  }
+-})
+diff --git a/command-system/commands/seat-transcripts/seat-transcripts.command.ts b/command-system/commands/seat-transcripts/seat-transcripts.command.ts
+deleted file mode 100644
+index e88f855c124356e46cfd1566d1c85366dd6d5ca2..0000000000000000000000000000000000000000
+--- a/command-system/commands/seat-transcripts/seat-transcripts.command.ts
++++ /dev/null
+@@ -1,59 +0,0 @@
+-import type { Command } from "../command.page-type.ts"
+-
+-export const seatTranscripts = {
+-  id: "01a06934-ff28-7819-ad05-c50a0471362c",
+-  pageTypeSlug: "command",
+-  slug: "seat-transcripts",
+-  definition: "the command saying where each seat's transcript file is",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [],
+-  helpNotes: [
+-    "it takes no word at all, and every word it is given is refused.",
+-    "it prints one JSON object carrying a `seats` list, and nothing else.",
+-    "each seat in that list carries its agent id, its seat name, and where its transcript is.",
+-    "a seat is named by the index, so a seat kept only in akasha is answered here like any other.",
+-    "a transcript is read from the values kept beside a seat's page rather than from the page itself.",
+-    "a seat holding no transcript, or holding an empty one, is left out rather than answered with an empty path.",
+-    "the editor's agent tree and transcript panel read this, because the read reaches an uncommitted page body.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "This command takes no word.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A word this command is given is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The seats are named by the index rather than by a walk of a directory.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat's transcript is read from the values kept beside that seat's page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat holding no transcript is left out rather than answered an empty path.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat holding an empty transcript path is left out the same way.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every seat is answered in one call rather than one seat at a time.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A run writes nothing.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads a transcript.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/command-system/package.json b/command-system/package.json
+index fa10ad62551a53164a5a494417c37cc0af34f3a6..b766e04dae72b4c7ae188866d38f487f6c936f8a 100644
+--- a/command-system/package.json
++++ b/command-system/package.json
+@@ -54,7 +54,6 @@
+     "./argument-narrowing": "./argument-narrowing/argument-narrowing.module.code.ts",
+     "./commands-served": "./commands-served/commands-served.module.code.ts",
+     "./agent-forest": "./commands/agent-forest/agent-forest.command.code.ts",
+-    "./domain-tree": "./commands/domain-tree/domain-tree.command.code.ts",
+     "./page-tree": "./commands/page-tree/page-tree.command.code.ts",
+     "./work-tree": "./commands/work-tree/work-tree.command.code.ts"
+   },
+diff --git a/commands/pages/compose-notices/compose-notices.command.code.ts b/commands/pages/compose-notices/compose-notices.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8a419f7922f11673ed8b8646a736c319052bae4b
+--- /dev/null
++++ b/commands/pages/compose-notices/compose-notices.command.code.ts
+@@ -0,0 +1,56 @@
++import { writeFileSync } from "node:fs"
++import { isAbsolute, resolve } from "node:path"
++import type { Answer, Given } from "@akasha/command-system/calling"
++import { whyOf } from "@akasha/command-system/fault-saying"
++import { notices } from "@akasha/seat-system/compose-notices"
++
++export const OUT = "--out"
++
++export type Read = { readonly out: string | null } | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  let out: string | null = null
++  for (let i = 0; i < argv.length; i += 1) {
++    const one = argv[i]
++    if (one === OUT) {
++      const value = argv[i + 1]
++      if (value === undefined) refusals.push(`\`${OUT}\` takes a value, and none was named`)
++      else {
++        i += 1
++        out = value
++      }
++      continue
++    }
++    refusals.push(`\`${one}\` is no word this takes — it takes \`${OUT} <path>\``)
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { out }
++}
++
++export function saidOf(found: Readonly<Record<string, string>>): string {
++  return JSON.stringify(found, null, 2)
++}
++
++export function pathOf(said: string, root: string): string {
++  return isAbsolute(said) ? said : resolve(root, said)
++}
++
++export function composeNotices(argv: readonly string[], given: Given): Answer {
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
++  let found: Readonly<Record<string, string>>
++  try {
++    found = notices()
++  } catch (thrown) {
++    return { report: [], refusals: [whyOf(thrown)], code: 1 }
++  }
++  try {
++    const json = saidOf(found)
++    if (read.out === null) return { report: [json], refusals: [], code: 0 }
++    writeFileSync(pathOf(read.out, resolve(given.root)), `${json}\n`)
++    return { report: [], refusals: [], code: 0 }
++  } catch (thrown) {
++    return { report: [], refusals: [whyOf(thrown)], code: 3 }
++  }
++}
+diff --git a/commands/pages/compose-notices/compose-notices.command.test.ts b/commands/pages/compose-notices/compose-notices.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d4a2b9f13e02ab051f36586f2e2830a49d55c282
+--- /dev/null
++++ b/commands/pages/compose-notices/compose-notices.command.test.ts
+@@ -0,0 +1,182 @@
++import { expect, test } from "bun:test"
++import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
++import { join, resolve } from "node:path"
++import type { Given } from "@akasha/command-system/calling"
++import { NOTICES, notices, noticesUnder, render } from "@akasha/seat-system/compose-notices"
++import { composeNotices, OUT, pathOf, readIn, saidOf } from "./compose-notices.command.code.ts"
++
++const ROOT = resolve(import.meta.dir, "../..")
++
++function givenIn(root: string): Given {
++  return { root, calledAs: "akasha compose-notices", from: root, writer: null, agentId: null }
++}
++
++function scratch(): string {
++  const at = mkdtempSync("/var/tmp/compose-notices-test-")
++  mkdirSync(join(at, ".git"), { recursive: true })
++  return at
++}
++
++function underRoot<T>(root: string, run: () => T): T {
++  notices()
++  const held = process.env["AKASHA_ROOT"]
++  process.env["AKASHA_ROOT"] = root
++  try {
++    return run()
++  } finally {
++    if (held === undefined) delete process.env["AKASHA_ROOT"]
++    else process.env["AKASHA_ROOT"] = held
++  }
++}
++
++function saidBy(run: () => unknown): string {
++  try {
++    run()
++  } catch (thrown) {
++    return thrown instanceof Error ? thrown.message : String(thrown)
++  }
++  return ""
++}
++
++test("the lines of a paragraph are joined with a space", () => {
++  expect(render("one\ntwo\nthree\n")).toBe("one two three")
++})
++
++test("a blank line between two paragraphs survives as one", () => {
++  expect(render("one\ntwo\n\nthree\nfour\n")).toBe("one two\n\nthree four")
++})
++
++test("a run of blank lines between two paragraphs is still one blank line", () => {
++  expect(render("one\n \ntwo\n\t\nthree")).toBe("one\n\ntwo\n\nthree")
++})
++
++test("a page holding nothing renders as an empty text", () => {
++  expect(render("")).toBe("")
++  expect(render("\n\n  \n")).toBe("")
++})
++
++test("a notice is keyed by its file name with the tail taken off", () => {
++  const folder = scratch()
++  try {
++    writeFileSync(join(folder, "alpha.notice.text.md"), "one\ntwo\n")
++    writeFileSync(join(folder, "beta.notice.text.md"), "")
++    writeFileSync(join(folder, "README.md"), "not a notice\n")
++
++    expect(noticesUnder(folder)).toEqual({ alpha: "one two", beta: "" })
++  } finally {
++    rmSync(folder, { recursive: true, force: true })
++  }
++})
++
++test("a folder that is not there is refused rather than answered as no notice", () => {
++  const folder = scratch()
++  try {
++    const said = underRoot(folder, () => saidBy(notices))
++
++    expect(said).toContain("is not there")
++    expect(said).toContain(NOTICES)
++  } finally {
++    rmSync(folder, { recursive: true, force: true })
++  }
++})
++
++test("a folder holding no notice page is refused the same way", () => {
++  const folder = scratch()
++  try {
++    mkdirSync(join(folder, NOTICES), { recursive: true })
++    const said = underRoot(folder, () => saidBy(notices))
++
++    expect(said).toContain("holds no notice page")
++  } finally {
++    rmSync(folder, { recursive: true, force: true })
++  }
++})
++
++test("what the module refuses to compose is what the command refuses with", () => {
++  const folder = scratch()
++  try {
++    const said = underRoot(folder, () => composeNotices([], givenIn(ROOT)))
++
++    expect(said.code).toBe(1)
++    expect(said.report).toEqual([])
++    expect(said.refusals.length).toBe(1)
++    expect(said.refusals[0]).toContain("is not there")
++  } finally {
++    rmSync(folder, { recursive: true, force: true })
++  }
++})
++
++test("a call naming nothing writes nowhere and asks for the notices", () => {
++  expect(readIn([])).toEqual({ out: null })
++})
++
++test("`--out` carries the path said after it", () => {
++  expect(readIn([OUT, "/var/tmp/one.json"])).toEqual({ out: "/var/tmp/one.json" })
++})
++
++test("`--out` naming no value is refused rather than writing to nothing", () => {
++  const said = readIn([OUT])
++
++  expect("refused" in said && said.refused[0]).toContain("takes a value")
++})
++
++test("a word this does not take is named in its own refusal", () => {
++  const said = readIn(["--json", "notices"])
++
++  expect("refused" in said && said.refused.length).toBe(2)
++  expect("refused" in said && said.refused[0]).toContain("`--json`")
++  expect("refused" in said && said.refused[1]).toContain("`notices`")
++})
++
++test("a word this does not take refuses as a fault in the call", () => {
++  const said = composeNotices(["--help-me"], givenIn(ROOT))
++
++  expect(said.code).toBe(1)
++  expect(said.report).toEqual([])
++})
++
++test("a relative out path is read against the repository root, not the calling folder", () => {
++  expect(pathOf("one.json", "/repo")).toBe("/repo/one.json")
++  expect(pathOf("/var/tmp/one.json", "/repo")).toBe("/var/tmp/one.json")
++})
++
++test("what is said is indented two spaces", () => {
++  expect(saidOf({ one: "a" })).toBe('{\n  "one": "a"\n}')
++})
++
++test("the happy answer parses as the JSON the editor's revive reads, out of the real checkout", () => {
++  const said = composeNotices([], givenIn(ROOT))
++
++  expect(said.refusals).toEqual([])
++  expect(said.code).toBe(0)
++  expect(said.report.length).toBe(1)
++  const line = said.report[0] ?? ""
++  const held = JSON.parse(line) as Record<string, unknown>
++
++  expect(typeof held["editor-revive"]).toBe("string")
++  expect(String(held["editor-revive"]).length).toBeGreaterThan(0)
++  for (const key of ["restart-immediate", "restart-deferred", "restart-recovery-clause"]) {
++    expect(typeof held[key]).toBe("string")
++  }
++  expect(line.startsWith('{\n  "')).toBe(true)
++})
++
++test("named an out path it writes there and says nothing", () => {
++  const folder = scratch()
++  const at = join(folder, "notices.json")
++  try {
++    const said = composeNotices([OUT, at], givenIn(ROOT))
++
++    expect(said.code).toBe(0)
++    expect(said.report).toEqual([])
++    expect(said.refusals).toEqual([])
++    const written = readFileSync(at, "utf8")
++
++    expect(written.endsWith("\n")).toBe(true)
++    expect(JSON.parse(written)).toEqual(
++      JSON.parse(composeNotices([], givenIn(ROOT)).report[0] ?? "null")
++    )
++  } finally {
++    rmSync(folder, { recursive: true, force: true })
++  }
++})
+diff --git a/commands/pages/compose-notices/compose-notices.command.ts b/commands/pages/compose-notices/compose-notices.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4233a26086cf438b96f8b7846129c4956c078724
+--- /dev/null
++++ b/commands/pages/compose-notices/compose-notices.command.ts
+@@ -0,0 +1,66 @@
++import type { Command } from "../../../command-system/commands/command.page-type.ts"
++
++export const composeNotices = {
++  id: "01a0693b-42f9-7c87-95fd-2c7147ecd1f2",
++  pageTypeSlug: "command",
++  slug: "compose-notices",
++  definition: "what a seat is told when it is put back to work, as one JSON object",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-mechanical",
++  taking: [{ said: "--out <path>", takes: "a file to write into, rather than saying it" }],
++  helpNotes: [
++    "it prints one JSON object of notice slug to composed text, and nothing else.",
++    "every notice page under `seat-system/notices/pages` is rendered, keyed by its file name.",
++    "callers ask for a notice by slug, so a page renamed there is a notice one of them no longer finds.",
++    "nothing says so before a fleet meets it: the check that did went with an orphaned folder and has no successor yet.",
++    "wrapping is the author's convenience and not part of the text.",
++    "the lines of a paragraph are joined with a space, and a blank line between two paragraphs survives as one.",
++    "a notice page holding nothing is rendered as an empty text rather than left out.",
++    "the JSON is indented two spaces, unlike the other verbs the editor asks, so a caller diffing it reads a match as a match.",
++    "named `--out`, it writes there and says nothing, so a run that wrote prints no line at all.",
++    "a relative `--out` path is read against the repository root rather than the calling folder.",
++    "nothing calls this from code: the editor's seat revive and the supervisor both import the compose module and call it.",
++    "the editor reads the `editor-revive` key alone, and the supervisor `restart-immediate`, `restart-deferred` and `restart-recovery-clause`.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The notices are composed by the compose module rather than in here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A composing that throws refuses the call rather than answering with no notice.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The JSON is indented two spaces.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The callers of this command diff the JSON written.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run named `--out` writes the JSON there rather than saying the JSON.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A relative `--out` path is read against the repository root rather than the caller's folder.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Every word the command does not take is named in the refusal rather than the first alone.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here says which notice a caller asks for.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run named no `--out` writes nothing.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/domain-tree/domain-tree.command.code.ts b/commands/pages/domain-tree/domain-tree.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dd03f3ba5476217f93401f8a7dd7ec70e1576436
+--- /dev/null
++++ b/commands/pages/domain-tree/domain-tree.command.code.ts
+@@ -0,0 +1,62 @@
++import { resolve } from "node:path"
++import { sayAnswer } from "@akasha/command-system/answer-bytes"
++import type { Answer, Given } from "@akasha/command-system/calling"
++import { AUTHOR } from "@akasha/command-system/committing"
++import { whyOf } from "@akasha/command-system/fault-saying"
++import { writerIn } from "@akasha/command-system/reading"
++import { rootOf } from "@akasha/command-system/rooting"
++import { type DomainRow as Drawn, domainsDrawn } from "@akasha/domains/domain-rows"
++import { championTree, type DomainRow } from "@akasha/editor-extension/champions-tree"
++
++export function rowsFrom(drawn: readonly Drawn[]): readonly DomainRow[] {
++  return drawn.map((one) => ({
++    slug: one.slug,
++    relPath: one.path,
++    persona: one.persona,
++    parent: one.parent,
++    sequence: one.sequence,
++  }))
++}
++
++export function domainRowsIn(repo: string): readonly DomainRow[] {
++  return rowsFrom(domainsDrawn(repo))
++}
++
++export function treeSaid(repo: string, rows: readonly DomainRow[]): string {
++  const { roots, unreached } = championTree(rows)
++  return JSON.stringify({ repo, roots, unreached })
++}
++
++export function refusalsIn(argv: readonly string[]): readonly string[] {
++  return argv.map((one) => `\`${one}\` is no word this takes — this takes no word at all`)
++}
++
++export function domainTree(argv: readonly string[], given: Given): Answer {
++  const refusals = refusalsIn(argv)
++  if (refusals.length > 0) return { report: [], refusals, code: 1 }
++  try {
++    const repo = resolve(given.root)
++    return { report: [treeSaid(repo, domainRowsIn(repo))], refusals: [], code: 0 }
++  } catch (thrown) {
++    return { report: [], refusals: [whyOf(thrown)], code: 3 }
++  }
++}
++
++function outsideHere(): Given {
++  const stated = process.env.AKASHA_ROOT
++  const said = process.env.AKASHA_WRITER
++  return {
++    root: stated === undefined || stated === "" ? rootOf(import.meta.path) : resolve(stated),
++    calledAs: "akasha domain-tree",
++    from: process.cwd(),
++    writer: said === undefined || said === "" ? AUTHOR : said,
++    agentId: writerIn(process.env),
++  }
++}
++
++if (import.meta.main) {
++  const answer = domainTree(process.argv.slice(2), outsideHere())
++  if (answer.report.length > 0) sayAnswer(answer.report.map((one) => `${one}\n`).join(""))
++  for (const one of answer.refusals) process.stderr.write(`${one}\n`)
++  process.exitCode = answer.code
++}
+diff --git a/commands/pages/domain-tree/domain-tree.command.test.ts b/commands/pages/domain-tree/domain-tree.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..95953528b28e7a567fe20c0a203fc8bb28dedd53
+--- /dev/null
++++ b/commands/pages/domain-tree/domain-tree.command.test.ts
+@@ -0,0 +1,113 @@
++import { expect, test } from "bun:test"
++import type { Given } from "@akasha/command-system/calling"
++import type { DomainRow } from "@akasha/editor-extension/champions-tree"
++import { domainTree, refusalsIn, rowsFrom, treeSaid } from "./domain-tree.command.code.ts"
++
++const ROOT = "/nowhere"
++
++function givenIn(): Given {
++  return { root: ROOT, calledAs: "akasha domain-tree", from: ROOT, writer: null, agentId: null }
++}
++
++const ROWS: readonly DomainRow[] = [
++  {
++    slug: "domain/akasha",
++    relPath: "akasha/akasha.domain.ts",
++    persona: null,
++    parent: null,
++    sequence: ["domain/pages"],
++  },
++  {
++    slug: "domain/pages",
++    relPath: "akasha/pages-system/pages.domain.ts",
++    persona: null,
++    parent: "domain/akasha",
++    sequence: [],
++  },
++]
++
++test("the answer carries the three keys the editor's reader consumes", () => {
++  const said = JSON.parse(treeSaid("/repo", ROWS))
++
++  expect(Object.keys(said).sort()).toEqual(["repo", "roots", "unreached"])
++  expect(said.repo).toBe("/repo")
++  expect(said.unreached).toEqual([])
++})
++
++test("a row carries the five keys a node is read by", () => {
++  const said = JSON.parse(treeSaid("/repo", ROWS))
++  const root = said.roots[0]
++
++  expect(Object.keys(root).sort()).toEqual(["children", "persona", "position", "relPath", "slug"])
++  expect(root.slug).toBe("domain/akasha")
++  expect(root.relPath).toBe("akasha/akasha.domain.ts")
++  expect(root.children[0].slug).toBe("domain/pages")
++})
++
++test("a domain no root reaches is named in unreached", () => {
++  const circle: readonly DomainRow[] = [
++    { slug: "one", relPath: "one.ts", persona: null, parent: "two", sequence: [] },
++    { slug: "two", relPath: "two.ts", persona: null, parent: "one", sequence: [] },
++  ]
++  const said = JSON.parse(treeSaid("/repo", circle))
++
++  expect(said.roots).toEqual([])
++  expect(said.unreached).toEqual(["one", "two"])
++})
++
++test("the panel's path is said as the tree's relPath, and the champion is carried on", () => {
++  const said = rowsFrom([
++    {
++      slug: "domain/akasha",
++      path: "akasha/akasha.domain.ts",
++      persona: "amy",
++      parent: null,
++      sequence: [],
++    },
++  ])
++
++  expect(said).toEqual([
++    {
++      slug: "domain/akasha",
++      relPath: "akasha/akasha.domain.ts",
++      persona: "amy",
++      parent: null,
++      sequence: [],
++    },
++  ])
++})
++
++test("a domain no persona champions is said with no champion", () => {
++  const said = rowsFrom([
++    { slug: "domain/pages", path: "pages.domain.ts", persona: null, parent: null, sequence: [] },
++  ])
++
++  expect(said[0]?.persona).toBeNull()
++})
++
++test("a call naming nothing is refused nothing", () => {
++  expect(refusalsIn([])).toEqual([])
++})
++
++test("a word this does not take refuses as a fault in the call", () => {
++  const said = domainTree(["--json"], givenIn())
++
++  expect(said.code).toBe(1)
++  expect(said.report).toEqual([])
++  expect(said.refusals[0]).toContain("`--json`")
++})
++
++test("a word carrying no dash is refused too, this taking no word at all", () => {
++  const said = domainTree(["sideways"], givenIn())
++
++  expect(said.code).toBe(1)
++  expect(said.refusals).toHaveLength(1)
++})
++
++test("a repo nothing can be read from answers a fault rather than throwing", () => {
++  const said = domainTree([], givenIn())
++
++  expect(said.code).toBe(3)
++  expect(said.report).toEqual([])
++  expect(said.refusals).toHaveLength(1)
++})
+diff --git a/commands/pages/domain-tree/domain-tree.command.ts b/commands/pages/domain-tree/domain-tree.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7f9ffad47fe7933a33a6eb35389d6c658e08458b
+--- /dev/null
++++ b/commands/pages/domain-tree/domain-tree.command.ts
+@@ -0,0 +1,56 @@
++import type { Command } from "../../../command-system/commands/command.page-type.ts"
++
++export const domainTree = {
++  id: "01a06936-1ef0-76c1-a12f-33eb7a0e5a10",
++  pageTypeSlug: "command",
++  slug: "domain-tree",
++  definition: "the domain tree, composed from the domain pages at the moment of asking",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-none",
++  taking: [],
++  helpNotes: [
++    "it prints one JSON object on stdout and nothing else.",
++    "the object carries `repo`, the `roots` of the tree, and `unreached`.",
++    "each row under `roots` carries `slug`, `relPath`, `persona`, `position` and `children`.",
++    "a domain hangs under the domain it names as its parent, and one naming no parent it can reach is a root.",
++    "a domain no root reaches is named in `unreached`, so a broken edge is said rather than swallowed.",
++    "`repo` is the akasha checkout the tree was read from, and `relPath` is each domain's path inside it, so a reader joins the two to open the file.",
++    "the editor's domain tree asks this as a child process, because composing the tree reaches page bodies and loading one needs a transpiler only bun carries.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The tree is composed at the moment of asking rather than read from a store.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A domain hangs under the domain that domain names as its parent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A domain no root reaches is named in `unreached` rather than dropped in silence.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The answer is one JSON object on stdout and nothing else.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "This command takes no word.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A call naming a word is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "This command's code file is an entry point that composes its own `Given` from the environment.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run writes nothing.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/measure-attributes/measure-attributes.command.code.ts b/commands/pages/measure-attributes/measure-attributes.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0c21aed16bfe19861954777466ac000e2d3f5723
+--- /dev/null
++++ b/commands/pages/measure-attributes/measure-attributes.command.code.ts
+@@ -0,0 +1,101 @@
++import { asking } from "@akasha/pages-service/asking"
++import { levelOf } from "../../../alan/harness/attributes/levelling/attributes-levelling.module.code.ts"
++import type { Taken } from "../../../alan/harness/attributes/reading/attributes-reading.module.code.ts"
++import { totalAttributes } from "../../../alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
++import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
++
++const READOUT = "readout"
++
++const GROUP = "attributes"
++
++const PLACES = 2
++
++const NOTHING_READ =
++  "no attribute could be worked out, so there is nothing to say. A figure Alan did not earn " +
++  "would be a lie, and no figure at all is not a figure of zero."
++
++export type Measured = {
++  readonly label: string
++  readonly level: number
++  readonly figure: number
++}
++
++export function flooredTo(value: number, places: number): number {
++  const scale = 10 ** places
++  return Math.floor(value * scale) / scale
++}
++
++function slugIn(path: string): string {
++  const parts = path.split("/")
++  return parts[parts.length - 2] ?? ""
++}
++
++type Drawn = { readonly label: string; readonly place: number }
++
++export function drawnIn(root: string): ReadonlyMap<string, Drawn> {
++  const found = new Map<string, Drawn>()
++  const asked = asking(root, {
++    pageTypeSlug: READOUT,
++    keys: ["slug", "label", "place", "groupSlugs"],
++  } as never)
++  if ("refused" in asked) throw new Error(asked.refused)
++  for (const row of asked.rows) {
++    const one = row as Readonly<Record<string, unknown>>
++    const groups = one["groupSlugs"]
++    if (!Array.isArray(groups) || !groups.includes(GROUP)) continue
++    const slug = String(one["slug"] ?? "")
++    const label = String(one["label"] ?? slug)
++    const place = typeof one["place"] === "number" ? one["place"] : 0
++    found.set(slug, { label, place })
++  }
++  return found
++}
++
++export function measuredIn(taken: Taken, drawn: ReadonlyMap<string, Drawn>): readonly Measured[] {
++  const held: (Measured & { place: number })[] = []
++  for (const [path, value] of Object.entries(taken.kept)) {
++    const shown = drawn.get(slugIn(path))
++    if (shown === undefined) continue
++    held.push({
++      label: shown.label,
++      level: levelOf(value),
++      figure: flooredTo(value, PLACES),
++      place: shown.place,
++    })
++  }
++  held.sort((one, two) => one.place - two.place)
++  return held.map((one) => ({ label: one.label, level: one.level, figure: one.figure }))
++}
++
++function widestOf(values: readonly string[]): number {
++  return values.reduce((most, one) => Math.max(most, one.length), 0)
++}
++
++export function linesOf(measured: readonly Measured[]): readonly string[] {
++  const cells = measured.map((one) => ({
++    label: one.label,
++    level: String(one.level),
++    figure: one.figure.toFixed(PLACES),
++  }))
++  const labels = widestOf(cells.map((one) => one.label))
++  const levels = widestOf(cells.map((one) => one.level))
++  const figures = widestOf(cells.map((one) => one.figure))
++  return cells.map(
++    (one) =>
++      `${one.label.padEnd(labels)}  ${one.level.padStart(levels)}  ${one.figure.padStart(figures)}`
++  )
++}
++
++export async function measureAttributes(_argv: readonly string[], given: Given): Promise<Answer> {
++  const taken = await totalAttributes(given.root)
++  const measured = measuredIn(taken, drawnIn(given.root))
++  if (measured.length === 0) {
++    return { report: [], refusals: [NOTHING_READ, ...taken.unread], code: 2 }
++  }
++  const said = [...linesOf(measured)]
++  return {
++    report: taken.unread.length === 0 ? said : [...said, "", ...taken.unread],
++    refusals: [],
++    code: 0,
++  }
++}
+diff --git a/commands/pages/measure-attributes/measure-attributes.command.test.ts b/commands/pages/measure-attributes/measure-attributes.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b83da7e25f16bd06e688ebe9e5317132f79ff06d
+--- /dev/null
++++ b/commands/pages/measure-attributes/measure-attributes.command.test.ts
+@@ -0,0 +1,63 @@
++import { expect, test } from "bun:test"
++import { flooredTo, linesOf, measuredIn } from "./measure-attributes.command.code.ts"
++
++const DRAWN = new Map([
++  ["attribute-strength", { label: "Strength", place: 1 }],
++  ["attribute-charisma", { label: "Charisma", place: 6 }],
++])
++
++const AT = "readout-system/readouts/pages"
++
++const STRENGTH = `${AT}/attribute-strength/attribute-strength.readout.ts`
++
++const CHARISMA = `${AT}/attribute-charisma/attribute-charisma.readout.ts`
++
++test("a figure is floored to two places rather than rounded", () => {
++  expect(flooredTo(2.703413740236413, 2)).toBe(2.7)
++  expect(flooredTo(0.0224, 2)).toBe(0.02)
++  expect(flooredTo(0.999, 2)).toBe(0.99)
++  expect(flooredTo(0, 2)).toBe(0)
++})
++
++test("the attributes come back in the order their readouts state", () => {
++  const taken = { kept: { [CHARISMA]: 1.5, [STRENGTH]: 45.44 }, unread: [] }
++  expect(measuredIn(taken, DRAWN)).toEqual([
++    { label: "Strength", level: 3, figure: 45.44 },
++    { label: "Charisma", level: 0, figure: 1.5 },
++  ])
++})
++
++test("a reading whose readout is drawn in no group here is left out", () => {
++  const taken = {
++    kept: { "readout-system/readouts/pages/plants/plants.readout.ts": 4 },
++    unread: [],
++  }
++  expect(measuredIn(taken, DRAWN)).toEqual([])
++})
++
++test("the labels are padded so the levels and the totals line up", () => {
++  expect(
++    linesOf([
++      { label: "Strength", level: 3, figure: 45.44 },
++      { label: "Wisdom", level: 0, figure: 0.02 },
++    ])
++  ).toEqual(["Strength  3  45.44", "Wisdom    0   0.02"])
++})
++
++test("a level of two digits leaves the totals in one column", () => {
++  expect(
++    linesOf([
++      { label: "Strength", level: 12, figure: 3760 },
++      { label: "Wisdom", level: 0, figure: 0.02 },
++    ])
++  ).toEqual(["Strength  12  3760.00", "Wisdom     0     0.02"])
++})
++
++test("a level is written as a whole number", () => {
++  expect(linesOf([{ label: "Wisdom", level: 4, figure: 70 }])).toEqual(["Wisdom  4  70.00"])
++})
++
++test("a total with no hundredths and no tenths is written to two places anyway", () => {
++  expect(linesOf([{ label: "Wisdom", level: 0, figure: 0 }])).toEqual(["Wisdom  0  0.00"])
++  expect(linesOf([{ label: "Wisdom", level: 0, figure: 3 }])).toEqual(["Wisdom  0  3.00"])
++})
+diff --git a/commands/pages/measure-attributes/measure-attributes.command.ts b/commands/pages/measure-attributes/measure-attributes.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1498e63ff84cd4f229ba75f952fe86d84f6753ea
+--- /dev/null
++++ b/commands/pages/measure-attributes/measure-attributes.command.ts
+@@ -0,0 +1,83 @@
++import type { Command } from "../../../command-system/commands/command.page-type.ts"
++
++export const measureAttributes = {
++  id: "01a07803-0b6a-7fdb-9b43-0d4b23b072ee",
++  pageTypeSlug: "command",
++  slug: "measure-attributes",
++  definition: "the command saying each attribute's level and the total behind that level",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-mechanical",
++  helpNotes: [
++    "the level and the total are worked out at the moment of asking rather than read off the tiles.",
++    "a total is an attribute's daily points added up over the days from 2026-09-06 onward.",
++    "a level is the highest rung a total has reached, each climb costing 10, 10, 20, 30, 50, 80 points and on up the Fibonacci numbers.",
++    "a level is a whole number, and a total is floored to two decimal places, so a total short of a hundredth reads `0.00`.",
++    "an attribute nothing can be read for is named beneath the lines rather than drawn at level 0.",
++    "the attributes sit in the order their readouts state.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Each figure is worked out when the command is called.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A line says an attribute's label before that attribute's level.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A line says an attribute's level before that attribute's total.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A total is the sum of an attribute's points over the days from 2026-09-06 onward.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A level is read from the levelling module rather than worked out here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A level is written as a whole number with no decimal place.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A total is floored to two decimal places rather than rounded.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A total is written to two decimal places whatever digits that total has.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Each column is written to the width of the widest entry in that column.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An attribute that could not be read is named rather than answered as zero.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "An attribute that could not be read is left out of the lines rather than shown at level 0.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The label and the order of an attribute are read from its readout's page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run answering no attribute at all is refused.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run keeps no reading beside a readout.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run turns no figure into a color.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/seat-messaged/seat-messaged.command.code.ts b/commands/pages/seat-messaged/seat-messaged.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cacf77468dd363aae90eb9daabf9eea27b77bea6
+--- /dev/null
++++ b/commands/pages/seat-messaged/seat-messaged.command.code.ts
+@@ -0,0 +1,57 @@
++import { asking } from "@akasha/pages-service/asking"
++import { keepLastMessagedAt, personaOr } from "@akasha/personas/persona-reading"
++import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
++
++const SEAT = "seat"
++
++export type Seated = {
++  readonly slug: string
++  readonly personaSlug: string
++}
++
++export function seatedIn(root: string): readonly Seated[] {
++  const asked = asking(root, {
++    pageTypeSlug: SEAT,
++    keys: ["slug", "personaSlug"],
++  } as never)
++  if ("refused" in asked) throw new Error(asked.refused)
++  const held: Seated[] = []
++  for (const row of asked.rows) {
++    const one = row as Readonly<Record<string, unknown>>
++    const slug = one["slug"]
++    const persona = one["personaSlug"]
++    if (typeof slug !== "string" || typeof persona !== "string") continue
++    held.push({ slug, personaSlug: persona })
++  }
++  return held
++}
++
++export function personaIn(seats: readonly Seated[], name: string): string | null {
++  for (const one of seats) {
++    if (one.slug === name && one.personaSlug !== "") return one.personaSlug
++  }
++  return null
++}
++
++export function noSeat(name: string): string {
++  return (
++    `\`${name}\` names no seat holding a persona, so there is nobody to mark as written to. ` +
++    "Marking the wrong persona would move a wallpaper and a readout onto her."
++  )
++}
++
++const NO_NAME = "no seat is named, and a run naming none would mark whichever persona came first"
++
++export async function seatMessaged(argv: readonly string[], given: Given): Promise<Answer> {
++  const name = argv[0]
++  if (name === undefined || name === "") {
++    return { report: [], refusals: [NO_NAME], code: 2 }
++  }
++  const slug = personaIn(seatedIn(given.root), name)
++  if (slug === null) {
++    return { report: [], refusals: [noSeat(name)], code: 2 }
++  }
++  const at = new Date()
++  keepLastMessagedAt(given.root, personaOr(given.root, slug), at)
++  return { report: [`${slug} ${at.toISOString()}`], refusals: [], code: 0 }
++}
+diff --git a/commands/pages/seat-messaged/seat-messaged.command.test.ts b/commands/pages/seat-messaged/seat-messaged.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..25f4b7549afaea89a9eef08ccadbbdff6a38db74
+--- /dev/null
++++ b/commands/pages/seat-messaged/seat-messaged.command.test.ts
+@@ -0,0 +1,26 @@
++import { expect, test } from "bun:test"
++import { noSeat, personaIn, type Seated } from "./seat-messaged.command.code.ts"
++
++const SEATS: readonly Seated[] = [
++  { slug: "amy", personaSlug: "amy" },
++  { slug: "ops", personaSlug: "sophia" },
++  { slug: "spare", personaSlug: "" },
++]
++
++test("a seat answers the persona that seat states", () => {
++  expect(personaIn(SEATS, "amy")).toBe("amy")
++  expect(personaIn(SEATS, "ops")).toBe("sophia")
++})
++
++test("a name that is no seat answers nobody", () => {
++  expect(personaIn(SEATS, "nobody")).toBe(null)
++  expect(personaIn([], "amy")).toBe(null)
++})
++
++test("a seat naming no persona answers nobody", () => {
++  expect(personaIn(SEATS, "spare")).toBe(null)
++})
++
++test("the refusal names the seat that was asked for", () => {
++  expect(noSeat("spare")).toContain("`spare`")
++})
+diff --git a/commands/pages/seat-messaged/seat-messaged.command.ts b/commands/pages/seat-messaged/seat-messaged.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fee13a7beecdacb6d2bf99af5e18c3dde6497122
+--- /dev/null
++++ b/commands/pages/seat-messaged/seat-messaged.command.ts
+@@ -0,0 +1,44 @@
++import type { Command } from "../../../command-system/commands/command.page-type.ts"
++
++export const seatMessaged = {
++  id: "01a0780e-7f14-71fd-ac09-b12de342c207",
++  pageTypeSlug: "command",
++  slug: "seat-messaged",
++  definition: "the command marking the persona at a seat as the one Alan wrote to last",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-mechanical",
++  taking: [{ said: "<name>", takes: "the seat Alan wrote to" }],
++  helpNotes: [
++    "the moment kept is the moment of the run rather than a moment the caller states.",
++    "the value is kept beside the persona's page rather than in the commit.",
++    "a seat holding no persona is refused rather than kept against nobody.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The persona marked is the persona the named seat states.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name that is no seat is refused rather than kept against nobody.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run states which persona was marked and at what moment.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A seat holding no persona is refused in the same words as a name that is no seat.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads the seat's work.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run marks no persona but the named seat's persona.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/seat-transcripts/seat-transcripts.command.code.ts b/commands/pages/seat-transcripts/seat-transcripts.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..db4efbdba402bafb48755eba4219c71c3fe064c5
+--- /dev/null
++++ b/commands/pages/seat-transcripts/seat-transcripts.command.code.ts
+@@ -0,0 +1,50 @@
++import type { Answer, Given } from "@akasha/command-system/calling"
++import { whyOf } from "@akasha/command-system/fault-saying"
++import { akashaSeatsThatExist } from "@akasha/seat-system/seat-akasha-beside"
++import { akashaSeatRecordOf } from "@akasha/seat-system/seat-akasha-read"
++
++const TRANSCRIPT_KEY = "transcript-path"
++
++export interface SeatTranscript {
++  readonly agentId: string
++  readonly seatName: string
++  readonly transcriptPath: string
++}
++
++export type Held = { readonly value: string } | null
++
++export type Reading = (agentId: string, key: string) => Held
++
++export function transcriptsOver(
++  seats: Iterable<readonly [string, string]>,
++  reading: Reading
++): readonly SeatTranscript[] {
++  const found: SeatTranscript[] = []
++  for (const [agentId, seatName] of seats) {
++    const held = reading(agentId, TRANSCRIPT_KEY)
++    if (held === null || held.value === "") continue
++    found.push({ agentId, seatName, transcriptPath: held.value })
++  }
++  return found
++}
++
++export function transcriptsNow(): readonly SeatTranscript[] {
++  return transcriptsOver(akashaSeatsThatExist(), akashaSeatRecordOf)
++}
++
++export function saidOf(seats: readonly SeatTranscript[]): string {
++  return JSON.stringify({ seats })
++}
++
++export function seatTranscripts(argv: readonly string[], _given: Given): Answer {
++  if (argv.length > 0) {
++    const said = argv.map((one) => `\`${one}\``).join(", ")
++    const are = argv.length === 1 ? "is no word this takes" : "are no words this takes"
++    return { report: [], refusals: [`${said} ${are} — this command takes none`], code: 1 }
++  }
++  try {
++    return { report: [saidOf(transcriptsNow())], refusals: [], code: 0 }
++  } catch (thrown) {
++    return { report: [], refusals: [whyOf(thrown)], code: 3 }
++  }
++}
+diff --git a/commands/pages/seat-transcripts/seat-transcripts.command.test.ts b/commands/pages/seat-transcripts/seat-transcripts.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..db5b7613a11402c43999fdb70f1a2a2e547ef63a
+--- /dev/null
++++ b/commands/pages/seat-transcripts/seat-transcripts.command.test.ts
+@@ -0,0 +1,145 @@
++import { expect, test } from "bun:test"
++import type { Given } from "@akasha/command-system/calling"
++import {
++  type Held,
++  saidOf,
++  seatTranscripts,
++  transcriptsOver,
++} from "./seat-transcripts.command.code.ts"
++
++const ROOT = "/nowhere"
++
++function givenIn(): Given {
++  return {
++    root: ROOT,
++    calledAs: "akasha seat-transcripts",
++    from: ROOT,
++    writer: null,
++    agentId: null,
++  }
++}
++
++const SEATS: readonly (readonly [string, string])[] = [
++  ["01a00000-0000-7000-8000-00000000000a", "astra"],
++  ["01a00000-0000-7000-8000-00000000000b", "borea"],
++  ["01a00000-0000-7000-8000-00000000000c", "cirra"],
++]
++
++function holding(byId: Readonly<Record<string, string>>): (agentId: string) => Held {
++  return (agentId) => {
++    const said = byId[agentId]
++    return said === undefined ? null : { value: said }
++  }
++}
++
++test("each seat carries its agent id, its seat name and where its transcript is", () => {
++  const found = transcriptsOver(
++    SEATS,
++    holding({
++      "01a00000-0000-7000-8000-00000000000a": "/home/one/a.jsonl",
++      "01a00000-0000-7000-8000-00000000000b": "/home/one/b.jsonl",
++      "01a00000-0000-7000-8000-00000000000c": "/home/one/c.jsonl",
++    })
++  )
++
++  expect(found).toEqual([
++    {
++      agentId: "01a00000-0000-7000-8000-00000000000a",
++      seatName: "astra",
++      transcriptPath: "/home/one/a.jsonl",
++    },
++    {
++      agentId: "01a00000-0000-7000-8000-00000000000b",
++      seatName: "borea",
++      transcriptPath: "/home/one/b.jsonl",
++    },
++    {
++      agentId: "01a00000-0000-7000-8000-00000000000c",
++      seatName: "cirra",
++      transcriptPath: "/home/one/c.jsonl",
++    },
++  ])
++})
++
++test("a seat holding no transcript is left out rather than answered an empty path", () => {
++  const found = transcriptsOver(
++    SEATS,
++    holding({ "01a00000-0000-7000-8000-00000000000b": "/home/one/b.jsonl" })
++  )
++
++  expect(found.map((one) => one.seatName)).toEqual(["borea"])
++})
++
++test("a seat holding an empty transcript path is left out the same way", () => {
++  const found = transcriptsOver(
++    SEATS,
++    holding({
++      "01a00000-0000-7000-8000-00000000000a": "",
++      "01a00000-0000-7000-8000-00000000000b": "/home/one/b.jsonl",
++      "01a00000-0000-7000-8000-00000000000c": "",
++    })
++  )
++
++  expect(found.map((one) => one.seatName)).toEqual(["borea"])
++})
++
++test("a fleet holding nothing answers an empty list rather than nothing at all", () => {
++  expect(transcriptsOver([], holding({}))).toEqual([])
++  expect(JSON.parse(saidOf(transcriptsOver([], holding({}))))).toEqual({ seats: [] })
++})
++
++test("what is said is one object carrying the seats and nothing else", () => {
++  const said = JSON.parse(
++    saidOf(
++      transcriptsOver(SEATS, holding({ "01a00000-0000-7000-8000-00000000000a": "/one.jsonl" }))
++    )
++  )
++
++  expect(Object.keys(said)).toEqual(["seats"])
++  expect(said.seats).toEqual([
++    {
++      agentId: "01a00000-0000-7000-8000-00000000000a",
++      seatName: "astra",
++      transcriptPath: "/one.jsonl",
++    },
++  ])
++})
++
++test("a word this does not take refuses as a fault in the call", () => {
++  const said = seatTranscripts(["--json"], givenIn())
++
++  expect(said.code).toBe(1)
++  expect(said.report).toEqual([])
++  expect(said.refusals[0]).toContain("`--json`")
++})
++
++test("a word carrying no dash is refused too, because this takes no word at all", () => {
++  const said = seatTranscripts(["seats"], givenIn())
++
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).toContain("`seats`")
++})
++
++test("every word it was given is named rather than the first of them alone", () => {
++  const said = seatTranscripts(["--json", "--counts"], givenIn())
++
++  expect(said.refusals[0]).toContain("`--json`")
++  expect(said.refusals[0]).toContain("`--counts`")
++})
++
++test("a call naming nothing answers the seats the fleet holds now", () => {
++  const said = seatTranscripts([], givenIn())
++
++  expect(said.refusals).toEqual([])
++  expect(said.code).toBe(0)
++  expect(said.report.length).toBe(1)
++  const held = JSON.parse(said.report[0] ?? "")
++
++  expect(Array.isArray(held.seats)).toBe(true)
++  for (const one of held.seats) {
++    expect(typeof one.agentId).toBe("string")
++    expect(typeof one.seatName).toBe("string")
++    expect(typeof one.transcriptPath).toBe("string")
++    expect(one.transcriptPath).not.toBe("")
++  }
++})
+diff --git a/commands/pages/seat-transcripts/seat-transcripts.command.ts b/commands/pages/seat-transcripts/seat-transcripts.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f77ad3b1b643a1fdfb413efb0b3520bf6efac0db
+--- /dev/null
++++ b/commands/pages/seat-transcripts/seat-transcripts.command.ts
+@@ -0,0 +1,76 @@
++import type { Command } from "../../../command-system/commands/command.page-type.ts"
++
++export const seatTranscripts = {
++  id: "01a06934-ff28-7819-ad05-c50a0471362c",
++  pageTypeSlug: "command",
++  slug: "seat-transcripts",
++  definition: "the command saying where each seat's transcript file is",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-none",
++  taking: [],
++  helpNotes: [
++    "it takes no word at all, and every word it is given is refused.",
++    "it prints one JSON object carrying a `seats` list, and nothing else.",
++    "each seat in that list carries its agent id, its seat name, and where its transcript is.",
++    "a seat is named by the index, so a seat kept only in akasha is answered here like any other.",
++    "a transcript is read from the values kept beside a seat's page rather than from the page itself.",
++    "a seat holding no transcript, or holding an empty one, is left out rather than answered with an empty path.",
++    "the editor's agent tree and transcript panel read this, because the read reaches an uncommitted page body.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "This command takes no word.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A word this command is given is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The seats are named by the index rather than by a walk of a directory.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat's transcript is read from the values kept beside that seat's page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat holding no transcript is left out rather than answered an empty path.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat holding an empty transcript path is left out the same way.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every seat is answered in one call rather than one seat at a time.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The walk over the seats takes its reader as a parameter.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The seats are read from the checkout the readers reach rather than from the root `given` names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One test arm calls the command itself rather than a seeded reader.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A module specifier that does not resolve fails that arm at import.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run writes nothing.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a transcript.",
++    },
++  ],
++} as const satisfies Command
