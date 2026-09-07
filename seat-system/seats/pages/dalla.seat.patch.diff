@@ -1,20 +1,54 @@
 writerOwesReading: false
-diff --git a/domains/initiatives/pages/akasha-folder-shape.initiative.ts b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
-index 9416f6312d9710117b547ae8d8b31dc73a91ce49..66ef7a01825018e8a8e41c6986a178965cc06e6f 100644
---- a/domains/initiatives/pages/akasha-folder-shape.initiative.ts
-+++ b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
-@@ -45,12 +45,12 @@ export const akashaFolderShape = {
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index ab1030bd93d522398d26ab497baa04b09f6b9cfc..b42cbd90f6452bee4e86cfce3578046b4fc396fa 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -8,35 +8,35 @@ export const dallaDraftIntoAPatch = {
+   personaSlug: "dalla",
+   intents: [
      {
-       statement: "No relation value lands that akasha cannot key to one page.",
+-      statement: "Only `akasha change` drafts changes.",
++      statement: "A change is reached by its address rather than by an import.",
        workingMemory:
--        "`identifier-names-one-page` is the only guard, and it runs on a patch alone: `runsOnWorktree`, `runsOnDeploy` and `runsOnAudit` are all false. `akasha replace` lands as `change-mechanical` and is judged by no check at all, which is the path a bulk migration takes. Measured clean today: no second line in any of the 70040 id files, nor in any file under a `slug` key.",
-+        "`identifier-names-one-page` is the only guard, and it runs on a patch alone: `runsOnWorktree`, `runsOnDeploy` and `runsOnAudit` are all false. A mechanical change is judged by no check at all, which is the path a bulk migration takes. Measured clean today: no second line in any of the 70040 id files, nor in any file under a `slug` key.",
+-        "`replace` drafts under an agent id and lands under none, so it drafts where it should land at once. `apply`, `patch` and `lint-exception` work on a patch rather than making one. Every other command declares `change-mechanical` and lands through `landedMechanically`, which is right. The edits `akasha change` keeps are the git ref `refs/akasha/edits`, and `landedMechanically` carries an unused `agentId` that would turn drafting on.",
++        "The `addressed` sidecar holds 25 addresses, all `change-mechanical-*`, so no checked change has an address and an import is the only route one has to another. `move-folder-package.change-checked.code.ts` calls `moveFolder` and `renamePage` by import and makes no `reach` call, so neither sibling's guards run. `remove-package-alias` and `change-page-page-type` import helpers the same way. `change-runner.page-type.ts` files this as a gap.",
      },
      {
-       statement: "No relation property's name ends in `slug`.",
+-      statement: "Every change is a patch before it is applied.",
++      statement: "An applied patch runs the checks and the warrants its changes call for.",
        workingMemory:
--        "121 relation properties, and 90 are named `<x>-slug` or `<x>-slugs`. The types say it too: `PartOfSlugs = List<Slug>`. Every one of those names goes false as its value becomes an address. One property at a time rather than one landing: a mechanical change is judged by no check, and `akasha replace` is the only tool at this scale. `page-type-slug` and `part-of-slugs` reach the most pages, so they go last, once a small one has shown what the rename costs.",
-+        "121 relation properties, and 90 are named `<x>-slug` or `<x>-slugs`. The types say it too: `PartOfSlugs = List<Slug>`. Every one of those names goes false as its value becomes an address. One property at a time rather than one landing: a mechanical change is judged by no check. `page-type-slug` and `part-of-slugs` reach the most pages, so they go last, once a small one has shown what the rename costs.",
+-        "`landedMechanically` lands straight onto the tree at every call site. `page-writing.module.code.ts:147` calls `landing()` with a null gate and skips the ask. `harness-landing` writes the tree with `writeFileSync` and `renameSync`, never reaching `landing`. `applying.module.code.ts` is the one path that works a patch out and applies it, and both `akasha apply` and `akasha change --apply` reach it. The patch stays inside the landing rather than being kept.",
++        "The apply has its own `unwarranted` at `apply.command.code.ts:112-126` rather than calling `unwarrantedIn`, and runs it above the glass, so `--break-the-glass` skips the checks and skips no warrant. Its predicate is `writerOwesReading !== false`, so a row silent about its writer is owing. Checks run on the apply alone; `akasha change` builds no gate. Left: `lint-exception` and `patch` declare `change-authored` and never ask, and `lint-exception` now states that absence.",
      },
      {
-       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
+-      statement: "An applied patch runs the checks and the warrants its changes call for.",
++      statement:
++        "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
+       workingMemory:
+-        "The apply has its own `unwarranted` at `apply.command.code.ts:112-126` rather than calling `unwarrantedIn`, and runs it above the glass, so `--break-the-glass` skips the checks and skips no warrant. Its predicate is `writerOwesReading !== false`, so a row silent about its writer is owing. Checks run on the apply alone; `akasha change` builds no gate. Left: `lint-exception` and `patch` declare `change-authored` and never ask, and `lint-exception` now states that absence.",
++        "`harness-landing` writes the tree with raw `writeFileSync`, `renameSync` and `rmSync`, reaching neither `landing` nor a change. `page-writing` lands with a null gate. Every `landedMechanically` call site composes its own `FileEdit`. `replace` builds its own `FileEdit` and imports nothing from `changes/`, so it is `change-file`'s act written twice. The `addressed` sidecar types every address as `Parameters<typeof import(path)['runChange']>[1]` and holds 25, all `change-mechanical-*`.",
+     },
+     {
+-      statement: "A change is reached by its address rather than by an import.",
++      statement: "Every change is a patch before it is applied.",
+       workingMemory:
+-        "The `addressed` sidecar holds 25 addresses, all `change-mechanical-*`, so no checked change has an address and an import is the only route one has to another. `move-folder-package.change-checked.code.ts` calls `moveFolder` and `renamePage` by import and makes no `reach` call, so neither sibling's guards run. `remove-package-alias` and `change-page-page-type` import helpers the same way. `change-runner.page-type.ts` files this as a gap.",
++        "`landedMechanically` lands straight onto the tree at every call site. `page-writing.module.code.ts:147` calls `landing()` with a null gate and skips the ask. `harness-landing` writes the tree with `writeFileSync` and `renameSync`, never reaching `landing`. `applying.module.code.ts` is the one path that works a patch out and applies it, and both `akasha apply` and `akasha change --apply` reach it. The patch stays inside the landing rather than being kept.",
+     },
+     {
+-      statement: "The patch a landing works out is held by no page property.",
++      statement: "Only `akasha change` drafts changes.",
+       workingMemory:
+-        "`agent.page-type.ts` declares `file-property/patch` and `file-property/edits`, defaulting to `diff` and `jsonl`, and `patch-keeping` still defines itself as a file beside the page across its definition and all 8 invariants. Both stores already moved to `refs/akasha/patch`, `refs/akasha/edits` and `refs/akasha/edits-handed`, so each property names a file that is no longer the store. Five `.patch.diff` files remain tracked beside pages, 412 KB, last written 2026-09-06.",
++        "`replace` drafts under an agent id and lands under none, so it drafts where it should land at once. `apply`, `patch` and `lint-exception` work on a patch rather than making one. Every other command declares `change-mechanical` and lands through `landedMechanically`, which is right. The edits `akasha change` keeps are the git ref `refs/akasha/edits`, and `landedMechanically` carries an unused `agentId` that would turn drafting on.",
+     },
+     {
+-      statement:
+-        "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
++      statement: "The patch a landing works out is held by no page property.",
+       workingMemory:
+-        "`harness-landing` writes the tree with raw `writeFileSync`, `renameSync` and `rmSync`, reaching neither `landing` nor a change. `page-writing` lands with a null gate. Every `landedMechanically` call site composes its own `FileEdit`. `replace` builds its own `FileEdit` and imports nothing from `changes/`, so it is `change-file`'s act written twice. The `addressed` sidecar types every address as `Parameters<typeof import(path)['runChange']>[1]` and holds 25, all `change-mechanical-*`.",
++        "`agent.page-type.ts` declares `file-property/patch` and `file-property/edits`, defaulting to `diff` and `jsonl`, and `patch-keeping` still defines itself as a file beside the page across its definition and all 8 invariants. Both stores already moved to `refs/akasha/patch`, `refs/akasha/edits` and `refs/akasha/edits-handed`, so each property names a file that is no longer the store. Five `.patch.diff` files remain tracked beside pages, 412 KB, last written 2026-09-06.",
+     },
+     {
+       statement: "Every property a command's page type declares is read.",
