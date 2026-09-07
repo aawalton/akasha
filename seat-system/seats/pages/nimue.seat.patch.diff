@@ -1,0 +1,51 @@
+writerOwesReading: false
+diff --git a/changes/modules/change-answer/change-answer.module.code.ts b/changes/modules/change-answer/change-answer.module.code.ts
+index d320f8d789e7a92231dafcf5c857573de19c3c3d..124cb55bbd37c28ba627732cc729044143136cc6 100644
+--- a/changes/modules/change-answer/change-answer.module.code.ts
++++ b/changes/modules/change-answer/change-answer.module.code.ts
+@@ -4,8 +4,6 @@ export function refusing(why: string): Answer {
+   return { edits: [], refused: why }
+ }
+ 
+-// A caller writes a change's arguments as text while the command runs, so an argument the caller
+-// left out reads as nothing rather than as a fault, and the key is what says what to write.
+ export function missing(key: string): string {
+   return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
+ }
+@@ -30,11 +28,21 @@ function under(held: ReadonlyMap<string, Edit>, edit: Edit): Edit | undefined {
+   return held.get(edit.from ?? edit.path)
+ }
+ 
++export function sameEdit(one: Edit, two: Edit): boolean {
++  return one.was === two.was && one.body === two.body && one.from === two.from
++}
++
++function restated(held: ReadonlyMap<string, Edit>, edit: Edit): boolean {
++  const stated = held.get(edit.path)
++  return stated !== undefined && sameEdit(stated, edit)
++}
++
+ export function gathered(answers: readonly Answer[]): Answer {
+   const held = new Map<string, Edit>()
+   for (const one of answers) {
+     if (one.refused !== null) return one
+     for (const edit of one.edits) {
++      if (restated(held, edit)) continue
+       const came = edit.from
+       const before = under(held, edit)
+       if (before !== undefined && before.body !== edit.was) {
+diff --git a/changes/modules/change-answer/change-answer.module.ts b/changes/modules/change-answer/change-answer.module.ts
+index 29b8b5233f0964134ff086cf424de95c4b59a98a..95cda0f502cfc88a625479a534b59df358cc195a 100644
+--- a/changes/modules/change-answer/change-answer.module.ts
++++ b/changes/modules/change-answer/change-answer.module.ts
+@@ -37,6 +37,10 @@ export const changeAnswer = {
+       invariantKind: "departure",
+       statement: "Two edits to one path gather only where the later followed the earlier.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An edit stated a second time over gathers as the edit already there.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A move gathers with the write that move follows under the path left behind.",
