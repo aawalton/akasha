@@ -4,9 +4,11 @@ import { agentPathOf, changingOf, owedIn } from "@akasha/context/warranting"
 import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
 import { bytesOf } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
 import {
+  droppedFirst,
   editsAt,
   foldedIn,
   keptEdits,
+  linesIn,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { writtenAgain } from "../../../command-system/address-mapping/address-mapping.module.code.ts"
 import { applying, type Carried } from "../../../command-system/applying/applying.module.code.ts"
@@ -42,7 +44,7 @@ const BARE: readonly string[] = []
 
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
 
-export type Unfold = { readonly patch: string | null; readonly rows: readonly Edit[] }
+export type Unfold = { readonly patch: string | null; readonly went: readonly string[] }
 
 export type Folded =
   | {
@@ -107,7 +109,7 @@ export function folding(root: string, page: string): Folded {
     answer = {
       folded: said.edits.map((one) => one.path).sort(),
       dropped,
-      unfold: { patch: was, rows: had },
+      unfold: { patch: was, went: linesIn(root, page) },
       carried: { held: took.held, running: took.running },
     }
     return had
@@ -169,11 +171,7 @@ async function refusedBefore(root: string, page: string): Promise<readonly strin
 
 export function undone(root: string, page: string, unfold: Unfold): string | null {
   if (patchIn(root, page) === null) {
-    const rows = unfold.rows
-    const went = JSON.stringify(rows)
-    keptEdits(root, page, (had) =>
-      JSON.stringify(had.slice(0, rows.length)) === went ? had.slice(rows.length) : had
-    )
+    droppedFirst(root, page, unfold.went)
     return null
   }
   putBack(root, page, unfold.patch)

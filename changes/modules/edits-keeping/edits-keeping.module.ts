@@ -104,6 +104,14 @@ export const editsKeeping = {
       statement: "A writer takes a turn over the file before appending.",
     },
     {
+      invariantKind: "departure",
+      statement: "The lines a caller already holds are dropped as lines rather than as edits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop finding other lines at the front leaves every line where those lines are.",
+    },
+    {
       invariantKind: "gap",
       statement: "A reader taking no turn can meet a row a write left half appended.",
     },

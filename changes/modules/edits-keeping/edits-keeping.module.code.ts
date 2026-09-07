@@ -202,11 +202,10 @@ function appended(root: string, page: string, text: string): undefined {
   appendFileSync(full, text)
 }
 
-function appending(root: string, page: string, rows: readonly Edit[]): undefined {
+function poured(root: string, page: string, lines: readonly string[]): undefined {
   let held: string[] = []
   let bytes = 0
-  for (const one of rows) {
-    const line = `${JSON.stringify(one)}\n`
+  for (const line of lines) {
     const size = Buffer.byteLength(line, "utf8")
     if (bytes > 0 && bytes + size > ENTRY_CEILING) {
       appended(root, page, held.join(""))
@@ -219,6 +218,14 @@ function appending(root: string, page: string, rows: readonly Edit[]): undefined
   if (held.length > 0) appended(root, page, held.join(""))
 }
 
+function appending(root: string, page: string, rows: readonly Edit[]): undefined {
+  poured(
+    root,
+    page,
+    rows.map((one) => `${JSON.stringify(one)}\n`)
+  )
+}
+
 function abandoned(root: string, page: string): undefined {
   const old = staleAt(page)
   if (old === null) return
@@ -229,6 +236,30 @@ function abandoned(root: string, page: string): undefined {
 function swept(root: string, page: string): undefined {
   for (const at of partsAt(root, page)) rmSync(join(root, at), { force: true })
   abandoned(root, page)
+}
+
+export function linesIn(root: string, page: string): readonly string[] {
+  const held = textOver(root, page) ?? staleIn(root, page)
+  return held === null ? [] : held.split("\n").filter((one) => one !== "")
+}
+
+export function droppedFirst(root: string, page: string, went: readonly string[]): undefined {
+  const at = editsAt(page)
+  if (at === null) return
+  const full = join(root, at)
+  mkdirSync(dirname(full), { recursive: true })
+  exclusively(full, (): undefined => {
+    const held = linesIn(root, page)
+    if (held.length < went.length) return
+    for (let one = 0; one < went.length; one += 1) if (held[one] !== went[one]) return
+    const left = held.slice(went.length)
+    swept(root, page)
+    poured(
+      root,
+      page,
+      left.map((one) => `${one}\n`)
+    )
+  })
 }
 
 function migrated(root: string, page: string): undefined {

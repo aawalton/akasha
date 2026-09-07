@@ -138,9 +138,13 @@ function carried(root: string): readonly string[] {
 }
 
 function foldOf(said: Folded): unknown {
-  return "refusals" in said
-    ? said
-    : { folded: said.folded, dropped: said.dropped, unfold: said.unfold }
+  if ("refusals" in said) return said
+  const unfold = said.unfold
+  return {
+    folded: said.folded,
+    dropped: said.dropped,
+    unfold: unfold === null ? null : { patch: unfold.patch },
+  }
 }
 
 function landing(root: string, said: Folded): string {
@@ -162,7 +166,7 @@ test("an edit is drafted into the patch and the rows it came from are kept", asy
   expect(foldOf(folding(root, PAGE))).toEqual({
     folded: [ONE],
     dropped: [],
-    unfold: { patch: null, rows: [row] },
+    unfold: { patch: null },
   })
 
   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
@@ -229,9 +233,10 @@ test("a patch the agent already holds takes the folded edits in", async () => {
   expect(foldOf(folding(root, PAGE))).toEqual({
     folded: [ONE],
     dropped: [],
-    unfold: { patch: was, rows: [row] },
+    unfold: { patch: was },
   })
 
+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
   expect(carried(root)).toEqual([ONE, TWO])
 })
 
