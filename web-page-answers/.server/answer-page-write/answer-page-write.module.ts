@@ -17,7 +17,7 @@ export const answerPageWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "The name a site writes as is stated once, at the site's first write.",
+      statement: "The name a site writes as is stated once at the site's first write.",
     },
     {
       invariantKind: "departure",
