@@ -23,9 +23,9 @@ export const aelwynStrengthTraining = {
         "`equipment-kit`, `movement-scoring` and `slot-templates` sit in both `exercise-access` and `session-planning`, and `set-progression` is in `exercise-access` alone. Under `commands/`, `movement-scoring` is reached twice at `@akasha/session-planning` and never at `@akasha/exercise-access`. A grep for the four `exercise-access` paths over the repository answers one line, inside the finding naming the split. The four are dead and the deletion is ready.",
     },
     {
-      statement: "An equipment page states the load that piece reaches.",
+      statement: "The equipment commands read the keys the equipment pages carry.",
       workingMemory:
-        "`akasha exercise-equipment-list` answers five owned pieces, being adjustable bench, dumbbells, hand gripper, kettlebells and weighted vest, and each of the three load columns reads `-`. The 30 lb dumbbell ceiling is written as a coaching constraint instead, in the prose `30 lb DB ceiling — actively out-repping`, so the selector reads a sentence where it wants a number.",
+        "`exercise-equipment-list` reads `equipmentItemCategory`, `equipmentItemLoads`, `equipmentItemAvailable` and three more, ordering on `equipmentItemSortOrder`; `exercise-equipment-set` writes the same six. Every equipment page carries those six names unprefixed, and has since 648fe2d2875 on 2026-09-03. Every load column reads `-`, `available` falls to its `?? true` default, and `--all` leaves nothing out. The dumbbells page names loads 3 to 30. Today's deletion of the old properties is innocent.",
     },
     {
       statement: "A joint's mobility reads as a direction.",
