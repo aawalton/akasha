@@ -1,0 +1,18 @@
+diff --git a/email-watch/email-rule-reading/email-rule-reading.module.ts b/email-watch/email-rule-reading/email-rule-reading.module.ts
+index 14b4f836938d08603b576ad9be46848ed6cddcfa..de6e228f12bfec95ed293ae486581c4f19381386 100644
+--- a/email-watch/email-rule-reading/email-rule-reading.module.ts
++++ b/email-watch/email-rule-reading/email-rule-reading.module.ts
+@@ -31,8 +31,11 @@ export const emailRuleReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Agent rules are read before code rules, and each kind in the order of its page file names.",
++      statement: "Agent rules are read before code rules.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Each kind is read in the order of its page file names.",
+     },
+   ],
+ } as const satisfies Module
