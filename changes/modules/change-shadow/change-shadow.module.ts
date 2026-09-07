@@ -145,7 +145,7 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "An answer a change worked out itself is added to a ledger rather than built over as a second world.",
+        "An answer a change worked out itself is built over as a second world rather than added to a ledger.",
     },
     {
       invariantKind: "departure",
