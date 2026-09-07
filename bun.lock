@@ -871,6 +871,9 @@
     },
     "graph": {
       "name": "@akasha/graph",
+      "dependencies": {
+        "@akasha/code": "workspace:*",
+      },
     },
     "health-samples-access": {
       "name": "@akasha/health-samples-access",

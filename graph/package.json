@@ -7,5 +7,8 @@
     "./graph-asking": "./asking/graph-asking.module.code.ts",
     "./import-edge": "./edges/pages/import-edge.graph-edge.ts",
     "./graph-closure": "./closure/graph-closure.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/code": "workspace:*"
   }
 }
