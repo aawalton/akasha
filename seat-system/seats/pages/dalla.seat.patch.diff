@@ -1,31 +1,14 @@
 writerOwesReading: false
-diff --git a/command-system/command-declaring/command-declaring.module.code.ts b/command-system/command-declaring/command-declaring.module.code.ts
-index 85af7f47adffd661c050ea9b250a11e9289c973b..7c4ee08b1fc7d6ca105ecc2d4644b0dab9fec872 100644
---- a/command-system/command-declaring/command-declaring.module.code.ts
-+++ b/command-system/command-declaring/command-declaring.module.code.ts
-@@ -1,7 +1,3 @@
--export const HELP_FLAGS: readonly string[] = ["--help", "-h"]
--
--export const VERSION_FLAG = "--version"
--
- export type FlagValueShape = "prose" | "line" | "token"
- 
- interface HelpFlagCommon {
-@@ -58,17 +54,4 @@ export interface CommandHelp {
-   readonly envVars?: readonly HelpEnvVar[]
-   readonly exits?: readonly HelpExit[]
-   readonly examples?: readonly string[]
--  readonly epilog?: string | (() => string | Promise<string>)
--}
--
--export interface CommandModule {
--  readonly default: (args: readonly string[]) => Promise<void>
--  readonly help?: CommandHelp
--}
--
--export interface Command {
--  readonly path: readonly string[]
--  readonly summary: string
--  readonly load: () => Promise<CommandModule>
--  readonly source?: string
- }
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index 901eb8b20e413b7029ad6af722d37824e3c04858..cb123dbe8d8b46428ed04ac10f9f6b7823fe2a01 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -36,7 +36,7 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "The patch a landing works out is held by no page property.",
+       workingMemory:
+-        "`agent.page-type.ts` declares `file-property/patch` and `file-property/edits`, defaulting to `diff` and `jsonl`, and `patch-keeping` still defines itself as a file beside the page across its definition and all 8 invariants. Both stores already moved to `refs/akasha/patch`, `refs/akasha/edits` and `refs/akasha/edits-handed`, so each property names a file that is no longer the store. Five `.patch.diff` files remain tracked beside pages, 412 KB, last written 2026-09-06.",
++        '`agent.page-type.ts` declares `file-property/patch` and `file-property/edits`, defaulting to `diff` and `jsonl`. The edits moved: `edits-keeping` reads `refs/akasha/edits`, no `.edits.jsonl` is on disk, and `edits.file-property.ts` is stale now. The patch has not: `patch-keeping` still calls `besideAt(page, "patch", "diff")`, 10 tests assert that file, and `refs/akasha/patch` holds trees named for the file rather than replacing it. Five patch files sit beside seat pages.',
+     },
+     {
+       statement: "Every property a command's page type declares is read.",
