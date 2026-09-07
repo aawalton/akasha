@@ -105,6 +105,7 @@ export const command = {
     "namespace/exercise",
     "namespace/email",
     "namespace/music",
+    "namespace/inference",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/calling",
