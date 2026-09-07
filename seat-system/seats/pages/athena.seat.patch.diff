@@ -1,0 +1,50 @@
+writerOwesReading: false
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index 4875ebe3083967887c7461d67bd9235bd13df0c6..f80d8066f00d1aeb077da90e9393552ae0eab480 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -105,6 +105,7 @@ export const command = {
+     "text-property/help-notes",
+     "text-property/said",
+     "text-property/takes",
++    "namespace/imessage",
+   ],
+   extendsSlug: ["page-type/module"],
+   loadedBySlug: "module/calling",
+diff --git a/command-system/namespaces/pages/imessage.namespace.ts b/command-system/namespaces/pages/imessage.namespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1ee8bcde1237c11511619a1812d1104631efb97a
+--- /dev/null
++++ b/command-system/namespaces/pages/imessage.namespace.ts
+@@ -0,0 +1,15 @@
++import type { Namespace } from "../namespace.page-type.ts"
++
++export const imessage = {
++  id: "01a07962-b0fa-7141-ae89-2d50447947d2",
++  pageTypeSlug: "namespace",
++  slug: "imessage",
++  definition: "Alan's messages on iMessage",
++  partSlugs: [
++    "command/imessage-contacts",
++    "command/imessage-recent",
++    "command/imessage-search",
++    "command/imessage-send",
++    "command/imessage-unread-list",
++  ],
++} as const satisfies Namespace
+diff --git a/imessage/imessage.workspace-package.ts b/imessage/imessage.workspace-package.ts
+index 75ac89b9d611320928917622a2f309dc645ee89a..b6babc41590f9ad50a069f8c405d6e509d3716e8 100644
+--- a/imessage/imessage.workspace-package.ts
++++ b/imessage/imessage.workspace-package.ts
+@@ -15,11 +15,6 @@ export const imessage = {
+     "module/imessage-send",
+     "module/message-lines",
+     "module/imessage-command-reading",
+-    "command/imessage-contacts",
+-    "command/imessage-recent",
+-    "command/imessage-search",
+-    "command/imessage-send",
+-    "command/imessage-unread-list",
+   ],
+   invariants: [
+     {
