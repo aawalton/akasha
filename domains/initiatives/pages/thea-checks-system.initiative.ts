@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed a fault before believing a zero. Charge a check on a warm shadow, not the shared build. A tested decision can be wrong. A .d.ts emits nothing, so a runtime rule skips it. Grow a graph out from the change through the index, never over the tree. A folder-wide exemption hides a second spelling in the folder. Refusing: comments 3020, lint 302, manifest-names 67, key-names 57, no-class 8, cycles 7, index-path 6, globals 2. no-method-signature next.",
+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed a fault before believing a zero. Charge a check on a warm shadow, not the shared build. A tested decision can be wrong. A .d.ts emits nothing, so a runtime rule skips it and a typing rule binds it. Scope an exemption to the outlier, never to the folder or class holding it. Refusing: comments 3020, method-sig 307, lint 302, manifest-names 67, key-names 57, no-class 8, cycles 7, index-path 6, globals 2. no-raw-nul-bytes next.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
