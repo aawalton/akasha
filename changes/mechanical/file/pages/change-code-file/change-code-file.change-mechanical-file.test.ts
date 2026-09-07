@@ -12,11 +12,11 @@ import {
   type World,
   worldAt,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { changeFile } from "../../../pages/change-file/change-file.change-mechanical.code.ts"
+import { changeFile } from "../../../pages/change-file/change-file.change-mechanical-file.code.ts"
 import { runChange } from "./change-code-file.change-mechanical-file.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical/change-file") {
+  if (at === "change-mechanical-file/change-file") {
     return Promise.resolve(changeFile(world, given as { at: string; old: string; new: string }))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))

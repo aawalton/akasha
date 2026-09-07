@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { bodyOf, idOf, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import { runChange as changeFile } from "../../../mechanical/pages/change-file/change-file.change-mechanical.code.ts"
+import { runChange as changeFile } from "../../../mechanical/pages/change-file/change-file.change-mechanical-file.code.ts"
 import { runChange as renameImports } from "../../../mechanical/pages/rename-imports/rename-imports.change-mechanical-code.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
@@ -61,7 +61,7 @@ function repoIn(): string {
 }
 
 const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical/change-file") {
+  if (at === "change-mechanical-file/change-file") {
     return Promise.resolve(changeFile(world, given as Parameters<typeof changeFile>[1]))
   }
   if (at === "change-mechanical-code/rename-imports") {
@@ -137,6 +137,6 @@ test("each part of the retype is reached at the address that part names", async 
 
   expect(said.refused).toBeNull()
   expect(new Set(reached)).toEqual(
-    new Set(["change-mechanical-code/rename-imports", "change-mechanical/change-file"])
+    new Set(["change-mechanical-code/rename-imports", "change-mechanical-file/change-file"])
   )
 })

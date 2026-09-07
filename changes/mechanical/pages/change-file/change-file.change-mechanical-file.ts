@@ -1,8 +1,8 @@
-import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+import type { ChangeMechanicalFile } from "../../file/change-mechanical-file.page-type.ts"
 
 export const changeFile = {
   id: "01a07810-fb33-7e75-8e1e-ce1e302d5668",
-  pageTypeSlug: "change-mechanical",
+  pageTypeSlug: "change-mechanical-file",
   slug: "change-file",
   changeModeSlug: "change-mode-change",
   definition: "one passage of one body replaced by another, with nothing else judged",
@@ -45,4 +45,4 @@ export const changeFile = {
       statement: "Nothing here reads the disk.",
     },
   ],
-} as const satisfies ChangeMechanical
+} as const satisfies ChangeMechanicalFile

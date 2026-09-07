@@ -14,7 +14,7 @@ import { reach, type World } from "../../../modules/change-shadow/change-shadow.
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
-const CHANGE_FILE = "change-mechanical/change-file"
+const CHANGE_FILE = "change-mechanical-file/change-file"
 
 const RENAME_IMPORTS = "change-mechanical-code/rename-imports"
 
