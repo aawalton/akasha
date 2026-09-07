@@ -63,7 +63,11 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A change reaching another change loads that change while the first change runs.",
+      statement: "A change reached more than once over one world is looked up once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world reached over twice looks a change up again for the second world.",
     },
     {
       invariantKind: "departure",

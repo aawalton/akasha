@@ -64,14 +64,25 @@ export type Loaded = {
   readonly guards: readonly Guard[]
 }
 
+const LOADED = new WeakMap<World, Map<string, Loaded>>()
+
 export async function loadedAt(world: World, at: string): Promise<Loaded | string> {
+  const held = LOADED.get(world)
+  const before = held?.get(at)
+  if (before !== undefined) return before
   const run = await exportedAt(world, at, RUN_CHANGE)
   if (typeof run !== "function") {
     return `\`${at}\` reaches no change exporting \`${RUN_CHANGE}\``
   }
   const guards = await guardsIn(world, at)
   if (typeof guards === "string") return guards
-  return { run: run as (over: World, asked: unknown) => Answer | Promise<Answer>, guards }
+  const loaded: Loaded = {
+    run: run as (over: World, asked: unknown) => Answer | Promise<Answer>,
+    guards,
+  }
+  if (held === undefined) LOADED.set(world, new Map([[at, loaded]]))
+  else held.set(at, loaded)
+  return loaded
 }
 
 export async function ranBy(world: World, loaded: Loaded, given: unknown): Promise<Answer> {
