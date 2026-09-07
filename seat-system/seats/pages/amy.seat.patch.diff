@@ -18,6 +18,29 @@ index 7b93c1fefaebd358397300db4ffb9ed265825b86..93b3b6a2e8a1805f3bf55beafc5d229a
  ]
  
  export function narrowFor(one: Rolling, day: string): PageWhere {
+diff --git a/alan/harness/overdue-rolling/overdue-rolling.module.ts b/alan/harness/overdue-rolling/overdue-rolling.module.ts
+index bfdda0159543ec858f35ebb90ea1ca597e4e809a..1fb2107f6479990af7a22f177a94f5f911becb74 100644
+--- a/alan/harness/overdue-rolling/overdue-rolling.module.ts
++++ b/alan/harness/overdue-rolling/overdue-rolling.module.ts
+@@ -22,15 +22,11 @@ export const overdueRolling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A to-do already completed is not moved.",
++      statement: "A task already marked done is not moved.",
+     },
+     {
+-      invariantKind: "absence",
+-      statement: "A temper task states no completion.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "A temper task already done is moved.",
++      invariantKind: "departure",
++      statement: "The key saying a task is done is read from the page type moved.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/core/task-lifecycle/task-lifecycle.module.code.ts b/pages/core/task-lifecycle/task-lifecycle.module.code.ts
 index 372e70bfdf5208168890482500145d3190f8ed66..d04e6a6e81fd7d17067910ff9dc19cb6ad5f424a 100644
 --- a/pages/core/task-lifecycle/task-lifecycle.module.code.ts
