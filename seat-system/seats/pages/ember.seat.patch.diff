@@ -1,0 +1,31 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts b/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
+index f57e40f670e0f6429439795ede6770d6003d8470..d00c86511624af7959b4e4ff08d8045846bc1887 100644
+--- a/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
++++ b/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
+@@ -7,10 +7,15 @@ export const emberRepairTemperTasks = {
+   domainSlug: "domain/temper",
+   personaSlug: "ember",
+   intents: [
++    {
++      statement: "What the game records against a task reaches the due date the web holds.",
++      workingMemory:
++        "A scoped key `<taskId>:<characterId>` is kept as a mark rather than dropped, so 27 completion and 22 progress marks reach the decision. `next_character` rolls once the named character has progressed; `all_characters` once all 20 have completed or progressed, a character with no record counting as not progressed. Live at 12:42:53Z: `Task cadwell-s-almanac: rolled to 2026-09-08`, the cycle after rolling nothing, the once-a-day guard holding. Left: no per-character count reaches the web.",
++    },
+     {
+       statement: "Every key the watcher names on a page is one that page type declares.",
+       workingMemory:
+-        "Met: temper-task narrowed on `account`; `userId` dropped from four temper page types; `display-order`; `name` on temper-sale; `capturedAt` across the watcher and the inventory UI; `target-build-id` raised to temper-character-thing, which both carriers extend; `due-time` and `pending-sync` declared on temper-task. Open: temper-player declares neither `handle` nor `profileMetadata`, and whether that profile is a feature or residue is Alan's to settle.",
++        "Met: temper-task narrowed on `account`; `userId` dropped from four temper page types; `display-order`; `name` on temper-sale; `capturedAt` across the watcher and the inventory UI; `target-build-id` raised to temper-character-thing, which both carriers extend; `due-time` and `pending-sync` declared on temper-task; `handle`, `platform` and `server` declared on temper-player. Open: `profileMetadata` duplicates the declared platform and server, and eight code sites still read that bag.",
+     },
+     {
+       statement: "A task the web holds reaches the characters config the game reads.",
+@@ -40,7 +45,7 @@ export const emberRepairTemperTasks = {
+     {
+       statement: "The watcher proves who it is by its enrolment token alone.",
+       workingMemory:
+-        "The enrolment states accountPage 9ba554f7-cb18-48bb-a709-ec935a895ca7, the same string alan.person states as supabaseAuthUserId, so the swap is exact. The session is valid today. Once its refresh token expires the fallback is a browser sign-in a daemon cannot complete.",
++        "Met. The enrolment states accountPage 9ba554f7-cb18-48bb-a709-ec935a895ca7, the same string alan.person states as supabaseAuthUserId, so the swap is exact. The token is a static secret read from TEMPER_WATCHER_TOKEN and hashed to the tokenHash the enrolment page holds. Nothing mints one, nothing refreshes one, and the page type declares no expiry, so the check compares digests rather than a clock. A token matching nothing crash-loops the unit every five seconds.",
+     },
+     {
+       statement: "The watcher updates itself to the source revision it is told to run.",
