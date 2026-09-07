@@ -22,7 +22,11 @@ export const seatBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "A record is written whole, since a partial write takes its other fields away.",
+      statement: "A record is written whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A partial write takes a record's other fields away.",
     },
     {
       invariantKind: "departure",
