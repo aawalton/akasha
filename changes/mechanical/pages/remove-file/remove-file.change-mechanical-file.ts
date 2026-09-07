@@ -5,6 +5,8 @@ export const removeFile = {
   pageTypeSlug: "change-mechanical-file",
   slug: "remove-file",
   changeModeSlug: "change-mode-remove",
+  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetSubtypeSlug: "change-target-subtype/file",
   definition: "one file taken away, with nothing else judged",
   code: "ts",
   test: "ts",

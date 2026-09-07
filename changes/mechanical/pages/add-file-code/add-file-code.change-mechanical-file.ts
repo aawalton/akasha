@@ -5,6 +5,8 @@ export const addFileCode = {
   pageTypeSlug: "change-mechanical-file",
   slug: "add-file-code",
   changeModeSlug: "change-mode-add",
+  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetSubtypeSlug: "change-target-subtype/file-code",
   definition: "one code body written at one path, with the imports that body names judged",
   code: "ts",
   test: "ts",

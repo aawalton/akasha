@@ -5,6 +5,7 @@ export const renamePageAddress = {
   pageTypeSlug: "change-mechanical-data",
   slug: "rename-page-address",
   changeModeSlug: "change-mode-rename",
+  changeTargetTypeSlug: "change-target-type/data",
   definition: "one page's address restated wherever a body spells that address",
   code: "ts",
   test: "ts",

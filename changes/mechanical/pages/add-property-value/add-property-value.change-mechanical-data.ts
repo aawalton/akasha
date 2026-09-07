@@ -5,6 +5,7 @@ export const addPropertyValue = {
   pageTypeSlug: "change-mechanical-data",
   slug: "add-property-value",
   changeModeSlug: "change-mode-add",
+  changeTargetTypeSlug: "change-target-type/data",
   definition: "one value put into one page property in a page's body",
   code: "ts",
   test: "ts",

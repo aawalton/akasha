@@ -5,6 +5,8 @@ export const changeFileCode = {
   pageTypeSlug: "change-mechanical-file",
   slug: "change-file-code",
   changeModeSlug: "change-mode-change",
+  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetSubtypeSlug: "change-target-subtype/file-code",
   definition: "one passage of one code body replaced, with the imports that body names judged",
   code: "ts",
   test: "ts",

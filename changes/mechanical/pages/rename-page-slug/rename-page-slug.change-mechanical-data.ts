@@ -5,6 +5,7 @@ export const renamePageSlug = {
   pageTypeSlug: "change-mechanical-data",
   slug: "rename-page-slug",
   changeModeSlug: "change-mode-rename",
+  changeTargetTypeSlug: "change-target-type/data",
   definition: "one page's slug restated in its own body and in the data of every page naming it",
   code: "ts",
   test: "ts",

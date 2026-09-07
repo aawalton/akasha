@@ -5,6 +5,7 @@ export const changeImports = {
   pageTypeSlug: "change-mechanical-code",
   slug: "change-imports",
   changeModeSlug: "change-mode-rename",
+  changeTargetTypeSlug: "change-target-type/code",
   definition: "a body rewritten so the paths it names follow the files that moved",
   code: "ts",
   test: "ts",

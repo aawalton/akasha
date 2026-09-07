@@ -5,6 +5,7 @@ export const changePageProperty = {
   pageTypeSlug: "change-mechanical-text",
   slug: "change-page-property",
   changeModeSlug: "change-mode-change",
+  changeTargetTypeSlug: "change-target-type/text",
   definition: "one key of a page's exported object stated anew",
   code: "ts",
   test: "ts",

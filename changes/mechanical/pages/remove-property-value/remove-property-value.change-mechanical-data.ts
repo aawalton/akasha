@@ -5,6 +5,7 @@ export const removePropertyValue = {
   pageTypeSlug: "change-mechanical-data",
   slug: "remove-property-value",
   changeModeSlug: "change-mode-remove",
+  changeTargetTypeSlug: "change-target-type/data",
   definition: "one value taken out of one page property in a page's body",
   code: "ts",
   test: "ts",

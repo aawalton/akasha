@@ -5,6 +5,8 @@ export const changeFile = {
   pageTypeSlug: "change-mechanical-file",
   slug: "change-file",
   changeModeSlug: "change-mode-change",
+  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetSubtypeSlug: "change-target-subtype/file",
   definition: "one passage of one body replaced by another, with nothing else judged",
   code: "ts",
   test: "ts",

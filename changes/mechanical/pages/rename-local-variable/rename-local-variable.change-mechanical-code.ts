@@ -5,6 +5,7 @@ export const renameLocalVariable = {
   pageTypeSlug: "change-mechanical-code",
   slug: "rename-local-variable",
   changeModeSlug: "change-mode-rename",
+  changeTargetTypeSlug: "change-target-type/code",
   definition: "the change spelling a local binding and its references anew in one file",
   code: "ts",
   test: "ts",

@@ -5,6 +5,8 @@ export const renamePath = {
   pageTypeSlug: "change-mechanical-file",
   slug: "rename-path",
   changeModeSlug: "change-mode-rename",
+  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetSubtypeSlug: "change-target-subtype/file",
   definition: "one file's path changed, with every body importing it repointed",
   code: "ts",
   test: "ts",
