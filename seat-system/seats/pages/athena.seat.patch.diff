@@ -1,0 +1,103 @@
+writerOwesReading: false
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index 851ef0e4a51233ef8ed47fd62b18b7b36b8d56d5..1c2e3b0d511c92b7016396abcba08beea961ae9a 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -106,6 +106,7 @@ export const command = {
+     "namespace/email",
+     "namespace/music",
+     "namespace/inference",
++    "namespace/mobile",
+   ],
+   extendsSlug: ["page-type/module"],
+   loadedBySlug: "module/calling",
+diff --git a/command-system/namespaces/pages/mobile-cut.namespace.ts b/command-system/namespaces/pages/mobile-cut.namespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..67357399392ccf99d7b98fb2bafcdb8003f2c7aa
+--- /dev/null
++++ b/command-system/namespaces/pages/mobile-cut.namespace.ts
+@@ -0,0 +1,9 @@
++import type { Namespace } from "../namespace.page-type.ts"
++
++export const mobileCut = {
++  id: "01a07bc2-afbe-7d91-9425-8903598cf067",
++  pageTypeSlug: "namespace",
++  slug: "mobile-cut",
++  definition: "the commit a TestFlight build was taken from",
++  partSlugs: ["command/mobile-cut-record", "command/mobile-cut-status"],
++} as const satisfies Namespace
+diff --git a/command-system/namespaces/pages/mobile-sim.namespace.ts b/command-system/namespaces/pages/mobile-sim.namespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..aad8f9c8a269b62c913f023575209acbf710fadb
+--- /dev/null
++++ b/command-system/namespaces/pages/mobile-sim.namespace.ts
+@@ -0,0 +1,20 @@
++import type { Namespace } from "../namespace.page-type.ts"
++
++export const mobileSim = {
++  id: "01a07bc2-afbe-7db2-96a8-ce71678480ac",
++  pageTypeSlug: "namespace",
++  slug: "mobile-sim",
++  definition: "the iOS simulator and what is driven on it",
++  partSlugs: [
++    "command/mobile-sim-boot",
++    "command/mobile-sim-eval",
++    "command/mobile-sim-long-press-drag",
++    "command/mobile-sim-open-url",
++    "command/mobile-sim-push-tap",
++    "command/mobile-sim-screenshot",
++    "command/mobile-sim-status",
++    "command/mobile-sim-tap",
++    "command/mobile-sim-teardown",
++    "command/mobile-sim-type",
++  ],
++} as const satisfies Namespace
+diff --git a/command-system/namespaces/pages/mobile.namespace.ts b/command-system/namespaces/pages/mobile.namespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1b4b805ac086acd72dd1241bdebdc6db6503420e
+--- /dev/null
++++ b/command-system/namespaces/pages/mobile.namespace.ts
+@@ -0,0 +1,14 @@
++import type { Namespace } from "../namespace.page-type.ts"
++
++export const mobile = {
++  id: "01a07bc2-afbe-7a85-ba01-366f93a9c7a1",
++  pageTypeSlug: "namespace",
++  slug: "mobile",
++  definition: "the iOS apps Alan runs and what puts a build in front of him",
++  partSlugs: [
++    "namespace/mobile-cut",
++    "command/mobile-deploy-device",
++    "namespace/mobile-sim",
++    "command/mobile-testflight-status",
++  ],
++} as const satisfies Namespace
+diff --git a/mobile-commands/mobile-commands.workspace-package.ts b/mobile-commands/mobile-commands.workspace-package.ts
+index 279fa71208e2ef9b6243442edf200425dfa79513..6f743ee0d093bbbdf4e158833ea4ed9f692f4623 100644
+--- a/mobile-commands/mobile-commands.workspace-package.ts
++++ b/mobile-commands/mobile-commands.workspace-package.ts
+@@ -6,23 +6,7 @@ export const mobileCommands = {
+   slug: "mobile-commands",
+   definition: "what an agent runs by name over the ios apps and the simulator driving them",
+   manifest: "json",
+-  partSlugs: [
+-    "command/mobile-cut-record",
+-    "command/mobile-cut-status",
+-    "command/mobile-deploy-device",
+-    "command/mobile-sim-boot",
+-    "command/mobile-sim-eval",
+-    "command/mobile-sim-long-press-drag",
+-    "command/mobile-sim-open-url",
+-    "command/mobile-sim-push-tap",
+-    "command/mobile-sim-screenshot",
+-    "command/mobile-sim-status",
+-    "command/mobile-sim-tap",
+-    "command/mobile-sim-teardown",
+-    "command/mobile-sim-type",
+-    "command/mobile-testflight-status",
+-    "module/mobile-answering",
+-  ],
++  partSlugs: ["module/mobile-answering"],
+   invariants: [
+     {
+       invariantKind: "departure",
