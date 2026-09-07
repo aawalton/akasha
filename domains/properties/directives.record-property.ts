@@ -4,7 +4,7 @@ import type { Act } from "./act.standard-agent-english-property.ts"
 import type { Aids } from "./aids.text-property.ts"
 import type { DirectiveKind } from "./directive-kind.relation-property.ts"
 import type { Name } from "./name.text-property.ts"
-import type { Warrant } from "./warrant.text-property.ts"
+import type { Warrant } from "./warrant.standard-agent-english-property.ts"
 
 export type Directive = {
   directiveKind: DirectiveKind
@@ -26,7 +26,7 @@ export const directives = {
     { pagePropertySlug: "relation-property/directive-kind", required: true, many: false },
     { pagePropertySlug: "text-property/name", required: true, many: false },
     { pagePropertySlug: "standard-agent-english-property/act", required: true, many: false },
-    { pagePropertySlug: "text-property/warrant", required: true, many: false },
+    { pagePropertySlug: "standard-agent-english-property/warrant", required: true, many: false },
     { pagePropertySlug: "text-property/aids", required: true, many: true, maxCount: 10 },
   ],
   invariants: [

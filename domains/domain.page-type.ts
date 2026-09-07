@@ -32,7 +32,7 @@ export const domain = {
     "text-property/invariant-statement",
     "text-property/name",
     "text-property/plural-slug",
-    "text-property/warrant",
+    "standard-agent-english-property/warrant",
   ],
   pageTypeSlug: "page-type",
   slug: "domain",
