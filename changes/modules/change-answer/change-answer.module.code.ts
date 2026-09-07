@@ -4,8 +4,6 @@ export function refusing(why: string): Answer {
   return { edits: [], refused: why }
 }
 
-// A caller writes a change's arguments as text while the command runs, so an argument the caller
-// left out reads as nothing rather than as a fault, and the key is what says what to write.
 export function missing(key: string): string {
   return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
 }
@@ -30,11 +28,21 @@ function under(held: ReadonlyMap<string, Edit>, edit: Edit): Edit | undefined {
   return held.get(edit.from ?? edit.path)
 }
 
+export function sameEdit(one: Edit, two: Edit): boolean {
+  return one.was === two.was && one.body === two.body && one.from === two.from
+}
+
+function restated(held: ReadonlyMap<string, Edit>, edit: Edit): boolean {
+  const stated = held.get(edit.path)
+  return stated !== undefined && sameEdit(stated, edit)
+}
+
 export function gathered(answers: readonly Answer[]): Answer {
   const held = new Map<string, Edit>()
   for (const one of answers) {
     if (one.refused !== null) return one
     for (const edit of one.edits) {
+      if (restated(held, edit)) continue
       const came = edit.from
       const before = under(held, edit)
       if (before !== undefined && before.body !== edit.was) {

@@ -39,6 +39,10 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
+      statement: "An edit stated a second time over gathers as the edit already there.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A move gathers with the write that move follows under the path left behind.",
     },
     {
