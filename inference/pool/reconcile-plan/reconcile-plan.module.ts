@@ -9,8 +9,12 @@ export const reconcilePlan = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A service is skipped only where every check about that service agrees.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A service is skipped only where its directory, environment, health, launchd job and hash all agree.",
+        "The checks are its directory and environment and health and launchd job and hash.",
     },
     {
       invariantKind: "departure",
