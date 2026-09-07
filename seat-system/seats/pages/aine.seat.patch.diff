@@ -1,3 +1,15 @@
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index a83035edecbef2eb9ab2ef966f28959406ec8c14..6a6b86ceba70a17db9c29089eb0a70df52545325 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -46,6 +46,7 @@ export const changeMechanical = {
+     "change-mechanical/rename-property-signature",
+     "change-mechanical/rename-manifest-ways",
+     "change-mechanical/remove-manifest-ways",
++    "change-mechanical/rename-page-address",
+     "relation-property/guard-slugs",
+   ],
+   properties: [
 diff --git a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.code.ts b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..7d2bc0fdf6c84ee0221a763b8c0fbd410543bfa0
