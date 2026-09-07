@@ -48,6 +48,26 @@ index 176e5e0003328c6aa26ed0340a425562e64168b4..04f4338c515af1af8e9aa6feb29148a3
    }
    return out
  }
+diff --git a/pages/access/answer/answer.module.test.ts b/pages/access/answer/answer.module.test.ts
+index 7f296caf351774d6110764607e77b71b91790c59..e57d7328f286297e750a77957c716c6629f4ca49 100644
+--- a/pages/access/answer/answer.module.test.ts
++++ b/pages/access/answer/answer.module.test.ts
+@@ -67,6 +67,15 @@ test("a row naming no page type carries no definition rather than asking for non
+   expect(rows[0]?.attributes).toEqual({ pluralSlug: "to-dos", propertyDefinitions: [] })
+ })
+ 
++test("a page type whose properties went unread carries none rather than refusing", async () => {
++  const rows = await withDefinitions([rowFor("to-do"), rowFor("nav")], async (slug) => {
++    if (slug === "to-do") throw new Error("the pages answered no shape")
++    return DEFINED
++  })
++  expect(rows[0]?.attributes).toEqual({ pluralSlug: "to-dos" })
++  expect(rows[1]?.attributes).toEqual({ pluralSlug: "to-dos", propertyDefinitions: DEFINED })
++})
++
+ test("every row is carried however many rows run past one batch", async () => {
+   const many = Array.from({ length: 40 }, (_, at) => rowFor(`type-${at}`))
+   const rows = await withDefinitions(many, async () => DEFINED)
 diff --git a/pages/access/answer/answer.module.ts b/pages/access/answer/answer.module.ts
 index b74d852512f6a66f0464f15715477734456dd8bd..39b1e51f66d05d9a57440e25fcc48b278ee40a80 100644
 --- a/pages/access/answer/answer.module.ts
