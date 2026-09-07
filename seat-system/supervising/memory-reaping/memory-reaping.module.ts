@@ -41,7 +41,11 @@ export const memoryReaping = {
     },
     {
       invariantKind: "departure",
-      statement: "The reaper runs until stopped, and a stop ends the loop at its next boundary.",
+      statement: "The reaper runs until stopped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop ends the loop at its next boundary.",
     },
   ],
 } as const satisfies Module
