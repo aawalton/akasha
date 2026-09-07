@@ -23,6 +23,7 @@ export const apply = {
     "an edit for a body the apply writes again is dropped rather than folded, and the report names it.",
     "an apply over no edits applies the patch the agent already holds.",
     "--break-the-glass applies with no check run, and the reason is said in the commit.",
+    "an apply says how many subagents handed edits over, because an apply lands none of them.",
   ],
   invariants: [
     {
@@ -150,6 +151,14 @@ export const apply = {
     {
       invariantKind: "departure",
       statement: "An apply that landed leaves the fold standing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "An apply lands no edit a subagent handed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply says how many subagents handed edits over.",
     },
   ],
 } as const satisfies Command

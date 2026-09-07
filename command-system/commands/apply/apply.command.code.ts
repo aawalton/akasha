@@ -14,7 +14,7 @@ import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { type Draft, drafted, putBack, type Running } from "../../drafting/drafting.module.code.ts"
 import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
 import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
-import { editsFor } from "../change/change.command.code.ts"
+import { editsFor, waitingSaid } from "../change/change.command.code.ts"
 import { applying } from "../patch/patch.command.code.ts"
 import { MESSAGE, MESSAGE_FILE, unknownIn } from "../write/write.command.code.ts"
 
@@ -161,6 +161,7 @@ export async function apply(argv: readonly string[], given: Given): Promise<Answ
       ...said.dropped.map((one) => `${one} is dropped — that body is written again on every apply`),
       ...said.folded.map((one) => `folded ${one} into the patch`),
       ...answered.report,
+      ...waitingSaid(given.root, page),
     ],
     refusals: answered.refusals,
     code: answered.code,
