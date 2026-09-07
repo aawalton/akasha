@@ -288,14 +288,20 @@ function eitherOf(one: Running, two: Running): Running {
   }
 }
 
+function staledIn(held: Bodies): readonly string[] {
+  const carried = [...held]
+    .filter(([, one]) => one.readersOweReading === false)
+    .map(([path]) => path)
+  if (carried.length === 0) return []
+  if (carried.length === held.size) return [NOT_STALED_AT]
+  return carried.sort().map((path) => `${NOT_STALED_ONE}${path}`)
+}
+
 function preambleOf(running: Running, held: Bodies): string {
   const said = [
     ...(running.checks ? [] : [NO_CHECKS_AT]),
     ...(running.writerOwesReading ? [] : [NOT_OWED_AT]),
-    ...[...held]
-      .filter(([, one]) => one.readersOweReading === false)
-      .map(([path]) => `${NOT_STALED_ONE}${path}`)
-      .sort(),
+    ...staledIn(held),
   ]
   return said.length === 0 ? "" : `${said.join("\n")}\n`
 }
