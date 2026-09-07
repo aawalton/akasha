@@ -5,6 +5,8 @@ import { z } from "zod"
 
 export const PAGE_WRITE_PATH = "/api/page-write"
 
+export const PAGE_TYPES_PATH = "/api/page-types"
+
 export const WRITE_OVER_SERVER_OPS = [
   "createPage",
   "createPageIfAbsent",
@@ -60,6 +62,37 @@ type ServerReply = { readonly error?: string; readonly result?: Json }
 export function asPageList(value: unknown): readonly Page[] {
   if (!Array.isArray(value)) return []
   return value.map((row) => asPage(row))
+}
+
+const ROSTER_REPLY = z.looseObject({ types: z.array(z.looseObject({ slug: z.string() })) })
+
+export type Rostered = { readonly slugs: ReadonlySet<string> } | { readonly refused: string }
+
+export async function rosterOverServer(): Promise<Rostered> {
+  let answered: Response
+  try {
+    answered = await fetch(PAGE_TYPES_PATH, { headers: { accept: "application/json" } })
+  } catch (cause) {
+    return { refused: `${PAGE_TYPES_PATH} gave no answer (${String(cause)})` }
+  }
+  let body: unknown
+  try {
+    body = await answered.json()
+  } catch (cause) {
+    return {
+      refused: `${PAGE_TYPES_PATH} replied ${answered.status} with what is not JSON (${String(cause)})`,
+    }
+  }
+  if (!answered.ok) {
+    const held = SERVER_REPLY.safeParse(body)
+    const why = held.success ? held.data.error : undefined
+    return { refused: why ?? `${PAGE_TYPES_PATH} replied ${answered.status}` }
+  }
+  const read = ROSTER_REPLY.safeParse(body)
+  if (!read.success) {
+    return { refused: `${PAGE_TYPES_PATH} replied with what no roster can be read out of` }
+  }
+  return { slugs: new Set(read.data.types.map((one) => one.slug)) }
 }
 
 export async function overServer(op: WriteOverServerOp, args: unknown): Promise<Json> {

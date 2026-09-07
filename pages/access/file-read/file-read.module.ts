@@ -51,6 +51,10 @@ export const fileRead = {
     },
     {
       invariantKind: "departure",
+      statement: "A browser reads that roster from the route its own app answers page types on.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That roster is asked once and held for a minute rather than per page read.",
     },
     {

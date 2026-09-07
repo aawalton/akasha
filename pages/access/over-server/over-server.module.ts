@@ -15,5 +15,9 @@ export const overServer = {
       invariantKind: "departure",
       statement: "The guards inside that function judge a write from a browser unchanged.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The roster a guard reads comes from the route the app answers page types on.",
+    },
   ],
 } as const satisfies Module
