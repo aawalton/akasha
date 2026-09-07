@@ -23,7 +23,7 @@ export const fileKindDomain = {
     {
       invariantKind: "gap",
       statement:
-        "The pattern, the bytes and the splitting a kind states have no property here yet.",
+        "The pattern and the bytes and the splitting a kind states have no property here yet.",
     },
   ],
 } as const satisfies PageType
