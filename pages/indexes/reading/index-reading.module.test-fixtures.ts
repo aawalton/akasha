@@ -29,6 +29,10 @@ const ENDING = ".jsonl"
 
 const PAGE = "page"
 
+const PAGE_TYPE = "page-type"
+
+const NO_SCOPE = ""
+
 const ID = "id"
 
 const SLUG = "slug"
@@ -77,16 +81,23 @@ function taking(root: string, at: string): undefined {
 
 function identityFiled(
   root: string,
+  level: string,
   scope: string,
   propertySlug: string,
   said: string,
   lines: readonly unknown[]
 ): undefined {
-  filing(root, join(indexIdentity.name, scope, propertySlug, said), lines)
+  filing(root, join(indexIdentity.name, level, scope, propertySlug, said), lines)
 }
 
-function identityListed(root: string, scope: string, propertySlug: string, said: string): boolean {
-  const at = join(indexIdentity.name, scope, propertySlug, `${said}${ENDING}`)
+function identityListed(
+  root: string,
+  level: string,
+  scope: string,
+  propertySlug: string,
+  said: string
+): boolean {
+  const at = join(indexIdentity.name, level, scope, propertySlug, `${said}${ENDING}`)
   return existsSync(under(root, at))
 }
 
@@ -96,7 +107,7 @@ export function listedFiled(
   slug: string,
   lines: readonly unknown[]
 ): undefined {
-  identityFiled(root, pageTypeSlug, SLUG, slug, lines)
+  identityFiled(root, PAGE_TYPE, pageTypeSlug, SLUG, slug, lines)
 }
 
 export function listedAlsoFiled(
@@ -105,7 +116,7 @@ export function listedAlsoFiled(
   slug: string,
   lines: readonly unknown[]
 ): undefined {
-  adding(root, join(indexIdentity.name, pageTypeSlug, SLUG, slug), lines)
+  adding(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG, slug), lines)
 }
 
 export function valueAlsoFiled(
@@ -117,15 +128,15 @@ export function valueAlsoFiled(
 }
 
 export function listedFiledIn(root: string, pageTypeSlug: string, slug: string): boolean {
-  return identityListed(root, pageTypeSlug, SLUG, slug)
+  return identityListed(root, PAGE_TYPE, pageTypeSlug, SLUG, slug)
 }
 
 export function listedUnreadableFiled(root: string, pageTypeSlug: string, slug: string): undefined {
-  unreadable(root, join(indexIdentity.name, pageTypeSlug, SLUG, `${slug}${ENDING}`))
+  unreadable(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG, `${slug}${ENDING}`))
 }
 
 export function idFiled(root: string, id: string, lines: readonly unknown[]): undefined {
-  identityFiled(root, PAGE, ID, id, lines)
+  identityFiled(root, PAGE, NO_SCOPE, ID, id, lines)
 }
 
 export function pageFiled(root: string, id: string, path: string): undefined {
@@ -133,7 +144,7 @@ export function pageFiled(root: string, id: string, path: string): undefined {
 }
 
 export function idFiledIn(root: string, id: string): boolean {
-  return identityListed(root, PAGE, ID, id)
+  return identityListed(root, PAGE, NO_SCOPE, ID, id)
 }
 
 export function pathFiled(root: string, path: string, lines: readonly unknown[]): undefined {
@@ -176,7 +187,7 @@ export function nothingFiled(root: string): undefined {
 }
 
 export function noneOfTypeFiled(root: string, pageTypeSlug: string): undefined {
-  foldering(root, join(indexIdentity.name, pageTypeSlug, SLUG))
+  foldering(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG))
 }
 
 export function noPathsFiled(root: string): undefined {
@@ -249,7 +260,7 @@ export function rebuiltApart(root: string, tree: string, aside: string): readonl
 }
 
 export function identitiesCopied(from: string, into: string, pageTypeSlug: string): undefined {
-  const at = join(indexIdentity.name, pageTypeSlug)
+  const at = join(indexIdentity.name, PAGE_TYPE, pageTypeSlug)
   cpSync(under(from, at), under(into, at), { recursive: true })
 }
 
@@ -260,7 +271,7 @@ export function idCopied(from: string, into: string, id: string): undefined {
 }
 
 export function listedTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
-  taking(root, join(indexIdentity.name, pageTypeSlug, SLUG, `${slug}${ENDING}`))
+  taking(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG, `${slug}${ENDING}`))
 }
 
 function slugSaid(line: string): unknown {
@@ -285,7 +296,7 @@ export function importsListed(root: string): boolean {
 }
 
 export function identitiesListedIn(root: string, pageTypeSlug: string): boolean {
-  return existsSync(under(root, join(indexIdentity.name, pageTypeSlug)))
+  return existsSync(under(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug)))
 }
 
 export function idTakenFrom(root: string, id: string): undefined {
@@ -293,7 +304,7 @@ export function idTakenFrom(root: string, id: string): undefined {
 }
 
 export function identitiesTakenFrom(root: string, pageTypeSlug: string): undefined {
-  taking(root, join(indexIdentity.name, pageTypeSlug))
+  taking(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug))
 }
 
 export function pathsTakenFrom(root: string): undefined {

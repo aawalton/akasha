@@ -8,6 +8,7 @@ import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.
 
 export type Stated = {
   readonly path: string
+  readonly level: string
   readonly scope: string
   readonly propertySlug: string
   readonly said: string
@@ -21,6 +22,7 @@ export function statedBy(
   return carried.flatMap((one) =>
     filedIn(one.value, identifying, null, partOf).map((held) => ({
       path: one.path,
+      level: held.level,
       scope: held.scope,
       propertySlug: held.propertySlug,
       said: held.said,
@@ -29,7 +31,7 @@ export function statedBy(
 }
 
 export function keyOf(one: Stated): string {
-  return `${one.scope}/${one.propertySlug}/${one.said}`
+  return `${one.level}/${one.scope}/${one.propertySlug}/${one.said}`
 }
 
 export function statedByKey(stated: readonly Stated[]): ReadonlyMap<string, readonly Stated[]> {
@@ -60,7 +62,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   for (const held of statedByKey(statedBy(carried, identifying, parting)).values()) {
     const one = held[0]
     if (one === undefined) continue
-    const listed = shadow.index.listedNamed(one.scope, one.propertySlug, one.said)
+    const listed = shadow.index.listedNamed(one.level, one.scope, one.propertySlug, one.said)
     if (listed.length < 2) continue
     const carrying = new Set(held.map((each) => each.path))
     const elsewhere = listed.find((found) => !carrying.has(found.path))

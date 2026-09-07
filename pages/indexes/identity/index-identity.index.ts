@@ -11,15 +11,19 @@ export const indexIdentity = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An identity file is found by scope then property then value.",
+      statement: "An identity file is found by level then scope then property then value.",
     },
     {
       invariantKind: "departure",
-      statement: "The scope is the reach an identifier is unique within.",
+      statement: "The level is the reach an identifier is unique within.",
     },
     {
       invariantKind: "departure",
-      statement: "The reach `always` names the scope `page`.",
+      statement: "The reach `always` names the level `page`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page unique across every page is filed under no scope.",
     },
     {
       invariantKind: "departure",

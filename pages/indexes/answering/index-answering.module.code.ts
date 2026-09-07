@@ -73,7 +73,12 @@ export type Answering = {
   readonly listedAt: (pageTypeSlug: string, slug: string) => readonly Listed[]
   readonly listedById: (id: string) => Listed | null
   readonly listedByPath: (path: string) => readonly Listed[]
-  readonly listedNamed: (scope: string, propertySlug: string, said: string) => readonly Listed[]
+  readonly listedNamed: (
+    level: string,
+    scope: string,
+    propertySlug: string,
+    said: string
+  ) => readonly Listed[]
   readonly manifestsBeside: (
     fileProperties: ReadonlyMap<string, string | null>
   ) => readonly string[]
@@ -120,7 +125,8 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     listedAt: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
     listedById: (id) => listedById(reading, id),
     listedByPath: (path) => listedByPath(reading, path),
-    listedNamed: (scope, propertySlug, said) => listedNamed(reading, scope, propertySlug, said),
+    listedNamed: (level, scope, propertySlug, said) =>
+      listedNamed(reading, level, scope, propertySlug, said),
     manifestsBeside: (fileProperties) => manifestsBeside(reading, fileProperties),
     namersOf: (id, indexName) => namersOf(reading, id, indexName),
     pageAt: (pageTypeSlug, slug) => pageAt(reading, pageTypeSlug, slug, pageOf),

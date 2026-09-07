@@ -43,6 +43,8 @@ const SLUG = "slug"
 
 const PAGE = "page"
 
+const PAGE_TYPE = "page-type"
+
 const ID = "id"
 
 const AT_PATH = "path"
@@ -99,6 +101,7 @@ function endingIn(said: readonly { readonly name: string }[]): readonly string[]
 
 export function listedNamed(
   given: string | Reading,
+  level: string,
   scope: string,
   propertySlug: string,
   said: string
@@ -106,8 +109,8 @@ export function listedNamed(
   return answered(
     given,
     ROOT,
-    `which \`${scope}\` carries \`${said}\` as its \`${propertySlug}\``,
-    (reading) => listedIn(reading, join(IDENTITY, scope, propertySlug, `${said}${ENDING}`))
+    `which \`${scope === "" ? level : scope}\` carries \`${said}\` as its \`${propertySlug}\``,
+    (reading) => listedIn(reading, join(IDENTITY, level, scope, propertySlug, `${said}${ENDING}`))
   )
 }
 
@@ -116,7 +119,7 @@ export function listedAt(
   pageTypeSlug: string,
   slug: string
 ): readonly Listed[] {
-  return listedNamed(given, pageTypeSlug, SLUG, slug)
+  return listedNamed(given, PAGE_TYPE, pageTypeSlug, SLUG, slug)
 }
 
 export function listedById(given: string | Reading, id: string): Listed | null {
@@ -135,7 +138,10 @@ export function listedFor(given: string | Reading, address: PageAddress): Listed
       `\`${address.value}\` is named under a parent, and no page is filed under a parent yet`
     )
   }
-  return listedNamed(given, address.pageTypeSlug, address.propertySlug, address.value)[0] ?? null
+  return (
+    listedNamed(given, PAGE_TYPE, address.pageTypeSlug, address.propertySlug, address.value)[0] ??
+    null
+  )
 }
 
 export function listedByPath(given: string | Reading, path: string): readonly Listed[] {

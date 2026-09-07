@@ -142,8 +142,8 @@ test("every question answers what the reader beneath it answers with the reading
   expect(index.listedAt(MODULE, "held")).toEqual(listedAt(reading, MODULE, "held"))
   expect(index.listedById(HELD_ID)).toEqual(listedById(reading, HELD_ID))
   expect(index.listedByPath(HELD_AT)).toEqual(listedByPath(reading, HELD_AT))
-  expect(index.listedNamed(MODULE, SLUG, "held")).toEqual(
-    listedNamed(reading, MODULE, SLUG, "held")
+  expect(index.listedNamed(PAGE_TYPE, MODULE, SLUG, "held")).toEqual(
+    listedNamed(reading, PAGE_TYPE, MODULE, SLUG, "held")
   )
   expect(index.namersOf(TYPE_ID)).toEqual(namersOf(reading, TYPE_ID))
   expect(index.pageAt(MODULE, "held")).toEqual(pageAt(reading, MODULE, "held", pageOf))
@@ -175,7 +175,7 @@ test("what imports a file is answered as the reader beneath answers it", () => {
 test("a question is answered from the reading bound rather than from the index at a root", () => {
   const root = seeded()
   const laid = readingLaidOver(root, {
-    "identity/module/slug/laid.jsonl": [{ path: LAID_AT, id: LAID_ID }],
+    "identity/page-type/module/slug/laid.jsonl": [{ path: LAID_AT, id: LAID_ID }],
     "path/akasha/laid/laid.module.ts.jsonl": [{ path: LAID_AT, id: LAID_ID }],
   })
   const index = answeringOver(laid, pageOf)

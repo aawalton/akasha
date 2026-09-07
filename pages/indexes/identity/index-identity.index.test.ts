@@ -52,7 +52,7 @@ test("a value carrying its two identifiers is filed under its id and under its p
 
   expect(identityIn(value, "/repo/a.domain.ts", "/repo", UNIQUE)).toEqual([
     { at: `identity/page/id/${A}.jsonl`, line },
-    { at: "identity/domain/slug/a.jsonl", line },
+    { at: "identity/page-type/domain/slug/a.jsonl", line },
   ])
 })
 
@@ -62,7 +62,7 @@ test("a page holding files is filed under no path here, a path being no identifi
 
   expect(identityIn(value, "/repo/deep/a.module.ts", "/repo", UNIQUE)).toEqual([
     { at: `identity/page/id/${A}.jsonl`, line },
-    { at: "identity/module/slug/a.jsonl", line },
+    { at: "identity/page-type/module/slug/a.jsonl", line },
   ])
 })
 
@@ -80,7 +80,7 @@ test("an identifier is read by the key its property states rather than by its sl
   const line = `{"path":"a.domain.ts","id":"${A}"}`
 
   expect(identityIn(value, "/repo/a.domain.ts", "/repo", keyed)).toEqual([
-    { at: "identity/domain/held-name/n.jsonl", line },
+    { at: "identity/page-type/domain/held-name/n.jsonl", line },
   ])
 })
 
@@ -93,7 +93,7 @@ test("a value is filed under no identifier its own page type does not carry", ()
   const line = `{"path":"a.domain.ts","id":"${A}"}`
 
   expect(identityIn(value, "/repo/a.domain.ts", "/repo", keyed)).toEqual([
-    { at: "identity/domain/slug/a.jsonl", line },
+    { at: "identity/page-type/domain/slug/a.jsonl", line },
   ])
 })
 
@@ -104,7 +104,7 @@ test("an identifier held as a number is filed under the text of that number", ()
   const value = { id: A, pageTypeSlug: "domain", slug: "a", tally: 7 }
 
   expect(identityIn(value, "/repo/a.domain.ts", "/repo", keyed)).toEqual([
-    { at: "identity/domain/tally/7.jsonl", line: `{"path":"a.domain.ts","id":"${A}"}` },
+    { at: "identity/page-type/domain/tally/7.jsonl", line: `{"path":"a.domain.ts","id":"${A}"}` },
   ])
 })
 
@@ -113,7 +113,7 @@ test("only the identifiers named are filed where a set narrows them", () => {
   const line = `{"path":"a.domain.ts","id":"${A}"}`
 
   expect(identityIn(value, "/repo/a.domain.ts", "/repo", UNIQUE, new Set(["slug"]))).toEqual([
-    { at: "identity/domain/slug/a.jsonl", line },
+    { at: "identity/page-type/domain/slug/a.jsonl", line },
   ])
 })
 
@@ -127,8 +127,8 @@ test("a page naming the collections it is part of is filed under each of them", 
   const line = `{"path":"gorillaz.collection.ts","id":"${A}"}`
 
   expect(identityIn(value, "/repo/gorillaz.collection.ts", "/repo", PARTED)).toEqual([
-    { at: "identity/artists/slug/gorillaz.jsonl", line },
-    { at: "identity/music/slug/gorillaz.jsonl", line },
+    { at: "identity/part-of/artists/slug/gorillaz.jsonl", line },
+    { at: "identity/part-of/music/slug/gorillaz.jsonl", line },
   ])
 })
 
@@ -138,14 +138,14 @@ test("a page part of nothing is filed under no scope of the `part-of` reach", ()
 
 test("a page another page names in its `partSlugs` is filed under that page's slug", () => {
   expect(identityIn(HOME, HOME_AT, "/repo", PARTED, null, partingIn([HOME, WEB]))).toEqual([
-    { at: "identity/alan-web/slug/home.jsonl", line: HOME_LINE },
+    { at: "identity/part-of/alan-web/slug/home.jsonl", line: HOME_LINE },
   ])
 })
 
 test("a page two pages name in their `partSlugs` is filed under each of them", () => {
   expect(identityIn(HOME, HOME_AT, "/repo", PARTED, null, partingIn([HOME, WEB, MOBILE]))).toEqual([
-    { at: "identity/alan-web/slug/home.jsonl", line: HOME_LINE },
-    { at: "identity/alan-mobile/slug/home.jsonl", line: HOME_LINE },
+    { at: "identity/part-of/alan-web/slug/home.jsonl", line: HOME_LINE },
+    { at: "identity/part-of/alan-mobile/slug/home.jsonl", line: HOME_LINE },
   ])
 })
 
@@ -164,14 +164,14 @@ test("a page both naming a collection and named by another page is filed under b
   const value: Value = { ...HOME, partOfSlugs: ["artists"] }
 
   expect(identityIn(value, HOME_AT, "/repo", PARTED, null, partingIn([value, WEB]))).toEqual([
-    { at: "identity/artists/slug/home.jsonl", line: HOME_LINE },
-    { at: "identity/alan-web/slug/home.jsonl", line: HOME_LINE },
+    { at: "identity/part-of/artists/slug/home.jsonl", line: HOME_LINE },
+    { at: "identity/part-of/alan-web/slug/home.jsonl", line: HOME_LINE },
   ])
 })
 
-test("what a page is filed under carries the scope, the property and the value", () => {
+test("what a page is filed under carries the level, the scope, the property and the value", () => {
   expect(filedIn(HOME, PARTED, null, partingIn([HOME, WEB]))).toEqual([
-    { scope: "alan-web", propertySlug: "slug", said: "home" },
+    { level: "part-of", scope: "alan-web", propertySlug: "slug", said: "home" },
   ])
 })
 
@@ -187,7 +187,7 @@ test("a page the index says another page names is filed under that page's slug",
   const parting = partingOver(filedAs("part-slugs"), [HOME], NONE)
 
   expect(identityIn(HOME, HOME_AT, "/repo", PARTED, null, parting)).toEqual([
-    { at: "identity/alan-web/slug/home.jsonl", line: HOME_LINE },
+    { at: "identity/part-of/alan-web/slug/home.jsonl", line: HOME_LINE },
   ])
 })
 
@@ -207,8 +207,8 @@ test("the pages in hand and the pages the index names are read together", () => 
   const parting = partingOver(filedAs("part-slugs"), [HOME, MOBILE], NONE)
 
   expect(identityIn(HOME, HOME_AT, "/repo", PARTED, null, parting)).toEqual([
-    { at: "identity/alan-mobile/slug/home.jsonl", line: HOME_LINE },
-    { at: "identity/alan-web/slug/home.jsonl", line: HOME_LINE },
+    { at: "identity/part-of/alan-mobile/slug/home.jsonl", line: HOME_LINE },
+    { at: "identity/part-of/alan-web/slug/home.jsonl", line: HOME_LINE },
   ])
 })
 
@@ -252,10 +252,10 @@ test("two pages of one type carrying one slug under different parents are filed 
   const mobile: Value = { ...WEB_HOME, id: B, partOfSlugs: ["alan-mobile"] }
 
   expect(filedIn(WEB_HOME, DECLARING)).toEqual([
-    { scope: "alan-web", propertySlug: "slug", said: "home" },
+    { level: "part-of", scope: "alan-web", propertySlug: "slug", said: "home" },
   ])
   expect(filedIn(mobile, DECLARING)).toEqual([
-    { scope: "alan-mobile", propertySlug: "slug", said: "home" },
+    { level: "part-of", scope: "alan-mobile", propertySlug: "slug", said: "home" },
   ])
 })
 
@@ -263,7 +263,7 @@ test("two pages of one type carrying one slug under one parent are filed at one 
   const other: Value = { ...WEB_HOME, id: C }
 
   expect(filedIn(other, DECLARING)).toEqual([
-    { scope: "alan-web", propertySlug: "slug", said: "home" },
+    { level: "part-of", scope: "alan-web", propertySlug: "slug", said: "home" },
   ])
   expect(filedIn(WEB_HOME, DECLARING)).toEqual(filedIn(other, DECLARING))
 })

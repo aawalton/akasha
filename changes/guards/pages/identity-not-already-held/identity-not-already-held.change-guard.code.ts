@@ -8,6 +8,8 @@ import type {
 
 const PAGE = "page"
 
+const NO_SCOPE = ""
+
 const ID = "id"
 
 const SLUG = "slug"
@@ -29,7 +31,7 @@ function heldAt(given: Guarding, path: string): string | null {
   const index = given.shadow.index
   const id = textAt(value, ID)
   if (id !== null) {
-    const other = otherThan(index.listedNamed(PAGE, ID, id), path)
+    const other = otherThan(index.listedNamed(PAGE, NO_SCOPE, ID, id), path)
     if (other !== null) {
       return `\`${path}\` states the id \`${id}\`, which \`${other}\` already holds`
     }

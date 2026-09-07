@@ -28,7 +28,7 @@ export type Entry = {
 export function pageTypesIn(given: string | Reading): ReadonlySet<string> {
   const found = new Set<string>([PAGE_TYPE])
   for (const one of typeSlugsIn(given)) {
-    for (const each of readingIn(given).listing(join(IDENTITY, one, "slug"))) {
+    for (const each of readingIn(given).listing(join(IDENTITY, PAGE_TYPE, one, "slug"))) {
       found.add(each.name.slice(0, -ENDING.length))
     }
   }

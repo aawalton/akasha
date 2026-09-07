@@ -114,20 +114,22 @@ export function levelOf(reach: string): string {
   return reach === ALWAYS ? PAGE : reach
 }
 
+const NO_SCOPE = ""
+
 function scopesFor(
-  reach: string,
+  level: string,
   value: Value,
   pageTypeSlug: string,
   partOf: PartOf
 ): readonly string[] {
-  const level = levelOf(reach)
-  if (level === PAGE) return [PAGE]
+  if (level === PAGE) return [NO_SCOPE]
   if (level === PAGE_TYPE) return [pageTypeSlug]
   if (level === PART_OF) return partOf(value)
-  throw new Error(`\`${reach}\` is no reach a page is filed under`)
+  throw new Error(`\`${level}\` is no level a page is filed under`)
 }
 
 export type Filed = {
+  readonly level: string
   readonly scope: string
   readonly propertySlug: string
   readonly said: string
@@ -149,8 +151,9 @@ export function filedIn(
     const found = value[one.key]
     if (typeof found !== "string" && typeof found !== "number") continue
     const said = String(found)
-    for (const scope of scopesFor(one.reach, value, pageTypeSlug, partOf)) {
-      held.push({ scope, propertySlug, said })
+    const level = levelOf(one.reach)
+    for (const scope of scopesFor(level, value, pageTypeSlug, partOf)) {
+      held.push({ level, scope, propertySlug, said })
     }
   }
   return held
@@ -168,7 +171,7 @@ export function identityIn(
   if (id === null) return []
   const line = JSON.stringify({ path: under(repo, path), id })
   return filedIn(value, identifying, only, partOf).map((one) => ({
-    at: join(IDENTITY, one.scope, one.propertySlug, `${one.said}${ENDING}`),
+    at: join(IDENTITY, one.level, one.scope, one.propertySlug, `${one.said}${ENDING}`),
     line,
   }))
 }
