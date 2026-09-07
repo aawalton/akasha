@@ -1,0 +1,16 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh b/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh
+old mode 100755
+new mode 100644
+index 1307e7daf2235ed0181686c04711ad95a6f25184..49fe0edd953c55e4826359be095419a7c72e3bb8
+--- a/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh
++++ b/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh
+@@ -21,7 +21,6 @@ SCRIPTS="$AKASHA_ROOT/machines/provisioning/scripts"
+ echo "Setting up dotfile symlinks..."
+ link "$FILES/bashrc.provisioned-file.content.sh"   "$HOME/.bashrc"
+ link "$FILES/profile.provisioned-file.content.sh"  "$HOME/.profile"
+-[ "$(uname)" = "Darwin" ] && link "$FILES/zshrc.provisioned-file.content.sh" "$HOME/.zshrc"
+ link "$FILES/tmux-config.provisioned-file.content.conf"       "$HOME/.tmux.conf"
+ link "$FILES/git-config.provisioned-file.content.conf"        "$HOME/.gitconfig"
+ link "$FILES/home-search-ignore.provisioned-file.content.conf" "$HOME/.ignore"
