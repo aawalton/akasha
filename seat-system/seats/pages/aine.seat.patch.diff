@@ -24,3 +24,18 @@ index 9bb337a287e58e7a135929498b4179dd06692c4c..9af776d29c50aec9532aacffc05866de
    return gathered(carried)
  }
  
+diff --git a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts
+index 60c7032b7b5edccc442e1974b473737d3c4da721..10b319e3f5ff28a1aa107d04bef6294aacf6df05 100644
+--- a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts
++++ b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts
+@@ -31,6 +31,10 @@ export const changePagePageType = {
+       invariantKind: "departure",
+       statement: "A body naming a path that moved is repointed in the same answer.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An address the page type moves is restated wherever a body spells that address.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here changes the slug a page states.",
