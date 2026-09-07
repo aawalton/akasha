@@ -353,6 +353,17 @@ test("a page and the file beside that page leave no file behind", async () => {
   expect(said.edits.map((one) => one.path).sort()).toEqual([NAMER_CODE, NAMER_PAGE])
 })
 
+import { ledgerAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+
+test("a page taken away over a ledger is answered rather than answered twice", async () => {
+  const root = indexedRepo()
+
+  const said = await runChange(ledgerAt(root, textIn(root), GUARDED), { at: NAMER_PAGE })
+
+  expect(said.refused).toBe(null)
+  expect(said.edits.map((one) => one.path).sort()).toEqual([NAMER_CODE, NAMER_PAGE])
+})
+
 test("a page a parent names in part-slugs goes through the guarded chain", async () => {
   const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "module/child") })
 

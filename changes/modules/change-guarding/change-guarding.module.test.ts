@@ -82,6 +82,16 @@ test("two answers that will not gather refuse rather than being judged apart", (
   expect(said.refused ?? "").toContain("answered twice")
 })
 
+import { addedTo, ledgerAt } from "../change-shadow/change-shadow.module.code.ts"
+
+test("an answer the world already holds is judged rather than refused", () => {
+  const root = indexedRepo()
+  const said = answered([taking(NAMER_CODE, textIn(root)(NAMER_CODE) ?? "")])
+  const ledger = addedTo(ledgerAt(root, textIn(root)), said)
+
+  expect(guardedBy(ledger, said, [counting([], null)]).refused).toBe(null)
+})
+
 test("the paths an answer takes away are read here, and a path a move leaves is not one", () => {
   const said = answered([
     taking("akasha/a.ts", "x\n"),

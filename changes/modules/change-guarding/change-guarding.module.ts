@@ -36,6 +36,10 @@ export const changeGuarding = {
     },
     {
       invariantKind: "departure",
+      statement: "An answer the world already holds is judged rather than refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A guard is handed the world the change read before that change answered.",
     },
     {
