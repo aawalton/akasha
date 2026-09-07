@@ -44,3 +44,23 @@ index d04e6a6e81fd7d17067910ff9dc19cb6ad5f424a..d6fa7f49c9a2bbb7d736b295deb9a4da
    if (due === null) return { [shape.stampKey]: stamp }
    return { [shape.stampKey]: stamp, [shape.dueKey]: due }
  }
+diff --git a/pages/core/task-lifecycle/task-lifecycle.module.ts b/pages/core/task-lifecycle/task-lifecycle.module.ts
+index e1aa1d7ffd79475c27be358309b7106824fa2a61..1496934e80fdeb04917538aa444291b8a1dd9fcb 100644
+--- a/pages/core/task-lifecycle/task-lifecycle.module.ts
++++ b/pages/core/task-lifecycle/task-lifecycle.module.ts
+@@ -28,6 +28,15 @@ export const taskLifecycle = {
+       invariantKind: "departure",
+       statement: "The day a completion is anchored on is Alan's day rather than the UTC date.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An anchor written as the text `true` is read as true.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A completion captured earlier comes round from the clock rather than from itself.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A task holding no rule reads as done from the day of the marking onward.",
