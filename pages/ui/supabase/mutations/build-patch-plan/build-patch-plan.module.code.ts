@@ -13,6 +13,7 @@ const PromotedColumnPatchSchema = z
     page_type_id: z.string().optional(),
     seq: z.number().int().optional(),
     page_type_slug: z.string().optional(),
+    completed_at: z.string().nullable().optional(),
   })
   .strict()
 
@@ -27,6 +28,7 @@ const CAMEL_TO_SNAKE: Record<string, string> = {
   pageTypeId: "page_type_id",
   pageTypeSlug: "page_type_slug",
   uniqueKey: "unique_key",
+  completedAt: "completed_at",
 }
 
 export function buildPatchPlan(args: {

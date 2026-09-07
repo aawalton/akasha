@@ -6,4 +6,23 @@ export const routingCore = {
   slug: "routing-core",
   definition: "the page keys the store holds in columns of their own",
   code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A key held in a column of its own is read back under that key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A column holding nothing is read back as null.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key the attributes hold is read back under that key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The instant a page was marked done is held in a column of its own.",
+    },
+  ],
 } as const satisfies Module

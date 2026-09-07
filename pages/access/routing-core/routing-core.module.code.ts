@@ -13,6 +13,7 @@ export const PROMOTED_COLUMN = {
   pageTypeId: "page_type_id",
   pageTypeSlug: "page_type_slug",
   uniqueKey: "unique_key",
+  completedAt: "completed_at",
 } as const
 
 export const PROMOTED_COLUMN_KEYS: ReadonlySet<string> = new Set(Object.keys(PROMOTED_COLUMN))

@@ -8,7 +8,10 @@ export const temperTasksToday = {
   navSlug: "temper-tasks",
   pageType: "temper-task",
   viewPlace: 0,
-  narrows: [{ key: "due-date", comparison: "before", values: ["eso-day-next"] }],
+  narrows: [
+    { key: "due-date", comparison: "before", values: ["eso-day-next"] },
+    { key: "completed-at", comparison: "empty", values: ["true"] },
+  ],
   viewSorts: [
     { key: "priority", descending: false },
     { key: "character-sort-order", descending: true },

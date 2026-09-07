@@ -39,7 +39,6 @@ const NON_NULLABLE_ORDER_KEYS: ReadonlySet<string> = new Set([
 
 const ALSO_READ: Readonly<Record<string, string>> = {
   status: "status",
-  completedAt: "completed_at",
   favoritedAt: "favorited_at",
   lastViewedAt: "last_viewed_at",
 }

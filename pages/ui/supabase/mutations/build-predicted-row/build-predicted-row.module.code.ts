@@ -24,7 +24,7 @@ export function buildPredictedRow(
     attributes,
     unique_key: null,
     status: null,
-    completed_at: null,
+    completed_at: stringAt(props, "completedAt"),
     favorited_at: null,
     last_viewed_at: null,
   }
