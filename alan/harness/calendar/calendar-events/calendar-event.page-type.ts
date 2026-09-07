@@ -12,7 +12,7 @@ import type { CalendarEventMaxAttendees } from "./properties/calendar-event-max-
 import type { CalendarEventRegistrationOpensAt } from "./properties/calendar-event-registration-opens-at.instant-property.ts"
 import type { CalendarEventRegistrationRequired } from "./properties/calendar-event-registration-required.boolean-property.ts"
 import type { CalendarEventRegistrationUrl } from "./properties/calendar-event-registration-url.url-property.ts"
-import type { CalendarEventDescription } from "./properties/calendar-event-source-description.text-property.ts"
+import type { CalendarEventSourceDescription } from "./properties/calendar-event-source-description.text-property.ts"
 import type { CalendarEventStartAt } from "./properties/calendar-event-start-at.instant-property.ts"
 import type { CalendarEventTags } from "./properties/calendar-event-tags.text-property.ts"
 import type { CalendarEventTypes } from "./properties/calendar-event-types.text-property.ts"
@@ -24,7 +24,7 @@ export type CalendarEvent = Page & {
   endAt?: CalendarEventEndAt
   allDay?: CalendarEventAllDay
   location?: CalendarEventLocation
-  description?: CalendarEventDescription
+  sourceDescription?: CalendarEventSourceDescription
   eventTypes?: CalendarEventTypes
   ageGroups?: CalendarEventAgeGroups
   tags?: CalendarEventTags

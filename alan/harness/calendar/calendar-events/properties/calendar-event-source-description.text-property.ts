@@ -1,6 +1,6 @@
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type CalendarEventDescription = string
+export type CalendarEventSourceDescription = string
 
 export const calendarEventSourceDescription = {
   id: "01a06868-aec4-7e8a-a135-d98b1ca87d62",
