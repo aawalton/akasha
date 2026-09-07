@@ -15,8 +15,6 @@ import { subagentPageInHistory } from "../../subagent-page-history/subagent-page
 
 export const SUBAGENTS_AT = "seat-system/subagents/pages"
 
-export const SEATS_AT = "seat-system/seats/pages"
-
 export const WRITING = "write"
 
 export const TAKING = "take"
@@ -94,9 +92,9 @@ export function bodyOf(
 }
 
 export function assignedTo(root: string, seatName: string): string | null {
-  const listed = listedAt(root, SEAT, seatName)[0]
-  if (listed === undefined) return null
-  const value = valueAt(listed.path, root)
+  const at = seatPageIn(root, seatName)
+  if (at === null) return null
+  const value = valueAt(at, root)
   return value === null ? null : textAt(value, ASSIGNMENT)
 }
 
@@ -156,8 +154,8 @@ export async function wrote(
   )
 }
 
-export function seatPathOf(seatName: string): string {
-  return `${SEATS_AT}/${seatName}.seat.ts`
+export function seatPageIn(root: string, seatName: string): string | null {
+  return listedAt(root, SEAT, seatName)[0]?.path ?? null
 }
 
 export function tookInUnder(
@@ -165,8 +163,8 @@ export function tookInUnder(
   seatName: string,
   paths: readonly string[]
 ): readonly string[] {
-  const page = seatPathOf(seatName)
-  if (!existsSync(join(root, page))) return []
+  const page = seatPageIn(root, seatName)
+  if (page === null || !existsSync(join(root, page))) return []
   const taken: string[] = []
   for (const at of paths) {
     try {
@@ -181,8 +179,8 @@ export async function took(root: string, seatName: string, own: string): Promise
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
   const went = tookInUnder(root, seatName, patchesUnder(root, seatName))
-  const seat = seatPathOf(seatName)
-  if (existsSync(join(root, seat))) handedOver(root, seat, at, slug)
+  const seat = seatPageIn(root, seatName)
+  if (seat !== null) handedOver(root, seat, at, slug)
   if (!existsSync(join(root, at))) return WENT
   const why = went.includes(at)
     ? `${slug} is done, so its page goes; the patch it drafted went to the ${seatName} seat,` +
@@ -227,8 +225,8 @@ export async function tookUnder(root: string, seatName: string, why: string): Pr
   tookInUnder(root, seatName, patchesUnder(root, seatName))
   const paths = pathsUnder(root, seatName)
   if (paths.length === 0) return WENT
-  const seat = seatPathOf(seatName)
-  if (existsSync(join(root, seat))) {
+  const seat = seatPageIn(root, seatName)
+  if (seat !== null) {
     for (const one of paths) {
       const named = partedIn(one)
       if (named !== null) handedOver(root, seat, one, named.slug)

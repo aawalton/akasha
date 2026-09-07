@@ -9,7 +9,7 @@ import {
   handedIn,
   keptEdits,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { bodyOf, pathOf, seatPathOf, slugOf, type Went } from "./subagent-presence.module.code.ts"
+import { bodyOf, pathOf, seatPageIn, slugOf, type Went } from "./subagent-presence.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
@@ -117,7 +117,9 @@ export function keptUnder(root: string, slug: string, at: string): undefined {
 }
 
 export function handedPaths(root: string, seatName: string, slug: string): readonly string[] {
-  const held = handedIn(root, seatPathOf(seatName), slug)
+  const seat = seatPageIn(root, seatName)
+  if (seat === null) return []
+  const held = handedIn(root, seat, slug)
   return "why" in held ? [held.why] : held.rows.map((one) => one.path)
 }
 

@@ -154,6 +154,10 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "The page a seat sits at is read from the index rather than composed from a name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A patch is taken in whether or not the page beside that patch is there.",
     },
     {
