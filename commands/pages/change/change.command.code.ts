@@ -75,14 +75,7 @@ const APPLY = "apply"
 
 const NO_MESSAGE = "`apply` takes the commit message, and the message given is empty"
 
-const CHANGE_COMMAND = "change-command"
-
-const COMMAND_TYPES: readonly string[] = [
-  CHANGE_COMMAND,
-  "change-checked",
-  "change-authored",
-  "change-restated",
-]
+const COMMAND_TYPES: readonly string[] = ["change-checked", "change-authored", "change-restated"]
 
 const DROP = "drop"
 
@@ -239,9 +232,9 @@ export function stamped(said: Said, owed: boolean, owing: boolean): Said {
   }
 }
 
-function typeOf(world: World, slug: string): string {
+function typeOf(world: World, slug: string): string | null {
   for (const one of COMMAND_TYPES) if (world.index.pageAt(one, slug) !== null) return one
-  return CHANGE_COMMAND
+  return null
 }
 
 export async function appending(
@@ -346,6 +339,12 @@ export async function changing(
   const asked = applyIn(given)
   if (typeof asked === "string") return mistaking([asked])
   const type = typeOf(world, slug)
+  if (type === null) {
+    return mistaking([
+      `\`${slug}\` names no change, and this runs one of ${runsSaid(world)}`,
+      DROP_SAID,
+    ])
+  }
   const loaded = await loading(world, `${type}/${slug}`)
   if (typeof loaded === "string") return mistaking([loaded, DROP_SAID])
   const held: Loaded = loaded

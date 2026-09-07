@@ -50,7 +50,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A word reaching no change is refused by the address that reached nothing.",
+      statement: "A word naming no change is refused by that word rather than by an address.",
     },
     {
       invariantKind: "departure",

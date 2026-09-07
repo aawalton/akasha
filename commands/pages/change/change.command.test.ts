@@ -78,10 +78,10 @@ test("a change that refuses appends nothing and says why that change refused", a
   expect(pathsIn(root)).toEqual([])
 })
 
-test("a word reaching no change is refused by the address that reached nothing", async () => {
+test("a word naming no change is refused by that word rather than by an address", async () => {
   const said = await acting(repo(), ["remove-file"], piping(taking(NAMER_PAGE)))
 
-  expect(said.refusals[0] ?? "").toContain("change-command/remove-file")
+  expect(said.refusals[0] ?? "").toContain("`remove-file` names no change")
 })
 
 test("a call naming no change is refused with the changes this command runs", async () => {

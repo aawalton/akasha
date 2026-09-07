@@ -57,7 +57,7 @@ function worldOf(): World {
 }
 
 test("an address is parted at the first slash into a page type and a slug", () => {
-  expect(partsOf("change-command/remove-page")).toEqual(["change-command", "remove-page"])
+  expect(partsOf("change-checked/remove-page")).toEqual(["change-checked", "remove-page"])
 })
 
 test("an address carrying a slash in its slug keeps that slash in the slug", () => {
