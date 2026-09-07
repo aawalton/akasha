@@ -1,0 +1,17 @@
+diff --git a/collections/syncs/properties/sync-runs.page-property-entry.ts b/collections/syncs/properties/sync-runs.page-property-entry.ts
+index 1bcd161679685a00858faa93ae8c01290d2b0260..8dfc1d72681ebf110db301cba762e905845ecdac 100644
+--- a/collections/syncs/properties/sync-runs.page-property-entry.ts
++++ b/collections/syncs/properties/sync-runs.page-property-entry.ts
+@@ -23,7 +23,11 @@ export const syncRuns = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A run names no source: the run sits beside the sync the run was a pull of.",
++      statement: "A run names no source.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run sits beside the sync that run was a pull of.",
+     },
+     {
+       invariantKind: "departure",
