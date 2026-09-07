@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/seat-system/seats/pages/ryn.seat.ts b/seat-system/seats/pages/ryn.seat.ts
+index 5e5f4ce65e5e18c67fccf1c64001191df5e2729f..2593fbbf05148cef7970537911d42bf4ac72d5ce 100644
+--- a/seat-system/seats/pages/ryn.seat.ts
++++ b/seat-system/seats/pages/ryn.seat.ts
+@@ -5,7 +5,7 @@ export const ryn = {
+   pageTypeSlug: "seat",
+   slug: "ryn",
+   personaSlug: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
++  assignmentSlug: "initiative/ryn-standard-agent-english",
+   roleSlug: "definer",
+   personSlug: "alan",
+   startMode: "interactive",
