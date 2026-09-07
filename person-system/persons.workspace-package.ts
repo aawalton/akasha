@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
-export const personSystem = {
+export const persons = {
   id: "01a053e0-6cf6-7ff5-b070-19e936336f59",
   pageTypeSlug: "workspace-package",
-  slug: "person-system",
+  slug: "persons",
   definition: "a human this system reaches, and what serving them takes",
   manifest: "json",
   partSlugs: [
