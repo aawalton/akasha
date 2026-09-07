@@ -3,9 +3,9 @@ import { parsedAs } from "@akasha/code/code-source"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import { folderFor } from "../../../../pages/service/page-composing/page-composing.module.code.ts"
+import { statedIn } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
 import { renameSlug } from "../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts"
 import { renamePath } from "../../../mechanical/pages/rename-path/rename-path.change-mechanical.code.ts"
-import { statedIn } from "../../../mechanical/pages/restate-value/restate-value.change-mechanical.code.ts"
 import {
   answered,
   gathered,
@@ -166,8 +166,6 @@ export function renamePage(world: World, given: RenamePageAsked): Answer {
 
 export type Asked = Readonly<Record<string, string>>
 
-// A command line hands the arguments in as text worked out while the command runs, so the shape is
-// read here rather than trusted, and a shape this change cannot use is refused by name.
 export function runChange(world: World, given: Asked): Answer {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))

@@ -12,8 +12,11 @@ import {
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  restated,
+  statedIn,
+} from "../change-page-property/change-page-property.change-mechanical.code.ts"
 import { respelled } from "../respell-export/respell-export.change-mechanical.code.ts"
-import { restated, statedIn } from "../restate-value/restate-value.change-mechanical.code.ts"
 
 const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
 

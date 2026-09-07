@@ -1,9 +1,9 @@
 import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
 
-export const restateValue = {
+export const changePageProperty = {
   id: "01a07716-76a6-7428-9e18-f3fc32d18085",
   pageTypeSlug: "change-mechanical",
-  slug: "restate-value",
+  slug: "change-page-property",
   definition: "one key of a page's exported object stated anew",
   code: "ts",
   test: "ts",
