@@ -3,6 +3,7 @@ import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
 
 export type ChangeMechanicalFolder = ChangeMechanical & {
   changeTargetTypeSlug: "change-target-type/folder"
+  changeTargetSubtypeSlug: "change-target-subtype/folder"
 }
 
 export const changeMechanicalFolder = {
@@ -15,5 +16,10 @@ export const changeMechanicalFolder = {
   partSlugs: [],
   properties: [
     { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
+    {
+      pagePropertySlug: "relation-property/change-target-subtype-slug",
+      required: true,
+      many: false,
+    },
   ],
 } as const satisfies PageType

@@ -2,7 +2,8 @@ import type { PageType } from "../../../pages/types/page-type.page-type.ts"
 import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
 
 export type ChangeMechanicalManifest = ChangeMechanical & {
-  changeTargetTypeSlug: "change-target-type/manifest"
+  changeTargetTypeSlug: "change-target-type/file-content"
+  changeTargetSubtypeSlug: "change-target-subtype/manifest"
 }
 
 export const changeMechanicalManifest = {
@@ -15,5 +16,10 @@ export const changeMechanicalManifest = {
   partSlugs: [],
   properties: [
     { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
+    {
+      pagePropertySlug: "relation-property/change-target-subtype-slug",
+      required: true,
+      many: false,
+    },
   ],
 } as const satisfies PageType

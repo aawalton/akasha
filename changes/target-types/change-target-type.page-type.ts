@@ -12,6 +12,7 @@ export const changeTargetType = {
   partSlugs: [
     "change-target-type/file",
     "change-target-type/folder",
+    "change-target-type/file-content",
     "change-target-type/code",
     "change-target-type/data",
     "change-target-type/text",
