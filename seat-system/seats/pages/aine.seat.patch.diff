@@ -280,7 +280,7 @@ index 75c6dbd97c64b815322f7a6198512563e08a6c6b..783a32c66f6996496a007f2e1baedd82
      {
        invariantKind: "absence",
 diff --git a/pages/shadow/shadow.module.test.ts b/pages/shadow/shadow.module.test.ts
-index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..195f683b0482411431aa460a839f7e117ac24037 100644
+index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..bc26a5f986eb3504b4848f410781fac774bcfb54 100644
 --- a/pages/shadow/shadow.module.test.ts
 +++ b/pages/shadow/shadow.module.test.ts
 @@ -229,7 +229,7 @@ test("a relation through a property the same change declares is filed, as a land
@@ -306,7 +306,7 @@ index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..195f683b0482411431aa460a839f7e11
  })
  
 -test("a shadow that could not be worked out is refused, never stood in for by the committed index", () => {
-+test("a shadow that could not be worked out is refused, and the committed index never takes its place", () => {
++test("a shadow that could not be worked out is refused rather than answered from the committed index", () => {
    const repo = scratch.rootFor("akasha-broken-")
    schemaFiled(repo, "text-property", "held", [
      {
