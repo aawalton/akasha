@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-sets/lib-sets-kbf-dlc-filter/lib-sets-kbf-dlc-filter.module.ts b/temper/temper-lib-sets/lib-sets-kbf-dlc-filter/lib-sets-kbf-dlc-filter.module.ts
+index c71c7f642520fb6d690415847bdd4f583b6eef34..bf76b1e82147ec4f0bc118be0c7ac5cc744951da 100644
+--- a/temper/temper-lib-sets/lib-sets-kbf-dlc-filter/lib-sets-kbf-dlc-filter.module.ts
++++ b/temper/temper-lib-sets/lib-sets-kbf-dlc-filter/lib-sets-kbf-dlc-filter.module.ts
+@@ -9,7 +9,7 @@ export const libSetsKbfDlcFilter = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This filter builds its own scrollable menu instead of taking the shared one.",
++      statement: "This filter builds its own scrollable menu instead of taking the shared menu.",
+     },
+     {
+       invariantKind: "constraint",
