@@ -1,0 +1,237 @@
+writerOwesReading: false
+diff --git a/changes/guards/change-guard.page-type.ts b/changes/guards/change-guard.page-type.ts
+index b4508bf9d0907e548c9c864bd402f17c68e714ac..aaebf2d6c276523f50cbbafab404f3a7f7d00c89 100644
+--- a/changes/guards/change-guard.page-type.ts
++++ b/changes/guards/change-guard.page-type.ts
+@@ -14,6 +14,7 @@ export const changeGuard = {
+     "change-guard/body-not-written-over",
+     "change-guard/import-not-left-hanging",
+     "change-guard/import-reaches-a-file",
++    "change-guard/identity-not-already-held",
+     "change-guard/relation-not-left-hanging",
+     "change-guard/relation-reaches-a-page",
+   ],
+diff --git a/changes/guards/pages/identity-not-already-held/identity-not-already-held.change-guard.code.ts b/changes/guards/pages/identity-not-already-held/identity-not-already-held.change-guard.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..27c47fce30ec965107e11819319a921ef32a88c4
+--- /dev/null
++++ b/changes/guards/pages/identity-not-already-held/identity-not-already-held.change-guard.code.ts
+@@ -0,0 +1,62 @@
++import { pageNamed } from "@akasha/pages/page-file-name"
++import { textAt } from "@akasha/pages/page-value"
++import { unreadable } from "../../../modules/change-guarding/change-guarding.module.code.ts"
++import type {
++  Guard,
++  Guarding,
++} from "../../../modules/change-guarding/change-guarding.module.types.ts"
++
++const PAGE = "page"
++
++const ID = "id"
++
++const SLUG = "slug"
++
++const PAGE_TYPE = "pageTypeSlug"
++
++type Holder = { readonly path: string }
++
++function otherThan(held: readonly Holder[], path: string): string | null {
++  for (const one of held) {
++    if (one.path !== path) return one.path
++  }
++  return null
++}
++
++function heldAt(given: Guarding, path: string): string | null {
++  const value = given.shadow.pageOf(path)
++  if (value === null) return null
++  const index = given.shadow.index
++  const id = textAt(value, ID)
++  if (id !== null) {
++    const other = otherThan(index.listedNamed(PAGE, ID, id), path)
++    if (other !== null) {
++      return `\`${path}\` states the id \`${id}\`, which \`${other}\` already holds`
++    }
++  }
++  const slug = textAt(value, SLUG)
++  const pageTypeSlug = textAt(value, PAGE_TYPE)
++  if (slug !== null && pageTypeSlug !== null) {
++    const other = otherThan(index.listedAt(pageTypeSlug, slug), path)
++    if (other !== null) {
++      return `\`${path}\` states the slug \`${slug}\`, which \`${other}\` already holds`
++    }
++  }
++  return null
++}
++
++export function identityNotAlreadyHeld(given: Guarding): string | null {
++  try {
++    const pageTypes = given.shadow.index.pageTypesIn()
++    for (const one of given.said.edits) {
++      if (one.body === null || !pageNamed(one.path, pageTypes)) continue
++      const why = heldAt(given, one.path)
++      if (why !== null) return why
++    }
++    return null
++  } catch (cause) {
++    return unreadable(cause)
++  }
++}
++
++export const runGuard: Guard = identityNotAlreadyHeld
+diff --git a/changes/guards/pages/identity-not-already-held/identity-not-already-held.change-guard.test.ts b/changes/guards/pages/identity-not-already-held/identity-not-already-held.change-guard.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..940d260705318953876fcccf14267587b9a14497
+--- /dev/null
++++ b/changes/guards/pages/identity-not-already-held/identity-not-already-held.change-guard.test.ts
+@@ -0,0 +1,85 @@
++import { afterAll, expect, test } from "bun:test"
++import { idOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
++import {
++  answered,
++  taking,
++  writing,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
++import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { identityNotAlreadyHeld } from "./identity-not-already-held.change-guard.code.ts"
++
++afterAll(scratch.sweep)
++
++const GUARDS = [identityNotAlreadyHeld]
++
++const HELD = "akasha/one/held.module.ts"
++
++const AWAY = "akasha/three/held.module.ts"
++
++const FRESH = "akasha/three/fresh.module.ts"
++
++const TAKEN = idOf("8")
++
++const FREE = idOf("f")
++
++function aPage(id: string, slug: string): string {
++  return pageOf({
++    id,
++    pageTypeSlug: "module",
++    slug,
++    definition: "a page carrying an identity",
++    code: "ts",
++  })
++}
++
++function judged(root: string, said: Answer): Answer {
++  return guardedBy(worldAt(root, textIn(root)), said, GUARDS)
++}
++
++test("a page taking an id another page holds is refused", () => {
++  const root = indexedRepo()
++
++  const said = judged(root, answered([writing(FRESH, null, aPage(TAKEN, "fresh"))]))
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(
++    `\`${FRESH}\` states the id \`${TAKEN}\`, which \`${HELD}\` already holds`
++  )
++})
++
++test("a page taking a slug another page of its page type holds is refused", () => {
++  const root = indexedRepo()
++
++  const said = judged(root, answered([writing(AWAY, null, aPage(FREE, "held"))]))
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${AWAY}\` states the slug \`held\`, which \`${HELD}\` already holds`)
++})
++
++test("a page taking an identity nothing else holds is not refused", () => {
++  const root = indexedRepo()
++
++  const said = judged(root, answered([writing(FRESH, null, aPage(FREE, "fresh"))]))
++
++  expect(said.refused).toBe(null)
++})
++
++test("a page the same answer moves to another path is not refused", () => {
++  const root = indexedRepo()
++  const was = textIn(root)(HELD) ?? ""
++
++  const said = judged(root, answered([writing(AWAY, null, was), taking(HELD, was)]))
++
++  expect(said.refused).toBe(null)
++})
++
++test("a path under no page name is judged by nothing", () => {
++  const root = indexedRepo()
++  const beside = "akasha/three/fresh.module.code.ts"
++
++  const said = judged(root, answered([writing(beside, null, "export const fresh = 1\n")]))
++
++  expect(said.refused).toBe(null)
++})
+diff --git a/changes/guards/pages/identity-not-already-held/identity-not-already-held.change-guard.ts b/changes/guards/pages/identity-not-already-held/identity-not-already-held.change-guard.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..36b085d205f6b13ae1d3138e4cb85d448601feaa
+--- /dev/null
++++ b/changes/guards/pages/identity-not-already-held/identity-not-already-held.change-guard.ts
+@@ -0,0 +1,46 @@
++import type { ChangeGuard } from "../../change-guard.page-type.ts"
++
++export const identityNotAlreadyHeld = {
++  id: "01a0797f-d415-717a-919e-cc0760a816fd",
++  pageTypeSlug: "change-guard",
++  slug: "identity-not-already-held",
++  definition:
++    "the guard refusing an answer whose written page takes an identity another page holds",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The identity a page takes is read from the index the answer leaves.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page the answer moves holds its identity at one path alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An `id` another page holds refuses the answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A `slug` another page of the same page type holds refuses the answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The refusal names the path already holding the identity.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path under no page name is judged by nothing here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An index a guard cannot read refuses the answer.",
++    },
++    {
++      invariantKind: "gap",
++      statement:
++        "The properties judged here are `id` and `slug` rather than every unique property.",
++    },
++  ],
++} as const satisfies ChangeGuard
+diff --git a/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.ts b/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.ts
+index c761f6b2695667ff258ff78a49570b8e780f004e..ea34dfcc214fdf87af9e61ca176954cb487374d8 100644
+--- a/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.ts
++++ b/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.ts
+@@ -10,7 +10,7 @@ export const addPageFile = {
+   runsChecks: false,
+   readersOweReading: false,
+   writerOwesReading: false,
+-  guardSlugs: ["change-guard/relation-reaches-a-page"],
++  guardSlugs: ["change-guard/relation-reaches-a-page", "change-guard/identity-not-already-held"],
+   invariants: [
+     {
+       invariantKind: "departure",
