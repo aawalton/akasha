@@ -1,0 +1,9 @@
+diff --git a/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts b/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4b00745a204bd2dee7d7a01028cae899d9b9bd51
+--- /dev/null
++++ b/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts
+@@ -0,0 +1,3 @@
++export function reading(held: Record<string, string>): (path: string) => string | null {
++  return (path) => held[path] ?? null
++}
