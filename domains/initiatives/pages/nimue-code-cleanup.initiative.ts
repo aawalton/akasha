@@ -20,7 +20,7 @@ export const nimueCodeCleanup = {
     {
       statement: "The code folder tree passes the folder-matches-a-shape check.",
       workingMemory:
-        "`akasha audit --check folder-matches-a-shape --file-path code-system` answers 1 refusal over 377 files: the folder `audit-ast-unused` holds the page `code-audit-ast-unused`, and a folder is named for the page that folder holds. Once the package is `code`, that page's slug opens with the name of the package above, so the page becomes `audit-ast-unused` and the folder matches.",
+        "`akasha audit --check folder-matches-a-shape --file-path code-system` answers no refusal over 377 files, the page `code-audit-ast-unused` having become `audit-ast-unused` so that its folder is named for it. What is left is the move itself: the same call over `code` is what this intent waits on, and there is no `code` folder yet.",
     },
   ],
 } as const satisfies Initiative
