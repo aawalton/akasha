@@ -10,7 +10,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "Alan can see how much each widget on his phone is used.",
       workingMemory:
-        "The counting path is landed whole: a widget's `opens` link names that widget after `#widget=`, `deep-link-open-sync` posts `/api/widget-tap`, and `countTap` writes `taps` and `lastTappedAt`. No tap has ever been counted. The shipped Swift carries the link without the fragment. `alanwalton-attribute-stoplights` carries no `opens`. Nothing shows the counts: no view, no readout, no detail screen names them.",
+        "The links are landed at bafffd04: each of Alan's six tiles opens the link its page states, naming itself after `#widget=`, and every page's `opens` was compared against its Swift literal, six of six matching. A Widgets nav and a Use view landed at a56139ae so the counts have a screen. `alanwalton-attribute-stoplights` still carries no `opens`, there being no attributes screen to open. What is unseen from here is Alan building the app and tapping a tile.",
     },
     {
       statement: "Alan's nav items load in the native app.",
@@ -25,7 +25,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "Alan's Endurance stoplight shows a reading rather than zero.",
       workingMemory:
-        "Reported by Alan on 2026-09-07, a second time: the stoplight reads zero while `akasha measure attributes` prints `Endurance 0 0.17`. The data is landing — the 06:30 run patched 2026-09-04 and 2026-09-07, and 2026-09-07 carries activeCalories 69.742. So what diverges is what the stoplight reads against what the measure reads, rather than what the harness has. Which of the two columns the stoplight is meant to show is unasked.",
+        "Traced end to end and nothing here reads zero: the readout sidecar carries lastValue 0.174355 written minutes ago, and `readingSaid(0.174355)` run here answers 0.17, the number measure's second column prints. The `0` is `StoplightRing`'s fallback, drawn only where the JSON carries no reading at all, which this server never sends. Measure's first column is the level, zero because 0.17 points is under the first rung at 10. Only Alan can see his tile.",
     },
     {
       statement: "The git origin clears the debris an aborted push leaves behind it.",
