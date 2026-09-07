@@ -13,7 +13,7 @@ export const namespace = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A namespace's parts are the commands spelled under the namespace.",
+      statement: "A namespace's parts are the commands and namespaces spelled under the namespace.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,27 @@ export const namespace = {
     },
     {
       invariantKind: "departure",
-      statement: "Every namespace is a part of the `command` page type.",
+      statement: "A namespace under another namespace is a part of the outer namespace.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A namespace under no namespace is a part of the `command` page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every node of the command tree is a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command is reached by walking the parts from the root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The walk takes one word at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word naming no part of the node reached stops the walk.",
     },
     {
       invariantKind: "absence",
