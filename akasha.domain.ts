@@ -171,6 +171,18 @@ export const akasha = {
     },
     {
       directiveKind: "rule",
+      name: "Small Changes",
+      act: "Make many small, safe changes, and land separately every change that can land separately.",
+      warrant:
+        "Checking a landing costs the square of how many changes it holds, so a big landing wastes time.",
+      aids: [
+        "Two changes that do not need each other are two landings.",
+        "A change is safe where landing it alone leaves the repository working.",
+        "A refusal over many changes hides which change drew it.",
+      ],
+    },
+    {
+      directiveKind: "rule",
       name: "Blame The Mechanism",
       act: "Treat a fault a mechanical change lands as a fault in the program that composed the change.",
       warrant: "Akasha is a database, and no swarm can judge every page the swarm writes.",
