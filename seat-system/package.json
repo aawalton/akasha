@@ -263,6 +263,7 @@
     "@akasha/code": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/errors-core": "workspace:*",
+    "@akasha/pages": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@akasha/utils-system": "workspace:*",
