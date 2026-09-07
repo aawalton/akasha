@@ -1,0 +1,17 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index 202bde5e62dcda709afb0336bec437773e2ed181..80a2aeb7de434a4402598a482385f1e7225b9de4 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -8,9 +8,9 @@ export const dallaDraftIntoAPatch = {
+   personaSlug: "dalla",
+   intents: [
+     {
+-      statement: "Every change command drafts into the patch rather than landing on its own.",
++      statement: "Every command that changes a file drafts rather than landing on its own.",
+       workingMemory:
+-        "A patch carries `runsChecks` and `runsWarrants` before the first `diff --git`, each unioned over every change drafted in, and a flag is written only where false, so a line lost reads as true. `replace` drafts under an agent id and lands under none. Move, remove, refactor and the `retype` act are deleted rather than ported, so `replace` and the change commands are all that this now binds.",
++        "84 command pages declare a change kind; 5 draft: `change`, `replace`, `apply`, `patch`, `lint-exception`. The rest declare `change-mechanical` and land through `landedMechanically`. `replace` drafts under an agent id and lands under none. The store is the git ref `refs/akasha/edits`. `preambleOf` writes `runsChecks`, `writerOwesReading` and `readersOweReading` before the first `diff --git`, only where false, so a line lost reads as true; `runsWarrants` is read and never written.",
+     },
+     {
+       statement: "A seat and its subagents draft against one worktree of their own.",
