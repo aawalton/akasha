@@ -1,0 +1,50 @@
+writerOwesReading: false
+diff --git a/pages/views/pages/attributes-all.view.ts b/pages/views/pages/attributes-all.view.ts
+index 6f7a2057e93b38b7926471e29f348c31ec2173dd..1ce0fc92d30434e62459958dc68d2b78c789906e 100644
+--- a/pages/views/pages/attributes-all.view.ts
++++ b/pages/views/pages/attributes-all.view.ts
+@@ -7,7 +7,7 @@ export const attributesAll = {
+   title: "All",
+   navSlug: "attributes",
+   pageType: "attribute",
+-  viewPlace: 0,
++  viewPlace: 1,
+   layout: "table",
+   viewSorts: [{ key: "slug", descending: false }],
+   visibleProperties: ["definition", "point-unit", "lifetime-points"],
+diff --git a/pages/views/pages/attributes-readings.view.ts b/pages/views/pages/attributes-readings.view.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..263a9e0834fa6e282f50d73968ffbfb00042ef43
+--- /dev/null
++++ b/pages/views/pages/attributes-readings.view.ts
+@@ -0,0 +1,30 @@
++import type { View } from "../view.page-type.ts"
++
++export const attributesReadings = {
++  id: "01a07cd7-2bb6-7d40-acb4-895746f0208f",
++  pageTypeSlug: "view",
++  slug: "attributes-readings",
++  title: "Readings",
++  navSlug: "attributes",
++  pageType: "readout",
++  viewPlace: 0,
++  layout: "table",
++  narrows: [{ key: "group-slugs", comparison: "has", values: ["attributes"] }],
++  viewSorts: [{ key: "place", descending: false }],
++  visibleProperties: ["label", "last-value", "unit", "last-value-at", "scale-slug"],
++  alwaysShowProperties: ["last-value", "last-value-at"],
++  hiddenPropertiesOrder: [
++    "definition",
++    "wire-key",
++    "group-slugs",
++    "drawn-as",
++    "place",
++    "created-at",
++    "updated-at",
++    "seq",
++    "page-type-id",
++  ],
++  pageSize: 12,
++  itemPageSize: 12,
++  groupPageSize: 6,
++} as const satisfies View
