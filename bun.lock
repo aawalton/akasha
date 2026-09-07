@@ -852,6 +852,8 @@
     "google/email": {
       "name": "@akasha/google-email",
       "dependencies": {
+        "@akasha/code": "workspace:*",
+        "@akasha/command-system": "workspace:*",
         "@akasha/email-inbound": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/google-oauth": "workspace:*",
