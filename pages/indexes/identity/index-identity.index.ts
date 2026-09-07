@@ -15,8 +15,11 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The scope is the reach an identifier is unique within, a page type or a page's parent.",
+      statement: "The scope is the reach an identifier is unique within.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A scope is a page type or a page's parent.",
     },
     {
       invariantKind: "departure",
