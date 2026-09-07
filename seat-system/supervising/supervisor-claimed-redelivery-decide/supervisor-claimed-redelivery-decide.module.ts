@@ -10,8 +10,11 @@ export const supervisorClaimedRedeliveryDecide = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A message claimed since this process started is still in flight and is left alone.",
+      statement: "A message claimed after this process started is still in flight.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A message still in flight is left alone.",
     },
     {
       invariantKind: "departure",
