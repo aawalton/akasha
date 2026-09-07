@@ -1,0 +1,439 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/code/change-mechanical-code.page-type.ts b/changes/mechanical/code/change-mechanical-code.page-type.ts
+index 782b44df179a9490fee866651150f6667f258b3f..f86dd1bbc4055467da2fa15c349ec3da0fb0172f 100644
+--- a/changes/mechanical/code/change-mechanical-code.page-type.ts
++++ b/changes/mechanical/code/change-mechanical-code.page-type.ts
+@@ -2,7 +2,8 @@ import type { PageType } from "../../../pages/types/page-type.page-type.ts"
+ import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
+ 
+ export type ChangeMechanicalCode = ChangeMechanical & {
+-  changeTargetTypeSlug: "change-target-type/code"
++  changeTargetTypeSlug: "change-target-type/file-content"
++  changeTargetSubtypeSlug: "change-target-subtype/code"
+ }
+ 
+ export const changeMechanicalCode = {
+@@ -15,5 +16,10 @@ export const changeMechanicalCode = {
+   partSlugs: [],
+   properties: [
+     { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
++    {
++      pagePropertySlug: "relation-property/change-target-subtype-slug",
++      required: true,
++      many: false,
++    },
+   ],
+ } as const satisfies PageType
+diff --git a/changes/mechanical/data/change-mechanical-data.page-type.ts b/changes/mechanical/data/change-mechanical-data.page-type.ts
+index eb6f290032518b6b9c5faf995b63e603d27f3c68..b539ca6f204f7a0ec2e2828c04c888395fe0598b 100644
+--- a/changes/mechanical/data/change-mechanical-data.page-type.ts
++++ b/changes/mechanical/data/change-mechanical-data.page-type.ts
+@@ -2,7 +2,8 @@ import type { PageType } from "../../../pages/types/page-type.page-type.ts"
+ import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
+ 
+ export type ChangeMechanicalData = ChangeMechanical & {
+-  changeTargetTypeSlug: "change-target-type/data"
++  changeTargetTypeSlug: "change-target-type/file-content"
++  changeTargetSubtypeSlug: "change-target-subtype/page-property"
+ }
+ 
+ export const changeMechanicalData = {
+@@ -15,5 +16,10 @@ export const changeMechanicalData = {
+   partSlugs: [],
+   properties: [
+     { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
++    {
++      pagePropertySlug: "relation-property/change-target-subtype-slug",
++      required: true,
++      many: false,
++    },
+   ],
+ } as const satisfies PageType
+diff --git a/changes/mechanical/folder/change-mechanical-folder.page-type.ts b/changes/mechanical/folder/change-mechanical-folder.page-type.ts
+index 325a24820d2e1f07990c1e2d639a27be4400131c..a49205f73622871d12f9a043ea84f3047791d5cc 100644
+--- a/changes/mechanical/folder/change-mechanical-folder.page-type.ts
++++ b/changes/mechanical/folder/change-mechanical-folder.page-type.ts
+@@ -3,6 +3,7 @@ import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
+ 
+ export type ChangeMechanicalFolder = ChangeMechanical & {
+   changeTargetTypeSlug: "change-target-type/folder"
++  changeTargetSubtypeSlug: "change-target-subtype/folder"
+ }
+ 
+ export const changeMechanicalFolder = {
+@@ -15,5 +16,10 @@ export const changeMechanicalFolder = {
+   partSlugs: [],
+   properties: [
+     { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
++    {
++      pagePropertySlug: "relation-property/change-target-subtype-slug",
++      required: true,
++      many: false,
++    },
+   ],
+ } as const satisfies PageType
+diff --git a/changes/mechanical/manifest/change-mechanical-manifest.page-type.ts b/changes/mechanical/manifest/change-mechanical-manifest.page-type.ts
+index 28a54c5147eb907862981b00735b5e2cd1fc4f3c..bcc77c8638e007317476da61bfc9b28430328aba 100644
+--- a/changes/mechanical/manifest/change-mechanical-manifest.page-type.ts
++++ b/changes/mechanical/manifest/change-mechanical-manifest.page-type.ts
+@@ -2,7 +2,8 @@ import type { PageType } from "../../../pages/types/page-type.page-type.ts"
+ import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
+ 
+ export type ChangeMechanicalManifest = ChangeMechanical & {
+-  changeTargetTypeSlug: "change-target-type/manifest"
++  changeTargetTypeSlug: "change-target-type/file-content"
++  changeTargetSubtypeSlug: "change-target-subtype/manifest"
+ }
+ 
+ export const changeMechanicalManifest = {
+@@ -15,5 +16,10 @@ export const changeMechanicalManifest = {
+   partSlugs: [],
+   properties: [
+     { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
++    {
++      pagePropertySlug: "relation-property/change-target-subtype-slug",
++      required: true,
++      many: false,
++    },
+   ],
+ } as const satisfies PageType
+diff --git a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.ts b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.ts
+index 19218466f105d5df2164f964214f9fba069ea078..f27ddbf4849e1853586fd83606b5f889646299d4 100644
+--- a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.ts
++++ b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.ts
+@@ -5,7 +5,8 @@ export const addPropertyValue = {
+   pageTypeSlug: "change-mechanical-data",
+   slug: "add-property-value",
+   changeModeSlug: "change-mode-add",
+-  changeTargetTypeSlug: "change-target-type/data",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/page-property",
+   definition: "one value put into one page property in a page's body",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/change-imports/change-imports.change-mechanical-code.ts b/changes/mechanical/pages/change-imports/change-imports.change-mechanical-code.ts
+index 7a15a86015f196349decb04e3d560f957e681690..c81ea82e1e9aace049060aeef824ee6d6319f22c 100644
+--- a/changes/mechanical/pages/change-imports/change-imports.change-mechanical-code.ts
++++ b/changes/mechanical/pages/change-imports/change-imports.change-mechanical-code.ts
+@@ -5,7 +5,8 @@ export const changeImports = {
+   pageTypeSlug: "change-mechanical-code",
+   slug: "change-imports",
+   changeModeSlug: "change-mode-rename",
+-  changeTargetTypeSlug: "change-target-type/code",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/code",
+   definition: "a body rewritten so the paths it names follow the files that moved",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/change-manifest-ways/change-manifest-ways.change-mechanical-manifest.ts b/changes/mechanical/pages/change-manifest-ways/change-manifest-ways.change-mechanical-manifest.ts
+index d64acb007e858cd4a5682f7689419c0847f4b7e6..9d208711e2dde095401251dbfca078942f866d53 100644
+--- a/changes/mechanical/pages/change-manifest-ways/change-manifest-ways.change-mechanical-manifest.ts
++++ b/changes/mechanical/pages/change-manifest-ways/change-manifest-ways.change-mechanical-manifest.ts
+@@ -5,7 +5,8 @@ export const changeManifestWays = {
+   pageTypeSlug: "change-mechanical-manifest",
+   slug: "change-manifest-ways",
+   changeModeSlug: "change-mode-change",
+-  changeTargetTypeSlug: "change-target-type/manifest",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/manifest",
+   definition: "a manifest's ways in rewritten to follow the files those ways in name",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.ts b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.ts
+index 2f782741ba19f98acfa44e359bdd1f08d982e85a..5bf380d65adab1ad5166d9fdd3e98de76b8d399b 100644
+--- a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.ts
++++ b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.ts
+@@ -5,7 +5,8 @@ export const changePagePropertyRelation = {
+   pageTypeSlug: "change-mechanical-data",
+   slug: "change-page-property-relation",
+   changeModeSlug: "change-mode-change",
+-  changeTargetTypeSlug: "change-target-type/data",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/page-property",
+   definition: "one relation a page states pointed at another page",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical-text.ts b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical-text.ts
+index f90b2f9e7cb47e6254698f8429589a98223f9a50..6854e4dac4a4d66f7ab2b77202d9f5eba0801d23 100644
+--- a/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical-text.ts
++++ b/changes/mechanical/pages/change-page-property/change-page-property.change-mechanical-text.ts
+@@ -5,7 +5,8 @@ export const changePageProperty = {
+   pageTypeSlug: "change-mechanical-text",
+   slug: "change-page-property",
+   changeModeSlug: "change-mode-change",
+-  changeTargetTypeSlug: "change-target-type/text",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/page-property-prose",
+   definition: "one key of a page's exported object stated anew",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical-manifest.ts b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical-manifest.ts
+index bfd2cf46ff45d3fb96c047a535dd64bf5a66c020..8ff3963bad14c53415ad6659c25a27f67c931301 100644
+--- a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical-manifest.ts
++++ b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical-manifest.ts
+@@ -5,7 +5,8 @@ export const removeManifestWays = {
+   pageTypeSlug: "change-mechanical-manifest",
+   slug: "remove-manifest-ways",
+   changeModeSlug: "change-mode-remove",
+-  changeTargetTypeSlug: "change-target-type/manifest",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/manifest",
+   definition: "a manifest's ways in dropped where the files those ways in name go",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical-folder.ts b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical-folder.ts
+index a4037bdd588c410c9ec126802d75a9b7b748e575..51100318aa2c0723467e7fe05b206e496223a798 100644
+--- a/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical-folder.ts
++++ b/changes/mechanical/pages/remove-page-type/remove-page-type.change-mechanical-folder.ts
+@@ -6,6 +6,7 @@ export const removePageType = {
+   slug: "remove-page-type",
+   changeModeSlug: "change-mode-remove",
+   changeTargetTypeSlug: "change-target-type/folder",
++  changeTargetSubtypeSlug: "change-target-subtype/folder",
+   definition: "one page type taken away with every file that page type keeps beside it",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/remove-property-value/remove-property-value.change-mechanical-data.ts b/changes/mechanical/pages/remove-property-value/remove-property-value.change-mechanical-data.ts
+index 82e4365ee04c2f70303a9cd6e061b0185ff52806..c014b92f55f2b09a9ecde42f6ceb2e5cd3b3aacf 100644
+--- a/changes/mechanical/pages/remove-property-value/remove-property-value.change-mechanical-data.ts
++++ b/changes/mechanical/pages/remove-property-value/remove-property-value.change-mechanical-data.ts
+@@ -5,7 +5,8 @@ export const removePropertyValue = {
+   pageTypeSlug: "change-mechanical-data",
+   slug: "remove-property-value",
+   changeModeSlug: "change-mode-remove",
+-  changeTargetTypeSlug: "change-target-type/data",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/page-property",
+   definition: "one value taken out of one page property in a page's body",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.ts b/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.ts
+index 2cb8b43373cc67320c782363d34904a93a2de32b..81740f4d93ebef1f227c7f8d8b6f8589abf03c8a 100644
+--- a/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.ts
++++ b/changes/mechanical/pages/rename-export/rename-export.change-mechanical-code.ts
+@@ -5,7 +5,8 @@ export const renameExport = {
+   pageTypeSlug: "change-mechanical-code",
+   slug: "rename-export",
+   changeModeSlug: "change-mode-rename",
+-  changeTargetTypeSlug: "change-target-type/code",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/code",
+   definition: "a name one body exports spelled anew across the paths a caller hands in",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical-code.ts b/changes/mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical-code.ts
+index e6a06a7326a38dfd64da2d83a687503aa05924f1..9c146f5603f93bfaa758e024baa07f667ccb53f5 100644
+--- a/changes/mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical-code.ts
++++ b/changes/mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical-code.ts
+@@ -5,7 +5,8 @@ export const renameLocalVariable = {
+   pageTypeSlug: "change-mechanical-code",
+   slug: "rename-local-variable",
+   changeModeSlug: "change-mode-rename",
+-  changeTargetTypeSlug: "change-target-type/code",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/code",
+   definition: "the change spelling a local binding and its references anew in one file",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical-data.ts b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical-data.ts
+index 91b847aa3d4720cc66e24edfe337759182a87dda..99fe01a3539b5d615c2ed4dc987490bbb461629c 100644
+--- a/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical-data.ts
++++ b/changes/mechanical/pages/rename-page-address/rename-page-address.change-mechanical-data.ts
+@@ -5,7 +5,8 @@ export const renamePageAddress = {
+   pageTypeSlug: "change-mechanical-data",
+   slug: "rename-page-address",
+   changeModeSlug: "change-mode-rename",
+-  changeTargetTypeSlug: "change-target-type/data",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/page-property",
+   definition: "one page's address restated wherever a body spells that address",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.ts b/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.ts
+index 56a72138f8bfe972817ee7350e7927315397e613..1c97cc18c6bb646c042193eccbba2dc37c9684b9 100644
+--- a/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.ts
++++ b/changes/mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.ts
+@@ -5,7 +5,8 @@ export const renamePageSlug = {
+   pageTypeSlug: "change-mechanical-data",
+   slug: "rename-page-slug",
+   changeModeSlug: "change-mode-rename",
+-  changeTargetTypeSlug: "change-target-type/data",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/page-property",
+   definition: "one page's slug restated in its own body and in the data of every page naming it",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/pages/rename-property-signature/rename-property-signature.change-mechanical-code.ts b/changes/mechanical/pages/rename-property-signature/rename-property-signature.change-mechanical-code.ts
+index c93cbfd46541cacb834cfa41ce94e4e7da2ffe1c..11e357336af034283e1d8fde9fd37c3ad6f88b9c 100644
+--- a/changes/mechanical/pages/rename-property-signature/rename-property-signature.change-mechanical-code.ts
++++ b/changes/mechanical/pages/rename-property-signature/rename-property-signature.change-mechanical-code.ts
+@@ -5,7 +5,8 @@ export const renamePropertySignature = {
+   pageTypeSlug: "change-mechanical-code",
+   slug: "rename-property-signature",
+   changeModeSlug: "change-mode-rename",
+-  changeTargetTypeSlug: "change-target-type/code",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  changeTargetSubtypeSlug: "change-target-subtype/code",
+   definition: "one property a type declares spelled anew wherever the checker resolves to it",
+   code: "ts",
+   test: "ts",
+diff --git a/changes/mechanical/text/change-mechanical-text.page-type.ts b/changes/mechanical/text/change-mechanical-text.page-type.ts
+index 7b6621c4e2cc92d6513b2cafa07cffb7b3f09b1d..1a0926db8e37b56d31f628ce62e337acac1c4529 100644
+--- a/changes/mechanical/text/change-mechanical-text.page-type.ts
++++ b/changes/mechanical/text/change-mechanical-text.page-type.ts
+@@ -2,7 +2,8 @@ import type { PageType } from "../../../pages/types/page-type.page-type.ts"
+ import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
+ 
+ export type ChangeMechanicalText = ChangeMechanical & {
+-  changeTargetTypeSlug: "change-target-type/text"
++  changeTargetTypeSlug: "change-target-type/file-content"
++  changeTargetSubtypeSlug: "change-target-subtype/page-property-prose"
+ }
+ 
+ export const changeMechanicalText = {
+@@ -15,5 +16,10 @@ export const changeMechanicalText = {
+   partSlugs: [],
+   properties: [
+     { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
++    {
++      pagePropertySlug: "relation-property/change-target-subtype-slug",
++      required: true,
++      many: false,
++    },
+   ],
+ } as const satisfies PageType
+diff --git a/changes/target-subtypes/change-target-subtype.page-type.ts b/changes/target-subtypes/change-target-subtype.page-type.ts
+index 5a03037565b14148b91342ff54897d5940c57325..d22f365d828f39d71d3ef3a1d59c59f668063360 100644
+--- a/changes/target-subtypes/change-target-subtype.page-type.ts
++++ b/changes/target-subtypes/change-target-subtype.page-type.ts
+@@ -21,6 +21,12 @@ export const changeTargetSubtype = {
+     "change-target-subtype/file-page",
+     "change-target-subtype/file-page-type",
+     "change-target-subtype/file-page-property",
++    "change-target-subtype/folder",
++    "change-target-subtype/folder-package",
++    "change-target-subtype/code",
++    "change-target-subtype/page-property",
++    "change-target-subtype/page-property-prose",
++    "change-target-subtype/manifest",
+   ],
+   extendsSlug: ["page-type/domain"],
+   properties: [
+diff --git a/changes/target-subtypes/pages/code.change-target-subtype.ts b/changes/target-subtypes/pages/code.change-target-subtype.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..be9af65104acf3d61510324c8d153efb5d7ba1be
+--- /dev/null
++++ b/changes/target-subtypes/pages/code.change-target-subtype.ts
+@@ -0,0 +1,9 @@
++import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
++
++export const code = {
++  id: "01a07c7a-1d86-7649-a845-20b1ea1df964",
++  pageTypeSlug: "change-target-subtype",
++  slug: "code",
++  definition: "a body read as code",
++  changeTargetTypeSlug: "change-target-type/file-content",
++} as const satisfies ChangeTargetSubtype
+diff --git a/changes/target-subtypes/pages/folder-package.change-target-subtype.ts b/changes/target-subtypes/pages/folder-package.change-target-subtype.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..39a84cfb572f2fc04bed10a3cdf345e963995b67
+--- /dev/null
++++ b/changes/target-subtypes/pages/folder-package.change-target-subtype.ts
+@@ -0,0 +1,10 @@
++import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
++
++export const folderPackage = {
++  id: "01a07c7a-711a-7aa6-8c17-9a7e184b842e",
++  pageTypeSlug: "change-target-subtype",
++  slug: "folder-package",
++  definition: "a folder holding a workspace package",
++  changeTargetTypeSlug: "change-target-type/folder",
++  parentSlug: "change-target-subtype/folder",
++} as const satisfies ChangeTargetSubtype
+diff --git a/changes/target-subtypes/pages/folder.change-target-subtype.ts b/changes/target-subtypes/pages/folder.change-target-subtype.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e4b7b5c666f78fa89bda7cc4adc4f2236e7e4b56
+--- /dev/null
++++ b/changes/target-subtypes/pages/folder.change-target-subtype.ts
+@@ -0,0 +1,9 @@
++import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
++
++export const folder = {
++  id: "01a07c7a-63e5-7531-b2d1-7c587299f685",
++  pageTypeSlug: "change-target-subtype",
++  slug: "folder",
++  definition: "any folder, whatever that folder holds",
++  changeTargetTypeSlug: "change-target-type/folder",
++} as const satisfies ChangeTargetSubtype
+diff --git a/changes/target-subtypes/pages/manifest.change-target-subtype.ts b/changes/target-subtypes/pages/manifest.change-target-subtype.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..60936ad5baf320c324be7f1a3f2db9eff8c21ee0
+--- /dev/null
++++ b/changes/target-subtypes/pages/manifest.change-target-subtype.ts
+@@ -0,0 +1,9 @@
++import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
++
++export const manifest = {
++  id: "01a07c7a-427b-7571-9ad2-19341455abcb",
++  pageTypeSlug: "change-target-subtype",
++  slug: "manifest",
++  definition: "a body read as the ways a package manifest declares",
++  changeTargetTypeSlug: "change-target-type/file-content",
++} as const satisfies ChangeTargetSubtype
+diff --git a/changes/target-subtypes/pages/page-property-prose.change-target-subtype.ts b/changes/target-subtypes/pages/page-property-prose.change-target-subtype.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2d0bb971f6e908dc567ea937021d9e785277340a
+--- /dev/null
++++ b/changes/target-subtypes/pages/page-property-prose.change-target-subtype.ts
+@@ -0,0 +1,10 @@
++import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
++
++export const pagePropertyProse = {
++  id: "01a07c7a-362d-7b18-9313-74111bd7c28e",
++  pageTypeSlug: "change-target-subtype",
++  slug: "page-property-prose",
++  definition: "a page property whose value is read as prose",
++  changeTargetTypeSlug: "change-target-type/file-content",
++  parentSlug: "change-target-subtype/page-property",
++} as const satisfies ChangeTargetSubtype
+diff --git a/changes/target-subtypes/pages/page-property.change-target-subtype.ts b/changes/target-subtypes/pages/page-property.change-target-subtype.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..43379089d48deb4dae961749b02c45747259baaf
+--- /dev/null
++++ b/changes/target-subtypes/pages/page-property.change-target-subtype.ts
+@@ -0,0 +1,9 @@
++import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
++
++export const pageProperty = {
++  id: "01a07c7a-29b7-70e3-933c-4a654f8a45e4",
++  pageTypeSlug: "change-target-subtype",
++  slug: "page-property",
++  definition: "a body read as the values a page states",
++  changeTargetTypeSlug: "change-target-type/file-content",
++} as const satisfies ChangeTargetSubtype
+diff --git a/changes/target-types/change-target-type.page-type.ts b/changes/target-types/change-target-type.page-type.ts
+index f1fc211f698ffc5f4249fc4e7db7415d3476eae9..9bb9d8e2168e8183e3e8afefe435ecb76b972d7f 100644
+--- a/changes/target-types/change-target-type.page-type.ts
++++ b/changes/target-types/change-target-type.page-type.ts
+@@ -12,6 +12,7 @@ export const changeTargetType = {
+   partSlugs: [
+     "change-target-type/file",
+     "change-target-type/folder",
++    "change-target-type/file-content",
+     "change-target-type/code",
+     "change-target-type/data",
+     "change-target-type/text",
+diff --git a/changes/target-types/pages/file-content.change-target-type.ts b/changes/target-types/pages/file-content.change-target-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..96304a28e200eef7fae5cd50b4d784d2bc8b547f
+--- /dev/null
++++ b/changes/target-types/pages/file-content.change-target-type.ts
+@@ -0,0 +1,8 @@
++import type { ChangeTargetType } from "../change-target-type.page-type.ts"
++
++export const fileContent = {
++  id: "01a07c7a-10c4-76ae-833b-c0e8bd80e5b3",
++  pageTypeSlug: "change-target-type",
++  slug: "file-content",
++  definition: "what a file holds rather than where that file sits",
++} as const satisfies ChangeTargetType
