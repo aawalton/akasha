@@ -1,3 +1,16 @@
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.code.ts b/readout-system/readout-group-serving/readout-group-serving.module.code.ts
+index 515f568e794bd2097a071d0a1931054804e22b2b..895bd1e3de044bcc7eb0c9a3682630c5634918c0 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.code.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.code.ts
+@@ -104,7 +104,7 @@ export function stoplightWith(
+     ...wireKeyed(wireKeyName, wireKey),
+     label,
+     tier: reached.tier,
+-    reading: readingSaid(reading.value, stated(row.figureFormat)),
++    reading: readingSaid(reading.value),
+     ...(reached.nextTier === null ? {} : { nextTier: reached.nextTier }),
+     ...(reached.progress === null ? {} : { progress: reached.progress }),
+   }
 diff --git a/readout-system/readout-tier/readout-tier.module.code.ts b/readout-system/readout-tier/readout-tier.module.code.ts
 index a6263824f614ed3859d2a6ddd0679315a424bdb7..68682f9b205ecac85341354fc10ce0457a3d9eb2 100644
 --- a/readout-system/readout-tier/readout-tier.module.code.ts
