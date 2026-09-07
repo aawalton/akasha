@@ -12,6 +12,7 @@ export const alanWeb = {
   serverEntry: "tsx",
   routerConfig: "ts",
   compileConfig: "json",
+  viteConfig: "ts",
   partSlugs: [
     "manifest/alanwalton-web",
     "stylesheet/alan-web-look",
