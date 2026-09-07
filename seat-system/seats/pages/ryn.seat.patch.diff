@@ -1,0 +1,295 @@
+writerOwesReading: false
+diff --git a/pages/boolean-properties/boolean-property.page-type.ts b/pages/boolean-properties/boolean-property.page-type.ts
+index 6b4ea6967f5d16998d09e6e17fe6ee68ef3f3035..90cae35b99da86282a765b6c1343985224527dde 100644
+--- a/pages/boolean-properties/boolean-property.page-type.ts
++++ b/pages/boolean-properties/boolean-property.page-type.ts
+@@ -9,6 +9,5 @@ export const booleanProperty = {
+   slug: "boolean-property",
+   definition: "a page property holding true or false",
+   pluralSlug: "boolean-properties",
+-  prose: false,
+   extendsSlug: ["page-type/page-property"],
+ } as const satisfies PageType
+diff --git a/pages/calendar-date-properties/calendar-date-property.page-type.ts b/pages/calendar-date-properties/calendar-date-property.page-type.ts
+index fb9c6a69af3a02bf232948dc11b686fbd5b3028a..0bca1225be3b30f83d333aa8c75918e0a70c9c71 100644
+--- a/pages/calendar-date-properties/calendar-date-property.page-type.ts
++++ b/pages/calendar-date-properties/calendar-date-property.page-type.ts
+@@ -9,7 +9,6 @@ export const calendarDateProperty = {
+   slug: "calendar-date-property",
+   definition: "a page property holding a day",
+   pluralSlug: "calendar-date-properties",
+-  prose: false,
+   extendsSlug: ["page-type/page-property"],
+   invariants: [
+     {
+diff --git a/pages/calendar-time-properties/calendar-time-property.page-type.ts b/pages/calendar-time-properties/calendar-time-property.page-type.ts
+index b62ecf3ea1a5f721250a8b15253133cb974c0fee..c2bbca26f2b15710c6964d23e5f3f2c58729d852 100644
+--- a/pages/calendar-time-properties/calendar-time-property.page-type.ts
++++ b/pages/calendar-time-properties/calendar-time-property.page-type.ts
+@@ -9,7 +9,6 @@ export const calendarTimeProperty = {
+   slug: "calendar-time-property",
+   definition: "a page property holding a time of day",
+   pluralSlug: "calendar-time-properties",
+-  prose: false,
+   extendsSlug: ["page-type/page-property"],
+   invariants: [
+     {
+diff --git a/pages/email-address-properties/email-address-property.page-type.ts b/pages/email-address-properties/email-address-property.page-type.ts
+index 69a7de818a4a822f9f2ee2d8333a46e2ecaf376a..0d22dd7d5b3ef4d8b693849a9854cb18c29cda06 100644
+--- a/pages/email-address-properties/email-address-property.page-type.ts
++++ b/pages/email-address-properties/email-address-property.page-type.ts
+@@ -9,7 +9,6 @@ export const emailAddressProperty = {
+   slug: "email-address-property",
+   definition: "a page property holding an email address",
+   pluralSlug: "email-address-properties",
+-  prose: false,
+   extendsSlug: ["page-type/page-property"],
+   invariants: [
+     {
+diff --git a/pages/instant-properties/instant-property.page-type.ts b/pages/instant-properties/instant-property.page-type.ts
+index 11846e1395f9944c3d7337e91e26986d8ea84b13..0b8e02ef82e3bbaf584967718cfbe98f23523c61 100644
+--- a/pages/instant-properties/instant-property.page-type.ts
++++ b/pages/instant-properties/instant-property.page-type.ts
+@@ -9,7 +9,6 @@ export const instantProperty = {
+   slug: "instant-property",
+   definition: "a page property holding a single point in time",
+   pluralSlug: "instant-properties",
+-  prose: false,
+   extendsSlug: ["page-type/page-property"],
+   invariants: [
+     {
+diff --git a/pages/number-properties/number-property.page-type.ts b/pages/number-properties/number-property.page-type.ts
+index 7cfc086011702c0501cb41f9bd74173dbe99a11f..64e997c6e00194a6006fdbb0dc2db61b270b1e99 100644
+--- a/pages/number-properties/number-property.page-type.ts
++++ b/pages/number-properties/number-property.page-type.ts
+@@ -12,7 +12,6 @@ export const numberProperty = {
+   slug: "number-property",
+   definition: "a page property holding a number",
+   pluralSlug: "number-properties",
+-  prose: false,
+   extendsSlug: ["page-type/page-property"],
+   partSlugs: ["number-property/max"],
+   properties: [{ pagePropertySlug: "number-property/max", required: true, many: false }],
+diff --git a/pages/page.workspace-package.ts b/pages/page.workspace-package.ts
+index 87699f6fac3c0414f66b174791a7e72bd92ea4da..534bd44f32ae7a50066804957ad9a435730f72f0 100644
+--- a/pages/page.workspace-package.ts
++++ b/pages/page.workspace-package.ts
+@@ -31,7 +31,6 @@ export const page = {
+     "page-type/page",
+     "page-type/page-type",
+     "page-type/text-property",
+-    "page-type/text-prose-property",
+     "page-type/number-property",
+     "page-type/computed-property",
+     "page-type/boolean-property",
+diff --git a/pages/phone-number-properties/phone-number-property.page-type.ts b/pages/phone-number-properties/phone-number-property.page-type.ts
+index 581e474e7915c8400d89148afd9b8e18e3967804..b629bbdc3a007d5dfef57ac30978a60a9f5eb791 100644
+--- a/pages/phone-number-properties/phone-number-property.page-type.ts
++++ b/pages/phone-number-properties/phone-number-property.page-type.ts
+@@ -9,7 +9,6 @@ export const phoneNumberProperty = {
+   slug: "phone-number-property",
+   definition: "a page property holding a telephone number",
+   pluralSlug: "phone-number-properties",
+-  prose: false,
+   extendsSlug: ["page-type/page-property"],
+   invariants: [
+     {
+diff --git a/pages/process-properties/process-property.page-type.ts b/pages/process-properties/process-property.page-type.ts
+index d8caa9abecc8feb19a2b2a04ae667978317312c0..8c37e1bf32a11f011b2511de396f387ef5a1d782 100644
+--- a/pages/process-properties/process-property.page-type.ts
++++ b/pages/process-properties/process-property.page-type.ts
+@@ -9,7 +9,6 @@ export const processProperty = {
+   slug: "process-property",
+   definition: "a page property holding one run of one program",
+   pluralSlug: "process-properties",
+-  prose: false,
+   extendsSlug: ["page-type/page-property"],
+   invariants: [
+     {
+diff --git a/pages/rank-properties/rank-property.page-type.ts b/pages/rank-properties/rank-property.page-type.ts
+index 95138ff802c24740c61afae97a8294ae2b09580b..f8ee5de99515fe56ac8e63c0dd11bbf6ea3cc18e 100644
+--- a/pages/rank-properties/rank-property.page-type.ts
++++ b/pages/rank-properties/rank-property.page-type.ts
+@@ -29,7 +29,6 @@ export const rankProperty = {
+   slug: "rank-property",
+   definition: "a page property holding a rung on a ladder of grades",
+   pluralSlug: "rank-properties",
+-  prose: false,
+   extendsSlug: ["page-type/select-property"],
+   invariants: [
+     {
+diff --git a/pages/relation-properties/relation-property.page-type.ts b/pages/relation-properties/relation-property.page-type.ts
+index c756c6c79d9c1e1ad1bd4367867c221b178081bb..daa26424efd03c4a4c115405bb01b4c51aa58fe8 100644
+--- a/pages/relation-properties/relation-property.page-type.ts
++++ b/pages/relation-properties/relation-property.page-type.ts
+@@ -12,7 +12,6 @@ export const relationProperty = {
+   slug: "relation-property",
+   definition: "a page property naming another page",
+   pluralSlug: "relation-properties",
+-  prose: false,
+   partSlugs: ["relation-property/target-page-type-slug"],
+   extendsSlug: ["page-type/page-property"],
+   properties: [
+diff --git a/pages/select-properties/select-property.page-type.ts b/pages/select-properties/select-property.page-type.ts
+index a2f0094a8c149a23f71ea65702607317f104e2ed..501d3b6ec9fdc38d858a94877c714174d3ba5517 100644
+--- a/pages/select-properties/select-property.page-type.ts
++++ b/pages/select-properties/select-property.page-type.ts
+@@ -12,7 +12,6 @@ export const selectProperty = {
+   slug: "select-property",
+   definition: "a page property holding one of a set of values the property states",
+   pluralSlug: "select-properties",
+-  prose: false,
+   partSlugs: ["text-property/select-values"],
+   extendsSlug: ["page-type/page-property"],
+   properties: [
+diff --git a/pages/text-properties/text-property.page-type.ts b/pages/text-properties/text-property.page-type.ts
+index 607854f308d332e1a689e2e7f6e605419d8408a0..983045625ae736a01f52bfae170bd158cc28f0e8 100644
+--- a/pages/text-properties/text-property.page-type.ts
++++ b/pages/text-properties/text-property.page-type.ts
+@@ -12,20 +12,12 @@ export const textProperty = {
+   id: "01a04dff-9d7d-7b50-a58a-419207af8ec0",
+   pageTypeSlug: "page-type",
+   slug: "text-property",
+-  definition: "a page property holding text that is not prose",
++  definition: "a page property holding text",
+   pluralSlug: "text-properties",
+-  prose: false,
+   partSlugs: ["relation-property/name-format-slug"],
+   extendsSlug: ["page-type/page-property"],
+   properties: [
+     { pagePropertySlug: "number-property/max-length", required: true, many: false },
+     { pagePropertySlug: "relation-property/name-format-slug", required: true, many: false },
+   ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A text property holds a name or a value read by a machine rather than as English.",
+-    },
+-  ],
+ } as const satisfies PageType
+diff --git a/pages/text-prose-properties/text-prose-property.page-type.ts b/pages/text-prose-properties/text-prose-property.page-type.ts
+deleted file mode 100644
+index ce5b7e43ceada1b072b2e6e64fb94674ff3865e3..0000000000000000000000000000000000000000
+--- a/pages/text-prose-properties/text-prose-property.page-type.ts
++++ /dev/null
+@@ -1,28 +0,0 @@
+-import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
+-import type { MaxLength } from "../types/page-properties/properties/max-length.number-property.ts"
+-import type { PageType } from "../types/page-type.page-type.ts"
+-
+-export type TextProseProperty = PageProperty & {
+-  maxLength: MaxLength
+-}
+-
+-export const textProseProperty = {
+-  id: "01a07c8e-42a4-7565-aa5e-89a5102b9e94",
+-  pageTypeSlug: "page-type",
+-  slug: "text-prose-property",
+-  definition: "a page property holding prose",
+-  pluralSlug: "text-prose-properties",
+-  prose: true,
+-  extendsSlug: ["page-type/page-property"],
+-  properties: [{ pagePropertySlug: "number-property/max-length", required: true, many: false }],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A prose property states no name format.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A property moves here rather than stating that the property holds prose.",
+-    },
+-  ],
+-} as const satisfies PageType
+diff --git a/pages/types/page-type.page-type.ts b/pages/types/page-type.page-type.ts
+index e6102b6e19839a21a9176f122fd3021f2ce73924..60af624bc0e37aeec2df0b560e6766e20ca48279 100644
+--- a/pages/types/page-type.page-type.ts
++++ b/pages/types/page-type.page-type.ts
+@@ -9,7 +9,6 @@ import type { Mortal } from "./properties/mortal.boolean-property.ts"
+ import type { NextSeq } from "./properties/next-seq.number-property.ts"
+ import type { OwnerSlug } from "./properties/owner-slug.relation-property.ts"
+ import type { Properties } from "./properties/properties.record-property.ts"
+-import type { Prose } from "./properties/prose.boolean-property.ts"
+ import type { RunsTabooCheck } from "./properties/runs-taboo-check.boolean-property.ts"
+ import type { Sequence } from "./properties/sequence.record-property.ts"
+ import type { Worked } from "./properties/worked.file-property.ts"
+@@ -26,7 +25,6 @@ export type PageType = Domain & {
+   nextSeq?: NextSeq
+   ownerSlug?: OwnerSlug
+   runsTabooCheck?: RunsTabooCheck
+-  prose?: Prose
+   allowsTmpPaths?: AllowsTmpPaths
+   worked?: Worked
+ }
+@@ -50,7 +48,6 @@ export const pageType = {
+     "boolean-property/many",
+     "boolean-property/mark-read-on-end",
+     "boolean-property/mortal",
+-    "boolean-property/prose",
+     "boolean-property/required",
+     "boolean-property/runs-taboo-check",
+     "boolean-property/secret",
+@@ -105,7 +102,6 @@ export const pageType = {
+     { pagePropertySlug: "record-property/media-config", required: false, many: false },
+     { pagePropertySlug: "record-property/sequence", required: false, many: false },
+     { pagePropertySlug: "boolean-property/runs-taboo-check", required: false, many: false },
+-    { pagePropertySlug: "boolean-property/prose", required: false, many: false },
+     { pagePropertySlug: "boolean-property/allows-tmp-paths", required: false, many: false },
+     { pagePropertySlug: "number-property/next-seq", required: false, many: false },
+     { pagePropertySlug: "relation-property/owner-slug", required: false, many: false },
+@@ -132,10 +128,6 @@ export const pageType = {
+       invariantKind: "departure",
+       statement: "A page type says here whether the taboo terms are judged over its pages.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page type says here whether a property of that page type holds prose.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A page type says here whether the paths its pages spell are a container's.",
+diff --git a/pages/types/properties/prose.boolean-property.ts b/pages/types/properties/prose.boolean-property.ts
+deleted file mode 100644
+index a76837d079a17dc8b0f9466f8f57beb2c41fc872..0000000000000000000000000000000000000000
+--- a/pages/types/properties/prose.boolean-property.ts
++++ /dev/null
+@@ -1,26 +0,0 @@
+-import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.ts"
+-
+-export type Prose = boolean
+-
+-export const prose = {
+-  id: "01a07c84-1e12-78b2-833f-03ba5098eb58",
+-  pageTypeSlug: "boolean-property",
+-  slug: "prose",
+-  propertySlug: "prose",
+-  definition: "whether the values a property of a page type holds are prose",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A page type saying nothing here is not yet decided.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page type stating false holds no prose in any property of that page type.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A record property's fields each answer for prose rather than the record answering.",
+-    },
+-  ],
+-} as const satisfies BooleanProperty
+diff --git a/pages/url-properties/url-property.page-type.ts b/pages/url-properties/url-property.page-type.ts
+index 2832adb863405a8b49e6705176be34cca0fd1efd..428ac7b5d8d7cd0c0c5efaeec26eaafa7c571ac9 100644
+--- a/pages/url-properties/url-property.page-type.ts
++++ b/pages/url-properties/url-property.page-type.ts
+@@ -12,7 +12,6 @@ export const urlProperty = {
+   slug: "url-property",
+   definition: "a page property holding a web address",
+   pluralSlug: "url-properties",
+-  prose: false,
+   extendsSlug: ["page-type/page-property"],
+   properties: [{ pagePropertySlug: "number-property/max-length", required: true, many: false }],
+   invariants: [
