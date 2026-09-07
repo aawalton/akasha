@@ -1,0 +1,14 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.shell.sh b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.shell.sh
+index 22ae19c876f685511a49b5af5577b21f72c1230e..9e0f8d4b67c4cc19754fb4695fc6c89e7fbf799f 100644
+--- a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.shell.sh
++++ b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.shell.sh
+@@ -75,6 +75,7 @@ SNAPSHOT_REF=refs/heads/mirror-root
+ 
+ # GIT_TERMINAL_PROMPT=0 turns a missing or rejected credential into an
+ # immediate failure instead of a read on a /dev/tty that is not there.
++# shellcheck disable=SC2016
+ CREDENTIAL_HELPER='!f() { echo username=x-access-token; echo "password=$GITHUB_ACCESS_TOKEN"; }; f'
+ export GIT_TERMINAL_PROMPT=0
+ export GIT_AUTHOR_NAME="${GIT_AUTHOR_NAME:-git-transport}"
