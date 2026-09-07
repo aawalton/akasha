@@ -9,7 +9,11 @@ export const bareRepoInit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One run at a time, held by a lock beside the repositories.",
+      statement: "One run goes at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lock beside the repositories holds the run.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +38,11 @@ export const bareRepoInit = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook is a stub this module writes, running the script the source cache holds.",
+      statement: "A hook is a stub this module writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hook stub runs the script the source cache holds.",
     },
     {
       invariantKind: "departure",
