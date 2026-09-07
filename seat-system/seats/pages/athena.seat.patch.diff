@@ -1,0 +1,1016 @@
+writerOwesReading: false
+diff --git a/agents/models/gateway/commands/model-gateway-start/model-gateway-start.command.code.ts b/agents/models/gateway/commands/model-gateway-start/model-gateway-start.command.code.ts
+index c755d164d12f03daefb32eaf0a6765fa7bea6d47..53d90e41f54729ed06e09bc57db1ce3a8254bc9c 100644
+--- a/agents/models/gateway/commands/model-gateway-start/model-gateway-start.command.code.ts
++++ b/agents/models/gateway/commands/model-gateway-start/model-gateway-start.command.code.ts
+@@ -53,7 +53,7 @@ export function askedOf(argv: readonly string[], at: number, salt: number): Aske
+       keep = true
+       continue
+     }
+-    if (!TAKES_ONE.has(word)) return `\`${word}\` is nothing \`akasha model-gateway-start\` takes`
++    if (!TAKES_ONE.has(word)) return `\`${word}\` is nothing \`akasha model-gateway start\` takes`
+     const said = argv[one + 1]
+     if (said === undefined) return `\`${word}\` takes a value and none came after it`
+     one += 1
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index 23ccfb372f606f4b0c07b929cebc8b354ac87e7c..2fb561bb548c31f5c442733444e583c4d20ebc74 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -52,7 +52,6 @@ export const command = {
+     "command/index",
+     "command/ios-app",
+     "command/loki",
+-    "command/model-gateway",
+     "command/patch",
+     "command/push",
+     "command/read",
+@@ -107,9 +106,9 @@ export const command = {
+     "command/part-census",
+     "command/learn-next",
+     "command/shell-init-bash",
+-    "command/model-gateway-start",
+     "namespace/lint",
+     "namespace/domain",
++    "namespace/model-gateway",
+   ],
+   extendsSlug: ["page-type/module"],
+   loadedBySlug: "module/calling",
+diff --git a/command-system/commands/model-gateway-status/model-gateway-status.command.code.ts b/command-system/commands/model-gateway-status/model-gateway-status.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9ed99eebc06c53d95258f3eaaf161ffdaa853b77
+--- /dev/null
++++ b/command-system/commands/model-gateway-status/model-gateway-status.command.code.ts
+@@ -0,0 +1,86 @@
++import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-version"
++import type { LiveProxySeat } from "@akasha/agents/proxy-seats"
++import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
++import { liveSeats } from "../model-gateway/live-gateway-seats/live-gateway-seats.module.code.ts"
++
++export const JSON_OUT = "--json"
++
++const SHORT = 12
++
++const NONE = "—"
++
++const LABEL = 8
++
++export type Read = { readonly on: ReadonlySet<string> } | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  const on = new Set<string>()
++  for (const one of argv) {
++    if (one === JSON_OUT) {
++      on.add(one)
++      continue
++    }
++    if (one.startsWith("-")) {
++      refusals.push(`\`${one}\` is no flag a status takes — it takes \`${JSON_OUT}\``)
++      continue
++    }
++    refusals.push(`\`${one}\` names a seat, and a status reads every live seat`)
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { on }
++}
++
++type Drift = "current" | "lagging" | "unknown"
++
++export function driftOf(running: string | null, onDisk: string | null): Drift {
++  if (running == null || onDisk == null) return "unknown"
++  return running === onDisk ? "current" : "lagging"
++}
++
++export function shortOf(version: string | null): string {
++  if (version == null || version.length === 0) return NONE
++  return version.slice(0, SHORT)
++}
++
++function labelOf(seat: LiveProxySeat): string {
++  return seat.name ?? seat.agentId.slice(0, LABEL)
++}
++
++function statusing(on: ReadonlySet<string>, report: string[]): Answer {
++  const seats = liveSeats()
++  const onDisk = computeModelGatewayTreeVersion()
++  const rows = seats.map((seat) => ({ seat, drift: driftOf(seat.runningVersion, onDisk) }))
++  if (on.has(JSON_OUT)) {
++    report.push(
++      JSON.stringify({
++        ok: true,
++        onDiskVersion: onDisk,
++        seats: rows.map(({ seat, drift }) => ({
++          agentId: seat.agentId,
++          name: seat.name,
++          status: drift,
++          runningVersion: seat.runningVersion,
++        })),
++      })
++    )
++    return { report, refusals: [], code: 0 }
++  }
++  for (const { seat, drift } of rows) {
++    report.push(`${labelOf(seat)}\t${drift}\t${shortOf(seat.runningVersion)}\t${shortOf(onDisk)}`)
++  }
++  return { report, refusals: [], code: 0 }
++}
++
++export function modelGatewayStatus(argv: readonly string[], given: Given): Answer {
++  void given
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
++  const report: string[] = []
++  try {
++    return statusing(read.on, report)
++  } catch (thrown) {
++    return { report, refusals: [whyOf(thrown)], code: 3 }
++  }
++}
+diff --git a/command-system/commands/model-gateway-status/model-gateway-status.command.test.ts b/command-system/commands/model-gateway-status/model-gateway-status.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7d6f8143f4d3f519f3f1788b6916bc45a5a47aca
+--- /dev/null
++++ b/command-system/commands/model-gateway-status/model-gateway-status.command.test.ts
+@@ -0,0 +1,45 @@
++import { expect, test } from "bun:test"
++import { driftOf, JSON_OUT, readIn, shortOf } from "./model-gateway-status.command.code.ts"
++import { modelGatewayStatus } from "./model-gateway-status.command.ts"
++
++function statusRefusals(argv: readonly string[]): readonly string[] {
++  const said = readIn(argv)
++  if ("refused" in said) return said.refused
++  return []
++}
++
++test("a status is handed no seat to name", () => {
++  expect(statusRefusals(["awen"]).join(" ")).toContain("every live seat")
++})
++
++test("a status takes the json flag", () => {
++  const said = readIn([JSON_OUT])
++  expect("refused" in said ? false : said.on.has(JSON_OUT)).toBe(true)
++})
++
++test("a flag a status does not take is refused by name", () => {
++  expect(statusRefusals(["--fleet"]).join(" ")).toContain("--fleet")
++})
++
++test("a seat holding the version the tree holds is current", () => {
++  expect(driftOf("abc", "abc")).toBe("current")
++})
++
++test("a seat holding another version than the tree is lagging", () => {
++  expect(driftOf("abc", "def")).toBe("lagging")
++})
++
++test("a version either side does not answer is unknown", () => {
++  expect(driftOf(null, "def")).toBe("unknown")
++  expect(driftOf("abc", null)).toBe("unknown")
++})
++
++test("a version is shortened, and a version that will not read is shown as a dash", () => {
++  expect(shortOf("0123456789abcdef")).toBe("0123456789ab")
++  expect(shortOf(null)).toBe("—")
++  expect(shortOf("")).toBe("—")
++})
++
++test("the page says it writes nothing", () => {
++  expect(modelGatewayStatus.changeKindSlug).toBe("change-none")
++})
+diff --git a/command-system/commands/model-gateway-status/model-gateway-status.command.ts b/command-system/commands/model-gateway-status/model-gateway-status.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..29f1eda0d75425ff68ea1221f46106754a5e4707
+--- /dev/null
++++ b/command-system/commands/model-gateway-status/model-gateway-status.command.ts
+@@ -0,0 +1,51 @@
++import type { Command } from "../command.page-type.ts"
++
++export const modelGatewayStatus = {
++  id: "01a07c0e-59f9-7b4f-be43-11f442d1ea33",
++  pageTypeSlug: "command",
++  slug: "model-gateway-status",
++  definition: "the command weighing the gateway each live seat runs against the tree here",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-none",
++  partSlugs: ["module/live-gateway-seats"],
++  taking: [{ said: "--json", takes: "the answer as one JSON object rather than as rows" }],
++  helpNotes: [
++    "auto-swap is disarmed, so a running gateway stays on the version it was spawned at until a swap moves it, and a status reports the lag that leaves.",
++    "the version a status weighs against is the tree on disk here, which is what the next spawn would run.",
++    "on disk rather than published, because the gateway is spawned from this repository rather than deployed, so nothing publishes a version for it.",
++    "a seat is current where the two versions match, lagging where the tree has moved and the seat has not, and unknown where either version will not read.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A status weighs the running version against the tree here rather than a published version.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat is lagging where the tree has moved and that seat has not.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A version either side does not answer is answered as unknown rather than lagging.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat carrying no name is named by the leading letters of its agent id.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag `model-gateway status` does not take is refused by name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A word naming a seat is refused.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run writes nothing.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/command-system/commands/model-gateway-swap/model-gateway-swap.command.code.ts b/command-system/commands/model-gateway-swap/model-gateway-swap.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d4f70ba6a66b1be7643521d51225ab9ba3242b01
+--- /dev/null
++++ b/command-system/commands/model-gateway-swap/model-gateway-swap.command.code.ts
+@@ -0,0 +1,142 @@
++import {
++  describeAckTimeout,
++  setRequestedAction,
++  waitForActionCleared,
++} from "@akasha/seat-system/seat-action"
++import { planSeatResolution, resolveSeatTarget } from "@akasha/seat-system/seat-handle"
++import { readProxyState } from "@akasha/seat-system/seat-proxy-state"
++import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
++import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import { refused } from "../../calling/calling.module.code.ts"
++import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
++import { liveSeats } from "../model-gateway/live-gateway-seats/live-gateway-seats.module.code.ts"
++
++export const FLEET = "--fleet"
++
++export const JSON_OUT = "--json"
++
++const ACTION = "swap-proxy"
++
++const STAGGER_MS = 1_000
++
++const ACK_TIMEOUT_MS = 30_000
++
++const TAKES = [FLEET, JSON_OUT] as const
++
++export type Taken = {
++  readonly target: string | null
++  readonly on: ReadonlySet<string>
++}
++
++export type Read = Taken | { readonly refused: readonly string[] }
++
++export function readIn(argv: readonly string[]): Read {
++  const refusals: string[] = []
++  const on = new Set<string>()
++  let target: string | null = null
++  for (const one of argv) {
++    if (one.startsWith("-")) {
++      if (!(TAKES as readonly string[]).includes(one)) {
++        const said = TAKES.map((each) => `\`${each}\``).join(", ")
++        refusals.push(`\`${one}\` is no flag a swap takes — it takes ${said}`)
++        continue
++      }
++      on.add(one)
++      continue
++    }
++    if (target !== null) {
++      refusals.push(`\`${one}\` follows the seat \`${target}\`, and one swap names one seat`)
++      continue
++    }
++    target = one
++  }
++  if (target !== null && on.has(FLEET)) {
++    refusals.push(`a swap naming the seat \`${target}\` and \`${FLEET}\` together names one`)
++  }
++  if (target === null && !on.has(FLEET)) {
++    refusals.push(`a swap names a seat or says \`${FLEET}\`, and no seat was named`)
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { target, on }
++}
++
++type Outcome = "swapped" | "no-live-proxy" | "timeout"
++
++async function swapped(agentId: string): Promise<Outcome> {
++  const state = readProxyState(agentId)
++  if (state == null || !pidAliveOrRefuse(state.pid)) return "no-live-proxy"
++  await setRequestedAction(agentId, { action: ACTION })
++  const said = await waitForActionCleared(agentId)
++  return said.ok ? "swapped" : "timeout"
++}
++
++function waiting(ms: number): Promise<void> {
++  return new Promise((done) => setTimeout(done, ms))
++}
++
++async function fleeting(on: ReadonlySet<string>, report: string[]): Promise<Answer> {
++  const live = liveSeats()
++  const held: { agentId: string; status: Outcome }[] = []
++  for (const [at, seat] of live.entries()) {
++    const status = await swapped(seat.agentId).catch((thrown: unknown): Outcome => {
++      report.push(`${seat.agentId} would not answer — ${whyOf(thrown)}`)
++      return "timeout"
++    })
++    held.push({ agentId: seat.agentId, status })
++    if (at < live.length - 1) await waiting(STAGGER_MS)
++  }
++  const timedOut = held.filter((one) => one.status === "timeout")
++  if (on.has(JSON_OUT)) {
++    report.push(JSON.stringify({ ok: timedOut.length === 0, seats: held }))
++  } else {
++    for (const one of held) report.push(`${one.status}\t${one.agentId}`)
++  }
++  return {
++    report,
++    refusals: timedOut.map(
++      (one) => `${one.agentId} did not take the ask up before the wait ran out`
++    ),
++    code: timedOut.length === 0 ? 0 : 3,
++  }
++}
++
++async function swapping(read: Taken, report: string[]): Promise<Answer> {
++  if (read.on.has(FLEET)) return await fleeting(read.on, report)
++  const target = read.target ?? ""
++  const found = resolveSeatTarget(target)
++  if ("error" in found) {
++    return refused(found.error, planSeatResolution(target).kind === "invalid" ? 1 : 2)
++  }
++  const status = await swapped(found.id)
++  if (status === "timeout") {
++    return {
++      report,
++      refusals: [
++        describeAckTimeout(ACTION, {
++          agentId: found.id,
++          timeoutMs: ACK_TIMEOUT_MS,
++          lastRequestedAction: ACTION,
++        }),
++      ],
++      code: 3,
++    }
++  }
++  if (read.on.has(JSON_OUT)) {
++    report.push(JSON.stringify({ ok: true, agentId: found.id, status }))
++  } else {
++    report.push(`${status}\t${found.id}`)
++  }
++  return { report, refusals: [], code: 0 }
++}
++
++export async function modelGatewaySwap(argv: readonly string[], given: Given): Promise<Answer> {
++  void given
++  const read = readIn(argv)
++  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
++  const report: string[] = []
++  try {
++    return await swapping(read, report)
++  } catch (thrown) {
++    return { report, refusals: [whyOf(thrown)], code: 3 }
++  }
++}
+diff --git a/command-system/commands/model-gateway-swap/model-gateway-swap.command.test.ts b/command-system/commands/model-gateway-swap/model-gateway-swap.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9a9775c7d95af1e6df03ca1d3555d9c5ceb445eb
+--- /dev/null
++++ b/command-system/commands/model-gateway-swap/model-gateway-swap.command.test.ts
+@@ -0,0 +1,39 @@
++import { expect, test } from "bun:test"
++import { FLEET, JSON_OUT, readIn } from "./model-gateway-swap.command.code.ts"
++import { modelGatewaySwap } from "./model-gateway-swap.command.ts"
++
++function swapRefused(argv: readonly string[]): string {
++  const said = readIn(argv)
++  if (!("refused" in said)) return ""
++  return said.refused.join(" ")
++}
++
++test("a swap naming neither a seat nor the fleet is refused", () => {
++  expect(swapRefused([])).toContain(FLEET)
++})
++
++test("a swap naming a seat and the fleet together is refused", () => {
++  expect(swapRefused(["awen", FLEET])).toContain("names one")
++})
++
++test("a swap naming two seats is refused", () => {
++  expect(swapRefused(["awen", "athena"])).toContain("one swap names one seat")
++})
++
++test("a flag a swap does not take is refused by name", () => {
++  expect(swapRefused(["awen", "--paths"])).toContain("--paths")
++})
++
++test("a seat named alone is read as the seat said", () => {
++  const said = readIn(["awen"])
++  expect("refused" in said ? null : said.target).toBe("awen")
++})
++
++test("the fleet flag and the json flag are read together", () => {
++  const said = readIn([FLEET, JSON_OUT])
++  expect("refused" in said ? false : said.on.has(JSON_OUT)).toBe(true)
++})
++
++test("the page says the swap is mechanical", () => {
++  expect(modelGatewaySwap.changeKindSlug).toBe("change-mechanical")
++})
+diff --git a/command-system/commands/model-gateway-swap/model-gateway-swap.command.ts b/command-system/commands/model-gateway-swap/model-gateway-swap.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ac7172f69844b1f33c168622b504be7a0bf938f6
+--- /dev/null
++++ b/command-system/commands/model-gateway-swap/model-gateway-swap.command.ts
+@@ -0,0 +1,83 @@
++import type { Command } from "../command.page-type.ts"
++
++export const modelGatewaySwap = {
++  id: "01a07c0e-7ae3-7f8a-935d-ab6589ed46e5",
++  pageTypeSlug: "command",
++  slug: "model-gateway-swap",
++  definition: "the command respawning a live seat's gateway on the bytecode here",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-mechanical",
++  taking: [
++    { said: "<target>", takes: "the seat to swap, named as its page is named or by its id" },
++    { said: "--fleet", takes: "every live seat in turn rather than one named" },
++    { said: "--json", takes: "the answer as one JSON object rather than as rows" },
++  ],
++  helpNotes: [
++    "a swap writes the ask into the seat's uncommitted values, and the supervisor takes it up as it handles and respawns the gateway alone.",
++    "the port holds, the address the client is pointed at holds, and the client in the seat is not restarted.",
++    "a seat holding no live gateway is passed over, and its next boot spawns at whatever version is there then.",
++    "a swap is for rolling out a fix that cannot wait, since an ordinary deploy no longer reaches a running gateway.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A swap writes the ask into the seat's uncommitted values.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The ask a swap writes is spelled as the page carrying that name is spelled.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The gateway alone is respawned.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The gateway is respawned on the port the gateway already held.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat holding no live gateway is passed over rather than refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A swap reaches one seat or every live seat.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A swap naming no seat and no fleet is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A swap naming a seat and the fleet together is refused rather than chosen between.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A second seat named beside the first is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Every seat a fleet swap reaches is acted on rather than a stop at the first seat not answering.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A fleet swap is staggered.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A name that could name no seat is answered apart from a name no seat that is there answers to.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here restarts a client.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here arms a further act on the seat this command swapped.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/command-system/commands/model-gateway/live-gateway-seats/live-gateway-seats.module.code.ts b/command-system/commands/model-gateway/live-gateway-seats/live-gateway-seats.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ade06d9b571f542aa2c401aecb0310aa88867d01
+--- /dev/null
++++ b/command-system/commands/model-gateway/live-gateway-seats/live-gateway-seats.module.code.ts
+@@ -0,0 +1,11 @@
++import { type LiveProxySeat, liveProxySeats, seatsNewestFirst } from "@akasha/agents/proxy-seats"
++import { readProxyState } from "@akasha/seat-system/seat-proxy-state"
++import { seatsPresent } from "@akasha/seat-system/seat-roster"
++import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
++
++export function liveSeats(): readonly LiveProxySeat[] {
++  const agents = seatsNewestFirst(
++    seatsPresent().map((seat) => ({ id: seat.id, name: seat.name, activeAtMs: seat.activeAtMs }))
++  )
++  return liveProxySeats(agents, readProxyState, pidAliveOrRefuse)
++}
+diff --git a/command-system/commands/model-gateway/live-gateway-seats/live-gateway-seats.module.ts b/command-system/commands/model-gateway/live-gateway-seats/live-gateway-seats.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ca654ef4c6536c8a8ed97ec2cf9dfb45a59ff77c
+--- /dev/null
++++ b/command-system/commands/model-gateway/live-gateway-seats/live-gateway-seats.module.ts
+@@ -0,0 +1,31 @@
++import type { Module } from "@akasha/code/module"
++
++export const liveGatewaySeats = {
++  id: "01a07c0e-3845-7753-9dd0-c01a2d905a11",
++  pageTypeSlug: "module",
++  slug: "live-gateway-seats",
++  definition: "the seats holding a gateway process that still answers",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The seats come from the roster present rather than from a list handed in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat holding no gateway process is left out.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "The ordering and the liveness folding are `agents/proxy-seats`.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a command line.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/command-system/commands/model-gateway/model-gateway.command.code.ts b/command-system/commands/model-gateway/model-gateway.command.code.ts
+deleted file mode 100644
+index 1f861ea4db3eef96551a0d2e382e15f22e83674b..0000000000000000000000000000000000000000
+--- a/command-system/commands/model-gateway/model-gateway.command.code.ts
++++ /dev/null
+@@ -1,225 +0,0 @@
+-import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-version"
+-import { type LiveProxySeat, liveProxySeats, seatsNewestFirst } from "@akasha/agents/proxy-seats"
+-import {
+-  describeAckTimeout,
+-  setRequestedAction,
+-  waitForActionCleared,
+-} from "@akasha/seat-system/seat-action"
+-import { planSeatResolution, resolveSeatTarget } from "@akasha/seat-system/seat-handle"
+-import { readProxyState } from "@akasha/seat-system/seat-proxy-state"
+-import { seatsPresent } from "@akasha/seat-system/seat-roster"
+-import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
+-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+-import { refused } from "../../calling/calling.module.code.ts"
+-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+-
+-const STATUS = "status"
+-
+-const SWAP = "swap"
+-
+-const ACTS = [STATUS, SWAP] as const
+-
+-const FLEET = "--fleet"
+-
+-const JSON_OUT = "--json"
+-
+-const ACTION = "swap-proxy"
+-
+-const STAGGER_MS = 1_000
+-
+-const ACK_TIMEOUT_MS = 30_000
+-
+-const SHORT = 12
+-
+-const NONE = "—"
+-
+-const TAKEN: { readonly [act: string]: readonly string[] } = {
+-  [STATUS]: [JSON_OUT],
+-  [SWAP]: [FLEET, JSON_OUT],
+-}
+-
+-export type Taken = {
+-  readonly act: string
+-  readonly target: string | null
+-  readonly on: ReadonlySet<string>
+-}
+-
+-export type Read = Taken | { readonly refused: readonly string[] }
+-
+-function acts(): string {
+-  return ACTS.map((one) => `\`${one}\``).join(", ")
+-}
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const [named, ...rest] = argv
+-  if (named === undefined) {
+-    return { refused: [`this names no act — it carries ${acts()}`] }
+-  }
+-  if (!(ACTS as readonly string[]).includes(named)) {
+-    return { refused: [`\`${named}\` is no act this carries — it carries ${acts()}`] }
+-  }
+-  const takes = TAKEN[named] ?? []
+-  const refusals: string[] = []
+-  const on = new Set<string>()
+-  let target: string | null = null
+-  for (const one of rest) {
+-    if (one.startsWith("-")) {
+-      if (!takes.includes(one)) {
+-        const said = takes.map((each) => `\`${each}\``).join(", ")
+-        refusals.push(`\`${one}\` is no flag \`${named}\` takes — it takes ${said}`)
+-        continue
+-      }
+-      on.add(one)
+-      continue
+-    }
+-    if (named !== SWAP) {
+-      refusals.push(`\`${one}\` follows \`${named}\`, which names no seat`)
+-      continue
+-    }
+-    if (target !== null) {
+-      refusals.push(`\`${one}\` follows the seat \`${target}\`, and one swap names one seat`)
+-      continue
+-    }
+-    target = one
+-  }
+-  if (named === SWAP && target !== null && on.has(FLEET)) {
+-    refusals.push(
+-      `\`${SWAP}\` names the seat \`${target}\` and \`${FLEET}\` both, and it takes one`
+-    )
+-  }
+-  if (named === SWAP && target === null && !on.has(FLEET)) {
+-    refusals.push(`\`${SWAP}\` names a seat or says \`${FLEET}\`, and it said neither`)
+-  }
+-  if (refusals.length > 0) return { refused: refusals }
+-  return { act: named, target, on }
+-}
+-
+-type Drift = "current" | "lagging" | "unknown"
+-
+-export function driftOf(running: string | null, onDisk: string | null): Drift {
+-  if (running == null || onDisk == null) return "unknown"
+-  return running === onDisk ? "current" : "lagging"
+-}
+-
+-export function shortOf(version: string | null): string {
+-  if (version == null || version.length === 0) return NONE
+-  return version.slice(0, SHORT)
+-}
+-
+-function resolveLiveProxySeats(): readonly LiveProxySeat[] {
+-  const agents = seatsNewestFirst(
+-    seatsPresent().map((seat) => ({ id: seat.id, name: seat.name, activeAtMs: seat.activeAtMs }))
+-  )
+-  return liveProxySeats(agents, readProxyState, pidAliveOrRefuse)
+-}
+-
+-function labelOf(seat: LiveProxySeat): string {
+-  return seat.name ?? seat.agentId.slice(0, 8)
+-}
+-
+-function statusing(on: ReadonlySet<string>, report: string[]): Answer {
+-  const seats = resolveLiveProxySeats()
+-  const onDisk = computeModelGatewayTreeVersion()
+-  const rows = seats.map((seat) => ({ seat, drift: driftOf(seat.runningVersion, onDisk) }))
+-  if (on.has(JSON_OUT)) {
+-    report.push(
+-      JSON.stringify({
+-        ok: true,
+-        onDiskVersion: onDisk,
+-        seats: rows.map(({ seat, drift }) => ({
+-          agentId: seat.agentId,
+-          name: seat.name,
+-          status: drift,
+-          runningVersion: seat.runningVersion,
+-        })),
+-      })
+-    )
+-    return { report, refusals: [], code: 0 }
+-  }
+-  for (const { seat, drift } of rows) {
+-    report.push(`${labelOf(seat)}\t${drift}\t${shortOf(seat.runningVersion)}\t${shortOf(onDisk)}`)
+-  }
+-  return { report, refusals: [], code: 0 }
+-}
+-
+-type Outcome = "swapped" | "no-live-proxy" | "timeout"
+-
+-async function swapped(agentId: string): Promise<Outcome> {
+-  const state = readProxyState(agentId)
+-  if (state == null || !pidAliveOrRefuse(state.pid)) return "no-live-proxy"
+-  await setRequestedAction(agentId, { action: ACTION })
+-  const said = await waitForActionCleared(agentId)
+-  return said.ok ? "swapped" : "timeout"
+-}
+-
+-function waiting(ms: number): Promise<void> {
+-  return new Promise((done) => setTimeout(done, ms))
+-}
+-
+-async function fleeting(on: ReadonlySet<string>, report: string[]): Promise<Answer> {
+-  const live = resolveLiveProxySeats()
+-  const held: { agentId: string; status: Outcome }[] = []
+-  for (const [at, seat] of live.entries()) {
+-    const status = await swapped(seat.agentId).catch((thrown: unknown): Outcome => {
+-      report.push(`${seat.agentId} would not answer — ${whyOf(thrown)}`)
+-      return "timeout"
+-    })
+-    held.push({ agentId: seat.agentId, status })
+-    if (at < live.length - 1) await waiting(STAGGER_MS)
+-  }
+-  const timedOut = held.filter((one) => one.status === "timeout")
+-  if (on.has(JSON_OUT)) {
+-    report.push(JSON.stringify({ ok: timedOut.length === 0, seats: held }))
+-  } else {
+-    for (const one of held) report.push(`${one.status}\t${one.agentId}`)
+-  }
+-  return {
+-    report,
+-    refusals: timedOut.map(
+-      (one) => `${one.agentId} did not take the ask up before the wait ran out`
+-    ),
+-    code: timedOut.length === 0 ? 0 : 3,
+-  }
+-}
+-
+-async function swapping(read: Taken, report: string[]): Promise<Answer> {
+-  if (read.on.has(FLEET)) return await fleeting(read.on, report)
+-  const target = read.target ?? ""
+-  const found = resolveSeatTarget(target)
+-  if ("error" in found) {
+-    return refused(found.error, planSeatResolution(target).kind === "invalid" ? 1 : 2)
+-  }
+-  const status = await swapped(found.id)
+-  if (status === "timeout") {
+-    return {
+-      report,
+-      refusals: [
+-        describeAckTimeout(ACTION, {
+-          agentId: found.id,
+-          timeoutMs: ACK_TIMEOUT_MS,
+-          lastRequestedAction: ACTION,
+-        }),
+-      ],
+-      code: 3,
+-    }
+-  }
+-  if (read.on.has(JSON_OUT)) {
+-    report.push(JSON.stringify({ ok: true, agentId: found.id, status }))
+-  } else {
+-    report.push(`${status}\t${found.id}`)
+-  }
+-  return { report, refusals: [], code: 0 }
+-}
+-
+-export async function modelGateway(argv: readonly string[], given: Given): Promise<Answer> {
+-  void given
+-  const read = readIn(argv)
+-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+-  const report: string[] = []
+-  try {
+-    if (read.act === STATUS) return statusing(read.on, report)
+-    return await swapping(read, report)
+-  } catch (thrown) {
+-    return { report, refusals: [whyOf(thrown)], code: 3 }
+-  }
+-}
+diff --git a/command-system/commands/model-gateway/model-gateway.command.test.ts b/command-system/commands/model-gateway/model-gateway.command.test.ts
+deleted file mode 100644
+index 4ec0590661e7eba635be74658289278cc5aac52b..0000000000000000000000000000000000000000
+--- a/command-system/commands/model-gateway/model-gateway.command.test.ts
++++ /dev/null
+@@ -1,72 +0,0 @@
+-import { expect, test } from "bun:test"
+-import type { Given } from "../../calling/calling.module.code.ts"
+-import { driftOf, modelGateway, readIn, shortOf } from "./model-gateway.command.code.ts"
+-
+-function given(root: string): Given {
+-  return { root, calledAs: "akasha model-gateway", from: root, writer: null, agentId: null }
+-}
+-
+-test("nothing said is refused, naming the acts it carries", async () => {
+-  const said = await modelGateway([], given("/nowhere"))
+-  expect(said.code).toBe(1)
+-  expect(said.refusals[0]).toContain("status")
+-  expect(said.refusals[0]).toContain("swap")
+-})
+-
+-test("an act it does not carry is refused", async () => {
+-  expect((await modelGateway(["restart"], given("/nowhere"))).code).toBe(1)
+-})
+-
+-test("a swap naming neither a seat nor the fleet is refused", () => {
+-  const said = readIn(["swap"])
+-  expect("refused" in said).toBe(true)
+-  if ("refused" in said) expect(said.refused[0]).toContain("--fleet")
+-})
+-
+-test("a swap naming a seat and the fleet both is refused", () => {
+-  const said = readIn(["swap", "awen", "--fleet"])
+-  expect("refused" in said).toBe(true)
+-  if ("refused" in said) expect(said.refused[0]).toContain("--fleet")
+-})
+-
+-test("a swap naming two seats is refused", () => {
+-  const said = readIn(["swap", "awen", "athena"])
+-  expect("refused" in said).toBe(true)
+-  if ("refused" in said) expect(said.refused[0]).toContain("one swap names one seat")
+-})
+-
+-test("a status is given no seat to name", () => {
+-  const said = readIn(["status", "awen"])
+-  expect("refused" in said).toBe(true)
+-})
+-
+-test("a status takes the json flag", () => {
+-  const said = readIn(["status", "--json"])
+-  expect("refused" in said).toBe(false)
+-  if (!("refused" in said)) expect(said.on.has("--json")).toBe(true)
+-})
+-
+-test("a flag the act does not take is refused", () => {
+-  const said = readIn(["status", "--fleet"])
+-  expect("refused" in said).toBe(true)
+-  if ("refused" in said) expect(said.refused[0]).toContain("--fleet")
+-})
+-
+-test("a seat holding the version the tree holds is current", () => {
+-  expect(driftOf("abc", "abc")).toBe("current")
+-})
+-
+-test("a seat holding another version than the tree is lagging", () => {
+-  expect(driftOf("abc", "def")).toBe("lagging")
+-})
+-
+-test("a version either side does not answer is unknown", () => {
+-  expect(driftOf(null, "def")).toBe("unknown")
+-  expect(driftOf("abc", null)).toBe("unknown")
+-})
+-
+-test("a version is shortened, and no version is shown as a dash", () => {
+-  expect(shortOf("0123456789abcdef")).toBe("0123456789ab")
+-  expect(shortOf(null)).toBe("—")
+-  expect(shortOf("")).toBe("—")
+-})
+diff --git a/command-system/commands/model-gateway/model-gateway.command.ts b/command-system/commands/model-gateway/model-gateway.command.ts
+deleted file mode 100644
+index 945d4c892f74b14812c4d6ced7034b5f49a78059..0000000000000000000000000000000000000000
+--- a/command-system/commands/model-gateway/model-gateway.command.ts
++++ /dev/null
+@@ -1,109 +0,0 @@
+-import type { Command } from "../command.page-type.ts"
+-
+-export const modelGateway = {
+-  id: "01a0680a-9cc0-7f2c-9bd3-2717815aabeb",
+-  pageTypeSlug: "command",
+-  slug: "model-gateway",
+-  definition: "the command acting on the model gateway a live seat runs",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-mechanical",
+-  taking: [
+-    {
+-      said: "status",
+-      takes: "the act, which is the gateway version each live seat runs, against the tree here",
+-    },
+-    {
+-      said: "swap",
+-      takes: "the act, which is a gateway respawned on the bytecode here",
+-    },
+-    { said: "<target>", takes: "the seat to swap, named as its page is named or by its id" },
+-    { said: "--fleet", takes: "every live seat in turn rather than one named" },
+-    { said: "--json", takes: "the answer as one JSON object rather than as rows" },
+-  ],
+-  helpNotes: [
+-    "auto-swap is disarmed, so a running gateway stays on the version it was spawned at until a swap moves it, and a status reports the lag that leaves.",
+-    "the version a status weighs against is the tree on disk here, which is what the next spawn would run.",
+-    "on disk rather than published, because the gateway is spawned from this repository rather than deployed, so nothing publishes a version for it.",
+-    "a seat is current where the two versions match, lagging where the tree has moved and the seat has not, and unknown where either version will not read.",
+-    "a swap writes the ask into the seat's uncommitted values, and the supervisor takes it up as it handles and respawns the gateway alone.",
+-    "the port holds, the address the client is pointed at holds, and the client in the seat is not restarted.",
+-    "a seat holding no live gateway is passed over, and its next boot spawns at whatever version is there then.",
+-    "a swap is for rolling out a fix that cannot wait, since an ordinary deploy no longer reaches a running gateway.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The act is the first word and one call names one act.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A status weighs the running version against the tree here rather than a published version.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat is lagging where the tree has moved and that seat has not.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A version either side does not answer is answered as unknown rather than lagging.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A swap writes the ask into the seat's uncommitted values.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The ask a swap writes is spelled as the page carrying that name is spelled.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The gateway alone is respawned.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The gateway is respawned on the port the gateway already held.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat holding no live gateway is passed over rather than refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A swap reaches one seat or every live seat.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A swap naming no seat and no fleet is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A swap naming a seat and the fleet together is refused rather than chosen between.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Every seat a fleet swap reaches is acted on rather than a stop at the first seat not answering.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A fleet swap is staggered.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A name that could name no seat is answered apart from a name no seat that is there answers to.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here restarts a client.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here arms a further act on the seat this command swapped.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/command-system/namespaces/pages/model-gateway.namespace.ts b/command-system/namespaces/pages/model-gateway.namespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..37bef3c61f7bc6a9e883b2567f8e9ba3c0e7059c
+--- /dev/null
++++ b/command-system/namespaces/pages/model-gateway.namespace.ts
+@@ -0,0 +1,13 @@
++import type { Namespace } from "../namespace.page-type.ts"
++
++export const modelGateway = {
++  id: "01a07c0e-f3e6-7abc-9238-d49d16577a96",
++  pageTypeSlug: "namespace",
++  slug: "model-gateway",
++  definition: "the model gateway a seat runs, started, weighed or swapped",
++  partSlugs: [
++    "command/model-gateway-start",
++    "command/model-gateway-status",
++    "command/model-gateway-swap",
++  ],
++} as const satisfies Namespace
