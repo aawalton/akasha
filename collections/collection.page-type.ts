@@ -2,7 +2,6 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { CollectionAuthor } from "./properties/collection-author.text-property.ts"
 import type { CollectionCompletedAt } from "./properties/collection-completed-at.instant-property.ts"
-import type { CollectionDescription } from "./properties/collection-description.text-property.ts"
 import type { CollectionPublishedAt } from "./properties/collection-published-at.one-of-property.ts"
 import type { CollectionTags } from "./properties/collection-tags.text-property.ts"
 import type { CollectionTypeSlug } from "./properties/collection-type-slug.relation-property.ts"
@@ -21,7 +20,6 @@ import type { UnitWords } from "./properties/unit-words.number-property.ts"
 export type Collection = Page & {
   author?: CollectionAuthor
   completedAt?: CollectionCompletedAt
-  description?: CollectionDescription
   following?: Following
   ownLength?: OwnLength
   ownProgress?: OwnProgress
@@ -80,7 +78,6 @@ export const collection = {
     "relation-property/unit-slug",
     "select-property/status",
     "text-property/collection-author",
-    "text-property/collection-description",
     "text-property/collection-tags",
     "workspace-package/great-courses",
     "workspace-package/royal-road",
@@ -89,7 +86,12 @@ export const collection = {
   properties: [
     { pagePropertySlug: "text-property/collection-author", required: false, many: false },
     { pagePropertySlug: "instant-property/collection-completed-at", required: false, many: false },
-    { pagePropertySlug: "text-property/collection-description", required: false, many: false },
+    {
+      pagePropertySlug: "text-property/description",
+      required: false,
+      many: false,
+      maxLength: 1000,
+    },
     {
       pagePropertySlug: "boolean-property/following",
       required: false,
