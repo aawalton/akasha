@@ -1,4 +1,16 @@
-readersOweReading: false
+readersOweReading: false testing-system/dom-guarding/dom-guarding.module.ts
+diff --git a/bun.lock b/bun.lock
+index addd66d383e9b11e7ab934c868c9bec4c910f5a8..b5fb55b4b23e09e3a41d8071a1810f71f7dd0622 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -2925,6 +2925,7 @@
+     "testing-system": {
+       "name": "@akasha/testing-system",
+       "dependencies": {
++        "@akasha/code-system": "workspace:@akasha/code@*",
+         "@happy-dom/global-registrator": "^20.8.3",
+         "@testing-library/react": "^16.3.2",
+       },
 diff --git a/testing-system/dom-guarding/dom-guarding.module.ts b/testing-system/dom-guarding/dom-guarding.module.ts
 index 8921b269ed08cf3bd95011c3deffb7b1f3f592bb..58653ba1c597e583eadfd73177f4f3b141c078d1 100644
 --- a/testing-system/dom-guarding/dom-guarding.module.ts
@@ -12,3 +24,15 @@ index 8921b269ed08cf3bd95011c3deffb7b1f3f592bb..58653ba1c597e583eadfd73177f4f3b1
      },
      {
        invariantKind: "departure",
+diff --git a/testing-system/package.json b/testing-system/package.json
+index fe158e8e286f515848c34e199c4d1f5592b9596d..8acc18f04fe395c12449fb3f6e6b896817121c5e 100644
+--- a/testing-system/package.json
++++ b/testing-system/package.json
+@@ -14,6 +14,7 @@
+     "./walking": "./walking/walking.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@happy-dom/global-registrator": "^20.8.3",
+     "@testing-library/react": "^16.3.2"
+   },
