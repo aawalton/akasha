@@ -1,10 +1,12 @@
 import type { Change } from "../../../pages/change/change.module.code.ts"
 import type { Answering } from "../../../pages/indexes/answering/index-answering.module.code.ts"
+import type { Reading } from "../../../pages/indexes/shape/index-shape.module.code.ts"
 import {
   type Cast,
   shadowAsked,
   shadowAt,
   shadowFor,
+  shadowOnto,
 } from "../../../pages/shadow/shadow.module.code.ts"
 import type { Changes } from "../../runners/pages/change-running/change-running.change-runner.addressed.ts"
 import { gathered, refusing } from "../change-answer/change-answer.module.code.ts"
@@ -104,6 +106,8 @@ export type Kept = {
   readonly base: (path: string) => string | null
   readonly bodies: Map<string, string | null>
   readonly stated: Map<string, Edit[]>
+  fresh: Answer
+  reading: Reading | null
   over: Answer
   index: Answering | null
 }
@@ -112,6 +116,15 @@ export type Ledger = World & { readonly kept: Kept }
 
 export function isLedger(world: World): world is Ledger {
   return "kept" in world
+}
+
+function settledIn(kept: Kept): Answering {
+  if (kept.reading === null && kept.fresh.edits.length === 0) return shadowAt(kept.root).index
+  const cast = shadowOnto(kept.reading, changeOver(kept.root, kept.fresh))
+  if ("refused" in cast) throw new Error(cast.refused)
+  kept.reading = cast.reading
+  kept.fresh = NOTHING_OVER
+  return cast.shadow.index
 }
 
 export function ledgerAt(
@@ -124,6 +137,8 @@ export function ledgerAt(
     base: textOf,
     bodies: new Map<string, string | null>(),
     stated: new Map<string, Edit[]>(),
+    fresh: NOTHING_OVER,
+    reading: null,
     over: NOTHING_OVER,
     index: null,
   }
@@ -132,12 +147,7 @@ export function ledgerAt(
     root,
     reaching,
     get index(): Answering {
-      if (kept.index === null) {
-        kept.index =
-          kept.over.edits.length === 0
-            ? shadowAt(root).index
-            : shadowAsked(changeOver(root, kept.over)).index
-      }
+      if (kept.index === null) kept.index = settledIn(kept)
       return kept.index
     },
     get over(): Answer {
@@ -169,7 +179,9 @@ export function addedTo(ledger: Ledger, said: Answer): Ledger {
     if (one.from !== undefined) kept.bodies.set(one.from, null)
   }
   for (const one of fresh) kept.bodies.set(one.path, one.body)
-  kept.over = gathered([kept.over, { edits: fresh, refused: null }])
+  const held = { edits: fresh, refused: null }
+  kept.over = gathered([kept.over, held])
+  kept.fresh = gathered([kept.fresh, held])
   kept.index = null
   return ledger
 }

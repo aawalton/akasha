@@ -132,6 +132,22 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A shadow is worked out over a reading a caller hands in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller handing in no reading is answered over the reading at the root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading a settle left carries the change that settle was handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Settling one change and then a second leaves the reading both changes leave.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A shadow handed to a reader that may never read the shadow is worked out at the first reading.",
     },

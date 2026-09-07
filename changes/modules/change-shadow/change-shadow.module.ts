@@ -128,6 +128,18 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A ledger settles the edits added after that ledger last answered an index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ledger settles those edits onto the reading that ledger already settled.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No edit a ledger already settled is settled a second time.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reach over a ledger adds to that ledger rather than building a second world.",
     },
     {

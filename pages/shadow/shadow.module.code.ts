@@ -1,5 +1,5 @@
-import { createHash } from "node:crypto"
 import { textOf } from "@akasha/code/body-text"
+import { digestOf } from "@akasha/code/carried-file"
 import { everyValue, readingIn } from "@akasha/indexes"
 import { type Answering, answeringOver } from "@akasha/indexes/answering"
 import { settlingOver } from "@akasha/indexes/indexing"
@@ -61,10 +61,6 @@ function nothingMoved(change: Change): boolean {
   return change.after === change.before
 }
 
-function keyOf(bytes: Uint8Array): string {
-  return createHash("sha256").update(bytes).digest("hex")
-}
-
 function codeOver(change: Change): (path: string) => string | null {
   const carried = new Set(change.changed)
   let held: Map<string, string> | null = null
@@ -73,7 +69,7 @@ function codeOver(change: Change): (path: string) => string | null {
     const found = new Map<string, string>()
     for (const path of change.changed) {
       const bytes = change.before(path)
-      if (bytes !== null) found.set(keyOf(bytes), path)
+      if (bytes !== null) found.set(digestOf(bytes), path)
     }
     held = found
     return found
@@ -82,7 +78,7 @@ function codeOver(change: Change): (path: string) => string | null {
     if (!carried.has(path)) return path
     const after = change.after(path)
     if (after === null) return null
-    return before().get(keyOf(after)) ?? null
+    return before().get(digestOf(after)) ?? null
   }
 }
 
@@ -100,22 +96,21 @@ export function shadowAt(root: string): Shadow {
   return shadowOver(readingIn(root), bodyOnDisk(root))
 }
 
-function castOver(change: Change): Cast {
+function castFrom(was: Reading, change: Change): Cast {
   const body = bodyIn(change)
   if (nothingMoved(change)) {
-    const reading = readingIn(change.root)
-    return { shadow: shadowOver(reading, body), reading }
+    return { shadow: shadowOver(was, body), reading: was }
   }
   const carried = new Set(change.changed)
-  const filed = filedOver(readingIn(change.root), body)
-  const pageOf = remembering((path) => (carried.has(path) ? body(path) : filed(path)))
+  const under = filedOver(was, body)
+  const pageOf = remembering((path) => (carried.has(path) ? body(path) : under(path)))
   try {
     const moving = change.changed.map((path) => ({
       path,
       before: textOf(change.before(path)),
       after: textOf(change.after(path)),
     }))
-    const settled = settlingOver(readingIn(change.root), change.root, moving, pageOf)
+    const settled = settlingOver(was, change.root, moving, pageOf)
     const reading = settled.reading
     const index = answeringOver(reading, pageOf)
     const filed = (): readonly Filing[] => settled.filings
@@ -124,6 +119,14 @@ function castOver(change: Change): Cast {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return { refused: `${NOT_WORKED_OUT} — ${why}` }
   }
+}
+
+export function shadowOnto(was: Reading | null, change: Change): Cast {
+  return castFrom(was ?? readingIn(change.root), change)
+}
+
+function castOver(change: Change): Cast {
+  return castFrom(readingIn(change.root), change)
 }
 
 export function shadowAsked(change: Change): Shadow {
