@@ -10,4 +10,5 @@ export const changeMechanicalCode = {
   definition: "a mechanical change acting on a body read as code",
   pluralSlug: "change-mechanical-code",
   extendsSlug: ["page-type/change-mechanical"],
+  partSlugs: [],
 } as const satisfies PageType

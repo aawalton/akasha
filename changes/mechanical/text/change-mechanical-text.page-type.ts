@@ -10,4 +10,5 @@ export const changeMechanicalText = {
   definition: "a mechanical change acting on a body read as text",
   pluralSlug: "change-mechanical-text",
   extendsSlug: ["page-type/change-mechanical"],
+  partSlugs: [],
 } as const satisfies PageType

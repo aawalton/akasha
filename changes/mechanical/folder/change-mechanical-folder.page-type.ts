@@ -10,4 +10,5 @@ export const changeMechanicalFolder = {
   definition: "a mechanical change acting on the files a folder holds rather than on one of them",
   pluralSlug: "change-mechanical-folder",
   extendsSlug: ["page-type/change-mechanical"],
+  partSlugs: [],
 } as const satisfies PageType
