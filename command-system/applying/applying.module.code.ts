@@ -1,4 +1,4 @@
-import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
+import { patchAt } from "@akasha/agents/patch-keeping"
 import type { Judging } from "@akasha/checks/judging"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { partedIn } from "@akasha/pages/page-file-name"
@@ -25,10 +25,8 @@ import {
   APPLIED,
   type Bodies,
   droppedPatch,
-  heldIn,
   type Running,
   rebasedHeld,
-  runningIn,
 } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
@@ -96,7 +94,7 @@ export async function applying(
   const glass = glassIn(argv, APPLYING)
   if ("refusals" in glass) return notLanded(mistaking(glass.refusals))
   const broken = glass.glass
-  if (carried === null && patchIn(given.root, page) === null) {
+  if (carried === null) {
     return notLanded(mistaking([noneSaid(given.root, page)]))
   }
   const built = gateBuilt(given.root)
@@ -148,11 +146,6 @@ export async function applying(
 }
 
 export type Carried = { readonly held: Bodies; readonly running: Running }
-
-function carriedIn(root: string, page: string): Carried | null {
-  const patch = patchIn(root, page)
-  return patch === null ? null : { held: heldIn(root, patch), running: runningIn(patch) }
-}
 
 export type Applied = {
   readonly base: string
@@ -212,8 +205,8 @@ export async function applied(
 ): Promise<Applied | Refused> {
   const at = patchAt(page)
   if (at === null) return { refusals: [NO_PAGE] }
-  const holding = carried ?? carriedIn(root, page)
-  if (holding === null) return { refusals: [NO_PATCH] }
+  if (carried === null) return { refusals: [NO_PATCH] }
+  const holding = carried
   const head = gitSaid(root, ["rev-parse", "HEAD"]).trim()
   const said = rebasedHeld(root, head, holding.held)
   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }

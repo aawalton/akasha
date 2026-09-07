@@ -5,7 +5,7 @@ import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { noImportersFiled } from "@akasha/indexes/testing"
 import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
-import { drafted, runningIn } from "../drafting/drafting.module.code.ts"
+import { drafted, heldIn, runningIn } from "../drafting/drafting.module.code.ts"
 import { landing } from "../landing/landing.module.code.ts"
 import {
   A,
@@ -19,9 +19,15 @@ import {
   scratch,
 } from "../landing/landing.module.test-fixtures.ts"
 import { readingIn, recordRead, sameBody } from "../reading/reading.module.code.ts"
-import { applied } from "./applying.module.code.ts"
+import { applied as appliedWith } from "./applying.module.code.ts"
 
 const AGENT = "01a05f00-0000-7000-8000-000000000001"
+
+function applied(...said: Parameters<typeof appliedWith>): ReturnType<typeof appliedWith> {
+  const patch = patchIn(said[0], said[1])
+  const held = patch === null ? null : { held: heldIn(said[0], patch), running: runningIn(patch) }
+  return appliedWith(said[0], said[1], said[2], said[3], said[4], said[5], said[6], held)
+}
 
 const MORE = `${A}// drafted\n`
 
@@ -43,10 +49,6 @@ function drafting(root: string): undefined {
   )
 }
 
-function refs(root: string): string {
-  return gitSaid(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/patch"])
-}
-
 function headOid(root: string, path: string): string {
   return gitSaid(root, ["rev-parse", `HEAD:${path}`]).trim()
 }
@@ -58,7 +60,7 @@ test("a patch applied lands its bodies and takes the patch away", async () => {
   if ("refusals" in said) throw new Error(said.refusals.join("; "))
   expect(readFileSync(join(root, PAGE), "utf8")).toBe(MORE)
   expect(patchIn(root, PAGE)).toBeNull()
-  expect(refs(root)).toBe("")
+  expect(gitSaid(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/patch"])).toBe("")
 })
 
 test("a patch applied answers which of its bodies the formatter moved", async () => {

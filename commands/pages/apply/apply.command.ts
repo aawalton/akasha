@@ -21,7 +21,7 @@ export const apply = {
     "a fold the patch refuses leaves the edits where the edits are.",
     "an apply that refuses puts the fold back, so the edits are kept for a change to mend.",
     "an edit for a body the apply writes again is dropped rather than folded, and the report names it.",
-    "an apply over no edits applies the patch the agent already holds.",
+    "an apply over no edits applies nothing, as the fold of the edits is what an apply lands.",
     "--break-the-glass applies with no check run, and the reason is said in the commit.",
     "an apply says how many subagents handed edits over, because an apply lands none of them.",
   ],
