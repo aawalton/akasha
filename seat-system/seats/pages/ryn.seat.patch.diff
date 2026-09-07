@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lua-runner/lua-driver/lua-driver.lua-module.ts b/temper/temper-lua-runner/lua-driver/lua-driver.lua-module.ts
+index 8943a1141d3004e07d947663b08648f3ece531e2..ec172146388808a785d05a5a0047ddddc3b806a8 100644
+--- a/temper/temper-lua-runner/lua-driver/lua-driver.lua-module.ts
++++ b/temper/temper-lua-runner/lua-driver/lua-driver.lua-module.ts
+@@ -29,7 +29,7 @@ export const luaDriver = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A table whose keys run one upward with no gap is written as a JSON array.",
++      statement: "A table whose keys start at 1 and rise with no gap is written as a JSON array.",
+     },
+     {
+       invariantKind: "departure",
