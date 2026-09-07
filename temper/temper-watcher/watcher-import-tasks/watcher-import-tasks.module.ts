@@ -76,7 +76,7 @@ export const watcherImportTasks = {
     {
       invariantKind: "departure",
       statement:
-        "A task is rolled by the progress of the account's characters rather than by a whole-task completion alone.",
+        "A task is rolled by the account's characters' progress rather than by a whole-task completion.",
     },
     {
       invariantKind: "departure",

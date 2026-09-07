@@ -15,8 +15,7 @@ export const watcherTaskRolling = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The progress of a character other than the effective character rolls a `next_character` task no sooner.",
+      statement: "Only the effective character's progress rolls a `next_character` task.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +24,7 @@ export const watcherTaskRolling = {
     {
       invariantKind: "departure",
       statement:
-        "A task of `all_characters` scope rolls once every character on the roster has completed the task or progressed at the task.",
+        "An `all_characters` task rolls once every character on the roster has completed or progressed.",
     },
     {
       invariantKind: "departure",
