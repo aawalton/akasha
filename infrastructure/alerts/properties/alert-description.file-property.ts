@@ -6,7 +6,7 @@ export const alertDescription = {
   id: "01a06755-0778-7275-8076-4aec6002693b",
   pageTypeSlug: "file-property",
   slug: "alert-description",
-  propertySlug: "description",
+  propertySlug: "runbook",
   definition: "what to check once an alert is raised",
   invariants: [
     {
