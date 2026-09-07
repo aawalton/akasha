@@ -130,10 +130,10 @@ index 0000000000000000000000000000000000000000..d6512e88fbd0fb4f1aea57e2e309381a
 +})
 diff --git a/pages/indexes/beside-turning/beside-turning.module.ts b/pages/indexes/beside-turning/beside-turning.module.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..9153191253c0132538a044c3f686704abcb2d96d
+index 0000000000000000000000000000000000000000..64b10713847a2895f64fadc98e30c579d174989d
 --- /dev/null
 +++ b/pages/indexes/beside-turning/beside-turning.module.ts
-@@ -0,0 +1,37 @@
+@@ -0,0 +1,38 @@
 +import type { Module } from "@akasha/code/module"
 +
 +export const besideTurning = {
@@ -155,7 +155,8 @@ index 0000000000000000000000000000000000000000..9153191253c0132538a044c3f686704a
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A declaration gaining or losing a default turns the page type declaring it.",
++      statement:
++        "A declaration gaining or losing a default turns the page type declaring that property.",
 +    },
 +    {
 +      invariantKind: "departure",
