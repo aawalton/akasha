@@ -1,0 +1,150 @@
+writerOwesReading: false
+diff --git a/command-system/landing/landing.module.test-fixtures.ts b/command-system/landing/landing.module.test-fixtures.ts
+index 2426869da95981ca92e34632b94ad929a85c6036..45d59bdc9c3a571a4a77b5c15be43e3393687a2c 100644
+--- a/command-system/landing/landing.module.test-fixtures.ts
++++ b/command-system/landing/landing.module.test-fixtures.ts
+@@ -1,4 +1,4 @@
+-import { mkdirSync, writeFileSync } from "node:fs"
++import { chmodSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import type { Judged, Judging } from "@akasha/checks/judging"
+ import { said as gitIn } from "@akasha/git/git-running"
+@@ -109,6 +109,59 @@ export function pageRepo(): string {
+   return repoWith({ [PAGE]: A })
+ }
+ 
++export async function pageLanded(root: string): Promise<string> {
++  await landing(root, CARRIED, "held", ADMITS)
++  await landing(root, [{ path: PAGE, body: bytesOf(A) }], "held", ADMITS)
++  return root
++}
++
++const HELD_OUT = "held.uncommitted.json"
++
++export const IGNORED_OUT: readonly string[] = [".gitignore", "new.txt", "one.txt"]
++
++const SPLIT: readonly FileEdit[] = [
++  { path: "new.txt", body: bytesOf("proposed") },
++  { path: HELD_OUT, body: bytesOf("unsaid") },
++]
++
++function ignoringRepo(): string {
++  return repoWith({ ".gitignore": "*.uncommitted.*\n", "one.txt": "committed" })
++}
++
++export async function splitLanded(): Promise<{
++  readonly held: string
++  readonly wrote: readonly string[]
++  readonly files: readonly string[]
++}> {
++  const root = ignoringRepo()
++  const said = await landing(root, SPLIT, "held", ADMITS)
++  if ("refusals" in said) throw new Error(said.refusals.join("; "))
++  if (said.commit === null) throw new Error("the landing committed nothing")
++  return {
++    held: readFileSync(join(root, HELD_OUT), "utf8"),
++    wrote: said.wrote,
++    files: git(root, ["ls-tree", "-r", "--name-only", "HEAD"]).trim().split("\n").sort(),
++  }
++}
++
++export async function splitThrew(): Promise<{
++  readonly why: string
++  readonly left: readonly string[]
++}> {
++  const root = ignoringRepo()
++  const at = join(root, ".git/objects")
++  chmodSync(at, 0o500)
++  let why = ""
++  try {
++    await landing(root, SPLIT, "held", ADMITS)
++  } catch (thrown) {
++    why = thrown instanceof Error ? thrown.message : String(thrown)
++  } finally {
++    chmodSync(at, 0o700)
++  }
++  return { why, left: [HELD_OUT, "new.txt"].filter((one) => existsSync(join(root, one))) }
++}
++
+ function typed(
+   said: string,
+   slug: string,
+diff --git a/command-system/landing/landing.module.test.ts b/command-system/landing/landing.module.test.ts
+index eea6a06aaa5f5f959cfb9f0a4005d0956ecc06f8..51b839690a27b17a6daea7b4ab2ce744c256a305 100644
+--- a/command-system/landing/landing.module.test.ts
++++ b/command-system/landing/landing.module.test.ts
+@@ -31,17 +31,21 @@ import {
+   git,
+   gitOver,
+   ID,
++  IGNORED_OUT,
+   identityAmong,
+   judgingThat,
+   LINE,
+   landedMoving,
+   NUL,
+   PAGE,
++  pageLanded,
+   pageRepo,
+   pagesRepo,
+   REFUSES,
+   repoWith,
+   scratch,
++  splitLanded,
++  splitThrew,
+ } from "./landing.module.test-fixtures.ts"
+ 
+ afterAll(scratch.sweep)
+@@ -121,9 +125,7 @@ test("a landing files the index entries its page implies, with no rebuild run by
+ })
+ 
+ test("a landing that takes a page away takes its index entries with it", async () => {
+-  const root = await edged({ "seed.txt": "held" })
+-  await landing(root, CARRIED, "held", ADMITS)
+-  await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
++  const root = await pageLanded(await edged({ "seed.txt": "held" }))
+   expect(idFiledIn(root, ID)).toBe(true)
+   await landing(root, [{ path: "akasha/a.domain.ts", body: null }], "held", ADMITS)
+   expect(idFiledIn(root, ID)).toBe(false)
+@@ -139,9 +141,7 @@ test("a landing no check judged keeps the index all the same", async () => {
+ })
+ 
+ test("a refused change leaves the index as it found it, as it leaves the worktree", async () => {
+-  const root = repoWith({ "seed.txt": "held" })
+-  await landing(root, CARRIED, "held", ADMITS)
+-  await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
++  const root = await pageLanded(repoWith({ "seed.txt": "held" }))
+   const was = everythingFiled(root)
+   const said = await landing(
+     root,
+@@ -154,9 +154,7 @@ test("a refused change leaves the index as it found it, as it leaves the worktre
+ })
+ 
+ test("the index two landings leave is the index a rebuild from those pages builds, but for the stamp only a rebuild writes", async () => {
+-  const root = repoWith({ "seed.txt": "held" })
+-  await landing(root, CARRIED, "held", ADMITS)
+-  await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
++  const root = await pageLanded(repoWith({ "seed.txt": "held" }))
+   const rebuilt = scratch.rootFor("akasha-rebuilt-")
+   rebuiltFrom(join(root, "akasha"), rebuilt, root)
+   expect(identityAmong(everythingFiled(root)).length).toBeGreaterThan(0)
+@@ -340,6 +338,19 @@ test("a carry that will not go puts back the ones that went and commits nothing"
+   expect(baseOf(root)).toBe(was)
+ })
+ 
++test("a path the repository ignores is written onto the tree and left out of the commit", async () => {
++  const said = await splitLanded()
++  expect(said.held).toBe("unsaid")
++  expect(said.wrote).toEqual(["new.txt"])
++  expect(said.files).toEqual(IGNORED_OUT)
++})
++
++test("a commit that throws leaves the path the repository ignores unwritten", async () => {
++  const said = await splitThrew()
++  expect(said.why).toContain("insufficient permission")
++  expect(said.left).toEqual([])
++})
++
+ test("a change drafted is kept in the patch and reaches no file and no commit of its own", async () => {
+   const root = pageRepo()
+   const change = [{ path: "new.txt", body: bytes("proposed") }]
