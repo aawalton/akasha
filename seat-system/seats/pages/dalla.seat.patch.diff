@@ -1,0 +1,75 @@
+writerOwesReading: false
+diff --git a/changes/checked/pages/rename-page/rename-page.change-checked.code.ts b/changes/checked/pages/rename-page/rename-page.change-checked.code.ts
+index 9b6ce76ae0be0de9a617b561751762b899d2b41e..b33245176320f4475b76afede8818d6b4f437dfb 100644
+--- a/changes/checked/pages/rename-page/rename-page.change-checked.code.ts
++++ b/changes/checked/pages/rename-page/rename-page.change-checked.code.ts
+@@ -151,9 +151,18 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
+     const carries = `\`${given.to}\` is the slug this page carries`
+     if (given.plural !== undefined) return refusing(`${carries}, so no plural is restated`)
+     if (lands === given.at) return refusing(`${carries}, in the folder that slug names`)
+-  } else {
++  }
++  for (const one of [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]) {
++    const carried = await reach(seen, RENAME_PATH, one)
++    if (carried.said.refused !== null) return carried.said
++    answers.push(carried.said)
++    folded = gathered(answers)
++    if (folded.refused !== null) return folded
++    seen = worldOver(world, folded)
++  }
++  if (given.to !== held.slug) {
+     const said = await reach(seen, RENAME_PAGE_SLUG, {
+-      at: given.at,
++      at: lands,
+       to: given.to,
+       plural: given.plural,
+     })
+@@ -163,14 +172,6 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
+     if (folded.refused !== null) return folded
+     seen = worldOver(world, folded)
+   }
+-  for (const one of [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]) {
+-    const carried = await reach(seen, RENAME_PATH, one)
+-    if (carried.said.refused !== null) return carried.said
+-    answers.push(carried.said)
+-    folded = gathered(answers)
+-    if (folded.refused !== null) return folded
+-    seen = worldOver(world, folded)
+-  }
+   return folded
+ }
+ 
+diff --git a/changes/checked/pages/rename-page/rename-page.change-checked.test.ts b/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
+index 763f6e7e37088d4af895f9b665cd492b4be6b312..b0a265bd8d504e161461f16760510532bb78d4fc 100644
+--- a/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
++++ b/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
+@@ -162,8 +162,8 @@ test("the slug rename and each carry are reached at their own addresses", async
+ 
+   await renamePage(world, { at: HELD_PAGE, to: CARRIED })
+ 
+-  expect(reached[0]).toBe("change-mechanical-data/rename-page-slug")
+-  expect(new Set(reached.slice(1))).toEqual(new Set(["change-mechanical-file/rename-path"]))
++  expect(reached[reached.length - 1]).toBe("change-mechanical-data/rename-page-slug")
++  expect(new Set(reached.slice(0, -1))).toEqual(new Set(["change-mechanical-file/rename-path"]))
+ })
+ 
+ test("a page's slug is renamed in its data, and its files are carried with it", async () => {
+diff --git a/changes/checked/pages/rename-page/rename-page.change-checked.ts b/changes/checked/pages/rename-page/rename-page.change-checked.ts
+index 1483bdad1539cbb80419e65f734c421c8195815f..9c0d32d6ccc508c32d36697339cba4150f9a6766 100644
+--- a/changes/checked/pages/rename-page/rename-page.change-checked.ts
++++ b/changes/checked/pages/rename-page/rename-page.change-checked.ts
+@@ -11,4 +11,14 @@ export const renamePage = {
+   runsChecks: true,
+   readersOweReading: false,
+   writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A page's files are carried before that page's slug is restated.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The slug is restated at the path the carry lands the page at.",
++    },
++  ],
+ } as const satisfies ChangeChecked
