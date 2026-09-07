@@ -18,11 +18,6 @@ export const dallaDraftIntoAPatch = {
         "`settled` writes the whole ledger through `git hash-object -w` on every append, so a ledger grown to n rows has written on the order of n squared bytes; `.git/objects` climbed 8.6 GB to 13.3 GB in twelve minutes. `check-cost` already holds the pattern replacing it: `uncommittedPartAt` beside the page, `appendFileSync`, and a ceiling rolling over to a further part, at 197,728 rows across 45 files. `file-property/edits` is declared on the agent page type already, defaulting to `jsonl`.",
     },
     {
-      statement: "A change applies as it answers rather than waiting for an apply.",
-      workingMemory:
-        "The code is landed and a refusing change still lands nothing, but `change.command.ts` was left declaring the old default across roughly fifteen invariants and four help notes. Applying by default takes the message an apply works out where none is named. Alan named `draft` as the opt-out, holding the edits for a later apply, and ruled the flip reaches subagents. Without an opt-out no module can be created at all, as a page declaring code and the file beside it arrive together.",
-    },
-    {
       statement: "A file that is not text is refused rather than decoded into an edit.",
       workingMemory:
         "Landed as a refusal at `change.command.code.ts`, reusing `decodeUtf8` from `code-system/utf8-body`. Measured: of 121,768 tracked files exactly 80 fail a strict decode, all `.png`, two per persona. That refusal also blocks removing one, which was safe before, as a removal carries a null body. The precise route is declared already: `holdsBytes` is true on the two wallpaper file properties and nowhere else, and `no-raw-nul-bytes` reads it. A file declaring bytes is carried rather than decoded.",
