@@ -8,9 +8,9 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
-      statement: "Every command that changes a file drafts rather than landing on its own.",
+      statement: "`akasha change` alone drafts, and every other change lands as it is made.",
       workingMemory:
-        "84 command pages declare a change kind; 5 draft: `change`, `replace`, `apply`, `patch`, `lint-exception`. The rest declare `change-mechanical` and land through `landedMechanically`. `replace` drafts under an agent id and lands under none. The store is the git ref `refs/akasha/edits`. `preambleOf` writes `runsChecks`, `writerOwesReading` and `readersOweReading` before the first `diff --git`, only where false, so a line lost reads as true; `runsWarrants` is read and never written.",
+        "`replace` drafts under an agent id and lands under none, so it drafts where it should land at once. `apply`, `patch` and `lint-exception` work on a patch rather than making one. Every other command declares `change-mechanical` and lands through `landedMechanically`, which is right. The edits `akasha change` keeps are the git ref `refs/akasha/edits`, and `landedMechanically` carries an unused `agentId` that would turn drafting on.",
     },
     {
       statement: "A seat and its subagents draft against one worktree of their own.",
