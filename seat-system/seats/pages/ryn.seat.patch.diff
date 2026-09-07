@@ -25,6 +25,28 @@ index c266660c6d3a7bf7f6c0c3fff6006f3075896dfe..ff5dd7c5971b638f0f78a58306ce3e0e
  }
  
  export type ParsedSentence = {
+diff --git a/domains/plain-language/dependency-graph/dependency-graph.module.ts b/domains/plain-language/dependency-graph/dependency-graph.module.ts
+index 007561510c1b3df3d016fd0793855bef10d074f0..13224c3a0640821512ee83194d8bd07ee8044aad 100644
+--- a/domains/plain-language/dependency-graph/dependency-graph.module.ts
++++ b/domains/plain-language/dependency-graph/dependency-graph.module.ts
+@@ -35,5 +35,17 @@ export const dependencyGraph = {
+       invariantKind: "departure",
+       statement: "A cycle is broken by the swap that costs the least score.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A token the model built carries how sure the model was of each class.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A confidence is the chance the model gave the class the model chose.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A token built by hand carries no confidence.",
++    },
+   ],
+ } as const satisfies Module
 diff --git a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
 index 889154fb352315c5f2f70a9954850ec371ee0744..2d803d262f4886ba54e3cda478b19b60d69d5851 100644
 --- a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
