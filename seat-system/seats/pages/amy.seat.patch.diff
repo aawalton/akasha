@@ -94,6 +94,46 @@ index 2726b4d1a75474c9458a80ca867e29a88dc39676..e49d303fd1603e6fcc28dd2feb73276e
    const isFavorite = data?.favoritedAt != null
  
    const titleLinkFade = useOverflowFade<HTMLSpanElement>(displayTitle)
+diff --git a/pages/ui/components/page-table/page-table.module.code.tsx b/pages/ui/components/page-table/page-table.module.code.tsx
+index fcba0c7a5457c8e400aadd6446765cfd089da3b1..b50e92faf3d285e155762afaa45e444e45ff444b 100644
+--- a/pages/ui/components/page-table/page-table.module.code.tsx
++++ b/pages/ui/components/page-table/page-table.module.code.tsx
+@@ -12,6 +12,7 @@ import {
+   TableHeader,
+   TableRow,
+ } from "@akasha/design-primitives/table"
++import { type CompletionShape, readsAsDone } from "@akasha/pages-core/task-lifecycle"
+ import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
+ import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
+ import { orderTableColumns } from "@akasha/pages-ui-components/card-property-columns"
+@@ -130,6 +131,7 @@ interface PageTableRowCellsProps {
+   relationHref?: (propertyId: string) => string
+   onPropertyChange?: (propertyId: string, value: unknown, eventTimeStamp?: number) => void
+   onCreateOption?: (propertyId: string, label: string) => void
++  completion?: CompletionShape | null
+   onComplete?: (value: number | null) => void
+   isFavorite?: boolean
+   onToggleFavorite?: (value: number | null) => void
+@@ -145,6 +147,7 @@ export function PageTableRowCells({
+   relationHref,
+   onPropertyChange,
+   onCreateOption,
++  completion,
+   onComplete,
+   isFavorite,
+   onToggleFavorite,
+@@ -154,9 +157,8 @@ export function PageTableRowCells({
+   const resolvedTitle = data.title != null ? String(data.title) : "Untitled"
+   const displayTitle = expandDateMentions(resolvedTitle)
+   const iconName = data.icon != null ? String(data.icon) : null
+-  const hasCompletedAtDef = definitions.some((d) => d.id === "completedAt")
+-  const isCompleted = data.completedAt != null
+-  const showCompletionToggle = Boolean(onComplete) && hasCompletedAtDef
++  const isCompleted = completion != null && readsAsDone(completion, data)
++  const showCompletionToggle = Boolean(onComplete) && completion != null
+   const showActions = onToggleFavorite != null || onDelete != null
+ 
+   return (
 diff --git a/pages/ui/components/view-tab-content/view-tab-content.module.code.tsx b/pages/ui/components/view-tab-content/view-tab-content.module.code.tsx
 index 4f264eb57624b6cf115d6d6dc2535e1e66a72990..41df451cd994ecfd011d6f57a799fc5e3f8bacb2 100644
 --- a/pages/ui/components/view-tab-content/view-tab-content.module.code.tsx
