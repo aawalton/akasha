@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/astra-persons-cleanup.initiative.ts b/domains/initiatives/pages/astra-persons-cleanup.initiative.ts
+index 0d7766049a945ac59f3ef50f4f83743d4db1f728..42482f2b1b45c74dcb24bf4c57c0bdad12caee22 100644
+--- a/domains/initiatives/pages/astra-persons-cleanup.initiative.ts
++++ b/domains/initiatives/pages/astra-persons-cleanup.initiative.ts
+@@ -15,7 +15,7 @@ export const astraPersonsCleanup = {
+     {
+       statement: "The persons/ folder passes the `folder-matches-a-shape` check.",
+       workingMemory:
+-        "Met: 156 files judged, none refused. It took each part of the email domain into a folder of its own, every folder name with the name of the page above it taken off, and `email-rule` declaring its two kinds where `email` had declared them. Twelve invariants over nine pages were restated to say one fact each. `alan/harness/inboxes/email-rules` refuses yet, wanting the disabled `pages-of-one-type` shape.",
++        "Met: the check refuses nothing here. It took each part of the email domain into a folder of its own, every folder name with the name of the page above it taken off, and `email-rule` declaring its two kinds where `email` had declared them. Twelve invariants over nine pages were restated to say one fact each. `alan/harness/inboxes/email-rules` refuses yet, wanting the disabled `pages-of-one-type` shape.",
+     },
+   ],
+ } as const satisfies Initiative
