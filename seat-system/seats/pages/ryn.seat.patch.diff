@@ -1,0 +1,18 @@
+diff --git a/sms-core/commands/sms-command-reading/sms-command-reading.module.ts b/sms-core/commands/sms-command-reading/sms-command-reading.module.ts
+index 23414237944176f2ac9c3c042931eb5f79bfc0e9..57e8d14bd46f0c950d85dc68698ca54ab9c8081d 100644
+--- a/sms-core/commands/sms-command-reading/sms-command-reading.module.ts
++++ b/sms-core/commands/sms-command-reading/sms-command-reading.module.ts
+@@ -31,8 +31,11 @@ export const smsCommandReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Text is said at its flag or read from a file, and saying it both ways is refused.",
++      statement: "Text is said at its flag or read from a file.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Text said both ways is refused.",
+     },
+     {
+       invariantKind: "departure",
