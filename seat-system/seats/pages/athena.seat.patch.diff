@@ -1015,10 +1015,10 @@ index c97c9f60eef1ece8233fbfa74ab66da29a1b3a31..05a7b33d7c26fdcd125d1c5924797053
  } from "../../../sms-core/commands/sms-command-reading/sms-command-reading.module.code.ts"
  
 diff --git a/commands/pages/sms-send/sms-send.command.code.ts b/commands/pages/sms-send/sms-send.command.code.ts
-index f567038856b2c2293896b1aac7745ab580325489..d468cf518838a081e0815e128dae92f68bbfd0fa 100644
+index f567038856b2c2293896b1aac7745ab580325489..cf45fd97c4c2432f9461404a9411abc27bf9856f 100644
 --- a/commands/pages/sms-send/sms-send.command.code.ts
 +++ b/commands/pages/sms-send/sms-send.command.code.ts
-@@ -1,16 +1,17 @@
+@@ -1,16 +1,18 @@
  import type { Answer, Given } from "@akasha/command-system/calling"
 -import { requireEnv } from "@akasha/utils-narrow/require-env"
  import {
@@ -1033,15 +1033,25 @@ index f567038856b2c2293896b1aac7745ab580325489..d468cf518838a081e0815e128dae92f6
    told,
 -  wordFilling,
 +} from "@akasha/command-system/command-answering"
-+import { filing, wordFilling } from "@akasha/command-system/command-filling"
++import { wordFilling } from "@akasha/command-system/command-filling"
 +import { requireEnv } from "@akasha/utils-narrow/require-env"
 +import {
 +  JSON_SAID,
 +  proseIn,
 +  type Reading,
++  TEXT,
    wordsIn,
  } from "../../../sms-core/commands/sms-command-reading/sms-command-reading.module.code.ts"
  import {
+@@ -20,8 +22,6 @@ import {
+ 
+ const TO = "--to"
+ 
+-const TEXT = filing("--text")
+-
+ const FROM = "--from"
+ 
+ const BASE_URL = "--base-url"
 diff --git a/commands/pages/track-workout-finish/track-workout-finish.command.code.ts b/commands/pages/track-workout-finish/track-workout-finish.command.code.ts
 index 25f5bcab5681d6444dd5fc0d8ed1bcd576f01551..282eaf4e526dbe959f6a2835f3addc4ffbae3231 100644
 --- a/commands/pages/track-workout-finish/track-workout-finish.command.code.ts
