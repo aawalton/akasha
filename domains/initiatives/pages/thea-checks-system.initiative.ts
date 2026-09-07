@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed a fault before believing a zero. Charge a check on a warm shadow, not the shared build. A tested decision can be wrong. A .d.ts skips a runtime rule and binds a typing rule. Exempt the outlier, never the class holding it. A gitignore rule is silent about a file already tracked. Refusing: comments 3020, method-sig 307, lint 302, manifest-names 67, key-names 57, no-class 8, cycles 7, index-path 6, globals 2. no-re-export next.",
+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed a fault before believing a zero. Charge a check on a warm shadow, not the shared build. A .d.ts skips a runtime rule and binds a typing rule. Exempt the outlier, never the class holding it. Check a count against its base rate before calling it a finding. Refusing: comments 3020, method-sig 307, lint 302, re-export 74, manifest-names 67, key-names 57, no-class 8, cycles 7, index-path 6, globals 2. no-refused-syntax next.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
