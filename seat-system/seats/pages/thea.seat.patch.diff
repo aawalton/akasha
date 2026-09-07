@@ -29,3 +29,17 @@ index db4063ae45e83d7963da71092a15f353b4915916..aed146fba8ab93b7ae6ea8ff521675b7
    return 1 2>/dev/null || exit 1
  fi
  
+diff --git a/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh b/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh
+old mode 100755
+new mode 100644
+index 9514195d0834c7550e221f70d7035a3b878aade1..1307e7daf2235ed0181686c04711ad95a6f25184
+--- a/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh
++++ b/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh
+@@ -15,6 +15,7 @@ REPOS="$(dirname -- "$AKASHA_ROOT")"
+ FILES="$AKASHA_ROOT/machines/provisioning/provisioned-files/pages"
+ SCRIPTS="$AKASHA_ROOT/machines/provisioning/scripts"
+ 
++# shellcheck source=../link-making/link-making.shell-script.shell.sh
+ . "$SCRIPTS/link-making/link-making.shell-script.shell.sh"
+ 
+ echo "Setting up dotfile symlinks..."
