@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-scrollable-menu/scrollable-menu-lang/scrollable-menu-lang.module.ts b/temper/temper-lib-scrollable-menu/scrollable-menu-lang/scrollable-menu-lang.module.ts
+index b77ec31b01c5b8a82d52e970ff0e0be7b3b9ca1f..860a9054f9a3afdf704e66f712431b901eb9c93c 100644
+--- a/temper/temper-lib-scrollable-menu/scrollable-menu-lang/scrollable-menu-lang.module.ts
++++ b/temper/temper-lib-scrollable-menu/scrollable-menu-lang/scrollable-menu-lang.module.ts
+@@ -17,7 +17,7 @@ export const scrollableMenuLang = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "Each string is versioned through SafeAddVersion at version one.",
++      statement: "Each string is versioned through SafeAddVersion at version 1.",
+     },
+   ],
+ } as const satisfies Module
