@@ -246,7 +246,16 @@ const NAMER_BODY = `import { ${HELD_EXPORT} } from "../one/held.module.code.ts"
 export const named = ${HELD_EXPORT} + 1
 `
 
+const CHANGE_TYPE = "change-mechanical"
+
+const CHANGE_CODE_AT = "../../../changes/mechanical/pages"
+
+const CHANGE_SLUGS: readonly string[] = ["remove-file", "remove-page", "remove-property-value"]
+
+const changeId = (one: string): string => `01a04a4a-0001-7000-8000-00000000000${one}`
+
 const REPO_VOCABULARY: readonly Named[] = [
+  aType(changeId("0"), CHANGE_TYPE, ["page-type/module"]),
   aType(idOf("1"), "page", [], ["id", "slug"]),
   aType(idOf("2"), "page-type", ["page-type/domain"]),
   aType(idOf("3"), "page-property", ["page-type/page"]),
@@ -259,6 +268,28 @@ const REPO_VOCABULARY: readonly Named[] = [
   aProperty(idOf("c"), "part-slugs", "relation-property", { targetPageTypeSlug: "domain" }),
 ]
 
+const changePage = (slug: string, one: number): Held => ({
+  id: changeId(String(one + 1)),
+  pageTypeSlug: CHANGE_TYPE,
+  slug,
+  definition: "a mechanical change an indexed repository carries",
+  code: "ts",
+})
+
+const changeCode = (slug: string): string => {
+  const at = join(import.meta.dir, CHANGE_CODE_AT, slug, `${slug}.${CHANGE_TYPE}.code.ts`)
+  return `export { runChange } from "${at}"\n`
+}
+
+function changesHeld(): Readonly<Record<string, string>> {
+  const found: Record<string, string> = {}
+  for (const [one, slug] of CHANGE_SLUGS.entries()) {
+    found[`${TREE}/changes/${slug}.${CHANGE_TYPE}.ts`] = pageOf(changePage(slug, one))
+    found[`${TREE}/changes/${slug}.${CHANGE_TYPE}.code.ts`] = changeCode(slug)
+  }
+  return found
+}
+
 const modulePage = (slug: string, id: string): Held => ({
   id,
   pageTypeSlug: "module",
@@ -269,6 +300,7 @@ const modulePage = (slug: string, id: string): Held => ({
 
 const REPO: Readonly<Record<string, string>> = {
   ...Object.fromEntries(REPO_VOCABULARY.map(([at, value]) => [`${TREE}/${at}`, bodyOf(value)])),
+  ...changesHeld(),
   [HELD_PAGE]: pageOf(modulePage("held", idOf("8"))),
   [NAMER_PAGE]: pageOf({
     ...modulePage("namer", idOf("9")),
