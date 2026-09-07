@@ -56,6 +56,10 @@ export const addressMapping = {
       statement: "A generator that throws leaves a stale map for the typecheck to refuse.",
     },
     {
+      invariantKind: "departure",
+      statement: "A shadow that will not cast is said rather than passed over.",
+    },
+    {
       invariantKind: "absence",
       statement: "No change a command line reaches is in the map.",
     },

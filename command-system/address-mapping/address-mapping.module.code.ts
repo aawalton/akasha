@@ -133,7 +133,9 @@ export function mappedFor(root: string, changes: readonly FileEdit[]): Mapped {
   try {
     const change = changeOf(root, { base: baseOf(root), edits: changes })
     const cast = shadowFor(change)
-    if ("refused" in cast) return NOTHING_MAPPED
+    if ("refused" in cast) {
+      return { edits: [], said: [`no address map was written again — ${cast.refused}`] }
+    }
     return mappedOver(root, cast.shadow, textOver(root, change), new Set(change.changed))
   } catch (thrown) {
     return {
