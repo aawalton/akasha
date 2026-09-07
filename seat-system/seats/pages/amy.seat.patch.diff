@@ -1,15 +1,3 @@
-diff --git a/pages/service/page-composing/page-composing.module.code.ts b/pages/service/page-composing/page-composing.module.code.ts
-index 5177a294987f313506cef24c59371b8c14ecfcd0..61ace839f810263209be1a2137d5e11068167bdc 100644
---- a/pages/service/page-composing/page-composing.module.code.ts
-+++ b/pages/service/page-composing/page-composing.module.code.ts
-@@ -221,6 +221,7 @@ export function composedFor(root: string, named: Naming): Composed {
-       outside[one.key] = value
-       continue
-     }
-+    if (named.merge === true && stated && value === null) continue
-     if (bodied) {
-       const heldAs = filedBy === undefined ? undefined : filedBy.get(one.propertySlug)
-       const refused = bodyRefused(one.key, one.pageTypeSlug, heldAs, value)
 diff --git a/pages/service/page-composing/page-composing.module.ts b/pages/service/page-composing/page-composing.module.ts
 index 027f7e3cb024cfa92bced384a9b4c5ebcbe6d5df..2a2e7c9196b469b8d0faaae0ea0a8a22284f4e7e 100644
 --- a/pages/service/page-composing/page-composing.module.ts
