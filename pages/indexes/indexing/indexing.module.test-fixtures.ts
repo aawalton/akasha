@@ -5,8 +5,10 @@ import { said as git } from "@akasha/git/git-running"
 import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
 import { exportedAs } from "@akasha/pages/page-export-name"
+import { valueAt } from "@akasha/pages/page-value"
 import { declaringUnder } from "@akasha/testing-system/declaring"
-import { indexingAt, rebuiltWhole } from "./indexing.module.code.ts"
+import { readingAt } from "../surface/index-surface.module.code.ts"
+import { indexingAt, rebuiltWhole, settlingOver } from "./indexing.module.code.ts"
 
 export type Held = Record<string, unknown>
 
@@ -190,6 +192,48 @@ export function grounded(): Pair {
   }
   indexing.settle()
   return { tree, root }
+}
+
+export function aWrittenWorld(): Pair {
+  const { tree, root } = bare()
+  const indexing = indexingAt(root, tree)
+  for (const [at, value] of VOCABULARY)
+    indexing.wrote(put(tree, at, bodyOf(value)), bodyOf(value), null)
+  const b = { id: B, pageTypeSlug: "domain", slug: "b" }
+  const a = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", partSlugs: ["domain/b"] }
+  indexing.wrote(put(tree, "b.domain.ts", bodyOf(b)), bodyOf(b), null)
+  indexing.wrote(put(tree, "deep/a.module.ts", bodyOf(a)), bodyOf(a), null)
+  const seen = 'import { a } from "./a.module.ts"\n'
+  indexing.wrote(put(tree, "deep/a.module.code.ts", seen), seen, null)
+  indexing.settle()
+  return { tree, root }
+}
+
+export function aWorldDeclaringNoUnique(): Pair {
+  const held = { tree: heldAt(), root: heldAt() }
+  for (const [at, value] of [
+    aType("9", "text-property", ["page-property"]),
+    aProperty("8", "note", "text-property"),
+  ])
+    put(held.tree, at, bodyOf(value))
+  return held
+}
+
+export function aWorldDeclaringNothing(): Pair {
+  const held = { tree: heldAt(), root: heldAt() }
+  put(held.tree, "domain.page-type.ts", bodyOf(aType("1", "domain", ["page"])[1]))
+  put(held.tree, "a.domain.ts", bodyOf({ id: A, pageTypeSlug: "domain", slug: "a" }))
+  return held
+}
+
+export function reachRespelled(named: "id" | "slug", unique: string): readonly string[] {
+  const { tree, root } = grounded()
+  const page: Held = named === "id" ? idPage : slugPage
+  const at = join(tree, `${named}.text-property.ts`)
+  const moving = [{ path: at, before: bodyOf(page), after: bodyOf({ ...page, unique }) }]
+  return settlingOver(readingAt(root), tree, moving, (path) => valueAt(path, tree)).filings.map(
+    (one) => one.at
+  )
 }
 
 export const aTarget = (slug: string): Named => thePage({ id: D, pageTypeSlug: "domain", slug })

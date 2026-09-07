@@ -9,6 +9,9 @@ import {
   aSource,
   aTarget,
   aType,
+  aWorldDeclaringNothing,
+  aWorldDeclaringNoUnique,
+  aWrittenWorld,
   B,
   BLAND,
   BLAND_CODE,
@@ -29,6 +32,7 @@ import {
   namingAType,
   pathFile,
   put,
+  reachRespelled,
   renamed,
   retyped,
   said,
@@ -39,7 +43,6 @@ import {
   TYPE_SLUG,
   thePage,
   tookAway,
-  VOCABULARY,
   writingTo,
   wrotePages,
   wroteText,
@@ -272,17 +275,7 @@ test("a bare value narrowing to more than one page is refused rather than resolv
 })
 
 test("a rebuild from the pages agrees with the index a write left", () => {
-  const { tree, root: landed } = bare()
-  const indexing = indexingAt(landed, tree)
-  for (const [at, value] of VOCABULARY)
-    indexing.wrote(put(tree, at, bodyOf(value)), bodyOf(value), null)
-  const b = { id: B, pageTypeSlug: "domain", slug: "b" }
-  const a = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", partSlugs: ["domain/b"] }
-  indexing.wrote(put(tree, "b.domain.ts", bodyOf(b)), bodyOf(b), null)
-  indexing.wrote(put(tree, "deep/a.module.ts", bodyOf(a)), bodyOf(a), null)
-  const seen = 'import { a } from "./a.module.ts"\n'
-  indexing.wrote(put(tree, "deep/a.module.code.ts", seen), seen, null)
-  indexing.settle()
+  const { tree, root: landed } = aWrittenWorld()
   expect(existsSync(importFile(landed, "deep/a.module.ts"))).toBe(true)
 
   const rebuilt = heldAt()
@@ -293,13 +286,7 @@ test("a rebuild from the pages agrees with the index a write left", () => {
 })
 
 test("pages carrying no property that declares a unique are refused rather than filed empty", () => {
-  const tree = heldAt()
-  const root = heldAt()
-  for (const [at, value] of [
-    aType("9", "text-property", ["page-property"]),
-    aProperty("8", "note", "text-property"),
-  ])
-    put(tree, at, bodyOf(value))
+  const { tree, root } = aWorldDeclaringNoUnique()
 
   expect(() => rebuiltFrom(tree, root, tree)).toThrow("no property carrying a `unique`")
 })
@@ -316,10 +303,7 @@ test("a settle over pages declaring no unique is refused rather than filed empty
 })
 
 test("a world carrying a page and declaring no property at all is refused", () => {
-  const tree = heldAt()
-  const root = heldAt()
-  put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", ["page"])[1]))
-  put(tree, "a.domain.ts", bodyOf({ id: A, pageTypeSlug: "domain", slug: "a" }))
+  const { tree, root } = aWorldDeclaringNothing()
 
   expect(() => rebuiltFrom(tree, root, tree)).toThrow("no property carrying a `unique`")
 })
@@ -399,4 +383,12 @@ test("a path the index stores is relative to the repository root", () => {
   for (const line of held) {
     expect((JSON.parse(line) as { path: string }).path.startsWith("/")).toBe(false)
   }
+})
+
+test("a reach respelled to the scope it already named files nothing for a page left alone", () => {
+  const elsewhere = (found: readonly string[]): boolean =>
+    found.some((one) => one.includes(join("identity", "domain", "slug")))
+
+  expect(elsewhere(reachRespelled("id", "page"))).toBe(false)
+  expect(elsewhere(reachRespelled("slug", "always"))).toBe(true)
 })
