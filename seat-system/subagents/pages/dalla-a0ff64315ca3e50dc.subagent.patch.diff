@@ -1,0 +1,97 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts b/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts
+index 27d82c086c4319a3848f9f001372c0dd8b1c8085..2ff8db4f26db906e475ddf4bb86d7a935054311e 100644
+--- a/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts
++++ b/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts
+@@ -1,12 +1,8 @@
+ import { parsedAs } from "@akasha/code/code-source"
+ import { placingOver, readingOf, typingOver } from "@akasha/code/code-typing"
+ import ts from "typescript"
+-import {
+-  answered,
+-  refusing,
+-  writing,
+-} from "../../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
++import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
++import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
+ import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
+ 
+@@ -62,7 +58,7 @@ function requiredIn(world: World, given: RemovePropertyValueAsked): boolean | nu
+   return found === undefined ? false : (found.flags & ts.SymbolFlags.Optional) === 0
+ }
+ 
+-export function removePropertyValue(world: World, given: RemovePropertyValueAsked): Answer {
++export function removePropertyValue(world: World, given: RemovePropertyValueAsked): Said {
+   const text = world.textOf(given.at)
+   if (text === null) return refusing(`\`${given.at}\` could not be read`)
+   const source = parsedAs(given.at, text)
+@@ -84,7 +80,7 @@ export function removePropertyValue(world: World, given: RemovePropertyValueAske
+     )
+     if (found < 0) return refusing(`\`${given.key}\` holds no \`${given.value}\``)
+     const body = without(text, source, holding, holding.elements, found)
+-    return answered([writing(given.at, text, body)])
++    return stating([{ kind: "replace", path: given.at, contentFrom: text, contentTo: body }])
+   }
+   if (!ts.isStringLiteral(holding) || holding.text !== given.value) {
+     return refusing(`\`${given.key}\` holds no \`${given.value}\``)
+@@ -96,9 +92,10 @@ export function removePropertyValue(world: World, given: RemovePropertyValueAske
+   if (required) {
+     return refusing(`\`${given.key}\` is required, so taking \`${given.value}\` away is a retype`)
+   }
+-  return answered([writing(given.at, text, without(text, source, owner, owner.properties, at))])
++  const left = without(text, source, owner, owner.properties, at)
++  return stating([{ kind: "replace", path: given.at, contentFrom: text, contentTo: left }])
+ }
+ 
+-export function runChange(world: World, given: RemovePropertyValueAsked): Answer {
++export function runChange(world: World, given: RemovePropertyValueAsked): Said {
+   return removePropertyValue(world, given)
+ }
+diff --git a/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.test.ts b/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.test.ts
+index b3e1fcafbd48daf3e241f91aea1d36a1e7c0f7d1..a6a8340f96d8601b904a030319c5a128a342903b 100644
+--- a/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.test.ts
++++ b/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.test.ts
+@@ -1,4 +1,5 @@
+ import { expect, test } from "bun:test"
++import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+ import { worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+@@ -40,7 +41,8 @@ function holding(body: string): (path: string) => string | null {
+ }
+ 
+ function saidOf(key: string, value: string, textOf: (path: string) => string | null): Answer {
+-  return removePropertyValue(worldAt(ROOT, textOf), { at: PAGE, key, value })
++  const world = worldAt(ROOT, textOf)
++  return widened(removePropertyValue(world, { at: PAGE, key, value }), world.textOf)
+ }
+ 
+ function whyOf(key: string, value: string, textOf: (path: string) => string | null): string {
+diff --git a/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts b/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts
+index e1f0bccecba389b8c8aeaf560e4ffe83bf60d9f4..c7eb95ad1c85cabe29e5d85117024c1726c73aeb 100644
+--- a/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts
++++ b/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts
+@@ -53,7 +53,7 @@ const RUNS: Reaching = (world, at, given) => {
+     return Promise.resolve(widened(removeFile(world, given as { at: string }), world.textOf))
+   }
+   if (at === REMOVE_PROPERTY_VALUE) {
+-    return Promise.resolve(removePropertyValue(world, given as Unnaming))
++    return Promise.resolve(widened(removePropertyValue(world, given as Unnaming), world.textOf))
+   }
+   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+ }
+diff --git a/changes/mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.test.ts b/changes/mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.test.ts
+index cfa5f2a857fcc19abd9e72d982130868daf30f8b..261667e165e815d5809805cd6ea934da2a7dbd37 100644
+--- a/changes/mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.test.ts
++++ b/changes/mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.test.ts
+@@ -44,7 +44,7 @@ const RUNS: Reaching = (world, at, given) => {
+     return Promise.resolve(widened(removeFile(world, given as { at: string }), world.textOf))
+   }
+   if (at === "change-mechanical-file-content/remove-property-value") {
+-    return Promise.resolve(removePropertyValue(world, given as Unnaming))
++    return Promise.resolve(widened(removePropertyValue(world, given as Unnaming), world.textOf))
+   }
+   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+ }
