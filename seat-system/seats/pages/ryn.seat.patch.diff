@@ -1,0 +1,13 @@
+diff --git a/email-watch/inbox-watching/inbox-watching.module.ts b/email-watch/inbox-watching/inbox-watching.module.ts
+index 3880736ccd4258accac556ca06f49a6abea47a06..ca9eb70923f0e802c2e3c0e55e993f641d553d96 100644
+--- a/email-watch/inbox-watching/inbox-watching.module.ts
++++ b/email-watch/inbox-watching/inbox-watching.module.ts
+@@ -27,7 +27,7 @@ export const inboxWatching = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A pass that acted on nothing, and found nothing waiting and nothing unclaimed, says nothing.",
++        "A pass that acted on nothing and found nothing waiting and nothing unclaimed says nothing.",
+     },
+     {
+       invariantKind: "departure",
