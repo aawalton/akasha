@@ -4,7 +4,7 @@ export const aCapacitorManifestCannotNameThePluginsItInstalls = {
   id: "01a0657e-994b-7691-a021-58c3ded0198a",
   pageTypeSlug: "finding",
   slug: "a-capacitor-manifest-cannot-name-the-plugins-it-installs",
-  domainSlug: "domain/code",
+  domainSlug: "workspace-package/code-system",
   claim:
     "`manifest-names-what-is-reached` refuses every Capacitor dependency a shell package names, because nothing in such a package imports them: `cap sync` reads them from the manifest. atlas landed with its dependency block removed to get in at all, and the block is held here so it is not lost.",
   evidence:
