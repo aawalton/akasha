@@ -35,7 +35,7 @@ export const inboxPass = {
     {
       invariantKind: "departure",
       statement:
-        "A tally counts the messages examined, acted on, waiting on an agent, and claimed by no rule.",
+        "A tally counts the messages examined and acted on and waiting on an agent and claimed by no rule.",
     },
     {
       invariantKind: "absence",
