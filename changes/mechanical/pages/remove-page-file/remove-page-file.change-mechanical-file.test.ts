@@ -409,5 +409,5 @@ test("a page whose test imports the code beside that page is taken away whole", 
   const said = guardedBy(world, answer, [relationNotLeftHanging, claimedFileNotLeftBehind])
 
   expect(said.refused).toBe(null)
-  expect(said.edits.map((one) => one.path).sort()).toEqual([PAIR_CODE, PAIR_PAGE, PAIR_TEST])
+  expect(said.edits.map((one) => one.path).sort()).toEqual([PAIR_CODE, PAIR_TEST, PAIR_PAGE])
 })
