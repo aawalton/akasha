@@ -1,15 +1,18 @@
 writerOwesReading: false
 diff --git a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.code.ts b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.code.ts
-index e73e8d19cf1f31d59794f1230daf785ed1d0c62c..7c0c7fa608723bc3cf970b39ee635c4829af895d 100644
+index cd7c8ed5acfc3d8ed23045cd66a6870b911ddcd9..6a09cf0ca96f1b9d53bf615ed0047302e33a4611 100644
 --- a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.code.ts
 +++ b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.code.ts
-@@ -1,6 +1,14 @@
+@@ -1,6 +1,18 @@
  import { dirname, join } from "node:path"
  import type { Answering } from "@akasha/indexes/answering"
--import { type FilePropertiesBy, pathsOf } from "@akasha/indexes/entries"
++<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +import { type FilePropertiesBy, filesClaimedIn } from "@akasha/indexes/entries"
++=======
+ import { type FilePropertiesBy, filesClaimedIn, type UncommittedBy } from "@akasha/indexes/entries"
++>>>>>>> what HEAD holds
 +=======
 +import { type FilePropertiesBy, filesClaimedIn, type UncommittedBy } from "@akasha/indexes/entries"
 +>>>>>>> what HEAD holds
@@ -19,22 +22,11 @@ index e73e8d19cf1f31d59794f1230daf785ed1d0c62c..7c0c7fa608723bc3cf970b39ee635c48
  import type { Change } from "@akasha/pages/change"
  import { pageNamed } from "@akasha/pages/page-file-name"
  import { valueIn } from "@akasha/pages/page-value"
-@@ -55,19 +63,29 @@ export function missingFor(
-   change: Change,
-   page: string,
-   fileProperties: ReadonlyMap<string, string | null>,
--  filedBy: FilePropertiesBy
-+  filedBy: FilePropertiesBy,
-+  withheld: UncommittedBy
- ): readonly Judged[] {
-   const bytes = change.after(page)
-   if (bytes === null) return []
+@@ -63,7 +75,19 @@ export function missingFor(
    const value = valueIn(bodyOf({ root: change.root, path: page, bytes }))
    if (value === null) return []
    const said: Judged[] = []
--  for (const one of pathsOf(value, page, change.root, filedBy)) {
--    if (one === page) continue
--    if (change.after(one) !== null) continue
++<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +  for (const one of filesClaimedIn(value, page, change.root, filedBy)) {
@@ -44,141 +36,72 @@ index e73e8d19cf1f31d59794f1230daf785ed1d0c62c..7c0c7fa608723bc3cf970b39ee635c48
 +=======
 +  for (const one of filesClaimedIn(value, page, change.root, filedBy, withheld)) {
 +>>>>>>> what HEAD holds
-+    if (one.at === page) continue
-+    if (one.uncommitted) continue
-+    if (change.after(one.at) !== null) continue
-     said.push({
-       path: page,
--      reason: `states ${statedBy(page, one, fileProperties)}, and no file stands at ${one}`,
-+      reason: `states ${statedBy(page, one.at, fileProperties)}, and no file stands at ${one.at}`,
-     })
-   }
-   return said
-@@ -77,9 +95,10 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-   const pageTypes = shadow.index.pageTypesIn()
-   const fileProperties = shadow.index.fileKeysAt()
-   const filedBy = shadow.index.filePropertiesAt()
-+  const withheld = shadow.index.uncommittedFiledAt()
-   const said: Judged[] = []
-   for (const page of pagesTouchedBy(change, pageTypes, shadow.index)) {
--    said.push(...missingFor(change, page, fileProperties, filedBy))
-+    said.push(...missingFor(change, page, fileProperties, filedBy, withheld))
-   }
-   return said
- }
++=======
+   for (const one of filesClaimedIn(value, page, change.root, filedBy, withheld)) {
++>>>>>>> what HEAD holds
+     if (one.at === page) continue
+     if (one.uncommitted) continue
+     if (change.after(one.at) !== null) continue
 diff --git a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts
-index 9b4213dd4bbbdb2e54d21dd49ae8f4c3d9b5e27c..ff466b9ac7913095a7519f20f23f823ec12738e1 100644
+index c1b9df39c0ad30c45219a50e2126847553898245..1bec4e5fbfb62976e212df6eba0d0211ad088b34 100644
 --- a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts
 +++ b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts
-@@ -173,6 +173,52 @@ test("a page named for a page type the change itself carries is judged", () => {
-   ])
- })
+@@ -190,7 +190,19 @@ function oddly(stated: string): Record<string, Uint8Array | null> {
+   }
+ }
  
-+const DECLARES_CODE_UNCOMMITTED =
-+  ', properties: [{ pagePropertySlug: "code", required: false, many: false, uncommitted: true }]'
-+
-+const ODDITY = "akasha/x/oddity.page-type.ts"
-+
-+const ODD_PAGE = "akasha/b/new.oddity.ts"
-+
-+const ODD_CODE = "akasha/b/new.oddity.code.ts"
-+
-+function oddly(stated: string): Record<string, Uint8Array | null> {
-+  return {
-+    [ODDITY]: body(stated, "oddity", "page-type", `${ID.slice(0, -1)}5`),
-+    [ODD_PAGE]: body(', code: "ts"', "new", "oddity", `${ID.slice(0, -1)}6`),
-+    [ODD_CODE]: null,
-+  }
-+}
-+
++<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +test("a page stating a file its type declares uncommitted is let through though nothing stands there", () => {
 +=======
+ test("a page stating a file its type declares uncommitted is let through though nothing is there", () => {
++>>>>>>> what HEAD holds
++=======
 +test("a page stating a file its type declares uncommitted is let through though nothing is there", () => {
 +>>>>>>> what HEAD holds
 +=======
 +test("a page stating a file its type declares uncommitted is let through though nothing is there", () => {
 +>>>>>>> what HEAD holds
-+  const root = rooted()
-+
-+  expect(judged(over(root, [ODDITY, ODD_PAGE], oddly(DECLARES_CODE_UNCOMMITTED)))).toEqual([])
-+})
-+
-+test("that same property is still asked for its file under a page type declaring it committed", () => {
-+  const root = rooted()
-+  const said = judged(
-+    over(root, [ODDITY, ODD_PAGE, PAGE], {
-+      ...oddly(DECLARES_CODE_UNCOMMITTED),
-+      [PAGE]: body(', code: "ts"'),
-+      [CODE]: null,
-+    })
-+  )
-+
-+  expect(said).toEqual([
-+    { path: PAGE, reason: `states \`code: "ts"\`, and no file stands at ${CODE}` },
-+  ])
-+})
-+
- test("a file property the change itself introduces is asked for its file", () => {
-   const root = rooted(["code"], ["code", "notes"])
-   const property = "akasha/x/notes.file-property.ts"
+   const root = rooted()
+ 
+   expect(judged(over(root, [ODDITY, ODD_PAGE], oddly(DECLARES_CODE_UNCOMMITTED)))).toEqual([])
 diff --git a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
-index f9fe81b28b29ae61d51bc0e2fe5282e7e4b13acc..5aa57879c833108250d9dae0110eef192c2edec1 100644
+index ec2d67e7737dd2b34b7ffc7fcd85eb3aac02353a..8bc62db037a42ecd882de2bf360cc3c42916082b 100644
 --- a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
 +++ b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
-@@ -38,6 +38,23 @@ export const pagePropertyHasItsFile = {
+@@ -45,7 +45,19 @@ export const pagePropertyHasItsFile = {
+     {
+       invariantKind: "departure",
        statement:
-         "The body standing at a path the change does not name is answered by the base commit.",
-     },
-+    {
-+      invariantKind: "departure",
-+      statement: "A file the declaration claiming that file states uncommitted is passed over.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement:
++<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +        "Whether a declaration states that is read from the page's own type rather than from the property.",
 +=======
+         "Which declaration claims a file is read from the page's own type rather than from the property.",
++>>>>>>> what HEAD holds
++=======
 +        "Which declaration claims a file is read from the page's own type rather than from the property.",
 +>>>>>>> what HEAD holds
 +=======
 +        "Which declaration claims a file is read from the page's own type rather than from the property.",
 +>>>>>>> what HEAD holds
-+    },
+     },
      {
        invariantKind: "departure",
-       statement: "A page named for a page type the change itself carries is judged.",
-diff --git a/pages/indexes/answering/index-answering.module.code.ts b/pages/indexes/answering/index-answering.module.code.ts
-index 733e3bff99134dabad6c0c22df4f67f5913c41e7..39b232ef1dfa1201ed490095aa7f903b8a3cc490 100644
---- a/pages/indexes/answering/index-answering.module.code.ts
-+++ b/pages/indexes/answering/index-answering.module.code.ts
-@@ -20,6 +20,8 @@ import {
-   type SidecarsBy,
-   schemaAt,
-   sidecarsOver,
-+  type UncommittedBy,
-+  uncommittedFiledAt,
- } from "../entries/index-entries.module.code.ts"
- import { manifestsBeside } from "../package-reaching/package-reaching.module.code.ts"
- import {
-@@ -88,6 +90,7 @@ export type Answering = {
-   readonly sourceIn: () => Source
-   readonly typeSlugById: (id: string) => string | null
-   readonly typeSlugOf: (id: string) => string
-+  readonly uncommittedFiledAt: () => UncommittedBy
- }
- 
- function heldOnce<T>(asked: () => T): () => T {
-@@ -132,5 +135,6 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
-     sourceIn: heldOnce(() => sourceIn(reading, pageOf)),
-     typeSlugById: (id) => typeSlugById(reading, id),
-     typeSlugOf: (id) => typeSlugOf(reading, id),
-+    uncommittedFiledAt: heldOnce(() => uncommittedFiledAt(reading)),
-   }
- }
+diff --git a/package.json b/package.json
+index fd7d6b6caee5e0f56fbecf036a1dd09655692433..a26a3433eae91fd7891a0482747b014cf80f7bac 100644
+--- a/package.json
++++ b/package.json
+@@ -6,7 +6,6 @@
+     "**"
+   ],
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/analysis-complexity": "workspace:*",
+     "@akasha/browser-launch-env": "workspace:*",
+     "@akasha/browser-test-harness": "workspace:*",
 diff --git a/pages/indexes/beside-turning/beside-turning.module.code.ts b/pages/indexes/beside-turning/beside-turning.module.code.ts
 index 228b6fdca05b29c61ad78576aa561c3a9a40d098..45ed4b60a76fd8fe3a7fa59616de041f81fd581a 100644
 --- a/pages/indexes/beside-turning/beside-turning.module.code.ts
@@ -207,47 +130,34 @@ index 228b6fdca05b29c61ad78576aa561c3a9a40d098..45ed4b60a76fd8fe3a7fa59616de041f
      held?.uncommitted === true,
      beside.sort(),
 diff --git a/pages/indexes/entries/index-entries.module.code.ts b/pages/indexes/entries/index-entries.module.code.ts
-index a470cd6747317a0ec04b0ea20e84670634095a43..0b01a5349cdea12b53b01fef4f400272f67b8e2d 100644
+index 939e1d26a7aa41816d35962559f2be974acf98ce..f4d22c58b752e38dad008468b9c834f3a592db73 100644
 --- a/pages/indexes/entries/index-entries.module.code.ts
 +++ b/pages/indexes/entries/index-entries.module.code.ts
-@@ -10,7 +10,7 @@ import {
-   typeValuesIn,
- } from "../../types/gathering/page-type-gathering.module.code.ts"
- import { indexIdentity } from "../identity/index-identity.index.ts"
--import { answered, readingIn, valuesOfType } from "../reading/index-reading.module.code.ts"
-+import { answered, readingIn } from "../reading/index-reading.module.code.ts"
- import { indexSchema } from "../schema/index-schema.index.ts"
- import type { Reading } from "../shape/index-shape.module.code.ts"
- 
-@@ -34,8 +34,6 @@ export type Schema = {
-   readonly fileName: string | null
- }
- 
--// A page type is a page of any type reaching `page-type` by extending, so the slugs are read out of
--// the identity each of those types keeps rather than out of `page-type` alone.
- export function pageTypesIn(given: string | Reading): ReadonlySet<string> {
-   const found = new Set<string>([PAGE_TYPE])
-   for (const one of typeSlugsIn(given)) {
-@@ -75,31 +73,106 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string
+@@ -73,17 +73,46 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string
  
  export type IsThere = (at: string) => boolean
  
--export function pathsOf(
++<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +=======
-+export type UncommittedBy = ReadonlyMap<string, ReadonlySet<string>>
-+
+ export type UncommittedBy = ReadonlyMap<string, ReadonlySet<string>>
+ 
 +>>>>>>> what HEAD holds
 +=======
 +export type UncommittedBy = ReadonlyMap<string, ReadonlySet<string>>
 +
 +>>>>>>> what HEAD holds
-+export type Claimed = {
-+  readonly at: string
-+  readonly uncommitted: boolean
-+}
++=======
++export type UncommittedBy = ReadonlyMap<string, ReadonlySet<string>>
 +
++>>>>>>> what HEAD holds
+ export type Claimed = {
+   readonly at: string
+   readonly uncommitted: boolean
+ }
+ 
++<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +=======
@@ -257,26 +167,27 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..0b01a5349cdea12b53b01fef4f400272
 +
 +>>>>>>> what HEAD holds
 +=======
-+const NO_SLUGS: ReadonlySet<string> = new Set()
-+
-+const NONE_WITHHELD: UncommittedBy = new Map()
-+
++=======
 +>>>>>>> what HEAD holds
-+export function filesClaimedIn(
+ const NO_SLUGS: ReadonlySet<string> = new Set()
+ 
+ const NONE_WITHHELD: UncommittedBy = new Map()
+ 
++<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
++=======
++>>>>>>> what HEAD holds
+ export function filesClaimedIn(
    value: Value,
    path: string,
-   repo: string,
-   fileProperties: FilePropertiesBy,
-+  withheld: UncommittedBy,
-   there: IsThere = () => false
--): readonly string[] {
-+): readonly Claimed[] {
+@@ -94,18 +123,49 @@ export function filesClaimedIn(
+ ): readonly Claimed[] {
    const own = under(repo, path)
--  const found = [own]
-+  const found: Claimed[] = [{ at: own, uncommitted: false }]
+   const found: Claimed[] = [{ at: own, uncommitted: false }]
 +<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
-   const carried = fileProperties.get(textAt(value, "pageTypeSlug") ?? "")
++<<<<<<< what this change would leave
++  const carried = fileProperties.get(textAt(value, "pageTypeSlug") ?? "")
 +=======
 +  const pageTypeSlug = textAt(value, "pageTypeSlug") ?? ""
 +  const carried = fileProperties.get(pageTypeSlug)
@@ -284,10 +195,15 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..0b01a5349cdea12b53b01fef4f400272
 +  if (carried === undefined) return found
 +  const outside = withheld.get(pageTypeSlug) ?? NO_SLUGS
 +=======
-+  const type = textAt(value, "pageTypeSlug") ?? ""
-+  const carried = fileProperties.get(type)
++=======
++>>>>>>> what HEAD holds
+   const type = textAt(value, "pageTypeSlug") ?? ""
+   const carried = fileProperties.get(type)
    if (carried === undefined) return found
-+  const outside = withheld.get(type) ?? NO_SLUGS
+   const outside = withheld.get(type) ?? NO_SLUGS
++<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
++=======
 +>>>>>>> what HEAD holds
    for (const [key, held] of Object.entries(value)) {
      if (typeof held !== "string") continue
@@ -300,30 +216,25 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..0b01a5349cdea12b53b01fef4f400272
 +      found.push({ at: join(dirname(own), filed.fileName), uncommitted })
 +=======
      if (!carried.has(propertySlug)) continue
-+    const uncommitted = outside.has(propertySlug)
+     const uncommitted = outside.has(propertySlug)
      const fileName = carried.get(propertySlug) ?? null
      if (fileName !== null) {
--      found.push(join(dirname(own), fileName))
-+      found.push({ at: join(dirname(own), fileName), uncommitted })
+       found.push({ at: join(dirname(own), fileName), uncommitted })
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
++=======
 +>>>>>>> what HEAD holds
 +=======
 +>>>>>>> what HEAD holds
        continue
      }
--    found.push(...partsOf(own, propertySlug, held, there))
-+    for (const at of partsOf(own, propertySlug, held, there)) found.push({ at, uncommitted })
-   }
-   return found
- }
- 
-+export function pathsOf(
-+  value: Value,
-+  path: string,
-+  repo: string,
-+  fileProperties: FilePropertiesBy,
-+  there: IsThere = () => false
-+): readonly string[] {
+     for (const at of partsOf(own, propertySlug, held, there)) found.push({ at, uncommitted })
+@@ -120,8 +180,22 @@ export function pathsOf(
+   fileProperties: FilePropertiesBy,
+   there: IsThere = () => false
+ ): readonly string[] {
++<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +  return filesClaimedIn(value, path, repo, fileProperties, there).map((one) => one.at)
@@ -335,30 +246,14 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..0b01a5349cdea12b53b01fef4f400272
 +  const found = filesClaimedIn(value, path, repo, fileProperties, NONE_WITHHELD, there)
 +  return found.map((one) => one.at)
 +>>>>>>> what HEAD holds
-+}
-+
++=======
+   const found = filesClaimedIn(value, path, repo, fileProperties, NONE_WITHHELD, there)
+   return found.map((one) => one.at)
++>>>>>>> what HEAD holds
+ }
+ 
  export type Beside = {
-   readonly held: string
-   readonly uncommitted: boolean
-@@ -123,6 +196,8 @@ const EXTENDS = "extendsSlug"
- 
- const FALLBACK = "default"
- 
-+const WITHHELD = "uncommitted"
-+
- function declaredIn(value: Value): Sidecars {
-   let secret = false
-   let uncommitted = false
-@@ -132,7 +207,7 @@ function declaredIn(value: Value): Sidecars {
-   for (const one of declared) {
-     if (one === null || typeof one !== "object" || Array.isArray(one)) continue
-     const held = one as Record<string, unknown>
--    const withheld = held["uncommitted"] === true
-+    const withheld = held[WITHHELD] === true
-     if (held["secret"] === true) secret = true
-     if (withheld) uncommitted = true
-     const slug = held[DECLARES]
-@@ -217,7 +292,7 @@ export function claimsOf(
+@@ -243,7 +317,7 @@ export function claimsOf(
      if (beside !== null) found.push(beside)
    }
    for (const [slug, beside] of held.besides) {
@@ -367,7 +262,7 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..0b01a5349cdea12b53b01fef4f400272
      for (const at of besidesOf(own, slug, beside, there)) {
        if (!found.includes(at)) found.push(at)
      }
-@@ -269,7 +344,12 @@ export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string
+@@ -295,7 +369,12 @@ export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string
    })
  }
  
@@ -381,31 +276,27 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..0b01a5349cdea12b53b01fef4f400272
  
  type Held = {
    readonly pageTypeSlug: string
-@@ -299,19 +379,42 @@ function propertiesAmong(values: Iterable<Value>): ReadonlyMap<string, Held> {
+@@ -325,7 +404,15 @@ function propertiesAmong(values: Iterable<Value>): ReadonlyMap<string, Held> {
    return found
  }
  
++<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +export type Carrying = {
 +=======
 +type Carrying = {
 +>>>>>>> what HEAD holds
-+  readonly filed: FilePropertiesBy
-+  readonly withheld: UncommittedBy
-+}
-+
- function carriedBy(
-   properties: ReadonlyMap<string, Held>,
-   types: ReadonlyMap<string, Value>
--): FilePropertiesBy {
-+): Carrying {
-   const bare = bareAmong(properties)
-   const above = new Map<string, readonly string[]>()
-   for (const [slug, value] of types) {
++=======
+ type Carrying = {
++>>>>>>> what HEAD holds
+   readonly filed: FilePropertiesBy
+   readonly withheld: UncommittedBy
+ }
+@@ -340,11 +427,29 @@ function carriedBy(
      const up = slugsIn(value[EXTENDS])
      if (up.length > 0) above.set(slug, up)
    }
--  const found = new Map<string, ReadonlyMap<string, string | null>>()
++<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +  const found = new Map<string, ReadonlyMap<string, Filed>>()
@@ -414,31 +305,28 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..0b01a5349cdea12b53b01fef4f400272
 +=======
 +=======
 +>>>>>>> what HEAD holds
-+  const filed = new Map<string, ReadonlyMap<string, string | null>>()
-+  const withheld = new Map<string, ReadonlySet<string>>()
++=======
++>>>>>>> what HEAD holds
+   const filed = new Map<string, ReadonlyMap<string, string | null>>()
+   const withheld = new Map<string, ReadonlySet<string>>()
    for (const slug of types.keys()) {
      const held = new Map<string, string | null>()
-+    const outside = new Set<string>()
+     const outside = new Set<string>()
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
++=======
 +>>>>>>> what HEAD holds
 +=======
 +>>>>>>> what HEAD holds
      const walked = new Set<string>()
      const waiting: string[] = [slug]
      for (let at = 0; at < waiting.length; at += 1) {
-@@ -321,38 +424,54 @@ function carriedBy(
-       const declared = types.get(here)?.[DECLARED]
-       for (const one of Array.isArray(declared) ? declared : []) {
-         if (one === null || typeof one !== "object" || Array.isArray(one)) continue
--        const said = (one as Record<string, unknown>)[DECLARES]
-+        const stated = one as Record<string, unknown>
-+        const said = stated[DECLARES]
-         if (typeof said !== "string") continue
-         const hit = (said.includes("/") ? properties.get(said) : bare.get(said)) ?? null
+@@ -361,8 +466,25 @@ function carriedBy(
          if (hit === null) continue
          if (hit.fileName === null && !besides(hit.pageTypeSlug)) continue
--        if (!held.has(hit.propertySlug)) held.set(hit.propertySlug, hit.fileName)
-+        if (held.has(hit.propertySlug)) continue
+         if (held.has(hit.propertySlug)) continue
++<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +        held.set(hit.propertySlug, {
@@ -450,41 +338,27 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..0b01a5349cdea12b53b01fef4f400272
 +        if (stated[WITHHELD] === true) outside.add(hit.propertySlug)
 +>>>>>>> what HEAD holds
 +=======
+         held.set(hit.propertySlug, hit.fileName)
+         if (stated[WITHHELD] === true) outside.add(hit.propertySlug)
++>>>>>>> what HEAD holds
++=======
 +        held.set(hit.propertySlug, hit.fileName)
 +        if (stated[WITHHELD] === true) outside.add(hit.propertySlug)
 +>>>>>>> what HEAD holds
        }
        for (const up of [...(above.get(here) ?? [])].reverse()) waiting.push(up)
      }
--    found.set(slug, held)
-+    filed.set(slug, held)
-+    withheld.set(slug, outside)
-   }
--  return found
-+  return { filed, withheld }
- }
- 
- function filedAmong(given: string | Reading): ReadonlyMap<string, Held> {
--  const found = new Map<string, Held>()
--  for (const [named, held] of schemaAt(given)) {
--    const { pageTypeSlug, propertySlug, fileName } = held
--    found.set(named, { pageTypeSlug, propertySlug, fileName })
--  }
--  return found
-+  return schemaAt(given)
+@@ -376,12 +498,24 @@ function filedAmong(given: string | Reading): ReadonlyMap<string, Held> {
+   return schemaAt(given)
  }
  
 -export function filePropertiesIn(values: Iterable<Value>): FilePropertiesBy {
 +export function carryingIn(values: Iterable<Value>): Carrying {
    const held = [...values]
--  return carriedBy(propertiesAmong(held), typesAmong(held))
-+  return carriedBy(propertiesAmong(held), typesAmong(held)).filed
+   return carriedBy(propertiesAmong(held), typesAmong(held)).filed
  }
  
--export function filePropertiesOver(
--  given: string | Reading,
--  left: Iterable<Value>
--): FilePropertiesBy {
++<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +export function filePropertiesIn(values: Iterable<Value>): FilePropertiesBy {
 +  return carryingIn(values).filed
@@ -494,43 +368,28 @@ index a470cd6747317a0ec04b0ea20e84670634095a43..0b01a5349cdea12b53b01fef4f400272
 +=======
 +function carryingOver(given: string | Reading, left: Iterable<Value>): Carrying {
 +>>>>>>> what HEAD holds
++=======
+ function carryingOver(given: string | Reading, left: Iterable<Value>): Carrying {
++>>>>>>> what HEAD holds
    const held = [...left]
    const properties = new Map(filedAmong(given))
    for (const [named, one] of propertiesAmong(held)) properties.set(named, one)
-@@ -362,12 +481,31 @@ export function filePropertiesOver(
-   return carriedBy(properties, types)
+@@ -398,7 +532,15 @@ export function filePropertiesOver(
+   return carryingOver(given, left).filed
  }
  
--export function filePropertiesAt(given: string | Reading): FilePropertiesBy {
-+export function filePropertiesOver(
-+  given: string | Reading,
-+  left: Iterable<Value>
-+): FilePropertiesBy {
-+  return carryingOver(given, left).filed
-+}
-+
++<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +export function carryingAt(given: string | Reading): Carrying {
 +=======
 +function carryingAt(given: string | Reading): Carrying {
 +>>>>>>> what HEAD holds
++=======
+ function carryingAt(given: string | Reading): Carrying {
++>>>>>>> what HEAD holds
    return answered(given, "", "which properties each page type holds in a file", (reading) =>
--    filePropertiesOver(reading, [])
-+    carryingOver(reading, [])
+     carryingOver(reading, [])
    )
- }
- 
-+export function filePropertiesAt(given: string | Reading): FilePropertiesBy {
-+  return carryingAt(given).filed
-+}
-+
-+export function uncommittedFiledAt(given: string | Reading): UncommittedBy {
-+  return carryingAt(given).withheld
-+}
-+
- export function entryShapesAt(given: string | Reading): ReadonlySet<string> {
-   const found = new Set<string>()
-   for (const held of schemaAt(given).values()) {
 diff --git a/pages/indexes/entries/index-entries.module.test-fixtures.ts b/pages/indexes/entries/index-entries.module.test-fixtures.ts
 index fa88a0b684849a509fde0d9756d399d8aeb79843..5caf7555a7ff90ad017febcbe5b70c0f18af2eba 100644
 --- a/pages/indexes/entries/index-entries.module.test-fixtures.ts
@@ -630,33 +489,29 @@ index ed9c130850c1fa30a6f82475ce8dc4945e9dc716..0d0cbcb258f0237b923ec5ffcd78eb3c
  })
  
 diff --git a/pages/indexes/entries/index-entries.module.ts b/pages/indexes/entries/index-entries.module.ts
-index ba38991574aebbadec245d21adec3831ca0b647f..563ca152fa49948a4dd5e0b425a403ff498b0148 100644
+index b7f8d07f5c1cff6cfb803987fba568ea77eeb901..14ab75ed1f9973b5c1da6f9d0e4706ff64e2d1ca 100644
 --- a/pages/indexes/entries/index-entries.module.ts
 +++ b/pages/indexes/entries/index-entries.module.ts
-@@ -103,6 +103,23 @@ export const indexEntries = {
+@@ -106,7 +106,19 @@ export const indexEntries = {
+     {
+       invariantKind: "departure",
        statement:
-         "Which properties a page type holds in a file is answered under that page type alone.",
-     },
-+    {
-+      invariantKind: "departure",
-+      statement:
++<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +<<<<<<< what this change would leave
 +        "Whether a page type keeps a property's file outside the commit is answered beside that file's name.",
 +=======
+         "Which of those properties a page type keeps outside the commit is answered the same way.",
++>>>>>>> what HEAD holds
++=======
 +        "Which of those properties a page type keeps outside the commit is answered the same way.",
 +>>>>>>> what HEAD holds
 +=======
 +        "Which of those properties a page type keeps outside the commit is answered the same way.",
 +>>>>>>> what HEAD holds
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "The nearer declaration decides that as the nearer declaration decides the name.",
-+    },
+     },
      {
        invariantKind: "departure",
-       statement: "A key reaches the property its page type declares or reaches nothing.",
 diff --git a/pages/indexes/path/index-path.index.test.ts b/pages/indexes/path/index-path.index.test.ts
 index b5ca04c723db14c2286188dcddf85164906408b7..560c9e234c884abca49a9f82d758b3d4a1c14bce 100644
 --- a/pages/indexes/path/index-path.index.test.ts
@@ -732,3 +587,235 @@ index 5177a294987f313506cef24c59371b8c14ecfcd0..ed8de8e51d182291d8e87e63c4a3ed41
        const refused = endingRefused(one.key, one.propertySlug, at, value)
        if (refused !== null) return { refused }
      }
+diff --git a/temper/temper-addon-data/package.json b/temper/temper-addon-data/package.json
+index d0b6f8925d372ef8746c5cfbd111ac03d673d315..677de451aa04024bd900d18487dd40fe05ccc067 100644
+--- a/temper/temper-addon-data/package.json
++++ b/temper/temper-addon-data/package.json
+@@ -53,7 +53,6 @@
+   },
+   "dependencies": {
+     "@akasha/code": "workspace:*",
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/pages-access": "workspace:*",
+     "@akasha/pages-query": "workspace:*",
+     "@akasha/pages": "workspace:*",
+diff --git a/temper/temper-commands/package.json b/temper/temper-commands/package.json
+index 7c0739af5d8b1b6b78ca147215d4422be6ed20f5..e37c2a3c19cbe3705d611fc4a6909b1c23e1c264 100644
+--- a/temper/temper-commands/package.json
++++ b/temper/temper-commands/package.json
+@@ -27,7 +27,6 @@
+     "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/supabase-auth": "workspace:*",
+     "@akasha/command-system": "workspace:*",
+     "@akasha/errors-core": "workspace:*",
+diff --git a/temper/temper-keybinder-addon/package.json b/temper/temper-keybinder-addon/package.json
+index c1efb1545d9a77c1dc0bc322f1b2318c9e4fa634..3016f6bb232467c630d51b7094cd15570c61746d 100644
+--- a/temper/temper-keybinder-addon/package.json
++++ b/temper/temper-keybinder-addon/package.json
+@@ -21,7 +21,6 @@
+     "./keybinder-entry": "./keybinder-entry/keybinder-entry.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/temper-addon-init": "workspace:*",
+     "@akasha/temper-addon-library-types": "workspace:*"
+   }
+diff --git a/temper/temper-lib-addon-menu-order-list-box/package.json b/temper/temper-lib-addon-menu-order-list-box/package.json
+index 8c1608f149dbc1614a5f6e01084654fe0cef6c7b..163a6930e646cfed493ff410734acecb484f7c19 100644
+--- a/temper/temper-lib-addon-menu-order-list-box/package.json
++++ b/temper/temper-lib-addon-menu-order-list-box/package.json
+@@ -20,6 +20,5 @@
+     "./order-list-box-widget": "./order-list-box-widget/order-list-box-widget.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-alchemy-station/package.json b/temper/temper-lib-alchemy-station/package.json
+index 3a2c8706a640a02d05c4af2043b338a737837ca0..0e1d14dc8ed936f9b6373cc40566e7f2f37e669c 100644
+--- a/temper/temper-lib-alchemy-station/package.json
++++ b/temper/temper-lib-alchemy-station/package.json
+@@ -9,6 +9,5 @@
+     "./alchemy-station-entry": "./alchemy-station-entry/alchemy-station-entry.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-character-knowledge/package.json b/temper/temper-lib-character-knowledge/package.json
+index 0b60bb461a6ee6cf1595e17551bfb66a157ec47d..a5caf5fd85727dbbbcd0e6b2be598c2fe6fc4a79 100644
+--- a/temper/temper-lib-character-knowledge/package.json
++++ b/temper/temper-lib-character-knowledge/package.json
+@@ -3,7 +3,6 @@
+   "private": true,
+   "type": "module",
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/temper-settings-panel": "workspace:*"
+   },
+   "exports": {
+diff --git a/temper/temper-lib-custom-menu/package.json b/temper/temper-lib-custom-menu/package.json
+index 7794459ae817376f46a65d2c1b11c59eca1718c3..a9aa2ec5ddc8e81e216c7610431699b3939dc66b 100644
+--- a/temper/temper-lib-custom-menu/package.json
++++ b/temper/temper-lib-custom-menu/package.json
+@@ -20,6 +20,5 @@
+     "./submenu-window": "./submenu-window/submenu-window.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-data-encode/package.json b/temper/temper-lib-data-encode/package.json
+index b06820193b214518cc85347f619a7717149461dd..d99c6da42522d618f3cdaa7b6f2a350428df3405 100644
+--- a/temper/temper-lib-data-encode/package.json
++++ b/temper/temper-lib-data-encode/package.json
+@@ -15,6 +15,5 @@
+     "./data-encode-entry": "./data-encode-entry/data-encode-entry.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-debug-logger/package.json b/temper/temper-lib-debug-logger/package.json
+index 7d60dcc92dd69e64aa951dcc9fb243d795aa5a07..066bc59c2bf0366ba6b974bb5a58f400bd8d53a9 100644
+--- a/temper/temper-lib-debug-logger/package.json
++++ b/temper/temper-lib-debug-logger/package.json
+@@ -6,6 +6,5 @@
+     "./main": "./debug-logger-main/debug-logger-main.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-main-menu/package.json b/temper/temper-lib-main-menu/package.json
+index be234f5a59579e291551eb8d54e4fad4f4b7c11a..8874f828e01f0e64f22dcf44c5c3f93b04ff6c70 100644
+--- a/temper/temper-lib-main-menu/package.json
++++ b/temper/temper-lib-main-menu/package.json
+@@ -13,6 +13,5 @@
+     "./main-menu-version": "./main-menu-version/main-menu-version.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-scrollable-menu/package.json b/temper/temper-lib-scrollable-menu/package.json
+index 296d24eb6d0ac3dd3809ecde9f27929569a508c1..0bd17664c4826d6948dae2ec961f076a9ff91467 100644
+--- a/temper/temper-lib-scrollable-menu/package.json
++++ b/temper/temper-lib-scrollable-menu/package.json
+@@ -77,6 +77,5 @@
+     "./util-visible": "./scrollable-menu-util-visible/scrollable-menu-util-visible.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/temper/temper-lib-sets/package.json b/temper/temper-lib-sets/package.json
+index 504d6b62752d597cd6749c24beb33005ce300729..d40d5ae82d611d03f38b3cc858e44606c4018e99 100644
+--- a/temper/temper-lib-sets/package.json
++++ b/temper/temper-lib-sets/package.json
+@@ -6,7 +6,6 @@
+     "./main": "./lib-sets-main/lib-sets-main.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/temper-eso-types": "workspace:*"
+   }
+ }
+diff --git a/temper/temper-lua-runner/package.json b/temper/temper-lua-runner/package.json
+index d7aa74c654aaa8b591823dd9004791aa77a8012a..54d3e87c05d2611bbc2072f1a758bbf4d4655a1b 100644
+--- a/temper/temper-lua-runner/package.json
++++ b/temper/temper-lua-runner/package.json
+@@ -8,7 +8,6 @@
+     "./lua-number-string": "./lua-number-string/lua-number-string.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "zod": "^4.3.6"
+   }
+ }
+diff --git a/temper/temper-quests-addon/package.json b/temper/temper-quests-addon/package.json
+index ea50725e5d2eb31b7b129fd1ef30759b3db397b2..45e664a38c82ab06fbe413653c05581918475adb 100644
+--- a/temper/temper-quests-addon/package.json
++++ b/temper/temper-quests-addon/package.json
+@@ -17,7 +17,6 @@
+     "./quests-entry": "./quests-entry/quests-entry.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/temper-addon-init": "workspace:*",
+     "@akasha/temper-addon-library-types": "workspace:*",
+     "@akasha/temper-quests-trace": "workspace:*",
+diff --git a/temper/temper-trading-addon/package.json b/temper/temper-trading-addon/package.json
+index dbbaa68983b49aef8b7eb429ae3dab6bd99df222..1f1179e58948ee53f93ae9ce816732a03934527e 100644
+--- a/temper/temper-trading-addon/package.json
++++ b/temper/temper-trading-addon/package.json
+@@ -24,7 +24,6 @@
+     "./trading-entry": "./trading-entry/trading-entry.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/temper-addon-init": "workspace:*",
+     "@akasha/temper-addon-library-types": "workspace:*",
+     "@akasha/temper-capture-perf": "workspace:*",
+diff --git a/temper/temper-watcher/package.json b/temper/temper-watcher/package.json
+index d72b96af32cf65294052801e67703e30aab5dbeb..493f36e5068f2bf3f55a67ca2e45ec85e9103042 100644
+--- a/temper/temper-watcher/package.json
++++ b/temper/temper-watcher/package.json
+@@ -59,7 +59,6 @@
+     "./watcher-main": "./watcher-main/watcher-main.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/day": "workspace:*",
+     "@akasha/errors-core": "workspace:*",
+     "@akasha/pages-access": "workspace:*",
+diff --git a/temper/temper-web/package.json b/temper/temper-web/package.json
+index 7f512643dc2e411436d94965c54560558cd5382d..8f8ca1d5d22131d0bd5f32e945bf6347a84bce0a 100644
+--- a/temper/temper-web/package.json
++++ b/temper/temper-web/package.json
+@@ -16,7 +16,6 @@
+   },
+   "dependencies": {
+     "@akasha/code": "workspace:*",
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/design-badges": "workspace:*",
+     "@akasha/design-forms": "workspace:*",
+     "@akasha/design-layout": "workspace:*",
+diff --git a/testing-system/package.json b/testing-system/package.json
+index b1e4b0a85136514bb63fd9f63219d51740f37bb1..a732b21cc760bff3ce9cea925f2156a9478ca120 100644
+--- a/testing-system/package.json
++++ b/testing-system/package.json
+@@ -15,7 +15,6 @@
+     "./walking": "./walking/walking.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@happy-dom/global-registrator": "^20.8.3",
+     "@testing-library/react": "^16.3.2"
+   },
+diff --git a/verdict/package.json b/verdict/package.json
+index 73e999e5d9c0d0900ecbe9231bb5e9361441ac3b..c355ba2d37881da430cf09d53a00a1f0ffe75274 100644
+--- a/verdict/package.json
++++ b/verdict/package.json
+@@ -10,6 +10,5 @@
+     "./reading-channel": "./reading-channel/reading-channel.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*"
+   }
+ }
+diff --git a/web-page-answers/package.json b/web-page-answers/package.json
+index 6ca33d0b348808eddd240b0d5afd4a33b5340c4c..17226cd60d0792ed3a134002fefbab9291db18db 100644
+--- a/web-page-answers/package.json
++++ b/web-page-answers/package.json
+@@ -9,7 +9,6 @@
+     "./nav-icon-svg": "./nav-icon-svg/nav-icon-svg.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/pages-access": "workspace:*",
+     "@akasha/pages-core": "workspace:*",
+     "@akasha/supabase-rr": "workspace:*",
