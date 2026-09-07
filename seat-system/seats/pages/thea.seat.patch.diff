@@ -1,0 +1,14 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/person-system/people/pages/alan.person.ts b/person-system/people/pages/alan.person.ts
+index f95c66d13080556d0415f0c842f75ba8b1816eae..ca44139ddfe8fda99c9e4882dc729940039379bd 100644
+--- a/person-system/people/pages/alan.person.ts
++++ b/person-system/people/pages/alan.person.ts
+@@ -37,7 +37,6 @@ export const alan = {
+         "Saying you are worried about time or context is stopping.",
+         "Reporting progress is stopping.",
+         "Reporting adjacent issues is stopping.",
+-        "Stop only when every remaining part waits on a required answer.",
+       ],
+     },
+     {
