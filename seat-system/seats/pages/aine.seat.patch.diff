@@ -1,0 +1,313 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index 08290bb1b225f7d05f7ae0050b4ac46017f4f73c..a83035edecbef2eb9ab2ef966f28959406ec8c14 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -36,7 +36,6 @@ export const changeMechanical = {
+     "change-mechanical/add-property-value",
+     "change-mechanical/add-page-property-file",
+     "change-mechanical/change-file",
+-    "change-mechanical-code/change-code-file",
+     "change-mechanical/remove-page",
+     "change-mechanical/remove-page-type",
+     "change-mechanical/remove-property-value",
+diff --git a/changes/mechanical/code/change-mechanical-code.page-type.ts b/changes/mechanical/code/change-mechanical-code.page-type.ts
+index 4696275a9518193581a0968b948201281b46d28b..81ade35905923353f42d29667e6d96aebdd6b3a2 100644
+--- a/changes/mechanical/code/change-mechanical-code.page-type.ts
++++ b/changes/mechanical/code/change-mechanical-code.page-type.ts
+@@ -10,5 +10,5 @@ export const changeMechanicalCode = {
+   definition: "a mechanical change acting on a body read as code",
+   pluralSlug: "change-mechanical-code",
+   extendsSlug: ["page-type/change-mechanical"],
+-  partSlugs: [],
++  partSlugs: ["change-mechanical-code/change-code-file"],
+ } as const satisfies PageType
+diff --git a/changes/mechanical/code/pages/change-code-file/change-code-file.change-mechanical-code.code.ts b/changes/mechanical/code/pages/change-code-file/change-code-file.change-mechanical-code.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6bf15c509a7eb9a943f459857002068ae1ef3152
+--- /dev/null
++++ b/changes/mechanical/code/pages/change-code-file/change-code-file.change-mechanical-code.code.ts
+@@ -0,0 +1,21 @@
++import { extname } from "node:path"
++import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
++import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
++
++const CHANGE_FILE = "change-mechanical/change-file"
++
++const CODE = new Set([".ts", ".tsx"])
++
++export type Asked = {
++  readonly at: string
++  readonly old: string
++  readonly new: string
++}
++
++export async function runChange(world: World, given: Asked): Promise<Answer> {
++  if (!CODE.has(extname(given.at))) {
++    return refusing(`\`${given.at}\` is under no TypeScript name, so this change works no passage`)
++  }
++  return (await reach(world, CHANGE_FILE, { at: given.at, old: given.old, new: given.new })).said
++}
+diff --git a/changes/mechanical/code/pages/change-code-file/change-code-file.change-mechanical-code.test.ts b/changes/mechanical/code/pages/change-code-file/change-code-file.change-mechanical-code.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0159057b8098222ad51e545e899e634349be3855
+--- /dev/null
++++ b/changes/mechanical/code/pages/change-code-file/change-code-file.change-mechanical-code.test.ts
+@@ -0,0 +1,72 @@
++import { afterAll, expect, test } from "bun:test"
++import {
++  HELD_CODE,
++  HELD_EXPORT,
++  indexedRepo,
++  scratch,
++  textIn,
++} from "@akasha/indexes/indexing/testing"
++import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
++import {
++  type Reaching,
++  type World,
++  worldAt,
++} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
++import { changeFile } from "../../../pages/change-file/change-file.change-mechanical.code.ts"
++import { runChange } from "./change-code-file.change-mechanical-code.code.ts"
++
++const RUNS: Reaching = (world, at, given) => {
++  if (at === "change-mechanical/change-file") {
++    return Promise.resolve(changeFile(world, given as { at: string; old: string; new: string }))
++  }
++  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
++}
++
++afterAll(scratch.sweep)
++
++const NOTES = "outside/notes.md"
++
++const LOOSE = "outside/loose.tsx"
++
++const BODY = "export const fresh = 1\n"
++
++const AFTER = "export const fresh = 2\n"
++
++function worldIn(root: string): World {
++  return worldAt(root, textIn(root), RUNS)
++}
++
++test("a passage of a code body is worked by the change this change reaches", async () => {
++  const root = indexedRepo()
++
++  const said = await runChange(worldIn(root), { at: HELD_CODE, old: "1", new: "2" })
++
++  expect(said.refused).toBe(null)
++  expect(said.edits).toEqual([
++    {
++      path: HELD_CODE,
++      was: `export const ${HELD_EXPORT} = 1\n`,
++      body: `export const ${HELD_EXPORT} = 2\n`,
++    },
++  ])
++})
++
++test("a path under no TypeScript name is refused though that path holds the passage", async () => {
++  const root = indexedRepo({ [NOTES]: BODY })
++
++  const said = await runChange(worldIn(root), { at: NOTES, old: "1", new: "2" })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(
++    `\`${NOTES}\` is under no TypeScript name, so this change works no passage`
++  )
++})
++
++test("a path named as TSX is worked", async () => {
++  const root = indexedRepo({ [LOOSE]: BODY })
++
++  const said = await runChange(worldIn(root), { at: LOOSE, old: "1", new: "2" })
++
++  expect(said.refused).toBe(null)
++  expect(said.edits).toEqual([{ path: LOOSE, was: BODY, body: AFTER }])
++})
+diff --git a/changes/mechanical/code/pages/change-code-file/change-code-file.change-mechanical-code.ts b/changes/mechanical/code/pages/change-code-file/change-code-file.change-mechanical-code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6f346a3edfcf162112af681c0bbd02b82b46d1d3
+--- /dev/null
++++ b/changes/mechanical/code/pages/change-code-file/change-code-file.change-mechanical-code.ts
+@@ -0,0 +1,33 @@
++import type { ChangeMechanicalCode } from "../../change-mechanical-code.page-type.ts"
++
++export const changeCodeFile = {
++  id: "01a079ac-d401-7d7b-aa1f-45743f81cf73",
++  pageTypeSlug: "change-mechanical-code",
++  slug: "change-code-file",
++  definition: "one passage of one code body replaced, with the imports that body names judged",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++  guardSlugs: ["change-guard/import-reaches-a-file"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A path under no TypeScript name is refused here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The passage is worked by the change this change reaches.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The imports the body names after the change are judged by the guard this change names.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here judges the path a passage is worked at.",
++    },
++  ],
++} as const satisfies ChangeMechanicalCode
+diff --git a/changes/mechanical/pages/change-code-file/change-code-file.change-mechanical-code.code.ts b/changes/mechanical/pages/change-code-file/change-code-file.change-mechanical-code.code.ts
+deleted file mode 100644
+index 9ff53178f5abb3d301d7c68ce38baf82ca5dc821..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/change-code-file/change-code-file.change-mechanical-code.code.ts
++++ /dev/null
+@@ -1,21 +0,0 @@
+-import { extname } from "node:path"
+-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-
+-const CHANGE_FILE = "change-mechanical/change-file"
+-
+-const CODE = new Set([".ts", ".tsx"])
+-
+-export type Asked = {
+-  readonly at: string
+-  readonly old: string
+-  readonly new: string
+-}
+-
+-export async function runChange(world: World, given: Asked): Promise<Answer> {
+-  if (!CODE.has(extname(given.at))) {
+-    return refusing(`\`${given.at}\` is under no TypeScript name, so this change works no passage`)
+-  }
+-  return (await reach(world, CHANGE_FILE, { at: given.at, old: given.old, new: given.new })).said
+-}
+diff --git a/changes/mechanical/pages/change-code-file/change-code-file.change-mechanical-code.test.ts b/changes/mechanical/pages/change-code-file/change-code-file.change-mechanical-code.test.ts
+deleted file mode 100644
+index fef611a9d47a5dd30574b77c656cebbaa71e7263..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/change-code-file/change-code-file.change-mechanical-code.test.ts
++++ /dev/null
+@@ -1,72 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import {
+-  HELD_CODE,
+-  HELD_EXPORT,
+-  indexedRepo,
+-  scratch,
+-  textIn,
+-} from "@akasha/indexes/indexing/testing"
+-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+-import {
+-  type Reaching,
+-  type World,
+-  worldAt,
+-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { changeFile } from "../change-file/change-file.change-mechanical.code.ts"
+-import { runChange } from "./change-code-file.change-mechanical-code.code.ts"
+-
+-const RUNS: Reaching = (world, at, given) => {
+-  if (at === "change-mechanical/change-file") {
+-    return Promise.resolve(changeFile(world, given as { at: string; old: string; new: string }))
+-  }
+-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+-}
+-
+-afterAll(scratch.sweep)
+-
+-const NOTES = "outside/notes.md"
+-
+-const LOOSE = "outside/loose.tsx"
+-
+-const BODY = "export const fresh = 1\n"
+-
+-const AFTER = "export const fresh = 2\n"
+-
+-function worldIn(root: string): World {
+-  return worldAt(root, textIn(root), RUNS)
+-}
+-
+-test("a passage of a code body is worked by the change this change reaches", async () => {
+-  const root = indexedRepo()
+-
+-  const said = await runChange(worldIn(root), { at: HELD_CODE, old: "1", new: "2" })
+-
+-  expect(said.refused).toBe(null)
+-  expect(said.edits).toEqual([
+-    {
+-      path: HELD_CODE,
+-      was: `export const ${HELD_EXPORT} = 1\n`,
+-      body: `export const ${HELD_EXPORT} = 2\n`,
+-    },
+-  ])
+-})
+-
+-test("a path under no TypeScript name is refused though that path holds the passage", async () => {
+-  const root = indexedRepo({ [NOTES]: BODY })
+-
+-  const said = await runChange(worldIn(root), { at: NOTES, old: "1", new: "2" })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(
+-    `\`${NOTES}\` is under no TypeScript name, so this change works no passage`
+-  )
+-})
+-
+-test("a path named as TSX is worked", async () => {
+-  const root = indexedRepo({ [LOOSE]: BODY })
+-
+-  const said = await runChange(worldIn(root), { at: LOOSE, old: "1", new: "2" })
+-
+-  expect(said.refused).toBe(null)
+-  expect(said.edits).toEqual([{ path: LOOSE, was: BODY, body: AFTER }])
+-})
+diff --git a/changes/mechanical/pages/change-code-file/change-code-file.change-mechanical-code.ts b/changes/mechanical/pages/change-code-file/change-code-file.change-mechanical-code.ts
+deleted file mode 100644
+index ab0fa3e22a98ebf3d65cde2e835a37885df12fc7..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/change-code-file/change-code-file.change-mechanical-code.ts
++++ /dev/null
+@@ -1,33 +0,0 @@
+-import type { ChangeMechanicalCode } from "../../code/change-mechanical-code.page-type.ts"
+-
+-export const changeCodeFile = {
+-  id: "01a079ac-d401-7d7b-aa1f-45743f81cf73",
+-  pageTypeSlug: "change-mechanical-code",
+-  slug: "change-code-file",
+-  definition: "one passage of one code body replaced, with the imports that body names judged",
+-  code: "ts",
+-  test: "ts",
+-  runsChecks: false,
+-  readersOweReading: false,
+-  writerOwesReading: false,
+-  guardSlugs: ["change-guard/import-reaches-a-file"],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A path under no TypeScript name is refused here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The passage is worked by the change this change reaches.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The imports the body names after the change are judged by the guard this change names.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here judges the path a passage is worked at.",
+-    },
+-  ],
+-} as const satisfies ChangeMechanicalCode
