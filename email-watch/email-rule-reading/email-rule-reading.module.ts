@@ -31,8 +31,11 @@ export const emailRuleReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Agent rules are read before code rules, and each kind in the order of its page file names.",
+      statement: "Agent rules are read before code rules.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each kind is read in the order of its page file names.",
     },
   ],
 } as const satisfies Module
