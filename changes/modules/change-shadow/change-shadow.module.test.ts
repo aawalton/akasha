@@ -301,6 +301,29 @@ test("a path an earlier reach took away is refused rather than taken away twice"
   expect(gathered([first.said, twice.said])).toEqual(first.said)
 })
 
+const ANSWERED_TWICE = "is answered twice"
+
+test("a gather refusing where an edit is added throws and leaves the ledger as it was", () => {
+  const ledger = ledgerIn(indexedRepo())
+  addedTo(ledger, answered([writing(AT, null, "one\n")]))
+
+  expect(() => addedTo(ledger, answered([writing(AT, "other\n", "two\n")]))).toThrow(ANSWERED_TWICE)
+
+  expect(ledger.over.edits).toEqual([{ path: AT, was: null, body: "one\n" }])
+  expect(ledger.kept.stated.get(AT)).toHaveLength(1)
+  expect(ledger.textOf(AT)).toBe("one\n")
+})
+
+test("a gather refusing where a world is built over an answer throws rather than answering", () => {
+  const world = worldOver(worldIn(indexedRepo()), answered([writing(AT, null, "one\n")]))
+
+  expect(() => worldOver(world, answered([writing(AT, "other\n", "two\n")]))).toThrow(
+    ANSWERED_TWICE
+  )
+
+  expect(world.over.edits).toEqual([{ path: AT, was: null, body: "one\n" }])
+})
+
 test("a reach inside a change states an edit the reach around that change states again", async () => {
   const root = indexedRepo()
   const around = "change-mechanical-file/add-file-around"

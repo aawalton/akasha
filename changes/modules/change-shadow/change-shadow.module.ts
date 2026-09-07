@@ -148,6 +148,15 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A gather that refuses throws rather than being read as an answer holding no edit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ledger a gather refused holds the edits that ledger held before.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A ledger adds an edit that ledger already added no second time.",
     },
     {

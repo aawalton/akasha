@@ -92,11 +92,13 @@ export function worldAt(
 export function worldOver(world: World, said: Answer): World {
   const held = bodiesIn(said)
   const index = shadowAsked(changeOver(world.root, said)).index
+  const over = gathered([world.over, said])
+  if (over.refused !== null) throw new Error(over.refused)
   return {
     root: world.root,
     index,
     textOf: (path) => (held.has(path) ? (held.get(path) ?? null) : world.textOf(path)),
-    over: gathered([world.over, said]),
+    over,
     reaching: world.reaching,
   }
 }
@@ -172,6 +174,11 @@ export function addedTo(ledger: Ledger, said: Answer): Ledger {
   const kept = ledger.kept
   const fresh = said.edits.filter((one) => !statedIn(kept, one))
   if (fresh.length === 0) return ledger
+  const held = { edits: fresh, refused: null }
+  const over = gathered([kept.over, held])
+  if (over.refused !== null) throw new Error(over.refused)
+  const settling = gathered([kept.fresh, held])
+  if (settling.refused !== null) throw new Error(settling.refused)
   for (const one of fresh) {
     const before = kept.stated.get(one.path)
     if (before === undefined) kept.stated.set(one.path, [one])
@@ -179,9 +186,8 @@ export function addedTo(ledger: Ledger, said: Answer): Ledger {
     if (one.from !== undefined) kept.bodies.set(one.from, null)
   }
   for (const one of fresh) kept.bodies.set(one.path, one.body)
-  const held = { edits: fresh, refused: null }
-  kept.over = gathered([kept.over, held])
-  kept.fresh = gathered([kept.fresh, held])
+  kept.over = over
+  kept.fresh = settling
   kept.index = null
   return ledger
 }
