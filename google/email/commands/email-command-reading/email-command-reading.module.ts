@@ -38,8 +38,11 @@ export const emailCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Text is said at its flag or read from a file, and saying it both ways is refused.",
+      statement: "Text is said at its flag or read from a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Text said both ways is refused.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +50,11 @@ export const emailCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "One call reads the input once, so two flags naming that input are refused.",
+      statement: "One call reads the input once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two flags naming one input are refused.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +75,11 @@ export const emailCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A command answers JSON, one report line for each line of that JSON.",
+      statement: "A command answers JSON.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One report line answers each line of that JSON.",
     },
     {
       invariantKind: "departure",
