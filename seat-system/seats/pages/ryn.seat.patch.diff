@@ -1,0 +1,18 @@
+diff --git a/pages/export-name/page-export-name.module.ts b/pages/export-name/page-export-name.module.ts
+index 65ca04a4af2ad5cf5d6901f37c6d7a5cab08074a..ef9b668099ab9b830c3d349eabc8711410f22107 100644
+--- a/pages/export-name/page-export-name.module.ts
++++ b/pages/export-name/page-export-name.module.ts
+@@ -23,8 +23,11 @@ export const pageExportName = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A name opening with a digit is no identifier, so the slug making that name is at fault.",
++      statement: "A name opening with a digit is no identifier.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The slug making such a name is at fault.",
+     },
+     {
+       invariantKind: "departure",
