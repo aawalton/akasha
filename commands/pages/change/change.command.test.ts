@@ -219,6 +219,15 @@ test("a path piped in naming no edit kept refuses the drop", async () => {
   expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
 })
 
+test("an input that will not open is nothing piped in", async () => {
+  const root = repo()
+  await removing(root, NAMER_PAGE)
+
+  await acting(root, ["drop"], () => ({ unreadable: "ENXIO" }))
+
+  expect(pathsIn(root)).toEqual([])
+})
+
 test("an edit a move left behind is taken away by the path that move came from", async () => {
   const root = repo()
   appendEdits(root, PAGE, [MOVED])
