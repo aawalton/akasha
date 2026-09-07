@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/temper/temper-trading-addon/trading-sell-helper/trading-sell-helper.module.ts b/temper/temper-trading-addon/trading-sell-helper/trading-sell-helper.module.ts
+index 4a46b4a78b0d8293a34ea40233bd9ab54ed27cc6..454796c5dc74ba8de166f594e9c66e5b3dbc2555 100644
+--- a/temper/temper-trading-addon/trading-sell-helper/trading-sell-helper.module.ts
++++ b/temper/temper-trading-addon/trading-sell-helper/trading-sell-helper.module.ts
+@@ -9,7 +9,8 @@ export const tradingSellHelper = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A suggested price comes from the trade centre where that trade centre has one.",
++      statement:
++        "A suggested price comes from the trade centre where that trade centre has a price.",
+     },
+   ],
+ } as const satisfies Module
