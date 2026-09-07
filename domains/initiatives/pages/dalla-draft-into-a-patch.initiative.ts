@@ -28,11 +28,6 @@ export const dallaDraftIntoAPatch = {
         "Landed as a refusal at `change.command.code.ts`, reusing `decodeUtf8` from `code-system/utf8-body`. Measured: of 121,768 tracked files exactly 80 fail a strict decode, all `.png`, two per persona. That refusal also blocks removing one, which was safe before, as a removal carries a null body. The precise route is declared already: `holdsBytes` is true on the two wallpaper file properties and nowhere else, and `no-raw-nul-bytes` reads it. A file declaring bytes is carried rather than decoded.",
     },
     {
-      statement: "The edits kept fold as each edit is appended.",
-      workingMemory:
-        "`appendEdits` at `edits-keeping.module.code.ts:163` is `[...had, ...edits]` with no fold, and `gathered()` runs only at read time and is never written back. thea holds 503 rows over 149 paths, 79.3% of them superseded; aura 57.0%, akasha 51.8%. `settled` rewrites the whole blob through `git hash-object -w` on every append, so a ledger grown to n rows has written on the order of n squared bytes of objects.",
-    },
-    {
       statement: "An edit kept in the old shape is rewritten into the shape an edit holds now.",
       workingMemory:
         "Measured on awen's ledger: 13,984 rows, all moves over distinct paths, 13,161 holding `was === body`, bodies filling 420,914,180 of its 440,492,434 bytes. The other 823 changed content as they moved, so a row migrates to a move and, where the body moved too, a replace beside it. `edited()` at `edits-keeping.module.code.ts:41-42` refuses an absent `was` and `rowsIn:71` turns that into a refusal of the whole file, so the reader admits the new shape before a ledger is rewritten.",
