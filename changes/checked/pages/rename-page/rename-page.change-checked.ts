@@ -11,4 +11,14 @@ export const renamePage = {
   runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A page's files are carried before that page's slug is restated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The slug is restated at the path the carry lands the page at.",
+    },
+  ],
 } as const satisfies ChangeChecked

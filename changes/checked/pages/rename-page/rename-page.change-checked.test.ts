@@ -162,8 +162,8 @@ test("the slug rename and each carry are reached at their own addresses", async 
 
   await renamePage(world, { at: HELD_PAGE, to: CARRIED })
 
-  expect(reached[0]).toBe("change-mechanical-data/rename-page-slug")
-  expect(new Set(reached.slice(1))).toEqual(new Set(["change-mechanical-file/rename-path"]))
+  expect(reached[reached.length - 1]).toBe("change-mechanical-data/rename-page-slug")
+  expect(new Set(reached.slice(0, -1))).toEqual(new Set(["change-mechanical-file/rename-path"]))
 })
 
 test("a page's slug is renamed in its data, and its files are carried with it", async () => {

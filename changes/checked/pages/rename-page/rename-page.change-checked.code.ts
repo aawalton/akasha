@@ -151,22 +151,23 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
     const carries = `\`${given.to}\` is the slug this page carries`
     if (given.plural !== undefined) return refusing(`${carries}, so no plural is restated`)
     if (lands === given.at) return refusing(`${carries}, in the folder that slug names`)
-  } else {
-    const said = await reach(seen, RENAME_PAGE_SLUG, {
-      at: given.at,
-      to: given.to,
-      plural: given.plural,
-    })
-    if (said.said.refused !== null) return said.said
-    answers.push(said.said)
-    folded = gathered(answers)
-    if (folded.refused !== null) return folded
-    seen = worldOver(world, folded)
   }
   for (const one of [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]) {
     const carried = await reach(seen, RENAME_PATH, one)
     if (carried.said.refused !== null) return carried.said
     answers.push(carried.said)
+    folded = gathered(answers)
+    if (folded.refused !== null) return folded
+    seen = worldOver(world, folded)
+  }
+  if (given.to !== held.slug) {
+    const said = await reach(seen, RENAME_PAGE_SLUG, {
+      at: lands,
+      to: given.to,
+      plural: given.plural,
+    })
+    if (said.said.refused !== null) return said.said
+    answers.push(said.said)
     folded = gathered(answers)
     if (folded.refused !== null) return folded
     seen = worldOver(world, folded)
