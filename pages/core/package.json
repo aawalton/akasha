@@ -72,6 +72,7 @@
     "@akasha/digit-padding": "workspace:*",
     "@akasha/id-minting": "workspace:*",
     "@akasha/pages-url": "workspace:*",
+    "@akasha/recurrence": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }

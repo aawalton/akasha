@@ -1,89 +1,85 @@
-import { getEsoDayStr, getEsoDayStrOffset } from "@akasha/day/eso-day"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
-import type { PageWhere } from "../page-types/page-types.module.code.ts"
+import { getEsoDayStr, getEsoResetTime } from "@akasha/day/eso-day"
+import { advanceRecurrenceDueDate } from "@akasha/recurrence/scheduling"
 
-export interface CompletionDecision {
-  readonly completedAt: number
-  readonly deleteSource: boolean
+export type CompletionShape = {
+  readonly stampKey: string
+  readonly dueKey: string
+  readonly recurrenceKey: string
+  readonly anchorKey: string
+  readonly doneKey: string | null
 }
 
-function hasRecurrence(rrule: unknown): boolean {
-  if (typeof rrule === "string") return rrule.length > 0
-  if (rrule !== null && typeof rrule === "object") {
-    const rule = Reflect.get(rrule, "rule")
-    return typeof rule === "string" && rule.length > 0
-  }
-  return false
+export const COMPLETION_SHAPES: Readonly<Record<string, CompletionShape>> = {
+  "to-do": {
+    stampKey: "toDoLastCompletedAt",
+    dueKey: "toDoDueDate",
+    recurrenceKey: "toDoRecurrence",
+    anchorKey: "toDoAnchoredFromCompletion",
+    doneKey: "toDoCompletedAt",
+  },
+  "temper-task": {
+    stampKey: "lastCompletedAt",
+    dueKey: "dueDate",
+    recurrenceKey: "rruleRule",
+    anchorKey: "rruleAnchorFromCompletion",
+    doneKey: null,
+  },
 }
 
-export function decideCompletion(args: {
-  rrule: unknown
-  completedAtMs: number
-}): CompletionDecision {
-  return {
-    completedAt: args.completedAtMs,
-    deleteSource: !hasRecurrence(args.rrule),
-  }
+export function completionShapeOf(pageTypeSlug: string): CompletionShape | null {
+  return COMPLETION_SHAPES[pageTypeSlug] ?? null
 }
 
-const CALENDAR_DATE_RE = /^\d{4}-\d{2}-\d{2}$/
+export type TaskValues = Readonly<Record<string, unknown>>
 
-export function computeRescheduleDate(args: {
-  to?: string
-  byDays?: number
-  nowMs: number
-}): string {
-  const hasTo = args.to !== undefined
-  const hasBy = args.byDays !== undefined
-  if (hasTo === hasBy) {
-    throw new Error("reschedule requires exactly one of `to` or `byDays`")
+function textAt(values: TaskValues, key: string): string | null {
+  const held = values[key]
+  return typeof held === "string" && held !== "" ? held : null
+}
+
+export function anchorFor(shape: CompletionShape, values: TaskValues, atMs: number): string | null {
+  if (values[shape.anchorKey] === true) return getEsoDayStr(new Date(atMs))
+  return textAt(values, shape.dueKey)
+}
+
+export function completedOnTheDayOf(
+  shape: CompletionShape,
+  values: TaskValues,
+  atMs: number
+): boolean {
+  const last = textAt(values, shape.stampKey)
+  if (last === null) return false
+  const was = Date.parse(last)
+  if (!Number.isFinite(was)) return false
+  return getEsoDayStr(new Date(was)) === getEsoDayStr(new Date(atMs))
+}
+
+export function completionValues(
+  shape: CompletionShape,
+  values: TaskValues,
+  atMs: number
+): Readonly<Record<string, string>> {
+  const stamp = new Date(atMs).toISOString()
+  const rule = textAt(values, shape.recurrenceKey)
+  if (rule === null) {
+    if (shape.doneKey === null) return { [shape.stampKey]: stamp }
+    return { [shape.stampKey]: stamp, [shape.doneKey]: stamp }
   }
-  const now = new Date(args.nowMs)
-  if (hasBy) {
-    const n = args.byDays
-    if (n === undefined || !Number.isInteger(n)) {
-      throw new Error(`reschedule \`byDays\` must be an integer, got ${String(n)}`)
-    }
-    return getEsoDayStrOffset(now, n)
-  }
-  const to = args.to ?? ""
-  if (to === "today") return getEsoDayStr(now)
-  if (to === "tomorrow") return getEsoDayStrOffset(now, 1)
-  if (CALENDAR_DATE_RE.test(to)) return to
-  throw new Error(
-    `reschedule \`to\` must be a YYYY-MM-DD date, "today", or "tomorrow", got "${to}"`
+  const next = advanceRecurrenceDueDate(
+    { rrule: rule, dueDate: anchorFor(shape, values, atMs), dueTime: null },
+    new Date(atMs),
+    getEsoResetTime
   )
+  if (next === null) return { [shape.stampKey]: stamp }
+  return { [shape.stampKey]: stamp, [shape.dueKey]: next.dueDate }
 }
 
-export type DueSelector = "today" | "overdue" | "due-or-overdue" | "upcoming"
-
-export const DUE_SELECTORS: readonly DueSelector[] = [
-  "today",
-  "overdue",
-  "due-or-overdue",
-  "upcoming",
-]
-
-export function dueSelectorCondition(selector: DueSelector, todayEsoStr: string): PageWhere {
-  const completedNull = { key: "completedAt", isNull: true } as const
-  switch (selector) {
-    case "today":
-      return [{ key: "dueDate", eq: todayEsoStr }, completedNull]
-    case "overdue":
-      return [{ key: "dueDate", lt: todayEsoStr }, completedNull]
-    case "due-or-overdue":
-      return [{ key: "dueDate", lte: todayEsoStr }, completedNull]
-    case "upcoming":
-      return [{ key: "dueDate", gt: todayEsoStr }, completedNull]
-    default:
-      return assertNever(selector)
-  }
+export function uncompletionValues(shape: CompletionShape): Readonly<Record<string, null>> {
+  if (shape.doneKey === null) return { [shape.stampKey]: null }
+  return { [shape.doneKey]: null }
 }
 
-export function dueSelectorConditionForNow(selector: DueSelector, nowMs: number): PageWhere {
-  return dueSelectorCondition(selector, getEsoDayStr(new Date(nowMs)))
-}
-
-export function parseDueSelector(value: string): DueSelector | undefined {
-  return DUE_SELECTORS.find((s) => s === value)
+export function readsAsDone(shape: CompletionShape, values: TaskValues): boolean {
+  if (shape.doneKey === null) return false
+  return textAt(values, shape.doneKey) !== null
 }
