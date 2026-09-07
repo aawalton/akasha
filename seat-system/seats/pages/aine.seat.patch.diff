@@ -1,3 +1,57 @@
+diff --git a/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts b/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts
+index ebd31ca47b76d4668a3f1987b3a737bef87dfd4e..e64aa0aee768765462d1b37c2f17f25dcf59001e 100644
+--- a/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts
++++ b/changes/mechanical/pages/move-file/move-file.change-mechanical.test.ts
+@@ -1,4 +1,5 @@
+ import { expect, test } from "bun:test"
++import { reading } from "@akasha/pages/page-value/testing"
+ import { moveFile } from "./move-file.change-mechanical.code.ts"
+ 
+ const FROM = "akasha/one.held.ts"
+diff --git a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts b/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
+index b8469c7964aaef9e62d7b9bca92ced693fa030ed..ceb7bd23b81722d8f04776024e068a58a823b16a 100644
+--- a/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
++++ b/changes/mechanical/pages/remove-file/remove-file.change-mechanical.test.ts
+@@ -1,4 +1,5 @@
+ import { expect, test } from "bun:test"
++import { reading } from "@akasha/pages/page-value/testing"
+ import { removeFile } from "./remove-file.change-mechanical.code.ts"
+ 
+ const AT = "akasha/one.held.ts"
+diff --git a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts
+index 9a67381d89d50f4085426da461a2c4d1489d9e8b..725c81eb675d98b3780801386e8324db140578ce 100644
+--- a/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts
++++ b/changes/mechanical/pages/remove-manifest-ways/remove-manifest-ways.change-mechanical.test.ts
+@@ -1,4 +1,5 @@
+ import { expect, test } from "bun:test"
++import { reading } from "@akasha/pages/page-value/testing"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+ import {
+   landsOn,
+diff --git a/pages/indexes/package-reaching/package-reaching.module.test.ts b/pages/indexes/package-reaching/package-reaching.module.test.ts
+index 9103aceb68bef81ba99a195245da84aa3a492b25..c1f1d6b35c021221d22882d47f73fff30d82ed96 100644
+--- a/pages/indexes/package-reaching/package-reaching.module.test.ts
++++ b/pages/indexes/package-reaching/package-reaching.module.test.ts
+@@ -1,6 +1,7 @@
+ import { afterAll, expect, test } from "bun:test"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { writing as wrote } from "@akasha/command-system/scratching/testing"
++import { reading } from "../../value/page-value.module.test-fixtures.ts"
+ import { pathFiled, schemaFiled } from "../reading/index-reading.module.test-fixtures.ts"
+ import {
+   bodiesAt,
+diff --git a/pages/package.json b/pages/package.json
+index 9dfbc81e1d8b11465531ef565e955a0295625596..fd6cc7603197eb88a1c1f6a133fccab4509fb946 100644
+--- a/pages/package.json
++++ b/pages/package.json
+@@ -76,6 +76,7 @@
+     "./page-value": "./value/page-value.module.code.ts",
+     "./page-value-reading": "./value-reading/page-value-reading.module.code.ts",
+     "./page-value-key": "./value-key/page-value-key.module.code.ts",
++    "./page-value/testing": "./value/page-value.module.test-fixtures.ts",
+     "./page/id": "./properties/id.text-property.ts",
+     "./page/slug": "./properties/slug.text-property.ts",
+     "./phone-number-property": "./phone-number-properties/phone-number-property.page-type.ts",
 diff --git a/pages/value/page-value.module.test-fixtures.ts b/pages/value/page-value.module.test-fixtures.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..4b00745a204bd2dee7d7a01028cae899d9b9bd51
@@ -7,3 +61,24 @@ index 0000000000000000000000000000000000000000..4b00745a204bd2dee7d7a01028cae899
 +export function reading(held: Record<string, string>): (path: string) => string | null {
 +  return (path) => held[path] ?? null
 +}
+diff --git a/pages/value/page-value.module.ts b/pages/value/page-value.module.ts
+index 727895100f4f2bc67ad8f55b6156f12db9bdcd8b..15f7f562a63278fc463072565abe1b0e2f83e74f 100644
+--- a/pages/value/page-value.module.ts
++++ b/pages/value/page-value.module.ts
+@@ -7,11 +7,16 @@ export const pageValue = {
+   definition: "the value a page's body declares, and what one of its keys holds",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+       statement: "A page's body can be loaded after the file the body came from is gone.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A reader answering a body at a path is built here for every test handing one in.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The value a body declares is the first object the body exports.",
