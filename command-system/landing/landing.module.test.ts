@@ -31,17 +31,21 @@ import {
   git,
   gitOver,
   ID,
+  IGNORED_OUT,
   identityAmong,
   judgingThat,
   LINE,
   landedMoving,
   NUL,
   PAGE,
+  pageLanded,
   pageRepo,
   pagesRepo,
   REFUSES,
   repoWith,
   scratch,
+  splitLanded,
+  splitThrew,
 } from "./landing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -121,9 +125,7 @@ test("a landing files the index entries its page implies, with no rebuild run by
 })
 
 test("a landing that takes a page away takes its index entries with it", async () => {
-  const root = await edged({ "seed.txt": "held" })
-  await landing(root, CARRIED, "held", ADMITS)
-  await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
+  const root = await pageLanded(await edged({ "seed.txt": "held" }))
   expect(idFiledIn(root, ID)).toBe(true)
   await landing(root, [{ path: "akasha/a.domain.ts", body: null }], "held", ADMITS)
   expect(idFiledIn(root, ID)).toBe(false)
@@ -139,9 +141,7 @@ test("a landing no check judged keeps the index all the same", async () => {
 })
 
 test("a refused change leaves the index as it found it, as it leaves the worktree", async () => {
-  const root = repoWith({ "seed.txt": "held" })
-  await landing(root, CARRIED, "held", ADMITS)
-  await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
+  const root = await pageLanded(repoWith({ "seed.txt": "held" }))
   const was = everythingFiled(root)
   const said = await landing(
     root,
@@ -154,9 +154,7 @@ test("a refused change leaves the index as it found it, as it leaves the worktre
 })
 
 test("the index two landings leave is the index a rebuild from those pages builds, but for the stamp only a rebuild writes", async () => {
-  const root = repoWith({ "seed.txt": "held" })
-  await landing(root, CARRIED, "held", ADMITS)
-  await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
+  const root = await pageLanded(repoWith({ "seed.txt": "held" }))
   const rebuilt = scratch.rootFor("akasha-rebuilt-")
   rebuiltFrom(join(root, "akasha"), rebuilt, root)
   expect(identityAmong(everythingFiled(root)).length).toBeGreaterThan(0)
@@ -338,6 +336,19 @@ test("a carry that will not go puts back the ones that went and commits nothing"
   expect(existsSync(join(root, "deep/one.uncommitted.ts"))).toBe(false)
   expect(existsSync(join(root, "new.txt"))).toBe(false)
   expect(baseOf(root)).toBe(was)
+})
+
+test("a path the repository ignores is written onto the tree and left out of the commit", async () => {
+  const said = await splitLanded()
+  expect(said.held).toBe("unsaid")
+  expect(said.wrote).toEqual(["new.txt"])
+  expect(said.files).toEqual(IGNORED_OUT)
+})
+
+test("a commit that throws leaves the path the repository ignores unwritten", async () => {
+  const said = await splitThrew()
+  expect(said.why).toContain("insufficient permission")
+  expect(said.left).toEqual([])
 })
 
 test("a change drafted is kept in the patch and reaches no file and no commit of its own", async () => {

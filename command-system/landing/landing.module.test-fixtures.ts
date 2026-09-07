@@ -1,4 +1,4 @@
-import { mkdirSync, writeFileSync } from "node:fs"
+import { chmodSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { said as gitIn } from "@akasha/git/git-running"
@@ -107,6 +107,59 @@ export function blockedCarries(root: string): readonly FileCarry[] {
 
 export function pageRepo(): string {
   return repoWith({ [PAGE]: A })
+}
+
+export async function pageLanded(root: string): Promise<string> {
+  await landing(root, CARRIED, "held", ADMITS)
+  await landing(root, [{ path: PAGE, body: bytesOf(A) }], "held", ADMITS)
+  return root
+}
+
+const HELD_OUT = "held.uncommitted.json"
+
+export const IGNORED_OUT: readonly string[] = [".gitignore", "new.txt", "one.txt"]
+
+const SPLIT: readonly FileEdit[] = [
+  { path: "new.txt", body: bytesOf("proposed") },
+  { path: HELD_OUT, body: bytesOf("unsaid") },
+]
+
+function ignoringRepo(): string {
+  return repoWith({ ".gitignore": "*.uncommitted.*\n", "one.txt": "committed" })
+}
+
+export async function splitLanded(): Promise<{
+  readonly held: string
+  readonly wrote: readonly string[]
+  readonly files: readonly string[]
+}> {
+  const root = ignoringRepo()
+  const said = await landing(root, SPLIT, "held", ADMITS)
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  if (said.commit === null) throw new Error("the landing committed nothing")
+  return {
+    held: readFileSync(join(root, HELD_OUT), "utf8"),
+    wrote: said.wrote,
+    files: git(root, ["ls-tree", "-r", "--name-only", "HEAD"]).trim().split("\n").sort(),
+  }
+}
+
+export async function splitThrew(): Promise<{
+  readonly why: string
+  readonly left: readonly string[]
+}> {
+  const root = ignoringRepo()
+  const at = join(root, ".git/objects")
+  chmodSync(at, 0o500)
+  let why = ""
+  try {
+    await landing(root, SPLIT, "held", ADMITS)
+  } catch (thrown) {
+    why = thrown instanceof Error ? thrown.message : String(thrown)
+  } finally {
+    chmodSync(at, 0o700)
+  }
+  return { why, left: [HELD_OUT, "new.txt"].filter((one) => existsSync(join(root, one))) }
 }
 
 function typed(
