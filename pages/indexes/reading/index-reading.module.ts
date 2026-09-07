@@ -56,6 +56,15 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether the index is there is asked at the root of the index by every read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder holding no file is a population with no members rather than an unwritten index.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A tree missing beneath an index that stands is an empty answer rather than a refusal.",
     },

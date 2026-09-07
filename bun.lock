@@ -1246,6 +1246,7 @@
       "name": "@akasha/indexes",
       "dependencies": {
         "@akasha/code": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
       },
     },
     "pages/query": {

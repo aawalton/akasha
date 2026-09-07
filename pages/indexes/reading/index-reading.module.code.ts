@@ -2,6 +2,7 @@ import { join } from "node:path"
 import { addressedIn, addressIn, type PageAddress } from "@akasha/pages/page-address"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt, type Value } from "@akasha/pages/page-value"
+import { stringAt } from "@akasha/utils-narrow/string-at"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { indexImport } from "../import/index-import.index.ts"
 import { indexPath } from "../path/index-path.index.ts"
@@ -86,10 +87,6 @@ export function answered<T>(
   return said(reading)
 }
 
-function named(said: unknown): string | null {
-  return typeof said === "string" ? said : null
-}
-
 function listedIn(reading: Reading, at: string): readonly Listed[] {
   const found: Listed[] = []
   for (const line of reading.lines(at)) {
@@ -169,8 +166,6 @@ export function importersIn(given: string | Reading, path: string): readonly str
   return pathsIn(readingOf(given), join(IMPORT, AT_PATH, `${path}${ENDING}`))
 }
 
-// Whether the index is there is asked at its root, as every other read here asks it, because a
-// folder holding no file is a population with no members rather than an index nothing wrote.
 export function importersOf(path: string, reading: Reading): readonly string[] {
   return answered(reading, ROOT, `which files import \`${path}\``, (held) =>
     importersIn(held, path)
@@ -181,15 +176,15 @@ function schemaIn(reading: Reading, at: string): readonly Schema[] {
   const found: Schema[] = []
   for (const line of reading.lines(at)) {
     const said = JSON.parse(line) as Record<string, unknown>
-    const pageTypeSlug = named(said["pageTypeSlug"])
+    const pageTypeSlug = stringAt(said, "pageTypeSlug")
     if (pageTypeSlug === null) continue
     found.push({
       pageTypeSlug,
-      targetPageTypeSlug: named(said["targetPageTypeSlug"]),
-      unique: named(said["unique"]),
-      slug: named(said["slug"]),
-      propertySlug: named(said["propertySlug"]),
-      fileName: named(said["fileName"]),
+      targetPageTypeSlug: stringAt(said, "targetPageTypeSlug"),
+      unique: stringAt(said, "unique"),
+      slug: stringAt(said, "slug"),
+      propertySlug: stringAt(said, "propertySlug"),
+      fileName: stringAt(said, "fileName"),
     })
   }
   return found
