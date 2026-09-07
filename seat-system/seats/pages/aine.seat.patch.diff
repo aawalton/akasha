@@ -1,0 +1,31 @@
+writerOwesReading: false
+diff --git a/command-system/address-mapping/address-mapping.module.code.ts b/command-system/address-mapping/address-mapping.module.code.ts
+index e226dee12ae1f41ae4d87086276e3e4cceb94796..3117811dd5a5e1d36d7079a72e6fbed3f480ad7d 100644
+--- a/command-system/address-mapping/address-mapping.module.code.ts
++++ b/command-system/address-mapping/address-mapping.module.code.ts
+@@ -133,7 +133,9 @@ export function mappedFor(root: string, changes: readonly FileEdit[]): Mapped {
+   try {
+     const change = changeOf(root, { base: baseOf(root), edits: changes })
+     const cast = shadowFor(change)
+-    if ("refused" in cast) return NOTHING_MAPPED
++    if ("refused" in cast) {
++      return { edits: [], said: [`no address map was written again — ${cast.refused}`] }
++    }
+     return mappedOver(root, cast.shadow, textOver(root, change), new Set(change.changed))
+   } catch (thrown) {
+     return {
+diff --git a/command-system/address-mapping/address-mapping.module.ts b/command-system/address-mapping/address-mapping.module.ts
+index db86daa33089c47ea88743eea20ed80254988008..5e1f2b4e75d4f49d12b6522794b1f6333984d4de 100644
+--- a/command-system/address-mapping/address-mapping.module.ts
++++ b/command-system/address-mapping/address-mapping.module.ts
+@@ -55,6 +55,10 @@ export const addressMapping = {
+       invariantKind: "gap",
+       statement: "A generator that throws leaves a stale map for the typecheck to refuse.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A shadow that will not cast is said rather than passed over.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "No change a command line reaches is in the map.",
