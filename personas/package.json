@@ -4,7 +4,7 @@
   "type": "module",
   "exports": {
     "./email-address": "./properties/email-address.email-address-property.ts",
-    "./persona-targets": "./persona-targets/persona-targets.module.code.ts",
+    "./persona-targets": "./targets/persona-targets.module.code.ts",
     "./persona-reading": "./persona-reading/persona-reading.module.code.ts"
   },
   "dependencies": {
