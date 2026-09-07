@@ -34,6 +34,14 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
+      statement: "The file written first is named for the process writing that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file below a folder a picture reads is no file that picture is made from.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The folders every picture reads are watched once rather than once per picture.",
     },
     {

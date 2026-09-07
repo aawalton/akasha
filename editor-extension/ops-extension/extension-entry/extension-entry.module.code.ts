@@ -1,5 +1,6 @@
 import { type Startable, startIsolated } from "@akasha/editor-extension/activation"
 import * as agentTree from "@akasha/editor-extension/agent-tree-panel"
+import * as commandTree from "@akasha/editor-extension/command-tree-panel"
 import * as domainTree from "@akasha/editor-extension/domain-tree-panel"
 import * as editorLayout from "@akasha/editor-extension/editor-layout-panel"
 import { commandServerHeard, disposeCommandServer } from "@akasha/editor-extension/harness-call"
@@ -29,6 +30,7 @@ const features = (
   { name: "domain-tree", start: async () => domainTree.activate(context) },
   { name: "work-tree", start: async () => workTree.activate(context) },
   { name: "page-tree", start: async () => pageTree.activate(context) },
+  { name: "command-tree", start: async () => commandTree.activate(context) },
   { name: "status-bar", start: async () => statusBar.activate(context) },
   { name: "editor-layout", start: async () => editorLayout.activate(context) },
   { name: "seat-terminal-enter", start: async () => seatEnter.activate(vscode, context, say) },

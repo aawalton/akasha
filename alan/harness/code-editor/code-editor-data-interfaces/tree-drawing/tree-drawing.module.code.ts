@@ -1,14 +1,3 @@
-// THE FOUR TREES THE EDITOR DRAWS, BUILT HERE RATHER THAN ON THE THREAD THAT DRAWS THEM.
-//
-// Each tree already had a builder that holds no editor in it, so none of the working out is
-// written again here: what this adds is the one name every row of every tree carries. Four panels
-// each named a row of their own and no two agreed, so a reader had to know which tree it held
-// before it could read a field off a row.
-//
-// Measured on this checkout, from a service rather than the editor: the work tree is 15 roots in
-// 14ms, the domains tree is 10,898 rows over 7 levels in 335ms, and the editor paid the domains
-// one on its own thread, inside a second's budget.
-
 import { join } from "node:path"
 import type { SubagentPage } from "@akasha/seat-system/agent-page-reading"
 import { colorOfState } from "@akasha/seat-system/seat-turn-color"
@@ -29,26 +18,20 @@ import {
 import { readSeatPlaces } from "../../../../../editor-extension/agent-tree-lookup/agent-tree-lookup.module.code.ts"
 import { championTree } from "../../../../../editor-extension/champions-tree/champions-tree.module.code.ts"
 import type { SubagentNode } from "../../../../../editor-extension/subagent-reading/subagent-reading.module.code.ts"
+import { assembleCommandTree } from "../command-tree-assemble/command-tree-assemble.module.code.ts"
 import { assemblePageTree } from "../page-tree-assemble/page-tree-assemble.module.code.ts"
 
-// A row names a document by a whole path, the service knowing the checkout so the editor does not
-// join one. A row that opens no document names none.
 function wholePath(root: string, at: string | null | undefined): string | null {
   if (at === undefined || at === null || at === "") return null
   return at.startsWith("/") ? at : join(root, at)
 }
 
-// The pages tree spells a document as `<checkout>:<path inside it>`, which is two facts in one
-// string. The checkout is already known, so only the path is carried on.
 function pathAfterRepo(root: string, at: string | null): string | null {
   if (at === null) return null
   const mark = at.indexOf(":")
   return wholePath(root, mark === -1 ? at : at.slice(mark + 1))
 }
 
-// WHAT A WORK ROW IS HAS TO BE CARRIED ACROSS, because the work tree holds rows of two kinds and
-// the panel counts one kind apart from the other. The builder's node is read through this shape
-// rather than imported, so a field the builder adds is dropped here unless it is named here too.
 type WorkNode = {
   readonly kind: WorkTreeRow["kind"]
   readonly key: string
@@ -146,8 +129,6 @@ type AgentNodeIn = {
   readonly children: readonly AgentNodeIn[]
 }
 
-// A value that is absent is null rather than missing, so a reader tells one case from the other
-// without knowing which keys this tree happens to carry.
 function agentRow(node: AgentNodeIn): AgentTreeRow {
   return {
     key: node.id,
@@ -163,8 +144,6 @@ function agentRow(node: AgentNodeIn): AgentTreeRow {
   }
 }
 
-// THE SUBAGENTS UNDER A SEAT ARE THAT SEAT'S PAGES. A page names the seat by name and the forest
-// names each seat by id, so the pages are joined onto the rows through the name.
 function subagentsBySeat(
   pages: readonly SubagentPage[],
   rows: readonly ForestSeat[]
@@ -209,4 +188,35 @@ export function agentTreeLine(root: string): string {
     runningCount: countRunning(roots),
     unreadSeats: 0,
   } satisfies AgentTreeState)
+}
+
+type CommandNode = {
+  readonly key: string
+  readonly label: string
+  readonly called: string
+  readonly kind: CommandTreeRow["kind"]
+  readonly at: string | null
+  readonly detail: string | null
+  readonly children: readonly CommandNode[]
+}
+
+function commandRow(root: string, node: CommandNode): CommandTreeRow {
+  return {
+    key: node.key,
+    label: node.label,
+    at: wholePath(root, node.at),
+    color: null,
+    kind: node.kind,
+    called: node.called,
+    detail: node.detail,
+    children: node.children.map((child) => commandRow(root, child)),
+  }
+}
+
+export function commandTreeLine(root: string): string {
+  const built = assembleCommandTree(root)
+  return JSON.stringify({
+    roots: built.roots.map((node) => commandRow(root, node)),
+    unreached: built.unreached,
+  } satisfies CommandTreeState)
 }

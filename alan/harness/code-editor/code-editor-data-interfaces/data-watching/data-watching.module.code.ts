@@ -1,15 +1,7 @@
-// WHAT EACH PART OF THE EDITOR DRAWS, HELD IN MEMORY AND WRITTEN WHERE THAT PART READS IT.
-//
-// The editor's host is node and holds no transpiler, so it cannot open a page; and a read that
-// starts a child pays bun's startup, near 0.19s, on every repaint. So the reading happens here,
-// once, and the editor reads one small file per part.
-//
-// A throw is left to end the process. A loop that catches its own throw and logs it leaves systemd
-// reading `active (running)` while the work has stopped, which `surplus-fall-notifier` did for nine
-// days.
-
 import { mkdirSync, renameSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { indexNamed } from "@akasha/indexes"
+import { indexValue } from "@akasha/indexes/value/page"
 import { akashaRoot, akashaSeatsThatExist } from "@akasha/seat-system/seat-akasha-beside"
 import { colorOfState } from "@akasha/seat-system/seat-turn-color"
 import { seatTurnStateOf } from "@akasha/seat-system/seat-turn-state"
@@ -34,33 +26,21 @@ import {
 } from "../status-bar-composing/status-bar-composing.module.code.ts"
 import {
   agentTreeLine,
+  commandTreeLine,
   domainTreeLine,
   pageTreeLine,
   workTreeLine,
 } from "../tree-drawing/tree-drawing.module.code.ts"
 
 const INTERFACES_AT = "alan/harness/code-editor/code-editor-data-interfaces/pages"
-// The scratch file is written one folder above the folder the editor watches, so the only event
-// that folder raises is the rename putting a finished line in place. Written beside the file it
-// replaces, the scratch raised events of its own: four per write under node, and under bun the
-// scratch is reported and the rename never is, which left the reading untestable.
 const SCRATCH_AT = "alan/harness/code-editor/code-editor-data-interfaces"
 const SEATS_AT = "seat-system/seats/pages"
 const SUBAGENTS_AT = "seat-system/subagents/pages"
 const TURN_STATES_AT = "seat-system/seat-turn-states/pages"
-// Every tree is read out of the akasha index. Watching the index beats watching every source file:
-// the editor watched `**/*.ts`, 42 writes a minute of which 11 in 318 could move a row. This one
-// folder holds a file for each page type and is written whenever a page of that type lands, so an
-// event there says the index moved. It is followed for its events alone: the folder runs to 387
-// files and 39 MB, which is far more than reading it at every write is worth.
-const INDEX_VALUE_AT = ".git/data/index/value"
 const SIDECAR = ".uncommitted.ts"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.json"
 const SETTLE_MS = 25
 
-// One picture, the folders it is made from, and the cooldown it is written under. `holds` answers
-// whether a file is one this picture reads, so a change reaches only the pictures it can move.
-// A picture moving with the index is worked out again on any event under the index instead.
 type Picture = {
   readonly cooldownMs: number
   readonly folders: readonly string[]
@@ -75,8 +55,6 @@ function stateFileFor(root: string, slug: string): string {
   return join(root, INTERFACES_AT, `${slug}${STATE_TAIL}`)
 }
 
-// A rename rather than a write in place, so the editor never reads half a line. The scratch name
-// carries this process's id, so two services writing at once never take one another's file.
 function writeLine(root: string, slug: string, line: string): undefined {
   const scratch = join(root, SCRATCH_AT, `${slug}${STATE_TAIL}.${process.pid}.part`)
   writeFileSync(scratch, `${line}\n`, "utf8")
@@ -84,8 +62,6 @@ function writeLine(root: string, slug: string, line: string): undefined {
   return undefined
 }
 
-// A file is one of a folder's own where it sits directly in that folder and its name ends one of
-// these ways. The folder is compared rather than prefixed, so a deeper folder is not taken for it.
 function within(folder: string, ...endings: readonly string[]): (at: string) => boolean {
   return (at) => dirname(at) === folder && endings.some((ending) => at.endsWith(ending))
 }
@@ -94,9 +70,6 @@ function either(...tests: readonly ((at: string) => boolean)[]): (at: string) =>
   return (at) => tests.some((test) => test(at))
 }
 
-// The same test as `within` over a set of folders rather than one. What the status bar reads sits
-// one file to a folder across a folder for every readout and every account, which is too many to
-// spell as a list of `within`.
 function endingWithin(folders: readonly string[], ending: string): (at: string) => boolean {
   const held = new Set(folders)
   return (at) => held.has(dirname(at)) && at.endsWith(ending)
@@ -195,6 +168,18 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       },
     ],
     [
+      "command-tree",
+      {
+        cooldownMs: 1_000,
+        folders: [],
+        holds: () => false,
+        movesWithIndex: true,
+        line: () => commandTreeLine(root),
+        held: NOTHING_WRITTEN,
+        waking: null,
+      },
+    ],
+    [
       "terminal-tabs",
       {
         cooldownMs: 1_000,
@@ -214,8 +199,6 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
 
 function keep(root: string, slug: string, picture: Picture): undefined {
   const line = picture.line()
-  // A PICTURE READ BY NOTHING YET IS WRITTEN BY NOTHING YET. The file already on disk is the last
-  // good line the editor is drawing, and leaving it there is what keeps that line on the screen.
   if (line === null) {
     return undefined
   }
@@ -259,7 +242,7 @@ export function watchEditorData(): () => undefined {
     SETTLE_MS
   )
   const indexed = followFolders(
-    new Set([join(root, INDEX_VALUE_AT)]),
+    new Set([join(root, indexNamed(), indexValue.name)]),
     () => {
       for (const [slug, picture] of pictures) {
         if (picture.movesWithIndex === true) keep(root, slug, picture)

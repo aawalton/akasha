@@ -39,6 +39,11 @@
           "id": "opsPages",
           "title": "Pages",
           "icon": "$(symbol-structure)"
+        },
+        {
+          "id": "opsCommands",
+          "title": "Commands",
+          "icon": "$(terminal)"
         }
       ]
     },
@@ -65,6 +70,12 @@
         {
           "id": "opsPageTree",
           "name": "Pages"
+        }
+      ],
+      "opsCommands": [
+        {
+          "id": "opsCommandTree",
+          "name": "Commands"
         }
       ]
     },
@@ -99,6 +110,11 @@
       {
         "command": "opsPageTree.refreshNow",
         "title": "Ops Pages: Refresh Now",
+        "icon": "$(refresh)"
+      },
+      {
+        "command": "opsCommandTree.refreshNow",
+        "title": "Ops Commands: Refresh Now",
         "icon": "$(refresh)"
       },
       {
@@ -159,6 +175,11 @@
         {
           "command": "opsPageTree.refreshNow",
           "when": "view == opsPageTree",
+          "group": "navigation"
+        },
+        {
+          "command": "opsCommandTree.refreshNow",
+          "when": "view == opsCommandTree",
           "group": "navigation"
         }
       ],
@@ -278,5 +299,13 @@
   "dependencies": {
     "@akasha/code": "workspace:*",
     "@akasha/editor-extension": "workspace:*"
+  },
+  "peerDependencies": {
+    "vscode": "^1.85.0"
+  },
+  "peerDependenciesMeta": {
+    "vscode": {
+      "optional": true
+    }
   }
 }

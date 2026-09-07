@@ -17,6 +17,8 @@
     "./column-memory": "./column-memory/column-memory.module.code.ts",
     "./column-sampling": "./column-sampling/column-sampling.module.code.ts",
     "./command-server-client": "./command-server-client/command-server-client.module.code.ts",
+    "./command-tree-ids": "./command-tree-ids/command-tree-ids.module.code.ts",
+    "./command-tree-panel": "./command-tree-panel/command-tree-panel.module.code.ts",
     "./domain-tree-ids": "./domain-tree-ids/domain-tree-ids.module.code.ts",
     "./domain-tree-panel": "./domain-tree-panel/domain-tree-panel.module.code.ts",
     "./editor-group": "./editor-group/editor-group.module.code.ts",

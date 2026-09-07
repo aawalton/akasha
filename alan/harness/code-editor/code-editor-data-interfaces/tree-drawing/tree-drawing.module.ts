@@ -4,13 +4,26 @@ export const treeDrawing = {
   id: "01a07290-1f4c-7a63-9e21-58c0bd47e3f2",
   pageTypeSlug: "module",
   slug: "tree-drawing",
-  definition: "the work, domains, pages and agents trees put into the one row every tree carries",
+  definition: "each tree the editor draws put into the one row every tree carries",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement:
         "A tree is built by the builder that already built the tree rather than by new code.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pages tree spells a document as the checkout and the path inside parted by a colon.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commands row carries the words that command is called by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commands row carries the definition that command's own page states.",
     },
     {
       invariantKind: "departure",

@@ -766,6 +766,12 @@
         "@akasha/code": "workspace:*",
         "@akasha/editor-extension": "workspace:*",
       },
+      "peerDependencies": {
+        "vscode": "^1.85.0",
+      },
+      "optionalPeers": [
+        "vscode",
+      ],
     },
     "editor-extension/vscode-typings": {
       "name": "@types/vscode",
