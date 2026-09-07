@@ -94,6 +94,80 @@ index 2726b4d1a75474c9458a80ca867e29a88dc39676..e49d303fd1603e6fcc28dd2feb73276e
    const isFavorite = data?.favoritedAt != null
  
    const titleLinkFade = useOverflowFade<HTMLSpanElement>(displayTitle)
+diff --git a/pages/ui/components/view-tab-content/view-tab-content.module.code.tsx b/pages/ui/components/view-tab-content/view-tab-content.module.code.tsx
+index 4f264eb57624b6cf115d6d6dc2535e1e66a72990..41df451cd994ecfd011d6f57a799fc5e3f8bacb2 100644
+--- a/pages/ui/components/view-tab-content/view-tab-content.module.code.tsx
++++ b/pages/ui/components/view-tab-content/view-tab-content.module.code.tsx
+@@ -3,12 +3,15 @@
+ import { parseListingConfig } from "@akasha/pages-core/schema/listing-config"
+ import { isLocked, isPageTypeLocked, type ViewDataJSON } from "@akasha/pages-core/schema/view-data"
+ import type { LockedFacet } from "@akasha/pages-core/schema/view-data-locked"
++import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
+ import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
+ import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
++import { useCompletePageOptimistic } from "@akasha/pages-ui/supabase/use-complete-page-optimistic"
+ import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
+ import { useUserId } from "@akasha/pages-ui/use-user-id"
+ import { pageRowToPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
+ import { useReorderViewWiring } from "@akasha/pages-ui-components/use-reorder-view-wiring"
++import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+ import type { PageTypeOption } from "@akasha/pages-ui-components/view-settings-options"
+ import {
+   buildRelationBackLinkHref,
+@@ -76,6 +79,7 @@ export function ViewTabContent({
+   })
+ 
+   const setProperty = useSetPropertyOptimistic()
++  const completePage = useCompletePageOptimistic()
+   const userId = useUserId()
+ 
+   const {
+@@ -137,6 +141,19 @@ export function ViewTabContent({
+   const coverActionCapability = parseListingConfig(effectivePageType?.properties?.listingConfig)
+     ?.coverAction?.capability
+ 
++  const completion = rowPageTypeSlug == null ? null : completionShapeOf(rowPageTypeSlug)
++
++  const handleComplete = (page: PageRow, atMs: number | null) => {
++    if (completion === null || rowPageTypeSlug == null) return
++    completePage({
++      pageTypeSlug: rowPageTypeSlug,
++      pageId: page._id,
++      shape: completion,
++      values: page,
++      atMs,
++    })
++  }
++
+   return (
+     <SupabasePageResolverProvider
+       pages={allPages}
+@@ -232,11 +249,7 @@ export function ViewTabContent({
+             onPropertyChange={
+               isLocked(effectiveConfig, "editRowValues") ? undefined : handlePropertyChange
+             }
+-            onCompletedAtChange={
+-              isLocked(effectiveConfig, "editRowValues")
+-                ? undefined
+-                : (pageId, value) => handlePropertyChange(pageId, "completedAt", value)
+-            }
++            onComplete={isLocked(effectiveConfig, "editRowValues") ? undefined : handleComplete}
+             onCreateOption={
+               isLocked(effectiveConfig, "editRowValues") ? undefined : handleCreateOption
+             }
+@@ -267,10 +280,11 @@ export function ViewTabContent({
+                   ? undefined
+                   : (propertyId, label) => handleCreateOption(id, pageData, propertyId, label)
+               }
++              completion={completion}
+               onComplete={
+                 isLocked(effectiveConfig, "editRowValues")
+                   ? undefined
+-                  : (value) => handlePropertyChange(id, "completedAt", value)
++                  : (value) => handleComplete(page, value)
+               }
+               isFavorite={pageData.favoritedAt != null}
+               onToggleFavorite={(value) => handleToggleFavorite(id, value)}
 diff --git a/pages/ui/package.json b/pages/ui/package.json
 index 6bc84090496628106f8943837c75ea53bb08c2c8..b3611fb4fd18c401e6f6d80e027d633871a062a6 100644
 --- a/pages/ui/package.json
