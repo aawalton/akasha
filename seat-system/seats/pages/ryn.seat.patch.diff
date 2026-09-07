@@ -1,0 +1,46 @@
+writerOwesReading: false
+diff --git a/domains/standard-agent-english/term-kinds/pages/common-language.standard-agent-english-term-kind.ts b/domains/standard-agent-english/term-kinds/pages/common-language.standard-agent-english-term-kind.ts
+index 296031c556c81b8a3be61c6b602ee8fee2e81218..7ea152e63becdbfa5cae162a1bcd0c24e8c8e74f 100644
+--- a/domains/standard-agent-english/term-kinds/pages/common-language.standard-agent-english-term-kind.ts
++++ b/domains/standard-agent-english/term-kinds/pages/common-language.standard-agent-english-term-kind.ts
+@@ -4,5 +4,5 @@ export const commonLanguage = {
+   id: "01a07c58-5eb9-76c2-adbc-afbe67cc6460",
+   pageTypeSlug: "standard-agent-english-term-kind",
+   slug: "common-language",
+-  definition: "a word carrying its ordinary sense",
++  definition: "a term carrying its ordinary sense",
+ } as const satisfies StandardAgentEnglishTermKind
+diff --git a/domains/standard-agent-english/term-kinds/pages/domain-name.standard-agent-english-term-kind.ts b/domains/standard-agent-english/term-kinds/pages/domain-name.standard-agent-english-term-kind.ts
+index 3981fef2777d57f79ca1cfac9b9c02774a492402..554e9e644248235ecb5abcbd837639c8781446aa 100644
+--- a/domains/standard-agent-english/term-kinds/pages/domain-name.standard-agent-english-term-kind.ts
++++ b/domains/standard-agent-english/term-kinds/pages/domain-name.standard-agent-english-term-kind.ts
+@@ -4,5 +4,5 @@ export const domainName = {
+   id: "01a07c58-442e-70e7-8229-740e667fb62b",
+   pageTypeSlug: "standard-agent-english-term-kind",
+   slug: "domain-name",
+-  definition: "a word whose sense is set by the page declaring that word",
++  definition: "a term whose sense is set by the page declaring that term",
+ } as const satisfies StandardAgentEnglishTermKind
+diff --git a/domains/standard-agent-english/term-kinds/pages/page-address.standard-agent-english-term-kind.ts b/domains/standard-agent-english/term-kinds/pages/page-address.standard-agent-english-term-kind.ts
+index af0ea29254da36ac1af0859bd9f42d53bf320719..30033526ac55e377f2a67599ad164b51cddc355c 100644
+--- a/domains/standard-agent-english/term-kinds/pages/page-address.standard-agent-english-term-kind.ts
++++ b/domains/standard-agent-english/term-kinds/pages/page-address.standard-agent-english-term-kind.ts
+@@ -4,5 +4,5 @@ export const pageAddress = {
+   id: "01a07c58-519d-7c3d-89bd-de60637cf531",
+   pageTypeSlug: "standard-agent-english-term-kind",
+   slug: "page-address",
+-  definition: "a word naming where a file sits",
++  definition: "a term naming where a file sits",
+ } as const satisfies StandardAgentEnglishTermKind
+diff --git a/domains/standard-agent-english/terms/standard-agent-english-term.domain.ts b/domains/standard-agent-english/terms/standard-agent-english-term.domain.ts
+index e93147ee5abf7c1b310ee0947d450bc5f403e47e..c467312298ffd1feba3c75fed51cf9d15b0bf82c 100644
+--- a/domains/standard-agent-english/terms/standard-agent-english-term.domain.ts
++++ b/domains/standard-agent-english/terms/standard-agent-english-term.domain.ts
+@@ -4,6 +4,6 @@ export const standardAgentEnglishTerm = {
+   id: "01a07c58-708e-70fe-9434-12a511b1cd71",
+   pageTypeSlug: "domain",
+   slug: "standard-agent-english-term",
+-  definition: "one word akasha is allowed to write",
++  definition: "one word or phrase akasha is allowed to write",
+   partSlugs: ["page-type/standard-agent-english-term-kind"],
+ } as const satisfies Domain
