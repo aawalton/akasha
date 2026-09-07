@@ -1,0 +1,78 @@
+writerOwesReading: false
+diff --git a/domains/domain.page-type.ts b/domains/domain.page-type.ts
+index a47a6e5163e043a887175b20424529f19489ef79..1083cb48f9c799e4860bacda58113504d2c1ffc5 100644
+--- a/domains/domain.page-type.ts
++++ b/domains/domain.page-type.ts
+@@ -29,7 +29,7 @@ export const domain = {
+     "standard-agent-english-property/act",
+     "standard-agent-english-property/aids",
+     "text-property/definition",
+-    "text-property/invariant-statement",
++    "standard-agent-english-property/invariant-statement",
+     "text-property/name",
+     "text-property/plural-slug",
+     "standard-agent-english-property/warrant",
+diff --git a/domains/properties/invariant-statement.standard-agent-english-property.ts b/domains/properties/invariant-statement.standard-agent-english-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ee83ba6bc6a184e49febfdd20574b83411881872
+--- /dev/null
++++ b/domains/properties/invariant-statement.standard-agent-english-property.ts
+@@ -0,0 +1,13 @@
++import type { StandardAgentEnglishProperty } from "../standard-agent-english/standard-agent-english-properties/standard-agent-english-property.page-type.ts"
++
++export type InvariantStatement = string
++
++export const invariantStatement = {
++  id: "01a049c8-3ead-7c41-ae0b-d4c110afbc4f",
++  pageTypeSlug: "standard-agent-english-property",
++  slug: "invariant-statement",
++  propertySlug: "statement",
++  definition: "one sentence an invariant holds a page to",
++  maxLength: 100,
++  nameFormatSlug: null,
++} as const satisfies StandardAgentEnglishProperty
+diff --git a/domains/properties/invariant-statement.text-property.ts b/domains/properties/invariant-statement.text-property.ts
+deleted file mode 100644
+index 42ff7d6164bbf2edf34b3b767b769a77a358a0bc..0000000000000000000000000000000000000000
+--- a/domains/properties/invariant-statement.text-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type InvariantStatement = string
+-
+-export const invariantStatement = {
+-  id: "01a049c8-3ead-7c41-ae0b-d4c110afbc4f",
+-  pageTypeSlug: "text-property",
+-  slug: "invariant-statement",
+-  propertySlug: "statement",
+-  definition: "one sentence an invariant holds a page to",
+-  maxLength: 100,
+-  nameFormatSlug: null,
+-} as const satisfies TextProperty
+diff --git a/domains/properties/invariants.record-property.ts b/domains/properties/invariants.record-property.ts
+index 878864ae0602e81f75575710545160c18eb37db7..c7e0d578ae3e1afc7a0e77077d15695dab2f3581 100644
+--- a/domains/properties/invariants.record-property.ts
++++ b/domains/properties/invariants.record-property.ts
+@@ -1,7 +1,7 @@
+ import type { List } from "@akasha/pages/page-property"
+ import type { RecordProperty } from "@akasha/pages/record-property"
+ import type { InvariantKind } from "./invariant-kind.relation-property.ts"
+-import type { InvariantStatement } from "./invariant-statement.text-property.ts"
++import type { InvariantStatement } from "./invariant-statement.standard-agent-english-property.ts"
+ 
+ export type Invariant = {
+   invariantKind: InvariantKind
+@@ -18,7 +18,11 @@ export const invariants = {
+   definition: "what must be true of a page, each with the sort it is",
+   properties: [
+     { pagePropertySlug: "relation-property/invariant-kind", required: true, many: false },
+-    { pagePropertySlug: "text-property/invariant-statement", required: true, many: false },
++    {
++      pagePropertySlug: "standard-agent-english-property/invariant-statement",
++      required: true,
++      many: false,
++    },
+   ],
+   invariants: [
+     {
