@@ -1,0 +1,103 @@
+writerOwesReading: false
+diff --git a/changes/agent/file-content/rename-code-token/rename-code-token.change-checked.test.ts b/changes/agent/file-content/rename-code-token/rename-code-token.change-checked.test.ts
+index e2eddcd4d0445fd21c97fce107508fe716f2a007..65bcd9c9196c5e3e3ee76afbfa7b8242331d365d 100644
+--- a/changes/agent/file-content/rename-code-token/rename-code-token.change-checked.test.ts
++++ b/changes/agent/file-content/rename-code-token/rename-code-token.change-checked.test.ts
+@@ -9,7 +9,7 @@ import {
+ } from "@akasha/indexes/indexing/testing"
+ import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
+ import { runChange as renameLocalVariable } from "../../../mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.code.ts"
+-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+ import { renameCodeToken } from "./rename-code-token.change-checked.code.ts"
+ 
+@@ -35,7 +35,10 @@ function worldIn(root: string, textOf: (path: string) => string | null): World {
+       return await renameExport(world, given as Parameters<typeof renameExport>[1])
+     }
+     if (at === "change-mechanical-file-content/rename-local-variable") {
+-      return renameLocalVariable(world, given as Parameters<typeof renameLocalVariable>[1])
++      return widened(
++        renameLocalVariable(world, given as Parameters<typeof renameLocalVariable>[1]),
++        world.textOf
++      )
+     }
+     return refusing(`\`${at}\` is reached by nothing here`)
+   })
+diff --git a/changes/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.code.ts b/changes/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.code.ts
+index a2938db21839b7d482ea44fea92b0f7f30a21237..4455de3064af6433ec320be6d2ccaa2cf4074129 100644
+--- a/changes/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.code.ts
++++ b/changes/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.code.ts
+@@ -1,11 +1,7 @@
+ import { parsedAs } from "@akasha/code/code-source"
+ import ts from "typescript"
+-import {
+-  answered,
+-  refusing,
+-  writing,
+-} from "../../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
++import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
++import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
+ import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+@@ -210,7 +206,7 @@ function spanning(scope: ts.Node, of: string): readonly ts.Identifier[] {
+   return identifiersIn(scope).filter((one) => one.text === of && referencing(one))
+ }
+ 
+-export function renameLocalVariable(path: string, text: string, given: Asked): Answer {
++export function renameLocalVariable(path: string, text: string, given: Asked): Said {
+   if (!NAMED.test(given.to)) return refusing(`\`${given.to}\` is no identifier`)
+   if (RESERVED.has(given.to)) return refusing(`\`${given.to}\` is a reserved word`)
+   const source = parsedAs(path, text)
+@@ -236,7 +232,7 @@ export function renameLocalVariable(path: string, text: string, given: Asked): A
+     const put = shorthand ? `${named.text}: ${given.to}` : given.to
+     body = body.slice(0, from) + put + body.slice(one.getEnd())
+   }
+-  return answered([writing(path, text, body)])
++  return stating([{ kind: "replace", path, contentFrom: text, contentTo: body }])
+ }
+ 
+ export type Given = {
+@@ -245,7 +241,7 @@ export type Given = {
+   readonly to: string
+ }
+ 
+-export function runChange(world: World, given: Given): Answer {
++export function runChange(world: World, given: Given): Said {
+   const text = world.textOf(given.at)
+   if (text === null) return refusing(`\`${given.at}\` holds no body, so nothing is renamed`)
+   return renameLocalVariable(given.at, text, { at: given.spot, to: given.to })
+diff --git a/changes/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.test.ts b/changes/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.test.ts
+index 0dc25946c275d0bee90173303eb9cbc3b6e77fbe..f825707460a02589c029e13705ce57c15d791f7d 100644
+--- a/changes/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.test.ts
++++ b/changes/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.test.ts
+@@ -1,10 +1,17 @@
+ import { expect, test } from "bun:test"
++import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+ import { renameLocalVariable } from "./rename-local-variable.change-mechanical-file-content.code.ts"
+ 
+ const AT = "/repo/one.ts"
+ 
++function ranOn(text: string, of: string, to: string): Answer {
++  const said = renameLocalVariable(AT, text, { at: text.indexOf(of), to })
++  return widened(said, (path) => (path === AT ? text : null))
++}
++
+ function bodyOf(text: string, of: string, to: string): string {
+-  const answered = renameLocalVariable(AT, text, { at: text.indexOf(of), to })
++  const answered = ranOn(text, of, to)
+   expect(answered.refused).toBe(null)
+   expect(answered.edits).toHaveLength(1)
+   expect(answered.edits[0]?.path).toBe(AT)
+@@ -13,7 +20,7 @@ function bodyOf(text: string, of: string, to: string): string {
+ }
+ 
+ function whyOf(text: string, of: string, to: string): string {
+-  const answered = renameLocalVariable(AT, text, { at: text.indexOf(of), to })
++  const answered = ranOn(text, of, to)
+   expect(answered.edits).toEqual([])
+   return answered.refused ?? ""
+ }
