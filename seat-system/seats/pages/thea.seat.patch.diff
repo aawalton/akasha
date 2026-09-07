@@ -1,0 +1,74 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+index 5d90ff5c5ddc7cae1da29ba4efe5af6059096021..ebeb99db3d25eea1cca5bb5e2c4875ca311d370b 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+@@ -1,46 +1,4 @@
+ export type Changes = {
+-  "change-authored/add-file": Parameters<
+-    typeof import("../../../authored/pages/add-file/add-file.change-authored.code.ts")["runChange"]
+-  >[1]
+-  "change-authored/change-file": Parameters<
+-    typeof import("../../../authored/pages/change-file/change-file.change-authored.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/add-property-value": Parameters<
+-    typeof import("../../../checked/pages/add-property-value/add-property-value.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/change-domain-parent": Parameters<
+-    typeof import("../../../checked/pages/change-domain-parent/change-domain-parent.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/change-page-page-type": Parameters<
+-    typeof import("../../../checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/change-page-property": Parameters<
+-    typeof import("../../../checked/pages/change-page-property/change-page-property.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/move-page": Parameters<
+-    typeof import("../../../checked/pages/move-page/move-page.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/remove-file": Parameters<
+-    typeof import("../../../checked/pages/remove-file/remove-file.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/remove-page": Parameters<
+-    typeof import("../../../checked/pages/remove-page/remove-page.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/remove-page-type": Parameters<
+-    typeof import("../../../checked/pages/remove-page-type/remove-page-type.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/remove-property-value": Parameters<
+-    typeof import("../../../checked/pages/remove-property-value/remove-property-value.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/rename-code-token": Parameters<
+-    typeof import("../../../checked/pages/rename-code-token/rename-code-token.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/rename-package": Parameters<
+-    typeof import("../../../checked/pages/rename-package/rename-package.change-checked.code.ts")["runChange"]
+-  >[1]
+-  "change-checked/rename-page": Parameters<
+-    typeof import("../../../checked/pages/rename-page/rename-page.change-checked.code.ts")["runChange"]
+-  >[1]
+   "change-mechanical/add-code-file": Parameters<
+     typeof import("../../../mechanical/pages/add-code-file/add-code-file.change-mechanical.code.ts")["runChange"]
+   >[1]
+@@ -113,7 +71,4 @@ export type Changes = {
+   "change-mechanical/rename-property-signature": Parameters<
+     typeof import("../../../mechanical/pages/rename-property-signature/rename-property-signature.change-mechanical.code.ts")["runChange"]
+   >[1]
+-  "change-restated/change-page-property-text": Parameters<
+-    typeof import("../../../restated/pages/change-page-property-text/change-page-property-text.change-restated.code.ts")["runChange"]
+-  >[1]
+ }
+diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
+index 97035222bcfec4f34c9ce68deac3914af82e61ae..43cc0de44fa5af3c0e8c0fb2bc2386575e6db8b7 100644
+--- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
++++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
+@@ -9,7 +9,7 @@ export const pageMatchesItsType = {
+   code: "ts",
+   test: "ts",
+   testFixtures: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
