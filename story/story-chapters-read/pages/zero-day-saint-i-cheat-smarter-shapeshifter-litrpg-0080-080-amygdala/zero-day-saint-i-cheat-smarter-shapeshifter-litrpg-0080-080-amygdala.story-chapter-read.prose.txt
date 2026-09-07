@@ -1,0 +1,145 @@
+080 - Amygdala
+
+I was pleased to see that someone had the foresight to tell the kobolds to organize a ladder for our guests later. Hopefully none of them suffered from a fear of heights. Carrying Helene's dogs up there would also be a bit of a challenge.
+
+But I had other priorities in mind. I dove through the opened hatch and dropped the transformation, shedding most of my speed as I returned to my infernal human self. Around me, kobolds shrieked in alarm.
+
+Among them, I found whom I was looking for—Leilah. I put a hand on her shoulder and pushed the startled kobold along as I made my way to the nearest staircase.
+
+"You are familiar with the layout of the lower levels?" I asked.
+
+She peeled away from me and stood her ground, arms crossed. "Yes, I am. What do you need? I thought there wouldn't be any commands."
+
+I unclenched my balled fist before I replied. "I am not commanding you, but this is urgent. We need to cut this tower off from the outside world. Leaving it exposed was an oversight, and we need to fix it urgently. I can do it on my own, but it'll be slower."
+
+There was another moment of calculation in her eyes before she turned to the staircase. "Yes, I will. What do you need to know?"
+
+I sighed in relief and told her.
+
+Any Wall Street skyscraper had extensive network capabilities. Part of the reason they were clustered together was to reduce latency on their trades—first copper, then fiber —running straight to the trade hubs.
+
+It took us nearly a whole hour to rip out or cut through all of it. Once they understood the assignment, multiple kobolds joined the hunt, which helped me reach the connections tucked into awkward places.
+
+Meanwhile, I had inquired about the Wyrm's MO from Gabriel and Lucy. As long as the tower's own mind was present, the Wyrm would need proper connections to control anything inside. But it was likely that any device that was network-capable and online before the genius loci awoke was infected. But without the Wyrm's input, that mostly meant I had samples. I could study how it worked. In theory.
+
+Physical connections gone, that left wireless connections. There were, of course, countless devices all over the building.
+
+Which I solved, temporarily, by rigging up a set of rudimentary jammers. I had found a well-stocked workshop of the tower's former IT crew and was in the middle of soldering the third jammer when one of the others approached.
+
+"Hi, Ash," I greeted, just as he poked his head through the door.
+
+"Eve? What are you doing there? And how did you know it was me?"
+
+While he spoke, Ash stepped closer to inspect my work.
+
+"You have the softest gait of all of us. We share that desire not to be noticed." I pulled back from my work. "And this? A jammer. We've already severed any wired connection leading inside. And for now, the only way to properly air-gap this is to jam it all. I doubt I could rig up any sophisticated solution that could keep it out, so noise it is."
+
+"Is this to keep the Wyrm out?"
+
+"Exactly. It indirectly threatened the genius loci. I don't want to wait around for it to make good on that threat."
+
+"Good plan then. If the tower gets to have that much power draw."
+
+"We'll have to see. Did you come here to find me or something else?"
+
+Ash had begun wandering around the room. "Mostly for something else. Blueprints and documentation of the tower's layout. Should help our process. I took notes on places that might interest you."
+
+"Oh. Thank you. I barely had time to explore so far."
+
+"There are some wild things up there. You've got more wellness options than anyone could ever possibly need. And as stressed as you always are? You should make use of them."
+
+"I'll take a look. The thought of following in the footsteps of the tower's previous overlords disgusts me."
+
+Ash had been avoiding a topic, and now I could hear his heart rate increase as he brought it up.
+
+"Hey, Eve. That diagram on that whiteboard… that's magic, isn't it? Real magic?"
+
+"Yeah, it is. How—" The extra spike of anxiety gave me the answer before I could even finish the question. "A devil told you?"
+
+Ash's eyes shot up to meet mine. "How did you know?"
+
+"You picked a class entirely based on gathering knowledge. Not many possible reasons why you would be ashamed to know something."
+
+Now he looked away from me. "I had meant to bring it up later with the others."
+
+I carefully put the soldering iron aside. The jammers were done, and my Tinkering (Hardware) skill was up to 11. I stood up and walked over to Ash. I gently put my hands on his upper arms.
+
+"Ash. This is a risk we knowingly took. You have nothing to be ashamed of. They are probably hot as hell, and that isn't anything to be ashamed of either. They know things about you and use that. Just be open about it and what they tell you and ask of you, okay?"
+
+Ash looked up at me and nodded. "I will. He—Samael—told me he could teach it to me. Real magic. Well, not teach. But by pulling some strings, he might be able to get me a book, a huge one, with theory. Which I'd only need to hold for a second, you know?"
+
+"And that is obviously a trap. Magic takes forever to master. Lucy explained as much. Tell him to go to hell or to come up with something better."
+
+Behind me, Lucy manifested.
+
+"Eve, Eve, Eve. How short-sighted and narrow-minded of you. Hi, Ash."
+
+Ash waved at Lucy. "Hey, Lucy."
+
+Lucy stepped next to us and put a hand on each of our shoulders. The claw marks on their face weren't bleeding anymore but stood out starkly in the angry red of healing flesh. "It would take a long time. But having someone who can bypass understanding a lot of the theory? And someone who can already peek behind the curtain? Why, what else would we need?"
+
+We both stared at them. I had no idea what else we would need. Honestly, I was baffled they'd so blatantly support another devil's pitch.
+
+Lucy rolled their eyes before they took their hand off me and tilted Ash's chin over so he'd look directly at them. "Ash. When you get your subclass, pick the one that's a teacher. That allows the transfer of your knowledge to another." They grinned. "Then we will blow this Apocalypse wide open."
+
+Another devil manifested opposite of Lucy. This one was even less 'subtle' in his appearance than Lucy. Red-skinned and barely dressed, I could best describe him as an incubus stripper. And there was something supernatural about his presence, too. Just standing this close, I felt warmth spread inside.
+
+"Uh. Hi, Samael," Ash said.
+
+Samael stared at Lucy. "You are playing a dangerous game." Then he smiled at Ash and me in turn. "But the interloper's plan is solid." He winked at Ash. "Listen to the friend of your friend."
+
+With a short sequence of poofs, both of them were gone.
+
+"Nope, do not listen to either of them. This smells like a trap. Also, damn, I need fresh air."
+
+Ash nodded, very slowly. "Yeah, same."
+
+#
+
+After we took that short break, Ash volunteered to set up the jammers, since I was neglecting a duty I had volunteered for—cutting vegetables.
+
+Up on one of the higher floors, following Ash's directions, I found Stephen working in a truly impressive kitchen. It was easily twice the size of the one in the deli. Everything was in shiny chrome, and I had the distinct feeling that even the knives here were more expensive than my entire kitchen had been.
+
+On a central island was already a pile of ingredients. Next to it, Stephen leaned over a clipboard on which he was taking notes.
+
+"Still working out the menu?" I asked.
+
+"Nearly done," Stephen murmured before he looked up at me. "Ah, hey, Eve."
+
+"Found everything you needed?"
+
+His eyes lit up. "Oh, Eve, we found so much more. You wouldn't believe the things those people had in stock here. We were too late for a bunch of the produce they had, but the freezers are fully stocked, and there really are gardens in here producing fresh goods."
+
+"Perfect. What do you need me to do?"
+
+Stephen eyed me up and down. "First? Hairnet and apron. Second? Wash your hands. Then?" He indicated the pile of produce on the center island. "Get to chopping."
+
+I gave our cook a salute and did as I was told. Refreshingly uncomplicated work that would help provide for our friends.
+
+Stephen explained to me that we weren't going for the fine dining experience either. We'd be going for staples from the 'cuisine familiale' and 'cuisine bourgeoise'. Everyday food for French families. Which he hoped would come closer to imitating Helene's treasured memories.
+
+My part was mostly really just cutting things up, which involved learning that I supposedly diced onions wrong my whole life. And figuring out how to operate the pressure cooker without its manual. I put our odds of dying in a sudden and unexpected explosion of the thing at roughly 5%. Those were scary contraptions. There had to be a way to weaponize those, especially considering how our inventories preserved everything in the state we put it in.
+
+Only when Stephen started searing some meat did I have to put the knife down. I gripped the counter hard enough that my claws dug into the steel.
+
+"Eve? You okay?"
+
+"They killed two of the hyenas. They fucking grilled one of them. They—" My voice gave out, and I sank to the floor.
+
+Stephen came over, knelt down next to me, and pulled me into his arms. "God, I'm so sorry. Who did this? Are they safe now?"
+
+"The orcs. I took care of it. They have kobolds looking after them now." I gently pushed Stephen away. "Go and take care of that beef. I don't want you to waste a prime cut because I'm a mess."
+
+He reluctantly pulled away. "Your priorities are messed up, Eve."
+
+"I'll eventually be okay. That meat is eventually going to be charred."
+
+He returned to his pan. "Take your time, okay?"
+
+"Did you know that scent is one of the most powerful memory triggers? Goes right past the boring parts of the brain and punches the emotional circuitry directly. Kind of rude, to be honest."
+
+"Any other scents I should avoid?"
+
+I got back up, wiped my face with a paper towel, washed my hands again, and went back to cutting. "I doubt you can replicate the scent of the tunnels."
+
+We went back to business, and I lasted a full two hours without another breakdown. Yay, me.
