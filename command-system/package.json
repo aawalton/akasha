@@ -54,8 +54,7 @@
     "./argument-narrowing": "./argument-narrowing/argument-narrowing.module.code.ts",
     "./commands-served": "./commands-served/commands-served.module.code.ts",
     "./agent-forest": "./commands/agent-forest/agent-forest.command.code.ts",
-    "./page-tree": "./commands/page-tree/page-tree.command.code.ts",
-    "./work-tree": "./commands/work-tree/work-tree.command.code.ts"
+    "./page-tree": "./commands/page-tree/page-tree.command.code.ts"
   },
   "dependencies": {
     "@akasha/code": "workspace:*",

@@ -105,13 +105,6 @@ function rootNote(
     : `drawn as a root: it names parent ${declared}, which has no document`
 }
 
-// AN INTENT IS A ROW OF THE INITIATIVE HOLDING IT RATHER THAN A PAGE OF ITS OWN. It carries no
-// page, so it opens the page of the initiative above it — which is where an intent is edited — and
-// it carries no color, a color being a seat's and a seat sitting on an initiative rather than on
-// one of that initiative's intents.
-//
-// The working memory becomes the note, which is the field a tooltip already shows and a filter
-// already searches, so what an intent is being held up by is found by typing part of it.
 function intentNodes(row: InitiativeRow): readonly Node[] {
   return row.intents.map((one, at) => ({
     kind: "intent" as const,
@@ -125,10 +118,6 @@ function intentNodes(row: InitiativeRow): readonly Node[] {
   }))
 }
 
-// THE INTENTS COME FIRST AND KEEP THE ORDER THEIR INITIATIVE STATES. An intent list reads as a
-// sequence of what to make so, and the author put it in that sequence: sorting it the way the
-// initiatives beneath are sorted would scramble that into alphabetical order by first letter of
-// the statement. So the intents are left as stated and the initiatives are sorted among themselves.
 function nodeOf(
   row: InitiativeRow,
   parents: ReadonlyMap<string, string | null>,
@@ -180,8 +169,6 @@ export function walk(nodes: readonly Node[]): readonly Node[] {
   return nodes.flatMap((one) => [one, ...walk(one.children)])
 }
 
-// THE ROWS ARE COUNTED BY WHAT EACH ROW IS RATHER THAN ALL TOGETHER, so that a count of the
-// initiatives stays a count of the initiatives now that the tree holds rows that are not one.
 export function countOf(nodes: readonly Node[], kind: NodeKind): number {
   return walk(nodes).filter((one) => one.kind === kind).length
 }

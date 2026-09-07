@@ -25,8 +25,8 @@ function rowIn(
   return { slug, path: `${slug}.initiative.ts`, parent, persona: null, intents }
 }
 
-function intentIn(statement: string, workingMemory: string | null = null): InitiativeIntent {
-  return { statement, workingMemory }
+function intentIn(statement: string): InitiativeIntent {
+  return { statement, workingMemory: null }
 }
 
 test("a call naming nothing prints the tree", () => {
@@ -156,7 +156,9 @@ test("an intent opens the page of the initiative holding it", () => {
 })
 
 test("an intent carries its working memory as the note", () => {
-  const tree = treeOf([rowIn("one", null, [intentIn("make it so", "cut at 74bda7f0")])])
+  const tree = treeOf([
+    rowIn("one", null, [{ statement: "make it so", workingMemory: "cut at 74bda7f0" }]),
+  ])
 
   expect(tree[0]?.children[0]?.note).toBe("cut at 74bda7f0")
 })
