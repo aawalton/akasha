@@ -10,7 +10,7 @@ export const nimueCodeCleanup = {
     {
       statement: "No body names `@akasha/code-system`.",
       workingMemory:
-        "2,714 files name the old package, 2,707 as `@akasha/code-system/...`, and 2,687 of those sit under `temper/`. The root manifest aliases the old name to `workspace:@akasha/code@*`, and that alias goes once no body names the old name. `code-system/package.json` already states `@akasha/code`. The import index keys both spellings on one path, so every body is read off the index rather than walked: 4,322 importers of `code-system/modules/module.page-type.ts`.",
+        "`rename-package` composes 2,709 edits from `code-system/package.json` given `from: @akasha/code-system`. The import index keys the new spelling alone, so the old name is found by walking every path rather than off the importers of a module. 21 manifests carry the alias `@akasha/code-system` to `workspace:@akasha/code@*`, which the change leaves alone and which goes once no body names the old name. `code-system/package.json` already states `@akasha/code`.",
     },
     {
       statement: "All code-system files are in the code/ folder.",
