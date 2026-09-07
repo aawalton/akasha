@@ -71,6 +71,19 @@ index 11c69063a25ea60afdc6101bd9639303ff2749a8..ddb62e0b4c229d7a5cdd21eb138a0a9d
 -  visibleProperties: ["priority", "due-date", "due-time"],
 +  visibleProperties: ["to-do-priority", "to-do-due-date", "due-time"],
  } as const satisfies View
+diff --git a/pages/views/pages/temper-tasks-all.view.ts b/pages/views/pages/temper-tasks-all.view.ts
+index 62ba9cbc382a69bbc890eb5f5bfb572391368e2b..201c2c1859667137d630a43fec72ec93daab371e 100644
+--- a/pages/views/pages/temper-tasks-all.view.ts
++++ b/pages/views/pages/temper-tasks-all.view.ts
+@@ -8,7 +8,7 @@ export const temperTasksAll = {
+   navSlug: "temper-tasks",
+   pageType: "temper-task",
+   viewPlace: 4,
+-  viewSorts: [{ key: "updated-at", descending: true }],
++  viewSorts: [{ key: "display-order", descending: false }],
+   visibleProperties: ["due-date"],
+   pageSize: 12,
+   itemPageSize: 12,
 diff --git a/pages/views/pages/temper-tasks-today.view.ts b/pages/views/pages/temper-tasks-today.view.ts
 index e09f8895e07e4de26033c251d8c7bdda8798c6be..2d164933b639b8b89877fff58877fc3ee8b293b2 100644
 --- a/pages/views/pages/temper-tasks-today.view.ts
