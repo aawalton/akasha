@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const seatTranscripts = {
   id: "01a06934-ff28-7819-ad05-c50a0471362c",
@@ -46,6 +46,23 @@ export const seatTranscripts = {
     {
       invariantKind: "departure",
       statement: "Every seat is answered in one call rather than one seat at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The walk over the seats takes its reader as a parameter.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The seats are read from the checkout the readers reach rather than from the root `given` names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One test arm calls the command itself rather than a seeded reader.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module specifier that does not resolve fails that arm at import.",
     },
     {
       invariantKind: "absence",

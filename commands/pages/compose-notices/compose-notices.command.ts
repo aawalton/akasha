@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const composeNotices = {
   id: "01a0693b-42f9-7c87-95fd-2c7147ecd1f2",
@@ -48,6 +48,11 @@ export const composeNotices = {
       invariantKind: "departure",
       statement:
         "A relative `--out` path is read against the repository root rather than the caller's folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every word the command does not take is named in the refusal rather than the first alone.",
     },
     {
       invariantKind: "absence",

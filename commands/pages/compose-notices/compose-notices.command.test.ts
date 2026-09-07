@@ -17,9 +17,6 @@ function scratch(): string {
   return at
 }
 
-// WHERE THE NOTICES ARE READ FROM IS THE ENVIRONMENT'S TO SAY. `notices` works the akasha root out
-// afresh on each call, so a scratch checkout steers it. Which repositories there are is worked out
-// once, from where the module sits, and a real call settles that before the scratch root goes in.
 function underRoot<T>(root: string, run: () => T): T {
   notices()
   const held = process.env["AKASHA_ROOT"]

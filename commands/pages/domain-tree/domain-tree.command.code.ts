@@ -8,8 +8,6 @@ import { rootOf } from "@akasha/command-system/rooting"
 import { type DomainRow as Drawn, domainsDrawn } from "@akasha/domains/domain-rows"
 import { championTree, type DomainRow } from "@akasha/editor-extension/champions-tree"
 
-// A domain as the panel reads it, said as the tree wants it. The two spell the path differently and
-// agree on the rest.
 export function rowsFrom(drawn: readonly Drawn[]): readonly DomainRow[] {
   return drawn.map((one) => ({
     slug: one.slug,
@@ -44,10 +42,6 @@ export function domainTree(argv: readonly string[], given: Given): Answer {
   }
 }
 
-// ASKED AS A CHILD OF ITS OWN, so this file is an entry point as well as a command. The editor
-// spawns this rather than asking the held-open server, because a cheap read queued behind two
-// expensive trees waits on both, and the outside a command is handed is composed here the way the
-// command line composes it.
 function outsideHere(): Given {
   const stated = process.env.AKASHA_ROOT
   const said = process.env.AKASHA_WRITER

@@ -2,7 +2,7 @@ import { asking } from "@akasha/pages-service/asking"
 import { levelOf } from "../../../alan/harness/attributes/levelling/attributes-levelling.module.code.ts"
 import type { Taken } from "../../../alan/harness/attributes/reading/attributes-reading.module.code.ts"
 import { totalAttributes } from "../../../alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 
 const READOUT = "readout"
 
@@ -20,8 +20,6 @@ export type Measured = {
   readonly figure: number
 }
 
-// A FIGURE IS FLOORED RATHER THAN ROUNDED. A reading just short of a rung reads as the rung it has
-// not reached once it is rounded up, and the whole point of the figure is to say what is earned.
 export function flooredTo(value: number, places: number): number {
   const scale = 10 ** places
   return Math.floor(value * scale) / scale
@@ -34,8 +32,6 @@ function slugIn(path: string): string {
 
 type Drawn = { readonly label: string; readonly place: number }
 
-// THE LABEL AND THE ORDER COME FROM THE READOUT'S OWN PAGE. An attribute added later is answered
-// with the rest of them, where a list written here would answer the six that were there today.
 export function drawnIn(root: string): ReadonlyMap<string, Drawn> {
   const found = new Map<string, Drawn>()
   const asked = asking(root, {
@@ -75,10 +71,6 @@ function widestOf(values: readonly string[]): number {
   return values.reduce((most, one) => Math.max(most, one.length), 0)
 }
 
-// EVERY COLUMN IS WRITTEN TO THE WIDTH OF ITS OWN WIDEST ENTRY. A number written as the number it
-// is drops the places it has no digits for, so a column reads `0`, `0.6` and `0.63`, and the
-// hundredths of one attribute sit under the tenths of the next. A level of ten digits two wide
-// would shove the points of every other attribute across by one for the same reason.
 export function linesOf(measured: readonly Measured[]): readonly string[] {
   const cells = measured.map((one) => ({
     label: one.label,

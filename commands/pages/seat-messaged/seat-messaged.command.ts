@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const seatMessaged = {
   id: "01a0780e-7f14-71fd-ac09-b12de342c207",
@@ -26,6 +26,11 @@ export const seatMessaged = {
     {
       invariantKind: "departure",
       statement: "A run states which persona was marked and at what moment.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A seat holding no persona is refused in the same words as a name that is no seat.",
     },
     {
       invariantKind: "absence",

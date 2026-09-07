@@ -1,6 +1,6 @@
 import { asking } from "@akasha/pages-service/asking"
 import { keepLastMessagedAt, personaOr } from "@akasha/personas/persona-reading"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 
 const SEAT = "seat"
 
@@ -26,9 +26,6 @@ export function seatedIn(root: string): readonly Seated[] {
   return held
 }
 
-// A SEAT NAMING NOBODY IS THE SAME ANSWER AS NO SEAT AT ALL. Either way there is no persona to mark,
-// and a caller that had to tell the two apart would be deciding what to do with a seat rather than
-// with a persona.
 export function personaIn(seats: readonly Seated[], name: string): string | null {
   for (const one of seats) {
     if (one.slug === name && one.personaSlug !== "") return one.personaSlug

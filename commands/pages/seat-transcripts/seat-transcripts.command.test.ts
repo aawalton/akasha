@@ -127,10 +127,6 @@ test("every word it was given is named rather than the first of them alone", () 
   expect(said.refusals[0]).toContain("`--counts`")
 })
 
-// THIS ARM IS WHAT PROVES THE HELPERS RESOLVE. Everything above drives a seeded reader, so it
-// would pass with `@akasha/seat-system/seat-akasha-beside` misspelt into a module that is
-// not there. This one calls the command, which reaches both helpers, so a bad specifier
-// fails it at import.
 test("a call naming nothing answers the seats the fleet holds now", () => {
   const said = seatTranscripts([], givenIn())
 
