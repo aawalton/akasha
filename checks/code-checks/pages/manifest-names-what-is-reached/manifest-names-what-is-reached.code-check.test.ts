@@ -33,8 +33,8 @@ function reaching(...every: readonly string[]): Reach {
   return { packages: new Set(every), protocols: new Set() }
 }
 
-function thereOf(...every: readonly string[]): (named: string) => boolean {
-  return (named) => every.includes(named)
+function thereOf(...every: readonly string[]): (one: string) => boolean {
+  return (one) => every.includes(one)
 }
 
 function named(held: Record<string, unknown>): Named {
