@@ -1,0 +1,17 @@
+diff --git a/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts b/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts
+index bd84891a6456ec70a75c33d315873b5ae2bb5e13..f592bad4fd20f2ef1c75097fb8e0c5c461a340b6 100644
+--- a/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts
++++ b/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts
+@@ -10,7 +10,11 @@ export const terminalSeatLaunchers = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat comes up under tmux, so a terminal that quits leaves the seat working.",
++      statement: "A seat comes up under tmux.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A terminal that quits leaves the seat working.",
+     },
+     {
+       invariantKind: "departure",
