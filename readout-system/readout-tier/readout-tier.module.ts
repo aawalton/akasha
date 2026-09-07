@@ -60,6 +60,10 @@ export const readoutTier = {
     },
     {
       invariantKind: "departure",
+      statement: "The tier above a reading under every rung is the first rung that is not black.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "How far a reading has climbed is the fraction between the rung reached and the rung above.",
     },

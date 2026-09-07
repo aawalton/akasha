@@ -80,8 +80,11 @@ function climbedTo(reading: number, rungs: readonly Rung[]): Tiered {
   const here = rungs[reached]
   const next = rungs[reached + 1]
   const tier = here === undefined ? BELOW_EVERY_RUNG : here.color
+  if (here === undefined) {
+    const above = rungs.find((rung) => rung.color !== BELOW_EVERY_RUNG)
+    return { tier, nextTier: above?.color ?? null, progress: null }
+  }
   if (next === undefined) return { tier, nextTier: null, progress: null }
-  if (here === undefined) return { tier, nextTier: next.color, progress: null }
 
   const span = next.at - here.at
   const climbed = (reading - here.at) / span

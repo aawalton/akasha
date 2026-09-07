@@ -100,6 +100,11 @@ test("a rung the scale states nothing for is never named as the tier above", () 
   expect(tierAt(0.5, CLIMBING)?.nextTier).toBe("red")
 })
 
+test("the tier above a reading under every rung is the first rung that is not black", () => {
+  expect(tierAt(-2, CLIMBING)?.nextTier).toBe("red")
+  expect(tierAt(-2, rungsIn({ blackAt: 0, redAt: 1, blueAt: 4 }))?.nextTier).toBe("red")
+})
+
 test("how far a reading has climbed is the fraction between the two rungs it sits on", () => {
   expect(tierAt(2.5, CLIMBING)?.progress).toBe(0.5)
   expect(tierAt(2, CLIMBING)?.progress).toBe(0)
