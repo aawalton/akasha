@@ -47,7 +47,11 @@ export const newestWins = {
     },
     {
       invariantKind: "constraint",
-      statement: "Every ask carries a whole picture, so the newest repeats the ones before.",
+      statement: "Every ask carries a whole picture.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The newest ask repeats every earlier ask.",
     },
     {
       invariantKind: "absence",
