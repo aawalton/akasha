@@ -9,7 +9,7 @@ export const libSetsKbfDlcFilter = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This filter builds its own scrollable menu instead of taking the shared one.",
+      statement: "This filter builds its own scrollable menu instead of taking the shared menu.",
     },
     {
       invariantKind: "constraint",
