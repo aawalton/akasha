@@ -25,7 +25,11 @@ export const voiceCloneClient = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches the service; the request is only built.",
+      statement: "Nothing here reaches the service.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The request is only built.",
     },
   ],
 } as const satisfies Module
