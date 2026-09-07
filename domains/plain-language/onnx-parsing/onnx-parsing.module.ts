@@ -25,6 +25,18 @@ export const onnxParsing = {
     },
     {
       invariantKind: "departure",
+      statement: "A sentence is parsed on a single thread unless the caller states a thread count.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The model runs slower across every core than on a single thread.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A thread beyond the first costs more time than that thread saves.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A tensor is disposed of whether the run answers or throws.",
     },
     {

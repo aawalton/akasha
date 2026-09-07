@@ -69,6 +69,8 @@ const MODEL_PAGE = new URL(
 
 const DEFAULT_MAX_BATCH_SENTENCES = 16
 
+const DEFAULT_INTRA_OP_THREADS = 1
+
 const OTHER_CLASS = "X"
 
 const UNSPECIFIED_RELATION = "dep"
@@ -323,9 +325,7 @@ export async function loadOnnxParser(options: OnnxParserOptions = {}): Promise<D
   const sessionOptions: ort.InferenceSession.SessionOptions = {
     executionProviders: ["cpu"],
     graphOptimizationLevel: "all",
-  }
-  if (options.intraOpNumThreads !== undefined) {
-    sessionOptions.intraOpNumThreads = options.intraOpNumThreads
+    intraOpNumThreads: options.intraOpNumThreads ?? DEFAULT_INTRA_OP_THREADS,
   }
   const [parser, relations] = await Promise.all([
     ort.InferenceSession.create(files.parserWeights, sessionOptions),
