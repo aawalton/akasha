@@ -1,5 +1,5 @@
 diff --git a/inference/generations/zimage/zimage-explore-worker/zimage-explore-worker.module.ts b/inference/generations/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
-index 30b9303564e692f2395c1bc6eebdc153e24bb975..e8a20f3e24478c2468b722afda91c9a82d8dd0d8 100644
+index 30b9303564e692f2395c1bc6eebdc153e24bb975..a602257caae3e826eb440dae76727423886cf029 100644
 --- a/inference/generations/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
 +++ b/inference/generations/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
 @@ -26,7 +26,11 @@ export const zimageExploreWorker = {
@@ -12,6 +12,20 @@ index 30b9303564e692f2395c1bc6eebdc153e24bb975..e8a20f3e24478c2468b722afda91c9a8
 +    {
 +      invariantKind: "departure",
 +      statement: "One inference runs at a time.",
+     },
+     {
+       invariantKind: "departure",
+@@ -34,8 +38,11 @@ export const zimageExploreWorker = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A prompt file is claimed before that file is rendered, so no retraction double-runs that file.",
++      statement: "A prompt file is claimed before that file is rendered.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "No retraction double-runs a claimed file.",
      },
      {
        invariantKind: "departure",
