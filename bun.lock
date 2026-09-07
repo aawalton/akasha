@@ -569,6 +569,7 @@
     "collections/royal-road": {
       "name": "@akasha/royal-road",
       "dependencies": {
+        "@akasha/code": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
       },
     },
