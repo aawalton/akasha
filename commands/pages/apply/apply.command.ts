@@ -40,14 +40,6 @@ export const apply = {
     },
     {
       invariantKind: "departure",
-      statement: "An edit naming the path that edit came from is drafted as two paths.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The path a move came from is drafted as holding no body.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "The edits go once the apply has landed rather than once the patch carries the bodies.",
     },
