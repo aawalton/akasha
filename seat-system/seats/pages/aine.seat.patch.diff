@@ -1,0 +1,891 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index aabfd7d9f682e4c194650729802bdf7c07b67502..f3bce154a72d69e927666335997d86be3281f6a1 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -45,7 +45,7 @@ export const changeMechanical = {
+     "change-mechanical-data/rename-page-slug",
+     "change-mechanical-file/rename-path",
+     "change-mechanical/rename-property-signature",
+-    "change-mechanical/rename-manifest-ways",
++    "change-mechanical-manifest/rename-manifest-ways",
+     "change-mechanical/remove-manifest-ways",
+     "change-mechanical-data/rename-page-address",
+     "relation-property/guard-slugs",
+diff --git a/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical-manifest.code.ts b/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical-manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..96673104dcc98eb6acf9b18644ac448fc6e202ea
+--- /dev/null
++++ b/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical-manifest.code.ts
+@@ -0,0 +1,166 @@
++import { dirname, join } from "node:path"
++import ts from "typescript"
++import {
++  answered,
++  moving,
++  refusing,
++  writing,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++
++const EXPORTS = "exports"
++
++const HERE = "."
++
++const PARTED_BY = "/"
++
++const OPENING = "./"
++
++type Splice = { readonly start: number; readonly end: number; readonly said: string }
++
++type Landing = { readonly said: string } | { readonly gone: true }
++
++export type Asked = {
++  readonly at: string
++  readonly moved: Readonly<Record<string, string>>
++}
++
++function heldIn(source: ts.JsonSourceFile): ts.ObjectLiteralExpression | null {
++  const first = source.statements[0]
++  if (first === undefined || !ts.isExpressionStatement(first)) return null
++  const held = first.expression
++  return ts.isObjectLiteralExpression(held) ? held : null
++}
++
++function namedIn(owner: ts.ObjectLiteralExpression, key: string): ts.PropertyAssignment | null {
++  for (const one of owner.properties) {
++    if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
++    if (one.name.text === key) return one
++  }
++  return null
++}
++
++function goneSpan(text: string, node: ts.Node, after: boolean): Splice {
++  const start = node.getFullStart()
++  const end = node.getEnd()
++  let at = end
++  while (at < text.length) {
++    const here = text[at] ?? ""
++    if (here === ",") return { start, end: at + 1, said: "" }
++    if (here.trim() !== "") break
++    at = at + 1
++  }
++  if (after) return { start, end, said: "" }
++  let back = start - 1
++  while (back >= 0) {
++    const here = text[back] ?? ""
++    if (here === ",") return { start: back, end, said: "" }
++    if (here.trim() !== "") break
++    back = back - 1
++  }
++  return { start, end, said: "" }
++}
++
++export function landingFor(
++  at: string,
++  arriving: string,
++  value: string,
++  moved: ReadonlyMap<string, string>
++): Landing {
++  const was = join(dirname(at), value)
++  const arrived = moved.get(was) ?? was
++  const under = arriving === HERE ? "" : `${arriving}${PARTED_BY}`
++  if (!arrived.startsWith(under)) return { gone: true }
++  return { said: `${OPENING}${arrived.slice(under.length)}` }
++}
++
++function saidSpan(source: ts.JsonSourceFile, value: ts.StringLiteral, said: string): Splice | null {
++  if (said === value.text) return null
++  return { start: value.getStart(source), end: value.getEnd(), said: JSON.stringify(said) }
++}
++
++function overWays(
++  source: ts.JsonSourceFile,
++  text: string,
++  at: string,
++  arriving: string,
++  held: ts.ObjectLiteralExpression,
++  moved: ReadonlyMap<string, string>
++): readonly Splice[] {
++  const found: Splice[] = []
++  let after = false
++  for (const one of held.properties) {
++    if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) {
++      after = false
++      continue
++    }
++    const value = one.initializer
++    if (!ts.isStringLiteral(value)) {
++      after = false
++      continue
++    }
++    const landing = landingFor(at, arriving, value.text, moved)
++    if ("gone" in landing) {
++      found.push(goneSpan(text, one, after))
++      after = true
++      continue
++    }
++    const next = saidSpan(source, value, landing.said)
++    if (next !== null) found.push(next)
++    after = false
++  }
++  return found
++}
++
++function splicesFor(
++  source: ts.JsonSourceFile,
++  text: string,
++  at: string,
++  arriving: string,
++  moved: ReadonlyMap<string, string>
++): readonly Splice[] {
++  const owner = heldIn(source)
++  const ways = owner === null ? null : namedIn(owner, EXPORTS)
++  if (ways === null) return []
++  const held = ways.initializer
++  if (ts.isObjectLiteralExpression(held)) return overWays(source, text, at, arriving, held, moved)
++  if (!ts.isStringLiteral(held)) return []
++  const landing = landingFor(at, arriving, held.text, moved)
++  if ("gone" in landing) return [goneSpan(text, ways, false)]
++  const next = saidSpan(source, held, landing.said)
++  return next === null ? [] : [next]
++}
++
++function spliced(text: string, splices: readonly Splice[]): string {
++  let body = text
++  for (const one of [...splices].sort((first, next) => next.start - first.start)) {
++    body = `${body.slice(0, one.start)}${one.said}${body.slice(one.end)}`
++  }
++  return body
++}
++
++export function renameManifestWays(given: Asked, textOf: (path: string) => string | null): Answer {
++  const text = textOf(given.at)
++  if (text === null) return refusing(`\`${given.at}\` holds no body, so no way in is repointed`)
++  let read: unknown = null
++  try {
++    read = JSON.parse(text)
++  } catch {
++    read = null
++  }
++  if (read === null || typeof read !== "object" || Array.isArray(read)) {
++    return refusing(`\`${given.at}\` reads as no JSON object, so no way in is repointed`)
++  }
++  const moved = new Map(Object.entries(given.moved))
++  const lands = moved.get(given.at) ?? given.at
++  const source = ts.parseJsonText(given.at, text)
++  const body = spliced(text, splicesFor(source, text, given.at, dirname(lands), moved))
++  return answered([
++    lands === given.at ? writing(given.at, text, body) : moving(given.at, lands, text, body),
++  ])
++}
++
++export function runChange(world: World, given: Asked): Answer {
++  return renameManifestWays(given, world.textOf)
++}
+diff --git a/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical-manifest.test.ts b/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical-manifest.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..224d66732863152eef4c6e8fcc17511b8a2d87bc
+--- /dev/null
++++ b/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical-manifest.test.ts
+@@ -0,0 +1,196 @@
++import { expect, test } from "bun:test"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import {
++  landingFor,
++  renameManifestWays,
++} from "./rename-manifest-ways.change-mechanical-manifest.code.ts"
++
++const AT = "seat-system/package.json"
++
++const BODY = `{
++  "name": "@akasha/seat-system",
++  "type": "module",
++  "exports": {
++    "./alpha": "./alpha/alpha.module.code.ts",
++    "./beta": "./beta/beta.module.code.ts",
++    "./gamma": "./gamma/gamma.module.code.ts"
++  }
++}
++`
++
++const NO_WAYS = `{
++  "name": "@akasha/seat-system",
++  "type": "module"
++}
++`
++
++const ONE_WAY = `{
++  "name": "@akasha/seat-system",
++  "exports": "./alpha/alpha.module.code.ts"
++}
++`
++
++const BROKEN = `{
++  "name": "@akasha/seat-system",
++  "exports": {
++`
++
++function saidOf(moved: Record<string, string>, text: string): Answer {
++  return renameManifestWays({ at: AT, moved }, (path) => (path === AT ? text : null))
++}
++
++function bodyOf(moved: Record<string, string>, text: string): string {
++  const said = saidOf(moved, text)
++  expect(said.refused).toBeNull()
++  expect(said.edits).toHaveLength(1)
++  return said.edits[0]?.body ?? ""
++}
++
++function waysOf(body: string): Record<string, string> {
++  return (JSON.parse(body) as { exports: Record<string, string> }).exports
++}
++
++test("a way in whose file moved inside the package points at where the file went", () => {
++  const said = bodyOf(
++    { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
++    BODY
++  )
++
++  expect(said).toBe(BODY.replace(`"./beta/beta.module.code.ts"`, `"./held/beta.module.code.ts"`))
++})
++
++test("a way in whose file landed outside the package is dropped", () => {
++  const said = bodyOf({ "seat-system/beta/beta.module.code.ts": "other/beta.module.code.ts" }, BODY)
++
++  expect(said).toBe(BODY.replace(`\n    "./beta": "./beta/beta.module.code.ts",`, ""))
++  expect(Object.keys(waysOf(said))).toEqual(["./alpha", "./gamma"])
++})
++
++test("the last way in is dropped and what stays reads as JSON", () => {
++  const said = bodyOf(
++    { "seat-system/gamma/gamma.module.code.ts": "other/gamma.module.code.ts" },
++    BODY
++  )
++
++  expect(Object.keys(waysOf(said))).toEqual(["./alpha", "./beta"])
++})
++
++test("every way in is dropped and the exports key stays", () => {
++  const said = bodyOf(
++    {
++      "seat-system/alpha/alpha.module.code.ts": "other/alpha.module.code.ts",
++      "seat-system/beta/beta.module.code.ts": "other/beta.module.code.ts",
++      "seat-system/gamma/gamma.module.code.ts": "other/gamma.module.code.ts",
++    },
++    BODY
++  )
++
++  expect(waysOf(said)).toEqual({})
++})
++
++test("a manifest that moves carries every way in to where the files landed", () => {
++  const moved = {
++    "seat-system/package.json": "held/package.json",
++    "seat-system/alpha/alpha.module.code.ts": "held/alpha/alpha.module.code.ts",
++    "seat-system/beta/beta.module.code.ts": "held/beta/beta.module.code.ts",
++    "seat-system/gamma/gamma.module.code.ts": "held/gamma/gamma.module.code.ts",
++  }
++  const said = saidOf(moved, BODY)
++
++  expect(said.edits[0]?.from).toBe(AT)
++  expect(said.edits[0]?.path).toBe("held/package.json")
++  expect(bodyOf(moved, BODY)).toBe(BODY)
++})
++
++test("the spacing the manifest already carries is kept", () => {
++  const text = `{"name":"one","exports":{"./beta":"./beta/beta.module.code.ts"}}`
++  const said = bodyOf(
++    { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
++    text
++  )
++
++  expect(said).toBe(`{"name":"one","exports":{"./beta":"./held/beta.module.code.ts"}}`)
++})
++
++test("a manifest stating one way in as text follows the file that way in names", () => {
++  const said = bodyOf(
++    { "seat-system/alpha/alpha.module.code.ts": "seat-system/held/alpha.module.code.ts" },
++    ONE_WAY
++  )
++
++  expect(said).toBe(
++    ONE_WAY.replace(`"./alpha/alpha.module.code.ts"`, `"./held/alpha.module.code.ts"`)
++  )
++})
++
++test("a way in stated as text and landed outside goes with the exports key", () => {
++  const said = bodyOf(
++    { "seat-system/alpha/alpha.module.code.ts": "other/alpha.module.code.ts" },
++    ONE_WAY
++  )
++
++  expect(JSON.parse(said)).toEqual({ name: "@akasha/seat-system" })
++})
++
++test("a manifest stating no way in is answered unchanged", () => {
++  expect(
++    bodyOf(
++      { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
++      NO_WAYS
++    )
++  ).toBe(NO_WAYS)
++})
++
++test("a manifest naming no file that moved is answered unchanged", () => {
++  expect(
++    bodyOf(
++      { "seat-system/delta/delta.module.code.ts": "seat-system/held/delta.module.code.ts" },
++      BODY
++    )
++  ).toBe(BODY)
++})
++
++test("a body that reads as no JSON object is refused", () => {
++  const said = saidOf(
++    { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
++    BROKEN
++  )
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/reads as no JSON object/)
++})
++
++test("a manifest holding no body is refused", () => {
++  const said = renameManifestWays({ at: AT, moved: {} }, () => null)
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/holds no body/)
++})
++
++test("a manifest that stays is answered under the path the body was read from", () => {
++  const said = saidOf({}, BODY)
++
++  expect(said.edits[0]?.path).toBe(AT)
++  expect(said.edits[0]?.was).toBe(BODY)
++  expect(said.edits[0]?.from).toBe(undefined)
++})
++
++test("a landing is read against the folder the manifest arrives in", () => {
++  const moved = new Map([["seat-system/beta/beta.module.code.ts", "held/beta.module.code.ts"]])
++
++  expect(landingFor(AT, "held", "./beta/beta.module.code.ts", moved)).toEqual({
++    said: "./beta.module.code.ts",
++  })
++  expect(landingFor(AT, "seat-system", "./beta/beta.module.code.ts", moved)).toEqual({ gone: true })
++})
++
++test("the body is answered rather than written", () => {
++  const held: Record<string, string> = { [AT]: BODY }
++  const said = renameManifestWays(
++    { at: AT, moved: { "seat-system/beta/beta.module.code.ts": "other/beta.module.code.ts" } },
++    (path) => held[path] ?? null
++  )
++
++  expect(said.refused).toBeNull()
++  expect(held[AT]).toBe(BODY)
++})
+diff --git a/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical-manifest.ts b/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical-manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e6c9e1aa4c9c07fc2cda918383e4449026f5fa0a
+--- /dev/null
++++ b/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical-manifest.ts
+@@ -0,0 +1,60 @@
++import type { ChangeMechanicalManifest } from "../../manifest/change-mechanical-manifest.page-type.ts"
++
++export const renameManifestWays = {
++  id: "01a0798b-3398-71d0-ba4b-fa40530ad360",
++  pageTypeSlug: "change-mechanical-manifest",
++  slug: "rename-manifest-ways",
++  changeModeSlug: "change-mode-rename",
++  definition: "a manifest's ways in rewritten to follow the files those ways in name",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A way in follows the file that way in names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A way in whose file lands outside the package is dropped.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A way in is rewritten by splicing the manifest's text.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The manifest keeps the spacing the manifest already carries.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every way in is read against the folder the manifest arrives in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A manifest landing elsewhere is answered as one move rather than as a write.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body reading as no JSON object is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A manifest stating no way in is answered unchanged.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body is answered rather than written.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here looks for the manifests standing above a path that moved.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads the disk or an index.",
++    },
++  ],
++} as const satisfies ChangeMechanicalManifest
+diff --git a/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.code.ts b/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.code.ts
+deleted file mode 100644
+index 96673104dcc98eb6acf9b18644ac448fc6e202ea..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.code.ts
++++ /dev/null
+@@ -1,166 +0,0 @@
+-import { dirname, join } from "node:path"
+-import ts from "typescript"
+-import {
+-  answered,
+-  moving,
+-  refusing,
+-  writing,
+-} from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-
+-const EXPORTS = "exports"
+-
+-const HERE = "."
+-
+-const PARTED_BY = "/"
+-
+-const OPENING = "./"
+-
+-type Splice = { readonly start: number; readonly end: number; readonly said: string }
+-
+-type Landing = { readonly said: string } | { readonly gone: true }
+-
+-export type Asked = {
+-  readonly at: string
+-  readonly moved: Readonly<Record<string, string>>
+-}
+-
+-function heldIn(source: ts.JsonSourceFile): ts.ObjectLiteralExpression | null {
+-  const first = source.statements[0]
+-  if (first === undefined || !ts.isExpressionStatement(first)) return null
+-  const held = first.expression
+-  return ts.isObjectLiteralExpression(held) ? held : null
+-}
+-
+-function namedIn(owner: ts.ObjectLiteralExpression, key: string): ts.PropertyAssignment | null {
+-  for (const one of owner.properties) {
+-    if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
+-    if (one.name.text === key) return one
+-  }
+-  return null
+-}
+-
+-function goneSpan(text: string, node: ts.Node, after: boolean): Splice {
+-  const start = node.getFullStart()
+-  const end = node.getEnd()
+-  let at = end
+-  while (at < text.length) {
+-    const here = text[at] ?? ""
+-    if (here === ",") return { start, end: at + 1, said: "" }
+-    if (here.trim() !== "") break
+-    at = at + 1
+-  }
+-  if (after) return { start, end, said: "" }
+-  let back = start - 1
+-  while (back >= 0) {
+-    const here = text[back] ?? ""
+-    if (here === ",") return { start: back, end, said: "" }
+-    if (here.trim() !== "") break
+-    back = back - 1
+-  }
+-  return { start, end, said: "" }
+-}
+-
+-export function landingFor(
+-  at: string,
+-  arriving: string,
+-  value: string,
+-  moved: ReadonlyMap<string, string>
+-): Landing {
+-  const was = join(dirname(at), value)
+-  const arrived = moved.get(was) ?? was
+-  const under = arriving === HERE ? "" : `${arriving}${PARTED_BY}`
+-  if (!arrived.startsWith(under)) return { gone: true }
+-  return { said: `${OPENING}${arrived.slice(under.length)}` }
+-}
+-
+-function saidSpan(source: ts.JsonSourceFile, value: ts.StringLiteral, said: string): Splice | null {
+-  if (said === value.text) return null
+-  return { start: value.getStart(source), end: value.getEnd(), said: JSON.stringify(said) }
+-}
+-
+-function overWays(
+-  source: ts.JsonSourceFile,
+-  text: string,
+-  at: string,
+-  arriving: string,
+-  held: ts.ObjectLiteralExpression,
+-  moved: ReadonlyMap<string, string>
+-): readonly Splice[] {
+-  const found: Splice[] = []
+-  let after = false
+-  for (const one of held.properties) {
+-    if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) {
+-      after = false
+-      continue
+-    }
+-    const value = one.initializer
+-    if (!ts.isStringLiteral(value)) {
+-      after = false
+-      continue
+-    }
+-    const landing = landingFor(at, arriving, value.text, moved)
+-    if ("gone" in landing) {
+-      found.push(goneSpan(text, one, after))
+-      after = true
+-      continue
+-    }
+-    const next = saidSpan(source, value, landing.said)
+-    if (next !== null) found.push(next)
+-    after = false
+-  }
+-  return found
+-}
+-
+-function splicesFor(
+-  source: ts.JsonSourceFile,
+-  text: string,
+-  at: string,
+-  arriving: string,
+-  moved: ReadonlyMap<string, string>
+-): readonly Splice[] {
+-  const owner = heldIn(source)
+-  const ways = owner === null ? null : namedIn(owner, EXPORTS)
+-  if (ways === null) return []
+-  const held = ways.initializer
+-  if (ts.isObjectLiteralExpression(held)) return overWays(source, text, at, arriving, held, moved)
+-  if (!ts.isStringLiteral(held)) return []
+-  const landing = landingFor(at, arriving, held.text, moved)
+-  if ("gone" in landing) return [goneSpan(text, ways, false)]
+-  const next = saidSpan(source, held, landing.said)
+-  return next === null ? [] : [next]
+-}
+-
+-function spliced(text: string, splices: readonly Splice[]): string {
+-  let body = text
+-  for (const one of [...splices].sort((first, next) => next.start - first.start)) {
+-    body = `${body.slice(0, one.start)}${one.said}${body.slice(one.end)}`
+-  }
+-  return body
+-}
+-
+-export function renameManifestWays(given: Asked, textOf: (path: string) => string | null): Answer {
+-  const text = textOf(given.at)
+-  if (text === null) return refusing(`\`${given.at}\` holds no body, so no way in is repointed`)
+-  let read: unknown = null
+-  try {
+-    read = JSON.parse(text)
+-  } catch {
+-    read = null
+-  }
+-  if (read === null || typeof read !== "object" || Array.isArray(read)) {
+-    return refusing(`\`${given.at}\` reads as no JSON object, so no way in is repointed`)
+-  }
+-  const moved = new Map(Object.entries(given.moved))
+-  const lands = moved.get(given.at) ?? given.at
+-  const source = ts.parseJsonText(given.at, text)
+-  const body = spliced(text, splicesFor(source, text, given.at, dirname(lands), moved))
+-  return answered([
+-    lands === given.at ? writing(given.at, text, body) : moving(given.at, lands, text, body),
+-  ])
+-}
+-
+-export function runChange(world: World, given: Asked): Answer {
+-  return renameManifestWays(given, world.textOf)
+-}
+diff --git a/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.test.ts b/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.test.ts
+deleted file mode 100644
+index ecad1dfa3f7ff6659bb6e8dbdeef2bd0557de90d..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.test.ts
++++ /dev/null
+@@ -1,193 +0,0 @@
+-import { expect, test } from "bun:test"
+-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import { landingFor, renameManifestWays } from "./rename-manifest-ways.change-mechanical.code.ts"
+-
+-const AT = "seat-system/package.json"
+-
+-const BODY = `{
+-  "name": "@akasha/seat-system",
+-  "type": "module",
+-  "exports": {
+-    "./alpha": "./alpha/alpha.module.code.ts",
+-    "./beta": "./beta/beta.module.code.ts",
+-    "./gamma": "./gamma/gamma.module.code.ts"
+-  }
+-}
+-`
+-
+-const NO_WAYS = `{
+-  "name": "@akasha/seat-system",
+-  "type": "module"
+-}
+-`
+-
+-const ONE_WAY = `{
+-  "name": "@akasha/seat-system",
+-  "exports": "./alpha/alpha.module.code.ts"
+-}
+-`
+-
+-const BROKEN = `{
+-  "name": "@akasha/seat-system",
+-  "exports": {
+-`
+-
+-function saidOf(moved: Record<string, string>, text: string): Answer {
+-  return renameManifestWays({ at: AT, moved }, (path) => (path === AT ? text : null))
+-}
+-
+-function bodyOf(moved: Record<string, string>, text: string): string {
+-  const said = saidOf(moved, text)
+-  expect(said.refused).toBeNull()
+-  expect(said.edits).toHaveLength(1)
+-  return said.edits[0]?.body ?? ""
+-}
+-
+-function waysOf(body: string): Record<string, string> {
+-  return (JSON.parse(body) as { exports: Record<string, string> }).exports
+-}
+-
+-test("a way in whose file moved inside the package points at where the file went", () => {
+-  const said = bodyOf(
+-    { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
+-    BODY
+-  )
+-
+-  expect(said).toBe(BODY.replace(`"./beta/beta.module.code.ts"`, `"./held/beta.module.code.ts"`))
+-})
+-
+-test("a way in whose file landed outside the package is dropped", () => {
+-  const said = bodyOf({ "seat-system/beta/beta.module.code.ts": "other/beta.module.code.ts" }, BODY)
+-
+-  expect(said).toBe(BODY.replace(`\n    "./beta": "./beta/beta.module.code.ts",`, ""))
+-  expect(Object.keys(waysOf(said))).toEqual(["./alpha", "./gamma"])
+-})
+-
+-test("the last way in is dropped and what stays reads as JSON", () => {
+-  const said = bodyOf(
+-    { "seat-system/gamma/gamma.module.code.ts": "other/gamma.module.code.ts" },
+-    BODY
+-  )
+-
+-  expect(Object.keys(waysOf(said))).toEqual(["./alpha", "./beta"])
+-})
+-
+-test("every way in is dropped and the exports key stays", () => {
+-  const said = bodyOf(
+-    {
+-      "seat-system/alpha/alpha.module.code.ts": "other/alpha.module.code.ts",
+-      "seat-system/beta/beta.module.code.ts": "other/beta.module.code.ts",
+-      "seat-system/gamma/gamma.module.code.ts": "other/gamma.module.code.ts",
+-    },
+-    BODY
+-  )
+-
+-  expect(waysOf(said)).toEqual({})
+-})
+-
+-test("a manifest that moves carries every way in to where the files landed", () => {
+-  const moved = {
+-    "seat-system/package.json": "held/package.json",
+-    "seat-system/alpha/alpha.module.code.ts": "held/alpha/alpha.module.code.ts",
+-    "seat-system/beta/beta.module.code.ts": "held/beta/beta.module.code.ts",
+-    "seat-system/gamma/gamma.module.code.ts": "held/gamma/gamma.module.code.ts",
+-  }
+-  const said = saidOf(moved, BODY)
+-
+-  expect(said.edits[0]?.from).toBe(AT)
+-  expect(said.edits[0]?.path).toBe("held/package.json")
+-  expect(bodyOf(moved, BODY)).toBe(BODY)
+-})
+-
+-test("the spacing the manifest already carries is kept", () => {
+-  const text = `{"name":"one","exports":{"./beta":"./beta/beta.module.code.ts"}}`
+-  const said = bodyOf(
+-    { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
+-    text
+-  )
+-
+-  expect(said).toBe(`{"name":"one","exports":{"./beta":"./held/beta.module.code.ts"}}`)
+-})
+-
+-test("a manifest stating one way in as text follows the file that way in names", () => {
+-  const said = bodyOf(
+-    { "seat-system/alpha/alpha.module.code.ts": "seat-system/held/alpha.module.code.ts" },
+-    ONE_WAY
+-  )
+-
+-  expect(said).toBe(
+-    ONE_WAY.replace(`"./alpha/alpha.module.code.ts"`, `"./held/alpha.module.code.ts"`)
+-  )
+-})
+-
+-test("a way in stated as text and landed outside goes with the exports key", () => {
+-  const said = bodyOf(
+-    { "seat-system/alpha/alpha.module.code.ts": "other/alpha.module.code.ts" },
+-    ONE_WAY
+-  )
+-
+-  expect(JSON.parse(said)).toEqual({ name: "@akasha/seat-system" })
+-})
+-
+-test("a manifest stating no way in is answered unchanged", () => {
+-  expect(
+-    bodyOf(
+-      { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
+-      NO_WAYS
+-    )
+-  ).toBe(NO_WAYS)
+-})
+-
+-test("a manifest naming no file that moved is answered unchanged", () => {
+-  expect(
+-    bodyOf(
+-      { "seat-system/delta/delta.module.code.ts": "seat-system/held/delta.module.code.ts" },
+-      BODY
+-    )
+-  ).toBe(BODY)
+-})
+-
+-test("a body that reads as no JSON object is refused", () => {
+-  const said = saidOf(
+-    { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
+-    BROKEN
+-  )
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toMatch(/reads as no JSON object/)
+-})
+-
+-test("a manifest holding no body is refused", () => {
+-  const said = renameManifestWays({ at: AT, moved: {} }, () => null)
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toMatch(/holds no body/)
+-})
+-
+-test("a manifest that stays is answered under the path the body was read from", () => {
+-  const said = saidOf({}, BODY)
+-
+-  expect(said.edits[0]?.path).toBe(AT)
+-  expect(said.edits[0]?.was).toBe(BODY)
+-  expect(said.edits[0]?.from).toBe(undefined)
+-})
+-
+-test("a landing is read against the folder the manifest arrives in", () => {
+-  const moved = new Map([["seat-system/beta/beta.module.code.ts", "held/beta.module.code.ts"]])
+-
+-  expect(landingFor(AT, "held", "./beta/beta.module.code.ts", moved)).toEqual({
+-    said: "./beta.module.code.ts",
+-  })
+-  expect(landingFor(AT, "seat-system", "./beta/beta.module.code.ts", moved)).toEqual({ gone: true })
+-})
+-
+-test("the body is answered rather than written", () => {
+-  const held: Record<string, string> = { [AT]: BODY }
+-  const said = renameManifestWays(
+-    { at: AT, moved: { "seat-system/beta/beta.module.code.ts": "other/beta.module.code.ts" } },
+-    (path) => held[path] ?? null
+-  )
+-
+-  expect(said.refused).toBeNull()
+-  expect(held[AT]).toBe(BODY)
+-})
+diff --git a/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.ts b/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.ts
+deleted file mode 100644
+index f052c8a698ac5f2f58e6f05e5be89cd128dd1650..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/rename-manifest-ways/rename-manifest-ways.change-mechanical.ts
++++ /dev/null
+@@ -1,60 +0,0 @@
+-import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+-
+-export const renameManifestWays = {
+-  id: "01a0798b-3398-71d0-ba4b-fa40530ad360",
+-  pageTypeSlug: "change-mechanical",
+-  slug: "rename-manifest-ways",
+-  changeModeSlug: "change-mode-rename",
+-  definition: "a manifest's ways in rewritten to follow the files those ways in name",
+-  code: "ts",
+-  test: "ts",
+-  runsChecks: false,
+-  readersOweReading: false,
+-  writerOwesReading: false,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A way in follows the file that way in names.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A way in whose file lands outside the package is dropped.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A way in is rewritten by splicing the manifest's text.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The manifest keeps the spacing the manifest already carries.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every way in is read against the folder the manifest arrives in.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A manifest landing elsewhere is answered as one move rather than as a write.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A body reading as no JSON object is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A manifest stating no way in is answered unchanged.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The body is answered rather than written.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here looks for the manifests standing above a path that moved.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads the disk or an index.",
+-    },
+-  ],
+-} as const satisfies ChangeMechanical
