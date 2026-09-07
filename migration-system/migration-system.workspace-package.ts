@@ -6,13 +6,7 @@ export const migrationSystem = {
   slug: "migration-system",
   definition: "what every migration of the old system into akasha is run through",
   manifest: "json",
-  partSlugs: [
-    "module/migration-landing",
-    "module/migration-reach",
-    "command/migration-reach",
-    "module/part-census",
-    "command/part-census",
-  ],
+  partSlugs: ["module/migration-landing", "module/migration-reach", "module/part-census"],
   invariants: [
     {
       invariantKind: "departure",
