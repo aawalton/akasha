@@ -1,3 +1,16 @@
+diff --git a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts b/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
+index 2d2b191e487bb732ee0b4c1c7e5417c3f8f65e70..8d592b8b8473de3327cf5bc7f9b88f34820ea8f2 100644
+--- a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
++++ b/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
+@@ -19,7 +19,7 @@ const LOWEST_INBOX_COUNT = "lowestInboxCount"
+ 
+ export const INBOX_WRITER = "inbox-tracking"
+ 
+-export type PersistOutcome = "created" | "patched"
++export type PersistOutcome = "created" | "patched" | "unchanged"
+ 
+ type Standing = Readonly<Record<string, unknown>> | undefined
+ 
 diff --git a/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.code.ts b/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.code.ts
 index 6dcd5adde203d5d92f891a4b860b6d0c6f1effdb..380ea0f0387f00e363c5ffd6dc6f1408c912eb7e 100644
 --- a/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.code.ts
