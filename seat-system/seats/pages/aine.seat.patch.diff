@@ -1,0 +1,37 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index c87f27f820da31465f9872a14c5fade1c0ca2aa4..c6121fe6ce655d04c27a96b9b097ed7dff3d5c1b 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -23,6 +23,7 @@ export const changeMechanical = {
+     "page-type/change-mechanical-data",
+     "page-type/change-mechanical-text",
+     "page-type/change-mechanical-manifest",
++    "page-type/change-mechanical-file-content",
+     "change-mechanical-file/move-file",
+     "change-mechanical-file/remove-file",
+     "change-mechanical-file/remove-file-code",
+diff --git a/changes/mechanical/file-content/change-mechanical-file-content.page-type.ts b/changes/mechanical/file-content/change-mechanical-file-content.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..80c688b2f4dddd034a565960c0c29370a6a40e23
+--- /dev/null
++++ b/changes/mechanical/file-content/change-mechanical-file-content.page-type.ts
+@@ -0,0 +1,18 @@
++import type { PageType } from "../../../pages/types/page-type.page-type.ts"
++import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
++
++export type ChangeMechanicalFileContent = ChangeMechanical & {
++  changeTargetTypeSlug: "change-target-type/file-content"
++}
++
++export const changeMechanicalFileContent = {
++  id: "01a07c97-c872-71a7-8e77-3ba5f2f974e0",
++  pageTypeSlug: "page-type",
++  slug: "change-mechanical-file-content",
++  definition: "a mechanical change acting on what a file holds under no narrower reading",
++  pluralSlug: "change-mechanical-file-content",
++  extendsSlug: ["page-type/change-mechanical"],
++  properties: [
++    { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
++  ],
++} as const satisfies PageType
