@@ -1,0 +1,61 @@
+writerOwesReading: false
+diff --git a/command-system/applying/applying.module.code.ts b/command-system/applying/applying.module.code.ts
+index f088fb9bfc437d6b9bc31082773ace1325398722..31de4481f43d0eefa3ca9f0cc91968e02cf429c7 100644
+--- a/command-system/applying/applying.module.code.ts
++++ b/command-system/applying/applying.module.code.ts
+@@ -109,8 +109,8 @@ export async function applied(
+   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
+   const done = await landing(root, prepared.changes, said0, gate, writer, head, asRead, carries)
+   if ("refusals" in done) return done
+-  if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
+   carryLanded(root, head, running, prepared.changes, [])
++  if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
+   droppedPatch(root, page, APPLIED)
+   const put = installingIn(root, prepared.changes)
+   return {
+diff --git a/command-system/applying/applying.module.ts b/command-system/applying/applying.module.ts
+index fcad7b80724d0c709428e21324c2514893f09e50..24cfd0affcaa8f7dbdfe99ecc2ea8055aa8700ba 100644
+--- a/command-system/applying/applying.module.ts
++++ b/command-system/applying/applying.module.ts
+@@ -126,7 +126,8 @@ export const applying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reading is carried after the applying agent's own reading is recorded.",
++      statement:
++        "A reading is carried and dropped before the applying agent's own reading is recorded.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index 252d7f5b629be33a99f6f5ca5de8f47d9e1c087b..8228b045f0fdc677f6e4a44f04a3e9163a55a5b4 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -409,8 +409,8 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer>
+     }
+   }
+   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
+-  recordLanded(given, formatting.changes)
+   carryLanded(given.root, base, runningOf(given.changeKind), held.changes, held.readings ?? [])
++  recordLanded(given, formatting.changes)
+   const put = installingIn(given.root, held.changes)
+   return {
+     report: reported(counted, said, {
+diff --git a/command-system/landing-reading/landing-reading.module.ts b/command-system/landing-reading/landing-reading.module.ts
+index e4fa244425e70a9895efdbbcbf7b228922cefacf..2dc06a9a431c37929938852f1c4d4fbb51afbc6c 100644
+--- a/command-system/landing-reading/landing-reading.module.ts
++++ b/command-system/landing-reading/landing-reading.module.ts
+@@ -82,7 +82,12 @@ export const landingReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reading is carried after the writer's own reading is recorded.",
++      statement: "A reading is carried and dropped before the writer's own reading is recorded.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A landing leaves the agent that landed holding a reading of every body that landing wrote.",
+     },
+     {
+       invariantKind: "absence",
