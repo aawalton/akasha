@@ -10,6 +10,12 @@ export const rynStandardAgentEnglish = {
     {
       statement: "The load a construction puts on a reading agent is measured.",
     },
+    {
+      statement: "Standard Agent English defines what terms are allowed.",
+    },
+    {
+      statement: "Standard Agent English defines what constructions are allowed.",
+    },
   ],
   constraints: [
     "The load a construction puts on a reading agent is measured.",
