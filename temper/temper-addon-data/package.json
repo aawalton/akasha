@@ -52,6 +52,8 @@
     "./validate-equipment-mappings": "./validate-equipment-mappings/validate-equipment-mappings.module.code.ts"
   },
   "dependencies": {
+    "@akasha/code": "workspace:*",
+    "@akasha/code-system": "workspace:@akasha/code@*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-query": "workspace:*",
     "@akasha/pages": "workspace:*",

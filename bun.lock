@@ -1560,6 +1560,8 @@
     "temper/temper-addon-data": {
       "name": "@akasha/temper-addon-data",
       "dependencies": {
+        "@akasha/code": "workspace:*",
+        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-query": "workspace:*",
