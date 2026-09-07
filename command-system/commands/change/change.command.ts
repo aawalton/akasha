@@ -122,6 +122,20 @@ export const change = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Every edit appended carries whether the readers of that path owe the reading again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That answer is read off the change's own page rather than off the change kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change page reaching nothing leaves the readers of every path owing the reading.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An agent whose page is nowhere is refused rather than answered with nothing.",
     },
     {

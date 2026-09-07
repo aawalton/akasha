@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { agentPathOf } from "@akasha/context/warranting"
 import { partedIn } from "@akasha/pages/page-file-name"
-import { textAt } from "@akasha/pages/page-value"
+import { textAt, type Value } from "@akasha/pages/page-value"
 import type {
   Edit,
   Answer as Said,
@@ -63,6 +63,8 @@ const DROP = "drop"
 const DROP_TAKES = "the act taking away every edit kept beside this agent's page"
 
 const DEFINITION = "definition"
+
+const READERS_OWE_READING = "readersOweReading"
 
 const DROPPED = "these edits are gone, and no apply lands them"
 
@@ -161,10 +163,29 @@ export function applyIn(given: Arguments): Asked | string {
 export function editsFor(rows: readonly Edit[]): readonly FileEdit[] {
   const held: FileEdit[] = []
   for (const one of rows) {
-    if (one.from !== undefined && one.from !== one.path) held.push({ path: one.from, body: null })
-    held.push({ path: one.path, body: one.body === null ? null : BYTES.encode(one.body) })
+    const owed = one.readersOweReading
+    if (one.from !== undefined && one.from !== one.path) {
+      held.push({ path: one.from, body: null, readersOweReading: owed })
+    }
+    held.push({
+      path: one.path,
+      body: one.body === null ? null : BYTES.encode(one.body),
+      readersOweReading: owed,
+    })
   }
   return held
+}
+
+export function owedBy(value: Value | null): boolean {
+  return value === null || value[READERS_OWE_READING] !== false
+}
+
+export function stamped(said: Said, owed: boolean): Said {
+  if (owed) return said
+  return {
+    edits: said.edits.map((one) => ({ ...one, readersOweReading: false })),
+    refused: said.refused,
+  }
 }
 
 function typeOf(world: World, slug: string): string {
@@ -257,14 +278,16 @@ export async function changing(
   if (typeof given === "string") return mistaking([given])
   const asked = applyIn(given)
   if (typeof asked === "string") return mistaking([asked])
-  const loaded = await loading(world, `${typeOf(world, slug)}/${slug}`)
+  const type = typeOf(world, slug)
+  const loaded = await loading(world, `${type}/${slug}`)
   if (typeof loaded === "string") return mistaking([loaded, DROP_SAID])
   const held: Loaded = loaded
+  const owed = owedBy(world.index.pageAt(type, slug))
   const message = asked.message
   const answered = await appending(
     root,
     page,
-    async (one) => await ranBy(one, held, asked.given),
+    async (one) => stamped(await ranBy(one, held, asked.given), owed),
     message !== null
   )
   if (message === null || answered.code !== 0) return answered
