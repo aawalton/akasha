@@ -1,0 +1,17 @@
+diff --git a/inference/generations/zimage/zimage-explore-worker/zimage-explore-worker.module.ts b/inference/generations/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
+index 30b9303564e692f2395c1bc6eebdc153e24bb975..e8a20f3e24478c2468b722afda91c9a82d8dd0d8 100644
+--- a/inference/generations/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
++++ b/inference/generations/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
+@@ -26,7 +26,11 @@ export const zimageExploreWorker = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One render runs at a time, since one inference runs at a time.",
++      statement: "One render runs at a time.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One inference runs at a time.",
+     },
+     {
+       invariantKind: "departure",
