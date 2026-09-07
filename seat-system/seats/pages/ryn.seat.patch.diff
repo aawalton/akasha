@@ -129,3 +129,15 @@ index 0000000000000000000000000000000000000000..6532ea1f89bceed460b5b4738cf383c7
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/domains/plain-language/plain-language.workspace-package.ts b/domains/plain-language/plain-language.workspace-package.ts
+index 6a1c6c99e6a0ee32545e3f20e0d3ea0388290129..dafbd66dd028de5865e9a631ec01fd61c9eab0f2 100644
+--- a/domains/plain-language/plain-language.workspace-package.ts
++++ b/domains/plain-language/plain-language.workspace-package.ts
+@@ -7,6 +7,7 @@ export const plainLanguage = {
+   definition: "whether a sentence is written in plain language",
+   manifest: "json",
+   partSlugs: [
++    "module/parse-doubt",
+     "module/shape-reading",
+     "module/spelt-scanning",
+     "module/dependency-graph",
