@@ -5,7 +5,7 @@ export const removePageFile = {
   pageTypeSlug: "change-mechanical-file",
   slug: "remove-page-file",
   changeModeSlug: "change-mode-remove",
-  definition: "one page file taken away, with the relations and the files beside that page judged",
+  definition: "one page taken away with every file that page keeps beside the page",
   code: "ts",
   test: "ts",
   runsChecks: false,
@@ -26,7 +26,65 @@ export const removePageFile = {
     },
     {
       invariantKind: "departure",
-      statement: "The file is taken away by the change this change reaches.",
+      statement: "A page and every file that page keeps beside the page go together.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file beside the page goes whether or not git tracks that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which files sit beside a page is read from the index rather than from the folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the page claims and the tree holds no body at is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page's entry in the parent's `part-slugs` is dropped before any file goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file importing a second file going in the same act goes before that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The files beside the page go before the page's own file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file beside the page under a TypeScript name goes by `remove-code-file`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other file beside the page goes by `remove-file`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page's own file goes by `remove-code-file`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal from any change reached here refuses the whole removal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every index question here is asked of the world the caller hands in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Containment is a relation named in the parent's `part-slugs`.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The page's entry in the parent's `part-slugs` is dropped by `remove-property-value`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A parent naming the page bare rather than qualified is dropped just the same.",
     },
     {
       invariantKind: "departure",

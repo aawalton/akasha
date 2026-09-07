@@ -7,7 +7,7 @@ const AT = "at"
 
 const PAGE_TYPE = "page-type"
 
-const REMOVE_PAGE = "change-mechanical-folder/remove-page"
+const REMOVE_PAGE = "change-mechanical-file/remove-page-file"
 
 export type RemovePageAsked = {
   readonly at: string
