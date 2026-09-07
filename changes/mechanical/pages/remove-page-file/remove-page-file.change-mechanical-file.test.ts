@@ -115,7 +115,7 @@ const SPARE: Readonly<Record<string, string>> = {
 
 const PAIR: Readonly<Record<string, string>> = {
   [PAIR_PAGE]: pageOf({
-    id: idOf("1"),
+    id: idOf("d"),
     pageTypeSlug: "module",
     slug: "pair",
     definition: "a page whose test imports the code beside that page",
