@@ -18,7 +18,11 @@ export const events = {
     { pagePropertySlug: "instant-property/calendar-event-end-at", required: false, many: false },
     { pagePropertySlug: "boolean-property/calendar-event-all-day", required: false, many: false },
     { pagePropertySlug: "text-property/calendar-event-location", required: false, many: false },
-    { pagePropertySlug: "text-property/calendar-event-description", required: false, many: false },
+    {
+      pagePropertySlug: "text-property/calendar-event-source-description",
+      required: false,
+      many: false,
+    },
     {
       pagePropertySlug: "text-property/calendar-event-types",
       required: false,
