@@ -41,7 +41,7 @@ function worldTold(told: Told): World {
   } as unknown as Shaped
   return {
     root: "/nowhere",
-    index: { knownIn: () => known, pageAt: () => told.page ?? PAGE } as never,
+    index: { knownIn: () => known, pageAt: () => ("page" in told ? told.page : PAGE) } as never,
     textOf: () => BODY,
     over: NOTHING_OVER,
   }
