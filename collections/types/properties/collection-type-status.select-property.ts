@@ -11,7 +11,7 @@ export const collectionTypeStatus = {
     {
       invariantKind: "departure",
       statement:
-        "This property says whether the kind is gathered, not how far one collection has got.",
+        "This property says whether the kind is gathered rather than how far one collection has got.",
     },
   ],
 } as const satisfies SelectProperty
