@@ -1,0 +1,25 @@
+writerOwesReading: false
+diff --git a/alan/harness/inboxes/email-rules/email-rule-codes/pages/church-childrens-programs.email-rule-code.ts b/alan/harness/inboxes/email-rules/email-rule-codes/pages/church-childrens-programs.email-rule-code.ts
+index d51ac829983ee5fdcd3e75207440a0801ad2b10c..a30788166331462429be528df7b4aab29576f279 100644
+--- a/alan/harness/inboxes/email-rules/email-rule-codes/pages/church-childrens-programs.email-rule-code.ts
++++ b/alan/harness/inboxes/email-rules/email-rule-codes/pages/church-childrens-programs.email-rule-code.ts
+@@ -12,7 +12,6 @@ export const churchChildrensPrograms = {
+       comparison: "contains",
+       values: ["youth", "young women", "young men", "yw ", "ym ", "primary"],
+     },
+-    { field: "from", comparison: "ends-with", values: ["churchofjesuschrist.org"] },
+     {
+       field: "from",
+       comparison: "is-not",
+diff --git a/alan/harness/inboxes/email-rules/email-rule-codes/pages/oak-ward-google-notice.email-rule-code.ts b/alan/harness/inboxes/email-rules/email-rule-codes/pages/oak-ward-google-notice.email-rule-code.ts
+index 73712dec6eb50c29c59c0c5b8fc362a3a8b1fcaf..c2c51afc082fa366fffe2e94d8b7d9f964d709a7 100644
+--- a/alan/harness/inboxes/email-rules/email-rule-codes/pages/oak-ward-google-notice.email-rule-code.ts
++++ b/alan/harness/inboxes/email-rules/email-rule-codes/pages/oak-ward-google-notice.email-rule-code.ts
+@@ -8,7 +8,6 @@ export const oakWardGoogleNotice = {
+   matches: [
+     { field: "from", comparison: "ends-with", values: ["google.com"] },
+     { field: "subject", comparison: "contains", values: ["oak.hills.first.ward.tech"] },
+-    { field: "from", comparison: "ends-with", values: ["google.com"] },
+     {
+       field: "from",
+       comparison: "is-not",
