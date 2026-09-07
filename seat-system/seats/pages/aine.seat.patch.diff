@@ -146,3 +146,28 @@ index 0000000000000000000000000000000000000000..307e3681c3833ea7fc7c894e99dadb84
 +    },
 +  ],
 +} as const satisfies ChangeGuard
+diff --git a/changes/mechanical/pages/add-file/add-file.change-mechanical.ts b/changes/mechanical/pages/add-file/add-file.change-mechanical.ts
+index 3ec43d27a38349c78831472e17edd4871fc89006..82296bbf4dc8a6371f3756fb30392185c4ad1592 100644
+--- a/changes/mechanical/pages/add-file/add-file.change-mechanical.ts
++++ b/changes/mechanical/pages/add-file/add-file.change-mechanical.ts
+@@ -10,6 +10,7 @@ export const addFile = {
+   runsChecks: false,
+   readersOweReading: false,
+   writerOwesReading: false,
++  guardSlugs: ["change-guard/body-not-written-over"],
+   invariants: [
+     {
+       invariantKind: "departure",
+@@ -17,11 +18,7 @@ export const addFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A path holding another body is written over.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The body a path already held is answered beside the body written.",
++      statement: "A path holding another body is refused by the guard this change names.",
+     },
+     {
+       invariantKind: "departure",
