@@ -1,6 +1,5 @@
-writerOwesReading: false
 diff --git a/changes/checked/pages/add-property-value/add-property-value.change-checked.code.ts b/changes/checked/pages/add-property-value/add-property-value.change-checked.code.ts
-index 1707d2e38513c1b9aae1912eb7238d493dd97831..039d1160a10c37efec476d5152fbc921b16616c1 100644
+index 07b7cd7c9852181d78d003c10c42d895b98f7dcd..4cbdbf939ab7935614446bb756401e5d7dacd7c8 100644
 --- a/changes/checked/pages/add-property-value/add-property-value.change-checked.code.ts
 +++ b/changes/checked/pages/add-property-value/add-property-value.change-checked.code.ts
 @@ -12,10 +12,13 @@ const KEY = "key"
@@ -29,7 +28,7 @@ index 1707d2e38513c1b9aae1912eb7238d493dd97831..039d1160a10c37efec476d5152fbc921
 +  )
  }
 diff --git a/changes/checked/pages/add-property-value/add-property-value.change-checked.test.ts b/changes/checked/pages/add-property-value/add-property-value.change-checked.test.ts
-index 89cc8fb433dd069c4ccabe7eee9fcf2ae59b4df8..91ba500c302ff3c33de4fe4f1f13c8895ee8efa1 100644
+index 557c11700ab41381e4eea39eddae67412ceebea7..7ab9a61f7c7767809088981037c38c8ae5b3a7a1 100644
 --- a/changes/checked/pages/add-property-value/add-property-value.change-checked.test.ts
 +++ b/changes/checked/pages/add-property-value/add-property-value.change-checked.test.ts
 @@ -1,10 +1,10 @@
@@ -121,10 +120,10 @@ index 6848224210eef643fcccee2a0c8de6ebaf1f045c..075839a87451e9ce9430d300eb1abcdb
      {
        invariantKind: "departure",
        statement: "That change is reached through the runner rather than by an import.",
-diff --git a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.code.ts b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.code.ts
+diff --git a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.code.ts b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.code.ts
 index 6bb6146926999bcf98af490d9598a40dff6c81b1..2fbf8e15573c527898c6068519ce031fe1518bac 100644
---- a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.code.ts
-+++ b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.code.ts
+--- a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.code.ts
++++ b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.code.ts
 @@ -13,6 +13,7 @@ export type AddPropertyValueAsked = {
    readonly at: string
    readonly key: string
@@ -177,22 +176,11 @@ index 6bb6146926999bcf98af490d9598a40dff6c81b1..2fbf8e15573c527898c6068519ce031f
    }
    const holding = one.initializer
    if (!ts.isArrayLiteralExpression(holding)) {
-diff --git a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.test.ts b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.test.ts
-index ecdc6ff86fa81d077288e6aa87c213ee2d1746f8..cd7dfe80264b9e9aca7dfc598bd6011ef3afd311 100644
---- a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.test.ts
-+++ b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.test.ts
-@@ -1,9 +1,9 @@
- import { expect, test } from "bun:test"
-+import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
- import {
-   NOTHING_OVER,
-   type World,
- } from "../../../modules/change-shadow/change-shadow.module.code.ts"
--import { bodyOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
- import { addPropertyValue } from "./add-property-value.change-mechanical.code.ts"
- 
- const AT = "akasha/held/kept.page-type.ts"
-@@ -24,10 +24,26 @@ const EMPTY = `${OPENING}  partSlugs: [],
+diff --git a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.test.ts b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.test.ts
+index 852bdce964994676eb5f83f639e65c219718936f..5732d7c2657d9f4537d11631620c57b8ac793317 100644
+--- a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.test.ts
++++ b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.test.ts
+@@ -24,6 +24,16 @@ const EMPTY = `${OPENING}  partSlugs: [],
  } as const satisfies PageType
  `
  
@@ -209,17 +197,7 @@ index ecdc6ff86fa81d077288e6aa87c213ee2d1746f8..cd7dfe80264b9e9aca7dfc598bd6011e
  function worldOf(text: string | null): World {
    return { root: "/nowhere", index: null as never, textOf: () => text, over: NOTHING_OVER }
  }
- 
-+function bodyOf(said: Answer): string {
-+  expect(said.refused).toBe(null)
-+  expect(said.edits).toHaveLength(1)
-+  return said.edits[0]?.body ?? ""
-+}
-+
- test("a value is put after the values the property already holds", () => {
-   const said = addPropertyValue(worldOf(BODY), {
-     at: AT,
-@@ -72,11 +88,47 @@ test("a property holding one value is refused as a restatement", () => {
+@@ -72,11 +82,47 @@ test("a property holding one value is refused as a restatement", () => {
    expect(said.refused).toBe("`slug` holds one value, so `other` is a restatement")
  })
  
@@ -270,10 +248,10 @@ index ecdc6ff86fa81d077288e6aa87c213ee2d1746f8..cd7dfe80264b9e9aca7dfc598bd6011e
  })
  
  test("a path holding no body is refused", () => {
-diff --git a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.ts b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.ts
-index 3bbef590155b3a01bf506bca976e0f17d61f08c5..050656affa719384d2d3f9c8888de818f8cea187 100644
---- a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.ts
-+++ b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical.ts
+diff --git a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.ts b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.ts
+index 1f1ae6f110e795889f6d685126bd83b5f9952caa..08b0df9fe6821f7512c17350180b44663e463077 100644
+--- a/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.ts
++++ b/changes/mechanical/pages/add-property-value/add-property-value.change-mechanical-data.ts
 @@ -35,7 +35,27 @@ export const addPropertyValue = {
      },
      {
@@ -312,4 +290,4 @@ index 3bbef590155b3a01bf506bca976e0f17d61f08c5..050656affa719384d2d3f9c8888de818
 -      statement: "A page stating no such key gains that key rather than being refused.",
 -    },
    ],
- } as const satisfies ChangeMechanical
+ } as const satisfies ChangeMechanicalData
