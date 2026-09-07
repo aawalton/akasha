@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/required-reading/required-reading.domain.ts b/required-reading/required-reading.domain.ts
+index 0e3d4c52773edb4fc3a89a60cbb3c573ac0b8e55..a3b858ce8c3dd384f22fdecd07bfa250705c101c 100644
+--- a/required-reading/required-reading.domain.ts
++++ b/required-reading/required-reading.domain.ts
+@@ -24,7 +24,7 @@ export const requiredReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An akasha write is refused where nothing identifies the agent.",
++      statement: "A landing into akasha is refused where nothing identifies the agent.",
+     },
+     {
+       invariantKind: "departure",
