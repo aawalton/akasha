@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/shell-clean/shell-clean.code-check.ts b/checks/code-checks/pages/shell-clean/shell-clean.code-check.ts
+index 1038110643448a43f3b747f20241e8938bb9e661..7ad013d9153d4e299c126011eaf2b1eca2221454 100644
+--- a/checks/code-checks/pages/shell-clean/shell-clean.code-check.ts
++++ b/checks/code-checks/pages/shell-clean/shell-clean.code-check.ts
+@@ -7,7 +7,7 @@ export const shellClean = {
+   definition: "the check refusing a change shellcheck finds fault in",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
