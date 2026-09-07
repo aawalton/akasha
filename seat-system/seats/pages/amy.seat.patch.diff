@@ -1,3 +1,41 @@
+diff --git a/alan/tracking/to-dos/to-do.page-type.ts b/alan/tracking/to-dos/to-do.page-type.ts
+index 3381038ede61a927e56d9fefe20d04b0a6d258d3..0b0b2046f8a3fe5015bf62497d3675452a2a56b3 100644
+--- a/alan/tracking/to-dos/to-do.page-type.ts
++++ b/alan/tracking/to-dos/to-do.page-type.ts
+@@ -70,18 +70,8 @@ export const toDo = {
+     { pagePropertySlug: "text-property/to-do-recurrence", required: false, many: false },
+     { pagePropertySlug: "number-property/to-do-sort-order", required: false, many: false },
+     { pagePropertySlug: "relation-property/to-do-value-slug", required: false, many: false },
+-    {
+-      pagePropertySlug: "instant-property/to-do-last-completed-at",
+-      required: false,
+-      many: false,
+-      uncommitted: true,
+-    },
+-    {
+-      pagePropertySlug: "instant-property/to-do-completed-at",
+-      required: false,
+-      many: false,
+-      uncommitted: true,
+-    },
++    { pagePropertySlug: "instant-property/to-do-last-completed-at", required: false, many: false },
++    { pagePropertySlug: "instant-property/to-do-completed-at", required: false, many: false },
+     { pagePropertySlug: "file-property/what-it-takes", required: false, many: false },
+   ],
+   invariants: [
+@@ -103,7 +93,11 @@ export const toDo = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "When a to-do was last finished stands outside the commit.",
++      statement: "A to-do's completion history is the git history of that to-do's own page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A finished to-do is kept as the same page rather than as a page of its own.",
+     },
+   ],
+ } as const satisfies PageType
 diff --git a/pages/core/task-lifecycle/task-lifecycle.module.code.ts b/pages/core/task-lifecycle/task-lifecycle.module.code.ts
 index a54de0329f80629af569ec4aeb85e9de9c7fe09b..2b24af744da33d179bfa6558e617f928a8c937de 100644
 --- a/pages/core/task-lifecycle/task-lifecycle.module.code.ts
