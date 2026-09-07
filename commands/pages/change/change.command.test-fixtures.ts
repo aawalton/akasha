@@ -74,7 +74,7 @@ export function asking(path: string, message: string): string {
 }
 
 export async function loading(world: World, at: string): Promise<Loaded | string> {
-  if (at === "change-command/remove-page") return REMOVE_PAGE
+  if (at === "change-checked/remove-page") return REMOVE_PAGE
   return await loadedAt(world, at)
 }
 
