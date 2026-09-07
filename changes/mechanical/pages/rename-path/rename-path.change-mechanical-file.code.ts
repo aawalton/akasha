@@ -3,7 +3,7 @@ import { answered, refusing } from "../../../modules/change-answer/change-answer
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
-const RENAME_IMPORTS = "change-mechanical/rename-imports"
+const RENAME_IMPORTS = "change-mechanical-code/rename-imports"
 
 export type RenamePathAsked = {
   readonly from: string

@@ -10,7 +10,7 @@ import { reach, type World } from "../../../modules/change-shadow/change-shadow.
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
-const RENAME_IMPORTS = "change-mechanical/rename-imports"
+const RENAME_IMPORTS = "change-mechanical-code/rename-imports"
 
 const OUTSIDE = ".."
 

@@ -13,7 +13,7 @@ import {
   worldAt,
   worldOver,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { runChange as renameImports } from "../rename-imports/rename-imports.change-mechanical.code.ts"
+import { runChange as renameImports } from "../rename-imports/rename-imports.change-mechanical-code.code.ts"
 import { renamePath } from "./rename-path.change-mechanical-file.code.ts"
 
 afterAll(scratch.sweep)
@@ -24,7 +24,7 @@ const CARRIED = "akasha/one/carried.module.code.ts"
 
 function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, (world, at, given) => {
-    if (at === "change-mechanical/rename-imports") {
+    if (at === "change-mechanical-code/rename-imports") {
       return Promise.resolve(renameImports(world, given as Parameters<typeof renameImports>[1]))
     }
     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
@@ -119,5 +119,5 @@ test("the body that moves is repointed by the change reached at its address", as
 
   await renamePath(world, { from: HELD_CODE, to: KEPT })
 
-  expect(new Set(reached)).toEqual(new Set(["change-mechanical/rename-imports"]))
+  expect(new Set(reached)).toEqual(new Set(["change-mechanical-code/rename-imports"]))
 })

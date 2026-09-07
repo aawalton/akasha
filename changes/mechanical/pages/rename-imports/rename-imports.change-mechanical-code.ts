@@ -1,8 +1,8 @@
-import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+import type { ChangeMechanicalCode } from "../../code/change-mechanical-code.page-type.ts"
 
 export const renameImports = {
   id: "01a07718-c9b6-7696-a9d0-77a8605d3a0b",
-  pageTypeSlug: "change-mechanical",
+  pageTypeSlug: "change-mechanical-code",
   slug: "rename-imports",
   changeModeSlug: "change-mode-rename",
   definition: "a body rewritten so the paths it names follow the files that moved",
@@ -31,4 +31,4 @@ export const renameImports = {
       statement: "The specifier naming a path from a folder is worked out here for any caller.",
     },
   ],
-} as const satisfies ChangeMechanical
+} as const satisfies ChangeMechanicalCode
