@@ -55,7 +55,6 @@ export const command = {
     "command/patch",
     "command/push",
     "command/read",
-    "command/replace",
     "command/restore",
     "command/subagent-sweep",
     "command/service",
