@@ -1,0 +1,21 @@
+diff --git a/browser/browser-commands/browser-test-verify-render/browser-test-verify-render.command.ts b/browser/browser-commands/browser-test-verify-render/browser-test-verify-render.command.ts
+index d1e7283a2ac03c3a76a947a9cc29c3efeb5b3152..212b0838ef6169efa084a8cbe11098e01f5dae2f 100644
+--- a/browser/browser-commands/browser-test-verify-render/browser-test-verify-render.command.ts
++++ b/browser/browser-commands/browser-test-verify-render/browser-test-verify-render.command.ts
+@@ -73,7 +73,15 @@ export const browserTestVerifyRender = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A pass answers 0, a failure 1, and an indeterminate 3.",
++      statement: "A success answers 0.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A failure answers 1.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An indeterminate answers 3.",
+     },
+     {
+       invariantKind: "departure",
