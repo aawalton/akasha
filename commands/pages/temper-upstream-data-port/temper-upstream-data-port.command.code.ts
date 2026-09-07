@@ -9,7 +9,10 @@ import { port as portTreasure } from "@akasha/temper-upstream-data/treasure-upst
 import type { UpstreamLibrary } from "@akasha/temper-upstream-data/upstream-libraries"
 import { libraryNamed, UPSTREAM_LIBRARIES } from "@akasha/temper-upstream-data/upstream-libraries"
 import { port as portZone } from "@akasha/temper-upstream-data/zone-upstream-port"
-import { namesIn, valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+import {
+  namesIn,
+  valuesOf,
+} from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 

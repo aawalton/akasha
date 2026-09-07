@@ -4,8 +4,11 @@ import { resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
-import { chatterNamesModule } from "../eso-chatter-names/eso-chatter-names.module.code.ts"
-import { saidFor, saidShort } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
+import { chatterNamesModule } from "../../../temper/temper-commands/eso-chatter-names/eso-chatter-names.module.code.ts"
+import {
+  saidFor,
+  saidShort,
+} from "../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 

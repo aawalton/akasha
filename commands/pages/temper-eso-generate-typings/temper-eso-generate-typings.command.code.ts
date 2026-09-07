@@ -23,7 +23,10 @@ import {
 } from "@akasha/temper-eso-typings/eso-doc-tokens"
 import { ESO_OPT_IN } from "@akasha/temper-eso-typings/eso-opt-in"
 import { selectOptIn } from "@akasha/temper-eso-typings/eso-token-scope"
-import { saidFor, saidShort } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
+import {
+  saidFor,
+  saidShort,
+} from "../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 

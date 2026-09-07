@@ -10,7 +10,10 @@ import type { HudComponentRecord } from "@akasha/temper-hud-components/hud-compo
 import { HUD_SCENE_CATALOG_SCHEMA } from "@akasha/temper-hud-components/hud-component-record"
 import { buildCatalog } from "@akasha/temper-hud-components/hud-scene-parse"
 import { HUD_SCENE_SOURCE } from "@akasha/temper-hud-components/hud-scene-source"
-import { saidFor, saidShort } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
+import {
+  saidFor,
+  saidShort,
+} from "../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 

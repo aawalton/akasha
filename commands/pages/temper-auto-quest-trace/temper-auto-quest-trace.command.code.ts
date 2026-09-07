@@ -4,7 +4,10 @@ import { refused } from "@akasha/command-system/calling"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { TEMPER_QUESTS_SAVED_VARIABLES } from "@akasha/temper-quests-trace/auto-quest-trace"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
-import { saidFor, saidShort } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
+import {
+  saidFor,
+  saidShort,
+} from "../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 

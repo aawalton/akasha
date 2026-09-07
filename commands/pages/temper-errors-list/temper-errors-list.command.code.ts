@@ -21,7 +21,7 @@ import {
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { ran } from "@akasha/utils-run/running"
-import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 
