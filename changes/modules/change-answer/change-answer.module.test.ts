@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { type BodyOf, expanded, gathered, narrowed, widened } from "./change-answer.module.code.ts"
-import type { Answer, Edit } from "./change-answer.module.types.ts"
+import type { Answer, Edit, Stated } from "./change-answer.module.types.ts"
 
 const AT = "akasha/one/held.ts"
 
@@ -292,6 +292,46 @@ test("a move whose body changed comes back as it was", () => {
   const one = { path: AT, was: "one", body: "two", from: AWAY }
 
   expect(rounded(one, { [AWAY]: "one" })).toEqual({ edits: [one], refused: null })
+})
+
+function joined(edits: readonly Stated[], bodies: Readonly<Record<string, string>>): Answer {
+  return gathered([widened({ edits, refused: null }, holding(bodies))])
+}
+
+test("an add and a replace over one path gather to one add holding the body left", () => {
+  const edits = [
+    { kind: "add", path: AT, content: "one two" },
+    { kind: "replace", path: AT, contentFrom: "two", contentTo: "three" },
+  ] as const
+
+  expect(joined(edits, {})).toEqual({
+    edits: [{ path: AT, was: null, body: "one three" }],
+    refused: null,
+  })
+})
+
+test("two replaces over one path gather to one edit holding the first body and the last", () => {
+  const edits = [
+    { kind: "replace", path: AT, contentFrom: "one", contentTo: "two" },
+    { kind: "replace", path: AT, contentFrom: "four", contentTo: "five" },
+  ] as const
+
+  expect(joined(edits, { [AT]: "one four" })).toEqual({
+    edits: [{ path: AT, was: "one four", body: "two five" }],
+    refused: null,
+  })
+})
+
+test("an add and a remove over one path gather to an edit holding no body either side", () => {
+  const edits = [
+    { kind: "add", path: AT, content: "one" },
+    { kind: "remove", path: AT },
+  ] as const
+
+  expect(joined(edits, {})).toEqual({
+    edits: [{ path: AT, was: null, body: null }],
+    refused: null,
+  })
 })
 
 test("one edit refused refuses the whole answer", () => {
