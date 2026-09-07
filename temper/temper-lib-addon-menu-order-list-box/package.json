@@ -20,6 +20,5 @@
     "./order-list-box-widget": "./order-list-box-widget/order-list-box-widget.module.code.ts"
   },
   "dependencies": {
-    "@akasha/code-system": "workspace:@akasha/code@*"
   }
 }

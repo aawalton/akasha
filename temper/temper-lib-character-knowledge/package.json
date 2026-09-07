@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@akasha/code-system": "workspace:@akasha/code@*",
     "@akasha/temper-settings-panel": "workspace:*"
   },
   "exports": {

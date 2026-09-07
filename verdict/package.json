@@ -10,6 +10,5 @@
     "./reading-channel": "./reading-channel/reading-channel.module.code.ts"
   },
   "dependencies": {
-    "@akasha/code-system": "workspace:@akasha/code@*"
   }
 }

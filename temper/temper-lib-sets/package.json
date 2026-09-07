@@ -6,7 +6,6 @@
     "./main": "./lib-sets-main/lib-sets-main.module.code.ts"
   },
   "dependencies": {
-    "@akasha/code-system": "workspace:@akasha/code@*",
     "@akasha/temper-eso-types": "workspace:*"
   }
 }

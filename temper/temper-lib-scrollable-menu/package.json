@@ -77,6 +77,5 @@
     "./util-visible": "./scrollable-menu-util-visible/scrollable-menu-util-visible.module.code.ts"
   },
   "dependencies": {
-    "@akasha/code-system": "workspace:@akasha/code@*"
   }
 }

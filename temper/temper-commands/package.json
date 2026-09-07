@@ -27,7 +27,6 @@
     "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts"
   },
   "dependencies": {
-    "@akasha/code-system": "workspace:@akasha/code@*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/errors-core": "workspace:*",

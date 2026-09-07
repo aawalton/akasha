@@ -20,6 +20,5 @@
     "./submenu-window": "./submenu-window/submenu-window.module.code.ts"
   },
   "dependencies": {
-    "@akasha/code-system": "workspace:@akasha/code@*"
   }
 }

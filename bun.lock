@@ -10,7 +10,6 @@
         "@akasha/browser-test-harness": "workspace:*",
         "@akasha/checkout-version": "workspace:*",
         "@akasha/ci-benchmark": "workspace:*",
-        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/comfy": "workspace:*",
         "@akasha/day": "workspace:*",
         "@akasha/errors-core": "workspace:*",
@@ -1567,7 +1566,6 @@
       "name": "@akasha/temper-addon-data",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-query": "workspace:*",
@@ -1952,7 +1950,6 @@
     "temper/temper-commands": {
       "name": "@akasha/temper-commands",
       "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/command-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/indexes": "workspace:*",
@@ -2338,7 +2335,6 @@
     "temper/temper-keybinder-addon": {
       "name": "@akasha/temper-keybinder-addon",
       "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
       },
@@ -2351,15 +2347,9 @@
     },
     "temper/temper-lib-addon-menu-order-list-box": {
       "name": "@akasha/temper-lib-addon-menu-order-list-box",
-      "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
-      },
     },
     "temper/temper-lib-alchemy-station": {
       "name": "@akasha/temper-lib-alchemy-station",
-      "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
-      },
     },
     "temper/temper-lib-async": {
       "name": "@akasha/temper-lib-async",
@@ -2367,7 +2357,6 @@
     "temper/temper-lib-character-knowledge": {
       "name": "@akasha/temper-lib-character-knowledge",
       "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
@@ -2376,21 +2365,12 @@
     },
     "temper/temper-lib-custom-menu": {
       "name": "@akasha/temper-lib-custom-menu",
-      "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
-      },
     },
     "temper/temper-lib-data-encode": {
       "name": "@akasha/temper-lib-data-encode",
-      "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
-      },
     },
     "temper/temper-lib-debug-logger": {
       "name": "@akasha/temper-lib-debug-logger",
-      "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
-      },
     },
     "temper/temper-lib-extended-journal": {
       "name": "@akasha/temper-lib-extended-journal",
@@ -2408,9 +2388,6 @@
     },
     "temper/temper-lib-main-menu": {
       "name": "@akasha/temper-lib-main-menu",
-      "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
-      },
     },
     "temper/temper-lib-map-data": {
       "name": "@akasha/temper-lib-map-data",
@@ -2435,14 +2412,10 @@
     },
     "temper/temper-lib-scrollable-menu": {
       "name": "@akasha/temper-lib-scrollable-menu",
-      "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
-      },
     },
     "temper/temper-lib-sets": {
       "name": "@akasha/temper-lib-sets",
       "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
@@ -2480,7 +2453,6 @@
     "temper/temper-lua-runner": {
       "name": "@akasha/temper-lua-runner",
       "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
         "zod": "^4.3.6",
       },
     },
@@ -2635,7 +2607,6 @@
     "temper/temper-quests-addon": {
       "name": "@akasha/temper-quests-addon",
       "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-quests-trace": "workspace:*",
@@ -2736,7 +2707,6 @@
     "temper/temper-trading-addon": {
       "name": "@akasha/temper-trading-addon",
       "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-capture-perf": "workspace:*",
@@ -2789,7 +2759,6 @@
     "temper/temper-watcher": {
       "name": "@akasha/temper-watcher",
       "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/day": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages": "workspace:*",
@@ -2834,7 +2803,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
@@ -2928,7 +2896,6 @@
     "testing-system": {
       "name": "@akasha/testing-system",
       "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
         "@happy-dom/global-registrator": "^20.8.3",
         "@testing-library/react": "^16.3.2",
       },
@@ -2975,9 +2942,6 @@
     },
     "verdict": {
       "name": "@akasha/verdict",
-      "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
-      },
     },
     "version/checkout": {
       "name": "@akasha/checkout-version",
@@ -2998,7 +2962,6 @@
     "web-page-answers": {
       "name": "@akasha/web-page-answers",
       "dependencies": {
-        "@akasha/code-system": "workspace:@akasha/code@*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
@@ -3076,8 +3039,6 @@
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster-manifests"],
 
     "@akasha/code": ["@akasha/code@workspace:code-system"],
-
-    "@akasha/code-system": ["@akasha/code@workspace:code-system"],
 
     "@akasha/comfy": ["@akasha/comfy@workspace:inference/comfy"],
 

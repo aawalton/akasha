@@ -13,6 +13,5 @@
     "./main-menu-version": "./main-menu-version/main-menu-version.module.code.ts"
   },
   "dependencies": {
-    "@akasha/code-system": "workspace:@akasha/code@*"
   }
 }
