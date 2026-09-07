@@ -1,9 +1,16 @@
+import { sectionHeld, slugsWhere } from "@akasha/indexes/property-carrying"
+import type { Value } from "@akasha/pages/page-value"
+import type { Shadow } from "@akasha/pages/shadow"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import { FILES, judgingEach } from "../../../modules/change-walking/change-walking.module.code.ts"
 
 const NUL = 0
 
 const NEWLINE = 0x0a
+
+const HOLDS = "holdsBytes"
+
+const BYTES = new WeakMap<Shadow, ReadonlySet<string>>()
 
 type Site = {
   readonly line: number
@@ -41,4 +48,29 @@ export function reasonsIn(given: Body): readonly string[] {
   return reasonFor(sitesIn(given.bytes))
 }
 
-export const noRawNulBytes = judgingEach(FILES, reasonsIn)
+export function holdingBytes(value: Value): boolean {
+  return value[HOLDS] === true
+}
+
+function bytesHeld(shadow: Shadow): ReadonlySet<string> {
+  const found = BYTES.get(shadow)
+  if (found !== undefined) return found
+  const made = slugsWhere(
+    {
+      kindsUnder: (of) => shadow.index.kindsUnder(of),
+      everyOfType: (kind) => shadow.index.everyOfType(kind),
+      valueAt: (path) => shadow.pageOf(path),
+    },
+    holdingBytes
+  )
+  BYTES.set(shadow, made)
+  return made
+}
+
+export function exemptIn(path: string, shadow: Shadow): boolean {
+  return sectionHeld(path, bytesHeld(shadow))
+}
+
+export const noRawNulBytes = judgingEach(FILES, (given, shadow) =>
+  exemptIn(given.path, shadow) ? [] : reasonsIn(given)
+)

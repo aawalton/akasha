@@ -1,5 +1,5 @@
 import { basename, dirname } from "node:path"
-import { partedIn } from "@akasha/pages/page-file-name"
+import { partedIn, sectionedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import {
   everyOfType,
@@ -25,6 +25,10 @@ const FILE_NAME = "fileName"
 const NAMED_FILE_PROPERTY = "named-file-property"
 
 const MACHINE_WRITTEN = "machineWritten"
+
+const FILE_PROPERTY = "file-property"
+
+const PROPERTY_SLUG = "propertySlug"
 
 export type Carrying = {
   readonly pageTypeSlug: string
@@ -155,4 +159,31 @@ export function machineWrittenAt(given: string | Reading, path: string): boolean
   } catch {
     return false
   }
+}
+
+export type Kinded = {
+  readonly kindsUnder: (of: string) => Iterable<string>
+  readonly everyOfType: (kind: string) => Iterable<{ readonly path: string }>
+  readonly valueAt: (path: string) => Value | null
+}
+
+export function slugsWhere(given: Kinded, wanted: (value: Value) => boolean): ReadonlySet<string> {
+  const made = new Set<string>()
+  for (const kind of given.kindsUnder(FILE_PROPERTY)) {
+    for (const listed of given.everyOfType(kind)) {
+      const value = given.valueAt(listed.path)
+      if (value === null || !wanted(value)) continue
+      if (typeof value[FILE_NAME] === "string") continue
+      const slug = value[PROPERTY_SLUG]
+      if (typeof slug === "string") made.add(slug)
+    }
+  }
+  return made
+}
+
+export function sectionHeld(path: string, slugs: ReadonlySet<string>): boolean {
+  const said = partedIn(path)
+  if (said === null) return false
+  const held = sectionedIn(said)
+  return held !== null && slugs.has(held.propertySlug)
 }

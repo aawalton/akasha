@@ -14,11 +14,11 @@ export const noRawNulBytes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every file in the akasha folder is judged.",
+      statement: "Every file no property declares as bytes is judged.",
     },
     {
       invariantKind: "departure",
-      statement: "No kind of file is exempt.",
+      statement: "A body a file property declares as bytes is let through.",
     },
     {
       invariantKind: "departure",
