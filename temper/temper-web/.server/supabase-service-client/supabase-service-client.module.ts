@@ -9,7 +9,7 @@ export const supabaseServiceClient = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The address inside the cluster is taken over the one a browser reaches.",
+      statement: "The address inside the cluster is taken over the address a browser reaches.",
     },
     {
       invariantKind: "departure",
