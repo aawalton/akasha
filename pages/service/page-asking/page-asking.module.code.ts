@@ -106,12 +106,18 @@ export type Shape = {
 
 export type Shaped = { readonly shape: Shape | null } | { readonly refused: string }
 
+export function titledAs(propertySlug: string): string {
+  return propertySlug
+    .split("-")
+    .map((word) => `${word.slice(0, 1).toUpperCase()}${word.slice(1)}`)
+    .join(" ")
+}
+
 export function declaredOf(one: Carried, page: Value | undefined, on: string): Declared {
-  const said = one.pagePropertySlug
   return {
     key: one.propertySlug,
     type: one.pageTypeSlug,
-    title: page === undefined ? said : (textAt(page, "definition") ?? said),
+    title: titledAs(one.propertySlug),
     pageId: page === undefined ? "" : (textAt(page, "id") ?? ""),
     on,
     values: page === undefined ? null : (page["values"] ?? null),

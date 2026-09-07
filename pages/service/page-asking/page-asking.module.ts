@@ -183,7 +183,7 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration carries the property page's own definition.",
+      statement: "A declaration is titled by its own property slug written in start case.",
     },
     {
       invariantKind: "departure",

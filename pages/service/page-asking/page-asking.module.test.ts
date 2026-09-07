@@ -8,6 +8,8 @@ import {
   meets,
   ownerFor,
   type Query,
+  shaping,
+  titledAs,
 } from "./page-asking.module.code.ts"
 
 const root = join(import.meta.dir, "..", "..", "..")
@@ -340,4 +342,16 @@ test("what a query asks for is every key it names, each under where it named it"
     ["slug", "keys"],
     ["definition", "keys"],
   ])
+})
+
+test("a property slug is titled with its words spaced and each word opening capital", () => {
+  expect(titledAs("to-do-due-date")).toBe("To Do Due Date")
+  expect(titledAs("title")).toBe("Title")
+})
+
+test("a declaration is titled by its own property slug rather than by the definition", () => {
+  const shaped = shaping(root, "invariant-kind")
+  const declarations = "shape" in shaped ? (shaped.shape?.declarations ?? []) : []
+  const found = declarations.find((one) => one.key === "invariant-group-slug")
+  expect(found?.title).toBe("Invariant Group Slug")
 })
