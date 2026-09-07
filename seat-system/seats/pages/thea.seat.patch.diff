@@ -1,0 +1,17 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/code-check.page-type.ts b/checks/code-checks/code-check.page-type.ts
+index c51375cadab8da34d2ca5b9b39ea6e805dc3fd22..72eb229aa5e9a359e8b6dbf3e3a6b8d85b496bf5 100644
+--- a/checks/code-checks/code-check.page-type.ts
++++ b/checks/code-checks/code-check.page-type.ts
+@@ -123,6 +123,10 @@ export const codeCheck = {
+       invariantKind: "departure",
+       statement: "That landing is how a check states its rule before that check binds anyone.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "A check the change turns on does not judge the change turning that check on.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Patch judges only the paths a change carries.",
