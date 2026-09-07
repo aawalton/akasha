@@ -20,7 +20,7 @@ index 3868d71c05cd7922df5f833d6df79896383d9c6d..f8eb1c34cb5950d33429d97b21db178e
    return CODE.has(extname(at)) ? ADD_CODE_FILE : ADD_FILE
  }
 diff --git a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
-index 3b584e42bc8395a50073d2ddf7426f5b0b5104eb..706215ce4ea290bb83b0dc2e94506b00fc3493ea 100644
+index 3b584e42bc8395a50073d2ddf7426f5b0b5104eb..e9147af4c070e751f67808e7cbdcce2bc7cd6d5c 100644
 --- a/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
 +++ b/changes/mechanical/pages/remove-page/remove-page.change-mechanical.code.ts
 @@ -14,6 +14,7 @@ import {
@@ -30,6 +30,15 @@ index 3b584e42bc8395a50073d2ddf7426f5b0b5104eb..706215ce4ea290bb83b0dc2e94506b00
 +import type { Changes } from "../../../runners/pages/change-running/change-running.change-runner.addressed.ts"
  
  const PART_SLUGS = "part-slugs"
+ 
+@@ -23,7 +24,7 @@ const REMOVE_FILE = "change-mechanical/remove-file"
+ 
+ const REMOVE_CODE_FILE = "change-mechanical/remove-code-file"
+ 
+-const REMOVE_PAGE_FILE = "change-mechanical/remove-page-file"
++const REMOVE_PAGE_FILE = "change-mechanical/remove-page-fyle"
+ 
+ const REMOVE_PROPERTY_VALUE = "change-mechanical/remove-property-value"
  
 @@ -37,7 +38,7 @@ export function parentsOf(world: World, at: string): readonly Named[] {
    return namersIn(world, at, PART_SLUGS)
