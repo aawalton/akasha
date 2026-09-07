@@ -1,0 +1,18 @@
+diff --git a/rule-population/rule-population-reading/rule-population-reading.module.ts b/rule-population/rule-population-reading/rule-population-reading.module.ts
+index 3bf8e9f7fc0650f331f7a0704dfad9dd25c90372..bd71e45e2542f9c04e5c65f5dd2dde27deefdb03 100644
+--- a/rule-population/rule-population-reading/rule-population-reading.module.ts
++++ b/rule-population/rule-population-reading/rule-population-reading.module.ts
+@@ -23,8 +23,11 @@ export const rulePopulationReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The population is the checkout as that checkout now is, with no graph cache read.",
++      statement: "The population is the checkout as that checkout now is.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No graph cache is read.",
+     },
+     {
+       invariantKind: "departure",
