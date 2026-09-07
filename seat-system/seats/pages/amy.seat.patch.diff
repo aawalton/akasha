@@ -1,6 +1,23 @@
 readersOweReading: false temper/temper-progress/completed-days/properties/completed-at.instant-property.ts
 readersOweReading: false temper/temper-progress/completed-days/temper-completed-day.page-type.ts
 readersOweReading: false temper/temper-progress/tasks/properties/completed-at.instant-property.ts
+diff --git a/alan/harness/overdue-rolling/overdue-rolling.module.code.ts b/alan/harness/overdue-rolling/overdue-rolling.module.code.ts
+index 7b93c1fefaebd358397300db4ffb9ed265825b86..93b3b6a2e8a1805f3bf55beafc5d229af5ae8115 100644
+--- a/alan/harness/overdue-rolling/overdue-rolling.module.code.ts
++++ b/alan/harness/overdue-rolling/overdue-rolling.module.code.ts
+@@ -16,7 +16,11 @@ export const ROLLED: readonly Rolling[] = [
+     dueKey: "toDoDueDate",
+     undone: [{ key: "toDoCompletedAt", isEmpty: true }],
+   },
+-  { pageTypeSlug: "temper-task", dueKey: "dueDate", undone: [] },
++  {
++    pageTypeSlug: "temper-task",
++    dueKey: "dueDate",
++    undone: [{ key: "completedAt", isEmpty: true }],
++  },
+ ]
+ 
+ export function narrowFor(one: Rolling, day: string): PageWhere {
 diff --git a/pages/core/task-lifecycle/task-lifecycle.module.code.ts b/pages/core/task-lifecycle/task-lifecycle.module.code.ts
 index 372e70bfdf5208168890482500145d3190f8ed66..d04e6a6e81fd7d17067910ff9dc19cb6ad5f424a 100644
 --- a/pages/core/task-lifecycle/task-lifecycle.module.code.ts
