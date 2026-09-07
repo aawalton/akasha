@@ -13,7 +13,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { runChange as renamePathChange } from "../../../mechanical/file/rename/rename-path/rename-path.change-mechanical-file.code.ts"
-import { runChange as changePageProperty } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-text.code.ts"
+import { runChange as changePageProperty } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-code.code.ts"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-code.code.ts"
 import { runChange as renamePageSlug } from "../../../mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts"
@@ -63,7 +63,7 @@ const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical-file/rename-path") {
     return await renamePathChange(world, given as Parameters<typeof renamePathChange>[1])
   }
-  if (at === "change-mechanical-text/change-page-property") {
+  if (at === "change-mechanical-file-content/change-page-property") {
     return changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
   }
   if (at === "change-mechanical-code/rename-export") {

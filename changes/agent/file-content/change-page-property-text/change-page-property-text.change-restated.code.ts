@@ -4,7 +4,7 @@ import type { Answer } from "../../../modules/change-answer/change-answer.module
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { readFor } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
-const CHANGE_PAGE_PROPERTY = "change-mechanical-text/change-page-property"
+const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-property"
 
 const TEXT_PROPERTY = "text-property"
 

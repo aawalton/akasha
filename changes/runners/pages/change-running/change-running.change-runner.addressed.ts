@@ -83,6 +83,9 @@ export type Changes = {
   "change-mechanical-file-content/change-file-content-code": Parameters<
     typeof import("../../../mechanical/file-content/change/change-file-content-code/change-file-content-code.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
+  "change-mechanical-file-content/change-page-property": Parameters<
+    typeof import("../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts")["runChange"]
+  >[1]
   "change-mechanical-file/add-file": Parameters<
     typeof import("../../../mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts")["runChange"]
   >[1]
@@ -121,9 +124,6 @@ export type Changes = {
   >[1]
   "change-mechanical-manifest/remove-manifest-ways": Parameters<
     typeof import("../../../mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-manifest.code.ts")["runChange"]
-  >[1]
-  "change-mechanical-text/change-page-property": Parameters<
-    typeof import("../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-text.code.ts")["runChange"]
   >[1]
   "change-restated/change-page-property-text": Parameters<
     typeof import("../../../agent/file-content/change-page-property-text/change-page-property-text.change-restated.code.ts")["runChange"]

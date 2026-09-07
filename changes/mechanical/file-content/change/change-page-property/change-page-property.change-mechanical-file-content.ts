@@ -1,8 +1,8 @@
-import type { ChangeMechanicalText } from "../../../text/change-mechanical-text.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
 
 export const changePageProperty = {
   id: "01a07716-76a6-7428-9e18-f3fc32d18085",
-  pageTypeSlug: "change-mechanical-text",
+  pageTypeSlug: "change-mechanical-file-content",
   slug: "change-page-property",
   changeModeSlug: "change-mode-change",
   changeTargetTypeSlug: "change-target-type/file-content",
@@ -13,4 +13,4 @@ export const changePageProperty = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
-} as const satisfies ChangeMechanicalText
+} as const satisfies ChangeMechanicalFileContent

@@ -7,11 +7,11 @@ import {
   type World,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { knownOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical-text.code.ts"
+import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical-file-content.code.ts"
 import { changePagePropertyRelation } from "./change-page-property-relation.change-mechanical-data.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical-text/change-page-property") {
+  if (at === "change-mechanical-file-content/change-page-property") {
     return Promise.resolve(
       changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
     )

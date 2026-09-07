@@ -22,7 +22,7 @@ import {
   statedIn,
 } from "../../../../modules/page-literal/page-literal.module.code.ts"
 
-const CHANGE_PAGE_PROPERTY = "change-mechanical-text/change-page-property"
+const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-property"
 
 const RENAME_EXPORT = "change-mechanical-code/rename-export"
 
