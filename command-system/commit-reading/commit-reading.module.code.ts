@@ -1,4 +1,12 @@
-import { closeSync, fstatSync, mkdtempSync, openSync, readSync, rmSync } from "node:fs"
+import {
+  appendFileSync,
+  closeSync,
+  fstatSync,
+  mkdtempSync,
+  openSync,
+  readSync,
+  rmSync,
+} from "node:fs"
 import { join } from "node:path"
 import { ran } from "@akasha/utils/run/running"
 import { oneLine } from "../fault-saying/fault-saying.module.code.ts"
@@ -69,7 +77,23 @@ export function readingEnded(): undefined {
   rmSync(held.dir, { recursive: true, force: true })
 }
 
+let asked = 0
+
+let spent = 0
+
+function saidOfAsking(): undefined {
+  if (asked === 0) return undefined
+  try {
+    appendFileSync(
+      join(SCRATCH_AT, "akasha-asking.log"),
+      `bodyAt ${String(asked)} asks ${spent.toFixed(0)}ms\n`
+    )
+  } catch {}
+}
+
 process.on("exit", readingEnded)
+
+process.on("exit", saidOfAsking)
 
 function readerOn(root: string): Reading {
   const dir = mkdtempSync(join(SCRATCH_AT, CAT_FILE))
@@ -237,6 +261,8 @@ function heldAt(held: Reading, base: string, path: string): Uint8Array | null {
 }
 
 export function bodyAt(root: string, base: string, path: string): Uint8Array | null {
+  const began = performance.now()
+  asked += 1
   const held = readingIn(root)
   try {
     if (!held.bases.has(base)) {
@@ -251,5 +277,7 @@ export function bodyAt(root: string, base: string, path: string): Uint8Array | n
   } catch (thrown) {
     readingEnded()
     throw thrown
+  } finally {
+    spent += performance.now() - began
   }
 }
