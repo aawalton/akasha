@@ -13,7 +13,7 @@ export const comparisonOpData = {
     },
     {
       invariantKind: "departure",
-      statement: "A saved rule carries an operator's key.",
+      statement: "A saved rule has an operator's key.",
     },
     {
       invariantKind: "constraint",

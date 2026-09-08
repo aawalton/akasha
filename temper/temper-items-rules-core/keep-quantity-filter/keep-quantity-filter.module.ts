@@ -13,7 +13,7 @@ export const keepQuantityFilter = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule carrying the `target-quantity` condition is offered no Keep condition.",
+      statement: "A rule with the `target-quantity` condition is offered no Keep condition.",
     },
     {
       invariantKind: "departure",

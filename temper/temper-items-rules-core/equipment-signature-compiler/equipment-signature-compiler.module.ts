@@ -9,7 +9,7 @@ export const equipmentSignatureCompiler = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A slot carrying no trait yields no signature.",
+      statement: "A slot with no trait yields no signature.",
     },
     {
       invariantKind: "departure",

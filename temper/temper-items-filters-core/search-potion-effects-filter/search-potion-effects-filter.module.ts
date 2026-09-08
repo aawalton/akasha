@@ -10,7 +10,7 @@ export const searchPotionEffectsFilter = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An item matches the selection where the item carries a selected effect.",
+      statement: "An item matches the selection where the item has a selected effect.",
     },
     {
       invariantKind: "absence",

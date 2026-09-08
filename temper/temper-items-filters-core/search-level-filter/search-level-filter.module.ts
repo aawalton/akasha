@@ -17,7 +17,7 @@ export const searchLevelFilter = {
     },
     {
       invariantKind: "departure",
-      statement: "A level threshold carrying the != operator sets no server band.",
+      statement: "A level threshold with the != operator sets no server band.",
     },
   ],
 } as const satisfies Module

@@ -28,7 +28,7 @@ export const inventoryRuleFromPages = {
     },
     {
       invariantKind: "departure",
-      statement: "A row short of a key every rule carries is no rule and is left out.",
+      statement: "A row short of a key every rule has is no rule and is left out.",
     },
     {
       invariantKind: "departure",

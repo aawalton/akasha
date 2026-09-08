@@ -22,8 +22,7 @@ export const inventoryRuleWrites = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An entry key is named where the rule carries rows or where the page carries rows.",
+      statement: "An entry key is named where the rule has rows or where the page has rows.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +34,7 @@ export const inventoryRuleWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "The id a landed row carries is therefore no difference.",
+      statement: "The id a landed row has is therefore no difference.",
     },
     {
       invariantKind: "absence",

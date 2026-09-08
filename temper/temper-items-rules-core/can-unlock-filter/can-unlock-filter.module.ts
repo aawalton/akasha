@@ -4,7 +4,7 @@ export const canUnlockFilter = {
   id: "01a06100-3be8-751b-bf3a-5525027297a8",
   pageTypeSlug: "module",
   slug: "can-unlock-filter",
-  definition: "the Can Unlock condition a rule may carry, as the rule editor offers it",
+  definition: "the Can Unlock condition a rule may have, as the rule editor offers it",
   code: "ts",
   invariants: [
     {

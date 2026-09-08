@@ -10,11 +10,11 @@ export const inventoryRuleActionLabels = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every action carries a verb shown to a reader.",
+      statement: "Every action has a verb shown to a reader.",
     },
     {
       invariantKind: "departure",
-      statement: "An action carrying a destination is shown with the destination named.",
+      statement: "An action with a destination is shown with the destination named.",
     },
   ],
 } as const satisfies Module

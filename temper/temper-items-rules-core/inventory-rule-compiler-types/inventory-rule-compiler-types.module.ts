@@ -9,8 +9,7 @@ export const inventoryRuleCompilerTypes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A compiled rule carries a scope rather than the destination text a saved rule holds.",
+      statement: "A compiled rule has a scope rather than the destination text a saved rule holds.",
     },
     {
       invariantKind: "departure",

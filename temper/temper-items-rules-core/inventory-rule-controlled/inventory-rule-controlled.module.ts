@@ -18,8 +18,7 @@ export const inventoryRuleControlled = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A saved rule set carrying an older controlled rule is migrated to the current shape.",
+      statement: "A saved rule set with an older controlled rule is migrated to the current shape.",
     },
   ],
 } as const satisfies Module

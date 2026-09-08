@@ -10,7 +10,7 @@ export const inventorySettingsTypes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every setting carries a default stated here.",
+      statement: "Every setting has a default stated here.",
     },
     {
       invariantKind: "departure",

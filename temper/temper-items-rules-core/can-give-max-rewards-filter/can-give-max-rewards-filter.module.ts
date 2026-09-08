@@ -4,7 +4,7 @@ export const canGiveMaxRewardsFilter = {
   id: "01a06100-3be5-777a-bd80-406d92d501f0",
   pageTypeSlug: "module",
   slug: "can-give-max-rewards-filter",
-  definition: "the Can Give Max Rewards condition a rule may carry, as the rule editor offers it",
+  definition: "the Can Give Max Rewards condition a rule may have, as the rule editor offers it",
   code: "ts",
   invariants: [
     {

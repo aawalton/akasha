@@ -14,7 +14,7 @@ export const searchServerNarrowing = {
     },
     {
       invariantKind: "departure",
-      statement: "A threshold carrying the != operator yields no server band.",
+      statement: "A threshold with the != operator yields no server band.",
     },
     {
       invariantKind: "constraint",

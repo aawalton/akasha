@@ -10,7 +10,7 @@ export const inventoryRuleGoals = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each goal carries the priority the goal is weighed at.",
+      statement: "Each goal has the priority the goal is weighed at.",
     },
     {
       invariantKind: "departure",

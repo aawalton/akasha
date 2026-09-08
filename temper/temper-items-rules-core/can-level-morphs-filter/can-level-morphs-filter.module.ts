@@ -4,7 +4,7 @@ export const canLevelMorphsFilter = {
   id: "01a06100-3be6-725c-a600-133642aa5e5b",
   pageTypeSlug: "module",
   slug: "can-level-morphs-filter",
-  definition: "the Can Level Morphs condition a rule may carry, as the rule editor offers it",
+  definition: "the Can Level Morphs condition a rule may have, as the rule editor offers it",
   code: "ts",
   invariants: [
     {

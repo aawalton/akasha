@@ -10,7 +10,7 @@ export const inventoryRuleSettings = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rule set carries its rules in the order the rules are tried in.",
+      statement: "A rule set has its rules in the order the rules are tried in.",
     },
     {
       invariantKind: "departure",

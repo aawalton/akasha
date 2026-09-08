@@ -10,7 +10,7 @@ export const inventoryRuleToPages = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rule's page is slugged `rule-` and the id the rule carries.",
+      statement: "A rule's page is slugged `rule-` and the id the rule has.",
     },
     {
       invariantKind: "departure",
