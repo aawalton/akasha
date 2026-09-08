@@ -161,6 +161,7 @@ export const clusterCheck = {
     "module/eso-global-decl-consistency",
     "module/eso-live-dir-candidate-order",
     "module/functional-type-dep-walkers",
+    "module/functional-type-fixpoint",
   ],
   properties: [
     {
