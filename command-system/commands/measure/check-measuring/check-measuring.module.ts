@@ -4,7 +4,7 @@ export const checkMeasuring = {
   id: "01a0735c-1733-7951-92bb-c79e18a063a2",
   pageTypeSlug: "module",
   slug: "check-measuring",
-  definition: "the processor time and memory the check runs a caller chose took, split by phase",
+  definition: "the processor time and memory the check runs a caller chose took",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
