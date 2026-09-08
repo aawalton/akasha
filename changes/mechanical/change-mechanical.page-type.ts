@@ -43,5 +43,13 @@ export const changeMechanical = {
       invariantKind: "departure",
       statement: "A mechanical change is filed under the sub-type naming the thing acted on.",
     },
+    {
+      invariantKind: "absence",
+      statement: "No mechanical change acts on a page type, a page property or prose.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent change reaches each of those three by composing the rungs beneath.",
+    },
   ],
 } as const satisfies PageType
