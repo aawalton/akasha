@@ -23,8 +23,12 @@ export const renameFilePageProperty = {
       statement: "Nothing here judges the path handed in.",
     },
     {
-      invariantKind: "gap",
-      statement: "The key a renamed property declares is restated wherever a page carries it.",
+      invariantKind: "absence",
+      statement: "Nothing here spells the key anew wherever a page carries that key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`rename-page-property-property-slug` spells that key anew on every such page.",
     },
   ],
 } as const satisfies ChangeMechanical
