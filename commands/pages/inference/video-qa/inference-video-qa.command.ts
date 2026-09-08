@@ -40,7 +40,7 @@ export const inferenceVideoQa = {
     },
     {
       invariantKind: "departure",
-      statement: "A directory holding no frame is a fault rather than an empty answer.",
+      statement: "A directory with no frame is a fault rather than an empty answer.",
     },
     {
       invariantKind: "departure",

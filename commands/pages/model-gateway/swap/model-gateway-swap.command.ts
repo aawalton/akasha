@@ -38,7 +38,7 @@ export const modelGatewaySwap = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat holding no live gateway is passed over rather than refused.",
+      statement: "A seat with no live gateway is passed over rather than refused.",
     },
     {
       invariantKind: "departure",

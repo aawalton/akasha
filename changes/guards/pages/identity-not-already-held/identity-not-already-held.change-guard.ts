@@ -5,8 +5,7 @@ export const identityNotAlreadyHeld = {
   pageTypeSlug: "change-guard",
   slug: "identity-not-already-held",
   changeTargetTypeSlug: "change-target-type/file-content",
-  definition:
-    "the guard refusing an answer whose written page takes an identity another page holds",
+  definition: "the guard refusing an answer whose written page takes an identity another page has",
   code: "ts",
   test: "ts",
   invariants: [
@@ -16,11 +15,11 @@ export const identityNotAlreadyHeld = {
     },
     {
       invariantKind: "departure",
-      statement: "A page the answer moves holds its identity at one path alone.",
+      statement: "A page the answer moves has its identity at one path alone.",
     },
     {
       invariantKind: "departure",
-      statement: "An `id` another page holds refuses the answer.",
+      statement: "An `id` another page has refuses the answer.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +27,7 @@ export const identityNotAlreadyHeld = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names the path already holding the identity.",
+      statement: "The refusal names the path already with the identity.",
     },
     {
       invariantKind: "departure",

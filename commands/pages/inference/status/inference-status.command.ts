@@ -18,7 +18,7 @@ export const inferenceStatus = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The services reported are the services the host holds.",
+      statement: "The services reported are the services the host has.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const inferenceStatus = {
     },
     {
       invariantKind: "departure",
-      statement: "A host holding no managed service is said so.",
+      statement: "A host with no managed service is said so.",
     },
     {
       invariantKind: "absence",

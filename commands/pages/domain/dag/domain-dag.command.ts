@@ -4,7 +4,7 @@ export const domainDag = {
   id: "01a07c03-8a7b-7661-a70a-f3c561dbfe12",
   pageTypeSlug: "command",
   slug: "domain-dag",
-  definition: "the command drawing the domain tree, each domain under the domain holding it",
+  definition: "the command drawing the domain tree, each domain under the domain with it",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
@@ -35,7 +35,7 @@ export const domainDag = {
     },
     {
       invariantKind: "departure",
-      statement: "A tree holding nothing refuses rather than answering empty.",
+      statement: "A tree with nothing refuses rather than answering empty.",
     },
     {
       invariantKind: "absence",

@@ -37,7 +37,7 @@ export const removeFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A file the page claims and the tree holds no body at is left alone.",
+      statement: "A file the page claims and the tree has no body at is left alone.",
     },
     {
       invariantKind: "departure",

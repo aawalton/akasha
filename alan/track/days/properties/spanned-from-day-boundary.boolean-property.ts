@@ -16,7 +16,7 @@ export const spannedFromDayBoundary = {
     },
     {
       invariantKind: "departure",
-      statement: "A day spanned from the boundary often holds a figure that is right anyway.",
+      statement: "A day spanned from the boundary often has a figure that is right anyway.",
     },
     {
       invariantKind: "departure",

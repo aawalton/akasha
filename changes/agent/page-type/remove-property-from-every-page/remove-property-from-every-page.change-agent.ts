@@ -7,7 +7,7 @@ export const removePropertyFromEveryPage = {
   changeModeSlug: "change-mode-remove",
   changeTargetTypeSlug: "change-target-type/page-type",
   changeTargetSubtypeSlug: "change-target-subtype/page-type-page-property",
-  definition: "one key taken off every page of one page type, with the values that key holds",
+  definition: "one key taken off every page of one page type, with the values that key has",
   code: "ts",
   test: "ts",
   runsChecks: true,

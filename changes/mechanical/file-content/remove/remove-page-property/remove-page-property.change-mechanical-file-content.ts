@@ -7,7 +7,7 @@ export const removePageProperty = {
   changeModeSlug: "change-mode-remove",
   changeTargetTypeSlug: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-key",
-  definition: "one key taken out of a page's body with every value that key holds",
+  definition: "one key taken out of a page's body with every value that key has",
   code: "ts",
   test: "ts",
   runsChecks: false,
@@ -16,7 +16,7 @@ export const removePageProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key goes with every value that key holds, however many those are.",
+      statement: "A key goes with every value that key has, however many those are.",
     },
     {
       invariantKind: "departure",
@@ -24,7 +24,7 @@ export const removePageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A page holding no such key is already what taking that key away leaves.",
+      statement: "A page with no such key is already what taking that key away leaves.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const removePageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "The key alone is read here, and the values that key holds are not read.",
+      statement: "The key alone is read here, and the values that key has are not read.",
     },
     {
       invariantKind: "departure",

@@ -59,7 +59,7 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "A body holding nothing to change cannot drift.",
+      statement: "A body with nothing to change cannot drift.",
     },
     {
       invariantKind: "departure",

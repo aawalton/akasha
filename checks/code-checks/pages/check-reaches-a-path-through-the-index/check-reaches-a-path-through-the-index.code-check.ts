@@ -27,11 +27,11 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "A name holding no separator is no path.",
+      statement: "A name with no separator is no path.",
     },
     {
       invariantKind: "departure",
-      statement: "Every string a body holds is read rather than the specifiers alone.",
+      statement: "Every string a body has is read rather than the specifiers alone.",
     },
     {
       invariantKind: "departure",

@@ -7,7 +7,7 @@ export const tiClean = {
   pageTypeSlug: "boolean-property",
   slug: "ti-clean",
   propertySlug: "ti-clean",
-  definition: "whether an addon's TypeScript source holds no raw table call",
+  definition: "whether an addon's TypeScript source has no raw table call",
   invariants: [
     {
       invariantKind: "departure",

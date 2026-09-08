@@ -8,7 +8,7 @@ export const secret = {
   slug: "secret",
   propertySlug: "secret",
   definition:
-    "whether the value a page carries for this property is hidden from whoever holds the files",
+    "whether the value a page carries for this property is hidden from whoever has the files",
   invariants: [
     {
       invariantKind: "departure",

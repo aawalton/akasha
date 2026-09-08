@@ -69,7 +69,7 @@ export const clientReachesAServerModuleThroughARoute = {
     },
     {
       invariantKind: "departure",
-      statement: "A path holding a folder named `.server` is server-only.",
+      statement: "A path with a folder named `.server` is server-only.",
     },
     {
       invariantKind: "departure",

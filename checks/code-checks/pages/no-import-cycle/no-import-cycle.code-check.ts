@@ -22,7 +22,7 @@ export const noImportCycle = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a cycle holding a file the change carries is refused.",
+      statement: "Only a cycle with a file the change carries is refused.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const noImportCycle = {
     },
     {
       invariantKind: "departure",
-      statement: "A specifier landing on no file the folder holds is passed over.",
+      statement: "A specifier landing on no file the folder has is passed over.",
     },
     {
       invariantKind: "constraint",

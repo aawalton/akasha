@@ -7,5 +7,5 @@ export const isOffHandOnly = {
   pageTypeSlug: "boolean-property",
   slug: "is-off-hand-only",
   propertySlug: "is-off-hand-only",
-  definition: "whether a weapon is held in the off hand alone",
+  definition: "whether a weapon is in the off hand alone",
 } as const satisfies BooleanProperty

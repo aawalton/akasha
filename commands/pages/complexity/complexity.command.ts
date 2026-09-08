@@ -76,7 +76,7 @@ export const complexity = {
     },
     {
       invariantKind: "departure",
-      statement: "A scope holding no row is answered empty rather than refused.",
+      statement: "A scope with no row is answered empty rather than refused.",
     },
     {
       invariantKind: "stopgap",

@@ -30,7 +30,7 @@ export const removePackageAlias = {
     },
     {
       invariantKind: "departure",
-      statement: "A string holding the old name inside a longer sentence reaches nothing.",
+      statement: "A string with the old name inside a longer sentence reaches nothing.",
     },
     {
       invariantKind: "departure",

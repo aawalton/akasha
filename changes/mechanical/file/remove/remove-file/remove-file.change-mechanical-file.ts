@@ -16,7 +16,7 @@ export const removeFile = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path holding no body is refused rather than taken away.",
+      statement: "A path with no body is refused rather than taken away.",
     },
     {
       invariantKind: "departure",

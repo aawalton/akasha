@@ -44,7 +44,7 @@ export const temperErrorsList = {
     },
     {
       invariantKind: "departure",
-      statement: "A capture holding no entry is refused rather than reported as a clean run.",
+      statement: "A capture with no entry is refused rather than reported as a clean run.",
     },
     {
       invariantKind: "absence",

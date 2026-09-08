@@ -73,7 +73,7 @@ export const agentForest = {
     {
       invariantKind: "departure",
       statement:
-        "A seat the working tree no longer holds is read from the newest commit that held that seat.",
+        "A seat the working tree no longer has is read from the newest commit that held that seat.",
     },
     {
       invariantKind: "departure",

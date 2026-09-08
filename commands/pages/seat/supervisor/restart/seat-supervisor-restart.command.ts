@@ -29,7 +29,7 @@ export const seatSupervisorRestart = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat holding no readable process is reported rather than signalled.",
+      statement: "A seat with no readable process is reported rather than signalled.",
     },
     {
       invariantKind: "departure",

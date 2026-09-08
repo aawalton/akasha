@@ -106,7 +106,7 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "constraint",
-      statement: "A name the file can bind again holds a thing the file acts on rather than data.",
+      statement: "A name the file can bind again has a thing the file acts on rather than data.",
     },
     {
       invariantKind: "gap",

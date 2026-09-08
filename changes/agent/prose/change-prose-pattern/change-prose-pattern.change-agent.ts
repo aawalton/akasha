@@ -44,7 +44,7 @@ export const changeProsePattern = {
     },
     {
       invariantKind: "constraint",
-      statement: "The parser reads a model no commit holds, so this runs only where that model is.",
+      statement: "The parser reads a model no commit has, so this runs only where that model is.",
     },
     {
       invariantKind: "departure",

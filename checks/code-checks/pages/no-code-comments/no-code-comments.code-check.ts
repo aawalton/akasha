@@ -31,7 +31,7 @@ export const noCodeComments = {
     {
       invariantKind: "departure",
       statement:
-        "A comment in a stylesheet is found by scanning past the strings the stylesheet holds.",
+        "A comment in a stylesheet is found by scanning past the strings the stylesheet has.",
     },
     {
       invariantKind: "gap",

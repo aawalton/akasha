@@ -4,7 +4,7 @@ export const registry = {
   id: "01a06812-2380-78aa-994b-e27680b0a2eb",
   pageTypeSlug: "cluster-service",
   slug: "registry",
-  definition: "the store holding the images the cluster runs",
+  definition: "the store with the images the cluster runs",
   resourceKind: "Deployment",
   namespace: "registry",
   resourceName: "registry",

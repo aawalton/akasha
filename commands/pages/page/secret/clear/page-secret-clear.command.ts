@@ -31,7 +31,7 @@ export const pageSecretClear = {
     },
     {
       invariantKind: "departure",
-      statement: "A key the sops file does not hold is refused rather than passed over.",
+      statement: "A key the sops file does not have is refused rather than passed over.",
     },
     {
       invariantKind: "departure",

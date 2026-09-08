@@ -25,7 +25,7 @@ export const removeFolder = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding no file is refused.",
+      statement: "A folder with no file is refused.",
     },
     {
       invariantKind: "departure",

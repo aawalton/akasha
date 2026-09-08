@@ -30,7 +30,7 @@ export const temperCatalogStatus = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each account in the capture is reported over every domain the registry holds.",
+      statement: "Each account in the capture is reported over every domain the registry has.",
     },
     {
       invariantKind: "departure",

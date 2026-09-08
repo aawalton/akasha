@@ -23,7 +23,7 @@ export const changeFileContent = {
     },
     {
       invariantKind: "departure",
-      statement: "A passage the body holds nowhere is refused.",
+      statement: "A passage the body has nowhere is refused.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const changeFileContent = {
     },
     {
       invariantKind: "departure",
-      statement: "A path holding no body is refused.",
+      statement: "A path with no body is refused.",
     },
     {
       invariantKind: "departure",

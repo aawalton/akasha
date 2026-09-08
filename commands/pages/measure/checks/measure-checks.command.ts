@@ -51,7 +51,7 @@ export const measureChecks = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "A run writes no value the commit holds.",
+      statement: "A run writes no value the commit has.",
     },
     {
       invariantKind: "departure",

@@ -28,7 +28,7 @@ export const handWrittenGlobalIsNoMethod = {
     },
     {
       invariantKind: "departure",
-      statement: "A method is a member of an interface a generated declaration holds.",
+      statement: "A method is a member of an interface a generated declaration has.",
     },
     {
       invariantKind: "departure",
@@ -52,8 +52,7 @@ export const handWrittenGlobalIsNoMethod = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every declaration the index holds is judged rather than the ones a change carries.",
+      statement: "Every declaration the index has is judged rather than the ones a change carries.",
     },
     {
       invariantKind: "constraint",

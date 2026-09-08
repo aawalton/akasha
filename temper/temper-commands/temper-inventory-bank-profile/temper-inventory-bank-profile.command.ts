@@ -27,7 +27,7 @@ export const temperInventoryBankProfile = {
     },
     {
       invariantKind: "departure",
-      statement: "A file holding no capture refuses the call.",
+      statement: "A file with no capture refuses the call.",
     },
   ],
 } as const satisfies Command

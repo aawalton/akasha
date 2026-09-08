@@ -34,7 +34,7 @@ export const domainDeclarations = {
     },
     {
       invariantKind: "departure",
-      statement: "A subject holding nothing refuses rather than answering empty.",
+      statement: "A subject with nothing refuses rather than answering empty.",
     },
     {
       invariantKind: "absence",

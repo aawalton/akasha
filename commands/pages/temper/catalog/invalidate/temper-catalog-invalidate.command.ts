@@ -24,7 +24,7 @@ export const temperCatalogInvalidate = {
     },
     {
       invariantKind: "departure",
-      statement: "A domain the addon's registry does not hold is refused by name.",
+      statement: "A domain the addon's registry does not have is refused by name.",
     },
     {
       invariantKind: "departure",

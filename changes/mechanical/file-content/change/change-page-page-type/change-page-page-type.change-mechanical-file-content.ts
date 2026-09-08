@@ -45,11 +45,11 @@ export const changePagePageType = {
     },
     {
       invariantKind: "departure",
-      statement: "A path holding no body is refused.",
+      statement: "A path with no body is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type named by a path holding no body is refused.",
+      statement: "A page type named by a path with no body is refused.",
     },
     {
       invariantKind: "departure",

@@ -26,7 +26,7 @@ export const movePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder already holding a body at a path the move would write is refused.",
+      statement: "A folder already with a body at a path the move would write is refused.",
     },
     {
       invariantKind: "absence",

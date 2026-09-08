@@ -57,7 +57,7 @@ export const noSpacingLiteral = {
     {
       invariantKind: "departure",
       statement:
-        "A grant names one file and the values Alan let that file hold, each with a reason.",
+        "A grant names one file and the values Alan let that file have, each with a reason.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +65,7 @@ export const noSpacingLiteral = {
     },
     {
       invariantKind: "departure",
-      statement: "A grant names its file by the page holding that file rather than by a path.",
+      statement: "A grant names its file by the page with that file rather than by a path.",
     },
     {
       invariantKind: "gap",

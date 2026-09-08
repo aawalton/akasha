@@ -4,7 +4,7 @@ export const imessageContacts = {
   id: "01a0685f-c8ed-7001-8968-6b6c199596e3",
   pageTypeSlug: "command",
   slug: "imessage-contacts",
-  definition: "the command naming the address book contacts whose name holds a run of letters",
+  definition: "the command naming the address book contacts whose name has a run of letters",
   code: "ts",
   changeKindSlug: "change-none",
   taking: [

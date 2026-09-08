@@ -50,7 +50,7 @@ export const trackHealthImport = {
     },
     {
       invariantKind: "departure",
-      statement: "A restart begins at the head of the export whatever a checkpoint holds.",
+      statement: "A restart begins at the head of the export whatever a checkpoint has.",
     },
     {
       invariantKind: "departure",
@@ -66,7 +66,7 @@ export const trackHealthImport = {
     },
     {
       invariantKind: "departure",
-      statement: "An export neither machine holds refuses the call.",
+      statement: "An export neither machine has refuses the call.",
     },
     {
       invariantKind: "absence",

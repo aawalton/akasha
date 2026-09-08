@@ -4,7 +4,7 @@ export const loki = {
   id: "01a06809-250b-7ab3-b9ac-5e00cfbba4ec",
   pageTypeSlug: "command",
   slug: "loki",
-  definition: "the log lines Loki holds for a pod, newest first",
+  definition: "the log lines Loki has for a pod, newest first",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",

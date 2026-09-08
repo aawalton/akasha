@@ -7,5 +7,5 @@ export const bound = {
   pageTypeSlug: "boolean-property",
   slug: "bound",
   propertySlug: "bound",
-  definition: "whether an item is tied to the account holding the item",
+  definition: "whether an item is tied to the account with the item",
 } as const satisfies BooleanProperty

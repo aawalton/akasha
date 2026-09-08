@@ -7,7 +7,7 @@ export const runsFileLength = {
   pageTypeSlug: "boolean-property",
   slug: "runs-file-length",
   propertySlug: "runs-file-length",
-  definition: "whether the byte ceiling is judged over the files a property holds",
+  definition: "whether the byte ceiling is judged over the files a property has",
   invariants: [
     {
       invariantKind: "departure",
@@ -19,8 +19,7 @@ export const runsFileLength = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A property exempts every file that property holds rather than one file named here.",
+      statement: "A property exempts every file that property has rather than one file named here.",
     },
   ],
 } as const satisfies BooleanProperty

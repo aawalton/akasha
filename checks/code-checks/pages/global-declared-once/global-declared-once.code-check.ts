@@ -26,7 +26,7 @@ export const globalDeclaredOnce = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration file holds the shared set and every other file holds a module.",
+      statement: "A declaration file has the shared set and every other file has a module.",
     },
     {
       invariantKind: "departure",
@@ -111,7 +111,7 @@ export const globalDeclaredOnce = {
     },
     {
       invariantKind: "departure",
-      statement: "A file holding bytes rather than text is no input to this check.",
+      statement: "A file with bytes rather than text is no input to this check.",
     },
     {
       invariantKind: "absence",

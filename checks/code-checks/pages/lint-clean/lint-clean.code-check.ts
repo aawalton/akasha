@@ -32,7 +32,7 @@ export const lintClean = {
     },
     {
       invariantKind: "departure",
-      statement: "The mirror holds those files and the files the linter is configured by.",
+      statement: "The mirror has those files and the files the linter is configured by.",
     },
     {
       invariantKind: "departure",

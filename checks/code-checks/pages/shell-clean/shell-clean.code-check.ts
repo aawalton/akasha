@@ -35,7 +35,7 @@ export const shellClean = {
     },
     {
       invariantKind: "departure",
-      statement: "The mirror holds every shell script the tree holds.",
+      statement: "The mirror has every shell script the tree has.",
     },
     {
       invariantKind: "departure",

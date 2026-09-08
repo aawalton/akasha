@@ -30,7 +30,7 @@ export const imessageRecent = {
     },
     {
       invariantKind: "departure",
-      statement: "A contact holds the answer to every conversation that contact is in.",
+      statement: "A contact has the answer to every conversation that contact is in.",
     },
     {
       invariantKind: "departure",

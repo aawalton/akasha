@@ -20,7 +20,7 @@ export const moveFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A path holding no body is refused rather than carried.",
+      statement: "A path with no body is refused rather than carried.",
     },
     {
       invariantKind: "departure",

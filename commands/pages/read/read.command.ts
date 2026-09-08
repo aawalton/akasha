@@ -40,7 +40,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the agent's record already holds comes back as one line saying so.",
+      statement: "A body the agent's record already has comes back as one line saying so.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "`--full` returns the body whatever the record holds.",
+      statement: "`--full` returns the body whatever the record has.",
     },
     {
       invariantKind: "departure",
@@ -80,11 +80,11 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A body past the bytes one answer holds comes back a run of lines at a time.",
+      statement: "A body past the bytes one answer has comes back a run of lines at a time.",
     },
     {
       invariantKind: "departure",
-      statement: "A run of lines begins after the line the record holds as read.",
+      statement: "A run of lines begins after the line the record has as read.",
     },
 
     {
@@ -113,7 +113,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "No call returns a body past the bytes one answer holds.",
+      statement: "No call returns a body past the bytes one answer has.",
     },
     {
       invariantKind: "departure",
@@ -153,7 +153,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "An agent that holds no seat page is refused with that as the reason.",
+      statement: "An agent that has no seat page is refused with that as the reason.",
     },
     {
       invariantKind: "departure",
@@ -193,7 +193,7 @@ export const read = {
       name: "One Read A Call",
       act: "Run one `akasha read` per shell call rather than chaining several into one.",
       warrant:
-        "Output past what one shell result holds is truncated, and the record still says it reached you.",
+        "Output past what one shell result has is truncated, and the record still says it reached you.",
       aids: [
         "One call naming many files is safe; it caps itself.",
         "The cap is per call, so chaining defeats it.",

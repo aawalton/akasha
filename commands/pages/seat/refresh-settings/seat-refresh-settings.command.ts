@@ -32,7 +32,7 @@ export const seatRefreshSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "A file already holding the body that would be written is left alone.",
+      statement: "A file already with the body that would be written is left alone.",
     },
     {
       invariantKind: "departure",

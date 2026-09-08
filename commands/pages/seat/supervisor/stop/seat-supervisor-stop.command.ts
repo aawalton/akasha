@@ -30,7 +30,7 @@ export const seatSupervisorStop = {
     {
       invariantKind: "departure",
       statement:
-        "A name no seat holds a page for is answered apart from a word this command does not take.",
+        "A name no seat has a page for is answered apart from a word this command does not take.",
     },
     {
       invariantKind: "departure",

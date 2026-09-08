@@ -14,7 +14,7 @@ export const noColorLiteral = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A color a design token holds is reached by name rather than written out again.",
+      statement: "A color a design token has is reached by name rather than written out again.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +51,7 @@ export const noColorLiteral = {
     {
       invariantKind: "departure",
       statement:
-        "A grant names one file and the values Alan let that file hold, each with a reason.",
+        "A grant names one file and the values Alan let that file have, each with a reason.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const noColorLiteral = {
     },
     {
       invariantKind: "gap",
-      statement: "No check holds a design token value to the color page that value is read from.",
+      statement: "No check has a design token value to the color page that value is read from.",
     },
   ],
 } as const satisfies CodeCheck

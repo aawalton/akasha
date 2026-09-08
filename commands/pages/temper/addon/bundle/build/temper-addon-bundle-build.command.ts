@@ -40,7 +40,7 @@ export const temperAddonBundleBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "A dependency the roster does not hold is reported rather than packed.",
+      statement: "A dependency the roster does not have is reported rather than packed.",
     },
     {
       invariantKind: "departure",

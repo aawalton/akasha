@@ -4,7 +4,7 @@ export const restore = {
   id: "01a07267-f795-738d-90c6-a5e16e277228",
   pageTypeSlug: "command",
   slug: "restore",
-  definition: "named paths put back as HEAD holds them, in the working tree and in the git index",
+  definition: "named paths put back as HEAD has them, in the working tree and in the git index",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
@@ -49,7 +49,7 @@ export const restore = {
     },
     {
       invariantKind: "departure",
-      statement: "A path HEAD holds no file at is refused.",
+      statement: "A path HEAD has no file at is refused.",
     },
     {
       invariantKind: "absence",
@@ -69,7 +69,7 @@ export const restore = {
     },
     {
       invariantKind: "departure",
-      statement: "The body written is the body HEAD holds byte for byte.",
+      statement: "The body written is the body HEAD has byte for byte.",
     },
     {
       invariantKind: "departure",
@@ -78,11 +78,11 @@ export const restore = {
     {
       invariantKind: "departure",
       statement:
-        "A path whose working tree and git index both hold HEAD's body is left alone and said so.",
+        "A path whose working tree and git index both have HEAD's body is left alone and said so.",
     },
     {
       invariantKind: "departure",
-      statement: "A path whose git index alone holds another body is put back too.",
+      statement: "A path whose git index alone has another body is put back too.",
     },
     {
       invariantKind: "departure",

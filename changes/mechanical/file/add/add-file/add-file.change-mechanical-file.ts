@@ -17,16 +17,16 @@ export const addFile = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path holding no body is written as an addition.",
+      statement: "A path with no body is written as an addition.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A path holding another body is written over as a replace holding the whole body each side.",
+        "A path with another body is written over as a replace with the whole body each side.",
     },
     {
       invariantKind: "departure",
-      statement: "A path already holding the body given is refused rather than written again.",
+      statement: "A path already with the body given is refused rather than written again.",
     },
     {
       invariantKind: "absence",

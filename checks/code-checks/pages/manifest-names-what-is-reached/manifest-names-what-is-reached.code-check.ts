@@ -61,7 +61,7 @@ export const manifestNamesWhatIsReached = {
     },
     {
       invariantKind: "absence",
-      statement: "A specifier spelt inside a string a body holds reaches nothing.",
+      statement: "A specifier spelt inside a string a body has reaches nothing.",
     },
     {
       invariantKind: "departure",
@@ -81,15 +81,15 @@ export const manifestNamesWhatIsReached = {
     },
     {
       invariantKind: "departure",
-      statement: "A reach at a package the akasha folder itself holds is let through.",
+      statement: "A reach at a package the akasha folder itself has is let through.",
     },
     {
       invariantKind: "departure",
-      statement: "A dependency naming a package the akasha folder itself holds is let through.",
+      statement: "A dependency naming a package the akasha folder itself has is let through.",
     },
     {
       invariantKind: "departure",
-      statement: "A file is judged against the innermost package whose folder holds that file.",
+      statement: "A file is judged against the innermost package whose folder has that file.",
     },
     {
       invariantKind: "absence",
@@ -150,7 +150,7 @@ export const manifestNamesWhatIsReached = {
     },
     {
       invariantKind: "departure",
-      statement: "The list is read off the page whose folder holds the manifest.",
+      statement: "The list is read off the page whose folder has the manifest.",
     },
     {
       invariantKind: "departure",

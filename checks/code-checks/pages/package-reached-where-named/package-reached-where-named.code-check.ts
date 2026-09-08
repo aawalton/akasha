@@ -107,7 +107,7 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "A package keeps to itself only the code its pages hold.",
+      statement: "A package keeps to itself only the code its pages have.",
     },
     {
       invariantKind: "departure",

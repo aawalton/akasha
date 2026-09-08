@@ -31,7 +31,7 @@ export const noIndexPathSpelled = {
     },
     {
       invariantKind: "departure",
-      statement: "Every string a body holds is read rather than the specifiers alone.",
+      statement: "Every string a body has is read rather than the specifiers alone.",
     },
     {
       invariantKind: "departure",

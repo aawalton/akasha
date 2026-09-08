@@ -27,7 +27,7 @@ export const changeList = {
     },
     {
       invariantKind: "departure",
-      statement: "That list says how many edits each of those subagents holds.",
+      statement: "That list says how many edits each of those subagents has.",
     },
     {
       invariantKind: "departure",

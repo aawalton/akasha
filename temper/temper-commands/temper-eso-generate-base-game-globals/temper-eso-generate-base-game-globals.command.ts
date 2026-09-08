@@ -54,7 +54,7 @@ export const temperEsoGenerateBaseGameGlobals = {
     },
     {
       invariantKind: "departure",
-      statement: "A clone holding no string id refuses the call.",
+      statement: "A clone with no string id refuses the call.",
     },
     {
       invariantKind: "absence",

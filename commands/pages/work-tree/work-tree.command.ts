@@ -4,8 +4,7 @@ export const workTree = {
   id: "01a06866-8b85-79cd-a698-d3fa3f18a57b",
   pageTypeSlug: "command",
   slug: "work-tree",
-  definition:
-    "the command drawing each initiative under the one above it, and the intents it holds",
+  definition: "the command drawing each initiative under the one above it, and the intents it has",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
@@ -50,7 +49,7 @@ export const workTree = {
     },
     {
       invariantKind: "departure",
-      statement: "The intents an initiative holds are drawn beneath that initiative.",
+      statement: "The intents an initiative has are drawn beneath that initiative.",
     },
     {
       invariantKind: "departure",
@@ -66,7 +65,7 @@ export const workTree = {
     },
     {
       invariantKind: "departure",
-      statement: "An intent opens the page of the initiative holding that intent.",
+      statement: "An intent opens the page of the initiative with that intent.",
     },
     {
       invariantKind: "departure",
@@ -110,7 +109,7 @@ export const workTree = {
     },
     {
       invariantKind: "departure",
-      statement: "A tree holding no initiative is refused rather than printed as nothing.",
+      statement: "A tree with no initiative is refused rather than printed as nothing.",
     },
     {
       invariantKind: "absence",

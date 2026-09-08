@@ -40,7 +40,7 @@ export const musicQueue = {
     },
     {
       invariantKind: "departure",
-      statement: "An artist named holds every query rather than the first alone.",
+      statement: "An artist named has every query rather than the first alone.",
     },
     {
       invariantKind: "departure",

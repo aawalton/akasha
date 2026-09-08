@@ -15,7 +15,7 @@ export const importNotLeftHanging = {
     },
     {
       invariantKind: "departure",
-      statement: "A file importing the file taken away after the change holds a hanging import.",
+      statement: "A file importing the file taken away after the change has a hanging import.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const importNotLeftHanging = {
     },
     {
       invariantKind: "departure",
-      statement: "An import reaching no file breaks the build whatever page holds that import.",
+      statement: "An import reaching no file breaks the build whatever page has that import.",
     },
     {
       invariantKind: "absence",

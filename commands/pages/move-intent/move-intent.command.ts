@@ -4,7 +4,7 @@ export const moveIntent = {
   id: "01a081e5-4603-78f0-8295-3ee2947edb01",
   pageTypeSlug: "command",
   slug: "move-intent",
-  definition: "the command carrying one intent to another place in the initiative holding it",
+  definition: "the command carrying one intent to another place in the initiative with it",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-mechanical",

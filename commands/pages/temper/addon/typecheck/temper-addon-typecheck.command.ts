@@ -29,7 +29,7 @@ export const temperAddonTypecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration a sibling addon holds is out of scope for the addon compiled.",
+      statement: "A declaration a sibling addon has is out of scope for the addon compiled.",
     },
     {
       invariantKind: "departure",

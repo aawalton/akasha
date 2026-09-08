@@ -19,7 +19,7 @@ export const noUnparsedBoundaryRead = {
     },
     {
       invariantKind: "departure",
-      statement: "The block is the nearest block or source file or clause holding the read.",
+      statement: "The block is the nearest block or source file or clause with the read.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +65,7 @@ export const noUnparsedBoundaryRead = {
     },
     {
       invariantKind: "stopgap",
-      statement: "This check runs on no phase while the tree still holds sites the rule names.",
+      statement: "This check runs on no phase while the tree still has sites the rule names.",
     },
     {
       invariantKind: "gap",

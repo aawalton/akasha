@@ -4,7 +4,7 @@ export const trackSessionShow = {
   id: "01a07979-8035-7a44-ae7e-9077fced1824",
   pageTypeSlug: "command",
   slug: "track-session-show",
-  definition: "the command saying the stretches a day holds",
+  definition: "the command saying the stretches a day has",
   code: "ts",
   changeKindSlug: "change-mechanical",
   taking: [

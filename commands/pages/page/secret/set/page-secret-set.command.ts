@@ -41,7 +41,7 @@ export const pageSecretSet = {
     },
     {
       invariantKind: "departure",
-      statement: "A value holding newlines of its own is taken whole.",
+      statement: "A value with newlines of its own is taken whole.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const pageSecretSet = {
     },
     {
       invariantKind: "departure",
-      statement: "The secrets the sops file already holds are carried into the file written.",
+      statement: "The secrets the sops file already has are carried into the file written.",
     },
     {
       invariantKind: "departure",

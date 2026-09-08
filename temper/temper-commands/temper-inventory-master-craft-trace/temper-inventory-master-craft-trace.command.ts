@@ -18,7 +18,7 @@ export const temperInventoryMasterCraftTrace = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The ring holds a bounded count of traces.",
+      statement: "The ring has a bounded count of traces.",
     },
     {
       invariantKind: "departure",

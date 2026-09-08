@@ -16,12 +16,12 @@ export const addPropertyValue = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value is put after the values the property already holds.",
+      statement: "A value is put after the values the property already has.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Whether a property holds many values is read from the body rather than from the type.",
+        "Whether a property has many values is read from the body rather than from the type.",
     },
     {
       invariantKind: "departure",
@@ -29,11 +29,11 @@ export const addPropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "Putting a second value into a property holding one value is a restatement.",
+      statement: "Putting a second value into a property with one value is a restatement.",
     },
     {
       invariantKind: "departure",
-      statement: "A value the property holds already is refused rather than held twice.",
+      statement: "A value the property has already is refused rather than held twice.",
     },
     {
       invariantKind: "departure",

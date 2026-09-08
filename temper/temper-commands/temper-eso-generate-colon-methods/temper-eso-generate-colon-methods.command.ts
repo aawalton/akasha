@@ -43,7 +43,7 @@ export const temperEsoGenerateColonMethods = {
     },
     {
       invariantKind: "departure",
-      statement: "A clone holding no colon-method refuses the call.",
+      statement: "A clone with no colon-method refuses the call.",
     },
     {
       invariantKind: "departure",

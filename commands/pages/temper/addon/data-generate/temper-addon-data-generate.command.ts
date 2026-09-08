@@ -4,7 +4,7 @@ export const temperAddonDataGenerate = {
   id: "01a0603c-c1c9-7a51-951e-6b45cf45c084",
   pageTypeSlug: "command",
   slug: "temper-addon-data-generate",
-  definition: "the command writing the addon data files from the pages holding their source",
+  definition: "the command writing the addon data files from the pages with their source",
   code: "ts",
   changeKindSlug: "change-mechanical",
   taking: [

@@ -22,7 +22,7 @@ export const temperAutoQuestTrace = {
     },
     {
       invariantKind: "departure",
-      statement: "A file holding no trace refuses the call.",
+      statement: "A file with no trace refuses the call.",
     },
     {
       invariantKind: "absence",

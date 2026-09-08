@@ -26,7 +26,7 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "The keys holding a file are read from the page's own type.",
+      statement: "The keys with a file are read from the page's own type.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A reserved tail holding no body is carried nowhere.",
+      statement: "A reserved tail with no body is carried nowhere.",
     },
     {
       invariantKind: "departure",

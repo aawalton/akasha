@@ -16,11 +16,11 @@ export const removePropertyValue = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property holding many values keeps its key when the last value goes.",
+      statement: "A property with many values keeps its key when the last value goes.",
     },
     {
       invariantKind: "departure",
-      statement: "A property holding one value goes with that value.",
+      statement: "A property with one value goes with that value.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,7 @@ export const removePropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A value the property does not hold is refused rather than taken away.",
+      statement: "A value the property does not have is refused rather than taken away.",
     },
     {
       invariantKind: "departure",

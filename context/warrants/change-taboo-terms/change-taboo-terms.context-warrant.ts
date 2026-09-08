@@ -75,11 +75,11 @@ export const changeTabooTerms = {
     },
     {
       invariantKind: "departure",
-      statement: "A file whose property holds bytes rather than text is read by no term here.",
+      statement: "A file whose property has bytes rather than text is read by no term here.",
     },
     {
       invariantKind: "departure",
-      statement: "Whether a property holds bytes is read off that property's own page.",
+      statement: "Whether a property has bytes is read off that property's own page.",
     },
     {
       invariantKind: "departure",
@@ -92,7 +92,7 @@ export const changeTabooTerms = {
     {
       invariantKind: "departure",
       statement:
-        "The text owed says of each list whether the list holds kept senses or barred senses.",
+        "The text owed says of each list whether the list has kept senses or barred senses.",
     },
     {
       invariantKind: "departure",

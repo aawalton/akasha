@@ -4,7 +4,7 @@ export const audit = {
   id: "01a04fba-6d24-7935-80d4-8a1433dc03d4",
   pageTypeSlug: "command",
   slug: "audit",
-  definition: "every check that runs at audit, over every file this repository holds",
+  definition: "every check that runs at audit, over every file this repository has",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
@@ -31,7 +31,7 @@ export const audit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An audit judges every file this repository holds.",
+      statement: "An audit judges every file this repository has.",
     },
     {
       invariantKind: "departure",
@@ -55,8 +55,7 @@ export const audit = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path naming no file this repository holds and no folder holding a file is refused.",
+      statement: "A path naming no file this repository has and no folder with a file is refused.",
     },
     {
       invariantKind: "departure",
@@ -93,7 +92,7 @@ export const audit = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing holds the folder still while an audit runs.",
+      statement: "Nothing has the folder still while an audit runs.",
     },
     {
       invariantKind: "absence",

@@ -123,7 +123,7 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A run told to measure holds every test file named to no ceiling.",
+      statement: "A run told to measure has every test file named to no ceiling.",
     },
     {
       invariantKind: "departure",

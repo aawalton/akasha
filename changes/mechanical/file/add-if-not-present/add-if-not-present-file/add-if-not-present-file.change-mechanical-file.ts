@@ -7,7 +7,7 @@ export const addIfNotPresentFile = {
   changeModeSlug: "change-mode-add-if-not-present",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file",
-  definition: "one body written at one path that does not hold that body already",
+  definition: "one body written at one path that does not have that body already",
   code: "ts",
   test: "ts",
   runsChecks: false,
@@ -16,16 +16,16 @@ export const addIfNotPresentFile = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path holding no body is written as an addition.",
+      statement: "A path with no body is written as an addition.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A path holding another body is written over as a replace holding the whole body each side.",
+        "A path with another body is written over as a replace with the whole body each side.",
     },
     {
       invariantKind: "departure",
-      statement: "A path already holding the body given is left as that path is.",
+      statement: "A path already with the body given is left as that path is.",
     },
     {
       invariantKind: "departure",

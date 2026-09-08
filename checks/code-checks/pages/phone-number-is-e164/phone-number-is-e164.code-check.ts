@@ -15,7 +15,7 @@ export const phoneNumberIsE164 = {
     {
       invariantKind: "departure",
       statement:
-        "Which keys a page holds a phone number under is read from the page types declaring the keys.",
+        "Which keys a page has a phone number under is read from the page types declaring the keys.",
     },
     {
       invariantKind: "departure",

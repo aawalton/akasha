@@ -37,11 +37,11 @@ export const seatTranscripts = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat holding no transcript is left out rather than answered an empty path.",
+      statement: "A seat with no transcript is left out rather than answered an empty path.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat holding an empty transcript path is left out the same way.",
+      statement: "A seat with an empty transcript path is left out the same way.",
     },
     {
       invariantKind: "departure",

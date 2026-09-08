@@ -15,15 +15,15 @@ export const importReachesAFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the answer writes a body at holds a body.",
+      statement: "A path the answer writes a body at has a body.",
     },
     {
       invariantKind: "departure",
-      statement: "A path the answer moves away from holds no body.",
+      statement: "A path the answer moves away from has no body.",
     },
     {
       invariantKind: "departure",
-      statement: "A path no edit names holds the body the world before the change holds.",
+      statement: "A path no edit names has the body the world before the change holds.",
     },
     {
       invariantKind: "departure",

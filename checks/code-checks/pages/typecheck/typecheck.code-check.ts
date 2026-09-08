@@ -72,7 +72,7 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "Every declaration file akasha holds is compiled with every change.",
+      statement: "Every declaration file akasha has is compiled with every change.",
     },
     {
       invariantKind: "departure",
@@ -104,7 +104,7 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "The settings name every ambient type the packages folder holds.",
+      statement: "The settings name every ambient type the packages folder has.",
     },
     {
       invariantKind: "departure",

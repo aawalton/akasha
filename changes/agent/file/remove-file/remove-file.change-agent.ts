@@ -22,7 +22,7 @@ export const removeFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A page file is read from the path against the page types the index holds.",
+      statement: "A page file is read from the path against the page types the index has.",
     },
     {
       invariantKind: "departure",

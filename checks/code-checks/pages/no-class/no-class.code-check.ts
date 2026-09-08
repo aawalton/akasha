@@ -31,7 +31,7 @@ export const noClass = {
     },
     {
       invariantKind: "departure",
-      statement: "A class the lua runtime library holds is let through.",
+      statement: "A class the lua runtime library has is let through.",
     },
     {
       invariantKind: "departure",

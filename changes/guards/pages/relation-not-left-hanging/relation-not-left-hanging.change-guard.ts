@@ -23,7 +23,7 @@ export const relationNotLeftHanging = {
     },
     {
       invariantKind: "departure",
-      statement: "A page naming the page taken away after the change holds a hanging reference.",
+      statement: "A page naming the page taken away after the change has a hanging reference.",
     },
     {
       invariantKind: "departure",

@@ -36,7 +36,7 @@ export const claudeAccountAdd = {
     },
     {
       invariantKind: "departure",
-      statement: "A slot another account holds is refused rather than shared.",
+      statement: "A slot another account has is refused rather than shared.",
     },
     {
       invariantKind: "departure",

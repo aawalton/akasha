@@ -96,8 +96,7 @@ export const renamePackage = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A caller stating an old name reaches every body the index names holding that name.",
+      statement: "A caller stating an old name reaches every body the index names with that name.",
     },
     {
       invariantKind: "departure",

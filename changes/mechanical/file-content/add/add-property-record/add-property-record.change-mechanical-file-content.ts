@@ -20,7 +20,7 @@ export const addPropertyRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "A record is put after the records the property already holds.",
+      statement: "A record is put after the records the property already has.",
     },
     {
       invariantKind: "departure",

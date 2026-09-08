@@ -29,8 +29,7 @@ export const seatMessaged = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A seat holding no persona is refused in the same words as a name that is no seat.",
+      statement: "A seat with no persona is refused in the same words as a name that is no seat.",
     },
     {
       invariantKind: "absence",

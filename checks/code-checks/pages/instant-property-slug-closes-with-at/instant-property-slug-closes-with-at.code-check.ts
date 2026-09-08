@@ -24,7 +24,7 @@ export const instantPropertySlugClosesWithAt = {
     },
     {
       invariantKind: "absence",
-      statement: "A file holding no page value is not judged.",
+      statement: "A file with no page value is not judged.",
     },
     {
       invariantKind: "absence",

@@ -22,7 +22,7 @@ export const changeFile = {
     },
     {
       invariantKind: "departure",
-      statement: "That change is the one for the kind of body the path holds.",
+      statement: "That change is the one for the kind of body the path has.",
     },
     {
       invariantKind: "departure",

@@ -12,7 +12,7 @@ export const temperInventoryItemRuleList = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The rules are given in the order the settings hold.",
+      statement: "The rules are given in the order the settings have.",
     },
   ],
 } as const satisfies Command

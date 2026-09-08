@@ -7,7 +7,7 @@ export const machineWritten = {
   pageTypeSlug: "boolean-property",
   slug: "machine-written",
   propertySlug: "machine-written",
-  definition: "whether a machine rather than an author writes the files a property holds",
+  definition: "whether a machine rather than an author writes the files a property has",
   invariants: [
     {
       invariantKind: "departure",

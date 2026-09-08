@@ -11,7 +11,7 @@ export const holdsBytes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property saying nothing here holds text.",
+      statement: "A property saying nothing here has text.",
     },
     {
       invariantKind: "departure",
@@ -19,8 +19,7 @@ export const holdsBytes = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A property exempts every file that property holds rather than one file named here.",
+      statement: "A property exempts every file that property has rather than one file named here.",
     },
   ],
 } as const satisfies BooleanProperty

@@ -23,7 +23,7 @@ export const readoutEnabled = {
     },
     {
       invariantKind: "departure",
-      statement: "A service holds a separate property of the same key.",
+      statement: "A service has a separate property of the same key.",
     },
   ],
 } as const satisfies BooleanProperty

@@ -24,7 +24,7 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "absence",
-      statement: "No agent change is named here, as the map beside this holds none.",
+      statement: "No agent change is named here, as the map beside this has none.",
     },
     {
       invariantKind: "departure",

@@ -45,7 +45,7 @@ export const icloud = {
     },
     {
       invariantKind: "departure",
-      statement: "Every photo the album holds is written rather than the first page alone.",
+      statement: "Every photo the album has is written rather than the first page alone.",
     },
     {
       invariantKind: "departure",
@@ -66,7 +66,7 @@ export const icloud = {
     },
     {
       invariantKind: "departure",
-      statement: "An album holding no photo is answered as the data.",
+      statement: "An album with no photo is answered as the data.",
     },
     {
       invariantKind: "departure",
@@ -74,7 +74,7 @@ export const icloud = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds an Apple credential.",
+      statement: "Nothing here has an Apple credential.",
     },
     {
       invariantKind: "absence",

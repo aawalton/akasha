@@ -4,8 +4,7 @@ export const temperAddonInstall = {
   id: "01a0603c-c1ca-72aa-be95-4b73f756de0e",
   pageTypeSlug: "command",
   slug: "temper-addon-install",
-  definition:
-    "the command replacing an addon's folder in the game with what the build output holds",
+  definition: "the command replacing an addon's folder in the game with what the build output has",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
@@ -30,7 +29,7 @@ export const temperAddonInstall = {
     },
     {
       invariantKind: "departure",
-      statement: "A name this repository holds no addon under is refused.",
+      statement: "A name this repository has no addon under is refused.",
     },
     {
       invariantKind: "departure",

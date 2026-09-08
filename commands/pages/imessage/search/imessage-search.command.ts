@@ -4,7 +4,7 @@ export const imessageSearch = {
   id: "01a0685f-c8ed-7003-b10c-862bb54dd76a",
   pageTypeSlug: "command",
   slug: "imessage-search",
-  definition: "the command giving back the messages whose text holds a run of characters",
+  definition: "the command giving back the messages whose text has a run of characters",
   code: "ts",
   changeKindSlug: "change-none",
   taking: [

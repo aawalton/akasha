@@ -40,11 +40,11 @@ export const pageTree = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type holds `many` and `maxCount` and `required`.",
+      statement: "A page type has `many` and `maxCount` and `required`.",
     },
     {
       invariantKind: "departure",
-      statement: "The property page holds the rest.",
+      statement: "The property page has the rest.",
     },
     {
       invariantKind: "departure",

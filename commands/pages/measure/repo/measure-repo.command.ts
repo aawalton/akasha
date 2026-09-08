@@ -4,7 +4,7 @@ export const measureRepo = {
   id: "01a0796e-60aa-792a-9f56-2593355a10a6",
   pageTypeSlug: "command",
   slug: "measure-repo",
-  definition: "the command counting the files the checkout holds, by file type",
+  definition: "the command counting the files the checkout has, by file type",
   code: "ts",
   changeKindSlug: "change-mechanical",
   partSlugs: ["module/repo-measuring", "module/checkout-counting"],
@@ -21,7 +21,7 @@ export const measureRepo = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "A run writes no value the commit holds.",
+      statement: "A run writes no value the commit has.",
     },
   ],
 } as const satisfies Command

@@ -34,7 +34,7 @@ export const moveFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A file the page claims and the tree holds no body at is passed over.",
+      statement: "A file the page claims and the tree has no body at is passed over.",
     },
     {
       invariantKind: "departure",

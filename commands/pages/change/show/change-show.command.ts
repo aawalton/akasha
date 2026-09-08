@@ -86,7 +86,7 @@ export const changeShow = {
     },
     {
       invariantKind: "departure",
-      statement: "The bytes one answer holds are the bytes `akasha read` holds.",
+      statement: "The bytes one answer has are the bytes `akasha read` holds.",
     },
     {
       invariantKind: "departure",

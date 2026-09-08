@@ -15,7 +15,7 @@ export const emailAddressIsWellFormed = {
     {
       invariantKind: "departure",
       statement:
-        "Which of a page's keys hold an address is read from the page types under `email-address-property`.",
+        "Which of a page's keys have an address is read from the page types under `email-address-property`.",
     },
     {
       invariantKind: "departure",
@@ -23,11 +23,11 @@ export const emailAddressIsWellFormed = {
     },
     {
       invariantKind: "departure",
-      statement: "An address holds no whitespace.",
+      statement: "An address has no whitespace.",
     },
     {
       invariantKind: "departure",
-      statement: "An address holds one `@`.",
+      statement: "An address has one `@`.",
     },
     {
       invariantKind: "departure",
