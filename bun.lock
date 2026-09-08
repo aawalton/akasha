@@ -165,6 +165,12 @@
         "zod": "^4.3.6",
       },
     },
+    "alan/harness/errors-core": {
+      "name": "@akasha/errors-core",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
+    },
     "alan/harness/sms-access": {
       "name": "@akasha/sms-access",
       "dependencies": {
@@ -752,12 +758,6 @@
       },
       "peerDependencies": {
         "react": "^18 || ^19",
-      },
-    },
-    "errors-core": {
-      "name": "@akasha/errors-core",
-      "dependencies": {
-        "zod": "^4.3.6",
       },
     },
     "file-page-identity": {
@@ -3075,7 +3075,7 @@
 
     "@akasha/errors-client": ["@akasha/errors-client@workspace:errors-client"],
 
-    "@akasha/errors-core": ["@akasha/errors-core@workspace:errors-core"],
+    "@akasha/errors-core": ["@akasha/errors-core@workspace:alan/harness/errors-core"],
 
     "@akasha/eso-rig": ["@akasha/eso-rig@workspace:infrastructure/eso-rig"],
 
