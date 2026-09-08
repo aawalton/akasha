@@ -78,5 +78,17 @@ export const changeGuard = {
       statement:
         "A mechanical change names the guards that run over the composition reaching that change.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A mechanical change naming no guard says why that change names none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A guard a composition's middle step would trip on belongs on no rung at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What no rung's guard can see is judged by a check at the landing.",
+    },
   ],
 } as const satisfies PageType
