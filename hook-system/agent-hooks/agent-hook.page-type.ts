@@ -31,6 +31,7 @@ export const agentHook = {
     "page-type/inference-hook",
     "text-property/over-tools",
     "text-property/runs-at",
+    "agent-hook/block-combined-akasha-calls",
   ],
   extendsSlug: ["page-type/module"],
   properties: [
