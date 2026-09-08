@@ -11,6 +11,8 @@ export type Form = "ts" | "tsx" | "js" | "jsx"
 
 export type Bodies = Readonly<Record<string, string | null>>
 
+export type Reaches = Readonly<Record<string, string>>
+
 export type Serving = {
   readonly root: string
   readonly preload: string
@@ -106,10 +108,10 @@ export function bodiesAt(at: string): Bodies {
   return JSON.parse(readFileSync(at, "utf8")) as Bodies
 }
 
-export function preloadingOf(at: string, serving: string = SERVING): string {
+export function preloadingOf(at: string, serving: string = SERVING, reaches: Reaches = {}): string {
   return (
     `import { bodiesAt, servedBy } from ${JSON.stringify(serving)}\n` +
-    `Bun.plugin(servedBy(bodiesAt(${JSON.stringify(at)})))\n`
+    `Bun.plugin(servedBy(bodiesAt(${JSON.stringify(at)}), ${JSON.stringify(reaches)}))\n`
   )
 }
 
@@ -215,6 +217,15 @@ export function pairingsIn(held: readonly Manifested[]): readonly Pairing[] {
   return found
 }
 
+export function reachingIn(held: readonly Pairing[]): Reaches {
+  const found: Record<string, string> = {}
+  for (const one of held) {
+    if (one.wasFolder === one.nowFolder) continue
+    for (const [specifier, at] of reachesIn(one.nowFolder, one.now)) found[specifier] = at
+  }
+  return found
+}
+
 function servingAt(held: string, bodies: Bodies): string {
   const body = bodies[SERVING] ?? null
   if (body === null) return SERVING
@@ -236,7 +247,8 @@ export function servingOf(
     const bodies: Record<string, string | null> = {}
     for (const one of paths) bodies[join(root, one)] = bodyOf(at, one)
     const spelled = new Map<string, string>()
-    for (const pair of pairingsIn(manifestedIn(root, paths, bodies, was))) {
+    const pairings = pairingsIn(manifestedIn(root, paths, bodies, was))
+    for (const pair of pairings) {
       const found = pairedIn(pair.wasFolder, pair.nowFolder, pair.was, pair.now)
       for (const [gone, come] of found.paths) {
         const body = bodies[come] ?? null
@@ -260,7 +272,7 @@ export function servingOf(
     const filed = join(held, BODIES_FILE)
     writeFileSync(filed, JSON.stringify(bodies))
     const preload = join(held, PRELOAD_FILE)
-    writeFileSync(preload, preloadingOf(filed, servingAt(held, bodies)))
+    writeFileSync(preload, preloadingOf(filed, servingAt(held, bodies), reachingIn(pairings)))
     return {
       root,
       preload,
@@ -275,12 +287,18 @@ export function servingOf(
   }
 }
 
-export function servedBy(bodies: Bodies): BunPlugin {
+export function servedBy(bodies: Bodies, reaches: Reaches = {}): BunPlugin {
   const named = Object.keys(bodies)
   const apart = new Set(named.filter((one) => !existsSync(one)))
   return {
     name: NAME,
     setup: (build): undefined => {
+      for (const [specifier, at] of Object.entries(reaches)) {
+        build.module(specifier, async () => ({
+          exports: (await import(at)) as Record<string, unknown>,
+          loader: "object",
+        }))
+      }
       build.onResolve({ filter: NEAR }, (args) => {
         if (!args.importer.startsWith(MARK)) return undefined
         const from = folderOf(args.importer)

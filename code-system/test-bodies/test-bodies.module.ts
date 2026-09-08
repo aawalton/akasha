@@ -31,7 +31,7 @@ export const testBodies = {
     },
     {
       invariantKind: "constraint",
-      statement: "A bare specifier is resolved by the runner rather than by anything here.",
+      statement: "A bare specifier reaching no package the change moves is left to the runner.",
     },
     {
       invariantKind: "departure",
@@ -63,6 +63,36 @@ export const testBodies = {
     {
       invariantKind: "departure",
       statement: "A manifest's ways in are read against the folder that manifest sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The ways into a package that moved folder are read from the manifest arriving.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A way in is answered at the path inside the folder that package moved to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package carried at the folder that package already sat at is given no way in.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "The runner matches a hook filtered by specifier only where that specifier carries a dot or a colon.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A way in is a module of its own, which the runner matches a bare specifier whole against.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body reached by a way in is loaded at the path that way in lands on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The ways in a serving found reach the run in the preload that serving writes.",
     },
     {
       invariantKind: "departure",

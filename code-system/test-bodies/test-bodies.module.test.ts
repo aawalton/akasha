@@ -1,5 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
+import {
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  realpathSync,
+  symlinkSync,
+  writeFileSync,
+} from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { ranOver } from "../code-tests/code-tests.module.code.ts"
@@ -12,6 +19,7 @@ import {
   pairedIn,
   pairingsIn,
   preloadingOf,
+  reachingIn,
   SERVED,
   SERVING,
   servedBy,
@@ -177,6 +185,25 @@ test("more than one manifest going or arriving is left alone", () => {
   ).toEqual([])
 })
 
+test("a package whose folder moved names each way in at the folder it moved to", () => {
+  const body = manifestOf(WAYS)
+  expect(reachingIn([{ wasFolder: "held", nowFolder: "holds", was: body, now: body }])).toEqual({
+    "@akasha/held/asking/testing": "holds/asking/asking.module.test-fixtures.ts",
+  })
+})
+
+test("a package carried at the folder it already sat at names no way in", () => {
+  const body = manifestOf(WAYS)
+  expect(reachingIn([{ wasFolder: "held", nowFolder: "held", was: body, now: body }])).toEqual({})
+})
+
+test("the preload text carries the ways into a package whose folder moved", () => {
+  const reaches = { "@akasha/held": "/repo/holds/one.module.code.ts" }
+  expect(preloadingOf("/var/tmp/held/bodies.json", SERVING, reaches)).toContain(
+    JSON.stringify(reaches)
+  )
+})
+
 test("the bodies are read back out of the file they were written to", () => {
   const at = join(scratch.rootFor("test-bodies-"), "bodies.json")
   writeFileSync(at, JSON.stringify({ [ONE]: "held\n", [TWO]: null }))
@@ -234,6 +261,41 @@ test("a test on disk reads the body the change carries beside it, not the one th
   try {
     expect(ranOver(from, named, 1, null, serving).verdict).toBe("fail")
     expect(ranOver(from, named, 1).verdict).toBe("pass")
+  } finally {
+    serving.sweep()
+  }
+})
+
+const MOVED = JSON.stringify({
+  name: "@fake/moved",
+  exports: { "./held": "./held.module.code.ts" },
+})
+
+const OUTSIDE =
+  'import { expect, test } from "bun:test"\n' +
+  'import { kept } from "@fake/moved/held"\n' +
+  'test("kept", () => { expect(kept).toBe(2) })\n'
+
+test("a test outside a package whose folder moved reads that package by its bare specifier", () => {
+  const from = repo({ "outside.module.test.ts": OUTSIDE })
+  mkdirSync(join(from, "node_modules", "@fake"), { recursive: true })
+  symlinkSync("../../akasha/old", join(from, "node_modules", "@fake", "moved"))
+  const carried = [
+    "akasha/old/package.json",
+    "akasha/old/held.module.code.ts",
+    "akasha/new/package.json",
+    "akasha/new/held.module.code.ts",
+  ]
+  const named = ["akasha/outside.module.test.ts"]
+  const serving = servingOf(
+    from,
+    carried,
+    handing({ "akasha/new/package.json": MOVED, "akasha/new/held.module.code.ts": TURNS }),
+    named,
+    handing({ "akasha/old/package.json": MOVED, "akasha/old/held.module.code.ts": KEEPS })
+  )
+  try {
+    expect(ranOver(from, named, 1, null, serving).verdict).toBe("pass")
   } finally {
     serving.sweep()
   }
