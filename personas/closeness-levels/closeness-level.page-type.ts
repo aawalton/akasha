@@ -1,16 +1,16 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { DaysToHere } from "./properties/days-to-here.number-property.ts"
-import type { DaysToNext } from "./properties/days-to-next.number-property.ts"
 import type { Level } from "./properties/level.number-property.ts"
+import type { PointsToHere } from "./properties/points-to-here.number-property.ts"
+import type { PointsToNext } from "./properties/points-to-next.number-property.ts"
 import type { Pose } from "./properties/pose.text-property.ts"
 import type { Stage } from "./properties/stage.text-property.ts"
 import type { Wardrobe } from "./properties/wardrobe.text-property.ts"
 
 export type ClosenessLevel = Domain & {
   level: Level
-  daysToHere: DaysToHere
-  daysToNext: DaysToNext
+  pointsToHere: PointsToHere
+  pointsToNext: PointsToNext
   stage: Stage
   wardrobe: Wardrobe
   pose: Pose
@@ -30,9 +30,9 @@ export const closenessLevel = {
     "closeness-level/level-4",
     "closeness-level/level-5",
     "closeness-level/level-6",
-    "number-property/days-to-here",
-    "number-property/days-to-next",
     "number-property/level",
+    "number-property/points-to-here",
+    "number-property/points-to-next",
     "number-property/relationship-level",
     "text-property/pose",
     "text-property/stage",
@@ -40,8 +40,8 @@ export const closenessLevel = {
   ],
   properties: [
     { pagePropertySlug: "number-property/level", required: true, many: false },
-    { pagePropertySlug: "number-property/days-to-here", required: true, many: false },
-    { pagePropertySlug: "number-property/days-to-next", required: true, many: false },
+    { pagePropertySlug: "number-property/points-to-here", required: true, many: false },
+    { pagePropertySlug: "number-property/points-to-next", required: true, many: false },
     { pagePropertySlug: "text-property/stage", required: true, many: false },
     { pagePropertySlug: "text-property/wardrobe", required: true, many: false },
     { pagePropertySlug: "text-property/pose", required: true, many: false },
@@ -50,6 +50,18 @@ export const closenessLevel = {
     {
       invariantKind: "departure",
       statement: "A level is reached by points earned rather than chosen.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The points a rung takes are stated here rather than worked out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A persona below the first rung is at level 0, and level 0 is no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rungs run from level 1 upward with no level missing between.",
     },
   ],
 } as const satisfies PageType
