@@ -9,7 +9,6 @@ export const persona = {
   partSlugs: [
     "domain/persona-points",
     "email-address-property/email-address",
-    "number-property/green-day-points",
     "page-type/closeness-level",
     "page-type/origin-kind",
     "page-type/persona",
@@ -18,7 +17,6 @@ export const persona = {
     "page-type/persona-anchor-image",
     "page-type/persona-cover-image",
     "page-type/persona-craft-day",
-    "page-type/persona-day",
     "page-type/persona-image",
     "page-type/persona-wallpaper",
     "page-type/persona-wallpaper-notification",

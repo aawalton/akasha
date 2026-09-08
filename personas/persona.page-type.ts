@@ -63,6 +63,7 @@ export const persona = {
     "text-property/purpose",
     "text-property/voice-instruction",
     "text-property/voice-reference-sha256",
+    "number-property/green-day-points",
   ],
   properties: [
     { pagePropertySlug: "text-property/purpose", required: false, many: false },
