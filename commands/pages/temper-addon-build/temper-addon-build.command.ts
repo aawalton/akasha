@@ -19,7 +19,7 @@ export const temperAddonBuild = {
     },
     { said: "--watch", takes: "hand `--watch` to the compiler and stay in it" },
     { said: "--code-root <path>", takes: "the checkout built from" },
-    { said: "--tstl-root <path>", takes: "the compiler built with" },
+    { said: "--compiler-root <path>", takes: "the compiler built with" },
   ],
   helpNotes: [
     "one addon is named or `--all` is said, never both and never neither.",
