@@ -4,7 +4,7 @@ export const applying = {
   id: "01a0644c-3f10-7a2e-9c31-6b0e5d4a7f21",
   pageTypeSlug: "module",
   slug: "applying",
-  definition: "the patch an agent holds landed onto the tree as one commit",
+  definition: "the bodies an agent has answered landed onto the tree as one commit",
   code: "ts",
   test: "ts",
   invariants: [
@@ -167,24 +167,8 @@ export const applying = {
       statement: "A path the patch renamed carries the reading of the body that path came from.",
     },
     {
-      invariantKind: "departure",
-      statement: "A patch applied is taken away with the ref keeping the blobs of that patch.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The patch file going is committed apart from the commit the apply lands.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A patch the gate refused is left where the patch is.",
-    },
-    {
       invariantKind: "absence",
-      statement: "Nothing is applied for a path that is no page.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing is applied where no patch is kept.",
+      statement: "Nothing is applied where no bodies are handed in.",
     },
     {
       invariantKind: "departure",

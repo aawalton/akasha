@@ -1,4 +1,3 @@
-import { patchAt } from "@akasha/agents/patch-keeping"
 import type { Judging } from "@akasha/checks/judging"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { partedIn } from "@akasha/pages/page-file-name"
@@ -12,13 +11,7 @@ import {
   unloadableIn,
 } from "../asking/asking.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
-import {
-  APPLIED,
-  type Bodies,
-  droppedPatch,
-  type Running,
-  rebasedHeld,
-} from "../drafting/drafting.module.code.ts"
+import { type Bodies, type Running, rebasedHeld } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import {
@@ -33,15 +26,13 @@ import { defaultMessage, formattedSaid } from "../landing-saying/landing-saying.
 import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 
-const NO_PAGE = "a path that is no page keeps no patch"
+const NOTHING_HELD = "no bodies were handed in, so nothing is there to apply"
 
-const NO_PATCH = "no patch is kept for this agent, so nothing is there to apply"
+const KEPT_AS_IT_WAS = "nothing was applied — the edits are as the edits were"
 
-const KEPT_AS_IT_WAS = "nothing was applied — the patch is as the patch was"
+const CLASHED = "nothing was applied — a change carrying a conflict does not apply"
 
-const CLASHED = "nothing was applied — a patch carrying a conflict does not apply"
-
-const NONE = "nothing is drafted here, so no patch is kept"
+const NONE = "nothing is drafted here, so no edits are kept"
 
 const SUBAGENT = "subagent"
 
@@ -127,16 +118,7 @@ export async function applying(
   const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
   const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
   try {
-    const said = await applied(
-      given.root,
-      page,
-      given.agentId,
-      why,
-      gate,
-      given.writer,
-      [],
-      carried
-    )
+    const said = await applied(given.root, given.agentId, why, gate, given.writer, [], carried)
     if ("refusals" in said) return notLanded({ report: [], refusals: said.refusals, code: 3 })
     return {
       report: [
@@ -145,7 +127,7 @@ export async function applying(
         ...said.said,
         ...(broken === null ? [] : [glassSaid(broken)]),
         said.commit === null
-          ? "nothing was committed — the tree already holds what the patch asked for"
+          ? "nothing was committed — the tree already holds what the change asked for"
           : `committed as ${said.commit}`,
       ],
       refusals: said.wrong,
@@ -211,7 +193,6 @@ function recordedAsLanded(root: string, agentId: string, changes: readonly FileE
 
 export async function applied(
   root: string,
-  page: string,
   agentId: string | null,
   message: string,
   judging: Judging,
@@ -219,9 +200,7 @@ export async function applied(
   carries: readonly FileCarry[] = [],
   carried: Carried | null = null
 ): Promise<Applied | Refused> {
-  const at = patchAt(page)
-  if (at === null) return { refusals: [NO_PAGE] }
-  if (carried === null) return { refusals: [NO_PATCH] }
+  if (carried === null) return { refusals: [NOTHING_HELD] }
   const holding = carried
   const head = gitSaid(root, ["rev-parse", "HEAD"]).trim()
   const said = rebasedHeld(root, head, holding.held)
@@ -229,7 +208,7 @@ export async function applied(
   if (said.clashed.length > 0) {
     return {
       refusals: [
-        ...said.clashed.map((one) => `${one} — the patch carries a conflict here`),
+        ...said.clashed.map((one) => `${one} — the change carries a conflict here`),
         CLASHED,
       ],
     }
@@ -256,7 +235,6 @@ export async function applied(
   if ("refusals" in done) return done
   carryLanded(root, head, running, prepared.changes, [])
   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
-  droppedPatch(root, page, APPLIED)
   const put = installingIn(root, prepared.changes)
   return {
     base: done.base,
