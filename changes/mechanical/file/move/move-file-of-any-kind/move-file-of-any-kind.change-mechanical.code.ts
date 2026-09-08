@@ -1,32 +1,17 @@
-import { extname } from "node:path"
-import { namedUnder, pageNamed } from "@akasha/pages/page-file-name"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { kindOf } from "../../../../modules/target-kinding/target-kinding.module.code.ts"
 
-const MOVE_FILE = "change-mechanical-file/move-file"
-
-const MOVE_FILE_CODE = "change-mechanical/move-file-code"
-
-const MOVE_FILE_PAGE = "change-mechanical-file/move-file-page"
-
-const MOVE_FILE_PAGE_TYPE = "change-mechanical/move-file-page-type"
-
-const MOVE_FILE_PAGE_PROPERTY = "change-mechanical/move-file-page-property"
-
-const PAGE_TYPE = "page-type"
-
-const PAGE_PROPERTY = "page-property"
-
-const CODE = new Set([".ts", ".tsx"])
+const ADDRESSES = {
+  file: "change-mechanical-file/move-file",
+  "file-code": "change-mechanical/move-file-code",
+  "file-page": "change-mechanical-file/move-file-page",
+  "file-page-property": "change-mechanical/move-file-page-property",
+  "file-page-type": "change-mechanical/move-file-page-type",
+} as const
 
 export function addressFor(world: World, at: string) {
-  const named = world.index.pageTypesIn()
-  if (pageNamed(at, named)) {
-    if (namedUnder(at, named)?.pageTypeSlug === PAGE_TYPE) return MOVE_FILE_PAGE_TYPE
-    if (pageNamed(at, world.index.kindsUnder(PAGE_PROPERTY))) return MOVE_FILE_PAGE_PROPERTY
-    return MOVE_FILE_PAGE
-  }
-  return CODE.has(extname(at)) ? MOVE_FILE_CODE : MOVE_FILE
+  return ADDRESSES[kindOf(world, at)]
 }
 
 export type Asked = {

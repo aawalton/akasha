@@ -31,12 +31,12 @@ export const moveFileOfAnyKind = {
       statement: "The kind of path is read off the path the file is carried from.",
     },
     {
-      invariantKind: "departure",
-      statement: "The page types a name is read against are the ones the world files.",
+      invariantKind: "absence",
+      statement: "Nothing here works out a body of its own.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here works out a body of its own.",
+      statement: "Nothing here reads a path for its kind.",
     },
     {
       invariantKind: "departure",
