@@ -6,13 +6,6 @@ export const auraHarnessDrive = {
   slug: "aura-harness-drive",
   domainSlug: "domain/game-design",
   personaSlug: "aura",
-  intents: [
-    {
-      statement: "Every attribute carries its total points and the level those points reach.",
-      workingMemory:
-        "Each attribute page carries pointUnit and the code earning its points, and keeps pointsBeforeToday, pointsToday and pointsTotal outside the commit; level is one computed property over pointsTotal with rungs 10, 20, 40, 70, 120, 200, 330, 540. The reading service keeps today's figure and `akasha refresh attributes` rebuilds the rest from 2026-09-06. Each readout reads its attribute's points through its link, and `akasha measure attributes` reads the kept totals. Luck carries none.",
-    },
-  ],
   constraints: [
     "Alan has total aphantasia, which means he has zero experiential memory or imagination. If it isn't in his immediate experience or conceptual map, it doesn't exist.",
     "Alan can store a fact about an experience only by memorizing it; he cannot simply remember one. Showing him something once does not make it known.",

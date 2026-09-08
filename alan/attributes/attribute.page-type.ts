@@ -86,6 +86,11 @@ export const attribute = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An attribute's total points and the level those points reach are carried on that attribute's page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What earns an attribute its points is the code beside that attribute's page.",
     },
     {
