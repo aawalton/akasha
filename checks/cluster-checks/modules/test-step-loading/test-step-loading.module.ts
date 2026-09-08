@@ -4,7 +4,8 @@ export const testStepLoading = {
   id: "01a06880-1000-7000-9000-000000000003",
   pageTypeSlug: "module",
   slug: "test-step-loading",
-  definition: "the workspaces and test files a run reads off the tree before it composes a step",
+  definition:
+    "the workspaces a root manifest declares, each read off the checkout with its own manifest",
   code: "ts",
   invariants: [
     {
@@ -15,22 +16,6 @@ export const testStepLoading = {
     {
       invariantKind: "departure",
       statement: "A workspace with no name in its manifest is named by its own folder.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file under a fixtures folder is no test file.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The test files are answered in order.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A typed test file is one ending in a known kind.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every test file apart from the typed ones is read.",
     },
   ],
 } as const satisfies Module
