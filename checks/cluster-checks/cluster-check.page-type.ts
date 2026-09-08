@@ -205,6 +205,7 @@ export const clusterCheck = {
     "module/swift-masked-source",
     "module/syntax-scanner-entry",
     "module/tailwind-sources-violations",
+    "module/temper-type-tier",
   ],
   properties: [
     {
