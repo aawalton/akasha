@@ -24,7 +24,6 @@ export const clusterManifests = {
     "module/cnpg-object-store",
     "module/cnpg-scheduled-backup",
     "module/collections-rbac",
-    "module/eso-rig-rbac",
     "module/exporter-daemonsets",
     "module/gotrue-rbac",
     "module/grafana-rbac",

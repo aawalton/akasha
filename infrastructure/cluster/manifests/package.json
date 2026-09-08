@@ -16,7 +16,6 @@
     "./cnpg-object-store": "./cnpg-object-store/cnpg-object-store.module.code.ts",
     "./cnpg-scheduled-backup": "./cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts",
     "./collections-rbac": "./collections-rbac/collections-rbac.module.code.ts",
-    "./eso-rig-rbac": "./eso-rig-rbac/eso-rig-rbac.module.code.ts",
     "./exporter-daemonsets": "./exporter-daemonsets/exporter-daemonsets.module.code.ts",
     "./gotrue-rbac": "./gotrue-rbac/gotrue-rbac.module.code.ts",
     "./grafana-rbac": "./grafana-rbac/grafana-rbac.module.code.ts",
