@@ -29,6 +29,7 @@ export const alanwalton = {
   ],
   spaSourcePath: "alan/web-capacitor",
   stageScript: "shell-script/alanwalton-stage-app",
+  webDirectory: true,
   webEnvPath: "alan/web/.env.local",
   widgetBundleId: "com.alanwalton.app.widgets",
   widgetProfileName: "alanwalton widget App Store",
