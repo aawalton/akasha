@@ -115,8 +115,6 @@ export const optionDeclarations: CommandLineOption[] = [
 
 export function updateParsedConfigFile(parsedConfigFile: ts.ParsedCommandLine): ParsedCommandLine {
   let hasRootLevelOptions = false
-  const stated = parsedConfigFile.raw.luaCompiler ?? parsedConfigFile.raw.tstl
-  if (stated !== undefined) parsedConfigFile.raw.luaCompiler = stated
   for (const [name, rawValue] of Object.entries(parsedConfigFile.raw)) {
     const option = optionDeclarations.find((declaration) => declaration.name === name)
     if (!option) continue
