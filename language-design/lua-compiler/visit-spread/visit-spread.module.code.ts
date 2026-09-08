@@ -15,9 +15,9 @@ import {
   hasReferencedUndefinedLocalFunction,
   ScopeType,
 } from "../scope/scope.module.code.ts"
+import { isOptimizedVarArgSpreadHolder } from "../symbols-deps/symbols-deps.module.code.ts"
 import { createUnpackCall } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
-import { isOptimizedVarArgSpreadHolder } from "../tstl-symbols-deps/tstl-symbols-deps.module.code.ts"
 import {
   findFirstNonOuterParent,
   isAlwaysArrayType,

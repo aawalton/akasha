@@ -1,8 +1,8 @@
 import type * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import { markSymbolAsReferencedInCurrentScopes } from "../scope-references/scope-references.module.code.ts"
+import { requireIsOptimizedVarArgSpread } from "../symbols-deps/symbols-deps.module.code.ts"
 import type * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
-import { requireIsOptimizedVarArgSpread } from "../tstl-symbols-deps/tstl-symbols-deps.module.code.ts"
 
 export interface SymbolInfo {
   symbol: ts.Symbol
