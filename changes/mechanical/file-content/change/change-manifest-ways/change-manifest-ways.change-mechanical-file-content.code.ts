@@ -7,7 +7,7 @@ import {
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Said, Splice } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { goneSpan } from "../../remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.code.ts"
+import { goneSpan } from "../../../../modules/json-entries/json-entries.module.code.ts"
 
 const EXPORTS = "exports"
 

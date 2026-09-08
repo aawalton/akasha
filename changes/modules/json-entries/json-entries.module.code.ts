@@ -1,0 +1,64 @@
+import ts from "typescript"
+import type { Splice } from "../change-answer/change-answer.module.types.ts"
+
+export function objectAt(
+  source: ts.JsonSourceFile,
+  key: string
+): ts.ObjectLiteralExpression | null {
+  const first = source.statements[0]
+  if (first === undefined || !ts.isExpressionStatement(first)) return null
+  const held = first.expression
+  if (!ts.isObjectLiteralExpression(held)) return null
+  for (const one of held.properties) {
+    if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
+    if (one.name.text !== key) continue
+    return ts.isObjectLiteralExpression(one.initializer) ? one.initializer : null
+  }
+  return null
+}
+
+export function goneSpan(text: string, node: ts.Node, after: boolean): Splice {
+  const from = node.getFullStart()
+  const to = node.getEnd()
+  let at = to
+  while (at < text.length) {
+    const here = text[at] ?? ""
+    if (here === ",") return { from, to: at + 1, put: "" }
+    if (here.trim() !== "") break
+    at = at + 1
+  }
+  if (after) return { from, to, put: "" }
+  let back = from - 1
+  while (back >= 0) {
+    const here = text[back] ?? ""
+    if (here === ",") return { from: back, to, put: "" }
+    if (here.trim() !== "") break
+    back = back - 1
+  }
+  return { from, to, put: "" }
+}
+
+export function entriesGoingIn(
+  at: string,
+  text: string,
+  holding: string,
+  dropping: ReadonlySet<string>
+): readonly Splice[] {
+  const held = objectAt(ts.parseJsonText(at, text), holding)
+  if (held === null) return []
+  const spans: Splice[] = []
+  let after = false
+  for (const one of held.properties) {
+    if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) {
+      after = false
+      continue
+    }
+    if (!dropping.has(one.name.text)) {
+      after = false
+      continue
+    }
+    spans.push(goneSpan(text, one, after))
+    after = true
+  }
+  return spans
+}

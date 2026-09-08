@@ -4,10 +4,6 @@ import { calledIn, objectIn } from "@akasha/code/package-manifest"
 import { manifestsIn } from "@akasha/indexes/package-reaching"
 import ts from "typescript"
 import {
-  entriesGoingIn,
-  objectAt,
-} from "../../../mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.code.ts"
-import {
   missing,
   refusing,
   splicing,
@@ -19,6 +15,7 @@ import type {
   Stated,
 } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { entriesGoingIn, objectAt } from "../../../modules/json-entries/json-entries.module.code.ts"
 import { aliasIn, nameFor } from "../../../modules/package-naming/package-naming.module.code.ts"
 
 const AT = "at"
