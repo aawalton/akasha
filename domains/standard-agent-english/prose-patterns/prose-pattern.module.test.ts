@@ -194,3 +194,26 @@ test("a participle with an object is found as a participle", () => {
 
   expect(foundIn(said, HOLD).map((one) => one.frame)).toEqual(["participle"])
 })
+
+test("a word after a preposition names an act rather than describing a thing", () => {
+  const said = sentenceOf([
+    ["the", "DET", 2, "det"],
+    ["cost", "NOUN", 0, "root"],
+    ["of", "SCONJ", 4, "mark"],
+    ["holding", "VERB", 2, "acl"],
+    ["stress", "NOUN", 4, "obj"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a word whose object comes before it as a pronoun is left alone", () => {
+  const said = sentenceOf([
+    ["past", "ADP", 2, "case"],
+    ["what", "PRON", 0, "root"],
+    ["it", "PRON", 4, "nsubj"],
+    ["hold", "VERB", 2, "acl:relcl"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})

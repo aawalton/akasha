@@ -1,5 +1,11 @@
 import type { DepSentence, DepToken } from "@akasha/plain-language/dependency-graph"
-import { child, childrenByRel, hasChild, lower } from "@akasha/plain-language/dependency-graph"
+import {
+  byId,
+  child,
+  childrenByRel,
+  hasChild,
+  lower,
+} from "@akasha/plain-language/dependency-graph"
 import type { Frame } from "../banned-terms/properties/prose-frame.relation-property.ts"
 
 export type Found = {
@@ -38,6 +44,10 @@ const PASSIVE = "aux:pass"
 const SUBJECT = "nsubj"
 
 const ADVERB = "advmod"
+
+const MARK = "mark"
+
+const THINGS: ReadonlySet<string> = new Set(["NOUN", "PROPN"])
 
 const RELATIVIZERS: ReadonlySet<string> = new Set(["that", "which", "who", "whom"])
 
@@ -107,6 +117,15 @@ function personHeld(sentence: DepSentence, token: DepToken): boolean {
   return childrenByRel(sentence, token.id, SUBJECT).some((one) => PERSONS.has(lower(one)))
 }
 
+function underAPreposition(sentence: DepSentence, token: DepToken): boolean {
+  return hasChild(sentence, token.id, MARK) || hasChild(sentence, token.id, CASE)
+}
+
+function thingFronted(sentence: DepSentence, token: DepToken): boolean {
+  const above = byId(sentence, token.head)
+  return above !== undefined && THINGS.has(above.upos)
+}
+
 function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
   if (token.upos !== VERB) return null
   if (particled(sentence, token)) return null
@@ -116,9 +135,11 @@ function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
     return placedSomewhere(sentence, token) ? PLACED_FRAME : null
   }
   if (child(sentence, token.id, OBJECT) !== undefined) {
-    return token.deprel === PARTICIPLE ? PARTICIPLE_FRAME : OBJECT_FRAME
+    if (token.deprel !== PARTICIPLE) return OBJECT_FRAME
+    return underAPreposition(sentence, token) ? null : PARTICIPLE_FRAME
   }
   if (token.deprel !== RELATIVE) return null
+  if (!thingFronted(sentence, token)) return null
   return subjectOfItsOwn(sentence, token) ? FRONTED_FRAME : null
 }
 

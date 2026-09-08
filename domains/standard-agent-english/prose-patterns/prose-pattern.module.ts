@@ -54,5 +54,14 @@ export const prosePattern = {
       statement:
         "A word a person or an unknown is the holder of is another sense, so it is left alone.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A word a preposition stands before names an act, so it describes no thing before it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word whose object before it is a pronoun names no thing, so it is left alone.",
+    },
   ],
 } as const satisfies Module
