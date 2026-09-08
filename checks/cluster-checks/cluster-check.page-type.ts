@@ -218,6 +218,7 @@ export const clusterCheck = {
     "module/ts-import-graph-list-imports",
     "module/ts-path-literals",
     "module/ts-population-read-swallow",
+    "module/ts-sops-spawn-pipe",
   ],
   properties: [
     {
