@@ -2,11 +2,11 @@ import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
+import { installerIsoUrl, registerSchematic } from "@akasha/talos/factory"
 import { getClusterForNode, getNode } from "@akasha/talos/nodes"
 import type { ClusterIntent, NodeIntent } from "@akasha/talos/schema"
 import { buildSchematic } from "@akasha/talos/talos-build-schematic"
 import { emitSchematicYaml } from "@akasha/talos/talos-emit-yaml"
-import { installerIsoUrl, registerSchematic } from "@akasha/talos/talos-factory"
 
 export const NODE = "--node"
 

@@ -11,7 +11,7 @@ export const talos = {
     "module/talos-build-schematic",
     "module/talos-build-volumes",
     "module/talos-emit-yaml",
-    "module/talos-factory",
+    "module/factory",
     "module/talos-kubectl",
     "module/nodes",
     "module/nodes-main",
