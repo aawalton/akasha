@@ -10,7 +10,7 @@ export const aineAuditChangeGuards = {
     {
       statement: "Every sensible combination of mode, type and subtype has a mechanical change.",
       workingMemory:
-        "file takes file, file-code, file-page, file-page-type, file-page-property; file-content takes code, page-property, page-property-prose, manifest; folder takes folder, folder-package. add and move are filled four deep, and move-page reaches move-file-page. A file's rename is its move, so file holds no rename cell. move-folder, move-folder-batch and change-page-page-type still compose move-file by hand.\n",
+        "file takes file, file-code, file-page, file-page-type, file-page-property; file-content takes code, page-property, page-property-prose, manifest; folder takes folder, folder-package. add, move and remove each hold every file cell and a dispatcher, and every agent act reaches the dispatcher rather than a rung. A file's rename is its move, so file holds no rename cell. The folder cells hold nothing yet, and move-folder, move-folder-batch and change-page-page-type still compose move-file by hand.\n",
     },
     {
       statement:
@@ -27,7 +27,7 @@ export const aineAuditChangeGuards = {
     {
       statement: "The remove family mirrors the add family at every file kind.",
       workingMemory:
-        "`remove-page-file` over `remove-code-file` over `remove-file` is landed and green, mirroring `add-page-file` over `add-code-file` over `add-file`. Left: `remove-page-type-file` and `remove-page-property-file`. `remove-page-file` is to refuse where a page property's own file is still there, which is the inversion of the add side's ordering.",
+        "`remove-file`, `remove-file-code`, `remove-file-page`, `remove-file-page-type`, `remove-file-page-property` and `remove-file-of-any-kind` are landed and green, mirroring the add family cell for cell. `remove-page-type` came off `change-mechanical-folder`, whose remove domain now holds nothing. The page type and page property rungs are thin over `remove-file-page`, and only `page-type-carries-no-pages` attaches so far; a page still carrying a property's key is judged by no guard.\n",
     },
     {
       statement: "A world stacked over more than one answer answers the index every answer leaves.",
