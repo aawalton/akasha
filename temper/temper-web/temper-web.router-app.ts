@@ -362,5 +362,6 @@ export const temperWeb = {
     "route/watcher",
     "route/landing",
     "route/sign-in",
+    "route/sign-up",
   ],
 } as const satisfies RouterApp
