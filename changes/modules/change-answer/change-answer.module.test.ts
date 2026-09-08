@@ -15,7 +15,7 @@ const NOTHING = holding({})
 test("an add answers the content as the body where its path holds nothing", () => {
   const said = expanded({ kind: "add", path: AT, content: "one" }, NOTHING)
 
-  expect(said).toEqual({ edit: { path: AT, was: null, body: "one" } })
+  expect(said).toEqual({ left: { path: AT, body: "one" } })
 })
 
 test("an add onto a path already holding a body is refused", () => {
@@ -28,7 +28,7 @@ test("a replace answers the body the passage leaves", () => {
   const one = { kind: "replace", path: AT, contentFrom: "two", contentTo: "three" } as const
 
   expect(expanded(one, holding({ [AT]: "one two" }))).toEqual({
-    edit: { path: AT, was: "one two", body: "one three" },
+    left: { path: AT, body: "one three" },
   })
 })
 
@@ -75,7 +75,7 @@ test("a replace leaving the body as it was is refused", () => {
 test("a remove answers no body under the path", () => {
   const said = expanded({ kind: "remove", path: AT }, holding({ [AT]: "one" }))
 
-  expect(said).toEqual({ edit: { path: AT, was: "one", body: null } })
+  expect(said).toEqual({ left: { path: AT, body: null } })
 })
 
 test("a remove of a path holding no body is refused", () => {
@@ -88,7 +88,7 @@ test("a move answers the body under the path moved to and names the path moved f
   const one = { kind: "move", pathFrom: AWAY, pathTo: AT } as const
 
   expect(expanded(one, holding({ [AWAY]: "one" }))).toEqual({
-    edit: { path: AT, was: "one", body: "one", from: AWAY },
+    left: { path: AT, body: "one", from: AWAY },
   })
 })
 
@@ -112,22 +112,8 @@ test("a move onto a path holding no characters is answered", () => {
   const one = { kind: "move", pathFrom: AWAY, pathTo: AT } as const
 
   expect(expanded(one, holding({ [AWAY]: "one", [AT]: "" }))).toEqual({
-    edit: { path: AT, was: "one", body: "one", from: AWAY },
+    left: { path: AT, body: "one", from: AWAY },
   })
-})
-
-test("the reading an edit states is carried onto the edit answered", () => {
-  const one = { kind: "add", path: AT, content: "one", readersOweReading: false } as const
-
-  expect(expanded(one, NOTHING)).toEqual({
-    edit: { readersOweReading: false, path: AT, was: null, body: "one" },
-  })
-})
-
-test("an edit stating nothing about reading answers an edit stating nothing", () => {
-  const said = expanded({ kind: "add", path: AT, content: "one" }, NOTHING)
-
-  expect(said).not.toHaveProperty("edit.readersOweReading")
 })
 
 function replaying(edits: readonly Stated[], bodies: Readonly<Record<string, string>>) {

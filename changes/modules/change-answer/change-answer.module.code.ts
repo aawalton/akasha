@@ -13,7 +13,13 @@ import type {
 
 export type BodyOf = (path: string) => string | null
 
-export type Expanded = { readonly edit: Edit } | { readonly refused: string }
+export type Leaving = {
+  readonly path: string
+  readonly body: string | null
+  readonly from?: string
+}
+
+export type Expanded = { readonly left: Leaving } | { readonly refused: string }
 
 export function refusing(why: string): Answer {
   return { edits: [], refused: why }
@@ -53,7 +59,7 @@ function addedIn(one: Adding, textOf: BodyOf): Expanded {
   if (held !== null && held !== "") {
     return { refused: `\`${one.path}\` holds a body already, so nothing is added` }
   }
-  return { edit: { ...readingIn(one), path: one.path, was: held, body: one.content } }
+  return { left: { path: one.path, body: one.content } }
 }
 
 function replacedIn(one: Replacing, textOf: BodyOf): Expanded {
@@ -76,7 +82,7 @@ function replacedIn(one: Replacing, textOf: BodyOf): Expanded {
   if (body === text) {
     return { refused: `\`${one.path}\` reads the same after this, so this change writes nothing` }
   }
-  return { edit: { ...readingIn(one), path: one.path, was: text, body } }
+  return { left: { path: one.path, body } }
 }
 
 function removedIn(one: Removing, textOf: BodyOf): Expanded {
@@ -84,7 +90,7 @@ function removedIn(one: Removing, textOf: BodyOf): Expanded {
   if (text === null) {
     return { refused: `\`${one.path}\` holds no body, so nothing is taken away` }
   }
-  return { edit: { ...readingIn(one), path: one.path, was: text, body: null } }
+  return { left: { path: one.path, body: null } }
 }
 
 function movedIn(one: Moving, textOf: BodyOf): Expanded {
@@ -97,7 +103,7 @@ function movedIn(one: Moving, textOf: BodyOf): Expanded {
     return { refused: `\`${one.pathTo}\` holds a body already, so nothing is moved there` }
   }
   const came = one.pathFrom
-  return { edit: { ...readingIn(one), path: one.pathTo, was: text, body: text, from: came } }
+  return { left: { path: one.pathTo, body: text, from: came } }
 }
 
 export function expanded(one: Stated, textOf: BodyOf): Expanded {
@@ -134,8 +140,8 @@ export function replayed(said: Said, textOf: BodyOf): Bodies | { readonly refuse
   for (const one of said.edits) {
     const grown = expanded(one, over)
     if ("refused" in grown) return grown
-    if (grown.edit.from !== undefined) held.set(grown.edit.from, null)
-    held.set(grown.edit.path, grown.edit.body)
+    if (grown.left.from !== undefined) held.set(grown.left.from, null)
+    held.set(grown.left.path, grown.left.body)
   }
   return held
 }
