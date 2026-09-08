@@ -76,5 +76,6 @@ export const persona = {
     "module/wallpaper-backfill-execute",
     "module/canonical-image-classify",
     "module/framework",
+    "module/git-byte-pathspecs",
   ],
 } as const satisfies WorkspacePackage
