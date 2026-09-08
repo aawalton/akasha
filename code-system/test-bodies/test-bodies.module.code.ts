@@ -57,8 +57,6 @@ const SPECIAL = /[.*+?^${}()|[\]\\]/g
 
 const EVERY = /.*/
 
-const CEILING = 20000
-
 const NOTHING = /(?!)/
 
 const NEAR = /^\.\.?\//
@@ -93,15 +91,13 @@ function escaped(one: string): string {
 
 export function wholeOf(named: readonly string[]): RegExp {
   if (named.length === 0) return NOTHING
-  const said = named.map(escaped).join("|")
-  return said.length > CEILING ? EVERY : new RegExp(`^(${said})$`)
+  return new RegExp(`^(${named.map(escaped).join("|")})$`)
 }
 
 export function endingOf(named: readonly string[]): RegExp {
   if (named.length === 0) return NOTHING
   const parts = new Set(named.map((one) => escaped(one.slice(one.lastIndexOf("/") + 1))))
-  const said = [...parts].join("|")
-  return said.length > CEILING ? EVERY : new RegExp(`(?:^|/)(${said})$`)
+  return new RegExp(`(?:^|/)(${[...parts].join("|")})$`)
 }
 
 export function folderOf(importer: string): string {
