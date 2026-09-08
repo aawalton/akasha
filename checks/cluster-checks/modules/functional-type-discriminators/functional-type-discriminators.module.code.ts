@@ -16,8 +16,6 @@ import {
 } from "../functional-type-row-discriminators/functional-type-row-discriminators.module.code.ts"
 import type { InferFunctionalTypeInput } from "../functional-type-shapes/functional-type-shapes.module.code.ts"
 
-export { passesPurityScan }
-
 interface Discriminator {
   readonly type: FunctionalType
   readonly matches: (input: InferFunctionalTypeInput) => boolean
