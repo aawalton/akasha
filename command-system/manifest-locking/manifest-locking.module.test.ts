@@ -1,5 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, lstatSync, mkdirSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
+import {
+  existsSync,
+  lstatSync,
+  mkdirSync,
+  renameSync,
+  rmSync,
+  symlinkSync,
+  writeFileSync,
+} from "node:fs"
 import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils-run/running"
@@ -280,6 +288,35 @@ test("an install leaves a folder under node_modules that is no link", () => {
   expect(put.wrong).toEqual([])
   expect(existsSync(flat)).toBe(true)
   expect(existsSync(scoped)).toBe(true)
+})
+
+const CARRIED = [{ from: "held/one/package.json", to: "held/moved/package.json" }]
+
+test("a manifest carried to another path takes the lockfile with it", () => {
+  const root = world()
+  const held = lockingFor(root, baseOf(root), [], CARRIED)
+  expect(held.edits.map((one) => one.path)).toEqual([LOCK])
+  renameSync(join(root, "held/one"), join(root, "held/moved"))
+  expect(ran(FROZEN, { cwd: root }).code).not.toBe(0)
+  for (const one of held.edits) {
+    writeFileSync(join(root, one.path), one.body ?? new Uint8Array())
+  }
+  expect(ran(FROZEN, { cwd: root }).code).toBe(0)
+})
+
+test("a landing carrying a manifest to another path points the workspace at that path", () => {
+  const root = world(true)
+  const link = join(root, MODULES, "@held", "one")
+  expect(existsSync(link)).toBe(true)
+  const locked = lockingFor(root, baseOf(root), [], CARRIED)
+  renameSync(join(root, "held/one"), join(root, "held/moved"))
+  for (const one of locked.edits) {
+    writeFileSync(join(root, one.path), one.body ?? new Uint8Array())
+  }
+  expect(existsSync(link)).toBe(false)
+  const put = installingIn(root, [], CARRIED)
+  expect(put.wrong).toEqual([])
+  expect(existsSync(link)).toBe(true)
 })
 
 test("a manifest going takes the lockfile with it, as one arriving does", () => {

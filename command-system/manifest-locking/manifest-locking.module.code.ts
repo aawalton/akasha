@@ -5,6 +5,7 @@ import {
   mkdtempSync,
   readdirSync,
   readFileSync,
+  renameSync,
   rmSync,
   writeFileSync,
 } from "node:fs"
@@ -12,6 +13,7 @@ import { dirname, join, relative } from "node:path"
 import { argvFor } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils-run/running"
 import type { FileEdit } from "../landing/landing.module.code.ts"
+import type { FileCarry } from "../path-carrying/path-carrying.module.code.ts"
 
 const MANIFEST = "package.json"
 
@@ -44,10 +46,16 @@ export const LOCKING_SPELLING =
   `into them, so a change touching no \`${MANIFEST}\` is left alone and a change carrying its own ` +
   `\`${LOCK}\` is taken at its word`
 
+function isManifest(path: string): boolean {
+  return path === MANIFEST || path.endsWith(`${PARTED_BY}${MANIFEST}`)
+}
+
 export function manifestsIn(changes: readonly FileEdit[]): readonly FileEdit[] {
-  return changes.filter(
-    (one) => one.path === MANIFEST || one.path.endsWith(`${PARTED_BY}${MANIFEST}`)
-  )
+  return changes.filter((one) => isManifest(one.path))
+}
+
+export function manifestCarriesIn(carries: readonly FileCarry[]): readonly FileCarry[] {
+  return carries.filter((one) => isManifest(one.from) || isManifest(one.to))
 }
 
 export function carriesLock(changes: readonly FileEdit[]): boolean {
@@ -62,7 +70,12 @@ export function sameBytes(one: Uint8Array | null, other: Uint8Array | null): boo
 
 export type Made = { readonly was: Uint8Array | null; readonly now: Uint8Array } | null
 
-export function lockedOver(root: string, base: string, touched: readonly FileEdit[]): Made {
+export function lockedOver(
+  root: string,
+  base: string,
+  touched: readonly FileEdit[],
+  carried: readonly FileCarry[] = []
+): Made {
   const held = mkdtempSync(join(SCRATCH_AT, PREFIX))
   try {
     const archive = join(held, ARCHIVE)
@@ -79,6 +92,13 @@ export function lockedOver(root: string, base: string, touched: readonly FileEdi
       was = readFileSync(at)
     } catch {
       was = null
+    }
+    for (const one of carried) {
+      const from = join(tree, one.from)
+      if (!existsSync(from)) continue
+      const landed = join(tree, one.to)
+      mkdirSync(dirname(landed), { recursive: true })
+      renameSync(from, landed)
     }
     for (const one of touched) {
       const to = join(tree, one.path)
@@ -102,15 +122,22 @@ export type Locking = { readonly edits: readonly FileEdit[]; readonly said: read
 
 export const NOTHING_LOCKED: Locking = { edits: [], said: [] }
 
-export function lockingOver(root: string, base: string, changes: readonly FileEdit[]): Locking {
+export function lockingOver(
+  root: string,
+  base: string,
+  changes: readonly FileEdit[],
+  carries: readonly FileCarry[] = []
+): Locking {
   const touched = manifestsIn(changes)
-  if (touched.length === 0 || carriesLock(changes)) return NOTHING_LOCKED
-  const made = lockedOver(root, base, touched)
+  const carried = manifestCarriesIn(carries)
+  const many = touched.length + carried.length
+  if (many === 0 || carriesLock(changes)) return NOTHING_LOCKED
+  const made = lockedOver(root, base, touched, carried)
   if (made === null) {
     return {
       edits: [],
       said: [
-        `this change carries ${touched.length} \`${MANIFEST}\` and \`${LOCK}\` could not be made ` +
+        `this change carries ${many} \`${MANIFEST}\` and \`${LOCK}\` could not be made ` +
           `again from the manifests at ${base}, so the lockfile went unchanged — a manifest ` +
           `parted from its lockfile refuses every install, and the tree will not install until ` +
           `the lockfile follows`,
@@ -122,16 +149,21 @@ export function lockingOver(root: string, base: string, changes: readonly FileEd
   return {
     edits: [{ path: LOCK, body: made.now }],
     said: [
-      `\`${LOCK}\` was made again beside the ${touched.length} \`${MANIFEST}\` this change ` +
+      `\`${LOCK}\` was made again beside the ${many} \`${MANIFEST}\` this change ` +
         `carries, and lands in the same commit`,
       LOCKING_SPELLING,
     ],
   }
 }
 
-export function lockingFor(root: string, base: string, changes: readonly FileEdit[]): Locking {
+export function lockingFor(
+  root: string,
+  base: string,
+  changes: readonly FileEdit[],
+  carries: readonly FileCarry[] = []
+): Locking {
   try {
-    return lockingOver(root, base, changes)
+    return lockingOver(root, base, changes, carries)
   } catch (thrown) {
     return {
       edits: [],
@@ -258,8 +290,14 @@ export function installedIn(root: string): Installing {
   }
 }
 
-export function installingIn(root: string, changes: readonly FileEdit[]): Installing {
-  if (manifestsIn(changes).length === 0) return NOTHING_INSTALLED
+export function installingIn(
+  root: string,
+  changes: readonly FileEdit[],
+  carries: readonly FileCarry[] = []
+): Installing {
+  if (manifestsIn(changes).length === 0 && manifestCarriesIn(carries).length === 0) {
+    return NOTHING_INSTALLED
+  }
   if (!existsSync(join(root, MANIFEST))) return NOTHING_INSTALLED
   try {
     return installedIn(root)

@@ -130,5 +130,19 @@ export const manifestLocking = {
       invariantKind: "gap",
       statement: "A landing whose lockfile could not be made is answered for by the audit.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A manifest carried from one path to another is a manifest going and a manifest arriving.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A manifest carried is moved in the scratch tree before the manifests are worked in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing moving a manifest to another path is a landing carrying a manifest.",
+    },
   ],
 } as const satisfies Module

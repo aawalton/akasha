@@ -274,7 +274,7 @@ export async function applied(
   if ("refusals" in done) return done
   carryLanded(root, head, running, prepared.changes, [])
   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
-  const put = installingIn(root, prepared.changes)
+  const put = installingIn(root, prepared.changes, carrying)
   return {
     base: done.base,
     landed: [...done.wrote, ...done.took].sort(),

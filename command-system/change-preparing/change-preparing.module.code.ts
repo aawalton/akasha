@@ -49,7 +49,7 @@ export function preparing(
   const formatting = formattingIn(root, changes)
   const unexportable = unexportableIn(formatting.changes)
   if (unexportable.length > 0) return { refusals: unexportable }
-  const locking = lockingFor(root, base, formatting.changes)
+  const locking = lockingFor(root, base, formatting.changes, carries)
   const change = changeOf(root, { base, edits: formatting.changes, carries })
   const worked = workedFor(change)
   const mapped = mappedFor(change)
