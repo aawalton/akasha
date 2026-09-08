@@ -180,6 +180,27 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A world says here how an answer over that world is cast for a guard to judge.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ledger casts such an answer onto the reading that ledger already settled.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An answer stating no edit beyond what a ledger holds is cast as the shadow that ledger answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ledger takes that cast up as its own settle where that answer is added.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing such a cast works out reaches the ledger before that answer is added.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reach over a ledger adds to that ledger rather than building a second world.",
     },
     {
