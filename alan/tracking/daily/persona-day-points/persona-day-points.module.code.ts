@@ -1,6 +1,7 @@
 import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { refuseALiveTestWrite } from "@akasha/pages/live-store-write-guard"
+import { camelizeKey } from "@akasha/pages-access/file-rows"
 import { asking } from "@akasha/pages-service/asking"
 import { composedFor } from "@akasha/pages-service/composing"
 import { greenDayPointsOf } from "@akasha/personas-core/green-day-fraction"
@@ -8,7 +9,6 @@ import { z } from "zod"
 import type { WriteOutcome } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import { WRITER } from "../day-scan-window/day-scan-window.module.code.ts"
 import { personaRecipeRows } from "../persona-recipe-rows/persona-recipe-rows.module.code.ts"
-import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 

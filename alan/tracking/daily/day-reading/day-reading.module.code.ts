@@ -1,5 +1,6 @@
 import { dataError } from "@akasha/errors-core/exit-code"
 import { kebabisedRow } from "@akasha/pages/akasha-page-values"
+import { camelizeKey } from "@akasha/pages-access/file-rows"
 import { asking } from "@akasha/pages-service/asking"
 import type {
   Answered,
@@ -7,7 +8,6 @@ import type {
   Page,
 } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import { checkoutRoot, WAKE_DAY } from "../day-place/day-place.module.code.ts"
-import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
 import { pageOf } from "../tracking-pages/tracking-pages.module.code.ts"
 
 function dayAnswered(

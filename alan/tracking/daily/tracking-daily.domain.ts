@@ -17,7 +17,6 @@ export const trackingDaily = {
     "module/day-completions",
     "module/tracking-shape",
     "module/akasha-day",
-    "module/tracking-keys",
     "module/tracking-pages",
     "module/tracking-resolve",
     "module/tracking-format",

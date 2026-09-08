@@ -1,7 +1,7 @@
 import { dataError } from "@akasha/errors-core/exit-code"
 import { slugOf } from "@akasha/pages/page-value"
+import { camelizeKey } from "@akasha/pages-access/file-rows"
 import { asking } from "@akasha/pages-service/asking"
-import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
 
 const ENTRY_PROPERTY = "page-property-entry"
 
