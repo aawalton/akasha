@@ -13,8 +13,6 @@ import { seatPathForName, supervisorAlive } from "../seat-reading/seat-reading.m
 
 const SUBAGENT_TYPE = "01a05978-f2e1-78e7-9017-ab14c5c1d79b"
 
-const SUBAGENTS_AT = "seat-system/subagents/pages"
-
 const AGENT_ID = "AGENT_ID"
 
 const PRINCIPAL = "principalSeatName"
@@ -88,7 +86,6 @@ export function agentPids(agentId: string): readonly number[] {
 export function subagentsOf(root: string, seatName: string): readonly Working[] {
   const found: Working[] = []
   for (const one of everyOfType(root, typeSlugOf(root, SUBAGENT_TYPE))) {
-    if (!one.path.startsWith(SUBAGENTS_AT)) continue
     const value = valueAt(one.path, root)
     if (value === null) continue
     if (textAt(value, PRINCIPAL) !== seatName) continue
