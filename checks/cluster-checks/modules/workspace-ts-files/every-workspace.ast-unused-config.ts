@@ -9,6 +9,7 @@ export const everyWorkspace = {
     "ast-unused-config/archive-of-worlds",
     "ast-unused-config/audhdalan",
     "ast-unused-config/smilingjenny",
+    "ast-unused-config/temper",
   ],
   curation: "json",
 } as const satisfies AstUnusedConfig
