@@ -18,11 +18,6 @@ export const dallaDraftIntoAPatch = {
         "Two functions named `textIn` differ: `change-running:70` throws `NOT_TEXT` where `decodeUtf8` answers null, and `mechanical-change-running:39` answers null instead. The `askedFor` twins refuse with `notUtf8` before either is reached. `holdsBytes` is true on the two wallpaper file properties and nowhere else, and `no-raw-nul-bytes` and `change-taboo-terms` both read it. A file declaring bytes is carried rather than decoded.",
     },
     {
-      statement: "An edit kept in the old shape is rewritten into the shape an edit holds now.",
-      workingMemory:
-        "Measured on awen's ledger: 13,984 rows, all moves over distinct paths, 13,161 holding `was === body`, bodies filling 420,914,180 of its 440,492,434 bytes. The other 823 changed content as they moved, so a row migrates to a move and, where the body moved too, a replace beside it. `edited()` at `edits-keeping.module.code.ts:41-42` refuses an absent `was` and `rowsIn:71` turns that into a refusal of the whole file, so the reader admits the new shape before a ledger is rewritten.",
-    },
-    {
       statement: "A change is reached by its address rather than by an import.",
       workingMemory:
         "What is left is a change importing another change's code for a helper rather than reaching it: `rename-page` from `rename-package` and from `rename-page-slug`, `remove-package-alias` from `rename-package` and from `remove-manifest-ways`, `change-page-page-type` from `change-imports`, `add-page-property` from `add-property-value`. `runAgentChange` has no caller.",
