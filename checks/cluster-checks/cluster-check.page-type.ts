@@ -126,6 +126,7 @@ export const clusterCheck = {
     "module/app-capacitor-parity-divergences",
     "module/app-capacitor-parity",
     "module/app-intent-brand-word-violations",
+    "module/bin-mode-violations",
   ],
   properties: [
     {
