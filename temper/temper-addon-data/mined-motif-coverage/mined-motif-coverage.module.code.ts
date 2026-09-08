@@ -13,22 +13,18 @@ const HELD = "jsonl"
 
 const FIRST_PART = 1
 
-/** What the game calls a motif book and a motif chapter among the kinds an item can be. */
 const MOTIF_BOOK = 60
 
 const MOTIF_CHAPTER = 61
 
-/** Where the lore library keeps the crafting motifs, among its categories. */
 const CRAFTING_MOTIFS_CATEGORY_INDEX = 2
 
-/** A row is read only where its line already names a motif kind, so most lines are never parsed. */
 const MOTIF_KIND_MARK = '"specializedItemType":6'
 
 const TOME_EDITION = /, Tome Edition$/
 
 const MOTIF_PREFIXES: readonly string[] = ["Crafting Motif ", "Crown Crafting Motif "]
 
-/** A motif book, or one chapter of one, named by the style it dresses and the piece it covers. */
 export type MotifTuple = {
   readonly styleId: number
   readonly chapterId: number | null
@@ -51,10 +47,6 @@ export function motifWording(tuple: MotifTuple): string {
     : `style ${tuple.styleId} chapter ${tuple.chapterId}`
 }
 
-/**
- * A tome edition restates a book already named without it, so counting one would name a style
- * twice. The parser drops the tail either way; this leaves the restatement out before parsing.
- */
 export function isCanonicalMotifTitle(title: string): boolean {
   return !TOME_EDITION.test(title)
 }
@@ -63,7 +55,6 @@ export function isMotifShapedLoreName(name: string): boolean {
   return MOTIF_PREFIXES.some((one) => name.startsWith(one))
 }
 
-/** The files the sweep's rows are kept in, in order, under the checkout this runs against. */
 export function minedItemParts(root: string): readonly string[] {
   const found: string[] = []
   for (let part = FIRST_PART; ; part += 1) {
@@ -76,7 +67,6 @@ export function minedItemParts(root: string): readonly string[] {
   return found
 }
 
-/** The title every motif book and motif chapter the sweep read carries. */
 export function minedMotifTitles(root: string): readonly string[] {
   const parts = minedItemParts(root)
   if (parts.length === 0) {
@@ -117,7 +107,6 @@ export function motifTuplesOf(names: readonly string[]): Gathered {
   return { tuples, unparseable }
 }
 
-/** Every motif the lore library names, read off the crafting motifs category alone. */
 export function loreMotifNames(): readonly string[] {
   const category = LORE_LIBRARY_DATA.find(
     (one) => one.categoryIndex === CRAFTING_MOTIFS_CATEGORY_INDEX
@@ -146,10 +135,6 @@ function holdsBookForStyle(tuples: MotifTuples, styleId: number): boolean {
   return false
 }
 
-/**
- * The items the lore library names nothing for. A book item is covered where the library names any
- * chapter of that style, because a style told chapter by chapter is one the book still opens.
- */
 export function itemsMissingLore(items: MotifTuples, lore: MotifTuples): readonly string[] {
   const missing: string[] = []
   for (const one of items.values()) {
@@ -160,10 +145,6 @@ export function itemsMissingLore(items: MotifTuples, lore: MotifTuples): readonl
   return missing
 }
 
-/**
- * The lore entries no item answers. A chapter entry is covered where an item names the style's
- * book, because a style sold whole covers every chapter the library lists for it.
- */
 export function loreMissingItems(items: MotifTuples, lore: MotifTuples): readonly string[] {
   const missing: string[] = []
   for (const one of lore.values()) {
@@ -181,7 +162,6 @@ export type Coverage = {
   readonly loreMissingItems: readonly string[]
 }
 
-/** Both sides gathered off this checkout, and each side's gaps against the other. */
 export function minedMotifCoverage(root: string = rootFor(resolveRoots(), AKASHA)): Coverage {
   const items = motifTuplesOf(minedMotifTitles(root))
   const lore = motifTuplesOf(loreMotifNames())
