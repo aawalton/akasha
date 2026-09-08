@@ -28,7 +28,7 @@ export const change = {
     "a change that refuses applies nothing and lands nothing.",
     "an apply that refuses leaves the edits kept, and that is the dry run.",
     "`drop` and `handed` and `take` and `forget` are the first words naming no change.",
-    "`drop` takes away every edit kept, and leaves what a subagent handed over.",
+    "`drop` takes away every edit kept only where `all: true` is piped in, and leaves what a subagent handed over.",
     "`drop` names each path to drop on a line of its own, written `at` and the path, piped in.",
     "a drop naming paths takes away the edits kept at those paths, and leaves the rest.",
     "a path said on the command line after `drop` is refused, as every other argument there is.",
@@ -220,7 +220,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A drop naming no path takes away every edit kept.",
+      statement: "A drop saying `all: true` takes away every edit kept.",
     },
     {
       invariantKind: "departure",
@@ -228,7 +228,19 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A drop naming no path over no edit kept says so rather than refusing.",
+      statement: "A drop saying `all: true` over no edit kept says so rather than refusing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop piping nothing in is refused rather than taking every edit away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`all: true` said beside a path refuses the drop.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`all` takes `true` and no other value.",
     },
     {
       invariantKind: "departure",

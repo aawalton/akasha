@@ -49,26 +49,44 @@ function namedIn(one: Stated, at: readonly string[]): boolean {
 
 const AT = "at"
 
+const ALL = "all"
+
 export const DROP_LINE = "a drop names each path on a line of its own, written `at` and the path"
 
 const DROP_NAMES_NOTHING = `the lines piped in name no path, and ${DROP_LINE}`
 
+const DROP_ALL_LINE = "a drop takes every edit away only where the lines piped in say `all: true`"
+
+const DROP_PIPED_NOTHING = `this call piped nothing in, and ${DROP_ALL_LINE}`
+
+const DROP_ALL_AND_PATH =
+  "`all: true` takes away every edit kept, and `at` names one, so the two together are refused"
+
+const DROP_ALL_TAKES = "`all` takes `true` to take away every edit kept, and no other value"
+
 export function droppedIn(said: string): readonly string[] | string {
   const held: string[] = []
+  let all = false
   for (const line of said.split("\n")) {
     const one = line.trim()
     if (one === "") continue
+    if (one.startsWith(`${ALL}:`)) {
+      if (one.slice(ALL.length + 1).trim() !== "true") return DROP_ALL_TAKES
+      all = true
+      continue
+    }
     const path = one.startsWith(`${AT}:`) ? one.slice(AT.length + 1).trim() : ""
     if (path === "") return `\`${one}\` names no path, and ${DROP_LINE}`
     held.push(path)
   }
+  if (all) return held.length === 0 ? [] : DROP_ALL_AND_PATH
   return held.length === 0 ? DROP_NAMES_NOTHING : held
 }
 
 export function droppedPathsIn(piping: Piping): readonly string[] | string {
   const held = piping()
   if ("unreadable" in held && held.part === true) return held.unreadable
-  if (!("bytes" in held) || held.bytes.byteLength === 0) return []
+  if (!("bytes" in held) || held.bytes.byteLength === 0) return DROP_PIPED_NOTHING
   return droppedIn(new TextDecoder().decode(held.bytes))
 }
 

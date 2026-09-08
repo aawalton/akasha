@@ -163,6 +163,7 @@ for (const one of DROPS) {
 
     if (one.code !== undefined) expect(said.code).toBe(one.code)
     if (one.refusals !== undefined) expect(said.refusals).toEqual(one.refusals)
+    if (one.refusalHolds !== undefined) expect(said.refusals[0] ?? "").toContain(one.refusalHolds)
     if (one.report !== undefined) expect(said.report).toEqual(one.report)
     if (one.holds !== undefined) expect(said.report).toContain(one.holds)
     if (one.first !== undefined) expect(said.report[0]).toBe(one.first)

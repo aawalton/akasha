@@ -230,6 +230,7 @@ export const BAD_DROPS: readonly (readonly [readonly string[], Piping | undefine
   [["drop", NAMER_CODE], undefined],
   [["drop"], piping(`${NAMER_CODE}\n`)],
   [["drop"], () => ({ unreadable: "went quiet", part: true as const })],
+  [["drop"], piping("all: yes\n")],
 ]
 
 export type Drop = {
@@ -239,6 +240,7 @@ export type Drop = {
   readonly said?: Piping
   readonly code?: number
   readonly refusals?: readonly string[]
+  readonly refusalHolds?: string
   readonly report?: readonly string[]
   readonly holds?: string
   readonly first?: string
@@ -247,16 +249,18 @@ export type Drop = {
 
 export const DROPS: readonly Drop[] = [
   {
-    name: "a drop takes away every edit kept and names each edit that went",
+    name: "a drop saying `all: true` takes away every edit kept and names each edit that went",
     removes: [NAMER_PAGE],
+    said: piping("all: true\n"),
     code: 0,
     refusals: [],
     report: DROPPED_BOTH,
     kept: [],
   },
   {
-    name: "a drop over no edit kept says so rather than refusing",
+    name: "a drop saying `all: true` over no edit kept says so rather than refusing",
     removes: [],
+    said: piping("all: true\n"),
     code: 0,
     refusals: [],
     report: ["no edits are kept beside this agent's page, so nothing went"],
@@ -285,10 +289,12 @@ export const DROPS: readonly Drop[] = [
     kept: BOTH,
   },
   {
-    name: "an input that will not open is nothing piped in",
+    name: "an input that will not open refuses the drop and leaves every edit kept",
     removes: [NAMER_PAGE],
     said: () => ({ unreadable: "ENXIO" }),
-    kept: [],
+    code: 1,
+    refusalHolds: "piped nothing in",
+    kept: BOTH,
   },
   {
     name: "an edit a move left behind is taken away by the path that move came from",
@@ -298,5 +304,20 @@ export const DROPS: readonly Drop[] = [
     refusals: [],
     first: `moves ${MOVED_FROM} to ${MOVED_TO}`,
     kept: [],
+  },
+  {
+    name: "a drop piping nothing in refuses and leaves every edit kept",
+    removes: [NAMER_PAGE],
+    code: 1,
+    refusalHolds: "piped nothing in",
+    kept: BOTH,
+  },
+  {
+    name: "`all: true` named beside a path refuses the drop and leaves every edit kept",
+    removes: [NAMER_PAGE],
+    said: piping(`all: true\n${taking(NAMER_CODE)}`),
+    code: 1,
+    refusalHolds: "the two together are refused",
+    kept: BOTH,
   },
 ]
