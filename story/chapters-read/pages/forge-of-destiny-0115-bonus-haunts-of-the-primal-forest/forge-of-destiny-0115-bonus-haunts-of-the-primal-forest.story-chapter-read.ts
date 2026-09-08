@@ -5,7 +5,7 @@ export const forgeOfDestiny0115BonusHauntsOfThePrimalForest = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0115-bonus-haunts-of-the-primal-forest",
   title: "Bonus: haunts of the Primal Forest",
-  partOfSlugs: ["forge-of-destiny"],
+  partOfCollectionSlugs: ["forge-of-destiny"],
   position: 115,
   ownLength: 1134,
   unitSlug: "words",

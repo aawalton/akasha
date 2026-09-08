@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0122ChapterOneHundredNineteenInterrog
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0122-chapter-one-hundred-nineteen-interrogation",
   title: "Chapter One Hundred Nineteen: Interrogation",
-  partOfSlugs: ["flesh-eater-demon-evolution-litrpg"],
+  partOfCollectionSlugs: ["flesh-eater-demon-evolution-litrpg"],
   position: 122,
   ownLength: 2474,
   unitSlug: "words",

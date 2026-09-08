@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0001ChapterOneFleshLumps = {
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0001-chapter-one-flesh-lumps",
   title: "Chapter One: Flesh Lumps",
-  partOfSlugs: ["flesh-eater-demon-evolution-litrpg"],
+  partOfCollectionSlugs: ["flesh-eater-demon-evolution-litrpg"],
   position: 1,
   ownLength: 2633,
   unitSlug: "words",

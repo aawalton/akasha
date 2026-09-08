@@ -5,7 +5,7 @@ export const forgeOfDestiny0176Threads147OldWays2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0176-threads-147-old-ways-2",
   title: "Threads 147-Old Ways 2",
-  partOfSlugs: ["forge-of-destiny"],
+  partOfCollectionSlugs: ["forge-of-destiny"],
   position: 176,
   ownLength: 1569,
   unitSlug: "words",

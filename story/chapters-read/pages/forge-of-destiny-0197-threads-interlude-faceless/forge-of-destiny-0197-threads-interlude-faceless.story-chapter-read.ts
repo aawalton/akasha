@@ -5,7 +5,7 @@ export const forgeOfDestiny0197ThreadsInterludeFaceless = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0197-threads-interlude-faceless",
   title: "Threads Interlude: Faceless",
-  partOfSlugs: ["forge-of-destiny"],
+  partOfCollectionSlugs: ["forge-of-destiny"],
   position: 197,
   ownLength: 1131,
   unitSlug: "words",

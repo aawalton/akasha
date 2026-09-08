@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0052ChapterFiftyOneMidnightMeetings =
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0052-chapter-fifty-one-midnight-meetings",
   title: "Chapter Fifty-One: Midnight Meetings",
-  partOfSlugs: ["flesh-eater-demon-evolution-litrpg"],
+  partOfCollectionSlugs: ["flesh-eater-demon-evolution-litrpg"],
   position: 52,
   ownLength: 3112,
   unitSlug: "words",

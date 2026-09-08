@@ -5,7 +5,7 @@ export const forgeOfDestiny0149InterludeImperturbableStars = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0149-interlude-imperturbable-stars",
   title: "Interlude:  Imperturbable Stars",
-  partOfSlugs: ["forge-of-destiny"],
+  partOfCollectionSlugs: ["forge-of-destiny"],
   position: 149,
   ownLength: 2274,
   unitSlug: "words",

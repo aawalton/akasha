@@ -5,7 +5,7 @@ export const forgeOfDestiny0058BonusHandmaiden = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0058-bonus-handmaiden",
   title: "Bonus: Handmaiden",
-  partOfSlugs: ["forge-of-destiny"],
+  partOfCollectionSlugs: ["forge-of-destiny"],
   position: 58,
   ownLength: 1106,
   unitSlug: "words",

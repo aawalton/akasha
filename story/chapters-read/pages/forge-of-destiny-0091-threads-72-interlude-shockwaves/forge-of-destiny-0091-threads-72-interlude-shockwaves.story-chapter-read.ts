@@ -5,7 +5,7 @@ export const forgeOfDestiny0091Threads72InterludeShockwaves = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0091-threads-72-interlude-shockwaves",
   title: "Threads 72-Interlude-Shockwaves",
-  partOfSlugs: ["forge-of-destiny"],
+  partOfCollectionSlugs: ["forge-of-destiny"],
   position: 91,
   ownLength: 3970,
   unitSlug: "words",

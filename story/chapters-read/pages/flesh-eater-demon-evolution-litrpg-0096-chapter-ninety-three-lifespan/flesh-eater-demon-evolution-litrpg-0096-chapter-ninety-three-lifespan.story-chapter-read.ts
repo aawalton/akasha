@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0096ChapterNinetyThreeLifespan = {
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0096-chapter-ninety-three-lifespan",
   title: "Chapter Ninety-Three: Lifespan",
-  partOfSlugs: ["flesh-eater-demon-evolution-litrpg"],
+  partOfCollectionSlugs: ["flesh-eater-demon-evolution-litrpg"],
   position: 96,
   ownLength: 2471,
   unitSlug: "words",

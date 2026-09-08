@@ -5,7 +5,7 @@ export const forgeOfDestiny0139InterludeCompanionQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0139-interlude-companion-quest",
   title: "Interlude: Companion Quest",
-  partOfSlugs: ["forge-of-destiny"],
+  partOfCollectionSlugs: ["forge-of-destiny"],
   position: 139,
   ownLength: 1029,
   unitSlug: "words",

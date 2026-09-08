@@ -5,7 +5,7 @@ export const forgeOfDestiny0209InterludeTheDecliningStorm = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0209-interlude-the-declining-storm",
   title: "Interlude: The Declining Storm",
-  partOfSlugs: ["forge-of-destiny"],
+  partOfCollectionSlugs: ["forge-of-destiny"],
   position: 209,
   ownLength: 2595,
   unitSlug: "words",

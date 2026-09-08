@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0026ChapterTwentyFiveCave = {
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0026-chapter-twenty-five-cave",
   title: "Chapter Twenty-Five: Cave",
-  partOfSlugs: ["flesh-eater-demon-evolution-litrpg"],
+  partOfCollectionSlugs: ["flesh-eater-demon-evolution-litrpg"],
   position: 26,
   ownLength: 2916,
   unitSlug: "words",
