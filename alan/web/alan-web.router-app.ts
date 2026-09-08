@@ -18,6 +18,7 @@ export const alanWeb = {
   sidebarBoot: "js",
   siteIcon: "svg",
   gitIgnore: "gitignore",
+  testPreload: "toml",
   partSlugs: [
     "manifest/alanwalton-web",
     "stylesheet/alan-web-look",
