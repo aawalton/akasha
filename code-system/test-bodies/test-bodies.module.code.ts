@@ -23,6 +23,11 @@ export type Served = {
   readonly loader: Form
 }
 
+export type Paired = {
+  readonly paths: ReadonlyMap<string, string>
+  readonly spelled: ReadonlyMap<string, string>
+}
+
 const FILE = "file"
 
 const MARK = `${SERVED}:`
@@ -126,29 +131,36 @@ export function absoluteIn(text: string, folder: string): string {
   return out + text.slice(from)
 }
 
-export function pairedIn(
-  folder: string,
-  was: string | null,
-  now: string
-): ReadonlyMap<string, string> {
-  const found = new Map<string, string>()
-  if (was === null) return found
+export function spellingIn(text: string, said: ReadonlyMap<string, string>): string {
+  let held = text
+  for (const [reads, holds] of said) {
+    held = held.split(`"${reads}"`).join(`"${holds}"`)
+    held = held.split(`'${reads}'`).join(`'${holds}'`)
+  }
+  return held
+}
+
+export function pairedIn(folder: string, was: string | null, now: string): Paired {
+  const paths = new Map<string, string>()
+  const spelled = new Map<string, string>()
+  if (was === null) return { paths, spelled }
   const before = reachesIn(folder, was)
   const after = reachesIn(folder, now)
-  const gone: string[] = []
-  const come: string[] = []
+  const gone: (readonly [string, string])[] = []
+  const come: (readonly [string, string])[] = []
   for (const [key, to] of before) {
     const holds = after.get(key)
-    if (holds === undefined) gone.push(to)
-    else if (holds !== to) found.set(to, holds)
+    if (holds === undefined) gone.push([key, to])
+    else if (holds !== to) paths.set(to, holds)
   }
-  for (const [key, to] of after) if (!before.has(key)) come.push(to)
+  for (const [key, to] of after) if (!before.has(key)) come.push([key, to])
   const one = gone[0]
   const two = come[0]
   if (gone.length === 1 && come.length === 1 && one !== undefined && two !== undefined) {
-    found.set(one, two)
+    paths.set(one[1], two[1])
+    spelled.set(two[0], one[0])
   }
-  return found
+  return { paths, spelled }
 }
 
 export function servingOf(
@@ -163,15 +175,22 @@ export function servingOf(
     const root = realpathSync(from)
     const bodies: Record<string, string | null> = {}
     for (const one of paths) bodies[join(root, one)] = bodyOf(at, one)
+    const spelled = new Map<string, string>()
     for (const one of paths) {
       if (!one.endsWith(MANIFEST)) continue
       const now = bodies[join(root, one)] ?? null
       if (now === null) continue
-      for (const [gone, come] of pairedIn(dirname(join(root, one)), bodyOf(was, one), now)) {
+      const found = pairedIn(dirname(join(root, one)), bodyOf(was, one), now)
+      for (const [gone, come] of found.paths) {
         const body = bodies[come] ?? null
         if (body === null) continue
         bodies[gone] = absoluteIn(body, dirname(come))
       }
+      for (const [reads, holds] of found.spelled) spelled.set(reads, holds)
+    }
+    for (const [one, body] of Object.entries(bodies)) {
+      if (body === null || spelled.size === 0) continue
+      bodies[one] = spellingIn(body, spelled)
     }
     const standing = new Map<string, string>()
     for (const one of named) {
