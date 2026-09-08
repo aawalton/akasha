@@ -1,5 +1,7 @@
-import { beforeEach, expect, test } from "bun:test"
+import { afterAll, beforeEach, expect, test } from "bun:test"
+import { realpathSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import { RELAY_SECRET_HEADER } from "../readout-credential/readout-credential.module.code.ts"
 import {
   dropRelayed,
@@ -24,6 +26,10 @@ const PAGE = `akasha/readout-system/readouts/pages/${READOUT}/${READOUT}.readout
 const TAKEN = "2026-08-31T12:00:00.000Z"
 
 const SECRET = "a-relay-secret-existing-only-in-this-test"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 beforeEach(() => dropRelayed())
 
@@ -151,10 +157,11 @@ test("a secret that is unset or empty is stated as none", () => {
 })
 
 test("a readout page that is there is told apart from one that is not", () => {
-  const here = import.meta.dir
-  const own = "readout-relay.module.code.ts"
-  expect(readoutPageAt(here, own)).toBe(join(here, own))
-  expect(readoutPageAt(here, "readout-relay.module.no-such.ts")).toBeNull()
+  const root = realpathSync(scratch.rootFor("readout-relay-"))
+  const own = `${READOUT}.readout.ts`
+  writeFileSync(join(root, own), "")
+  expect(readoutPageAt(root, own)).toBe(join(root, own))
+  expect(readoutPageAt(root, `${READOUT}.readout.no-such.ts`)).toBeNull()
 })
 
 test("a path naming no readout page is refused in words of its own", () => {
