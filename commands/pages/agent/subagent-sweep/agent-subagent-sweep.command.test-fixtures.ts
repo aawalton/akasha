@@ -8,8 +8,8 @@ import type { SubagentNode } from "@akasha/editor-extension/subagent-reading"
 import { said as gitIn } from "@akasha/git/git-running"
 import { rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
-import type { Given } from "../../../command-system/calling/calling.module.code.ts"
-import type { Landing, RunningSaid, SeatTranscripts } from "./subagent-sweep.command.code.ts"
+import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
+import type { Landing, RunningSaid, SeatTranscripts } from "./agent-subagent-sweep.command.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
@@ -118,7 +118,7 @@ export function landings(answer: Applied | Refused = LANDED): Landings {
 }
 
 export function givenIn(root: string): Given {
-  return { root, calledAs: "akasha subagent sweep", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha agent subagent sweep", from: root, writer: null, agentId: null }
 }
 
 export function there(root: string, at: string): boolean {

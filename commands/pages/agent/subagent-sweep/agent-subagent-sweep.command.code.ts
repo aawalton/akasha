@@ -18,12 +18,12 @@ import {
   type Answer,
   answering,
   type Given,
-} from "../../../command-system/calling/calling.module.code.ts"
-import { transcriptOf } from "../../../seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
+} from "../../../../command-system/calling/calling.module.code.ts"
+import { transcriptOf } from "../../../../seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 
 const REMOVE = "--remove"
 
-const CALLED_AS = "akasha subagent sweep"
+const CALLED_AS = "akasha agent subagent sweep"
 
 export const TAKE = "change-mechanical-file/remove-file"
 
@@ -149,7 +149,7 @@ async function taking(root: string, stale: readonly Judged[], landing: Landing):
   )
 }
 
-export async function subagentSweep(
+export async function agentSubagentSweep(
   argv: readonly string[],
   given: Given,
   entries: readonly ProcLivenessEntry[] = scanProcEntries().entries,

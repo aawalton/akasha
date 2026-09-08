@@ -1,9 +1,9 @@
-import type { Command } from "../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.ts"
 
-export const subagentSweep = {
+export const agentSubagentSweep = {
   id: "01a072c2-eed8-7f35-9595-65c72afdc7aa",
   pageTypeSlug: "command",
-  slug: "subagent-sweep",
+  slug: "agent-subagent-sweep",
   definition: "every subagent page on disk judged, and the stale ones taken away when told to",
   code: "ts",
   test: "ts",
