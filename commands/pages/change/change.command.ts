@@ -20,7 +20,7 @@ export const change = {
     "a change checks and applies as it answers, so the edits it answers land as a commit.",
     "`message` says what the commit is for, and a change naming none composes the message.",
     "an apply lands every edit kept rather than the edits this run appended alone.",
-    "`draft: true` keeps the edits for a later `akasha apply` rather than applying as this change answers.",
+    "`draft: true` keeps the edits for a later `akasha change apply` rather than applying as this change answers.",
     "`draft` and `message` together are refused, as `draft` declines the commit a message would say.",
     "two runs leave two sets of edits in the order the runs were made.",
     "a change reads the world as every edit appended before it had already landed.",
