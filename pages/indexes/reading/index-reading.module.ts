@@ -142,6 +142,10 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "Every answer about the pages of one page type is drawn from that one read.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A line that will not read is left out rather than refusing the rest.",
     },
     {

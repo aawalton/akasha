@@ -282,19 +282,13 @@ export function schemaOf(given: string | Reading, named: string): Schemad {
   return answered(given, ROOT, `what shape \`${named}\` has`, (reading) => shapedIn(reading, named))
 }
 
-function byPath(one: Listed, two: Listed): number {
-  return one.path < two.path ? -1 : one.path > two.path ? 1 : 0
-}
-
 export function everyOfType(given: string | Reading, pageTypeSlug: string): readonly Listed[] {
-  return answered(given, ROOT, `which pages are of \`${pageTypeSlug}\``, (reading) => {
-    const found: Listed[] = []
-    for (const one of valuesIn(reading, join(VALUE, `${pageTypeSlug}${ENDING}`))) {
-      const id = textAt(one.value, "id")
-      if (id !== null) found.push({ path: one.path, id })
-    }
-    return found.sort(byPath)
-  })
+  const found: Listed[] = []
+  for (const one of valuesOfType(given, pageTypeSlug)) {
+    const id = textAt(one.value, "id")
+    if (id !== null) found.push({ path: one.path, id })
+  }
+  return found
 }
 
 export type Valued = {
@@ -345,24 +339,26 @@ export function valuesOfType(given: string | Reading, pageTypeSlug: string): rea
   return valued(given, pageTypeSlug)
 }
 
+const pathed = heldEach((reading: Reading, pageTypeSlug: string): ReadonlyMap<string, Value> => {
+  const found = new Map<string, Value>()
+  for (const one of valuesOfType(reading, pageTypeSlug)) found.set(one.path, one.value)
+  return found
+})
+
 export function valuesByPath(
   given: string | Reading,
   pageTypeSlug: string
 ): ReadonlyMap<string, Value> {
-  const found = new Map<string, Value>()
-  for (const one of valuesOfType(given, pageTypeSlug)) found.set(one.path, one.value)
-  return found
+  return pathed(given, pageTypeSlug)
 }
 
 export function slugsOfType(given: string | Reading, pageTypeSlug: string): readonly string[] {
-  return answered(given, ROOT, `which slugs the \`${pageTypeSlug}\` pages carry`, (reading) => {
-    const found = new Set<string>()
-    for (const one of valuesIn(reading, join(VALUE, `${pageTypeSlug}${ENDING}`))) {
-      const slug = textAt(one.value, "slug")
-      if (slug !== null) found.add(slug)
-    }
-    return [...found].sort()
-  })
+  const found = new Set<string>()
+  for (const one of valuesOfType(given, pageTypeSlug)) {
+    const slug = textAt(one.value, "slug")
+    if (slug !== null) found.add(slug)
+  }
+  return [...found].sort()
 }
 
 export function idsNaming(
