@@ -42,7 +42,7 @@ export const blockBunTest = {
     },
     {
       invariantKind: "constraint",
-      statement: "Every test file the akasha folder holds is an akasha test.",
+      statement: "Every test file the akasha folder has is an akasha test.",
     },
   ],
 } as const satisfies AgentHook
