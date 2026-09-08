@@ -74,6 +74,14 @@ export const checks = {
       statement: "Every check names its input.",
     },
     {
+      invariantKind: "upkeep",
+      statement: "Every check is cheap enough to run at patch.",
+    },
+    {
+      invariantKind: "upkeep",
+      statement: "Every check runs at patch unless Alan holds that check off.",
+    },
+    {
       invariantKind: "departure",
       statement: "An input wider than the answer rests on costs a run that finds nothing.",
     },
