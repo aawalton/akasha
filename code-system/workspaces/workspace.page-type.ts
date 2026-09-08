@@ -4,6 +4,7 @@ import type { BiomeConfig } from "./properties/biome-config.named-file-property.
 import type { BunConfig } from "./properties/bun-config.named-file-property.ts"
 import type { DockerIgnore } from "./properties/docker-ignore.named-file-property.ts"
 import type { Lockfile } from "./properties/lockfile.named-file-property.ts"
+import type { PackageDirectory } from "./properties/package-directory.build-folder-property.ts"
 import type { SecretsConfig } from "./properties/secrets-config.named-file-property.ts"
 import type { TypescriptBaseConfig } from "./properties/typescript-base-config.named-file-property.ts"
 import type { TypescriptBuildInfo } from "./properties/typescript-build-info.named-file-property.ts"
@@ -22,6 +23,7 @@ export type Workspace = Domain & {
   typescriptConfig: TypescriptConfig
   typescriptBuildInfo?: TypescriptBuildInfo
   workspaceGitIgnore: WorkspaceGitIgnore
+  packageDirectory?: PackageDirectory
 }
 
 export const workspace = {
@@ -41,6 +43,7 @@ export const workspace = {
     "named-file-property/typescript-config",
     "named-file-property/workspace-git-ignore",
     "named-file-property/workspace-manifest",
+    "build-folder-property/package-directory",
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
@@ -59,6 +62,7 @@ export const workspace = {
       uncommitted: true,
     },
     { pagePropertySlug: "named-file-property/workspace-git-ignore", required: true, many: false },
+    { pagePropertySlug: "build-folder-property/package-directory", required: false, many: false },
   ],
   invariants: [
     {
