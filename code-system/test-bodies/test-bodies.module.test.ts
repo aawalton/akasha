@@ -9,6 +9,8 @@ import {
   endingOf,
   folderOf,
   loaderOf,
+  pairedIn,
+  pairingsIn,
   preloadingOf,
   SERVED,
   SERVING,
@@ -114,6 +116,65 @@ test("a body under an extension named by nothing is served as JavaScript too", (
 test("a path the change takes away refuses the import reaching it", () => {
   expect(() => servingOut({ [ONE]: null }, ONE)).toThrow(ONE)
   expect(() => servingOut({}, ONE)).toThrow(ONE)
+})
+
+const manifestOf = (ways: Record<string, string>): string =>
+  JSON.stringify({ name: "@akasha/held", exports: ways })
+
+const WAYS = { "./asking/testing": "./asking/asking.module.test-fixtures.ts" }
+
+test("a manifest edited in place maps the way in whose target moved", () => {
+  const found = pairedIn(
+    "held",
+    "held",
+    manifestOf({ "./asking": "./old/asking.ts" }),
+    manifestOf({ "./asking": "./new/asking.ts" })
+  )
+  expect([...found.paths]).toEqual([["held/old/asking.ts", "held/new/asking.ts"]])
+})
+
+test("a package whose folder moved maps its ways in from the old folder to the new", () => {
+  const found = pairedIn("held", "holds", manifestOf(WAYS), manifestOf(WAYS))
+  expect([...found.paths]).toEqual([
+    ["held/asking/asking.module.test-fixtures.ts", "holds/asking/asking.module.test-fixtures.ts"],
+  ])
+  expect([...found.spelled]).toEqual([])
+})
+
+test("a manifest carried at the path it already sat at is paired with itself", () => {
+  const was = manifestOf({ "./asking": "./old/asking.ts" })
+  const now = manifestOf({ "./asking": "./new/asking.ts" })
+  expect(pairingsIn([{ folder: "held", was, now }])).toEqual([
+    { wasFolder: "held", nowFolder: "held", was, now },
+  ])
+})
+
+test("one manifest going and one arriving is a package whose folder moved", () => {
+  const body = manifestOf(WAYS)
+  expect(
+    pairingsIn([
+      { folder: "held", was: body, now: null },
+      { folder: "holds", was: null, now: body },
+    ])
+  ).toEqual([{ wasFolder: "held", nowFolder: "holds", was: body, now: body }])
+})
+
+test("more than one manifest going or arriving is left alone", () => {
+  const body = manifestOf(WAYS)
+  expect(
+    pairingsIn([
+      { folder: "one", was: body, now: null },
+      { folder: "two", was: body, now: null },
+      { folder: "three", was: null, now: body },
+    ])
+  ).toEqual([])
+  expect(
+    pairingsIn([
+      { folder: "one", was: body, now: null },
+      { folder: "two", was: null, now: body },
+      { folder: "three", was: null, now: body },
+    ])
+  ).toEqual([])
 })
 
 test("the bodies are read back out of the file they were written to", () => {

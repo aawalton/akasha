@@ -52,6 +52,20 @@ export const testBodies = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "One manifest going and one arriving is a package that moved folder; more than one is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A manifest carried at the path that manifest already sat at is a package edited in place.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest's ways in are read against the folder that manifest sits in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An import reaching a path the change takes away is refused.",
     },
     {

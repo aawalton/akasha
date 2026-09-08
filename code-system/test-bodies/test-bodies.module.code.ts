@@ -28,6 +28,19 @@ export type Paired = {
   readonly spelled: ReadonlyMap<string, string>
 }
 
+export type Manifested = {
+  readonly folder: string
+  readonly was: string | null
+  readonly now: string | null
+}
+
+export type Pairing = {
+  readonly wasFolder: string
+  readonly nowFolder: string
+  readonly was: string
+  readonly now: string
+}
+
 const FILE = "file"
 
 const MARK = `${SERVED}:`
@@ -139,12 +152,11 @@ export function spellingIn(text: string, said: ReadonlyMap<string, string>): str
   return held
 }
 
-export function pairedIn(folder: string, was: string | null, now: string): Paired {
+export function pairedIn(wasFolder: string, nowFolder: string, was: string, now: string): Paired {
   const paths = new Map<string, string>()
   const spelled = new Map<string, string>()
-  if (was === null) return { paths, spelled }
-  const before = reachesIn(folder, was)
-  const after = reachesIn(folder, now)
+  const before = reachesIn(wasFolder, was)
+  const after = reachesIn(nowFolder, now)
   const gone: (readonly [string, string])[] = []
   const come: (readonly [string, string])[] = []
   for (const [key, to] of before) {
@@ -160,6 +172,47 @@ export function pairedIn(folder: string, was: string | null, now: string): Paire
     spelled.set(two[0], one[0])
   }
   return { paths, spelled }
+}
+
+export function manifestedIn(
+  root: string,
+  paths: readonly string[],
+  bodies: Bodies,
+  was: (path: string) => Uint8Array | null
+): readonly Manifested[] {
+  const found: Manifested[] = []
+  for (const one of paths) {
+    if (!one.endsWith(MANIFEST)) continue
+    const at = join(root, one)
+    found.push({ folder: dirname(at), was: bodyOf(was, one), now: bodies[at] ?? null })
+  }
+  return found
+}
+
+export function pairingsIn(held: readonly Manifested[]): readonly Pairing[] {
+  const found: Pairing[] = []
+  const gone: Manifested[] = []
+  const come: Manifested[] = []
+  for (const one of held) {
+    if (one.was !== null && one.now !== null) {
+      found.push({ wasFolder: one.folder, nowFolder: one.folder, was: one.was, now: one.now })
+    } else if (one.was !== null) gone.push(one)
+    else if (one.now !== null) come.push(one)
+  }
+  if (gone.length !== 1 || come.length !== 1) return found
+  const first = gone[0]
+  const second = come[0]
+  if (first === undefined || second === undefined) return found
+  const before = first.was
+  const after = second.now
+  if (before === null || after === null) return found
+  found.push({
+    wasFolder: first.folder,
+    nowFolder: second.folder,
+    was: before,
+    now: after,
+  })
+  return found
 }
 
 function servingAt(held: string, bodies: Bodies): string {
@@ -183,11 +236,8 @@ export function servingOf(
     const bodies: Record<string, string | null> = {}
     for (const one of paths) bodies[join(root, one)] = bodyOf(at, one)
     const spelled = new Map<string, string>()
-    for (const one of paths) {
-      if (!one.endsWith(MANIFEST)) continue
-      const now = bodies[join(root, one)] ?? null
-      if (now === null) continue
-      const found = pairedIn(dirname(join(root, one)), bodyOf(was, one), now)
+    for (const pair of pairingsIn(manifestedIn(root, paths, bodies, was))) {
+      const found = pairedIn(pair.wasFolder, pair.nowFolder, pair.was, pair.now)
       for (const [gone, come] of found.paths) {
         const body = bodies[come] ?? null
         if (body === null) continue
