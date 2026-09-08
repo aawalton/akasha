@@ -63,7 +63,7 @@ export function worldFor(page: Value, body: string, reaching: Reaching): World {
   const known = knownOf({ admitting: (one) => [one] })
   return {
     root: "/nowhere",
-    index: { knownIn: () => known, pageAt: () => page } as never,
+    index: { knownIn: () => known, pageByPath: () => page } as never,
     textOf: () => body,
     bodyOf: () => body,
     under: () => [],
