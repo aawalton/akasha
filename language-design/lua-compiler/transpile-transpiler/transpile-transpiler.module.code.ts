@@ -12,6 +12,7 @@ import {
   findUsedLualibFeatures,
   getLuaLibBundle,
 } from "../lualib-runtime/lualib-runtime.module.code.ts"
+import * as performance from "../measure-performance/measure-performance.module.code.ts"
 import { getBundleResult } from "../transpile-bundle/transpile-bundle.module.code.ts"
 import type {
   EmitFile,
@@ -28,7 +29,6 @@ import {
   getProgramTranspileResult,
   type TranspileOptions,
 } from "../transpile-transpile/transpile-transpile.module.code.ts"
-import * as performance from "../tstl-measure-performance/tstl-measure-performance.module.code.ts"
 import { normalizeSlashes } from "../tstl-utils/tstl-utils.module.code.ts"
 
 export interface TranspilerOptions {
