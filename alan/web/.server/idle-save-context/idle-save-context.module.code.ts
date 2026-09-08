@@ -30,7 +30,7 @@ function devTestUserCreds(): { email: string; password: string } | null {
 }
 
 function devSupabaseUrl(): string {
-  const url = readEnv("SUPABASE_URL") ?? readEnv("NEXT_PUBLIC_SUPABASE_URL")
+  const url = readEnv("SUPABASE_URL")
   if (url == null) throw new Error("idle dev test-user: SUPABASE_URL is not set")
   return url
 }

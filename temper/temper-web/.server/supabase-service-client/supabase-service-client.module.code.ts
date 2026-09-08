@@ -11,7 +11,7 @@ let client: SupabaseServiceRoleClient | null = null
 export function getSupabaseServiceClient(): SupabaseServiceRoleClient {
   if (!client) {
     const internalUrl = OPTIONAL_ENV_SCHEMA.parse(process.env.SUPABASE_INTERNAL_URL)
-    const publicUrl = OPTIONAL_ENV_SCHEMA.parse(process.env.NEXT_PUBLIC_SUPABASE_URL)
+    const publicUrl = OPTIONAL_ENV_SCHEMA.parse(import.meta.env.VITE_SUPABASE_URL)
     const url = internalUrl ?? publicUrl
     client = createServiceRoleClient({ url })
   }

@@ -49,7 +49,7 @@ configureLocalPositionReader(isNativeShell() ? readLocalPosition : null)
 
 setErrorReportOrigin("https://alanwalton.com")
 
-setReleaseSha(parseBuildSha(process.env.NEXT_PUBLIC_BUILD_SHA) ?? "")
+setReleaseSha(parseBuildSha(import.meta.env.VITE_BUILD_SHA) ?? "")
 
 const ONLINE_CSP = [
   "default-src 'self'",
