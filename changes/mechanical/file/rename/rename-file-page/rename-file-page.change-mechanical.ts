@@ -59,6 +59,18 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
+      statement: "A page type owning its folder lands in the folder its new plural names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type whose folder already names that plural keeps the folder it has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type renamed with no plural handed in keeps the folder it has.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file the page carries already is carried once rather than a second time.",
     },
     {

@@ -7,7 +7,10 @@ import { slugFor } from "@akasha/pages/page-property-key"
 import ts from "typescript"
 import { typedAs } from "../../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { folderFor } from "../../../../../pages/service/page-composing/page-composing.module.code.ts"
+import {
+  folderFor,
+  namedForThePlural,
+} from "../../../../../pages/service/page-composing/page-composing.module.code.ts"
 import {
   gathered,
   refusing,
@@ -150,11 +153,20 @@ function ownsIn(world: World, held: Held, at: string, beside: readonly Beside[])
   return files.length > 0 && files.every((one) => basename(one).startsWith(opening))
 }
 
+function foldedAs(world: World, held: Held, given: Asked, folder: string): string {
+  if (held.pageTypeSlug !== PAGE_TYPE) {
+    return folderFor(pluralIn(world, held), held.pageTypeSlug, given.to)
+  }
+  const named = basename(folder)
+  if (given.plural === undefined || namedForThePlural(named, given.plural)) return named
+  return given.plural
+}
+
 function landingIn(world: World, held: Held, given: Asked, beside: readonly Beside[]): string {
   const name = `${given.to}.${held.pageTypeSlug}${TYPED}`
   const folder = dirname(given.at)
   if (!ownsIn(world, held, given.at, beside)) return join(folder, name)
-  return join(dirname(folder), folderFor(pluralIn(world, held), held.pageTypeSlug, given.to), name)
+  return join(dirname(folder), foldedAs(world, held, given, folder), name)
 }
 
 const UNDER = "/"

@@ -160,3 +160,52 @@ test("a body spelling a page's old address spells that page's new address", asyn
   expect(said.refused).toBe(null)
   expect(bodiesIn(said, world.base).get(SPELLER_CODE) ?? "").toContain(`"${CARRIED}/one"`)
 })
+
+const OWNED_TYPE = "akasha/days/long-day.page-type.ts"
+
+const OWNED_WORKED = "akasha/days/long-day.page-type.worked.ts"
+
+const OWNED_LANDS = "akasha/days/day.page-type.ts"
+
+const OWNED_PAGE = "akasha/days/pages/one/long-day-one.long-day.ts"
+
+const OWNED_PAGE_LANDS = "akasha/days/pages/one/long-day-one.day.ts"
+
+const OWNED_TYPE_BODY = `export type LongDay = { readonly id: string }
+
+${pageOf({
+  id: idOf("a"),
+  pageTypeSlug: "page-type",
+  slug: "long-day",
+  pluralSlug: "long-days",
+  extendsSlug: ["page-type/page"],
+  worked: "ts",
+})}`
+
+const OWNED_PAGE_BODY = `import type { LongDay } from "../../long-day.page-type.ts"
+
+export const longDayOne = {
+  id: "${idOf("b")}",
+  pageTypeSlug: "long-day",
+  slug: "long-day-one",
+} as const satisfies LongDay
+`
+
+function ownedRepo(): string {
+  return indexedRepo({
+    [OWNED_TYPE]: OWNED_TYPE_BODY,
+    [OWNED_WORKED]: "export type WorkedLongDay = { readonly id: string }\n",
+    [OWNED_PAGE]: OWNED_PAGE_BODY,
+  })
+}
+
+const OWNED_ASKED = { at: OWNED_TYPE, to: "day", plural: "days" }
+
+test("a page type whose folder already names its new plural keeps that folder", async () => {
+  const said = await runChange(worldIn(ownedRepo()), OWNED_ASKED)
+  const paths = pathsIn(said)
+
+  expect(said.refused).toBe(null)
+  expect(paths).toContain(OWNED_LANDS)
+  expect(paths).toContain(OWNED_PAGE_LANDS)
+})
