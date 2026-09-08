@@ -1,13 +1,3 @@
-// Running a retired cluster check refuses and exits. Every retired check calls
-// `refuseRetired()` under `import.meta.main`, so running one says why rather than
-// producing a result.
-//
-// The refusal is a call, not an import side effect. Seventeen of the retired
-// checks also export scanners that live code imports, and a module that exits
-// while being imported ends whatever imported it with nothing said — no stack, no
-// name, no way to catch it. Refusing at call time keeps the guard and costs no
-// reader their run.
-
 const SAID = [
   "",
   "  REFUSED: this is a retired cluster check. It is NOT to be run.",
@@ -29,12 +19,9 @@ const SAID = [
   "  pass or fail over this tree. They can run. They are held because no road",
   "  wakes them.",
   "",
-  "  The checks that do judge this repository are the akasha ones:",
-  "",
-  "    akasha audit          every check that runs at audit, over every file the",
-  "                          akasha folder holds",
-  "    akasha lint <path>    what the linter finds in the paths you name",
-  "    akasha test <path>    the tests beside the code you name",
+  "  The checks that do judge this repository run at a change. The tests, the",
+  "  typecheck and the linter run over what `akasha change` writes, and run again",
+  "  over what `akasha apply` lands.",
   "",
   "  This refusal is not a redirection. Not one rule held here stands as a code",
   "  check: the names under checks/code-checks/pages/ and the names here do",
@@ -46,6 +33,5 @@ const SAID = [
 
 export function refuseRetired(): never {
   process.stderr.write(`${SAID}\n`)
-  // 2 is EXIT_TOOL_ERROR: this is not a clean run and not a violation count.
   process.exit(2)
 }

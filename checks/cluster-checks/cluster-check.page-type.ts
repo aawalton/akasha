@@ -107,6 +107,7 @@ export const clusterCheck = {
     "text-property/request-cpu",
     "text-property/request-memory",
     "text-property/under",
+    "module/retired",
   ],
   properties: [
     {
