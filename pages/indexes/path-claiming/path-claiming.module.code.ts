@@ -4,7 +4,11 @@ import { partsOf, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
 import { slugFor } from "@akasha/pages/page-property-key"
 import { slugOf, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
 import { typeSlugsIn, typeValuesIn } from "../../types/gathering/page-type-gathering.module.code.ts"
-import type { FilePropertiesBy, UncommittedBy } from "../entries/index-entries.module.code.ts"
+import type {
+  FilePropertiesBy,
+  FoldersBy,
+  UncommittedBy,
+} from "../entries/index-entries.module.code.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
 
 const PAGE_TYPE = "page-type"
@@ -72,6 +76,27 @@ export function pathsOf(
 ): readonly string[] {
   const found = filesClaimedIn(value, path, repo, fileProperties, NONE_WITHHELD, there)
   return found.map((one) => one.at)
+}
+
+const NO_FOLDERS: FoldersBy = new Map()
+
+export function foldersClaimedIn(
+  value: Value,
+  path: string,
+  repo: string,
+  folders: FoldersBy
+): readonly string[] {
+  const carried = folders.get(textAt(value, "pageTypeSlug") ?? "")
+  if (carried === undefined) return []
+  const own = under(repo, path)
+  const found: string[] = []
+  for (const [key, held] of Object.entries(value)) {
+    if (held !== true) continue
+    const folderName = carried.get(slugFor(key))
+    if (folderName === undefined) continue
+    found.push(join(dirname(own), folderName))
+  }
+  return found
 }
 
 export type Beside = {
@@ -164,9 +189,13 @@ export function claimsOf(
   repo: string,
   fileProperties: FilePropertiesBy,
   sidecars: SidecarsBy,
-  there: IsThere = () => false
+  there: IsThere = () => false,
+  folders: FoldersBy = NO_FOLDERS
 ): readonly string[] {
-  const found = [...pathsOf(value, path, repo, fileProperties, there)]
+  const found = [
+    ...pathsOf(value, path, repo, fileProperties, there),
+    ...foldersClaimedIn(value, path, repo, folders),
+  ]
   const own = under(repo, path)
   const pageTypeSlug = textAt(value, "pageTypeSlug") ?? ""
   const carried = fileProperties.get(pageTypeSlug)

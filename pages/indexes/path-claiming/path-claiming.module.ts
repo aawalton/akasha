@@ -88,5 +88,18 @@ export const pathClaiming = {
       invariantKind: "absence",
       statement: "Which properties a page type holds in a file is not answered here.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page claims a folder beside the page under the name that folder's property states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page claims a folder only where the page states that the page holds it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A folder a build writes is told apart here from a folder that is not.",
+    },
   ],
 } as const satisfies Module
