@@ -3,9 +3,9 @@ import { akashaRoot } from "@akasha/pages/checkout-roots"
 import {
   envScrubArgv,
   launchModeFlags,
-  scopeArgv,
-  serverOptionArgv,
+  shellQuoted,
   supervisorEntryArgv,
+  underScope,
 } from "../seat-launching/seat-launching.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "../seat-modes/seat-modes.module.code.ts"
 import { removeSubagentPagesOf } from "../subagent-page/subagent-page.module.code.ts"
@@ -79,14 +79,6 @@ export function buildNewSessionArgs(
   ]
 }
 
-export function buildLaunchCmd(
-  newSession: readonly string[],
-  scopeUnit: string | null
-): readonly string[] {
-  if (scopeUnit === null) return ["tmux", ...newSession]
-  return [...scopeArgv(scopeUnit), "tmux", ...serverOptionArgv(), ...newSession]
-}
-
 async function runBounded(cmd: readonly string[]): Promise<TmuxCall> {
   const proc = Bun.spawn({ cmd: [...cmd], stdout: "pipe", stderr: "pipe", env: process.env })
   const timer = setTimeout(() => {
@@ -122,15 +114,21 @@ const INTERRUPTS = 2
 
 const INTERRUPT_SETTLE_MS = 1_500
 
-function shellQuoted(argv: readonly string[]): string {
-  return argv.map((one) => `'${one.replaceAll("'", "'\\''")}'`).join(" ")
-}
-
 async function paneOf(name: string): Promise<string | null> {
   const listed = await tmux(["list-panes", "-t", `=${name}`, "-F", "#{pane_id}"])
   if (listed.code !== 0) return null
   const first = listed.out.split("\n")[0] ?? ""
   return first === "" ? null : first
+}
+
+async function paneIsLive(pane: string): Promise<boolean> {
+  return (await tmux(["display-message", "-p", "-t", pane, "#{pane_dead}"])).out !== "1"
+}
+
+export async function liveSessionHolds(name: string): Promise<boolean> {
+  if (!(await sessionHolds(name))) return false
+  const pane = await paneOf(name)
+  return pane !== null && (await paneIsLive(pane))
 }
 
 export async function holdSeatPaneOpen(name: string): Promise<boolean> {
@@ -220,7 +218,7 @@ export async function launchSeatUnderTmux(opts: LaunchSeatOpts): Promise<LaunchS
 
   const scopeUnit = (await serverIsUp()) ? null : `tmux-seat-${name}-${Date.now()}`
   const cmd = buildSupervisorCmd(akashaRoot(), opts)
-  const launch = buildLaunchCmd(buildNewSessionArgs(opts, cmd), scopeUnit)
+  const launch = underScope(buildNewSessionArgs(opts, cmd), scopeUnit)
 
   const started = await runBounded(launch)
   if (started.code !== 0) {
