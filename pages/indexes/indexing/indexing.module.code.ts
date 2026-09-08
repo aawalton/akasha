@@ -9,7 +9,11 @@ import {
   sourceOver,
 } from "@akasha/pages/page-type-properties"
 import { loadedFrom, type Value, valueAt } from "@akasha/pages/page-value"
-import { pagesTurned } from "../beside-turning/beside-turning.module.code.ts"
+import {
+  pagesElsewhere,
+  pagesStranded,
+  pagesTurned,
+} from "../beside-turning/beside-turning.module.code.ts"
 import { DECLARING_UNDER, declaredOf } from "../declaring/index-declaring.index.code.ts"
 import {
   type Entry,
@@ -38,7 +42,7 @@ import { claimingIn } from "../path/index-path.index.code.ts"
 import { indexPath } from "../path/index-path.index.ts"
 import { sidecarsIn, sidecarsOver, under } from "../path-claiming/path-claiming.module.code.ts"
 import { knownIn } from "../reaching/reaching.module.code.ts"
-import { everyPath, indexThere } from "../reading/index-reading.module.code.ts"
+import { indexThere } from "../reading/index-reading.module.code.ts"
 import {
   type Drift,
   keepWhole,
@@ -223,20 +227,6 @@ function asBuilt(given: Reading): Reading {
   return indexThere(given) ? given : readingNone()
 }
 
-function elsewhereIn(
-  reading: Reading,
-  carried: ReadonlySet<string>,
-  pageOf: (path: string) => Value | null
-): readonly { readonly path: string; readonly value: Value }[] {
-  const said: { readonly path: string; readonly value: Value }[] = []
-  for (const path of everyPath(reading)) {
-    if (carried.has(path)) continue
-    const value = pageOf(path)
-    if (value !== null) said.push({ path, value })
-  }
-  return said
-}
-
 export function settlingOver(
   given: Reading,
   repo: string,
@@ -307,7 +297,8 @@ export function settlingOver(
   const wasIdentifying = identifyingFrom(sourceAmong(before, sourceIn(reading, wasPageOf)))
   const nowIdentifying = identifyingFrom(sourceAmong(left, sourceIn(overSchema, pageOf)))
   const carriedAt = new Set(carried.keys())
-  const elsewhere = turned.size === 0 ? [] : elsewhereIn(reading, carriedAt, pageOf)
+  const elsewhere = pagesElsewhere(reading, turned, carriedAt, pageOf)
+  const stranded = pagesStranded(reading, before, left, carriedAt)
   const identity = filingOf(
     reading,
     [
@@ -315,6 +306,7 @@ export function settlingOver(
         one.was === null ? [] : identityIn(one.was, one.path, repo, wasIdentifying)
       ),
       ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, wasIdentifying, turned)),
+      ...stranded.flatMap((one) => identityIn(one.value, one.path, repo, wasIdentifying)),
     ],
     [
       ...held.flatMap((one) =>

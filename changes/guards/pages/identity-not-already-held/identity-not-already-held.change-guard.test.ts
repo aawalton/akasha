@@ -3,7 +3,12 @@ import { idOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/inde
 import { stating } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  addedTo,
+  ledgerAt,
+  worldAt,
+  worldBefore,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { identityNotAlreadyHeld } from "./identity-not-already-held.change-guard.code.ts"
 
 afterAll(scratch.sweep)
@@ -15,6 +20,16 @@ const HELD = "akasha/one/held.module.ts"
 const AWAY = "akasha/three/held.module.ts"
 
 const FRESH = "akasha/three/fresh.module.ts"
+
+const TYPE_WAS = "akasha/module.page-type.ts"
+
+const TYPE_NOW = "akasha/unit.page-type.ts"
+
+const CARRIED = "akasha/one/held.unit.ts"
+
+const WAS_NAMED = '"module"'
+
+const NOW_NAMED = '"unit"'
 
 const TAKEN = idOf("8")
 
@@ -72,6 +87,31 @@ test("a page the same answer moves to another path is not refused", () => {
       { kind: "add", path: AWAY, content: was },
       { kind: "remove", path: HELD },
     ])
+  )
+
+  expect(said.refused).toBe(null)
+})
+
+test("a page carried after its page type's rename holds its id at one path alone", () => {
+  const root = indexedRepo()
+  const world = ledgerAt(root, textIn(root))
+  addedTo(
+    world,
+    stating([
+      { kind: "move", pathFrom: TYPE_WAS, pathTo: TYPE_NOW },
+      { kind: "replace", path: TYPE_NOW, contentFrom: WAS_NAMED, contentTo: NOW_NAMED },
+    ])
+  )
+  expect(world.index.pageTypesIn().has("unit")).toBe(true)
+
+  const said = guardedBy(
+    world,
+    stating([
+      { kind: "move", pathFrom: HELD, pathTo: CARRIED },
+      { kind: "replace", path: CARRIED, contentFrom: WAS_NAMED, contentTo: NOW_NAMED },
+    ]),
+    GUARDS,
+    worldBefore(world)
   )
 
   expect(said.refused).toBe(null)

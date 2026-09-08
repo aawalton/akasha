@@ -2,7 +2,12 @@ import { expect, test } from "bun:test"
 import { filePropertiesIn } from "../entries/index-entries.module.code.ts"
 import { sidecarsIn } from "../path-claiming/path-claiming.module.code.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
-import { type Besides, besidesTurned, pagesTurned } from "./beside-turning.module.code.ts"
+import {
+  type Besides,
+  besidesTurned,
+  pagesStranded,
+  pagesTurned,
+} from "./beside-turning.module.code.ts"
 
 type Held = Record<string, unknown>
 
@@ -57,6 +62,16 @@ test("a declaration gaining a default turns its page type though the file proper
 
   expect(now.fileProperties.get("base")).toEqual(was.fileProperties.get("base"))
   expect([...besidesTurned(was, now)]).toEqual(["base"])
+})
+
+test("a page type the change leaves naming no page type strands the pages already of it", () => {
+  const trial = aType("trial", ["base"], [])
+
+  expect(pagesStranded(READING, [BLAND], [trial], new Set()).map((one) => one.path)).toEqual([
+    "one.bland.ts",
+  ])
+  expect(pagesStranded(READING, [BLAND], [BLAND], new Set())).toEqual([])
+  expect(pagesStranded(READING, [BLAND], [trial], new Set(["one.bland.ts"]))).toEqual([])
 })
 
 test("a page already of a turned page type is answered, and one the change carries is not", () => {

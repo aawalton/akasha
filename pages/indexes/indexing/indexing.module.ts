@@ -101,6 +101,11 @@ export const indexing = {
     {
       invariantKind: "departure",
       statement:
+        "A change taking a page type's slug away withdraws every page already of that page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The paths a change withdraws are read against the files the page types held before the change.",
     },
     {
