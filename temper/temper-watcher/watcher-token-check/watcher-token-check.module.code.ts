@@ -4,10 +4,6 @@ import { patchPageById } from "@akasha/pages-access/patch"
 
 export const TEMPER_WATCHER_ENROLMENT_SLUG = "temper-watcher-enrolment"
 
-// Every key this module reads off an enrolment row. A key the page type does not
-// declare comes back undefined rather than refusing, so the guards below would
-// turn every caller away and say nothing. The test walks the page type's
-// `extendsSlug` chain and fails on any key here that the chain does not declare.
 export const ENROLMENT_KEYS = ["id", "tokenHash", "accountPage"] as const
 
 const TOKEN_SHAPE = /^wt_[0-9a-f]{64}$/
