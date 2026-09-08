@@ -14,7 +14,7 @@ const AT = "at"
 
 const TO = "to"
 
-const MOVE_FOLDER = "change-agent/move-folder"
+const MOVE_FOLDER = "change-mechanical-folder/move-folder"
 
 const RENAME_PAGE = "change-agent/rename-page"
 
@@ -36,7 +36,7 @@ export async function moveFolderPackage(
     return refusing(`\`${given.at}\` names no \`${PACKAGE}\`, so no folder is carried`)
   }
   const from = dirname(given.at)
-  const carried = await reach(world, MOVE_FOLDER, { at: from, to: given.to })
+  const carried = await reach(world, MOVE_FOLDER, { from, to: given.to })
   if (carried.said.refused !== null) return carried.said
   const named = basename(given.to)
   if (named === parted.slug) return carried.said

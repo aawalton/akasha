@@ -11,7 +11,9 @@ import { runChange as moveFile } from "../../../mechanical/file/move/move-file/m
 import { runChange as moveFileCode } from "../../../mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
+import { runChange as renamePageAddress } from "../../../mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
 import { runChange as renamePageSlug } from "../../../mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
+import { runChange as moveFolderChange } from "../../../mechanical/folder/move/move-folder/move-folder.change-mechanical-folder.code.ts"
 import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   bodiesIn,
@@ -20,7 +22,6 @@ import {
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { runChange as renamePageChange } from "../../file/rename-page/rename-page.change-agent.code.ts"
-import { runChange as moveFolderChange } from "../move-folder/move-folder.change-agent.code.ts"
 import {
   landingFor,
   moveFolderPackage,
@@ -81,10 +82,11 @@ const HELD: Readonly<Record<string, string>> = {
 }
 
 const REACHED = {
-  "change-agent/move-folder": moveFolderChange,
   "change-agent/rename-page": renamePageChange,
+  "change-mechanical-folder/move-folder": moveFolderChange,
   "change-mechanical-file-content/change-imports": changeImports,
   "change-mechanical-file-content/rename-export": renameExport,
+  "change-mechanical-file-content/rename-page-address": renamePageAddress,
   "change-mechanical-file-content/rename-page-slug": renamePageSlug,
   "change-mechanical-file/move-file": moveFile,
   "change-mechanical/move-file-code": moveFileCode,
