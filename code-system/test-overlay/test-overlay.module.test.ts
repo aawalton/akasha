@@ -42,6 +42,25 @@ test("a body carried at a path no file is at is read there", () => {
   expect(said.code).toBe(0)
 })
 
+test("a link carried is made at its path, pointing where the change says", () => {
+  const root = checkout()
+  const said = inside(root, { "deep/four.txt": { linkedTo: "../one.txt" } }, [
+    "cat",
+    "deep/four.txt",
+  ])
+  expect(said.out).toBe("on disk\n")
+  expect(said.code).toBe(0)
+})
+
+test("a link carried beside a folder reaches what that folder holds", () => {
+  const root = checkout()
+  const said = inside(root, { "under/deep": { linkedTo: "../deep" } }, [
+    "cat",
+    "under/deep/two.txt",
+  ])
+  expect(said.out).toBe("deeper on disk\n")
+})
+
 test("a path the change carries no body for is read off the checkout", () => {
   const root = checkout()
   expect(inside(root, { "one.txt": "carried\n" }, ["cat", "deep/two.txt"]).out).toBe(

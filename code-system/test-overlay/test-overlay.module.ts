@@ -26,6 +26,22 @@ export const testOverlay = {
     },
     {
       invariantKind: "departure",
+      statement: "A link the change carries is made at the path that link is filed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link points where the change says rather than where anything here works out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link is read against the folder that link sits in, as any symlink is.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here says which links a change needs.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run under this begins in the mounted tree rather than in the checkout.",
     },
     {

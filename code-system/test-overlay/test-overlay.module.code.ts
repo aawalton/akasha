@@ -1,4 +1,4 @@
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, mkdtempSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, isAbsolute, join, normalize } from "node:path"
 import { ran } from "@akasha/utils/run/running"
 
@@ -31,7 +31,15 @@ const SHIM =
   'while IFS= read -r one; do [ -n "$one" ] && rm -rf "./$one"; done < "$AKASHA_TAKEN"\n' +
   'exec "$@"\n'
 
-export type Bodies = Readonly<Record<string, Uint8Array | string | null>>
+export type Link = { readonly linkedTo: string }
+
+export type Body = Uint8Array | string | Link | null
+
+export type Bodies = Readonly<Record<string, Body>>
+
+export function linked(body: Body): body is Link {
+  return body !== null && typeof body !== "string" && !(body instanceof Uint8Array)
+}
 
 export type Overlay = {
   readonly merged: string
@@ -68,7 +76,8 @@ export function mountedOver(root: string, bodies: Bodies): Overlay {
       }
       const at = join(upper, one)
       mkdirSync(dirname(at), { recursive: true })
-      writeFileSync(at, body)
+      if (linked(body)) symlinkSync(body.linkedTo, at)
+      else writeFileSync(at, body)
     }
     const listed = join(held, TAKEN)
     writeFileSync(listed, taken.map((one) => `${one}\n`).join(""))
