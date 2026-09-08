@@ -1,9 +1,9 @@
 import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
-export const changePageProperty = {
+export const changePagePageProperty = {
   id: "01a07932-2568-7c41-8097-885a9fc34263",
   pageTypeSlug: "change-agent",
-  slug: "change-page-property",
+  slug: "change-page-page-property",
   changeModeSlug: "change-mode-change",
   definition:
     "one property of one page stated anew, by the mechanical change fitting that property",
