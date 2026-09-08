@@ -191,6 +191,7 @@ export const clusterCheck = {
     "module/porcelain-status-boundary",
     "module/process-start",
     "module/properties-file-key-space",
+    "module/repo-files",
   ],
   properties: [
     {
