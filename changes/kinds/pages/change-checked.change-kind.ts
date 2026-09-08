@@ -1,11 +1,4 @@
-import type { Change } from "../../change.page-type.ts"
 import type { ChangeKind } from "../change-kind.page-type.ts"
-
-export type ChangeChecked = Change & {
-  runsChecks: true
-  readersOweReading: false
-  writerOwesReading: false
-}
 
 export const changeChecked = {
   id: "01a0725c-56f6-7761-b210-d08f0ff70c22",
