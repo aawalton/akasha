@@ -10,6 +10,6 @@ export const changeMechanicalFileAdd = {
     "change-mechanical-file/add-file-code",
     "change-mechanical-file/add-file-page",
     "change-mechanical-file/add-file-page-type",
-    "change-mechanical-file/add-file-page-property",
+    "change-mechanical/add-file-page-property",
   ],
 } as const satisfies Domain
