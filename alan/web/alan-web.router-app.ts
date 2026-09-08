@@ -13,6 +13,8 @@ export const alanWeb = {
   routerConfig: "ts",
   compileConfig: "json",
   viteConfig: "ts",
+  server: "ts",
+  sidebarBoot: "js",
   partSlugs: [
     "manifest/alanwalton-web",
     "stylesheet/alan-web-look",
