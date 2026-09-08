@@ -60,6 +60,7 @@ export const luaCompiler = {
     "lualib/uri-error",
     "lualib/function-bind",
     "lualib/instance-of-object",
+    "lualib/lua-iterator-spread",
     "lualib/math-atan2",
     "lualib/object-assign",
     "lualib/object-entries",
