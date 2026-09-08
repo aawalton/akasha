@@ -7,13 +7,6 @@ export const wakeDay20260820 = {
   title: "@date:2026-08-20",
   date: "2026-08-20",
   version: "3.0",
-  personaDays: [
-    "01a01eb8-7e3f-7ddb-8d67-ddaccce320e8",
-    "01a01eb8-ab51-7610-a12e-bd893d56f191",
-    "01a01eb8-eb5d-7ba3-b763-7c4e5187f79f",
-    "01a01eb8-f9c2-7622-87cb-659c116a2dc4",
-    "01a01eba-2be6-7d02-8f4e-2744ad23cf14",
-  ],
   healthPoints: 3.2921,
   taskPoints: 0,
   faithPoints: 1.6042,

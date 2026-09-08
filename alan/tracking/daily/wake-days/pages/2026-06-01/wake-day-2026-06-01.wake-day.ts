@@ -7,7 +7,6 @@ export const wakeDay20260601 = {
   title: "@date:2026-06-01",
   date: "2026-06-01",
   version: "3.0",
-  personaDays: ["019f1a1f-040b-7a30-9af2-b0237b57f04b"],
   wealthPoints: 5.625,
   spannedFromDayBoundary: true,
 } as const satisfies WakeDay

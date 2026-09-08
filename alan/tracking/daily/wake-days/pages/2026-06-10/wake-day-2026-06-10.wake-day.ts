@@ -8,11 +8,6 @@ export const wakeDay20260610 = {
   date: "2026-06-10",
   version: "3.0",
   safetyLevel: "2",
-  personaDays: [
-    "019f0e85-d3f5-77da-9ad8-ed6591aec2e3",
-    "019f18d0-cc9e-7756-9279-1f8ff7ddaf74",
-    "019f1a1f-b6eb-777a-bec3-7fa8eaa19a6c",
-  ],
   healthPoints: 0,
   taskPoints: 0,
   wealthPoints: 1.25,
