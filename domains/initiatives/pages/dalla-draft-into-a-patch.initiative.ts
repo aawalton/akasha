@@ -20,7 +20,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
       workingMemory:
-        "`apply-running:25` declares the apply's run as `{ checks: true, writerOwesReading: false, readersOweReading: true }`, and `applying:252` runs `warrantedAgain` only where `writerOwesReading` is true, so an apply runs the checks and no warrant. The warrant runs earlier, at `asking:255` and `file-arguing:276`, both reaching `unwarrantedIn` in `warrant-owing`. What is left is for the apply to warrant what its own changes call for.",
+        "`apply-running:25` hands `applying` a flat `{ checks: true, writerOwesReading: false, readersOweReading: true }`, and `applying:260` warrants only where `writerOwesReading` is true, so an apply runs the checks and no warrant. The data is there and thrown away: `edits-keeping:36-43` reads both fields off each change and keeps them on the row. What is left is for the apply to read the rows it folds rather than a constant. That refuses landings nothing refuses today, so Alan settles it first.\n",
     },
     {
       statement:
