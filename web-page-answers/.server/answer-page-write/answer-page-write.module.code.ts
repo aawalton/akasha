@@ -3,7 +3,7 @@ import { getUser } from "@akasha/supabase-rr/auth-server"
 
 let named: string | null = null
 
-function namedOnce(writer: string): void {
+function namedOnce(writer: string): undefined {
   if (named === writer) return
   writesAs(writer)
   named = writer
