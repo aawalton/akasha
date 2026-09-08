@@ -31,7 +31,7 @@ const A_MINUTE = 60000
 const ALL = "--all"
 const BUILD_ONLY = "--build-only"
 const WATCH = "--watch"
-const TAKING_A_VALUE = ["--code-root", "--tstl-root"]
+const TAKING_A_VALUE = ["--code-root", "--compiler-root"]
 const TAKING_NOTHING = [ALL, BUILD_ONLY, WATCH]
 
 const INSTALLED_BY = "temper-addon-install"
