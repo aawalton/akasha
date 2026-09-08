@@ -13,5 +13,10 @@ export const changeMechanicalFileRemove = {
     "change-mechanical/remove-file-of-any-kind",
     "change-mechanical/remove-file-page-property",
   ],
-  invariants: [],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "This family holds a rung at every file kind the add family holds one at.",
+    },
+  ],
 } as const satisfies Domain
