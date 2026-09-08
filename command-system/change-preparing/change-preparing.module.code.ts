@@ -6,6 +6,7 @@ import type { FileEdit, Refused } from "../landing/landing.module.code.ts"
 import { changeOf } from "../landing/landing.module.code.ts"
 import { lockingFor } from "../manifest-locking/manifest-locking.module.code.ts"
 import type { FileCarry } from "../path-carrying/path-carrying.module.code.ts"
+import { steppedFor } from "../spacing-stepping/spacing-stepping.module.code.ts"
 import { workedFor } from "../worked-typing/worked-typing.module.code.ts"
 
 export type Formatting = {
@@ -52,11 +53,12 @@ export function preparing(
   const change = changeOf(root, { base, edits: formatting.changes, carries })
   const worked = workedFor(change)
   const mapped = mappedFor(change)
-  const added = [...locking.edits, ...worked.edits, ...mapped.edits]
+  const stepped = steppedFor(change)
+  const added = [...locking.edits, ...worked.edits, ...mapped.edits, ...stepped.edits]
   return {
     formatting,
     changes: added.length === 0 ? formatting.changes : [...formatting.changes, ...added],
-    said: [...locking.said, ...worked.said, ...mapped.said],
+    said: [...locking.said, ...worked.said, ...mapped.said, ...stepped.said],
     over: added.length === 0 ? change : null,
   }
 }

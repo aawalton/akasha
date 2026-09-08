@@ -50,12 +50,16 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
+      statement: "The spacing steps are worked out before the hold is taken alongside those four.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every road that lands works those three out through one step here.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The worked type and the address map are worked out over one change rather than one each.",
+        "The worked type, the address map and the spacing steps are worked out over one change.",
     },
     {
       invariantKind: "departure",

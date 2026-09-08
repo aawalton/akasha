@@ -12,8 +12,13 @@ export const spacing = {
       statement: "Every gap a tile leaves is one step among these steps.",
     },
     {
-      invariantKind: "constraint",
-      statement: "Each step is the pixels of the same-named spacing token in tokens.css.",
+      invariantKind: "departure",
+      statement:
+        "This Swift is written by the landing from the spacing tokens the stylesheet states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No author writes this Swift by hand.",
     },
     {
       invariantKind: "departure",
