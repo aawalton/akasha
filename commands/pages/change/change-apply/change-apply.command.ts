@@ -8,7 +8,7 @@ export const changeApply = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-mechanical",
-  timeout: 30,
+  timeout: 900,
   helpNotes: [
     "an apply naming no change lands the edits already kept beside this agent's page.",
     "an apply naming a change answers that change first, then lands every edit kept.",
@@ -117,6 +117,11 @@ export const changeApply = {
     {
       invariantKind: "departure",
       statement: "An apply a change reached is recorded as a run of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An apply is allowed the seconds its checks take over the largest change a folder move makes.",
     },
   ],
 } as const satisfies Command
