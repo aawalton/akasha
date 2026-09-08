@@ -1,5 +1,8 @@
-import type { Rgb } from "../surface-color/surface-color.module.code.ts"
+import { chalk } from "../../colors/pages/chalk.color.ts"
+import { silver } from "../../colors/pages/silver.color.ts"
+import { stone } from "../../colors/pages/stone.color.ts"
+import { type Rgb, srgbOf } from "../surface-color/surface-color.module.code.ts"
 
-export const TEXT_PRIMARY: Rgb = [0.8442, 0.8442, 0.8442]
-export const TEXT_SECONDARY: Rgb = [0.6447, 0.6447, 0.6447]
-export const TEXT_TERTIARY: Rgb = [0.4561, 0.4561, 0.4561]
+export const TEXT_PRIMARY: Rgb = srgbOf(chalk.hex)
+export const TEXT_SECONDARY: Rgb = srgbOf(silver.hex)
+export const TEXT_TERTIARY: Rgb = srgbOf(stone.hex)

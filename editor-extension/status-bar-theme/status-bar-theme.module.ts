@@ -10,7 +10,11 @@ export const statusBarTheme = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A color here is written as a hex triplet.",
+      statement: "A color here is read from the color page of that color as a hex triplet.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A separator takes the plain grey the palette states.",
     },
     {
       invariantKind: "departure",

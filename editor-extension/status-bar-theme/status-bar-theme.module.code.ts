@@ -1,5 +1,9 @@
-export const SEPARATOR_HEX = "#888888"
+import { blue } from "../../design/colors/pages/blue.color.ts"
+import { grey } from "../../design/colors/pages/grey.color.ts"
+import { purple } from "../../design/colors/pages/purple.color.ts"
+
+export const SEPARATOR_HEX = grey.hex
 export const SEPARATOR_GLYPH = "|"
 
-export const BLUE_HEX = "#2c5a9d"
-export const PURPLE_HEX = "#7c4ca3"
+export const BLUE_HEX = blue.hex
+export const PURPLE_HEX = purple.hex

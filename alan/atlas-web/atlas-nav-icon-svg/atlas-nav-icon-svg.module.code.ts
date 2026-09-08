@@ -1,7 +1,8 @@
 import { resolveIconName } from "@akasha/pages-core/icon"
 import dynamicIconImports from "lucide-react/dynamicIconImports"
+import { yellow } from "../../../design/colors/pages/yellow.color.ts"
 
-export const NAV_ICON_ACCENT = "oklch(0.63 0.13 73)"
+export const NAV_ICON_ACCENT = yellow.hex
 
 type IconKey = keyof typeof dynamicIconImports
 

@@ -1,10 +1,10 @@
 :root {
   color-scheme: dark;
-  --surface-0: oklch(0.07 0 0);
-  --surface-1: oklch(0.19 0 0);
-  --surface-2: oklch(0.25 0 0);
-  --surface-3: oklch(0.3 0 0);
-  --surface-4: oklch(0.35 0 0);
+  --surface-0: #010101;
+  --surface-1: #141414;
+  --surface-2: #222222;
+  --surface-3: #2e2e2e;
+  --surface-4: #3a3a3a;
 
   --shadow-xs: 0 1px 2px 0 oklch(from var(--surface-0) l c h / 0.45);
   --shadow-sm: 0 1px 3px oklch(from var(--surface-0) l c h / 0.4);
@@ -17,16 +17,16 @@
   --state-disabled-content: 0.38;
   --state-disabled-container: 0.12;
 
-  --primary: oklch(0.88 0 0);
-  --secondary: oklch(0.72 0 0);
-  --tertiary: oklch(0.56 0 0);
+  --primary: #d7d7d7;
+  --secondary: #a4a4a4;
+  --tertiary: #747474;
 
-  --green: oklch(0.57 0.12 155);
-  --blue: oklch(0.47 0.12 258);
-  --purple: oklch(0.51 0.14 308);
-  --yellow: oklch(0.63 0.13 73);
-  --orange: oklch(0.58 0.15 50);
-  --red: oklch(0.47 0.17 19);
+  --green: #2d8c57;
+  --blue: #2c5a9d;
+  --purple: #7c4ca3;
+  --yellow: #b87b11;
+  --orange: #be5a0a;
+  --red: #a51c32;
 
   --radius: 0.5rem;
 

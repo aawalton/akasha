@@ -13,6 +13,14 @@ export const designTokens = {
       statement: "Every color here is mirrored by a custom property `tokens.css` declares.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every tuple here is worked out from the hex a color page states.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No color is written out here.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here names the use of any color.",
     },
