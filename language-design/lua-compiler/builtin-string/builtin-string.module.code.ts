@@ -206,9 +206,10 @@ export function transformStringPrototypeCall(
     case "padEnd":
       return transformLuaLibFunction(context, LuaLibFeature.StringPadEnd, node, caller, ...params)
     case "toString":
-      return
+      return undefined
     default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "string", expressionName))
+      return undefined
   }
 }
 
@@ -234,6 +235,7 @@ export function transformStringConstructorMethodCall(
 
     default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "String", expressionName))
+      return undefined
   }
 }
 
@@ -260,6 +262,7 @@ export function transformStringProperty(
     }
     default:
       context.addDiagnostic(unsupportedProperty(node.name, "string", node.name.text))
+      return undefined
   }
 }
 
