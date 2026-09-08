@@ -339,5 +339,6 @@ export const temperWeb = {
     "route/api-items",
     "route/api-items-search",
     "route/api-cli-link-mint",
+    "route/api-watcher-version",
   ],
 } as const satisfies RouterApp
