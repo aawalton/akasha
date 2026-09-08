@@ -4,14 +4,14 @@ export const proseRouting = {
   id: "01a0687f-ed12-7000-9465-97c4c88eb633",
   pageTypeSlug: "module",
   slug: "prose-routing",
-  definition: "the file route beside a flag that takes prose, so a shell need not carry it",
+  definition: "the file route beside a flag that takes prose, so a shell need not have it",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement:
-        "A flag carrying prose gains a route flag named for that prose flag with `-file` on the end.",
+        "A flag with prose gains a route flag named for that prose flag with `-file` on the end.",
     },
     {
       invariantKind: "departure",

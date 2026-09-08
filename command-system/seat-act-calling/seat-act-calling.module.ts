@@ -22,7 +22,7 @@ export const seatActCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal from a wrapped act carries the exit code that act's error states.",
+      statement: "A refusal from a wrapped act has the exit code that act's error states.",
     },
     {
       invariantKind: "absence",

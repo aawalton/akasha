@@ -4,7 +4,7 @@ export const workedTyping = {
   id: "01a07672-9764-7d20-8eb7-55cab242cfa3",
   pageTypeSlug: "module",
   slug: "worked-typing",
-  definition: "the type carrying a page type's calculations beside its stored keys, written again",
+  definition: "the type with a page type's calculations beside its stored keys, written again",
   code: "ts",
   test: "ts",
   invariants: [
@@ -20,7 +20,7 @@ export const workedTyping = {
     {
       invariantKind: "departure",
       statement:
-        "What a change could turn is read from the names of the paths it carries and the pages at them.",
+        "What a change could turn is read from the names of the paths it has and the pages at them.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const workedTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type carrying no calculation is given no file.",
+      statement: "A page type with no calculation is given no file.",
     },
     {
       invariantKind: "departure",

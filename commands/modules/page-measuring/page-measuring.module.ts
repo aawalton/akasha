@@ -27,7 +27,7 @@ export const pageMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A property is counted under the page type its name carries.",
+      statement: "A property is counted under the page type its name has.",
     },
     {
       invariantKind: "departure",

@@ -80,7 +80,7 @@ export const piping = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carrying a run the payload did not name is a line of the passage.",
+      statement: "A line with a run the payload did not name is a line of the passage.",
     },
     {
       invariantKind: "departure",
@@ -89,7 +89,7 @@ export const piping = {
     {
       invariantKind: "departure",
       statement:
-        "A marker carrying `mid-line` ends the passage before that marker without that newline.",
+        "A marker with `mid-line` ends the passage before that marker without that newline.",
     },
     {
       invariantKind: "departure",
@@ -102,7 +102,7 @@ export const piping = {
     },
     {
       invariantKind: "departure",
-      statement: "A passage carrying no trailing newline is left as that passage is.",
+      statement: "A passage with no trailing newline is left as that passage is.",
     },
     {
       invariantKind: "departure",

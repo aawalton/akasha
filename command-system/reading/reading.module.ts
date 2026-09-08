@@ -14,11 +14,11 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the path read.",
+      statement: "A line has the path read.",
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the object id of the body read.",
+      statement: "A line has the object id of the body read.",
     },
     {
       invariantKind: "departure",
@@ -26,12 +26,12 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the object id a carry left.",
+      statement: "A line has the object id a carry left.",
     },
     {
       invariantKind: "stopgap",
       statement:
-        "A line written before the carried oid was named carries that oid under `mechanicalOid`.",
+        "A line written before the carried oid was named has that oid under `mechanicalOid`.",
     },
     {
       invariantKind: "departure",

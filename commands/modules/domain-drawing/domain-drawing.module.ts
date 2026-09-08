@@ -10,7 +10,7 @@ export const domainDrawing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A domain is a page of the `domain` page type rather than a page carrying a slug.",
+      statement: "A domain is a page of the `domain` page type rather than a page with a slug.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const domainDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug named that carries no domain page throws.",
+      statement: "A slug named that has no domain page throws.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const domainDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A thrown reason is handed back as a refusal carrying that reason.",
+      statement: "A thrown reason is handed back as a refusal with that reason.",
     },
     {
       invariantKind: "absence",

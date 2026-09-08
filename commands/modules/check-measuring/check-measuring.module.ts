@@ -27,11 +27,11 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A record's run is the run id that record carries.",
+      statement: "A record's run is the run id that record has.",
     },
     {
       invariantKind: "departure",
-      statement: "A record carrying no run id belongs to no run.",
+      statement: "A record with no run id belongs to no run.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "Runs are ranked by the latest moment any record of that run carries.",
+      statement: "Runs are ranked by the latest moment any record of that run has.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +63,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A record carrying no run id is counted where a period was named.",
+      statement: "A record with no run id is counted where a period was named.",
     },
     {
       invariantKind: "departure",
@@ -141,7 +141,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch run judges the paths a change carries.",
+      statement: "A patch run judges the paths a change has.",
     },
     {
       invariantKind: "departure",

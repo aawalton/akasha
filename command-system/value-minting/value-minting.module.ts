@@ -19,12 +19,12 @@ export const valueMinting = {
     {
       invariantKind: "departure",
       statement:
-        "The world is read only where the change could carry a page being created or an entry arriving.",
+        "The world is read only where the change could have a page being created or an entry arriving.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Whether a change carries either is read from the names of its paths and the bodies it carries.",
+        "Whether a change carries either is read from the names of its paths and the bodies it has.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const valueMinting = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carrying no object is left alone.",
+      statement: "A line with no object is left alone.",
     },
     {
       invariantKind: "departure",

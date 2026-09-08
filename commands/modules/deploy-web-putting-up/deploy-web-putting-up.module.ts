@@ -43,7 +43,7 @@ export const deployWebPuttingUp = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing is applied and nothing is built before origin main carries the commit.",
+      statement: "Nothing is applied and nothing is built before origin main has the commit.",
     },
     {
       invariantKind: "departure",

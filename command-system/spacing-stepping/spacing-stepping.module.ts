@@ -19,7 +19,7 @@ export const spacingStepping = {
     },
     {
       invariantKind: "departure",
-      statement: "What a change could turn is read from the names of the paths it carries.",
+      statement: "What a change could turn is read from the names of the paths it has.",
     },
     {
       invariantKind: "departure",

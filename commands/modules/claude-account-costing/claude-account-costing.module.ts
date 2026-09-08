@@ -10,7 +10,7 @@ export const claudeAccountCosting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A call is counted once however many transcripts carry that call.",
+      statement: "A call is counted once however many transcripts have that call.",
     },
     {
       invariantKind: "departure",

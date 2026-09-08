@@ -14,7 +14,7 @@ export const dayLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A reader reaches a stretch through the declaration its day page carries.",
+      statement: "A reader reaches a stretch through the declaration its day page has.",
     },
     {
       invariantKind: "departure",

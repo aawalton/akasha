@@ -14,7 +14,7 @@ export const deployKindReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A web app page is found by the suffix its filename carries.",
+      statement: "A web app page is found by the suffix its filename has.",
     },
     {
       invariantKind: "departure",
@@ -38,11 +38,11 @@ export const deployKindReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug both kinds carry is refused rather than chosen between.",
+      statement: "A slug both kinds have is refused rather than chosen between.",
     },
     {
       invariantKind: "departure",
-      statement: "A slug neither kind carries is refused by naming the slugs each kind has.",
+      statement: "A slug neither kind has is refused by naming the slugs each kind has.",
     },
     {
       invariantKind: "departure",

@@ -4,7 +4,7 @@ export const flagArguing = {
   id: "01a08210-304b-74bd-95f9-7f1105af1da7",
   pageTypeSlug: "module",
   slug: "flag-arguing",
-  definition: "the value a flag carries, read off the command line",
+  definition: "the value a flag has, read off the command line",
   code: "ts",
   test: "ts",
   invariants: [
@@ -14,7 +14,7 @@ export const flagArguing = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag ending in `-file` routes only where the flag it names carries prose.",
+      statement: "A flag ending in `-file` routes only where the flag it names has prose.",
     },
     {
       invariantKind: "departure",

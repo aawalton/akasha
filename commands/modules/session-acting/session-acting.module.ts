@@ -9,7 +9,7 @@ export const sessionActing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The flags a call carries are judged before a day is read.",
+      statement: "The flags a call has are judged before a day is read.",
     },
     {
       invariantKind: "departure",

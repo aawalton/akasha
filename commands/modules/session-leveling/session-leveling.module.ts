@@ -63,11 +63,11 @@ export const sessionLeveling = {
     },
     {
       invariantKind: "departure",
-      statement: "An activity carrying a blank title matches nothing.",
+      statement: "An activity with a blank title matches nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "An activity carrying no finite difficulty matches nothing.",
+      statement: "An activity with no finite difficulty matches nothing.",
     },
     {
       invariantKind: "absence",
