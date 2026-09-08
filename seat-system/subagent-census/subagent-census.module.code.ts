@@ -10,44 +10,12 @@ import {
 } from "../seat-proc-liveness/seat-proc-liveness.module.code.ts"
 import { LOG_AT, SUBAGENTS_AT } from "../subagents/presence/subagent-presence.module.code.ts"
 
-// WHAT ANSWERS FOR A SUBAGENT, AND WHAT ANSWERS FOR NOBODY. A subagent's page is the restart
-// interlock: `standingSubagentsOf` reads the pages on disk, so a page left behind refuses to
-// restart an idle seat and a page taken away too early restarts a seat under a live subagent. The
-// second is the harm worth guarding, so every judgement here is evidence rather than a guess, and
-// anything the evidence does not settle is left alone.
-//
-// THREE THINGS ARE EVIDENCE. A live process acting under the page's agent id proves the subagent
-// is at work. A `take` line in the seat's subagent-presence log proves the take-down ran and the
-// landing dropped it, because that log is written only where a landing refused. No process running
-// as the page's seat proves the seat that would host the subagent is gone. Nothing else is read,
-// and a page's age is read nowhere at all: a page written days ago under a Claude process that has
-// been up longer says nothing about whether the subagent inside it returned.
-//
-// A FOURTH IS EVIDENCE OF LIFE. A seat's transcript names the subagents that seat launched and has
-// not seen return, which is exactly what an acting agent id cannot see: a subagent waiting on the
-// model runs no process to carry one. Those ids arrive as `runningOwn` and lift a page to working.
-//
-// A FIFTH IS EVIDENCE OF AN END, AND IT IS NARROWER THAN THE FOURTH. The same transcript names the
-// subagents it saw start and then saw finish, and those ids arrive as `endedOwn`. What makes an
-// ended id safe to act on is where an id comes from: a transcript learns one from the launch
-// receipt alone. A fold that missed the launch has no id to end, and a fold that missed the end
-// leaves the id running, so a compacted or truncated transcript costs an id rather than inventing
-// one. What is never safe is the absence of a running entry, because that is what a truncated
-// transcript and a finished subagent look like alike, and reading absence as an end would take away
-// a working subagent's page and blind the interlock this whole census is here to keep.
-//
-// LIFE IS ASKED BEFORE AN END. Both readings are asked of the same transcript, and a reader that
-// somehow answers both for one id leaves that id working, because the order below settles it.
-
 const SEAT = "principalSeatName"
 
 const AGENT = "agentId"
 
 const SUFFIX = ".subagent.ts"
 
-// A LINE MAY OPEN WITH THE TIME IT WAS WRITTEN. The presence log stamps every line it writes, and
-// the lines written before it did carry none, so both are read. Anchoring on the stamp alone would
-// have read the whole log as holding no take-down at all the moment the stamp went on.
 const TAKEN = /^(?:\S+ )?subagent-presence: take (\S+) (\S+) — /
 
 export const WORKING = "WORKING"
@@ -119,9 +87,6 @@ export function pagesIn(root: string): readonly SubagentPage[] {
   return pages
 }
 
-// A LOG LINE IS WRITTEN ONLY WHERE A LANDING REFUSED, so every `take` line in it names a subagent
-// whose stop hook fired and whose page did not go. That is a record of the subagent being done
-// rather than an inference from one.
 export function takenDownIn(baseDir: string = supervisorsRootDir()): ReadonlySet<string> {
   const held = new Set<string>()
   let names: readonly string[]
@@ -145,11 +110,6 @@ export function takenDownIn(baseDir: string = supervisorsRootDir()): ReadonlySet
   return held
 }
 
-// A REMOVAL LEANS ON NO COMMAND LINE. `liveAgentPidsFromProc` counts a seat alive only where one of
-// its own processes matches the Claude child or the supervisor pattern, and a pattern that stopped
-// matching would read every seat as gone and take away every page under it. What is asked here is
-// weaker and safer: whether any process at all carries the seat's agent id. A process a seat left
-// behind reads the seat as alive, which leaves its pages undetermined rather than removed.
 function pidsByAgentId(entries: readonly ProcLivenessEntry[]): Map<string, number[]> {
   const byId = new Map<string, number[]>()
   for (const { agentId, pid } of entries) {
@@ -161,9 +121,6 @@ function pidsByAgentId(entries: readonly ProcLivenessEntry[]): Map<string, numbe
   return byId
 }
 
-// WHAT A TRANSCRIPT SAYS IS HANDED IN, as what /proc says is handed in, because reading one opens
-// files outside the repository. A call naming none is a call with no transcript evidence, which
-// judges exactly as this module judged before there was any.
 export function seenIn(
   entries: readonly ProcLivenessEntry[],
   baseDir?: string,
@@ -184,9 +141,6 @@ function judgedOne(page: SubagentPage, seen: Seen): Judged {
   if (pids.length > 0) {
     return { page, verdict: WORKING, pids, why: "a live process acts under this agent id" }
   }
-  // WHAT A TRANSCRIPT SAYS OF LIFE IS ASKED FIRST. Every branch below this one can reach STALE, so
-  // an id the transcript names as still running is answered here and asked nothing further. A page
-  // whose own id is empty is a page no transcript entry could name, and it falls through untouched.
   if (page.own !== "" && seen.runningOwn.has(page.own)) {
     return {
       page,
@@ -195,10 +149,6 @@ function judgedOne(page: SubagentPage, seen: Seen): Judged {
       why: "its seat's transcript names it as a subagent that has not returned",
     }
   }
-  // AND WHAT A TRANSCRIPT SAYS OF AN END IS ASKED SECOND. An id here was seen launched and then
-  // seen to finish, which is the one thing that tells a subagent the model reaped from a subagent
-  // the model is still thinking for. Neither one runs a process, and neither one leaves a take-down
-  // in the log, so without this the two are the same undetermined page for as long as the seat runs.
   if (page.own !== "" && seen.endedOwn.has(page.own)) {
     return {
       page,
