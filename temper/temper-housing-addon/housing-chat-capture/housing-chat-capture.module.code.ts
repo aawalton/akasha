@@ -3,7 +3,7 @@ import "@akasha/temper-eso-types/eso-extra"
 import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/eso-interface-extra-3"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import "@akasha/temper-eso-types/tstl-language-extensions"
 import { getPtfSavedVars, portToFriend } from "../housing-state/housing-state.module.code.ts"
 

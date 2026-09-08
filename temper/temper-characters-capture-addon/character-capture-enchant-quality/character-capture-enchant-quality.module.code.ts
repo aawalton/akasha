@@ -1,4 +1,4 @@
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 export const ENCHANT_SUBTYPE_TO_QUALITY_INDEX: Record<number, number> = {
   [359]: 1,
   [360]: 2,

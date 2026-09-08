@@ -5,7 +5,7 @@ import "@akasha/temper-eso-types/eso-event-manager"
 import "@akasha/temper-eso-types/eso-events"
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/eso-link-handler"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import "../next-boss-global/next-boss-global.module.code.ts"
 
 import { makeUiStrings } from "../next-boss-ui-strings/next-boss-ui-strings.module.code.ts"

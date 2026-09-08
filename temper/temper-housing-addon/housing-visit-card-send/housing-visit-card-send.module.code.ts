@@ -1,7 +1,7 @@
 import "@akasha/temper-eso-types/eso-chat"
 import "@akasha/temper-eso-types/eso-extra"
 import "@akasha/temper-eso-types/eso-functions-01"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import { portToFriend } from "../housing-state/housing-state.module.code.ts"
 
 interface HouseEditboxView {

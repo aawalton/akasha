@@ -4,7 +4,7 @@ import "@akasha/temper-eso-types/eso-functions-02"
 import "@akasha/temper-eso-types/eso-functions-08"
 import "@akasha/temper-eso-types/eso-functions-09"
 import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import { portToFriend } from "../housing-state/housing-state.module.code.ts"
 
 interface EditboxControl {

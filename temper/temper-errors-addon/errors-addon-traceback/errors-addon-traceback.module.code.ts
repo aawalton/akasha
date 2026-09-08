@@ -1,4 +1,4 @@
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import { CALLSTACK_MAX_LEN } from "../errors-addon-limits/errors-addon-limits.module.code.ts"
 
 export function matchedText(matched: unknown): string | null {

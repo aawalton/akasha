@@ -73,7 +73,7 @@ export const temperEsoTypes = {
     "type-declaration/eso-writ-slash",
     "type-declaration/eso-writ-smithing",
     "type-declaration/eso-writ-tooltip",
-    "type-declaration/tstl-eso-sandbox",
+    "type-declaration/eso-lua-sandbox",
     "type-declaration/tstl-language-extensions",
     "type-declaration/eso-interface-extra",
     "type-declaration/eso-interface-extra-2",

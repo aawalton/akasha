@@ -1,4 +1,4 @@
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 
 export function requireNumericKey(s: string, label?: string): number {
   const n = tonumber(s)

@@ -17,7 +17,7 @@ import "@akasha/temper-eso-types/eso-objects-02"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import type { BarContext } from "@akasha/temper-items-filters-addon/filter-bar-controls"
 import {
   buildMultiselectEditor,

@@ -1,7 +1,7 @@
 import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-functions-04"
 import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 
 import { GREEN, RED, RESET } from "../next-boss-colors/next-boss-colors.module.code.ts"
 import {

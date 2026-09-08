@@ -16,7 +16,7 @@ import "@akasha/temper-eso-types/eso-ttc"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import "../trading-globals/trading-globals.module.code.ts"
 
 import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"

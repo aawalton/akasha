@@ -2,7 +2,7 @@ import "@akasha/temper-eso-types/eso-enums-17"
 import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-3"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import { portToFriend } from "../housing-state/housing-state.module.code.ts"
 
 let UNIQUE_NAME_COUNTER = 0

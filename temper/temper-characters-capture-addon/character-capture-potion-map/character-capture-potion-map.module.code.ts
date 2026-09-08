@@ -1,4 +1,4 @@
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 export const POTION_ITEM_ID_TO_INDEX: Record<number, number> = {
   [64710]: 1,
   [112427]: 2,

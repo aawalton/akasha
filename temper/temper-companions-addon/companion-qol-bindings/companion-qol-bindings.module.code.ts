@@ -3,7 +3,7 @@ import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import { asNumber, asRecord } from "../companion-qol-casts/companion-qol-casts.module.code.ts"
 import { FCOCO } from "../companion-qol-state/companion-qol-state.module.code.ts"
 

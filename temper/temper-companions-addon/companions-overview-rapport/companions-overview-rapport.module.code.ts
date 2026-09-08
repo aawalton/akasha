@@ -4,7 +4,7 @@ import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-functions-07"
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/eso-string-ids"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 let cachedMaxRapport: number | undefined
 
 function getMaxRapport(): number {

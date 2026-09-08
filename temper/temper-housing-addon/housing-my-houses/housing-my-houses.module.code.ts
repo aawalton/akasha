@@ -2,7 +2,7 @@ import "@akasha/temper-eso-types/eso-enums-17"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import { portToFriend } from "../housing-state/housing-state.module.code.ts"
 import type { SortedMyHouse } from "../housing-types/housing-types.module.code.ts"
 

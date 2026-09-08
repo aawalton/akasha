@@ -1,6 +1,6 @@
 import "@akasha/temper-eso-types/eso-event-manager"
 import "@akasha/temper-eso-types/eso-events"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import { ADDON_NAME } from "../errors-addon-limits/errors-addon-limits.module.code.ts"
 import { captureError } from "../errors-addon-record/errors-addon-record.module.code.ts"
 

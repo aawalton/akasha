@@ -5,7 +5,7 @@ import "@akasha/temper-eso-types/eso-extra"
 import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-functions-08"
 import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import "../housing-ptf-publish/housing-ptf-publish.module.code.ts"
 
 import "../housing-chat-capture/housing-chat-capture.module.code.ts"

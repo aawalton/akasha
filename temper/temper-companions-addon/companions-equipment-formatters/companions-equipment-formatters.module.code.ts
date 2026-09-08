@@ -3,7 +3,7 @@ import "@akasha/temper-eso-types/eso-enums-07"
 import "@akasha/temper-eso-types/eso-enums-08"
 import "@akasha/temper-eso-types/eso-enums-11"
 import "@akasha/temper-eso-types/eso-functions-08"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import {
   ARMOR_WEIGHT_NAMES,
   QUALITY_COLORS,

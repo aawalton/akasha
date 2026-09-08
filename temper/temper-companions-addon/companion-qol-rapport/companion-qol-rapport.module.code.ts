@@ -5,7 +5,7 @@ import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-functions-07"
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/eso-ui"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 import { FCOCO } from "../companion-qol-state/companion-qol-state.module.code.ts"
 
 function createRapportValueLabel(

@@ -1,5 +1,5 @@
 import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/tstl-eso-sandbox"
+import "@akasha/temper-eso-types/eso-lua-sandbox"
 
 import { createCommandRegistry } from "../hud-addon-command-registry/hud-addon-command-registry.module.code.ts"
 import type { TemperCommand } from "../hud-addon-types/hud-addon-types.module.code.ts"
