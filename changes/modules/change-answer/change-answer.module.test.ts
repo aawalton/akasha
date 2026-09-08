@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { type BodyOf, expanded, gathered, narrowed, widened } from "./change-answer.module.code.ts"
-import type { Answer, Edit, Stated } from "./change-answer.module.types.ts"
+import { type BodyOf, expanded, gathered, narrowed, replayed } from "./change-answer.module.code.ts"
+import type { Edit, Stated } from "./change-answer.module.types.ts"
 
 const AT = "akasha/one/held.ts"
 
@@ -130,17 +130,12 @@ test("an edit stating nothing about reading answers an edit stating nothing", ()
   expect(said).not.toHaveProperty("edit.readersOweReading")
 })
 
-test("an answer already refused is answered refused", () => {
-  expect(widened({ edits: [], refused: "no" }, NOTHING)).toEqual({ edits: [], refused: "no" })
-})
+function replaying(edits: readonly Stated[], bodies: Readonly<Record<string, string>>) {
+  return replayed({ edits, refused: null }, holding(bodies))
+}
 
-test("an edit already whole is answered as it was", () => {
-  const one = { path: AT, was: null, body: "one" }
-
-  expect(widened({ edits: [one], refused: null }, NOTHING)).toEqual({
-    edits: [one],
-    refused: null,
-  })
+test("a replay over no edit leaves no body", () => {
+  expect(replaying([], {})).toEqual(new Map())
 })
 
 test("a replace reads the body an add earlier in the answer left", () => {
@@ -149,13 +144,7 @@ test("a replace reads the body an add earlier in the answer left", () => {
     { kind: "replace", path: AT, contentFrom: "two", contentTo: "three" },
   ] as const
 
-  expect(widened({ edits, refused: null }, NOTHING)).toEqual({
-    edits: [
-      { path: AT, was: null, body: "one two" },
-      { path: AT, was: "one two", body: "one three" },
-    ],
-    refused: null,
-  })
+  expect(replaying(edits, {})).toEqual(new Map([[AT, "one three"]]))
 })
 
 test("a replace reads the body a move earlier in the answer landed", () => {
@@ -164,13 +153,12 @@ test("a replace reads the body a move earlier in the answer landed", () => {
     { kind: "replace", path: AT, contentFrom: "one", contentTo: "two" },
   ] as const
 
-  expect(widened({ edits, refused: null }, holding({ [AWAY]: "one" }))).toEqual({
-    edits: [
-      { path: AT, was: "one", body: "one", from: AWAY },
-      { path: AT, was: "one", body: "two" },
-    ],
-    refused: null,
-  })
+  expect(replaying(edits, { [AWAY]: "one" })).toEqual(
+    new Map([
+      [AWAY, null],
+      [AT, "two"],
+    ])
+  )
 })
 
 test("an add onto the path a move earlier in the answer left is answered", () => {
@@ -179,17 +167,16 @@ test("an add onto the path a move earlier in the answer left is answered", () =>
     { kind: "add", path: AWAY, content: "two" },
   ] as const
 
-  expect(widened({ edits, refused: null }, holding({ [AWAY]: "one" }))).toEqual({
-    edits: [
-      { path: AT, was: "one", body: "one", from: AWAY },
-      { path: AWAY, was: null, body: "two" },
-    ],
-    refused: null,
-  })
+  expect(replaying(edits, { [AWAY]: "one" })).toEqual(
+    new Map([
+      [AWAY, "two"],
+      [AT, "one"],
+    ])
+  )
 })
 
-function rounded(one: Edit, bodies: Readonly<Record<string, string>>): Answer {
-  return gathered([widened({ edits: narrowed(one), refused: null }, holding(bodies))])
+function rounded(one: Edit, bodies: Readonly<Record<string, string>>) {
+  return replaying(narrowed(one), bodies)
 }
 
 test("a write onto a path holding nothing narrows to an add", () => {
@@ -245,17 +232,14 @@ test("an edit worked out from no body naming a path moved from and stating no bo
   expect(narrowed({ path: AT, was: null, body: null, from: AWAY })).toEqual([])
 })
 
-test("an edit worked out from no body and stating no body is answered rather than refused", () => {
-  expect(rounded({ path: AT, was: null, body: null }, {})).toEqual({ edits: [], refused: null })
+test("an edit worked out from no body and stating no body leaves no body rather than refusing", () => {
+  expect(rounded({ path: AT, was: null, body: null }, {})).toEqual(new Map())
 })
 
-test("an edit worked out from no body naming a path moved from is answered as an add", () => {
+test("an edit worked out from no body naming a path moved from leaves the body as an add", () => {
   const one = { path: AT, was: null, body: "one", from: AWAY }
 
-  expect(rounded(one, {})).toEqual({
-    edits: [{ path: AT, was: null, body: "one" }],
-    refused: null,
-  })
+  expect(rounded(one, {})).toEqual(new Map([[AT, "one"]]))
 })
 
 test("the reading an edit states is carried onto what that edit narrows to", () => {
@@ -264,84 +248,85 @@ test("the reading an edit states is carried onto what that edit narrows to", () 
   ])
 })
 
-test("a write onto a path holding nothing comes back as it was", () => {
-  const one = { path: AT, was: null, body: "one" }
-
-  expect(rounded(one, {})).toEqual({ edits: [one], refused: null })
+test("a write onto a path holding nothing leaves the body it states", () => {
+  expect(rounded({ path: AT, was: null, body: "one" }, {})).toEqual(new Map([[AT, "one"]]))
 })
 
-test("a write over a body comes back as it was", () => {
+test("a write over a body leaves the body it states", () => {
   const one = { path: AT, was: "one", body: "two" }
 
-  expect(rounded(one, { [AT]: "one" })).toEqual({ edits: [one], refused: null })
+  expect(rounded(one, { [AT]: "one" })).toEqual(new Map([[AT, "two"]]))
 })
 
-test("an edit stating no body comes back as it was", () => {
+test("an edit stating no body leaves no body", () => {
   const one = { path: AT, was: "one", body: null }
 
-  expect(rounded(one, { [AT]: "one" })).toEqual({ edits: [one], refused: null })
+  expect(rounded(one, { [AT]: "one" })).toEqual(new Map([[AT, null]]))
 })
 
-test("a move carrying the body unchanged comes back as it was", () => {
+test("a move carrying the body unchanged leaves the body at the path moved to", () => {
   const one = { path: AT, was: "one", body: "one", from: AWAY }
 
-  expect(rounded(one, { [AWAY]: "one" })).toEqual({ edits: [one], refused: null })
+  expect(rounded(one, { [AWAY]: "one" })).toEqual(
+    new Map([
+      [AWAY, null],
+      [AT, "one"],
+    ])
+  )
 })
 
-test("a move whose body changed comes back as it was", () => {
+test("a move whose body changed leaves the body it states at the path moved to", () => {
   const one = { path: AT, was: "one", body: "two", from: AWAY }
 
-  expect(rounded(one, { [AWAY]: "one" })).toEqual({ edits: [one], refused: null })
+  expect(rounded(one, { [AWAY]: "one" })).toEqual(
+    new Map([
+      [AWAY, null],
+      [AT, "two"],
+    ])
+  )
 })
 
-function joined(edits: readonly Stated[], bodies: Readonly<Record<string, string>>): Answer {
-  return gathered([widened({ edits, refused: null }, holding(bodies))])
-}
-
-test("an add and a replace over one path gather to one add holding the body left", () => {
-  const edits = [
-    { kind: "add", path: AT, content: "one two" },
-    { kind: "replace", path: AT, contentFrom: "two", contentTo: "three" },
-  ] as const
-
-  expect(joined(edits, {})).toEqual({
-    edits: [{ path: AT, was: null, body: "one three" }],
-    refused: null,
-  })
-})
-
-test("two replaces over one path gather to one edit holding the first body and the last", () => {
+test("two replaces over one path leave both passages replaced", () => {
   const edits = [
     { kind: "replace", path: AT, contentFrom: "one", contentTo: "two" },
     { kind: "replace", path: AT, contentFrom: "four", contentTo: "five" },
   ] as const
 
-  expect(joined(edits, { [AT]: "one four" })).toEqual({
-    edits: [{ path: AT, was: "one four", body: "two five" }],
-    refused: null,
-  })
+  expect(replaying(edits, { [AT]: "one four" })).toEqual(new Map([[AT, "two five"]]))
 })
 
-test("an add and a remove over one path gather to an edit holding no body either side", () => {
+test("an add and a remove over one path leave no body", () => {
   const edits = [
     { kind: "add", path: AT, content: "one" },
     { kind: "remove", path: AT },
   ] as const
 
-  expect(joined(edits, {})).toEqual({
-    edits: [{ path: AT, was: null, body: null }],
-    refused: null,
-  })
+  expect(replaying(edits, {})).toEqual(new Map([[AT, null]]))
 })
 
-test("one edit refused refuses the whole answer", () => {
+test("one edit refused refuses the whole replay", () => {
   const edits = [
     { kind: "add", path: AT, content: "one" },
     { kind: "remove", path: AWAY },
   ] as const
 
-  expect(widened({ edits, refused: null }, NOTHING)).toEqual({
-    edits: [],
+  expect(replaying(edits, {})).toEqual({
     refused: `\`${AWAY}\` holds no body, so nothing is taken away`,
   })
+})
+
+test("answers gather to the edits each states in the order they were stated", () => {
+  const one = { kind: "add", path: AT, content: "one" } as const
+  const two = { kind: "remove", path: AWAY } as const
+
+  expect(
+    gathered([
+      { edits: [one], refused: null },
+      { edits: [two], refused: null },
+    ])
+  ).toEqual({ edits: [one, two], refused: null })
+})
+
+test("an answer already refused refuses the gathering", () => {
+  expect(gathered([{ edits: [], refused: "no" }])).toEqual({ edits: [], refused: "no" })
 })
