@@ -31,7 +31,7 @@ export interface LuaCompilerOptions {
   noImplicitSelf?: boolean
   noResolvePaths?: readonly string[]
   sourceMapTraceback?: boolean
-  tstlVerbose?: boolean
+  verbose?: boolean
   lua51AllowTryCatchInAsyncAwait?: boolean
   measurePerformance?: boolean
 }
