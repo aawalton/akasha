@@ -37,6 +37,11 @@ export const nimueCodeCleanup = {
       workingMemory:
         "`change-imports` rewrites a repo-relative path spelled as a string literal, but only in a `.ts` or `.tsx` body, so the 43 `# shellcheck source=code-system/...` directives in the ios app scripts are left naming a folder that is gone. The move visits an outside file only where the import index names it, so a body spelling a moved path without importing it is never reached. `spellingOf` in `path-naming` already scans for those bodies and is called by nothing but its own test.",
     },
+    {
+      statement: "A change carrying a folder repoints the manifest naming that folder.",
+      workingMemory:
+        "`move-folder` reaches `move-file` and `change-imports` and nothing else, so a package's `exports` still names the old path after a move. A draft moving `code-system/utf8-body` refuses, because `alan/track/track-landing` reaches it through `@akasha/code/utf8-body`, which still points at the old folder. `change-manifest-ways` already rewrites a manifest's ways from a moved-path map, and nothing reaches it. The move to `code` escapes this, every way there being spelled against the package root.",
+    },
   ],
   constraints: [
     "The change moving a package's folder is named `move-folder-package`, after the mode, the type and the subtype.",
