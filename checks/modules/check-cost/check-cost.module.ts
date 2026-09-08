@@ -58,6 +58,20 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
+      statement: "A run states how many reads and writes it made and how many bytes it read.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Those counts are read from `/proc/self/io` as the seconds are read from `/proc/self/stat`.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The bytes counted are the bytes a run asked for rather than the bytes a disk fetched.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A line is appended to the last numbered file rather than rewriting that file.",
     },
     {

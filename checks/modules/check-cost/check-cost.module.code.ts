@@ -24,6 +24,8 @@ const STAT = "/proc/self/stat"
 
 const STATUS = "/proc/self/status"
 
+const IO = "/proc/self/io"
+
 export type Cost = {
   readonly runId: string
   readonly ranAt: string
@@ -36,6 +38,9 @@ export type Cost = {
   readonly residentBeforeBytes: number
   readonly peakAddedBytes: number
   readonly peakMeasured: boolean
+  readonly readCalls: number
+  readonly writeCalls: number
+  readonly readBytes: number
   readonly pathsChanged: number
   readonly refusals: number
 }
@@ -45,6 +50,9 @@ export type Taken = {
   readonly childCpu: number
   readonly peak: number
   readonly resident: number
+  readonly readCalls: number
+  readonly writeCalls: number
+  readonly readBytes: number
   readonly measured: boolean
   readonly at: number
 }
@@ -87,6 +95,23 @@ function marksNow(): { readonly peak: number; readonly resident: number } {
   return { peak: bytesIn(status, "VmHWM"), resident: bytesIn(status, "VmRSS") }
 }
 
+export function countIn(io: string, named: string): number {
+  for (const line of io.split("\n")) {
+    if (!line.startsWith(`${named}:`)) continue
+    const found = /(\d+)/.exec(line)
+    return found === null ? 0 : Number(found[1])
+  }
+  return 0
+}
+
+type Reading = { readonly reads: number; readonly writes: number; readonly bytes: number }
+
+function readingNow(): Reading {
+  const io = textAt(IO)
+  if (io === null) return { reads: 0, writes: 0, bytes: 0 }
+  return { reads: countIn(io, "syscr"), writes: countIn(io, "syscw"), bytes: countIn(io, "rchar") }
+}
+
 export function peakForgotten(): boolean {
   try {
     writeFileSync(CLEAR_REFS, HIWATER_RESET)
@@ -99,12 +124,16 @@ export function peakForgotten(): boolean {
 export function opening(): Taken {
   const measured = peakForgotten()
   const marks = marksNow()
+  const reading = readingNow()
   const used = process.cpuUsage()
   return {
     cpu: (used.user + used.system) / A_MILLION,
     childCpu: childSeconds(),
     peak: marks.peak,
     resident: marks.resident,
+    readCalls: reading.reads,
+    writeCalls: reading.writes,
+    readBytes: reading.bytes,
     measured,
     at: Date.now(),
   }
@@ -112,12 +141,16 @@ export function opening(): Taken {
 
 export function closing(): Taken {
   const marks = marksNow()
+  const reading = readingNow()
   const used = process.cpuUsage()
   return {
     cpu: (used.user + used.system) / A_MILLION,
     childCpu: childSeconds(),
     peak: marks.peak,
     resident: marks.resident,
+    readCalls: reading.reads,
+    writeCalls: reading.writes,
+    readBytes: reading.bytes,
     measured: true,
     at: Date.now(),
   }
@@ -144,6 +177,9 @@ export function costOf(
     residentBeforeBytes: before.resident,
     peakAddedBytes: Math.max(after.peak - before.resident, 0),
     peakMeasured: before.measured,
+    readCalls: after.readCalls - before.readCalls,
+    writeCalls: after.writeCalls - before.writeCalls,
+    readBytes: after.readBytes - before.readBytes,
     pathsChanged,
     refusals,
   }
