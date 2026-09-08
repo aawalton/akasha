@@ -3,7 +3,10 @@ import { index, layout, type RouteConfig, route } from "@react-router/dev/routes
 export default [
   layout("routes/_app-layout.tsx", [
     index("routes/archive-of-worlds-home/archive-of-worlds-home.route.code.tsx"),
-    route(":pageTypeSlug/:pageHrefParam", "routes/page-detail.tsx"),
+    route(
+      ":pageTypeSlug/:pageHrefParam",
+      "routes/archive-of-worlds-page-detail/archive-of-worlds-page-detail.route.code.tsx"
+    ),
     route(
       ":pageTypeSlug",
       "routes/archive-of-worlds-page-listing/archive-of-worlds-page-listing.route.code.tsx"

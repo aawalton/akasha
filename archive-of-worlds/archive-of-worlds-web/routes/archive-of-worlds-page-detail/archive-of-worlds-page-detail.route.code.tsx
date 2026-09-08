@@ -6,7 +6,7 @@ import { parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { data } from "react-router"
-import type { Route } from "./+types/page-detail"
+import type { Route } from "./+types/archive-of-worlds-page-detail.route.code"
 
 const NAV_SLUG = "nav"
 
