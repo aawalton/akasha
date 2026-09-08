@@ -1,10 +1,9 @@
 import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 import {
-  narrowed,
   refusing,
   stating,
-  writing,
+  written,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Said, Stated } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -81,7 +80,7 @@ export function renamePageAddress(world: World, given: RenamePageAddressAsked): 
     if (text === null || !text.includes(given.was)) continue
     const spots = spellingsIn(path, text, given.was)
     if (spots.length === 0) continue
-    edits.push(...narrowed(writing(path, text, respelled(text, spots, given.now))))
+    edits.push(...written(path, text, respelled(text, spots, given.now)))
   }
   return stating(edits)
 }

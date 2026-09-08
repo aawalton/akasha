@@ -39,6 +39,12 @@ export function stating(edits: readonly Stated[]): Said {
   return { edits, refused: null }
 }
 
+export function written(path: string, was: string | null, body: string): readonly Stated[] {
+  if (was === null || was === "") return [{ kind: "add", path, content: body }]
+  if (was === body) return []
+  return [{ kind: "replace", path, contentFrom: was, contentTo: body }]
+}
+
 export function writing(path: string, was: string | null, body: string): Edit {
   return { path, was, body }
 }

@@ -2,7 +2,6 @@ import { dirname, join, relative } from "node:path"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
   missing,
-  narrowed,
   refusing,
   stating,
 } from "../../../modules/change-answer/change-answer.module.code.ts"

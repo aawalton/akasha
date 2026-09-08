@@ -5,17 +5,15 @@ import { slugFor } from "@akasha/pages/page-property-key"
 import ts from "typescript"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
-  answered,
   gathered,
-  narrowed,
   refusing,
   stating,
-  writing,
+  written,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type {
   Answer,
-  Edit,
   Said,
+  Stated,
 } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
   reach,
@@ -185,14 +183,14 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
     }
     put(path, addressedIn(path, body, slugs, one))
   }
-  const restating: Edit[] = []
+  const restating: Stated[] = []
   for (const [path, held] of spots) {
     const body = texts.get(path) ?? ""
     const next = splicedIn(body, held)
     if (next === body) continue
-    restating.push(writing(path, body, next))
+    restating.push(...written(path, body, next))
   }
-  const answers: Answer[] = [answered(restating)]
+  const answers: Answer[] = [stating(restating)]
   if (given.plural !== undefined) {
     const before = gathered(answers)
     if (before.refused !== null) return before

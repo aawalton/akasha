@@ -1,11 +1,9 @@
 import { dirname, join } from "node:path"
 import ts from "typescript"
 import {
-  moving,
-  narrowed,
   refusing,
   stating,
-  writing,
+  written,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -158,8 +156,13 @@ export function renameManifestWays(given: Asked, textOf: (path: string) => strin
   const source = ts.parseJsonText(given.at, text)
   const body = spliced(text, splicesFor(source, text, given.at, dirname(lands), moved))
   const one =
-    lands === given.at ? writing(given.at, text, body) : moving(given.at, lands, text, body)
-  return stating(narrowed(one))
+    lands === given.at
+      ? written(given.at, text, body)
+      : [
+          { kind: "move" as const, pathFrom: given.at, pathTo: lands },
+          ...written(lands, text, body),
+        ]
+  return stating(one)
 }
 
 export function runChange(world: World, given: Asked): Said {

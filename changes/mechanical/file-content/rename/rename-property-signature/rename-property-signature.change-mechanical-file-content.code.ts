@@ -11,11 +11,10 @@ import {
 import ts from "typescript"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
-  narrowed,
   pathsIn,
   refusing,
   stating,
-  writing,
+  written,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Said, Stated } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -145,7 +144,7 @@ export function renamePropertySignature(world: World, given: RenamePropertySigna
     for (const one of [...spots].sort((here, there) => there.start - here.start)) {
       body = body.slice(0, one.start) + one.put + body.slice(one.end)
     }
-    edits.push(...narrowed(writing(path, text, body)))
+    edits.push(...written(path, text, body))
   }
   return stating(edits)
 }

@@ -1,11 +1,9 @@
 import { basename, dirname, extname, join, relative } from "node:path"
 import { landingOf, placedIn, spelledIn } from "@akasha/code/code-specifier"
 import {
-  moving,
-  narrowed,
   refusing,
   stating,
-  writing,
+  written,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -80,8 +78,8 @@ export function changeImports(
     at = one.end
   }
   const body = `${out}${text.slice(at)}`
-  const edit = was === now ? writing(now, text, body) : moving(was, now, text, body)
-  return stating(narrowed(edit))
+  if (was === now) return stating(written(now, text, body))
+  return stating([{ kind: "move", pathFrom: was, pathTo: now }, ...written(now, text, body)])
 }
 
 export type Given = {
