@@ -142,6 +142,7 @@ export const clusterCheck = {
     "module/check-population-read-swallow",
     "module/check-sops-spawn-pipe",
     "module/check-suspense-throw-settles",
+    "module/check-timezone-handling",
   ],
   properties: [
     {
