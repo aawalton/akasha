@@ -59,14 +59,12 @@ export function parseConfigFileWithSystem(
   )
 
   const cycleCache = new Set<string>()
-  const extendedTstlOptions = getExtendedTstlOptions(
-    configFileName,
-    configRootDir,
-    cycleCache,
-    system
-  )
+  const inherited = inheritedOptions(configFileName, configRootDir, cycleCache, system)
 
-  parsedConfigFile.raw.tstl = Object.assign(extendedTstlOptions, parsedConfigFile.raw.tstl ?? {})
+  parsedConfigFile.raw.luaCompiler = Object.assign(
+    inherited,
+    parsedConfigFile.raw.luaCompiler ?? parsedConfigFile.raw.tstl ?? {}
+  )
 
   return updateParsedConfigFile(parsedConfigFile)
 }
@@ -86,9 +84,13 @@ function resolveNpmModuleConfig(
   }
 }
 
-function isParsedTsConfig(
-  value: unknown
-): value is { config?: { extends?: string | string[]; tstl?: LuaCompilerOptions } } {
+function isParsedTsConfig(value: unknown): value is {
+  config?: {
+    extends?: string | string[]
+    luaCompiler?: LuaCompilerOptions
+    tstl?: LuaCompilerOptions
+  }
+} {
   if (!isRecord(value)) {
     return false
   }
@@ -116,7 +118,7 @@ function isParsedTsConfig(
   return true
 }
 
-function getExtendedTstlOptions(
+function inheritedOptions(
   configFilePath: string,
   configRootDir: string,
   cycleCache: Set<string>,
@@ -158,19 +160,20 @@ function getExtendedTstlOptions(
         for (const extendedConfigFile of parsedConfig.extends) {
           Object.assign(
             options,
-            getExtendedTstlOptions(extendedConfigFile, newConfigRoot, cycleCache, system)
+            inheritedOptions(extendedConfigFile, newConfigRoot, cycleCache, system)
           )
         }
       } else {
         Object.assign(
           options,
-          getExtendedTstlOptions(parsedConfig.extends, newConfigRoot, cycleCache, system)
+          inheritedOptions(parsedConfig.extends, newConfigRoot, cycleCache, system)
         )
       }
     }
 
-    if (parsedConfig.tstl) {
-      Object.assign(options, parsedConfig.tstl)
+    const stated = parsedConfig.luaCompiler ?? parsedConfig.tstl
+    if (stated) {
+      Object.assign(options, stated)
     }
   }
 
