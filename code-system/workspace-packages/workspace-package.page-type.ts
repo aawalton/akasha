@@ -34,12 +34,12 @@ export const workspacePackage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A package manifest holds only the dependencies its package manager installs.",
+      statement: "A package manifest has only the dependencies its package manager installs.",
     },
 
     {
       invariantKind: "departure",
-      statement: "A workspace package holds its manifest at the root of its own folder.",
+      statement: "A workspace package has its manifest at the root of its own folder.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const workspacePackage = {
     },
     {
       invariantKind: "gap",
-      statement: "The workspace installs every package the tree holds.",
+      statement: "The workspace installs every package the tree has.",
     },
   ],
   directives: [

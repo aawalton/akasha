@@ -155,7 +155,7 @@ export const view = {
     {
       invariantKind: "gap",
       statement:
-        "A view states its own question rather than naming a page query that holds that question.",
+        "A view states its own question rather than naming a page query that has that question.",
     },
   ],
 } as const satisfies PageType

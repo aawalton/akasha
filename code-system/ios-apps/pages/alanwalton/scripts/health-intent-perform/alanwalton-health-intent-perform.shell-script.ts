@@ -14,7 +14,7 @@ export const alanwaltonHealthIntentPerform = {
     },
     {
       invariantKind: "departure",
-      statement: "A share set holding anything asks to write Alan's own health data.",
+      statement: "A share set with anything asks to write Alan's own health data.",
     },
     {
       invariantKind: "departure",

@@ -7,7 +7,7 @@ export const invariantStatement = {
   pageTypeSlug: "standard-agent-english-property",
   slug: "invariant-statement",
   propertySlug: "statement",
-  definition: "one sentence an invariant holds a page to",
+  definition: "one sentence an invariant has a page to",
   maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies StandardAgentEnglishProperty

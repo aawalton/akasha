@@ -11,7 +11,7 @@ export const gbwwEditionMarker = {
     {
       invariantKind: "departure",
       statement:
-        "A reading is in the plan whether or not the edition Alan holds carries that reading.",
+        "A reading is in the plan whether or not the edition Alan has carries that reading.",
     },
   ],
 } as const satisfies SelectProperty

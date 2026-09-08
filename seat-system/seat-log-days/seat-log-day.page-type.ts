@@ -36,7 +36,7 @@ export const seatLogDay = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One page holds one source's lines for one seat on one day.",
+      statement: "One page has one source's lines for one seat on one day.",
     },
     {
       invariantKind: "departure",
@@ -72,7 +72,7 @@ export const seatLogDay = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing reads the lines a day holds.",
+      statement: "Nothing reads the lines a day has.",
     },
   ],
 } as const satisfies PageType

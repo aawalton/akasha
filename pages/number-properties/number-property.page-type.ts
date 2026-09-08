@@ -10,7 +10,7 @@ export const numberProperty = {
   id: "01a04dff-9d7d-757f-84a2-1c515ad24f9a",
   pageTypeSlug: "page-type",
   slug: "number-property",
-  definition: "a page property holding a number",
+  definition: "a page property with a number",
   pluralSlug: "number-properties",
   extendsSlug: ["page-type/page-property"],
   partSlugs: ["number-property/max"],

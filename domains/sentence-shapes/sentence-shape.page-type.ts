@@ -79,7 +79,7 @@ export const sentenceShape = {
     },
     {
       invariantKind: "departure",
-      statement: "The check reads the predicate every refused shape holds.",
+      statement: "The check reads the predicate every refused shape has.",
     },
     {
       invariantKind: "departure",

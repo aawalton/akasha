@@ -38,7 +38,7 @@ export const chessPuzzleSet = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A set holds its puzzles as rows beside the page rather than as pages.",
+      statement: "A set has its puzzles as rows beside the page rather than as pages.",
     },
     {
       invariantKind: "gap",

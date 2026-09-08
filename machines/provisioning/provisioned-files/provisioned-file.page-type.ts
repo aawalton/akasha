@@ -54,7 +54,7 @@ export const provisionedFile = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The body is held in a file beside the page.",
+      statement: "The body is in a file beside the page.",
     },
     {
       invariantKind: "departure",

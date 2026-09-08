@@ -18,7 +18,7 @@ export const javascriptModule = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A JavaScript module's code is held in a file beside the page.",
+      statement: "A JavaScript module's code is in a file beside the page.",
     },
     {
       invariantKind: "departure",

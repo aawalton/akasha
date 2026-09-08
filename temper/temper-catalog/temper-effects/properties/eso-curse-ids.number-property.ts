@@ -14,7 +14,7 @@ export const esoCurseIds = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One list holds every ability the game marks one curse by.",
+      statement: "One list has every ability the game marks one curse by.",
     },
   ],
 } as const satisfies NumberProperty

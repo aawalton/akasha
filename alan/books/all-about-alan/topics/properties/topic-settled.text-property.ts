@@ -13,7 +13,7 @@ export const topicSettled = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This property holds the text that stands rather than the text still open.",
+      statement: "This property has the text that stands rather than the text still open.",
     },
     {
       invariantKind: "departure",

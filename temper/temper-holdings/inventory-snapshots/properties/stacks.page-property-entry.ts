@@ -52,11 +52,11 @@ export const stacks = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One line is one slot holding one item.",
+      statement: "One line is one slot with one item.",
     },
     {
       invariantKind: "departure",
-      statement: "A slot holding nothing has no line.",
+      statement: "A slot with nothing has no line.",
     },
     {
       invariantKind: "departure",

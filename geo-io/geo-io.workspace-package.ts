@@ -10,7 +10,7 @@ export const geoIo = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here holds an api key.",
+      statement: "Nothing here has an api key.",
     },
   ],
 } as const satisfies WorkspacePackage

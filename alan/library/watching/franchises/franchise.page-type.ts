@@ -17,7 +17,7 @@ export const franchise = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A franchise holds a name and the provider the name was read from.",
+      statement: "A franchise has a name and the provider the name was read from.",
     },
     {
       invariantKind: "departure",

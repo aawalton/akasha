@@ -14,7 +14,7 @@ export const cover = {
     {
       invariantKind: "stopgap",
       statement:
-        "This property holds the route a picture is fetched by rather than the picture itself.",
+        "This property has the route a picture is fetched by rather than the picture itself.",
     },
   ],
 } as const satisfies TextProperty

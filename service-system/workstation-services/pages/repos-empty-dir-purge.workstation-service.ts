@@ -4,7 +4,7 @@ export const reposEmptyDirPurge = {
   id: "01a06829-0194-7c17-9a07-d06e04099921",
   pageTypeSlug: "workstation-service",
   slug: "repos-empty-dir-purge",
-  definition: "the service removing every directory holding nothing under Alan's repositories",
+  definition: "the service removing every directory with nothing under Alan's repositories",
   runs: [
     "bash code-system/shell-scripts/pages/repos-empty-dir-purge/repos-empty-dir-purge.shell-script.shell.sh",
   ],

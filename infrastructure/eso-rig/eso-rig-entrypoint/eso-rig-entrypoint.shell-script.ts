@@ -87,7 +87,7 @@ export const esoRigEntrypoint = {
     },
     {
       invariantKind: "departure",
-      statement: "A Wine prefix holding no registry stops the run.",
+      statement: "A Wine prefix with no registry stops the run.",
     },
     {
       invariantKind: "constraint",

@@ -27,7 +27,7 @@ export const pagesUiStore = {
     },
     {
       invariantKind: "departure",
-      statement: "A query is answered from the rows the browser already holds.",
+      statement: "A query is answered from the rows the browser already has.",
     },
     {
       invariantKind: "departure",

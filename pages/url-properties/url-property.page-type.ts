@@ -10,7 +10,7 @@ export const urlProperty = {
   id: "01a063de-2c60-7000-97f0-b6451df11654",
   pageTypeSlug: "page-type",
   slug: "url-property",
-  definition: "a page property holding a web address",
+  definition: "a page property with a web address",
   pluralSlug: "url-properties",
   extendsSlug: ["page-type/page-property"],
   properties: [{ pagePropertySlug: "number-property/max-length", required: true, many: false }],

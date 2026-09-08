@@ -7,6 +7,6 @@ export const eventCount = {
   pageTypeSlug: "number-property",
   slug: "event-count",
   propertySlug: "event-count",
-  definition: "how many times a story changes what a character holds",
+  definition: "how many times a story changes what a character has",
   max: null,
 } as const satisfies NumberProperty

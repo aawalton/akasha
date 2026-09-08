@@ -7,7 +7,7 @@ export const emailRuleMatchValues = {
   pageTypeSlug: "text-property",
   slug: "email-rule-match-values",
   propertySlug: "values",
-  definition: "what a clause holds to weigh a piece of mail against",
+  definition: "what a clause has to weigh a piece of mail against",
   maxLength: 200,
   nameFormatSlug: null,
   invariants: [

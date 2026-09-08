@@ -150,7 +150,7 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "An app's web directory holds the site a build put there.",
+      statement: "An app's web directory has the site a build put there.",
     },
     {
       invariantKind: "departure",

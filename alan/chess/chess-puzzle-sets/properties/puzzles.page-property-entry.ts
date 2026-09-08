@@ -7,7 +7,7 @@ export const puzzles = {
   pageTypeSlug: "page-property-entry",
   slug: "puzzles",
   propertySlug: "puzzles",
-  definition: "every puzzle a set holds, one to a line",
+  definition: "every puzzle a set has, one to a line",
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "text-property/puzzle-id", required: true, many: false },

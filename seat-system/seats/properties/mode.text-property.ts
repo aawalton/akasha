@@ -13,7 +13,7 @@ export const mode = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat's mode is observed of the supervisor holding the seat.",
+      statement: "A seat's mode is observed of the supervisor with the seat.",
     },
     {
       invariantKind: "departure",

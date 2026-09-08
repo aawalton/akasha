@@ -7,6 +7,6 @@ export const bagSize = {
   pageTypeSlug: "number-property",
   slug: "bag-size",
   propertySlug: "bag-size",
-  definition: "how many slots a bag holds",
+  definition: "how many slots a bag has",
   max: null,
 } as const satisfies NumberProperty

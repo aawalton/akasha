@@ -72,7 +72,7 @@ export const pageQuery = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A query holds nothing about how its answer is shown.",
+      statement: "A query has nothing about how its answer is shown.",
     },
     {
       invariantKind: "departure",

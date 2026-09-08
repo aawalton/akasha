@@ -48,7 +48,7 @@ export const deviceToken = {
     },
     {
       invariantKind: "departure",
-      statement: "One device holds a token for each app the device runs.",
+      statement: "One device has a token for each app the device runs.",
     },
     {
       invariantKind: "departure",

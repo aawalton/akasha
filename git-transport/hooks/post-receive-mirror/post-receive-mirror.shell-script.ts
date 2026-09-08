@@ -30,7 +30,7 @@ export const postReceiveMirror = {
     },
     {
       invariantKind: "departure",
-      statement: "The runner holds no descriptor the client is waiting on.",
+      statement: "The runner has no descriptor the client is waiting on.",
     },
     {
       invariantKind: "departure",

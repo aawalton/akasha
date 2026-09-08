@@ -13,7 +13,7 @@ export const kiBookSeries = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A series of Ki's holds nothing of its own.",
+      statement: "A series of Ki's has nothing of its own.",
     },
     {
       invariantKind: "departure",

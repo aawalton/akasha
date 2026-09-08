@@ -8,7 +8,7 @@ export const deviceTokenIosAppSlug = {
   pageTypeSlug: "relation-property",
   slug: "device-token-ios-app-slug",
   propertySlug: "ios-app-slug",
-  definition: "the app a push reaches on the device holding a token",
+  definition: "the app a push reaches on the device with a token",
   targetPageTypeSlug: "page-type/ios-app",
   invariants: [
     {

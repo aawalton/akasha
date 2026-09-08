@@ -37,7 +37,7 @@ export const nameFormat = {
     },
     {
       invariantKind: "departure",
-      statement: "A format holds the words of a name unchanged.",
+      statement: "A format has the words of a name unchanged.",
     },
     {
       invariantKind: "departure",

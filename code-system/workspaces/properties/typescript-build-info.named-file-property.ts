@@ -13,7 +13,7 @@ export const typescriptBuildInfo = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One file holds the type state TypeScript worked out for the whole workspace.",
+      statement: "One file has the type state TypeScript worked out for the whole workspace.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const typescriptBuildInfo = {
     },
     {
       invariantKind: "absence",
-      statement: "This file holds no record of the files a change reached.",
+      statement: "This file has no record of the files a change reached.",
     },
   ],
 } as const satisfies NamedFileProperty

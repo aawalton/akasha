@@ -10,7 +10,7 @@ export const typeIdentifier = {
     {
       invariantKind: "departure",
       statement:
-        "A type is named for the thing the type holds rather than for the file the type is in.",
+        "A type is named for the thing the type has rather than for the file the type is in.",
     },
     {
       invariantKind: "departure",

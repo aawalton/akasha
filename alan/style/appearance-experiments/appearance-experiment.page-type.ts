@@ -72,7 +72,7 @@ export const appearanceExperiment = {
     {
       invariantKind: "departure",
       statement:
-        "Each reading is held in a file beside the experiment rather than inside the experiment page.",
+        "Each reading is in a file beside the experiment rather than inside the experiment page.",
     },
   ],
 } as const satisfies PageType

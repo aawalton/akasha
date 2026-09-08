@@ -17,7 +17,7 @@ export const release = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A release holds the songs put out together under one title.",
+      statement: "A release has the songs put out together under one title.",
     },
     {
       invariantKind: "departure",

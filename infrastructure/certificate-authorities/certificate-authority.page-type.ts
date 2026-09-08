@@ -20,7 +20,7 @@ export const certificateAuthority = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An authority's certificate is held in a file beside the page.",
+      statement: "An authority's certificate is in a file beside the page.",
     },
     {
       invariantKind: "constraint",

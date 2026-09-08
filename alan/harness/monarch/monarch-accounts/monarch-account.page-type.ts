@@ -42,7 +42,7 @@ export const monarchAccount = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An account holding no transaction is still an account.",
+      statement: "An account with no transaction is still an account.",
     },
     {
       invariantKind: "departure",

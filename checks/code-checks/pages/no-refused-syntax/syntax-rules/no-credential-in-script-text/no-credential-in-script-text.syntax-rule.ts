@@ -66,7 +66,7 @@ export const noCredentialInScriptText = {
     },
     {
       invariantKind: "departure",
-      statement: "A name is judged rather than the value the name holds.",
+      statement: "A name is judged rather than the value the name has.",
     },
     {
       invariantKind: "gap",

@@ -125,7 +125,7 @@ export const editorExtension = {
     },
     {
       invariantKind: "departure",
-      statement: "A row holding a match is drawn open while a filter is there.",
+      statement: "A row with a match is drawn open while a filter is there.",
     },
   ],
 } as const satisfies WorkspacePackage

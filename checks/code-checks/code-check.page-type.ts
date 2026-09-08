@@ -146,7 +146,7 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "Patch holds the count from rising while the rest stay fixed.",
+      statement: "Patch has the count from rising while the rest stay fixed.",
     },
     {
       invariantKind: "departure",

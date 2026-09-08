@@ -13,7 +13,7 @@ export const ownerSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page type naming no owner holds pages the whole repository owns.",
+      statement: "A page type naming no owner has pages the whole repository owns.",
     },
     {
       invariantKind: "departure",

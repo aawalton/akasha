@@ -13,7 +13,7 @@ export const messageFrom = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A sender is a seat or a persona or a service that holds no seat.",
+      statement: "A sender is a seat or a persona or a service that has no seat.",
     },
     {
       invariantKind: "gap",

@@ -26,7 +26,7 @@ export const pageAddressKind = {
     },
     {
       invariantKind: "departure",
-      statement: "A kind holds the code finding the page an address of that kind names.",
+      statement: "A kind has the code finding the page an address of that kind names.",
     },
     {
       invariantKind: "departure",

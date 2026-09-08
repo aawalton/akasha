@@ -7,7 +7,7 @@ export const processProperty = {
   id: "01a05406-9bc6-71c5-8fcf-b15b97d86578",
   pageTypeSlug: "page-type",
   slug: "process-property",
-  definition: "a page property holding one run of one program",
+  definition: "a page property with one run of one program",
   pluralSlug: "process-properties",
   extendsSlug: ["page-type/page-property"],
   invariants: [

@@ -25,7 +25,7 @@ export const generationLog = {
     {
       invariantKind: "departure",
       statement:
-        "A generation log holds its runs and their outputs beside the log rather than in pages of their own.",
+        "A generation log has its runs and their outputs beside the log rather than in pages of their own.",
     },
     {
       invariantKind: "departure",

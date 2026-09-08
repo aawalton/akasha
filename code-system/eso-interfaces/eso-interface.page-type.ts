@@ -23,7 +23,7 @@ export const esoInterface = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An interface's XML is held in a file beside the page.",
+      statement: "An interface's XML is in a file beside the page.",
     },
     {
       invariantKind: "departure",

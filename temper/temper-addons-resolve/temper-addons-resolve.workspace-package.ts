@@ -4,7 +4,7 @@ export const temperAddonsResolve = {
   id: "01a06060-ec3c-725c-b37c-206e3c7f7e97",
   pageTypeSlug: "workspace-package",
   slug: "temper-addons-resolve",
-  definition: "which addons the repository holds and what each addon needs to be built",
+  definition: "which addons the repository has and what each addon needs to be built",
   manifest: "json",
   partSlugs: [
     "module/addon-json",
@@ -19,7 +19,7 @@ export const temperAddonsResolve = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An addon is a workspace package holding an addon manifest.",
+      statement: "An addon is a workspace package with an addon manifest.",
     },
     {
       invariantKind: "departure",

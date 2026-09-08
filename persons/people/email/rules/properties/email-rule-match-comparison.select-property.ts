@@ -5,7 +5,7 @@ export const emailRuleMatchComparison = {
   pageTypeSlug: "select-property",
   slug: "email-rule-match-comparison",
   propertySlug: "comparison",
-  definition: "how a clause weighs a piece of mail against what the clause holds",
+  definition: "how a clause weighs a piece of mail against what the clause has",
   values: [
     "is",
     "is-not",
@@ -19,7 +19,7 @@ export const emailRuleMatchComparison = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A clause holding several values passes where a value matches.",
+      statement: "A clause with several values passes where a value matches.",
     },
     {
       invariantKind: "departure",

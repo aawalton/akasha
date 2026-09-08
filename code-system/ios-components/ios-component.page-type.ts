@@ -45,7 +45,7 @@ export const iosComponent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An iOS component's Swift is held in a file beside the page.",
+      statement: "An iOS component's Swift is in a file beside the page.",
     },
     {
       invariantKind: "departure",

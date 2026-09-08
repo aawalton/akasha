@@ -7,7 +7,7 @@ export const writingPhilosophy = {
   pageTypeSlug: "text-property",
   slug: "writing-philosophy",
   propertySlug: "writing-philosophy",
-  definition: "the rules the writing of a story holds itself to",
+  definition: "the rules the writing of a story has itself to",
   maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

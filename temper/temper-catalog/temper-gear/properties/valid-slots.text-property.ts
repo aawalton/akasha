@@ -14,6 +14,6 @@ export const validSlots = {
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a slot." },
-    { invariantKind: "departure", statement: "One list holds every slot a kind fits." },
+    { invariantKind: "departure", statement: "One list has every slot a kind fits." },
   ],
 } as const satisfies TextProperty

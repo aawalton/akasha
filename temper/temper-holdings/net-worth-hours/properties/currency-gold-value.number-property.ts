@@ -7,6 +7,6 @@ export const currencyGoldValue = {
   pageTypeSlug: "number-property",
   slug: "currency-gold-value",
   propertySlug: "currency-gold-value",
-  definition: "what the money an account holds is worth in gold",
+  definition: "what the money an account has is worth in gold",
   max: null,
 } as const satisfies NumberProperty

@@ -38,7 +38,7 @@ export const temperCaptureShapes = {
     },
     {
       invariantKind: "constraint",
-      statement: "Nothing here holds code that runs.",
+      statement: "Nothing here has code that runs.",
     },
   ],
 } as const satisfies WorkspacePackage

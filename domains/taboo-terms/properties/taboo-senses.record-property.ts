@@ -23,7 +23,7 @@ export const tabooSenses = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One list holds every sense a term bars.",
+      statement: "One list has every sense a term bars.",
     },
     {
       invariantKind: "departure",

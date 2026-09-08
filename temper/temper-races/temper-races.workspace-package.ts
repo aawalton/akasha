@@ -14,7 +14,7 @@ export const temperRaces = {
     },
     {
       invariantKind: "departure",
-      statement: "A race is reached by its own id rather than by the race id the game holds.",
+      statement: "A race is reached by its own id rather than by the race id the game has.",
     },
   ],
 } as const satisfies WorkspacePackage

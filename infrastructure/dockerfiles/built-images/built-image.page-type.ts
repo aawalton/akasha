@@ -45,7 +45,7 @@ export const builtImage = {
     },
     {
       invariantKind: "departure",
-      statement: "An image adding to its Dockerfile holds what it adds beside its own page.",
+      statement: "An image adding to its Dockerfile has what it adds beside its own page.",
     },
     {
       invariantKind: "departure",

@@ -23,7 +23,7 @@ export const rustModule = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A Rust module's code is held in a file beside the page.",
+      statement: "A Rust module's code is in a file beside the page.",
     },
     {
       invariantKind: "departure",

@@ -77,7 +77,7 @@ export const idlePersonaCard = {
     },
     {
       invariantKind: "departure",
-      statement: "A card is slugged by the card slug and then the player holding that card.",
+      statement: "A card is slugged by the card slug and then the player with that card.",
     },
     {
       invariantKind: "departure",

@@ -80,7 +80,7 @@ export const check = {
     },
     {
       invariantKind: "upkeep",
-      statement: "Every check runs at patch unless Alan holds that check off.",
+      statement: "Every check runs at patch unless Alan has that check off.",
     },
     {
       invariantKind: "departure",
@@ -118,7 +118,7 @@ export const check = {
     {
       invariantKind: "gap",
       statement:
-        "Every check holds its verdict where the tree contradicts the change the check judges.",
+        "Every check has its verdict where the tree contradicts the change the check judges.",
     },
     {
       invariantKind: "stopgap",

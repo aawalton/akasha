@@ -85,7 +85,7 @@ export const esoAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "An addon ships a second addon holding a manifest and nothing more.",
+      statement: "An addon ships a second addon with a manifest and nothing more.",
     },
     {
       invariantKind: "departure",

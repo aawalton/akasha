@@ -19,7 +19,7 @@ export const conditions = {
     },
     {
       invariantKind: "departure",
-      statement: "A field names a temper-condition-field page holding the key the field tests.",
+      statement: "A field names a temper-condition-field page with the key the field tests.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const conditions = {
     },
     {
       invariantKind: "gap",
-      statement: "A field naming a comparison holds the key of a temper comparison op.",
+      statement: "A field naming a comparison has the key of a temper comparison op.",
     },
   ],
 } as const satisfies PagePropertyEntry

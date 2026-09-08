@@ -17,7 +17,7 @@ export const titleKey = {
     },
     {
       invariantKind: "departure",
-      statement: "A title key holds only lowercase letters and digits either side of `|`.",
+      statement: "A title key has only lowercase letters and digits either side of `|`.",
     },
   ],
 } as const satisfies TextProperty

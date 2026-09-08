@@ -17,7 +17,7 @@ export const greatCoursesSubject = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A subject holds only courses.",
+      statement: "A subject has only courses.",
     },
     {
       invariantKind: "departure",

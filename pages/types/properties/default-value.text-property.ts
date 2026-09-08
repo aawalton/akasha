@@ -39,7 +39,7 @@ export const defaultValue = {
     },
     {
       invariantKind: "gap",
-      statement: "A default holds the kind its property holds.",
+      statement: "A default has the kind its property has.",
     },
   ],
 } as const satisfies TextProperty

@@ -36,7 +36,7 @@ export const upkeepSleep = {
     },
     {
       invariantKind: "departure",
-      statement: "A day holding no sleep stretch carries no sleep rather than a sleep of zero.",
+      statement: "A day with no sleep stretch carries no sleep rather than a sleep of zero.",
     },
 
     {

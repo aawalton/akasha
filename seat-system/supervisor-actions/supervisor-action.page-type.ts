@@ -27,7 +27,7 @@ export const supervisorAction = {
     },
     {
       invariantKind: "stopgap",
-      statement: "A supervisor's action is carried on the seat holding that supervisor.",
+      statement: "A supervisor's action is carried on the seat with that supervisor.",
     },
     {
       invariantKind: "gap",

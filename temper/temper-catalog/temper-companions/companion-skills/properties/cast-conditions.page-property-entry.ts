@@ -7,7 +7,7 @@ export const castConditions = {
   pageTypeSlug: "page-property-entry",
   slug: "cast-conditions",
   propertySlug: "cast-conditions",
-  definition: "what must hold before a companion casts a skill, one test to a line",
+  definition: "what must have before a companion casts a skill, one test to a line",
   properties: [
     { pagePropertySlug: "text-property/cast-condition-type", required: true, many: false },
     { pagePropertySlug: "number-property/health-below", required: false, many: false },

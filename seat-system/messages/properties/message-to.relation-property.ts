@@ -13,7 +13,7 @@ export const messageTo = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A message addressed to a name no seat holds is refused rather than written.",
+      statement: "A message addressed to a name no seat has is refused rather than written.",
     },
     {
       invariantKind: "departure",

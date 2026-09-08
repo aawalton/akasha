@@ -30,7 +30,7 @@ export const helpNotes = {
     },
     {
       invariantKind: "absence",
-      statement: "A line holds nothing generated.",
+      statement: "A line has nothing generated.",
     },
   ],
 } as const satisfies TextProperty

@@ -7,7 +7,7 @@ export const slottedBehavior = {
   pageTypeSlug: "text-property",
   slug: "slotted-behavior",
   propertySlug: "slotted-behavior",
-  definition: "which bar a slotted ability holds its effect on",
+  definition: "which bar a slotted ability has its effect on",
   maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

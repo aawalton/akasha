@@ -38,7 +38,7 @@ export const changeRunner = {
     },
     {
       invariantKind: "departure",
-      statement: "The map beside a runner holds the addresses that runner reaches and no other.",
+      statement: "The map beside a runner has the addresses that runner reaches and no other.",
     },
     {
       invariantKind: "departure",

@@ -23,11 +23,11 @@ export const astUnusedConfig = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page holds a curation root or a curation part rather than both.",
+      statement: "A page has a curation root or a curation part rather than both.",
     },
     {
       invariantKind: "departure",
-      statement: "A part is held in a file named for the page holding that part.",
+      statement: "A part is in a file named for the page with that part.",
     },
     {
       invariantKind: "departure",

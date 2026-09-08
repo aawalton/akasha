@@ -15,7 +15,7 @@ export const collectibles = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A collectible here is filed by the game under the category holding the file.",
+      statement: "A collectible here is filed by the game under the category with the file.",
     },
   ],
 } as const satisfies PagePropertyEntry

@@ -5,7 +5,7 @@ export const controlledEntityKind = {
   pageTypeSlug: "select-property",
   slug: "controlled-entity-kind",
   propertySlug: "controlled-entity-kind",
-  definition: "how many characters the player holds at once",
+  definition: "how many characters the player has at once",
   values: ["single"],
 } as const satisfies SelectProperty
 

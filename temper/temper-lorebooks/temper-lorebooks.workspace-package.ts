@@ -180,7 +180,7 @@ export const temperLorebooks = {
     },
     {
       invariantKind: "gap",
-      statement: "Akasha holds no map pin for a lore book.",
+      statement: "Akasha has no map pin for a lore book.",
     },
     {
       invariantKind: "gap",

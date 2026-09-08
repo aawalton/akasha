@@ -108,7 +108,7 @@ export const commandSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A command holds command concerns rather than domain logic.",
+      statement: "A command has command concerns rather than domain logic.",
     },
     {
       invariantKind: "departure",

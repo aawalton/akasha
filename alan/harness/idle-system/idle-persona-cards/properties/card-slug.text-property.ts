@@ -13,7 +13,7 @@ export const cardSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every player holds a card of every name.",
+      statement: "Every player has a card of every name.",
     },
     {
       invariantKind: "departure",

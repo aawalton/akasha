@@ -34,7 +34,7 @@ export const idleGame = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The browser holds the whole game.",
+      statement: "The browser has the whole game.",
     },
     {
       invariantKind: "departure",

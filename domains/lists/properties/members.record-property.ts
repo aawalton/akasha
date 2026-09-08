@@ -23,7 +23,7 @@ export const members = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One list holds every member of its set.",
+      statement: "One list has every member of its set.",
     },
     {
       invariantKind: "departure",

@@ -37,7 +37,7 @@ export const foodEntry = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One file holds one thing eaten.",
+      statement: "One file has one thing eaten.",
     },
     {
       invariantKind: "departure",

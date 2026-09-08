@@ -81,7 +81,7 @@ export const runtimeError = {
     },
     {
       invariantKind: "departure",
-      statement: "The fields the first report carried are the fields the commit holds.",
+      statement: "The fields the first report carried are the fields the commit has.",
     },
     {
       invariantKind: "departure",

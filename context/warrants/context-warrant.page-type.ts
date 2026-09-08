@@ -65,7 +65,7 @@ export const contextWarrant = {
     },
     {
       invariantKind: "departure",
-      statement: "A warrant running on neither read nor write has landed and holds nobody.",
+      statement: "A warrant running on neither read nor write has landed and has nobody.",
     },
     {
       invariantKind: "departure",

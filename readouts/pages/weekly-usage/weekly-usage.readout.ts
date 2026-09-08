@@ -17,7 +17,7 @@ export const weeklyUsage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the mean across every account the pool holds.",
+      statement: "The reading is the mean across every account the pool has.",
     },
     {
       invariantKind: "departure",

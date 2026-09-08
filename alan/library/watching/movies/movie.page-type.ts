@@ -39,7 +39,7 @@ export const movie = {
     },
     {
       invariantKind: "departure",
-      statement: "A film holds no parts.",
+      statement: "A film has no parts.",
     },
   ],
 } as const satisfies PageType

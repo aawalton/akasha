@@ -17,7 +17,7 @@ export const errorUrl = {
     },
     {
       invariantKind: "gap",
-      statement: "A url could carry a token a query string holds.",
+      statement: "A url could carry a token a query string has.",
     },
   ],
 } as const satisfies TextProperty

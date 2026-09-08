@@ -40,8 +40,7 @@ export const upkeepSurplus = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A day holding neither sleep nor spend is no reading rather than a surplus of zero.",
+      statement: "A day with neither sleep nor spend is no reading rather than a surplus of zero.",
     },
 
     {

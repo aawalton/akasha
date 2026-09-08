@@ -15,7 +15,7 @@ export const emailRuleMatchField = {
     },
     {
       invariantKind: "departure",
-      statement: "Every field here holds text.",
+      statement: "Every field here has text.",
     },
     {
       invariantKind: "departure",

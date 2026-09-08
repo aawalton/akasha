@@ -18,11 +18,11 @@ export const containerRecipe = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A container recipe is held in a file beside the page.",
+      statement: "A container recipe is in a file beside the page.",
     },
     {
       invariantKind: "departure",
-      statement: "A recipe holds one image.",
+      statement: "A recipe has one image.",
     },
     {
       invariantKind: "departure",

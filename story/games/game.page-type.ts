@@ -198,7 +198,7 @@ export const game = {
     },
     {
       invariantKind: "departure",
-      statement: "A state holds the world as revealed rather than everything the game knows.",
+      statement: "A state has the world as revealed rather than everything the game knows.",
     },
     {
       invariantKind: "departure",

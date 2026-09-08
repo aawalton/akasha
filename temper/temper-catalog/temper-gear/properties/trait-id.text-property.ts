@@ -7,7 +7,7 @@ export const traitId = {
   pageTypeSlug: "text-property",
   slug: "trait-id",
   propertySlug: "trait-id",
-  definition: "the trait a number the game holds answers to",
+  definition: "the trait a number the game has answers to",
   maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a trait." }],

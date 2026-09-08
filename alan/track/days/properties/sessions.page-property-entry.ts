@@ -72,7 +72,7 @@ export const sessions = {
     {
       invariantKind: "departure",
       statement:
-        "A calculation is handed the rows this file holds in place of the extension the page carries.",
+        "A calculation is handed the rows this file has in place of the extension the page carries.",
     },
     {
       invariantKind: "departure",

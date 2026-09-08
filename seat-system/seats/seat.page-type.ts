@@ -159,7 +159,7 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona holds more than one seat.",
+      statement: "A persona has more than one seat.",
     },
     {
       invariantKind: "departure",

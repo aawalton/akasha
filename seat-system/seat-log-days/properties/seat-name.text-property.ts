@@ -21,7 +21,7 @@ export const seatName = {
     },
     {
       invariantKind: "departure",
-      statement: "A name here may be a name no seat holds now.",
+      statement: "A name here may be a name no seat has now.",
     },
   ],
 } as const satisfies TextProperty

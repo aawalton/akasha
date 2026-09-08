@@ -104,11 +104,11 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding no page type answers with nothing.",
+      statement: "A folder with no page type answers with nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding more than one page type answers with nothing too.",
+      statement: "A folder with more than one page type answers with nothing too.",
     },
     {
       invariantKind: "departure",
@@ -138,7 +138,7 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding one page answers with the name that page gives its folder.",
+      statement: "A folder with one page answers with the name that page gives its folder.",
     },
     {
       invariantKind: "departure",
@@ -154,12 +154,12 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding no page answers with nothing.",
+      statement: "A folder with no page answers with nothing.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A folder holding a page type beside its workspace package answers for the page type.",
+        "A folder with a page type beside its workspace package answers for the page type.",
     },
     {
       invariantKind: "departure",

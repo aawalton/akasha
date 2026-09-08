@@ -13,7 +13,7 @@ export const validPieces = {
   maxLength: 100,
   nameFormatSlug: null,
   invariants: [
-    { invariantKind: "departure", statement: "One list holds every piece a set is made in." },
+    { invariantKind: "departure", statement: "One list has every piece a set is made in." },
     { invariantKind: "departure", statement: "A star covers every piece the game offers." },
   ],
 } as const satisfies TextProperty

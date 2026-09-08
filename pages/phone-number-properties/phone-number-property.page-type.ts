@@ -7,7 +7,7 @@ export const phoneNumberProperty = {
   id: "01a053e9-5cd1-7137-9fbb-c33920c95575",
   pageTypeSlug: "page-type",
   slug: "phone-number-property",
-  definition: "a page property holding a telephone number",
+  definition: "a page property with a telephone number",
   pluralSlug: "phone-number-properties",
   extendsSlug: ["page-type/page-property"],
   invariants: [
@@ -21,7 +21,7 @@ export const phoneNumberProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A number holds digits alone.",
+      statement: "A number has digits alone.",
     },
     {
       invariantKind: "departure",

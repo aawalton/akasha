@@ -44,7 +44,7 @@ export const temperItemsRulesEval = {
     },
     {
       invariantKind: "departure",
-      statement: "The environment holding every lookup is handed in rather than reached for.",
+      statement: "The environment with every lookup is handed in rather than reached for.",
     },
     {
       invariantKind: "absence",

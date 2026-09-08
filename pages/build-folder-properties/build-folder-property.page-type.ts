@@ -21,7 +21,7 @@ export const buildFolderProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A build folder holds a body that is not text.",
+      statement: "A build folder has a body that is not text.",
     },
     {
       invariantKind: "gap",

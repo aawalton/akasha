@@ -130,7 +130,7 @@ export const worldMechanic = {
     },
     {
       invariantKind: "upkeep",
-      statement: "Every mechanic a world's readings name is a page of a type this domain holds.",
+      statement: "Every mechanic a world's readings name is a page of a type this domain has.",
     },
   ],
 } as const satisfies PageType

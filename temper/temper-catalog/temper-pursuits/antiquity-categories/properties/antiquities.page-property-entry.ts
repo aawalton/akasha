@@ -7,7 +7,7 @@ export const antiquities = {
   pageTypeSlug: "page-property-entry",
   slug: "antiquities",
   propertySlug: "antiquities",
-  definition: "the antiquities a category holds, one antiquity to a line",
+  definition: "the antiquities a category has, one antiquity to a line",
   properties: [
     { pagePropertySlug: "number-property/eso-antiquity-id", required: true, many: false },
     { pagePropertySlug: "text-property/antiquity-name", required: true, many: false },

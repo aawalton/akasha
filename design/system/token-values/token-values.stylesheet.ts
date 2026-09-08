@@ -26,7 +26,7 @@ export const tokenValues = {
     },
     {
       invariantKind: "gap",
-      statement: "No check holds a color here to the color page that color is read from.",
+      statement: "No check has a color here to the color page that color is read from.",
     },
   ],
 } as const satisfies Stylesheet

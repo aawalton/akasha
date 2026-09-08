@@ -46,7 +46,7 @@ export const characterBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "One character holds many builds.",
+      statement: "One character has many builds.",
     },
     {
       invariantKind: "departure",

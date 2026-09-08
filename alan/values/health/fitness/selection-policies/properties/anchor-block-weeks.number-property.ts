@@ -7,6 +7,6 @@ export const anchorBlockWeeks = {
   pageTypeSlug: "number-property",
   slug: "anchor-block-weeks",
   propertySlug: "anchor-block-weeks",
-  definition: "how many weeks an anchor movement holds its place before it may change",
+  definition: "how many weeks an anchor movement has its place before it may change",
   max: null,
 } as const satisfies NumberProperty

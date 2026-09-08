@@ -7,7 +7,7 @@ export const partsProgressInWords = {
   pageTypeSlug: "number-property",
   slug: "parts-progress-in-words",
   propertySlug: "parts-progress-in-words",
-  definition: "how far through the collections this one holds the reading has come, in words",
+  definition: "how far through the collections this one has the reading has come, in words",
   max: null,
   invariants: [
     {

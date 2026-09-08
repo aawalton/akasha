@@ -9,15 +9,15 @@ export const folderName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A folder holding one page is named for that page's slug.",
+      statement: "A folder with one page is named for that page's slug.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding the property pages of a page is named `properties`.",
+      statement: "A folder with the property pages of a page is named `properties`.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding many pages of one type is named that type's plural.",
+      statement: "A folder with many pages of one type is named that type's plural.",
     },
   ],
 } as const satisfies NamePlace

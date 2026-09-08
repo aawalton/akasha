@@ -5,7 +5,7 @@ export const audio = {
   id: "019f189b-018c-74b8-920b-845fe171aee7",
   pageTypeSlug: "page-type",
   slug: "audio",
-  definition: "one sound the system holds",
+  definition: "one sound the system has",
   pluralSlug: "audios",
   extendsSlug: ["page-type/page"],
   invariants: [

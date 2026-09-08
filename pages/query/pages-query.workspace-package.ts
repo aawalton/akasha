@@ -17,8 +17,7 @@ export const pagesQuery = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "This package holds the store half of `@shared/pages-query` rather than the router.",
+      statement: "This package has the store half of `@shared/pages-query` rather than the router.",
     },
     {
       invariantKind: "departure",

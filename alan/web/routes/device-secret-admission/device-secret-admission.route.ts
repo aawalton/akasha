@@ -4,13 +4,13 @@ export const deviceSecretAdmission = {
   id: "01a08243-801c-7c22-aeb9-ab9b8c8261dc",
   pageTypeSlug: "route",
   slug: "device-secret-admission",
-  definition: "whether the secret a phone holds is still one the store admits",
+  definition: "whether the secret a phone has is still one the store admits",
   code: "ts",
   urlPath: "api/device-secret/admission",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is the one route a phone asks whether the secret it holds is still good.",
+      statement: "This is the one route a phone asks whether the secret it has is still good.",
     },
     {
       invariantKind: "departure",

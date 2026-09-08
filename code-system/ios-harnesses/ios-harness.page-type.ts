@@ -34,7 +34,7 @@ export const iosHarness = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A harness's Swift is held in a file beside the page.",
+      statement: "A harness's Swift is in a file beside the page.",
     },
     {
       invariantKind: "departure",

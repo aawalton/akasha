@@ -7,7 +7,7 @@ export const knowing = {
   pageTypeSlug: "text-property",
   slug: "knowing",
   propertySlug: "knowing",
-  definition: "what an element holds as so",
+  definition: "what an element has as so",
   maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

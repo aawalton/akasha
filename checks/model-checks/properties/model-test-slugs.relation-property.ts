@@ -14,7 +14,7 @@ export const modelTestSlugs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One check holds the tests that judge one thing from different sides.",
+      statement: "One check has the tests that judge one thing from different sides.",
     },
   ],
 } as const satisfies RelationProperty

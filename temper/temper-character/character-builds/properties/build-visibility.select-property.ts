@@ -5,7 +5,7 @@ export const buildVisibility = {
   pageTypeSlug: "select-property",
   slug: "build-visibility",
   propertySlug: "visibility",
-  definition: "how a build stands to the character holding it",
+  definition: "how a build stands to the character with it",
   values: ["live", "target", "private"],
   invariants: [
     {

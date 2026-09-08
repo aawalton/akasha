@@ -34,7 +34,7 @@ export const smsDiscard = {
     },
     {
       invariantKind: "absence",
-      statement: "A discard holds no part of the message thrown away.",
+      statement: "A discard has no part of the message thrown away.",
     },
     {
       invariantKind: "departure",

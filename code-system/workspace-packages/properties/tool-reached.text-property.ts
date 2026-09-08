@@ -29,7 +29,7 @@ export const toolReached = {
     {
       invariantKind: "departure",
       statement:
-        "A package naming nothing here has every dependency reached by a body the package holds.",
+        "A package naming nothing here has every dependency reached by a body the package has.",
     },
   ],
 } as const satisfies TextProperty

@@ -17,7 +17,7 @@ export const kiSeason = {
     },
     {
       invariantKind: "departure",
-      statement: "A season of Ki's names the episodes that season holds.",
+      statement: "A season of Ki's names the episodes that season has.",
     },
     {
       invariantKind: "departure",

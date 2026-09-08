@@ -35,7 +35,7 @@ export const temperAddonBuild = {
     {
       invariantKind: "departure",
       statement:
-        "An addon whose source is in akasha is transpiled from where akasha holds the source.",
+        "An addon whose source is in akasha is transpiled from where akasha has the source.",
     },
     {
       invariantKind: "gap",
@@ -43,8 +43,7 @@ export const temperAddonBuild = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A build runs on the workstation holding the transpiler rather than in the cluster.",
+      statement: "A build runs on the workstation with the transpiler rather than in the cluster.",
     },
     {
       invariantKind: "gap",

@@ -38,7 +38,7 @@ export const world = {
     {
       invariantKind: "departure",
       statement:
-        "A world states a reading property only where the world holds rows under that property.",
+        "A world states a reading property only where the world has rows under that property.",
     },
     {
       invariantKind: "departure",

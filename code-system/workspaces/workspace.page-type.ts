@@ -67,11 +67,11 @@ export const workspace = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A workspace holds its manifest at the root of its own folder.",
+      statement: "A workspace has its manifest at the root of its own folder.",
     },
     {
       invariantKind: "departure",
-      statement: "A workspace holds its lockfile beside that manifest.",
+      statement: "A workspace has its lockfile beside that manifest.",
     },
     {
       invariantKind: "departure",

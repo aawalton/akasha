@@ -95,7 +95,7 @@ export const index = {
     },
     {
       invariantKind: "stopgap",
-      statement: "The index holds every page.",
+      statement: "The index has every page.",
     },
     {
       invariantKind: "departure",
@@ -103,7 +103,7 @@ export const index = {
     },
     {
       invariantKind: "gap",
-      statement: "No page's entry is older than the files its properties hold.",
+      statement: "No page's entry is older than the files its properties have.",
     },
     {
       invariantKind: "departure",

@@ -17,7 +17,7 @@ export const merchantPatterns = {
     },
     {
       invariantKind: "departure",
-      statement: "A pattern matches where the bank's line holds that pattern anywhere.",
+      statement: "A pattern matches where the bank's line has that pattern anywhere.",
     },
   ],
 } as const satisfies TextProperty

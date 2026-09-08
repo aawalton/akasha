@@ -37,7 +37,7 @@ export const directives = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One list holds every directive.",
+      statement: "One list has every directive.",
     },
     {
       invariantKind: "departure",

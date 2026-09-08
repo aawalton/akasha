@@ -51,7 +51,7 @@ export const initiative = {
     {
       invariantKind: "departure",
       statement:
-        "An initiative takes each intent off the domain that held the intent and holds the intent as its own.",
+        "An initiative takes each intent off the domain that held the intent and has the intent as its own.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +68,7 @@ export const initiative = {
     },
     {
       invariantKind: "departure",
-      statement: "An initiative's purpose is done once every intent that initiative holds is met.",
+      statement: "An initiative's purpose is done once every intent that initiative has is met.",
     },
     {
       invariantKind: "departure",
@@ -81,7 +81,7 @@ export const initiative = {
     },
     {
       invariantKind: "upkeep",
-      statement: "No initiative holds an intent that is met.",
+      statement: "No initiative has an intent that is met.",
     },
     {
       invariantKind: "gap",

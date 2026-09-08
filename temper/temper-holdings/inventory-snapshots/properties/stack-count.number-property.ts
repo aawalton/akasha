@@ -7,6 +7,6 @@ export const stackCount = {
   pageTypeSlug: "number-property",
   slug: "stack-count",
   propertySlug: "stack-count",
-  definition: "how many of an item a stack holds",
+  definition: "how many of an item a stack has",
   max: null,
 } as const satisfies NumberProperty

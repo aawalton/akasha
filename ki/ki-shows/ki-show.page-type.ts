@@ -13,7 +13,7 @@ export const kiShow = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A show of Ki's names the seasons that show holds.",
+      statement: "A show of Ki's names the seasons that show has.",
     },
     {
       invariantKind: "departure",

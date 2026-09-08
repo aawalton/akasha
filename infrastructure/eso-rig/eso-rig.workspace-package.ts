@@ -16,15 +16,15 @@ export const esoRig = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "The substrate holds no game.",
+      statement: "The substrate has no game.",
     },
     {
       invariantKind: "absence",
-      statement: "The substrate holds no controller.",
+      statement: "The substrate has no controller.",
     },
     {
       invariantKind: "absence",
-      statement: "The substrate holds no policy.",
+      statement: "The substrate has no policy.",
     },
     {
       invariantKind: "departure",

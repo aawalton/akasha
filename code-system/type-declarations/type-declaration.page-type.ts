@@ -28,7 +28,7 @@ export const typeDeclaration = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A type declaration's TypeScript is held in a file beside the page.",
+      statement: "A type declaration's TypeScript is in a file beside the page.",
     },
     {
       invariantKind: "departure",

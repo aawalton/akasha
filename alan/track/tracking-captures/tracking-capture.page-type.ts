@@ -14,7 +14,7 @@ export const trackingCapture = {
     {
       invariantKind: "departure",
       statement:
-        "Where a value came from is a page rather than a word on the field that holds that value.",
+        "Where a value came from is a page rather than a word on the field that has that value.",
     },
     {
       invariantKind: "absence",

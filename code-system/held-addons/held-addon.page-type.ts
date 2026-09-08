@@ -63,12 +63,11 @@ export const heldAddon = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The name a page here states is judged against the addon manifests the tree holds.",
+      statement: "The name a page here states is judged against the addon manifests the tree has.",
     },
     {
       invariantKind: "gap",
-      statement: "Every addon the temper port holds is a page here.",
+      statement: "Every addon the temper port has is a page here.",
     },
   ],
 } as const satisfies PageType

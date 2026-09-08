@@ -23,7 +23,7 @@ export const request = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat holds one request or no request.",
+      statement: "A seat has one request or no request.",
     },
     {
       invariantKind: "departure",

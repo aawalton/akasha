@@ -37,7 +37,7 @@ export const lualib = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A helper's TypeScript is held in a file beside the page.",
+      statement: "A helper's TypeScript is in a file beside the page.",
     },
     {
       invariantKind: "constraint",

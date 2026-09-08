@@ -7,7 +7,7 @@ export const resumeTokenThreshold = {
   pageTypeSlug: "number-property",
   slug: "resume-token-threshold",
   propertySlug: "resume-token-threshold",
-  definition: "how many tokens a seat's session holds before starting it offers the resume menu",
+  definition: "how many tokens a seat's session has before starting it offers the resume menu",
   max: null,
   invariants: [
     {

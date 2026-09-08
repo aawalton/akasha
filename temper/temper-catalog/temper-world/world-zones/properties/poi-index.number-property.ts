@@ -7,6 +7,6 @@ export const poiIndex = {
   pageTypeSlug: "number-property",
   slug: "poi-index",
   propertySlug: "poi-index",
-  definition: "where a point of interest falls among the places a zone holds",
+  definition: "where a point of interest falls among the places a zone has",
   max: null,
 } as const satisfies NumberProperty

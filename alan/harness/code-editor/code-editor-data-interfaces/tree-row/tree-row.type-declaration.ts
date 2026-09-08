@@ -21,7 +21,7 @@ export const treeRow = {
     },
     {
       invariantKind: "departure",
-      statement: "A row holds its children under the type that row is.",
+      statement: "A row has its children under the type that row is.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const treeRow = {
     },
     {
       invariantKind: "departure",
-      statement: "The editor holds the color each name is drawn as.",
+      statement: "The editor has the color each name is drawn as.",
     },
   ],
 } as const satisfies TypeDeclaration

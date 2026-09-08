@@ -177,7 +177,7 @@ export const collection = {
     },
     {
       invariantKind: "departure",
-      statement: "A collection holding only parts states a length of its own of nothing.",
+      statement: "A collection with only parts states a length of its own of nothing.",
     },
     {
       invariantKind: "departure",

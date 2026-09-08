@@ -41,7 +41,7 @@ export const transactions = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry states nothing that entry holds no value for.",
+      statement: "An entry states nothing that entry has no value for.",
     },
     {
       invariantKind: "departure",

@@ -23,7 +23,7 @@ export const staleFolders = {
     },
     {
       invariantKind: "departure",
-      statement: "A package holding no workspaces of its own is not descended into.",
+      statement: "A package with no workspaces of its own is not descended into.",
     },
     {
       invariantKind: "absence",

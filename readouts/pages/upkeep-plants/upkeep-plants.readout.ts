@@ -37,7 +37,7 @@ export const upkeepPlants = {
     },
     {
       invariantKind: "departure",
-      statement: "A day holding no food entry is a reading of zero rather than no reading.",
+      statement: "A day with no food entry is a reading of zero rather than no reading.",
     },
 
     {

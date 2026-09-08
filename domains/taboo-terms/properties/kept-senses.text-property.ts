@@ -15,7 +15,7 @@ export const keptSenses = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One list holds every sense a term keeps.",
+      statement: "One list has every sense a term keeps.",
     },
     {
       invariantKind: "departure",

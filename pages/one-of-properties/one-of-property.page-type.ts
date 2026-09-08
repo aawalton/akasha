@@ -10,7 +10,7 @@ export const oneOfProperty = {
   id: "01a062b2-e0ca-7409-b87f-b8122ca96d56",
   pageTypeSlug: "page-type",
   slug: "one-of-property",
-  definition: "a page property holding a value one of its members holds",
+  definition: "a page property with a value one of its members has",
   pluralSlug: "one-of-properties",
   partSlugs: ["relation-property/member-slugs"],
   extendsSlug: ["page-type/page-property"],
@@ -45,7 +45,7 @@ export const oneOfProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A property holding a member that admits every value refuses nothing.",
+      statement: "A property with a member that admits every value refuses nothing.",
     },
   ],
 } as const satisfies PageType

@@ -26,7 +26,7 @@ export const season = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The season numbered zero holds the episodes sitting outside the run.",
+      statement: "The season numbered zero has the episodes sitting outside the run.",
     },
     {
       invariantKind: "departure",

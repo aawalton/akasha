@@ -12,7 +12,7 @@ export const bookSeries = {
   id: "01a06598-222b-7003-beee-2001c8924b27",
   pageTypeSlug: "page-type",
   slug: "book-series",
-  definition: "a shelf holding the books of one work",
+  definition: "a shelf with the books of one work",
   pluralSlug: "book-series",
   extendsSlug: ["page-type/collection-external"],
   partSlugs: ["select-property/maturity-rating"],
@@ -23,11 +23,11 @@ export const bookSeries = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A series holds books alone.",
+      statement: "A series has books alone.",
     },
     {
       invariantKind: "departure",
-      statement: "The books a series holds are the books naming that series.",
+      statement: "The books a series has are the books naming that series.",
     },
     {
       invariantKind: "departure",

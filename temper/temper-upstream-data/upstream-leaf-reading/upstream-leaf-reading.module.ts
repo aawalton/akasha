@@ -21,7 +21,7 @@ export const upstreamLeafReading = {
     },
     {
       invariantKind: "departure",
-      statement: "An upstream dump with no leaf beside a ported dump holding no leaf is refused.",
+      statement: "An upstream dump with no leaf beside a ported dump with no leaf is refused.",
     },
 
     {

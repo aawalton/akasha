@@ -48,7 +48,7 @@ export const masteryLevel = {
     {
       invariantKind: "departure",
       statement:
-        "A topic Alan derives from the core Alan holds scores whether or not Alan studied that topic.",
+        "A topic Alan derives from the core Alan has scores whether or not Alan studied that topic.",
     },
   ],
 } as const satisfies PageType

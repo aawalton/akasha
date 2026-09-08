@@ -14,7 +14,7 @@ export const habitStoplights = {
     },
     {
       invariantKind: "departure",
-      statement: "The readouts the group holds are read off the readout pages.",
+      statement: "The readouts the group has are read off the readout pages.",
     },
     {
       invariantKind: "departure",

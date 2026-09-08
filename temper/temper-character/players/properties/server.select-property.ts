@@ -10,7 +10,7 @@ export const server = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A megaserver holds its own trading prices.",
+      statement: "A megaserver has its own trading prices.",
     },
   ],
 } as const satisfies SelectProperty

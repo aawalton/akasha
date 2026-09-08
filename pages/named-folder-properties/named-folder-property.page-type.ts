@@ -34,11 +34,11 @@ export const namedFolderProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A page claiming a folder claims every file that folder holds.",
+      statement: "A page claiming a folder claims every file that folder has.",
     },
     {
       invariantKind: "departure",
-      statement: "A page states whether it holds the folder rather than what the folder holds.",
+      statement: "A page states whether it has the folder rather than what the folder holds.",
     },
   ],
 } as const satisfies PageType

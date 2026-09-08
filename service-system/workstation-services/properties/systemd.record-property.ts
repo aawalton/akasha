@@ -63,7 +63,7 @@ export const systemd = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One record holds every option the unit states.",
+      statement: "One record has every option the unit states.",
     },
     {
       invariantKind: "departure",

@@ -53,7 +53,7 @@ export const temperWorldZone = {
     {
       invariantKind: "departure",
       statement:
-        "A zone states an entry property only where the zone holds rows under that property.",
+        "A zone states an entry property only where the zone has rows under that property.",
     },
   ],
 } as const satisfies PageType

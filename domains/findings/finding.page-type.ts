@@ -43,7 +43,7 @@ export const finding = {
     },
     {
       invariantKind: "departure",
-      statement: "A finding written into the book section holding its subject is done.",
+      statement: "A finding written into the book section with its subject is done.",
     },
     {
       invariantKind: "departure",

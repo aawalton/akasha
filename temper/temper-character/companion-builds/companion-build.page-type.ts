@@ -36,7 +36,7 @@ export const companionBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "One companion holds many builds.",
+      statement: "One companion has many builds.",
     },
     {
       invariantKind: "departure",

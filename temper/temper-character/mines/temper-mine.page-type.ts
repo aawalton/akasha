@@ -70,7 +70,7 @@ export const temperMine = {
     },
     {
       invariantKind: "departure",
-      statement: "A sweep's rows run past the byte ceiling one file holds.",
+      statement: "A sweep's rows run past the byte ceiling one file has.",
     },
   ],
 } as const satisfies PageType

@@ -23,7 +23,7 @@ export const narrowValues = {
     },
     {
       invariantKind: "stopgap",
-      statement: "A value is written as text whatever kind the key the value narrows holds.",
+      statement: "A value is written as text whatever kind the key the value narrows has.",
     },
   ],
 } as const satisfies TextProperty

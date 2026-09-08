@@ -30,7 +30,7 @@ export const emailEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "One entry holds one day.",
+      statement: "One entry has one day.",
     },
     {
       invariantKind: "departure",

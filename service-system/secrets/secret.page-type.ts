@@ -31,7 +31,7 @@ export const secret = {
     },
     {
       invariantKind: "departure",
-      statement: "One page holds one value.",
+      statement: "One page has one value.",
     },
     {
       invariantKind: "departure",

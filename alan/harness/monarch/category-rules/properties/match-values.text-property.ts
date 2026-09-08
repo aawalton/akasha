@@ -13,7 +13,7 @@ export const matchValues = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value is written in the words the vocabulary holds rather than in a title.",
+      statement: "A value is written in the words the vocabulary has rather than in a title.",
     },
   ],
 } as const satisfies TextProperty

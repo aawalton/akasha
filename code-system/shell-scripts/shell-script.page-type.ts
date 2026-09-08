@@ -30,7 +30,7 @@ export const shellScript = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A shell script is held in a file beside the page.",
+      statement: "A shell script is in a file beside the page.",
     },
     {
       invariantKind: "departure",

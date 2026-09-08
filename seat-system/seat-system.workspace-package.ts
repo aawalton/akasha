@@ -377,7 +377,7 @@ export const seatSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "Every value a seat holds is either declared of the seat or observed of the seat.",
+      statement: "Every value a seat has is either declared of the seat or observed of the seat.",
     },
     {
       invariantKind: "upkeep",
@@ -412,7 +412,7 @@ export const seatSystem = {
     {
       invariantKind: "departure",
       statement:
-        "A supervisor restarts onto current code without interrupting the session that supervisor holds.",
+        "A supervisor restarts onto current code without interrupting the session that supervisor has.",
     },
     {
       invariantKind: "departure",

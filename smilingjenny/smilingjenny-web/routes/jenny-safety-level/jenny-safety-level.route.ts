@@ -15,7 +15,7 @@ export const jennySafetyLevel = {
     },
     {
       invariantKind: "departure",
-      statement: "The readouts the group holds are read off the readout pages.",
+      statement: "The readouts the group has are read off the readout pages.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const jennySafetyLevel = {
     },
     {
       invariantKind: "constraint",
-      statement: "Jenny's shipped widget decodes `stoplights` as a list holding at least one.",
+      statement: "Jenny's shipped widget decodes `stoplights` as a list with at least one.",
     },
     {
       invariantKind: "constraint",

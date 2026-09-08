@@ -4,7 +4,7 @@ export const tsconfigReferences = {
   id: "01a06868-b18d-78ce-87db-9426be7dee4b",
   pageTypeSlug: "module",
   slug: "tsconfig-references",
-  definition: "the references a repository's tsconfig files hold, and which reach nothing",
+  definition: "the references a repository's tsconfig files have, and which reach nothing",
   code: "ts",
   test: "ts",
   invariants: [
@@ -20,12 +20,11 @@ export const tsconfigReferences = {
     {
       invariantKind: "departure",
       statement:
-        "A reference is read against the folder holding the tsconfig that states the reference.",
+        "A reference is read against the folder with the tsconfig that states the reference.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A reference naming a folder reaches that folder where the folder holds a tsconfig.",
+      statement: "A reference naming a folder reaches that folder where the folder has a tsconfig.",
     },
     {
       invariantKind: "departure",

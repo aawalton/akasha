@@ -15,7 +15,7 @@ export const noScrubBashEnvUndoes = {
     },
     {
       invariantKind: "departure",
-      statement: "The words a list holds are read as one command line.",
+      statement: "The words a list has are read as one command line.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const noScrubBashEnvUndoes = {
     },
     {
       invariantKind: "departure",
-      statement: "A call already refused is not read again through the arguments the call holds.",
+      statement: "A call already refused is not read again through the arguments the call has.",
     },
     {
       invariantKind: "gap",

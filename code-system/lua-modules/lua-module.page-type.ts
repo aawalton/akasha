@@ -23,7 +23,7 @@ export const luaModule = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A Lua module's code is held in a file beside the page.",
+      statement: "A Lua module's code is in a file beside the page.",
     },
     {
       invariantKind: "departure",

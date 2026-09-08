@@ -30,7 +30,7 @@ export const matches = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule holding no clause catches nothing.",
+      statement: "A rule with no clause catches nothing.",
     },
     {
       invariantKind: "departure",

@@ -14,6 +14,6 @@ export const dropSources = {
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a scribing source." },
-    { invariantKind: "departure", statement: "One list holds every errand a style drops from." },
+    { invariantKind: "departure", statement: "One list has every errand a style drops from." },
   ],
 } as const satisfies TextProperty

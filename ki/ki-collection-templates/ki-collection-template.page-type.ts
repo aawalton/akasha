@@ -21,7 +21,7 @@ export const kiCollectionTemplate = {
     },
     {
       invariantKind: "departure",
-      statement: "No page type holds a collection of Ki's beside a collection of Alan's.",
+      statement: "No page type has a collection of Ki's beside a collection of Alan's.",
     },
     {
       invariantKind: "departure",

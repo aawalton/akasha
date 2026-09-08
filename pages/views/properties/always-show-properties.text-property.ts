@@ -7,7 +7,7 @@ export const alwaysShowProperties = {
   pageTypeSlug: "text-property",
   slug: "always-show-properties",
   propertySlug: "always-show-properties",
-  definition: "the properties a view draws even where a page holds no value for them",
+  definition: "the properties a view draws even where a page has no value for them",
   maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty
