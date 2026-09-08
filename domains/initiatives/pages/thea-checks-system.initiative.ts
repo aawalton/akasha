@@ -38,7 +38,7 @@ export const theaChecksSystem = {
     {
       statement: "Every runtime helper the Lua compiler carries is a page.",
       workingMemory:
-        "All five splits landed. lualib/src holds 104 files against 115, lualibs 26 pages, 135 features, suite 50 of 50. Left are 91 leaves that move plainly, 13 non-leaves, and 5 overlay twins last, no page yet carrying lua50-code. Prove a move by hashing the removed source against the added code file in the one commit, then byte-identity on nine targets, then the suite at /var/tmp/imip/thea-behaviour.lua. A split takes the suite first. No mover is possible, a program cannot write into the checkout.",
+        "lualib/src holds 51 files against 115, lualibs 88 pages, 135 features, suite 50 of 50. lua50-code is proven on sparse-array-spread, the one page holding both code files: the 5.0 bundle emits the Unpack body and the other eight table.unpack. Left are 12 plain moves, 25 whose own import is repointed, 8 non-leaves, 4 twins. Prove a move by hashing the removed source against the added code file in the commit, then nine-target byte-identity, then /var/tmp/imip/thea-behaviour.lua.",
     },
     {
       statement: "Every property file has the page whose property that file is.",
