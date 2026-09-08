@@ -20,7 +20,7 @@ export const aelwynStrengthTraining = {
     {
       statement: "A planner chooses Alan's next movement from principles he settled.",
       workingMemory:
-        "The old planner is deleted: the `session-planning` package whole, and the commands `exercise-select`, `exercise-next-set` and `exercise-ranks`. Alan called for a rebuild from first principles on 2026-09-08. Nothing chooses a movement today. Kept for the rebuild: the goal weights L40 E30 F20 A10, the layoff and novelty knobs the selection policy carries, the 13 coaching constraints, and the 884-movement catalogue. The principles themselves are unsettled.",
+        "The old planner is deleted: the `session-planning` package whole, and the commands `exercise-select`, `exercise-next-set` and `exercise-ranks`. Alan called for a rebuild from first principles on 2026-09-08. Nothing chooses a movement today. Kept for the rebuild: the goal weights L40 E30 F20 A10, the layoff and novelty knobs the selection policy carries, the 23 coaching notes, and the 884-movement catalogue. The principles themselves are unsettled.",
     },
     {
       statement: "A joint's mobility reads as a direction.",
