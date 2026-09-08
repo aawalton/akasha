@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command-system/commands/command.page-type.ts"
+import type { Command } from "../../../command.page-type.ts"
 
 export const inferenceActive = {
   id: "01a0685e-fd50-7513-8357-2d89b53ef8b1",

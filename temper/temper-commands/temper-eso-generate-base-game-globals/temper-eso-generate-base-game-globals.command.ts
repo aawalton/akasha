@@ -1,4 +1,4 @@
-import type { Command } from "../../../command-system/commands/command.page-type.ts"
+import type { Command } from "../../../commands/command.page-type.ts"
 
 export const temperEsoGenerateBaseGameGlobals = {
   id: "01a0685d-f8fa-7913-8b39-8d1f9f835d34",

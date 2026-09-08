@@ -1,4 +1,4 @@
-import type { Command } from "../../../../../command-system/commands/command.page-type.ts"
+import type { Command } from "../../../../command.page-type.ts"
 
 export const mobileSimLongPressDrag = {
   id: "01a0685d-ceae-7008-b721-3b37d87dca97",

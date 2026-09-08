@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command-system/commands/command.page-type.ts"
+import type { Command } from "../../../command.page-type.ts"
 
 export const seatRefreshSettings = {
   id: "01a0685f-5754-74e9-8b40-493ffdcdadda",

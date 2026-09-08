@@ -1,4 +1,4 @@
-import type { Command } from "../../../command-system/commands/command.page-type.ts"
+import type { Command } from "../../command.page-type.ts"
 
 export const subagentSweep = {
   id: "01a072c2-eed8-7f35-9595-65c72afdc7aa",

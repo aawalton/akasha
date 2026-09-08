@@ -1,4 +1,4 @@
-import type { Command } from "../../../command-system/commands/command.page-type.ts"
+import type { Command } from "../../../commands/command.page-type.ts"
 
 export const temperInventoryMasterConsumableTrace = {
   id: "01a0603c-c1d5-7627-a06a-0889a2e23e44",

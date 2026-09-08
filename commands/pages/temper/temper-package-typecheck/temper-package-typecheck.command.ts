@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command-system/commands/command.page-type.ts"
+import type { Command } from "../../../command.page-type.ts"
 
 export const temperPackageTypecheck = {
   id: "01a061f6-390b-72a7-97b3-528d057fbbf4",

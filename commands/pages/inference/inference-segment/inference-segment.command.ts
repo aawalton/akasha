@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command-system/commands/command.page-type.ts"
+import type { Command } from "../../../command.page-type.ts"
 
 export const inferenceSegment = {
   id: "01a0685e-fd50-7faf-a163-46fe4ccb9461",

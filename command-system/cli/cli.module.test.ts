@@ -100,9 +100,7 @@ test("a name no command carries is a caller's mistake too", async () => {
   valueAlsoFiled(root, COMMAND, [
     { path: "akasha/r.command.ts", value: { id: ID, pageTypeSlug: COMMAND, slug: "read" } },
   ])
-  idFiled(root, COMMAND_TYPE, [
-    { path: "akasha/command-system/commands/command.page-type.ts", id: COMMAND_TYPE },
-  ])
+  idFiled(root, COMMAND_TYPE, [{ path: "akasha/commands/command.page-type.ts", id: COMMAND_TYPE }])
   const said = await answering(["held"], { AKASHA_ROOT: root }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("is no command akasha carries")

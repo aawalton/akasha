@@ -1,4 +1,4 @@
-import type { Command } from "../../../../../command-system/commands/command.page-type.ts"
+import type { Command } from "../../../../command.page-type.ts"
 
 export const emailDraftsCreate = {
   id: "01a06810-cf11-70dc-9875-5c649a88fe59",
