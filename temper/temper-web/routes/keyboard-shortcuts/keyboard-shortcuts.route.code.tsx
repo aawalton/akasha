@@ -1,7 +1,7 @@
 import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
 import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Suspense } from "react"
-import { KeyboardShortcutsPageContent } from "../keyboard-shortcuts-page-content/keyboard-shortcuts-page-content.module.code.tsx"
+import { KeyboardShortcutsPageContent } from "../../keyboard-shortcuts-page-content/keyboard-shortcuts-page-content.module.code.tsx"
 
 export function meta() {
   return [{ title: "Temper | Keyboard Shortcuts" }]

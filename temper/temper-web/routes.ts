@@ -12,7 +12,7 @@ const PAGE_ROUTES: RouteConfig = [
     ),
     route("import", "routes/data-import/data-import.route.code.tsx"),
     route("inventory", "routes/inventory/inventory.route.code.tsx"),
-    route("keyboard-shortcuts", "routes/keyboard-shortcuts.tsx"),
+    route("keyboard-shortcuts", "routes/keyboard-shortcuts/keyboard-shortcuts.route.code.tsx"),
     route("methodology", "routes/methodology.tsx"),
     route("settings", "routes/settings.tsx"),
     route("shopping", "routes/shopping.tsx"),
