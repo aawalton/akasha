@@ -1,6 +1,6 @@
-import { fail } from "@akasha/command-system/command-failing"
 import { resolveRoots } from "@akasha/pages/checkout-roots"
 import type { Outcome } from "@akasha/seat-system/gated-write"
+import { fail } from "../command-failing/command-failing.module.code.ts"
 import {
   nameFromHistory,
   parentFromHistory,

@@ -1,6 +1,6 @@
-import { fail } from "@akasha/command-system/command-failing"
 import { readPayload, record, rejectUnknownFlags } from "@akasha/seat-system/payload"
 import { type SeatWhoami, seatWhoami } from "@akasha/seat-system/seat-whoami"
+import { fail } from "../command-failing/command-failing.module.code.ts"
 import { stateSeatFromArgv } from "../seat-running/seat-running.module.code.ts"
 
 const VALUES: readonly (readonly [string, string])[] = [

@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
-import { fail } from "@akasha/command-system/command-failing"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { fail } from "../command-failing/command-failing.module.code.ts"
 
 export const NOTICES = "seat-system/notices/pages"
 
@@ -58,16 +58,14 @@ export function render(body: string): string {
 }
 
 export function noticesUnder(folder: string): Readonly<Record<string, string>> {
-  const notices: Record<string, string> = {}
+  const rendered: Record<string, string> = {}
   for (const name of readdirSync(folder).sort()) {
     if (!name.endsWith(TAIL)) continue
-    notices[name.slice(0, -TAIL.length)] = render(readFileSync(`${folder}/${name}`, "utf8"))
+    rendered[name.slice(0, -TAIL.length)] = render(readFileSync(`${folder}/${name}`, "utf8"))
   }
-  return notices
+  return rendered
 }
 
-// What an importer asks for: every notice there is, in one map. It throws rather than answering
-// with nothing, so a caller is the one that decides what nothing means for it.
 export function notices(): Readonly<Record<string, string>> {
   const folder = `${rootFor(resolveRoots(), AKASHA)}/${NOTICES}`
   if (!existsSync(folder)) {
@@ -80,7 +78,7 @@ export function notices(): Readonly<Record<string, string>> {
   return found
 }
 
-function main(): void {
+function main(): undefined {
   const { out } = parse(process.argv.slice(2))
   let composed: Readonly<Record<string, string>>
   try {

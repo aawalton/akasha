@@ -1,5 +1,5 @@
-import { fail } from "@akasha/command-system/command-failing"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { fail } from "../command-failing/command-failing.module.code.ts"
 import { type Principal, principals } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import {
   ASSIGNMENTS,
@@ -29,9 +29,6 @@ export interface Args {
   readonly registration: string | null
 }
 
-// A MODE AND A PRINCIPAL ARE JUDGED WHERE THEY ARE READ AND ALSO WHERE THEY ARE STATED. A caller
-// reaching the seat as a function hands these over as values rather than as words on a command
-// line, so the sentence that refuses a wrong one is written here once and read by both.
 export function modeRefusal(named: string): string | null {
   if (MODES.includes(named as Mode)) return null
   return `\`${named}\` is no mode — one of: ${MODES.join(", ")}`

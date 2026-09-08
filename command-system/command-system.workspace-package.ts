@@ -14,7 +14,6 @@ export const commandSystem = {
     "module/command-answering",
     "module/command-filling",
     "module/command-declaring",
-    "module/command-failing",
     "module/landing",
     "module/cli",
     "module/asking",

@@ -1,4 +1,3 @@
-import { fail } from "@akasha/command-system/command-failing"
 import { arr, bool, maybe, num, obj, str } from "@akasha/seat-system/argument-narrowing"
 import {
   isIdleForPreservingRestart,
@@ -19,6 +18,7 @@ import {
   computeReExecJitterMs,
   resolveMaxReExecJitterMs,
 } from "@akasha/seat-system/supervisor-self-heal-jitter-decide"
+import { fail } from "../../command-failing/command-failing.module.code.ts"
 import {
   classifyChildExit,
   collapseChildExitStatus,

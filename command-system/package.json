@@ -43,8 +43,7 @@
     "./said-pathing": "./said-pathing/said-pathing.module.code.ts",
     "./scratching": "./scratching/scratching.module.code.ts",
     "./scratching/testing": "./scratching/scratching.module.test-fixtures.ts",
-    "./value-minting": "./value-minting/value-minting.module.code.ts",
-    "./command-failing": "./command-failing/command-failing.module.code.ts"
+    "./value-minting": "./value-minting/value-minting.module.code.ts"
   },
   "dependencies": {
     "@akasha/changes": "workspace:*",
