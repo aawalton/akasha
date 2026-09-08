@@ -15,7 +15,7 @@ export const modulesOnly = {
     },
     {
       invariantKind: "departure",
-      statement: "A module carries files of its own.",
+      statement: "A module has files of its own.",
     },
     {
       invariantKind: "departure",

@@ -15,7 +15,7 @@ export const prose = {
     },
     {
       invariantKind: "departure",
-      statement: "A page whose text would outrun a description carries the text here.",
+      statement: "A page whose text would outrun a description has the text here.",
     },
   ],
 } as const satisfies FileProperty

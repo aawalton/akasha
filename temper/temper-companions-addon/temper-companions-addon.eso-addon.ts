@@ -68,7 +68,7 @@ export const temperCompanionsAddon = {
     },
     {
       invariantKind: "constraint",
-      statement: "The index a hash carries is the index the codec constants and mappings give.",
+      statement: "The index a hash has is the index the codec constants and mappings give.",
     },
     {
       invariantKind: "gap",

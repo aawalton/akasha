@@ -11,11 +11,11 @@ export const indexDeclaring = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One file carries every property shape the pages declare.",
+      statement: "One file has every property shape the pages declare.",
     },
     {
       invariantKind: "departure",
-      statement: "A line carries one property shape and nothing more.",
+      statement: "A line has one property shape and nothing more.",
     },
     {
       invariantKind: "departure",

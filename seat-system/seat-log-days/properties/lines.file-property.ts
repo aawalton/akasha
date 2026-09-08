@@ -15,11 +15,11 @@ export const lines = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the instant the line was written.",
+      statement: "A line has the instant the line was written.",
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the agent id the writing process ran under.",
+      statement: "A line has the agent id the writing process ran under.",
     },
     {
       invariantKind: "departure",

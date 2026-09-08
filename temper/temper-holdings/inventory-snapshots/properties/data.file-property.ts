@@ -24,7 +24,7 @@ export const data = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading whose pieces rejoin to no JSON document carries no data file.",
+      statement: "A reading whose pieces rejoin to no JSON document has no data file.",
     },
     {
       invariantKind: "stopgap",
@@ -32,11 +32,11 @@ export const data = {
     },
     {
       invariantKind: "stopgap",
-      statement: "The rows a data file carries are being modelled as the reading's own entries.",
+      statement: "The rows a data file has are being modelled as the reading's own entries.",
     },
     {
       invariantKind: "stopgap",
-      statement: "A data file goes once those entries are proved to carry its rows.",
+      statement: "A data file goes once those entries are proved to have its rows.",
     },
     {
       invariantKind: "stopgap",

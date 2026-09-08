@@ -44,7 +44,7 @@ export const agentTurnColors = {
     },
     {
       invariantKind: "departure",
-      statement: "A name no turn state carries is refused rather than left out.",
+      statement: "A name no turn state has is refused rather than left out.",
     },
     {
       invariantKind: "departure",

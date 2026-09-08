@@ -14,7 +14,7 @@ export const activity = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The activity is read from the tracking the workstation's checkout carries.",
+      statement: "The activity is read from the tracking the workstation's checkout has.",
     },
     {
       invariantKind: "departure",

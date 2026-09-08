@@ -4,7 +4,7 @@ export const indexIdentity = {
   id: "01a04a4a-23e9-741f-a0ce-e56753a7b13f",
   pageTypeSlug: "index",
   slug: "index-identity",
-  definition: "an index from an identifier to the page carrying it",
+  definition: "an index from an identifier to the page with it",
   name: "identity",
   code: "ts",
   test: "ts",
@@ -27,7 +27,7 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the page's path and its id.",
+      statement: "A line has the page's path and its id.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const indexIdentity = {
     {
       invariantKind: "departure",
       statement:
-        "A page's identifiers are the properties its own page type carries stating a `unique`.",
+        "A page's identifiers are the properties its own page type has stating a `unique`.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "A file has one line for each page carrying the value.",
+      statement: "A file has one line for each page with the value.",
     },
     {
       invariantKind: "departure",

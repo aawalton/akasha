@@ -7,13 +7,13 @@ export const worked = {
   pageTypeSlug: "file-property",
   slug: "worked",
   propertySlug: "worked",
-  definition: "the type carrying a page type's calculations beside its stored keys",
+  definition: "the type with a page type's calculations beside its stored keys",
   machineWritten: true,
   runsFileLength: false,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page type carrying a calculation states this property.",
+      statement: "A page type with a calculation states this property.",
     },
     {
       invariantKind: "departure",

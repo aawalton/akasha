@@ -171,7 +171,7 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest the change carries reaches the files its ways in name.",
+      statement: "A manifest the change has reaches the files its ways in name.",
     },
     {
       invariantKind: "departure",

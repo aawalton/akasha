@@ -28,8 +28,7 @@ export const sectionsOfTheBookAbove = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A section carries its prose in a file beside the section rather than in a folder.",
+      statement: "A section has its prose in a file beside the section rather than in a folder.",
     },
     {
       invariantKind: "departure",

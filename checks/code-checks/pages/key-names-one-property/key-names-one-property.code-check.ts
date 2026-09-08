@@ -15,7 +15,7 @@ export const keyNamesOneProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The properties judged are the properties a page type carries after shadowing.",
+      statement: "The properties judged are the properties a page type has after shadowing.",
     },
     {
       invariantKind: "departure",

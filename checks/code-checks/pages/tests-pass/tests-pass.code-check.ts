@@ -48,7 +48,7 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest the change carries is reached under the name that manifest states.",
+      statement: "A manifest the change has is reached under the name that manifest states.",
     },
     {
       invariantKind: "departure",

@@ -15,7 +15,7 @@ export const temperInventoryBuyRuleShow = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An id no buy rule carries refuses the call.",
+      statement: "An id no buy rule has refuses the call.",
     },
   ],
 } as const satisfies Command

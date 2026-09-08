@@ -36,7 +36,7 @@ export const aPageTypeWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder carries the name that page calls its folder.",
+      statement: "The folder has the name that page calls its folder.",
     },
     {
       invariantKind: "departure",

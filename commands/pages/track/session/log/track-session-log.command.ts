@@ -73,7 +73,7 @@ export const trackSessionLog = {
     },
     {
       invariantKind: "departure",
-      statement: "A title more than one relationship carries is refused.",
+      statement: "A title more than one relationship has is refused.",
     },
     {
       invariantKind: "departure",

@@ -22,7 +22,7 @@ export const noImportCycle = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a cycle with a file the change carries is refused.",
+      statement: "Only a cycle with a file the change has is refused.",
     },
     {
       invariantKind: "departure",

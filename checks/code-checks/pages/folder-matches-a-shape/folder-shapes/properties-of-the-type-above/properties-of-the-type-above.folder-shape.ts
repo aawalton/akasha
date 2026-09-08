@@ -33,7 +33,7 @@ export const propertiesOfTheTypeAbove = {
     },
     {
       invariantKind: "departure",
-      statement: "A property page carrying code has that code beside itself rather than apart.",
+      statement: "A property page with code has that code beside itself rather than apart.",
     },
     {
       invariantKind: "departure",
