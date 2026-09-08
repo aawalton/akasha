@@ -1,6 +1,5 @@
 import { getUser } from "@akasha/supabase-rr/auth-server"
-import { getSupabaseServiceClient } from "../.server/supabase-service-client/supabase-service-client.module.code.ts"
-import type { Route } from "./+types/api.cli-link.mint"
+import { getSupabaseServiceClient } from "../../.server/supabase-service-client/supabase-service-client.module.code.ts"
 
 const MIN_PORT = 1024
 const MAX_PORT = 65535
@@ -25,7 +24,7 @@ function jsonWithAuthHeaders(
   return new Response(JSON.stringify(body), { status: init.status ?? 200, headers })
 }
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   const { user, headers: authHeaders } = await getUser(request)
   if (!user) {
     return jsonWithAuthHeaders(authHeaders, { error: "Not authenticated" }, { status: 401 })
