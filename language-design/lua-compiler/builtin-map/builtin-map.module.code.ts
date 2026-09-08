@@ -18,5 +18,6 @@ export function transformMapConstructorCall(
       return transformLuaLibFunction(context, LuaLibFeature.MapGroupBy, node, ...args)
     default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "Map", methodName))
+      return undefined
   }
 }
