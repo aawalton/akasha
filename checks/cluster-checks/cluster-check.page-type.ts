@@ -158,6 +158,7 @@ export const clusterCheck = {
     "module/css-source-directives",
     "module/design-token-parity",
     "module/env-unset-bash",
+    "module/eso-global-decl-consistency",
   ],
   properties: [
     {
