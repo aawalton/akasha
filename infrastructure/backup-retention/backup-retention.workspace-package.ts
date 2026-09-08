@@ -6,6 +6,7 @@ export const backupRetention = {
   slug: "backup-retention",
   definition: "what thins the database's backups as the backups age",
   manifest: "json",
+  dockerfileExtensions: "json",
   partSlugs: [
     "manifest/gfs-promoter",
     "manifest/seaweedfs-backup-longtail",
