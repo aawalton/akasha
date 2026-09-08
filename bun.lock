@@ -1240,6 +1240,7 @@
     "pages/service": {
       "name": "@akasha/pages-service",
       "dependencies": {
+        "@akasha/changes": "workspace:*",
         "@akasha/checks": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/command-system": "workspace:*",

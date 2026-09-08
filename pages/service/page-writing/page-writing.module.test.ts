@@ -64,11 +64,15 @@ test("what is put and what is taken away are both paths of the write", () => {
   expect(pathsIn(held)).toEqual(["akasha/a.ts", "akasha/b.ts"])
 })
 
-test("a path put carries a body and a path taken away carries none", () => {
+test("a path put names the change adding a body and a path taken away the change removing one", () => {
   const held = asking({ puts: [{ path: "akasha/a.ts", content: "x" }], removes: ["akasha/b.ts"] })
-  const edits = editsIn(held)
-  expect(edits[0]?.body).toEqual(new TextEncoder().encode("x"))
-  expect(edits[1]?.body).toBe(null)
+  expect(editsIn(held)).toEqual([
+    {
+      at: "change-mechanical-file/add-if-not-present-file",
+      given: { at: "akasha/a.ts", body: "x" },
+    },
+    { at: "change-mechanical-file/remove-file", given: { at: "akasha/b.ts" } },
+  ])
 })
 
 test("one write is committed under its own message", () => {
@@ -93,7 +97,7 @@ test("two writes in one batch reaching one path leave the later one standing", (
     asking({ puts: [{ path: "akasha/a.ts", content: "second" }] }),
   ])
   expect(edits.length).toBe(1)
-  expect(edits[0]?.body).toEqual(new TextEncoder().encode("second"))
+  expect(edits[0]?.given).toEqual({ at: "akasha/a.ts", body: "second" })
 })
 
 test("a write refused is answered without reaching the repository", async () => {

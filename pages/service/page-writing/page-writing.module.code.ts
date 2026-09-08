@@ -1,6 +1,4 @@
-import type { Judging } from "@akasha/checks/judging"
-import { formattedBody } from "@akasha/code/code-format"
-import { type FileEdit, landing } from "@akasha/command-system/landing"
+import { type Asking, runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { mintingOnto } from "@akasha/command-system/value-minting"
 import { mergeUncommitted } from "@akasha/pages/page-uncommitted"
 import type { Value } from "@akasha/pages/page-value"
@@ -50,11 +48,15 @@ const APART = "\n\n---\n\n"
 
 const AUTHORED = /^[^<>]+ <[^<>@\s]+@[^<>\s]+>$/
 
-const NOTHING_JUDGES: Judging = {
-  named: [],
-  checksFor: () => [],
-  over: async () => [],
-}
+const PUT = "change-mechanical-file/add-if-not-present-file"
+
+const TAKE = "change-mechanical-file/remove-file"
+
+const BYTES = new TextEncoder()
+
+const TEXT = new TextDecoder()
+
+type Edit = Extract<Asking, { readonly at: typeof PUT | typeof TAKE }>
 
 export function pathsIn(asked: Asked): readonly string[] {
   return [
@@ -91,14 +93,12 @@ export function refusalIn(asked: Asked): string | null {
   return null
 }
 
-export function editsIn(asked: Asked): readonly FileEdit[] {
-  return [
-    ...(asked.puts ?? []).map((one) => ({
-      path: one.path,
-      body: new TextEncoder().encode(one.content),
-    })),
-    ...(asked.removes ?? []).map((one) => ({ path: one, body: null })),
-  ]
+export function editsIn(asked: Asked): readonly Edit[] {
+  const puts = (asked.puts ?? []).map(
+    (one): Edit => ({ at: PUT, given: { at: one.path, body: one.content } })
+  )
+  const takes = (asked.removes ?? []).map((one): Edit => ({ at: TAKE, given: { at: one } }))
+  return [...puts, ...takes]
 }
 
 export function messageIn(batch: readonly Asked[]): string {
@@ -108,9 +108,9 @@ export function messageIn(batch: readonly Asked[]): string {
   return `${batch.length} writes arrived together, so they land together\n\n${each.join(APART)}`
 }
 
-export function latestIn(batch: readonly Asked[]): readonly FileEdit[] {
-  const held = new Map<string, FileEdit>()
-  for (const one of batch) for (const edit of editsIn(one)) held.set(edit.path, edit)
+export function latestIn(batch: readonly Asked[]): readonly Edit[] {
+  const held = new Map<string, Edit>()
+  for (const one of batch) for (const edit of editsIn(one)) held.set(edit.given.at, edit)
   return [...held.values()]
 }
 
@@ -129,12 +129,18 @@ function beside(root: string, kept: readonly Kept[]): readonly string[] {
   return kept.map((one) => one.path)
 }
 
-export function tidiedIn(root: string, changes: readonly FileEdit[]): readonly FileEdit[] {
-  return mintingOnto(root, changes).changes.map((one) => {
-    if (one.body === null) return one
-    const said = formattedBody(root, one.path, one.body)
-    return said.changed ? { path: one.path, body: said.body } : one
-  })
+export function tidiedIn(root: string, changes: readonly Edit[]): readonly Edit[] {
+  const held = changes.map((one) =>
+    one.at === TAKE
+      ? { path: one.given.at, body: null }
+      : { path: one.given.at, body: BYTES.encode(one.given.body) }
+  )
+  return mintingOnto(root, held).changes.map(
+    (one): Edit =>
+      one.body === null
+        ? { at: TAKE, given: { at: one.path } }
+        : { at: PUT, given: { at: one.path, body: TEXT.decode(one.body) } }
+  )
 }
 
 export async function landedIn(root: string, batch: readonly Asked[]): Promise<Wrote> {
@@ -144,16 +150,18 @@ export async function landedIn(root: string, batch: readonly Asked[]): Promise<W
     const kept = keptIn(batch)
     const changes = latestIn(batch)
     if (changes.length === 0) return { commit: null, wrote: beside(root, kept), took: [] }
-    const said = await landing(
-      root,
-      tidiedIn(root, changes),
-      messageIn(batch),
-      NOTHING_JUDGES,
-      first.writer,
-      first.read ?? null
-    )
+    const asked = tidiedIn(root, changes)
+    const said = await runMechanicalChange(root, asked, messageIn(batch), null, {
+      writer: first.writer,
+      read: first.read ?? null,
+    })
     if ("refusals" in said) return { refused: said.refusals.join(" — ") }
-    return { commit: said.commit, wrote: [...said.wrote, ...beside(root, kept)], took: said.took }
+    const gone = new Set(asked.filter((one) => one.at === TAKE).map((one) => one.given.at))
+    return {
+      commit: said.commit,
+      wrote: [...said.landed.filter((one) => !gone.has(one)), ...beside(root, kept)],
+      took: said.landed.filter((one) => gone.has(one)),
+    }
   } catch (thrown) {
     return { refused: thrownWhy(batch, thrown) }
   }

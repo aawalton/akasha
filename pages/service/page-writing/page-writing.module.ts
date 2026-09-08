@@ -22,6 +22,19 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Every body a write puts and every path a write takes away lands through a change page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write putting the body a path already holds writes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path taken away that holds no body refuses the write.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A batch is authored by the writer whose write arrived first.",
     },
     {
@@ -43,6 +56,10 @@ export const pageWriting = {
     {
       invariantKind: "departure",
       statement: "The commit a write states is taken by any name git resolves to a commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The commit a write states is carried through to the landing.",
     },
     {
       invariantKind: "departure",
