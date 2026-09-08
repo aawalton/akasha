@@ -59,11 +59,6 @@ export const athenaCommandsAtTheRoot = {
       workingMemory:
         "Over f9a9633160 the drift read 128 added, 1 changed, 8 taken away: every added one under `path`, the changed one `value/module.jsonl`, every taken one under `relation`. The five added shown are `path/` entries for `.uncommitted.jsonl` sidecars of `code-editor-data-interface`, whose type has 7 pages, so the rest are other pages' sidecars. A settle refiles only the pages a change carries, and `filingOf` takes a file's own lines as ground truth, so an entry no change touches is never revisited.",
     },
-    {
-      statement: "Every property a command's page type declares is read.",
-      workingMemory:
-        "Alan settled: keep the page type as the one authority and grow `calling` to read it. Five properties are read: `change-kind-slug` by `kindOf`, `taking` and `help-notes` by `surfaceOf`, `said` and `takes` by `helpOf`. Six of the eleven `command.page-type.ts` declares carry the argument structure — positionals, flags, env vars, exclusions, exits, examples — and no code reads them and no command page states one. `parse-args` reads that vocabulary off `CommandHelp`, the twin that goes.",
-    },
   ],
   constraints: [
     "Nothing under `checks/` changes here. Alan holds checks and check tests.",

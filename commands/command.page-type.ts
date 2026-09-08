@@ -122,6 +122,10 @@ export const command = {
       invariantKind: "gap",
       statement: "A command's code reads this page rather than declaring the shape again.",
     },
+    {
+      invariantKind: "upkeep",
+      statement: "Every property this page type declares is read by code.",
+    },
   ],
   directives: [
     {
