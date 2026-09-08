@@ -20,7 +20,7 @@ export const nimueCodeCleanup = {
     {
       statement: "Every folder a build writes is declared as a build folder property.",
       workingMemory:
-        "The page types `named-folder-property` and `build-folder-property` are there, and one ios app's `www` folder is declared. What is left is `.react-router`, `dist`, `build`, `generated`, `__pycache__` and `node_modules`. `add-property-to-page-type` writes the import, the type member, the part and the declaration in one call.",
+        "Declared so far: `www` on an ios app, `.react-router`, `dist` and `build` on a router app, `generated` on a manifest, `__pycache__` on a python module, `node_modules` on the workspace. What is left is `temper/addons`, which holds a `dist` and sits under no page, and `alan/web/generated`, which nothing writes any more and wants deleting.",
     },
     {
       statement: "The check asking which page claims a file reads the build folder property.",
