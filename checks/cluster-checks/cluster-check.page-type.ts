@@ -163,6 +163,7 @@ export const clusterCheck = {
     "module/functional-type-dep-walkers",
     "module/functional-type-fixpoint",
     "module/functional-type-import-scan",
+    "module/functional-type-purity-allowlist",
   ],
   properties: [
     {
