@@ -1,7 +1,10 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { Host } from "../hosts/host.page-type.ts"
+import type { TalosSecrets } from "./properties/talos-secrets.text-property.ts"
 
-export type Cluster = Host
+export type Cluster = Host & {
+  talosSecrets?: TalosSecrets
+}
 
 export const cluster = {
   id: "01a06835-e289-7833-a83f-42355181b6da",
@@ -9,8 +12,11 @@ export const cluster = {
   slug: "cluster",
   definition: "the machines in Alan's home lab",
   pluralSlug: "clusters",
-  partSlugs: ["cluster/main"],
+  partSlugs: ["cluster/main", "text-property/talos-secrets"],
   extendsSlug: ["page-type/host"],
+  properties: [
+    { pagePropertySlug: "text-property/talos-secrets", required: false, many: false, secret: true },
+  ],
   invariants: [
     {
       invariantKind: "departure",
