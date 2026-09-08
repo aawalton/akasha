@@ -1,3 +1,4 @@
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
@@ -14,6 +15,7 @@ import {
 } from "../tstl-preceding-statements/tstl-preceding-statements.module.code.ts"
 import {
   canBeFalsyWhenNotNull,
+  isEqualsAssignment,
   isStandardLibraryType,
   isStringType,
 } from "../tstl-typescript/tstl-typescript.module.code.ts"
@@ -45,12 +47,6 @@ const isShortCircuitOperator = (value: unknown): value is ShortCircuitOperator =
   value === ts.SyntaxKind.AmpersandAmpersandToken ||
   value === ts.SyntaxKind.BarBarToken ||
   value === ts.SyntaxKind.QuestionQuestionToken
-
-function isEqualsAssignment(
-  node: ts.BinaryExpression
-): node is ts.AssignmentExpression<ts.EqualsToken> {
-  return node.operatorToken.kind === ts.SyntaxKind.EqualsToken
-}
 
 export type SimpleOperator =
   | ts.AdditiveOperatorOrHigher
@@ -154,6 +150,8 @@ export function createShortCircuitBinaryExpressionPrecedingStatements(
         node
       )
       break
+    default:
+      assertNever(operator)
   }
 
   const ifStatement = luaStatements.createIfStatement(
@@ -269,26 +267,28 @@ export const transformBinaryExpression: FunctionVisitor<ts.BinaryExpression> = (
       context.addPrecedingStatements(precedingStatements)
       return result
     }
+
+    default: {
+      const {
+        precedingStatements: orderedExpressionPrecedingStatements,
+        result: [lhs, rhs],
+      } = transformInPrecedingStatementScope(context, () =>
+        context.transformOrderedExpressions([node.left, node.right])
+      )
+      assert(lhs !== undefined && rhs !== undefined)
+
+      const { precedingStatements, result } = transformBinaryOperation(
+        context,
+        lhs,
+        rhs,
+        orderedExpressionPrecedingStatements,
+        operator,
+        node
+      )
+      context.addPrecedingStatements(precedingStatements)
+      return result
+    }
   }
-
-  const {
-    precedingStatements: orderedExpressionPrecedingStatements,
-    result: [lhs, rhs],
-  } = transformInPrecedingStatementScope(context, () =>
-    context.transformOrderedExpressions([node.left, node.right])
-  )
-  assert(lhs !== undefined && rhs !== undefined)
-
-  const { precedingStatements, result } = transformBinaryOperation(
-    context,
-    lhs,
-    rhs,
-    orderedExpressionPrecedingStatements,
-    operator,
-    node
-  )
-  context.addPrecedingStatements(precedingStatements)
-  return result
 }
 
 export function transformBinaryExpressionStatement(
