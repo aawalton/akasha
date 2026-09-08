@@ -10,7 +10,7 @@ export const amyWorkPanelEditing = {
     {
       statement: "Alan orders the intents an initiative holds by dragging a row in the Work panel.",
       workingMemory:
-        "Built and landed. The Work panel's tree view carries a drag and drop controller from `module/work-tree-dragging`; a drop calls `akasha move-intent`, which reaches `change-mechanical-file-content/move-property-value` and commits the initiative page. The service watches `domains/initiatives/pages`, so the panel's file follows, which is verified. The drag itself is unverified until Alan drags a row.\n",
+        "Built and landed. The Work panel's tree view carries a drag and drop controller from `module/work-tree-dragging`; a drop calls `akasha move-intent`, which reaches `change-mechanical-file-content/move-property-value` and commits the initiative page. The service watches `domains/initiatives/pages`, so the panel's file follows, which is verified. The drag itself is unverified until Alan drags a row.",
     },
     {
       statement:
