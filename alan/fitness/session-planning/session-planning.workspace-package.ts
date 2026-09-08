@@ -8,7 +8,6 @@ export const sessionPlanning = {
   manifest: "json",
   partSlugs: [
     "module/equipment-kit",
-    "module/load-progression",
     "module/movement-scoring",
     "module/pattern-groups",
     "module/performed-set",
