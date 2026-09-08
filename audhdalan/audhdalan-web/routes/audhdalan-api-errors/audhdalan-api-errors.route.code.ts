@@ -1,9 +1,8 @@
 import { computeFingerprint } from "@akasha/errors-core/error-fingerprint"
 import { ErrorReportSchema } from "@akasha/errors-core/error-report"
 import { captureError, type ErrorCapturePayload } from "@akasha/pages-access/capture-error"
-import type { Route } from "./+types/api.errors"
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   if (request.method !== "POST") {
     return Response.json({ error: "method-not-allowed" }, { status: 405 })
   }

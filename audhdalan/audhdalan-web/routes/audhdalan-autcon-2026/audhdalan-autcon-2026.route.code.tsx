@@ -1,4 +1,4 @@
-import { DeckPageContent } from "../deck-page-content/deck-page-content.module.code.tsx"
+import { DeckPageContent } from "../../deck-page-content/deck-page-content.module.code.tsx"
 
 export function meta() {
   return [{ title: "Making Every Spoon Count — AutCon 2026" }]

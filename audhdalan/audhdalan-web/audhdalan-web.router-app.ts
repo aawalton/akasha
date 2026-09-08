@@ -25,5 +25,11 @@ export const audhdalanWeb = {
     "module/deck-slides",
     "module/resource-list",
     "module/subscribe-form",
+    "route/audhdalan-home",
+    "route/audhdalan-autcon-2026",
+    "route/audhdalan-safety-levels",
+    "route/audhdalan-api-health",
+    "route/audhdalan-api-errors",
+    "route/audhdalan-api-subscribe",
   ],
 } as const satisfies RouterApp

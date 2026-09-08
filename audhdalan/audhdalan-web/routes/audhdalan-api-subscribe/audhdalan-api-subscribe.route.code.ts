@@ -1,5 +1,4 @@
 import { z } from "zod"
-import type { Route } from "./+types/api.subscribe"
 
 const BodySchema = z.object({
   email: z.string().trim().email().max(320),
@@ -16,7 +15,7 @@ function nameFor(email: string): string {
     .replace(/^-+|-+$/g, "")
 }
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   if (request.method !== "POST") {
     return Response.json({ error: "method-not-allowed" }, { status: 405 })
   }
@@ -38,16 +37,6 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     return Response.json({ error: "Server misconfigured" }, { status: 500 })
   }
 
-  // A SUBSCRIBER IS A WHOLE PAGE, AND NOTHING WRITES ONE FROM ITS KEYS. This landed the address
-  // with `writePage`, which has refused every call since 4c1f05a264: the store writes a path and
-  // a whole body, and nothing renders an `audhdalan-subscriber` page's body out of `title`,
-  // `slug` and `email`. Every address typed into the form on audhdalan.com since then has been
-  // answered with a failure, and none has been kept.
-  //
-  // It is said here as a 503 rather than carried back as a 500 from a shim. 503 is the truthful
-  // code: the address is well-formed and the site is up — what is missing is the road that lands
-  // it. Taking subscribers again means composing the page's body and landing it with `writeFiles`,
-  // or through the akasha command line.
   console.error(
     `subscribe: \`audhdalan-subscriber/${nameFor(email)}\` was not kept — nothing renders that page's body out of its keys, so ${WRITER} has no way to land one`
   )
