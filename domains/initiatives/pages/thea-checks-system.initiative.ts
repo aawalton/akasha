@@ -8,12 +8,6 @@ export const theaChecksSystem = {
   personaSlug: "thea",
   intents: [
     {
-      statement:
-        "A page type narrows an inherited property's reach to the collection it is part of.",
-      workingMemory:
-        "168 routes across 7 apps share one page type and `slug` is unique per type, so `home` repeats 7 times, `sign-in` 6, `api.errors` 6; 5 route tests wait on this. `part-of` works and is not the gap: book-section declares it over 455 pages, the index files them under the parent's slug, and a clash is refused both within one change and against the index. Try declaring `part-of` on the route slug, the same shape. Then the identity map, then the consumers handing a page-type slug as the scope.",
-    },
-    {
       statement: "Every file the repository tracks is claimed by a page.",
       workingMemory:
         "630 tracked files no page claims, measured by diffing the path index against `git ls-files`, seeded both ways: dotfiles/bin/akasha reads unclaimed, akasha.domain.ts reads claimed. 155 are routes; 149 are cluster-check module bodies whose pages were never written, though 129 claimed check bodies import them; 114 are lua-compiler/lualib/src; the rest are spread over service-system, infrastructure and alan. file-has-its-page cannot reach audit until this is zero.",
