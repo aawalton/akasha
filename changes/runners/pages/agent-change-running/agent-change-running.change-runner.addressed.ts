@@ -38,9 +38,6 @@ export type Changes = {
   "change-agent/move-folder": Parameters<
     typeof import("../../../agent/folder/move-folder/move-folder.change-agent.code.ts")["runChange"]
   >[1]
-  "change-agent/move-folder-batch": Parameters<
-    typeof import("../../../agent/folder/move-folder-batch/move-folder-batch.change-agent.code.ts")["runChange"]
-  >[1]
   "change-agent/move-folder-package": Parameters<
     typeof import("../../../agent/folder/move-folder-package/move-folder-package.change-agent.code.ts")["runChange"]
   >[1]
