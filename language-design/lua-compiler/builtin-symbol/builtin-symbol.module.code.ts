@@ -25,5 +25,6 @@ export function transformSymbolConstructorCall(
     }
     default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "Symbol", methodName))
+      return undefined
   }
 }
