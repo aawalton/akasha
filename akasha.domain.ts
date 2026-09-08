@@ -56,7 +56,6 @@ export const akasha = {
     "domain/games",
     "domain/rules-engine",
     "domain/language-design",
-    "domain/archive-of-worlds",
     "domain/audhdalan",
     "domain/smilingjenny",
     "domain/ki",
