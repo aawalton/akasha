@@ -207,6 +207,7 @@ export const clusterCheck = {
     "module/tailwind-sources-violations",
     "module/temper-type-tier",
     "module/test-classification",
+    "module/test-preload-obligations",
   ],
   properties: [
     {
