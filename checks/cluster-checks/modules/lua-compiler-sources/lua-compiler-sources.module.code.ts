@@ -10,7 +10,7 @@ export interface TstlTsconfig {
 
 const TSCONFIG_BASENAME = "tsconfig.json"
 
-export function deriveTstlRoots(configs: readonly TstlTsconfig[]): readonly string[] {
+export function deriveLuaCompilerRoots(configs: readonly TstlTsconfig[]): readonly string[] {
   const roots: string[] = []
   for (const { rel, text } of configs) {
     if (rel.includes("__fixtures__") || rel.includes("node_modules")) continue
@@ -44,7 +44,7 @@ function tstlRoots(repoRoot: string): readonly string[] {
     absolute: false,
   })
   const configs = rels.map((rel) => ({ rel, text: readFileSync(resolve(repoRoot, rel), "utf8") }))
-  const roots = deriveTstlRoots(configs)
+  const roots = deriveLuaCompilerRoots(configs)
   cachedRootsByRepo.set(repoRoot, roots)
   return roots
 }
