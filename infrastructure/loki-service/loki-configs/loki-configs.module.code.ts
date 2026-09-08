@@ -91,13 +91,6 @@ scrape_configs:
         target_label: app
       - source_labels: [__meta_kubernetes_pod_label_app_kubernetes_io_part_of]
         target_label: part_of
-      # Pipeline engine step labels
-      - source_labels: [__meta_kubernetes_pod_label_pipeline_engine_workflow]
-        target_label: pipeline_workflow
-      - source_labels: [__meta_kubernetes_pod_label_pipeline_engine_step]
-        target_label: pipeline_step
-      - source_labels: [__meta_kubernetes_pod_label_pipeline_engine_sha]
-        target_label: pipeline_sha
       # Set log file path
       - source_labels:
           - __meta_kubernetes_pod_uid

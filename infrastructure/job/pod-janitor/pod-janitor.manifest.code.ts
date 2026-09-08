@@ -42,7 +42,6 @@ kubectl get pods --all-namespaces --field-selector=status.phase=Failed -o json >
 jq -r --argjson now "\${now}" --argjson minAge "\${MIN_AGE_SECONDS}" '
   .items[]
   | select((.metadata.ownerReferences // []) | length > 0)
-  | select((.metadata.labels["app.kubernetes.io/name"] // "") != "ci-storage-maintain")
   | select(($now - (.metadata.creationTimestamp | fromdateiso8601)) >= $minAge)
   | "\\(.metadata.namespace) \\(.metadata.name)"
 ' /tmp/failed-pods.json | while read -r ns name; do
