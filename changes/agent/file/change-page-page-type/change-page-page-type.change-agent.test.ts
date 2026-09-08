@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { bodyOf, idOf, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
+import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as changeFile } from "../../../mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renamePageAddress } from "../../../mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
@@ -63,6 +64,9 @@ function repoIn(): string {
 }
 
 const RUNS: Reaching = (world, at, given) => {
+  if (at === "change-mechanical-file/move-file") {
+    return Promise.resolve(moveFile(world, given as Parameters<typeof moveFile>[1]))
+  }
   if (at === "change-mechanical-file-content/change-file-content") {
     return Promise.resolve(changeFile(world, given as Parameters<typeof changeFile>[1]))
   }
@@ -146,6 +150,7 @@ test("each part of the retype is reached at the address that part names", async 
   expect(said.refused).toBeNull()
   expect(new Set(reached)).toEqual(
     new Set([
+      "change-mechanical-file/move-file",
       "change-mechanical-file-content/change-imports",
       "change-mechanical-file-content/rename-page-address",
       "change-mechanical-file-content/change-file-content",

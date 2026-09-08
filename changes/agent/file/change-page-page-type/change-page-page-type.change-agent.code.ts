@@ -19,6 +19,8 @@ const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
 
 const RENAME_PAGE_ADDRESS = "change-mechanical-file-content/rename-page-address"
 
+const MOVE_FILE = "change-mechanical-file/move-file"
+
 const TYPE_KEY = "pageTypeSlug"
 
 const AT = "at"
@@ -107,6 +109,10 @@ export async function changePagePageType(
   over = addressed.world
   for (const [one, next] of moved) {
     if (over.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
+    const carrying = await reach(over, MOVE_FILE, { from: one, to: next })
+    if (carrying.said.refused !== null) return carrying.said
+    carried.push(carrying.said)
+    over = carrying.world
     const answer = await reach(over, CHANGE_IMPORTS, { was: one, now: next, moved: movedOver })
     if (answer.said.refused !== null) return answer.said
     carried.push(answer.said)

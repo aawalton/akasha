@@ -31,7 +31,7 @@ function bodyIn(
   text: string,
   moved: ReadonlyMap<string, string>
 ): string {
-  return bodyOf(ranOn(was, now, text, moved), (path) => (path === was ? text : null))
+  return bodyOf(ranOn(was, now, text, moved), (path) => (path === now ? text : null))
 }
 
 test("a specifier reaching a file that moves in the same act reaches its new path", () => {
@@ -75,27 +75,20 @@ test("a body's import of its own generated types follows that body's folder and 
   expect(bodyIn(TYPED_ROUTE, TYPED_ROUTE_AT, TYPED_CODE, moved)).toBe(TYPED_FOLLOWED)
 })
 
-test("a body landing elsewhere is answered as one move rather than as a write and a removal", () => {
+test("a body landing elsewhere is answered at the path the carry left it at", () => {
   const moved = new Map([[TYPED_ROUTE, TYPED_ROUTE_AT]])
   const said = ranOn(TYPED_ROUTE, TYPED_ROUTE_AT, TYPED_CODE, moved)
 
-  expect(said.edits.map((one) => one.kind)).toEqual(["move", "replace"])
-  expect(said.edits[0]).toEqual({ kind: "move", pathFrom: TYPED_ROUTE, pathTo: TYPED_ROUTE_AT })
+  expect(said.edits.map((one) => one.kind)).toEqual(["replace"])
+  expect(said.edits[0]).toMatchObject({ kind: "replace", path: TYPED_ROUTE_AT })
 })
 
 test("a body moving under the name it has keeps the types specifier it already spells", () => {
   const was = "akasha/one/routes/keep.ts"
   const now = "akasha/one/routes/under/keep.ts"
   const text = `import type { Route } from "./+types/keep"\n`
-  expect(bodyIn(was, now, text, new Map([[was, now]]))).toBe(text)
-})
-
-test("a move whose body is left alone states the two paths and no body", () => {
-  const was = "akasha/one/routes/keep.ts"
-  const now = "akasha/one/routes/under/keep.ts"
-  const text = `import type { Route } from "./+types/keep"\n`
 
   const said = changeImports(was, now, text, new Map([[was, now]]))
 
-  expect(said.edits).toEqual([{ kind: "move", pathFrom: was, pathTo: now }])
+  expect(said.edits).toEqual([])
 })

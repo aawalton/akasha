@@ -10,6 +10,8 @@ import { reach, type World } from "../../../modules/change-shadow/change-shadow.
 
 const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
 
+const MOVE_FILE = "change-mechanical-file/move-file"
+
 const OUTSIDE = ".."
 
 const AT = "at"
@@ -60,6 +62,10 @@ export async function moveFolder(world: World, given: MoveFolderAsked): Promise<
   let seen = world
   for (const [one, next] of moved) {
     if (seen.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
+    const carrying = await reach(seen, MOVE_FILE, { from: one, to: next })
+    if (carrying.said.refused !== null) return carrying.said
+    edits.push(...carrying.said.edits)
+    seen = carrying.world
     const answer = await reach(seen, CHANGE_IMPORTS, { was: one, now: next, moved: carried })
     if (answer.said.refused !== null) return answer.said
     edits.push(...answer.said.edits)

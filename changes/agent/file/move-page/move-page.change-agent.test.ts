@@ -7,6 +7,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
+import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
@@ -26,6 +27,9 @@ const MOVED_CODE = "akasha/three/held.module.code.ts"
 
 function worldIn(root: string): World {
   return worldAt(root, textIn(root), (world, at, given) => {
+    if (at === "change-mechanical-file/move-file") {
+      return Promise.resolve(moveFile(world, given as Parameters<typeof moveFile>[1]))
+    }
     if (at === "change-mechanical-file-content/change-imports") {
       return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
     }
@@ -91,5 +95,7 @@ test("each body that moves is repointed by the change reached at its address", a
 
   await movePage(world, { at: HELD_PAGE, to: INTO })
 
-  expect(new Set(reached)).toEqual(new Set(["change-mechanical-file-content/change-imports"]))
+  expect(new Set(reached)).toEqual(
+    new Set(["change-mechanical-file/move-file", "change-mechanical-file-content/change-imports"])
+  )
 })

@@ -32,5 +32,13 @@ export const changeImports = {
       invariantKind: "departure",
       statement: "The specifier naming a path from a folder is worked out here for any caller.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The body is read from the path that body sits at once the caller has carried it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here carries a file.",
+    },
   ],
 } as const satisfies ChangeMechanicalFileContent

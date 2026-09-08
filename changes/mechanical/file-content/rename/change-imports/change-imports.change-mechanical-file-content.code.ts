@@ -78,8 +78,7 @@ export function changeImports(
     at = one.end
   }
   const body = `${out}${text.slice(at)}`
-  if (was === now) return stating(written(now, text, body))
-  return stating([{ kind: "move", pathFrom: was, pathTo: now }, ...written(now, text, body)])
+  return stating(written(now, text, body))
 }
 
 export type Given = {
@@ -89,7 +88,7 @@ export type Given = {
 }
 
 export function runChange(world: World, given: Given): Said {
-  const text = world.textOf(given.was)
-  if (text === null) return refusing(`\`${given.was}\` holds no body, so nothing is repointed`)
+  const text = world.textOf(given.now) ?? world.textOf(given.was)
+  if (text === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)
   return changeImports(given.was, given.now, text, new Map(Object.entries(given.moved)))
 }

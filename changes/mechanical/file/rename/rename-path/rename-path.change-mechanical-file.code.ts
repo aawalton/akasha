@@ -8,6 +8,8 @@ import { reach, type World } from "../../../../modules/change-shadow/change-shad
 
 const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
 
+const MOVE_FILE = "change-mechanical-file/move-file"
+
 export type RenamePathAsked = {
   readonly from: string
   readonly to: string
@@ -21,13 +23,15 @@ export async function renamePath(world: World, given: RenamePathAsked): Promise<
   const moved = { [given.from]: given.to }
   const reading = importingOf(world.index, new Map(Object.entries(moved)))
   if ("unread" in reading) return refusing(reading.unread)
-  const carried = await reach(world, CHANGE_IMPORTS, {
+  const carrying = await reach(world, MOVE_FILE, { from: given.from, to: given.to })
+  if (carrying.said.refused !== null) return carrying.said
+  const carried = await reach(carrying.world, CHANGE_IMPORTS, {
     was: given.from,
     now: given.to,
     moved,
   })
   if (carried.said.refused !== null) return carried.said
-  const edits: Stated[] = [...carried.said.edits]
+  const edits: Stated[] = [...carrying.said.edits, ...carried.said.edits]
   let seen = carried.world
   for (const path of reading.importers) {
     const held = seen.textOf(path)

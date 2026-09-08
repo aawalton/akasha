@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { indexedRepo, pageOf, put, scratch, textIn } from "@akasha/indexes/indexing/testing"
+import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { pathsIn } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
@@ -59,16 +60,21 @@ const UNDER: readonly string[] = Object.keys(HELD)
   .filter((one) => one.startsWith(`${FROM}/`))
   .sort()
 
+const MOVE_FILE = "change-mechanical-file/move-file"
+
 function worldIn(root: string): World {
-  return worldAt(root, textIn(root), (world, _at, given) =>
-    Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
-  )
+  return worldAt(root, textIn(root), (world, at, given) => {
+    if (at === MOVE_FILE) {
+      return Promise.resolve(moveFile(world, given as Parameters<typeof moveFile>[1]))
+    }
+    return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
+  })
 }
 
-function unchanged(given: unknown): Answer {
-  const asked = given as { readonly was: string; readonly now: string }
-  if (asked.was === asked.now) return { edits: [], refused: null }
-  return { edits: [{ kind: "move", pathFrom: asked.was, pathTo: asked.now }], refused: null }
+function unchanged(at: string, given: unknown): Answer {
+  if (at !== MOVE_FILE) return { edits: [], refused: null }
+  const asked = given as { readonly from: string; readonly to: string }
+  return { edits: [{ kind: "move", pathFrom: asked.from, pathTo: asked.to }], refused: null }
 }
 
 test("every file under the folder lands beneath the folder it moved to", async () => {
@@ -152,8 +158,8 @@ test("a folder inside the folder that moves is refused", async () => {
 
 test("a body a reach leaves unchanged is stated as no edit beside the move", async () => {
   const root = indexedRepo(HELD)
-  const world = worldAt(root, textIn(root), (_over, _at, given) =>
-    Promise.resolve(unchanged(given))
+  const world = worldAt(root, textIn(root), (_over, at, given) =>
+    Promise.resolve(unchanged(at, given))
   )
   const said = await moveFolder(world, { at: FROM, to: INTO })
 
@@ -179,5 +185,7 @@ test("each body that moves is repointed by the change reached at its address", a
 
   await moveFolder(world, { at: FROM, to: INTO })
 
-  expect(new Set(reached)).toEqual(new Set(["change-mechanical-file-content/change-imports"]))
+  expect(new Set(reached)).toEqual(
+    new Set([MOVE_FILE, "change-mechanical-file-content/change-imports"])
+  )
 })

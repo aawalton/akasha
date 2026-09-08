@@ -7,6 +7,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
+import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as renamePathChange } from "../../../mechanical/file/rename/rename-path/rename-path.change-mechanical-file.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
@@ -85,6 +86,7 @@ const REACHED = {
   "change-mechanical-file-content/change-imports": changeImports,
   "change-mechanical-file-content/rename-export": renameExport,
   "change-mechanical-file-content/rename-page-slug": renamePageSlug,
+  "change-mechanical-file/move-file": moveFile,
   "change-mechanical-file/rename-path": renamePathChange,
 } as const
 
