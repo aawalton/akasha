@@ -74,7 +74,9 @@ beforeAll(async () => {
     await import("../routes/alan-web-api-media-variants/alan-web-api-media-variants.route.code.ts")
   ).loader as never
   hlsLoader = (await import("../routes/api.media.$pageId.$medium.hls.m3u8.ts")).loader as never
-  marksLoader = (await import("../routes/api.media.$pageId.$medium.marks.ts")).loader as never
+  marksLoader = (
+    await import("../routes/alan-web-api-media-marks/alan-web-api-media-marks.route.code.ts")
+  ).loader as never
 })
 
 afterAll(() => {

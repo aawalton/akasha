@@ -1,12 +1,16 @@
 import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
+import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
-import { resolveMediaPage } from "../media-page/media-page.module.code.ts"
-import { resolveFromNSentenceMarks } from "../read-aloud-marks/read-aloud-marks.module.code.ts"
-import type { Route } from "./+types/api.media.$pageId.$medium.marks"
+import { resolveMediaPage } from "../../media-page/media-page.module.code.ts"
+import { resolveFromNSentenceMarks } from "../../read-aloud-marks/read-aloud-marks.module.code.ts"
 
-const UUID_PATTERN = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
-
-export async function loader({ params, request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({
+  params,
+  request,
+}: {
+  params: { pageId: string; medium: string }
+  request: Request
+}): Promise<Response> {
   const { user, headers } = await resolveRequestUser(request)
   const respond = (body: BodyInit | null, status: number, extra?: HeadersInit): Response => {
     const merged = new Headers(headers)
@@ -22,7 +26,7 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
   if (!user) return respond("Unauthorized", 401)
 
   const { pageId, medium } = params
-  if (!UUID_PATTERN.test(pageId)) return respond("Not Found", 404)
+  if (!lowerUuid(pageId.toLowerCase())) return respond("Not Found", 404)
   if (medium !== "audio") return respond("Not Found", 404)
   const found = await resolveMediaPage(pageId, ["id"])
   if (found === null) return respond("Not Found", 404)

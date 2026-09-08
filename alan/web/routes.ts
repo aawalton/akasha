@@ -52,7 +52,10 @@ export default [
   ),
   route("api/media/:pageId/:medium/stream", "routes/api.media.$pageId.$medium.stream.ts"),
   route("api/media/:pageId/:medium/ensure", "routes/api.media.$pageId.$medium.ensure.ts"),
-  route("api/media/:pageId/:medium/marks", "routes/api.media.$pageId.$medium.marks.ts"),
+  route(
+    "api/media/:pageId/:medium/marks",
+    "routes/alan-web-api-media-marks/alan-web-api-media-marks.route.code.ts"
+  ),
   route("api/media/:pageId/:medium/hls.m3u8", "routes/api.media.$pageId.$medium.hls.m3u8.ts"),
   route(
     "api/media/:pageId/:medium/hls/:segment",
