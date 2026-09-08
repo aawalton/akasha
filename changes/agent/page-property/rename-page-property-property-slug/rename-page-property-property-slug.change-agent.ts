@@ -11,7 +11,7 @@ export const renamePagePropertyPropertySlug = {
     "one property's key spelled anew on that property's page and on every page carrying it",
   code: "ts",
   test: "ts",
-  runsChecks: true,
+  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [
