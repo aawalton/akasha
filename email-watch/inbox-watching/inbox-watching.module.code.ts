@@ -13,7 +13,7 @@ const EVERY_MS = Number(process.env.EMAIL_WORKER_INTERVAL_MS ?? 60_000)
 const SENDER = process.env.EMAIL_WORKER_SENDER ?? "email-worker"
 const ROOT = akashaRoot()
 
-function log(line: string): void {
+function log(line: string): undefined {
   process.stdout.write(`email-worker: ${line}\n`)
 }
 
