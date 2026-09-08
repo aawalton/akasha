@@ -187,16 +187,6 @@
         "zod": "^4.3.6",
       },
     },
-    "alan/fitness/session-planning": {
-      "name": "@akasha/session-planning",
-      "dependencies": {
-        "@akasha/day": "workspace:*",
-        "@akasha/exercise-access": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
-      },
-    },
     "alan/library/book-of-everything": {
       "name": "@akasha/book-of-everything",
       "dependencies": {
@@ -3219,8 +3209,6 @@
     "@akasha/seaweedfs": ["@akasha/seaweedfs@workspace:infrastructure/seaweedfs"],
 
     "@akasha/service-system": ["@akasha/service-system@workspace:service-system"],
-
-    "@akasha/session-planning": ["@akasha/session-planning@workspace:alan/fitness/session-planning"],
 
     "@akasha/shell": ["@akasha/shell@workspace:shell"],
 
