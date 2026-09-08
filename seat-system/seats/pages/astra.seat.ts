@@ -9,7 +9,7 @@ export const astra = {
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "3024a75f-e1cb-4171-8ee9-d71c366b35db",
 } as const satisfies Seat
