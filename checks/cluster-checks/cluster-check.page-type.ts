@@ -31,7 +31,6 @@ export const clusterCheck = {
     "cluster-check/checksum-annotation-substitution",
     "cluster-check/syntax-bundle",
     "cluster-check/tailwind-sources",
-    "cluster-check/test-step-paths",
     "cluster-check/tsconfig",
     "cluster-check/this-void-self-drop",
     "cluster-check/verdict-emitter-chokepoint",
