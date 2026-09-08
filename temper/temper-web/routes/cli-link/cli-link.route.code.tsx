@@ -4,8 +4,7 @@ import { cn } from "@akasha/design-primitives/cn"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { data, useSearchParams } from "react-router"
-import { CliLinkContent } from "../cli-link-content/cli-link-content.module.code.tsx"
-import type { Route } from "./+types/cli-link"
+import { CliLinkContent } from "../../cli-link-content/cli-link-content.module.code.tsx"
 
 export function meta() {
   return [{ title: "Temper | Link CLI" }]
@@ -22,12 +21,12 @@ function parsePort(raw: string | null): number | null {
   return n
 }
 
-export async function loader({ request }: Route.LoaderArgs) {
+export async function loader({ request }: { request: Request }) {
   const { user, headers } = await getUser(request)
   return data({ userEmail: user?.email ?? null }, { headers })
 }
 
-export default function CliLinkPage({ loaderData }: Route.ComponentProps) {
+export default function CliLinkPage({ loaderData }: { loaderData: { userEmail: string | null } }) {
   const [searchParams] = useSearchParams()
   const port = parsePort(searchParams.get("port"))
   const state = searchParams.get("state") ?? ""
