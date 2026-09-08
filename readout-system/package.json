@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./attribute-charisma": "./readouts/pages/attribute-charisma/attribute-charisma.readout.code.ts",
     "./attribute-constitution": "./readouts/pages/attribute-constitution/attribute-constitution.readout.code.ts",
     "./inboxes-email": "./readouts/pages/inboxes-email/inboxes-email.readout.code.ts",
     "./inboxes-tasks": "./readouts/pages/inboxes-tasks/inboxes-tasks.readout.code.ts",

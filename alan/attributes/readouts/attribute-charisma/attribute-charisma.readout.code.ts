@@ -1,5 +1,5 @@
-import type { Asking, Row } from "../../../readout-asking/readout-asking.module.code.ts"
-import { statedAt } from "../../../readout-tier/readout-tier.module.code.ts"
+import type { Asking, Row } from "@akasha/readout-system/readout-asking"
+import { statedAt } from "@akasha/readout-system/readout-tier"
 
 const STRETCH = "session-tracking"
 

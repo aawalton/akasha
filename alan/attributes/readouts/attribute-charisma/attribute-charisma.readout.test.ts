@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { answering, refusing } from "../../../readout-asking/readout-asking.module.test-fixtures.ts"
+import { answering, refusing } from "@akasha/readout-system/readout-asking/testing"
 import {
   AT_EASE,
   charismaIn,
