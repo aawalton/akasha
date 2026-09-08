@@ -28,5 +28,6 @@ export const serviceSystem = {
     "module/change-branch-worktree",
     "module/service-health",
     "module/service-alerting",
+    "module/service-watching",
   ],
 } as const satisfies WorkspacePackage
