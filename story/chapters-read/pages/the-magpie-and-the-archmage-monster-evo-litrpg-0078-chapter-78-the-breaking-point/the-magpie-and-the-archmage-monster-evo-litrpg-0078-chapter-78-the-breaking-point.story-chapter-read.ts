@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0078Chapter78TheBreakingPoin
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0078-chapter-78-the-breaking-point",
   title: "Chapter 78 – The Breaking Point",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 78,
   ownLength: 2049,
   unitSlug: "words",

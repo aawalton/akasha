@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0050Chapter50TheWeightOfTheB
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0050-chapter-50-the-weight-of-the-blight",
   title: "Chapter 50 – The Weight of the Blight",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 50,
   ownLength: 2054,
   unitSlug: "words",

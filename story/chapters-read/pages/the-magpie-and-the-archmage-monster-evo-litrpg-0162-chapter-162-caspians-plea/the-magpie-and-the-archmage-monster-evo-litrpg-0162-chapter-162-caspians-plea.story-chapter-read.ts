@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0162Chapter162CaspiansPlea =
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0162-chapter-162-caspians-plea",
   title: "Chapter 162 – Caspian's Plea",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 162,
   ownLength: 2278,
   unitSlug: "words",

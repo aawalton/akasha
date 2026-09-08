@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0160Chapter160GoodLuckLucien
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0160-chapter-160-good-luck-lucien",
   title: "Chapter 160 – Good Luck, Lucien",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 160,
   ownLength: 2036,
   unitSlug: "words",

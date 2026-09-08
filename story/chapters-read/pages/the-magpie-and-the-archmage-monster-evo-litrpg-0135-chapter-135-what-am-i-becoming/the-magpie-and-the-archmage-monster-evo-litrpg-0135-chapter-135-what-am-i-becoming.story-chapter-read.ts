@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0135Chapter135WhatAmIBecomin
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0135-chapter-135-what-am-i-becoming",
   title: "Chapter 135 – What am I Becoming?",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 135,
   ownLength: 1751,
   unitSlug: "words",

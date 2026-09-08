@@ -5,7 +5,7 @@ export const theNewWorld0060102Respite = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0060-102-respite",
   title: "102 Respite",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 60,
   ownLength: 4307,
   unitSlug: "words",

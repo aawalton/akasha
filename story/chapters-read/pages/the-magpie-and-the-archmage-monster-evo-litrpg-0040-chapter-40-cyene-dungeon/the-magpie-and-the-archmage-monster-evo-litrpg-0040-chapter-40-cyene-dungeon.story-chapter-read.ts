@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0040Chapter40CyeneDungeon = 
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0040-chapter-40-cyene-dungeon",
   title: "Chapter 40 – Cyene Dungeon",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 40,
   ownLength: 2121,
   unitSlug: "words",

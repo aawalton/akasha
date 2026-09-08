@@ -5,7 +5,7 @@ export const theNewWorld005496TheDash = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0054-96-the-dash",
   title: "96 The Dash",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 54,
   ownLength: 2195,
   unitSlug: "words",

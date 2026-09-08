@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0029Chapter29GoodbyeSunvale 
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0029-chapter-29-goodbye-sunvale",
   title: "Chapter 29 – Goodbye, Sunvale",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 29,
   ownLength: 2126,
   unitSlug: "words",

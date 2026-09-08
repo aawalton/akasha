@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0003Chapter3SweetShinyGlimme
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0003-chapter-3-sweet-shiny-glimmerstone",
   title: "Chapter 3 – Sweet, Shiny Glimmerstone",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 3,
   ownLength: 2234,
   unitSlug: "words",

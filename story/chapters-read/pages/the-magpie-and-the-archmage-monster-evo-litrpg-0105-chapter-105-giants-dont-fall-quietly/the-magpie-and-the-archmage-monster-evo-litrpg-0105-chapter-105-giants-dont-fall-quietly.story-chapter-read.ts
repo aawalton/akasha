@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0105Chapter105GiantsDontFall
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0105-chapter-105-giants-dont-fall-quietly",
   title: "Chapter 105 – Giants Don't Fall Quietly",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 105,
   ownLength: 2218,
   unitSlug: "words",

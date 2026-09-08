@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0035Chapter35BaconBeetlesAnd
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0035-chapter-35-bacon-beetles-and-breakthroughs",
   title: "Chapter 35 – Bacon, Beetles, and Breakthroughs",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 35,
   ownLength: 2146,
   unitSlug: "words",

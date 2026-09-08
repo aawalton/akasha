@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0164Chapter164EyeOfTheWyvern
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0164-chapter-164-eye-of-the-wyvern",
   title: "Chapter 164 – Eye of The Wyvern",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 164,
   ownLength: 2083,
   unitSlug: "words",

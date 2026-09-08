@@ -5,7 +5,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete0013LegendaryFool1IsOu
   pageTypeSlug: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0013-legendary-fool-1-is-out-on-kindle",
   title: "Legendary Fool 1 is out on Kindle Unlimited and Audible!",
-  partOfSlugs: ["the-legendary-fool-a-deckbuilding-litrpg-b2-complete"],
+  partOfCollectionSlugs: ["the-legendary-fool-a-deckbuilding-litrpg-b2-complete"],
   position: 13,
   ownLength: 302,
   unitSlug: "words",

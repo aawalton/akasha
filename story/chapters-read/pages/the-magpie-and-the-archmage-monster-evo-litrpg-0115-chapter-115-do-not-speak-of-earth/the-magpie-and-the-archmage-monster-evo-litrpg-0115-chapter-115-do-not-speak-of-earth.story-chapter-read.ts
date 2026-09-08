@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0115Chapter115DoNotSpeakOfEa
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0115-chapter-115-do-not-speak-of-earth",
   title: "Chapter 115 – Do Not Speak of Earth",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 115,
   ownLength: 2056,
   unitSlug: "words",

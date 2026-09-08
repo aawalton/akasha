@@ -5,7 +5,7 @@ export const theNewWorld004689AnUnexpectedTrap = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0046-89-an-unexpected-trap",
   title: "89 An Unexpected Trap",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 46,
   ownLength: 3842,
   unitSlug: "words",

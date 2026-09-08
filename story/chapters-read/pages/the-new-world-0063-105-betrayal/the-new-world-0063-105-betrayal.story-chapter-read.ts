@@ -5,7 +5,7 @@ export const theNewWorld0063105Betrayal = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0063-105-betrayal",
   title: "105 Betrayal",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 63,
   ownLength: 3122,
   unitSlug: "words",

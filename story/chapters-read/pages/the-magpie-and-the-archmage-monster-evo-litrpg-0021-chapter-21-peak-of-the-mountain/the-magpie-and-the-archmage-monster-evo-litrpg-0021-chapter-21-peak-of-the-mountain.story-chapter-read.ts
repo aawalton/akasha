@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0021Chapter21PeakOfTheMounta
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0021-chapter-21-peak-of-the-mountain",
   title: "Chapter 21 – Peak of the Mountain",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 21,
   ownLength: 2089,
   unitSlug: "words",

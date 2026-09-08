@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0169Chapter169IronscaleWyver
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0169-chapter-169-ironscale-wyvern",
   title: "Chapter 169 – Ironscale Wyvern",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 169,
   ownLength: 2081,
   unitSlug: "words",

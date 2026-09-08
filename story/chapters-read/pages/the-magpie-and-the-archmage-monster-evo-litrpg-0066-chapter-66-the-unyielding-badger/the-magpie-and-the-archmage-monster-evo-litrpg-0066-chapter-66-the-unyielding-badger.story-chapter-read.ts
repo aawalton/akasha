@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0066Chapter66TheUnyieldingBa
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0066-chapter-66-the-unyielding-badger",
   title: "Chapter 66 – The Unyielding Badger",
-  partOfSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
   position: 66,
   ownLength: 1967,
   unitSlug: "words",
