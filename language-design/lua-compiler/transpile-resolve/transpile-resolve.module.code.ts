@@ -269,7 +269,7 @@ function createResolutionContext(
       const resolveResult = resolver.resolveSync({}, fileDirectory, dependencyPath)
       if (typeof resolveResult === "string" && resolveResult !== "") return resolveResult
     } catch (e) {
-      if (options.tstlVerbose === true && isRecord(e) && e.details !== undefined) {
+      if (options.verbose === true && isRecord(e) && e.details !== undefined) {
         console.log(e.details)
       }
     }
