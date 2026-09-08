@@ -67,5 +67,9 @@ export const invariantStatementIsPlain = {
       invariantKind: "departure",
       statement: "Every invariant under akasha is plain.",
     },
+    {
+      invariantKind: "stopgap",
+      statement: "This check runs on no phase while Alan settles how a statement is judged.",
+    },
   ],
 } as const satisfies CodeCheck
