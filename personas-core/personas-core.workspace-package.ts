@@ -13,7 +13,6 @@ export const personasCore = {
     "module/framework",
     "module/git-byte-pathspecs",
     "module/green-day-fraction",
-    "module/image-locator",
     "module/image-name",
     "module/last-messaged",
     "module/persona-page-conditions",

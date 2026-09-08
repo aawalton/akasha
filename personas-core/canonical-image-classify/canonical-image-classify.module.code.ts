@@ -1,7 +1,7 @@
 import {
   type NamedRoot,
   relativizeToNamedRoot,
-} from "../image-locator/image-locator.module.code.ts"
+} from "../../personas/image-locator/image-locator.module.code.ts"
 import { toPersonaSlug } from "../image-name/image-name.module.code.ts"
 
 const IMAGE_EXTENSIONS: readonly string[] = ["png", "jpg", "jpeg", "webp"]
