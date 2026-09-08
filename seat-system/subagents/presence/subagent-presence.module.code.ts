@@ -1,9 +1,9 @@
-import { closeSync, existsSync, mkdirSync, openSync, readdirSync } from "node:fs"
+import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { landedMechanically } from "@akasha/command-system/mechanical-landing"
 import { dropReadings, SUBAGENT_MARK } from "@akasha/command-system/reading"
-import { listedAt, listedById } from "@akasha/indexes"
+import { everyOfType, type Listed, listedAt, listedById } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { valueAt } from "@akasha/pages/page-value"
@@ -22,6 +22,8 @@ export const LOG_AT = "subagent-presence.log"
 const CALLED_AS = "subagent-presence"
 
 const SEAT = "seat"
+
+const SUBAGENT = "subagent"
 
 const ASSIGNMENT = "assignmentSlug"
 
@@ -166,17 +168,19 @@ export async function took(root: string, seatName: string, own: string): Promise
   return gone
 }
 
-export function pathsUnder(root: string, seatName: string): readonly string[] {
-  const mark = `${seatName}-`
-  let names: readonly string[]
+function subagentsIn(root: string): readonly Listed[] {
   try {
-    names = readdirSync(join(root, SUBAGENTS_AT))
+    return everyOfType(root, SUBAGENT)
   } catch {
     return []
   }
-  return names
-    .filter((one) => one.startsWith(mark) && one.endsWith(SUFFIX))
-    .map((one) => `${SUBAGENTS_AT}/${one}`)
+}
+
+export function pathsUnder(root: string, seatName: string): readonly string[] {
+  const mark = `${seatName}-`
+  return subagentsIn(root)
+    .map((one) => one.path)
+    .filter((one) => partedIn(one)?.slug.startsWith(mark) === true)
     .sort()
 }
 

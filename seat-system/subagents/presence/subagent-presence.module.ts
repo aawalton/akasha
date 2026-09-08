@@ -164,5 +164,9 @@ export const subagentPresence = {
       invariantKind: "departure",
       statement: "A take-down refused for a held lock is asked for again as a put-up is.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The pages under a seat are asked of the index rather than listed off a folder.",
+    },
   ],
 } as const satisfies Module
