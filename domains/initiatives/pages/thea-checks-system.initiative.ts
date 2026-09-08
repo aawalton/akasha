@@ -63,7 +63,7 @@ export const theaChecksSystem = {
     {
       statement: "Every file beside a page the page holds is claimed by that page.",
       workingMemory:
-        "Three files whose page is right there and still claims nothing. Two are misnamed: my-places and starving-student-card each hold a location-collection description.txt and each page states the property, but the property's slug is location-collection-description, so partsOf looks for a longer name than the file carries. A rename settles both. The third is main.cluster.sops.yaml, a sops sidecar claimsOf never claims, no page type from cluster through host to domain declaring a secret.",
+        "One left of three. The two location-collection descriptions are renamed and claimed. Their qualifier is load-bearing rather than clumsy: page carries a description key that location-collection inherits, so the file name was wrong and the property was right. Left is main.cluster.sops.yaml, a sops sidecar of 14KB that claimsOf never claims, no page type from cluster through host to domain declaring a secret. Whether cluster declares one is Alan's call.",
     },
   ],
   constraints: [
