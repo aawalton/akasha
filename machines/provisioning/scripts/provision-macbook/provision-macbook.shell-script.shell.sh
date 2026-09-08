@@ -66,7 +66,7 @@ echo "==> Cloning the repositories this machine builds from..."
 origin_base="$(git -C "$REPO" remote get-url origin | sed 's![^/]*$!!')"
 ensure_clone() {
   local repo="$1" root="$2"
-  if [ -d "$root/.git" ]; then
+  if [ -d "$root/.git" ] || [ -f "$root/.git" ]; then
     echo "    $repo — already cloned at $root"
     return 0
   fi
