@@ -31,7 +31,7 @@ export const dallaDraftIntoAPatch = {
       statement:
         "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
       workingMemory:
-        "`landedMechanically` is left at `cut-fingerprint`, `subagent-presence`, `subagent-sweep` and `tracking-landing`. A program re-landing a computed body reaches `add-if-not-present-file`, which states no edit where the body is already there, and a fold whose changes all state no edit lands nothing rather than refusing. A change resolves off the index at the root handed in, so nothing lands into a scratch repo. `harness-landing` is gone, as nothing reached it. `page-writing` lands with a null gate.",
+        "`landedMechanically` is left at `subagent-presence` alone. A caller whose tests build a scratch repo takes a `landing` defaulting to `runMechanicalChange`, as a change resolves off the index at the root handed in and a scratch repo files no change page; the landing is proven at the runner. `add-if-not-present-file` states no edit where the body is already there, and a fold whose changes all state no edit lands nothing. A mechanical change carries the writer and the read its caller holds.",
     },
     {
       statement: "Every change is a patch before it is applied.",
