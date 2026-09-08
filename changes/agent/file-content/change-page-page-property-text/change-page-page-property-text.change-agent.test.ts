@@ -9,7 +9,10 @@ import {
   type Reaching,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { changePagePropertyText, runChange } from "./change-page-property-text.change-agent.code.ts"
+import {
+  changePagePropertyText,
+  runChange,
+} from "./change-page-page-property-text.change-agent.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/change-page-page-property") {

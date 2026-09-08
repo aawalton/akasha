@@ -23,11 +23,11 @@ export type Changes = {
   "change-agent/change-page-page-property": Parameters<
     typeof import("../../../agent/file-content/change-page-page-property/change-page-page-property.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/change-page-page-property-text": Parameters<
+    typeof import("../../../agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/change-page-page-type": Parameters<
     typeof import("../../../agent/file/change-page-page-type/change-page-page-type.change-agent.code.ts")["runChange"]
-  >[1]
-  "change-agent/change-page-property-text": Parameters<
-    typeof import("../../../agent/file-content/change-page-property-text/change-page-property-text.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/change-property-record-field": Parameters<
     typeof import("../../../agent/file-content/change-property-record-field/change-property-record-field.change-agent.code.ts")["runChange"]
