@@ -1,0 +1,13 @@
+import type { HeldAddon } from "../held-addon.page-type.ts"
+
+export const libExtendedJournal = {
+  id: "01a081a4-4c4e-7b50-9594-8fddefe9187d",
+  pageTypeSlug: "held-addon",
+  slug: "lib-extended-journal",
+  addonName: "LibExtendedJournal",
+  esoAddonSlug: "temper-lib-extended-journal",
+  addonKind: "library",
+  heldBy: 14479,
+  adjacentSlugs: ["temper-collections"],
+  tiClean: true,
+} as const satisfies HeldAddon
