@@ -14,6 +14,14 @@ export const widgetTapLink = {
     },
     {
       invariantKind: "departure",
+      statement: "A link's fragment is what tells two widgets sharing a path and a query apart.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Two of Alan's widgets carry one path and one query.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A link naming no widget answers with nothing.",
     },
     {
