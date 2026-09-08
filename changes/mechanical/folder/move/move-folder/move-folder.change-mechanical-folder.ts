@@ -51,7 +51,7 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the carry leaves still naming that folder refuses the carry.",
+      statement: "A body the carry writes still naming that folder refuses the carry.",
     },
     {
       invariantKind: "departure",

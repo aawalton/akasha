@@ -67,31 +67,20 @@ function spelling(body: string): string {
   return indexedRepo({ [SPELLING_PAGE]: SPELLING, [SPELLING_CODE]: body })
 }
 
-test("a body left behind spelling the carried folder as the head of a path is refused", () => {
-  const root = spelling(`export const PAGES = "${PREFIX}"\n`)
-
-  const said = judged(root, CARRY)
-
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(
-    `\`${SPELLING_CODE}\` spells \`${PREFIX}\`, and \`${EMPTIED}\` holds nothing after`
-  )
-})
-
-test("a body left behind spelling the carried folder itself is refused", () => {
-  const root = spelling(`export const AT = "${EMPTIED}"\n`)
-
-  expect(judged(root, CARRY).refused ?? "").toContain(EMPTIED)
-})
-
 test("a body the carry moves spelling that same folder is refused at the path it landed", () => {
   const root = indexedRepo({ [HELD_CODE]: `export const PAGES = "${PREFIX}"\n` })
 
   expect(judged(root, CARRY).refused ?? "").toContain(CARRIED_CODE)
 })
 
+test("a body the answer leaves alone spelling that folder is judged by nothing here", () => {
+  const root = spelling(`export const AT = "${EMPTIED}"\n`)
+
+  expect(judged(root, CARRY).refused).toBe(null)
+})
+
 test("a body reaching the folder by a relative path is judged by nothing here", () => {
-  const root = spelling(`export const AT = "../one/held.module.code.ts"\n`)
+  const root = indexedRepo({ [HELD_CODE]: `export const AT = "../one/held.module.code.ts"\n` })
 
   expect(judged(root, CARRY).refused).toBe(null)
 })

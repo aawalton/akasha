@@ -62,16 +62,9 @@ function spellingIn(path: string, text: string, folders: readonly string[]): str
   return null
 }
 
-function namingIn(
-  given: Guarding,
-  every: readonly string[],
-  folders: readonly string[]
-): string | null {
-  const written = writtenIn(given)
-  for (const path of every) {
+function namingIn(given: Guarding, folders: readonly string[]): string | null {
+  for (const [path, text] of writtenIn(given)) {
     if (!typed(path)) continue
-    const text = written.get(path) ?? given.before.textOf(path)
-    if (text === null) continue
     const why = spellingIn(path, text, folders)
     if (why !== null) return why
   }
@@ -82,9 +75,8 @@ export function folderNotLeftNamed(given: Guarding): string | null {
   const gone = [...takingIn(given.said), ...carriedIn(given.said)]
   if (gone.length === 0) return null
   try {
-    const every = given.shadow.index.everyPath()
-    const folders = emptiedIn(holdingIn(every), gone)
-    return folders.length === 0 ? null : namingIn(given, every, folders)
+    const folders = emptiedIn(holdingIn(given.shadow.index.everyPath()), gone)
+    return folders.length === 0 ? null : namingIn(given, folders)
   } catch (cause) {
     return unreadable(cause)
   }

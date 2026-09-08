@@ -5,7 +5,7 @@ export const folderNotLeftNamed = {
   pageTypeSlug: "change-guard",
   slug: "folder-not-left-named",
   changeTargetTypeSlug: "change-target-type/file-content",
-  definition: "the guard refusing an answer leaving a body that spells a folder the answer empties",
+  definition: "the guard refusing an answer writing a body that spells a folder the answer empties",
   code: "ts",
   test: "ts",
   invariants: [
@@ -25,7 +25,7 @@ export const folderNotLeftNamed = {
     {
       invariantKind: "departure",
       statement:
-        "A body the answer leaves spelling a string naming that folder refuses the answer.",
+        "A body the answer writes spelling a string naming that folder refuses the answer.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,11 @@ export const folderNotLeftNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "Every TypeScript body the index leaves is read.",
+      statement: "Every body the answer writes is read.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No body the answer leaves alone is read.",
     },
     {
       invariantKind: "departure",
