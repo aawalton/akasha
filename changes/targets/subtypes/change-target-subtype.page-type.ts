@@ -23,7 +23,7 @@ export const changeTargetSubtype = {
     "change-target-subtype/file-page-property",
     "change-target-subtype/folder",
     "change-target-subtype/folder-package",
-    "change-target-subtype/code",
+    "change-target-subtype/file-content-code",
     "change-target-subtype/file-content-page-property-value",
     "change-target-subtype/file-content-page-property-value-prose",
     "change-target-subtype/page-type-page-property",

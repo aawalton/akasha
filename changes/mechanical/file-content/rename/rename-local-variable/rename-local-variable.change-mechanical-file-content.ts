@@ -6,7 +6,7 @@ export const renameLocalVariable = {
   slug: "rename-local-variable",
   changeModeSlug: "change-mode-rename",
   changeTargetTypeSlug: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/code",
+  changeTargetSubtypeSlug: "change-target-subtype/file-content-code",
   definition: "the change spelling a local binding and its references anew in one file",
   code: "ts",
   test: "ts",

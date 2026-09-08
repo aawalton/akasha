@@ -6,7 +6,7 @@ export const renameExport = {
   slug: "rename-export",
   changeModeSlug: "change-mode-rename",
   changeTargetTypeSlug: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/code",
+  changeTargetSubtypeSlug: "change-target-subtype/file-content-code",
   definition: "a name one body exports spelled anew across the paths a caller hands in",
   code: "ts",
   test: "ts",
