@@ -14,7 +14,6 @@ export const personasCore = {
     "module/green-day-fraction",
     "module/image-name",
     "module/last-messaged",
-    "module/persona-page-conditions",
     "module/points-source-availability",
     "module/points-source-coherence",
     "module/points-source-declarers",

@@ -68,5 +68,6 @@ export const persona = {
     "text-property/value-slug",
     "module/image-locator",
     "module/anchor-cover-record",
+    "module/persona-page-conditions",
   ],
 } as const satisfies WorkspacePackage
