@@ -1,9 +1,9 @@
 import assert from "node:assert"
 
 import * as ts from "typescript"
+import { validateAssignment } from "../assignment-validation/assignment-validation.module.code.ts"
 import { tempSymbolId } from "../context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { validateAssignment } from "../tstl-assignment-validation/tstl-assignment-validation.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { LuaLibFeature } from "../tstl-lua-lib/tstl-lua-lib.module.code.ts"

@@ -1,6 +1,6 @@
 import * as ts from "typescript"
+import { validateAssignment } from "../assignment-validation/assignment-validation.module.code.ts"
 import type { FunctionVisitor, Visitors } from "../context-visitors/context-visitors.module.code.ts"
-import { validateAssignment } from "../tstl-assignment-validation/tstl-assignment-validation.module.code.ts"
 
 const transformAssertionExpression: FunctionVisitor<ts.AssertionExpression> = (
   expression,

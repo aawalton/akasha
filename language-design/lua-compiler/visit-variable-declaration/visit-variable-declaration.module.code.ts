@@ -1,8 +1,8 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import * as ts from "typescript"
+import { validateAssignment } from "../assignment-validation/assignment-validation.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { validateAssignment } from "../tstl-assignment-validation/tstl-assignment-validation.module.code.ts"
 import { unsupportedVarDeclaration } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import { addExportToIdentifier } from "../tstl-export/tstl-export.module.code.ts"
 import {

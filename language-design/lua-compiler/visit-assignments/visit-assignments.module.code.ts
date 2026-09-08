@@ -1,7 +1,7 @@
 import * as ts from "typescript"
 import { SyntaxKind } from "typescript"
+import { validateAssignment } from "../assignment-validation/assignment-validation.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { validateAssignment } from "../tstl-assignment-validation/tstl-assignment-validation.module.code.ts"
 import {
   cannotAssignToNodeOfKind,
   notAllowedOptionalAssignment,
