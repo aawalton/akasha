@@ -10,17 +10,17 @@ export const akashaFolderShape = {
     {
       statement: "A unique kind is `page`, `page-type` or `page-property`.",
       workingMemory:
-        "`always` is renamed `page`, `page-property` is a unique kind page, and the field and parameter that carried this kind are `uniqueKind` everywhere. `part-of` is deleted rather than renamed: it scopes on the collections dag, while `page-property` scopes on a value the page itself carries. `book-section` is the one live `part-of` declarer, so it takes a `uniquePropertySlug` first.",
+        "`page-property` is a unique kind now, and `scopesFor` files it under `{pageType}/{scopeProperty}/{value}`. What is left is `part-of`. `book-section` is its one live declarer, 455 pages each naming one parent through the many-valued `partOfSlugs`, so a required single-valued property must reach all 455 first. `akasha change` writes one page a call, and nothing writes one property onto many pages.",
     },
     {
       statement: "A page unique only within a scope declares `uniquePropertySlug`.",
       workingMemory:
-        '`Schema` is one shape in `index-shape`, read by the entries reader, the reading reader and the writer, and it carries `uniquePropertySlug`, which the writer files. An absent slug reads as the empty string rather than as nothing, so a reader dropping a stub line drops on `""`. `Identifier` and `identifyingFrom` still carry `key` and `uniqueKind` alone, so nothing reads the field a declaration states yet.',
+        '`Schema` is one shape in `index-shape`, read by the entries reader, the reading reader and the writer, and it carries `uniquePropertySlug`, which the writer files. An absent slug reads as the empty string rather than as nothing, so a reader dropping a stub line drops on `""`. `Carried` carries it too, and `identifyingFrom` turns it into `Identifier.scopedBy`, the key and page property slug of the property named.',
     },
     {
       statement: "The identity index files each page under its unique kind.",
       workingMemory:
-        "`filedIn` answers `{ uniqueKind, scope, propertySlug, said }` and `identityIn` joins `identity/{uniqueKind}/{scope}/{propertySlug}/{said}.jsonl`. The kind `page` carries an empty scope, so an id is filed at `identity/page/id/{id}.jsonl`. `scopesFor` sends `page-type` to the page type's slug and `part-of` to the parent slugs `partOf(value)` answers, and knows no `page-property` yet.",
+        "`filedIn` answers `{ uniqueKind, scope, propertySlug, said }` and `identityIn` joins `identity/{uniqueKind}/{scope}/{propertySlug}/{said}.jsonl`. The kind `page` carries an empty scope, so an id is filed at `identity/page/id/{id}.jsonl`. `page-type` scopes on the page type's slug, `part-of` on the slugs `partOf(value)` answers, and `page-property` on `{pageType}/{scopeProperty}/{value}`.",
     },
     {
       statement: "Each page address kind holds the code that finds its page.",
