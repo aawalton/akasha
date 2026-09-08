@@ -115,6 +115,7 @@ export const wakeDay = {
     "computed-property/total-level",
     "computed-property/wealth-level",
     "computed-property/wealth-stoplight",
+    "computed-property-module/hours-between",
     "instant-property/last-viewed-at",
     "number-property/active-calories",
     "number-property/breathing-points",

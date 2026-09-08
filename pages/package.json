@@ -15,6 +15,7 @@
     "./checkout-roots": "./checkout-roots/checkout-roots.module.code.ts",
     "./code-root": "./code-root/code-root.module.code.ts",
     "./computed-property": "./computed-properties/computed-property.page-type.ts",
+    "./computed-property-module": "./computed-property-modules/computed-property-module.page-type.ts",
     "./email-address-property": "./email-address-properties/email-address-property.page-type.ts",
     "./entry-ceiling": "./entry-ceiling/entry-ceiling.module.code.ts",
     "./file-property": "./file-properties/file-property.page-type.ts",
