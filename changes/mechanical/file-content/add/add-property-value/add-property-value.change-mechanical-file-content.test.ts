@@ -40,6 +40,7 @@ function worldOf(text: string | null): World {
     root: "/nowhere",
     index: null as never,
     textOf: () => text,
+    bodyOf: () => text,
     under: () => [],
     base: () => text,
     over: NOTHING_OVER,

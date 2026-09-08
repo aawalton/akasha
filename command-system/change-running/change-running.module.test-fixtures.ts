@@ -65,8 +65,27 @@ const OWING_NO_READING: Readonly<Record<string, string>> = {
   }),
 }
 
+const ANY_KIND = "akasha/changes/remove-file-of-any-kind.change-mechanical"
+
+const ANY_KIND_CODE = join(
+  import.meta.dir,
+  "../../changes/mechanical/file/remove/remove-file-of-any-kind",
+  "remove-file-of-any-kind.change-mechanical.code.ts"
+)
+
+const REACHING_ANY_KIND: Readonly<Record<string, string>> = {
+  [`${ANY_KIND}.ts`]: pageOf({
+    id: "01a04a4a-0001-7000-8000-000000000007",
+    pageTypeSlug: "change-mechanical",
+    slug: "remove-file-of-any-kind",
+    definition: "a mechanical change an indexed repository carries",
+    code: "ts",
+  }),
+  [`${ANY_KIND}.code.ts`]: `export { runChange } from "${ANY_KIND_CODE}"\n`,
+}
+
 export function repo(): string {
-  return indexedRepo({ ...SPARE, ...OWING_NO_READING })
+  return indexedRepo({ ...SPARE, ...OWING_NO_READING, ...REACHING_ANY_KIND })
 }
 
 export function piping(said: string): Piping {

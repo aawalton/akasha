@@ -71,9 +71,10 @@ function worldTold(told: Told): World {
     index: {
       idsNaming: () => told.namers,
       knownIn: () => known,
-      pageAt: () => ("page" in told ? told.page : PARENT),
+      pageByPath: () => ("page" in told ? told.page : PARENT),
     } as never,
     textOf: () => null,
+    bodyOf: () => null,
     under: () => [],
     base: () => null,
     over: NOTHING_OVER,

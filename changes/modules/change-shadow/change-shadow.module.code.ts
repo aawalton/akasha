@@ -25,7 +25,13 @@ import {
   refusing,
   replayed,
 } from "../change-answer/change-answer.module.code.ts"
-import type { Answer, Bodies, Held, Stated } from "../change-answer/change-answer.module.types.ts"
+import type {
+  Answer,
+  Bodies,
+  Held,
+  Replayed,
+  Stated,
+} from "../change-answer/change-answer.module.types.ts"
 
 const BYTES = new TextEncoder()
 
@@ -37,6 +43,7 @@ export type World = {
   readonly root: string
   readonly index: Answering
   readonly textOf: (path: string) => string | null
+  readonly bodyOf: BodyOf
   readonly under: (folder: string) => readonly string[]
   readonly base: BodyOf
   readonly over: Answer
@@ -95,11 +102,24 @@ export function bytesOf(body: Held | null): Uint8Array | null {
   return body === null || notText(body) ? null : BYTES.encode(body)
 }
 
-export function bodiesIn(said: Answer, textOf: BodyOf): Bodies {
-  const held = replayed(said, textOf)
+export function narrowed(bodyOf: BodyOf): (path: string) => string | null {
+  return (path) => {
+    const held = bodyOf(path)
+    return held === null || notText(held) ? null : held
+  }
+}
+
+export function replayedOver(said: Answer, bodyOf: BodyOf): Replayed {
+  const held = replayed(said, bodyOf)
   if ("refused" in held) throw new Error(held.refused)
+  return held
+}
+
+export function bodiesIn(said: Answer, textOf: BodyOf): Bodies {
   const found = new Map<string, string | null>()
-  for (const [path, body] of held) found.set(path, notText(body) ? null : body)
+  for (const [path, body] of replayedOver(said, textOf)) {
+    found.set(path, notText(body) ? null : body)
+  }
   return found
 }
 
@@ -119,23 +139,25 @@ export function shadowOver(root: string, said: Answer, textOf: BodyOf): Cast {
 
 export function worldAt(
   root: string,
-  textOf: (path: string) => string | null,
-  reaching: Reaching = REACHES_NOTHING
+  bodyOf: BodyOf,
+  reaching: Reaching = REACHES_NOTHING,
+  textOf: (path: string) => string | null = narrowed(bodyOf)
 ): World {
   const index = shadowAt(root).index
   return {
     root,
     index,
     textOf,
+    bodyOf,
     under: (folder) => treeUnder(root, folder, index),
-    base: textOf,
+    base: bodyOf,
     over: NOTHING_OVER,
     reaching,
   }
 }
 
 export function worldOver(world: World, said: Answer): World {
-  const held = bodiesIn(said, world.textOf)
+  const held = replayedOver(said, world.bodyOf)
   const over = gathered([world.over, said])
   if (over.refused !== null) throw new Error(over.refused)
   const index = shadowAsked(changeOver(world.root, over, world.base)).index
@@ -146,6 +168,7 @@ export function worldOver(world: World, said: Answer): World {
       const found = held.has(path) ? (held.get(path) ?? null) : world.textOf(path)
       return notText(found) ? null : found
     },
+    bodyOf: (path) => (held.has(path) ? (held.get(path) ?? null) : world.bodyOf(path)),
     under: (folder) => underOver(world.under(folder), said, folder),
     base: world.base,
     over,
@@ -162,7 +185,7 @@ export type Peeked = {
 
 export type Kept = {
   readonly root: string
-  readonly base: (path: string) => string | null
+  readonly base: BodyOf
   readonly bodies: Map<string, Held | null>
   readonly held: Set<Stated>
   readonly settled: Map<string, Held | null>
@@ -207,12 +230,13 @@ function settledIn(kept: Kept): Answering {
 
 export function ledgerAt(
   root: string,
-  textOf: (path: string) => string | null,
-  reaching: Reaching = REACHES_NOTHING
+  bodyOf: BodyOf,
+  reaching: Reaching = REACHES_NOTHING,
+  textOf: (path: string) => string | null = narrowed(bodyOf)
 ): Ledger {
   const kept: Kept = {
     root,
-    base: textOf,
+    base: bodyOf,
     bodies: new Map<string, Held | null>(),
     held: new Set<Stated>(),
     settled: new Map<string, Held | null>(),
@@ -231,7 +255,7 @@ export function ledgerAt(
     kept,
     root,
     reaching,
-    base: textOf,
+    base: bodyOf,
     get index(): Answering {
       return asked()
     },
@@ -240,8 +264,12 @@ export function ledgerAt(
     },
     textOf: (path) => {
       const held = kept.bodies.get(path)
-      const found = held === undefined ? kept.base(path) : held
-      return notText(found) ? null : found
+      if (held === undefined) return textOf(path)
+      return notText(held) ? null : held
+    },
+    bodyOf: (path) => {
+      const held = kept.bodies.get(path)
+      return held === undefined ? kept.base(path) : held
     },
     under: (folder) => underOver(treeUnder(root, folder, asked()), kept.over, folder),
   }
@@ -268,7 +296,7 @@ export function addedTo(ledger: Ledger, said: Answer): Ledger {
   if (over.refused !== null) throw new Error(over.refused)
   const settling = gathered([kept.fresh, adding])
   if (settling.refused !== null) throw new Error(settling.refused)
-  const bodies = replayed(adding, ledger.textOf)
+  const bodies = replayed(adding, ledger.bodyOf)
   if ("refused" in bodies) throw new Error(bodies.refused)
   for (const [path, body] of bodies) kept.bodies.set(path, body)
   for (const one of fresh) kept.held.add(one)

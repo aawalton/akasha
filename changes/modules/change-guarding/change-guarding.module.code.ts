@@ -47,14 +47,14 @@ export function judging(
 }
 
 export function holdsAfter(given: Guarding, path: string): boolean {
-  const held = replayed(given.said, given.before.textOf)
-  if ("refused" in held || !held.has(path)) return given.before.textOf(path) !== null
+  const held = replayed(given.said, given.before.bodyOf)
+  if ("refused" in held || !held.has(path)) return given.before.bodyOf(path) !== null
   return held.get(path) !== null
 }
 
 export function writtenIn(given: Guarding): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
-  const held = replayed(given.said, given.before.textOf)
+  const held = replayed(given.said, given.before.bodyOf)
   if ("refused" in held) return found
   for (const [path, body] of held) if (typeof body === "string") found.set(path, body)
   return found

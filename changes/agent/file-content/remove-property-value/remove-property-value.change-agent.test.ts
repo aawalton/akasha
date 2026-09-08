@@ -19,8 +19,9 @@ function worldWith(page: Value | null): World {
   const known = knownOf({})
   return {
     root: "/nowhere",
-    index: { knownIn: () => known, pageAt: () => page } as never,
+    index: { knownIn: () => known, pageByPath: () => page } as never,
     textOf: () => null,
+    bodyOf: () => null,
     under: () => [],
     base: () => null,
     over: NOTHING_OVER,

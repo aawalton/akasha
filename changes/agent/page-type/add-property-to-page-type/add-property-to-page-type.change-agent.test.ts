@@ -41,8 +41,8 @@ function worldFor(seen: Reached[], standing: Standing = {}): World {
     ...worldOf({}),
     index: {
       listedAt: () => (standing.listed === false ? [] : [{ path, id: path }]),
-      pageAt: (pageType: string) => {
-        if (pageType === "page-type") return standing.owner === false ? null : { slug: "ios-app" }
+      pageByPath: (one: string) => {
+        if (one === OWNER_AT) return standing.owner === false ? null : { slug: "ios-app" }
         return { propertySlug: "web-directory" }
       },
     } as never,

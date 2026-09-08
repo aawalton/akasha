@@ -36,6 +36,9 @@ const UNASKED: World = {
   textOf: () => {
     throw new Error(ASKED)
   },
+  bodyOf: () => {
+    throw new Error(ASKED)
+  },
   under: () => [],
   base: () => {
     throw new Error(ASKED)
@@ -53,7 +56,7 @@ const RUNS: Reaching = (world, at, given) => {
 
 function worldOf(held: Readonly<Record<string, string>>): World {
   const textOf = (path: string): string | null => held[path] ?? null
-  return { ...UNASKED, textOf, base: textOf, reaching: RUNS }
+  return { ...UNASKED, textOf, bodyOf: textOf, base: textOf, reaching: RUNS }
 }
 
 test("a path the tree holds a body for is answered as one edit taking that path away", async () => {

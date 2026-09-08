@@ -81,7 +81,10 @@ function worldIn(
   return {
     ...worldOf(BODIES),
     index: {
-      pageAt: (type: string, slug: string) => values[`${type}/${slug}`] ?? null,
+      pageByPath: (at: string) => {
+        const named = (at.split("/").pop() ?? "").split(".")
+        return values[`${named[1]}/${named[0]}`] ?? null
+      },
       declaringOf: () => declaring,
       kindsUnder: (slug: string) => new Set([slug]),
       everyOfType: (slug: string) =>

@@ -25,6 +25,7 @@ function worldOf(named: ReadonlySet<string>, carried: Carried): World {
       kindsUnder: () => UNDER,
     }),
     textOf: () => null,
+    bodyOf: () => null,
     under: () => [],
     base: () => null,
     over: NOTHING_OVER,

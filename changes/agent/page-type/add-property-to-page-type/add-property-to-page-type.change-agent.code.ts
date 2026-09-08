@@ -93,7 +93,9 @@ export async function addPropertyToPageType(
     )
   }
   const answers: Answer[] = []
-  let over: World = isLedger(world) ? world : ledgerAt(world.root, world.textOf, world.reaching)
+  let over: World = isLedger(world)
+    ? world
+    : ledgerAt(world.root, world.bodyOf, world.reaching, world.textOf)
   const record = await reach(over, ADD_RECORD, {
     at: given.at,
     key: PROPERTIES,

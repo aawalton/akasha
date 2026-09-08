@@ -48,7 +48,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const carried: Answer[] = []
   let seen = world
   for (const one of beside) {
-    if (seen.textOf(one) === null) continue
+    if (seen.bodyOf(one) === null) continue
     const said = await reach(seen, addressFor(one), { from: one, to: landingFor(one, given.to) })
     if (said.said.refused !== null) return said.said
     carried.push(said.said)

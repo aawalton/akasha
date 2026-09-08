@@ -43,7 +43,9 @@ export async function removeEveryPageOfAType(
   if (named.length === 0) return refusing(`no page is a \`${given.pageType}\``)
   const listed = count === undefined ? named : named.slice(0, count)
   const answers: Answer[] = []
-  let over: World = isLedger(world) ? world : ledgerAt(world.root, world.textOf, world.reaching)
+  let over: World = isLedger(world)
+    ? world
+    : ledgerAt(world.root, world.bodyOf, world.reaching, world.textOf)
   for (const one of listed) {
     const reached = await reach(over, REMOVE_FILE_PAGE, { at: one.path })
     if (reached.said.refused !== null) {

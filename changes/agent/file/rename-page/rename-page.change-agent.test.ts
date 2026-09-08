@@ -18,6 +18,7 @@ function worldOf(carried: Carried): World {
     root: "/nowhere",
     index: {} as World["index"],
     textOf: () => null,
+    bodyOf: () => null,
     under: () => [],
     base: () => null,
     over: NOTHING_OVER,

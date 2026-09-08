@@ -3,7 +3,7 @@ import type { Running } from "@akasha/command-system/drafting"
 import { bodiesFrom } from "@akasha/command-system/edits-landing"
 import { NO_GATE } from "@akasha/command-system/gate-building"
 import { baseOf, type Refused } from "@akasha/command-system/landing"
-import { gathered, notText } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { gathered } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
   ledgerAt,
@@ -36,14 +36,6 @@ export async function foldedOver(world: World, asked: readonly Asking[]): Promis
   return gathered(answers)
 }
 
-export function textIn(root: string): (path: string) => string | null {
-  const reads = bodyIn(root)
-  return (path) => {
-    const held = reads(path)
-    return held === null || notText(held) ? null : held
-  }
-}
-
 export type Writing = {
   readonly writer?: string | null
   readonly read?: string | null
@@ -57,7 +49,7 @@ export async function runMechanicalChange(
   writing: Writing = {}
 ): Promise<Applied | Refused> {
   if (asked.length === 0) return { refusals: [NOTHING_ASKED] }
-  const said = await foldedOver(ledgerAt(root, textIn(root), runAt), asked)
+  const said = await foldedOver(ledgerAt(root, bodyIn(root), runAt), asked)
   if (said.refused !== null) return { refusals: [said.refused] }
   if (said.edits.length === 0) {
     return {

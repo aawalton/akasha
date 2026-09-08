@@ -108,6 +108,18 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A world answers the body at a path beside the text at that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that is not text is answered as not text rather than as no body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer is replayed over the bodies a world answers rather than over its text.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A world answers the paths under a folder from the tree rather than from the index.",
     },

@@ -48,8 +48,9 @@ function worldTold(slug: string | null, target: string | null): World {
   })
   return {
     root: "/nowhere",
-    index: { knownIn: () => known, pageAt: () => PAGE } as never,
+    index: { knownIn: () => known, pageByPath: () => PAGE } as never,
     textOf: () => BODY,
+    bodyOf: () => BODY,
     under: () => [],
     base: () => BODY,
     over: NOTHING_OVER,

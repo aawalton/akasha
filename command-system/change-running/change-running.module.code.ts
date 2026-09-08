@@ -78,7 +78,7 @@ export function textIn(root: string): (path: string) => string | null {
 }
 
 export function worldFor(root: string, had: readonly Stated[], before: Said): World {
-  const base = ledgerAt(root, textIn(root), runAt)
+  const base = ledgerAt(root, bodyIn(root), runAt, textIn(root))
   return had.length === 0 ? base : addedTo(base, before)
 }
 
@@ -276,7 +276,7 @@ export async function changing(
   chosen: Chosen
 ): Promise<Answer> {
   const before = opening()
-  const world = worldAt(root, textIn(root), runAt)
+  const world = worldAt(root, bodyIn(root), runAt, textIn(root))
   const slug = argv[0]
   if (slug === undefined) {
     return mistaking([`no change is named, and this runs one of ${runsSaid(world)}`])

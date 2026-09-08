@@ -77,6 +77,7 @@ function worldOf(bodies: Readonly<Record<string, string>>): World {
     root: "/nowhere",
     index: { everyPath: () => Object.keys(bodies) } as never,
     textOf: (path) => bodies[path] ?? null,
+    bodyOf: (path) => bodies[path] ?? null,
     under: () => [],
     base: (path) => bodies[path] ?? null,
     over: NOTHING_OVER,

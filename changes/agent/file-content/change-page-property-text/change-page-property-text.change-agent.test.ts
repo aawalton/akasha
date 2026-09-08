@@ -61,11 +61,12 @@ function worldTold(carried: readonly Carried[], value: Value | null): World {
     root: "/nowhere",
     index: {
       knownIn: () => ({}),
-      pageAt: () => value,
+      pageByPath: () => value,
       propertiesIfNamed: () => carried,
       kindsUnder: () => new Set([TEXT_PROPERTY, PROSE]),
     } as never,
     textOf: () => BODY,
+    bodyOf: () => BODY,
     under: () => [],
     base: () => BODY,
     over: NOTHING_OVER,

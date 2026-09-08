@@ -104,7 +104,7 @@ function spelledIn(world: World, paths: readonly string[], one: Spelling): Spell
     if (!one.beside || typeof held !== "string") continue
     const from = besideAt(path, one.was, held)
     const to = besideAt(path, one.to, held)
-    if (from === null || to === null || world.textOf(from) === null) continue
+    if (from === null || to === null || world.bodyOf(from) === null) continue
     moving.push({ from, to })
   }
   return { carrying, moving }
@@ -140,7 +140,9 @@ export async function renamePagePropertyPropertySlug(
     }
   )
   const answers: Answer[] = []
-  let over: World = isLedger(world) ? world : ledgerAt(world.root, world.textOf, world.reaching)
+  let over: World = isLedger(world)
+    ? world
+    : ledgerAt(world.root, world.bodyOf, world.reaching, world.textOf)
   const reaching = async (address: Reaches, asked: unknown): Promise<string | null> => {
     const said = await reach(over, address, asked)
     if (said.said.refused !== null) return said.said.refused

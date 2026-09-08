@@ -18,6 +18,14 @@ export const pageClaiming = {
     },
     {
       invariantKind: "departure",
+      statement: "A path is kept for holding a body rather than for holding text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path holding a body that is not text is answered beside the page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path claimed twice is answered once.",
     },
     {

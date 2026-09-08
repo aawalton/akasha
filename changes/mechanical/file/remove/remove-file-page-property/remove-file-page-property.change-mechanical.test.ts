@@ -22,6 +22,7 @@ function worldOf(taken: Taken): World {
     root: "/nowhere",
     index: Object.assign({} as World["index"], { kindsUnder: () => UNDER }),
     textOf: () => null,
+    bodyOf: () => null,
     under: () => [],
     base: () => null,
     over: NOTHING_OVER,

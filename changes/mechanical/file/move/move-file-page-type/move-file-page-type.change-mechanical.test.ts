@@ -24,6 +24,7 @@ function worldOf(carried: Carried): World {
     root: "/nowhere",
     index: Object.assign({} as World["index"], { pageTypesIn: () => NAMED }),
     textOf: () => null,
+    bodyOf: () => null,
     under: () => [],
     base: () => null,
     over: NOTHING_OVER,
