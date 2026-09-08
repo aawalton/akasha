@@ -23,6 +23,7 @@ export const archiveOfWorldsWeb = {
     "module/archive-of-worlds-auth-provider",
     "module/archive-of-worlds-nav-commands",
     "module/archive-of-worlds-nav-items",
+    "module/archive-of-worlds-web-rbac",
   ],
   invariants: [
     {

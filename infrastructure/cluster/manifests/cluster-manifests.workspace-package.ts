@@ -10,7 +10,6 @@ export const clusterManifests = {
   partSlugs: [
     "module/alanwalton-web-rbac",
     "module/app-namespaces-synth",
-    "module/archive-of-worlds-web-rbac",
     "module/audhdalan-web-rbac",
     "module/cert-manager-rbac",
     "module/cert-manager-synth",
