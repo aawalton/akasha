@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0115B2Chapter44 = {
   pageTypeSlug: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0115-b2-chapter-44",
   title: "B2 | Chapter 44",
-  partOfSlugs: ["crimson-eternal-an-immortal-death-mage-litrpg"],
+  partOfCollectionSlugs: ["crimson-eternal-an-immortal-death-mage-litrpg"],
   position: 115,
   ownLength: 1495,
   ownProgress: 1495,
