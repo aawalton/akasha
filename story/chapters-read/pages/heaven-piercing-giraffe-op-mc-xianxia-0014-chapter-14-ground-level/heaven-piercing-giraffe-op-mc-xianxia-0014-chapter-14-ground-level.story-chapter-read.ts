@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0014Chapter14GroundLevel = {
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0014-chapter-14-ground-level",
   title: "Chapter 14: Ground Level",
-  partOfSlugs: ["heaven-piercing-giraffe-op-mc-xianxia"],
+  partOfCollectionSlugs: ["heaven-piercing-giraffe-op-mc-xianxia"],
   position: 14,
   ownLength: 1917,
   unitSlug: "words",

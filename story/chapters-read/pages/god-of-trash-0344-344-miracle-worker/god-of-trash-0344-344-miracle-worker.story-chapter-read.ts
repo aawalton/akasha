@@ -5,7 +5,7 @@ export const godOfTrash0344344MiracleWorker = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0344-344-miracle-worker",
   title: "344. Miracle Worker",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 344,
   ownLength: 2393,
   unitSlug: "words",

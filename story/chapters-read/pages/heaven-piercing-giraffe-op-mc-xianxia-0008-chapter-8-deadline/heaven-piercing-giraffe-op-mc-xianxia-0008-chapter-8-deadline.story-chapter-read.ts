@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0008Chapter8Deadline = {
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0008-chapter-8-deadline",
   title: "Chapter 8: Deadline",
-  partOfSlugs: ["heaven-piercing-giraffe-op-mc-xianxia"],
+  partOfCollectionSlugs: ["heaven-piercing-giraffe-op-mc-xianxia"],
   position: 8,
   ownLength: 1988,
   unitSlug: "words",

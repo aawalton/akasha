@@ -5,7 +5,7 @@ export const godOfTrash0322322AChapterAboutDiggingAHole = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0322-322-a-chapter-about-digging-a-hole",
   title: "322. A Chapter About Digging a Hole",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 322,
   ownLength: 2399,
   unitSlug: "words",

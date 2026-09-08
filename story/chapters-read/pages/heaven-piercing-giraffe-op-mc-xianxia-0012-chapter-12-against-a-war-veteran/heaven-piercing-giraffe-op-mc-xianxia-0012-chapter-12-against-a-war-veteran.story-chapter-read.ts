@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0012Chapter12AgainstAWarVeteran = {
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0012-chapter-12-against-a-war-veteran",
   title: "Chapter 12: Against a War Veteran",
-  partOfSlugs: ["heaven-piercing-giraffe-op-mc-xianxia"],
+  partOfCollectionSlugs: ["heaven-piercing-giraffe-op-mc-xianxia"],
   position: 12,
   ownLength: 1720,
   unitSlug: "words",

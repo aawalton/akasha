@@ -5,7 +5,7 @@ export const godOfTrash0334334ChannelingAnExpert = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0334-334-channeling-an-expert",
   title: "334. Channeling an Expert",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 334,
   ownLength: 2260,
   unitSlug: "words",

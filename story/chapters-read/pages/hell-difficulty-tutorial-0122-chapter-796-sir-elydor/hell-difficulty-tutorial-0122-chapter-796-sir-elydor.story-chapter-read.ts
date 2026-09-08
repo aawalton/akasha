@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0122Chapter796SirElydor = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0122-chapter-796-sir-elydor",
   title: "Chapter 796 - Sir Elydor",
-  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
+  partOfCollectionSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 122,
   ownLength: 2337,
   unitSlug: "words",

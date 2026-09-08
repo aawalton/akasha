@@ -5,7 +5,7 @@ export const godOfTrash0321321YouThinkYouCanLeave = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0321-321-you-think-you-can-leave",
   title: "321. You Think You Can Leave?",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 321,
   ownLength: 1929,
   unitSlug: "words",

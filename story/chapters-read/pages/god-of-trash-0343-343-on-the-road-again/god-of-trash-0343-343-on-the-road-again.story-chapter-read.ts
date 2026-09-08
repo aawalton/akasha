@@ -5,7 +5,7 @@ export const godOfTrash0343343OnTheRoadAgain = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0343-343-on-the-road-again",
   title: "343. On The Road Again",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 343,
   ownLength: 2297,
   unitSlug: "words",

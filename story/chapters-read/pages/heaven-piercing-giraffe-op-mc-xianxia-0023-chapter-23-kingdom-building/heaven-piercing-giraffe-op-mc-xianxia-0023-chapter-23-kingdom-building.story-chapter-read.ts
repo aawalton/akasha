@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0023Chapter23KingdomBuilding = {
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0023-chapter-23-kingdom-building",
   title: "Chapter 23: Kingdom Building?",
-  partOfSlugs: ["heaven-piercing-giraffe-op-mc-xianxia"],
+  partOfCollectionSlugs: ["heaven-piercing-giraffe-op-mc-xianxia"],
   position: 23,
   ownLength: 1957,
   unitSlug: "words",
