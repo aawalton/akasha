@@ -7,7 +7,7 @@ export const talos = {
   definition: "the Talos machine configuration a cluster's nodes are declared in",
   manifest: "json",
   partSlugs: [
-    "module/talos-build-patch",
+    "module/build-patch",
     "module/talos-build-schematic",
     "module/talos-build-volumes",
     "module/emit-yaml",

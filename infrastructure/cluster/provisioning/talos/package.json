@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./talos-build-patch": "./talos-build-patch/talos-build-patch.module.code.ts",
+    "./build-patch": "./build-patch/build-patch.module.code.ts",
     "./talos-build-schematic": "./talos-build-schematic/talos-build-schematic.module.code.ts",
     "./talos-build-volumes": "./talos-build-volumes/talos-build-volumes.module.code.ts",
     "./emit-yaml": "./emit-yaml/emit-yaml.module.code.ts",
