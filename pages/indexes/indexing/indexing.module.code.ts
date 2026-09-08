@@ -10,6 +10,7 @@ import {
 } from "@akasha/pages/page-type-properties"
 import { loadedFrom, type Value, valueAt } from "@akasha/pages/page-value"
 import { pagesTurned } from "../beside-turning/beside-turning.module.code.ts"
+import { DECLARING_UNDER, declaredOf } from "../declaring/index-declaring.index.code.ts"
 import {
   type Entry,
   fileKeysAt,
@@ -159,6 +160,7 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
   drift.push(reconcile(join(root, PATH), paths, root, put))
   drift.push(reconcile(join(root, LISTED_UNDER), listedOf(paths), root, put))
   drift.push(reconcile(join(root, SCHEMA), schema, root, put))
+  drift.push(reconcile(join(root, DECLARING_UNDER), declaredOf(schema), root, put))
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
   drift.push(reconcile(join(root, VALUE), valued, root, put))
   const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
@@ -287,13 +289,11 @@ export function settlingOver(
     )
   )
 
+  const wasSchema = held.flatMap((one) => (one.was === null ? [] : schemaIn(one.was)))
   const nowSchema = held.flatMap((one) => (one.now === null ? [] : schemaIn(one.now)))
-  const schema = filingOf(
-    reading,
-    held.flatMap((one) => (one.was === null ? [] : schemaIn(one.was))),
-    nowSchema
-  )
-  const overSchema = overlaidOn(reading, schema)
+  const schema = filingOf(reading, wasSchema, nowSchema)
+  const declaring = filingOf(reading, declaredOf(wasSchema), declaredOf(nowSchema))
+  const overSchema = overlaidOn(reading, [...schema, ...declaring])
   const wasUnique = uniquePropertiesAt(reading)
   const unique = uniquePropertiesAt(overSchema)
   refusingEmpty(unique, held.filter((one) => one.now !== null).length)
@@ -353,7 +353,14 @@ export function settlingOver(
     held.flatMap((one) => (one.now === null ? [] : valueIn(one.now, one.path, repo)))
   )
 
-  const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...schema, ...valued])
+  const stepped = overlaidOn(reading, [
+    ...imported,
+    ...identity,
+    ...paths,
+    ...schema,
+    ...declaring,
+    ...valued,
+  ])
   const wasKnown = knownIn(reading, wasPageOf)
   const known = knownIn(stepped, pageOf)
   const was = held.map((one) =>
@@ -376,6 +383,7 @@ export function settlingOver(
     ...relation,
     ...valued,
     ...listing,
+    ...declaring,
   ]
   return {
     reading: overlaidOn(given, filings),

@@ -6,16 +6,14 @@ import {
   typesAmong,
   typeValuesIn,
 } from "../../types/gathering/page-type-gathering.module.code.ts"
+import { DECLARING_AT } from "../declaring/index-declaring.index.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { answered, readingIn } from "../reading/index-reading.module.code.ts"
-import { indexSchema } from "../schema/index-schema.index.ts"
 import type { Reading, Schema } from "../shape/index-shape.module.code.ts"
 
 const ENDING = ".jsonl"
 
 const IDENTITY = indexIdentity.name
-
-const SCHEMA = indexSchema.name
 
 const PAGE_TYPE = "page-type"
 
@@ -67,37 +65,24 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string 
 
 export type UncommittedBy = ReadonlyMap<string, ReadonlySet<string>>
 
-const PROPERTY = "page-property"
-
-const SLUG = "slug"
-
-const SCHEMA_UNDER = join(SCHEMA, PROPERTY)
-
 export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
-  const reading = readingIn(given)
   const found = new Map<string, Schema>()
-  for (const shape of reading.listing(SCHEMA_UNDER)) {
-    if (!shape.directory) continue
-    const dir = join(SCHEMA_UNDER, shape.name, SLUG)
-    for (const one of reading.listing(dir)) {
-      const line = reading.lines(join(dir, one.name))[0]
-      if (line === undefined) continue
-      const said: unknown = JSON.parse(line)
-      if (said === null || typeof said !== "object" || Array.isArray(said)) continue
-      const held = said as Value
-      const pageTypeSlug = textAt(held, "pageTypeSlug") ?? ""
-      const slug = textAt(held, "slug") ?? ""
-      found.set(`${pageTypeSlug}/${slug}`, {
-        pageTypeSlug,
-        targetPageTypeSlug: textAt(held, "targetPageTypeSlug"),
-        unique: textAt(held, "unique"),
-        uniquePropertySlug: textAt(held, "uniquePropertySlug"),
-        slug,
-        propertySlug: textAt(held, "propertySlug") ?? "",
-        fileName: textAt(held, "fileName"),
-        folderName: textAt(held, "folderName"),
-      })
-    }
+  for (const line of readingIn(given).lines(DECLARING_AT)) {
+    const said: unknown = JSON.parse(line)
+    if (said === null || typeof said !== "object" || Array.isArray(said)) continue
+    const held = said as Value
+    const pageTypeSlug = textAt(held, "pageTypeSlug") ?? ""
+    const slug = textAt(held, "slug") ?? ""
+    found.set(`${pageTypeSlug}/${slug}`, {
+      pageTypeSlug,
+      targetPageTypeSlug: textAt(held, "targetPageTypeSlug"),
+      unique: textAt(held, "unique"),
+      uniquePropertySlug: textAt(held, "uniquePropertySlug"),
+      slug,
+      propertySlug: textAt(held, "propertySlug") ?? "",
+      fileName: textAt(held, "fileName"),
+      folderName: textAt(held, "folderName"),
+    })
   }
   return found
 }

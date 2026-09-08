@@ -6,6 +6,7 @@ import {
   B,
   C,
   D,
+  declaring,
   grounded,
   scratch,
   shaped,
@@ -137,17 +138,13 @@ test("a key one property carries reaches it, and a key no property carries reach
 
 test("a key two properties carry reaches neither where the page's type declares neither", () => {
   const { root, repo } = grounded()
-  mkdirSync(join(root, "schema/page-property/relation-property/slug"), { recursive: true })
-  writeFileSync(
-    join(root, "schema/page-property/relation-property/slug/other-slugs.jsonl"),
-    `${JSON.stringify({
-      pageTypeSlug: "relation-property",
-      targetPageTypeSlug: "domain",
-      unique: null,
-      slug: "other-slugs",
-      propertySlug: "part-slugs",
-    })}\n`
-  )
+  declaring(root, "relation-property", "other-slugs", {
+    pageTypeSlug: "relation-property",
+    targetPageTypeSlug: "domain",
+    unique: null,
+    slug: "other-slugs",
+    propertySlug: "part-slugs",
+  })
   const known = knownAt(root, repo)
 
   expect(known.slugOfKeyIn({ pageTypeSlug: "domain" }, "partSlugs")).toBe(null)

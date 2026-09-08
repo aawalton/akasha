@@ -1,9 +1,10 @@
-import { mkdirSync, writeFileSync } from "node:fs"
+import { appendFileSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
 import type { Value } from "@akasha/pages/page-value"
+import { DECLARING_AT } from "../declaring/index-declaring.index.code.ts"
 import { claimsOf, type IsThere, sidecarsIn } from "../path-claiming/path-claiming.module.code.ts"
 import type { Shaped } from "../reaching/reaching.module.code.ts"
 import type { FilePropertiesBy } from "./index-entries.module.code.ts"
@@ -101,13 +102,19 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     "identity/page-type/one-of-property/slug/either.jsonl",
     '{"path":"either.one-of-property.ts","id":"4"}'
   )
-  filed("schema/page-property/file-property/slug/code.jsonl", SCHEMA.code)
-  filed("schema/page-property/relation-property/slug/domain-slug.jsonl", SCHEMA.domainSlug)
-  filed("schema/page-property/relation-property/slug/part-slugs.jsonl", SCHEMA.partSlugs)
-  filed("schema/page-property/relation-property/slug/note-slug.jsonl", SCHEMA.noteSlug)
-  filed("schema/page-property/one-of-property/slug/either.jsonl", SCHEMA.either)
-  filed(`schema/page-property/${idPage.pageTypeSlug}/slug/id.jsonl`, SCHEMA.id)
-  filed(`schema/page-property/${slugPage.pageTypeSlug}/slug/slug.jsonl`, SCHEMA.slug)
+  const declared: readonly (readonly [string, string, string])[] = [
+    ["file-property", "code", SCHEMA.code],
+    ["relation-property", "domain-slug", SCHEMA.domainSlug],
+    ["relation-property", "part-slugs", SCHEMA.partSlugs],
+    ["relation-property", "note-slug", SCHEMA.noteSlug],
+    ["one-of-property", "either", SCHEMA.either],
+    [idPage.pageTypeSlug, "id", SCHEMA.id],
+    [slugPage.pageTypeSlug, "slug", SCHEMA.slug],
+  ]
+  for (const [type, slug, line] of declared) {
+    filed(`schema/page-property/${type}/slug/${slug}.jsonl`, line)
+  }
+  filed(DECLARING_AT, declared.map((one) => one[2]).join("\n"))
   for (const [type, lines] of kept) filed(`value/${type}.jsonl`, lines.join("\n"))
   return { root, repo }
 }
@@ -179,9 +186,13 @@ export function declaring(
   slug: string,
   said: Record<string, unknown>
 ): undefined {
+  const line = `${JSON.stringify(said)}\n`
   const at = join(index, "schema", "page-property", pageTypeSlug, "slug", `${slug}.jsonl`)
   mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, `${JSON.stringify(said)}\n`, "utf8")
+  writeFileSync(at, line, "utf8")
+  const flat = join(index, DECLARING_AT)
+  mkdirSync(dirname(flat), { recursive: true })
+  appendFileSync(flat, line, "utf8")
 }
 
 export function manifest(slug: string, fileName: string): Value {

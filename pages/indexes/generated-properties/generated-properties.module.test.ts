@@ -5,6 +5,7 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Change } from "@akasha/pages/change"
 import { shadowAt, shadowFor } from "@akasha/pages/shadow"
 import { put, there } from "@akasha/testing-system/putting"
+import { schemaFiled } from "../reading/index-reading.module.test-fixtures.ts"
 import { indexIn } from "../surface/index-surface.module.code.ts"
 import {
   generatedProperties,
@@ -66,13 +67,9 @@ function named(
   unique: string | null = null,
   propertySlug: string = slug
 ): undefined {
-  filed(root, `schema/page-property/${SHAPE}/slug/${slug}.jsonl`, {
-    pageTypeSlug: SHAPE,
-    targetPageTypeSlug: null,
-    unique,
-    slug,
-    propertySlug,
-  })
+  schemaFiled(root, SHAPE, slug, [
+    { pageTypeSlug: SHAPE, targetPageTypeSlug: null, unique, slug, propertySlug },
+  ])
 }
 
 const HELD_AT = `akasha/held.${SHAPE}.ts`

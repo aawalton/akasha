@@ -13,6 +13,7 @@ import { declaringUnder } from "@akasha/testing-system/declaring"
 import { admitting } from "@akasha/testing-system/minting"
 import { HELD } from "@akasha/testing-system/page-holding"
 import { everyFileUnder } from "@akasha/testing-system/walking"
+import { DECLARING_AT } from "../declaring/index-declaring.index.code.ts"
 import type { Entry } from "../entries/index-entries.module.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { indexImport } from "../import/index-import.index.ts"
@@ -177,6 +178,12 @@ export function listingFiled(root: string, paths: readonly string[]): undefined 
   writeFileSync(at, paths.map((one) => `${one}\n`).join(""))
 }
 
+function declaringAdded(root: string, lines: readonly unknown[]): undefined {
+  const at = under(root, DECLARING_AT)
+  mkdirSync(dirname(at), { recursive: true })
+  appendFileSync(at, lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
+}
+
 export function schemaFiled(
   root: string,
   pageTypeSlug: string,
@@ -184,6 +191,7 @@ export function schemaFiled(
   lines: readonly unknown[]
 ): undefined {
   filing(root, join(indexSchema.name, PAGE_PROPERTY, pageTypeSlug, SLUG, propertySlug), lines)
+  declaringAdded(root, lines)
 }
 
 export function relationFiled(
