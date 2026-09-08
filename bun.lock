@@ -201,6 +201,12 @@
         "zod": "^4.3.6",
       },
     },
+    "alan/harness/geo-io": {
+      "name": "@akasha/geo-io",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
+    },
     "alan/harness/health-samples-access": {
       "name": "@akasha/health-samples-access",
       "dependencies": {
@@ -853,12 +859,6 @@
       "name": "@akasha/file-system",
       "dependencies": {
         "@akasha/code": "workspace:*",
-      },
-    },
-    "geo-io": {
-      "name": "@akasha/geo-io",
-      "dependencies": {
-        "zod": "^4.3.6",
       },
     },
     "git": {
@@ -3037,7 +3037,7 @@
 
     "@akasha/file-system": ["@akasha/file-system@workspace:file-system"],
 
-    "@akasha/geo-io": ["@akasha/geo-io@workspace:geo-io"],
+    "@akasha/geo-io": ["@akasha/geo-io@workspace:alan/harness/geo-io"],
 
     "@akasha/git": ["@akasha/git@workspace:git"],
 
