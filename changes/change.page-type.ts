@@ -72,14 +72,6 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A change that is expected to pass checks runs checks.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A change that is not expected to pass checks does not run checks.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A change's slug names the mode, then the thing acted on, then the part of that thing.",
     },

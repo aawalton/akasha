@@ -8,4 +8,14 @@ export const runsChecks = {
   slug: "runs-checks",
   propertySlug: "runs-checks",
   definition: "whether checks run on a change of this kind",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A change kind whose changes are expected to pass checks runs checks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change kind whose changes are not expected to pass checks runs none.",
+    },
+  ],
 } as const satisfies BooleanProperty
