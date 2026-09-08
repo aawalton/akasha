@@ -14,6 +14,11 @@ export const supervisorInteractive = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An exit the supervisor did not ask for is named a user's only where the child exited cleanly.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A null child from adoption ends the loop.",
     },
     {
