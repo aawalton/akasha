@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Value } from "@akasha/pages/page-value"
-import { runChange as changeField } from "../../../mechanical/file-content/change/change-property-value-field/change-property-value-field.change-mechanical-file-content.code.ts"
+import { runChange as changeField } from "../../../mechanical/file-content/change/change-property-record-field/change-property-record-field.change-mechanical-file-content.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
@@ -12,11 +12,11 @@ import {
   worldFor,
 } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import {
-  changePropertyValueField,
+  changePropertyRecordField,
   runChange,
-} from "./change-property-value-field.change-agent.code.ts"
+} from "./change-property-record-field.change-agent.code.ts"
 
-const ADDRESS = "change-mechanical-file-content/change-property-value-field"
+const ADDRESS = "change-mechanical-file-content/change-property-record-field"
 
 const RUNS: Reaching = async (world, at, given) => {
   if (at === ADDRESS) {
@@ -61,7 +61,7 @@ const ASKED = {
 }
 
 test("one field of the record a match names is stated anew", async () => {
-  const said = await changePropertyValueField(worldTold(), ASKED)
+  const said = await changePropertyRecordField(worldTold(), ASKED)
 
   expect(said.refused).toBeNull()
   expect(bodyOf(said, () => BODY)).toContain(`invariantKind: "gap"`)
@@ -84,7 +84,7 @@ test("the arguments are handed to the change reached at the address that change 
     },
   }
 
-  await changePropertyValueField(seeing, ASKED)
+  await changePropertyRecordField(seeing, ASKED)
 
   expect(reached).toEqual([ADDRESS])
 })
@@ -95,7 +95,7 @@ test("nothing here works out a body of its own", async () => {
     reaching: () => Promise.resolve(NOTHING_OVER),
   }
 
-  const said = await changePropertyValueField(seeing, ASKED)
+  const said = await changePropertyRecordField(seeing, ASKED)
 
   expect(said.edits).toEqual([])
 })

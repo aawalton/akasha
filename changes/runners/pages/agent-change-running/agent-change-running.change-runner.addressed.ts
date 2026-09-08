@@ -29,8 +29,8 @@ export type Changes = {
   "change-agent/change-page-property-text": Parameters<
     typeof import("../../../agent/file-content/change-page-property-text/change-page-property-text.change-agent.code.ts")["runChange"]
   >[1]
-  "change-agent/change-property-value-field": Parameters<
-    typeof import("../../../agent/file-content/change-property-value-field/change-property-value-field.change-agent.code.ts")["runChange"]
+  "change-agent/change-property-record-field": Parameters<
+    typeof import("../../../agent/file-content/change-property-record-field/change-property-record-field.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/move-folder": Parameters<
     typeof import("../../../agent/folder/move-folder/move-folder.change-agent.code.ts")["runChange"]

@@ -1,9 +1,9 @@
 import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
-export const changePropertyValueField = {
+export const changePropertyRecordField = {
   id: "01a081db-f317-7907-8d05-07fbaed64a3d",
   pageTypeSlug: "change-agent",
-  slug: "change-property-value-field",
+  slug: "change-property-record-field",
   changeModeSlug: "change-mode-change",
   definition: "one field of one record a page's many-valued property holds, stated anew",
   code: "ts",

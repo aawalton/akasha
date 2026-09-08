@@ -4,7 +4,7 @@ import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.t
 import {
   fieldRestated,
   type Named,
-} from "./change-property-value-field.change-mechanical-file-content.code.ts"
+} from "./change-property-record-field.change-mechanical-file-content.code.ts"
 
 const AT = "akasha/held/kept.module.ts"
 

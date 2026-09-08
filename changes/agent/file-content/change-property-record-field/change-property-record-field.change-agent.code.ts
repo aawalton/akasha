@@ -3,7 +3,7 @@ import type { Answer } from "../../../modules/change-answer/change-answer.module
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { readFor } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
-const CHANGE_PROPERTY_VALUE_FIELD = "change-mechanical-file-content/change-property-value-field"
+const CHANGE_PROPERTY_RECORD_FIELD = "change-mechanical-file-content/change-property-record-field"
 
 const AT = "at"
 
@@ -17,7 +17,7 @@ const FIELD = "field"
 
 const TO = "to"
 
-export type ChangePropertyValueFieldAsked = {
+export type ChangePropertyRecordFieldAsked = {
   readonly at: string
   readonly key: string
   readonly where: string
@@ -26,13 +26,13 @@ export type ChangePropertyValueFieldAsked = {
   readonly to: string
 }
 
-export async function changePropertyValueField(
+export async function changePropertyRecordField(
   world: World,
-  given: ChangePropertyValueFieldAsked
+  given: ChangePropertyRecordFieldAsked
 ): Promise<Answer> {
   const read = readFor(world, given.at)
   if ("refused" in read) return refusing(`${read.refused}, so no field is stated`)
-  return (await reach(world, CHANGE_PROPERTY_VALUE_FIELD, given)).said
+  return (await reach(world, CHANGE_PROPERTY_RECORD_FIELD, given)).said
 }
 
 export type Asked = Readonly<Record<string, string>>
@@ -50,5 +50,5 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (field === undefined) return refusing(missing(FIELD))
   const to = given[TO]
   if (to === undefined) return refusing(missing(TO))
-  return await changePropertyValueField(world, { at, key, where, is, field, to })
+  return await changePropertyRecordField(world, { at, key, where, is, field, to })
 }
