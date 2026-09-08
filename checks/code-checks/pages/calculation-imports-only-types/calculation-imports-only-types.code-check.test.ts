@@ -6,6 +6,10 @@ const ROOT = "/repo"
 
 const AT = "akasha/held.computed-property.code.ts"
 
+const SHARED_AT = "akasha/modules/hours/hours.computed-property-module.code.ts"
+
+const SHARED_FROM = "../modules/hours/hours.computed-property-module.code.ts"
+
 function given(at: string, body: string) {
   return bodyFrom(ROOT, at, body)
 }
@@ -74,6 +78,34 @@ test("every element of one value import is reported, one reason each", () => {
 test("a comment or a string saying `import` fools nothing", () => {
   const body = "export const work = () => 'import { a } from \"./x.ts\"'\n"
   expect(reasonsIn(given(AT, body))).toEqual([])
+})
+
+test("a named import from a computed-property-module is let through", () => {
+  const body = `import { hoursBetween } from "${SHARED_FROM}"\n`
+  expect(reasonsIn(given(AT, body))).toEqual([])
+})
+
+test("a default import of a computed-property-module is refused", () => {
+  const said = reasonsIn(given(AT, `import hours from "${SHARED_FROM}"\n`))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`hours`")
+})
+
+test("a namespace import of a computed-property-module is refused", () => {
+  const said = reasonsIn(given(AT, `import * as hours from "${SHARED_FROM}"\n`))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`hours`")
+})
+
+test("a computed-property-module's own code file is judged by the same rule", () => {
+  const said = reasonsIn(given(SHARED_AT, 'import { a } from "./x.ts"\n'))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`a`")
+})
+
+test("a computed-property-module importing another is let through", () => {
+  const body = 'import { anHour } from "../millis/millis.computed-property-module.code.ts"\n'
+  expect(reasonsIn(given(SHARED_AT, body))).toEqual([])
 })
 
 test("a file that is no calculation's code file is passed over", () => {

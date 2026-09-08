@@ -4,7 +4,7 @@ export const calculationImportsOnlyTypes = {
   id: "01a07222-b261-7961-a84e-6a8e0c0e5ed3",
   pageTypeSlug: "code-check",
   slug: "calculation-imports-only-types",
-  definition: "the check refusing an import that is not type-only in a calculation's code file",
+  definition: "the check refusing an import a calculation cannot fold into its own text",
   code: "ts",
   test: "ts",
   runsOnPatch: true,
@@ -18,12 +18,20 @@ export const calculationImportsOnlyTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing resolves an import while that text runs.",
+      statement: "Only a computed-property-module's code file is folded into that text.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An import that is not type-only is missing at query time rather than at typecheck.",
+        "Any other import that is not type-only is missing at query time rather than at typecheck.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A named element imported from a computed-property-module is let through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A default or namespace import of a computed-property-module is refused.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +59,12 @@ export const calculationImportsOnlyTypes = {
     },
     {
       invariantKind: "absence",
-      statement: "Only a file named `.computed-property.code.ts` is judged.",
+      statement:
+        "Only a calculation's code file and a computed-property-module's code file are judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A computed-property-module's code file is judged by the rule a calculation is.",
     },
     {
       invariantKind: "departure",

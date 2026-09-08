@@ -8,7 +8,10 @@ import {
 
 const CALCULATED = ".computed-property.code.ts"
 
-const ONLY = "a calculation runs from its text alone, where nothing resolves an import"
+const SHARED = ".computed-property-module.code.ts"
+
+const ONLY =
+  "a calculation runs from its text, and only a computed-property-module folds into that text"
 
 type Found = {
   readonly named: string | null
@@ -18,6 +21,7 @@ type Found = {
 
 function boundIn(bound: ts.NamedImportBindings, line: number, from: string): readonly Found[] {
   if (ts.isNamespaceImport(bound)) return [{ named: bound.name.text, line, from }]
+  if (from.endsWith(SHARED)) return []
   return bound.elements
     .filter((each) => !each.isTypeOnly)
     .map((each) => ({ named: each.name.text, line, from }))
@@ -50,19 +54,19 @@ function reasonFor(one: Found): string {
   return `line ${one.line} imports \`${one.named}\` from \`${one.from}\` as a value — ${ONLY}`
 }
 
-function calculated(path: string): boolean {
-  return path.endsWith(CALCULATED)
+function runsFromText(path: string): boolean {
+  return path.endsWith(CALCULATED) || path.endsWith(SHARED)
 }
 
 function refusalsIn(path: string, text: string): readonly string[] {
-  if (!calculated(path)) return []
+  if (!runsFromText(path)) return []
   return valueImportsIn(path, text).map(reasonFor)
 }
 
 export const reasonsIn = overEachText(refusalsIn)
 
-const CALCULATIONS = textsBy("calculations", calculated)
+const RUN_FROM_TEXT = textsBy("calculations and the modules they fold in", runsFromText)
 
-export const calculationImportsOnlyTypes = judgingEach(CALCULATIONS, (given) =>
+export const calculationImportsOnlyTypes = judgingEach(RUN_FROM_TEXT, (given) =>
   refusalsIn(given.path, given.text)
 )
