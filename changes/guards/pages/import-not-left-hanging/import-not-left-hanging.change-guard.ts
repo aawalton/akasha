@@ -11,8 +11,7 @@ export const importNotLeftHanging = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The files importing the file taken away are read from the index the answer leaves.",
+      statement: "The files importing the path judged are read from the index the answer leaves.",
     },
     {
       invariantKind: "departure",
@@ -49,6 +48,10 @@ export const importNotLeftHanging = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads the working tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path a move carried the body off is judged as a path taken away.",
     },
   ],
 } as const satisfies ChangeGuard

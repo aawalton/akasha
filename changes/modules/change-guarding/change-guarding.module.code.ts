@@ -18,17 +18,32 @@ export function takingIn(said: Answer): readonly string[] {
   return taken
 }
 
+export function carriedIn(said: Answer): readonly string[] {
+  const carried: string[] = []
+  for (const one of said.edits) {
+    if (one.kind === "move") carried.push(one.pathFrom)
+  }
+  return carried
+}
+
+export function judgingOver(
+  given: Guarding,
+  gone: readonly string[],
+  hanging: (asked: Guarding, paths: readonly string[]) => string | null
+): string | null {
+  if (gone.length === 0) return null
+  try {
+    return hanging(given, gone)
+  } catch (cause) {
+    return unreadable(cause)
+  }
+}
+
 export function judging(
   given: Guarding,
   hanging: (asked: Guarding, paths: readonly string[]) => string | null
 ): string | null {
-  const taken = takingIn(given.said)
-  if (taken.length === 0) return null
-  try {
-    return hanging(given, taken)
-  } catch (cause) {
-    return unreadable(cause)
-  }
+  return judgingOver(given, takingIn(given.said), hanging)
 }
 
 export function holdsAfter(given: Guarding, path: string): boolean {

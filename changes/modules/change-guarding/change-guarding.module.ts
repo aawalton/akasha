@@ -87,5 +87,13 @@ export const changeGuarding = {
       invariantKind: "gap",
       statement: "The index that answer leaves is worked out over that answer alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The paths a move carries a body off are read here beside the paths taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which of the two a guard judges is the guard's own to say.",
+    },
   ],
 } as const satisfies Module

@@ -13,3 +13,16 @@ export function heldAt(root: string, path: string): (one: string) => string | nu
 export function tookAway(root: string, path: string, guards: readonly Guard[]): Answer {
   return guardedBy(worldAt(root, heldAt(root, path)), stating([{ kind: "remove", path }]), guards)
 }
+
+export function carriedOff(
+  root: string,
+  pathFrom: string,
+  pathTo: string,
+  guards: readonly Guard[]
+): Answer {
+  return guardedBy(
+    worldAt(root, heldAt(root, pathFrom)),
+    stating([{ kind: "move", pathFrom, pathTo }]),
+    guards
+  )
+}

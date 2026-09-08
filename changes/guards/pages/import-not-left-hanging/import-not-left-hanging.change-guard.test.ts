@@ -17,6 +17,7 @@ import {
   NOT_READ,
 } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import {
+  carriedOff,
   heldAt,
   tookAway,
 } from "../../../modules/change-guarding/change-guarding.module.test-fixtures.ts"
@@ -34,6 +35,8 @@ const APART_BODY = bodyOf({ id: idOf("b"), pageTypeSlug: "domain", slug: "apart"
 const SPARE_PAGE = "akasha/three/spare.module.ts"
 
 const SPARE_CODE = "akasha/three/spare.module.code.ts"
+
+const CARRIED_CODE = "akasha/one/carried.module.code.ts"
 
 function brokenRoot(): string {
   const root = scratch.rootFor("import-broken-")
@@ -103,7 +106,7 @@ test("a file another file still imports is refused", () => {
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
-    `\`${NAMER_CODE}\` imports \`${HELD_CODE}\`, and \`${HELD_CODE}\` is taken away`
+    `\`${NAMER_CODE}\` imports \`${HELD_CODE}\`, and \`${HELD_CODE}\` holds no body after`
   )
 })
 
@@ -111,6 +114,26 @@ test("a file nothing imports is not refused", () => {
   const root = spareRepo()
 
   const said = takingAway(root, NAMER_CODE)
+
+  expect(said.refused).toBe(null)
+  expect(said.edits).toHaveLength(1)
+})
+
+test("a file carried off a path another file still imports is refused", () => {
+  const root = indexedRepo()
+
+  const said = carriedOff(root, HELD_CODE, CARRIED_CODE, GUARDS)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    `\`${NAMER_CODE}\` imports \`${HELD_CODE}\`, and \`${HELD_CODE}\` holds no body after`
+  )
+})
+
+test("a file carried off a path nothing imports is not refused", () => {
+  const root = spareRepo()
+
+  const said = carriedOff(root, NAMER_CODE, CARRIED_CODE, GUARDS)
 
   expect(said.refused).toBe(null)
   expect(said.edits).toHaveLength(1)

@@ -1,24 +1,26 @@
 import {
+  carriedIn,
   holdsAfter,
-  judging,
+  judgingOver,
+  takingIn,
 } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import type {
   Guard,
   Guarding,
 } from "../../../modules/change-guarding/change-guarding.module.types.ts"
 
-function hangingIn(given: Guarding, taken: readonly string[]): string | null {
-  for (const path of taken) {
+function hangingIn(given: Guarding, gone: readonly string[]): string | null {
+  for (const path of gone) {
     for (const importer of given.shadow.index.importersOf(path)) {
       if (!holdsAfter(given, importer)) continue
-      return `\`${importer}\` imports \`${path}\`, and \`${path}\` is taken away`
+      return `\`${importer}\` imports \`${path}\`, and \`${path}\` holds no body after`
     }
   }
   return null
 }
 
 export function importNotLeftHanging(given: Guarding): string | null {
-  return judging(given, hangingIn)
+  return judgingOver(given, [...takingIn(given.said), ...carriedIn(given.said)], hangingIn)
 }
 
 export const runGuard: Guard = importNotLeftHanging
