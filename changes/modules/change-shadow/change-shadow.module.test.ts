@@ -227,7 +227,10 @@ test("a move empties the path it came from and fills the path it lands at", () =
 })
 
 test("a path a move leaves is among the paths the change changed", () => {
-  const said = stating([{ kind: "move", pathFrom: HELD_CODE, pathTo: AT }])
+  const said = stating([
+    { kind: "move", pathFrom: HELD_CODE, pathTo: AT },
+    { kind: "replace", path: AT, contentFrom: "was\n", contentTo: "now\n" },
+  ])
 
   const change = changeOver("/nowhere", said, (path) => (path === HELD_CODE ? "was\n" : null))
 
