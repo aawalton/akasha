@@ -13,7 +13,7 @@ export const changeChecked = {
   slug: "change-checked",
   definition: "a change a program composed and the checks judge",
   pluralSlug: "change-checked",
-  extendsSlug: ["page-type/change"],
+  extendsSlug: ["page-type/change-agent"],
   partSlugs: [],
   invariants: [
     {

@@ -11,6 +11,9 @@ export const changeAgent = {
   pluralSlug: "change-agent",
   extendsSlug: ["page-type/change"],
   partSlugs: [
+    "page-type/change-checked",
+    "page-type/change-authored",
+    "page-type/change-restated",
     "domain/change-agent-file",
     "domain/change-agent-folder",
     "domain/change-agent-file-content",

@@ -13,7 +13,7 @@ export const changeAuthored = {
   slug: "change-authored",
   definition: "a change carrying a body an agent composed",
   pluralSlug: "change-authored",
-  extendsSlug: ["page-type/change"],
+  extendsSlug: ["page-type/change-agent"],
   partSlugs: [],
   invariants: [
     {

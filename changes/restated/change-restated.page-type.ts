@@ -13,7 +13,7 @@ export const changeRestated = {
   slug: "change-restated",
   definition: "a change carrying words an agent composed for a meaning already stated",
   pluralSlug: "change-restated",
-  extendsSlug: ["page-type/change"],
+  extendsSlug: ["page-type/change-agent"],
   partSlugs: [],
   invariants: [
     {
