@@ -20,7 +20,7 @@ export const entries = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the cost of the child processes a check waited on.",
+      statement: "A line has the cost of the child processes a check waited on.",
     },
     {
       invariantKind: "departure",

@@ -29,7 +29,7 @@ export const trackWeight = {
     },
     {
       invariantKind: "departure",
-      statement: "A weight a day already carries is replaced.",
+      statement: "A weight a day already has is replaced.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const trackWeight = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying no page is written before the weight goes onto that day.",
+      statement: "A day with no page is written before the weight goes onto that day.",
     },
     {
       invariantKind: "absence",

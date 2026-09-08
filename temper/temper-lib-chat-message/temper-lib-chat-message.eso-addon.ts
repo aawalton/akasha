@@ -33,7 +33,7 @@ export const temperLibChatMessage = {
     },
     {
       invariantKind: "departure",
-      statement: "A tagged message carries the tag of the addon that printed the message.",
+      statement: "A tagged message has the tag of the addon that printed the message.",
     },
     {
       invariantKind: "departure",

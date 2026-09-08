@@ -21,7 +21,7 @@ export const setVolume = {
     },
     {
       invariantKind: "departure",
-      statement: "The load a set moves counts the share of the bodyweight the exercise carries.",
+      statement: "The load a set moves counts the share of the bodyweight the exercise has.",
     },
     {
       invariantKind: "departure",

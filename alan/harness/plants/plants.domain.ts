@@ -14,7 +14,7 @@ export const plants = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The grams are read from the food entries the workstation's checkout carries.",
+      statement: "The grams are read from the food entries the workstation's checkout has.",
     },
 
     {

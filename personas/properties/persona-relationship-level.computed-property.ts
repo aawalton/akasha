@@ -38,7 +38,7 @@ export const personaRelationshipLevel = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona carrying no total at all is level 0.",
+      statement: "A persona with no total at all is level 0.",
     },
     {
       invariantKind: "absence",

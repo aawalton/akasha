@@ -20,7 +20,7 @@ export const stoplightRing = {
     },
     {
       invariantKind: "departure",
-      statement: "The stroke carries the current tier's color and the arc the next one's.",
+      statement: "The stroke has the current tier's color and the arc the next one's.",
     },
     {
       invariantKind: "departure",

@@ -28,7 +28,7 @@ export const effectiveFiveHourUsage = {
     },
     {
       invariantKind: "departure",
-      statement: "An account carrying no percent is worked out as no reading rather than as zero.",
+      statement: "An account with no percent is worked out as no reading rather than as zero.",
     },
     {
       invariantKind: "departure",

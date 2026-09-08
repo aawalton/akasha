@@ -54,7 +54,7 @@ export const attributeLevel = {
     },
     {
       invariantKind: "departure",
-      statement: "An attribute carrying no total at all is level 0.",
+      statement: "An attribute with no total at all is level 0.",
     },
     {
       invariantKind: "absence",

@@ -80,7 +80,7 @@ export const requiredReading = {
     },
     {
       invariantKind: "constraint",
-      statement: "The tool definitions carry context nobody here controls.",
+      statement: "The tool definitions have context nobody here controls.",
     },
   ],
   directives: [

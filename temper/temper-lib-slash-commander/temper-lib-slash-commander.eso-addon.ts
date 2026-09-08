@@ -25,7 +25,7 @@ export const temperLibSlashCommander = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command carries as many aliases as a caller adds.",
+      statement: "A command has as many aliases as a caller adds.",
     },
     {
       invariantKind: "departure",

@@ -58,7 +58,7 @@ export const temperLibExtendedJournal = {
     },
     {
       invariantKind: "departure",
-      statement: "This library carries its own copy of the codes library.",
+      statement: "This library has its own copy of the codes library.",
     },
     {
       invariantKind: "constraint",

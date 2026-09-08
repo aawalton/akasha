@@ -189,7 +189,7 @@ export const seatTurn = {
     },
     {
       invariantKind: "departure",
-      statement: "Every turn state carries the color the turn state is drawn in.",
+      statement: "Every turn state has the color the turn state is drawn in.",
     },
     { invariantKind: "gap", statement: "A seat states its turn state." },
     {

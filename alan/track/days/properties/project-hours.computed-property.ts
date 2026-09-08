@@ -21,7 +21,7 @@ export const projectHours = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying no stretches is no reading rather than a spend of nothing.",
+      statement: "A day with no stretches is no reading rather than a spend of nothing.",
     },
   ],
 } as const satisfies ComputedProperty

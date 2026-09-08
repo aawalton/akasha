@@ -11,7 +11,7 @@ export const javascript = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "JavaScript a runtime loads as a module carries the `mjs` extension.",
+      statement: "JavaScript a runtime loads as a module has the `mjs` extension.",
     },
   ],
 } as const satisfies FileProperty

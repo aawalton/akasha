@@ -99,7 +99,7 @@ export const codeEditor = {
     },
     {
       invariantKind: "departure",
-      statement: "A turn state is shown within 100ms of the file carrying the state being written.",
+      statement: "A turn state is shown within 100ms of the file with the state being written.",
     },
     {
       invariantKind: "departure",

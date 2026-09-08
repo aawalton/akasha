@@ -18,7 +18,7 @@ export const attributes = {
     },
     {
       invariantKind: "departure",
-      statement: "Every attribute the tracking day carries as a key is read in one ask.",
+      statement: "Every attribute the tracking day has as a key is read in one ask.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +53,7 @@ export const attributes = {
     {
       invariantKind: "departure",
       statement:
-        "A relay carrying many readings is given longer to run than a relay carrying a single reading.",
+        "A relay with many readings is given longer to run than a relay carrying a single reading.",
     },
     {
       invariantKind: "departure",

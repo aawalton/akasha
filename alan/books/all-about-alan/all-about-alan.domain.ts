@@ -46,7 +46,7 @@ export const allAboutAlan = {
       name: "Voice",
       act: "Write every note in Alan's first person.",
       warrant:
-        "A third-person note carries the same facts, so nothing but the voice shows it is not his.",
+        "A third-person note has the same facts, so nothing but the voice shows it is not his.",
       aids: [
         "Convert every sentence, not just what he said.",
         "Your own marked reading stays in your voice.",

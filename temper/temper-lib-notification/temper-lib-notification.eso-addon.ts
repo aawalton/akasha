@@ -37,7 +37,7 @@ export const temperLibNotification = {
     },
     {
       invariantKind: "constraint",
-      statement: "The game's own row setup is replaced so a row may carry its own icon.",
+      statement: "The game's own row setup is replaced so a row may have its own icon.",
     },
     {
       invariantKind: "departure",

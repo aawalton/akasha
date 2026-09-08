@@ -55,7 +55,7 @@ export const temperLibMediaProvider = {
     },
     {
       invariantKind: "departure",
-      statement: "Every media kind carries a default the library falls back to.",
+      statement: "Every media kind has a default the library falls back to.",
     },
     {
       invariantKind: "departure",

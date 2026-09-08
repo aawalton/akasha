@@ -8,7 +8,7 @@ export const testFixture = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A fixture carries the page that fixture needs rather than restating its values.",
+      statement: "A fixture has the page that fixture needs rather than restating its values.",
     },
     {
       invariantKind: "departure",

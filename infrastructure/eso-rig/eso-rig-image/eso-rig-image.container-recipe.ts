@@ -9,7 +9,7 @@ export const esoRigImage = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "The base is a plain distro rather than an image carrying NVIDIA libraries.",
+      statement: "The base is a plain distro rather than an image with NVIDIA libraries.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +17,7 @@ export const esoRigImage = {
     },
     {
       invariantKind: "absence",
-      statement: "No package from the base pocket carries a version of its own.",
+      statement: "No package from the base pocket has a version of its own.",
     },
     {
       invariantKind: "departure",

@@ -25,7 +25,7 @@ export const type = {
     },
     {
       invariantKind: "gap",
-      statement: "A limit no type can carry is enforced by a check.",
+      statement: "A limit no type can have is enforced by a check.",
     },
   ],
 } as const satisfies Domain

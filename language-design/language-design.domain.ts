@@ -15,11 +15,11 @@ export const languageDesign = {
     {
       invariantKind: "constraint",
       statement:
-        "A program that reads and checks and runs can still carry a meaning its writer did not intend.",
+        "A program that reads and checks and runs can still have a meaning its writer did not intend.",
     },
     {
       invariantKind: "absence",
-      statement: "No failure catches a program carrying a meaning its writer did not intend.",
+      statement: "No failure catches a program with a meaning its writer did not intend.",
     },
   ],
   directives: [

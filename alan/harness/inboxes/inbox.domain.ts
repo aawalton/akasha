@@ -25,7 +25,7 @@ export const inbox = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A count is read from the pages the workstation's checkout carries.",
+      statement: "A count is read from the pages the workstation's checkout has.",
     },
     {
       invariantKind: "departure",

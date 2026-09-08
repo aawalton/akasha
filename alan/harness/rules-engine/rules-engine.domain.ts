@@ -99,12 +99,11 @@ export const rulesEngine = {
     },
     {
       invariantKind: "departure",
-      statement: "A condition holds where the property carries a value the condition names.",
+      statement: "A condition holds where the property has a value the condition names.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A negated condition holds where the property carries no value that condition names.",
+      statement: "A negated condition holds where the property has no value that condition names.",
     },
     {
       invariantKind: "departure",
