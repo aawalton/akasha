@@ -6,7 +6,6 @@ export const standardAgentEnglishTerm = {
   slug: "standard-agent-english-term",
   definition: "one word or phrase, and whether akasha writes it\n",
   partSlugs: [
-    "page-type/standard-agent-english-term-kind",
     "page-type/common-language-term",
     "page-type/foreign-name-term",
     "page-type/term",
