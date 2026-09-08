@@ -1,4 +1,4 @@
-import * as path from "path"
+import * as path from "node:path"
 import { type Mapping, SourceMapGenerator, type SourceNode } from "source-map"
 import type * as ts from "typescript"
 import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
@@ -12,15 +12,13 @@ import {
   concatNodes,
   createLuaPrinterState,
   type LuaPrinterPrinters,
-  type LuaPrinterState,
   printStatementArray,
 } from "../tstl-lua-printer-core/tstl-lua-printer-core.module.code.ts"
 import * as expr from "../tstl-lua-printer-expressions/tstl-lua-printer-expressions.module.code.ts"
-import {
-  escapeString,
-  type Printer,
-  type PrintResult,
-  type SourceChunk,
+import type {
+  Printer,
+  PrintResult,
+  SourceChunk,
 } from "../tstl-lua-printer-helpers/tstl-lua-printer-helpers.module.code.ts"
 import * as stmt from "../tstl-lua-printer-statements/tstl-lua-printer-statements.module.code.ts"
 import { lualibPrinterHolder } from "../tstl-lualib-builder-deps/tstl-lualib-builder-deps.module.code.ts"
