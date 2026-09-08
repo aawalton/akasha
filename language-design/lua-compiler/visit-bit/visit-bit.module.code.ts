@@ -59,6 +59,8 @@ function transformBitOperatorToLuaOperator(
       return luaCore.SyntaxKind.BitwiseRightShiftOperator
     case ts.SyntaxKind.GreaterThanGreaterThanGreaterThanToken:
       return luaCore.SyntaxKind.BitwiseRightShiftOperator
+    default:
+      assertNever(operator)
   }
 }
 
