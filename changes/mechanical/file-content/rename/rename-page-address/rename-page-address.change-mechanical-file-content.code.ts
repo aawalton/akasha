@@ -2,10 +2,14 @@ import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 import {
   refusing,
+  splicing,
   stating,
-  written,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Said, Stated } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type {
+  Said,
+  Splice,
+  Stated,
+} from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const TYPED = /\.tsx?$/
@@ -19,31 +23,23 @@ export type RenamePageAddressAsked = {
   readonly now: string
 }
 
-export type Spot = {
-  readonly start: number
-  readonly end: number
-}
-
-export function spellingsIn(path: string, text: string, was: string): readonly Spot[] {
+export function spellingsIn(
+  path: string,
+  text: string,
+  was: string,
+  now: string
+): readonly Splice[] {
   const source = parsedAs(path, text)
-  const found: Spot[] = []
+  const put = JSON.stringify(now)
+  const found: Splice[] = []
   const walk = (node: ts.Node): undefined => {
     if (ts.isStringLiteral(node) && node.text === was) {
-      found.push({ start: node.getStart(source), end: node.getEnd() })
+      found.push({ from: node.getStart(source), to: node.getEnd(), put })
     }
     ts.forEachChild(node, walk)
   }
   ts.forEachChild(source, walk)
   return found
-}
-
-export function respelled(text: string, spots: readonly Spot[], now: string): string {
-  const put = JSON.stringify(now)
-  let body = text
-  for (const one of [...spots].sort((here, there) => there.start - here.start)) {
-    body = body.slice(0, one.start) + put + body.slice(one.end)
-  }
-  return body
 }
 
 export function pathsIn(world: World): readonly string[] {
@@ -78,9 +74,9 @@ export function renamePageAddress(world: World, given: RenamePageAddressAsked): 
     if (!TYPED.test(path)) continue
     const text = world.textOf(path)
     if (text === null || !text.includes(given.was)) continue
-    const spots = spellingsIn(path, text, given.was)
+    const spots = spellingsIn(path, text, given.was, given.now)
     if (spots.length === 0) continue
-    edits.push(...written(path, text, respelled(text, spots, given.now)))
+    edits.push(...splicing(path, text, spots))
   }
   return stating(edits)
 }
