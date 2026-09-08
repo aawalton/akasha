@@ -202,6 +202,11 @@ export function servingFrom(at: CommandServerAt): Serving {
       })
 
       let held = ""
+      protocol.on("close", () => noise(`protocol closed pid=${String(child.pid)}`))
+      protocol.on("end", () => noise(`protocol ended pid=${String(child.pid)}`))
+      protocol.on("error", (err) =>
+        noise(`protocol errored pid=${String(child.pid)} ${String(err)}`)
+      )
       protocol.setEncoding("utf8")
       protocol.on("data", (chunk: string) => {
         held += chunk
