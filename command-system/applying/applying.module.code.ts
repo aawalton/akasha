@@ -7,9 +7,7 @@ import {
   BREAK_GLASS,
   bypassedIn,
   glassSaid,
-  MECHANICAL,
   mistaking,
-  noCheckSaid,
   preparing,
   unloadableIn,
 } from "../asking/asking.module.code.ts"
@@ -220,13 +218,12 @@ export async function applied(
   }
   const running = holding.running
   const gate = running.checks ? judging : NO_GATE
-  const said0 = running.checks ? message : bypassedIn(message, noCheckSaid(MECHANICAL.slug))
   const prepared = preparing(root, head, editsOf(said.held))
   const formatting = prepared.formatting
   if (running.writerOwesReading && agentId !== null)
     warrantedAgain(root, agentId, said.held, said.moved)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
-  const done = await landing(root, prepared.changes, said0, gate, writer, head, asRead, carries)
+  const done = await landing(root, prepared.changes, message, gate, writer, head, asRead, carries)
   if ("refusals" in done) return done
   carryLanded(root, head, running, prepared.changes, [])
   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)

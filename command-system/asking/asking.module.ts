@@ -206,7 +206,11 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "The kind that ran no check is named in the commit as the reason no check ran.",
+      statement: "A commit says why no check ran only where the glass was broken.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A change kind running no check writes nothing into the commit.",
     },
     {
       invariantKind: "departure",

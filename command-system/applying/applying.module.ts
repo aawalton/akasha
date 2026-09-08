@@ -180,7 +180,7 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "Why no check ran is said in the commit the apply makes.",
+      statement: "Why no check ran is said in the commit only where the glass was broken.",
     },
     {
       invariantKind: "departure",

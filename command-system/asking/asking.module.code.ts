@@ -224,6 +224,7 @@ function gateFor(asked: Asked, held: Judging): Judging {
 type Bypass = {
   readonly reason: string
   readonly said: string
+  readonly recorded: boolean
 }
 
 export function glassSaid(reason: string): string {
@@ -239,11 +240,12 @@ export function noCheckSaid(slug: string): string {
 }
 
 function bypassIn(given: Given, asked: Asked): Bypass | null {
-  if (asked.glass !== null) return { reason: asked.glass, said: glassSaid(asked.glass) }
+  if (asked.glass !== null)
+    return { reason: asked.glass, said: glassSaid(asked.glass), recorded: true }
   const kind = given.changeKind
   if (kind === undefined || kind.runsChecks) return null
   const said = noCheckSaid(kind.slug)
-  return { reason: said, said }
+  return { reason: said, said, recorded: false }
 }
 
 export function unloadableIn(message: string, broken: string): string {
@@ -251,8 +253,8 @@ export function unloadableIn(message: string, broken: string): string {
 }
 
 function messageWith(asked: Asked, bypass: Bypass | null, broken: string | null): string {
-  if (bypass === null) return asked.message
-  const held = bypassedIn(asked.message, bypass.reason)
+  const held =
+    bypass === null || !bypass.recorded ? asked.message : bypassedIn(asked.message, bypass.reason)
   return broken === null ? held : unloadableIn(held, broken)
 }
 

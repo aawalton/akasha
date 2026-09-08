@@ -171,11 +171,11 @@ test("a page that is no seat names no seat", () => {
   }
 })
 
-test("a page is landed by a program, its commit saying no check ran", async () => {
+test("a page is landed by a program, its commit saying nothing of the checks", async () => {
   await underSeat(async (root) => {
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
     expect(landedAt(root, OWN)).toContain('dispatchedAs: "Explore"')
-    expect(messageIn(root)).toContain(MECHANICAL)
+    expect(messageIn(root)).not.toContain(MECHANICAL)
   })
 })
 
@@ -205,12 +205,12 @@ test("a seat stating no assignment writes nothing and says which seat and why", 
   })
 })
 
-test("a page taken away goes, and the commit says a program took it", async () => {
+test("a page taken away goes, and the commit says nothing of the checks", async () => {
   await underSeat(async (root) => {
     await wrote(root, "akasha", SEAT_ID, OWN, "Explore")
     expect(await took(root, "akasha", OWN)).toEqual(WENT)
     expect(existsSync(join(root, pathOf(slugOf("akasha", OWN))))).toBe(false)
-    expect(messageIn(root)).toContain(MECHANICAL)
+    expect(messageIn(root)).not.toContain(MECHANICAL)
   })
 })
 
