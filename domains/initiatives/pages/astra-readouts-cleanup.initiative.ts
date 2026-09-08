@@ -10,7 +10,7 @@ export const astraReadoutsCleanup = {
     {
       statement: "All readouts-specific files are organized in the readouts/ folder.",
       workingMemory:
-        "The package is `readout-system` and its folder is `readout-system/`, holding 184 tracked files. Nineteen of the twenty `readout` pages sit there, and the twentieth sits at `temper/temper-progress/readouts/inboxes-temper-tasks/`, where whether it belongs is unsettled. `alan/harness/readouts/` holds the `alan-readouts` domain, which is the readings that reach Alan rather than the system.",
+        "`move-folder-package` composes the whole carry from `readout-system/` to `readouts/` as 430 changes, and that landing refuses on faults already in the package rather than on the carry: `no-rule-in-two-files` refuses seven duplications across five readout code files, one of them shared with `agents/claude-accounts`; no page type declares `figure-max-length` or `day-kind`; and four tests fail, two of them naming `readout-system` paths as strings. Each is cleared on its own before the carry lands.",
     },
     {
       statement: "The readouts/ folder passes the `folder-matches-a-shape` check.",
