@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { refusing, stating } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
 import { NOTHING_OVER, type World } from "../../modules/change-shadow/change-shadow.module.code.ts"
-import { codeAt, partsOf, ranBy, sittingAt } from "./change-loading.module.code.ts"
+import { codeAt, partsOf, ranBy, sittingAt, targetRefusal } from "./change-loading.module.code.ts"
 
 const AT = "akasha/one.held.ts"
 
@@ -102,6 +102,91 @@ test("a change that refuses runs no guard", async () => {
 
   expect(said.refused).toBe("no")
   expect(ran).toBe(0)
+})
+
+const SUBTYPES: Readonly<Record<string, string>> = {
+  "file-code": "change-target-subtype/file",
+  "file-page": "change-target-subtype/file-code",
+  "file-page-type": "change-target-subtype/file-page",
+}
+
+const PAGE_TYPES = new Set(["held", "page-type"])
+
+const UNDER = new Set(["text-property"])
+
+const SUBTYPE = "change-target-subtype"
+
+const PAGE_TYPE_AT = "akasha/kept.page-type.ts"
+
+const PLAIN = "akasha/one/notes.md"
+
+const ADDRESS = "change-mechanical/held-one"
+
+function judging(acts: string | null): World {
+  return {
+    ...worldOf(),
+    index: Object.assign({} as World["index"], {
+      pageAt: (pageType: string, slug: string) => {
+        if (pageType === SUBTYPE) {
+          const held = SUBTYPES[slug]
+          return held === undefined ? null : { parentSlug: held }
+        }
+        return acts === null ? {} : { changeTargetSubtypeSlug: acts }
+      },
+      pageTypesIn: () => PAGE_TYPES,
+      kindsUnder: () => UNDER,
+    }),
+  }
+}
+
+test("a path whose kind is the subtype the change acts on is run", () => {
+  const world = judging("change-target-subtype/file-page")
+
+  expect(targetRefusal(world, ADDRESS, { at: AT })).toBeNull()
+})
+
+test("a path whose kind narrows the subtype the change acts on is run", () => {
+  const world = judging("change-target-subtype/file-code")
+
+  expect(targetRefusal(world, ADDRESS, { at: AT })).toBeNull()
+})
+
+test("a path whose kind does not narrow that subtype is refused before the change runs", () => {
+  const world = judging("change-target-subtype/file-page-type")
+
+  expect(targetRefusal(world, ADDRESS, { at: AT })).toBe(
+    `\`${AT}\` is a \`file-page\`, and \`${ADDRESS}\` acts on a \`file-page-type\``
+  )
+})
+
+test("a path the change acts on is judged whatever the change would have done with it", () => {
+  const world = judging("change-target-subtype/file-page")
+
+  expect(targetRefusal(world, ADDRESS, { at: PAGE_TYPE_AT })).toBeNull()
+})
+
+test("the path a carry comes from is the path judged", () => {
+  const world = judging("change-target-subtype/file-page")
+
+  expect(targetRefusal(world, ADDRESS, { from: PLAIN, to: AT })).toBe(
+    `\`${PLAIN}\` is a \`file\`, and \`${ADDRESS}\` acts on a \`file-page\``
+  )
+})
+
+test("a change acting on no subtype has no path judged", () => {
+  expect(targetRefusal(judging(null), ADDRESS, { at: PLAIN })).toBeNull()
+})
+
+test("a change acting on no file subtype has no path judged", () => {
+  const world = judging("change-target-subtype/folder")
+
+  expect(targetRefusal(world, ADDRESS, { at: PLAIN })).toBeNull()
+})
+
+test("a call handing in no path has no path judged", () => {
+  const world = judging("change-target-subtype/file-page-type")
+
+  expect(targetRefusal(world, ADDRESS, {})).toBeNull()
 })
 
 test("the arguments reach the change as the caller handed the arguments in", async () => {
