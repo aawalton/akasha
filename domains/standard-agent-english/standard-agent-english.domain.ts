@@ -12,5 +12,6 @@ export const standardAgentEnglish = {
     "module/term-census",
     "module/prose-pattern",
     "module/prose-reach",
+    "page-type/prose-frame",
   ],
 } as const satisfies Domain
