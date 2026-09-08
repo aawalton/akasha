@@ -178,7 +178,7 @@ test("one slug under two page types is two properties, each binding on its own",
 
 test("a declaration restating an inherited property qualified binds once, the nearest one", () => {
   const root = rootAt()
-  propertied(root, "text-property", "definition", "definition")
+  propertied(root, "standard-agent-english-property", "definition", "definition")
   typed(root, "domain", null, [{ pagePropertySlug: "definition", required: false, many: false }])
   typed(
     root,
@@ -260,7 +260,7 @@ test("every declaration is answered, the shadowed one standing beside the one th
 
 test("a shadowed declaration keeps the required it states, not the one that binds", () => {
   const root = rootAt()
-  propertied(root, "text-property", "definition", "definition")
+  propertied(root, "standard-agent-english-property", "definition", "definition")
   typed(root, "domain", null, [{ pagePropertySlug: "definition", required: false, many: false }])
   typed(
     root,
@@ -291,7 +291,7 @@ test("a declaration reaching no page property is left out of the declarations as
 
 test("what binds is the first of the declarations, and the rest are answered here alone", () => {
   const root = rootAt()
-  propertied(root, "text-property", "definition", "definition")
+  propertied(root, "standard-agent-english-property", "definition", "definition")
   propertied(root, "text-property", "plural-slug", "plural-slug")
   typed(root, "page", null, [{ pagePropertySlug: "definition", required: false, many: false }])
   typed(
