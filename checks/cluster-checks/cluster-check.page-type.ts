@@ -125,6 +125,7 @@ export const clusterCheck = {
     "module/alanwalton-ios-seam",
     "module/app-capacitor-parity-divergences",
     "module/app-capacitor-parity",
+    "module/app-intent-brand-word-violations",
   ],
   properties: [
     {
