@@ -5,7 +5,7 @@ export const salvos0036247Accretion = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0036-247-accretion",
   title: "247. Accretion",
-  partOfSlugs: ["story-read/salvos"],
+  partOfCollectionSlugs: ["story-read/salvos"],
   position: 36,
   ownLength: 1992,
   unitSlug: "words",

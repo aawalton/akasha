@@ -5,7 +5,7 @@ export const salvos0064434FallingSky = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0064-434-falling-sky",
   title: "434. Falling Sky",
-  partOfSlugs: ["story-read/salvos"],
+  partOfCollectionSlugs: ["story-read/salvos"],
   position: 64,
   ownLength: 3395,
   unitSlug: "words",

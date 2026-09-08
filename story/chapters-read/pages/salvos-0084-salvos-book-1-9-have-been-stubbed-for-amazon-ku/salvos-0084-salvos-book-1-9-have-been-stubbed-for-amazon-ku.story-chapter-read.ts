@@ -5,7 +5,7 @@ export const salvos0084SalvosBook19HaveBeenStubbedForAmazonKu = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0084-salvos-book-1-9-have-been-stubbed-for-amazon-ku",
   title: "Salvos Book 1-9 have been stubbed for Amazon KU!",
-  partOfSlugs: ["story-read/salvos"],
+  partOfCollectionSlugs: ["story-read/salvos"],
   position: 84,
   ownLength: 414,
   unitSlug: "words",

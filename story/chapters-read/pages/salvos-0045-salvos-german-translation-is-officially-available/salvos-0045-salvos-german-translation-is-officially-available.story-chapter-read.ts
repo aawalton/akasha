@@ -5,7 +5,7 @@ export const salvos0045SalvosGermanTranslationIsOfficiallyAvailable = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0045-salvos-german-translation-is-officially-available",
   title: "Salvos GERMAN Translation is OFFICIALLY Available!",
-  partOfSlugs: ["story-read/salvos"],
+  partOfCollectionSlugs: ["story-read/salvos"],
   position: 45,
   ownLength: 97,
   unitSlug: "words",

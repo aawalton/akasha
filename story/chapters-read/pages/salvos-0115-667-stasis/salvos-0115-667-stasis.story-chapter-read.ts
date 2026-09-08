@@ -5,7 +5,7 @@ export const salvos0115667Stasis = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0115-667-stasis",
   title: "667. Stasis",
-  partOfSlugs: ["story-read/salvos"],
+  partOfCollectionSlugs: ["story-read/salvos"],
   position: 115,
   ownLength: 2046,
   unitSlug: "words",
