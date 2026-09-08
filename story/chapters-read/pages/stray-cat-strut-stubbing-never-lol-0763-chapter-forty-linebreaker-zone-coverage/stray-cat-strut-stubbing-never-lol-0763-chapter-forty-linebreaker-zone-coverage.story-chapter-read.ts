@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0763ChapterFortyLinebreakerZoneCoverag
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0763-chapter-forty-linebreaker-zone-coverage",
   title: "Chapter Forty - Linebreaker Zone Coverage",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 763,
   ownLength: 1546,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const succulentGirlEvolution0006Chapter6Burdens = {
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0006-chapter-6-burdens",
   title: "Chapter 6: Burdens",
-  partOfSlugs: ["succulent-girl-evolution"],
+  partOfCollectionSlugs: ["succulent-girl-evolution"],
   position: 6,
   ownLength: 2045,
   unitSlug: "words",

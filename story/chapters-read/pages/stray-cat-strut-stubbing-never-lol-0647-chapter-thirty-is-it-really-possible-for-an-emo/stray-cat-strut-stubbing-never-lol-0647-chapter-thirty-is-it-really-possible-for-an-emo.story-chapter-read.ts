@@ -6,7 +6,7 @@ export const strayCatStrutStubbingNeverLol0647ChapterThirtyIsItReallyPossibleFor
   slug: "stray-cat-strut-stubbing-never-lol-0647-chapter-thirty-is-it-really-possible-for-an-emo",
   title:
     "Chapter Thirty - Is It Really Possible for an Emo Girl and a Country Boy to Build a Doomsday Weapon?",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 647,
   ownLength: 1538,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0640ChapterTwentyThreeHikikomoriWithAS
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0640-chapter-twenty-three-hikikomori-with-a-shotgun",
   title: "Chapter Twenty-Three - Hikikomori with a Shotgun",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 640,
   ownLength: 1548,
   unitSlug: "words",

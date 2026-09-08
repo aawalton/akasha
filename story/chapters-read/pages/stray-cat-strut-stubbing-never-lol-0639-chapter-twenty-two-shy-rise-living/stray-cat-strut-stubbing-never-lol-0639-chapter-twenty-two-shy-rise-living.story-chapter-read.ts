@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0639ChapterTwentyTwoShyRiseLiving = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0639-chapter-twenty-two-shy-rise-living",
   title: "Chapter Twenty-Two - Shy-Rise Living",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 639,
   ownLength: 1539,
   unitSlug: "words",

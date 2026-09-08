@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0597WeHaveMerch = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0597-we-have-merch",
   title: "WE HAVE MERCH!",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 597,
   ownLength: 213,
   unitSlug: "words",

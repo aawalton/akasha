@@ -5,7 +5,7 @@ export const superSupportive0046FortySixLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0046-forty-six-life",
   title: "FORTY-SIX: Life",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 46,
   ownLength: 2715,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const superSupportive0026TwentySixFirstAssignment = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0026-twenty-six-first-assignment",
   title: "TWENTY-SIX: First Assignment",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 26,
   ownLength: 9675,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const superSupportive0008EightTigerShorts = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0008-eight-tiger-shorts",
   title: "EIGHT: Tiger Shorts",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 8,
   ownLength: 1847,
   unitSlug: "words",

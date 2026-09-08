@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0676StrayCatStrutSixIsOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0676-stray-cat-strut-six-is-out",
   title: "STRAY CAT STRUT SIX IS OUT!",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 676,
   ownLength: 267,
   unitSlug: "words",

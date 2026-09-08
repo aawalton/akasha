@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0654HopepunkUpdate = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0654-hopepunk-update",
   title: "Hope//Punk Update!",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 654,
   ownLength: 152,
   unitSlug: "words",

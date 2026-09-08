@@ -5,7 +5,7 @@ export const superSupportive0071SeventyRareCompany = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0071-seventy-rare-company",
   title: "SEVENTY: Rare Company",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 71,
   ownLength: 3493,
   unitSlug: "words",

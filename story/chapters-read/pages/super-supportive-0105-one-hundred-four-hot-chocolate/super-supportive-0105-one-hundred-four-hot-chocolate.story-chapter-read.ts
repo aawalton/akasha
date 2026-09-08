@@ -5,7 +5,7 @@ export const superSupportive0105OneHundredFourHotChocolate = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0105-one-hundred-four-hot-chocolate",
   title: "ONE HUNDRED FOUR: Hot Chocolate",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 105,
   ownLength: 7182,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0681ChapterFiftySevenBroadcastNecroman
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0681-chapter-fifty-seven-broadcast-necromancy",
   title: "Chapter Fifty-Seven - Broadcast Necromancy",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 681,
   ownLength: 1459,
   unitSlug: "words",

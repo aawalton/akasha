@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0606ChapterEightyFourModernGoddesses =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0606-chapter-eighty-four-modern-goddesses",
   title: "Chapter Eighty-Four - Modern Goddesses",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 606,
   ownLength: 1580,
   unitSlug: "words",

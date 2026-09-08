@@ -5,7 +5,7 @@ export const superSupportive0057FiftySevenAScaleTips = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0057-fifty-seven-a-scale-tips",
   title: "FIFTY-SEVEN: A Scale Tips",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 57,
   ownLength: 3776,
   unitSlug: "words",

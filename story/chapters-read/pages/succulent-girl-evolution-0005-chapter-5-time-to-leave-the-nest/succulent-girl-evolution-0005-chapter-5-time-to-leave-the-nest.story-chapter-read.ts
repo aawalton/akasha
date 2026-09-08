@@ -5,7 +5,7 @@ export const succulentGirlEvolution0005Chapter5TimeToLeaveTheNest = {
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0005-chapter-5-time-to-leave-the-nest",
   title: "Chapter 5: Time to Leave the Nest",
-  partOfSlugs: ["succulent-girl-evolution"],
+  partOfCollectionSlugs: ["succulent-girl-evolution"],
   position: 5,
   ownLength: 2258,
   unitSlug: "words",

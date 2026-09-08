@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0734ChapterThirteenInterlopingIsMyPass
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0734-chapter-thirteen-interloping-is-my-passion",
   title: "Chapter Thirteen - Interloping is My Passion",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 734,
   ownLength: 1521,
   unitSlug: "words",

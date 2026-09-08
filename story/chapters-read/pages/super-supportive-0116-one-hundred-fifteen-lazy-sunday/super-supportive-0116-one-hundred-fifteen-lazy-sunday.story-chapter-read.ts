@@ -5,7 +5,7 @@ export const superSupportive0116OneHundredFifteenLazySunday = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0116-one-hundred-fifteen-lazy-sunday",
   title: "ONE HUNDRED FIFTEEN: Lazy Sunday",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 116,
   ownLength: 5131,
   unitSlug: "words",

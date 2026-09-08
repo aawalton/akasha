@@ -5,7 +5,7 @@ export const superSupportive0020TwentyAnOrdinaryMailbox = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0020-twenty-an-ordinary-mailbox",
   title: "TWENTY: An Ordinary Mailbox",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 20,
   ownLength: 1520,
   unitSlug: "words",

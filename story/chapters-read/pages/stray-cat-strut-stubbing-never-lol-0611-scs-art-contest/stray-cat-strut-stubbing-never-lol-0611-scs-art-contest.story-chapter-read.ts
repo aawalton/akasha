@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0611ScsArtContest = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0611-scs-art-contest",
   title: "SCS Art Contest!",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 611,
   ownLength: 206,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const superSupportive0083EightyTwoGuess = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0083-eighty-two-guess",
   title: "EIGHTY-TWO: Guess",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 83,
   ownLength: 5764,
   unitSlug: "words",

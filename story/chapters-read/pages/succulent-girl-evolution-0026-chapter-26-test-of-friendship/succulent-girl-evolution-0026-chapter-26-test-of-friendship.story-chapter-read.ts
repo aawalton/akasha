@@ -5,7 +5,7 @@ export const succulentGirlEvolution0026Chapter26TestOfFriendship = {
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0026-chapter-26-test-of-friendship",
   title: "Chapter 26: Test of Friendship",
-  partOfSlugs: ["succulent-girl-evolution"],
+  partOfCollectionSlugs: ["succulent-girl-evolution"],
   position: 26,
   ownLength: 2182,
   unitSlug: "words",

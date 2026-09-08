@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0595ChapterSeventyFourIHaveTheShyGroun
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0595-chapter-seventy-four-i-have-the-shy-ground",
   title: "Chapter Seventy-Four - I Have The Shy Ground",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 595,
   ownLength: 1479,
   unitSlug: "words",

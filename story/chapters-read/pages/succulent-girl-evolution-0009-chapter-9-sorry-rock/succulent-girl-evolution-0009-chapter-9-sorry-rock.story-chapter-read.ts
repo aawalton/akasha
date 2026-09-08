@@ -5,7 +5,7 @@ export const succulentGirlEvolution0009Chapter9SorryRock = {
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0009-chapter-9-sorry-rock",
   title: "Chapter 9: Sorry, Rock",
-  partOfSlugs: ["succulent-girl-evolution"],
+  partOfCollectionSlugs: ["succulent-girl-evolution"],
   position: 9,
   ownLength: 1962,
   unitSlug: "words",
