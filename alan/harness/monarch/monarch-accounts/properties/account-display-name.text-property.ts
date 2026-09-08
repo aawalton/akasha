@@ -13,7 +13,7 @@ export const accountDisplayName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A display name carries the last four digits the bank shows.",
+      statement: "A display name has the last four digits the bank shows.",
     },
     {
       invariantKind: "departure",

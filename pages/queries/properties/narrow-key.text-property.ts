@@ -17,7 +17,7 @@ export const narrowKey = {
     },
     {
       invariantKind: "departure",
-      statement: "A key is spelled as the page carrying the key spells the key.",
+      statement: "A key is spelled as the page with the key spells the key.",
     },
   ],
 } as const satisfies TextProperty

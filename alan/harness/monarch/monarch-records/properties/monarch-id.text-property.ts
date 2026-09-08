@@ -17,7 +17,7 @@ export const monarchId = {
     },
     {
       invariantKind: "departure",
-      statement: "A record Alan wrote that Monarch never held carries no Monarch identity.",
+      statement: "A record Alan wrote that Monarch never held has no Monarch identity.",
     },
     {
       invariantKind: "departure",

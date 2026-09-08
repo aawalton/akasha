@@ -17,7 +17,7 @@ export const said = {
     },
     {
       invariantKind: "departure",
-      statement: "A value a flag carries is named in angle brackets after the flag.",
+      statement: "A value a flag has is named in angle brackets after the flag.",
     },
   ],
 } as const satisfies TextProperty

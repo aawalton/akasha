@@ -13,7 +13,7 @@ export const alertSummary = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A summary carries the labels of the rule raising the alert.",
+      statement: "A summary has the labels of the rule raising the alert.",
     },
     {
       invariantKind: "departure",

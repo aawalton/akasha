@@ -13,7 +13,7 @@ export const sequenceGroupBy = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key named here that the page type carries no property for gathers nothing.",
+      statement: "A key named here that the page type has no property for gathers nothing.",
     },
   ],
 } as const satisfies TextProperty

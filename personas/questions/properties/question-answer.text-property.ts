@@ -21,7 +21,7 @@ export const questionAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A question closed with nothing said carries no answer.",
+      statement: "A question closed with nothing said has no answer.",
     },
   ],
 } as const satisfies TextProperty

@@ -15,11 +15,11 @@ export const keys = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A query naming no keys answers each page with every key that page carries.",
+      statement: "A query naming no keys answers each page with every key that page has.",
     },
     {
       invariantKind: "departure",
-      statement: "A key is spelled as the page carrying the key spells the key.",
+      statement: "A key is spelled as the page with the key spells the key.",
     },
   ],
 } as const satisfies TextProperty

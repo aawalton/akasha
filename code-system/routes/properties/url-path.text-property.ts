@@ -17,7 +17,7 @@ export const urlPath = {
     },
     {
       invariantKind: "departure",
-      statement: "A path carries no leading slash.",
+      statement: "A path has no leading slash.",
     },
     {
       invariantKind: "departure",

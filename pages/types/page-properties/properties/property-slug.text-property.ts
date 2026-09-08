@@ -7,7 +7,7 @@ export const propertySlug = {
   pageTypeSlug: "text-property",
   slug: "property-slug",
   propertySlug: "property-slug",
-  definition: "the key a page carries this property's value under",
+  definition: "the key a page has this property's value under",
   maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
@@ -18,7 +18,7 @@ export const propertySlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A key stands alone among the fields one record property carries.",
+      statement: "A key stands alone among the fields one record property has.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const propertySlug = {
     },
     {
       invariantKind: "departure",
-      statement: "The key a page carries is this slug written in camel.",
+      statement: "The key a page has is this slug written in camel.",
     },
     {
       invariantKind: "departure",

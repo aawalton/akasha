@@ -17,7 +17,7 @@ export const questionAsk = {
     },
     {
       invariantKind: "departure",
-      statement: "An ask carries the facts Alan needs to answer without opening anything else.",
+      statement: "An ask has the facts Alan needs to answer without opening anything else.",
     },
   ],
 } as const satisfies TextProperty

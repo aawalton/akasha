@@ -13,7 +13,7 @@ export const sequenceOrderBy = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key named here that the page type carries no property for sorts nothing.",
+      statement: "A key named here that the page type has no property for sorts nothing.",
     },
   ],
 } as const satisfies TextProperty

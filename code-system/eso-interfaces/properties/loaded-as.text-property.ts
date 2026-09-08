@@ -21,7 +21,7 @@ export const loadedAs = {
     },
     {
       invariantKind: "departure",
-      statement: "A name carries the folders the game reads the file under.",
+      statement: "A name has the folders the game reads the file under.",
     },
     {
       invariantKind: "departure",

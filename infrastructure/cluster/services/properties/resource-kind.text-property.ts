@@ -13,7 +13,7 @@ export const resourceKind = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The kind named here carries a pod template.",
+      statement: "The kind named here has a pod template.",
     },
   ],
 } as const satisfies TextProperty

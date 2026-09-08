@@ -13,7 +13,7 @@ export const mediaSourcePropertyId = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key named here that the page type carries no property for renders nothing.",
+      statement: "A key named here that the page type has no property for renders nothing.",
     },
   ],
 } as const satisfies TextProperty

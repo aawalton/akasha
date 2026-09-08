@@ -17,7 +17,7 @@ export const defaultValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A page carries no value the page does not state.",
+      statement: "A page has no value the page does not state.",
     },
     {
       invariantKind: "departure",

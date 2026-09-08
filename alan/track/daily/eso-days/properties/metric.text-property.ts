@@ -7,7 +7,7 @@ export const metric = {
   pageTypeSlug: "text-property",
   slug: "metric",
   propertySlug: "metric",
-  definition: "the kind of measurement a reading carries",
+  definition: "the kind of measurement a reading has",
   maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

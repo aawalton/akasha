@@ -26,7 +26,7 @@ export const helpNotes = {
     },
     {
       invariantKind: "absence",
-      statement: "A line carries no example.",
+      statement: "A line has no example.",
     },
     {
       invariantKind: "absence",

@@ -13,7 +13,7 @@ export const progressPropertyId = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key named here that the page type carries no property for records nothing.",
+      statement: "A key named here that the page type has no property for records nothing.",
     },
   ],
 } as const satisfies TextProperty
