@@ -127,11 +127,11 @@ function underIn(
   world: World,
   from: string,
   to: string,
-  carried: ReadonlySet<string>
+  moved: ReadonlySet<string>
 ): readonly Move[] {
   const found: Move[] = []
   for (const path of world.under(from)) {
-    if (carried.has(path)) continue
+    if (moved.has(path)) continue
     found.push({ from: path, to: join(to, relative(from, path)) })
   }
   return found.sort((one, two) => (one.from < two.from ? -1 : one.from > two.from ? 1 : 0))
@@ -302,7 +302,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     lands = landingIn(world, held, given, beside)
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
-    return refusing(`${why}, so no file was carried`)
+    return refusing(`${why}, so no file was moved`)
   }
   const answers: Answer[] = []
   let folded = stating([])
@@ -312,13 +312,13 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     if (given.plural !== undefined) return refusing(`${carries}, so no plural is restated`)
     if (lands === given.at) return refusing(`${carries}, in the folder that slug names`)
   }
-  const carries: Move[] = [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]
+  const moves: Move[] = [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]
   const wasFolder = dirname(given.at)
   const nowFolder = dirname(lands)
   if (nowFolder !== wasFolder) {
-    carries.push(...underIn(world, wasFolder, nowFolder, new Set(carries.map((one) => one.from))))
+    moves.push(...underIn(world, wasFolder, nowFolder, new Set(moves.map((one) => one.from))))
   }
-  const way = wayIn(world, new Map(carries.map((one) => [one.from, one.to])), held.slug, given.to)
+  const way = wayIn(world, new Map(moves.map((one) => [one.from, one.to])), held.slug, given.to)
   if (given.to !== held.slug) {
     const addressed = await reach(seen, RENAME_PAGE_ADDRESS, {
       was: `${held.pageTypeSlug}/${held.slug}`,
@@ -330,14 +330,14 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     if (folded.refused !== null) return folded
     seen = addressed.world
   }
-  for (const one of carries) {
+  for (const one of moves) {
     const named = CODE.has(extname(one.from)) ? MOVE_FILE_CODE : MOVE_FILE
-    const carried = await reach(seen, named, one)
-    if (carried.said.refused !== null) return carried.said
-    answers.push(carried.said)
+    const moved = await reach(seen, named, one)
+    if (moved.said.refused !== null) return moved.said
+    answers.push(moved.said)
     folded = gathered(answers)
     if (folded.refused !== null) return folded
-    seen = carried.world
+    seen = moved.world
   }
   if (given.to !== held.slug) {
     const said = await reach(seen, RENAME_PAGE_SLUG, {
