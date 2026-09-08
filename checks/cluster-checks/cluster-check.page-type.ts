@@ -213,6 +213,7 @@ export const clusterCheck = {
     "module/ts-client-page-access",
     "module/ts-collection-types",
     "module/ts-exhaustive-dispatch",
+    "module/ts-file-iteration",
   ],
   properties: [
     {
