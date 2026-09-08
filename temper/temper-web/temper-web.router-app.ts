@@ -13,6 +13,7 @@ export const temperWeb = {
   routerConfig: "ts",
   compileConfig: "json",
   viteConfig: "ts",
+  server: "ts",
   partSlugs: [
     "manifest/temper-web-manifests",
     "stylesheet/temper-web-look",
