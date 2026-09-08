@@ -137,6 +137,7 @@ export const clusterCheck = {
     "module/check-no-void-return",
     "module/check-lib-sets-per-piece-difficulty-boundary",
     "module/check-phantom-deps-filters",
+    "module/check-phantom-deps-json-contract",
   ],
   properties: [
     {
