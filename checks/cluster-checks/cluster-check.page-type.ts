@@ -231,6 +231,7 @@ export const clusterCheck = {
     "module/widget-sites",
     "module/workspace-import-graph",
     "module/workspace-packages",
+    "module/workspace-ts-files",
   ],
   properties: [
     {
