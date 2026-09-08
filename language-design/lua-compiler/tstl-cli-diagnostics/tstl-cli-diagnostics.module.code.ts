@@ -5,7 +5,7 @@ import {
 } from "../tstl-utils/tstl-utils.module.code.ts"
 
 export const tstlOptionsAreMovingToTheTstlObject = createSerialDiagnosticFactory(
-  (tstl: Record<string, any>) => ({
+  (tstl: Record<string, unknown>) => ({
     category: ts.DiagnosticCategory.Warning,
     messageText:
       'TSTL options are moving to the "tstl" object. Adjust your tsconfig to look like\n' +
@@ -25,7 +25,7 @@ export const watchErrorSummary = (errorCount: number): ts.Diagnostic => ({
       : `Found ${errorCount} errors. Watching for file changes.`,
 })
 
-const createCommandLineError = <TArgs extends any[]>(
+const createCommandLineError = <TArgs extends readonly unknown[]>(
   code: number,
   getMessage: (...args: TArgs) => string
 ) =>
