@@ -5,7 +5,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0013FanfictionAndFanartCont
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0013-fanfiction-and-fanart-contest-results",
   title: "Fanfiction and Fanart Contest RESULTS",
-  partOfCollectionSlugs: ["amelia-the-level-zero-hero-an-op-mc-isekai-litrpg"],
+  storySlug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 13,
   ownLength: 731,
   unitSlug: "words",

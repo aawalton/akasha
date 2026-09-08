@@ -5,7 +5,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0019EndOfBook2PopularityPol
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0019-end-of-book-2-popularity-poll",
   title: "End of Book 2 Popularity Poll!",
-  partOfCollectionSlugs: ["amelia-the-level-zero-hero-an-op-mc-isekai-litrpg"],
+  storySlug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 19,
   ownLength: 100,
   unitSlug: "words",
