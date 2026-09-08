@@ -5,11 +5,15 @@ export const changeMechanicalFileRename = {
   pageTypeSlug: "domain",
   slug: "change-mechanical-file-rename",
   definition: "a mechanical change restating the slug a page is named by",
-  partSlugs: ["change-mechanical/rename-file-page"],
+  partSlugs: ["change-mechanical/rename-file-page", "change-mechanical/rename-file-page-property"],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A file's rename is that file's carry, so nothing here renames a file alone.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A page type's own slug is renamed here rather than by no change at all.",
     },
   ],
 } as const satisfies Domain
