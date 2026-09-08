@@ -16,6 +16,7 @@ export const alanAtlasWeb = {
   viteConfig: "ts",
   server: "ts",
   sidebarBoot: "js",
+  gitIgnore: "gitignore",
   partSlugs: [
     "manifest/alanwalton-atlas",
     "stylesheet/alan-atlas-web-look",
