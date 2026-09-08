@@ -32,6 +32,10 @@ export const addPropertyRecord = {
     },
     {
       invariantKind: "departure",
+      statement: "The whitespace around a record is dropped before that record is read or written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A property holding one value is refused rather than made a list.",
     },
     {

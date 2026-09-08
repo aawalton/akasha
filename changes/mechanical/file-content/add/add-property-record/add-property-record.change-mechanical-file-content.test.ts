@@ -62,6 +62,16 @@ test("a record trailing anything beyond itself parses as no record", () => {
   expect(recordIn(`${NAME} and more`)).toBe(null)
 })
 
+test("the whitespace around a record is dropped before that record is read", () => {
+  const { world, said } = answering(HOLDING, `\n      ${NAME}\n    `)
+  expect(bodyOf(said, world.base)).toContain(`    ${SLUG},\n    ${NAME},`)
+})
+
+test("a record the property spells already is refused however it is spaced", () => {
+  const { said } = answering(HOLDING, `\n  ${SLUG}\n`)
+  expect(refusalOf(said)).toContain("already")
+})
+
 test("a property holding one value is refused rather than made a list", () => {
   const { said } = answering(bodied(`  properties: "text",`))
   expect(refusalOf(said)).toContain("holds one value")

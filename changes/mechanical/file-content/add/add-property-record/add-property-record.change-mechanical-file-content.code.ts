@@ -46,8 +46,9 @@ export function withRecord(
 }
 
 export function addPropertyRecord(world: World, given: AddPropertyRecordAsked): Said {
-  if (recordIn(given.record) === null) {
-    return refusing(`\`${given.record}\` parses as no record, so nothing is put in`)
+  const record = given.record.trim()
+  if (recordIn(record) === null) {
+    return refusing(`\`${record}\` parses as no record, so nothing is put in`)
   }
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
@@ -58,17 +59,17 @@ export function addPropertyRecord(world: World, given: AddPropertyRecordAsked): 
     (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
   )
   if (one === undefined || !ts.isPropertyAssignment(one)) {
-    const put = `${given.key}: [${given.record}]`
+    const put = `${given.key}: [${record}]`
     return stating(spliced(given.at, text, withProperty(text, source, owner, put, given.after)))
   }
   const holding = one.initializer
   if (!ts.isArrayLiteralExpression(holding)) {
     return refusing(`\`${given.key}\` holds one value, so a record is a restatement`)
   }
-  if (holding.elements.some((each) => each.getText(source) === given.record)) {
+  if (holding.elements.some((each) => each.getText(source) === record)) {
     return refusing(`\`${given.key}\` holds that record already`)
   }
-  return stating(spliced(given.at, text, withRecord(text, source, holding, given.record)))
+  return stating(spliced(given.at, text, withRecord(text, source, holding, record)))
 }
 
 export function runChange(world: World, given: AddPropertyRecordAsked): Said {

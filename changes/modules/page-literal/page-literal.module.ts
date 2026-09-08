@@ -64,5 +64,9 @@ export const pageLiteral = {
       invariantKind: "departure",
       statement: "A key stating no list holds no records.",
     },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here tells a record apart from the text beside it.",
+    },
   ],
 } as const satisfies Module
