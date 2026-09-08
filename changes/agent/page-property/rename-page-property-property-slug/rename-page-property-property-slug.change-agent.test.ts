@@ -28,7 +28,7 @@ const RENAME_KEY = "change-mechanical-file-content/rename-page-property-key"
 
 const RENAME_SIGNATURE = "change-mechanical-file-content/rename-property-signature"
 
-const MOVE_FILE_CODE = "change-mechanical-file/move-file-code"
+const MOVE_FILE_CODE = "change-mechanical/move-file-code"
 
 const VALUES: Readonly<Record<string, Value>> = {
   "file-property/code": {

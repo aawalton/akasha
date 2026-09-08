@@ -13,7 +13,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as moveFileCode } from "../../../mechanical/file/rename/move-file-code/move-file-code.change-mechanical-file.code.ts"
+import { runChange as moveFileCode } from "../../../mechanical/file/rename/move-file-code/move-file-code.change-mechanical.code.ts"
 import { runChange as changePageProperty } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
@@ -99,7 +99,7 @@ const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical-file/move-file") {
     return moveFile(world, given as Parameters<typeof moveFile>[1])
   }
-  if (at === "change-mechanical-file/move-file-code") {
+  if (at === "change-mechanical/move-file-code") {
     return await moveFileCode(world, given as Parameters<typeof moveFileCode>[1])
   }
   if (at === "change-mechanical-file-content/change-page-property") {
@@ -195,7 +195,7 @@ test("the slug rename and each carry are reached at their own addresses", async 
   await renamePage(world, { at: HELD_PAGE, to: CARRIED })
 
   expect(reached[reached.length - 1]).toBe("change-mechanical-file-content/rename-page-slug")
-  expect(new Set(reached.slice(0, -1))).toEqual(new Set(["change-mechanical-file/move-file-code"]))
+  expect(new Set(reached.slice(0, -1))).toEqual(new Set(["change-mechanical/move-file-code"]))
 })
 
 test("a page's slug is renamed in its data, and its files are carried with it", async () => {

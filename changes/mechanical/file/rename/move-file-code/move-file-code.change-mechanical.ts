@@ -1,8 +1,8 @@
-import type { ChangeMechanicalFile } from "../../change-mechanical-file.page-type.ts"
+import type { ChangeMechanical } from "../../../change-mechanical.page-type.ts"
 
 export const moveFileCode = {
   id: "01a07718-c9b6-7bb2-9eb2-27a44ed4fe7d",
-  pageTypeSlug: "change-mechanical-file",
+  pageTypeSlug: "change-mechanical",
   slug: "move-file-code",
   changeModeSlug: "change-mode-rename",
   changeTargetTypeSlug: "change-target-type/file",
@@ -13,4 +13,4 @@ export const moveFileCode = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
-} as const satisfies ChangeMechanicalFile
+} as const satisfies ChangeMechanical

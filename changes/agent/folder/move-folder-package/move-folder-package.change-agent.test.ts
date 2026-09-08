@@ -8,7 +8,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as moveFileCode } from "../../../mechanical/file/rename/move-file-code/move-file-code.change-mechanical-file.code.ts"
+import { runChange as moveFileCode } from "../../../mechanical/file/rename/move-file-code/move-file-code.change-mechanical.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { runChange as renamePageSlug } from "../../../mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
@@ -87,7 +87,7 @@ const REACHED = {
   "change-mechanical-file-content/rename-export": renameExport,
   "change-mechanical-file-content/rename-page-slug": renamePageSlug,
   "change-mechanical-file/move-file": moveFile,
-  "change-mechanical-file/move-file-code": moveFileCode,
+  "change-mechanical/move-file-code": moveFileCode,
 } as const
 
 const RUNS: Reaching = async (world, at, given) => {

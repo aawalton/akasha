@@ -27,7 +27,7 @@ import { spelledAnew } from "../../file-content/rename-package/rename-package.ch
 
 const RENAME_PAGE_SLUG = "change-mechanical-file-content/rename-page-slug"
 
-const MOVE_FILE_CODE = "change-mechanical-file/move-file-code"
+const MOVE_FILE_CODE = "change-mechanical/move-file-code"
 
 const RENAME_EXPORT = "change-mechanical-file-content/rename-export"
 
