@@ -4,7 +4,10 @@ export default [
   layout("routes/_app-layout.tsx", [
     index("routes/archive-of-worlds-home/archive-of-worlds-home.route.code.tsx"),
     route(":pageTypeSlug/:pageHrefParam", "routes/page-detail.tsx"),
-    route(":pageTypeSlug", "routes/page-listing.tsx"),
+    route(
+      ":pageTypeSlug",
+      "routes/archive-of-worlds-page-listing/archive-of-worlds-page-listing.route.code.tsx"
+    ),
   ]),
   route("sign-in", "routes/archive-of-worlds-sign-in/archive-of-worlds-sign-in.route.code.tsx"),
   route("sign-up", "routes/archive-of-worlds-sign-up/archive-of-worlds-sign-up.route.code.tsx"),

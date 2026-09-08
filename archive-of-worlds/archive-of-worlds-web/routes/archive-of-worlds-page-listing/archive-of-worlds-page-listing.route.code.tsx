@@ -4,7 +4,7 @@ import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { Suspense } from "react"
 import { data } from "react-router"
-import type { Route } from "./+types/page-listing"
+import type { Route } from "./+types/archive-of-worlds-page-listing.route.code"
 
 export async function loader({ params, request }: Route.LoaderArgs) {
   const pluralSlug = params.pageTypeSlug
