@@ -8,8 +8,10 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { refusing, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn, refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
+  bodiesIn,
   type Reaching,
   type World,
   worldAt,
@@ -41,10 +43,10 @@ type Unnaming = { at: string; key: string; value: string }
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file/remove-file") {
-    return Promise.resolve(widened(removeFile(world, given as { at: string }), world.textOf))
+    return Promise.resolve(removeFile(world, given as { at: string }))
   }
   if (at === "change-mechanical-file-content/remove-property-value") {
-    return Promise.resolve(widened(removePropertyValue(world, given as Unnaming), world.textOf))
+    return Promise.resolve(removePropertyValue(world, given as Unnaming))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
@@ -63,11 +65,12 @@ function naming(named: string): string {
   })
 }
 
-function bodyIn(
-  said: { readonly edits: readonly { readonly path: string; readonly body: string | null }[] },
-  at: string
-): string {
-  return said.edits.find((one) => one.path === at)?.body ?? ""
+function bodiesOf(said: Answer, world: World): ReadonlyMap<string, string | null> {
+  return bodiesIn(said, world.base)
+}
+
+function bodyIn(said: Answer, world: World, at: string): string {
+  return bodiesOf(said, world).get(at) ?? ""
 }
 
 test("a page type the index files pages under is left to the guard rather than refused here", async () => {
@@ -76,17 +79,18 @@ test("a page type the index files pages under is left to the guard rather than r
   const said = await removePageType(worldIn(root), { at: KEPT_TYPE })
 
   expect(said.refused).toBe(null)
-  expect(said.edits.map((one) => one.path)).toEqual([KEPT_TYPE])
+  expect(pathsIn(said)).toEqual([KEPT_TYPE])
 })
 
 test("a page type no page is filed under goes with the files beside that page type", async () => {
   const root = indexedRepo({ [KEPT_TYPE]: TYPE })
+  const world = worldIn(root)
 
-  const said = await removePageType(worldIn(root), { at: KEPT_TYPE })
+  const said = await removePageType(world, { at: KEPT_TYPE })
 
   expect(said.refused).toBe(null)
-  expect(said.edits.map((one) => one.path)).toEqual([KEPT_TYPE])
-  expect(said.edits[0]?.body).toBe(null)
+  expect(pathsIn(said)).toEqual([KEPT_TYPE])
+  expect(bodiesOf(said, world).get(KEPT_TYPE)).toBe(null)
 })
 
 test("a path the world names no page type at is refused", async () => {
@@ -109,20 +113,22 @@ test("a page that is no page type is refused rather than taken away", async () =
 
 test("the page type and the parent's entry for that page type go in one answer", async () => {
   const root = indexedRepo({ [KEPT_TYPE]: TYPE, [HOLDER_PAGE]: naming("page-type/kept") })
+  const world = worldIn(root)
 
-  const said = await removePageType(worldIn(root), { at: KEPT_TYPE })
+  const said = await removePageType(world, { at: KEPT_TYPE })
 
   expect(said.refused).toBe(null)
-  expect(said.edits.map((one) => one.path).sort()).toEqual([HOLDER_PAGE, KEPT_TYPE])
-  expect(bodyIn(said, HOLDER_PAGE)).toContain('"partSlugs": []')
+  expect([...pathsIn(said)].sort()).toEqual([HOLDER_PAGE, KEPT_TYPE])
+  expect(bodyIn(said, world, HOLDER_PAGE)).toContain('"partSlugs": []')
 })
 
 test("a parent naming the page type bare rather than qualified loses that entry too", async () => {
   const root = indexedRepo({ [KEPT_TYPE]: TYPE, [HOLDER_PAGE]: naming("kept") })
+  const world = worldIn(root)
 
-  const said = await removePageType(worldIn(root), { at: KEPT_TYPE })
+  const said = await removePageType(world, { at: KEPT_TYPE })
 
   expect(said.refused).toBe(null)
-  expect(said.edits.map((one) => one.path).sort()).toEqual([HOLDER_PAGE, KEPT_TYPE])
-  expect(bodyIn(said, HOLDER_PAGE)).toContain('"partSlugs": []')
+  expect([...pathsIn(said)].sort()).toEqual([HOLDER_PAGE, KEPT_TYPE])
+  expect(bodyIn(said, world, HOLDER_PAGE)).toContain('"partSlugs": []')
 })
