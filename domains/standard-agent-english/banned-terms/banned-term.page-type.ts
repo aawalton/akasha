@@ -19,6 +19,7 @@ export const bannedTerm = {
     "text-property/from-pattern",
     "text-property/to-pattern",
     "record-property/replacement-patterns",
+    "relation-property/prose-frame",
   ],
   extendsSlug: ["page-type/term"],
   properties: [

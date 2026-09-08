@@ -8,9 +8,11 @@ export const holdInside = {
   definition: "having something inside",
   instead: "have",
   replacementPatterns: [
-    { fromPattern: "holds [object]", toPattern: "has [object]" },
-    { fromPattern: "hold [object]", toPattern: "have [object]" },
-    { fromPattern: "holding [object]", toPattern: "with [object]" },
-    { fromPattern: "is held in [place]", toPattern: "is in [place]" },
+    { frame: "object", fromPattern: "holds [object]", toPattern: "has [object]" },
+    { frame: "object", fromPattern: "hold [object]", toPattern: "have [object]" },
+    { frame: "fronted", fromPattern: "holds", toPattern: "has" },
+    { frame: "fronted", fromPattern: "hold", toPattern: "have" },
+    { frame: "participle", fromPattern: "holding [object]", toPattern: "with [object]" },
+    { frame: "placed", fromPattern: "is held in [place]", toPattern: "is in [place]" },
   ],
 } as const satisfies BannedTerm

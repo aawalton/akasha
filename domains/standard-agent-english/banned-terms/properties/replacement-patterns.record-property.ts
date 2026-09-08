@@ -1,9 +1,11 @@
 import type { List } from "@akasha/pages/page-property"
 import type { RecordProperty } from "@akasha/pages/record-property"
 import type { FromPattern } from "./from-pattern.text-property.ts"
+import type { Frame } from "./prose-frame.relation-property.ts"
 import type { ToPattern } from "./to-pattern.text-property.ts"
 
 export type ReplacementPattern = {
+  frame: Frame
   fromPattern: FromPattern
   toPattern: ToPattern
 }
@@ -17,10 +19,20 @@ export const replacementPatterns = {
   propertySlug: "replacement-patterns",
   definition: "each construction a banned term is written in, with the one written in its place",
   properties: [
+    { pagePropertySlug: "relation-property/prose-frame", required: true, many: false },
     { pagePropertySlug: "text-property/from-pattern", required: true, many: false },
     { pagePropertySlug: "text-property/to-pattern", required: true, many: false },
   ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A pair names the construction it is written for rather than leaving it to spelling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One word spelled one way in two constructions is two pairs.",
+    },
     {
       invariantKind: "departure",
       statement: "A bracketed word names a word class, and a bare word matches itself.",

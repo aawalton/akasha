@@ -1,7 +1,6 @@
 import type { DepSentence, DepToken } from "@akasha/plain-language/dependency-graph"
 import { child, childrenByRel, hasChild, lower } from "@akasha/plain-language/dependency-graph"
-
-export type Frame = "object" | "fronted" | "participle" | "placed"
+import type { Frame } from "../banned-terms/properties/prose-frame.relation-property.ts"
 
 export type Found = {
   readonly at: number
