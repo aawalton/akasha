@@ -1,24 +1,8 @@
-// Alan's safety tile, driven over real HTTP: the relay carrier POSTs a reading into his receiving
-// route, and the group-serving path answers it as the `stoplights` body his shipped widget
-// decodes. The relay secret is the only made-up thing here, generated fresh for each run.
-//
-// The reading in these tests is a fixture. Alan's own level is never read here, and no test
-// asserts a level as though it were his.
-//
-// What this pins that nothing else does: the shipped Swift decodes `stoplights` as a NON-EMPTY
-// array whose every element carries a `tier` that is one of six colour names. An empty array, a
-// missing `tier`, or a colour outside that set fails the whole decode and the tile falls back to
-// its cache and then to "No signal". So the shape below is a contract with a binary already on
-// Alan's phone, not a convention this repository is free to change.
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group-serving"
 import { dropRelayed, RELAY_PATH, relayReading } from "@akasha/readout-system/readout-relay"
-import { action } from "./api.readout-relay.ts"
+import { action } from "../api.readout-relay.ts"
 
-// This workspace preloads happy-dom, which replaces `globalThis.Response` with one `Bun.serve`
-// refuses to answer with. The preload keeps the native `fetch`, so the native `Response` comes
-// back off any answer that fetch gives. Without this the file passes from the repository root
-// and fails from this folder, which reads as a broken route rather than a swapped global.
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
 
 const RELAY_SECRET = crypto.randomUUID()
@@ -29,9 +13,6 @@ process.env.READING_RELAY_SECRET = RELAY_SECRET
 
 const TIERS = ["black", "red", "orange", "yellow", "green", "blue"]
 
-// The rungs Alan's `safety-level` scale page states, and the keys his `upkeep-safety` readout
-// page carries. Held here so a change to either page shows up as a failure rather than as a
-// blank tile.
 const READOUT_ROW = {
   slug: READOUT,
   label: "Safety",
@@ -76,12 +57,6 @@ beforeAll(() => {
   origin = `http://localhost:${server.port}`
 })
 
-// THE ORIGIN THIS FILE SET IS THE WHOLE PROCESS'S, AND COMES BACK WHEN THE STORE GOES.
-//
-// Every test file in one run shares one process, so a file leaving this origin in place leaves
-// every later file asking this store rather than the store the run was pointed at. Stopping the
-// store does not cover that on its own: `stop` leaves an open connection open, and `fetch` holds
-// one, so a stopped store goes on answering the file that runs next.
 afterAll(() => {
   server.stop()
   store.stop(true)
@@ -160,7 +135,7 @@ test("the widget's body is a non-empty list under `stoplights`", async () => {
   expect(stoplights.length).toBeGreaterThan(0)
 })
 
-test("every stoplight carries a tier that is one of the six colours the phone decodes", async () => {
+test("every stoplight carries a tier that is one of the six colors the phone decodes", async () => {
   for (const level of [-2, -1.5, 0, 0.5, 1, 2, 2.5, 3, 4, 5]) {
     dropRelayed()
     await carryNow(level)
@@ -171,7 +146,7 @@ test("every stoplight carries a tier that is one of the six colours the phone de
   }
 })
 
-test("the colour is resolved here rather than sent as rungs for the phone to work out", async () => {
+test("the color is resolved here rather than sent as rungs for the phone to work out", async () => {
   await carryNow(2.5)
   const [one] = await drawn()
   expect(one?.tier).toBe("yellow")
