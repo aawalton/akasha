@@ -96,8 +96,8 @@ export function filingOf(
   for (const at of new Set([...withdrawn.keys(), ...added.keys()])) {
     const gone = new Set((withdrawn.get(at) ?? []).map((one) => one.line))
     const come = new Set((added.get(at) ?? []).map((one) => one.line))
-    const surviving = [...reading.lines(at)].filter((one) => !gone.has(one))
-    const coming = [...come].filter((one) => !surviving.includes(one))
+    const surviving = new Set([...reading.lines(at)].filter((one) => !gone.has(one)))
+    const coming = [...come].filter((one) => !surviving.has(one))
     said.push({ at, lines: [...surviving, ...coming].sort() })
   }
   return said
