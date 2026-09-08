@@ -50,5 +50,14 @@ export const addFileOfAnyKind = {
       invariantKind: "absence",
       statement: "A path naming no page takes no `id`.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A path under a page type name is written by the change judging the plural slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path under a page property name is written by the change judging the keys carried.",
+    },
   ],
 } as const satisfies ChangeMechanical

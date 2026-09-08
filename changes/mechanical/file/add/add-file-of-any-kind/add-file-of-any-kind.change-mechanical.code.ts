@@ -1,7 +1,7 @@
 import { extname } from "node:path"
 import { insertedInto } from "@akasha/code/value-inserting"
 import { uuidVersion7 } from "@akasha/id-minting/uuid-version-7"
-import { pageNamed } from "@akasha/pages/page-file-name"
+import { namedUnder, pageNamed } from "@akasha/pages/page-file-name"
 import { loadedFrom } from "@akasha/pages/page-value"
 import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
@@ -21,10 +21,25 @@ const ADD_FILE_CODE = "change-mechanical/add-file-code"
 
 const ADD_FILE_PAGE = "change-mechanical/add-file-page"
 
+const ADD_FILE_PAGE_TYPE = "change-mechanical/add-file-page-type"
+
+const ADD_FILE_PAGE_PROPERTY = "change-mechanical/add-file-page-property"
+
+const PAGE_TYPE = "page-type"
+
+const PAGE_PROPERTY = "page-property"
+
 const CODE = new Set([".ts", ".tsx"])
 
+const PAGES = new Set<string>([ADD_FILE_PAGE, ADD_FILE_PAGE_TYPE, ADD_FILE_PAGE_PROPERTY])
+
 export function addressFor(world: World, at: string) {
-  if (pageNamed(at, world.index.pageTypesIn())) return ADD_FILE_PAGE
+  const named = world.index.pageTypesIn()
+  if (pageNamed(at, named)) {
+    if (namedUnder(at, named)?.pageTypeSlug === PAGE_TYPE) return ADD_FILE_PAGE_TYPE
+    if (pageNamed(at, world.index.kindsUnder(PAGE_PROPERTY))) return ADD_FILE_PAGE_PROPERTY
+    return ADD_FILE_PAGE
+  }
   return CODE.has(extname(at)) ? ADD_FILE_CODE : ADD_FILE
 }
 
@@ -46,7 +61,7 @@ export type Asked = {
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const address = addressFor(world, given.at)
-  if (address !== ADD_FILE_PAGE) {
+  if (!PAGES.has(address)) {
     return (await reach(world, address, { at: given.at, body: given.body })).said
   }
   const filled = idFilled(given.at, given.body, given.id ?? AUTO)

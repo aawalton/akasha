@@ -18,10 +18,15 @@ const PAGE_BODY = 'export const one = { pageTypeSlug: "held", slug: "one" } as c
 
 const STATED = 'export const one = { id: "held", pageTypeSlug: "held", slug: "one" } as const\n'
 
+const UNDER = new Set(["text-property"])
+
 function worldOf(named: ReadonlySet<string>): World {
   return {
     root: "/nowhere",
-    index: Object.assign({} as World["index"], { pageTypesIn: () => named }),
+    index: Object.assign({} as World["index"], {
+      pageTypesIn: () => named,
+      kindsUnder: () => UNDER,
+    }),
     textOf: () => null,
     under: () => [],
     base: () => null,
@@ -58,6 +63,31 @@ test("every other TypeScript path is written by the change judging the imports n
 
 test("a path under a page name is written by the change judging the pages named", () => {
   expect(addressFor(PAGED, AT)).toBe("change-mechanical/add-file-page")
+})
+
+test("a path under a page type name is written by the change judging the plural slug", () => {
+  const world = worldOf(new Set(["page-type"]))
+
+  expect(addressFor(world, "akasha/kept.page-type.ts")).toBe("change-mechanical/add-file-page-type")
+})
+
+test("a path under a page property name is written by the change judging the keys", () => {
+  const world = worldOf(new Set(["text-property"]))
+
+  expect(addressFor(world, "akasha/properties/kept.text-property.ts")).toBe(
+    "change-mechanical/add-file-page-property"
+  )
+})
+
+test("a page type reaches its own change with the id already in the body", async () => {
+  const carried = { at: "", body: "" }
+  const world = reachedBy(worldOf(new Set(["page-type"])), carried)
+
+  const said = await runChange(world, { at: "akasha/kept.page-type.ts", body: PAGE_BODY })
+
+  expect(said.refused).toBe(null)
+  expect(carried.at).toBe("change-mechanical/add-file-page-type")
+  expect(carried.body).toMatch(MINTED)
 })
 
 test("a body stating no id is given one worked out here", () => {
