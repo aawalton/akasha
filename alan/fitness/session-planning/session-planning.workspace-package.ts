@@ -11,7 +11,6 @@ export const sessionPlanning = {
     "module/load-progression",
     "module/movement-recency",
     "module/movement-scoring",
-    "module/next-set",
     "module/novelty-budget",
     "module/pattern-groups",
     "module/performed-set",
