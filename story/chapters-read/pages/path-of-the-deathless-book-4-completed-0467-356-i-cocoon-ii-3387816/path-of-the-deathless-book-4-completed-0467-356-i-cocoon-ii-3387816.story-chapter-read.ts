@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0467356ICocoonIi3387816 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0467-356-i-cocoon-ii-3387816",
   title: "356 (I) Cocoon [II]",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 467,
   ownLength: 2977,
   unitSlug: "words",

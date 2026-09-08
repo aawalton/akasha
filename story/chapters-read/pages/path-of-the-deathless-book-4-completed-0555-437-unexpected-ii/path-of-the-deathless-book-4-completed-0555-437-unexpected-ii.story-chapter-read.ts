@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0555437UnexpectedIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0555-437-unexpected-ii",
   title: "437 Unexpected [II]",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 555,
   ownLength: 4760,
   unitSlug: "words",

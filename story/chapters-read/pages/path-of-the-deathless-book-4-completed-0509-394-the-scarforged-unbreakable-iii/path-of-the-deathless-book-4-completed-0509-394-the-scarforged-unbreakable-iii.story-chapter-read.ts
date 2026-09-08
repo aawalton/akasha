@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0509394TheScarforgedUnbreakableIii 
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0509-394-the-scarforged-unbreakable-iii",
   title: "394 The Scarforged Unbreakable [III]",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 509,
   ownLength: 6566,
   unitSlug: "words",

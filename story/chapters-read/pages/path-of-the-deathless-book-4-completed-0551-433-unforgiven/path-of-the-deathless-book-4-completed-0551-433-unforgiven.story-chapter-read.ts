@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0551433Unforgiven = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0551-433-unforgiven",
   title: "433 Unforgiven",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 551,
   ownLength: 5349,
   unitSlug: "words",

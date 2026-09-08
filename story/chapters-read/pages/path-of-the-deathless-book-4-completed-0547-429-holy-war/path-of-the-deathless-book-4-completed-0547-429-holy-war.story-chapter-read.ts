@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0547429HolyWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0547-429-holy-war",
   title: "429 Holy War",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 547,
   ownLength: 5940,
   unitSlug: "words",

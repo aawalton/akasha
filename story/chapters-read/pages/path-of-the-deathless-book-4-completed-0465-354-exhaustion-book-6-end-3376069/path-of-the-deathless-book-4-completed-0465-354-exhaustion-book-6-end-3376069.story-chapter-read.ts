@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0465354ExhaustionBook6End3376069 = 
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0465-354-exhaustion-book-6-end-3376069",
   title: "354 Exhaustion [Book 6 End]",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 465,
   ownLength: 5375,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0444337TheBoilingToad3282610 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0444-337-the-boiling-toad-3282610",
   title: "337 The Boiling Toad",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 444,
   ownLength: 5663,
   unitSlug: "words",

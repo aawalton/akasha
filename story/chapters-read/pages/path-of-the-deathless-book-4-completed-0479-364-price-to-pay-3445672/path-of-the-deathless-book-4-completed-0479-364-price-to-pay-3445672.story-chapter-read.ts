@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0479364PriceToPay3445672 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0479-364-price-to-pay-3445672",
   title: "364 Price to Pay",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 479,
   ownLength: 4588,
   unitSlug: "words",

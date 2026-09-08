@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0531413Heir = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0531-413-heir",
   title: "413 Heir",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 531,
   ownLength: 6274,
   unitSlug: "words",

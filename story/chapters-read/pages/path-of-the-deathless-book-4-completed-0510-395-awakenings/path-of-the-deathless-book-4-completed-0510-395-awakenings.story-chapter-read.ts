@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0510395Awakenings = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0510-395-awakenings",
   title: "395 AWAKENINGS",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 510,
   ownLength: 5174,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0405256IExtractionIii = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0405-256-i-extraction-iii",
   title: "256 (I) Extraction [III]",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 405,
   ownLength: 0,
   unitSlug: "words",

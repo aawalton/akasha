@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0553435Alliances = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0553-435-alliances",
   title: "435 Alliances",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 553,
   ownLength: 5040,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0454281IiLoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0454-281-ii-loss",
   title: "281 (II) Loss",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 454,
   ownLength: 0,
   unitSlug: "words",
