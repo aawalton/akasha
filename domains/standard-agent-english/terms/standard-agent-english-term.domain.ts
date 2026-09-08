@@ -10,6 +10,7 @@ export const standardAgentEnglishTerm = {
     "page-type/common-language-term",
     "page-type/foreign-name-term",
     "page-type/term",
+    "page-type/allowed-term",
   ],
   invariants: [
     {
