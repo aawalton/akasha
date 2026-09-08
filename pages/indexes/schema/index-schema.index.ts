@@ -20,19 +20,19 @@ export const indexSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the property's own page type.",
+      statement: "A line has the property's own page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the property's target page type.",
+      statement: "A line has the property's target page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the key a page reads the property by.",
+      statement: "A line has the key a page reads the property by.",
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the name the property's file sits under.",
+      statement: "A line has the name the property's file sits under.",
     },
     {
       invariantKind: "departure",
@@ -44,11 +44,11 @@ export const indexSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "Two properties carrying one slug are both filed.",
+      statement: "Two properties with one slug are both filed.",
     },
     {
       invariantKind: "departure",
-      statement: "A value the property does not carry is held as null rather than left out.",
+      statement: "A value the property does not have is held as null rather than left out.",
     },
     {
       invariantKind: "departure",
@@ -73,7 +73,7 @@ export const indexSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the name the property's folder sits under.",
+      statement: "A line has the name the property's folder sits under.",
     },
   ],
 } as const satisfies Index

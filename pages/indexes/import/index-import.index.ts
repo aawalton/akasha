@@ -15,7 +15,7 @@ export const indexImport = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the path of the file importing the path imported.",
+      statement: "A line has the path of the file importing the path imported.",
     },
     {
       invariantKind: "departure",

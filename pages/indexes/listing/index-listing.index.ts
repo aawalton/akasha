@@ -11,11 +11,11 @@ export const indexListing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One file carries every path the pages claim.",
+      statement: "One file has every path the pages claim.",
     },
     {
       invariantKind: "departure",
-      statement: "A line carries one path and nothing more.",
+      statement: "A line has one path and nothing more.",
     },
     {
       invariantKind: "departure",

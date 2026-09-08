@@ -4,18 +4,18 @@ export const indexValue = {
   id: "01a05a6c-58a0-7619-8d8c-32d90706a524",
   pageTypeSlug: "index",
   slug: "index-value",
-  definition: "an index from a page type to the values its pages carry",
+  definition: "an index from a page type to the values its pages have",
   name: "value",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value file is found by the page type whose pages the value file carries.",
+      statement: "A value file is found by the page type whose pages the value file has.",
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the page's path and the whole value its body declares.",
+      statement: "A line has the page's path and the whole value its body declares.",
     },
     {
       invariantKind: "departure",

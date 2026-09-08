@@ -19,7 +19,7 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the page's path and its id.",
+      statement: "A line has the page's path and its id.",
     },
     {
       invariantKind: "departure",
@@ -47,15 +47,15 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
-      statement: "A page is filed here only when the page carries an id.",
+      statement: "A page is filed here only when the page has an id.",
     },
     {
       invariantKind: "departure",
-      statement: "A page is filed here only when the page carries a slug.",
+      statement: "A page is filed here only when the page has a slug.",
     },
     {
       invariantKind: "departure",
-      statement: "A page is filed here only when the page carries a page type.",
+      statement: "A page is filed here only when the page has a page type.",
     },
     {
       invariantKind: "departure",

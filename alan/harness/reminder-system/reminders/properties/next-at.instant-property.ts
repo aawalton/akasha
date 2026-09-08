@@ -16,7 +16,7 @@ export const nextAt = {
     },
     {
       invariantKind: "departure",
-      statement: "A page carrying no such instant has never been armed.",
+      statement: "A page with no such instant has never been armed.",
     },
   ],
 } as const satisfies InstantProperty

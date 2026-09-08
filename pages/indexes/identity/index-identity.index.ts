@@ -56,11 +56,11 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "No two pages carry one slug inside the scope that slug's property declares.",
+      statement: "No two pages have one slug inside the scope that slug's property declares.",
     },
     {
       invariantKind: "departure",
-      statement: "A page carrying an identifier another page already carries does not land.",
+      statement: "A page with an identifier another page already has does not land.",
     },
   ],
 } as const satisfies Index

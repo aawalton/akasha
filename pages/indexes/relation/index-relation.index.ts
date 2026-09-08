@@ -44,8 +44,7 @@ export const indexRelation = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A relation free to name more than one page type carries the page type in its value.",
+      statement: "A relation free to name more than one page type has the page type in its value.",
     },
     {
       invariantKind: "departure",

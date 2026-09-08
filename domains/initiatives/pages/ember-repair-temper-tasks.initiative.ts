@@ -10,17 +10,17 @@ export const emberRepairTemperTasks = {
     {
       statement: "Every key the watcher names on a page is one that page type declares.",
       workingMemory:
-        'The reads are done: the ten that filtered on `userId` name `accountPage`, and no `key: "userId"` is left in temper. The writes are not: every create sends `userId`, `buildName` and `buildMetadata`, which neither build page type declares, and about twenty browser readers take `build.buildMetadata` or `build.userId`, which read empty. Write title, description, roles, targetCount and accountPage instead. No build page carries an accountPage yet.',
+        'The reads are done: the ten that filtered on `userId` name `accountPage`, and no `key: "userId"` is left in temper. The writes are not: every create sends `userId`, `buildName` and `buildMetadata`, which neither build page type declares, and about twenty browser readers take `build.buildMetadata` or `build.userId`, which read empty. Write title, description, roles, targetCount and accountPage instead. No build page has an accountPage yet.',
     },
     {
       statement: "Reading one page costs bytes in proportion to that page.",
       workingMemory:
-        "The narrow is pushed and honoured, and saves 656 bytes of 429,204,036, because 161 of the 162 snapshots are one account's. A projection saves the rest: the same ask carrying keys answers 22,528 bytes. The whole-population fetch is deliberate, since a cursor pages over one sorted snapshot, so leave that alone. The body parses at 2,388 MB resident and is killed outright under a 900M cap, so the field failure was allocation rather than syntax.",
+        "The narrow is pushed and honoured, and saves 656 bytes of 429,204,036, because 161 of the 162 snapshots are one account's. A projection saves the rest: the same ask with keys answers 22,528 bytes. The whole-population fetch is deliberate, since a cursor pages over one sorted snapshot, so leave that alone. The body parses at 2,388 MB resident and is killed outright under a 900M cap, so the field failure was allocation rather than syntax.",
     },
     {
       statement: "A refusal from the pages names the file that refusal is about.",
       workingMemory:
-        "page-calling now names the status, the byte count and the parser's own message on a body it cannot read. landedIn now appends the paths a write carried. The file-property guard names the page type, the character count, the opening of the body and the 255-byte ceiling. The entry that could not be opened is still unnamed, because keepWhole sits in indexing.module.code.ts, which is 15,810 bytes against a 15,000 ceiling and carries comments the no-code-comments check refuses.",
+        "page-calling now names the status, the byte count and the parser's own message on a body it cannot read. landedIn now appends the paths a write carried. The file-property guard names the page type, the character count, the opening of the body and the 255-byte ceiling. The entry that could not be opened is still unnamed, because keepWhole sits in indexing.module.code.ts, which is 15,810 bytes against a 15,000 ceiling and has comments the no-code-comments check refuses.",
     },
     {
       statement: "The watcher updates itself to the source revision it is told to run.",
