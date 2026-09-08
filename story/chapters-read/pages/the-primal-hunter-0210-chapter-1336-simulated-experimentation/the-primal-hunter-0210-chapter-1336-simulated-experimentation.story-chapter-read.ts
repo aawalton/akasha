@@ -5,7 +5,7 @@ export const thePrimalHunter0210Chapter1336SimulatedExperimentation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0210-chapter-1336-simulated-experimentation",
   title: "Chapter 1336 - Simulated Experimentation",
-  partOfSlugs: ["story-read/the-primal-hunter"],
+  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
   position: 210,
   ownLength: 3002,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0226Chapter1352CentralDomain = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0226-chapter-1352-central-domain",
   title: "Chapter 1352 - Central Domain",
-  partOfSlugs: ["story-read/the-primal-hunter"],
+  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
   position: 226,
   ownLength: 3003,
   unitSlug: "words",

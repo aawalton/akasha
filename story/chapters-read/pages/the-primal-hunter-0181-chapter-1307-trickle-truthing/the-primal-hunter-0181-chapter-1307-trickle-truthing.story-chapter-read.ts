@@ -5,7 +5,7 @@ export const thePrimalHunter0181Chapter1307TrickleTruthing = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0181-chapter-1307-trickle-truthing",
   title: "Chapter 1307 - Trickle-Truthing",
-  partOfSlugs: ["story-read/the-primal-hunter"],
+  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
   position: 181,
   ownLength: 2607,
   unitSlug: "words",

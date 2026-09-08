@@ -5,7 +5,7 @@ export const thePrimalHunter0171Chapter1298AmbushingThePursuers = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0171-chapter-1298-ambushing-the-pursuers",
   title: "Chapter 1298 - Ambushing The Pursuers",
-  partOfSlugs: ["story-read/the-primal-hunter"],
+  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
   position: 171,
   ownLength: 2977,
   unitSlug: "words",

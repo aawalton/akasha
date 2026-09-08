@@ -5,7 +5,7 @@ export const theRunesmith0014GoodNewsEverybody = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-runesmith-0014-good-news-everybody",
   title: "Good News Everybody!",
-  partOfSlugs: ["the-runesmith"],
+  partOfCollectionSlugs: ["the-runesmith"],
   position: 14,
   ownLength: 456,
   unitSlug: "words",

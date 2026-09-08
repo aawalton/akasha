@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0002Chapter2UsingDeathAsAWhet
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0002-chapter-2-using-death-as-a-whetstone",
   title: "Chapter 2 - Using Death As A Whetstone",
-  partOfSlugs: ["the-stubborn-skill-grinder-in-a-time-loop-book"],
+  partOfCollectionSlugs: ["the-stubborn-skill-grinder-in-a-time-loop-book"],
   position: 2,
   ownLength: 5944,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0139Chapter1266PeakCGrade = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0139-chapter-1266-peak-c-grade",
   title: "Chapter 1266 - Peak C-grade",
-  partOfSlugs: ["story-read/the-primal-hunter"],
+  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
   position: 139,
   ownLength: 2787,
   unitSlug: "words",
