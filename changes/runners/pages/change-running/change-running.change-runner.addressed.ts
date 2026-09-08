@@ -5,6 +5,9 @@ export type Changes = {
   "change-agent/change-domain-parent": Parameters<
     typeof import("../../../agent/file-content/change-domain-parent/change-domain-parent.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/change-file": Parameters<
+    typeof import("../../../agent/file-content/change-file/change-file.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/change-page-property": Parameters<
     typeof import("../../../agent/file-content/change-page-property/change-page-property.change-agent.code.ts")["runChange"]
   >[1]
@@ -37,9 +40,6 @@ export type Changes = {
   >[1]
   "change-agent/rename-page": Parameters<
     typeof import("../../../agent/file/rename-page/rename-page.change-agent.code.ts")["runChange"]
-  >[1]
-  "change-authored/change-file": Parameters<
-    typeof import("../../../agent/file-content/change-file/change-file.change-authored.code.ts")["runChange"]
   >[1]
   "change-checked/add-property-value": Parameters<
     typeof import("../../../agent/file-content/add-property-value/add-property-value.change-checked.code.ts")["runChange"]
