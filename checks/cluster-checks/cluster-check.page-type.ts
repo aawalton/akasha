@@ -144,6 +144,7 @@ export const clusterCheck = {
     "module/check-suspense-throw-settles",
     "module/check-timezone-handling",
     "module/check-tsconfig-allowlists",
+    "module/check-vite-supabase-rr-define-json-contract",
   ],
   properties: [
     {
