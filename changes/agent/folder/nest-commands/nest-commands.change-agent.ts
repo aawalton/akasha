@@ -42,7 +42,12 @@ export const nestCommands = {
     },
     {
       invariantKind: "departure",
-      statement: "Carrying a page and the files it claims is left to the change of that name.",
+      statement:
+        "Carrying a page and the files it claims is left to the mechanical change carrying that kind of file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The path the page lands at is worked out here rather than by the change reached.",
     },
     {
       invariantKind: "departure",

@@ -1,4 +1,4 @@
-import { dirname, join } from "node:path"
+import { basename, dirname, join } from "node:path"
 import {
   gathered,
   missing,
@@ -7,13 +7,13 @@ import {
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
-const CHANGE_DOMAIN_PARENT = "change-agent/change-domain-parent"
+const CHANGE_DOMAIN_PARENT = "change-mechanical-file-content/change-domain-parent"
 
 const COMMAND = "command"
 
 const HYPHEN = "-"
 
-const MOVE_PAGE = "change-agent/move-page"
+const MOVE_FILE = "change-mechanical/move-file-of-any-kind"
 
 const NAMESPACE = "namespace"
 
@@ -45,7 +45,7 @@ export function folderFor(slugs: readonly string[], slug: string): string {
 
 export async function carriedTo(world: World, at: string, to: string): Promise<Carrying> {
   if (dirname(at) === to) return { said: [], world }
-  const carried = await reach(world, MOVE_PAGE, { at, to })
+  const carried = await reach(world, MOVE_FILE, { from: at, to: join(to, basename(at)) })
   if (carried.said.refused !== null) return { refused: carried.said.refused }
   return { said: [carried.said], world: carried.world }
 }
