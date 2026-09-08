@@ -2,7 +2,7 @@ import { TICKS_BEFORE_ENDING, tickRatchet } from "@akasha/service-system/tick-ra
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "../../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+} from "../../../../services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
 import {
   LOG,
   runBoundedSurplusFallTick,

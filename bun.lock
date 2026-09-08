@@ -1492,7 +1492,7 @@
         "zod": "^4.3.6",
       },
     },
-    "service-system": {
+    "services": {
       "name": "@akasha/service-system",
       "dependencies": {
         "@akasha/cluster-manifests": "workspace:*",
@@ -3149,7 +3149,7 @@
 
     "@akasha/seaweedfs": ["@akasha/seaweedfs@workspace:infrastructure/seaweedfs"],
 
-    "@akasha/service-system": ["@akasha/service-system@workspace:service-system"],
+    "@akasha/service-system": ["@akasha/service-system@workspace:services"],
 
     "@akasha/shell": ["@akasha/shell@workspace:shell"],
 

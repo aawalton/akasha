@@ -32,7 +32,7 @@ export const akasha = {
     "workspace-package/agent",
     "domain/required-reading",
     "workspace-package/persons",
-    "workspace-package/service-system",
+    "workspace-package/service",
     "domain/alan",
     "domain/design",
     "workspace-package/digit-padding",

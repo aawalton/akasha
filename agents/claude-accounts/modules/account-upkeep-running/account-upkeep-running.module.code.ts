@@ -2,7 +2,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "../../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+} from "../../../../services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
 import { UPKEEP_PERIOD_MS } from "../oauth/claude-account-oauth.module.code.ts"
 import {
   everyAccountStateIn,

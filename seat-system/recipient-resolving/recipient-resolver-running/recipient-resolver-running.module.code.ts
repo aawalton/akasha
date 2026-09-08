@@ -9,7 +9,7 @@ import { runRecipientResolverTick } from "@akasha/seat-system/recipient-resolver
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+} from "../../../services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
 import { listPersonHandlers } from "../person-handlers/person-handlers.module.code.ts"
 
 async function main(): Promise<void> {

@@ -4,7 +4,7 @@ import { recordToAgent } from "@akasha/seat-system/agent-record"
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "../../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+} from "../../../../services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
 import { markTold, oneRun, untoldClaims } from "../inbox-run/inbox-run.module.code.ts"
 
 const PERSON = process.env.EMAIL_WORKER_PERSON ?? "alan"

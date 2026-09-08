@@ -1,7 +1,7 @@
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "../../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+} from "../../../../services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
 import { apnsSenderFromEnv } from "../apns-sending/apns-sending.module.code.ts"
 import {
   LOG,
