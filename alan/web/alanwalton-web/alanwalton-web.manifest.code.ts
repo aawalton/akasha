@@ -50,7 +50,8 @@ function webBuildInitContainer(): object {
     "  exit 0",
     "fi",
     `NEXT_PUBLIC_BUILD_SHA=$(git -C ${ORCHESTRATOR_CACHE_REPO_PATH} rev-parse HEAD)`,
-    "export NEXT_PUBLIC_BUILD_SHA",
+    "VITE_BUILD_SHA=$NEXT_PUBLIC_BUILD_SHA",
+    "export NEXT_PUBLIC_BUILD_SHA VITE_BUILD_SHA",
     'echo "init-build: building alan/web at $NEXT_PUBLIC_BUILD_SHA"',
     "bun run build",
     'echo "init-build: build complete"',
@@ -66,11 +67,13 @@ function webBuildInitContainer(): object {
       { name: "HOME", value: CONTAINER_TMP_PATH },
       { name: "NODE_ENV", value: "production" },
       { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
+      { name: "VITE_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
       {
         name: "NEXT_PUBLIC_ELECTRIC_URL",
         value: "https://supabase.alanwalton.com/electric/v1/shape",
       },
       { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".alanwalton.com" },
+      { name: "VITE_SUPABASE_COOKIE_DOMAIN", value: ".alanwalton.com" },
     ],
     resources: {
       requests: { cpu: "500m", memory: "1Gi" },
@@ -136,6 +139,7 @@ function webDeploymentYaml(): string {
                 { name: "PORT", value: "3000" },
                 { name: "PAGE_WRITER", value: "alanwalton-web" },
                 { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
+                { name: "SUPABASE_URL", value: "https://supabase.alanwalton.com" },
                 { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".alanwalton.com" },
                 {
                   name: "SUPABASE_JWT_SECRET",
@@ -210,6 +214,7 @@ function webServiceYaml(): string {
 
 export const BUILD_ENV = [
   { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
+  { name: "VITE_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
   {
     name: "NEXT_PUBLIC_ELECTRIC_URL",
     value: "https://supabase.alanwalton.com/electric/v1/shape",
@@ -218,7 +223,12 @@ export const BUILD_ENV = [
     name: "NEXT_PUBLIC_SUPABASE_ANON_KEY",
     fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
   },
+  {
+    name: "VITE_SUPABASE_ANON_KEY",
+    fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
+  },
   { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".alanwalton.com" },
+  { name: "VITE_SUPABASE_COOKIE_DOMAIN", value: ".alanwalton.com" },
 ] as const
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {

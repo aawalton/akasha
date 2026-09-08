@@ -137,6 +137,7 @@ function webServiceYaml(): string {
 
 export const BUILD_ENV = [
   { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
+  { name: "VITE_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
   {
     name: "NEXT_PUBLIC_ELECTRIC_URL",
     value: "https://supabase.alanwalton.com/electric/v1/shape",
@@ -145,7 +146,12 @@ export const BUILD_ENV = [
     name: "NEXT_PUBLIC_SUPABASE_ANON_KEY",
     fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
   },
+  {
+    name: "VITE_SUPABASE_ANON_KEY",
+    fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
+  },
   { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".archiveofworlds.app" },
+  { name: "VITE_SUPABASE_COOKIE_DOMAIN", value: ".archiveofworlds.app" },
 ] as const
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {

@@ -35,6 +35,7 @@ const WORKING_DIR_AT = /^[ \t-]*workingDir:[ \t]*(\S+)[ \t]*$/gm
 const RETRYABLE = ["not our ref", "remote end hung up", "Could not write new index file"]
 const BUILD_ENV_EXPORT = "BUILD_ENV"
 const BUILT_FROM_ENV = "NEXT_PUBLIC_BUILD_SHA"
+const BUILT_FROM_VITE_ENV = "VITE_BUILD_SHA"
 const HIDDEN = "[a secret this deploy read]"
 
 export interface BuildTarget {
@@ -259,7 +260,10 @@ export function resolveBuildEnv(
   entries: readonly BuildEnvEntry[],
   sha: string
 ): Resolved {
-  const env: { name: string; value: string }[] = [{ name: BUILT_FROM_ENV, value: sha }]
+  const env: { name: string; value: string }[] = [
+    { name: BUILT_FROM_ENV, value: sha },
+    { name: BUILT_FROM_VITE_ENV, value: sha },
+  ]
   const hidden: string[] = []
   const missing: string[] = []
   for (const entry of entries) {

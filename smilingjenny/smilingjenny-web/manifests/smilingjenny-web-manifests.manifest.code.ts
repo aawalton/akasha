@@ -132,12 +132,17 @@ function webServiceYaml(): string {
 
 export const BUILD_ENV = [
   { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
+  { name: "VITE_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
   {
     name: "NEXT_PUBLIC_ELECTRIC_URL",
     value: "https://supabase.alanwalton.com/electric/v1/shape",
   },
   {
     name: "NEXT_PUBLIC_SUPABASE_ANON_KEY",
+    fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
+  },
+  {
+    name: "VITE_SUPABASE_ANON_KEY",
     fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
   },
 ] as const
