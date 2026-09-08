@@ -11,7 +11,7 @@ import {
   removePackageAlias,
   runChange,
   withoutAliasIn,
-} from "./remove-package-alias.change-checked.code.ts"
+} from "./remove-package-alias.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 

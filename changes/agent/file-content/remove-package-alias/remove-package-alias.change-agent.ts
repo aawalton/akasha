@@ -1,8 +1,8 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const removePackageAlias = {
   id: "01a07c16-3e5f-7641-95c5-a6e485991ad1",
-  pageTypeSlug: "change-checked",
+  pageTypeSlug: "change-agent",
   slug: "remove-package-alias",
   changeModeSlug: "change-mode-remove",
   definition: "the alias a renamed package was reached under taken out of every manifest",
@@ -73,4 +73,4 @@ export const removePackageAlias = {
       statement: "No package is renamed here.",
     },
   ],
-} as const satisfies ChangeChecked
+} as const satisfies ChangeAgent

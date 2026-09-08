@@ -10,7 +10,7 @@ export const changeAgentFileContent = {
     "change-checked/add-property-value",
     "change-agent/change-domain-parent",
     "change-agent/change-page-property",
-    "change-checked/remove-package-alias",
+    "change-agent/remove-package-alias",
     "change-agent/remove-property-value",
     "change-agent/rename-code-token",
     "change-checked/rename-package",
