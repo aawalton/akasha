@@ -50,7 +50,6 @@ export const commandSystem = {
     "module/prose-routing",
     "module/commit-author",
     "module/commands-served",
-    "module/command-server",
     "module/orphaning",
     "module/seat-act-calling",
     "module/command-flags",

@@ -18,7 +18,7 @@ export function akashaRoot(): string {
   return stated === undefined || stated === "" ? path.join(os.homedir(), "repos", "akasha") : stated
 }
 
-const SERVER_AT = "command-system/command-server/command-server.module.code.ts"
+const SERVER_AT = "editor-extension/command-server/command-server.module.code.ts"
 
 export function serverPath(): string {
   return path.join(akashaRoot(), SERVER_AT)

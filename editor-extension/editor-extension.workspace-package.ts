@@ -8,6 +8,7 @@ export const editorExtension = {
   manifest: "json",
   partSlugs: [
     "module/champions-tree",
+    "module/command-server",
     "module/command-server-client",
     "module/terminal-marks",
     "module/domain-tree-ids",

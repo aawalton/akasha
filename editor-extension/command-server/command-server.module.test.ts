@@ -2,6 +2,9 @@ import { afterEach, describe, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
+import { COMMANDS_SERVED, LEASE_ENV } from "@akasha/command-system/commands-served"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { colorIn, WORKING_PAGE } from "@akasha/seat-system/seat-turn-color/testing"
 import {
   askServed,
   CommandServerRefusal,
@@ -10,10 +13,7 @@ import {
   REFUSAL_OVER_LEASE,
   type Serving,
   servingFrom,
-} from "@akasha/editor-extension/command-server-client"
-import { colorIn, WORKING_PAGE } from "@akasha/seat-system/seat-turn-color/testing"
-import { COMMANDS_SERVED, LEASE_ENV } from "../commands-served/commands-served.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
+} from "../command-server-client/command-server-client.module.code.ts"
 import { COMMANDS_LOADABLE, commandsAdrift } from "./command-server.module.code.ts"
 
 const BUN = join(homedir(), ".bun", "bin", "bun")

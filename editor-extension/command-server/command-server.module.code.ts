@@ -1,15 +1,15 @@
 import { writeSync } from "node:fs"
-import { sayAnswer } from "../answer-bytes/answer-bytes.module.code.ts"
+import { sayAnswer } from "@akasha/command-system/answer-bytes"
 import {
   COMMANDS_SERVED,
   LEASE_ENV,
   LEASE_MS,
   leaseAsked,
   PROTOCOL,
-} from "../commands-served/commands-served.module.code.ts"
-import { duringOneCall } from "../during-call/during-call.module.code.ts"
+} from "@akasha/command-system/commands-served"
+import { duringOneCall } from "@akasha/command-system/during-call"
 
-const HERE = "command-system/command-server/command-server.module.code.ts"
+const HERE = "editor-extension/command-server/command-server.module.code.ts"
 
 const HELP = `bun ${HERE} — answer commands over a pipe, so a caller pays bun's startup once
 
@@ -33,7 +33,7 @@ Commands: ${COMMANDS_SERVED.join(", ")}
 async function commandFile(command: string): Promise<string> {
   try {
     const { akashaRoot } = await import("@akasha/pages/checkout-roots")
-    const { commandFileIn } = await import("../calling/calling.module.code.ts")
+    const { commandFileIn } = await import("@akasha/command-system/calling")
     return commandFileIn(akashaRoot(), command) ?? command
   } catch {
     return command
@@ -84,7 +84,7 @@ const CALLED: ReadonlySet<string> = new Set([
 ])
 
 async function called(command: string, argv: readonly string[]): Promise<number> {
-  const { calling } = await import("../calling/calling.module.code.ts")
+  const { calling } = await import("@akasha/command-system/calling")
   const { akashaRoot } = await import("@akasha/pages/checkout-roots")
   const root = akashaRoot()
   const answer = await calling([command, ...argv], {
