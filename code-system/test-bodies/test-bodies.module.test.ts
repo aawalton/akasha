@@ -87,6 +87,12 @@ test("the form a body is read as follows the extension its path carries", () => 
   expect(loaderOf("/repo/one.jsx")).toBe("jsx")
 })
 
+test("an extension the runner loads no form for is answered by no form at all", () => {
+  expect(loaderOf("/repo/one.css")).toBeNull()
+  expect(loaderOf("/repo/one.json")).toBeNull()
+  expect(loaderOf("/repo/one.notes")).toBeNull()
+})
+
 test("a body handed over is served under the form its path names", () => {
   const said = servingOut({ [ONE]: "export const held = 1\n" }, ONE)
   expect(said).toEqual({ contents: "export const held = 1\n", loader: "ts" })
