@@ -43,7 +43,7 @@ function isExplicitComparisonOp(op: ts.BinaryOperator): boolean {
 
 function includesMultiReturn(type: ts.Type): boolean {
   if (type.isUnion()) return type.types.some(includesMultiReturn)
-  return type.getProperty("__tstlMultiReturn") !== undefined
+  return type.getProperty("__luaMultiReturn") !== undefined
 }
 
 function remedyFor(type: ts.Type): string {
