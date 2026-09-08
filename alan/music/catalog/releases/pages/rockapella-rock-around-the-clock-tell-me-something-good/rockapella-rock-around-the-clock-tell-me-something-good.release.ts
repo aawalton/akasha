@@ -5,7 +5,7 @@ export const rockapellaRockAroundTheClockTellMeSomethingGood = {
   pageTypeSlug: "release",
   slug: "rockapella-rock-around-the-clock-tell-me-something-good",
   title: "Rock Around the Clock / Tell Me Something Good",
-  partOfSlugs: ["rockapella"],
+  partOfCollectionSlugs: ["rockapella"],
   position: 0,
   ownLength: 2.964583,
   ownProgress: 2.964583,

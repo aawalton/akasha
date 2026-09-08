@@ -5,7 +5,7 @@ export const siaReasonableWoman = {
   pageTypeSlug: "release",
   slug: "sia-reasonable-woman",
   title: "Reasonable Woman",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 52.8199,
   ownProgress: 52.8199,

@@ -5,7 +5,7 @@ export const sabrinaCarpenterEvolution = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-evolution",
   title: "EVOLution",
-  partOfSlugs: ["sabrina-carpenter"],
+  partOfCollectionSlugs: ["sabrina-carpenter"],
   position: 0,
   ownLength: 33.42905,
   ownProgress: 33.42905,

@@ -5,7 +5,7 @@ export const siaLiveFromSydney = {
   pageTypeSlug: "release",
   slug: "sia-live-from-sydney",
   title: "Live from Sydney",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 29.907083,
   ownProgress: 29.907083,

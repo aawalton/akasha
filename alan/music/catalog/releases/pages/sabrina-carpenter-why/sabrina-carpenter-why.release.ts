@@ -5,7 +5,7 @@ export const sabrinaCarpenterWhy = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-why",
   title: "Why",
-  partOfSlugs: ["sabrina-carpenter"],
+  partOfCollectionSlugs: ["sabrina-carpenter"],
   position: 0,
   ownLength: 2.8516,
   ownProgress: 2.8516,

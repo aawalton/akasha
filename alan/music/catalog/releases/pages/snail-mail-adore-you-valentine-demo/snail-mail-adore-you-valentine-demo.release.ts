@@ -5,7 +5,7 @@ export const snailMailAdoreYouValentineDemo = {
   pageTypeSlug: "release",
   slug: "snail-mail-adore-you-valentine-demo",
   title: "Adore You (Valentine Demo)",
-  partOfSlugs: ["snail-mail"],
+  partOfCollectionSlugs: ["snail-mail"],
   position: 0,
   ownLength: 6.891317,
   ownProgress: 0,

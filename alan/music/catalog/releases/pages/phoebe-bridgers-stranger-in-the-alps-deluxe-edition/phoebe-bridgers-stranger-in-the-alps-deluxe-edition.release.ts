@@ -5,7 +5,7 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-stranger-in-the-alps-deluxe-edition",
   title: "Stranger in the Alps (Deluxe Edition)",
-  partOfSlugs: ["phoebe-bridgers"],
+  partOfCollectionSlugs: ["phoebe-bridgers"],
   position: 0,
   ownLength: 51.4988,
   ownProgress: 51.4988,

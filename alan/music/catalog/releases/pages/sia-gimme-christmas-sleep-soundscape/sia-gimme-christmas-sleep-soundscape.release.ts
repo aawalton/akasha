@@ -5,7 +5,7 @@ export const siaGimmeChristmasSleepSoundscape = {
   pageTypeSlug: "release",
   slug: "sia-gimme-christmas-sleep-soundscape",
   title: "Gimme Christmas (Sleep Soundscape)",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 49.996283,
   ownProgress: 49.996283,

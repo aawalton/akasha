@@ -5,7 +5,7 @@ export const siaHassHass = {
   pageTypeSlug: "release",
   slug: "sia-hass-hass",
   title: "Hass Hass",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 2.550267,
   ownProgress: 2.550267,

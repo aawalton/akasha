@@ -5,7 +5,7 @@ export const phoebeBridgersSidelines = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-sidelines",
   title: "Sidelines",
-  partOfSlugs: ["phoebe-bridgers"],
+  partOfCollectionSlugs: ["phoebe-bridgers"],
   position: 0,
   ownLength: 4.4062,
   ownProgress: 4.4062,

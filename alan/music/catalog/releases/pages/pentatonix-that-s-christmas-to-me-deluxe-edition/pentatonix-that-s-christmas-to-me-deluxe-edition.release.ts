@@ -5,7 +5,7 @@ export const pentatonixThatSChristmasToMeDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "pentatonix-that-s-christmas-to-me-deluxe-edition",
   title: "That's Christmas To Me (Deluxe Edition)",
-  partOfSlugs: ["pentatonix"],
+  partOfCollectionSlugs: ["pentatonix"],
   position: 0,
   ownLength: 51.49145,
   ownProgress: 51.49145,

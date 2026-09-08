@@ -5,7 +5,7 @@ export const sabrinaCarpenterFruitcake = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-fruitcake",
   title: "fruitcake",
-  partOfSlugs: ["sabrina-carpenter"],
+  partOfCollectionSlugs: ["sabrina-carpenter"],
   position: 0,
   ownLength: 15.772417,
   ownProgress: 15.772417,

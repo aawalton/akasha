@@ -5,7 +5,7 @@ export const snailMailBenFranklin = {
   pageTypeSlug: "release",
   slug: "snail-mail-ben-franklin",
   title: "Ben Franklin",
-  partOfSlugs: ["snail-mail"],
+  partOfCollectionSlugs: ["snail-mail"],
   position: 0,
   ownLength: 6.298883,
   ownProgress: 0,

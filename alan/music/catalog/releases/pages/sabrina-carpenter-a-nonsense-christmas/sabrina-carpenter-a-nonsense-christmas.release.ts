@@ -5,7 +5,7 @@ export const sabrinaCarpenterANonsenseChristmas = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-a-nonsense-christmas",
   title: "A Nonsense Christmas",
-  partOfSlugs: ["sabrina-carpenter"],
+  partOfCollectionSlugs: ["sabrina-carpenter"],
   position: 0,
   ownLength: 5.279117,
   ownProgress: 5.279117,

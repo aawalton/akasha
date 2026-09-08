@@ -5,7 +5,7 @@ export const snailMailEasyThing = {
   pageTypeSlug: "release",
   slug: "snail-mail-easy-thing",
   title: "Easy Thing",
-  partOfSlugs: ["snail-mail"],
+  partOfCollectionSlugs: ["snail-mail"],
   position: 0,
   ownLength: 2.718217,
   ownProgress: 0,

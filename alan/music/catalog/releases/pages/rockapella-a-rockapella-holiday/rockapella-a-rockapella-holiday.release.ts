@@ -5,7 +5,7 @@ export const rockapellaARockapellaHoliday = {
   pageTypeSlug: "release",
   slug: "rockapella-a-rockapella-holiday",
   title: "A Rockapella Holiday",
-  partOfSlugs: ["rockapella"],
+  partOfCollectionSlugs: ["rockapella"],
   position: 0,
   ownLength: 40.670717,
   ownProgress: 40.670717,

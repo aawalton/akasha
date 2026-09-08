@@ -5,7 +5,7 @@ export const snailMailTwoLegsSnailMailVersion = {
   pageTypeSlug: "release",
   slug: "snail-mail-two-legs-snail-mail-version",
   title: "Two Legs (Snail Mail Version)",
-  partOfSlugs: ["snail-mail"],
+  partOfCollectionSlugs: ["snail-mail"],
   position: 0,
   ownLength: 4.206733,
   ownProgress: 0,

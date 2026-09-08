@@ -5,7 +5,7 @@ export const pentatonixTheSoundOfSilence = {
   pageTypeSlug: "release",
   slug: "pentatonix-the-sound-of-silence",
   title: "The Sound of Silence",
-  partOfSlugs: ["pentatonix"],
+  partOfCollectionSlugs: ["pentatonix"],
   position: 0,
   ownLength: 3.543933,
   ownProgress: 3.543933,

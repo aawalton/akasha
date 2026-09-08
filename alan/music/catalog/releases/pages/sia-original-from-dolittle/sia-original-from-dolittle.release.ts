@@ -5,7 +5,7 @@ export const siaOriginalFromDolittle = {
   pageTypeSlug: "release",
   slug: "sia-original-from-dolittle",
   title: "Original (from Dolittle)",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 3.561117,
   ownProgress: 3.561117,

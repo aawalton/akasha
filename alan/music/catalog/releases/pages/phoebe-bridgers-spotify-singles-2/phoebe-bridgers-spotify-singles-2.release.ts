@@ -5,7 +5,7 @@ export const phoebeBridgersSpotifySingles2 = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-spotify-singles-2",
   title: "Spotify Singles",
-  partOfSlugs: ["phoebe-bridgers"],
+  partOfCollectionSlugs: ["phoebe-bridgers"],
   position: 0,
   ownLength: 7.4072,
   ownProgress: 7.4072,

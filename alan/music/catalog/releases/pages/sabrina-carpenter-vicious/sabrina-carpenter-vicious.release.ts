@@ -5,7 +5,7 @@ export const sabrinaCarpenterVicious = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-vicious",
   title: "Vicious",
-  partOfSlugs: ["sabrina-carpenter"],
+  partOfCollectionSlugs: ["sabrina-carpenter"],
   position: 0,
   ownLength: 2.498167,
   ownProgress: 2.498167,

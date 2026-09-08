@@ -5,7 +5,7 @@ export const siaUnstoppable = {
   pageTypeSlug: "release",
   slug: "sia-unstoppable",
   title: "Unstoppable",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 3.6291,
   ownProgress: 3.6291,

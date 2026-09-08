@@ -5,7 +5,7 @@ export const siaGimmeChristmasLofiSoundscape = {
   pageTypeSlug: "release",
   slug: "sia-gimme-christmas-lofi-soundscape",
   title: "Gimme Christmas (Lofi Soundscape)",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 46.394467,
   ownProgress: 46.394467,

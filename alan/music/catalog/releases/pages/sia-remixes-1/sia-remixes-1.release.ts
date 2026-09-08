@@ -5,7 +5,7 @@ export const siaRemixes1 = {
   pageTypeSlug: "release",
   slug: "sia-remixes-1",
   title: "Remixes 1",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 21.2233,
   ownProgress: 21.2233,

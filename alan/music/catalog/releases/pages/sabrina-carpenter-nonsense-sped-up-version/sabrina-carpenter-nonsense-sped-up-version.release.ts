@@ -5,7 +5,7 @@ export const sabrinaCarpenterNonsenseSpedUpVersion = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-nonsense-sped-up-version",
   title: "Nonsense (Sped Up Version)",
-  partOfSlugs: ["sabrina-carpenter"],
+  partOfCollectionSlugs: ["sabrina-carpenter"],
   position: 0,
   ownLength: 5.019367,
   ownProgress: 5.019367,

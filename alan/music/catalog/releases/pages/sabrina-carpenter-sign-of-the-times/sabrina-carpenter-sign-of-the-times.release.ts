@@ -5,7 +5,7 @@ export const sabrinaCarpenterSignOfTheTimes = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-sign-of-the-times",
   title: "Sign of the Times",
-  partOfSlugs: ["sabrina-carpenter"],
+  partOfCollectionSlugs: ["sabrina-carpenter"],
   position: 0,
   ownLength: 4.22115,
   ownProgress: 4.22115,

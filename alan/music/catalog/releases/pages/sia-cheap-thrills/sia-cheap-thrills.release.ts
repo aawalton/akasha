@@ -5,7 +5,7 @@ export const siaCheapThrills = {
   pageTypeSlug: "release",
   slug: "sia-cheap-thrills",
   title: "Cheap Thrills",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 3.516217,
   ownProgress: 3.516217,

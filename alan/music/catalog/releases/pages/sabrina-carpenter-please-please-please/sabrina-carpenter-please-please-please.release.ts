@@ -5,7 +5,7 @@ export const sabrinaCarpenterPleasePleasePlease = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-please-please-please",
   title: "Please Please Please",
-  partOfSlugs: ["sabrina-carpenter"],
+  partOfCollectionSlugs: ["sabrina-carpenter"],
   position: 0,
   ownLength: 6.0304,
   ownProgress: 6.0304,

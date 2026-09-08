@@ -5,7 +5,7 @@ export const sabrinaCarpenterSmokeAndFire = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-smoke-and-fire",
   title: "Smoke and Fire",
-  partOfSlugs: ["sabrina-carpenter"],
+  partOfCollectionSlugs: ["sabrina-carpenter"],
   position: 0,
   ownLength: 3.750167,
   ownProgress: 3.750167,

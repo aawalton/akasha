@@ -5,7 +5,7 @@ export const siaReaper = {
   pageTypeSlug: "release",
   slug: "sia-reaper",
   title: "Reaper",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 3.64155,
   ownProgress: 3.64155,

@@ -5,7 +5,7 @@ export const phoebeBridgersKyoto = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-kyoto",
   title: "Kyoto",
-  partOfSlugs: ["phoebe-bridgers"],
+  partOfCollectionSlugs: ["phoebe-bridgers"],
   position: 0,
   ownLength: 6.743317,
   ownProgress: 6.743317,

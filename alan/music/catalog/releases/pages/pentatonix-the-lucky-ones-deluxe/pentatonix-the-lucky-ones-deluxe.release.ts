@@ -5,7 +5,7 @@ export const pentatonixTheLuckyOnesDeluxe = {
   pageTypeSlug: "release",
   slug: "pentatonix-the-lucky-ones-deluxe",
   title: "The Lucky Ones (Deluxe)",
-  partOfSlugs: ["pentatonix"],
+  partOfCollectionSlugs: ["pentatonix"],
   position: 0,
   ownLength: 58.7959,
   ownProgress: 58.7959,

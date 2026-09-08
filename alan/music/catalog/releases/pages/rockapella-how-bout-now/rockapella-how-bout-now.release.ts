@@ -5,7 +5,7 @@ export const rockapellaHowBoutNow = {
   pageTypeSlug: "release",
   slug: "rockapella-how-bout-now",
   title: "How Bout Now?",
-  partOfSlugs: ["rockapella"],
+  partOfCollectionSlugs: ["rockapella"],
   position: 0,
   ownLength: 3.505433,
   ownProgress: 3.505433,

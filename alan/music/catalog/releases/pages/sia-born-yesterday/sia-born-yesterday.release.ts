@@ -5,7 +5,7 @@ export const siaBornYesterday = {
   pageTypeSlug: "release",
   slug: "sia-born-yesterday",
   title: "Born Yesterday",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 3.308817,
   ownProgress: 3.308817,

@@ -5,7 +5,7 @@ export const rockapellaSmilin = {
   pageTypeSlug: "release",
   slug: "rockapella-smilin",
   title: "Smilin'",
-  partOfSlugs: ["rockapella"],
+  partOfCollectionSlugs: ["rockapella"],
   position: 0,
   ownLength: 39.921217,
   ownProgress: 39.921217,

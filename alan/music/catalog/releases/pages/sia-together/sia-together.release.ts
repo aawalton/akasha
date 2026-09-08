@@ -5,7 +5,7 @@ export const siaTogether = {
   pageTypeSlug: "release",
   slug: "sia-together",
   title: "Together",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 3.420117,
   ownProgress: 3.420117,

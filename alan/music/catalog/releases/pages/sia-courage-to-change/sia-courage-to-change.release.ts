@@ -5,7 +5,7 @@ export const siaCourageToChange = {
   pageTypeSlug: "release",
   slug: "sia-courage-to-change",
   title: "Courage to Change",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 4.8776,
   ownProgress: 4.8776,

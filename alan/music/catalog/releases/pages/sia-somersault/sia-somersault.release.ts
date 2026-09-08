@@ -5,7 +5,7 @@ export const siaSomersault = {
   pageTypeSlug: "release",
   slug: "sia-somersault",
   title: "Somersault",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 15.677767,
   ownProgress: 15.677767,

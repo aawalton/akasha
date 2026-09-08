@@ -5,7 +5,7 @@ export const siaFlames2 = {
   pageTypeSlug: "release",
   slug: "sia-flames-2",
   title: "Flames",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 26.6274,
   ownProgress: 26.6274,

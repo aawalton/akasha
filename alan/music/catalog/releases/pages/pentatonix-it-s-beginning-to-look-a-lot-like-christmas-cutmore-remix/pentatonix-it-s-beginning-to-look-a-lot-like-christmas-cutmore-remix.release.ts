@@ -5,7 +5,7 @@ export const pentatonixItSBeginningToLookALotLikeChristmasCutmoreRemix = {
   pageTypeSlug: "release",
   slug: "pentatonix-it-s-beginning-to-look-a-lot-like-christmas-cutmore-remix",
   title: "It's Beginning To Look A Lot Like Christmas (Cutmore Remix)",
-  partOfSlugs: ["pentatonix"],
+  partOfCollectionSlugs: ["pentatonix"],
   position: 0,
   ownLength: 3.774967,
   ownProgress: 3.774967,

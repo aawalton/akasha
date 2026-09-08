@@ -5,7 +5,7 @@ export const snailMailSpotifySingles = {
   pageTypeSlug: "release",
   slug: "snail-mail-spotify-singles",
   title: "Spotify Singles",
-  partOfSlugs: ["snail-mail"],
+  partOfCollectionSlugs: ["snail-mail"],
   position: 0,
   ownLength: 7.413383,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const sabrinaCarpenterSingularActIi = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-singular-act-ii",
   title: "Singular Act II",
-  partOfSlugs: ["sabrina-carpenter"],
+  partOfCollectionSlugs: ["sabrina-carpenter"],
   position: 0,
   ownLength: 28.878417,
   ownProgress: 28.878417,

@@ -5,7 +5,7 @@ export const siaBeautifulPeople = {
   pageTypeSlug: "release",
   slug: "sia-beautiful-people",
   title: "Beautiful People",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 7.464533,
   ownProgress: 7.464533,

@@ -5,7 +5,7 @@ export const phoebeBridgersGeorgiaLee = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-georgia-lee",
   title: "Georgia Lee",
-  partOfSlugs: ["phoebe-bridgers"],
+  partOfCollectionSlugs: ["phoebe-bridgers"],
   position: 0,
   ownLength: 4.309833,
   ownProgress: 4.309833,

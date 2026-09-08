@@ -5,7 +5,7 @@ export const rockapellaComfortJoy = {
   pageTypeSlug: "release",
   slug: "rockapella-comfort-joy",
   title: "Comfort & Joy",
-  partOfSlugs: ["rockapella"],
+  partOfCollectionSlugs: ["rockapella"],
   position: 0,
   ownLength: 41.28495,
   ownProgress: 41.28495,

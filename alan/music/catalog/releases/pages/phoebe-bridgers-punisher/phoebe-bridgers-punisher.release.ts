@@ -5,7 +5,7 @@ export const phoebeBridgersPunisher = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-punisher",
   title: "Punisher",
-  partOfSlugs: ["phoebe-bridgers"],
+  partOfCollectionSlugs: ["phoebe-bridgers"],
   position: 0,
   ownLength: 40.709083,
   ownProgress: 40.709083,

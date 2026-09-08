@@ -5,7 +5,7 @@ export const siaClapYourHands = {
   pageTypeSlug: "release",
   slug: "sia-clap-your-hands",
   title: "Clap Your Hands",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 14.780867,
   ownProgress: 14.780867,

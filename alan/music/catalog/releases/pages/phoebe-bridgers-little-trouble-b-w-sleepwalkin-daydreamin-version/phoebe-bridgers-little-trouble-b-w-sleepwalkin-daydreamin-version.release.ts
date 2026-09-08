@@ -5,7 +5,7 @@ export const phoebeBridgersLittleTroubleBWSleepwalkinDaydreaminVersion = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-little-trouble-b-w-sleepwalkin-daydreamin-version",
   title: "Little Trouble b/w Sleepwalkin' (Daydreamin' Version)",
-  partOfSlugs: ["phoebe-bridgers"],
+  partOfCollectionSlugs: ["phoebe-bridgers"],
   position: 0,
   ownLength: 6.615767,
   ownProgress: 6.615767,

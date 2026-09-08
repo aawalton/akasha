@@ -5,7 +5,7 @@ export const phoebeBridgersHaveYourselfAMerryLittleChristmas = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-have-yourself-a-merry-little-christmas",
   title: "Have Yourself a Merry Little Christmas",
-  partOfSlugs: ["phoebe-bridgers"],
+  partOfCollectionSlugs: ["phoebe-bridgers"],
   position: 0,
   ownLength: 2.989467,
   ownProgress: 2.989467,

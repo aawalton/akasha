@@ -5,7 +5,7 @@ export const siaSpotifySessions = {
   pageTypeSlug: "release",
   slug: "sia-spotify-sessions",
   title: "Spotify Sessions",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 28.819967,
   ownProgress: 28.819967,

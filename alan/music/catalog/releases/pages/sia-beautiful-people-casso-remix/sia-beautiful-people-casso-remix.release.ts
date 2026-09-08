@@ -5,7 +5,7 @@ export const siaBeautifulPeopleCassoRemix = {
   pageTypeSlug: "release",
   slug: "sia-beautiful-people-casso-remix",
   title: "Beautiful People (Cassö Remix)",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 10.841167,
   ownProgress: 10.841167,

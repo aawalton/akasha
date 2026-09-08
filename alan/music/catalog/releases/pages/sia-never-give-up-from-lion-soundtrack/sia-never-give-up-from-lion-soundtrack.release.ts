@@ -5,7 +5,7 @@ export const siaNeverGiveUpFromLionSoundtrack = {
   pageTypeSlug: "release",
   slug: "sia-never-give-up-from-lion-soundtrack",
   title: 'Never Give Up (From "Lion" Soundtrack)',
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 3.699767,
   ownProgress: 3.699767,

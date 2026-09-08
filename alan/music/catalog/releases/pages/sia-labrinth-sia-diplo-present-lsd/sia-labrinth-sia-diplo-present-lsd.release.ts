@@ -5,7 +5,7 @@ export const siaLabrinthSiaDiploPresentLsd = {
   pageTypeSlug: "release",
   slug: "sia-labrinth-sia-diplo-present-lsd",
   title: "LABRINTH, SIA & DIPLO PRESENT... LSD",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 30.776367,
   ownProgress: 30.776367,

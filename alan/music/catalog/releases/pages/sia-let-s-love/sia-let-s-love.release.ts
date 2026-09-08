@@ -5,7 +5,7 @@ export const siaLetSLove = {
   pageTypeSlug: "release",
   slug: "sia-let-s-love",
   title: "Let's Love",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 3.344083,
   ownProgress: 3.344083,

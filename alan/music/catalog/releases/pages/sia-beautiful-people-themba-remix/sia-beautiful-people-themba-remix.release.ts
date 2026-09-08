@@ -5,7 +5,7 @@ export const siaBeautifulPeopleThembaRemix = {
   pageTypeSlug: "release",
   slug: "sia-beautiful-people-themba-remix",
   title: "Beautiful People (THEMBA Remix)",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 9.290983,
   ownProgress: 9.290983,

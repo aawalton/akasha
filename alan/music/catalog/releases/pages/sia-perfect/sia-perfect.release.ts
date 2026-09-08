@@ -5,7 +5,7 @@ export const siaPerfect = {
   pageTypeSlug: "release",
   slug: "sia-perfect",
   title: "Perfect",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 11.063833,
   ownProgress: 11.063833,

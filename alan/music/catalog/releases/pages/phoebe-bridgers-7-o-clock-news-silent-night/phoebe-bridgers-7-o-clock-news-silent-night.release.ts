@@ -5,7 +5,7 @@ export const phoebeBridgers7OClockNewsSilentNight = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-7-o-clock-news-silent-night",
   title: "7 O'Clock News / Silent Night",
-  partOfSlugs: ["phoebe-bridgers"],
+  partOfCollectionSlugs: ["phoebe-bridgers"],
   position: 0,
   ownLength: 2.0071,
   ownProgress: 2.0071,

@@ -5,7 +5,7 @@ export const rockapellaLetItBe = {
   pageTypeSlug: "release",
   slug: "rockapella-let-it-be",
   title: "Let It Be",
-  partOfSlugs: ["rockapella"],
+  partOfCollectionSlugs: ["rockapella"],
   position: 0,
   ownLength: 3.451867,
   ownProgress: 3.451867,

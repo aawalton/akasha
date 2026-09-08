@@ -5,7 +5,7 @@ export const phoebeBridgersKyotoTheMariasRemix = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-kyoto-the-marias-remix",
   title: "Kyoto (The Marías Remix)",
-  partOfSlugs: ["phoebe-bridgers"],
+  partOfCollectionSlugs: ["phoebe-bridgers"],
   position: 0,
   ownLength: 3.638217,
   ownProgress: 3.638217,

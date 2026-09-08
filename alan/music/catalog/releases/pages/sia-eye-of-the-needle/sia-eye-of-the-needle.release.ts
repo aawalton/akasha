@@ -5,7 +5,7 @@ export const siaEyeOfTheNeedle = {
   pageTypeSlug: "release",
   slug: "sia-eye-of-the-needle",
   title: "Eye of the Needle",
-  partOfSlugs: ["sia"],
+  partOfCollectionSlugs: ["sia"],
   position: 0,
   ownLength: 4.15755,
   ownProgress: 4.15755,

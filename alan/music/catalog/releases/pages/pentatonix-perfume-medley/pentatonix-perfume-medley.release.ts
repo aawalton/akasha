@@ -5,7 +5,7 @@ export const pentatonixPerfumeMedley = {
   pageTypeSlug: "release",
   slug: "pentatonix-perfume-medley",
   title: "Perfume Medley",
-  partOfSlugs: ["pentatonix"],
+  partOfCollectionSlugs: ["pentatonix"],
   position: 0,
   ownLength: 2.21955,
   ownProgress: 2.21955,

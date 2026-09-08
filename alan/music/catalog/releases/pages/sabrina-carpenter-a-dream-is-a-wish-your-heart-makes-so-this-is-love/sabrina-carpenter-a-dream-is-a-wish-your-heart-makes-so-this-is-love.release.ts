@@ -5,7 +5,7 @@ export const sabrinaCarpenterADreamIsAWishYourHeartMakesSoThisIsLove = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-a-dream-is-a-wish-your-heart-makes-so-this-is-love",
   title: "A Dream Is a Wish Your Heart Makes/So This Is Love",
-  partOfSlugs: ["sabrina-carpenter"],
+  partOfCollectionSlugs: ["sabrina-carpenter"],
   position: 0,
   ownLength: 2.49955,
   ownProgress: 2.49955,
