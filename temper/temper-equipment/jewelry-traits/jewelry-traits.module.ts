@@ -13,7 +13,7 @@ export const jewelryTraits = {
     },
     {
       invariantKind: "constraint",
-      statement: "A trait's place in this table is the index a build hash carries.",
+      statement: "A trait's place in this table is the index a build hash has.",
     },
   ],
 } as const satisfies Module

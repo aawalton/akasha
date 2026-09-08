@@ -9,7 +9,7 @@ export const jewelrySlots = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A jewelry slot's place in this table is the index a build hash carries.",
+      statement: "A jewelry slot's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

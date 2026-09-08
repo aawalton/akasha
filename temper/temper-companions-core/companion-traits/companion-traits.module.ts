@@ -19,7 +19,7 @@ export const companionTraits = {
     },
     {
       invariantKind: "gap",
-      statement: "The generator reads a field the trait pages no longer carry.",
+      statement: "The generator reads a field the trait pages no longer have.",
     },
     {
       invariantKind: "gap",
@@ -27,7 +27,7 @@ export const companionTraits = {
     },
     {
       invariantKind: "constraint",
-      statement: "A trait's place in this table is the index a build hash carries.",
+      statement: "A trait's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

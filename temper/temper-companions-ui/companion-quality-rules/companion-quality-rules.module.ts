@@ -9,7 +9,7 @@ export const companionQualityRules = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A quality that is no quality is drawn muted and carries no text class.",
+      statement: "A quality that is no quality is drawn muted and has no text class.",
     },
   ],
 } as const satisfies Module

@@ -14,7 +14,7 @@ export const esoDocTokens = {
     },
     {
       invariantKind: "departure",
-      statement: "A section heading the dump does not carry leaves that section empty.",
+      statement: "A section heading the dump does not have leaves that section empty.",
     },
     {
       invariantKind: "departure",

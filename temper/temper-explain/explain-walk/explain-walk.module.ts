@@ -18,7 +18,7 @@ export const explainWalk = {
     },
     {
       invariantKind: "departure",
-      statement: "A field carrying nothing is written as the empty string.",
+      statement: "A field with nothing is written as the empty string.",
     },
     {
       invariantKind: "departure",

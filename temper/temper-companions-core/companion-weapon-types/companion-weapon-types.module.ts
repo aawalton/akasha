@@ -13,7 +13,7 @@ export const companionWeaponTypes = {
     },
     {
       invariantKind: "constraint",
-      statement: "A weapon type's place in this table is the index a build hash carries.",
+      statement: "A weapon type's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

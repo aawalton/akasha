@@ -13,7 +13,7 @@ export const companions = {
     },
     {
       invariantKind: "constraint",
-      statement: "A companion's place in this table is the index a build hash carries.",
+      statement: "A companion's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

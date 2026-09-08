@@ -13,7 +13,7 @@ export const setIds = {
     },
     {
       invariantKind: "constraint",
-      statement: "This union names exactly the set keys the set pages carry.",
+      statement: "This union names exactly the set keys the set pages have.",
     },
     {
       invariantKind: "constraint",

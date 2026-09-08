@@ -18,8 +18,7 @@ export const errorsTriageGather = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An addon folder carrying no readable build id is remembered as carrying no build id.",
+      statement: "An addon folder with no readable build id is remembered as carrying no build id.",
     },
     {
       invariantKind: "departure",

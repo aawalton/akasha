@@ -13,7 +13,7 @@ export const errorsAddonTraceback = {
     },
     {
       invariantKind: "departure",
-      statement: "An error carrying no visible text is recorded under a sentinel message.",
+      statement: "An error with no visible text is recorded under a sentinel message.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const errorsAddonTraceback = {
     },
     {
       invariantKind: "departure",
-      statement: "A sentinel message carries the listener's own callstack for want of the origin.",
+      statement: "A sentinel message has the listener's own callstack for want of the origin.",
     },
   ],
 } as const satisfies Module

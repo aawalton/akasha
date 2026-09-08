@@ -22,7 +22,7 @@ export const nextBossEvents = {
     },
     {
       invariantKind: "departure",
-      statement: "A kill shared with the group carries the district rather than the boss.",
+      statement: "A kill shared with the group has the district rather than the boss.",
     },
     {
       invariantKind: "constraint",

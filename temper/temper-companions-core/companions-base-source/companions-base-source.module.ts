@@ -13,7 +13,7 @@ export const companionsBaseSource = {
     },
     {
       invariantKind: "constraint",
-      statement: "The single entry companion-base-stats carries every base metric effect.",
+      statement: "The single entry companion-base-stats has every base metric effect.",
     },
   ],
 } as const satisfies Module

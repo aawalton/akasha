@@ -9,7 +9,7 @@ export const armorSlots = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "An armor slot's place in this table is the index a build hash carries.",
+      statement: "An armor slot's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",
