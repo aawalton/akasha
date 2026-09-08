@@ -1,3 +1,4 @@
+import { partedIn } from "@akasha/pages/page-file-name"
 import { kindsUnder } from "@akasha/pages/page-type-descent"
 import {
   type Carried,
@@ -49,6 +50,7 @@ import {
   slugsOfType,
   typeSlugById,
   typeSlugOf,
+  valuesByPath,
 } from "../reading/index-reading.module.code.ts"
 import type { Schema as Filed, Reading } from "../shape/index-shape.module.code.ts"
 
@@ -91,6 +93,7 @@ export type Answering = {
   ) => readonly string[]
   readonly namersOf: (id: string, indexName?: string) => readonly Named[]
   readonly pageAt: (pageTypeSlug: string, slug: string) => Value | null
+  readonly pageByPath: (path: string) => Value | null
   readonly pageTypesIn: () => ReadonlySet<string>
   readonly propertiesOf: (pageTypeSlug: string) => readonly Carried[]
   readonly propertiesIfNamed: (pageTypeSlug: string) => readonly Carried[] | null
@@ -112,7 +115,19 @@ function heldOnce<T>(asked: () => T): () => T {
   }
 }
 
+function heldEach<T>(asked: (said: string) => T): (said: string) => T {
+  const held = new Map<string, T>()
+  return (said) => {
+    const found = held.get(said)
+    if (found !== undefined) return found
+    const made = asked(said)
+    held.set(said, made)
+    return made
+  }
+}
+
 export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
+  const valued = heldEach((pageTypeSlug: string) => valuesByPath(reading, pageTypeSlug))
   return {
     carriedIn: (value, declaredBy) => carriedIn(value, reading, declaredBy),
     carryingOf: (named) => carryingOf(reading, named),
@@ -139,6 +154,10 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     manifestsBeside: (fileProperties) => manifestsBeside(reading, fileProperties),
     namersOf: (id, indexName) => namersOf(reading, id, indexName),
     pageAt: (pageTypeSlug, slug) => pageAt(reading, pageTypeSlug, slug, pageOf),
+    pageByPath: (path) => {
+      const said = partedIn(path)
+      return said === null ? null : (valued(said.pageType).get(path) ?? null)
+    },
     pageTypesIn: heldOnce(() => pageTypesIn(reading)),
     propertiesOf: (pageTypeSlug) => propertiesOf(pageTypeSlug, reading, pageOf),
     propertiesIfNamed: (pageTypeSlug) => propertiesIfNamedOf(pageTypeSlug, reading, pageOf),

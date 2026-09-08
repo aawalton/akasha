@@ -310,6 +310,15 @@ export function valuesOfType(given: string | Reading, pageTypeSlug: string): rea
   )
 }
 
+export function valuesByPath(
+  given: string | Reading,
+  pageTypeSlug: string
+): ReadonlyMap<string, Value> {
+  const found = new Map<string, Value>()
+  for (const one of valuesOfType(given, pageTypeSlug)) found.set(one.path, one.value)
+  return found
+}
+
 export function slugsOfType(given: string | Reading, pageTypeSlug: string): readonly string[] {
   return answered(given, ROOT, `which slugs the \`${pageTypeSlug}\` pages carry`, (reading) => {
     const found = new Set<string>()

@@ -9,7 +9,7 @@ export type Read = { readonly known: Shaped; readonly value: Value } | { readonl
 export function pageIn(world: World, at: string): Value | null {
   const said = partedIn(at)
   if (said === null || said.sections.length > 0) return null
-  return world.index.pageAt(said.pageType, said.slug)
+  return world.index.pageByPath(at)
 }
 
 export function namersIn(world: World, at: string, propertySlug: string): readonly Named[] {

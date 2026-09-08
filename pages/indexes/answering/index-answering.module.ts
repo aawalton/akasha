@@ -80,6 +80,11 @@ export const indexAnswering = {
       statement: "A question here taking no arguments is answered once and held.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A question here about the pages of one page type is answered once for that page type and held.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A face is built for one change and lives no longer than that change.",
     },

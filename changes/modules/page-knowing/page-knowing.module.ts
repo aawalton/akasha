@@ -23,6 +23,10 @@ export const pageKnowing = {
     },
     {
       invariantKind: "departure",
+      statement: "A page is read by its path rather than by the slug its name says.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The world is read rather than the disk.",
     },
     {

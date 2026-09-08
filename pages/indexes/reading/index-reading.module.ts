@@ -138,6 +138,10 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The pages of one page type are answered by path as one map.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A line that will not read is left out rather than refusing the rest.",
     },
     {
