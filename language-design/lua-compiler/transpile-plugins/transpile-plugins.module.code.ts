@@ -126,7 +126,7 @@ export function getPlugins(program: ts.Program): {
     pluginsFromOptions.push(plugin)
   }
 
-  if (options.tstlVerbose === true) {
+  if (options.verbose === true) {
     console.log(`Loaded ${pluginsFromOptions.length} plugins`)
   }
 
