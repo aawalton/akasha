@@ -1,8 +1,8 @@
-import type { CoachingConstraint } from "../../coaching-constraint.page-type.ts"
+import type { CoachingNote } from "../../coaching-note.page-type.ts"
 
 export const bilateralHingesAreLowBackLimited = {
   id: "019f01e1-bade-7bc2-9eca-331981f48361",
-  pageTypeSlug: "coaching-constraint",
+  pageTypeSlug: "coaching-note",
   slug: "bilateral-hinges-are-low-back-limited",
   title: "Bilateral hinges are low-back-limited",
   coachingConstraintActive: true,
@@ -10,4 +10,4 @@ export const bilateralHingesAreLowBackLimited = {
   coachingConstraintKind: "programming-cue",
   coachingConstraintSortOrder: 9,
   asks: "txt",
-} as const satisfies CoachingConstraint
+} as const satisfies CoachingNote
