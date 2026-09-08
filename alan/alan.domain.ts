@@ -11,7 +11,6 @@ export const alan = {
     "domain/atlas-app",
     "domain/authoring",
     "domain/car-research",
-    "domain/collections",
     "domain/library",
     "domain/literature",
     "domain/music",
