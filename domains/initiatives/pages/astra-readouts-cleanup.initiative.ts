@@ -15,7 +15,7 @@ export const astraReadoutsCleanup = {
     {
       statement: "The readouts/ folder passes the `folder-matches-a-shape` check.",
       workingMemory:
-        "The check judged 201 files under `readout-system/` and refused two folders. `readout-system` refuses because its subfolder `rings` is no part the package declares, the package declaring `domain/ring`. `readout-system/rings` refuses because it holds four pages rather than one: `budget-ring`, `completion-ring`, `ring` and `stoplight-ring`.",
+        "The check refuses nothing under `readout-system/` now. `rings` became `ring`, the name the domain it holds gives its folder, and `budget-ring`, `completion-ring` and `stoplight-ring` each took a folder of their own beneath it, leaving one page to a folder. This intent waits on the carry to `readouts/` and on nothing else.",
     },
   ],
 } as const satisfies Initiative
