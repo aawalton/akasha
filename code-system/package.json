@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./app-building": "./ios-apps/app-building/app-building.module.code.ts",
+    "./ast-unused-config": "./audit-ast-unused/ast-unused-configs/ast-unused-config.page-type.ts",
     "./body-text": "./body-text/body-text.module.code.ts",
     "./carried-file": "./carried-file/carried-file.module.code.ts",
     "./code-format": "./code-format/code-format.module.code.ts",
