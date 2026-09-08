@@ -129,6 +129,7 @@ export const clusterCheck = {
     "module/bin-mode-violations",
     "module/change-closure",
     "module/check-boundary-parse",
+    "module/check-component-layout",
   ],
   properties: [
     {
