@@ -1,6 +1,6 @@
 import { placedIn } from "@akasha/code/code-specifier"
 import { typed } from "@akasha/code/code-typing"
-import { calledIn, objectIn } from "@akasha/code/package-manifest"
+import { calledIn, DEPENDING, objectIn } from "@akasha/code/package-manifest"
 import { manifestsIn } from "@akasha/indexes/package-reaching"
 import ts from "typescript"
 import {
@@ -26,8 +26,6 @@ const NAME = "name"
 
 const UNDROPPED = "so no alias is dropped"
 
-const HOLDING = ["dependencies", "devDependencies", "peerDependencies", "optionalDependencies"]
-
 export type RemovePackageAliasAsked = {
   readonly at: string
   readonly was: string
@@ -48,7 +46,7 @@ export function aliasedTo(held: ts.ObjectLiteralExpression, was: string, to: str
 export function aliasGoingIn(at: string, text: string, was: string, to: string): readonly Splice[] {
   const source = ts.parseJsonText(at, text)
   const found: Splice[] = []
-  for (const holding of HOLDING) {
+  for (const holding of DEPENDING) {
     const held = objectAt(source, holding)
     if (held === null || !aliasedTo(held, was, to)) continue
     found.push(...entriesGoingIn(at, text, holding, new Set([was])))
