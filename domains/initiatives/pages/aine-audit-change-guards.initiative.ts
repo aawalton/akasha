@@ -10,7 +10,7 @@ export const aineAuditChangeGuards = {
     {
       statement: "Every sensible combination of mode, type and subtype has a mechanical change.",
       workingMemory:
-        "The mechanical changes cover a grid of 5 modes by 3 target types, each type taking its own subtypes: file takes file, file-code, file-page, file-page-type, file-page-property; file-content takes code, page-property, page-property-prose, manifest; folder takes folder, folder-package. Only file/add is filled. file/move holds move-file alone, which nothing reaches. file/rename holds rename-path, which carries a file rather than renaming a concept. folder holds remove-page-type alone.",
+        "file takes file, file-code, file-page, file-page-type, file-page-property; file-content takes code, page-property, page-property-prose, manifest; folder takes folder, folder-package. Only add is filled, four deep. move holds move-file, which five changes reach and none layers over. rename holds rename-path, which is move-file plus change-imports, so it is move's file-code rung misnamed. move-page, move-folder, move-folder-batch and change-page-page-type redo that by hand where no guard sits.",
     },
     {
       statement:
