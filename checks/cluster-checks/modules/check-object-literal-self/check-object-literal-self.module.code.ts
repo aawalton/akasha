@@ -21,7 +21,7 @@ import { exitOnResult } from "../violation-reporting/violation-reporting.module.
 
 if (import.meta.main) refuseRetired()
 
-const PREFIX = "[tstl-object-literal-self]"
+const PREFIX = "[object-literal-self]"
 
 function topLevelGroup(filePath: string): string {
   const segs = filePath.split("/")
