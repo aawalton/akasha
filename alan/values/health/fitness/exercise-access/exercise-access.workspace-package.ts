@@ -14,7 +14,6 @@ export const exerciseAccess = {
     "module/free-exercise-row",
     "module/mobility-derive",
     "module/selection-features",
-    "module/session-derive",
     "module/set-history",
     "module/set-target",
   ],
