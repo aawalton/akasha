@@ -64,6 +64,7 @@ export type Spent = {
   readonly path: string
   readonly cpuSeconds: number
   readonly signal: string | null
+  readonly code: number
 }
 
 export type Summary = {
@@ -259,7 +260,12 @@ export function spentIn(
     for (const one of group.named) {
       const at = serving?.standing.get(one) ?? one
       const done = runsIn(root, [RUNNER, RUNS, ...serves, ...preloading, ...naming, at], ceiling)
-      found.push({ path: one, cpuSeconds: done.cpuSeconds, signal: done.signal })
+      found.push({
+        path: one,
+        cpuSeconds: done.cpuSeconds,
+        signal: done.signal,
+        code: done.code,
+      })
     }
   }
   return found

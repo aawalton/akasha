@@ -102,6 +102,14 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
+      statement: "A file whose measured run came back unclean is said to be unclean.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No measuring run says whether the tests passed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The whole output of the run is carried in the refusal.",
     },
     {

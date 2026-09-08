@@ -61,7 +61,11 @@ const SHOWN = 1
 
 export function spentlyOf(spent: readonly Spent[]): string {
   const held = spent
-    .map((one) => `${one.path} spent ${one.cpuSeconds.toFixed(SHOWN)} processor seconds`)
+    .map((one) => {
+      const said = `${one.path} spent ${one.cpuSeconds.toFixed(SHOWN)} processor seconds`
+      if (one.code === 0 && one.signal === null) return said
+      return `${said}, and did not come back clean, so read that file's seconds as nothing`
+    })
     .join("\n")
   return (
     `every test file this change names ran on its own with no ceiling:\n${held}\n\n` +
