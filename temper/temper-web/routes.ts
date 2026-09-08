@@ -11,7 +11,7 @@ const PAGE_ROUTES: RouteConfig = [
       "routes/temper-user-completion/temper-user-completion.route.code.tsx"
     ),
     route("import", "routes/data-import/data-import.route.code.tsx"),
-    route("inventory", "routes/inventory.tsx"),
+    route("inventory", "routes/inventory/inventory.route.code.tsx"),
     route("keyboard-shortcuts", "routes/keyboard-shortcuts.tsx"),
     route("methodology", "routes/methodology.tsx"),
     route("settings", "routes/settings.tsx"),

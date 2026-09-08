@@ -354,5 +354,6 @@ export const temperWeb = {
     "route/completion",
     "route/home",
     "route/data-import",
+    "route/inventory",
   ],
 } as const satisfies RouterApp
