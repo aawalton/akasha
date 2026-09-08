@@ -5,7 +5,7 @@ export const awenPageFoldersByIndex = {
   pageTypeSlug: "initiative",
   slug: "awen-page-folders-by-index",
   domainSlug: "workspace-package/page",
-  personaSlug: "amy",
+  personaSlug: "awen",
   constraints: ["Start this only once the day model is one page type."],
   intents: [
     {
