@@ -36,7 +36,7 @@ interface Declaration {
   readonly pagePropertySlug: string
   readonly required?: boolean
   readonly many?: boolean
-  readonly max?: number | null
+  readonly maxCount?: number | null
 }
 
 interface Held {
@@ -59,12 +59,12 @@ function declarationsIn(value: Value): readonly Declaration[] {
     const said = one as Record<string, unknown>
     const named = said["pagePropertySlug"]
     if (typeof named !== "string") continue
-    const bound = said["max"]
+    const bound = said["maxCount"]
     found.push({
       pagePropertySlug: named,
       required: said["required"] === true,
       many: said["many"] === true,
-      max: typeof bound === "number" ? bound : null,
+      maxCount: typeof bound === "number" ? bound : null,
     })
   }
   return found
@@ -126,7 +126,8 @@ function typeOf(one: Held, said: Declaration): string {
       : format !== null
         ? `${baseOf(one.kind)}(${format})`
         : baseOf(one.kind)
-  const bound = said.max === undefined || said.max === null ? "" : `, max ${said.max}`
+  const bound =
+    said.maxCount === undefined || said.maxCount === null ? "" : `, max ${said.maxCount}`
   const listed = said.many === true ? `list(${inner}${bound})` : inner
   return said.required === true ? listed : `${listed} | none`
 }
