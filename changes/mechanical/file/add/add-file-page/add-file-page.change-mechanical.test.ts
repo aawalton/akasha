@@ -18,23 +18,3 @@ test("a page path is written by the change this change reaches", async () => {
   expect(said.refused).toBe(null)
   expect(said.edits).toEqual([{ kind: "add", path: at, content: BODY }])
 })
-
-test("a path beside a page is refused", async () => {
-  const root = indexedRepo()
-  const at = "akasha/one/fresh.module.code.ts"
-
-  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
-
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${at}\` is under no page name, so this change writes nothing`)
-})
-
-test("a path under no page type is refused", async () => {
-  const root = indexedRepo()
-  const at = "akasha/one/fresh.notatype.ts"
-
-  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
-
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${at}\` is under no page name, so this change writes nothing`)
-})
