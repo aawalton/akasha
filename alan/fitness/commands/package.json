@@ -13,7 +13,6 @@
     "@akasha/indexes": "workspace:*",
     "@akasha/named-for": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/pages-service": "workspace:*",
-    "@akasha/session-planning": "workspace:*"
+    "@akasha/pages-service": "workspace:*"
   }
 }

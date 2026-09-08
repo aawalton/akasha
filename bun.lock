@@ -173,7 +173,6 @@
         "@akasha/named-for": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-service": "workspace:*",
-        "@akasha/session-planning": "workspace:*",
       },
     },
     "alan/fitness/exercise-access": {
