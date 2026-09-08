@@ -78,6 +78,18 @@ export const codeTests = {
       statement: "The seconds answered for such a file are the seconds before the kernel ended it.",
     },
     {
+      invariantKind: "constraint",
+      statement: "The kernel ends one process rather than that process and its children together.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file spending its seconds in processes it starts is ended by no kernel.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a file is caught by the seconds a run answers rather than by the kernel.",
+    },
+    {
       invariantKind: "departure",
       statement: "The ceiling that judging holds each file to is the caller's to state.",
     },
