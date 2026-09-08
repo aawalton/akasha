@@ -68,7 +68,7 @@ export const theaChecksSystem = {
     {
       statement: "Every file claimed by nothing else is claimed by a page.",
       workingMemory:
-        "Ten files. Four prefixed dockerfile extensions under infrastructure/dockerfiles are delegated, becoming a page per service as SERVICES retires. Five sit beside a page whose type declares no property for them: prose-mechanism-restatement.ratchet.json and verdict-emitter-chokepoint.config.json beside cluster-checks, then territory-map.json, eso-opt-in.json and check-type-assertions-hard-cases.md beside modules. The canary under __fixtures__ is left.",
+        "Four left of ten. The four dockerfile extensions are claimed and are built-image pages. territory-map.json is delegated as 47 pages, being a table rather than a config. The verdict-emitter-chokepoint config is deleted by Alan's call, naming two files that are gone for a check whose own directory is gone, the check left for the ablation. Left: the prose-mechanism-restatement ratchet, eso-opt-in.json, check-type-assertions-hard-cases.md, and the canary under __fixtures__.",
     },
     {
       statement: "Every property file has the page whose property that file is.",
