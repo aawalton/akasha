@@ -19,6 +19,7 @@ import type { NativeShellRepoPath } from "./properties/native-shell-repo-path.te
 import type { ProgramSlugs } from "./properties/program-slugs.relation-property.ts"
 import type { SpaSourcePath } from "./properties/spa-source-path.text-property.ts"
 import type { StageScript } from "./properties/stage-script.relation-property.ts"
+import type { WebDirectory } from "./properties/web-directory.build-folder-property.ts"
 import type { WebEntry } from "./properties/web-entry.file-property.ts"
 import type { WebEnvPath } from "./properties/web-env-path.text-property.ts"
 import type { WidgetBundleId } from "./properties/widget-bundle-id.text-property.ts"
@@ -48,6 +49,7 @@ export type IosApp = WorkspacePackage & {
   webEnvPath?: WebEnvPath
   widgetBundleId?: WidgetBundleId
   widgetProfileName?: WidgetProfileName
+  webDirectory?: WebDirectory
 }
 
 export const iosApp = {
@@ -90,6 +92,7 @@ export const iosApp = {
     "text-property/web-env-path",
     "text-property/widget-bundle-id",
     "text-property/widget-profile-name",
+    "build-folder-property/web-directory",
   ],
   extendsSlug: ["page-type/workspace-package"],
   properties: [
@@ -126,6 +129,7 @@ export const iosApp = {
     { pagePropertySlug: "text-property/web-env-path", required: false, many: false },
     { pagePropertySlug: "text-property/widget-bundle-id", required: false, many: false },
     { pagePropertySlug: "text-property/widget-profile-name", required: false, many: false },
+    { pagePropertySlug: "build-folder-property/web-directory", required: false, many: false },
   ],
   invariants: [
     {
