@@ -58,6 +58,26 @@ test("text that parses as no record is refused before the body is read", () => {
   expect(refusalOf(said)).toContain("parses as no record")
 })
 
+test("a key spelled with quotes it does not need is refused", () => {
+  const { said } = answering(HOLDING, `{ "pagePropertySlug": "text-property/name" }`)
+  expect(refusalOf(said)).toContain("is quoted")
+})
+
+test("a key under a key spelled with quotes it does not need is refused", () => {
+  const { said } = answering(HOLDING, `{ frame: { "loadScroll": "end" } }`)
+  expect(refusalOf(said)).toContain("`loadScroll` is quoted")
+})
+
+test("a key inside a list spelled with quotes it does not need is refused", () => {
+  const { said } = answering(HOLDING, `{ held: [{ "loadScroll": "end" }] }`)
+  expect(refusalOf(said)).toContain("`loadScroll` is quoted")
+})
+
+test("a key no bare spelling reaches keeps its quotes", () => {
+  const { world, said } = answering(HOLDING, `{ "text-property/name": true }`)
+  expect(bodyOf(said, world.base)).toContain(`{ "text-property/name": true }`)
+})
+
 test("a record trailing anything beyond itself parses as no record", () => {
   expect(recordIn(`${NAME} and more`)).toBe(null)
 })

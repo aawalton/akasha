@@ -71,5 +71,9 @@ export const addPropertyRecord = {
       statement:
         "A list written on one line gains its record on that line rather than on a line of its own.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A record spelling a key with quotes that key does not need is refused.",
+    },
   ],
 } as const satisfies ChangeMechanicalFileContent

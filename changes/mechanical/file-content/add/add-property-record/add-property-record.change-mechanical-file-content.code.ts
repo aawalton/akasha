@@ -28,6 +28,28 @@ export function recordIn(record: string): ts.ObjectLiteralExpression | null {
   return one.getEnd() === source.text.length ? one : null
 }
 
+const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+
+export function quotedKeyIn(one: ts.ObjectLiteralExpression): string | null {
+  for (const each of one.properties) {
+    if (!ts.isPropertyAssignment(each)) continue
+    const name = each.name
+    if (ts.isStringLiteral(name) && BARE.test(name.text)) {
+      return name.text
+    }
+    const under = ts.isObjectLiteralExpression(each.initializer)
+      ? [each.initializer]
+      : ts.isArrayLiteralExpression(each.initializer)
+        ? each.initializer.elements.filter((held) => ts.isObjectLiteralExpression(held))
+        : []
+    for (const held of under) {
+      const found = quotedKeyIn(held as ts.ObjectLiteralExpression)
+      if (found !== null) return found
+    }
+  }
+  return null
+}
+
 export function withRecord(
   text: string,
   source: ts.SourceFile,
@@ -48,8 +70,13 @@ export function withRecord(
 
 export function addPropertyRecord(world: World, given: AddPropertyRecordAsked): Said {
   const record = given.record.trim()
-  if (recordIn(record) === null) {
+  const read = recordIn(record)
+  if (read === null) {
     return refusing(`\`${record}\` parses as no record, so nothing is put in`)
+  }
+  const quoted = quotedKeyIn(read)
+  if (quoted !== null) {
+    return refusing(`\`${quoted}\` is quoted, and a page spells a key needing no quotes bare`)
   }
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
