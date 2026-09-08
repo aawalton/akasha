@@ -10,7 +10,7 @@ export const talos = {
     "module/talos-build-patch",
     "module/talos-build-schematic",
     "module/talos-build-volumes",
-    "module/talos-emit-yaml",
+    "module/emit-yaml",
     "module/factory",
     "module/talos-kubectl",
     "module/nodes",

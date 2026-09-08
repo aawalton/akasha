@@ -6,7 +6,7 @@
     "./talos-build-patch": "./talos-build-patch/talos-build-patch.module.code.ts",
     "./talos-build-schematic": "./talos-build-schematic/talos-build-schematic.module.code.ts",
     "./talos-build-volumes": "./talos-build-volumes/talos-build-volumes.module.code.ts",
-    "./talos-emit-yaml": "./talos-emit-yaml/talos-emit-yaml.module.code.ts",
+    "./emit-yaml": "./emit-yaml/emit-yaml.module.code.ts",
     "./factory": "./factory/factory.module.code.ts",
     "./nodes": "./nodes/nodes.module.code.ts",
     "./paths": "./paths/paths.module.code.ts",
