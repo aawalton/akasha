@@ -256,8 +256,13 @@ function alreadyPeeked(kept: Kept, said: Answer): Made | null {
 
 export function addedTo(ledger: Ledger, said: Answer): Ledger {
   const kept = ledger.kept
+  const landing = alreadyPeeked(kept, said)
+  kept.peeked = null
   const fresh = said.edits.filter((one) => !kept.held.has(one))
-  if (fresh.length === 0) return ledger
+  if (fresh.length === 0) {
+    if (landing !== null) kept.index = landedIn(kept, kept.fresh, landing).index
+    return ledger
+  }
   const adding: Answer = { edits: fresh, refused: null }
   const over = gathered([kept.over, adding])
   if (over.refused !== null) throw new Error(over.refused)
@@ -265,8 +270,6 @@ export function addedTo(ledger: Ledger, said: Answer): Ledger {
   if (settling.refused !== null) throw new Error(settling.refused)
   const bodies = replayed(adding, ledger.textOf)
   if ("refused" in bodies) throw new Error(bodies.refused)
-  const landing = alreadyPeeked(kept, said)
-  kept.peeked = null
   for (const [path, body] of bodies) kept.bodies.set(path, body)
   for (const one of fresh) kept.held.add(one)
   kept.over = over
