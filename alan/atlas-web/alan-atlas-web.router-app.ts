@@ -17,6 +17,7 @@ export const alanAtlasWeb = {
   server: "ts",
   sidebarBoot: "js",
   gitIgnore: "gitignore",
+  routeTypesDirectory: true,
   partSlugs: [
     "manifest/alanwalton-atlas",
     "stylesheet/alan-atlas-web-look",

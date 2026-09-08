@@ -12,6 +12,7 @@ export const alanWebCapacitor = {
   routerConfig: "ts",
   compileConfig: "json",
   viteConfig: "ts",
+  routeTypesDirectory: true,
   partSlugs: ["route/alan-web-capacitor-home", "stylesheet/alan-web-capacitor-look"],
   invariants: [
     {

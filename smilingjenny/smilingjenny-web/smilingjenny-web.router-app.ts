@@ -15,6 +15,7 @@ export const smilingjennyWeb = {
   viteConfig: "ts",
   server: "ts",
   gitIgnore: "gitignore",
+  routeTypesDirectory: true,
   partSlugs: [
     "manifest/smilingjenny-web-manifests",
     "stylesheet/smilingjenny-web-look",

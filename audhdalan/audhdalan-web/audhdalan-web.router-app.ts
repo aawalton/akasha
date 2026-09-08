@@ -15,6 +15,7 @@ export const audhdalanWeb = {
   viteConfig: "ts",
   server: "ts",
   gitIgnore: "gitignore",
+  routeTypesDirectory: true,
   partSlugs: [
     "manifest/audhdalan-web-manifests",
     "stylesheet/audhdalan-web-look",

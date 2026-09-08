@@ -20,6 +20,7 @@ export const temperWeb = {
   placeholderImage: "svg",
   gitIgnore: "gitignore",
   testPreload: "toml",
+  routeTypesDirectory: true,
   partSlugs: [
     "manifest/temper-web-manifests",
     "stylesheet/temper-web-look",
