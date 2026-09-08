@@ -27,6 +27,22 @@ export const jsonEntries = {
     },
     {
       invariantKind: "departure",
+      statement: "The text answered is the one the named key holds where that key holds a string.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key holding anything but a string answers no text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The body's own top-level object is answered apart from any key it holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key of the top-level object is dropped the way an entry under a key is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An entry goes with the space before it back to where the entry before it ended.",
     },
     {

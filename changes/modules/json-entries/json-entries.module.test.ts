@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
 import ts from "typescript"
-import { entriesGoingIn, objectAt } from "./json-entries.module.code.ts"
+import {
+  entriesGoingIn,
+  keysGoingIn,
+  objectAt,
+  objectOf,
+  textAt,
+} from "./json-entries.module.code.ts"
 
 const AT = "held/package.json"
 
@@ -134,4 +140,35 @@ test("an entry the caller does not name is left where that entry is", () => {
 
 test("a key holding no object is dropped from nowhere", () => {
   expect(entriesGoingIn(AT, FLAT, "exports", new Set(["./one"]))).toEqual([])
+})
+
+test("the text answered is the one the named key holds", () => {
+  expect(textAt(ts.parseJsonText(AT, FLAT), "exports")).toBe("./one.ts")
+  expect(textAt(ts.parseJsonText(AT, BODY), "name")).toBe("@akasha/held")
+})
+
+test("a key holding anything but a string answers no text", () => {
+  expect(textAt(ts.parseJsonText(AT, BODY), "exports")).toBeNull()
+  expect(textAt(ts.parseJsonText(AT, BODY), "nothing")).toBeNull()
+  expect(textAt(ts.parseJsonText(AT, "[1, 2]\n"), "exports")).toBeNull()
+})
+
+test("the body's own top-level object is answered apart from any key it holds", () => {
+  expect(objectOf(ts.parseJsonText(AT, BODY))?.properties.length).toBe(2)
+  expect(objectOf(ts.parseJsonText(AT, "[1, 2]\n"))).toBeNull()
+})
+
+test("a key of the top-level object is dropped the way an entry under a key is", () => {
+  const spans = keysGoingIn(AT, BODY, new Set(["exports"]))
+  let said = BODY
+  for (const one of [...spans].sort((here, there) => there.from - here.from)) {
+    said = said.slice(0, one.from) + one.put + said.slice(one.to)
+  }
+
+  expect(JSON.parse(said)).toEqual({ name: "@akasha/held" })
+})
+
+test("a key the top-level object does not hold is dropped from nowhere", () => {
+  expect(keysGoingIn(AT, BODY, new Set(["nothing"]))).toEqual([])
+  expect(keysGoingIn(AT, "[1, 2]\n", new Set(["exports"]))).toEqual([])
 })
