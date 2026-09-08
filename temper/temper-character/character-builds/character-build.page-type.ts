@@ -1,4 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
+import type { CharacterRoles } from "../account-characters/properties/character-roles.relation-property.ts"
 import type { BuildHash } from "../build-versions/properties/build-hash.text-property.ts"
 import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
 import type { BuildCorrelationId } from "./properties/build-correlation-id.text-property.ts"
@@ -10,6 +11,7 @@ export type CharacterBuild = TemperCharacterThing & {
   visibility: BuildVisibility
   correlationId?: BuildCorrelationId
   targetCount?: BuildTargetCount
+  roles?: readonly CharacterRoles[]
 }
 
 export const characterBuild = {
@@ -29,6 +31,12 @@ export const characterBuild = {
     { pagePropertySlug: "select-property/build-visibility", required: true, many: false },
     { pagePropertySlug: "text-property/build-correlation-id", required: false, many: false },
     { pagePropertySlug: "number-property/build-target-count", required: false, many: false },
+    {
+      pagePropertySlug: "relation-property/character-roles",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   invariants: [
     {
