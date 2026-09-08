@@ -71,5 +71,6 @@ export const dallaDraftIntoAPatch = {
     "A mechanical change is landed by a change page rather than by the command that page replaces.",
     "A change page takes no dry run.",
     "The edits a draft keeps are the dry run.",
+    "An intent reaching `subagent-presence` waits: its test file costs more than a test file may, so every change carrying it is refused.",
   ],
 } as const satisfies Initiative
