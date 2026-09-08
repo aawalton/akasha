@@ -18,6 +18,7 @@ export const temperWeb = {
   addonBundleImage: "ts",
   sidebarBoot: "js",
   placeholderImage: "svg",
+  gitIgnore: "gitignore",
   partSlugs: [
     "manifest/temper-web-manifests",
     "stylesheet/temper-web-look",
