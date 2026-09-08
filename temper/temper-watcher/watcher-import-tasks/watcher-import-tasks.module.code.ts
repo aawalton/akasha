@@ -189,6 +189,20 @@ export async function readTaskPages(
   )
 }
 
+async function refreshedOrSaid(
+  userId: string,
+  tasks: readonly TaskPage[],
+  seams: ReadySeams
+): Promise<number> {
+  try {
+    return await seams.refreshProgress(userId, tasks.map(taskFactsOf), { report: seams.report })
+  } catch (why) {
+    const said = why instanceof Error ? why.message : String(why)
+    seams.reportError(`Task import: the progress was not recomputed — ${said}`)
+    return 0
+  }
+}
+
 export function taskFactsOf(task: TaskPage): TaskFacts {
   const card = asText(task.completionCardId)
   if (card === undefined) return { slug: task.slug }
@@ -359,9 +373,7 @@ export async function runImportTasks(
     seams
   )
 
-  const refreshed = await seams.refreshProgress(userId, tasks.map(taskFactsOf), {
-    report: seams.report,
-  })
+  const refreshed = await refreshedOrSaid(userId, tasks, seams)
 
   seams.report(
     `Task import: ${completed} completed, ${cleared} cleared, ${sweptForever} swept, ${skipped} skipped, ${rolled} rolled, ${refreshed} progress file(s) landed.`

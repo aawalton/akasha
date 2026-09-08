@@ -102,5 +102,9 @@ export const watcherImportTasks = {
       invariantKind: "departure",
       statement: "A roll the store refuses skips that task rather than stopping the import.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A recomputation that fails is reported rather than stopping the import.",
+    },
   ],
 } as const satisfies Module
