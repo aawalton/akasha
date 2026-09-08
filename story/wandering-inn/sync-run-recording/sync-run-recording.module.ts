@@ -38,6 +38,10 @@ export const syncRunRecording = {
         "A record that will not land is said on the console rather than failing the sync it records.",
     },
     {
+      invariantKind: "departure",
+      statement: "The change adding a file lands the record rather than an edit composed here.",
+    },
+    {
       invariantKind: "gap",
       statement: "Run recording is reached by the wandering inn sync alone.",
     },

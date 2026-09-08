@@ -1,5 +1,4 @@
-import { landedMechanically } from "@akasha/command-system/asking"
-import type { FileEdit } from "@akasha/command-system/landing"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { listedAt } from "@akasha/indexes"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { entriesAt } from "@akasha/pages/page-entries"
@@ -9,7 +8,7 @@ import type { Value } from "@akasha/pages/page-value"
 const SYNC_PAGE_TYPE = "sync"
 const SYNC_RUNS = "sync-runs"
 const JSONL = "jsonl"
-const CALLED_AS = "sync-run-tracker"
+const PUT = "change-mechanical-file/add-file"
 
 const RUNNING = "running"
 const FAILED = "failed"
@@ -18,7 +17,6 @@ const SUCCESS = "success"
 const STALE_AFTER_MS = 7 * 60 * 60 * 1000
 const MESSAGE_CEILING = 500
 const NEWLINE = "\n"
-const BYTES = new TextEncoder()
 
 export interface RunCounts {
   readonly created: number
@@ -66,9 +64,9 @@ async function landed(
   }
   let text = ""
   for (const one of runs) text += `${JSON.stringify(one)}${NEWLINE}`
-  const changes: readonly FileEdit[] = [{ path: at, body: BYTES.encode(text) }]
-  const answer = await landedMechanically(root, CALLED_AS, changes, message)
-  if (answer.code !== 0) said(`the run record did not land: ${answer.refusals.join("; ")}`)
+  const answer = await runMechanicalChange(root, [{ at: PUT, given: { at, body: text } }], message)
+  const wrong = "refusals" in answer ? answer.refusals : answer.wrong
+  if (wrong.length > 0) said(`the run record did not land: ${wrong.join("; ")}`)
 }
 
 function stale(one: Value, startedAtMs: number): boolean {
