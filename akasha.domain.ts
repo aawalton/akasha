@@ -27,7 +27,7 @@ export const akasha = {
     "workspace-package/verdict",
     "workspace-package/seat-system",
     "workspace-package/persona",
-    "domain/role-system",
+    "page-type/role",
     "workspace-package/context",
     "workspace-package/agent",
     "domain/required-reading",
