@@ -1,5 +1,5 @@
 import type { Module } from "../code-system/modules/module.page-type.ts"
-import type { ChangeKindSlug } from "../command-system/commands/properties/change-kind-slug.relation-property.ts"
+import type { ChangeKindSlug } from "../commands/properties/change-kind-slug.relation-property.ts"
 import type { PageType } from "../pages/types/page-type.page-type.ts"
 import type { ReadersOweReading } from "./kinds/properties/readers-owe-reading.boolean-property.ts"
 import type { RunsChecks } from "./kinds/properties/runs-checks.boolean-property.ts"
