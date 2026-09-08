@@ -46,11 +46,6 @@ export const theaChecksSystem = {
         "116 of 155 folders under checks/cluster-checks/modules hold code with no page beside it. The 39 that have one are named among the cluster-check page type's parts, and a new page lands only together with its part slug. Every one of these checks is dead pending Alan's ablation, so the page is plain: slug, definition, code, and test where a test is beside it. No invariants, and no judgement about whether the code should live.",
     },
     {
-      statement: "Every file an app carries beside its routes is claimed by a page.",
-      workingMemory:
-        "Thirteen are claimed: router-app declares server, sidebar-boot, placeholder-image, addon-bundle-image and site-icon, and every app states what it holds. Fourteen more of the same shape were missed by a classifier reading a fixed list of names. Six .gitignore, one per web app. Six tunnel-routes.ts, the property already on workspace-package but not on router-app. Two bunfig.toml, in alan/web and temper-web. Each wants a named file property and a line per app.",
-    },
-    {
       statement: "Every file claimed by nothing else is claimed by a page.",
       workingMemory:
         "Three left of ten. The four dockerfile extensions are claimed as built-image pages. territory-map.json is delegated as 47 pages, being a table rather than a config. eso-opt-in.json is delegated as a page type holding one file property, good enough while Alan cleans Temper up. The verdict-emitter-chokepoint config is deleted, naming two files gone for a check whose directory is gone. Left: the prose-mechanism ratchet, check-type-assertions-hard-cases.md, and the canary under __fixtures__.",
