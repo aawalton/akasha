@@ -104,7 +104,12 @@ export const royalRoadSyncing = {
     {
       invariantKind: "departure",
       statement:
-        "The change adding a file lands each page and each file beside it rather than an edit composed here.",
+        "A file lands through a change named by address rather than through an edit composed here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A restated story whose page already holds that body states no edit rather than refusing the batch.",
     },
     {
       invariantKind: "departure",

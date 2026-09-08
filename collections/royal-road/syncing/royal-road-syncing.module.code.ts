@@ -17,6 +17,7 @@ const STORY_PAGE_TYPE = "story-read"
 const CHAPTER_PAGE_TYPE = "story-chapter-read"
 const SOURCE = "royal-road"
 const PUT = "change-mechanical-file/add-file"
+const RESTATE = "change-mechanical-file/add-if-not-present-file"
 const PROSE = "prose"
 const TXT = "txt"
 const WORDS = "words"
@@ -25,7 +26,7 @@ const REQUEST_DELAY_MS = 1500
 const POSITION_DIGITS = 4
 const BATCH_CEILING = 50
 
-type Put = Extract<Asking, { at: typeof PUT }>
+type Put = Extract<Asking, { at: typeof PUT | typeof RESTATE }>
 
 const TITLE_CEILING = 50
 const SLUG_HOLDS = 100
@@ -268,7 +269,7 @@ export function restatedStory(story: Story, values: Value): Filed {
   }
   return {
     named,
-    changes: [{ at: PUT, given: { at: composed.put.path, body: composed.put.content } }],
+    changes: [{ at: RESTATE, given: { at: composed.put.path, body: composed.put.content } }],
   }
 }
 
