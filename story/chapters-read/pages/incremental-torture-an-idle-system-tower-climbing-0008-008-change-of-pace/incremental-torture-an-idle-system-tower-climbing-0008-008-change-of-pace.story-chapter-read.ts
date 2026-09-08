@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0008008ChangeOfPace = {
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0008-008-change-of-pace",
   title: "008: Change of Pace",
-  partOfSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
   position: 8,
   ownLength: 2044,
   unitSlug: "words",

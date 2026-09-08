@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0007007SightForSoreEyes 
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0007-007-sight-for-sore-eyes",
   title: "007: Sight for Sore Eyes",
-  partOfSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
   position: 7,
   ownLength: 2236,
   unitSlug: "words",

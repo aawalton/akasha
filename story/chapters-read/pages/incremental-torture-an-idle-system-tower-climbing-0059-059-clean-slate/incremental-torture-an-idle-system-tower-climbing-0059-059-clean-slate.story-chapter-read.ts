@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0059059CleanSlate = {
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0059-059-clean-slate",
   title: "059: Clean Slate",
-  partOfSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
   position: 59,
   ownLength: 2072,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellHoundEvolutionLitrpg0010Chapter86 = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-hound-evolution-litrpg-0010-chapter-86",
   title: "Chapter 86",
-  partOfSlugs: ["hell-hound-evolution-litrpg"],
+  partOfCollectionSlugs: ["hell-hound-evolution-litrpg"],
   position: 10,
   ownLength: 2741,
   unitSlug: "words",

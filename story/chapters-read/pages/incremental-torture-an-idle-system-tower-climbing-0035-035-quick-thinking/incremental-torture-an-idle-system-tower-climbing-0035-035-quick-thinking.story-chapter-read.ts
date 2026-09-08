@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0035035QuickThinking = {
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0035-035-quick-thinking",
   title: "035: Quick Thinking",
-  partOfSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
   position: 35,
   ownLength: 2186,
   unitSlug: "words",

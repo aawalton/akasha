@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0025025ClamberingUpward 
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0025-025-clambering-upward",
   title: "025: Clambering Upward",
-  partOfSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
   position: 25,
   ownLength: 2125,
   unitSlug: "words",

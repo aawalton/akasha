@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0042042BreakingPoint = {
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0042-042-breaking-point",
   title: "042: Breaking Point",
-  partOfSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
   position: 42,
   ownLength: 2190,
   unitSlug: "words",

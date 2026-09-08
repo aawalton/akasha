@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0031031Reconnection = {
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0031-031-reconnection",
   title: "031: Reconnection",
-  partOfSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
   position: 31,
   ownLength: 2256,
   unitSlug: "words",

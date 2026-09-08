@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0001001ScaredAndAlone = 
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0001-001-scared-and-alone",
   title: "001: Scared and Alone",
-  partOfSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
   position: 1,
   ownLength: 2266,
   unitSlug: "words",

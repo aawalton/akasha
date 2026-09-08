@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0053053SteakAndChips = {
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0053-053-steak-and-chips",
   title: "053: Steak? and Chips",
-  partOfSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
   position: 53,
   ownLength: 2281,
   unitSlug: "words",
