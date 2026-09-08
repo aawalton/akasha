@@ -138,3 +138,27 @@ test("a path holding no body is refused", () => {
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${AT}\` could not be read`)
 })
+
+test("a key spelled as a slug is refused", () => {
+  const said = addPropertyValue(worldOf(BODY), { at: AT, key: "part-slugs", value: "kept/three" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`part-slugs` is no key a page spells, and `partSlugs` is the key that spelling names"
+  )
+})
+
+test("a key that is no bare word is refused", () => {
+  const said = addPropertyValue(worldOf(BODY), { at: AT, key: "part slugs", value: "kept/three" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`part slugs` is no key a page spells")
+})
+
+test("a key is judged before the body is read", () => {
+  const said = addPropertyValue(worldOf(null), { at: AT, key: "part-slugs", value: "kept/three" })
+
+  expect(said.refused).toBe(
+    "`part-slugs` is no key a page spells, and `partSlugs` is the key that spelling names"
+  )
+})

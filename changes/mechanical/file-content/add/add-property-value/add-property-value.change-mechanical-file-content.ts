@@ -41,6 +41,22 @@ export const addPropertyValue = {
     },
     {
       invariantKind: "departure",
+      statement: "A key is judged before the body is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key spelled as a slug is refused rather than gained under that spelling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal names the key that spelling makes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key that is no bare word is refused rather than gained.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A key the page gains is written after the property `after` names.",
     },
     {
