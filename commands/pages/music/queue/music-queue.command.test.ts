@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { DataError } from "@akasha/errors-core/exit-code"
 import type { ResolvedTrack } from "@akasha/music-choosing/track-resolving"
-import type { StartResumeOptions } from "../music-play/music-play.command.code.ts"
+import type { StartResumeOptions } from "../play/music-play.command.code.ts"
 import type { DeviceOption, Queueing } from "./music-queue.command.code.ts"
 import { queueing } from "./music-queue.command.code.ts"
 

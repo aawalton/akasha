@@ -4,14 +4,14 @@ import { InputError, isCliError } from "@akasha/errors-core/exit-code"
 import type { ResolvedTrack } from "@akasha/music-choosing/track-resolving"
 import { resolveDeviceId, resolveQueryToTrack } from "@akasha/music-choosing/track-resolving"
 import { addToQueue, startResumePlayback } from "@akasha/spotify/player"
-import type { Read, Starting } from "../music-play/music-play.command.code.ts"
+import type { Read, Starting } from "../play/music-play.command.code.ts"
 import {
   ARTIST,
   DEVICE_ID,
   JSON_FLAG,
   readingArgv,
   startedOn,
-} from "../music-play/music-play.command.code.ts"
+} from "../play/music-play.command.code.ts"
 
 const INPUT = 1
 
