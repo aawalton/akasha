@@ -5,6 +5,6 @@ export const everyWorkspace = {
   pageTypeSlug: "ast-unused-config",
   slug: "every-workspace",
   definition: "the root of the ast-unused curation",
-  partSlugs: ["ast-unused-config/archive-of-worlds"],
+  partSlugs: ["ast-unused-config/archive-of-worlds", "ast-unused-config/audhdalan"],
   curation: "json",
 } as const satisfies AstUnusedConfig

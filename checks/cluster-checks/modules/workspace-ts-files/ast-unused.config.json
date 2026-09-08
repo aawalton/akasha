@@ -3,7 +3,7 @@
   "parts": [
     "ast-unused.alanwalton.config.json",
     "archive-of-worlds.ast-unused-config.workspaces.json",
-    "ast-unused.audhdalan.config.json",
+    "audhdalan.ast-unused-config.workspaces.json",
     "ast-unused.infra.config.json",
     "ast-unused.shared.config.json",
     "ast-unused.smilingjenny.config.json",
