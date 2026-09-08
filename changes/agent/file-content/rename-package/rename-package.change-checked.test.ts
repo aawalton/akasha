@@ -1,8 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import { widened } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Said } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { renamePackage, runChange } from "./rename-package.change-checked.code.ts"
 
 afterAll(scratch.sweep)
@@ -187,25 +190,20 @@ function carried(): World {
 
 function renamed(): ReadonlyMap<string, string | null> {
   const world = packaged()
-  const said = widened(renamePackage(world, { at: INNER_MANIFEST, to: HELD }), world.textOf)
+  const said = renamePackage(world, { at: INNER_MANIFEST, to: HELD })
   expect(said.refused).toBe(null)
-  return new Map(said.edits.map((one) => [one.path, one.body]))
+  return bodiesIn(said, world.base)
 }
 
 function resumed(): ReadonlyMap<string, string | null> {
   const world = carried()
-  const said = widened(
-    renamePackage(world, { at: INNER_MANIFEST, to: HELD, from: INNER }),
-    world.textOf
-  )
+  const said = renamePackage(world, { at: INNER_MANIFEST, to: HELD, from: INNER })
   expect(said.refused).toBe(null)
-  return new Map(said.edits.map((one) => [one.path, one.body]))
+  return bodiesIn(said, world.base)
 }
 
 function pathsIn(world: World, said: Said): readonly string[] {
-  return widened(said, world.textOf)
-    .edits.map((one) => one.path)
-    .sort()
+  return [...bodiesIn(said, world.base).keys()].sort()
 }
 
 test("a manifest that could not be read is refused", () => {
@@ -307,9 +305,13 @@ test("every body the rename touches is stated as a replace", () => {
 
 test("each edit states the body as it was before the change", () => {
   const world = packaged()
-  const said = widened(renamePackage(world, { at: INNER_MANIFEST, to: HELD }), world.textOf)
+  const said = renamePackage(world, { at: INNER_MANIFEST, to: HELD })
+  const replacing = said.edits.flatMap((one) => (one.kind === "replace" ? [one] : []))
   expect(said.refused).toBe(null)
-  for (const one of said.edits) expect(one.was).toBe(world.textOf(one.path))
+  expect(replacing.length).toBe(said.edits.length)
+  for (const one of replacing) {
+    expect(one.contentFrom).toBe(world.textOf(one.path) ?? "")
+  }
 })
 
 test("a call handing over no path is refused by the key naming it", () => {

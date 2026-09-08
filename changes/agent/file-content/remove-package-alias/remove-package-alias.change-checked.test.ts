@@ -1,8 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import ts from "typescript"
-import { widened } from "../../../modules/change-answer/change-answer.module.code.ts"
-import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import {
   aliasedTo,
   removePackageAlias,
@@ -160,9 +163,9 @@ function worldOver(code: string): World {
 
 function dropped(): ReadonlyMap<string, string | null> {
   const world = worldOver(CLEAR_CODE)
-  const said = widened(removePackageAlias(world, { at: HELD_MANIFEST, was: WAS }), world.textOf)
+  const said = removePackageAlias(world, { at: HELD_MANIFEST, was: WAS })
   expect(said.refused).toBe(null)
-  return new Map(said.edits.map((one) => [one.path, one.body]))
+  return bodiesIn(said, world.base)
 }
 
 function heldIn(text: string): ts.ObjectLiteralExpression {
