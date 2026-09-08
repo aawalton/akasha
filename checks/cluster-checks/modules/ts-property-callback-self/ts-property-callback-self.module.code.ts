@@ -1,6 +1,6 @@
 import ts from "typescript"
 
-export interface TstlPropertyCallbackSelfFinding {
+export interface PropertyCallbackSelfFinding {
   readonly file: string
   readonly line: number
   readonly column: number
@@ -23,9 +23,9 @@ function hasExplicitThisParam(fn: ts.FunctionTypeNode): boolean {
 
 export function scanTstlPropertyCallbackSelf(
   sf: ts.SourceFile
-): readonly TstlPropertyCallbackSelfFinding[] {
+): readonly PropertyCallbackSelfFinding[] {
   const filePath = sf.fileName
-  const out: TstlPropertyCallbackSelfFinding[] = []
+  const out: PropertyCallbackSelfFinding[] = []
 
   function visit(node: ts.Node): undefined {
     if (

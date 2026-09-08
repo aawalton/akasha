@@ -15,8 +15,8 @@ import {
 } from "../syntax-scanner-entry/syntax-scanner-entry.module.code.ts"
 import { listTsFiles } from "../ts-file-iteration/ts-file-iteration.module.code.ts"
 import {
+  type PropertyCallbackSelfFinding,
   scanTstlPropertyCallbackSelf,
-  type TstlPropertyCallbackSelfFinding,
 } from "../ts-property-callback-self/ts-property-callback-self.module.code.ts"
 import { exitOnResult } from "../violation-reporting/violation-reporting.module.code.ts"
 
@@ -30,11 +30,11 @@ function topLevelGroup(filePath: string): string {
   return segs[0] ?? filePath
 }
 
-function messageOf(v: TstlPropertyCallbackSelfFinding): string {
+function messageOf(v: PropertyCallbackSelfFinding): string {
   return `property-style callback \`${v.name}\` lacks an explicit \`this\` parameter — TSTL defaults to method-context and emits a hidden self param that shifts arguments when a Lua-native caller (table.sort, pcall, ZO_*) invokes it; declare \`this: void\` for a plain callback, or \`this: Receiver\` for a colon-called self-method`
 }
 
-function formatViolation(v: TstlPropertyCallbackSelfFinding): string {
+function formatViolation(v: PropertyCallbackSelfFinding): string {
   return `${v.file}:${v.line}:${v.column} ${messageOf(v)}`
 }
 
@@ -94,24 +94,23 @@ async function main(): Promise<undefined> {
     treeSha: flags.treeSha,
     cacheDir: flags.cacheDir,
   })
-  const { population, violations: findings } =
-    examineFilePopulation<TstlPropertyCallbackSelfFinding>({
-      files: allTsFiles.filter((rel) => isTstlSourcePath(rel, repoRoot)),
-      unit: "source files",
-      membership: {
-        kind: "enumerated",
-        because:
-          "`listTsFiles` reads its members off the file graph, which is whole before this " +
-          "call returns — built in process, or parsed back from the cache and rejected " +
-          "entire by `readCachedGraph` on any malformation, never accepted part-built — so " +
-          "fewer members means fewer TS files in the tree",
-      },
-      pathOf: (rel) => `${repoRoot}/${rel}`,
-      scan: (rel, source) =>
-        scanTstlPropertyCallbackSelf(
-          ts.createSourceFile(rel, source, ts.ScriptTarget.Latest, true, scriptKindFor(rel))
-        ),
-    })
+  const { population, violations: findings } = examineFilePopulation<PropertyCallbackSelfFinding>({
+    files: allTsFiles.filter((rel) => isTstlSourcePath(rel, repoRoot)),
+    unit: "source files",
+    membership: {
+      kind: "enumerated",
+      because:
+        "`listTsFiles` reads its members off the file graph, which is whole before this " +
+        "call returns — built in process, or parsed back from the cache and rejected " +
+        "entire by `readCachedGraph` on any malformation, never accepted part-built — so " +
+        "fewer members means fewer TS files in the tree",
+    },
+    pathOf: (rel) => `${repoRoot}/${rel}`,
+    scan: (rel, source) =>
+      scanTstlPropertyCallbackSelf(
+        ts.createSourceFile(rel, source, ts.ScriptTarget.Latest, true, scriptKindFor(rel))
+      ),
+  })
 
   exitOnResult({
     violations: findings,
