@@ -5,7 +5,7 @@ export const melodyOfMana0139Chapter126Gateway = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0139-chapter-126-gateway",
   title: "Chapter 126 Gateway",
-  partOfSlugs: ["story-read/melody-of-mana"],
+  partOfCollectionSlugs: ["story-read/melody-of-mana"],
   position: 139,
   ownLength: 2031,
   ownProgress: 2031,

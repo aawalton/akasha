@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0019Chapter19LanguagePt2 = 
   pageTypeSlug: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0019-chapter-19-language-pt2",
   title: "Chapter 19 – Language – Pt2",
-  partOfSlugs: ["mass-produced-magic-litrpg-action-crafter-tech"],
+  partOfCollectionSlugs: ["mass-produced-magic-litrpg-action-crafter-tech"],
   position: 19,
   ownLength: 2149,
   unitSlug: "words",

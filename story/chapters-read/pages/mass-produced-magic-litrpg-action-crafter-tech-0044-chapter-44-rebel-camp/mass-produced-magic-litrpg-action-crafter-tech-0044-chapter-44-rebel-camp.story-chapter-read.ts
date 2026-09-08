@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0044Chapter44RebelCamp = {
   pageTypeSlug: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0044-chapter-44-rebel-camp",
   title: "Chapter 44 – Rebel Camp",
-  partOfSlugs: ["mass-produced-magic-litrpg-action-crafter-tech"],
+  partOfCollectionSlugs: ["mass-produced-magic-litrpg-action-crafter-tech"],
   position: 44,
   ownLength: 1883,
   unitSlug: "words",

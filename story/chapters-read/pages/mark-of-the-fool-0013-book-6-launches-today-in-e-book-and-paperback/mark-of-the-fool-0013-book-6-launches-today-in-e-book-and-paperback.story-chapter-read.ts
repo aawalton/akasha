@@ -5,7 +5,7 @@ export const markOfTheFool0013Book6LaunchesTodayInEBookAndPaperback = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0013-book-6-launches-today-in-e-book-and-paperback",
   title: "Book 6 launches today in e-book and paperback!",
-  partOfSlugs: ["story-read/mark-of-the-fool"],
+  partOfCollectionSlugs: ["story-read/mark-of-the-fool"],
   position: 13,
   ownLength: 183,
   unitSlug: "words",
