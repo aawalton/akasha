@@ -89,11 +89,11 @@ export const shellClean = {
     },
     {
       invariantKind: "constraint",
-      statement: "The world is swept whatever the linter said.",
+      statement: "The mirror is swept whatever the linter said.",
     },
     {
       invariantKind: "constraint",
-      statement: "The world's root is taken out of the reason reported.",
+      statement: "The mirror's root is taken out of the reason reported.",
     },
     {
       invariantKind: "constraint",
