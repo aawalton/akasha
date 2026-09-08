@@ -1,7 +1,7 @@
 import * as ts from "typescript"
 import { createSerialDiagnosticFactory } from "../tstl-utils/tstl-utils.module.code.ts"
 
-const createDiagnosticFactory = <TArgs extends any[]>(
+const createDiagnosticFactory = <TArgs extends readonly unknown[]>(
   getMessage: (...args: TArgs) => string,
   category: ts.DiagnosticCategory = ts.DiagnosticCategory.Error
 ) =>
