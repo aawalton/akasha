@@ -4,7 +4,7 @@ export const listUnsubscribe = {
   id: "01a05c0e-3731-779e-88f2-ee109ff37a60",
   pageTypeSlug: "module",
   slug: "list-unsubscribe",
-  definition: "getting off a mailing list by the headers the mail carries",
+  definition: "getting off a mailing list by the headers the mail has",
   code: "ts",
   invariants: [
     {

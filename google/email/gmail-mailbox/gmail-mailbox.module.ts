@@ -13,7 +13,7 @@ export const gmailMailbox = {
     },
     {
       invariantKind: "departure",
-      statement: "A summary carries only the six headers the mailbox asks Gmail for.",
+      statement: "A summary has only the six headers the mailbox asks Gmail for.",
     },
     {
       invariantKind: "departure",

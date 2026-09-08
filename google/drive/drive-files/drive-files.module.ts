@@ -9,7 +9,7 @@ export const driveFiles = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A URL's `id` query parameter is read before the id its path carries.",
+      statement: "A URL's `id` query parameter is read before the id its path has.",
     },
     {
       invariantKind: "departure",

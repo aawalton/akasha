@@ -13,7 +13,7 @@ export const guiSession = {
     },
     {
       invariantKind: "departure",
-      statement: "A marker carrying no exit code reads as no session.",
+      statement: "A marker with no exit code reads as no session.",
     },
   ],
 } as const satisfies Module

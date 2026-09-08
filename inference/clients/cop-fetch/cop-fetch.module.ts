@@ -9,7 +9,7 @@ export const copFetch = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The request carries a deadline of its own rather than the runtime's.",
+      statement: "The request has a deadline of its own rather than the runtime's.",
     },
     {
       invariantKind: "departure",

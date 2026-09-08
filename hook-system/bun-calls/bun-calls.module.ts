@@ -38,7 +38,7 @@ export const bunCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "A command carrying no act is no call here.",
+      statement: "A command with no act is no call here.",
     },
     {
       invariantKind: "absence",

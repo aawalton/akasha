@@ -63,7 +63,7 @@ export const emailCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A subject read from a file carries no line ending.",
+      statement: "A subject read from a file has no line ending.",
     },
     {
       invariantKind: "departure",

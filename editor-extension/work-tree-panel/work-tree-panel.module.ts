@@ -73,11 +73,11 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A file carrying other intents than those releases the order held.",
+      statement: "A file with other intents than those releases the order held.",
     },
     {
       invariantKind: "departure",
-      statement: "A refused move reads the file again and draws what that file carries.",
+      statement: "A refused move reads the file again and draws what that file has.",
     },
     {
       invariantKind: "departure",

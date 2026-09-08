@@ -22,7 +22,7 @@ export const porcelainStatus = {
     {
       invariantKind: "departure",
       statement:
-        "A rename or a copy carries the path that record came from in the record following that record.",
+        "A rename or a copy has the path that record came from in the record following that record.",
     },
     {
       invariantKind: "departure",

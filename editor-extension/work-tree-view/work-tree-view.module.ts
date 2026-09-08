@@ -26,7 +26,7 @@ export const workTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carrying a color sits under a scheme of this panel's own.",
+      statement: "A row with a color sits under a scheme of this panel's own.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const workTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "Every row carries a blank icon.",
+      statement: "Every row has a blank icon.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const workTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row opens the whole path that row carries rather than a path composed here.",
+      statement: "A row opens the whole path that row has rather than a path composed here.",
     },
     {
       invariantKind: "departure",

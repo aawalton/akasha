@@ -23,7 +23,7 @@ export const sha1Digest = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches a crypto library the platform carries.",
+      statement: "Nothing here reaches a crypto library the platform has.",
     },
   ],
 } as const satisfies Module

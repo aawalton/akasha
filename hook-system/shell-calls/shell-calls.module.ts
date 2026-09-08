@@ -26,7 +26,7 @@ export const shellCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "The body a heredoc carries is written rather than run.",
+      statement: "The body a heredoc has is written rather than run.",
     },
     {
       invariantKind: "departure",

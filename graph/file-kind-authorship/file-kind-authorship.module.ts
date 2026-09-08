@@ -26,7 +26,7 @@ export const fileKindAuthorship = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says which extension carries a kind.",
+      statement: "Nothing here says which extension has a kind.",
     },
   ],
 } as const satisfies Module

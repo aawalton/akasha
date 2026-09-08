@@ -18,7 +18,7 @@ export const pushRepo = {
     {
       invariantKind: "departure",
       statement:
-        "A pusher re-reads the tip after each round and carries whatever landed while that pusher worked.",
+        "A pusher re-reads the tip after each round and has whatever landed while that pusher worked.",
     },
     {
       invariantKind: "departure",

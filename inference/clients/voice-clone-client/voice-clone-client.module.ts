@@ -9,7 +9,7 @@ export const voiceCloneClient = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A clone carries a reference clip and the words that clip says.",
+      statement: "A clone has a reference clip and the words that clip says.",
     },
     {
       invariantKind: "departure",
@@ -17,11 +17,11 @@ export const voiceCloneClient = {
     },
     {
       invariantKind: "departure",
-      statement: "A normal request carries no priority header at all.",
+      statement: "A normal request has no priority header at all.",
     },
     {
       invariantKind: "departure",
-      statement: "A high request carries `x-cop-priority` so the pool serves that request first.",
+      statement: "A high request has `x-cop-priority` so the pool serves that request first.",
     },
     {
       invariantKind: "absence",

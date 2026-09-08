@@ -9,7 +9,7 @@ export const calendarEventSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A boundary carrying a date alone makes an all-day event.",
+      statement: "A boundary with a date alone makes an all-day event.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +17,7 @@ export const calendarEventSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "An end carries a time where the start carries a time.",
+      statement: "An end has a time where the start has a time.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const calendarEventSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A recurrence rule carries no second `RRULE:` prefix.",
+      statement: "A recurrence rule has no second `RRULE:` prefix.",
     },
     {
       invariantKind: "departure",

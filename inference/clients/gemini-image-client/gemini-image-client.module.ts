@@ -29,7 +29,7 @@ export const geminiImageClient = {
     },
     {
       invariantKind: "departure",
-      statement: "A response carrying no inline image part is at fault in its data.",
+      statement: "A response with no inline image part is at fault in its data.",
     },
     {
       invariantKind: "departure",

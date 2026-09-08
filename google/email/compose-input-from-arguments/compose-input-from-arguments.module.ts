@@ -17,7 +17,7 @@ export const composeInputFromArguments = {
     },
     {
       invariantKind: "departure",
-      statement: "A sender given in angle brackets carries the name before the brackets.",
+      statement: "A sender given in angle brackets has the name before the brackets.",
     },
     {
       invariantKind: "departure",

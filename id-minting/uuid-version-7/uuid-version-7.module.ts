@@ -14,7 +14,7 @@ export const uuidVersion7 = {
     },
     {
       invariantKind: "departure",
-      statement: "The leading bytes carry the millisecond the uuid was made.",
+      statement: "The leading bytes have the millisecond the uuid was made.",
     },
     {
       invariantKind: "departure",

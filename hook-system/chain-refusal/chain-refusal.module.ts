@@ -10,7 +10,7 @@ export const chainRefusal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command line carries several calls.",
+      statement: "A command line has several calls.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,7 @@ export const chainRefusal = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carrying no call of any kind is refused for nothing.",
+      statement: "A line with no call of any kind is refused for nothing.",
     },
     {
       invariantKind: "departure",

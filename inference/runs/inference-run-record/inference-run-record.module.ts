@@ -18,7 +18,7 @@ export const inferenceRunRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "A record carries the versions the service ran at the moment the run ran.",
+      statement: "A record has the versions the service ran at the moment the run ran.",
     },
     {
       invariantKind: "departure",
