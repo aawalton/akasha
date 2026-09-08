@@ -124,6 +124,7 @@ export const clusterCheck = {
     "module/addon-build-population",
     "module/alanwalton-ios-seam",
     "module/app-capacitor-parity-divergences",
+    "module/app-capacitor-parity",
   ],
   properties: [
     {
