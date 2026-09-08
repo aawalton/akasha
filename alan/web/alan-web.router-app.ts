@@ -157,6 +157,7 @@ export const alanWeb = {
     "route/about",
     "route/categorization",
     "route/claude-usage",
+    "route/device-secret-admission",
     "route/inbox-stoplights",
     "route/no-such-route",
     "route/pages-ready",

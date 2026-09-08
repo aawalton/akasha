@@ -60,7 +60,10 @@ export default [
 
   route("api/push/register", "routes/api.push.register.ts"),
 
-  route("api/device-secret/admission", "routes/api.device-secret.admission.ts"),
+  route(
+    "api/device-secret/admission",
+    "routes/device-secret-admission/device-secret-admission.route.code.ts"
+  ),
   route("api/device-secret/mint", "routes/api.device-secret.mint.ts"),
   route("api/device-secret/revoke", "routes/api.device-secret.revoke.ts"),
 
