@@ -37,9 +37,5 @@ export const temperEsoTypings = {
       invariantKind: "absence",
       statement: "Nothing here reads the clone or writes a file.",
     },
-    {
-      invariantKind: "absence",
-      statement: "The opt-in list itself is held outside this package.",
-    },
   ],
 } as const satisfies WorkspacePackage
