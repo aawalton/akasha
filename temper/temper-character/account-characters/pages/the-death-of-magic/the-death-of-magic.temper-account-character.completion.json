@@ -1115,7 +1115,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 17,
+            "numCompleted": 18,
             "numRequired": 20
           }
         }
@@ -1128,7 +1128,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 17,
+            "numCompleted": 18,
             "numRequired": 30
           }
         }
@@ -3132,7 +3132,7 @@
           "abilityIndex": 6,
           "morph1": {
             "name": "Elusive Mist",
-            "rank": 1
+            "rank": 2
           }
         },
         "128709": {
@@ -12949,7 +12949,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-07"
+    "date": "2026-09-08"
   },
   "dailyWritStates": {
     "completed": {
@@ -12970,7 +12970,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-07"
+    "date": "2026-09-08"
   },
   "motifKnowledge": {
     "4": {
