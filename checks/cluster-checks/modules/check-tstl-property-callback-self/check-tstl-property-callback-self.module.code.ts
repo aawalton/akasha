@@ -16,7 +16,7 @@ import { listTsFiles } from "../ts-file-iteration/ts-file-iteration.module.code.
 import {
   scanTstlPropertyCallbackSelf,
   type TstlPropertyCallbackSelfFinding,
-} from "../ts-tstl-property-callback-self/ts-tstl-property-callback-self.module.code.ts"
+} from "../ts-property-callback-self/ts-property-callback-self.module.code.ts"
 import { isTstlSourcePath } from "../tstl-source-paths/tstl-source-paths.module.code.ts"
 import { exitOnResult } from "../violation-reporting/violation-reporting.module.code.ts"
 
