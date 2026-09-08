@@ -4,7 +4,7 @@ export const changeActing = {
   id: "01a07c62-0a71-737e-8955-3410b4a608bf",
   pageTypeSlug: "module",
   slug: "change-acting",
-  definition: "the acts `akasha change` runs over the edits kept rather than over a change",
+  definition: "the acts run over the edits kept rather than over a change",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -53,6 +53,51 @@ export const changeActing = {
     {
       invariantKind: "departure",
       statement: "A drop leaves every edit a subagent handed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An act saying `all: true` reaches every edit that act reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`all` takes `true` and no other value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An act names each edit that went, because nothing puts one back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An act naming paths says how many edits are still there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edit a move left behind is reached by the path that move came from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop saying `all: true` over no edit kept says so rather than refusing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take folds the handed edits it names into the edits this agent keeps.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take that would not fold refuses and leaves both sets where those sets were.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take that folds takes away the handed edits that were folded in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An act reaching handed edits and naming no subagent is refused rather than reaching all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The edits a subagent handed over are kept apart from the edits this agent keeps.",
     },
     {
       invariantKind: "departure",

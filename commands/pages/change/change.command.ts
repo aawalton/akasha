@@ -27,23 +27,7 @@ export const change = {
     "a change that refuses appends nothing and leaves the edits as the edits were.",
     "a change that refuses applies nothing and lands nothing.",
     "an apply that refuses leaves the edits kept, and that is the dry run.",
-    "`drop` and `handed` and `take` and `forget` are the first words naming no change.",
-    "`drop` takes away every edit kept only where `all: true` is piped in, and leaves what a subagent handed over.",
-    "`drop` names each path to drop on a line of its own, written `at` and the path, piped in.",
-    "a drop naming paths takes away the edits kept at those paths, and leaves the rest.",
-    "a path said on the command line after `drop` is refused, as every other argument there is.",
-    "a line naming no path refuses the drop, so a mistyped line takes nothing away.",
-    "a path is read against the repository root, and a path a move left behind names that move.",
-    "a path naming no edit kept refuses the drop, so a typo reads as no drop rather than as one.",
-    "a drop naming paths says how many edits are still kept.",
-    "a drop names each edit that went, because nothing puts a dropped edit back.",
-    "`handed` names each subagent that handed edits over, and how many edits each one handed.",
-    "`take <subagent>` moves one subagent's handed edits into this agent's own, at the paths piped in.",
-    "`forget <subagent>` takes one subagent's handed edits away, at the paths piped in the same way.",
-    "a take or a forget reaches every handed edit only where `all: true` is piped in, and refuses a bare call.",
-    "a take or a forget naming paths moves the edits at those paths and leaves the rest handed over.",
-    "a path naming no edit that subagent handed over refuses the take or the forget, and moves nothing.",
-    "a take that would not fold is refused, and leaves both sets where those sets were.",
+    "`akasha change list` names the edits kept, and `akasha change drop` takes them away.",
     "no check runs over the change, and an apply judges the edits kept as that apply lands them.",
     "a change is refused where its writer has not read what the change writes, before anything is appended.",
   ],
@@ -218,100 +202,8 @@ export const change = {
       statement: "The edits are read and appended to under one turn over the file the edits fill.",
     },
     {
-      invariantKind: "departure",
-      statement: "`drop` names no change and takes the paths whose kept edits go.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A drop saying `all: true` takes away every edit kept.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A drop names each edit that went.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A drop saying `all: true` over no edit kept says so rather than refusing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A drop piping nothing in is refused rather than taking every edit away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "`all: true` said beside a path refuses the drop.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "`all` takes `true` and no other value.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A drop naming paths takes away every edit kept at those paths and leaves the rest.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An edit a move left behind is taken away by the path that move came from.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A drop naming paths says how many edits are still kept.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path naming no edit kept refuses the drop rather than being passed over.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The edits a subagent handed over are kept apart from the edits this agent answers.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A drop leaves every edit a subagent handed over.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "`handed` names each subagent that handed edits over and how many edits that subagent handed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "`take` folds the handed edits it names into the edits this agent keeps.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A take that would not fold refuses and leaves both sets where those sets were.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A take that folds takes away the handed edits that were folded in.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "`forget` takes the handed edits it names away and names each edit that went.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A take or a forget piping nothing in is refused rather than moving every edit.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A take or a forget saying `all: true` moves every edit that subagent handed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A take or a forget naming paths moves the handed edits at those paths.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A take or a forget leaves handed over every edit no path named.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A take or a forget naming no subagent is refused rather than reaching every subagent.",
+      invariantKind: "absence",
+      statement: "No word here names an act over the edits kept.",
     },
     {
       invariantKind: "departure",

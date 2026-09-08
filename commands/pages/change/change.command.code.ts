@@ -23,14 +23,8 @@ import {
   helpOf,
 } from "../../../command-system/calling/calling.module.code.ts"
 import {
-  DROP_WORDS,
-  dropping,
-  forgetting,
-  listing,
   NO_PAGE,
-  pipedPathsIn,
   saidOf,
-  taking,
   waitingSaid,
 } from "../../../command-system/change-acting/change-acting.module.code.ts"
 import { unknownIn } from "../../../command-system/command-flags/command-flags.module.code.ts"
@@ -61,30 +55,11 @@ const NO_MESSAGE = "`message` says what the commit is for, and this one is empty
 
 const COMMAND_TYPE = "change-agent"
 
-const DROP = "drop"
-
-const DROP_TAKES = "the act taking away the edits kept, at the paths named or at every path"
-
 const DEFINITION = "definition"
 
 const READERS_OWE_READING = "readersOweReading"
 
 const WRITER_OWES_READING = "writerOwesReading"
-
-const DROP_SAID = "`drop` and `handed` and `take` and `forget` name an act rather than a change"
-
-const HANDED = "handed"
-
-const TAKE = "take"
-
-const FORGET = "forget"
-
-const HANDED_TAKES = "the act naming what each subagent handed to this agent"
-
-const TAKE_TAKES =
-  "the act taking one subagent's handed edits into this agent's own, at the paths named or all"
-
-const FORGET_TAKES = "the act taking away one subagent's handed edits, at the paths named or all"
 
 const NO_ARGUMENTS =
   "a change reads its arguments from standard input, and this call piped nothing in"
@@ -143,13 +118,7 @@ export function runsSaid(world: World): string {
 }
 
 export function takingOf(world: World): Taking {
-  return [
-    ...changesIn(world).map((one) => ({ said: one.slug, takes: one.definition })),
-    { said: DROP, takes: DROP_TAKES },
-    { said: HANDED, takes: HANDED_TAKES },
-    { said: TAKE, takes: TAKE_TAKES },
-    { said: FORGET, takes: FORGET_TAKES },
-  ]
+  return changesIn(world).map((one) => ({ said: one.slug, takes: one.definition }))
 }
 
 export function helping(root: string, calledAs: string): Answer {
@@ -304,16 +273,6 @@ function keptSaid(page: string): string {
   return `the edits are kept at ${keptAt(page) ?? ""}, ${KEPT}`
 }
 
-const DROP_ON_LINE = `is said on the command line, and ${DROP_WORDS.line}`
-
-function dropped(root: string, page: string, argv: readonly string[], piping: Piping): Answer {
-  const said = argv[0]
-  if (said !== undefined) return mistaking([`\`${said}\` ${DROP_ON_LINE}`])
-  const piped = pipedPathsIn(piping, DROP_WORDS)
-  if (typeof piped === "string") return mistaking([piped])
-  return dropping(root, page, piped)
-}
-
 export type Chosen = {
   readonly said: string
   readonly drafts: boolean
@@ -341,13 +300,7 @@ export async function changing(
   const world = worldAt(root, textIn(root), runAt)
   const slug = argv[0]
   if (slug === undefined) {
-    return mistaking([`no change is named, and this runs one of ${runsSaid(world)}`, DROP_SAID])
-  }
-  if (chosen === null) {
-    if (slug === HANDED) return listing(root, page)
-    if (slug === TAKE) return taking(root, page, argv[1], piping)
-    if (slug === FORGET) return forgetting(root, page, argv[1], piping)
-    if (slug === DROP) return dropped(root, page, argv.slice(1), piping)
+    return mistaking([`no change is named, and this runs one of ${runsSaid(world)}`])
   }
   const unknown = unknownIn(argv.slice(1), BARE, BARE)
   if (unknown.length > 0) return mistaking(unknown)
@@ -362,13 +315,10 @@ export async function changing(
   const drafts = chosen === null ? asked.drafts : chosen.drafts
   const type = typeOf(world, slug)
   if (type === null) {
-    return mistaking([
-      `\`${slug}\` names no change, and this runs one of ${runsSaid(world)}`,
-      DROP_SAID,
-    ])
+    return mistaking([`\`${slug}\` names no change, and this runs one of ${runsSaid(world)}`])
   }
   const loaded = await loading(world, `${type}/${slug}`)
-  if (typeof loaded === "string") return mistaking([loaded, DROP_SAID])
+  if (typeof loaded === "string") return mistaking([loaded])
   const held: Loaded = loaded
   const value = world.index.pageAt(type, slug)
   const owed = owedBy(value)
