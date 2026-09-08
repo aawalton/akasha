@@ -59,7 +59,8 @@ export const monarchLandFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "The landing owes no reading and reads nothing first.",
+      statement:
+        "The change adding a file not there already lands each month rather than an edit composed here.",
     },
     {
       invariantKind: "departure",

@@ -9,7 +9,6 @@ export const AKASHA = rootFor(roots, AKASHA_REPO)
 
 const MONTH_TYPE = "monarch-month"
 
-/** Every Monarch page family sits under this one folder inside akasha. */
 const MONARCH = "alan/harness/monarch"
 
 export const MONTHS_FOLDER = `${MONARCH}/monarch-months/pages`
@@ -20,14 +19,7 @@ export const TAG_FOLDER = `${MONARCH}/monarch-tags/pages`
 export const DIRECTION_FOLDER = `${MONARCH}/monarch-directions/pages`
 export const MERCHANT_FOLDER = `${MONARCH}/monarch-merchants/pages`
 
-/**
- * One line of the `transactions` entry file beside a month page.
- *
- * The keys are the entry shape's own, declared at
- * `alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts`.
- * They are camel because a page property is read by its key rather than by its slug.
- */
-export interface TransactionLine {
+export type TransactionLine = {
   readonly id: string
   readonly monarchId: string
   readonly monarchUpdatedAt?: string
@@ -84,7 +76,6 @@ async function pagesIn(root: string, folder: string, type: string): Promise<read
   return found
 }
 
-/** Read one of a page's values as text. The name is the property's key, in camel. */
 export function keyOf(page: PageFile, name: string): string | null {
   const held = page.value[name]
   if (typeof held === "string") return held
@@ -116,12 +107,10 @@ export async function merchantPages(): Promise<readonly PageFile[]> {
   return pagesIn(AKASHA, MERCHANT_FOLDER, "monarch-merchant")
 }
 
-/** The slug of the month a day falls in. A month page is slugged `month-` ahead of the month. */
 export function monthOf(date: string): string {
   return `month-${date.slice(0, 7)}`
 }
 
-/** A month page sits in a folder of its own, the entry file beside it. */
 export function monthPagePath(slug: string): string {
   return `${MONTHS_FOLDER}/${slug}/${slug}.${MONTH_TYPE}.ts`
 }

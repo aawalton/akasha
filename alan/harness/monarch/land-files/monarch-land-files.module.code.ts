@@ -1,6 +1,6 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
-import { landedMechanically } from "@akasha/command-system/asking"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { typeSlugOf } from "@akasha/indexes"
 import { AKASHA as AKASHA_REPO } from "@akasha/pages/checkout-roots"
 import { exportedAs } from "@akasha/pages/page-export-name"
@@ -18,7 +18,8 @@ import {
   tagPages,
 } from "../files/monarch-files.module.code.ts"
 
-/** The month page type, reached by the id it keeps rather than by the slug it answers to. */
+const PUT = "change-mechanical-file/add-if-not-present-file"
+
 const MONARCH_MONTH_TYPE = "01a0680b-2b00-7012-a659-4d8f2c7e2113"
 
 const MONTH_NAMES = [
@@ -111,7 +112,7 @@ export function lineOf(t: MonarchTransaction, maps: SlugMaps): TransactionLine |
     if (Array.isArray(value) && value.length === 0) continue
     held[key] = value
   }
-  return held as unknown as TransactionLine
+  return held as TransactionLine
 }
 
 async function existing(slug: string): Promise<readonly TransactionLine[]> {
@@ -126,11 +127,6 @@ async function existing(slug: string): Promise<readonly TransactionLine[]> {
   }
 }
 
-/**
- * A month page is a TypeScript page in a folder of its own, the transactions entry file
- * beside it. The slug opens `month-` ahead of the year and month, which is where the dates below
- * are cut from.
- */
 function monthPage(slug: string): string {
   const covered = slug.slice("month-".length)
   const year = Number.parseInt(covered.slice(0, 4), 10)
@@ -172,7 +168,7 @@ function carried(before: TransactionLine, arriving: TransactionLine): Transactio
     held.categorySource = ARRIVED_FROM_MONARCH
     delete held.categoryDecidedBy
   }
-  return held as unknown as TransactionLine
+  return held as TransactionLine
 }
 
 function sortLines(lines: readonly TransactionLine[]): readonly TransactionLine[] {
@@ -213,12 +209,6 @@ export function merged(
   return { lines: sortLines([...kept.values()]), held }
 }
 
-/**
- * The keys an entry states, in the order the entry shape declares them, at
- * `alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts`.
- * A line is written in this order however it was built, so a resync that changes nothing
- * rewrites nothing.
- */
 const ENTRY_KEYS = [
   "id",
   "monarchId",
@@ -242,7 +232,7 @@ const ENTRY_KEYS = [
 ]
 
 function lineText(line: TransactionLine): string {
-  const held = line as unknown as Record<string, unknown>
+  const held: Record<string, unknown> = { ...line }
   const said: Record<string, unknown> = {}
   for (const key of ENTRY_KEYS) if (key in held) said[key] = held[key]
   for (const key of Object.keys(held)) if (!(key in said)) said[key] = held[key]
@@ -276,7 +266,7 @@ export async function patchTransactionLines(
         else held[key] = value
       }
       if (JSON.stringify(held) !== JSON.stringify(line)) changed = true
-      return held as unknown as TransactionLine
+      return held as TransactionLine
     })
     if (!changed) continue
     touched.push(month)
@@ -292,36 +282,16 @@ export async function patchTransactionLines(
   return touched.sort()
 }
 
-export const WRITER = "monarch-writer"
-
-/**
- * This lands the month files, and it reads nothing first.
- *
- * It used to read each file already on disk before writing it, so that the old read-record gate
- * would let the write through. That gate went at `220d57c4a8`, "nothing writes the old read record
- * any more", and the read went with it: `read` is no longer a command `ops` carries, so the call
- * refused every minute and the poll landed nothing for as long as it did.
- *
- * Nothing is put back in its place. A daemon has no read record and can never have one, which
- * `tools/lib/tracking/akasha-day.ts` states for the day funnel: its `AGENT_ID` names no seat, and
- * where one is fabricated the record it builds is invalidated by its own write, the file it is
- * about to write being among the ones the warrant asks it to have read. These bodies are composed
- * by a program rather than authored, which is what landing mechanically below says, and a
- * composed body owes no reading.
- */
 export async function through(items: readonly WriteItem[], message: string): Promise<void> {
-  const encoder = new TextEncoder()
-  const said = await landedMechanically(
+  const landed = await runMechanicalChange(
     AKASHA,
-    WRITER,
-    items.map((item) => ({ path: item.file_path, body: encoder.encode(item.content) })),
+    items.map((item) => ({ at: PUT, given: { at: item.file_path, body: item.content } })),
     message
   )
-  if (said.code !== 0) {
-    const why = said.refusals.length > 0 ? said.refusals.join("\n") : said.report.join("\n")
-    throw new Error(`landing the ${AKASHA_REPO} files was refused:\n${why}`)
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  if (wrong.length > 0) {
+    throw new Error(`landing the ${AKASHA_REPO} files was refused:\n${wrong.join("\n")}`)
   }
-  return Promise.resolve()
 }
 
 export async function landTransactionFiles(
