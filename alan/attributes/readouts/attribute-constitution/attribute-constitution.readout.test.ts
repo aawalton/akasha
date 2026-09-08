@@ -1,13 +1,23 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync } from "node:fs"
 import { join } from "node:path"
+import { listedFiled } from "@akasha/indexes/testing"
 import { keepPointsToday } from "../../points/attribute-points.module.code.ts"
 import { constitutionShown } from "./attribute-constitution.readout.code.ts"
 import { attributeConstitution } from "./attribute-constitution.readout.ts"
 
 const HOLD = "/var/tmp"
 
-const rootMade = () => mkdtempSync(join(HOLD, "attribute-constitution-"))
+const ATTRIBUTE = "attribute"
+
+const PAGE_AT = "held/attribute-pages/constitution.attribute.ts"
+
+function rootMade(): string {
+  const root = mkdtempSync(join(HOLD, "attribute-constitution-"))
+  const slug = attributeConstitution.attributeSlug
+  listedFiled(root, ATTRIBUTE, slug, [{ path: PAGE_AT, id: `held-${slug}` }])
+  return root
+}
 
 test("this readout names the attribute whose points it shows", () => {
   expect(attributeConstitution.attributeSlug).toBe("constitution")

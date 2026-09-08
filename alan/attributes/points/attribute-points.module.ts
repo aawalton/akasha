@@ -22,7 +22,16 @@ export const attributePoints = {
     },
     {
       invariantKind: "departure",
-      statement: "An attribute's page is found from that attribute's slug.",
+      statement: "An attribute's page is asked of the index by that attribute's slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Points kept for an attribute the index names no page for are refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Points read for an attribute the index names no page for are no points rather than a refusal.",
     },
     {
       invariantKind: "departure",

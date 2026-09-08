@@ -1,13 +1,23 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync } from "node:fs"
 import { join } from "node:path"
+import { listedFiled } from "@akasha/indexes/testing"
 import { keepPointsToday } from "../../points/attribute-points.module.code.ts"
 import { wisdomShown } from "./attribute-wisdom.readout.code.ts"
 import { attributeWisdom } from "./attribute-wisdom.readout.ts"
 
 const HOLD = "/var/tmp"
 
-const rootMade = () => mkdtempSync(join(HOLD, "attribute-wisdom-"))
+const ATTRIBUTE = "attribute"
+
+const PAGE_AT = "held/attribute-pages/wisdom.attribute.ts"
+
+function rootMade(): string {
+  const root = mkdtempSync(join(HOLD, "attribute-wisdom-"))
+  const slug = attributeWisdom.attributeSlug
+  listedFiled(root, ATTRIBUTE, slug, [{ path: PAGE_AT, id: `held-${slug}` }])
+  return root
+}
 
 test("this readout names the attribute whose points it shows", () => {
   expect(attributeWisdom.attributeSlug).toBe("wisdom")

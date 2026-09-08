@@ -1,3 +1,4 @@
+import { listedAt } from "@akasha/pages/index-reading"
 import { mergeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
 
 const POINTS_BEFORE_TODAY = "pointsBeforeToday"
@@ -6,14 +7,27 @@ const POINTS_TODAY = "pointsToday"
 
 const POINTS_TOTAL = "pointsTotal"
 
-const PAGES = "alan/attributes/pages"
+const ATTRIBUTE = "attribute"
 
-export function attributePage(slug: string): string {
-  return `${PAGES}/${slug}.attribute.ts`
+function pageIn(root: string, slug: string): string | null {
+  return listedAt(root, ATTRIBUTE, slug)[0]?.path ?? null
+}
+
+function pageOr(root: string, slug: string): string {
+  const at = pageIn(root, slug)
+  if (at === null) {
+    throw new Error(
+      `\`${slug}\` names no attribute the index carries, so its points have no page to sit ` +
+        "beside — points filed at a path made up here are points nobody can read"
+    )
+  }
+  return at
 }
 
 function numberKept(root: string, slug: string, key: string): number | null {
-  const held = uncommittedIn(root, attributePage(slug))
+  const at = pageIn(root, slug)
+  if (at === null) return null
+  const held = uncommittedIn(root, at)
   if (held === null) return null
   const points = held[key]
   return typeof points === "number" ? points : null
@@ -24,16 +38,18 @@ export function pointsBeforeTodayKept(root: string, slug: string): number | null
 }
 
 export function keepPointsBeforeToday(root: string, slug: string, points: number): undefined {
+  const at = pageOr(root, slug)
   const today = pointsTodayKept(root, slug) ?? 0
-  mergeUncommitted(root, attributePage(slug), {
+  mergeUncommitted(root, at, {
     [POINTS_BEFORE_TODAY]: points,
     [POINTS_TOTAL]: points + today,
   })
 }
 
 export function keepPointsToday(root: string, slug: string, points: number): undefined {
+  const at = pageOr(root, slug)
   const before = pointsBeforeTodayKept(root, slug) ?? 0
-  mergeUncommitted(root, attributePage(slug), {
+  mergeUncommitted(root, at, {
     [POINTS_TODAY]: points,
     [POINTS_TOTAL]: before + points,
   })
