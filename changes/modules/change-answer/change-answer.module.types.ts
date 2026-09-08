@@ -3,14 +3,6 @@ export type Reading = {
   readonly writerOwesReading?: boolean
 }
 
-export type Edit = Reading & {
-  readonly kind?: undefined
-  readonly path: string
-  readonly was: string | null
-  readonly body: string | null
-  readonly from?: string
-}
-
 export type Adding = Reading & {
   readonly kind: "add"
   readonly path: string
