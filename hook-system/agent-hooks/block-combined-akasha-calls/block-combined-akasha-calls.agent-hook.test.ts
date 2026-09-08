@@ -94,3 +94,23 @@ test("a read carrying a flag it does not take is refused", () => {
 test("either name inside a quoted run is refused rather than read as data", () => {
   expect(refusalIn('echo "akasha read --file-path a.ts"')).toContain(NAMES)
 })
+
+test("another akasha command carrying either name in a message is let through", () => {
+  expect(refusalIn('akasha apply --message "fix the akasha change delimiter"')).toBe(null)
+})
+
+test("another akasha command carrying either name in single quotes is let through", () => {
+  expect(refusalIn("akasha apply --message 'akasha change is named here'")).toBe(null)
+})
+
+test("a call chained after another akasha command is refused", () => {
+  expect(refusalIn('akasha apply --message "x" && akasha read y')).toContain(NAMES)
+})
+
+test("a run the shell would rewrite is not taken out", () => {
+  expect(refusalIn('akasha apply --message "see $HOME and akasha read x"')).toContain(NAMES)
+})
+
+test("a quoted call handed to another program is refused", () => {
+  expect(refusalIn('bash -c "akasha read x | head"')).toContain(NAMES)
+})

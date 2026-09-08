@@ -62,7 +62,20 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "Text naming a command inside a quoted run is refused as a call is.",
+      statement:
+        "Text naming a command inside a quoted run is refused where the command opens with another word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A quoted run the shell would not rewrite is taken out before the trigger.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run is taken out only where the command opens with `akasha`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run holding a character the shell rewrites is left in.",
     },
     {
       invariantKind: "absence",

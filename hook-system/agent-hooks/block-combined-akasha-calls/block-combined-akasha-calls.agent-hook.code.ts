@@ -4,6 +4,10 @@ const HOOK = "block-combined-akasha-calls"
 
 const NAMED = /akasha\s+(read|change)(\s|$)/
 
+const OPENS_AKASHA = /^akasha\s/
+
+const SAFE_QUOTED = /'[^']*'|"[^"`$\\]*"/g
+
 const WORD = "[^\\s'\"`$;|&<>()\\\\]+"
 
 const FENCE = "HEREDOC"
@@ -61,12 +65,21 @@ export const SCOPE: readonly string[] = [
   "  a prefix such as `env`, `timeout` or `sudo` before either call",
   "  a `cd` before either call, which neither needs, both reaching the repository the same way",
   "    from any working directory",
-  "  either name inside a quoted run or a heredoc body, refused there as a call is",
+  "  either name inside a quoted run, where the command opens with another word",
+  "  either name inside a heredoc body, refused there as a call is",
+  "  either name outside a quoted run, where the command opens with `akasha`",
+  "",
+  "A QUOTED RUN THE SHELL WOULD NOT REWRITE IS TAKEN OUT before the trigger is looked for,",
+  "but only where the command opens with `akasha`. That lets another akasha command carry",
+  "either name in a message without being judged as a call. A run holding a `$`, a backtick",
+  "or a backslash is left in, because the shell rewrites what is inside such a run. The",
+  "condition on the first word is what keeps `sh -c` from quoting its way past this hook.",
   "",
   "NOT REACHED:",
   "  `akasha` reached by a name that is not `akasha`, which the trigger never finds",
   "  every akasha command but these two",
   "  a call another program builds and runs, which reaches no hook as text",
+  "  either name inside a run the shell would not rewrite, in a command opening `akasha`",
   "",
   "The absence of a shape from the reached list is NOT a finding that it is let through. That",
   "list is what was measured; the rule is the match.",
@@ -87,8 +100,14 @@ export function approvedForm(command: string): boolean {
   return closings === 1 && lines[lines.length - 1] === FENCE
 }
 
+export function triggered(command: string): boolean {
+  const text = command.trim()
+  const looked = OPENS_AKASHA.test(text) ? text.replace(SAFE_QUOTED, "") : text
+  return NAMED.test(looked)
+}
+
 export function refusalIn(command: string): string | null {
-  if (!NAMED.test(command)) return null
+  if (!triggered(command)) return null
   return approvedForm(command) ? null : toldOf(HOOK, REFUSED)
 }
 
