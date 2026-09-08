@@ -10,7 +10,6 @@ import {
   printBlock,
   pushIndent,
 } from "../lua-printer-core/lua-printer-core.module.code.ts"
-import { isValidLuaIdentifier } from "../safe-names/safe-names.module.code.ts"
 import {
   escapeString,
   isSimpleExpression,
@@ -18,7 +17,8 @@ import {
   operatorPrecedence,
   rightAssociativeOperators,
   type SourceChunk,
-} from "../tstl-lua-printer-helpers/tstl-lua-printer-helpers.module.code.ts"
+} from "../lua-printer-helpers/lua-printer-helpers.module.code.ts"
+import { isValidLuaIdentifier } from "../safe-names/safe-names.module.code.ts"
 
 export function printExpression(
   state: LuaPrinterState,

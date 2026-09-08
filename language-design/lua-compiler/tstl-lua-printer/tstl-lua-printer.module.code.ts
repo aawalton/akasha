@@ -10,6 +10,11 @@ import {
   type LuaPrinterPrinters,
   printStatementArray,
 } from "../lua-printer-core/lua-printer-core.module.code.ts"
+import type {
+  Printer,
+  PrintResult,
+  SourceChunk,
+} from "../lua-printer-helpers/lua-printer-helpers.module.code.ts"
 import { lualibPrinterHolder } from "../lualib-builder-deps/lualib-builder-deps.module.code.ts"
 import {
   loadImportedLualibFeatures,
@@ -17,11 +22,6 @@ import {
 } from "../lualib-runtime/lualib-runtime.module.code.ts"
 import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
 import * as expr from "../tstl-lua-printer-expressions/tstl-lua-printer-expressions.module.code.ts"
-import type {
-  Printer,
-  PrintResult,
-  SourceChunk,
-} from "../tstl-lua-printer-helpers/tstl-lua-printer-helpers.module.code.ts"
 import * as stmt from "../tstl-lua-printer-statements/tstl-lua-printer-statements.module.code.ts"
 
 export function createPrinter(printers: readonly Printer[]): Printer {

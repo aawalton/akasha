@@ -5,6 +5,7 @@ import {
   type CompilerOptions,
   LuaTarget,
 } from "../compiler-options/compiler-options.module.code.ts"
+import { escapeString } from "../lua-printer-helpers/lua-printer-helpers.module.code.ts"
 import { couldNotFindBundleEntryPoint } from "../transpile-diagnostics/transpile-diagnostics.module.code.ts"
 import type {
   EmitFile,
@@ -15,7 +16,6 @@ import {
   getEmitPathRelativeToOutDir,
   getProjectRoot,
 } from "../transpile-program-paths/transpile-program-paths.module.code.ts"
-import { escapeString } from "../tstl-lua-printer-helpers/tstl-lua-printer-helpers.module.code.ts"
 import {
   cast,
   formatPathToLuaPath,

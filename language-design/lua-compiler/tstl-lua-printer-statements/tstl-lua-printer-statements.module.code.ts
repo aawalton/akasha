@@ -17,7 +17,7 @@ import {
 import {
   isValidLuaFunctionDeclarationName,
   type SourceChunk,
-} from "../tstl-lua-printer-helpers/tstl-lua-printer-helpers.module.code.ts"
+} from "../lua-printer-helpers/lua-printer-helpers.module.code.ts"
 
 export function printStatement(
   state: LuaPrinterState,

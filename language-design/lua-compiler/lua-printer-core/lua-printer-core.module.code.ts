@@ -5,9 +5,9 @@ import type { CompilerOptions } from "../compiler-options/compiler-options.modul
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
+import type { SourceChunk } from "../lua-printer-helpers/lua-printer-helpers.module.code.ts"
 import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
 import { getEmitPath } from "../transpile-program-paths/transpile-program-paths.module.code.ts"
-import type { SourceChunk } from "../tstl-lua-printer-helpers/tstl-lua-printer-helpers.module.code.ts"
 import { intersperse, normalizeSlashes } from "../tstl-utils/tstl-utils.module.code.ts"
 
 export interface LuaPrinterPrinters {
