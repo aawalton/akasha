@@ -94,7 +94,7 @@ export const LOADED_CODE_AT = "akasha/held/loaded.held-type.code.ts"
 
 export const LEAF_AT = `${HELD_RELATION}/page/id/${TARGET_ID}/${PART}/${SOURCE_ID}.jsonl`
 
-export const TYPE_FILED_AT = `identity/${PAGE_TYPE}/slug/${HELD_TYPE}.jsonl`
+export const TYPE_FILED_AT = `identity/page-type/${PAGE_TYPE}/slug/${HELD_TYPE}.jsonl`
 
 export const scratch = scratchWorld()
 
@@ -110,10 +110,10 @@ export function filed(root: string, at: string, said: Record<string, string>): u
   filedAll(root, at, [said])
 }
 
-export const INDEX_FILED_AT = `identity/${INDEX}/slug/${HELD_INDEX}.jsonl`
+export const INDEX_FILED_AT = `identity/page-type/${INDEX}/slug/${HELD_INDEX}.jsonl`
 
 export function edgeFiledAt(kind: string): string {
-  return `identity/${GRAPH_EDGE}/slug/${kind}.jsonl`
+  return `identity/page-type/${GRAPH_EDGE}/slug/${kind}.jsonl`
 }
 
 function indexed(root: string, indexName: string, exists: boolean): undefined {
@@ -205,7 +205,10 @@ export function loadingWorld(loadedBySlug: string | null, typeExists = true): st
     definition: "a module a test invented",
     code: "ts",
   })
-  filed(root, `identity/${MODULE}/slug/${HELD_LOADER}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
+  filed(root, `identity/page-type/${MODULE}/slug/${HELD_LOADER}.jsonl`, {
+    path: LOADER_AT,
+    id: LOADER_ID,
+  })
   paged(root, LOADED_AT, { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED })
   filed(root, `path/${LOADED_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
   filed(root, `path/${LOADED_CODE_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
@@ -235,7 +238,10 @@ export function loaderWorld(names = true): string {
   filed(root, `path/${LOADER_AT}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
   paged(root, LOADED_AT, { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED })
   filed(root, `path/${LOADED_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
-  filed(root, `identity/${HELD_TYPE}/slug/${LOADED}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
+  filed(root, `identity/page-type/${HELD_TYPE}/slug/${LOADED}.jsonl`, {
+    path: LOADED_AT,
+    id: LOADED_ID,
+  })
   linesFiled(root, `value/${HELD_TYPE}.jsonl`, [
     { path: LOADED_AT, value: { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED } },
   ])

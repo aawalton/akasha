@@ -277,7 +277,7 @@ test("marking one account reads no index the whole fleet is filed in", () => {
   const said = markedIn(root, "aine", { retryAllowedAt: RESETS_AT }, one.reading, bodiesIn(root))
   expect(said.kind).toBe("held")
   expect(one.seen).not.toContain("lines value/claude-account.jsonl")
-  expect(one.seen.filter((at) => at.startsWith("listing identity/claude-account"))).toEqual([])
+  expect(one.seen.filter((at) => at.startsWith("listing identity/"))).toEqual([])
 })
 
 test("marking one account with the routing handed in lists nothing at all", () => {

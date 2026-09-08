@@ -80,7 +80,7 @@ test("a removed page leaves no entry and no empty directory", () => {
 
   expect(existsSync(idFile(root, A))).toBe(false)
   expect(existsSync(slugFile(root, "domain", "a"))).toBe(false)
-  expect(existsSync(join(root, "identity", "domain"))).toBe(false)
+  expect(existsSync(join(root, "identity", "page-type", "domain"))).toBe(false)
 })
 
 test("a property held in a file is answered by the page stating it", () => {

@@ -44,9 +44,9 @@ function twoParents(): { readonly root: string; readonly repo: string } {
     const path = `${slug}.page-type.ts`
     const value = { id, pageTypeSlug: "page-type", slug, extendsSlug: above }
     writeFileSync(join(repo, path), `export const it = ${JSON.stringify(value)}\n`)
-    mkdirSync(join(root, "identity/page-type/slug"), { recursive: true })
+    mkdirSync(join(root, "identity/page-type/page-type/slug"), { recursive: true })
     writeFileSync(
-      join(root, `identity/page-type/slug/${slug}.jsonl`),
+      join(root, `identity/page-type/page-type/slug/${slug}.jsonl`),
       `${JSON.stringify({ path, id })}\n`
     )
     valued.push(JSON.stringify({ path, value }))
