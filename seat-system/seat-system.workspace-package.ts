@@ -331,6 +331,11 @@ export const seatSystem = {
     "module/seat-call",
     "module/seat-running",
     "module/seat-turn-color",
+    "workstation-service/maintain-seat-pending",
+    "workstation-service/memory-reaper",
+    "workstation-service/recipient-resolver",
+    "workstation-service/sweep-log-days",
+    "workstation-service/sweep-supervisor-logs",
   ],
   invariants: [
     {
