@@ -5,5 +5,10 @@ export const change = {
   pageTypeSlug: "namespace",
   slug: "change",
   definition: "the edits an agent keeps, and what becomes of them",
-  partSlugs: ["command/change-show", "command/change-list"],
+  partSlugs: [
+    "command/change-show",
+    "command/change-list",
+    "command/change-drop",
+    "command/change-take",
+  ],
 } as const satisfies Namespace

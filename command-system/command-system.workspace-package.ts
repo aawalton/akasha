@@ -74,6 +74,7 @@ export const commandSystem = {
     "module/namespace-listing",
     "module/refusals-keeping",
     "module/command-walking",
+    "module/change-arguing",
   ],
   invariants: [
     {

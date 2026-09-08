@@ -3,21 +3,27 @@ import { editsAt } from "../../../changes/modules/edits-keeping/edits-keeping.mo
 import { mistaking } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import {
-  listingHanded,
-  listingKept,
+  DROP_WORDS,
+  dropping,
+  forgetting,
+  pipedPathsIn,
 } from "../../../command-system/change-acting/change-acting.module.code.ts"
 import { subagentIn } from "../../../command-system/change-arguing/change-arguing.module.code.ts"
+import { inputIn } from "../../../command-system/piping/piping.module.code.ts"
 import { noPageSaid } from "../change/change.command.code.ts"
 
-const LISTS = "list"
+const DROPS = "drop"
 
-export function changeList(argv: readonly string[], given: Given): Answer {
-  const said = subagentIn(argv, LISTS)
+export function changeDrop(argv: readonly string[], given: Given): Answer {
+  const said = subagentIn(argv, DROPS)
   if ("why" in said) return mistaking([said.why])
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) {
     return mistaking([noPageSaid(given.root, given.agentId)])
   }
   const under = said.named
-  return under === null ? listingKept(given.root, page) : listingHanded(given.root, page, under)
+  if (under !== null) return forgetting(given.root, page, under, inputIn)
+  const piped = pipedPathsIn(inputIn, DROP_WORDS)
+  if (typeof piped === "string") return mistaking([piped])
+  return dropping(given.root, page, piped)
 }
