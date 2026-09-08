@@ -12,7 +12,7 @@ export const awenPageFoldersByIndex = {
       statement:
         "Code reaching the pages of a type asks the index for them rather than spelling their folder.",
       workingMemory:
-        '48 files have a constant such as `"seat-system/seats/pages"` and then read that folder off disk, where `listedAt` and `listedWithin` under `pages/indexes/reading` answer by page type slug. The breakage that raised this is mended, so what is left is that the index holds these answers and the code re-derives them.',
+        "A page type has no one folder: `readout` pages sit under `readouts/pages`, `alan/attributes/readouts` and `temper/temper-progress/readouts`, so a folder literal finds thirteen of twenty. `everyOfType` under `pages/indexes/reading` answers by page type slug and finds all twenty. Eight files are converted. What is left spells a folder to write a page into, to watch a page arrive in, or to ship as a directory, and the index answers none of those.\n",
     },
     {
       statement:
