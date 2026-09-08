@@ -1,7 +1,6 @@
-import type { Slug } from "@akasha/pages/page/slug"
-import type { TextProperty } from "../../../../../../pages/text-properties/text-property.page-type.ts"
+import type { TextProperty } from "@akasha/pages/text-property"
 
-export type SessionSlug = Slug
+export type SessionSlug = string
 
 export const sessionSlug = {
   id: "01a06580-66fd-7412-a20a-d678614e0121",
