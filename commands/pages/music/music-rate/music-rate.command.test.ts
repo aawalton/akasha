@@ -1,11 +1,73 @@
 import { expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Asking } from "@akasha/changes/mechanical-change-running"
+import type { Applied } from "@akasha/command-system/applying"
+import type { Given } from "@akasha/command-system/calling"
 import { refusingWith } from "@akasha/command-system/calling/testing"
+import type { Refused } from "@akasha/command-system/landing"
+import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { ARTIST, SONG, saidOf, taken, valuesFor } from "./music-rate.command.code.ts"
+import {
+  ARTIST,
+  type Landing,
+  musicRate,
+  SONG,
+  saidOf,
+  taken,
+  valuesFor,
+  WRITE,
+} from "./music-rate.command.code.ts"
 
 const scratch = scratchWorld()
+
+const ROOT = rootOf(process.cwd())
+
+const GIVEN: Given = { root: ROOT, calledAs: "akasha", from: ".", writer: null, agentId: null }
+
+const RATED = "aurora"
+
+const RATED_AT = `alan/music/catalog/artists/pages/${RATED}/${RATED}.artist.ts`
+
+const REACTION_AT = `alan/music/catalog/artists/pages/${RATED}/${RATED}.artist.reaction.txt`
+
+const REACTION = "she sings it plainly"
+
+const LANDED: Applied = {
+  base: "2222222222222222222222222222222222222222",
+  landed: [RATED_AT, REACTION_AT],
+  formatted: [],
+  said: [],
+  wrong: [],
+  commit: "3333333333333333333333333333333333333333",
+}
+
+type Reached = { readonly asked: readonly Asking[]; readonly said: string }
+
+type Reach = { readonly landing: Landing; readonly reached: Reached[] }
+
+function reaching(answer: Applied | Refused = LANDED): Reach {
+  const reached: Reached[] = []
+  return {
+    reached,
+    landing: async (_root, asked, said) => {
+      reached.push({ asked, said })
+      return answer
+    },
+  }
+}
+
+function pathsIn(asked: readonly Asking[]): readonly string[] {
+  return asked.map((one) => ("at" in one.given ? one.given.at : ""))
+}
+
+function ratingAurora(reach: Reach) {
+  return musicRate(
+    ["--target", ARTIST, "--slug", RATED, "--rating", "A", "--reaction", REACTION],
+    GIVEN,
+    reach.landing
+  )
+}
 
 const refusalOf = refusingWith(taken)
 
@@ -121,4 +183,44 @@ test("what is recorded is said as a line or as JSON", () => {
   expect(saidOf(held)).toBe(`Recorded ${SONG} a`)
   const asJson = takingOf(["--target", SONG, "--slug", "a", "--rating", "B", "--json"])
   expect(JSON.parse(saidOf(asJson))).toEqual({ target: SONG, slug: "a", rating: "B" })
+})
+
+test("the page and its prose are named to the landing at the change writing any path", async () => {
+  const reach = reaching()
+  const said = await ratingAurora(reach)
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  const one = reach.reached[0]
+  if (one === undefined) throw new Error("the landing was never reached")
+  expect(reach.reached.length).toBe(1)
+  expect(one.said).toBe(`record ${ARTIST} ${RATED}`)
+  expect(one.asked.map((each) => each.at)).toEqual([WRITE, WRITE])
+  expect(pathsIn(one.asked)).toEqual([RATED_AT, REACTION_AT])
+})
+
+test("the prose named to the landing is text rather than bytes", async () => {
+  const reach = reaching()
+  await ratingAurora(reach)
+  const prose = reach.reached[0]?.asked[1]
+  if (prose === undefined) throw new Error("no prose reached the landing")
+  expect("body" in prose.given ? prose.given.body : null).toBe(REACTION)
+})
+
+test("what landed is reported under the line saying what was recorded", async () => {
+  const said = await ratingAurora(reaching())
+  expect(said.report[0]).toBe(`Recorded ${ARTIST} ${RATED}`)
+  expect(said.report).toContain(`wrote ${RATED_AT}`)
+})
+
+test("a landing that refused is answered with the refusal and nothing recorded", async () => {
+  const said = await ratingAurora(reaching({ refusals: ["another landing held the lock"] }))
+  expect(said.code).toBe(3)
+  expect(said.refusals).toEqual(["another landing held the lock"])
+  expect(said.report).toEqual([])
+})
+
+test("a landing answering something wrong is answered as a refusal", async () => {
+  const said = await ratingAurora(reaching({ ...LANDED, wrong: ["the install would not take"] }))
+  expect(said.code).toBe(3)
+  expect(said.refusals).toEqual(["the install would not take"])
 })

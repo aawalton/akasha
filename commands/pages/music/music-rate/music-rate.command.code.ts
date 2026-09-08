@@ -1,7 +1,8 @@
-import { landingAsked, mistaking, textAt, wroteAndTook } from "@akasha/command-system/asking"
+import type { Asking } from "@akasha/changes/mechanical-change-running"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
+import { mistaking, textAt } from "@akasha/command-system/asking"
 import type { Answer, Given } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
-import type { FileEdit } from "@akasha/command-system/landing"
+import { answering, refused } from "@akasha/command-system/calling"
 import { listedAt } from "@akasha/indexes"
 import { MUSIC_RATINGS } from "@akasha/music-choosing/rating-ladder"
 import { exportedAs } from "@akasha/pages/page-export-name"
@@ -46,6 +47,16 @@ const FLAGGED = PROSE.map((one) => `--${one}`)
 const VALUED = [TARGET, SLUG, RATING, ...FLAGGED, ...FLAGGED.map((one) => `${one}${FROM_FILE}`)]
 
 const BARE = [JSON_SAID]
+
+const WRONG = 3
+
+export const WRITE = "change-mechanical/add-file-of-any-kind"
+
+export type Landing = (
+  root: string,
+  changes: readonly Asking[],
+  message: string
+) => ReturnType<typeof runMechanicalChange>
 
 export type Taken = {
   readonly target: string
@@ -163,7 +174,11 @@ export function saidOf(held: Taken): string {
     : `Recorded ${held.target} ${held.slug}`
 }
 
-export async function musicRate(argv: readonly string[], given: Given): Promise<Answer> {
+export async function musicRate(
+  argv: readonly string[],
+  given: Given,
+  landing: Landing = runMechanicalChange
+): Promise<Answer> {
   const held = taken(argv)
   if ("refused" in held) return refused(held.refused, INPUT)
   const found = listedAt(given.root, held.target, held.slug)
@@ -179,28 +194,19 @@ export async function musicRate(argv: readonly string[], given: Given): Promise<
     values: valuesFor(was, held),
   })
   if ("refused" in composed) return refused(composed.refused, DATA)
-  const changes: FileEdit[] = [
-    { path: composed.put.path, body: new TextEncoder().encode(composed.put.content) },
+  const changes: Asking[] = [
+    { at: WRITE, given: { at: composed.put.path, body: composed.put.content } },
   ]
   for (const [one, text] of held.prose) {
     const beside = besideAt(composed.put.path, one, TXT)
     if (beside === null) {
       return mistaking([`no \`${one}\` file can sit beside a name like ${composed.put.path}`])
     }
-    changes.push({ path: beside, body: new TextEncoder().encode(text) })
+    changes.push({ at: WRITE, given: { at: beside, body: text } })
   }
-  const answer = await landingAsked(given, {
-    changes,
-    message: `record ${held.target} ${held.slug}`,
-    dryRun: false,
-    glass: null,
-    unmoved: [],
-    saying: wroteAndTook,
-  })
-  if (answer.code !== 0) return answer
-  return {
-    report: held.json ? [saidOf(held)] : [saidOf(held), ...answer.report],
-    refusals: [],
-    code: 0,
-  }
+  const landed = await landing(given.root, changes, `record ${held.target} ${held.slug}`)
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  if (wrong.length > 0) return answering([], wrong, WRONG)
+  const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
+  return answering(held.json ? [saidOf(held)] : [saidOf(held), ...wrote], [], 0)
 }

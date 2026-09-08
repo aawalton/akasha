@@ -57,6 +57,14 @@ export const musicRate = {
     },
     {
       invariantKind: "departure",
+      statement: "A page is written through the change working out what kind of path it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The landing a page goes through is handed in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A property the call does not name is left as that property was.",
     },
     {
