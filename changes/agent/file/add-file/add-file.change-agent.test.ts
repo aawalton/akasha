@@ -61,7 +61,7 @@ test("the body this change hands on is reached through the runner the world carr
     { at: AT, body: "alpha\n" }
   )
 
-  expect(reached).toBe("change-mechanical-file/add-file-code")
+  expect(reached).toBe("change-mechanical/add-file-code")
   expect(said.refused).toBeNull()
 })
 

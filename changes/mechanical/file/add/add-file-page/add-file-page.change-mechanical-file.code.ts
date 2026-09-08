@@ -3,7 +3,7 @@ import { refusing } from "../../../../modules/change-answer/change-answer.module
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
-const ADD_FILE_CODE = "change-mechanical-file/add-file-code"
+const ADD_FILE_CODE = "change-mechanical/add-file-code"
 
 export type Asked = {
   readonly at: string

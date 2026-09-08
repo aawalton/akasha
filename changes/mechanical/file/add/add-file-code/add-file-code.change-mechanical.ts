@@ -1,8 +1,8 @@
-import type { ChangeMechanicalFile } from "../../change-mechanical-file.page-type.ts"
+import type { ChangeMechanical } from "../../../change-mechanical.page-type.ts"
 
 export const addFileCode = {
   id: "01a07969-9123-7320-b8c9-3afd2dae9bfa",
-  pageTypeSlug: "change-mechanical-file",
+  pageTypeSlug: "change-mechanical",
   slug: "add-file-code",
   changeModeSlug: "change-mode-add",
   changeTargetTypeSlug: "change-target-type/file",
@@ -32,4 +32,4 @@ export const addFileCode = {
       statement: "Nothing here judges the path a body is written at.",
     },
   ],
-} as const satisfies ChangeMechanicalFile
+} as const satisfies ChangeMechanical

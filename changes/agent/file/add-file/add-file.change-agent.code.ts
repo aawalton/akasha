@@ -22,7 +22,7 @@ const NO_LITERAL = "the body declares no literal, so no `id` goes into the body"
 
 const ADD_FILE = "change-mechanical-file/add-file"
 
-const ADD_FILE_CODE = "change-mechanical-file/add-file-code"
+const ADD_FILE_CODE = "change-mechanical/add-file-code"
 
 const ADD_FILE_PAGE = "change-mechanical-file/add-file-page"
 
