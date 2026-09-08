@@ -31,7 +31,31 @@ test("a change whose last line closes its quoted heredoc is let through", () => 
   expect(refusalIn("akasha change add-file <<'HEREDOC'\nat: a/b.ts\nHEREDOC")).toBe(null)
 })
 
-test("a command naming neither is let through", () => {
+test("a bare apply is let through", () => {
+  expect(refusalIn("akasha apply")).toBe(null)
+})
+
+test("an apply whose last line closes its quoted heredoc is let through", () => {
+  expect(refusalIn("akasha apply <<'HEREDOC'\nmessage: what this is for\nHEREDOC")).toBe(null)
+})
+
+test("an apply carrying a flag is refused", () => {
+  expect(refusalIn("akasha apply --message x")).toContain(NAMES)
+})
+
+test("a body piped into an apply is refused", () => {
+  expect(refusalIn("printf 'message: x' | akasha apply")).toContain(NAMES)
+})
+
+test("an apply opening an unquoted heredoc is refused", () => {
+  expect(refusalIn("akasha apply <<HEREDOC\nmessage: x\nHEREDOC")).toContain(NAMES)
+})
+
+test("an apply chained onward is refused", () => {
+  expect(refusalIn("akasha apply && rm -rf x")).toContain(NAMES)
+})
+
+test("a command naming none of them is let through", () => {
   expect(refusalIn("git status")).toBe(null)
 })
 
@@ -99,24 +123,24 @@ test("a read carrying a flag it does not take is refused", () => {
   expect(refusalIn("akasha read --bogus a.ts")).toContain(NAMES)
 })
 
-test("either name inside a quoted run is refused rather than read as data", () => {
+test("one of the names inside a quoted run is refused rather than read as data", () => {
   expect(refusalIn('echo "akasha read --file-path a.ts"')).toContain(NAMES)
 })
 
-test("another akasha command carrying either name in a message is let through", () => {
-  expect(refusalIn('akasha apply --message "fix the akasha change delimiter"')).toBe(null)
+test("another akasha command carrying one of the names in a message is let through", () => {
+  expect(refusalIn('akasha sms-send --text "fix the akasha change delimiter"')).toBe(null)
 })
 
-test("another akasha command carrying either name in single quotes is let through", () => {
-  expect(refusalIn("akasha apply --message 'akasha change is named here'")).toBe(null)
+test("another akasha command carrying one of the names in single quotes is let through", () => {
+  expect(refusalIn("akasha sms-send --text 'akasha change is named here'")).toBe(null)
 })
 
 test("a call chained after another akasha command is refused", () => {
-  expect(refusalIn('akasha apply --message "x" && akasha read y')).toContain(NAMES)
+  expect(refusalIn('akasha sms-send --text "x" && akasha read y')).toContain(NAMES)
 })
 
 test("a run the shell would rewrite is not taken out", () => {
-  expect(refusalIn('akasha apply --message "see $HOME and akasha read x"')).toContain(NAMES)
+  expect(refusalIn('akasha sms-send --text "see $HOME and akasha read x"')).toContain(NAMES)
 })
 
 test("a quoted call handed to another program is refused", () => {

@@ -2,7 +2,7 @@ import { ranAsCommandHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-ans
 
 const HOOK = "block-combined-akasha-calls"
 
-const NAMED = /akasha\s+(read|change)(\s|$)/
+const NAMED = /akasha\s+(read|change|apply)(\s|$)/
 
 const OPENS_AKASHA = /^akasha\s/
 
@@ -16,11 +16,13 @@ const READ = new RegExp("^akasha read( --full| --file-path " + WORD + ")*$")
 
 const CHANGE = new RegExp("^akasha change( " + WORD + "){0,2}( <<'" + FENCE + "')?$")
 
+const APPLY = new RegExp("^akasha apply( <<'" + FENCE + "')?$")
+
 const REFUSED = [
-  "`akasha read` and `akasha change` run alone on the line.",
-  "A read is recorded against this agent and a change writes the repository, so what ran has to",
-  "be what the record and the commit say ran. A loop, a function, a pipeline, a redirect or a",
-  "substitution around either call hides which call was made and what that call was handed.",
+  "`akasha read`, `akasha change` and `akasha apply` run alone on the line.",
+  "A read is recorded against this agent, and a change and an apply write the repository, so what",
+  "ran has to be what the record and the commit say ran. A loop, a function, a pipeline, a",
+  "redirect or a substitution around one hides which call was made and what that call was handed.",
   "",
   "  akasha read --file-path <path> [--full]",
   "",
@@ -34,6 +36,13 @@ const REFUSED = [
   "  HEREDOC",
   "",
   "takes the act, the words that act takes, and one heredoc whose closing line ends the command.",
+  "",
+  "  akasha apply <<'HEREDOC'",
+  "  message: <what the commit is for>",
+  "  HEREDOC",
+  "",
+  "takes that heredoc and no word of its own, and `akasha apply` alone takes no heredoc at all.",
+  "",
   "The shell's delimiter is always `HEREDOC`, so there is nothing to pick there.",
   "",
   "That word occurs as a line once, at the end. A body carrying that line of its own is refused,",
@@ -49,12 +58,12 @@ const REFUSED = [
 ]
 
 export const SCOPE: readonly string[] = [
-  `${HOOK} refuses a command naming \`akasha read\` or \`akasha change\` unless the whole`,
-  "command is one of the two approved forms. It matches the command whole rather than looking",
-  "for a forbidden shape inside it.",
+  `${HOOK} refuses a command naming \`akasha read\`, \`akasha change\` or \`akasha apply\``,
+  "unless the whole command is one of the three approved forms. It matches the command whole",
+  "rather than looking for a forbidden shape inside it.",
   "",
-  "WHERE THE RULE COMES FROM: a read records what an agent saw and a change writes the",
-  "repository. Both are worth what their record is worth. Shell around either one makes the",
+  "WHERE THE RULE COMES FROM: a read records what an agent saw, and a change and an apply write",
+  "the repository. All three are worth what their record is worth. Shell around one makes the",
   "command that ran different from the command that was read, and the record cannot say which.",
   "",
   "WHY THE WHOLE COMMAND: this hook reads no shell structure, so no structure hides a call from",
@@ -66,24 +75,24 @@ export const SCOPE: readonly string[] = [
   "  a chain, a pipeline, a redirect either way, a call sent to the background",
   "  a `for`, a `while`, an `if`, a function body, a subshell, a brace group",
   "  a substitution, in backticks or in `$( )`",
-  "  a prefix such as `env`, `timeout` or `sudo` before either call",
-  "  a `cd` before either call, which neither needs, both reaching the repository the same way",
+  "  a prefix such as `env`, `timeout` or `sudo` before one of them",
+  "  a `cd` before one of them, which none needs, all reaching the repository the same way",
   "    from any working directory",
-  "  either name inside a quoted run, where the command opens with another word",
-  "  either name inside a heredoc body, refused there as a call is",
-  "  either name outside a quoted run, where the command opens with `akasha`",
+  "  one of the names inside a quoted run, where the command opens with another word",
+  "  one of the names inside a heredoc body, refused there as a call is",
+  "  one of the names outside a quoted run, where the command opens with `akasha`",
   "",
   "A QUOTED RUN THE SHELL WOULD NOT REWRITE IS TAKEN OUT before the trigger is looked for,",
   "but only where the command opens with `akasha`. That lets another akasha command carry",
-  "either name in a message without being judged as a call. A run holding a `$`, a backtick",
+  "one of the names in a message without being judged as a call. A run holding a `$`, a backtick",
   "or a backslash is left in, because the shell rewrites what is inside such a run. The",
   "condition on the first word is what keeps `sh -c` from quoting its way past this hook.",
   "",
   "NOT REACHED:",
   "  `akasha` reached by a name that is not `akasha`, which the trigger never finds",
-  "  every akasha command but these two",
+  "  every akasha command but these three",
   "  a call another program builds and runs, which reaches no hook as text",
-  "  either name inside a run the shell would not rewrite, in a command opening `akasha`",
+  "  one of the names inside a run the shell would not rewrite, in a command opening `akasha`",
   "",
   "The absence of a shape from the reached list is NOT a finding that it is let through. That",
   "list is what was measured; the rule is the match.",
@@ -92,16 +101,21 @@ export const SCOPE: readonly string[] = [
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 
+function closedIn(lines: readonly string[], opened: boolean): boolean {
+  const closings = lines.filter((line) => line === FENCE).length
+  if (!opened) return closings === 0 && lines.length === 1
+  return closings === 1 && lines[lines.length - 1] === FENCE
+}
+
 export function approvedForm(command: string): boolean {
   const text = command.trim()
   if (READ.test(text)) return true
   const lines = text.split("\n")
   const opening = lines[0] ?? ""
-  const found = CHANGE.exec(opening)
-  if (found === null) return false
-  const closings = lines.filter((line) => line === FENCE).length
-  if (found[2] === undefined) return closings === 0 && lines.length === 1
-  return closings === 1 && lines[lines.length - 1] === FENCE
+  const changing = CHANGE.exec(opening)
+  if (changing !== null) return closedIn(lines, changing[2] !== undefined)
+  const applying = APPLY.exec(opening)
+  return applying !== null && closedIn(lines, applying[1] !== undefined)
 }
 
 export function triggered(command: string): boolean {
