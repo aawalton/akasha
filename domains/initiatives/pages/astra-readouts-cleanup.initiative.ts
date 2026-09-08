@@ -10,7 +10,7 @@ export const astraReadoutsCleanup = {
     {
       statement: "All readouts-specific files are organized in the readouts/ folder.",
       workingMemory:
-        "`move-folder-package` composes the whole carry from `readout-system/` to `readouts/` as 430 changes, and that landing refuses on faults already in the package rather than on the carry: `no-rule-in-two-files` refuses seven duplications across five readout code files, one of them shared with `agents/claude-accounts`; no page type declares `figure-max-length` or `day-kind`; and four tests fail, two of them naming `readout-system` paths as strings. Each is cleared on its own before the carry lands.",
+        "The duplicated rules and the two properties no page type declared are cleared, so `no-rule-in-two-files` and `folder-matches-a-shape` refuse nothing under `readout-system/`. `move-folder-package` composes the carry as 430 changes, waiting now on `move-folder`, which builds its list from the index and so names sidecars holding no file and misses uncommitted files that are there, and on four failing tests, two naming `readout-system` paths as strings.",
     },
     {
       statement: "The readouts/ folder passes the `folder-matches-a-shape` check.",
