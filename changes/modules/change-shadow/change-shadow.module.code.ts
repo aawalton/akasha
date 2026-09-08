@@ -18,6 +18,7 @@ import {
   type BodyOf,
   gathered,
   notText,
+  pathsIn,
   refusing,
   replayed,
 } from "../change-answer/change-answer.module.code.ts"
@@ -169,11 +170,14 @@ function settledIn(kept: Kept): Answering {
   if (kept.reading === null && kept.fresh.edits.length === 0) return shadowAt(kept.root).index
   const was: BodyOf = (path) =>
     kept.settled.has(path) ? (kept.settled.get(path) ?? null) : kept.base(path)
-  const cast = shadowOnto(kept.reading, changeOver(kept.root, kept.fresh, was))
+  const fresh = kept.fresh
+  const cast = shadowOnto(kept.reading, changeOver(kept.root, fresh, was))
   if ("refused" in cast) throw new Error(cast.refused)
   kept.reading = cast.reading
   kept.fresh = NOTHING_OVER
-  for (const [path, body] of kept.bodies) kept.settled.set(path, body)
+  for (const path of pathsIn(fresh)) {
+    if (kept.bodies.has(path)) kept.settled.set(path, kept.bodies.get(path) ?? null)
+  }
   return cast.shadow.index
 }
 

@@ -79,7 +79,6 @@ test("a ledger reads back the body an edit added leaves", () => {
 
 test("a ledger reads back nothing where an edit carried a path away", () => {
   const root = indexedRepo()
-  const was = textIn(root)(HELD_CODE) ?? ""
   const ledger = ledgerIn(root)
   addedTo(ledger, stating([{ kind: "remove", path: HELD_CODE }]))
 
@@ -144,6 +143,49 @@ test("an index a ledger answers is built again where a later edit was added", ()
   expect(ledger.index).not.toBe(first)
 })
 
+const CARRIED_EARLIER = "the first settling carried this in\n"
+
+test("a ledger settling again carries the bodies those edits left into the settled bodies", () => {
+  const ledger = ledgerIn(indexedRepo())
+  addedTo(ledger, stating([{ kind: "add", path: FRESH_PAGE, content: FRESH_BODY }]))
+  const first = ledger.index
+
+  addedTo(ledger, stating([{ kind: "add", path: OTHER, content: "two\n" }]))
+  const second = ledger.index
+
+  expect(second).not.toBe(first)
+  expect(ledger.kept.settled.get(FRESH_PAGE)).toBe(FRESH_BODY)
+  expect(ledger.kept.settled.get(OTHER)).toBe("two\n")
+})
+
+test("no body an earlier settling already carried in is carried in a second time", () => {
+  const ledger = ledgerIn(indexedRepo())
+  addedTo(ledger, stating([{ kind: "add", path: FRESH_PAGE, content: FRESH_BODY }]))
+  const first = ledger.index
+  ledger.kept.settled.set(FRESH_PAGE, CARRIED_EARLIER)
+
+  addedTo(ledger, stating([{ kind: "add", path: OTHER, content: "two\n" }]))
+  const second = ledger.index
+
+  expect(second).not.toBe(first)
+  expect(ledger.kept.settled.get(FRESH_PAGE)).toBe(CARRIED_EARLIER)
+  expect(ledger.kept.settled.get(OTHER)).toBe("two\n")
+})
+
+test("a path those edits name that the ledger replayed no body for is left out", () => {
+  const ledger = ledgerIn(indexedRepo())
+  addedTo(ledger, stating([{ kind: "add", path: FRESH_PAGE, content: FRESH_BODY }]))
+  const first = ledger.index
+
+  ledger.kept.fresh = stating([{ kind: "remove", path: HELD_CODE }])
+  ledger.kept.index = null
+  const second = ledger.index
+
+  expect(second).not.toBe(first)
+  expect(ledger.kept.bodies.has(HELD_CODE)).toBe(false)
+  expect(ledger.kept.settled.has(HELD_CODE)).toBe(false)
+})
+
 test("a reach over a ledger adds to that ledger rather than building a second world", async () => {
   const ledger = ledgerIn(indexedRepo())
   const said = await reach(ledger, ADD_FILE as never, { at: AT, body: "held\n" })
@@ -186,8 +228,6 @@ test("a path an answer writes reads back the body that answer leaves at the path
 
 test("a path an answer carries away reads back nothing", () => {
   const root = indexedRepo()
-  const was = textIn(root)(HELD_CODE) ?? ""
-
   const world = worldOver(worldIn(root), stating([{ kind: "remove", path: HELD_CODE }]))
 
   expect(world.textOf(HELD_CODE)).toBe(null)

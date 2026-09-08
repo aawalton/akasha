@@ -161,6 +161,20 @@ export const changeShadow = {
       statement: "A ledger replays those edits onto the bodies that ledger already settled.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A ledger carries the bodies those edits left into the bodies that ledger already settled.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No body an earlier settling already carried in is carried in a second time.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path the ledger replayed no body for is left out of the settled bodies rather than carried in.",
+    },
+    {
       invariantKind: "absence",
       statement: "No edit a ledger already settled is settled a second time.",
     },
