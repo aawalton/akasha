@@ -24,6 +24,8 @@ export const intersection = <T>(
   ...rest: ReadonlyArray<readonly T[]>
 ): readonly T[] => union(first).filter((x) => rest.every((r) => r.includes(x)))
 
+export const diagnosticSource = "@akasha/lua-compiler"
+
 type DiagnosticBody = Partial<ts.Diagnostic> & Pick<ts.Diagnostic, "messageText">
 
 export const createDiagnosticFactoryWithCode = <TArgs extends readonly unknown[]>(

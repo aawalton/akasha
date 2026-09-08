@@ -1,7 +1,8 @@
 import * as ts from "typescript"
+import { diagnosticSource } from "../utils/utils.module.code.ts"
 
 export const prepareDiagnosticForFormatting = (diagnostic: ts.Diagnostic): ts.Diagnostic =>
-  diagnostic.source === "@temper/shared-build-deploy-tstl"
+  diagnostic.source === diagnosticSource
     ? Object.assign({ ...diagnostic }, { code: "TL" })
     : diagnostic
 
