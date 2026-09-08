@@ -30,7 +30,6 @@ export const clusterCheck = {
     "boolean-property/tree-sha",
     "cluster-check/checksum-annotation-substitution",
     "cluster-check/syntax-bundle",
-    "cluster-check/tailwind-sources",
     "cluster-check/tsconfig",
     "cluster-check/vite-supabase-rr-define",
     "cluster-check/widget-payload-shape-mirror",
