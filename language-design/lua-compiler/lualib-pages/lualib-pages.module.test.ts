@@ -66,6 +66,17 @@ test("a build for Lua 5.0 of a page holding no Lua 5.0 code takes the page's cod
   expect(held.rootNames).toContain(ARRAY_AT.codePath)
 })
 
+test("a scanned file that is a page's own code file is taken from the page instead", () => {
+  const held = sourcesFrom([...SCANNED, ARRAY_AT.codePath], [ARRAY_AT], false)
+  expect(held.rootNames.filter((one) => one === ARRAY_AT.codePath)).toHaveLength(1)
+})
+
+test("a build for Lua 5.0 passes over the scanned code file of a page holding Lua 5.0 code", () => {
+  const held = sourcesFrom([...SCANNED, UNPACK.codePath], [UNPACK], true)
+  expect(held.rootNames).not.toContain(UNPACK.codePath)
+  expect(held.rootNames).toContain(UNPACK_LUA50)
+})
+
 test("a page naming no lualib feature either way refuses the build", () => {
   const named: LualibPage = {
     pagePath: "/lua-compiler/lualibs/nowhere/nowhere.lualib.ts",

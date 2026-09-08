@@ -261,19 +261,19 @@ export function transformBuiltinIdentifierExpression(
   }
 }
 
-const builtinErrorTypeNames = new Set([
-  "Error",
-  "ErrorConstructor",
-  "RangeError",
-  "RangeErrorConstructor",
-  "ReferenceError",
-  "ReferenceErrorConstructor",
-  "SyntaxError",
-  "SyntaxErrorConstructor",
-  "TypeError",
-  "TypeErrorConstructor",
-  "URIError",
-  "URIErrorConstructor",
+const builtinErrorFeatures = new Map<string, LuaLibFeature>([
+  ["Error", LuaLibFeature.Error],
+  ["ErrorConstructor", LuaLibFeature.Error],
+  ["RangeError", LuaLibFeature.RangeError],
+  ["RangeErrorConstructor", LuaLibFeature.RangeError],
+  ["ReferenceError", LuaLibFeature.ReferenceError],
+  ["ReferenceErrorConstructor", LuaLibFeature.ReferenceError],
+  ["SyntaxError", LuaLibFeature.SyntaxError],
+  ["SyntaxErrorConstructor", LuaLibFeature.SyntaxError],
+  ["TypeError", LuaLibFeature.TypeError],
+  ["TypeErrorConstructor", LuaLibFeature.TypeError],
+  ["URIError", LuaLibFeature.URIError],
+  ["URIErrorConstructor", LuaLibFeature.URIError],
 ])
 
 export function checkForLuaLibType(context: TransformationContext, type: ts.Type): undefined {
@@ -308,11 +308,13 @@ export function checkForLuaLibType(context: TransformationContext, type: ts.Type
     case "Performance":
       importLuaLibFeature(context, LuaLibFeature.Performance)
       return
-    default:
-      if (builtinErrorTypeNames.has(name)) {
-        importLuaLibFeature(context, LuaLibFeature.Error)
+    default: {
+      const errorFeature = builtinErrorFeatures.get(name)
+      if (errorFeature !== undefined) {
+        importLuaLibFeature(context, errorFeature)
       }
       return
+    }
   }
 }
 

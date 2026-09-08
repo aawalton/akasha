@@ -157,7 +157,8 @@ function createLuaLibPlugin(featureBySourceName: ReadonlyMap<string, LuaLibFeatu
         }
       }
       if (ts.isStringLiteral(moduleSpecifier)) {
-        const importedFeature = path.basename(moduleSpecifier.text, ".ts")
+        const importedName = path.basename(moduleSpecifier.text, ".ts")
+        const importedFeature = featureBySourceName.get(importedName) ?? importedName
         if (isLuaLibFeature(importedFeature)) {
           usedFeatures.add(importedFeature)
         }

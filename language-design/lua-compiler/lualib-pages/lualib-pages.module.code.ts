@@ -90,9 +90,17 @@ export function sourcesFrom(
     stated.set(feature, lua50 && lua50Path !== null ? lua50Path : page.codePath)
   }
 
+  const fromPages = new Set<string>()
+  for (const page of pages) {
+    fromPages.add(basename(page.codePath, ".ts"))
+    const lua50Path = page.lua50CodePath
+    if (lua50Path !== null) fromPages.add(basename(lua50Path, ".ts"))
+  }
+
   const taken = new Set<LuaLibFeature>()
   const rootNames: string[] = []
   for (const fileName of scanned) {
+    if (fromPages.has(basename(fileName, ".ts"))) continue
     const feature = featureNamed(basename(fileName, ".ts"))
     const source = feature === null ? undefined : stated.get(feature)
     if (feature === null || source === undefined) {

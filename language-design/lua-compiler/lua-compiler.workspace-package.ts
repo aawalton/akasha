@@ -9,6 +9,13 @@ export const luaCompiler = {
   partSlugs: [
     "lua-runtime-library/lualib",
     "lualib/array-at",
+    "lualib/error",
+    "lualib/error-classing",
+    "lualib/range-error",
+    "lualib/reference-error",
+    "lualib/syntax-error",
+    "lualib/type-error",
+    "lualib/uri-error",
     "module/builtin-array",
     "module/builtin-console",
     "module/builtin-function",
