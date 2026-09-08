@@ -121,6 +121,14 @@ export const testBodies = {
     },
     {
       invariantKind: "departure",
+      statement: "A filter spelling more than the ceiling matches every path instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hook decides for the path handed in rather than trusting its filter.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body reached by a way in is loaded at the path that way in lands on.",
     },
     {

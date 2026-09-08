@@ -57,6 +57,8 @@ const SPECIAL = /[.*+?^${}()|[\]\\]/g
 
 const EVERY = /.*/
 
+const CEILING = 20000
+
 const NOTHING = /(?!)/
 
 const NEAR = /^\.\.?\//
@@ -91,13 +93,15 @@ function escaped(one: string): string {
 
 export function wholeOf(named: readonly string[]): RegExp {
   if (named.length === 0) return NOTHING
-  return new RegExp(`^(${named.map(escaped).join("|")})$`)
+  const said = named.map(escaped).join("|")
+  return said.length > CEILING ? EVERY : new RegExp(`^(${said})$`)
 }
 
 export function endingOf(named: readonly string[]): RegExp {
   if (named.length === 0) return NOTHING
   const parts = new Set(named.map((one) => escaped(one.slice(one.lastIndexOf("/") + 1))))
-  return new RegExp(`(?:^|/)(${[...parts].join("|")})$`)
+  const said = [...parts].join("|")
+  return said.length > CEILING ? EVERY : new RegExp(`(?:^|/)(${said})$`)
 }
 
 export function folderOf(importer: string): string {
@@ -332,7 +336,9 @@ export function servedBy(bodies: Bodies, reaches: Reaches = {}): BunPlugin {
         const at = resolve(folderOf(args.importer), args.path)
         return apart.has(at) ? { path: at, namespace: SERVED } : undefined
       })
-      build.onLoad({ filter: wholeOf(named) }, (args) => servingOut(bodies, args.path))
+      build.onLoad({ filter: wholeOf(named) }, (args) =>
+        args.path in bodies ? servingOut(bodies, args.path) : undefined
+      )
       build.onLoad({ filter: EVERY, namespace: SERVED }, (args) => servingOut(bodies, args.path))
     },
   }

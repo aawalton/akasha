@@ -87,6 +87,12 @@ test("a change carrying no path matches nothing at all", () => {
   expect(endingOf([]).test("./held.module.code.ts")).toBe(false)
 })
 
+test("a change carrying more than a filter holds matches every path", () => {
+  const many = Array.from({ length: 500 }, (_, at) => `/repo/one/${"held".repeat(15)}-${at}.ts`)
+  expect(wholeOf(many).test("/repo/other/aside.ts")).toBe(true)
+  expect(endingOf(many).test("./aside.ts")).toBe(true)
+})
+
 test("the folder an import is read against drops the mark a served body carries", () => {
   expect(folderOf(`${SERVED}:${ONE}`)).toBe("/repo/one")
   expect(folderOf(`/${SERVED}:${ONE}`)).toBe("/repo/one")
@@ -271,6 +277,19 @@ test("a run over a serving answers the body handed in, not the one on disk", () 
   try {
     expect(ranOver(from, named, 1, null, serving).verdict).toBe("fail")
     expect(ranOver(from, named, 1).verdict).toBe("pass")
+  } finally {
+    serving.sweep()
+  }
+})
+
+test("a run over a change carrying more paths than a filter holds serves the body handed in", () => {
+  const from = repo({ "one.test.ts": PASSES })
+  const named = ["akasha/one.test.ts"]
+  const padding = Array.from({ length: 500 }, (_, at) => `akasha/pad/${"held".repeat(15)}-${at}.ts`)
+  const carried = [...named, ...padding]
+  const serving = servingOf(from, carried, handing({ "akasha/one.test.ts": FAILS }), named)
+  try {
+    expect(ranOver(from, named, 1, null, serving).verdict).toBe("fail")
   } finally {
     serving.sweep()
   }
