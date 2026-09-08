@@ -51,7 +51,7 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
   {
     struct: "ClaudeUsage",
     canonical: {
-      file: `${ROUTES}/api.claude-usage.ts`,
+      file: `${ROUTES}/claude-usage/claude-usage.route.code.ts`,
       anchor: "export type UsageWidgetPayload = {",
       kind: "members",
     },
