@@ -1,8 +1,8 @@
-import type { CoachingNote } from "../../coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
 
 export const aSpontaneousBonusSet20260625 = {
   id: "01a08177-6309-7b24-82bc-33a720c333c6",
-  pageTypeSlug: "coaching-note",
+  pageTypeSlug: "fitness-coaching-note",
   slug: "a-spontaneous-bonus-set-2026-06-25",
   title: "A spontaneous bonus set",
   coachingNoteActive: true,
@@ -10,4 +10,4 @@ export const aSpontaneousBonusSet20260625 = {
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-25",
   asks: "txt",
-} as const satisfies CoachingNote
+} as const satisfies FitnessCoachingNote
