@@ -9,6 +9,10 @@ export const luaCompiler = {
   partSlugs: [
     "lua-runtime-library/lualib",
     "lualib/array-at",
+    "lualib/array-concat",
+    "lualib/array-entries",
+    "lualib/array-is-array",
+    "lualib/array-push",
     "lualib/symbol",
     "lualib/well-known-symbols",
     "lualib/symbol-registry",
