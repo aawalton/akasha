@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0067Chapter67OfBloodBitesA
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0067-chapter-67-of-blood-bites-and-the-bestest",
   title: "Chapter 67: Of Blood, Bites, and the Bestest Second",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 67,
   ownLength: 1986,
   unitSlug: "words",

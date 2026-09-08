@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0062062HomeSweetHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0062-062-home-sweet-home",
   title: "062 - Home Sweet Home",
-  partOfSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
+  partOfCollectionSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
   position: 62,
   ownLength: 2093,
   unitSlug: "words",

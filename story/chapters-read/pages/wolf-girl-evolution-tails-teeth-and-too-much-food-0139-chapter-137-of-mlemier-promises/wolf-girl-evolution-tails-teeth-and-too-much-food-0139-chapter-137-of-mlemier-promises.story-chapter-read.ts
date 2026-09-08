@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0139Chapter137OfMlemierPro
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0139-chapter-137-of-mlemier-promises",
   title: "Chapter 137: Of Mlemier Promises",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 139,
   ownLength: 1924,
   unitSlug: "words",

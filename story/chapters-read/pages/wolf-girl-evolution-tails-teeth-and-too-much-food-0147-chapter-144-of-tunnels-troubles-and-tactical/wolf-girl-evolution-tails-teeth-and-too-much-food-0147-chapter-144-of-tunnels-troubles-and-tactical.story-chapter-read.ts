@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0147Chapter144OfTunnelsTro
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0147-chapter-144-of-tunnels-troubles-and-tactical",
   title: "Chapter 144: Of Tunnels, Troubles, and Tactical Jerky Offerings!",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 147,
   ownLength: 2134,
   unitSlug: "words",

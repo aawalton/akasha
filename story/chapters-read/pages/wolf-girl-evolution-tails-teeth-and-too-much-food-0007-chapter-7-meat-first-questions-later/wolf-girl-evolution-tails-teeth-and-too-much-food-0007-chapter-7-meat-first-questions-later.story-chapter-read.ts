@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0007Chapter7MeatFirstQuest
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0007-chapter-7-meat-first-questions-later",
   title: "Chapter 7: Meat First, Questions Later",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 7,
   ownLength: 1468,
   unitSlug: "words",

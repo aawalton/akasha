@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0034Chapter34SecondInComma
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0034-chapter-34-second-in-command",
   title: "Chapter 34: Second-in-Command",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 34,
   ownLength: 1210,
   unitSlug: "words",

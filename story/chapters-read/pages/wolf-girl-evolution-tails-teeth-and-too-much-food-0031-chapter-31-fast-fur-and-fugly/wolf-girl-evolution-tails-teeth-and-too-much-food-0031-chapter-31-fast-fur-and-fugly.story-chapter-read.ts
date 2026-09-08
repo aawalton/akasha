@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0031Chapter31FastFurAndFug
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0031-chapter-31-fast-fur-and-fugly",
   title: "Chapter 31: Fast, Fur, and Fugly",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 31,
   ownLength: 1332,
   unitSlug: "words",

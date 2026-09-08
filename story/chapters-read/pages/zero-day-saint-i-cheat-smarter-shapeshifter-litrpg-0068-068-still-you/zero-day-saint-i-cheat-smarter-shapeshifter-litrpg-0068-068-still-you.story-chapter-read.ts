@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0068068StillYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0068-068-still-you",
   title: "068 - Still You",
-  partOfSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
+  partOfCollectionSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
   position: 68,
   ownLength: 1949,
   unitSlug: "words",

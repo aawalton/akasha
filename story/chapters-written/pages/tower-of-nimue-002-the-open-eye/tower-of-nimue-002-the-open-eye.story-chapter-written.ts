@@ -5,7 +5,7 @@ export const towerOfNimue002TheOpenEye = {
   pageTypeSlug: "story-chapter-written",
   slug: "tower-of-nimue-002-the-open-eye",
   title: "The Open Eye",
-  partOfSlugs: ["tower-of-nimue"],
+  partOfCollectionSlugs: ["tower-of-nimue"],
   position: 2,
   ownLength: 4504,
   unitSlug: "words",

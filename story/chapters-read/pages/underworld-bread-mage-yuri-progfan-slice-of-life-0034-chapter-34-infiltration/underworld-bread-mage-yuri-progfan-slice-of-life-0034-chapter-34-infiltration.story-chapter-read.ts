@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0034Chapter34Infiltration 
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0034-chapter-34-infiltration",
   title: "Chapter 34: Infiltration",
-  partOfSlugs: ["underworld-bread-mage-yuri-progfan-slice-of-life"],
+  partOfCollectionSlugs: ["underworld-bread-mage-yuri-progfan-slice-of-life"],
   position: 34,
   ownLength: 1361,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0076076TheInvitation = {
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0076-076-the-invitation",
   title: "076 - The Invitation",
-  partOfSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
+  partOfCollectionSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
   position: 76,
   ownLength: 1780,
   unitSlug: "words",

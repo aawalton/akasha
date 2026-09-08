@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0068Chapter68OfJerkyPromis
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0068-chapter-68-of-jerky-promises-and-dum-dum",
   title: "Chapter 68: Of Jerky Promises and Dum-Dum Diplomacy",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 68,
   ownLength: 1962,
   unitSlug: "words",

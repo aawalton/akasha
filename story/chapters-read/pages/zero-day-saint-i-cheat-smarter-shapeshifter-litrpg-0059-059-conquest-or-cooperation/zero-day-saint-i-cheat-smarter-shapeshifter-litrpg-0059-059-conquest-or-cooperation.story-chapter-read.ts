@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0059059ConquestOrCoopera
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0059-059-conquest-or-cooperation",
   title: "059 - Conquest or Cooperation",
-  partOfSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
+  partOfCollectionSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
   position: 59,
   ownLength: 2303,
   unitSlug: "words",

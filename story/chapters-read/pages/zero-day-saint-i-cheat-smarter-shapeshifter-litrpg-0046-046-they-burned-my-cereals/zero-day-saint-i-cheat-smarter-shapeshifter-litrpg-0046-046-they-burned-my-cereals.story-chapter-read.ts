@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0046046TheyBurnedMyCerea
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0046-046-they-burned-my-cereals",
   title: "046 - They Burned My Cereals",
-  partOfSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
+  partOfCollectionSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
   position: 46,
   ownLength: 1912,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0077Chapter76OfSkewersGuil
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0077-chapter-76-of-skewers-guilds-and-lovely-young",
   title: "Chapter 76: Of Skewers, Guilds, and Lovely Young Ladies",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 77,
   ownLength: 2032,
   unitSlug: "words",

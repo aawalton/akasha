@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0001Chapter1IBiteTherefore
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0001-chapter-1-i-bite-therefore-i-am",
   title: "Chapter 1: I Bite, Therefore I Am",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 1,
   ownLength: 1817,
   unitSlug: "words",

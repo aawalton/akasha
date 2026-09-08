@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0004Chapter4MeatThiefSkill
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0004-chapter-4-meat-thief-skill-creep",
   title: "Chapter 4: Meat Thief, Skill Creep",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 4,
   ownLength: 1497,
   unitSlug: "words",

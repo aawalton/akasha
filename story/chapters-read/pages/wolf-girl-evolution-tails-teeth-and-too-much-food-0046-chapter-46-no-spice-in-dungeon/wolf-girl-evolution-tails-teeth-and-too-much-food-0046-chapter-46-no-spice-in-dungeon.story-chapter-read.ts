@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0046Chapter46NoSpiceInDung
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0046-chapter-46-no-spice-in-dungeon",
   title: "Chapter 46: No Spice in Dungeon",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 46,
   ownLength: 1858,
   unitSlug: "words",

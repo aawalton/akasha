@@ -6,7 +6,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0138Chapter136OfRoadsRestr
     pageTypeSlug: "story-chapter-read",
     slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0138-chapter-136-of-roads-restraints-and-temporary",
     title: "Chapter 136: Of Roads, Restraints, and Temporary Things",
-    partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+    partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
     position: 138,
     ownLength: 2671,
     unitSlug: "words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0108Chapter107OfEggscellen
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0108-chapter-107-of-eggscellent-distractions-and",
   title: "Chapter 107: Of Eggscellent Distractions, and Forest Escapades",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 108,
   ownLength: 1820,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0154Chapter151OfBestingBeh
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0154-chapter-151-of-besting-behemoths-and-seconds",
   title: "Chapter 151: Of Besting Behemoths and Second’s Shiny Spells!",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 154,
   ownLength: 2753,
   unitSlug: "words",

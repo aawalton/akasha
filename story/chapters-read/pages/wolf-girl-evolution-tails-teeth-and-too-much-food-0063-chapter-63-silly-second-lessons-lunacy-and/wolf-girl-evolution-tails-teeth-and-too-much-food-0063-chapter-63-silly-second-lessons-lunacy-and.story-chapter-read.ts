@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0063Chapter63SillySecondLe
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0063-chapter-63-silly-second-lessons-lunacy-and",
   title: "Chapter 63: Silly Second Lessons, Lunacy, and Lazy Dum-Dums",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 63,
   ownLength: 1692,
   unitSlug: "words",

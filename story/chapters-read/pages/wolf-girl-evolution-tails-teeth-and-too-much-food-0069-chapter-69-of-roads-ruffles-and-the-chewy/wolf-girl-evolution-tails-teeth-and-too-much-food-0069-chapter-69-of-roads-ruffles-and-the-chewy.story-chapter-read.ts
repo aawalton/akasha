@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0069Chapter69OfRoadsRuffle
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0069-chapter-69-of-roads-ruffles-and-the-chewy",
   title: "Chapter 69: Of Roads, Ruffles, and the Chewy Horizon",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 69,
   ownLength: 1879,
   unitSlug: "words",

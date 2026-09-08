@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0151Chapter148OfHappyNomsA
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0151-chapter-148-of-happy-noms-and-excellent",
   title: "Chapter 148: Of Happy Noms and Excellent Rescue Deals!",
-  partOfSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
   position: 151,
   ownLength: 3013,
   unitSlug: "words",
