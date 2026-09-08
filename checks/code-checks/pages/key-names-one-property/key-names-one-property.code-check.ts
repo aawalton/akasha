@@ -56,8 +56,7 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A unique kind goes from `page` to `page-type` to `page-property` or `part-of`, never back.",
+      statement: "A unique kind goes from `page` to `page-type` to `page-property`, never back.",
     },
     {
       invariantKind: "departure",

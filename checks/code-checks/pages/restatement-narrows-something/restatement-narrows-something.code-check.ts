@@ -38,7 +38,7 @@ export const restatementNarrowsSomething = {
     },
     {
       invariantKind: "departure",
-      statement: "A unique kind moving toward `part-of` narrows.",
+      statement: "A unique kind moving toward `page-property` narrows.",
     },
     {
       invariantKind: "departure",

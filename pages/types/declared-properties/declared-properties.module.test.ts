@@ -208,10 +208,10 @@ test("a declaration narrowing `unique` binds over the kind its property states",
     root,
     "route",
     ["page"],
-    [{ pagePropertySlug: "slug", required: true, many: false, unique: "part-of" }]
+    [{ pagePropertySlug: "slug", required: true, many: false, unique: "page-property" }]
   )
 
-  expect(carriedBy(root, "route").map((one) => one.unique)).toEqual(["part-of"])
+  expect(carriedBy(root, "route").map((one) => one.unique)).toEqual(["page-property"])
   expect(carriedBy(root, "page").map((one) => one.unique)).toEqual(["page-type"])
 })
 

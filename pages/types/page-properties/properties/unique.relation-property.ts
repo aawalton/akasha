@@ -1,6 +1,6 @@
 import type { RelationProperty } from "../../../relation-properties/relation-property.page-type.ts"
 
-export type Unique = "page" | "page-type" | "page-property" | "part-of"
+export type Unique = "page" | "page-type" | "page-property"
 
 export const unique = {
   id: "01a04edd-897d-7695-8047-3d1c855b750f",

@@ -18,7 +18,7 @@ const SLUG = "slug"
 
 const ID = "id"
 
-const UNIQUE_KINDS: readonly string[] = ["part-of", "page-property", "page-type", "page"]
+const UNIQUE_KINDS: readonly string[] = ["page-property", "page-type", "page"]
 
 const NO_UNIQUE_KIND = "none"
 

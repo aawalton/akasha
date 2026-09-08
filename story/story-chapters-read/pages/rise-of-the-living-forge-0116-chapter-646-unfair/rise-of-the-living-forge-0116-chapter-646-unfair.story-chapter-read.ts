@@ -1,6 +1,7 @@
 import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 
 export const riseOfTheLivingForge0116Chapter646Unfair = {
+  id: "01a081aa-8086-7a0a-b782-4a09e6f15c3d",
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0116-chapter-646-unfair",
   partOfSlugs: ["story-read/rise-of-the-living-forge"],
