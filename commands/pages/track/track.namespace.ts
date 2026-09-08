@@ -1,4 +1,4 @@
-import type { Namespace } from "../namespace.page-type.ts"
+import type { Namespace } from "../../../command-system/namespaces/namespace.page-type.ts"
 
 export const track = {
   id: "01a07979-7d2b-70bb-babc-f9bd625aca32",

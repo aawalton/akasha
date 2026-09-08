@@ -1,4 +1,4 @@
-import type { Command } from "../../../command-system/commands/command.page-type.ts"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const trackWeight = {
   id: "01a07bfe-36da-7166-8f06-6fa75c6f8c29",
