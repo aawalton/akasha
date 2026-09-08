@@ -134,7 +134,7 @@ async function carryAll(at: Date = new Date()): Promise<void> {
   for (const [readout, value] of CARRIED) await carryNow(readout, value, at)
 }
 
-const AKASHA = join(import.meta.dir, "..", "..", "..", "..", "..", "akasha")
+const AKASHA = join(import.meta.dir, "..", "..", "..", "..")
 
 test("the pages naming the inboxes group are the three the fixture holds", async () => {
   expect(await readoutsNaming(AKASHA, GROUP)).toEqual([
