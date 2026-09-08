@@ -40,6 +40,14 @@ export const lualib = {
       statement: "The rules refusing a shadowed global name and refusing `any` are off here.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A value compared with itself is how the ECMAScript runtime tests for NaN.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rule refusing a value compared with itself is off here.",
+    },
+    {
       invariantKind: "departure",
       statement: "One exported name is one page.",
     },

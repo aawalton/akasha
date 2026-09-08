@@ -110,6 +110,7 @@
         "rules": {
           "suspicious": {
             "noExplicitAny": "off",
+            "noSelfCompare": "off",
             "noShadowRestrictedNames": "off"
           }
         }
