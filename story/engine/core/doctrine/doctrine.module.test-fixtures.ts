@@ -1,6 +1,6 @@
-import type { GmDoctrinePack } from "./doctrine.module.code.ts"
+import type { Doctrine } from "./doctrine.module.code.ts"
 
-export const FIXTURE_PACK: GmDoctrinePack = {
+export const FIXTURE_DOCTRINE: Doctrine = {
   doctrineVersion: 6,
   policies: [
     { id: "doctrine:alpha", title: "Alpha", description: "a", bands: ["a1", "a2"] },

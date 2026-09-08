@@ -7,9 +7,9 @@ import {
 import { SheetEntryTemplateSchema } from "../sheet-template/sheet-template.module.code.ts"
 import { TallyCatalogSchema } from "../tally-catalog/tally-catalog.module.code.ts"
 
-export const GM_DOCTRINE_POLICY_ID_PREFIX = "doctrine:"
+export const DOCTRINE_POLICY_ID_PREFIX = "doctrine:"
 
-export const GmDoctrinePackSchema = z
+export const DoctrineSchema = z
   .object({
     doctrineVersion: z.number().int().nonnegative(),
     policies: z.array(GmPolicySchema),
@@ -18,9 +18,9 @@ export const GmDoctrinePackSchema = z
     tallyCatalog: TallyCatalogSchema.optional(),
   })
   .strict()
-export type GmDoctrinePack = z.infer<typeof GmDoctrinePackSchema>
+export type Doctrine = z.infer<typeof DoctrineSchema>
 
-export const GmDoctrinePackPatchSchema = z
+export const DoctrinePatchSchema = z
   .object({
     doctrineVersion: z.number().int().nonnegative().optional(),
     policies: z.array(GmPolicySchema).optional(),
@@ -29,15 +29,15 @@ export const GmDoctrinePackPatchSchema = z
     tallyCatalog: TallyCatalogSchema.optional(),
   })
   .strict()
-export type GmDoctrinePackPatch = z.infer<typeof GmDoctrinePackPatchSchema>
+export type DoctrinePatch = z.infer<typeof DoctrinePatchSchema>
 
-export function parseDoctrinePack(value: unknown): GmDoctrinePack {
-  return GmDoctrinePackSchema.parse(value)
+export function parseDoctrine(value: unknown): Doctrine {
+  return DoctrineSchema.parse(value)
 }
 
-export function withDoctrinePack(existing: GmContext | undefined, pack: GmDoctrinePack): GmContext {
+export function withDoctrine(existing: GmContext | undefined, pack: Doctrine): GmContext {
   const perGame = (existing?.policies ?? []).filter(
-    (p) => !p.id.startsWith(GM_DOCTRINE_POLICY_ID_PREFIX)
+    (p) => !p.id.startsWith(DOCTRINE_POLICY_ID_PREFIX)
   )
   return {
     ...existing,
@@ -53,9 +53,9 @@ export function preserveDoctrineOnReplace(
   current: GmContext | undefined | null
 ): GmContext {
   const packOwned = (current?.policies ?? []).filter((p) =>
-    p.id.startsWith(GM_DOCTRINE_POLICY_ID_PREFIX)
+    p.id.startsWith(DOCTRINE_POLICY_ID_PREFIX)
   )
-  const perGame = incoming.policies.filter((p) => !p.id.startsWith(GM_DOCTRINE_POLICY_ID_PREFIX))
+  const perGame = incoming.policies.filter((p) => !p.id.startsWith(DOCTRINE_POLICY_ID_PREFIX))
   const result: GmContext = { ...incoming, policies: [...packOwned, ...perGame] }
   if (current?.doctrineVersion !== undefined) result.doctrineVersion = current.doctrineVersion
   if (current?.gateDimensions !== undefined) result.gateDimensions = current.gateDimensions
@@ -83,15 +83,12 @@ function formatIssue(issue: { path: readonly PropertyKey[]; message: string }): 
   return `${issue.path.length > 0 ? issue.path.map((p) => p.toString()).join(".") : "(root)"}: ${issue.message}`
 }
 
-export type DoctrinePackUpdateResult =
-  | { readonly ok: true; readonly pack: GmDoctrinePack; readonly contentChanged: boolean }
+export type DoctrineUpdateResult =
+  | { readonly ok: true; readonly pack: Doctrine; readonly contentChanged: boolean }
   | { readonly ok: false; readonly error: string }
 
-export function buildDoctrinePackUpdate(
-  current: GmDoctrinePack,
-  rawPatch: unknown
-): DoctrinePackUpdateResult {
-  const parsed = GmDoctrinePackPatchSchema.safeParse(rawPatch)
+export function buildDoctrineUpdate(current: Doctrine, rawPatch: unknown): DoctrineUpdateResult {
+  const parsed = DoctrinePatchSchema.safeParse(rawPatch)
   if (!parsed.success) {
     return {
       ok: false,
@@ -99,7 +96,7 @@ export function buildDoctrinePackUpdate(
     }
   }
   const patch = parsed.data
-  const merged: GmDoctrinePack = {
+  const merged: Doctrine = {
     doctrineVersion: patch.doctrineVersion ?? current.doctrineVersion,
     policies: patch.policies ?? current.policies,
     sheetTemplate: patch.sheetTemplate ?? current.sheetTemplate,
@@ -108,7 +105,7 @@ export function buildDoctrinePackUpdate(
       ? { tallyCatalog: patch.tallyCatalog ?? current.tallyCatalog }
       : {}),
   }
-  const validated = GmDoctrinePackSchema.safeParse(merged)
+  const validated = DoctrineSchema.safeParse(merged)
   if (!validated.success) {
     return {
       ok: false,

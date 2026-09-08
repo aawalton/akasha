@@ -1,20 +1,20 @@
 import { describe, expect, test } from "bun:test"
 import type { GmContext } from "../gm-context-schema/gm-context-schema.module.code.ts"
 import {
-  buildDoctrinePackUpdate,
+  buildDoctrineUpdate,
+  DOCTRINE_POLICY_ID_PREFIX,
   dropsStampedDoctrineVersion,
-  GM_DOCTRINE_POLICY_ID_PREFIX,
-  parseDoctrinePack,
+  parseDoctrine,
   preserveDoctrineOnReplace,
-  withDoctrinePack,
+  withDoctrine,
 } from "./doctrine.module.code.ts"
-import { FIXTURE_PACK } from "./doctrine.module.test-fixtures.ts"
+import { FIXTURE_DOCTRINE } from "./doctrine.module.test-fixtures.ts"
 
 const PER_GAME_POLICY = { id: "house:no-dice", title: "No dice", bands: [] }
 
 describe("the policies a pack owns", () => {
   test("a policy the pack owns is known by its id prefix", () => {
-    expect(FIXTURE_PACK.policies.every((p) => p.id.startsWith(GM_DOCTRINE_POLICY_ID_PREFIX))).toBe(
+    expect(FIXTURE_DOCTRINE.policies.every((p) => p.id.startsWith(DOCTRINE_POLICY_ID_PREFIX))).toBe(
       true
     )
   })
@@ -22,17 +22,17 @@ describe("the policies a pack owns", () => {
 
 describe("parseDoctrinePack", () => {
   test("the fixture pack parses", () => {
-    expect(parseDoctrinePack(FIXTURE_PACK).doctrineVersion).toBe(6)
+    expect(parseDoctrine(FIXTURE_DOCTRINE).doctrineVersion).toBe(6)
   })
 
   test("a pack with no sheet template is refused", () => {
-    expect(() => parseDoctrinePack({ doctrineVersion: 1, policies: [] })).toThrow()
+    expect(() => parseDoctrine({ doctrineVersion: 1, policies: [] })).toThrow()
   })
 })
 
 describe("withDoctrinePack", () => {
   test("the pack's policies lead and the game's own follow", () => {
-    const merged = withDoctrinePack({ policies: [PER_GAME_POLICY] }, FIXTURE_PACK)
+    const merged = withDoctrine({ policies: [PER_GAME_POLICY] }, FIXTURE_DOCTRINE)
     expect(merged.policies.map((p) => p.id)).toEqual([
       "doctrine:alpha",
       "doctrine:beta",
@@ -42,24 +42,24 @@ describe("withDoctrinePack", () => {
 
   test("a stale doctrine policy on the game is dropped for the pack's", () => {
     const stale = { id: "doctrine:alpha", title: "Stale", bands: [] }
-    const merged = withDoctrinePack({ policies: [stale, PER_GAME_POLICY] }, FIXTURE_PACK)
+    const merged = withDoctrine({ policies: [stale, PER_GAME_POLICY] }, FIXTURE_DOCTRINE)
     expect(merged.policies.filter((p) => p.id === "doctrine:alpha")).toHaveLength(1)
     expect(merged.policies[0]?.title).toBe("Alpha")
   })
 
   test("the pack stamps its version and its gate dimensions on the context", () => {
-    const merged = withDoctrinePack(undefined, FIXTURE_PACK)
+    const merged = withDoctrine(undefined, FIXTURE_DOCTRINE)
     expect(merged.doctrineVersion).toBe(6)
     expect(merged.gateDimensions?.map((d) => d.id)).toEqual(["window-pane-prose", "system-voice"])
   })
 
   test("a pack carrying no tally catalog leaves none behind", () => {
-    expect(withDoctrinePack(undefined, FIXTURE_PACK).tallyCatalog).toBe(undefined)
+    expect(withDoctrine(undefined, FIXTURE_DOCTRINE).tallyCatalog).toBe(undefined)
   })
 })
 
 describe("preserveDoctrineOnReplace", () => {
-  const current: GmContext = withDoctrinePack({ policies: [PER_GAME_POLICY] }, FIXTURE_PACK)
+  const current: GmContext = withDoctrine({ policies: [PER_GAME_POLICY] }, FIXTURE_DOCTRINE)
 
   test("replacing a context leaves the doctrine the pack owns in place", () => {
     const replaced = preserveDoctrineOnReplace({ policies: [PER_GAME_POLICY] }, current)
@@ -115,7 +115,7 @@ describe("dropsStampedDoctrineVersion", () => {
 
 describe("buildDoctrinePackUpdate", () => {
   test("a patch changing nothing needs no version bump", () => {
-    const built = buildDoctrinePackUpdate(FIXTURE_PACK, {})
+    const built = buildDoctrineUpdate(FIXTURE_DOCTRINE, {})
     expect(built.ok).toBe(true)
     if (!built.ok) return
     expect(built.contentChanged).toBe(false)
@@ -123,7 +123,7 @@ describe("buildDoctrinePackUpdate", () => {
   })
 
   test("changing content with a raised version lands", () => {
-    const built = buildDoctrinePackUpdate(FIXTURE_PACK, {
+    const built = buildDoctrineUpdate(FIXTURE_DOCTRINE, {
       doctrineVersion: 7,
       policies: [{ id: "doctrine:alpha", title: "Alpha", description: "a", bands: ["a1"] }],
     })
@@ -134,28 +134,28 @@ describe("buildDoctrinePackUpdate", () => {
   })
 
   test("changing content without raising the version is refused", () => {
-    const built = buildDoctrinePackUpdate(FIXTURE_PACK, { policies: [] })
+    const built = buildDoctrineUpdate(FIXTURE_DOCTRINE, { policies: [] })
     expect(built.ok).toBe(false)
     if (built.ok) return
     expect(built.error).toContain("doctrineVersion")
   })
 
   test("an equal version is not a bump", () => {
-    const built = buildDoctrinePackUpdate(FIXTURE_PACK, { doctrineVersion: 6, policies: [] })
+    const built = buildDoctrineUpdate(FIXTURE_DOCTRINE, { doctrineVersion: 6, policies: [] })
     expect(built.ok).toBe(false)
   })
 
   test("a patch the schema refuses comes back as a fault", () => {
-    const built = buildDoctrinePackUpdate(FIXTURE_PACK, { doctrineVersion: -1 })
+    const built = buildDoctrineUpdate(FIXTURE_DOCTRINE, { doctrineVersion: -1 })
     expect(built.ok).toBe(false)
     if (built.ok) return
     expect(built.error).toContain("invalid patch")
   })
 
   test("what the patch leaves out is taken from the pack already there", () => {
-    const built = buildDoctrinePackUpdate(FIXTURE_PACK, { doctrineVersion: 9 })
+    const built = buildDoctrineUpdate(FIXTURE_DOCTRINE, { doctrineVersion: 9 })
     if (!built.ok) throw new Error(built.error)
-    expect(built.pack.policies).toEqual(FIXTURE_PACK.policies)
-    expect(built.pack.sheetTemplate).toEqual(FIXTURE_PACK.sheetTemplate)
+    expect(built.pack.policies).toEqual(FIXTURE_DOCTRINE.policies)
+    expect(built.pack.sheetTemplate).toEqual(FIXTURE_DOCTRINE.sheetTemplate)
   })
 })
