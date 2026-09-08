@@ -7,7 +7,7 @@ export interface Issue {
 export interface AddonStructureFacts {
   readonly addon: string
   readonly rosterDir: string | null
-  readonly mapPackageDir: string | null
+  readonly heldPackageDir: string | null
   readonly generatedFiles: readonly string[]
 }
 
@@ -22,21 +22,21 @@ export function scanAddonStructure(facts: readonly AddonStructureFacts[]): reado
   const issues: Issue[] = []
   for (const f of facts) {
     if (f.rosterDir === null) {
-      if (f.mapPackageDir === null) {
-        throw new Error(`${f.addon}: fact carries neither a roster directory nor a map entry`)
+      if (f.heldPackageDir === null) {
+        throw new Error(`${f.addon}: fact carries neither a roster directory nor a held addon page`)
       }
       issues.push({
         addon: f.addon,
-        file: f.mapPackageDir,
-        message: `${f.addon}: territory.map.json records package ${f.mapPackageDir}, and the addon roster discovers no addon of this name — the map entry is stale.`,
+        file: f.heldPackageDir,
+        message: `${f.addon}: the held addon page records package ${f.heldPackageDir}, and the addon roster discovers no addon of this name — the page is stale.`,
       })
       continue
     }
-    if (f.mapPackageDir !== null && f.mapPackageDir !== f.rosterDir) {
+    if (f.heldPackageDir !== null && f.heldPackageDir !== f.rosterDir) {
       issues.push({
         addon: f.addon,
-        file: f.mapPackageDir,
-        message: `${f.addon}: territory.map.json records package ${f.mapPackageDir}, and the addon roster finds it at ${f.rosterDir} — repoint the map entry.`,
+        file: f.heldPackageDir,
+        message: `${f.addon}: the held addon page records package ${f.heldPackageDir}, and the addon roster finds it at ${f.rosterDir} — repoint the page.`,
       })
     }
     for (const g of f.generatedFiles) {

@@ -1,5 +1,5 @@
 export const summary =
-  "Rule that every territory map entry names an addon the roster finds at the package it records, and every generated file sits under a generated directory"
+  "Rule that every held addon page names an addon the roster finds at the package it records, and every generated file sits under a generated directory"
 
 import { readdirSync, statSync } from "node:fs"
 import { join, relative } from "node:path"
@@ -39,8 +39,8 @@ export const help: CommandHelp = {
     { name: "--json", description: "Emit one JSON object per violation instead of prose." },
   ],
   exits: [
-    { code: 0, meaning: "every map entry and every generated file sits where it should" },
-    { code: 1, meaning: "a map entry is stale or misplaced, or a generated file sits loose" },
+    { code: 0, meaning: "every held addon page and every generated file sits where it should" },
+    { code: 1, meaning: "a held addon page is stale or misplaced, or a generated file sits loose" },
     { code: 2, meaning: "the roster came back empty, so the run certifies nothing" },
   ],
   examples: [
@@ -99,7 +99,7 @@ export default async function checkHeldAddonStructure(args: readonly string[]): 
     membership: {
       kind: "atLeast",
       members: names.length,
-      from: `the addon roster at ${root} unioned with the nodes ${TERRITORY_MAP_PATH} names`,
+      from: `the addon roster at ${root} unioned with the addons the pages under ${TERRITORY_MAP_PATH} name`,
     },
     labelOf: (addon) => addon,
     siteOf: (addon) => {
@@ -111,7 +111,7 @@ export default async function checkHeldAddonStructure(args: readonly string[]): 
       const facts: AddonStructureFacts = {
         addon,
         rosterDir,
-        mapPackageDir: mapDirs.get(addon) ?? null,
+        heldPackageDir: mapDirs.get(addon) ?? null,
         generatedFiles: rosterDir === null ? [] : generatedFilesUnder(root, rosterDir),
       }
       return scanAddonStructure([facts]).map((one) => ({ file: one.file, message: one.message }))
@@ -124,9 +124,9 @@ export default async function checkHeldAddonStructure(args: readonly string[]): 
       population,
       format: parsed.boolean("--json") ? "json" : "human",
       prefix: PREFIX,
-      header: "the territory map and the addon tree disagree",
+      header: "the held addon pages and the addon tree disagree",
       successMessage:
-        `Every map entry names an addon the roster finds at the package it records, and every generated file sits under a generated directory. ` +
+        `Every held addon page names an addon the roster finds at the package it records, and every generated file sits under a generated directory. ` +
         `Measured over ${names.length} addon(s) in the tree at ${root}.`,
       formatViolation: (one) => one.message,
     },

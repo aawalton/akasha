@@ -4,20 +4,28 @@ export const territoryMap = {
   id: "01a06890-2000-7000-9000-00000000000a",
   pageTypeSlug: "module",
   slug: "territory-map",
-  definition: "which addon each lane holds while the temper port runs",
+  definition: "which package each addon the temper port holds is under",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A map naming no addon is refused rather than read as an empty map.",
+      statement: "A folder naming no held addon is refused rather than read as an empty map.",
     },
     {
       invariantKind: "departure",
-      statement: "A row carrying a key the shape does not name is refused.",
+      statement: "A page carrying a key its page type does not declare is refused at its landing.",
     },
     {
       invariantKind: "departure",
-      statement: "The map is read from the checkout this code sits in.",
+      statement: "The held addon pages are read from the checkout this code sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package is the folder holding the addon page a held addon page names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A held addon page naming an addon page no folder holds is refused.",
     },
   ],
 } as const satisfies Module
