@@ -248,8 +248,8 @@ export function transformPropertyAccessExpressionWithCapture(
     }
   }
   if (node.expression.kind === SyntaxKind.SuperKeyword) {
-    const symbol = context.checker.getSymbolAtLocation(node)
-    if (symbol && (symbol.flags & ts.SymbolFlags.GetAccessor) !== 0) {
+    const accessSymbol = context.checker.getSymbolAtLocation(node)
+    if (accessSymbol && (accessSymbol.flags & ts.SymbolFlags.GetAccessor) !== 0) {
       return {
         expression: transformLuaLibFunction(
           context,
