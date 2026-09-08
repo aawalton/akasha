@@ -76,6 +76,23 @@ export const changePreparing = {
         "A change the lockfile or a generated file was added to is answered as no change to judge over.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page whose slug names no export refuses the change carrying that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal is made where the change is prepared rather than among the checks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change kind running no check is held to that refusal too.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every road that lands is held to that refusal, including a change kind running no check.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a file or takes the hold.",
     },

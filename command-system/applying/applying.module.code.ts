@@ -8,7 +8,6 @@ import { bypassedIn, glassSaid, mistaking, unloadableIn } from "../asking/asking
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { preparing } from "../change-preparing/change-preparing.module.code.ts"
 import { type Bodies, type Running, rebasedHeld } from "../drafting/drafting.module.code.ts"
-import { unexportableIn } from "../export-naming/export-naming.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { editsOf, type FileEdit, landing, type Refused } from "../landing/landing.module.code.ts"
@@ -255,9 +254,8 @@ export async function applied(
   const gate = running.checks ? judging : NO_GATE
   const carrying = [...carries, ...(holding.carries ?? [])]
   const prepared = preparing(root, head, editsOf(said.held), carrying)
+  if ("refusals" in prepared) return { refusals: [...prepared.refusals, UNEXPORTABLE] }
   const formatting = prepared.formatting
-  const unexportable = unexportableIn(formatting.changes)
-  if (unexportable.length > 0) return { refusals: [...unexportable, UNEXPORTABLE] }
   if (running.writerOwesReading && agentId !== null)
     warrantedAgain(root, agentId, said.held, said.moved)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)

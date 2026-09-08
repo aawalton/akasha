@@ -1,7 +1,8 @@
 import { formattedBody } from "@akasha/code/code-format"
 import type { Change } from "@akasha/pages/change"
 import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
-import type { FileEdit } from "../landing/landing.module.code.ts"
+import { unexportableIn } from "../export-naming/export-naming.module.code.ts"
+import type { FileEdit, Refused } from "../landing/landing.module.code.ts"
 import { changeOf } from "../landing/landing.module.code.ts"
 import { lockingFor } from "../manifest-locking/manifest-locking.module.code.ts"
 import type { FileCarry } from "../path-carrying/path-carrying.module.code.ts"
@@ -43,8 +44,10 @@ export function preparing(
   base: string,
   changes: readonly FileEdit[],
   carries: readonly FileCarry[] = []
-): Prepared {
+): Prepared | Refused {
   const formatting = formattingIn(root, changes)
+  const unexportable = unexportableIn(formatting.changes)
+  if (unexportable.length > 0) return { refusals: unexportable }
   const locking = lockingFor(root, base, formatting.changes)
   const change = changeOf(root, { base, edits: formatting.changes, carries })
   const worked = workedFor(change)

@@ -166,18 +166,6 @@ export const asking = {
       statement: "A change kind running no check writes nothing into the commit.",
     },
     {
-      invariantKind: "departure",
-      statement: "A page whose slug names no export refuses the change carrying that page.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That refusal is made with the minting rather than among the checks.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A change kind running no check is held to that refusal too.",
-    },
-    {
       invariantKind: "gap",
       statement: "A caller is never told nothing happened when something did.",
     },

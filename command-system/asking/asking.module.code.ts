@@ -8,7 +8,6 @@ import { isMissing } from "@akasha/utils-fs/missing"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
 import { preparing } from "../change-preparing/change-preparing.module.code.ts"
 import { runningOf } from "../drafting/drafting.module.code.ts"
-import { unexportableIn } from "../export-naming/export-naming.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { passedOver, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
@@ -294,9 +293,8 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   }
   const base = baseOf(given.root)
   const prepared = preparing(given.root, base, minted.changes, asked.carries ?? [])
+  if ("refusals" in prepared) return mistaking([...prepared.refusals, NOTHING])
   const formatting = prepared.formatting
-  const unexportable = unexportableIn(formatting.changes)
-  if (unexportable.length > 0) return mistaking([...unexportable, NOTHING])
   const aside = [
     ...filledSaid(minted.filled),
     ...formattedSaid(formatting.formatted),
