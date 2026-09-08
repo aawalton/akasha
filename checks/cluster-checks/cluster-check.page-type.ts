@@ -181,6 +181,7 @@ export const clusterCheck = {
     "module/jsx-class-tokens-values",
     "module/jsx-surface-tokens",
     "module/layer-monotonicity",
+    "module/libc-ffi-binding",
   ],
   properties: [
     {
