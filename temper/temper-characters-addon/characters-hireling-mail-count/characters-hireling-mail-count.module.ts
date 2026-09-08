@@ -9,7 +9,7 @@ export const charactersHirelingMailCount = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A tally carrying yesterday's date counts as nothing looted today.",
+      statement: "A tally with yesterday's date counts as nothing looted today.",
     },
   ],
 } as const satisfies Module

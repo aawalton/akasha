@@ -13,7 +13,7 @@ export const vampireStages = {
     },
     {
       invariantKind: "constraint",
-      statement: "A vampire stage's place in this table is the index a build hash carries.",
+      statement: "A vampire stage's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

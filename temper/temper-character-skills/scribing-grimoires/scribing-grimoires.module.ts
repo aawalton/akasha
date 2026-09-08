@@ -13,7 +13,7 @@ export const scribingGrimoires = {
     },
     {
       invariantKind: "constraint",
-      statement: "An entry's place in this table is the index a build hash carries.",
+      statement: "An entry's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

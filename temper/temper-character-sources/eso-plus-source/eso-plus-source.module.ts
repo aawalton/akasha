@@ -9,7 +9,7 @@ export const esoPlusSource = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A ESO Plus row's place in this table is the index a build hash carries.",
+      statement: "A ESO Plus row's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

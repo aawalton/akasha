@@ -29,11 +29,11 @@ export const catalogSideFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A written request carries a version above the version the last request carried.",
+      statement: "A written request has a version above the version the last request carried.",
     },
     {
       invariantKind: "departure",
-      statement: "A written request carries a version at least as high as the clock reads.",
+      statement: "A written request has a version at least as high as the clock reads.",
     },
     {
       invariantKind: "departure",

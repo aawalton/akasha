@@ -13,7 +13,7 @@ export const alliances = {
     },
     {
       invariantKind: "constraint",
-      statement: "A alliance's place in this table is the index a build hash carries.",
+      statement: "A alliance's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

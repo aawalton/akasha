@@ -13,7 +13,7 @@ export const characterSkillActivations = {
     },
     {
       invariantKind: "constraint",
-      statement: "An activation carries the key the matching skill row carries.",
+      statement: "An activation has the key the matching skill row has.",
     },
   ],
 } as const satisfies Module

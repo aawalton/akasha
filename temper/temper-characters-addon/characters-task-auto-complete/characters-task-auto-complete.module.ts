@@ -18,7 +18,7 @@ export const charactersTaskAutoComplete = {
     {
       invariantKind: "departure",
       statement:
-        "A task scoped to every character is marked once every character carries its own mark.",
+        "A task scoped to every character is marked once every character has its own mark.",
     },
   ],
 } as const satisfies Module

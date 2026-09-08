@@ -9,7 +9,7 @@ export const charactersActiveQuests = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A condition the game gives already carries its own count in its text.",
+      statement: "A condition the game gives already has its own count in its text.",
     },
   ],
 } as const satisfies Module
