@@ -4,9 +4,6 @@
   "type": "module",
   "exports": {
     "./app-namespaces-synth": "./app-namespaces-synth/app-namespaces-synth.module.code.ts",
-    "./cgroup-psi-constants": "./cgroup-psi-constants/cgroup-psi-constants.module.code.ts",
-    "./exporter-daemonsets": "./exporter-daemonsets/exporter-daemonsets.module.code.ts",
-    "./kubepods-oom-constants": "./kubepods-oom-constants/kubepods-oom-constants.module.code.ts",
     "./manifest-yaml-reading": "./manifest-yaml-reading/manifest-yaml-reading.module.code.ts",
     "./orphan-resource-audit": "./orphan-resource-audit/orphan-resource-audit.module.code.ts",
     "./orphan-resource-listing": "./orphan-resource-listing/orphan-resource-listing.module.code.ts",

@@ -6,6 +6,11 @@ export const nodeExporterDaemonset = {
   slug: "node-exporter-daemonset",
   definition:
     "the daemon set publishing each node's processor, memory, disk and network as metrics",
+  partSlugs: [
+    "module/cgroup-psi-collector",
+    "module/cgroup-psi-constants",
+    "module/kubepods-oom-constants",
+  ],
   code: "ts",
   generatedDirectory: true,
 } as const satisfies Manifest

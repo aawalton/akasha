@@ -10,11 +10,7 @@ export const clusterManifests = {
   partSlugs: [
     "module/app-namespaces-synth",
     "module/cert-manager-synth",
-    "module/cgroup-psi-collector",
-    "module/cgroup-psi-constants",
     "module/cloudnative-pg-synth",
-    "module/exporter-daemonsets",
-    "module/kubepods-oom-constants",
     "module/manifest-yaml-reading",
     "module/metallb-synth",
     "module/orphan-resource-audit",
