@@ -171,6 +171,12 @@
         "zod": "^4.3.6",
       },
     },
+    "alan/harness/idle-system": {
+      "name": "@akasha/idle-system",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
+    },
     "alan/harness/sms-access": {
       "name": "@akasha/sms-access",
       "dependencies": {
@@ -877,12 +883,6 @@
     },
     "id-minting": {
       "name": "@akasha/id-minting",
-    },
-    "idle-system": {
-      "name": "@akasha/idle-system",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
     },
     "imessage": {
       "name": "@akasha/imessage",
@@ -3115,7 +3115,7 @@
 
     "@akasha/id-minting": ["@akasha/id-minting@workspace:id-minting"],
 
-    "@akasha/idle-system": ["@akasha/idle-system@workspace:idle-system"],
+    "@akasha/idle-system": ["@akasha/idle-system@workspace:alan/harness/idle-system"],
 
     "@akasha/imessage": ["@akasha/imessage@workspace:imessage"],
 
