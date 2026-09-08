@@ -1,39 +1,21 @@
 import { parsedAs } from "@akasha/code/code-source"
-import { placingOver, readingOf, typingOver } from "@akasha/code/code-typing"
 import ts from "typescript"
 import {
-  pathsIn,
   refusing,
   spliced,
   stating,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  requiredIn,
+  type Sought,
+} from "../../../../modules/key-requiring/key-requiring.module.code.ts"
 import { without } from "../../../../modules/literal-splicing/literal-splicing.module.code.ts"
 import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
 
-const BLIND = ts.TypeFlags.Any | ts.TypeFlags.Unknown
-
-export type Sought = {
-  readonly at: string
-  readonly key: string
-}
-
 export type RemovePropertyValueAsked = Sought & {
   readonly value: string
-}
-
-export function requiredIn(world: World, given: Sought): boolean | null {
-  const placed = placingOver(pathsIn(world.over), world.textOf)
-  const read = readingOf(world.root, world.textOf, placed)
-  const typing = typingOver(world.root, [given.at], read, placed)
-  const source = typing.sourceAt(given.at)
-  const held = source === null ? null : literalIn(source)
-  if (held === null) return null
-  const type = typing.checker.getContextualType(held)
-  if (type === undefined || (type.flags & BLIND) !== 0) return null
-  const found = type.getProperty(given.key)
-  return found === undefined ? false : (found.flags & ts.SymbolFlags.Optional) === 0
 }
 
 export function removePropertyValue(world: World, given: RemovePropertyValueAsked): Said {

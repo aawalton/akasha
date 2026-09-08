@@ -49,6 +49,7 @@ export const change = {
     "domain/change-target",
     "module/target-kinding",
     "module/target-narrowing",
+    "module/key-requiring",
   ],
   properties: [
     { pagePropertySlug: "relation-property/change-kind-slug", required: false, many: false },
