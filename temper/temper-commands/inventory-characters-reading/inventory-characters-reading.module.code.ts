@@ -97,12 +97,6 @@ interface ParsedMotifCoord {
   readonly chapterId: number
 }
 
-/**
- * The addon files a known motif book by where it sits in the lore library —
- * collection and book index — and says nothing about which style or chapter that
- * is. The lore table is what carries the names, so it is walked once here to
- * make the placement readable.
- */
 const FILE_COORDS_TO_STYLE_CHAPTER: ReadonlyMap<string, ParsedMotifCoord> = (() => {
   const map = new Map<string, ParsedMotifCoord>()
   const category = LORE_LIBRARY_DATA.find((one) => one.categoryIndex === CRAFTING_MOTIFS_CATEGORY)
