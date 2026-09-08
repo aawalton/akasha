@@ -8,6 +8,7 @@ export const luaCompiler = {
   manifest: "json",
   partSlugs: [
     "lua-runtime-library/lualib",
+    "lualib/array-at",
     "module/builtin-array",
     "module/builtin-console",
     "module/builtin-function",
