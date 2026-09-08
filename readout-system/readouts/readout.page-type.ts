@@ -58,7 +58,6 @@ export const readout = {
     "relation-property/read-live-from",
     "relation-property/scale-slug",
     "text-property/color-slug",
-    "text-property/day-kind",
     "text-property/drawn-as",
     "text-property/earned-key",
     "text-property/label",
