@@ -11,6 +11,7 @@ export const attributeIntelligence = {
   unit: "points",
   place: 5,
   scaleSlug: "attribute-points",
+  attributeSlug: "intelligence",
   groupSlugs: ["attributes"],
   wireKey: "intelligence",
   invariants: [
