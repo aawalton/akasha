@@ -1,3 +1,4 @@
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import * as ts from "typescript"
 import {
   transformArrayConstructorCall,
@@ -62,14 +63,10 @@ export function transformBuiltinPropertyAccessExpression(
   const ownerType = context.checker.getTypeAtLocation(node.expression)
 
   if (ts.isIdentifier(node.expression) && isStandardLibraryType(context, ownerType, undefined)) {
-    switch (ownerType.symbol.name) {
-      case "NumberConstructor":
-        return transformNumberProperty(context, node)
-      case "Math":
-        return transformMathProperty(context, node)
-      case "SymbolConstructor":
-        importLuaLibFeature(context, LuaLibFeature.Symbol)
-    }
+    const ownerName = ownerType.symbol.name
+    if (ownerName === "NumberConstructor") return transformNumberProperty(context, node)
+    if (ownerName === "Math") return transformMathProperty(context, node)
+    if (ownerName === "SymbolConstructor") importLuaLibFeature(context, LuaLibFeature.Symbol)
   }
 
   if (isStringType(context, ownerType)) {
@@ -150,6 +147,8 @@ function tryTransformBuiltinGlobalMethodCall(
     case "PromiseConstructor":
       result = transformPromiseConstructorCall(context, node, calledMethod)
       break
+    default:
+      return undefined
   }
   if (result && calledMethod.questionDotToken) {
     context.addDiagnostic(unsupportedBuiltinOptionalCall(calledMethod))
@@ -180,6 +179,8 @@ function tryTransformBuiltinPropertyCall(
     case "CallableFunction":
     case "NewableFunction":
       return transformFunctionPrototypeCall(context, node, calledMethod)
+    default:
+      return undefined
   }
 }
 
@@ -249,9 +250,14 @@ export function transformBuiltinIdentifierExpression(
             "structuredClone"
           )
           break
+        default:
+          return assertNever(node.text)
       }
       return maybeWrapThisVoidAsAdapter(context, node, polyfill, "forced")
     }
+
+    default:
+      return undefined
   }
 }
 
@@ -302,10 +308,11 @@ export function checkForLuaLibType(context: TransformationContext, type: ts.Type
     case "Performance":
       importLuaLibFeature(context, LuaLibFeature.Performance)
       return
-  }
-
-  if (builtinErrorTypeNames.has(name)) {
-    importLuaLibFeature(context, LuaLibFeature.Error)
+    default:
+      if (builtinErrorTypeNames.has(name)) {
+        importLuaLibFeature(context, LuaLibFeature.Error)
+      }
+      return
   }
 }
 
@@ -365,5 +372,6 @@ export function transformPromiseConstructorCall(
       )
     default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "Promise", expressionName))
+      return undefined
   }
 }
