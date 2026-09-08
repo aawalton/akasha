@@ -1,8 +1,8 @@
-import type { CoachingNote } from "../../coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
 
 export const jointSwellingBackOffOnFlareDays = {
   id: "019f01e1-b952-783a-a931-b952d7a3a560",
-  pageTypeSlug: "coaching-note",
+  pageTypeSlug: "fitness-coaching-note",
   slug: "joint-swelling-back-off-on-flare-days",
   title: "Joint swelling — back off on flare days",
   coachingNoteActive: true,
@@ -10,4 +10,4 @@ export const jointSwellingBackOffOnFlareDays = {
   coachingNoteKind: "injury-watch",
   coachingNoteSortOrder: 7,
   asks: "txt",
-} as const satisfies CoachingNote
+} as const satisfies FitnessCoachingNote
