@@ -141,7 +141,11 @@ export function unlinkUnit(home: string, name: string): undefined {
   rmSync(join(stagingDir(home), name), { force: true })
 }
 
-export function installing(home: string, plan: Plan): Done {
+export function installing(
+  home: string,
+  plan: Plan,
+  run: (args: readonly string[]) => Ran = systemctl
+): Done {
   const did: string[] = []
   const refused: string[] = []
   const took = (what: string, done: Ran): undefined => {
@@ -156,14 +160,20 @@ export function installing(home: string, plan: Plan): Done {
   }
 
   for (const name of plan.remove) {
-    took(`removed ${name}`, systemctl(["disable", "--now", name]))
+    took(`stopped ${name}`, run(["stop", name]))
+    took(`removed ${name}`, run(["disable", name]))
     unlinkUnit(home, name)
   }
 
-  took("reloaded", systemctl(["daemon-reload"]))
+  took("reloaded", run(["daemon-reload"]))
 
-  for (const name of plan.enable) took(`enabled ${name}`, systemctl(["enable", "--now", name]))
-  for (const name of plan.stop) took(`stopped ${name}`, systemctl(["disable", "--now", name]))
+  for (const name of plan.enable) took(`enabled ${name}`, run(["enable", "--now", name]))
+  for (const name of plan.stop) {
+    took(`stopped ${name}`, run(["stop", name]))
+    took(`disabled ${name}`, run(["disable", name]))
+    linkUnit(home, name)
+  }
+  if (plan.stop.length > 0) took("reloaded", run(["daemon-reload"]))
 
   return { did, refused }
 }

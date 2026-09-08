@@ -53,5 +53,21 @@ export const serviceInstalling = {
       invariantKind: "absence",
       statement: "Nothing here reaches the cluster.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A unit is stopped before that unit is disabled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Disabling a unit takes away the link akasha reaches that unit by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link a disable took away is made again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "systemd is reloaded again where a link was made again.",
+    },
   ],
 } as const satisfies Module

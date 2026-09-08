@@ -3,10 +3,12 @@ import { existsSync, lstatSync, mkdtempSync, realpathSync, rmSync, writeFileSync
 import { join } from "node:path"
 import type { WorkstationService } from "../workstation-service.page-type.ts"
 import {
+  installing,
   linkUnit,
   ourInstalled,
   ownedByService,
   planFor,
+  type Ran,
   stagingDir,
   systemdDir,
   textFor,
@@ -123,4 +125,55 @@ test("unlinking a unit takes away both the link and the file it named", () => {
 
 test("nothing is owned where there is no unit folder", () => {
   expect(ourInstalled(join(HOME, "nowhere"))).toEqual([])
+})
+
+function recorded() {
+  const said: string[] = []
+  const run = (args: readonly string[]): Ran => {
+    said.push(args.join(" "))
+    return { code: 0, out: "" }
+  }
+  return { said, run }
+}
+
+const NOTHING = { write: new Map<string, string>(), enable: [], stop: [], remove: [] }
+
+test("a unit is stopped before that unit is disabled", () => {
+  const { said, run } = recorded()
+  writeUnit(HOME, "off.service", "body")
+  installing(HOME, { ...NOTHING, stop: ["off.service"] }, run)
+  expect(said).toContain("stop off.service")
+  expect(said).toContain("disable off.service")
+  expect(said.indexOf("stop off.service")).toBeLessThan(said.indexOf("disable off.service"))
+  expect(said).not.toContain("disable --now off.service")
+})
+
+test("a service that is not to be running keeps the link akasha reaches it by", () => {
+  const { run } = recorded()
+  writeUnit(HOME, "kept.service", "body")
+  installing(HOME, { ...NOTHING, stop: ["kept.service"] }, run)
+  expect(lstatSync(join(systemdDir(HOME), "kept.service")).isSymbolicLink()).toBe(true)
+})
+
+test("systemd is reloaded again once a link taken away is made again", () => {
+  const { said, run } = recorded()
+  writeUnit(HOME, "again.service", "body")
+  installing(HOME, { ...NOTHING, stop: ["again.service"] }, run)
+  expect(said.filter((one) => one === "daemon-reload").length).toBe(2)
+})
+
+test("nothing stopped means nothing reloaded twice", () => {
+  const { said, run } = recorded()
+  installing(HOME, NOTHING, run)
+  expect(said.filter((one) => one === "daemon-reload").length).toBe(1)
+})
+
+test("a unit no service accounts for is stopped, disabled and then taken away", () => {
+  const { said, run } = recorded()
+  writeUnit(HOME, "gone.service", "body")
+  linkUnit(HOME, "gone.service")
+  installing(HOME, { ...NOTHING, remove: ["gone.service"] }, run)
+  expect(said.indexOf("stop gone.service")).toBeLessThan(said.indexOf("disable gone.service"))
+  expect(existsSync(join(systemdDir(HOME), "gone.service"))).toBe(false)
+  expect(existsSync(join(stagingDir(HOME), "gone.service"))).toBe(false)
 })
