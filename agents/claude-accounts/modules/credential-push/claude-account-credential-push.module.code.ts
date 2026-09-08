@@ -1,8 +1,9 @@
 import { chmodSync, existsSync } from "node:fs"
 import { join } from "node:path"
-import { landedMechanically } from "@akasha/command-system/asking"
-import type { Answer } from "@akasha/command-system/calling"
-import type { FileEdit } from "@akasha/command-system/landing"
+import { type Asking, runMechanicalChange } from "@akasha/changes/mechanical-change-running"
+import type { Applied } from "@akasha/command-system/applying"
+import { saidBy } from "@akasha/command-system/fault-saying"
+import type { Refused } from "@akasha/command-system/landing"
 import type { PageOf } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
 import { secretAt, uncommittedAt } from "@akasha/pages/page-file-name"
@@ -12,7 +13,7 @@ import type { Value } from "@akasha/pages/page-value"
 import { instantOf, markedIn, type Routing } from "../marking/claude-account-marking.module.code.ts"
 import { accountPathIn } from "../reading/claude-account-reading.module.code.ts"
 
-const CALLED_AS = "claude-account-credential-push"
+const PUT = "change-mechanical-file/add-file"
 
 const ACCESS_KEY = "access-token"
 
@@ -25,8 +26,6 @@ const RESCUED = "rescuedCredential"
 const SLUG_SHAPE = /^[a-z0-9][a-z0-9-]*$/
 
 const NARROWED = 0o600
-
-const LANDED = 0
 
 export const PUSHED_KEYS: readonly string[] = [ACCESS_KEY, REFRESH_KEY]
 
@@ -49,10 +48,9 @@ export type CipherMade = (
 
 export type Landing = (
   root: string,
-  calledAs: string,
-  changes: readonly FileEdit[],
+  asked: readonly Asking[],
   message: string
-) => Promise<Answer>
+) => Promise<Applied | Refused>
 
 export type Doors = {
   readonly secretsRead: SecretsRead
@@ -63,7 +61,7 @@ export type Doors = {
 export const DOORS: Doors = {
   secretsRead: secretsIn,
   cipherMade: cipherFor,
-  landing: landedMechanically,
+  landing: runMechanicalChange,
 }
 
 export type Push =
@@ -78,29 +76,14 @@ export type Push =
   | { readonly kind: "stale"; readonly slug: string; readonly why: string }
   | { readonly kind: "refused"; readonly slug: string; readonly why: string }
 
-function sayOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
-
 function refusedFor(slug: string, why: string): Push {
   return { kind: "refused", slug, why }
 }
 
-// `unfit` is the rule every secret is held to, and it admits a newline because a secret may be a
-// whole file. A token is not that kind of secret, and this module's page says a token holding a
-// newline is refused, so the narrower rule a token is held to is written here.
 function unfitToken(key: string, value: string): string | null {
   const wrong = unfit(key, value)
   if (wrong !== null) return wrong
   return value.includes("\n") ? `\`${key}\` holds a newline, and a token is one line` : null
-}
-
-export function sayingOf(answer: Answer): string {
-  const said = answer.refusals.filter((one) => one.trim() !== "")
-  if (said.length > 0) return said.join("; ")
-  const report = answer.report.filter((one) => one.trim() !== "")
-  if (report.length > 0) return report.join("; ")
-  return `the landing answered ${answer.code} and said nothing`
 }
 
 export function expiryHeldIn(beside: Value | null): number | null {
@@ -118,7 +101,7 @@ export function narrowedFor(root: string, page: string): string | null {
     if (!existsSync(full)) mergeUncommitted(root, page, {})
     chmodSync(full, NARROWED)
   } catch (thrown) {
-    return sayOf(thrown)
+    return saidBy(thrown)
   }
   return null
 }
@@ -233,7 +216,7 @@ export async function pushedIn(
     try {
       kept = doors.secretsRead(root, page)
     } catch (thrown) {
-      return refusedFor(slug, sayOf(thrown))
+      return refusedFor(slug, saidBy(thrown))
     }
     if (merged(kept ?? new Map<string, string>(), next)) {
       const wrong = stampedOn(root, credential, at, given, pageOf, routing)
@@ -249,14 +232,14 @@ export async function pushedIn(
     if (composed.text === null) return refusedFor(slug, composed.why)
     const landed = await doors.landing(
       root,
-      CALLED_AS,
-      [{ path: sidecar, body: new TextEncoder().encode(composed.text) }],
+      [{ at: PUT, given: { at: sidecar, body: composed.text } }],
       `akasha: credential push ${sidecar}`
     )
-    if (landed.code !== LANDED) {
+    const said = "refusals" in landed ? landed.refusals : landed.wrong
+    if (said.length > 0) {
       return refusedFor(
         slug,
-        `${sidecar} did not land: ${sayingOf(landed)} — ${rescuedBeside(root, page, credential, given, pageOf, routing)}`
+        `${sidecar} did not land: ${said.join("; ")} — ${rescuedBeside(root, page, credential, given, pageOf, routing)}`
       )
     }
 
@@ -282,6 +265,6 @@ export async function pushedIn(
     }
     return { kind: "pushed", slug, sidecar, keys: [...PUSHED_KEYS] }
   } catch (thrown) {
-    return refusedFor(slug, `the push threw, which it is written never to do: ${sayOf(thrown)}`)
+    return refusedFor(slug, `the push threw, which it is written never to do: ${saidBy(thrown)}`)
   }
 }

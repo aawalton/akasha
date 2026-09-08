@@ -19,7 +19,6 @@ import {
   narrowedFor,
   PUSHED_KEYS,
   pushedIn,
-  sayingOf,
 } from "./claude-account-credential-push.module.code.ts"
 import {
   ACCESS_KEY,
@@ -349,14 +348,6 @@ test("no token value reaches a refusal", async () => {
     expect(said).not.toContain(ROTATED_ACCESS)
     expect(said).not.toContain(ROTATED_REFRESH)
   }
-})
-
-test("a landing refusal naming nothing says the code the landing answered", () => {
-  expect(sayingOf({ report: [], refusals: [], code: 7 })).toBe(
-    "the landing answered 7 and said nothing"
-  )
-  expect(sayingOf({ report: ["only a report"], refusals: [" "], code: 7 })).toBe("only a report")
-  expect(sayingOf({ report: ["a report"], refusals: ["one", "two"], code: 1 })).toBe("one; two")
 })
 
 test("narrowing a path that is no TypeScript file answers with why", () => {

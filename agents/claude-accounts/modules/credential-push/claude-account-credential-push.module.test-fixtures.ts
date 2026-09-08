@@ -1,7 +1,7 @@
 import { statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Answer } from "@akasha/command-system/calling"
-import type { FileEdit } from "@akasha/command-system/landing"
+import type { Asking } from "@akasha/changes/mechanical-change-running"
+import type { Applied } from "@akasha/command-system/applying"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { readingIn } from "@akasha/indexes"
 import { secretAt } from "@akasha/pages/page-file-name"
@@ -66,6 +66,17 @@ export const NOWHERE = "/var/tmp/credential-push-no-such-root"
 
 export const FAILED: readonly string[] = ["[gate] fail: the landing said no"]
 
+const PUT = "change-mechanical-file/add-file"
+
+const LANDED: Applied = {
+  base: "",
+  landed: [],
+  formatted: [],
+  said: [],
+  wrong: [],
+  commit: null,
+}
+
 export async function pushed(root: string, credential: Credential, doors: Doors): Promise<Push> {
   return await pushedIn(root, credential, doors, readingIn(root), bodiesIn(root))
 }
@@ -101,18 +112,20 @@ export function sopsIn(said: Partial<Doors> = {}): Sops {
       return text === undefined ? null : valuesOf(text)
     },
     cipherMade: (root, page, values) => ({ text: cipherText(root, page, values), why: "" }),
-    landing: async (root, calledAs, changes, message): Promise<Answer> => {
-      landed.push(`${calledAs} ${message}`)
-      for (const one of changes) held.set(join(root, one.path), textOf(one))
-      return { report: [], refusals: [], code: 0 }
+    landing: async (root, asked, message): Promise<Applied> => {
+      landed.push(message)
+      for (const [at, body] of bodiesOf(asked)) held.set(join(root, at), body)
+      return LANDED
     },
     ...said,
   }
   return { doors, held, landed }
 }
 
-export function textOf(change: FileEdit): string {
-  return change.body === null ? "" : new TextDecoder().decode(change.body)
+export function bodiesOf(asked: readonly Asking[]): ReadonlyMap<string, string> {
+  const held = new Map<string, string>()
+  for (const one of asked) if (one.at === PUT) held.set(one.given.at, one.given.body)
+  return held
 }
 
 export function seeded(
@@ -127,39 +140,36 @@ export function seeded(
 }
 
 export function silentLanding(sops: Sops): Doors["landing"] {
-  return async (root, calledAs, changes, message) => {
-    sops.landed.push(`${calledAs} ${message} ${root} ${changes.length}`)
-    return { report: [], refusals: [], code: 0 }
+  return async (root, asked, message) => {
+    sops.landed.push(`${message} ${root} ${asked.length}`)
+    return LANDED
   }
 }
 
 export function crossedLanding(sops: Sops): Doors["landing"] {
-  return async (root, calledAs, changes, message) => {
-    sops.landed.push(`${calledAs} ${message}`)
+  return async (root, asked, message) => {
+    sops.landed.push(message)
     const crossed = new Map([
       [ACCESS_KEY, "fake-access-token-something-else"],
       [REFRESH_KEY, "fake-refresh-token-something-else"],
     ])
-    for (const one of changes)
-      sops.held.set(join(root, one.path), cipherText(root, one.path, crossed))
-    return { report: [], refusals: [], code: 0 }
+    for (const at of bodiesOf(asked).keys()) {
+      sops.held.set(join(root, at), cipherText(root, at, crossed))
+    }
+    return LANDED
   }
 }
 
 export function spoilingLanding(sops: Sops, at: string): Doors["landing"] {
-  return async (root, calledAs, changes, message) => {
-    const said = await sops.doors.landing(root, calledAs, changes, message)
+  return async (root, asked, message) => {
+    const said = await sops.doors.landing(root, asked, message)
     writeFileSync(join(root, at), "this is not a page body\n")
     return said
   }
 }
 
 export function refusingLanding(refusals: readonly string[]): Doors["landing"] {
-  return async (root, calledAs, changes, message) => ({
-    report: [`${calledAs} ${message} ${root} ${changes.length}`],
-    refusals,
-    code: 1,
-  })
+  return async () => ({ refusals })
 }
 
 export function heldIn(sops: Sops, root: string, page: string): ReadonlyMap<string, string> {

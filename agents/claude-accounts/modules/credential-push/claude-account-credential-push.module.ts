@@ -69,6 +69,10 @@ export const claudeAccountCredentialPush = {
     },
     {
       invariantKind: "departure",
+      statement: "The change adding a file writes the sops file rather than an edit composed here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A landing that does not carry the pair holds that pair beside the page.",
     },
     {
