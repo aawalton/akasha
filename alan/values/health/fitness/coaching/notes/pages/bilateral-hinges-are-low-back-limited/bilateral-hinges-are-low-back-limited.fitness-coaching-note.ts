@@ -7,7 +7,7 @@ export const bilateralHingesAreLowBackLimited = {
   title: "Bilateral hinges are low-back-limited",
   active: true,
   focusTags: ["legs"],
-  coachingNoteKind: "programming-cue",
+  kind: "programming-cue",
   coachingNoteSortOrder: 9,
   says: "txt",
 } as const satisfies FitnessCoachingNote

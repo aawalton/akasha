@@ -4,7 +4,7 @@ export const fitnessCoachingNoteKind = {
   id: "01a0657a-fe00-7149-b974-3ad13dd29e09",
   pageTypeSlug: "select-property",
   slug: "fitness-coaching-note-kind",
-  propertySlug: "coaching-note-kind",
+  propertySlug: "kind",
   definition: "what sort of note this is",
   values: [
     "medical-gate",

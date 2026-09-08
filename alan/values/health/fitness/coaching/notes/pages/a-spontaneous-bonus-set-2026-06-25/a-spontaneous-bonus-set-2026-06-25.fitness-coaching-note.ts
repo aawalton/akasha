@@ -7,7 +7,7 @@ export const aSpontaneousBonusSet20260625 = {
   title: "A spontaneous bonus set",
   active: true,
   focusTags: ["push"],
-  coachingNoteKind: "bout-observation",
+  kind: "bout-observation",
   coachingNoteDate: "2026-06-25",
   says: "txt",
 } as const satisfies FitnessCoachingNote

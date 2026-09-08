@@ -7,7 +7,7 @@ export const legsArentStrengthLimitedAtHomeLoads = {
   title: "Legs aren't strength-limited at home loads",
   active: true,
   focusTags: ["legs"],
-  coachingNoteKind: "programming-cue",
+  kind: "programming-cue",
   coachingNoteSortOrder: 8,
   says: "txt",
 } as const satisfies FitnessCoachingNote

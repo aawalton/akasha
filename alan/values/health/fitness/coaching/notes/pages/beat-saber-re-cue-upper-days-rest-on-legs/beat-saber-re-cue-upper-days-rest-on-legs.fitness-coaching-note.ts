@@ -7,7 +7,7 @@ export const beatSaberReCueUpperDaysRestOnLegs = {
   title: "Beat Saber re-cue (upper days; rest on legs)",
   active: true,
   focusTags: ["push", "pull", "upper", "legs"],
-  coachingNoteKind: "programming-cue",
+  kind: "programming-cue",
   coachingNoteSortOrder: 12,
   says: "txt",
 } as const satisfies FitnessCoachingNote

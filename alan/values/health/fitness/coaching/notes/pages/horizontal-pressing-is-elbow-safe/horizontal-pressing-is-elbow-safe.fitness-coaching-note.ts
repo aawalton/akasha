@@ -7,7 +7,7 @@ export const horizontalPressingIsElbowSafe = {
   title: "Horizontal pressing is elbow-safe",
   active: true,
   focusTags: ["push"],
-  coachingNoteKind: "programming-cue",
+  kind: "programming-cue",
   coachingNoteSortOrder: 2,
   says: "txt",
 } as const satisfies FitnessCoachingNote

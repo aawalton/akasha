@@ -7,7 +7,7 @@ export const firstPullBackAfterTwoWeeksIll20260619 = {
   title: "First pull back after two weeks ill",
   active: true,
   focusTags: ["pull"],
-  coachingNoteKind: "bout-observation",
+  kind: "bout-observation",
   coachingNoteDate: "2026-06-19",
   says: "txt",
 } as const satisfies FitnessCoachingNote

@@ -7,7 +7,7 @@ export const benchBuiltToThirtyAtTempo20260629 = {
   title: "Bench built to thirty at tempo",
   active: true,
   focusTags: ["push"],
-  coachingNoteKind: "bout-observation",
+  kind: "bout-observation",
   coachingNoteDate: "2026-06-29",
   says: "txt",
 } as const satisfies FitnessCoachingNote

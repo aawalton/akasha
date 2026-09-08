@@ -7,7 +7,7 @@ export const overheadMobility50NoForcedLockout = {
   title: "Overhead mobility ~50% — no forced lockout",
   active: true,
   focusTags: ["push"],
-  coachingNoteKind: "programming-cue",
+  kind: "programming-cue",
   coachingNoteSortOrder: 1,
   says: "txt",
 } as const satisfies FitnessCoachingNote

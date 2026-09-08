@@ -7,7 +7,7 @@ export const countAlternatingUnilateralWorkByTotal = {
   title: "Count alternating/unilateral work by TOTAL",
   active: true,
   focusTags: ["all"],
-  coachingNoteKind: "ef-accommodation",
+  kind: "ef-accommodation",
   coachingNoteSortOrder: 4,
   says: "txt",
 } as const satisfies FitnessCoachingNote

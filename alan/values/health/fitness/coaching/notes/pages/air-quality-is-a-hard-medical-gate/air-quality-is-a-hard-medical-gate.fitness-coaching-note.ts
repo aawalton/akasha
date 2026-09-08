@@ -7,7 +7,7 @@ export const airQualityIsAHardMedicalGate = {
   title: "Air quality is a hard medical gate",
   active: true,
   focusTags: ["all"],
-  coachingNoteKind: "medical-gate",
+  kind: "medical-gate",
   coachingNoteSortOrder: 5,
   says: "txt",
 } as const satisfies FitnessCoachingNote

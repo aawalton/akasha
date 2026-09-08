@@ -7,7 +7,7 @@ export const coachingNote30LbDbCeilingActivelyOutRepping = {
   title: "30 lb DB ceiling — actively out-repping",
   active: true,
   focusTags: ["push", "pull"],
-  coachingNoteKind: "equipment-ceiling",
+  kind: "equipment-ceiling",
   coachingNoteSortOrder: 3,
   says: "txt",
 } as const satisfies FitnessCoachingNote

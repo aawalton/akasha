@@ -7,7 +7,7 @@ export const legsSwappedFromSaturdayWithAToeTouchPr20260628 = {
   title: "Legs swapped from Saturday, with a toe-touch PR",
   active: true,
   focusTags: ["legs"],
-  coachingNoteKind: "bout-observation",
+  kind: "bout-observation",
   coachingNoteDate: "2026-06-28",
   says: "txt",
 } as const satisfies FitnessCoachingNote

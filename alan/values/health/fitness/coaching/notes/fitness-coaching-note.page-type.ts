@@ -12,7 +12,7 @@ export type FitnessCoachingNote = Page & {
   title: Title
   active: FitnessCoachingNoteActive
   focusTags: readonly FocusTags[]
-  coachingNoteKind: FitnessCoachingNoteKind
+  kind: FitnessCoachingNoteKind
   coachingNoteDate?: FitnessCoachingNoteDate
   coachingNoteSortOrder?: FitnessCoachingNoteSortOrder
   says?: Says

@@ -7,7 +7,7 @@ export const jointSwellingBackOffOnFlareDays = {
   title: "Joint swelling — back off on flare days",
   active: true,
   focusTags: ["all"],
-  coachingNoteKind: "injury-watch",
+  kind: "injury-watch",
   coachingNoteSortOrder: 7,
   says: "txt",
 } as const satisfies FitnessCoachingNote

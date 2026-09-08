@@ -7,7 +7,7 @@ export const preDecideTheWorkoutOneSetAtATime = {
   title: "Pre-decide the workout — one set at a time",
   active: true,
   focusTags: ["all"],
-  coachingNoteKind: "ef-accommodation",
+  kind: "ef-accommodation",
   coachingNoteSortOrder: 10,
   says: "txt",
 } as const satisfies FitnessCoachingNote

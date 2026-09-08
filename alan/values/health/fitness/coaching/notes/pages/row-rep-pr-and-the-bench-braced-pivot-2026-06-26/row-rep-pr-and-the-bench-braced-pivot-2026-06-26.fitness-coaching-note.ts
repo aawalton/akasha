@@ -7,7 +7,7 @@ export const rowRepPrAndTheBenchBracedPivot20260626 = {
   title: "Row rep-PR and the bench-braced pivot",
   active: true,
   focusTags: ["pull"],
-  coachingNoteKind: "bout-observation",
+  kind: "bout-observation",
   coachingNoteDate: "2026-06-26",
   says: "txt",
 } as const satisfies FitnessCoachingNote

@@ -7,7 +7,7 @@ export const rightElbowWatchCurls = {
   title: "Right elbow — watch curls",
   active: true,
   focusTags: ["pull"],
-  coachingNoteKind: "injury-watch",
+  kind: "injury-watch",
   coachingNoteSortOrder: 6,
   says: "txt",
 } as const satisfies FitnessCoachingNote

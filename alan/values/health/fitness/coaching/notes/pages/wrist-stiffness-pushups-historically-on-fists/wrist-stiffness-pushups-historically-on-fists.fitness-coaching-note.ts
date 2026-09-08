@@ -7,6 +7,6 @@ export const wristStiffnessPushupsHistoricallyOnFists = {
   title: "Wrist stiffness — pushups historically on fists",
   active: true,
   focusTags: ["push", "all"],
-  coachingNoteKind: "programming-cue",
+  kind: "programming-cue",
   says: "txt",
 } as const satisfies FitnessCoachingNote

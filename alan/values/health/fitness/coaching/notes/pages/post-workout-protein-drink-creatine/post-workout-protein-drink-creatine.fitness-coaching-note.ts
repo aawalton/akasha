@@ -7,7 +7,7 @@ export const postWorkoutProteinDrinkCreatine = {
   title: "Post-workout: protein drink + creatine",
   active: true,
   focusTags: ["all"],
-  coachingNoteKind: "programming-cue",
+  kind: "programming-cue",
   coachingNoteSortOrder: 11,
   says: "txt",
 } as const satisfies FitnessCoachingNote

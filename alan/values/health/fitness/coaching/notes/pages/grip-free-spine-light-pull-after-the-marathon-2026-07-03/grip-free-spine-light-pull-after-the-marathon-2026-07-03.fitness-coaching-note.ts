@@ -7,7 +7,7 @@ export const gripFreeSpineLightPullAfterTheMarathon20260703 = {
   title: "Grip-free, spine-light pull after the marathon",
   active: true,
   focusTags: ["pull"],
-  coachingNoteKind: "bout-observation",
+  kind: "bout-observation",
   coachingNoteDate: "2026-07-03",
   says: "txt",
 } as const satisfies FitnessCoachingNote
