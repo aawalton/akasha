@@ -8,8 +8,6 @@ const SOURCE_PATH = join(addonsDir(), "LibTreasure", "data.lua")
 
 const OUT_REL = "src/generated/treasure-pins-data.generated.ts"
 
-// LibTreasure's tables are pure arrays where the shared serializer would write objects,
-// so this one keeps its own array-aware serializer rather than reaching for that module.
 const SERIALIZER = `
 local function fmt_number(n)
   if n ~= n or n == math.huge or n == -math.huge then
