@@ -75,6 +75,7 @@ export const luaCompiler = {
     "lualib/object-values",
     "lualib/performance",
     "lualib/spread",
+    "lualib/sparse-array-spread",
     "lualib/string-access",
     "lualib/string-char-at",
     "lualib/string-char-code-at",
