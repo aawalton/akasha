@@ -17,6 +17,7 @@ function behindAt(given: Guarding, at: string): string | null {
   if (value === null) return null
   for (const one of claimedIn(given.before, at, value)) {
     if (one === at || !holdsAfter(given, one)) continue
+    if (given.shadow.index.listedByPath(one).length > 0) continue
     return `\`${at}\` is gone from that path, and \`${one}\` that page claims is left behind`
   }
   return null

@@ -29,6 +29,15 @@ export const claimedFileNotLeftBehind = {
     },
     {
       invariantKind: "departure",
+      statement: "A file a page after the answer claims is no file left behind.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which pages claim a file after the answer is read from the index that answer leaves.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The refusal names the page gone from its path and the file left behind.",
     },
     {

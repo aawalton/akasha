@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  bodyOf,
   HELD_CODE,
   HELD_PAGE,
   idOf,
@@ -105,4 +106,52 @@ test("a page claiming no file beside itself is not refused", () => {
 
   expect(said.refused).toBe(null)
   expect(judged(root, tookAway([HELD_PAGE])).refused).toBe(LEFT)
+})
+
+const NAMED_JSON = "akasha/seven/package.json"
+
+const NAMED_PAGE = "akasha/seven/holder.kept.ts"
+
+const NAMED_LANDED = "akasha/seven/other.kept.ts"
+
+const NAMED: Readonly<Record<string, string>> = {
+  "akasha/manifest.file-property.ts": bodyOf({
+    id: "01a07c60-0004-7000-8000-000000000001",
+    pageTypeSlug: "file-property",
+    slug: "manifest",
+    propertySlug: "manifest",
+    fileName: "package.json",
+  }),
+  "akasha/kept.page-type.ts": bodyOf({
+    id: "01a07c60-0004-7000-8000-000000000002",
+    pageTypeSlug: "page-type",
+    slug: "kept",
+    extendsSlug: ["page-type/domain"],
+    properties: [{ pagePropertySlug: "file-property/manifest", required: false, many: false }],
+  }),
+  [NAMED_PAGE]: pageOf({
+    id: "01a07c60-0004-7000-8000-000000000003",
+    pageTypeSlug: "kept",
+    slug: "holder",
+    definition: "a page claiming a file named outright",
+    manifest: "json",
+  }),
+  [NAMED_JSON]: "{}\n",
+}
+
+test("a file a page after the answer claims is no file left behind", () => {
+  const root = indexedRepo(NAMED)
+
+  const said = judged(root, carriedOff([[NAMED_PAGE, NAMED_LANDED]]))
+
+  expect(said.refused).toBe(null)
+  expect(pathsIn(said)).toContain(NAMED_LANDED)
+})
+
+test("a file no page after the answer claims is left behind", () => {
+  const root = indexedRepo(NAMED)
+
+  const said = judged(root, tookAway([NAMED_PAGE]))
+
+  expect(said.refused).toContain(NAMED_JSON)
 })
