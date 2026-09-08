@@ -5,6 +5,7 @@ import { writing } from "@akasha/command-system/scratching/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
+import { pathsOf } from "../../../changes/modules/change-answer/change-answer.module.code.ts"
 import {
   handedIn,
   keptEdits,
@@ -113,14 +114,14 @@ export function landedAt(root: string, own: string): string {
 }
 
 export function keptUnder(root: string, slug: string, at: string): undefined {
-  keptEdits(root, pathOf(slug), () => [{ path: at, was: null, body: at }])
+  keptEdits(root, pathOf(slug), () => [{ kind: "add", path: at, content: at }])
 }
 
 export function handedPaths(root: string, seatName: string, slug: string): readonly string[] {
   const seat = seatPageIn(root, seatName)
   if (seat === null) return []
   const held = handedIn(root, seat, slug)
-  return "why" in held ? [held.why] : held.rows.map((one) => one.path)
+  return "why" in held ? [held.why] : held.rows.flatMap(pathsOf)
 }
 
 export function heldUnder(

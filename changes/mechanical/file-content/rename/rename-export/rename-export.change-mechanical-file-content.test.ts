@@ -10,14 +10,15 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
-import { renameExport as renaming } from "./rename-export.change-mechanical-file-content.code.ts"
+import { bodiesIn } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { renameExport } from "./rename-export.change-mechanical-file-content.code.ts"
 
 afterAll(scratch.sweep)
 
-function renameExport(...given: Parameters<typeof renaming>): Answer {
-  return widened(renaming(...given), given[5])
+function bodyIn(said: Answer, root: string, path: string): string | null | undefined {
+  return bodiesIn(said, textIn(root)).get(path)
 }
 
 const CARRIED = "carried"
@@ -49,11 +50,9 @@ test("the declaring file and the paths handed in beside it are both spelled anew
     NOWHERE
   )
   expect(said.refused).toBe(null)
-  expect(said.edits.map((one) => one.path).sort()).toEqual([HELD_CODE, NAMER_CODE])
-  expect(said.edits.find((one) => one.path === HELD_CODE)?.body).toBe(
-    `export const ${CARRIED} = 1\n`
-  )
-  expect(said.edits.find((one) => one.path === NAMER_CODE)?.body).toBe(
+  expect([...pathsIn(said)].sort()).toEqual([HELD_CODE, NAMER_CODE])
+  expect(bodyIn(said, root, HELD_CODE)).toBe(`export const ${CARRIED} = 1\n`)
+  expect(bodyIn(said, root, NAMER_CODE)).toBe(
     `import { ${CARRIED} } from "../one/held.module.code.ts"\n\nexport const named = ${CARRIED} + 1\n`
   )
 })
@@ -70,9 +69,10 @@ test("each body is answered beside the body it was worked out from", () => {
     text,
     NOWHERE
   )
-  for (const one of said.edits) {
-    expect(one.was).toBe(text(one.path))
-    expect(one.from).toBe(undefined)
+  const replacing = said.edits.flatMap((one) => (one.kind === "replace" ? [one] : []))
+  expect(replacing.length).toBe(said.edits.length)
+  for (const one of replacing) {
+    expect(one.contentFrom).toBe(text(one.path) ?? "")
   }
 })
 
@@ -88,7 +88,7 @@ test("a file left out of the paths handed in is left as that file is", () => {
     NOWHERE
   )
   expect(said.refused).toBe(null)
-  expect(said.edits.map((one) => one.path).sort()).toEqual([HELD_CODE])
+  expect([...pathsIn(said)].sort()).toEqual([HELD_CODE])
 })
 
 test("a file exporting no such name is refused", () => {
@@ -125,7 +125,7 @@ test("a shorthand keeps its key and points its value at the new name", () => {
     NOWHERE
   )
   expect(said.refused).toBe(null)
-  expect(said.edits.find((one) => one.path === SHORT_CODE)?.body).toBe(
+  expect(bodyIn(said, root, SHORT_CODE)).toBe(
     `import { ${CARRIED} } from "../one/held.module.code.ts"\n\nexport const short = { ${HELD_EXPORT}: ${CARRIED} }\n`
   )
 })

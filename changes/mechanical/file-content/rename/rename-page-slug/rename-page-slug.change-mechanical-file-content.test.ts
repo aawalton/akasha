@@ -7,8 +7,13 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { refusing, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import { type World, worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { runChange as changePageProperty } from "../../change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { renameSlug } from "./rename-page-slug.change-mechanical-file-content.code.ts"
@@ -41,15 +46,23 @@ function holding(body: string): (path: string) => string | null {
 function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, (world, at, given) => {
     if (at === "change-mechanical-file-content/change-page-property") {
-      const said = changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
-      return Promise.resolve(widened(said, world.textOf))
+      return Promise.resolve(
+        changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+      )
     }
     if (at === "change-mechanical-file-content/rename-export") {
-      const said = renameExport(world, given as Parameters<typeof renameExport>[1])
-      return Promise.resolve(widened(said, world.textOf))
+      return Promise.resolve(renameExport(world, given as Parameters<typeof renameExport>[1]))
     }
     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
   })
+}
+
+function bodiesOf(said: Answer, world: World): ReadonlyMap<string, string | null> {
+  return bodiesIn(said, world.base)
+}
+
+function bodyIn(said: Answer, world: World, path: string): string {
+  return bodiesOf(said, world).get(path) ?? ""
 }
 
 async function whyOf(
@@ -132,44 +145,35 @@ test("a namer that could not be read is refused", async () => {
 
 test("the page's own slug and every name of it are restated", async () => {
   const root = indexedRepo()
-  const said = await renameSlug(worldIn(root, textIn(root)), { at: HELD_PAGE, to: KEPT })
+  const world = worldIn(root, textIn(root))
+  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
-  expect(said.edits.map((one) => one.path).sort()).toEqual([HELD_PAGE, NAMER_PAGE])
-  expect(said.edits.find((one) => one.path === HELD_PAGE)?.body ?? "").toContain(
-    `"slug": "${KEPT}"`
-  )
-  expect(said.edits.find((one) => one.path === HELD_PAGE)?.body ?? "").not.toContain(
-    `"${HELD_SLUG}"`
-  )
-  expect(said.edits.find((one) => one.path === NAMER_PAGE)?.body ?? "").toContain(
-    `"note": "${KEPT}"`
-  )
-  expect(said.edits.find((one) => one.path === NAMER_PAGE)?.body ?? "").toContain(
-    `"module/${KEPT}"`
-  )
-  expect(said.edits.find((one) => one.path === NAMER_PAGE)?.body ?? "").not.toContain(HELD_SLUG)
+  expect([...bodiesOf(said, world).keys()].sort()).toEqual([HELD_PAGE, NAMER_PAGE])
+  expect(bodyIn(said, world, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
+  expect(bodyIn(said, world, HELD_PAGE)).not.toContain(`"${HELD_SLUG}"`)
+  expect(bodyIn(said, world, NAMER_PAGE)).toContain(`"note": "${KEPT}"`)
+  expect(bodyIn(said, world, NAMER_PAGE)).toContain(`"module/${KEPT}"`)
+  expect(bodyIn(said, world, NAMER_PAGE)).not.toContain(HELD_SLUG)
 })
 
 test("each body is answered beside the body it was worked out from", async () => {
   const root = indexedRepo()
-  const text = textIn(root)
-  const said = await renameSlug(worldIn(root, text), { at: HELD_PAGE, to: KEPT })
+  const world = worldIn(root, textIn(root))
+  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT })
+  expect(said.refused).toBe(null)
   for (const one of said.edits) {
-    expect(one.was).toBe(text(one.path))
-    expect(one.from).toBe(undefined)
+    expect(one.kind).toBe("replace")
   }
+  expect([...bodiesOf(said, world).keys()].sort()).toEqual([HELD_PAGE, NAMER_PAGE])
 })
 
 test("the page's exported const is renamed with its slug", async () => {
   const root = indexedRepo()
-  const said = await renameSlug(worldIn(root, textIn(root)), { at: HELD_PAGE, to: KEPT })
+  const world = worldIn(root, textIn(root))
+  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
-  expect(said.edits.find((one) => one.path === HELD_PAGE)?.body ?? "").toContain(
-    `export const ${KEPT} =`
-  )
-  expect(said.edits.find((one) => one.path === HELD_PAGE)?.body ?? "").not.toContain(
-    `export const ${HELD_SLUG} =`
-  )
+  expect(bodyIn(said, world, HELD_PAGE)).toContain(`export const ${KEPT} =`)
+  expect(bodyIn(said, world, HELD_PAGE)).not.toContain(`export const ${HELD_SLUG} =`)
 })
 
 test("the bodies are answered rather than written", async () => {
@@ -205,12 +209,8 @@ test("the plural is stated anew beside the slug", async () => {
   const world = worldIn(root, (path) => (path === HELD_PAGE ? held : text(path)))
   const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
   expect(said.refused).toBe(null)
-  expect(said.edits.find((one) => one.path === HELD_PAGE)?.body ?? "").toContain(
-    `"pluralSlug": "kepts"`
-  )
-  expect(said.edits.find((one) => one.path === HELD_PAGE)?.body ?? "").toContain(
-    `"slug": "${KEPT}"`
-  )
+  expect(bodyIn(said, world, HELD_PAGE)).toContain(`"pluralSlug": "kepts"`)
+  expect(bodyIn(said, world, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
 })
 
 test("the plural and the export rename are reached at their own addresses", async () => {

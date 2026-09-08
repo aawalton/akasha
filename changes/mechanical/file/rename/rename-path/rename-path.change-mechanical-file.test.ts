@@ -7,12 +7,16 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import {
+  type BodyOf,
   gathered,
   refusing,
-  widened,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer, Edit } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type {
+  Answer,
+  Moving,
+} from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
+  bodiesIn,
   type World,
   worldAt,
   worldOver,
@@ -29,20 +33,22 @@ const CARRIED = "akasha/one/carried.module.code.ts"
 function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, (world, at, given) => {
     if (at === "change-mechanical-file-content/change-imports") {
-      return Promise.resolve(
-        widened(changeImports(world, given as Parameters<typeof changeImports>[1]), world.textOf)
-      )
+      return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
     }
     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
   })
 }
 
 function pathsOf(said: Answer): readonly string[] {
-  return said.edits.map((one) => one.path).sort()
+  return said.edits.map((one) => (one.kind === "move" ? one.pathTo : one.path)).sort()
 }
 
-function movesOf(said: Answer): readonly Edit[] {
-  return said.edits.filter((one) => one.from !== undefined)
+function movesOf(said: Answer): readonly Moving[] {
+  return said.edits.flatMap((one) => (one.kind === "move" ? [one] : []))
+}
+
+function bodyIn(said: Answer, textOf: BodyOf, path: string): string {
+  return bodiesIn(said, textOf).get(path) ?? ""
 }
 
 test("the path it already sits at is refused", async () => {
@@ -81,9 +87,7 @@ test("a path that moves carries its importer with it", async () => {
   const said = await renamePath(worldIn(root, text), { from: HELD_CODE, to: KEPT })
   expect(said.refused).toBe(null)
   expect(pathsOf(said)).toEqual([KEPT, NAMER_CODE].sort())
-  expect(said.edits.find((one) => one.path === NAMER_CODE)?.body).toContain(
-    "../one/kept.module.code.ts"
-  )
+  expect(bodyIn(said, text, NAMER_CODE)).toContain("../one/kept.module.code.ts")
 })
 
 test("the path taken away is answered as the move the body arrives by", async () => {
@@ -92,9 +96,9 @@ test("the path taken away is answered as the move the body arrives by", async ()
   const said = await renamePath(worldIn(root, text), { from: HELD_CODE, to: KEPT })
   const moves = movesOf(said)
   expect(moves).toHaveLength(1)
-  expect(moves[0]?.from).toBe(HELD_CODE)
-  expect(moves[0]?.path).toBe(KEPT)
-  expect(moves[0]?.was).toBe(text(HELD_CODE))
+  expect(moves[0]?.pathFrom).toBe(HELD_CODE)
+  expect(moves[0]?.pathTo).toBe(KEPT)
+  expect(bodyIn(said, text, KEPT)).toBe(text(HELD_CODE) ?? "")
 })
 
 test("a move off a path the move before it made reads that path and its importers", async () => {
@@ -103,16 +107,12 @@ test("a move off a path the move before it made reads that path and its importer
   const world = worldIn(root, text)
   const first = await renamePath(world, { from: HELD_CODE, to: KEPT })
   expect(first.refused).toBe(null)
-  const said = await renamePath(worldOver(world, gathered([first])), {
-    from: KEPT,
-    to: CARRIED,
-  })
+  const over = worldOver(world, gathered([first]))
+  const said = await renamePath(over, { from: KEPT, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(pathsOf(said)).toEqual([CARRIED, NAMER_CODE].sort())
-  expect(said.edits.find((one) => one.path === NAMER_CODE)?.body).toContain(
-    "../one/carried.module.code.ts"
-  )
-  expect(movesOf(said)[0]?.from).toBe(KEPT)
+  expect(bodyIn(said, over.textOf, NAMER_CODE)).toContain("../one/carried.module.code.ts")
+  expect(movesOf(said)[0]?.pathFrom).toBe(KEPT)
 })
 
 test("the body that moves is repointed by the change reached at its address", async () => {

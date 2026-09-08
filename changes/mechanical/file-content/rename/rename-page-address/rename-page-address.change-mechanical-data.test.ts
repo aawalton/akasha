@@ -1,18 +1,12 @@
 import { expect, test } from "bun:test"
-import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsOf } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
+  bodiesIn,
   NOTHING_OVER,
   type World,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import {
-  pathsIn,
-  renamePageAddress as renaming,
-} from "./rename-page-address.change-mechanical-data.code.ts"
-
-function renamePageAddress(world: World, given: Parameters<typeof renaming>[1]): Answer {
-  return widened(renaming(world, given), world.textOf)
-}
+import { pathsIn, renamePageAddress } from "./rename-page-address.change-mechanical-data.code.ts"
 
 const MOVED_TO = "akasha/held/one/held-one.held-other.code.ts"
 
@@ -20,9 +14,9 @@ const TAKEN = "akasha/held/one/held-one.held-checked.gone.ts"
 
 test("a path the answer writes is read beside the paths the index lists", () => {
   const world = worldOf({ [CONST_AT]: CONST_BODY })
-  const over = {
+  const over: World = {
     ...world,
-    over: { edits: [{ path: MOVED_TO, was: null, body: "held\n", from: CONST_AT }], refused: null },
+    over: { edits: [{ kind: "move", pathFrom: CONST_AT, pathTo: MOVED_TO }], refused: null },
   }
 
   expect(pathsIn(over)).toEqual([MOVED_TO])
@@ -30,9 +24,9 @@ test("a path the answer writes is read beside the paths the index lists", () => 
 
 test("a path the answer carries away is left out of the bodies read", () => {
   const world = worldOf({ [CONST_AT]: CONST_BODY, [TAKEN]: "held\n" })
-  const over = {
+  const over: World = {
     ...world,
-    over: { edits: [{ path: TAKEN, was: "held\n", body: null }], refused: null },
+    over: { edits: [{ kind: "remove", path: TAKEN }], refused: null },
   }
 
   expect(pathsIn(over)).toEqual([CONST_AT])
@@ -80,31 +74,35 @@ function worldOf(bodies: Readonly<Record<string, string>>): World {
     root: "/nowhere",
     index: { everyPath: () => Object.keys(bodies) } as never,
     textOf: (path) => bodies[path] ?? null,
+    base: (path) => bodies[path] ?? null,
     over: NOTHING_OVER,
   }
 }
 
-function bodyOf(said: Answer, path: string): string {
+function bodyOf(said: Answer, world: World, path: string): string {
   expect(said.refused).toBe(null)
-  return said.edits.find((one) => one.path === path)?.body ?? ""
+  return bodiesIn(said, world.base).get(path) ?? ""
 }
 
 test("an address a top-level const holds is restated", () => {
-  const said = renamePageAddress(worldOf({ [CONST_AT]: CONST_BODY }), { was: WAS, now: NOW })
+  const world = worldOf({ [CONST_AT]: CONST_BODY })
+  const said = renamePageAddress(world, { was: WAS, now: NOW })
 
-  expect(bodyOf(said, CONST_AT)).toContain(`const HELD_ONE = "${NOW}"`)
+  expect(bodyOf(said, world, CONST_AT)).toContain(`const HELD_ONE = "${NOW}"`)
 })
 
 test("an address stated among a page's parts is restated", () => {
-  const said = renamePageAddress(worldOf({ [PAGE_AT]: PAGE_BODY }), { was: WAS, now: NOW })
+  const world = worldOf({ [PAGE_AT]: PAGE_BODY })
+  const said = renamePageAddress(world, { was: WAS, now: NOW })
 
-  expect(bodyOf(said, PAGE_AT)).toContain(`["${BESIDE}", "${NOW}"]`)
+  expect(bodyOf(said, world, PAGE_AT)).toContain(`["${BESIDE}", "${NOW}"]`)
 })
 
 test("an address handed to a call is restated", () => {
-  const said = renamePageAddress(worldOf({ [CALL_AT]: CALL_BODY }), { was: WAS, now: NOW })
+  const world = worldOf({ [CALL_AT]: CALL_BODY })
+  const said = renamePageAddress(world, { was: WAS, now: NOW })
 
-  expect(bodyOf(said, CALL_AT)).toBe(`held(world, "${NOW}", {})\n`)
+  expect(bodyOf(said, world, CALL_AT)).toBe(`held(world, "${NOW}", {})\n`)
 })
 
 test("every body spelling the address is answered at once", () => {
@@ -113,13 +111,14 @@ test("every body spelling the address is answered at once", () => {
     { was: WAS, now: NOW }
   )
 
-  expect(said.edits.map((one) => one.path).sort()).toEqual([CALL_AT, CONST_AT, PAGE_AT].sort())
+  expect(said.edits.flatMap(pathsOf).sort()).toEqual([CALL_AT, CONST_AT, PAGE_AT].sort())
 })
 
 test("a body a machine writes is restated too", () => {
-  const said = renamePageAddress(worldOf({ [MADE_AT]: MADE_BODY }), { was: WAS, now: NOW })
+  const world = worldOf({ [MADE_AT]: MADE_BODY })
+  const said = renamePageAddress(world, { was: WAS, now: NOW })
 
-  expect(bodyOf(said, MADE_AT)).toBe(`export type Held = { "${NOW}": string }\n`)
+  expect(bodyOf(said, world, MADE_AT)).toBe(`export type Held = { "${NOW}": string }\n`)
 })
 
 test("a body spelling the slug without its page type is left as that body is", () => {
