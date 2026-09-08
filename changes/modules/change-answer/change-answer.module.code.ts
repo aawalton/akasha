@@ -45,18 +45,6 @@ export function written(path: string, was: string | null, body: string): readonl
   return [{ kind: "replace", path, contentFrom: was, contentTo: body }]
 }
 
-export function writing(path: string, was: string | null, body: string): Edit {
-  return { path, was, body }
-}
-
-export function taking(path: string, was: string): Edit {
-  return { path, was, body: null }
-}
-
-export function moving(from: string, to: string, was: string, body: string): Edit {
-  return { path: to, was, body, from }
-}
-
 function readingIn(one: Reading): Reading {
   const held: { readersOweReading?: boolean; writerOwesReading?: boolean } = {}
   if (one.readersOweReading !== undefined) held.readersOweReading = one.readersOweReading

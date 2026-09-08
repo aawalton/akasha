@@ -9,7 +9,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { stating } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+import type { Answer, Stated } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
   guardedBy,
   NOT_READ,
@@ -40,8 +40,10 @@ const OTHER = pageOf({ id: idOf("d"), pageTypeSlug: "kept", slug: "two" })
 
 function takingAway(root: string, paths: readonly string[]): Answer {
   const text = textIn(root)
-  const edits = paths.map((path) => ({ kind: "remove", path }))
-  return guardedBy(worldAt(root, text), stating(edits), GUARDS)
+  const held = (one: string) =>
+    paths.includes(one) ? (text(one) ?? "export const held = 1\n") : text(one)
+  const edits = paths.map((path): Stated => ({ kind: "remove", path }))
+  return guardedBy(worldAt(root, held), stating(edits), GUARDS)
 }
 
 test("a page type a page is still filed under is refused", () => {
