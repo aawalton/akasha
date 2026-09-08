@@ -1,15 +1,20 @@
 import { serveMedia } from "@akasha/pages-ui/media/serve-media"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
-import { capacitorCorsHeaders, withCors } from "../capacitor-cors/capacitor-cors.module.code.ts"
-import { MEDIA_UUID_PATTERN } from "../media-page/media-page.module.code.ts"
-import type { Route } from "./+types/api.media.$pageId.$medium"
+import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
+import { MEDIA_UUID_PATTERN } from "../../media-page/media-page.module.code.ts"
 
 const DOWNLOAD_CORS = {
   allowHeaders: "Authorization, Range",
   exposeHeaders: "Content-Range, ETag, Content-Length, Accept-Ranges",
 }
 
-export async function loader({ params, request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({
+  params,
+  request,
+}: {
+  params: { pageId: string; medium: string }
+  request: Request
+}): Promise<Response> {
   const cors = capacitorCorsHeaders(request, "GET, OPTIONS", DOWNLOAD_CORS)
 
   if (request.method === "OPTIONS") {
