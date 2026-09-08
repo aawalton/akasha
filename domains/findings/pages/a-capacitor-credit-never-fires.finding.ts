@@ -4,7 +4,7 @@ export const aCapacitorCreditNeverFires = {
   id: "01a05c21-b0eb-7e02-aaa3-deabd1404db9",
   pageTypeSlug: "finding",
   slug: "a-capacitor-credit-never-fires",
-  domainSlug: "workspace-package/checks",
+  domainSlug: "workspace-package/check",
   claim:
     "The `@capacitor` credit in manifest-names-what-is-reached never fires. The lookup feeding it asks the index what file the `capacitor-config` stands under and is answered null, that property naming no fixed file, so no `@capacitor` dependency is ever credited. All 11 refusals tonight are this one dead branch, and every package they name is genuinely reached. Left standing in Alan's absence.",
   evidence:
