@@ -98,5 +98,5 @@ export function removeFileExtension(filePath: string) {
 }
 
 export function removeTrailingDirectorySeparator(filePath: string) {
-  return filePath.endsWith("/") || filePath.endsWith("\\") ? filePath.substring(0, -1) : filePath
+  return filePath.endsWith("/") || filePath.endsWith("\\") ? filePath.slice(0, -1) : filePath
 }
