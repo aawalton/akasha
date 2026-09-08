@@ -32,11 +32,11 @@ export function withProperty(
   text: string,
   source: ts.SourceFile,
   owner: ts.ObjectLiteralExpression,
-  given: AddPropertyValueAsked
+  put: string,
+  after: string | undefined
 ): string {
-  const put = `${given.key}: [${JSON.stringify(given.value)}]`
   const named = owner.properties.find(
-    (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.after
+    (each) => ts.isPropertyAssignment(each) && keyOf(each) === after
   )
   const anchor = named ?? owner.properties[owner.properties.length - 1]
   if (anchor === undefined) {
@@ -59,7 +59,8 @@ export function addPropertyValue(world: World, given: AddPropertyValueAsked): Sa
     (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
   )
   if (one === undefined || !ts.isPropertyAssignment(one)) {
-    const gained = withProperty(text, source, owner, given)
+    const put = `${given.key}: [${JSON.stringify(given.value)}]`
+    const gained = withProperty(text, source, owner, put, given.after)
     return stating([{ kind: "replace", path: given.at, contentFrom: text, contentTo: gained }])
   }
   const holding = one.initializer

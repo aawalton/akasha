@@ -21,6 +21,7 @@
     "@akasha/id-minting": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/testing-system": "workspace:*"
+    "@akasha/testing-system": "workspace:*",
+    "typescript": "5.9.3"
   }
 }
