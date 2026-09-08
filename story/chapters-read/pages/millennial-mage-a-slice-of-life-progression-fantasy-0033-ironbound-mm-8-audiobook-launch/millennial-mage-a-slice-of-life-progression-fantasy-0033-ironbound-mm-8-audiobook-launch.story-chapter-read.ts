@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0033IronboundMm8Audiobo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0033-ironbound-mm-8-audiobook-launch",
   title: "Ironbound - MM 8 - Audiobook Launch",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 33,
   ownLength: 83,
   ownProgress: 83,

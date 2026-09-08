@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0026Chapter321WelcomeTo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0026-chapter-321-welcome-to-alefast",
   title: "Chapter: 321 - Welcome to Alefast",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 26,
   ownLength: 3107,
   ownProgress: 3107,

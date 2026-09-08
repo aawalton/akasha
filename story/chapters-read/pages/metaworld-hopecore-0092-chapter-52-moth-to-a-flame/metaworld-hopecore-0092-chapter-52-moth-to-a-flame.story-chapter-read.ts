@@ -5,7 +5,7 @@ export const metaworldHopecore0092Chapter52MothToAFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0092-chapter-52-moth-to-a-flame",
   title: "CHAPTER 52 - Moth to a Flame",
-  partOfSlugs: ["metaworld-hopecore"],
+  partOfCollectionSlugs: ["metaworld-hopecore"],
   position: 92,
   ownLength: 2320,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const metaworldHopecore0094Chapter53KissWithAFist = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0094-chapter-53-kiss-with-a-fist",
   title: "CHAPTER 53  - Kiss With a Fist",
-  partOfSlugs: ["metaworld-hopecore"],
+  partOfCollectionSlugs: ["metaworld-hopecore"],
   position: 94,
   ownLength: 3071,
   unitSlug: "words",

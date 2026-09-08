@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0037Chapter539QuietReme
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0037-chapter-539-quiet-remembrance",
   title: "Chapter: 539 - Quiet Remembrance",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 37,
   ownLength: 3024,
   ownProgress: 3024,

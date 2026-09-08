@@ -5,7 +5,7 @@ export const metaworldHopecore0146Chapter85KnightsOfCydonia2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0146-chapter-85-knights-of-cydonia-2",
   title: "CHAPTER 85 - Knights of Cydonia (2) ",
-  partOfSlugs: ["metaworld-hopecore"],
+  partOfCollectionSlugs: ["metaworld-hopecore"],
   position: 146,
   ownLength: 2982,
   unitSlug: "words",

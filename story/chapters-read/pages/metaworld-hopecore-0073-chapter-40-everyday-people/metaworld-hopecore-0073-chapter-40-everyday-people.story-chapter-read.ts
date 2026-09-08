@@ -5,7 +5,7 @@ export const metaworldHopecore0073Chapter40EverydayPeople = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0073-chapter-40-everyday-people",
   title: "Chapter 40 - Everyday People",
-  partOfSlugs: ["metaworld-hopecore"],
+  partOfCollectionSlugs: ["metaworld-hopecore"],
   position: 73,
   ownLength: 2482,
   unitSlug: "words",

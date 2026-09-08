@@ -5,7 +5,7 @@ export const metaworldHopecore0112Chapter65TongueTied = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0112-chapter-65-tongue-tied",
   title: "CHAPTER 65 - TONGUE-TIED",
-  partOfSlugs: ["metaworld-hopecore"],
+  partOfCollectionSlugs: ["metaworld-hopecore"],
   position: 112,
   ownLength: 3831,
   unitSlug: "words",

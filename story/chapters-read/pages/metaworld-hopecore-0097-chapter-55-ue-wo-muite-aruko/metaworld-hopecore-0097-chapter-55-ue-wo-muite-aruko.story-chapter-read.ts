@@ -5,7 +5,7 @@ export const metaworldHopecore0097Chapter55UeWoMuiteAruko = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0097-chapter-55-ue-wo-muite-aruko",
   title: "CHAPTER 55 - Ue wo Muite Arukō ",
-  partOfSlugs: ["metaworld-hopecore"],
+  partOfCollectionSlugs: ["metaworld-hopecore"],
   position: 97,
   ownLength: 4085,
   unitSlug: "words",

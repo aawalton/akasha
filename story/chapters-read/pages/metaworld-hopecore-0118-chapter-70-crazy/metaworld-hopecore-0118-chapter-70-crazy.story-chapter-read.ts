@@ -5,7 +5,7 @@ export const metaworldHopecore0118Chapter70Crazy = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0118-chapter-70-crazy",
   title: "CHAPTER 70 — Crazy",
-  partOfSlugs: ["metaworld-hopecore"],
+  partOfCollectionSlugs: ["metaworld-hopecore"],
   position: 118,
   ownLength: 3454,
   unitSlug: "words",
