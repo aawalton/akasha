@@ -54,7 +54,7 @@ test("the imports are sorted by specifier however the keys are ordered", () => {
 })
 
 test("a stored property declaring a worked form is omitted from the type it extends", () => {
-  const body = bodyFor("alan/track/days/wake-day.page-type.ts", "wake-day", [
+  const body = bodyFor("alan/track/days/day.page-type.ts", "day", [
     {
       key: "sessions",
       typeName: "WorkedSessions",
@@ -62,7 +62,7 @@ test("a stored property declaring a worked form is omitted from the type it exte
       overrides: true,
     },
   ])
-  expect(body).toContain(`export type WorkedWakeDay = Omit<WakeDay, "sessions"> & {`)
+  expect(body).toContain(`export type WorkedDay = Omit<Day, "sessions"> & {`)
   expect(body).toContain("  sessions?: WorkedSessions")
 })
 
