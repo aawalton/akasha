@@ -185,7 +185,6 @@ export async function sessionStanding(session: Row | undefined): Promise<Summari
     standing: {
       id: session.id,
       date: textIn(session, "workoutSessionDate") ?? null,
-      // THE SESSION IS ASKED WHAT THAT SESSION MOVED, rather than the sets being counted again.
       totalVolume: numberIn(session, "sessionVolume") ?? 0,
       movements: slugs.map((slug) => titled.titles.get(slug) ?? slug),
     },
