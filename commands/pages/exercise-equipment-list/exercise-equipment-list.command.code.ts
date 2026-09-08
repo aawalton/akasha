@@ -1,6 +1,6 @@
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
-import { boolIn, rowsFor, textIn, titleOf } from "@akasha/exercise-access/exercise-rows"
+import { boolIn, type Row, rowsFor, textIn, titleOf } from "@akasha/exercise-access/exercise-rows"
 import {
   JSON_SAID,
   saidIn,
@@ -22,6 +22,15 @@ const OWNED = "owned"
 
 const WANTED = "wanted"
 
+const LOAD_BETWEEN = ", "
+
+function loadsIn(row: Row, key: string): string | null {
+  const value = row[key]
+  if (!Array.isArray(value)) return null
+  const weights = value.filter((one): one is number => typeof one === "number")
+  return weights.length === 0 ? null : weights.join(LOAD_BETWEEN)
+}
+
 export async function exerciseEquipmentList(
   argv: readonly string[],
   _given: Given
@@ -34,7 +43,7 @@ export async function exerciseEquipmentList(
 
   const found = await rowsFor({
     pageTypeSlug: EQUIPMENT_ITEM,
-    order: [{ by: "equipmentItemSortOrder", dir: "asc" }],
+    order: [{ by: "sortOrder", dir: "asc" }],
     limit: AT_MOST,
   })
   if ("unread" in found) return refused(found.unread, DATA)
@@ -43,11 +52,11 @@ export async function exerciseEquipmentList(
     .map((row) => ({
       id: row.id,
       title: titleOf(row),
-      category: textIn(row, "equipmentItemCategory") ?? null,
-      configuration: textIn(row, "equipmentItemConfiguration") ?? null,
-      loads: textIn(row, "equipmentItemLoads") ?? null,
-      available: boolIn(row, "equipmentItemAvailable") ?? true,
-      notes: textIn(row, "equipmentItemNotes") ?? null,
+      category: textIn(row, "category") ?? null,
+      configuration: textIn(row, "configuration") ?? null,
+      loads: loadsIn(row, "loads"),
+      available: boolIn(row, "available") ?? true,
+      notes: textIn(row, "notes") ?? null,
     }))
     .filter((one) => all || one.available)
 
