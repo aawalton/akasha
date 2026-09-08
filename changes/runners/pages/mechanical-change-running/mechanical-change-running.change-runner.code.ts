@@ -2,7 +2,7 @@ import { type Applied, applied } from "@akasha/command-system/applying"
 import type { Running } from "@akasha/command-system/drafting"
 import { bodiesFrom } from "@akasha/command-system/edits-landing"
 import { NO_GATE } from "@akasha/command-system/gate-building"
-import type { Refused } from "@akasha/command-system/landing"
+import { baseOf, type Refused } from "@akasha/command-system/landing"
 import { gathered, notText } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
@@ -15,6 +15,8 @@ import { runAt } from "../../change-loading/change-loading.module.code.ts"
 import type { Changes } from "./mechanical-change-running.change-runner.addressed.ts"
 
 const NOTHING_ASKED = "no change was named, so nothing is run and nothing lands"
+
+const NOTHING_MOVED = "every change named states no edit, so nothing lands"
 
 const MECHANICAL: Running = { checks: false, writerOwesReading: false, readersOweReading: false }
 
@@ -51,6 +53,16 @@ export async function runMechanicalChange(
   if (asked.length === 0) return { refusals: [NOTHING_ASKED] }
   const said = await foldedOver(ledgerAt(root, textIn(root), runAt), asked)
   if (said.refused !== null) return { refusals: [said.refused] }
+  if (said.edits.length === 0) {
+    return {
+      base: baseOf(root),
+      landed: [],
+      formatted: [],
+      said: [NOTHING_MOVED],
+      wrong: [],
+      commit: null,
+    }
+  }
   const held = bodiesFrom(root, said)
   if ("why" in held) return { refusals: [held.why] }
   return await applied(root, agentId, message, NO_GATE, null, [], { held, running: MECHANICAL })

@@ -84,3 +84,10 @@ test("a call naming no change lands nothing and says so", async () => {
   const said = await runMechanicalChange("/nowhere", [], "held")
   expect(said).toEqual({ refusals: ["no change was named, so nothing is run and nothing lands"] })
 })
+
+test("every change stating no edit gathers to no edit and refuses nothing", async () => {
+  const said = await foldedOver(over({ [ADD]: stating([]), [MOVE]: stating([]) }), [ADDING, MOVING])
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([])
+})

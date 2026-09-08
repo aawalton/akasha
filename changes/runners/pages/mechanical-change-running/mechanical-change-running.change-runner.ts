@@ -52,6 +52,14 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "Changes that all state no edit land nothing and commit nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Naming no change and naming changes that write nothing are two answers.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A mechanical change runs no check, as the kind of change it is declares.",
     },
     {
