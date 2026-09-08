@@ -28,5 +28,11 @@ export const olwenPersonaCleanup = {
       workingMemory:
         "Clean as of 2026-09-08, judged by `akasha audit --check folder-matches-a-shape --file-path personas`, whose one refusal is the repository root rather than anything under `personas/`. To be judged again once the two merges land, since each carries folders in.",
     },
+    {
+      statement:
+        "Each persona's folder sits under personas/pages/ rather than under personas/ itself.",
+      workingMemory:
+        "42 persona folders sit directly under `personas/`, while every other page type here holds its pages under `pages/`: `questions/pages/<slug>/`, `review-sessions/pages/<slug>/`. The part slugs on `persona.workspace-package.ts` name slugs rather than paths, so they do not move. `folder-matches-a-shape` passes both layouts, so the check will not drive this and will not confirm it either.",
+    },
   ],
 } as const satisfies Initiative
