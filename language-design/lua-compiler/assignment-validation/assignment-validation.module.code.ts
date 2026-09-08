@@ -1,13 +1,13 @@
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import {
+  ContextType,
+  getFunctionContextType,
+} from "../function-context/function-context.module.code.ts"
+import {
   unsupportedNoSelfFunctionConversion,
   unsupportedOverloadAssignment,
 } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
-import {
-  ContextType,
-  getFunctionContextType,
-} from "../tstl-function-context/tstl-function-context.module.code.ts"
 import { willWrapThisVoidAdapter } from "../tstl-this-void-adapter/tstl-this-void-adapter.module.code.ts"
 import { isReferenceType } from "../tstl-typescript/tstl-typescript.module.code.ts"
 import { cast, getOrUpdate } from "../tstl-utils/tstl-utils.module.code.ts"

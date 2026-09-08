@@ -3,7 +3,7 @@ import type { FunctionVisitor } from "../context-visitors/context-visitors.modul
 import {
   ContextType,
   getCallContextType,
-} from "../tstl-function-context/tstl-function-context.module.code.ts"
+} from "../function-context/function-context.module.code.ts"
 import { wrapInToStringForConcat } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"

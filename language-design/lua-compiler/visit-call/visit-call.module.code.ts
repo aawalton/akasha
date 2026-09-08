@@ -2,11 +2,11 @@ import * as ts from "typescript"
 import { transformBuiltinCallExpression } from "../builtins/builtins.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { unsupportedBuiltinOptionalCall } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import {
   ContextType,
   getCallContextType,
-} from "../tstl-function-context/tstl-function-context.module.code.ts"
+} from "../function-context/function-context.module.code.ts"
+import { unsupportedBuiltinOptionalCall } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import { wrapInTable } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"

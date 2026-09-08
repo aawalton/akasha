@@ -10,7 +10,7 @@ import { createExportsIdentifier } from "../exports-identifier/exports-identifie
 import {
   ContextType,
   getFunctionContextType,
-} from "../tstl-function-context/tstl-function-context.module.code.ts"
+} from "../function-context/function-context.module.code.ts"
 import {
   createLocalOrExportedOrGlobalDeclaration,
   createSelfIdentifier,
