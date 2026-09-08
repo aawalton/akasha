@@ -177,6 +177,7 @@ test("a question is answered from the reading bound rather than from the index a
   const laid = readingLaidOver(root, {
     "identity/page-type/module/slug/laid.jsonl": [{ path: LAID_AT, id: LAID_ID }],
     "path/akasha/laid/laid.module.ts.jsonl": [{ path: LAID_AT, id: LAID_ID }],
+    "listing/path.jsonl": [LAID_AT],
   })
   const index = answeringOver(laid, pageOf)
   expect(index.listedAt(MODULE, "laid")).toEqual([{ path: LAID_AT, id: LAID_ID }])

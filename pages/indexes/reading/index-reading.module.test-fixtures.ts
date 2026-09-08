@@ -82,23 +82,23 @@ function taking(root: string, at: string): undefined {
 
 function identityFiled(
   root: string,
-  level: string,
+  uniqueKind: string,
   scope: string,
   propertySlug: string,
   said: string,
   lines: readonly unknown[]
 ): undefined {
-  filing(root, join(indexIdentity.name, level, scope, propertySlug, said), lines)
+  filing(root, join(indexIdentity.name, uniqueKind, scope, propertySlug, said), lines)
 }
 
 function identityListed(
   root: string,
-  level: string,
+  uniqueKind: string,
   scope: string,
   propertySlug: string,
   said: string
 ): boolean {
-  const at = join(indexIdentity.name, level, scope, propertySlug, `${said}${ENDING}`)
+  const at = join(indexIdentity.name, uniqueKind, scope, propertySlug, `${said}${ENDING}`)
   return existsSync(under(root, at))
 }
 
@@ -148,8 +148,15 @@ export function idFiledIn(root: string, id: string): boolean {
   return identityListed(root, PAGE, NO_SCOPE, ID, id)
 }
 
+function listingAdded(root: string, path: string): undefined {
+  const at = under(root, `${join(indexListing.name, AT_PATH)}${ENDING}`)
+  mkdirSync(dirname(at), { recursive: true })
+  appendFileSync(at, `${path}\n`)
+}
+
 export function pathFiled(root: string, path: string, lines: readonly unknown[]): undefined {
   filing(root, join(indexPath.name, path), lines)
+  listingAdded(root, path)
 }
 
 export function listingFiled(root: string, paths: readonly string[]): undefined {
@@ -223,7 +230,7 @@ export function readingLaidOver(
 ): Reading {
   const filings = Object.entries(said).map(([at, lines]) => ({
     at,
-    lines: lines.map((one) => JSON.stringify(one)),
+    lines: lines.map((one) => (typeof one === "string" ? one : JSON.stringify(one))),
   }))
   return overlaidOn(readingIn(root), filings)
 }

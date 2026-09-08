@@ -161,7 +161,7 @@ test("a schema line that does say unique declares it still", () => {
   })
 
   expect([...uniquePropertiesAt(readingAt(index)).entries()]).toEqual([
-    ["id", { key: "id", reach: "page" }],
+    ["id", { key: "id", uniqueKind: "page" }],
   ])
 })
 
@@ -176,7 +176,7 @@ test("an identifier is read by the key its property states rather than by its sl
   })
 
   expect([...uniquePropertiesAt(readingAt(index)).entries()]).toEqual([
-    ["held-name", { key: "named", reach: "page-type" }],
+    ["held-name", { key: "named", uniqueKind: "page-type" }],
   ])
 })
 

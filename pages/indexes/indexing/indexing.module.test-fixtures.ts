@@ -226,7 +226,7 @@ export function aWorldDeclaringNothing(): Pair {
   return held
 }
 
-export function reachRespelled(unique: string): readonly string[] {
+export function uniqueKindRespelled(unique: string): readonly string[] {
   const { tree, root } = grounded()
   const at = join(tree, "id.text-property.ts")
   const moving = [{ path: at, before: bodyOf(idPage), after: bodyOf({ ...idPage, unique }) }]

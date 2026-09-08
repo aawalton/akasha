@@ -24,7 +24,7 @@ export const partOf = {
     },
     {
       invariantKind: "absence",
-      statement: "A page part of nothing is filed under no scope of this reach.",
+      statement: "A page part of nothing is filed under no scope of this kind.",
     },
   ],
 } as const satisfies UniqueKind

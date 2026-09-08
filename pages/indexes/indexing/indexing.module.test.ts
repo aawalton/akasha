@@ -32,7 +32,6 @@ import {
   namingAType,
   pathFile,
   put,
-  reachRespelled,
   renamed,
   retyped,
   said,
@@ -43,6 +42,7 @@ import {
   TYPE_SLUG,
   thePage,
   tookAway,
+  uniqueKindRespelled,
   writingTo,
   wrotePages,
   wroteText,
@@ -387,10 +387,10 @@ test("a path the index stores is relative to the repository root", () => {
   }
 })
 
-test("a reach respelled to the scope it already named files nothing for a page left alone", () => {
+test("a unique kind respelled to the scope it already named files nothing for a page left alone", () => {
   const untouched = (found: readonly string[]): boolean =>
     found.some((one) => one.includes(join("identity", "page", "id", B)))
 
-  expect(untouched(reachRespelled("page"))).toBe(false)
-  expect(untouched(reachRespelled("page-type"))).toBe(true)
+  expect(untouched(uniqueKindRespelled("page"))).toBe(false)
+  expect(untouched(uniqueKindRespelled("page-type"))).toBe(true)
 })

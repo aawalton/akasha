@@ -111,26 +111,26 @@ export function partingOver(
 const NO_SCOPE = ""
 
 function scopesFor(
-  level: string,
+  uniqueKind: string,
   value: Value,
   pageTypeSlug: string,
   partOf: PartOf
 ): readonly string[] {
-  if (level === PAGE) return [NO_SCOPE]
-  if (level === PAGE_TYPE) return [pageTypeSlug]
-  if (level === PART_OF) return partOf(value)
-  throw new Error(`\`${level}\` is no level a page is filed under`)
+  if (uniqueKind === PAGE) return [NO_SCOPE]
+  if (uniqueKind === PAGE_TYPE) return [pageTypeSlug]
+  if (uniqueKind === PART_OF) return partOf(value)
+  throw new Error(`\`${uniqueKind}\` is no unique kind a page is filed under`)
 }
 
 export type Filed = {
-  readonly level: string
+  readonly uniqueKind: string
   readonly scope: string
   readonly propertySlug: string
   readonly said: string
 }
 
 export function keyFor(one: Filed): string {
-  return join(one.level, one.scope, one.propertySlug, one.said)
+  return join(one.uniqueKind, one.scope, one.propertySlug, one.said)
 }
 
 export function filedIn(
@@ -149,9 +149,9 @@ export function filedIn(
     const found = value[one.key]
     if (typeof found !== "string" && typeof found !== "number") continue
     const said = String(found)
-    const level = one.reach
-    for (const scope of scopesFor(level, value, pageTypeSlug, partOf)) {
-      held.push({ level, scope, propertySlug, said })
+    const uniqueKind = one.uniqueKind
+    for (const scope of scopesFor(uniqueKind, value, pageTypeSlug, partOf)) {
+      held.push({ uniqueKind, scope, propertySlug, said })
     }
   }
   return held

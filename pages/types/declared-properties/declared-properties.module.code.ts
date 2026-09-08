@@ -218,7 +218,7 @@ export function identifyingFrom(source: Source): Identifying {
     const made = new Map<string, Identifier>()
     for (const one of propertiesIfNamed(pageTypeSlug, source) ?? []) {
       if (one.unique === null) continue
-      made.set(one.pagePropertySlug, { key: one.key, reach: one.unique })
+      made.set(one.pagePropertySlug, { key: one.key, uniqueKind: one.unique })
     }
     held.set(pageTypeSlug, made)
     return made

@@ -10,7 +10,7 @@ export const inPageProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This kind answers the level `page-property`.",
+      statement: "This kind answers the unique kind `page-property`.",
     },
     {
       invariantKind: "departure",

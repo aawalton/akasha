@@ -414,17 +414,17 @@ export function entryShapesAt(given: string | Reading): ReadonlySet<string> {
 
 export type Identifier = {
   readonly key: string
-  readonly reach: string
+  readonly uniqueKind: string
 }
 
 export function uniquePropertiesIn(values: Iterable<Value>): ReadonlyMap<string, Identifier> {
   const found = new Map<string, Identifier>()
   for (const value of values) {
-    const reach = slugAt(value, "unique")
+    const uniqueKind = slugAt(value, "unique")
     const slug = textAt(value, "slug")
     const propertySlug = textAt(value, "propertySlug")
-    if (reach === null || slug === null || propertySlug === null) continue
-    found.set(slug, { key: exportedAs(propertySlug), reach })
+    if (uniqueKind === null || slug === null || propertySlug === null) continue
+    found.set(slug, { key: exportedAs(propertySlug), uniqueKind })
   }
   return found
 }
@@ -433,7 +433,7 @@ export function uniquePropertiesAt(given: string | Reading): ReadonlyMap<string,
   const found = new Map<string, Identifier>()
   for (const held of schemaAt(given).values()) {
     if (held.unique === null || held.propertySlug === "") continue
-    found.set(held.slug, { key: exportedAs(held.propertySlug), reach: held.unique })
+    found.set(held.slug, { key: exportedAs(held.propertySlug), uniqueKind: held.unique })
   }
   return found
 }

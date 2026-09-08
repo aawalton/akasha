@@ -16,13 +16,13 @@ function identifying(held: Record<string, ReadonlyMap<string, Identifier>>): Ide
 }
 
 const BOTH = new Map<string, Identifier>([
-  ["id", { key: "id", reach: "page" }],
-  ["slug", { key: "slug", reach: "page-type" }],
+  ["id", { key: "id", uniqueKind: "page" }],
+  ["slug", { key: "slug", uniqueKind: "page-type" }],
 ])
 
 const UNIQUE = identifying({ domain: BOTH, module: BOTH })
 
-const WITHIN = new Map<string, Identifier>([["slug", { key: "slug", reach: "part-of" }]])
+const WITHIN = new Map<string, Identifier>([["slug", { key: "slug", uniqueKind: "part-of" }]])
 
 const PARTED = identifying({ collection: WITHIN, route: WITHIN })
 
@@ -74,7 +74,7 @@ test("a value carrying no identifier at all is filed nowhere", () => {
 
 test("an identifier is read by the key its property states rather than by its slug", () => {
   const keyed = identifying({
-    domain: new Map<string, Identifier>([["held-name", { key: "named", reach: "page-type" }]]),
+    domain: new Map<string, Identifier>([["held-name", { key: "named", uniqueKind: "page-type" }]]),
   })
   const value = { id: A, pageTypeSlug: "domain", slug: "a", named: "n", heldName: "s" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
@@ -86,8 +86,8 @@ test("an identifier is read by the key its property states rather than by its sl
 
 test("a value is filed under no identifier its own page type does not carry", () => {
   const keyed = identifying({
-    domain: new Map<string, Identifier>([["slug", { key: "slug", reach: "page-type" }]]),
-    other: new Map<string, Identifier>([["held-name", { key: "named", reach: "page-type" }]]),
+    domain: new Map<string, Identifier>([["slug", { key: "slug", uniqueKind: "page-type" }]]),
+    other: new Map<string, Identifier>([["held-name", { key: "named", uniqueKind: "page-type" }]]),
   })
   const value = { id: A, pageTypeSlug: "domain", slug: "a", named: "n" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
@@ -99,7 +99,7 @@ test("a value is filed under no identifier its own page type does not carry", ()
 
 test("an identifier held as a number is filed under the text of that number", () => {
   const keyed = identifying({
-    domain: new Map<string, Identifier>([["tally", { key: "tally", reach: "page-type" }]]),
+    domain: new Map<string, Identifier>([["tally", { key: "tally", uniqueKind: "page-type" }]]),
   })
   const value = { id: A, pageTypeSlug: "domain", slug: "a", tally: 7 }
 
@@ -132,7 +132,7 @@ test("a page naming the collections it is part of is filed under each of them", 
   ])
 })
 
-test("a page part of nothing is filed under no scope of the `part-of` reach", () => {
+test("a page part of nothing is filed under no scope of the `part-of` unique kind", () => {
   expect(identityIn(HOME, HOME_AT, "/repo", PARTED, null, partingIn([HOME]))).toEqual([])
 })
 
@@ -169,9 +169,9 @@ test("a page both naming a collection and named by another page is filed under b
   ])
 })
 
-test("what a page is filed under carries the level, the scope, the property and the value", () => {
+test("what a page is filed under carries the unique kind, the scope, the property and the value", () => {
   expect(filedIn(HOME, PARTED, null, partingIn([HOME, WEB]))).toEqual([
-    { level: "part-of", scope: "alan-web", propertySlug: "slug", said: "home" },
+    { uniqueKind: "part-of", scope: "alan-web", propertySlug: "slug", said: "home" },
   ])
 })
 
@@ -240,22 +240,22 @@ const DECLARING = identifyingFrom(sourceOver([ROUTE_TYPE, PAGE_TYPE, SLUG_PROPER
 
 const WEB_HOME: Value = { id: A, pageTypeSlug: "route", slug: "home", partOfSlugs: ["alan-web"] }
 
-test("a declaration narrowing `unique` gives the reach it states rather than its property's", () => {
-  expect(DECLARING("route").get("slug")).toEqual({ key: "slug", reach: "part-of" })
+test("a declaration narrowing `unique` gives the kind it states rather than its property's", () => {
+  expect(DECLARING("route").get("slug")).toEqual({ key: "slug", uniqueKind: "part-of" })
 })
 
-test("a page type narrowing no reach takes the reach its property states", () => {
-  expect(DECLARING("page").get("slug")).toEqual({ key: "slug", reach: "page-type" })
+test("a page type narrowing no unique kind takes the kind its property states", () => {
+  expect(DECLARING("page").get("slug")).toEqual({ key: "slug", uniqueKind: "page-type" })
 })
 
 test("two pages of one type carrying one slug under different parents are filed apart", () => {
   const mobile: Value = { ...WEB_HOME, id: B, partOfSlugs: ["alan-mobile"] }
 
   expect(filedIn(WEB_HOME, DECLARING)).toEqual([
-    { level: "part-of", scope: "alan-web", propertySlug: "slug", said: "home" },
+    { uniqueKind: "part-of", scope: "alan-web", propertySlug: "slug", said: "home" },
   ])
   expect(filedIn(mobile, DECLARING)).toEqual([
-    { level: "part-of", scope: "alan-mobile", propertySlug: "slug", said: "home" },
+    { uniqueKind: "part-of", scope: "alan-mobile", propertySlug: "slug", said: "home" },
   ])
 })
 
@@ -263,7 +263,7 @@ test("two pages of one type carrying one slug under one parent are filed at one 
   const other: Value = { ...WEB_HOME, id: C }
 
   expect(filedIn(other, DECLARING)).toEqual([
-    { level: "part-of", scope: "alan-web", propertySlug: "slug", said: "home" },
+    { uniqueKind: "part-of", scope: "alan-web", propertySlug: "slug", said: "home" },
   ])
   expect(filedIn(WEB_HOME, DECLARING)).toEqual(filedIn(other, DECLARING))
 })

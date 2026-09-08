@@ -10,17 +10,17 @@ export const akashaFolderShape = {
     {
       statement: "A unique kind is `page`, `page-type` or `page-property`.",
       workingMemory:
-        "`always` is renamed `page`. `part-of` is deleted rather than renamed: it scopes on the collections dag, while `page-property` scopes on a value the page itself carries. `book-section` is the one live `part-of` declarer, so it takes a `uniquePropertySlug` first. `reach` and `level` are two coined names for this one kind and neither is a page; the path is the unique kind, the scope, the property, the value.",
+        "`always` is renamed `page`, `page-property` is a unique kind page, and the field and parameter that carried this kind are `uniqueKind` everywhere. `part-of` is deleted rather than renamed: it scopes on the collections dag, while `page-property` scopes on a value the page itself carries. `book-section` is the one live `part-of` declarer, so it takes a `uniquePropertySlug` first.",
     },
     {
       statement: "A page unique only within a scope declares `uniquePropertySlug`.",
       workingMemory:
-        '`Schema` is one shape in `index-shape`, read by the entries reader, the reading reader and the writer, and it carries `uniquePropertySlug`, which the writer files. An absent slug reads as the empty string rather than as nothing, so a reader dropping a stub line drops on `""`. `Identifier` and `identifyingFrom` still carry `key` and `reach` alone, so nothing reads the field a declaration states yet, and `filedIn` composes a scope for `page`, `page-type` and `part-of`.',
+        '`Schema` is one shape in `index-shape`, read by the entries reader, the reading reader and the writer, and it carries `uniquePropertySlug`, which the writer files. An absent slug reads as the empty string rather than as nothing, so a reader dropping a stub line drops on `""`. `Identifier` and `identifyingFrom` still carry `key` and `uniqueKind` alone, so nothing reads the field a declaration states yet.',
     },
     {
       statement: "The identity index files each page under its unique kind.",
       workingMemory:
-        "`filedIn` answers `{ scope, propertySlug, said }` and `identityIn` joins `identity/{scope}/{propertySlug}/{said}.jsonl`, so there is no level segment and the universal scope `page` shares a directory with the page type named `page`. `scopesFor` sends `part-of` to the parent slugs `partOf(value)` answers. The three levels each add one scope, and the writer's triple gains the level and the scope property.",
+        "`filedIn` answers `{ uniqueKind, scope, propertySlug, said }` and `identityIn` joins `identity/{uniqueKind}/{scope}/{propertySlug}/{said}.jsonl`. The kind `page` carries an empty scope, so an id is filed at `identity/page/id/{id}.jsonl`. `scopesFor` sends `page-type` to the page type's slug and `part-of` to the parent slugs `partOf(value)` answers, and knows no `page-property` yet.",
     },
     {
       statement: "Each page address kind holds the code that finds its page.",

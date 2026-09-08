@@ -18,9 +18,9 @@ const SLUG = "slug"
 
 const ID = "id"
 
-const REACHES: readonly string[] = ["part-of", "page-property", "page-type", "page"]
+const UNIQUE_KINDS: readonly string[] = ["part-of", "page-property", "page-type", "page"]
 
-const NO_REACH = "none"
+const NO_UNIQUE_KIND = "none"
 
 export type Held = {
   readonly slug: string
@@ -119,13 +119,13 @@ function looseningAt(key: string, nearer: Declared, further: Declared, how: stri
   )
 }
 
-function reachIn(one: Declared): string {
-  return one.unique ?? NO_REACH
+function uniqueKindIn(one: Declared): string {
+  return one.unique ?? NO_UNIQUE_KIND
 }
 
 export function widthOf(one: Declared): number {
-  const at = one.unique === null ? -1 : REACHES.indexOf(one.unique)
-  return at === -1 ? REACHES.length : at
+  const at = one.unique === null ? -1 : UNIQUE_KINDS.indexOf(one.unique)
+  return at === -1 ? UNIQUE_KINDS.length : at
 }
 
 export function looseningIn(nearer: Declared, further: Declared): string | null {
@@ -148,7 +148,7 @@ export function looseningIn(nearer: Declared, further: Declared): string | null 
     return `\`max-length\` rises from \`${further.maxLength}\` to \`${said}\``
   }
   if (widthOf(nearer) > widthOf(further)) {
-    return `\`unique\` widens from \`${reachIn(further)}\` to \`${reachIn(nearer)}\``
+    return `\`unique\` widens from \`${uniqueKindIn(further)}\` to \`${uniqueKindIn(nearer)}\``
   }
   return null
 }

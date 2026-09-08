@@ -215,7 +215,7 @@ function turningIn(
   for (const slug of new Set([...was.keys(), ...now.keys()])) {
     const before = was.get(slug)
     const after = now.get(slug)
-    if (before?.key !== after?.key || before?.reach !== after?.reach) said.add(slug)
+    if (before?.key !== after?.key || before?.uniqueKind !== after?.uniqueKind) said.add(slug)
   }
   return said
 }

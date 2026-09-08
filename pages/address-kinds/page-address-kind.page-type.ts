@@ -22,7 +22,7 @@ export const pageAddressKind = {
     },
     {
       invariantKind: "departure",
-      statement: "Each kind answers one level the identity index files under.",
+      statement: "Each kind answers one unique kind the identity index files under.",
     },
     {
       invariantKind: "departure",

@@ -200,7 +200,7 @@ test("a declaration restating an inherited property qualified binds once, the ne
   expect(carried[0]?.required).toBe(true)
 })
 
-test("a declaration narrowing `unique` binds over the reach its property states", () => {
+test("a declaration narrowing `unique` binds over the kind its property states", () => {
   const root = rootAt()
   propertied(root, "text-property", "slug", "slug", "page-type")
   typed(root, "page", null, [{ pagePropertySlug: "slug", required: true, many: false }])

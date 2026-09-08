@@ -104,7 +104,7 @@ function endingIn(said: readonly { readonly name: string }[]): readonly string[]
 
 export function listedNamed(
   given: string | Reading,
-  level: string,
+  uniqueKind: string,
   scope: string,
   propertySlug: string,
   said: string
@@ -112,8 +112,9 @@ export function listedNamed(
   return answered(
     given,
     ROOT,
-    `which \`${scope === "" ? level : scope}\` carries \`${said}\` as its \`${propertySlug}\``,
-    (reading) => listedIn(reading, join(IDENTITY, level, scope, propertySlug, `${said}${ENDING}`))
+    `which \`${scope === "" ? uniqueKind : scope}\` carries \`${said}\` as its \`${propertySlug}\``,
+    (reading) =>
+      listedIn(reading, join(IDENTITY, uniqueKind, scope, propertySlug, `${said}${ENDING}`))
   )
 }
 
