@@ -16,7 +16,7 @@ const TO = "to"
 
 const MOVE_FOLDER = "change-checked/move-folder"
 
-const RENAME_PAGE = "change-checked/rename-page"
+const RENAME_PAGE = "change-agent/rename-page"
 
 export type MoveFolderPackageAsked = {
   readonly at: string

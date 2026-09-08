@@ -1,8 +1,8 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const renamePage = {
   id: "01a07718-c9b6-7e8c-bc13-5927529ac249",
-  pageTypeSlug: "change-checked",
+  pageTypeSlug: "change-agent",
   slug: "rename-page",
   changeModeSlug: "change-mode-rename",
   definition: "a page renamed and carried to where its slug says, in the data and in every name",
@@ -21,4 +21,4 @@ export const renamePage = {
       statement: "The slug is restated at the path the carry lands the page at.",
     },
   ],
-} as const satisfies ChangeChecked
+} as const satisfies ChangeAgent

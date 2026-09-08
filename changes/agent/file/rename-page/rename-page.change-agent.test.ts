@@ -25,7 +25,7 @@ import {
   type World,
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { renamePage } from "./rename-page.change-checked.code.ts"
+import { renamePage } from "./rename-page.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 
