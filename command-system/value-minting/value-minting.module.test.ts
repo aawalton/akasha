@@ -156,9 +156,9 @@ test("a page carrying the value already keeps the one it carries", () => {
   expect(textOf(said.changes)).toBe(body)
 })
 
-test("a body carried from another path is left as it is", () => {
+test("a body moved from another path is left as it is", () => {
   const root = rooted("uuid-v7")
-  const said = mintingOnto(root, [{ ...carrying(BODY), carried: true }])
+  const said = mintingOnto(root, [{ ...carrying(BODY), moved: true }])
   expect(said.filled).toEqual([])
   expect(textOf(said.changes)).toBe(BODY)
 })

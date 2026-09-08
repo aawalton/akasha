@@ -209,7 +209,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A change says whether the body the change carries came from another path.",
+      statement: "A change says whether the body the change carries moved from another path.",
     },
     {
       invariantKind: "departure",

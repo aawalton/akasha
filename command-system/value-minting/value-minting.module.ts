@@ -44,7 +44,7 @@ export const valueMinting = {
     },
     {
       invariantKind: "departure",
-      statement: "A body carried from another path is left alone.",
+      statement: "A body moved from another path is left alone.",
     },
     {
       invariantKind: "departure",
