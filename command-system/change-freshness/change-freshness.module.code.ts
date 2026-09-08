@@ -22,14 +22,19 @@ function changedSince(
   )
 }
 
-export function movedOnDisk(root: string, asRead: readonly Reading[]): readonly string[] {
+export function movedOnDisk(
+  root: string,
+  base: string,
+  asRead: readonly Reading[]
+): readonly string[] {
   const moved: string[] = []
   for (const one of asRead) {
-    let oid = ""
+    let held: Uint8Array | null = null
     try {
-      oid = blobIdOf(readFileSync(join(root, one.path)))
+      held = readFileSync(join(root, one.path))
     } catch {}
-    if (!sameBody(one, oid)) moved.push(one.path)
+    if (held === null && bodyAt(root, base, one.path) === null) continue
+    if (!sameBody(one, held === null ? "" : blobIdOf(held))) moved.push(one.path)
   }
   return moved.sort()
 }
@@ -71,7 +76,7 @@ export function unfresh(
       tail,
     ]
   }
-  const stirred = movedOnDisk(root, asRead)
+  const stirred = movedOnDisk(root, base, asRead)
   if (stirred.length === 0) return null
   return [
     ...stirred.map(

@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "@akasha/checks/judging"
 import { said as git } from "@akasha/git/git-running"
@@ -35,6 +35,8 @@ function repoWith(named: Readonly<Record<string, string>>): string {
   return root
 }
 
+const headOf = (root: string): string => git(root, ["rev-parse", "HEAD"]).trim()
+
 function asRead(path: string, oid: string, carriedOid: string | null = null): Reading {
   return { path, oid, seenAt: 0, carriedOid }
 }
@@ -43,33 +45,38 @@ const readA = (): Reading => asRead(AT, blobIdOf(bytes(A)))
 
 test("a body at the object id it was read at has moved nothing", () => {
   const root = repoWith(PAGES)
-  expect(movedOnDisk(root, [readA()])).toEqual([])
+  expect(movedOnDisk(root, headOf(root), [readA()])).toEqual([])
 })
 
 test("a body at another object id has moved", () => {
   const root = repoWith(PAGES)
   writeFileSync(join(root, AT), `${A}\n`)
-  expect(movedOnDisk(root, [readA()])).toEqual([AT])
+  expect(movedOnDisk(root, headOf(root), [readA()])).toEqual([AT])
 })
 
 test("a body carried mechanically since it was read still holds for its reader", () => {
   const root = repoWith(PAGES)
   writeFileSync(join(root, AT), `${A}\n`)
   const held = asRead(AT, blobIdOf(bytes(A)), blobIdOf(bytes(`${A}\n`)))
-  expect(movedOnDisk(root, [held])).toEqual([])
+  expect(movedOnDisk(root, headOf(root), [held])).toEqual([])
 })
 
-test("a path that will not read at all counts as moved rather than as unmoved", () => {
+test("a path the base holds a body at whose body will not read counts as moved", () => {
   const root = repoWith(PAGES)
-  expect(movedOnDisk(root, [asRead("akasha/nowhere.ts", blobIdOf(bytes(A)))])).toEqual([
-    "akasha/nowhere.ts",
-  ])
+  rmSync(join(root, AT))
+  expect(movedOnDisk(root, headOf(root), [readA()])).toEqual([AT])
+})
+
+test("a path the base holds nothing at and disk holds nothing at has moved nothing", () => {
+  const root = repoWith(PAGES)
+  const held = asRead("akasha/nowhere.ts", blobIdOf(bytes(A)))
+  expect(movedOnDisk(root, headOf(root), [held])).toEqual([])
 })
 
 test("a path no reading was recorded for is held to nothing", () => {
   const root = repoWith(PAGES)
   writeFileSync(join(root, AT), "moved with nobody watching")
-  expect(movedOnDisk(root, [])).toEqual([])
+  expect(movedOnDisk(root, headOf(root), [])).toEqual([])
 })
 
 test("a body still as its writer read it is written rather than refused", async () => {
@@ -168,8 +175,6 @@ function landedMeanwhile(root: string, path: string, body: string): Judging {
     },
   }
 }
-
-const headOf = (root: string): string => git(root, ["rev-parse", "HEAD"]).trim()
 
 test("a commit reaching the tree is named, and a base that is already head names nothing", () => {
   const root = repoWith(PAGES)

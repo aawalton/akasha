@@ -25,7 +25,16 @@ export const changeFreshness = {
     },
     {
       invariantKind: "departure",
-      statement: "A path whose body will not read at all counts as moved rather than as unchanged.",
+      statement:
+        "A path the base holds a body at whose body will not read counts as moved rather than as unchanged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the base holds nothing at and disk holds nothing at has moved nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path a change creates is held to no body, because no body was ever there.",
     },
     {
       invariantKind: "absence",
