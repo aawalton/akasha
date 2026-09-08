@@ -1,9 +1,6 @@
 import { expect, test } from "bun:test"
 import { EquipmentMappingsStale } from "./generate-addon-data.module.code.ts"
 
-// Both callers of this module sort a stale-mappings throw from every other throw by `instanceof`,
-// answering a data error for the one and a failure for the other. These hold that apart.
-
 test("a stale-mappings throw is caught as itself", () => {
   const thrown = new EquipmentMappingsStale("the tables disagree")
   expect(thrown instanceof EquipmentMappingsStale).toBe(true)
