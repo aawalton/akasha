@@ -45,7 +45,7 @@ export function validateNoOutDir(
   return {
     rule: "noOutDir",
     workspace,
-    message: `"${workspace}" sets compilerOptions.outDir without TSTL bundling`,
+    message: `"${workspace}" sets compilerOptions.outDir without Lua compiler bundling`,
   }
 }
 
