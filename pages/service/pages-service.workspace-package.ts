@@ -121,5 +121,10 @@ export const pagesService = {
       invariantKind: "gap",
       statement: "An answer costs nothing where the pages the answer rests on have not changed.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pages system service is started again for as long as that service is failing.",
+    },
   ],
 } as const satisfies WorkspacePackage

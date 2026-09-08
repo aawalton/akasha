@@ -11,5 +11,6 @@ export const pagesService = {
   binds: ["127.0.0.1", "::1", "workstation.alanwalton.ts.net"],
   systemd: {
     restartDelaySeconds: 1,
+    startLimitIntervalSeconds: 0,
   },
 } as const satisfies WorkstationService
