@@ -10,7 +10,7 @@ export const holdRegistry = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Entering a hold hands back the handle exiting that hold needs.",
+      statement: "Entering a hold hands back the handle exiting needs.",
     },
     {
       invariantKind: "departure",

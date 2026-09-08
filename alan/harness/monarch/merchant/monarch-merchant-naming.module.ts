@@ -30,7 +30,7 @@ export const monarchMerchantNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The longest pattern that holds wins.",
+      statement: "The longest matching pattern wins.",
     },
     {
       invariantKind: "departure",

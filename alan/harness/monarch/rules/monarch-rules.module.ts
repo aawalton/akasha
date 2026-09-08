@@ -25,7 +25,7 @@ export const monarchRules = {
     },
     {
       invariantKind: "departure",
-      statement: "A text clause holds where a value the clause names holds.",
+      statement: "A text clause holds where the value it names does.",
     },
     {
       invariantKind: "departure",
