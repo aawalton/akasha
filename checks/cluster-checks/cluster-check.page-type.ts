@@ -194,6 +194,7 @@ export const clusterCheck = {
     "module/repo-files",
     "module/repo-path-resolver",
     "module/repo-scope",
+    "module/rule-population",
   ],
   properties: [
     {
