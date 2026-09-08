@@ -1,4 +1,4 @@
-import { hashFiles } from "@akasha/workflow-language/inputs-hash"
+import { hashFiles } from "../inputs-hash/inputs-hash.module.code.ts"
 
 const encoder = new TextEncoder()
 

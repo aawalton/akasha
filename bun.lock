@@ -978,7 +978,6 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@akasha/workflow-language": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -1080,9 +1079,6 @@
     },
     "infrastructure/cluster/workflows/workflow-language": {
       "name": "@akasha/workflow-language",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
     },
     "infrastructure/dockerfiles": {
       "name": "@akasha/dockerfiles",

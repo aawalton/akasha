@@ -6,7 +6,7 @@ export const workflowLanguage = {
   slug: "workflow-language",
   definition: "the words a workflow template's declaration is written in",
   manifest: "json",
-  partSlugs: ["module/ci-identifiers", "module/inputs-hash", "module/retry-transient-ddl"],
+  partSlugs: ["module/retry-transient-ddl"],
   invariants: [
     {
       invariantKind: "departure",

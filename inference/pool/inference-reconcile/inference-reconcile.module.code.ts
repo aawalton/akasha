@@ -1,7 +1,6 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join, relative } from "node:path"
 import { OperationalError } from "@akasha/errors-core/exit-code"
-import { computeInputsHash } from "@akasha/workflow-language/inputs-hash"
 import {
   buildGuiSessionProbeScript,
   decideGuiSession,
@@ -20,6 +19,7 @@ import {
 } from "../inference-schema/inference-schema.module.code.ts"
 import { MANAGED_ENVS, SERVICES } from "../inference-services/inference-services.module.code.ts"
 import { runSsh, runSshCapture, syncDir } from "../inference-ssh/inference-ssh.module.code.ts"
+import { computeInputsHash } from "../inputs-hash/inputs-hash.module.code.ts"
 import {
   buildPoolConfig,
   buildWritePoolConfigScript,

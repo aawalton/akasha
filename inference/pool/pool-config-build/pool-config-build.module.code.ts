@@ -1,9 +1,9 @@
-import { hashFiles } from "@akasha/workflow-language/inputs-hash"
 import { launchdLabel, serviceDir } from "../inference-naming/inference-naming.module.code.ts"
 import type {
   InferenceHost,
   InferenceService,
 } from "../inference-schema/inference-schema.module.code.ts"
+import { hashFiles } from "../inputs-hash/inputs-hash.module.code.ts"
 import type { PoolConfig } from "../pool-config/pool-config.module.code.ts"
 
 const encoder = new TextEncoder()

@@ -15,6 +15,7 @@ export const inferencePool = {
     "module/inference-schema",
     "module/inference-services",
     "module/inference-ssh",
+    "module/inputs-hash",
     "module/launchd-service",
     "module/mlx-audio-services",
     "module/pool-config",
