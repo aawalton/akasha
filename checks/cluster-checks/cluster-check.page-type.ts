@@ -155,6 +155,7 @@ export const clusterCheck = {
     "module/component-slot-detection",
     "module/component-sources",
     "module/css-color-properties",
+    "module/css-source-directives",
   ],
   properties: [
     {
