@@ -10,7 +10,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "What the game records against a task reaches the due date the web holds.",
       workingMemory:
-        "A scoped key `<taskId>:<characterId>` is kept as a mark rather than dropped, so 27 completion and 22 progress marks reach the decision. `next_character` rolls once the named character has progressed; `all_characters` once all 20 have completed or progressed, a character with no record counting as not progressed. Live at 12:42:53Z: `Task cadwell-s-almanac: rolled to 2026-09-08`, the cycle after rolling nothing, the once-a-day guard holding. Left: no per-character count reaches the web.",
+        "The watcher's `rollOnProgress` advances `dueDate` for a task whose rrule date has passed. `next_character` rolls once the named character progresses, `all_characters` once every character has completed or progressed. It rolled `cadwell-s-almanac` on 2026-09-07; the save holds 154 completion and 135 progress marks. There is no once-a-day guard: `dueDate <= today` is the brake. Left: `overdue-rolling` patches the same key daily against no progress, and no per-character count reaches the web.\n",
     },
     {
       statement: "Every key the watcher names on a page is one that page type declares.",
