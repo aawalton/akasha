@@ -88,7 +88,7 @@ export const optionDeclarations: CommandLineOption[] = [
   },
   {
     name: "luaPlugins",
-    description: "List of @temper/shared-build-deploy-tstl plugins.",
+    description: "List of Lua compiler plugins.",
     type: "json-array-of-objects",
   },
   {
