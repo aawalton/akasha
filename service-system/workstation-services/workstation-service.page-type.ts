@@ -72,6 +72,7 @@ export const workstationService = {
     "workstation-service/ttc-client",
     "workstation-service/wandering-inn-sync",
     "module/tick-ratchet",
+    "workstation-service/service-watching",
   ],
   properties: [
     { pagePropertySlug: "text-property/runs", required: true, many: true, maxCount: null },
