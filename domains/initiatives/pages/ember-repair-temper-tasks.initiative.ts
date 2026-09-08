@@ -32,11 +32,6 @@ export const emberRepairTemperTasks = {
       workingMemory:
         "All 82 are pages under temper-inventory-rule, and the browser and the watcher read them there. What the pages carry matches the blob's 82 exactly: same ids, same order, same fingerprints, same sell block. The browser writes a changed rule as a page, takes away the page no rule wants, and writes nothing to the blob. The watcher exported 82 rules into 90,683 bytes of Lua, against 216 for an account holding none. Left: the CLI, which wants @akasha/pages-access, and the 82 still in the blob.",
     },
-    {
-      statement: "A player's settings are read from the file beside that player's page.",
-      workingMemory:
-        "Met on the watcher and the browser. The watcher reads the body over readPages and readFiles and names all four under `settings to export`. The browser asks under `files` and reads 42,744 chars keyed safety, logging, inventory, automation, against `json` without it. Five panels share one copy, and a write landing before that read is refused. composedFor refuses the raw object and lands the ending plus `bodies` beside the page. Left: the CLI.",
-    },
   ],
   constraints: [
     "The watcher and the addons count as off-workstation, so they reach pages through pages-service rather than by reading the repository.",
