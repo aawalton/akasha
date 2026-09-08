@@ -15,7 +15,6 @@ export const sessionPlanning = {
     "module/pattern-groups",
     "module/performed-set",
     "module/session-anchor",
-    "module/slot-templates",
   ],
   invariants: [
     {
