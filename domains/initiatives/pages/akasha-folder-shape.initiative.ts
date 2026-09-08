@@ -8,11 +8,6 @@ export const akashaFolderShape = {
   personaSlug: "akasha",
   intents: [
     {
-      statement: "A unique kind is `page`, `page-type` or `page-property`.",
-      workingMemory:
-        "`page-property` is a unique kind now, and `scopesFor` files it under `{pageType}/{scopeProperty}/{value}`. What is left is `part-of`. `book-section` is its one live declarer, 455 pages each naming one parent through the many-valued `partOfSlugs`, so a required single-valued property must reach all 455 first. `akasha change` writes one page a call, and nothing writes one property onto many pages.",
-    },
-    {
       statement: "A page unique only within a scope declares `uniquePropertySlug`.",
       workingMemory:
         '`Schema` is one shape in `index-shape`, read by the entries reader, the reading reader and the writer, and it carries `uniquePropertySlug`, which the writer files. An absent slug reads as the empty string rather than as nothing, so a reader dropping a stub line drops on `""`. `Carried` carries it too, and `identifyingFrom` turns it into `Identifier.scopedBy`, the key and page property slug of the property named.',
@@ -20,7 +15,7 @@ export const akashaFolderShape = {
     {
       statement: "The identity index files each page under its unique kind.",
       workingMemory:
-        "`filedIn` answers `{ uniqueKind, scope, propertySlug, said }` and `identityIn` joins `identity/{uniqueKind}/{scope}/{propertySlug}/{said}.jsonl`. The kind `page` carries an empty scope, so an id is filed at `identity/page/id/{id}.jsonl`. `page-type` scopes on the page type's slug, `part-of` on the slugs `partOf(value)` answers, and `page-property` on `{pageType}/{scopeProperty}/{value}`.",
+        "`filedIn` answers `{ uniqueKind, scope, propertySlug, said }` and `identityIn` joins `identity/{uniqueKind}/{scope}/{propertySlug}/{said}.jsonl`. The kind `page` carries an empty scope, so an id is filed at `identity/page/id/{id}.jsonl`. `page-type` scopes on the page type's slug, and `page-property` on `{pageType}/{scopeProperty}/{value}`.",
     },
     {
       statement: "Each page address kind holds the code that finds its page.",
@@ -35,7 +30,7 @@ export const akashaFolderShape = {
     {
       statement: "The collections edge is named `partOfCollectionSlugs`.",
       workingMemory:
-        "25744 children name a parent through `partOfSlugs` and 11138 pages are named as a part through `partSlugs`; `partingIn` reads both directions into one parent map. `partSlugs` keeps its name and stays the domain spanning tree. 1066 children name several parents, 1055 of them `great-course`, and that dag is the collections edge rather than a fault to mend.",
+        "25744 children name a parent through `partOfSlugs` and 11138 pages are named as a part through `partSlugs`, and nothing reads the two into one parent map any more. `partSlugs` keeps its name and stays the domain spanning tree. 1066 children name several parents, 1055 of them `great-course`, and that dag is the collections edge rather than a fault to mend.",
     },
     {
       statement: "A story chapter names its story with one property of its own.",
