@@ -45,6 +45,8 @@ import {
   helpOf,
 } from "../../../command-system/calling/calling.module.code.ts"
 import {
+  DROP_LINE,
+  droppedPathsIn,
   dropping,
   forgetting,
   listing,
@@ -334,30 +336,7 @@ function keptSaid(page: string): string {
   return `the edits are kept at ${keptAt(page) ?? ""}, ${KEPT}`
 }
 
-const DROP_LINE = "a drop names each path on a line of its own, written `at` and the path"
-
-const DROP_NAMES_NOTHING = `the lines piped in name no path, and ${DROP_LINE}`
-
 const DROP_ON_LINE = `is said on the command line, and ${DROP_LINE}`
-
-export function droppedIn(said: string): readonly string[] | string {
-  const held: string[] = []
-  for (const line of said.split("\n")) {
-    const one = line.trim()
-    if (one === "") continue
-    const path = one.startsWith(`${AT}:`) ? one.slice(AT.length + 1).trim() : ""
-    if (path === "") return `\`${one}\` names no path, and ${DROP_LINE}`
-    held.push(path)
-  }
-  return held.length === 0 ? DROP_NAMES_NOTHING : held
-}
-
-export function droppedPathsIn(piping: Piping): readonly string[] | string {
-  const held = piping()
-  if ("unreadable" in held && held.part === true) return held.unreadable
-  if (!("bytes" in held) || held.bytes.byteLength === 0) return BARE
-  return droppedIn(new TextDecoder().decode(held.bytes))
-}
 
 function dropped(root: string, page: string, argv: readonly string[], piping: Piping): Answer {
   const said = argv[0]

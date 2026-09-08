@@ -11,8 +11,7 @@ import {
   applying,
   BAD_DROPS,
   BOTH,
-  DROPPED_BOTH,
-  DROPPED_ONE,
+  DROPS,
   drafting,
   draftingAndApplying,
   EDIT,
@@ -27,9 +26,6 @@ import {
   keptIn,
   loading,
   MISSING,
-  MOVED,
-  MOVED_FROM,
-  MOVED_TO,
   NONE_HANDED,
   NOT_TEXT_SAID,
   owedIn,
@@ -157,62 +153,22 @@ test("a path that is no page keeps no edits", async () => {
   expect(said.refusals).toEqual(["a path that is no page keeps no edits"])
 })
 
-test("a drop takes away every edit kept and names each edit that went", async () => {
-  const root = repo()
-  await removing(root, NAMER_PAGE)
+for (const one of DROPS) {
+  test(one.name, async () => {
+    const root = repo()
+    for (const at of one.removes) await removing(root, at)
+    one.sets?.(root)
 
-  const said = await acting(root, ["drop"])
+    const said = await acting(root, ["drop"], one.said)
 
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(said.report).toEqual(DROPPED_BOTH)
-  expect(pathsIn(root)).toEqual([])
-})
-
-test("a drop over no edit kept says so rather than refusing", async () => {
-  const root = repo()
-
-  const said = await acting(root, ["drop"])
-
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(said.report).toEqual(["no edits are kept beside this agent's page, so nothing went"])
-})
-
-test("a drop naming one path takes that path's edit and leaves the rest", async () => {
-  const root = repo()
-  await removing(root, NAMER_PAGE)
-
-  const said = await acting(root, ["drop"], piping(taking(NAMER_CODE)))
-
-  expect(said.refusals).toEqual([])
-  expect(said.report).toEqual(DROPPED_ONE)
-  expect(pathsIn(root)).toEqual([NAMER_PAGE])
-})
-
-test("a drop naming several paths takes away every edit those paths name", async () => {
-  const root = repo()
-  await removing(root, NAMER_PAGE)
-  await removing(root, SPARE_PAGE)
-
-  const said = await acting(root, ["drop"], piping(taking(NAMER_CODE) + taking(NAMER_PAGE)))
-
-  expect(said.report).toContain("2 edit(s) are still kept beside this agent's page")
-  expect([...pathsIn(root)].sort()).toEqual([SPARE_CODE, SPARE_PAGE])
-})
-
-test("a path naming no edit kept refuses the drop and leaves every edit kept", async () => {
-  const root = repo()
-  await removing(root, NAMER_PAGE)
-
-  const said = await acting(root, ["drop"], piping(taking(MISSING)))
-
-  expect(said.code).toBe(1)
-  expect(said.refusals).toEqual([
-    `\`${MISSING}\` names no edit kept beside this agent's page, so nothing went`,
-  ])
-  expect(keptIn(root)).toEqual(BOTH)
-})
+    if (one.code !== undefined) expect(said.code).toBe(one.code)
+    if (one.refusals !== undefined) expect(said.refusals).toEqual(one.refusals)
+    if (one.report !== undefined) expect(said.report).toEqual(one.report)
+    if (one.holds !== undefined) expect(said.report).toContain(one.holds)
+    if (one.first !== undefined) expect(said.report[0]).toBe(one.first)
+    if (one.kept !== undefined) expect(keptIn(root)).toEqual(one.kept)
+  })
+}
 
 test("a drop the command line or a line or the input refused leaves every edit kept", async () => {
   for (const [argv, said] of BAD_DROPS) {
@@ -224,26 +180,6 @@ test("a drop the command line or a line or the input refused leaves every edit k
     expect(answer.code).toBe(1)
     expect(keptIn(root)).toEqual(BOTH)
   }
-})
-
-test("an input that will not open is nothing piped in", async () => {
-  const root = repo()
-  await removing(root, NAMER_PAGE)
-
-  await acting(root, ["drop"], () => ({ unreadable: "ENXIO" }))
-
-  expect(pathsIn(root)).toEqual([])
-})
-
-test("an edit a move left behind is taken away by the path that move came from", async () => {
-  const root = repo()
-  appendEdits(root, PAGE, [MOVED])
-
-  const said = await acting(root, ["drop"], piping(taking(MOVED_FROM)))
-
-  expect(said.refusals).toEqual([])
-  expect(said.report[0]).toBe(`moves ${MOVED_FROM} to ${MOVED_TO}`)
-  expect(pathsIn(root)).toEqual([])
 })
 
 test("a call over no handed edits says no subagent has handed edits over", async () => {

@@ -12,6 +12,7 @@ import {
 } from "../../changes/modules/subagent-handed/subagent-handed.module.code.ts"
 import { mistaking } from "../asking/asking.module.code.ts"
 import type { Answer } from "../calling/calling.module.code.ts"
+import type { Piping } from "../piping/piping.module.code.ts"
 import { offRepo, pathAt } from "../said-pathing/said-pathing.module.code.ts"
 
 export const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
@@ -44,6 +45,31 @@ export function saidOf(one: Stated): string {
 function namedIn(one: Stated, at: readonly string[]): boolean {
   if (one.kind === "move") return at.includes(one.pathTo) || at.includes(one.pathFrom)
   return at.includes(one.path)
+}
+
+const AT = "at"
+
+export const DROP_LINE = "a drop names each path on a line of its own, written `at` and the path"
+
+const DROP_NAMES_NOTHING = `the lines piped in name no path, and ${DROP_LINE}`
+
+export function droppedIn(said: string): readonly string[] | string {
+  const held: string[] = []
+  for (const line of said.split("\n")) {
+    const one = line.trim()
+    if (one === "") continue
+    const path = one.startsWith(`${AT}:`) ? one.slice(AT.length + 1).trim() : ""
+    if (path === "") return `\`${one}\` names no path, and ${DROP_LINE}`
+    held.push(path)
+  }
+  return held.length === 0 ? DROP_NAMES_NOTHING : held
+}
+
+export function droppedPathsIn(piping: Piping): readonly string[] | string {
+  const held = piping()
+  if ("unreadable" in held && held.part === true) return held.unreadable
+  if (!("bytes" in held) || held.bytes.byteLength === 0) return []
+  return droppedIn(new TextDecoder().decode(held.bytes))
 }
 
 export function dropping(root: string, page: string, said: readonly string[]): Answer {

@@ -6,6 +6,7 @@ import { pathsOf } from "../../../changes/modules/change-answer/change-answer.mo
 import type { Stated } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
 import {
+  appendEdits,
   editsIn,
   keptEdits,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
@@ -229,4 +230,73 @@ export const BAD_DROPS: readonly (readonly [readonly string[], Piping | undefine
   [["drop", NAMER_CODE], undefined],
   [["drop"], piping(`${NAMER_CODE}\n`)],
   [["drop"], () => ({ unreadable: "went quiet", part: true as const })],
+]
+
+export type Drop = {
+  readonly name: string
+  readonly removes: readonly string[]
+  readonly sets?: (root: string) => void
+  readonly said?: Piping
+  readonly code?: number
+  readonly refusals?: readonly string[]
+  readonly report?: readonly string[]
+  readonly holds?: string
+  readonly first?: string
+  readonly kept?: readonly string[]
+}
+
+export const DROPS: readonly Drop[] = [
+  {
+    name: "a drop takes away every edit kept and names each edit that went",
+    removes: [NAMER_PAGE],
+    code: 0,
+    refusals: [],
+    report: DROPPED_BOTH,
+    kept: [],
+  },
+  {
+    name: "a drop over no edit kept says so rather than refusing",
+    removes: [],
+    code: 0,
+    refusals: [],
+    report: ["no edits are kept beside this agent's page, so nothing went"],
+  },
+  {
+    name: "a drop naming one path takes that path's edit and leaves the rest",
+    removes: [NAMER_PAGE],
+    said: piping(taking(NAMER_CODE)),
+    refusals: [],
+    report: DROPPED_ONE,
+    kept: [NAMER_PAGE],
+  },
+  {
+    name: "a drop naming several paths takes away every edit those paths name",
+    removes: [NAMER_PAGE, SPARE_PAGE],
+    said: piping(taking(NAMER_CODE) + taking(NAMER_PAGE)),
+    holds: "2 edit(s) are still kept beside this agent's page",
+    kept: [SPARE_CODE, SPARE_PAGE],
+  },
+  {
+    name: "a path naming no edit kept refuses the drop and leaves every edit kept",
+    removes: [NAMER_PAGE],
+    said: piping(taking(MISSING)),
+    code: 1,
+    refusals: [`\`${MISSING}\` names no edit kept beside this agent's page, so nothing went`],
+    kept: BOTH,
+  },
+  {
+    name: "an input that will not open is nothing piped in",
+    removes: [NAMER_PAGE],
+    said: () => ({ unreadable: "ENXIO" }),
+    kept: [],
+  },
+  {
+    name: "an edit a move left behind is taken away by the path that move came from",
+    removes: [],
+    sets: (root) => appendEdits(root, PAGE, [MOVED]),
+    said: piping(taking(MOVED_FROM)),
+    refusals: [],
+    first: `moves ${MOVED_FROM} to ${MOVED_TO}`,
+    kept: [],
+  },
 ]
