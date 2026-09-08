@@ -81,6 +81,7 @@ export const codeCheck = {
     "code-check/typecheck",
     "code-check/types-file-runs-nothing",
     "code-check/hand-written-global-is-no-method",
+    "code-check/repository-is-written-by-a-change",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/checking",
