@@ -232,6 +232,7 @@ export const clusterCheck = {
     "module/workspace-import-graph",
     "module/workspace-packages",
     "module/workspace-ts-files",
+    "module/workspaces-mainseam",
   ],
   properties: [
     {
