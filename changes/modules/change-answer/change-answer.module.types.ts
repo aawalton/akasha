@@ -29,6 +29,12 @@ export type Moving = Reading & {
 
 export type Stated = Adding | Replacing | Removing | Moving
 
+export type Splice = {
+  readonly from: number
+  readonly to: number
+  readonly put: string
+}
+
 export type NotText = { readonly notText: true }
 
 export type Held = string | NotText
