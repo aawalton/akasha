@@ -93,6 +93,7 @@ export const page = {
     "module/test-run-marking",
     "workspace-package/page-commands",
     "page-type/named-folder-property",
+    "page-type/build-folder-property",
   ],
   invariants: [
     {
