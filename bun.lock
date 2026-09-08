@@ -2899,9 +2899,6 @@
         "react-dom": "^19",
       },
     },
-    "utils-run": {
-      "name": "@akasha/utils-run",
-    },
     "utils-sync": {
       "name": "@akasha/utils-sync",
       "dependencies": {
@@ -2934,6 +2931,9 @@
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
       },
+    },
+    "utils/run": {
+      "name": "@akasha/utils-run",
     },
     "verdict": {
       "name": "@akasha/verdict",
@@ -3527,7 +3527,7 @@
 
     "@akasha/utils-process": ["@akasha/utils-process@workspace:utils/process"],
 
-    "@akasha/utils-run": ["@akasha/utils-run@workspace:utils-run"],
+    "@akasha/utils-run": ["@akasha/utils-run@workspace:utils/run"],
 
     "@akasha/utils-sync": ["@akasha/utils-sync@workspace:utils-sync"],
 

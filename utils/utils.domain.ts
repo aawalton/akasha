@@ -9,5 +9,6 @@ export const utils = {
     "workspace-package/utils-fs",
     "workspace-package/utils-narrow",
     "workspace-package/utils-process",
+    "workspace-package/utils-run",
   ],
 } as const satisfies Domain
