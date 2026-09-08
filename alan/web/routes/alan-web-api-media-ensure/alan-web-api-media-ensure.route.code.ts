@@ -1,12 +1,10 @@
+import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import {
   ensureReadAloudRendition,
   resolveChapterKokoroSegments,
-} from "../kokoro-render/kokoro-render.module.code.ts"
-import { resolveMediaPage } from "../media-page/media-page.module.code.ts"
-import type { Route } from "./+types/api.media.$pageId.$medium.ensure"
-
-const UUID_PATTERN = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
+} from "../../kokoro-render/kokoro-render.module.code.ts"
+import { resolveMediaPage } from "../../media-page/media-page.module.code.ts"
 
 const CAPACITOR_ORIGIN = "capacitor://localhost"
 
@@ -22,13 +20,19 @@ function corsHeaders(request: Request): Record<string, string> {
     : {}
 }
 
-export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({ request }: { request: Request }): Promise<Response> {
   const cors = corsHeaders(request)
   if (request.method === "OPTIONS") return new Response(null, { status: 204, headers: cors })
   return new Response("Method Not Allowed", { status: 405, headers: cors })
 }
 
-export async function action({ params, request }: Route.ActionArgs): Promise<Response> {
+export async function action({
+  params,
+  request,
+}: {
+  params: { pageId: string; medium: string }
+  request: Request
+}): Promise<Response> {
   const cors = corsHeaders(request)
   const { user, headers } = await resolveRequestUser(request)
   const respond = (body: unknown, status: number): Response => {
@@ -41,7 +45,7 @@ export async function action({ params, request }: Route.ActionArgs): Promise<Res
   if (!user) return respond({ error: "Unauthorized" }, 401)
 
   const { pageId, medium } = params
-  if (!UUID_PATTERN.test(pageId)) return respond({ error: "Not Found" }, 404)
+  if (!lowerUuid(pageId.toLowerCase())) return respond({ error: "Not Found" }, 404)
   if (medium !== "audio") return respond({ error: "Not Found" }, 404)
   const found = await resolveMediaPage(pageId, ["id"])
   if (found === null) return respond({ error: "Not Found" }, 404)
@@ -49,6 +53,6 @@ export async function action({ params, request }: Route.ActionArgs): Promise<Res
   const segments = await resolveChapterKokoroSegments(pageId, found.pageTypeSlug)
   if (segments == null) return respond({ error: "Not Found" }, 404)
 
-  const status = await ensureReadAloudRendition(pageId, segments)
-  return respond({ status }, status === "generating" ? 202 : 200)
+  const made = await ensureReadAloudRendition(pageId, segments)
+  return respond({ status: made }, made === "generating" ? 202 : 200)
 }
