@@ -1,9 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-
-  refusing,
-  stating,
-} from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, stating } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
   NOTHING_OVER,
@@ -23,8 +19,8 @@ const NOW_PAGE = "akasha/one/held-one.held-other.ts"
 
 const WROTE: Answer = stating([{ kind: "add", path: AT, content: "held\n" }])
 
-function { kind: "move", pathFrom: was: string, pathTo: now: string }: Answer {
-  return stating([{ path: now, was: "held\n", body: "held\n", from: was }])
+function moving(was: string, now: string): Answer {
+  return stating([{ kind: "move", pathFrom: was, pathTo: now }])
 }
 
 test("a path a move carries a body to is loaded from the path that body came from", () => {
