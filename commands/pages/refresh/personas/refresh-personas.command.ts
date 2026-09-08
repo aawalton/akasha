@@ -6,30 +6,17 @@ export const refreshPersonas = {
   slug: "refresh-personas",
   definition: "the command working out again what each persona earned before today",
   code: "ts",
-  test: "ts",
   changeKindSlug: "change-mechanical",
   helpNotes: [
     "the days from 2026-09-08 up to today are added up afresh and kept as each persona's points before today.",
     "a hundred messages Alan wrote is one point.",
     "today's own count is left alone, so the figures agree when the run ends.",
-    "run this when a day has turned, or when a total looks wrong.",
+    "a timer runs this once each day has opened, so run it by hand only when a total looks wrong.",
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The points before today are the messages over the counted days short of today.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Today itself is left out of the points before today.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Each persona's figure is kept beside her own page.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A name no persona is filed under is said rather than kept against nobody.",
+      statement: "The rebuilding this asks for is the rebuilding the timer asks for.",
     },
     {
       invariantKind: "departure",
