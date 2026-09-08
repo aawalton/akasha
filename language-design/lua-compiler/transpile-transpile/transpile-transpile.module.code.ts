@@ -115,7 +115,7 @@ export function getProgramTranspileResult(
   const processSourceFile = (sourceFile: ts.SourceFile) => {
     if (!isReachable(sourceFile)) return
 
-    if (options.tstlVerbose === true) {
+    if (options.verbose === true) {
       console.log(`Transforming ${sourceFile.fileName}`)
     }
 
