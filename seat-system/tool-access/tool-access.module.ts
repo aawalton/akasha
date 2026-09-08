@@ -6,5 +6,4 @@ export const toolAccess = {
   slug: "tool-access",
   definition: "which tools an agent may reach, read off the tool-access settings page",
   code: "ts",
-  test: "ts",
 } as const satisfies Module

@@ -9,7 +9,7 @@ export const toolAccess = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "No agent reaches `Write` or `Edit`.",
+      statement: "A tool whose only act is writing a file is reached by no agent.",
     },
   ],
 } as const satisfies AgentSettings
