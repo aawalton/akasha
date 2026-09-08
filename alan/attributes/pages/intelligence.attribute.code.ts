@@ -1,0 +1,10 @@
+import { statedAt } from "@akasha/readout-system/readout-tier"
+
+const INTELLIGENCE_TOPICS = "intelligence-topics"
+
+export const TOPICS_TO_THE_POINT = 4
+
+export function intelligenceIn(values: Readonly<Record<string, unknown>>): number | null {
+  const updated = statedAt(values[INTELLIGENCE_TOPICS])
+  return updated === null ? null : updated / TOPICS_TO_THE_POINT
+}

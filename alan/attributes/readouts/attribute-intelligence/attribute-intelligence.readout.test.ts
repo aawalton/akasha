@@ -1,33 +1,24 @@
 import { expect, test } from "bun:test"
-import { intelligenceIn, TOPICS_TO_THE_POINT } from "./attribute-intelligence.readout.code.ts"
+import { mkdtempSync } from "node:fs"
+import { join } from "node:path"
+import { keepPointsToday } from "../../points/attribute-points.module.code.ts"
+import { intelligenceShown } from "./attribute-intelligence.readout.code.ts"
+import { attributeIntelligence } from "./attribute-intelligence.readout.ts"
 
-const held = (figure: unknown) => ({ "intelligence-topics": figure })
+const HOLD = "/var/tmp"
 
-test("the reading is the figure over the amount one point costs", () => {
-  expect(TOPICS_TO_THE_POINT).toBe(4)
-  expect(intelligenceIn(held(4))).toBeCloseTo(1, 10)
-  expect(intelligenceIn(held(8))).toBeCloseTo(2, 10)
+const rootMade = () => mkdtempSync(join(HOLD, "attribute-intelligence-"))
+
+test("this readout names the attribute whose points it shows", () => {
+  expect(attributeIntelligence.attributeSlug).toBe("intelligence")
 })
 
-test("the rungs Alan set fall where his topic counts fall", () => {
-  expect(intelligenceIn(held(1))).toBeCloseTo(0.25, 10)
-  expect(intelligenceIn(held(2))).toBeCloseTo(0.5, 10)
+test("the reading is the points that attribute earned today", () => {
+  const root = rootMade()
+  keepPointsToday(root, attributeIntelligence.attributeSlug, 1.25)
+  expect(intelligenceShown(root)).toBe(1.25)
 })
 
-test("a figure given as text is read as the number that text spells", () => {
-  expect(intelligenceIn(held(String(4)))).toBeCloseTo(1, 10)
-})
-
-test("a reading of zero is a reading rather than an absent one", () => {
-  expect(intelligenceIn(held(0))).toBe(0)
-  expect(intelligenceIn(held("0"))).toBe(0)
-})
-
-test("a day carrying no figure is no reading rather than an intelligence of zero", () => {
-  expect(intelligenceIn({})).toBeNull()
-  expect(intelligenceIn(held(null))).toBeNull()
-  expect(intelligenceIn(held(undefined))).toBeNull()
-  expect(intelligenceIn(held(""))).toBeNull()
-  expect(intelligenceIn(held("   "))).toBeNull()
-  expect(intelligenceIn(held("soon"))).toBeNull()
+test("an attribute carrying no points today is no reading rather than a zero", () => {
+  expect(intelligenceShown(rootMade())).toBeNull()
 })
