@@ -1,6 +1,7 @@
 import { realpathSync } from "node:fs"
-import { readFile, writeFile } from "node:fs/promises"
+import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
@@ -21,6 +22,10 @@ const CODE_ROOT_FLAG = "--code-root"
 const SOURCE_REL = "temper/addons/types/eso/generated/enums.d.ts"
 
 const OUT_REL = "temper/player-quests-addon/src/generated/chatter-names.generated.ts"
+
+const PUT = "change-mechanical/add-file-code"
+
+const MESSAGE = "the chatter and interaction name registry, read out of the emitted declarations"
 
 export async function temperEsoGenerateChatterNames(argv: readonly string[] = []): Promise<Answer> {
   const named = saidFor(argv, CODE_ROOT_FLAG)
@@ -59,19 +64,29 @@ export async function temperEsoGenerateChatterNames(argv: readonly string[] = []
   }
 
   const outPath = resolve(root, OUT_REL)
+  let held: string | null = null
   try {
-    await writeFile(outPath, registry.text)
-  } catch (thrown) {
-    return refused(`the registry was not written into ${outPath} — ${saidShort(thrown)}`, FAILED)
+    held = await readFile(outPath, "utf8")
+  } catch {}
+
+  const many =
+    `${String(registry.chatter.length)} CHATTER_ and ` +
+    `${String(registry.interaction.length)} INTERACTION_ name(s)`
+  if (held === registry.text) {
+    return answering([`${outPath} already holds ${many}`, `read from ${sourcePath}`], [], 0)
   }
 
-  return answering(
-    [
-      `wrote ${String(registry.chatter.length)} CHATTER_ and ${String(registry.interaction.length)} ` +
-        `INTERACTION_ name(s) into ${outPath}`,
-      `read from ${sourcePath}`,
-    ],
-    [],
-    0
+  const landed = await runMechanicalChange(
+    root,
+    [{ at: PUT, given: { at: OUT_REL, body: registry.text } }],
+    MESSAGE
   )
+  if ("refusals" in landed) {
+    return refused(
+      `the registry was not landed into ${outPath} — ${landed.refusals.join("; ")}`,
+      FAILED
+    )
+  }
+
+  return answering([`wrote ${many} into ${outPath}`, `read from ${sourcePath}`], [], 0)
 }

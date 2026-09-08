@@ -19,6 +19,7 @@ export const temperEsoGenerateChatterNames = {
     "the source is the enum declaration file `temper-eso-generate-typings` writes, so the registry covers what those declarations opted into; widening the registry means regenerating the declarations.",
     "reading the declarations rather than the clone is what lets this answer on a workstation carrying no clone.",
     "a registry naming no constant of either kind refuses the call, because an empty registry reads to the trace as a clean answer.",
+    "the registry lands as its own commit through the mechanical change that writes a code file, so the run leaves no unlanded body behind.",
     "the trace resolves a code to a name by reading each global on its own rather than by walking the globals table, which would taint the game's call stack.",
   ],
   invariants: [
@@ -33,6 +34,14 @@ export const temperEsoGenerateChatterNames = {
     {
       invariantKind: "departure",
       statement: "The written file names the command that wrote the file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The registry lands as a mechanical change rather than written by this command.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A registry the checkout already holds lands nothing and says so.",
     },
     {
       invariantKind: "departure",
