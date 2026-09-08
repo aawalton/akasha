@@ -1,6 +1,3 @@
-// Every workstation service that keeps running ticks and then waits, and each one wrote this
-// wait for itself: ten copies of one shape, which is ten places for a stop to stop being honoured.
-
 export function sleptUntilStopped(ms: number, signal: AbortSignal): Promise<boolean> {
   if (signal.aborted) return Promise.resolve(false)
   return new Promise<boolean>((resolve) => {
