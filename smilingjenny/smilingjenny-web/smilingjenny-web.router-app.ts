@@ -6,6 +6,7 @@ export const smilingjennyWeb = {
   slug: "smilingjenny-web",
   definition: "the routes Jenny's site serves to a browser",
   manifest: "json",
+  tunnelRoutes: "ts",
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",
