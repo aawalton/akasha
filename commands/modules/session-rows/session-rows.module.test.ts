@@ -114,7 +114,11 @@ test("the aliases a relationship page carries are read off it too", () => {
 })
 
 test("a page carrying no aliases is read as carrying none", () => {
-  expect(aliasesIn('  title: "Ryan Seamons",\n')).toEqual([])
+  expect(aliasesIn({ title: "Ryan Seamons" })).toEqual([])
+})
+
+test("the aliases a page carries are read off the value that page carries", () => {
+  expect(aliasesIn({ relationshipAliases: ["Jen", "Jenny"] })).toEqual(["Jen", "Jenny"])
 })
 
 test("a term is read without its case, its marks or its accents", () => {

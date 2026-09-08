@@ -3,8 +3,9 @@ import { join } from "node:path"
 import { mountainWallAt, readMountainWallTime } from "@akasha/day/mountain-wall"
 import { padTwo } from "@akasha/digit-padding"
 import { uuidVersion7 } from "@akasha/id-minting/uuid-version-7"
-import { everyOfType } from "@akasha/indexes"
+import { valuesByPath } from "@akasha/indexes"
 import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
+import { numberAt, textIn, textsAt, type Value } from "@akasha/pages/page-value-reading"
 import {
   type ActivityDifficulty,
   difficultyForTitle,
@@ -131,12 +132,11 @@ export function linesOf(rows: readonly Row[]): string {
 
 export function activitiesIn(root: string): readonly ActivityDifficulty[] {
   const held: ActivityDifficulty[] = []
-  for (const one of everyOfType(root, ACTIVITY_TYPE)) {
-    const said = readFileSync(join(root, one.path), "utf8")
-    const title = /title:\s*"([^"]+)"/.exec(said)
-    const level = /defaultDifficulty:\s*(-?[\d.]+)/.exec(said)
-    if (title?.[1] === undefined || level?.[1] === undefined) continue
-    held.push({ title: title[1], defaultDifficulty: Number(level[1]) })
+  for (const value of valuesByPath(root, ACTIVITY_TYPE).values()) {
+    const title = textIn(value, "title")
+    const level = numberAt(value, "defaultDifficulty")
+    if (title === null || level === null) continue
+    held.push({ title, defaultDifficulty: level })
   }
   return held
 }
@@ -163,20 +163,17 @@ export function tokensIn(occurrences: readonly string[]): readonly string[] {
   return held
 }
 
-export function aliasesIn(said: string): readonly string[] {
-  const found = /^\s*relationshipAliases:\s*\[([^\]]*)\]/m.exec(said)
-  if (found?.[1] === undefined) return []
-  return [...found[1].matchAll(/"([^"]*)"/g)].map((one) => one[1] ?? "")
+export function aliasesIn(value: Value): readonly string[] {
+  return textsAt(value, "relationshipAliases") ?? []
 }
 
 export function relationshipsIn(root: string): readonly RelationshipPage[] {
   const held: RelationshipPage[] = []
-  for (const one of everyOfType(root, RELATIONSHIP_TYPE)) {
-    const said = readFileSync(join(root, one.path), "utf8")
-    const id = /^\s*id:\s*"([0-9a-f-]{36})"/m.exec(said)
-    const title = /^\s*title:\s*"([^"]+)"/m.exec(said)
-    if (id?.[1] === undefined || title?.[1] === undefined) continue
-    held.push({ id: id[1], title: title[1], aliases: aliasesIn(said) })
+  for (const value of valuesByPath(root, RELATIONSHIP_TYPE).values()) {
+    const id = textIn(value, "id")
+    const title = textIn(value, "title")
+    if (id === null || title === null) continue
+    held.push({ id, title, aliases: aliasesIn(value) })
   }
   return held
 }

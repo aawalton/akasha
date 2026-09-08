@@ -59,6 +59,11 @@ export const sessionRows = {
       statement: "A relationship a caller names is kept beside a relationship a title tagged.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A relationship and an activity are read from the index rather than from the text of their pages.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a file.",
     },
