@@ -22,7 +22,7 @@ export const akasha = {
     "workspace-package/domain",
     "workspace-package/graph",
     "domain/type",
-    "page-type/change",
+    "workspace-package/change",
     "domain/akasha-check",
     "domain/instrument",
     "workspace-package/checks",

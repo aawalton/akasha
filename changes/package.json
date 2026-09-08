@@ -1,0 +1,26 @@
+{
+  "name": "@akasha/changes",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./change-agent/remove-page": "./agent/file/remove-page/remove-page.change-agent.code.ts",
+    "./change-answer": "./modules/change-answer/change-answer.module.code.ts",
+    "./change-answer/types": "./modules/change-answer/change-answer.module.types.ts",
+    "./change-loading": "./runners/change-loading/change-loading.module.code.ts",
+    "./change-shadow": "./modules/change-shadow/change-shadow.module.code.ts",
+    "./edits-keeping": "./modules/edits-keeping/edits-keeping.module.code.ts",
+    "./mechanical-change-running": "./runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts",
+    "./subagent-handed": "./modules/subagent-handed/subagent-handed.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/checks": "workspace:*",
+    "@akasha/code": "workspace:*",
+    "@akasha/command-system": "workspace:*",
+    "@akasha/file-system": "workspace:*",
+    "@akasha/git": "workspace:*",
+    "@akasha/id-minting": "workspace:*",
+    "@akasha/indexes": "workspace:*",
+    "@akasha/pages": "workspace:*",
+    "@akasha/testing-system": "workspace:*"
+  }
+}

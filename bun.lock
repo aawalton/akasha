@@ -461,6 +461,20 @@
         "zod": "^4.3.6",
       },
     },
+    "changes": {
+      "name": "@akasha/changes",
+      "dependencies": {
+        "@akasha/checks": "workspace:*",
+        "@akasha/code": "workspace:*",
+        "@akasha/command-system": "workspace:*",
+        "@akasha/file-system": "workspace:*",
+        "@akasha/git": "workspace:*",
+        "@akasha/id-minting": "workspace:*",
+        "@akasha/indexes": "workspace:*",
+        "@akasha/pages": "workspace:*",
+        "@akasha/testing-system": "workspace:*",
+      },
+    },
     "checks": {
       "name": "@akasha/checks",
       "dependencies": {
@@ -3001,6 +3015,8 @@
     "@akasha/browser-test-harness": ["@akasha/browser-test-harness@workspace:browser/test-harness"],
 
     "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:calendar-sync"],
+
+    "@akasha/changes": ["@akasha/changes@workspace:changes"],
 
     "@akasha/checkout-version": ["@akasha/checkout-version@workspace:version/checkout"],
 
