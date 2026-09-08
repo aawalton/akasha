@@ -68,24 +68,20 @@ export type Chosen =
 
 export interface Chose {
   readonly chosen: Chosen | null
+  readonly phase: string
   readonly refusals: readonly string[]
 }
 
 export interface CheckCost {
   readonly check: string
-  readonly patchRuns: number
-  readonly patchCpu: number | null
-  readonly patchMem: number | null
-  readonly auditRuns: number
-  readonly auditCpu: number | null
-  readonly auditMem: number | null
+  readonly runs: number
+  readonly cpu: number | null
+  readonly mem: number | null
 }
 
 export interface Total {
-  readonly patchRuns: number
-  readonly patchCpu: number | null
-  readonly auditRuns: number
-  readonly auditCpu: number | null
+  readonly runs: number
+  readonly cpu: number | null
 }
 
 export interface Costs {
@@ -127,7 +123,7 @@ function spanOf(unit: string): number | null {
 }
 
 function refusing(why: string): Chose {
-  return { chosen: null, refusals: [`${why}: ${FORMS}`] }
+  return { chosen: null, phase: PATCH, refusals: [`${why}: ${FORMS}`] }
 }
 
 function periodIn(said: string): Chose {
@@ -138,11 +134,11 @@ function periodIn(said: string): Chose {
   }
   const ms = Number(found[1] ?? "0") * span
   if (ms === 0) return refusing(`\`${LAST} ${said}\` names a period of no length`)
-  return { chosen: { by: "period", ms, said }, refusals: [] }
+  return { chosen: { by: "period", ms, said }, phase: PATCH, refusals: [] }
 }
 
-export function chosenIn(argv: readonly string[]): Chose {
-  if (argv.length === 0) return { chosen: ONE_RUN, refusals: [] }
+function windowIn(argv: readonly string[]): Chose {
+  if (argv.length === 0) return { chosen: ONE_RUN, phase: PATCH, refusals: [] }
   const first = argv[0] ?? ""
   if (first !== LAST) return refusing(`\`${first}\` is no argument this command takes`)
   if (argv.length === 1) return refusing(`\`${LAST}\` was handed nothing to read`)
@@ -152,7 +148,22 @@ export function chosenIn(argv: readonly string[]): Chose {
   if (!COUNTED.test(said)) return periodIn(said)
   const runs = Number(said)
   if (runs === 0) return refusing(`\`${LAST} ${said}\` names no run`)
-  return { chosen: { by: "runs", runs }, refusals: [] }
+  return { chosen: { by: "runs", runs }, phase: PATCH, refusals: [] }
+}
+
+export function chosenIn(argv: readonly string[]): Chose {
+  const words: string[] = []
+  let phase = PATCH
+  for (const said of argv) {
+    if (said !== AUDIT_FLAG) {
+      words.push(said)
+      continue
+    }
+    if (phase === AUDIT) return refusing(`\`${AUDIT_FLAG}\` is said twice`)
+    phase = AUDIT
+  }
+  const chose = windowIn(words)
+  return { chosen: chose.chosen, phase, refusals: chose.refusals }
 }
 
 export function withinOf(runs: readonly Run[], now: number, ms: number): readonly Run[] {
@@ -183,40 +194,25 @@ function memoryOf(some: readonly Run[]): readonly number[] {
 }
 
 export function costOf(check: string, runs: readonly Run[]): CheckCost {
-  const patch = runs.filter((one) => one.phase === PATCH)
-  const audit = runs.filter((one) => one.phase === AUDIT)
   return {
     check,
-    patchRuns: patch.length,
-    patchCpu: meanOf(patch.map((one) => one.cpu)),
-    patchMem: meanOf(memoryOf(patch)),
-    auditRuns: audit.length,
-    auditCpu: meanOf(audit.map((one) => one.cpu)),
-    auditMem: meanOf(memoryOf(audit)),
+    runs: runs.length,
+    cpu: meanOf(runs.map((one) => one.cpu)),
+    mem: meanOf(memoryOf(runs)),
   }
-}
-
-function perRunOf(runs: readonly Run[], phase: string): number | null {
-  const some = runs.filter((one) => one.phase === phase)
-  const count = latestOf(some).size
-  if (count === 0) return null
-  return some.reduce((total, one) => total + one.cpu, 0) / count
 }
 
 export function totalOf(runs: readonly Run[]): Total {
-  return {
-    patchRuns: latestOf(runs.filter((one) => one.phase === PATCH)).size,
-    patchCpu: perRunOf(runs, PATCH),
-    auditRuns: latestOf(runs.filter((one) => one.phase === AUDIT)).size,
-    auditCpu: perRunOf(runs, AUDIT),
-  }
+  const count = latestOf(runs).size
+  if (count === 0) return { runs: 0, cpu: null }
+  return { runs: count, cpu: runs.reduce((total, one) => total + one.cpu, 0) / count }
 }
 
-export function byPatchCpu(a: CheckCost, b: CheckCost): number {
-  if (a.patchCpu === null && b.patchCpu === null) return a.check.localeCompare(b.check)
-  if (a.patchCpu === null) return 1
-  if (b.patchCpu === null) return -1
-  return b.patchCpu - a.patchCpu || a.check.localeCompare(b.check)
+export function byCpu(a: CheckCost, b: CheckCost): number {
+  if (a.cpu === null && b.cpu === null) return a.check.localeCompare(b.check)
+  if (a.cpu === null) return 1
+  if (b.cpu === null) return -1
+  return b.cpu - a.cpu || a.check.localeCompare(b.check)
 }
 
 function namedIn(root: string, folder: string): string | undefined {
@@ -249,7 +245,7 @@ export function heldIn(root: string): Reading {
   return { held, unread }
 }
 
-export function costsIn(root: string, now: number, chosen: Chosen): Costs {
+export function costsIn(root: string, now: number, chosen: Chosen, phase = PATCH): Costs {
   const reading = heldIn(root)
   const every = reading.held.flatMap((one) => one.runs)
   const ids = rankedOf(latestOf(every), chosen.by === "runs" ? chosen.runs : 0)
@@ -257,20 +253,21 @@ export function costsIn(root: string, now: number, chosen: Chosen): Costs {
   const picked: Run[] = []
   const other = new Map<string, number>()
   for (const one of reading.held) {
-    const runs =
+    const within =
       chosen.by === "period" ? withinOf(one.runs, now, chosen.ms) : runningOf(one.runs, ids)
-    for (const run of runs) {
-      picked.push(run)
+    for (const run of within) {
       if (run.phase === PATCH || run.phase === AUDIT) continue
       other.set(run.phase, (other.get(run.phase) ?? 0) + 1)
     }
+    const runs = within.filter((run) => run.phase === phase)
+    for (const run of runs) picked.push(run)
     if (runs.length > 0) checks.push(costOf(one.check, runs))
   }
   return {
-    checks: [...checks].sort(byPatchCpu),
+    checks: [...checks].sort(byCpu),
     total: totalOf(picked),
     unread: reading.unread,
-    other: [...other].map(([phase, count]) => `${phase}: ${count}`),
+    other: [...other].map(([named, count]) => `${named}: ${count}`),
   }
 }
 
@@ -289,25 +286,14 @@ export function secondsAs(count: number): string {
 function rowOf(one: CheckCost): readonly string[] {
   return [
     one.check,
-    String(one.patchRuns),
-    one.patchCpu === null ? ABSENT : secondsAs(one.patchCpu),
-    one.patchMem === null ? ABSENT : bytesAs(one.patchMem),
-    String(one.auditRuns),
-    one.auditCpu === null ? ABSENT : secondsAs(one.auditCpu),
-    one.auditMem === null ? ABSENT : bytesAs(one.auditMem),
+    String(one.runs),
+    one.cpu === null ? ABSENT : secondsAs(one.cpu),
+    one.mem === null ? ABSENT : bytesAs(one.mem),
   ]
 }
 
 function totalRowOf(total: Total): readonly string[] {
-  return [
-    TOTAL,
-    String(total.patchRuns),
-    total.patchCpu === null ? ABSENT : secondsAs(total.patchCpu),
-    ABSENT,
-    String(total.auditRuns),
-    total.auditCpu === null ? ABSENT : secondsAs(total.auditCpu),
-    ABSENT,
-  ]
+  return [TOTAL, String(total.runs), total.cpu === null ? ABSENT : secondsAs(total.cpu), ABSENT]
 }
 
 export function linesOf(costs: Costs): readonly string[] {

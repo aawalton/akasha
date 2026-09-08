@@ -1,6 +1,5 @@
 import { put } from "@akasha/testing-system/putting"
 import type { CheckCost, Chosen, Costs } from "./check-measuring.module.code.ts"
-import { totalOf } from "./check-measuring.module.code.ts"
 
 export const NOW = Date.parse("2026-09-05T12:00:00.000Z")
 
@@ -52,7 +51,7 @@ export function rowsInto(
 }
 
 export function costsOf(checks: readonly CheckCost[]): Costs {
-  return { checks, total: totalOf([]), unread: [], other: [] }
+  return { checks, total: { runs: 0, cpu: null }, unread: [], other: [] }
 }
 
 export function spacedOnce(said: string | undefined): string {
