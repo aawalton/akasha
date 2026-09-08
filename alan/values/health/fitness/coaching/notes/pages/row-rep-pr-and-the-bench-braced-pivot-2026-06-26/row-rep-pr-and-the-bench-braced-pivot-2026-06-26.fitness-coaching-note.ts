@@ -1,8 +1,8 @@
-import type { CoachingNote } from "../../coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
 
 export const rowRepPrAndTheBenchBracedPivot20260626 = {
   id: "01a08174-d64e-7bec-bcb3-d6aa7dd2da51",
-  pageTypeSlug: "coaching-note",
+  pageTypeSlug: "fitness-coaching-note",
   slug: "row-rep-pr-and-the-bench-braced-pivot-2026-06-26",
   title: "Row rep-PR and the bench-braced pivot",
   coachingNoteActive: true,
@@ -10,4 +10,4 @@ export const rowRepPrAndTheBenchBracedPivot20260626 = {
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-26",
   asks: "txt",
-} as const satisfies CoachingNote
+} as const satisfies FitnessCoachingNote
