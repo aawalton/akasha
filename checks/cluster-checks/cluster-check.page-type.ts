@@ -197,6 +197,7 @@ export const clusterCheck = {
     "module/rule-population",
     "module/rule-population-audit",
     "module/shellcheck-violations",
+    "module/sops-manifest",
   ],
   properties: [
     {
