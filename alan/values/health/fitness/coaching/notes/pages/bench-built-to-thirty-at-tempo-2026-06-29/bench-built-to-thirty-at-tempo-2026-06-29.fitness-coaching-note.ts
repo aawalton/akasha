@@ -9,5 +9,5 @@ export const benchBuiltToThirtyAtTempo20260629 = {
   focusTags: ["push"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-29",
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

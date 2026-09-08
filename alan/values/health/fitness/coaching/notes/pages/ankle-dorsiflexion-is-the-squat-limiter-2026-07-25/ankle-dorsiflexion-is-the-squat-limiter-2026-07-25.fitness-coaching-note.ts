@@ -9,5 +9,5 @@ export const ankleDorsiflexionIsTheSquatLimiter20260725 = {
   focusTags: ["legs"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-07-25",
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

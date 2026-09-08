@@ -9,5 +9,5 @@ export const overheadMobility50NoForcedLockout = {
   focusTags: ["push"],
   coachingNoteKind: "programming-cue",
   coachingNoteSortOrder: 1,
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

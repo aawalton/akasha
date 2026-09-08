@@ -9,5 +9,5 @@ export const coachingNote30LbDbCeilingActivelyOutRepping = {
   focusTags: ["push", "pull"],
   coachingNoteKind: "equipment-ceiling",
   coachingNoteSortOrder: 3,
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

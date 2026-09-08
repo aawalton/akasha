@@ -9,5 +9,5 @@ export const bilateralHingesAreLowBackLimited = {
   focusTags: ["legs"],
   coachingNoteKind: "programming-cue",
   coachingNoteSortOrder: 9,
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

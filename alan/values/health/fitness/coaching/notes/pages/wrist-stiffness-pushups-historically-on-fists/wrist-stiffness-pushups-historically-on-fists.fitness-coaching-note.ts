@@ -8,5 +8,5 @@ export const wristStiffnessPushupsHistoricallyOnFists = {
   coachingNoteActive: true,
   focusTags: ["push", "all"],
   coachingNoteKind: "programming-cue",
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

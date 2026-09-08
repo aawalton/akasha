@@ -9,5 +9,5 @@ export const preDecideTheWorkoutOneSetAtATime = {
   focusTags: ["all"],
   coachingNoteKind: "ef-accommodation",
   coachingNoteSortOrder: 10,
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

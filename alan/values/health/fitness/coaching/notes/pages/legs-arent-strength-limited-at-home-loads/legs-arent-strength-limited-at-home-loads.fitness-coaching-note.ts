@@ -9,5 +9,5 @@ export const legsArentStrengthLimitedAtHomeLoads = {
   focusTags: ["legs"],
   coachingNoteKind: "programming-cue",
   coachingNoteSortOrder: 8,
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

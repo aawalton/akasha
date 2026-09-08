@@ -9,5 +9,5 @@ export const legsSwappedFromSaturdayWithAToeTouchPr20260628 = {
   focusTags: ["legs"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-28",
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

@@ -9,5 +9,5 @@ export const rightElbowWatchCurls = {
   focusTags: ["pull"],
   coachingNoteKind: "injury-watch",
   coachingNoteSortOrder: 6,
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

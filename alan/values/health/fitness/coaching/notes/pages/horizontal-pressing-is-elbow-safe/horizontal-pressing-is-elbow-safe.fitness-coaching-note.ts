@@ -9,5 +9,5 @@ export const horizontalPressingIsElbowSafe = {
   focusTags: ["push"],
   coachingNoteKind: "programming-cue",
   coachingNoteSortOrder: 2,
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

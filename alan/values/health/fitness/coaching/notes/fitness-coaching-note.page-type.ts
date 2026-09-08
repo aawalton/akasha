@@ -15,7 +15,7 @@ export type FitnessCoachingNote = Page & {
   coachingNoteKind: FitnessCoachingNoteKind
   coachingNoteDate?: FitnessCoachingNoteDate
   coachingNoteSortOrder?: FitnessCoachingNoteSortOrder
-  asks?: Says
+  says?: Says
 }
 
 export const fitnessCoachingNote = {

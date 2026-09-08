@@ -9,5 +9,5 @@ export const rowRepPrAndTheBenchBracedPivot20260626 = {
   focusTags: ["pull"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-26",
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

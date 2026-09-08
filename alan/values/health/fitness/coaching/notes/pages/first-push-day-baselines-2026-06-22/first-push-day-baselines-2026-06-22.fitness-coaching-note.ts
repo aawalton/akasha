@@ -9,5 +9,5 @@ export const firstPushDayBaselines20260622 = {
   focusTags: ["push"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-22",
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

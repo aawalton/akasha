@@ -9,5 +9,5 @@ export const airQualityIsAHardMedicalGate = {
   focusTags: ["all"],
   coachingNoteKind: "medical-gate",
   coachingNoteSortOrder: 5,
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

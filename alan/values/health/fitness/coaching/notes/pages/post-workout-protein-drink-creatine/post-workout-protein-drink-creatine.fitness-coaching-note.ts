@@ -9,5 +9,5 @@ export const postWorkoutProteinDrinkCreatine = {
   focusTags: ["all"],
   coachingNoteKind: "programming-cue",
   coachingNoteSortOrder: 11,
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

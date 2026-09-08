@@ -9,5 +9,5 @@ export const countAlternatingUnilateralWorkByTotal = {
   focusTags: ["all"],
   coachingNoteKind: "ef-accommodation",
   coachingNoteSortOrder: 4,
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote

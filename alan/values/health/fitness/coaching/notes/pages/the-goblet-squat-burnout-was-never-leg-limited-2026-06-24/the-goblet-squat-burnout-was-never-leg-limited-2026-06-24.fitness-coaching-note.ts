@@ -9,5 +9,5 @@ export const theGobletSquatBurnoutWasNeverLegLimited20260624 = {
   focusTags: ["legs"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-24",
-  asks: "txt",
+  says: "txt",
 } as const satisfies FitnessCoachingNote
