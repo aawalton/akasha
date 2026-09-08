@@ -1,0 +1,28 @@
+import type { Day } from "../../day.page-type.ts"
+
+export const day20260718 = {
+  id: "019f74ab-2433-7f9f-a4de-0ae7432d92b9",
+  pageTypeSlug: "day",
+  slug: "day-2026-07-18",
+  title: "@date:2026-07-18",
+  date: "2026-07-18",
+  version: "3.0",
+  healthPoints: 0,
+  taskPoints: 200,
+  wealthPoints: 0,
+  faithPoints: 0,
+  sleepPoints: 0,
+  funPoints: 0.7792,
+  learnPoints: 0,
+  spannedFromDayBoundary: true,
+  completionSnapshot: 441546,
+  wordsReadPoints: 38962,
+  wordsReadSnapshot: 35202673,
+  inboxTasks: 0,
+  inboxTasksClearedToday: true,
+  inboxTemperTasks: 0,
+  inboxTemperTasksClearedToday: true,
+  inboxTexts: 0,
+  inboxTextsClearedToday: true,
+  completedTasks: "jsonl",
+} as const satisfies Day

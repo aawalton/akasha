@@ -12,7 +12,7 @@ export const thursdayPush20260625Bc9bc790SideLateralRaiseSet1 = {
   rpe: 8,
   sessionSlug: "thursday-push-2026-06-25-bc9bc790",
   setLogDate: "2026-06-25",
-  wakeDaySlug: "wake-day-2026-06-25",
+  wakeDaySlug: "day-2026-06-25",
   setNumber: 1,
   weight: 10,
 } as const satisfies SetLog
