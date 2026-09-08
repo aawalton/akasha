@@ -21,7 +21,6 @@ export const work: Work<WorkedWakeDay, number> = (page) => {
   ]
   let total = 0
   for (const level of levels) {
-    // A level that is not there leaves the six unsummed, and no rung is reached.
     if (typeof level !== "number") return NO_RUNG
     total += level
   }

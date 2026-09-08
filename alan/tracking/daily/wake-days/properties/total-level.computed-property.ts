@@ -10,4 +10,10 @@ export const totalLevel = {
   definition: "which of the four rungs the day's six values reached between them",
   holds: "number",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A day missing any of the six levels reaches no rung.",
+    },
+  ],
 } as const satisfies ComputedProperty
