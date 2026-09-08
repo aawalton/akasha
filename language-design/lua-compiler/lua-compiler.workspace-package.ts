@@ -66,7 +66,7 @@ export const luaCompiler = {
     "module/lua-ast-statements",
     "module/lualib-features",
     "module/tstl-lua-printer",
-    "module/tstl-lua-printer-core",
+    "module/lua-printer-core",
     "module/tstl-lua-printer-expressions",
     "module/tstl-lua-printer-helpers",
     "module/tstl-lua-printer-statements",

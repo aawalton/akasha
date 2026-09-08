@@ -13,7 +13,7 @@ import {
   printComment,
   printStatementArray,
   pushIndent,
-} from "../tstl-lua-printer-core/tstl-lua-printer-core.module.code.ts"
+} from "../lua-printer-core/lua-printer-core.module.code.ts"
 import {
   isValidLuaFunctionDeclarationName,
   type SourceChunk,
