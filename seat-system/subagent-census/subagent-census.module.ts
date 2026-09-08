@@ -4,11 +4,15 @@ export const subagentCensus = {
   id: "01a072be-bffe-7f16-bf8b-0ccd8c2a00f6",
   pageTypeSlug: "module",
   slug: "subagent-census",
-  definition: "every subagent page on disk, each judged working, stale or undetermined",
+  definition: "every subagent page the index carries, each judged working, stale or undetermined",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The pages judged are asked of the index rather than listed off a folder.",
+    },
     {
       invariantKind: "departure",
       statement: "A page is judged from evidence rather than from how old that page is.",

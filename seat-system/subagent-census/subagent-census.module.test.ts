@@ -15,7 +15,9 @@ import {
 import {
   AGAIN,
   agentIdOf,
+  awayPut,
   CHILD,
+  indexPut,
   logPut,
   OTHER_ID,
   OWN,
@@ -210,9 +212,20 @@ test("the census names the seat, the agent id, what answers and why", () => {
   world.sweep()
 })
 
-test("a root holding no subagents folder is a census of nothing", () => {
-  const root = world.rootFor("subagent-census-")
+test("an index carrying no subagent page is a census of nothing", () => {
+  const root = indexPut(world.rootFor("subagent-census-"))
   expect(pagesIn(root)).toEqual([])
+  world.sweep()
+})
+
+test("a page the index files outside the subagents folder is judged with the rest", () => {
+  const root = indexPut(world.rootFor("subagent-census-"))
+  const away = awayPut(root, "akasha", AGAIN, agentIdOf(SEAT_ID, AGAIN))
+  pagePut(root, "akasha", OWN, ACTING)
+  const found = pagesIn(root).find((one) => one.path === away)
+  expect(pagesIn(root).length).toBe(2)
+  expect(found?.slug).toBe(`akasha-${AGAIN}`)
+  expect(found?.agentId).toBe(agentIdOf(SEAT_ID, AGAIN))
   world.sweep()
 })
 

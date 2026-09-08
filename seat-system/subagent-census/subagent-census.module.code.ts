@@ -1,6 +1,7 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { SUBAGENT_MARK } from "@akasha/command-system/reading"
+import { valuesOfType } from "@akasha/indexes"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt, valueAt } from "@akasha/pages/page-value"
 import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
@@ -8,13 +9,15 @@ import {
   actingAgentPidsFromProc,
   type ProcLivenessEntry,
 } from "../seat-proc-liveness/seat-proc-liveness.module.code.ts"
-import { LOG_AT, SUBAGENTS_AT } from "../subagents/presence/subagent-presence.module.code.ts"
+import { LOG_AT } from "../subagents/presence/subagent-presence.module.code.ts"
 
 const SEAT = "principalSeatName"
 
 const AGENT = "agentId"
 
-const SUFFIX = ".subagent.ts"
+const SUBAGENT = "subagent"
+
+const SLUG = "slug"
 
 const TAKEN = /^(?:\S+ )?subagent-presence: take (\S+) (\S+) — /
 
@@ -63,22 +66,14 @@ export function partedAgentId(agentId: string): { seatId: string; own: string } 
 }
 
 export function pagesIn(root: string): readonly SubagentPage[] {
-  let names: readonly string[]
-  try {
-    names = readdirSync(join(root, SUBAGENTS_AT))
-  } catch {
-    return []
-  }
   const pages: SubagentPage[] = []
-  for (const name of [...names].sort()) {
-    if (!name.endsWith(SUFFIX)) continue
-    const path = `${SUBAGENTS_AT}/${name}`
-    const absolute = join(root, path)
+  for (const one of valuesOfType(root, SUBAGENT)) {
+    const absolute = join(root, one.path)
     const named = partedIn(absolute)
     const agentId = statedAt(absolute, root, AGENT)
     pages.push({
-      path,
-      slug: named === null ? name.slice(0, -SUFFIX.length) : named.slug,
+      path: one.path,
+      slug: named?.slug ?? textAt(one.value, SLUG) ?? "",
       seatName: statedAt(absolute, root, SEAT),
       agentId,
       ...partedAgentId(agentId),

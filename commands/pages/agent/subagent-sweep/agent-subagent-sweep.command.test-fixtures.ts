@@ -6,7 +6,7 @@ import type { Refused } from "@akasha/command-system/landing"
 import { writing } from "@akasha/command-system/scratching/testing"
 import type { SubagentNode } from "@akasha/editor-extension/subagent-reading"
 import { said as gitIn } from "@akasha/git/git-running"
-import { rebuiltIn } from "@akasha/indexes/testing"
+import { rebuiltIn, valueAlsoFiled } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
 import type { Landing, RunningSaid, SeatTranscripts } from "./agent-subagent-sweep.command.code.ts"
@@ -82,9 +82,11 @@ export function seated(root: string): string {
 
 export function paged(root: string, seatName: string, own: string, agentId: string): string {
   const at = pathOf(seatName, own)
+  const slug = `${seatName}-${own}`
   writing(root, at, bodyOf(seatName, own, agentId))
   gitIn(root, ["add", "-A"])
-  gitIn(root, ["commit", "--quiet", "-m", `${seatName}-${own} is there`])
+  gitIn(root, ["commit", "--quiet", "-m", `${slug} is there`])
+  valueAlsoFiled(root, "subagent", [{ path: at, value: { pageTypeSlug: "subagent", slug } }])
   return at
 }
 

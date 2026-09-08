@@ -1,5 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { nothingFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { put } from "@akasha/testing-system/putting"
 import {
   bodyOf,
@@ -28,10 +29,24 @@ export function agentIdOf(seatId: string, own: string): string {
   return `${seatId}--${own}`
 }
 
+export function indexPut(root: string): string {
+  nothingFiled(root)
+  return root
+}
+
 export function pagePut(root: string, seatName: string, own: string, agentId: string): string {
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
   put(root, at, bodyOf(slug, seatName, "domain/akasha", "Explore", agentId))
+  valueAlsoFiled(root, "subagent", [{ path: at, value: { pageTypeSlug: "subagent", slug } }])
+  return at
+}
+
+export function awayPut(root: string, seatName: string, own: string, agentId: string): string {
+  const slug = slugOf(seatName, own)
+  const at = `seat-system/elsewhere/${slug}.subagent.ts`
+  put(root, at, bodyOf(slug, seatName, "domain/akasha", "Explore", agentId))
+  valueAlsoFiled(root, "subagent", [{ path: at, value: { pageTypeSlug: "subagent", slug } }])
   return at
 }
 
