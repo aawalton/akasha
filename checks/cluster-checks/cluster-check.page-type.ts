@@ -202,6 +202,7 @@ export const clusterCheck = {
     "module/start-script-rules",
     "module/suppression-subject",
     "module/surface-literal-sites",
+    "module/swift-masked-source",
   ],
   properties: [
     {
