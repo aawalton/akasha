@@ -10,7 +10,16 @@ export const wakeDayWindow = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The moment Alan woke is the earliest sleep block ending inside the ESO day.",
+      statement:
+        "A day opens at the end of the first sleep block starting or running past six the evening before.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Six in the evening is read on a New York clock.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first of two blocks is the one that started earlier.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +27,12 @@ export const wakeDayWindow = {
     },
     {
       invariantKind: "departure",
-      statement: "A block ending outside the ESO day the block was read for is passed over.",
+      statement: "A block ending at or before that hour opens no day.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A block starting at or after six in the evening opens the day after rather than that day.",
     },
     {
       invariantKind: "departure",

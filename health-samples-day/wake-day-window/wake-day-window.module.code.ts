@@ -1,6 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
+import { nyWallToInstant } from "@akasha/day/new-york-wall"
 import { listedAt } from "@akasha/indexes"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { entriesIn } from "@akasha/pages/page-entries"
@@ -21,6 +22,11 @@ export interface SleepBlockInput {
   readonly endTime: unknown
 }
 
+interface Span {
+  readonly startMs: number
+  readonly endMs: number
+}
+
 export const DAY_PAGE_TYPE = "wake-day"
 
 export const SESSIONS_SLUG = "sessions"
@@ -37,28 +43,44 @@ const START_TIME = "startTime"
 
 const END_TIME = "endTime"
 
+const EVENING_HOUR = 18
+
 export function isSleepTitle(title: unknown): boolean {
   return typeof title === "string" && title.trim().toLowerCase() === SLEEP
 }
 
+export function dayBefore(dayStr: string): string {
+  return getEsoDayStr(new Date(getEsoDayWindow(dayStr).start.getTime() - 1))
+}
+
+export function eveningOf(dayStr: string): Date {
+  return nyWallToInstant(dayStr, EVENING_HOUR, 0)
+}
+
+function spanOf(block: SleepBlockInput): Span | null {
+  if (!isSleepTitle(block.title)) return null
+  if (typeof block.startTime !== "string" || typeof block.endTime !== "string") return null
+  const startMs = Date.parse(block.startTime)
+  const endMs = Date.parse(block.endTime)
+  if (Number.isNaN(startMs) || Number.isNaN(endMs)) return null
+  if (endMs <= startMs) return null
+  return { startMs, endMs }
+}
+
 export function wakeInstantFromBlocks(
   blocks: readonly SleepBlockInput[],
-  esoWindow: { readonly start: Date; readonly end: Date }
+  dayStr: string
 ): Date | null {
-  const startMs = esoWindow.start.getTime()
-  const endMs = esoWindow.end.getTime()
-  let earliest: number | null = null
+  const afterMs = eveningOf(dayBefore(dayStr)).getTime()
+  const beforeMs = eveningOf(dayStr).getTime()
+  let first: Span | null = null
   for (const block of blocks) {
-    if (!isSleepTitle(block.title)) continue
-    if (typeof block.startTime !== "string" || typeof block.endTime !== "string") continue
-    const blockStartMs = Date.parse(block.startTime)
-    const blockEndMs = Date.parse(block.endTime)
-    if (Number.isNaN(blockStartMs) || Number.isNaN(blockEndMs)) continue
-    if (blockEndMs <= blockStartMs) continue
-    if (blockEndMs < startMs || blockEndMs >= endMs) continue
-    if (earliest === null || blockEndMs < earliest) earliest = blockEndMs
+    const span = spanOf(block)
+    if (span === null) continue
+    if (span.endMs <= afterMs || span.startMs >= beforeMs) continue
+    if (first === null || span.startMs < first.startMs) first = span
   }
-  return earliest === null ? null : new Date(earliest)
+  return first === null ? null : new Date(first.endMs)
 }
 
 export function sleepBlocksOn(root: string, dayStr: string): readonly SleepBlockInput[] | Refused {
@@ -96,17 +118,17 @@ export function wakeInstantOn(root: string, dayStr: string): Date | Refused {
   const esoWindow = getEsoDayWindow(dayStr)
   if (esoWindow.start.getTime() === 0 || esoWindow.end.getTime() === 0) {
     return {
-      refused: `'${dayStr}' is no day, so there is no ESO day to read a sleep block against`,
+      refused: `'${dayStr}' is no day, so there is no evening to read a sleep block against`,
     }
   }
   const blocks = sleepBlocksOn(root, dayStr)
   if ("refused" in blocks) return blocks
-  const woke = wakeInstantFromBlocks(blocks, esoWindow)
+  const woke = wakeInstantFromBlocks(blocks, dayStr)
   if (woke === null) {
     return {
       refused:
-        `${dayStr} holds ${blocks.length} stretch(es) of time and none titled ${SLEEP} ends ` +
-        "inside its ESO day, so when Alan woke is not recorded",
+        `${dayStr} holds ${blocks.length} stretch(es) of time and none titled ${SLEEP} starts or ` +
+        "runs past six the evening before, so when Alan woke is not recorded",
     }
   }
   return woke
