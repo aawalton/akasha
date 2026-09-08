@@ -10,7 +10,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "An edit holds only the information needed to make that edit.",
       workingMemory:
-        "Nine producers still name whole bodies. The last step is forced rather than open: widening each reached answer and then gathering refuses three of four ordinary cases, since each is widened against the tree blind to what its siblings left. A folding page must instead hand back the stated edits joined in order, widened once, so joining is the fold and no gather over stated edits is needed. Reach widens today, which is why folding pages still work.",
+        "Narrow is landed and proven: `Stated` alone, `replayed` is the fold, `beyond` keeps a reach inside a change from being judged twice, and `World.base` lets a guard replay off the tree. Every command typechecks. What is left is 230 errors over 45 change test files, all four shapes: an import of the gone `widened`, and `path`, `body`, `was` or `from` read off a `Stated`. The fixture to reach for is `replayed(said, textOf)` and the `bodyOf` beside it, never a wide edit rebuilt.",
     },
     {
       statement: "The edits an agent keeps are an uncommitted file rather than a git object.",
