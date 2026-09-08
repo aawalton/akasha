@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0223Chapter40LightAndShadow = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0223-chapter-40-light-and-shadow",
   title: "Chapter 40: Light and Shadow",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 223,
   ownLength: 1629,
   unitSlug: "words",

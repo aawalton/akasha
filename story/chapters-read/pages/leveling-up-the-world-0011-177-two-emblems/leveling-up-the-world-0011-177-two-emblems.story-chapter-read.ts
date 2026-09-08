@@ -5,7 +5,7 @@ export const levelingUpTheWorld0011177TwoEmblems = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0011-177-two-emblems",
   title: "177. Two Emblems",
-  partOfSlugs: ["story-read/leveling-up-the-world"],
+  partOfCollectionSlugs: ["story-read/leveling-up-the-world"],
   position: 11,
   ownLength: 2400,
   ownProgress: 2400,

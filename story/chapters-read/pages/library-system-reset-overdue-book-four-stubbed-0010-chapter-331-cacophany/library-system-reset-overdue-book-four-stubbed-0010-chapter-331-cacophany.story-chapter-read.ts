@@ -5,7 +5,7 @@ export const librarySystemResetOverdueBookFourStubbed0010Chapter331Cacophany = {
   pageTypeSlug: "story-chapter-read",
   slug: "library-system-reset-overdue-book-four-stubbed-0010-chapter-331-cacophany",
   title: "Chapter 331: Cacophany",
-  partOfSlugs: ["library-system-reset-overdue-book-four-stubbed"],
+  partOfCollectionSlugs: ["library-system-reset-overdue-book-four-stubbed"],
   position: 10,
   ownLength: 2228,
   unitSlug: "words",

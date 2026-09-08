@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0253Chapter71Refugees = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0253-chapter-71-refugees",
   title: "Chapter 71: Refugees",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 253,
   ownLength: 1729,
   unitSlug: "words",

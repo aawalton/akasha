@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0212Chapter30CityBoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0212-chapter-30-city-boss",
   title: "Chapter 30: City Boss",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 212,
   ownLength: 1720,
   unitSlug: "words",

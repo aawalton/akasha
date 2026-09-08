@@ -5,7 +5,7 @@ export const librarySystemResetOverdueBookFourStubbed0004Chapter4Library = {
   pageTypeSlug: "story-chapter-read",
   slug: "library-system-reset-overdue-book-four-stubbed-0004-chapter-4-library",
   title: "Chapter 4:  Library",
-  partOfSlugs: ["library-system-reset-overdue-book-four-stubbed"],
+  partOfCollectionSlugs: ["library-system-reset-overdue-book-four-stubbed"],
   position: 4,
   ownLength: 2740,
   unitSlug: "words",

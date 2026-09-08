@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0219Chapter37ArmadaWurm = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0219-chapter-37-armada-wurm",
   title: "Chapter 37: Armada Wurm",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 219,
   ownLength: 1853,
   unitSlug: "words",

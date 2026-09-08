@@ -5,7 +5,7 @@ export const levelingUpTheWorld0038846FourthMoonstone = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0038-846-fourth-moonstone",
   title: "846. Fourth Moonstone",
-  partOfSlugs: ["story-read/leveling-up-the-world"],
+  partOfCollectionSlugs: ["story-read/leveling-up-the-world"],
   position: 38,
   ownLength: 2070,
   ownProgress: 2070,

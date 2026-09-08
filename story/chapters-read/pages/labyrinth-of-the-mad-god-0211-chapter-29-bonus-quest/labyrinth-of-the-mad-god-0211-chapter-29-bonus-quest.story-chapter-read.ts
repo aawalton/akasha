@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0211Chapter29BonusQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0211-chapter-29-bonus-quest",
   title: "Chapter 29: Bonus Quest",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 211,
   ownLength: 1584,
   unitSlug: "words",

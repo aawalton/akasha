@@ -5,7 +5,7 @@ export const levelingUpTheWorld0004AdventureArcChapter85JourneyThroughTheWildern
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0004-adventure-arc-chapter-85-journey-through-the-wilderness",
   title: "Adventure Arc. Chapter 85. Journey Through the Wilderness",
-  partOfSlugs: ["story-read/leveling-up-the-world"],
+  partOfCollectionSlugs: ["story-read/leveling-up-the-world"],
   position: 4,
   ownLength: 2093,
   ownProgress: 2093,

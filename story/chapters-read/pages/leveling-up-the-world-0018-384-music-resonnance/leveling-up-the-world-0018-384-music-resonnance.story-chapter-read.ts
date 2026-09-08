@@ -5,7 +5,7 @@ export const levelingUpTheWorld0018384MusicResonnance = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0018-384-music-resonnance",
   title: "384. Music Resonnance",
-  partOfSlugs: ["story-read/leveling-up-the-world"],
+  partOfCollectionSlugs: ["story-read/leveling-up-the-world"],
   position: 18,
   ownLength: 2014,
   ownProgress: 2014,

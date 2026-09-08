@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0194Chapter12JourneyUpstream = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0194-chapter-12-journey-upstream",
   title: "Chapter 12: Journey Upstream",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 194,
   ownLength: 2102,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0271Chapter88BonusObjective = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0271-chapter-88-bonus-objective",
   title: "Chapter 88: Bonus Objective",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 271,
   ownLength: 1668,
   unitSlug: "words",

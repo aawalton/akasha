@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0330Chapter49RainyDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0330-chapter-49-rainy-day",
   title: "Chapter 49: Rainy Day",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 330,
   ownLength: 1747,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const librarySystemResetOverdueBookFourStubbed0013Chapter394Epilogue = {
   pageTypeSlug: "story-chapter-read",
   slug: "library-system-reset-overdue-book-four-stubbed-0013-chapter-394-epilogue",
   title: "Chapter 394: Epilogue",
-  partOfSlugs: ["library-system-reset-overdue-book-four-stubbed"],
+  partOfCollectionSlugs: ["library-system-reset-overdue-book-four-stubbed"],
   position: 13,
   ownLength: 1442,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0329Chapter48TacticsAndTeamwork = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0329-chapter-48-tactics-and-teamwork",
   title: "Chapter 48: Tactics and Teamwork",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 329,
   ownLength: 1601,
   unitSlug: "words",

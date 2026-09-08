@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0292Chapter12StaminaControl = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0292-chapter-12-stamina-control",
   title: "Chapter 12: Stamina Control",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 292,
   ownLength: 2235,
   unitSlug: "words",

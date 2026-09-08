@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0310Chapter29Skywalker = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0310-chapter-29-skywalker",
   title: "Chapter 29: Skywalker",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 310,
   ownLength: 2054,
   unitSlug: "words",

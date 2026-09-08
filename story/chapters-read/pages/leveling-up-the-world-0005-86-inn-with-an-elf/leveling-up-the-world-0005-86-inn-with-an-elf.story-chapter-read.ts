@@ -5,7 +5,7 @@ export const levelingUpTheWorld000586InnWithAnElf = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0005-86-inn-with-an-elf",
   title: "86. Inn with an Elf",
-  partOfSlugs: ["story-read/leveling-up-the-world"],
+  partOfCollectionSlugs: ["story-read/leveling-up-the-world"],
   position: 5,
   ownLength: 2074,
   ownProgress: 2074,

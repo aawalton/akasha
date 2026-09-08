@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0178Chapter137StarlitShowdown = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0178-chapter-137-starlit-showdown",
   title: "Chapter 137: Starlit Showdown",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 178,
   ownLength: 2916,
   unitSlug: "words",

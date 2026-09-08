@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0265Chapter82AnotherBigStep = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0265-chapter-82-another-big-step",
   title: "Chapter 82: Another Big Step",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 265,
   ownLength: 1429,
   unitSlug: "words",

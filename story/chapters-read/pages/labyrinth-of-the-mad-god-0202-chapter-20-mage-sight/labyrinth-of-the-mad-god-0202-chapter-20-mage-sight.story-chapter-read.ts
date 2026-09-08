@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0202Chapter20MageSight = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0202-chapter-20-mage-sight",
   title: "Chapter 20: Mage Sight",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 202,
   ownLength: 1869,
   unitSlug: "words",

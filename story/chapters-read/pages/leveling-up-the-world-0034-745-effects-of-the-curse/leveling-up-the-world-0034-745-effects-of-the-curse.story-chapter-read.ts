@@ -5,7 +5,7 @@ export const levelingUpTheWorld0034745EffectsOfTheCurse = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0034-745-effects-of-the-curse",
   title: "745. Effects of the Curse",
-  partOfSlugs: ["story-read/leveling-up-the-world"],
+  partOfCollectionSlugs: ["story-read/leveling-up-the-world"],
   position: 34,
   ownLength: 2015,
   ownProgress: 2015,

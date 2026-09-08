@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0240Chapter5758DesertRose = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0240-chapter-57-58-desert-rose",
   title: "Chapter 57 & 58: Desert Rose",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 240,
   ownLength: 3301,
   unitSlug: "words",
