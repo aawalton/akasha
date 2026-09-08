@@ -41,7 +41,7 @@ const API_ROUTES: RouteConfig = [
   route("api/cli-link/mint", "routes/api-cli-link-mint/api-cli-link-mint.route.code.ts"),
   route("api/nav-icon/:idSuffix", "routes/temper-api-nav-icon/temper-api-nav-icon.route.code.ts"),
   route("api/watcher/version", "routes/api-watcher-version/api-watcher-version.route.code.ts"),
-  route("api/watcher/download", "routes/api.watcher.download.tsx"),
+  route("api/watcher/download", "routes/api-watcher-download/api-watcher-download.route.code.ts"),
   route("api/watcher/worker/version", "routes/api.watcher.worker.version.tsx"),
   route("api/watcher/worker/download", "routes/api.watcher.worker.download.tsx"),
   route("api/watcher/upsert-listings", "routes/api.watcher.upsert-listings.tsx"),
