@@ -58,6 +58,6 @@ test("a page type this change hands on is reached through the runner the world c
 
   const said = await removePageType({ ...UNASKED, reaching }, { at: "changes/kept.page-type.ts" })
 
-  expect(reached).toBe("change-mechanical-folder/remove-page-type")
+  expect(reached).toBe("change-mechanical/remove-file-page-type")
   expect(said.refused).toBeNull()
 })
