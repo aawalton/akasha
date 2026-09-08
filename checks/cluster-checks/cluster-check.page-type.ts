@@ -228,6 +228,7 @@ export const clusterCheck = {
     "module/tsconfig-import-graph-rollup",
     "module/verdict-emitter-chokepoint",
     "module/walk-package-tree",
+    "module/widget-sites",
   ],
   properties: [
     {
