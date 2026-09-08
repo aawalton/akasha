@@ -1,10 +1,15 @@
-import { readdirSync, readFileSync } from "node:fs"
+import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { uncommittedPartsOf } from "../../../../pages/file-parts/page-file-parts.module.code.ts"
 import { columnsOf } from "../checkout-counting/checkout-counting.module.code.ts"
 
 const PAGES_AT = "checks/code-checks/pages"
 
-const ENTRIES_NAMED = /\.code-check\.entries\.uncommitted\.jsonl$/
+const CHECKED = "code-check"
+
+const ENTRIES = "entries"
+
+const HELD = "jsonl"
 
 const PATCH = "patch"
 
@@ -250,12 +255,13 @@ export function byCpu(a: CheckCost, b: CheckCost): number {
   return b.cpu - a.cpu || a.check.localeCompare(b.check)
 }
 
-function namedIn(root: string, folder: string): string | undefined {
-  try {
-    return readdirSync(join(root, PAGES_AT, folder)).find((one) => ENTRIES_NAMED.test(one))
-  } catch {
-    return undefined
-  }
+function pageAt(folder: string): string {
+  return join(PAGES_AT, folder, `${folder}.${CHECKED}.ts`)
+}
+
+export function partsIn(root: string, page: string): readonly string[] {
+  const there = (at: string): boolean => existsSync(join(root, at))
+  return uncommittedPartsOf(page, ENTRIES, HELD, there).filter(there)
 }
 
 export function heldIn(root: string): Reading {
@@ -268,14 +274,17 @@ export function heldIn(root: string): Reading {
   const held: Held[] = []
   const unread: string[] = []
   for (const folder of [...folders].sort()) {
-    const name = namedIn(root, folder)
-    if (name === undefined) continue
-    const path = join(PAGES_AT, folder, name)
-    try {
-      held.push({ check: folder, runs: runsIn(readFileSync(join(root, path), "utf8")) })
-    } catch {
-      unread.push(path)
+    const runs: Run[] = []
+    let read = false
+    for (const at of partsIn(root, pageAt(folder))) {
+      try {
+        for (const one of runsIn(readFileSync(join(root, at), "utf8"))) runs.push(one)
+        read = true
+      } catch {
+        unread.push(at)
+      }
     }
+    if (read) held.push({ check: folder, runs })
   }
   return { held, unread }
 }
