@@ -6,8 +6,8 @@ export const plantsRelayService = {
   slug: "plants-relay-service",
   definition: "the service carrying the plant grams to the sites that show them",
   runs: [
-    "-bun readout-system/readout-relay/readout-relay.module.code.ts readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts https://alanwalton.com",
-    "-bun readout-system/readout-relay/readout-relay.module.code.ts readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts https://smilingjenny.me",
+    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/upkeep-plants/upkeep-plants.readout.ts https://alanwalton.com",
+    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/upkeep-plants/upkeep-plants.readout.ts https://smilingjenny.me",
   ],
   enabled: true,
   needsSecrets: true,

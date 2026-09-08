@@ -6,8 +6,8 @@ export const activityRelayService = {
   slug: "activity-relay-service",
   definition: "the service carrying the activity calories to the sites that show them",
   runs: [
-    "-bun readout-system/readout-relay/readout-relay.module.code.ts readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts https://alanwalton.com",
-    "-bun readout-system/readout-relay/readout-relay.module.code.ts readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts https://smilingjenny.me",
+    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/upkeep-activity/upkeep-activity.readout.ts https://alanwalton.com",
+    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/upkeep-activity/upkeep-activity.readout.ts https://smilingjenny.me",
   ],
   enabled: true,
   needsSecrets: true,

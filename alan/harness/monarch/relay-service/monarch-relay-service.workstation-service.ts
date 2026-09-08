@@ -6,8 +6,8 @@ export const monarchRelayService = {
   slug: "monarch-relay-service",
   definition: "the service carrying the unreviewed reading to the sites that show it",
   runs: [
-    "-bun readout-system/readout-relay/readout-relay.module.code.ts readout-system/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts https://alanwalton.com",
-    "-bun readout-system/readout-relay/readout-relay.module.code.ts readout-system/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts https://smilingjenny.me",
+    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts https://alanwalton.com",
+    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts https://smilingjenny.me",
   ],
   enabled: true,
   needsSecrets: true,

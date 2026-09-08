@@ -6,8 +6,8 @@ export const sleepRelayService = {
   slug: "sleep-relay-service",
   definition: "the service carrying the sleep hours to the sites that show them",
   runs: [
-    "-bun readout-system/readout-relay/readout-relay.module.code.ts readout-system/readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts https://alanwalton.com",
-    "-bun readout-system/readout-relay/readout-relay.module.code.ts readout-system/readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts https://smilingjenny.me",
+    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts https://alanwalton.com",
+    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts https://smilingjenny.me",
   ],
   enabled: true,
   needsSecrets: true,

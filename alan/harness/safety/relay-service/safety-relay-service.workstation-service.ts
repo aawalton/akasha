@@ -6,8 +6,8 @@ export const safetyRelayService = {
   slug: "safety-relay-service",
   definition: "the service carrying the safety level to the sites that show it",
   runs: [
-    "-bun readout-system/readout-relay/readout-relay.module.code.ts readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts https://alanwalton.com",
-    "-bun readout-system/readout-relay/readout-relay.module.code.ts readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts https://smilingjenny.me",
+    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/upkeep-safety/upkeep-safety.readout.ts https://alanwalton.com",
+    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/upkeep-safety/upkeep-safety.readout.ts https://smilingjenny.me",
   ],
   enabled: true,
   needsSecrets: true,
