@@ -72,6 +72,10 @@ export const claudeAccountMaking = {
     },
     {
       invariantKind: "departure",
+      statement: "The change adding a file writes the page rather than an edit composed here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A landing that refused says why in the words the landing refused with.",
     },
     {

@@ -1,21 +1,19 @@
-import { landedMechanically } from "@akasha/command-system/asking"
-import type { Answer } from "@akasha/command-system/calling"
-import type { FileEdit } from "@akasha/command-system/landing"
+import { type Asking, runMechanicalChange } from "@akasha/changes/mechanical-change-running"
+import type { Applied } from "@akasha/command-system/applying"
+import type { Refused } from "@akasha/command-system/landing"
 import type { Reading } from "@akasha/indexes/shape"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { accountPathIn, everyAccountIn } from "../reading/claude-account-reading.module.code.ts"
 
 export const PAGE_TYPE_SLUG = "claude-account"
 
-const CALLED_AS = "claude-account-making"
+const PUT = "change-mechanical-file/add-file"
 
 export const ACCOUNT_SHAPE = /^[a-z0-9][a-z0-9_-]*$/
 
 const EMAIL_SHAPE = /^\S+@\S+$/
 
 const FIRST_SLOT = 1
-
-const LANDED = 0
 
 export type Made =
   | { readonly kind: "made"; readonly slug: string; readonly path: string; readonly id: string }
@@ -24,16 +22,12 @@ export type Made =
 
 export type Landing = (
   root: string,
-  calledAs: string,
-  changes: readonly FileEdit[],
+  asked: readonly Asking[],
   message: string
-) => Promise<Answer>
+) => Promise<Applied | Refused>
 
-export const LANDING: Landing = landedMechanically
+export const LANDING: Landing = runMechanicalChange
 
-// Where a new account page is written is read off the pages already there rather than written
-// out a second time. A folder move repoints no string in this repository, so a spelled folder is
-// the answer that goes stale; a root holding no account at all names that rather than guessing.
 export function accountsAtIn(given: string | Reading): string {
   const first = everyAccountIn(given)[0]
   if (first === undefined) {
@@ -56,9 +50,6 @@ export function accountPagePathIn(given: string | Reading, slug: string): string
   return `${accountsAtIn(given)}/${slug}.${PAGE_TYPE_SLUG}.ts`
 }
 
-// What an account states when it is made. The uuid, the plan, the band, the renewal day and the
-// scopes are all answered by the upstream probe at the first sign-in, so none of them is written
-// here and the page type declares none of them required.
 export function accountPageText(given: {
   readonly slug: string
   readonly email: string
@@ -119,15 +110,13 @@ export async function madeIn(
     const path = accountPagePathIn(reading, slug)
     const id = given.id ?? Bun.randomUUIDv7()
     const text = accountPageText({ slug, email: given.email, aliasIndex: given.aliasIndex, id })
-    const answer = await landing(
+    const landed = await landing(
       root,
-      CALLED_AS,
-      [{ path, body: new TextEncoder().encode(text) }],
+      [{ at: PUT, given: { at: path, body: text } }],
       `akasha: add ${path}`
     )
-    if (answer.code !== LANDED) {
-      return { kind: "refused", slug, why: answer.refusals.join("; ") }
-    }
+    const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+    if (wrong.length > 0) return { kind: "refused", slug, why: wrong.join("; ") }
     return { kind: "made", slug, path, id }
   } catch (thrown) {
     return {
