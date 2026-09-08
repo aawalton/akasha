@@ -1,6 +1,9 @@
 import * as ts from "typescript"
 import type { AnnotationKind } from "../annotations/annotations.module.code.ts"
-import { LuaTarget, type TstlOptions } from "../compiler-options/compiler-options.module.code.ts"
+import {
+  type LuaCompilerOptions,
+  LuaTarget,
+} from "../compiler-options/compiler-options.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import { createSerialDiagnosticFactory } from "../utils/utils.module.code.ts"
 
@@ -102,7 +105,7 @@ export const unsupportedForTarget = createErrorDiagnosticFactory(
 )
 
 export const unsupportedForTargetButOverrideAvailable = createErrorDiagnosticFactory(
-  (functionality: string, version: LuaTarget, optionName: keyof TstlOptions) =>
+  (functionality: string, version: LuaTarget, optionName: keyof LuaCompilerOptions) =>
     `As a precaution, ${functionality} is/are not supported for target ${getLuaTargetName(
       version
     )} due to language features/limitations. ` +

@@ -8,7 +8,7 @@ import {
 } from "../cli-parse/cli-parse.module.code.ts"
 import type {
   CompilerOptions,
-  TstlOptions,
+  LuaCompilerOptions,
 } from "../compiler-options/compiler-options.module.code.ts"
 import { normalizeSlashes } from "../utils/utils.module.code.ts"
 
@@ -88,7 +88,7 @@ function resolveNpmModuleConfig(
 
 function isParsedTsConfig(
   value: unknown
-): value is { config?: { extends?: string | string[]; tstl?: TstlOptions } } {
+): value is { config?: { extends?: string | string[]; tstl?: LuaCompilerOptions } } {
   if (!isRecord(value)) {
     return false
   }
@@ -121,7 +121,7 @@ function getExtendedTstlOptions(
   configRootDir: string,
   cycleCache: Set<string>,
   system: ts.System
-): TstlOptions {
+): LuaCompilerOptions {
   const absolutePath = ts.pathIsAbsolute(configFilePath)
     ? configFilePath
     : ts.pathIsRelative(configFilePath)

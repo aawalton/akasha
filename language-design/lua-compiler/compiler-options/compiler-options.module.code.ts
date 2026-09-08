@@ -19,7 +19,7 @@ export interface InMemoryLuaPlugin {
   [option: string]: unknown
 }
 
-export interface TstlOptions {
+export interface LuaCompilerOptions {
   buildMode?: BuildMode
   extension?: string
   luaBundle?: string
@@ -37,7 +37,7 @@ export interface TstlOptions {
 }
 
 export type CompilerOptions = OmitIndexSignature<ts.CompilerOptions> &
-  TstlOptions & {
+  LuaCompilerOptions & {
     [option: string]: ts.CompilerOptionsValue | ts.TsConfigSourceFile | undefined
   }
 
