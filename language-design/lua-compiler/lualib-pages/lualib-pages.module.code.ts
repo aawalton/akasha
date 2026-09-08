@@ -16,6 +16,7 @@ const PREFIX = "__TS__"
 const FEATURES: ReadonlySet<string> = new Set<string>(Object.values(LuaLibFeature))
 
 export type LualibPage = {
+  readonly pagePath: string
   readonly luaExport: string
   readonly codePath: string
   readonly lua50CodePath: string | null
@@ -50,6 +51,7 @@ export function pageAt(root: string, relative: string): LualibPage | null {
   if (!existsSync(codePath)) return null
   const lua50CodePath = `${stem}${LUA50_CODE}`
   return {
+    pagePath: join(root, relative),
     luaExport,
     codePath: realpathSync(codePath),
     lua50CodePath: existsSync(lua50CodePath) ? realpathSync(lua50CodePath) : null,
@@ -77,7 +79,11 @@ export function sourcesFrom(
   const stated = new Map<LuaLibFeature, string>()
   for (const page of pages) {
     const feature = featureNamed(page.luaExport)
-    if (feature === null) continue
+    if (feature === null) {
+      throw new Error(
+        `lualib pages: ${page.pagePath} states lua-export "${page.luaExport}", which names no lualib feature`
+      )
+    }
     const lua50Path = page.lua50CodePath
     stated.set(feature, lua50 && lua50Path !== null ? lua50Path : page.codePath)
   }

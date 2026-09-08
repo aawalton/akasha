@@ -35,7 +35,11 @@ export const lualibPages = {
     },
     {
       invariantKind: "departure",
-      statement: "A page naming no lualib feature either way is passed over.",
+      statement: "A page naming no lualib feature either way refuses the build.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal names the page's path and the Lua export the page states.",
     },
     {
       invariantKind: "departure",

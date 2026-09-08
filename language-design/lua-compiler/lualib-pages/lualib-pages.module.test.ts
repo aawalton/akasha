@@ -9,6 +9,7 @@ const SCANNED = [
 ]
 
 const ARRAY_AT: LualibPage = {
+  pagePath: "/lua-compiler/lualibs/array-at/array-at.lualib.ts",
   luaExport: "__TS__ArrayAt",
   codePath: "/lua-compiler/lualibs/array-at/array-at.lualib.code.ts",
   lua50CodePath: null,
@@ -17,6 +18,7 @@ const ARRAY_AT: LualibPage = {
 const UNPACK_LUA50 = "/lua-compiler/lualibs/unpack/unpack.lualib.lua50-code.ts"
 
 const UNPACK: LualibPage = {
+  pagePath: "/lua-compiler/lualibs/unpack/unpack.lualib.ts",
   luaExport: "Unpack",
   codePath: "/lua-compiler/lualibs/unpack/unpack.lualib.code.ts",
   lua50CodePath: UNPACK_LUA50,
@@ -53,15 +55,21 @@ test("a build for Lua 5.0 of a page holding no Lua 5.0 code takes the page's cod
   expect(held.rootNames).toContain(ARRAY_AT.codePath)
 })
 
-test("a page naming no lualib feature either way is passed over", () => {
-  const named = { luaExport: "NotAFeature", codePath: "/nowhere.ts", lua50CodePath: null }
-  const held = sourcesFrom(SCANNED, [named], false)
-  expect(held.rootNames).toEqual(SCANNED)
-  expect(held.featureBySourceName.size).toBe(0)
+test("a page naming no lualib feature either way refuses the build", () => {
+  const named: LualibPage = {
+    pagePath: "/lua-compiler/lualibs/nowhere/nowhere.lualib.ts",
+    luaExport: "NotAFeature",
+    codePath: "/lua-compiler/lualibs/nowhere/nowhere.lualib.code.ts",
+    lua50CodePath: null,
+  }
+  expect(() => sourcesFrom(SCANNED, [named], false)).toThrow(
+    'nowhere.lualib.ts states lua-export "NotAFeature", which names no lualib feature'
+  )
 })
 
 test("a page naming a feature the scan found nowhere is added after what the scan found", () => {
   const named: LualibPage = {
+    pagePath: "/lua-compiler/lualibs/await/await.lualib.ts",
     luaExport: "Await",
     codePath: "/lua-compiler/lualibs/await/await.lualib.code.ts",
     lua50CodePath: null,
