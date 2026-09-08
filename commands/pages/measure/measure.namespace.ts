@@ -13,6 +13,7 @@ export const measure = {
     "command/measure-commands",
     "namespace/measure-claude-accounts",
     "command/measure-attributes",
+    "command/measure-personas",
     "command/measure-learning",
   ],
 } as const satisfies Namespace
