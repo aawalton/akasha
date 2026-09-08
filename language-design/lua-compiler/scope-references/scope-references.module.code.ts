@@ -1,6 +1,6 @@
 import type * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
+import type * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import { getOrUpdate } from "../tstl-utils/tstl-utils.module.code.ts"
 
 export function markSymbolAsReferencedInCurrentScopes(

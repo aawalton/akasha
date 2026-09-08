@@ -7,6 +7,7 @@ import {
   createExportedIdentifier,
   getIdentifierExportScope,
 } from "../export-scope/export-scope.module.code.ts"
+import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import { createSafeName, isUnsafeName } from "../safe-names/safe-names.module.code.ts"
 import { performHoisting, ScopeType } from "../scope/scope.module.code.ts"
 import { getSymbolIdOfSymbol } from "../symbols/symbols.module.code.ts"
@@ -14,7 +15,6 @@ import {
   createHoistableVariableDeclarationStatement,
   createLocalOrExportedOrGlobalDeclaration,
 } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
-import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"

@@ -7,7 +7,7 @@ import {
   SyntaxKind,
   setNodePositionFromTs,
   type UnaryOperator,
-} from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
+} from "../lua-ast-core/lua-ast-core.module.code.ts"
 import type { Block } from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import {
   type AssignmentStatement,

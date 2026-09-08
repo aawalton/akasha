@@ -1,11 +1,11 @@
 import type * as ts from "typescript"
-import type { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import {
   type Node,
   NodeFlags,
   SyntaxKind,
   setNodePositionFromTs,
-} from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
+} from "../lua-ast-core/lua-ast-core.module.code.ts"
+import type { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import type {
   AssignmentLeftHandSideExpression,
   Expression,

@@ -1,5 +1,5 @@
 import type { SourceNode } from "source-map"
-import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
+import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import {

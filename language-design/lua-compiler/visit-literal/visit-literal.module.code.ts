@@ -3,6 +3,7 @@ import * as ts from "typescript"
 import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor, Visitors } from "../context-visitors/context-visitors.module.code.ts"
+import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { trackSymbolReference } from "../symbols/symbols.module.code.ts"
@@ -10,7 +11,6 @@ import {
   undefinedInArrayLiteral,
   unsupportedAccessorInObjectLiteral,
 } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { isArrayType } from "../typescript/typescript.module.code.ts"

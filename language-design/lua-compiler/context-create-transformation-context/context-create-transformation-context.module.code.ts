@@ -20,6 +20,7 @@ import type {
   StatementLikeNode,
   VisitorMap,
 } from "../context-visitors/context-visitors.module.code.ts"
+import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import type { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import type { Scope, ScopeType } from "../scope/scope.module.code.ts"
 import type { SymbolInfo } from "../symbols/symbols.module.code.ts"
@@ -28,7 +29,6 @@ import {
   type OneToManyVisitorResult,
   unwrapVisitorResult,
 } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
-import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { assert, castArray } from "../tstl-utils/tstl-utils.module.code.ts"

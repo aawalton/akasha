@@ -11,6 +11,7 @@ import {
   ContextType,
   getFunctionContextType,
 } from "../function-context/function-context.module.code.ts"
+import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
@@ -20,7 +21,6 @@ import {
   createSelfIdentifier,
   wrapInTable,
 } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
-import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { assert } from "../tstl-utils/tstl-utils.module.code.ts"

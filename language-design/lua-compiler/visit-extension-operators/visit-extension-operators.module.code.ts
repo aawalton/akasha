@@ -6,8 +6,8 @@ import {
   getBinaryCallExtensionArgs,
   getUnaryCallExtensionArg,
 } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
+import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import { unsupportedForTarget } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import { assert } from "../tstl-utils/tstl-utils.module.code.ts"
 import type { LanguageExtensionCallTransformerMap } from "../visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
