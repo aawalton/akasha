@@ -1,9 +1,9 @@
 import type { SelectProperty } from "@akasha/pages/select-property"
 
-export const coachingConstraintKind = {
+export const coachingNoteKind = {
   id: "01a0657a-fe00-7149-b974-3ad13dd29e09",
   pageTypeSlug: "select-property",
-  slug: "coaching-constraint-kind",
+  slug: "coaching-note-kind",
   propertySlug: "coaching-constraint-kind",
   definition: "what sort of limit the constraint is",
   values: [
@@ -15,4 +15,4 @@ export const coachingConstraintKind = {
   ],
 } as const satisfies SelectProperty
 
-export type CoachingConstraintKind = (typeof coachingConstraintKind.values)[number]
+export type CoachingConstraintKind = (typeof coachingNoteKind.values)[number]
