@@ -9,8 +9,12 @@ import {
 } from "@akasha/indexes/indexing/testing"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { runChange as renameLocalVariable } from "../../../mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.code.ts"
-import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
-import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { renameCodeToken } from "./rename-code-token.change-checked.code.ts"
 
 afterAll(scratch.sweep)
@@ -32,13 +36,10 @@ const PAGE_BODY = `export const held = 1\n`
 function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, async (world, at, given) => {
     if (at === "change-mechanical-file-content/rename-export") {
-      return widened(renameExport(world, given as Parameters<typeof renameExport>[1]), world.textOf)
+      return renameExport(world, given as Parameters<typeof renameExport>[1])
     }
     if (at === "change-mechanical-file-content/rename-local-variable") {
-      return widened(
-        renameLocalVariable(world, given as Parameters<typeof renameLocalVariable>[1]),
-        world.textOf
-      )
+      return renameLocalVariable(world, given as Parameters<typeof renameLocalVariable>[1])
     }
     return refusing(`\`${at}\` is reached by nothing here`)
   })
@@ -93,10 +94,8 @@ test("an exported name is renamed through every importer", async () => {
   const world = worldIn(root, textIn(root))
   const said = await renameCodeToken(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
   expect(said.refused).toBe(null)
-  expect(said.edits.map((one) => one.path).sort()).toEqual([HELD_CODE, NAMER_CODE])
-  expect(said.edits.find((one) => one.path === HELD_CODE)?.body).toBe(
-    `export const ${CARRIED} = 1\n`
-  )
+  expect([...pathsIn(said)].sort()).toEqual([HELD_CODE, NAMER_CODE])
+  expect(bodiesIn(said, world.base).get(HELD_CODE)).toBe(`export const ${CARRIED} = 1\n`)
 })
 
 test("a rename refuses where a file it would change already reaches the new name", async () => {
@@ -124,9 +123,8 @@ test("a name no export carries is renamed over its own file", async () => {
   const world = heldIn(scratch.rootFor("token-"), LOCAL, BODY)
   const said = await renameCodeToken(world, { at: LOCAL, of: "kept", to: CARRIED })
   expect(said.refused).toBe(null)
-  expect(said.edits.find((one) => one.path === LOCAL)?.body).toBe(BODY.replaceAll("kept", CARRIED))
-  expect(said.edits[0]?.was).toBe(BODY)
-  expect(said.edits[0]?.from).toBe(undefined)
+  expect(bodiesIn(said, world.base).get(LOCAL)).toBe(BODY.replaceAll("kept", CARRIED))
+  expect(said.edits[0]?.kind).toBe("replace")
 })
 
 test("a name the file declares nowhere is refused", async () => {

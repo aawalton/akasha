@@ -1,10 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { indexedRepo, pageOf, put, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { widened } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { type MoveFolderAsked, moveFolder, runChange } from "./move-folder.change-checked.code.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { moveFolder, runChange } from "./move-folder.change-checked.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -57,28 +61,19 @@ const UNDER: readonly string[] = Object.keys(HELD)
 
 function worldIn(root: string): World {
   return worldAt(root, textIn(root), (world, _at, given) =>
-    Promise.resolve(
-      widened(changeImports(world, given as Parameters<typeof changeImports>[1]), world.textOf)
-    )
+    Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
   )
 }
 
-async function answering(world: World, given: MoveFolderAsked): Promise<Answer> {
-  return widened(await moveFolder(world, given), world.textOf)
-}
-
-function unchanged(over: World, given: unknown): Answer {
+function unchanged(given: unknown): Answer {
   const asked = given as { readonly was: string; readonly now: string }
-  const text = over.textOf(asked.was) ?? ""
-  if (asked.was === asked.now) {
-    return { edits: [{ path: asked.now, was: text, body: text }], refused: null }
-  }
-  return { edits: [{ path: asked.now, was: text, body: text, from: asked.was }], refused: null }
+  if (asked.was === asked.now) return { edits: [], refused: null }
+  return { edits: [{ kind: "move", pathFrom: asked.was, pathTo: asked.now }], refused: null }
 }
 
 test("every file under the folder lands beneath the folder it moved to", async () => {
-  const said = await answering(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
-  const paths = said.edits.map((one) => one.path)
+  const said = await moveFolder(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
+  const paths = pathsIn(said)
 
   expect(said.refused).toBeNull()
   expect(paths).toContain(`${INTO}/alpha.module.ts`)
@@ -88,8 +83,8 @@ test("every file under the folder lands beneath the folder it moved to", async (
 })
 
 test("the paths that moved are the paths under the folder and no other", async () => {
-  const said = await answering(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
-  const came = said.edits.map((one) => one.from).filter((one) => one !== undefined)
+  const said = await moveFolder(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
+  const came = said.edits.flatMap((one) => (one.kind === "move" ? [one.pathFrom] : []))
 
   expect([...came].sort()).toEqual([...UNDER])
 })
@@ -108,21 +103,21 @@ test("a file carried with its body unchanged is stated as a move holding no body
 
 test("a reach from one carried file to another is left as that reach is", async () => {
   const root = indexedRepo(HELD)
-  const said = await answering(worldIn(root), { at: FROM, to: INTO })
-  const alpha = said.edits.filter((one) => one.path === `${INTO}/alpha.module.code.ts`)
-  const beta = said.edits.filter((one) => one.path === `${INTO}/beta.module.code.ts`)
+  const world = worldIn(root)
+  const said = await moveFolder(world, { at: FROM, to: INTO })
+  const bodies = bodiesIn(said, world.base)
 
-  expect(alpha).toHaveLength(1)
-  expect(beta).toHaveLength(1)
-  expect(alpha[0]?.body).toEqual(textIn(root)(ALPHA_CODE) ?? "")
-  expect(beta[0]?.body).toEqual(textIn(root)(BETA_CODE) ?? "")
+  expect(bodies.get(`${INTO}/alpha.module.code.ts`)).toEqual(textIn(root)(ALPHA_CODE) ?? "")
+  expect(bodies.get(`${INTO}/beta.module.code.ts`)).toEqual(textIn(root)(BETA_CODE) ?? "")
 })
 
 test("a body outside the folder naming a path that moved is repointed", async () => {
-  const said = await answering(worldIn(indexedRepo(HELD)), { at: FROM, to: INTO })
-  const one = said.edits.find((edit) => edit.path === OUTER_CODE)
+  const world = worldIn(indexedRepo(HELD))
+  const said = await moveFolder(world, { at: FROM, to: INTO })
 
-  expect(one?.body ?? "").toContain("../six/deep/gamma.module.code.ts")
+  expect(bodiesIn(said, world.base).get(OUTER_CODE) ?? "").toContain(
+    "../six/deep/gamma.module.code.ts"
+  )
 })
 
 test("a folder already holding a body at a path the move would write is refused", async () => {
@@ -157,8 +152,8 @@ test("a folder inside the folder that moves is refused", async () => {
 
 test("a body a reach leaves unchanged is stated as no edit beside the move", async () => {
   const root = indexedRepo(HELD)
-  const world = worldAt(root, textIn(root), (over, _at, given) =>
-    Promise.resolve(unchanged(over, given))
+  const world = worldAt(root, textIn(root), (_over, _at, given) =>
+    Promise.resolve(unchanged(given))
   )
   const said = await moveFolder(world, { at: FROM, to: INTO })
 

@@ -2,8 +2,9 @@ import { expect, test } from "bun:test"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import type { Value } from "@akasha/pages/page-value"
 import { runChange as changeValue } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
-import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
+  bodiesIn,
   NOTHING_OVER,
   type Reaching,
   type World,
@@ -15,8 +16,7 @@ import {
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/change-page-property") {
-    const said = changeValue(world, given as Parameters<typeof changeValue>[1])
-    return Promise.resolve(widened(said, world.textOf))
+    return Promise.resolve(changeValue(world, given as Parameters<typeof changeValue>[1]))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
@@ -64,6 +64,7 @@ function worldTold(carried: readonly Carried[], value: Value | null): World {
       propertiesIfNamed: () => carried,
     } as never,
     textOf: () => BODY,
+    base: () => BODY,
     over: NOTHING_OVER,
     reaching: RUNS,
   }
@@ -75,7 +76,7 @@ test("a text property is stated anew in other words", async () => {
   const said = await changePagePropertyText(world, { at: AT, key: "startMode", to: "headless" })
 
   expect(said.refused).toBeNull()
-  expect(said.edits[0]?.body ?? "").toContain(`startMode: "headless"`)
+  expect(bodiesIn(said, world.base).get(AT) ?? "").toContain(`startMode: "headless"`)
 })
 
 test("a key naming no text property is refused by the kind of property named", async () => {

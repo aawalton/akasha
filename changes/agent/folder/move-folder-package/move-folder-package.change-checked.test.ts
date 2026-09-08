@@ -11,8 +11,9 @@ import { runChange as renamePathChange } from "../../../mechanical/file/rename/r
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { runChange as renamePageSlug } from "../../../mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
-import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
+  bodiesIn,
   type Reaching,
   type World,
   worldAt,
@@ -90,16 +91,13 @@ const REACHED = {
 const RUNS: Reaching = async (world, at, given) => {
   const run = REACHED[at as keyof typeof REACHED]
   if (run === undefined) return refusing(`\`${at}\` is reached by nothing here`)
-  return widened(await run(world, given as never), world.textOf)
+  return await run(world, given as never)
 }
 
 function worldIn(): World {
   const root = indexedRepo(HELD)
   return worldAt(root, textIn(root), RUNS)
 }
-
-const pathsOf = (edits: readonly { readonly path: string }[]): readonly string[] =>
-  edits.map((one) => one.path)
 
 test("a path beneath the folder lands beneath the folder that path moved to", () => {
   expect(landingFor(PACKAGE_PAGE, FROM, INTO)).toBe(`${INTO}/code-system.workspace-package.ts`)
@@ -109,34 +107,39 @@ test("every file beneath the package folder is carried", async () => {
   const said = await moveFolderPackage(worldIn(), { at: PACKAGE_PAGE, to: INTO })
 
   expect(said.refused).toBeNull()
-  expect(pathsOf(said.edits)).toContain(`${INTO}/modules/holder/holder.module.ts`)
-  expect(pathsOf(said.edits)).toContain(`${INTO}/modules/holder/holder.module.code.ts`)
+  expect(pathsIn(said)).toContain(`${INTO}/modules/holder/holder.module.ts`)
+  expect(pathsIn(said)).toContain(`${INTO}/modules/holder/holder.module.code.ts`)
 })
 
 test("the package takes the slug naming the folder that package landed in", async () => {
-  const said = await moveFolderPackage(worldIn(), { at: PACKAGE_PAGE, to: INTO })
-  const landed = said.edits.find((one) => one.path === `${INTO}/code.workspace-package.ts`)
+  const world = worldIn()
+  const said = await moveFolderPackage(world, { at: PACKAGE_PAGE, to: INTO })
+  const landed = bodiesIn(said, world.base).get(`${INTO}/code.workspace-package.ts`) ?? ""
 
   expect(said.refused).toBeNull()
-  expect(landed?.body).toContain('"slug": "code"')
-  expect(landed?.body).toContain("export const code = {")
+  expect(landed).toContain('"slug": "code"')
+  expect(landed).toContain("export const code = {")
 })
 
 test("no body is left at the path the package page carried", async () => {
-  const said = await moveFolderPackage(worldIn(), { at: PACKAGE_PAGE, to: INTO })
-  const landed = said.edits.find((one) => one.path === `${INTO}/code.workspace-package.ts`)
+  const world = worldIn()
+  const said = await moveFolderPackage(world, { at: PACKAGE_PAGE, to: INTO })
+  const bodies = bodiesIn(said, world.base)
 
   expect(said.refused).toBeNull()
-  expect(landed?.from).toBe(PACKAGE_PAGE)
-  expect(pathsOf(said.edits)).not.toContain(`${INTO}/code-system.workspace-package.ts`)
+  expect(bodies.get(PACKAGE_PAGE)).toBe(null)
+  expect(bodies.get(`${INTO}/code-system.workspace-package.ts`)).toBe(null)
+  expect(bodies.get(`${INTO}/code.workspace-package.ts`)).not.toBe(null)
 })
 
 test("a body outside reaching in by a relative address is repointed", async () => {
-  const said = await moveFolderPackage(worldIn(), { at: PACKAGE_PAGE, to: INTO })
-  const outer = said.edits.find((one) => one.path === OUTER_CODE)
+  const world = worldIn()
+  const said = await moveFolderPackage(world, { at: PACKAGE_PAGE, to: INTO })
 
   expect(said.refused).toBeNull()
-  expect(outer?.body).toContain("../code/modules/holder/holder.module.code.ts")
+  expect(bodiesIn(said, world.base).get(OUTER_CODE) ?? "").toContain(
+    "../code/modules/holder/holder.module.code.ts"
+  )
 })
 
 test("a page that is no workspace package is refused", async () => {
@@ -157,7 +160,7 @@ test("a folder landing under the name that folder carries leaves the slug alone"
     at: PACKAGE_PAGE,
     to: "akasha/deep/code-system",
   })
-  const landed = pathsOf(said.edits)
+  const landed = pathsIn(said)
 
   expect(said.refused).toBeNull()
   expect(landed).toContain("akasha/deep/code-system/code-system.workspace-package.ts")
@@ -179,5 +182,5 @@ test("a call naming both lands the same edits the change lands", async () => {
   const said = await runChange(worldIn(), { at: PACKAGE_PAGE, to: INTO })
 
   expect(said.refused).toBeNull()
-  expect(pathsOf(said.edits)).toContain(`${INTO}/code.workspace-package.ts`)
+  expect(pathsIn(said)).toContain(`${INTO}/code.workspace-package.ts`)
 })
