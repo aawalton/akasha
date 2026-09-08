@@ -31,6 +31,7 @@ export function transformNumberPrototypeCall(
       return transformLuaLibFunction(context, LuaLibFeature.NumberToFixed, node, caller, ...params)
     default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "number", expressionName))
+      return undefined
   }
 }
 
@@ -107,6 +108,7 @@ export function transformNumberProperty(
 
     default:
       context.addDiagnostic(unsupportedProperty(node.name, "Number", name))
+      return undefined
   }
 }
 
@@ -130,5 +132,6 @@ export function transformNumberConstructorCall(
       return transformLuaLibFunction(context, LuaLibFeature.NumberParseFloat, node, ...parameters)
     default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "Number", methodName))
+      return undefined
   }
 }
