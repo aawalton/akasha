@@ -26,7 +26,7 @@ import {
 
 if (import.meta.main) refuseRetired()
 
-const PREFIX = "[tstl-this-void-self-drop]"
+const PREFIX = "[this-void-self-drop]"
 const AMBIENT_TYPES_REL = "temper/addons/types"
 const SUCCESS_MESSAGE = "No colon-called member declares a sole `this: void`."
 
