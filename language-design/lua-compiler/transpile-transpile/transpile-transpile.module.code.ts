@@ -45,7 +45,7 @@ export function getProgramTranspileResult(
 
   const options = program.getCompilerOptions()
 
-  if (options.tstlVerbose === true) {
+  if (options.verbose === true) {
     console.log("Parsing project settings")
   }
 
