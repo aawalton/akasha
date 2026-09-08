@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every file the repository tracks is claimed by a page.",
       workingMemory:
-        "630 tracked files no page claims, measured by diffing the path index against `git ls-files`, seeded both ways: dotfiles/bin/akasha reads unclaimed, akasha.domain.ts reads claimed. 155 are routes; 149 are cluster-check module bodies whose pages were never written, though 129 claimed check bodies import them; 114 are lua-compiler/lualib/src; the rest are spread over service-system, infrastructure and alan. file-has-its-page cannot reach audit until this is zero.",
+        "Worked by category. `akasha measure-pages` ends with how many files are no page, at 811, up from the 630 counted before: the tree grows faster than the pages are written. Routes are an intent of their own now. Cluster-check module bodies are down to 116 of 155 and a delegate is writing the rest, plainly, the dead-code review being held for the ablation. Left after those: 124 under lua-compiler/lualib/src, then service-system, infrastructure and alan.",
     },
     {
       statement: "The new system carries every check of the old system that still applies.",
