@@ -1,9 +1,10 @@
 import { join } from "node:path"
-import { landingAsked, textAt, wroteAndTook } from "@akasha/command-system/asking"
+import type { Asking as Asked } from "@akasha/changes/mechanical-change-running"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
+import { textAt } from "@akasha/command-system/asking"
 import type { Answer, Given } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
+import { answering, refused } from "@akasha/command-system/calling"
 import { saidBy } from "@akasha/command-system/fault-saying"
-import type { FileEdit } from "@akasha/command-system/landing"
 import { valuesOfType } from "@akasha/indexes"
 import { entriesAt } from "@akasha/pages/page-entries"
 import { besideAt } from "@akasha/pages/page-file-name"
@@ -54,6 +55,18 @@ const JSON_SAID = "--json"
 const BARE = [DRY_RUN_SAID, JSON_SAID]
 
 const NOTHING_NEW = "nothing was played that is not already filed, so nothing landed"
+
+const WRONG = 3
+
+const NOTHING_WRITTEN = `nothing was written — ${DRY_RUN_SAID}`
+
+export const WRITE = "change-mechanical/add-file-of-any-kind"
+
+export type Landing = (
+  root: string,
+  changes: readonly Asked[],
+  message: string
+) => ReturnType<typeof runMechanicalChange>
 
 export type Played = {
   readonly track: unknown
@@ -293,8 +306,8 @@ export function appendedOnto(was: string | null, rows: readonly Value[]): string
   return `${held}${linesOver(rows)}`
 }
 
-function bodied(path: string, text: string): FileEdit {
-  return { path, body: new TextEncoder().encode(text) }
+function bodied(path: string, text: string): Asked {
+  return { at: WRITE, given: { at: path, body: text } }
 }
 
 function appendedBeside(
@@ -302,7 +315,7 @@ function appendedBeside(
   page: string,
   propertySlug: string,
   rows: readonly Value[]
-): FileEdit | { readonly refused: string } {
+): Asked | { readonly refused: string } {
   const at = besideAt(page, propertySlug, JSONL)
   if (at === null) {
     return {
@@ -325,8 +338,8 @@ export function changesFor(
   root: string,
   heardPage: string,
   planned: Planned
-): readonly FileEdit[] | { readonly refused: string } {
-  const changes: FileEdit[] = []
+): readonly Asked[] | { readonly refused: string } {
+  const changes: Asked[] = []
   if (planned.heard.length > 0) {
     const edit = appendedBeside(root, heardPage, TRACKS, planned.heard)
     if ("refused" in edit) return edit
@@ -391,10 +404,19 @@ export function jsonOf(planned: Planned): string {
   })
 }
 
+function wouldWrite(changes: readonly Asked[]): readonly string[] {
+  const said: string[] = []
+  for (const one of changes) {
+    if (one.at === WRITE) said.push(`would write ${one.given.at}`)
+  }
+  return said
+}
+
 export async function capturing(
   argv: readonly string[],
   given: Given,
-  plays: Plays
+  plays: Plays,
+  landing: Landing = runMechanicalChange
 ): Promise<Answer> {
   const held = taken(argv)
   if ("refused" in held) return refused(held.refused, INPUT)
@@ -416,20 +438,15 @@ export async function capturing(
   }
   const changes = changesFor(given.root, filed.heardPage, planned)
   if ("refused" in changes) return refused(changes.refused, DATA)
-  const answer = await landingAsked(given, {
-    changes,
-    message: messageFor(planned),
-    dryRun: held.dryRun,
-    glass: null,
-    unmoved: [],
-    saying: wroteAndTook,
-  })
-  if (answer.code !== 0) return answer
-  return {
-    report: held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...answer.report],
-    refusals: [],
-    code: 0,
+  if (held.dryRun) {
+    const said = [...wouldWrite(changes), NOTHING_WRITTEN]
+    return answering(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...said], [], 0)
   }
+  const landed = await landing(given.root, changes, messageFor(planned))
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  if (wrong.length > 0) return answering([], wrong, WRONG)
+  const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
+  return answering(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...wrote], [], 0)
 }
 
 export function musicCapture(argv: readonly string[], given: Given): Promise<Answer> {

@@ -7,6 +7,7 @@ export const musicCapture = {
   definition: "the command filing what Alan played on Spotify onto the ESO days he played it in",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   changeKindSlug: "change-mechanical",
   taking: [
     { said: "--dry-run", takes: "say what would land and write nothing" },
@@ -48,6 +49,19 @@ export const musicCapture = {
     {
       invariantKind: "departure",
       statement: "A run recording nothing lands nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is written through the change working out what kind of path it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The landing a page goes through is handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run saying to write nothing reaches no landing and names what would be written.",
     },
     {
       invariantKind: "absence",

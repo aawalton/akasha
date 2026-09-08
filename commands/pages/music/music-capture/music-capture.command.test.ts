@@ -1,102 +1,51 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Given } from "@akasha/command-system/calling"
+import type { Asking as Asked } from "@akasha/changes/mechanical-change-running"
 import { refusingWith } from "@akasha/command-system/calling/testing"
-import type { FileEdit } from "@akasha/command-system/landing"
-import { rootOf } from "@akasha/command-system/rooting"
 import type { Value } from "@akasha/pages/page-value"
 import {
   appendedOnto,
   askingFor,
   capturing,
-  changesFor,
   filedIn,
-  heardPageIn,
   jsonOf,
   type Ledger,
   type Planned,
-  type Played,
   type Plays,
   plannedOver,
   providerTrackIn,
   readPlay,
   rowsOf,
   taken,
+  WRITE,
 } from "./music-capture.command.code.ts"
-
-const ROOT = rootOf(process.cwd())
-
-const DAYS = "alan/tracking/daily/eso-days/pages"
-
-const FILED_DAY = `${DAYS}/2026-08-21/eso-day-2026-08-21.eso-day`
-
-const NEW_DAY = `${DAYS}/2026-09-02/eso-day-2026-09-02.eso-day`
-
-const FILED_PLAY_KEY = "4epeNxtHy14CVAP1rePJCs@2026-08-21T12:31:13.556Z"
-
-const FILED_HEARD_ID = "4yszZzrtrgEnCiuKNeKbpY"
-
-const NONE: Ledger = {
-  playKeys: new Set(),
-  heardIds: new Set(),
-  heardKeys: new Set(),
-  newestPlayedAt: null,
-}
-
-const LEDGER: Ledger = { ...NONE, newestPlayedAt: "2026-08-20T00:00:00.000Z" }
-
-const GIVEN: Given = { root: ROOT, calledAs: "akasha", from: ".", writer: null, agentId: null }
-
-function playOf(id: string, at: string, name: string, artist: string, ms = 120_000): Played {
-  return { track: { id, name, duration_ms: ms, artists: [{ name: artist }] }, played_at: at }
-}
-
-function foldedInto(ledger: Ledger, planned: Planned): Ledger {
-  const playKeys = new Set(ledger.playKeys)
-  const heardIds = new Set(ledger.heardIds)
-  const heardKeys = new Set(ledger.heardKeys)
-  let newestPlayedAt = ledger.newestPlayedAt
-  for (const rows of planned.listens.values()) {
-    for (const one of rows) {
-      playKeys.add(String(one["playKey"]))
-      const at = String(one["playedAt"])
-      if (newestPlayedAt === null || at > newestPlayedAt) newestPlayedAt = at
-    }
-  }
-  for (const one of planned.heard) {
-    heardIds.add(String(one["spotifyTrackId"]))
-    heardKeys.add(String(one["titleKey"]))
-  }
-  return { playKeys, heardIds, heardKeys, newestPlayedAt }
-}
+import {
+  bodyAt,
+  changesOver,
+  FILED_DAY,
+  FILED_HEARD_ID,
+  FILED_PLAY_KEY,
+  foldedInto,
+  GIVEN,
+  LANDED,
+  LEDGER,
+  landingTelling,
+  ledgerPage,
+  NEW_DAY,
+  NONE,
+  PROBE_PLAYS,
+  pathsOf,
+  playOf,
+  ROOT,
+  TOLD_NOTHING,
+  type Told,
+} from "./music-capture.command.test-fixtures.ts"
 
 const refusalOf = refusingWith(taken)
 
 function rowsIn(planned: Planned, day: string): readonly Value[] {
   return planned.listens.get(day) ?? []
-}
-
-function ledgerPage(): string {
-  const page = heardPageIn(ROOT)
-  if (typeof page !== "string") throw new Error(`no one heard music page — ${page.refused}`)
-  return page
-}
-
-function changesOver(at: string): readonly FileEdit[] {
-  const planned = plannedOver([playOf("probe-track-nine", at, "Probe Nine", "Probe Artist Nine")], {
-    ...NONE,
-    newestPlayedAt: "2026-08-21T00:00:00.000Z",
-  })
-  const changes = changesFor(ROOT, ledgerPage(), planned)
-  if ("refused" in changes) throw new Error(`the changes were refused — ${changes.refused}`)
-  return changes
-}
-
-function bodyAt(changes: readonly FileEdit[], path: string): string {
-  const found = changes.find((one) => one.path === path)
-  if (found?.body == null) throw new Error(`no change was made for ${path}`)
-  return new TextDecoder().decode(found.body)
 }
 
 test("a flag this takes nothing of is refused", () => {
@@ -327,9 +276,14 @@ test("a heard track appended keeps every track the ledger already named", () => 
 })
 
 test("a day with no page of its own gets one written beside the day it names", () => {
-  const paths = changesOver("2026-09-02T12:00:00.000Z").map((one) => one.path)
+  const paths = pathsOf(changesOver("2026-09-02T12:00:00.000Z"))
   expect(paths).toContain(`${NEW_DAY}.ts`)
   expect(paths).toContain(`${NEW_DAY}.listens.jsonl`)
+})
+
+test("every change named is the change writing whatever kind of path it is handed", () => {
+  const changes = changesOver("2026-09-02T12:00:00.000Z")
+  expect(changes.map((one) => one.at)).toEqual(changes.map(() => WRITE))
 })
 
 test("a run that fetches nothing lands nothing and says so", async () => {
@@ -358,4 +312,44 @@ test("what was filed is said as rows or as JSON", () => {
     esoDays: ["2026-08-21"],
     primed: false,
   })
+})
+
+test("what capture files is named to the landing at the change writing any path", async () => {
+  let asked: readonly Asked[] = []
+  let message = ""
+  const told: Told = (changes, said) => {
+    asked = changes
+    message = said
+    return undefined
+  }
+  const answer = await capturing([], GIVEN, PROBE_PLAYS, landingTelling(told))
+  expect(answer.refusals).toEqual([])
+  expect(answer.code).toBe(0)
+  expect(message).toContain("listen(s) over")
+  expect(pathsOf(asked)).toContain(`${NEW_DAY}.listens.jsonl`)
+  expect(asked.map((one) => one.at)).toEqual(asked.map(() => WRITE))
+})
+
+test("a run saying to write nothing reaches no landing and names what would be written", async () => {
+  const answer = await capturing(["--dry-run"], GIVEN, PROBE_PLAYS, () => {
+    throw new Error("a dry run reached the landing")
+  })
+  expect(answer.code).toBe(0)
+  expect(answer.report).toContain("nothing was written — --dry-run")
+  expect(answer.report.some((one) => one.startsWith("would write "))).toBe(true)
+})
+
+test("a landing that refused is answered with the refusal and nothing filed", async () => {
+  const held = landingTelling(TOLD_NOTHING, { refusals: ["the lock was held"] })
+  const answer = await capturing([], GIVEN, PROBE_PLAYS, held)
+  expect(answer.code).toBe(3)
+  expect(answer.refusals).toEqual(["the lock was held"])
+  expect(answer.report).toEqual([])
+})
+
+test("what landed is reported under the rows saying what was filed", async () => {
+  const held = landingTelling(TOLD_NOTHING, { ...LANDED, landed: ["one/day.listens.jsonl"] })
+  const answer = await capturing([], GIVEN, PROBE_PLAYS, held)
+  expect(answer.report[0]).toBe("fetched\t1")
+  expect(answer.report).toContain("wrote one/day.listens.jsonl")
 })
