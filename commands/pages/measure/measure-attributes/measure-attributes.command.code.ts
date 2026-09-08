@@ -1,7 +1,6 @@
 import { asking } from "@akasha/pages-service/asking"
+import { pointsTotalKept } from "../../../../alan/attributes/points/attribute-points.module.code.ts"
 import { levelOf } from "../../../../alan/attributes/properties/attribute-level.computed-property.code.ts"
-import type { Taken } from "../../../../alan/harness/attributes/reading/attributes-reading.module.code.ts"
-import { totalAttributes } from "../../../../alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
 import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
 
 const READOUT = "readout"
@@ -10,9 +9,11 @@ const GROUP = "attributes"
 
 const PLACES = 2
 
-const NOTHING_READ =
-  "no attribute could be worked out, so there is nothing to say. A figure Alan did not earn " +
+const NOTHING_KEPT =
+  "no attribute carries a total, so there is nothing to say. A figure Alan did not earn " +
   "would be a lie, and no figure at all is not a figure of zero."
+
+const NONE_KEPT = "no total is kept beside this attribute's page"
 
 export type Measured = {
   readonly label: string
@@ -20,51 +21,58 @@ export type Measured = {
   readonly figure: number
 }
 
+export type Drawn = {
+  readonly label: string
+  readonly place: number
+  readonly attributeSlug: string
+}
+
+export type Read = {
+  readonly measured: readonly Measured[]
+  readonly unread: readonly string[]
+}
+
 export function flooredTo(value: number, places: number): number {
   const scale = 10 ** places
   return Math.floor(value * scale) / scale
 }
 
-function slugIn(path: string): string {
-  const parts = path.split("/")
-  return parts[parts.length - 2] ?? ""
-}
-
-type Drawn = { readonly label: string; readonly place: number }
-
-export function drawnIn(root: string): ReadonlyMap<string, Drawn> {
-  const found = new Map<string, Drawn>()
+export function drawnIn(root: string): readonly Drawn[] {
+  const found: Drawn[] = []
   const asked = asking(root, {
     pageTypeSlug: READOUT,
-    keys: ["slug", "label", "place", "groupSlugs"],
+    keys: ["slug", "label", "place", "groupSlugs", "attributeSlug"],
   } as never)
   if ("refused" in asked) throw new Error(asked.refused)
   for (const row of asked.rows) {
     const one = row as Readonly<Record<string, unknown>>
     const groups = one["groupSlugs"]
     if (!Array.isArray(groups) || !groups.includes(GROUP)) continue
-    const slug = String(one["slug"] ?? "")
-    const label = String(one["label"] ?? slug)
+    const attributeSlug = String(one["attributeSlug"] ?? "")
+    if (attributeSlug === "") continue
+    const label = String(one["label"] ?? one["slug"] ?? "")
     const place = typeof one["place"] === "number" ? one["place"] : 0
-    found.set(slug, { label, place })
+    found.push({ label, place, attributeSlug })
   }
+  found.sort((one, two) => one.place - two.place)
   return found
 }
 
-export function measuredIn(taken: Taken, drawn: ReadonlyMap<string, Drawn>): readonly Measured[] {
-  const held: (Measured & { place: number })[] = []
-  for (const [path, value] of Object.entries(taken.kept)) {
-    const shown = drawn.get(slugIn(path))
-    if (shown === undefined) continue
-    held.push({
-      label: shown.label,
-      level: levelOf(value),
-      figure: flooredTo(value, PLACES),
-      place: shown.place,
-    })
+export function measuredIn(
+  drawn: readonly Drawn[],
+  totalOf: (slug: string) => number | null
+): Read {
+  const measured: Measured[] = []
+  const unread: string[] = []
+  for (const one of drawn) {
+    const total = totalOf(one.attributeSlug)
+    if (total === null) {
+      unread.push(`${one.label} — ${NONE_KEPT}`)
+      continue
+    }
+    measured.push({ label: one.label, level: levelOf(total), figure: flooredTo(total, PLACES) })
   }
-  held.sort((one, two) => one.place - two.place)
-  return held.map((one) => ({ label: one.label, level: one.level, figure: one.figure }))
+  return { measured, unread }
 }
 
 function widestOf(values: readonly string[]): number {
@@ -86,15 +94,14 @@ export function linesOf(measured: readonly Measured[]): readonly string[] {
   )
 }
 
-export async function measureAttributes(_argv: readonly string[], given: Given): Promise<Answer> {
-  const taken = await totalAttributes(given.root)
-  const measured = measuredIn(taken, drawnIn(given.root))
-  if (measured.length === 0) {
-    return { report: [], refusals: [NOTHING_READ, ...taken.unread], code: 2 }
+export function measureAttributes(_argv: readonly string[], given: Given): Answer {
+  const read = measuredIn(drawnIn(given.root), (slug) => pointsTotalKept(given.root, slug))
+  if (read.measured.length === 0) {
+    return { report: [], refusals: [NOTHING_KEPT, ...read.unread], code: 2 }
   }
-  const said = [...linesOf(measured)]
+  const said = [...linesOf(read.measured)]
   return {
-    report: taken.unread.length === 0 ? said : [...said, "", ...taken.unread],
+    report: read.unread.length === 0 ? said : [...said, "", ...read.unread],
     refusals: [],
     code: 0,
   }

@@ -1,16 +1,14 @@
 import { expect, test } from "bun:test"
-import { flooredTo, linesOf, measuredIn } from "./measure-attributes.command.code.ts"
+import { type Drawn, flooredTo, linesOf, measuredIn } from "./measure-attributes.command.code.ts"
 
-const DRAWN = new Map([
-  ["attribute-strength", { label: "Strength", place: 1 }],
-  ["attribute-charisma", { label: "Charisma", place: 6 }],
-])
+const DRAWN: readonly Drawn[] = [
+  { label: "Strength", place: 1, attributeSlug: "strength" },
+  { label: "Charisma", place: 6, attributeSlug: "charisma" },
+]
 
-const AT = "readout-system/readouts/pages"
+const KEPT: Readonly<Record<string, number>> = { strength: 45.44, charisma: 1.5 }
 
-const STRENGTH = `${AT}/attribute-strength/attribute-strength.readout.ts`
-
-const CHARISMA = `${AT}/attribute-charisma/attribute-charisma.readout.ts`
+const totalOf = (slug: string) => KEPT[slug] ?? null
 
 test("a figure is floored to two places rather than rounded", () => {
   expect(flooredTo(2.703413740236413, 2)).toBe(2.7)
@@ -19,20 +17,17 @@ test("a figure is floored to two places rather than rounded", () => {
   expect(flooredTo(0, 2)).toBe(0)
 })
 
-test("the attributes come back in the order their readouts state", () => {
-  const taken = { kept: { [CHARISMA]: 1.5, [STRENGTH]: 45.44 }, unread: [] }
-  expect(measuredIn(taken, DRAWN)).toEqual([
+test("the total shown is the one kept beside that attribute's page", () => {
+  expect(measuredIn(DRAWN, totalOf).measured).toEqual([
     { label: "Strength", level: 3, figure: 45.44 },
     { label: "Charisma", level: 0, figure: 1.5 },
   ])
 })
 
-test("a reading whose readout is drawn in no group here is left out", () => {
-  const taken = {
-    kept: { "readout-system/readouts/pages/plants/plants.readout.ts": 4 },
-    unread: [],
-  }
-  expect(measuredIn(taken, DRAWN)).toEqual([])
+test("an attribute carrying no total is named rather than drawn at level 0", () => {
+  const read = measuredIn([{ label: "Wisdom", place: 4, attributeSlug: "wisdom" }], totalOf)
+  expect(read.measured).toEqual([])
+  expect(read.unread).toEqual(["Wisdom — no total is kept beside this attribute's page"])
 })
 
 test("the labels are padded so the levels and the totals line up", () => {

@@ -9,17 +9,17 @@ export const measureAttributes = {
   test: "ts",
   changeKindSlug: "change-mechanical",
   helpNotes: [
-    "the level and the total are worked out at the moment of asking rather than read off the tiles.",
-    "a total is an attribute's daily points added up over the days from 2026-09-06 onward.",
+    "the total is the one kept beside the attribute's own page rather than added up again here.",
+    "`akasha refresh attributes` rebuilds a total that has fallen behind the days.",
     "a level is the highest rung a total has reached, each climb costing 10, 10, 20, 30, 50, 80 points and on up the Fibonacci numbers.",
     "a level is a whole number, and a total is floored to two decimal places, so a total short of a hundredth reads `0.00`.",
-    "an attribute nothing can be read for is named beneath the lines rather than drawn at level 0.",
+    "an attribute carrying no total is named beneath the lines rather than drawn at level 0.",
     "the attributes sit in the order their readouts state.",
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each figure is worked out when the command is called.",
+      statement: "Each total is read off the attribute's page rather than worked out here.",
     },
     {
       invariantKind: "departure",
@@ -31,8 +31,7 @@ export const measureAttributes = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A total is the sum of an attribute's points over the days from 2026-09-06 onward.",
+      statement: "The attribute a line is for is the one that line's readout names.",
     },
     {
       invariantKind: "departure",
@@ -56,12 +55,16 @@ export const measureAttributes = {
     },
     {
       invariantKind: "departure",
-      statement: "An attribute that could not be read is named rather than answered as zero.",
+      statement: "An attribute carrying no total is named rather than answered as zero.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An attribute that could not be read is left out of the lines rather than shown at level 0.",
+        "An attribute carrying no total is left out of the lines rather than shown at level 0.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A run adds no day up and asks no store what Alan tracked.",
     },
     {
       invariantKind: "departure",
