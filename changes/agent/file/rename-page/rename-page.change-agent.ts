@@ -20,5 +20,29 @@ export const renamePage = {
       invariantKind: "departure",
       statement: "The slug is restated at the path the carry lands the page at.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The keys holding a file are read from the page's own type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key that type does not declare is looked for among every page property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest naming a carried file as a way in states the new path for that way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A way whose name closes with the old slug closes with the new slug instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body reaching the page through the old way reaches the page through the new.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page no manifest names as a way in leaves every manifest as that manifest is.",
+    },
   ],
 } as const satisfies ChangeAgent
