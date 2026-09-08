@@ -75,6 +75,7 @@ function worldTold(told: Told): World {
       pageAt: () => ("page" in told ? told.page : PARENT),
     } as never,
     textOf: () => null,
+    base: () => null,
     over: NOTHING_OVER,
   }
 }
