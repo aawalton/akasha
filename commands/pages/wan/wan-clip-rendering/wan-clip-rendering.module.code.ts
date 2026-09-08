@@ -1,8 +1,8 @@
-import { webcrypto } from "node:crypto"
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
 import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-client"
+import { drawSeed } from "@akasha/inference-clients/inference-seed"
 import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
 import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import {
@@ -20,9 +20,9 @@ import {
 } from "@akasha/wan/wan-extend-graph"
 import { buildI2vGraph } from "@akasha/wan/wan-i2v-graph"
 import { parseSizeOrNull } from "@akasha/wan/wan-size"
-import type { Answer, Given } from "../../../calling/calling.module.code.ts"
-import { refused } from "../../../calling/calling.module.code.ts"
-import { whyOf } from "../../../fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
 import type { Act, Taken } from "../wan-arguing/wan-arguing.module.code.ts"
 import { at, EXTEND, GENERATE, numberIn } from "../wan-arguing/wan-arguing.module.code.ts"
 import { framesIn, homeIn, portIn, sizeIn } from "../wan-hosting/wan-hosting.module.code.ts"
@@ -36,12 +36,6 @@ const HOST = "workstation"
 const NEW_FRAMES_FLOOR = 13
 
 const DIRECTIONS = ["forward", "back"] as const
-
-function drawSeed(): number {
-  const held = new Uint32Array(1)
-  webcrypto.getRandomValues(held)
-  return (held[0] ?? 0) & (2 ** 31 - 1)
-}
 
 function madeOf(calledAs: string, act: Act, argv: readonly string[]): string {
   const quoted = argv.map((one) => (/\s/.test(one) ? `'${one}'` : one))
