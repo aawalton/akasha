@@ -8,7 +8,7 @@ export const heldAddonNamesARosterAddon = {
     "the check refusing a held addon page naming an addon the roster finds nowhere or elsewhere",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
