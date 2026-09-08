@@ -167,12 +167,21 @@ test("a day holding stretches of time and no sleep refuses", () => {
   expect(refusalIn(wakeDayWindowIn(root, SLEPT))).toContain("when Alan woke is not recorded")
 })
 
-test("a day with no sleep at all is spanned from six in the morning in New York", () => {
+test("a day with no sleep at all is spanned from six the previous evening in New York", () => {
   const root = worldFiled("akasha-wake-fallback-")
   dayFiled(root, SLEPT, [SLEPT_ROWS[1]])
   expect(spannedWindowIn(root, SLEPT)).toEqual({
-    from: "2026-07-04T10:00:00.000Z",
+    from: "2026-07-03T22:00:00.000Z",
     to: "2026-07-05T04:00:00.000Z",
+  })
+})
+
+test("a day whose next day records no sleep closes at six that evening in New York", () => {
+  const root = worldFiled("akasha-wake-fallback-end-")
+  dayFiled(root, NEXT, [SLEPT_ROWS[1]])
+  expect(spannedWindowIn(root, SLEPT)).toEqual({
+    from: "2026-07-04T04:00:00.000Z",
+    to: "2026-07-04T22:00:00.000Z",
   })
 })
 

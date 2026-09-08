@@ -304,7 +304,8 @@ export const wakeDay = {
     },
     {
       invariantKind: "departure",
-      statement: "A day whose waking cannot be found starts at six in the morning in New York.",
+      statement:
+        "A day whose opening sleep cannot be found starts at six the previous evening in New York.",
     },
   ],
 } as const satisfies PageType

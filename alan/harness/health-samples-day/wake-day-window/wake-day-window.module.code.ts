@@ -156,8 +156,8 @@ export function spannedWindowIn(root: string, dayStr: string): DayWindow | Refus
   const woke = wakeInstantOn(root, dayStr)
   const next = wakeInstantOn(root, dayAfter(dayStr))
   return {
-    from: ("refused" in woke ? eso.start : woke).toISOString(),
-    to: ("refused" in next ? eso.end : next).toISOString(),
+    from: ("refused" in woke ? eveningOf(dayBefore(dayStr)) : woke).toISOString(),
+    to: ("refused" in next ? eveningOf(dayStr) : next).toISOString(),
   }
 }
 

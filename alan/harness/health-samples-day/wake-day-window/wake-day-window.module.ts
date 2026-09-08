@@ -64,11 +64,11 @@ export const wakeDayWindow = {
     },
     {
       invariantKind: "departure",
-      statement: "A day whose next wake is not recorded closes at the ESO day's own end.",
+      statement: "A day whose next opening is not recorded closes at six that evening in New York.",
     },
     {
       invariantKind: "departure",
-      statement: "The day being lived closes at the ESO day's own end.",
+      statement: "The day being lived closes at six that evening in New York.",
     },
     {
       invariantKind: "departure",
