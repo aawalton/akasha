@@ -51,7 +51,7 @@ export function rowsInto(
 }
 
 export function costsOf(checks: readonly CheckCost[]): Costs {
-  return { checks, total: { runs: 0, cpu: null }, unread: [], other: [] }
+  return { checks, total: { runs: 0, cpu: null, paths: 0, refusals: 0 }, unread: [], other: [] }
 }
 
 export function spacedOnce(said: string | undefined): string {

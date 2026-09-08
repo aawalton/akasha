@@ -233,7 +233,7 @@ test("one run's runs are the runs of every check that run judged", () => {
   const costs = costsIn(root, NOW, ONE_RUN)
 
   expect(costs.checks.map((one) => one.check)).toEqual(["two", "one"])
-  expect(costs.total).toEqual({ runs: 1, cpu: 5 })
+  expect(costs.total).toEqual({ runs: 1, cpu: 5, paths: 1, refusals: 0 })
 })
 
 test("the total shares the processor time over the distinct runs read", () => {
@@ -245,25 +245,30 @@ test("the total shares the processor time over the distinct runs read", () => {
     ].join("\n")
   )
 
-  expect(totalOf(runs)).toEqual({ runs: 2, cpu: 5 })
+  expect(totalOf(runs)).toEqual({ runs: 2, cpu: 5, paths: 2, refusals: 0 })
 })
 
 test("no run at all totals no processor time rather than a time of zero", () => {
-  expect(totalOf(runsIn(lineOf({ phase: "patch", runId: ONE })))).toEqual({ runs: 1, cpu: 0 })
-  expect(totalOf([])).toEqual({ runs: 0, cpu: null })
+  expect(totalOf(runsIn(lineOf({ phase: "patch", runId: ONE })))).toEqual({
+    runs: 1,
+    cpu: 0,
+    paths: 1,
+    refusals: 0,
+  })
+  expect(totalOf([])).toEqual({ runs: 0, cpu: null, paths: 0, refusals: 0 })
 })
 
 test("the total sits beneath the table with its memory drawn absent", () => {
   const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 2 })))
   const said = linesOf({
     checks: [cost],
-    total: { runs: 1, cpu: 2 },
+    total: { runs: 1, cpu: 2, paths: 1, refusals: 0 },
     unread: [],
     other: [],
   })
 
   expect(spacedOnce(said[2])).toBe("")
-  expect(spacedOnce(said[3])).toBe("total 1 2.000s -")
+  expect(spacedOnce(said[3])).toBe("total 1 2.000s - 1 0")
 })
 
 test("how many runs a check holds is counted beside its averages", () => {
@@ -290,15 +295,15 @@ test("a check no run was judged at carries no average rather than an average of 
   expect(cost.mem).toBe(null)
   const said = linesOf(costsOf([cost]))[1] ?? ""
 
-  expect(spacedOnce(said)).toBe("one 0 - -")
+  expect(spacedOnce(said)).toBe("one 0 - - 0 0")
 })
 
 test("the table carries one set of columns for the phase read", () => {
   const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 0 })))
   const said = linesOf(costsOf([cost]))
 
-  expect(spacedOnce(said[0])).toBe("check runs cpu mem")
-  expect(spacedOnce(said[1])).toBe("one 1 0.000s 0 B")
+  expect(spacedOnce(said[0])).toBe("check runs cpu mem paths refusals")
+  expect(spacedOnce(said[1])).toBe("one 1 0.000s 0 B 1 0")
 })
 
 test("checks are ordered by what their runs took, and equal times by name", () => {
@@ -395,7 +400,7 @@ test("a count of bytes is rounded to the whole byte before it is scaled", () => 
 test("a root holding no checks answers no check rather than throwing", () => {
   expect(costsIn(scratch.rootFor("check-measuring-empty-"), NOW, ONE_RUN)).toEqual({
     checks: [],
-    total: { runs: 0, cpu: null },
+    total: { runs: 0, cpu: null, paths: 0, refusals: 0 },
     unread: [],
     other: [],
   })
