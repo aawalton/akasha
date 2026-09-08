@@ -109,6 +109,7 @@ export const clusterCheck = {
     "text-property/under",
     "module/retired",
     "module/ts-this-void-self-drop",
+    "module/ts-tstl-object-literal-self",
   ],
   properties: [
     {
