@@ -14,8 +14,12 @@ import {
   seenIn,
   staleAmong,
 } from "@akasha/seat-system/subagent-census"
+import {
+  type Answer,
+  answering,
+  type Given,
+} from "../../../command-system/calling/calling.module.code.ts"
 import { transcriptOf } from "../../../seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
-import { type Answer, answering, type Given } from "../../calling/calling.module.code.ts"
 
 const REMOVE = "--remove"
 
