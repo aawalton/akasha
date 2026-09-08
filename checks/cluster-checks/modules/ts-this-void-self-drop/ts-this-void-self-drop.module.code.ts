@@ -1,13 +1,13 @@
 import ts from "typescript"
 
-export type TstlThisVoidSelfDropKind = "constructor" | "control-method" | "xml-handler"
+export type ThisVoidSelfDropKind = "constructor" | "control-method" | "xml-handler"
 
 export interface ThisVoidSelfDropFinding {
   readonly file: string
   readonly line: number
   readonly column: number
   readonly name: string
-  readonly kind: TstlThisVoidSelfDropKind
+  readonly kind: ThisVoidSelfDropKind
 }
 
 const CONSTRUCTOR_NAMES: ReadonlySet<string> = new Set(["New", "Subclass"])
@@ -140,7 +140,7 @@ function matchedKind(
   member: ts.MethodSignature | ts.PropertySignature,
   name: string | undefined,
   controlFamily: ReadonlySet<string>
-): TstlThisVoidSelfDropKind | undefined {
+): ThisVoidSelfDropKind | undefined {
   if (name !== undefined && CONSTRUCTOR_NAMES.has(name)) return "constructor"
   if (inControlIntersection(member, controlFamily)) return "control-method"
   return undefined
@@ -197,7 +197,7 @@ export function scanTstlThisVoidSelfDrop(
   const filePath = sf.fileName
   const out: ThisVoidSelfDropFinding[] = []
 
-  function pushAt(nameNode: ts.Node, name: string, kind: TstlThisVoidSelfDropKind): undefined {
+  function pushAt(nameNode: ts.Node, name: string, kind: ThisVoidSelfDropKind): undefined {
     const { line, character } = ts.getLineAndCharacterOfPosition(sf, nameNode.getStart(sf))
     out.push({ file: filePath, line: line + 1, column: character + 1, name, kind })
     return
