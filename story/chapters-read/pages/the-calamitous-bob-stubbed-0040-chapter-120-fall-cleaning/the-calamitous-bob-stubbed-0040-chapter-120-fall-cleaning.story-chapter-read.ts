@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0040Chapter120FallCleaning = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0040-chapter-120-fall-cleaning",
   title: "Chapter 120: Fall Cleaning",
-  partOfSlugs: ["the-calamitous-bob-stubbed"],
+  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
   position: 40,
   ownLength: 5231,
   unitSlug: "words",

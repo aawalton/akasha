@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0040Chapter39TheDebriefing = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0040-chapter-39-the-debriefing",
   title: "Chapter 39: The Debriefing",
-  partOfSlugs: ["system-girl-system-mc-world-hopping-comedy"],
+  partOfCollectionSlugs: ["system-girl-system-mc-world-hopping-comedy"],
   position: 40,
   ownLength: 1820,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0006Chapter6ForewarnedIsForearmed = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0006-chapter-6-forewarned-is-forearmed",
   title: "Chapter 6: Forewarned is Forearmed",
-  partOfSlugs: ["the-gift-of-loot"],
+  partOfCollectionSlugs: ["the-gift-of-loot"],
   position: 6,
   ownLength: 2253,
   unitSlug: "words",

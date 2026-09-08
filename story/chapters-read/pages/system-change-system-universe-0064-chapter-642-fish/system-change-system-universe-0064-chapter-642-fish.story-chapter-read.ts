@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0064Chapter642Fish = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0064-chapter-642-fish",
   title: "Chapter 642: Fish...",
-  partOfSlugs: ["system-change-system-universe"],
+  partOfCollectionSlugs: ["system-change-system-universe"],
   position: 64,
   ownLength: 2073,
   unitSlug: "words",

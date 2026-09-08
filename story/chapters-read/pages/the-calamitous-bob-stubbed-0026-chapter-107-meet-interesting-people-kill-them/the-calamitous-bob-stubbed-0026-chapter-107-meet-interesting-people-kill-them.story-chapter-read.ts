@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0026Chapter107MeetInterestingPeopleKillThem 
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0026-chapter-107-meet-interesting-people-kill-them",
   title: "Chapter 107: Meet interesting people. Kill them",
-  partOfSlugs: ["the-calamitous-bob-stubbed"],
+  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
   position: 26,
   ownLength: 6293,
   unitSlug: "words",

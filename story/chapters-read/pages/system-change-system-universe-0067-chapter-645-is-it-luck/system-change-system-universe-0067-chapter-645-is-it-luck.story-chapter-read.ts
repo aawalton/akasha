@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0067Chapter645IsItLuck = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0067-chapter-645-is-it-luck",
   title: "Chapter 645: Is it Luck?",
-  partOfSlugs: ["system-change-system-universe"],
+  partOfCollectionSlugs: ["system-change-system-universe"],
   position: 67,
   ownLength: 2942,
   unitSlug: "words",

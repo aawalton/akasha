@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0006Chapter87Gone = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0006-chapter-87-gone",
   title: "Chapter 87: Gone.",
-  partOfSlugs: ["the-calamitous-bob-stubbed"],
+  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
   position: 6,
   ownLength: 4465,
   unitSlug: "words",

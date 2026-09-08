@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0018Chapter99TheTasteOfFreedom = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0018-chapter-99-the-taste-of-freedom",
   title: "Chapter 99: The Taste of Freedom",
-  partOfSlugs: ["the-calamitous-bob-stubbed"],
+  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
   position: 18,
   ownLength: 5568,
   unitSlug: "words",

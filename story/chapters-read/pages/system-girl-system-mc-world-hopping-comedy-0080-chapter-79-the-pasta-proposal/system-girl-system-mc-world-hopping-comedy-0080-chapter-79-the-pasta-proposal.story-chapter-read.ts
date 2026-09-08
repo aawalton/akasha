@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0080Chapter79ThePastaProposal =
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0080-chapter-79-the-pasta-proposal",
   title: "Chapter 79: The Pasta Proposal",
-  partOfSlugs: ["system-girl-system-mc-world-hopping-comedy"],
+  partOfCollectionSlugs: ["system-girl-system-mc-world-hopping-comedy"],
   position: 80,
   ownLength: 2629,
   unitSlug: "words",

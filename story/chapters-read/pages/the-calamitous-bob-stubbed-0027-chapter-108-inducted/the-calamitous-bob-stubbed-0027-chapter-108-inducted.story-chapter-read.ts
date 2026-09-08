@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0027Chapter108Inducted = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0027-chapter-108-inducted",
   title: "Chapter 108: Inducted",
-  partOfSlugs: ["the-calamitous-bob-stubbed"],
+  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
   position: 27,
   ownLength: 4836,
   unitSlug: "words",

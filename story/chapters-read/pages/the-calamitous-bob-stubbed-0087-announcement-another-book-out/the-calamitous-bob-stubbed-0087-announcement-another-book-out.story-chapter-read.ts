@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0087AnnouncementAnotherBookOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0087-announcement-another-book-out",
   title: "Announcement: another book out!",
-  partOfSlugs: ["the-calamitous-bob-stubbed"],
+  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
   position: 87,
   ownLength: 154,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0096Chapter95RoyalSchedules = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0096-chapter-95-royal-schedules",
   title: "Chapter 95: Royal Schedules",
-  partOfSlugs: ["system-girl-system-mc-world-hopping-comedy"],
+  partOfCollectionSlugs: ["system-girl-system-mc-world-hopping-comedy"],
   position: 96,
   ownLength: 1946,
   unitSlug: "words",

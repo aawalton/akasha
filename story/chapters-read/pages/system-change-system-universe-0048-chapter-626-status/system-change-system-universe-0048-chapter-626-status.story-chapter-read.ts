@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0048Chapter626Status = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0048-chapter-626-status",
   title: "Chapter 626: Status",
-  partOfSlugs: ["system-change-system-universe"],
+  partOfCollectionSlugs: ["system-change-system-universe"],
   position: 48,
   ownLength: 2083,
   unitSlug: "words",

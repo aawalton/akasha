@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0075Chapter653MuchMore = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0075-chapter-653-much-more",
   title: "Chapter 653: Much More",
-  partOfSlugs: ["system-change-system-universe"],
+  partOfCollectionSlugs: ["system-change-system-universe"],
   position: 75,
   ownLength: 2034,
   unitSlug: "words",

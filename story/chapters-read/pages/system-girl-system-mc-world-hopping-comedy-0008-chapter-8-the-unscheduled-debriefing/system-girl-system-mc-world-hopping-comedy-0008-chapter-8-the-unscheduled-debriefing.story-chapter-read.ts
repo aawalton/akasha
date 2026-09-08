@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0008Chapter8TheUnscheduledDebri
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0008-chapter-8-the-unscheduled-debriefing",
   title: "Chapter 8: The Unscheduled Debriefing",
-  partOfSlugs: ["system-girl-system-mc-world-hopping-comedy"],
+  partOfCollectionSlugs: ["system-girl-system-mc-world-hopping-comedy"],
   position: 8,
   ownLength: 1723,
   unitSlug: "words",

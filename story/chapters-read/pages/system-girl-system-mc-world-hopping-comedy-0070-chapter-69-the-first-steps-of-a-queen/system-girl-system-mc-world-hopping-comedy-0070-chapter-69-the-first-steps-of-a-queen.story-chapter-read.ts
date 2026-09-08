@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0070Chapter69TheFirstStepsOfAQu
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0070-chapter-69-the-first-steps-of-a-queen",
   title: "Chapter 69: The First Steps of a Queen",
-  partOfSlugs: ["system-girl-system-mc-world-hopping-comedy"],
+  partOfCollectionSlugs: ["system-girl-system-mc-world-hopping-comedy"],
   position: 70,
   ownLength: 2654,
   unitSlug: "words",

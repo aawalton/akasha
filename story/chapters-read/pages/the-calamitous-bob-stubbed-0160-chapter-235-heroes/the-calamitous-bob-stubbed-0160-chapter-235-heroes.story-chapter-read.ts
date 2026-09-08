@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0160Chapter235Heroes = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0160-chapter-235-heroes",
   title: "Chapter 235: Heroes",
-  partOfSlugs: ["the-calamitous-bob-stubbed"],
+  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
   position: 160,
   ownLength: 5460,
   unitSlug: "words",

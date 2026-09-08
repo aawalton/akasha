@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0036Chapter116Consequences = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0036-chapter-116-consequences",
   title: "Chapter 116: Consequences",
-  partOfSlugs: ["the-calamitous-bob-stubbed"],
+  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
   position: 36,
   ownLength: 5782,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0104Chapter182SandCastle = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0104-chapter-182-sand-castle",
   title: "Chapter 182: Sand Castle",
-  partOfSlugs: ["the-calamitous-bob-stubbed"],
+  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
   position: 104,
   ownLength: 6331,
   unitSlug: "words",

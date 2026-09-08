@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0136Chapter211TheyWhoKilledAnEmpire = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0136-chapter-211-they-who-killed-an-empire",
   title: "Chapter 211: They Who Killed an Empire",
-  partOfSlugs: ["the-calamitous-bob-stubbed"],
+  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
   position: 136,
   ownLength: 8019,
   unitSlug: "words",

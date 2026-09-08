@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0077Chapter76TheBattlemage = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0077-chapter-76-the-battlemage",
   title: "Chapter 76: The Battlemage",
-  partOfSlugs: ["system-girl-system-mc-world-hopping-comedy"],
+  partOfCollectionSlugs: ["system-girl-system-mc-world-hopping-comedy"],
   position: 77,
   ownLength: 2223,
   unitSlug: "words",

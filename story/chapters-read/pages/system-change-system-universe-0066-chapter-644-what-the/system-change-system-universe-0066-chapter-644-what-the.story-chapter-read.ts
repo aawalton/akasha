@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0066Chapter644WhatThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0066-chapter-644-what-the",
   title: "Chapter 644: What the...",
-  partOfSlugs: ["system-change-system-universe"],
+  partOfCollectionSlugs: ["system-change-system-universe"],
   position: 66,
   ownLength: 2121,
   unitSlug: "words",
