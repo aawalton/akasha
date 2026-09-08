@@ -150,7 +150,7 @@ export function createTranspiler({ emitHost = ts.sys }: TranspilerOptions = {}):
     if (lualibRequired) {
       resolvedFiles = resolvedFiles.filter((f) => f.fileName !== "lualib_bundle")
 
-      if (options.tstlVerbose === true) {
+      if (options.verbose === true) {
         console.log("Including lualib bundle")
       }
       const fileName = normalizeSlashes(path.resolve(getSourceDir(program), "lualib_bundle.lua"))
