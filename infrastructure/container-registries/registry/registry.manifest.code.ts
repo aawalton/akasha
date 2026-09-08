@@ -1,13 +1,13 @@
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { HOSTNAME_KEY, workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
+import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
 import {
   APP_NAME,
   INSTANCE_NAME,
   MANAGED_BY,
   NAMESPACE,
   PART_OF,
-} from "@akasha/cluster-manifests/registry-constants"
-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
-import { HOSTNAME_KEY, workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
-import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
+} from "../registry-constants/registry-constants.module.code.ts"
 
 const REGISTRY_IMAGE = "registry:3.0.0"
 
