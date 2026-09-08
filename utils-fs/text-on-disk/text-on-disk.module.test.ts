@@ -1,11 +1,12 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { textOnDisk } from "./text-on-disk.module.code.ts"
 
+const SCRATCH = "/var/tmp"
+
 function scratch(): string {
-  return mkdtempSync(join(tmpdir(), "text-on-disk-"))
+  return mkdtempSync(join(SCRATCH, "text-on-disk-"))
 }
 
 test("the text a file holds is answered", () => {
