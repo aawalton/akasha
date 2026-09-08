@@ -10,7 +10,7 @@ export const changeMechanicalFileContentChange = {
     "change-mechanical-file-content/change-file-content-code",
     "change-mechanical-file-content/change-manifest-ways",
     "change-mechanical-file-content/change-page-page-property",
-    "change-mechanical-file-content/change-page-property-relation",
+    "change-mechanical-file-content/change-page-page-property-relation",
     "change-mechanical-file-content/change-property-record-field",
     "change-mechanical-file-content/change-domain-parent",
   ],
