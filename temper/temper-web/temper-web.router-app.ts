@@ -344,5 +344,6 @@ export const temperWeb = {
     "route/api-watcher-worker-version",
     "route/api-watcher-worker-download",
     "route/api-watcher-upsert-listings",
+    "route/api-watcher-upsert-mined-items",
   ],
 } as const satisfies RouterApp

@@ -1,8 +1,10 @@
 import type { SetBonusEntry } from "@akasha/temper-items-core/item-tooltip-types"
 import { isRecord } from "@akasha/utils-narrow/is-record"
-import { validateWatcherToken } from "../../temper-watcher/watcher-token-check/watcher-token-check.module.code.ts"
-import { MINE_NAME, MINED_ITEM_PAGE_TYPE } from "../mined-item-rows/mined-item-rows.module.code.ts"
-import type { Route } from "./+types/api.watcher.upsert-mined-items"
+import { validateWatcherToken } from "../../../temper-watcher/watcher-token-check/watcher-token-check.module.code.ts"
+import {
+  MINE_NAME,
+  MINED_ITEM_PAGE_TYPE,
+} from "../../mined-item-rows/mined-item-rows.module.code.ts"
 
 const MAX_ITEMS_PER_REQUEST = 1000
 
@@ -61,7 +63,7 @@ function isRequestBody(v: unknown): v is RequestBody {
   return v.items.every(isMinedItem)
 }
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   let body: unknown
   try {
     body = await request.json()
@@ -88,21 +90,12 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     )
   }
 
-  // A MINED ITEM LANDED AS A ROW, AND NOTHING LANDS A ROW. `patchRows` has refused every call
-  // since 4c1f05a264: a row stands inside a page's body rather than at a path of its own, and the
-  // store addresses paths and whole bodies. The watcher on Alan's machine has been posting
-  // batches of up to a thousand items here and being told 502 ever since, and has kept retrying
-  // because 502 reads as a bad gateway rather than as a road that is gone.
-  //
-  // 503 is the truthful code, and the body says plainly that nothing was upserted. Landing the
-  // mine again means composing the page's whole body and writing it with `writeFiles` or
-  // `patchFiles`, or going through the akasha command line.
   console.error(
-    `upsert-mined-items: ${items.length} item(s) were not kept in \`${MINED_ITEM_PAGE_TYPE}/${MINE_NAME}\` — a row stands inside a page's body, and ${WRITER} has no way to reach one`
+    `upsert-mined-items: ${items.length} item(s) were not kept in \`${MINED_ITEM_PAGE_TYPE}/${MINE_NAME}\` — a row sits inside a page's body, and ${WRITER} has no way to reach one`
   )
   return Response.json(
     {
-      error: `a row stands inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so none of these ${items.length} item(s) was kept. land the mine's body with \`writeFiles\` or \`patchFiles\`, or through the akasha command line`,
+      error: `a row sits inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so none of these ${items.length} item(s) was kept. land the mine's body with \`writeFiles\` or \`patchFiles\`, or through the akasha command line`,
       upserted: 0,
     },
     { status: 503 }
