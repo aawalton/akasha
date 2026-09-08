@@ -48,6 +48,11 @@ export const chapterFiling = {
     {
       invariantKind: "departure",
       statement:
+        "The change adding a file lands the page and the prose rather than an edit composed here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "Chapters are filed by reaching the pages data directly rather than through the pages system service.",
     },
   ],

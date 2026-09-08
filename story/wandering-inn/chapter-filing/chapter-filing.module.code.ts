@@ -1,5 +1,4 @@
-import { landedMechanically } from "@akasha/command-system/asking"
-import type { FileEdit } from "@akasha/command-system/landing"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
@@ -16,11 +15,10 @@ import {
   STORY_SLUG,
 } from "../chapter/chapter.module.code.ts"
 
-const CALLED_AS = "wandering-inn-sync"
+const PUT = "change-mechanical-file/add-file"
 const PROSE = "prose"
 const TXT = "txt"
 const WORDS = "words"
-const BYTES = new TextEncoder()
 
 export class FilingRefused extends Error {}
 
@@ -108,20 +106,17 @@ export async function fileChapter(chapter: Filing): Promise<string> {
       `${composed.put.path} is no page file, so its prose has no name beside it`
     )
   }
-  const changes: readonly FileEdit[] = [
-    { path: composed.put.path, body: BYTES.encode(composed.put.content) },
-    { path: beside, body: BYTES.encode(chapter.text) },
-  ]
-  const answer = await landedMechanically(
+  const answer = await runMechanicalChange(
     root,
-    CALLED_AS,
-    changes,
+    [
+      { at: PUT, given: { at: composed.put.path, body: composed.put.content } },
+      { at: PUT, given: { at: beside, body: chapter.text } },
+    ],
     `file ${CHAPTER_PAGE_TYPE}/${slug}`
   )
-  if (answer.code !== 0) {
-    throw new FilingRefused(
-      `${CHAPTER_PAGE_TYPE}/${slug} did not land: ${answer.refusals.join("; ")}`
-    )
+  const wrong = "refusals" in answer ? answer.refusals : answer.wrong
+  if (wrong.length > 0) {
+    throw new FilingRefused(`${CHAPTER_PAGE_TYPE}/${slug} did not land: ${wrong.join("; ")}`)
   }
   return composed.put.path
 }
