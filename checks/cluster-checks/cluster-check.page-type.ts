@@ -121,7 +121,6 @@ export const clusterCheck = {
     "module/tailwind-sources-violations",
     "module/temper-type-tier",
     "module/test-classification",
-    "module/test-preload-obligations",
     "module/tree-globs",
     "module/ts-boundary-reads",
     "module/ts-exhaustive-dispatch",
