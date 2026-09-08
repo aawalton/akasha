@@ -50,6 +50,9 @@ export type Changes = {
   "change-agent/remove-page-type": Parameters<
     typeof import("../../../agent/folder/remove-page-type/remove-page-type.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/remove-property-from-every-page": Parameters<
+    typeof import("../../../agent/page-type/remove-property-from-every-page/remove-property-from-every-page.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/remove-property-value": Parameters<
     typeof import("../../../agent/file-content/remove-property-value/remove-property-value.change-agent.code.ts")["runChange"]
   >[1]
