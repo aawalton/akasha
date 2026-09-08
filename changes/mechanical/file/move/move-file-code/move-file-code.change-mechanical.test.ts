@@ -55,21 +55,12 @@ function bodyIn(said: Answer, textOf: BodyOf, path: string): string {
   return bodiesIn(said, textOf).get(path) ?? ""
 }
 
-test("a path under no TypeScript name is refused", async () => {
-  const world = worldIn(scratch.rootFor("move-file-code-"), () => null)
-  const said = await runChange(world, { from: "akasha/one/held.md", to: KEPT })
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(
-    "`akasha/one/held.md` is under no TypeScript name, so this change carries nothing"
-  )
-})
-
 test("a path under no TypeScript name to land at is refused", async () => {
   const world = worldIn(scratch.rootFor("move-file-code-"), () => null)
   const said = await runChange(world, { from: HELD_CODE, to: "akasha/one/kept.md" })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
-    "`akasha/one/kept.md` is under no TypeScript name, so this change carries nothing"
+    "`akasha/one/kept.md` is under no TypeScript name, so this change lands nothing"
   )
 })
 

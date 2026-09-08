@@ -19,10 +19,8 @@ export type Asked = {
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
-  for (const one of [given.from, given.to]) {
-    if (!CODE.has(extname(one))) {
-      return refusing(`\`${one}\` is under no TypeScript name, so this change carries nothing`)
-    }
+  if (!CODE.has(extname(given.to))) {
+    return refusing(`\`${given.to}\` is under no TypeScript name, so this change lands nothing`)
   }
   if (given.from === given.to) return refusing(`\`${given.to}\` is the path it already sits at`)
   const text = world.textOf(given.from)

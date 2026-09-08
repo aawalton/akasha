@@ -17,11 +17,11 @@ export const moveFileCode = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path under no TypeScript name is refused here.",
+      statement: "A landing path under no TypeScript name is refused here.",
     },
     {
-      invariantKind: "departure",
-      statement: "The path the file lands at is judged the same way.",
+      invariantKind: "absence",
+      statement: "Nothing here judges the path a file is carried from.",
     },
     {
       invariantKind: "departure",
