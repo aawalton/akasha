@@ -4,7 +4,10 @@ import { decodeUtf8 } from "@akasha/code/utf8-body"
 import { agentPathOf, changingOf, owedIn } from "@akasha/context/warranting"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt, type Value } from "@akasha/pages/page-value"
-import { replayed } from "../../../changes/modules/change-answer/change-answer.module.code.ts"
+import {
+  pathsOf,
+  replayed,
+} from "../../../changes/modules/change-answer/change-answer.module.code.ts"
 import type {
   Answer as Said,
   Stated,
@@ -28,6 +31,7 @@ import {
   ranBy,
   runAt,
 } from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
+import { opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
 import {
   type Given as Arguments,
   readingIn,
@@ -57,6 +61,11 @@ import type { Taking } from "../../../command-system/commands/properties/taking.
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import { inputIn, type Piping } from "../../../command-system/piping/piping.module.code.ts"
 import { offRepo, pathAt } from "../../../command-system/said-pathing/said-pathing.module.code.ts"
+import {
+  CHANGE,
+  CHANGE_PAGE,
+  costRecorded,
+} from "../../modules/change-costing/change-costing.module.code.ts"
 import { change as changePage } from "./change.command.ts"
 
 export const PAGE_LANDING =
@@ -371,6 +380,7 @@ export async function changing(
   loading: Loading,
   applying: Applying
 ): Promise<Answer> {
+  const before = opening()
   const world = worldAt(root, textIn(root), runAt)
   const slug = argv[0]
   if (slug === undefined) {
@@ -401,9 +411,13 @@ export async function changing(
   const value = world.index.pageAt(type, slug)
   const owed = owedBy(value)
   const owing = owingBy(value)
-  const answered = await appending(root, page, agentId, owing, async (one) =>
-    stamped(await ranBy(one, held, asked.given), owed, owing)
-  )
+  let paths = 0
+  const answered = await appending(root, page, agentId, owing, async (one) => {
+    const made = stamped(await ranBy(one, held, asked.given), owed, owing)
+    paths = new Set(made.edits.flatMap(pathsOf)).size
+    return made
+  })
+  costRecorded(root, CHANGE_PAGE, before, CHANGE, slug, paths, answered.refusals.length)
   if (answered.code !== 0) return answered
   if (asked.drafts) {
     const drafted = `the edits are kept at ${keptAt(page) ?? ""}, and \`akasha apply\` lands them`

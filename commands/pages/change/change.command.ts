@@ -292,6 +292,18 @@ export const change = {
     },
     {
       invariantKind: "departure",
+      statement: "What one run of one change cost is appended beside this page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The cost is taken around the change rather than around the apply that follows.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run refused before the change is reached is recorded nowhere.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A change whose writer owes reading is refused before that change's edits are appended.",
     },

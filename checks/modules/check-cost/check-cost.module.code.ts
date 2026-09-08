@@ -28,7 +28,7 @@ export type Cost = {
   readonly runId: string
   readonly ranAt: string
   readonly phase: string
-  readonly check: string
+  readonly ran: string
   readonly wallMs: number
   readonly cpuSeconds: number
   readonly childCpuSeconds: number
@@ -128,7 +128,7 @@ export function costOf(
   after: Taken,
   runId: string,
   phase: string,
-  check: string,
+  ran: string,
   pathsChanged: number,
   refusals: number
 ): Cost {
@@ -136,7 +136,7 @@ export function costOf(
     runId,
     ranAt: new Date(before.at).toISOString(),
     phase,
-    check,
+    ran,
     wallMs: after.at - before.at,
     cpuSeconds: Number((after.cpu - before.cpu).toFixed(3)),
     childCpuSeconds: Number((after.childCpu - before.childCpu).toFixed(3)),

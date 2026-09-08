@@ -1,5 +1,6 @@
 import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Entries } from "../../checks/code-checks/properties/entries.file-property.ts"
 import type { ChangeKindSlug } from "./properties/change-kind-slug.relation-property.ts"
 import type { HelpEnvVars } from "./properties/help-env-vars.record-property.ts"
 import type { HelpExamples } from "./properties/help-examples.text-property.ts"
@@ -20,6 +21,7 @@ export type Command = Module & {
   exclusions?: HelpExclusions
   exits?: HelpExits
   examples?: readonly HelpExamples[]
+  entries?: Entries
 }
 
 export const command = {
@@ -107,6 +109,7 @@ export const command = {
     "namespace/temper",
     "module/yaml-lines",
     "module/play-row",
+    "module/change-costing",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/calling",
@@ -139,6 +142,13 @@ export const command = {
       required: false,
       many: true,
       maxCount: null,
+    },
+    {
+      pagePropertySlug: "file-property/entries",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
     },
   ],
   invariants: [

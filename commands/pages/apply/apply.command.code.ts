@@ -17,6 +17,7 @@ import {
   keptEdits,
   linesIn,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
 import { writtenAgain } from "../../../command-system/address-mapping/address-mapping.module.code.ts"
 import { applying, type Carried } from "../../../command-system/applying/applying.module.code.ts"
 import { BREAK_GLASS, mistaking } from "../../../command-system/asking/asking.module.code.ts"
@@ -36,11 +37,14 @@ import {
 } from "../../../command-system/drafting/drafting.module.code.ts"
 import { gateBuilt } from "../../../command-system/gate-building/gate-building.module.code.ts"
 import { baseOf, changeOf } from "../../../command-system/landing/landing.module.code.ts"
+import {
+  APPLY,
+  APPLY_PAGE,
+  costRecorded,
+} from "../../modules/change-costing/change-costing.module.code.ts"
 import { noPageSaid } from "../change/change.command.code.ts"
 
 const BYTES = new TextEncoder()
-
-const TEXT = new TextDecoder()
 
 const APPLYING = [MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
@@ -156,32 +160,54 @@ export function undone(root: string, page: string, unfold: Unfold, landed: boole
   return "the fold is undone — the edits are kept where the edits were, for a change to mend"
 }
 
-export async function apply(argv: readonly string[], given: Given): Promise<Answer> {
+export type Ended = { readonly answer: Answer; readonly paths: number }
+
+function bare(answer: Answer): Ended {
+  return { answer, paths: 0 }
+}
+
+async function ending(argv: readonly string[], given: Given): Promise<Ended> {
   const unknown = unknownIn(argv, APPLYING, BARE)
-  if (unknown.length > 0) return mistaking(unknown)
+  if (unknown.length > 0) return bare(mistaking(unknown))
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) {
-    return mistaking([noPageSaid(given.root, given.agentId)])
+    return bare(mistaking([noPageSaid(given.root, given.agentId)]))
   }
   const held = keptEdits(given.root, page, (had) => had)
-  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
+  if ("why" in held) return bare({ report: [], refusals: [held.why], code: 3 })
   if (!argv.includes(BREAK_GLASS)) {
     const refused = await refusedBefore(given.root, page)
-    if (refused.length > 0) return { report: [], refusals: refused, code: 3 }
+    if (refused.length > 0) return bare({ report: [], refusals: refused, code: 3 })
   }
   const said = folding(given.root, page)
-  if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
+  if ("refusals" in said) return bare({ report: [], refusals: said.refusals, code: 3 })
+  const paths = said.folded.length
   const answered = await applying(given, page, argv, said.carried)
   const put = said.unfold === null ? null : undone(given.root, page, said.unfold, answered.landed)
-  if (put !== null) return { report: [put], refusals: answered.refusals, code: answered.code }
-  return {
-    report: [
-      ...said.dropped.map((one) => `${one} is dropped — that body is written again on every apply`),
-      ...said.folded.map((one) => `folded ${one} in`),
-      ...answered.report,
-      ...waitingSaid(given.root, page),
-    ],
-    refusals: answered.refusals,
-    code: answered.code,
+  if (put !== null) {
+    return { answer: { report: [put], refusals: answered.refusals, code: answered.code }, paths }
   }
+  return {
+    answer: {
+      report: [
+        ...said.dropped.map(
+          (one) => `${one} is dropped — that body is written again on every apply`
+        ),
+        ...said.folded.map((one) => `folded ${one} in`),
+        ...answered.report,
+        ...waitingSaid(given.root, page),
+      ],
+      refusals: answered.refusals,
+      code: answered.code,
+    },
+    paths,
+  }
+}
+
+export async function apply(argv: readonly string[], given: Given): Promise<Answer> {
+  const before = opening()
+  const done = await ending(argv, given)
+  const refusals = done.answer.refusals.length
+  costRecorded(given.root, APPLY_PAGE, before, APPLY, APPLY, done.paths, refusals)
+  return done.answer
 }

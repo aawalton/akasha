@@ -171,5 +171,13 @@ export const apply = {
       invariantKind: "departure",
       statement: "An apply says how many subagents handed edits over.",
     },
+    {
+      invariantKind: "departure",
+      statement: "What one apply run cost is appended beside this page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply a change reached is recorded as a run of its own.",
+    },
   ],
 } as const satisfies Command

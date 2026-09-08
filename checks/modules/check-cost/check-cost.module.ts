@@ -4,16 +4,20 @@ export const checkCost = {
   id: "01a06dc1-5cd3-7e3e-b1c7-133ae3f5ec38",
   pageTypeSlug: "module",
   slug: "check-cost",
-  definition: "what one run of one check cost, appended beside that check's page",
+  definition: "what one run cost, appended beside the page of what ran",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A cost is taken around one check rather than around a whole change.",
+      statement: "A cost is taken around one run rather than around every run one call makes.",
     },
     {
       invariantKind: "departure",
-      statement: "A line states the run the check was judged in.",
+      statement: "A line states the run a cost was taken in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line states what ran.",
     },
     {
       invariantKind: "departure",
@@ -66,11 +70,11 @@ export const checkCost = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here refuses a check for that check's cost.",
+      statement: "Nothing here refuses a run for that run's cost.",
     },
     {
       invariantKind: "absence",
-      statement: "A disk that refuses a line leaves the check's answer alone.",
+      statement: "A disk that refuses a line leaves the run's answer alone.",
     },
     {
       invariantKind: "gap",
@@ -79,6 +83,10 @@ export const checkCost = {
     {
       invariantKind: "gap",
       statement: "A run's peak carries the memory earlier runs left resident.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A peak a run within forgot is no peak of the run around that run.",
     },
     {
       invariantKind: "gap",
