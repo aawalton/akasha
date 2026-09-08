@@ -9,6 +9,8 @@
     "./fs/missing": "./fs/missing/missing.module.code.ts",
     "./fs/read-stdin-or-file": "./fs/read-stdin-or-file/read-stdin-or-file.module.code.ts",
     "./fs/text-on-disk": "./fs/text-on-disk/text-on-disk.module.code.ts",
+    "./run/run-relaying": "./run/run-relaying/run-relaying.module.code.ts",
+    "./run/run-serving": "./run/run-serving/run-serving.module.code.ts",
     "./run/running": "./run/running/running.module.code.ts",
     "./run/spawn-ceiling": "./run/spawn-ceiling/spawn-ceiling.module.code.ts",
     "./process/libc-mapping": "./process/libc-mapping/libc-mapping.module.code.ts",

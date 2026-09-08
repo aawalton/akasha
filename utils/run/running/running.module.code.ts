@@ -133,7 +133,7 @@ export type Asked = {
   readonly cpuCeiling?: number
 }
 
-export function bytes(argv: readonly string[], asked: Asked = {}): Held {
+export function spawnedHere(argv: readonly string[], asked: Asked = {}): Held {
   const ceiling = asked.cpuCeiling
   const at = ceiling === undefined ? null : budgetAt()
   const watch =
@@ -161,6 +161,10 @@ export function bytes(argv: readonly string[], asked: Asked = {}): Held {
     watch?.kill()
     if (at !== null) swept(at)
   }
+}
+
+export function bytes(argv: readonly string[], asked: Asked = {}): Held {
+  return spawnedHere(argv, asked)
 }
 
 export function endingOf(code: number, signal: string | null): string {
