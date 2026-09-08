@@ -55,7 +55,7 @@ export async function importCharacterFromHash(
   const { rows: existingBuilds } = await getPages({
     pageTypeSlug: "character-build",
     where: [
-      { key: "userId", eq: userId },
+      { key: "accountPage", eq: userId },
       { key: "buildHash", eq: hash },
     ],
     limit: 1,

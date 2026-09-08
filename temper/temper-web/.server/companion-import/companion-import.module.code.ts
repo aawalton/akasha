@@ -57,7 +57,7 @@ export async function importCompanionFromHash(
   const { rows: existingBuilds } = await getPages({
     pageTypeSlug: "companion-build",
     where: [
-      { key: "userId", eq: userId },
+      { key: "accountPage", eq: userId },
       { key: "buildHash", eq: hash },
     ],
     limit: 1,

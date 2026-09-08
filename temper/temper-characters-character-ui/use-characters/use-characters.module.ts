@@ -9,7 +9,7 @@ export const useCharacters = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A character build is owned by the user id its userId property holds.",
+      statement: "A character build belongs to the account its account page names.",
     },
     {
       invariantKind: "departure",

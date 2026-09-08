@@ -110,7 +110,9 @@ export function useCompanionList() {
   const { rows, isLoading, error } = usePages({
     pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
     where:
-      userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }],
+      userId != null
+        ? [{ key: "accountPage", eq: userId }]
+        : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
     order: [{ by: "updatedAt", dir: "desc" }],
     limit: 500,
   })
@@ -363,7 +365,9 @@ export function useAllCompanionList(userId: string | null) {
   const userRead = usePages({
     pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
     where:
-      userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }],
+      userId != null
+        ? [{ key: "accountPage", eq: userId }]
+        : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
     order: [{ by: "updatedAt", dir: "desc" }],
     limit: 500,
   })

@@ -9,7 +9,7 @@ export const useCompanions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A companion build is owned by the user id its userId property holds.",
+      statement: "A companion build belongs to the account its account page names.",
     },
     {
       invariantKind: "departure",
