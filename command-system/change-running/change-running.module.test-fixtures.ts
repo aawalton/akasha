@@ -61,7 +61,31 @@ const OWING_NO_READING: Readonly<Record<string, string>> = {
     slug: "remove-page",
     definition: "a mechanical change an indexed repository carries",
     code: "ts",
+    changeKindSlug: "change-mechanical",
+  }),
+}
+
+const CHANGE_KIND_TYPE_AT = "akasha/change-kind.page-type.ts"
+
+const CHANGE_KIND_AT = "akasha/changes/change-mechanical.change-kind.ts"
+
+const KINDS: Readonly<Record<string, string>> = {
+  [CHANGE_KIND_TYPE_AT]: pageOf({
+    id: "01a04a4a-0001-7000-8000-000000000008",
+    pageTypeSlug: "page-type",
+    slug: "change-kind",
+    definition: "which sort one change is",
+    extendsSlug: ["page-type/domain"],
+    properties: [],
+  }),
+  [CHANGE_KIND_AT]: pageOf({
+    id: "01a04a4a-0001-7000-8000-000000000009",
+    pageTypeSlug: "change-kind",
+    slug: "change-mechanical",
+    definition: "a change composed by a program",
+    runsChecks: false,
     writerOwesReading: false,
+    readersOweReading: false,
   }),
 }
 
@@ -85,7 +109,7 @@ const REACHING_ANY_KIND: Readonly<Record<string, string>> = {
 }
 
 export function repo(): string {
-  return indexedRepo({ ...SPARE, ...OWING_NO_READING, ...REACHING_ANY_KIND })
+  return indexedRepo({ ...SPARE, ...OWING_NO_READING, ...REACHING_ANY_KIND, ...KINDS })
 }
 
 export function piping(said: string): Piping {

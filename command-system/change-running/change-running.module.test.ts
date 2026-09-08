@@ -156,15 +156,15 @@ test("a change answering says how many subagents handed edits over", async () =>
   expect(said.report).toContain("1 subagent(s) handed edits over, which `akasha change list` names")
 })
 
-test("a change page saying its readers owe no reading is read as saying so", () => {
+test("a change kind saying its readers owe no reading is read as saying so", () => {
   expect(owedBy({ slug: "remove-page", readersOweReading: false })).toBe(false)
 })
 
-test("a change page saying its readers owe reading is read as saying so", () => {
+test("a change kind saying its readers owe reading is read as saying so", () => {
   expect(owedBy({ slug: "add-file", readersOweReading: true })).toBe(true)
 })
 
-test("a change page saying nothing there leaves its readers owing the reading", () => {
+test("a change kind saying nothing there leaves its readers owing the reading", () => {
   expect(owedBy({ slug: "add-file" })).toBe(true)
   expect(owedBy(null)).toBe(true)
 })
@@ -181,7 +181,7 @@ test("a change whose writer owes no reading stamps that on every edit it answers
   expect(said.edits).toEqual([{ ...EDIT, writerOwesReading: false }])
 })
 
-test("a change page saying its writer owes no reading is read as saying so", () => {
+test("a change kind saying its writer owes no reading is read as saying so", () => {
   expect(owingBy({ slug: "add-file", writerOwesReading: false })).toBe(false)
   expect(owingBy({ slug: "add-file", writerOwesReading: true })).toBe(true)
   expect(owingBy(null)).toBe(true)
@@ -193,12 +193,12 @@ test("a change owing its readers reading stamps nothing on the edits it answers"
   expect(said.edits).toEqual([EDIT])
 })
 
-test("a change reached under a page that is nowhere appends rows saying nothing of the readers", async () => {
+test("a change whose kind owes its readers no reading stamps that on every row appended", async () => {
   const root = repo()
 
   await removing(root, NAMER_PAGE)
 
-  expect(owedIn(root)).toEqual([undefined, undefined])
+  expect(owedIn(root)).toEqual([false, false])
 })
 
 test("an apply asked for in the arguments commits the message those arguments name", async () => {

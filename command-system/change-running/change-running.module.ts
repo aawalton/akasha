@@ -113,7 +113,7 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "That answer is read off the change's own page rather than off the change kind.",
+      statement: "That answer is read off the change kind the change's page names.",
     },
     {
       invariantKind: "departure",

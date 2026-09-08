@@ -48,6 +48,10 @@ const READERS_OWE_READING = "readersOweReading"
 
 const WRITER_OWES_READING = "writerOwesReading"
 
+const CHANGE_KIND = "changeKindSlug"
+
+const KIND_TYPE = "change-kind"
+
 const NO_ARGUMENTS =
   "a change reads its arguments from standard input, and this call piped nothing in"
 
@@ -197,6 +201,11 @@ export function owingBy(value: Value | null): boolean {
   return value === null || value[WRITER_OWES_READING] !== false
 }
 
+export function kindOf(world: World, value: Value | null): Value | null {
+  const slug = value === null ? null : textAt(value, CHANGE_KIND)
+  return slug === null ? null : world.index.pageAt(KIND_TYPE, slug)
+}
+
 export function stamped(said: Said, owed: boolean, owing: boolean): Said {
   if (owed && owing) return said
   return {
@@ -315,9 +324,9 @@ export async function changing(
   const loaded = await loading(world, `${type}/${slug}`)
   if (typeof loaded === "string") return mistaking([loaded])
   const held: Loaded = loaded
-  const value = world.index.pageAt(type, slug)
-  const owed = owedBy(value)
-  const owing = owingBy(value)
+  const kind = kindOf(world, world.index.pageAt(type, slug))
+  const owed = owedBy(kind)
+  const owing = owingBy(kind)
   let paths = 0
   const answered = await appending(root, page, agentId, owing, async (one) => {
     const made = stamped(await ranBy(one, held, asked.given), owed, owing)
