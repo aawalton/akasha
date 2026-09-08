@@ -6,6 +6,7 @@ export const archiveOfWorldsWeb = {
   slug: "archive-of-worlds-web",
   definition: "the routes archiveofworlds.app serves to a browser",
   manifest: "json",
+  tunnelRoutes: "ts",
   appLayout: "tsx",
   rootRoute: "tsx",
   routeTable: "ts",
