@@ -6,6 +6,8 @@ export const changeActing = {
   slug: "change-acting",
   definition: "the acts `akasha change` runs over the edits kept rather than over a change",
   code: "ts",
+  test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
