@@ -9,6 +9,7 @@ import {
 } from "@akasha/indexes/indexing/testing"
 import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as moveFileCode } from "../../../mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
+import { runChange as moveFileOfAnyKind } from "../../../mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.code.ts"
 import { runChange as moveFilePage } from "../../../mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
@@ -29,6 +30,9 @@ const MOVED_CODE = "akasha/three/held.module.code.ts"
 
 function worldIn(root: string): World {
   return worldAt(root, textIn(root), async (world, at, given) => {
+    if (at === "change-mechanical/move-file-of-any-kind") {
+      return await moveFileOfAnyKind(world, given as Parameters<typeof moveFileOfAnyKind>[1])
+    }
     if (at === "change-mechanical-file/move-file-page") {
       return await moveFilePage(world, given as Parameters<typeof moveFilePage>[1])
     }
@@ -103,5 +107,5 @@ test("the whole carry is left to the change reached at its address", async () =>
 
   await movePage(world, { at: HELD_PAGE, to: INTO })
 
-  expect(reached).toEqual(["change-mechanical-file/move-file-page"])
+  expect(reached).toEqual(["change-mechanical/move-file-of-any-kind"])
 })

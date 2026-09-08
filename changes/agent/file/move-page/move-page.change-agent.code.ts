@@ -3,7 +3,7 @@ import { missing, refusing } from "../../../modules/change-answer/change-answer.
 import type { Said } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
-const MOVE_FILE_PAGE = "change-mechanical-file/move-file-page"
+const MOVE_FILE_PAGE = "change-mechanical/move-file-of-any-kind"
 
 const AT = "at"
 

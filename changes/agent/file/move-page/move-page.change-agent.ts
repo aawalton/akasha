@@ -34,7 +34,7 @@ export const movePage = {
     },
     {
       invariantKind: "departure",
-      statement: "The carry is left to the mechanical change carrying a page.",
+      statement: "The carry is left to the mechanical change carrying that kind of page.",
     },
     {
       invariantKind: "departure",
