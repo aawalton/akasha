@@ -1,8 +1,8 @@
-import type { CoachingNote } from "../../coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
 
 export const airQualityIsAHardMedicalGate = {
   id: "019f01e1-b79a-7960-8157-e7ef3d0f8f89",
-  pageTypeSlug: "coaching-note",
+  pageTypeSlug: "fitness-coaching-note",
   slug: "air-quality-is-a-hard-medical-gate",
   title: "Air quality is a hard medical gate",
   coachingNoteActive: true,
@@ -10,4 +10,4 @@ export const airQualityIsAHardMedicalGate = {
   coachingNoteKind: "medical-gate",
   coachingNoteSortOrder: 5,
   asks: "txt",
-} as const satisfies CoachingNote
+} as const satisfies FitnessCoachingNote
