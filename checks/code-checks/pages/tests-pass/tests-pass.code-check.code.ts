@@ -92,7 +92,7 @@ function refusalsIn(change: Change): readonly Judged[] {
   const named = namedIn(change)
   const first = named[0]
   if (first === undefined) return []
-  const serving = servingOf(change.root, change.changed, change.after, named)
+  const serving = servingOf(change.root, change.changed, change.after, named, change.before)
   try {
     const found = ranOver(change.root, named, named.length, null, serving)
     if (found.verdict === "pass") return []
