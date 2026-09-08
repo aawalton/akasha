@@ -9,6 +9,5 @@ export const exercise = {
     "namespace/exercise-constraint",
     "namespace/exercise-equipment",
     "namespace/exercise-mobility",
-    "namespace/exercise-profile",
   ],
 } as const satisfies Namespace
