@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0017Book10IsNowOnAmazon = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0017-book-10-is-now-on-amazon",
   title: "Book 10 is now on Amazon!",
-  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
+  partOfCollectionSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 17,
   ownLength: 65,
   unitSlug: "words",
