@@ -1,4 +1,4 @@
-import type { DayOfWeek } from "../day-of-week/day-of-week.module.code.ts"
+import type { DayOfWeek } from "../../schedule-days/properties/day-of-week.select-property.ts"
 import { type Row, rowFor, rowsFor, textIn } from "../exercise-rows/exercise-rows.module.code.ts"
 
 const WORKOUT_SCHEDULE = "workout-schedule"
