@@ -276,7 +276,7 @@ function createResolutionContext(
 
     if (canonicalProjectFileFallback != null) {
       console.log(
-        `[tstl] Resolved "${dependency}" from ${normalizeSlashes(requiringFile.fileName)} via ` +
+        `[lua-compiler] Resolved "${dependency}" from ${normalizeSlashes(requiringFile.fileName)} via ` +
           `canonicalization fall-through to ${normalizeSlashes(canonicalProjectFileFallback)} ` +
           `(program exact-string lookup missed the in-program file; path-canonicalization divergence).`
       )
