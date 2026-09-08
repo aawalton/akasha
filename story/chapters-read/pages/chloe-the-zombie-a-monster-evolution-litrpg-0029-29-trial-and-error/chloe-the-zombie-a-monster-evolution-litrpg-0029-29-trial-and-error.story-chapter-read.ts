@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002929TrialAndError = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0029-29-trial-and-error",
   title: "29: Trial and Error",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 29,
   ownLength: 2411,
   unitSlug: "words",

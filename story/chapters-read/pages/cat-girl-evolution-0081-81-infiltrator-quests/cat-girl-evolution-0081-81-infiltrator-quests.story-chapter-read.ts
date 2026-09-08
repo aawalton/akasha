@@ -5,7 +5,7 @@ export const catGirlEvolution008181InfiltratorQuests = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0081-81-infiltrator-quests",
   title: "81 - Infiltrator Quests",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 81,
   ownLength: 2641,
   unitSlug: "words",

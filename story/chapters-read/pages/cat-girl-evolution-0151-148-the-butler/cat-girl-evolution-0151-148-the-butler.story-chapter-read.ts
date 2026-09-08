@@ -5,7 +5,7 @@ export const catGirlEvolution0151148TheButler = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0151-148-the-butler",
   title: "148 - The Butler",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 151,
   ownLength: 2823,
   unitSlug: "words",

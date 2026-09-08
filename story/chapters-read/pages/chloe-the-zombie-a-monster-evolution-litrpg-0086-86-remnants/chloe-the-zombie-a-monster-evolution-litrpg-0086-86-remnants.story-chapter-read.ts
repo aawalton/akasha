@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg008686Remnants = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0086-86-remnants",
   title: "86: Remnants",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 86,
   ownLength: 1890,
   unitSlug: "words",

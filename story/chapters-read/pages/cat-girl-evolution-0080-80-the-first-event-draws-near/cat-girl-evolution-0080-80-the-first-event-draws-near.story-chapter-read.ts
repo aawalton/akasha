@@ -5,7 +5,7 @@ export const catGirlEvolution008080TheFirstEventDrawsNear = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0080-80-the-first-event-draws-near",
   title: "80 - The First Event Draws Near",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 80,
   ownLength: 2018,
   unitSlug: "words",

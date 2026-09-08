@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004747Disappear = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0047-47-disappear",
   title: "47: Disappear",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 47,
   ownLength: 2495,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const catGirlEvolution006262ChaurenTheBackstory = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0062-62-chauren-the-backstory",
   title: "62 - Chauren: The Backstory",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 62,
   ownLength: 2758,
   unitSlug: "words",

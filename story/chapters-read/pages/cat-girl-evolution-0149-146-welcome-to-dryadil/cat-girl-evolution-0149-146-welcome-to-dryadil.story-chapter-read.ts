@@ -5,7 +5,7 @@ export const catGirlEvolution0149146WelcomeToDryadil = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0149-146-welcome-to-dryadil",
   title: "146 - Welcome to Dryadil",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 149,
   ownLength: 2264,
   unitSlug: "words",

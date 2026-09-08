@@ -5,7 +5,7 @@ export const catGirlEvolution00011QuiteTheMystery = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0001-1-quite-the-mystery",
   title: "1 - Quite the Mystery",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 1,
   ownLength: 2036,
   unitSlug: "words",

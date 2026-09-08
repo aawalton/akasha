@@ -5,7 +5,7 @@ export const catGirlEvolution002727PrincessYonaTheSmartestCatToEverLive = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0027-27-princess-yona-the-smartest-cat-to-ever-live",
   title: "27 - Princess Yona, the Smartest Cat to Ever Live",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 27,
   ownLength: 2403,
   unitSlug: "words",

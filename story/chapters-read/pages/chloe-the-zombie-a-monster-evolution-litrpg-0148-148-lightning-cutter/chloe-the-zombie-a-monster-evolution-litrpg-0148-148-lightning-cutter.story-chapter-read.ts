@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0148148LightningCutter = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0148-148-lightning-cutter",
   title: "148: Lightning Cutter",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 148,
   ownLength: 2160,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0130130BigTicketItems = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0130-130-big-ticket-items",
   title: "130: Big Ticket Items",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 130,
   ownLength: 2019,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009393TheBestReward = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0093-93-the-best-reward",
   title: "93: The Best Reward",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 93,
   ownLength: 1803,
   unitSlug: "words",

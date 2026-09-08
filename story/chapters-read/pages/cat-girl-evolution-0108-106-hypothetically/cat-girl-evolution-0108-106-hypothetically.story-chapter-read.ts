@@ -5,7 +5,7 @@ export const catGirlEvolution0108106Hypothetically = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0108-106-hypothetically",
   title: "106 - Hypothetically...",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 108,
   ownLength: 2728,
   unitSlug: "words",

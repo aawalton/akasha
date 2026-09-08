@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0114114DeathGame = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0114-114-death-game",
   title: "114: Death Game",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 114,
   ownLength: 1662,
   unitSlug: "words",

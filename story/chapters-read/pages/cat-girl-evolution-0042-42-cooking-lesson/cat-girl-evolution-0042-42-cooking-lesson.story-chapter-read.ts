@@ -5,7 +5,7 @@ export const catGirlEvolution004242CookingLesson = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0042-42-cooking-lesson",
   title: "42 - Cooking Lesson",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 42,
   ownLength: 2617,
   unitSlug: "words",

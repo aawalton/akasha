@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001111Mayhem = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0011-11-mayhem",
   title: "11: Mayhem",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 11,
   ownLength: 2646,
   unitSlug: "words",

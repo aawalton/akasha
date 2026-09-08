@@ -5,7 +5,7 @@ export const catGirlEvolution002929PerfectDisguise = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0029-29-perfect-disguise",
   title: "29 - Perfect Disguise",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 29,
   ownLength: 2607,
   unitSlug: "words",

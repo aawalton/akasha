@@ -5,7 +5,7 @@ export const catGirlEvolution0147144PaparazziPressConference = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0147-144-paparazzi-press-conference",
   title: "144 - Paparazzi Press Conference",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 147,
   ownLength: 2537,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const catGirlEvolution0155152HeistPrep = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0155-152-heist-prep",
   title: "152 - Heist Prep",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 155,
   ownLength: 2958,
   unitSlug: "words",

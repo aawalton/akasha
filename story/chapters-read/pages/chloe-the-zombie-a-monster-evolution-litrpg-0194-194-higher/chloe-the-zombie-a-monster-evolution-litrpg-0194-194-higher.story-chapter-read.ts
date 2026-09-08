@@ -4,7 +4,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0194194Higher = {
   id: "01a07252-32ec-7364-9a1c-cddcc73ef392",
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0194-194-higher",
-  partOfSlugs: ["story-read/chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["story-read/chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 194,
   publishedAt: "2026-09-04",
   unitSlug: "words",

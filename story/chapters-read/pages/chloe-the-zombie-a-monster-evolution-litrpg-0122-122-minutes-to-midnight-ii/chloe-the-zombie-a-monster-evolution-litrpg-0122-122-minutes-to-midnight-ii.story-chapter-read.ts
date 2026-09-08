@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0122122MinutesToMidnightIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0122-122-minutes-to-midnight-ii",
   title: "122: Minutes to Midnight - II",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 122,
   ownLength: 2144,
   unitSlug: "words",

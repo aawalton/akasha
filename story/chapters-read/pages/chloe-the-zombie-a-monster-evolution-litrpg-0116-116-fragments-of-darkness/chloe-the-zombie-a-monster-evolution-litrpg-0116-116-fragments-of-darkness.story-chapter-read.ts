@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0116116FragmentsOfDarkness = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0116-116-fragments-of-darkness",
   title: "116: Fragments of Darkness",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 116,
   ownLength: 1983,
   unitSlug: "words",

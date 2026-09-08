@@ -5,7 +5,7 @@ export const catGirlEvolution003636TearfulReunion = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0036-36-tearful-reunion",
   title: "36 - Tearful Reunion",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 36,
   ownLength: 2904,
   unitSlug: "words",

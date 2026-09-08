@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003333ANotSoSmallFavor = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0033-33-a-not-so-small-favor",
   title: "33: A Not so Small Favor",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 33,
   ownLength: 2387,
   unitSlug: "words",

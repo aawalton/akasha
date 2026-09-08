@@ -5,7 +5,7 @@ export const catGirlEvolution003737SensitiveMatters = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0037-37-sensitive-matters",
   title: "37 - Sensitive Matters",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 37,
   ownLength: 2345,
   unitSlug: "words",

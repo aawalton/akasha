@@ -5,7 +5,7 @@ export const catGirlEvolution0134131TheHeroAlwaysWins = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0134-131-the-hero-always-wins",
   title: "131 - The Hero Always Wins",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 134,
   ownLength: 2284,
   unitSlug: "words",

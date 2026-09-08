@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002323PredatorPrey = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0023-23-predator-prey",
   title: "23: Predator & Prey",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 23,
   ownLength: 2295,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const catGirlEvolution0153150IThinkWerePoor = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0153-150-i-think-were-poor",
   title: "150 - I Think We're Poor",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 153,
   ownLength: 2172,
   unitSlug: "words",

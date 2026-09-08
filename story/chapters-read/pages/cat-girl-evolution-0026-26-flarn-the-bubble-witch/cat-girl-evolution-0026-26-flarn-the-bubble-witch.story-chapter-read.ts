@@ -5,7 +5,7 @@ export const catGirlEvolution002626FlarnTheBubbleWitch = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0026-26-flarn-the-bubble-witch",
   title: "26 - Flarn, the Bubble Witch",
-  partOfSlugs: ["cat-girl-evolution"],
+  partOfCollectionSlugs: ["cat-girl-evolution"],
   position: 26,
   ownLength: 2265,
   unitSlug: "words",

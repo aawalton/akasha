@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0070201LateNightSisterlyBonding = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0070-201-late-night-sisterly-bonding",
   title: "201 - Late Night Sisterly Bonding",
-  partOfSlugs: ["story-read/bunny-girl-evolution"],
+  partOfCollectionSlugs: ["story-read/bunny-girl-evolution"],
   position: 70,
   ownLength: 3886,
   unitSlug: "words",

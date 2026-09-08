@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0188188OfficeBuilding = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0188-188-office-building",
   title: "188: Office Building",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 188,
   ownLength: 1882,
   unitSlug: "words",

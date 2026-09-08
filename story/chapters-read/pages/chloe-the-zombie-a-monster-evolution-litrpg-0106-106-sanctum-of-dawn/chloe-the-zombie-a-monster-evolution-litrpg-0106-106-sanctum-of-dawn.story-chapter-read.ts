@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0106106SanctumOfDawn = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0106-106-sanctum-of-dawn",
   title: "106: Sanctum of Dawn",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 106,
   ownLength: 1906,
   unitSlug: "words",

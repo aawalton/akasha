@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003535HappyPlace = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0035-35-happy-place",
   title: "35: Happy Place",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 35,
   ownLength: 2014,
   unitSlug: "words",

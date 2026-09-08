@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0134134Tranquility = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0134-134-tranquility",
   title: "134: Tranquility",
-  partOfSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
   position: 134,
   ownLength: 1851,
   unitSlug: "words",
