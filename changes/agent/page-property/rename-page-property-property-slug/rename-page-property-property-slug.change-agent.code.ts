@@ -83,34 +83,26 @@ function readingOf(world: World, given: RenamePagePropertyPropertySlugAsked): Re
   return { was, id, kind: named.pageType }
 }
 
-function carryingIn(world: World, types: readonly string[]): readonly string[] {
-  const found: string[] = []
-  const seen = new Set<string>()
-  for (const one of types) {
-    for (const kind of world.index.kindsUnder(one)) {
-      for (const listed of world.index.everyOfType(kind)) {
-        if (seen.has(listed.path)) continue
-        seen.add(listed.path)
-        found.push(listed.path)
-      }
-    }
-  }
-  return found
-}
-
-function spelledIn(world: World, paths: readonly string[], one: Spelling): Spelled {
+function spelledIn(world: World, types: readonly string[], one: Spelling): Spelled {
   const carrying: string[] = []
   const moving: Moving[] = []
-  for (const path of paths) {
-    if (one.most !== null && carrying.length >= one.most) break
-    const held = pageIn(world, path)?.[one.key]
-    if (held === undefined) continue
-    carrying.push(path)
-    if (!one.beside || typeof held !== "string") continue
-    const from = besideAt(path, one.was, held)
-    const to = besideAt(path, one.to, held)
-    if (from === null || to === null || world.bodyOf(from) === null) continue
-    moving.push({ from, to })
+  const seen = new Set<string>()
+  for (const type of types) {
+    for (const kind of world.index.kindsUnder(type)) {
+      for (const [path, value] of world.index.valuesByPath(kind)) {
+        if (one.most !== null && carrying.length >= one.most) return { carrying, moving }
+        if (seen.has(path)) continue
+        seen.add(path)
+        const held = value[one.key]
+        if (held === undefined) continue
+        carrying.push(path)
+        if (!one.beside || typeof held !== "string") continue
+        const from = besideAt(path, one.was, held)
+        const to = besideAt(path, one.to, held)
+        if (from === null || to === null || world.bodyOf(from) === null) continue
+        moving.push({ from, to })
+      }
+    }
   }
   return { carrying, moving }
 }
@@ -133,10 +125,7 @@ export async function renamePagePropertyPropertySlug(
   const now = exportedAs(given.to)
   const held = spelledIn(
     world,
-    carryingIn(
-      world,
-      types.map((one) => one.slug)
-    ),
+    types.map((one) => one.slug),
     {
       key,
       was: read.was,

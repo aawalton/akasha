@@ -87,13 +87,15 @@ function worldIn(
       },
       declaringOf: () => declaring,
       kindsUnder: (slug: string) => new Set([slug]),
-      everyOfType: (slug: string) =>
-        slug === "module"
-          ? [
-              { path: ONE_AT, id: "one" },
-              { path: TWO_AT, id: "two" },
-            ]
-          : [],
+      valuesByPath: (slug: string) =>
+        new Map(
+          slug === "module"
+            ? ([
+                [ONE_AT, values["module/one"]],
+                [TWO_AT, values["module/two"]],
+              ] as readonly (readonly [string, Value])[])
+            : []
+        ),
     } as never,
     reaching,
   }

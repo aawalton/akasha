@@ -34,6 +34,15 @@ export const renamePagePropertyPropertySlug = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Which pages carry the key is read from the values the index files for each page type.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No page body is read to find out which pages carry the key.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A count handed in holds how many pages the key is spelled anew on.",
     },
     {

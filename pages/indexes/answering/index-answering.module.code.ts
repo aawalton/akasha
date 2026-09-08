@@ -49,6 +49,7 @@ import {
   slugsOfType,
   typeSlugById,
   typeSlugOf,
+  valuesByPath,
 } from "../reading/index-reading.module.code.ts"
 import type { Schema as Filed, Reading } from "../shape/index-shape.module.code.ts"
 
@@ -103,6 +104,7 @@ export type Answering = {
   readonly typeSlugById: (id: string) => string | null
   readonly typeSlugOf: (id: string) => string
   readonly uncommittedFiledAt: () => UncommittedBy
+  readonly valuesByPath: (pageTypeSlug: string) => ReadonlyMap<string, Value>
 }
 
 function heldOnce<T>(asked: () => T): () => T {
@@ -152,5 +154,6 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     typeSlugById: (id) => typeSlugById(reading, id),
     typeSlugOf: (id) => typeSlugOf(reading, id),
     uncommittedFiledAt: heldOnce(() => uncommittedFiledAt(reading)),
+    valuesByPath: (pageTypeSlug) => valuesByPath(reading, pageTypeSlug),
   }
 }
