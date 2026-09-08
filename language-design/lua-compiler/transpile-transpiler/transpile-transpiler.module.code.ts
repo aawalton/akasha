@@ -136,7 +136,7 @@ export function createTranspiler({ emitHost = ts.sys }: TranspilerOptions = {}):
     performance.startSection("getEmitPlan")
     const options = program.getCompilerOptions()
 
-    if (options.tstlVerbose === true) {
+    if (options.verbose === true) {
       console.log("Constructing emit plan")
     }
 
