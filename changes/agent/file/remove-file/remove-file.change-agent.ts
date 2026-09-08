@@ -30,7 +30,8 @@ export const removeFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A path that is no page file is handed to the change taking a file away.",
+      statement:
+        "A path that is no page file is handed to the change taking that kind of path away.",
     },
     {
       invariantKind: "absence",

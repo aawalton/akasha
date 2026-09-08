@@ -5,7 +5,7 @@ import { reach, type World } from "../../../modules/change-shadow/change-shadow.
 
 const AT = "at"
 
-const REMOVE_FILE = "change-mechanical-file/remove-file"
+const REMOVE_FILE = "change-mechanical/remove-file-of-any-kind"
 
 export type RemoveFileAsked = {
   readonly at: string

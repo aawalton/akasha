@@ -10,7 +10,7 @@ import { removeFile } from "./remove-file.change-agent.code.ts"
 
 const ASKED = "the world was asked"
 
-const REMOVE_FILE = "change-mechanical-file/remove-file"
+const REMOVE_FILE = "change-mechanical/remove-file-of-any-kind"
 
 const ORDINARY = "akasha/notes.md"
 
