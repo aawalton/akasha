@@ -160,10 +160,6 @@ export const editsKeeping = {
     },
     {
       invariantKind: "stopgap",
-      statement: "A row kept in the whole shape is read as the edits that row narrows to.",
-    },
-    {
-      invariantKind: "stopgap",
       statement: "A ledger an earlier keeping left under a ref is read where no file is there.",
     },
     {
