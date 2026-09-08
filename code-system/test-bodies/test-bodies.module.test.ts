@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { dirname, join, relative } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { ranOver } from "../code-tests/code-tests.module.code.ts"
 import { FAILS, handing, PASSES, UNDER } from "../code-tests/code-tests.module.test-fixtures.ts"
@@ -127,6 +127,26 @@ test("the preload text names this module and the file the bodies were written to
   expect(said).toContain(JSON.stringify(SERVING))
   expect(said).toContain(JSON.stringify("/var/tmp/held/bodies.json"))
   expect(said).toContain("Bun.plugin(servedBy(bodiesAt(")
+})
+
+test("the preload names the serving handed in rather than this module on disk", () => {
+  const said = preloadingOf("/var/tmp/held/bodies.json", "/var/tmp/held/serving.ts")
+  expect(said).toContain(JSON.stringify("/var/tmp/held/serving.ts"))
+  expect(said).not.toContain(JSON.stringify(SERVING))
+})
+
+test("a serving over a change carrying this module names that carried body in the preload", () => {
+  const root = realpathSync(join(dirname(SERVING), "..", ".."))
+  const own = relative(root, SERVING)
+  const serving = servingOf(root, [own], handing({ [own]: readFileSync(SERVING, "utf8") }), [])
+  try {
+    const copy = join(dirname(serving.preload), "serving.ts")
+    expect(existsSync(copy)).toBe(true)
+    expect(readFileSync(serving.preload, "utf8")).toContain(JSON.stringify(copy))
+    expect(readFileSync(copy, "utf8")).not.toMatch(/from\s+"\.\.?\//)
+  } finally {
+    serving.sweep()
+  }
 })
 
 test("the plugin made for a change is named once however many bodies it serves", () => {
