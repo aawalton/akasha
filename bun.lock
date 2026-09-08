@@ -182,6 +182,14 @@
         "zod": "^4.3.6",
       },
     },
+    "alan/harness/health-samples-access": {
+      "name": "@akasha/health-samples-access",
+      "dependencies": {
+        "@akasha/day": "workspace:*",
+        "@akasha/pages": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
+      },
+    },
     "alan/harness/idle-system": {
       "name": "@akasha/idle-system",
       "dependencies": {
@@ -869,14 +877,6 @@
       "name": "@akasha/graph",
       "dependencies": {
         "@akasha/code": "workspace:*",
-      },
-    },
-    "health-samples-access": {
-      "name": "@akasha/health-samples-access",
-      "dependencies": {
-        "@akasha/day": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/pages-service": "workspace:*",
       },
     },
     "health-samples-day": {
@@ -3054,7 +3054,7 @@
 
     "@akasha/great-courses": ["@akasha/great-courses@workspace:collections/great-courses"],
 
-    "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:health-samples-access"],
+    "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:alan/harness/health-samples-access"],
 
     "@akasha/health-samples-day": ["@akasha/health-samples-day@workspace:health-samples-day"],
 
