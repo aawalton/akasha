@@ -111,10 +111,9 @@ function isParsedTsConfig(value: unknown): value is {
       return false
     }
   }
-  for (const stated of [config.luaCompiler, config.tstl]) {
-    if (stated !== undefined && !isRecord(stated)) {
-      return false
-    }
+  const stated = config.luaCompiler
+  if (stated !== undefined && !isRecord(stated)) {
+    return false
   }
   return true
 }
