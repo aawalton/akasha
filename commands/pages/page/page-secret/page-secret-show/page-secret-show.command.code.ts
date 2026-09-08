@@ -5,7 +5,7 @@ import {
   aiming,
   caught,
   FILE_PATH,
-} from "../../../pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
+} from "../../../../../pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
 
 const NOTHING = "nothing"
 

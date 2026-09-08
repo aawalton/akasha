@@ -8,7 +8,7 @@ import {
   landedWith,
   MESSAGE,
   wrongData,
-} from "../../../pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
+} from "../../../../../pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
 
 const ACT = "clear"
 

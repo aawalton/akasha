@@ -1,4 +1,4 @@
-import type { Namespace } from "../namespace.page-type.ts"
+import type { Namespace } from "../../../../command-system/namespaces/namespace.page-type.ts"
 
 export const pageSecret = {
   id: "01a07bc6-efea-754e-b4cc-6744893bc509",

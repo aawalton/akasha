@@ -6,7 +6,7 @@ import {
   FILE_PATH,
   KEY,
   wrongData,
-} from "../../../pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
+} from "../../../../../pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
 
 export async function pageSecretReveal(argv: readonly string[], given: Given): Promise<Answer> {
   return await caught(() => {
