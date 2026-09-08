@@ -1,5 +1,5 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
-import type { PageType } from "../../pages/types/page-type.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { PageType } from "../../../pages/types/page-type.page-type.ts"
 
 export type ChangeTargetType = Domain
 

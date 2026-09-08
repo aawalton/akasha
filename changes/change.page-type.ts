@@ -43,10 +43,9 @@ export const change = {
     "module/subagent-handed",
     "page-type/change-mode",
     "relation-property/change-mode-slug",
-    "page-type/change-target-type",
-    "page-type/change-target-subtype",
     "relation-property/change-target-type-slug",
     "relation-property/change-target-subtype-slug",
+    "domain/change-target",
   ],
   properties: [
     { pagePropertySlug: "relation-property/change-kind-slug", required: false, many: false },

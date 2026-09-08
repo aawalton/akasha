@@ -1,7 +1,7 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
-import type { PageType } from "../../pages/types/page-type.page-type.ts"
-import type { ChangeTargetSubtypeParentSlug } from "../properties/change-target-subtype-parent-slug.relation-property.ts"
-import type { ChangeTargetTypeSlug } from "../properties/change-target-type-slug.relation-property.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { PageType } from "../../../pages/types/page-type.page-type.ts"
+import type { ChangeTargetSubtypeParentSlug } from "../../properties/change-target-subtype-parent-slug.relation-property.ts"
+import type { ChangeTargetTypeSlug } from "../../properties/change-target-type-slug.relation-property.ts"
 
 export type ChangeTargetSubtype = Domain & {
   changeTargetTypeSlug: ChangeTargetTypeSlug
