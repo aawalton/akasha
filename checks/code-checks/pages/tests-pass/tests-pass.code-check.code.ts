@@ -1,3 +1,4 @@
+import { basename, dirname, join, relative } from "node:path"
 import type { Ran, Spent } from "@akasha/code/code-tests"
 import {
   alreadyRunning,
@@ -8,7 +9,8 @@ import {
   spentOver,
   testsBesideOf,
 } from "@akasha/code/code-tests"
-import type { Bodies } from "@akasha/code/test-overlay"
+import { calledIn } from "@akasha/code/package-manifest"
+import type { Bodies, Body, Link } from "@akasha/code/test-overlay"
 import { bodiesFrom } from "@akasha/indexes/rebuilding"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
@@ -18,6 +20,7 @@ import {
   type Selector,
   TEXTS,
   type Text,
+  textIn,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
@@ -115,10 +118,30 @@ export function spelledIn(output: string, root: string): string {
   return output.replaceAll(`${root}/`, "")
 }
 
+const MODULES = "node_modules"
+
+const MANIFEST = "package.json"
+
+const ROOT = "."
+
+export function linksIn(change: Change): ReadonlyMap<string, Link> {
+  const found = new Map<string, Link>()
+  for (const one of change.changed) {
+    const folder = dirname(one)
+    if (basename(one) !== MANIFEST || folder === ROOT) continue
+    const named = calledIn(textIn(change, one))
+    if (named === null) continue
+    const at = join(MODULES, named)
+    found.set(at, { linkedTo: relative(dirname(at), folder) })
+  }
+  return found
+}
+
 export function bodiesOf(change: Change, shadow: Shadow): Bodies {
-  const held: Record<string, Uint8Array | string | null> = {}
+  const held: Record<string, Body> = {}
   for (const one of change.changed) held[one] = change.after(one)
   for (const [at, body] of bodiesFrom(shadow.filed())) held[at] = body
+  for (const [at, link] of linksIn(change)) held[at] = link
   return held
 }
 

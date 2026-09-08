@@ -48,6 +48,22 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
+      statement: "A manifest the change carries is reached under the name that manifest states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That name is a link the overlay makes onto the folder the manifest sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest calling its package nothing is reached under no name.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The manifest at the repository root is reached under no name.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page type the change moves is resolved by the run at the path the change files it at.",
     },
