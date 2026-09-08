@@ -81,8 +81,7 @@ export const indexAnswering = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A question here about the pages of one page type is answered once for that page type and held.",
+      statement: "A page is answered by its path from the reader of page bodies bound here.",
     },
     {
       invariantKind: "constraint",
