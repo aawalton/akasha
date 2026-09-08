@@ -13,6 +13,14 @@ export const readoutLook = {
     },
     {
       invariantKind: "departure",
+      statement: "A rung takes its shade from the palette rather than stating a shade of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The black rung is drawn in whatever text color the reader already has.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The rung a ring reached picks its arc through the data attribute the ring wrote.",
     },
     {

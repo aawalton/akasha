@@ -1,11 +1,11 @@
 :root {
-  --readout-rung-black: #1c1c1e;
-  --readout-rung-red: #ff3b30;
-  --readout-rung-orange: #ff9500;
-  --readout-rung-yellow: #ffcc00;
-  --readout-rung-green: #34c759;
-  --readout-rung-blue: #0a84ff;
-  --readout-ring-groove: #3a3a3c;
+  --readout-rung-black: currentColor;
+  --readout-rung-red: var(--red);
+  --readout-rung-orange: var(--orange);
+  --readout-rung-yellow: var(--yellow);
+  --readout-rung-green: var(--green);
+  --readout-rung-blue: var(--blue);
+  --readout-ring-groove: var(--surface-4);
   --readout-ring-size: 120px;
 }
 

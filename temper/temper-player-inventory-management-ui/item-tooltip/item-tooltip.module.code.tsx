@@ -366,7 +366,7 @@ const STAT_VALUE_STYLE: React.CSSProperties = {
 }
 
 const DIVIDER_STYLE: React.CSSProperties = {
-  borderTop: "1px solid #3A3A3A",
+  borderTop: "1px solid var(--surface-4)",
   margin: "6px 0",
 }
 
