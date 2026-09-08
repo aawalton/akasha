@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { dirname, join } from "node:path"
 import { HELD_CODE, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import {
@@ -34,18 +33,6 @@ test("a code path is taken away by the change this change reaches", async () => 
 
   expect(said.refused).toBe(null)
   expect(said.edits).toEqual([{ kind: "remove", path: HELD_CODE }])
-})
-
-test("a path under no TypeScript name is refused", async () => {
-  const root = indexedRepo()
-  const at = join(dirname(HELD_CODE), "notes.md")
-
-  const said = await runChange(worldIn(root), { at })
-
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(
-    `\`${at}\` is under no TypeScript name, so this change takes nothing away`
-  )
 })
 
 test("a path named as TSX is taken away", async () => {

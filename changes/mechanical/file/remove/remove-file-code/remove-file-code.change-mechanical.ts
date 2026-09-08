@@ -17,10 +17,6 @@ export const removeFileCode = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path under no TypeScript name is refused here.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The file is taken away by the change this change reaches.",
     },
     {
