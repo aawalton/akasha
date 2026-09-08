@@ -9,7 +9,6 @@ export const renamePackage = {
     "a package renamed wherever that package is named, in its manifest and in every specifier reaching it",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

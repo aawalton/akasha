@@ -8,7 +8,6 @@ export const removePackageAlias = {
   definition: "the alias a renamed package was reached under taken out of every manifest",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

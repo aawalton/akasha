@@ -8,7 +8,6 @@ export const movePage = {
   definition: "one page and the files beside that page moved into another folder",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

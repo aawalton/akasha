@@ -10,7 +10,6 @@ export const removeFolderPackage = {
   definition: "one workspace package taken away with the folder that package sits in",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

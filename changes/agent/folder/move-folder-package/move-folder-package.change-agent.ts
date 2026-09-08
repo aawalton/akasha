@@ -8,7 +8,6 @@ export const moveFolderPackage = {
   definition: "a workspace package moved to another folder, taking the slug that folder names",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

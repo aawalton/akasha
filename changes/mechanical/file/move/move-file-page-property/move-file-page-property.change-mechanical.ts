@@ -10,7 +10,6 @@ export const moveFilePageProperty = {
   definition: "one page property's own file carried to another path with the files beside it",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

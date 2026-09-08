@@ -9,7 +9,6 @@ export const changePagePageProperty = {
     "one property of one page stated anew, by the mechanical change fitting that property",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

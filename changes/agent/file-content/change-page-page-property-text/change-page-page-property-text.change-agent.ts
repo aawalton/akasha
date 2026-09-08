@@ -8,7 +8,6 @@ export const changePagePagePropertyText = {
   definition: "one text property of one page stated anew in other words",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

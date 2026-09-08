@@ -10,7 +10,6 @@ export const changeFileContentPage = {
   definition: "one passage of one page's body replaced, with what that page states judged",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   guardSlugs: ["change-guard/identity-not-already-held", "change-guard/relation-reaches-a-page"],
   invariants: [
     {

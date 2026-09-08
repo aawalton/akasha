@@ -10,7 +10,6 @@ export const renamePagePropertyPropertySlug = {
   definition: "one property's key spelled anew on that property's page and on every page with it",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

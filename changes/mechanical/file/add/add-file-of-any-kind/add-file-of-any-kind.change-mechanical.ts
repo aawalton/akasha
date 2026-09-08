@@ -10,7 +10,6 @@ export const addFileOfAnyKind = {
   definition: "one body written at one path, through the change writing that kind of path",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

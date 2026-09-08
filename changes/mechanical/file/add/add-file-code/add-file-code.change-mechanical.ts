@@ -10,7 +10,6 @@ export const addFileCode = {
   definition: "one code body written at one path, with the imports that body names judged",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   guardSlugs: ["change-guard/import-reaches-a-file"],
   invariants: [
     {

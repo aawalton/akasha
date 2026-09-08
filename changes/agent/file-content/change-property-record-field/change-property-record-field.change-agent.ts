@@ -8,7 +8,6 @@ export const changePropertyRecordField = {
   definition: "one field of one record a page's many-valued property holds, stated anew",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

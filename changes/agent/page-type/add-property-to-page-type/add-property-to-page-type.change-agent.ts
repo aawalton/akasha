@@ -10,7 +10,6 @@ export const addPropertyToPageType = {
   definition: "one page property declared on one page type",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

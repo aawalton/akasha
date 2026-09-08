@@ -10,7 +10,6 @@ export const movePropertyValue = {
   definition: "one value carried to another place in the list one page property holds",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

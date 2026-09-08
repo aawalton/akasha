@@ -10,7 +10,6 @@ export const removePageProperty = {
   definition: "one key taken out of a page's body with every value that key has",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

@@ -8,7 +8,6 @@ export const removeFile = {
   definition: "one file taken away, judged by the checks a landing runs",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

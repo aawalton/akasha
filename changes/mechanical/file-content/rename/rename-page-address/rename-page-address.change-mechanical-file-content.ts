@@ -10,7 +10,6 @@ export const renamePageAddress = {
   definition: "one page's address restated wherever a body spells that address",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

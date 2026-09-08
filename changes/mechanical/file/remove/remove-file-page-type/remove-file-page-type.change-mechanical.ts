@@ -10,7 +10,6 @@ export const removeFilePageType = {
   definition: "one page type taken away with every file that page type keeps beside it",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   guardSlugs: ["change-guard/page-type-carries-no-pages"],
   invariants: [
     {

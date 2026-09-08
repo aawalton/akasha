@@ -10,7 +10,6 @@ export const addPropertyRecord = {
   definition: "one record put into one page property in a page's body",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

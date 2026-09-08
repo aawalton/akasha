@@ -10,7 +10,6 @@ export const addPropertyValue = {
   definition: "one value put into one page property in a page's body",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

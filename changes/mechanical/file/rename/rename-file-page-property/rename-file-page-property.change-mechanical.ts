@@ -10,7 +10,6 @@ export const renameFilePageProperty = {
   definition: "one page property renamed and carried to where its slug says",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

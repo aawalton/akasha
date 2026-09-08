@@ -10,7 +10,6 @@ export const addPageProperty = {
   definition: "one key put into a page's body under one value rather than under a list",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

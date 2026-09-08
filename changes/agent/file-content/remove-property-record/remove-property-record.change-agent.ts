@@ -8,7 +8,6 @@ export const removePropertyRecord = {
   definition: "one record taken out of one page property, judged by the checks a landing runs",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

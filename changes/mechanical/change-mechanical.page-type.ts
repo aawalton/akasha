@@ -4,7 +4,6 @@ import type { GuardSlugs } from "./properties/guard-slugs.relation-property.ts"
 
 export type ChangeMechanical = Change & {
   guardSlugs?: readonly GuardSlugs[]
-  readersOweReading: false
 }
 
 export const changeMechanical = {

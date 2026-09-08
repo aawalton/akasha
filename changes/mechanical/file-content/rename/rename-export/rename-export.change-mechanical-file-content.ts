@@ -10,6 +10,5 @@ export const renameExport = {
   definition: "a name one body exports spelled anew across the paths a caller hands in",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

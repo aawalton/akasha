@@ -44,6 +44,5 @@ export const renamePagePropertyKey = {
       statement: "Nothing here reads the index.",
     },
   ],
-  readersOweReading: false,
   changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

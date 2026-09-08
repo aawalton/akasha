@@ -10,7 +10,6 @@ export const removeEveryPageOfAType = {
   definition: "every page of one page type taken away, each with the files beside it",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

@@ -10,7 +10,6 @@ export const removeFileOfAnyKind = {
   definition: "one file taken away, through the change taking that kind of path away",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

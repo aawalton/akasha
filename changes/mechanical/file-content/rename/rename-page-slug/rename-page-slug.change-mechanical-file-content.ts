@@ -10,7 +10,6 @@ export const renamePageSlug = {
   definition: "one page's slug restated in its own body and in the data of every page naming it",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

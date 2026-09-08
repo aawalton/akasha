@@ -10,7 +10,6 @@ export const removeFileCode = {
   definition: "one code file taken away, with the imports naming that file judged",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   guardSlugs: ["change-guard/import-not-left-hanging"],
   invariants: [
     {

@@ -8,6 +8,5 @@ export const renameCodeToken = {
   definition: "a name a code file declares renamed wherever it reaches, exported or not",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   changeKindSlug: "change-checked",
 } as const satisfies ChangeAgent

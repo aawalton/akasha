@@ -9,7 +9,6 @@ export const removePackageManifest = {
     "a package's manifest taken away, with the package above taking what that manifest named",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

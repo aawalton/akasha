@@ -1,17 +1,15 @@
 import type { Module } from "../code-system/modules/module.page-type.ts"
 import type { ChangeKindSlug } from "../commands/properties/change-kind-slug.relation-property.ts"
 import type { PageType } from "../pages/types/page-type.page-type.ts"
-import type { ReadersOweReading } from "./kinds/properties/readers-owe-reading.boolean-property.ts"
 import type { ChangeModeSlug } from "./properties/change-mode-slug.relation-property.ts"
 import type { ChangeTargetSubtypeSlug } from "./properties/change-target-subtype-slug.relation-property.ts"
 import type { ChangeTargetTypeSlug } from "./properties/change-target-type-slug.relation-property.ts"
 
 export type Change = Module & {
-  changeKindSlug?: ChangeKindSlug
+  changeKindSlug: ChangeKindSlug
   changeModeSlug: ChangeModeSlug
   changeTargetTypeSlug?: ChangeTargetTypeSlug
   changeTargetSubtypeSlug?: ChangeTargetSubtypeSlug
-  readersOweReading: ReadersOweReading
 }
 
 export const change = {
@@ -48,7 +46,7 @@ export const change = {
     "module/key-requiring",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/change-kind-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/change-kind-slug", required: true, many: false },
     { pagePropertySlug: "relation-property/change-mode-slug", required: true, many: false },
     {
       pagePropertySlug: "relation-property/change-target-type-slug",
@@ -60,7 +58,6 @@ export const change = {
       required: false,
       many: false,
     },
-    { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
   ],
   invariants: [
     {

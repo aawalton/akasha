@@ -10,7 +10,6 @@ export const moveFileOfAnyKind = {
   definition: "one file carried to another path, through the change carrying that kind of path",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

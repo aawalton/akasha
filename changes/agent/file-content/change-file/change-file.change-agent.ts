@@ -8,7 +8,6 @@ export const changeFile = {
   definition: "one passage of one body replaced, judged by the checks a landing runs",
   code: "ts",
   test: "ts",
-  readersOweReading: true,
   invariants: [
     {
       invariantKind: "departure",

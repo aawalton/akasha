@@ -8,7 +8,6 @@ export const moveFolder = {
   definition: "one folder and every file under it moved to another path",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

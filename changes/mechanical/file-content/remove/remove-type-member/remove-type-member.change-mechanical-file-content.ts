@@ -9,7 +9,6 @@ export const removeTypeMember = {
   definition: "one member taken out of an exported object type",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

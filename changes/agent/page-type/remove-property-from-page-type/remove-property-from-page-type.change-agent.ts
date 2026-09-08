@@ -10,7 +10,6 @@ export const removePropertyFromPageType = {
   definition: "one page property taken off one page type",
   code: "ts",
   test: "ts",
-  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",
