@@ -43,7 +43,7 @@ export function bodyFor(one: Health, since: string, now: string): string {
   const held = same ? "It broke just now." : `It has been broken since ${since}.`
   return [
     `\`${one.slug}\` is broken.`,
-    one.broken ?? "",
+    `${one.broken ?? "Nothing said why"}.`,
     held,
     `What that service is and what it runs are on its page.`,
     `Its log is \`journalctl --user -u ${one.unit}\`.`,
