@@ -1,6 +1,10 @@
 {
   "safety": {
-    "confirmActions": ["sell", "destroy", "buy"],
+    "confirmActions": [
+      "sell",
+      "destroy",
+      "buy"
+    ],
     "openCooldownProtection": true
   },
   "logging": {
@@ -243,7 +247,11 @@
         "categoryId": "potions",
         "conditions": {
           "stolen": "not-stolen",
-          "potionEffects": ["health-restore", "magicka-restore", "stamina-restore"],
+          "potionEffects": [
+            "health-restore",
+            "magicka-restore",
+            "stamina-restore"
+          ],
           "potionEffectsMode": "all"
         },
         "stockScope": "any-character",
@@ -268,7 +276,9 @@
           "stolen": "not-stolen",
           "crafted": "not-crafted",
           "maxQuality": 1,
-          "potionEffects": ["stamina-restore"],
+          "potionEffects": [
+            "stamina-restore"
+          ],
           "potionEffectsMode": "any"
         },
         "stockScope": "any-character",
@@ -293,7 +303,9 @@
           "stolen": "not-stolen",
           "crafted": "not-crafted",
           "maxQuality": 1,
-          "potionEffects": ["magicka-restore"],
+          "potionEffects": [
+            "magicka-restore"
+          ],
           "potionEffectsMode": "any"
         },
         "stockScope": "any-character",
@@ -628,7 +640,9 @@
         "updatedAt": 1777910671132,
         "categoryId": "equipment",
         "conditions": {
-          "traits": ["ornate"],
+          "traits": [
+            "ornate"
+          ],
           "canSell": "can-sell"
         }
       },
@@ -1205,29 +1219,31 @@
       }
     ],
     "managed-guild-banks": {
-      "managedGuildBanks": ["Walton Mountain"]
+      "managedGuildBanks": [
+        "Walton Mountain"
+      ]
     }
   },
   "automation": {
     "global": {
       "characters": {
         "food": true,
-        "repair": true,
         "potions": true,
-        "recharge": true,
         "soulGems": true,
-        "lockpicks": true,
-        "dailyWrits": true,
         "repairKits": true,
-        "masterWrits": true,
-        "dailyWritAlchemy": true,
-        "dailyWritClothier": true,
+        "recharge": true,
+        "repair": true,
+        "lockpicks": true,
         "experienceScrolls": true,
-        "dailyWritEnchanting": true,
-        "dailyWritWoodworking": true,
-        "dailyWritProvisioning": true,
+        "dailyWrits": true,
         "dailyWritBlacksmithing": true,
-        "dailyWritJewelrycrafting": true
+        "dailyWritClothier": true,
+        "dailyWritWoodworking": true,
+        "dailyWritJewelrycrafting": true,
+        "dailyWritEnchanting": true,
+        "dailyWritAlchemy": true,
+        "dailyWritProvisioning": true,
+        "masterWrits": true
       },
       "companions": {
         "skills": true
