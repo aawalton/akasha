@@ -306,6 +306,16 @@
     "alan/harness/web-static-assets": {
       "name": "@akasha/web-static-assets",
     },
+    "alan/harness/workspace-paths": {
+      "name": "@akasha/workspace-paths",
+      "dependencies": {
+        "@akasha/command-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
+        "@akasha/utils": "workspace:*",
+        "typescript": "5.9.3",
+        "zod": "^4.3.6",
+      },
+    },
     "alan/library/book-of-everything": {
       "name": "@akasha/book-of-everything",
       "dependencies": {
@@ -2922,16 +2932,6 @@
         "lucide-react": "^0.576.0",
       },
     },
-    "workspace-paths": {
-      "name": "@akasha/workspace-paths",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "typescript": "5.9.3",
-        "zod": "^4.3.6",
-      },
-    },
   },
   "trustedDependencies": [
     "esbuild",
@@ -3491,7 +3491,7 @@
 
     "@akasha/web-static-assets": ["@akasha/web-static-assets@workspace:alan/harness/web-static-assets"],
 
-    "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:workspace-paths"],
+    "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:alan/harness/workspace-paths"],
 
     "@akasha/zimage": ["@akasha/zimage@workspace:inference/generations/zimage"],
 
