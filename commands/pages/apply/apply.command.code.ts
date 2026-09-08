@@ -35,8 +35,6 @@ import {
   type Running,
   rebasedHeld,
 } from "../../../command-system/drafting/drafting.module.code.ts"
-import { gateBuilt } from "../../../command-system/gate-building/gate-building.module.code.ts"
-import { baseOf, changeOf } from "../../../command-system/landing/landing.module.code.ts"
 import {
   APPLY,
   APPLY_PAGE,
@@ -134,24 +132,6 @@ export function rebasedRows(
   return rebasedHeld(root, base, bodies)
 }
 
-async function refusedBefore(root: string, page: string): Promise<readonly string[]> {
-  const kept = keptEdits(root, page, (had) => had)
-  if ("why" in kept) return [kept.why]
-  if (kept.rows.length === 0) return []
-  const base = baseOf(root)
-  const rebased = rebasedRows(root, base, kept.rows)
-  if ("why" in rebased) return [rebased.why]
-  if (rebased.clashed.length > 0) return []
-  const built = gateBuilt(root)
-  if ("broken" in built) return [`no check ran — the checks would not load: ${built.broken}`]
-  const change = changeOf(root, {
-    base,
-    edits: [...rebased.held].map(([path, one]) => ({ path, body: one.body })),
-  })
-  const said = await built.gate.over(change)
-  return said.map((one) => `${one.path} — ${one.reason}`)
-}
-
 export function undone(root: string, page: string, unfold: Unfold, landed: boolean): string | null {
   if (landed) {
     droppedFirst(root, page, unfold.went)
@@ -175,10 +155,6 @@ async function ending(argv: readonly string[], given: Given): Promise<Ended> {
   }
   const held = keptEdits(given.root, page, (had) => had)
   if ("why" in held) return bare({ report: [], refusals: [held.why], code: 3 })
-  if (!argv.includes(BREAK_GLASS)) {
-    const refused = await refusedBefore(given.root, page)
-    if (refused.length > 0) return bare({ report: [], refusals: refused, code: 3 })
-  }
   const said = folding(given.root, page)
   if ("refusals" in said) return bare({ report: [], refusals: said.refusals, code: 3 })
   const paths = said.folded.length

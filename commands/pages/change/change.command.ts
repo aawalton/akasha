@@ -41,7 +41,7 @@ export const change = {
     "`take <subagent>` moves one subagent's handed edits into this agent's own.",
     "a take that would not fold is refused, and leaves both sets where those sets were.",
     "`forget <subagent>` takes one subagent's handed edits away.",
-    "no check runs over the change, and an apply judges the edits kept before folding the edits in.",
+    "no check runs over the change, and an apply judges the edits kept as that apply lands them.",
     "a change is refused where its writer has not read what the change writes, before anything is appended.",
   ],
   invariants: [
@@ -317,7 +317,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "An apply judges the whole set of edits kept before folding the edits in.",
+      statement: "An apply judges the whole set of edits kept as that apply lands them.",
     },
     {
       invariantKind: "departure",

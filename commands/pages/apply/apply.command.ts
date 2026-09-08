@@ -108,10 +108,6 @@ export const apply = {
     },
     {
       invariantKind: "departure",
-      statement: "The checks run before the fold judge the bodies the apply would write.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A row worked out from an older body is merged onto the commit at HEAD first.",
     },
     {
