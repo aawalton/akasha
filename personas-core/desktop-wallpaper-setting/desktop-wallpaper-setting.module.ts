@@ -41,5 +41,9 @@ export const desktopWallpaperSetting = {
       invariantKind: "absence",
       statement: "Nothing here copies a wallpaper's bytes.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A persona's last-messaged stamp is read from the file beside her page.",
+    },
   ],
 } as const satisfies Module

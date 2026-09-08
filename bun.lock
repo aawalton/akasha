@@ -1333,6 +1333,7 @@
       "dependencies": {
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
+        "@akasha/utils-run": "workspace:*",
       },
     },
     "persons": {
