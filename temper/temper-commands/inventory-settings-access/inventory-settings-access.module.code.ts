@@ -1,6 +1,6 @@
 import { deletePages } from "@akasha/pages-access/delete"
 import { getPages } from "@akasha/pages-access/get"
-import { upsertPages } from "@akasha/pages-access/upsert"
+import { upsertPage, upsertPages } from "@akasha/pages-access/upsert"
 import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { AutomationSettingsShape } from "@akasha/temper-inventory-automation/automation-settings-shape"
 import type { AutomationSettings } from "@akasha/temper-inventory-automation/automation-toggles"
@@ -21,7 +21,9 @@ const RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
 
 const RULES_AT_MOST = 500
 
-const INDENT = 2
+const SETTINGS = "settings"
+
+const ENDING = "json"
 
 type SliceKey = "inventory" | "automation"
 
@@ -39,9 +41,15 @@ function extractSliceValue(settings: unknown, sliceKey: SliceKey): unknown {
   return settings[sliceKey]
 }
 
-function parseSettings(value: unknown): Record<string, unknown> {
+function parseSettings(value: unknown, caller: string): Record<string, unknown> {
   if (isPlainObject(value)) return value
   if (typeof value !== "string" || value === "") return {}
+  if (value === ENDING) {
+    throw new Error(
+      `${caller}: \`${SETTINGS}\` came back as the ending \`${ENDING}\` rather than the body of ` +
+        `the file beside the player page, so what is already set went unread`
+    )
+  }
   try {
     const held: unknown = JSON.parse(value)
     return isPlainObject(held) ? held : {}
@@ -54,7 +62,8 @@ async function readPlayerPage(accountUserId: string, caller: string): Promise<Pl
   const asked = await askComposed({
     "page-type": PLAYER_PAGE_TYPE_SLUG,
     where: { title: { is: accountUserId } },
-    keys: ["slug", "settings"],
+    keys: ["slug", SETTINGS],
+    files: [SETTINGS],
     limit: 1,
   })
   if (!asked.ok) {
@@ -70,7 +79,7 @@ async function readPlayerPage(accountUserId: string, caller: string): Promise<Pl
       `${caller}: the ${PLAYER_PAGE_TYPE_SLUG} page carrying title='${accountUserId}' states no name of its own`
     )
   }
-  return { name, settings: parseSettings(row.values.settings) }
+  return { name, settings: parseSettings(row.values[SETTINGS], caller) }
 }
 
 async function readSettings(
@@ -80,8 +89,6 @@ async function readSettings(
   return (await readPlayerPage(accountUserId, caller)).settings
 }
 
-const NO_KEYED_WRITE = "the page store refuses every keyed write"
-
 async function writeSlice(
   accountUserId: string,
   sliceKey: SliceKey,
@@ -89,12 +96,13 @@ async function writeSlice(
   caller: string
 ): Promise<undefined> {
   const player = await readPlayerPage(accountUserId, caller)
-  const settings = JSON.stringify({ ...player.settings, [sliceKey]: next }, null, INDENT)
-  throw new Error(
-    `${caller}: the \`${sliceKey}\` settings of \`${PLAYER_PAGE_TYPE_SLUG}/${player.name}\` were ` +
-      `not patched — ${NO_KEYED_WRITE}. ${settings.length} character(s) of settings were built ` +
-      `and dropped, and every read of these rules still answers with what was there before`
-  )
+  await upsertPage({
+    pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
+    where: [{ key: "title", eq: accountUserId }],
+    set: { title: accountUserId, [SETTINGS]: ENDING },
+    bodies: { [SETTINGS]: JSON.stringify({ ...player.settings, [sliceKey]: next }) },
+  })
+  return undefined
 }
 
 async function readHeldRules(accountUserId: string): Promise<readonly HeldRule[]> {
@@ -103,7 +111,7 @@ async function readHeldRules(accountUserId: string): Promise<readonly HeldRule[]
     where: [{ key: "accountPage", eq: accountUserId }],
     limit: RULES_AT_MOST,
   })
-  return heldFromRows(rows as unknown as readonly Record<string, unknown>[])
+  return heldFromRows(rows.map((row) => ({ ...row })))
 }
 
 export async function readInventoryRuleSettings(

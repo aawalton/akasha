@@ -38,20 +38,19 @@ export const inventorySettingsAccess = {
     },
     {
       invariantKind: "departure",
-      statement: "The page store refuses every keyed write.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "No automation setting on the player page is kept.",
+      statement: "The settings blob is asked for under `files`.",
     },
     {
       invariantKind: "departure",
-      statement: "A slice is assembled before the refusal so a rule that cannot be held is caught.",
+      statement: "A blob answering as its file's ending is refused rather than read as unset.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A refusal says how many characters went unkept rather than only that the page store refused.",
+      statement: "A write lands the blob beside the page rather than under a key on the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write carries the whole blob merged onto the blob last read.",
     },
   ],
 } as const satisfies Module
