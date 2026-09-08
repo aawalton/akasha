@@ -79,5 +79,6 @@ export const persona = {
     "module/git-byte-pathspecs",
     "module/green-day-fraction",
     "module/last-messaged",
+    "module/points-source-availability",
   ],
 } as const satisfies WorkspacePackage
