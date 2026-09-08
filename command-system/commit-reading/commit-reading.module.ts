@@ -30,6 +30,18 @@ export const commitReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A tree the reader already walked is not walked again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is asked for by its object name rather than by its path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path no tree the commit carries names is answered without an ask.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The reader is kept between calls and ended where a call throws.",
     },
     {
