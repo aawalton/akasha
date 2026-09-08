@@ -43,6 +43,10 @@ export const addPageProperty = {
       statement: "The body is answered rather than written.",
     },
     {
+      invariantKind: "departure",
+      statement: "The passage answered is the lines the key is put into rather than the body.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the index.",
     },

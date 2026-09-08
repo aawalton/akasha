@@ -51,6 +51,10 @@ export const removePageProperty = {
       statement: "The body is answered rather than written.",
     },
     {
+      invariantKind: "departure",
+      statement: "The passage answered is the lines the key is taken out of rather than the body.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the index.",
     },
