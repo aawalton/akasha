@@ -52,7 +52,24 @@ export const addPropertyToPageType = {
     },
     {
       invariantKind: "departure",
-      statement: "A property whose page sits outside the page type's folder is refused.",
+      statement: "A property whose page sits beside the page type is reached by a relative path.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A property sitting outside that folder is reached by the name a package gives it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That name is read from the manifests the index names rather than from the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first name in order is spelled where a file is named more than once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property outside that folder no package names is refused.",
     },
     {
       invariantKind: "departure",
@@ -69,10 +86,6 @@ export const addPropertyToPageType = {
     {
       invariantKind: "departure",
       statement: "Putting each part in is left to the mechanical changes.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A property reached through a package alias is declared here.",
     },
     {
       invariantKind: "absence",

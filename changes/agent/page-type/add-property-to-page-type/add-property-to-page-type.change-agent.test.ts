@@ -20,12 +20,24 @@ const VALUE = "change-mechanical-file-content/add-property-value"
 
 const MEMBER = "change-mechanical-file-content/add-type-member"
 
+const OUTSIDE_AT = "elsewhere/web-directory.build-folder-property.ts"
+
+const MANIFEST_AT = "elsewhere/package.json"
+
+const NAMED = "@probe/elsewhere/web-directory"
+
+const MANIFEST = JSON.stringify({
+  name: "@probe/elsewhere",
+  exports: { "./web-directory": "./web-directory.build-folder-property.ts" },
+})
+
 type Reached = { readonly at: string; readonly given: Record<string, unknown> }
 
 type Holding = {
   readonly path?: string
   readonly listed?: boolean
   readonly owner?: boolean
+  readonly named?: boolean
 }
 
 function catching(seen: Reached[]): Reaching {
@@ -37,14 +49,18 @@ function catching(seen: Reached[]): Reaching {
 
 function worldFor(seen: Reached[], holding: Holding = {}): World {
   const path = holding.path ?? PROPERTY_AT
+  const held: Readonly<Record<string, string>> =
+    holding.named === false ? {} : { [MANIFEST_AT]: MANIFEST }
   return {
-    ...worldOf({}),
+    ...worldOf(held),
     index: {
       listedAt: () => (holding.listed === false ? [] : [{ path, id: path }]),
       pageByPath: (one: string) => {
         if (one === OWNER_AT) return holding.owner === false ? null : { slug: "ios-app" }
         return { propertySlug: "web-directory" }
       },
+      everyPath: () => Object.keys(held),
+      fileKeysAt: () => new Map([["manifest", "package.json"]]),
     } as never,
     reaching: catching(seen),
   }
@@ -126,14 +142,21 @@ test("a member is written required where the declaration is required", async () 
   expect(seen[2]?.given.optional).toBe(false)
 })
 
-test("a property whose page sits outside the page type's folder is refused", async () => {
+test("a property sitting outside that folder is reached by the name a package gives it", async () => {
   const seen: Reached[] = []
-  const said = await answering(
-    seen,
-    {},
-    { path: "elsewhere/web-directory.build-folder-property.ts" }
-  )
-  expect(said.refused).toContain("sits outside")
+
+  const said = await answering(seen, {}, { path: OUTSIDE_AT })
+
+  expect(said.refused).toBe(null)
+  expect(seen[2]?.given.from).toBe(NAMED)
+})
+
+test("a property outside that folder no package names is refused", async () => {
+  const seen: Reached[] = []
+
+  const said = await answering(seen, {}, { path: OUTSIDE_AT, named: false })
+
+  expect(said.refused).toContain("no package names it")
   expect(seen).toHaveLength(0)
 })
 

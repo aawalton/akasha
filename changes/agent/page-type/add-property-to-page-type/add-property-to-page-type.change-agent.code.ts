@@ -1,4 +1,5 @@
 import { dirname } from "node:path"
+import { manifestsIn, reachingOf } from "@akasha/indexes/package-reaching"
 import { importedFrom } from "@akasha/pages/page-body"
 import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
 import { textAt } from "@akasha/pages/page-value-reading"
@@ -60,6 +61,18 @@ export function addressed(property: string): readonly [string, string] | null {
   return [property.slice(0, cut), property.slice(cut + 1)]
 }
 
+export function reachedBy(world: World, path: string): string | null {
+  const naming = reachingOf(
+    manifestsIn(world.index.everyPath(), world.index.fileKeysAt()),
+    world.textOf
+  )
+  const found: string[] = []
+  for (const [specifier, at] of naming) {
+    if (at === path) found.push(specifier)
+  }
+  return found.sort()[0] ?? null
+}
+
 export function recordFor(given: AddPropertyToPageTypeAsked): string {
   const held = [
     `pagePropertySlug: ${JSON.stringify(given.property)}`,
@@ -86,10 +99,11 @@ export async function addPropertyToPageType(
   if (owner === null) return refusing(`\`${given.at}\` names no page type`)
   const owning = textAt(owner, SLUG)
   if (owning === null) return refusing(`\`${given.at}\` states no slug`)
-  const from = importedFrom(given.at, listed.path)
-  if (from.startsWith(OUTSIDE)) {
+  const beside = importedFrom(given.at, listed.path)
+  const from = beside.startsWith(OUTSIDE) ? reachedBy(world, listed.path) : beside
+  if (from === null) {
     return refusing(
-      `\`${listed.path}\` sits outside \`${dirname(given.at)}\`, so no import is spelled`
+      `\`${listed.path}\` sits outside \`${dirname(given.at)}\` and no package names it, so no import is spelled`
     )
   }
   const answers: Answer[] = []
