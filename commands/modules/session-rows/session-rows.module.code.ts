@@ -25,9 +25,9 @@ export type LevelsReading =
   | { readonly read: "levels"; readonly levels: { safetyLevel?: string; difficultyLevel?: string } }
   | { readonly read: "refused"; readonly refusals: readonly string[] }
 
-export const DAYS_AT = "alan/tracking/daily/wake-days/pages"
+export const DAYS_AT = "alan/track/daily/wake-days/pages"
 
-export const ACTIVITIES_AT = "alan/tracking/session-activities/pages"
+export const ACTIVITIES_AT = "alan/track/session-activities/pages"
 
 export const RELATIONSHIPS_AT = "alan/relating/relationships/pages"
 

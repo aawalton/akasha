@@ -61,14 +61,13 @@ test("a path elsewhere under akasha is a stray", () => {
 
 test("a path beside the food entries rather than under them is a stray", () => {
   expect(
-    strayIn(ROOT, ["--file-path", "akasha/alan/tracking/food-entries/food-entry.page-type.ts"])
-      .length
+    strayIn(ROOT, ["--file-path", "akasha/alan/track/food-entries/food-entry.page-type.ts"]).length
   ).toBe(1)
 })
 
 test("a path outside akasha altogether is a stray", () => {
   expect(
-    strayIn(ROOT, ["--remove", "akasha/alan/tracking/daily/akasha-day/akasha-day.module.code.ts"])
+    strayIn(ROOT, ["--remove", "akasha/alan/track/daily/akasha-day/akasha-day.module.code.ts"])
       .length
   ).toBe(1)
 })

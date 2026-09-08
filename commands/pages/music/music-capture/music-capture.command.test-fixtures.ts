@@ -17,7 +17,7 @@ import {
 
 export const ROOT = rootOf(process.cwd())
 
-const DAYS = "alan/tracking/daily/eso-days/pages"
+const DAYS = "alan/track/daily/eso-days/pages"
 
 export const FILED_DAY = `${DAYS}/2026-08-21/eso-day-2026-08-21.eso-day`
 

@@ -6,7 +6,7 @@ export const topicWordsService = {
   slug: "topic-words-service",
   definition:
     "the service counting Alan's wisdom and intelligence words onto the day he wrote them",
-  runs: ["bun alan/tracking/daily/topic-words/topic-words.module.code.ts"],
+  runs: ["bun alan/track/daily/topic-words/topic-words.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "*:0/15",

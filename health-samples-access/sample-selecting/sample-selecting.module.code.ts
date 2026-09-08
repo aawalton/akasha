@@ -7,7 +7,7 @@ import type { HealthMetric, HealthSampleRecord } from "../sample-shape/sample-sh
 
 export const SAMPLE_ROWS_KEY = "health-samples"
 
-export const DAYS_KEPT_IN = "alan/tracking/daily/eso-days/pages"
+export const DAYS_KEPT_IN = "alan/track/daily/eso-days/pages"
 
 export const DAY_SLUG_PREFIX = "eso-day-"
 

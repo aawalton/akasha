@@ -6,9 +6,9 @@ import { mistaking } from "@akasha/command-system/asking"
 import { type Answer, answering } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
 
-export const DAYS_AT = "alan/tracking/daily/wake-days/pages/"
+export const DAYS_AT = "alan/track/daily/wake-days/pages/"
 
-export const FOOD_ENTRIES_AT = "alan/tracking/food-entries/pages/"
+export const FOOD_ENTRIES_AT = "alan/track/food-entries/pages/"
 
 export const TRACKED_AT: readonly string[] = [DAYS_AT, FOOD_ENTRIES_AT]
 
