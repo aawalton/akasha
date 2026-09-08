@@ -16,13 +16,13 @@ import type {
   PrintResult,
   SourceChunk,
 } from "../lua-printer-helpers/lua-printer-helpers.module.code.ts"
+import * as stmt from "../lua-printer-statements/lua-printer-statements.module.code.ts"
 import { lualibPrinterHolder } from "../lualib-builder-deps/lualib-builder-deps.module.code.ts"
 import {
   loadImportedLualibFeatures,
   loadInlineLualibFeatures,
 } from "../lualib-runtime/lualib-runtime.module.code.ts"
 import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
-import * as stmt from "../tstl-lua-printer-statements/tstl-lua-printer-statements.module.code.ts"
 
 export function createPrinter(printers: readonly Printer[]): Printer {
   if (printers.length === 0) {
