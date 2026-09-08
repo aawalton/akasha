@@ -5,7 +5,7 @@ export const thePrimalHunter0017Chapter1145TwoSmallSprouts = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0017-chapter-1145-two-small-sprouts",
   title: " Chapter 1145 - Two Small Sprouts",
-  partOfSlugs: ["story-read/the-primal-hunter"],
+  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
   position: 17,
   ownLength: 3183,
   unitSlug: "words",

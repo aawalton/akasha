@@ -5,7 +5,7 @@ export const thePrimalHunter0023Chapter1151ALifeOfTwoMasks = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0023-chapter-1151-a-life-of-two-masks",
   title: "Chapter 1151 - A Life of Two Masks",
-  partOfSlugs: ["story-read/the-primal-hunter"],
+  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
   position: 23,
   ownLength: 2813,
   unitSlug: "words",

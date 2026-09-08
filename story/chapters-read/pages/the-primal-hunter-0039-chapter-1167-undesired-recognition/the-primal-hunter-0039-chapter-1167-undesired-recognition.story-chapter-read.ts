@@ -5,7 +5,7 @@ export const thePrimalHunter0039Chapter1167UndesiredRecognition = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0039-chapter-1167-undesired-recognition",
   title: "Chapter 1167 - Undesired Recognition",
-  partOfSlugs: ["story-read/the-primal-hunter"],
+  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
   position: 39,
   ownLength: 2839,
   unitSlug: "words",

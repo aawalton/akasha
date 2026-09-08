@@ -5,7 +5,7 @@ export const thePrimalHunter0074Chapter1202TheOlderAndWiserFriend = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0074-chapter-1202-the-older-and-wiser-friend",
   title: "Chapter 1202 - The Older & Wiser Friend",
-  partOfSlugs: ["story-read/the-primal-hunter"],
+  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
   position: 74,
   ownLength: 2761,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0071Chapter1199UnexplainableMotivesAndCulprits = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0071-chapter-1199-unexplainable-motives-and-culprits",
   title: "Chapter 1199 - Unexplainable Motives & Culprits",
-  partOfSlugs: ["story-read/the-primal-hunter"],
+  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
   position: 71,
   ownLength: 2842,
   unitSlug: "words",

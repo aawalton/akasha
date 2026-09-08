@@ -5,7 +5,7 @@ export const theNewWorld0420460ForgingPaths = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0420-460-forging-paths",
   title: "460 Forging Paths",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 420,
   ownLength: 3468,
   unitSlug: "words",
