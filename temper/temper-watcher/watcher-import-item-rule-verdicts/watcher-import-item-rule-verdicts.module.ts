@@ -47,6 +47,18 @@ export const watcherImportItemRuleVerdicts = {
     },
     {
       invariantKind: "departure",
+      statement: "The settings blob is asked for under `files`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A blob answering as its file's ending is refused rather than read as unset.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write lands the whole blob beside the page with the rules amended in it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Unreadable settings read as an empty rule set.",
     },
     {

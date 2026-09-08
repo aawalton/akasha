@@ -1,5 +1,5 @@
-import { getPage } from "@akasha/pages-access/get"
-import { patchPage } from "@akasha/pages-access/patch"
+import { upsertPage } from "@akasha/pages-access/upsert"
+import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { upsertItemRuleByItemId } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import type { ItemAction } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
@@ -21,6 +21,12 @@ const TEMPER_PLAYER_PAGE_TYPE_SLUG = "temper-player"
 const INVENTORY_SAVED_VARIABLES_GLOBAL = "TemperInventory_SavedVariables"
 
 const OUTBOX_KEY = "pendingSettingsMutations"
+
+const SETTINGS = "settings"
+
+const ENDING = "json"
+
+const INDENT = 2
 
 const VERDICT_ACTIONS = ["sell", "nothing"] as const satisfies readonly ItemAction[]
 
@@ -92,22 +98,47 @@ export type VerdictSettingsStore = {
   readonly write: (userId: string, inventory: Json) => Promise<void>
 }
 
+async function settingsBlobOf(userId: string): Promise<Record<string, unknown> | null> {
+  const asked = await askComposed({
+    "page-type": TEMPER_PLAYER_PAGE_TYPE_SLUG,
+    where: { title: { is: userId } },
+    keys: ["slug", SETTINGS],
+    files: [SETTINGS],
+    limit: 1,
+  })
+  if (!asked.ok) {
+    throw new Error(`the ${TEMPER_PLAYER_PAGE_TYPE_SLUG} page went unread — ${asked.why}`)
+  }
+  const row = asked.answer.rows[0]
+  if (row === undefined) return null
+  const held = row.values[SETTINGS]
+  if (typeof held !== "string" || held === "") return {}
+  if (held === ENDING) {
+    throw new Error(
+      `\`${SETTINGS}\` came back as the ending \`${ENDING}\` rather than the body of the file ` +
+        `beside the player page, so what is already set went unread`
+    )
+  }
+  return asRecord(JSON.parse(held)) ?? {}
+}
+
 export function temperPlayerSettingsStore(): VerdictSettingsStore {
   return {
     read: async (userId) => {
-      const page = await getPage({
-        pageTypeSlug: TEMPER_PLAYER_PAGE_TYPE_SLUG,
-        where: [{ key: "title", eq: userId }],
-      })
-      if (page == null) return { present: false }
-      return { present: true, inventory: asRecord(asRecord(page)?.settings)?.inventory }
+      const blob = await settingsBlobOf(userId)
+      if (blob === null) return { present: false }
+      return { present: true, inventory: blob.inventory }
     },
     write: async (userId, inventory) => {
-      await patchPage({
+      const blob = await settingsBlobOf(userId)
+      if (blob === null) {
+        throw new Error(`no ${TEMPER_PLAYER_PAGE_TYPE_SLUG} page carries title='${userId}'`)
+      }
+      await upsertPage({
         pageTypeSlug: TEMPER_PLAYER_PAGE_TYPE_SLUG,
         where: [{ key: "title", eq: userId }],
-        set: {},
-        patch: [{ op: "replace", path: "/settings/inventory", value: inventory }],
+        set: { title: userId, [SETTINGS]: ENDING },
+        bodies: { [SETTINGS]: JSON.stringify({ ...blob, inventory }, null, INDENT) },
       })
     },
   }
