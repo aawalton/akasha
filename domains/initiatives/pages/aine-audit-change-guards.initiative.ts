@@ -29,12 +29,6 @@ export const aineAuditChangeGuards = {
       workingMemory:
         "The three flags a run mode is made of, `runsChecks`, `readersOweReading` and `writerOwesReading`, are stated on every change page and narrowed to false by `change-mechanical`. The mechanical runner restates them as one constant, and that is the only branch of its kind in the changes. The runner reaches mechanical changes alone, so the constant is its own kind made concrete rather than a second place the flags are held. Nothing here takes a dry run or a draft yet.\n",
     },
-    {
-      statement:
-        "Code outside the changes writes the repository through a change rather than by itself.\n",
-      workingMemory:
-        "`repository-is-written-by-a-change` is landed and binds at patch. It judges every `.code.ts` outside the change package and the command system, both asked of the index, and refuses a destination built from the checkout root and named `.ts`. Eight are left, over `temper-eso-generate-typings`, `-chatter-names`, `-hud-scene-catalog` and `temper-addon-bundle-publish`. A destination worked out at run time is seen by nothing.\n",
-    },
   ],
   constraints: [
     "A guard judges the answer a change gives, so what can be judged without that answer is a check.",
