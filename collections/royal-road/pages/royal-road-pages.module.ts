@@ -9,12 +9,12 @@ export const royalRoadPages = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A chapter list is read off the `window.chapters` array the page carries.",
+      statement: "A chapter list is read off the `window.chapters` array the page has.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A fiction's title and author are read off the linked-data Book block the page carries.",
+        "A fiction's title and author are read off the linked-data Book block the page has.",
     },
     {
       invariantKind: "departure",

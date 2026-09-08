@@ -4,7 +4,7 @@ export const calling = {
   id: "01a04bdd-596d-7b89-a6ed-1d12396208f3",
   pageTypeSlug: "module",
   slug: "calling",
-  definition: "a name from the command line answered by the command that carries it",
+  definition: "a name from the command line answered by the command that has it",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -66,7 +66,7 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A level carrying no command is walked through rather than ending the walk.",
+      statement: "A level with no command is walked through rather than ending the walk.",
     },
     {
       invariantKind: "departure",
@@ -106,7 +106,7 @@ export const calling = {
     {
       invariantKind: "departure",
       statement:
-        "A name a namespace carries rather than a command is answered with what that namespace holds.",
+        "A name a namespace has rather than a command is answered with what that namespace holds.",
     },
     {
       invariantKind: "departure",
@@ -139,12 +139,11 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "An index naming no page type for commands is not an index carrying no command.",
+      statement: "An index naming no page type for commands is not an index with no command.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The change kind a call already carries holds over the change kind the page names.",
+      statement: "The change kind a call already has holds over the change kind the page names.",
     },
     {
       invariantKind: "departure",

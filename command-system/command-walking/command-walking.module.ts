@@ -22,11 +22,11 @@ export const commandWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "The deepest level carrying a page is the level reached.",
+      statement: "The deepest level with a page is the level reached.",
     },
     {
       invariantKind: "departure",
-      statement: "A level carrying nothing is stepped through rather than ending the walk.",
+      statement: "A level with nothing is stepped through rather than ending the walk.",
     },
     {
       invariantKind: "departure",

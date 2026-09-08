@@ -4,7 +4,7 @@ export const commandAnswering = {
   id: "01a07c6e-41a7-7d0a-8e45-27f5fb2e74f2",
   pageTypeSlug: "module",
   slug: "command-answering",
-  definition: "the answer a command hands back, and the code that answer carries",
+  definition: "the answer a command hands back, and the code that answer has",
   code: "ts",
   test: "ts",
   invariants: [
@@ -18,11 +18,11 @@ export const commandAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "A fault carrying a code of its own is answered with that code.",
+      statement: "A fault with a code of its own is answered with that code.",
     },
     {
       invariantKind: "departure",
-      statement: "A fault carrying no code of its own is answered as operational.",
+      statement: "A fault with no code of its own is answered as operational.",
     },
     {
       invariantKind: "departure",

@@ -60,7 +60,7 @@ export const bodyMerging = {
     },
     {
       invariantKind: "departure",
-      statement: "A body marked as taken away carries no line under the label for what HEAD holds.",
+      statement: "A body marked as taken away has no line under the label for what HEAD holds.",
     },
     {
       invariantKind: "departure",
@@ -68,8 +68,7 @@ export const bodyMerging = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body carrying the label for the body a change would leave is carrying a conflict.",
+      statement: "A body with the label for the body a change would leave is carrying a conflict.",
     },
     {
       invariantKind: "departure",

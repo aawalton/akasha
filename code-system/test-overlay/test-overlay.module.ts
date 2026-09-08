@@ -22,11 +22,11 @@ export const testOverlay = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the change carries no body for is read off the checkout.",
+      statement: "A path the change has no body for is read off the checkout.",
     },
     {
       invariantKind: "departure",
-      statement: "A link the change carries is made at the path that link is filed at.",
+      statement: "A link the change has is made at the path that link is filed at.",
     },
     {
       invariantKind: "departure",

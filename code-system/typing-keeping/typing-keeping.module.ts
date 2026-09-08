@@ -25,7 +25,7 @@ export const typingKeeping = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes a file the commit carries.",
+      statement: "Nothing here writes a file the commit has.",
     },
   ],
 } as const satisfies Module

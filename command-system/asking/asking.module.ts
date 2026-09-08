@@ -73,7 +73,7 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the patch carries a conflict at is named in the report as well.",
+      statement: "A path the patch has a conflict at is named in the report as well.",
     },
     {
       invariantKind: "departure",
@@ -108,7 +108,7 @@ export const asking = {
     {
       invariantKind: "departure",
       statement:
-        "A change carrying a package manifest installs the checkout onto the commit that change landed.",
+        "A change with a package manifest installs the checkout onto the commit that change landed.",
     },
     {
       invariantKind: "departure",
@@ -155,7 +155,7 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing carrying no change kind runs every check.",
+      statement: "A landing with no change kind runs every check.",
     },
     {
       invariantKind: "departure",

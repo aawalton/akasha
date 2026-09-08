@@ -21,7 +21,7 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
-      statement: "A chapter stating no royal road id is known by the id its link carries.",
+      statement: "A chapter stating no royal road id is known by the id its link has.",
     },
     {
       invariantKind: "departure",

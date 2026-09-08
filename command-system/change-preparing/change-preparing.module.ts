@@ -28,8 +28,7 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A change carrying a package manifest carries the lockfile those manifests warrant.",
+      statement: "A change with a package manifest has the lockfile those manifests warrant.",
     },
     {
       invariantKind: "departure",
@@ -71,8 +70,7 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "That change carries the paths a move renames as well as the paths an edit writes.",
+      statement: "That change has the paths a move renames as well as the paths an edit writes.",
     },
     {
       invariantKind: "departure",
@@ -86,7 +84,7 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page whose slug names no export refuses the change carrying that page.",
+      statement: "A page whose slug names no export refuses the change with that page.",
     },
     {
       invariantKind: "departure",

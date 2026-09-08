@@ -75,15 +75,15 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch carrying a conflict does not apply.",
+      statement: "A patch with a conflict does not apply.",
     },
     {
       invariantKind: "departure",
-      statement: "A body carrying the marks a merge left is a body carrying a conflict.",
+      statement: "A body with the marks a merge left is a body with a conflict.",
     },
     {
       invariantKind: "departure",
-      statement: "Every path the patch carries a conflict at is named in the refusal.",
+      statement: "Every path the patch has a conflict at is named in the refusal.",
     },
     {
       invariantKind: "departure",
@@ -111,7 +111,7 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "An apply carrying a manifest carries the lockfile those manifests warrant.",
+      statement: "An apply with a manifest has the lockfile those manifests warrant.",
     },
     {
       invariantKind: "departure",
@@ -120,7 +120,7 @@ export const applying = {
     {
       invariantKind: "departure",
       statement:
-        "An apply carrying a manifest installs the checkout onto the commit that apply landed.",
+        "An apply with a manifest installs the checkout onto the commit that apply landed.",
     },
     {
       invariantKind: "departure",
@@ -183,7 +183,7 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "An apply whose patch owes its readers reading carries no reading.",
+      statement: "An apply whose patch owes its readers reading has no reading.",
     },
     {
       invariantKind: "departure",
@@ -192,7 +192,7 @@ export const applying = {
     },
     {
       invariantKind: "gap",
-      statement: "A path the patch renamed carries the reading of the body that path came from.",
+      statement: "A path the patch renamed has the reading of the body that path came from.",
     },
     {
       invariantKind: "absence",

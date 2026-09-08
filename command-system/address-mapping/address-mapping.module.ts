@@ -50,7 +50,7 @@ export const addressMapping = {
     {
       invariantKind: "departure",
       statement:
-        "What a change could turn is read from the names of the paths it carries and the code beside them.",
+        "What a change could turn is read from the names of the paths it has and the code beside them.",
     },
     {
       invariantKind: "departure",

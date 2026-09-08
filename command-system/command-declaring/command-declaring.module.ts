@@ -30,7 +30,7 @@ export const commandDeclaring = {
     },
     {
       invariantKind: "gap",
-      statement: "A command page carries this declaration as data rather than as prose.",
+      statement: "A command page has this declaration as data rather than as prose.",
     },
   ],
 } as const satisfies Module

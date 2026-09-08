@@ -36,7 +36,7 @@ export const changeRunning = {
     {
       invariantKind: "departure",
       statement:
-        "A value carrying a quote or a newline reaches the change as the caller wrote that value.",
+        "A value with a quote or a newline reaches the change as the caller wrote that value.",
     },
     {
       invariantKind: "departure",
@@ -215,7 +215,7 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A call naming no change is refused with every change the index carries.",
+      statement: "A call naming no change is refused with every change the index has.",
     },
   ],
 } as const satisfies Module
