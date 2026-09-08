@@ -95,6 +95,9 @@ export type Changes = {
   "change-mechanical-folder/remove-folder": Parameters<
     typeof import("../../../mechanical/folder/remove/remove-folder/remove-folder.change-mechanical-folder.code.ts")["runChange"]
   >[1]
+  "change-mechanical-folder/remove-folder-package": Parameters<
+    typeof import("../../../mechanical/folder/remove/remove-folder-package/remove-folder-package.change-mechanical-folder.code.ts")["runChange"]
+  >[1]
   "change-mechanical/add-file-code": Parameters<
     typeof import("../../../mechanical/file/add/add-file-code/add-file-code.change-mechanical.code.ts")["runChange"]
   >[1]

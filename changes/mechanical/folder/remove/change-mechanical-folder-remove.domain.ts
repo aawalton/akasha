@@ -5,5 +5,8 @@ export const changeMechanicalFolderRemove = {
   pageTypeSlug: "domain",
   slug: "change-mechanical-folder-remove",
   definition: "a mechanical change taking a folder away",
-  partSlugs: ["change-mechanical-folder/remove-folder"],
+  partSlugs: [
+    "change-mechanical-folder/remove-folder",
+    "change-mechanical-folder/remove-folder-package",
+  ],
 } as const satisfies Domain
