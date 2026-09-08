@@ -6,7 +6,7 @@ import {
   shapeOf,
   shownRule,
   TSV,
-} from "../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "../../../../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-item-rule-show"
 
