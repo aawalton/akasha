@@ -17,6 +17,7 @@ import { runChange as moveFileCode } from "../../../mechanical/file/move/move-fi
 import { runChange as changePageProperty } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
+import { runChange as renamePageAddress } from "../../../mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
 import { runChange as renamePageSlug } from "../../../mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
@@ -98,7 +99,14 @@ const statedAs = (value: Record<string, unknown>, named: string): string =>
 
 const OTHER_VALUE = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
 
-const heldAt: string = indexedRepo()
+const SPELLER_PAGE = "akasha/eight/speller.module.ts"
+
+const SPELLER_CODE = "akasha/eight/speller.module.code.ts"
+
+const heldAt: string = indexedRepo({
+  [SPELLER_PAGE]: pageOf({ id: idOf("c"), pageTypeSlug: "module", slug: "speller", code: "ts" }),
+  [SPELLER_CODE]: `export const at = "module/${HELD_SLUG}"\n`,
+})
 
 const otherAt: string = indexedRepo({
   [OTHER_PAGE]: statedAs(OTHER_VALUE, "otherOne"),
@@ -123,6 +131,9 @@ const RUNS: Reaching = async (world, at, given) => {
   }
   if (at === "change-mechanical-file-content/change-imports") {
     return changeImports(world, given as Parameters<typeof changeImports>[1])
+  }
+  if (at === "change-mechanical-file-content/rename-page-address") {
+    return await renamePageAddress(world, given as Parameters<typeof renamePageAddress>[1])
   }
   return refusing(`\`${at}\` is reached by nothing here`)
 }
@@ -203,8 +214,9 @@ test("the slug rename and each carry are reached at their own addresses", async 
 
   await renamePage(world, { at: HELD_PAGE, to: CARRIED })
 
+  expect(reached[0]).toBe("change-mechanical-file-content/rename-page-address")
   expect(reached[reached.length - 1]).toBe("change-mechanical-file-content/rename-page-slug")
-  expect(new Set(reached.slice(0, -1))).toEqual(new Set(["change-mechanical/move-file-code"]))
+  expect(new Set(reached.slice(1, -1))).toEqual(new Set(["change-mechanical/move-file-code"]))
 })
 
 test("a page's slug is renamed in its data, and its files are carried with it", async () => {
@@ -240,6 +252,13 @@ test("a page's slug is renamed in its data, and its files are carried with it", 
   )
   expect(bodies.get(HELD_PAGE)).toBe(null)
   expect(bodies.get(HELD_CODE)).toBe(null)
+})
+
+test("a body that is no page spelling the page's address states the new address", async () => {
+  const was = textIn(heldAt)
+  const said = await renamePage(worldIn(heldAt, was), { at: HELD_PAGE, to: CARRIED })
+  expect(said.refused).toBe(null)
+  expect(bodiesIn(said, was).get(SPELLER_CODE)).toBe(`export const at = "module/${CARRIED}"\n`)
 })
 
 test("a beside file whose key is more than one word is carried too", async () => {

@@ -70,5 +70,13 @@ export const renamePage = {
       invariantKind: "departure",
       statement: "A page no manifest names as a way in leaves every manifest as that manifest is.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The address a page's slug names is restated wherever a body spells that address.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The address is restated before any file the page keeps beside it is carried.",
+    },
   ],
 } as const satisfies ChangeAgent

@@ -35,6 +35,8 @@ const CODE = new Set([".ts", ".tsx"])
 
 const RENAME_EXPORT = "change-mechanical-file-content/rename-export"
 
+const RENAME_PAGE_ADDRESS = "change-mechanical-file-content/rename-page-address"
+
 const TYPED = ".ts"
 
 const SLUG = "slug"
@@ -314,6 +316,17 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
   }
   const carries = [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]
   const way = wayIn(world, new Map(carries.map((one) => [one.from, one.to])), held.slug, given.to)
+  if (given.to !== held.slug) {
+    const addressed = await reach(seen, RENAME_PAGE_ADDRESS, {
+      was: `${held.pageTypeSlug}/${held.slug}`,
+      now: `${held.pageTypeSlug}/${given.to}`,
+    })
+    if (addressed.said.refused !== null) return addressed.said
+    answers.push(addressed.said)
+    folded = gathered(answers)
+    if (folded.refused !== null) return folded
+    seen = addressed.world
+  }
   for (const one of carries) {
     const named = CODE.has(extname(one.from)) ? MOVE_FILE_CODE : MOVE_FILE
     const carried = await reach(seen, named, one)
