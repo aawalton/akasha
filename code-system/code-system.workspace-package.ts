@@ -55,6 +55,7 @@ export const codeSystem = {
     "module/name-series",
     "module/value-inserting",
     "module/test-bodies",
+    "module/test-overlay",
     "page-type/lualib",
   ],
   directives: [
