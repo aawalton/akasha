@@ -40,10 +40,11 @@ export type World = {
   readonly reaching?: Reaching
 }
 
-function treeUnder(root: string, folder: string): readonly string[] {
+function treeUnder(root: string, folder: string, index: Answering): readonly string[] {
   const at = join(root, folder)
   if (!existsSync(at)) return []
-  return walkedUnder(at, () => true)
+  const entering = (path: string): boolean => index.listedByPath(relative(root, path)).length === 0
+  return walkedUnder(at, () => true, entering)
     .map((one) => relative(root, one))
     .sort()
 }
@@ -118,11 +119,12 @@ export function worldAt(
   textOf: (path: string) => string | null,
   reaching: Reaching = REACHES_NOTHING
 ): World {
+  const index = shadowAt(root).index
   return {
     root,
-    index: shadowAt(root).index,
+    index,
     textOf,
-    under: (folder) => treeUnder(root, folder),
+    under: (folder) => treeUnder(root, folder, index),
     base: textOf,
     over: NOTHING_OVER,
     reaching,
@@ -197,14 +199,17 @@ export function ledgerAt(
     over: NOTHING_OVER,
     index: null,
   }
+  const asked = (): Answering => {
+    if (kept.index === null) kept.index = settledIn(kept)
+    return kept.index
+  }
   return {
     kept,
     root,
     reaching,
     base: textOf,
     get index(): Answering {
-      if (kept.index === null) kept.index = settledIn(kept)
-      return kept.index
+      return asked()
     },
     get over(): Answer {
       return kept.over
@@ -214,7 +219,7 @@ export function ledgerAt(
       const found = held === undefined ? kept.base(path) : held
       return notText(found) ? null : found
     },
-    under: (folder) => underOver(treeUnder(root, folder), kept.over, folder),
+    under: (folder) => underOver(treeUnder(root, folder, asked()), kept.over, folder),
   }
 }
 

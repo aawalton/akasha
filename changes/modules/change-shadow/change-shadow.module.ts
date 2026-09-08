@@ -230,5 +230,11 @@ export const changeShadow = {
       statement:
         "A reach inside a change states an edit the reach around that change states again.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder the index files as a page's own is left out of the paths a folder answers.",
+    },
+    { invariantKind: "departure", statement: "Every file that folder holds is left out with it." },
   ],
 } as const satisfies Module
