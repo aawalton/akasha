@@ -11,12 +11,12 @@ export const athenaCommandsAtTheRoot = {
       statement:
         "Tooling specific to the command domain sits under `commands/`, and no other tooling does.",
       workingMemory:
-        "`command-system` names 68 modules and 3 page types, and none of its command pages. `ios-widget-swift` and `ios-widget-emit` are iOS's, so not every part moves in. 3 of its 15 commands have moved. The rest are held by debt a move makes newly judged: `acts` is spelled in dev-server, index, service and wan-arguing; wan and zimage share five more; agent-turn-colors carries 23 lines of prose; read reaches `differing`, which the manifest does not export.",
+        "14 of the 15 commands and the 28 command property pages are in `commands/`. `name-drawing` and `flag-arguing` under `commands/modules/` hold the rules that were spelt twice. `read` is the last, and its move is refused: `move-folder` carries `read.command.entries.uncommitted.jsonl`, 1.48 MB the `file-itself` warrant owes a reading of. `entries` states no `machineWritten`, and that page is under `checks/`, which Alan holds.",
     },
     {
       statement: "No `command-system` folder is there.",
       workingMemory:
-        "Other packages reach this one as `@akasha/command-system/...`, so every alias is re-pointed before the folder goes. It holds 15 commands, 3 page types and 68 modules today, and a manifest of its own.",
+        "72 folders sit under `command-system`: the page types `command`, `namespace` and `refactor-command`, and 69 modules, of which `ios-widget-emit` and `ios-widget-swift` are iOS's. The manifest names 51 ways in, and from outside a module is reached only through one, so a module moved to `commands/` is reachable from inside `commands/` alone. 150 files import `@akasha/command-system/command`.",
     },
     {
       statement: "The `commands/` folder passes `folder-matches-a-shape`.",
