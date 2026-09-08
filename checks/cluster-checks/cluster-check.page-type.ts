@@ -175,6 +175,7 @@ export const clusterCheck = {
     "module/health-samples-stream-violations",
     "module/healthkit-read-only-violations",
     "module/image-tag-rule",
+    "module/instruction-reference-scan",
   ],
   properties: [
     {
