@@ -1,3 +1,4 @@
+import { dayStrOf, MS_PER_DAY, NOON, parseDay } from "@akasha/day/day-string"
 import { getEsoDayStr } from "@akasha/day/eso-day"
 import { loadActiveCaloriesByDay } from "@akasha/health-samples-day/active-calories"
 import {
@@ -21,22 +22,14 @@ export async function rollupActiveCaloriesForDay(
 
 const DAYS_ROLLED = 4
 
-const A_DAY = 86400000
-
-/**
- * The four days ending on the one named, oldest first.
- *
- * A sample reaches the checkout long after the moment the sample was taken: the phone drains from an
- * anchor, so a day is filled in over several arrivals rather than at once. Recomputing today alone
- * would leave a day whose samples arrived late carrying the figure that day had while its samples
- * were still on the phone. Four is what the calorie reader takes in one run.
- */
 export function daysUpTo(dayStr: string, count: number): readonly string[] {
-  const at = new Date(`${dayStr}T00:00:00Z`).getTime()
-  if (!Number.isFinite(at)) return [dayStr]
+  const parsed = parseDay(dayStr)
+  if (parsed === null) return [dayStr]
+  const [y, m, d] = parsed
+  const at = Date.UTC(y, m - 1, d, NOON, 0, 0, 0)
   const days: string[] = []
   for (let back = count - 1; back >= 0; back -= 1) {
-    days.push(new Date(at - back * A_DAY).toISOString().slice(0, 10))
+    days.push(dayStrOf(new Date(at - back * MS_PER_DAY)))
   }
   return days
 }

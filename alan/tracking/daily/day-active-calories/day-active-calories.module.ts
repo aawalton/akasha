@@ -18,6 +18,14 @@ export const dayActiveCalories = {
     },
     {
       invariantKind: "departure",
+      statement: "A day is filled in over several arrivals rather than at once.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Four is what the calorie reader takes in one run.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A day already written is written again on a later run.",
     },
     {
