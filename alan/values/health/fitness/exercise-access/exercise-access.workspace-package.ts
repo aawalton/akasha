@@ -7,7 +7,6 @@ export const exerciseAccess = {
   definition: "how the exercise pages are reached and what their fields may carry",
   manifest: "json",
   partSlugs: [
-    "module/coaching-context",
     "module/custom-exercise-features",
     "module/day-of-week",
     "module/exercise-choosing",
