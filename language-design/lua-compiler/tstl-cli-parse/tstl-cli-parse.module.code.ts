@@ -1,7 +1,7 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import * as ts from "typescript"
 import { z } from "zod"
-import * as cliDiagnostics from "../tstl-cli-diagnostics/tstl-cli-diagnostics.module.code.ts"
+import * as cliDiagnostics from "../cli-diagnostics/cli-diagnostics.module.code.ts"
 import {
   BuildMode,
   type CompilerOptions,
