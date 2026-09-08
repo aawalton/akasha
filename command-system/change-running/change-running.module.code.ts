@@ -124,12 +124,20 @@ const DRAFT = "draft"
 
 const DRAFT_TAKES = "`draft` takes `true` to keep the edits for a later apply, or `false` to apply"
 
+const MEASURE = "measure"
+
+const NO_MEASURE = "`measure` takes `true`, and this one says something else"
+
 const BOTH_SAID =
   "`message` says what the commit is for, and `draft` declines the commit, so the two are refused"
+
+const BOTH_MEASURED =
+  "`measure` measures the landing, and `draft` declines the landing, so the two are refused"
 
 export type Asked = {
   readonly message: string | null
   readonly drafts: boolean
+  readonly measure: boolean
   readonly given: Arguments
 }
 
@@ -140,18 +148,26 @@ function draftIn(said: string | undefined): boolean | string {
   return one === "false" ? false : DRAFT_TAKES
 }
 
+function measureIn(said: string | undefined): boolean | string {
+  if (said === undefined) return false
+  return said.trim() === "true" ? true : NO_MEASURE
+}
+
 export function applyIn(given: Arguments): Asked | string {
   const drafts = draftIn(given[DRAFT])
   if (typeof drafts === "string") return drafts
+  const measure = measureIn(given[MEASURE])
+  if (typeof measure === "string") return measure
   const said = given[MESSAGE]
   if (drafts && said !== undefined) return BOTH_SAID
+  if (drafts && measure) return BOTH_MEASURED
   const rest = Object.fromEntries(
-    Object.entries(given).filter(([key]) => key !== MESSAGE && key !== DRAFT)
+    Object.entries(given).filter(([key]) => key !== MESSAGE && key !== DRAFT && key !== MEASURE)
   )
-  if (said === undefined) return { message: null, drafts, given: rest }
+  if (said === undefined) return { message: null, drafts, measure, given: rest }
   const message = said.trim()
   if (message === "") return NO_MESSAGE
-  return { message, drafts, given: rest }
+  return { message, drafts, measure, given: rest }
 }
 
 export function unwarrantedFor(
@@ -240,7 +256,7 @@ export async function appending(
 
 export type Loading = (world: World, at: string) => Promise<Loaded | string>
 
-export type Applying = (message: string | null) => Promise<Answer>
+export type Applying = (message: string | null, measure: boolean) => Promise<Answer>
 
 const CHANGE = "change"
 
@@ -313,7 +329,7 @@ export async function changing(
   if (drafts) {
     return { ...answered, report: [...answered.report, keptSaid(page, LANDS)] }
   }
-  const landed = await applying(asked.message)
+  const landed = await applying(asked.message, asked.measure)
   return {
     report: [
       ...answered.report,

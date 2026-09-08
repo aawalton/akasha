@@ -10,7 +10,7 @@ export const changeApply = {
   changeKindSlug: "change-mechanical",
   helpNotes: [
     "an apply naming no change lands the edits already kept beside this agent's page.",
-    "an apply naming a change answers that change first, then lands every edit kept.",
+    "an apply naming a change answers that change first, then lands every edit kept, and `measure` measures that landing rather than landing it.",
     "the arguments a change takes are piped in, as they are for a draft.",
     "an argument is a line `key: value`, or `key <fence>` opening a body that `<fence>` alone closes.",
     "nothing on the command line carries a value, so no shell reads a quote or a backslash.",
@@ -35,6 +35,10 @@ export const changeApply = {
     {
       invariantKind: "departure",
       statement: "An apply naming a change answers that change before landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply naming a change measures that landing where `measure` says so.",
     },
     {
       invariantKind: "departure",

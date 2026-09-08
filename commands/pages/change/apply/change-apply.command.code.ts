@@ -19,6 +19,10 @@ const APPLIES = "apply"
 
 const MESSAGE = "message"
 
+const MEASURE = "measure"
+
+const TRUE = "true"
+
 export const CHOSEN: Chosen = {
   said: APPLIES,
   drafts: false,
@@ -32,7 +36,11 @@ export async function changeApply(argv: readonly string[], given: Given): Promis
   if (page === null || editsAt(page) === null) {
     return mistaking([noPageSaid(given.root, given.agentId)])
   }
-  const landing = async (message: string | null): Promise<Answer> =>
-    await applyWith(message === null ? {} : { [MESSAGE]: message }, given)
+  const landing = async (message: string | null, measure: boolean): Promise<Answer> => {
+    const taken: Record<string, string> = {}
+    if (message !== null) taken[MESSAGE] = message
+    if (measure) taken[MEASURE] = TRUE
+    return await applyWith(taken, given)
+  }
   return await changing(given.root, page, given.agentId, argv, inputIn, loadedAt, landing, CHOSEN)
 }

@@ -20,6 +20,7 @@ export const changeDraft = {
     "`akasha change apply` lands every edit kept, so many drafts land as one commit.",
     "`message` is refused here, because a draft makes no commit for a message to say.",
     "`draft` is refused here, because the word `draft` already says it.",
+    "`measure` is refused here, because a draft lands nothing for the checks to measure.",
     "two drafts leave two sets of edits in the order the runs were made.",
     "a draft reads the world as every edit kept before it had already landed.",
     "a draft that refuses keeps nothing and leaves the edits as the edits were.",
@@ -58,6 +59,10 @@ export const changeDraft = {
     {
       invariantKind: "departure",
       statement: "The key `draft` is refused, as the word naming this command says it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key `measure` is refused, as a draft lands nothing to measure.",
     },
     {
       invariantKind: "departure",

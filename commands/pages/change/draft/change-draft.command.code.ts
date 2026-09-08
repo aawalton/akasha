@@ -18,7 +18,7 @@ const LANDS = "a draft lands nothing, so no message is composed and none is take
 export const CHOSEN: Chosen = {
   said: DRAFTS,
   drafts: true,
-  barred: ["draft", "message"],
+  barred: ["draft", "message", "measure"],
   at: CHANGE_DRAFT_PAGE,
 }
 

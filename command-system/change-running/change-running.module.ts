@@ -80,6 +80,22 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "The key `measure` measures the landing the change reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`measure` takes `true` and no other value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`measure` beside `draft` is refused before the change is loaded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key `measure` is read here rather than handed to the change.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A caller settling what a run does with its edits bars the keys saying otherwise.",
     },
     {

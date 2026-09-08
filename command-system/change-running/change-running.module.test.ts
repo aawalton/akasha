@@ -10,6 +10,7 @@ import {
   CHOSEN,
   drafting,
   draftingAndApplying,
+  draftingAndMeasuring,
   EDIT,
   givenIn,
   HANDED_ONE,
@@ -17,7 +18,10 @@ import {
   handing,
   keptIn,
   loading,
+  MEASURED,
   MISSING,
+  measuring,
+  measuringWrongly,
   NOT_TEXT_SAID,
   owedIn,
   PAGE,
@@ -294,6 +298,53 @@ test("a change naming draft and message together is refused and appends nothing"
 
   expect(said.refusals[0] ?? "").toContain("`draft` declines")
   expect(APPLIED).toEqual([])
+  expect(pathsIn(root)).toEqual([])
+})
+
+test("a change naming measure hands the apply that measure", async () => {
+  MEASURED.length = 0
+
+  const said = await measuring(repo(), NAMER_PAGE)
+
+  expect(said.code).toBe(0)
+  expect(MEASURED).toEqual([true])
+})
+
+test("the measure asked for is not handed to the change as an argument", async () => {
+  MEASURED.length = 0
+
+  await measuring(repo(), NAMER_PAGE)
+
+  expect(Object.keys(givenIn())).toEqual(["at"])
+})
+
+test("a change naming no measure hands the apply no measure", async () => {
+  MEASURED.length = 0
+
+  await removing(repo(), NAMER_PAGE)
+
+  expect(MEASURED).toEqual([false])
+})
+
+test("a measure saying anything but true is refused and appends nothing", async () => {
+  MEASURED.length = 0
+  const root = repo()
+
+  const said = await measuringWrongly(root, NAMER_PAGE)
+
+  expect(said.refusals[0] ?? "").toContain("`measure` takes `true`")
+  expect(MEASURED).toEqual([])
+  expect(pathsIn(root)).toEqual([])
+})
+
+test("a change naming draft and measure together is refused and appends nothing", async () => {
+  MEASURED.length = 0
+  const root = repo()
+
+  const said = await draftingAndMeasuring(root, NAMER_PAGE)
+
+  expect(said.refusals[0] ?? "").toContain("`draft` declines")
+  expect(MEASURED).toEqual([])
   expect(pathsIn(root)).toEqual([])
 })
 

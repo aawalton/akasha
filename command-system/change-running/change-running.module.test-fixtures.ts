@@ -96,8 +96,11 @@ export const NOTHING: Piping = () => ({ bytes: new Uint8Array(0) })
 
 export const APPLIED: (string | null)[] = []
 
-export const applying: Applying = async (message) => {
+export const MEASURED: boolean[] = []
+
+export const applying: Applying = async (message, measure) => {
   APPLIED.push(message)
+  MEASURED.push(measure)
   return { report: [`applied ${message ?? "what the apply composes"}`], refusals: [], code: 0 }
 }
 
@@ -198,4 +201,16 @@ export function drafting(root: string, at: string): Promise<Answer> {
 
 export function draftingAndApplying(root: string, at: string): Promise<Answer> {
   return acting(root, ["remove-page"], piping(`${taking(at)}draft: true\nmessage: a message\n`))
+}
+
+export function measuring(root: string, at: string): Promise<Answer> {
+  return acting(root, ["remove-page"], piping(`${taking(at)}measure: true\n`))
+}
+
+export function measuringWrongly(root: string, at: string): Promise<Answer> {
+  return acting(root, ["remove-page"], piping(`${taking(at)}measure: yes\n`))
+}
+
+export function draftingAndMeasuring(root: string, at: string): Promise<Answer> {
+  return acting(root, ["remove-page"], piping(`${taking(at)}draft: true\nmeasure: true\n`))
 }
