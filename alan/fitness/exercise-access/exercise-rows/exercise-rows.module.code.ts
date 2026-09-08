@@ -38,8 +38,7 @@ export type Rows = { readonly rows: readonly Row[] } | { readonly unread: string
 export type OneRow = { readonly row: Row | null } | { readonly unread: string }
 
 export function checkoutRoot(): string {
-  const roots = resolveRoots() as unknown as Readonly<Record<string, string>>
-  const root = roots[AKASHA]
+  const root = resolveRoots()[AKASHA]
   if (root === undefined || root === "") {
     throw new Error("no akasha checkout exists here, so no fitness page can be read")
   }
@@ -108,7 +107,7 @@ export function passes(row: Row, one: Test): boolean {
   }
   if ("contains" in one) {
     const said = saidOf(row, one.key)
-    return said !== null && said.toLowerCase().includes(one.contains.toLowerCase())
+    return said?.toLowerCase().includes(one.contains.toLowerCase()) ?? false
   }
   return empty(row, one.key)
 }
@@ -140,9 +139,6 @@ export function shapedIn(rows: readonly Row[], asking: Asking): readonly Row[] {
   return asking.select === undefined ? cut : cut.map((row) => cutTo(row, asking.select ?? []))
 }
 
-// THE ROWS ARE ASKED FOR RATHER THAN READ OFF THE INDEX. A key a page type works out is on no page
-// file, so a reader taking the index's own values sees a session's volume as absent and counts the
-// sets again to fill the hole. Asking hands back the stored keys and the worked ones together.
 export async function rowsFor(asking: Asking): Promise<Rows> {
   let held: readonly Row[]
   try {
