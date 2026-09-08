@@ -1,5 +1,5 @@
 import * as ts from "typescript"
-import type { AnnotationKind } from "../tstl-annotations/tstl-annotations.module.code.ts"
+import type { AnnotationKind } from "../annotations/annotations.module.code.ts"
 import {
   LuaTarget,
   type TstlOptions,

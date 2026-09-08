@@ -1,5 +1,10 @@
 import * as ts from "typescript"
 import {
+  type Annotation,
+  AnnotationKind,
+  getNodeAnnotations,
+} from "../annotations/annotations.module.code.ts"
+import {
   checkForLuaLibType,
   isPromiseClass,
   transformBuiltinIdentifierExpression,
@@ -7,11 +12,6 @@ import {
 import { tempSymbolId } from "../context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import {
-  type Annotation,
-  AnnotationKind,
-  getNodeAnnotations,
-} from "../tstl-annotations/tstl-annotations.module.code.ts"
 import { invalidCallExtensionUse } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import {
   createExportedIdentifier,

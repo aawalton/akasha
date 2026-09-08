@@ -1,12 +1,9 @@
 import * as ts from "typescript"
 import { SyntaxKind } from "typescript"
+import { AnnotationKind, getTypeAnnotations } from "../annotations/annotations.module.code.ts"
 import { transformBuiltinPropertyAccessExpression } from "../builtins/builtins.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import {
-  AnnotationKind,
-  getTypeAnnotations,
-} from "../tstl-annotations/tstl-annotations.module.code.ts"
 import {
   invalidCallExtensionUse,
   invalidMultiReturnAccess,

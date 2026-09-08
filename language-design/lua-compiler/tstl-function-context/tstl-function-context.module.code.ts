@@ -1,10 +1,10 @@
 import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import {
   AnnotationKind,
   getFileAnnotations,
   getNodeAnnotations,
-} from "../tstl-annotations/tstl-annotations.module.code.ts"
+} from "../annotations/annotations.module.code.ts"
+import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import {
   findFirstNodeAbove,
   getAllCallSignatures,

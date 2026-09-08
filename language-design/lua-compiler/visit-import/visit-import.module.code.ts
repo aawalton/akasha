@@ -1,11 +1,8 @@
 import * as path from "node:path"
 import * as ts from "typescript"
+import { AnnotationKind, getSymbolAnnotations } from "../annotations/annotations.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import {
-  AnnotationKind,
-  getSymbolAnnotations,
-} from "../tstl-annotations/tstl-annotations.module.code.ts"
 import { createDefaultExportStringLiteral } from "../tstl-export/tstl-export.module.code.ts"
 import { createHoistableVariableDeclarationStatement } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"

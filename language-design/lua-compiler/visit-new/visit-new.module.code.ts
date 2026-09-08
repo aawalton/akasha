@@ -1,10 +1,7 @@
 import type * as ts from "typescript"
+import { AnnotationKind, getTypeAnnotations } from "../annotations/annotations.module.code.ts"
 import { tryGetStandardLibrarySymbolOfType } from "../builtins/builtins.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import {
-  AnnotationKind,
-  getTypeAnnotations,
-} from "../tstl-annotations/tstl-annotations.module.code.ts"
 import {
   annotationInvalidArgumentCount,
   unsupportedArrayWithLengthConstructor,
