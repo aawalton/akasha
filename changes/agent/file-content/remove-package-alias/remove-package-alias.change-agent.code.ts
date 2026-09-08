@@ -19,7 +19,7 @@ import type {
   Stated,
 } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { aliasIn, nameFor } from "../rename-package/rename-package.change-agent.code.ts"
+import { aliasIn, nameFor } from "../../../modules/package-naming/package-naming.module.code.ts"
 
 const AT = "at"
 

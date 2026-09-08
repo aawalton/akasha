@@ -37,6 +37,7 @@ export const change = {
     "module/page-knowing",
     "module/page-literal",
     "module/literal-splicing",
+    "module/package-naming",
     "module/change-answer",
     "module/edits-keeping",
     "module/subagent-handed",

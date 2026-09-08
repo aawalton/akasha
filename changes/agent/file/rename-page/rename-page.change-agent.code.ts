@@ -22,8 +22,8 @@ import type {
   Stated,
 } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { spelledAnew } from "../../../modules/package-naming/package-naming.module.code.ts"
 import { statedIn } from "../../../modules/page-literal/page-literal.module.code.ts"
-import { spelledAnew } from "../../file-content/rename-package/rename-package.change-agent.code.ts"
 
 const RENAME_PAGE_SLUG = "change-mechanical-file-content/rename-page-slug"
 

@@ -1,6 +1,5 @@
 import { dirname } from "node:path"
 import { namingIn, refusalOf } from "@akasha/checks/package-reached-where-named"
-import { placedIn } from "@akasha/code/code-specifier"
 import { typed } from "@akasha/code/code-typing"
 import { calledIn, objectIn } from "@akasha/code/package-manifest"
 import { manifestsIn } from "@akasha/indexes/package-reaching"
@@ -21,6 +20,7 @@ import type {
   Stated,
 } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { aliasIn, spelledAnew } from "../../../modules/package-naming/package-naming.module.code.ts"
 
 const AT = "at"
 
@@ -30,39 +30,12 @@ const FROM = "from"
 
 const NAME = "name"
 
-const UNDER = "/"
-
-const AFTER = ":"
-
-const OVER = "@"
-
 const UNRENAMED = "so no package is renamed"
-
-type Aliased = { readonly opening: string; readonly named: string; readonly range: string }
 
 export type RenamePackageAsked = {
   readonly at: string
   readonly to: string
   readonly from?: string
-}
-
-export function nameFor(said: string, was: string, to: string): string | null {
-  if (said === was) return to
-  if (said.startsWith(`${was}${UNDER}`)) return `${to}${said.slice(was.length)}`
-  return null
-}
-
-export function aliasIn(said: string): Aliased | null {
-  const at = said.indexOf(AFTER)
-  if (at < 0) return null
-  const held = said.slice(at + 1)
-  const last = held.lastIndexOf(OVER)
-  if (last <= 0) return null
-  return {
-    opening: said.slice(0, at + 1),
-    named: held.slice(0, last),
-    range: held.slice(last),
-  }
 }
 
 function saidAt(source: ts.JsonSourceFile, node: ts.Node, said: string): Splice {
@@ -98,16 +71,6 @@ function overHeld(
     return
   }
   if (ts.isStringLiteral(node) && node.text === was) found.push(saidAt(source, node, to))
-}
-
-export function spelledAnew(at: string, text: string, was: string, to: string): readonly Splice[] {
-  const found: Splice[] = []
-  for (const one of placedIn(at, text)) {
-    const next = nameFor(one.text, was, to)
-    if (next === null) continue
-    found.push({ from: one.start, to: one.end, put: JSON.stringify(next) })
-  }
-  return found
 }
 
 export function restated(at: string, text: string, was: string, to: string): readonly Splice[] {
