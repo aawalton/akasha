@@ -3,6 +3,7 @@ import { indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import {
   folderFor,
+  folderUnder,
   heldBy,
   namedUnder,
   nestCommands,
@@ -46,6 +47,23 @@ test("a namespace under no namespace is carried into the commands folder itself"
 test("a namespace under another is named its slug with the namespace above it taken off", () => {
   expect(folderFor(SLUGS, "temper-inventory")).toBe("commands/pages/temper/inventory")
   expect(folderFor(SLUGS, "temper-inventory-rule")).toBe("commands/pages/temper/inventory/rule")
+})
+
+test("a command is carried into a folder its namespace's slug opens no more", () => {
+  const folder = folderFor(SLUGS, "temper-inventory")
+
+  expect(folderUnder(folder, "temper-inventory", "temper-inventory-snapshot")).toBe(
+    "commands/pages/temper/inventory/snapshot"
+  )
+  expect(folderUnder(folder, "temper-inventory", "temper-inventory-clean-up")).toBe(
+    "commands/pages/temper/inventory/clean-up"
+  )
+})
+
+test("a command under a top namespace is named its slug with that namespace taken off", () => {
+  expect(folderUnder(folderFor(SLUGS, "temper"), "temper", "temper-upstream-pull")).toBe(
+    "commands/pages/temper/upstream-pull"
+  )
 })
 
 test("a slug under no namespace keeps every word of that slug", () => {

@@ -50,6 +50,10 @@ export function folderFor(slugs: readonly string[], slug: string): string {
   return join(folderFor(slugs, above), namedUnder(slug, above))
 }
 
+export function folderUnder(folder: string, namespace: string, slug: string): string {
+  return join(folder, namedUnder(slug, namespace))
+}
+
 export async function carriedTo(world: World, at: string, to: string): Promise<Carrying> {
   if (dirname(at) === to) return { said: [], world }
   const carried = await reach(world, MOVE_FILE, { from: at, to: join(to, basename(at)) })
@@ -93,7 +97,7 @@ export async function nestCommands(world: World, given: NestCommandsAsked): Prom
     said.push(...put.said)
     const at = put.world.index.listedAt(COMMAND, slug)[0]
     if (at === undefined) return refusing(`\`${slug}\` is at no path`)
-    const moved = await carriedTo(put.world, at.path, join(folder, slug))
+    const moved = await carriedTo(put.world, at.path, folderUnder(folder, given.namespace, slug))
     if ("refused" in moved) return refusing(moved.refused)
     said.push(...moved.said)
     seen = moved.world
