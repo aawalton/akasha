@@ -10,7 +10,7 @@ export const aelwynStrengthTraining = {
     {
       statement: "The fitness domain carries no debris from earlier attempts.",
       workingMemory:
-        "The three audits are in. To delete: 12 of the 26 `exercise-access` modules, being the four pageless sidecars, the `exercise-digest` subtree beneath a dead entrypoint, and `free-exercise-mapping`; the inactive schedule `push-pull-legs-7351f33b` and its seven days; the `exercise-collection` page type, which never held a page; two byte-identical movement pairs; the migrated-twice finding. To reconcile: two false gaps on `coaching-context`, five imports lacking instructions, four folder names.",
+        "Gone: the four pageless `exercise-access` sidecars, and the whole planner. Still to delete: the `exercise-digest` subtree of seven modules beneath a dead entrypoint, `free-exercise-mapping`, the inactive schedule `push-pull-legs-7351f33b` and its seven days, the `exercise-collection` page type that never held a page, two byte-identical movement pairs, and the migrated-twice finding. To reconcile: two false gaps on `coaching-context`, five imports lacking instructions, four folder names.",
     },
     {
       statement: "Every set Alan performs reaches a page.",
