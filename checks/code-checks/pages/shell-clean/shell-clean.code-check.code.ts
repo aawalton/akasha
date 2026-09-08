@@ -20,7 +20,7 @@ const JUDGED: ReadonlySet<number> = new Set([0, 1])
 
 const COMMENTS = "comments"
 
-const WORLD = "the world this change was set up in"
+const MIRROR = "the mirror this change was written into"
 
 const UNLOOKED = "A linter that could not look has verified nothing, so this change is not judged."
 
@@ -127,7 +127,7 @@ export function judgedOf(looked: Looked, first: string, root: string): readonly 
     const held = [...looked.found].sort(earlier)
     return held.map((one) => ({ path: one.path, reason: reasonOf(one) }))
   }
-  const why = looked.failed.replaceAll(`${root}/`, "").replaceAll(root, WORLD)
+  const why = looked.failed.replaceAll(`${root}/`, "").replaceAll(root, MIRROR)
   return [{ path: first, reason: `${why}. ${UNLOOKED}` }]
 }
 

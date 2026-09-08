@@ -182,11 +182,11 @@ test("a linter that could not run is a refusal, not a clean answer", () => {
   expect(said[0]?.reason).toContain("verified nothing")
 })
 
-test("a run that failed is answered against the first file named, outside the world it ran in", () => {
-  const looked = { found: [], failed: `nothing stands at ${AWAY}/${ONE}, under ${AWAY}` }
+test("a run that failed is answered against the first file named, outside the mirror it read", () => {
+  const looked = { found: [], failed: `nothing is at ${AWAY}/${ONE}, under ${AWAY}` }
   const said = judgedOf(looked, ONE, AWAY)
   expect(said[0]?.reason).toBe(
-    `nothing stands at ${ONE}, under the world this change was set up in. ` +
+    `nothing is at ${ONE}, under the mirror this change was written into. ` +
       "A linter that could not look has verified nothing, so this change is not judged."
   )
 })
