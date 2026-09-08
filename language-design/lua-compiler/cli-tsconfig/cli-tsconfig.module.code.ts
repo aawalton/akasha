@@ -88,7 +88,6 @@ function isParsedTsConfig(value: unknown): value is {
   config?: {
     extends?: string | string[]
     luaCompiler?: LuaCompilerOptions
-    tstl?: LuaCompilerOptions
   }
 } {
   if (!isRecord(value)) {
