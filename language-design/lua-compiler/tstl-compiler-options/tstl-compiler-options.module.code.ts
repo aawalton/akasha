@@ -11,12 +11,12 @@ export interface LuaPluginImport {
   name: string
   import?: string
 
-  [option: string]: any
+  [option: string]: unknown
 }
 
 export interface InMemoryLuaPlugin {
-  plugin: Plugin | ((options: Record<string, any>) => Plugin)
-  [option: string]: any
+  plugin: Plugin | ((options: Record<string, unknown>) => Plugin)
+  [option: string]: unknown
 }
 
 export interface TstlOptions {
@@ -38,7 +38,7 @@ export interface TstlOptions {
 
 export type CompilerOptions = OmitIndexSignature<ts.CompilerOptions> &
   TstlOptions & {
-    [option: string]: any
+    [option: string]: ts.CompilerOptionsValue | ts.TsConfigSourceFile | undefined
   }
 
 export const LuaLibImportKind = {
