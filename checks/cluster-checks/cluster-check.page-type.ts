@@ -136,6 +136,7 @@ export const clusterCheck = {
     "module/check-libc-ffi-binding",
     "module/check-no-void-return",
     "module/check-lib-sets-per-piece-difficulty-boundary",
+    "module/check-phantom-deps-filters",
   ],
   properties: [
     {
