@@ -15,8 +15,12 @@ import { collectLuaFiles } from "@akasha/temper-eso-paths/lua-files"
 import {
   extractGlobalNames,
   extractStringIdNames,
-} from "../eso-base-game-globals/eso-base-game-globals.module.code.ts"
-import { saidFor, saidShort, stagingAt } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
+} from "../../../../../../temper/temper-commands/eso-base-game-globals/eso-base-game-globals.module.code.ts"
+import {
+  saidFor,
+  saidShort,
+  stagingAt,
+} from "../../../../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 

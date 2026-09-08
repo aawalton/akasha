@@ -12,8 +12,12 @@ import {
 } from "@akasha/temper-eso-paths/eso-clone-stamp"
 import { esouiSourceDir } from "@akasha/temper-eso-paths/eso-paths"
 import { collectLuaFiles } from "@akasha/temper-eso-paths/lua-files"
-import { extractColonMethodNames } from "../eso-colon-methods/eso-colon-methods.module.code.ts"
-import { saidFor, saidShort, stagingAt } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
+import { extractColonMethodNames } from "../../../../../../temper/temper-commands/eso-colon-methods/eso-colon-methods.module.code.ts"
+import {
+  saidFor,
+  saidShort,
+  stagingAt,
+} from "../../../../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 
