@@ -1,4 +1,4 @@
-import { optionDeclarations } from "../tstl-cli-parse/tstl-cli-parse.module.code.ts"
+import { optionDeclarations } from "../cli-parse/cli-parse.module.code.ts"
 
 export const name = "@temper/shared-build-deploy-tstl"
 

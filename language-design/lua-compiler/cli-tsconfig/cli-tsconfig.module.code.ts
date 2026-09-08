@@ -2,14 +2,14 @@ import * as path from "node:path"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import * as ts from "typescript"
 import * as cliDiagnostics from "../cli-diagnostics/cli-diagnostics.module.code.ts"
+import {
+  type ParsedCommandLine,
+  updateParsedConfigFile,
+} from "../cli-parse/cli-parse.module.code.ts"
 import type {
   CompilerOptions,
   TstlOptions,
 } from "../compiler-options/compiler-options.module.code.ts"
-import {
-  type ParsedCommandLine,
-  updateParsedConfigFile,
-} from "../tstl-cli-parse/tstl-cli-parse.module.code.ts"
 import { normalizeSlashes } from "../tstl-utils/tstl-utils.module.code.ts"
 
 export function locateConfigFile(
