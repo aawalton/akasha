@@ -113,6 +113,7 @@ export const clusterCheck = {
     "module/check-object-literal-self",
     "module/scanner-registry",
     "module/tstl-source-paths",
+    "module/ts-tstl-property-callback-self",
   ],
   properties: [
     {
