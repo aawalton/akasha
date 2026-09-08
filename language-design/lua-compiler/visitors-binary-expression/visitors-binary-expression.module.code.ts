@@ -13,13 +13,13 @@ import { wrapInToStringForConcat } from "../tstl-lua-ast/tstl-lua-ast.module.cod
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
+import { assert, cast } from "../tstl-utils/tstl-utils.module.code.ts"
 import {
   canBeFalsyWhenNotNull,
   isEqualsAssignment,
   isStandardLibraryType,
   isStringType,
-} from "../tstl-typescript/tstl-typescript.module.code.ts"
-import { assert, cast } from "../tstl-utils/tstl-utils.module.code.ts"
+} from "../typescript/typescript.module.code.ts"
 import {
   transformAssignmentExpression,
   transformAssignmentStatement,

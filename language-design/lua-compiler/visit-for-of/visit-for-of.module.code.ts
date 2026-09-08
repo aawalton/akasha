@@ -10,7 +10,7 @@ import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { isArrayType } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isArrayType } from "../typescript/typescript.module.code.ts"
 import {
   transformForOfIterableStatement,
   transformForOfPairsIterableStatement,

@@ -13,11 +13,8 @@ import { createUnpackCall } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import {
-  isInAsyncFunction,
-  isInGeneratorFunction,
-} from "../tstl-typescript/tstl-typescript.module.code.ts"
 import { cast } from "../tstl-utils/tstl-utils.module.code.ts"
+import { isInAsyncFunction, isInGeneratorFunction } from "../typescript/typescript.module.code.ts"
 import { wrapInAsyncAwaiter } from "../visit-async-await/visit-async-await.module.code.ts"
 import { transformScopeBlock } from "../visit-block/visit-block.module.code.ts"
 import { isInMultiReturnFunction } from "../visit-extension-multi/visit-extension-multi.module.code.ts"

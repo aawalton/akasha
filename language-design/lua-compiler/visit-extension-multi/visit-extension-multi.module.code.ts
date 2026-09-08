@@ -9,7 +9,7 @@ import {
 import {
   findFirstNodeAbove,
   findFirstNonOuterParent,
-} from "../tstl-typescript/tstl-typescript.module.code.ts"
+} from "../typescript/typescript.module.code.ts"
 
 const multiReturnExtensionName = "__tstlMultiReturn"
 export function isMultiReturnType(type: ts.Type): boolean {

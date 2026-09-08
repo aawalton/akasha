@@ -9,7 +9,7 @@ import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts
 import { awaitMustBeInAsyncFunction } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { isInAsyncFunction } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isInAsyncFunction } from "../typescript/typescript.module.code.ts"
 
 export const transformAwaitExpression: FunctionVisitor<ts.AwaitExpression> = (node, context) => {
   if (!isInAsyncFunction(node)) {

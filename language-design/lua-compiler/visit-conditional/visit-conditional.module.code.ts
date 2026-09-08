@@ -11,7 +11,7 @@ import { truthyOnlyConditionalValue } from "../tstl-diagnostics/tstl-diagnostics
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { canBeFalsy } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { canBeFalsy } from "../typescript/typescript.module.code.ts"
 import { transformBlockOrStatement } from "../visit-block/visit-block.module.code.ts"
 
 function transformProtectedConditionalExpression(

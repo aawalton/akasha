@@ -18,12 +18,8 @@ import {
 } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import { addToNumericExpression } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
-import {
-  isArrayType,
-  isNumberType,
-  isStringType,
-} from "../tstl-typescript/tstl-typescript.module.code.ts"
 import { assert } from "../tstl-utils/tstl-utils.module.code.ts"
+import { isArrayType, isNumberType, isStringType } from "../typescript/typescript.module.code.ts"
 import { tryGetConstEnumValue } from "../visit-enum/visit-enum.module.code.ts"
 import { callExtensions } from "../visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
 import {

@@ -3,7 +3,7 @@ import type { FunctionVisitor } from "../context-visitors/context-visitors.modul
 import { forbiddenForIn } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { isArrayType } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isArrayType } from "../typescript/typescript.module.code.ts"
 import {
   transformForInitializer,
   transformLoopBody,

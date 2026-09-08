@@ -10,7 +10,7 @@ import { isOptionalContinuation } from "../optional-chain-data/optional-chain-da
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { isConstIdentifier } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isConstIdentifier } from "../typescript/typescript.module.code.ts"
 
 function validateArguments(
   context: TransformationContext,

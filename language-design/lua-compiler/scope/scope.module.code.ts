@@ -4,11 +4,11 @@ import { getSymbolInfo } from "../symbols/symbols.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import type * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
+import { assert, isNonNull } from "../tstl-utils/tstl-utils.module.code.ts"
 import {
   findFirstNodeAbove,
   getFirstDeclarationInFile,
-} from "../tstl-typescript/tstl-typescript.module.code.ts"
-import { assert, isNonNull } from "../tstl-utils/tstl-utils.module.code.ts"
+} from "../typescript/typescript.module.code.ts"
 
 export const ScopeType = {
   File: 1 << 0,

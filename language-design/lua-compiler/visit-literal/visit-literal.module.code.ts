@@ -13,7 +13,7 @@ import {
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { isArrayType } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isArrayType } from "../typescript/typescript.module.code.ts"
 import { transformFunctionLikeDeclaration } from "../visit-function/visit-function.module.code.ts"
 import { transformIdentifierWithSymbol } from "../visit-identifier/visit-identifier.module.code.ts"
 import { transformPropertyName } from "../visit-property-name/visit-property-name.module.code.ts"

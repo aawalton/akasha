@@ -11,7 +11,7 @@ import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statemen
 import {
   expressionResultIsUsed,
   typeAlwaysHasSomeOfFlags,
-} from "../tstl-typescript/tstl-typescript.module.code.ts"
+} from "../typescript/typescript.module.code.ts"
 export function transformArrayConstructorCall(
   context: TransformationContext,
   node: ts.CallExpression,

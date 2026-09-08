@@ -7,7 +7,7 @@ import {
 } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
-import { isNumberType } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isNumberType } from "../typescript/typescript.module.code.ts"
 
 export function tryTransformBuiltinGlobalCall(
   context: TransformationContext,

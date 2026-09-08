@@ -10,7 +10,7 @@ import { createLocalOrExportedOrGlobalDeclaration } from "../tstl-lua-ast/tstl-l
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { isFirstDeclaration } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isFirstDeclaration } from "../typescript/typescript.module.code.ts"
 import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"
 import { transformPropertyName } from "../visit-property-name/visit-property-name.module.code.ts"
 

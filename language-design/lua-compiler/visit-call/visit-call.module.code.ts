@@ -16,7 +16,7 @@ import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statemen
 import {
   getCalledExpression,
   isExpressionWithEvaluationEffect,
-} from "../tstl-typescript/tstl-typescript.module.code.ts"
+} from "../typescript/typescript.module.code.ts"
 import { transformElementAccessArgument } from "../visit-access/visit-access.module.code.ts"
 import { transformLanguageExtensionCallExpression } from "../visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
 import {

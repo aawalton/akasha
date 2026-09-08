@@ -7,7 +7,7 @@ import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { isNumberType } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isNumberType } from "../typescript/typescript.module.code.ts"
 import { transformUnaryBitOperation } from "../visit-bit/visit-bit.module.code.ts"
 import {
   transformCompoundAssignmentExpression,

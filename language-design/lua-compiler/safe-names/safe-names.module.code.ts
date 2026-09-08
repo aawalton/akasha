@@ -6,7 +6,7 @@ import {
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import { isSymbolExported } from "../export-scope/export-scope.module.code.ts"
 import { invalidAmbientIdentifierName } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
-import { isAmbientNode } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isAmbientNode } from "../typescript/typescript.module.code.ts"
 
 export const shouldAllowUnicode = (options: CompilerOptions) =>
   options.luaTarget === LuaTarget.LuaJIT

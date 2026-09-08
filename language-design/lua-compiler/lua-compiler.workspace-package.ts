@@ -85,7 +85,7 @@ export const luaCompiler = {
     "module/symbols",
     "module/symbols-deps",
     "module/this-void-adapter",
-    "module/tstl-typescript",
+    "module/typescript",
     "module/tstl-utils",
     "module/tstl-workspace-source",
     "module/visit-access",

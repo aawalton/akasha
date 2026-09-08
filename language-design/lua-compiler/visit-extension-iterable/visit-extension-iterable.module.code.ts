@@ -6,8 +6,8 @@ import {
 } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { isReferenceType } from "../tstl-typescript/tstl-typescript.module.code.ts"
 import { cast } from "../tstl-utils/tstl-utils.module.code.ts"
+import { isReferenceType } from "../typescript/typescript.module.code.ts"
 import { isMultiReturnType } from "../visit-extension-multi/visit-extension-multi.module.code.ts"
 import {
   getVariableDeclarationBinding,

@@ -1,6 +1,6 @@
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { isArrayType } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isArrayType } from "../typescript/typescript.module.code.ts"
 
 export function isArrayLength(
   context: TransformationContext,

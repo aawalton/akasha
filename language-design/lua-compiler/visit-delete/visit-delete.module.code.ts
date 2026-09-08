@@ -5,7 +5,7 @@ import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts
 import { unsupportedProperty } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import { addToNumericExpression } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
-import { isArrayType, isNumberType } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isArrayType, isNumberType } from "../typescript/typescript.module.code.ts"
 import { transformOptionalDeleteExpression } from "../visit-optional-chaining/visit-optional-chaining.module.code.ts"
 
 export const transformDeleteExpression: FunctionVisitor<ts.DeleteExpression> = (node, context) => {

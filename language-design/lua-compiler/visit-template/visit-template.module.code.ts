@@ -7,7 +7,7 @@ import {
 import { wrapInToStringForConcat } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
-import { isStringType } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isStringType } from "../typescript/typescript.module.code.ts"
 import { transformContextualCallExpression } from "../visit-call/visit-call.module.code.ts"
 
 function getRawLiteral(node: ts.LiteralLikeNode): string {

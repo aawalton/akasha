@@ -17,10 +17,7 @@ import {
 import { createBoundedUnpackCall, wrapInTable } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import {
-  isArrayType,
-  isDestructuringAssignment,
-} from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isArrayType, isDestructuringAssignment } from "../typescript/typescript.module.code.ts"
 import { transformElementAccessArgument } from "../visit-access/visit-access.module.code.ts"
 import { isArrayLength } from "../visit-array-length/visit-array-length.module.code.ts"
 import { requireTransformDestructuringAssignment } from "../visit-destructuring-deps/visit-destructuring-deps.module.code.ts"

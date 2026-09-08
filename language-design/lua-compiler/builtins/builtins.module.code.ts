@@ -54,7 +54,7 @@ import {
   isFunctionType,
   isStandardLibraryType,
   isStringType,
-} from "../tstl-typescript/tstl-typescript.module.code.ts"
+} from "../typescript/typescript.module.code.ts"
 
 export function transformBuiltinPropertyAccessExpression(
   context: TransformationContext,

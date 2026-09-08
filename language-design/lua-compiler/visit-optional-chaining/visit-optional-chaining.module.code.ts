@@ -10,11 +10,11 @@ import { transformInPrecedingStatementScope } from "../preceding-statements/prec
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
+import { assert, cast } from "../tstl-utils/tstl-utils.module.code.ts"
 import {
   canBeFalsyWhenNotNull,
   expressionResultIsUsed,
-} from "../tstl-typescript/tstl-typescript.module.code.ts"
-import { assert, cast } from "../tstl-utils/tstl-utils.module.code.ts"
+} from "../typescript/typescript.module.code.ts"
 import {
   transformElementAccessExpressionWithCapture,
   transformPropertyAccessExpressionWithCapture,

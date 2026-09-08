@@ -6,7 +6,7 @@ import { LoopContinued, performHoisting, ScopeType } from "../scope/scope.module
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { isAssignmentPattern } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import { isAssignmentPattern } from "../typescript/typescript.module.code.ts"
 import { transformAssignment } from "../visit-assignments/visit-assignments.module.code.ts"
 import { transformBlockOrStatement } from "../visit-block/visit-block.module.code.ts"
 import { transformAssignmentPattern } from "../visit-destructuring-assignments/visit-destructuring-assignments.module.code.ts"
