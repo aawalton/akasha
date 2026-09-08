@@ -1,9 +1,11 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { AmbientTypes } from "./properties/ambient-types.file-property.ts"
+import type { Generated } from "./properties/generated.record-property.ts"
 
 export type TypeDeclaration = Domain & {
   d: AmbientTypes
+  generated?: Generated
 }
 
 export const typeDeclaration = {
@@ -12,9 +14,17 @@ export const typeDeclaration = {
   slug: "type-declaration",
   definition: "types a compiler reads and emits nothing from",
   pluralSlug: "type-declarations",
-  partSlugs: ["file-property/ambient-types"],
+  partSlugs: [
+    "file-property/ambient-types",
+    "record-property/generated",
+    "text-property/written-by",
+    "number-property/source-version",
+  ],
   extendsSlug: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "file-property/ambient-types", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "file-property/ambient-types", required: true, many: false },
+    { pagePropertySlug: "record-property/generated", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
