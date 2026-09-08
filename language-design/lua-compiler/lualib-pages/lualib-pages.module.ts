@@ -54,6 +54,11 @@ export const lualibPages = {
       statement: "A page whose code file is not there is passed over.",
     },
     {
+      invariantKind: "gap",
+      statement:
+        "A page whose slug is no export name reads as nothing, and its code file is named.",
+    },
+    {
       invariantKind: "departure",
       statement:
         "A page naming a feature the scan found nowhere is added after what the scan found.",
