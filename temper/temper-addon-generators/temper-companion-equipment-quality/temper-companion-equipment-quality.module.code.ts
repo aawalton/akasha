@@ -68,7 +68,7 @@ export function generateTemperCompanionEquipmentQuality(rows: readonly Page[]): 
  * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
-import { createDataFile } from "@akasha/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils/narrow/create-data-file"
 
 interface CompanionEquipmentQualityTemplate {
   id: string

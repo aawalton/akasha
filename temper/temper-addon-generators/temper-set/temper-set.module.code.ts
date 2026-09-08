@@ -152,7 +152,7 @@ ${fields.join(",\n")},
  * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
-import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
+import { createDataFile, type DataFile } from "@akasha/utils/narrow/create-data-file"
 import type { SetCategoryId } from "@akasha/temper-equipment/set-category-ids"
 import type { SetId } from "@akasha/temper-equipment/set-ids"
 import type { SetTemplate } from "@akasha/temper-equipment/set-template"

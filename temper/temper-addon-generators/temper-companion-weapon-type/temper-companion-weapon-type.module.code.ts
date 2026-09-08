@@ -74,7 +74,7 @@ export function generateTemperCompanionWeaponType(rows: readonly Page[]): string
  * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
-import { createDataFile } from "@akasha/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils/narrow/create-data-file"
 
 interface CompanionWeaponTypeTemplate {
   id: string

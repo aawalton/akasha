@@ -133,7 +133,7 @@ ${fields.join(",\n")},
  * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
-import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
+import { createDataFile, type DataFile } from "@akasha/utils/narrow/create-data-file"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import type { SkillTemplate } from "../skills-data"
 

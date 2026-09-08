@@ -68,7 +68,7 @@ export function generateTemperCompanionJewelrySlot(rows: readonly Page[]): strin
  * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
-import { createDataFile } from "@akasha/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils/narrow/create-data-file"
 
 interface CompanionJewelrySlotTemplate {
   id: string

@@ -124,7 +124,7 @@ ${fields.join(",\n")},
  * DO NOT EDIT -- regenerate with: akasha temper-addon-data-generate
  */
 
-import { createDataFile } from "@akasha/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils/narrow/create-data-file"
 import type { CompanionTemplate } from "@akasha/temper-companions-core/companions"
 
 const COMPANIONS_DATA = {
