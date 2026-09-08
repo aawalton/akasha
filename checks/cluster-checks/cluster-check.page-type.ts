@@ -131,6 +131,7 @@ export const clusterCheck = {
     "module/check-boundary-parse",
     "module/check-component-layout",
     "module/check-exhaustive-dispatch",
+    "module/check-generated-suffix",
   ],
   properties: [
     {
