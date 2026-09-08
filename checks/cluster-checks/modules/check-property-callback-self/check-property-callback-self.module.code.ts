@@ -40,7 +40,7 @@ function formatViolation(v: PropertyCallbackSelfFinding): string {
 
 const SUCCESS_MESSAGE = "All property-style interface callbacks declare `this: void`."
 
-export const tstlPropertyCallbackSelfEntry: SyntaxScannerEntry = {
+export const propertyCallbackSelfEntry: SyntaxScannerEntry = {
   name: "tstl-property-callback-self",
   preFileSkip: (rel, repoRoot) => !isTstlSourcePath(rel, repoRoot),
   findFindings: (sf) => {

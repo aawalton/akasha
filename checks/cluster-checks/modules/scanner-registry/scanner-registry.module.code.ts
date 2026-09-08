@@ -11,7 +11,7 @@ import { noVoidReturnEntry } from "../check-no-void-return/check-no-void-return.
 import { objectLiteralSelfEntry } from "../check-object-literal-self/check-object-literal-self.module.code.ts"
 import { popoverViewportSafetyEntry } from "../check-popover-viewport-safety/check-popover-viewport-safety.module.code.ts"
 import { populationReadSwallowEntry } from "../check-population-read-swallow/check-population-read-swallow.module.code.ts"
-import { tstlPropertyCallbackSelfEntry } from "../check-property-callback-self/check-property-callback-self.module.code.ts"
+import { propertyCallbackSelfEntry } from "../check-property-callback-self/check-property-callback-self.module.code.ts"
 import { readonlyCollectionsEntry } from "../check-readonly-collections/check-readonly-collections.module.code.ts"
 import { sopsSpawnPipeEntry } from "../check-sops-spawn-pipe/check-sops-spawn-pipe.module.code.ts"
 import { suspenseThrowSettlesEntry } from "../check-suspense-throw-settles/check-suspense-throw-settles.module.code.ts"
@@ -31,7 +31,7 @@ export const SYNTAX_SCANNER_ENTRIES: readonly SyntaxScannerEntry[] = [
   libcFfiBindingEntry,
   suspenseThrowSettlesEntry,
   objectLiteralSelfEntry,
-  tstlPropertyCallbackSelfEntry,
+  propertyCallbackSelfEntry,
   populationReadSwallowEntry,
   libSetsPerPieceDifficultyBoundaryEntry,
   componentLayoutJsxEntry,
