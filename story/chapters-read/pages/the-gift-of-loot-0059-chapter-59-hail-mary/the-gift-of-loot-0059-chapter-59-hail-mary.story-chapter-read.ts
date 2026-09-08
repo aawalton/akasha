@@ -5,7 +5,7 @@ export const theGiftOfLoot0059Chapter59HailMary = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0059-chapter-59-hail-mary",
   title: "Chapter 59: Hail Mary",
-  partOfSlugs: ["the-gift-of-loot"],
+  partOfCollectionSlugs: ["the-gift-of-loot"],
   position: 59,
   ownLength: 2211,
   unitSlug: "words",

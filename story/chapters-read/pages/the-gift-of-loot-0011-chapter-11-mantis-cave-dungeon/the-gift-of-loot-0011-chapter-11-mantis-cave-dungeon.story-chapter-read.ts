@@ -5,7 +5,7 @@ export const theGiftOfLoot0011Chapter11MantisCaveDungeon = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0011-chapter-11-mantis-cave-dungeon",
   title: "Chapter 11: Mantis Cave Dungeon",
-  partOfSlugs: ["the-gift-of-loot"],
+  partOfCollectionSlugs: ["the-gift-of-loot"],
   position: 11,
   ownLength: 2412,
   unitSlug: "words",

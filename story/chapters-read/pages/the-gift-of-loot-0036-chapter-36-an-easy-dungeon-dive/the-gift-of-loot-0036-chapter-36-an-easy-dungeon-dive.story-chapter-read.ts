@@ -5,7 +5,7 @@ export const theGiftOfLoot0036Chapter36AnEasyDungeonDive = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0036-chapter-36-an-easy-dungeon-dive",
   title: 'Chapter 36: An "Easy" Dungeon Dive',
-  partOfSlugs: ["the-gift-of-loot"],
+  partOfCollectionSlugs: ["the-gift-of-loot"],
   position: 36,
   ownLength: 3715,
   unitSlug: "words",

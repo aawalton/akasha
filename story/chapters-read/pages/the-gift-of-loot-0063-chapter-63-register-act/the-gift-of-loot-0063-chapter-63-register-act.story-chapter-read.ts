@@ -5,7 +5,7 @@ export const theGiftOfLoot0063Chapter63RegisterAct = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0063-chapter-63-register-act",
   title: "Chapter 63: REGISTER Act",
-  partOfSlugs: ["the-gift-of-loot"],
+  partOfCollectionSlugs: ["the-gift-of-loot"],
   position: 63,
   ownLength: 2799,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0010Chapter10CrystalFleaMarket = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0010-chapter-10-crystal-flea-market",
   title: "Chapter 10: Crystal Flea Market",
-  partOfSlugs: ["the-gift-of-loot"],
+  partOfCollectionSlugs: ["the-gift-of-loot"],
   position: 10,
   ownLength: 2441,
   unitSlug: "words",
