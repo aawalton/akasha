@@ -7,4 +7,37 @@ export const mountainTimes = {
   definition: "mountain wall time, and the instant a wall reading names",
   code: "ts",
   test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "An offset guessed from a wall reading is asked again at the instant that guess named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The second answer is taken where the two answers disagree.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A wall time that spring skipped answers as the hour before rather than being refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A wall time autumn holds twice answers at the first of the two.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A stretch of sleep begun in the evening belongs to the day that sleep is woken into.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A day string that is no date is refused.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A month or a day past the end of the calendar is refused.",
+    },
+  ],
 } as const satisfies Module

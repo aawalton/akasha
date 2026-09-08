@@ -5,11 +5,6 @@ import {
   mtWallToInstant,
 } from "./mountain-times.module.code.ts"
 
-/**
- * The two instants US Mountain changes offset at in 2026, worked out by hand from the rule this
- * file encodes: the second Sunday of March at 09:00 UTC, and the first Sunday of November at 08:00
- * UTC. In 2026 those Sundays are the 8th and the 1st.
- */
 const SPRING_2026 = "2026-03-08T09:00:00Z"
 
 const FALL_2026 = "2026-11-01T08:00:00Z"
@@ -44,14 +39,6 @@ describe("turning a Mountain wall time into an instant", () => {
     expect(mtWallToInstant("2026-07-15", 6, 0).toISOString()).toBe("2026-07-15T12:00:00.000Z")
   })
 
-  /**
-   * The two passes are what make the transition days come out right.
-   *
-   * The first pass guesses the offset from the wall reading treated as UTC, which is up to seven
-   * hours away from the instant it will turn out to name. On a transition day that guess can land on
-   * the wrong side of the change, so the second pass re-asks at the candidate instant and, when the
-   * two disagree, believes the second.
-   */
   test("across the spring gap, both sides of the change resolve at their own offset", () => {
     expect(mtWallToInstant("2026-03-08", 0, 0).toISOString()).toBe("2026-03-08T07:00:00.000Z")
     expect(mtWallToInstant("2026-03-08", 1, 0).toISOString()).toBe("2026-03-08T08:00:00.000Z")
@@ -59,11 +46,6 @@ describe("turning a Mountain wall time into an instant", () => {
     expect(mtWallToInstant("2026-03-08", 4, 0).toISOString()).toBe("2026-03-08T10:00:00.000Z")
   })
 
-  /**
-   * 02:00 on the spring-forward day is a wall reading that never happens, and it is answered with
-   * the last instant before the gap rather than with a refusal. It therefore names the same instant
-   * as 01:00, and two distinct readings collapse onto one.
-   */
   test("a wall time in the gap that never happened answers as the hour before it", () => {
     expect(mtWallToInstant("2026-03-08", 2, 0).toISOString()).toBe("2026-03-08T08:00:00.000Z")
     expect(mtWallToInstant("2026-03-08", 2, 0).getTime()).toBe(
@@ -71,9 +53,6 @@ describe("turning a Mountain wall time into an instant", () => {
     )
   })
 
-  /**
-   * 01:00 to 01:59 on the fall-back day happens twice, and the first pass is the one chosen.
-   */
   test("across the fall repeat, the hour that happens twice resolves to its first pass", () => {
     expect(mtWallToInstant("2026-11-01", 0, 0).toISOString()).toBe("2026-11-01T06:00:00.000Z")
     expect(mtWallToInstant("2026-11-01", 1, 0).toISOString()).toBe("2026-11-01T07:00:00.000Z")
@@ -92,15 +71,11 @@ describe("turning a Mountain wall time into an instant", () => {
     }
   })
 
-  // KNOWN DEFECT: a day string that is no date should be refused, rather than answered with an
-  // Invalid Date that every reader downstream has to notice for itself.
   test("a day that is no date comes back as an Invalid Date and no refusal", () => {
     expect(mtWallToInstant("nope", 7, 0).getTime()).toBeNaN()
     expect(mtWallToInstant("", 7, 0).getTime()).toBeNaN()
   })
 
-  // KNOWN DEFECT: a month or day out of range should be refused; rolling 2026-13-45 forward into
-  // 2027-02-14 turns a typo into a plausible-looking instant three months away.
   test("a month or day past the end of the calendar rolls forward instead of refusing", () => {
     expect(mtWallToInstant("2026-13-45", 7, 0).toISOString()).toBe("2027-02-14T14:00:00.000Z")
     expect(mtWallToInstant("2026-02-30", 7, 0).toISOString()).toBe("2026-03-02T14:00:00.000Z")
@@ -113,10 +88,6 @@ describe("the day an evening is counted into", () => {
     expect(getMountainEveningDayStr(new Date("2026-03-06T00:00:00Z"))).toBe("2026-03-05")
   })
 
-  /**
-   * From 18:00 Mountain the label runs a day ahead of the calendar. This is what makes a Sleep block
-   * that starts in the evening belong to the day it will be woken into.
-   */
   test("from 18:00 Mountain, the day is the next calendar day", () => {
     expect(getMountainEveningDayStr(new Date("2026-03-06T01:00:00Z"))).toBe("2026-03-06")
     expect(getMountainEveningDayStr(new Date("2026-03-06T04:00:00Z"))).toBe("2026-03-06")
