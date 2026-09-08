@@ -10,7 +10,7 @@ export const aineAuditChangeGuards = {
     {
       statement: "Every sensible combination of mode, type and subtype has a mechanical change.",
       workingMemory:
-        "file takes file, file-code, file-page, file-page-type, file-page-property; folder takes folder, folder-package. add, move and remove each hold every file cell and a dispatcher, and every agent act reaches the dispatcher rather than a rung. A file's rename is its move, so file holds no rename cell. folder/move is landed; folder/remove and folder-package are left. move-folder-batch and change-page-page-type rightly reach move-file per file, handing change-imports the whole map of what moved.\n",
+        "file takes file, file-code, file-page, file-page-type and file-page-property; folder takes folder and folder-package. add, move and remove each hold every file cell and a dispatcher, and folder holds move-folder, move-folder-package and remove-folder. A page's rename is `rename-file-page`, a rename family beside move, while a file's own rename is still that file's carry. add-if-not-present holds the plain file alone. move-folder-batch and change-page-page-type rightly reach move-file per file.\n",
     },
     {
       statement:
@@ -70,7 +70,7 @@ export const aineAuditChangeGuards = {
     {
       statement: "No agent change reaches another agent change.",
       workingMemory:
-        "`move-folder-package` reaches `change-agent/rename-page`, and `nest-commands` reaches `change-agent/move-page` and `change-agent/change-domain-parent`. `change-agent.page-type.ts` already states the departure these break. Each wants a mechanical rung first: a page's rename, and a domain's reparenting. A page's rename is not a file's rename, so it would sit in a rename family beside the move family rather than in it.",
+        "`nest-commands` is the one left: it reaches `change-agent/move-page` and `change-agent/change-domain-parent`. `move-folder-package` no longer reaches `change-agent/rename-page`, that carry now being `change-mechanical-folder/move-folder-package` over `change-mechanical/rename-file-page`. What is left wants a mechanical rung for a domain's reparenting, and a rung carrying a page into a folder that `move-page` can be thin over too.\n",
     },
   ],
   constraints: [
