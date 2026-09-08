@@ -19,7 +19,9 @@ import {
   scratch,
 } from "../landing/landing.module.test-fixtures.ts"
 import { readingIn, recordRead, sameBody } from "../reading/reading.module.code.ts"
-import { applied as appliedWith } from "./applying.module.code.ts"
+import { applied as appliedWith, messageFor } from "./applying.module.code.ts"
+
+const HELD = { was: null, body: null, readersOweReading: true }
 
 const AGENT = "01a05f00-0000-7000-8000-000000000001"
 
@@ -52,6 +54,23 @@ function drafting(root: string): undefined {
 function headOid(root: string, path: string): string {
   return gitSaid(root, ["rev-parse", `HEAD:${path}`]).trim()
 }
+
+test("an apply given no message says the act and the paths that apply lands", () => {
+  const held = new Map([
+    ["akasha/two.ts", HELD],
+    ["akasha/one.ts", HELD],
+  ])
+  expect(messageFor(null, held)).toBe("apply akasha/one.ts, akasha/two.ts")
+})
+
+test("an apply carrying more than three paths says the act and how many landed", () => {
+  const named = ["a.ts", "b.ts", "c.ts", "d.ts"]
+  expect(messageFor(null, new Map(named.map((one) => [one, HELD])))).toBe("apply 4 files")
+})
+
+test("an apply given a message commits that message rather than a composed one", () => {
+  expect(messageFor("held", new Map([["akasha/one.ts", HELD]]))).toBe("held")
+})
 
 test("a patch applied lands its bodies and takes the patch away", async () => {
   const root = await indexed()
