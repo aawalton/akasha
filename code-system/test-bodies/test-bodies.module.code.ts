@@ -1,5 +1,5 @@
-import { readFileSync } from "node:fs"
-import { dirname, extname, resolve } from "node:path"
+import { existsSync, mkdtempSync, readFileSync, realpathSync, rmSync, writeFileSync } from "node:fs"
+import { dirname, extname, join, resolve } from "node:path"
 import type { BunPlugin } from "bun"
 
 export const SERVED = "body"
@@ -9,6 +9,13 @@ export const SERVING = import.meta.path
 export type Form = "ts" | "tsx" | "js" | "jsx" | "json" | "css" | "toml" | "text"
 
 export type Bodies = Readonly<Record<string, string | null>>
+
+export type Serving = {
+  readonly root: string
+  readonly preload: string
+  readonly standing: ReadonlyMap<string, string>
+  readonly sweep: () => undefined
+}
 
 export type Served = {
   readonly contents: string
@@ -30,6 +37,16 @@ const EVERY = /.*/
 const NOTHING = /(?!)/
 
 const NEAR = /^\.\.?\//
+
+const HOLD = "/var/tmp"
+
+const PREFIX = "akasha-serving-"
+
+const BODIES_FILE = "bodies.json"
+
+const PRELOAD_FILE = "preload.ts"
+
+const SHIM = ".test.ts"
 
 const LOADERS: Readonly<Record<string, Form>> = {
   ".ts": "ts",
@@ -79,6 +96,53 @@ export function servingOut(bodies: Bodies, path: string): Served {
   const body = bodies[path] ?? null
   if (body === null) throw new Error(`\`${path}\` is taken away by the change these tests judge`)
   return { contents: body, loader: loaderOf(path) }
+}
+
+function bodyOf(at: (path: string) => Uint8Array | null, one: string): string | null {
+  try {
+    const bytes = at(one)
+    return bytes === null ? null : new TextDecoder().decode(bytes)
+  } catch (thrown) {
+    const said = thrown instanceof Error ? thrown.message : String(thrown)
+    throw new Error(`the body handed in for \`${one}\` would not be read — ${said}`)
+  }
+}
+
+export function servingOf(
+  from: string,
+  paths: readonly string[],
+  at: (path: string) => Uint8Array | null,
+  named: readonly string[]
+): Serving {
+  const held = mkdtempSync(join(HOLD, PREFIX))
+  try {
+    const root = realpathSync(from)
+    const bodies: Record<string, string | null> = {}
+    for (const one of paths) bodies[join(root, one)] = bodyOf(at, one)
+    const standing = new Map<string, string>()
+    for (const one of named) {
+      const real = join(root, one)
+      if (existsSync(real) || (bodies[real] ?? null) === null) continue
+      const shim = join(held, `${standing.size}${SHIM}`)
+      writeFileSync(shim, `import ${JSON.stringify(real)}\n`)
+      standing.set(one, shim)
+    }
+    const filed = join(held, BODIES_FILE)
+    writeFileSync(filed, JSON.stringify(bodies))
+    const preload = join(held, PRELOAD_FILE)
+    writeFileSync(preload, preloadingOf(filed))
+    return {
+      root,
+      preload,
+      standing,
+      sweep: (): undefined => {
+        rmSync(held, { recursive: true, force: true })
+      },
+    }
+  } catch (thrown) {
+    rmSync(held, { recursive: true, force: true })
+    throw thrown
+  }
 }
 
 export function servedBy(bodies: Bodies): BunPlugin {
