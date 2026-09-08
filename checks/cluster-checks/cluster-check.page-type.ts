@@ -221,6 +221,7 @@ export const clusterCheck = {
     "module/ts-sops-spawn-pipe",
     "module/ts-suspense-throw",
     "module/ts-timezone-violations",
+    "module/ts-type-assertions",
   ],
   properties: [
     {
