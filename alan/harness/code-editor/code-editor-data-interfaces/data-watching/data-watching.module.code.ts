@@ -37,6 +37,7 @@ const SCRATCH_AT = "alan/harness/code-editor/code-editor-data-interfaces"
 const SEATS_AT = "seat-system/seats/pages"
 const SUBAGENTS_AT = "seat-system/subagents/pages"
 const TURN_STATES_AT = "seat-system/seat-turn-states/pages"
+const INITIATIVES_AT = "domains/initiatives/pages"
 const SIDECAR = ".uncommitted.ts"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.json"
 const SETTLE_MS = 25
@@ -98,6 +99,7 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
   const seats = join(root, SEATS_AT)
   const turnStates = join(root, TURN_STATES_AT)
   const subagents = join(root, SUBAGENTS_AT)
+  const initiatives = join(root, INITIATIVES_AT)
   const terminals = seatMarksAt(root)
   const readings = watchedFoldersIn(root)
   return new Map<string, Picture>([
@@ -132,10 +134,11 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "work-tree",
       {
         cooldownMs: 1_000,
-        folders: [seats, turnStates],
+        folders: [seats, turnStates, initiatives],
         holds: either(
           within(seats, SIDECAR, ".seat.ts"),
-          within(turnStates, ".seat-turn-state.ts")
+          within(turnStates, ".seat-turn-state.ts"),
+          within(initiatives, ".initiative.ts")
         ),
         movesWithIndex: true,
         line: () => workTreeLine(root),
