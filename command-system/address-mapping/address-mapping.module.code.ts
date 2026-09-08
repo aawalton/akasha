@@ -11,7 +11,7 @@ const PAGE_TYPE = "page-type"
 
 const RUNNER = "change-runner"
 
-const REACHED = "change"
+const REACHED_SLUG = "reachedSlug"
 
 const ADDRESSED = "addressed"
 
@@ -76,12 +76,18 @@ function addressedOf(
   return found
 }
 
-export function addressesFor(
+function kindIn(said: string): string {
+  const cut = said.indexOf("/")
+  return cut < 0 ? said : said.slice(cut + 1)
+}
+
+function addressesFor(
   shadow: Shadow,
+  reached: string,
   at: string,
   textAt: (path: string) => string | null
 ): readonly Address[] {
-  const found = [...shadow.index.kindsUnder(REACHED)].flatMap((kind) =>
+  const found = [...shadow.index.kindsUnder(reached)].flatMap((kind) =>
     addressedOf(shadow, kind, at, textAt)
   )
   return [...found].sort((one, two) =>
@@ -119,7 +125,9 @@ export function mappedOver(
     if (value === null || value[ADDRESSED] !== HOLDS) continue
     const at = besideAt(listed.path, ADDRESSED, TS)
     if (at === null || answered.has(at)) continue
-    const addresses = addressesFor(shadow, at, textAt)
+    const reached = value[REACHED_SLUG]
+    if (typeof reached !== "string") continue
+    const addresses = addressesFor(shadow, kindIn(reached), at, textAt)
     const raw = new TextEncoder().encode(bodyFor(addresses))
     const body = formattedBody(root, at, raw).body
     const was = textAt(at)

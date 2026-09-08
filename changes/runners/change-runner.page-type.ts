@@ -1,9 +1,11 @@
 import type { Module } from "../../code-system/modules/module.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
 import type { Addressed } from "./properties/addressed.file-property.ts"
+import type { ReachedSlug } from "./properties/reached-slug.relation-property.ts"
 
 export type ChangeRunner = Module & {
   addressed: Addressed
+  reachedSlug: ReachedSlug
 }
 
 export const changeRunner = {
@@ -12,13 +14,29 @@ export const changeRunner = {
   slug: "change-runner",
   definition: "a module running a change named by the address that change is filed under",
   pluralSlug: "change-runners",
-  partSlugs: ["change-runner/change-running", "file-property/addressed"],
+  partSlugs: [
+    "change-runner/change-running",
+    "file-property/addressed",
+    "relation-property/reached-slug",
+  ],
   extendsSlug: ["page-type/module"],
-  properties: [{ pagePropertySlug: "file-property/addressed", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "file-property/addressed", required: true, many: false },
+    { pagePropertySlug: "relation-property/reached-slug", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A runner is handed the address a change is filed under.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A runner reaches the changes of the page type that runner names and of the page types under it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The map beside a runner holds the addresses that runner reaches and no other.",
     },
     {
       invariantKind: "departure",

@@ -8,6 +8,7 @@ export const changeRunning = {
   code: "ts",
   test: "ts",
   addressed: "ts",
+  reachedSlug: "page-type/change",
   invariants: [
     {
       invariantKind: "departure",

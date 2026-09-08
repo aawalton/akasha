@@ -13,6 +13,14 @@ export const addressMapping = {
     },
     {
       invariantKind: "departure",
+      statement: "The changes a map holds are the changes of the page type that runner names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A runner naming no page type is left out rather than given every change.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A change exporting the run is reached by the map.",
     },
     {
