@@ -4,8 +4,7 @@ export const codeTests = {
   id: "01a04eb6-9e5f-7000-9bb8-11bc82309d76",
   pageTypeSlug: "module",
   slug: "code-tests",
-  definition:
-    "a tree written for a change, the runs made over the tests named, and what those runs said",
+  definition: "the runs made over the tests a change names, and what those runs said",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
