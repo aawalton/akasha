@@ -3,7 +3,7 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { mergeUncommitted } from "@akasha/pages/page-uncommitted"
 import { keepReading, readingAged, readingKept, readingOn } from "./readout-reading.module.code.ts"
 
-const PAGE = "akasha/readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts"
+const PAGE = "readouts/pages/upkeep-safety/upkeep-safety.readout.ts"
 
 const TAKEN = "2026-08-31T12:00:00.000Z"
 

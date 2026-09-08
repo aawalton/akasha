@@ -21,7 +21,7 @@ import {
 
 const READOUT = "monarch-unreviewed-transactions"
 
-const PAGE = `akasha/readout-system/readouts/pages/${READOUT}/${READOUT}.readout.ts`
+const PAGE = `readouts/pages/${READOUT}/${READOUT}.readout.ts`
 
 const TAKEN = "2026-08-31T12:00:00.000Z"
 
