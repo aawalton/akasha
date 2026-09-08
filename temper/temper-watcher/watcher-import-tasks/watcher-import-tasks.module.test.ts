@@ -302,7 +302,7 @@ test("an import completes what it resolves, clears a zero, and reports the rest 
     { slug: "recurring-task", values: { lastCompletedAt: null, completedAt: null } },
   ])
   expect(said[said.length - 1]).toBe(
-    "Task import: 1 completed, 1 cleared, 0 swept, 1 skipped, 0 rolled."
+    "Task import: 1 completed, 1 cleared, 0 swept, 1 skipped, 0 rolled, 0 progress file(s) landed."
   )
 })
 
@@ -336,7 +336,7 @@ test("a task at its cumulative cap that no completion named is marked done at th
     { slug: "cumulative-task", values: { lastCompletedAt: NOW_ISO, completedAt: NOW_ISO } },
   ])
   expect(said[said.length - 1]).toBe(
-    "Task import: 0 completed, 0 cleared, 1 swept, 0 skipped, 0 rolled."
+    "Task import: 0 completed, 0 cleared, 1 swept, 0 skipped, 0 rolled, 0 progress file(s) landed."
   )
 })
 
@@ -379,6 +379,53 @@ test("a recurring task completed on an earlier day rolls on and stays", async ()
   expect(it.landed).toEqual([
     { slug: "r", values: { lastCompletedAt: COMPLETED_AT_ISO, dueDate: "2024-03-16" } },
   ])
+})
+
+test("the recomputation is handed every task and what it landed is reported", async () => {
+  const said: string[] = []
+  const handed: unknown[] = []
+  const task = {
+    id: ONE_OFF_ID,
+    slug: "one-off-task",
+    title: "One Off Task",
+    completionCardId: "daily-writs",
+  }
+  await runImportTasks(
+    buildLua([]),
+    NO_CLIENT,
+    landing({
+      userId: "u1",
+      ask: async (query) =>
+        query.pageTypeSlug === "temper-task" ? { rows: [task] } : { rows: [] },
+      refreshProgress: async (forUser, tasks) => {
+        handed.push(forUser, ...tasks)
+        return 3
+      },
+      report: (message) => said.push(message),
+    })
+  )
+  expect(handed).toEqual(["u1", { slug: "one-off-task", completionCardId: "daily-writs" }])
+  expect(said[said.length - 1]).toContain("3 progress file(s) landed")
+})
+
+test("a task naming no card is handed over with its slug alone", async () => {
+  const handed: unknown[] = []
+  await runImportTasks(
+    buildLua([]),
+    NO_CLIENT,
+    landing({
+      userId: "u1",
+      ask: async (query) =>
+        query.pageTypeSlug === "temper-task"
+          ? { rows: [{ id: ONE_OFF_ID, slug: "one-off-task", title: "One Off" }] }
+          : { rows: [] },
+      refreshProgress: async (_forUser, tasks) => {
+        handed.push(...tasks)
+        return 0
+      },
+    })
+  )
+  expect(handed).toEqual([{ slug: "one-off-task" }])
 })
 
 test("seams the caller leaves out fall back to the real ones", () => {

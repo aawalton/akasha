@@ -21,6 +21,8 @@ import {
   type TaskCompletionsRead,
 } from "../watcher-task-capture/watcher-task-capture.module.code.ts"
 import { landTaskValues } from "../watcher-task-landing/watcher-task-landing.module.code.ts"
+import type { TaskFacts } from "../watcher-task-progress/watcher-task-progress.module.code.ts"
+import { refreshTaskProgress } from "../watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"
 import { tasksThatRoll } from "../watcher-task-rolling/watcher-task-rolling.module.code.ts"
 
 export const TASK_PAGE_TYPE_SLUG = "temper-task"
@@ -35,6 +37,7 @@ export interface ImportTasksSeams {
   readonly now?: () => Date
   readonly ask?: typeof askingFor
   readonly landTask?: typeof landTaskValues
+  readonly refreshProgress?: typeof refreshTaskProgress
   readonly report?: (message: string) => void
   readonly reportError?: (message: string) => void
 }
@@ -43,6 +46,7 @@ export interface ReadySeams {
   readonly now: () => Date
   readonly ask: typeof askingFor
   readonly landTask: typeof landTaskValues
+  readonly refreshProgress: typeof refreshTaskProgress
   readonly report: (message: string) => void
   readonly reportError: (message: string) => void
 }
@@ -64,6 +68,7 @@ export function seamsReady(seams: ImportTasksSeams = {}): ReadySeams {
     now: seams.now ?? (() => new Date()),
     ask: seams.ask ?? askingFor,
     landTask: seams.landTask ?? landTaskValues,
+    refreshProgress: seams.refreshProgress ?? refreshTaskProgress,
     report: seams.report ?? log,
     reportError: seams.reportError ?? logError,
   }
@@ -182,6 +187,18 @@ export async function readTaskPages(
   return asked.rows.filter(
     (row): row is TaskPage => typeof row.id === "string" && typeof row.slug === "string"
   )
+}
+
+export function taskFactsOf(task: TaskPage): TaskFacts {
+  const card = asText(task.completionCardId)
+  if (card === undefined) return { slug: task.slug }
+  const held = task.completionItemPath
+  const path = Array.isArray(held)
+    ? held.filter((one): one is string => typeof one === "string")
+    : []
+  return path.length === 0
+    ? { slug: task.slug, completionCardId: card }
+    : { slug: task.slug, completionCardId: card, completionItemPath: path }
 }
 
 export function tasksByName(tasks: readonly TaskPage[]): Map<string, TaskPage> {
@@ -342,7 +359,11 @@ export async function runImportTasks(
     seams
   )
 
+  const refreshed = await seams.refreshProgress(userId, tasks.map(taskFactsOf), {
+    report: seams.report,
+  })
+
   seams.report(
-    `Task import: ${completed} completed, ${cleared} cleared, ${sweptForever} swept, ${skipped} skipped, ${rolled} rolled.`
+    `Task import: ${completed} completed, ${cleared} cleared, ${sweptForever} swept, ${skipped} skipped, ${rolled} rolled, ${refreshed} progress file(s) landed.`
   )
 }
