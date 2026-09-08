@@ -48,7 +48,7 @@ export const storyDecision = {
     {
       invariantKind: "departure",
       statement:
-        "A decision carries every option the decision was settled between as well as the option settled on.",
+        "A decision has every option the decision was settled between as well as the option settled on.",
     },
     {
       invariantKind: "departure",
@@ -61,7 +61,7 @@ export const storyDecision = {
     },
     {
       invariantKind: "departure",
-      statement: "The words a decision carries are the story's rather than akasha's own.",
+      statement: "The words a decision has are the story's rather than akasha's own.",
     },
   ],
 } as const satisfies PageType

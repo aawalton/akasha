@@ -47,7 +47,7 @@ export const storyBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "A build carries the rules a reader reads the build against.",
+      statement: "A build has the rules a reader reads the build against.",
     },
     {
       invariantKind: "departure",

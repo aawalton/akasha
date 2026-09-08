@@ -101,7 +101,7 @@ export const worldMechanic = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug that cannot become an export name carries its kind on the front.",
+      statement: "A slug that cannot become an export name has its kind on the front.",
     },
     {
       invariantKind: "departure",
@@ -110,15 +110,15 @@ export const worldMechanic = {
     {
       invariantKind: "departure",
       statement:
-        "Where the text shows an evolution the reference beside the evolution carries that place.",
+        "Where the text shows an evolution the reference beside the evolution has that place.",
     },
     {
       invariantKind: "departure",
-      statement: "The words a mechanic carries are the story's rather than akasha's own.",
+      statement: "The words a mechanic has are the story's rather than akasha's own.",
     },
     {
       invariantKind: "departure",
-      statement: "Every kind of mechanic carries the properties the base carries and adds nothing.",
+      statement: "Every kind of mechanic has the properties the base has and adds nothing.",
     },
     {
       invariantKind: "departure",

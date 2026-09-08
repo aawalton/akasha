@@ -26,7 +26,7 @@ export const storyChapterPlayed = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A chapter carries the prose play made rather than prose anybody wrote.",
+      statement: "A chapter has the prose play made rather than prose anybody wrote.",
     },
     {
       invariantKind: "departure",

@@ -64,7 +64,7 @@ export const namedEvent = {
     },
     {
       invariantKind: "departure",
-      statement: "The story names an event by any alias the event carries.",
+      statement: "The story names an event by any alias the event has.",
     },
     {
       invariantKind: "departure",

@@ -182,7 +182,7 @@ export const game = {
     {
       invariantKind: "departure",
       statement:
-        "An entity's sheet is shaped by the game's rulebook rather than by the row carrying the sheet.",
+        "An entity's sheet is shaped by the game's rulebook rather than by the row with the sheet.",
     },
     {
       invariantKind: "departure",
@@ -202,7 +202,7 @@ export const game = {
     },
     {
       invariantKind: "departure",
-      statement: "A roll carries the hash of the previous roll.",
+      statement: "A roll has the hash of the previous roll.",
     },
     {
       invariantKind: "departure",

@@ -88,7 +88,7 @@ export const storyChapterRead = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A chapter carries the words of the chapter's author rather than akasha's own.",
+      statement: "A chapter has the words of the chapter's author rather than akasha's own.",
     },
     {
       invariantKind: "departure",

@@ -47,7 +47,7 @@ export const doctrine = {
     },
     {
       invariantKind: "departure",
-      statement: "A doctrine carries the revision that doctrine is on.",
+      statement: "A doctrine has the revision that doctrine is on.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const doctrine = {
     },
     {
       invariantKind: "departure",
-      statement: "The words a doctrine carries are the game master's rather than akasha's own.",
+      statement: "The words a doctrine has are the game master's rather than akasha's own.",
     },
   ],
 } as const satisfies PageType

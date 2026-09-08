@@ -46,7 +46,7 @@ export const storyWikiEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "The words an entry carries are the story's rather than akasha's own.",
+      statement: "The words an entry has are the story's rather than akasha's own.",
     },
   ],
 } as const satisfies PageType

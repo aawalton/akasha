@@ -137,7 +137,7 @@ export const storyDesign = {
     },
     {
       invariantKind: "departure",
-      statement: "The words a design carries are the story's rather than akasha's own.",
+      statement: "The words a design has are the story's rather than akasha's own.",
     },
   ],
 } as const satisfies PageType

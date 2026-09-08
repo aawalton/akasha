@@ -39,16 +39,16 @@ export const storyDesignNote = {
     },
     {
       invariantKind: "departure",
-      statement: "A note carries its whole document beside the page.",
+      statement: "A note has its whole document beside the page.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A note carrying data rather than prose carries that data beside the page as the data was written.",
+        "A note with data rather than prose has that data beside the page as the data was written.",
     },
     {
       invariantKind: "departure",
-      statement: "The words a note carries are the story's rather than akasha's own.",
+      statement: "The words a note has are the story's rather than akasha's own.",
     },
   ],
 } as const satisfies PageType

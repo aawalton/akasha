@@ -50,7 +50,7 @@ export const worldCharacter = {
     },
     {
       invariantKind: "departure",
-      statement: "The words a character carries are the story's rather than akasha's own.",
+      statement: "The words a character has are the story's rather than akasha's own.",
     },
     {
       invariantKind: "departure",

@@ -20,7 +20,7 @@ export const storyTurnPlayed = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A turn carries the prose one exchange of play made.",
+      statement: "A turn has the prose one exchange of play made.",
     },
     {
       invariantKind: "departure",

@@ -41,7 +41,7 @@ export const vendoredWorkload = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A vendored workload is one resource carrying a pod template.",
+      statement: "A vendored workload is one resource with a pod template.",
     },
     {
       invariantKind: "departure",

@@ -76,7 +76,7 @@ export const subagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent may carry fewer tools than the seat that ran that subagent.",
+      statement: "A subagent may have fewer tools than the seat that ran that subagent.",
     },
     {
       invariantKind: "departure",
