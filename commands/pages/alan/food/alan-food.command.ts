@@ -1,9 +1,9 @@
-import type { Command } from "../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.ts"
 
-export const food = {
+export const alanFood = {
   id: "01a06809-250b-7ec1-99ac-2150ec2c5f74",
   pageTypeSlug: "command",
-  slug: "food",
+  slug: "alan-food",
   definition: "the command acting on what Alan ate",
   code: "ts",
   test: "ts",

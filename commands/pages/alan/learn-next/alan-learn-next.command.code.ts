@@ -25,7 +25,7 @@ export function sweepOf(leaves: readonly Leaf[]): readonly Leaf[] {
   return selectWithoutReplacement(leaves, leaves.length, drawsFromSeed(SEED))
 }
 
-export function learnNext(argv: readonly string[], given: Given): Answer {
+export function alanLearnNext(argv: readonly string[], given: Given): Answer {
   let json = false
   for (const one of argv) {
     if (one !== JSON_SAID) return refused(`\`${one}\` is nothing this takes`, INPUT)

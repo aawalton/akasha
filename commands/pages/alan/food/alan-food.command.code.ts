@@ -8,11 +8,11 @@ import { resolveRoots } from "@akasha/pages/checkout-roots"
 import type { Value } from "@akasha/pages/page-value"
 import { asking } from "@akasha/pages-service/asking"
 import { composedFor } from "@akasha/pages-service/composing"
-import { rootOf, written } from "../../../alan/track/daily/akasha-day/akasha-day.module.code.ts"
-import { wakeDayOf } from "../../../alan/track/daily/day-opening/day-opening.module.code.ts"
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { refused } from "../../../command-system/calling/calling.module.code.ts"
-import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import { rootOf, written } from "../../../../alan/track/daily/akasha-day/akasha-day.module.code.ts"
+import { wakeDayOf } from "../../../../alan/track/daily/day-opening/day-opening.module.code.ts"
+import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
 
 export const LOG = "log"
 
@@ -366,7 +366,7 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
   return { report, refusals: [], code: 0 }
 }
 
-export async function food(argv: readonly string[], given: Given): Promise<Answer> {
+export async function alanFood(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   try {

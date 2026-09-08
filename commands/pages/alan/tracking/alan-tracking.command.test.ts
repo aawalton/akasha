@@ -6,13 +6,13 @@ import {
   DAYS_AT,
   FOOD_ENTRIES_AT,
   outsideTracked,
-} from "../../../alan/track/track-landing/track-landing.module.code.ts"
-import { MECHANICAL } from "../../../command-system/asking/asking.module.code.ts"
-import type { Given } from "../../../command-system/calling/calling.module.code.ts"
-import { builtIn } from "../../../command-system/file-arguing/file-arguing.module.code.ts"
-import { scratch } from "../../../command-system/landing/landing.module.test-fixtures.ts"
-import { inputIn } from "../../../command-system/piping/piping.module.code.ts"
-import { NO_GLASS, strayIn, tracking } from "./tracking.command.code.ts"
+} from "../../../../alan/track/track-landing/track-landing.module.code.ts"
+import { MECHANICAL } from "../../../../command-system/asking/asking.module.code.ts"
+import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { builtIn } from "../../../../command-system/file-arguing/file-arguing.module.code.ts"
+import { scratch } from "../../../../command-system/landing/landing.module.test-fixtures.ts"
+import { inputIn } from "../../../../command-system/piping/piping.module.code.ts"
+import { alanTracking, NO_GLASS, strayIn } from "./alan-tracking.command.code.ts"
 
 const ROOT = "/nowhere"
 
@@ -33,7 +33,7 @@ const BANANA = "one banana\n"
 afterAll(scratch.sweep)
 
 function givenIn(): Given {
-  return { root: ROOT, calledAs: "akasha tracking", from: ROOT, writer: null, agentId: null }
+  return { root: ROOT, calledAs: "akasha alan tracking", from: ROOT, writer: null, agentId: null }
 }
 
 function servingIn(root: string): Given {
@@ -55,8 +55,9 @@ test("a path under the food entries is no stray", () => {
 })
 
 test("a path elsewhere under akasha is a stray", () => {
-  const said = strayIn(ROOT, ["--file-path", "commands/pages/tracking/tracking.command.ts"])
-  expect(said).toEqual([outsideTracked("commands/pages/tracking/tracking.command.ts")])
+  const at = "commands/pages/alan/tracking/alan-tracking.command.ts"
+  const said = strayIn(ROOT, ["--file-path", at])
+  expect(said).toEqual([outsideTracked(at)])
 })
 
 test("a path beside the food entries rather than under them is a stray", () => {
@@ -77,13 +78,13 @@ test("a value belonging to another flag is not read as a path", () => {
 })
 
 test("the glass is no flag this takes", async () => {
-  const said = await tracking(["--file-path", AT, "--break-the-glass", "because"], givenIn())
+  const said = await alanTracking(["--file-path", AT, "--break-the-glass", "because"], givenIn())
   expect(said.refusals).toEqual([NO_GLASS])
   expect(said.code).toBe(1)
 })
 
 test("a stray path is refused before anything is composed", async () => {
-  const said = await tracking(["--file-path", "akasha/alan/alan.person.ts"], givenIn())
+  const said = await alanTracking(["--file-path", "akasha/alan/alan.person.ts"], givenIn())
   expect(said.refusals).toEqual([outsideTracked("akasha/alan/alan.person.ts")])
 })
 

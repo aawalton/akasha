@@ -1,9 +1,9 @@
-import type { Command } from "../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.ts"
 
-export const learnNext = {
+export const alanLearnNext = {
   id: "01a077e6-d20c-7398-9b0e-d8ecbb15cba7",
   pageTypeSlug: "command",
-  slug: "learn-next",
+  slug: "alan-learn-next",
   definition: "the first unopened leaf of the Book of Everything along a sweep fixed in advance",
   code: "ts",
   changeKindSlug: "change-none",

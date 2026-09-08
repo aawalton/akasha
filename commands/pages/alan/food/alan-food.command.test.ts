@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../command-system/calling/calling.module.code.ts"
+import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
 import {
-  food,
+  alanFood,
   freeStemIn,
   happenedAtFrom,
   readIn,
@@ -9,24 +9,24 @@ import {
   stemFor,
   stemOfSlug,
   wallClockIn,
-} from "./food.command.code.ts"
+} from "./alan-food.command.code.ts"
 
 function given(root: string): Given {
-  return { root, calledAs: "akasha food", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha alan food", from: root, writer: null, agentId: null }
 }
 
 test("nothing said is refused, naming what it takes", async () => {
-  const said = await food([], given("/nowhere"))
+  const said = await alanFood([], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("log")
 })
 
 test("an act it does not carry is refused", async () => {
-  expect((await food(["eat", "Broccoli"], given("/nowhere"))).code).toBe(1)
+  expect((await alanFood(["eat", "Broccoli"], given("/nowhere"))).code).toBe(1)
 })
 
 test("an act naming no food is refused", async () => {
-  const said = await food(["log"], given("/nowhere"))
+  const said = await alanFood(["log"], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--title")
 })

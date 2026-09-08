@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../command-system/calling/calling.module.code.ts"
-import { elaine, readIn, sinceDay } from "./elaine.command.code.ts"
+import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { alanElaine, readIn, sinceDay } from "./alan-elaine.command.code.ts"
 
 function given(root: string): Given {
-  return { root, calledAs: "akasha elaine", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha alan elaine", from: root, writer: null, agentId: null }
 }
 
 test("nothing said is refused, naming what it takes", async () => {
-  const said = await elaine([], given("/nowhere"))
+  const said = await alanElaine([], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("health-snapshot")
 })

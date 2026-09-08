@@ -4,10 +4,10 @@ import {
   SNAPSHOT_METRICS,
   summarizeSnapshot,
 } from "@akasha/health-samples-import/health-snapshot"
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { refused } from "../../../command-system/calling/calling.module.code.ts"
-import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
-import { lines } from "../../modules/yaml-lines/yaml-lines.module.code.ts"
+import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
+import { lines } from "../../../modules/yaml-lines/yaml-lines.module.code.ts"
 
 export const HEALTH_SNAPSHOT = "health-snapshot"
 
@@ -94,7 +94,7 @@ export function sinceDay(days: number, nowMs: number): string {
   return new Date(nowMs - (days + 1) * DAY_MS).toISOString().slice(0, 10)
 }
 
-export async function elaine(argv: readonly string[], given: Given): Promise<Answer> {
+export async function alanElaine(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) {
     return { report: [], refusals: [...read.refused, `\`${given.calledAs}\` did nothing`], code: 1 }
