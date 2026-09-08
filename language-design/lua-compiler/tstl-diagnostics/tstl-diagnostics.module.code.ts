@@ -7,9 +7,9 @@ import {
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import { createSerialDiagnosticFactory } from "../tstl-utils/tstl-utils.module.code.ts"
 
-type MessageProvider<TArgs extends any[]> = string | ((...args: TArgs) => string)
+type MessageProvider<TArgs extends readonly unknown[]> = string | ((...args: TArgs) => string)
 
-const createDiagnosticFactory = <TArgs extends any[]>(
+const createDiagnosticFactory = <TArgs extends readonly unknown[]>(
   category: ts.DiagnosticCategory,
   message: MessageProvider<TArgs>
 ) =>
@@ -21,10 +21,12 @@ const createDiagnosticFactory = <TArgs extends any[]>(
     category,
   }))
 
-const createErrorDiagnosticFactory = <TArgs extends any[]>(message: MessageProvider<TArgs>) =>
-  createDiagnosticFactory(ts.DiagnosticCategory.Error, message)
-const createWarningDiagnosticFactory = <TArgs extends any[]>(message: MessageProvider<TArgs>) =>
-  createDiagnosticFactory(ts.DiagnosticCategory.Warning, message)
+const createErrorDiagnosticFactory = <TArgs extends readonly unknown[]>(
+  message: MessageProvider<TArgs>
+) => createDiagnosticFactory(ts.DiagnosticCategory.Error, message)
+const createWarningDiagnosticFactory = <TArgs extends readonly unknown[]>(
+  message: MessageProvider<TArgs>
+) => createDiagnosticFactory(ts.DiagnosticCategory.Warning, message)
 
 export const unsupportedNodeKind = createErrorDiagnosticFactory(
   (kind: ts.SyntaxKind) => `Unsupported node kind ${ts.SyntaxKind[kind]}`
