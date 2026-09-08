@@ -47,9 +47,6 @@ function clientAt(
       ...(more.serverLeaseMs === undefined ? {} : { [LEASE_ENV]: String(more.serverLeaseMs) }),
     },
     startTimeoutMs: 20_000,
-    onNoise: (text: string) => {
-      console.error(`NOISE ${String(Date.now() % 100_000)} ${root.slice(-6)} ${text}`)
-    },
     ...(more.leaseBoundMs === undefined ? {} : { leaseBoundMs: more.leaseBoundMs }),
   })
   STARTED.push(client)
