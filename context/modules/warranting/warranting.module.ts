@@ -47,6 +47,10 @@ export const warranting = {
       statement: "A refusal names the read that would answer the warrant ready to run.",
     },
     {
+      invariantKind: "departure",
+      statement: "One read call names every page a refusal names.",
+    },
+    {
       invariantKind: "absence",
       statement: "A refusal says nothing about how a read behaves.",
     },

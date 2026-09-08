@@ -165,18 +165,13 @@ test("a refusal says what the reading is owed for", () => {
   expect(unreadIn(root, AGENT, [PATH])[0]).toContain(OWED)
 })
 
-test("a refusal names the read that would answer the warrant", () => {
+test("one call reads every page a refusal names", () => {
   const root = rootWith()
   writing(root, PATH, "one\n")
-  expect(unreadIn(root, AGENT, [PATH])[0]).toContain(`akasha read --file-path ${PATH}`)
-})
-
-test("every path is answered for, not only the first", () => {
-  const root = rootWith()
-  const other = "akasha/thing/other.module.ts"
-  writing(root, PATH, "one\n")
-  writing(root, other, "two\n")
-  expect(unreadIn(root, AGENT, [PATH, other]).length).toBe(2)
+  writing(root, B, "two\n")
+  const said = unreadIn(root, AGENT, [PATH, B])
+  expect(said.length).toBe(2)
+  expect(said[1]).toContain(`akasha read --file-path ${PATH} --file-path ${B}`)
 })
 
 test("a path named twice is refused once", () => {

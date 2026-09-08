@@ -14,7 +14,11 @@ import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import { slugOf } from "@akasha/seat-system/subagent-presence"
 
-const READ_CALL = "akasha read --file-path"
+const READING = "akasha read"
+
+const FLAG = "--file-path"
+
+const READS = "This one call reads every page named above:"
 
 const ANSWER_CEILING = 28000
 
@@ -23,7 +27,7 @@ const DECIDING =
 
 const DECIDE = [
   "Nothing here judges the sense you meant, so this read clears the gate whether you reword or not.",
-  "Read the page, decide what you meant, and reword where you meant a sense the term bars:",
+  "Read the page, decide what you meant, and reword where you meant a sense the term bars.",
 ].join("\n")
 
 const PAGE_TYPE = "page-type"
@@ -100,14 +104,12 @@ export function fromTabooTerm(warrant: Warrant): boolean {
   return partedIn(warrant.path)?.pageType === TABOO_TERM
 }
 
+export function callOf(paths: readonly string[]): string {
+  return `  ${READING} ${paths.map((one) => `${FLAG} ${one}`).join(" ")}`
+}
+
 export function notReadOf(warrant: Warrant): string {
-  return [
-    `${warrant.path} — the record does not show you read this.`,
-    warrant.owed,
-    "This call reads it:",
-    "",
-    `  ${READ_CALL} ${warrant.path}`,
-  ].join("\n")
+  return [`${warrant.path} — the record does not show you read this.`, warrant.owed].join("\n")
 }
 
 function againOf(held: number): string {
@@ -115,22 +117,26 @@ function againOf(held: number): string {
   return `${owed} than one answer holds — read what is named above, then run this call again and it names the rest.`
 }
 
-// The list is held to a ceiling here rather than at the caller, because a path shortened
-// mid-token is still a path: `akasha read` answers that it names no file, which reads as a
-// page that moved rather than as an answer that did not arrive whole.
 export function heldTo(
-  said: readonly string[],
+  owed: readonly Owing[],
   ceiling: number = ANSWER_CEILING
 ): readonly string[] {
   const taken: string[] = []
+  const paths: string[] = []
   let bytes = 0
-  for (const one of said) {
-    const next = bytes + new TextEncoder().encode(one).length + 1
+  for (const one of owed) {
+    const saying = sayingOf(one)
+    const next = bytes + new TextEncoder().encode(saying).length + 1
     if (taken.length > 0 && next > ceiling) break
-    taken.push(one)
+    taken.push(saying)
+    paths.push(one.warrant.path)
     bytes = next
   }
-  const held = said.length - taken.length
+  const at = taken.length - 1
+  const tail = taken[at]
+  if (tail === undefined) return []
+  taken[at] = `${tail}\n\n${READS}\n\n${callOf(paths)}`
+  const held = owed.length - taken.length
   return held === 0 ? taken : [...taken, againOf(held)]
 }
 
@@ -147,9 +153,6 @@ export function movedOf(warrant: Warrant, held: string): string {
     `${warrant.path} — you read this, and it has changed since.`,
     movedSaid(warrant, held),
     warrant.owed,
-    "It is read again here:",
-    "",
-    `  ${READ_CALL} ${warrant.path}`,
   ].join("\n")
 }
 
@@ -158,9 +161,6 @@ export function partlyOf(warrant: Warrant, reach: number): string {
     `${warrant.path} — part of this reached you, and the rest has not.`,
     farSaid(reach),
     warrant.owed,
-    "The run after it is read here:",
-    "",
-    `  ${READ_CALL} ${warrant.path}`,
   ].join("\n")
 }
 
@@ -178,14 +178,7 @@ function tabooSaid(owing: Owing): readonly string[] {
 }
 
 export function tabooOf(owing: Owing): string {
-  return [
-    DECIDING,
-    ...tabooSaid(owing),
-    owing.warrant.owed,
-    DECIDE,
-    "",
-    `  ${READ_CALL} ${owing.warrant.path}`,
-  ].join("\n")
+  return [DECIDING, ...tabooSaid(owing), owing.warrant.owed, DECIDE].join("\n")
 }
 
 export function sayingOf(owing: Owing): string {
@@ -381,7 +374,7 @@ export function unreadIn(
   changing?: Changing
 ): readonly string[] {
   if (agentId === null) return [NO_AGENT]
-  return heldTo(termFirst(unreadOwing(root, agentId, paths, changing)).map(sayingOf))
+  return heldTo(termFirst(unreadOwing(root, agentId, paths, changing)))
 }
 
 export function seatPathOf(root: string, agentId: string): string | null {
@@ -416,7 +409,7 @@ export function unheldOwing(root: string, agentId: string): readonly Owing[] {
 
 export function unheldIn(root: string, agentId: string | null): readonly string[] {
   if (agentId === null) return []
-  return heldTo(termFirst(unheldOwing(root, agentId)).map(sayingOf))
+  return heldTo(termFirst(unheldOwing(root, agentId)))
 }
 
 export function owedIn(
@@ -427,8 +420,6 @@ export function owedIn(
 ): readonly string[] {
   if (agentId === null) return [NO_AGENT]
   return heldTo(
-    termFirst([...unheldOwing(root, agentId), ...unreadOwing(root, agentId, paths, changing)]).map(
-      sayingOf
-    )
+    termFirst([...unheldOwing(root, agentId), ...unreadOwing(root, agentId, paths, changing)])
   )
 }
