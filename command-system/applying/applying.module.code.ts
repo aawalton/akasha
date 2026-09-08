@@ -3,8 +3,8 @@ import type { Judging } from "@akasha/checks/judging"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt as textIn, valueAt } from "@akasha/pages/page-value"
+import type { Given as Arguments } from "../argument-reading/argument-reading.module.code.ts"
 import {
-  BREAK_GLASS,
   bypassedIn,
   glassSaid,
   mistaking,
@@ -12,13 +12,6 @@ import {
   unloadableIn,
 } from "../asking/asking.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
-import {
-  glassIn,
-  MESSAGE,
-  MESSAGE_FILE,
-  messageIn,
-  unknownIn,
-} from "../command-flags/command-flags.module.code.ts"
 import {
   APPLIED,
   type Bodies,
@@ -56,9 +49,13 @@ const SEAT_KEY = "principalSeatName"
 
 const APPLIES = "apply"
 
-const APPLYING = [MESSAGE, MESSAGE_FILE, BREAK_GLASS]
+const MESSAGE = "message"
 
-const BARE: readonly string[] = []
+const GLASS = "break-the-glass"
+
+const NO_MESSAGE = "`message` says what the commit is for, and this one is empty"
+
+const NO_GLASS = "`break-the-glass` says why no check runs, and this one is empty"
 
 function seatOver(root: string, page: string): string | null {
   const said = partedIn(page)
@@ -83,19 +80,36 @@ function notLanded(answer: Answer): Applying {
   return { ...answer, landed: false }
 }
 
+export type Asked = {
+  readonly message: string | null
+  readonly glass: string | null
+}
+
+export type Taken = Asked | { readonly refusals: readonly string[] }
+
+export function askedIn(taken: Arguments): Taken {
+  const said = Object.keys(taken)
+    .filter((key) => key !== MESSAGE && key !== GLASS)
+    .map((key) => `\`${key}\` is no argument an apply takes`)
+  if (said.length > 0) return { refusals: said }
+  const one = taken[MESSAGE]
+  const two = taken[GLASS]
+  const message = one === undefined ? null : one.trim()
+  const glass = two === undefined ? null : two.trim()
+  if (message === "") return { refusals: [NO_MESSAGE] }
+  if (glass === "") return { refusals: [NO_GLASS] }
+  return { message, glass }
+}
+
 export async function applying(
   given: Given,
   page: string,
-  argv: readonly string[],
+  taken: Arguments,
   carried: Carried | null
 ): Promise<Applying> {
-  const unknown = unknownIn(argv, APPLYING, BARE)
-  if (unknown.length > 0) return notLanded(mistaking(unknown))
-  const message = messageIn(argv, APPLYING)
-  if ("refusals" in message) return notLanded(mistaking(message.refusals))
-  const glass = glassIn(argv, APPLYING)
-  if ("refusals" in glass) return notLanded(mistaking(glass.refusals))
-  const broken = glass.glass
+  const asked = askedIn(taken)
+  if ("refusals" in asked) return notLanded(mistaking(asked.refusals))
+  const broken = asked.glass
   if (carried === null) {
     return notLanded(mistaking([noneSaid(given.root, page)]))
   }
@@ -109,7 +123,7 @@ export async function applying(
   }
   const gate = broken === null && "gate" in built ? built.gate : NO_GATE
   const unloaded = "gate" in built ? null : built.broken
-  const said0 = messageFor(message.message ?? null, carried.held)
+  const said0 = messageFor(asked.message, carried.held)
   const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
   const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
   try {

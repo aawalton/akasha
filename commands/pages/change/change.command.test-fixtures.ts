@@ -105,7 +105,7 @@ export function taking(path: string): string {
 }
 
 export function asking(path: string, message: string): string {
-  return `${taking(path)}apply: ${message}\n`
+  return `${taking(path)}message: ${message}\n`
 }
 
 export async function loading(world: World, at: string): Promise<Loaded | string> {
@@ -233,7 +233,7 @@ export function drafting(root: string, at: string): Promise<Answer> {
 }
 
 export function draftingAndApplying(root: string, at: string): Promise<Answer> {
-  return acting(root, ["remove-page"], piping(`${taking(at)}draft: true\napply: a message\n`))
+  return acting(root, ["remove-page"], piping(`${taking(at)}draft: true\nmessage: a message\n`))
 }
 
 export const BAD_DROPS: readonly (readonly [readonly string[], Piping | undefined])[] = [

@@ -55,10 +55,7 @@ import {
   taking,
   waitingSaid,
 } from "../../../command-system/change-acting/change-acting.module.code.ts"
-import {
-  MESSAGE,
-  unknownIn,
-} from "../../../command-system/command-flags/command-flags.module.code.ts"
+import { unknownIn } from "../../../command-system/command-flags/command-flags.module.code.ts"
 import type { Taking } from "../../../command-system/commands/properties/taking.record-property.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import { inputIn, type Piping } from "../../../command-system/piping/piping.module.code.ts"
@@ -80,9 +77,9 @@ const BYTES = new TextEncoder()
 
 const AT = "at"
 
-const APPLY = "apply"
+const MESSAGE = "message"
 
-const NO_MESSAGE = "`apply` takes the commit message, and the message given is empty"
+const NO_MESSAGE = "`message` says what the commit is for, and this one is empty"
 
 const COMMAND_TYPES: readonly string[] = [
   "change-agent",
@@ -213,7 +210,7 @@ const DRAFT = "draft"
 const DRAFT_TAKES = "`draft` takes `true` to keep the edits for a later apply, or `false` to apply"
 
 const BOTH_SAID =
-  "`apply` names the message for an apply that `draft` declines, so the two together are refused"
+  "`message` says what the commit is for, and `draft` declines the commit, so the two are refused"
 
 export type Asked = {
   readonly message: string | null
@@ -231,10 +228,10 @@ function draftIn(said: string | undefined): boolean | string {
 export function applyIn(given: Arguments): Asked | string {
   const drafts = draftIn(given[DRAFT])
   if (typeof drafts === "string") return drafts
-  const said = given[APPLY]
+  const said = given[MESSAGE]
   if (drafts && said !== undefined) return BOTH_SAID
   const rest = Object.fromEntries(
-    Object.entries(given).filter(([key]) => key !== APPLY && key !== DRAFT)
+    Object.entries(given).filter(([key]) => key !== MESSAGE && key !== DRAFT)
   )
   if (said === undefined) return { message: null, drafts, given: rest }
   const message = said.trim()
@@ -409,8 +406,8 @@ export async function changing(
 
 function applyingFor(given: Given): Applying {
   return async (message) => {
-    const { apply } = await import("../apply/apply.command.code.ts")
-    return await apply(message === null ? [] : [MESSAGE, message], given)
+    const { applyWith } = await import("../apply/apply.command.code.ts")
+    return await applyWith(message === null ? {} : { [MESSAGE]: message }, given)
   }
 }
 

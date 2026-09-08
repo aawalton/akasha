@@ -8,18 +8,17 @@ export const apply = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-authored",
-  taking: [
-    { said: "--message <text>", takes: "what the commit this makes is for" },
-    { said: "--message-file <file>", takes: "a file that message is read from" },
-    { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
-  ],
   helpNotes: [
+    "the arguments an apply takes are piped in, as the arguments a change takes are.",
+    "nothing on the command line carries a value, so no shell reads a quote or a backslash.",
+    "`message` says what the commit is for, and an apply naming none composes the message.",
+    "`break-the-glass` applies with no check run, and the reason is said in the commit.",
+    "an apply piping nothing in lands the edits kept under a message it composes.",
     "the edits `akasha change` appended are folded into one answer and landed.",
     "the folded edits leave the file holding them once the apply has landed.",
     "an apply that refuses puts the fold back, so the edits are kept for a change to mend.",
     "an edit for a body the apply writes again is dropped rather than folded, and the report names it.",
     "an apply over no edits applies nothing, as the fold of the edits is what an apply lands.",
-    "--break-the-glass applies with no check run, and the reason is said in the commit.",
     "an apply says how many subagents handed edits over, because an apply lands none of them.",
   ],
   invariants: [
@@ -103,8 +102,24 @@ export const apply = {
       statement: "A row reaching an apply was warranted against the record its writer held.",
     },
     {
+      invariantKind: "absence",
+      statement: "No flag is said on the command line.",
+    },
+    {
       invariantKind: "departure",
-      statement: "`--break-the-glass` passes the checks.",
+      statement: "The arguments an apply takes are read from standard input.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call piping nothing in lands under the message an apply composes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key `message` says what the commit is for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`break-the-glass` passes the checks.",
     },
     {
       invariantKind: "departure",

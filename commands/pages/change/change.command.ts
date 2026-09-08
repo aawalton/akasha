@@ -18,10 +18,10 @@ export const change = {
     "`at` names a path, read against the repository root.",
     "a change answers edits rather than writing them, and the edits are appended beside this agent's page.",
     "a change checks and applies as it answers, so the edits it answers land as a commit.",
-    "`apply` names the commit message, and a change naming none takes the message an apply composes.",
+    "`message` says what the commit is for, and a change naming none composes the message.",
     "an apply lands every edit kept rather than the edits this run appended alone.",
     "`draft: true` keeps the edits for a later `akasha apply` rather than applying as this change answers.",
-    "`draft` and `apply` together are refused, as `apply` names the message for the apply `draft` declines.",
+    "`draft` and `message` together are refused, as `draft` declines the commit a message would say.",
     "two runs leave two sets of edits in the order the runs were made.",
     "a change reads the world as every edit appended before it had already landed.",
     "a change that refuses appends nothing and leaves the edits as the edits were.",
@@ -104,7 +104,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "The value at `apply` is the commit message.",
+      statement: "The value at `message` says what the commit is for.",
     },
     {
       invariantKind: "departure",
@@ -116,11 +116,11 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "The key `apply` is read here rather than handed to the change.",
+      statement: "The key `message` is read here rather than handed to the change.",
     },
     {
       invariantKind: "departure",
-      statement: "An `apply` naming no message is refused before the change is loaded.",
+      statement: "An empty `message` is refused before the change is loaded.",
     },
     {
       invariantKind: "departure",
@@ -148,7 +148,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "`draft` beside `apply` is refused before the change is loaded.",
+      statement: "`draft` beside `message` is refused before the change is loaded.",
     },
     {
       invariantKind: "departure",
@@ -360,7 +360,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A call naming no apply lands the edits that call answers.",
+      statement: "A call naming no message lands the edits that call answers.",
     },
     {
       invariantKind: "departure",

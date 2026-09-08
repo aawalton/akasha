@@ -377,18 +377,18 @@ test("a change that refuses applies nothing though an apply was asked for", asyn
   expect(pathsIn(root)).toEqual([])
 })
 
-test("an apply asked for with no message is refused and appends nothing", async () => {
+test("an empty message is refused and appends nothing", async () => {
   APPLIED.length = 0
   const root = repo()
 
   const said = await removing(root, NAMER_PAGE, "")
 
-  expect(said.refusals[0] ?? "").toContain("the message given is empty")
+  expect(said.refusals[0] ?? "").toContain("`message` says what the commit is for")
   expect(APPLIED).toEqual([])
   expect(pathsIn(root)).toEqual([])
 })
 
-test("a change naming no apply lands rather than keeping its edits for a later apply", async () => {
+test("a change naming no message lands rather than keeping its edits for a later apply", async () => {
   APPLIED.length = 0
 
   const said = await removing(repo(), NAMER_PAGE)
@@ -398,7 +398,7 @@ test("a change naming no apply lands rather than keeping its edits for a later a
   expect(saysApply(said)).toBe(false)
 })
 
-test("a change naming no apply takes the message the apply composes", async () => {
+test("a change naming no message takes the message the apply composes", async () => {
   APPLIED.length = 0
 
   await removing(repo(), NAMER_PAGE)
@@ -428,7 +428,7 @@ test("a change naming draft keeps its edits for a later apply and lands nothing"
   expect(keptIn(root)).toEqual(BOTH)
 })
 
-test("a change naming draft and apply together is refused and appends nothing", async () => {
+test("a change naming draft and message together is refused and appends nothing", async () => {
   APPLIED.length = 0
   const root = repo()
 

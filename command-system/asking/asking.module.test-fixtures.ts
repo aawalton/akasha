@@ -144,14 +144,18 @@ export function treeHolds(root: string, path: string): boolean {
   return git(root, ["ls-tree", "--name-only", "HEAD", path]).trim() === path
 }
 
-const APPLYING = ["--message", "--message-file", "--break-the-glass"]
+const APPLYING: Readonly<Record<string, string>> = {
+  "--message": "message",
+  "--break-the-glass": "break-the-glass",
+}
 
 const COMMITTED = "committed as "
 
-function applyingIn(argv: readonly string[]): readonly string[] {
-  const said: string[] = []
+function applyingIn(argv: readonly string[]): Readonly<Record<string, string>> {
+  const said: Record<string, string> = {}
   for (const [at, one] of argv.entries()) {
-    if (APPLYING.includes(one)) said.push(one, argv[at + 1] ?? "")
+    const key = APPLYING[one]
+    if (key !== undefined) said[key] = argv[at + 1] ?? ""
   }
   return said
 }
