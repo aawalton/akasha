@@ -61,6 +61,11 @@ export const theaChecksSystem = {
       workingMemory:
         "Eleven NEXT_PUBLIC keys across five vite apps and supabase-rr, and only 6 files anywhere use import.meta.env. A client read becomes import.meta.env.VITE_X, which vite inlines with no define; a server read inside a loader or entry.server drops the marker instead. Two secret pages spell the prefix in their name and resource key, each with a sops sidecar and a live placement, and dockerfiles and web-apps name the keys, so the pod environment moves in step. Then client-env-define goes.",
     },
+    {
+      statement: "Every generated mirror derives its key set from the source it mirrors.",
+      workingMemory:
+        "20 pairs left after the 7 naming game-items-rules-core and game-items-addon went with those packages. Each is a data module in a temper package holding the keys beside a generator under temper/temper-addon-generators repeating them by hand, as temper-companion-role's KEY_RANK repeats companion-roles. The generators already depend on the core packages and import types from them, so deriving is a plain value import. codegen-type-identity-drift and its two modules are gone; nothing watches this.",
+    },
   ],
   constraints: [
     "Each check takes one turn per step, and no turn carries two steps.",
