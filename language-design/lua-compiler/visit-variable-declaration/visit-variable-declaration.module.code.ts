@@ -94,15 +94,15 @@ export function transformBindingPattern(
       if (ts.isObjectBindingPattern(pattern)) {
         const excludedProperties: ts.Identifier[] = []
 
-        for (const element of pattern.elements) {
-          if (element.dotDotDotToken) continue
+        for (const sibling of pattern.elements) {
+          if (sibling.dotDotDotToken) continue
 
-          if (ts.isIdentifier(element.name) && !element.propertyName) {
-            excludedProperties.push(element.name)
+          if (ts.isIdentifier(sibling.name) && !sibling.propertyName) {
+            excludedProperties.push(sibling.name)
           }
 
-          if (element.propertyName && element.name && ts.isIdentifier(element.propertyName)) {
-            excludedProperties.push(element.propertyName)
+          if (sibling.propertyName && sibling.name && ts.isIdentifier(sibling.propertyName)) {
+            excludedProperties.push(sibling.propertyName)
           }
         }
 
