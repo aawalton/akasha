@@ -15,7 +15,6 @@
     "./orphan-resource-listing": "./orphan-resource-listing/orphan-resource-listing.module.code.ts",
     "./orphan-sweep-notice": "./orphan-sweep-notice/orphan-sweep-notice.module.code.ts",
     "./prometheus-constants": "./prometheus-constants/prometheus-constants.module.code.ts",
-    "./prometheus-manifests": "./prometheus-manifests/prometheus-manifests.module.code.ts",
     "./registry-constants": "./registry-constants/registry-constants.module.code.ts",
     "./registry-gc-manifests": "./registry-gc-manifests/registry-gc-manifests.manifest.code.ts",
     "./tunnel-config": "./tunnel-config/tunnel-config.module.code.ts",
