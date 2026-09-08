@@ -25,6 +25,14 @@ export const moveFolderPackage = {
     },
     {
       invariantKind: "departure",
+      statement: "A folder named for a page type's plural hands the package that page type's slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page type read for that plural sits in the folder rather than beneath it.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A package landing under the name the package carries keeps the slug that package had.",
     },

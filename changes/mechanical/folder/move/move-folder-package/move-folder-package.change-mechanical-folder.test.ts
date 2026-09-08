@@ -22,7 +22,11 @@ import { runChange as renameExport } from "../../../file-content/rename/rename-e
 import { runChange as renamePageAddress } from "../../../file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
 import { runChange as renamePageSlug } from "../../../file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
 import { runChange as moveFolderChange } from "../move-folder/move-folder.change-mechanical-folder.code.ts"
-import { landingFor, runChange } from "./move-folder-package.change-mechanical-folder.code.ts"
+import {
+  landingFor,
+  runChange,
+  slugNaming,
+} from "./move-folder-package.change-mechanical-folder.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -99,6 +103,33 @@ function worldIn(): World {
   return worldAt(root, textIn(root), RUNS)
 }
 
+const PLURAL_INTO = "akasha/carriers"
+
+const TYPED: Readonly<Record<string, string>> = {
+  ...HELD,
+  [`${FROM}/carried.page-type.ts`]: pageOf({
+    id: "01a07c60-0003-7000-8000-000000000004",
+    pageTypeSlug: "page-type",
+    slug: "carried",
+    definition: "a type the folder is named for",
+    pluralSlug: "carriers",
+    extendsSlug: ["page-type/page"],
+  }),
+  [`${FROM}/modules/holder/deep.page-type.ts`]: pageOf({
+    id: "01a07c60-0003-7000-8000-000000000005",
+    pageTypeSlug: "page-type",
+    slug: "deep",
+    definition: "a type sitting beneath the folder rather than in it",
+    pluralSlug: "deeps",
+    extendsSlug: ["page-type/page"],
+  }),
+}
+
+function typedWorld(): World {
+  const root = indexedRepo(TYPED)
+  return worldAt(root, textIn(root), RUNS)
+}
+
 test("a path beneath the folder lands beneath the folder that path moved to", () => {
   expect(landingFor(PACKAGE_PAGE, FROM, INTO)).toBe(`${INTO}/code-system.workspace-package.ts`)
 })
@@ -164,4 +195,19 @@ test("a folder landing under the name that folder carries leaves the slug alone"
 
   expect(said.refused).toBeNull()
   expect(landed).toContain("akasha/deep/code-system/code-system.workspace-package.ts")
+})
+
+test("a folder named for a page type's plural hands the package that page type's slug", async () => {
+  const said = await runChange(typedWorld(), { at: PACKAGE_PAGE, to: PLURAL_INTO })
+
+  expect(said.refused).toBeNull()
+  expect(pathsIn(said)).toContain(`${PLURAL_INTO}/carried.workspace-package.ts`)
+})
+
+test("a folder whose name no page type states as a plural hands that name itself", () => {
+  expect(slugNaming(typedWorld(), FROM, "widgets")).toBe("widgets")
+})
+
+test("a page type beneath the folder rather than in it hands its slug to nothing", () => {
+  expect(slugNaming(typedWorld(), FROM, "deeps")).toBe("deeps")
 })
