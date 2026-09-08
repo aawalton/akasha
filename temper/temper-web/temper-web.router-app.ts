@@ -322,5 +322,7 @@ export const temperWeb = {
     "module/version-history-dialog",
     "route/addon-bundle",
     "route/addon-bundle-version",
+    "route/character-versions",
+    "route/companion-versions",
   ],
 } as const satisfies RouterApp

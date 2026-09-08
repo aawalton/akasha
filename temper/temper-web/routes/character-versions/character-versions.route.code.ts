@@ -2,7 +2,7 @@ import { getPages } from "@akasha/pages-access/get"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
-import type { Route } from "./+types/api.character-versions.$buildId"
+import type { Route } from "./+types/character-versions.route.code"
 
 interface CharacterVersion {
   id: string
@@ -40,7 +40,7 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
     const { rows } = await getPages({
       pageTypeSlug: "temper-build-version",
       where: [
-        { key: "userId", eq: user.id },
+        { key: "accountPage", eq: user.id },
         { key: "build", eq: buildId },
       ],
       order: [{ by: "versionNumber", dir: "desc" }],

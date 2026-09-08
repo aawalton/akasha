@@ -53,8 +53,14 @@ const API_ROUTES: RouteConfig = [
 ]
 
 const ACTION_ROUTES: RouteConfig = [
-  route("api/character-versions/:buildId", "routes/api.character-versions.$buildId.ts"),
-  route("api/companion-versions/:buildId", "routes/api.companion-versions.$buildId.ts"),
+  route(
+    "api/character-versions/:buildId",
+    "routes/character-versions/character-versions.route.code.ts"
+  ),
+  route(
+    "api/companion-versions/:buildId",
+    "routes/companion-versions/companion-versions.route.code.ts"
+  ),
 ]
 
 export default [
