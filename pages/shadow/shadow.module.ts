@@ -36,6 +36,22 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A page's value is read from the file that page's own page type is filed under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That page type is read off the page's file name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That file is read once for a page type and held for the shadow's life.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No page type but the one a file name states is read to answer for that name.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A check judging a change reads the index the change leaves rather than the committed index.",
     },

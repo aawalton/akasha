@@ -1,10 +1,11 @@
 import { textOf } from "@akasha/code/body-text"
 import { digestOf } from "@akasha/code/carried-file"
-import { everyValue, readingIn } from "@akasha/indexes"
+import { readingIn, valuesByPath } from "@akasha/indexes"
 import { type Answering, answeringOver } from "@akasha/indexes/answering"
 import { settlingOver } from "@akasha/indexes/indexing"
 import type { Filing, Reading } from "@akasha/indexes/shape"
 import type { Change } from "../change/change.module.code.ts"
+import { partedIn } from "../file-name/page-file-name.module.code.ts"
 import { type Value, valueAt, valueIn } from "../value/page-value.module.code.ts"
 
 export type Shadow = {
@@ -39,10 +40,18 @@ function filedOver(
   reading: Reading,
   bodyOf: (path: string) => Value | null
 ): (path: string) => Value | null {
-  let filed: ReadonlyMap<string, Value> | null = null
+  const held = new Map<string, ReadonlyMap<string, Value>>()
+  const filed = (pageType: string): ReadonlyMap<string, Value> => {
+    const found = held.get(pageType)
+    if (found !== undefined) return found
+    const made = valuesByPath(reading, pageType)
+    held.set(pageType, made)
+    return made
+  }
   return (path) => {
-    if (filed === null) filed = everyValue(reading)
-    return filed.get(path) ?? bodyOf(path)
+    const said = partedIn(path)
+    if (said === null) return bodyOf(path)
+    return filed(said.pageType).get(path) ?? bodyOf(path)
   }
 }
 
