@@ -23,11 +23,11 @@ export const watcherExportTasks = {
     },
     {
       invariantKind: "departure",
-      statement: "A task carries the game's character id rather than the character page's id.",
+      statement: "A task has the game's character id rather than the character page's id.",
     },
     {
       invariantKind: "departure",
-      statement: "A task row carrying no page id is left out.",
+      statement: "A task row with no page id is left out.",
     },
     {
       invariantKind: "departure",

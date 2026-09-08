@@ -9,7 +9,7 @@ export const header = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "A header carries no setting of its own.",
+      statement: "A header has no setting of its own.",
     },
   ],
 } as const satisfies Module

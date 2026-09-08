@@ -26,7 +26,7 @@ export const watcherConfigFile = {
     },
     {
       invariantKind: "departure",
-      statement: "Every config file carries the same version number.",
+      statement: "Every config file has the same version number.",
     },
     {
       invariantKind: "departure",

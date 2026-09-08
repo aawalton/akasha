@@ -35,7 +35,7 @@ export const watcherImportCatalog = {
     },
     {
       invariantKind: "departure",
-      statement: "A domain key no page carries is reported and the other domains still change.",
+      statement: "A domain key no page has is reported and the other domains still change.",
     },
     {
       invariantKind: "departure",

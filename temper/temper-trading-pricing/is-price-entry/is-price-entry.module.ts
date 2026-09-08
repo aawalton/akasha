@@ -9,7 +9,7 @@ export const isPriceEntry = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A branch carrying a price field is a price.",
+      statement: "A branch with a price field is a price.",
     },
     {
       invariantKind: "departure",

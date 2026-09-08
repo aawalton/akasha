@@ -13,7 +13,7 @@ export const watcherDaemon = {
     },
     {
       invariantKind: "departure",
-      statement: "That file carries the worker's process id.",
+      statement: "That file has the worker's process id.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const watcherDaemon = {
     },
     {
       invariantKind: "departure",
-      statement: "That file carries the log the worker writes to.",
+      statement: "That file has the log the worker writes to.",
     },
     {
       invariantKind: "departure",

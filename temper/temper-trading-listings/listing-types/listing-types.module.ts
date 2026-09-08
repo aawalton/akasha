@@ -9,11 +9,11 @@ export const listingTypes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A listing carries the price for the stack and the price for one item.",
+      statement: "A listing has the price for the stack and the price for one item.",
     },
     {
       invariantKind: "departure",
-      statement: "A listing carries the second of capture.",
+      statement: "A listing has the second of capture.",
     },
   ],
 } as const satisfies Module

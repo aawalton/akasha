@@ -57,11 +57,11 @@ export const leafDump = {
     },
     {
       invariantKind: "departure",
-      statement: "A leaf the upstream dump alone carries is named as upstream's own.",
+      statement: "A leaf the upstream dump alone has is named as upstream's own.",
     },
     {
       invariantKind: "departure",
-      statement: "A leaf the ported dump alone carries is named as the port's own.",
+      statement: "A leaf the ported dump alone has is named as the port's own.",
     },
     {
       invariantKind: "departure",

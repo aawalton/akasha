@@ -13,7 +13,7 @@ export const libsetsUpstreamVerify = {
     },
     {
       invariantKind: "departure",
-      statement: "A tree carrying no upstream manifest is refused.",
+      statement: "A tree with no upstream manifest is refused.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const libsetsUpstreamVerify = {
     },
     {
       invariantKind: "departure",
-      statement: "A checkout carrying local edits is refused.",
+      statement: "A checkout with local edits is refused.",
     },
     {
       invariantKind: "departure",

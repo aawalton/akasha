@@ -13,7 +13,7 @@ export const scribingSignatureScripts = {
     },
     {
       invariantKind: "constraint",
-      statement: "A signature script's place in this table is the index a build hash carries.",
+      statement: "A signature script's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

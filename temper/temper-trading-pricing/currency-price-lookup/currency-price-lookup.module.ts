@@ -17,7 +17,7 @@ export const currencyPriceLookup = {
     },
     {
       invariantKind: "departure",
-      statement: "A currency with no priced item carries no rate.",
+      statement: "A currency with no priced item has no rate.",
     },
   ],
 } as const satisfies Module

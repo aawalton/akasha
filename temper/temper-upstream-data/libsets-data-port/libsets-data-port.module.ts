@@ -17,7 +17,7 @@ export const libsetsDataPort = {
     },
     {
       invariantKind: "departure",
-      statement: "A table carrying a metatable is refused as an unseeded global's stub.",
+      statement: "A table with a metatable is refused as an unseeded global's stub.",
     },
     {
       invariantKind: "departure",

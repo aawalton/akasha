@@ -26,7 +26,7 @@ export const bundleMemberSavedVars = {
 
     {
       invariantKind: "departure",
-      statement: "The marker carries the digest of the bundle file read from.",
+      statement: "The marker has the digest of the bundle file read from.",
     },
     {
       invariantKind: "absence",

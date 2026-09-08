@@ -19,7 +19,7 @@ export const watcherExportSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "The rules exported are the ones the account's rule pages carry.",
+      statement: "The rules exported are the ones the account's rule pages have.",
     },
     {
       invariantKind: "departure",

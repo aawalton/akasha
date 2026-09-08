@@ -24,7 +24,7 @@ export const watcherExportCompanionBuilds = {
     },
     {
       invariantKind: "departure",
-      statement: "A build carrying no hash leaves that companion out.",
+      statement: "A build with no hash leaves that companion out.",
     },
     {
       invariantKind: "departure",

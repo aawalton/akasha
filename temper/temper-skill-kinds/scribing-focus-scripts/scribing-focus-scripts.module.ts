@@ -13,7 +13,7 @@ export const scribingFocusScripts = {
     },
     {
       invariantKind: "constraint",
-      statement: "A focus script's place in this table is the index a build hash carries.",
+      statement: "A focus script's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",
