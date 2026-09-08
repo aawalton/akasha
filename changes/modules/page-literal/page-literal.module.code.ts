@@ -60,11 +60,31 @@ export function manyIn(source: ts.SourceFile, key: string): boolean {
   return held !== null && ts.isArrayLiteralExpression(held)
 }
 
+export function listIn(source: ts.SourceFile, key: string): ts.ArrayLiteralExpression | null {
+  const held = initializerAt(source, key)
+  return held !== null && ts.isArrayLiteralExpression(held) ? held : null
+}
+
+export function recordsIn(list: ts.ArrayLiteralExpression): readonly ts.ObjectLiteralExpression[] {
+  return list.elements.filter(ts.isObjectLiteralExpression)
+}
+
 export function valuesIn(
   source: ts.SourceFile,
   key: string
 ): readonly ts.ObjectLiteralExpression[] {
-  const held = initializerAt(source, key)
-  if (held === null || !ts.isArrayLiteralExpression(held)) return []
-  return held.elements.filter(ts.isObjectLiteralExpression)
+  const held = listIn(source, key)
+  return held === null ? [] : recordsIn(held)
+}
+
+export function matchingIn(
+  list: ts.ArrayLiteralExpression,
+  where: string,
+  is: string
+): readonly number[] {
+  const found: number[] = []
+  list.elements.forEach((each, at) => {
+    if (ts.isObjectLiteralExpression(each) && textsOf(each).get(where)?.text === is) found.push(at)
+  })
+  return found
 }

@@ -4,8 +4,10 @@ import ts from "typescript"
 import {
   boundIn,
   keyOf,
+  listIn,
   literalIn,
   manyIn,
+  matchingIn,
   statedIn,
   textsOf,
   valuesIn,
@@ -144,4 +146,39 @@ test("a key the body states no value under holds no records", () => {
 
 test("a list holding no object holds no records", () => {
   expect(valuesIn(sourceOf(), "partSlugs").length).toBe(0)
+})
+
+test("the list a key states is answered whole", () => {
+  const held = listIn(sourceOf(RECORDS), "invariants")
+
+  expect(held?.elements.length).toBe(3)
+})
+
+test("a key stating no list answers no list", () => {
+  expect(listIn(sourceOf(), "slug")).toBeNull()
+  expect(listIn(sourceOf(), "pluralSlug")).toBeNull()
+})
+
+test("a record is matched by the text one named field states", () => {
+  const held = listIn(sourceOf(RECORDS), "invariants")
+
+  expect(held === null ? [] : matchingIn(held, "statement", "the second")).toEqual([1])
+})
+
+test("every record stating that text is matched", () => {
+  const held = listIn(sourceOf(RECORDS), "invariants")
+
+  expect(held === null ? [] : matchingIn(held, "invariantKind", "gap")).toEqual([1])
+})
+
+test("text no record states matches nothing", () => {
+  const held = listIn(sourceOf(RECORDS), "invariants")
+
+  expect(held === null ? [] : matchingIn(held, "statement", "the third")).toEqual([])
+})
+
+test("a place in the list that is no object matches nothing", () => {
+  const held = listIn(sourceOf(RECORDS), "invariants")
+
+  expect(held === null ? [] : matchingIn(held, "statement", "3")).toEqual([])
 })
