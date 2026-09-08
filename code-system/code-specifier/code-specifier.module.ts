@@ -4,7 +4,8 @@ export const codeSpecifier = {
   id: "01a04ea7-b2ea-711c-8256-13b0697772b3",
   pageTypeSlug: "module",
   slug: "code-specifier",
-  definition: "the strings a body holds, the ones naming a module, and where such a name lands",
+  definition:
+    "the strings a body holds, the ones naming a module, and the path tied to such a name",
   code: "ts",
   test: "ts",
   invariants: [
@@ -58,6 +59,22 @@ export const codeSpecifier = {
     {
       invariantKind: "departure",
       statement: "A caller handing in no naming is answered as naming no package.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The specifier naming a path from a folder is worked out here for any caller.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier spelled for a path under the folder opens with a dot and a slash.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier spelled for a path outside the folder climbs to reach that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path spelled as a specifier lands back on that path.",
     },
     {
       invariantKind: "absence",

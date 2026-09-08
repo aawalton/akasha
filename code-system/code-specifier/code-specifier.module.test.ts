@@ -1,5 +1,11 @@
 import { expect, test } from "bun:test"
-import { landingOf, placedIn, specifiersIn, spelledIn } from "./code-specifier.module.code.ts"
+import {
+  landingOf,
+  placedIn,
+  specifierFor,
+  specifiersIn,
+  spelledIn,
+} from "./code-specifier.module.code.ts"
 
 const AT = "akasha/held.ts"
 
@@ -104,4 +110,18 @@ test("a relative specifier lands under the file holding it whatever the naming s
 
 test("a landing climbing out of the folder is answered as it falls, and not judged here", () => {
   expect(landingOf("akasha/b.ts", "../../outside.ts")).toBe("../outside.ts")
+})
+
+test("a specifier spelled for a path under the folder opens with a dot and a slash", () => {
+  expect(specifierFor("akasha/a/b", "akasha/a/b/two.ts")).toBe("./two.ts")
+})
+
+test("a specifier spelled for a path outside the folder climbs to reach that path", () => {
+  expect(specifierFor("akasha/a/b", "akasha/a/two.ts")).toBe("../two.ts")
+})
+
+test("a path spelled as a specifier lands back on that path", () => {
+  const said = specifierFor("akasha/a/b", "akasha/a/two.ts")
+
+  expect(landingOf("akasha/a/b/one.ts", said)).toBe("akasha/a/two.ts")
 })

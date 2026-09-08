@@ -1,4 +1,4 @@
-import { dirname, join } from "node:path"
+import { dirname, join, relative } from "node:path"
 import ts from "typescript"
 import { skimmedAs } from "../code-source/code-source.module.code.ts"
 
@@ -62,4 +62,9 @@ export function landingOf(
 ): string | null {
   if (RELATIVE.test(specifier)) return join(dirname(path), specifier)
   return naming.get(specifier) ?? null
+}
+
+export function specifierFor(dir: string, target: string): string {
+  const said = relative(dir, target)
+  return said.startsWith(".") ? said : `./${said}`
 }

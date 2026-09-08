@@ -1,8 +1,8 @@
 import { dirname } from "node:path"
+import { specifierFor } from "@akasha/code/code-specifier"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { typedAs } from "../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { specifierFor } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import {
   gathered,
   missing,

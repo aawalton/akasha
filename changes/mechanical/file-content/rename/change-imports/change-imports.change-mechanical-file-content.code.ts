@@ -1,5 +1,5 @@
 import { basename, dirname, extname, join, relative } from "node:path"
-import { landingOf, placedIn, spelledIn } from "@akasha/code/code-specifier"
+import { landingOf, placedIn, specifierFor, spelledIn } from "@akasha/code/code-specifier"
 import {
   refusing,
   splicing,
@@ -11,11 +11,6 @@ import type { World } from "../../../../modules/change-shadow/change-shadow.modu
 const GENERATED = "+types"
 
 const UNDER = "/"
-
-export function specifierFor(dir: string, target: string): string {
-  const said = relative(dir, target)
-  return said.startsWith(".") ? said : `./${said}`
-}
 
 function stemOf(path: string): string {
   const name = basename(path)
