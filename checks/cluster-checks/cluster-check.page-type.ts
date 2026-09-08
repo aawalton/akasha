@@ -147,6 +147,7 @@ export const clusterCheck = {
     "module/check-vite-supabase-rr-define-json-contract",
     "module/check-type-assertions",
     "module/cli-json-contract-coupling",
+    "module/client-env-inlined",
   ],
   properties: [
     {
