@@ -13,7 +13,6 @@ export const exercise = {
     "namespace/exercise-mobility",
     "command/exercise-policy-show",
     "namespace/exercise-profile",
-    "command/exercise-ranks",
     "command/exercise-schedule-create",
     "command/exercise-today",
   ],
