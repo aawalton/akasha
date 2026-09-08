@@ -7,7 +7,7 @@ export const moveFileOfAnyKind = {
   changeModeSlug: "change-mode-move",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file",
-  definition: "one file carried to another path, through the change carrying that kind of path",
+  definition: "one file moved to another path, through the change moving that kind of path",
   code: "ts",
   test: "ts",
   invariants: [

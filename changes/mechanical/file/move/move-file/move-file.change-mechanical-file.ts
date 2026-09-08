@@ -7,17 +7,17 @@ export const moveFile = {
   changeModeSlug: "change-mode-move",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file",
-  definition: "one file carried to another path, with nothing else judged",
+  definition: "one file moved to another path, with nothing else judged",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A move lands as a path carried rather than a body written and a body taken away.",
+      statement: "A move lands as a path moved rather than a body written and a body taken away.",
     },
     {
       invariantKind: "departure",
-      statement: "A path with no body is refused rather than carried.",
+      statement: "A path with no body is refused rather than moved.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const moveFile = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here rewrites the paths the carried body names.",
+      statement: "Nothing here rewrites the paths the moved body names.",
     },
     {
       invariantKind: "departure",

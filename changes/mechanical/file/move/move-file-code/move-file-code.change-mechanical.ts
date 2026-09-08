@@ -7,7 +7,7 @@ export const moveFileCode = {
   changeModeSlug: "change-mode-move",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file-code",
-  definition: "one code file carried to another path, with every body importing it repointed",
+  definition: "one code file moved to another path, with every body importing it repointed",
   code: "ts",
   test: "ts",
   guardSlugs: ["change-guard/import-not-left-hanging"],
@@ -18,11 +18,11 @@ export const moveFileCode = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges the path a file is carried from.",
+      statement: "Nothing here judges the path a file is moved from.",
     },
     {
       invariantKind: "departure",
-      statement: "A path with no body is refused rather than carried.",
+      statement: "A path with no body is refused rather than moved.",
     },
     {
       invariantKind: "departure",
@@ -30,11 +30,11 @@ export const moveFileCode = {
     },
     {
       invariantKind: "departure",
-      statement: "The file is carried by the change this change reaches.",
+      statement: "The file is moved by the change this change reaches.",
     },
     {
       invariantKind: "departure",
-      statement: "The body carried names its own imports by the paths its new folder reaches.",
+      statement: "The body moved names its own imports by the paths its new folder reaches.",
     },
     {
       invariantKind: "departure",
@@ -42,16 +42,16 @@ export const moveFileCode = {
     },
     {
       invariantKind: "departure",
-      statement: "An index that cannot answer which bodies import the file refuses the carry.",
+      statement: "An index that cannot answer which bodies import the file refuses the move.",
     },
     {
       invariantKind: "departure",
-      statement: "The imports left over the carry are judged by the guard this change names.",
+      statement: "The imports left over the move are judged by the guard this change names.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A manifest naming the carried file as a way in states the path that file landed at.",
+        "A manifest naming the moved file as a way in states the path that file landed at.",
     },
     {
       invariantKind: "departure",
