@@ -199,6 +199,7 @@ export const clusterCheck = {
     "module/shellcheck-violations",
     "module/sops-manifest",
     "module/spacing-scale",
+    "module/start-script-rules",
   ],
   properties: [
     {
