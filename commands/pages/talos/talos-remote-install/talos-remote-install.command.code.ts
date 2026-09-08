@@ -11,7 +11,7 @@ import {
 } from "@akasha/talos/factory"
 import { getClusterForNode, getNode } from "@akasha/talos/nodes"
 import type { ClusterIntent, NodeIntent } from "@akasha/talos/schema"
-import { runSsh } from "@akasha/talos/talos-ssh"
+import { runSsh } from "@akasha/talos/ssh"
 import { waitForPort } from "@akasha/talos/talos-wait-for-port"
 
 export const NODE = "--node"

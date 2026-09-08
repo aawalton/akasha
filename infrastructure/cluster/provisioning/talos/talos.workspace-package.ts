@@ -20,7 +20,7 @@ export const talos = {
     "module/talos-registry-ca",
     "module/schema",
     "module/talos-sops",
-    "module/talos-ssh",
+    "module/ssh",
     "module/talos-wait-for-port",
     "module/talosctl",
   ],
