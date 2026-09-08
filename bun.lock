@@ -857,15 +857,6 @@
         "zod": "^4.3.6",
       },
     },
-    "git-transport": {
-      "name": "@akasha/git-transport",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "google/calendar": {
       "name": "@akasha/google-calendar",
       "dependencies": {
@@ -1104,6 +1095,15 @@
       "dependencies": {
         "@akasha/code": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
+      },
+    },
+    "infrastructure/git-transport": {
+      "name": "@akasha/git-transport",
+      "dependencies": {
+        "@akasha/code": "workspace:*",
+        "@akasha/k8s-types": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
       },
     },
     "infrastructure/infrastructure-commands": {
@@ -3040,7 +3040,7 @@
 
     "@akasha/git": ["@akasha/git@workspace:git"],
 
-    "@akasha/git-transport": ["@akasha/git-transport@workspace:git-transport"],
+    "@akasha/git-transport": ["@akasha/git-transport@workspace:infrastructure/git-transport"],
 
     "@akasha/google-calendar": ["@akasha/google-calendar@workspace:google/calendar"],
 

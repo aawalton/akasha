@@ -100,7 +100,7 @@ export function deploymentYaml(): string {
               command: [
                 "bun",
                 "--watch",
-                "git-transport/transport-serving/transport-serving.module.code.ts",
+                "infrastructure/git-transport/transport-serving/transport-serving.module.code.ts",
               ],
               ports: [
                 {
