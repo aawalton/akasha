@@ -21,7 +21,6 @@ export const command = {
   definition: "a module reached by name from the command line",
   pluralSlug: "commands",
   partSlugs: [
-    "command/agent-forest",
     "command/agent-turn-colors",
     "command/audit",
     "command/calendar",
