@@ -4,6 +4,6 @@ export const cliInformation = {
   id: "01a06758-8e63-7001-9614-eb554b7d073c",
   pageTypeSlug: "module",
   slug: "cli-information",
-  definition: "the text tstl prints to describe itself and its options",
+  definition: "the text the compiler prints to describe itself and its options",
   code: "ts",
 } as const satisfies Module
