@@ -7,7 +7,7 @@ export const moveFolderPackage = {
   changeModeSlug: "change-mode-move",
   changeTargetTypeSlug: "change-target-type/folder",
   changeTargetSubtypeSlug: "change-target-subtype/folder-package",
-  definition: "a workspace package carried to another folder, taking the slug that folder names",
+  definition: "a workspace package moved to another folder, taking the slug that folder names",
   code: "ts",
   test: "ts",
   invariants: [
@@ -17,7 +17,7 @@ export const moveFolderPackage = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder carried is the folder the package page sits in.",
+      statement: "The folder moved is the folder the package page sits in.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const moveFolderPackage = {
     },
     {
       invariantKind: "absence",
-      statement: "No file is carried beyond the ones the folder move carries.",
+      statement: "No file is moved beyond the ones the folder move moves.",
     },
     {
       invariantKind: "absence",

@@ -30,7 +30,7 @@ export const changeMechanicalFolder = {
     },
     {
       invariantKind: "absence",
-      statement: "No rung here renames a folder, a folder's rename being that folder's carry.",
+      statement: "No rung here renames a folder, a folder's rename being that folder's move.",
     },
   ],
 } as const satisfies PageType

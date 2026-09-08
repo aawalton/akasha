@@ -7,7 +7,7 @@ export const moveFolder = {
   changeModeSlug: "change-mode-move",
   changeTargetTypeSlug: "change-target-type/folder",
   changeTargetSubtypeSlug: "change-target-subtype/folder",
-  definition: "one folder and every file under it carried to another path",
+  definition: "one folder and every file under it moved to another path",
   code: "ts",
   test: "ts",
   guardSlugs: [
@@ -18,15 +18,15 @@ export const moveFolder = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every file under the folder is carried whether or not the index names it.",
+      statement: "Every file under the folder is moved whether or not the index names it.",
     },
     {
       invariantKind: "departure",
-      statement: "A body that is not text is carried rather than refused.",
+      statement: "A body that is not text is moved rather than refused.",
     },
     {
       invariantKind: "absence",
-      statement: "No file outside the folder is carried.",
+      statement: "No file outside the folder is moved.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
-      statement: "A reach from one carried file to another is left as that reach is.",
+      statement: "A reach from one moved file to another is left as that reach is.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the carry writes still naming that folder refuses the carry.",
+      statement: "A body the move writes still naming that folder refuses the move.",
     },
     {
       invariantKind: "departure",
@@ -60,11 +60,11 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder carried under itself is refused.",
+      statement: "A folder moved under itself is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A page carried with the folder keeps the slug that page had.",
+      statement: "A page moved with the folder keeps the slug that page had.",
     },
     {
       invariantKind: "absence",
