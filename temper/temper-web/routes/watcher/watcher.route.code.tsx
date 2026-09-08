@@ -5,21 +5,20 @@ import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { Suspense } from "react"
 import { data } from "react-router"
-import { readServedWatcherVersion } from "../.server/served-watcher-version/served-watcher-version.module.code.ts"
+import { readServedWatcherVersion } from "../../.server/served-watcher-version/served-watcher-version.module.code.ts"
 import {
   readReportedBuild,
   summarizeWatcherBuild,
-} from "../watcher-build-status/watcher-build-status.module.code.ts"
-import { WatcherPageContent } from "../watcher-page-content/watcher-page-content.module.code.tsx"
+} from "../../watcher-build-status/watcher-build-status.module.code.ts"
+import { WatcherPageContent } from "../../watcher-page-content/watcher-page-content.module.code.tsx"
 import {
   readReportedOperations,
   summarizeWatcherRun,
-} from "../watcher-run-status/watcher-run-status.module.code.ts"
+} from "../../watcher-run-status/watcher-run-status.module.code.ts"
 import {
   summarizeWatcherSync,
   type WatcherSyncSourceCounts,
-} from "../watcher-sync-status/watcher-sync-status.module.code.ts"
-import type { Route } from "./+types/watcher"
+} from "../../watcher-sync-status/watcher-sync-status.module.code.ts"
 
 export function meta() {
   return [{ title: "Temper | Watcher" }]
@@ -52,7 +51,7 @@ async function readSource(
   }
 }
 
-export async function loader({ request }: Route.LoaderArgs) {
+export async function loader({ request }: { request: Request }) {
   const { headers } = createServerClient(request)
   const { user, headers: userHeaders } = await getUser(request)
   for (const [k, v] of userHeaders) {
@@ -88,7 +87,15 @@ export async function loader({ request }: Route.LoaderArgs) {
   return data({ sync, build, run }, { headers })
 }
 
-export default function WatcherPage({ loaderData }: Route.ComponentProps) {
+export default function WatcherPage({
+  loaderData,
+}: {
+  loaderData: {
+    sync: ReturnType<typeof summarizeWatcherSync> | null
+    build: ReturnType<typeof summarizeWatcherBuild> | null
+    run: ReturnType<typeof summarizeWatcherRun> | null
+  }
+}) {
   return (
     <Suspense fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}>
       <WatcherPageContent sync={loaderData.sync} build={loaderData.build} run={loaderData.run} />
