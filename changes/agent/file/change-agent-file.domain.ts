@@ -8,7 +8,7 @@ export const changeAgentFile = {
   partSlugs: [
     "change-agent/add-file",
     "change-checked/change-page-page-type",
-    "change-checked/move-page",
+    "change-agent/move-page",
     "change-checked/remove-file",
     "change-checked/remove-page",
     "change-agent/rename-page",

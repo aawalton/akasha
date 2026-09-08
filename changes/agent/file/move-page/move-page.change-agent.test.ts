@@ -14,7 +14,7 @@ import {
   type World,
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { movePage } from "./move-page.change-checked.code.ts"
+import { movePage } from "./move-page.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 
