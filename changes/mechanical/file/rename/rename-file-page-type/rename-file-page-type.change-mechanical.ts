@@ -1,0 +1,71 @@
+import type { ChangeMechanical } from "../../../change-mechanical.page-type.ts"
+
+export const renameFilePageType = {
+  id: "01a0828e-5e7f-724c-b387-7d19c7622f00",
+  pageTypeSlug: "change-mechanical",
+  slug: "rename-file-page-type",
+  changeModeSlug: "change-mode-rename",
+  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetSubtypeSlug: "change-target-subtype/file-page-type",
+  definition: "a page type renamed, in its own name and in every page filed under that page type",
+  code: "ts",
+  test: "ts",
+  runsChecks: false,
+  readersOweReading: false,
+  writerOwesReading: false,
+  guardSlugs: ["change-guard/claimed-file-not-left-behind"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A path naming no page type is refused here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page type's own file is renamed by the change renaming a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The plural a page type becomes is handed on to that same change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages filed under the page type are read before that own file is renamed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each such page's slug is read from that page's file name rather than its body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A carry taking that own file out of a folder holding folders is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's address is restated before any file that page claims is carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file a page claims carries the new slug where the old slug named a section.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A claimed file naming the old slug nowhere is refused rather than left behind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file under a TypeScript name is carried by the change carrying a code file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file under no TypeScript name is carried by the change carrying a file alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page type a page states is restated at the path that page landed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the rename leaves behind is refused by the guard named here.",
+    },
+  ],
+} as const satisfies ChangeMechanical
