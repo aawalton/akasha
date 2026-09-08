@@ -19,7 +19,6 @@ export default function LandingRoute() {
           </p>
         </header>
 
-        {}
         <Card id="before-you-sign-up">
           <CardHeader>
             <CardTitle>Before you sign up</CardTitle>

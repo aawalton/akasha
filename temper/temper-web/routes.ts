@@ -23,7 +23,7 @@ const PAGE_ROUTES: RouteConfig = [
 ]
 
 const PUBLIC_ROUTES: RouteConfig = [
-  index("routes/landing.tsx"),
+  index("routes/landing/landing.route.code.tsx"),
   route("sign-in", "routes/sign-in.tsx"),
   route("sign-up", "routes/sign-up.tsx"),
 ]
