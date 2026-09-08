@@ -10,5 +10,6 @@ export const standardAgentEnglish = {
     "domain/standard-agent-english-non-term",
     "page-type/standard-agent-english-property",
     "module/term-census",
+    "module/prose-pattern",
   ],
 } as const satisfies Domain
