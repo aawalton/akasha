@@ -14,13 +14,13 @@ import {
   type RuleEvalResult,
   resolveItemFromInventory,
   type WalkTrace,
-} from "../../../temper/temper-commands/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
+} from "../../../../../temper/temper-commands/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 import {
   type MatchedRoute,
   type ParityAddonTrace,
   parityAddonTrace,
   parityRouting,
-} from "../../../temper/temper-commands/inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts"
+} from "../../../../../temper/temper-commands/inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts"
 
 const INPUT = 1
 
