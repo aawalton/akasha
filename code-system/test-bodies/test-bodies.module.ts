@@ -34,8 +34,21 @@ export const testBodies = {
       statement: "A bare specifier is resolved by the runner rather than by anything here.",
     },
     {
-      invariantKind: "gap",
-      statement: "A specifier is resolved through the manifest the change leaves.",
+      invariantKind: "departure",
+      statement: "A body the change moves is served at the path the runner still resolves to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An import inside a moved body is spelled against the folder it moves to.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A specifier the change's manifest brings is spelled back to the one the runner resolves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One way in going and one arriving is a move; more than one is left alone.",
     },
     {
       invariantKind: "departure",
