@@ -59,7 +59,7 @@ export const theaChecksSystem = {
     {
       statement: "Every env key a client bundle reads is marked for vite rather than for Next.",
       workingMemory:
-        "Eleven NEXT_PUBLIC keys across five vite apps and supabase-rr, and only 6 files anywhere use import.meta.env. A client read becomes import.meta.env.VITE_X, which vite inlines with no define; a server read inside a loader or entry.server drops the marker instead. Two secret pages spell the prefix in their name and resource key, each with a sops sidecar and a live placement, and dockerfiles and web-apps name the keys, so the pod environment moves in step. Then client-env-define goes.",
+        "Eight keys in scope, not eleven: two are local const identifiers in dev-server-env-writing and NEXT_PUBLIC_ENABLE_LOGS is the vendored Supabase Studio container's own contract. Of 31 read sites 27 take import.meta.env.VITE_*, 13 of them server-side, vite's define reaching the SSR bundle and BUILD_ENV being their only supplier, so stripping those to process.env throws on every SSR request. Alan keeps the cluster Secret key. The five app manifests refuse no-rule-in-two-files first.",
     },
     {
       statement: "Every generated mirror derives its key set from the source it mirrors.",
