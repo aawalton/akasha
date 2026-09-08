@@ -21,7 +21,6 @@
     "./session-closing": "./session-closing/session-closing.module.code.ts",
     "./session-derive": "./session-derive/session-derive.module.code.ts",
     "./set-history": "./set-history/set-history.module.code.ts",
-    "./set-target": "./set-target/set-target.module.code.ts",
     "./set-target": "./set-target/set-target.module.code.ts"
   },
   "dependencies": {
