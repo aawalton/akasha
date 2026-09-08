@@ -21,7 +21,7 @@ export const dallaDraftIntoAPatch = {
       statement:
         "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
       workingMemory:
-        "`landedMechanically` is its own module at `command-system/mechanical-landing`, whose one caller is `subagent-presence:109`; deleting it drops the folder, the export entry and the part slug. That caller's test file is the block, over the ceiling, and dividing the file is dead. The amplification is not git: every child started inside `bun test` pays a fixed 12ms of processor time, `/bin/true` included, against 0.29ms under `bun run`. Most of its cost is that toll over 550 starts.\n",
+        "`landedMechanically` is its own module at `command-system/mechanical-landing`, and its one caller is `subagent-presence:110`; deleting it drops the folder, the export entry and the part slug. What blocked this was the cost of that caller's test file, and the cost is gone — every run now reaches one server per process, and the file spends 3.6 processor seconds where it spent 10.9. Nothing here waits on a ceiling any more.",
     },
     {
       statement: "Every change is a patch before it is applied.",
@@ -31,7 +31,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A draft survives between commands in the store an agent's page declares.",
       workingMemory:
-        "`drafting` writes and commits `<agent page>.patch.diff`, which no page declares, and reads it back in a later process. The declared `edits` file is `uncommitted: true` and its successor is there: `edits-keeping`, `edits-landing`, `subagent-handed:37`. The last two patch readers are in the frozen presence file and both are drafted away: 9 handed edits fold at HEAD, deleting `tookInUnder`, `patchesUnder` and their callers. They wait on the ceiling. Take them from `dalla-a4d2c944de0c8052d`.\n",
+        "`drafting` writes and commits `<agent page>.patch.diff`, which no page declares, and reads it back in a later process. It is the last holder of that store: `command-system/drafting/drafting.module.code.ts` imports `dropPatch`, `keepPatch`, `keptPatch`, `patchAt` and `patchIn` from `@akasha/agents/patch-keeping` across fourteen call sites. Nothing in `subagent-presence` reads a patch. The declared successor is there: `edits-keeping`, `edits-landing`, `subagent-handed`.",
     },
   ],
   constraints: [
@@ -46,6 +46,5 @@ export const dallaDraftIntoAPatch = {
     "A mechanical change is landed by a change page rather than by the command that page replaces.",
     "A change page takes no dry run.",
     "The edits a draft keeps are the dry run.",
-    "An intent reaching `subagent-presence` waits: its test file costs more than a test file may, so every change carrying it is refused.",
   ],
 } as const satisfies Initiative
