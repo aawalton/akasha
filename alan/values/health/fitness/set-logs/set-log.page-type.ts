@@ -76,7 +76,8 @@ export const setLog = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A set names the session that set was logged in and the movement that set was of.",
+      statement:
+        "A set states the bout that set was logged in and names the movement that set was of.",
     },
     {
       invariantKind: "departure",

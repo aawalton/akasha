@@ -8,16 +8,16 @@ export const wakeDaySlug = {
   pageTypeSlug: "relation-property",
   slug: "wake-day-slug",
   propertySlug: "wake-day-slug",
-  definition: "the tracked day a session falls on",
+  definition: "the tracked day a set falls on",
   targetPageTypeSlug: "page-type/wake-day",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A day counts a session by this edge rather than by matching two dates.",
+      statement: "A day counts a set by this edge rather than by matching two dates.",
     },
     {
       invariantKind: "departure",
-      statement: "The day named is the day the session's own date spells.",
+      statement: "The day named is the day the set's own date spells.",
     },
   ],
 } as const satisfies RelationProperty
