@@ -220,6 +220,9 @@
         "zod": "^4.3.6",
       },
     },
+    "alan/harness/web-build-version": {
+      "name": "@akasha/web-build-version",
+    },
     "alan/library/book-of-everything": {
       "name": "@akasha/book-of-everything",
       "dependencies": {
@@ -2947,9 +2950,6 @@
         "zod": "^4.3.6",
       },
     },
-    "version/web-build": {
-      "name": "@akasha/web-build-version",
-    },
     "voice-core": {
       "name": "@akasha/voice-core",
       "dependencies": {
@@ -3545,7 +3545,7 @@
 
     "@akasha/wan": ["@akasha/wan@workspace:inference/generations/wan"],
 
-    "@akasha/web-build-version": ["@akasha/web-build-version@workspace:version/web-build"],
+    "@akasha/web-build-version": ["@akasha/web-build-version@workspace:alan/harness/web-build-version"],
 
     "@akasha/web-page-answers": ["@akasha/web-page-answers@workspace:web-page-answers"],
 
