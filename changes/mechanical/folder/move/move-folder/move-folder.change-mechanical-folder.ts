@@ -13,7 +13,11 @@ export const moveFolder = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
-  guardSlugs: ["change-guard/import-not-left-hanging", "change-guard/claimed-file-not-left-behind"],
+  guardSlugs: [
+    "change-guard/import-not-left-hanging",
+    "change-guard/claimed-file-not-left-behind",
+    "change-guard/folder-not-left-named",
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -42,6 +46,15 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A body naming the folder rather than a whole path that moved is repointed by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body the carry leaves still naming that folder refuses the carry.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder already holding a body at a path the move would write is refused.",
     },
     {
@@ -62,7 +75,8 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
-      statement: "The imports and the files beside a page are judged by the guards named here.",
+      statement:
+        "The imports, the pages' files and the folders emptied are judged by the guards here.",
     },
   ],
 } as const satisfies ChangeMechanicalFolder

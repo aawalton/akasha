@@ -23,6 +23,7 @@ export const changeGuard = {
     "change-guard/plural-slug-not-already-held",
     "change-guard/relation-reaches-a-page",
     "change-guard/field-key-not-carried-twice",
+    "change-guard/folder-not-left-named",
   ],
   properties: [
     { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
