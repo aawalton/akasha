@@ -12,7 +12,7 @@ export const thursdayPush20260625Bc9bc790DumbbellBenchPressSet3 = {
   rpe: 7,
   sessionSlug: "thursday-push-2026-06-25-bc9bc790",
   setLogDate: "2026-06-25",
-  wakeDaySlug: "day-2026-06-25",
+  daySlug: "day-2026-06-25",
   setNumber: 3,
   weight: 30,
 } as const satisfies SetLog

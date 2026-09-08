@@ -1,7 +1,7 @@
 import type { Work } from "@akasha/pages/computed-property"
 import type { WorkedDay } from "../day.page-type.worked.ts"
 
-const SETS = "wake-day-slug"
+const SETS = "day-slug"
 
 type Moved = { readonly setVolume?: number }
 
