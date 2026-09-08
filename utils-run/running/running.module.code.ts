@@ -1,10 +1,13 @@
 export const NO_CODE = -1
 
+const MICROS = 1_000_000
+
 export type Said = {
   readonly code: number
   readonly signal: string | null
   readonly out: string
   readonly err: string
+  readonly cpuSeconds: number
 }
 
 export type Held = {
@@ -12,6 +15,7 @@ export type Held = {
   readonly signal: string | null
   readonly out: Uint8Array
   readonly err: string
+  readonly cpuSeconds: number
 }
 
 export type Asked = {
@@ -35,6 +39,7 @@ export function bytes(argv: readonly string[], asked: Asked = {}): Held {
     signal: done.signalCode ?? null,
     out: new Uint8Array(done.stdout),
     err: done.stderr.toString(),
+    cpuSeconds: Number(done.resourceUsage?.cpuTime.total ?? 0n) / MICROS,
   }
 }
 
@@ -49,6 +54,7 @@ export function ran(argv: readonly string[], asked: Asked = {}): Said {
     signal: done.signal,
     out: new TextDecoder().decode(done.out),
     err: done.err,
+    cpuSeconds: done.cpuSeconds,
   }
 }
 

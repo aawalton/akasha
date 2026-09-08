@@ -58,6 +58,18 @@ export const running = {
     },
     {
       invariantKind: "departure",
+      statement: "A process is answered with the processor seconds that process spent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those seconds carry what the process's own children spent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process the kernel reported no usage for is answered as having spent none.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A process run to be watched writes to the streams its caller was given.",
     },
     {

@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { bytes, NO_CODE, ran, said, shown } from "./running.module.code.ts"
 
 test("a command exiting zero is answered as zero and what it printed", () => {
-  expect(ran(["sh", "-c", "printf hello"])).toEqual({
+  expect(ran(["sh", "-c", "printf hello"])).toMatchObject({
     code: 0,
     signal: null,
     out: "hello",
@@ -11,11 +11,11 @@ test("a command exiting zero is answered as zero and what it printed", () => {
 })
 
 test("a command exiting other than zero is answered rather than thrown", () => {
-  expect(ran(["false"])).toEqual({ code: 1, signal: null, out: "", err: "" })
+  expect(ran(["false"])).toMatchObject({ code: 1, signal: null, out: "", err: "" })
 })
 
 test("what a command says on each stream is kept apart", () => {
-  expect(ran(["sh", "-c", "printf out; printf err 1>&2; exit 3"])).toEqual({
+  expect(ran(["sh", "-c", "printf out; printf err 1>&2; exit 3"])).toMatchObject({
     code: 3,
     signal: null,
     out: "out",
@@ -61,7 +61,18 @@ test("a process runs where the caller says", () => {
 test("a process is given the environment the caller states", () => {
   expect(
     ran(["printenv", "AKASHA_RUNNING_PROBE"], { env: { AKASHA_RUNNING_PROBE: "here" } })
-  ).toEqual({ code: 0, signal: null, out: "here\n", err: "" })
+  ).toMatchObject({ code: 0, signal: null, out: "here\n", err: "" })
+})
+
+test("a process is answered with the processor seconds that process and its own children spent", () => {
+  const idle = ran(["true"]).cpuSeconds
+  const busy = ran(["bun", "-e", "let x = 0; for (let i = 0; i < 3e8; i++) x += i"]).cpuSeconds
+  expect(idle).toBeLessThan(busy)
+})
+
+test("the seconds answered carry what a process's own children spent", () => {
+  const inner = "Bun.spawnSync(['bun', '-e', 'let x = 0; for (let i = 0; i < 6e8; i++) x += i'])"
+  expect(ran(["bun", "-e", inner]).cpuSeconds).toBeGreaterThan(0.1)
 })
 
 test("what a caller hands in reaches the process", () => {
