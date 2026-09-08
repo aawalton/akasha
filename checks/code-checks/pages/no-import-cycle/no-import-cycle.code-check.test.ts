@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { nothingFiled } from "@akasha/indexes/testing"
+import { importFiled, nothingFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { shadowAsked } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
@@ -24,6 +24,8 @@ function rooted(): string {
 const ROOT = rooted()
 
 const AT = "akasha/one.ts"
+
+const OUTSIDE = "akasha/outside.ts"
 
 const encoder = new TextEncoder()
 
@@ -149,6 +151,22 @@ test("a deferred `import()` is not counted", () => {
       "akasha/two.ts": 'export const two = () => import("./one.ts")\n',
     })
   ).toEqual([])
+})
+
+test("a file outside the change is read where an importer reaches that file", () => {
+  const root = rooted()
+  importFiled(root, AT, [{ path: OUTSIDE }])
+  const held = {
+    ...change({
+      [AT]: "export const one = 1\n",
+      [OUTSIDE]: 'import { one } from "./one.ts"\n\nexport const out = one\n',
+    }),
+    root,
+    changed: [AT],
+  }
+  const reaching = reachingIn(held, shadowAsked(held).index.importersOf)
+  expect([...reaching.keys()]).toEqual([AT, OUTSIDE])
+  expect(reaching.get(OUTSIDE)).toEqual([AT])
 })
 
 test("a specifier landing on no file the folder holds closes nothing", () => {
