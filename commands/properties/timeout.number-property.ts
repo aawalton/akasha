@@ -12,7 +12,7 @@ export const timeout = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command stating no seconds here is allowed a hundred and twenty.",
+      statement: "A command stating no seconds here is allowed the seconds the wrapper names.",
     },
     {
       invariantKind: "departure",

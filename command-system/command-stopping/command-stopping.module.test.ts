@@ -7,8 +7,7 @@ test("the seconds a command is allowed are read off that command's own page", ()
   expect(secondsIn({ timeout: 5 })).toBe(5)
 })
 
-test("a page stating no seconds is allowed a hundred and twenty", () => {
-  expect(ALLOWED).toBe(120)
+test("a page stating no seconds is allowed the seconds this module names", () => {
   expect(secondsIn({})).toBe(ALLOWED)
   expect(secondsIn(null)).toBe(ALLOWED)
 })

@@ -14,12 +14,11 @@ export const commandStopping = {
     },
     {
       invariantKind: "departure",
-      statement: "A page stating no seconds is allowed a hundred and twenty.",
+      statement: "A page stating no seconds is allowed the seconds this module names.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page stating seconds that are no number above nothing is allowed a hundred and twenty.",
+      statement: "A page stating seconds that are no number above nothing is allowed the same.",
     },
     {
       invariantKind: "departure",
