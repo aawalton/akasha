@@ -112,7 +112,7 @@ export const clusterCheck = {
     "module/ts-object-literal-self",
     "module/check-object-literal-self",
     "module/scanner-registry",
-    "module/tstl-source-paths",
+    "module/lua-compiler-sources",
     "module/ts-property-callback-self",
     "module/check-property-callback-self",
   ],

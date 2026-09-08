@@ -4,6 +4,7 @@ import { existsSync } from "node:fs"
 import { resolve } from "node:path"
 import ts from "typescript"
 import { parseArgs, STANDARD_FLAGS } from "../cli-args/cli-args.module.code.ts"
+import { isTstlSourcePath } from "../lua-compiler-sources/lua-compiler-sources.module.code.ts"
 import { examineFilePopulation } from "../population/population.module.code.ts"
 import { getRepoRoot } from "../repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../retired/retired.module.code.ts"
@@ -17,7 +18,6 @@ import {
   scanTstlPropertyCallbackSelf,
   type TstlPropertyCallbackSelfFinding,
 } from "../ts-property-callback-self/ts-property-callback-self.module.code.ts"
-import { isTstlSourcePath } from "../tstl-source-paths/tstl-source-paths.module.code.ts"
 import { exitOnResult } from "../violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
