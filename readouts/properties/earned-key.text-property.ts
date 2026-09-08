@@ -7,7 +7,7 @@ export const earnedKey = {
   pageTypeSlug: "text-property",
   slug: "earned-key",
   propertySlug: "earned-key",
-  definition: "the fact a reading's source carries that earns the scale's earned color",
+  definition: "the fact a reading's source has that earns the scale's earned color",
   maxLength: 100,
   nameFormatSlug: null,
   invariants: [

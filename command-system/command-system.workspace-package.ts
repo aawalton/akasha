@@ -91,7 +91,7 @@ export const commandSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A command's answer carries a code saying whose fault the refusal was.",
+      statement: "A command's answer has a code saying whose fault the refusal was.",
     },
     {
       invariantKind: "absence",

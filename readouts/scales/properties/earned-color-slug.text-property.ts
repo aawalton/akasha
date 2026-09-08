@@ -13,7 +13,7 @@ export const earnedColorSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An earned color is a color a rung carries.",
+      statement: "An earned color is a color a rung has.",
     },
     {
       invariantKind: "departure",

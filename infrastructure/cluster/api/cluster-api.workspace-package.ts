@@ -14,7 +14,7 @@ export const clusterApi = {
     },
     {
       invariantKind: "departure",
-      statement: "The credential is a service account token the environment carries.",
+      statement: "The credential is a service account token the environment has.",
     },
   ],
 } as const satisfies WorkspacePackage

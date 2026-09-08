@@ -22,7 +22,7 @@ export const smsAccess = {
     },
     {
       invariantKind: "gap",
-      statement: "The pages an inbound SMS reads and writes are pages akasha carries.",
+      statement: "The pages an inbound SMS reads and writes are pages akasha has.",
     },
   ],
 } as const satisfies WorkspacePackage

@@ -22,7 +22,7 @@ export const mode = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat no supervisor has written a mode for carries no mode.",
+      statement: "A seat no supervisor has written a mode for has no mode.",
     },
     {
       invariantKind: "stopgap",

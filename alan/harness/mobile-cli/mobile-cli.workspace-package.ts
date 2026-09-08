@@ -66,11 +66,11 @@ export const mobileCli = {
     {
       invariantKind: "departure",
       statement:
-        "An install carries every change already on main rather than the change that asked for the install.",
+        "An install has every change already on main rather than the change that asked for the install.",
     },
     {
       invariantKind: "gap",
-      statement: "Nothing outside an app's page states a value that page carries.",
+      statement: "Nothing outside an app's page states a value that page has.",
     },
   ],
 } as const satisfies WorkspacePackage

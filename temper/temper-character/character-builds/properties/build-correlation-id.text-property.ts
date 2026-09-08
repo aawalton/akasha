@@ -13,7 +13,7 @@ export const buildCorrelationId = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A build the client never named carries no correlation id.",
+      statement: "A build the client never named has no correlation id.",
     },
     {
       invariantKind: "departure",

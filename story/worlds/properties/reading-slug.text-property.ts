@@ -13,7 +13,7 @@ export const readingSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading slug carries the letters its own text uses rather than Latin alone.",
+      statement: "A reading slug has the letters its own text uses rather than Latin alone.",
     },
   ],
 } as const satisfies TextProperty

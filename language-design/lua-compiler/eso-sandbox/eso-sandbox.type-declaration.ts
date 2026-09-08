@@ -13,7 +13,7 @@ export const esoSandbox = {
     },
     {
       invariantKind: "gap",
-      statement: "The names the game adds to Lua are apart from the names Lua itself carries.",
+      statement: "The names the game adds to Lua are apart from the names Lua itself has.",
     },
   ],
 } as const satisfies TypeDeclaration

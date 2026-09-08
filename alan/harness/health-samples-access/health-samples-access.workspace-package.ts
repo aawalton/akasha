@@ -26,7 +26,7 @@ export const healthSamplesAccess = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading is read and written as a page akasha carries.",
+      statement: "A reading is read and written as a page akasha has.",
     },
   ],
 } as const satisfies WorkspacePackage

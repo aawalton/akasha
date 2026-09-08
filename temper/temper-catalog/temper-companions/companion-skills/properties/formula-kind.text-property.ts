@@ -7,7 +7,7 @@ export const formulaKind = {
   pageTypeSlug: "text-property",
   slug: "formula-kind",
   propertySlug: "type",
-  definition: "how an effect works out the number it carries",
+  definition: "how an effect works out the number it has",
   maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

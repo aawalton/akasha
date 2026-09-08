@@ -29,7 +29,7 @@ export const supabaseRr = {
     },
     {
       invariantKind: "departure",
-      statement: "A session is carried in cookies on the web and in the device's own store on iOS.",
+      statement: "A session is in cookies on the web and in the device's own store on iOS.",
     },
     {
       invariantKind: "departure",

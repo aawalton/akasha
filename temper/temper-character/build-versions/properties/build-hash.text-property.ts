@@ -11,7 +11,7 @@ export const buildHash = {
   maxLength: 4000,
   nameFormatSlug: null,
   invariants: [
-    { invariantKind: "departure", statement: "Two versions arranged alike carry one hash." },
+    { invariantKind: "departure", statement: "Two versions arranged alike have one hash." },
     { invariantKind: "constraint", statement: "A hash runs longer than a name is allowed to run." },
   ],
 } as const satisfies TextProperty

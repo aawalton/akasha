@@ -13,7 +13,7 @@ export const itemLevel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A level reading Scaled follows the character carrying the item.",
+      statement: "A level reading Scaled follows the character with the item.",
     },
   ],
 } as const satisfies TextProperty

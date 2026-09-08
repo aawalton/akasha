@@ -25,7 +25,7 @@ export const hookSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook is registered by the name its page carries rather than by its path.",
+      statement: "A hook is registered by the name its page has rather than by its path.",
     },
     {
       invariantKind: "departure",

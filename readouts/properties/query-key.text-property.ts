@@ -21,7 +21,7 @@ export const queryKey = {
     },
     {
       invariantKind: "departure",
-      statement: "A key naming a number the answer itself carries is read off the answer.",
+      statement: "A key naming a number the answer itself has is read off the answer.",
     },
     {
       invariantKind: "departure",

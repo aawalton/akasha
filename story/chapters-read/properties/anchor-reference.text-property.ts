@@ -18,7 +18,7 @@ export const anchorReference = {
     },
     {
       invariantKind: "departure",
-      statement: "A reference to a named event carries that event's slug after `named-event:`.",
+      statement: "A reference to a named event has that event's slug after `named-event:`.",
     },
   ],
 } as const satisfies TextProperty

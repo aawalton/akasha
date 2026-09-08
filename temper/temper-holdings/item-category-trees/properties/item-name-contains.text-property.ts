@@ -7,7 +7,7 @@ export const itemNameContains = {
   pageTypeSlug: "text-property",
   slug: "item-name-contains",
   propertySlug: "item-name-contains",
-  definition: "the words an item's name carries for the branch to take it",
+  definition: "the words an item's name has for the branch to take it",
   maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty
