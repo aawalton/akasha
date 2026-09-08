@@ -291,6 +291,9 @@
     "alan/harness/web-security-headers": {
       "name": "@akasha/web-security-headers",
     },
+    "alan/harness/web-static-assets": {
+      "name": "@akasha/web-static-assets",
+    },
     "alan/library/book-of-everything": {
       "name": "@akasha/book-of-everything",
       "dependencies": {
@@ -2919,9 +2922,6 @@
         "lucide-react": "^0.576.0",
       },
     },
-    "web-static-assets": {
-      "name": "@akasha/web-static-assets",
-    },
     "workspace-paths": {
       "name": "@akasha/workspace-paths",
       "dependencies": {
@@ -3488,7 +3488,7 @@
 
     "@akasha/web-security-headers": ["@akasha/web-security-headers@workspace:alan/harness/web-security-headers"],
 
-    "@akasha/web-static-assets": ["@akasha/web-static-assets@workspace:web-static-assets"],
+    "@akasha/web-static-assets": ["@akasha/web-static-assets@workspace:alan/harness/web-static-assets"],
 
     "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:workspace-paths"],
 
