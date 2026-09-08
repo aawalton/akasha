@@ -7,13 +7,13 @@ export const moveFilePageType = {
   changeModeSlug: "change-mode-move",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file-page-type",
-  definition: "one page type's own file carried to another path with the files beside it",
+  definition: "one page type's own file moved to another path with the files beside it",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The carry is worked out by the change this change reaches.",
+      statement: "The move is worked out by the change this change reaches.",
     },
     {
       invariantKind: "absence",
@@ -21,12 +21,11 @@ export const moveFilePageType = {
     },
     {
       invariantKind: "absence",
-      statement: "No page filed under the page type is carried here.",
+      statement: "No page filed under the page type is moved here.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A manifest naming the carried file as a way in is restated by the change reached.",
+      statement: "A manifest naming the moved file as a way in is restated by the change reached.",
     },
   ],
   changeKindSlug: "change-mechanical",

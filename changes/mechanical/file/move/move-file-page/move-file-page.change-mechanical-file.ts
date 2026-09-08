@@ -7,14 +7,14 @@ export const moveFilePage = {
   changeModeSlug: "change-mode-move",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file-page",
-  definition: "one page carried to another folder with every file that page keeps beside the page",
+  definition: "one page moved to another folder with every file that page keeps beside the page",
   code: "ts",
   test: "ts",
   guardSlugs: ["change-guard/claimed-file-not-left-behind"],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A carry keeps the name the page has, so a landing naming it anew is refused.",
+      statement: "A move keeps the name the page has, so a landing naming it anew is refused.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const moveFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A page and every file that page keeps beside the page are carried together.",
+      statement: "A page and every file that page keeps beside the page are moved together.",
     },
     {
       invariantKind: "departure",
@@ -39,15 +39,15 @@ export const moveFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A file beside the page under a TypeScript name is carried by `move-file-code`.",
+      statement: "A file beside the page under a TypeScript name is moved by `move-file-code`.",
     },
     {
       invariantKind: "departure",
-      statement: "Every other file beside the page is carried by `move-file`.",
+      statement: "Every other file beside the page is moved by `move-file`.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal from any change reached here refuses the whole carry.",
+      statement: "A refusal from any change reached here refuses the whole move.",
     },
     {
       invariantKind: "departure",
