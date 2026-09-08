@@ -10,11 +10,6 @@ export interface CliEvalEnvDeps {
   readonly wantedConsumables: Record<string, unknown>
 }
 
-/**
- * `STYLE_TO_CHAPTERS` is typed as total over `number`, but it is a lookup table
- * with gaps: a style id it has never heard of reads back `undefined`. The
- * `| undefined` here is what is actually true.
- */
 function chaptersOfStyle(styleId: number): readonly number[] | undefined {
   return STYLE_TO_CHAPTERS[styleId]
 }

@@ -131,9 +131,6 @@ function filtersForKey(propertyKey: string, tests: unknown): readonly ViewFilter
   return out
 }
 
-// A COMPARISON TAKING ONE VALUE IS GIVEN THE FIRST OF THEM. A narrow always carries a list, and
-// `in` and `not-in` weigh the whole list where every other comparison weighs one value, so handing
-// the list to those would test a page against an array it can never equal.
 const OVER_THE_WHOLE_LIST: ReadonlySet<string> = new Set(["in", "not-in"])
 
 function filtersFromNarrows(raw: unknown): readonly ViewFilter[] | undefined {
@@ -214,9 +211,6 @@ function groupByOf(value: unknown): string | undefined {
   return text === undefined ? undefined : camelizeKey(text)
 }
 
-// EVERY VIEW FILED AS A PAGE NAMES ITS NAV ITEM. `navSlug` is required of the `view` page type, so
-// it tells a view spelled in a file from one whose settings the browser wrote into `config`, and it
-// tells them apart for a view carrying nothing else but its title and its place.
 export function isFileSpelledView(properties: Readonly<Record<string, unknown>>): boolean {
   return (
     properties.navSlug !== undefined ||

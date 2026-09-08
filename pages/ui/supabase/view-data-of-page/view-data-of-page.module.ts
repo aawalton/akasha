@@ -7,4 +7,11 @@ export const viewDataOfPage = {
   definition: "the view a page describes, read from the page or from the file it names",
   code: "ts",
   test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A narrow comparison other than `in` and `not-in` is given the first value of that narrow's list.",
+    },
+  ],
 } as const satisfies Module

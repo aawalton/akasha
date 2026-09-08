@@ -49,9 +49,6 @@ export function selectInFlightDispatch(
   )
 }
 
-// EVERY SEAT IS LISTED FROM AKASHA, which answers the ids without a page being opened for one. This
-// walked the old seat directory and read each file's frontmatter for the id it states, and what it
-// wanted from that page was the id alone.
 export function dispatchChildrenNow(): readonly DispatchChild[] {
   const found: DispatchChild[] = []
   for (const agentId of akashaSeatsThatExist().keys()) {

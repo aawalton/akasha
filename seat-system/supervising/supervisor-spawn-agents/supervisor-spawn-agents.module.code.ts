@@ -17,7 +17,6 @@ const DELEGATION_OFF =
 
 const AGENT_MAP = shape.record(shape.string(), shape.unknown())
 
-/** The composed map as the client's `--agents` flag takes it, or nothing where it holds none. */
 export function renderSubagentDefinitions(
   composed: Readonly<Record<string, Definition>>
 ): string | null {

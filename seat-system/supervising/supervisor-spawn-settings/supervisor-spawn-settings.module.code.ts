@@ -35,7 +35,6 @@ export type SpawnSettingsBase =
 
 const SETTINGS_OBJECT = shape.record(shape.string(), shape.unknown())
 
-/** The composed document as a spawn takes it, or the reason it is no use here. */
 export function checkAgentSettings(document: Record<string, unknown>): SpawnSettingsBase {
   const parsed = SETTINGS_OBJECT.safeParse(document)
   if (!parsed.success) {
@@ -46,7 +45,6 @@ export function checkAgentSettings(document: Record<string, unknown>): SpawnSett
 
 export type AskAgentSettings = () => Record<string, unknown>
 
-// The answer is staged as a promise because two callers await it, and neither is touched here.
 export function readAgentSettingsBase(
   ask: AskAgentSettings = agentSettings
 ): Promise<SpawnSettingsBase> {

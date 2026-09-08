@@ -33,7 +33,6 @@ export function unavailable(reason: string): ResumeNotices {
   }
 }
 
-/** The composed notices as a resumed seat is handed them, or the reason they are no use here. */
 export function checkNotices(
   composed: Readonly<Record<string, string>>
 ): { notices: ResumeNotices } | { reason: string } {

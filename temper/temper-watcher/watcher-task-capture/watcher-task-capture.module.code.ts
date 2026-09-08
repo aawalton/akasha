@@ -27,9 +27,6 @@ export function markOf(key: string): CharacterMark {
   return { taskId: key.slice(0, SCOPE_MARK_AT), characterId: key.slice(SCOPE_MARK_AT + 1) }
 }
 
-// The game keys a completion it records against one character as `<taskId>:<characterId>`, and only
-// a key naming the whole task is imported as a completion. A scoped key is carried out as a mark
-// instead, so what a character did is known without that character's key representing the task.
 export function readTaskCompletions(content: string): TaskCompletionsRead {
   const root = parseLuaSavedVariablesFile(content, TASKS_GLOBAL_NAME)
   const defaultTable = asRecord(root.Default)
