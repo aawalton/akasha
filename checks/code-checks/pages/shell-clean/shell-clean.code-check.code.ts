@@ -1,7 +1,7 @@
-import { worldOf } from "@akasha/code/code-tests"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
 import { ran } from "@akasha/utils-run/running"
+import { mirroredOf } from "../../../modules/change-mirror/change-mirror.module.code.ts"
 import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
   everyFileOf,
@@ -135,11 +135,11 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedIn(change)
   const first = carried[0]
   if (first === undefined) return []
-  const world = worldOf(change.root, besideIn(change, shadow), change.after, null)
+  const mirror = mirroredOf(change.root, besideIn(change, shadow), change.after, [])
   try {
-    return judgedOf(lookedOver(world.root, carried, Bun.which(TOOL)), first, world.root)
+    return judgedOf(lookedOver(mirror.root, carried, Bun.which(TOOL)), first, mirror.root)
   } finally {
-    world.sweep()
+    mirror.sweep()
   }
 }
 
