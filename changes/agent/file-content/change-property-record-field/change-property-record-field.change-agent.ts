@@ -33,5 +33,5 @@ export const changePropertyRecordField = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-  changeKindSlug: "change-checked",
+  changeKindSlug: "change-restated",
 } as const satisfies ChangeAgent
