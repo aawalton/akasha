@@ -5,7 +5,7 @@ export const superSupportive0246TwoHundredFortyFourContemplations = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0246-two-hundred-forty-four-contemplations",
   title: "TWO HUNDRED FORTY-FOUR: Contemplations",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 246,
   ownLength: 2313,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const superSupportive0306ThreeHundredFourStretchingWings = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0306-three-hundred-four-stretching-wings",
   title: "THREE HUNDRED FOUR: Stretching Wings",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 306,
   ownLength: 4605,
   unitSlug: "words",

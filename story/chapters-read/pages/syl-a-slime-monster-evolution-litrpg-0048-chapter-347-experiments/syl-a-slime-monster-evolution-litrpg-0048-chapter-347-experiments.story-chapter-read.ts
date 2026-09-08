@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0048Chapter347Experiments = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0048-chapter-347-experiments",
   title: "Chapter 347 : [Experiments]",
-  partOfSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
   position: 48,
   ownLength: 2413,
   unitSlug: "words",

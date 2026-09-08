@@ -5,7 +5,7 @@ export const superSupportive0300TwoHundredNinetyEightAChanceToAppreciate = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0300-two-hundred-ninety-eight-a-chance-to-appreciate",
   title: "TWO HUNDRED NINETY-EIGHT: A Chance to Appreciate",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 300,
   ownLength: 5415,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0034Chapter333Azulean = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0034-chapter-333-azulean",
   title: "Chapter 333 : Azulean",
-  partOfSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
   position: 34,
   ownLength: 2225,
   unitSlug: "words",

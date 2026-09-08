@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0029Chapter608DoYourJob = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0029-chapter-608-do-your-job",
   title: "Chapter 608: Do Your Job",
-  partOfSlugs: ["system-change-system-universe"],
+  partOfCollectionSlugs: ["system-change-system-universe"],
   position: 29,
   ownLength: 2182,
   unitSlug: "words",

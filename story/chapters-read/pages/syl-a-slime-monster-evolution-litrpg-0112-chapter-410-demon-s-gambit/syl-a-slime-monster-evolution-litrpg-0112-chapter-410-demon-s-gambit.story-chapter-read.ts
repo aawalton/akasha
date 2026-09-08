@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0112Chapter410DemonSGambit = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0112-chapter-410-demon-s-gambit",
   title: "Chapter 410 : Demon's Gambit",
-  partOfSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
   position: 112,
   ownLength: 2670,
   unitSlug: "words",

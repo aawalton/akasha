@@ -5,7 +5,7 @@ export const superSupportive0279TwoHundredSeventySevenSipWater = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0279-two-hundred-seventy-seven-sip-water",
   title: "TWO HUNDRED SEVENTY-SEVEN: Sip Water",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 279,
   ownLength: 3802,
   unitSlug: "words",

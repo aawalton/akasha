@@ -5,7 +5,7 @@ export const superSupportive0166OneHundredSixtyFourEchoingKlerms = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0166-one-hundred-sixty-four-echoing-klerms",
   title: "ONE HUNDRED SIXTY-FOUR: Echoing Klerms",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 166,
   ownLength: 5008,
   unitSlug: "words",

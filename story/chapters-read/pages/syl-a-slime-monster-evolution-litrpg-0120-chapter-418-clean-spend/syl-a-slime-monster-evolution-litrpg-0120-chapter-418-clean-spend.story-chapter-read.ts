@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0120Chapter418CleanSpend = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0120-chapter-418-clean-spend",
   title: "Chapter 418 : Clean Spend",
-  partOfSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
   position: 120,
   ownLength: 2878,
   unitSlug: "words",

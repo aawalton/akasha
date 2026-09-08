@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0119Chapter417BigSpendingBigGains = 
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0119-chapter-417-big-spending-big-gains",
   title: "Chapter 417 : Big Spending, Big Gains",
-  partOfSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
   position: 119,
   ownLength: 2416,
   unitSlug: "words",

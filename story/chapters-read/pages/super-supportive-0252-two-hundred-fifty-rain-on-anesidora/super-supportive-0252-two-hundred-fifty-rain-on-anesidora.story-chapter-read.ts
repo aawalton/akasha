@@ -5,7 +5,7 @@ export const superSupportive0252TwoHundredFiftyRainOnAnesidora = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0252-two-hundred-fifty-rain-on-anesidora",
   title: "TWO HUNDRED FIFTY: Rain on Anesidora",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 252,
   ownLength: 3953,
   unitSlug: "words",

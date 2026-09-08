@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0118Chapter416HatTrick = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0118-chapter-416-hat-trick",
   title: "Chapter 416 : Hat Trick",
-  partOfSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
   position: 118,
   ownLength: 2225,
   unitSlug: "words",

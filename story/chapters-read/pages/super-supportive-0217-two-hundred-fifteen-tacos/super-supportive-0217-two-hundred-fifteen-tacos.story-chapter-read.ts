@@ -5,7 +5,7 @@ export const superSupportive0217TwoHundredFifteenTacos = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0217-two-hundred-fifteen-tacos",
   title: "TWO HUNDRED FIFTEEN: Tacos",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 217,
   ownLength: 4249,
   unitSlug: "words",

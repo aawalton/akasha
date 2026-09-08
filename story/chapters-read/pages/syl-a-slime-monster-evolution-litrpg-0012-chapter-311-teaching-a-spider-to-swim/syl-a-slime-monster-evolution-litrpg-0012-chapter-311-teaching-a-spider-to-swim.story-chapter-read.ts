@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0012Chapter311TeachingASpiderToSwim 
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0012-chapter-311-teaching-a-spider-to-swim",
   title: "Chapter 311 : Teaching a Spider to Swim",
-  partOfSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
   position: 12,
   ownLength: 2210,
   unitSlug: "words",

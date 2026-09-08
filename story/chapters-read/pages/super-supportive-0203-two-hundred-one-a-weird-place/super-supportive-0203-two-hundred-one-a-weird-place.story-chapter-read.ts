@@ -5,7 +5,7 @@ export const superSupportive0203TwoHundredOneAWeirdPlace = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0203-two-hundred-one-a-weird-place",
   title: "TWO HUNDRED ONE: A Weird Place",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 203,
   ownLength: 4025,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const superSupportive0289TwoHundredEightySevenItSAllHeroesOrAliens = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0289-two-hundred-eighty-seven-it-s-all-heroes-or-aliens",
   title: "TWO HUNDRED EIGHTY-SEVEN: It's All Heroes or Aliens",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 289,
   ownLength: 4356,
   unitSlug: "words",

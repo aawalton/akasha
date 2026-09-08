@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0072Chapter370Exploding = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0072-chapter-370-exploding",
   title: "Chapter 370 : Exploding",
-  partOfSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
   position: 72,
   ownLength: 2366,
   unitSlug: "words",

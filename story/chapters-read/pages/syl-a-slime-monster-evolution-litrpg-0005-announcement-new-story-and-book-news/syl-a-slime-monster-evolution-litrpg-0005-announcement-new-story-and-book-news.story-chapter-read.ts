@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0005AnnouncementNewStoryAndBookNews 
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0005-announcement-new-story-and-book-news",
   title: "Announcement: New Story and Book News",
-  partOfSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
   position: 5,
   ownLength: 543,
   unitSlug: "words",

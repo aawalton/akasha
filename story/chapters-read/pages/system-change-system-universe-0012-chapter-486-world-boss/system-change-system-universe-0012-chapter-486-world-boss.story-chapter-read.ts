@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0012Chapter486WorldBoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0012-chapter-486-world-boss",
   title: "Chapter 486: World Boss",
-  partOfSlugs: ["system-change-system-universe"],
+  partOfCollectionSlugs: ["system-change-system-universe"],
   position: 12,
   ownLength: 2114,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0033Chapter332Sinking = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0033-chapter-332-sinking",
   title: "Chapter 332 : Sinking",
-  partOfSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
   position: 33,
   ownLength: 2236,
   unitSlug: "words",

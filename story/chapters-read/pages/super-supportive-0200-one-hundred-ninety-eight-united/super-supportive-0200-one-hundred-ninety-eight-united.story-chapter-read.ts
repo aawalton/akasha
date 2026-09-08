@@ -5,7 +5,7 @@ export const superSupportive0200OneHundredNinetyEightUnited = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0200-one-hundred-ninety-eight-united",
   title: "ONE HUNDRED NINETY-EIGHT: United",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 200,
   ownLength: 4044,
   unitSlug: "words",

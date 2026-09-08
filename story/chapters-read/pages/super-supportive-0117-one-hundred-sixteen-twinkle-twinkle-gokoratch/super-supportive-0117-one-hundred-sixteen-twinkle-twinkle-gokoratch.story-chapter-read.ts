@@ -5,7 +5,7 @@ export const superSupportive0117OneHundredSixteenTwinkleTwinkleGokoratch = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0117-one-hundred-sixteen-twinkle-twinkle-gokoratch",
   title: "ONE HUNDRED SIXTEEN: Twinkle, Twinkle, Gokoratch",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 117,
   ownLength: 4827,
   unitSlug: "words",

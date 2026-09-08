@@ -5,7 +5,7 @@ export const superSupportive0165OneHundredSixtyThreeThePrimarySYoungestChild = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0165-one-hundred-sixty-three-the-primary-s-youngest-child",
   title: "ONE HUNDRED SIXTY-THREE: The Primary's Youngest Child",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 165,
   ownLength: 6017,
   unitSlug: "words",

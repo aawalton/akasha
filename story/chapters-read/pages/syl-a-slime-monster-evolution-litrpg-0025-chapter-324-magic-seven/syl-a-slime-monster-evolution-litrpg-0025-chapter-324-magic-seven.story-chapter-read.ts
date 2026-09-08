@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0025Chapter324MagicSeven = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0025-chapter-324-magic-seven",
   title: "Chapter 324 : Magic Seven",
-  partOfSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
   position: 25,
   ownLength: 2337,
   unitSlug: "words",

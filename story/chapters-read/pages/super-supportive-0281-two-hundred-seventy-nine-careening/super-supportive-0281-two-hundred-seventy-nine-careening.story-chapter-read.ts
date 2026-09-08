@@ -5,7 +5,7 @@ export const superSupportive0281TwoHundredSeventyNineCareening = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0281-two-hundred-seventy-nine-careening",
   title: "TWO HUNDRED SEVENTY-NINE: Careening",
-  partOfSlugs: ["super-supportive"],
+  partOfCollectionSlugs: ["super-supportive"],
   position: 281,
   ownLength: 2319,
   unitSlug: "words",

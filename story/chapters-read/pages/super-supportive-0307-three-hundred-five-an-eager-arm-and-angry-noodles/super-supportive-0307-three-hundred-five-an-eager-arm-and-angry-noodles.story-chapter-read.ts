@@ -4,7 +4,7 @@ export const superSupportive0307ThreeHundredFiveAnEagerArmAndAngryNoodles = {
   id: "01a07252-32ef-79b1-a37b-b4157651e926",
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0307-three-hundred-five-an-eager-arm-and-angry-noodles",
-  partOfSlugs: ["story-read/super-supportive"],
+  partOfCollectionSlugs: ["story-read/super-supportive"],
   position: 307,
   publishedAt: "2026-09-04",
   unitSlug: "words",

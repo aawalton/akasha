@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0028Chapter607Dense = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0028-chapter-607-dense",
   title: "Chapter 607: Dense",
-  partOfSlugs: ["system-change-system-universe"],
+  partOfCollectionSlugs: ["system-change-system-universe"],
   position: 28,
   ownLength: 2593,
   unitSlug: "words",
