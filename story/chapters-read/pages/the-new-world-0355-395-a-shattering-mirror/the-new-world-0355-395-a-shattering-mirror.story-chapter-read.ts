@@ -5,7 +5,7 @@ export const theNewWorld0355395AShatteringMirror = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0355-395-a-shattering-mirror",
   title: "395 A Shattering Mirror",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 355,
   ownLength: 2831,
   unitSlug: "words",

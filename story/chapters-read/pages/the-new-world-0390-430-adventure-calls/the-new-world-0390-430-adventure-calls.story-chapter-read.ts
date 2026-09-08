@@ -5,7 +5,7 @@ export const theNewWorld0390430AdventureCalls = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0390-430-adventure-calls",
   title: "430 Adventure Calls",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 390,
   ownLength: 4461,
   unitSlug: "words",

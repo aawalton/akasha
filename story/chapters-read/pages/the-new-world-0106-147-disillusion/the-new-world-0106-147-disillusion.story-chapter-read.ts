@@ -5,7 +5,7 @@ export const theNewWorld0106147Disillusion = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0106-147-disillusion",
   title: "147 Disillusion",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 106,
   ownLength: 2058,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0365405APalpableEncroach = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0365-405-a-palpable-encroach",
   title: "405 A Palpable Encroach",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 365,
   ownLength: 4703,
   unitSlug: "words",

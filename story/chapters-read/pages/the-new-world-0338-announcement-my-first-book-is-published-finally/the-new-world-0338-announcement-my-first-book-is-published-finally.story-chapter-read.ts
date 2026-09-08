@@ -5,7 +5,7 @@ export const theNewWorld0338AnnouncementMyFirstBookIsPublishedFinally = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0338-announcement-my-first-book-is-published-finally",
   title: "Announcement: My First Book Is Published. Finally.",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 338,
   ownLength: 280,
   unitSlug: "words",

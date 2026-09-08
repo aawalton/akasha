@@ -5,7 +5,7 @@ export const theNewWorld0408448HavocAndDarkness = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0408-448-havoc-and-darkness",
   title: "448 Havoc and Darkness",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 408,
   ownLength: 5036,
   unitSlug: "words",

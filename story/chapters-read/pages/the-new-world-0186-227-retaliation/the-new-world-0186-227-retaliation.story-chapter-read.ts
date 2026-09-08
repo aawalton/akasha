@@ -5,7 +5,7 @@ export const theNewWorld0186227Retaliation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0186-227-retaliation",
   title: "227 Retaliation",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 186,
   ownLength: 4547,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0236277AProjectComplete = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0236-277-a-project-complete",
   title: "277 A Project Complete",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 236,
   ownLength: 4814,
   unitSlug: "words",

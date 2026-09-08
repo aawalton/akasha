@@ -5,7 +5,7 @@ export const theNewWorld0317358CauseAndEffect = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0317-358-cause-and-effect",
   title: "358 Cause and Effect",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 317,
   ownLength: 4293,
   unitSlug: "words",

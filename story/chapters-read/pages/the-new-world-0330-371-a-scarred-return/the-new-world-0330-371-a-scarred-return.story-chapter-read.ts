@@ -5,7 +5,7 @@ export const theNewWorld0330371AScarredReturn = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0330-371-a-scarred-return",
   title: "371 A Scarred Return",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 330,
   ownLength: 3676,
   unitSlug: "words",

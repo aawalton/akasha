@@ -5,7 +5,7 @@ export const theNewWorld0289330Introductions = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0289-330-introductions",
   title: "330 Introductions",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 289,
   ownLength: 2687,
   unitSlug: "words",

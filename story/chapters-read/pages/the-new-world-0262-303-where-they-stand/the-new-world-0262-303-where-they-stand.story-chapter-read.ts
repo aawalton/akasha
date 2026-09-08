@@ -5,7 +5,7 @@ export const theNewWorld0262303WhereTheyStand = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0262-303-where-they-stand",
   title: "303 Where They Stand",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 262,
   ownLength: 6408,
   unitSlug: "words",

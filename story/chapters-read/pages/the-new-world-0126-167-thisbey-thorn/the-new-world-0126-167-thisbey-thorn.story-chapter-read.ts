@@ -5,7 +5,7 @@ export const theNewWorld0126167ThisbeyThorn = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0126-167-thisbey-thorn",
   title: "167 Thisbey Thorn",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 126,
   ownLength: 3223,
   unitSlug: "words",

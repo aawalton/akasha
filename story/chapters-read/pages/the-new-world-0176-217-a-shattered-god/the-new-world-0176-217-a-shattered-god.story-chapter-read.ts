@@ -5,7 +5,7 @@ export const theNewWorld0176217AShatteredGod = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0176-217-a-shattered-god",
   title: "217 A Shattered God",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 176,
   ownLength: 6311,
   unitSlug: "words",

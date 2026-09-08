@@ -5,7 +5,7 @@ export const theNewWorld0209250MentalWarfare = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0209-250-mental-warfare",
   title: "250 Mental Warfare",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 209,
   ownLength: 2077,
   unitSlug: "words",

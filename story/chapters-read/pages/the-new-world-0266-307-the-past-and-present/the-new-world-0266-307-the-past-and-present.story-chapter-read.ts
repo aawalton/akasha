@@ -5,7 +5,7 @@ export const theNewWorld0266307ThePastAndPresent = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0266-307-the-past-and-present",
   title: "307 The Past and Present",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 266,
   ownLength: 3796,
   unitSlug: "words",

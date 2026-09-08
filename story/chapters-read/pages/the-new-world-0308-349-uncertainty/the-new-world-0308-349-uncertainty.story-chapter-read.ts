@@ -5,7 +5,7 @@ export const theNewWorld0308349Uncertainty = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0308-349-uncertainty",
   title: "349 Uncertainty",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 308,
   ownLength: 4613,
   unitSlug: "words",

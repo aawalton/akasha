@@ -5,7 +5,7 @@ export const theNewWorld0264305AGalaxyUnexplored = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0264-305-a-galaxy-unexplored",
   title: "305 A Galaxy Unexplored",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 264,
   ownLength: 3974,
   unitSlug: "words",

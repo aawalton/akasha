@@ -5,7 +5,7 @@ export const theNewWorld0149190Operations = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0149-190-operations",
   title: "190 Operations",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 149,
   ownLength: 3144,
   unitSlug: "words",

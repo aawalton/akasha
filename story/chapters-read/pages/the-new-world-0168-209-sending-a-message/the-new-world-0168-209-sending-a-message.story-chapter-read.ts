@@ -5,7 +5,7 @@ export const theNewWorld0168209SendingAMessage = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0168-209-sending-a-message",
   title: "209 Sending A Message",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 168,
   ownLength: 1411,
   unitSlug: "words",

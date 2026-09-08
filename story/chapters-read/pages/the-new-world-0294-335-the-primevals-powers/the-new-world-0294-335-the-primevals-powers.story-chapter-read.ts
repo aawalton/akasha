@@ -5,7 +5,7 @@ export const theNewWorld0294335ThePrimevalsPowers = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0294-335-the-primevals-powers",
   title: "335 The Primevals' Powers",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 294,
   ownLength: 4221,
   unitSlug: "words",

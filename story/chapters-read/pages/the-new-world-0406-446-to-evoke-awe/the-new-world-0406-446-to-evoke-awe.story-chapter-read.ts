@@ -5,7 +5,7 @@ export const theNewWorld0406446ToEvokeAwe = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0406-446-to-evoke-awe",
   title: "446 To Evoke Awe",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 406,
   ownLength: 4520,
   unitSlug: "words",

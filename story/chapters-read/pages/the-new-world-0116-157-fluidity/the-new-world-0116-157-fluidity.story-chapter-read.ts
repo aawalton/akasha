@@ -5,7 +5,7 @@ export const theNewWorld0116157Fluidity = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0116-157-fluidity",
   title: "157 Fluidity",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 116,
   ownLength: 3392,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0347387TheMakingsOfAnEmpire = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0347-387-the-makings-of-an-empire",
   title: "387 The Makings of an Empire",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 347,
   ownLength: 3059,
   unitSlug: "words",

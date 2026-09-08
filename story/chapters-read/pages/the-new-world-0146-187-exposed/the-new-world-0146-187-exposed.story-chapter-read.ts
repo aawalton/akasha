@@ -5,7 +5,7 @@ export const theNewWorld0146187Exposed = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0146-187-exposed",
   title: "187 Exposed",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 146,
   ownLength: 4114,
   unitSlug: "words",

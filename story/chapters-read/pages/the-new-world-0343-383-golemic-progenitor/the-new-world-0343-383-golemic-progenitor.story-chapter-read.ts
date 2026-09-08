@@ -5,7 +5,7 @@ export const theNewWorld0343383GolemicProgenitor = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0343-383-golemic-progenitor",
   title: "383 Golemic Progenitor",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 343,
   ownLength: 4566,
   unitSlug: "words",

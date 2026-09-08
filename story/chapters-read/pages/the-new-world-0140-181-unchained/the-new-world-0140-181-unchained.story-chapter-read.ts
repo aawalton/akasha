@@ -5,7 +5,7 @@ export const theNewWorld0140181Unchained = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0140-181-unchained",
   title: "181 Unchained",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 140,
   ownLength: 2847,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0127168PrestigeAndProminence = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0127-168-prestige-and-prominence",
   title: "168 Prestige and Prominence",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 127,
   ownLength: 3384,
   unitSlug: "words",

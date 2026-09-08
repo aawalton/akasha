@@ -5,7 +5,7 @@ export const theNewWorld0095136TheSoundOfThunder = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0095-136-the-sound-of-thunder",
   title: "136 The Sound of Thunder",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 95,
   ownLength: 2911,
   unitSlug: "words",

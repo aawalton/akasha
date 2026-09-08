@@ -5,7 +5,7 @@ export const theNewWorld0387427AnUnmaking = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0387-427-an-unmaking",
   title: "427 An Unmaking",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 387,
   ownLength: 2641,
   unitSlug: "words",

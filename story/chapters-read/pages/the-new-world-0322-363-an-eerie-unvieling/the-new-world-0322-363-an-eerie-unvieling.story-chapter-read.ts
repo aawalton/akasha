@@ -5,7 +5,7 @@ export const theNewWorld0322363AnEerieUnvieling = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0322-363-an-eerie-unvieling",
   title: "363 An Eerie Unvieling",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 322,
   ownLength: 4591,
   unitSlug: "words",

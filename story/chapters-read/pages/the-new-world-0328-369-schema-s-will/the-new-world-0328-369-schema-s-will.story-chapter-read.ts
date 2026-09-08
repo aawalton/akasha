@@ -5,7 +5,7 @@ export const theNewWorld0328369SchemaSWill = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0328-369-schema-s-will",
   title: "369 Schema's Will",
-  partOfSlugs: ["the-new-world"],
+  partOfCollectionSlugs: ["the-new-world"],
   position: 328,
   ownLength: 2127,
   unitSlug: "words",
