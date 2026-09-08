@@ -49,8 +49,9 @@ export function transformFunctionPrototypeCall(
       return transformLuaLibFunction(context, LuaLibFeature.FunctionBind, node, caller, ...params)
     case "call":
       return luaExpressions.createCallExpression(caller, params, node)
-    case "toString":
+    default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "function", expressionName))
+      return undefined
   }
 }
 
@@ -99,5 +100,9 @@ export function transformFunctionProperty(
     case "displayName":
     case "name":
       context.addDiagnostic(unsupportedProperty(node.name, "function", node.name.text))
+      return undefined
+
+    default:
+      return undefined
   }
 }
