@@ -5,7 +5,7 @@ export const alcatraz = {
   pageTypeSlug: "book-collection",
   slug: "alcatraz",
   title: "Alcatraz",
-  partOfSlugs: ["brandon-sanderson-s-non-cosmere-books"],
+  partOfCollectionSlugs: ["brandon-sanderson-s-non-cosmere-books"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

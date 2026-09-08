@@ -5,7 +5,7 @@ export const theChildrenOfHurin = {
   pageTypeSlug: "book-collection",
   slug: "the-children-of-hurin",
   title: "The Children of Húrin",
-  partOfSlugs: ["the-lord-of-the-rings-books"],
+  partOfCollectionSlugs: ["the-lord-of-the-rings-books"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const elizabethMoon = {
   pageTypeSlug: "author",
   slug: "elizabeth-moon",
   title: "Elizabeth Moon",
-  partOfSlugs: ["science-fiction-authors"],
+  partOfCollectionSlugs: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

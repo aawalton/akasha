@@ -12,7 +12,7 @@ export const cradleWaybound = {
   ownLength: 129500,
   ownProgress: 129500,
   publishedAt: "2023-06-04",
-  partOfSlugs: ["book-series/cradle"],
+  partOfCollectionSlugs: ["book-series/cradle"],
   source: "kindle",
   externalId: "B0C738F623",
   externalLink: "https://amazon.com/dp/B0C738F623",

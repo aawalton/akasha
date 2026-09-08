@@ -5,7 +5,7 @@ export const theLostRoadAndOtherWritings = {
   pageTypeSlug: "book-collection",
   slug: "the-lost-road-and-other-writings",
   title: "The Lost Road and Other Writings",
-  partOfSlugs: ["the-history-of-middle-earth"],
+  partOfCollectionSlugs: ["the-history-of-middle-earth"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const brandonSandersonSNonCosmereBooks = {
   pageTypeSlug: "book-collection",
   slug: "brandon-sanderson-s-non-cosmere-books",
   title: "Brandon Sanderson’s Non-Cosmere Books",
-  partOfSlugs: ["brandon-sanderson"],
+  partOfCollectionSlugs: ["brandon-sanderson"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

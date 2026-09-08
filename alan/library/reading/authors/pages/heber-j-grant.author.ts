@@ -5,7 +5,7 @@ export const heberJGrant = {
   pageTypeSlug: "author",
   slug: "heber-j-grant",
   title: "Heber J. Grant",
-  partOfSlugs: ["prophets"],
+  partOfCollectionSlugs: ["prophets"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

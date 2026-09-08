@@ -5,7 +5,7 @@ export const kimStanleyRobinson = {
   pageTypeSlug: "author",
   slug: "kim-stanley-robinson",
   title: "Kim Stanley Robinson",
-  partOfSlugs: ["science-fiction-authors"],
+  partOfCollectionSlugs: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

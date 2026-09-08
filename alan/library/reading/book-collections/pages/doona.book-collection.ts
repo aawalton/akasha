@@ -5,7 +5,7 @@ export const doona = {
   pageTypeSlug: "book-collection",
   slug: "doona",
   title: "Doona",
-  partOfSlugs: ["anne-mccaffrey"],
+  partOfCollectionSlugs: ["anne-mccaffrey"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

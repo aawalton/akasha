@@ -11,7 +11,7 @@ export const awakenOnlineHappy = {
   ownLength: 187250,
   ownProgress: 187250,
   publishedAt: "2021-12-07",
-  partOfSlugs: ["book-series/awaken-online"],
+  partOfCollectionSlugs: ["book-series/awaken-online"],
   source: "kindle",
   externalId: "B09KYD8JMT",
   externalLink: "https://amazon.com/dp/B09KYD8JMT",

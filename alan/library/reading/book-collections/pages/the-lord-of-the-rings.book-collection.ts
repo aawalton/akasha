@@ -5,7 +5,7 @@ export const theLordOfTheRings = {
   pageTypeSlug: "book-collection",
   slug: "the-lord-of-the-rings",
   title: "The Lord of the Rings",
-  partOfSlugs: ["the-lord-of-the-rings-books"],
+  partOfCollectionSlugs: ["the-lord-of-the-rings-books"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

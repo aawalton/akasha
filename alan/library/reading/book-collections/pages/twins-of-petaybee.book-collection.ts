@@ -5,7 +5,7 @@ export const twinsOfPetaybee = {
   pageTypeSlug: "book-collection",
   slug: "twins-of-petaybee",
   title: "Twins of Petaybee",
-  partOfSlugs: ["anne-mccaffrey"],
+  partOfCollectionSlugs: ["anne-mccaffrey"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

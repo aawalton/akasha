@@ -5,7 +5,7 @@ export const jimButcher = {
   pageTypeSlug: "author",
   slug: "jim-butcher",
   title: "Jim Butcher",
-  partOfSlugs: ["fantasy-authors"],
+  partOfCollectionSlugs: ["fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

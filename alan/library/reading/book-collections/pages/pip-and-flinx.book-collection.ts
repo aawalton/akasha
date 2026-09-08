@@ -5,7 +5,7 @@ export const pipAndFlinx = {
   pageTypeSlug: "book-collection",
   slug: "pip-and-flinx",
   title: "Pip & Flinx",
-  partOfSlugs: ["humanx-commonwealth"],
+  partOfCollectionSlugs: ["humanx-commonwealth"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

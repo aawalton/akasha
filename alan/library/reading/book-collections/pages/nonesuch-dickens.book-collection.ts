@@ -5,7 +5,7 @@ export const nonesuchDickens = {
   pageTypeSlug: "book-collection",
   slug: "nonesuch-dickens",
   title: "Nonesuch Dickens",
-  partOfSlugs: ["classics-collections"],
+  partOfCollectionSlugs: ["classics-collections"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

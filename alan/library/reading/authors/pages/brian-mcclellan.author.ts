@@ -5,7 +5,7 @@ export const brianMcclellan = {
   pageTypeSlug: "author",
   slug: "brian-mcclellan",
   title: "Brian McClellan",
-  partOfSlugs: ["fantasy-authors"],
+  partOfCollectionSlugs: ["fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

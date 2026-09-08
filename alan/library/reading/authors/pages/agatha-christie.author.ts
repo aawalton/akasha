@@ -5,7 +5,7 @@ export const agathaChristie = {
   pageTypeSlug: "author",
   slug: "agatha-christie",
   title: "Agatha Christie",
-  partOfSlugs: ["mystery-and-detective"],
+  partOfCollectionSlugs: ["mystery-and-detective"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

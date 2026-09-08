@@ -5,7 +5,7 @@ export const davidOMckay = {
   pageTypeSlug: "author",
   slug: "david-o-mckay",
   title: "David O. McKay",
-  partOfSlugs: ["prophets"],
+  partOfCollectionSlugs: ["prophets"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,

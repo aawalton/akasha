@@ -11,7 +11,7 @@ export const disgardiumResistance = {
   ownLength: 128250,
   ownProgress: 128250,
   publishedAt: "2020-04-29",
-  partOfSlugs: ["book-series/disgardium"],
+  partOfCollectionSlugs: ["book-series/disgardium"],
   source: "kindle",
   externalId: "B084VPKL7N",
   externalLink: "https://amazon.com/dp/B084VPKL7N",

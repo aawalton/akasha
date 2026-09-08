@@ -5,7 +5,7 @@ export const danBrown = {
   pageTypeSlug: "author",
   slug: "dan-brown",
   title: "Dan Brown",
-  partOfSlugs: ["thriller-authors"],
+  partOfCollectionSlugs: ["thriller-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

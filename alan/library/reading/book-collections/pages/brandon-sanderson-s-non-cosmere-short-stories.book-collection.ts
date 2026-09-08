@@ -5,7 +5,7 @@ export const brandonSandersonSNonCosmereShortStories = {
   pageTypeSlug: "book-collection",
   slug: "brandon-sanderson-s-non-cosmere-short-stories",
   title: "Brandon Sanderson’s Non-Cosmere Short Stories",
-  partOfSlugs: ["brandon-sanderson-s-non-cosmere-books"],
+  partOfCollectionSlugs: ["brandon-sanderson-s-non-cosmere-books"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

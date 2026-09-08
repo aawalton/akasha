@@ -5,7 +5,7 @@ export const danielSuarez = {
   pageTypeSlug: "author",
   slug: "daniel-suarez",
   title: "Daniel Suarez",
-  partOfSlugs: ["science-fiction-authors"],
+  partOfCollectionSlugs: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const bruceRMcconkie = {
   pageTypeSlug: "book-collection",
   slug: "bruce-r-mcconkie",
   title: "Bruce R. McConkie",
-  partOfSlugs: ["apostles"],
+  partOfCollectionSlugs: ["apostles"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

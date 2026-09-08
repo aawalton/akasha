@@ -5,7 +5,7 @@ export const histories3 = {
   pageTypeSlug: "book-collection",
   slug: "histories-3",
   title: "Histories",
-  partOfSlugs: ["faith-collections"],
+  partOfCollectionSlugs: ["faith-collections"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

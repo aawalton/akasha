@@ -5,7 +5,7 @@ export const howardWHunter = {
   pageTypeSlug: "author",
   slug: "howard-w-hunter",
   title: "Howard W. Hunter",
-  partOfSlugs: ["prophets"],
+  partOfCollectionSlugs: ["prophets"],
   position: 14,
   ownLength: 0,
   ownProgress: 0,

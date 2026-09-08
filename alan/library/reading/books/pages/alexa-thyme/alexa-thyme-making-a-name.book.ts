@@ -12,7 +12,7 @@ export const alexaThymeMakingAName = {
   ownLength: 124250,
   ownProgress: 124250,
   publishedAt: "2024-06-24",
-  partOfSlugs: ["book-series/alexa-thyme"],
+  partOfCollectionSlugs: ["book-series/alexa-thyme"],
   source: "kindle",
   externalId: "B0D8188R8Y",
   externalLink: "https://amazon.com/dp/B0D8188R8Y",

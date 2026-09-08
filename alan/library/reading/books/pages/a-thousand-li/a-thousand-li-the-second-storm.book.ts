@@ -12,7 +12,7 @@ export const aThousandLiTheSecondStorm = {
   ownLength: 87500,
   ownProgress: 87500,
   publishedAt: "2021-12-01",
-  partOfSlugs: ["book-series/a-thousand-li"],
+  partOfCollectionSlugs: ["book-series/a-thousand-li"],
   source: "kindle",
   externalId: "B09H5Z9LP1",
   externalLink: "https://amazon.com/dp/B09H5Z9LP1",

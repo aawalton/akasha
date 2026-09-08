@@ -5,7 +5,7 @@ export const doctrinalNewTestamentCommentary = {
   pageTypeSlug: "book-collection",
   slug: "doctrinal-new-testament-commentary",
   title: "Doctrinal New Testament Commentary",
-  partOfSlugs: ["bruce-r-mcconkie"],
+  partOfCollectionSlugs: ["bruce-r-mcconkie"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

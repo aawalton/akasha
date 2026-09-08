@@ -5,7 +5,7 @@ export const towerAndHive = {
   pageTypeSlug: "book-collection",
   slug: "tower-and-hive",
   title: "Tower and Hive",
-  partOfSlugs: ["anne-mccaffrey"],
+  partOfCollectionSlugs: ["anne-mccaffrey"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

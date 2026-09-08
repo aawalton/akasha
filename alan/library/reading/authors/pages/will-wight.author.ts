@@ -5,7 +5,7 @@ export const willWight = {
   pageTypeSlug: "author",
   slug: "will-wight",
   title: "Will Wight",
-  partOfSlugs: ["fantasy-authors"],
+  partOfCollectionSlugs: ["fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const johnGottman = {
   pageTypeSlug: "author",
   slug: "john-gottman",
   title: "John Gottman",
-  partOfSlugs: ["non-fiction-authors"],
+  partOfCollectionSlugs: ["non-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

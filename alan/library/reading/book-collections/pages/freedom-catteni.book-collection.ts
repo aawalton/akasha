@@ -5,7 +5,7 @@ export const freedomCatteni = {
   pageTypeSlug: "book-collection",
   slug: "freedom-catteni",
   title: "Freedom (Catteni)",
-  partOfSlugs: ["anne-mccaffrey"],
+  partOfCollectionSlugs: ["anne-mccaffrey"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

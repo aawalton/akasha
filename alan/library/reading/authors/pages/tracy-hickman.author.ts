@@ -5,7 +5,7 @@ export const tracyHickman = {
   pageTypeSlug: "author",
   slug: "tracy-hickman",
   title: "Tracy Hickman",
-  partOfSlugs: ["fantasy-authors"],
+  partOfCollectionSlugs: ["fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

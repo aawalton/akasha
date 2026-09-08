@@ -11,7 +11,7 @@ export const disgardiumHolyWar = {
   ownLength: 131750,
   ownProgress: 131750,
   publishedAt: "2020-09-04",
-  partOfSlugs: ["book-series/disgardium"],
+  partOfCollectionSlugs: ["book-series/disgardium"],
   source: "kindle",
   externalId: "B08BJ8Q283",
   externalLink: "https://amazon.com/dp/B08BJ8Q283",

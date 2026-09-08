@@ -12,7 +12,7 @@ export const cradleUncrowned = {
   ownLength: 94000,
   ownProgress: 94000,
   publishedAt: "2019-09-26",
-  partOfSlugs: ["book-series/cradle"],
+  partOfCollectionSlugs: ["book-series/cradle"],
   source: "kindle",
   externalId: "B07X8ZH6BS",
   externalLink: "https://amazon.com/dp/B07X8ZH6BS",

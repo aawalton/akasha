@@ -5,7 +5,7 @@ export const annalsOfAmerica = {
   pageTypeSlug: "book-collection",
   slug: "annals-of-america",
   title: "Annals of America",
-  partOfSlugs: ["history-collections"],
+  partOfCollectionSlugs: ["history-collections"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

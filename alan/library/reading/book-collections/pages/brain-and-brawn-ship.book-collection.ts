@@ -5,7 +5,7 @@ export const brainAndBrawnShip = {
   pageTypeSlug: "book-collection",
   slug: "brain-and-brawn-ship",
   title: "Brain & Brawn Ship",
-  partOfSlugs: ["anne-mccaffrey"],
+  partOfCollectionSlugs: ["anne-mccaffrey"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

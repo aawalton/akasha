@@ -5,7 +5,7 @@ export const theFoundersConstitution = {
   pageTypeSlug: "book-collection",
   slug: "the-founders-constitution",
   title: "The Founders Constitution",
-  partOfSlugs: ["commentaries"],
+  partOfCollectionSlugs: ["commentaries"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

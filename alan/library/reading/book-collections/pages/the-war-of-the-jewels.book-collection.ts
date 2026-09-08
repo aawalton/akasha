@@ -5,7 +5,7 @@ export const theWarOfTheJewels = {
   pageTypeSlug: "book-collection",
   slug: "the-war-of-the-jewels",
   title: "The War of the Jewels",
-  partOfSlugs: ["the-history-of-middle-earth"],
+  partOfCollectionSlugs: ["the-history-of-middle-earth"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

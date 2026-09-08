@@ -12,7 +12,7 @@ export const awakenOnlineUnity = {
   ownLength: 90250,
   ownProgress: 90250,
   publishedAt: "2019-06-18",
-  partOfSlugs: ["book-series/awaken-online"],
+  partOfCollectionSlugs: ["book-series/awaken-online"],
   source: "kindle",
   externalId: "B07SX5B2C5",
   externalLink: "https://amazon.com/dp/B07SX5B2C5",

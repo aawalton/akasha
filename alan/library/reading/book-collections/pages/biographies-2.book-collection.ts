@@ -5,7 +5,7 @@ export const biographies2 = {
   pageTypeSlug: "book-collection",
   slug: "biographies-2",
   title: "Biographies",
-  partOfSlugs: ["history-collections"],
+  partOfCollectionSlugs: ["history-collections"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

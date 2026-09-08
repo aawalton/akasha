@@ -5,7 +5,7 @@ export const revelationsAndTranslations = {
   pageTypeSlug: "book-collection",
   slug: "revelations-and-translations",
   title: "Revelations and Translations",
-  partOfSlugs: ["the-joseph-smith-papers"],
+  partOfCollectionSlugs: ["the-joseph-smith-papers"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

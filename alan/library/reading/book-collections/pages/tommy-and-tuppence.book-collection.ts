@@ -5,7 +5,7 @@ export const tommyAndTuppence = {
   pageTypeSlug: "book-collection",
   slug: "tommy-and-tuppence",
   title: "Tommy and Tuppence",
-  partOfSlugs: ["agatha-christie"],
+  partOfCollectionSlugs: ["agatha-christie"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

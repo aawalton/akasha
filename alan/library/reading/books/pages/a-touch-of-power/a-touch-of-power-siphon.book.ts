@@ -11,7 +11,7 @@ export const aTouchOfPowerSiphon = {
   ownLength: 83500,
   ownProgress: 83500,
   publishedAt: "2025-06-25",
-  partOfSlugs: ["book-series/a-touch-of-power"],
+  partOfCollectionSlugs: ["book-series/a-touch-of-power"],
   source: "kindle",
   externalId: "B0FFPK5VCN",
   externalLink: "https://amazon.com/dp/B0FFPK5VCN",

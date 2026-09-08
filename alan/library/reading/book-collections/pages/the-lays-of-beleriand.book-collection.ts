@@ -5,7 +5,7 @@ export const theLaysOfBeleriand = {
   pageTypeSlug: "book-collection",
   slug: "the-lays-of-beleriand",
   title: "The Lays of Beleriand",
-  partOfSlugs: ["the-history-of-middle-earth"],
+  partOfCollectionSlugs: ["the-history-of-middle-earth"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

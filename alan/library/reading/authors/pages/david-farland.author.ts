@@ -5,7 +5,7 @@ export const davidFarland = {
   pageTypeSlug: "author",
   slug: "david-farland",
   title: "David Farland",
-  partOfSlugs: ["fantasy-authors"],
+  partOfCollectionSlugs: ["fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

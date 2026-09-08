@@ -5,7 +5,7 @@ export const alanDeanFoster = {
   pageTypeSlug: "author",
   slug: "alan-dean-foster",
   title: "Alan Dean Foster",
-  partOfSlugs: ["science-fiction-authors"],
+  partOfCollectionSlugs: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

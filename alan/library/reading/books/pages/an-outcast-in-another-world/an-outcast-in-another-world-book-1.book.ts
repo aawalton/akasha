@@ -12,7 +12,7 @@ export const anOutcastInAnotherWorldBook1 = {
   ownLength: 112250,
   ownProgress: 112250,
   publishedAt: "2021-09-16",
-  partOfSlugs: ["book-series/an-outcast-in-another-world"],
+  partOfCollectionSlugs: ["book-series/an-outcast-in-another-world"],
   source: "kindle",
   externalId: "B09FZ16ZNT",
   externalLink: "https://amazon.com/dp/B09FZ16ZNT",

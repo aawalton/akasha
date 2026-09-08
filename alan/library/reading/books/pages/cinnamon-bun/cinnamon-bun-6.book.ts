@@ -11,7 +11,7 @@ export const cinnamonBun6 = {
   position: 6,
   ownLength: 80250,
   publishedAt: "2025-06-24",
-  partOfSlugs: ["book-series/cinnamon-bun"],
+  partOfCollectionSlugs: ["book-series/cinnamon-bun"],
   source: "kindle",
   externalId: "B0F63VD29W",
   externalLink: "https://amazon.com/dp/B0F63VD29W",

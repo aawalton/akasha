@@ -5,7 +5,7 @@ export const ezraTaftBenson = {
   pageTypeSlug: "author",
   slug: "ezra-taft-benson",
   title: "Ezra Taft Benson",
-  partOfSlugs: ["prophets"],
+  partOfCollectionSlugs: ["prophets"],
   position: 13,
   ownLength: 0,
   ownProgress: 0,

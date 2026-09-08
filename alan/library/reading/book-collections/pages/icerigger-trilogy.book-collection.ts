@@ -5,7 +5,7 @@ export const iceriggerTrilogy = {
   pageTypeSlug: "book-collection",
   slug: "icerigger-trilogy",
   title: "Icerigger Trilogy",
-  partOfSlugs: ["alan-dean-foster"],
+  partOfCollectionSlugs: ["alan-dean-foster"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

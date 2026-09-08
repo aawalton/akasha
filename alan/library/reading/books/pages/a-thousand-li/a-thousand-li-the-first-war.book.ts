@@ -12,7 +12,7 @@ export const aThousandLiTheFirstWar = {
   ownLength: 74750,
   ownProgress: 74750,
   publishedAt: "2020-04-01",
-  partOfSlugs: ["book-series/a-thousand-li"],
+  partOfCollectionSlugs: ["book-series/a-thousand-li"],
   source: "kindle",
   externalId: "B083GBL8XT",
   externalLink: "https://amazon.com/dp/B083GBL8XT",

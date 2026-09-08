@@ -5,7 +5,7 @@ export const sauronDefeated = {
   pageTypeSlug: "book-collection",
   slug: "sauron-defeated",
   title: "Sauron Defeated",
-  partOfSlugs: ["the-history-of-middle-earth"],
+  partOfCollectionSlugs: ["the-history-of-middle-earth"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,
