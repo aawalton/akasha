@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
-        "Ninety old scanners: 11 already carried, 12 hold no rule, 49 judge what has no subject under `akasha/` and wait on the migration, 18 had a subject and are all settled. Carried: no-non-null-assertion, no-angle-bracket-cast, manifest-names-what-is-reached, shell-clean, the property-id taboo term. The other 13 were left, most having nothing here to judge. Twenty-one of the ninety cannot run at all, the graph layer they read being deleted. Resume at the 49 once the migration reaches them.",
+        "Cluster-checks 32 down to 26, six settled: env-unset-bash and eso-global-decl-consistency ported, four ablated. The pattern is a check keying on a path that moved. Three in a row judged shell text, which nothing gates: no-refused-syntax takes a TypeScript SourceFile and shellcheck cannot be taught any of them. healthkit-read-only is held on that call. ESO lost nothing after all, the 120 were declare const, not declare function.",
     },
     { statement: "The old system carries no check of its own." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
