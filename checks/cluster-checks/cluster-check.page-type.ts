@@ -192,6 +192,7 @@ export const clusterCheck = {
     "module/process-start",
     "module/properties-file-key-space",
     "module/repo-files",
+    "module/repo-path-resolver",
   ],
   properties: [
     {
