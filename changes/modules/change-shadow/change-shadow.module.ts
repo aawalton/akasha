@@ -135,6 +135,10 @@ export const changeShadow = {
       statement: "A ledger settles those edits onto the reading that ledger already settled.",
     },
     {
+      invariantKind: "departure",
+      statement: "A ledger replays those edits onto the bodies that ledger already settled.",
+    },
+    {
       invariantKind: "absence",
       statement: "No edit a ledger already settled is settled a second time.",
     },
@@ -154,11 +158,11 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "A gather that refuses throws rather than being read as an answer holding no edit.",
+        "An edit that will not replay throws rather than being read as an answer holding no edit.",
     },
     {
       invariantKind: "departure",
-      statement: "A ledger a gather refused holds the edits that ledger held before.",
+      statement: "A ledger an edit refused holds the edits that ledger held before.",
     },
     {
       invariantKind: "departure",
@@ -166,8 +170,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An edit leaving a path where the edit added last left that path is added no second time.",
+      statement: "An edit is added once by which edit it is rather than by the path it names.",
     },
     {
       invariantKind: "departure",

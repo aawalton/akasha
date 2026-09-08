@@ -10,11 +10,13 @@ import { runChange as addFile } from "../../mechanical/file/add/add-file/add-fil
 import { runChange as removeFile } from "../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import {
   answered,
+  beyond,
   gathered,
   moving,
+  pathsIn,
   refusing,
+  stating,
   taking,
-  widened,
   writing,
 } from "../change-answer/change-answer.module.code.ts"
 import {
@@ -47,12 +49,10 @@ const BYTES = new TextEncoder()
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === ADD_FILE) {
-    return Promise.resolve(
-      widened(addFile(world, given as { at: string; body: string }), world.textOf)
-    )
+    return Promise.resolve(addFile(world, given as { at: string; body: string }))
   }
   if (at === REMOVE_FILE) {
-    return Promise.resolve(widened(removeFile(world, given as { at: string }), world.textOf))
+    return Promise.resolve(removeFile(world, given as { at: string }))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
@@ -207,7 +207,7 @@ test("a world built over a second answer carries both answers gathered", () => {
   const world = worldOver(first, answered([writing(OTHER, null, "two\n")]))
 
   expect(world.over.refused).toBe(null)
-  expect(world.over.edits.map((one) => one.path).sort()).toEqual([AT, OTHER])
+  expect([...pathsIn(world.over)].sort()).toEqual([AT, OTHER])
   expect(world.textOf(AT)).toBe("one\n")
   expect(world.textOf(OTHER)).toBe("two\n")
 })
@@ -225,7 +225,7 @@ test("a move empties the path it came from and fills the path it lands at", () =
 test("a path a move leaves is among the paths the change changed", () => {
   const said = answered([moving(HELD_CODE, AT, "was\n", "now\n")])
 
-  const change = changeOver("/nowhere", said)
+  const change = changeOver("/nowhere", said, (path) => (path === HELD_CODE ? "was\n" : null))
 
   expect([...change.changed]).toEqual([AT, HELD_CODE])
   expect(change.before(HELD_CODE)).toEqual(BYTES.encode("was\n"))
@@ -235,7 +235,9 @@ test("a path a move leaves is among the paths the change changed", () => {
 })
 
 test("an edit stating no body leaves that path holding nothing after the change", () => {
-  const change = changeOver("/nowhere", answered([taking(AT, "was\n")]))
+  const change = changeOver("/nowhere", answered([taking(AT, "was\n")]), (path) =>
+    path === AT ? "was\n" : null
+  )
 
   expect(change.before(AT)).toEqual(BYTES.encode("was\n"))
   expect(change.after(AT)).toBe(null)
@@ -246,7 +248,7 @@ test("a reach answers the world that reach's answer leaves beside that answer", 
 
   expect(wrote.said.refused).toBe(null)
   expect(wrote.world.textOf(AT)).toBe("held\n")
-  expect(wrote.world.over.edits.map((one) => one.path)).toEqual([AT])
+  expect(pathsIn(wrote.world.over)).toEqual([AT])
 })
 
 test("a reach coming back refused answers the world that reach was handed", async () => {
@@ -266,7 +268,7 @@ test("a path one reach writes is taken away by a later reach", async () => {
 
   expect(wrote.said.refused).toBe(null)
   expect(took.said.refused).toBe(null)
-  expect(took.said.edits).toEqual([{ path: AT, was: "held\n", body: null }])
+  expect(took.said.edits).toEqual([{ kind: "remove", path: AT }])
 })
 
 test("a removal off the world an earlier reach was handed is refused", async () => {
@@ -285,7 +287,7 @@ test("a change reaching more than one change carries each world into the next re
   const took = await reach(two.world, REMOVE_FILE, { at: AT })
 
   expect(took.said.refused).toBe(null)
-  expect(took.said.edits).toEqual([{ path: AT, was: "one\n", body: null }])
+  expect(took.said.edits).toEqual([{ kind: "remove", path: AT }])
   expect(took.world.textOf(AT)).toBe(null)
   expect(took.world.textOf(OTHER)).toBe("two\n")
 })
@@ -296,35 +298,52 @@ test("a path an earlier reach took away is refused rather than taken away twice"
 
   const first = await reach(world, REMOVE_FILE, { at: HELD_CODE })
   const again = await reach(first.world, REMOVE_FILE, { at: HELD_CODE })
-  const twice = await reach(world, REMOVE_FILE, { at: HELD_CODE })
 
   expect(first.said.refused).toBe(null)
   expect(again.said.refused).toBe(gone)
-  expect(twice.said.refused).toBe(null)
-  expect(gathered([first.said, twice.said])).toEqual(first.said)
 })
 
-const ANSWERED_TWICE = "is answered twice"
+test("an answer stating an edit the world already holds states nothing beyond that world", async () => {
+  const first = await reach(worldIn(indexedRepo()), REMOVE_FILE, { at: HELD_CODE })
 
-test("a gather refusing where an edit is added throws and leaves the ledger as it was", () => {
+  expect(beyond(first.world.over, first.said).edits).toEqual([])
+})
+
+const HOLDS_A_BODY = "holds a body already"
+
+test("an edit added over a path the ledger wrote is replayed onto the body that path holds", () => {
   const ledger = ledgerIn(indexedRepo())
   addedTo(ledger, answered([writing(AT, null, "one\n")]))
 
-  expect(() => addedTo(ledger, answered([writing(AT, "other\n", "two\n")]))).toThrow(ANSWERED_TWICE)
+  addedTo(ledger, stating([{ kind: "replace", path: AT, contentFrom: "one", contentTo: "two" }]))
 
-  expect(ledger.over.edits).toEqual([{ path: AT, was: null, body: "one\n" }])
-  expect(ledger.kept.stated.get(AT)).toHaveLength(1)
+  expect(ledger.over.edits).toEqual([
+    { kind: "add", path: AT, content: "one\n" },
+    { kind: "replace", path: AT, contentFrom: "one", contentTo: "two" },
+  ])
+  expect(ledger.textOf(AT)).toBe("two\n")
+})
+
+test("an edit that will not replay onto the ledger throws and leaves the ledger as it was", () => {
+  const ledger = ledgerIn(indexedRepo())
+  addedTo(ledger, answered([writing(AT, null, "one\n")]))
+
+  expect(() => addedTo(ledger, stating([{ kind: "add", path: AT, content: "two\n" }]))).toThrow(
+    HOLDS_A_BODY
+  )
+
+  expect(ledger.over.edits).toEqual([{ kind: "add", path: AT, content: "one\n" }])
   expect(ledger.textOf(AT)).toBe("one\n")
 })
 
-test("a gather refusing where a world is built over an answer throws rather than answering", () => {
+test("an edit that will not replay onto a world throws rather than answering", () => {
   const world = worldOver(worldIn(indexedRepo()), answered([writing(AT, null, "one\n")]))
 
-  expect(() => worldOver(world, answered([writing(AT, "other\n", "two\n")]))).toThrow(
-    ANSWERED_TWICE
+  expect(() => worldOver(world, stating([{ kind: "add", path: AT, content: "two\n" }]))).toThrow(
+    HOLDS_A_BODY
   )
 
-  expect(world.over.edits).toEqual([{ path: AT, was: null, body: "one\n" }])
+  expect(world.over.edits).toEqual([{ kind: "add", path: AT, content: "one\n" }])
 })
 
 test("a reach inside a change states an edit the reach around that change states again", async () => {
@@ -339,6 +358,6 @@ test("a reach inside a change states an edit the reach around that change states
   const said = await reach(ledger, around as never, { at: AT, body: "held\n" })
 
   expect(said.said.refused).toBeNull()
-  expect(ledger.over.edits).toEqual([{ path: AT, was: null, body: "held\n" }])
+  expect(ledger.over.edits).toEqual([{ kind: "add", path: AT, content: "held\n" }])
   expect(gathered([ledger.over, said.said]).refused).toBeNull()
 })
