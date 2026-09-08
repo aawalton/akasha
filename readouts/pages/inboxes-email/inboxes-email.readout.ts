@@ -31,7 +31,7 @@ export const inboxesEmail = {
     },
     {
       invariantKind: "departure",
-      statement: "A mail entry carrying no count is no reading rather than a count of zero.",
+      statement: "A mail entry with no count is no reading rather than a count of zero.",
     },
 
     {

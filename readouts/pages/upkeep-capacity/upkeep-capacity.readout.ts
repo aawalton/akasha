@@ -21,7 +21,7 @@ export const upkeepCapacity = {
     {
       invariantKind: "departure",
       statement:
-        "The capacity a stretch carries is the hours the stretch ran times the capacity an hour was worth.",
+        "The capacity a stretch has is the hours the stretch ran times the capacity an hour was worth.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,7 @@ export const upkeepCapacity = {
     },
     {
       invariantKind: "departure",
-      statement: "A stretch still running carries no capacity rather than the hours run so far.",
+      statement: "A stretch still running has no capacity rather than the hours run so far.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const upkeepCapacity = {
     },
     {
       invariantKind: "departure",
-      statement: "A stretch carrying no capacity is left out of the sum.",
+      statement: "A stretch with no capacity is left out of the sum.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,7 @@ export const upkeepCapacity = {
     {
       invariantKind: "departure",
       statement:
-        "A day whose every stretch carries no capacity is no reading rather than a capacity of zero.",
+        "A day whose every stretch has no capacity is no reading rather than a capacity of zero.",
     },
     {
       invariantKind: "departure",

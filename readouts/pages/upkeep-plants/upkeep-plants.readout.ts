@@ -29,7 +29,7 @@ export const upkeepPlants = {
     },
     {
       invariantKind: "departure",
-      statement: "A food entry carrying no plant grams adds nothing to the total.",
+      statement: "A food entry with no plant grams adds nothing to the total.",
     },
     {
       invariantKind: "departure",

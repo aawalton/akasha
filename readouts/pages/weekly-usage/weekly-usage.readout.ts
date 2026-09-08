@@ -21,11 +21,11 @@ export const weeklyUsage = {
     },
     {
       invariantKind: "departure",
-      statement: "An account carrying no percent is left out of the mean rather than counted zero.",
+      statement: "An account with no percent is left out of the mean rather than counted zero.",
     },
     {
       invariantKind: "departure",
-      statement: "No account carrying a percent is no reading rather than a mean of zero.",
+      statement: "No account with a percent is no reading rather than a mean of zero.",
     },
     {
       invariantKind: "departure",

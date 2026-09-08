@@ -15,11 +15,11 @@ export const upkeepActivity = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the reading the tracking day carries for the day asked for.",
+      statement: "The reading is the reading the tracking day has for the day asked for.",
     },
     {
       invariantKind: "departure",
-      statement: "The activity a day carries is the day's cardio and the day's lifting together.",
+      statement: "The activity a day has is the day's cardio and the day's lifting together.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const upkeepActivity = {
 
     {
       invariantKind: "departure",
-      statement: "A day carrying one half alone is a reading of that half.",
+      statement: "A day with one half alone is a reading of that half.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,7 @@ export const upkeepActivity = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying neither half is no reading rather than an activity of zero.",
+      statement: "A day with neither half is no reading rather than an activity of zero.",
     },
 
     {

@@ -16,11 +16,11 @@ export const upkeepSurplus = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the reading the tracking day carries for the day asked for.",
+      statement: "The reading is the reading the tracking day has for the day asked for.",
     },
     {
       invariantKind: "departure",
-      statement: "The surplus a day carries is the day's sleep less the day's spend.",
+      statement: "The surplus a day has is the day's sleep less the day's spend.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const upkeepSurplus = {
     },
     {
       invariantKind: "departure",
-      statement: "A tracking day carrying no surplus is no reading rather than a surplus of zero.",
+      statement: "A tracking day with no surplus is no reading rather than a surplus of zero.",
     },
     {
       invariantKind: "departure",

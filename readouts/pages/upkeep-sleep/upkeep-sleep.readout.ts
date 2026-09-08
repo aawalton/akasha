@@ -16,11 +16,11 @@ export const upkeepSleep = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the reading the tracking day carries for the day asked for.",
+      statement: "The reading is the reading the tracking day has for the day asked for.",
     },
     {
       invariantKind: "departure",
-      statement: "The sleep a day carries is the total of that day's own sleep stretches.",
+      statement: "The sleep a day has is the total of that day's own sleep stretches.",
     },
     {
       invariantKind: "departure",
@@ -32,11 +32,11 @@ export const upkeepSleep = {
     },
     {
       invariantKind: "departure",
-      statement: "A tracking day carrying no sleep is no reading rather than a sleep of zero.",
+      statement: "A tracking day with no sleep is no reading rather than a sleep of zero.",
     },
     {
       invariantKind: "departure",
-      statement: "A day with no sleep stretch carries no sleep rather than a sleep of zero.",
+      statement: "A day with no sleep stretch has no sleep rather than a sleep of zero.",
     },
 
     {
