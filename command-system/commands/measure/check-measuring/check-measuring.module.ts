@@ -15,6 +15,18 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
+      statement: "Every numbered file of a check's entries is read rather than the first alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The numbered files of one check are read in order from the first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A numbered file that is not there is no file left unread.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A record's run is the run id that record carries.",
     },
     {
