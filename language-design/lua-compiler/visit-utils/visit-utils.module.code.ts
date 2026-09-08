@@ -1,3 +1,4 @@
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
@@ -73,6 +74,9 @@ export function transformLoopBody(
         ]),
       ]
     }
+
+    default:
+      assertNever(scope.loopContinued)
   }
 }
 
