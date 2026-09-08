@@ -5,7 +5,7 @@ export const theWanderingInn0720GoblinDaysPt5RedbladeAndLilbrasi = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0720-goblin-days-pt-5-redblade-and-lilbrasi",
   title: "Goblin Days (Pt. 5) - Redblade and Lilbrasi",
-  partOfSlugs: ["story-read/the-wandering-inn"],
+  partOfCollectionSlugs: ["story-read/the-wandering-inn"],
   position: 720,
   ownLength: 10518,
   ownProgress: 10790,

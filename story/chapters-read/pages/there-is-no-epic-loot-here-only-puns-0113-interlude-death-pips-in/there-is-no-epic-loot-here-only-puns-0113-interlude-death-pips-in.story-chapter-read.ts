@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0113InterludeDeathPipsIn = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0113-interlude-death-pips-in",
   title: "Interlude: Death Pips In",
-  partOfSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
   position: 113,
   ownLength: 3715,
   unitSlug: "words",

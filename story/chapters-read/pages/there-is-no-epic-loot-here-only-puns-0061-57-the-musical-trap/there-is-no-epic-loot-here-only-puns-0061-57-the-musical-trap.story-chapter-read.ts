@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns006157TheMusicalTrap = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0061-57-the-musical-trap",
   title: "57: The Musical Trap",
-  partOfSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
   position: 61,
   ownLength: 3520,
   unitSlug: "words",

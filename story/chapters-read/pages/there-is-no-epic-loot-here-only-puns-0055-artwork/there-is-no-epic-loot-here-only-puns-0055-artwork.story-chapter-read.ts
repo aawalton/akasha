@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0055Artwork = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0055-artwork",
   title: "Artwork!",
-  partOfSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
   position: 55,
   ownLength: 19,
   unitSlug: "words",

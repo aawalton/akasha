@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns008373LordOfMushrooms = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0083-73-lord-of-mushrooms",
   title: "73: Lord of Mushrooms",
-  partOfSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
   position: 83,
   ownLength: 4114,
   unitSlug: "words",

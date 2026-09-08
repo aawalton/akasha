@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns001212TheNatureOfGiveAndTake = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0012-12-the-nature-of-give-and-take",
   title: "12: The Nature of Give and Take",
-  partOfSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
   position: 12,
   ownLength: 3190,
   unitSlug: "words",

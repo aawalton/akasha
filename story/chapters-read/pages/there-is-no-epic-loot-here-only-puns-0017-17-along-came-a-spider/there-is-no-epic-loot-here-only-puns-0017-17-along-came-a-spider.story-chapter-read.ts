@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns001717AlongCameASpider = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0017-17-along-came-a-spider",
   title: "17: Along Came A Spider",
-  partOfSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
   position: 17,
   ownLength: 2399,
   unitSlug: "words",
