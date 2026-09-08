@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
-        "Cluster-checks 32 down to 17. Four ported: env-unset-bash as syntax rule 15, plus three code-checks reading the index rather than any path — eso-global-decl, held-addon-names-a-roster-addon, and check-reaches-a-path-through-the-index, which is on at patch and refuses a spelled path directly. The playwright tag now derives from the root manifest. Twelve ablated, nearly all keying on a path that moved. Alan ruled no home for shell rules. Next is properties-file-key-space.",
+        "Cluster-checks 32 down to 11, five ported, sixteen ablated. Every port is a code-check reading the index rather than a path: eso-global-decl, held-addon-names-a-roster-addon, check-reaches-a-path-through-the-index which is on at patch and refuses a spelled path, and client-reaches-a-server-module-through-a-route. syntax-bundle is a runner over a registry of scanners: eight are already syntax rules, two were ported narrower, five are left to take one at a time. No home for shell rules.",
     },
     { statement: "The old system carries no check of its own." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
