@@ -183,6 +183,7 @@ export const clusterCheck = {
     "module/layer-monotonicity",
     "module/libc-ffi-binding",
     "module/non-test-population",
+    "module/oklch-to-srgb",
   ],
   properties: [
     {
