@@ -125,13 +125,13 @@ export function transformAssignment(
 
   return [
     rootAssignment,
-    ...dependentSymbols.map((symbol) => {
-      const [left] = rootAssignment.left
+    ...dependentSymbols.map((dependentSymbol) => {
+      const [rootLeft] = rootAssignment.left
       const identifierToAssign = createExportedIdentifier(
         context,
-        luaExpressions.createIdentifier(symbol.name)
+        luaExpressions.createIdentifier(dependentSymbol.name)
       )
-      return luaStatements.createAssignmentStatement(identifierToAssign, left)
+      return luaStatements.createAssignmentStatement(identifierToAssign, rootLeft)
     }),
   ]
 }
@@ -256,7 +256,6 @@ export function transformAssignmentStatement(
 
   if (isDestructuringAssignment(expression)) {
     if (canBeTransformedToLuaAssignmentStatement(context, expression)) {
-      const rightType = context.checker.getTypeAtLocation(expression.right)
       let right: luaExpressions.Expression | readonly luaExpressions.Expression[]
 
       if (ts.isArrayLiteralExpression(expression.right)) {
