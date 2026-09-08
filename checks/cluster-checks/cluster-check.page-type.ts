@@ -233,6 +233,7 @@ export const clusterCheck = {
     "module/workspace-packages",
     "module/workspace-ts-files",
     "module/workspaces-mainseam",
+    "module/yaml-usage",
   ],
   properties: [
     {
