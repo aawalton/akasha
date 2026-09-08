@@ -1322,18 +1322,12 @@
     "personas": {
       "name": "@akasha/personas",
       "dependencies": {
+        "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "personas-core": {
-      "name": "@akasha/personas-core",
-      "dependencies": {
-        "@akasha/indexes": "workspace:*",
-        "@akasha/pages": "workspace:*",
         "@akasha/utils-run": "workspace:*",
+        "zod": "^4.3.6",
       },
     },
     "persons": {
@@ -3172,8 +3166,6 @@
     "@akasha/pages-url": ["@akasha/pages-url@workspace:pages/url"],
 
     "@akasha/personas": ["@akasha/personas@workspace:personas"],
-
-    "@akasha/personas-core": ["@akasha/personas-core@workspace:personas-core"],
 
     "@akasha/persons": ["@akasha/persons@workspace:persons"],
 

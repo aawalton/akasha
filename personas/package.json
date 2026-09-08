@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./email-address": "./properties/email-address.email-address-property.ts",
+    "./desktop-wallpaper-setting": "./desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts",
     "./image-locator": "./image-locator/image-locator.module.code.ts",
     "./wallpaper-order": "./wallpaper-order/wallpaper-order.module.code.ts",
     "./wallpaper-select": "./wallpaper-select/wallpaper-select.module.code.ts",
@@ -28,7 +29,9 @@
     "./persona-reading": "./reading/persona-reading.module.code.ts"
   },
   "dependencies": {
+    "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",
+    "@akasha/utils-run": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"

@@ -9,7 +9,7 @@ import { NO_CODE, ran, type Said } from "@akasha/utils-run/running"
 import {
   orderedWallpaperSlugs,
   type WallpaperRow,
-} from "../../personas/wallpaper-order/wallpaper-order.module.code.ts"
+} from "../wallpaper-order/wallpaper-order.module.code.ts"
 
 const PERSONA = "persona"
 
