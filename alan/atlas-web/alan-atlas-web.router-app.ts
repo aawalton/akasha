@@ -13,6 +13,8 @@ export const alanAtlasWeb = {
   routerConfig: "ts",
   compileConfig: "json",
   viteConfig: "ts",
+  server: "ts",
+  sidebarBoot: "js",
   partSlugs: [
     "manifest/alanwalton-atlas",
     "stylesheet/alan-atlas-web-look",
