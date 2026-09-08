@@ -12,9 +12,12 @@ import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.
 
 const BLIND = ts.TypeFlags.Any | ts.TypeFlags.Unknown
 
-export type RemovePropertyValueAsked = {
+export type Sought = {
   readonly at: string
   readonly key: string
+}
+
+export type RemovePropertyValueAsked = Sought & {
   readonly value: string
 }
 
@@ -27,7 +30,7 @@ function commaAfter(text: string, from: number, limit: number): number {
   return from
 }
 
-function without(
+export function without(
   text: string,
   source: ts.SourceFile,
   held: ts.Node,
@@ -46,7 +49,7 @@ function without(
   return text.slice(0, from) + text.slice(one.getEnd())
 }
 
-function requiredIn(world: World, given: RemovePropertyValueAsked): boolean | null {
+export function requiredIn(world: World, given: Sought): boolean | null {
   const placed = placingOver(pathsIn(world.over), world.textOf)
   const read = readingOf(world.root, world.textOf, placed)
   const typing = typingOver(world.root, [given.at], read, placed)

@@ -7,6 +7,7 @@ export const changeMechanicalFileContentRemove = {
   definition: "a mechanical change taking part of what a file holds away",
   partSlugs: [
     "change-mechanical-file-content/remove-manifest-ways",
+    "change-mechanical-file-content/remove-page-property",
     "change-mechanical-file-content/remove-property-value",
   ],
 } as const satisfies Domain
