@@ -20,5 +20,17 @@ export const supervisorChildSpawn = {
       invariantKind: "departure",
       statement: "A spawn is refused where the host is under memory pressure.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A child spawned afresh runs no task the child before it started.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The open tasks of such a child are taken as closed before the spawn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An adopted child is the same client, so its open tasks are left alone.",
+    },
   ],
 } as const satisfies Module
