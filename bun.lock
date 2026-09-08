@@ -165,6 +165,13 @@
         "zod": "^4.3.6",
       },
     },
+    "alan/harness/supabase-auth": {
+      "name": "@akasha/supabase-auth",
+      "dependencies": {
+        "@supabase/supabase-js": "^2.104.0",
+        "zod": "^4.3.6",
+      },
+    },
     "alan/library/book-of-everything": {
       "name": "@akasha/book-of-everything",
       "dependencies": {
@@ -1499,13 +1506,6 @@
       "dependencies": {
         "@akasha/pages-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "supabase-auth": {
-      "name": "@akasha/supabase-auth",
-      "dependencies": {
-        "@supabase/supabase-js": "^2.104.0",
         "zod": "^4.3.6",
       },
     },
@@ -3219,7 +3219,7 @@
 
     "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:story/engine/core"],
 
-    "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:supabase-auth"],
+    "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:alan/harness/supabase-auth"],
 
     "@akasha/supabase-client": ["@akasha/supabase-client@workspace:supabase-client"],
 
