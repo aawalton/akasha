@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
-        "Cluster-checks 32 down to 3, seven ported, twenty-two ablated. Left are checksum-annotation-substitution behind intent 10, vite-supabase-rr-define, and syntax-bundle with three scanners. A check policing a hand-written derivable value is answered by deriving it, as tailwind-sources was. A dead check can still be right, and a dead check can be wrong in its own favour: widget-payload-shape-mirror read only a Swift let, so it reported a var field missing. tsconfig took ten modules with it.",
+        "Cluster-checks 32 down to 2, seven ported, twenty-four ablated. Left are checksum-annotation-substitution behind intent 10 and syntax-bundle with three scanners. A check policing a hand-written derivable value is answered by deriving it, as tailwind-sources was. A dead check can still be right, and a dead check can be wrong in its own favour: widget-payload-shape-mirror read only a Swift let, so it reported a var field missing. tsconfig took ten modules with it.",
     },
     { statement: "The old system carries no check of its own." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
@@ -59,7 +59,7 @@ export const theaChecksSystem = {
     {
       statement: "Every env key a client bundle reads is marked for vite rather than for Next.",
       workingMemory:
-        "Six commits: every client read takes import.meta.env.VITE_* now, the manifests hand each key under both names, and the iOS stage script supplies VITE_API_ORIGIN, the only supplier that key has anywhere. Dropping the Next names is held: seven route files reading the build sha and the pmtiles url as build-time literals are claimed by no page, so file-has-its-page refuses any touch. They wait on the same route-slug call as the routes intent.",
+        "Six commits: every client read takes import.meta.env.VITE_* now, the manifests hand each key under both names, and the iOS stage script supplies VITE_API_ORIGIN, the only supplier that key has anywhere. supabaseClientEnvDefine still inlines four process.env.NEXT_PUBLIC_* keys no client read uses, and throws unless two are set, so six vite builds require two dead variables. Dropping the Next names is held: seven route files carrying the build sha and the pmtiles url are claimed by no page.",
     },
   ],
   constraints: [
