@@ -36,20 +36,23 @@ declare module "typescript" {
   }
 
   interface TypeChecker {
-    getElementTypeOfArrayType(type: Type): Type | undefined
-    getContextualTypeForObjectLiteralElement(node: ObjectLiteralElementLike): Type | undefined
-    getEmitResolver(sourceFile?: SourceFile, cancellationToken?: CancellationToken): EmitResolver
+    getElementTypeOfArrayType: (type: Type) => Type | undefined
+    getContextualTypeForObjectLiteralElement: (node: ObjectLiteralElementLike) => Type | undefined
+    getEmitResolver: (
+      sourceFile?: SourceFile,
+      cancellationToken?: CancellationToken
+    ) => EmitResolver
   }
 
   interface EmitResolver {
-    isValueAliasDeclaration(node: Node): boolean
-    isReferencedAliasDeclaration(node: Node, checkChildren?: boolean): boolean
-    isTopLevelValueImportEqualsWithEntityName(node: ImportEqualsDeclaration): boolean
+    isValueAliasDeclaration: (node: Node) => boolean
+    isReferencedAliasDeclaration: (node: Node, checkChildren?: boolean) => boolean
+    isTopLevelValueImportEqualsWithEntityName: (node: ImportEqualsDeclaration) => boolean
   }
 
   interface Program {
-    getCommonSourceDirectory(): string
-    getCompilerOptions(): import("../tstl-compiler-options/tstl-compiler-options.module.code.ts").CompilerOptions
+    getCommonSourceDirectory: () => string
+    getCompilerOptions: () => import("../tstl-compiler-options/tstl-compiler-options.module.code.ts").CompilerOptions
   }
 
   interface Node {
@@ -61,7 +64,7 @@ declare module "typescript" {
   }
 
   interface System {
-    setBlocking?(): void
+    setBlocking?: () => void
   }
 
   interface CompilerOptions {
