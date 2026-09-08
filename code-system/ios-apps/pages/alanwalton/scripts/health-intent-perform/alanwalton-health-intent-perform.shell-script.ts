@@ -16,5 +16,14 @@ export const alanwaltonHealthIntentPerform = {
       invariantKind: "departure",
       statement: "A share set holding anything asks to write Alan's own health data.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The state reset runs unconditionally before the first query of the run.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reset reached only under a condition leaves the run querying the cursor it drops.",
+    },
   ],
 } as const satisfies ShellScript

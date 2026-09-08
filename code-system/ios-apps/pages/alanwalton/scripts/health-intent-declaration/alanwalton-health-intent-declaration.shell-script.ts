@@ -7,4 +7,24 @@ export const alanwaltonHealthIntentDeclaration = {
   definition: "the Swift declaring the health-samples intent's metrics and batch limits",
   shell: "sh",
   sourced: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A build raising the state generation drops every anchor the device already carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Repairing the drain without dropping the cursor ships a build that streams nothing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing on the phone decides what a day is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every window over these samples is a query the server runs against stored rows.",
+    },
+  ],
 } as const satisfies ShellScript
