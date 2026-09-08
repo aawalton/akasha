@@ -91,14 +91,6 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "The choice a caller made is said beneath the table.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The one run chosen is named beneath the table with the moment that run ran.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A run's processor time is that run's own together with the children that run reaped.",
     },
