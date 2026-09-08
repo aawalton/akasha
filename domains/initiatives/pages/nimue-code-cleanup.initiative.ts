@@ -10,7 +10,7 @@ export const nimueCodeCleanup = {
     {
       statement: "All code-system files are in the code/ folder.",
       workingMemory:
-        "`move-folder-package` drafts in 73 seconds, and the apply measures at 555, of which 227 is `tests-pass` over 3,536 paths. `measure` reaches a named change now, so drafting and judging are one call and the tree cannot move between them. What blocks the landing is an index still naming files that landed commits deleted, so the draft reads a path it cannot open; `akasha index refresh` repairs that and runs past its own ceiling.",
+        "The move drafts 3,070 paths. Its apply runs 104 seconds on 9 CPU-seconds and 0.76 in its children, so the wall time is waiting rather than working, and the checks are not it: `runsChecks: false` makes the gate `NO_GATE`. The median apply over 2,231 runs is 6.3 seconds. `applied` writes a `timing:` line for each phase it lands through. The index goes stale within minutes as other seats land, and `akasha index refresh` repairs it.",
     },
     {
       statement: "The code folder tree passes the folder-matches-a-shape check.",
