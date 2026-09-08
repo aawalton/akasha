@@ -156,6 +156,7 @@ export const clusterCheck = {
     "module/component-sources",
     "module/css-color-properties",
     "module/css-source-directives",
+    "module/design-token-parity",
   ],
   properties: [
     {
