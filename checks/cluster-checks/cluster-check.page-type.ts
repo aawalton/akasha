@@ -150,6 +150,7 @@ export const clusterCheck = {
     "module/client-env-inlined",
     "module/codegen-type-identity-drift",
     "module/color-literal-grants",
+    "module/codegen-type-identity-pairs",
   ],
   properties: [
     {
