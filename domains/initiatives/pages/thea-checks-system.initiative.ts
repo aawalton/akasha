@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
-        "Cluster-checks 32 down to 26, six settled: env-unset-bash and eso-global-decl-consistency ported, four ablated. The pattern is a check keying on a path that moved. Three in a row judged shell text, which nothing gates: no-refused-syntax takes a TypeScript SourceFile and shellcheck cannot be taught any of them. healthkit-read-only is held on that call. ESO lost nothing after all, the 120 were declare const, not declare function.",
+        "Cluster-checks 32 down to 19. Two ported: env-unset-bash as syntax rule 15, eso-global-decl-consistency as a code-check reading the index. Eleven ablated, nearly all keying on a path that moved. Alan ruled no home for shell rules, so a shell-subject check ablates and its facts are written onto the pages it judged, as healthkit and health-samples-stream were. Three delegates out: the index-reaching code-check, the held-addon port, the playwright tag derivation. Next is properties-file-key-space.",
     },
     { statement: "The old system carries no check of its own." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
