@@ -1,5 +1,6 @@
 import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
+import type { AttributeSlug } from "./properties/attribute-slug.relation-property.ts"
 import type { ColorFromSlug } from "./properties/color-from-slug.relation-property.ts"
 import type { ColorSlug } from "./properties/color-slug.text-property.ts"
 import type { DrawnAs } from "./properties/drawn-as.text-property.ts"
@@ -29,6 +30,7 @@ export type Readout = Module & {
   colorSlug?: ColorSlug
   colorFromSlug?: ColorFromSlug
   earnedKey?: EarnedKey
+  attributeSlug?: AttributeSlug
   groupSlugs?: GroupSlugs
   noneLeftWords?: NoneLeftWords
   noneLeftEmoji?: NoneLeftEmoji
@@ -53,6 +55,7 @@ export const readout = {
     "instant-property/last-value-at",
     "number-property/last-value",
     "number-property/place",
+    "relation-property/attribute-slug",
     "relation-property/color-from-slug",
     "relation-property/group-slugs",
     "relation-property/read-live-from",
@@ -84,6 +87,7 @@ export const readout = {
     { pagePropertySlug: "text-property/color-slug", required: false, many: false },
     { pagePropertySlug: "relation-property/color-from-slug", required: false, many: false },
     { pagePropertySlug: "text-property/earned-key", required: false, many: false },
+    { pagePropertySlug: "relation-property/attribute-slug", required: false, many: false },
     {
       pagePropertySlug: "relation-property/group-slugs",
       required: false,
