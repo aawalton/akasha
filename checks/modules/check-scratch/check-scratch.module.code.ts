@@ -73,6 +73,7 @@ export type Shape = {
   readonly unique?: string | null
   readonly uniquePropertySlug?: string | null
   readonly fileName?: string | null
+  readonly folderName?: string | null
 }
 
 export function declaring(root: string, slug: string, shape: Shape): undefined {
@@ -85,6 +86,7 @@ export function declaring(root: string, slug: string, shape: Shape): undefined {
       slug,
       propertySlug: slug,
       fileName: shape.fileName ?? null,
+      folderName: shape.folderName ?? null,
     },
   ])
 }

@@ -77,5 +77,9 @@ export const checkScratch = {
       invariantKind: "absence",
       statement: "The scratch here is set up by the check tests that reach for the scratch.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A schema line written here states every field the index writes, in that order.",
+    },
   ],
 } as const satisfies Module
