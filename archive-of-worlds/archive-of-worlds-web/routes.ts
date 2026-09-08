@@ -31,10 +31,16 @@ export default [
     "api/page-types",
     "routes/archive-of-worlds-api-page-types/archive-of-worlds-api-page-types.route.code.ts"
   ),
-  route("api/pages/:pageTypeSlug", "routes/api.pages.$pageTypeSlug.ts"),
+  route(
+    "api/pages/:pageTypeSlug",
+    "routes/archive-of-worlds-api-pages/archive-of-worlds-api-pages.route.code.ts"
+  ),
   route(
     "api/page-write",
     "routes/archive-of-worlds-api-page-write/archive-of-worlds-api-page-write.route.code.ts"
   ),
-  route("api/nav-icon/:idSuffix", "routes/api.nav-icon.$idSuffix.ts"),
+  route(
+    "api/nav-icon/:idSuffix",
+    "routes/archive-of-worlds-api-nav-icon/archive-of-worlds-api-nav-icon.route.code.ts"
+  ),
 ] satisfies RouteConfig

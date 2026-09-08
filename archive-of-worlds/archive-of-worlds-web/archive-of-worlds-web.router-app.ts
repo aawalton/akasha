@@ -39,6 +39,8 @@ export const archiveOfWorldsWeb = {
     "route/archive-of-worlds-api-page-write",
     "route/archive-of-worlds-page-listing",
     "route/archive-of-worlds-page-detail",
+    "route/archive-of-worlds-api-pages",
+    "route/archive-of-worlds-api-nav-icon",
   ],
   invariants: [
     {
