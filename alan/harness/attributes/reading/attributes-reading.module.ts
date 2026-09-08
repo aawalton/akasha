@@ -17,6 +17,16 @@ export const attributesReading = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Each reading is kept beside its attribute's page as that attribute's points today.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement:
+        "The attribute a readout counts is spelled here rather than read off that readout.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The question to ask and how to read each answer are on each readout's own page.",
     },
     {

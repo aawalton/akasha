@@ -3,6 +3,7 @@ import { getEsoDayStr } from "@akasha/day/eso-day"
 import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
 import type { Row } from "@akasha/readout-system/readout-asking"
 import { keepReading } from "@akasha/readout-system/readout-reading"
+import { keepPointsToday } from "../../../attributes/points/attribute-points.module.code.ts"
 import { charismaIn } from "../../../attributes/readouts/attribute-charisma/attribute-charisma.readout.code.ts"
 import { fetchConstitutionPoints } from "../../../attributes/readouts/attribute-constitution/attribute-constitution.readout.code.ts"
 import { enduranceIn } from "../../../attributes/readouts/attribute-endurance/attribute-endurance.readout.code.ts"
@@ -89,6 +90,15 @@ async function constitutionOf(now: Date): Promise<number> {
   return fetchConstitutionPoints(askingIn(checkout), window.from, window.to)
 }
 
+const ATTRIBUTE_OF: Readonly<Record<string, string>> = {
+  [STRENGTH_PAGE]: "strength",
+  [ENDURANCE_PAGE]: "endurance",
+  [CONSTITUTION_PAGE]: "constitution",
+  [WISDOM_PAGE]: "wisdom",
+  [INTELLIGENCE_PAGE]: "intelligence",
+  [CHARISMA_PAGE]: "charisma",
+}
+
 const OFF_THE_DAY = [
   STRENGTH_PAGE,
   ENDURANCE_PAGE,
@@ -140,7 +150,11 @@ export async function readAttributes(now: Date = new Date()): Promise<Taken> {
 
 export async function takeReadings(root: string, now: Date = new Date()): Promise<Taken> {
   const taken = await readAttributes(now)
-  for (const [page, value] of Object.entries(taken.kept)) keepReading(root, page, value, now)
+  for (const [page, value] of Object.entries(taken.kept)) {
+    keepReading(root, page, value, now)
+    const slug = ATTRIBUTE_OF[page]
+    if (slug !== undefined) keepPointsToday(root, slug, value)
+  }
   return taken
 }
 

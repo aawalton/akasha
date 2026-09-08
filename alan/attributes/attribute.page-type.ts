@@ -22,6 +22,7 @@ export const attribute = {
   pluralSlug: "attributes",
   extendsSlug: ["page-type/domain"],
   partSlugs: [
+    "module/attribute-points",
     "computed-property/attribute-level",
     "attribute/charisma",
     "attribute/constitution",
