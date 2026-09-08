@@ -5,7 +5,7 @@ export const codeTests = {
   pageTypeSlug: "module",
   slug: "code-tests",
   definition:
-    "setting a change up as a tree of its own, running the tests in it, and reading what the run said",
+    "a tree written for a change, the runs made over the tests named, and what those runs said",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
