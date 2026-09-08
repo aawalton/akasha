@@ -10,5 +10,6 @@ export const changeMechanicalFileContentRemove = {
     "change-mechanical-file-content/remove-page-property",
     "change-mechanical-file-content/remove-property-value",
     "change-mechanical-file-content/remove-property-record",
+    "change-mechanical-file-content/remove-type-member",
   ],
 } as const satisfies Domain
