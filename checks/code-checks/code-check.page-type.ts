@@ -31,6 +31,7 @@ export const codeCheck = {
     "file-property/entries",
     "code-check/calculation-imports-only-types",
     "code-check/check-reaches-a-path-through-the-index",
+    "code-check/client-reaches-a-server-module-through-a-route",
     "code-check/client-reaches-pages-through-its-hooks",
     "code-check/domain-is-named-by-a-parent",
     "code-check/email-address-is-well-formed",
