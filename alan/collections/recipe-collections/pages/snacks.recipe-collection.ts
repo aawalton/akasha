@@ -5,7 +5,7 @@ export const snacks = {
   pageTypeSlug: "recipe-collection",
   slug: "snacks",
   title: "Snacks",
-  partOfSlugs: ["recipes"],
+  partOfCollectionSlugs: ["recipes"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

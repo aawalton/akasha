@@ -6,7 +6,7 @@ export const missingSimulator = {
   slug: "missing-simulator",
   title: "The missing simulator",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

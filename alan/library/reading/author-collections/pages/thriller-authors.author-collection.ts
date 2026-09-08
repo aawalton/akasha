@@ -5,7 +5,7 @@ export const thrillerAuthors = {
   pageTypeSlug: "author-collection",
   slug: "thriller-authors",
   title: "Thriller Authors",
-  partOfSlugs: ["authors"],
+  partOfCollectionSlugs: ["authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

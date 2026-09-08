@@ -8,7 +8,7 @@ export const autismDiagnosticArc = {
   sectionOfSlug: "all-about-alan",
   description:
     'Autism diagnostic arc — late realization at 38, the prior "stress disorder" framing, the breaking event, and the catastrophic phase.',
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

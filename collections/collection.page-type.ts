@@ -23,7 +23,7 @@ export type Collection = Page & {
   following?: Following
   ownLength?: OwnLength
   ownProgress?: OwnProgress
-  partOfSlugs?: PartOfSlugs
+  partOfCollectionSlugs?: PartOfSlugs
   partsLengthInWords?: PartsLengthInWords
   partsProgressInWords?: PartsProgressInWords
   position?: Position

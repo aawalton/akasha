@@ -6,7 +6,7 @@ export const identityRecoveryAnchor = {
   slug: "identity-recovery-anchor",
   title: "Identity-recovery anchor",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

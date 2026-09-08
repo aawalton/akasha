@@ -8,7 +8,7 @@ export const autismComorbidities = {
   sectionOfSlug: "all-about-alan",
   description:
     "Autism comorbidities — mechanism hypothesis (regulatory-NS protein-pathway changes broaden NS-disorder risk) and Alan's triaged profile.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

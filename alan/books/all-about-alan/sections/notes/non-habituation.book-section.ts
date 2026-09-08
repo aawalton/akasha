@@ -8,7 +8,7 @@ export const nonHabituation = {
   sectionOfSlug: "all-about-alan",
   description:
     "Non-habituation — autism mechanism root; sensory habituation that doesn't happen, and the costs that follow.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

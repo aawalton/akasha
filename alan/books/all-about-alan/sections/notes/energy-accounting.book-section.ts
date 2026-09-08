@@ -7,7 +7,7 @@ export const energyAccounting = {
   title: "Energy accounting practice",
   sectionOfSlug: "all-about-alan",
   description: "Energy-accounting practice — 10+ years of minute-level resource tracking.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

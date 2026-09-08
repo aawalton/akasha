@@ -6,7 +6,7 @@ export const higherSelfAccess = {
   slug: "higher-self-access",
   title: "Higher-self access — every route is indirect",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

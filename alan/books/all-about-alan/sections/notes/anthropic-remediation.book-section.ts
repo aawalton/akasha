@@ -6,7 +6,7 @@ export const anthropicRemediation = {
   slug: "anthropic-remediation",
   title: "Anthropic remediation",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

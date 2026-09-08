@@ -5,7 +5,7 @@ export const cookies = {
   pageTypeSlug: "recipe-collection",
   slug: "cookies",
   title: "Cookies",
-  partOfSlugs: ["dessert"],
+  partOfCollectionSlugs: ["dessert"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const westernsAuthors = {
   pageTypeSlug: "author-collection",
   slug: "westerns-authors",
   title: "Westerns Authors",
-  partOfSlugs: ["authors"],
+  partOfCollectionSlugs: ["authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

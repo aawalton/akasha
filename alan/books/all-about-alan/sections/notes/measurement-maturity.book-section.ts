@@ -6,7 +6,7 @@ export const measurementMaturity = {
   slug: "measurement-maturity",
   title: "Measurement maturity",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

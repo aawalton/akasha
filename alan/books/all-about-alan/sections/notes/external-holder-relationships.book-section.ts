@@ -6,7 +6,7 @@ export const externalHolderRelationships = {
   slug: "external-holder-relationships",
   title: "Relationships held from the outside",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

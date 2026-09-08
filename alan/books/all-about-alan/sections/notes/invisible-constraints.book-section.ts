@@ -6,7 +6,7 @@ export const invisibleConstraints = {
   slug: "invisible-constraints",
   title: "Invisible constraints",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

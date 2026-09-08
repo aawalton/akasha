@@ -6,7 +6,7 @@ export const perfectKnowledge = {
   slug: "perfect-knowledge",
   title: "Perfect knowledge — the two oracles, the tick, and scale-freedom",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

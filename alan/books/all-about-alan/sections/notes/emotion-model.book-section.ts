@@ -6,7 +6,7 @@ export const emotionModel = {
   slug: "emotion-model",
   title: "Emotion model — sensation + narrative",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

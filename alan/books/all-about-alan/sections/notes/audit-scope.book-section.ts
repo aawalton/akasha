@@ -6,7 +6,7 @@ export const auditScope = {
   slug: "audit-scope",
   title: "Audit scope",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

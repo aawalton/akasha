@@ -6,7 +6,7 @@ export const connectionEfficacyModel = {
   slug: "connection-efficacy-model",
   title: "Connection efficacy model",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

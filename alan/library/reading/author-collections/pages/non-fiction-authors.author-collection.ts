@@ -5,7 +5,7 @@ export const nonFictionAuthors = {
   pageTypeSlug: "author-collection",
   slug: "non-fiction-authors",
   title: "Non-Fiction Authors",
-  partOfSlugs: ["authors"],
+  partOfCollectionSlugs: ["authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

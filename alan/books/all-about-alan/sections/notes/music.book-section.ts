@@ -6,7 +6,7 @@ export const music = {
   slug: "music",
   title: "Music as cross-cutting bridge",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

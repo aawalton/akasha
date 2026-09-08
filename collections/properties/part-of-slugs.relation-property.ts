@@ -8,7 +8,7 @@ export const partOfSlugs = {
   id: "01a063de-2c60-700b-8db4-bed38f86b940",
   pageTypeSlug: "relation-property",
   slug: "part-of-slugs",
-  propertySlug: "part-of-slugs",
+  propertySlug: "part-of-collection-slugs",
   definition: "the collections a collection is part of",
   targetPageTypeSlug: "page-type/collection",
   invariants: [

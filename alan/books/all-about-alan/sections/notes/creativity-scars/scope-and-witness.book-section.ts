@@ -6,7 +6,7 @@ export const scopeAndWitness = {
   slug: "scope-and-witness",
   title: "Creativity scars — scope and the witness confound",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

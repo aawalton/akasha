@@ -6,7 +6,7 @@ export const feelingThroughStory = {
   slug: "feeling-through-story",
   title: "Feeling through story",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -6,7 +6,7 @@ export const ballroomDerivedBodyControl = {
   slug: "ballroom-derived-body-control",
   title: "Ballroom-derived body control",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

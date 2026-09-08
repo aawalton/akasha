@@ -6,7 +6,7 @@ export const absoluteTruthAndEthics = {
   slug: "absolute-truth-and-ethics",
   title: "Absolute truth and ethics",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

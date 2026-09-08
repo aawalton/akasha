@@ -8,7 +8,7 @@ export const autismMisconceptions = {
   sectionOfSlug: "all-about-alan",
   description:
     "What common autism descriptions get wrong about Alan — empathy, bluntness, routines, transitions, theory of mind, functioning labels.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

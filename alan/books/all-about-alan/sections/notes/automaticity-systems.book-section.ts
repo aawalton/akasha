@@ -8,7 +8,7 @@ export const automaticitySystems = {
   sectionOfSlug: "all-about-alan",
   description:
     'Automaticity in Alan\'s brain — five distinct routes to "becoming automatic", three reduced and two intact.',
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

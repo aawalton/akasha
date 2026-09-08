@@ -6,7 +6,7 @@ export const alternationNotModeration = {
   slug: "alternation-not-moderation",
   title: "Alternation, not moderation",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

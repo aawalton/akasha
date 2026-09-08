@@ -5,7 +5,7 @@ export const churchScholars = {
   pageTypeSlug: "author-collection",
   slug: "church-scholars",
   title: "Church Scholars",
-  partOfSlugs: ["faith-collections"],
+  partOfCollectionSlugs: ["faith-collections"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,
