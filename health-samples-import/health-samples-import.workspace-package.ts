@@ -21,7 +21,7 @@ export const healthSamplesImport = {
     {
       invariantKind: "departure",
       statement:
-        "A reading is fetched over a shell on the machine holding the export rather than from anything that machine serves.",
+        "A reading is fetched over a shell rather than from anything the machine holding the export serves.",
     },
     {
       invariantKind: "departure",
