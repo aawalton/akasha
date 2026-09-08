@@ -15,11 +15,14 @@
   --font-read: "Literata Variable", "Literata Fallback", "Iowan Old Style", Georgia, Cambria, serif;
 }
 
-@source "../../../design/system/**/*.{ts,tsx}";
+@source "../../chess/**/*.{ts,tsx}";
 @source "../../../design/badges/**/*.{ts,tsx}";
-@source "../../../design/layout/**/*.{ts,tsx}";
 @source "../../../design/forms/**/*.{ts,tsx}";
+@source "../../../design/layout/**/*.{ts,tsx}";
 @source "../../../design/patterns/**/*.{ts,tsx}";
 @source "../../../design/primitives/**/*.{ts,tsx}";
+@source "../../../design/system/**/*.{ts,tsx}";
+@source "../../../errors-client/**/*.{ts,tsx}";
 @source "../../../pages/ui/**/*.{ts,tsx}";
-@source "../idle-*/**/*.{ts,tsx}";
+@source "../../../persons/**/*.{ts,tsx}";
+@source "../../../supabase-rr/**/*.{ts,tsx}";

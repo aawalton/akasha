@@ -3,14 +3,20 @@
 @import "@akasha/design-system/styles.css";
 @import "tw-animate-css";
 
-@source "../../../design/system/**/*.{ts,tsx}";
 @source "../../../design/badges/**/*.{ts,tsx}";
-@source "../../../design/layout/**/*.{ts,tsx}";
 @source "../../../design/forms/**/*.{ts,tsx}";
+@source "../../../design/layout/**/*.{ts,tsx}";
 @source "../../../design/patterns/**/*.{ts,tsx}";
 @source "../../../design/primitives/**/*.{ts,tsx}";
+@source "../../../design/system/**/*.{ts,tsx}";
+@source "../../../errors-client/**/*.{ts,tsx}";
 @source "../../../pages/ui/**/*.{ts,tsx}";
-@source "../../**/*.{ts,tsx}";
+@source "../../../supabase-rr/**/*.{ts,tsx}";
+@source "../../temper-characters-equipment-ui/**/*.{ts,tsx}";
+@source "../../temper-player-completion-skills-morphs-ui/**/*.{ts,tsx}";
+@source "../../temper-player-completion-ui/**/*.{ts,tsx}";
+@source "../../temper-player-economics-ui/**/*.{ts,tsx}";
+@source "../../temper-player-inventory-management-ui/**/*.{ts,tsx}";
 
 [data-label].enclosing {
   cursor: pointer;

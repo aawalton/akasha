@@ -54,6 +54,10 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
+      statement: "The source globs are worked out before the hold is taken alongside those five.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every road that lands works those three out through one step here.",
     },
     {
