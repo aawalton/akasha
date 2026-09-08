@@ -51,6 +51,14 @@ export const lualibPages = {
     },
     {
       invariantKind: "departure",
+      statement: "Two pages naming one lualib feature refuse the build.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names both pages' paths and the feature the two name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page whose code file is not there is passed over.",
     },
     {

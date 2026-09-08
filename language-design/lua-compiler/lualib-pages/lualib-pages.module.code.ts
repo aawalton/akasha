@@ -79,6 +79,7 @@ export function sourcesFrom(
   if (pages.length === 0) return { rootNames: scanned, featureBySourceName }
 
   const stated = new Map<LuaLibFeature, string>()
+  const claimedBy = new Map<LuaLibFeature, string>()
   for (const page of pages) {
     const feature = featureNamed(page.luaExport)
     if (feature === null) {
@@ -86,6 +87,13 @@ export function sourcesFrom(
         `lualib pages: ${page.pagePath} states lua-export "${page.luaExport}", which names no lualib feature`
       )
     }
+    const taken = claimedBy.get(feature)
+    if (taken !== undefined) {
+      throw new Error(
+        `lualib pages: ${taken} and ${page.pagePath} both name the lualib feature "${feature}"`
+      )
+    }
+    claimedBy.set(feature, page.pagePath)
     const lua50Path = page.lua50CodePath
     stated.set(feature, lua50 && lua50Path !== null ? lua50Path : page.codePath)
   }

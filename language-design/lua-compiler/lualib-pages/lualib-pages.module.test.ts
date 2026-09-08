@@ -77,6 +77,24 @@ test("a build for Lua 5.0 passes over the scanned code file of a page holding Lu
   expect(held.rootNames).toContain(UNPACK_LUA50)
 })
 
+test("two pages naming one lualib feature refuse the build", () => {
+  const bare: LualibPage = {
+    pagePath: "/lua-compiler/lualibs/well-known-symbols/well-known-symbols.lualib.ts",
+    luaExport: "Symbol",
+    codePath: "/lua-compiler/lualibs/well-known-symbols/well-known-symbols.lualib.code.ts",
+    lua50CodePath: null,
+  }
+  const prefixed: LualibPage = {
+    pagePath: "/lua-compiler/lualibs/symbol/symbol.lualib.ts",
+    luaExport: "__TS__Symbol",
+    codePath: "/lua-compiler/lualibs/symbol/symbol.lualib.code.ts",
+    lua50CodePath: null,
+  }
+  expect(() => sourcesFrom(SCANNED, [bare, prefixed], false)).toThrow(
+    'well-known-symbols.lualib.ts and /lua-compiler/lualibs/symbol/symbol.lualib.ts both name the lualib feature "Symbol"'
+  )
+})
+
 test("a page naming no lualib feature either way refuses the build", () => {
   const named: LualibPage = {
     pagePath: "/lua-compiler/lualibs/nowhere/nowhere.lualib.ts",
