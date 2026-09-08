@@ -21,10 +21,18 @@ export interface PayloadMirror {
 const READOUTS = "../akasha/readouts"
 const ROUTES = "alan/web/routes"
 
+const GROUP_SERVING = "readouts/group-serving/readout-group-serving.module.code.ts"
+
 const STOPLIGHTS_BODY: CanonicalRef = {
-  file: "readouts/group-serving/readout-group-serving.module.code.ts",
+  file: GROUP_SERVING,
   anchor: "return Response.json(",
   kind: "body",
+}
+
+const STOPLIGHT_MEMBERS: CanonicalRef = {
+  file: GROUP_SERVING,
+  anchor: "export type Stoplight = {",
+  kind: "members",
 }
 
 export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
@@ -66,26 +74,10 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
     unit: "key",
   },
   { struct: "SafetyLevelResponse", canonical: STOPLIGHTS_BODY, unit: "key" },
-  {
-    struct: "HabitStoplight",
-    canonical: {
-      file: `${READOUTS}/upkeep-stoplights.ts`,
-      anchor: "export interface UpkeepStoplight extends StoplightRing {",
-      kind: "members",
-    },
-    unit: "key",
-  },
+  { struct: "HabitStoplight", canonical: STOPLIGHT_MEMBERS, unit: "key" },
   { struct: "SurplusResponse", canonical: STOPLIGHTS_BODY, unit: "key" },
   { struct: "UpkeepStoplightsResponse", canonical: STOPLIGHTS_BODY, unit: "key" },
-  {
-    struct: "UpkeepStoplight",
-    canonical: {
-      file: `${READOUTS}/upkeep-stoplights.ts`,
-      anchor: "export interface UpkeepStoplight extends StoplightRing {",
-      kind: "members",
-    },
-    unit: "key",
-  },
+  { struct: "UpkeepStoplight", canonical: STOPLIGHT_MEMBERS, unit: "key" },
 ]
 
 const BY_STRUCT = new Map(PAYLOAD_MIRRORS.map((mirror) => [mirror.struct, mirror]))
