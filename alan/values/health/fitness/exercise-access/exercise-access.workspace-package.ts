@@ -9,7 +9,6 @@ export const exerciseAccess = {
   partSlugs: [
     "module/exercise-load-model",
     "module/exercise-rows",
-    "module/exercise-vocabulary",
     "module/free-exercise-row",
     "module/set-history",
   ],
