@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const inferenceUpscale = {
   id: "01a0685e-fd50-7de7-851b-a0d871ef8910",

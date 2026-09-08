@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const imessageSend = {
   id: "01a0685f-c8ed-7004-8926-65ffc06d2862",

@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const musicSearch = {
   id: "01a062f8-ead9-70cb-ae30-58a51b7fc488",

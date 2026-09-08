@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const temperAutoQuestTrace = {
   id: "01a0603c-c1cb-7f65-8427-70fc0c00d3cf",

@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const modelGatewayStart = {
   id: "01a069b9-74bd-7486-be0b-a850ee00342c",

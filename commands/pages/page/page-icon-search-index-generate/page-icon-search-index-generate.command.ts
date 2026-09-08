@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const pageIconSearchIndexGenerate = {
   id: "01a06862-06c8-7004-83db-2d1d50b06017",

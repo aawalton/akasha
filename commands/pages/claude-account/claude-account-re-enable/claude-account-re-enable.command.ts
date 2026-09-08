@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const claudeAccountReEnable = {
   id: "01a06861-b463-71ad-922e-5b006cdebd6f",

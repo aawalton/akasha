@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const talosConfigGen = {
   id: "01a06809-a024-740f-b1cb-f3271877bd51",

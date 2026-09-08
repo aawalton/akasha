@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const emailUnsubscribe = {
   id: "01a06810-cf11-7b83-a5f8-81736bc497fb",

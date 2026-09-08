@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const inferencePlan = {
   id: "01a0685e-fd50-7fd6-9550-aa217e15a4b1",

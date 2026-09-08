@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const talosHealth = {
   id: "01a06810-1f0b-7aac-ab38-a6658f91ee11",

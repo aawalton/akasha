@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const talosRemoteInstall = {
   id: "01a06810-1f0b-741e-a044-c84fec558b56",

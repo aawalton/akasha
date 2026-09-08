@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const shellInitBash = {
   id: "01a0680a-fa30-7da6-aede-88d6a9a5e49a",

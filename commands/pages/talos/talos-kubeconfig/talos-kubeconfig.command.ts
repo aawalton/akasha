@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const talosKubeconfig = {
   id: "01a06810-1f0b-744f-aff5-3618b540bf6c",

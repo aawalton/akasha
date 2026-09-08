@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const learnNext = {
   id: "01a077e6-d20c-7398-9b0e-d8ecbb15cba7",
