@@ -351,5 +351,6 @@ export const temperWeb = {
     "route/api-shopping-optimize",
     "route/catalog",
     "route/cli-link",
+    "route/completion",
   ],
 } as const satisfies RouterApp

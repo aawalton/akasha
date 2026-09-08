@@ -5,7 +5,7 @@ const PAGE_ROUTES: RouteConfig = [
     route("home", "routes/home.tsx"),
     route("catalog", "routes/catalog/catalog.route.code.tsx"),
     route("cli-link", "routes/cli-link/cli-link.route.code.tsx"),
-    route("completion", "routes/completion.tsx"),
+    route("completion", "routes/completion/completion.route.code.tsx"),
     route(
       "completion/u/:userId",
       "routes/temper-user-completion/temper-user-completion.route.code.tsx"
