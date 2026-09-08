@@ -6,7 +6,7 @@ import { whyOf } from "@akasha/command-system/fault-saying"
 import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { DEFAULT_CLUSTER_NAME } from "@akasha/talos/nodes"
 import { clusterSecretsSopsPath } from "@akasha/talos/paths"
-import { encryptFile } from "@akasha/talos/talos-sops"
+import { encryptFile } from "@akasha/talos/sops"
 import { runTalosctl } from "@akasha/talos/talosctl"
 
 export const CLUSTER = "--cluster"

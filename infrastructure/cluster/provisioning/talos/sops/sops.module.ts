@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code/module"
 
-export const talosSops = {
+export const sops = {
   id: "01a06813-7b0f-715d-8205-05e5a2b14b85",
   pageTypeSlug: "module",
-  slug: "talos-sops",
+  slug: "sops",
   definition: "a spawned `sops` decrypting to a temporary file and encrypting back to one",
   code: "ts",
   invariants: [
