@@ -10,7 +10,7 @@ export const ruleMatcherContextCurseState = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A character carrying neither curse answers as nothing.",
+      statement: "A character with neither curse answers as nothing.",
     },
   ],
 } as const satisfies Module

@@ -9,7 +9,7 @@ export const potionRestoreResolve = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A potion carrying crafted effects is known by those effects rather than by id.",
+      statement: "A potion with crafted effects is known by those effects rather than by id.",
     },
     {
       invariantKind: "departure",

@@ -14,7 +14,7 @@ export const traitsFilter = {
     {
       invariantKind: "departure",
       statement:
-        "The traits offered are the traits the item family named by the category can carry.",
+        "The traits offered are the traits the item family named by the category can have.",
     },
   ],
 } as const satisfies Module

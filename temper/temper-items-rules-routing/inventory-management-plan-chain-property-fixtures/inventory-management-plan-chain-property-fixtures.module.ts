@@ -9,11 +9,11 @@ export const inventoryManagementPlanChainPropertyFixtures = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A generated chain carries at least a tail tier.",
+      statement: "A generated chain has at least a tail tier.",
     },
     {
       invariantKind: "departure",
-      statement: "A bounded chain carries a target quantity on every tier.",
+      statement: "A bounded chain has a target quantity on every tier.",
     },
     {
       invariantKind: "departure",

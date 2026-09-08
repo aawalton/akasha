@@ -13,7 +13,7 @@ export const orderListBoxBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carries the entry shown rather than the index of the row.",
+      statement: "A row has the entry shown rather than the index of the row.",
     },
   ],
 } as const satisfies Module

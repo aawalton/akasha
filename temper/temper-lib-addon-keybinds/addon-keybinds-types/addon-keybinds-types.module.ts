@@ -13,11 +13,11 @@ export const addonKeybindsTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carries a type number.",
+      statement: "A row has a type number.",
     },
     {
       invariantKind: "departure",
-      statement: "A keybind row also carries the name of the action bound.",
+      statement: "A keybind row also has the name of the action bound.",
     },
   ],
 } as const satisfies Module

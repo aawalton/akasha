@@ -13,7 +13,7 @@ export const keybinderPublicApi = {
     },
     {
       invariantKind: "departure",
-      statement: "The global carries the one toggle and nothing more.",
+      statement: "The global has the one toggle and nothing more.",
     },
   ],
 } as const satisfies Module

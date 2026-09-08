@@ -17,7 +17,7 @@ export const useDestinationResolver = {
     },
     {
       invariantKind: "departure",
-      statement: "A consumable carries no claim.",
+      statement: "A consumable has no claim.",
     },
     {
       invariantKind: "departure",

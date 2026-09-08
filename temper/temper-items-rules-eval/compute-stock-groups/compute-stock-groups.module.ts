@@ -9,7 +9,7 @@ export const computeStockGroups = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Only rules carrying allStocked or targetQuantity get a stock group.",
+      statement: "Only rules with allStocked or targetQuantity get a stock group.",
     },
     {
       invariantKind: "departure",

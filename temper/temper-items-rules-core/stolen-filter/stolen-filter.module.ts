@@ -18,7 +18,7 @@ export const stolenFilter = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule carrying the `crafted` condition is offered no Stolen Status condition.",
+      statement: "A rule with the `crafted` condition is offered no Stolen Status condition.",
     },
   ],
 } as const satisfies Module

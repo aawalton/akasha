@@ -9,7 +9,7 @@ export const inventoryRuleMatcherPropertyFixtures = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A generated list of rules carries no two rules of one id.",
+      statement: "A generated list of rules has no two rules of one id.",
     },
     {
       invariantKind: "departure",

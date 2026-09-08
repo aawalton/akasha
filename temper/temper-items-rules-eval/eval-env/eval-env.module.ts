@@ -18,7 +18,7 @@ export const evalEnv = {
     {
       invariantKind: "departure",
       statement:
-        "The evaluation context carries the claim map and the stock groups beside the environment.",
+        "The evaluation context has the claim map and the stock groups beside the environment.",
     },
     {
       invariantKind: "constraint",

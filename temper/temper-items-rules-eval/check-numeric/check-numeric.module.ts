@@ -24,7 +24,7 @@ export const checkNumeric = {
     {
       invariantKind: "departure",
       statement:
-        "An item carrying no value signal satisfies a zero threshold under <= and nothing higher.",
+        "An item with no value signal satisfies a zero threshold under <= and nothing higher.",
     },
   ],
 } as const satisfies Module

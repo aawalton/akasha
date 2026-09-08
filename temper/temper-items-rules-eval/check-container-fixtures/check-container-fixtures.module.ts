@@ -18,7 +18,7 @@ export const checkContainerFixtures = {
     },
     {
       invariantKind: "absence",
-      statement: "The stub context carries no claim map and no stock groups.",
+      statement: "The stub context has no claim map and no stock groups.",
     },
   ],
 } as const satisfies Module

@@ -9,7 +9,7 @@ export const inventoryConsolidateDest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A destination gathering stock is known by the name the destination carries.",
+      statement: "A destination gathering stock is known by the name the destination has.",
     },
   ],
 } as const satisfies Module

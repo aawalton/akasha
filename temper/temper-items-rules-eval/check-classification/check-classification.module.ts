@@ -21,7 +21,7 @@ export const checkClassification = {
     },
     {
       invariantKind: "absence",
-      statement: "An item carrying no set id skips the set source type check entirely.",
+      statement: "An item with no set id skips the set source type check entirely.",
     },
   ],
 } as const satisfies Module

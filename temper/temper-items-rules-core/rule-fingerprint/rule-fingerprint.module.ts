@@ -9,11 +9,11 @@ export const ruleFingerprint = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Two rules matching the same items carry the same fingerprint.",
+      statement: "Two rules matching the same items have the same fingerprint.",
     },
     {
       invariantKind: "departure",
-      statement: "A filter carrying no condition on a rule adds nothing to that rule's string.",
+      statement: "A filter with no condition on a rule adds nothing to that rule's string.",
     },
   ],
 } as const satisfies Module

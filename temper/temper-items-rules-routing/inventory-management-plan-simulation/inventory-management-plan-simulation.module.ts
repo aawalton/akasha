@@ -9,7 +9,7 @@ export const inventoryManagementPlanSimulation = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A simulated step changes only the state the simulation carries.",
+      statement: "A simulated step changes only the state the simulation has.",
     },
     {
       invariantKind: "absence",

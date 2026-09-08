@@ -14,7 +14,7 @@ export const inventoryManagementPlanRouteHelpers = {
     },
     {
       invariantKind: "departure",
-      statement: "An item carrying no captured value contributes nothing to a total.",
+      statement: "An item with no captured value contributes nothing to a total.",
     },
   ],
 } as const satisfies Module

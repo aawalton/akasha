@@ -13,7 +13,7 @@ export const inventoryManagementPlanGrouping = {
     },
     {
       invariantKind: "departure",
-      statement: "An item carrying no value leaves the group total unknown.",
+      statement: "An item with no value leaves the group total unknown.",
     },
   ],
 } as const satisfies Module

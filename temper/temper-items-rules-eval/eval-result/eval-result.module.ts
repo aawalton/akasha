@@ -9,7 +9,7 @@ export const evalResult = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every rejection carries a reason naming which stage rejected the rule.",
+      statement: "Every rejection has a reason naming which stage rejected the rule.",
     },
     {
       invariantKind: "departure",
