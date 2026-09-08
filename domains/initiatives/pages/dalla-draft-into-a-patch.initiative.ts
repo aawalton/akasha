@@ -44,9 +44,9 @@ export const dallaDraftIntoAPatch = {
         "`change-draft`, `change-apply` and `change-drop` are the acts, and `change-apply` works on a patch rather than making one. Every other command declares `change-mechanical` and lands through `runMechanicalChange`, which is right. `landedMechanically` takes an `agentId` that drafts rather than lands, and no caller hands one.",
     },
     {
-      statement: "The patch a landing works out is held by no page property.",
+      statement: "A draft survives between commands in the store an agent's page declares.",
       workingMemory:
-        "`patch-keeping` keeps `<agent page>.patch.diff` beside the agent's page, `command-system/drafting` is its only caller, and `agents/package.json` exports it. No property on `agent.page-type.ts` declares that file, though the path index names it by the same rule, so there is no property to drop. The `edits` jsonl is the declared store. What is left is for `drafting` to work the patch out in memory and let `patch-keeping` go.",
+        "`drafting` writes and commits `<agent page>.patch.diff`, which no page declares, and `patchIn` reads it back in a later process, so a draft crosses between commands through it. The declared `edits` file is `uncommitted: true`. The successor exists: `edits-keeping`, `edits-landing`, and `subagent-handed:37` finds handed work through `editsAt(page)`. Two readers of the patch remain, both in the frozen presence file: `patchesUnder:205` spells the name by hand, and `:170` calls `tookIn`.",
     },
     {
       statement: "Every property a command's page type declares is read.",
