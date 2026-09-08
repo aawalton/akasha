@@ -129,6 +129,10 @@ export const read = {
     },
     {
       invariantKind: "departure",
+      statement: "The call for the rest of a read naming no file is that read again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A read records the body that reached the agent that read was for.",
     },
     {

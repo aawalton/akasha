@@ -2,7 +2,14 @@ import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, partly, readingIn, sameBody } from "../../reading/reading.module.code.ts"
-import { ANSWER_CEILING, costOf, NO_AGENT, noSeatFor, readWith } from "./read.command.code.ts"
+import {
+  ANSWER_CEILING,
+  costOf,
+  NO_AGENT,
+  noSeatFor,
+  readWith,
+  restCall,
+} from "./read.command.code.ts"
 import {
   AGENT,
   BIN,
@@ -378,4 +385,10 @@ test("a long body comes back alone, whether it is named first or after another f
 
 test("--full and a body that moved both begin a long body again at its first line", () => {
   for (const one of begunAgain()) expect(one).toContain("lines 1 ")
+})
+
+test("a read naming no file names that same read for the rest", () => {
+  const left = [{ named: HELD, absolute: HELD }]
+  expect(restCall(CALLED_AS, left, true)[1]).toBe(CALLED_AS)
+  expect(restCall(CALLED_AS, left, false)[1]).toBe(`${CALLED_AS} --file-path ${HELD}`)
 })

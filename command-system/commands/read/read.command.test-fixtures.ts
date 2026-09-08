@@ -66,9 +66,6 @@ export const SEAT_PAGE = "seat-system/seats/pages/held.seat.ts"
 
 export const BIN = "akasha/one/held.bin"
 
-// WHICH SEAT PAGE A BARE READ REACHES IS SAID BY THE TEST RATHER THAN BY THE FLEET. The command
-// resolves it against akasha's own index of seats, which no scratch root holds, so a test says what
-// that resolution answers, and the resolution itself is exercised by hand against the checkout.
 const SEATLESS: SeatAt = () => null
 
 export function seatedAt(at: string): SeatAt {
@@ -342,7 +339,7 @@ export function priced(): Priced {
     { named: two, absolute: two },
     { named: three, absolute: three },
   ]
-  const call = restCall(CALLED_AS, left)
+  const call = restCall(CALLED_AS, left, false)
   const held =
     costOf(linesFor(THING_TYPE, bodyOf(THING_BODY))) + costOf(linesFor(two, bodyOf(body)))
   const want = ANSWER_CEILING - Math.floor(costOf(call) / 2) - held

@@ -60,9 +60,6 @@ export const NO_AGENT = [
 
 export type SeatAt = (agentId: string) => string | null
 
-// A CALLER IDENTIFIED AND A CALLER SEATED ARE DIFFERENT FAULTS. `NO_AGENT` says nothing named who
-// called; this says who called and that no seat page is filed under that name. Answering the two
-// the same way would send an agent looking for an unset variable that is set.
 export function noSeatFor(agentId: string): string {
   return [
     `A read naming no file reads your own seat page, and akasha holds no seat page for \`${agentId}\`,`,
@@ -99,7 +96,11 @@ export function costOf(lines: readonly string[]): number {
   return total
 }
 
-export function restCall(calledAs: string, left: readonly Target[]): readonly string[] {
+export function restCall(
+  calledAs: string,
+  left: readonly Target[],
+  bare: boolean
+): readonly string[] {
   if (left.length === 0) return []
   const one = left.length === 1
   const named = left.map((at) => `${FILE_PATH} ${at.named}`).join(" ")
@@ -107,7 +108,7 @@ export function restCall(calledAs: string, left: readonly Target[]): readonly st
     `${left.length} file${one ? "" : "s"} ${one ? "was" : "were"} left unread here: the rest of the set ` +
       `runs past the ${ANSWER_CEILING} bytes one answer holds, and a read takes no line range, so no ` +
       "file is broken off partway to fit. This call takes what is left:",
-    `${calledAs} ${named}`,
+    bare ? calledAs : `${calledAs} ${named}`,
   ]
 }
 
@@ -295,9 +296,10 @@ export function readWith(
   if (agentId === null) return { report: [], refusals: [NO_AGENT], code: 1 }
   const meant = meaning(argv)
   if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
-  const named = meant.paths.length > 0 ? meant.paths : ownSeatIn(agentId, seatAt)
-  if (named === null) return { report: [], refusals: [noSeatFor(agentId)], code: 1 }
-  const aimed = aiming(named, given)
+  const bare = meant.paths.length === 0
+  const asked = bare ? ownSeatIn(agentId, seatAt) : meant.paths
+  if (asked === null) return { report: [], refusals: [noSeatFor(agentId)], code: 1 }
+  const aimed = aiming(asked, given)
   if (aimed.refusals.length > 0) return { report: [], refusals: aimed.refusals, code: 1 }
   const queue = spreading(aimed.targets, given)
   const report: string[] = []
@@ -336,7 +338,8 @@ export function readWith(
       }
       const over = queue.slice(order + 1)
       const away =
-        costOf(restCall(given.calledAs, over)) + overCost(given.calledAs, named, countLines(text))
+        costOf(restCall(given.calledAs, over, bare)) +
+        overCost(given.calledAs, named, countLines(text))
       const after = seen !== null && seen.oid === oid ? (reachOf(seen.readThrough) ?? 0) : 0
       const budget = Math.max(ANSWER_CEILING - spent - away, 0)
       const long = longAnswer({ calledAs: given.calledAs, named, text, after, budget })
@@ -356,7 +359,7 @@ export function readWith(
       })
       break
     }
-    if (taken > 0 && spent + cost + costOf(restCall(given.calledAs, rest)) > ANSWER_CEILING) {
+    if (taken > 0 && spent + cost + costOf(restCall(given.calledAs, rest, bare)) > ANSWER_CEILING) {
       left = rest
       break
     }
@@ -372,7 +375,7 @@ export function readWith(
       })
     }
   }
-  report.push(...restCall(given.calledAs, left))
+  report.push(...restCall(given.calledAs, left, bare))
   return { report, refusals, code: mistaken ? 1 : failed ? 3 : 0 }
 }
 
