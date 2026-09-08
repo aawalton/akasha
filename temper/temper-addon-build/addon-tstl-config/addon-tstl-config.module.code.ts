@@ -136,7 +136,7 @@ export type TstlConfigAsked = {
   readonly reachedDirs: readonly string[]
 }
 
-export function tstlConfigBody(asked: TstlConfigAsked): string {
+export function compilerConfigBody(asked: TstlConfigAsked): string {
   const addonsRoot = join(asked.repoRoot, ADDONS_REL_ROOT)
   const body = {
     extends: join(asked.repoRoot, ROOT_BASE_NAME),
@@ -191,6 +191,9 @@ export async function compilerConfigPathFor(
   mkdirSync(heldAt, { recursive: true })
   const path = join(heldAt, `${canonicalName}.${TSCONFIG_NAME}`)
   const reachedDirs = reachedPackageDirs(repoRoot, addonDir)
-  writeFileSync(path, tstlConfigBody({ repoRoot, addonDir, canonicalName, entryPath, reachedDirs }))
+  writeFileSync(
+    path,
+    compilerConfigBody({ repoRoot, addonDir, canonicalName, entryPath, reachedDirs })
+  )
   return path
 }

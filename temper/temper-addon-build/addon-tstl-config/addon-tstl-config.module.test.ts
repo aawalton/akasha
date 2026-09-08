@@ -4,10 +4,10 @@ import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import {
   bundleEntryPathIn,
+  compilerConfigBody,
   compilerConfigPathFor,
   esoAddonPagePathIn,
   reachedPackageDirs,
-  tstlConfigBody,
 } from "./addon-tstl-config.module.code.ts"
 
 const SCRATCH = scratchWorld()
@@ -44,7 +44,7 @@ test("a bundle entry slug becomes the path of that module's code", () => {
 
 test("the written settings name the entry, the bundle and the repository root", () => {
   const body: unknown = JSON.parse(
-    tstlConfigBody({
+    compilerConfigBody({
       repoRoot: "/repo",
       addonDir: "/repo/temper/temper-lib-table-functions",
       canonicalName: "TemperTableFunctions",
@@ -134,7 +134,7 @@ test("a package the addon reaches that the install left no link for refuses the 
 
 test("the written settings reach every declaration a package the addon reaches holds", () => {
   const body: unknown = JSON.parse(
-    tstlConfigBody({
+    compilerConfigBody({
       repoRoot: "/repo",
       addonDir: "/repo/temper/temper-collections-addon",
       canonicalName: "TemperCollections",
