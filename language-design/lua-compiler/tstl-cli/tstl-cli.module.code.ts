@@ -28,7 +28,7 @@ function createWatchStatusReporter(options?: ts.CompilerOptions): ts.WatchStatus
 
 function executeCommandLine(args: readonly string[]): undefined {
   const firstArg = args[0]
-  if (firstArg !== undefined && firstArg.startsWith("-")) {
+  if (firstArg?.startsWith("-") === true) {
     const firstOption = firstArg.slice(firstArg.startsWith("--") ? 2 : 1).toLowerCase()
     if (firstOption === "build" || firstOption === "b") {
       return performBuild(args.slice(1))
@@ -230,8 +230,8 @@ function updateWatchCompilationHost(
 function reportPerformance() {
   if (performance.isMeasurementEnabled()) {
     console.log("Performance measurements: ")
-    performance.forEachMeasure((name, duration) => {
-      console.log(`  ${name}: ${duration.toFixed(2)}ms`)
+    performance.forEachMeasure((measureName, duration) => {
+      console.log(`  ${measureName}: ${duration.toFixed(2)}ms`)
     })
     console.log(`Total: ${performance.getTotalDuration().toFixed(2)}ms`)
     performance.disableMeasurement()
