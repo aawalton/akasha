@@ -6,7 +6,7 @@ import {
   rowsOf,
   wantsJson,
   wordsIn,
-} from "../../../alan/fitness/commands/exercise-saying/exercise-saying.module.code.ts"
+} from "../../../alan/values/health/fitness/commands/exercise-saying/exercise-saying.module.code.ts"
 
 const SHAPE = { switches: [JSON_SAID] }
 

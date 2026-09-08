@@ -1,0 +1,46 @@
+import type { Module } from "../../../../../../code-system/modules/module.page-type.ts"
+
+export const exerciseRows = {
+  id: "01a0685c-7d80-71d9-9b6b-dfe5a1891ec2",
+  pageTypeSlug: "module",
+  slug: "exercise-rows",
+  definition: "the rows a fitness page type has in this checkout, and the fields on one row",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The rows are asked of the checkout this code runs in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row carries the keys its page type works out beside the keys its page states.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No row here is fetched over HTTP.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A field is named on a row as the page file names that field.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A field's value is the value the page file states rather than that value's text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A field that is no text and no number and no truth reads as absent.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The rows wanted and their order and their number are settled here rather than asked of a store.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A read that fails gives back the reason the rows went unread rather than throwing.",
+    },
+  ],
+} as const satisfies Module

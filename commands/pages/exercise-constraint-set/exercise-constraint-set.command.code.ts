@@ -17,7 +17,7 @@ import {
   JSON_SAID,
   proseIn,
   saidIn,
-} from "../../../alan/fitness/commands/exercise-said/exercise-said.module.code.ts"
+} from "../../../alan/values/health/fitness/commands/exercise-said/exercise-said.module.code.ts"
 
 const INPUT = 1
 

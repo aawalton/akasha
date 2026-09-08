@@ -4,7 +4,7 @@ import { boolIn, rowsFor, textIn, titleOf } from "@akasha/exercise-access/exerci
 import {
   JSON_SAID,
   saidIn,
-} from "../../../alan/fitness/commands/exercise-said/exercise-said.module.code.ts"
+} from "../../../alan/values/health/fitness/commands/exercise-said/exercise-said.module.code.ts"
 
 const INPUT = 1
 
