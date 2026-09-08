@@ -172,9 +172,8 @@ function inheritedOptions(
       }
     }
 
-    const stated = parsedConfig.luaCompiler ?? parsedConfig.tstl
-    if (stated) {
-      Object.assign(options, stated)
+    if (parsedConfig.luaCompiler) {
+      Object.assign(options, parsedConfig.luaCompiler)
     }
   }
 
