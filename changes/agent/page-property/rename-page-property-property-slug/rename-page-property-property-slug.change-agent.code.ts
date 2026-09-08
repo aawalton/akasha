@@ -39,9 +39,12 @@ const AT = "at"
 
 const TO = "to"
 
+const MOST = "most"
+
 export type RenamePagePropertyPropertySlugAsked = {
   readonly at: string
   readonly to: string
+  readonly most?: number | null
 }
 
 type Moving = { readonly from: string; readonly to: string }
@@ -56,6 +59,7 @@ type Spelling = {
   readonly was: string
   readonly to: string
   readonly beside: boolean
+  readonly most: number | null
 }
 
 type Reading = { readonly was: string; readonly id: string; readonly kind: string }
@@ -98,6 +102,7 @@ function spelledIn(world: World, paths: readonly string[], one: Spelling): Spell
   const carrying: string[] = []
   const moving: Moving[] = []
   for (const path of paths) {
+    if (one.most !== null && carrying.length >= one.most) break
     const held = pageIn(world, path)?.[one.key]
     if (held === undefined) continue
     carrying.push(path)
@@ -137,6 +142,7 @@ export async function renamePagePropertyPropertySlug(
       was: read.was,
       to: given.to,
       beside: read.kind === FILE_PROPERTY,
+      most: given.most ?? null,
     }
   )
   const answers: Answer[] = []
@@ -174,10 +180,21 @@ export async function renamePagePropertyPropertySlug(
 
 export type Asked = Readonly<Record<string, string>>
 
+export function mostIn(said: string | undefined): number | null | string {
+  if (said === undefined) return null
+  const held = Number(said)
+  if (!Number.isInteger(held) || held < 1) {
+    return `\`${said}\` is no count of pages, a count being a whole number above nothing`
+  }
+  return held
+}
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
   const to = given[TO]
   if (to === undefined) return refusing(missing(TO))
-  return await renamePagePropertyPropertySlug(world, { at, to })
+  const most = mostIn(given[MOST])
+  if (typeof most === "string") return refusing(most)
+  return await renamePagePropertyPropertySlug(world, { at, to, most })
 }

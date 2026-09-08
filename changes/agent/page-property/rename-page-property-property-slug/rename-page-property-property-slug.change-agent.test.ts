@@ -148,6 +148,52 @@ test("the key is spelled anew in camel on each page carrying it", async () => {
   ])
 })
 
+const BOTH: Readonly<Record<string, Value>> = {
+  ...VALUES,
+  "module/two": { id: "two", pageTypeSlug: "module", slug: "two", code: "ts" },
+}
+
+test("a count handed in holds how many pages the key is spelled anew on", async () => {
+  const reached: Reached[] = []
+
+  await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching(reached), BOTH), {
+    at: CODE_AT,
+    to: "code-file",
+    most: 1,
+  })
+
+  expect(reached.filter((one) => one.at === RENAME_KEY).map((one) => one.given)).toEqual([
+    { at: ONE_AT, was: "code", now: "codeFile" },
+  ])
+})
+
+test("a run handed no count spells the key anew on every page carrying that key", async () => {
+  const reached: Reached[] = []
+
+  await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching(reached), BOTH), {
+    at: CODE_AT,
+    to: "code-file",
+  })
+
+  expect(reached.filter((one) => one.at === RENAME_KEY).map((one) => one.given)).toEqual([
+    { at: ONE_AT, was: "code", now: "codeFile" },
+    { at: TWO_AT, was: "code", now: "codeFile" },
+  ])
+})
+
+test("a count that is no whole number above nothing is refused", async () => {
+  const said = await runChange(worldIn(BY_A_TYPE, watching([])), {
+    at: CODE_AT,
+    to: "code-file",
+    most: "none",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`none` is no count of pages, a count being a whole number above nothing"
+  )
+})
+
 test("the member the declaring page type declares is spelled anew", async () => {
   const reached: Reached[] = []
 

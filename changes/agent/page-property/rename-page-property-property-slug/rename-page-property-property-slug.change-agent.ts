@@ -34,6 +34,18 @@ export const renamePagePropertyPropertySlug = {
     },
     {
       invariantKind: "departure",
+      statement: "A count handed in holds how many pages the key is spelled anew on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run handed no count spells the key anew on every page carrying that key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count that is no whole number above nothing is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The member each declaring page type declares is spelled anew beside the key.",
     },
     {
