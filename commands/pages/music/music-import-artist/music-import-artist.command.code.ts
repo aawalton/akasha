@@ -9,19 +9,19 @@ import type { Value } from "@akasha/pages/page-value"
 import { textIn } from "@akasha/pages/page-value-reading"
 import { composedFor, type Put } from "@akasha/pages-service/composing"
 import { todayYYYYMMDD } from "@akasha/utils-sync/today"
-import { searchLyrics } from "../../../alan/music/catalog/lrclib-client/lrclib-client.module.code.ts"
+import { searchLyrics } from "../../../../alan/music/catalog/lrclib-client/lrclib-client.module.code.ts"
 import {
   lyricsFieldsOf,
   pickBestLyrics,
   type SongLyrics,
-} from "../../../alan/music/catalog/lrclib-map/lrclib-map.module.code.ts"
-import type { LrclibRecord } from "../../../alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
+} from "../../../../alan/music/catalog/lrclib-map/lrclib-map.module.code.ts"
+import type { LrclibRecord } from "../../../../alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
 import {
   browseArtistRecordings,
   browseWorks,
   getArtist,
   searchArtist,
-} from "../../../alan/music/catalog/musicbrainz-client/musicbrainz-client.module.code.ts"
+} from "../../../../alan/music/catalog/musicbrainz-client/musicbrainz-client.module.code.ts"
 import {
   dedupeRecordings,
   extractGenres,
@@ -32,19 +32,19 @@ import {
   performedWorkIds,
   pickBestArtist,
   type SongFields,
-} from "../../../alan/music/catalog/musicbrainz-map/musicbrainz-map.module.code.ts"
+} from "../../../../alan/music/catalog/musicbrainz-map/musicbrainz-map.module.code.ts"
 import type {
   MbArtist,
   MbArtistSearchHit,
   MbRecording,
   MbWork,
-} from "../../../alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
+} from "../../../../alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import {
   artistSlugOf,
   type SongNames,
   songNamesFrom,
   songSlugFor,
-} from "../../../alan/music/catalog/song-slug/song-slug.module.code.ts"
+} from "../../../../alan/music/catalog/song-slug/song-slug.module.code.ts"
 
 const INPUT = 1
 

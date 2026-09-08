@@ -21,7 +21,7 @@ import {
   playKeyOf,
   resumeCursorMs,
   sumNewMusicMinutes,
-} from "../../modules/play-row/play-row.module.code.ts"
+} from "../../../modules/play-row/play-row.module.code.ts"
 
 const INPUT = 1
 
