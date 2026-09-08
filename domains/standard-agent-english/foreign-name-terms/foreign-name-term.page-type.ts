@@ -1,10 +1,7 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Definition } from "../../properties/definition.standard-agent-english-property.ts"
+import type { AllowedTerm } from "../allowed-terms/allowed-term.page-type.ts"
 
-export type ForeignNameTerm = Page & {
-  definition: Definition
-}
+export type ForeignNameTerm = AllowedTerm
 
 export const foreignNameTerm = {
   id: "01a07c6e-df85-7cad-a74c-d84a45b5f15c",
@@ -12,8 +9,5 @@ export const foreignNameTerm = {
   slug: "foreign-name-term",
   definition: "one name whose sense is set outside akasha",
   pluralSlug: "foreign-name-terms",
-  extendsSlug: ["page-type/page"],
-  properties: [
-    { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
-  ],
+  extendsSlug: ["page-type/allowed-term"],
 } as const satisfies PageType
