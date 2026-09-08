@@ -2,7 +2,7 @@ import { afterAll, test as check, expect } from "bun:test"
 import { mkdirSync, readFileSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { BINARY, endOf, foundIn, lintedOver } from "./code-lint.module.code.ts"
+import { BINARY, batchedIn, endOf, foundIn, lintedOver } from "./code-lint.module.code.ts"
 
 const UNUSED = "export function held(a: number, b: number): number {\n  return a\n}\n"
 
@@ -109,6 +109,29 @@ check("one named path is read alone, and its neighbour is not", () => {
   const root = repo({ "one.ts": UNUSED, "two.ts": UNUSED }, LINTING, true)
   expect(lintedOver(root, ["akasha/one.ts"]).found.length).toBe(1)
   expect(lintedOver(root, ["akasha"]).found.length).toBe(2)
+})
+
+check("more paths than one command line holds are named over several runs", () => {
+  const many = Array.from({ length: 5000 }, (_, at) => `akasha/${"held".repeat(15)}-${at}.ts`)
+  const batches = batchedIn(many)
+  expect(batches.length).toBeGreaterThan(1)
+  expect(batches.flatMap((one) => [...one])).toEqual(many)
+  for (const one of batches) expect(one.join(" ").length).toBeLessThanOrEqual(100000)
+})
+
+check("the paths named are one run where one command line holds them all", () => {
+  expect(batchedIn(["akasha/one.ts", "akasha/two.ts"])).toEqual([
+    ["akasha/one.ts", "akasha/two.ts"],
+  ])
+  expect(batchedIn([])).toEqual([[]])
+})
+
+check("every finding over several runs is answered together", () => {
+  const root = repo({ "one.ts": UNUSED, "two.ts": UNUSED }, LINTING, true)
+  const said = lintedOver(root, ["akasha/one.ts", "akasha/two.ts"])
+  expect(said.failed).toBeNull()
+  expect(said.errors).toBe(2)
+  expect(said.found.length).toBe(2)
 })
 
 check("a root with no linter answers why it could not look, not that nothing was found", () => {

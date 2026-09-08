@@ -34,6 +34,8 @@ const UNRUN = -1
 
 const SAID_AT_MOST = 240
 
+const NAMED_AT_MOST = 100000
+
 export type Found = {
   readonly path: string
   readonly line: number
@@ -128,28 +130,53 @@ function askedOf(at: string, root: string, named: readonly string[]): Done {
   return { code: done.code, output: `${done.out}${done.err}` }
 }
 
+export function batchedIn(named: readonly string[]): readonly (readonly string[])[] {
+  const found: string[][] = []
+  let held: string[] = []
+  let width = 0
+  for (const one of named) {
+    if (held.length > 0 && width + one.length + 1 > NAMED_AT_MOST) {
+      found.push(held)
+      held = []
+      width = 0
+    }
+    held.push(one)
+    width += one.length + 1
+  }
+  found.push(held)
+  return found
+}
+
 export function lintedOver(root: string, named: readonly string[], under: string = root): Linted {
   const at = join(under, BINARY)
   if (!existsSync(at)) {
     return unlooked(`no linter is at \`${BINARY}\` under ${under}, so nothing was looked at`)
   }
-  let done: Done
-  try {
-    done = askedOf(at, root, named)
-  } catch (thrown) {
-    const why = thrown instanceof Error ? thrown.message : String(thrown)
-    return unlooked(`the linter at \`${BINARY}\` could not be run — ${why}`)
-  }
-  const said = foundIn(done.output)
-  if (said === null) {
-    return {
-      code: done.code,
-      errors: 0,
-      found: [],
-      failed:
-        `the linter exited ${done.code} and printed nothing that reads as a run — ` +
-        `${endOf(done.output)}`,
+  let code = 0
+  let errors = 0
+  const found: Found[] = []
+  for (const batch of batchedIn(named)) {
+    let done: Done
+    try {
+      done = askedOf(at, root, batch)
+    } catch (thrown) {
+      const why = thrown instanceof Error ? thrown.message : String(thrown)
+      return unlooked(`the linter at \`${BINARY}\` could not be run — ${why}`)
     }
+    const said = foundIn(done.output)
+    if (said === null) {
+      return {
+        code: done.code,
+        errors: 0,
+        found: [],
+        failed:
+          `the linter exited ${done.code} and printed nothing that reads as a run — ` +
+          `${endOf(done.output)}`,
+      }
+    }
+    if (code === 0) code = done.code
+    errors += said.errors
+    found.push(...said.found)
   }
-  return { code: done.code, errors: said.errors, found: said.found, failed: null }
+  return { code, errors, found, failed: null }
 }

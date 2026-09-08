@@ -44,6 +44,18 @@ export const codeLint = {
         "A root holding no linter is a run that was never made rather than a tree that came back clean.",
     },
     {
+      invariantKind: "departure",
+      statement: "The paths named are looked at in batches one command line holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The batches are read back as one answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A batch that could not be looked at answers for the whole run.",
+    },
+    {
       invariantKind: "constraint",
       statement:
         "Biome says of its own JSON reporter that the reporter is unstable and may change between patches.",
