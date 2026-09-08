@@ -35,7 +35,6 @@ export const clusterCheck = {
     "cluster-check/verdict-emitter-chokepoint",
     "cluster-check/vite-supabase-rr-define",
     "cluster-check/widget-payload-shape-mirror",
-    "cluster-check/workspaces-mainseam",
     "module/audit-reading",
     "module/blank-comments",
     "module/checksum-annotation-pairing",
@@ -92,7 +91,6 @@ export const clusterCheck = {
     "module/component-slot-detection",
     "module/component-sources",
     "module/css-source-directives",
-    "module/git-transport-credential",
     "module/head-styles-violations",
     "module/image-tag-rule",
     "module/jsx-class-tokens",
@@ -137,7 +135,6 @@ export const clusterCheck = {
     "module/workspace-import-graph",
     "module/workspace-packages",
     "module/workspace-ts-files",
-    "module/workspaces-mainseam",
     "module/yaml-usage",
   ],
   properties: [
