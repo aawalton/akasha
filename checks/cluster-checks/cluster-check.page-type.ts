@@ -152,6 +152,7 @@ export const clusterCheck = {
     "module/color-literal-grants",
     "module/codegen-type-identity-pairs",
     "module/component-layout-boundary",
+    "module/component-slot-detection",
   ],
   properties: [
     {
