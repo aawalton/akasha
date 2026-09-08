@@ -14,6 +14,10 @@ const PERSONA_MESSAGES = "personaMessages"
 
 const SOURCE = '"promptSource"'
 
+const TOLD = "You are persona `"
+
+const ANSWERED = ".seat.ts — "
+
 const WROTE = new Set(["typed", "queued"])
 
 const NAMED = /(?<!\\)"You are persona `([a-z0-9-]+)`/
@@ -42,11 +46,11 @@ export type Kept = {
 }
 
 export function namedIn(line: string): string | null {
-  return NAMED.exec(line)?.[1] ?? null
+  return line.includes(TOLD) ? (NAMED.exec(line)?.[1] ?? null) : null
 }
 
 export function seatPageIn(line: string): string | null {
-  return SEAT_PAGE.exec(line)?.[1] ?? null
+  return line.includes(ANSWERED) ? (SEAT_PAGE.exec(line)?.[1] ?? null) : null
 }
 
 export function greetedIn(text: string): string | null {
