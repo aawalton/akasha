@@ -1,9 +1,9 @@
 import type { Secret } from "../secret.page-type.ts"
 
-export const pipelineEngineSecretsSupabaseUrl = {
+export const collectionsSecretsSupabaseUrl = {
   id: "01a076b8-f1f6-79f8-88c0-1e0a407a7526",
   pageTypeSlug: "secret",
-  slug: "pipeline-engine-secrets-supabase-url",
+  slug: "collections-secrets-supabase-url",
   placements: [
     { resourceName: "collections-secrets", resourceKey: "SUPABASE_URL" },
     { resourceName: "alanwalton-secrets", resourceKey: "SUPABASE_URL" },
