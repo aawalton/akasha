@@ -4,7 +4,7 @@ export const checkReachesAPathThroughTheIndex = {
   id: "01a0824b-5ca1-7150-a799-fd2189f44fe4",
   pageTypeSlug: "code-check",
   slug: "check-reaches-a-path-through-the-index",
-  definition: "the check refusing a check that lists a path the index answers for",
+  definition: "the check refusing a page's code that lists a path the index answers for",
   code: "ts",
   test: "ts",
   runsOnPatch: true,
@@ -14,7 +14,11 @@ export const checkReachesAPathThroughTheIndex = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The check package and the page types passed over are asked of the index.",
+      statement: "The code of every page in the tree is judged rather than a check's code alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page types a file may be named for are asked of the index.",
     },
     {
       invariantKind: "departure",
@@ -77,24 +81,11 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "A syntax rule is passed over, since only the file handed in is read there.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement: "The cluster checks are passed over while that check system is being taken away.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The refusal names the line the listing sits on and the path the index answered.",
     },
     {
       invariantKind: "departure",
       statement: "A long literal is shortened where the refusal names that literal.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An index that cannot say where the check package sits refuses rather than judging clean.",
     },
     {
       invariantKind: "absence",

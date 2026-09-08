@@ -1,4 +1,3 @@
-import { dirname } from "node:path"
 import { lineOf, parsedAs } from "@akasha/code/code-source"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
@@ -10,16 +9,6 @@ import {
   judgingEach,
   type Selector,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
-
-const PACKAGE = "workspace-package"
-
-const CHECK = "check"
-
-const PAGE_TYPE = "page-type"
-
-const CLUSTER = "cluster-check"
-
-const RULE = "syntax-rule"
 
 const CODE = "code"
 
@@ -174,23 +163,9 @@ export function reasonsIn(asking: Asking, path: string, text: string): readonly 
   return said
 }
 
-function folderOf(shadow: Shadow, pageTypeSlug: string, slug: string): string {
-  const one = shadow.index.listedAt(pageTypeSlug, slug)[0]
-  if (one === undefined) {
-    throw new Error(
-      `the index names no \`${pageTypeSlug}${PARTED_BY}${slug}\`, so no check is found`
-    )
-  }
-  return `${dirname(one.path)}${PARTED_BY}`
-}
-
 export function judgedBy(shadow: Shadow): (path: string) => boolean {
-  const at = folderOf(shadow, PACKAGE, CHECK)
-  const cluster = folderOf(shadow, PAGE_TYPE, CLUSTER)
-  const rule = folderOf(shadow, PAGE_TYPE, RULE)
   const types = shadow.index.pageTypesIn()
   return (path) => {
-    if (!path.startsWith(at) || path.startsWith(cluster) || path.startsWith(rule)) return false
     const said = partedIn(path)
     if (said === null || !types.has(said.pageType)) return false
     return said.sections.length === 1 && said.sections[0] === CODE
@@ -217,12 +192,12 @@ function askingFor(shadow: Shadow): Asking {
   return made
 }
 
-export const CHECK_CODE: Selector<Body> = {
-  named: "the code a check runs",
+export const PAGE_CODE: Selector<Body> = {
+  named: "the code a page runs",
   isInput: (path, shadow) => judgedFor(shadow)(path),
   from: (change, shadow) => FILES.from(change, shadow).filter((one) => judgedFor(shadow)(one.path)),
 }
 
-export const checkReachesAPathThroughTheIndex = judgingEach(CHECK_CODE, (given, shadow) =>
+export const checkReachesAPathThroughTheIndex = judgingEach(PAGE_CODE, (given, shadow) =>
   reasonsIn(askingFor(shadow), given.path, bodyOf(given))
 )
