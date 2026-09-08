@@ -58,5 +58,9 @@ export const addPropertyToEveryPage = {
       invariantKind: "absence",
       statement: "Nothing here reads a page's own body.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The value is handed on as the body spells it rather than as text to quote.",
+    },
   ],
 } as const satisfies ChangeAgent

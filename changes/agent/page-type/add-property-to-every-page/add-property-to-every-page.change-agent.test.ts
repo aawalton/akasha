@@ -66,7 +66,7 @@ function pagesIn(
   }
 }
 
-const SECTION_OF = { pageType: "book-section", key: "sectionOfSlug", value: "solar-power" }
+const SECTION_OF = { pageType: "book-section", key: "sectionOfSlug", value: '"solar-power"' }
 
 test("every page of the page type gains the key", async () => {
   const world = pagesIn(BODIES, [DECLARED])

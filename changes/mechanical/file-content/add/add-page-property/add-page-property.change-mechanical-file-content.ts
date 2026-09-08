@@ -50,5 +50,25 @@ export const addPageProperty = {
       invariantKind: "absence",
       statement: "Nothing here reads the index.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A value is put in as the body spells it rather than as a quoted string.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Text that parses as no value is refused before the body is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value is text, a number, a boolean, null, a list, or a record of those.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name is no value, so a bare word is refused rather than written in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The whitespace around a value is dropped before that value is read or written.",
+    },
   ],
 } as const satisfies ChangeMechanicalFileContent
