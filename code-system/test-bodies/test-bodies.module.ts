@@ -58,8 +58,36 @@ export const testBodies = {
       statement: "Nothing here spawns a runner.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here writes a file.",
+      invariantKind: "departure",
+      statement: "A serving writes the bodies and the preload under one folder of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That folder sits under `/var/tmp` rather than `/tmp`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A serving is swept by the caller that asked for the serving.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A serving that could not be made is swept and reaches no caller.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body handed in that would not be read names the path it was handed in for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test file the change brings and no file is there for is given a shim to run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shim imports that test file by the path the change files it at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test file already on disk is named to the runner by its own path.",
     },
   ],
 } as const satisfies Module

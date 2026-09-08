@@ -42,6 +42,7 @@
     "./shape-progress": "./shape-progress/shape-progress.module.code.ts",
     "./shell-script": "./shell-scripts/shell-script.page-type.ts",
     "./stylesheet": "./stylesheets/stylesheet.page-type.ts",
+    "./test-bodies": "./test-bodies/test-bodies.module.code.ts",
     "./type-declaration": "./type-declarations/type-declaration.page-type.ts",
     "./typing-keeping": "./typing-keeping/typing-keeping.module.code.ts",
     "./utf8-body": "./utf8-body/utf8-body.module.code.ts",
