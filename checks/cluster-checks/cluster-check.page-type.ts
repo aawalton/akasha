@@ -182,6 +182,7 @@ export const clusterCheck = {
     "module/jsx-surface-tokens",
     "module/layer-monotonicity",
     "module/libc-ffi-binding",
+    "module/non-test-population",
   ],
   properties: [
     {
