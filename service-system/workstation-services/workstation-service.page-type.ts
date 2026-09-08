@@ -46,8 +46,6 @@ export const workstationService = {
     "text-property/wanted-by",
     "text-property/wants",
     "workstation-service/alan-email-worker",
-    "workstation-service/claude-account-upkeep-service",
-    "workstation-service/claude-account-upkeep-stall",
     "workstation-service/desktop-wallpaper-setting",
     "workstation-service/great-courses-sync",
     "workstation-service/repos-empty-dir-purge",
