@@ -9,6 +9,7 @@ import { createExportsIdentifier } from "../exports-identifier/exports-identifie
 import { getExtensionKindForNode } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
+import { isOptionalContinuation } from "../optional-chain-data/optional-chain-data.module.code.ts"
 import {
   invalidCallExtensionUse,
   invalidMultiReturnAccess,
@@ -16,7 +17,6 @@ import {
 } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import { addToNumericExpression } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
-import { isOptionalContinuation } from "../tstl-optional-chain-data/tstl-optional-chain-data.module.code.ts"
 import { maybeWrapThisVoidAsAdapter } from "../tstl-this-void-adapter/tstl-this-void-adapter.module.code.ts"
 import {
   isArrayType,

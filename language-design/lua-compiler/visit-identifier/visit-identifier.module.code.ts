@@ -21,12 +21,12 @@ import {
   getExtensionKindForSymbol,
 } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
 import { createPromiseIdentifier } from "../lualib-call/lualib-call.module.code.ts"
-import { invalidCallExtensionUse } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
-import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import {
   getOptionalContinuationData,
   isOptionalContinuation,
-} from "../tstl-optional-chain-data/tstl-optional-chain-data.module.code.ts"
+} from "../optional-chain-data/optional-chain-data.module.code.ts"
+import { invalidCallExtensionUse } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
+import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import {
   createSafeName,
   hasUnsafeIdentifierName,
