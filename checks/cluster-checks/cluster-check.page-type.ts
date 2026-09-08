@@ -157,6 +157,7 @@ export const clusterCheck = {
     "module/css-color-properties",
     "module/css-source-directives",
     "module/design-token-parity",
+    "module/env-unset-bash",
   ],
   properties: [
     {
