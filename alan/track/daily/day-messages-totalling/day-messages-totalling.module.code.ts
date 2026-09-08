@@ -1,0 +1,46 @@
+import { valuesOfType } from "@akasha/pages/index-reading"
+import { uncommittedIn } from "@akasha/pages/page-uncommitted"
+import { textAt } from "@akasha/pages/page-value"
+import { type Counted, countedIn } from "../day-messages/day-messages.module.code.ts"
+
+const PERSONA_MESSAGES = "personaMessages"
+
+const WAKE_DAY = "wake-day"
+
+const DATE = "date"
+
+export const MESSAGES_COUNTED_FROM = "2026-09-08"
+
+export type Dayed = { readonly day: string; readonly counted: readonly Counted[] }
+
+export function daysCounted(days: readonly Dayed[], before: string): readonly Dayed[] {
+  return days.filter((one) => one.day >= MESSAGES_COUNTED_FROM && one.day < before)
+}
+
+export function sentOver(days: readonly Dayed[]): ReadonlyMap<string, number> {
+  const found = new Map<string, number>()
+  for (const one of days) {
+    for (const row of one.counted) {
+      found.set(row.personaSlug, (found.get(row.personaSlug) ?? 0) + row.sent)
+    }
+  }
+  return found
+}
+
+export function daysMessaged(root: string): readonly Dayed[] {
+  const found: Dayed[] = []
+  for (const one of valuesOfType(root, WAKE_DAY)) {
+    const day = textAt(one.value, DATE)
+    if (day === null) continue
+    const held = uncommittedIn(root, one.path)
+    if (held === null) continue
+    const counted = countedIn(held[PERSONA_MESSAGES])
+    if (counted.length === 0) continue
+    found.push({ day, counted })
+  }
+  return found
+}
+
+export function sentBefore(root: string, before: string): ReadonlyMap<string, number> {
+  return sentOver(daysCounted(daysMessaged(root), before))
+}
