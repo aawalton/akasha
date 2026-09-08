@@ -6,7 +6,7 @@ import {
   keepMined,
   namedIn,
   saidOf,
-  seatPagesIn,
+  seatPageIn,
   type Transcript,
   transcriptIn,
   transcriptsIn,
@@ -27,22 +27,34 @@ const SENT =
   '{"type":"user","promptSource":"system","timestamp":"2026-09-08T11:30:00.000Z",' +
   '"message":{"role":"user","content":"<task-notification>"}}'
 
-const RESULT =
+const TOLD =
   '{"type":"user","message":{"role":"user","content":' +
   '[{"type":"tool_result","content":"You are persona `amy`, domain `x`, role `handler`."}]}}'
 
-const EMPTY: Transcript = { named: [], seatPages: [], greeted: [], wrote: [] }
+const QUOTED =
+  '{"type":"user","message":{"role":"user","content":' +
+  '[{"type":"tool_result","content":"a report said \\"You are persona `ryn`\\" once"}]}}'
 
-test("a line naming the persona an agent is reads that persona", () => {
-  expect(namedIn(RESULT)).toEqual(["amy"])
+const ANSWERED =
+  '{"type":"user","message":{"role":"user","content":[{"type":"tool_result","content":' +
+  '"seat-system/seats/pages/thea.seat.ts — the whole file follows, 15 lines"}]}}'
+
+const EMPTY: Transcript = { named: null, seatPage: null, greeted: null, wrote: [] }
+
+test("a transcript is told which persona it is", () => {
+  expect(namedIn(TOLD)).toBe("amy")
 })
 
-test("a line naming no persona reads nobody", () => {
-  expect(namedIn(TYPED)).toEqual([])
+test("a name quoted inside another message tells a transcript nothing", () => {
+  expect(namedIn(QUOTED)).toBeNull()
 })
 
-test("a line naming a seat page reads that seat", () => {
-  expect(seatPagesIn("read seat-system/seats/pages/thea.seat.ts here")).toEqual(["thea"])
+test("the seat page a read answered with names the seat", () => {
+  expect(seatPageIn(ANSWERED)).toBe("thea")
+})
+
+test("a seat page no read answered with names no seat", () => {
+  expect(seatPageIn("open seat-system/seats/pages/thea.seat.ts and look")).toBeNull()
 })
 
 test("the name Alan greeted is read off what he wrote", () => {
@@ -62,28 +74,28 @@ test("a message the harness sent is no message Alan wrote", () => {
 })
 
 test("a tool result is no message Alan wrote", () => {
-  expect(wroteIn(RESULT)).toBeNull()
+  expect(wroteIn(TOLD)).toBeNull()
 })
 
-test("a transcript is read as who it names and when Alan wrote in it", () => {
-  expect(transcriptIn([RESULT, TYPED, SENT, QUEUED].join("\n"))).toEqual({
-    named: ["amy"],
-    seatPages: [],
-    greeted: ["aura"],
+test("a transcript keeps the first name of each sort and every moment Alan wrote", () => {
+  expect(transcriptIn([QUOTED, ANSWERED, TOLD, TYPED, SENT, QUEUED].join("\n"))).toEqual({
+    named: "amy",
+    seatPage: "thea",
+    greeted: "aura",
     wrote: ["2026-09-08T11:00:00.000Z", "2026-09-08T05:00:00.000Z"],
   })
 })
 
-test("the persona a transcript names beats the name Alan greeted", () => {
-  expect(heldBy({ ...EMPTY, named: ["amy"], greeted: ["aura"] }, KNOWN)).toBe("amy")
+test("the seat page a read answered with beats the persona a transcript is told it is", () => {
+  expect(heldBy({ ...EMPTY, seatPage: "thea", named: "amy", greeted: "aura" }, KNOWN)).toBe("thea")
 })
 
-test("the seat a transcript names beats the name Alan greeted", () => {
-  expect(heldBy({ ...EMPTY, seatPages: ["thea"], greeted: ["aura"] }, KNOWN)).toBe("thea")
+test("the persona a transcript is told it is beats the name Alan greeted", () => {
+  expect(heldBy({ ...EMPTY, named: "amy", greeted: "aura" }, KNOWN)).toBe("amy")
 })
 
 test("a name no persona is filed under is passed over", () => {
-  expect(heldBy({ ...EMPTY, named: ["nobody"], greeted: ["aura"] }, KNOWN)).toBe("aura")
+  expect(heldBy({ ...EMPTY, named: "nobody", greeted: "aura" }, KNOWN)).toBe("aura")
 })
 
 test("a transcript answering to nobody is held by nobody", () => {
@@ -91,17 +103,17 @@ test("a transcript answering to nobody is held by nobody", () => {
 })
 
 test("a message before six in the morning in New York falls on the day before", () => {
-  const one: Transcript = { ...EMPTY, named: ["aura"], wrote: ["2026-09-08T05:00:00.000Z"] }
+  const one: Transcript = { ...EMPTY, named: "aura", wrote: ["2026-09-08T05:00:00.000Z"] }
   expect(countedOver([one], KNOWN)).toEqual([
     { day: "2026-09-07", counted: [{ personaSlug: "aura", sent: 1 }] },
   ])
 })
 
 test("the personas on a day sit in the order of their names", () => {
-  const one: Transcript = { ...EMPTY, named: ["thea"], wrote: ["2026-09-08T11:00:00.000Z"] }
+  const one: Transcript = { ...EMPTY, named: "thea", wrote: ["2026-09-08T11:00:00.000Z"] }
   const two: Transcript = {
     ...EMPTY,
-    named: ["amy"],
+    named: "amy",
     wrote: ["2026-09-08T11:00:00.000Z", "2026-09-08T12:00:00.000Z"],
   }
   expect(countedOver([one, two], KNOWN)).toEqual([
@@ -133,5 +145,5 @@ test("one row over one day is said in the singular", () => {
 })
 
 test("many rows over many days are said in the plural", () => {
-  expect(saidOf({ days: 32, rows: 317, unfiled: [] })).toBe("317 rows were counted over 32 days")
+  expect(saidOf({ days: 32, rows: 319, unfiled: [] })).toBe("319 rows were counted over 32 days")
 })

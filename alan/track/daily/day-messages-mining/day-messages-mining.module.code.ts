@@ -16,9 +16,9 @@ const SOURCE = '"promptSource"'
 
 const WROTE = new Set(["typed", "queued"])
 
-const NAMED = /You are persona `([a-z0-9-]+)`/g
+const NAMED = /(?<!\\)"You are persona `([a-z0-9-]+)`/
 
-const SEAT_PAGE = /seat-system\/seats\/pages\/([a-z0-9-]+)\.seat\.ts/g
+const SEAT_PAGE = /seat-system\/seats\/pages\/([a-z0-9-]+)\.seat\.ts — /
 
 const GREETED = /^\s*(?:hi|hey|hello|good morning)[\s,]+([a-z]+)\b/i
 
@@ -27,9 +27,9 @@ const NO_DAY = "no day page is filed under this date, so its messages are counte
 export type Wrote = { readonly at: string; readonly text: string }
 
 export type Transcript = {
-  readonly named: readonly string[]
-  readonly seatPages: readonly string[]
-  readonly greeted: readonly string[]
+  readonly named: string | null
+  readonly seatPage: string | null
+  readonly greeted: string | null
   readonly wrote: readonly string[]
 }
 
@@ -41,20 +41,12 @@ export type Kept = {
   readonly unfiled: readonly string[]
 }
 
-function caughtBy(line: string, pattern: RegExp): readonly string[] {
-  const found: string[] = []
-  for (const one of line.matchAll(pattern)) {
-    if (one[1] !== undefined) found.push(one[1])
-  }
-  return found
+export function namedIn(line: string): string | null {
+  return NAMED.exec(line)?.[1] ?? null
 }
 
-export function namedIn(line: string): readonly string[] {
-  return caughtBy(line, NAMED)
-}
-
-export function seatPagesIn(line: string): readonly string[] {
-  return caughtBy(line, SEAT_PAGE)
+export function seatPageIn(line: string): string | null {
+  return SEAT_PAGE.exec(line)?.[1] ?? null
 }
 
 export function greetedIn(text: string): string | null {
@@ -84,44 +76,27 @@ export function wroteIn(line: string): Wrote | null {
 }
 
 export function transcriptIn(text: string): Transcript {
-  const named: string[] = []
-  const seatPages: string[] = []
-  const greeted: string[] = []
+  let named: string | null = null
+  let seatPage: string | null = null
+  let greeted: string | null = null
   const wrote: string[] = []
   for (const line of text.split("\n")) {
-    named.push(...namedIn(line))
-    seatPages.push(...seatPagesIn(line))
+    named ??= namedIn(line)
+    seatPage ??= seatPageIn(line)
     const said = wroteIn(line)
     if (said === null) continue
     wrote.push(said.at)
-    const name = greetedIn(said.text)
-    if (name !== null) greeted.push(name)
+    greeted ??= greetedIn(said.text)
   }
-  return { named, seatPages, greeted, wrote }
+  return { named, seatPage, greeted, wrote }
 }
 
-function commonestOf(names: readonly string[], known: ReadonlySet<string>): string | null {
-  const times = new Map<string, number>()
-  for (const one of names) {
-    if (known.has(one)) times.set(one, (times.get(one) ?? 0) + 1)
-  }
-  let held: string | null = null
-  let most = 0
-  for (const [name, count] of times) {
-    if (count > most) {
-      held = name
-      most = count
-    }
-  }
-  return held
+function knownOf(name: string | null, known: ReadonlySet<string>): string | null {
+  return name !== null && known.has(name) ? name : null
 }
 
 export function heldBy(one: Transcript, known: ReadonlySet<string>): string | null {
-  return (
-    commonestOf(one.named, known) ??
-    commonestOf(one.seatPages, known) ??
-    commonestOf(one.greeted, known)
-  )
+  return knownOf(one.seatPage, known) ?? knownOf(one.named, known) ?? knownOf(one.greeted, known)
 }
 
 function rowsOf(on: ReadonlyMap<string, number>): readonly Counted[] {
@@ -197,7 +172,7 @@ export function mineMessages(root: string): Kept {
     try {
       return transcriptIn(readFileSync(path, "utf8"))
     } catch {
-      return { named: [], seatPages: [], greeted: [], wrote: [] }
+      return { named: null, seatPage: null, greeted: null, wrote: [] }
     }
   })
   return keepMined(root, countedOver(read, known))

@@ -14,15 +14,23 @@ export const dayMessagesMining = {
     },
     {
       invariantKind: "departure",
-      statement: "The persona a transcript was written to is the one the transcript names.",
+      statement: "A transcript belongs to the persona whose seat page a read answered it with.",
     },
     {
       invariantKind: "departure",
-      statement: "A transcript naming no persona is read off the seat page the transcript names.",
+      statement: "A transcript answered no seat page is read off the persona it is told it is.",
     },
     {
       invariantKind: "departure",
-      statement: "A transcript naming neither is read off the name Alan greeted.",
+      statement: "A transcript told neither is read off the name Alan greeted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first name a transcript carries is the name it is held by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name quoted inside another message is no name the transcript carries.",
     },
     {
       invariantKind: "departure",
