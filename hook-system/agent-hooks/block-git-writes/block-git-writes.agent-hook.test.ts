@@ -6,9 +6,9 @@ import { refusalFor, refusalIn, SCOPE } from "./block-git-writes.agent-hook.code
 
 const SCRIPT = join(import.meta.dir, "block-git-writes.agent-hook.code.ts")
 
-const COMMANDS = "  akasha change drafts the edits, and akasha apply lands them as one commit"
+const COMMANDS = "  akasha change draft keeps the edits, and akasha change apply lands them"
 
-const HELP = "Say `akasha change --help` for the changes it runs."
+const HELP = "Say `akasha change draft --help` for the changes it runs."
 
 test("a commit naming no paths is refused, and this is the call that took the gate down", () => {
   expect(refusalIn('git commit -m "one"')).not.toBeNull()
@@ -106,8 +106,8 @@ test("a refusal spells no akasha flag, so no flag of ours can go stale in it", (
 
 test("a move refusal names the move command and where to read its flags", () => {
   const said = refusalIn("git mv one two") ?? ""
-  expect(said).toContain("akasha change move-page")
-  expect(said).toContain("Say `akasha change --help` for what that takes.")
+  expect(said).toContain("akasha change draft move-page")
+  expect(said).toContain("Say `akasha change draft --help` for what that takes.")
 })
 
 test("no refusal prescribes a form of the call this hook would refuse anyway", () => {
@@ -124,7 +124,7 @@ test("every refusal names the hook that made it", () => {
 })
 
 test("an akasha command stands aside, and commits for itself", () => {
-  expect(refusalIn('akasha apply --message "one"')).toBeNull()
+  expect(refusalIn("akasha change apply")).toBeNull()
   expect(refusalIn("akasha index refresh")).toBeNull()
 })
 

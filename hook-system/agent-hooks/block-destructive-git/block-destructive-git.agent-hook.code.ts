@@ -25,13 +25,14 @@ const PUT_BACK = [
 
 const TAKE_AWAY = [
   "To take a file away:",
-  "  under `akasha/`:  akasha change remove-page or remove-file, then akasha apply",
+  "  under `akasha/`:  akasha change draft remove-page or remove-file, then akasha change apply",
   '  anywhere else:    rm <path> && git commit -m "<why>" -- <path>',
   HELP,
 ]
 
 const SAY_AGAIN = [
-  "To change what a commit says, draft another with `akasha change` and `akasha apply`.",
+  "To change what a commit says, draft another with `akasha change draft` and",
+  "`akasha change apply`.",
   HELP,
 ]
 

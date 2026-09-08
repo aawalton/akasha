@@ -16,14 +16,14 @@ const judged = judging(refusalIn, ROOT)
 test("a run naming no path is refused, and names where the tests run", () => {
   const said = judged("bun test") ?? ""
   expect(said).toContain("a run naming no path reaches every one of them")
-  expect(said).toContain("akasha apply")
+  expect(said).toContain("akasha change apply")
 })
 
 test("a run naming a path is refused too, and says why the path bounds nothing", () => {
   const said = judged("bun test hook-system/agent-hooks") ?? ""
   expect(said).toContain("runs the akasha tests outside the akasha commands")
   expect(said).toContain("Every test file in this repository is an akasha test")
-  expect(said).toContain("`akasha change` and `akasha apply` run every test beside what")
+  expect(said).toContain("`akasha change draft` and `akasha change apply` run every test")
   expect(said).toContain("No command runs a test by hand.")
 })
 
@@ -138,7 +138,7 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
   expect(done.code).toBe(2)
   const said: unknown = JSON.parse(done.out)
   expect(said).toMatchObject({ decision: "block" })
-  expect((said as { reason: string }).reason).toContain("akasha apply")
+  expect((said as { reason: string }).reason).toContain("The tests run at the change.")
 })
 
 test("the hook refuses a run naming a path on stdin too", () => {

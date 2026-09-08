@@ -80,7 +80,7 @@ test("a refusal over a body says the worktree is shared, not that the file is ak
 
 test("a refusal over a deletion names a route inside akasha and a route outside it", () => {
   const said = refusalIn("git rm akasha/one.ts") ?? ""
-  expect(said).toContain("under `akasha/`:  akasha change remove-page or remove-file")
+  expect(said).toContain("under `akasha/`:  akasha change draft remove-page or remove-file")
   expect(said).toContain('anywhere else:    rm <path> && git commit -m "<why>" -- <path>')
   expect(said).toContain("This worktree is shared")
 })
@@ -108,9 +108,9 @@ test("an amend is refused, and a plain commit is not this hook's business", () =
 })
 
 test("an amend refusal names the command that lands another commit", () => {
-  expect(refusalIn("git commit --amend")).toContain(
-    "To change what a commit says, draft another with `akasha change` and `akasha apply`."
-  )
+  const said = refusalIn("git commit --amend") ?? ""
+  expect(said).toContain("To change what a commit says, draft another with `akasha change draft`")
+  expect(said).toContain("`akasha change apply`.")
 })
 
 test("every forced form of push is refused, and says what it would overwrite", () => {
@@ -168,7 +168,7 @@ test("a read is stood aside from", () => {
 })
 
 test("an akasha command stands aside, whatever act its words carry", () => {
-  expect(refusalIn('akasha apply --message "reset the thing"')).toBeNull()
+  expect(refusalIn("akasha change apply")).toBeNull()
   expect(refusalIn("akasha change remove-page")).toBeNull()
 })
 
