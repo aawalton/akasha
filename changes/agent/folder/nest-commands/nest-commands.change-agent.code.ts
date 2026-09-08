@@ -79,6 +79,8 @@ export async function nestCommands(world: World, given: NestCommandsAsked): Prom
   let seen = carried.world
   for (const slug of world.index.slugsOfType(COMMAND)) {
     if (heldBy(slugs, slug) !== given.namespace) continue
+    const held = seen.index.listedAt(COMMAND, slug)[0]
+    if (held !== undefined && !held.path.startsWith(`${ROOT}/`)) continue
     const put = await parentedUnder(seen, slug, holder.id, given.namespace)
     if ("refused" in put) return refusing(put.refused)
     said.push(...put.said)

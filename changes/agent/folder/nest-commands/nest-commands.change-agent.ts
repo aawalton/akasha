@@ -58,6 +58,10 @@ export const nestCommands = {
     },
     {
       invariantKind: "absence",
+      statement: "A command whose page sits outside the commands folder is carried nowhere.",
+    },
+    {
+      invariantKind: "absence",
       statement: "Nothing here works out a body of its own.",
     },
   ],
