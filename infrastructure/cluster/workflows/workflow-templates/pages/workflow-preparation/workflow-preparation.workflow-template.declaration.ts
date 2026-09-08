@@ -1,12 +1,12 @@
 import { IMAGES } from "@akasha/workflow-language/images"
 import { step } from "@akasha/workflow-language/step"
 import { workflow } from "@akasha/workflow-language/workflow"
-import { installDepsCommands } from "../../../../infrastructure/cluster/workflows/preparation-installing/preparation-installing.module.code.ts"
-import { PREP_PROVISION_STEPS } from "../../../../infrastructure/cluster/workflows/preparation-provisioning/preparation-provisioning.module.code.ts"
+import { installDepsCommands } from "../../../preparation-installing/preparation-installing.module.code.ts"
+import { PREP_PROVISION_STEPS } from "../../../preparation-provisioning/preparation-provisioning.module.code.ts"
 import {
   PREP_SELFHEAL_SH_FUNCTIONS,
   prepFetchWithSelfHeal,
-} from "../../../../infrastructure/cluster/workflows/preparation-repo-mending/preparation-repo-mending.module.code.ts"
+} from "../../../preparation-repo-mending/preparation-repo-mending.module.code.ts"
 
 export default workflow("preparation", {
   kind: "preparation",

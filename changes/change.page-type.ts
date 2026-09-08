@@ -29,7 +29,6 @@ export const change = {
     "page-type/change-agent",
     "page-type/change-mechanical",
     "page-type/change-runner",
-    "page-type/workflow-template",
     "page-type/change-kind",
     "page-type/change-guard",
     "module/change-shadow",

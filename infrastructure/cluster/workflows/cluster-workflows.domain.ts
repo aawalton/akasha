@@ -10,5 +10,6 @@ export const clusterWorkflows = {
     "module/preparation-provisioning",
     "module/preparation-installing",
     "module/preparation-repo-mending",
+    "page-type/workflow-template",
   ],
 } as const satisfies Domain
