@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const agentForest = {
   id: "01a0693a-d9ea-7709-822c-183271014440",
@@ -8,6 +8,7 @@ export const agentForest = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
+  partSlugs: ["module/no-word-reading"],
   taking: [],
   helpNotes: [
     "it takes no word at all, so any word said to it is refused.",
@@ -144,6 +145,10 @@ export const agentForest = {
     {
       invariantKind: "departure",
       statement: "A subagent page states the kind that subagent was dispatched as or states none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One test calls the command itself, so a specifier reaching nothing fails there.",
     },
     {
       invariantKind: "absence",

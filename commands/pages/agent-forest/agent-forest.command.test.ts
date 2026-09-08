@@ -13,7 +13,6 @@ import {
   type ForestSaid,
   forestOver,
   type Reading,
-  readIn,
   saidOf,
 } from "./agent-forest.command.code.ts"
 
@@ -75,31 +74,6 @@ function reading(
     },
   }
 }
-
-test("a call naming nothing asks the forest", () => {
-  expect(readIn([])).toEqual({ asked: true })
-})
-
-test("a flag is no word this takes", () => {
-  const said = readIn(["--json"])
-
-  expect("refused" in said && said.refused[0]).toContain("`--json`")
-})
-
-test("a word carrying no dash is refused too, because this takes no word at all", () => {
-  const said = readIn(["seats"])
-
-  expect("refused" in said && said.refused[0]).toContain("`seats`")
-})
-
-test("every word said is named in its own refusal", () => {
-  const said = readIn(["-h", "--counts"])
-
-  expect("refused" in said && said.refused).toEqual([
-    "`-h` is no word this takes — it takes no word at all",
-    "`--counts` is no word this takes — it takes no word at all",
-  ])
-})
 
 test("each row carries the seat's page beside what the seat itself is doing", () => {
   const said = forestOver(
@@ -196,9 +170,6 @@ test("a forest that cannot be read is a throw carried out as a refusal", () => {
   expect(() => forestOver("/repo", held)).toThrow("no seat page akasha holds could be read")
 })
 
-// THIS ARM IS WHAT PROVES THE HELPERS RESOLVE. Every arm above drives a seeded reading, so all of
-// them would pass with `@tools/lib/seat-forest` misspelt into a module that is not there. This one
-// calls the command, which reaches all five reads, so a bad specifier fails it at import.
 test("a call naming nothing answers the forest the fleet holds now", async () => {
   const said = await agentForest([], givenIn(akashaRoot()))
 

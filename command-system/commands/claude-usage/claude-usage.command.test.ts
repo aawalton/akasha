@@ -1,34 +1,12 @@
 import { expect, test } from "bun:test"
 import type { Given } from "@akasha/command-system/calling"
-import { answerFrom, claudeUsage, readIn, saidOf } from "./claude-usage.command.code.ts"
+import { answerFrom, claudeUsage, saidOf } from "./claude-usage.command.code.ts"
 
 const ROOT = "/nowhere"
 
 function givenIn(): Given {
   return { root: ROOT, calledAs: "akasha claude-usage", from: ROOT, writer: null, agentId: null }
 }
-
-test("a call naming nothing asks the fleet", () => {
-  expect(readIn([])).toEqual({ asked: true })
-})
-
-test("a flag is no word this takes", () => {
-  const said = readIn(["--json"])
-
-  expect("refused" in said && said.refused[0]).toContain("`--json`")
-})
-
-test("a bare word is no word this takes either", () => {
-  const said = readIn(["weekly"])
-
-  expect("refused" in said && said.refused[0]).toContain("`weekly`")
-})
-
-test("every word said is named in its own refusal", () => {
-  const said = readIn(["-h", "--counts"])
-
-  expect("refused" in said && said.refused.length).toBe(2)
-})
 
 test("a word this does not take refuses as a fault in the call", () => {
   const said = claudeUsage(["--sideways"], givenIn())
