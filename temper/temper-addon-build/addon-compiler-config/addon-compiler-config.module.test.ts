@@ -15,7 +15,7 @@ const SCRATCH = scratchWorld()
 afterAll(SCRATCH.sweep)
 
 function addonFolderNaming(entrySlug: string | null): { root: string; dir: string } {
-  const root = SCRATCH.rootFor("temper-addon-tstl-")
+  const root = SCRATCH.rootFor("temper-addon-compiler-")
   const dir = join(root, "akasha/temper/temper-lib-table-functions")
   mkdirSync(join(dir, "table-functions-entry"), { recursive: true })
   writeFileSync(
