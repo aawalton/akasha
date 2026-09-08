@@ -37,7 +37,7 @@ const START_TIME = "startTime"
 
 const END_TIME = "endTime"
 
-function isSleepTitle(title: unknown): boolean {
+export function isSleepTitle(title: unknown): boolean {
   return typeof title === "string" && title.trim().toLowerCase() === SLEEP
 }
 
@@ -126,19 +126,6 @@ export function getWakeDayWindow(dayStr: string): DayWindow | Refused {
   return wakeDayWindowIn(akashaRoot(), dayStr)
 }
 
-/**
- * The span a day's readings are counted over, closed at the ESO day's own bounds where a wake is
- * not recorded.
- *
- * The day being lived is the case this exists for. A wake day closes at the moment Alan next woke,
- * and on the day itself that moment has not happened, so `wakeDayWindowIn` refuses every reading
- * taken today and a figure counted from health readings could never be shown until the morning
- * after. Falling back to the ESO day's end counts what is on the watch so far, which is what a tile
- * showing today is for.
- *
- * The other end falls back the same way, so a day nobody recorded a sleep on is counted over the
- * ESO day rather than left out. Only a day that will not parse is refused.
- */
 export function spannedWindowIn(root: string, dayStr: string): DayWindow | Refused {
   const eso = getEsoDayWindow(dayStr)
   if (eso.start.getTime() === 0 || eso.end.getTime() === 0) {

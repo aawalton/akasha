@@ -1,4 +1,5 @@
 import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
+import { isSleepTitle } from "@akasha/health-samples-day/wake-day-window"
 import type { Roots } from "@akasha/pages/markdown-page-at"
 
 export const WAKE_DAY = "wake-day"
@@ -7,12 +8,6 @@ export interface SleepBlock {
   readonly title: unknown
   readonly startTime: unknown
   readonly endTime: unknown
-}
-
-const SLEEP = "sleep"
-
-export function isSleepTitle(title: unknown): boolean {
-  return typeof title === "string" && title.trim().toLowerCase() === SLEEP
 }
 
 export function wakeInstantFromBlocks(
