@@ -1,6 +1,10 @@
 import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
-import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import {
+  refusing,
+  spliced,
+  stating,
+} from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
@@ -22,9 +26,8 @@ export function respelled(path: string, text: string, was: string, now: string):
   }
   if (held === null) return refusing(`\`${path}\` states no \`${was}\``)
   const name = held.name
-  const body =
-    text.slice(0, name.getStart(source)) + spelledAs(name, now) + text.slice(name.getEnd())
-  return stating([{ kind: "replace", path, contentFrom: text, contentTo: body }])
+  const put = spelledAs(name, now)
+  return stating(spliced(path, text, { from: name.getStart(source), to: name.getEnd(), put }))
 }
 
 export type Given = {

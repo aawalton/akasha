@@ -25,7 +25,7 @@ export const renamePagePropertyKey = {
     },
     {
       invariantKind: "departure",
-      statement: "The body is answered whole each side rather than as the passage under that key.",
+      statement: "The passage answered is the lines the key sits on rather than the body.",
     },
     {
       invariantKind: "departure",

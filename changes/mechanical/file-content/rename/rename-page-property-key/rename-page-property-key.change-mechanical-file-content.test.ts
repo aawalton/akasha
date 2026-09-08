@@ -42,13 +42,13 @@ test("a key holding a list is spelled anew as readily as a key holding text", ()
   expect(textOn("partSlugs", "pieceSlugs")).toContain(`pieceSlugs: ["kept/one"],`)
 })
 
-test("the whole body is stated each side rather than the passage under that key", () => {
+test("the passage stated each side is the line the key sits on", () => {
   expect(ranOn("pluralSlug", "manySlug").edits).toEqual([
     {
       kind: "replace",
       path: AT,
-      contentFrom: BODY,
-      contentTo: BODY.replace("pluralSlug:", "manySlug:"),
+      contentFrom: `  pluralSlug: "kepts",`,
+      contentTo: `  manySlug: "kepts",`,
     },
   ])
 })
