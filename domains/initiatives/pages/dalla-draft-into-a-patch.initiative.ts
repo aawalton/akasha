@@ -13,11 +13,6 @@ export const dallaDraftIntoAPatch = {
         "`file-arguing.builtIn` reads argv into `{ changes: FileEdit[], message }`, the one place an edit is composed outside the landing. Two near-identical `askedFor` twins decode those bytes back to strings and name a change, in `mechanical-filing` and `tracking-landing`, differing in the write address. `builtIn` answering `Asking[]` takes both with it. `subagent-presence` is the only other reach in. A decoy in `pages/shadow` sorts first in a search.",
     },
     {
-      statement: "A file that is not text is refused rather than decoded into an edit.",
-      workingMemory:
-        "Two functions named `textIn` differ: `change-running:70` throws `NOT_TEXT` where `decodeUtf8` answers null, and `mechanical-change-running:39` answers null instead. The `askedFor` twins refuse with `notUtf8` before either is reached. `holdsBytes` is true on the two wallpaper file properties and nowhere else, and `no-raw-nul-bytes` and `change-taboo-terms` both read it. A file declaring bytes is carried rather than decoded.",
-    },
-    {
       statement: "A helper two changes share lives in a module rather than in one of the changes.",
       workingMemory:
         "Four homes landed: `literal-splicing`, `package-naming`, `json-entries`, and `specifierFor` into `code-system/code-specifier`. Two reaches remain, both held on purpose. `rename-file-page:25` takes `splicedIn` from `rename-page-slug`; it belongs in `change-answer` and waits while another intent holds that module. `remove-page-property:12` takes `requiredIn` from `remove-property-value`; it reads the checker and is its own concern. Scan across lines: a single-line scan misses one.\n",
@@ -47,11 +42,6 @@ export const dallaDraftIntoAPatch = {
       statement: "A draft survives between commands in the store an agent's page declares.",
       workingMemory:
         "`drafting` writes and commits `<agent page>.patch.diff`, which no page declares, and `patchIn` reads it back in a later process, so a draft crosses between commands through it. The declared `edits` file is `uncommitted: true`. The successor exists: `edits-keeping`, `edits-landing`, and `subagent-handed:37` finds handed work through `editsAt(page)`. Two readers of the patch remain, both in the frozen presence file: `patchesUnder:205` spells the name by hand, and `:170` calls `tookIn`.",
-    },
-    {
-      statement: "A file that is not text is moved by path and refused every other change.",
-      workingMemory:
-        "Half of this landed at `b9c32ad613`: a move no other edit names is handed on as a carried path, both paths left out of the bodies, so nothing decodes and git records a rename. Twelve PNG bytes in, twelve out. What is left is the refusal. `textAt` at `edits-keeping:92` reads `utf8`, which never fails, so the `NOT_TEXT` sentinel is dead and two invariants contradict each other. `World` must tell no body from a body that is not text before `page-claiming:12` can keep the wallpapers claimed.\n",
     },
   ],
   constraints: [
