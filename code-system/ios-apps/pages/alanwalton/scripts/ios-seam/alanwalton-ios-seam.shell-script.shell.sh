@@ -54,19 +54,19 @@ if [[ ! -f "$SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh" 
   echo "ERROR: $SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh not found — neither binary could be stamped, and an unstamped binary is refused at the upload gate." >&2
   exit 1
 fi
-# shellcheck source=code-system/ios-apps/scripts/build-stamp/build-stamp.shell-script.shell.sh
+# shellcheck source=../../../../scripts/build-stamp/build-stamp.shell-script.shell.sh
 . "$SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh"
 if [[ ! -f "$SHARED_IOS_SEAM_DIR/monarch-url/monarch-url.shell-script.shell.sh" ]]; then
   echo "ERROR: $SHARED_IOS_SEAM_DIR/monarch-url/monarch-url.shell-script.shell.sh not found — the monarch-tap relay has no link to open, and appending it without one would emit Swift that does not compile." >&2
   exit 1
 fi
-# shellcheck source=code-system/ios-apps/scripts/monarch-url/monarch-url.shell-script.shell.sh
+# shellcheck source=../../../../scripts/monarch-url/monarch-url.shell-script.shell.sh
 . "$SHARED_IOS_SEAM_DIR/monarch-url/monarch-url.shell-script.shell.sh"
 if [[ ! -f "$SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-script.shell.sh" ]]; then
   echo "ERROR: $SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-script.shell.sh not found — the components this extension compiles could not be copied, and the extension would compile with no ring in it." >&2
   exit 1
 fi
-# shellcheck source=code-system/ios-apps/scripts/widget-components/widget-components.shell-script.shell.sh
+# shellcheck source=../../../../scripts/widget-components/widget-components.shell-script.shell.sh
 . "$SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-script.shell.sh"
 WIDGET_COMPONENTS="${NATIVE_SHELL_COMPONENTS:?is unset. The ios-app page names the components its widget extension compiles, and whatever runs this build exports them. This script states no list of its own to fall back to.}"
 WIDGET_NAME="${NATIVE_SHELL_WIDGET_NAME:?is unset. The widget program page states target-name, and whatever runs this build reads it off that page and exports it. This script states no name of its own to fall back to.}"
