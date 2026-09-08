@@ -94,7 +94,7 @@ function createResolutionContext(
     }
 
     if (noResolvePaths.find((isMatch) => isMatch(required.requirePath))) {
-      if (options.tstlVerbose) {
+      if (options.verbose) {
         console.log(
           `Skipping module resolution of ${required.requirePath} as it is in the tsconfig noResolvePaths.`
         )
