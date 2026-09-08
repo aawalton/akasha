@@ -48,6 +48,7 @@ function worldOf(): World {
     root: "/nowhere",
     index: {} as World["index"],
     textOf: () => null,
+    base: () => null,
     over: NOTHING_OVER,
   }
 }
