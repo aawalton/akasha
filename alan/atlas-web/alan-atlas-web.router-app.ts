@@ -6,6 +6,7 @@ export const alanAtlasWeb = {
   slug: "alan-atlas-web",
   definition: "the routes Alan's map site serves to a browser",
   manifest: "json",
+  tunnelRoutes: "ts",
   appLayout: "tsx",
   rootRoute: "tsx",
   routeTable: "ts",
