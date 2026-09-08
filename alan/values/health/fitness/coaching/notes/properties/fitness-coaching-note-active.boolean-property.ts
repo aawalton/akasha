@@ -1,6 +1,6 @@
 import type { BooleanProperty } from "@akasha/pages/boolean-property"
 
-export type CoachingNoteActive = boolean
+export type FitnessCoachingNoteActive = boolean
 
 export const fitnessCoachingNoteActive = {
   id: "01a0657a-fe00-736c-907b-2cb955431927",
