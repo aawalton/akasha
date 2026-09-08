@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0030Ch30RedPineMarket = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0030-ch30-red-pine-market",
   title: "Ch30 Red Pine Market",
-  partOfSlugs: ["five-element-overlord-i-can-upgrade-everything"],
+  partOfCollectionSlugs: ["five-element-overlord-i-can-upgrade-everything"],
   position: 30,
   ownLength: 2098,
   unitSlug: "words",

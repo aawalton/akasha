@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009998ArchaicContract
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0099-98-archaic-contract",
   title: "98 - Archaic Contract",
-  partOfSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
+  partOfCollectionSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
   position: 99,
   ownLength: 2274,
   unitSlug: "words",

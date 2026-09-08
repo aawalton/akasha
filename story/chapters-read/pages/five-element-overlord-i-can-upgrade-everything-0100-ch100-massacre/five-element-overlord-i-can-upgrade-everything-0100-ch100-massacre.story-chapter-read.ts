@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0100Ch100Massacre = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0100-ch100-massacre",
   title: "Ch100 Massacre",
-  partOfSlugs: ["five-element-overlord-i-can-upgrade-everything"],
+  partOfCollectionSlugs: ["five-element-overlord-i-can-upgrade-everything"],
   position: 100,
   ownLength: 2061,
   unitSlug: "words",

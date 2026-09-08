@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0103Ch103FalseReport = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0103-ch103-false-report",
   title: "Ch103 False Report",
-  partOfSlugs: ["five-element-overlord-i-can-upgrade-everything"],
+  partOfCollectionSlugs: ["five-element-overlord-i-can-upgrade-everything"],
   position: 103,
   ownLength: 1552,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002121TheParade = {
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0021-21-the-parade",
   title: "21 - The Parade",
-  partOfSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
+  partOfCollectionSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
   position: 21,
   ownLength: 1945,
   unitSlug: "words",

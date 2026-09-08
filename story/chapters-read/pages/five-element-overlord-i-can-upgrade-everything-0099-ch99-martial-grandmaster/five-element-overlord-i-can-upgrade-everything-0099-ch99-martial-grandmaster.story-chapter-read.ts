@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0099Ch99MartialGrandmaster 
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0099-ch99-martial-grandmaster",
   title: "Ch99 Martial Grandmaster",
-  partOfSlugs: ["five-element-overlord-i-can-upgrade-everything"],
+  partOfCollectionSlugs: ["five-element-overlord-i-can-upgrade-everything"],
   position: 99,
   ownLength: 2322,
   unitSlug: "words",

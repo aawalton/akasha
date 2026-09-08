@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0042Ch42StringOfFate = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0042-ch42-string-of-fate",
   title: "Ch42 String of Fate",
-  partOfSlugs: ["five-element-overlord-i-can-upgrade-everything"],
+  partOfCollectionSlugs: ["five-element-overlord-i-can-upgrade-everything"],
   position: 42,
   ownLength: 1692,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0106Ch106SlowDayInTheMarket
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0106-ch106-slow-day-in-the-market",
   title: "Ch106 Slow Day In The Market",
-  partOfSlugs: ["five-element-overlord-i-can-upgrade-everything"],
+  partOfCollectionSlugs: ["five-element-overlord-i-can-upgrade-everything"],
   position: 106,
   ownLength: 2618,
   unitSlug: "words",

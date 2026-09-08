@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008887Bathhouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0088-87-bathhouse",
   title: "87 - Bathhouse",
-  partOfSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
+  partOfCollectionSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
   position: 88,
   ownLength: 1826,
   unitSlug: "words",

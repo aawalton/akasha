@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005252DungeonOutbreak
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0052-52-dungeon-outbreak",
   title: "52 - Dungeon Outbreak",
-  partOfSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
+  partOfCollectionSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
   position: 52,
   ownLength: 1901,
   unitSlug: "words",

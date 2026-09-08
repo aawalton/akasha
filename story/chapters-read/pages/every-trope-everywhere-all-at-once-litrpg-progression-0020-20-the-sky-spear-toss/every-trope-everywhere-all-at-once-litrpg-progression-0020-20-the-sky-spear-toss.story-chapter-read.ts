@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002020TheSkySpearToss
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0020-20-the-sky-spear-toss",
   title: "20 - The Sky Spear Toss",
-  partOfSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
+  partOfCollectionSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
   position: 20,
   ownLength: 1787,
   unitSlug: "words",

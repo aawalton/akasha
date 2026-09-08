@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004242WhiteRocksOrSom
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0042-42-white-rocks-or-something-else",
   title: "42 - White Rocks? Or something Else?",
-  partOfSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
+  partOfCollectionSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
   position: 42,
   ownLength: 1650,
   unitSlug: "words",

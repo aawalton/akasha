@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0076Ch76BeastMasteryPeak = 
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0076-ch76-beast-mastery-peak",
   title: "Ch76 Beast Mastery Peak",
-  partOfSlugs: ["five-element-overlord-i-can-upgrade-everything"],
+  partOfCollectionSlugs: ["five-element-overlord-i-can-upgrade-everything"],
   position: 76,
   ownLength: 1910,
   unitSlug: "words",

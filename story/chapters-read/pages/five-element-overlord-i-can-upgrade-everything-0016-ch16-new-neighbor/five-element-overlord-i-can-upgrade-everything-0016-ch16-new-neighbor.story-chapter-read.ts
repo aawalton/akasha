@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0016Ch16NewNeighbor = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0016-ch16-new-neighbor",
   title: "Ch16 New Neighbor",
-  partOfSlugs: ["five-element-overlord-i-can-upgrade-everything"],
+  partOfCollectionSlugs: ["five-element-overlord-i-can-upgrade-everything"],
   position: 16,
   ownLength: 1504,
   unitSlug: "words",

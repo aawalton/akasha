@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004141Gabriel = {
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0041-41-gabriel",
   title: "41 - Gabriel",
-  partOfSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
+  partOfCollectionSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
   position: 41,
   ownLength: 1835,
   unitSlug: "words",

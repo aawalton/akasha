@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0024Ch24DemonicTechnique = 
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0024-ch24-demonic-technique",
   title: "Ch24 Demonic Technique",
-  partOfSlugs: ["five-element-overlord-i-can-upgrade-everything"],
+  partOfCollectionSlugs: ["five-element-overlord-i-can-upgrade-everything"],
   position: 24,
   ownLength: 1374,
   unitSlug: "words",

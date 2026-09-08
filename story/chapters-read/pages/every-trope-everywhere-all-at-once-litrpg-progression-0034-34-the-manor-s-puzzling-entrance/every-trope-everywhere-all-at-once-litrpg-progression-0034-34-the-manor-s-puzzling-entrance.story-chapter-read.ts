@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003434TheManorSPuzzli
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0034-34-the-manor-s-puzzling-entrance",
   title: "34 - The Manor's Puzzling Entrance",
-  partOfSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
+  partOfCollectionSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
   position: 34,
   ownLength: 2078,
   unitSlug: "words",

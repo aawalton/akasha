@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0032Ch32TensionRising = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0032-ch32-tension-rising",
   title: "Ch32 Tension Rising",
-  partOfSlugs: ["five-element-overlord-i-can-upgrade-everything"],
+  partOfCollectionSlugs: ["five-element-overlord-i-can-upgrade-everything"],
   position: 32,
   ownLength: 834,
   unitSlug: "words",
