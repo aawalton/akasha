@@ -17,7 +17,7 @@ import { useReaderNeighbors } from "@akasha/pages-ui/supabase/use-reader-neighbo
 import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
 import { parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { lazy, Suspense } from "react"
 import { useParams } from "react-router"
 
