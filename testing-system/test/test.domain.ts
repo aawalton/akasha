@@ -12,6 +12,14 @@ export const test = {
     },
     {
       invariantKind: "departure",
+      statement: "A test asserts no name and no prose.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name or a passage is read from where that name or passage is stated.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A test over invented data proves the truths the fixture holds.",
     },
     {
