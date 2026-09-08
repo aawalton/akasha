@@ -9,6 +9,7 @@ export const measure = {
     "command/measure-repo",
     "command/measure-pages",
     "command/measure-checks",
+    "command/measure-changes",
     "namespace/measure-claude-accounts",
     "command/measure-attributes",
     "command/measure-learning",

@@ -32,7 +32,9 @@ const FORMS =
   `\`${LAST} <count>\` names runs, \`${LAST} <count>{m|h|d}\` names a period, ` +
   `and \`${AUDIT_FLAG}\` reads the audit runs`
 
-const HEADING: readonly string[] = ["check", "runs", "cpu", "mem", "paths", "refusals"]
+const CHECK = "check"
+
+const HEADED: readonly string[] = ["runs", "cpu", "mem", "paths", "refusals"]
 
 const UNREAD = "these were not read, and count no runs:"
 
@@ -47,6 +49,7 @@ const GIB = 1024 * 1024 * 1024
 export interface Run {
   readonly runId: string | null
   readonly phase: string
+  readonly ran: string
   readonly ranAt: number
   readonly cpu: number
   readonly mem: number | null
@@ -113,6 +116,7 @@ export function runsIn(body: string): readonly Run[] {
     found.push({
       runId: typeof said === "string" && said !== "" ? said : null,
       phase: String(one["phase"] ?? ""),
+      ran: String(one["ran"] ?? ""),
       ranAt: Date.parse(String(one["ranAt"] ?? "")),
       cpu: Number(one["cpuSeconds"] ?? 0) + Number(one["childCpuSeconds"] ?? 0),
       mem: one["peakMeasured"] === true ? Number(one["peakAddedBytes"] ?? 0) : null,
@@ -145,7 +149,7 @@ function periodIn(said: string): Chose {
   return { chosen: { by: "period", ms, said }, phase: PATCH, refusals: [] }
 }
 
-function windowIn(argv: readonly string[]): Chose {
+export function windowIn(argv: readonly string[]): Chose {
   if (argv.length === 0) return { chosen: ONE_RUN, phase: PATCH, refusals: [] }
   const first = argv[0] ?? ""
   if (first !== LAST) return refusing(`\`${first}\` is no argument this command takes`)
@@ -336,9 +340,9 @@ function totalRowOf(total: Total): readonly string[] {
   ]
 }
 
-export function linesOf(costs: Costs): readonly string[] {
+export function linesOf(costs: Costs, named: string = CHECK): readonly string[] {
   const rows: readonly (readonly string[])[] = [
-    HEADING,
+    [named, ...HEADED],
     ...costs.checks.map(rowOf),
     [],
     totalRowOf(costs.total),

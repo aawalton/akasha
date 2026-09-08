@@ -15,6 +15,7 @@
     "./argument-reading": "./argument-reading/argument-reading.module.code.ts",
     "./audit": "./commands/audit/audit.command.code.ts",
     "./change-acting": "./change-acting/change-acting.module.code.ts",
+    "./change-measuring": "./commands/measure/change-measuring/change-measuring.module.code.ts",
     "./check-measuring": "./commands/measure/check-measuring/check-measuring.module.code.ts",
     "./gate-building": "./gate-building/gate-building.module.code.ts",
     "./patching": "./patching/patching.module.code.ts",
