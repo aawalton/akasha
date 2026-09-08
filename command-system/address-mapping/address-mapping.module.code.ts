@@ -6,7 +6,8 @@ import type { Shadow } from "@akasha/pages/shadow"
 import { shadowFor } from "@akasha/pages/shadow"
 import { textOnDisk } from "@akasha/utils-fs/text-on-disk"
 import type { FileEdit } from "../landing/landing.module.code.ts"
-import { baseOf, changeOf } from "../landing/landing.module.code.ts"
+
+const PAGE_TYPE = "page-type"
 
 const RUNNER = "change-runner"
 
@@ -129,14 +130,43 @@ export function mappedOver(
   return edits.length === 0 ? NOTHING_MAPPED : { edits, said }
 }
 
-export function mappedFor(root: string, changes: readonly FileEdit[]): Mapped {
+function runsIn(text: string | null): boolean {
+  return text !== null && declaresRun(text)
+}
+
+function couldTurn(change: Change): boolean {
+  const left = textOver(change.root, change)
+  const wasRun = (path: string): boolean => runsIn(textOnDisk(join(change.root, path)))
+  const isRun = (path: string): boolean => runsIn(left(path))
+  for (const path of change.changed) {
+    const said = partedIn(path)
+    if (said === null || said.held !== TS) continue
+    if (said.pageType === PAGE_TYPE || said.pageType === RUNNER) return true
+    if (said.sections.length === 0) {
+      const code = besideAt(path, CODE, TS)
+      if (code !== null && (wasRun(code) || isRun(code))) return true
+      continue
+    }
+    if (said.sections.length === 1 && said.sections[0] === CODE && wasRun(path) !== isRun(path)) {
+      return true
+    }
+  }
+  return false
+}
+
+export function mappedFor(change: Change): Mapped {
   try {
-    const change = changeOf(root, { base: baseOf(root), edits: changes })
+    if (!couldTurn(change)) return NOTHING_MAPPED
     const cast = shadowFor(change)
     if ("refused" in cast) {
       return { edits: [], said: [`no address map was written again — ${cast.refused}`] }
     }
-    return mappedOver(root, cast.shadow, textOver(root, change), new Set(change.changed))
+    return mappedOver(
+      change.root,
+      cast.shadow,
+      textOver(change.root, change),
+      new Set(change.changed)
+    )
   } catch (thrown) {
     return {
       edits: [],

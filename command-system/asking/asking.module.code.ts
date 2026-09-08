@@ -109,8 +109,9 @@ export type Prepared = {
 export function preparing(root: string, base: string, changes: readonly FileEdit[]): Prepared {
   const formatting = formattingIn(root, changes)
   const locking = lockingFor(root, base, formatting.changes)
-  const worked = workedFor(root, formatting.changes)
-  const mapped = mappedFor(root, formatting.changes)
+  const change = changeOf(root, { base, edits: formatting.changes })
+  const worked = workedFor(change)
+  const mapped = mappedFor(change)
   return {
     formatting,
     changes: [...formatting.changes, ...locking.edits, ...worked.edits, ...mapped.edits],

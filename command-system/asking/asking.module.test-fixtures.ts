@@ -8,11 +8,13 @@ import { noImportersFiled, pageFiled } from "@akasha/indexes/testing"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { ADMITS_CODE, MINTED, mintedId, minting } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
-import { editsAt } from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  appendEdits,
+  editsAt,
+} from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { folding } from "../../commands/pages/apply/apply.command.code.ts"
 import { applying as applyingPatch } from "../applying/applying.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
-import { drafted } from "../drafting/drafting.module.code.ts"
 import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
 import { inputIn } from "../piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
@@ -262,8 +264,15 @@ export const mechanically = async (root: string): Promise<number> =>
 export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
 
 export function seeded(root: string): boolean {
-  const held = [{ path: "akasha/one.ts", was: bytes("committed\n"), body: bytes(PROPOSED) }]
-  return !("why" in drafted(root, SEAT_AT, held))
+  const held = [
+    {
+      kind: "replace" as const,
+      path: "akasha/one.ts",
+      contentFrom: "committed\n",
+      contentTo: PROPOSED,
+    },
+  ]
+  return !("why" in appendEdits(root, SEAT_AT, held))
 }
 
 export function reaching(held: number[]): () => undefined {

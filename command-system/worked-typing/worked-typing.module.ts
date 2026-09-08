@@ -14,7 +14,17 @@ export const workedTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "The type is written again where the lockfile is written again.",
+      statement:
+        "The type is worked out again only where the change could turn what the type holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a change could turn is read from the names of the paths it carries and the pages at them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A guard that cannot tell works the type out rather than leaving the type stale.",
     },
     {
       invariantKind: "departure",

@@ -29,7 +29,16 @@ export const addressMapping = {
     },
     {
       invariantKind: "departure",
-      statement: "The map is written again on every landing rather than when a change moves.",
+      statement: "The map is worked out again only where the change could turn what the map holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a change could turn is read from the names of the paths it carries and the code beside them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A guard that cannot tell works the map out rather than leaving the map stale.",
     },
     {
       invariantKind: "departure",

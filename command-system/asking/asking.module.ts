@@ -146,6 +146,15 @@ export const asking = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The worked type and the address map are worked out over one change rather than one each.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That change is built from the base commit this call was handed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A lockfile that could not be made is said rather than refusing the change.",
     },
     {

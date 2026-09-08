@@ -1,12 +1,14 @@
 import { join } from "node:path"
+import { textOf } from "@akasha/code/body-text"
 import { formattedBody } from "@akasha/code/code-format"
 import type { Schema } from "@akasha/indexes/shape"
+import type { Change } from "@akasha/pages/change"
 import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
+import { partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import { shadowFor } from "@akasha/pages/shadow"
 import { textOnDisk } from "@akasha/utils-fs/text-on-disk"
 import type { FileEdit } from "../landing/landing.module.code.ts"
-import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -21,6 +23,8 @@ const SLUG = "slug"
 const WORKED_AT = "worked"
 
 const HOLDS = "ts"
+
+const PROPERTY_AT = "propertySlug"
 
 const HELD = ".ts"
 
@@ -145,12 +149,29 @@ export function workedOver(root: string, shadow: Shadow): Worked {
   return edits.length === 0 ? NOTHING_WORKED : { edits, said }
 }
 
-export function workedFor(root: string, changes: readonly FileEdit[]): Worked {
+function statesProperty(text: string | null): boolean {
+  return text?.includes(PROPERTY_AT) === true
+}
+
+function couldTurn(change: Change): boolean {
+  for (const path of change.changed) {
+    const said = partedIn(path)
+    if (said === null || said.held !== HOLDS) continue
+    if (said.sections.includes(WORKED_AT)) return true
+    if (said.sections.length > 0) continue
+    if (said.pageType === PAGE_TYPE) return true
+    if (statesProperty(textOnDisk(join(change.root, path)))) return true
+    if (statesProperty(textOf(change.after(path)))) return true
+  }
+  return false
+}
+
+export function workedFor(change: Change): Worked {
   try {
-    const change = changeOf(root, { base: baseOf(root), edits: changes })
+    if (!couldTurn(change)) return NOTHING_WORKED
     const cast = shadowFor(change)
     if ("refused" in cast) return NOTHING_WORKED
-    return workedOver(root, cast.shadow)
+    return workedOver(change.root, cast.shadow)
   } catch (thrown) {
     return {
       edits: [],
