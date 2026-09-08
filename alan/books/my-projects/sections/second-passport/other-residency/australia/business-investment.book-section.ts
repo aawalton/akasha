@@ -8,7 +8,7 @@ export const businessInvestment = {
   sectionOfSlug: "book-section/other-residency/other-residency-australia",
   description:
     "Australia business/investment residency paths: the BIIP (incl. Significant Investor Visa) closure of 31 Jul 2024 and what replaced it (May 2026 snapshot).",
-  partOfSlugs: ["book-section/other-residency/other-residency-australia"],
+  partOfCollectionSlugs: ["book-section/other-residency/other-residency-australia"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

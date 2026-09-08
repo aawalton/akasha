@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0015TheCull = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0015-the-cull",
   title: "The Cull",
-  partOfSlugs: ["the-dungeon-of-one-thousand-deaths"],
+  partOfCollectionSlugs: ["the-dungeon-of-one-thousand-deaths"],
   position: 15,
   ownLength: 6070,
   unitSlug: "words",

@@ -8,7 +8,7 @@ export const battery = {
   sectionOfSlug: "book-section/solar-power/sizing",
   description:
     "Battery sizing — daily PV-to-evening shifting plus short-duration outage resilience. Seasonal storage role is held by the grid; battery is not a seasonal asset.",
-  partOfSlugs: ["book-section/solar-power/sizing"],
+  partOfCollectionSlugs: ["book-section/solar-power/sizing"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

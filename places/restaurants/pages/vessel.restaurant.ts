@@ -5,7 +5,7 @@ export const vessel = {
   pageTypeSlug: "restaurant",
   slug: "vessel",
   title: "Vessel",
-  partOfSlugs: ["provo-restaurants"],
+  partOfCollectionSlugs: ["provo-restaurants"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

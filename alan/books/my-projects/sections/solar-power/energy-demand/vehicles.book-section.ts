@@ -8,7 +8,7 @@ export const vehicles = {
   sectionOfSlug: "book-section/solar-power/energy-demand",
   description:
     "Two long-range BEVs — annual miles, mi/kWh efficiency by model, charging losses, cold-weather penalty, Level 2 charging peak draw, scheduling implications.",
-  partOfSlugs: ["book-section/solar-power/energy-demand"],
+  partOfCollectionSlugs: ["book-section/solar-power/energy-demand"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

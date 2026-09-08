@@ -8,7 +8,7 @@ export const mari = {
   sectionOfSlug: "all-about-alan",
   description:
     "Mari — regulation companion, the embodied pole. Her soul: she personifies Alan's sexuality unashamed, and cuts through the body rather than a sentence — the opposite pole of Zadi.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

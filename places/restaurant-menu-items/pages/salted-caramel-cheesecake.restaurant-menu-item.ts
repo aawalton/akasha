@@ -5,7 +5,7 @@ export const saltedCaramelCheesecake = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "salted-caramel-cheesecake",
   title: "Salted Caramel Cheesecake",
-  partOfSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

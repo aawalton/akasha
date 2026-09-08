@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0006TheGuest = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0006-the-guest",
   title: "The Guest",
-  partOfSlugs: ["the-dungeon-of-one-thousand-deaths"],
+  partOfCollectionSlugs: ["the-dungeon-of-one-thousand-deaths"],
   position: 6,
   ownLength: 3899,
   unitSlug: "words",

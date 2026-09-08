@@ -5,7 +5,7 @@ export const tossD = {
   pageTypeSlug: "restaurant",
   slug: "toss-d",
   title: "Toss’d",
-  partOfSlugs: ["provo-restaurants"],
+  partOfCollectionSlugs: ["provo-restaurants"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

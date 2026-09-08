@@ -8,7 +8,7 @@ export const suicidalIdeation = {
   sectionOfSlug: "all-about-alan",
   description:
     "Suicidal ideation — the lifelong arc, the age-7 first episode stopped by my own epistemic rigor, and survivors' stories (real and fictional) as the outside input that buys one more day.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

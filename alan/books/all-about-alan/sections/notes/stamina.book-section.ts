@@ -8,7 +8,7 @@ export const stamina = {
   sectionOfSlug: "all-about-alan",
   description:
     "Stamina — physical energy. Levels of energy resources in the body. Currently at stoplight resolution; reads through signed valence on movement.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

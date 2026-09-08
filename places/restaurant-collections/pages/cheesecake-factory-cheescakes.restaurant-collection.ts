@@ -5,7 +5,7 @@ export const cheesecakeFactoryCheescakes = {
   pageTypeSlug: "restaurant-collection",
   slug: "cheesecake-factory-cheescakes",
   title: "Cheesecake Factory Cheescakes",
-  partOfSlugs: ["the-cheesecake-factory"],
+  partOfCollectionSlugs: ["the-cheesecake-factory"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

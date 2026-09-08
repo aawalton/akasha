@@ -5,7 +5,7 @@ export const peachPerfectWithRaspberryDrizzle = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "peach-perfect-with-raspberry-drizzle",
   title: "Peach Perfect with Raspberry Drizzle",
-  partOfSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

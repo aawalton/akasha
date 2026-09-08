@@ -5,7 +5,7 @@ export const breathOfTheWild0003FourWallsOfLight = {
   pageTypeSlug: "story-chapter-played",
   slug: "breath-of-the-wild-0003-four-walls-of-light",
   title: "Four Walls of Light",
-  partOfSlugs: ["breath-of-the-wild"],
+  partOfCollectionSlugs: ["breath-of-the-wild"],
   position: 3,
   ownLength: 4605,
   unitSlug: "words",

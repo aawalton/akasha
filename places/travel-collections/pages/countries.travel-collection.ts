@@ -5,7 +5,7 @@ export const countries = {
   pageTypeSlug: "travel-collection",
   slug: "countries",
   title: "Countries",
-  partOfSlugs: ["travel"],
+  partOfCollectionSlugs: ["travel"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

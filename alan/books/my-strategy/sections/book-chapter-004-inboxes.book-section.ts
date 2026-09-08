@@ -7,7 +7,7 @@ export const bookChapter004Inboxes = {
   title: "My inboxes",
   sectionOfSlug: "my-strategy",
   position: 4,
-  partOfSlugs: ["my-strategy"],
+  partOfCollectionSlugs: ["my-strategy"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

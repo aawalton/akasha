@@ -8,7 +8,7 @@ export const assessment = {
   sectionOfSlug: "book-section/solar-power/envelope",
   description:
     "Assessment options for the envelope — blower door, IR thermography, Manual J, BPI / RESNET audits — with current pricing and what each one resolves.",
-  partOfSlugs: ["book-section/solar-power/envelope"],
+  partOfCollectionSlugs: ["book-section/solar-power/envelope"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

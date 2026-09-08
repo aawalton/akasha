@@ -5,7 +5,7 @@ export const breathOfTheWild0004TheWeightOfCold = {
   pageTypeSlug: "story-chapter-played",
   slug: "breath-of-the-wild-0004-the-weight-of-cold",
   title: "The Weight of Cold",
-  partOfSlugs: ["breath-of-the-wild"],
+  partOfCollectionSlugs: ["breath-of-the-wild"],
   position: 4,
   ownLength: 4464,
   unitSlug: "words",

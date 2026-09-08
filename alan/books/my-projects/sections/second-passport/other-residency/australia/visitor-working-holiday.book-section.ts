@@ -8,7 +8,7 @@ export const visitorWorkingHoliday = {
   sectionOfSlug: "book-section/other-residency/other-residency-australia",
   description:
     "Australia visitor and working-holiday options: Work and Holiday 462, Working Holiday 417, Visitor 600, and the digital-nomad gap (May 2026 snapshot).",
-  partOfSlugs: ["book-section/other-residency/other-residency-australia"],
+  partOfCollectionSlugs: ["book-section/other-residency/other-residency-australia"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

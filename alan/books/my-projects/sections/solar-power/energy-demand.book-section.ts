@@ -8,7 +8,7 @@ export const energyDemand = {
   sectionOfSlug: "book-section/my-projects/solar-power",
   description:
     "Annual energy demand plan for all-electric 6000 sq ft Provo home with heat pumps, 12 gaming PCs, two EVs — sized for self-sufficiency.",
-  partOfSlugs: ["book-section/my-projects/solar-power"],
+  partOfCollectionSlugs: ["book-section/my-projects/solar-power"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

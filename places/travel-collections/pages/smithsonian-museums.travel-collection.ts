@@ -5,7 +5,7 @@ export const smithsonianMuseums = {
   pageTypeSlug: "travel-collection",
   slug: "smithsonian-museums",
   title: "Smithsonian Museums",
-  partOfSlugs: ["travel"],
+  partOfCollectionSlugs: ["travel"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

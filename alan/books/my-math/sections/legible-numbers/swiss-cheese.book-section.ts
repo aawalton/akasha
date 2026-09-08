@@ -6,7 +6,7 @@ export const swissCheese = {
   slug: "swiss-cheese",
   title: "The legible integers are Swiss cheese",
   sectionOfSlug: "my-math",
-  partOfSlugs: ["my-math"],
+  partOfCollectionSlugs: ["my-math"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

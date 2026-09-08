@@ -5,7 +5,7 @@ export const reeseSPeanutButterChocolateCakeCheesecake = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "reese-s-peanut-butter-chocolate-cake-cheesecake",
   title: "Reese's Peanut Butter Chocolate Cake Cheesecake",
-  partOfSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

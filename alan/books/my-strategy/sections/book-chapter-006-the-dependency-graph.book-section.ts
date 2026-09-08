@@ -7,7 +7,7 @@ export const bookChapter006TheDependencyGraph = {
   title: "The dependency graph",
   sectionOfSlug: "my-strategy",
   position: 6,
-  partOfSlugs: ["my-strategy"],
+  partOfCollectionSlugs: ["my-strategy"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

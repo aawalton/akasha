@@ -5,7 +5,7 @@ export const lowLiciousCheesecake = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "low-licious-cheesecake",
   title: "Low-Licious Cheesecake",
-  partOfSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0018TheFinish = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0018-the-finish",
   title: "The Finish",
-  partOfSlugs: ["the-dungeon-of-one-thousand-deaths"],
+  partOfCollectionSlugs: ["the-dungeon-of-one-thousand-deaths"],
   position: 18,
   ownLength: 4473,
   unitSlug: "words",

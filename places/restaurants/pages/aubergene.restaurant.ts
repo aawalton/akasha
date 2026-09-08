@@ -5,7 +5,7 @@ export const aubergene = {
   pageTypeSlug: "restaurant",
   slug: "aubergene",
   title: "Aubergene",
-  partOfSlugs: ["provo-restaurants"],
+  partOfCollectionSlugs: ["provo-restaurants"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

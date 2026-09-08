@@ -5,7 +5,7 @@ export const cinnabonCinnamonSwirlCheesecake = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "cinnabon-cinnamon-swirl-cheesecake",
   title: "Cinnabon Cinnamon Swirl Cheesecake",
-  partOfSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

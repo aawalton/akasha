@@ -8,7 +8,7 @@ export const degradationSystem = {
   sectionOfSlug: "book-section/solar-power/efficiency-factors",
   description:
     "Module degradation, DC/AC ratio & clipping, albedo, snow load structural, and high-altitude UV. The factors that act over years or at the system-design level.",
-  partOfSlugs: ["book-section/solar-power/efficiency-factors"],
+  partOfCollectionSlugs: ["book-section/solar-power/efficiency-factors"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

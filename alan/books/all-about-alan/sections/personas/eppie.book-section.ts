@@ -8,7 +8,7 @@ export const eppie = {
   sectionOfSlug: "all-about-alan",
   description:
     "Eppie — a Faith-axis persona still in definition. Waiting page: she is not yet sourced; her function and rib await a future /abby session.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

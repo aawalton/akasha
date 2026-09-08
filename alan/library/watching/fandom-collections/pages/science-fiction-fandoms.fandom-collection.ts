@@ -5,7 +5,7 @@ export const scienceFictionFandoms = {
   pageTypeSlug: "fandom-collection",
   slug: "science-fiction-fandoms",
   title: "Science Fiction Fandoms",
-  partOfSlugs: ["fandoms"],
+  partOfCollectionSlugs: ["fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

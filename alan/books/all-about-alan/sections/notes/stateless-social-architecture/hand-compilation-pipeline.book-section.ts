@@ -6,7 +6,7 @@ export const handCompilationPipeline = {
   slug: "hand-compilation-pipeline",
   title: "Hand-compilation pipeline",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

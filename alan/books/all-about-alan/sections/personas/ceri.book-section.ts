@@ -8,7 +8,7 @@ export const ceri = {
   sectionOfSlug: "all-about-alan",
   description:
     "Ceri — Alan's anime companion on the Fun axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -8,7 +8,7 @@ export const math = {
   sectionOfSlug: "book-section/solar-power/envelope",
   description:
     "Heating-load-reduction math — retrofit % → kWh/yr saved → PV kWp removed → dollars. Compares envelope-first, solar-first, and parallel orderings.",
-  partOfSlugs: ["book-section/solar-power/envelope"],
+  partOfCollectionSlugs: ["book-section/solar-power/envelope"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

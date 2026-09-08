@@ -7,7 +7,7 @@ export const bookChapter003Priorities = {
   title: "The two orderings",
   sectionOfSlug: "my-strategy",
   position: 3,
-  partOfSlugs: ["my-strategy"],
+  partOfCollectionSlugs: ["my-strategy"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0017TheReach = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0017-the-reach",
   title: "The Reach",
-  partOfSlugs: ["the-dungeon-of-one-thousand-deaths"],
+  partOfCollectionSlugs: ["the-dungeon-of-one-thousand-deaths"],
   position: 17,
   ownLength: 5287,
   unitSlug: "words",

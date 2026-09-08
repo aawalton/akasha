@@ -5,7 +5,7 @@ export const dragonsAndDungeons0013TheStillOne = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0013-the-still-one",
   title: "The Still One",
-  partOfSlugs: ["story-played/dragons-and-dungeons"],
+  partOfCollectionSlugs: ["story-played/dragons-and-dungeons"],
   position: 13,
   ownLength: 1062,
   unitSlug: "words",

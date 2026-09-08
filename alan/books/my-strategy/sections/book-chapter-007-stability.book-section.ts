@@ -7,7 +7,7 @@ export const bookChapter007Stability = {
   title: "Where stability comes from",
   sectionOfSlug: "my-strategy",
   position: 7,
-  partOfSlugs: ["my-strategy"],
+  partOfCollectionSlugs: ["my-strategy"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

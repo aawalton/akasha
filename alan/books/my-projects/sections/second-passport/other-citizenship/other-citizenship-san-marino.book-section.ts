@@ -7,7 +7,7 @@ export const otherCitizenshipSanMarino = {
   title: "San Marino",
   sectionOfSlug: "book-section/second-passport/other-citizenship",
   description: "San Marino citizenship paths (May 2026 snapshot).",
-  partOfSlugs: ["book-section/second-passport/other-citizenship"],
+  partOfCollectionSlugs: ["book-section/second-passport/other-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

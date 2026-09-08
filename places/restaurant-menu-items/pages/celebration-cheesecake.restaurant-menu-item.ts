@@ -5,7 +5,7 @@ export const celebrationCheesecake = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "celebration-cheesecake",
   title: "Celebration Cheesecake",
-  partOfSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

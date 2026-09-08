@@ -7,7 +7,7 @@ export const otherCitizenshipMonaco = {
   title: "Monaco",
   sectionOfSlug: "book-section/second-passport/other-citizenship",
   description: "Monaco citizenship paths (May 2026 snapshot).",
-  partOfSlugs: ["book-section/second-passport/other-citizenship"],
+  partOfCollectionSlugs: ["book-section/second-passport/other-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

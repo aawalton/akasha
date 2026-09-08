@@ -6,7 +6,7 @@ export const arousalAndSafetyModel = {
   slug: "arousal-and-safety-model",
   title: "Arousal and safety — the refined model",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

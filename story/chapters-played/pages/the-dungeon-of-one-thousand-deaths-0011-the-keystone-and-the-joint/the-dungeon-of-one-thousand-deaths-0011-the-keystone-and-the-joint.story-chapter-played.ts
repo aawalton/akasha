@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0011TheKeystoneAndTheJoint = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0011-the-keystone-and-the-joint",
   title: "The Keystone and the Joint",
-  partOfSlugs: ["the-dungeon-of-one-thousand-deaths"],
+  partOfCollectionSlugs: ["the-dungeon-of-one-thousand-deaths"],
   position: 11,
   ownLength: 6450,
   unitSlug: "words",

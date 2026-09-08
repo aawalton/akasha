@@ -6,7 +6,7 @@ export const slowBuildStrategy = {
   slug: "slow-build-strategy",
   title: "Slow-build strategy",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

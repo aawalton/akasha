@@ -5,7 +5,7 @@ export const original = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "original",
   title: "Original",
-  partOfSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

@@ -8,7 +8,7 @@ export const reducedChaining = {
   sectionOfSlug: "all-about-alan",
   description:
     "Reduced chaining — disadvantage of aphantasia where only conceptual triggers fire, with no sensory or emotional ones.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

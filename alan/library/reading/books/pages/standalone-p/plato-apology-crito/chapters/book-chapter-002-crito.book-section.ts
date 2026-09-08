@@ -9,7 +9,7 @@ export const bookChapter002Crito = {
   status: "completed",
   ownLength: 5341,
   position: 2,
-  partOfSlugs: ["plato-apology-crito"],
+  partOfCollectionSlugs: ["plato-apology-crito"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

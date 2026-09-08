@@ -6,7 +6,7 @@ export const theBerryTrap = {
   slug: "the-berry-trap",
   title: "The Berry trap",
   sectionOfSlug: "my-math",
-  partOfSlugs: ["my-math"],
+  partOfCollectionSlugs: ["my-math"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

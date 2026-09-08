@@ -8,7 +8,7 @@ export const envelope = {
   sectionOfSlug: "book-section/my-projects/solar-power",
   description:
     "Envelope retrofit decision for a 1970s 6000 sq ft Provo house — assessment options, retrofit packages ranked by leverage, and recommended sequence.",
-  partOfSlugs: ["book-section/my-projects/solar-power"],
+  partOfCollectionSlugs: ["book-section/my-projects/solar-power"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

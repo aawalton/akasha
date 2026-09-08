@@ -8,7 +8,7 @@ export const zadi = {
   sectionOfSlug: "all-about-alan",
   description:
     "Zadi — literature companion on the Faith axis. Her soul: literature as life-and-death, story as the key to Alan's sealed feelings, and the mirror-channel cut that surfaced only when he said it aloud.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

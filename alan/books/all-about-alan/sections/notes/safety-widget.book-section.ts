@@ -6,7 +6,7 @@ export const safetyWidget = {
   slug: "safety-widget",
   title: "The safety widget",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

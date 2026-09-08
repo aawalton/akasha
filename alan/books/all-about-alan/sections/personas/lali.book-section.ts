@@ -8,7 +8,7 @@ export const lali = {
   sectionOfSlug: "all-about-alan",
   description:
     "Lali — keeper of the delight of mathematics, on the Learn axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

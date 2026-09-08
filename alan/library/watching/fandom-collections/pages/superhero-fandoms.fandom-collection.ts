@@ -5,7 +5,7 @@ export const superheroFandoms = {
   pageTypeSlug: "fandom-collection",
   slug: "superhero-fandoms",
   title: "Superhero Fandoms",
-  partOfSlugs: ["fandoms"],
+  partOfCollectionSlugs: ["fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

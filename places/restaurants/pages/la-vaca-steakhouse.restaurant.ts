@@ -5,7 +5,7 @@ export const laVacaSteakhouse = {
   pageTypeSlug: "restaurant",
   slug: "la-vaca-steakhouse",
   title: "La Vaca Steakhouse",
-  partOfSlugs: ["provo-restaurants"],
+  partOfCollectionSlugs: ["provo-restaurants"],
   position: 0,
   ownLength: 22500,
   ownProgress: 22500,

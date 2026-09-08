@@ -6,7 +6,7 @@ export const wantingAsGapClosing = {
   slug: "wanting-as-gap-closing",
   title: "Wanting as gap-closing",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

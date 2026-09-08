@@ -8,7 +8,7 @@ export const losses = {
   sectionOfSlug: "book-section/solar-power/efficiency-factors",
   description:
     "System losses — shading, soiling, snow, temperature, mismatch, wiring, inverter, availability. The PVWatts 14.08% bucket and what's in it.",
-  partOfSlugs: ["book-section/solar-power/efficiency-factors"],
+  partOfCollectionSlugs: ["book-section/solar-power/efficiency-factors"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

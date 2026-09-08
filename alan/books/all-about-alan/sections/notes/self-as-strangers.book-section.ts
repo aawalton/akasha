@@ -6,7 +6,7 @@ export const selfAsStrangers = {
   slug: "self-as-strangers",
   title: "The self as strangers",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

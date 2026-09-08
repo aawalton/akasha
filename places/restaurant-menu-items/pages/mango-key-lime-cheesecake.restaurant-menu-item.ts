@@ -5,7 +5,7 @@ export const mangoKeyLimeCheesecake = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "mango-key-lime-cheesecake",
   title: "Mango Key Lime Cheesecake",
-  partOfSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

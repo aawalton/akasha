@@ -6,7 +6,7 @@ export const interventionPathways = {
   slug: "intervention-pathways",
   title: "Safety — intervention pathways and how it climbs",
   sectionOfSlug: "all-about-alan",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

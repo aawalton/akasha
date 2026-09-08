@@ -6,7 +6,7 @@ export const compressibility = {
   slug: "compressibility",
   title: "Compressibility is intrinsic",
   sectionOfSlug: "my-math",
-  partOfSlugs: ["my-math"],
+  partOfCollectionSlugs: ["my-math"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -5,7 +5,7 @@ export const breathOfTheWild0005TheKingSLastGift = {
   pageTypeSlug: "story-chapter-played",
   slug: "breath-of-the-wild-0005-the-king-s-last-gift",
   title: "The King's Last Gift",
-  partOfSlugs: ["breath-of-the-wild"],
+  partOfCollectionSlugs: ["breath-of-the-wild"],
   position: 5,
   ownLength: 5312,
   unitSlug: "words",

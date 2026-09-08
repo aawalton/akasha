@@ -5,7 +5,7 @@ export const theCheesecakeFactory = {
   pageTypeSlug: "restaurant",
   slug: "the-cheesecake-factory",
   title: "The Cheesecake Factory",
-  partOfSlugs: ["provo-restaurants"],
+  partOfCollectionSlugs: ["provo-restaurants"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

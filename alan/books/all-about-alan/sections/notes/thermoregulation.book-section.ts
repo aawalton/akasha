@@ -8,7 +8,7 @@ export const thermoregulation = {
   sectionOfSlug: "all-about-alan",
   description:
     "Body-temperature regulation — internal temperature tracks the safety level rather than ambient, with directional inversion (hot at high safety, cold at low) and an output-side production failure.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

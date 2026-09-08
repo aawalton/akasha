@@ -6,7 +6,7 @@ export const finiteness = {
   slug: "finiteness",
   title: "The legible set is finite, and almost every real is illegible",
   sectionOfSlug: "my-math",
-  partOfSlugs: ["my-math"],
+  partOfCollectionSlugs: ["my-math"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -8,7 +8,7 @@ export const stressResponses = {
   sectionOfSlug: "all-about-alan",
   description:
     "Stress responses — meltdown and shutdown as symptom labels, the five sympathetic/parasympathetic modes (fight, flight, freeze, fawn, flop) as causes, and integration with the safety scale.",
-  partOfSlugs: ["all-about-alan"],
+  partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection
