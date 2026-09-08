@@ -29,23 +29,11 @@ export const edits = {
     },
     {
       invariantKind: "departure",
-      statement: "A line holds the path an edit lands at.",
+      statement: "A line states one edit of the four kinds.",
     },
     {
       invariantKind: "departure",
-      statement: "A line holds the body an edit was worked out from.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A line holds the body an edit leaves.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A line stating no body takes its path away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A line naming a path an edit came from is a move.",
+      statement: "A line holds the paths and bodies that edit names and no others.",
     },
     {
       invariantKind: "departure",
