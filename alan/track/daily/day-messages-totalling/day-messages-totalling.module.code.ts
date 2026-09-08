@@ -17,6 +17,10 @@ export function daysCounted(days: readonly Dayed[], before: string): readonly Da
   return days.filter((one) => one.day >= MESSAGES_COUNTED_FROM && one.day < before)
 }
 
+export function daysOn(days: readonly Dayed[], day: string): readonly Dayed[] {
+  return days.filter((one) => one.day === day)
+}
+
 export function sentOver(days: readonly Dayed[]): ReadonlyMap<string, number> {
   const found = new Map<string, number>()
   for (const one of days) {

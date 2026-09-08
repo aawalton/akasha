@@ -4,7 +4,7 @@ export const dayMessagesTotalling = {
   id: "01a082e7-25cd-7547-840c-7cd58dad9c8c",
   pageTypeSlug: "module",
   slug: "day-messages-totalling",
-  definition: "how many messages each persona was written over the days before a day",
+  definition: "how many messages each persona was written over a run of days",
   code: "ts",
   test: "ts",
   invariants: [
@@ -14,7 +14,11 @@ export const dayMessagesTotalling = {
     },
     {
       invariantKind: "departure",
-      statement: "The day named is itself left out.",
+      statement: "The day named is itself left out of the days before that day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One day alone is taken by its date whether counting began by then or not.",
     },
     {
       invariantKind: "departure",
