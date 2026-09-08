@@ -58,7 +58,10 @@ const API_ROUTES: RouteConfig = [
     "api/watcher/upsert-mined-items",
     "routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.code.ts"
   ),
-  route("api/watcher/upsert-mined-quests", "routes/api.watcher.upsert-mined-quests.tsx"),
+  route(
+    "api/watcher/upsert-mined-quests",
+    "routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.code.ts"
+  ),
   route("api/watcher/upsert-pricing-extract", "routes/api.watcher.upsert-pricing-extract.tsx"),
   route("api/watcher/upsert-pricing-snapshot", "routes/api.watcher.upsert-pricing-snapshot.tsx"),
   route("api/addons/version", "routes/addon-bundle-version/addon-bundle-version.route.code.ts"),

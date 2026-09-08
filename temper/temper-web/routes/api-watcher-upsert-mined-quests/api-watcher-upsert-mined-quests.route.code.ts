@@ -1,7 +1,9 @@
 import { isRecord } from "@akasha/utils-narrow/is-record"
-import { validateWatcherToken } from "../../temper-watcher/watcher-token-check/watcher-token-check.module.code.ts"
-import { MINE_NAME, MINED_QUEST_PAGE_TYPE } from "../mined-item-rows/mined-item-rows.module.code.ts"
-import type { Route } from "./+types/api.watcher.upsert-mined-quests"
+import { validateWatcherToken } from "../../../temper-watcher/watcher-token-check/watcher-token-check.module.code.ts"
+import {
+  MINE_NAME,
+  MINED_QUEST_PAGE_TYPE,
+} from "../../mined-item-rows/mined-item-rows.module.code.ts"
 
 const MAX_QUESTS_PER_REQUEST = 1000
 
@@ -33,7 +35,7 @@ function isRequestBody(v: unknown): v is RequestBody {
   return v.items.every(isMinedQuest)
 }
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   let body: unknown
   try {
     body = await request.json()
@@ -60,15 +62,12 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     )
   }
 
-  // Same refusal as `api.watcher.upsert-mined-items`: a mined quest landed as a row, and a row
-  // stands inside a page's body rather than at a path of its own, so `patchRows` has refused every
-  // call since 4c1f05a264. The watcher has been posting here and reading 502 ever since.
   console.error(
-    `upsert-mined-quests: ${items.length} quest(s) were not kept in \`${MINED_QUEST_PAGE_TYPE}/${MINE_NAME}\` — a row stands inside a page's body, and ${WRITER} has no way to reach one`
+    `upsert-mined-quests: ${items.length} quest(s) were not kept in \`${MINED_QUEST_PAGE_TYPE}/${MINE_NAME}\` — a row sits inside a page's body, and ${WRITER} has no way to reach one`
   )
   return Response.json(
     {
-      error: `a row stands inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so none of these ${items.length} quest(s) was kept. land the mine's body with \`writeFiles\` or \`patchFiles\`, or through the akasha command line`,
+      error: `a row sits inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so none of these ${items.length} quest(s) was kept. land the mine's body with \`writeFiles\` or \`patchFiles\`, or through the akasha command line`,
       upserted: 0,
     },
     { status: 503 }
