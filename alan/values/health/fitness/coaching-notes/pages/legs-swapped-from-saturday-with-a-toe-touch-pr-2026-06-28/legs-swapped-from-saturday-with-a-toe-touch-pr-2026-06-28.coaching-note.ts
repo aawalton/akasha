@@ -1,0 +1,13 @@
+import type { CoachingNote } from "../../coaching-note.page-type.ts"
+
+export const legsSwappedFromSaturdayWithAToeTouchPr20260628 = {
+  id: "01a08176-d420-7992-ad14-6a13a7a49eda",
+  pageTypeSlug: "coaching-note",
+  slug: "legs-swapped-from-saturday-with-a-toe-touch-pr-2026-06-28",
+  title: "Legs swapped from Saturday, with a toe-touch PR",
+  coachingNoteActive: true,
+  focusTags: ["legs"],
+  coachingNoteKind: "bout-observation",
+  coachingNoteDate: "2026-06-28",
+  asks: "txt",
+} as const satisfies CoachingNote
