@@ -20,6 +20,7 @@
     "./is-json": "./is-json/is-json.module.code.ts",
     "./is-object-record": "./is-object-record/is-object-record.module.code.ts",
     "./is-record": "./is-record/is-record.module.code.ts",
+    "./is-whitespace": "./is-whitespace/is-whitespace.module.code.ts",
     "./join-path": "./join-path/join-path.module.code.ts",
     "./json-equal": "./json-equal/json-equal.module.code.ts",
     "./json-schema": "./json-schema/json-schema.module.code.ts",

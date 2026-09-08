@@ -1,3 +1,5 @@
+import { isWhitespace } from "@akasha/utils-narrow/is-whitespace"
+
 export interface LuaRequire {
   from: number
   to: number
@@ -132,10 +134,6 @@ function skipWhitespace(lua: string, offset: number): number {
     offset++
   }
   return offset
-}
-
-function isWhitespace(c: string | undefined): boolean {
-  return c === " " || c === "\t" || c === "\r" || c === "\n"
 }
 
 function skipComment(lua: string, offset: number): number {
