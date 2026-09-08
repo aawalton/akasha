@@ -1,4 +1,4 @@
-import type { Namespace } from "../namespace.page-type.ts"
+import type { Namespace } from "../../../command-system/namespaces/namespace.page-type.ts"
 
 export const sms = {
   id: "01a07bcb-0b96-7bdf-bd21-0e3e7f8998c0",
