@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync } from "node:fs"
 import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
-import { landedMechanically } from "@akasha/command-system/asking"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { typeSlugOf } from "@akasha/indexes"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
@@ -9,7 +9,7 @@ import { exportedAs } from "@akasha/pages/page-export-name"
 import { uncommittedPartAt } from "@akasha/pages/page-file-parts"
 import { sizeOnDisk } from "@akasha/utils-fs/file-size"
 
-const CALLED_AS = "log-day-writing"
+const PUT = "change-mechanical-file/add-file"
 
 const LOG_SOURCE_TYPE = "01a0657c-cb14-7c6f-83df-0d533f4f7821"
 
@@ -97,13 +97,8 @@ export function dayBodyOf(
 
 async function putUp(root: string, path: string, body: string, message: string): Promise<boolean> {
   if (existsSync(join(root, path))) return true
-  const answer = await landedMechanically(
-    root,
-    CALLED_AS,
-    [{ path, body: new TextEncoder().encode(body) }],
-    message
-  )
-  if (answer.code !== 0) return false
+  const landed = await runMechanicalChange(root, [{ at: PUT, given: { at: path, body } }], message)
+  if ("refusals" in landed || landed.wrong.length > 0) return false
   return existsSync(join(root, path))
 }
 

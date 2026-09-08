@@ -41,6 +41,11 @@ export const logDayWriting = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A page is written by the change writing a body at a path rather than by an edit composed here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A landing is believed only after the written file is read off the disk.",
     },
     {
