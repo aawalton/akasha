@@ -3,11 +3,8 @@ import { getMediaConfig } from "@akasha/pages-access/page-type-config"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import { DEFAULT_VOICE_INFER_URL } from "@akasha/voice-core/voice/infer-endpoint"
 import { buildKokoroSpeechSegments } from "@akasha/voice-core/voice/speech"
-import { ensureReadAloudRendition } from "../kokoro-render/kokoro-render.module.code.ts"
-import { resolveMediaPage } from "../media-page/media-page.module.code.ts"
-import type { Route } from "./+types/api.media.$pageId.$medium.stream"
-
-const UUID_PATTERN = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
+import { ensureReadAloudRendition } from "../../kokoro-render/kokoro-render.module.code.ts"
+import { MEDIA_UUID_PATTERN, resolveMediaPage } from "../../media-page/media-page.module.code.ts"
 
 const KOKORO_VOICE = "af_heart"
 
@@ -50,7 +47,13 @@ function corsHeaders(request: Request): Record<string, string> {
     : {}
 }
 
-export async function loader({ params, request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({
+  params,
+  request,
+}: {
+  params: { pageId: string; medium: string }
+  request: Request
+}): Promise<Response> {
   const cors = corsHeaders(request)
   if (request.method === "OPTIONS") {
     return new Response(null, { status: 204, headers: cors })
@@ -67,7 +70,7 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
   if (!user) return respond("Unauthorized", 401)
 
   const { pageId, medium } = params
-  if (!UUID_PATTERN.test(pageId)) return respond("Not Found", 404)
+  if (!MEDIA_UUID_PATTERN.test(pageId)) return respond("Not Found", 404)
   if (medium !== "audio") return respond("Not Found", 404)
   const found = await resolveMediaPage(pageId, ["id"])
   if (found === null) return respond("Not Found", 404)

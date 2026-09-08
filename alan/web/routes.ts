@@ -50,7 +50,10 @@ export default [
     "api/media/:pageId/variants",
     "routes/alan-web-api-media-variants/alan-web-api-media-variants.route.code.ts"
   ),
-  route("api/media/:pageId/:medium/stream", "routes/api.media.$pageId.$medium.stream.ts"),
+  route(
+    "api/media/:pageId/:medium/stream",
+    "routes/alan-web-api-media-stream/alan-web-api-media-stream.route.code.ts"
+  ),
   route(
     "api/media/:pageId/:medium/ensure",
     "routes/alan-web-api-media-ensure/alan-web-api-media-ensure.route.code.ts"
