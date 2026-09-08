@@ -8,11 +8,6 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
-      statement: "An edit holds only the information needed to make that edit.",
-      workingMemory:
-        "Narrow is landed and proven: `Stated` alone, `replayed` is the fold, `beyond` keeps a reach inside a change from being judged twice, and `World.base` lets a guard replay off the tree. Every command typechecks. What is left is 230 errors over 45 change test files, all four shapes: an import of the gone `widened`, and `path`, `body`, `was` or `from` read off a `Stated`. The fixture to reach for is `replayed(said, textOf)` and the `bodyOf` beside it, never a wide edit rebuilt.",
-    },
-    {
       statement: "The edits an agent keeps are an uncommitted file rather than a git object.",
       workingMemory:
         "`settled` writes the whole ledger through `git hash-object -w` on every append, so a ledger grown to n rows has written on the order of n squared bytes; `.git/objects` climbed 8.6 GB to 13.3 GB in twelve minutes. `check-cost` already holds the pattern replacing it: `uncommittedPartAt` beside the page, `appendFileSync`, and a ceiling rolling over to a further part, at 197,728 rows across 45 files. `file-property/edits` is declared on the agent page type already, defaulting to `jsonl`.",
