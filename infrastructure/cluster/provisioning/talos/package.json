@@ -9,7 +9,7 @@
     "./talos-emit-yaml": "./talos-emit-yaml/talos-emit-yaml.module.code.ts",
     "./talos-factory": "./talos-factory/talos-factory.module.code.ts",
     "./talos-nodes": "./talos-nodes/talos-nodes.module.code.ts",
-    "./talos-paths": "./talos-paths/talos-paths.module.code.ts",
+    "./paths": "./paths/paths.module.code.ts",
     "./talos-registry-ca": "./talos-registry-ca/talos-registry-ca.module.code.ts",
     "./talos-schema": "./talos-schema/talos-schema.module.code.ts",
     "./talos-sops": "./talos-sops/talos-sops.module.code.ts",

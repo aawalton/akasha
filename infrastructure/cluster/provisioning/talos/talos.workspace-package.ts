@@ -16,7 +16,7 @@ export const talos = {
     "module/talos-nodes",
     "module/talos-nodes-main",
     "module/talos-nodes-rehearsal",
-    "module/talos-paths",
+    "module/paths",
     "module/talos-registry-ca",
     "module/talos-schema",
     "module/talos-sops",
