@@ -53,7 +53,7 @@ export const fileKind = {
     },
     {
       invariantKind: "departure",
-      statement: "A dot-name ending `ignore` holds the path patterns a tool leaves alone.",
+      statement: "A dot-name ending `ignore` has the path patterns a tool leaves alone.",
     },
     {
       invariantKind: "absence",

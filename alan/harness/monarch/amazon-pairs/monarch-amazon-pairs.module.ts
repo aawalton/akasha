@@ -9,7 +9,7 @@ export const monarchAmazonPairs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An order is a pair only where that order holds both a charge and a refund.",
+      statement: "An order is a pair only where that order has both a charge and a refund.",
     },
     {
       invariantKind: "departure",

@@ -44,27 +44,27 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "An add holds a path and the content that path is to hold.",
+      statement: "An add has a path and the content that path is to hold.",
     },
     {
       invariantKind: "departure",
-      statement: "A replace holds a path and the passage each side.",
+      statement: "A replace has a path and the passage each side.",
     },
     {
       invariantKind: "departure",
-      statement: "A remove holds a path alone.",
+      statement: "A remove has a path alone.",
     },
     {
       invariantKind: "departure",
-      statement: "A move holds the path moved from and the path moved to.",
+      statement: "A move has the path moved from and the path moved to.",
     },
     {
       invariantKind: "departure",
-      statement: "A whole body written over another is a replace holding the whole body each side.",
+      statement: "A whole body written over another is a replace with the whole body each side.",
     },
     {
       invariantKind: "departure",
-      statement: "A splice holds the place a body changes and what that place is to hold.",
+      statement: "A splice has the place a body changes and what that place is to hold.",
     },
     {
       invariantKind: "departure",
@@ -72,8 +72,7 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A run of lines the body holds twice widens a line each side until it is held once.",
+      statement: "A run of lines the body has twice widens a line each side until it is held once.",
     },
     {
       invariantKind: "departure",
@@ -110,7 +109,7 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A path holding no characters holds no body.",
+      statement: "A path with no characters has no body.",
     },
     {
       invariantKind: "departure",
@@ -134,7 +133,7 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A replace naming a passage its path holds twice is refused.",
+      statement: "A replace naming a passage its path has twice is refused.",
     },
     {
       invariantKind: "departure",

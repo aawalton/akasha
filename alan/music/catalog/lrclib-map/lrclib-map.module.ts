@@ -14,7 +14,7 @@ export const lrclibMap = {
     },
     {
       invariantKind: "departure",
-      statement: "A record chosen holds words.",
+      statement: "A record chosen has words.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const lrclibMap = {
     },
     {
       invariantKind: "departure",
-      statement: "A record chosen names an artist whose normalised name holds the song's.",
+      statement: "A record chosen names an artist whose normalised name has the song's.",
     },
     {
       invariantKind: "departure",

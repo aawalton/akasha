@@ -38,7 +38,7 @@ export const nameSeries = {
     },
     {
       invariantKind: "departure",
-      statement: "A file already holding the body rendered is left alone.",
+      statement: "A file already with the body rendered is left alone.",
     },
     {
       invariantKind: "absence",

@@ -94,7 +94,7 @@ export const trackShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A day key and a row key of one name hold one type.",
+      statement: "A day key and a row key of one name have one type.",
     },
     {
       invariantKind: "departure",

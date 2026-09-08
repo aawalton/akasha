@@ -10,7 +10,7 @@ export const folderClearing = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "Git holds no empty folder.",
+      statement: "Git has no empty folder.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,7 @@ export const folderClearing = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder still holding anything is kept.",
+      statement: "A folder still with anything is kept.",
     },
     {
       invariantKind: "departure",

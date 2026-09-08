@@ -156,7 +156,7 @@ export const preForwardQueue = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds a clock the caller cannot replace.",
+      statement: "Nothing here has a clock the caller cannot replace.",
     },
     {
       invariantKind: "gap",

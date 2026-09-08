@@ -47,7 +47,7 @@ export const patching = {
     },
     {
       invariantKind: "departure",
-      statement: "A base blob of all zeros is a path the base commit did not hold.",
+      statement: "A base blob of all zeros is a path the base commit did not have.",
     },
     {
       invariantKind: "departure",

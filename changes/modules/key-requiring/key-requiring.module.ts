@@ -14,11 +14,11 @@ export const keyRequiring = {
     },
     {
       invariantKind: "departure",
-      statement: "The type is read over the bodies the world holds rather than the bodies on disk.",
+      statement: "The type is read over the bodies the world has rather than the bodies on disk.",
     },
     {
       invariantKind: "departure",
-      statement: "A page holding no literal is answered as neither required nor not.",
+      statement: "A page with no literal is answered as neither required nor not.",
     },
     {
       invariantKind: "departure",

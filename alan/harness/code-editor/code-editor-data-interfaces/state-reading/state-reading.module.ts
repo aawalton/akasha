@@ -35,11 +35,11 @@ export const stateReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A file holding the same bytes as the last read is drawn no second time.",
+      statement: "A file with the same bytes as the last read is drawn no second time.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds a timer.",
+      statement: "Nothing here has a timer.",
     },
     {
       invariantKind: "absence",

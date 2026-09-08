@@ -13,7 +13,7 @@ export const monarchPoll = {
     },
     {
       invariantKind: "departure",
-      statement: "Each stamp is compared against the watermark this copy holds.",
+      statement: "Each stamp is compared against the watermark this copy has.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const monarchPoll = {
     {
       invariantKind: "departure",
       statement:
-        "A row naming an unknown category keeps the category that row holds until the daily full run.",
+        "A row naming an unknown category keeps the category that row has until the daily full run.",
     },
     {
       invariantKind: "departure",

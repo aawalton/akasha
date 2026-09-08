@@ -55,7 +55,7 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holds no body a check judges.",
+      statement: "A folder has no body a check judges.",
     },
     {
       invariantKind: "constraint",
@@ -77,7 +77,7 @@ export const changeWalking = {
     {
       invariantKind: "departure",
       statement:
-        "A file outside git's tree is walked only where its name holds the reserved section `uncommitted`.",
+        "A file outside git's tree is walked only where its name has the reserved section `uncommitted`.",
     },
     {
       invariantKind: "departure",

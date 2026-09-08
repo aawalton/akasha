@@ -15,7 +15,7 @@ export const handleInbound = {
     },
     {
       invariantKind: "departure",
-      statement: "A signature that does not hold answers 403.",
+      statement: "A signature that does not have answers 403.",
     },
     {
       invariantKind: "departure",

@@ -91,7 +91,7 @@ export const codeLint = {
     {
       invariantKind: "absence",
       statement:
-        "How much of the printed output a caller may hold belongs to the caller that asked for the run.",
+        "How much of the printed output a caller may have belongs to the caller that asked for the run.",
     },
     {
       invariantKind: "absence",

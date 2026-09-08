@@ -10,7 +10,7 @@ export const monarchDomainFiles = {
     {
       invariantKind: "departure",
       statement:
-        "A page is one TypeScript file holding one exported object named for the page's slug.",
+        "A page is one TypeScript file with one exported object named for the page's slug.",
     },
     {
       invariantKind: "departure",

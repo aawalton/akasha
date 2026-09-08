@@ -89,7 +89,7 @@ export const akasha = {
       name: "Cheap To Read",
       act: "Make every sentence cheaper to read, where nothing true and clear is lost.",
       warrant:
-        "An agent holds one budget for a turn, and what the agent spends reading is gone from the work.",
+        "An agent has one budget for a turn, and what the agent spends reading is gone from the work.",
       aids: [
         "Naming a thing costs less than pointing at the thing.",
         "Repeating a noun is free.",
@@ -119,7 +119,7 @@ export const akasha = {
       directiveKind: "rule",
       name: "Currency",
       act: "State what is true now, and leave how it became true to git.",
-      warrant: "Git holds the history, writing it again is a second place that can be wrong.",
+      warrant: "Git has the history, writing it again is a second place that can be wrong.",
       aids: [
         "Mortal pages become history.",
         "Write for the new reader who doesn't know what was there before.",
@@ -167,7 +167,7 @@ export const akasha = {
       name: "Small Changes",
       act: "Make many small, safe changes, and land separately every change that can land separately.",
       warrant:
-        "Checking a landing costs the square of how many changes it holds, so a big landing wastes time.",
+        "Checking a landing costs the square of how many changes it has, so a big landing wastes time.",
       aids: [
         "Two changes that do not need each other are two landings.",
         "A change is safe where landing it alone leaves the repository working.",

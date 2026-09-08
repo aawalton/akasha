@@ -63,7 +63,7 @@ export const inboxReading = {
     },
     {
       invariantKind: "departure",
-      statement: "`valuesOfType` answers a page type the index does not hold with no rows.",
+      statement: "`valuesOfType` answers a page type the index does not have with no rows.",
     },
     {
       invariantKind: "stopgap",

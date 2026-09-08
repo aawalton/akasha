@@ -13,7 +13,7 @@ export const musicbrainzClient = {
     },
     {
       invariantKind: "departure",
-      statement: "One queue holds every ask this module makes.",
+      statement: "One queue has every ask this module makes.",
     },
     {
       invariantKind: "departure",

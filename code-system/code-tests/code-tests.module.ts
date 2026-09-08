@@ -47,7 +47,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A batch is given the seconds the files that batch holds may spend together.",
+      statement: "A batch is given the seconds the files that batch has may spend together.",
     },
     {
       invariantKind: "departure",
@@ -109,7 +109,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "The ceiling that judging holds each file to is the caller's to state.",
+      statement: "The ceiling that judging has each file to is the caller's to state.",
     },
     {
       invariantKind: "departure",
@@ -138,7 +138,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A run holding a file over the ceiling is slow.",
+      statement: "A run with a file over the ceiling is slow.",
     },
     {
       invariantKind: "departure",
@@ -163,7 +163,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A preload named by a path is read against the folder holding its bunfig.toml.",
+      statement: "A preload named by a path is read against the folder with its bunfig.toml.",
     },
     {
       invariantKind: "departure",
@@ -183,7 +183,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A batch holds the test files of one group alone.",
+      statement: "A batch has the test files of one group alone.",
     },
     {
       invariantKind: "departure",
@@ -211,7 +211,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A group is answered in the order of the first path the group holds.",
+      statement: "A group is answered in the order of the first path the group has.",
     },
     {
       invariantKind: "departure",
@@ -236,11 +236,11 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder of installed modules holds no test of this repository's.",
+      statement: "The folder of installed modules has no test of this repository's.",
     },
     {
       invariantKind: "departure",
-      statement: "The git folder holds no test of this repository's.",
+      statement: "The git folder has no test of this repository's.",
     },
     {
       invariantKind: "departure",
@@ -253,7 +253,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A file holding one page property is answered with the tests beside that page.",
+      statement: "A file with one page property is answered with the tests beside that page.",
     },
     {
       invariantKind: "departure",
@@ -318,7 +318,7 @@ export const codeTests = {
     {
       invariantKind: "absence",
       statement:
-        "How much of the output printed a caller may hold belongs to the caller that asked for the run.",
+        "How much of the output printed a caller may have belongs to the caller that asked for the run.",
     },
     {
       invariantKind: "absence",

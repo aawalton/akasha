@@ -14,7 +14,7 @@ export const pageClaiming = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the page claims that holds no body is left out.",
+      statement: "A path the page claims that has no body is left out.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const pageClaiming = {
     },
     {
       invariantKind: "departure",
-      statement: "A path holding a body that is not text is answered beside the page.",
+      statement: "A path with a body that is not text is answered beside the page.",
     },
     {
       invariantKind: "departure",

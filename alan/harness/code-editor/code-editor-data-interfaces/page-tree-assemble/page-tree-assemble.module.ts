@@ -89,7 +89,7 @@ export const pageTreeAssemble = {
     {
       invariantKind: "departure",
       statement:
-        "An assembly holding two nodes with one id is refused rather than returned to the editor.",
+        "An assembly with two nodes with one id is refused rather than returned to the editor.",
     },
     {
       invariantKind: "absence",

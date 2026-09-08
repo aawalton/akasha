@@ -28,7 +28,7 @@ export const surplusFallReadout = {
     },
     {
       invariantKind: "departure",
-      statement: "A group holding other than one live readout is refused.",
+      statement: "A group with other than one live readout is refused.",
     },
     {
       invariantKind: "departure",

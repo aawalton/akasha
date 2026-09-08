@@ -50,7 +50,7 @@ export const transportLog = {
     },
     {
       invariantKind: "departure",
-      statement: "The last `event:` line a chunk holds names that chunk's event type.",
+      statement: "The last `event:` line a chunk has names that chunk's event type.",
     },
     {
       invariantKind: "departure",
@@ -98,7 +98,7 @@ export const transportLog = {
     },
     {
       invariantKind: "departure",
-      statement: "A shutdown flush leaves the set holding nothing.",
+      statement: "A shutdown flush leaves the set with nothing.",
     },
     {
       invariantKind: "departure",
@@ -182,7 +182,7 @@ export const transportLog = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing here holds a lock against another writer of the same file.",
+      statement: "Nothing here has a lock against another writer of the same file.",
     },
     {
       invariantKind: "gap",

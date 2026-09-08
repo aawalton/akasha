@@ -35,7 +35,7 @@ export const workspaceDeps = {
     },
     {
       invariantKind: "departure",
-      statement: "A workspace's closure holds the workspace itself.",
+      statement: "A workspace's closure has the workspace itself.",
     },
     {
       invariantKind: "departure",

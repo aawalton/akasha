@@ -22,7 +22,7 @@ export const proxySeats = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat holding no proxy is no live seat.",
+      statement: "A seat with no proxy is no live seat.",
     },
     {
       invariantKind: "departure",
@@ -42,15 +42,15 @@ export const proxySeats = {
     },
     {
       invariantKind: "departure",
-      statement: "The live seats hold the order the agents arrived in.",
+      statement: "The live seats have the order the agents arrived in.",
     },
     {
       invariantKind: "departure",
-      statement: "A process is asked about only where its seat holds a proxy.",
+      statement: "A process is asked about only where its seat has a proxy.",
     },
     {
       invariantKind: "constraint",
-      statement: "A caller hands in the read answering the values a seat holds.",
+      statement: "A caller hands in the read answering the values a seat has.",
     },
     {
       invariantKind: "constraint",

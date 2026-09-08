@@ -11,11 +11,11 @@ export const retry = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A transient transport error is a TypeError whose message holds a known phrase.",
+      statement: "A transient transport error is a TypeError whose message has a known phrase.",
     },
     {
       invariantKind: "departure",
-      statement: "An idle timeout abort is transient where the message holds the idle token.",
+      statement: "An idle timeout abort is transient where the message has the idle token.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const retry = {
     },
     {
       invariantKind: "departure",
-      statement: "The backoff list holds one wait for each retry.",
+      statement: "The backoff list has one wait for each retry.",
     },
     {
       invariantKind: "departure",
@@ -47,8 +47,7 @@ export const retry = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A bare error code matches only where the message holds that code as a whole word.",
+      statement: "A bare error code matches only where the message has that code as a whole word.",
     },
     {
       invariantKind: "departure",

@@ -4,13 +4,13 @@ export const namespaceListing = {
   id: "01a08146-1d75-7803-8785-04ee4abd9a06",
   pageTypeSlug: "module",
   slug: "namespace-listing",
-  definition: "the commands a namespace holds, written down for a reader",
+  definition: "the commands a namespace has, written down for a reader",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A part is listed by the words past the name of the namespace holding it.",
+      statement: "A part is listed by the words past the name of the namespace with it.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const namespaceListing = {
     },
     {
       invariantKind: "departure",
-      statement: "A namespace holding no part is written down as nothing.",
+      statement: "A namespace with no part is written down as nothing.",
     },
     {
       invariantKind: "absence",

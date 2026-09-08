@@ -31,7 +31,7 @@ export const commandStopping = {
     },
     {
       invariantKind: "departure",
-      statement: "A command holding the loop for its whole run is stopped all the same.",
+      statement: "A command with the loop for its whole run is stopped all the same.",
     },
     {
       invariantKind: "departure",

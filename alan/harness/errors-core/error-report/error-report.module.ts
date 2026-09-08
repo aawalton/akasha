@@ -9,7 +9,7 @@ export const errorReport = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A report naming a key the shape does not hold is refused whole.",
+      statement: "A report naming a key the shape does not have is refused whole.",
     },
     {
       invariantKind: "departure",

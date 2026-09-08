@@ -22,7 +22,7 @@ export const royalRoadPages = {
     },
     {
       invariantKind: "departure",
-      statement: "A chapter holding no paragraph tag is read by its line breaks instead.",
+      statement: "A chapter with no paragraph tag is read by its line breaks instead.",
     },
     {
       invariantKind: "departure",

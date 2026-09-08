@@ -31,7 +31,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer holding one edit is read here for the body that edit leaves.",
+      statement: "An answer with one edit is read here for the body that edit leaves.",
     },
     {
       invariantKind: "departure",
@@ -76,7 +76,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A world over no answer carries an answer holding no edit.",
+      statement: "A world over no answer carries an answer with no edit.",
     },
     {
       invariantKind: "departure",
@@ -146,7 +146,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A ledger holds the edits added so far rather than a world for each answer.",
+      statement: "A ledger has the edits added so far rather than a world for each answer.",
     },
     {
       invariantKind: "departure",
@@ -182,7 +182,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A ledger holds one memo across every reach rather than one memo for each reach.",
+      statement: "A ledger has one memo across every reach rather than one memo for each reach.",
     },
     {
       invariantKind: "departure",
@@ -217,7 +217,7 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "An answer stating no edit beyond what a ledger holds is cast as the shadow that ledger answers.",
+        "An answer stating no edit beyond what a ledger has is cast as the shadow that ledger answers.",
     },
     {
       invariantKind: "departure",
@@ -260,7 +260,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A ledger an edit refused holds the edits that ledger held before.",
+      statement: "A ledger an edit refused has the edits that ledger held before.",
     },
     {
       invariantKind: "departure",
@@ -284,6 +284,6 @@ export const changeShadow = {
       statement:
         "A folder the index files as a page's own is left out of the paths a folder answers.",
     },
-    { invariantKind: "departure", statement: "Every file that folder holds is left out with it." },
+    { invariantKind: "departure", statement: "Every file that folder has is left out with it." },
   ],
 } as const satisfies Module

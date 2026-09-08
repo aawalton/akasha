@@ -108,7 +108,7 @@ export const checkCost = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing here holds a lock against another writer of the same file.",
+      statement: "Nothing here has a lock against another writer of the same file.",
     },
   ],
 } as const satisfies Module

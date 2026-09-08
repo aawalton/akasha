@@ -34,7 +34,7 @@ export const nestCommands = {
     },
     {
       invariantKind: "departure",
-      statement: "The page above a namespace's folder is the namespace holding that namespace.",
+      statement: "The page above a namespace's folder is the namespace with that namespace.",
     },
     {
       invariantKind: "departure",

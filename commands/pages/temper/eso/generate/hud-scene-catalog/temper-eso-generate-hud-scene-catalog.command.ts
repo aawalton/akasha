@@ -51,7 +51,7 @@ export const temperEsoGenerateHudSceneCatalog = {
     },
     {
       invariantKind: "departure",
-      statement: "A module the checkout already holds is left out of that change.",
+      statement: "A module the checkout already has is left out of that change.",
     },
     {
       invariantKind: "absence",

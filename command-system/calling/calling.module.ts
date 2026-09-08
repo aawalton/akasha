@@ -27,7 +27,7 @@ export const calling = {
     },
     {
       invariantKind: "absence",
-      statement: "A line appended here takes no turn over any file another writer holds.",
+      statement: "A line appended here takes no turn over any file another writer has.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "The file holding a command's code is answered from the page the index names.",
+      statement: "The file with a command's code is answered from the page the index names.",
     },
     {
       invariantKind: "departure",
@@ -118,7 +118,7 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A part is listed by the words past the name of the namespace holding it.",
+      statement: "A part is listed by the words past the name of the namespace with it.",
     },
     {
       invariantKind: "departure",
@@ -131,7 +131,7 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A namespace holding no part is answered as a name no command carries.",
+      statement: "A namespace with no part is answered as a name no command carries.",
     },
     {
       invariantKind: "departure",

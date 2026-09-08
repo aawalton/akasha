@@ -162,7 +162,7 @@ export const proxyServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A flush ends every stream the shutdown registry holds.",
+      statement: "A flush ends every stream the shutdown registry has.",
     },
     {
       invariantKind: "departure",
@@ -247,7 +247,7 @@ export const proxyServing = {
     {
       invariantKind: "constraint",
       statement:
-        "A caller holds the proxy starting a gateway hands back for as long as that gateway runs.",
+        "A caller has the proxy starting a gateway hands back for as long as that gateway runs.",
     },
     {
       invariantKind: "absence",

@@ -11,7 +11,7 @@ export const drafting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A change drafted is folded into the patch the agent already holds.",
+      statement: "A change drafted is folded into the patch the agent already has.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller holding bodies that came from no patch reaches that rule directly.",
+      statement: "A caller with bodies that came from no patch reaches that rule directly.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const drafting = {
     {
       invariantKind: "departure",
       statement:
-        "A path the commit at HEAD holds nothing at is followed to the path a rename left that body at.",
+        "A path the commit at HEAD has nothing at is followed to the path a rename left that body at.",
     },
     {
       invariantKind: "departure",
@@ -90,7 +90,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A change leaving what HEAD holds takes nothing back out of the patch.",
+      statement: "A change leaving what HEAD has takes nothing back out of the patch.",
     },
     {
       invariantKind: "departure",
@@ -169,7 +169,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch left holding nothing is taken away.",
+      statement: "A patch left with nothing is taken away.",
     },
     {
       invariantKind: "departure",
@@ -185,16 +185,16 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "The bodies a patch would hold are answered without the patch being written.",
+      statement: "The bodies a patch would have are answered without the patch being written.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The bodies a patch would hold are the bodies of that patch rebased with the draft folded in.",
+        "The bodies a patch would have are the bodies of that patch rebased with the draft folded in.",
     },
     {
       invariantKind: "departure",
-      statement: "A path the patch holds is answered whether or not the draft names that path.",
+      statement: "A path the patch has is answered whether or not the draft names that path.",
     },
     {
       invariantKind: "departure",
@@ -207,7 +207,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A path both patches hold is merged rather than written over.",
+      statement: "A path both patches have is merged rather than written over.",
     },
     {
       invariantKind: "departure",
@@ -354,7 +354,7 @@ export const drafting = {
     {
       invariantKind: "stopgap",
       statement:
-        "A patch drafted before the flag named a path is read as naming every path that patch holds.",
+        "A patch drafted before the flag named a path is read as naming every path that patch has.",
     },
   ],
 } as const satisfies Module

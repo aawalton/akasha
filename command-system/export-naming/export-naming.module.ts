@@ -27,7 +27,7 @@ export const exportNaming = {
     {
       invariantKind: "absence",
       statement:
-        "A body holding a page's text in a template is no page and is judged for no export name.",
+        "A body with a page's text in a template is no page and is judged for no export name.",
     },
     {
       invariantKind: "absence",

@@ -18,7 +18,7 @@ export const freshCredential = {
     },
     {
       invariantKind: "departure",
-      statement: "An account the read holds no credential for is answered as no credential.",
+      statement: "An account the read has no credential for is answered as no credential.",
     },
     {
       invariantKind: "departure",

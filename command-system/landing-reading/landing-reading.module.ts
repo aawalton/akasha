@@ -28,11 +28,11 @@ export const landingReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing is held to a reading the caller already holds.",
+      statement: "A landing is held to a reading the caller already has.",
     },
     {
       invariantKind: "departure",
-      statement: "A path the caller holds no reading of is left out rather than made up.",
+      statement: "A path the caller has no reading of is left out rather than made up.",
     },
     {
       invariantKind: "departure",

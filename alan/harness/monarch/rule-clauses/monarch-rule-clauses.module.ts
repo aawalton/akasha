@@ -21,7 +21,7 @@ export const monarchRuleClauses = {
     },
     {
       invariantKind: "departure",
-      statement: "A clause holding no values is refused.",
+      statement: "A clause with no values is refused.",
     },
     {
       invariantKind: "departure",

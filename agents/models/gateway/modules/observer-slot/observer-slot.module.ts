@@ -10,11 +10,11 @@ export const observerSlot = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A slot holds the observer of the stream in flight or holds nothing.",
+      statement: "A slot has the observer of the stream in flight or has nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A slot's end ends the stream that slot holds.",
+      statement: "A slot's end ends the stream that slot has.",
     },
     {
       invariantKind: "departure",

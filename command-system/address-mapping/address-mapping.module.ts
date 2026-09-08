@@ -9,7 +9,7 @@ export const addressMapping = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A runner opts in by stating the property holding the map.",
+      statement: "A runner opts in by stating the property with the map.",
     },
     {
       invariantKind: "departure",
@@ -21,11 +21,11 @@ export const addressMapping = {
     },
     {
       invariantKind: "departure",
-      statement: "The maps written again are the maps of the runners the index holds.",
+      statement: "The maps written again are the maps of the runners the index has.",
     },
     {
       invariantKind: "departure",
-      statement: "A map whose runner the index holds no page for is written again by nothing.",
+      statement: "A map whose runner the index has no page for is written again by nothing.",
     },
     {
       invariantKind: "departure",

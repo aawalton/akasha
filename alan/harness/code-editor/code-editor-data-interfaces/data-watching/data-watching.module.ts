@@ -17,7 +17,7 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A picture is held in memory between one change and the next.",
+      statement: "A picture is in memory between one change and the next.",
     },
     {
       invariantKind: "departure",

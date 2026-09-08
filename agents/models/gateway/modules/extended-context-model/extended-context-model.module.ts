@@ -54,7 +54,7 @@ export const extendedContextModel = {
     },
     {
       invariantKind: "departure",
-      statement: "A rewrite carries every key the body holds beside the model.",
+      statement: "A rewrite carries every key the body has beside the model.",
     },
     {
       invariantKind: "departure",

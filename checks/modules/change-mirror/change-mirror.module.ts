@@ -4,7 +4,7 @@ export const changeMirror = {
   id: "01a080b1-5322-7000-ae97-da48e0382c61",
   pageTypeSlug: "module",
   slug: "change-mirror",
-  definition: "a folder holding the bodies a change carries, each at the path it is filed at",
+  definition: "a folder with the bodies a change carries, each at the path it is filed at",
   code: "ts",
   test: "ts",
   invariants: [
@@ -26,7 +26,7 @@ export const changeMirror = {
     },
     {
       invariantKind: "departure",
-      statement: "A mirror holds nothing beyond those two.",
+      statement: "A mirror has nothing beyond those two.",
     },
     {
       invariantKind: "departure",

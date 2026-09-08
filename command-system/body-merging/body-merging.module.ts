@@ -27,7 +27,7 @@ export const bodyMerging = {
     },
     {
       invariantKind: "departure",
-      statement: "A body already holding the body a change would leave is landed whole.",
+      statement: "A body already with the body a change would leave is landed whole.",
     },
     {
       invariantKind: "departure",
@@ -93,7 +93,7 @@ export const bodyMerging = {
     },
     {
       invariantKind: "departure",
-      statement: "Bytes spelling no text hold a zero byte or fail to decode.",
+      statement: "Bytes spelling no text have a zero byte or fail to decode.",
     },
     {
       invariantKind: "departure",

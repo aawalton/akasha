@@ -58,7 +58,7 @@ export const peekResponse = {
     },
     {
       invariantKind: "departure",
-      statement: "A rebuilt response holds a headers object of its own.",
+      statement: "A rebuilt response has a headers object of its own.",
     },
     {
       invariantKind: "absence",

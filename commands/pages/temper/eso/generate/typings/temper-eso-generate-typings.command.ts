@@ -52,7 +52,7 @@ export const temperEsoGenerateTypings = {
     },
     {
       invariantKind: "departure",
-      statement: "A file the checkout already holds is left out of that change.",
+      statement: "A file the checkout already has is left out of that change.",
     },
     {
       invariantKind: "departure",

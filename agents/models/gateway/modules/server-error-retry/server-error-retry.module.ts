@@ -62,7 +62,7 @@ export const serverErrorRetry = {
     },
     {
       invariantKind: "departure",
-      statement: "A request makes one retry for each entry the schedule holds.",
+      statement: "A request makes one retry for each entry the schedule has.",
     },
     {
       invariantKind: "departure",

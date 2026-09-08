@@ -9,7 +9,7 @@ export const eventToPage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value the event does not hold is left unstated rather than written empty.",
+      statement: "A value the event does not have is left unstated rather than written empty.",
     },
     {
       invariantKind: "departure",

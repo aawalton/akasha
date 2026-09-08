@@ -62,7 +62,7 @@ export const changeLoading = {
     },
     {
       invariantKind: "departure",
-      statement: "A lock a caller holds over a store is held while a change reached inside loads.",
+      statement: "A lock a caller has over a store is held while a change reached inside loads.",
     },
     {
       invariantKind: "departure",
@@ -111,7 +111,7 @@ export const changeLoading = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds an address to the arguments that address takes.",
+      statement: "Nothing here has an address to the arguments that address takes.",
     },
     {
       invariantKind: "gap",

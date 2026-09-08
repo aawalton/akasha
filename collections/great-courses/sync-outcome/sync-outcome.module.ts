@@ -10,7 +10,7 @@ export const syncOutcome = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An error is named by kind from the words its own message holds.",
+      statement: "An error is named by kind from the words its own message has.",
     },
     {
       invariantKind: "departure",

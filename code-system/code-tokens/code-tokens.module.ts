@@ -36,7 +36,7 @@ export const codeTokens = {
     },
     {
       invariantKind: "absence",
-      statement: "A string holding an escape is answered with no value.",
+      statement: "A string with an escape is answered with no value.",
     },
     {
       invariantKind: "departure",

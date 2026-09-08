@@ -148,7 +148,7 @@ export const oauthEffects = {
     },
     {
       invariantKind: "constraint",
-      statement: "A caller holds one facade for as long as the gate state is to be held.",
+      statement: "A caller has one facade for as long as the gate state is to be held.",
     },
     {
       invariantKind: "absence",
@@ -176,7 +176,7 @@ export const oauthEffects = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds a clock the caller cannot replace.",
+      statement: "Nothing here has a clock the caller cannot replace.",
     },
     {
       invariantKind: "gap",

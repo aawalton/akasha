@@ -46,7 +46,7 @@ export const proxyEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "Going down waits on the rows the transport log holds.",
+      statement: "Going down waits on the rows the transport log has.",
     },
     {
       invariantKind: "departure",

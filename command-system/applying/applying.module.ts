@@ -158,7 +158,7 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the base commit did not hold has no body to have been read.",
+      statement: "A path the base commit did not have has no body to have been read.",
     },
     {
       invariantKind: "departure",
@@ -225,7 +225,7 @@ export const applying = {
     {
       invariantKind: "departure",
       statement:
-        "A refusal set past what one answer holds is answered as a pointer to that agent's file.",
+        "A refusal set past what one answer has is answered as a pointer to that agent's file.",
     },
     {
       invariantKind: "departure",

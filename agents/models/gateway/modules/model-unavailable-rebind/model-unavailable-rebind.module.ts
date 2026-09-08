@@ -85,7 +85,7 @@ export const modelUnavailableRebind = {
     },
     {
       invariantKind: "constraint",
-      statement: "A caller holds the map of reasons to accounts across one request's whole walk.",
+      statement: "A caller has the map of reasons to accounts across one request's whole walk.",
     },
     {
       invariantKind: "constraint",

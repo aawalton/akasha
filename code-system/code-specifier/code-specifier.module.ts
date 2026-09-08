@@ -15,7 +15,7 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "departure",
-      statement: "Every string a body holds is answered too.",
+      statement: "Every string a body has is answered too.",
     },
     {
       invariantKind: "departure",

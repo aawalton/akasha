@@ -19,7 +19,7 @@ export const subagentHanded = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent still holding a page has handed nothing over.",
+      statement: "A subagent still with a page has handed nothing over.",
     },
     {
       invariantKind: "departure",

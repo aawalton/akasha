@@ -9,11 +9,11 @@ export const capacitorBridge = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A plugin is read back only where the shell holds every call this page states.",
+      statement: "A plugin is read back only where the shell has every call this page states.",
     },
     {
       invariantKind: "departure",
-      statement: "A plugin the shell does not hold is read back as null rather than thrown over.",
+      statement: "A plugin the shell does not have is read back as null rather than thrown over.",
     },
     {
       invariantKind: "departure",

@@ -41,7 +41,7 @@ export const temperEsoGenerateChatterNames = {
     },
     {
       invariantKind: "departure",
-      statement: "A registry the checkout already holds lands nothing and says so.",
+      statement: "A registry the checkout already has lands nothing and says so.",
     },
     {
       invariantKind: "departure",

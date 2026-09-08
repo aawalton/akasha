@@ -46,7 +46,7 @@ export const inFlight = {
     },
     {
       invariantKind: "departure",
-      statement: "Every idle wait a tracker holds resolves on that same end.",
+      statement: "Every idle wait a tracker has resolves on that same end.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,7 @@ export const inFlight = {
     },
     {
       invariantKind: "departure",
-      statement: "A resolved idle wait is taken out of the waiting a tracker holds.",
+      statement: "A resolved idle wait is taken out of the waiting a tracker has.",
     },
     {
       invariantKind: "departure",

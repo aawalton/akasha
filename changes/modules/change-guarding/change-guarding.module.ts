@@ -24,7 +24,7 @@ export const changeGuarding = {
     },
     {
       invariantKind: "departure",
-      statement: "The answer the world already holds is gathered with the answer judged.",
+      statement: "The answer the world already has is gathered with the answer judged.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const changeGuarding = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer the world already holds is judged rather than refused.",
+      statement: "An answer the world already has is judged rather than refused.",
     },
     {
       invariantKind: "departure",
@@ -69,7 +69,7 @@ export const changeGuarding = {
     {
       invariantKind: "departure",
       statement:
-        "Whether a path holds a body after the answer is read here rather than by each guard.",
+        "Whether a path has a body after the answer is read here rather than by each guard.",
     },
     {
       invariantKind: "departure",

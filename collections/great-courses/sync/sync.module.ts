@@ -9,7 +9,7 @@ export const sync = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A course the collection already holds is skipped rather than fetched.",
+      statement: "A course the collection already has is skipped rather than fetched.",
     },
     {
       invariantKind: "departure",

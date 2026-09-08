@@ -10,7 +10,7 @@ export const pageLiteral = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The object answered is the object the first exported declaration holds.",
+      statement: "The object answered is the object the first exported declaration has.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +26,11 @@ export const pageLiteral = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether a key holds many values is read from the body rather than from the type.",
+      statement: "Whether a key has many values is read from the body rather than from the type.",
     },
     {
       invariantKind: "departure",
-      statement: "A key the body states no value under holds no many values.",
+      statement: "A key the body states no value under has no many values.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,7 @@ export const pageLiteral = {
     },
     {
       invariantKind: "departure",
-      statement: "A key stating no list holds no records.",
+      statement: "A key stating no list has no records.",
     },
     {
       invariantKind: "departure",

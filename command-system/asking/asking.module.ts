@@ -131,7 +131,7 @@ export const asking = {
     },
     {
       invariantKind: "constraint",
-      statement: "A reading is taken of the paths this repository holds alone.",
+      statement: "A reading is taken of the paths this repository has alone.",
     },
     {
       invariantKind: "departure",

@@ -71,7 +71,7 @@ export const argumentReading = {
     },
     {
       invariantKind: "gap",
-      statement: "A body holding the fence the caller picked ends at that line early.",
+      statement: "A body with the fence the caller picked ends at that line early.",
     },
   ],
 } as const satisfies Module

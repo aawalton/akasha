@@ -39,7 +39,7 @@ export const monarchFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "A month with no entry file holds no transactions rather than failing.",
+      statement: "A month with no entry file has no transactions rather than failing.",
     },
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const duringCall = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run begun inside a run holds nothing of its own.",
+      statement: "A run begun inside a run has nothing of its own.",
     },
     {
       invariantKind: "departure",

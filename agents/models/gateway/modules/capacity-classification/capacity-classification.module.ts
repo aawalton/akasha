@@ -35,7 +35,7 @@ export const capacityClassification = {
     {
       invariantKind: "departure",
       statement:
-        "One window header present and one absent is unclassified whatever the overage headers hold.",
+        "One window header present and one absent is unclassified whatever the overage headers have.",
     },
     {
       invariantKind: "departure",

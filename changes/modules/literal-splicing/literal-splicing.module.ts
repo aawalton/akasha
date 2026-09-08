@@ -10,7 +10,7 @@ export const literalSplicing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value put into a list holding none falls just inside the bracket.",
+      statement: "A value put into a list with none falls just inside the bracket.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const literalSplicing = {
     {
       invariantKind: "departure",
       statement:
-        "An entry put into an object holding none falls just inside the brace on a line of its own.",
+        "An entry put into an object with none falls just inside the brace on a line of its own.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const literalSplicing = {
     {
       invariantKind: "departure",
       statement:
-        "The one entry a literal holds goes with everything between that literal's delimiters.",
+        "The one entry a literal has goes with everything between that literal's delimiters.",
     },
     {
       invariantKind: "departure",
@@ -57,7 +57,7 @@ export const literalSplicing = {
     },
     {
       invariantKind: "departure",
-      statement: "An index naming no entry answers a span holding nothing.",
+      statement: "An index naming no entry answers a span with nothing.",
     },
     {
       invariantKind: "absence",

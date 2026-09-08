@@ -40,7 +40,7 @@ export const forward = {
     {
       invariantKind: "departure",
       statement:
-        "A request holding no authorization of either sort is sent with no authorization header.",
+        "A request with no authorization of either sort is sent with no authorization header.",
     },
     {
       invariantKind: "departure",
@@ -96,7 +96,7 @@ export const forward = {
     },
     {
       invariantKind: "departure",
-      statement: "A keepalive is armed only where the upstream content type holds the SSE type.",
+      statement: "A keepalive is armed only where the upstream content type has the SSE type.",
     },
     {
       invariantKind: "departure",
@@ -104,8 +104,7 @@ export const forward = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An SSE error frame is served only where the upstream content type holds that type.",
+      statement: "An SSE error frame is served only where the upstream content type has that type.",
     },
     {
       invariantKind: "departure",
@@ -173,7 +172,7 @@ export const forward = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds a clock the caller cannot replace.",
+      statement: "Nothing here has a clock the caller cannot replace.",
     },
     {
       invariantKind: "gap",
@@ -181,7 +180,7 @@ export const forward = {
     },
     {
       invariantKind: "gap",
-      statement: "A fetch that throws leaves the slot holding the observer of the attempt before.",
+      statement: "A fetch that throws leaves the slot with the observer of the attempt before.",
     },
     {
       invariantKind: "gap",

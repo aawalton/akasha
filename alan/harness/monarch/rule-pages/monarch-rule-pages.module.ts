@@ -43,7 +43,7 @@ export const monarchRulePages = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag may be given several times and holds every value given.",
+      statement: "A flag may be given several times and has every value given.",
     },
   ],
 } as const satisfies Module

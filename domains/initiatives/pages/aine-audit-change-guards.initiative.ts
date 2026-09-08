@@ -10,7 +10,7 @@ export const aineAuditChangeGuards = {
     {
       statement: "Every sensible combination of mode, type and subtype has a mechanical change.",
       workingMemory:
-        "file holds add, move and remove across file, file-code, file-page, file-page-type and file-page-property, each dispatched; rename holds file-page and file-page-property. folder holds move and remove across folder and folder-package. file-content holds change over file-content, code, page and a page's page type, with a dispatcher. The page-type, page-property and prose targets are reached by agent changes composing file and file-content rungs. A page type's own slug is renamed by nothing.\n",
+        "file has add, move and remove across file, file-code, file-page, file-page-type and file-page-property, each dispatched; rename has file-page and file-page-property. folder has move and remove across folder and folder-package. file-content has change over file-content, code, page and a page's page type, with a dispatcher. The page-type, page-property and prose targets are reached by agent changes composing file and file-content rungs. A page type's own slug is renamed by nothing.\n",
     },
     {
       statement:

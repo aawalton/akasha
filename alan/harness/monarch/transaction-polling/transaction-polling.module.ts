@@ -32,7 +32,7 @@ export const transactionPolling = {
     {
       invariantKind: "departure",
       statement:
-        "A row naming a category this mirror has not landed keeps the category that row holds.",
+        "A row naming a category this mirror has not landed keeps the category that row has.",
     },
     {
       invariantKind: "departure",

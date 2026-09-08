@@ -26,7 +26,7 @@ export const judgedSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch a check refused applies once the paths that patch holds pass.",
+      statement: "A patch a check refused applies once the paths that patch has pass.",
     },
     {
       invariantKind: "departure",

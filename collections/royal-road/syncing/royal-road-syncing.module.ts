@@ -59,8 +59,7 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name another chapter already holds takes the chapter's royal road id on the end.",
+      statement: "A name another chapter already has takes the chapter's royal road id on the end.",
     },
     {
       invariantKind: "departure",
@@ -117,7 +116,7 @@ export const royalRoadSyncing = {
     {
       invariantKind: "departure",
       statement:
-        "A restated story whose page already holds that body states no edit rather than refusing the batch.",
+        "A restated story whose page already has that body states no edit rather than refusing the batch.",
     },
     {
       invariantKind: "departure",

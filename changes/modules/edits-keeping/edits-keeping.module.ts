@@ -26,7 +26,7 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "One line holds one edit written as JSON.",
+      statement: "One line has one edit written as JSON.",
     },
     {
       invariantKind: "departure",
@@ -104,7 +104,7 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The lines a caller already holds are dropped as lines rather than as edits.",
+      statement: "The lines a caller already has are dropped as lines rather than as edits.",
     },
     {
       invariantKind: "departure",
@@ -116,7 +116,7 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder holding the page is made before the turn over the file is taken.",
+      statement: "The folder with the page is made before the turn over the file is taken.",
     },
     {
       invariantKind: "departure",

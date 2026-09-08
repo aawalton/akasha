@@ -10,7 +10,7 @@ export const statusBarComposing = {
     {
       invariantKind: "departure",
       statement:
-        "The line holds the fleet's spend and one section for each of the three readout groups.",
+        "The line has the fleet's spend and one section for each of the three readout groups.",
     },
     {
       invariantKind: "departure",

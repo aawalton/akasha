@@ -14,7 +14,7 @@ export const courseMapping = {
     },
     {
       invariantKind: "departure",
-      statement: "A subject shelf the store does not hold is warned about rather than refused.",
+      statement: "A subject shelf the store does not have is warned about rather than refused.",
     },
   ],
 } as const satisfies Module

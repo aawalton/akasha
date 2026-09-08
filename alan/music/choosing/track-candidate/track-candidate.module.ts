@@ -26,7 +26,7 @@ export const trackCandidate = {
     },
     {
       invariantKind: "departure",
-      statement: "An artist wanted keeps a candidate whose artists hold that text.",
+      statement: "An artist wanted keeps a candidate whose artists have that text.",
     },
     {
       invariantKind: "departure",

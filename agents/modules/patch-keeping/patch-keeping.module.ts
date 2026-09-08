@@ -27,7 +27,7 @@ export const patchKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder holding the page is made before the turn over the patch is taken.",
+      statement: "The folder with the page is made before the turn over the patch is taken.",
     },
     {
       invariantKind: "departure",

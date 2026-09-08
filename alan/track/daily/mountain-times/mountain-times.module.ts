@@ -24,7 +24,7 @@ export const mountainTimes = {
     },
     {
       invariantKind: "departure",
-      statement: "A wall time autumn holds twice answers at the first of the two.",
+      statement: "A wall time autumn has twice answers at the first of the two.",
     },
     {
       invariantKind: "departure",

@@ -25,7 +25,7 @@ export const monarchReconcile = {
     {
       invariantKind: "departure",
       statement:
-        "A window is cut by the day a transaction fell on rather than by the month its page holds.",
+        "A window is cut by the day a transaction fell on rather than by the month its page has.",
     },
     {
       invariantKind: "departure",

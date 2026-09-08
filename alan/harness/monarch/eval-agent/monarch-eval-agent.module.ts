@@ -39,7 +39,7 @@ export const monarchEvalAgent = {
     },
     {
       invariantKind: "departure",
-      statement: "A reply that holds no array is refused with the words that reply did say.",
+      statement: "A reply that has no array is refused with the words that reply did say.",
     },
     {
       invariantKind: "departure",

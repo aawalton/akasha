@@ -104,7 +104,7 @@ export const manifestLocking = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder holding a link is reached whether or not the folder names a scope.",
+      statement: "The folder with a link is reached whether or not the folder names a scope.",
     },
     {
       invariantKind: "departure",

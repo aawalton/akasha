@@ -50,11 +50,11 @@ export const forcedToolChoice = {
     },
     {
       invariantKind: "departure",
-      statement: "A rewrite carries every key the body holds beside the tool choice.",
+      statement: "A rewrite carries every key the body has beside the tool choice.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal on a body holding a forcing tool choice is answered with a retry.",
+      statement: "A refusal on a body with a forcing tool choice is answered with a retry.",
     },
     {
       invariantKind: "departure",

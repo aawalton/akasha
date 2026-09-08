@@ -50,7 +50,7 @@ export const trackLanding = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches the disk for a body a caller already holds.",
+      statement: "Nothing here reaches the disk for a body a caller already has.",
     },
   ],
 } as const satisfies Module

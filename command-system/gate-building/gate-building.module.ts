@@ -23,7 +23,7 @@ export const gateBuilding = {
     {
       invariantKind: "departure",
       statement:
-        "The path a resolved name holds inside its own tree is taken under the root in play.",
+        "The path a resolved name has inside its own tree is taken under the root in play.",
     },
     {
       invariantKind: "departure",

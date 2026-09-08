@@ -5,7 +5,7 @@ export const changeFreshness = {
   pageTypeSlug: "module",
   slug: "change-freshness",
   definition:
-    "the rules holding a change to the bodies its writer read and to the commit it was judged against",
+    "the rules with a change to the bodies its writer read and to the commit it was judged against",
   code: "ts",
   test: "ts",
   invariants: [
@@ -26,11 +26,11 @@ export const changeFreshness = {
     {
       invariantKind: "departure",
       statement:
-        "A path the base holds a body at whose body will not read counts as moved rather than as unchanged.",
+        "A path the base has a body at whose body will not read counts as moved rather than as unchanged.",
     },
     {
       invariantKind: "departure",
-      statement: "A path the base holds nothing at and disk holds nothing at has moved nothing.",
+      statement: "A path the base has nothing at and disk has nothing at has moved nothing.",
     },
     {
       invariantKind: "departure",

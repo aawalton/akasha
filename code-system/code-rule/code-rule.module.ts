@@ -27,7 +27,7 @@ export const codeRule = {
     },
     {
       invariantKind: "departure",
-      statement: "A body holding a literal or an operator says something of its own.",
+      statement: "A body with a literal or an operator says something of its own.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const codeRule = {
     },
     {
       invariantKind: "departure",
-      statement: "A backtick string holding no name is a literal as a quoted string is.",
+      statement: "A backtick string with no name is a literal as a quoted string is.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,7 @@ export const codeRule = {
     {
       invariantKind: "departure",
       statement:
-        "A function's export status is answered by climbing to the statement holding that function.",
+        "A function's export status is answered by climbing to the statement with that function.",
     },
     {
       invariantKind: "absence",

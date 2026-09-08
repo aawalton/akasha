@@ -58,7 +58,7 @@ export const akashaDay = {
     },
     {
       invariantKind: "constraint",
-      statement: "A day's row file holds tens of rows rather than thousands.",
+      statement: "A day's row file has tens of rows rather than thousands.",
     },
     {
       invariantKind: "departure",
