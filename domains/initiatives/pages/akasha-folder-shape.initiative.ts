@@ -8,11 +8,6 @@ export const akashaFolderShape = {
   personaSlug: "akasha",
   intents: [
     {
-      statement: "The identity index files each page under its unique kind.",
-      workingMemory:
-        "`filedIn` answers `{ uniqueKind, scope, propertySlug, said }` and `identityIn` joins `identity/{uniqueKind}/{scope}/{propertySlug}/{said}.jsonl`. The kind `page` carries an empty scope, so an id is filed at `identity/page/id/{id}.jsonl`. `page-type` scopes on the page type's slug, and `page-property` on `{pageType}/{scopeProperty}/{value}`.",
-    },
-    {
       statement: "Each page address kind holds the code that finds its page.",
       workingMemory:
         "The three kinds are pages with a type and a recogniser, and the module holds the union, so a kind missing from it fails to compile. None holds a resolver. `reaches` at `reaching.module.code.ts:216` finds every page, switching on `addressIn`'s four arms — id, qualified, scoped, bare — told apart by counting slashes, lining up with no kind. `addressedIn` refuses a bare address that `reaches` resolves. A kind's resolver composes the identity path off the address and reads one file.",
