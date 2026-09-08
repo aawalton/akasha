@@ -9,7 +9,7 @@ import { ran } from "@akasha/utils-run/running"
 import {
   compilerConfigPathFor,
   TSCONFIG_NAME,
-} from "../addon-tstl-config/addon-tstl-config.module.code.ts"
+} from "../addon-compiler-config/addon-compiler-config.module.code.ts"
 
 export const BUILD_ID_FILE = "build-id.lua"
 

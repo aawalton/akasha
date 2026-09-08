@@ -6,7 +6,7 @@
     "./addon-load-order": "./addon-load-order/addon-load-order.module.code.ts",
     "./addon-metadata-copy": "./addon-metadata-copy/addon-metadata-copy.module.code.ts",
     "./addon-metadata-files": "./addon-metadata-files/addon-metadata-files.module.code.ts",
-    "./addon-tstl-config": "./addon-tstl-config/addon-tstl-config.module.code.ts",
+    "./addon-compiler-config": "./addon-compiler-config/addon-compiler-config.module.code.ts",
     "./consolidation-migrations": "./consolidation-migrations/consolidation-migrations.module.code.ts",
     "./global-name-dependents": "./global-name-dependents/global-name-dependents.module.code.ts",
     "./lua-build-command": "./lua-build-command/lua-build-command.module.code.ts"

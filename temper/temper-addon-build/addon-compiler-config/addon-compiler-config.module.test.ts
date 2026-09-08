@@ -8,7 +8,7 @@ import {
   compilerConfigPathFor,
   esoAddonPagePathIn,
   reachedPackageDirs,
-} from "./addon-tstl-config.module.code.ts"
+} from "./addon-compiler-config.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

@@ -10,7 +10,7 @@ export const temperAddonBuild = {
     "module/lua-build-command",
     "module/addon-load-order",
     "module/addon-metadata-copy",
-    "module/addon-tstl-config",
+    "module/addon-compiler-config",
     "module/addon-metadata-files",
     "module/global-name-dependents",
     "module/consolidation-migrations",

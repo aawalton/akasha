@@ -4,8 +4,11 @@ import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
+import {
+  compilerConfigPathFor,
+  TSCONFIG_NAME,
+} from "@akasha/temper-addon-build/addon-compiler-config"
 import { copyAddonMetadata } from "@akasha/temper-addon-build/addon-metadata-copy"
-import { compilerConfigPathFor, TSCONFIG_NAME } from "@akasha/temper-addon-build/addon-tstl-config"
 import {
   COMPILER_ENTRY,
   compilerCommand,

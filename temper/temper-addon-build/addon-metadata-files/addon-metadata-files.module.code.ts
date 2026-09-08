@@ -1,7 +1,7 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
 import { bindings } from "@akasha/code/eso-addon/bindings"
-import { readEsoAddonPage } from "../addon-tstl-config/addon-tstl-config.module.code.ts"
+import { readEsoAddonPage } from "../addon-compiler-config/addon-compiler-config.module.code.ts"
 
 export const GAME_METADATA_DIR = "metadata"
 

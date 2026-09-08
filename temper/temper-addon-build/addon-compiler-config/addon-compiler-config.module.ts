@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code/module"
 
-export const addonTstlConfig = {
+export const addonCompilerConfig = {
   id: "01a060ed-2e23-72af-af9e-fc35df5b70c3",
   pageTypeSlug: "module",
-  slug: "addon-tstl-config",
+  slug: "addon-compiler-config",
   definition: "the transpiler settings a build reads for an addon whose folder holds no tsconfig",
   code: "ts",
   test: "ts",
