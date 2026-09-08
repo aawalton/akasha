@@ -44,4 +44,5 @@ export const addIfNotPresentFile = {
       statement: "Nothing here reads the disk.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFile

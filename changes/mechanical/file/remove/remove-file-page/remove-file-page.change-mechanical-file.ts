@@ -93,4 +93,5 @@ export const removeFilePage = {
       statement: "The files beside the page are judged by a guard this change names.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFile
