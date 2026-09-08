@@ -21,7 +21,7 @@ const RENAME_KEY = "change-mechanical-file-content/rename-page-property-key"
 
 const RENAME_SIGNATURE = "change-mechanical-file-content/rename-property-signature"
 
-const RENAME_PATH = "change-mechanical-file/rename-path"
+const MOVE_FILE_CODE = "change-mechanical-file/move-file-code"
 
 const PROPERTY_SLUG = "propertySlug"
 
@@ -164,7 +164,7 @@ export async function renamePagePropertyPropertySlug(
     if (why !== null) return refusing(`\`${one.path}\` is refused, and ${why}`)
   }
   for (const one of held.moving) {
-    const why = await reaching(RENAME_PATH, one)
+    const why = await reaching(MOVE_FILE_CODE, one)
     if (why !== null) return refusing(`\`${one.from}\` is refused, and ${why}`)
   }
   return gathered(answers)

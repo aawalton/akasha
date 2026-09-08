@@ -27,7 +27,7 @@ import { spelledAnew } from "../../file-content/rename-package/rename-package.ch
 
 const RENAME_PAGE_SLUG = "change-mechanical-file-content/rename-page-slug"
 
-const RENAME_PATH = "change-mechanical-file/rename-path"
+const MOVE_FILE_CODE = "change-mechanical-file/move-file-code"
 
 const RENAME_EXPORT = "change-mechanical-file-content/rename-export"
 
@@ -299,7 +299,7 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
   const carries = [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]
   const way = wayIn(world, new Map(carries.map((one) => [one.from, one.to])), held.slug, given.to)
   for (const one of carries) {
-    const carried = await reach(seen, RENAME_PATH, one)
+    const carried = await reach(seen, MOVE_FILE_CODE, one)
     if (carried.said.refused !== null) return carried.said
     answers.push(carried.said)
     folded = gathered(answers)

@@ -28,7 +28,7 @@ const RENAME_KEY = "change-mechanical-file-content/rename-page-property-key"
 
 const RENAME_SIGNATURE = "change-mechanical-file-content/rename-property-signature"
 
-const RENAME_PATH = "change-mechanical-file/rename-path"
+const MOVE_FILE_CODE = "change-mechanical-file/move-file-code"
 
 const VALUES: Readonly<Record<string, Value>> = {
   "file-property/code": {
@@ -113,7 +113,7 @@ test("the whole rename is composed of the four changes, in the order they are re
     CHANGE_PAGE_PROPERTY,
     RENAME_KEY,
     RENAME_SIGNATURE,
-    RENAME_PATH,
+    MOVE_FILE_CODE,
   ])
 })
 
@@ -168,7 +168,7 @@ test("every file a file property's key names is carried to the new name", async 
     to: "code-file",
   })
 
-  expect(givenAt(reached, RENAME_PATH)).toEqual({ from: ONE_CODE, to: ONE_CODE_TO })
+  expect(givenAt(reached, MOVE_FILE_CODE)).toEqual({ from: ONE_CODE, to: ONE_CODE_TO })
 })
 
 test("a property that is no file property carries no file", async () => {
@@ -180,7 +180,7 @@ test("a property that is no file property carries no file", async () => {
   })
 
   expect(said.refused).toBeNull()
-  expect(reached.map((one) => one.at)).not.toContain(RENAME_PATH)
+  expect(reached.map((one) => one.at)).not.toContain(MOVE_FILE_CODE)
 })
 
 test("a property a record declares as one of its fields is refused", async () => {
