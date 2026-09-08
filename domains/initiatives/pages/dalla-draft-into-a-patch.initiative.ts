@@ -56,7 +56,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A file that is not text is moved by path and refused every other change.",
       workingMemory:
-        "`move-file` answers a bare move already; `movedIn:170` and `replayed:187` flatten it into a write and a removal, which is where a binary decodes. `path-carrying` is built and tested, `applied` takes `carries`, and both call sites hand in an empty list. Filling that is half the work. The other half refuses a non-text body and needs `World` to tell no body from a body that is not text: `page-claiming:12` probes `textOf !== null`, so an honest decode drops every wallpaper from its persona's claims.",
+        "Half of this landed at `b9c32ad613`: a move no other edit names is handed on as a carried path, both paths left out of the bodies, so nothing decodes and git records a rename. Twelve PNG bytes in, twelve out. What is left is the refusal. `textAt` at `edits-keeping:92` reads `utf8`, which never fails, so the `NOT_TEXT` sentinel is dead and two invariants contradict each other. `World` must tell no body from a body that is not text before `page-claiming:12` can keep the wallpapers claimed.\n",
     },
   ],
   constraints: [
