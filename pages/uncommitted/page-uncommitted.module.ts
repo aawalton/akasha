@@ -53,7 +53,7 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement: "The exported name carries the page's own name.",
+      statement: "The exported name has the page's own name.",
     },
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const pageCard = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A card whose page type carries a completion draws a circle where its icon goes.",
+      statement: "A card whose page type has a completion draws a circle where its icon goes.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,7 @@ export const pageCard = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type carrying no completion draws its icon and no circle.",
+      statement: "A page type with no completion draws its icon and no circle.",
     },
   ],
 } as const satisfies Module

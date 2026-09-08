@@ -12,7 +12,7 @@ export const declaredProperties = {
     {
       invariantKind: "departure",
       statement:
-        "A page type carries its own properties and the properties of every type above that page type.",
+        "A page type has its own properties and the properties of every type above that page type.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,7 @@ export const declaredProperties = {
     },
     {
       invariantKind: "departure",
-      statement: "A field is declared by the record property carrying the field.",
+      statement: "A field is declared by the record property with the field.",
     },
     {
       invariantKind: "departure",
@@ -58,8 +58,7 @@ export const declaredProperties = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A declaration stating a unique kind carries that kind rather than its property's.",
+      statement: "A declaration stating a unique kind has that kind rather than its property's.",
     },
     {
       invariantKind: "departure",
@@ -84,12 +83,12 @@ export const declaredProperties = {
     },
     {
       invariantKind: "departure",
-      statement: "Several listings carrying one id are answered as one page.",
+      statement: "Several listings with one id are answered as one page.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Several listings carrying different ids are answered as no page rather than settled here.",
+        "Several listings with different ids are answered as no page rather than settled here.",
     },
     {
       invariantKind: "absence",

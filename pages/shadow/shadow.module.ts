@@ -10,11 +10,11 @@ export const shadow = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page the change carries is read from the body the change carries.",
+      statement: "A page the change has is read from the body the change has.",
     },
     {
       invariantKind: "departure",
-      statement: "A page the change does not carry is read from the value index.",
+      statement: "A page the change does not have is read from the value index.",
     },
     {
       invariantKind: "departure",
@@ -119,7 +119,7 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the change only carries elsewhere is at the path the body came from.",
+      statement: "A body the change only has elsewhere is at the path the body came from.",
     },
     {
       invariantKind: "departure",
@@ -165,7 +165,7 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading a settle left carries the change that settle was handed.",
+      statement: "A reading a settle left has the change that settle was handed.",
     },
     {
       invariantKind: "departure",

@@ -26,11 +26,11 @@ export const wallpaperOrder = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona carrying no wallpaper is passed over.",
+      statement: "A persona with no wallpaper is passed over.",
     },
     {
       invariantKind: "departure",
-      statement: "A persona carrying no slug is passed over.",
+      statement: "A persona with no slug is passed over.",
     },
     {
       invariantKind: "departure",

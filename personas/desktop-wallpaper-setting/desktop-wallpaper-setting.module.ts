@@ -19,7 +19,7 @@ export const desktopWallpaperSetting = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona carrying no desktop wallpaper is passed over.",
+      statement: "A persona with no desktop wallpaper is passed over.",
     },
     {
       invariantKind: "departure",

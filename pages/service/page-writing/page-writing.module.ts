@@ -39,7 +39,7 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "Every writer a batch carries is named in the message.",
+      statement: "Every writer a batch has is named in the message.",
     },
     {
       invariantKind: "departure",
@@ -76,7 +76,7 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A page a write creates carries the values its page type generates.",
+      statement: "A page a write creates has the values its page type generates.",
     },
     {
       invariantKind: "departure",

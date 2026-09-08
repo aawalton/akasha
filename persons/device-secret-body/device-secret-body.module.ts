@@ -18,7 +18,7 @@ export const deviceSecretBody = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer carrying no secret of the minted shape is refused.",
+      statement: "An answer with no secret of the minted shape is refused.",
     },
     {
       invariantKind: "absence",

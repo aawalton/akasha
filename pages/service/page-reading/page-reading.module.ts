@@ -66,7 +66,7 @@ export const pageReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the commit does not carry answers as nothing rather than as empty text.",
+      statement: "A path the commit does not have answers as nothing rather than as empty text.",
     },
     {
       invariantKind: "departure",

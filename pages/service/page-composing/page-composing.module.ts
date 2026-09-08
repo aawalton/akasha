@@ -106,7 +106,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may write its values over the values the page already carries.",
+      statement: "A caller may write its values over the values the page already has.",
     },
     {
       invariantKind: "departure",
@@ -148,7 +148,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "The files those rows fill are put alongside the page carrying those rows.",
+      statement: "The files those rows fill are put alongside the page with those rows.",
     },
     {
       invariantKind: "departure",
