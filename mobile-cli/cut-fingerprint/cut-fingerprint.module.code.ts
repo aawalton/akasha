@@ -1,7 +1,6 @@
-import { type Dirent, readdirSync } from "node:fs"
-import { join } from "node:path"
 import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { everyOfType } from "@akasha/pages/index-reading"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { numberAt, slugAt, textAt, type Value, valueAt } from "@akasha/pages/page-value"
 import { z } from "zod"
@@ -84,18 +83,7 @@ function akashaRoot(): string {
 }
 
 function pathsUnder(root: string): readonly string[] {
-  let entries: readonly Dirent[]
-  try {
-    entries = readdirSync(join(root, CUTS_FOLDER), { withFileTypes: true })
-  } catch (why) {
-    throw new CutsUnread(CUTS_FOLDER, why instanceof Error ? why.message : String(why))
-  }
-  const found: string[] = []
-  for (const entry of entries) {
-    if (entry.isDirectory()) found.push(cutPagePath(entry.name))
-    else if (entry.name.endsWith(PAGE_SUFFIX)) found.push(`${CUTS_FOLDER}/${entry.name}`)
-  }
-  return found.sort()
+  return everyOfType(root, MOBILE_CUT_PAGE_TYPE_SLUG).map((listed) => listed.path)
 }
 
 export function readCutPages(): readonly CutPage[] {
