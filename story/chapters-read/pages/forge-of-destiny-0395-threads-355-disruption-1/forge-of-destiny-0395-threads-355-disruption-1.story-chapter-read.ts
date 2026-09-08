@@ -5,7 +5,7 @@ export const forgeOfDestiny0395Threads355Disruption1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0395-threads-355-disruption-1",
   title: "Threads 355 Disruption 1",
-  partOfSlugs: ["forge-of-destiny"],
+  partOfCollectionSlugs: ["forge-of-destiny"],
   position: 395,
   ownLength: 2299,
   unitSlug: "words",

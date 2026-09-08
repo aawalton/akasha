@@ -5,7 +5,7 @@ export const forgeOfDestiny0433Threads390NewPeace1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0433-threads-390-new-peace-1",
   title: "Threads 390-New Peace 1",
-  partOfSlugs: ["forge-of-destiny"],
+  partOfCollectionSlugs: ["forge-of-destiny"],
   position: 433,
   ownLength: 2027,
   unitSlug: "words",

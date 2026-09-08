@@ -5,7 +5,7 @@ export const forgeOfDestiny0261InterludeTruth = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0261-interlude-truth",
   title: "Interlude: Truth",
-  partOfSlugs: ["forge-of-destiny"],
+  partOfCollectionSlugs: ["forge-of-destiny"],
   position: 261,
   ownLength: 1805,
   unitSlug: "words",
