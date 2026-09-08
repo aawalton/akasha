@@ -27,7 +27,7 @@ export const smsActingAccount = {
     },
     {
       invariantKind: "departure",
-      statement: "A surface carrying no trusted footer refuses rather than answering empty.",
+      statement: "A surface with no trusted footer refuses rather than answering empty.",
     },
     {
       invariantKind: "departure",

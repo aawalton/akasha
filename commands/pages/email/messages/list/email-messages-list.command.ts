@@ -29,7 +29,7 @@ export const emailMessagesList = {
     },
     {
       invariantKind: "departure",
-      statement: "A search read from a file carries no line ending.",
+      statement: "A search read from a file has no line ending.",
     },
     {
       invariantKind: "departure",

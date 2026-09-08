@@ -67,7 +67,7 @@ export const inferenceZimage = {
     {
       invariantKind: "departure",
       statement:
-        "A checkpoint already staged at the size that checkpoint carries is staged no second time.",
+        "A checkpoint already staged at the size that checkpoint has is staged no second time.",
     },
     {
       invariantKind: "departure",

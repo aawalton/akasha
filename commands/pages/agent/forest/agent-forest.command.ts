@@ -122,7 +122,7 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
-      statement: "`at` is answered only where the file opened declared the id the row carries.",
+      statement: "`at` is answered only where the file opened declared the id the row has.",
     },
     {
       invariantKind: "departure",

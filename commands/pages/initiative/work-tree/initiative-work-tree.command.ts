@@ -69,7 +69,7 @@ export const initiativeWorkTree = {
     },
     {
       invariantKind: "departure",
-      statement: "An intent carries its working memory as its note.",
+      statement: "An intent has its working memory as its note.",
     },
     {
       invariantKind: "departure",
@@ -101,7 +101,7 @@ export const initiativeWorkTree = {
     },
     {
       invariantKind: "absence",
-      statement: "An intent carries no color.",
+      statement: "An intent has no color.",
     },
     {
       invariantKind: "absence",

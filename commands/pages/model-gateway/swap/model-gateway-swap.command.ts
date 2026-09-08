@@ -26,7 +26,7 @@ export const modelGatewaySwap = {
     },
     {
       invariantKind: "departure",
-      statement: "The ask a swap writes is spelled as the page carrying that name is spelled.",
+      statement: "The ask a swap writes is spelled as the page with that name is spelled.",
     },
     {
       invariantKind: "departure",

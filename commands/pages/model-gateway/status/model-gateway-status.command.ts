@@ -33,7 +33,7 @@ export const modelGatewayStatus = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat carrying no name is named by the leading letters of its agent id.",
+      statement: "A seat with no name is named by the leading letters of its agent id.",
     },
     {
       invariantKind: "departure",

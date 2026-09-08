@@ -21,7 +21,7 @@ export const inferenceApply = {
     },
     {
       invariantKind: "departure",
-      statement: "A service at the hash its inputs carry is applied again by nothing.",
+      statement: "A service at the hash its inputs have is applied again by nothing.",
     },
     {
       invariantKind: "departure",

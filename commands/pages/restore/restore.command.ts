@@ -28,8 +28,7 @@ export const restore = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path carrying no flag before the path is refused rather than read as a named path.",
+      statement: "A path with no flag before the path is refused rather than read as a named path.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +64,7 @@ export const restore = {
     },
     {
       invariantKind: "departure",
-      statement: "A call carrying a refusal writes nothing at all.",
+      statement: "A call with a refusal writes nothing at all.",
     },
     {
       invariantKind: "departure",

@@ -48,7 +48,7 @@ export const initiativeMoveIntent = {
     },
     {
       invariantKind: "departure",
-      statement: "Carrying the intent is left to the mechanical change carrying one value.",
+      statement: "Carrying the intent is left to the mechanical change with one value.",
     },
     {
       invariantKind: "departure",

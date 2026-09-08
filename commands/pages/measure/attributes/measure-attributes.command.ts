@@ -55,12 +55,12 @@ export const measureAttributes = {
     },
     {
       invariantKind: "departure",
-      statement: "An attribute carrying no total is named rather than answered as zero.",
+      statement: "An attribute with no total is named rather than answered as zero.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An attribute carrying no total is left out of the lines rather than shown at level 0.",
+        "An attribute with no total is left out of the lines rather than shown at level 0.",
     },
     {
       invariantKind: "absence",

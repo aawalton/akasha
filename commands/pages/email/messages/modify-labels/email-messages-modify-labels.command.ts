@@ -28,7 +28,7 @@ export const emailMessagesModifyLabels = {
     },
     {
       invariantKind: "departure",
-      statement: "The labels the message carries after the change come back.",
+      statement: "The labels the message has after the change come back.",
     },
   ],
 } as const satisfies Command

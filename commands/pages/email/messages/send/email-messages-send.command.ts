@@ -47,7 +47,7 @@ export const emailMessagesSend = {
 
     {
       invariantKind: "departure",
-      statement: "A message carrying no attachment is one plain-text part rather than multipart.",
+      statement: "A message with no attachment is one plain-text part rather than multipart.",
     },
   ],
 } as const satisfies Command

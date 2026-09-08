@@ -47,7 +47,7 @@ export const measurePersonas = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona carrying no total is counted rather than answered as zero.",
+      statement: "A persona with no total is counted rather than answered as zero.",
     },
     {
       invariantKind: "departure",

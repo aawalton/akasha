@@ -18,7 +18,7 @@ export const emailAttachmentsList = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A part is an attachment only where that part carries both a filename and an id.",
+      statement: "A part is an attachment only where that part has both a filename and an id.",
     },
     {
       invariantKind: "departure",

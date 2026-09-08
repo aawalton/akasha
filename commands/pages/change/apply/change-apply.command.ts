@@ -115,7 +115,7 @@ export const changeApply = {
     },
     {
       invariantKind: "departure",
-      statement: "A measuring apply carrying no test file refuses rather than landing.",
+      statement: "A measuring apply with no test file refuses rather than landing.",
     },
     {
       invariantKind: "departure",

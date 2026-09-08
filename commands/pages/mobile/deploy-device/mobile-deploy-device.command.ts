@@ -48,8 +48,7 @@ export const mobileDeployDevice = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A build is installed only where its signature carries the app's bundle id and team.",
+      statement: "A build is installed only where its signature has the app's bundle id and team.",
     },
     {
       invariantKind: "departure",

@@ -53,7 +53,7 @@ export const icloud = {
     },
     {
       invariantKind: "departure",
-      statement: "Two photos carrying one name land under names told apart.",
+      statement: "Two photos with one name land under names told apart.",
     },
 
     {

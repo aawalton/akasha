@@ -116,7 +116,7 @@ export const calendar = {
     },
     {
       invariantKind: "departure",
-      statement: "A whole-day event carries no zone.",
+      statement: "A whole-day event has no zone.",
     },
     {
       invariantKind: "departure",

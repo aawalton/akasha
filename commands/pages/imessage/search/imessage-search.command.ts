@@ -42,7 +42,7 @@ export const imessageSearch = {
     },
     {
       invariantKind: "departure",
-      statement: "A run of characters read from a file carries no closing line ending.",
+      statement: "A run of characters read from a file has no closing line ending.",
     },
     {
       invariantKind: "departure",

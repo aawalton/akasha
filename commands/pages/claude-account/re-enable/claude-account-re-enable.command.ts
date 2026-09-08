@@ -27,7 +27,7 @@ export const claudeAccountReEnable = {
     },
     {
       invariantKind: "departure",
-      statement: "An account carrying no reason is answered as already standing.",
+      statement: "An account with no reason is answered as already standing.",
     },
     {
       invariantKind: "departure",

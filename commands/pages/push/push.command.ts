@@ -4,7 +4,7 @@ export const push = {
   id: "01a06cce-9280-7c22-afc1-5cfcba8a5ac4",
   pageTypeSlug: "command",
   slug: "push",
-  definition: "the command carrying this checkout's commits to the remote its branch tracks",
+  definition: "the command with this checkout's commits to the remote its branch tracks",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",

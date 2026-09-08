@@ -44,7 +44,7 @@ export const smsSend = {
     },
     {
       invariantKind: "departure",
-      statement: "A body read from a file carries no closing line ending.",
+      statement: "A body read from a file has no closing line ending.",
     },
     {
       invariantKind: "departure",

@@ -33,7 +33,7 @@ export const temperAddonInstall = {
     },
     {
       invariantKind: "departure",
-      statement: "An addon carrying no build is refused rather than installed.",
+      statement: "An addon with no build is refused rather than installed.",
     },
     {
       invariantKind: "departure",

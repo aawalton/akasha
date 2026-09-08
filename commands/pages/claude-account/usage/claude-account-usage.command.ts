@@ -32,13 +32,11 @@ export const claudeAccountUsage = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A mean is taken over the accounts carrying a figure rather than over every account.",
+      statement: "A mean is taken over the accounts with a figure rather than over every account.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An account carrying no figure moves neither the mean nor the count beside that mean.",
+      statement: "An account with no figure moves neither the mean nor the count beside that mean.",
     },
     {
       invariantKind: "departure",
@@ -54,7 +52,7 @@ export const claudeAccountUsage = {
     },
     {
       invariantKind: "departure",
-      statement: "Only bun carries `Bun.Transpiler`.",
+      statement: "Only bun has `Bun.Transpiler`.",
     },
     {
       invariantKind: "departure",

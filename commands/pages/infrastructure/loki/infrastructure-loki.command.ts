@@ -54,7 +54,7 @@ export const infrastructureLoki = {
     },
     {
       invariantKind: "departure",
-      statement: "The bounding line is told from a log line by a key no log line carries.",
+      statement: "The bounding line is told from a log line by a key no log line has.",
     },
     {
       invariantKind: "departure",

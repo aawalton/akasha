@@ -78,7 +78,7 @@ export const alanFood = {
     },
     {
       invariantKind: "departure",
-      statement: "A photo the entry could not carry leaves that photo where that photo is.",
+      statement: "A photo the entry could not have leaves that photo where that photo is.",
     },
     {
       invariantKind: "absence",

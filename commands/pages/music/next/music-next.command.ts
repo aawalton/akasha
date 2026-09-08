@@ -42,7 +42,7 @@ export const musicNext = {
     },
     {
       invariantKind: "departure",
-      statement: "A page carrying no grade is ungraded rather than a fault.",
+      statement: "A page with no grade is ungraded rather than a fault.",
     },
     {
       invariantKind: "absence",

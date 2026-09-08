@@ -36,7 +36,7 @@ export const mobileSimEval = {
     },
     {
       invariantKind: "departure",
-      statement: "A script that throws is a refusal carrying the fault that script threw.",
+      statement: "A script that throws is a refusal with the fault that script threw.",
     },
     {
       invariantKind: "absence",
