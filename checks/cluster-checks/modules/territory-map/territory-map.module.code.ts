@@ -20,7 +20,7 @@ export type TerritoryMap = {
   readonly addons: readonly TerritoryNode[]
 }
 
-export function territoryMapFile(): string {
+export function territoryMapDir(): string {
   return resolve(ownRepoRoot(), TERRITORY_MAP_PATH)
 }
 
@@ -39,7 +39,7 @@ function esoAddonDirs(root: string): ReadonlyMap<string, string> {
 
 export function readTerritoryMap(): TerritoryMap {
   const root = ownRepoRoot()
-  const dir = territoryMapFile()
+  const dir = territoryMapDir()
   const dirs = esoAddonDirs(root)
   const addons: TerritoryNode[] = []
   for (const entry of readdirSync(dir).sort()) {
