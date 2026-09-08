@@ -4,17 +4,17 @@ import * as ts from "typescript"
 import { parseConfigFileWithSystem } from "../cli-tsconfig/cli-tsconfig.module.code.ts"
 import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
-import type { Plugin } from "../transpile-plugins/transpile-plugins.module.code.ts"
-import type * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
-import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import {
   getLualibBundleReturn,
   LuaLibFeature,
   type LuaLibModulesInfo,
   resolveRecursiveLualibFeatures,
-} from "../tstl-lua-lib/tstl-lua-lib.module.code.ts"
+} from "../lualib-features/lualib-features.module.code.ts"
+import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
+import type { Plugin } from "../transpile-plugins/transpile-plugins.module.code.ts"
+import type * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
+import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
+import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import {
   requireLualibPrinter,
   requireLualibTranspiler,

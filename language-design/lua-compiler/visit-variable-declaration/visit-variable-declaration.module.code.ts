@@ -4,6 +4,7 @@ import { validateAssignment } from "../assignment-validation/assignment-validati
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
 import { addExportToIdentifier } from "../export-scope/export-scope.module.code.ts"
+import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { unsupportedVarDeclaration } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import {
   createBoundedUnpackCall,
@@ -13,7 +14,6 @@ import {
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { LuaLibFeature } from "../tstl-lua-lib/tstl-lua-lib.module.code.ts"
 import { transformLuaLibFunction } from "../tstl-lualib/tstl-lualib.module.code.ts"
 import { transformInPrecedingStatementScope } from "../tstl-preceding-statements/tstl-preceding-statements.module.code.ts"
 import { assert, cast } from "../tstl-utils/tstl-utils.module.code.ts"

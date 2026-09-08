@@ -1,4 +1,5 @@
 import type * as ts from "typescript"
+import type { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import {
   type Node,
   NodeFlags,
@@ -10,7 +11,6 @@ import type {
   Expression,
   Identifier,
 } from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
-import type { LuaLibFeature } from "../tstl-lua-lib/tstl-lua-lib.module.code.ts"
 import { castArray } from "../tstl-utils/tstl-utils.module.code.ts"
 
 export interface File extends Node {

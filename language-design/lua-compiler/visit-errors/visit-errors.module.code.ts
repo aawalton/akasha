@@ -2,6 +2,7 @@ import * as ts from "typescript"
 import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
+import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import {
   unsupportedForTarget,
   unsupportedForTargetButOverrideAvailable,
@@ -10,7 +11,6 @@ import { createUnpackCall } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { LuaLibFeature } from "../tstl-lua-lib/tstl-lua-lib.module.code.ts"
 import { transformLuaLibFunction } from "../tstl-lualib/tstl-lualib.module.code.ts"
 import { type Scope, ScopeType } from "../tstl-scope/tstl-scope.module.code.ts"
 import {
