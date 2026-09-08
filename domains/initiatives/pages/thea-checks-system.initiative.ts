@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
-        "Cluster-checks 32 down to 9, six ported, seventeen ablated. Every port is a code-check reading the index rather than a path: check-reaches-a-path-through-the-index and no-spacing-literal are on at patch, no-unparsed-boundary-read is dark at 447 refusals. test-step-paths went whole: both arms keyed on unit, property and component test names, and the tree writes none of the three. syntax-bundle is a runner over a registry of scanners, three left to take one at a time. No home for shell rules.",
+        "Cluster-checks 32 down to 8, seven ported, seventeen ablated. Every port is a code-check or a syntax rule reading the file rather than a path: check-reaches-a-path-through-the-index, no-spacing-literal and no-void-self-in-constructor are on at patch, no-unparsed-boundary-read is dark at 447 refusals. A dead check still holds live knowledge: this-void-self-drop could not run and was right about two constructors. syntax-bundle has three scanners left. No home for shell rules.",
     },
     { statement: "The old system carries no check of its own." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
