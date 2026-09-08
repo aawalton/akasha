@@ -1,8 +1,8 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../../pages/properties/title.text-property.ts"
+import type { WakeDaySlug } from "../set-logs/properties/wake-day-slug.relation-property.ts"
 import type { ScheduleDaySlug } from "./properties/schedule-day-slug.relation-property.ts"
-import type { WakeDaySlug } from "./properties/wake-day-slug.relation-property.ts"
 import type { WorkoutSessionCompletedAt } from "./properties/workout-session-completed-at.instant-property.ts"
 import type { WorkoutSessionDate } from "./properties/workout-session-date.calendar-date-property.ts"
 import type { WorkoutSessionNotes } from "./properties/workout-session-notes.text-property.ts"
@@ -31,7 +31,6 @@ export const workoutSession = {
     "instant-property/workout-session-completed-at",
     "instant-property/workout-session-started-at",
     "relation-property/schedule-day-slug",
-    "relation-property/wake-day-slug",
     "text-property/workout-session-notes",
   ],
   properties: [

@@ -10,7 +10,9 @@ import type { Note } from "./properties/note.text-property.ts"
 import type { Reps } from "./properties/reps.number-property.ts"
 import type { Rpe } from "./properties/rpe.number-property.ts"
 import type { SessionSlug } from "./properties/session-slug.relation-property.ts"
+import type { SetLogDate } from "./properties/set-log-date.calendar-date-property.ts"
 import type { SetNumber } from "./properties/set-number.number-property.ts"
+import type { WakeDaySlug } from "./properties/wake-day-slug.relation-property.ts"
 import type { Weight } from "./properties/weight.number-property.ts"
 
 export type SetLog = Page & {
@@ -24,7 +26,9 @@ export type SetLog = Page & {
   reps?: Reps
   rpe?: Rpe
   sessionSlug: SessionSlug
+  setLogDate?: SetLogDate
   setNumber: SetNumber
+  wakeDaySlug?: WakeDaySlug
   weight?: Weight
 }
 
@@ -37,6 +41,7 @@ export const setLog = {
   extendsSlug: ["page-type/page"],
   partSlugs: [
     "boolean-property/is-warmup",
+    "calendar-date-property/set-log-date",
     "number-property/distance",
     "number-property/duration-seconds",
     "number-property/reps",
@@ -45,6 +50,7 @@ export const setLog = {
     "number-property/weight",
     "relation-property/exercise-slug",
     "relation-property/session-slug",
+    "relation-property/wake-day-slug",
     "computed-property/set-volume",
     "select-property/activity-type",
     "text-property/note",
@@ -60,6 +66,8 @@ export const setLog = {
     { pagePropertySlug: "number-property/reps", required: false, many: false },
     { pagePropertySlug: "number-property/rpe", required: false, many: false },
     { pagePropertySlug: "relation-property/session-slug", required: true, many: false },
+    { pagePropertySlug: "calendar-date-property/set-log-date", required: false, many: false },
+    { pagePropertySlug: "relation-property/wake-day-slug", required: false, many: false },
     { pagePropertySlug: "number-property/set-number", required: true, many: false },
     { pagePropertySlug: "number-property/weight", required: false, many: false },
     { pagePropertySlug: "computed-property/set-volume", required: false, many: false },
