@@ -8,7 +8,6 @@ import {
   NAMER_PAGE,
   pageOf,
   scratch,
-  textIn,
 } from "@akasha/indexes/indexing/testing"
 import { schemaFiled } from "@akasha/indexes/testing"
 import { NOT_WORKED_OUT } from "@akasha/pages/shadow"
@@ -18,15 +17,16 @@ import {
   guardedBy,
   NOT_READ,
 } from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import { tookAway } from "../../../modules/change-guarding/change-guarding.module.test-fixtures.ts"
+import {
+  heldAt,
+  tookAway,
+} from "../../../modules/change-guarding/change-guarding.module.test-fixtures.ts"
 import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { relationNotLeftHanging } from "./relation-not-left-hanging.change-guard.code.ts"
 
 afterAll(scratch.sweep)
 
 const GUARDS = [relationNotLeftHanging]
-
-const HELD_BODY = "export const held = 1\n"
 
 const APART_PAGE = "akasha/apart.domain.ts"
 
@@ -67,12 +67,14 @@ function takingAway(root: string, path: string): Answer {
 test("a shadow that will not build refuses rather than answering no hanging relation", () => {
   const root = brokenRoot()
 
-  const took = [
-    { kind: "remove", path: HELD_PAGE },
-    { kind: "add", path: APART_PAGE, content: APART_BODY },
-  ]
-
-  const said = guardedBy(worldAt(root, textIn(root)), stating(took), GUARDS)
+  const said = guardedBy(
+    worldAt(root, heldAt(root, HELD_PAGE)),
+    stating([
+      { kind: "remove", path: HELD_PAGE },
+      { kind: "add", path: APART_PAGE, content: APART_BODY },
+    ]),
+    GUARDS
+  )
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(NOT_WORKED_OUT)
@@ -82,7 +84,7 @@ test("an index that will not read refuses rather than answering no hanging relat
   const root = scratch.rootFor("relation-no-index-")
 
   const said = guardedBy(
-    worldAt(root, textIn(root)),
+    worldAt(root, heldAt(root, HELD_PAGE)),
     stating([{ kind: "remove", path: HELD_PAGE }]),
     GUARDS
   )

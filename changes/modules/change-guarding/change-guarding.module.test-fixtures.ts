@@ -5,7 +5,11 @@ import { worldAt } from "../change-shadow/change-shadow.module.code.ts"
 import { guardedBy } from "./change-guarding.module.code.ts"
 import type { Guard } from "./change-guarding.module.types.ts"
 
+export function heldAt(root: string, path: string): (one: string) => string | null {
+  const text = textIn(root)
+  return (one) => (one === path ? (text(one) ?? "export const held = 1\n") : text(one))
+}
+
 export function tookAway(root: string, path: string, guards: readonly Guard[]): Answer {
-  const was = textIn(root)(path) ?? ""
-  return guardedBy(worldAt(root, textIn(root)), stating([{ kind: "remove", path }]), guards)
+  return guardedBy(worldAt(root, heldAt(root, path)), stating([{ kind: "remove", path }]), guards)
 }
