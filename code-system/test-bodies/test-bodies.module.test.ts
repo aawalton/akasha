@@ -213,30 +213,20 @@ const BOTH = manifestOf({ "./asking": "./old/asking.ts", "./telling": "./new/tel
 
 test("a package whose folder moved names each way in at the folder it moved to", () => {
   const body = manifestOf(WAYS)
-  expect(
-    reachingIn([{ wasFolder: "held", nowFolder: "holds", was: body, now: body }], () => true)
-  ).toEqual({
+  expect(reachingIn([{ wasFolder: "held", nowFolder: "holds", was: body, now: body }])).toEqual({
     "@akasha/held/asking/testing": "holds/asking/asking.module.test-fixtures.ts",
   })
 })
 
 test("a way in the manifest already carried is left to the runner", () => {
   const body = manifestOf(WAYS)
-  expect(
-    reachingIn([{ wasFolder: "held", nowFolder: "held", was: body, now: body }], () => true)
-  ).toEqual({})
+  expect(reachingIn([{ wasFolder: "held", nowFolder: "held", was: body, now: body }])).toEqual({})
 })
 
-test("a way in a manifest brings in place is answered where the change brings the file reached", () => {
-  expect(
-    reachingIn([{ wasFolder: "held", nowFolder: "held", was: ASKED, now: BOTH }], () => true)
-  ).toEqual({ "@akasha/held/telling": "held/new/telling.ts" })
-})
-
-test("a way in a manifest brings in place is left alone where the change brings no file", () => {
-  expect(
-    reachingIn([{ wasFolder: "held", nowFolder: "held", was: ASKED, now: BOTH }], () => false)
-  ).toEqual({})
+test("a way in a manifest brings where its package stayed put is answered from the change", () => {
+  expect(reachingIn([{ wasFolder: "held", nowFolder: "held", was: ASKED, now: BOTH }])).toEqual({
+    "@akasha/held/telling": "held/new/telling.ts",
+  })
 })
 
 test("the preload text carries the ways into a package whose folder moved", () => {

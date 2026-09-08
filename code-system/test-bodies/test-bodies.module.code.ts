@@ -233,7 +233,7 @@ export function pairingsIn(held: readonly Manifested[]): readonly Pairing[] {
   return found
 }
 
-export function reachingIn(held: readonly Pairing[], brought: Brought): Reaches {
+export function reachingIn(held: readonly Pairing[]): Reaches {
   const found: Record<string, string> = {}
   for (const one of held) {
     const every = reachesIn(one.nowFolder, one.now)
@@ -242,9 +242,7 @@ export function reachingIn(held: readonly Pairing[], brought: Brought): Reaches 
       continue
     }
     const before = reachesIn(one.wasFolder, one.was)
-    for (const [specifier, at] of every) {
-      if (!before.has(specifier) && brought(at)) found[specifier] = at
-    }
+    for (const [specifier, at] of every) if (!before.has(specifier)) found[specifier] = at
   }
   return found
 }
@@ -296,10 +294,7 @@ export function servingOf(
     const filed = join(held, BODIES_FILE)
     writeFileSync(filed, JSON.stringify(bodies))
     const preload = join(held, PRELOAD_FILE)
-    writeFileSync(
-      preload,
-      preloadingOf(filed, servingAt(held, bodies), reachingIn(pairings, brought))
-    )
+    writeFileSync(preload, preloadingOf(filed, servingAt(held, bodies), reachingIn(pairings)))
     return {
       root,
       preload,

@@ -101,11 +101,12 @@ export const testBodies = {
     },
     {
       invariantKind: "departure",
-      statement: "A way in reaching a file the change does not bring is left to the runner.",
+      statement: "A way in the manifest already carried is left to the runner.",
     },
     {
       invariantKind: "departure",
-      statement: "A way in the manifest already carried is left to the runner.",
+      statement:
+        "A way in reaching a file the change does not carry is answered from that file on disk.",
     },
     {
       invariantKind: "constraint",
