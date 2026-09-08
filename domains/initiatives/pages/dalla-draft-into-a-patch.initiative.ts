@@ -20,7 +20,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A helper two changes share lives in a module rather than in one of the changes.",
       workingMemory:
-        "Every reach from one change to another goes by address. Ten imports remain, each borrowing a helper rather than reaching work: splice and property arithmetic from `add-property-value` and `remove-property-value`, manifest arithmetic from `remove-manifest-ways`, package parsing from `rename-package`, and two more. `changes/modules` already holds `change-answer` and `page-literal`. `runAgentChange` has no caller and cannot go: it is all its file holds, and `code` is required on `page-type/module`.",
+        "`literal-splicing` landed at `30c27d5f31` and took four reaches away. Six remain, in five landings: package naming from `rename-package`, JSON manifest arithmetic from `remove-manifest-ways`, `specifierFor` which wants `code-system/code-specifier` rather than a module of its own, `splicedIn` which belongs in `change-answer`, and `requiredIn`, which reads the checker and is its own concern. Scan for them across lines: a single-line scan misses the reach `remove-package-alias` makes.\n",
     },
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
