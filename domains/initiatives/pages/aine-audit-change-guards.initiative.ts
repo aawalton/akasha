@@ -33,7 +33,7 @@ export const aineAuditChangeGuards = {
       statement:
         "A command change is refused where that change does the work a mechanical change or a guard does.",
       workingMemory:
-        "A check to write, so the boundary holds without an agent reading for it. `akasha refactor retype` composed no change address and built its own file edits, which is the shape the check is to refuse. The address map's own descent gap was found this way: a command doing a mechanical change's work carries that work's defects with no page stating them.",
+        "`refactor retype` is gone, and the work it did is the agent change `change-page-page-type`, which now reaches a mechanical rung rather than spelling passages. What still writes repo source with `writeFile` and names no change address is `temper-eso-generate-typings`, `-chatter-names` and `-hud-scene-catalog`, each stating `changeKindSlug: change-mechanical`. No mechanical change restates a whole body, so that primitive is owed before the check could land clean.\n",
     },
   ],
   constraints: [
