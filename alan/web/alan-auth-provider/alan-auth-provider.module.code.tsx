@@ -60,9 +60,9 @@ export function AuthProvider({ children }: AuthProviderProps) {
     const pushAuthToStore = async (jwt: string | null): Promise<void> => {
       const work = (async (): Promise<void> => {
         try {
-          const supabaseUrl = SupabaseUrlSchema.parse(process.env.NEXT_PUBLIC_SUPABASE_URL)
+          const supabaseUrl = SupabaseUrlSchema.parse(import.meta.env.VITE_SUPABASE_URL)
           const supabaseAnonKey = SupabaseAnonKeySchema.parse(
-            process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY
+            import.meta.env.VITE_SUPABASE_ANON_KEY
           )
           await configurePagesStoreAuth({
             supabaseUrl,
