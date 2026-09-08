@@ -6,4 +6,18 @@ export const dayCompletions = {
   slug: "day-completions",
   definition: "the rounds of a to-do Alan finished, read as rows beside the day each fell on",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Completions are read over a span rather than for one day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An ESO day lies across two wake days, and both are read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A completion's own instant decides which day that completion fell in.",
+    },
+  ],
 } as const satisfies Module
