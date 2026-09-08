@@ -2,11 +2,16 @@ import { getPageByIdSuffix } from "@akasha/pages-access/get"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { buildNavIconSvg } from "@akasha/web-page-answers/nav-icon-svg"
-import type { Route } from "./+types/api.nav-icon.$idSuffix"
 
 const NAV_SLUG = toPageTypeSlug("nav")
 
-export async function loader({ params, request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({
+  params,
+  request,
+}: {
+  params: { idSuffix: string }
+  request: Request
+}): Promise<Response> {
   const idSuffix = params.idSuffix
 
   const { headers } = createServerClient(request)

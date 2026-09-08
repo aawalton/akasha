@@ -36,7 +36,7 @@ const API_ROUTES: RouteConfig = [
   route("api/items/search", "routes/api.items.search.tsx"),
   route("api/shopping/optimize", "routes/api.shopping.optimize.tsx"),
   route("api/cli-link/mint", "routes/api.cli-link.mint.tsx"),
-  route("api/nav-icon/:idSuffix", "routes/api.nav-icon.$idSuffix.tsx"),
+  route("api/nav-icon/:idSuffix", "routes/temper-api-nav-icon/temper-api-nav-icon.route.code.ts"),
   route("api/watcher/version", "routes/api.watcher.version.tsx"),
   route("api/watcher/download", "routes/api.watcher.download.tsx"),
   route("api/watcher/worker/version", "routes/api.watcher.worker.version.tsx"),
