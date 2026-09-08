@@ -1,4 +1,4 @@
-import { MAIN_NODES } from "../talos-nodes-main/talos-nodes-main.module.code.ts"
+import { MAIN_NODES } from "../nodes-main/nodes-main.module.code.ts"
 import { REHEARSAL_NODES } from "../talos-nodes-rehearsal/talos-nodes-rehearsal.module.code.ts"
 import type { ClusterIntent, NodeIntent } from "../talos-schema/talos-schema.module.code.ts"
 
