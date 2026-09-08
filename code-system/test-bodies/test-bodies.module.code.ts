@@ -36,6 +36,8 @@ export type Manifested = {
   readonly now: string | null
 }
 
+export type Brought = (reached: string) => boolean
+
 export type Pairing = {
   readonly wasFolder: string
   readonly nowFolder: string
@@ -156,7 +158,13 @@ export function spellingIn(text: string, said: ReadonlyMap<string, string>): str
   return held
 }
 
-export function pairedIn(wasFolder: string, nowFolder: string, was: string, now: string): Paired {
+export function pairedIn(
+  wasFolder: string,
+  nowFolder: string,
+  was: string,
+  now: string,
+  brought: Brought
+): Paired {
   const paths = new Map<string, string>()
   const spelled = new Map<string, string>()
   const before = reachesIn(wasFolder, was)
@@ -171,7 +179,13 @@ export function pairedIn(wasFolder: string, nowFolder: string, was: string, now:
   for (const [key, to] of after) if (!before.has(key)) come.push([key, to])
   const one = gone[0]
   const two = come[0]
-  if (gone.length === 1 && come.length === 1 && one !== undefined && two !== undefined) {
+  if (
+    gone.length === 1 &&
+    come.length === 1 &&
+    one !== undefined &&
+    two !== undefined &&
+    brought(two[1])
+  ) {
     paths.set(one[1], two[1])
     spelled.set(two[0], one[0])
   }
@@ -248,10 +262,11 @@ export function servingOf(
     const root = realpathSync(from)
     const bodies: Record<string, string | null> = {}
     for (const one of paths) bodies[join(root, one)] = bodyOf(at, one)
+    const brought: Brought = (reached) => typeof bodies[reached] === "string"
     const spelled = new Map<string, string>()
     const pairings = pairingsIn(manifestedIn(root, paths, bodies, was))
     for (const pair of pairings) {
-      const found = pairedIn(pair.wasFolder, pair.nowFolder, pair.was, pair.now)
+      const found = pairedIn(pair.wasFolder, pair.nowFolder, pair.was, pair.now, brought)
       for (const [gone, come] of found.paths) {
         const body = bodies[come] ?? null
         if (body === null) continue

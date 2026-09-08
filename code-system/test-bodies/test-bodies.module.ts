@@ -65,6 +65,15 @@ export const testBodies = {
     },
     {
       invariantKind: "departure",
+      statement: "A way in arriving at a file the change does not bring is no move.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change taking one way in away and bringing another unrelated one moves neither.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "One manifest going and one arriving is a package that moved folder; more than one is left alone.",
     },

@@ -132,21 +132,44 @@ const manifestOf = (ways: Record<string, string>): string =>
 
 const WAYS = { "./asking/testing": "./asking/asking.module.test-fixtures.ts" }
 
+const ASKED = manifestOf({ "./asking": "./old/asking.ts" })
+
+const TOLD = manifestOf({ "./telling": "./new/telling.ts" })
+
 test("a manifest edited in place maps the way in whose target moved", () => {
   const found = pairedIn(
     "held",
     "held",
-    manifestOf({ "./asking": "./old/asking.ts" }),
-    manifestOf({ "./asking": "./new/asking.ts" })
+    ASKED,
+    manifestOf({ "./asking": "./new/asking.ts" }),
+    () => true
   )
   expect([...found.paths]).toEqual([["held/old/asking.ts", "held/new/asking.ts"]])
 })
 
 test("a package whose folder moved maps its ways in from the old folder to the new", () => {
-  const found = pairedIn("held", "holds", manifestOf(WAYS), manifestOf(WAYS))
+  const found = pairedIn("held", "holds", manifestOf(WAYS), manifestOf(WAYS), () => true)
   expect([...found.paths]).toEqual([
     ["held/asking/asking.module.test-fixtures.ts", "holds/asking/asking.module.test-fixtures.ts"],
   ])
+  expect([...found.spelled]).toEqual([])
+})
+
+test("one way in going and one arriving is a move where the change brings the file reached", () => {
+  const found = pairedIn(
+    "held",
+    "held",
+    ASKED,
+    TOLD,
+    (reached) => reached === "held/new/telling.ts"
+  )
+  expect([...found.paths]).toEqual([["held/old/asking.ts", "held/new/telling.ts"]])
+  expect([...found.spelled]).toEqual([["@akasha/held/telling", "@akasha/held/asking"]])
+})
+
+test("a way in arriving at a file the change does not bring is no move", () => {
+  const found = pairedIn("held", "held", ASKED, TOLD, () => false)
+  expect([...found.paths]).toEqual([])
   expect([...found.spelled]).toEqual([])
 })
 
