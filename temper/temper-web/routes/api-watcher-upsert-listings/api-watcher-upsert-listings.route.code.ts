@@ -1,6 +1,5 @@
 import { isRecord } from "@akasha/utils-narrow/is-record"
-import { validateWatcherToken } from "../../temper-watcher/watcher-token-check/watcher-token-check.module.code.ts"
-import type { Route } from "./+types/api.watcher.upsert-listings"
+import { validateWatcherToken } from "../../../temper-watcher/watcher-token-check/watcher-token-check.module.code.ts"
 
 const MAX_LISTINGS_PER_REQUEST = 100
 
@@ -49,7 +48,7 @@ function isRequestBody(v: unknown): v is RequestBody {
   return v.items.every(isMarketListing)
 }
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   let body: unknown
   try {
     body = await request.json()
