@@ -14,7 +14,7 @@ import { editsOf, type FileEdit, landing, type Refused } from "../landing/landin
 import { carryLanded } from "../landing-reading/landing-reading.module.code.ts"
 import { defaultMessage, formattedSaid } from "../landing-saying/landing-saying.module.code.ts"
 import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
-import type { FileCarry } from "../path-carrying/path-carrying.module.code.ts"
+import type { FileCarry } from "../path-moving/path-moving.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 import { refusalsKept } from "../refusals-keeping/refusals-keeping.module.code.ts"
 

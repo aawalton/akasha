@@ -64,7 +64,7 @@ export const commandSystem = {
     "module/change-arguing",
     "module/change-running",
     "module/change-preparing",
-    "module/path-carrying",
+    "module/path-moving",
     "module/command-stopping",
   ],
   invariants: [

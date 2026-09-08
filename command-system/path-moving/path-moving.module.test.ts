@@ -19,7 +19,7 @@ import {
   MOVED_TO,
   moved,
   PAGE_TO,
-} from "./path-carrying.module.test-fixtures.ts"
+} from "./path-moving.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

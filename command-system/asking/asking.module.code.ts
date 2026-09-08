@@ -27,7 +27,7 @@ import {
   type Saying,
 } from "../landing-saying/landing-saying.module.code.ts"
 import { installingIn, sameBytes } from "../manifest-locking/manifest-locking.module.code.ts"
-import type { FileCarry } from "../path-carrying/path-carrying.module.code.ts"
+import type { FileCarry } from "../path-moving/path-moving.module.code.ts"
 import { type Carry, type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 import type { Minted } from "../value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../value-minting/value-minting.module.code.ts"

@@ -34,7 +34,7 @@
     "./file-arguing": "./file-arguing/file-arguing.module.code.ts",
     "./landing": "./landing/landing.module.code.ts",
     "./landing/testing": "./landing/landing.module.test-fixtures.ts",
-    "./path-carrying": "./path-carrying/path-carrying.module.code.ts",
+    "./path-moving": "./path-moving/path-moving.module.code.ts",
     "./mechanical-landing": "./mechanical-landing/mechanical-landing.module.code.ts",
     "./piping": "./piping/piping.module.code.ts",
     "./prose-routing": "./prose-routing/prose-routing.module.code.ts",

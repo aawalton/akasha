@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code/module"
 
-export const pathCarrying = {
+export const pathMoving = {
   id: "01a0818f-6163-7ff5-b0d8-a3212cb3ace0",
   pageTypeSlug: "module",
-  slug: "path-carrying",
+  slug: "path-moving",
   definition:
     "a body a landing moves from one path to another rather than writing it and taking the old away",
   code: "ts",

@@ -12,7 +12,7 @@ import {
   PAGE,
   repoWith,
 } from "../landing/landing.module.test-fixtures.ts"
-import type { FileCarry } from "./path-carrying.module.code.ts"
+import type { FileCarry } from "./path-moving.module.code.ts"
 
 export const MOVED_BIN = "akasha/one.bin"
 

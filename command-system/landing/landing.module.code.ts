@@ -21,8 +21,8 @@ import type { Keeping } from "../gate-building/gate-building.module.code.ts"
 import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
 import { absentAfter, orphaningIn, orphaningSaid } from "../orphaning/orphaning.module.code.ts"
-import type { FileCarry } from "../path-carrying/path-carrying.module.code.ts"
-import { carriedOnto, carriesHeld } from "../path-carrying/path-carrying.module.code.ts"
+import type { FileCarry } from "../path-moving/path-moving.module.code.ts"
+import { carriedOnto, carriesHeld } from "../path-moving/path-moving.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
 
 export type FileEdit = {
