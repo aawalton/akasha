@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { bodyOf, idOf, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { runChange as changeFile } from "../../../mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as renamePageAddress } from "../../../mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-data.code.ts"
+import { runChange as renamePageAddress } from "../../../mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
 import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   bodiesIn,
@@ -69,7 +69,7 @@ const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/change-imports") {
     return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
   }
-  if (at === "change-mechanical-data/rename-page-address") {
+  if (at === "change-mechanical-file-content/rename-page-address") {
     return Promise.resolve(
       renamePageAddress(world, given as Parameters<typeof renamePageAddress>[1])
     )
@@ -147,7 +147,7 @@ test("each part of the retype is reached at the address that part names", async 
   expect(new Set(reached)).toEqual(
     new Set([
       "change-mechanical-file-content/change-imports",
-      "change-mechanical-data/rename-page-address",
+      "change-mechanical-file-content/rename-page-address",
       "change-mechanical-file-content/change-file-content",
     ])
   )

@@ -6,7 +6,10 @@ import {
   NOTHING_OVER,
   type World,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { pathsIn, renamePageAddress } from "./rename-page-address.change-mechanical-data.code.ts"
+import {
+  pathsIn,
+  renamePageAddress,
+} from "./rename-page-address.change-mechanical-file-content.code.ts"
 
 const MOVED_TO = "akasha/held/one/held-one.held-other.code.ts"
 

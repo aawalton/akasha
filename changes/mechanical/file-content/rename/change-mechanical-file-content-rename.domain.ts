@@ -9,7 +9,7 @@ export const changeMechanicalFileContentRename = {
     "change-mechanical-file-content/change-imports",
     "change-mechanical-file-content/rename-export",
     "change-mechanical-file-content/rename-local-variable",
-    "change-mechanical-data/rename-page-address",
+    "change-mechanical-file-content/rename-page-address",
     "change-mechanical-file-content/rename-page-slug",
     "change-mechanical-file-content/rename-property-signature",
   ],
