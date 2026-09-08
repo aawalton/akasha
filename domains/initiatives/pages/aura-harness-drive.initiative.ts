@@ -10,7 +10,7 @@ export const auraHarnessDrive = {
     {
       statement: "Every attribute carries its total points and the level those points reach.",
       workingMemory:
-        "Each attribute page carries pointUnit and the code earning its points, and keeps pointsBeforeToday, pointsToday and pointsTotal outside the commit; level is one computed property over pointsTotal with rungs 10, 20, 40, 70, 120, 200, 330, 540. The reading service keeps today's figure, and `akasha refresh attributes` rebuilds pointsBeforeToday over the days from 2026-09-06 short of today. Each readout reads its attribute's points through its link. `akasha measure attributes` still totals afresh.",
+        "Each attribute page carries pointUnit and the code earning its points, and keeps pointsBeforeToday, pointsToday and pointsTotal outside the commit; level is one computed property over pointsTotal with rungs 10, 20, 40, 70, 120, 200, 330, 540. The reading service keeps today's figure and `akasha refresh attributes` rebuilds the rest from 2026-09-06. Each readout reads its attribute's points through its link, and `akasha measure attributes` reads the kept totals. Luck carries none.",
     },
   ],
   constraints: [
