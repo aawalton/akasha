@@ -2,12 +2,7 @@
 
 set -euo pipefail
 
-AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
-
-LOCAL_REGISTRY="$(cd "$AKASHA_ROOT" && bun -e 'import { REGISTRY } from "@akasha/workflow-language/images"; process.stdout.write(REGISTRY)')" || {
-  echo "ERROR: could not read the registry named by @akasha/workflow-language/images." >&2
-  exit 2
-}
+LOCAL_REGISTRY="registry.registry.svc.cluster.local:5000"
 
 DOCKER_HUB_IMAGES=(
   "oven/bun:1.3-alpine"
