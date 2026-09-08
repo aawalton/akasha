@@ -27,7 +27,7 @@ export const SERVICES: Record<string, ServiceConfig> = {
   buildkit: {
     type: "tool-image",
     dir: "infrastructure/dockerfiles",
-    extensionFile: "buildkit.dockerfile-extensions.json",
+    extensionFile: "../built-images/buildkit/buildkit.built-image.extensions.json",
   },
   kubectl: {
     type: "tool-image",
