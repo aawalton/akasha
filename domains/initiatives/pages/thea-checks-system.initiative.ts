@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every file the repository tracks is claimed by a page.",
       workingMemory:
-        "Worked by category. `akasha measure-pages` ends with how many files are no page, at 811, up from the 630 counted before: the tree grows faster than the pages are written. Routes are an intent of their own now. Cluster-check module bodies are down to 116 of 155 and a delegate is writing the rest, plainly, the dead-code review being held for the ablation. Left after those: 124 under lua-compiler/lualib/src, then service-system, infrastructure and alan.",
+        "Worked by category, and every category below holds an intent, so this pops once they do. 336 files are claimed by no page, measured against the index the check reads rather than by measure-pages, which counts by the page type in a name and so misses both a file claimed at a sub-path and a property file whose page is gone. Routes at 145 and lualib at 124 are most of it. service-system is done and holds nothing unclaimed, the older note naming it stale.",
     },
     {
       statement: "The new system carries every check of the old system that still applies.",
