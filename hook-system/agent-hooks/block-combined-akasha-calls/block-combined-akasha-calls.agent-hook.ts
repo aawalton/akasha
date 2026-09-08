@@ -50,6 +50,14 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "departure",
+      statement: "The delimiter opening that heredoc is `HEREDOC`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The delimiter occurs as a line once in the whole command.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The line closing that heredoc is the last line of the command.",
     },
     {

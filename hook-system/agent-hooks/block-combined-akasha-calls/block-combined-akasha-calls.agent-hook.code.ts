@@ -6,9 +6,11 @@ const NAMED = /akasha\s+(read|change)(\s|$)/
 
 const WORD = "[^\\s'\"`$;|&<>()\\\\]+"
 
+const FENCE = "HEREDOC"
+
 const READ = new RegExp("^akasha read( --file-path " + WORD + ")*$")
 
-const CHANGE = new RegExp("^akasha change( " + WORD + "){0,2}( <<'([A-Za-z_][A-Za-z0-9_]*)')?$")
+const CHANGE = new RegExp("^akasha change( " + WORD + "){0,2}( <<'" + FENCE + "')?$")
 
 const REFUSED = [
   "`akasha read` and `akasha change` run alone on the line.",
@@ -20,17 +22,21 @@ const REFUSED = [
   "",
   "takes those flags and no other word, with nothing before it and nothing after it.",
   "",
-  "  akasha change <act> <<'EOF'",
+  "  akasha change <act> <<'HEREDOC'",
   "  at: <path>",
   "  body <<BODY",
   "  <the body>",
   "  <<BODY",
-  "  EOF",
+  "  HEREDOC",
   "",
   "takes the act, the words that act takes, and one heredoc whose closing line ends the command.",
+  "The delimiter is always that one word, so there is nothing to pick and nothing to remember.",
   "",
-  "The delimiter is quoted so the shell rewrites nothing. Opened `<<EOF` instead, a `$HOME` in",
-  "the body is replaced and a `$(...)` is run before akasha reads the body, and nothing says so.",
+  "That word occurs as a line once, at the end. A body carrying that line of its own is refused,",
+  "because the shell would end the body there and run what follows as commands.",
+  "",
+  "The delimiter is quoted so the shell rewrites nothing. Opened unquoted, a `$HOME` in the body",
+  "is replaced and a `$(...)` is run before akasha reads the body, and nothing says so.",
   "A body ending mid-line is opened `body <<BODY no-newline` rather than piped in.",
 ]
 
@@ -76,9 +82,9 @@ export function approvedForm(command: string): boolean {
   const opening = lines[0] ?? ""
   const found = CHANGE.exec(opening)
   if (found === null) return false
-  const fence = found[3]
-  if (fence === undefined) return lines.length === 1
-  return lines.length > 1 && lines[lines.length - 1] === fence
+  const closings = lines.filter((line) => line === FENCE).length
+  if (found[2] === undefined) return closings === 0 && lines.length === 1
+  return closings === 1 && lines[lines.length - 1] === FENCE
 }
 
 export function refusalIn(command: string): string | null {

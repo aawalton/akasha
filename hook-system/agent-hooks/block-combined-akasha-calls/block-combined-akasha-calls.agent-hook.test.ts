@@ -20,7 +20,7 @@ test("an act with the word that act takes is let through", () => {
 })
 
 test("a change whose last line closes its quoted heredoc is let through", () => {
-  expect(refusalIn("akasha change add-file <<'EOF'\nat: a/b.ts\nEOF")).toBe(null)
+  expect(refusalIn("akasha change add-file <<'HEREDOC'\nat: a/b.ts\nHEREDOC")).toBe(null)
 })
 
 test("a command naming neither is let through", () => {
@@ -60,11 +60,23 @@ test("a body piped into a change is refused", () => {
 })
 
 test("a change opening an unquoted heredoc is refused", () => {
-  expect(refusalIn("akasha change add-file <<EOF\nat: a/b.ts\nEOF")).toContain(NAMES)
+  expect(refusalIn("akasha change add-file <<HEREDOC\nat: a/b.ts\nHEREDOC")).toContain(NAMES)
 })
 
 test("a change whose heredoc is not closed by the last line is refused", () => {
-  expect(refusalIn("akasha change add-file <<'EOF'\nat: a/b.ts\nEOF\nrm -rf x")).toContain(NAMES)
+  expect(refusalIn("akasha change add-file <<'HEREDOC'\nat: a/b.ts\nHEREDOC\nrm -rf x")).toContain(
+    NAMES
+  )
+})
+
+test("a delimiter closing the body before the last line is refused", () => {
+  expect(
+    refusalIn("akasha change drop <<'HEREDOC'\nat: x.md\nHEREDOC\necho leaked\nHEREDOC")
+  ).toContain(NAMES)
+})
+
+test("a delimiter other than the fixed one is refused", () => {
+  expect(refusalIn("akasha change add-file <<'MYOWN'\nat: a/b.ts\nMYOWN")).toContain(NAMES)
 })
 
 test("an act chained onward is refused", () => {
