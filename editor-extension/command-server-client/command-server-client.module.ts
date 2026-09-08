@@ -58,6 +58,11 @@ export const commandServerClient = {
       statement: "An ask refused as over-lease is not asked again.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The pipe answers come back on is listened to for its end, so nothing else closes it.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here has an answer.",
     },
