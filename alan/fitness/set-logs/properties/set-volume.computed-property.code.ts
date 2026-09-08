@@ -9,9 +9,6 @@ type Loaded = { readonly loadFactor?: number; readonly implementCount?: number }
 
 type Weighed = { readonly bodyweight?: number }
 
-// THE FORMULA LIVES HERE AND NOWHERE ELSE. A session's volume and a day's volume both read this
-// key rather than counting the reps again, so a change to what a set is worth reaches every total.
-// The activity a set states is cardio or mobility, so a set naming any activity is not strength.
 export const work: Work<WorkedSetLog, number> = (page, reach) => {
   if (page.isWarmup === true) return 0
   if (page.activityType !== undefined) return 0
