@@ -13,5 +13,6 @@ export const lokiService = {
     "module/loki-configs",
     "module/loki-manifests",
     "module/promtail-manifests",
+    "module/loki-rbac",
   ],
 } as const satisfies WorkspacePackage

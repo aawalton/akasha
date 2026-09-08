@@ -36,7 +36,6 @@ export const clusterManifests = {
     "module/kube-state-metrics-manifests",
     "module/kubectl-permissions",
     "module/kubepods-oom-constants",
-    "module/loki-rbac",
     "module/manifest-yaml-reading",
     "module/metallb-rbac",
     "module/metallb-synth",
