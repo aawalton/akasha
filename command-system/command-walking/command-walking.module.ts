@@ -39,7 +39,7 @@ export const commandWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A level reached in one word keeps the hyphen that word carries.",
+      statement: "A level reached in one word keeps the hyphen that word has.",
     },
     {
       invariantKind: "departure",

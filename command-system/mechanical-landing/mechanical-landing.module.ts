@@ -26,7 +26,7 @@ export const mechanicalLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing here carries no writer, so no reading is owed for what it writes.",
+      statement: "A landing here has no writer, so no reading is owed for what it writes.",
     },
     {
       invariantKind: "absence",

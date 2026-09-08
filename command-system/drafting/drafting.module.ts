@@ -66,7 +66,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A rename reaching a path the patch already carries a body at refuses the rebase.",
+      statement: "A rename reaching a path the patch already has a body at refuses the rebase.",
     },
     {
       invariantKind: "departure",
@@ -78,11 +78,11 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A change against a path the patch does not carry is drafted whole.",
+      statement: "A change against a path the patch does not have is drafted whole.",
     },
     {
       invariantKind: "departure",
-      statement: "A change against a path the patch carries is merged onto the body drafted there.",
+      statement: "A change against a path the patch has is merged onto the body drafted there.",
     },
     {
       invariantKind: "departure",
@@ -124,7 +124,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A draft says which paths the patch carries a conflict at.",
+      statement: "A draft says which paths the patch has a conflict at.",
     },
     {
       invariantKind: "departure",
@@ -141,11 +141,11 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the patch carries no body at is refused rather than drafted whole.",
+      statement: "A path the patch has no body at is refused rather than drafted whole.",
     },
     {
       invariantKind: "departure",
-      statement: "A patch a path is taken out of still carries every other path.",
+      statement: "A patch a path is taken out of still has every other path.",
     },
     {
       invariantKind: "departure",
@@ -157,7 +157,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "Taking out a path the patch carries no body at is refused.",
+      statement: "Taking out a path the patch has no body at is refused.",
     },
     {
       invariantKind: "departure",
@@ -311,7 +311,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A call carrying no change kind runs every check and owes every reading.",
+      statement: "A call with no change kind runs every check and owes every reading.",
     },
     {
       invariantKind: "departure",
@@ -320,7 +320,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "Each flag a patch carries is unioned on its own.",
+      statement: "Each flag a patch has is unioned on its own.",
     },
     {
       invariantKind: "departure",

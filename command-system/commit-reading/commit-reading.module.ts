@@ -18,7 +18,7 @@ export const commitReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the commit does not carry answers as nothing.",
+      statement: "A path the commit does not have answers as nothing.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const commitReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A path no tree the commit carries names is answered without an ask.",
+      statement: "A path no tree the commit has names is answered without an ask.",
     },
     {
       invariantKind: "departure",

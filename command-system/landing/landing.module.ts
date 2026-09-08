@@ -43,7 +43,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A commit landing elsewhere in the repository moves no path this change carries.",
+      statement: "A commit landing elsewhere in the repository moves no path this change has.",
     },
     {
       invariantKind: "absence",
@@ -81,7 +81,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A change may carry a path the repository ignores.",
+      statement: "A change may have a path the repository ignores.",
     },
     {
       invariantKind: "departure",
@@ -262,7 +262,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A draft commits the patch rather than the bodies the change carries.",
+      statement: "A draft commits the patch rather than the bodies the change has.",
     },
     {
       invariantKind: "departure",
@@ -270,7 +270,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A draft answers which paths the patch carries a conflict at.",
+      statement: "A draft answers which paths the patch has a conflict at.",
     },
     {
       invariantKind: "departure",

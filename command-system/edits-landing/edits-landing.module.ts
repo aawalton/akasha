@@ -35,11 +35,11 @@ export const editsLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A move carries that owing at both the path it left and the path it reached.",
+      statement: "A move has that owing at both the path it left and the path it reached.",
     },
     {
       invariantKind: "departure",
-      statement: "An edit saying nothing of its readers carries no owing for that path.",
+      statement: "An edit saying nothing of its readers has no owing for that path.",
     },
     {
       invariantKind: "absence",

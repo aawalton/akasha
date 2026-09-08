@@ -28,7 +28,7 @@ export const differing = {
     },
     {
       invariantKind: "departure",
-      statement: "A difference carries one line either side of the lines that moved.",
+      statement: "A difference has one line either side of the lines that moved.",
     },
     {
       invariantKind: "departure",

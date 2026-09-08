@@ -56,7 +56,7 @@ export const patching = {
     },
     {
       invariantKind: "departure",
-      statement: "Rename detection is off so each path a patch carries is one entry.",
+      statement: "Rename detection is off so each path a patch has is one entry.",
     },
     {
       invariantKind: "departure",

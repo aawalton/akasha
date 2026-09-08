@@ -10,7 +10,7 @@ export const committing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A commit answered for a change is a commit carrying that change.",
+      statement: "A commit answered for a change is a commit with that change.",
     },
     {
       invariantKind: "departure",

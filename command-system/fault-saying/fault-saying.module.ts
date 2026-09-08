@@ -18,7 +18,7 @@ export const faultSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal carries the message in one line.",
+      statement: "A refusal has the message in one line.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const faultSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "Where a fault was thrown is read from the stack the fault carries.",
+      statement: "Where a fault was thrown is read from the stack the fault has.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +63,7 @@ export const faultSaying = {
     },
     {
       invariantKind: "absence",
-      statement: "The message carries no frame.",
+      statement: "The message has no frame.",
     },
   ],
 } as const satisfies Module

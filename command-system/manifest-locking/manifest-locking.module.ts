@@ -15,7 +15,7 @@ export const manifestLocking = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing carrying no manifest is left alone without the lockfile being read.",
+      statement: "A landing with no manifest is left alone without the lockfile being read.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const manifestLocking = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing carrying a lockfile of its own is taken at its word.",
+      statement: "A landing with a lockfile of its own is taken at its word.",
     },
     {
       invariantKind: "departure",
@@ -68,11 +68,11 @@ export const manifestLocking = {
     {
       invariantKind: "departure",
       statement:
-        "A landing carrying a manifest installs the checkout onto the commit that landing landed.",
+        "A landing with a manifest installs the checkout onto the commit that landing landed.",
     },
     {
       invariantKind: "departure",
-      statement: "A landing carrying no manifest installs nothing.",
+      statement: "A landing with no manifest installs nothing.",
     },
     {
       invariantKind: "departure",
@@ -80,7 +80,7 @@ export const manifestLocking = {
     },
     {
       invariantKind: "constraint",
-      statement: "Two landings carrying a manifest at once install at once.",
+      statement: "Two landings with a manifest at once install at once.",
     },
     {
       invariantKind: "departure",
@@ -90,7 +90,7 @@ export const manifestLocking = {
     {
       invariantKind: "departure",
       statement:
-        "A lockfile the install makes again says the commit carries a lockfile its manifests do not warrant.",
+        "A lockfile the install makes again says the commit has a lockfile its manifests do not warrant.",
     },
     {
       invariantKind: "departure",
@@ -142,7 +142,7 @@ export const manifestLocking = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing moving a manifest to another path is a landing carrying a manifest.",
+      statement: "A landing moving a manifest to another path is a landing with a manifest.",
     },
   ],
 } as const satisfies Module

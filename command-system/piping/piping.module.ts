@@ -72,7 +72,7 @@ export const piping = {
     },
     {
       invariantKind: "departure",
-      statement: "Every marker of that payload carries the run the payload named.",
+      statement: "Every marker of that payload has the run the payload named.",
     },
     {
       invariantKind: "departure",

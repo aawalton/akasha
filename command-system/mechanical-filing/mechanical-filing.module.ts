@@ -30,7 +30,7 @@ export const mechanicalFiling = {
     },
     {
       invariantKind: "departure",
-      statement: "Every body a call carries is worked out before any of them is run.",
+      statement: "Every body a call has is worked out before any of them is run.",
     },
     {
       invariantKind: "departure",

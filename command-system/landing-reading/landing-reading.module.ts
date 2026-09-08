@@ -36,7 +36,7 @@ export const landingReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Each path a landing carries says on its own whether its readers owe the reading.",
+      statement: "Each path a landing has says on its own whether its readers owe the reading.",
     },
     {
       invariantKind: "departure",

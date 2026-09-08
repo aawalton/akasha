@@ -57,7 +57,7 @@ export const landingSaying = {
     {
       invariantKind: "departure",
       statement:
-        "A landing given no commit message is said as the act and the paths that landing carries.",
+        "A landing given no commit message is said as the act and the paths that landing has.",
     },
     {
       invariantKind: "departure",
@@ -66,7 +66,7 @@ export const landingSaying = {
     {
       invariantKind: "departure",
       statement:
-        "A landing carrying more than three paths is said as the act and how many paths landed.",
+        "A landing with more than three paths is said as the act and how many paths landed.",
     },
     {
       invariantKind: "absence",
