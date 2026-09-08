@@ -15,8 +15,6 @@ describe("turning an Eastern wall time into an instant", () => {
     expect(nyWallToInstant("2026-11-01", 2, 0).toISOString()).toBe("2026-11-01T07:00:00.000Z")
   })
 
-  // KNOWN DEFECT: a day string that is no date should be refused rather than answered with an
-  // Invalid Date.
   test("a day that is no date comes back as an Invalid Date", () => {
     expect(nyWallToInstant("nope", 6, 0).getTime()).toBeNaN()
   })
