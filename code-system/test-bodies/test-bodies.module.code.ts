@@ -1,7 +1,6 @@
 import { existsSync, mkdtempSync, readFileSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, extname, join, resolve } from "node:path"
 import type { BunPlugin } from "bun"
-import { reachesIn, reachingOver } from "../package-manifest/package-manifest.module.code.ts"
 
 export const SERVED = "body"
 
@@ -44,8 +43,6 @@ const HOLD = "/var/tmp"
 const PREFIX = "akasha-serving-"
 
 const BODIES_FILE = "bodies.json"
-
-const MANIFEST = "/package.json"
 
 const PRELOAD_FILE = "preload.ts"
 
@@ -109,15 +106,6 @@ function bodyOf(at: (path: string) => Uint8Array | null, one: string): string | 
     const said = thrown instanceof Error ? thrown.message : String(thrown)
     throw new Error(`the body handed in for \`${one}\` would not be read — ${said}`)
   }
-}
-
-export function reachedIn(bodies: Bodies): ReadonlyMap<string, string> {
-  const held: ReadonlyMap<string, string>[] = []
-  for (const [at, body] of Object.entries(bodies)) {
-    if (body === null || !at.endsWith(MANIFEST)) continue
-    held.push(reachesIn(dirname(at), body))
-  }
-  return reachingOver(held)
 }
 
 export function servingOf(
