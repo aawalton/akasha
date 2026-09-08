@@ -64,7 +64,7 @@ export const heldAddon = {
     {
       invariantKind: "departure",
       statement:
-        "The name a page here states is judged against the roster `listAllAddons` answers.",
+        "The name a page here states is judged against the addon manifests the tree holds.",
     },
     {
       invariantKind: "gap",
