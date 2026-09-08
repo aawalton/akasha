@@ -14,13 +14,13 @@ export const amyDayModel = {
       statement:
         "Everything measured about one of Alan's days sits on one `day` page under `alan/track/days/pages`.",
       workingMemory:
-        "Every date carrying data has a page under `alan/track/days/pages`, 250 of them. The type is still spelled `wake-day`: the rename drafts and refuses on apply, because a page rename misses any relation whose property page slug differs from the key its body writes, and a worked file's export is renamed without restating its importers. `eso-day` still has the health samples and the listens. The boundary is derived from the sleep sessions and kept nowhere.",
+        "The type is `day`, renamed in `df2af0cb86`, and 250 dates each have a page under `alan/track/days/pages`. The page slugs still read `wake-day-YYYY-MM-DD`, so a newly composed day lands in a folder named for the slug rather than the date until they are restated. A day begins when its first sleep block starting or running past six the previous evening began, derived on every read, and a day that finds no such sleep opens at six the previous evening.",
     },
     {
       statement:
         "Every health sample and listen filed under an ESO day is filed under the day Alan woke into.",
       workingMemory:
-        "`sample-upsert` keeps the day as a storage key rather than working it out on a read, so refiling means rewriting those keys. Alan ruled that a reading whose waking cannot be recovered ports across unchanged, and one whose waking can be recovered aligns to that boundary. `939706ec7a` mended the computation that answered the wrong day for one hour at each spring transition from 2024 to 2026, and left the keys already written wrong, which this refiling corrects.",
+        "The day folder is a shard rather than a claim: `sample-selecting` sweeps a day either side of the range asked for and filters on each sample's own instant, so refiling changes no answer. The boundary now moves whenever Alan retitles a Rest block as Sleep, so a day key written onto a row is wrong from that moment. Amy has recommended dropping the refiling and deriving the day a sample falls in, and Alan has not yet ruled.",
     },
   ],
 } as const satisfies Initiative
