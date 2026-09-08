@@ -2,7 +2,6 @@ import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { notUtf8 } from "@akasha/checks/body-not-utf8"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
-import { fail } from "@akasha/command-system/command-failing"
 import {
   AKASHA,
   addressableNamed,
@@ -12,6 +11,7 @@ import {
 } from "@akasha/pages/checkout-roots"
 import type { Repo as Addressable, Repo } from "@akasha/pages/markdown-document"
 import type { Roots } from "@akasha/pages/markdown-page-at"
+import { fail } from "../command-failing/command-failing.module.code.ts"
 
 const STANDALONE = [
   "--dry-run",
@@ -137,7 +137,7 @@ export function addressOf(argv: readonly string[], also: readonly string[] = [])
   if (where.size > 1) {
     fail(
       "the paths named here are in more than one repo, and a call addresses one: " +
-        [...where].map(([repo, absolute]) => `${absolute} is inside ${repo}`).join(", ")
+        [...where].map(([inside, path]) => `${path} is inside ${inside}`).join(", ")
     )
   }
   const [repo, absolute] = [...where][0] as [Repo, string]
@@ -156,7 +156,7 @@ export function repoOf(argv: readonly string[]): Addressable {
 }
 
 export function rootsOf(argv: readonly string[], also: readonly string[] = []): Roots {
-  const { repo, absolute } = addressOf(argv, also)
+  const { repo } = addressOf(argv, also)
   return resolveRoots(repo)
 }
 
@@ -177,7 +177,7 @@ export function rootsOfSide(flag: string, paths: readonly string[]): Roots {
   if (where.size > 1) {
     fail(
       `the paths ${flag} names are in more than one repo, and one side of a move addresses one: ` +
-        [...where].map(([repo, absolute]) => `${absolute} is inside ${repo}`).join(", ")
+        [...where].map(([inside, path]) => `${path} is inside ${inside}`).join(", ")
     )
   }
   const first = [...where][0]
