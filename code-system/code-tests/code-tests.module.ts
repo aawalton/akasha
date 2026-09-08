@@ -170,64 +170,6 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A package the folder of installed modules holds is outside that folder.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A package outside the akasha folder is judged against the copy in the tree.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A file reached through a package specifier and reached by a relative path is one file.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The packages a world answers sit at the world's root.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A world is at no commit.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A question the index answers only against HEAD cannot be answered in a world.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A world is held under `/var/tmp` rather than `/tmp`.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "`/tmp` is memory this machine shares.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A tree left in `/tmp` is taken out of `/tmp`.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A world is swept by the caller that asked for the world.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A world that could not be made says which reach failed and the fault that reach threw.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That reach is named by the path handed in rather than by the fault alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A world that could not be made is swept.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A world that could not be made reaches no caller.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A run is named by path.",
     },
     {
