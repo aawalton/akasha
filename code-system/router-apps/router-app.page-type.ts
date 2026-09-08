@@ -6,6 +6,7 @@ import type { CompileConfig } from "./properties/compile-config.named-file-prope
 import type { PlaceholderImage } from "./properties/placeholder-image.named-file-property.ts"
 import type { RootRoute } from "./properties/root-route.named-file-property.ts"
 import type { RouteTable } from "./properties/route-table.named-file-property.ts"
+import type { RouterAppGitIgnore } from "./properties/router-app-git-ignore.named-file-property.ts"
 import type { RouterConfig } from "./properties/router-config.named-file-property.ts"
 import type { Server } from "./properties/server.named-file-property.ts"
 import type { ServerEntry } from "./properties/server-entry.named-file-property.ts"
@@ -26,6 +27,7 @@ export type RouterApp = WorkspacePackage & {
   sidebarBoot?: SidebarBoot
   placeholderImage?: PlaceholderImage
   siteIcon?: SiteIcon
+  gitIgnore?: RouterAppGitIgnore
 }
 
 export const routerApp = {
@@ -41,6 +43,7 @@ export const routerApp = {
     "named-file-property/placeholder-image",
     "named-file-property/root-route",
     "named-file-property/route-table",
+    "named-file-property/router-app-git-ignore",
     "named-file-property/router-config",
     "named-file-property/server",
     "named-file-property/server-entry",
@@ -63,6 +66,11 @@ export const routerApp = {
     { pagePropertySlug: "named-file-property/sidebar-boot", required: false, many: false },
     { pagePropertySlug: "named-file-property/placeholder-image", required: false, many: false },
     { pagePropertySlug: "named-file-property/site-icon", required: false, many: false },
+    {
+      pagePropertySlug: "named-file-property/router-app-git-ignore",
+      required: false,
+      many: false,
+    },
   ],
   invariants: [
     {
