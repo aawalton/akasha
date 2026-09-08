@@ -34,5 +34,9 @@ export const manifest = {
       invariantKind: "departure",
       statement: "A manifest is generated into YAML before that manifest is applied.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A container told to run start runs in a package stating a start script.",
+    },
   ],
 } as const satisfies PageType
