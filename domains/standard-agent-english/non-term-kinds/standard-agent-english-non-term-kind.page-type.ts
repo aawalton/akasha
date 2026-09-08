@@ -11,7 +11,6 @@ export const standardAgentEnglishNonTermKind = {
   pluralSlug: "standard-agent-english-non-term-kinds",
   partSlugs: [
     "standard-agent-english-non-term-kind/code",
-    "standard-agent-english-non-term-kind/common",
     "standard-agent-english-non-term-kind/date",
     "standard-agent-english-non-term-kind/email",
     "standard-agent-english-non-term-kind/instant",
