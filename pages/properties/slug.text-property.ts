@@ -13,10 +13,6 @@ export const slug = {
   unique: "page-type",
   invariants: [
     {
-      invariantKind: "departure",
-      statement: "A slug is unique among the pages of its page type.",
-    },
-    {
       invariantKind: "constraint",
       statement: "A slug that cannot become a page's export name is no slug.",
     },
