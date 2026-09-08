@@ -4,7 +4,7 @@ export const identifierNamesOnePage = {
   id: "01a04f76-7430-7672-ac69-f8976ad2dc93",
   pageTypeSlug: "code-check",
   slug: "identifier-names-one-page",
-  definition: "the check refusing a page carrying an identifier another page already carries",
+  definition: "the check refusing a page with an identifier another page already has",
   code: "ts",
   test: "ts",
   runsOnPatch: true,
@@ -31,7 +31,7 @@ export const identifierNamesOnePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A page the change carries is read from the change.",
+      statement: "A page the change has is read from the change.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +51,7 @@ export const identifierNamesOnePage = {
     },
     {
       invariantKind: "departure",
-      statement: "Two pages in one change carrying one value are refused.",
+      statement: "Two pages in one change with one value are refused.",
     },
     {
       invariantKind: "absence",

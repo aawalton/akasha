@@ -47,7 +47,7 @@ export const emailAddressIsWellFormed = {
     },
     {
       invariantKind: "departure",
-      statement: "A page is judged where the change carries that page.",
+      statement: "A page is judged where the change has that page.",
     },
     {
       invariantKind: "departure",

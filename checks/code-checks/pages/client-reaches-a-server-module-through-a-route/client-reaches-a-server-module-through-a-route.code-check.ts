@@ -39,7 +39,7 @@ export const clientReachesAServerModuleThroughARoute = {
     {
       invariantKind: "departure",
       statement:
-        "The names an app's fixed files carry are read from the properties the index declares.",
+        "The names an app's fixed files have are read from the properties the index declares.",
     },
     {
       invariantKind: "departure",
@@ -114,7 +114,7 @@ export const clientReachesAServerModuleThroughARoute = {
     },
     {
       invariantKind: "gap",
-      statement: "A file no page claims is judged only where the change carries that file.",
+      statement: "A file no page claims is judged only where the change has that file.",
     },
     {
       invariantKind: "gap",

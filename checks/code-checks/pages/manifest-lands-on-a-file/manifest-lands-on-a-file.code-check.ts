@@ -19,7 +19,7 @@ export const manifestLandsOnAFile = {
     {
       invariantKind: "departure",
       statement:
-        "Every manifest the index names is judged whether or not the change carries that manifest.",
+        "Every manifest the index names is judged whether or not the change has that manifest.",
     },
     {
       invariantKind: "departure",

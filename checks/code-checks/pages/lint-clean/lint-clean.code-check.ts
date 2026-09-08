@@ -14,7 +14,7 @@ export const lintClean = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The files a change is judged by are the ones the change carries.",
+      statement: "The files a change is judged by are the ones the change has.",
     },
 
     {
@@ -40,7 +40,7 @@ export const lintClean = {
     },
     {
       invariantKind: "departure",
-      statement: "The mirror carries no index.",
+      statement: "The mirror has no index.",
     },
     {
       invariantKind: "absence",

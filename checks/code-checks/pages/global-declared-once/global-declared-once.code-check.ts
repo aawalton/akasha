@@ -71,17 +71,17 @@ export const globalDeclaredOnce = {
     {
       invariantKind: "departure",
       statement:
-        "A clash is refused only where the change carries one of the two files declaring the name.",
+        "A clash is refused only where the change has one of the two files declaring the name.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A refusal names the same file whether the change carries that file or the other file.",
+        "A refusal names the same file whether the change has that file or the other file.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The files read are the declaration files the index names beside the ones the change carries.",
+        "The files read are the declaration files the index names beside the ones the change has.",
     },
     {
       invariantKind: "departure",
@@ -90,7 +90,7 @@ export const globalDeclaredOnce = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file the index names is read where the change carries a declaration file.",
+      statement: "Every file the index names is read where the change has a declaration file.",
     },
     {
       invariantKind: "departure",
@@ -98,8 +98,7 @@ export const globalDeclaredOnce = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A change carrying no declaration file and no `declare global` is refused nothing.",
+      statement: "A change with no declaration file and no `declare global` is refused nothing.",
     },
     {
       invariantKind: "departure",

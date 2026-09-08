@@ -170,7 +170,7 @@ export const manifestNamesWhatIsReached = {
     },
     {
       invariantKind: "departure",
-      statement: "A dependency reached by nothing is judged where the change carries its manifest.",
+      statement: "A dependency reached by nothing is judged where the change has its manifest.",
     },
     {
       invariantKind: "departure",

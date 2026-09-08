@@ -61,7 +61,7 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "A name a loop binds carries what the source that loop runs over carries.",
+      statement: "A name a loop binds has what the source that loop runs over carries.",
     },
     {
       invariantKind: "departure",
@@ -73,7 +73,7 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "One listing is refused once however many of its arguments carry a path.",
+      statement: "One listing is refused once however many of its arguments have a path.",
     },
     {
       invariantKind: "departure",

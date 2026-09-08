@@ -31,7 +31,7 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A restatement carries the property's own key.",
+      statement: "A restatement has the property's own key.",
     },
     {
       invariantKind: "departure",
@@ -80,7 +80,7 @@ export const keyNamesOneProperty = {
     {
       invariantKind: "departure",
       statement:
-        "A page type is judged when the change carries that page type or a property that type declares.",
+        "A page type is judged when the change has that page type or a property that type declares.",
     },
     {
       invariantKind: "departure",

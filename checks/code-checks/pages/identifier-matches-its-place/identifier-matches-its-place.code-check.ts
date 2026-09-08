@@ -118,7 +118,7 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "In a property file the stem carries a dot and makes no identifier.",
+      statement: "In a property file the stem has a dot and makes no identifier.",
     },
     {
       invariantKind: "absence",
@@ -139,7 +139,7 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "A parameter of a function carrying a body stands in that place.",
+      statement: "A parameter of a function with a body stands in that place.",
     },
     {
       invariantKind: "departure",

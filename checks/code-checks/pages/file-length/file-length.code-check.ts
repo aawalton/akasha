@@ -22,7 +22,7 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry file carries the `jsonl` or the `json` extension.",
+      statement: "An entry file has the `jsonl` or the `json` extension.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "A markup file carries the `xml` extension.",
+      statement: "A markup file has the `xml` extension.",
     },
     {
       invariantKind: "constraint",
@@ -42,7 +42,7 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "A prose file carries the `md` or the `txt` extension.",
+      statement: "A prose file has the `md` or the `txt` extension.",
     },
     {
       invariantKind: "constraint",
@@ -71,7 +71,7 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "That file is let off only where a page carrying the property sits in its folder.",
+      statement: "That file is let off only where a page with the property sits in its folder.",
     },
     {
       invariantKind: "departure",
@@ -79,7 +79,7 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "A property naming no file is read from the section its files carry.",
+      statement: "A property naming no file is read from the section its files have.",
     },
     {
       invariantKind: "departure",

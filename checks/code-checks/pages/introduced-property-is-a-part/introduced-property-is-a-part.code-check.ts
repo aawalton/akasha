@@ -26,7 +26,7 @@ export const introducedPropertyIsAPart = {
     },
     {
       invariantKind: "departure",
-      statement: "Every page type is judged whenever the change carries a page type.",
+      statement: "Every page type is judged whenever the change has a page type.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const introducedPropertyIsAPart = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type the change carries is read as the change leaves the page type.",
+      statement: "A page type the change has is read as the change leaves the page type.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const introducedPropertyIsAPart = {
     },
     {
       invariantKind: "departure",
-      statement: "A change carrying no page type is passed over before the index is worked out.",
+      statement: "A change with no page type is passed over before the index is worked out.",
     },
     {
       invariantKind: "departure",

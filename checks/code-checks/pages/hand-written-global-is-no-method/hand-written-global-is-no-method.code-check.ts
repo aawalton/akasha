@@ -52,7 +52,7 @@ export const handWrittenGlobalIsNoMethod = {
     },
     {
       invariantKind: "departure",
-      statement: "Every declaration the index has is judged rather than the ones a change carries.",
+      statement: "Every declaration the index has is judged rather than the ones a change has.",
     },
     {
       invariantKind: "constraint",

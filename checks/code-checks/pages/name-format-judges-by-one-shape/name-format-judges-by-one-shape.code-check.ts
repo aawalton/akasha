@@ -53,12 +53,12 @@ export const nameFormatJudgesByOneShape = {
     },
     {
       invariantKind: "constraint",
-      statement: "A shape carrying the `g` flag is refused.",
+      statement: "A shape with the `g` flag is refused.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A shape carrying `g` keeps a `lastIndex` between asks and so answers one name differently.",
+        "A shape with `g` keeps a `lastIndex` between asks and so answers one name differently.",
     },
     {
       invariantKind: "departure",
@@ -70,7 +70,7 @@ export const nameFormatJudgesByOneShape = {
     },
     {
       invariantKind: "absence",
-      statement: "Whether two formats carry one shape is not judged here.",
+      statement: "Whether two formats have one shape is not judged here.",
     },
   ],
 } as const satisfies CodeCheck

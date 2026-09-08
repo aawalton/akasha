@@ -14,7 +14,7 @@ export const clientReachesPagesThroughItsHooks = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A browser file is one whose opening statements carry the `use client` directive.",
+      statement: "A browser file is one whose opening statements have the `use client` directive.",
     },
     {
       invariantKind: "departure",

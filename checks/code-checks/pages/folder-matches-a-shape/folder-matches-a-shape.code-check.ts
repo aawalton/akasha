@@ -78,7 +78,7 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal carries each shape's reasons rather than ranking those shapes.",
+      statement: "The refusal has each shape's reasons rather than ranking those shapes.",
     },
     {
       invariantKind: "departure",
@@ -99,11 +99,11 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
-      statement: "That folder is judged though the change carries no path inside that folder.",
+      statement: "That folder is judged though the change has no path inside that folder.",
     },
     {
       invariantKind: "departure",
-      statement: "The workspace root is judged by every change carrying a path.",
+      statement: "The workspace root is judged by every change with a path.",
     },
     {
       invariantKind: "departure",
@@ -125,7 +125,7 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a TypeScript file is read for the imports that file carries.",
+      statement: "Only a TypeScript file is read for the imports that file has.",
     },
     {
       invariantKind: "departure",
@@ -140,7 +140,7 @@ export const folderMatchesAShape = {
     {
       invariantKind: "departure",
       statement:
-        "Which files sit in a folder is read as the index is joined to the paths the change carries.",
+        "Which files sit in a folder is read as the index is joined to the paths the change has.",
     },
     {
       invariantKind: "departure",
