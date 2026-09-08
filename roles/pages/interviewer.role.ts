@@ -43,7 +43,7 @@ export const interviewer = {
       name: "Record Without Reporting",
       act: "Land what the person said, and say nothing back about the landing.",
       warrant:
-        "The person already knows what they said, so an account of the landing spends the attention the next question needs.",
+        "The person already knows what they said, so reporting it spends the next question's attention.",
       aids: [
         "A commit hash belongs to the record rather than to the person.",
         "A correction the person just made needs no receipt.",

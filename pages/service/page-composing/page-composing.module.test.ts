@@ -179,7 +179,7 @@ test("a page the index already holds keeps the identity it has", () => {
 
 test("a page the index does not hold is composed carrying no identity", () => {
   const said = foldedFor(ROOT, [{ ...DEFINER, slug: "held-one" }])
-  expect("puts" in said && said.puts[0]?.path).toBe("role-system/roles/pages/held-one.role.ts")
+  expect("puts" in said && said.puts[0]?.path).toBe("roles/pages/held-one.role.ts")
   expect("puts" in said && said.puts[0]?.content).not.toContain("id:")
 })
 
@@ -368,7 +368,7 @@ test("a merge keeps a value held outside the commit beside the page rather than 
 
 test("a merge into a page the index does not hold composes that page as a new one", () => {
   const said = foldedFor(ROOT, [{ ...DEFINER, slug: "held-one", merge: true }])
-  expect("puts" in said && said.puts[0]?.path).toBe("role-system/roles/pages/held-one.role.ts")
+  expect("puts" in said && said.puts[0]?.path).toBe("roles/pages/held-one.role.ts")
   expect("puts" in said && said.puts[0]?.content).not.toContain("id:")
 })
 
