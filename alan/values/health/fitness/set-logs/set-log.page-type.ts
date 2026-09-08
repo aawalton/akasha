@@ -9,7 +9,7 @@ import type { IsWarmup } from "./properties/is-warmup.boolean-property.ts"
 import type { Note } from "./properties/note.text-property.ts"
 import type { Reps } from "./properties/reps.number-property.ts"
 import type { Rpe } from "./properties/rpe.number-property.ts"
-import type { SessionSlug } from "./properties/session-slug.relation-property.ts"
+import type { SessionSlug } from "./properties/session-slug.text-property.ts"
 import type { SetLogDate } from "./properties/set-log-date.calendar-date-property.ts"
 import type { SetNumber } from "./properties/set-number.number-property.ts"
 import type { WakeDaySlug } from "./properties/wake-day-slug.relation-property.ts"
@@ -49,7 +49,7 @@ export const setLog = {
     "number-property/set-number",
     "number-property/weight",
     "relation-property/exercise-slug",
-    "relation-property/session-slug",
+    "text-property/session-slug",
     "relation-property/wake-day-slug",
     "computed-property/set-volume",
     "select-property/activity-type",
@@ -65,7 +65,7 @@ export const setLog = {
     { pagePropertySlug: "text-property/note", required: false, many: false },
     { pagePropertySlug: "number-property/reps", required: false, many: false },
     { pagePropertySlug: "number-property/rpe", required: false, many: false },
-    { pagePropertySlug: "relation-property/session-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/session-slug", required: true, many: false },
     { pagePropertySlug: "calendar-date-property/set-log-date", required: true, many: false },
     { pagePropertySlug: "relation-property/wake-day-slug", required: true, many: false },
     { pagePropertySlug: "number-property/set-number", required: true, many: false },
