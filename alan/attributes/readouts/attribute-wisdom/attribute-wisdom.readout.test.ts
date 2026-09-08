@@ -1,28 +1,24 @@
 import { expect, test } from "bun:test"
-import { WORDS_TO_THE_POINT, wisdomIn } from "./attribute-wisdom.readout.code.ts"
+import { mkdtempSync } from "node:fs"
+import { join } from "node:path"
+import { keepPointsToday } from "../../points/attribute-points.module.code.ts"
+import { wisdomShown } from "./attribute-wisdom.readout.code.ts"
+import { attributeWisdom } from "./attribute-wisdom.readout.ts"
 
-const held = (figure: unknown) => ({ "wisdom-words": figure })
+const HOLD = "/var/tmp"
 
-test("the reading is the figure over the amount one point costs", () => {
-  expect(WORDS_TO_THE_POINT).toBe(10000)
-  expect(wisdomIn(held(10000))).toBeCloseTo(1, 10)
-  expect(wisdomIn(held(10000 * 2))).toBeCloseTo(2, 10)
+const rootMade = () => mkdtempSync(join(HOLD, "attribute-wisdom-"))
+
+test("this readout names the attribute whose points it shows", () => {
+  expect(attributeWisdom.attributeSlug).toBe("wisdom")
 })
 
-test("a figure given as text is read as the number that text spells", () => {
-  expect(wisdomIn(held(String(10000)))).toBeCloseTo(1, 10)
+test("the reading is the points that attribute earned today", () => {
+  const root = rootMade()
+  keepPointsToday(root, attributeWisdom.attributeSlug, 0.42)
+  expect(wisdomShown(root)).toBe(0.42)
 })
 
-test("a reading of zero is a reading rather than an absent one", () => {
-  expect(wisdomIn(held(0))).toBe(0)
-  expect(wisdomIn(held("0"))).toBe(0)
-})
-
-test("a day carrying no figure is no reading rather than a wisdom of zero", () => {
-  expect(wisdomIn({})).toBeNull()
-  expect(wisdomIn(held(null))).toBeNull()
-  expect(wisdomIn(held(undefined))).toBeNull()
-  expect(wisdomIn(held(""))).toBeNull()
-  expect(wisdomIn(held("   "))).toBeNull()
-  expect(wisdomIn(held("soon"))).toBeNull()
+test("an attribute carrying no points today is no reading rather than a zero", () => {
+  expect(wisdomShown(rootMade())).toBeNull()
 })

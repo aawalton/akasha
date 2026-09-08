@@ -5,11 +5,11 @@ import type { Row } from "@akasha/readout-system/readout-asking"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { enduranceIn } from "../../../attributes/pages/endurance.attribute.code.ts"
 import { strengthIn } from "../../../attributes/pages/strength.attribute.code.ts"
+import { wisdomIn } from "../../../attributes/pages/wisdom.attribute.code.ts"
 import { keepPointsToday } from "../../../attributes/points/attribute-points.module.code.ts"
 import { charismaIn } from "../../../attributes/readouts/attribute-charisma/attribute-charisma.readout.code.ts"
 import { fetchConstitutionPoints } from "../../../attributes/readouts/attribute-constitution/attribute-constitution.readout.code.ts"
 import { intelligenceIn } from "../../../attributes/readouts/attribute-intelligence/attribute-intelligence.readout.code.ts"
-import { wisdomIn } from "../../../attributes/readouts/attribute-wisdom/attribute-wisdom.readout.code.ts"
 import {
   wakeDayOf,
   wakeDayWindow,

@@ -6,4 +6,24 @@ export const wisdom = {
   slug: "wisdom",
   definition: "what Alan has built by learning about himself",
   pointUnit: "10,000 words added to an all-about-alan topic",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Ten thousand words added is one point.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The points are the words about Alan the day carries turned into points.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day carrying no words earns nothing rather than a wisdom of zero.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here counts the words a commit added.",
+    },
+  ],
 } as const satisfies Attribute
