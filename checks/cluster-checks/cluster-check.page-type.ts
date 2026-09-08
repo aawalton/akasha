@@ -153,6 +153,7 @@ export const clusterCheck = {
     "module/codegen-type-identity-pairs",
     "module/component-layout-boundary",
     "module/component-slot-detection",
+    "module/component-sources",
   ],
   properties: [
     {
