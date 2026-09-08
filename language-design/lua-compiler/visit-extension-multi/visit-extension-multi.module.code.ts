@@ -11,7 +11,7 @@ import {
   findFirstNonOuterParent,
 } from "../typescript/typescript.module.code.ts"
 
-const multiReturnExtensionName = "__tstlMultiReturn"
+const multiReturnExtensionName = "__luaMultiReturn"
 export function isMultiReturnType(type: ts.Type): boolean {
   return type.getProperty(multiReturnExtensionName) !== undefined
 }
