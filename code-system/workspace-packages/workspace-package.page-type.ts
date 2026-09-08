@@ -2,12 +2,14 @@ import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { DockerfileExtensions } from "./properties/dockerfile-extensions.named-file-property.ts"
 import type { Manifest } from "./properties/manifest.named-file-property.ts"
+import type { ToolReached } from "./properties/tool-reached.text-property.ts"
 import type { TunnelRoutes } from "./properties/tunnel-routes.named-file-property.ts"
 
 export type WorkspacePackage = Domain & {
   manifest: Manifest
   tunnelRoutes?: TunnelRoutes
   dockerfileExtensions?: DockerfileExtensions
+  toolReached?: ToolReached
 }
 
 export const workspacePackage = {
@@ -20,12 +22,14 @@ export const workspacePackage = {
     "named-file-property/dockerfile-extensions",
     "named-file-property/manifest",
     "named-file-property/tunnel-routes",
+    "text-property/tool-reached",
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "named-file-property/manifest", required: true, many: false },
     { pagePropertySlug: "named-file-property/tunnel-routes", required: false, many: false },
     { pagePropertySlug: "named-file-property/dockerfile-extensions", required: false, many: false },
+    { pagePropertySlug: "text-property/tool-reached", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {
