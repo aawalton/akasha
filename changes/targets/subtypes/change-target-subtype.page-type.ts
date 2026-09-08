@@ -27,7 +27,7 @@ export const changeTargetSubtype = {
     "change-target-subtype/file-content-page-property-value",
     "change-target-subtype/file-content-page-property-value-prose",
     "change-target-subtype/page-type-page-property",
-    "change-target-subtype/manifest",
+    "change-target-subtype/file-content-manifest",
   ],
   extendsSlug: ["page-type/domain"],
   properties: [

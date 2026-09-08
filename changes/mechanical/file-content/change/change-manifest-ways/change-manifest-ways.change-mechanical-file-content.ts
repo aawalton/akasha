@@ -6,7 +6,7 @@ export const changeManifestWays = {
   slug: "change-manifest-ways",
   changeModeSlug: "change-mode-change",
   changeTargetTypeSlug: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/manifest",
+  changeTargetSubtypeSlug: "change-target-subtype/file-content-manifest",
   definition: "a manifest's ways in rewritten to follow the files those ways in name",
   code: "ts",
   test: "ts",

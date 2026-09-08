@@ -6,7 +6,7 @@ export const removeManifestWays = {
   slug: "remove-manifest-ways",
   changeModeSlug: "change-mode-remove",
   changeTargetTypeSlug: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/manifest",
+  changeTargetSubtypeSlug: "change-target-subtype/file-content-manifest",
   definition: "a manifest's ways in dropped where the files those ways in name go",
   code: "ts",
   test: "ts",
