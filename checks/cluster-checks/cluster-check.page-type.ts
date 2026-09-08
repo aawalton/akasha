@@ -118,6 +118,7 @@ export const clusterCheck = {
     "module/functional-type-row-discriminators",
     "module/functional-type-discriminators",
     "module/check-readonly-collections",
+    "module/tsconfig-source-layout",
   ],
   properties: [
     {
