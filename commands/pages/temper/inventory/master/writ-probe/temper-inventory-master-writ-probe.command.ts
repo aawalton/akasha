@@ -23,7 +23,7 @@ export const temperInventoryMasterWritProbe = {
     },
     {
       invariantKind: "departure",
-      statement: "Every step carries the raw fields the game gave.",
+      statement: "Every step has the raw fields the game gave.",
     },
     {
       invariantKind: "departure",

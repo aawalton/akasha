@@ -54,7 +54,7 @@ export const trackSessionFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A line saying no safety carries the safety of the line above.",
+      statement: "A line saying no safety has the safety of the line above.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,7 @@ export const trackSessionFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A set carrying one fault is refused whole.",
+      statement: "A set with one fault is refused whole.",
     },
     {
       invariantKind: "departure",
@@ -94,7 +94,7 @@ export const trackSessionFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A title no relationship carries is refused rather than written.",
+      statement: "A title no relationship has is refused rather than written.",
     },
     {
       invariantKind: "departure",
@@ -106,7 +106,7 @@ export const trackSessionFile = {
     },
     {
       invariantKind: "departure",
-      statement: "An alias more than one relationship carries tags neither and refuses nothing.",
+      statement: "An alias more than one relationship has tags neither and refuses nothing.",
     },
     {
       invariantKind: "departure",

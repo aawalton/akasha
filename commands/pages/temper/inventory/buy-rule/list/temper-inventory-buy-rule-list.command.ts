@@ -15,11 +15,11 @@ export const temperInventoryBuyRuleList = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each rule carries the quantity held now.",
+      statement: "Each rule has the quantity held now.",
     },
     {
       invariantKind: "departure",
-      statement: "Each rule carries the shortfall against its target.",
+      statement: "Each rule has the shortfall against its target.",
     },
   ],
 } as const satisfies Command

@@ -29,7 +29,7 @@ export const temperInventoryReplayExplain = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names the item the stored trace carries.",
+      statement: "The refusal names the item the stored trace has.",
     },
     {
       invariantKind: "absence",

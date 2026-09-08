@@ -36,7 +36,7 @@ export const temperErrorsList = {
     },
     {
       invariantKind: "departure",
-      statement: "A stale entry shown carries its liveness.",
+      statement: "A stale entry shown has its liveness.",
     },
     {
       invariantKind: "departure",

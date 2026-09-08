@@ -21,7 +21,7 @@ export const trackWeight = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A day carries the weight measured on that day.",
+      statement: "A day has the weight measured on that day.",
     },
     {
       invariantKind: "departure",

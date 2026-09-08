@@ -39,7 +39,7 @@ export const trackSessionDrop = {
     },
     {
       invariantKind: "departure",
-      statement: "A stretch is addressed by the id that stretch carries.",
+      statement: "A stretch is addressed by the id that stretch has.",
     },
     {
       invariantKind: "departure",

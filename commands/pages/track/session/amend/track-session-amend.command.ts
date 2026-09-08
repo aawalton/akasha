@@ -53,7 +53,7 @@ export const trackSessionAmend = {
     },
     {
       invariantKind: "departure",
-      statement: "A stretch is addressed by the id that stretch carries.",
+      statement: "A stretch is addressed by the id that stretch has.",
     },
     {
       invariantKind: "departure",
@@ -89,7 +89,7 @@ export const trackSessionAmend = {
     },
     {
       invariantKind: "departure",
-      statement: "A title no relationship carries is refused rather than written.",
+      statement: "A title no relationship has is refused rather than written.",
     },
     {
       invariantKind: "departure",
@@ -101,7 +101,7 @@ export const trackSessionAmend = {
     },
     {
       invariantKind: "departure",
-      statement: "An alias more than one relationship carries tags neither and refuses nothing.",
+      statement: "An alias more than one relationship has tags neither and refuses nothing.",
     },
     {
       invariantKind: "departure",

@@ -21,7 +21,7 @@ export const temperInventoryDecodeLink = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A link carries twenty-one fields after its item marker.",
+      statement: "A link has twenty-one fields after its item marker.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,7 @@ export const temperInventoryDecodeLink = {
     },
     {
       invariantKind: "departure",
-      statement: "A link carrying more fields is read rather than refused.",
+      statement: "A link with more fields is read rather than refused.",
     },
     {
       invariantKind: "departure",

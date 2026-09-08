@@ -53,7 +53,7 @@ export const temperAddonInstall = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder carrying no build stamp was installed by something else.",
+      statement: "A folder with no build stamp was installed by something else.",
     },
     {
       invariantKind: "departure",

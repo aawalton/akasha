@@ -34,7 +34,7 @@ export const temperAddonResolve = {
     },
     {
       invariantKind: "departure",
-      statement: "A call carrying no name to resolve is refused.",
+      statement: "A call with no name to resolve is refused.",
     },
     {
       invariantKind: "absence",

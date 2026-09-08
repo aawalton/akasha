@@ -54,7 +54,7 @@ export const temperEsoTypingsAudit = {
     },
     {
       invariantKind: "departure",
-      statement: "An artifact carrying no stamp is set aside and named apart from the comparison.",
+      statement: "An artifact with no stamp is set aside and named apart from the comparison.",
     },
     {
       invariantKind: "departure",

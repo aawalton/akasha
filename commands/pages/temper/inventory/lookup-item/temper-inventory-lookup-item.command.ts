@@ -22,7 +22,7 @@ export const temperInventoryLookupItem = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An item is classified by the node ids the capture carries.",
+      statement: "An item is classified by the node ids the capture has.",
     },
     {
       invariantKind: "departure",

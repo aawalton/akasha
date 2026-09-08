@@ -53,11 +53,11 @@ export const trackSessionSplit = {
     },
     {
       invariantKind: "departure",
-      statement: "Both halves a `split` makes carry the relationships of the stretch parted.",
+      statement: "Both halves a `split` makes have the relationships of the stretch parted.",
     },
     {
       invariantKind: "departure",
-      statement: "A stretch is addressed by the id that stretch carries.",
+      statement: "A stretch is addressed by the id that stretch has.",
     },
     {
       invariantKind: "departure",
@@ -93,7 +93,7 @@ export const trackSessionSplit = {
     },
     {
       invariantKind: "departure",
-      statement: "A title no relationship carries is refused rather than written.",
+      statement: "A title no relationship has is refused rather than written.",
     },
     {
       invariantKind: "departure",
@@ -105,7 +105,7 @@ export const trackSessionSplit = {
     },
     {
       invariantKind: "departure",
-      statement: "An alias more than one relationship carries tags neither and refuses nothing.",
+      statement: "An alias more than one relationship has tags neither and refuses nothing.",
     },
     {
       invariantKind: "departure",

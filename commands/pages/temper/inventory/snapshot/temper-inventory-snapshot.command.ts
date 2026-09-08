@@ -42,7 +42,7 @@ export const temperInventorySnapshot = {
     },
     {
       invariantKind: "departure",
-      statement: "A snapshot carrying no data file refuses the call.",
+      statement: "A snapshot with no data file refuses the call.",
     },
     {
       invariantKind: "absence",

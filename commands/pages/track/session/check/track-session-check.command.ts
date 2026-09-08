@@ -32,11 +32,11 @@ export const trackSessionCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "`check` refuses an id two rows of a day carry.",
+      statement: "`check` refuses an id two rows of a day have.",
     },
     {
       invariantKind: "departure",
-      statement: "`check` refuses a row naming a day no page carries.",
+      statement: "`check` refuses a row naming a day no page has.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const trackSessionCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "`check` refuses a day carrying more than one open stretch.",
+      statement: "`check` refuses a day with more than one open stretch.",
     },
     {
       invariantKind: "departure",

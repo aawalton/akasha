@@ -22,7 +22,7 @@ export const temperInventoryBankTrace = {
     },
     {
       invariantKind: "departure",
-      statement: "Each phase carries its own time bracket.",
+      statement: "Each phase has its own time bracket.",
     },
     {
       invariantKind: "departure",

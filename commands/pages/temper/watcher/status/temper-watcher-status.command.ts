@@ -29,7 +29,7 @@ export const temperWatcherStatus = {
     },
     {
       invariantKind: "departure",
-      statement: "A watcher that is not running carries no process id.",
+      statement: "A watcher that is not running has no process id.",
     },
   ],
 } as const satisfies Command
