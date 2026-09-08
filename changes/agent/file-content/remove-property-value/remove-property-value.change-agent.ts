@@ -1,8 +1,8 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const removePropertyValue = {
   id: "01a07944-9ee0-7f93-a8d0-b0e845bdd929",
-  pageTypeSlug: "change-checked",
+  pageTypeSlug: "change-agent",
   slug: "remove-property-value",
   changeModeSlug: "change-mode-remove",
   definition: "one value taken out of one page property, judged by the checks a landing runs",
@@ -41,4 +41,4 @@ export const removePropertyValue = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-} as const satisfies ChangeChecked
+} as const satisfies ChangeAgent

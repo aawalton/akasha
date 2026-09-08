@@ -11,7 +11,7 @@ export const changeAgentFileContent = {
     "change-agent/change-domain-parent",
     "change-checked/change-page-property",
     "change-checked/remove-package-alias",
-    "change-checked/remove-property-value",
+    "change-agent/remove-property-value",
     "change-agent/rename-code-token",
     "change-checked/rename-package",
     "change-agent/change-page-property-text",

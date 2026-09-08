@@ -5,7 +5,7 @@ import {
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { knownOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { removePropertyValue, runChange } from "./remove-property-value.change-checked.code.ts"
+import { removePropertyValue, runChange } from "./remove-property-value.change-agent.code.ts"
 
 const AT = "held/held.domain.ts"
 
