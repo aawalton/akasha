@@ -6,7 +6,9 @@ import { deletePages } from "@akasha/pages-access/delete"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage, upsertPages } from "@akasha/pages-access/upsert"
 import { askComposed } from "@akasha/pages-query/store-spelled-asking"
+import { useOptimisticDeletePages } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-pages"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
+import { useOptimisticUpsertPages } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-pages"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type {
@@ -215,12 +217,15 @@ export function useInventorySettings() {
     [heldRules, blob?.itemRules, blob?.buyRules]
   )
 
+  const runUpserts = useOptimisticUpsertPages((args) => upsertPages(args))
+  const runDeletes = useOptimisticDeletePages((args) => deletePages(args))
+
   const updateInventorySettings = useCallback(
     async (next: InventoryRuleSettings) => {
       if (userId == null) return
       const { upserts, deletes } = writesFor(next.rules, heldRules, userId)
       if (upserts.length > 0) {
-        await upsertPages({
+        await runUpserts({
           pageTypeSlug: RULE_PAGE_TYPE_SLUG,
           items: upserts.map((one) => ({
             where: [{ key: "slug", eq: one.slug }],
@@ -229,13 +234,13 @@ export function useInventorySettings() {
         })
       }
       if (deletes.length > 0) {
-        await deletePages({
+        await runDeletes({
           pageTypeSlug: RULE_PAGE_TYPE_SLUG,
           where: [{ key: "slug", in: [...deletes] }],
         })
       }
     },
-    [heldRules, userId]
+    [heldRules, userId, runUpserts, runDeletes]
   )
 
   return {
