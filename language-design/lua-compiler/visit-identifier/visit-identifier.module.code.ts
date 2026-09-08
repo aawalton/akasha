@@ -12,11 +12,11 @@ import {
 import { tempSymbolId } from "../context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { invalidCallExtensionUse } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import {
   createExportedIdentifier,
   getSymbolExportScope,
-} from "../tstl-export/tstl-export.module.code.ts"
+} from "../export-scope/export-scope.module.code.ts"
+import { invalidCallExtensionUse } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import {
   getExtensionKindForNode,
   getExtensionKindForSymbol,

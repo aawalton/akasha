@@ -5,7 +5,7 @@ import {
   addExportToIdentifier,
   createExportedIdentifier,
   getIdentifierExportScope,
-} from "../tstl-export/tstl-export.module.code.ts"
+} from "../export-scope/export-scope.module.code.ts"
 import { moduleLocalNameHolder } from "../tstl-export-deps/tstl-export-deps.module.code.ts"
 import {
   createHoistableVariableDeclarationStatement,

@@ -55,7 +55,7 @@ export const luaCompiler = {
     "module/cli-tsconfig",
     "module/compiler-options",
     "module/tstl-diagnostics",
-    "module/tstl-export",
+    "module/export-scope",
     "module/tstl-export-deps",
     "module/tstl-exports-identifier",
     "module/tstl-function-context",

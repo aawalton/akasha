@@ -3,14 +3,14 @@ import { SyntaxKind } from "typescript"
 import { validateAssignment } from "../assignment-validation/assignment-validation.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import {
-  cannotAssignToNodeOfKind,
-  notAllowedOptionalAssignment,
-} from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
-import {
   createExportedIdentifier,
   getDependenciesOfSymbol,
   isSymbolExported,
-} from "../tstl-export/tstl-export.module.code.ts"
+} from "../export-scope/export-scope.module.code.ts"
+import {
+  cannotAssignToNodeOfKind,
+  notAllowedOptionalAssignment,
+} from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import { createBoundedUnpackCall, wrapInTable } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"

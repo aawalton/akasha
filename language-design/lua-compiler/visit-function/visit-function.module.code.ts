@@ -5,7 +5,7 @@ import type { FunctionVisitor } from "../context-visitors/context-visitors.modul
 import {
   createDefaultExportStringLiteral,
   hasDefaultExportModifier,
-} from "../tstl-export/tstl-export.module.code.ts"
+} from "../export-scope/export-scope.module.code.ts"
 import { createExportsIdentifier } from "../tstl-exports-identifier/tstl-exports-identifier.module.code.ts"
 import {
   ContextType,

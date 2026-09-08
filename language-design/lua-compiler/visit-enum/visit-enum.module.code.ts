@@ -5,7 +5,7 @@ import type { FunctionVisitor } from "../context-visitors/context-visitors.modul
 import {
   addExportToIdentifier,
   getSymbolExportScope,
-} from "../tstl-export/tstl-export.module.code.ts"
+} from "../export-scope/export-scope.module.code.ts"
 import { createLocalOrExportedOrGlobalDeclaration } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
