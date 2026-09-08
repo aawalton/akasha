@@ -1,8 +1,8 @@
-import type { ChangeAuthored } from "../../../authored/change-authored.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const addFile = {
   id: "01a07813-6e3b-77c3-9c1e-b0c5778fd31b",
-  pageTypeSlug: "change-authored",
+  pageTypeSlug: "change-agent",
   slug: "add-file",
   changeModeSlug: "change-mode-add",
   definition: "one body written at one path, judged by the checks a landing runs",
@@ -69,4 +69,4 @@ export const addFile = {
       statement: "A path naming no page takes no `id`.",
     },
   ],
-} as const satisfies ChangeAuthored
+} as const satisfies ChangeAgent

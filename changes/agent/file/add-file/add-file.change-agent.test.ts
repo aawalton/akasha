@@ -4,7 +4,7 @@ import {
   NOTHING_OVER,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { addFileCommand, idFilled } from "./add-file.change-authored.code.ts"
+import { addFileCommand, idFilled } from "./add-file.change-agent.code.ts"
 
 const AT = "akasha/one.held.ts"
 

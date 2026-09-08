@@ -6,7 +6,7 @@ export const changeAgentFile = {
   slug: "change-agent-file",
   definition: "a change an agent reaches acting on where a file sits",
   partSlugs: [
-    "change-authored/add-file",
+    "change-agent/add-file",
     "change-checked/change-page-page-type",
     "change-checked/move-page",
     "change-checked/remove-file",

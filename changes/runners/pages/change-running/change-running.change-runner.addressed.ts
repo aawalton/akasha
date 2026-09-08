@@ -1,9 +1,9 @@
 export type Changes = {
+  "change-agent/add-file": Parameters<
+    typeof import("../../../agent/file/add-file/add-file.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/change-domain-parent": Parameters<
     typeof import("../../../agent/file-content/change-domain-parent/change-domain-parent.change-agent.code.ts")["runChange"]
-  >[1]
-  "change-authored/add-file": Parameters<
-    typeof import("../../../agent/file/add-file/add-file.change-authored.code.ts")["runChange"]
   >[1]
   "change-authored/change-file": Parameters<
     typeof import("../../../agent/file-content/change-file/change-file.change-authored.code.ts")["runChange"]
