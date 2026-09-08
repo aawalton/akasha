@@ -40,7 +40,7 @@ function formatViolation(v: ObjectLiteralSelfFinding): string {
 const SUCCESS_MESSAGE = "No object-literal methods declare `this: void`."
 
 export const objectLiteralSelfEntry: SyntaxScannerEntry = {
-  name: "tstl-object-literal-self",
+  name: "object-literal-self",
   findFindings: (sf) => {
     const out: NormalizedFinding[] = []
     for (const f of scanObjectLiteralSelf(sf)) {
