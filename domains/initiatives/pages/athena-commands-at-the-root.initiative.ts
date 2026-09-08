@@ -8,6 +8,11 @@ export const athenaCommandsAtTheRoot = {
   personaSlug: "athena",
   intents: [
     {
+      statement: "A command's folder sits inside its namespace's folder under `commands/pages/`.",
+      workingMemory:
+        "All 180 command folders under `commands/pages/` sit flat, each named by its full slug, and no namespace folder is among them. The 48 namespace pages sit as bare files at `command-system/namespaces/pages/`, owning no folder. 37 commands are still outside `commands/`: 21 under `temper/`, 15 under `command-system/`, 1 under `browser/`. This restructure comes before that move. `add-property-value` appends a JSON string to a list, so it writes no intent record.",
+    },
+    {
       statement:
         "Every command sits in one folder at the root, named by the namespace it is under.",
       workingMemory:
