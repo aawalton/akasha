@@ -92,7 +92,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A change reaching more than one change carries each world into the next reach.",
+      statement: "A change reaching more than one change passes each world into the next reach.",
     },
     {
       invariantKind: "departure",
@@ -100,7 +100,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A path an answer carries away reads back nothing.",
+      statement: "A path an answer takes away reads back nothing.",
     },
     {
       invariantKind: "departure",
@@ -129,7 +129,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A path an answer carries away is left out of the paths that folder answers.",
+      statement: "A path an answer takes away is left out of the paths that folder answers.",
     },
     {
       invariantKind: "departure",
@@ -191,16 +191,16 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "A ledger carries the bodies those edits left into the bodies that ledger already settled.",
+        "A ledger folds the bodies those edits left into the bodies that ledger already settled.",
     },
     {
       invariantKind: "absence",
-      statement: "No body an earlier settling already carried in is carried in a second time.",
+      statement: "No body an earlier settling already folded in is folded in a second time.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A path the ledger replayed no body for is left out of the settled bodies rather than carried in.",
+        "A path the ledger replayed no body for is left out of the settled bodies rather than folded in.",
     },
     {
       invariantKind: "absence",
@@ -234,7 +234,7 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "A world a reach answered is carried on rather than built again over that reach's answer.",
+        "A world a reach answered is passed on rather than built again over that reach's answer.",
     },
     {
       invariantKind: "departure",

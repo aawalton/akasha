@@ -7,7 +7,7 @@ export const movePropertyValue = {
   changeModeSlug: "change-mode-move",
   changeTargetTypeSlug: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value",
-  definition: "one value carried to another place in the list one page property holds",
+  definition: "one value moved to another place in the list one page property holds",
   code: "ts",
   test: "ts",
   invariants: [
@@ -33,7 +33,7 @@ export const movePropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A value is carried whether that value is text or a record.",
+      statement: "A value is moved whether that value is text or a record.",
     },
     {
       invariantKind: "departure",

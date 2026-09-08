@@ -77,7 +77,7 @@ test("a ledger reads back the body an edit added leaves", () => {
   expect(ledger.textOf(AT)).toBe("held\n")
 })
 
-test("a ledger reads back nothing where an edit carried a path away", () => {
+test("a ledger reads back nothing where an edit took a path away", () => {
   const root = indexedRepo()
   const ledger = ledgerIn(root)
   addedTo(ledger, stating([{ kind: "remove", path: HELD_CODE }]))
@@ -143,9 +143,9 @@ test("an index a ledger answers is built again where a later edit was added", ()
   expect(ledger.index).not.toBe(first)
 })
 
-const CARRIED_EARLIER = "the first settling carried this in\n"
+const FOLDED_EARLIER = "the first settling folded this in\n"
 
-test("a ledger settling again carries the bodies those edits left into the settled bodies", () => {
+test("a ledger settling again folds the bodies those edits left into the settled bodies", () => {
   const ledger = ledgerIn(indexedRepo())
   addedTo(ledger, stating([{ kind: "add", path: FRESH_PAGE, content: FRESH_BODY }]))
   const first = ledger.index
@@ -158,17 +158,17 @@ test("a ledger settling again carries the bodies those edits left into the settl
   expect(ledger.kept.settled.get(OTHER)).toBe("two\n")
 })
 
-test("no body an earlier settling already carried in is carried in a second time", () => {
+test("no body an earlier settling already folded in is folded in a second time", () => {
   const ledger = ledgerIn(indexedRepo())
   addedTo(ledger, stating([{ kind: "add", path: FRESH_PAGE, content: FRESH_BODY }]))
   const first = ledger.index
-  ledger.kept.settled.set(FRESH_PAGE, CARRIED_EARLIER)
+  ledger.kept.settled.set(FRESH_PAGE, FOLDED_EARLIER)
 
   addedTo(ledger, stating([{ kind: "add", path: OTHER, content: "two\n" }]))
   const second = ledger.index
 
   expect(second).not.toBe(first)
-  expect(ledger.kept.settled.get(FRESH_PAGE)).toBe(CARRIED_EARLIER)
+  expect(ledger.kept.settled.get(FRESH_PAGE)).toBe(FOLDED_EARLIER)
   expect(ledger.kept.settled.get(OTHER)).toBe("two\n")
 })
 
@@ -226,7 +226,7 @@ test("a path an answer writes reads back the body that answer leaves at the path
   expect(world.textOf(AT)).toBe("held\n")
 })
 
-test("a path an answer carries away reads back nothing", () => {
+test("a path an answer takes away reads back nothing", () => {
   const root = indexedRepo()
   const world = worldOver(worldIn(root), stating([{ kind: "remove", path: HELD_CODE }]))
 
@@ -328,7 +328,7 @@ test("a removal off the world an earlier reach was handed is refused", async () 
   expect(took.said.refused).toBe(NO_BODY)
 })
 
-test("a change reaching more than one change carries each world into the next reach", async () => {
+test("a change reaching more than one change passes each world into the next reach", async () => {
   const one = await reach(worldIn(indexedRepo()), ADD_FILE, { at: AT, body: "one\n" })
   const two = await reach(one.world, ADD_FILE, { at: OTHER, body: "two\n" })
   const took = await reach(two.world, REMOVE_FILE, { at: AT })
