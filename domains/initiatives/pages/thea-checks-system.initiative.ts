@@ -80,6 +80,11 @@ export const theaChecksSystem = {
       workingMemory:
         "Eleven files a reading of names calls claimed while the page they belong to is gone, so no count of unclaimed files held them. Eight eso-day health-samples under alan/tracking/daily/eso-days/pages, dated 2026-08-31 through 2026-09-07, running to yesterday, so a writer still lays them down and writes no page. Two more under alan/eso-daily-tracking, which holds nothing else. One is change-running.change-runner.addressed.ts. Either the page returns or the file goes, and only Alan says which.",
     },
+    {
+      statement: "Every file beside a page the page holds is claimed by that page.",
+      workingMemory:
+        "Three files whose page is right there and still claims nothing. Two are misnamed: my-places and starving-student-card each hold a location-collection description.txt and each page states the property, but the property's slug is location-collection-description, so partsOf looks for a longer name than the file carries. A rename settles both. The third is main.cluster.sops.yaml, a sops sidecar claimsOf never claims, no page type from cluster through host to domain declaring a secret.",
+    },
   ],
   constraints: [
     "Each check takes one turn per step, and no turn carries two steps.",
