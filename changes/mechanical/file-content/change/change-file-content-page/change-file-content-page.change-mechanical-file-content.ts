@@ -13,7 +13,7 @@ export const changeFileContentPage = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
-  guardSlugs: ["change-guard/relation-reaches-a-page", "change-guard/identity-not-already-held"],
+  guardSlugs: ["change-guard/identity-not-already-held"],
   invariants: [
     {
       invariantKind: "departure",
@@ -24,9 +24,8 @@ export const changeFileContentPage = {
       statement: "The imports the body names after the change are judged by the change reached.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "The pages the body names after the change are judged by a guard this change names.",
+      invariantKind: "gap",
+      statement: "The pages the body names after the change are judged by a guard named here.",
     },
     {
       invariantKind: "departure",

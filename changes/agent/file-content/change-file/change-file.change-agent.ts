@@ -18,7 +18,11 @@ export const changeFile = {
     },
     {
       invariantKind: "departure",
-      statement: "Working the passage is left to the partial this change runs.",
+      statement: "Working the passage is left to the change reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That change is the one for the kind of body the path holds.",
     },
     {
       invariantKind: "departure",

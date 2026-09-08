@@ -13,7 +13,7 @@ const AT = "akasha/one.held.ts"
 type Passage = { at: string; old: string; new: string }
 
 const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical-file-content/change-file-content") {
+  if (at === "change-mechanical-file-content/change-file-content-of-any-kind") {
     return Promise.resolve(changeFile(world, given as Passage))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
@@ -74,6 +74,6 @@ test("the passage this change hands on is reached through the runner the world c
     { at: AT, old: "two", new: "four" }
   )
 
-  expect(reached).toBe("change-mechanical-file-content/change-file-content")
+  expect(reached).toBe("change-mechanical-file-content/change-file-content-of-any-kind")
   expect(said.refused).toBeNull()
 })
