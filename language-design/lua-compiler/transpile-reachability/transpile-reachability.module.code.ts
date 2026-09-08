@@ -1,3 +1,4 @@
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import * as ts from "typescript"
 
 const NAMESPACE_REACH = "*"
@@ -136,6 +137,8 @@ function collectNamespaceAccess(
           case "escape":
             escaped = true
             return
+          default:
+            assertNever(kind)
         }
       }
     }
@@ -146,6 +149,18 @@ function collectNamespaceAccess(
 
   if (escaped) return { escape: true }
   return { escape: false, names }
+}
+
+export function resolveTargetSourceFile(
+  checker: ts.TypeChecker,
+  specifier: ts.Expression
+): ts.SourceFile | undefined {
+  const sym = checker.getSymbolAtLocation(specifier)
+  if (!sym?.declarations) return undefined
+  for (const decl of sym.declarations) {
+    if (ts.isSourceFile(decl)) return decl
+  }
+  return undefined
 }
 
 export function computeReachability(program: ts.Program, entry: ts.SourceFile): ReachabilityResult {
@@ -186,15 +201,6 @@ export function computeReachability(program: ts.Program, entry: ts.SourceFile): 
     return true
   }
 
-  const resolveTargetSourceFile = (specifier: ts.Expression): ts.SourceFile | undefined => {
-    const sym = checker.getSymbolAtLocation(specifier)
-    if (!sym?.declarations) return undefined
-    for (const decl of sym.declarations) {
-      if (ts.isSourceFile(decl)) return decl
-    }
-    return undefined
-  }
-
   const exportsOf = (sf: ts.SourceFile): readonly ts.Symbol[] => {
     const sym = checker.getSymbolAtLocation(sf)
     if (!sym) return []
@@ -215,7 +221,7 @@ export function computeReachability(program: ts.Program, entry: ts.SourceFile): 
 
     for (const stmt of sf.statements) {
       if (ts.isImportDeclaration(stmt)) {
-        const target = resolveTargetSourceFile(stmt.moduleSpecifier)
+        const target = resolveTargetSourceFile(checker, stmt.moduleSpecifier)
         if (!target) continue
 
         const clause = stmt.importClause
@@ -252,7 +258,7 @@ export function computeReachability(program: ts.Program, entry: ts.SourceFile): 
       } else if (ts.isExportDeclaration(stmt)) {
         if (stmt.isTypeOnly) continue
         if (!stmt.moduleSpecifier) continue
-        const target = resolveTargetSourceFile(stmt.moduleSpecifier)
+        const target = resolveTargetSourceFile(checker, stmt.moduleSpecifier)
         if (!target) continue
 
         if (!stmt.exportClause) {
