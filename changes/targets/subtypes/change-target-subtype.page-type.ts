@@ -28,6 +28,8 @@ export const changeTargetSubtype = {
     "change-target-subtype/file-content-page-property-value-prose",
     "change-target-subtype/page-type-page-property",
     "change-target-subtype/file-content-manifest",
+    "change-target-subtype/file-content-page-property-key",
+    "change-target-subtype/page-property-property-slug",
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
