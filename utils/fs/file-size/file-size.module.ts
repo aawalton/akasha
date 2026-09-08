@@ -10,11 +10,11 @@ export const fileSize = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path holding no file is answered as no bytes.",
+      statement: "A path with no file is answered as no bytes.",
     },
     {
       invariantKind: "departure",
-      statement: "A path holding what is no file is answered as no bytes.",
+      statement: "A path with what is no file is answered as no bytes.",
     },
     {
       invariantKind: "departure",

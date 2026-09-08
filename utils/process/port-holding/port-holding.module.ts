@@ -29,7 +29,7 @@ export const portHolding = {
     },
     {
       invariantKind: "departure",
-      statement: "A process holding two matching sockets is named once.",
+      statement: "A process with two matching sockets is named once.",
     },
     {
       invariantKind: "absence",

@@ -13,7 +13,7 @@ export const companionGearPriceLookup = {
     },
     {
       invariantKind: "departure",
-      statement: "An average over the market weighs each entry by the sale count that entry holds.",
+      statement: "An average over the market weighs each entry by the sale count that entry has.",
     },
     {
       invariantKind: "departure",

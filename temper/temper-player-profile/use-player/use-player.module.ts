@@ -9,7 +9,7 @@ export const usePlayer = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A player row is keyed by the user id its title holds.",
+      statement: "A player row is keyed by the user id its title has.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +17,7 @@ export const usePlayer = {
     },
     {
       invariantKind: "absence",
-      statement: "Profile metadata a player never set holds no key.",
+      statement: "Profile metadata a player never set has no key.",
     },
   ],
 } as const satisfies Module

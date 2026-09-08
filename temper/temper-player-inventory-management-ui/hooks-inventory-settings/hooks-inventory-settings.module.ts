@@ -9,7 +9,7 @@ export const hooksInventorySettings = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The rules a player holds are read from the rule pages of that player's account.",
+      statement: "The rules a player has are read from the rule pages of that player's account.",
     },
     {
       invariantKind: "departure",

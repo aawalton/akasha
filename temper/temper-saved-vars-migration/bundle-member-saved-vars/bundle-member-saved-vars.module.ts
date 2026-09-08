@@ -4,7 +4,7 @@ export const bundleMemberSavedVars = {
   id: "01a06072-5abd-75b9-b1b8-07150462637e",
   pageTypeSlug: "module",
   slug: "bundle-member-saved-vars",
-  definition: "one addon's saved variables lifted back out of the bundle file holding them",
+  definition: "one addon's saved variables lifted back out of the bundle file with them",
   code: "ts",
   invariants: [
     {

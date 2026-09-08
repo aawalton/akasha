@@ -37,7 +37,7 @@ export const atomicWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "The editor's extension host holds no `Bun`.",
+      statement: "The editor's extension host has no `Bun`.",
     },
   ],
 } as const satisfies Module

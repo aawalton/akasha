@@ -17,7 +17,7 @@ export const characterImport = {
     },
     {
       invariantKind: "departure",
-      statement: "A hash the reader already holds gives back the build already filed.",
+      statement: "A hash the reader already has gives back the build already filed.",
     },
     {
       invariantKind: "departure",

@@ -19,7 +19,7 @@ export const zoneUpstreamPort = {
     },
     {
       invariantKind: "departure",
-      statement: "A language's zone names hold that language's own keys rather than a fallback.",
+      statement: "A language's zone names have that language's own keys rather than a fallback.",
     },
     {
       invariantKind: "departure",

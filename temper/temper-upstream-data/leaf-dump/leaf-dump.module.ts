@@ -17,11 +17,11 @@ export const leafDump = {
     },
     {
       invariantKind: "departure",
-      statement: "A leaf line holds the type of that leaf.",
+      statement: "A leaf line has the type of that leaf.",
     },
     {
       invariantKind: "departure",
-      statement: "A leaf line holds the value of that leaf.",
+      statement: "A leaf line has the value of that leaf.",
     },
     {
       invariantKind: "departure",

@@ -33,7 +33,7 @@ export const useCompletionCatalogs = {
     },
     {
       invariantKind: "constraint",
-      statement: "The largest catalog holds 311 rows.",
+      statement: "The largest catalog has 311 rows.",
     },
     {
       invariantKind: "constraint",

@@ -21,7 +21,7 @@ export const accountWide = {
     },
     {
       invariantKind: "departure",
-      statement: "A file holding no account-wide table reads as nothing rather than as a failure.",
+      statement: "A file with no account-wide table reads as nothing rather than as a failure.",
     },
   ],
 } as const satisfies Module

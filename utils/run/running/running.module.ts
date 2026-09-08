@@ -10,7 +10,7 @@ export const running = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A process is named by a list holding the command and its arguments.",
+      statement: "A process is named by a list with the command and its arguments.",
     },
     {
       invariantKind: "departure",

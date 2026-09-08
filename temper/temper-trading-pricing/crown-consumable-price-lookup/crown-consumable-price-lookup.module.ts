@@ -17,7 +17,7 @@ export const crownConsumablePriceLookup = {
     },
     {
       invariantKind: "departure",
-      statement: "Where a branch holds several prices the dearest is taken.",
+      statement: "Where a branch has several prices the dearest is taken.",
     },
   ],
 } as const satisfies Module

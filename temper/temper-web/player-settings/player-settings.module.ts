@@ -21,7 +21,7 @@ export const playerSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "These three sections read the copy hooks-inventory-settings holds.",
+      statement: "These three sections read the copy hooks-inventory-settings has.",
     },
     {
       invariantKind: "departure",

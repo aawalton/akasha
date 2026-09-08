@@ -17,12 +17,11 @@ export const upstreamLeafReading = {
     },
     {
       invariantKind: "constraint",
-      statement: "A table holding a sequence is carried out of Lua before that table is walked.",
+      statement: "A table with a sequence is carried out of Lua before that table is walked.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An upstream dump holding no leaf beside a ported dump holding no leaf is refused.",
+      statement: "An upstream dump with no leaf beside a ported dump holding no leaf is refused.",
     },
 
     {

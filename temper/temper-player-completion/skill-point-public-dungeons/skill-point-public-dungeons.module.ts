@@ -9,7 +9,7 @@ export const skillPointPublicDungeons = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "No page holds a public dungeon.",
+      statement: "No page has a public dungeon.",
     },
     {
       invariantKind: "departure",

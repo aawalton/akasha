@@ -10,7 +10,7 @@ export const questsTraceBuffer = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The buffer holds the number of entries the cap names.",
+      statement: "The buffer has the number of entries the cap names.",
     },
     {
       invariantKind: "departure",
