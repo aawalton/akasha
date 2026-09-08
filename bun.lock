@@ -167,6 +167,12 @@
         "zod": "^4.3.6",
       },
     },
+    "alan/harness/day": {
+      "name": "@akasha/day",
+      "dependencies": {
+        "@akasha/digit-padding": "workspace:*",
+      },
+    },
     "alan/harness/errors-client": {
       "name": "@akasha/errors-client",
       "dependencies": {
@@ -612,12 +618,6 @@
     },
     "context": {
       "name": "@akasha/context",
-    },
-    "day": {
-      "name": "@akasha/day",
-      "dependencies": {
-        "@akasha/digit-padding": "workspace:*",
-      },
     },
     "design/badges": {
       "name": "@akasha/design-badges",
@@ -2996,7 +2996,7 @@
 
     "@akasha/context": ["@akasha/context@workspace:context"],
 
-    "@akasha/day": ["@akasha/day@workspace:day"],
+    "@akasha/day": ["@akasha/day@workspace:alan/harness/day"],
 
     "@akasha/design-badges": ["@akasha/design-badges@workspace:design/badges"],
 
