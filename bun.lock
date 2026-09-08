@@ -226,6 +226,9 @@
     "alan/harness/location-traces-access": {
       "name": "@akasha/location-traces-access",
     },
+    "alan/harness/rules-engine": {
+      "name": "@akasha/rules-engine",
+    },
     "alan/harness/sms-access": {
       "name": "@akasha/sms-access",
       "dependencies": {
@@ -1463,9 +1466,6 @@
         "@akasha/seat-system": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
-    },
-    "rules-engine": {
-      "name": "@akasha/rules-engine",
     },
     "seat-system": {
       "name": "@akasha/seat-system",
@@ -3143,7 +3143,7 @@
 
     "@akasha/royal-road": ["@akasha/royal-road@workspace:collections/royal-road"],
 
-    "@akasha/rules-engine": ["@akasha/rules-engine@workspace:rules-engine"],
+    "@akasha/rules-engine": ["@akasha/rules-engine@workspace:alan/harness/rules-engine"],
 
     "@akasha/seat-system": ["@akasha/seat-system@workspace:seat-system"],
 
