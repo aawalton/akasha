@@ -45,15 +45,19 @@ export const harnessCall = {
     },
     {
       invariantKind: "departure",
-      statement: "A command's file is named beside the command's page rather than assembled.",
+      statement: "A command the server does not answer is spawned as the dispatcher on PATH.",
     },
     {
       invariantKind: "departure",
       statement: "A command is named to the harness by its name rather than by its file.",
     },
     {
-      invariantKind: "constraint",
-      statement: "A command the index names no single page for is refused as unreachable.",
+      invariantKind: "departure",
+      statement: "A command's own file exports an answering function and prints nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name no command carries is refused by the dispatcher rather than here.",
     },
     {
       invariantKind: "departure",

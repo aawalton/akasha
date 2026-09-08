@@ -1,17 +1,9 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import * as path from "node:path"
-import { COMMANDS_SERVED } from "@akasha/command-system/commands-served"
-import {
-  akashaRoot,
-  commandFile,
-  HarnessUnreachableError,
-  serverPath,
-} from "./harness-call.module.code.ts"
+import { akashaRoot, dispatcherPath, serverPath } from "./harness-call.module.code.ts"
 
 const CHECKOUT = path.join(import.meta.dir, "..", "..")
-
-const SPAWNED = "apply"
 
 function within(named: string): string {
   return path.relative(akashaRoot(), named)
@@ -23,25 +15,9 @@ describe("the files the harness names", () => {
     expect(existsSync(path.join(CHECKOUT, "command-system", "commands"))).toBe(true)
   })
 
-  test("a command's file is the one sitting beside that command's page", () => {
-    expect(within(commandFile("work-tree"))).toBe(
-      path.join("commands", "pages", "work-tree", "work-tree.command.code.ts")
-    )
-  })
-
-  test("every served command has the file the index names for it", () => {
-    const missing = COMMANDS_SERVED.filter(
-      (command) => !existsSync(path.join(CHECKOUT, within(commandFile(command))))
-    )
-    expect(missing).toEqual([])
-  })
-
-  test("a command the server does not answer has the file the index names for it", () => {
-    expect(existsSync(path.join(CHECKOUT, within(commandFile(SPAWNED))))).toBe(true)
-  })
-
-  test("a command the index names no single page for is refused rather than spawned", () => {
-    expect(() => commandFile("this-names-no-command")).toThrow(HarnessUnreachableError)
+  test("a command the server does not answer is spawned as the dispatcher on PATH", () => {
+    expect(within(dispatcherPath())).toBe(path.join("command-system", "cli", "cli.module.code.ts"))
+    expect(existsSync(path.join(CHECKOUT, within(dispatcherPath())))).toBe(true)
   })
 
   test("the command server has the file its assembled path names", () => {

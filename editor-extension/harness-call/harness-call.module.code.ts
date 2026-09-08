@@ -4,7 +4,6 @@ import * as os from "node:os"
 import * as path from "node:path"
 import { promisify } from "node:util"
 import { answerBytesSaid } from "@akasha/command-system/answer-bytes"
-import { commandFileIn } from "@akasha/command-system/calling"
 import { isServed } from "@akasha/command-system/commands-served"
 import {
   askServed,
@@ -23,6 +22,12 @@ const SERVER_AT = "command-system/command-server/command-server.module.code.ts"
 
 export function serverPath(): string {
   return path.join(akashaRoot(), SERVER_AT)
+}
+
+const DISPATCHER_AT = "command-system/cli/cli.module.code.ts"
+
+export function dispatcherPath(): string {
+  return path.join(akashaRoot(), DISPATCHER_AT)
 }
 
 const BUN_DIRECTORIES = [path.join(os.homedir(), ".bun", "bin")]
@@ -124,18 +129,6 @@ export function disposeCommandServer(): undefined {
   return undefined
 }
 
-export function commandFile(command: string): string {
-  const root = akashaRoot()
-  const beside = commandFileIn(root, command)
-  if (beside === null) {
-    throw new HarnessUnreachableError(
-      `the index at ${root} names no single page for \`${command}\`, ` +
-        `so nothing says which file holds that command`
-    )
-  }
-  return path.join(root, beside)
-}
-
 export async function runCommand(
   command: string,
   args: readonly string[],
@@ -148,5 +141,10 @@ export async function runCommand(
     }
     return whole(command, answer.stdout, answer.stderr)
   }
-  return run(command, path.join(bunDirectory(), "bun"), [commandFile(command), ...args], options)
+  return run(
+    command,
+    path.join(bunDirectory(), "bun"),
+    [dispatcherPath(), command, ...args],
+    options
+  )
 }
