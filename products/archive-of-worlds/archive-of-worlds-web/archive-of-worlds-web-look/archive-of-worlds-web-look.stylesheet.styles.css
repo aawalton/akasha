@@ -1,6 +1,7 @@
 @import "tailwindcss";
 @import "@akasha/design-system/styles.css";
 
+@source "../../../../alan/harness/supabase-rr/**/*.{ts,tsx}";
 @source "../../../../design/badges/**/*.{ts,tsx}";
 @source "../../../../design/forms/**/*.{ts,tsx}";
 @source "../../../../design/layout/**/*.{ts,tsx}";
@@ -9,4 +10,3 @@
 @source "../../../../design/system/**/*.{ts,tsx}";
 @source "../../../../errors-client/**/*.{ts,tsx}";
 @source "../../../../pages/ui/**/*.{ts,tsx}";
-@source "../../../../supabase-rr/**/*.{ts,tsx}";

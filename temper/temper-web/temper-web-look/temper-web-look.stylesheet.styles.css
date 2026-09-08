@@ -3,6 +3,7 @@
 @import "@akasha/design-system/styles.css";
 @import "tw-animate-css";
 
+@source "../../../alan/harness/supabase-rr/**/*.{ts,tsx}";
 @source "../../../design/badges/**/*.{ts,tsx}";
 @source "../../../design/forms/**/*.{ts,tsx}";
 @source "../../../design/layout/**/*.{ts,tsx}";
@@ -11,7 +12,6 @@
 @source "../../../design/system/**/*.{ts,tsx}";
 @source "../../../errors-client/**/*.{ts,tsx}";
 @source "../../../pages/ui/**/*.{ts,tsx}";
-@source "../../../supabase-rr/**/*.{ts,tsx}";
 @source "../../temper-characters-equipment-ui/**/*.{ts,tsx}";
 @source "../../temper-player-completion-skills-morphs-ui/**/*.{ts,tsx}";
 @source "../../temper-player-completion-ui/**/*.{ts,tsx}";

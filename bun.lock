@@ -178,6 +178,21 @@
         "@supabase/supabase-js": "^2.104.0",
       },
     },
+    "alan/harness/supabase-rr": {
+      "name": "@akasha/supabase-rr",
+      "dependencies": {
+        "@akasha/pages-url": "workspace:*",
+        "@akasha/supabase-auth": "workspace:*",
+        "@supabase/ssr": "^0.10.2",
+        "@supabase/supabase-js": "^2.104.0",
+        "cookie": "^1.0.2",
+        "zod": "^4.3.6",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
+        "react-router": ">=7",
+      },
+    },
     "alan/library/book-of-everything": {
       "name": "@akasha/book-of-everything",
       "dependencies": {
@@ -1513,21 +1528,6 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
-      },
-    },
-    "supabase-rr": {
-      "name": "@akasha/supabase-rr",
-      "dependencies": {
-        "@akasha/pages-url": "workspace:*",
-        "@akasha/supabase-auth": "workspace:*",
-        "@supabase/ssr": "^0.10.2",
-        "@supabase/supabase-js": "^2.104.0",
-        "cookie": "^1.0.2",
-        "zod": "^4.3.6",
-      },
-      "peerDependencies": {
-        "react": "^18 || ^19",
-        "react-router": ">=7",
       },
     },
     "supabase-server": {
@@ -3223,7 +3223,7 @@
 
     "@akasha/supabase-client": ["@akasha/supabase-client@workspace:alan/harness/supabase-client"],
 
-    "@akasha/supabase-rr": ["@akasha/supabase-rr@workspace:supabase-rr"],
+    "@akasha/supabase-rr": ["@akasha/supabase-rr@workspace:alan/harness/supabase-rr"],
 
     "@akasha/supabase-server": ["@akasha/supabase-server@workspace:supabase-server"],
 
