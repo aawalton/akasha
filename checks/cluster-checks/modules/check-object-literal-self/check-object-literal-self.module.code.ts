@@ -30,7 +30,7 @@ function topLevelGroup(filePath: string): string {
 }
 
 function messageOf(v: ObjectLiteralSelfFinding): string {
-  return `object-literal method \`${v.name}\` declares \`this: void\` — drop it (TSTL colon-call shifts every argument by one)`
+  return `object-literal method \`${v.name}\` declares \`this: void\` — drop it (a Lua colon-call shifts every argument by one)`
 }
 
 function formatViolation(v: ObjectLiteralSelfFinding): string {
