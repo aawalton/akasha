@@ -23,6 +23,18 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "An apply given no message says the act and the paths that apply lands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That message is composed by the rule every other landing composes by.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No apply commits a message describing nothing that apply landed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The bodies an apply lands are handed in.",
     },
     {
