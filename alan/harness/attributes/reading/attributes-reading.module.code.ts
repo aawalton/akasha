@@ -1,13 +1,14 @@
+import { saidBy } from "@akasha/command-system/fault-saying"
 import { getEsoDayStr } from "@akasha/day/eso-day"
 import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
 import { charismaIn } from "@akasha/readout-system/attribute-charisma"
 import { fetchConstitutionPoints } from "@akasha/readout-system/attribute-constitution"
 import { enduranceIn } from "@akasha/readout-system/attribute-endurance"
 import { intelligenceIn } from "@akasha/readout-system/attribute-intelligence"
-import { strengthIn } from "@akasha/readout-system/attribute-strength"
 import { wisdomIn } from "@akasha/readout-system/attribute-wisdom"
 import type { Row } from "@akasha/readout-system/readout-asking"
 import { keepReading } from "@akasha/readout-system/readout-reading"
+import { strengthIn } from "../../../attributes/readouts/attribute-strength/attribute-strength.readout.code.ts"
 import {
   wakeDayOf,
   wakeDayWindow,
@@ -51,10 +52,6 @@ export type Taken = {
   readonly unread: readonly string[]
 }
 
-export function whyOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
-
 async function trackedDay(day: string): Promise<Readonly<Record<string, unknown>> | null> {
   const asked = await askDayByDate(day)
   if (!asked.ok) {
@@ -92,23 +89,25 @@ async function constitutionOf(now: Date): Promise<number> {
   return fetchConstitutionPoints(askingIn(checkout), window.from, window.to)
 }
 
+const OFF_THE_DAY = [
+  STRENGTH_PAGE,
+  ENDURANCE_PAGE,
+  WISDOM_PAGE,
+  INTELLIGENCE_PAGE,
+  CHARISMA_PAGE,
+] as const
+
+const NO_DAY_KEPT = "no tracking day is kept for this day, so no attribute can be read off one"
+
 export async function readAttributes(now: Date = new Date()): Promise<Taken> {
   const kept: Record<string, number> = {}
   const unread: string[] = []
-  // AN ATTRIBUTE NOTHING CAN BE READ FOR SAYS SO. A reading of null is what a tile shows as no
-  // signal, and a run that keeps one attribute of six exits 0 with nothing on the error stream, so
-  // systemd reports a service that delivers a sixth of its readings as healthy. Naming the page is
-  // what makes a dark tile visible in the journal.
   const keep = (page: string, value: number | null): undefined => {
     if (value === null) {
       unread.push(`${page} — the tracking day carries nothing this attribute reads`)
       return undefined
     }
     kept[page] = value
-    return undefined
-  }
-  const wanting = (pages: readonly string[], why: string): undefined => {
-    for (const page of pages) unread.push(`${page} — ${why}`)
     return undefined
   }
 
@@ -118,13 +117,10 @@ export async function readAttributes(now: Date = new Date()): Promise<Taken> {
   ])
 
   if (constitution.status === "fulfilled") keep(CONSTITUTION_PAGE, constitution.value)
-  else wanting([CONSTITUTION_PAGE], whyOf(constitution.reason))
+  else unread.push(`${CONSTITUTION_PAGE} — ${saidBy(constitution.reason)}`)
 
   if (day.status === "rejected") {
-    wanting(
-      [STRENGTH_PAGE, ENDURANCE_PAGE, WISDOM_PAGE, INTELLIGENCE_PAGE, CHARISMA_PAGE],
-      whyOf(day.reason)
-    )
+    for (const page of OFF_THE_DAY) unread.push(`${page} — ${saidBy(day.reason)}`)
   } else if (day.value !== null) {
     const values = day.value
     keep(STRENGTH_PAGE, strengthIn(values))
@@ -134,20 +130,14 @@ export async function readAttributes(now: Date = new Date()): Promise<Taken> {
 
     const [charisma] = await Promise.allSettled([charismaOf(values)])
     if (charisma.status === "fulfilled") keep(CHARISMA_PAGE, charisma.value)
-    else wanting([CHARISMA_PAGE], whyOf(charisma.reason))
+    else unread.push(`${CHARISMA_PAGE} — ${saidBy(charisma.reason)}`)
   } else {
-    wanting(
-      [STRENGTH_PAGE, ENDURANCE_PAGE, WISDOM_PAGE, INTELLIGENCE_PAGE, CHARISMA_PAGE],
-      "no tracking day is kept for this day, so no attribute can be read off one"
-    )
+    for (const page of OFF_THE_DAY) unread.push(`${page} — ${NO_DAY_KEPT}`)
   }
 
   return { kept, unread }
 }
 
-// A READING IS WORKED OUT AND KEPT IN TWO STEPS. A caller that only wants the figures asks for the
-// reading alone, so the working out is not tied to a write, and nothing has to undo a value it
-// never meant to keep.
 export async function takeReadings(root: string, now: Date = new Date()): Promise<Taken> {
   const taken = await readAttributes(now)
   for (const [page, value] of Object.entries(taken.kept)) keepReading(root, page, value, now)

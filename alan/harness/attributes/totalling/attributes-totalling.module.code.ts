@@ -1,3 +1,4 @@
+import { saidBy } from "@akasha/command-system/fault-saying"
 import { kebabisedRow } from "@akasha/pages/akasha-page-values"
 import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-service/asking"
@@ -5,8 +6,8 @@ import { charismaIn } from "@akasha/readout-system/attribute-charisma"
 import { fetchConstitutionPoints } from "@akasha/readout-system/attribute-constitution"
 import { enduranceIn } from "@akasha/readout-system/attribute-endurance"
 import { intelligenceIn } from "@akasha/readout-system/attribute-intelligence"
-import { strengthIn } from "@akasha/readout-system/attribute-strength"
 import { wisdomIn } from "@akasha/readout-system/attribute-wisdom"
+import { strengthIn } from "../../../attributes/readouts/attribute-strength/attribute-strength.readout.code.ts"
 import { wakeDayWindow } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
 import { askingIn } from "../../plants/reading/plants-reading.module.code.ts"
 import {
@@ -18,7 +19,6 @@ import {
   spelledBack,
   type Taken,
   WISDOM_PAGE,
-  whyOf,
 } from "../reading/attributes-reading.module.code.ts"
 
 const WAKE_DAY = "wake-day"
@@ -45,9 +45,6 @@ const NO_CHECKOUT =
 
 const NOTHING_COUNTED = "no day Alan tracked carries what this attribute counts"
 
-// EVERY ATTRIBUTE IS COUNTED FROM ONE DAY RATHER THAN FROM WHERE ITS OWN TRACKING REACHES BACK TO.
-// Alan ruled the totals count from this day, so the six figures are counted over the same span
-// rather than each attribute reaching back as far as its own tracking happens to run.
 export const ATTRIBUTES_COUNTED_FROM = "2026-09-06"
 
 export type Day = Readonly<Record<string, unknown>>
@@ -71,10 +68,6 @@ export const OVER_THE_DAYS: readonly Summing[] = [
   { page: CHARISMA_PAGE, pointsOf: charismaOf },
 ]
 
-// A DAY CARRYING NOTHING FOR AN ATTRIBUTE ADDS NOTHING RATHER THAN ZERO. Points are counted forward
-// from the day an attribute begins, so every day before that day answers null, and an attribute no
-// day answers for at all stays absent. A sum that started at zero would draw a total Alan has not
-// earned, which is the one figure the column must never carry.
 export function totalOver(
   days: readonly Day[],
   pointsOf: (day: Day) => number | null
@@ -88,16 +81,10 @@ export function totalOver(
   return held
 }
 
-// A DATE IS COMPARED AS TEXT RATHER THAN AS A DATE. A day states its date as YYYY-MM-DD, and that
-// spelling sorts as text exactly as the days themselves fall, so deciding which days count builds
-// no date and loads no calendar.
 export function daysCounted(days: readonly Day[]): readonly Day[] {
   return days.filter((day) => String(day[DATE] ?? "") >= ATTRIBUTES_COUNTED_FROM)
 }
 
-// EVERY DAY IS READ IN ONE ASK RATHER THAN ONE ASK TO THE DAY. Every day Alan tracked is read here
-// and the days that count are picked out after, so asking day by day would put a hundred and more
-// reads behind a single figure.
 export function daysTracked(root: string): readonly Day[] {
   const asked = asking(root, { pageTypeSlug: WAKE_DAY, keys: DAY_KEYS } as never)
   if ("refused" in asked) {
@@ -110,9 +97,6 @@ export function daysTracked(root: string): readonly Day[] {
   return days
 }
 
-// THE PLANTS ARE COUNTED OVER ONE SPAN RATHER THAN DAY BY DAY. A food entry states the instant it
-// happened at rather than the day it belongs to, and the wake days run end to end, so a span from
-// the first day's opening to the last day's close holds each entry exactly once.
 export function spanTracked(days: readonly Day[]): { readonly from: string; readonly to: string } {
   const first = days[0]
   const last = days[days.length - 1]
@@ -139,8 +123,8 @@ export async function totalAttributes(root: string): Promise<Taken> {
   try {
     days = daysTracked(root)
   } catch (thrown) {
-    for (const summing of OVER_THE_DAYS) unread.push(`${summing.page} — ${whyOf(thrown)}`)
-    unread.push(`${CONSTITUTION_PAGE} — ${whyOf(thrown)}`)
+    for (const summing of OVER_THE_DAYS) unread.push(`${summing.page} — ${saidBy(thrown)}`)
+    unread.push(`${CONSTITUTION_PAGE} — ${saidBy(thrown)}`)
     return { kept, unread }
   }
 
@@ -154,7 +138,7 @@ export async function totalAttributes(root: string): Promise<Taken> {
 
   const [constitution] = await Promise.allSettled([constitutionOver(counted)])
   if (constitution.status === "fulfilled") kept[CONSTITUTION_PAGE] = constitution.value
-  else unread.push(`${CONSTITUTION_PAGE} — ${whyOf(constitution.reason)}`)
+  else unread.push(`${CONSTITUTION_PAGE} — ${saidBy(constitution.reason)}`)
 
   return { kept, unread }
 }
