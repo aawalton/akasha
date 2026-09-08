@@ -111,6 +111,11 @@ export const renameFilePage = {
       statement:
         "A file the page claims and the rename leaves behind is refused by the guard named here.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A way's name is restated though the reached move restated that way's path already.",
+    },
   ],
   changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanical

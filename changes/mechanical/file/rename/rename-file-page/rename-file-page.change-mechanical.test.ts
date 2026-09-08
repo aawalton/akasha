@@ -12,21 +12,11 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   ledgerAt,
-  type Reaching,
-  type World,
   worldAt,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { runChange as changePageProperty } from "../../../file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
-import { runChange as changeImports } from "../../../file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as renameExport } from "../../../file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
-import { runChange as renamePageAddress } from "../../../file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
-import { runChange as renamePageSlug } from "../../../file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
-import { runChange as moveFile } from "../../move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as moveFileCode } from "../../move/move-file-code/move-file-code.change-mechanical.code.ts"
 import { runChange } from "./rename-file-page.change-mechanical.code.ts"
 import {
   movesOf,
@@ -35,6 +25,7 @@ import {
   OWNED_PAGE,
   OWNED_UNDER,
   ownedAt,
+  RUNS,
   SEATED_PAGE,
   SEATED_SLUG,
   SECOND_PAGE,
@@ -44,7 +35,11 @@ import {
   WARDED_LANDS_SOPS,
   WARDED_PAGE,
   WARDED_SOPS,
+  WAY_MANIFEST,
+  WAY_PAGE,
   wardedAt,
+  wayAt,
+  worldIn,
 } from "./rename-file-page.change-mechanical.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -117,35 +112,6 @@ const otherAt: string = indexedRepo({
   [OTHER_PAGE]: statedAs(OTHER_VALUE, "otherOne"),
   [OTHER_CODE]: "export const kept = 2\n",
 })
-
-const RUNS: Reaching = async (world, at, given) => {
-  if (at === "change-mechanical-file-content/rename-page-slug") {
-    return await renamePageSlug(world, given as Parameters<typeof renamePageSlug>[1])
-  }
-  if (at === "change-mechanical-file/move-file") {
-    return moveFile(world, given as Parameters<typeof moveFile>[1])
-  }
-  if (at === "change-mechanical/move-file-code") {
-    return await moveFileCode(world, given as Parameters<typeof moveFileCode>[1])
-  }
-  if (at === "change-mechanical-file-content/change-page-page-property") {
-    return changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
-  }
-  if (at === "change-mechanical-file-content/rename-export") {
-    return renameExport(world, given as Parameters<typeof renameExport>[1])
-  }
-  if (at === "change-mechanical-file-content/change-imports") {
-    return changeImports(world, given as Parameters<typeof changeImports>[1])
-  }
-  if (at === "change-mechanical-file-content/rename-page-address") {
-    return await renamePageAddress(world, given as Parameters<typeof renamePageAddress>[1])
-  }
-  return refusing(`\`${at}\` is reached by nothing here`)
-}
-
-function worldIn(root: string, textOf: (path: string) => string | null): World {
-  return worldAt(root, textOf, RUNS)
-}
 
 test("a body that could not be read is refused", async () => {
   const said = await runChange(
@@ -387,4 +353,13 @@ test("a page renamed over a ledger is carried once rather than a second time", a
     [HELD_CODE, CARRIED_CODE],
   ])
   expect(bodiesIn(said, was).get(CARRIED_PAGE) ?? "").toContain(`"slug": "${CARRIED}"`)
+})
+
+test("a way named for the old slug is named for the new slug", async () => {
+  const was = textIn(wayAt)
+  const said = await runChange(worldIn(wayAt, was), { at: WAY_PAGE, to: CARRIED })
+  expect(said.refused).toBe(null)
+  expect(bodiesIn(said, was).get(WAY_MANIFEST)).toContain(
+    `"./${CARRIED}": "./${CARRIED}/${CARRIED}.module.code.ts"`
+  )
 })

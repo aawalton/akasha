@@ -231,8 +231,6 @@ function waySplices(way: Way, text: string, was: string, to: string): readonly S
     if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
     const value = one.initializer
     if (!ts.isStringLiteral(value)) continue
-    const next = way.moved.get(join(folder, value.text))
-    if (next === undefined) continue
     if (one.name.text === `.${UNDER}${was}`) {
       found.push({
         from: one.name.getStart(source),
@@ -240,6 +238,8 @@ function waySplices(way: Way, text: string, was: string, to: string): readonly S
         put: JSON.stringify(`.${UNDER}${to}`),
       })
     }
+    const next = way.moved.get(join(folder, value.text))
+    if (next === undefined) continue
     found.push({
       from: value.getStart(source),
       to: value.getEnd(),
