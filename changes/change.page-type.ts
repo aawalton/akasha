@@ -109,5 +109,14 @@ export const change = {
       invariantKind: "departure",
       statement: "A change naming a page rather than a path names it for what the page is here.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change acts only on a target whose kind narrows the subtype that change states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That subtype is judged before the change runs rather than inside the change.",
+    },
   ],
 } as const satisfies PageType

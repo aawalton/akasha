@@ -31,11 +31,6 @@ export const aineAuditChangeGuards = {
         "`change-code-file` is landed. The rename guard belongs on `change-page-file` because id and slug are page properties. `change-file.change-mechanical` refuses inline where the body reads null and needs that body to work the passage out, so that refusal is structural rather than a guard that was missed.",
     },
     {
-      statement: "The target a change acts on is factored out of the changes that carry one.",
-      workingMemory:
-        "Every change already spells its target one way: `at` for the path acted on, `from` and `to` for a carry, `page` and `to` where a page is named rather than a path, `spot` for an offset. Nothing repeats in reading the target. What repeats is the refusal restating the subtype the page already declares, spelled its own way in each change. `move-file-code` is handed a page's own file, so such a check wants the subtypes to descend from one another first.\n",
-    },
-    {
       statement: "The mode a change runs in is factored out of the changes that carry one.",
       workingMemory:
         "A change answers edits rather than writing them, and some roads take a dry run or a draft. What varies between those roads is a mode the change is handed rather than a branch each change writes.",
