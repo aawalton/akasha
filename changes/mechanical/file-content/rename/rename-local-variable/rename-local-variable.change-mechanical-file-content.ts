@@ -18,9 +18,5 @@ export const renameLocalVariable = {
       invariantKind: "departure",
       statement: "The offset handed in is named `spot` rather than `at`.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The path a change acts on is named `at` wherever a change is reached.",
-    },
   ],
 } as const satisfies ChangeMechanicalFileContent

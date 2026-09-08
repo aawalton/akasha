@@ -33,7 +33,7 @@ export const aineAuditChangeGuards = {
     {
       statement: "The target a change acts on is factored out of the changes that carry one.",
       workingMemory:
-        "Every mechanical change is handed the path or the page it acts on, and each works that argument out again. The census to take is which changes read `at`, which read `from` and `to`, and which read an address, before anything is factored.",
+        "Every change already spells its target one way: `at` for the path acted on, `from` and `to` for a carry, `page` and `to` where a page is named rather than a path, `spot` for an offset. Nothing repeats in reading the target. What repeats is the refusal restating the subtype the page already declares, spelled its own way in each change. `move-file-code` is handed a page's own file, so such a check wants the subtypes to descend from one another first.\n",
     },
     {
       statement: "The mode a change runs in is factored out of the changes that carry one.",

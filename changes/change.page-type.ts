@@ -95,5 +95,17 @@ export const change = {
       statement:
         "The kind of file a path names is read from one module rather than worked out in each change.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The path a change acts on is named `at`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The paths a change carries a thing between are named `from` and `to`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change naming a page rather than a path names it for what the page is here.",
+    },
   ],
 } as const satisfies PageType
