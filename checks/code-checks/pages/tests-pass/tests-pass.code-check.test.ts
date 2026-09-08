@@ -11,7 +11,7 @@ import {
   gone,
   proposing,
 } from "../../../modules/check-scratch/check-scratch.module.code.ts"
-import { namedIn, reasonOf, tailOf, testsPass } from "./tests-pass.code-check.code.ts"
+import { namedIn, reasonOf, saidOf, testsPass } from "./tests-pass.code-check.code.ts"
 
 const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
 
@@ -217,13 +217,20 @@ test("one test file is counted in the singular", () => {
   expect(said).toContain("1 of 3 tests failed")
 })
 
-test("the end of the run is what is kept, with its color taken out", () => {
+test("the color the runner painted the output with is taken out", () => {
   const painted = `${String.fromCharCode(27)}[31mheld${String.fromCharCode(27)}[0m`
-  expect(tailOf(painted)).toBe("held")
+  expect(saidOf(painted)).toBe("held")
+})
+
+test("a blank line the runner printed is taken out", () => {
+  expect(saidOf("one\n\n   \ntwo")).toBe("one\ntwo")
+})
+
+test("the whole run is carried rather than the end of the run", () => {
   const many = Array.from({ length: 200 }, (_, at) => `line ${at}`).join("\n")
-  const said = tailOf(many)
+  const said = saidOf(many)
+  expect(said).toContain("line 0\n")
   expect(said).toContain("line 199")
-  expect(said).not.toContain("line 0\n")
 })
 
 test("the reason names a file where it stands in the change, not in the world it ran in", () => {

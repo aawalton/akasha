@@ -12,8 +12,6 @@ import {
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
-const KEPT = 40
-
 const SHOWN = 1
 
 function testedBeside(path: string, shadow: Shadow): boolean {
@@ -42,11 +40,11 @@ export function namedIn(change: Change): readonly string[] {
   return [...held].sort()
 }
 
-export function tailOf(output: string): string {
-  const lines = plain(output)
+export function saidOf(output: string): string {
+  return plain(output)
     .split("\n")
     .filter((one) => one.trim() !== "")
-  return lines.slice(-KEPT).join("\n")
+    .join("\n")
 }
 
 export function counted(many: number): string {
@@ -68,18 +66,18 @@ export function reasonOf(ran: Ran, named: readonly string[]): string {
   if (ran.verdict === "slow") return slowlyOf(ran)
   if (ran.verdict === "fail") {
     const held = (ran.summary.passed ?? 0) + (ran.summary.failed ?? 0)
-    return `${ran.summary.failed} of ${held} tests failed, over ${over}:\n${tailOf(ran.output)}`
+    return `${ran.summary.failed} of ${held} tests failed, over ${over}:\n${saidOf(ran.output)}`
   }
   if (ran.verdict === "short") {
     return (
       `${ran.summary.files} of the ${named.length} test files named ran, so the ones that did ` +
-      `pass say nothing about the rest. A file that will not load is counted here as not run:\n${tailOf(ran.output)}`
+      `pass say nothing about the rest. A file that will not load is counted here as not run:\n${saidOf(ran.output)}`
     )
   }
   const ended = endingOf(ran.code, ran.signal)
   return (
     `the run printed no summary, so nothing says the tests ran at all — it ${ended}. ` +
-    `This is the runner failing, not a test:\n${tailOf(ran.output)}`
+    `This is the runner failing, not a test:\n${saidOf(ran.output)}`
   )
 }
 

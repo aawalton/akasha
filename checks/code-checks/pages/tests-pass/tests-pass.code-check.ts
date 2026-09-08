@@ -85,6 +85,26 @@ export const testsPass = {
       statement: "A slow run is reported against the first file over the ceiling.",
     },
     {
+      invariantKind: "departure",
+      statement: "The whole output of the run is carried in the refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The color the runner painted the output with is taken out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A blank line the runner printed is taken out.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No count of lines is kept from the output.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How much of a refusal one answer carries is settled where the apply answers.",
+    },
+    {
       invariantKind: "gap",
       statement: "A failing run is reported against the first test file the run named.",
     },
