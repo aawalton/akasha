@@ -31,10 +31,6 @@ export function missing(key: string): string {
   return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
 }
 
-export function answered(edits: readonly Edit[]): Answer {
-  return { edits: edits.flatMap(narrowed), refused: null }
-}
-
 export function stating(edits: readonly Stated[]): Said {
   return { edits, refused: null }
 }
