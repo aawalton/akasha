@@ -215,6 +215,7 @@ export const clusterCheck = {
     "module/ts-exhaustive-dispatch",
     "module/ts-file-iteration",
     "module/ts-harness-credential-script-text",
+    "module/ts-import-graph-list-imports",
   ],
   properties: [
     {
