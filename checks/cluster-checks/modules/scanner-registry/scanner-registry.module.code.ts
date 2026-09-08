@@ -1,4 +1,3 @@
-import { boundaryParseEntry } from "../check-boundary-parse/check-boundary-parse.module.code.ts"
 import {
   componentLayoutHeadStylesEntry,
   componentLayoutJsxEntry,
@@ -21,7 +20,6 @@ export const SYNTAX_SCANNER_ENTRIES: readonly SyntaxScannerEntry[] = [
   typeAssertionsEntry,
   noVoidReturnEntry,
   exhaustiveDispatchEntry,
-  boundaryParseEntry,
   timezoneHandlingEntry,
   sopsSpawnPipeEntry,
   harnessCredentialScriptTextEntry,
