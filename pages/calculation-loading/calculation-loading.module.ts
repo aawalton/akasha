@@ -18,7 +18,44 @@ export const calculationLoading = {
     },
     {
       invariantKind: "departure",
-      statement: "A code file importing a value rather than a type does not load.",
+      statement: "A code file importing a value that is no computed-property-module does not load.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An import of a computed-property-module's code file is folded into the text before it runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That module's text runs in a scope of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only the names the import asks for leave that scope.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A computed-property-module importing another is folded the same way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name the import renames is read under the name the import gives it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An import reaching no file refuses the load by the path that import reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An import naming what that module does not export refuses the load by that name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller hands in the path a code file came from and a reader of a path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relative import is resolved against the path the caller handed in.",
     },
     {
       invariantKind: "departure",

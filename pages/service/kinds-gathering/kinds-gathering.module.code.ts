@@ -8,7 +8,7 @@ import {
   type Valued,
   valuesOfType,
 } from "@akasha/indexes"
-import { workIn } from "@akasha/pages/calculation-loading"
+import { type TextOf, workIn } from "@akasha/pages/calculation-loading"
 import {
   type Computed,
   computingOver,
@@ -78,14 +78,19 @@ export function kindsFor(root: string, pageTypeSlug: string): readonly string[] 
   return [...under].sort()
 }
 
-function codeAt(root: string, path: string): string | null {
-  const beside = path.replace(/\.ts$/, CODE)
-  const at = isAbsolute(beside) ? beside : join(root, beside)
-  try {
-    return readFileSync(at, "utf8")
-  } catch {
-    return null
+function textOver(root: string): TextOf {
+  return (path) => {
+    const at = isAbsolute(path) ? path : join(root, path)
+    try {
+      return readFileSync(at, "utf8")
+    } catch {
+      return null
+    }
   }
+}
+
+function codeAt(path: string): string {
+  return path.replace(/\.ts$/, CODE)
 }
 
 export function computedFor(root: string, carried: readonly Carried[]): readonly Computed[] {
@@ -97,13 +102,15 @@ export function computedFor(root: string, carried: readonly Carried[]): readonly
     if (slug !== null && !bySlug.has(slug)) bySlug.set(slug, one)
   }
   const found: Computed[] = []
+  const textOf = textOver(root)
   for (const one of wanted) {
     const page = bySlug.get(one.pagePropertySlug)
-    const body = page === undefined ? null : codeAt(root, page.path)
+    const at = page === undefined ? null : codeAt(page.path)
+    const body = at === null ? null : textOf(at)
     const loaded =
-      body === null
+      at === null || body === null
         ? { failed: `\`${one.pagePropertySlug}\` names no code file beside its page` }
-        : workIn(body)
+        : workIn(body, at, textOf)
     const held =
       "failed" in loaded
         ? () => {
@@ -130,9 +137,6 @@ export type Counted = {
   readonly dark: ReadonlyMap<string, string>
 }
 
-// THE ROWS A QUERY ASKED FOR ARE NOT EVERY PAGE A CALCULATION REACHES. A rollup sums over the pages
-// of another page type entirely, so a reach falling outside those rows is answered from the index,
-// and the page it answers carries the calculations that page's own page type declares.
 function reachingIn(
   root: string,
   own: ReadonlyMap<string, Subject>,

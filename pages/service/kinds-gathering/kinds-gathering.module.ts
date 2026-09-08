@@ -32,6 +32,19 @@ export const kindsGathering = {
     },
     {
       invariantKind: "departure",
+      statement: "The loader is handed the path a calculation's code file is at and a reader.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That reader answers the text at any path, so an import a calculation takes folds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rows a query asked for are not every page a calculation reaches.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A row is keyed by its path.",
     },
     {
