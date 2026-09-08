@@ -64,11 +64,6 @@ export type Ran = {
   readonly verdict: Verdict
 }
 
-export type World = {
-  readonly root: string
-  readonly sweep: () => undefined
-}
-
 export type Grouping = {
   readonly preloads: readonly string[]
   readonly named: string[]
