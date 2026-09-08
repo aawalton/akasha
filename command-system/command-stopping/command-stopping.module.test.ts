@@ -7,12 +7,13 @@ test("the seconds a command is allowed are read off that command's own page", ()
   expect(secondsIn({ timeout: 5 })).toBe(5)
 })
 
-test("a page stating no seconds is allowed thirty", () => {
+test("a page stating no seconds is allowed a hundred and twenty", () => {
+  expect(ALLOWED).toBe(120)
   expect(secondsIn({})).toBe(ALLOWED)
   expect(secondsIn(null)).toBe(ALLOWED)
 })
 
-test("a page stating seconds that are no number above nothing is allowed thirty", () => {
+test("a page stating seconds that are no number above nothing is allowed the same", () => {
   expect(secondsIn({ timeout: "5" })).toBe(ALLOWED)
   expect(secondsIn({ timeout: 0 })).toBe(ALLOWED)
   expect(secondsIn({ timeout: -1 })).toBe(ALLOWED)
@@ -36,4 +37,8 @@ test("the watch says why before ending the process", () => {
 test("what is said names the call and the seconds that call was allowed", () => {
   expect(saidOf(NAMED, 30)).toContain(NAMED)
   expect(saidOf(NAMED, 30)).toContain("30 seconds")
+})
+
+test("what is said sends a ceiling that wants raising to Alan", () => {
+  expect(saidOf(NAMED, 30)).toContain("Ask Alan")
 })

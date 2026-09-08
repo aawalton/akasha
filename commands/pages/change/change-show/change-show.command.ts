@@ -8,7 +8,6 @@ export const changeShow = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-authored",
-  timeout: 30,
   helpNotes: [
     "the arguments a show takes are piped in, as the arguments a change takes are.",
     "nothing on the command line carries a value, so no shell reads a quote or a backslash.",

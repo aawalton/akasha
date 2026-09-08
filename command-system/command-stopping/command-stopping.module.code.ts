@@ -2,7 +2,7 @@ const TIMEOUT = "timeout"
 
 const SECONDS = 1000
 
-export const ALLOWED = 30
+export const ALLOWED = 120
 
 export type Watch = { readonly ended: () => void }
 
@@ -12,7 +12,10 @@ export function secondsIn(page: Record<string, unknown> | null): number {
 }
 
 export function saidOf(named: string, seconds: number): string {
-  return `\`${named}\` ran past the ${seconds} seconds its page allows, so the call was stopped`
+  return (
+    `\`${named}\` ran past the ${seconds} seconds its page allows, so the call was stopped. ` +
+    `Ask Alan where you think that ceiling needs raising.`
+  )
 }
 
 export function watchOf(seconds: number, said: string, pid: number): string {

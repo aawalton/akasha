@@ -12,7 +12,7 @@ export const timeout = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command stating no seconds here is allowed thirty.",
+      statement: "A command stating no seconds here is allowed a hundred and twenty.",
     },
     {
       invariantKind: "departure",
@@ -25,6 +25,10 @@ export const timeout = {
     {
       invariantKind: "departure",
       statement: "A command reaching for a slow thing states the seconds that thing takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Alan settles a raise rather than the agent the ceiling stopped.",
     },
   ],
 } as const satisfies NumberProperty

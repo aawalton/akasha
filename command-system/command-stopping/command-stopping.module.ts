@@ -14,11 +14,12 @@ export const commandStopping = {
     },
     {
       invariantKind: "departure",
-      statement: "A page stating no seconds is allowed thirty.",
+      statement: "A page stating no seconds is allowed a hundred and twenty.",
     },
     {
       invariantKind: "departure",
-      statement: "A page stating seconds that are no number above nothing is allowed thirty.",
+      statement:
+        "A page stating seconds that are no number above nothing is allowed a hundred and twenty.",
     },
     {
       invariantKind: "departure",
@@ -36,6 +37,10 @@ export const commandStopping = {
     {
       invariantKind: "departure",
       statement: "What is said names the call and the seconds that call was allowed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is said sends a ceiling that wants raising to Alan.",
     },
     {
       invariantKind: "departure",
