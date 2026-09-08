@@ -13,7 +13,7 @@ export const traceInsert = {
     },
     {
       invariantKind: "departure",
-      statement: "A batch carrying a trace is refused with an error.",
+      statement: "A batch with a trace is refused with an error.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const traceInsert = {
     },
     {
       invariantKind: "departure",
-      statement: "A batch carrying no trace is answered with a count of zero.",
+      statement: "A batch with no trace is answered with a count of zero.",
     },
     {
       invariantKind: "departure",

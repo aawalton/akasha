@@ -11,7 +11,7 @@ export const altool = {
     {
       invariantKind: "departure",
       statement:
-        "a non-zero altool exit carrying no parseable verdict leaves the build unvalidated rather than valid",
+        "a non-zero altool exit with no parseable verdict leaves the build unvalidated rather than valid",
     },
     {
       invariantKind: "constraint",

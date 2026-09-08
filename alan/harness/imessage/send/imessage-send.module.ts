@@ -9,8 +9,7 @@ export const imessageSend = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Every value the script carries is base64 encoded before the shell reads the value.",
+      statement: "Every value the script has is base64 encoded before the shell reads the value.",
     },
     {
       invariantKind: "departure",

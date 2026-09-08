@@ -10,7 +10,7 @@ export const inboxReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is taken on the workstation carrying the checkout.",
+      statement: "The reading is taken on the workstation with the checkout.",
     },
     {
       invariantKind: "departure",

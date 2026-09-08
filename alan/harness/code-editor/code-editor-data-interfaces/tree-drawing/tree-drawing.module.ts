@@ -4,7 +4,7 @@ export const treeDrawing = {
   id: "01a07290-1f4c-7a63-9e21-58c0bd47e3f2",
   pageTypeSlug: "module",
   slug: "tree-drawing",
-  definition: "each tree the editor draws put into the one row every tree carries",
+  definition: "each tree the editor draws put into the one row every tree has",
   code: "ts",
   invariants: [
     {
@@ -19,15 +19,15 @@ export const treeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A commands row carries the words that command is called by.",
+      statement: "A commands row has the words that command is called by.",
     },
     {
       invariantKind: "departure",
-      statement: "A commands row carries the definition that command's own page states.",
+      statement: "A commands row has the definition that command's own page states.",
     },
     {
       invariantKind: "departure",
-      statement: "Every row of every tree carries the same four names for the same four facts.",
+      statement: "Every row of every tree has the same four names for the same four facts.",
     },
     {
       invariantKind: "departure",
@@ -39,11 +39,11 @@ export const treeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A domains row carries its champion as the description the panel draws.",
+      statement: "A domains row has its champion as the description the panel draws.",
     },
     {
       invariantKind: "departure",
-      statement: "A work row carries the kind that row is among the work tree's two kinds.",
+      statement: "A work row has the kind that row is among the work tree's two kinds.",
     },
     {
       invariantKind: "departure",

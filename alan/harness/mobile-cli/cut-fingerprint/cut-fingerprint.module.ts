@@ -35,7 +35,7 @@ export const cutFingerprint = {
     },
     {
       invariantKind: "departure",
-      statement: "The last cut is the `mobile-cut` page carrying the highest build number.",
+      statement: "The last cut is the `mobile-cut` page with the highest build number.",
     },
     {
       invariantKind: "departure",

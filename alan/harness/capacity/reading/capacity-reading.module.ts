@@ -9,7 +9,7 @@ export const capacityReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is taken on the workstation carrying the checkout.",
+      statement: "The reading is taken on the workstation with the checkout.",
     },
     {
       invariantKind: "departure",
@@ -65,11 +65,11 @@ export const capacityReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A stretch carrying no capacity is left out of the sum.",
+      statement: "A stretch with no capacity is left out of the sum.",
     },
     {
       invariantKind: "departure",
-      statement: "A day where no stretch carries a capacity is no reading.",
+      statement: "A day where no stretch has a capacity is no reading.",
     },
     {
       invariantKind: "departure",

@@ -26,7 +26,7 @@ export const simMacbook = {
     },
     {
       invariantKind: "constraint",
-      statement: "build-sim.sh reports success by printing a BUILD_SIM_OK line carrying the udid.",
+      statement: "build-sim.sh reports success by printing a BUILD_SIM_OK line with the udid.",
     },
   ],
 } as const satisfies Module

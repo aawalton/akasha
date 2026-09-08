@@ -18,7 +18,7 @@ export const simSession = {
     },
     {
       invariantKind: "departure",
-      statement: "A session file carrying an unrecognised field parses as null.",
+      statement: "A session file with an unrecognised field parses as null.",
     },
     {
       invariantKind: "constraint",

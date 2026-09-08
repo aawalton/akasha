@@ -17,7 +17,7 @@ export const sender = {
     },
     {
       invariantKind: "departure",
-      statement: "An address with no separator carries an empty domain.",
+      statement: "An address with no separator has an empty domain.",
     },
   ],
 } as const satisfies Module

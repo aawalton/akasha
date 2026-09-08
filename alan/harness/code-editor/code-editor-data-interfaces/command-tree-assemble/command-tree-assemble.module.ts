@@ -37,7 +37,7 @@ export const commandTreeAssemble = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carries the whole name the harness is called by.",
+      statement: "A row has the whole name the harness is called by.",
     },
     {
       invariantKind: "departure",

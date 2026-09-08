@@ -10,7 +10,7 @@ export const foundation = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "the native shells carry no lockfile of their own",
+      statement: "the native shells have no lockfile of their own",
     },
     {
       invariantKind: "departure",

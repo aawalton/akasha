@@ -4,7 +4,7 @@ export const sampleShape = {
   id: "01a05bc7-9129-7001-9204-f43ce2046c31",
   pageTypeSlug: "module",
   slug: "sample-shape",
-  definition: "what a health reading carries, and the metrics one can be",
+  definition: "what a health reading has, and the metrics one can be",
   code: "ts",
   invariants: [
     {
@@ -13,8 +13,7 @@ export const sampleShape = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A stored reading carries the instant the reading arrived on top of the value read.",
+      statement: "A stored reading has the instant the reading arrived on top of the value read.",
     },
     {
       invariantKind: "absence",

@@ -31,7 +31,7 @@ export const sampleSelecting = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carrying a metric other than the metric asked for is dropped.",
+      statement: "A row with a metric other than the metric asked for is dropped.",
     },
     {
       invariantKind: "departure",

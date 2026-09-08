@@ -15,7 +15,7 @@ export const typedstream = {
     },
     {
       invariantKind: "departure",
-      statement: "Only the first string the body carries is read out.",
+      statement: "Only the first string the body has is read out.",
     },
     {
       invariantKind: "departure",

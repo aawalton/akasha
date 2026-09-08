@@ -16,7 +16,7 @@ export const iosSigning = {
     },
     {
       invariantKind: "constraint",
-      statement: "the macbook is assumed to carry a ruby with an OpenSSL binding already installed",
+      statement: "the macbook is assumed to have a ruby with an OpenSSL binding already installed",
     },
     {
       invariantKind: "departure",

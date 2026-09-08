@@ -10,7 +10,7 @@ export const mobileApp = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The ios-app pages read here are the TypeScript pages akasha carries.",
+      statement: "The ios-app pages read here are the TypeScript pages akasha has.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const mobileApp = {
     },
     {
       invariantKind: "departure",
-      statement: "A repo path carrying no colon is taken to name the code repo.",
+      statement: "A repo path with no colon is taken to name the code repo.",
     },
     {
       invariantKind: "departure",

@@ -4,7 +4,7 @@ export const eventToPage = {
   id: "01a05c22-7bc9-7002-ae46-e40f41cc7836",
   pageTypeSlug: "module",
   slug: "event-to-page",
-  definition: "a feed event turned into the values a calendar event page carries",
+  definition: "a feed event turned into the values a calendar event page has",
   code: "ts",
   invariants: [
     {

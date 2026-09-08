@@ -17,7 +17,7 @@ export const healthExport = {
     },
     {
       invariantKind: "departure",
-      statement: "An Apple date carries its own offset and is read as the instant that date names.",
+      statement: "An Apple date has its own offset and is read as the instant that date names.",
     },
     {
       invariantKind: "departure",

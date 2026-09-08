@@ -4,7 +4,7 @@ export const buildStampGate = {
   id: "01a05cee-e560-7095-8d3c-c3c7cef4babf",
   pageTypeSlug: "module",
   slug: "build-stamp-gate",
-  definition: "the shell that refuses an upload whose binaries do not carry this cut's commit",
+  definition: "the shell that refuses an upload whose binaries do not have this cut's commit",
   code: "ts",
   test: "ts",
   invariants: [
@@ -14,8 +14,7 @@ export const buildStampGate = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A binary carrying no stamp is refused the same as a binary carrying a wrong commit.",
+      statement: "A binary with no stamp is refused the same as a binary carrying a wrong commit.",
     },
     {
       invariantKind: "departure",

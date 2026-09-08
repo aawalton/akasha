@@ -9,7 +9,7 @@ export const attributesReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The readings are taken on the workstation carrying the checkout.",
+      statement: "The readings are taken on the workstation with the checkout.",
     },
     {
       invariantKind: "departure",

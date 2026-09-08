@@ -9,7 +9,7 @@ export const syncAll = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A source carries on its own page the result of its last sync.",
+      statement: "A source has on its own page the result of its last sync.",
     },
     {
       invariantKind: "departure",

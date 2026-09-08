@@ -17,7 +17,7 @@ export const inboxRun = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule carrying a delay claims the message and acts when the delay is up.",
+      statement: "A rule with a delay claims the message and acts when the delay is up.",
     },
     {
       invariantKind: "departure",

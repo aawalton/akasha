@@ -54,11 +54,11 @@ export const attributesTotalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying nothing an attribute counts adds nothing to that attribute.",
+      statement: "A day with nothing an attribute counts adds nothing to that attribute.",
     },
     {
       invariantKind: "departure",
-      statement: "An attribute no day carries a figure for is an absent total.",
+      statement: "An attribute no day has a figure for is an absent total.",
     },
     {
       invariantKind: "departure",
