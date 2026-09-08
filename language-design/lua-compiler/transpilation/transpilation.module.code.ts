@@ -1,5 +1,5 @@
-import * as fs from "fs"
-import * as path from "path"
+import * as fs from "node:fs"
+import * as path from "node:path"
 import * as ts from "typescript"
 import { z } from "zod"
 import {
@@ -53,8 +53,8 @@ export function createVirtualProgram(
   options: CompilerOptions = {}
 ): ts.Program {
   const normalizedFiles: Record<string, string> = {}
-  for (const [path, file] of Object.entries(input)) {
-    normalizedFiles[normalizeSlashes(path)] = file
+  for (const [fileName, file] of Object.entries(input)) {
+    normalizedFiles[normalizeSlashes(fileName)] = file
   }
   const compilerHost: ts.CompilerHost = {
     fileExists: (fileName) => fileName in normalizedFiles || ts.sys.fileExists(fileName),
