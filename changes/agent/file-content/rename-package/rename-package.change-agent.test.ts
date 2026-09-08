@@ -303,14 +303,16 @@ test("every body the rename touches is stated as a replace", () => {
   expect(new Set(said.edits.map((one) => one.kind))).toEqual(new Set(["replace"]))
 })
 
-test("each edit states the body as it was before the change", () => {
+test("each passage sits in the body it was worked out from and is not that body", () => {
   const world = packaged()
   const said = renamePackage(world, { at: INNER_MANIFEST, to: HELD })
   const replacing = said.edits.flatMap((one) => (one.kind === "replace" ? [one] : []))
   expect(said.refused).toBe(null)
   expect(replacing.length).toBe(said.edits.length)
   for (const one of replacing) {
-    expect(one.contentFrom).toBe(world.textOf(one.path) ?? "")
+    const body = world.textOf(one.path) ?? ""
+    expect(body).toContain(one.contentFrom)
+    expect(one.contentFrom.length).toBeLessThan(body.length)
   }
 })
 

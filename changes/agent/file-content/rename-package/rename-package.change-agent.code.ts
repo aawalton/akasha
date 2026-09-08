@@ -12,9 +12,14 @@ import ts from "typescript"
 import {
   missing,
   refusing,
+  splicing,
   stating,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Replacing, Said } from "../../../modules/change-answer/change-answer.module.types.ts"
+import type {
+  Said,
+  Splice,
+  Stated,
+} from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const AT = "at"
@@ -32,8 +37,6 @@ const AFTER = ":"
 const OVER = "@"
 
 const UNRENAMED = "so no package is renamed"
-
-type Splice = { readonly start: number; readonly end: number; readonly said: string }
 
 type Aliased = { readonly opening: string; readonly named: string; readonly range: string }
 
@@ -62,18 +65,8 @@ export function aliasIn(said: string): Aliased | null {
   }
 }
 
-function splicedOver(text: string, found: readonly Splice[]): string {
-  let out = ""
-  let from = 0
-  for (const one of found) {
-    out = `${out}${text.slice(from, one.start)}${one.said}`
-    from = one.end
-  }
-  return `${out}${text.slice(from)}`
-}
-
 function saidAt(source: ts.JsonSourceFile, node: ts.Node, said: string): Splice {
-  return { start: node.getStart(source), end: node.getEnd(), said: JSON.stringify(said) }
+  return { from: node.getStart(source), to: node.getEnd(), put: JSON.stringify(said) }
 }
 
 function overHeld(
@@ -107,23 +100,23 @@ function overHeld(
   if (ts.isStringLiteral(node) && node.text === was) found.push(saidAt(source, node, to))
 }
 
-export function spelledAnew(at: string, text: string, was: string, to: string): string {
+export function spelledAnew(at: string, text: string, was: string, to: string): readonly Splice[] {
   const found: Splice[] = []
   for (const one of placedIn(at, text)) {
     const next = nameFor(one.text, was, to)
     if (next === null) continue
-    found.push({ start: one.start, end: one.end, said: JSON.stringify(next) })
+    found.push({ from: one.start, to: one.end, put: JSON.stringify(next) })
   }
-  return splicedOver(text, found)
+  return found
 }
 
-export function restated(at: string, text: string, was: string, to: string): string {
+export function restated(at: string, text: string, was: string, to: string): readonly Splice[] {
   const source = ts.parseJsonText(at, text)
   const first = source.statements[0]
-  if (first === undefined) return text
+  if (first === undefined) return []
   const found: Splice[] = []
   overHeld(first.expression, source, was, to, found)
-  return splicedOver(text, found)
+  return found
 }
 
 function matchingFor(world: World): Matching | string {
@@ -192,23 +185,18 @@ export function renamePackage(world: World, given: RenamePackageAsked): Said {
   if (said !== null) return refusing(`${said}, ${UNRENAMED}`)
   const reading = importingOf(world.index, reachedIn(given.at, text))
   if ("unread" in reading) return refusing(reading.unread)
-  const edits: Replacing[] = []
-  const own = restated(given.at, text, was, given.to)
-  if (own !== text) {
-    edits.push({ kind: "replace", path: given.at, contentFrom: text, contentTo: own })
-  }
+  const edits: Stated[] = []
+  edits.push(...splicing(given.at, text, restated(given.at, text, was, given.to)))
   for (const path of manifestsOf(world)) {
     if (path === given.at) continue
     const body = world.textOf(path)
     if (body === null || !body.includes(was)) continue
-    const next = restated(path, body, was, given.to)
-    if (next !== body) edits.push({ kind: "replace", path, contentFrom: body, contentTo: next })
+    edits.push(...splicing(path, body, restated(path, body, was, given.to)))
   }
   for (const path of bodiesReaching(world, given, was, reading.importers)) {
     const body = world.textOf(path)
     if (body === null) return refusing(`\`${path}\` reaches this package and could not be read`)
-    const next = spelledAnew(path, body, was, given.to)
-    if (next !== body) edits.push({ kind: "replace", path, contentFrom: body, contentTo: next })
+    edits.push(...splicing(path, body, spelledAnew(path, body, was, given.to)))
   }
   if (given.from !== undefined && edits.length === 0) {
     return refusing(`nothing names \`${given.from}\`, ${UNRENAMED}`)

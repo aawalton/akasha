@@ -13,6 +13,7 @@ import {
   gathered,
   missing,
   refusing,
+  splicing,
   stating,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type {
@@ -238,10 +239,7 @@ function wayEdits(world: World, way: Way, was: string, to: string): readonly Sta
   for (const path of way.importers) {
     const body = world.textOf(path)
     if (body === null) continue
-    const next = spelledAnew(path, body, way.was, way.to)
-    if (next !== body) {
-      edits.push({ kind: "replace", path, contentFrom: body, contentTo: next })
-    }
+    edits.push(...splicing(path, body, spelledAnew(path, body, way.was, way.to)))
   }
   return edits
 }
