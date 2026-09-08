@@ -5,7 +5,7 @@ export const horizontalPressingIsElbowSafe = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "horizontal-pressing-is-elbow-safe",
   title: "Horizontal pressing is elbow-safe",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["push"],
   coachingNoteKind: "programming-cue",
   coachingNoteSortOrder: 2,

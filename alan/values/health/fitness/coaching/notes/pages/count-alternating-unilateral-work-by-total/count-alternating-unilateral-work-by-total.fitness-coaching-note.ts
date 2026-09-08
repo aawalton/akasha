@@ -5,7 +5,7 @@ export const countAlternatingUnilateralWorkByTotal = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "count-alternating-unilateral-work-by-total",
   title: "Count alternating/unilateral work by TOTAL",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["all"],
   coachingNoteKind: "ef-accommodation",
   coachingNoteSortOrder: 4,

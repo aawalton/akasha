@@ -5,7 +5,7 @@ export const bilateralHingesAreLowBackLimited = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "bilateral-hinges-are-low-back-limited",
   title: "Bilateral hinges are low-back-limited",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["legs"],
   coachingNoteKind: "programming-cue",
   coachingNoteSortOrder: 9,

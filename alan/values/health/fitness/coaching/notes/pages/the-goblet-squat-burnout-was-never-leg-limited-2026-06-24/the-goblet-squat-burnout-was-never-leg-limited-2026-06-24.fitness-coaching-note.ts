@@ -5,7 +5,7 @@ export const theGobletSquatBurnoutWasNeverLegLimited20260624 = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "the-goblet-squat-burnout-was-never-leg-limited-2026-06-24",
   title: "The goblet squat burnout was never leg-limited",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["legs"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-24",

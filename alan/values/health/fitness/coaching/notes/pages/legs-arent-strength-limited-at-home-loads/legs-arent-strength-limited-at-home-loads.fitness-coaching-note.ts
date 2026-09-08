@@ -5,7 +5,7 @@ export const legsArentStrengthLimitedAtHomeLoads = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "legs-arent-strength-limited-at-home-loads",
   title: "Legs aren't strength-limited at home loads",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["legs"],
   coachingNoteKind: "programming-cue",
   coachingNoteSortOrder: 8,

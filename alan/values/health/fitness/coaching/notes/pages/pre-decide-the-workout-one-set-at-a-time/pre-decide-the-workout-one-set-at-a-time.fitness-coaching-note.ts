@@ -5,7 +5,7 @@ export const preDecideTheWorkoutOneSetAtATime = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "pre-decide-the-workout-one-set-at-a-time",
   title: "Pre-decide the workout — one set at a time",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["all"],
   coachingNoteKind: "ef-accommodation",
   coachingNoteSortOrder: 10,

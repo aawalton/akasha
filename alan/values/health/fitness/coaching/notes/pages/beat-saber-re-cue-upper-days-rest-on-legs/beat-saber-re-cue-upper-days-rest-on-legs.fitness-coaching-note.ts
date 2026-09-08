@@ -5,7 +5,7 @@ export const beatSaberReCueUpperDaysRestOnLegs = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "beat-saber-re-cue-upper-days-rest-on-legs",
   title: "Beat Saber re-cue (upper days; rest on legs)",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["push", "pull", "upper", "legs"],
   coachingNoteKind: "programming-cue",
   coachingNoteSortOrder: 12,

@@ -5,7 +5,7 @@ export const overheadMobility50NoForcedLockout = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "overhead-mobility-50-no-forced-lockout",
   title: "Overhead mobility ~50% — no forced lockout",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["push"],
   coachingNoteKind: "programming-cue",
   coachingNoteSortOrder: 1,

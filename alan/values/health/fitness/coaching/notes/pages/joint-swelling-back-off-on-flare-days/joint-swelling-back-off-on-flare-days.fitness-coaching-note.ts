@@ -5,7 +5,7 @@ export const jointSwellingBackOffOnFlareDays = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "joint-swelling-back-off-on-flare-days",
   title: "Joint swelling — back off on flare days",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["all"],
   coachingNoteKind: "injury-watch",
   coachingNoteSortOrder: 7,

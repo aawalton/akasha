@@ -5,7 +5,7 @@ export const gripFreeSpineLightPullAfterTheMarathon20260703 = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "grip-free-spine-light-pull-after-the-marathon-2026-07-03",
   title: "Grip-free, spine-light pull after the marathon",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["pull"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-07-03",

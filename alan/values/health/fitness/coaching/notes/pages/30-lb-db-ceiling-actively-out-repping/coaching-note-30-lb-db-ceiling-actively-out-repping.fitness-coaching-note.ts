@@ -5,7 +5,7 @@ export const coachingNote30LbDbCeilingActivelyOutRepping = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "coaching-note-30-lb-db-ceiling-actively-out-repping",
   title: "30 lb DB ceiling — actively out-repping",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["push", "pull"],
   coachingNoteKind: "equipment-ceiling",
   coachingNoteSortOrder: 3,

@@ -5,7 +5,7 @@ export const movementSnacksBetweenTurns20260624 = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "movement-snacks-between-turns-2026-06-24",
   title: "Movement snacks between turns",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["legs", "conditioning"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-24",

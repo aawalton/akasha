@@ -5,7 +5,7 @@ export const firstPullBackAfterTwoWeeksIll20260619 = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "first-pull-back-after-two-weeks-ill-2026-06-19",
   title: "First pull back after two weeks ill",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["pull"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-19",

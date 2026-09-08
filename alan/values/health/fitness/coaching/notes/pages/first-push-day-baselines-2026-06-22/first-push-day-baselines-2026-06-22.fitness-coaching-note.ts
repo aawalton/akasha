@@ -5,7 +5,7 @@ export const firstPushDayBaselines20260622 = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "first-push-day-baselines-2026-06-22",
   title: "First push day — baselines",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["push"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-22",

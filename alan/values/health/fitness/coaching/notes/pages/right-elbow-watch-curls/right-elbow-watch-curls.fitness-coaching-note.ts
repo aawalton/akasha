@@ -5,7 +5,7 @@ export const rightElbowWatchCurls = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "right-elbow-watch-curls",
   title: "Right elbow — watch curls",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["pull"],
   coachingNoteKind: "injury-watch",
   coachingNoteSortOrder: 6,

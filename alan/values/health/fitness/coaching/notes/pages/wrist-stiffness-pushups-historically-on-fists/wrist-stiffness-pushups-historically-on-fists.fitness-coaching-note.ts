@@ -5,7 +5,7 @@ export const wristStiffnessPushupsHistoricallyOnFists = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "wrist-stiffness-pushups-historically-on-fists",
   title: "Wrist stiffness — pushups historically on fists",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["push", "all"],
   coachingNoteKind: "programming-cue",
   says: "txt",

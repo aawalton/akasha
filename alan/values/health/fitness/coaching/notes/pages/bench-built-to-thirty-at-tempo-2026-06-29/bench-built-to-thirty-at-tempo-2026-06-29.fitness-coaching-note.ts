@@ -5,7 +5,7 @@ export const benchBuiltToThirtyAtTempo20260629 = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "bench-built-to-thirty-at-tempo-2026-06-29",
   title: "Bench built to thirty at tempo",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["push"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-29",

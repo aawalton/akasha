@@ -5,7 +5,7 @@ export const postWorkoutProteinDrinkCreatine = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "post-workout-protein-drink-creatine",
   title: "Post-workout: protein drink + creatine",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["all"],
   coachingNoteKind: "programming-cue",
   coachingNoteSortOrder: 11,

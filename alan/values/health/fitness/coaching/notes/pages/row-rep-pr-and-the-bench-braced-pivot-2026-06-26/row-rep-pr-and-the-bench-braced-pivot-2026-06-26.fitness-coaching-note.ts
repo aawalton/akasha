@@ -5,7 +5,7 @@ export const rowRepPrAndTheBenchBracedPivot20260626 = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "row-rep-pr-and-the-bench-braced-pivot-2026-06-26",
   title: "Row rep-PR and the bench-braced pivot",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["pull"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-26",

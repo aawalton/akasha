@@ -5,7 +5,7 @@ export const airQualityIsAHardMedicalGate = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "air-quality-is-a-hard-medical-gate",
   title: "Air quality is a hard medical gate",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["all"],
   coachingNoteKind: "medical-gate",
   coachingNoteSortOrder: 5,

@@ -10,7 +10,7 @@ import type { Says } from "./properties/says.file-property.ts"
 
 export type FitnessCoachingNote = Page & {
   title: Title
-  coachingNoteActive: FitnessCoachingNoteActive
+  active: FitnessCoachingNoteActive
   focusTags: readonly FocusTags[]
   coachingNoteKind: FitnessCoachingNoteKind
   coachingNoteDate?: FitnessCoachingNoteDate

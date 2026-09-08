@@ -5,7 +5,7 @@ export const aSpontaneousBonusSet20260625 = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "a-spontaneous-bonus-set-2026-06-25",
   title: "A spontaneous bonus set",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["push"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-25",

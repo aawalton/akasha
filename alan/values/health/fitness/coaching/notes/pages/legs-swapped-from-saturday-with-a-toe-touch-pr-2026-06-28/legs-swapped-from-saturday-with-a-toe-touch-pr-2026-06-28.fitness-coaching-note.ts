@@ -5,7 +5,7 @@ export const legsSwappedFromSaturdayWithAToeTouchPr20260628 = {
   pageTypeSlug: "fitness-coaching-note",
   slug: "legs-swapped-from-saturday-with-a-toe-touch-pr-2026-06-28",
   title: "Legs swapped from Saturday, with a toe-touch PR",
-  coachingNoteActive: true,
+  active: true,
   focusTags: ["legs"],
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-28",
