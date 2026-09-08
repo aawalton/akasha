@@ -47,6 +47,20 @@ test("a destination named by a constant the write does not spell is followed", (
   expect(said[0]).toContain("line 7")
 })
 
+test("a root a body assigns rather than declares is followed", () => {
+  const said = only(
+    'import { realpathSync, writeFileSync } from "node:fs"\n' +
+      'import { join } from "node:path"\n' +
+      'import { codeRoot } from "@akasha/pages/code-root"\n' +
+      "export function one(): void {\n" +
+      "  let root: string\n" +
+      "  root = realpathSync(codeRoot())\n" +
+      '  writeFileSync(join(root, "a.ts"), "")\n' +
+      "}\n"
+  )
+  expect(said).toHaveLength(1)
+})
+
 test("a root a caller hands in under another name is no checkout root", () => {
   expect(
     only(

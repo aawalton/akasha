@@ -46,7 +46,7 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "departure",
-      statement: "A name built from a rooted name is rooted.",
+      statement: "A name built from a rooted name is rooted, whether declared or assigned later.",
     },
     {
       invariantKind: "departure",

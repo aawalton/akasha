@@ -146,20 +146,29 @@ type Stated = {
   readonly node: ts.Node
 }
 
+function boundOf(node: ts.Node): Stated | null {
+  if (
+    ts.isVariableDeclaration(node) &&
+    ts.isIdentifier(node.name) &&
+    node.initializer !== undefined
+  ) {
+    return { name: node.name.text, names: namesIn(node.initializer), node: node.initializer }
+  }
+  if (
+    ts.isBinaryExpression(node) &&
+    node.operatorToken.kind === ts.SyntaxKind.EqualsToken &&
+    ts.isIdentifier(node.left)
+  ) {
+    return { name: node.left.text, names: namesIn(node.right), node: node.right }
+  }
+  return null
+}
+
 function statedIn(source: ts.SourceFile): readonly Stated[] {
   const found: Stated[] = []
   const walk = (node: ts.Node): undefined => {
-    if (
-      ts.isVariableDeclaration(node) &&
-      ts.isIdentifier(node.name) &&
-      node.initializer !== undefined
-    ) {
-      found.push({
-        name: node.name.text,
-        names: namesIn(node.initializer),
-        node: node.initializer,
-      })
-    }
+    const one = boundOf(node)
+    if (one !== null) found.push(one)
     ts.forEachChild(node, walk)
   }
   ts.forEachChild(source, walk)
