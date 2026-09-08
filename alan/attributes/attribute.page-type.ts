@@ -7,7 +7,7 @@ import type { PointsTotal } from "./properties/points-total.number-property.ts"
 
 export type Attribute = Domain & {
   pointUnit: PointUnit
-  lifetimePoints: LifetimePoints
+  lifetimePoints?: LifetimePoints
   pointsToday?: PointsToday
   pointsTotal?: PointsTotal
 }
