@@ -66,11 +66,15 @@ export const testsPass = {
     },
     {
       invariantKind: "constraint",
-      statement: "The world is swept whatever the run said.",
+      statement: "What was written to serve the bodies is swept whatever the run said.",
     },
     {
       invariantKind: "gap",
       statement: "A failing run is reported against the first test file the run named.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A test reading the index reads the tree's rather than the one the change leaves.",
     },
   ],
 } as const satisfies CodeCheck
