@@ -1,5 +1,7 @@
+import { targetTypes } from "@akasha/temper-skill-kinds/target-types"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const TARGET_TYPE_EAV_SCHEMA = z
   .object({
@@ -28,15 +30,7 @@ function parseTargetType(row: Page): ParsedTargetType {
 export function generateTemperTargetType(rows: readonly Page[]): string {
   const parsed = rows.map(parseTargetType)
 
-  const precedence: Record<string, number> = {
-    self: 0,
-    enemy: 1,
-    ally: 2,
-    "self-and-ally": 3,
-    "self-or-ally": 4,
-    "lowest-health-ally": 5,
-    ground: 6,
-  }
+  const precedence: Record<string, number> = ranksOf(targetTypes.ids)
   const sorted = [...parsed].sort((a, b) => {
     const pa = precedence[a.key] ?? 1_000
     const pb = precedence[b.key] ?? 1_000

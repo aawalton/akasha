@@ -1,5 +1,7 @@
+import { skillTypes } from "@akasha/temper-skill-kinds/skill-types"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const SKILL_TYPE_EAV_SCHEMA = z
   .object({
@@ -32,11 +34,7 @@ function parseSkillType(row: Page): ParsedSkillType {
 export function generateTemperSkillType(rows: readonly Page[]): string {
   const parsed = rows.map(parseSkillType)
 
-  const precedence: Record<string, number> = {
-    active: 0,
-    ultimate: 1,
-    passive: 2,
-  }
+  const precedence: Record<string, number> = ranksOf(skillTypes.ids)
   const sorted = [...parsed].sort((a, b) => {
     const pa = precedence[a.key] ?? 1_000
     const pb = precedence[b.key] ?? 1_000

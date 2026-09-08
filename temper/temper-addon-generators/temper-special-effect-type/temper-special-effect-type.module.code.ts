@@ -1,5 +1,7 @@
+import { specialEffectTypes } from "@akasha/temper-skill-kinds/special-effect-types"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const SPECIAL_EFFECT_TYPE_EAV_SCHEMA = z
   .object({
@@ -28,18 +30,7 @@ function parseSpecialEffectType(row: Page): ParsedSpecialEffectType {
 export function generateTemperSpecialEffectType(rows: readonly Page[]): string {
   const parsed = rows.map(parseSpecialEffectType)
 
-  const precedence: Record<string, number> = {
-    "block-all": 0,
-    "reflect-all": 1,
-    "heal-to-full": 2,
-    "become-invisible": 3,
-    "dodge-next-attack": 4,
-    interrupt: 5,
-    "ignore-resistance": 6,
-    "pull-to-caster": 7,
-    "create-corpse": 8,
-    cleanse: 9,
-  }
+  const precedence: Record<string, number> = ranksOf(specialEffectTypes.ids)
   const sorted = [...parsed].sort((a, b) => {
     const pa = precedence[a.key] ?? 1_000
     const pb = precedence[b.key] ?? 1_000

@@ -1,5 +1,7 @@
+import { skillBars } from "@akasha/temper-skill-kinds/skill-bars"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const SKILL_BAR_EAV_SCHEMA = z
   .object({
@@ -28,10 +30,7 @@ function parseSkillBar(row: Page): ParsedSkillBar {
 export function generateTemperSkillBar(rows: readonly Page[]): string {
   const parsed = rows.map(parseSkillBar)
 
-  const precedence: Record<string, number> = {
-    "primary-skill-bar": 0,
-    "backup-skill-bar": 1,
-  }
+  const precedence: Record<string, number> = ranksOf(skillBars.ids)
   const sorted = [...parsed].sort((a, b) => {
     const pa = precedence[a.key] ?? 1_000
     const pb = precedence[b.key] ?? 1_000

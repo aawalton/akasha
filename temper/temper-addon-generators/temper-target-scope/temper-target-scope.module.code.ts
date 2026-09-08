@@ -1,5 +1,7 @@
+import { targetScopes } from "@akasha/temper-skill-kinds/target-scopes"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const TARGET_SCOPE_EAV_SCHEMA = z
   .object({
@@ -28,12 +30,7 @@ function parseTargetScope(row: Page): ParsedTargetScope {
 export function generateTemperTargetScope(rows: readonly Page[]): string {
   const parsed = rows.map(parseTargetScope)
 
-  const precedence: Record<string, number> = {
-    single: 0,
-    cone: 1,
-    area: 2,
-    line: 3,
-  }
+  const precedence: Record<string, number> = ranksOf(targetScopes.ids)
   const sorted = [...parsed].sort((a, b) => {
     const pa = precedence[a.key] ?? 1_000
     const pb = precedence[b.key] ?? 1_000

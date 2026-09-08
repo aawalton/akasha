@@ -1,5 +1,7 @@
+import { skillSlots } from "@akasha/temper-skill-kinds/skill-slots"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const SKILL_SLOT_EAV_SCHEMA = z
   .object({
@@ -28,14 +30,7 @@ function parseSkillSlot(row: Page): ParsedSkillSlot {
 export function generateTemperSkillSlot(rows: readonly Page[]): string {
   const parsed = rows.map(parseSkillSlot)
 
-  const precedence: Record<string, number> = {
-    "active-1": 0,
-    "active-2": 1,
-    "active-3": 2,
-    "active-4": 3,
-    "active-5": 4,
-    ultimate: 5,
-  }
+  const precedence: Record<string, number> = ranksOf(skillSlots.ids)
   const sorted = [...parsed].sort((a, b) => {
     const pa = precedence[a.key] ?? 1_000
     const pb = precedence[b.key] ?? 1_000

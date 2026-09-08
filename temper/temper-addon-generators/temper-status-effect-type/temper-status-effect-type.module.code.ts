@@ -1,5 +1,7 @@
+import { statusEffectTypes } from "@akasha/temper-skill-kinds/status-effect-types"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const STATUS_EFFECT_TYPE_EAV_SCHEMA = z
   .object({
@@ -28,20 +30,7 @@ function parseStatusEffectType(row: Page): ParsedStatusEffectType {
 export function generateTemperStatusEffectType(rows: readonly Page[]): string {
   const parsed = rows.map(parseStatusEffectType)
 
-  const precedence: Record<string, number> = {
-    stun: 0,
-    fear: 1,
-    immobilize: 2,
-    knockback: 3,
-    knockup: 4,
-    "off-balance": 5,
-    snare: 6,
-    burning: 7,
-    chilled: 8,
-    concussed: 9,
-    taunt: 10,
-    invisible: 11,
-  }
+  const precedence: Record<string, number> = ranksOf(statusEffectTypes.ids)
   const sorted = [...parsed].sort((a, b) => {
     const pa = precedence[a.key] ?? 1_000
     const pb = precedence[b.key] ?? 1_000
