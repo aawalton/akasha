@@ -176,6 +176,16 @@
     "alan/harness/email-inbound": {
       "name": "@akasha/email-inbound",
     },
+    "alan/harness/email-watch": {
+      "name": "@akasha/email-watch",
+      "dependencies": {
+        "@akasha/code": "workspace:*",
+        "@akasha/google-email": "workspace:*",
+        "@akasha/pages": "workspace:*",
+        "@akasha/rules-engine": "workspace:*",
+        "@akasha/seat-system": "workspace:*",
+      },
+    },
     "alan/harness/errors-client": {
       "name": "@akasha/errors-client",
       "dependencies": {
@@ -835,16 +845,6 @@
     "editor-extension/vscode-typings": {
       "name": "@types/vscode",
       "version": "1.110.0",
-    },
-    "email-watch": {
-      "name": "@akasha/email-watch",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/google-email": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/rules-engine": "workspace:*",
-        "@akasha/seat-system": "workspace:*",
-      },
     },
     "file-page-identity": {
       "name": "@akasha/file-page-identity",
@@ -3023,7 +3023,7 @@
 
     "@akasha/email-inbound": ["@akasha/email-inbound@workspace:alan/harness/email-inbound"],
 
-    "@akasha/email-watch": ["@akasha/email-watch@workspace:email-watch"],
+    "@akasha/email-watch": ["@akasha/email-watch@workspace:alan/harness/email-watch"],
 
     "@akasha/errors-client": ["@akasha/errors-client@workspace:alan/harness/errors-client"],
 

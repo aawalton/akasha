@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const inboxPass = {
   id: "01a06948-c4c6-798a-a36f-1d22dd231125",

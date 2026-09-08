@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const emailWatch = {
   id: "01a06596-a92e-7000-b678-5d6232425a71",
