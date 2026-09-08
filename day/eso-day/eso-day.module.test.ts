@@ -1,13 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import { getEsoDayStr, getEsoDayWindow } from "./eso-day.module.code.ts"
+import { getEsoDayStr, getEsoDayWindow, getEsoResetTime } from "./eso-day.module.code.ts"
 
-/**
- * The eso day is US Eastern, and it turns at 06:00 rather than at midnight.
- *
- * That is two facts a reader has to hold at once, and they pull in different directions from the
- * Mountain clock the tracking commands otherwise speak: Eastern is an hour or two ahead of Mountain,
- * and 06:00 Eastern is 04:00 Mountain.
- */
 describe("where the eso day turns", () => {
   test("the reset is 06:00 Eastern, so 05:59 still belongs to the day before", () => {
     expect(getEsoDayStr(new Date("2026-03-05T10:59:00Z"))).toBe("2026-03-04")
@@ -36,6 +29,20 @@ describe("where the eso day turns", () => {
     expect(getEsoDayStr(new Date("2026-11-01T05:59:00Z"))).toBe("2026-10-31")
     expect(getEsoDayStr(new Date("2026-11-01T10:59:00Z"))).toBe("2026-10-31")
     expect(getEsoDayStr(new Date("2026-11-01T11:00:00Z"))).toBe("2026-11-01")
+  })
+
+  test("the morning after springing forward belongs to the day the reset opened", () => {
+    expect(getEsoDayStr(new Date("2026-03-09T04:00:00Z"))).toBe("2026-03-08")
+    expect(getEsoDayStr(new Date("2026-03-09T04:30:00Z"))).toBe("2026-03-08")
+    expect(getEsoDayStr(new Date("2026-03-09T09:59:00Z"))).toBe("2026-03-08")
+    expect(getEsoDayStr(new Date("2026-03-09T10:00:00Z"))).toBe("2026-03-09")
+  })
+
+  test("the morning after falling back belongs to the day the reset opened", () => {
+    expect(getEsoDayStr(new Date("2026-11-02T05:00:00Z"))).toBe("2026-11-01")
+    expect(getEsoDayStr(new Date("2026-11-02T05:30:00Z"))).toBe("2026-11-01")
+    expect(getEsoDayStr(new Date("2026-11-02T10:59:00Z"))).toBe("2026-11-01")
+    expect(getEsoDayStr(new Date("2026-11-02T11:00:00Z"))).toBe("2026-11-02")
   })
 
   test("a month and a year turn at the reset, not at midnight", () => {
@@ -74,11 +81,46 @@ describe("the window a named eso day covers", () => {
     expect(last.end.toISOString()).toBe("2027-01-01T11:00:00.000Z")
   })
 
-  // KNOWN DEFECT: a day string that is no date should be refused; a window of the epoch to the
-  // epoch is an empty range that reads as a real answer and finds nothing.
   test("a day that is no date is answered with the epoch twice, and no refusal", () => {
     const nowhere = getEsoDayWindow("not-a-day")
     expect(nowhere.start.getTime()).toBe(0)
     expect(nowhere.end.getTime()).toBe(0)
+  })
+})
+
+describe("the reset an instant is counted from", () => {
+  test("a plain day is counted from its own 06:00 Eastern", () => {
+    const inside = getEsoResetTime(new Date("2026-01-15T12:00:00Z"))
+    expect(inside.toISOString()).toBe("2026-01-15T11:00:00.000Z")
+    const before = getEsoResetTime(new Date("2026-01-15T10:59:00Z"))
+    expect(before.toISOString()).toBe("2026-01-14T11:00:00.000Z")
+  })
+
+  test("the morning after springing forward is counted from the reset that opened it", () => {
+    const small = getEsoResetTime(new Date("2026-03-09T04:30:00Z"))
+    expect(small.toISOString()).toBe("2026-03-08T10:00:00.000Z")
+    const later = getEsoResetTime(new Date("2026-03-09T06:30:00Z"))
+    expect(later.toISOString()).toBe("2026-03-08T10:00:00.000Z")
+    const last = getEsoResetTime(new Date("2026-03-09T09:59:00Z"))
+    expect(last.toISOString()).toBe("2026-03-08T10:00:00.000Z")
+    const next = getEsoResetTime(new Date("2026-03-09T10:00:00Z"))
+    expect(next.toISOString()).toBe("2026-03-09T10:00:00.000Z")
+  })
+
+  test("the morning after falling back is counted from the reset that opened it", () => {
+    const small = getEsoResetTime(new Date("2026-11-02T05:30:00Z"))
+    expect(small.toISOString()).toBe("2026-11-01T11:00:00.000Z")
+    const later = getEsoResetTime(new Date("2026-11-02T08:00:00Z"))
+    expect(later.toISOString()).toBe("2026-11-01T11:00:00.000Z")
+    const next = getEsoResetTime(new Date("2026-11-02T11:00:00Z"))
+    expect(next.toISOString()).toBe("2026-11-02T11:00:00.000Z")
+  })
+
+  test("the reset an instant is counted from opens that instant's own day", () => {
+    for (const at of ["2026-03-09T04:30:00Z", "2026-11-02T05:30:00Z", "2026-06-01T12:00:00Z"]) {
+      const now = new Date(at)
+      const opened = getEsoDayWindow(getEsoDayStr(now)).start
+      expect(getEsoResetTime(now).getTime()).toBe(opened.getTime())
+    }
   })
 })

@@ -25,5 +25,17 @@ export const esoDay = {
       invariantKind: "departure",
       statement: "Two days are differenced as calendar days rather than as elapsed hours.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A day steps back on the wall clock rather than by a whole day of elapsed time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reset an instant is counted from is the start of that instant's day window.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A day that will not parse is refused rather than answered with an epoch window.",
+    },
   ],
 } as const satisfies Module

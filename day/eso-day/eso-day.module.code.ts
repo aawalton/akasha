@@ -2,38 +2,16 @@ import { dayAfter, dayStrOf, MS_PER_DAY, NOON } from "../string/day-string.modul
 import { nyOffsetMs } from "../us-zone-offset/us-zone-offset.module.code.ts"
 
 export function getEsoResetTime(now: Date): Date {
-  const nowMs = now.getTime()
-  const offset = nyOffsetMs(nowMs)
-  const shifted = new Date(nowMs + offset)
-  const year = shifted.getUTCFullYear()
-  const month = shifted.getUTCMonth()
-  const day = shifted.getUTCDate()
-  const hour = shifted.getUTCHours()
-  const candidateNyMs = Date.UTC(year, month, day, 6, 0, 0, 0)
-  let resetMs = candidateNyMs - offset
-  if (hour < 6 || resetMs > nowMs) {
-    const earlierMs = nowMs - MS_PER_DAY
-    const earlierOffset = nyOffsetMs(earlierMs)
-    const earlierShifted = new Date(earlierMs + earlierOffset)
-    const ey = earlierShifted.getUTCFullYear()
-    const em = earlierShifted.getUTCMonth()
-    const ed = earlierShifted.getUTCDate()
-    const earlierCandidateNyMs = Date.UTC(ey, em, ed, 6, 0, 0, 0)
-    resetMs = earlierCandidateNyMs - earlierOffset
-  }
-  return new Date(resetMs)
+  return getEsoDayWindow(getEsoDayStr(now)).start
 }
 
 export function getEsoDayStr(now: Date): string {
   const nowMs = now.getTime()
-  const offset = nyOffsetMs(nowMs)
-  const shifted = new Date(nowMs + offset)
-  const hour = shifted.getUTCHours()
-  if (hour < 6) {
-    const earlierMs = nowMs - MS_PER_DAY
-    return dayStrOf(new Date(earlierMs + nyOffsetMs(earlierMs)))
-  }
-  return dayStrOf(shifted)
+  const shifted = new Date(nowMs + nyOffsetMs(nowMs))
+  const back = shifted.getUTCHours() < 6 ? 1 : 0
+  return dayStrOf(
+    new Date(Date.UTC(shifted.getUTCFullYear(), shifted.getUTCMonth(), shifted.getUTCDate() - back))
+  )
 }
 
 export function getEsoDayStrAt(at: string): string {
