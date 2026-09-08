@@ -36,6 +36,7 @@ export const codeEditorDataInterface = {
     "code-editor-data-interface/work-tree",
     "code-editor-data-interface/status-bar",
     "code-editor-data-interface/terminal-tabs",
+    "workstation-service/code-editor-data-watcher",
   ],
   properties: [
     { pagePropertySlug: "number-property/cooldown-milliseconds", required: true, many: false },

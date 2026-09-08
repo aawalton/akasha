@@ -20,6 +20,7 @@ export const inbox = {
     "workstation-service/inbox-count-watch-service",
     "workstation-service/inbox-reading-service",
     "workstation-service/inbox-relay-service",
+    "workstation-service/inbox-tracking-poll",
   ],
   invariants: [
     {
