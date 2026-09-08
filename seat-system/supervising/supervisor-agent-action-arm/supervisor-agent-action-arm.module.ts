@@ -4,7 +4,7 @@ export const supervisorAgentActionArm = {
   id: "01a0683e-3dbe-7005-8bd3-faecca604871",
   pageTypeSlug: "module",
   slug: "supervisor-agent-action-arm",
-  definition: "an idle gate armed to hold a restart until the session is between turns",
+  definition: "an idle gate armed to delay a restart until the session is between turns",
   code: "ts",
   invariants: [
     {
