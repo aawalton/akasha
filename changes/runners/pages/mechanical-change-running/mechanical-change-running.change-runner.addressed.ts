@@ -71,6 +71,9 @@ export type Changes = {
   "change-mechanical-file-content/rename-page-address": Parameters<
     typeof import("../../../mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
+  "change-mechanical-file-content/rename-page-addresses": Parameters<
+    typeof import("../../../mechanical/file-content/rename/rename-page-addresses/rename-page-addresses.change-mechanical-file-content.code.ts")["runChange"]
+  >[1]
   "change-mechanical-file-content/rename-page-property-key": Parameters<
     typeof import("../../../mechanical/file-content/rename/rename-page-property-key/rename-page-property-key.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
