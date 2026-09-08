@@ -1,4 +1,4 @@
-import { landedMechanically } from "@akasha/command-system/asking"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { refuseALiveTestWrite } from "@akasha/pages/live-store-write-guard"
 import { asking } from "@akasha/pages-service/asking"
@@ -9,6 +9,8 @@ import type { WriteOutcome } from "../day-narrow-types/day-narrow-types.module.c
 import { WRITER } from "../day-scan-window/day-scan-window.module.code.ts"
 import { personaRecipeRows } from "../persona-recipe-rows/persona-recipe-rows.module.code.ts"
 import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
+
+const PUT = "change-mechanical-file/add-file"
 
 export const PERSONA_DAY_PAGE_TYPE_SLUG = "persona-day"
 
@@ -112,14 +114,14 @@ async function patchPersonaDayFields(
     )
   }
   refuseALiveTestWrite(root, `write ${PERSONA_DAY_PAGE_TYPE_SLUG}/${named}`, "`patchPersonaDay`")
-  const landed = await landedMechanically(
+  const landed = await runMechanicalChange(
     root,
-    WRITER,
-    [{ path: composed.put.path, body: new TextEncoder().encode(composed.put.content) }],
+    [{ at: PUT, given: { at: composed.put.path, body: composed.put.content } }],
     `${WRITER}: the persona day ${named}`
   )
-  if (landed.code !== 0) {
-    throw new Error(`the persona day \`${named}\` did not land: ${landed.refusals.join("; ")}`)
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  if (wrong.length > 0) {
+    throw new Error(`the persona day \`${named}\` did not land: ${wrong.join("; ")}`)
   }
   return held === null ? "created" : "patched"
 }

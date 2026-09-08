@@ -25,6 +25,10 @@ export const personaDayPoints = {
     },
     {
       invariantKind: "departure",
+      statement: "The change adding a file lands the day rather than an edit composed here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A key is written camel.",
     },
   ],
