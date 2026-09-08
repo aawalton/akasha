@@ -92,7 +92,7 @@ export const optionDeclarations: CommandLineOption[] = [
     type: "json-array-of-objects",
   },
   {
-    name: "tstlVerbose",
+    name: "verbose",
     description: "Provide verbose output useful for diagnosing problems.",
     type: "boolean",
   },
