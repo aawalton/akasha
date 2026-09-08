@@ -12,7 +12,7 @@ import type { Judged, Running } from "../judging/judging.module.code.ts"
 
 const MODEL_CHECK_TYPE = "01a05911-aa15-776e-9726-ed4131cd6b51"
 
-const ASKER_AT = "agents/models/modules/asking/model-asking.module.code.ts"
+const ASKER = "module/model-asking"
 
 const UNANSWERED = "did not run, so what it would have judged landed unjudged"
 
@@ -95,7 +95,10 @@ function askedOf(
   model: string,
   prompts: readonly string[]
 ): readonly string[] | null {
-  const said = ran(["bun", "run", join(root, ASKER_AT)], {
+  const page = pathOfSlug(root, ASKER)
+  const asker = besideAt(page, CODE, TS)
+  if (asker === null) throw new Error(`${page} has no code file beside it`)
+  const said = ran(["bun", "run", join(root, asker)], {
     stdin: new TextEncoder().encode(JSON.stringify({ model, prompts })),
     cwd: root,
   })
