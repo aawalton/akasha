@@ -1,7 +1,7 @@
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import { importLuaLibFeature } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { importLuaLibFeature } from "../tstl-lualib/tstl-lualib.module.code.ts"
 
 export function usingTransformer(
   context: TransformationContext

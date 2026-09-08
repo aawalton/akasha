@@ -7,10 +7,10 @@ import {
   getIterableExtensionKindForNode,
   IterableExtensionKind,
 } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
+import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { createUnpackCall } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
-import { transformLuaLibFunction } from "../tstl-lualib/tstl-lualib.module.code.ts"
 import {
   findScope,
   hasReferencedSymbol,

@@ -11,6 +11,7 @@ import {
   ContextType,
   getFunctionContextType,
 } from "../function-context/function-context.module.code.ts"
+import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import {
   createLocalOrExportedOrGlobalDeclaration,
@@ -20,7 +21,6 @@ import {
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { transformLuaLibFunction } from "../tstl-lualib/tstl-lualib.module.code.ts"
 import { transformInPrecedingStatementScope } from "../tstl-preceding-statements/tstl-preceding-statements.module.code.ts"
 import {
   peekScope,

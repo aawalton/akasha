@@ -1,9 +1,9 @@
 import type * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import { importLuaLibFeature } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { unsupportedProperty } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
-import { importLuaLibFeature } from "../tstl-lualib/tstl-lualib.module.code.ts"
 
 export function transformSymbolConstructorCall(
   context: TransformationContext,
