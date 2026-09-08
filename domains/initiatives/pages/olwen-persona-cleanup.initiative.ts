@@ -13,14 +13,9 @@ export const olwenPersonaCleanup = {
   ],
   intents: [
     {
-      statement: "All persona files are organized in the personas/ folder.",
-      workingMemory:
-        "`personas/` holds 2,995 tracked files, the package is named `@akasha/personas`, and `persona.page-type.ts` sits paired with `persona.workspace-package.ts` at its root. What is left is `persona-system/`, holding 40 untracked `*.persona.uncommitted.ts` sidecars no move carried; `akasha remove` refuses a folder holding untracked files, and a shell write into the checkout is refused too.",
-    },
-    {
       statement: "The personas/ folder passes the folder-matches-a-shape check.",
       workingMemory:
-        "The check refuses 110 times: 108 under `persona-days/`, one for `questions/pages`, one for `review-sessions/pages`. Each says the folder holds many pages where a-domain-with-its-parts takes one, and 97 dated folders sit under `persona-days/pages/`. `domains/initiatives/pages/` holds pages and refuses nothing, so a `pages/` folder is legal in some shape, and what tells the two apart is not yet read.",
+        "100 refusals, each from the one enabled many-page shape `pages-of-the-type-above`. 98 are `personas/days/pages/<date>/`: 97 dated folders and a `1901-01-01` sentinel, holding 2079 persona-day pages and no sidecar, refused for a name that is not `pages` and no page type above them. The 2 left are `questions/pages` and `review-sessions/pages`, meeting every clause but the sidecar one: 252 `.question.context.txt` and 2 `.review-session.notes.txt` beside their pages. Page count is never the fault.",
     },
   ],
 } as const satisfies Initiative
