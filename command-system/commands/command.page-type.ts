@@ -89,7 +89,6 @@ export const command = {
     "namespace/measure",
     "namespace/seat",
     "namespace/track",
-    "namespace/exercise",
     "namespace/email",
     "namespace/music",
     "namespace/inference",
