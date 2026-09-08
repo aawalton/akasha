@@ -10,7 +10,7 @@ export const unsungHeroesOfWorldWarIiEurope = {
   unitSlug: "minutes",
   ownLength: 358.8,
   ownProgress: 358.8,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "unsung-heroes-of-world-war-ii-europe",
   externalLink: "https://www.thegreatcoursesplus.com/unsung-heroes-of-world-war-ii-europe",

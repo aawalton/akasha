@@ -9,7 +9,11 @@ export const hannibalTheMilitaryGeniusWhoAlmostConqueredRome = {
   unitSlug: "minutes",
   ownLength: 515.4,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "learning-paths-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "hannibal-the-military-genius-who-almost-conquered-rome",
   externalLink:

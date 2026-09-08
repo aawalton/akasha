@@ -10,7 +10,7 @@ export const pilotLectureTheMythOfPrometheusAndPandora = {
   unitSlug: "minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-the-myth-of-prometheus-and-pandora",
   externalLink:

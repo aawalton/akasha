@@ -10,7 +10,11 @@ export const peoplesAndCulturesOfTheWorld = {
   unitSlug: "minutes",
   ownLength: 723.6,
   ownProgress: 723.6,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "travel-and-culture-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "peoples-and-cultures-of-the-world",
   externalLink: "https://www.thegreatcoursesplus.com/peoples-and-cultures-of-the-world",

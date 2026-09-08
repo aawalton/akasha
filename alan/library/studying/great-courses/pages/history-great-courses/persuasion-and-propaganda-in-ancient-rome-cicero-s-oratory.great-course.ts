@@ -10,7 +10,7 @@ export const persuasionAndPropagandaInAncientRomeCiceroSOratory = {
   unitSlug: "minutes",
   ownLength: 36.6,
   ownProgress: 36.6,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "persuasion-and-propaganda-in-ancient-rome-ciceros-oratory",
   externalLink:

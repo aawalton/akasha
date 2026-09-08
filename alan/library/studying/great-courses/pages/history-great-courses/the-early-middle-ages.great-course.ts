@@ -9,7 +9,11 @@ export const theEarlyMiddleAges = {
   unitSlug: "minutes",
   ownLength: 747,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "learning-paths-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "the-early-middle-ages",
   externalLink: "https://www.thegreatcoursesplus.com/the-early-middle-ages",

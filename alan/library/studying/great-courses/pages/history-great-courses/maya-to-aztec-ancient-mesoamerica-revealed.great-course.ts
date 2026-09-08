@@ -10,7 +10,11 @@ export const mayaToAztecAncientMesoamericaRevealed = {
   unitSlug: "minutes",
   ownLength: 1464,
   ownProgress: 1464,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "travel-and-culture-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "maya-to-aztec-ancient-mesoamerica-revealed",
   externalLink: "https://www.thegreatcoursesplus.com/maya-to-aztec-ancient-mesoamerica-revealed",

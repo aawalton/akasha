@@ -9,7 +9,7 @@ export const skywatchingSeeingAndUnderstandingCosmicWonders = {
   unitSlug: "minutes",
   ownLength: 564.6,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "learning-paths-great-courses",

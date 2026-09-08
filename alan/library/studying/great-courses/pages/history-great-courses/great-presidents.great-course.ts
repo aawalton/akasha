@@ -9,7 +9,7 @@ export const greatPresidents = {
   unitSlug: "minutes",
   ownLength: 1482.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "great-presidents",
   externalLink: "https://www.thegreatcoursesplus.com/great-presidents",

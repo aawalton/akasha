@@ -10,7 +10,7 @@ export const crochetToolkitDesignerTipsAndTricks = {
   unitSlug: "minutes",
   ownLength: 124.2,
   ownProgress: 124.2,
-  partOfSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "crochet-toolkit-designer-tips-tricks",
   externalLink: "https://www.thegreatcoursesplus.com/crochet-toolkit-designer-tips-tricks",

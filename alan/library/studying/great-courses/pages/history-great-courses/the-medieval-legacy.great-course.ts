@@ -10,7 +10,11 @@ export const theMedievalLegacy = {
   unitSlug: "minutes",
   ownLength: 1099.2,
   ownProgress: 1099.2,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "learning-paths-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "the-medieval-legacy",
   externalLink: "https://www.thegreatcoursesplus.com/the-medieval-legacy",

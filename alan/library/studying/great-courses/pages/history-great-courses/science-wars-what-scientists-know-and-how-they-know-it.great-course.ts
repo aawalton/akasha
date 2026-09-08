@@ -9,7 +9,7 @@ export const scienceWarsWhatScientistsKnowAndHowTheyKnowIt = {
   unitSlug: "minutes",
   ownLength: 754.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "science-wars-what-scientists-know-and-how-they-know-it",
   externalLink:

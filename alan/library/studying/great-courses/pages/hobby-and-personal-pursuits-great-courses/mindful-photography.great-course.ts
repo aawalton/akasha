@@ -9,7 +9,7 @@ export const mindfulPhotography = {
   unitSlug: "minutes",
   ownLength: 348.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "mindful-photography",
   externalLink: "https://www.thegreatcoursesplus.com/mindful-photography",

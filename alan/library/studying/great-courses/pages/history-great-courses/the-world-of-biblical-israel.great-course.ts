@@ -10,7 +10,7 @@ export const theWorldOfBiblicalIsrael = {
   unitSlug: "minutes",
   ownLength: 738.6,
   ownProgress: 738.6,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "history-great-courses",
     "philosophy-and-religion-great-courses",

@@ -10,7 +10,7 @@ export const howToPlayPiano = {
   unitSlug: "minutes",
   ownLength: 1118.4,
   ownProgress: 1118.4,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",

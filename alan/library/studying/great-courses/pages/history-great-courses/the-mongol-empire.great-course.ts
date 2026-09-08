@@ -9,7 +9,11 @@ export const theMongolEmpire = {
   unitSlug: "minutes",
   ownLength: 693.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "learning-paths-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "the-mongol-empire",
   externalLink: "https://www.thegreatcoursesplus.com/the-mongol-empire",

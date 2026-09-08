@@ -10,7 +10,7 @@ export const pilotLectureLearningMandarinChineseNumbersAndTones = {
   unitSlug: "minutes",
   ownLength: 36,
   ownProgress: 36,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "literature-great-courses",

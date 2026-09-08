@@ -10,7 +10,11 @@ export const theGreatToursExperiencingMedievalEurope = {
   unitSlug: "minutes",
   ownLength: 728.4,
   ownProgress: 728.4,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "travel-and-culture-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "the-great-tours-experiencing-medieval-europe",
   externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-experiencing-medieval-europe",

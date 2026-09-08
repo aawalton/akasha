@@ -10,7 +10,11 @@ export const theGreatToursFranceThroughTheAges = {
   unitSlug: "minutes",
   ownLength: 724.2,
   ownProgress: 724.2,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "travel-and-culture-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "the-great-tours-france-through-the-ages",
   externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-france-through-the-ages",

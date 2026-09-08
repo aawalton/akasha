@@ -10,7 +10,7 @@ export const aChildrenSGuideToFolkloreAndWonderTales = {
   unitSlug: "minutes",
   ownLength: 754.8,
   ownProgress: 754.8,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "literature-great-courses",

@@ -9,7 +9,7 @@ export const greatBattlesOfTheAncientWorld = {
   unitSlug: "minutes",
   ownLength: 745.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "great-battles-of-the-ancient-world",
   externalLink: "https://www.thegreatcoursesplus.com/great-battles-of-the-ancient-world",

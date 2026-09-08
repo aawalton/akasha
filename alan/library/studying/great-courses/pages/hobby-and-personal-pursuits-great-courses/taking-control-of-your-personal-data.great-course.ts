@@ -9,7 +9,7 @@ export const takingControlOfYourPersonalData = {
   unitSlug: "minutes",
   ownLength: 313.8,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",

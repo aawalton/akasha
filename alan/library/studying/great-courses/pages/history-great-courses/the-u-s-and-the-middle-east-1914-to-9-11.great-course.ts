@@ -9,7 +9,7 @@ export const theUSAndTheMiddleEast1914To911 = {
   unitSlug: "minutes",
   ownLength: 744,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-us-and-the-middle-east-1914-to-911",
   externalLink: "https://www.thegreatcoursesplus.com/the-us-and-the-middle-east-1914-to-911",

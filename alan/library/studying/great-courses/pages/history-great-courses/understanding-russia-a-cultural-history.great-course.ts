@@ -9,7 +9,7 @@ export const understandingRussiaACulturalHistory = {
   unitSlug: "minutes",
   ownLength: 759.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-russia-a-cultural-history",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-russia-a-cultural-history",

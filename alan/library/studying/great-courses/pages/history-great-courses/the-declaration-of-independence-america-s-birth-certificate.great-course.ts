@@ -9,7 +9,7 @@ export const theDeclarationOfIndependenceAmericaSBirthCertificate = {
   unitSlug: "minutes",
   ownLength: 12,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-declaration-of-independence-america-s-birth-certificate",
   externalLink:

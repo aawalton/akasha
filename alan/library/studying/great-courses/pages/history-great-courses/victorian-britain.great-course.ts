@@ -9,7 +9,7 @@ export const victorianBritain = {
   unitSlug: "minutes",
   ownLength: 1107,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "victorian-britain",
   externalLink: "https://www.thegreatcoursesplus.com/victorian-britain",

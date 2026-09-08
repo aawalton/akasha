@@ -9,7 +9,7 @@ export const natureWatchingHowToFindAndObserveWildlife = {
   unitSlug: "minutes",
   ownLength: 417.6,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",

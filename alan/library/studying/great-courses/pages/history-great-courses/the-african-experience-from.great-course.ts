@@ -9,7 +9,7 @@ export const theAfricanExperienceFrom = {
   unitSlug: "minutes",
   ownLength: 1098,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-african-eperience-from-lucy-to-mandela",
   externalLink: "https://www.thegreatcoursesplus.com/the-african-eperience-from-lucy-to-mandela",

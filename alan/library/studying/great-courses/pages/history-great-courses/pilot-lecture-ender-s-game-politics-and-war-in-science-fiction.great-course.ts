@@ -10,7 +10,7 @@ export const pilotLectureEnderSGamePoliticsAndWarInScienceFiction = {
   unitSlug: "minutes",
   ownLength: 30.6,
   ownProgress: 30.6,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "ender-s-game-politics-and-war-in-science-fiction",
   externalLink:

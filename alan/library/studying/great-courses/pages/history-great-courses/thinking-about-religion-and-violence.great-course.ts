@@ -9,7 +9,7 @@ export const thinkingAboutReligionAndViolence = {
   unitSlug: "minutes",
   ownLength: 745.2,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "history-great-courses",
     "philosophy-and-religion-great-courses",

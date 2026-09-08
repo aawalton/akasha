@@ -10,7 +10,7 @@ export const pilotLectureTortureInTheMiddleAgesMythsAndReality = {
   unitSlug: "minutes",
   ownLength: 33,
   ownProgress: 33,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-torture-in-the-middle-ages-myths-and-reality",
   externalLink:

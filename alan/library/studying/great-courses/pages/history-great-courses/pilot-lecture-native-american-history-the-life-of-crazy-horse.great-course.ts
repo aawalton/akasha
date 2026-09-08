@@ -10,7 +10,7 @@ export const pilotLectureNativeAmericanHistoryTheLifeOfCrazyHorse = {
   unitSlug: "minutes",
   ownLength: 27,
   ownProgress: 27,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "native-american-history-the-life-of-crazy-horse",
   externalLink:

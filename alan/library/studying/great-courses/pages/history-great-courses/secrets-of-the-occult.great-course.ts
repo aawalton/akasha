@@ -9,7 +9,7 @@ export const secretsOfTheOccult = {
   unitSlug: "minutes",
   ownLength: 709.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "secrets-of-the-occult",
   externalLink: "https://www.thegreatcoursesplus.com/secrets-of-the-occult",

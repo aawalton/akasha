@@ -9,7 +9,7 @@ export const playingGuitarLikeAProLeadSoloAndGroupPerformance = {
   unitSlug: "minutes",
   ownLength: 763.2,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",

@@ -10,7 +10,11 @@ export const pilotLectureGreatCastlesOfEuropeCaernarfonCastle = {
   unitSlug: "minutes",
   ownLength: 30,
   ownProgress: 30,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "travel-and-culture-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "wondrium-pilots-great-castles-of-europe",
   externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-great-castles-of-europe",

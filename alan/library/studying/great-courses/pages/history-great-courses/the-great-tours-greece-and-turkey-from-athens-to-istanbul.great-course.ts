@@ -10,7 +10,11 @@ export const theGreatToursGreeceAndTurkeyFromAthensToIstanbul = {
   unitSlug: "minutes",
   ownLength: 749.4,
   ownProgress: 749.4,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "travel-and-culture-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "the-great-tours-greece-and-turkey-from-athens-to-istanbul",
   externalLink:

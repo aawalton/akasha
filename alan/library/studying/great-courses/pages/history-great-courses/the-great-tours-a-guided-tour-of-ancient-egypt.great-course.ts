@@ -10,7 +10,11 @@ export const theGreatToursAGuidedTourOfAncientEgypt = {
   unitSlug: "minutes",
   ownLength: 695.4,
   ownProgress: 695.4,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "travel-and-culture-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "the-great-tours-a-guided-tour-of-ancient-egypt",
   externalLink:

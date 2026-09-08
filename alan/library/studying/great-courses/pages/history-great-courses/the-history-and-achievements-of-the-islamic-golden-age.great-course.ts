@@ -9,7 +9,7 @@ export const theHistoryAndAchievementsOfTheIslamicGoldenAge = {
   unitSlug: "minutes",
   ownLength: 732,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "history-great-courses",
     "philosophy-and-religion-great-courses",

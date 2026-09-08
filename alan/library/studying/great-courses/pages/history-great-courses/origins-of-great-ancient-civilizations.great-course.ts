@@ -9,7 +9,7 @@ export const originsOfGreatAncientCivilizations = {
   unitSlug: "minutes",
   ownLength: 370.8,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "origins-of-great-ancient-civilizations",
   externalLink: "https://www.thegreatcoursesplus.com/origins-of-great-ancient-civilizations",

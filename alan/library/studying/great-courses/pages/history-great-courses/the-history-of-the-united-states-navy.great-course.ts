@@ -9,7 +9,7 @@ export const theHistoryOfTheUnitedStatesNavy = {
   unitSlug: "minutes",
   ownLength: 763.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-history-of-the-united-states-navy",
   externalLink: "https://www.thegreatcoursesplus.com/the-history-of-the-united-states-navy",

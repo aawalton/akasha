@@ -9,7 +9,7 @@ export const understandingTheInventionsThatChangedTheWorld = {
   unitSlug: "minutes",
   ownLength: 1053.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-the-inventions-that-changed-the-world",
   externalLink:

@@ -9,7 +9,7 @@ export const theOttomanEmpire = {
   unitSlug: "minutes",
   ownLength: 1135.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-ottoman-empire",
   externalLink: "https://www.thegreatcoursesplus.com/the-ottoman-empire",

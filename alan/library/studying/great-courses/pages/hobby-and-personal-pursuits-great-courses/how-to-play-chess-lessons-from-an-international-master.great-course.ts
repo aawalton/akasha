@@ -9,7 +9,7 @@ export const howToPlayChessLessonsFromAnInternationalMaster = {
   unitSlug: "minutes",
   ownLength: 754.8,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "how-to-play-chess-lessons-from-an-international-master",
   externalLink:

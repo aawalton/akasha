@@ -9,7 +9,7 @@ export const theGreatVillainsOfHistory = {
   unitSlug: "minutes",
   ownLength: 24,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-great-villains-of-history",
   externalLink: "https://plus.thegreatcourses.com/the-great-villains-of-history",

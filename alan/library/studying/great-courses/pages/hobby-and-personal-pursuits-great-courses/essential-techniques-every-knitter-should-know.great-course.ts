@@ -10,7 +10,7 @@ export const essentialTechniquesEveryKnitterShouldKnow = {
   unitSlug: "minutes",
   ownLength: 202.2,
   ownProgress: 202.2,
-  partOfSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "essential-techniques-every-knitter-should-know",
   externalLink:

@@ -10,7 +10,7 @@ export const freeMotionQuiltedGifts = {
   unitSlug: "minutes",
   ownLength: 78.6,
   ownProgress: 78.6,
-  partOfSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "free-motion-quilted-gifts",
   externalLink: "https://www.thegreatcoursesplus.com/free-motion-quilted-gifts",

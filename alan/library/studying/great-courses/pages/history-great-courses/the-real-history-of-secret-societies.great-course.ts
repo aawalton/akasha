@@ -9,7 +9,7 @@ export const theRealHistoryOfSecretSocieties = {
   unitSlug: "minutes",
   ownLength: 759,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-real-history-of-secret-societies",
   externalLink: "https://www.thegreatcoursesplus.com/the-real-history-of-secret-societies",

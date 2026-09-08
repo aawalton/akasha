@@ -10,7 +10,7 @@ export const theMiddleEastInThe20thCentury = {
   unitSlug: "minutes",
   ownLength: 663,
   ownProgress: 663,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-middle-east-in-the-20th-century",
   externalLink: "https://www.thegreatcoursesplus.com/the-middle-east-in-the-20th-century",

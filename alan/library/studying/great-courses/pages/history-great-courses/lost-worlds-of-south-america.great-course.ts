@@ -10,7 +10,11 @@ export const lostWorldsOfSouthAmerica = {
   unitSlug: "minutes",
   ownLength: 714,
   ownProgress: 714,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "travel-and-culture-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "lost-worlds-of-south-america",
   externalLink: "https://www.thegreatcoursesplus.com/lost-worlds-of-south-america",

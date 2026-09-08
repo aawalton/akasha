@@ -10,7 +10,7 @@ export const pilotLectureBlackAmericansAndTheRevolutionaryWar = {
   unitSlug: "minutes",
   ownLength: 36,
   ownProgress: 36,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "plus-pilots-black-americans-and-the-revolutionary-war",
   externalLink:

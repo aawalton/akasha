@@ -9,7 +9,7 @@ export const theHolyLandRevealed = {
   unitSlug: "minutes",
   ownLength: 1121.4,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "history-great-courses",
     "philosophy-and-religion-great-courses",

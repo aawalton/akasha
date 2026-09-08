@@ -9,7 +9,7 @@ export const fundamentalsOfSustainableLiving = {
   unitSlug: "minutes",
   ownLength: 364.2,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",

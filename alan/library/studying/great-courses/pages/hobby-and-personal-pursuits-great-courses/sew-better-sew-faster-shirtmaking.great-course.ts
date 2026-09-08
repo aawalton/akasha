@@ -10,7 +10,7 @@ export const sewBetterSewFasterShirtmaking = {
   unitSlug: "minutes",
   ownLength: 156.6,
   ownProgress: 156.6,
-  partOfSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "sew-better-sew-faster-shirtmaking",
   externalLink: "https://www.thegreatcoursesplus.com/sew-better-sew-faster-shirtmaking",

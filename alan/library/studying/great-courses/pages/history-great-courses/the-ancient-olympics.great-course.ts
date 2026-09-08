@@ -10,7 +10,7 @@ export const theAncientOlympics = {
   unitSlug: "minutes",
   ownLength: 27,
   ownProgress: 27,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-ancient-olympics",
   externalLink: "https://www.thegreatcoursesplus.com/the-ancient-olympics",

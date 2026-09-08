@@ -9,7 +9,7 @@ export const theHistoryOfChristianityIiFromTheReformationToTheModernMega = {
   unitSlug: "minutes",
   ownLength: 1074,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "history-great-courses",
     "philosophy-and-religion-great-courses",

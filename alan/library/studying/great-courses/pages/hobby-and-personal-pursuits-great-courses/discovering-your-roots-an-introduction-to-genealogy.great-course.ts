@@ -9,7 +9,7 @@ export const discoveringYourRootsAnIntroductionToGenealogy = {
   unitSlug: "minutes",
   ownLength: 472.8,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "discovering-your-roots-an-introduction-to-genealogy",
   externalLink:

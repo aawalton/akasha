@@ -9,7 +9,7 @@ export const worldWarIiAMilitaryAndSocialHistory = {
   unitSlug: "minutes",
   ownLength: 910.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "world-war-ii-a-military-and-social-history",
   externalLink: "https://www.thegreatcoursesplus.com/world-war-ii-a-military-and-social-history",

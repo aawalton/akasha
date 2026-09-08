@@ -10,7 +10,7 @@ export const pilotLectureTheHagiaSophiaAndTheBlueMosque = {
   unitSlug: "minutes",
   ownLength: 28.8,
   ownProgress: 28.8,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-the-hagia-sophia-and-the-blue-mosque",
   externalLink:

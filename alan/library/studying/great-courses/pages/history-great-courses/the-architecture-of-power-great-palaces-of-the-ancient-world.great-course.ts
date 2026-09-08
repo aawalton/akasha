@@ -10,7 +10,7 @@ export const theArchitectureOfPowerGreatPalacesOfTheAncientWorld = {
   unitSlug: "minutes",
   ownLength: 777,
   ownProgress: 777,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-architecture-of-power-great-palaces-of-the-ancient-world",
   externalLink:

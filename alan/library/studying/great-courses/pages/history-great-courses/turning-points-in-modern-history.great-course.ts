@@ -9,7 +9,7 @@ export const turningPointsInModernHistory = {
   unitSlug: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "turning-points-in-modern-history",
   externalLink: "https://www.thegreatcoursesplus.com/turning-points-in-modern-history",

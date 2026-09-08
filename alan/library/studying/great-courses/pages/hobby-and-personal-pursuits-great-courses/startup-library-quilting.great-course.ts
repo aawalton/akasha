@@ -10,7 +10,7 @@ export const startupLibraryQuilting = {
   unitSlug: "minutes",
   ownLength: 337.8,
   ownProgress: 337.8,
-  partOfSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "startup-library-quilting",
   externalLink: "https://www.thegreatcoursesplus.com/startup-library-quilting",

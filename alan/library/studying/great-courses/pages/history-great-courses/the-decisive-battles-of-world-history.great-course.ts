@@ -10,7 +10,7 @@ export const theDecisiveBattlesOfWorldHistory = {
   unitSlug: "minutes",
   ownLength: 1113.6,
   ownProgress: 1113.6,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-decisive-battles-of-world-history",
   externalLink: "https://www.thegreatcoursesplus.com/the-decisive-battles-of-world-history",

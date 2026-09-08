@@ -10,7 +10,7 @@ export const beginnerSergingMachineBasicsAndTechniques = {
   unitSlug: "minutes",
   ownLength: 259.2,
   ownProgress: 259.2,
-  partOfSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "beginner-serging-machine-basics-and-techniques",
   externalLink:

@@ -10,7 +10,7 @@ export const learningSpanishIiHowToUnderstandAndSpeakANewLanguage = {
   unitSlug: "minutes",
   ownLength: 1324.8,
   ownProgress: 1324.8,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "literature-great-courses",
