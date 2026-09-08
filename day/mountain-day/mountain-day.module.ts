@@ -6,6 +6,7 @@ export const mountainDay = {
   slug: "mountain-day",
   definition: "the day an instant falls on for someone living on a Denver clock",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -18,6 +19,10 @@ export const mountainDay = {
     {
       invariantKind: "departure",
       statement: "A day ends at the next midnight on the wall rather than a fixed span later.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day steps back on the wall clock rather than by a whole day of elapsed time.",
     },
   ],
 } as const satisfies Module
