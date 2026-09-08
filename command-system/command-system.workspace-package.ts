@@ -31,7 +31,6 @@ export const commandSystem = {
     "module/piping",
     "module/reading",
     "module/restating",
-    "module/searching",
     "module/rooting",
     "module/scratching",
     "module/change-freshness",
