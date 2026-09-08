@@ -25,7 +25,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A change is reached by its address rather than by an import.",
       workingMemory:
-        "Two runners now, each with a map of its own: 18 addresses under `change-agent` and 25 under `change-mechanical` and the four page types beneath it. What is left is five changes importing another change's code for a helper rather than reaching it: `rename-page` and `remove-package-alias` from `rename-package`, `change-page-page-type` from `change-imports`, `remove-package-alias` from `remove-manifest-ways`, `add-page-property` from `add-property-value`. `runAgentChange` has no caller.",
+        "What is left is a change importing another change's code for a helper rather than reaching it: `rename-page` from `rename-package` and from `rename-page-slug`, `remove-package-alias` from `rename-package` and from `remove-manifest-ways`, `change-page-page-type` from `change-imports`, `add-page-property` from `add-property-value`. `runAgentChange` has no caller.",
     },
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
