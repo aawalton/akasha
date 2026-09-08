@@ -15,7 +15,7 @@ function hasThisVoidFirstParam(node: ts.MethodDeclaration): boolean {
   return first.type?.kind === ts.SyntaxKind.VoidKeyword
 }
 
-export function scanTstlObjectLiteralSelf(sf: ts.SourceFile): readonly ObjectLiteralSelfFinding[] {
+export function scanObjectLiteralSelf(sf: ts.SourceFile): readonly ObjectLiteralSelfFinding[] {
   const filePath = sf.fileName
   const out: ObjectLiteralSelfFinding[] = []
 

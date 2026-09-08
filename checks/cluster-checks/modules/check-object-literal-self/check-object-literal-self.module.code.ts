@@ -15,7 +15,7 @@ import {
 import { listTsFiles } from "../ts-file-iteration/ts-file-iteration.module.code.ts"
 import {
   type ObjectLiteralSelfFinding,
-  scanTstlObjectLiteralSelf,
+  scanObjectLiteralSelf,
 } from "../ts-object-literal-self/ts-object-literal-self.module.code.ts"
 import { exitOnResult } from "../violation-reporting/violation-reporting.module.code.ts"
 
@@ -43,7 +43,7 @@ export const tstlObjectLiteralSelfEntry: SyntaxScannerEntry = {
   name: "tstl-object-literal-self",
   findFindings: (sf) => {
     const out: NormalizedFinding[] = []
-    for (const f of scanTstlObjectLiteralSelf(sf)) {
+    for (const f of scanObjectLiteralSelf(sf)) {
       out.push({
         file: f.file,
         line: f.line,
@@ -104,7 +104,7 @@ async function main(): Promise<undefined> {
     },
     pathOf: (rel) => `${repoRoot}/${rel}`,
     scan: (rel, source) =>
-      scanTstlObjectLiteralSelf(
+      scanObjectLiteralSelf(
         ts.createSourceFile(rel, source, ts.ScriptTarget.Latest, true, scriptKindFor(rel))
       ),
   })
