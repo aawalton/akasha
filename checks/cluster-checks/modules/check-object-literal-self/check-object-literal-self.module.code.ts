@@ -14,8 +14,8 @@ import {
 } from "../syntax-scanner-entry/syntax-scanner-entry.module.code.ts"
 import { listTsFiles } from "../ts-file-iteration/ts-file-iteration.module.code.ts"
 import {
+  type ObjectLiteralSelfFinding,
   scanTstlObjectLiteralSelf,
-  type TstlObjectLiteralSelfFinding,
 } from "../ts-object-literal-self/ts-object-literal-self.module.code.ts"
 import { exitOnResult } from "../violation-reporting/violation-reporting.module.code.ts"
 
@@ -29,11 +29,11 @@ function topLevelGroup(filePath: string): string {
   return segs[0] ?? filePath
 }
 
-function messageOf(v: TstlObjectLiteralSelfFinding): string {
+function messageOf(v: ObjectLiteralSelfFinding): string {
   return `object-literal method \`${v.name}\` declares \`this: void\` — drop it (TSTL colon-call shifts every argument by one)`
 }
 
-function formatViolation(v: TstlObjectLiteralSelfFinding): string {
+function formatViolation(v: ObjectLiteralSelfFinding): string {
   return `${v.file}:${v.line}:${v.column} ${messageOf(v)}`
 }
 
@@ -87,7 +87,7 @@ async function main(): Promise<undefined> {
     process.exit(2)
   }
 
-  const { population, violations: findings } = examineFilePopulation<TstlObjectLiteralSelfFinding>({
+  const { population, violations: findings } = examineFilePopulation<ObjectLiteralSelfFinding>({
     files: await listTsFiles({
       repoRoot,
       treeSha: flags.treeSha,

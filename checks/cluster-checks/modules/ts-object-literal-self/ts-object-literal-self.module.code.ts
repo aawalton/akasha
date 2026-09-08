@@ -1,6 +1,6 @@
 import ts from "typescript"
 
-export interface TstlObjectLiteralSelfFinding {
+export interface ObjectLiteralSelfFinding {
   readonly file: string
   readonly line: number
   readonly column: number
@@ -15,11 +15,9 @@ function hasThisVoidFirstParam(node: ts.MethodDeclaration): boolean {
   return first.type?.kind === ts.SyntaxKind.VoidKeyword
 }
 
-export function scanTstlObjectLiteralSelf(
-  sf: ts.SourceFile
-): readonly TstlObjectLiteralSelfFinding[] {
+export function scanTstlObjectLiteralSelf(sf: ts.SourceFile): readonly ObjectLiteralSelfFinding[] {
   const filePath = sf.fileName
-  const out: TstlObjectLiteralSelfFinding[] = []
+  const out: ObjectLiteralSelfFinding[] = []
 
   function visit(node: ts.Node): undefined {
     if (
