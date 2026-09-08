@@ -47,7 +47,6 @@
         "@akasha/upscale": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@akasha/utils-system": "workspace:*",
         "@akasha/wan": "workspace:*",
         "@akasha/zimage": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
@@ -1468,7 +1467,6 @@
         "@akasha/pages": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/utils-system": "workspace:*",
         "@akasha/workspace-paths": "workspace:*",
         "@modelcontextprotocol/sdk": "^1.30.0",
         "zod": "^4.3.6",
@@ -2902,18 +2900,12 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
       },
     },
     "utils/narrow": {
       "name": "@akasha/utils-narrow",
       "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
-    "utils/system": {
-      "name": "@akasha/utils-system",
-      "dependencies": {
-        "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -3494,8 +3486,6 @@
     "@akasha/utils": ["@akasha/utils@workspace:utils"],
 
     "@akasha/utils-narrow": ["@akasha/utils-narrow@workspace:utils/narrow"],
-
-    "@akasha/utils-system": ["@akasha/utils-system@workspace:utils/system"],
 
     "@akasha/verdict": ["@akasha/verdict@workspace:verdict"],
 

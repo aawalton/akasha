@@ -18,12 +18,16 @@
     "./process/proc-reading": "./process/proc-reading/proc-reading.module.code.ts",
     "./process/process-ending": "./process/process-ending/process-ending.module.code.ts",
     "./sync/page-type-props": "./sync/page-type-props/page-type-props.module.code.ts",
-    "./sync/today": "./sync/today/today.module.code.ts"
+    "./sync/today": "./sync/today/today.module.code.ts",
+    "./system/inode-guard": "./system/inode-guard/inode-guard.module.code.ts",
+    "./system/memory-guard": "./system/memory-guard/memory-guard.module.code.ts",
+    "./system/worktree-paths": "./system/worktree-paths/worktree-paths.module.code.ts"
   },
   "dependencies": {
     "@akasha/code": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@akasha/pages-core": "workspace:*"
+    "@akasha/pages-core": "workspace:*",
+    "zod": "^4.3.6"
   }
 }

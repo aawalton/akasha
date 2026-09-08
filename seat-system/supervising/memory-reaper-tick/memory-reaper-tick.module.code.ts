@@ -1,4 +1,4 @@
-import { readMemInfoKb } from "@akasha/utils-system/memory-guard"
+import { readMemInfoKb } from "@akasha/utils/system/memory-guard"
 import {
   GLOBAL_MIN_AVAIL_KB,
   GLOBAL_MIN_FREE_SWAP_KB,
