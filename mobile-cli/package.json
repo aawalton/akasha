@@ -42,7 +42,7 @@
     "@akasha/pages": "workspace:*",
     "@akasha/shell": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
-    "@akasha/utils-fs": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-process": "workspace:*",
     "@akasha/utils-run": "workspace:*",

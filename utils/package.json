@@ -2,6 +2,16 @@
   "name": "@akasha/utils",
   "private": true,
   "type": "module",
-  "exports": {},
-  "dependencies": {}
+  "exports": {
+    "./fs/atomic-write": "./fs/atomic-write/atomic-write.module.code.ts",
+    "./fs/expand-tilde": "./fs/expand-tilde/expand-tilde.module.code.ts",
+    "./fs/file-size": "./fs/file-size/file-size.module.code.ts",
+    "./fs/missing": "./fs/missing/missing.module.code.ts",
+    "./fs/read-stdin-or-file": "./fs/read-stdin-or-file/read-stdin-or-file.module.code.ts",
+    "./fs/text-on-disk": "./fs/text-on-disk/text-on-disk.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/code": "workspace:*",
+    "@akasha/errors-core": "workspace:*"
+  }
 }

@@ -28,7 +28,7 @@ import { refuseStatedParent } from "@akasha/seat-system/seat-stated-parent-refus
 import { type StatedIdentity, spawnSeat } from "@akasha/seat-system/spawn-seat"
 import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
 import type { StatedAgentSlots } from "@akasha/seat-system/supervisor-rebind-deps"
-import { readStdinOrFile } from "@akasha/utils-fs/read-stdin-or-file"
+import { readStdinOrFile } from "@akasha/utils/fs/read-stdin-or-file"
 import {
   composeSeatName,
   FLEET,

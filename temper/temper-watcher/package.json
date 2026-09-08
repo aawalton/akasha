@@ -91,7 +91,7 @@
     "@akasha/temper-player-completion": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
-    "@akasha/utils-fs": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-process": "workspace:*",
     "@akasha/utils-run": "workspace:*",

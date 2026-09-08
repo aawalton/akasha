@@ -22,7 +22,7 @@
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/testing-system": "workspace:*",
-    "@akasha/utils-fs": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "typescript": "5.9.3"
   }
 }

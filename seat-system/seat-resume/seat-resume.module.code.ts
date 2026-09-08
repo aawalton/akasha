@@ -38,7 +38,7 @@ import {
   type TakenSeat,
   takeoverSeat,
 } from "@akasha/seat-system/takeover-seat"
-import { readStdinOrFile } from "@akasha/utils-fs/read-stdin-or-file"
+import { readStdinOrFile } from "@akasha/utils/fs/read-stdin-or-file"
 import { shape } from "@akasha/utils-narrow/shape"
 import { parseWindowDuration } from "../window-duration/window-duration.module.code.ts"
 

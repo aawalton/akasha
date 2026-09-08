@@ -45,7 +45,7 @@
         "@akasha/temper-saved-vars-migration": "workspace:*",
         "@akasha/temper-watcher": "workspace:*",
         "@akasha/upscale": "workspace:*",
-        "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",
         "@akasha/utils-sync": "workspace:*",
@@ -455,7 +455,7 @@
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/testing-system": "workspace:*",
-        "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils": "workspace:*",
         "typescript": "5.9.3",
       },
     },
@@ -473,7 +473,7 @@
         "@akasha/dockerfiles": "workspace:*",
         "@akasha/k8s-synth": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
-        "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-run": "workspace:*",
         "@akasha/workspace-paths": "workspace:*",
@@ -563,7 +563,7 @@
         "@akasha/inference-clients": "workspace:*",
         "@akasha/inference-runs": "workspace:*",
         "@akasha/seat-system": "workspace:*",
-        "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils": "workspace:*",
         "@akasha/wan": "workspace:*",
         "@akasha/zimage": "workspace:*",
       },
@@ -961,7 +961,7 @@
       "dependencies": {
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -1130,7 +1130,7 @@
         "@akasha/pages": "workspace:*",
         "@akasha/shell": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
-        "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",
         "@akasha/utils-run": "workspace:*",
@@ -1455,7 +1455,7 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
-        "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils": "workspace:*",
         "@akasha/utils-run": "workspace:*",
         "@akasha/utils-system": "workspace:*",
         "@akasha/workspace-paths": "workspace:*",
@@ -1530,7 +1530,7 @@
       "name": "@akasha/ssh-access",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
-        "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils": "workspace:*",
       },
     },
     "status-bar-access": {
@@ -2795,7 +2795,7 @@
         "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",
         "@akasha/utils-run": "workspace:*",
@@ -2910,9 +2910,6 @@
     },
     "utils": {
       "name": "@akasha/utils",
-    },
-    "utils/fs": {
-      "name": "@akasha/utils-fs",
       "dependencies": {
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
@@ -3524,8 +3521,6 @@
     "@akasha/upscale": ["@akasha/upscale@workspace:inference/generations/upscale"],
 
     "@akasha/utils": ["@akasha/utils@workspace:utils"],
-
-    "@akasha/utils-fs": ["@akasha/utils-fs@workspace:utils/fs"],
 
     "@akasha/utils-narrow": ["@akasha/utils-narrow@workspace:utils/narrow"],
 

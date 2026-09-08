@@ -3,8 +3,8 @@ import { appendFileSync, existsSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { uncommittedPartAt } from "@akasha/pages/page-file-parts"
-import { sizeOnDisk } from "@akasha/utils-fs/file-size"
-import { textOnDisk } from "@akasha/utils-fs/text-on-disk"
+import { sizeOnDisk } from "@akasha/utils/fs/file-size"
+import { textOnDisk } from "@akasha/utils/fs/text-on-disk"
 
 const ENTRIES = "entries"
 

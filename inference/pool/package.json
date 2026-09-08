@@ -21,7 +21,7 @@
   "dependencies": {
     "@akasha/code": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@akasha/utils-fs": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }

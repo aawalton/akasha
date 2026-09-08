@@ -7,7 +7,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { uncommittedPartAt } from "@akasha/pages/page-file-parts"
-import { sizeOnDisk } from "@akasha/utils-fs/file-size"
+import { sizeOnDisk } from "@akasha/utils/fs/file-size"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 

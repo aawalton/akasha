@@ -274,7 +274,7 @@
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
-    "@akasha/utils-fs": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "@akasha/utils-run": "workspace:*",
     "@akasha/utils-system": "workspace:*",
     "@akasha/workspace-paths": "workspace:*",

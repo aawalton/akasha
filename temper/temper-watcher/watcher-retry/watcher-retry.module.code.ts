@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
+import { writeFileAtomicSync } from "@akasha/utils/fs/atomic-write"
 import { log } from "../watcher-logging/watcher-logging.module.code.ts"
 
 export const MAX_RETRIES = 5

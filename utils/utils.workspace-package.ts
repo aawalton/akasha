@@ -7,7 +7,7 @@ export const utils = {
   definition: "the pieces every domain reaches for and no domain claims",
   manifest: "json",
   partSlugs: [
-    "workspace-package/utils-fs",
+    "domain/utils-fs",
     "workspace-package/utils-narrow",
     "workspace-package/utils-process",
     "workspace-package/utils-run",

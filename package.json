@@ -44,7 +44,7 @@
     "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/temper-saved-vars-migration": "workspace:*",
     "@akasha/temper-watcher": "workspace:*",
-    "@akasha/utils-fs": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-process": "workspace:*",
     "@akasha/utils-sync": "workspace:*",

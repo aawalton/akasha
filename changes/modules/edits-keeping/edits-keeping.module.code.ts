@@ -5,7 +5,7 @@ import { decodeUtf8 } from "@akasha/code/utf8-body"
 import { exclusively } from "@akasha/file-system/exclusive"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
-import { sizeOnDisk } from "@akasha/utils-fs/file-size"
+import { sizeOnDisk } from "@akasha/utils/fs/file-size"
 import { type BodyOf, gathered, NOT_TEXT } from "../change-answer/change-answer.module.code.ts"
 import type { Answer, Held, Reading, Stated } from "../change-answer/change-answer.module.types.ts"
 

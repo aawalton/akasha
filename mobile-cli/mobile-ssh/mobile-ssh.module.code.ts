@@ -2,7 +2,7 @@ import { spawn } from "node:child_process"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { OperationalError } from "@akasha/errors-core/exit-code"
-import { expandTilde } from "@akasha/utils-fs/expand-tilde"
+import { expandTilde } from "@akasha/utils/fs/expand-tilde"
 import {
   MOBILE_SCRATCH_AT,
   remoteRunScriptCommand,

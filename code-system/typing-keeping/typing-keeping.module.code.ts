@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto"
 import { mkdirSync } from "node:fs"
 import { dirname } from "node:path"
-import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
+import { writeFileAtomicSync } from "@akasha/utils/fs/atomic-write"
 import type ts from "typescript"
 
 export function versionOf(text: string): string {

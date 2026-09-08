@@ -7,7 +7,7 @@ import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import { shadowFor } from "@akasha/pages/shadow"
-import { textOnDisk } from "@akasha/utils-fs/text-on-disk"
+import { textOnDisk } from "@akasha/utils/fs/text-on-disk"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 
 const PAGE_TYPE = "page-type"
