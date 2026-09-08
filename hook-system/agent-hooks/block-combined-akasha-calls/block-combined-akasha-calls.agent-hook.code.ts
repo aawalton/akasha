@@ -2,7 +2,7 @@ import { ranAsCommandHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-ans
 
 const HOOK = "block-combined-akasha-calls"
 
-const NAMED = /akasha\s+(read|change|apply)(\s|$)/
+const NAMED = /akasha\s+(read|change)(\s|$)/
 
 const OPENS_AKASHA = /^akasha\s/
 
@@ -16,34 +16,31 @@ const READ = new RegExp("^akasha read( --full| --file-path " + WORD + ")*$")
 
 const CHANGE = new RegExp("^akasha change( " + WORD + "){0,2}( <<'" + FENCE + "')?$")
 
-const HELPS = "(?: (?:--help|-h))?"
-
-const APPLY = new RegExp("^akasha apply" + HELPS + "( <<'" + FENCE + "')?$")
-
 const REFUSED = [
-  "`akasha read`, `akasha change` and `akasha apply` run alone on the line.",
-  "A read is recorded against this agent, and a change and an apply write the repository, so what",
-  "ran has to be what the record and the commit say ran. A loop, a function, a pipeline, a",
-  "redirect or a substitution around one hides which call was made and what that call was handed.",
+  "`akasha read` and `akasha change` run alone on the line.",
+  "A read is recorded against this agent, and a change writes the repository, so what ran has to",
+  "be what the record and the commit say ran. A loop, a function, a pipeline, a redirect or a",
+  "substitution around one hides which call was made and what that call was handed.",
   "",
   "  akasha read --file-path <path> [--full]",
   "",
   "takes those flags and no other word, with nothing before it and nothing after it.",
   "",
-  "  akasha change <act> <<'HEREDOC'",
+  "  akasha change draft <act> <<'HEREDOC'",
   "  at: <path>",
   "  body HEREDOC-BODY",
   "  <the body>",
   "  HEREDOC-BODY",
   "  HEREDOC",
   "",
-  "takes the act, the words that act takes, and one heredoc whose closing line ends the command.",
-  "",
-  "  akasha apply <<'HEREDOC'",
+  "  akasha change apply <<'HEREDOC'",
   "  message: <what the commit is for>",
   "  HEREDOC",
   "",
-  "takes that heredoc and no word of its own, and `akasha apply` alone takes no heredoc at all.",
+  "take the change command, the one word that command takes, and one heredoc whose closing line",
+  "ends the call. A change command taking no word, and one opening no heredoc, are that same form",
+  "with less in it, so `akasha change apply` and `akasha change list` are approved on their own.",
+  "`akasha change` names the commands it carries.",
   "",
   "The shell's delimiter is always `HEREDOC`, so there is nothing to pick there.",
   "",
@@ -52,7 +49,7 @@ const REFUSED = [
   "",
   "Each argument opens a fence of its own, which akasha reads rather than the shell. Write the",
   "key in capitals after `HEREDOC-`: `old` closes on `HEREDOC-OLD`, `new` on `HEREDOC-NEW`. A",
-  "body carrying its own fence as a line takes another, as `akasha change --help` says.",
+  "body carrying its own fence as a line takes another, as `akasha change draft --help` says.",
   "",
   "The delimiter is quoted so the shell rewrites nothing. Opened unquoted, a `$HOME` in the body",
   "is replaced and a `$(...)` is run before akasha reads the body, and nothing says so.",
@@ -60,13 +57,13 @@ const REFUSED = [
 ]
 
 export const SCOPE: readonly string[] = [
-  `${HOOK} refuses a command naming \`akasha read\`, \`akasha change\` or \`akasha apply\``,
-  "unless the whole command is one of the three approved forms. It matches the command whole",
-  "rather than looking for a forbidden shape inside it.",
+  `${HOOK} refuses a command naming \`akasha read\` or \`akasha change\` unless the whole`,
+  "command is one of the two approved forms. It matches the command whole rather than looking",
+  "for a forbidden shape inside it.",
   "",
-  "WHERE THE RULE COMES FROM: a read records what an agent saw, and a change and an apply write",
-  "the repository. All three are worth what their record is worth. Shell around one makes the",
-  "command that ran different from the command that was read, and the record cannot say which.",
+  "WHERE THE RULE COMES FROM: a read records what an agent saw, and a change writes the",
+  "repository. Both are worth what their record is worth. Shell around one makes the command",
+  "that ran different from the command that was read, and the record cannot say which.",
   "",
   "WHY THE WHOLE COMMAND: this hook reads no shell structure, so no structure hides a call from",
   "it. A loop is refused because a loop is no approved form rather than because a loop is known",
@@ -92,7 +89,7 @@ export const SCOPE: readonly string[] = [
   "",
   "NOT REACHED:",
   "  `akasha` reached by a name that is not `akasha`, which the trigger never finds",
-  "  every akasha command but these three",
+  "  every akasha command but these two",
   "  a call another program builds and runs, which reaches no hook as text",
   "  one of the names inside a run the shell would not rewrite, in a command opening `akasha`",
   "",
@@ -115,9 +112,7 @@ export function approvedForm(command: string): boolean {
   const lines = text.split("\n")
   const opening = lines[0] ?? ""
   const changing = CHANGE.exec(opening)
-  if (changing !== null) return closedIn(lines, changing[2] !== undefined)
-  const applying = APPLY.exec(opening)
-  return applying !== null && closedIn(lines, applying[1] !== undefined)
+  return changing !== null && closedIn(lines, changing[2] !== undefined)
 }
 
 export function triggered(command: string): boolean {

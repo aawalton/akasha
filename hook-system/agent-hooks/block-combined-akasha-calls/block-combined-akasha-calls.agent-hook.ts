@@ -4,8 +4,7 @@ export const blockCombinedAkashaCalls = {
   id: "01a07e9e-a423-744c-8496-5006c4bbb90d",
   pageTypeSlug: "agent-hook",
   slug: "block-combined-akasha-calls",
-  definition:
-    "a refusal of an `akasha read`, `akasha change` or `akasha apply` call combined with other shell",
+  definition: "a refusal of an `akasha read` or `akasha change` call combined with other shell",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
@@ -20,11 +19,6 @@ export const blockCombinedAkashaCalls = {
       invariantKind: "departure",
       statement:
         "A command naming `akasha change` is refused unless the whole command is an approved change.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A command naming `akasha apply` is refused unless the whole command is an approved apply.",
     },
     {
       invariantKind: "departure",
@@ -44,23 +38,19 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "An approved change carries the act.",
+      statement: "An approved change carries the change command.",
     },
     {
       invariantKind: "departure",
-      statement: "An approved change carries the words that act takes.",
+      statement: "An approved change carries the one word that command takes.",
     },
     {
       invariantKind: "departure",
-      statement: "An approved change opens one heredoc.",
+      statement: "An approved change opens one heredoc or none.",
     },
     {
       invariantKind: "departure",
-      statement: "An approved apply carries no word of its own but the help flag.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An approved apply opens one heredoc or none.",
+      statement: "The apply that lands is a change command rather than a call of its own.",
     },
     {
       invariantKind: "departure",
@@ -97,8 +87,7 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Every akasha command but `read`, `change` and `apply` is no business of this hook.",
+      statement: "Every akasha command but `read` and `change` is no business of this hook.",
     },
     {
       invariantKind: "constraint",

@@ -19,45 +19,55 @@ test("a read asking for the whole body after the path is let through", () => {
   expect(refusalIn("akasha read --file-path a/b.ts --full")).toBe(null)
 })
 
-test("an act alone is let through", () => {
+test("a change command alone is let through", () => {
   expect(refusalIn("akasha change drop")).toBe(null)
 })
 
-test("an act with the word that act takes is let through", () => {
+test("a change command with the word it takes is let through", () => {
   expect(refusalIn("akasha change take some-agent")).toBe(null)
 })
 
-test("a change whose last line closes its quoted heredoc is let through", () => {
-  expect(refusalIn("akasha change add-file <<'HEREDOC'\nat: a/b.ts\nHEREDOC")).toBe(null)
+test("the namespace named with no command of its own is let through", () => {
+  expect(refusalIn("akasha change")).toBe(null)
+})
+
+test("a draft whose last line closes its quoted heredoc is let through", () => {
+  expect(refusalIn("akasha change draft add-file <<'HEREDOC'\nat: a/b.ts\nHEREDOC")).toBe(null)
 })
 
 test("a bare apply is let through", () => {
-  expect(refusalIn("akasha apply")).toBe(null)
+  expect(refusalIn("akasha change apply")).toBe(null)
 })
 
 test("an apply whose last line closes its quoted heredoc is let through", () => {
-  expect(refusalIn("akasha apply <<'HEREDOC'\nmessage: what this is for\nHEREDOC")).toBe(null)
+  expect(refusalIn("akasha change apply <<'HEREDOC'\nmessage: what this is for\nHEREDOC")).toBe(
+    null
+  )
 })
 
-test("an apply carrying a flag is refused", () => {
-  expect(refusalIn("akasha apply --message x")).toContain(NAMES)
+test("an apply carrying a word the form does not take is refused", () => {
+  expect(refusalIn("akasha change apply --message x")).toContain(NAMES)
 })
 
 test("an apply asking for help is let through", () => {
-  expect(refusalIn("akasha apply --help")).toBe(null)
-  expect(refusalIn("akasha apply -h")).toBe(null)
+  expect(refusalIn("akasha change apply --help")).toBe(null)
+  expect(refusalIn("akasha change apply -h")).toBe(null)
 })
 
 test("a body piped into an apply is refused", () => {
-  expect(refusalIn("printf 'message: x' | akasha apply")).toContain(NAMES)
+  expect(refusalIn("printf 'message: x' | akasha change apply")).toContain(NAMES)
 })
 
 test("an apply opening an unquoted heredoc is refused", () => {
-  expect(refusalIn("akasha apply <<HEREDOC\nmessage: x\nHEREDOC")).toContain(NAMES)
+  expect(refusalIn("akasha change apply <<HEREDOC\nmessage: x\nHEREDOC")).toContain(NAMES)
 })
 
 test("an apply chained onward is refused", () => {
-  expect(refusalIn("akasha apply && rm -rf x")).toContain(NAMES)
+  expect(refusalIn("akasha change apply && rm -rf x")).toContain(NAMES)
+})
+
+test("an akasha command this hook does not name is let through, however it is written", () => {
+  expect(refusalIn("akasha restore --file-path a.ts | head -3")).toBe(null)
 })
 
 test("a command naming none of them is let through", () => {
@@ -93,17 +103,21 @@ test("a read inside a subshell is refused", () => {
 })
 
 test("a body piped into a change is refused", () => {
-  expect(refusalIn("printf 'at: a.ts' | akasha change add-file")).toContain(NAMES)
+  expect(refusalIn("printf 'at: a.ts' | akasha change draft add-file")).toContain(NAMES)
 })
 
 test("a change opening an unquoted heredoc is refused", () => {
-  expect(refusalIn("akasha change add-file <<HEREDOC\nat: a/b.ts\nHEREDOC")).toContain(NAMES)
+  expect(refusalIn("akasha change draft add-file <<HEREDOC\nat: a/b.ts\nHEREDOC")).toContain(NAMES)
 })
 
 test("a change whose heredoc is not closed by the last line is refused", () => {
-  expect(refusalIn("akasha change add-file <<'HEREDOC'\nat: a/b.ts\nHEREDOC\nrm -rf x")).toContain(
-    NAMES
-  )
+  expect(
+    refusalIn("akasha change draft add-file <<'HEREDOC'\nat: a/b.ts\nHEREDOC\nrm -rf x")
+  ).toContain(NAMES)
+})
+
+test("a change carrying more words than the form takes is refused", () => {
+  expect(refusalIn("akasha change draft add-file extra")).toContain(NAMES)
 })
 
 test("a delimiter closing the body before the last line is refused", () => {
@@ -113,10 +127,10 @@ test("a delimiter closing the body before the last line is refused", () => {
 })
 
 test("a delimiter other than the fixed one is refused", () => {
-  expect(refusalIn("akasha change add-file <<'MYOWN'\nat: a/b.ts\nMYOWN")).toContain(NAMES)
+  expect(refusalIn("akasha change draft add-file <<'MYOWN'\nat: a/b.ts\nMYOWN")).toContain(NAMES)
 })
 
-test("an act chained onward is refused", () => {
+test("a change command chained onward is refused", () => {
   expect(refusalIn("akasha change drop && rm -rf x")).toContain(NAMES)
 })
 
