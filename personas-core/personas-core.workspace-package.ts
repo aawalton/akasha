@@ -6,11 +6,7 @@ export const personasCore = {
   slug: "personas-core",
   definition: "what a persona is scored by, and how her images and her voice are described",
   manifest: "json",
-  partSlugs: [
-    "module/desktop-wallpaper-setting",
-    "module/wallpaper-order",
-    "workstation-service/desktop-wallpaper-setting",
-  ],
+  partSlugs: ["module/desktop-wallpaper-setting", "workstation-service/desktop-wallpaper-setting"],
   invariants: [
     {
       invariantKind: "absence",

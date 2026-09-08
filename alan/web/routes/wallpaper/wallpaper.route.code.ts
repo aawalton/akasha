@@ -1,6 +1,6 @@
 import type { Query } from "@akasha/pages-service/asking"
 import { askingFor, filingFor } from "@akasha/pages-service/calling"
-import { orderedWallpaperSlugs, type WallpaperRow } from "@akasha/personas-core/wallpaper-order"
+import { orderedWallpaperSlugs, type WallpaperRow } from "@akasha/personas/wallpaper-order"
 
 const PERSONA_PAGE_TYPE_SLUG = "persona"
 

@@ -85,5 +85,6 @@ export const persona = {
     "module/wallpaper-backfill-classify",
     "module/wallpaper-install",
     "module/wallpaper-select",
+    "module/wallpaper-order",
   ],
 } as const satisfies WorkspacePackage
