@@ -222,6 +222,7 @@ export const clusterCheck = {
     "module/ts-suspense-throw",
     "module/ts-timezone-violations",
     "module/ts-type-assertions",
+    "module/ts-void-declarations",
   ],
   properties: [
     {
