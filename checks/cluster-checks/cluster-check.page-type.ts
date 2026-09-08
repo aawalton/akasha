@@ -28,7 +28,6 @@ export const clusterCheck = {
   partSlugs: [
     "boolean-property/always-run",
     "boolean-property/tree-sha",
-    "cluster-check/ast-grep",
     "cluster-check/bin-mode",
     "cluster-check/checksum-annotation-substitution",
     "cluster-check/cli-json-contract-coupling",
@@ -70,8 +69,6 @@ export const clusterCheck = {
     "cluster-check/vite-supabase-rr-define",
     "cluster-check/widget-payload-shape-mirror",
     "cluster-check/workspaces-mainseam",
-    "module/ast-grep-configs",
-    "module/ast-grep-rules",
     "module/audit-reading",
     "module/blank-comments",
     "module/checksum-annotation-pairing",
