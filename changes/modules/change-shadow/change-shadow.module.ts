@@ -150,6 +150,18 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A ledger answers a world reading the ledger as the ledger was at that moment.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edit added after that answer leaves that world as that world was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world that is no ledger answers itself, its bodies changing under no reach.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A ledger reads a path from the edits added to that ledger.",
     },
     {

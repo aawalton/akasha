@@ -70,6 +70,15 @@ export const changeLoading = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The world a guard judges against is read before the change that guard judges runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change naming no guard has no world read for it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The target subtype a change acts on is read off that change's page.",
     },
     {

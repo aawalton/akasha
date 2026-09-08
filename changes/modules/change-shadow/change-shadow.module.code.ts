@@ -207,6 +207,24 @@ export function isLedger(world: World): world is Ledger {
   return "kept" in world
 }
 
+export function worldBefore(world: World): World {
+  if (!isLedger(world)) return world
+  const kept = world.kept
+  const bodies = new Map(kept.bodies)
+  const index = world.index
+  const bodyOf: BodyOf = (path) => (bodies.has(path) ? (bodies.get(path) ?? null) : kept.base(path))
+  return {
+    root: world.root,
+    index,
+    textOf: narrowed(bodyOf),
+    bodyOf,
+    under: world.under,
+    base: kept.base,
+    over: kept.over,
+    reaching: world.reaching,
+  }
+}
+
 function beforeIn(kept: Kept): BodyOf {
   return (path) => (kept.settled.has(path) ? (kept.settled.get(path) ?? null) : kept.base(path))
 }

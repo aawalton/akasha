@@ -4,7 +4,7 @@ import { refusing } from "../../modules/change-answer/change-answer.module.code.
 import type { Answer, Said } from "../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../modules/change-guarding/change-guarding.module.code.ts"
 import type { Guard } from "../../modules/change-guarding/change-guarding.module.types.ts"
-import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+import { type World, worldBefore } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { kindOf } from "../../modules/target-kinding/target-kinding.module.code.ts"
 import { narrows, slugIn } from "../../modules/target-narrowing/target-narrowing.module.code.ts"
 
@@ -93,9 +93,10 @@ export async function loadedAt(world: World, at: string): Promise<Loaded | strin
 }
 
 export async function ranBy(world: World, loaded: Loaded, given: unknown): Promise<Answer> {
+  const before = loaded.guards.length === 0 ? world : worldBefore(world)
   const said = await loaded.run(world, given)
   if (said.refused !== null) return said
-  return guardedBy(world, said, loaded.guards)
+  return guardedBy(world, said, loaded.guards, before)
 }
 
 export function targetIn(given: unknown): string | null {

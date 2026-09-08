@@ -43,6 +43,14 @@ export const changeGuarding = {
       statement: "A guard is handed the world the change read before that change answered.",
     },
     {
+      invariantKind: "absence",
+      statement: "Which world that is is answered by the caller rather than here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming no such world is read as naming the world handed in.",
+    },
+    {
       invariantKind: "departure",
       statement: "The index that answer leaves names no page that answer takes away.",
     },

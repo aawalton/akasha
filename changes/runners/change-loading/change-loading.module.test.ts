@@ -1,8 +1,17 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { HELD_PAGE, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { refusing, stating } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
-import { NOTHING_OVER, type World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  addedTo,
+  isLedger,
+  ledgerAt,
+  NOTHING_OVER,
+  type World,
+} from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { codeAt, partsOf, ranBy, sittingAt, targetRefusal } from "./change-loading.module.code.ts"
+
+afterAll(scratch.sweep)
 
 const AT = "akasha/one.held.ts"
 
@@ -102,6 +111,34 @@ test("a change that refuses runs no guard", async () => {
 
   expect(said.refused).toBe("no")
   expect(ran).toBe(0)
+})
+
+const MOVED_PAGE = "akasha/six/held.module.ts"
+
+test("a guard is handed the world the change read before that change answered", async () => {
+  const root = indexedRepo()
+  const carried = moving(HELD_PAGE, MOVED_PAGE)
+  let read: unknown = null
+
+  const said = await ranBy(
+    ledgerAt(root, textIn(root)),
+    {
+      run: (world) => {
+        if (isLedger(world)) addedTo(world, carried)
+        return carried
+      },
+      guards: [
+        (given) => {
+          read = given.before.index.pageByPath(HELD_PAGE)
+          return null
+        },
+      ],
+    },
+    {}
+  )
+
+  expect(said.refused).toBe(null)
+  expect(read).not.toBeNull()
 })
 
 const SUBTYPES: Readonly<Record<string, string>> = {

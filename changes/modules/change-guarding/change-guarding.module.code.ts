@@ -60,7 +60,12 @@ export function writtenIn(given: Guarding): ReadonlyMap<string, string> {
   return found
 }
 
-export function guardedBy(world: World, said: Answer, guards: readonly Guard[]): Answer {
+export function guardedBy(
+  world: World,
+  said: Answer,
+  guards: readonly Guard[],
+  before: World = world
+): Answer {
   if (said.refused !== null || guards.length === 0) return said
   const casting = castingOn(world, said)
   if (casting.whole.refused !== null) return refusing(casting.whole.refused)
@@ -68,7 +73,7 @@ export function guardedBy(world: World, said: Answer, guards: readonly Guard[]):
   if ("refused" in bodies) return refusing(bodies.refused)
   const cast = casting.cast()
   if ("refused" in cast) return refusing(NOT_WORKED_OUT)
-  const given: Guarding = { said, shadow: cast, before: world }
+  const given: Guarding = { said, shadow: cast, before }
   for (const guard of guards) {
     const why = guard(given)
     if (why !== null) return refusing(why)
