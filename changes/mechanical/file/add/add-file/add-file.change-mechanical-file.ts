@@ -14,7 +14,6 @@ export const addFile = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
-  guardSlugs: ["change-guard/body-not-written-over"],
   invariants: [
     {
       invariantKind: "departure",
@@ -22,7 +21,8 @@ export const addFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A path holding another body is refused by the guard this change names.",
+      statement:
+        "A path holding another body is written over as a replace holding the whole body each side.",
     },
     {
       invariantKind: "departure",
