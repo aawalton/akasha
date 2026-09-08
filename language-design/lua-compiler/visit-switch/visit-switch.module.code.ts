@@ -145,14 +145,14 @@ export const transformSwitchStatement: FunctionVisitor<ts.SwitchStatement> = (
             luaStatements.createVariableDeclarationStatement(conditionVariable, condition)
           )
         } else {
-          const { precedingStatements, result } = createOrExpression(
+          const { precedingStatements: orPreceding, result: orCondition } = createOrExpression(
             context,
             conditionVariable,
             condition,
             conditionPrecedingStatements
           )
-          conditionPrecedingStatements = precedingStatements
-          condition = result
+          conditionPrecedingStatements = orPreceding
+          condition = orCondition
 
           statements.push(
             ...conditionPrecedingStatements,
@@ -244,9 +244,9 @@ export const transformSwitchStatement: FunctionVisitor<ts.SwitchStatement> = (
 
       const fallthroughStatements: luaStatements.Statement[] = [...rawDefaultStatements]
       for (const clause of clauses.slice(start + 1, end >= 0 ? end + 1 : undefined)) {
-        let statements = context.transformStatements(clause.statements)
-        ;({ statements } = separateHoistedStatements(context, statements))
-        fallthroughStatements.push(...statements)
+        let clauseStatements = context.transformStatements(clause.statements)
+        ;({ statements: clauseStatements } = separateHoistedStatements(context, clauseStatements))
+        fallthroughStatements.push(...clauseStatements)
       }
 
       if (fallthroughStatements.length > 0) {
