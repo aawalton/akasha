@@ -50,6 +50,7 @@ interface Waiting {
 
 interface Session {
   readonly child: ChildProcess
+  readonly protocol: Readable
   readonly waiting: Map<number, Waiting>
   leaseMs: number
   lost: boolean
@@ -165,7 +166,7 @@ export function servingFrom(at: CommandServerAt): Serving {
         )
         return
       }
-      const fresh: Session = { child, waiting: new Map(), leaseMs: 0, lost: false }
+      const fresh: Session = { child, protocol, waiting: new Map(), leaseMs: 0, lost: false }
       let settled = false
       const timer = setTimeout(() => {
         if (settled) {
@@ -281,11 +282,19 @@ export function servingFrom(at: CommandServerAt): Serving {
     if (session === one) {
       session = null
     }
+    closePipe(one)
     for (const [id, held] of [...one.waiting]) {
       one.waiting.delete(id)
       clearTimeout(held.timer)
       held.refuse(refusalOf(REFUSAL_GONE, saying))
     }
+    return undefined
+  }
+
+  function closePipe(one: Session): undefined {
+    try {
+      one.protocol.destroy()
+    } catch {}
     return undefined
   }
 
@@ -300,6 +309,7 @@ export function servingFrom(at: CommandServerAt): Serving {
     try {
       one.child.kill(how)
     } catch {}
+    closePipe(one)
     return undefined
   }
 
