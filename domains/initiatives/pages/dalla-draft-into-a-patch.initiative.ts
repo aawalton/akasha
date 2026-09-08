@@ -49,11 +49,6 @@ export const dallaDraftIntoAPatch = {
         "`drafting` writes and commits `<agent page>.patch.diff`, which no page declares, and `patchIn` reads it back in a later process, so a draft crosses between commands through it. The declared `edits` file is `uncommitted: true`. The successor exists: `edits-keeping`, `edits-landing`, and `subagent-handed:37` finds handed work through `editsAt(page)`. Two readers of the patch remain, both in the frozen presence file: `patchesUnder:205` spells the name by hand, and `:170` calls `tookIn`.",
     },
     {
-      statement: "Every property a command's page type declares is read.",
-      workingMemory:
-        "Five properties are read: `change-kind-slug` by `kindOf`, `taking` and `help-notes` by `surfaceOf`, `said` and `takes` by `helpOf`. Six of the eleven `command.page-type.ts` declares carry the argument structure — positionals, flags, env vars, exclusions, exits, examples — and no code reads any of them and no command page states one. `parse-args` reads that same vocabulary off `CommandHelp`, a hand-written twin, so either `calling` grows to read the page or the six come off the page type.\n",
-    },
-    {
       statement: "A file that is not text is moved by path and refused every other change.",
       workingMemory:
         "Half of this landed at `b9c32ad613`: a move no other edit names is handed on as a carried path, both paths left out of the bodies, so nothing decodes and git records a rename. Twelve PNG bytes in, twelve out. What is left is the refusal. `textAt` at `edits-keeping:92` reads `utf8`, which never fails, so the `NOT_TEXT` sentinel is dead and two invariants contradict each other. `World` must tell no body from a body that is not text before `page-claiming:12` can keep the wallpapers claimed.\n",
