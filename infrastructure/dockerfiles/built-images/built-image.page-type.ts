@@ -18,6 +18,7 @@ export const builtImage = {
   pluralSlug: "built-images",
   partSlugs: [
     "built-image/auth-proxy",
+    "built-image/gfs-promoter",
     "file-property/image-extensions",
     "text-property/image-folder",
     "text-property/image-kind",
