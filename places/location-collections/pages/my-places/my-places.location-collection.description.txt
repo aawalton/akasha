@@ -1,1 +1,0 @@
-First collection in Atlas — smoke fixture for the keystone deploy verification.
