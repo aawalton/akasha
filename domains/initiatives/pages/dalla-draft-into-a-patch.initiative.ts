@@ -53,6 +53,11 @@ export const dallaDraftIntoAPatch = {
       workingMemory:
         "5 of 27 properties on `command.page-type.ts` are read: `change-kind-slug` by `kindOf`, `taking` and `help-notes` by `surfaceOf`, `said` and `takes` by `helpOf`; `akasha change` reads `help-notes` a second time off its own page. The other 22 are proven unread by deleting each and diffing `--help`, on an instrument that fired on all 5. `parse-args` reads the same vocabulary off `CommandHelp`, a hand-written twin set by 5 literals, so either `calling` grows or the page type shrinks.",
     },
+    {
+      statement: "A file that is not text is moved by path and refused every other change.",
+      workingMemory:
+        "`bodyIn` reaches a `readFileSync` decoding as utf8 at `edits-keeping:92`, which puts U+FFFD in place of every byte run that is not UTF-8, so a move rewrites a binary: 12 PNG bytes in, 18 out. The `notText` guard at `mechanical-change-running:43` reads a sentinel no production reader answers. 80 tracked PNGs are exposed and every one is intact at this HEAD. Two invariants disagree and both are false: `change-answer.module.ts:112` says carried, `change-runner.ts:67` says refused.",
+    },
   ],
   constraints: [
     "A read hands back the body at HEAD rather than the body the patch would leave.",
