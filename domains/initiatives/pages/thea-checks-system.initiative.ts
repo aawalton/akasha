@@ -41,14 +41,14 @@ export const theaChecksSystem = {
         "Stage 2 landed, and no-class now exempts lua-compiler/lualib and lualibs by Alan's call, unblocking the seven files carrying classes. Alan rules that many exports split one per export, shared state extracted into modules exporting their bindings. Five files hold 17 exports. Every split is a migration to lualibs pages, file-has-its-page refusing any edit to an unclaimed src file. Prove each with the suite at /var/tmp/imip/thea-behaviour.lua, because comparing bodies passes a broken bundle.",
     },
     {
-      statement: "Every cluster-check module body is claimed by a page.",
-      workingMemory:
-        "Three of 156 left, and no page can be written for any: a slug is unique within its page type, temper-build-deploy-checks holds module pages cli-args and repo-root, and tree-reading is held by pages/indexes and three editor-extension folders. The other 153 have pages, each landed beside the check it serves with its part slug. These three wait on the same uniquePropertySlug call as the routes, or on renaming three modules that 81 imports reach.",
-    },
-    {
       statement: "Every property file has the page whose property that file is.",
       workingMemory:
         "Ten of eleven settled. The eight ESO days from 2026-08-31 to 09-07 have pages again and their samples are claimed, Alan taking the writer itself separately. The two eso-daily-tracking strays are gone, every measurement in them already on its ESO day once floats and timestamps are normalised. Left is change-running.change-runner.addressed.ts, which no hand can remove: an apply drops any edit naming a change-runner addressed file, reading only the name. Filed as a finding.",
+    },
+    {
+      statement: "Every cluster-check module body is claimed by a page.",
+      workingMemory:
+        "Three left: cli-args, repo-root and tree-reading. No page can be written for any, a slug being unique within its page type and each of those three slugs already held by a module page elsewhere. They wait on the same uniquePropertySlug call as the routes.",
     },
   ],
   constraints: [
