@@ -10,6 +10,7 @@ export const changeMechanicalFileRemove = {
     "change-mechanical/remove-file-code",
     "change-mechanical-file/remove-file-page",
     "change-mechanical/remove-file-page-type",
+    "change-mechanical/remove-file-of-any-kind",
   ],
   invariants: [
     {
