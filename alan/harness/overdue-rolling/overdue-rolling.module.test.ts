@@ -28,11 +28,8 @@ test("a to-do is narrowed by its due date and by carrying no completion", () => 
   ])
 })
 
-test("a temper task is narrowed by its due date and by carrying no completion", () => {
-  expect(narrowFor(rollingFor("temper-task"), DAY)).toEqual([
-    { key: "dueDate", lt: DAY },
-    { key: "completedAt", isEmpty: true },
-  ])
+test("no page type whose due date moves on completion alone is rolled here", () => {
+  expect(ROLLED.map((one) => one.pageTypeSlug)).not.toContain("temper-task")
 })
 
 test("a roll sets the due date to the day it rolls onto", async () => {
@@ -46,11 +43,11 @@ test("a roll sets the due date to the day it rolls onto", async () => {
 })
 
 test("a page answering no slug is left out of what rolled", async () => {
-  const rolled = await rolledOnto(rollingFor("temper-task"), DAY, async () => [
+  const rolled = await rolledOnto(rollingFor("to-do"), DAY, async () => [
     pageNamed(null),
-    pageNamed("weekly-challenges"),
+    pageNamed("pray"),
   ])
-  expect(rolled.slugs).toEqual(["weekly-challenges"])
+  expect(rolled.slugs).toEqual(["pray"])
 })
 
 test("every page type is rolled in one run", async () => {
@@ -59,8 +56,8 @@ test("every page type is rolled in one run", async () => {
     reached.push(args.pageTypeSlug)
     return []
   })
-  expect(reached).toEqual(["to-do", "temper-task"])
-  expect(rolled.map((one) => one.pageTypeSlug)).toEqual(["to-do", "temper-task"])
+  expect(reached).toEqual(["to-do"])
+  expect(rolled.map((one) => one.pageTypeSlug)).toEqual(["to-do"])
 })
 
 test("what rolled is said as a count for each page type", () => {
@@ -68,7 +65,7 @@ test("what rolled is said as a count for each page type", () => {
   expect(said).toBe("1 of `to-do` now come due on 2026-09-06")
 })
 
-test("a narrow carries the key its page type declares rather than one spelling for both", () => {
+test("no two page types roll one key", () => {
   const keys = ROLLED.map((one) => one.dueKey)
   expect(new Set(keys).size).toBe(keys.length)
 })

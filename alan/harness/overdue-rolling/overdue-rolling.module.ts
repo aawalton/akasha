@@ -41,5 +41,9 @@ export const overdueRolling = {
       statement:
         "The moving is done by a workstation timer rather than by a browser opening a list.",
     },
+    {
+      invariantKind: "absence",
+      statement: "A page type whose due date moves on completion alone is moved nowhere here.",
+    },
   ],
 } as const satisfies Module

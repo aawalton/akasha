@@ -16,11 +16,6 @@ export const ROLLED: readonly Rolling[] = [
     dueKey: "toDoDueDate",
     undone: [{ key: "toDoCompletedAt", isEmpty: true }],
   },
-  {
-    pageTypeSlug: "temper-task",
-    dueKey: "dueDate",
-    undone: [{ key: "completedAt", isEmpty: true }],
-  },
 ]
 
 export function narrowFor(one: Rolling, day: string): PageWhere {
