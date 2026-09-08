@@ -2,13 +2,7 @@ import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Entries } from "../checks/code-checks/properties/entries.file-property.ts"
 import type { ChangeKindSlug } from "./properties/change-kind-slug.relation-property.ts"
-import type { HelpEnvVars } from "./properties/help-env-vars.record-property.ts"
-import type { HelpExamples } from "./properties/help-examples.text-property.ts"
-import type { HelpExclusions } from "./properties/help-exclusions.record-property.ts"
-import type { HelpExits } from "./properties/help-exits.record-property.ts"
-import type { HelpFlags } from "./properties/help-flags.record-property.ts"
 import type { HelpNotes } from "./properties/help-notes.text-property.ts"
-import type { HelpPositionals } from "./properties/help-positionals.record-property.ts"
 import type { Taking } from "./properties/taking.record-property.ts"
 import type { Timeout } from "./properties/timeout.number-property.ts"
 
@@ -17,12 +11,6 @@ export type Command = Module & {
   timeout?: Timeout
   taking?: Taking
   helpNotes?: readonly HelpNotes[]
-  positionals?: HelpPositionals
-  flags?: HelpFlags
-  envVars?: HelpEnvVars
-  exclusions?: HelpExclusions
-  exits?: HelpExits
-  examples?: readonly HelpExamples[]
   entries?: Entries
 }
 
@@ -33,11 +21,6 @@ export const command = {
   definition: "a module reached by name from the command line",
   pluralSlug: "commands",
   partSlugs: [
-    "boolean-property/help-arg-path",
-    "boolean-property/help-arg-repeat",
-    "boolean-property/help-arg-required",
-    "boolean-property/help-arg-stdin",
-    "boolean-property/help-arg-variadic",
     "command/agent-forest",
     "command/agent-turn-colors",
     "command/audit",
@@ -64,25 +47,8 @@ export const command = {
     "command/wan",
     "command/work-tree",
     "command/zimage",
-    "number-property/help-exit-code",
-    "record-property/help-env-vars",
-    "record-property/help-exclusions",
-    "record-property/help-exits",
-    "record-property/help-flags",
-    "record-property/help-positionals",
     "record-property/taking",
     "relation-property/change-kind-slug",
-    "text-property/help-arg-alias-of-flag",
-    "text-property/help-arg-aliases",
-    "text-property/help-arg-choices",
-    "text-property/help-arg-default",
-    "text-property/help-arg-label",
-    "text-property/help-arg-name",
-    "text-property/help-arg-note",
-    "text-property/help-arg-shape",
-    "text-property/help-examples",
-    "text-property/help-exclusion-names",
-    "text-property/help-exit-meaning",
     "text-property/help-notes",
     "text-property/said",
     "text-property/takes",
@@ -120,32 +86,6 @@ export const command = {
     { pagePropertySlug: "relation-property/change-kind-slug", required: true, many: false },
     { pagePropertySlug: "record-property/taking", required: false, many: true, maxCount: null },
     { pagePropertySlug: "text-property/help-notes", required: false, many: true, maxCount: null },
-    {
-      pagePropertySlug: "record-property/help-positionals",
-      required: false,
-      many: true,
-      maxCount: null,
-    },
-    { pagePropertySlug: "record-property/help-flags", required: false, many: true, maxCount: null },
-    {
-      pagePropertySlug: "record-property/help-env-vars",
-      required: false,
-      many: true,
-      maxCount: null,
-    },
-    {
-      pagePropertySlug: "record-property/help-exclusions",
-      required: false,
-      many: true,
-      maxCount: null,
-    },
-    { pagePropertySlug: "record-property/help-exits", required: false, many: true, maxCount: null },
-    {
-      pagePropertySlug: "text-property/help-examples",
-      required: false,
-      many: true,
-      maxCount: null,
-    },
     { pagePropertySlug: "number-property/timeout", required: false, many: false },
     {
       pagePropertySlug: "file-property/entries",
