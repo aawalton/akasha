@@ -11,7 +11,7 @@ export const athenaCommandsAtTheRoot = {
       statement:
         "Tooling specific to the command domain sits under `commands/`, and no other tooling does.",
       workingMemory:
-        "14 of the 15 commands and the 28 command property pages are in `commands/`. `name-drawing` and `flag-arguing` under `commands/modules/` hold the rules that were spelt twice. `read` is the last, and its move is refused: `move-folder` carries `read.command.entries.uncommitted.jsonl`, 1.48 MB the `file-itself` warrant owes a reading of. `entries` states no `machineWritten`, and that page is under `checks/`, which Alan holds.",
+        "All 15 commands and the 28 command property pages are in `commands/`, and `command-system/commands/` holds only the `command` page type. `entries` now says a machine writes it, and `machineWrittenAt` reads a property naming its files by section, so a sidecar warrants nothing. The page type's move is refused while 22 command pages in `temper` and `browser` reach it as `@akasha/command-system/command` rather than by path.",
     },
     {
       statement: "No `command-system` folder is there.",
@@ -21,7 +21,7 @@ export const athenaCommandsAtTheRoot = {
     {
       statement: "The `commands/` folder passes `folder-matches-a-shape`.",
       workingMemory:
-        "191 refusals over `commands/` at 2a63cf1436. 187 say a folder opens with what the page above it is named, which is what fully qualified slugs make. 4 say a folder matches no shape for holding no page of its own: `commands`, `commands/pages`, `commands/pages/apply` and `commands/pages/change`. The constraint on fully qualified slugs and the shape rule disagree, and the shape rule is under `checks/`.",
+        "196 refusals over `commands/` at 440b43ad0a, of 1121 tree-wide. 194 say a folder opens with what the page above it is named, which is what fully qualified slugs make; the constraint on those and the shape rule disagree, and `folder-matches-a-shape` is a check Alan holds. 2 say a folder holds no page of its own, `commands` and `commands/pages`, and the `command` page type moving to `commands/` answers both.",
     },
     {
       statement: "A command's folder sits inside its namespace's folder under `commands/pages/`.",
