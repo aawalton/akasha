@@ -15,6 +15,7 @@ export const codeSystem = {
     "page-type/python-module",
     "page-type/eso-addon",
     "page-type/eso-interface",
+    "page-type/held-addon",
     "page-type/file-kind-domain",
     "page-type/file-purpose",
     "page-type/ios-app",
