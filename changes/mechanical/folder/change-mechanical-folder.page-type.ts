@@ -23,4 +23,14 @@ export const changeMechanicalFolder = {
       many: false,
     },
   ],
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement: "No rung here makes a folder, git holding no folder that is empty.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No rung here renames a folder, a folder's rename being that folder's carry.",
+    },
+  ],
 } as const satisfies PageType
