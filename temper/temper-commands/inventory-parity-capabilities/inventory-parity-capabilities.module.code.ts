@@ -29,11 +29,9 @@ export interface ParityAddonTrace {
   }
 }
 
-export type MatchedRoute = object
+export type MatchedRoute = parityRoutingModule.MatchedRoute
 
-export interface RoutingDiff {
-  readonly mismatch: boolean
-}
+export type RoutingDiff = parityRoutingModule.RoutingDiff
 
 interface AddonTrace {
   readonly loadParityAddonTraceFromContent: (content: string, itemId: number) => ParityAddonTrace
@@ -58,13 +56,13 @@ interface UtilsNarrow {
 }
 
 export function parityAddonTrace(): Promise<AddonTrace> {
-  return Promise.resolve(parityAddonTraceModule as unknown as AddonTrace)
+  return Promise.resolve(parityAddonTraceModule)
 }
 
 export function parityRouting(): Promise<Routing> {
-  return Promise.resolve(parityRoutingModule as unknown as Routing)
+  return Promise.resolve(parityRoutingModule)
 }
 
 export function parityNarrow(): Promise<UtilsNarrow> {
-  return Promise.resolve(utilsNarrow as unknown as UtilsNarrow)
+  return Promise.resolve(utilsNarrow)
 }

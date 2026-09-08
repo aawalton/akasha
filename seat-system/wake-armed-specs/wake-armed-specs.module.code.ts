@@ -35,17 +35,11 @@ export function constrainsOnSomething(rule: CommsRule): boolean {
   return rule.senderMatch.length > 0 || (rule.contentRegex ?? "").length > 0
 }
 
-const stringOrUndefined = shape
-  .unknown()
-  .refine((value) => value === undefined || typeof value === "string", {
-    message: "Invalid input",
-  }) as unknown as Shape<string | undefined>
-
 export const commsRuleSchema = shape
   .object({
     id: shape.string(),
     senderMatch: shape.string(),
-    contentRegex: stringOrUndefined,
+    contentRegex: shape.string().optional(),
     target: shape.string(),
     status: shape.enum(["LIVE", "PROPOSED"]),
   })
