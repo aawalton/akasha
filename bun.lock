@@ -184,6 +184,14 @@
         "@akasha/sms-core": "workspace:*",
       },
     },
+    "alan/harness/sms-core": {
+      "name": "@akasha/sms-core",
+      "dependencies": {
+        "@akasha/command-system": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "alan/harness/supabase-auth": {
       "name": "@akasha/supabase-auth",
       "dependencies": {
@@ -1516,14 +1524,6 @@
         "@types/react-dom": "^19",
         "typescript": "^5.8.3",
         "vite": "^8.0.3",
-      },
-    },
-    "sms-core": {
-      "name": "@akasha/sms-core",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
     "ssh-access": {
@@ -3206,7 +3206,7 @@
 
     "@akasha/sms-access": ["@akasha/sms-access@workspace:alan/harness/sms-access"],
 
-    "@akasha/sms-core": ["@akasha/sms-core@workspace:sms-core"],
+    "@akasha/sms-core": ["@akasha/sms-core@workspace:alan/harness/sms-core"],
 
     "@akasha/spotify": ["@akasha/spotify@workspace:alan/music/spotify"],
 

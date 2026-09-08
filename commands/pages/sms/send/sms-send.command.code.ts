@@ -14,11 +14,11 @@ import {
   type Reading,
   TEXT,
   wordsIn,
-} from "../../../../sms-core/commands/sms-command-reading/sms-command-reading.module.code.ts"
+} from "../../../../alan/harness/sms-core/commands/sms-command-reading/sms-command-reading.module.code.ts"
 import {
   buildTelnyxSendRequest,
   parseTelnyxSendResponse,
-} from "../../../../sms-core/telnyx-send/telnyx-send.module.code.ts"
+} from "../../../../alan/harness/sms-core/telnyx-send/telnyx-send.module.code.ts"
 
 const TO = "--to"
 
