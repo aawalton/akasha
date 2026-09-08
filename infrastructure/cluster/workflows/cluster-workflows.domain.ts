@@ -5,5 +5,5 @@ export const clusterWorkflows = {
   pageTypeSlug: "domain",
   slug: "cluster-workflows",
   definition: "a run of steps the cluster carries out",
-  partSlugs: ["workspace-package/workflow-language", "page-type/workflow-template"],
+  partSlugs: ["workspace-package/workflow-language"],
 } as const satisfies Domain
