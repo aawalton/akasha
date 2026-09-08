@@ -86,5 +86,9 @@ export const indexPath = {
       invariantKind: "departure",
       statement: "This tree is every page there is.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A folder a page holds is filed here under its own path.",
+    },
   ],
 } as const satisfies Index

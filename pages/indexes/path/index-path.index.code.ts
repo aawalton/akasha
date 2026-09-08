@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { textAt, type Value } from "@akasha/pages/page-value"
-import type { Entry, FilePropertiesBy } from "../entries/index-entries.module.code.ts"
+import type { Entry, FilePropertiesBy, FoldersBy } from "../entries/index-entries.module.code.ts"
 import {
   claimsOf,
   type IsThere,
@@ -41,13 +41,14 @@ export function claimedIn(
   repo: string,
   fileProperties: FilePropertiesBy,
   sidecars: SidecarsBy,
-  there?: IsThere
+  there?: IsThere,
+  folders?: FoldersBy
 ): readonly string[] {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
   const pageTypeSlug = textAt(value, "pageTypeSlug")
   if (id === null || slug === null || pageTypeSlug === null) return []
-  return claimsOf(value, path, repo, fileProperties, sidecars, there)
+  return claimsOf(value, path, repo, fileProperties, sidecars, there, folders)
 }
 
 export function pathIn(
@@ -56,10 +57,11 @@ export function pathIn(
   repo: string,
   fileProperties: FilePropertiesBy,
   sidecars: SidecarsBy,
-  there?: IsThere
+  there?: IsThere,
+  folders?: FoldersBy
 ): readonly Entry[] {
   const line = JSON.stringify({ path: under(repo, path), id: textAt(value, "id") })
-  return claimedIn(value, path, repo, fileProperties, sidecars, there).map((one) => ({
+  return claimedIn(value, path, repo, fileProperties, sidecars, there, folders).map((one) => ({
     at: join(PATH, `${one}${ENDING}`),
     line,
   }))
@@ -69,8 +71,9 @@ export function claimingIn(
   repo: string,
   fileProperties: FilePropertiesBy,
   sidecars: SidecarsBy,
-  carried: ReadonlyMap<string, Bodied> = NOTHING
+  carried: ReadonlyMap<string, Bodied> = NOTHING,
+  folders?: FoldersBy
 ): Claiming {
   return (value, path, was) =>
-    pathIn(value, path, repo, fileProperties, sidecars, thereIn(repo, carried, was))
+    pathIn(value, path, repo, fileProperties, sidecars, thereIn(repo, carried, was), folders)
 }
