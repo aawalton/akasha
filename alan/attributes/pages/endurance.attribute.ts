@@ -19,8 +19,7 @@ export const endurance = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A day carrying no active calories earns nothing rather than an endurance of zero.",
+      statement: "A day with no active calories earns nothing rather than an endurance of zero.",
     },
   ],
 } as const satisfies Attribute

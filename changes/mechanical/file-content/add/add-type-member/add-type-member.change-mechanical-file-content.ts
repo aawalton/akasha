@@ -12,7 +12,7 @@ export const addTypeMember = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A member is put after the members the type already carries.",
+      statement: "A member is put after the members the type already has.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const addTypeMember = {
     },
     {
       invariantKind: "departure",
-      statement: "A member the type carries already is refused rather than carried twice.",
+      statement: "A member the type has already is refused rather than carried twice.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const addTypeMember = {
     },
     {
       invariantKind: "departure",
-      statement: "A body carrying no such alias is refused.",
+      statement: "A body with no such alias is refused.",
     },
     {
       invariantKind: "departure",

@@ -27,7 +27,7 @@ export const removeFilePageProperty = {
     {
       invariantKind: "departure",
       statement:
-        "No page carries that key while the property goes, its page type having to declare it first.",
+        "No page has that key while the property goes, its page type having to declare it first.",
     },
   ],
   changeKindSlug: "change-mechanical",

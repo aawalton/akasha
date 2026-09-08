@@ -19,7 +19,7 @@ export const changeImports = {
     {
       invariantKind: "departure",
       statement:
-        "A name carrying no leading dot lands against the folder of the body naming that name.",
+        "A name with no leading dot lands against the folder of the body naming that name.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const changeImports = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here carries a file.",
+      statement: "Nothing here has a file.",
     },
   ],
   changeKindSlug: "change-mechanical",

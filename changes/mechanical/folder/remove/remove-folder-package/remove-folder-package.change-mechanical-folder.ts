@@ -25,7 +25,7 @@ export const removeFolderPackage = {
     },
     {
       invariantKind: "departure",
-      statement: "The name the package carries is read from the manifest beside its page.",
+      statement: "The name the package has is read from the manifest beside its page.",
     },
     {
       invariantKind: "departure",

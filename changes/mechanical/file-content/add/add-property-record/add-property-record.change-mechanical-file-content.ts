@@ -21,7 +21,7 @@ export const addPropertyRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "A record takes the indent the record above it carries.",
+      statement: "A record takes the indent the record above it has.",
     },
     {
       invariantKind: "departure",

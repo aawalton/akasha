@@ -86,8 +86,7 @@ export const addPropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A key the page gains carries one value where the caller says the property carries one.",
+      statement: "A key the page gains has one value where the caller says the property has one.",
     },
     {
       invariantKind: "departure",

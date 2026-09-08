@@ -34,7 +34,7 @@ export const moveFolderPackage = {
     {
       invariantKind: "departure",
       statement:
-        "A package landing under the name the package carries keeps the slug that package had.",
+        "A package landing under the name the package has keeps the slug that package had.",
     },
     {
       invariantKind: "departure",

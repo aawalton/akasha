@@ -21,7 +21,7 @@ export const renameFilePageProperty = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here spells the key anew wherever a page carries that key.",
+      statement: "Nothing here spells the key anew wherever a page has that key.",
     },
     {
       invariantKind: "departure",

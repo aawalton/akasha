@@ -17,7 +17,7 @@ export const removePropertyFromEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type carrying no property under the key is refused.",
+      statement: "A page type with no property under the key is refused.",
     },
     {
       invariantKind: "departure",

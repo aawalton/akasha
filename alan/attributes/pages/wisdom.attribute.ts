@@ -19,7 +19,7 @@ export const wisdom = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying no words earns nothing rather than a wisdom of zero.",
+      statement: "A day with no words earns nothing rather than a wisdom of zero.",
     },
     {
       invariantKind: "absence",

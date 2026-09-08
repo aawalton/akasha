@@ -32,7 +32,7 @@ export const removeTypeMember = {
     },
     {
       invariantKind: "departure",
-      statement: "A member the type carries none of is refused rather than passed over.",
+      statement: "A member the type has none of is refused rather than passed over.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const removeTypeMember = {
     },
     {
       invariantKind: "departure",
-      statement: "A body carrying no such alias is refused.",
+      statement: "A body with no such alias is refused.",
     },
     {
       invariantKind: "departure",

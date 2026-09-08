@@ -6,7 +6,7 @@ export const whatMyScaffoldingBuysMe = {
   slug: "what-my-scaffolding-buys-me",
   title: "What My Scaffolding Buys Me",
   definition:
-    "the strengths my harness gets to a finish that my executive function could not carry alone",
+    "the strengths my harness gets to a finish that my executive function could not have alone",
   parentSlugs: ["the-scaffolding-i-built"],
   relatedSlugs: ["how-i-get-anything-done", "how-different-i-actually-am"],
   settled:

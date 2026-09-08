@@ -23,7 +23,7 @@ export const strength = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying no pounds earns nothing rather than a strength of zero.",
+      statement: "A day with no pounds earns nothing rather than a strength of zero.",
     },
   ],
 } as const satisfies Attribute

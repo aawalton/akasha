@@ -52,12 +52,12 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "An expression carries whatever a name inside that expression carries.",
+      statement: "An expression has whatever a name inside that expression carries.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A name carries what an initializer of that name carries, worked out again until nothing changes.",
+        "A name carries what an initializer of that name has, worked out again until nothing changes.",
     },
     {
       invariantKind: "departure",

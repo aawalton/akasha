@@ -5,7 +5,7 @@ export const fieldKeyNotCarriedTwice = {
   pageTypeSlug: "change-guard",
   slug: "field-key-not-carried-twice",
   changeTargetTypeSlug: "change-target-type/file-content",
-  definition: "the guard refusing an answer whose written property carries one key on two fields",
+  definition: "the guard refusing an answer whose written property has one key on two fields",
   code: "ts",
   test: "ts",
   invariants: [
@@ -23,11 +23,11 @@ export const fieldKeyNotCarriedTwice = {
     },
     {
       invariantKind: "departure",
-      statement: "A field naming a property the answer writes carries that property's key.",
+      statement: "A field naming a property the answer writes has that property's key.",
     },
     {
       invariantKind: "departure",
-      statement: "Two fields carrying one key refuse the answer.",
+      statement: "Two fields with one key refuse the answer.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const fieldKeyNotCarriedTwice = {
     },
     {
       invariantKind: "absence",
-      statement: "Whether a page type carries one key twice is judged by nothing here.",
+      statement: "Whether a page type has one key twice is judged by nothing here.",
     },
     {
       invariantKind: "absence",

@@ -58,7 +58,7 @@ export const changePagePageType = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here carries a file.",
+      statement: "Nothing here has a file.",
     },
     {
       invariantKind: "absence",

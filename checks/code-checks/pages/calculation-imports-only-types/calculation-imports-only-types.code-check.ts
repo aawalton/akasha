@@ -43,7 +43,7 @@ export const calculationImportsOnlyTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "An import declaration carrying no clause is refused.",
+      statement: "An import declaration with no clause is refused.",
     },
     {
       invariantKind: "departure",
@@ -72,7 +72,7 @@ export const calculationImportsOnlyTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "A change carrying no such file does not run this check.",
+      statement: "A change with no such file does not run this check.",
     },
     {
       invariantKind: "absence",

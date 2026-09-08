@@ -42,11 +42,11 @@ export const renameFilePageType = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type carrying no page has no address restated.",
+      statement: "A page type with no page has no address restated.",
     },
     {
       invariantKind: "departure",
-      statement: "A file a page claims carries the new slug where the old slug named a section.",
+      statement: "A file a page claims has the new slug where the old slug named a section.",
     },
     {
       invariantKind: "departure",

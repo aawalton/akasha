@@ -25,7 +25,7 @@ export const addPropertyToPageType = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration carrying many values states a count.",
+      statement: "A declaration with many values states a count.",
     },
     {
       invariantKind: "departure",
@@ -33,11 +33,11 @@ export const addPropertyToPageType = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration carrying one value states no count.",
+      statement: "A declaration with one value states no count.",
     },
     {
       invariantKind: "departure",
-      statement: "The key the member carries is the key the property answers to.",
+      statement: "The key the member has is the key the property answers to.",
     },
     {
       invariantKind: "departure",

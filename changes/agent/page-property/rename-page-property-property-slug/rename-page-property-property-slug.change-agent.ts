@@ -43,7 +43,7 @@ export const renamePagePropertyPropertySlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A run handed no count spells the key anew on every page carrying that key.",
+      statement: "A run handed no count spells the key anew on every page with that key.",
     },
     {
       invariantKind: "departure",
@@ -69,7 +69,7 @@ export const renamePagePropertyPropertySlug = {
     {
       invariantKind: "departure",
       statement:
-        "The property slug the page already carries is refused where no former key is handed in.",
+        "The property slug the page already has is refused where no former key is handed in.",
     },
     {
       invariantKind: "departure",
@@ -83,7 +83,7 @@ export const renamePagePropertyPropertySlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A former key that is the slug the property's page carries is refused.",
+      statement: "A former key that is the slug the property's page has is refused.",
     },
     {
       invariantKind: "departure",

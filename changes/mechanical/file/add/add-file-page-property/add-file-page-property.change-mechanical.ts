@@ -22,7 +22,7 @@ export const addFilePageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "The keys the property carries are judged by the guard this change names.",
+      statement: "The keys the property has are judged by the guard this change names.",
     },
     {
       invariantKind: "absence",
