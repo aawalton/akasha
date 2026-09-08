@@ -5,5 +5,6 @@ export const akasha = {
   pageTypeSlug: "ast-grep-config",
   slug: "akasha",
   definition: "the ast-grep rules run over every source file this repository tracks",
+  partSlugs: ["ast-grep-rule/mock-module-outside-test-file"],
   sgconfig: "yml",
 } as const satisfies AstGrepConfig
