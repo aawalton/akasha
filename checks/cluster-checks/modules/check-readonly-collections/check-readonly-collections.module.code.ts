@@ -59,7 +59,7 @@ function formatViolation(v: CollectionFinding): string {
   return `${v.file}:${v.line}:${v.column} ${messageOf(v)}`
 }
 
-function isTstlAddonPath(rel: string): boolean {
+function isAddonPath(rel: string): boolean {
   if (rel.startsWith("temper/addons/")) return true
   if (/^temper\/[^/]*-addon\//.test(rel)) return true
   return false
@@ -67,7 +67,7 @@ function isTstlAddonPath(rel: string): boolean {
 
 export const readonlyCollectionsEntry: SyntaxScannerEntry = {
   name: "readonly-collections",
-  preFileSkip: (rel) => isTstlAddonPath(rel),
+  preFileSkip: (rel) => isAddonPath(rel),
   findFindings: (sf) => {
     const out: NormalizedFinding[] = []
     for (const f of scanCollectionTypes(sf)) {
@@ -117,7 +117,7 @@ async function main(): Promise<undefined> {
   const { population, violations: findings } = examineFilePopulation<CollectionFinding>({
     files: (
       await listTsFiles({ repoRoot, treeSha: flags.treeSha, cacheDir: flags.cacheDir })
-    ).filter((rel) => !isTstlAddonPath(rel)),
+    ).filter((rel) => !isAddonPath(rel)),
     unit: "source files",
     membership: {
       kind: "enumerated",
