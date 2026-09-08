@@ -6,7 +6,7 @@ export const exerciseCommands = {
   slug: "exercise-commands",
   definition: "what an agent runs by name over Alan's training",
   manifest: "json",
-  partSlugs: ["module/exercise-said", "module/exercise-saying"],
+  partSlugs: ["module/exercise-said"],
   invariants: [
     {
       invariantKind: "departure",
