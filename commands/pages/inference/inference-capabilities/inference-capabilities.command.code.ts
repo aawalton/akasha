@@ -12,7 +12,7 @@ import {
   targetOf,
   wasRefused,
   wordsIn,
-} from "../../modules/inference-answering/inference-answering.module.code.ts"
+} from "../../../modules/inference-answering/inference-answering.module.code.ts"
 
 const MODEL_TYPE = "--model-type"
 

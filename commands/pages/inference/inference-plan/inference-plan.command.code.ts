@@ -6,7 +6,7 @@ import {
   keyedLines,
   wasRefused,
   wordsIn,
-} from "../../modules/inference-answering/inference-answering.module.code.ts"
+} from "../../../modules/inference-answering/inference-answering.module.code.ts"
 
 export async function inferencePlan(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])

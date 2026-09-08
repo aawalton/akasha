@@ -4,7 +4,7 @@ import { copActive, findCop } from "@akasha/inference-pool/cop-admin"
 import {
   wasRefused,
   wordsIn,
-} from "../../modules/inference-answering/inference-answering.module.code.ts"
+} from "../../../modules/inference-answering/inference-answering.module.code.ts"
 
 export async function inferenceActive(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])

@@ -22,7 +22,7 @@ import {
   wasRefused,
   wordsIn,
   wroteTo,
-} from "../../modules/inference-answering/inference-answering.module.code.ts"
+} from "../../../modules/inference-answering/inference-answering.module.code.ts"
 
 const PROMPT = "--prompt"
 
