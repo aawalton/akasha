@@ -2,7 +2,9 @@
   "name": "@akasha/inference-commands",
   "private": true,
   "type": "module",
-  "exports": {},
+  "exports": {
+    "./inference-answering": "./inference-answering/inference-answering.module.code.ts"
+  },
   "dependencies": {
     "@akasha/command-system": "workspace:*",
     "@akasha/errors-core": "workspace:*",

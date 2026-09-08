@@ -19,7 +19,7 @@ import {
   wasRefused,
   wordsIn,
   wroteTo,
-} from "../../../modules/inference-answering/inference-answering.module.code.ts"
+} from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
 
 const IMAGE = "--image"
 

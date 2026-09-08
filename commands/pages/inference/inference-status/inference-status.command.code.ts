@@ -8,7 +8,7 @@ import {
   targetOf,
   wasRefused,
   wordsIn,
-} from "../../../modules/inference-answering/inference-answering.module.code.ts"
+} from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
 
 export async function inferenceStatus(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])
