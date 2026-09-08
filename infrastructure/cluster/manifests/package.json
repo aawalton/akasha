@@ -9,7 +9,6 @@
     "./headscale-configmaps": "./headscale-configmaps/headscale-configmaps.module.code.ts",
     "./headscale-constants": "./headscale-constants/headscale-constants.module.code.ts",
     "./headscale-statefulsets": "./headscale-statefulsets/headscale-statefulsets.manifest.code.ts",
-    "./kube-state-metrics-manifests": "./kube-state-metrics-manifests/kube-state-metrics-manifests.module.code.ts",
     "./kubepods-oom-constants": "./kubepods-oom-constants/kubepods-oom-constants.module.code.ts",
     "./manifest-yaml-reading": "./manifest-yaml-reading/manifest-yaml-reading.module.code.ts",
     "./orphan-resource-audit": "./orphan-resource-audit/orphan-resource-audit.module.code.ts",

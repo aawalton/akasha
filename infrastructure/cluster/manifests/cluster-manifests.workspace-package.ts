@@ -17,7 +17,6 @@ export const clusterManifests = {
     "module/headscale-configmaps",
     "module/headscale-constants",
     "manifest/headscale-statefulsets",
-    "module/kube-state-metrics-manifests",
     "module/kubepods-oom-constants",
     "module/manifest-yaml-reading",
     "module/metallb-synth",

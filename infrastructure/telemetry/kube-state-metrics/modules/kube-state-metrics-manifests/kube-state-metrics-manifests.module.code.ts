@@ -1,11 +1,11 @@
-import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
-import { capabilitySelector } from "@akasha/k8s-types/hostnames"
 import {
   KUBE_STATE_METRICS_IMAGE,
   KUBE_STATE_METRICS_LABELS,
   KUBE_STATE_METRICS_SELECTOR_LABELS,
   NAMESPACE,
-} from "../prometheus-constants/prometheus-constants.module.code.ts"
+} from "@akasha/cluster-manifests/prometheus-constants"
+import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { capabilitySelector } from "@akasha/k8s-types/hostnames"
 
 export function kubeStateMetricsRbacYaml(): string {
   return synthMulti(NAMESPACE, [
