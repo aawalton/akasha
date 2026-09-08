@@ -1,4 +1,4 @@
-import type { Value } from "../../../readout-system/values/value.page-type.ts"
+import type { Value } from "../value.page-type.ts"
 
 export const health = {
   id: "019eb7d0-f6ed-73b7-8495-21dfdac80cd2",

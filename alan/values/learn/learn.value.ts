@@ -1,4 +1,4 @@
-import type { Value } from "../../../readout-system/values/value.page-type.ts"
+import type { Value } from "../value.page-type.ts"
 
 export const learn = {
   id: "019eb7d1-0072-7909-a9a7-6fa76806f067",

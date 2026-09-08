@@ -1,4 +1,4 @@
-import type { Value } from "../../../readout-system/values/value.page-type.ts"
+import type { Value } from "../value.page-type.ts"
 
 export const love = {
   id: "019eb7d0-f464-7d53-a897-4f98342c82e9",
