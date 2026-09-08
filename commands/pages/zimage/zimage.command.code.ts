@@ -6,6 +6,9 @@ import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-clien
 import { drawSeed } from "@akasha/inference-clients/inference-seed"
 import { buildModelGraph } from "@akasha/zimage/zimage-graph"
 import { MODEL_IDS, MODELS, toModelId } from "@akasha/zimage/zimage-models"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import {
   heldOnce,
   numberIn,
@@ -14,11 +17,8 @@ import {
   type Shape,
   textIn,
   wholeIn,
-} from "../../../commands/modules/flag-arguing/flag-arguing.module.code.ts"
-import { namesDrawn } from "../../../commands/modules/name-drawing/name-drawing.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+} from "../../modules/flag-arguing/flag-arguing.module.code.ts"
+import { namesDrawn } from "../../modules/name-drawing/name-drawing.module.code.ts"
 
 const GENERATE = "generate"
 
