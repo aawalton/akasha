@@ -187,6 +187,7 @@ export const clusterCheck = {
     "module/orphan-source",
     "module/package-cycles",
     "module/playwright-image-alignment",
+    "module/popover-family-wrappers",
   ],
   properties: [
     {
