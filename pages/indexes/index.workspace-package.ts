@@ -147,5 +147,9 @@ export const index = {
       invariantKind: "gap",
       statement: "Nothing more crosses this boundary.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A question answered once over one reading is held rather than worked out again.",
+    },
   ],
 } as const satisfies WorkspacePackage
