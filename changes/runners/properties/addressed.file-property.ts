@@ -17,7 +17,7 @@ export const addressed = {
     },
     {
       invariantKind: "departure",
-      statement: "The map is written by a command rather than by an author.",
+      statement: "The map is written by the landing rather than by an author or by a command.",
     },
     {
       invariantKind: "departure",
