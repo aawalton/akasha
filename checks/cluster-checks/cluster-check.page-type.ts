@@ -177,6 +177,7 @@ export const clusterCheck = {
     "module/image-tag-rule",
     "module/instruction-reference-scan",
     "module/jsx-class-tokens",
+    "module/jsx-class-tokens-roots",
   ],
   properties: [
     {
