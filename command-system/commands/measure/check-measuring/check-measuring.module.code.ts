@@ -50,6 +50,8 @@ export interface Run {
   readonly ranAt: number
   readonly cpu: number
   readonly mem: number | null
+  readonly paths: number
+  readonly refusals: number
 }
 
 export interface Held {
@@ -110,6 +112,8 @@ export function runsIn(body: string): readonly Run[] {
       ranAt: Date.parse(String(one["ranAt"] ?? "")),
       cpu: Number(one["cpuSeconds"] ?? 0) + Number(one["childCpuSeconds"] ?? 0),
       mem: one["peakMeasured"] === true ? Number(one["peakAddedBytes"] ?? 0) : null,
+      paths: Number(one["pathsChanged"] ?? 0),
+      refusals: Number(one["refusals"] ?? 0),
     })
   }
   return found
