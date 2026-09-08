@@ -24,7 +24,15 @@ export const addCopiedPropertyToEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A value naming a page is written as that page's slug alone.",
+      statement: "A value naming a page of another page type is written as that page's slug alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value naming a page of the same page type carries that page's own scope.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key copied from is restated where the scope changes what it names.",
     },
     {
       invariantKind: "departure",

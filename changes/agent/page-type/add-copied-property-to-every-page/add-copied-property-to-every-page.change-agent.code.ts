@@ -1,4 +1,4 @@
-import { slugOf, textsAt, valuesOver } from "@akasha/pages/page-value"
+import { slugOf, textAt, textsAt, valuesOver } from "@akasha/pages/page-value"
 import {
   gathered,
   missing,
@@ -13,6 +13,8 @@ import {
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
+
+const CHANGE_FILE_CONTENT = "change-mechanical-file-content/change-file-content"
 
 const PAGE_TYPE = "page-type"
 
@@ -29,6 +31,10 @@ export type AddCopiedPropertyToEveryPageAsked = {
   readonly after?: string
 }
 
+function onlyIn(said: readonly string[] | null): string | null {
+  return said !== null && said.length === 1 ? (said[0] ?? null) : null
+}
+
 function handed(
   given: AddCopiedPropertyToEveryPageAsked,
   at: string,
@@ -36,6 +42,10 @@ function handed(
 ): Record<string, string> {
   const said = { at, key: given.key, value }
   return given.after === undefined ? said : { ...said, after: given.after }
+}
+
+function stated(from: string, value: string): string {
+  return `${from}: [${JSON.stringify(value)}]`
 }
 
 export async function addCopiedPropertyToEveryPage(
@@ -54,21 +64,42 @@ export async function addCopiedPropertyToEveryPage(
   const listed = world.index.everyOfType(given.pageType)
   if (listed.length === 0) return refusing(`no page is a \`${given.pageType}\``)
   const carriedAt = valuesOver(world.textOf)
+  const above = new Map<string, string>()
+  for (const one of listed) {
+    const value = carriedAt(one.path)
+    if (value === null) continue
+    const slug = textAt(value, "slug")
+    const said = onlyIn(textsAt(value, given.from))
+    if (slug !== null && said !== null) above.set(slug, slugOf(said))
+  }
   const answers: Answer[] = []
   let over: World = isLedger(world) ? world : ledgerAt(world.root, world.textOf, world.reaching)
   for (const one of listed) {
     const value = carriedAt(one.path)
-    const said = value === null ? null : textsAt(value, given.from)
-    const only = said !== null && said.length === 1 ? said[0] : undefined
-    if (only === undefined) {
+    const said = value === null ? null : onlyIn(textsAt(value, given.from))
+    if (said === null) {
       return refusing(`\`${one.path}\` carries other than one value under \`${given.from}\``)
     }
-    const reached = await reach(over, ADD_PAGE_PROPERTY, handed(given, one.path, slugOf(only)))
+    const bare = slugOf(said)
+    const scope = above.get(bare)
+    const named = scope === undefined ? bare : `${given.pageType}/${scope}/${bare}`
+    const reached = await reach(over, ADD_PAGE_PROPERTY, handed(given, one.path, named))
     if (reached.said.refused !== null) {
       return refusing(`\`${one.path}\` is refused, and ${reached.said.refused}`)
     }
     over = reached.world
     answers.push(reached.said)
+    if (said === named) continue
+    const again = await reach(over, CHANGE_FILE_CONTENT, {
+      at: one.path,
+      old: stated(given.from, said),
+      new: stated(given.from, named),
+    })
+    if (again.said.refused !== null) {
+      return refusing(`\`${one.path}\` is refused, and ${again.said.refused}`)
+    }
+    over = again.world
+    answers.push(again.said)
   }
   return gathered(answers)
 }
