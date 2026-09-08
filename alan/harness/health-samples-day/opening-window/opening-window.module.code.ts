@@ -67,7 +67,7 @@ function spanOf(block: SleepBlockInput): Span | null {
   return { startMs, endMs }
 }
 
-export function wakeInstantFromBlocks(
+export function openingInstantFromBlocks(
   blocks: readonly SleepBlockInput[],
   dayStr: string
 ): Date | null {
@@ -114,7 +114,7 @@ export function dayAfter(dayStr: string): string {
   return getEsoDayStr(getEsoDayWindow(dayStr).end)
 }
 
-export function wakeInstantOn(root: string, dayStr: string): Date | Refused {
+export function openingInstantOn(root: string, dayStr: string): Date | Refused {
   const esoWindow = getEsoDayWindow(dayStr)
   if (esoWindow.start.getTime() === 0 || esoWindow.end.getTime() === 0) {
     return {
@@ -123,29 +123,31 @@ export function wakeInstantOn(root: string, dayStr: string): Date | Refused {
   }
   const blocks = sleepBlocksOn(root, dayStr)
   if ("refused" in blocks) return blocks
-  const woke = wakeInstantFromBlocks(blocks, dayStr)
-  if (woke === null) {
+  const opening = openingInstantFromBlocks(blocks, dayStr)
+  if (opening === null) {
     return {
       refused:
         `${dayStr} holds ${blocks.length} stretch(es) of time and none titled ${SLEEP} starts or ` +
-        "runs past six the evening before, so when Alan woke is not recorded",
+        "runs past six the evening before, so when the day opened is not recorded",
     }
   }
-  return woke
+  return opening
 }
 
-export function wakeDayWindowIn(root: string, dayStr: string): DayWindow | Refused {
-  const from = wakeInstantOn(root, dayStr)
+export function openingWindowIn(root: string, dayStr: string): DayWindow | Refused {
+  const from = openingInstantOn(root, dayStr)
   if ("refused" in from) return { refused: `${dayStr} has no window: ${from.refused}` }
-  const to = wakeInstantOn(root, dayAfter(dayStr))
+  const to = openingInstantOn(root, dayAfter(dayStr))
   if ("refused" in to) {
-    return { refused: `${dayStr} has no window: it closes when Alan next woke, and ${to.refused}` }
+    return {
+      refused: `${dayStr} has no window: it closes when the next day opened, and ${to.refused}`,
+    }
   }
   return { from: from.toISOString(), to: to.toISOString() }
 }
 
-export function getWakeDayWindow(dayStr: string): DayWindow | Refused {
-  return wakeDayWindowIn(akashaRoot(), dayStr)
+export function getOpeningWindow(dayStr: string): DayWindow | Refused {
+  return openingWindowIn(akashaRoot(), dayStr)
 }
 
 export function spannedWindowIn(root: string, dayStr: string): DayWindow | Refused {
@@ -153,10 +155,10 @@ export function spannedWindowIn(root: string, dayStr: string): DayWindow | Refus
   if (eso.start.getTime() === 0 || eso.end.getTime() === 0) {
     return { refused: `'${dayStr}' is no day, so no span can be counted over it` }
   }
-  const woke = wakeInstantOn(root, dayStr)
-  const next = wakeInstantOn(root, dayAfter(dayStr))
+  const opening = openingInstantOn(root, dayStr)
+  const next = openingInstantOn(root, dayAfter(dayStr))
   return {
-    from: ("refused" in woke ? eveningOf(dayBefore(dayStr)) : woke).toISOString(),
+    from: ("refused" in opening ? eveningOf(dayBefore(dayStr)) : opening).toISOString(),
     to: ("refused" in next ? eveningOf(dayStr) : next).toISOString(),
   }
 }
@@ -166,7 +168,7 @@ export function spannedWindow(dayStr: string): DayWindow | Refused {
 }
 
 export function spannedFromDayBoundaryIn(root: string, dayStr: string): boolean {
-  return "refused" in wakeDayWindowIn(root, dayStr)
+  return "refused" in openingWindowIn(root, dayStr)
 }
 
 export function spannedFromDayBoundary(dayStr: string): boolean {

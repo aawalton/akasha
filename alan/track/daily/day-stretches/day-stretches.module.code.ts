@@ -10,8 +10,8 @@ import type {
 import {
   checkoutRoot,
   DAILY_TRACKING,
+  DAY_PAGE_TYPE,
   SESSION_TRACKING,
-  WAKE_DAY,
 } from "../day-place/day-place.module.code.ts"
 import { pageOf } from "../track-pages/track-pages.module.code.ts"
 
@@ -47,7 +47,7 @@ function meetsTest(held: unknown, test: Readonly<Record<string, unknown>>, key: 
 
 function sessionsAnswered(query: Readonly<Record<string, unknown>>): Answered {
   const root = checkoutRoot()
-  const asked = asking(root, { pageTypeSlug: WAKE_DAY, keys: ["slug", SESSIONS] } as never)
+  const asked = asking(root, { pageTypeSlug: DAY_PAGE_TYPE, keys: ["slug", SESSIONS] } as never)
   if ("refused" in asked) return { ok: false, why: asked.refused }
 
   const wanted = query["keys"]

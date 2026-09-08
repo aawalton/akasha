@@ -4,9 +4,9 @@ export const healthSamplesDay = {
   id: "01a05bc7-9129-7007-82af-fd4145203797",
   pageTypeSlug: "workspace-package",
   slug: "health-samples-day",
-  definition: "a day's health readings, counted from the moment Alan woke",
+  definition: "a day's health readings, counted from the moment that day opened",
   manifest: "json",
-  partSlugs: ["module/wake-day-window", "module/active-calories"],
+  partSlugs: ["module/opening-window", "module/active-calories"],
   invariants: [
     {
       invariantKind: "absence",

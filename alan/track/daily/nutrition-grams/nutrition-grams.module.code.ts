@@ -1,6 +1,6 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-service/asking"
-import { wakeDayWindow } from "../day-opening/day-opening.module.code.ts"
+import { openedDayWindow } from "../day-opening/day-opening.module.code.ts"
 import { numberOf } from "../day-scan-window/day-scan-window.module.code.ts"
 
 const FOOD_ENTRY_PAGE_TYPE_SLUG = "food-entry"
@@ -20,7 +20,7 @@ function checkoutRoot(): string {
 }
 
 export async function loadDayPlantGrams(dayStr: string): Promise<number> {
-  const window = wakeDayWindow(resolveRoots(), dayStr)
+  const window = openedDayWindow(resolveRoots(), dayStr)
   const asked = asking(checkoutRoot(), {
     pageTypeSlug: FOOD_ENTRY_PAGE_TYPE_SLUG,
     where: { [HAPPENED_AT]: { "at-or-after": window.from, before: window.to } },

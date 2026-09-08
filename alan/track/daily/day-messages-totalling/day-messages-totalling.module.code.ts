@@ -5,7 +5,7 @@ import { type Counted, countedIn } from "../day-messages/day-messages.module.cod
 
 const PERSONA_MESSAGES = "personaMessages"
 
-const WAKE_DAY = "day"
+const DAY_PAGE_TYPE = "day"
 
 const DATE = "date"
 
@@ -33,7 +33,7 @@ export function sentOver(days: readonly Dayed[]): ReadonlyMap<string, number> {
 
 export function daysMessaged(root: string): readonly Dayed[] {
   const found: Dayed[] = []
-  for (const one of valuesOfType(root, WAKE_DAY)) {
+  for (const one of valuesOfType(root, DAY_PAGE_TYPE)) {
     const day = textAt(one.value, DATE)
     if (day === null) continue
     const held = uncommittedIn(root, one.path)

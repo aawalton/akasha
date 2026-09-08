@@ -7,7 +7,7 @@ import { lowestIn, mailOn } from "@akasha/readouts/inboxes-email"
 import { tasksIn } from "@akasha/readouts/inboxes-tasks"
 import { keepReading } from "@akasha/readouts/readout-reading"
 import { statedAt } from "@akasha/readouts/readout-tier"
-import { wakeDayOf } from "../../../track/daily/day-opening/day-opening.module.code.ts"
+import { openedDayOf } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 
 const READOUT = "readout"
@@ -91,7 +91,7 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
   }
 
   const esoDay = getEsoDayStr(now)
-  const mailDay = wakeDayOf(resolveRoots(), now)
+  const mailDay = openedDayOf(resolveRoots(), now)
 
   const [day, mail] = await Promise.allSettled([
     trackedDay(esoDay),

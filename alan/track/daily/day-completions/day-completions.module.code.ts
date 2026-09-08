@@ -1,7 +1,7 @@
 import { dataError } from "@akasha/errors-core/exit-code"
 import { asking } from "@akasha/pages-service/asking"
 import { entryKeysDeclared } from "../day-entry-keys/day-entry-keys.module.code.ts"
-import { checkoutRoot, WAKE_DAY } from "../day-place/day-place.module.code.ts"
+import { checkoutRoot, DAY_PAGE_TYPE } from "../day-place/day-place.module.code.ts"
 
 const COMPLETED_TASKS = "completed-tasks"
 
@@ -23,7 +23,7 @@ export function completedTasksInSpan(
     )
   }
   const asked = asking(root, {
-    pageTypeSlug: WAKE_DAY,
+    pageTypeSlug: DAY_PAGE_TYPE,
     keys: ["slug", COMPLETED_TASKS_KEY],
   } as never)
   if ("refused" in asked) {

@@ -1,10 +1,10 @@
 import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
-export const wakeDayWindow = {
+export const openingWindow = {
   id: "01a05bc7-9129-7008-8402-c98c706da8be",
   pageTypeSlug: "module",
-  slug: "wake-day-window",
-  definition: "the span from the moment Alan woke to the moment he woke next",
+  slug: "opening-window",
+  definition: "the span from one opening of Alan's day to the next opening of it",
   code: "ts",
   test: "ts",
   invariants: [
@@ -44,7 +44,7 @@ export const wakeDayWindow = {
     },
     {
       invariantKind: "departure",
-      statement: "A window closes at the moment Alan woke on the day after.",
+      statement: "A window closes at the moment the day after opened.",
     },
     {
       invariantKind: "departure",
@@ -52,11 +52,11 @@ export const wakeDayWindow = {
     },
     {
       invariantKind: "departure",
-      statement: "A day with no recorded wake refuses as a value rather than raising.",
+      statement: "A day with no recorded opening refuses as a value rather than raising.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here invents the moment Alan woke.",
+      statement: "Nothing here invents the moment a day opened.",
     },
     {
       invariantKind: "departure",

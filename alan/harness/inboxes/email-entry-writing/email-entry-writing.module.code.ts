@@ -7,7 +7,7 @@ import { refuseALiveTestWrite } from "@akasha/pages/live-store-write-guard"
 import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages/page-body"
 import { nameFaultIn } from "@akasha/pages/page-export-name"
 import { asking } from "@akasha/pages-service/asking"
-import { wakeDayOf } from "../../../track/daily/day-opening/day-opening.module.code.ts"
+import { openedDayOf } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 
 const EMAIL_ENTRY_PAGE_TYPE_SLUG = "email-entry"
 
@@ -150,7 +150,7 @@ function stoodAs(root: string, at: string, body: string, slug: string): undefine
 
 export async function persistEmailEntry(count: number, now: Date): Promise<PersistOutcome> {
   const root = checkoutRoot()
-  const day = wakeDayOf(resolveRoots(), now)
+  const day = openedDayOf(resolveRoots(), now)
   const slug = slugFor(day)
   const row = standingRow(day)
   if (row === undefined) {

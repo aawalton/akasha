@@ -1,6 +1,6 @@
 import { selectHealthSamples } from "@akasha/health-samples-access/sample-selecting"
 import type { HealthSampleRecord } from "@akasha/health-samples-access/sample-shape"
-import { spannedWindow } from "../wake-day-window/wake-day-window.module.code.ts"
+import { spannedWindow } from "../opening-window/opening-window.module.code.ts"
 
 const DAYS_AT_ONCE = 4
 

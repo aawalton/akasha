@@ -1,8 +1,8 @@
 import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
-import { isSleepTitle } from "@akasha/health-samples-day/wake-day-window"
+import { isSleepTitle } from "@akasha/health-samples-day/opening-window"
 import type { Roots } from "@akasha/pages/markdown-page-at"
 
-export const WAKE_DAY = "day"
+export const DAY_PAGE_TYPE = "day"
 
 export interface SleepBlock {
   readonly title: unknown
@@ -10,7 +10,7 @@ export interface SleepBlock {
   readonly endTime: unknown
 }
 
-export function wakeInstantFromBlocks(
+export function openingInstantFromBlocks(
   blocks: readonly SleepBlock[],
   window: { readonly start: Date; readonly end: Date }
 ): Date | null {
@@ -34,14 +34,14 @@ export function sleepBlocksOn(_roots: Roots, _dayStr: string): readonly SleepBlo
   return []
 }
 
-export function wakeInstantOn(roots: Roots, dayStr: string): string {
+export function openingInstantOn(roots: Roots, dayStr: string): string {
   const window = getEsoDayWindow(dayStr)
-  const woke = wakeInstantFromBlocks(sleepBlocksOn(roots, dayStr), window)
+  const woke = openingInstantFromBlocks(sleepBlocksOn(roots, dayStr), window)
   return (woke ?? window.start).toISOString()
 }
 
-export function wokeAtOn(roots: Roots, at: number): string {
-  return wakeInstantOn(roots, getEsoDayStr(new Date(at)))
+export function openingInstantAt(roots: Roots, at: number): string {
+  return openingInstantOn(roots, getEsoDayStr(new Date(at)))
 }
 
 export function dayAfter(dayStr: string): string {
@@ -52,27 +52,27 @@ export function dayBefore(dayStr: string): string {
   return getEsoDayStr(new Date(getEsoDayWindow(dayStr).start.getTime() - 1))
 }
 
-export function wakeDayOf(roots: Roots, instant: Date): string {
+export function openedDayOf(roots: Roots, instant: Date): string {
   const day = getEsoDayStr(instant)
   const at = instant.getTime()
-  if (at < Date.parse(wakeInstantOn(roots, day))) return dayBefore(day)
+  if (at < Date.parse(openingInstantOn(roots, day))) return dayBefore(day)
   const next = dayAfter(day)
-  return at >= Date.parse(wakeInstantOn(roots, next)) ? next : day
+  return at >= Date.parse(openingInstantOn(roots, next)) ? next : day
 }
 
-export function wakeDayWindow(
+export function openedDayWindow(
   roots: Roots,
   dayStr: string
 ): { readonly from: string; readonly to: string } {
-  return { from: wakeInstantOn(roots, dayStr), to: wakeInstantOn(roots, dayAfter(dayStr)) }
+  return { from: openingInstantOn(roots, dayStr), to: openingInstantOn(roots, dayAfter(dayStr)) }
 }
 
-export interface Woke {
+export interface DayOpening {
   readonly instant: string
   readonly day: string
 }
 
-export function wokeOn(roots: Roots, at: number): Woke {
-  const day = wakeDayOf(roots, new Date(at))
-  return { instant: wakeInstantOn(roots, day), day }
+export function openedOn(roots: Roots, at: number): DayOpening {
+  const day = openedDayOf(roots, new Date(at))
+  return { instant: openingInstantOn(roots, day), day }
 }

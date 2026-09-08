@@ -9,7 +9,7 @@ import type { Value } from "@akasha/pages/page-value"
 import { asking } from "@akasha/pages-service/asking"
 import { composedFor } from "@akasha/pages-service/composing"
 import { rootOf, written } from "../../../../alan/track/daily/akasha-day/akasha-day.module.code.ts"
-import { wakeDayOf } from "../../../../alan/track/daily/day-opening/day-opening.module.code.ts"
+import { openedDayOf } from "../../../../alan/track/daily/day-opening/day-opening.module.code.ts"
 import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
@@ -261,7 +261,7 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
   if ("refused" in happenedAtRead) return refused(happenedAtRead.refused, 1)
   const happenedAtDate = happenedAtRead.at
   const happenedAt = happenedAtDate.toISOString()
-  const dayStr = wakeDayOf(resolveRoots(), happenedAtDate)
+  const dayStr = openedDayOf(resolveRoots(), happenedAtDate)
   const root = rootOf()
 
   let bytes: Uint8Array | null = null

@@ -7,7 +7,7 @@ import type {
   AnsweredRow,
   Page,
 } from "../day-narrow-types/day-narrow-types.module.code.ts"
-import { checkoutRoot, WAKE_DAY } from "../day-place/day-place.module.code.ts"
+import { checkoutRoot, DAY_PAGE_TYPE } from "../day-place/day-place.module.code.ts"
 import { pageOf } from "../track-pages/track-pages.module.code.ts"
 
 function dayAnswered(
@@ -16,7 +16,7 @@ function dayAnswered(
 ): Answered {
   const root = checkoutRoot()
   const asked = asking(root, {
-    pageTypeSlug: WAKE_DAY,
+    pageTypeSlug: DAY_PAGE_TYPE,
     where,
     limit: 1,
     ...(keys === undefined ? {} : { keys: keys.map(camelizeKey) }),
@@ -42,7 +42,7 @@ export function askDayById(dailyId: string): Promise<Answered> {
 
 async function only(asked: Promise<Answered>): Promise<Page | null> {
   const answer = await asked
-  if (!answer.ok) throw dataError(`reading ${WAKE_DAY} pages: ${answer.why}`)
+  if (!answer.ok) throw dataError(`reading ${DAY_PAGE_TYPE} pages: ${answer.why}`)
   const row = answer.rows[0]
   return row === undefined ? null : pageOf(row.values)
 }
@@ -60,7 +60,7 @@ export async function dayValuesByDate(
   keys?: readonly string[]
 ): Promise<Readonly<Record<string, unknown>> | null> {
   const answer = dayAnswered({ date: { is: dayStr } }, keys)
-  if (!answer.ok) throw dataError(`reading the ${WAKE_DAY} ${dayStr}: ${answer.why}`)
+  if (!answer.ok) throw dataError(`reading the ${DAY_PAGE_TYPE} ${dayStr}: ${answer.why}`)
   const row = answer.rows[0]
   return row === undefined ? null : row.values
 }

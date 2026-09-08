@@ -5,12 +5,12 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { listedFiled } from "@akasha/indexes/testing"
 import {
   dayAfter,
+  openingInstantFromBlocks,
+  openingWindowIn,
   sleepBlocksOn,
   spannedFromDayBoundaryIn,
   spannedWindowIn,
-  wakeDayWindowIn,
-  wakeInstantFromBlocks,
-} from "./wake-day-window.module.code.ts"
+} from "./opening-window.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -114,30 +114,36 @@ const REST_ROWS = [
 ]
 
 test("a day opens when the first sleep after six the evening before began", () => {
-  expect(wakeInstantFromBlocks(SLEPT_ROWS, SLEPT)?.toISOString()).toBe("2026-07-04T04:00:00.000Z")
+  expect(openingInstantFromBlocks(SLEPT_ROWS, SLEPT)?.toISOString()).toBe(
+    "2026-07-04T04:00:00.000Z"
+  )
 })
 
 test("a sleep ending before six in the morning still opens the day", () => {
-  expect(wakeInstantFromBlocks(EARLY_ROWS, SLEPT)?.toISOString()).toBe("2026-07-04T03:00:00.000Z")
+  expect(openingInstantFromBlocks(EARLY_ROWS, SLEPT)?.toISOString()).toBe(
+    "2026-07-04T03:00:00.000Z"
+  )
 })
 
 test("a sleep starting before six in the evening and running past it opens the day", () => {
-  expect(wakeInstantFromBlocks(EVENING_ROWS, SLEPT)?.toISOString()).toBe("2026-07-03T20:00:00.000Z")
+  expect(openingInstantFromBlocks(EVENING_ROWS, SLEPT)?.toISOString()).toBe(
+    "2026-07-03T20:00:00.000Z"
+  )
 })
 
 test("a nap later in the day is not what the day opened at", () => {
-  expect(wakeInstantFromBlocks([...EARLY_ROWS, NAP_ROW], SLEPT)?.toISOString()).toBe(
+  expect(openingInstantFromBlocks([...EARLY_ROWS, NAP_ROW], SLEPT)?.toISOString()).toBe(
     "2026-07-04T03:00:00.000Z"
   )
 })
 
 test("a stretch titled rest is no sleep", () => {
-  expect(wakeInstantFromBlocks(REST_ROWS, SLEPT)).toBe(null)
+  expect(openingInstantFromBlocks(REST_ROWS, SLEPT)).toBe(null)
 })
 
 test("a sleep starting after six in the evening opens the day after rather than that day", () => {
-  expect(wakeInstantFromBlocks(LATE_ROWS, SLEPT)).toBe(null)
-  expect(wakeInstantFromBlocks(LATE_ROWS, NEXT)?.toISOString()).toBe("2026-07-04T23:00:00.000Z")
+  expect(openingInstantFromBlocks(LATE_ROWS, SLEPT)).toBe(null)
+  expect(openingInstantFromBlocks(LATE_ROWS, NEXT)?.toISOString()).toBe("2026-07-04T23:00:00.000Z")
 })
 
 test("the stretches of time a day held are read off the file beside its page", () => {
@@ -147,9 +153,9 @@ test("the stretches of time a day held are read off the file beside its page", (
   expect((blocks as readonly unknown[]).length).toBe(SLEPT_ROWS.length)
 })
 
-test("a day whose sleep is recorded answers a window from one wake to the next", () => {
+test("a day whose sleep is recorded answers a window from one opening to the next", () => {
   const root = worldFiled("akasha-wake-window-")
-  expect(wakeDayWindowIn(root, SLEPT)).toEqual({
+  expect(openingWindowIn(root, SLEPT)).toEqual({
     from: "2026-07-04T04:00:00.000Z",
     to: "2026-07-05T04:00:00.000Z",
   })
@@ -158,13 +164,13 @@ test("a day whose sleep is recorded answers a window from one wake to the next",
 test("a day whose stretches of time were never written refuses", () => {
   const root = worldFiled("akasha-wake-unwritten-")
   dayFiled(root, SLEPT, null)
-  expect(refusalIn(wakeDayWindowIn(root, SLEPT))).toContain("nothing is there")
+  expect(refusalIn(openingWindowIn(root, SLEPT))).toContain("nothing is there")
 })
 
 test("a day holding stretches of time and no sleep refuses", () => {
   const root = worldFiled("akasha-wake-nosleep-")
   dayFiled(root, SLEPT, [SLEPT_ROWS[1]])
-  expect(refusalIn(wakeDayWindowIn(root, SLEPT))).toContain("when Alan woke is not recorded")
+  expect(refusalIn(openingWindowIn(root, SLEPT))).toContain("when the day opened is not recorded")
 })
 
 test("a day with no sleep at all is spanned from six the previous evening in New York", () => {
@@ -185,20 +191,20 @@ test("a day whose next day records no sleep closes at six that evening in New Yo
   })
 })
 
-test("a day whose next day has no recorded wake refuses, the window having no end", () => {
+test("a day whose next day has no recorded opening refuses, the window having no end", () => {
   const root = worldFiled("akasha-wake-noend-")
   dayFiled(root, NEXT, null)
-  expect(refusalIn(wakeDayWindowIn(root, SLEPT))).toContain("it closes when Alan next woke")
+  expect(refusalIn(openingWindowIn(root, SLEPT))).toContain("it closes when the next day opened")
 })
 
 test("a day the index names no page for refuses", () => {
   const root = worldFiled("akasha-wake-unfiled-")
-  expect(refusalIn(wakeDayWindowIn(root, "2026-01-01"))).toContain("a day is one page")
+  expect(refusalIn(openingWindowIn(root, "2026-01-01"))).toContain("a day is one page")
 })
 
 test("what is no day at all refuses", () => {
   const root = worldFiled("akasha-wake-noday-")
-  expect(refusalIn(wakeDayWindowIn(root, "not-a-day"))).toContain("is no day")
+  expect(refusalIn(openingWindowIn(root, "not-a-day"))).toContain("is no day")
 })
 
 test("a day whose sleep is recorded on both ends was not spanned from the boundary", () => {
@@ -206,13 +212,13 @@ test("a day whose sleep is recorded on both ends was not spanned from the bounda
   expect(spannedFromDayBoundaryIn(root, SLEPT)).toBe(false)
 })
 
-test("a day with no recorded wake was spanned from the boundary", () => {
+test("a day with no recorded opening was spanned from the boundary", () => {
   const root = worldFiled("akasha-wake-spanned-true-")
   dayFiled(root, SLEPT, null)
   expect(spannedFromDayBoundaryIn(root, SLEPT)).toBe(true)
 })
 
-test("a day whose next day has no recorded wake was spanned from the boundary at one end", () => {
+test("a day whose next day has no recorded opening was spanned from the boundary at one end", () => {
   const root = worldFiled("akasha-wake-spanned-end-")
   dayFiled(root, NEXT, null)
   expect(spannedFromDayBoundaryIn(root, SLEPT)).toBe(true)

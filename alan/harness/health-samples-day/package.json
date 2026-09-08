@@ -4,7 +4,7 @@
   "type": "module",
   "exports": {
     "./active-calories": "./active-calories/active-calories.module.code.ts",
-    "./wake-day-window": "./wake-day-window/wake-day-window.module.code.ts"
+    "./opening-window": "./opening-window/opening-window.module.code.ts"
   },
   "dependencies": {
     "@akasha/day": "workspace:*",

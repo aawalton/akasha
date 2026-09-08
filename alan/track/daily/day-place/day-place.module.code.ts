@@ -80,7 +80,7 @@ export function dropSessionRow(dayStr: string, named: string, writer: string): P
   return landAkashaSessionRow("remove-row", at.name, {}, named, writer)
 }
 
-export const WAKE_DAY = "day"
+export const DAY_PAGE_TYPE = "day"
 
 export function checkoutRoot(): string {
   const root = rootFor(resolveRoots(), AKASHA_REPO)

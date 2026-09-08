@@ -17,8 +17,8 @@ import { attributeIntelligence } from "../../../attributes/readouts/attribute-in
 import { attributeStrength } from "../../../attributes/readouts/attribute-strength/attribute-strength.readout.ts"
 import { attributeWisdom } from "../../../attributes/readouts/attribute-wisdom/attribute-wisdom.readout.ts"
 import {
-  wakeDayOf,
-  wakeDayWindow,
+  openedDayOf,
+  openedDayWindow,
 } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 import { sessionsOfDay } from "../../../track/daily/day-stretches/day-stretches.module.code.ts"
@@ -86,7 +86,7 @@ async function charismaOf(day: Readonly<Record<string, unknown>>): Promise<numbe
 
 async function constitutionOf(now: Date): Promise<number> {
   const here = resolveRoots()
-  const window = wakeDayWindow(here, wakeDayOf(here, now))
+  const window = openedDayWindow(here, openedDayOf(here, now))
   const checkout = here[AKASHA]
   if (checkout === undefined || checkout === "") {
     throw new Error(

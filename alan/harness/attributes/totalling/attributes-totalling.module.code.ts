@@ -8,7 +8,7 @@ import { enduranceIn } from "../../../attributes/pages/endurance.attribute.code.
 import { intelligenceIn } from "../../../attributes/pages/intelligence.attribute.code.ts"
 import { strengthIn } from "../../../attributes/pages/strength.attribute.code.ts"
 import { wisdomIn } from "../../../attributes/pages/wisdom.attribute.code.ts"
-import { wakeDayWindow } from "../../../track/daily/day-opening/day-opening.module.code.ts"
+import { openedDayWindow } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 import { askingIn } from "../../plants/reading/plants-reading.module.code.ts"
 import {
   CHARISMA_PAGE,
@@ -21,7 +21,7 @@ import {
   WISDOM_PAGE,
 } from "../reading/attributes-reading.module.code.ts"
 
-const WAKE_DAY = "day"
+const DAY_PAGE_TYPE = "day"
 
 const DATE = "date"
 
@@ -88,7 +88,7 @@ export function daysCounted(days: readonly Day[], before?: string): readonly Day
 }
 
 export function daysTracked(root: string): readonly Day[] {
-  const asked = asking(root, { pageTypeSlug: WAKE_DAY, keys: DAY_KEYS } as never)
+  const asked = asking(root, { pageTypeSlug: DAY_PAGE_TYPE, keys: DAY_KEYS } as never)
   if ("refused" in asked) {
     throw new Error(
       `the days Alan tracked could not be read, so every total is unknown rather than zero: ${asked.refused}`
@@ -105,8 +105,8 @@ export function spanTracked(days: readonly Day[]): { readonly from: string; read
   if (first === undefined || last === undefined) throw new Error(NO_DAY_TRACKED)
   const here = resolveRoots()
   return {
-    from: wakeDayWindow(here, String(first[DATE] ?? "")).from,
-    to: wakeDayWindow(here, String(last[DATE] ?? "")).to,
+    from: openedDayWindow(here, String(first[DATE] ?? "")).from,
+    to: openedDayWindow(here, String(last[DATE] ?? "")).to,
   }
 }
 

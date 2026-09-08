@@ -4,8 +4,8 @@ import type { Asking } from "@akasha/readouts/readout-asking"
 import { keepReading } from "@akasha/readouts/readout-reading"
 import { fetchPlantGrams } from "@akasha/readouts/upkeep-plants"
 import {
-  wakeDayOf,
-  wakeDayWindow,
+  openedDayOf,
+  openedDayWindow,
 } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 
 export const READOUT_PAGE = "readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
@@ -20,7 +20,7 @@ export function askingIn(root: string): Asking {
 
 export async function takeReading(root: string, now: Date = new Date()): Promise<number> {
   const here = resolveRoots()
-  const window = wakeDayWindow(here, wakeDayOf(here, now))
+  const window = openedDayWindow(here, openedDayOf(here, now))
   const checkout = here[AKASHA] ?? root
   const grams = await fetchPlantGrams(askingIn(checkout), window.from, window.to)
   keepReading(root, READOUT_PAGE, grams, now)
