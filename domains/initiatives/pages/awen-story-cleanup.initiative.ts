@@ -10,7 +10,7 @@ export const awenStoryCleanup = {
     {
       statement: "The story/ tree passes the `folder-matches-a-shape` check.",
       workingMemory:
-        "`folder-matches-a-shape` over `story` answered 19 refusals and answers 3. 18 were a `pages` folder holding page files beside per-page folders; the shapes settle which way rather than Alan, because one page carrying a file beside it puts every page in that folder into a folder of its own. 489 pages moved that way. Left: `story-chapters-read` opens with the `story` above it and holds 37946 files, and its 13 siblings all dropped that prefix. Two refusals and an EISDIR throw are filed as findings.",
+        "`folder-matches-a-shape` over `story` answered 19 and answers 2, both one conflict: a page whose slug opens with its type's slug sits in no folder that passes, because the shape reads a folder's name off its one page. `world-tree-trilogy` is the name the book series and the story read carry, and one doctrine pack is ever here. Which rule yields is Alan's, and it is 194 of athena's 196 refusals over `commands/`. Filed as `two-pages-bind-a-page-own-folder-name-and-disagree`.",
     },
     {
       statement: "Typechecking a small patch costs a small patch's worth of memory.",
