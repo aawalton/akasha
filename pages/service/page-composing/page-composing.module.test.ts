@@ -193,9 +193,9 @@ test("a slug the name above it does not open is the folder whole", () => {
   expect(folderFor("seats", "seat", "seat-")).toBe("seat-")
 })
 
-const A_HELD_DAY = "wake-day-2026-03-06"
+const A_HELD_DAY = "day-2026-03-06"
 
-const A_HELD_DAY_AT = "alan/track/days/pages/2026-03-06/wake-day-2026-03-06.day.ts"
+const A_HELD_DAY_AT = "alan/track/days/pages/2026-03-06/day-2026-03-06.day.ts"
 
 test("a merge keeps every key the caller does not name", () => {
   const said = foldedFor(ROOT, [
@@ -205,7 +205,7 @@ test("a merge keeps every key the caller does not name", () => {
   expect(content).toContain('title: "a new title"')
   expect(content).toContain('date: "2026-03-06"')
   expect(content).toContain("spannedFromDayBoundary: true")
-  expect(content).toContain('slug: "wake-day-2026-03-06"')
+  expect(content).toContain('slug: "day-2026-03-06"')
   expect(content).toContain('pageTypeSlug: "day"')
   expect(content).toContain("01a060ba-f203-7ab9-b6f4-796574aad5cd")
 })

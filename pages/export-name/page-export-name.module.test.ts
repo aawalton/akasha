@@ -64,7 +64,7 @@ test("a slug opening with a digit names no export, because no identifier opens w
 
 test("the page type slug in front of the digit is what makes such a slug name an export", () => {
   expect(nameFaultIn("great-course-7-days-of-drawing")).toBeNull()
-  expect(nameFaultIn("wake-day-2026-08-20")).toBeNull()
+  expect(nameFaultIn("day-2026-08-20")).toBeNull()
 })
 
 test("a slug whose name TypeScript keeps for itself names no export", () => {
