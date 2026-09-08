@@ -36,12 +36,6 @@ export const aineAuditChangeGuards = {
         "Every mechanical change is handed the path or the page it acts on, and each works that argument out again. The census to take is which changes read `at`, which read `from` and `to`, and which read an address, before anything is factored.",
     },
     {
-      statement:
-        "The kind of target a change acts on is factored out of the changes that carry one.",
-      workingMemory:
-        "`remove-page` and `remove-page-type` pick the change to reach by asking what kind of file the target is, through `addressFor` on the extension and on whether the path names a page. That question is asked in more than one change and belongs in one.",
-    },
-    {
       statement: "The mode a change runs in is factored out of the changes that carry one.",
       workingMemory:
         "A change answers edits rather than writing them, and some roads take a dry run or a draft. What varies between those roads is a mode the change is handed rather than a branch each change writes.",

@@ -90,5 +90,10 @@ export const change = {
       statement:
         "A change's slug names the mode, then the thing acted on, then the part of that thing.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The kind of file a path names is read from one module rather than worked out in each change.",
+    },
   ],
 } as const satisfies PageType
