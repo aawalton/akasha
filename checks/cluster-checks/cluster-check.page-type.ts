@@ -174,6 +174,7 @@ export const clusterCheck = {
     "module/head-styles-violations",
     "module/health-samples-stream-violations",
     "module/healthkit-read-only-violations",
+    "module/image-tag-rule",
   ],
   properties: [
     {
