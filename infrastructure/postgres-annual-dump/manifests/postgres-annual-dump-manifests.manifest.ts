@@ -6,4 +6,5 @@ export const postgresAnnualDumpManifests = {
   slug: "postgres-annual-dump-manifests",
   definition: "the CronJob that writes a whole copy of the database once a year",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

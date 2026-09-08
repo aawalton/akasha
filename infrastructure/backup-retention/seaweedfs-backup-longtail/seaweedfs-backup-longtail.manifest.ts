@@ -6,4 +6,5 @@ export const seaweedfsBackupLongtail = {
   slug: "seaweedfs-backup-longtail",
   definition: "the scheduled job copying the oldest backups on to slower storage",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

@@ -7,4 +7,5 @@ export const pgbouncer = {
   definition:
     "the namespace, config map, deployment and service of the pooler holding the database connections",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

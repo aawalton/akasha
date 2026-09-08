@@ -7,4 +7,5 @@ export const seaweedfsBackupAssets = {
   definition:
     "the namespace, the disk and the cron job copying the stored assets off to separate storage",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

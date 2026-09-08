@@ -6,4 +6,5 @@ export const calendarSyncManifests = {
   slug: "calendar-sync-manifests",
   definition: "the CronJob that brings the day's calendar events in",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

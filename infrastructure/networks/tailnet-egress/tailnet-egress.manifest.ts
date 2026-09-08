@@ -7,4 +7,5 @@ export const tailnetEgress = {
   definition:
     "the deployment, service and policies of the proxy carrying traffic out over the private network",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

@@ -7,4 +7,5 @@ export const prometheus = {
   definition:
     "the metrics server, its namespace, its access rules, its storage, its configuration and its way in",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

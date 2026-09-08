@@ -7,4 +7,5 @@ export const seaweedfsBackupCnpg = {
   definition:
     "the namespace, the disk and the cron job copying the Postgres backups off to separate storage",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

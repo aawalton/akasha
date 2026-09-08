@@ -6,4 +6,5 @@ export const gfsPromoter = {
   slug: "gfs-promoter",
   definition: "the scheduled job deciding which Postgres backups are kept and which are released",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

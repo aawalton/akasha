@@ -6,4 +6,5 @@ export const ddnsHeadscale = {
   slug: "ddns-headscale",
   definition: "the namespace and cron job that point a public name at the current address",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

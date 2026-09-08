@@ -6,4 +6,5 @@ export const dcgmExporterDaemonset = {
   slug: "dcgm-exporter-daemonset",
   definition: "the daemon set publishing each node's graphics card as metrics",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

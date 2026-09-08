@@ -6,4 +6,5 @@ export const seaweedfsS3Gateway = {
   slug: "seaweedfs-s3-gateway",
   definition: "the deployment serving the stored files over the S3 interface, and the way in to it",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

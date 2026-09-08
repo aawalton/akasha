@@ -7,4 +7,5 @@ export const nodeExporterDaemonset = {
   definition:
     "the daemon set publishing each node's processor, memory, disk and network as metrics",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

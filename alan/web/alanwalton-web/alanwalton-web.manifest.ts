@@ -6,4 +6,5 @@ export const alanwaltonWeb = {
   slug: "alanwalton-web",
   definition: "the deployment and service running Alan's command center",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

@@ -6,4 +6,5 @@ export const postgrest = {
   slug: "postgrest",
   definition: "the namespace, deployment and service serving the database's tables over HTTP",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

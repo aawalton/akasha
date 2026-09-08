@@ -6,4 +6,5 @@ export const alanwaltonAtlas = {
   slug: "alanwalton-atlas",
   definition: "the deployment and service drawing Alan's map and taking in his phone's locations",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

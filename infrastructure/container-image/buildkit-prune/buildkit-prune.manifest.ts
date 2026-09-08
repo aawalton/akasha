@@ -6,4 +6,5 @@ export const buildkitPrune = {
   slug: "buildkit-prune",
   definition: "the cron job that clears the builder's unused cache",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

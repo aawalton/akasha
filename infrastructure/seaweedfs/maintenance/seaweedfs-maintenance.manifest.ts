@@ -7,4 +7,5 @@ export const seaweedfsMaintenance = {
   definition:
     "the namespace and the cron job rebalancing and compacting the volumes files are held in",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

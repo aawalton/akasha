@@ -6,4 +6,5 @@ export const gitTransportManifests = {
   slug: "git-transport-manifests",
   definition: "the namespace, the disk the repositories sit on and the deployment serving them",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

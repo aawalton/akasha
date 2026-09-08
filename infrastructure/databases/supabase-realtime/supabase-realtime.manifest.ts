@@ -7,4 +7,5 @@ export const supabaseRealtime = {
   definition:
     "the namespace, service and deployment of the server pushing a row's change to subscribed browsers",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

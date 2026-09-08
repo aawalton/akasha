@@ -6,4 +6,5 @@ export const seaweedfsVolume = {
   slug: "seaweedfs-volume",
   definition: "the deployment holding the bytes of the stored files and the way in to it",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

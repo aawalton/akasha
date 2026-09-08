@@ -6,4 +6,5 @@ export const smilingjennyWebManifests = {
   slug: "smilingjenny-web-manifests",
   definition: "the deployment and service running Jenny's command center",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

@@ -6,4 +6,5 @@ export const buildkit = {
   slug: "buildkit",
   definition: "the deployment running the builder that turns a Dockerfile into an image",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

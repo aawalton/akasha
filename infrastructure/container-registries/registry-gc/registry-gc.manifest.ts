@@ -6,4 +6,5 @@ export const registryGc = {
   slug: "registry-gc",
   definition: "the cron job that removes an image layer nothing refers to",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

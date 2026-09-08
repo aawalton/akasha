@@ -6,4 +6,5 @@ export const audhdalanWebManifests = {
   slug: "audhdalan-web-manifests",
   definition: "the deployment and service serving the site Alan's neurodiversity writing is on",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

@@ -7,4 +7,5 @@ export const seaweedfsFiler = {
   definition:
     "the deployment giving the stored bytes their names and directories, and the way in to it",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

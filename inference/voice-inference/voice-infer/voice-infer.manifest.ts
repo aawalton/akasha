@@ -6,4 +6,5 @@ export const voiceInfer = {
   slug: "voice-infer",
   definition: "the speech workload, its namespace and the way in to it",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

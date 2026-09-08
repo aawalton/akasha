@@ -6,4 +6,5 @@ export const seaweedfsEtcdSnapshot = {
   slug: "seaweedfs-etcd-snapshot",
   definition: "the cron job writing a copy of the cluster's own key store",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

@@ -7,4 +7,5 @@ export const postgresCnpg = {
   definition:
     "the namespace, volume, service, managed cluster, object store and scheduled backup of Postgres",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

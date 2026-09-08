@@ -7,4 +7,5 @@ export const pageStore = {
   definition:
     "the socat forwarder workload, its namespace, the way in to it and the network policies around it",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

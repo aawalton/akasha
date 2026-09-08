@@ -6,4 +6,5 @@ export const authProxyManifests = {
   slug: "auth-proxy-manifests",
   definition: "the namespace, the deployment reading a request's session and the way in to it",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

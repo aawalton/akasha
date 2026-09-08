@@ -6,4 +6,5 @@ export const temperWebManifests = {
   slug: "temper-web-manifests",
   definition: "the deployment and service serving the parts of Temper that run in a browser",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

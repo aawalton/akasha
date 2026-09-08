@@ -6,4 +6,5 @@ export const gotrue = {
   slug: "gotrue",
   definition: "the auth server workload, its namespace and the way in to it",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

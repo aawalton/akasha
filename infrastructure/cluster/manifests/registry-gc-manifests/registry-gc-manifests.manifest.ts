@@ -6,4 +6,5 @@ export const registryGcManifests = {
   slug: "registry-gc-manifests",
   definition: "the job that drops an image layer and tag nothing refers to",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

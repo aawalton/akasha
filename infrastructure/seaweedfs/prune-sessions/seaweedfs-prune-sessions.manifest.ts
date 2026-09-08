@@ -6,4 +6,5 @@ export const seaweedfsPruneSessions = {
   slug: "seaweedfs-prune-sessions",
   definition: "the namespace and the cron job removing stored agent sessions past their age",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

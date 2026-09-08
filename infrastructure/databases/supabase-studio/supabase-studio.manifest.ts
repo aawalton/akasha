@@ -7,4 +7,5 @@ export const supabaseStudio = {
   definition:
     "the namespace, service and deployment of the interface the database is read and edited through",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

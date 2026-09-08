@@ -6,4 +6,5 @@ export const headscaleStatefulsets = {
   slug: "headscale-statefulsets",
   definition: "the coordination server's workload and the router that reaches the nodes",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

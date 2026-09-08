@@ -6,4 +6,5 @@ export const cloudflared = {
   slug: "cloudflared",
   definition: "the namespace and deployment holding the tunnel traffic reaches the cluster over",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

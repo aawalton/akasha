@@ -7,4 +7,5 @@ export const headscale = {
   definition:
     "the workload, service and policies running the server that admits machines to the private network",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

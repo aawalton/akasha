@@ -6,6 +6,7 @@ export const gitTransportJanitor = {
   slug: "git-transport-janitor",
   definition: "the cron job clearing push debris out of the repositories the transport serves",
   code: "ts",
+  generatedDirectory: true,
   invariants: [
     {
       invariantKind: "departure",

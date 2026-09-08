@@ -6,4 +6,5 @@ export const loki = {
   slug: "loki",
   definition: "the log store's namespace, its configuration, its deployment and the way in to it",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

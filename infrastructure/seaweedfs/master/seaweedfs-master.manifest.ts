@@ -7,4 +7,5 @@ export const seaweedfsMaster = {
   definition:
     "the namespace, the store's disks and the deployment deciding which volume a file goes to",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

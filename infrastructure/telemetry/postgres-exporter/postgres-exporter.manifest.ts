@@ -6,4 +6,5 @@ export const postgresExporter = {
   slug: "postgres-exporter",
   definition: "the database exporter's queries, its deployment and the way in to it",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

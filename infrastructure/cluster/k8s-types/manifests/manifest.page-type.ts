@@ -1,9 +1,11 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { GeneratedDirectory } from "./properties/generated-directory.build-folder-property.ts"
 import type { ManifestCode } from "./properties/manifest-code.file-property.ts"
 
 export type Manifest = Domain & {
   code: ManifestCode
+  generatedDirectory?: GeneratedDirectory
 }
 
 export const manifest = {
@@ -12,10 +14,13 @@ export const manifest = {
   slug: "manifest",
   definition: "the Kubernetes resources a thing is applied as",
   pluralSlug: "manifests",
-  partSlugs: ["file-property/manifest-code"],
+  partSlugs: ["file-property/manifest-code", "build-folder-property/generated-directory"],
   extendsSlug: ["page-type/domain"],
   allowsTmpPaths: true,
-  properties: [{ pagePropertySlug: "file-property/manifest-code", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "file-property/manifest-code", required: true, many: false },
+    { pagePropertySlug: "build-folder-property/generated-directory", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",

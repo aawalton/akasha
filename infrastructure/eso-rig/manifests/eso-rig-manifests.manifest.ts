@@ -7,4 +7,5 @@ export const esoRigManifests = {
   definition:
     "the privileged GPU workload running the Elder Scrolls Online client and the namespace holding it",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest

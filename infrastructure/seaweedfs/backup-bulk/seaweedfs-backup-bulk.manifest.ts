@@ -7,4 +7,5 @@ export const seaweedfsBackupBulk = {
   definition:
     "the namespace, the disk and the cron job copying the logs, agent sessions and network database off",
   code: "ts",
+  generatedDirectory: true,
 } as const satisfies Manifest
