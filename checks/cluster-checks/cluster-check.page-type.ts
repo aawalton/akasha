@@ -225,6 +225,7 @@ export const clusterCheck = {
     "module/ts-void-declarations",
     "module/tsconfig-conventions",
     "module/tsconfig-import-graph",
+    "module/tsconfig-import-graph-rollup",
   ],
   properties: [
     {
