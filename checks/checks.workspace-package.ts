@@ -21,6 +21,7 @@ export const checks = {
     "module/check-cost",
     "module/run-cost",
     "module/shape-saying",
+    "module/change-mirror",
   ],
   invariants: [
     {
