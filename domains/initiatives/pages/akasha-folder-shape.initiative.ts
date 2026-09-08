@@ -8,9 +8,9 @@ export const akashaFolderShape = {
   personaSlug: "akasha",
   intents: [
     {
-      statement: "A reach is `always` or `page-type`.",
+      statement: "A unique kind is `page`, `page-type` or `page-property`.",
       workingMemory:
-        "`page` is out of `Unique` and out of the identity invariant, so the reach `part-of` alone is left. `book-section` declares it on `slug`, and that is the one live declarer — I had this wrong before counting. Its 455 pages each name exactly one parent through the collections dag, so the reach goes once that page type carries a `uniqueScope`. Deleting the `part-of` unique kind moves no index entry.",
+        "`always` is renamed `page`. `part-of` is deleted rather than renamed: it scopes on the collections dag, while `page-property` scopes on a value the page itself carries. `book-section` is the one live `part-of` declarer, so it takes a `uniquePropertySlug` first. `reach` and `level` are two coined names for this one kind and neither is a page; the path is the unique kind, the scope, the property, the value.",
     },
     {
       statement: "A page unique only within a scope declares `uniqueScope`.",
