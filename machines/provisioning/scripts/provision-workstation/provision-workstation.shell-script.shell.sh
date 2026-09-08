@@ -109,8 +109,8 @@ fi
 
 echo "==> Projecting the workstation-service pages into systemd units..."
 if [ -f "$AKASHA/command-system/cli/cli.module.code.ts" ]; then
-  if ! (cd "$AKASHA" && bun command-system/cli/cli.module.code.ts service install --all); then
-    echo "WARN: 'akasha service install --all' failed — every service that a" >&2
+  if ! (cd "$AKASHA" && bun command-system/cli/cli.module.code.ts infrastructure service install --all); then
+    echo "WARN: 'akasha infrastructure service install --all' failed — every service that a" >&2
     echo "      workstation-service page describes is uninstalled on this box." >&2
     echo "      Re-run it once the cause is cleared." >&2
   fi

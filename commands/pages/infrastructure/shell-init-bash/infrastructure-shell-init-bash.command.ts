@@ -1,9 +1,9 @@
-import type { Command } from "../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.ts"
 
-export const shellInitBash = {
+export const infrastructureShellInitBash = {
   id: "01a0680a-fa30-7da6-aede-88d6a9a5e49a",
   pageTypeSlug: "command",
-  slug: "shell-init-bash",
+  slug: "infrastructure-shell-init-bash",
   definition: "the command composing the bash a terminal sources",
   code: "ts",
   test: "ts",

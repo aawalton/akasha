@@ -73,7 +73,7 @@ test("the refusal names how many files differ and the call that builds anyway", 
   const refusal = saidOfChanged("alanwalton", ["one/a.ts"])
   expect(refusal).toContain("1 tracked file")
   expect(refusal).toContain("one/a.ts")
-  expect(refusal).toContain(`akasha deploy alanwalton --ref ${WHERE_HEAD_IS}`)
+  expect(refusal).toContain(`akasha infrastructure deploy alanwalton --ref ${WHERE_HEAD_IS}`)
 })
 
 test("a refusal over many files names some of them and counts the rest", () => {

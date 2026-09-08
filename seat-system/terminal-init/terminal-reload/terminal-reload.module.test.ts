@@ -23,7 +23,7 @@ describe("the reload", () => {
   const said = reloadFnLines().join("\n")
 
   test("composes the whole set again rather than the launcher that ran", () => {
-    expect(COMPOSING).toBe("shell-init-bash")
+    expect(COMPOSING).toBe("infrastructure-shell-init-bash")
     expect(said).toContain(`$_akasha_cli" ${COMPOSING}`)
   })
 

@@ -1,9 +1,9 @@
-import type { Command } from "../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.ts"
 
-export const loki = {
+export const infrastructureLoki = {
   id: "01a06809-250b-7ab3-b9ac-5e00cfbba4ec",
   pageTypeSlug: "command",
-  slug: "loki",
+  slug: "infrastructure-loki",
   definition: "the log lines Loki has for a pod, newest first",
   code: "ts",
   test: "ts",

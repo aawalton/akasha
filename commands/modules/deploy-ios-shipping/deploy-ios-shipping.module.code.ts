@@ -58,7 +58,7 @@ export function saidOfChanged(slug: string, changed: readonly string[]): string 
   const first = changed.slice(0, SHOWN_PATHS).join(", ")
   const rest = changed.length > SHOWN_PATHS ? `, and ${changed.length - SHOWN_PATHS} more` : ""
   const many = changed.length === 1 ? "file" : "files"
-  return `the worktree holds ${changed.length} tracked ${many} differing from ${WHERE_HEAD_IS} (${first}${rest}), so the commit ${WHERE_HEAD_IS} is at is not what you are looking at, and building it would leave those changes out of the app without saying so. Name the commit to build: \`akasha deploy ${slug} --ref ${WHERE_HEAD_IS}\` builds what is committed, and committing first builds what you have.`
+  return `the worktree holds ${changed.length} tracked ${many} differing from ${WHERE_HEAD_IS} (${first}${rest}), so the commit ${WHERE_HEAD_IS} is at is not what you are looking at, and building it would leave those changes out of the app without saying so. Name the commit to build: \`akasha infrastructure deploy ${slug} --ref ${WHERE_HEAD_IS}\` builds what is committed, and committing first builds what you have.`
 }
 
 export function saidOfUnpushed(root: string, ref: string): string {

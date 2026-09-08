@@ -27,10 +27,10 @@ import {
 import { resolveWorktreePath } from "@akasha/service-system/dev-server-worktree"
 import { errnoCodeOf } from "@akasha/utils/process/pid-signal"
 import { enforceMemoryGuard } from "@akasha/utils/system/memory-guard"
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { refused } from "../../../command-system/calling/calling.module.code.ts"
-import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
-import { namesDrawn } from "../../modules/name-drawing/name-drawing.module.code.ts"
+import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
+import { namesDrawn } from "../../../modules/name-drawing/name-drawing.module.code.ts"
 import { lastLinesOf } from "./last-lines/last-lines.module.code.ts"
 
 export const BOOTSTRAP = "bootstrap"
@@ -457,7 +457,10 @@ async function acting(read: Exclude<Read, { refused: readonly string[] }>): Prom
   return await starting({ seq, app, port: read.port, json: read.json })
 }
 
-export async function devServer(argv: readonly string[], _given: Given): Promise<Answer> {
+export async function infrastructureDevServer(
+  argv: readonly string[],
+  _given: Given
+): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   try {

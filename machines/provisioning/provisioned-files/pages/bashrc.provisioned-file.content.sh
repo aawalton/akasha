@@ -115,12 +115,13 @@ export PATH="$HOME/.local/bin:$PATH"
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
-# personal cli. The set of shell functions is composed by `akasha shell-init-bash`, which
-# sits at `akasha/seat-system/commands/shell-init-bash/`. It composed nothing here for a while:
-# the generator it replaced kept being evalled after its own imports had stopped resolving, and a
-# generator that exits nonzero inside `$(...)` leaves the shell with no functions and says nothing.
+# personal cli. The set of shell functions is composed by `akasha infrastructure shell-init-bash`,
+# which sits at `akasha/commands/pages/infrastructure/shell-init-bash/`. It composed nothing here
+# for a while: the generator it replaced kept being evalled after its own imports had stopped
+# resolving, and a generator that exits nonzero inside `$(...)` leaves the shell with no functions
+# and says nothing.
 # `_akasha_reload` probes this same spelling on every launch, so the two agree by construction.
-eval "$("${AKASHA_ROOT:-$HOME/repos/akasha}/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh" shell-init-bash)"
+eval "$("${AKASHA_ROOT:-$HOME/repos/akasha}/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh" infrastructure-shell-init-bash)"
 export DISABLE_COST_WARNINGS=1
 
 

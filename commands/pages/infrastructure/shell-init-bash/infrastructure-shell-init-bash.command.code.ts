@@ -23,7 +23,7 @@ export function accountsIn(root: string): readonly AliasEntry[] {
     .sort((a, b) => a.aliasIndex - b.aliasIndex)
 }
 
-export function shellInitBash(argv: readonly string[], given: Given): Answer {
+export function infrastructureShellInitBash(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   try {

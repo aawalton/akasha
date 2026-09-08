@@ -1,9 +1,9 @@
-import type { Command } from "../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.ts"
 
-export const service = {
+export const infrastructureService = {
   id: "01a05a66-caa0-72a3-8f49-29ab09a8de77",
   pageTypeSlug: "command",
-  slug: "service",
+  slug: "infrastructure-service",
   definition: "the command acting on the services akasha carries",
   code: "ts",
   test: "ts",

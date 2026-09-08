@@ -8,9 +8,9 @@ import {
 } from "@akasha/service-system/service-installing"
 import { everyService, readFor } from "@akasha/service-system/service-reading"
 import { installedUnitName } from "@akasha/service-system/unit-writing"
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { refused } from "../../../command-system/calling/calling.module.code.ts"
-import { namesDrawn } from "../../modules/name-drawing/name-drawing.module.code.ts"
+import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../../command-system/calling/calling.module.code.ts"
+import { namesDrawn } from "../../../modules/name-drawing/name-drawing.module.code.ts"
 
 const INPUT = 1
 const DATA = 2
@@ -37,7 +37,10 @@ function installed(argv: readonly string[], given: Given): Answer {
   const strange = argv.find((one) => one.startsWith("-") && one !== ALL && one !== DRY_RUN)
 
   if (strange !== undefined) {
-    return refused(`\`${strange}\` is nothing \`akasha service install\` takes`, INPUT)
+    return refused(
+      `\`${strange}\` is nothing \`akasha infrastructure service install\` takes`,
+      INPUT
+    )
   }
 
   const slug = named[0]
@@ -85,7 +88,10 @@ function asked(act: string, argv: readonly string[], given: Given): Answer {
   const strange = argv.find((one) => one.startsWith("-") && one !== DRY_RUN)
 
   if (strange !== undefined) {
-    return refused(`\`${strange}\` is nothing \`akasha service ${act}\` takes`, INPUT)
+    return refused(
+      `\`${strange}\` is nothing \`akasha infrastructure service ${act}\` takes`,
+      INPUT
+    )
   }
 
   const slug = named[0]
@@ -107,13 +113,16 @@ function asked(act: string, argv: readonly string[], given: Given): Answer {
   return { report: [`${act}\t${unit}`], refusals: [], code: 0 }
 }
 
-export function service(argv: readonly string[], given: Given): Answer {
+export function infrastructureService(argv: readonly string[], given: Given): Answer {
   const act = argv[0]
   if (act === undefined) {
-    return refused(`\`akasha service\` takes an act, which is ${acts()}`, INPUT)
+    return refused(`\`akasha infrastructure service\` takes an act, which is ${acts()}`, INPUT)
   }
   if (!ACTS.includes(act)) {
-    return refused(`\`${act}\` is no act of \`akasha service\`, which takes ${acts()}`, INPUT)
+    return refused(
+      `\`${act}\` is no act of \`akasha infrastructure service\`, which takes ${acts()}`,
+      INPUT
+    )
   }
   const rest = argv.slice(1)
   return act === INSTALL ? installed(rest, given) : asked(act, rest, given)

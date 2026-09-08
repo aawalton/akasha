@@ -1,9 +1,9 @@
-import type { Command } from "../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.ts"
 
-export const deploy = {
+export const infrastructureDeploy = {
   id: "01a05af7-5996-7002-bc83-446645b7de16",
   pageTypeSlug: "command",
-  slug: "deploy",
+  slug: "infrastructure-deploy",
   definition: "the command putting up the app a page describes",
   code: "ts",
   test: "ts",

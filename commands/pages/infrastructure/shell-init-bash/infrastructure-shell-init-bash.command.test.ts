@@ -3,11 +3,14 @@ import type { Given } from "@akasha/command-system/calling"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { listedFiled, pageFiled } from "@akasha/indexes/testing"
-import { readIn, shellInitBash } from "./shell-init-bash.command.code.ts"
+import {
+  infrastructureShellInitBash,
+  readIn,
+} from "./infrastructure-shell-init-bash.command.code.ts"
 
 const given: Given = {
   root: "/var/home/walton/repos/akasha",
-  calledAs: "akasha shell-init-bash",
+  calledAs: "akasha infrastructure shell-init-bash",
   from: "/var/home/walton/repos/akasha",
   writer: null,
   agentId: null,
@@ -21,7 +24,7 @@ describe("what this takes", () => {
   test("so a word given to it is refused", () => {
     const read = readIn(["bash"])
     expect("refused" in read).toBe(true)
-    expect(shellInitBash(["bash"], given).code).toBe(1)
+    expect(infrastructureShellInitBash(["bash"], given).code).toBe(1)
   })
 
   test("and every word given is named rather than the first alone", () => {
@@ -31,7 +34,7 @@ describe("what this takes", () => {
 })
 
 describe("the set composed", () => {
-  const answer = shellInitBash([], given)
+  const answer = infrastructureShellInitBash([], given)
 
   test("is answered rather than refused", () => {
     expect(answer.refusals).toEqual([])
@@ -86,7 +89,7 @@ describe("a root holding no account page", () => {
     const world = scratchWorld()
     try {
       const root = accountlessRoot(world.rootFor("shell-init-bash-"))
-      const answer = shellInitBash([], { ...given, root })
+      const answer = infrastructureShellInitBash([], { ...given, root })
       expect(answer.code).toBe(2)
       expect(answer.report).toEqual([])
       expect(answer.refusals[0]).toContain("no claude account page was read")

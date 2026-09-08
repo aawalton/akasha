@@ -1,11 +1,11 @@
 import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { refused } from "../../../command-system/calling/calling.module.code.ts"
-import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
 import {
   chooseLogsDiagnostic,
   describeBounds,
-} from "../../../infrastructure/cluster/services/log-bound-saying/log-bound-saying.module.code.ts"
+} from "../../../../infrastructure/cluster/services/log-bound-saying/log-bound-saying.module.code.ts"
 import {
   fetchAllLokiLogs,
   fetchLokiLogs,
@@ -15,7 +15,7 @@ import {
   type LogEntry,
   parseLokiDuration,
   parseLokiPositiveInt,
-} from "../../../infrastructure/cluster/services/loki-log-fetching/loki-log-fetching.module.code.ts"
+} from "../../../../infrastructure/cluster/services/loki-log-fetching/loki-log-fetching.module.code.ts"
 
 export const LOGS = "logs"
 
@@ -147,7 +147,7 @@ async function boundingLine(
       ? (await findPodNamespaces({ pod, since })).filter((one) => one !== namespace)
       : []
   const diagnostic = chooseLogsDiagnostic({
-    command: "akasha loki logs",
+    command: "akasha infrastructure loki logs",
     pod,
     namespace,
     since,
@@ -182,7 +182,7 @@ async function fetching(read: Exclude<Read, { refused: readonly string[] }>): Pr
   return { report, refusals: [], code: 0 }
 }
 
-export async function loki(argv: readonly string[], _given: Given): Promise<Answer> {
+export async function infrastructureLoki(argv: readonly string[], _given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   try {

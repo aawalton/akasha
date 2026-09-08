@@ -1,11 +1,11 @@
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { refused } from "../../../command-system/calling/calling.module.code.ts"
-import { shipIosApp } from "../../modules/deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
+import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../../command-system/calling/calling.module.code.ts"
+import { shipIosApp } from "../../../modules/deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
 import {
   IOS_APP,
   kindNamed,
-} from "../../modules/deploy-kind-reading/deploy-kind-reading.module.code.ts"
-import { putUpWebApp } from "../../modules/deploy-web-putting-up/deploy-web-putting-up.module.code.ts"
+} from "../../../modules/deploy-kind-reading/deploy-kind-reading.module.code.ts"
+import { putUpWebApp } from "../../../modules/deploy-web-putting-up/deploy-web-putting-up.module.code.ts"
 
 const INPUT = 1
 const DATA = 2
@@ -51,13 +51,13 @@ export function refNamed(argv: readonly string[]): RefNamed | { readonly refused
   return { ref, rest }
 }
 
-export async function deploy(argv: readonly string[], given: Given): Promise<Answer> {
+export async function infrastructureDeploy(argv: readonly string[], given: Given): Promise<Answer> {
   const taken = refNamed(argv)
   if ("refused" in taken) return refused(taken.refused, INPUT)
   const { ref, rest } = taken
   const strange = rest.find((one) => one.startsWith("-") && !FLAGS.includes(one))
   if (strange !== undefined) {
-    return refused(`\`${strange}\` is nothing \`akasha deploy\` takes`, INPUT)
+    return refused(`\`${strange}\` is nothing \`akasha infrastructure deploy\` takes`, INPUT)
   }
   const named = rest.filter((one) => !one.startsWith("-"))
   if (named.length === 0) {

@@ -1,19 +1,19 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../command-system/calling/calling.module.code.ts"
-import { loki, readIn } from "./loki.command.code.ts"
+import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { infrastructureLoki, readIn } from "./infrastructure-loki.command.code.ts"
 
 function given(root: string): Given {
-  return { root, calledAs: "akasha loki", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha infrastructure loki", from: root, writer: null, agentId: null }
 }
 
 test("nothing said is refused, naming the act it carries", async () => {
-  const said = await loki([], given("/nowhere"))
+  const said = await infrastructureLoki([], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("logs")
 })
 
 test("an act it does not carry is refused", async () => {
-  const said = await loki(["streams"], given("/nowhere"))
+  const said = await infrastructureLoki(["streams"], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("streams")
 })
@@ -59,7 +59,7 @@ test("a limit that is no positive whole number is refused", () => {
 })
 
 test("a flag it does not take is refused", async () => {
-  const said = await loki(["logs", "my-pod", "--json"], given("/nowhere"))
+  const said = await infrastructureLoki(["logs", "my-pod", "--json"], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--json")
 })

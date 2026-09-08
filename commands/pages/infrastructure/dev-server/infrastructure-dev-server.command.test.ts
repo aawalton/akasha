@@ -1,26 +1,32 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../command-system/calling/calling.module.code.ts"
-import { devServer, readIn } from "./dev-server.command.code.ts"
+import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { infrastructureDevServer, readIn } from "./infrastructure-dev-server.command.code.ts"
 
 function given(root: string): Given {
-  return { root, calledAs: "akasha dev-server", from: root, writer: null, agentId: null }
+  return {
+    root,
+    calledAs: "akasha infrastructure dev-server",
+    from: root,
+    writer: null,
+    agentId: null,
+  }
 }
 
 test("nothing said is refused, naming the acts it carries", async () => {
-  const said = await devServer([], given("/nowhere"))
+  const said = await infrastructureDevServer([], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("bootstrap")
   expect(said.refusals[0]).toContain("status")
 })
 
 test("an act it does not carry is refused", async () => {
-  const said = await devServer(["sleep"], given("/nowhere"))
+  const said = await infrastructureDevServer(["sleep"], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("sleep")
 })
 
 test("a flag it does not take is refused", async () => {
-  const said = await devServer(["status", "--wat"], given("/nowhere"))
+  const said = await infrastructureDevServer(["status", "--wat"], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--wat")
 })
@@ -93,6 +99,9 @@ test("a valued flag naming no value is refused", () => {
 })
 
 test("a log no file stands for is a data refusal", async () => {
-  const said = await devServer(["logs", "999999999", "--app", "alanwalton"], given("/nowhere"))
+  const said = await infrastructureDevServer(
+    ["logs", "999999999", "--app", "alanwalton"],
+    given("/nowhere")
+  )
   expect(said.code).toBe(2)
 })
