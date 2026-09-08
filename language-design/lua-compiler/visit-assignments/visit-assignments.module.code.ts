@@ -9,6 +9,7 @@ import {
 } from "../export-scope/export-scope.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
+import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
 import {
   cannotAssignToNodeOfKind,
   notAllowedOptionalAssignment,
@@ -16,7 +17,6 @@ import {
 import { createBoundedUnpackCall, wrapInTable } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { transformInPrecedingStatementScope } from "../tstl-preceding-statements/tstl-preceding-statements.module.code.ts"
 import {
   isArrayType,
   isDestructuringAssignment,

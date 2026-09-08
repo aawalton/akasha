@@ -6,10 +6,10 @@ import {
   createOptionalContinuationIdentifier,
   getOptionalContinuationData,
 } from "../optional-chain-data/optional-chain-data.module.code.ts"
+import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { transformInPrecedingStatementScope } from "../tstl-preceding-statements/tstl-preceding-statements.module.code.ts"
 import {
   canBeFalsyWhenNotNull,
   expressionResultIsUsed,

@@ -78,7 +78,7 @@ export const luaCompiler = {
     "module/optional-chain-data",
     "module/tstl-plugin-tstl-no-multi-store",
     "module/tstl-plugin-tstl-no-truthy-numbers",
-    "module/tstl-preceding-statements",
+    "module/preceding-statements",
     "module/tstl-safe-names",
     "module/tstl-scope",
     "module/scope-references",

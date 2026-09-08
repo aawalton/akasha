@@ -1,8 +1,8 @@
 import type * as ts from "typescript"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
+import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { transformInPrecedingStatementScope } from "../tstl-preceding-statements/tstl-preceding-statements.module.code.ts"
 import { checkOnlyTruthyCondition } from "../visit-conditional/visit-conditional.module.code.ts"
 import { invertCondition, transformLoopBody } from "../visit-utils/visit-utils.module.code.ts"
 

@@ -12,11 +12,11 @@ import {
   isSymbolExported,
   shouldBeExported,
 } from "../export-scope/export-scope.module.code.ts"
+import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
 import { createSelfIdentifier } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { transformInPrecedingStatementScope } from "../tstl-preceding-statements/tstl-preceding-statements.module.code.ts"
 import { createSafeName, isUnsafeName } from "../tstl-safe-names/tstl-safe-names.module.code.ts"
 import { findFirstNodeAbove } from "../tstl-typescript/tstl-typescript.module.code.ts"
 import { transformAccessorDeclarations } from "../visit-accessors/visit-accessors.module.code.ts"

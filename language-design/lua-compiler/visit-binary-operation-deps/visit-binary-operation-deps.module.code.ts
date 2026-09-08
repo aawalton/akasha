@@ -1,8 +1,8 @@
 import type * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import type { WithPrecedingStatements } from "../preceding-statements/preceding-statements.module.code.ts"
 import type * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import type { WithPrecedingStatements } from "../tstl-preceding-statements/tstl-preceding-statements.module.code.ts"
 import type { BitOperator } from "../visit-bit/visit-bit.module.code.ts"
 import type { SimpleOperator } from "../visitors-binary-expression/visitors-binary-expression.module.code.ts"
 

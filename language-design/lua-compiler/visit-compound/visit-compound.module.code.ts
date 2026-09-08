@@ -3,14 +3,14 @@ import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
+import {
+  transformInPrecedingStatementScope,
+  type WithPrecedingStatements,
+} from "../preceding-statements/preceding-statements.module.code.ts"
 import { cannotAssignToNodeOfKind } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import {
-  transformInPrecedingStatementScope,
-  type WithPrecedingStatements,
-} from "../tstl-preceding-statements/tstl-preceding-statements.module.code.ts"
 import { isArrayLength } from "../visit-array-length/visit-array-length.module.code.ts"
 import { transformAssignmentWithRightPrecedingStatements } from "../visit-assignments/visit-assignments.module.code.ts"
 import { requireTransformBinaryOperation } from "../visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"

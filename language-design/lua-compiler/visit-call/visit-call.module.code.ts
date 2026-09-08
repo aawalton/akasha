@@ -7,11 +7,11 @@ import {
   getCallContextType,
 } from "../function-context/function-context.module.code.ts"
 import { getOptionalContinuationData } from "../optional-chain-data/optional-chain-data.module.code.ts"
+import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
 import { unsupportedBuiltinOptionalCall } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import { wrapInTable } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { transformInPrecedingStatementScope } from "../tstl-preceding-statements/tstl-preceding-statements.module.code.ts"
 import { isValidLuaIdentifier } from "../tstl-safe-names/tstl-safe-names.module.code.ts"
 import {
   getCalledExpression,
