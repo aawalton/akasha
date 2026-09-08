@@ -222,18 +222,6 @@
         "zod": "^4.3.6",
       },
     },
-    "alan/values/health/fitness/commands": {
-      "name": "@akasha/exercise-commands",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/day": "workspace:*",
-        "@akasha/exercise-access": "workspace:*",
-        "@akasha/indexes": "workspace:*",
-        "@akasha/named-for": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/pages-service": "workspace:*",
-      },
-    },
     "alan/values/health/fitness/exercise-access": {
       "name": "@akasha/exercise-access",
       "dependencies": {
@@ -3083,8 +3071,6 @@
     "@akasha/eso-wallpapers": ["@akasha/eso-wallpapers@workspace:alan/eso/eso-wallpapers"],
 
     "@akasha/exercise-access": ["@akasha/exercise-access@workspace:alan/values/health/fitness/exercise-access"],
-
-    "@akasha/exercise-commands": ["@akasha/exercise-commands@workspace:alan/values/health/fitness/commands"],
 
     "@akasha/file-page-identity": ["@akasha/file-page-identity@workspace:file-page-identity"],
 
