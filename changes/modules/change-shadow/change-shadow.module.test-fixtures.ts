@@ -37,7 +37,7 @@ export function bodyOf(said: Answer, textOf: BodyOf = NOTHING): string {
   const held = replayed(said, textOf)
   expect(held).not.toHaveProperty("refused")
   if ("refused" in held) return ""
-  const left = [...held.values()].filter((one) => one !== null)
+  const left = [...held.values()].filter((one): one is string => typeof one === "string")
   expect(left).toHaveLength(1)
   return left[0] ?? ""
 }

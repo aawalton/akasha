@@ -12,10 +12,11 @@ import type { Changes } from "../../runners/pages/change-running/change-running.
 import {
   type BodyOf,
   gathered,
+  notText,
   refusing,
   replayed,
 } from "../change-answer/change-answer.module.code.ts"
-import type { Answer, Stated } from "../change-answer/change-answer.module.types.ts"
+import type { Answer, Bodies, Held, Stated } from "../change-answer/change-answer.module.types.ts"
 
 const BYTES = new TextEncoder()
 
@@ -50,14 +51,16 @@ export async function reach(world: World, at: keyof Changes, given: unknown): Pr
   }
 }
 
-export function bytesOf(body: string | null): Uint8Array | null {
-  return body === null ? null : BYTES.encode(body)
+export function bytesOf(body: Held | null): Uint8Array | null {
+  return body === null || notText(body) ? null : BYTES.encode(body)
 }
 
-export function bodiesIn(said: Answer, textOf: BodyOf): ReadonlyMap<string, string | null> {
+export function bodiesIn(said: Answer, textOf: BodyOf): Bodies {
   const held = replayed(said, textOf)
   if ("refused" in held) throw new Error(held.refused)
-  return held
+  const found = new Map<string, string | null>()
+  for (const [path, body] of held) found.set(path, notText(body) ? null : body)
+  return found
 }
 
 export function changeOver(root: string, said: Answer, textOf: BodyOf): Change {
@@ -90,7 +93,10 @@ export function worldOver(world: World, said: Answer): World {
   return {
     root: world.root,
     index,
-    textOf: (path) => (held.has(path) ? (held.get(path) ?? null) : world.textOf(path)),
+    textOf: (path) => {
+      const found = held.has(path) ? (held.get(path) ?? null) : world.textOf(path)
+      return notText(found) ? null : found
+    },
     base: world.base,
     over,
     reaching: world.reaching,
@@ -100,9 +106,9 @@ export function worldOver(world: World, said: Answer): World {
 export type Kept = {
   readonly root: string
   readonly base: (path: string) => string | null
-  readonly bodies: Map<string, string | null>
+  readonly bodies: Map<string, Held | null>
   readonly held: Set<Stated>
-  readonly settled: Map<string, string | null>
+  readonly settled: Map<string, Held | null>
   fresh: Answer
   reading: Reading | null
   over: Answer
@@ -135,9 +141,9 @@ export function ledgerAt(
   const kept: Kept = {
     root,
     base: textOf,
-    bodies: new Map<string, string | null>(),
+    bodies: new Map<string, Held | null>(),
     held: new Set<Stated>(),
-    settled: new Map<string, string | null>(),
+    settled: new Map<string, Held | null>(),
     fresh: NOTHING_OVER,
     reading: null,
     over: NOTHING_OVER,
@@ -157,7 +163,8 @@ export function ledgerAt(
     },
     textOf: (path) => {
       const held = kept.bodies.get(path)
-      return held === undefined ? kept.base(path) : held
+      const found = held === undefined ? kept.base(path) : held
+      return notText(found) ? null : found
     },
   }
 }

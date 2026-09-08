@@ -1,6 +1,7 @@
 import { formattedBody } from "@akasha/code/code-format"
 import { agentPathOf } from "@akasha/context/warranting"
 import {
+  notText,
   pathsOf,
   replayed,
 } from "../../../changes/modules/change-answer/change-answer.module.code.ts"
@@ -40,6 +41,8 @@ import { noPageSaid } from "../change/change.command.code.ts"
 
 const BYTES = new TextEncoder()
 
+const NOT_TEXT_SAID = "is not text, so no body is worked out for it"
+
 const APPLYING = [MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE: readonly string[] = []
@@ -74,6 +77,7 @@ export function bodiesFrom(root: string, said: Said): Bodies | { readonly why: s
   const owed = owingIn(said)
   const held = new Map<string, Body>()
   for (const [path, body] of after) {
+    if (notText(body)) return { why: `\`${path}\` ${NOT_TEXT_SAID}` }
     const done = body === null ? null : formattedBody(root, path, BYTES.encode(body))
     const owes = owed.get(path)
     held.set(path, {

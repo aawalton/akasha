@@ -76,6 +76,18 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
+      statement: "A body that is not text is carried as bytes rather than read as characters.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move and a remove read whether a path holds a body rather than that body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A passage worked in a body that is not text is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An add onto a path holding a body is refused.",
     },
     {

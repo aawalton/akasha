@@ -29,7 +29,13 @@ export type Moving = Reading & {
 
 export type Stated = Adding | Replacing | Removing | Moving
 
+export type NotText = { readonly notText: true }
+
+export type Held = string | NotText
+
 export type Bodies = ReadonlyMap<string, string | null>
+
+export type Replayed = ReadonlyMap<string, Held | null>
 
 export type Answer = {
   readonly edits: readonly Stated[]

@@ -248,7 +248,7 @@ export function unwarrantedFor(
   if ("refused" in after) return [after.refused]
   const edits = [...after].map(([path, body]) => ({
     path,
-    body: body === null ? null : BYTES.encode(body),
+    body: typeof body === "string" ? BYTES.encode(body) : null,
   }))
   return owedIn(
     root,

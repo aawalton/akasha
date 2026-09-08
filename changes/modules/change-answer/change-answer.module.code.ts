@@ -1,19 +1,33 @@
 import type {
   Adding,
   Answer,
-  Bodies,
+  Held,
   Moving,
+  NotText,
   Removing,
   Replacing,
+  Replayed,
   Said,
   Stated,
 } from "./change-answer.module.types.ts"
 
-export type BodyOf = (path: string) => string | null
+const NOT_TEXT_SAID = "is not text, so no passage in it is changed"
+
+export const NOT_TEXT: NotText = { notText: true }
+
+export type BodyOf = (path: string) => Held | null
+
+export function notText(held: Held | null): held is NotText {
+  return held !== null && typeof held !== "string"
+}
+
+function holds(held: Held | null): boolean {
+  return held !== null && held !== ""
+}
 
 export type Leaving = {
   readonly path: string
-  readonly body: string | null
+  readonly body: Held | null
   readonly from?: string
 }
 
@@ -46,8 +60,7 @@ export function written(path: string, was: string | null, body: string): readonl
 }
 
 function addedIn(one: Adding, textOf: BodyOf): Expanded {
-  const held = textOf(one.path)
-  if (held !== null && held !== "") {
+  if (holds(textOf(one.path))) {
     return { refused: `\`${one.path}\` holds a body already, so nothing is added` }
   }
   return { left: { path: one.path, body: one.content } }
@@ -60,6 +73,9 @@ function replacedIn(one: Replacing, textOf: BodyOf): Expanded {
   const text = textOf(one.path)
   if (text === null) {
     return { refused: `\`${one.path}\` holds no body, so no passage is changed` }
+  }
+  if (notText(text)) {
+    return { refused: `\`${one.path}\` ${NOT_TEXT_SAID}` }
   }
   const first = text.indexOf(one.contentFrom)
   if (first < 0) {
@@ -89,12 +105,10 @@ function movedIn(one: Moving, textOf: BodyOf): Expanded {
   if (text === null) {
     return { refused: `\`${one.pathFrom}\` holds no body, so nothing is moved` }
   }
-  const there = textOf(one.pathTo)
-  if (there !== null && there !== "") {
+  if (holds(textOf(one.pathTo))) {
     return { refused: `\`${one.pathTo}\` holds a body already, so nothing is moved there` }
   }
-  const came = one.pathFrom
-  return { left: { path: one.pathTo, body: text, from: came } }
+  return { left: { path: one.pathTo, body: text, from: one.pathFrom } }
 }
 
 export function expanded(one: Stated, textOf: BodyOf): Expanded {
@@ -104,8 +118,8 @@ export function expanded(one: Stated, textOf: BodyOf): Expanded {
   return movedIn(one, textOf)
 }
 
-export function replayed(said: Said, textOf: BodyOf): Bodies | { readonly refused: string } {
-  const held = new Map<string, string | null>()
+export function replayed(said: Said, textOf: BodyOf): Replayed | { readonly refused: string } {
+  const held = new Map<string, Held | null>()
   const over: BodyOf = (path) => (held.has(path) ? (held.get(path) ?? null) : textOf(path))
   for (const one of said.edits) {
     const grown = expanded(one, over)
