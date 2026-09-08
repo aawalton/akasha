@@ -20,6 +20,9 @@ export type Changes = {
   "change-mechanical-file-content/change-file-content-code": Parameters<
     typeof import("../../../mechanical/file-content/change/change-file-content-code/change-file-content-code.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
+  "change-mechanical-file-content/change-file-content-page": Parameters<
+    typeof import("../../../mechanical/file-content/change/change-file-content-page/change-file-content-page.change-mechanical-file-content.code.ts")["runChange"]
+  >[1]
   "change-mechanical-file-content/change-imports": Parameters<
     typeof import("../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
