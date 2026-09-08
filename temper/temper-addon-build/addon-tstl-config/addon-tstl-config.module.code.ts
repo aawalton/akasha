@@ -128,7 +128,7 @@ export function bundleEntryPathIn(addonDir: string, entrySlug: string): string {
   return join(addonDir, bare, `${bare}${CODE_SUFFIX}`)
 }
 
-export type TstlConfigAsked = {
+export type CompilerConfigAsked = {
   readonly repoRoot: string
   readonly addonDir: string
   readonly canonicalName: string
@@ -136,7 +136,7 @@ export type TstlConfigAsked = {
   readonly reachedDirs: readonly string[]
 }
 
-export function compilerConfigBody(asked: TstlConfigAsked): string {
+export function compilerConfigBody(asked: CompilerConfigAsked): string {
   const addonsRoot = join(asked.repoRoot, ADDONS_REL_ROOT)
   const body = {
     extends: join(asked.repoRoot, ROOT_BASE_NAME),
