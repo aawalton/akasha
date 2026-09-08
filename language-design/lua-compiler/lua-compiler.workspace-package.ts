@@ -73,7 +73,7 @@ export const luaCompiler = {
     "module/lualib-call",
     "module/lualib-builder",
     "module/lualib-builder-deps",
-    "module/tstl-lualib-runtime",
+    "module/lualib-runtime",
     "module/tstl-measure-performance",
     "module/tstl-optional-chain-data",
     "module/tstl-plugin-tstl-no-multi-store",
