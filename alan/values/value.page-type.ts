@@ -40,7 +40,6 @@ export const value = {
     "value/learn",
     "value/love",
     "value/wealth",
-    "domain/next-persona",
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
