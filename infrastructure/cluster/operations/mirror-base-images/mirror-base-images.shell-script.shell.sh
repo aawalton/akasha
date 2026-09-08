@@ -2,6 +2,10 @@
 
 set -euo pipefail
 
+HERE="$(cd -- "$(dirname -- "$(readlink -f -- "$0")")" && pwd -P)"
+REPO="$(cd -- "$HERE/../../../.." && pwd -P)"
+. "$REPO/machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh"
+
 LOCAL_REGISTRY="registry.registry.svc.cluster.local:5000"
 
 DOCKER_HUB_IMAGES=(
@@ -16,8 +20,20 @@ DOCKER_HUB_IMAGES=(
 KUBECTL_DIGEST="bitnami/kubectl@sha256:6e2cdb22d6ab7264ea198c717f555e30536b54029d26c8781b9f25f78951b564"
 KUBECTL_LOCAL_TAG="bitnami/kubectl:sha256-6e2cdb22d6ab"
 
+PLAYWRIGHT_MANIFEST="$AKASHA_ROOT/package.json"
+PLAYWRIGHT_VERSION="$(jq -r '
+  [.dependencies, .devDependencies, .optionalDependencies]
+  | map(.["playwright-core"] // empty)
+  | first // empty
+' "$PLAYWRIGHT_MANIFEST")"
+if [[ ! "$PLAYWRIGHT_VERSION" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+  printf 'mirror-base-images: %s pins playwright-core at "%s", which is no exact version\n' \
+    "$PLAYWRIGHT_MANIFEST" "$PLAYWRIGHT_VERSION" >&2
+  exit 1
+fi
+
 MCR_IMAGES=(
-  "mcr.microsoft.com/playwright:v1.61.1-noble"
+  "mcr.microsoft.com/playwright:v${PLAYWRIGHT_VERSION}-noble"
 )
 
 for image in "${DOCKER_HUB_IMAGES[@]}"; do
