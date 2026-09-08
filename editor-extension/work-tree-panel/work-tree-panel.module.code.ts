@@ -6,6 +6,8 @@ import {
 } from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
 import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"
+import { describedAs } from "../tree-description/tree-description.module.code.ts"
+import { createWorkDragging } from "../work-tree-dragging/work-tree-dragging.module.code.ts"
 import { REFRESH_COMMAND, VIEW_ID } from "../work-tree-ids/work-tree-ids.module.code.ts"
 import {
   countOfKind,
@@ -26,12 +28,13 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   output = vscode.window.createOutputChannel("Ops: Work Tree")
   context.subscriptions.push(output)
 
-  // THE FILE'S OWN ROW IS WHAT IS DRAWN. The row already names its document by a whole path and
-  // carries its color as the name the decoration matches, so nothing between the file and the view
-  // spells either a second way.
   const tree = createWorkTree(akashaRoot())
   const view = vscode.window.createTreeView<WorkTreeRow>(VIEW_ID, {
     treeDataProvider: tree.provider,
+    dragAndDropController: createWorkDragging(vscode, (line) => {
+      output.appendLine(line)
+      return undefined
+    }),
     showCollapseAll: true,
     showExpandAll: true,
     showFilter: true,
@@ -41,24 +44,14 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   let total = 0
 
-  const describe = (): undefined => {
-    const matched = tree.matchCount()
-    view.description =
-      matched === undefined ? (total === 1 ? "1 row" : `${total} rows`) : `${matched} of ${total}`
-    return undefined
-  }
-
   const draw = (held: WorkTreeState, trigger: string): undefined => {
     try {
       tree.replace(held.roots)
       const rows = countRows(held.roots)
-      // WHAT WAS DRAWN IS SAID BY KIND. The badge counts every row, which is what a reader of the
-      // panel sees, and the channel and the observation count the initiatives apart from the
-      // intents, so neither number is read as the other.
       const initiatives = countOfKind(held.roots, "initiative")
       const intents = countOfKind(held.roots, "intent")
       total = rows
-      describe()
+      view.description = describedAs(tree.matchCount(), total)
       view.badge = { value: rows, tooltip: rows === 1 ? "1 row" : `${rows} rows` }
       view.message = undefined
       const keys = workKeys(held.roots)
@@ -84,8 +77,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
-  // Asking for the file again answers a manual refresh at once rather than waiting to be told.
-  // A file the service has not written leaves the rows on the screen as they are.
   const refresh = (trigger: string): undefined => {
     const held = readState<WorkTreeState>(stateAt(akashaRoot(), SLUG))
     if (held === null) {
@@ -104,7 +95,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     },
     view.onDidChangeFilterValue((pattern) => {
       tree.filter(pattern)
-      describe()
+      view.description = describedAs(tree.matchCount(), total)
     }),
     vscode.window.registerFileDecorationProvider(createWorkDecorationProvider()),
     vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual"))

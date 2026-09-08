@@ -49,6 +49,22 @@ export const workTreePanel = {
       statement: "No watcher on a seat file or an initiative file is registered here.",
     },
     {
+      invariantKind: "departure",
+      statement: "The tree view is given the drag and drop the dragging module makes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manual refresh reads the file again rather than waiting to be told.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the service has not written leaves the rows drawn as they are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How many rows the panel drew is said in the words the description module gives.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here composes the tree.",
     },
