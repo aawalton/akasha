@@ -41,16 +41,6 @@ const GIT_ACCESS_TOKEN_REF = {
   secretKey: "GIT_ACCESS_TOKEN",
 } as const
 
-// A POD FINDING NO BUILD BESIDE THE SERVER MAKES ONE BEFORE THE SERVER IS ASKED TO START.
-//
-// The server loads build/server/index.js on its first line, so a pod with no build never becomes
-// ready. A deploy makes its build inside a pod that is already running, which that pod never is,
-// and the two together are a deadlock: nothing can build until something is up, and nothing comes
-// up until something has built. A node whose cache is cold, or a rename moving the source folder
-// away from the build the old folder held, is what puts a pod there.
-//
-// A build already beside the server is left alone, so what a deploy builds for a fresh commit is
-// what gets served rather than being made twice.
 function webBuildInitContainer(): object {
   const script = [
     "set -e",
