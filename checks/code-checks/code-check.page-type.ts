@@ -65,6 +65,7 @@ export const codeCheck = {
     "code-check/no-second-spelling-of-a-name-format",
     "code-check/no-spacing-literal",
     "code-check/no-tmp",
+    "code-check/no-unparsed-boundary-read",
     "code-check/package-reached-where-named",
     "code-check/page-matches-its-type",
     "code-check/page-named-as-stated",
