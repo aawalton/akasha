@@ -11,6 +11,14 @@ test("a read naming file paths is let through", () => {
   expect(refusalIn("akasha read --file-path a/b.ts --file-path c/d.ts")).toBe(null)
 })
 
+test("a read asking for the whole body is let through", () => {
+  expect(refusalIn("akasha read --full --file-path a/b.ts")).toBe(null)
+})
+
+test("a read asking for the whole body after the path is let through", () => {
+  expect(refusalIn("akasha read --file-path a/b.ts --full")).toBe(null)
+})
+
 test("an act alone is let through", () => {
   expect(refusalIn("akasha change drop")).toBe(null)
 })

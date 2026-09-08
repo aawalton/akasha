@@ -12,7 +12,7 @@ const WORD = "[^\\s'\"`$;|&<>()\\\\]+"
 
 const FENCE = "HEREDOC"
 
-const READ = new RegExp("^akasha read( --file-path " + WORD + ")*$")
+const READ = new RegExp("^akasha read( --full| --file-path " + WORD + ")*$")
 
 const CHANGE = new RegExp("^akasha change( " + WORD + "){0,2}( <<'" + FENCE + "')?$")
 
@@ -22,7 +22,7 @@ const REFUSED = [
   "be what the record and the commit say ran. A loop, a function, a pipeline, a redirect or a",
   "substitution around either call hides which call was made and what that call was handed.",
   "",
-  "  akasha read --file-path <path>",
+  "  akasha read --file-path <path> [--full]",
   "",
   "takes those flags and no other word, with nothing before it and nothing after it.",
   "",

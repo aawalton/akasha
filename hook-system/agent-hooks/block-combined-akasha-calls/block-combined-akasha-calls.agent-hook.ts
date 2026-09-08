@@ -30,6 +30,10 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "departure",
+      statement: "An approved read carries `--full`.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An approved read carries no other word.",
     },
     {
