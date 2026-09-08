@@ -7,8 +7,6 @@ import {
 } from "../../schedule-days/properties/day-of-week.select-property.ts"
 import { DAYS_OF_WEEK } from "../exercise-vocabulary/exercise-vocabulary.module.code.ts"
 
-export type { DayOfWeek }
-
 export const DAYS_OF_WEEK_MONDAY_FIRST: readonly DayOfWeek[] = dayOfWeekProperty.values
 
 const DAY_OF_WEEK_SET: ReadonlySet<string> = new Set(DAYS_OF_WEEK)
