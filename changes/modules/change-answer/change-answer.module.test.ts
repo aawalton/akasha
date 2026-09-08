@@ -6,6 +6,7 @@ import {
   NOT_TEXT,
   replayed,
   spliced,
+  splicedIn,
   splicing,
 } from "./change-answer.module.code.ts"
 import type { Stated } from "./change-answer.module.types.ts"
@@ -297,4 +298,25 @@ test("the passage a splice names is smaller than the body it sits in", () => {
   const said = spliced(AT, LINES, { from: 7, to: 7, put: "!" })[0]
 
   expect(said?.kind === "replace" && said.contentFrom.length).toBeLessThan(LINES.length)
+})
+
+test("spots handed in out of order are worked in the order they sit in the body", () => {
+  const said = splicedIn(AT, MANY, [
+    { from: 18, to: 18, put: "?" },
+    { from: 7, to: 7, put: "!" },
+  ])
+
+  expect(said).toEqual([
+    { kind: "replace", path: AT, contentFrom: "two", contentTo: "two!" },
+    { kind: "replace", path: AT, contentFrom: "four", contentTo: "four?" },
+  ])
+})
+
+test("two spots opening at one place answer one splice rather than two", () => {
+  const said = splicedIn(AT, MANY, [
+    { from: 7, to: 7, put: "!" },
+    { from: 7, to: 7, put: "?" },
+  ])
+
+  expect(said).toEqual([{ kind: "replace", path: AT, contentFrom: "two", contentTo: "two!" }])
 })

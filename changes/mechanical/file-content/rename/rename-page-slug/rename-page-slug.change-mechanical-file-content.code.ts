@@ -7,7 +7,7 @@ import { importingOf } from "../../../../../pages/indexes/path-naming/path-namin
 import {
   gathered,
   refusing,
-  splicing,
+  splicedIn,
   stating,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type {
@@ -95,17 +95,6 @@ export function addressedIn(
   }
   ts.forEachChild(source, walk)
   return found
-}
-
-export function splicedIn(path: string, text: string, spots: readonly Splice[]): readonly Stated[] {
-  const seen = new Set<number>()
-  const held: Splice[] = []
-  for (const one of [...spots].sort((here, there) => here.from - there.from)) {
-    if (seen.has(one.from)) continue
-    seen.add(one.from)
-    held.push(one)
-  }
-  return splicing(path, text, held)
 }
 
 function reachOf(world: World, id: string, pageTypeSlug: string): Reach {

@@ -125,6 +125,17 @@ export function splicing(
   })
 }
 
+export function splicedIn(path: string, text: string, spots: readonly Splice[]): readonly Stated[] {
+  const seen = new Set<number>()
+  const held: Splice[] = []
+  for (const one of [...spots].sort((here, there) => here.from - there.from)) {
+    if (seen.has(one.from)) continue
+    seen.add(one.from)
+    held.push(one)
+  }
+  return splicing(path, text, held)
+}
+
 function addedIn(one: Adding, textOf: BodyOf): Expanded {
   if (holds(textOf(one.path))) {
     return { refused: `\`${one.path}\` holds a body already, so nothing is added` }

@@ -93,6 +93,11 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Of two splices opening at one place, the one handed in later is dropped rather than joined.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Two splices whose lines are apart answer an edit each.",
     },
     {

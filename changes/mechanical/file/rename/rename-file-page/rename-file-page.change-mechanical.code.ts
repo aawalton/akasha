@@ -11,6 +11,7 @@ import { folderFor } from "../../../../../pages/service/page-composing/page-comp
 import {
   gathered,
   refusing,
+  splicedIn,
   splicing,
   stating,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
@@ -22,7 +23,6 @@ import type {
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { spelledAnew } from "../../../../modules/package-naming/package-naming.module.code.ts"
 import { statedIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
-import { splicedIn } from "../../../file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
 
 const RENAME_PAGE_SLUG = "change-mechanical-file-content/rename-page-slug"
 
