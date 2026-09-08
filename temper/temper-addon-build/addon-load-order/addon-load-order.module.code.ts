@@ -41,9 +41,8 @@ function luaBundleAt(tsconfigPath: string): string | null {
   try {
     const said = JSON.parse(readFileSync(tsconfigPath, "utf-8")) as {
       luaCompiler?: { luaBundle?: unknown }
-      tstl?: { luaBundle?: unknown }
     }
-    const found = said.luaCompiler?.luaBundle ?? said.tstl?.luaBundle
+    const found = said.luaCompiler?.luaBundle
     return typeof found === "string" ? found : null
   } catch {
     return null
