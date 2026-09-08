@@ -6,20 +6,32 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 
 export const SERVICE_PAGE_TYPE = "workstation-service"
 
-const SYSTEMD_TEXT_KEYS = ["restart", "schedule"] as const
-const SYSTEMD_NUMBER_KEYS = ["restartDelaySeconds", "startTimeoutSeconds", "jitterSeconds"] as const
+const SYSTEMD_TEXT_KEYS = ["restart", "schedule", "partOf", "wantedBy"] as const
+const SYSTEMD_NUMBER_KEYS = [
+  "restartDelaySeconds",
+  "startTimeoutSeconds",
+  "jitterSeconds",
+  "accuracySeconds",
+  "successExitStatus",
+  "restartForceExitStatus",
+  "startLimitIntervalSeconds",
+] as const
+const SYSTEMD_LIST_KEYS = ["after", "wants", "stops"] as const
 
 export type Read = { readonly services: readonly Service[] } | { readonly refused: string }
 
-export function runsIn(value: Value): readonly string[] | null {
-  const held = value.runs
+export function textsIn(held: unknown): readonly string[] | null {
   if (!Array.isArray(held)) return null
-  const runs: string[] = []
+  const took: string[] = []
   for (const one of held) {
     if (typeof one !== "string" || one.trim() === "") return null
-    runs.push(one)
+    took.push(one)
   }
-  return runs.length === 0 ? null : runs
+  return took.length === 0 ? null : took
+}
+
+export function runsIn(value: Value): readonly string[] | null {
+  return textsIn(value.runs)
 }
 
 export function systemdIn(value: Value): Systemd | undefined {
@@ -29,6 +41,10 @@ export function systemdIn(value: Value): Systemd | undefined {
   const took: Record<string, unknown> = {}
   for (const key of SYSTEMD_TEXT_KEYS) if (typeof one[key] === "string") took[key] = one[key]
   for (const key of SYSTEMD_NUMBER_KEYS) if (typeof one[key] === "number") took[key] = one[key]
+  for (const key of SYSTEMD_LIST_KEYS) {
+    const stated = textsIn(one[key])
+    if (stated !== null) took[key] = stated
+  }
   if (typeof one.catchUp === "boolean") took.catchUp = one.catchUp
   return took as Systemd
 }

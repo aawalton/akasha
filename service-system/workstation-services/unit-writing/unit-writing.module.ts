@@ -22,7 +22,8 @@ export const unitWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A service stating no schedule is wanted by the default target.",
+      statement:
+        "A service stating no schedule is wanted by the target that service states or by the default target.",
     },
     {
       invariantKind: "departure",
@@ -62,8 +63,13 @@ export const unitWriting = {
       statement: "Nothing here settles where a unit is installed.",
     },
     {
-      invariantKind: "gap",
-      statement: "Eleven of the seventeen options the services there today state are written.",
+      invariantKind: "departure",
+      statement: "Every option a service's page states reaches that service's unit or timer.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An exit code a service states joins the one the wrapper leaves on rather than replacing it.",
     },
   ],
 } as const satisfies Module

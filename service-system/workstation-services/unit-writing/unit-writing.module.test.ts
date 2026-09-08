@@ -135,3 +135,62 @@ test("the files a service is installed as follow its schedule", () => {
   expect(unitFileNames(scheduled)).toEqual(["held-service.service", "held-service.timer"])
   expect(installedUnitName(scheduled)).toBe("held-service.timer")
 })
+
+test("what a service states it is ordered against is written before the service section", () => {
+  const text = serviceUnitText(
+    pageOf({
+      systemd: {
+        after: ["network-online.target"],
+        wants: ["network-online.target"],
+        partOf: "graphical-session.target",
+      },
+    })
+  )
+  expect(text).toContain("After=network-online.target")
+  expect(text).toContain("Wants=network-online.target")
+  expect(text).toContain("PartOf=graphical-session.target")
+  expect(text.indexOf("After=")).toBeLessThan(text.indexOf("[Service]"))
+})
+
+test("a service stating a target of its own is wanted by that target rather than the default", () => {
+  const text = serviceUnitText(pageOf({ systemd: { wantedBy: "graphical-session.target" } }))
+  expect(text).toContain("WantedBy=graphical-session.target")
+  expect(text).not.toContain("WantedBy=default.target")
+})
+
+test("what a service states to stop it is written as that service's stop command", () => {
+  const text = serviceUnitText(pageOf({ systemd: { stops: ["/usr/bin/podman stop held"] } }))
+  expect(text).toContain("ExecStop=/usr/bin/podman stop held")
+})
+
+test("a start limit window a service states is written before the service section", () => {
+  const text = serviceUnitText(pageOf({ systemd: { startLimitIntervalSeconds: 0 } }))
+  expect(text).toContain("StartLimitIntervalSec=0")
+  expect(text.indexOf("StartLimitIntervalSec=")).toBeLessThan(text.indexOf("[Service]"))
+})
+
+test("an exit code a service recycles on joins the wrapper's rather than replacing it", () => {
+  const text = serviceUnitText(
+    pageOf({ systemd: { successExitStatus: 75, restartForceExitStatus: 75 } })
+  )
+  expect(text).toContain(`SuccessExitStatus=143 ${RESTART_EXIT} 75`)
+  expect(text).toContain(`RestartForceExitStatus=${RESTART_EXIT} 75`)
+})
+
+test("an exit code stated as the one the wrapper leaves on is written once", () => {
+  const text = serviceUnitText(pageOf({ systemd: { restartForceExitStatus: RESTART_EXIT } }))
+  expect(text).toContain(`RestartForceExitStatus=${RESTART_EXIT}\n`)
+})
+
+test("a service under no wrapper forces a restart on the code its page states", () => {
+  const text = serviceUnitText(
+    pageOf({ runs: ["/usr/bin/held"], systemd: { restartForceExitStatus: 75 } })
+  )
+  expect(text).toContain("RestartForceExitStatus=75\n")
+  expect(text).toContain("SuccessExitStatus=143\n")
+})
+
+test("the accuracy a scheduled service states is written on that service's timer", () => {
+  const text = timerUnitText(pageOf({ systemd: { schedule: "*:*:00", accuracySeconds: 1 } }))
+  expect(text).toContain("AccuracySec=1")
+})

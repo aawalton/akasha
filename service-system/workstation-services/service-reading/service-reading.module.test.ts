@@ -56,6 +56,15 @@ test("only the systemd options this system carries are read", () => {
         startTimeoutSeconds: 300,
         jitterSeconds: 5,
         catchUp: true,
+        partOf: "graphical-session.target",
+        wantedBy: "graphical-session.target",
+        accuracySeconds: 1,
+        successExitStatus: 75,
+        restartForceExitStatus: 75,
+        startLimitIntervalSeconds: 0,
+        after: ["network-online.target"],
+        wants: ["network-online.target"],
+        stops: ["/usr/bin/podman stop it"],
         killMode: "mixed",
         nice: 4,
       },
@@ -67,11 +76,21 @@ test("only the systemd options this system carries are read", () => {
     startTimeoutSeconds: 300,
     jitterSeconds: 5,
     catchUp: true,
+    partOf: "graphical-session.target",
+    wantedBy: "graphical-session.target",
+    accuracySeconds: 1,
+    successExitStatus: 75,
+    restartForceExitStatus: 75,
+    startLimitIntervalSeconds: 0,
+    after: ["network-online.target"],
+    wants: ["network-online.target"],
+    stops: ["/usr/bin/podman stop it"],
   })
 })
 
 test("an option stated as the wrong sort of value is read as none of it", () => {
   expect(systemdIn({ systemd: { restart: 3, jitterSeconds: "5" } })).toEqual({})
+  expect(systemdIn({ systemd: { after: "network.target", wants: [], stops: [2] } })).toEqual({})
 })
 
 test("a page stating no systemd carries none", () => {

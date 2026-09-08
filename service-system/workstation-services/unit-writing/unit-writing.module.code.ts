@@ -77,11 +77,39 @@ function opening(given: Service): readonly string[] {
   ]
 }
 
+export function orderingLines(given: Service): readonly string[] {
+  const stated = given.service.systemd
+  const lines: string[] = []
+  for (const one of stated?.after ?? []) lines.push(`After=${one}`)
+  for (const one of stated?.wants ?? []) lines.push(`Wants=${one}`)
+  if (stated?.partOf !== undefined) lines.push(`PartOf=${stated.partOf}`)
+  if (stated?.startLimitIntervalSeconds !== undefined) {
+    lines.push(`StartLimitIntervalSec=${stated.startLimitIntervalSeconds}`)
+  }
+  return lines
+}
+
+function joined(codes: readonly number[]): string {
+  return [...new Set(codes)].join(" ")
+}
+
+export function exitLines(given: Service): readonly string[] {
+  const stated = given.service.systemd
+  const recycles = isWrapped(given) ? [RESTART_EXIT] : []
+  const stops = stated?.successExitStatus === undefined ? [] : [stated.successExitStatus]
+  const forces = stated?.restartForceExitStatus === undefined ? [] : [stated.restartForceExitStatus]
+  const forced = [...recycles, ...forces]
+  const lines = [`SuccessExitStatus=${joined([SIGTERM_EXIT, ...recycles, ...stops])}`]
+  if (forced.length > 0) lines.push(`RestartForceExitStatus=${joined(forced)}`)
+  return lines
+}
+
 export function serviceUnitText(given: Service): string {
   const scheduled = isScheduled(given)
   const stated = given.service.systemd
   const lines: string[] = [
     ...opening(given),
+    ...orderingLines(given),
     "",
     "[Service]",
     `Type=${scheduled ? "oneshot" : "simple"}`,
@@ -90,6 +118,8 @@ export function serviceUnitText(given: Service): string {
     `Environment=AKASHA_ROOT=${CHECKOUT}`,
     ...execLines(given),
   ]
+
+  for (const one of stated?.stops ?? []) lines.push(`ExecStop=${one}`)
 
   if (stated?.startTimeoutSeconds !== undefined) {
     lines.push(`TimeoutStartSec=${stated.startTimeoutSeconds}`)
@@ -100,10 +130,8 @@ export function serviceUnitText(given: Service): string {
     if (stated?.restartDelaySeconds !== undefined) {
       lines.push(`RestartSec=${stated.restartDelaySeconds}`)
     }
-    const wraps = isWrapped(given)
-    lines.push(`SuccessExitStatus=${wraps ? `${SIGTERM_EXIT} ${RESTART_EXIT}` : SIGTERM_EXIT}`)
-    if (wraps) lines.push(`RestartForceExitStatus=${RESTART_EXIT}`)
-    lines.push("", "[Install]", `WantedBy=${DEFAULT_TARGET}`)
+    lines.push(...exitLines(given))
+    lines.push("", "[Install]", `WantedBy=${stated?.wantedBy ?? DEFAULT_TARGET}`)
   }
 
   return `${lines.join("\n")}\n`
@@ -115,6 +143,7 @@ export function timerUnitText(given: Service): string | null {
   const stated = given.service.systemd
   const lines: string[] = [...opening(given), "", "[Timer]", `OnCalendar=${calendar}`]
   if (stated?.jitterSeconds !== undefined) lines.push(`RandomizedDelaySec=${stated.jitterSeconds}`)
+  if (stated?.accuracySeconds !== undefined) lines.push(`AccuracySec=${stated.accuracySeconds}`)
   if (stated?.catchUp === true) lines.push("Persistent=true")
   lines.push("", "[Install]", `WantedBy=${TIMER_TARGET}`)
   return `${lines.join("\n")}\n`
