@@ -6,4 +6,11 @@ export const resumeSeat = {
   slug: "resume-seat",
   definition: "a stopped seat relaunched under its own name once nothing live holds it",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A name a live tmux session holds refuses the revive before anything is signalled.",
+    },
+  ],
 } as const satisfies Module
