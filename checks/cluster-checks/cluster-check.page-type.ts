@@ -200,6 +200,7 @@ export const clusterCheck = {
     "module/sops-manifest",
     "module/spacing-scale",
     "module/start-script-rules",
+    "module/suppression-subject",
   ],
   properties: [
     {
