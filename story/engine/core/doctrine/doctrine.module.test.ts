@@ -20,7 +20,7 @@ describe("the policies a pack owns", () => {
   })
 })
 
-describe("parseDoctrinePack", () => {
+describe("parseDoctrine", () => {
   test("the fixture pack parses", () => {
     expect(parseDoctrine(FIXTURE_DOCTRINE).doctrineVersion).toBe(6)
   })
@@ -30,7 +30,7 @@ describe("parseDoctrinePack", () => {
   })
 })
 
-describe("withDoctrinePack", () => {
+describe("withDoctrine", () => {
   test("the pack's policies lead and the game's own follow", () => {
     const merged = withDoctrine({ policies: [PER_GAME_POLICY] }, FIXTURE_DOCTRINE)
     expect(merged.policies.map((p) => p.id)).toEqual([
@@ -113,7 +113,7 @@ describe("dropsStampedDoctrineVersion", () => {
   })
 })
 
-describe("buildDoctrinePackUpdate", () => {
+describe("buildDoctrineUpdate", () => {
   test("a patch changing nothing needs no version bump", () => {
     const built = buildDoctrineUpdate(FIXTURE_DOCTRINE, {})
     expect(built.ok).toBe(true)
