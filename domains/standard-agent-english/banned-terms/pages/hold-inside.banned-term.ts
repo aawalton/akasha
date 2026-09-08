@@ -5,6 +5,6 @@ export const holdInside = {
   pageTypeSlug: "banned-term",
   slug: "hold-inside",
   spelling: "hold",
-  definition: "what a thing has inside it",
+  definition: "having something inside\n",
   instead: "have",
 } as const satisfies BannedTerm
