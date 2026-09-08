@@ -2,6 +2,7 @@ import * as ts from "typescript"
 import {
   isFullyReached,
   type ReachabilityResult,
+  resolveTargetSourceFile,
 } from "../transpile-reachability/transpile-reachability.module.code.ts"
 
 export function createPruneUnusedReexportsTransformer(
@@ -9,15 +10,6 @@ export function createPruneUnusedReexportsTransformer(
   reachability: ReachabilityResult
 ): ts.TransformerFactory<ts.SourceFile> {
   const checker = program.getTypeChecker()
-
-  const resolveTargetSourceFile = (specifier: ts.Expression): ts.SourceFile | undefined => {
-    const sym = checker.getSymbolAtLocation(specifier)
-    if (!sym?.declarations) return undefined
-    for (const decl of sym.declarations) {
-      if (ts.isSourceFile(decl)) return decl
-    }
-    return undefined
-  }
 
   return (context) => (sourceFile) => {
     if (sourceFile.isDeclarationFile) return sourceFile
@@ -35,7 +27,7 @@ export function createPruneUnusedReexportsTransformer(
         continue
       }
 
-      const target = resolveTargetSourceFile(stmt.moduleSpecifier)
+      const target = resolveTargetSourceFile(checker, stmt.moduleSpecifier)
       if (!target) {
         newStatements.push(stmt)
         continue
