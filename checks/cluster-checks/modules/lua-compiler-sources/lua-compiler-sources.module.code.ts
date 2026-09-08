@@ -28,7 +28,7 @@ export function matchesTstlRoot(rel: string, roots: readonly string[]): boolean 
   return roots.some((root) => rel === root || rel.startsWith(`${root}/`))
 }
 
-export function isExcludedFromTstlScan(rel: string): boolean {
+export function isExcludedFromLuaCompilerScan(rel: string): boolean {
   if (rel.endsWith(".d.ts")) return true
   return /\.test\.tsx?$/.test(rel)
 }
@@ -50,6 +50,6 @@ function tstlRoots(repoRoot: string): readonly string[] {
 }
 
 export function isLuaCompilerSourcePath(rel: string, repoRoot: string): boolean {
-  if (isExcludedFromTstlScan(rel)) return false
+  if (isExcludedFromLuaCompilerScan(rel)) return false
   return matchesTstlRoot(rel, tstlRoots(repoRoot))
 }
