@@ -41,17 +41,6 @@ export function easeIn(values: Readonly<Record<string, unknown>>): number | null
   return safe - hard
 }
 
-/**
- * Whether a stretch names anybody it was spent with.
- *
- * A charisma point is an hour with someone that cost nothing, so the hour has to have been with
- * someone. A stretch naming nobody was time alone whatever its levels say, and sleep is the plainest
- * case: it is logged safe and undemanding every night, so before this test a night on its own put
- * the tile past every rung on the scale by morning.
- *
- * A stretch names whoever it was with in a list of relationship ids. A list carrying nothing and no
- * list at all are the same answer here — neither names anyone.
- */
 export function namesAnyone(values: Readonly<Record<string, unknown>>): boolean {
   const held = values[RELATIONSHIPS]
   return Array.isArray(held) && held.some((one) => typeof one === "string" && one.trim() !== "")

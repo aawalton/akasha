@@ -3,18 +3,6 @@ import { statedAt } from "../../../readout-tier/readout-tier.module.code.ts"
 
 const FOOD_ENTRY = "food-entry"
 
-/**
- * How a food entry spells the keys the day's grams are read off it.
- *
- * A page states its keys as its own file spells them, so these are humped rather than the kebab
- * slugs the old markdown query took. Asked through the markdown query client, this tile read zero
- * every five minutes while 87 food entries were in akasha: that client still recognises
- * `food-entry`, whose declaration survived the migration, but the instance files it enumerates
- * went, so it answered no rows without refusing. The sum came out zero and the scale put zero on
- * the black rung. `plants.domain` holds that a day begun with nothing eaten is a reading of zero,
- * which is exactly what made the fault invisible — the wrong number and the right number are the
- * same number on most mornings.
- */
 const PLANT_GRAMS = "plantGrams"
 
 const HAPPENED_AT = "happenedAt"

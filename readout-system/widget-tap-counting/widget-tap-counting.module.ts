@@ -22,6 +22,10 @@ export const widgetTapCounting = {
     },
     {
       invariantKind: "departure",
+      statement: "Two taps arriving together cost one tap.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The moment of the last tap is written beside the count.",
     },
     {

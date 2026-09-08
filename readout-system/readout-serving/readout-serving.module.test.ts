@@ -54,12 +54,6 @@ beforeAll(() => {
   origin = `http://localhost:${server.port}`
 })
 
-// THE ORIGIN THIS FILE SET IS THE WHOLE PROCESS'S, AND COMES BACK WHEN THE STORE GOES.
-//
-// Every test file in one run shares one process, so a file leaving this origin in place leaves
-// every later file asking this store rather than the store the run was pointed at. Stopping the
-// store does not cover that on its own: `stop` leaves an open connection open, and `fetch` holds
-// one, so a stopped store goes on answering the file that runs next.
 afterAll(() => {
   server.stop()
   store.stop(true)
