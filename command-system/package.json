@@ -57,8 +57,7 @@
     "./gated-write": "./gated-write/gated-write.module.code.ts",
     "./command-failing": "./command-failing/command-failing.module.code.ts",
     "./argument-narrowing": "./argument-narrowing/argument-narrowing.module.code.ts",
-    "./commands-served": "./commands-served/commands-served.module.code.ts",
-    "./page-tree": "./commands/page-tree/page-tree.command.code.ts"
+    "./commands-served": "./commands-served/commands-served.module.code.ts"
   },
   "dependencies": {
     "@akasha/changes": "workspace:*",

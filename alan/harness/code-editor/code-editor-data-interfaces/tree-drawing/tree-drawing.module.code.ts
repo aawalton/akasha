@@ -1,13 +1,13 @@
 import { join } from "node:path"
 import type { SubagentPage } from "@akasha/seat-system/agent-page-reading"
 import { colorOfState } from "@akasha/seat-system/seat-turn-color"
-import { pageAnswers } from "../../../../../command-system/commands/page-tree/page-tree.command.code.ts"
 import {
   type ForestSeat,
   forestOver,
   NOW,
 } from "../../../../../commands/pages/agent-forest/agent-forest.command.code.ts"
 import { domainRowsIn } from "../../../../../commands/pages/domain/domain-tree/domain-tree.command.code.ts"
+import { pageAnswers } from "../../../../../commands/pages/page/page-tree/page-tree.command.code.ts"
 import { treeIn } from "../../../../../commands/pages/work-tree/work-tree.command.code.ts"
 import {
   ALAN,
