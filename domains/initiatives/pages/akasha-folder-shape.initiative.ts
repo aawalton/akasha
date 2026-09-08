@@ -13,7 +13,7 @@ export const akashaFolderShape = {
         "`always` is renamed `page`. `part-of` is deleted rather than renamed: it scopes on the collections dag, while `page-property` scopes on a value the page itself carries. `book-section` is the one live `part-of` declarer, so it takes a `uniquePropertySlug` first. `reach` and `level` are two coined names for this one kind and neither is a page; the path is the unique kind, the scope, the property, the value.",
     },
     {
-      statement: "A page unique only within a scope declares `uniqueScope`.",
+      statement: "A page unique only within a scope declares `uniquePropertySlug`.",
       workingMemory:
         '`Schema` is one shape in `index-shape` now, read by the entries reader, the reading reader and the writer, and it carries `uniqueScope`, which the writer files. An absent slug reads as the empty string rather than as nothing, so a reader dropping a stub line drops on `""`. `Identifier` and `identifyingFrom` still carry `key` and `reach` alone, and `filedIn` composes no scope, so nothing reads the field a declaration states yet.',
     },
