@@ -15,7 +15,7 @@ export const theaChecksSystem = {
     {
       statement: "The tests beside a changed file judge the change that carries it.",
       workingMemory:
-        "11 of 44 checks run on no phase and this is one, so no change is refused for a red test. Patch is the ratchet and starts before the tree reaches zero, so a green tree is not the bar. The work is the world: tests run in a tree written from the change, carrying the index it leaves, swept however it ends. No command runs a test by hand and `bun test` is hook-refused, so nothing runs a test elsewhere. First the root override, then the world, then re-entrancy, then measure what patch refuses.",
+        "Measured on Bun 1.3.14: onResolve never fires for a bare specifier, from a served importer or a plain one; an absolute specifier from a served importer does reach it; onLoad fires in the file namespace for whatever the runner itself resolved. So a move is aliased rather than resolution intercepted. The moved body is served at the path the runner still finds, and a specifier the new manifest brings is spelled back to the old. A moved body answers import.meta as the old path.",
     },
     {
       statement:
