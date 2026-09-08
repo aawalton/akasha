@@ -10,13 +10,13 @@ export const aineAuditChangeGuards = {
     {
       statement: "Every sensible combination of mode, type and subtype has a mechanical change.",
       workingMemory:
-        "file takes file, file-code, file-page, file-page-type, file-page-property; file-content takes code, page-property, page-property-prose, manifest; folder takes folder, folder-package. Only add is filled, four deep. move holds move-file, which five changes reach and none layers over. rename holds rename-path, which is move-file plus change-imports, so it is move's file-code rung misnamed. move-page, move-folder, move-folder-batch and change-page-page-type redo that by hand where no guard sits.",
+        "file takes file, file-code, file-page, file-page-type, file-page-property; file-content takes code, page-property, page-property-prose, manifest; folder takes folder, folder-package. add and move are filled four deep, and move-page reaches move-file-page. A file's rename is its move, so file holds no rename cell. move-folder, move-folder-batch and change-page-page-type still compose move-file by hand.\n",
     },
     {
       statement:
         "Every mechanical change that can leave an edge hanging names the guard judging that edge.",
       workingMemory:
-        "8 of the 24 mechanical changes name any guard, and `guardedBy` returns before casting a shadow where the list is empty, so the other 16 cost nothing and judge nothing. Whether something is a guard is settled by asking whether judging it needs the answer. Guards never read `world.index`; `guardedBy` casts its shadow from `gathered([world.over, said])`, so a stale index on a threaded world cannot reach one.",
+        "Whether something is a guard is settled by asking whether judging it needs the answer. Guards never read `world.index`; `guardedBy` casts its shadow from `gathered([world.over, said])`, so a stale index on a threaded world cannot reach one. `import-not-left-hanging` and `claimed-file-not-left-behind` now judge a path a move carried the body off as well as a path taken away; `relation-not-left-hanging` must not, a carried page being there still.\n",
     },
     {
       statement:
