@@ -12,7 +12,7 @@ import {
   bodyOf,
   knownOf,
 } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { changePageProperty, runChange } from "./change-page-property.change-checked.code.ts"
+import { changePageProperty, runChange } from "./change-page-property.change-agent.code.ts"
 
 const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical-file-content/change-page-property") {

@@ -1,8 +1,8 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const changePageProperty = {
   id: "01a07932-2568-7c41-8097-885a9fc34263",
-  pageTypeSlug: "change-checked",
+  pageTypeSlug: "change-agent",
   slug: "change-page-property",
   changeModeSlug: "change-mode-change",
   definition:
@@ -43,4 +43,4 @@ export const changePageProperty = {
         "The refusal for many values names the changes putting a value in and taking a value out.",
     },
   ],
-} as const satisfies ChangeChecked
+} as const satisfies ChangeAgent
