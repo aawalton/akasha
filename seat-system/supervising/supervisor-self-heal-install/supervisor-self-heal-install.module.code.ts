@@ -1,3 +1,4 @@
+import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { ownRepoRoot } from "@akasha/pages/checkout-roots"
 import { REPO_ROOT } from "../supervisor-config/supervisor-config.module.code.ts"
 
@@ -25,13 +26,9 @@ export const SINGLE_FLIGHT_FLOCK_SH = [
 ].join("\n")
 
 function verifyWorkspaceBinsAt(): string {
-  return `${ownRepoRoot()}/workspace-paths/workspace-bins-verifying/workspace-bins-verifying.module.code.ts`
+  return `${ownRepoRoot()}/alan/harness/workspace-paths/workspace-bins-verifying/workspace-bins-verifying.module.code.ts`
 }
 
-// A PATH REACHES THIS SCRIPT AS AN ARGUMENT RATHER THAN AS SCRIPT TEXT. A value written into the
-// text is read by the shell as text: a root carrying a double quote or a backtick closes the
-// quoting, and whatever follows it runs with everything the supervisor holds. `$1` and `$2` carry
-// the sentinel and the verifier, and a positional is read as a value whatever it holds.
 export const SINGLE_FLIGHT_INSTALL_SCRIPT = [
   'if [ -e "$1" ]; then exit 0; fi',
   "bun install --frozen-lockfile 1>&2 || exit 1",
@@ -49,8 +46,8 @@ function sanitizeVersionForPath(version: string): string {
 
 export const defaultRunInstall: SelfHealRunInstall = async (version) => {
   const safe = sanitizeVersionForPath(version)
-  const lockPath = `/tmp/supervisor-self-heal-install-${safe}.lock`
-  const sentinelPath = `/tmp/supervisor-self-heal-install-${safe}.done`
+  const lockPath = `${SCRATCH_AT}/supervisor-self-heal-install-${safe}.lock`
+  const sentinelPath = `${SCRATCH_AT}/supervisor-self-heal-install-${safe}.done`
   const proc = Bun.spawn({
     cmd: [
       "sh",
