@@ -28,15 +28,19 @@ export const lintClean = {
     {
       invariantKind: "departure",
       statement:
-        "The linter reads a world written out of the files the change proposes rather than the working tree.",
+        "The linter reads a mirror written out of the files the change proposes rather than the tree.",
     },
     {
       invariantKind: "departure",
-      statement: "The world links the rest of the tree beside the bodies the change carries.",
+      statement: "The mirror holds those files and the files the linter is configured by.",
     },
     {
       invariantKind: "departure",
-      statement: "The world carries no index.",
+      statement: "The linter itself is found under the tree rather than in the mirror.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The mirror carries no index.",
     },
     {
       invariantKind: "absence",
