@@ -29,7 +29,8 @@
     "./inventory-settings-handle": "./inventory-settings-handle/inventory-settings-handle.module.code.ts",
     "./inventory-snapshot-reading": "./inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts",
     "./master-craft-trace-reading": "./master-craft-trace-reading/master-craft-trace-reading.module.code.ts",
-    "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts"
+    "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts",
+    "./name-ordering": "./name-ordering/name-ordering.module.code.ts"
   },
   "dependencies": {
     "@akasha/supabase-auth": "workspace:*",
