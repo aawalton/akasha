@@ -18,7 +18,7 @@ const ADDONS_REL_ROOT = "temper/addons"
 
 const ROOT_BASE_NAME = "tsconfig.base.json"
 
-const HELD_AT = "dist/.tstl"
+const HELD_AT = "dist/.lua-compiler"
 
 const CODE_UNDER = `**/*${CODE_SUFFIX}`
 

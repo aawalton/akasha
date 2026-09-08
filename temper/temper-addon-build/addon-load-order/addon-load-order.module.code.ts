@@ -17,7 +17,7 @@ export const ADDONS_REL_ROOT = "temper/addons"
 
 export const DIST_UNDER = "dist"
 
-const TSTL_UNDER = "dist/.tstl"
+const CONFIGS_UNDER = "dist/.lua-compiler"
 
 export const CATALOG_ADDON_NAME = "TemperCatalog"
 
@@ -232,7 +232,7 @@ export async function writeLoadOrder(
 ): Promise<LoadOrderWritten> {
   const distDir = join(root, ADDONS_REL_ROOT, DIST_UNDER, canonicalName)
   await tstlConfigPathFor(root, addonDir, canonicalName)
-  const generated = join(root, ADDONS_REL_ROOT, TSTL_UNDER, `${canonicalName}.${TSCONFIG_NAME}`)
+  const generated = join(root, ADDONS_REL_ROOT, CONFIGS_UNDER, `${canonicalName}.${TSCONFIG_NAME}`)
   const bundle = readLuaBundle(addonDir, generated)
   if (bundle === null) {
     throw new Error(

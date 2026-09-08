@@ -83,7 +83,9 @@ test("an addon folder holding a tsconfig is built from the tsconfig held there",
 test("an addon folder holding no tsconfig is built from settings written into the build output", async () => {
   const { root, dir } = addonFolderNaming("table-functions-entry")
   const path = await tstlConfigPathFor(root, dir, "TemperTableFunctions")
-  expect(path).toBe(join(root, "temper/addons/dist/.tstl/TemperTableFunctions.tsconfig.json"))
+  expect(path).toBe(
+    join(root, "temper/addons/dist/.lua-compiler/TemperTableFunctions.tsconfig.json")
+  )
 })
 
 test("an addon page naming no bundle entry answers that nothing can be built", async () => {
