@@ -41,7 +41,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A draft survives between commands in the store an agent's page declares.",
       workingMemory:
-        "`drafting` writes and commits `<agent page>.patch.diff`, which no page declares, and `patchIn` reads it back in a later process, so a draft crosses between commands through it. The declared `edits` file is `uncommitted: true`. The successor exists: `edits-keeping`, `edits-landing`, and `subagent-handed:37` finds handed work through `editsAt(page)`. Two readers of the patch remain, both in the frozen presence file: `patchesUnder:205` spells the name by hand, and `:170` calls `tookIn`.",
+        "`drafting` writes and commits `<agent page>.patch.diff`, which no page declares, and reads it back in a later process. The declared `edits` file is `uncommitted: true` and its successor is there: `edits-keeping`, `edits-landing`, `subagent-handed:37`. The last two patch readers are in the frozen presence file and both are drafted away: 9 handed edits fold at HEAD, deleting `tookInUnder`, `patchesUnder` and their callers. They wait on the ceiling. Take them from `dalla-a4d2c944de0c8052d`.\n",
     },
   ],
   constraints: [
