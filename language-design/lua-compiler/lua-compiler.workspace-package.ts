@@ -9,6 +9,12 @@ export const luaCompiler = {
   partSlugs: [
     "lua-runtime-library/lualib",
     "lualib/array-at",
+    "lualib/clear-interval",
+    "lualib/clear-timeout",
+    "lualib/queue-microtask",
+    "lualib/set-interval",
+    "lualib/set-timeout",
+    "lualib/timers",
     "lualib/async-awaiter",
     "lualib/awaiting",
     "lualib/coroutines",

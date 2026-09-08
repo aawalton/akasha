@@ -9,6 +9,14 @@ import {
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { isNumberType } from "../typescript/typescript.module.code.ts"
 
+const schedulingFeatures = new Map<string, LuaLibFeature>([
+  ["clearInterval", LuaLibFeature.ClearInterval],
+  ["clearTimeout", LuaLibFeature.ClearTimeout],
+  ["queueMicrotask", LuaLibFeature.QueueMicrotask],
+  ["setInterval", LuaLibFeature.SetInterval],
+  ["setTimeout", LuaLibFeature.SetTimeout],
+])
+
 export function tryTransformBuiltinGlobalCall(
   context: TransformationContext,
   node: ts.CallExpression,
@@ -51,12 +59,10 @@ export function tryTransformBuiltinGlobalCall(
         node,
         ...getParameters()
       )
-    case "setTimeout":
-    case "setInterval":
-    case "clearTimeout":
-    case "clearInterval":
-    case "queueMicrotask": {
-      importLuaLibFeature(context, LuaLibFeature.Scheduling)
+    default: {
+      const scheduled = schedulingFeatures.get(name)
+      if (scheduled === undefined) return undefined
+      importLuaLibFeature(context, scheduled)
       const identifierName = `__TS__${name.charAt(0).toUpperCase()}${name.slice(1)}`
       return luaExpressions.createCallExpression(
         luaExpressions.createIdentifier(identifierName),
@@ -64,7 +70,5 @@ export function tryTransformBuiltinGlobalCall(
         node
       )
     }
-    default:
-      return undefined
   }
 }
