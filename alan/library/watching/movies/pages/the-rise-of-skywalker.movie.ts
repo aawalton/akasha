@@ -5,7 +5,7 @@ export const theRiseOfSkywalker = {
   pageTypeSlug: "movie",
   slug: "the-rise-of-skywalker",
   title: "The Rise of Skywalker",
-  partOfSlugs: ["star-wars-2"],
+  partOfCollectionSlugs: ["star-wars-2"],
   position: 15,
   ownLength: 0,
   ownProgress: 0,

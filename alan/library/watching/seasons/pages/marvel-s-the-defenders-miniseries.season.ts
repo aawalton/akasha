@@ -5,7 +5,7 @@ export const marvelSTheDefendersMiniseries = {
   pageTypeSlug: "season",
   slug: "marvel-s-the-defenders-miniseries",
   title: "Marvel's The Defenders Miniseries",
-  partOfSlugs: ["the-defenders"],
+  partOfCollectionSlugs: ["the-defenders"],
   position: 1,
   ownLength: 394.2,
   ownProgress: 0,

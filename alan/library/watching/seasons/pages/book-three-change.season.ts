@@ -5,7 +5,7 @@ export const bookThreeChange = {
   pageTypeSlug: "season",
   slug: "book-three-change",
   title: "Book Three: Change",
-  partOfSlugs: ["the-legend-of-korra"],
+  partOfCollectionSlugs: ["the-legend-of-korra"],
   position: 3,
   ownLength: 298.8,
   ownProgress: 0,

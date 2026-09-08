@@ -5,7 +5,7 @@ export const werewolfByNight = {
   pageTypeSlug: "movie",
   slug: "werewolf-by-night",
   title: "Werewolf by Night",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 39,
   ownLength: 0,
   ownProgress: 0,

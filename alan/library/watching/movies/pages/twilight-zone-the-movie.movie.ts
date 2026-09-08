@@ -5,7 +5,7 @@ export const twilightZoneTheMovie = {
   pageTypeSlug: "movie",
   slug: "twilight-zone-the-movie",
   title: "Twilight Zone: The Movie",
-  partOfSlugs: ["the-twilight-zone"],
+  partOfCollectionSlugs: ["the-twilight-zone"],
   position: 1983,
   ownLength: 0,
   ownProgress: 0,

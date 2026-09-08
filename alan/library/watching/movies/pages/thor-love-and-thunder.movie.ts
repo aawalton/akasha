@@ -5,7 +5,7 @@ export const thorLoveAndThunder = {
   pageTypeSlug: "movie",
   slug: "thor-love-and-thunder",
   title: "Thor: Love and Thunder",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 36,
   ownLength: 0,
   ownProgress: 0,

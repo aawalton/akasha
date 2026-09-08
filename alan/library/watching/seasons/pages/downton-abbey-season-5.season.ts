@@ -5,7 +5,7 @@ export const downtonAbbeySeason5 = {
   pageTypeSlug: "season",
   slug: "downton-abbey-season-5",
   title: "Downton Abbey Season 5",
-  partOfSlugs: ["downton-abbey"],
+  partOfCollectionSlugs: ["downton-abbey"],
   position: 5,
   ownLength: 439.2,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const ncisSydneySeason1 = {
   pageTypeSlug: "season",
   slug: "ncis-sydney-season-1",
   title: "NCIS: Sydney Season 1",
-  partOfSlugs: ["ncis-sydney"],
+  partOfCollectionSlugs: ["ncis-sydney"],
   position: 1,
   ownLength: 348,
   ownProgress: 0,

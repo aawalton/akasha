@@ -5,7 +5,7 @@ export const k9Season1 = {
   pageTypeSlug: "season",
   slug: "k-9-season-1",
   title: "K-9 Season 1",
-  partOfSlugs: ["k-9"],
+  partOfCollectionSlugs: ["k-9"],
   position: 1,
   ownLength: 702,
   ownProgress: 0,

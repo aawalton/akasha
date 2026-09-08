@@ -5,7 +5,7 @@ export const obiWanKenobiMiniseries = {
   pageTypeSlug: "season",
   slug: "obi-wan-kenobi-miniseries",
   title: "Obi-Wan Kenobi Miniseries",
-  partOfSlugs: ["obi-wan-kenobi"],
+  partOfCollectionSlugs: ["obi-wan-kenobi"],
   position: 1,
   ownLength: 280.2,
   ownProgress: 0,

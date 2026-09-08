@@ -5,7 +5,7 @@ export const theXFilesIWantToBelieve2008 = {
   pageTypeSlug: "movie",
   slug: "the-x-files-i-want-to-believe-2008",
   title: "The X-Files: I Want to Believe (2008)",
-  partOfSlugs: ["x-files"],
+  partOfCollectionSlugs: ["x-files"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

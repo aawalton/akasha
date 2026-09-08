@@ -5,7 +5,7 @@ export const theHobbitTheDesolationOfSmaug = {
   pageTypeSlug: "movie",
   slug: "the-hobbit-the-desolation-of-smaug",
   title: "The Hobbit: The Desolation of Smaug",
-  partOfSlugs: ["the-lord-of-the-rings-shows"],
+  partOfCollectionSlugs: ["the-lord-of-the-rings-shows"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

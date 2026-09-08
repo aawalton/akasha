@@ -5,7 +5,7 @@ export const miracleDay = {
   pageTypeSlug: "season",
   slug: "miracle-day",
   title: "Miracle Day",
-  partOfSlugs: ["torchwood"],
+  partOfCollectionSlugs: ["torchwood"],
   position: 4,
   ownLength: 550.2,
   ownProgress: 0,

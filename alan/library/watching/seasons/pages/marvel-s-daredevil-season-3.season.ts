@@ -5,7 +5,7 @@ export const marvelSDaredevilSeason3 = {
   pageTypeSlug: "season",
   slug: "marvel-s-daredevil-season-3",
   title: "Marvel's Daredevil Season 3",
-  partOfSlugs: ["daredevil"],
+  partOfCollectionSlugs: ["daredevil"],
   position: 3,
   ownLength: 676.2,
   ownProgress: 0,

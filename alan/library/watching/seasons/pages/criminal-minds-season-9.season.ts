@@ -5,7 +5,7 @@ export const criminalMindsSeason9 = {
   pageTypeSlug: "season",
   slug: "criminal-minds-season-9",
   title: "Criminal Minds Season 9",
-  partOfSlugs: ["criminal-minds"],
+  partOfCollectionSlugs: ["criminal-minds"],
   position: 9,
   ownLength: 1008,
   ownProgress: 0,

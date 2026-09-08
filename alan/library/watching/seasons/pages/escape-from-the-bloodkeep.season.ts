@@ -5,7 +5,7 @@ export const escapeFromTheBloodkeep = {
   pageTypeSlug: "season",
   slug: "escape-from-the-bloodkeep",
   title: "Escape From The Bloodkeep",
-  partOfSlugs: ["dimension-20"],
+  partOfCollectionSlugs: ["dimension-20"],
   position: 2,
   ownLength: 853.8,
   ownProgress: 0,

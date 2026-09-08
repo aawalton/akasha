@@ -5,7 +5,7 @@ export const battlestarGalacticaSpecials = {
   pageTypeSlug: "season",
   slug: "battlestar-galactica-specials",
   title: "Battlestar Galactica Specials",
-  partOfSlugs: ["battlestar-galactica-2004"],
+  partOfCollectionSlugs: ["battlestar-galactica-2004"],
   position: 0,
   ownLength: 289.8,
   ownProgress: 0,

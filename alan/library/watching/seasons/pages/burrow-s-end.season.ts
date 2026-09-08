@@ -5,7 +5,7 @@ export const burrowSEnd = {
   pageTypeSlug: "season",
   slug: "burrow-s-end",
   title: "Burrow's End",
-  partOfSlugs: ["dimension-20"],
+  partOfCollectionSlugs: ["dimension-20"],
   position: 20,
   ownLength: 1198.2,
   ownProgress: 0,

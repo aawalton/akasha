@@ -5,7 +5,7 @@ export const msMarvelMiniseries = {
   pageTypeSlug: "season",
   slug: "ms-marvel-miniseries",
   title: "Ms. Marvel Miniseries",
-  partOfSlugs: ["ms-marvel"],
+  partOfCollectionSlugs: ["ms-marvel"],
   position: 1,
   ownLength: 289.2,
   ownProgress: 289.2,

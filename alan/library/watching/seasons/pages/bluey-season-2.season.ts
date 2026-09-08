@@ -5,7 +5,7 @@ export const blueySeason2 = {
   pageTypeSlug: "season",
   slug: "bluey-season-2",
   title: "Bluey Season 2",
-  partOfSlugs: ["bluey"],
+  partOfCollectionSlugs: ["bluey"],
   position: 2,
   ownLength: 364.8,
   ownProgress: 0,

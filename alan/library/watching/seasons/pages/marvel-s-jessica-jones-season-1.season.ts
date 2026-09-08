@@ -5,7 +5,7 @@ export const marvelSJessicaJonesSeason1 = {
   pageTypeSlug: "season",
   slug: "marvel-s-jessica-jones-season-1",
   title: "Marvel's Jessica Jones Season 1",
-  partOfSlugs: ["jessica-jones"],
+  partOfCollectionSlugs: ["jessica-jones"],
   position: 1,
   ownLength: 691.2,
   ownProgress: 0,

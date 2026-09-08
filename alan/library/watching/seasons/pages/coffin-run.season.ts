@@ -5,7 +5,7 @@ export const coffinRun = {
   pageTypeSlug: "season",
   slug: "coffin-run",
   title: "Coffin Run",
-  partOfSlugs: ["dimension-20"],
+  partOfCollectionSlugs: ["dimension-20"],
   position: 14,
   ownLength: 618,
   ownProgress: 0,

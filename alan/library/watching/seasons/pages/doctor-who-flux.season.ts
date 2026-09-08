@@ -5,7 +5,7 @@ export const doctorWhoFlux = {
   pageTypeSlug: "season",
   slug: "doctor-who-flux",
   title: "Doctor Who Flux",
-  partOfSlugs: ["doctor-who-2005"],
+  partOfCollectionSlugs: ["doctor-who-2005"],
   position: 13,
   ownLength: 658,
   ownProgress: 0,

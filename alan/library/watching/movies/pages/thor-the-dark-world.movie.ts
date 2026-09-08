@@ -5,7 +5,7 @@ export const thorTheDarkWorld = {
   pageTypeSlug: "movie",
   slug: "thor-the-dark-world",
   title: "Thor: The Dark World",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

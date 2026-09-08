@@ -5,7 +5,7 @@ export const marvelSAgentCarterSeason2 = {
   pageTypeSlug: "season",
   slug: "marvel-s-agent-carter-season-2",
   title: "Marvel's Agent Carter Season 2",
-  partOfSlugs: ["agent-carter"],
+  partOfCollectionSlugs: ["agent-carter"],
   position: 2,
   ownLength: 433.8,
   ownProgress: 433.8,

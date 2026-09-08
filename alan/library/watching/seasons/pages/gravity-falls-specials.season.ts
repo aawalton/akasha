@@ -5,7 +5,7 @@ export const gravityFallsSpecials = {
   pageTypeSlug: "season",
   slug: "gravity-falls-specials",
   title: "Gravity Falls Specials",
-  partOfSlugs: ["gravity-falls"],
+  partOfCollectionSlugs: ["gravity-falls"],
   position: 0,
   ownLength: 1533,
   ownProgress: 0,

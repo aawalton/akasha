@@ -5,7 +5,7 @@ export const thePhantomMenace = {
   pageTypeSlug: "movie",
   slug: "the-phantom-menace",
   title: "The Phantom Menace",
-  partOfSlugs: ["star-wars-2"],
+  partOfCollectionSlugs: ["star-wars-2"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

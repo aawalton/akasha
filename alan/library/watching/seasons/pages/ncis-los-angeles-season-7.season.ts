@@ -5,7 +5,7 @@ export const ncisLosAngelesSeason7 = {
   pageTypeSlug: "season",
   slug: "ncis-los-angeles-season-7",
   title: "NCIS: Los Angeles Season 7",
-  partOfSlugs: ["ncis-los-angeles"],
+  partOfCollectionSlugs: ["ncis-los-angeles"],
   position: 7,
   ownLength: 1080,
   ownProgress: 0,

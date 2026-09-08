@@ -5,7 +5,7 @@ export const frankHerbertSChildrenOfDuneMiniseries = {
   pageTypeSlug: "season",
   slug: "frank-herbert-s-children-of-dune-miniseries",
   title: "Frank Herbert's Children of Dune Miniseries",
-  partOfSlugs: ["frank-herbert-s-children-of-dune"],
+  partOfCollectionSlugs: ["frank-herbert-s-children-of-dune"],
   position: 1,
   ownLength: 261,
   ownProgress: 0,

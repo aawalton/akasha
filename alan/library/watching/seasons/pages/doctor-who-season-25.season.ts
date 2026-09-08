@@ -5,7 +5,7 @@ export const doctorWhoSeason25 = {
   pageTypeSlug: "season",
   slug: "doctor-who-season-25",
   title: "Doctor Who Season 25",
-  partOfSlugs: ["doctor-who-1963-1989"],
+  partOfCollectionSlugs: ["doctor-who-1963-1989"],
   position: 25,
   ownLength: 349.8,
   ownProgress: 0,

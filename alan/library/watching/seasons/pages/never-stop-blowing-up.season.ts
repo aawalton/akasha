@@ -5,7 +5,7 @@ export const neverStopBlowingUp = {
   pageTypeSlug: "season",
   slug: "never-stop-blowing-up",
   title: "Never Stop Blowing Up",
-  partOfSlugs: ["dimension-20"],
+  partOfCollectionSlugs: ["dimension-20"],
   position: 22,
   ownLength: 1096.8,
   ownProgress: 0,

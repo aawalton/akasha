@@ -5,7 +5,7 @@ export const creatureCommandosSeason1 = {
   pageTypeSlug: "season",
   slug: "creature-commandos-season-1",
   title: "Creature Commandos Season 1",
-  partOfSlugs: ["creature-commandos"],
+  partOfCollectionSlugs: ["creature-commandos"],
   position: 1,
   ownLength: 165,
   ownProgress: 0,

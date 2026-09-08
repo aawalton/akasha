@@ -5,7 +5,7 @@ export const aCourtOfFeyAndFlowers = {
   pageTypeSlug: "season",
   slug: "a-court-of-fey-and-flowers",
   title: "A Court of Fey & Flowers",
-  partOfSlugs: ["dimension-20"],
+  partOfCollectionSlugs: ["dimension-20"],
   position: 15,
   ownLength: 1225.8,
   ownProgress: 0,

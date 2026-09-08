@@ -5,7 +5,7 @@ export const friendsSeason9 = {
   pageTypeSlug: "season",
   slug: "friends-season-9",
   title: "Friends Season 9",
-  partOfSlugs: ["friends"],
+  partOfCollectionSlugs: ["friends"],
   position: 9,
   ownLength: 589.8,
   ownProgress: 0,

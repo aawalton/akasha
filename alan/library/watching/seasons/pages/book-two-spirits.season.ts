@@ -5,7 +5,7 @@ export const bookTwoSpirits = {
   pageTypeSlug: "season",
   slug: "book-two-spirits",
   title: "Book Two: Spirits",
-  partOfSlugs: ["the-legend-of-korra"],
+  partOfCollectionSlugs: ["the-legend-of-korra"],
   position: 2,
   ownLength: 322.2,
   ownProgress: 0,

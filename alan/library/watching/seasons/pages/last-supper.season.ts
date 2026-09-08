@@ -5,7 +5,7 @@ export const lastSupper = {
   pageTypeSlug: "season",
   slug: "last-supper",
   title: "Last Supper",
-  partOfSlugs: ["the-chosen"],
+  partOfCollectionSlugs: ["the-chosen"],
   position: 5,
   ownLength: 463.2,
   ownProgress: 0,

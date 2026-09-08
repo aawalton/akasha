@@ -5,7 +5,7 @@ export const gameOfThronesSpecials = {
   pageTypeSlug: "season",
   slug: "game-of-thrones-specials",
   title: "Game of Thrones Specials",
-  partOfSlugs: ["game-of-thrones"],
+  partOfCollectionSlugs: ["game-of-thrones"],
   position: 0,
   ownLength: 3768,
   ownProgress: 0,
