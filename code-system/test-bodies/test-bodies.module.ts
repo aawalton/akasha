@@ -89,5 +89,13 @@ export const testBodies = {
       invariantKind: "departure",
       statement: "A test file already on disk is named to the runner by its own path.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A body served over a file that is there is loaded at that file's own path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body loaded at a file's own path answers `import.meta` as that file.",
+    },
   ],
 } as const satisfies Module

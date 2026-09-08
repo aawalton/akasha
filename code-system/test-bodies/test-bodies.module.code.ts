@@ -147,6 +147,7 @@ export function servingOf(
 
 export function servedBy(bodies: Bodies): BunPlugin {
   const named = Object.keys(bodies)
+  const apart = new Set(named.filter((one) => !existsSync(one)))
   return {
     name: NAME,
     setup: (build): undefined => {
@@ -154,12 +155,12 @@ export function servedBy(bodies: Bodies): BunPlugin {
         if (!args.importer.startsWith(MARK)) return undefined
         const from = folderOf(args.importer)
         const at = resolve(from, args.path)
-        if (at in bodies) return { path: at, namespace: SERVED }
+        if (apart.has(at)) return { path: at, namespace: SERVED }
         return { path: Bun.resolveSync(at, from), namespace: FILE }
       })
       build.onResolve({ filter: endingOf(named) }, (args) => {
         const at = resolve(folderOf(args.importer), args.path)
-        return at in bodies ? { path: at, namespace: SERVED } : undefined
+        return apart.has(at) ? { path: at, namespace: SERVED } : undefined
       })
       build.onLoad({ filter: wholeOf(named) }, (args) => servingOut(bodies, args.path))
       build.onLoad({ filter: EVERY, namespace: SERVED }, (args) => servingOut(bodies, args.path))
