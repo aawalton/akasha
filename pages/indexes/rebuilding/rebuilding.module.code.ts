@@ -13,7 +13,6 @@ import { basename, dirname, join } from "node:path"
 const INDEX = "index"
 
 import type { Entry } from "../entries/index-entries.module.code.ts"
-import { forgetIndex } from "../reading/index-reading.module.code.ts"
 import { walkedUnder } from "../tree-reading/tree-reading.module.code.ts"
 
 export type Drift = {
@@ -35,7 +34,6 @@ function pruneAbove(at: string, root: string): undefined {
 }
 
 export function keepWhole(at: string, lines: readonly string[], root: string): undefined {
-  forgetIndex()
   if (lines.length === 0) {
     if (existsSync(at)) rmSync(at)
     pruneAbove(dirname(at), root)
