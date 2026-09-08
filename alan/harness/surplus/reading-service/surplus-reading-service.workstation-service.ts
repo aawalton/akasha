@@ -1,4 +1,4 @@
-import type { WorkstationService } from "@akasha/service-system/workstation-service"
+import type { WorkstationService } from "@akasha/service/workstation-service"
 
 export const surplusReadingService = {
   id: "01a05fc3-145a-7842-9c8e-fb0277ca41c3",

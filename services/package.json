@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/service-system",
+  "name": "@akasha/service",
   "private": true,
   "type": "module",
   "exports": {

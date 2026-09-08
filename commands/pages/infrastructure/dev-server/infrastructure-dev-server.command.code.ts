@@ -4,13 +4,13 @@ import {
   readEnvLocal,
   resolveEnvLocalPath,
   writeEnvLocalFromPages,
-} from "@akasha/service-system/dev-server-env-writing"
+} from "@akasha/service/dev-server-env-writing"
 import {
   type DevServerRecord,
   devServerTsvLine,
   recordFromState,
   stoppedRecord,
-} from "@akasha/service-system/dev-server-recording"
+} from "@akasha/service/dev-server-recording"
 import {
   APP_NAMES,
   computePort,
@@ -23,8 +23,8 @@ import {
   readStateFile,
   stateFilePath,
   writeStateFile,
-} from "@akasha/service-system/dev-server-stating"
-import { resolveWorktreePath } from "@akasha/service-system/dev-server-worktree"
+} from "@akasha/service/dev-server-stating"
+import { resolveWorktreePath } from "@akasha/service/dev-server-worktree"
 import { errnoCodeOf } from "@akasha/utils/process/pid-signal"
 import { enforceMemoryGuard } from "@akasha/utils/system/memory-guard"
 import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"

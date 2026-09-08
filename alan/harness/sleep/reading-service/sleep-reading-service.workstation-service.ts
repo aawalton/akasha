@@ -1,4 +1,4 @@
-import type { WorkstationService } from "@akasha/service-system/workstation-service"
+import type { WorkstationService } from "@akasha/service/workstation-service"
 
 export const sleepReadingService = {
   id: "01a06220-ef8c-7501-a97f-688355f6fa47",

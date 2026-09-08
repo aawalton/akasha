@@ -1,4 +1,4 @@
-import type { WorkstationService } from "@akasha/service-system/workstation-service"
+import type { WorkstationService } from "@akasha/service/workstation-service"
 
 export const activeCaloriesService = {
   id: "01a07724-a486-7717-8141-ae09cdb04434",

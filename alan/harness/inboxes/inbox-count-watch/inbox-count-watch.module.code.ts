@@ -12,7 +12,7 @@ import {
   relayReading,
   statedIn,
 } from "@akasha/readouts/readout-relay"
-import { followFolders } from "@akasha/service-system/file-following"
+import { followFolders } from "@akasha/service/file-following"
 import {
   pollTaskCounts,
   type TaskCounts,

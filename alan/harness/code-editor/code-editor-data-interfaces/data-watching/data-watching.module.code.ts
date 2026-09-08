@@ -11,7 +11,7 @@ import {
   seatByShellPid,
   seatMarksAt,
 } from "@akasha/seat-system/terminal-seat-marks"
-import { followFolders, followWithin } from "@akasha/service-system/file-following"
+import { followFolders, followWithin } from "@akasha/service/file-following"
 import {
   decide,
   type Held,

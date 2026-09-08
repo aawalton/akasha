@@ -20,6 +20,6 @@
     "@akasha/indexes": "workspace:*",
     "@akasha/k8s-types": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/service-system": "workspace:*"
+    "@akasha/service": "workspace:*"
   }
 }

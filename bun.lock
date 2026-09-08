@@ -1283,7 +1283,7 @@
         "@akasha/indexes": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/service-system": "workspace:*",
+        "@akasha/service": "workspace:*",
       },
     },
     "pages/ui": {
@@ -1487,7 +1487,7 @@
       },
     },
     "services": {
-      "name": "@akasha/service-system",
+      "name": "@akasha/service",
       "dependencies": {
         "@akasha/cluster-manifests": "workspace:*",
         "@akasha/code": "workspace:*",
@@ -3133,7 +3133,7 @@
 
     "@akasha/seaweedfs": ["@akasha/seaweedfs@workspace:infrastructure/seaweedfs"],
 
-    "@akasha/service-system": ["@akasha/service-system@workspace:services"],
+    "@akasha/service": ["@akasha/service@workspace:services"],
 
     "@akasha/shell": ["@akasha/shell@workspace:shell"],
 
