@@ -38,6 +38,9 @@ export type Changes = {
   "change-agent/nest-commands": Parameters<
     typeof import("../../../agent/folder/nest-commands/nest-commands.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/remove-every-page-of-a-type": Parameters<
+    typeof import("../../../agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/remove-file": Parameters<
     typeof import("../../../agent/file/remove-file/remove-file.change-agent.code.ts")["runChange"]
   >[1]
