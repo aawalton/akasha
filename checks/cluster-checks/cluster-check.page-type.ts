@@ -122,6 +122,7 @@ export const clusterCheck = {
     "module/tsconfig-rule-guidance",
     "module/color-literal-scan",
     "module/addon-build-population",
+    "module/alanwalton-ios-seam",
   ],
   properties: [
     {
