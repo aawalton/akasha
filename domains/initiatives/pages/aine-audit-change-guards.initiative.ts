@@ -22,7 +22,7 @@ export const aineAuditChangeGuards = {
       statement:
         "A content change is judged by the guards that judge an edge into the body that change leaves.",
       workingMemory:
-        "`import-not-left-hanging` now keys on `takingIn` and `carriedIn` both; `relation-not-left-hanging` still keys on `takingIn` alone. The hole is a page whose `slug` or `pageTypeSlug` a change restates in place: every name reaching its old address hangs while the path survives. The rename family repoints namers itself; `change-page-page-property` does not. `relation-not-left-hanging` is to judge a rewritten page's old address beside the paths taken away.\n",
+        "`change-page-page-property` names no guard and restates any key, `slug` included. `rename-page-slug` reaches it for exactly that and repoints the namers afterwards, so a guard on that rung would refuse the rename's own middle step. Such a guard belongs on the outermost mechanical change of a family rather than on a rung a composition passes through. `relation-not-left-hanging` cannot see the hanging name at all, a name that no longer resolves being no namer.\n",
     },
     {
       statement:
