@@ -16,15 +16,11 @@ export const renameFilePageProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path that is no page property is refused here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The property types a name is read against are the ones under `page-property`.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The rename is worked out by the change this change reaches.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here judges the path handed in.",
     },
     {
       invariantKind: "gap",
