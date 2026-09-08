@@ -2,10 +2,10 @@ import { dirname, join } from "node:path"
 import ts from "typescript"
 import {
   refusing,
+  spliced,
   stating,
-  written,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type { Said, Splice } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const EXPORTS = "exports"
@@ -15,8 +15,6 @@ const HERE = "."
 const PARTED_BY = "/"
 
 const OPENING = "./"
-
-type Splice = { readonly start: number; readonly end: number; readonly said: string }
 
 type Landing = { readonly said: string } | { readonly gone: true }
 
@@ -41,24 +39,24 @@ function namedIn(owner: ts.ObjectLiteralExpression, key: string): ts.PropertyAss
 }
 
 function goneSpan(text: string, node: ts.Node, after: boolean): Splice {
-  const start = node.getFullStart()
-  const end = node.getEnd()
-  let at = end
+  const from = node.getFullStart()
+  const to = node.getEnd()
+  let at = to
   while (at < text.length) {
     const here = text[at] ?? ""
-    if (here === ",") return { start, end: at + 1, said: "" }
+    if (here === ",") return { from, to: at + 1, put: "" }
     if (here.trim() !== "") break
     at = at + 1
   }
-  if (after) return { start, end, said: "" }
-  let back = start - 1
+  if (after) return { from, to, put: "" }
+  let back = from - 1
   while (back >= 0) {
     const here = text[back] ?? ""
-    if (here === ",") return { start: back, end, said: "" }
+    if (here === ",") return { from: back, to, put: "" }
     if (here.trim() !== "") break
     back = back - 1
   }
-  return { start, end, said: "" }
+  return { from, to, put: "" }
 }
 
 export function landingFor(
@@ -76,7 +74,7 @@ export function landingFor(
 
 function saidSpan(source: ts.JsonSourceFile, value: ts.StringLiteral, said: string): Splice | null {
   if (said === value.text) return null
-  return { start: value.getStart(source), end: value.getEnd(), said: JSON.stringify(said) }
+  return { from: value.getStart(source), to: value.getEnd(), put: JSON.stringify(said) }
 }
 
 function overWays(
@@ -131,12 +129,17 @@ function splicesFor(
   return next === null ? [] : [next]
 }
 
-function spliced(text: string, splices: readonly Splice[]): string {
-  let body = text
-  for (const one of [...splices].sort((first, next) => next.start - first.start)) {
-    body = `${body.slice(0, one.start)}${one.said}${body.slice(one.end)}`
+function joined(text: string, splices: readonly Splice[]): Splice | null {
+  const first = splices[0]
+  const last = splices[splices.length - 1]
+  if (first === undefined || last === undefined) return null
+  let put = ""
+  let at = first.from
+  for (const one of splices) {
+    put = `${put}${text.slice(at, one.from)}${one.put}`
+    at = one.to
   }
-  return body
+  return { from: first.from, to: last.to, put }
 }
 
 export function renameManifestWays(given: Asked, textOf: (path: string) => string | null): Said {
@@ -154,14 +157,12 @@ export function renameManifestWays(given: Asked, textOf: (path: string) => strin
   const moved = new Map(Object.entries(given.moved))
   const lands = moved.get(given.at) ?? given.at
   const source = ts.parseJsonText(given.at, text)
-  const body = spliced(text, splicesFor(source, text, given.at, dirname(lands), moved))
+  const over = joined(text, splicesFor(source, text, given.at, dirname(lands), moved))
+  const edits = over === null ? [] : spliced(lands, text, over)
   const one =
     lands === given.at
-      ? written(given.at, text, body)
-      : [
-          { kind: "move" as const, pathFrom: given.at, pathTo: lands },
-          ...written(lands, text, body),
-        ]
+      ? edits
+      : [{ kind: "move" as const, pathFrom: given.at, pathTo: lands }, ...edits]
   return stating(one)
 }
 

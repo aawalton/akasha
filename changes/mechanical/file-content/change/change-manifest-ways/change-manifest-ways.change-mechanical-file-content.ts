@@ -51,6 +51,10 @@ export const changeManifestWays = {
       statement: "The body is answered rather than written.",
     },
     {
+      invariantKind: "departure",
+      statement: "The passage answered runs from the first way in changed to the last.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here looks for the manifests standing above a path that moved.",
     },
