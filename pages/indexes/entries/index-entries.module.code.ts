@@ -79,7 +79,9 @@ function schemaFiledIn(reading: Reading): ReadonlyMap<string, Schema> {
     const held = said as Value
     const pageTypeSlug = textAt(held, "pageTypeSlug") ?? ""
     const slug = textAt(held, "slug") ?? ""
-    found.set(`${pageTypeSlug}/${slug}`, {
+    const named = `${pageTypeSlug}/${slug}`
+    if (found.has(named)) continue
+    found.set(named, {
       pageTypeSlug,
       targetPageTypeSlug: textAt(held, "targetPageTypeSlug"),
       unique: textAt(held, "unique"),

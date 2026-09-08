@@ -63,5 +63,10 @@ export const indexEntries = {
       statement:
         "A question answered from one reading alone is answered once for that reading and held.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The first line a property is filed under answers for it, as the schema index reads.",
+    },
   ],
 } as const satisfies Module
