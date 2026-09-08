@@ -33,6 +33,7 @@ import {
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { importIn } from "../import/index-import.index.code.ts"
 import { indexImport } from "../import/index-import.index.ts"
+import { LISTED_UNDER, listedOf } from "../listing/index-listing.index.code.ts"
 import {
   reachingBuilt,
   reachingSettled,
@@ -164,6 +165,7 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
   const claim = claimingIn(repo, filedBy, sidecars)
   const paths = held.flatMap((one) => claim(one.value, one.path, false))
   drift.push(reconcile(join(root, PATH), paths, root, put))
+  drift.push(reconcile(join(root, LISTED_UNDER), listedOf(paths), root, put))
   drift.push(reconcile(join(root, SCHEMA), schema, root, put))
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
   drift.push(reconcile(join(root, VALUE), valued, root, put))
@@ -350,17 +352,16 @@ export function settlingOver(
   const wasClaim = claimingIn(repo, wasBesides.fileProperties, wasBesides.sidecars, carried)
   const claim = claimingIn(repo, filedBy, sidecars, carried)
   const beside = pagesTurned(reading, wasBesides, { fileProperties: filedBy, sidecars }, carriedAt)
-  const paths = filingOf(
-    reading,
-    [
-      ...held.flatMap((one) => (one.was === null ? [] : wasClaim(one.was, one.path, true))),
-      ...beside.flatMap((one) => wasClaim(one.value, one.path, true)),
-    ],
-    [
-      ...held.flatMap((one) => (one.now === null ? [] : claim(one.now, one.path, false))),
-      ...beside.flatMap((one) => claim(one.value, one.path, false)),
-    ]
-  )
+  const wasPaths = [
+    ...held.flatMap((one) => (one.was === null ? [] : wasClaim(one.was, one.path, true))),
+    ...beside.flatMap((one) => wasClaim(one.value, one.path, true)),
+  ]
+  const nowPaths = [
+    ...held.flatMap((one) => (one.now === null ? [] : claim(one.now, one.path, false))),
+    ...beside.flatMap((one) => claim(one.value, one.path, false)),
+  ]
+  const paths = filingOf(reading, wasPaths, nowPaths)
+  const listing = filingOf(reading, listedOf(wasPaths), listedOf(nowPaths))
 
   const valued = filingOf(
     reading,
@@ -383,7 +384,15 @@ export function settlingOver(
     now.flatMap((one) => one.entries)
   )
 
-  const filings = [...imported, ...identity, ...paths, ...schema, ...relation, ...valued]
+  const filings = [
+    ...imported,
+    ...identity,
+    ...paths,
+    ...schema,
+    ...relation,
+    ...valued,
+    ...listing,
+  ]
   return {
     reading: overlaidOn(given, filings),
     filings,

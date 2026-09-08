@@ -12,6 +12,7 @@ export const index = {
     "index/index-schema",
     "index/index-import",
     "index/index-path",
+    "index/index-listing",
     "index/index-value",
     "module/path-naming",
     "page-type/index",

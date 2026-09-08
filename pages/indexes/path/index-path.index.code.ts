@@ -32,6 +32,10 @@ function thereIn(repo: string, carried: ReadonlyMap<string, Bodied>, was: boolea
   }
 }
 
+export function pathAt(at: string): string {
+  return at.slice(PATH.length + 1, -ENDING.length)
+}
+
 export function claimedIn(
   value: Value,
   path: string,
