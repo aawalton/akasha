@@ -53,6 +53,9 @@ export type Changes = {
   "change-agent/remove-file": Parameters<
     typeof import("../../../agent/file/remove-file/remove-file.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/remove-folder": Parameters<
+    typeof import("../../../agent/folder/remove-folder/remove-folder.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/remove-package-alias": Parameters<
     typeof import("../../../agent/file-content/remove-package-alias/remove-package-alias.change-agent.code.ts")["runChange"]
   >[1]
