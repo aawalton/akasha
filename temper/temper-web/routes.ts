@@ -48,7 +48,10 @@ const API_ROUTES: RouteConfig = [
   route("api/watcher/upsert-pricing-snapshot", "routes/api.watcher.upsert-pricing-snapshot.tsx"),
   route("api/addons/version", "routes/addon-bundle-version/addon-bundle-version.route.code.ts"),
   route("api/addons/download", "routes/addon-bundle/addon-bundle.route.code.ts"),
-  route("character-build/h/:hash", "routes/character.h.$hash.tsx"),
+  route(
+    "character-build/h/:hash",
+    "routes/temper-character-build-hash/temper-character-build-hash.route.code.ts"
+  ),
   route("companion-build/h/:hash", "routes/companion.h.$hash.tsx"),
 ]
 

@@ -4,12 +4,17 @@ import {
   esoCharacterId as toEsoCharacterId,
 } from "@akasha/temper-formula-framework/branded-id"
 import { z } from "zod"
-import { importCharacterFromHash } from "../.server/character-import/character-import.module.code.ts"
-import type { Route } from "./+types/character.h.$hash"
+import { importCharacterFromHash } from "../../.server/character-import/character-import.module.code.ts"
 
 const BASE_URL_SCHEMA = z.string().optional()
 
-export async function loader({ request, params }: Route.LoaderArgs): Promise<Response> {
+export async function loader({
+  request,
+  params,
+}: {
+  request: Request
+  params: { hash: string }
+}): Promise<Response> {
   const { hash } = params
   const url = new URL(request.url)
   const esoCharacterId = url.searchParams.get("eid") ?? undefined
