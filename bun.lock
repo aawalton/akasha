@@ -1375,6 +1375,7 @@
     "reminder-system": {
       "name": "@akasha/reminder-system",
       "dependencies": {
+        "@akasha/changes": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",

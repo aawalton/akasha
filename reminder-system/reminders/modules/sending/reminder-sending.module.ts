@@ -33,6 +33,11 @@ export const reminderSending = {
       statement: "A reminder is taken away by a program rather than by an agent.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The change taking a file away takes the reminder away rather than an edit composed here.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here sends anything.",
     },

@@ -7,6 +7,7 @@
     "./reminder-sending": "./reminders/modules/sending/reminder-sending.module.code.ts"
   },
   "dependencies": {
+    "@akasha/changes": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",

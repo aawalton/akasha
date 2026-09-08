@@ -1,10 +1,10 @@
-import { landedMechanically } from "@akasha/command-system/asking"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { valuesOfType } from "@akasha/indexes"
 import { mergeUncommitted, removeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
 import { textAt } from "@akasha/pages/page-value"
 import { ran } from "@akasha/utils-run/running"
 
-const CALLED_AS = "reminder-sending"
+const TOOK = "change-mechanical-file/remove-file"
 
 const PAGE_TYPE = "reminder"
 
@@ -71,8 +71,9 @@ export async function tookReminder(
   path: string,
   why: string
 ): Promise<string | null> {
-  const landed = await landedMechanically(root, CALLED_AS, [{ path, body: null }], why)
-  if (landed.code !== 0) return landed.refusals.join("; ")
+  const landed = await runMechanicalChange(root, [{ at: TOOK, given: { at: path } }], why)
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  if (wrong.length > 0) return wrong.join("; ")
   removeUncommitted(root, path)
   return null
 }
