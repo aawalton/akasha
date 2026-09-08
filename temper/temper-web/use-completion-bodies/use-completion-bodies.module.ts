@@ -26,7 +26,7 @@ export const useCompletionBodies = {
     },
     {
       invariantKind: "departure",
-      statement: "The rows a listing draws are read apart from the bodies those rows carry.",
+      statement: "The rows a listing draws are read apart from the bodies those rows have.",
     },
     {
       invariantKind: "constraint",

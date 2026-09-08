@@ -10,7 +10,7 @@ export const watcherVersion = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A compiled worker carries the commit the build put in.",
+      statement: "A compiled worker has the commit the build put in.",
     },
     {
       invariantKind: "departure",

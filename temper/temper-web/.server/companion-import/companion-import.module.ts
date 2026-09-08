@@ -29,7 +29,7 @@ export const companionImport = {
     },
     {
       invariantKind: "departure",
-      statement: "A companion carrying no readable main-hand weapon is named by the companion.",
+      statement: "A companion with no readable main-hand weapon is named by the companion.",
     },
   ],
 } as const satisfies Module

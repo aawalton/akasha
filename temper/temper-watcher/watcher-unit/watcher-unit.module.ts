@@ -25,7 +25,7 @@ export const watcherUnit = {
     },
     {
       invariantKind: "departure",
-      statement: "A unit that is not running carries no main process id.",
+      statement: "A unit that is not running has no main process id.",
     },
     {
       invariantKind: "departure",

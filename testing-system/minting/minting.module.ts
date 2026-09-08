@@ -21,7 +21,7 @@ export const minting = {
     },
     {
       invariantKind: "departure",
-      statement: "A check a test mints carries the same value in the index and in its own body.",
+      statement: "A check a test mints has the same value in the index and in its own body.",
     },
     {
       invariantKind: "departure",

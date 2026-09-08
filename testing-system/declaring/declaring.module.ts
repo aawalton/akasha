@@ -36,7 +36,7 @@ export const declaring = {
     },
     {
       invariantKind: "departure",
-      statement: "A world carrying them settles what a page type of its own declares.",
+      statement: "A world with them settles what a page type of its own declares.",
     },
     {
       invariantKind: "departure",

@@ -10,7 +10,7 @@ export const minedItemRows = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A field the row does not carry reads as empty rather than as absent.",
+      statement: "A field the row does not have reads as empty rather than as absent.",
     },
     {
       invariantKind: "departure",
@@ -18,8 +18,7 @@ export const minedItemRows = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An item with no readable set bonus carries no set bonus rather than an empty list.",
+      statement: "An item with no readable set bonus has no set bonus rather than an empty list.",
     },
     {
       invariantKind: "departure",

@@ -64,11 +64,11 @@ export const watcherWorker = {
     },
     {
       invariantKind: "departure",
-      statement: "A token the store matches to no enrolment answers a session carrying no user.",
+      statement: "A token the store matches to no enrolment answers a session with no user.",
     },
     {
       invariantKind: "departure",
-      statement: "A token that will not read answers a session carrying no user.",
+      statement: "A token that will not read answers a session with no user.",
     },
     {
       invariantKind: "departure",

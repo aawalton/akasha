@@ -49,7 +49,7 @@ export const watcherTaskRolling = {
     },
     {
       invariantKind: "departure",
-      statement: "A verdict carries the reason the verdict was reached.",
+      statement: "A verdict has the reason the verdict was reached.",
     },
     {
       invariantKind: "absence",

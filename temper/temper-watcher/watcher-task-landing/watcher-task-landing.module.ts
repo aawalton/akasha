@@ -10,15 +10,15 @@ export const watcherTaskLanding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The store takes a path and a whole body rather than the keys a page carries.",
+      statement: "The store takes a path and a whole body rather than the keys a page has.",
     },
     {
       invariantKind: "departure",
-      statement: "A key the body already carries is restated in place.",
+      statement: "A key the body already has is restated in place.",
     },
     {
       invariantKind: "departure",
-      statement: "A key the body carries nowhere is added on the line before the closing.",
+      statement: "A key the body has nowhere is added on the line before the closing.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const watcherTaskLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A body carrying no closing line is refused rather than guessed at.",
+      statement: "A body with no closing line is refused rather than guessed at.",
     },
     {
       invariantKind: "departure",

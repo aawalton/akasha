@@ -17,7 +17,7 @@ export const playerSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "A write carries the whole blob rather than the section that changed.",
+      statement: "A write has the whole blob rather than the section that changed.",
     },
     {
       invariantKind: "departure",

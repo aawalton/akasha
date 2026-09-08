@@ -10,7 +10,7 @@ export const watcherRunStatus = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An entry carrying no name is dropped.",
+      statement: "An entry with no name is dropped.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const watcherRunStatus = {
     },
     {
       invariantKind: "departure",
-      statement: "A summary carries the very operations that decided the verdict.",
+      statement: "A summary has the very operations that decided the verdict.",
     },
   ],
 } as const satisfies Module

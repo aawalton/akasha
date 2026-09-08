@@ -9,24 +9,23 @@ export const setSelectDialog = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A set shows the wildcard icon the set carries.",
+      statement: "A set shows the wildcard icon the set has.",
     },
     {
       invariantKind: "departure",
-      statement: "A set carrying no wildcard icon shows its weapon wildcard.",
+      statement: "A set with no wildcard icon shows its weapon wildcard.",
     },
     {
       invariantKind: "departure",
-      statement: "A set carrying no weapon wildcard shows its armor wildcard.",
+      statement: "A set with no weapon wildcard shows its armor wildcard.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A set carrying no armor wildcard shows the icon of its alphabetically first slot.",
+      statement: "A set with no armor wildcard shows the icon of its alphabetically first slot.",
     },
     {
       invariantKind: "constraint",
-      statement: "No set carries a wildcard icon today.",
+      statement: "No set has a wildcard icon today.",
     },
   ],
 } as const satisfies Module

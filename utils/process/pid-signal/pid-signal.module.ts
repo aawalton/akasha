@@ -25,7 +25,7 @@ export const pidSignal = {
     },
     {
       invariantKind: "absence",
-      statement: "The reading itself carries no answer of alive or dead.",
+      statement: "The reading itself has no answer of alive or dead.",
     },
   ],
 } as const satisfies Module

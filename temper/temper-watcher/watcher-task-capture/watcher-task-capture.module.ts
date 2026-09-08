@@ -18,7 +18,7 @@ export const watcherTaskCapture = {
     {
       invariantKind: "departure",
       statement:
-        "A key carrying a colon at or after its thirty-seventh character is no whole-task completion.",
+        "A key with a colon at or after its thirty-seventh character is no whole-task completion.",
     },
     {
       invariantKind: "departure",
