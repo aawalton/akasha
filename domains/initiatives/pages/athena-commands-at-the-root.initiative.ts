@@ -10,7 +10,7 @@ export const athenaCommandsAtTheRoot = {
     {
       statement: "A command's folder sits inside its namespace's folder under `commands/pages/`.",
       workingMemory:
-        "217 commands and 42 namespaces, 17 top and 25 nested. Longest-prefix parenting resolves every one: 187 commands take a namespace, 30 sit at top, and no namespace is left holding no command. `change` alone is both a top command and a top namespace, so one folder is claimed twice. 180 command folders sit flat under `commands/pages/`; the namespace pages sit as bare files at `command-system/namespaces/pages/`. `folders-only` and `a-domain-with-its-parts` cover the layout, so no new shape is needed.",
+        "41 of 42 namespaces are nested under `commands/pages/`, each holding its own page and its commands, to three levels. `track-session` alone is left: its `track-session-drop` and `track-session-log` tests fail where they already sit, unmoved, so no move of them lands green. 37 commands sitting outside `commands/` are left where they are, one of them reached by a package alias. 45 folders sit at the top: 16 namespaces and 29 commands under no namespace.",
     },
     {
       statement:
