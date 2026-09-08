@@ -118,11 +118,11 @@ function lineOf(one: Built): string {
   return `${one.name}: exit ${String(one.code)}, ${String(one.errors.length)} error(s), ${String(one.bytes)} byte(s) ${held} at ${one.bundle}`
 }
 
-function reportOf(all: readonly Built[], root: string, tstl: string): readonly string[] {
+function reportOf(all: readonly Built[], root: string, compiler: string): readonly string[] {
   const done = all.filter((one) => one.code === 0)
   return [
     ...all.map(lineOf),
-    `built ${String(done.length)} addon(s) of ${String(all.length)} compiled from ${root} with ${tstl}, writing ${String(done.reduce((sum, one) => sum + one.bytes, 0))} byte(s) of Lua`,
+    `built ${String(done.length)} addon(s) of ${String(all.length)} compiled from ${root} with ${compiler}, writing ${String(done.reduce((sum, one) => sum + one.bytes, 0))} byte(s) of Lua`,
   ]
 }
 
