@@ -9,7 +9,7 @@ import {
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import {
   bodyOf,
-  knownOf,
+  worldFor,
 } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import {
   changePropertyValueField,
@@ -48,20 +48,7 @@ export const held = {
 const PAGE = { id: ID, pageTypeSlug: "module", slug: "held" } as Value
 
 function worldTold(): World {
-  const known = knownOf({
-    slugOfKeyIn: () => null,
-    targetOf: () => null,
-    admitting: (one) => [one],
-  })
-  return {
-    root: "/nowhere",
-    index: { knownIn: () => known, pageAt: () => PAGE } as never,
-    textOf: () => BODY,
-    under: () => [],
-    base: () => BODY,
-    over: NOTHING_OVER,
-    reaching: RUNS,
-  }
+  return worldFor(PAGE, BODY, RUNS)
 }
 
 const ASKED = {

@@ -1,6 +1,7 @@
 import { expect } from "bun:test"
 import { textIn } from "@akasha/indexes/indexing/testing"
 import type { Shaped } from "@akasha/indexes/reaching"
+import type { Value } from "@akasha/pages/page-value"
 import {
   type BodyOf,
   refusing,
@@ -54,6 +55,19 @@ export function worldOf(held: Readonly<Record<string, string>>): World {
     under: () => [],
     base: (path) => held[path] ?? null,
     over: NOTHING_OVER,
+  }
+}
+
+export function worldFor(page: Value, body: string, reaching: Reaching): World {
+  const known = knownOf({ admitting: (one) => [one] })
+  return {
+    root: "/nowhere",
+    index: { knownIn: () => known, pageAt: () => page } as never,
+    textOf: () => body,
+    under: () => [],
+    base: () => body,
+    over: NOTHING_OVER,
+    reaching,
   }
 }
 

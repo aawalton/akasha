@@ -19,6 +19,10 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A world answering one page and one body is built here rather than by each test.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An index face is built here from the answers a test states.",
     },
     {
