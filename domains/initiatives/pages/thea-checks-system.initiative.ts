@@ -38,7 +38,7 @@ export const theaChecksSystem = {
     {
       statement: "Every runtime helper the Lua compiler carries is a page.",
       workingMemory:
-        "Stage 2 landed: the compiler reads lualib pages with a fallback, byte-identical over nine targets, ArrayAt migrated as proof. Alan rules that a file holding many exports splits one per export, its shared state extracted into modules that export their bindings, one left unexported being trapped in the emitted do-end block. Five files hold 17 exports. Prove every split with the 50-check Lua suite at /var/tmp/imip/thea-behaviour.lua, because comparing bodies passes a bundle that is broken.",
+        "Stage 2 landed, and no-class now exempts lua-compiler/lualib and lualibs by Alan's call, unblocking the seven files carrying classes. Alan rules that many exports split one per export, shared state extracted into modules exporting their bindings. Five files hold 17 exports. Every split is a migration to lualibs pages, file-has-its-page refusing any edit to an unclaimed src file. Prove each with the suite at /var/tmp/imip/thea-behaviour.lua, because comparing bodies passes a broken bundle.",
     },
     {
       statement: "Every cluster-check module body is claimed by a page.",
