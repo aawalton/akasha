@@ -24,7 +24,7 @@ export function deriveTstlRoots(configs: readonly TstlTsconfig[]): readonly stri
   return roots
 }
 
-export function matchesTstlRoot(rel: string, roots: readonly string[]): boolean {
+export function matchesLuaCompilerRoot(rel: string, roots: readonly string[]): boolean {
   return roots.some((root) => rel === root || rel.startsWith(`${root}/`))
 }
 
@@ -51,5 +51,5 @@ function tstlRoots(repoRoot: string): readonly string[] {
 
 export function isLuaCompilerSourcePath(rel: string, repoRoot: string): boolean {
   if (isExcludedFromLuaCompilerScan(rel)) return false
-  return matchesTstlRoot(rel, tstlRoots(repoRoot))
+  return matchesLuaCompilerRoot(rel, tstlRoots(repoRoot))
 }
