@@ -10,7 +10,7 @@ export const nimueCodeCleanup = {
     {
       statement: "All code-system files are in the code/ folder.",
       workingMemory:
-        "381 files are under `code-system`, and 2,635 bodies outside reach in by relative path, 1,723 of them naming `modules/module.page-type.ts`. `code/` is free: the domain `code` was absorbed into the package. `move-folder-package` is the change this waits on. `move-page` carries one page, and `rename-page` leaves a package's folder alone because that folder has files not named for its page. Its mechanicals are all there; it waits on `treeUnder` gathering the right files.",
+        "`move-folder-package` drafts in 73 seconds, and the apply measures at 555, of which 227 is `tests-pass` over 3,536 paths. `measure` reaches a named change now, so drafting and judging are one call and the tree cannot move between them. What blocks the landing is an index still naming files that landed commits deleted, so the draft reads a path it cannot open; `akasha index refresh` repairs that and runs past its own ceiling.",
     },
     {
       statement: "The code folder tree passes the folder-matches-a-shape check.",
@@ -26,11 +26,6 @@ export const nimueCodeCleanup = {
       statement: "The check asking which page claims a file reads the build folder property.",
       workingMemory:
         "`file-has-its-page` passes over a hardcoded `node_modules` today. Reading the property instead retires that constant and covers every build folder at once.",
-    },
-    {
-      statement: "A change carrying a folder leaves out the folders a build writes.",
-      workingMemory:
-        "`treeUnder` in `change-shadow` walks the raw filesystem, so moving `code-system` would carry `node_modules` and every `dist` into `code`. Reading the filesystem is right for the files git tracks and the files an uncommitted page property names; only the folders a build writes are wrong. `move-folder` carries a file the index does not name on purpose, so this leaves declared folders out rather than carrying claimed files alone. `move-folder-package` waits on this.",
     },
     {
       statement: "A change carrying a folder repoints a path spelled outside a TypeScript body.",
