@@ -9,8 +9,6 @@ import { TallyCatalogSchema } from "../tally-catalog/tally-catalog.module.code.t
 
 export const GM_DOCTRINE_POLICY_ID_PREFIX = "doctrine:"
 
-export const GM_DOCTRINE_PACK_EXTERNAL_ID = "gm-doctrine-pack"
-
 export const GmDoctrinePackSchema = z
   .object({
     doctrineVersion: z.number().int().nonnegative(),
