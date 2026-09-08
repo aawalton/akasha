@@ -31,11 +31,6 @@ export const aineAuditChangeGuards = {
         "`change-code-file` is landed. The rename guard belongs on `change-page-file` because id and slug are page properties. `change-file.change-mechanical` refuses inline where the body reads null and needs that body to work the passage out, so that refusal is structural rather than a guard that was missed.",
     },
     {
-      statement: "A page property's change is named for the property that change changes.",
-      workingMemory:
-        "`change-page-property` and `change-page-property-relation` are to be `change-page-page-property` and `change-page-page-property-relation`, matching `change-page-page-type`. Three pages, mechanical and checked. Each rename moves an address, and `reach` now takes `keyof Changes`, so an address left stale refuses at `TS2820` naming the address it meant.",
-    },
-    {
       statement: "The target a change acts on is factored out of the changes that carry one.",
       workingMemory:
         "Every mechanical change is handed the path or the page it acts on, and each works that argument out again. The census to take is which changes read `at`, which read `from` and `to`, and which read an address, before anything is factored.",

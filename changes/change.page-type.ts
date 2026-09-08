@@ -84,5 +84,10 @@ export const change = {
       invariantKind: "departure",
       statement: "A change that is not expected to pass checks does not run checks.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change's slug names the mode, then the thing acted on, then the part of that thing.",
+    },
   ],
 } as const satisfies PageType
