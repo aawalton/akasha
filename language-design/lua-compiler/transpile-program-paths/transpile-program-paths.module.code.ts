@@ -1,4 +1,4 @@
-import * as path from "path"
+import * as path from "node:path"
 import type * as ts from "typescript"
 import { trimExtension } from "../tstl-utils/tstl-utils.module.code.ts"
 
