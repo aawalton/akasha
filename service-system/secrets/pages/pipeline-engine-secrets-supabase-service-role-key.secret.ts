@@ -5,8 +5,6 @@ export const pipelineEngineSecretsSupabaseServiceRoleKey = {
   pageTypeSlug: "secret",
   slug: "pipeline-engine-secrets-supabase-service-role-key",
   placements: [
-    { resourceName: "pipeline-engine-secrets", resourceKey: "ALANWALTON_SERVICE_ROLE_KEY" },
-    { resourceName: "pipeline-engine-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },
     { resourceName: "collections-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },
     { resourceName: "alanwalton-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },
     { resourceName: "temper-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },

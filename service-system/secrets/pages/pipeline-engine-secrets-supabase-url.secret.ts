@@ -5,7 +5,6 @@ export const pipelineEngineSecretsSupabaseUrl = {
   pageTypeSlug: "secret",
   slug: "pipeline-engine-secrets-supabase-url",
   placements: [
-    { resourceName: "pipeline-engine-secrets", resourceKey: "SUPABASE_URL" },
     { resourceName: "collections-secrets", resourceKey: "SUPABASE_URL" },
     { resourceName: "alanwalton-secrets", resourceKey: "SUPABASE_URL" },
     { resourceName: "temper-secrets", resourceKey: "SUPABASE_URL" },

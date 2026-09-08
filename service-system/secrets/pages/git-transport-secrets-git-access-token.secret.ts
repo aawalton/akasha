@@ -6,7 +6,6 @@ export const gitTransportSecretsGitAccessToken = {
   slug: "git-transport-secrets-git-access-token",
   placements: [
     { resourceName: "git-transport-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
-    { resourceName: "pipeline-engine-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
     { resourceName: "alanwalton-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
     { resourceName: "temper-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
     { resourceName: "smilingjenny-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
