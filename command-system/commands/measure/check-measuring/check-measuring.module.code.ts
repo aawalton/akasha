@@ -16,6 +16,8 @@ const TOTAL = "total"
 
 const LAST = "--last"
 
+const AUDIT_FLAG = "--audit"
+
 const COUNTED = /^\d+$/
 
 const PERIODED = /^(\d+)([mhd])$/
@@ -26,21 +28,15 @@ const HOUR_MS = 3600000
 
 const DAY_MS = 86400000
 
-const FORMS = `\`${LAST} <count>\` names runs and \`${LAST} <count>{m|h|d}\` names a period`
+const FORMS =
+  `\`${LAST} <count>\` names runs, \`${LAST} <count>{m|h|d}\` names a period, ` +
+  `and \`${AUDIT_FLAG}\` reads the audit runs`
 
-const HEADING: readonly string[] = [
-  "check",
-  "patch runs",
-  "patch cpu",
-  "patch mem",
-  "full runs",
-  "full cpu",
-  "full mem",
-]
+const HEADING: readonly string[] = ["check", "runs", "cpu", "mem"]
 
 const UNREAD = "these were not read, and count no runs:"
 
-const OTHER = "these runs name a phase this does not split by:"
+const OTHER = "these runs name a phase this does not read:"
 
 const KIB = 1024
 
