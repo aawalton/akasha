@@ -54,5 +54,9 @@ export const indexEntries = {
       statement:
         "A declaration naming a page property no page property alone answers to declares nothing.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Which folder names a page type declares is answered as which file names are.",
+    },
   ],
 } as const satisfies Module

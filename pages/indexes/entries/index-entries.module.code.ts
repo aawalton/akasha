@@ -115,10 +115,13 @@ export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string 
 
 export type FilePropertiesBy = ReadonlyMap<string, ReadonlyMap<string, string | null>>
 
+export type FoldersBy = ReadonlyMap<string, ReadonlyMap<string, string>>
+
 type Held = {
   readonly pageTypeSlug: string
   readonly propertySlug: string
   readonly fileName: string | null
+  readonly folderName: string | null
 }
 
 function bareAmong(properties: ReadonlyMap<string, Held>): ReadonlyMap<string, Held | null> {
@@ -138,7 +141,8 @@ function propertiesAmong(values: Iterable<Value>): ReadonlyMap<string, Held> {
     const pageTypeSlug = textAt(value, "pageTypeSlug")
     if (propertySlug === null || slug === null || pageTypeSlug === null) continue
     const fileName = textAt(value, "fileName")
-    found.set(`${pageTypeSlug}/${slug}`, { pageTypeSlug, propertySlug, fileName })
+    const folderName = textAt(value, "folderName")
+    found.set(`${pageTypeSlug}/${slug}`, { pageTypeSlug, propertySlug, fileName, folderName })
   }
   return found
 }
@@ -146,6 +150,7 @@ function propertiesAmong(values: Iterable<Value>): ReadonlyMap<string, Held> {
 type Carrying = {
   readonly filed: FilePropertiesBy
   readonly withheld: UncommittedBy
+  readonly foldered: FoldersBy
 }
 
 function carriedBy(
@@ -160,9 +165,11 @@ function carriedBy(
   }
   const filed = new Map<string, ReadonlyMap<string, string | null>>()
   const withheld = new Map<string, ReadonlySet<string>>()
+  const foldered = new Map<string, ReadonlyMap<string, string>>()
   for (const slug of types.keys()) {
     const held = new Map<string, string | null>()
     const outside = new Set<string>()
+    const folders = new Map<string, string>()
     const walked = new Set<string>()
     const waiting: string[] = [slug]
     for (let at = 0; at < waiting.length; at += 1) {
@@ -177,6 +184,9 @@ function carriedBy(
         if (typeof said !== "string") continue
         const hit = (said.includes("/") ? properties.get(said) : bare.get(said)) ?? null
         if (hit === null) continue
+        if (hit.folderName !== null && !folders.has(hit.propertySlug)) {
+          folders.set(hit.propertySlug, hit.folderName)
+        }
         if (hit.fileName === null && !besides(hit.pageTypeSlug)) continue
         if (held.has(hit.propertySlug)) continue
         held.set(hit.propertySlug, hit.fileName)
@@ -186,8 +196,9 @@ function carriedBy(
     }
     filed.set(slug, held)
     withheld.set(slug, outside)
+    foldered.set(slug, folders)
   }
-  return { filed, withheld }
+  return { filed, withheld, foldered }
 }
 
 function filedAmong(given: string | Reading): ReadonlyMap<string, Held> {
@@ -228,6 +239,19 @@ export function filePropertiesAt(given: string | Reading): FilePropertiesBy {
 
 export function uncommittedFiledAt(given: string | Reading): UncommittedBy {
   return carryingAt(given).withheld
+}
+
+export function folderPropertiesIn(values: Iterable<Value>): FoldersBy {
+  const held = [...values]
+  return carriedBy(propertiesAmong(held), typesAmong(held)).foldered
+}
+
+export function folderPropertiesOver(given: string | Reading, left: Iterable<Value>): FoldersBy {
+  return carryingOver(given, left).foldered
+}
+
+export function folderPropertiesAt(given: string | Reading): FoldersBy {
+  return carryingAt(given).foldered
 }
 
 export function entryShapesAt(given: string | Reading): ReadonlySet<string> {
