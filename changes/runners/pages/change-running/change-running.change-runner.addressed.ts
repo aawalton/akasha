@@ -5,11 +5,11 @@ export type Changes = {
   "change-agent/change-domain-parent": Parameters<
     typeof import("../../../agent/file-content/change-domain-parent/change-domain-parent.change-agent.code.ts")["runChange"]
   >[1]
-  "change-agent/change-file": Parameters<
-    typeof import("../../../agent/file-content/change-file/change-file.change-agent.code.ts")["runChange"]
-  >[1]
   "change-agent/change-page-property-text": Parameters<
     typeof import("../../../agent/file-content/change-page-property-text/change-page-property-text.change-agent.code.ts")["runChange"]
+  >[1]
+  "change-authored/change-file": Parameters<
+    typeof import("../../../agent/file-content/change-file/change-file.change-authored.code.ts")["runChange"]
   >[1]
   "change-checked/add-property-value": Parameters<
     typeof import("../../../agent/file-content/add-property-value/add-property-value.change-checked.code.ts")["runChange"]

@@ -1,8 +1,8 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAuthored } from "../../../authored/change-authored.page-type.ts"
 
 export const changeFile = {
   id: "01a07813-6e3d-7d39-a28a-164766ab0fed",
-  pageTypeSlug: "change-agent",
+  pageTypeSlug: "change-authored",
   slug: "change-file",
   changeModeSlug: "change-mode-change",
   definition: "one passage of one body replaced, judged by the checks a landing runs",
@@ -25,4 +25,4 @@ export const changeFile = {
       statement: "The checks judge the tree the edits leave.",
     },
   ],
-} as const satisfies ChangeAgent
+} as const satisfies ChangeAuthored
