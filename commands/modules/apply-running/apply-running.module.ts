@@ -73,6 +73,14 @@ export const applyRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "Which bodies those are is read from the index rather than from the path's name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row for a body nothing writes again is folded like any other row.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every row dropped is named in the report.",
     },
     {

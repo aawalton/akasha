@@ -3,7 +3,7 @@ import type { Stated } from "@akasha/changes/change-answer/types"
 import { droppedFirst, editsAt, foldedIn, keptEdits, linesIn } from "@akasha/changes/edits-keeping"
 import { agentPathOf } from "@akasha/context/warranting"
 import { costRecorded, opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
-import { writtenAgain } from "../../../command-system/address-mapping/address-mapping.module.code.ts"
+import { writtenPathsIn } from "../../../command-system/address-mapping/address-mapping.module.code.ts"
 import { applying, type Carried } from "../../../command-system/applying/applying.module.code.ts"
 import {
   type Given as Arguments,
@@ -37,10 +37,12 @@ export type Folded =
 
 export function folding(root: string, page: string): Folded {
   let answer: Folded = { folded: [], dropped: [], unfold: null, carried: null }
+  const written = writtenPathsIn(root)
+  const again = (one: string): boolean => written.has(one)
   const kept = keptEdits(root, page, (had) => {
     if (had.length === 0) return had
-    const held = had.filter((one) => !pathsOf(one).some(writtenAgain))
-    const dropped = [...new Set(had.flatMap(pathsOf).filter(writtenAgain))].sort()
+    const held = had.filter((one) => !pathsOf(one).some(again))
+    const dropped = [...new Set(had.flatMap(pathsOf).filter(again))].sort()
     if (held.length === 0) {
       answer = { folded: [], dropped, unfold: null, carried: null }
       return null

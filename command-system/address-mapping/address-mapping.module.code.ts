@@ -1,5 +1,6 @@
 import { dirname, join, relative } from "node:path"
 import { formattedBody } from "@akasha/code/code-format"
+import { everyOfType } from "@akasha/indexes"
 import type { Change } from "@akasha/pages/change"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
@@ -106,10 +107,13 @@ export function bodyFor(addresses: readonly Address[]): string {
   return `${lines.join("\n")}\n`
 }
 
-export function writtenAgain(path: string): boolean {
-  const said = partedIn(path)
-  if (said === null || said.pageType !== RUNNER) return false
-  return said.sections.length === 1 && said.sections[0] === ADDRESSED
+export function writtenPathsIn(root: string): ReadonlySet<string> {
+  const held = new Set<string>()
+  for (const listed of everyOfType(root, RUNNER)) {
+    const at = besideAt(listed.path, ADDRESSED, TS)
+    if (at !== null) held.add(at)
+  }
+  return held
 }
 
 export function mappedOver(

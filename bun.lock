@@ -562,6 +562,7 @@
         "@akasha/digit-padding": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/id-minting": "workspace:*",
+        "@akasha/indexes": "workspace:*",
         "@akasha/inference-clients": "workspace:*",
         "@akasha/inference-runs": "workspace:*",
         "@akasha/seat-system": "workspace:*",

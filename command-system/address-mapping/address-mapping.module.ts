@@ -21,6 +21,14 @@ export const addressMapping = {
     },
     {
       invariantKind: "departure",
+      statement: "The maps written again are the maps of the runners the index holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A map whose runner the index holds no page for is written again by nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A change exporting the run is reached by the map.",
     },
     {

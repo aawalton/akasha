@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import type { Stated } from "@akasha/changes/change-answer/types"
 import { appendEdits, editsIn } from "@akasha/changes/edits-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
+import { nothingFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { headOf, rebasedHeld } from "../../../command-system/drafting/drafting.module.code.ts"
 import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
@@ -14,7 +15,13 @@ const ONE = "akasha/one.page.ts"
 
 const TWO = "akasha/two.page.ts"
 
-const MAPPED = "akasha/mapped.change-runner.addressed.ts"
+const RUNNER = "change-runner"
+
+const MAPPED_PAGE = `akasha/mapped.${RUNNER}.ts`
+
+const MAPPED_ID = "01a081cd-0cb7-7579-9073-ed4e5aa98bf0"
+
+const MAPPED = `akasha/mapped.${RUNNER}.addressed.ts`
 
 const WAS = "a\nb\nc\n"
 
@@ -98,6 +105,10 @@ async function repo(): Promise<string> {
   await putting(root, ONE, WAS)
   gitSaid(root, ["add", "--", ONE])
   gitSaid(root, [...WHO, "commit", "-q", "-m", "base", "--", ONE])
+  nothingFiled(root)
+  valueAlsoFiled(root, RUNNER, [
+    { path: MAPPED_PAGE, value: { id: MAPPED_ID, pageTypeSlug: RUNNER, slug: "mapped" } },
+  ])
   return root
 }
 
