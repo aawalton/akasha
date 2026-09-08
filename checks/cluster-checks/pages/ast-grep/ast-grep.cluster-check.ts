@@ -5,6 +5,7 @@ export const astGrep = {
   pageTypeSlug: "cluster-check",
   slug: "ast-grep",
   definition: "the check refusing a source file matching a declared ast-grep pattern",
+  partSlugs: ["ast-grep-config/akasha"],
   code: "ts",
   dispatchNodeTypes: [{ nodeKind: "yaml-file" }, { nodeKind: "yml-file" }],
 } as const satisfies ClusterCheck
