@@ -11,6 +11,7 @@ export const wanderingInn = {
     "module/site",
     "module/sync-run-recording",
     "module/syncing",
+    "workstation-service/wandering-inn-sync",
   ],
   invariants: [
     {

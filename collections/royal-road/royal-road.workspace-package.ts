@@ -6,7 +6,11 @@ export const royalRoad = {
   slug: "royal-road",
   definition: "the pages Royal Road serves, read into fictions and chapters",
   manifest: "json",
-  partSlugs: ["module/royal-road-pages", "module/royal-road-syncing"],
+  partSlugs: [
+    "module/royal-road-pages",
+    "module/royal-road-syncing",
+    "workstation-service/royal-road-sync",
+  ],
   invariants: [
     {
       invariantKind: "departure",

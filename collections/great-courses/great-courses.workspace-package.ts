@@ -19,6 +19,7 @@ export const greatCourses = {
     "module/sync-outcome",
     "module/sync-run",
     "module/sync",
+    "workstation-service/great-courses-sync",
   ],
   invariants: [
     {
