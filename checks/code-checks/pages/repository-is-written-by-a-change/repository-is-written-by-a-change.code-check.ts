@@ -8,7 +8,7 @@ export const repositoryIsWrittenByAChange = {
     "the check refusing code outside the changes that writes TypeScript into the repository",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
