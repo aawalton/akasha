@@ -97,7 +97,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "The paths a change carries a thing between are named `from` and `to`.",
+      statement: "The paths a change moves a thing between are named `from` and `to`.",
     },
     {
       invariantKind: "departure",

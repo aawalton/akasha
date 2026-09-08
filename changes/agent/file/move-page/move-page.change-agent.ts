@@ -5,14 +5,14 @@ export const movePage = {
   pageTypeSlug: "change-agent",
   slug: "move-page",
   changeModeSlug: "change-mode-move",
-  definition: "one page and the files beside that page carried into another folder",
+  definition: "one page and the files beside that page moved into another folder",
   code: "ts",
   test: "ts",
   readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page carried into another folder keeps the slug that page had.",
+      statement: "A page moved into another folder keeps the slug that page had.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const movePage = {
     },
     {
       invariantKind: "departure",
-      statement: "The carry is left to the mechanical change carrying that kind of page.",
+      statement: "The move is left to the mechanical change moving that kind of page.",
     },
     {
       invariantKind: "departure",

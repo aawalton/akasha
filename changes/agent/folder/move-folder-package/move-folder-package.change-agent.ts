@@ -5,14 +5,14 @@ export const moveFolderPackage = {
   pageTypeSlug: "change-agent",
   slug: "move-folder-package",
   changeModeSlug: "change-mode-move",
-  definition: "a workspace package carried to another folder, taking the slug that folder names",
+  definition: "a workspace package moved to another folder, taking the slug that folder names",
   code: "ts",
   test: "ts",
   readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The carry is left to the mechanical change carrying a package's folder.",
+      statement: "The move is left to the mechanical change moving a package's folder.",
     },
     {
       invariantKind: "departure",

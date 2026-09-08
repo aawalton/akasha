@@ -5,14 +5,14 @@ export const moveFolder = {
   pageTypeSlug: "change-agent",
   slug: "move-folder",
   changeModeSlug: "change-mode-move",
-  definition: "one folder and every file under it carried to another path",
+  definition: "one folder and every file under it moved to another path",
   code: "ts",
   test: "ts",
   readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The carry is left to the mechanical change carrying a folder.",
+      statement: "The move is left to the mechanical change moving a folder.",
     },
     {
       invariantKind: "departure",

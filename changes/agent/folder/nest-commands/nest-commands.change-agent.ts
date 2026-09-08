@@ -5,14 +5,14 @@ export const nestCommands = {
   pageTypeSlug: "change-agent",
   slug: "nest-commands",
   changeModeSlug: "change-mode-move",
-  definition: "one namespace's commands made its parts and carried into its folder",
+  definition: "one namespace's commands made its parts and moved into its folder",
   code: "ts",
   test: "ts",
   readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command whose slug opens with the namespace's slug and a hyphen is carried.",
+      statement: "A command whose slug opens with the namespace's slug and a hyphen is moved.",
     },
     {
       invariantKind: "departure",
@@ -20,7 +20,7 @@ export const nestCommands = {
     },
     {
       invariantKind: "departure",
-      statement: "The namespace page is carried into the folder its own namespaces spell.",
+      statement: "The namespace page is moved into the folder its own namespaces spell.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,7 @@ export const nestCommands = {
     },
     {
       invariantKind: "departure",
-      statement: "A namespace under no namespace is carried into the commands folder itself.",
+      statement: "A namespace under no namespace is moved into the commands folder itself.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const nestCommands = {
     },
     {
       invariantKind: "departure",
-      statement: "A command the namespace names among its parts already is carried unparented.",
+      statement: "A command the namespace names among its parts already is moved unparented.",
     },
     {
       invariantKind: "departure",
@@ -57,7 +57,7 @@ export const nestCommands = {
     {
       invariantKind: "departure",
       statement:
-        "Carrying a page and the files it claims is left to the mechanical change carrying that kind of file.",
+        "Moving a page and the files it claims is left to the mechanical change moving that kind of file.",
     },
     {
       invariantKind: "departure",
@@ -73,11 +73,11 @@ export const nestCommands = {
     },
     {
       invariantKind: "absence",
-      statement: "A command whose slug no namespace slug opens is carried nowhere.",
+      statement: "A command whose slug no namespace slug opens is moved nowhere.",
     },
     {
       invariantKind: "absence",
-      statement: "A command whose page sits outside the commands folder is carried nowhere.",
+      statement: "A command whose page sits outside the commands folder is moved nowhere.",
     },
     {
       invariantKind: "absence",
