@@ -23,6 +23,12 @@ export const smilingjenny = {
     "ios-program/smilingjenny-decode-harness",
     "ios-program/smilingjenny-widget",
   ],
+  toolReached: [
+    "@capacitor/cli",
+    "@capacitor/core",
+    "@capacitor/ios",
+    "@capacitor/push-notifications",
+  ],
   webDirectory: true,
   webEntry: "html",
   widgetBundleId: "me.smilingjenny.app.widgets",

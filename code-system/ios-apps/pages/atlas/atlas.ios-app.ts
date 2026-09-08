@@ -16,6 +16,13 @@ export const atlas = {
   macBuildNumberFile: "$HOME/.appstoreconnect/testflight-build-number-atlas",
   marketingVersion: "1.0",
   nativeShellRepoPath: "akasha:native-shell/atlas",
+  toolReached: [
+    "@capacitor/cli",
+    "@capacitor/core",
+    "@capacitor/ios",
+    "@capacitor/preferences",
+    "@capgo/background-geolocation",
+  ],
   webEntry: "html",
   partSlugs: ["shell-script/atlas-capture-device-console", "shell-script/atlas-ios-seam"],
 } as const satisfies IosApp
