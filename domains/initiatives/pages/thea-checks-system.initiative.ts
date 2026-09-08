@@ -8,11 +8,6 @@ export const theaChecksSystem = {
   personaSlug: "thea",
   intents: [
     {
-      statement: "Every check is cheap enough for patch and runs there.",
-      workingMemory:
-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Every check has been read and 41 of 44 run at patch. folder-matches-a-shape and identifier-matches-its-place are off by Alan's call, reviewed already, so neither is read again. tests-pass belongs to intent 2. Clearing: restatements narrowing nothing are at 0, and so is shell-clean over all 111 scripts, the last 6 going with the zshrc page Alan no longer uses. Still owed: 19 lualib specifiers, untested against the Lua the compiler emits.",
-    },
-    {
       statement: "The tests beside a changed file judge the change that carries it.",
       workingMemory:
         "Measured on Bun 1.3.14: onResolve never fires for a bare specifier, from a served importer or a plain one; an absolute specifier from a served importer does reach it; onLoad fires in the file namespace for whatever the runner itself resolved. So a move is aliased rather than resolution intercepted. The moved body is served at the path the runner still finds, and a specifier the new manifest brings is spelled back to the old. A moved body answers import.meta as the old path.",
