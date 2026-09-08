@@ -6,6 +6,7 @@ import {
   LuaLibImportKind,
   LuaTarget,
 } from "../compiler-options/compiler-options.module.code.ts"
+import { lualibTranspilerHolder } from "../lualib-builder-deps/lualib-builder-deps.module.code.ts"
 import { getBundleResult } from "../transpile-bundle/transpile-bundle.module.code.ts"
 import type {
   EmitFile,
@@ -22,7 +23,6 @@ import {
   getProgramTranspileResult,
   type TranspileOptions,
 } from "../transpile-transpile/transpile-transpile.module.code.ts"
-import { lualibTranspilerHolder } from "../tstl-lualib-builder-deps/tstl-lualib-builder-deps.module.code.ts"
 import {
   buildMinimalLualibBundle,
   findUsedLualibFeatures,

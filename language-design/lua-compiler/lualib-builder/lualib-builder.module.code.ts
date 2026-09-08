@@ -5,6 +5,10 @@ import { parseConfigFileWithSystem } from "../cli-tsconfig/cli-tsconfig.module.c
 import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import {
+  requireLualibPrinter,
+  requireLualibTranspiler,
+} from "../lualib-builder-deps/lualib-builder-deps.module.code.ts"
+import {
   getLualibBundleReturn,
   LuaLibFeature,
   type LuaLibModulesInfo,
@@ -15,10 +19,6 @@ import type { Plugin } from "../transpile-plugins/transpile-plugins.module.code.
 import type * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import {
-  requireLualibPrinter,
-  requireLualibTranspiler,
-} from "../tstl-lualib-builder-deps/tstl-lualib-builder-deps.module.code.ts"
 import { cast } from "../tstl-utils/tstl-utils.module.code.ts"
 
 function isExportTable(node: luaCore.Node): node is luaExpressions.Identifier {
