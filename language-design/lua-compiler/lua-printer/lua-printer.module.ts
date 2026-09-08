@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code/module"
 
-export const tstlLuaPrinter = {
+export const luaPrinter = {
   id: "01a06758-8e5b-7000-abc1-dcc410a21334",
   pageTypeSlug: "module",
-  slug: "tstl-lua-printer",
+  slug: "lua-printer",
   definition: "a Lua file printed to code with its source map",
   code: "ts",
 } as const satisfies Module

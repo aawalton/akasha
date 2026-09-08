@@ -1,5 +1,5 @@
+import type { createLuaPrinter } from "../lua-printer/lua-printer.module.code.ts"
 import type { createTranspiler } from "../transpile-transpiler/transpile-transpiler.module.code.ts"
-import type { createLuaPrinter } from "../tstl-lua-printer/tstl-lua-printer.module.code.ts"
 
 export const lualibPrinterHolder: { fn: typeof createLuaPrinter | undefined } = {
   fn: undefined,

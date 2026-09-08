@@ -1,6 +1,7 @@
 import * as path from "node:path"
 import * as ts from "typescript"
 import { validateOptions } from "../compiler-options/compiler-options.module.code.ts"
+import { createPrinter } from "../lua-printer/lua-printer.module.code.ts"
 import * as performance from "../measure-performance/measure-performance.module.code.ts"
 import {
   createVisitorMap,
@@ -16,7 +17,6 @@ import {
   type ReachabilityResult,
 } from "../transpile-reachability/transpile-reachability.module.code.ts"
 import { getTransformers } from "../transpile-transformers/transpile-transformers.module.code.ts"
-import { createPrinter } from "../tstl-lua-printer/tstl-lua-printer.module.code.ts"
 import { isNonNull } from "../tstl-utils/tstl-utils.module.code.ts"
 
 export interface TranspileOptions {
