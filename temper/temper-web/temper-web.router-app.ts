@@ -16,6 +16,7 @@ export const temperWeb = {
   server: "ts",
   addonBundleImage: "ts",
   sidebarBoot: "js",
+  placeholderImage: "svg",
   partSlugs: [
     "manifest/temper-web-manifests",
     "stylesheet/temper-web-look",
