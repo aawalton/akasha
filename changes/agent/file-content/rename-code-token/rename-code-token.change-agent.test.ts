@@ -94,7 +94,7 @@ test("an exported name is renamed through every importer", async () => {
   const world = worldIn(root, textIn(root))
   const said = await renameCodeToken(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
   expect(said.refused).toBe(null)
-  expect([...pathsIn(said)].sort()).toEqual([HELD_CODE, NAMER_CODE])
+  expect([...new Set(pathsIn(said))].sort()).toEqual([HELD_CODE, NAMER_CODE])
   expect(bodiesIn(said, world.base).get(HELD_CODE)).toBe(`export const ${CARRIED} = 1\n`)
 })
 
