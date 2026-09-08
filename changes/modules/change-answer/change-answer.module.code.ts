@@ -54,12 +54,6 @@ export function stating(edits: readonly Stated[]): Said {
   return { edits, refused: null }
 }
 
-export function written(path: string, was: string | null, body: string): readonly Stated[] {
-  if (was === null || was === "") return [{ kind: "add", path, content: body }]
-  if (was === body) return []
-  return [{ kind: "replace", path, contentFrom: was, contentTo: body }]
-}
-
 function onlyOnce(text: string, passage: string): boolean {
   const first = text.indexOf(passage)
   return first >= 0 && text.indexOf(passage, first + 1) < 0
