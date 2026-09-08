@@ -1,4 +1,5 @@
 import { inputError } from "@akasha/errors-core/exit-code"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { ending } from "@akasha/utils-process/process-ending"
 import { decideKillTarget } from "../kill-target-plan/kill-target-plan.module.code.ts"
 import { killSeatSession } from "../launch-seat-tmux/launch-seat-tmux.module.code.ts"
@@ -101,5 +102,7 @@ export async function stopSeat(input: StopSeatInput): Promise<SeatStopped> {
     case "reconcile":
       await removeSeatPage(agentId, "no live supervisor stood for it")
       return { agentId, name, pid: null, signaled: false, status: "reconciled" }
+    default:
+      return assertNever(target)
   }
 }

@@ -21,12 +21,6 @@ const STALE_PROXY_SHUTDOWN_BUDGET_MS = 5_000
 
 const POLL_INTERVAL_MS = 100
 
-// THIS DEADLINE SAYS HOW LONG A GATEWAY MAY BE BUSY BEFORE IT IS CALLED DEAD, AND BUSY IS NOT DEAD.
-// `/healthz` returns a constant with nothing awaited, so what it measures is not the handler but
-// whether the event loop can reach it. A gateway carrying a seat's subagents was measured answering
-// in 1.4s to over 9s while serving every request correctly. One deadline is here for both the
-// adopt path and the liveness monitor: two constants for one decision is how the monitor came to be
-// raised while this one stayed at a second, and a gateway can be alive to one and dead to the other.
 export const HEALTHZ_TIMEOUT_MS = 10_000
 
 const STDERR_LOG = "oauth-proxy.stderr.log"
@@ -115,19 +109,6 @@ export async function spawnOrAdoptOAuthProxy(
   return await spawnFreshProxy(args, requiredPort)
 }
 
-/**
- * Clear whoever is holding the port an adopted Claude is already pointed at.
- *
- * ADOPTED CLAUDE CANNOT BE RE-POINTED, so this one port is the only one a fresh proxy may bind. A
- * proxy orphaned by a supervisor that died without stopping it goes on holding that port, the bind
- * fails for as long as it lives, and the new supervisor dies during boot leaving the terminal dead.
- * The recorded state cannot say who to stop, because reaching this point is what it means for that
- * state to be missing.
- *
- * ONLY THIS SEAT'S OWN PROXY IS STOPPED. A holder belonging to another agent is reported and left
- * running: taking it down would break a seat that is working, and one port two live seats both
- * need is a conflict this is in no position to settle.
- */
 async function freePortForAdoptedClaude(port: number, agentId: string): Promise<undefined> {
   for (const holder of pidsListeningOn(port)) {
     const owner = readProcEnvVar(holder, "OAUTH_PROXY_AGENT_ID")
@@ -156,20 +137,6 @@ export async function respawnOAuthProxy(
   return await spawnFreshProxy(args, currentState.port)
 }
 
-/**
- * Where the gateway's stderr is sent.
- *
- * NEVER INHERITED, because the supervisor's stderr is the seat's terminal. Anything the gateway or
- * the runtime under it writes there is painted straight over the display of a seat that is working
- * perfectly well — an upstream fetch error interleaves with Claude's own drawing and reads as a
- * crash, when nothing has crashed at all.
- *
- * A FILE RATHER THAN DISCARDED, so an error the runtime prints past the gateway's own size-capped
- * `oauth-proxy.log` still leaves a record somewhere.
- *
- * DISCARDED RATHER THAN INHERITED WHERE THE FILE WILL NOT OPEN, because losing the record costs a
- * diagnosis, while falling back to the terminal costs the seat its display.
- */
 function openStderrLog(logDir: string): number | null {
   try {
     mkdirSync(logDir, { recursive: true })

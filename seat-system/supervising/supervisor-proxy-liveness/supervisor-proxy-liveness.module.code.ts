@@ -19,9 +19,6 @@ import {
 
 export const PROXY_LIVENESS_INTERVAL_MS = 30_000
 
-// The deadline sits with the spawner, so the adopt path and this monitor judge a gateway alive by
-// the same measure.
-
 function assertNever(value: never): never {
   const rendered = typeof value === "string" ? value : JSON.stringify(value)
   throw new Error(`assertNever: unhandled variant ${rendered}`)
