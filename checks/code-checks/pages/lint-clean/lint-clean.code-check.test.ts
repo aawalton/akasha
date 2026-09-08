@@ -174,9 +174,9 @@ test("the reason names the tree that stays rather than the one that is swept", (
   expect(judged[0]?.reason).toContain(root)
 })
 
-test("the world's root is taken out of what is reported", () => {
+test("the mirror's root is taken out of what is reported", () => {
   expect(outsideOf("held at /held/one.ts, under /held", "/held")).toBe(
-    "held at one.ts, under the world this change was set up in"
+    "held at one.ts, under the mirror this change was written into"
   )
 })
 
@@ -186,11 +186,11 @@ test("a finding is said as its rule, where it is and what the linter said", () =
 })
 
 test("a run that failed is answered against the first file named", () => {
-  const looked = { code: -1, errors: 0, found: [], failed: "nothing stands under /held" }
+  const looked = { code: -1, errors: 0, found: [], failed: "nothing is under /held" }
   const judged = judgedOf(looked, "akasha/one.ts", "/held")
   expect(judged.length).toBe(1)
   expect(judged[0]?.path).toBe("akasha/one.ts")
   expect(judged[0]?.reason).toBe(
-    "nothing stands under the world this change was set up in. A linter that could not look has verified nothing, so this change is not judged."
+    "nothing is under the mirror this change was written into. A linter that could not look has verified nothing, so this change is not judged."
   )
 })

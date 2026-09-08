@@ -18,7 +18,7 @@ const SKIPPED = "!"
 
 const ANYWHERE = "**/"
 
-const WORLD = "the world this change was set up in"
+const MIRROR = "the mirror this change was written into"
 
 const UNLOOKED = "A linter that could not look has verified nothing, so this change is not judged."
 
@@ -89,7 +89,7 @@ export function carriedIn(
 }
 
 export function outsideOf(said: string, root: string): string {
-  return said.replaceAll(`${root}/`, "").replaceAll(root, WORLD)
+  return said.replaceAll(`${root}/`, "").replaceAll(root, MIRROR)
 }
 
 export function reasonOf(one: Found): string {
