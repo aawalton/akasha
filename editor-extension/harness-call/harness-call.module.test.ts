@@ -11,8 +11,7 @@ import {
 
 const CHECKOUT = path.join(import.meta.dir, "..", "..")
 
-// A command the server does not answer, so the file named here is the one a spawn runs.
-const SPAWNED = "seat"
+const SPAWNED = "apply"
 
 function within(named: string): string {
   return path.relative(akashaRoot(), named)
@@ -26,7 +25,7 @@ describe("the files the harness names", () => {
 
   test("a command's file is the one sitting beside that command's page", () => {
     expect(within(commandFile("work-tree"))).toBe(
-      path.join("command-system", "commands", "work-tree", "work-tree.command.code.ts")
+      path.join("commands", "pages", "work-tree", "work-tree.command.code.ts")
     )
   })
 
