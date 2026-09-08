@@ -1,10 +1,10 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../../../pages/properties/title.text-property.ts"
-import type { CoachingNoteActive } from "./properties/coaching-note-active.boolean-property.ts"
 import type { CoachingNoteDate } from "./properties/coaching-note-date.calendar-date-property.ts"
 import type { CoachingNoteKind } from "./properties/coaching-note-kind.select-property.ts"
 import type { CoachingNoteSortOrder } from "./properties/coaching-note-sort-order.number-property.ts"
+import type { CoachingNoteActive } from "./properties/fitness-coaching-note-active.boolean-property.ts"
 import type { FocusTags } from "./properties/focus-tags.select-property.ts"
 import type { Says } from "./properties/says.file-property.ts"
 
@@ -25,7 +25,7 @@ export const fitnessCoachingNote = {
   definition: "a limit, a cue or a thing noticed that the coach programs by",
   pluralSlug: "fitness-coaching-notes",
   partSlugs: [
-    "boolean-property/coaching-note-active",
+    "boolean-property/fitness-coaching-note-active",
     "calendar-date-property/coaching-note-date",
     "file-property/says",
     "number-property/coaching-note-sort-order",
@@ -36,7 +36,7 @@ export const fitnessCoachingNote = {
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     {
-      pagePropertySlug: "boolean-property/coaching-note-active",
+      pagePropertySlug: "boolean-property/fitness-coaching-note-active",
       required: true,
       many: false,
     },
