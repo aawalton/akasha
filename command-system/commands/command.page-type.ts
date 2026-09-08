@@ -108,6 +108,7 @@ export const command = {
     "module/apply-running",
     "namespace/change",
     "namespace/refresh",
+    "number-property/timeout",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/calling",
@@ -141,6 +142,7 @@ export const command = {
       many: true,
       maxCount: null,
     },
+    { pagePropertySlug: "number-property/timeout", required: false, many: false },
     {
       pagePropertySlug: "file-property/entries",
       required: false,

@@ -78,6 +78,7 @@ export const commandSystem = {
     "module/change-running",
     "module/change-preparing",
     "module/path-carrying",
+    "module/command-stopping",
   ],
   invariants: [
     {

@@ -163,5 +163,9 @@ export const calling = {
       invariantKind: "departure",
       statement: "A command handed no change kind runs every check and every warrant.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A command is stopped where that command runs past the seconds its page allows.",
+    },
   ],
 } as const satisfies Module

@@ -4,6 +4,7 @@ import { indexNamed, indexThere, listedAt, slugsOfType, typeSlugById } from "@ak
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { costRecorded, opening } from "../../checks/modules/check-cost/check-cost.module.code.ts"
+import { heldTo, secondsIn } from "../command-stopping/command-stopping.module.code.ts"
 import { type Reached, saidIn, walkingIn } from "../command-walking/command-walking.module.code.ts"
 import type { HelpNotes } from "../commands/properties/help-notes.text-property.ts"
 import type { Taking } from "../commands/properties/taking.record-property.ts"
@@ -78,6 +79,8 @@ const CODE = "code"
 const TS = "ts"
 
 const COMMAND = "command"
+
+const STOPPED = 3
 
 export const ROOTED = "index"
 
@@ -291,14 +294,20 @@ async function answeredBy(
     )
   }
   const kind = outside.changeKind ?? kindOf(root, page)
-  return await answers(argv, {
-    root,
-    calledAs: `${outside.calledAs} ${said}`,
-    from: outside.from,
-    writer: outside.writer,
-    agentId: outside.agentId,
-    ...(kind === null ? {} : { changeKind: kind }),
-  })
+  const calledAs = `${outside.calledAs} ${said}`
+  const held = await heldTo(
+    secondsIn(page),
+    calledAs,
+    answers(argv, {
+      root,
+      calledAs,
+      from: outside.from,
+      writer: outside.writer,
+      agentId: outside.agentId,
+      ...(kind === null ? {} : { changeKind: kind }),
+    })
+  )
+  return "stopped" in held ? { report: [], refusals: [held.stopped], code: STOPPED } : held.answer
 }
 
 function helping(root: string, outside: Outside): Answer {
