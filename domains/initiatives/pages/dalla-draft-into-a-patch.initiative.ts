@@ -51,7 +51,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Every property a command's page type declares is read.",
       workingMemory:
-        "5 of 27 properties on `command.page-type.ts` are read: `change-kind-slug` by `kindOf`, `taking` and `help-notes` by `surfaceOf`, `said` and `takes` by `helpOf`; `akasha change` reads `help-notes` a second time off its own page. The other 22 are proven unread by deleting each and diffing `--help`, on an instrument that fired on all 5. `parse-args` reads the same vocabulary off `CommandHelp`, a hand-written twin set by 5 literals, so either `calling` grows or the page type shrinks.",
+        "Five properties are read: `change-kind-slug` by `kindOf`, `taking` and `help-notes` by `surfaceOf`, `said` and `takes` by `helpOf`. Six of the eleven `command.page-type.ts` declares carry the argument structure — positionals, flags, env vars, exclusions, exits, examples — and no code reads any of them and no command page states one. `parse-args` reads that same vocabulary off `CommandHelp`, a hand-written twin, so either `calling` grows to read the page or the six come off the page type.\n",
     },
     {
       statement: "A file that is not text is moved by path and refused every other change.",
