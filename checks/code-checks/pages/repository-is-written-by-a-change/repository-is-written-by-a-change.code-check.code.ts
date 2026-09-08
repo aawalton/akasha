@@ -1,5 +1,6 @@
 import { dirname } from "node:path"
 import { lineOf, parsedAs } from "@akasha/code/code-source"
+import { partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import ts from "typescript"
 import {
@@ -19,6 +20,8 @@ const COMMAND_SYSTEM = "command-system"
 const ROOT_MODULES = new Set(["checkout-roots", "code-root"])
 
 const ROOT = "root"
+
+const CODE = "code"
 
 const FS = new Set(["fs", "fs/promises", "node:fs", "node:fs/promises"])
 
@@ -62,7 +65,7 @@ const WRITES = new Map<string, readonly number[]>([
   ["writeFileSync", [0]],
 ])
 
-export type Taken = {
+type Taken = {
   readonly writes: ReadonlyMap<string, readonly number[]>
   readonly spaces: ReadonlySet<string>
   readonly rooted: ReadonlySet<string>
@@ -89,10 +92,10 @@ function namedOf(clause: ts.ImportClause): readonly string[] {
   return found
 }
 
-export function takenIn(source: ts.SourceFile): Taken {
+function takenIn(source: ts.SourceFile): Taken {
   const writes = new Map<string, readonly number[]>()
   const spaces = new Set<string>()
-  const rooted = new Set<string>([ROOT])
+  const rooted = new Set<string>()
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one)) continue
     const clause = one.importClause
@@ -137,23 +140,41 @@ function namesIn(node: ts.Node): ReadonlySet<string> {
   return found
 }
 
-export function rootedOver(
-  source: ts.SourceFile,
-  seeded: ReadonlySet<string>
-): ReadonlySet<string> {
-  const stated: { readonly name: string; readonly names: ReadonlySet<string> }[] = []
+type Stated = {
+  readonly name: string
+  readonly names: ReadonlySet<string>
+  readonly node: ts.Node
+}
+
+function statedIn(source: ts.SourceFile): readonly Stated[] {
+  const found: Stated[] = []
   const walk = (node: ts.Node): undefined => {
     if (
       ts.isVariableDeclaration(node) &&
       ts.isIdentifier(node.name) &&
       node.initializer !== undefined
     ) {
-      stated.push({ name: node.name.text, names: namesIn(node.initializer) })
+      found.push({
+        name: node.name.text,
+        names: namesIn(node.initializer),
+        node: node.initializer,
+      })
     }
     ts.forEachChild(node, walk)
   }
   ts.forEachChild(source, walk)
+  return found
+}
+
+function spreadOver(
+  stated: readonly Stated[],
+  seeded: ReadonlySet<string>,
+  held: (node: ts.Node) => boolean
+): ReadonlySet<string> {
   const found = new Set(seeded)
+  for (const one of stated) {
+    if (heldIn(one.node, held)) found.add(one.name)
+  }
   let turned = true
   while (turned) {
     turned = false
@@ -188,20 +209,29 @@ function calledAs(node: ts.CallExpression, taken: Taken): readonly number[] | nu
   return WRITES.get(named) ?? null
 }
 
+function pointsRoot(node: ts.Node): boolean {
+  return ts.isPropertyAccessExpression(node) && node.name.text === ROOT
+}
+
 export function reasonsIn(at: string, text: string): readonly string[] {
   const source = parsedAs(at, text)
   const taken = takenIn(source)
   const bun = text.includes(BUN_WRITE)
   if (taken.writes.size === 0 && taken.spaces.size === 0 && !bun) return []
-  const rooted = rootedOver(source, taken.rooted)
+  const stated = statedIn(source)
+  const rooted = spreadOver(stated, taken.rooted, pointsRoot)
+  const named = spreadOver(stated, new Set<string>(), tsNamed)
+  const isRooted = (one: ts.Node): boolean =>
+    pointsRoot(one) || (ts.isIdentifier(one) && rooted.has(one.text))
+  const isNamed = (one: ts.Node): boolean =>
+    tsNamed(one) || (ts.isIdentifier(one) && named.has(one.text))
   const said: string[] = []
   const walk = (node: ts.Node): undefined => {
     if (ts.isCallExpression(node)) {
       for (const which of calledAs(node, taken) ?? []) {
         const given = node.arguments[which]
         if (given === undefined) continue
-        if (!heldIn(given, (one) => ts.isIdentifier(one) && rooted.has(one.text))) continue
-        if (!heldIn(given, tsNamed)) continue
+        if (!heldIn(given, isRooted) || !heldIn(given, isNamed)) continue
         said.push(
           `line ${lineOf(source, node)} writes a TypeScript file under the checkout root, ${SAID}`
         )
@@ -223,10 +253,16 @@ function folderOf(shadow: Shadow, slug: string): string {
   return `${dirname(one.path)}${PARTED_BY}`
 }
 
+function codeNamed(path: string): boolean {
+  if (!textNamed(path)) return false
+  const said = partedIn(path)
+  return said !== null && said.sections.length === 1 && said.sections[0] === CODE
+}
+
 export function outsideBy(shadow: Shadow): (path: string) => boolean {
   const changes = folderOf(shadow, CHANGE)
   const commands = folderOf(shadow, COMMAND_SYSTEM)
-  return (path) => textNamed(path) && !path.startsWith(changes) && !path.startsWith(commands)
+  return (path) => codeNamed(path) && !path.startsWith(changes) && !path.startsWith(commands)
 }
 
 const OUTSIDE_BY = new WeakMap<Shadow, (path: string) => boolean>()

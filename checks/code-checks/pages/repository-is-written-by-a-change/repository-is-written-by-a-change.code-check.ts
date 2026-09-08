@@ -41,11 +41,20 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "departure",
-      statement: "The checkout root is named `root` or taken from the module answering it.",
+      statement:
+        "The checkout root is read off a `root` field or taken from the module answering it.",
     },
     {
       invariantKind: "departure",
       statement: "A name built from a rooted name is rooted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name built from a name spelling `.ts` spells `.ts` too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a page's code is judged, so the tree a test sets up is no reach.",
     },
     {
       invariantKind: "departure",
@@ -79,6 +88,10 @@ export const repositoryIsWrittenByAChange = {
     {
       invariantKind: "gap",
       statement: "A descriptor opened for writing is not seen.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A root a caller hands in under a name other than `root` is not seen.",
     },
     {
       invariantKind: "gap",

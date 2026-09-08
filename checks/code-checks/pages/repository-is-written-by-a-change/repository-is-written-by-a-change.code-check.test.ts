@@ -32,13 +32,40 @@ test("a root handed in as `root` is the checkout root", () => {
   expect(said).toHaveLength(1)
 })
 
+test("a destination named by a constant the write does not spell is followed", () => {
+  const said = only(
+    'import { writeFile } from "node:fs/promises"\n' +
+      'import { resolve } from "node:path"\n' +
+      'import { codeRoot } from "@akasha/pages/code-root"\n' +
+      'const OUT = "temper/one/a.generated.ts"\n' +
+      "export async function one(): Promise<void> {\n" +
+      "  const out = resolve(codeRoot(), OUT)\n" +
+      '  await writeFile(out, "")\n' +
+      "}\n"
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 7")
+})
+
+test("a root a caller hands in under another name is no checkout root", () => {
+  expect(
+    only(
+      'import { writeFileSync } from "node:fs"\n' +
+        'import { join } from "node:path"\n' +
+        "export function one(root: string): void {\n" +
+        '  writeFileSync(join(root, "a.ts"), "")\n' +
+        "}\n"
+    )
+  ).toEqual([])
+})
+
 test("a directory made under the root is no source file", () => {
   expect(
     only(
       'import { mkdirSync } from "node:fs"\n' +
         'import { join } from "node:path"\n' +
-        "export function one(root: string): void {\n" +
-        '  mkdirSync(join(root, "a/b"), { recursive: true })\n' +
+        "export function one(given: { root: string }): void {\n" +
+        '  mkdirSync(join(given.root, "a/b"), { recursive: true })\n' +
         "}\n"
     )
   ).toEqual([])
@@ -49,8 +76,8 @@ test("a file under the root that is no TypeScript is let through", () => {
     only(
       'import { writeFileSync } from "node:fs"\n' +
         'import { join } from "node:path"\n' +
-        "export function one(root: string): void {\n" +
-        '  writeFileSync(join(root, "a/b.json"), "")\n' +
+        "export function one(given: { root: string }): void {\n" +
+        '  writeFileSync(join(given.root, "a/b.json"), "")\n' +
         "}\n"
     )
   ).toEqual([])
@@ -71,8 +98,8 @@ test("a write reached through a namespace taken from `node:fs` is seen", () => {
   expect(
     only(
       'import * as fs from "node:fs"\n' +
-        "export function one(root: string): void {\n" +
-        '  fs.writeFileSync(`${root}/a.ts`, "")\n' +
+        "export function one(given: { root: string }): void {\n" +
+        '  fs.writeFileSync(`${given.root}/a.ts`, "")\n' +
         "}\n"
     )
   ).toHaveLength(1)
@@ -82,8 +109,8 @@ test("`Bun.write` is a write too", () => {
   expect(
     only(
       'import { join } from "node:path"\n' +
-        "export async function one(root: string): Promise<void> {\n" +
-        '  await Bun.write(join(root, "a.ts"), "")\n' +
+        "export async function one(given: { root: string }): Promise<void> {\n" +
+        '  await Bun.write(join(given.root, "a.ts"), "")\n' +
         "}\n"
     )
   ).toHaveLength(1)
@@ -94,8 +121,8 @@ test("a rename is judged on the path it leaves", () => {
     only(
       'import { renameSync } from "node:fs"\n' +
         'import { join } from "node:path"\n' +
-        "export function one(root: string): void {\n" +
-        '  renameSync(join(root, "a.ts"), "/elsewhere/a.ts")\n' +
+        "export function one(given: { root: string }): void {\n" +
+        '  renameSync(join(given.root, "a.ts"), "/elsewhere/a.ts")\n' +
         "}\n"
     )
   ).toHaveLength(1)
@@ -106,8 +133,8 @@ test("the path a copy reads is no destination", () => {
     only(
       'import { copyFileSync } from "node:fs"\n' +
         'import { join } from "node:path"\n' +
-        "export function one(root: string): void {\n" +
-        '  copyFileSync(join(root, "a.ts"), "/elsewhere/a.ts")\n' +
+        "export function one(given: { root: string }): void {\n" +
+        '  copyFileSync(join(given.root, "a.ts"), "/elsewhere/a.ts")\n' +
         "}\n"
     )
   ).toEqual([])
@@ -122,9 +149,9 @@ test("each write is named on its own", () => {
     only(
       'import { writeFileSync } from "node:fs"\n' +
         'import { join } from "node:path"\n' +
-        "export function one(root: string): void {\n" +
-        '  writeFileSync(join(root, "a.ts"), "")\n' +
-        '  writeFileSync(join(root, "b.tsx"), "")\n' +
+        "export function one(given: { root: string }): void {\n" +
+        '  writeFileSync(join(given.root, "a.ts"), "")\n' +
+        '  writeFileSync(join(given.root, "b.tsx"), "")\n' +
         "}\n"
     )
   ).toHaveLength(2)
