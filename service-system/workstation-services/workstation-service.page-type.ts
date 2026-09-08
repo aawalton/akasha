@@ -51,7 +51,6 @@ export const workstationService = {
     "workstation-service/rule-population-sweep",
     "workstation-service/send-due-reminders",
     "workstation-service/sweep-page-answers",
-    "workstation-service/ttc-client",
     "module/tick-ratchet",
     "workstation-service/service-watching",
   ],
