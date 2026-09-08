@@ -60,7 +60,7 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
-      statement: "An intent stating no working memory carries no working memory.",
+      statement: "An intent stating no working memory has no working memory.",
     },
     {
       invariantKind: "departure",

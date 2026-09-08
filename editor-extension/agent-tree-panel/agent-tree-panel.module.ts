@@ -30,7 +30,7 @@ export const agentTreePanel = {
 
     {
       invariantKind: "departure",
-      statement: "A row is spelled for the panel from the row the file carries.",
+      statement: "A row is spelled for the panel from the row the file has.",
     },
     {
       invariantKind: "departure",

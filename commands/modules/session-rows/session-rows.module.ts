@@ -15,7 +15,7 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carries one open stretch at most.",
+      statement: "A day has one open stretch at most.",
     },
     {
       invariantKind: "departure",
@@ -33,11 +33,11 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
-      statement: "Every fault a day carries is reported rather than the first alone.",
+      statement: "Every fault a day has is reported rather than the first alone.",
     },
     {
       invariantKind: "departure",
-      statement: "A relationship is named by its id or by the title its page carries.",
+      statement: "A relationship is named by its id or by the title its page has.",
     },
     {
       invariantKind: "departure",
@@ -46,13 +46,11 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A title carrying an alias of a relationship tags the stretch with that relationship.",
+      statement: "A title with an alias of a relationship tags the stretch with that relationship.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An alias more than one relationship carries tags the stretch with no relationship.",
+      statement: "An alias more than one relationship has tags the stretch with no relationship.",
     },
     {
       invariantKind: "departure",

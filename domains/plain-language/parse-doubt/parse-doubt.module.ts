@@ -14,7 +14,7 @@ export const parseDoubt = {
     },
     {
       invariantKind: "departure",
-      statement: "A parse whose root carries no subject is doubted.",
+      statement: "A parse whose root has no subject is doubted.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const parseDoubt = {
     },
     {
       invariantKind: "departure",
-      statement: "A parse carrying no doubt is sound.",
+      statement: "A parse with no doubt is sound.",
     },
     {
       invariantKind: "absence",

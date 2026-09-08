@@ -9,11 +9,11 @@ export const agentForestAnswer = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "An answer carrying no rows array is refused as naming no seat at all.",
+      statement: "An answer with no rows array is refused as naming no seat at all.",
     },
     {
       invariantKind: "constraint",
-      statement: "A row carrying no id is refused.",
+      statement: "A row with no id is refused.",
     },
     {
       invariantKind: "constraint",
@@ -25,7 +25,7 @@ export const agentForestAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A row's color is read from the key `color` or the key `colour` that row carries.",
+      statement: "A row's color is read from the key `color` or the key `colour` that row has.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const agentForestAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A row with no page carries null rather than a path composed here.",
+      statement: "A row with no page has null rather than a path composed here.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const agentForestAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer naming no repository carries no subagent page.",
+      statement: "An answer naming no repository has no subagent page.",
     },
     {
       invariantKind: "absence",

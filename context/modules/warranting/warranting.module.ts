@@ -11,7 +11,7 @@ export const warranting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every path a change names is asked for the warrants that path carries.",
+      statement: "Every path a change names is asked for the warrants that path has.",
     },
     {
       invariantKind: "departure",

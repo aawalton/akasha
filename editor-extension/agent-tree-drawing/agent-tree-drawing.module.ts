@@ -22,7 +22,7 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carrying children is badged with the count of children that row carries.",
+      statement: "A row with children is badged with the count of children that row has.",
     },
     {
       invariantKind: "departure",
@@ -38,11 +38,11 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat's row carries the context value its menus are keyed on.",
+      statement: "A seat's row has the context value its menus are keyed on.",
     },
     {
       invariantKind: "departure",
-      statement: "A subagent's row carries `subagent` as its context value.",
+      statement: "A subagent's row has `subagent` as its context value.",
     },
     {
       invariantKind: "departure",

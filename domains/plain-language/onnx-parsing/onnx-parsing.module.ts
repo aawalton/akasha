@@ -61,7 +61,7 @@ export const onnxParsing = {
     },
     {
       invariantKind: "departure",
-      statement: "The cache is keyed by the shape a parse carries as well as by the model.",
+      statement: "The cache is keyed by the shape a parse has as well as by the model.",
     },
     {
       invariantKind: "departure",

@@ -17,7 +17,7 @@ export const wanArguing = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag carrying a value and given no value is refused.",
+      statement: "A flag with a value and given no value is refused.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const wanArguing = {
     },
     {
       invariantKind: "departure",
-      statement: "A default the named act carries fills a flag nothing said.",
+      statement: "A default the named act has fills a flag nothing said.",
     },
     {
       invariantKind: "departure",

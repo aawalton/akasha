@@ -25,7 +25,7 @@ export const agentRow = {
     },
     {
       invariantKind: "departure",
-      statement: "A click carries the seat's id and the seat's name and nothing more.",
+      statement: "A click has the seat's id and the seat's name and nothing more.",
     },
     {
       invariantKind: "absence",

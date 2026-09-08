@@ -25,7 +25,7 @@ export const agentPageOpening = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here composes a path for a row that carries no path.",
+      statement: "Nothing here composes a path for a row that has no path.",
     },
   ],
 } as const satisfies Module

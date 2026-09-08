@@ -25,7 +25,7 @@ export const commandTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row's tooltip leaves out whatever that row does not carry.",
+      statement: "A row's tooltip leaves out whatever that row does not have.",
     },
     {
       invariantKind: "departure",

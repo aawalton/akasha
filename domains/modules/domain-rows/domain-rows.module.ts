@@ -32,7 +32,7 @@ export const domainRows = {
     },
     {
       invariantKind: "departure",
-      statement: "The parts a page names are read off the value the index carries for that page.",
+      statement: "The parts a page names are read off the value the index has for that page.",
     },
     {
       invariantKind: "departure",

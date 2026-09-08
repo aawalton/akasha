@@ -9,7 +9,7 @@ export const agentTreeIds = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The names here are the names the extension manifest carries.",
+      statement: "The names here are the names the extension manifest has.",
     },
     {
       invariantKind: "departure",

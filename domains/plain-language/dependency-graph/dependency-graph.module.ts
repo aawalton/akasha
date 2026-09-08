@@ -17,7 +17,7 @@ export const dependencyGraph = {
     },
     {
       invariantKind: "departure",
-      statement: "A sentence carries one root.",
+      statement: "A sentence has one root.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +45,7 @@ export const dependencyGraph = {
     },
     {
       invariantKind: "departure",
-      statement: "A token built by hand carries no confidence.",
+      statement: "A token built by hand has no confidence.",
     },
   ],
 } as const satisfies Module

@@ -14,7 +14,7 @@ export const wanClipRendering = {
     {
       invariantKind: "departure",
       statement:
-        "Two conditioning images carrying one file name are refused rather than staged over each other.",
+        "Two conditioning images with one file name are refused rather than staged over each other.",
     },
     {
       invariantKind: "departure",

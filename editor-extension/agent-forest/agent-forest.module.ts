@@ -65,7 +65,7 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat name and an id are parted by a byte neither name nor id can carry.",
+      statement: "A seat name and an id are parted by a byte neither name nor id can have.",
     },
     {
       invariantKind: "absence",
