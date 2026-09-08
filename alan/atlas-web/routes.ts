@@ -18,7 +18,7 @@ export default [
   route("api/page-types", "routes/api.page-types.ts"),
   route("api/pages/:pageTypeSlug", "routes/atlas-api-pages/atlas-api-pages.route.code.ts"),
   route("api/page-write", "routes/api.page-write.ts"),
-  route("api/nav-icon/:idSuffix", "routes/api.nav-icon.$idSuffix.ts"),
+  route("api/nav-icon/:idSuffix", "routes/atlas-api-nav-icon/atlas-api-nav-icon.route.code.ts"),
   route("basemap/na-eu.pmtiles", "routes/basemap.na-eu.pmtiles.ts"),
   route("api/places/search", "routes/api.places.search.ts"),
   route("api/places/add", "routes/api.places.add.ts"),
