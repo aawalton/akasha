@@ -16,7 +16,18 @@ export function indexAt(indexName: string, ...parts: readonly string[]): string 
   return join(INDEX_AT, indexName, ...parts)
 }
 
+function linesOf(at: string): readonly string[] {
+  try {
+    return readFileSync(at, "utf8")
+      .split("\n")
+      .filter((one) => one !== "")
+  } catch {
+    return []
+  }
+}
+
 export function readingAt(index: string): Reading {
+  const held = new Map<string, readonly string[]>()
   return {
     holds: (at) => existsSync(join(index, at)),
     listing: (at) => {
@@ -30,13 +41,11 @@ export function readingAt(index: string): Reading {
       }
     },
     lines: (at) => {
-      try {
-        return readFileSync(join(index, at), "utf8")
-          .split("\n")
-          .filter((one) => one !== "")
-      } catch {
-        return []
-      }
+      const found = held.get(at)
+      if (found !== undefined) return found
+      const made = linesOf(join(index, at))
+      held.set(at, made)
+      return made
     },
   }
 }

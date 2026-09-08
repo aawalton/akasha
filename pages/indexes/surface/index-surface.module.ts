@@ -27,6 +27,10 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
+      statement: "An entry file is read once for the life of a reading and held.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reader takes that surface rather than reaching for the disk.",
     },
     {

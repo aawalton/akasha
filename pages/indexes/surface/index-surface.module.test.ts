@@ -48,6 +48,16 @@ test("a directory that is not there lists nothing, and a file that is not there 
   expect(reading.lines("nowhere.jsonl")).toEqual([])
 })
 
+test("an entry file is read once for the life of a reading and held", () => {
+  const at = seeded()
+  const reading = readingAt(at)
+  expect(reading.lines("identity/page/id/one.jsonl")).toEqual(['{"id":"one"}'])
+  put(at, "identity/page/id/one.jsonl", '{"id":"held"}\n')
+
+  expect(reading.lines("identity/page/id/one.jsonl")).toEqual(['{"id":"one"}'])
+  expect(readingAt(at).lines("identity/page/id/one.jsonl")).toEqual(['{"id":"held"}'])
+})
+
 test("a file the change touches answers its own lines, and every other file answers the index", () => {
   const under = readingAt(seeded())
   const reading = overlaidOn(under, [
