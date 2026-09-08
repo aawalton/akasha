@@ -9,7 +9,6 @@ export const personasCore = {
   partSlugs: [
     "module/desktop-wallpaper-setting",
     "module/wallpaper-order",
-    "module/wallpaper-select",
     "workstation-service/desktop-wallpaper-setting",
   ],
   invariants: [

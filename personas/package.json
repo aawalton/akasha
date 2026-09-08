@@ -5,6 +5,7 @@
   "exports": {
     "./email-address": "./properties/email-address.email-address-property.ts",
     "./image-locator": "./image-locator/image-locator.module.code.ts",
+    "./wallpaper-select": "./wallpaper-select/wallpaper-select.module.code.ts",
     "./wallpaper-install": "./wallpaper-install/wallpaper-install.module.code.ts",
     "./wallpaper-backfill-classify": "./wallpaper-backfill-classify/wallpaper-backfill-classify.module.code.ts",
     "./render-prompt": "./render-prompt/render-prompt.module.code.ts",

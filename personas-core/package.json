@@ -4,8 +4,7 @@
   "type": "module",
   "exports": {
     "./desktop-wallpaper-setting": "./desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts",
-    "./wallpaper-order": "./wallpaper-order/wallpaper-order.module.code.ts",
-    "./wallpaper-select": "./wallpaper-select/wallpaper-select.module.code.ts"
+    "./wallpaper-order": "./wallpaper-order/wallpaper-order.module.code.ts"
   },
   "dependencies": {
     "@akasha/indexes": "workspace:*",
