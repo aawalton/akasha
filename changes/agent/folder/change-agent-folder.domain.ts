@@ -8,7 +8,6 @@ export const changeAgentFolder = {
   partSlugs: [
     "change-agent/move-folder",
     "change-agent/move-folder-package",
-    "change-agent/remove-page-type",
     "change-agent/move-folder-batch",
     "change-agent/nest-commands",
   ],
