@@ -1,6 +1,6 @@
 import { resolve } from "node:path"
-import { landedMechanically } from "@akasha/command-system/asking"
-import type { FileEdit } from "@akasha/command-system/landing"
+import type { Asking } from "@akasha/changes/mechanical-change-running"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { dropReadings } from "@akasha/command-system/reading"
 import { createSubagentReader, type SubagentNode } from "@akasha/editor-extension/subagent-reading"
 import { scanProcEntries } from "@akasha/seat-system/proc-scan"
@@ -17,34 +17,21 @@ import {
 import { transcriptOf } from "../../../seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { type Answer, answering, type Given } from "../../calling/calling.module.code.ts"
 
-// A CENSUS BY DEFAULT, BECAUSE THE WRONG REMOVAL IS THE HARM. A subagent's page is the restart
-// interlock, so taking away the page of a subagent that is at work tells `sr` the seat is idle and
-// it restarts under a live agent. A run therefore says what it found and writes nothing, and a
-// person reads that census before a second run is told to act on it.
-//
-// WHAT GOES IS WHAT THE CENSUS CALLED STALE, which is evidence rather than age. A page judged
-// working or undetermined is never removed however the run was called.
-//
-// WHAT WAS READ OFF /proc AND OUT OF THE LOGS IS A PARAMETER, so a test seeds a live process and
-// watches the page it answers for kept, which is the one failure this command must never make.
-//
-// THE TRANSCRIPTS ARE READ HERE, FOR LIFE AND FOR AN END. An acting agent id names a subagent mid
-// tool call alone, so a subagent waiting on the model looks the same as one the model reaped, and
-// most of the fleet reads undetermined. A seat's transcript tells the two apart: it names every
-// subagent launched that has not returned, and it names every subagent it saw start and then
-// finish. Both readings rest on one fact, which is that a transcript learns an agent id from the
-// launch receipt. A compacted or truncated transcript therefore names a running subagent with no id
-// at all, which joins to no page, and it has no id to end either. Each reading costs an id rather
-// than inventing one. What is never read is the absence of a running entry, which a truncated
-// transcript and a finished subagent produce alike. So a transcript that will not open, a seat
-// naming none, and a reading that throws are each worth exactly nothing here rather than worth a
-// removal.
-
 const REMOVE = "--remove"
 
 const CALLED_AS = "akasha subagent sweep"
 
+export const TAKE = "change-mechanical-file/remove-file"
+
+const WRONG = 3
+
 export type Read = { readonly removing: boolean } | { readonly refused: string }
+
+export type Landing = (
+  root: string,
+  changes: readonly Asking[],
+  message: string
+) => ReturnType<typeof runMechanicalChange>
 
 export interface SeatTranscripts {
   readonly forSeat: (agentId: string, transcriptPath: string) => Promise<readonly SubagentNode[]>
@@ -78,8 +65,6 @@ export function namedIn(argv: readonly string[]): Read {
   return { removing }
 }
 
-// AN ENTRY NAMING NO AGENT ID IS DROPPED RATHER THAN CARRIED AS AN EMPTY NAME, so nothing
-// downstream has to tell an unnamed subagent from a page that states no id of its own.
 function ownIdsInto(held: Set<string>, nodes: readonly SubagentNode[]): undefined {
   for (const node of nodes) {
     if (node.agentId !== null && node.agentId !== "") held.add(node.agentId)
@@ -88,9 +73,6 @@ function ownIdsInto(held: Set<string>, nodes: readonly SubagentNode[]): undefine
   return undefined
 }
 
-// ONE SEAT'S FAILURE COSTS THAT SEAT ALONE. Each seat is asked apart from the others and a throw
-// leaves the ids gathered so far, because a reading that answers for fewer subagents than there are
-// leaves pages undetermined, and undetermined pages are never removed.
 export async function runningOwnIn(
   pages: readonly SubagentPage[],
   reading: SeatTranscripts,
@@ -110,18 +92,12 @@ export async function runningOwnIn(
     try {
       ownIdsInto(running, await reading.forSeat(seat, named))
     } catch {}
-    // ONE SEAT'S END READING IS ITS OWN TRY. A seat whose running reading threw may still answer
-    // for its ended ids, and a seat whose ended reading throws keeps the running ids already
-    // gathered. Neither failure reaches the other seat or the other reading.
     try {
       for (const one of await reading.endedForSeat(seat, named)) {
         if (one !== "") ended.add(one)
       }
     } catch {}
   }
-  // AN ID BOTH READINGS NAME IS RUNNING. The census asks life before it asks an end, so this would
-  // settle the same way without the line; it is here because a set answered from this function
-  // should mean what its name says on its own.
   for (const one of running) ended.delete(one)
   return { running, ended }
 }
@@ -150,10 +126,14 @@ export function messageOf(stale: readonly Judged[]): string {
   ].join("\n")
 }
 
-async function taking(root: string, stale: readonly Judged[]): Promise<Answer> {
-  const changes: readonly FileEdit[] = stale.map((one) => ({ path: one.page.path, body: null }))
-  const gone = await landedMechanically(root, CALLED_AS, changes, messageOf(stale))
-  if (gone.code !== 0) return gone
+async function taking(root: string, stale: readonly Judged[], landing: Landing): Promise<Answer> {
+  const changes: readonly Asking[] = stale.map((one) => ({
+    at: TAKE,
+    given: { at: one.page.path },
+  }))
+  const landed = await landing(root, changes, messageOf(stale))
+  if ("refusals" in landed) return answering([], landed.refusals, WRONG)
+  if (landed.wrong.length > 0) return answering([], landed.wrong, WRONG)
   dropReadings(
     root,
     stale.map((one) => one.page.path)
@@ -170,7 +150,8 @@ export async function subagentSweep(
   given: Given,
   entries: readonly ProcLivenessEntry[] = scanProcEntries().entries,
   baseDir?: string,
-  said: RunningSaid = transcriptsSay
+  said: RunningSaid = transcriptsSay,
+  landing: Landing = runMechanicalChange
 ): Promise<Answer> {
   const read = namedIn(argv)
   if ("refused" in read) return answering([], [read.refused], 1)
@@ -189,7 +170,7 @@ export async function subagentSweep(
   if (stale.length === 0) {
     return answering([...census, "", "no page was judged STALE, so nothing went"], [], 0)
   }
-  const gone = await taking(root, stale)
+  const gone = await taking(root, stale, landing)
   if (gone.code !== 0) return answering([...census, ""], [...gone.refusals], gone.code)
   return answering([...census, "", ...gone.report], [], 0)
 }

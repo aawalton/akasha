@@ -1,13 +1,15 @@
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Asking } from "@akasha/changes/mechanical-change-running"
+import type { Applied } from "@akasha/command-system/applying"
+import type { Refused } from "@akasha/command-system/landing"
 import { writing } from "@akasha/command-system/scratching/testing"
 import type { SubagentNode } from "@akasha/editor-extension/subagent-reading"
 import { said as gitIn } from "@akasha/git/git-running"
 import { rebuiltIn } from "@akasha/indexes/testing"
-import type { ProcLivenessEntry } from "@akasha/seat-system/seat-proc-liveness"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import type { Given } from "../../calling/calling.module.code.ts"
-import type { RunningSaid, SeatTranscripts } from "./subagent-sweep.command.code.ts"
+import type { Landing, RunningSaid, SeatTranscripts } from "./subagent-sweep.command.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
@@ -28,6 +30,19 @@ const TREE = "akasha"
 const IMPORTED_AT = `${TREE}/held.ts`
 
 const IMPORTING_AT = `${TREE}/holding.ts`
+
+const BASE = "0000000000000000000000000000000000000000"
+
+const COMMIT = "1111111111111111111111111111111111111111"
+
+const LANDED: Applied = {
+  base: BASE,
+  landed: [],
+  formatted: [],
+  said: [],
+  wrong: [],
+  commit: COMMIT,
+}
 
 export function agentIdOf(seatId: string, own: string): string {
   return `${seatId}--${own}`
@@ -82,8 +97,24 @@ export function takeLine(seatName: string, own: string): string {
   return `subagent-presence: take ${seatName} ${own} — another landing held the lock`
 }
 
-export function entry(over: Partial<ProcLivenessEntry> & { agentId: string }): ProcLivenessEntry {
-  return { cmdline: CHILD, pid: 1, ...over }
+export interface Landings {
+  readonly landing: Landing
+  readonly asked: () => readonly (readonly Asking[])[]
+  readonly said: () => readonly string[]
+}
+
+export function landings(answer: Applied | Refused = LANDED): Landings {
+  const asked: (readonly Asking[])[] = []
+  const said: string[] = []
+  return {
+    landing: (_root, changes, message) => {
+      asked.push(changes)
+      said.push(message)
+      return Promise.resolve(answer)
+    },
+    asked: () => asked,
+    said: () => said,
+  }
 }
 
 export function givenIn(root: string): Given {
@@ -94,8 +125,6 @@ export function there(root: string, at: string): boolean {
   return existsSync(join(root, at))
 }
 
-// A ROW AS A TRANSCRIPT LEAVES ONE. The id is the launch receipt's, so `null` is the row a
-// compacted or truncated transcript leaves, which is the shape the census must be inert to.
 export function node(agentId: string | null, children: readonly SubagentNode[] = []): SubagentNode {
   return { key: `tool-${agentId ?? "unnamed"}`, label: "Explore", agentId, children }
 }
@@ -115,8 +144,6 @@ export const UNREADABLE: SeatTranscripts = {
   endedForSeat: () => Promise.reject(new Error("EACCES: permission denied")),
 }
 
-// A SEAT WHOSE RUNNING READING THROWS AND WHOSE ENDED READING ANSWERS. The two
-// are asked apart, so a test can seed one failing and watch the other stand.
 export function halfReading(ended: Readonly<Record<string, readonly string[]>>): SeatTranscripts {
   return {
     forSeat: () => Promise.reject(new Error("EACCES: permission denied")),

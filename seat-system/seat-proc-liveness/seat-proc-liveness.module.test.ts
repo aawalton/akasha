@@ -10,8 +10,8 @@ import {
   liveAgentPidsFromProc,
   liveClaudeChildIdsFromProc,
   liveSupervisorIdsFromProc,
-  type ProcLivenessEntry,
 } from "./seat-proc-liveness.module.code.ts"
+import { entry } from "./seat-proc-liveness.module.test-fixtures.ts"
 
 const ONE = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f7"
 const TWO = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f8"
@@ -21,10 +21,6 @@ const ACTING = `${ONE}--a38f63805f9b94edf`
 const CHILD = "claude --dangerously-skip-permissions --model opus"
 const SUPERVISOR = "/usr/bin/bun tools/lib/supervisor.ts --seat one"
 const TASK = "rg --json needle ."
-
-function entry(over: Partial<ProcLivenessEntry> & { agentId: string }): ProcLivenessEntry {
-  return { cmdline: CHILD, pid: 1, ...over }
-}
 
 test("a Claude child is read off its skip-permissions flag", () => {
   expect(isClaudeChildCmdline(CHILD)).toBe(true)

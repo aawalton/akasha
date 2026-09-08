@@ -7,6 +7,7 @@ export const seatProcLiveness = {
   definition: "which agents are alive, read from the command lines of the processes standing",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

@@ -33,6 +33,14 @@ export const subagentSweep = {
         "A page goes only where the run was told to remove and the census judged that page stale.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page taken away goes through the change removing a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The landing a stale page goes through is handed in.",
+    },
+    {
       invariantKind: "absence",
       statement: "No page judged working or undetermined is ever removed.",
     },
@@ -53,6 +61,15 @@ export const subagentSweep = {
       statement: "Each seat's transcript is read for the subagents that seat has not seen return.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A transcript entry naming no agent id is dropped rather than carried as an empty name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An id both readings name is running rather than ended.",
+    },
+    {
       invariantKind: "absence",
       statement: "No transcript reading makes a page removable.",
     },
@@ -63,6 +80,10 @@ export const subagentSweep = {
     {
       invariantKind: "departure",
       statement: "A seat whose reading throws costs that seat alone rather than the whole run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat's running reading and its ended reading are each their own try.",
     },
     {
       invariantKind: "departure",

@@ -1,7 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { put } from "@akasha/testing-system/putting"
-import type { ProcLivenessEntry } from "../seat-proc-liveness/seat-proc-liveness.module.code.ts"
 import {
   bodyOf,
   LOG_AT,
@@ -29,8 +28,6 @@ export function agentIdOf(seatId: string, own: string): string {
   return `${seatId}--${own}`
 }
 
-// A PAGE PUT WHERE THE CENSUS LOOKS, composed by the module that writes one for real rather than
-// spelled again here, so the census is read against the body a put-up leaves.
 export function pagePut(root: string, seatName: string, own: string, agentId: string): string {
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
@@ -51,8 +48,4 @@ export const STAMPED = "2026-09-05T12:17:44.031-06:00"
 
 export function writeLine(seatName: string, own: string): string {
   return `subagent-presence: write ${seatName} ${own} — ${REFUSED}`
-}
-
-export function entry(over: Partial<ProcLivenessEntry> & { agentId: string }): ProcLivenessEntry {
-  return { cmdline: CHILD, pid: 1, ...over }
 }
