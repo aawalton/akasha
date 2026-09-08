@@ -30,7 +30,7 @@ export const temperSelectorAddon = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A pack holds the add-ons that were on when the pack was saved.",
+      statement: "A pack has the add-ons that were on when the pack was saved.",
     },
     {
       invariantKind: "departure",

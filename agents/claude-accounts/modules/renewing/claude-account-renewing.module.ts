@@ -42,11 +42,11 @@ export const claudeAccountRenewing = {
     },
     {
       invariantKind: "departure",
-      statement: "A pair the page already holds counts as written back.",
+      statement: "A pair the page already has counts as written back.",
     },
     {
       invariantKind: "departure",
-      statement: "A pair the page holds a fresher pair than counts as written back.",
+      statement: "A pair the page has a fresher pair than counts as written back.",
     },
     {
       invariantKind: "departure",

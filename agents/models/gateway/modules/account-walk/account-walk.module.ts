@@ -11,11 +11,11 @@ export const accountWalk = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A pool holding no account is answered empty with the trail `-`.",
+      statement: "A pool with no account is answered empty with the trail `-`.",
     },
     {
       invariantKind: "departure",
-      statement: "A pool holding no account is forwarded nowhere.",
+      statement: "A pool with no account is forwarded nowhere.",
     },
     {
       invariantKind: "departure",

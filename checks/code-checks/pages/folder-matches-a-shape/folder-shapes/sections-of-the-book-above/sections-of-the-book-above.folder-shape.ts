@@ -4,7 +4,7 @@ export const sectionsOfTheBookAbove = {
   id: "01a06d79-1d8e-7531-86b1-1116c2aff36f",
   pageTypeSlug: "folder-shape",
   slug: "sections-of-the-book-above",
-  definition: "the shape of a folder named sections holding the sections of the book above it",
+  definition: "the shape of a folder named sections with the sections of the book above it",
   code: "ts",
   test: "ts",
   enabled: true,
@@ -15,7 +15,7 @@ export const sectionsOfTheBookAbove = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder above holds one book Alan writes.",
+      statement: "The folder above has one book Alan writes.",
     },
     {
       invariantKind: "departure",
@@ -33,15 +33,15 @@ export const sectionsOfTheBookAbove = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder inside holds the sections one section of this book is made of.",
+      statement: "A folder inside has the sections one section of this book is made of.",
     },
     {
       invariantKind: "departure",
-      statement: "The folder holds no file that is neither a section nor a file beside a section.",
+      statement: "The folder has no file that is neither a section nor a file beside a section.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder named `sections` holding no section is refused.",
+      statement: "A folder named `sections` with no section is refused.",
     },
     {
       invariantKind: "gap",

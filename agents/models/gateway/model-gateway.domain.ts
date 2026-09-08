@@ -59,7 +59,7 @@ export const modelGateway = {
     },
     {
       invariantKind: "departure",
-      statement: "A gateway holds the credentials the seat never sees.",
+      statement: "A gateway has the credentials the seat never sees.",
     },
     {
       invariantKind: "departure",

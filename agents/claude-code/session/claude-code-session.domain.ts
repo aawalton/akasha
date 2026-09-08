@@ -34,7 +34,7 @@ export const claudeCodeSession = {
     },
     {
       invariantKind: "departure",
-      statement: "That new file holds only the lines written after the move.",
+      statement: "That new file has only the lines written after the move.",
     },
   ],
 } as const satisfies Domain

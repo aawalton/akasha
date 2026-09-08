@@ -15,7 +15,7 @@ export const accountUpkeepRunning = {
     {
       invariantKind: "departure",
       statement:
-        "Everything else that holds a credential reads the credential rather than making a credential.",
+        "Everything else that has a credential reads the credential rather than making a credential.",
     },
     {
       invariantKind: "departure",

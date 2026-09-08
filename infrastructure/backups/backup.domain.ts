@@ -4,7 +4,7 @@ export const backup = {
   id: "01a0658b-0f02-7c83-b788-fe3d8bce0c2b",
   pageTypeSlug: "domain",
   slug: "backup",
-  definition: "a copy of what a store holds, kept apart from that store",
+  definition: "a copy of what a store has, kept apart from that store",
   pluralSlug: "backups",
   partSlugs: ["workspace-package/backup-retention"],
   invariants: [

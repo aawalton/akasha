@@ -10,7 +10,7 @@ export const claudeAccountRefreshing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every account holding a page is reached in turn.",
+      statement: "Every account with a page is reached in turn.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const claudeAccountRefreshing = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes a value the commit holds.",
+      statement: "Nothing here writes a value the commit has.",
     },
   ],
 } as const satisfies Module

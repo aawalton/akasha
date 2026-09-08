@@ -4,14 +4,14 @@ export const aDomainWithItsParts = {
   id: "01a0626e-045b-72ad-a6c9-9d13fba7fbda",
   pageTypeSlug: "folder-shape",
   slug: "a-domain-with-its-parts",
-  definition: "the shape of a folder holding one domain, its modules and the parts it declares",
+  definition: "the shape of a folder with one domain, its modules and the parts it declares",
   code: "ts",
   test: "ts",
   enabled: true,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The folder holds one page.",
+      statement: "The folder has one page.",
     },
     {
       invariantKind: "departure",
@@ -35,12 +35,12 @@ export const aDomainWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "A subfolder holding a page the domain declares a part is a part too.",
+      statement: "A subfolder with a page the domain declares a part is a part too.",
     },
 
     {
       invariantKind: "departure",
-      statement: "A subfolder holding no page the domain declares is refused.",
+      statement: "A subfolder with no page the domain declares is refused.",
     },
   ],
 } as const satisfies FolderShape

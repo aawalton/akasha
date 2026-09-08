@@ -5,7 +5,7 @@ export const propertiesOfTheTypeAbove = {
   pageTypeSlug: "folder-shape",
   slug: "properties-of-the-type-above",
   definition:
-    "the shape of a folder named properties holding the properties the page type above it declares",
+    "the shape of a folder named properties with the properties the page type above it declares",
   code: "ts",
   test: "ts",
   enabled: true,
@@ -17,7 +17,7 @@ export const propertiesOfTheTypeAbove = {
     {
       invariantKind: "departure",
       statement:
-        "The folder above holds one page type and that page type declares the properties belonging here.",
+        "The folder above has one page type and that page type declares the properties belonging here.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const propertiesOfTheTypeAbove = {
     },
     {
       invariantKind: "departure",
-      statement: "A property page carrying code holds that code beside itself rather than apart.",
+      statement: "A property page carrying code has that code beside itself rather than apart.",
     },
     {
       invariantKind: "departure",

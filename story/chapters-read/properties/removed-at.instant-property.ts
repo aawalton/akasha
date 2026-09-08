@@ -12,7 +12,7 @@ export const removedAt = {
     {
       invariantKind: "departure",
       statement:
-        "The pages akasha holds of a collection are kept after the source takes the collection down.",
+        "The pages akasha has of a collection are kept after the source takes the collection down.",
     },
   ],
 } as const satisfies InstantProperty

@@ -19,7 +19,7 @@ export const indexValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A file holds one line for each page of its page type.",
+      statement: "A file has one line for each page of its page type.",
     },
     {
       invariantKind: "departure",

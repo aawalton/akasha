@@ -25,7 +25,7 @@ export const secret = {
     },
     {
       invariantKind: "constraint",
-      statement: "A secret's name and shape are readable to anyone holding the repository.",
+      statement: "A secret's name and shape are readable to anyone with the repository.",
     },
     {
       invariantKind: "departure",

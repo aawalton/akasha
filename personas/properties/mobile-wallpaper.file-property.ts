@@ -28,7 +28,7 @@ export const mobileWallpaper = {
     {
       invariantKind: "stopgap",
       statement:
-        "A mobile wallpaper holds a persona's cover picture until a picture is drawn for a phone.",
+        "A mobile wallpaper has a persona's cover picture until a picture is drawn for a phone.",
     },
   ],
 } as const satisfies FileProperty

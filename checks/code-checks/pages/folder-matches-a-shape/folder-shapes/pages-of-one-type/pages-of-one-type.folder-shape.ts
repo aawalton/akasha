@@ -4,7 +4,7 @@ export const pagesOfOneType = {
   id: "01a04e33-f281-74c8-b82a-e4d314424e1d",
   pageTypeSlug: "folder-shape",
   slug: "pages-of-one-type",
-  definition: "the shape of a folder holding pages of one page type and nothing else",
+  definition: "the shape of a folder with pages of one page type and nothing else",
   code: "ts",
   test: "ts",
   enabled: false,

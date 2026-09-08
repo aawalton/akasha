@@ -43,7 +43,7 @@ export const temperLibMapPins = {
     },
     {
       invariantKind: "departure",
-      statement: "The gamepad filter list is rebuilt from the entries this library holds.",
+      statement: "The gamepad filter list is rebuilt from the entries this library has.",
     },
     {
       invariantKind: "constraint",

@@ -30,7 +30,7 @@ export const cluster = {
     {
       invariantKind: "departure",
       statement:
-        "A module more than one service reaches sits under the domain holding those services.",
+        "A module more than one service reaches sits under the domain with those services.",
     },
   ],
 } as const satisfies Domain

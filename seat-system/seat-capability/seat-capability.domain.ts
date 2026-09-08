@@ -12,7 +12,7 @@ export const seatCapability = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat writes by changing the content a repository holds.",
+      statement: "A seat writes by changing the content a repository has.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const seatCapability = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat states by changing the attributes the seat holds about itself.",
+      statement: "A seat states by changing the attributes the seat has about itself.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const seatCapability = {
     {
       invariantKind: "departure",
       statement:
-        "A read names a required document whether or not the record already holds that document.",
+        "A read names a required document whether or not the record already has that document.",
     },
     {
       invariantKind: "departure",

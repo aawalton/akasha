@@ -4,8 +4,7 @@ export const scriptsOnly = {
   id: "01a063e4-5f38-7000-a16b-d956278882ec",
   pageTypeSlug: "folder-shape",
   slug: "scripts-only",
-  definition:
-    "the shape of a folder named scripts holding a folder for each script and nothing else",
+  definition: "the shape of a folder named scripts with a folder for each script and nothing else",
   code: "ts",
   test: "ts",
   enabled: true,
@@ -24,19 +23,19 @@ export const scriptsOnly = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding any file of its own is refused.",
+      statement: "A folder with any file of its own is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "Every subfolder holds a page of the `shell-script` page type.",
+      statement: "Every subfolder has a page of the `shell-script` page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A subfolder holding any other page is refused.",
+      statement: "A subfolder with any other page is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A subfolder holding no page is refused too.",
+      statement: "A subfolder with no page is refused too.",
     },
     {
       invariantKind: "absence",

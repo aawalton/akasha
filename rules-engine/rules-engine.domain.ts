@@ -77,7 +77,7 @@ export const rulesEngine = {
     },
     {
       invariantKind: "departure",
-      statement: "A match holding no conditions matches everything.",
+      statement: "A match with no conditions matches everything.",
     },
     {
       invariantKind: "departure",
@@ -144,7 +144,7 @@ export const rulesEngine = {
     },
     {
       invariantKind: "departure",
-      statement: "A case the rule set holds no value of is a case the proof decides.",
+      statement: "A case the rule set has no value of is a case the proof decides.",
     },
     {
       invariantKind: "departure",

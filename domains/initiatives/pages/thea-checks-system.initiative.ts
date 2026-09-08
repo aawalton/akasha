@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
-        "Cluster-checks 32 down to 8, seven ported, seventeen ablated. Every port is a code-check or a syntax rule reading the file rather than a path: check-reaches-a-path-through-the-index, no-spacing-literal and no-void-self-in-constructor are on at patch, no-unparsed-boundary-read is dark at 447 refusals. A dead check still holds live knowledge: this-void-self-drop could not run and was right about two constructors. syntax-bundle has three scanners left. No home for shell rules.",
+        "Cluster-checks 32 down to 8, seven ported, seventeen ablated. Every port is a code-check or a syntax rule reading the file rather than a path: check-reaches-a-path-through-the-index, no-spacing-literal and no-void-self-in-constructor are on at patch, no-unparsed-boundary-read is dark at 447 refusals. A dead check still has live knowledge: this-void-self-drop could not run and was right about two constructors. syntax-bundle has three scanners left. No home for shell rules.",
     },
     { statement: "The old system carries no check of its own." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
@@ -18,7 +18,7 @@ export const theaChecksSystem = {
     {
       statement: "Every page property is in a properties folder for the page type defining it.",
       workingMemory:
-        "Found while making the parts a spanning tree: the folder holding a property's file and the page type introducing that property disagree in real cases. `category-slug` sits under `monarch-months` while `category-rule` introduces the property; `effect-type` and `metric-id` sit under `temper-catalog-things` while `temper-companion-trait` introduces both. `introduced-property-is-a-part` judges the declaration and says outright that the folder is not judged. No check judges the folder.",
+        "Found while making the parts a spanning tree: the folder with a property's file and the page type introducing that property disagree in real cases. `category-slug` sits under `monarch-months` while `category-rule` introduces the property; `effect-type` and `metric-id` sit under `temper-catalog-things` while `temper-companion-trait` introduces both. `introduced-property-is-a-part` judges the declaration and says outright that the folder is not judged. No check judges the folder.",
     },
     {
       statement: "Every check is cheap enough for audit.",
@@ -38,7 +38,7 @@ export const theaChecksSystem = {
     {
       statement: "Every runtime helper the Lua compiler carries is a page.",
       workingMemory:
-        "lualib/src holds 51 files against 115, lualibs 88 pages, 135 features, suite 50 of 50. lua50-code is proven on sparse-array-spread, the one page holding both code files: the 5.0 bundle emits the Unpack body and the other eight table.unpack. Left are 12 plain moves, 25 whose own import is repointed, 8 non-leaves, 4 twins. Prove a move by hashing the removed source against the added code file in the commit, then nine-target byte-identity, then /var/tmp/imip/thea-behaviour.lua.",
+        "lualib/src has 51 files against 115, lualibs 88 pages, 135 features, suite 50 of 50. lua50-code is proven on sparse-array-spread, the one page holding both code files: the 5.0 bundle emits the Unpack body and the other eight table.unpack. Left are 12 plain moves, 25 whose own import is repointed, 8 non-leaves, 4 twins. Prove a move by hashing the removed source against the added code file in the commit, then nine-target byte-identity, then /var/tmp/imip/thea-behaviour.lua.",
     },
     {
       statement: "Every property file has the page whose property that file is.",
@@ -54,7 +54,7 @@ export const theaChecksSystem = {
       statement:
         "Every checksum annotation a workload carries derives from a secret its page names.",
       workingMemory:
-        "12 manifest modules write a placeholder checksum annotation and 9 workflow templates sed it back, 7 of the 11 sed sites naming infra/k8s/src, a tree holding no tracked file. 92 secret pages state placements of resource and key; 52 cluster-service pages state namespace, resource kind and resource name. The missing edge is which secrets a workload reads. Given it, the annotation and the hash both derive, the deploy patches the workload rather than sedding a path, and the check goes.",
+        "12 manifest modules write a placeholder checksum annotation and 9 workflow templates sed it back, 7 of the 11 sed sites naming infra/k8s/src, a tree with no tracked file. 92 secret pages state placements of resource and key; 52 cluster-service pages state namespace, resource kind and resource name. The missing edge is which secrets a workload reads. Given it, the annotation and the hash both derive, the deploy patches the workload rather than sedding a path, and the check goes.",
     },
     {
       statement: "Every env key a client bundle reads is marked for vite rather than for Next.",

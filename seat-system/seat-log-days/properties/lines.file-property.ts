@@ -24,7 +24,7 @@ export const lines = {
     {
       invariantKind: "departure",
       statement:
-        "Lines past the most bytes one file may hold roll into a numbered part beside that file.",
+        "Lines past the most bytes one file may have roll into a numbered part beside that file.",
     },
     {
       invariantKind: "departure",

@@ -30,7 +30,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "The rules a player automates are pages rather than one JSON blob.",
       workingMemory:
-        "All 82 are pages under temper-inventory-rule, and the browser and the watcher read them there. What the pages carry matches the blob's 82 exactly: same ids, same order, same fingerprints, same sell block. The browser writes a changed rule as a page, takes away the page no rule wants, and writes nothing to the blob. The watcher exported 82 rules into 90,683 bytes of Lua, against 216 for an account holding none. Left: the CLI, which wants @akasha/pages-access, and the 82 still in the blob.",
+        "All 82 are pages under temper-inventory-rule, and the browser and the watcher read them there. What the pages carry matches the blob's 82 exactly: same ids, same order, same fingerprints, same sell block. The browser writes a changed rule as a page, takes away the page no rule wants, and writes nothing to the blob. The watcher exported 82 rules into 90,683 bytes of Lua, against 216 for an account with none. Left: the CLI, which wants @akasha/pages-access, and the 82 still in the blob.",
     },
   ],
   constraints: [

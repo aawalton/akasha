@@ -4,7 +4,7 @@ export const propertyPagesOnly = {
   id: "01a04e70-3e92-796f-b5e9-ce47ee249c71",
   pageTypeSlug: "folder-shape",
   slug: "property-pages-only",
-  definition: "the shape of a folder holding property pages and nothing else",
+  definition: "the shape of a folder with property pages and nothing else",
   code: "ts",
   test: "ts",
   enabled: true,
@@ -15,11 +15,11 @@ export const propertyPagesOnly = {
     },
     {
       invariantKind: "departure",
-      statement: "The name is judged before the files the folder holds are judged.",
+      statement: "The name is judged before the files the folder has are judged.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding no file of its own takes the shape under that name.",
+      statement: "A folder with no file of its own takes the shape under that name.",
     },
     {
       invariantKind: "departure",

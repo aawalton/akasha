@@ -40,7 +40,7 @@ export const temperLibSavedVars = {
     },
     {
       invariantKind: "departure",
-      statement: "The account-wide scope and the character scope hold the same setting names.",
+      statement: "The account-wide scope and the character scope have the same setting names.",
     },
     {
       invariantKind: "departure",

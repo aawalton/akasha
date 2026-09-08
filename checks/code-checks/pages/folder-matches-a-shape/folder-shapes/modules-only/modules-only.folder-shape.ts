@@ -4,8 +4,7 @@ export const modulesOnly = {
   id: "01a05f26-edf0-76fc-b2f1-9351eb172aee",
   pageTypeSlug: "folder-shape",
   slug: "modules-only",
-  definition:
-    "the shape of a folder named modules holding the module folders the page above declares",
+  definition: "the shape of a folder named modules with the module folders the page above declares",
   code: "ts",
   test: "ts",
   enabled: true,
@@ -24,11 +23,11 @@ export const modulesOnly = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding any file of its own is refused.",
+      statement: "A folder with any file of its own is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "Every subfolder holds a module.",
+      statement: "Every subfolder has a module.",
     },
     {
       invariantKind: "departure",

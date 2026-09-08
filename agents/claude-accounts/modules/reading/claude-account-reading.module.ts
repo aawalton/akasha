@@ -4,7 +4,7 @@ export const claudeAccountReading = {
   id: "01a0632e-9847-7000-b57a-2eb827483f2f",
   pageTypeSlug: "module",
   slug: "claude-account-reading",
-  definition: "what a claude-account holds",
+  definition: "what a claude-account has",
   code: "ts",
   test: "ts",
   invariants: [

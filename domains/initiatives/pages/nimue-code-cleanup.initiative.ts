@@ -10,7 +10,7 @@ export const nimueCodeCleanup = {
     {
       statement: "All code-system files are in the code/ folder.",
       workingMemory:
-        "381 files are under `code-system`, and 2,635 bodies outside reach in by relative path, 1,723 of them naming `modules/module.page-type.ts`. `code/` is free: the domain `code` was absorbed into the package. `move-folder-package` is the change this waits on. `move-page` carries one page, and `rename-page` leaves a package's folder alone because that folder holds files not named for its page. Its mechanicals are all there; it waits on `treeUnder` gathering the right files.",
+        "381 files are under `code-system`, and 2,635 bodies outside reach in by relative path, 1,723 of them naming `modules/module.page-type.ts`. `code/` is free: the domain `code` was absorbed into the package. `move-folder-package` is the change this waits on. `move-page` carries one page, and `rename-page` leaves a package's folder alone because that folder has files not named for its page. Its mechanicals are all there; it waits on `treeUnder` gathering the right files.",
     },
     {
       statement: "The code folder tree passes the folder-matches-a-shape check.",
@@ -20,7 +20,7 @@ export const nimueCodeCleanup = {
     {
       statement: "Every folder a build writes is declared as a build folder property.",
       workingMemory:
-        "Declared so far: `www` on an ios app, `.react-router`, `dist` and `build` on a router app, `generated` on a manifest, `__pycache__` on a python module, `node_modules` on the workspace. What is left is `temper/addons`, which holds a `dist` and sits under no page, and `alan/web/generated`, which nothing writes any more and wants deleting.",
+        "Declared so far: `www` on an ios app, `.react-router`, `dist` and `build` on a router app, `generated` on a manifest, `__pycache__` on a python module, `node_modules` on the workspace. What is left is `temper/addons`, which has a `dist` and sits under no page, and `alan/web/generated`, which nothing writes any more and wants deleting.",
     },
     {
       statement: "The check asking which page claims a file reads the build folder property.",

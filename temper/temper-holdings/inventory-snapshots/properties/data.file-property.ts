@@ -15,7 +15,7 @@ export const data = {
     },
     {
       invariantKind: "departure",
-      statement: "A data file holds one whole JSON document rather than a piece of a document.",
+      statement: "A data file has one whole JSON document rather than a piece of a document.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const data = {
     },
     {
       invariantKind: "stopgap",
-      statement: "A data file holds raw bytes that no page has yet been written for.",
+      statement: "A data file has raw bytes that no page has yet been written for.",
     },
     {
       invariantKind: "stopgap",

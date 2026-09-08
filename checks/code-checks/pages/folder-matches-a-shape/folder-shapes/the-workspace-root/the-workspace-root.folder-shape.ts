@@ -27,7 +27,7 @@ export const theWorkspaceRoot = {
     },
     {
       invariantKind: "stopgap",
-      statement: "The folders the root may hold are named one at a time rather than by a rule.",
+      statement: "The folders the root may have are named one at a time rather than by a rule.",
     },
     {
       invariantKind: "gap",

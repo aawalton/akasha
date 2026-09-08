@@ -50,7 +50,7 @@ export const temperLibAsync = {
     },
     {
       invariantKind: "departure",
-      statement: "A task holds a callstack of steps rather than a Lua coroutine.",
+      statement: "A task has a callstack of steps rather than a Lua coroutine.",
     },
     {
       invariantKind: "departure",

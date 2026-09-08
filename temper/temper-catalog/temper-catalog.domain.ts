@@ -4,7 +4,7 @@ export const temperCatalog = {
   id: "01a05fac-7580-7d88-a660-0f4eff1ab95e",
   pageTypeSlug: "domain",
   slug: "temper-catalog",
-  definition: "what The Elder Scrolls Online itself holds, mirrored",
+  definition: "what The Elder Scrolls Online itself has, mirrored",
   pluralSlug: "temper-catalogs",
   partSlugs: [
     "domain/temper-companions",
@@ -18,7 +18,7 @@ export const temperCatalog = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every page here states a thing the game holds for everybody.",
+      statement: "Every page here states a thing the game has for everybody.",
     },
     {
       invariantKind: "departure",

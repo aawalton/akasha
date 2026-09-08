@@ -15,11 +15,11 @@ export const claudeAccountCredentialPush = {
     },
     {
       invariantKind: "departure",
-      statement: "A push merges the pair into the keys the sops file already holds.",
+      statement: "A push merges the pair into the keys the sops file already has.",
     },
     {
       invariantKind: "departure",
-      statement: "A sops file already holding the pair is answered as unchanged.",
+      statement: "A sops file already with the pair is answered as unchanged.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const claudeAccountCredentialPush = {
     },
     {
       invariantKind: "departure",
-      statement: "A token holding a newline is refused.",
+      statement: "A token with a newline is refused.",
     },
     {
       invariantKind: "departure",
@@ -73,11 +73,11 @@ export const claudeAccountCredentialPush = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing that does not carry the pair holds that pair beside the page.",
+      statement: "A landing that does not carry the pair has that pair beside the page.",
     },
     {
       invariantKind: "departure",
-      statement: "A read-back that does not answer the pair holds that pair beside the page.",
+      statement: "A read-back that does not answer the pair has that pair beside the page.",
     },
     {
       invariantKind: "departure",

@@ -10,7 +10,7 @@ export const minimapAnimations = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The document holds an animation timeline and no control.",
+      statement: "The document has an animation timeline and no control.",
     },
 
     {

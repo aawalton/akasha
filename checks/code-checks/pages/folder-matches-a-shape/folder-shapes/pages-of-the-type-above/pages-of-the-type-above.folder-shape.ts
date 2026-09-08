@@ -4,7 +4,7 @@ export const pagesOfTheTypeAbove = {
   id: "01a05f26-edf0-78fe-b79b-4b1b278b55f2",
   pageTypeSlug: "folder-shape",
   slug: "pages-of-the-type-above",
-  definition: "the shape of a folder named pages holding the pages of the page type above it",
+  definition: "the shape of a folder named pages with the pages of the page type above it",
   code: "ts",
   test: "ts",
   enabled: true,
@@ -15,7 +15,7 @@ export const pagesOfTheTypeAbove = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder above holds one page type.",
+      statement: "The folder above has one page type.",
     },
     {
       invariantKind: "departure",
@@ -27,15 +27,15 @@ export const pagesOfTheTypeAbove = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder holds page files alone or page folders alone.",
+      statement: "The folder has page files alone or page folders alone.",
     },
     {
       invariantKind: "departure",
-      statement: "The folder holds no file beside a page file.",
+      statement: "The folder has no file beside a page file.",
     },
     {
       invariantKind: "departure",
-      statement: "Each subfolder holds one page of that page type.",
+      statement: "Each subfolder has one page of that page type.",
     },
     {
       invariantKind: "absence",

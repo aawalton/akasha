@@ -53,7 +53,7 @@ export const rulesEngineField = {
     },
     {
       invariantKind: "departure",
-      statement: "A date field holds a calendar date.",
+      statement: "A date field has a calendar date.",
     },
     {
       invariantKind: "departure",
@@ -69,7 +69,7 @@ export const rulesEngineField = {
     },
     {
       invariantKind: "departure",
-      statement: "An enum field holds a value from a set the rule set names.",
+      statement: "An enum field has a value from a set the rule set names.",
     },
     {
       invariantKind: "departure",
@@ -85,7 +85,7 @@ export const rulesEngineField = {
     },
     {
       invariantKind: "departure",
-      statement: "A list field holds many values at once.",
+      statement: "A list field has many values at once.",
     },
     {
       invariantKind: "departure",
@@ -101,11 +101,11 @@ export const rulesEngineField = {
     },
     {
       invariantKind: "departure",
-      statement: "A list names the type the list's members hold.",
+      statement: "A list names the type the list's members have.",
     },
     {
       invariantKind: "departure",
-      statement: "A number field holds a count or an amount.",
+      statement: "A number field has a count or an amount.",
     },
     {
       invariantKind: "departure",
@@ -117,7 +117,7 @@ export const rulesEngineField = {
     },
     {
       invariantKind: "departure",
-      statement: "A text field holds a run of characters.",
+      statement: "A text field has a run of characters.",
     },
     {
       invariantKind: "departure",
@@ -161,7 +161,7 @@ export const rulesEngineField = {
     },
     {
       invariantKind: "departure",
-      statement: "The longest pattern the text holds names the text's value.",
+      statement: "The longest pattern the text has names the text's value.",
     },
     {
       invariantKind: "departure",
@@ -177,7 +177,7 @@ export const rulesEngineField = {
     },
     {
       invariantKind: "departure",
-      statement: "That enum holds the normalizer's values and the value for unpatterned text.",
+      statement: "That enum has the normalizer's values and the value for unpatterned text.",
     },
   ],
 } as const satisfies Domain

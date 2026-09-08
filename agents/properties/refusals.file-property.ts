@@ -13,7 +13,7 @@ export const refusals = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The file holds every refusal the last landing this agent tried answered with.",
+      statement: "The file has every refusal the last landing this agent tried answered with.",
     },
     {
       invariantKind: "departure",

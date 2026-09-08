@@ -12,7 +12,7 @@ export const pageFoldersByIndex = {
       statement:
         "Code reaching the pages of a type asks the index for them rather than spelling their folder.",
       workingMemory:
-        '48 files hold a constant such as `"seat-system/seats/pages"` and then read that folder off disk, where `listedAt` and `listedWithin` under `pages/indexes/reading` answer by page type slug. The breakage that raised this is mended, so what is left is that the index holds these answers and the code re-derives them.',
+        '48 files have a constant such as `"seat-system/seats/pages"` and then read that folder off disk, where `listedAt` and `listedWithin` under `pages/indexes/reading` answer by page type slug. The breakage that raised this is mended, so what is left is that the index holds these answers and the code re-derives them.',
     },
     {
       statement:

@@ -33,7 +33,7 @@ export const addressed = {
     },
     {
       invariantKind: "departure",
-      statement: "An address the map does not hold is refused where that address is written.",
+      statement: "An address the map does not have is refused where that address is written.",
     },
     {
       invariantKind: "absence",

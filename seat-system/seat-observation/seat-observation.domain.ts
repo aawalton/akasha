@@ -4,7 +4,7 @@ export const seatObservation = {
   id: "01a0658d-c92f-76f2-abb0-efb387b6515b",
   pageTypeSlug: "domain",
   slug: "seat-observation",
-  definition: "what a seat holds because somebody looked",
+  definition: "what a seat has because somebody looked",
   partSlugs: ["domain/seat-turn", "list/idle-live-seat"],
   invariants: [
     { invariantKind: "departure", statement: "Nobody could have settled an observation." },

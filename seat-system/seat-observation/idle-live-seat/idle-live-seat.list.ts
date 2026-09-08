@@ -42,7 +42,7 @@ export const idleLiveSeat = {
     {
       invariantKind: "departure",
       statement:
-        "The only licence to stop a seat holding no initiative row is a claim carried on its own last send.",
+        "The only licence to stop a seat with no initiative row is a claim carried on its own last send.",
     },
     {
       invariantKind: "departure",

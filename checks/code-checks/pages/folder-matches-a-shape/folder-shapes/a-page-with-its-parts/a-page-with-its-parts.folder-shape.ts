@@ -4,14 +4,14 @@ export const aPageWithItsParts = {
   id: "01a05f26-edf0-768f-823e-e5442db4f971",
   pageTypeSlug: "folder-shape",
   slug: "a-page-with-its-parts",
-  definition: "the shape of a folder named for the one page it holds, beside that page's parts",
+  definition: "the shape of a folder named for the one page it has, beside that page's parts",
   code: "ts",
   test: "ts",
   enabled: true,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The folder holds one page.",
+      statement: "The folder has one page.",
     },
     {
       invariantKind: "departure",
@@ -52,11 +52,11 @@ export const aPageWithItsParts = {
     },
     {
       invariantKind: "absence",
-      statement: "The paths a part holds are judged where that part is judged.",
+      statement: "The paths a part has are judged where that part is judged.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding no page is refused.",
+      statement: "A folder with no page is refused.",
     },
     {
       invariantKind: "departure",

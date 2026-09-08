@@ -11,11 +11,11 @@ export const foldersOnly = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A folder holding no file of its own takes this shape.",
+      statement: "A folder with no file of its own takes this shape.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding any file of its own fails this shape.",
+      statement: "A folder with any file of its own fails this shape.",
     },
     {
       invariantKind: "absence",
@@ -24,7 +24,7 @@ export const foldersOnly = {
     },
     {
       invariantKind: "gap",
-      statement: "A folder holding only folders is judged by which folders the folder holds.",
+      statement: "A folder holding only folders is judged by which folders the folder has.",
     },
     {
       invariantKind: "gap",

@@ -4,7 +4,7 @@ export const seatDeclaration = {
   id: "01a0658d-c92f-7bc5-aac8-847d02086752",
   pageTypeSlug: "domain",
   slug: "seat-declaration",
-  definition: "what a seat holds because somebody set it",
+  definition: "what a seat has because somebody set it",
   invariants: [
     {
       invariantKind: "departure",
@@ -12,7 +12,7 @@ export const seatDeclaration = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat reading a declaration off its own surroundings holds a declaration still.",
+      statement: "A seat reading a declaration off its own surroundings has a declaration still.",
     },
     { invariantKind: "departure", statement: "A seat's attributes have one store." },
     {

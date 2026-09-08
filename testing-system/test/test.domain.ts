@@ -20,11 +20,11 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "A test over invented data proves the truths the fixture holds.",
+      statement: "A test over invented data proves the truths the fixture has.",
     },
     {
       invariantKind: "departure",
-      statement: "A test over the pages proves the truths the pages hold.",
+      statement: "A test over the pages proves the truths the pages have.",
     },
     {
       invariantKind: "departure",
@@ -57,7 +57,7 @@ export const test = {
     },
     {
       invariantKind: "constraint",
-      statement: "A reference taken before a mock holds the stub rather than the original.",
+      statement: "A reference taken before a mock has the stub rather than the original.",
     },
     {
       invariantKind: "constraint",

@@ -29,11 +29,11 @@ export const temperLibSlashCommander = {
     },
     {
       invariantKind: "departure",
-      statement: "A command holds subcommands.",
+      statement: "A command has subcommands.",
     },
     {
       invariantKind: "departure",
-      statement: "A subcommand holds subcommands of its own.",
+      statement: "A subcommand has subcommands of its own.",
     },
     {
       invariantKind: "constraint",

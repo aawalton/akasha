@@ -223,7 +223,7 @@ export const claudeAccountOauth = {
     },
     {
       invariantKind: "constraint",
-      statement: "A caller holds the gate state between two decisions.",
+      statement: "A caller has the gate state between two decisions.",
     },
     {
       invariantKind: "absence",

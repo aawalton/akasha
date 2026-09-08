@@ -74,7 +74,7 @@ export const accountPicker = {
     },
     {
       invariantKind: "constraint",
-      statement: "A caller holds one picker for as long as the account picked is to be remembered.",
+      statement: "A caller has one picker for as long as the account picked is to be remembered.",
     },
     {
       invariantKind: "absence",
@@ -90,7 +90,7 @@ export const accountPicker = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here answers the token the chosen account holds.",
+      statement: "Nothing here answers the token the chosen account has.",
     },
     {
       invariantKind: "gap",

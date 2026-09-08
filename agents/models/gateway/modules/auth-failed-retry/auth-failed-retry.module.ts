@@ -18,11 +18,11 @@ export const authFailedRetry = {
     },
     {
       invariantKind: "departure",
-      statement: "A store holding no credential for the account ends the attempt.",
+      statement: "A store with no credential for the account ends the attempt.",
     },
     {
       invariantKind: "departure",
-      statement: "A store holding the token that failed ends the attempt.",
+      statement: "A store with the token that failed ends the attempt.",
     },
     {
       invariantKind: "departure",

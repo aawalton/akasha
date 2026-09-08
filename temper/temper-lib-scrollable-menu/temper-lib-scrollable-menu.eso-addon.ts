@@ -109,7 +109,7 @@ export const temperLibScrollableMenu = {
     },
     {
       invariantKind: "departure",
-      statement: "A menu entry may hold a submenu nested to any depth.",
+      statement: "A menu entry may have a submenu nested to any depth.",
     },
     {
       invariantKind: "departure",

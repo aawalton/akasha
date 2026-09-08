@@ -10,7 +10,7 @@ export const claudeAccountUpkeep = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every account holding a page is reached in turn.",
+      statement: "Every account with a page is reached in turn.",
     },
     {
       invariantKind: "departure",

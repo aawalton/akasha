@@ -52,7 +52,7 @@ export const claudeAccountMarking = {
     },
     {
       invariantKind: "departure",
-      statement: "A mark holding a newline is refused.",
+      statement: "A mark with a newline is refused.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +68,7 @@ export const claudeAccountMarking = {
     },
     {
       invariantKind: "departure",
-      statement: "A record mark holding no field is refused.",
+      statement: "A record mark with no field is refused.",
     },
     {
       invariantKind: "departure",

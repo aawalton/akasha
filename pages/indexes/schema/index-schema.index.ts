@@ -4,7 +4,7 @@ export const indexSchema = {
   id: "01a04d79-852a-71ed-b817-7b06efee79d5",
   pageTypeSlug: "index",
   slug: "index-schema",
-  definition: "an index from a property to the shape of the value it holds",
+  definition: "an index from a property to the shape of the value it has",
   name: "schema",
   code: "ts",
   test: "ts",

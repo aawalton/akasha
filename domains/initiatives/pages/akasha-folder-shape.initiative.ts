@@ -20,7 +20,7 @@ export const akashaFolderShape = {
     {
       statement: "A story chapter names its story with one property of its own.",
       workingMemory:
-        "All 13607 chapters name exactly one parent today, so nothing is lost by binding one. A chapter's slug carries the story name as a prefix, which `story.domain.ts` holds as an invariant, and that invariant goes once the scope binds. `sequence` groups on `partOfSlugs` and retargets to the new property. The collections edge stays beside it, carrying a different fact.",
+        "All 13607 chapters name exactly one parent today, so nothing is lost by binding one. A chapter's slug carries the story name as a prefix, which `story.domain.ts` has as an invariant, and that invariant goes once the scope binds. `sequence` groups on `partOfSlugs` and retargets to the new property. The collections edge stays beside it, carrying a different fact.",
     },
     {
       statement: "No relation value lands that akasha cannot key to one page.",
@@ -40,7 +40,7 @@ export const akashaFolderShape = {
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
       workingMemory:
-        "`HELD_FOLDERS` is `modules`, `pages`, `properties` and `scripts`; a parent shape skips a subfolder carrying one of those names and leaves it to that folder's own shape. `modules-only` reads what the page above declares. `scripts-only`, `pages-of-one-type`, `pages-of-the-type-above`, `properties-of-the-type-above` and `property-pages-only` call `declared()` nowhere, so nothing asks whose parts those folders hold.",
+        "`HELD_FOLDERS` is `modules`, `pages`, `properties` and `scripts`; a parent shape skips a subfolder carrying one of those names and leaves it to that folder's own shape. `modules-only` reads what the page above declares. `scripts-only`, `pages-of-one-type`, `pages-of-the-type-above`, `properties-of-the-type-above` and `property-pages-only` call `declared()` nowhere, so nothing asks whose parts those folders have.",
     },
     {
       statement: "A check determines whether a folder should be a workspace package.",

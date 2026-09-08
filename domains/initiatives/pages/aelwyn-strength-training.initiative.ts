@@ -15,7 +15,7 @@ export const aelwynStrengthTraining = {
     {
       statement: "Every set Alan performs reaches a page.",
       workingMemory:
-        "Alan settled on 2026-09-07 that the 28 days since 2026-08-10 hold no training, beyond at most one bout nobody logged. He was rebuilding other systems. The hole is therefore in the training rather than in the tracking. 122 sets are logged across 16 bouts, dated 2026-06-19 to 2026-08-10, ten of the sixteen inside the eleven days from 06-19 to 06-29. Each set now carries its own date and names its day. Nothing recovers a bout after the day that bout happened.",
+        "Alan settled on 2026-09-07 that the 28 days since 2026-08-10 have no training, beyond at most one bout nobody logged. He was rebuilding other systems. The hole is therefore in the training rather than in the tracking. 122 sets are logged across 16 bouts, dated 2026-06-19 to 2026-08-10, ten of the sixteen inside the eleven days from 06-19 to 06-29. Each set now carries its own date and names its day. Nothing recovers a bout after the day that bout happened.",
     },
     {
       statement: "A planner chooses Alan's next movement from principles he settled.",
@@ -30,7 +30,7 @@ export const aelwynStrengthTraining = {
     {
       statement: "A layoff has a way back in that ran once.",
       workingMemory:
-        "`akasha exercise-select` run on 2026-09-07, at 28 days since 2026-08-10 and so at full saturation, plans Dumbbell Bench Press at 4 sets of 15 to 17 at 30 lb and says `hold load, extend reps to 17 / add a set`. No reduction appears in the plan or among the rules fired, where the policy allows up to 12 percent. The rules named are in-kit, anchor:held, recency and coarse-jump-guard. Nothing names a layoff. So the path is unwritten rather than untested.",
+        "`akasha exercise-select` run on 2026-09-07, at 28 days since 2026-08-10 and so at full saturation, plans Dumbbell Bench Press at 4 sets of 15 to 17 at 30 lb and says `have load, extend reps to 17 / add a set`. No reduction appears in the plan or among the rules fired, where the policy allows up to 12 percent. The rules named are in-kit, anchor:held, recency and coarse-jump-guard. Nothing names a layoff. So the path is unwritten rather than untested.",
     },
   ],
   constraints: [

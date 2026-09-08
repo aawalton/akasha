@@ -23,7 +23,7 @@ export const lorebooksReportLayout = {
     },
     {
       invariantKind: "departure",
-      statement: "The copy window holds one edit box the player reads rather than writes.",
+      statement: "The copy window has one edit box the player reads rather than writes.",
     },
   ],
 } as const satisfies EsoInterface

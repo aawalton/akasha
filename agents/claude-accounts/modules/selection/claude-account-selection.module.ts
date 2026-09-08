@@ -43,7 +43,7 @@ export const claudeAccountSelection = {
     },
     {
       invariantKind: "departure",
-      statement: "A fleet holding no eligible account is answered as no pick.",
+      statement: "A fleet with no eligible account is answered as no pick.",
     },
     {
       invariantKind: "departure",

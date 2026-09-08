@@ -17,7 +17,7 @@ export const filePropertyFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A property's file warrants its page whatever the file holds.",
+      statement: "A property's file warrants its page whatever the file has.",
     },
   ],
 } as const satisfies ContextWarrant

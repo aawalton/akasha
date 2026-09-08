@@ -18,7 +18,7 @@ export const allAboutAlan = {
     },
     {
       invariantKind: "absence",
-      statement: "The notes hold no queue of subjects to work through.",
+      statement: "The notes have no queue of subjects to work through.",
     },
     {
       invariantKind: "departure",

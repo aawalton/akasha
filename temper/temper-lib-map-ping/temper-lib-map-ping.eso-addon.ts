@@ -46,7 +46,7 @@ export const temperLibMapPing = {
     },
     {
       invariantKind: "departure",
-      statement: "A group ping is sent only while the token bucket holds a token.",
+      statement: "A group ping is sent only while the token bucket has a token.",
     },
     {
       invariantKind: "constraint",

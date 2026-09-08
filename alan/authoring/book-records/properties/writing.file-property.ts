@@ -11,7 +11,7 @@ export const writing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Writing is held in a file beside its page rather than in the page.",
+      statement: "Writing is in a file beside its page rather than in the page.",
     },
     {
       invariantKind: "departure",

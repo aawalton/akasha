@@ -5,14 +5,14 @@ export const aPageTypeWithItsParts = {
   pageTypeSlug: "folder-shape",
   slug: "a-page-type-with-its-parts",
   definition:
-    "the shape of a folder holding one page type, its parts and the pages and properties it declares",
+    "the shape of a folder with one page type, its parts and the pages and properties it declares",
   code: "ts",
   test: "ts",
   enabled: true,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The folder holds one page.",
+      statement: "The folder has one page.",
     },
     {
       invariantKind: "departure",
@@ -20,7 +20,7 @@ export const aPageTypeWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder may hold a workspace package beside that page type.",
+      statement: "The folder may have a workspace package beside that page type.",
     },
     {
       invariantKind: "departure",
@@ -64,16 +64,16 @@ export const aPageTypeWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "A subfolder holding a page the page type declares a part is a part too.",
+      statement: "A subfolder with a page the page type declares a part is a part too.",
     },
     {
       invariantKind: "departure",
-      statement: "A subfolder holding a page that workspace package declares a part is a part too.",
+      statement: "A subfolder with a page that workspace package declares a part is a part too.",
     },
 
     {
       invariantKind: "departure",
-      statement: "A subfolder holding no page the page type declares is refused.",
+      statement: "A subfolder with no page the page type declares is refused.",
     },
   ],
 } as const satisfies FolderShape

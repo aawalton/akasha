@@ -7,5 +7,5 @@ export const gmContext = {
   pageTypeSlug: "file-property",
   slug: "gm-context",
   propertySlug: "gm-context",
-  definition: "the doctrine the game master holds while running a game",
+  definition: "the doctrine the game master has while running a game",
 } as const satisfies FileProperty

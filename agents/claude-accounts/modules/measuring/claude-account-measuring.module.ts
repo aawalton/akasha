@@ -10,7 +10,7 @@ export const claudeAccountMeasuring = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every account holding a page is answered.",
+      statement: "Every account with a page is answered.",
     },
     {
       invariantKind: "departure",

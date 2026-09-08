@@ -80,7 +80,7 @@ export const temperCompanionsAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "Only gear a companion already holds is offered as an upgrade.",
+      statement: "Only gear a companion already has is offered as an upgrade.",
     },
     {
       invariantKind: "departure",

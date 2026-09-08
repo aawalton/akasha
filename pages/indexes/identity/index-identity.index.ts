@@ -48,7 +48,7 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "A file holds one line for each page carrying the value.",
+      statement: "A file has one line for each page carrying the value.",
     },
     {
       invariantKind: "departure",

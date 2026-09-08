@@ -4,7 +4,7 @@ export const temperLibAddonMenuOrderListBox = {
   id: "01a06207-bdfa-77c3-9c7b-c125ea77a269",
   pageTypeSlug: "eso-addon",
   slug: "temper-lib-addon-menu-order-list-box",
-  definition: "a LibAddonMenu-2.0 widget holding a list a player puts into an order by hand",
+  definition: "a LibAddonMenu-2.0 widget with a list a player puts into an order by hand",
   manifest: "json",
   addonManifest: "json",
   bundleEntrySlug: "module/order-list-box-entry",

@@ -25,12 +25,11 @@ export const state = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file holding nothing yet is the editor's cue to draw nothing rather than to wait.",
+      statement: "A file with nothing yet is the editor's cue to draw nothing rather than to wait.",
     },
     {
       invariantKind: "departure",
-      statement: "One JSON document holds the whole state a part of the editor draws.",
+      statement: "One JSON document has the whole state a part of the editor draws.",
     },
     {
       invariantKind: "departure",

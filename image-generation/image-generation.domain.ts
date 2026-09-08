@@ -18,7 +18,7 @@ export const imageGeneration = {
     },
     {
       invariantKind: "departure",
-      statement: "A page holds the lessons learned by generating with the model.",
+      statement: "A page has the lessons learned by generating with the model.",
     },
   ],
 } as const satisfies Domain

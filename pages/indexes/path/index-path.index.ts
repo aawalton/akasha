@@ -23,15 +23,15 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
-      statement: "A file a page property holds is filed under its own path.",
+      statement: "A file a page property has is filed under its own path.",
     },
     {
       invariantKind: "departure",
-      statement: "A file a page property holds answers the page stating that file.",
+      statement: "A file a page property has answers the page stating that file.",
     },
     {
       invariantKind: "departure",
-      statement: "One path holds one file.",
+      statement: "One path has one file.",
     },
     {
       invariantKind: "departure",

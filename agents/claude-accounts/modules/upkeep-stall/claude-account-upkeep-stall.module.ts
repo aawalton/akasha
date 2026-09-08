@@ -33,8 +33,7 @@ export const claudeAccountUpkeepStall = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An account holding neither stamp has never been reached rather than fallen behind.",
+      statement: "An account with neither stamp has never been reached rather than fallen behind.",
     },
     {
       invariantKind: "departure",

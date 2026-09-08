@@ -11,7 +11,7 @@ export const prose = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Prose is held in a file beside its page rather than in the page.",
+      statement: "Prose is in a file beside its page rather than in the page.",
     },
     {
       invariantKind: "departure",

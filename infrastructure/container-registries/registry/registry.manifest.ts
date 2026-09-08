@@ -4,7 +4,7 @@ export const registry = {
   id: "01a07389-479d-7988-a712-086e2d690bfa",
   pageTypeSlug: "manifest",
   slug: "registry",
-  definition: "the deployment running the store that holds the images the cluster runs",
+  definition: "the deployment running the store that has the images the cluster runs",
   code: "ts",
   generatedDirectory: true,
 } as const satisfies Manifest

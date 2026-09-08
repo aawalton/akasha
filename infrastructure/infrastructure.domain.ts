@@ -54,7 +54,7 @@ export const infrastructure = {
     },
     {
       invariantKind: "constraint",
-      statement: "The workstation's card holds one workload at a time.",
+      statement: "The workstation's card has one workload at a time.",
     },
     {
       invariantKind: "departure",

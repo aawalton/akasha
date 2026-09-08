@@ -48,7 +48,7 @@ export const claudeAccountMaking = {
     },
     {
       invariantKind: "departure",
-      statement: "An address holding a space or naming no host is refused.",
+      statement: "An address with a space or naming no host is refused.",
     },
     {
       invariantKind: "departure",

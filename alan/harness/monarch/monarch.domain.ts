@@ -5,7 +5,7 @@ export const monarch = {
   pageTypeSlug: "domain",
   slug: "monarch",
   definition:
-    "the outside service that gathers every account Alan holds into one picture of his money",
+    "the outside service that gathers every account Alan has into one picture of his money",
   partSlugs: [
     "module/monarch-syncing",
     "module/transaction-polling",
@@ -139,7 +139,7 @@ export const monarch = {
     {
       invariantKind: "departure",
       statement:
-        "A monarch page holds the fields its readers name rather than a copy of Monarch's reply.",
+        "A monarch page has the fields its readers name rather than a copy of Monarch's reply.",
     },
     {
       invariantKind: "departure",

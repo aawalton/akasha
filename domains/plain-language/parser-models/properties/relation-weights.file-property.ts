@@ -11,7 +11,7 @@ export const relationWeights = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The graph is held in the format the runtime already reads.",
+      statement: "The graph is in the format the runtime already reads.",
     },
     {
       invariantKind: "departure",

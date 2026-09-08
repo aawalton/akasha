@@ -20,7 +20,7 @@ export const ambientTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "A compiler emits nothing from the types this file holds.",
+      statement: "A compiler emits nothing from the types this file has.",
     },
   ],
 } as const satisfies FileProperty

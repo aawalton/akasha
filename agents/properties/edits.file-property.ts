@@ -13,7 +13,7 @@ export const edits = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One line holds one edit.",
+      statement: "One line has one edit.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const edits = {
     },
     {
       invariantKind: "departure",
-      statement: "A line holds the paths and bodies that edit names and no others.",
+      statement: "A line has the paths and bodies that edit names and no others.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const edits = {
     },
     {
       invariantKind: "departure",
-      statement: "A line holding nothing there leaves those readers owing the reading.",
+      statement: "A line with nothing there leaves those readers owing the reading.",
     },
     {
       invariantKind: "departure",

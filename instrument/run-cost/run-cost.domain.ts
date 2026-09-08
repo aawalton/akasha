@@ -29,7 +29,7 @@ export const runCost = {
     },
     {
       invariantKind: "departure",
-      statement: "Eternal is the last band and holds every run no earlier band holds.",
+      statement: "Eternal is the last band and has every run no earlier band has.",
     },
     {
       invariantKind: "departure",

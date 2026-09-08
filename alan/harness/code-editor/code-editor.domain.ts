@@ -200,7 +200,7 @@ export const codeEditor = {
     },
     {
       invariantKind: "departure",
-      statement: "A row in the work panel is an initiative or an intent that initiative holds.",
+      statement: "A row in the work panel is an initiative or an intent that initiative has.",
     },
     {
       invariantKind: "departure",
@@ -212,7 +212,7 @@ export const codeEditor = {
     },
     {
       invariantKind: "departure",
-      statement: "An intent opens the page of the initiative holding that intent.",
+      statement: "An intent opens the page of the initiative with that intent.",
     },
     {
       invariantKind: "gap",

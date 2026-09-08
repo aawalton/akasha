@@ -19,7 +19,7 @@ export const appIcon = {
     },
     {
       invariantKind: "departure",
-      statement: "The file holds no NUL byte.",
+      statement: "The file has no NUL byte.",
     },
     {
       invariantKind: "departure",
