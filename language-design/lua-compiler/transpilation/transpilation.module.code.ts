@@ -2,6 +2,7 @@ import * as fs from "node:fs"
 import * as path from "node:path"
 import * as ts from "typescript"
 import { z } from "zod"
+import { parseConfigFileWithSystem } from "../cli-tsconfig/cli-tsconfig.module.code.ts"
 import {
   createEmitOutputCollector,
   type TranspiledFile,
@@ -10,7 +11,6 @@ import {
   createTranspiler,
   type EmitResult,
 } from "../transpile-transpiler/transpile-transpiler.module.code.ts"
-import { parseConfigFileWithSystem } from "../tstl-cli-tsconfig/tstl-cli-tsconfig.module.code.ts"
 import type { CompilerOptions } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import { normalizeSlashes } from "../tstl-utils/tstl-utils.module.code.ts"
 
