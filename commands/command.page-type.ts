@@ -119,11 +119,6 @@ export const command = {
       statement: "The arguments a command takes are carried here as data rather than as prose.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "The `taking` list says how an argument is spelled and the help properties say the shape.",
-    },
-    {
       invariantKind: "gap",
       statement: "A command's code reads this page rather than declaring the shape again.",
     },
