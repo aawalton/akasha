@@ -7,7 +7,7 @@ import { STYLE_TO_CHAPTERS } from "@akasha/temper-items-core/motif-chapter-set"
 import {
   type CharacterKnowledge,
   loadTemperCharactersFromPath,
-} from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
+} from "../../../../../temper/temper-commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 
 const INPUT = 1
 

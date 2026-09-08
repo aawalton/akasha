@@ -24,7 +24,7 @@ import {
   type RuleEvalResult,
   resolveItemFromInventory,
   type WalkOutcome,
-} from "../inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
+} from "../../../../../temper/temper-commands/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 
 const INPUT = 1
 

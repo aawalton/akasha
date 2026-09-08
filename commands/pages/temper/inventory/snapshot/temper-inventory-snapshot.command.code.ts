@@ -100,9 +100,6 @@ function pageNamed(root: string, said: string): Page | null {
   return bySlug === undefined ? null : { path: bySlug.path, id: bySlug.id }
 }
 
-// A snugly ordered slug does the sorting: the page type holds that a slug opens
-// with `at-` ahead of the moment the reading was taken, so the widest slug is
-// the newest reading and no page body is read to find it.
 function pageLatest(root: string): Page | null {
   const slugs = [...slugsOfType(root, PAGE_TYPE)].sort().reverse()
   for (const slug of slugs) {
