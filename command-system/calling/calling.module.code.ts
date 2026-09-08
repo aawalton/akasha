@@ -7,6 +7,14 @@ import { costRecorded, opening } from "../../checks/modules/check-cost/check-cos
 import type { HelpNotes } from "../commands/properties/help-notes.text-property.ts"
 import type { Taking } from "../commands/properties/taking.record-property.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
+import {
+  type Held,
+  listingOf,
+  partsOf,
+  slugOfPart,
+  spaced,
+  underOf,
+} from "../namespace-listing/namespace-listing.module.code.ts"
 
 export type Kind = {
   readonly slug: string
@@ -60,6 +68,8 @@ const TAKING = "taking"
 const HELP_NOTES = "helpNotes"
 
 const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
+
+const NAMESPACE_TYPE = "01a06c7c-54b5-712b-b4a2-9ada10279dff"
 
 const CODE = "code"
 
@@ -325,8 +335,7 @@ function below(named: string, word: string): string {
   return named === "" ? word : `${named}${UNDER}${word}`
 }
 
-function walkedIn(root: string, argv: readonly string[]): Reached | null {
-  const type = commandSlugIn(root)
+function walkingIn(root: string, type: string | null, argv: readonly string[]): Reached | null {
   if (type === null) return null
   let named = ""
   let held = 0
@@ -338,6 +347,39 @@ function walkedIn(root: string, argv: readonly string[]): Reached | null {
     if (found.length > 0) reached = { named, held, found }
   }
   return reached
+}
+
+function walkedIn(root: string, argv: readonly string[]): Reached | null {
+  return walkingIn(root, commandSlugIn(root), argv)
+}
+
+export function namespaceSlugIn(root: string): string | null {
+  return indexThere(root) ? typeSlugById(root, NAMESPACE_TYPE) : null
+}
+
+function saidOfPart(root: string, part: string): string | null {
+  const slug = slugOfPart(part)
+  for (const type of [commandSlugIn(root), namespaceSlugIn(root)]) {
+    if (type === null) continue
+    const found = listedAt(root, type, slug)
+    const one = found[0]
+    if (found.length === 1 && one !== undefined) return definitionIn(root, one.path, slug)
+  }
+  return null
+}
+
+function namespaceSaid(root: string, reached: Reached, calledAs: string): readonly string[] | null {
+  const first = reached.found[0]
+  if (reached.found.length !== 1 || first === undefined) return null
+  const page = pageIn(root, first.path, reached.named)
+  const under = `${calledAs} ${spaced(reached.named)}`
+  const held: Held[] = []
+  for (const part of partsOf(page)) {
+    const rest = underOf(reached.named, part)
+    if (rest === null) continue
+    held.push({ named: `${under} ${spaced(rest)}`, said: saidOfPart(root, part) })
+  }
+  return listingOf(under, definitionOf(page), held, HELP)
 }
 
 export async function calling(argv: readonly string[], outside: Outside): Promise<Answer> {
@@ -364,6 +406,9 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   const reached = walkedIn(root, argv)
   const first = reached === null ? undefined : reached.found[0]
   if (reached === null || first === undefined) {
+    const under = walkingIn(root, namespaceSlugIn(root), argv)
+    const listing = under === null ? null : namespaceSaid(root, under, outside.calledAs)
+    if (listing !== null) return { report: listing, refusals: [], code: 0 }
     return carried((unread) =>
       unread === null
         ? `\`${named}\` is no command akasha carries.`

@@ -71,6 +71,7 @@ export const commandSystem = {
     "module/change-acting",
     "module/export-naming",
     "module/edits-landing",
+    "module/namespace-listing",
   ],
   invariants: [
     {

@@ -88,6 +88,41 @@ export function rootWith(named: readonly Named[], typeSlug: string = COMMAND): s
   return root
 }
 
+export const NAMESPACE = "namespace"
+
+export const NAMESPACE_TYPE = "01a06c7c-54b5-712b-b4a2-9ada10279dff"
+
+export type Under = {
+  readonly slug: string
+  readonly definition?: string
+  readonly partSlugs: readonly string[]
+}
+
+export function namespacesIn(root: string, named: readonly Under[]): undefined {
+  noneOfTypeFiled(root, NAMESPACE)
+  idFiled(root, NAMESPACE_TYPE, [
+    { path: `akasha/command-system/namespace/${NAMESPACE}.page-type.ts`, id: NAMESPACE_TYPE },
+  ])
+  let minted = 0
+  for (const one of named) {
+    const at = `akasha/command-system/namespace/${one.slug}/${one.slug}.namespace.ts`
+    mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
+    const stated =
+      one.definition === undefined ? "" : `, definition: ${JSON.stringify(one.definition)}`
+    writeFileSync(
+      join(root, at),
+      `export const ${exportedAs(one.slug)} = { slug: "${one.slug}"${stated}` +
+        `, partSlugs: ${JSON.stringify(one.partSlugs)} }\n`
+    )
+    minted = minted + 1
+    const id = `01a06c7c-0000-7000-8000-00000000000${minted}`
+    listedFiled(root, NAMESPACE, one.slug, [{ path: at, id }])
+    valueAlsoFiled(root, NAMESPACE, [
+      { path: at, value: { id, pageTypeSlug: NAMESPACE, slug: one.slug } },
+    ])
+  }
+}
+
 export function bootstrapped(root: string): undefined {
   const at = join(root, BOOTSTRAP_AT)
   mkdirSync(join(at, ".."), { recursive: true })

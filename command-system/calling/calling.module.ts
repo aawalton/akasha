@@ -88,7 +88,38 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A name no command carries is answered with the commands there are.",
+      statement:
+        "A name no command and no namespace carries is answered with the commands there are.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name a namespace carries rather than a command is answered with what that namespace holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The deepest namespace the words reach is the namespace answered with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A namespace is looked for only where the words reached no command.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A part is listed by the words past the name of the namespace holding it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A part is listed with the definition that part's own page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A part whose slug opens with another name than its namespace's is listed nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A namespace holding no part is answered as a name no command carries.",
     },
     {
       invariantKind: "departure",

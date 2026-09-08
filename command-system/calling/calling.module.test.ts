@@ -16,6 +16,7 @@ import {
   ANSWERS_NOTHING,
   bootstrapped,
   COMMAND_TYPE,
+  namespacesIn,
   OUTSIDE,
   REPAIR_AT,
   rootWith,
@@ -142,6 +143,52 @@ test("a word steps a whole level, so a longer word reaches no command below", as
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("sessions")
   expect(said.report[1]).toBe("akasha track")
+})
+
+test("a namespace naming no command is answered with what sits under it", async () => {
+  const root = rootWith([{ slug: "track-session-open", body: ANSWERS, definition: "open one" }])
+  namespacesIn(root, [
+    {
+      slug: "track-session",
+      definition: "the stretches a day holds",
+      partSlugs: ["command/track-session-open"],
+    },
+  ])
+  const said = await calling(["track", "session"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.refusals).toEqual([])
+  expect(said.report[0]).toBe("akasha track session — the stretches a day holds")
+  expect(said.report).toContain("  akasha track session open  open one")
+})
+
+test("a namespace under a namespace is listed as one word more", async () => {
+  const root = rootWith([{ slug: "track-session-open", body: ANSWERS }])
+  namespacesIn(root, [
+    { slug: "track", definition: "a day", partSlugs: ["namespace/track-session"] },
+    {
+      slug: "track-session",
+      definition: "the stretches",
+      partSlugs: ["command/track-session-open"],
+    },
+  ])
+  const said = await calling(["track"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report).toContain("  akasha track session  the stretches")
+})
+
+test("a command reached under a namespace is answered rather than the namespace", async () => {
+  const root = rootWith([{ slug: "track-session-open", body: ANSWERS }])
+  namespacesIn(root, [
+    {
+      slug: "track-session",
+      definition: "the stretches",
+      partSlugs: ["command/track-session-open"],
+    },
+  ])
+  const said = await calling(["track", "session", "open", "one"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("one")
+  expect(said.report[1]).toBe("akasha track-session-open")
 })
 
 test("the words walked down end at the first word that could be no slug", () => {
