@@ -50,6 +50,16 @@ const LAST_LEFT = [
   "",
 ].join("\n")
 
+const FIRST_LEFT = [
+  "{",
+  '  "name": "@akasha/held",',
+  '  "exports": {',
+  '    "./one": "./one/one.module.code.ts"',
+  "  }",
+  "}",
+  "",
+].join("\n")
+
 function droppedFrom(text: string, holding: string, dropping: readonly string[]): string {
   const spans = entriesGoingIn(AT, text, holding, new Set(dropping))
   let said = text
@@ -100,10 +110,22 @@ test("a run going out of the front leaves a body reading as JSON", () => {
   })
 })
 
-test("a run going out of the end leaves the comma before that run", () => {
-  expect(droppedFrom(BODY, "exports", ["./two", "./three"])).toContain(
-    '"./one": "./one/one.module.code.ts",'
-  )
+test("a run going out of the end takes the comma before that run", () => {
+  expect(droppedFrom(BODY, "exports", ["./two", "./three"])).toBe(FIRST_LEFT)
+})
+
+test("a body a run went out of reads as JSON", () => {
+  expect(JSON.parse(droppedFrom(BODY, "exports", ["./two", "./three"]))).toEqual({
+    name: "@akasha/held",
+    exports: { "./one": "./one/one.module.code.ts" },
+  })
+})
+
+test("every entry going leaves an object holding none", () => {
+  expect(JSON.parse(droppedFrom(BODY, "exports", ["./one", "./two", "./three"]))).toEqual({
+    name: "@akasha/held",
+    exports: {},
+  })
 })
 
 test("an entry the caller does not name is left where that entry is", () => {

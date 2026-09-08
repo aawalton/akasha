@@ -17,6 +17,17 @@ export function objectAt(
   return null
 }
 
+function commaBefore(text: string, from: number): number {
+  let back = from - 1
+  while (back >= 0) {
+    const here = text[back] ?? ""
+    if (here === ",") return back
+    if (here.trim() !== "") break
+    back = back - 1
+  }
+  return from
+}
+
 export function goneSpan(text: string, node: ts.Node, after: boolean): Splice {
   const from = node.getFullStart()
   const to = node.getEnd()
@@ -27,15 +38,7 @@ export function goneSpan(text: string, node: ts.Node, after: boolean): Splice {
     if (here.trim() !== "") break
     at = at + 1
   }
-  if (after) return { from, to, put: "" }
-  let back = from - 1
-  while (back >= 0) {
-    const here = text[back] ?? ""
-    if (here === ",") return { from: back, to, put: "" }
-    if (here.trim() !== "") break
-    back = back - 1
-  }
-  return { from, to, put: "" }
+  return { from: after ? from : commaBefore(text, from), to, put: "" }
 }
 
 export function entriesGoingIn(
@@ -48,6 +51,7 @@ export function entriesGoingIn(
   if (held === null) return []
   const spans: Splice[] = []
   let after = false
+  let opened = 0
   for (const one of held.properties) {
     if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) {
       after = false
@@ -57,8 +61,12 @@ export function entriesGoingIn(
       after = false
       continue
     }
+    if (!after) opened = spans.length
     spans.push(goneSpan(text, one, after))
     after = true
   }
+  const first = spans[opened]
+  if (!after || first === undefined) return spans
+  spans[opened] = { from: commaBefore(text, first.from), to: first.to, put: first.put }
   return spans
 }

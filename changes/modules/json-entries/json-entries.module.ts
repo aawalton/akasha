@@ -55,11 +55,11 @@ export const jsonEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "A run going out of the front leaves a body reading as JSON.",
+      statement: "A run going out of the end takes the comma before that run.",
     },
     {
-      invariantKind: "gap",
-      statement: "A run going out of the end leaves the comma before that run.",
+      invariantKind: "departure",
+      statement: "A body a run went out of reads as JSON.",
     },
     {
       invariantKind: "absence",

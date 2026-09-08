@@ -62,6 +62,12 @@ test("the last way in goes and what stays reads as JSON", () => {
   expect(Object.keys(waysOf(said))).toEqual(["./alpha", "./beta"])
 })
 
+test("the last ways in go together and what stays reads as JSON", () => {
+  const said = bodyIn([BETA, GAMMA], BODY)
+
+  expect(Object.keys(waysOf(said))).toEqual(["./alpha"])
+})
+
 test("every way in goes and the exports key stays", () => {
   const said = bodyIn(["seat-system/alpha/alpha.module.code.ts", BETA, GAMMA], BODY)
 
