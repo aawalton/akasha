@@ -1,10 +1,10 @@
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import { createSelfIdentifier } from "../lua-ast/lua-ast.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { ScopeType } from "../scope/scope.module.code.ts"
-import { createSelfIdentifier } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import { transformClassInstanceFields } from "../visit-fields/visit-fields.module.code.ts"
 import {
   transformFunctionBodyContent,

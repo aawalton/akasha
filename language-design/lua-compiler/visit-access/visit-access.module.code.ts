@@ -7,6 +7,7 @@ import type { FunctionVisitor } from "../context-visitors/context-visitors.modul
 import { getSymbolExportScope, isSymbolExported } from "../export-scope/export-scope.module.code.ts"
 import { createExportsIdentifier } from "../exports-identifier/exports-identifier.module.code.ts"
 import { getExtensionKindForNode } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
+import { addToNumericExpression } from "../lua-ast/lua-ast.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
@@ -17,7 +18,6 @@ import {
   invalidMultiReturnAccess,
   unsupportedOptionalCompileMembersOnly,
 } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { addToNumericExpression } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import { assert } from "../tstl-utils/tstl-utils.module.code.ts"
 import { isArrayType, isNumberType, isStringType } from "../typescript/typescript.module.code.ts"
 import { tryGetConstEnumValue } from "../visit-enum/visit-enum.module.code.ts"

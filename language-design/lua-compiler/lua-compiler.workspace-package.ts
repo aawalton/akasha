@@ -60,7 +60,7 @@ export const luaCompiler = {
     "module/exports-identifier",
     "module/function-context",
     "module/language-extension-kinds",
-    "module/tstl-lua-ast",
+    "module/lua-ast",
     "module/lua-ast-core",
     "module/lua-ast-expressions",
     "module/lua-ast-statements",

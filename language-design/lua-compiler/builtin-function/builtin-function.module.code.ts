@@ -5,6 +5,7 @@ import {
   ContextType,
   getFunctionContextType,
 } from "../function-context/function-context.module.code.ts"
+import { createUnpackCall } from "../lua-ast/lua-ast.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
@@ -14,7 +15,6 @@ import {
   unsupportedProperty,
   unsupportedSelfFunctionConversion,
 } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { createUnpackCall } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 
 export function transformFunctionPrototypeCall(
   context: TransformationContext,

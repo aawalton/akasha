@@ -7,6 +7,7 @@ import {
   getIterableExtensionKindForNode,
   IterableExtensionKind,
 } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
+import { createUnpackCall } from "../lua-ast/lua-ast.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
@@ -17,7 +18,6 @@ import {
   ScopeType,
 } from "../scope/scope.module.code.ts"
 import { isOptimizedVarArgSpreadHolder } from "../symbols-deps/symbols-deps.module.code.ts"
-import { createUnpackCall } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import { findFirstNonOuterParent, isAlwaysArrayType } from "../typescript/typescript.module.code.ts"
 import { isMultiReturnCall } from "../visit-extension-multi/visit-extension-multi.module.code.ts"
 import { isGlobalVarargConstant } from "../visit-extension-vararg/visit-extension-vararg.module.code.ts"

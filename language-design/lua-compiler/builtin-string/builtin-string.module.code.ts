@@ -1,17 +1,17 @@
 import type * as ts from "typescript"
 import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { unsupportedProperty } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 import {
   addToNumericExpression,
   createNaN,
   getNumberLiteralValue,
   wrapInTable,
-} from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
+} from "../lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
+import { unsupportedProperty } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 
 function createStringCall(
   methodName: string,

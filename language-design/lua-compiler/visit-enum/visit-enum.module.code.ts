@@ -6,10 +6,10 @@ import {
   addExportToIdentifier,
   getSymbolExportScope,
 } from "../export-scope/export-scope.module.code.ts"
+import { createLocalOrExportedOrGlobalDeclaration } from "../lua-ast/lua-ast.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { createLocalOrExportedOrGlobalDeclaration } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import { isFirstDeclaration } from "../typescript/typescript.module.code.ts"
 import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"
 import { transformPropertyName } from "../visit-property-name/visit-property-name.module.code.ts"

@@ -11,6 +11,11 @@ import {
   ContextType,
   getFunctionContextType,
 } from "../function-context/function-context.module.code.ts"
+import {
+  createLocalOrExportedOrGlobalDeclaration,
+  createSelfIdentifier,
+  wrapInTable,
+} from "../lua-ast/lua-ast.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
@@ -18,11 +23,6 @@ import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
 import { peekScope, performHoisting, type Scope, ScopeType } from "../scope/scope.module.code.ts"
-import {
-  createLocalOrExportedOrGlobalDeclaration,
-  createSelfIdentifier,
-  wrapInTable,
-} from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import { assert } from "../tstl-utils/tstl-utils.module.code.ts"
 import {
   isAsyncFunction,

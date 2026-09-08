@@ -6,13 +6,13 @@ import {
   ContextType,
   getCallContextType,
 } from "../function-context/function-context.module.code.ts"
+import { wrapInTable } from "../lua-ast/lua-ast.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { getOptionalContinuationData } from "../optional-chain-data/optional-chain-data.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
 import { isValidLuaIdentifier } from "../safe-names/safe-names.module.code.ts"
 import { unsupportedBuiltinOptionalCall } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { wrapInTable } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import {
   getCalledExpression,
   isExpressionWithEvaluationEffect,
