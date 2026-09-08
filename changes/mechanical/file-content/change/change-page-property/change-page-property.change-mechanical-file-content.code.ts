@@ -8,12 +8,15 @@ import type { Said } from "../../../../modules/change-answer/change-answer.modul
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { statedIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
 
+const TRAILING_LINES = /\n+$/
+
 export function restated(path: string, text: string, key: string, to: string): Said {
+  const stated = to.replace(TRAILING_LINES, "")
   const source = parsedAs(path, text)
   const held = statedIn(source).get(key)
   if (held === undefined) return refusing(`\`${path}\` states no text under \`${key}\``)
-  if (held.text === to) return refusing(`\`${to}\` is what \`${key}\` states already`)
-  const put = JSON.stringify(to)
+  if (held.text === stated) return refusing(`\`${stated}\` is what \`${key}\` states already`)
+  const put = JSON.stringify(stated)
   return stating(spliced(path, text, { from: held.getStart(source), to: held.getEnd(), put }))
 }
 

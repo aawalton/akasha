@@ -76,6 +76,27 @@ test("an object above the exported one is not read", () => {
   expect(said).toContain(`slug: "change-atomic",`)
 })
 
+test("a newline ending what was asked for is dropped", () => {
+  const said = textOn(AT, BODY, "pluralSlug", "change-atomic\n")
+  expect(said).toContain(`pluralSlug: "change-atomic",`)
+})
+
+test("every newline ending what was asked for is dropped", () => {
+  const said = textOn(AT, BODY, "pluralSlug", "change-atomic\n\n")
+  expect(said).toBe(BODY.replace(`"kepts"`, `"change-atomic"`))
+})
+
+test("a newline inside what was asked for is left as it is", () => {
+  const said = textOn(AT, BODY, "pluralSlug", "one\ntwo")
+  expect(said).toContain(`pluralSlug: "one\\ntwo",`)
+})
+
+test("what a key states already is refused though a newline ends what was asked for", () => {
+  const said = ranOn(AT, BODY, "slug", "kept\n")
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`kept` is what `slug` states already")
+})
+
 test("nothing here judges whether that key may be restated", () => {
   expect(ranOn(AT, BODY, "id", "01a00000-0000-7000-8000-000000000000").refused).toBe(null)
 })
