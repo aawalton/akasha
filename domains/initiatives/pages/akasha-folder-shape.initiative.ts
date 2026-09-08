@@ -13,14 +13,9 @@ export const akashaFolderShape = {
         "27651 entries over 26133 pages: 21756 bare across 510 values, 5895 qualified, 0 dangling. The declaring property's target page type settles every ambiguous value but `profile`. Count by parsing arrays, not lines: 16 values sit only in multi-entry arrays. Beyond relations, 2563 of the 2601 `pagePropertySlug` values are bare, and `shapedIn`'s search across page types answers them; `4eb997e9` took it out and emptied 443 of 453 page types, unfiling all 914 unique keys in silence. It goes last.",
     },
     {
-      statement: "The collections edge is named `partOfCollectionSlugs`.",
-      workingMemory:
-        "25744 children name a parent through `partOfSlugs` and 11138 pages are named as a part through `partSlugs`, and nothing reads the two into one parent map any more. `partSlugs` keeps its name and stays the domain spanning tree. 1066 children name several parents, 1055 of them `great-course`, and that dag is the collections edge rather than a fault to mend.",
-    },
-    {
       statement: "A story chapter names its story with one property of its own.",
       workingMemory:
-        "All 13607 chapters name exactly one parent today, so nothing is lost by binding one. A chapter's slug has the story name as a prefix, which `story.domain.ts` has as an invariant, and that invariant goes once the scope binds. `sequence` groups on `partOfSlugs` and retargets to the new property. The collections edge stays beside it, carrying a different fact.",
+        "All 13607 chapters name exactly one parent today, so nothing is lost by binding one. A chapter's slug has the story name as a prefix, which `story.domain.ts` has as an invariant, and that invariant goes once the scope binds. `sequence` groups on `partOfCollectionSlugs` and retargets to the new property. The collections edge stays beside it, carrying a different fact.",
     },
     {
       statement: "No relation value lands that akasha cannot key to one page.",
@@ -30,7 +25,7 @@ export const akashaFolderShape = {
     {
       statement: "No relation property's name ends in `slug`.",
       workingMemory:
-        "121 relation properties, and 90 are named `<x>-slug` or `<x>-slugs`. The types say it too: `PartOfSlugs = List<Slug>`. Every one of those names goes false as its value becomes an address. One property at a time rather than one landing: a mechanical change is judged by no check. `page-type-slug` and `part-of-slugs` reach the most pages, so they go last, once a small one has shown what the rename costs.",
+        "121 relation properties, and 90 are named `<x>-slug` or `<x>-slugs`. The types say it too: `PartOfCollectionSlugs = List<Slug>`. Every one of those names goes false as its value becomes an address. One property at a time rather than one landing: a mechanical change is judged by no check. `page-type-slug` and `part-of-collection-slugs` reach the most pages, so they go last, once a small one has shown what the rename costs.",
     },
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
