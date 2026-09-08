@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { indexNamed } from "@akasha/indexes"
 import { bodiesIn } from "@akasha/testing-system/bodying"
-import { reasonsIn } from "./no-index-path-spelled.code-check.code.ts"
+import { reasonsOver } from "./no-index-path-spelled.code-check.code.ts"
 
 const ROOT = "/repo"
 
@@ -11,7 +11,11 @@ const AT = indexNamed()
 
 const HELD = "akasha/command-system/held.module.code.ts"
 
-const OWNED = "pages/indexes/reading/index-reading.module.code.ts"
+const INDEXES = "pages/indexes/"
+
+const OWNED = `${INDEXES}reading/index-reading.module.code.ts`
+
+const reasonsIn = reasonsOver(INDEXES)
 
 test("a body spelling a path into the index is refused", () => {
   const said = reasonsIn(given(HELD, `const at = "${AT}/identity/check/slug"\n`))

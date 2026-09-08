@@ -1,12 +1,17 @@
+import { dirname } from "node:path"
 import { type Placed, spelledIn } from "@akasha/code/code-specifier"
 import { indexNamed } from "@akasha/indexes"
+import type { Shadow } from "@akasha/pages/shadow"
 import {
+  type Body,
   judgingEach,
   overEachText,
   TEXTS,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 
-const INDEXES = "pages/indexes/"
+const PACKAGE = "workspace-package"
+
+const INDEX = "index"
 
 const AT = indexNamed()
 
@@ -31,8 +36,8 @@ function whole(held: readonly Placed[], at: number): string | null {
   return null
 }
 
-function found(path: string, text: string): readonly string[] {
-  if (path.startsWith(INDEXES)) return []
+function found(under: string, path: string, text: string): readonly string[] {
+  if (path.startsWith(under)) return []
   const held = spelledIn(path, text)
   const said: string[] = []
   for (let at = 0; at < held.length; at++) {
@@ -49,6 +54,24 @@ function found(path: string, text: string): readonly string[] {
   return said
 }
 
-export const reasonsIn = overEachText(found)
+export function reasonsOver(at: string): (given: Body) => readonly string[] {
+  return overEachText((path, text) => found(at, path, text))
+}
 
-export const noIndexPathSpelled = judgingEach(TEXTS, (given) => found(given.path, given.text))
+const INDEXES = new WeakMap<Shadow, string>()
+
+function indexesAt(shadow: Shadow): string {
+  const held = INDEXES.get(shadow)
+  if (held !== undefined) return held
+  const one = shadow.index.listedAt(PACKAGE, INDEX)[0]
+  if (one === undefined) {
+    throw new Error(`the index files no \`${PACKAGE}/${INDEX}\`, so where it sits is unknown`)
+  }
+  const made = `${dirname(one.path)}/`
+  INDEXES.set(shadow, made)
+  return made
+}
+
+export const noIndexPathSpelled = judgingEach(TEXTS, (given, shadow) =>
+  found(indexesAt(shadow), given.path, given.text)
+)
