@@ -21,6 +21,11 @@ export const changeApply = {
     "an apply the checks refused leaves every edit kept, and that is the dry run.",
     "why the apply refused is written beside this agent's page, whole.",
     "`break-the-glass` says why no check is to run, and the reason is written into the commit.",
+    "`measure` runs the checks, holds no test file to a ceiling, says what each spent, and lands nothing.",
+    "the edits `akasha change draft` kept are folded into one answer and landed.",
+    "an apply that refuses puts the fold back, so the edits are kept for a change to mend.",
+    "an edit for a body the apply writes again is dropped rather than folded, and the report names it.",
+    "an apply says how many subagents handed edits over, because an apply lands none of them.",
   ],
   invariants: [
     {
@@ -78,6 +83,39 @@ export const changeApply = {
     {
       invariantKind: "absence",
       statement: "No taking is stated here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`break-the-glass` passes the checks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key `measure` runs the checks and lands nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A measuring apply holds no test file to a ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A measuring apply says what each test file the change names spent.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An apply naming no measure lands only where every test file is under the ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A measuring apply carrying no test file refuses rather than landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What one apply run cost is appended beside this page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply a change reached is recorded as a run of its own.",
     },
   ],
 } as const satisfies Command

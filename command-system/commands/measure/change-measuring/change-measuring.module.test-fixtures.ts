@@ -9,7 +9,7 @@ export const THREE = "01a08071-39a4-7000-9c6b-6cee59d30c30"
 
 export const CHANGE_AT = "commands/pages/change-draft/change-draft.command"
 
-export const APPLY_AT = "commands/pages/apply/apply.command"
+export const APPLY_AT = "commands/pages/change-apply/change-apply.command"
 
 export function lineOf(one: Record<string, unknown>): string {
   return JSON.stringify({

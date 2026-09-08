@@ -23,7 +23,6 @@ export const APPLY = "apply"
 export const PAGES: readonly string[] = [
   "commands/pages/change-draft/change-draft.command.ts",
   "commands/pages/change-apply/change-apply.command.ts",
-  "commands/pages/apply/apply.command.ts",
 ]
 
 export interface Reading {

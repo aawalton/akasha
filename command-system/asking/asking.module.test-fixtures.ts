@@ -9,7 +9,7 @@ import { noImportersFiled, pageFiled } from "@akasha/indexes/testing"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { ADMITS_CODE, MINTED, mintedId, minting } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
-import { folding } from "../../commands/pages/apply/apply.command.code.ts"
+import { folding } from "../../commands/modules/apply-running/apply-running.module.code.ts"
 import { applying as applyingPatch } from "../applying/applying.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
@@ -89,7 +89,7 @@ export const REFUSES_TAKING =
 
 export const givenIn = (root: string) => ({
   root,
-  calledAs: "akasha apply",
+  calledAs: "akasha change apply",
   from: root,
   writer: null,
   agentId: AGENT,
@@ -224,7 +224,7 @@ export const applying = async (root: string): Promise<Answer> =>
   await applied(root, { report: [], refusals: [], code: 0 }, ["--message", "held"])
 
 export const mechanically = async (root: string): Promise<number> =>
-  (await landedMechanically(root, "akasha apply", THREE, "held", [], AGENT)).code
+  (await landedMechanically(root, "akasha change apply", THREE, "held", [], AGENT)).code
 
 export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
 

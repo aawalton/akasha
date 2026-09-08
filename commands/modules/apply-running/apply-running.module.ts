@@ -1,27 +1,12 @@
-import type { Command } from "../../../command-system/commands/command.page-type.ts"
+import type { Module } from "@akasha/code/module"
 
-export const apply = {
-  id: "01a07780-1fda-7906-b5d4-939967fa5b73",
-  pageTypeSlug: "command",
-  slug: "apply",
+export const applyRunning = {
+  id: "01a081bf-3b4f-7261-8bf7-fae03d26357a",
+  pageTypeSlug: "module",
+  slug: "apply-running",
   definition: "the edits an agent has answered folded into one change and landed",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-authored",
-  helpNotes: [
-    "the arguments an apply takes are piped in, as the arguments a change takes are.",
-    "nothing on the command line carries a value, so no shell reads a quote or a backslash.",
-    "`message` says what the commit is for, and an apply naming none composes the message.",
-    "`break-the-glass` applies with no check run, and the reason is said in the commit.",
-    "`measure` runs the checks, holds no test file to a ceiling, says what each spent, and lands nothing.",
-    "an apply piping nothing in lands the edits kept under a message it composes.",
-    "the edits `akasha change` appended are folded into one answer and landed.",
-    "the folded edits leave the file holding them once the apply has landed.",
-    "an apply that refuses puts the fold back, so the edits are kept for a change to mend.",
-    "an edit for a body the apply writes again is dropped rather than folded, and the report names it.",
-    "an apply over no edits applies nothing, as the fold of the edits is what an apply lands.",
-    "an apply says how many subagents handed edits over, because an apply lands none of them.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -103,26 +88,6 @@ export const apply = {
       statement: "A row reaching an apply was warranted against the record its writer held.",
     },
     {
-      invariantKind: "absence",
-      statement: "No flag is said on the command line.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The arguments an apply takes are read from standard input.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A call piping nothing in lands under the message an apply composes.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The key `message` says what the commit is for.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "`break-the-glass` passes the checks.",
-    },
-    {
       invariantKind: "departure",
       statement: "A row worked out from an older body is merged onto the commit at HEAD first.",
     },
@@ -135,46 +100,8 @@ export const apply = {
       statement: "A merge that clashes runs no check here and is refused by the apply.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here lands.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An agent whose page is nowhere is refused rather than answered with nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That refusal is the refusal every call running a change gives.",
-    },
-    {
       invariantKind: "departure",
       statement: "The paths folded in are named in the report before the report the apply makes.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The key `measure` runs the checks and lands nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A measuring apply holds no test file to a ceiling.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A measuring apply says what each test file the change names spent.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An apply naming no measure lands only where every test file is under the ceiling.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A measuring apply carrying no test file refuses rather than landing.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "The edits fold under one running rather than the running each change's page states.",
     },
     {
       invariantKind: "departure",
@@ -202,11 +129,20 @@ export const apply = {
     },
     {
       invariantKind: "departure",
-      statement: "What one apply run cost is appended beside this page.",
+      statement: "An agent whose page is nowhere is refused rather than answered with nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "An apply a change reached is recorded as a run of its own.",
+      statement: "That refusal is the refusal every call running a change gives.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "The edits fold under one running rather than the running each change's page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What one apply run cost is appended beside the page of the command that ran.",
     },
   ],
-} as const satisfies Command
+} as const satisfies Module

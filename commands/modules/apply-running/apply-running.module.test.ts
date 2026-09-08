@@ -6,7 +6,7 @@ import { headOf, rebasedHeld } from "../../../command-system/drafting/drafting.m
 import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { writing as putting } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
-import { type Folded, folding, rebasedRows, undone } from "./apply.command.code.ts"
+import { type Folded, folding, rebasedRows, undone } from "./apply-running.module.code.ts"
 
 const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 

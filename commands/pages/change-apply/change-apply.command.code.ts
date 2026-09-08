@@ -9,8 +9,8 @@ import {
   noPageSaid,
 } from "../../../command-system/change-running/change-running.module.code.ts"
 import { inputIn } from "../../../command-system/piping/piping.module.code.ts"
+import { applyingKept, applyWith } from "../../modules/apply-running/apply-running.module.code.ts"
 import { CHANGE_APPLY_PAGE } from "../../modules/change-costing/change-costing.module.code.ts"
-import { apply, applyWith } from "../apply/apply.command.code.ts"
 
 const APPLIES = "apply"
 
@@ -24,7 +24,7 @@ export const CHOSEN: Chosen = {
 }
 
 export async function changeApply(argv: readonly string[], given: Given): Promise<Answer> {
-  if (argv[0] === undefined) return await apply([], given)
+  if (argv[0] === undefined) return await applyingKept(given)
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) {
     return mistaking([noPageSaid(given.root, given.agentId)])

@@ -20,9 +20,7 @@ import {
 } from "../../../command-system/drafting/drafting.module.code.ts"
 import { bodiesFrom } from "../../../command-system/edits-landing/edits-landing.module.code.ts"
 import { inputIn, type Piping } from "../../../command-system/piping/piping.module.code.ts"
-import { APPLY, APPLY_PAGE } from "../../modules/change-costing/change-costing.module.code.ts"
-
-const NO_FLAGS = "an apply takes its arguments piped in, and nothing on the command line"
+import { APPLY, CHANGE_APPLY_PAGE } from "../change-costing/change-costing.module.code.ts"
 
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
 
@@ -139,12 +137,11 @@ export async function applyWith(taken: Arguments, given: Given): Promise<Answer>
   const before = opening()
   const done = await ending(taken, given)
   const refusals = done.answer.refusals.length
-  costRecorded(given.root, APPLY_PAGE, before, APPLY, APPLY, done.paths, refusals)
+  costRecorded(given.root, CHANGE_APPLY_PAGE, before, APPLY, APPLY, done.paths, refusals)
   return done.answer
 }
 
-export async function apply(argv: readonly string[], given: Given): Promise<Answer> {
-  if (argv.length > 0) return mistaking([NO_FLAGS])
+export async function applyingKept(given: Given): Promise<Answer> {
   const taken = takenIn(inputIn)
   if (typeof taken === "string") return mistaking([taken])
   return await applyWith(taken, given)

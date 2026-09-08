@@ -203,7 +203,7 @@ test("breaking the glass runs no check and says so in the commit", async () => {
 test("a landing made by a program runs no check and writes nothing into the commit", async () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES_CODE)
-  const said = await landedMechanically(root, "akasha apply", PROGRAM, "held")
+  const said = await landedMechanically(root, "akasha change apply", PROGRAM, "held")
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(PROPOSED)
   expect(git(root, ["log", "-1", "--pretty=%B"])).not.toContain("Checks-bypassed")
@@ -211,7 +211,7 @@ test("a landing made by a program runs no check and writes nothing into the comm
 
 test("a landing made by a program is told apart from a glass that was broken", async () => {
   const root = repoWith()
-  const said = await landedMechanically(root, "akasha apply", PROGRAM, "held")
+  const said = await landedMechanically(root, "akasha change apply", PROGRAM, "held")
   expect(said.code).toBe(0)
   expect(said.report).toContain(`a \`change-mechanical\` change ${NO_CHECKS}`)
   expect(said.report.join("\n")).not.toContain("the glass was broken")
