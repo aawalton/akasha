@@ -4,7 +4,7 @@ export const recurrenceShape = {
   id: "01a05c6f-c7c3-732d-8113-3c8b675fd74f",
   pageTypeSlug: "module",
   slug: "recurrence-shape",
-  definition: "what a repeating thing carries, and what advancing it answers",
+  definition: "what a repeating thing has, and what advancing it answers",
   code: "ts",
   invariants: [
     {

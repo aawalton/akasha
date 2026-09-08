@@ -38,7 +38,7 @@ export const monarchPoll = {
     },
     {
       invariantKind: "departure",
-      statement: "A tag no tag page carries is left off rather than landed unnamed.",
+      statement: "A tag no tag page has is left off rather than landed unnamed.",
     },
     {
       invariantKind: "departure",

@@ -35,7 +35,7 @@ export const monarchRuleDocuments = {
     },
     {
       invariantKind: "departure",
-      statement: "Two pages carrying one slug are refused.",
+      statement: "Two pages with one slug are refused.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const monarchRuleDocuments = {
     },
     {
       invariantKind: "departure",
-      statement: "An agent rule carrying no judgement is refused.",
+      statement: "An agent rule with no judgement is refused.",
     },
     {
       invariantKind: "departure",

@@ -42,7 +42,7 @@ export const monarchRuleClauses = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule that pairs a counterpart and carries a note is refused.",
+      statement: "A rule that pairs a counterpart and has a note is refused.",
     },
     {
       invariantKind: "departure",

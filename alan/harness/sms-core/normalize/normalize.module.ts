@@ -10,7 +10,7 @@ export const normalize = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "A refusal notice carries no part of the message the notice refused.",
+      statement: "A refusal notice has no part of the message the notice refused.",
     },
     {
       invariantKind: "departure",

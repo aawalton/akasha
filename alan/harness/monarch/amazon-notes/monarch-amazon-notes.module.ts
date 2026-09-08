@@ -31,7 +31,7 @@ export const monarchAmazonNotes = {
     },
     {
       invariantKind: "departure",
-      statement: "A message carrying no order number is counted rather than passed over silently.",
+      statement: "A message with no order number is counted rather than passed over silently.",
     },
     {
       invariantKind: "departure",

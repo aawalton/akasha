@@ -4,7 +4,7 @@ export const monarchEvalSnapshot = {
   id: "01a06863-264d-7e8e-895d-7274b1dbf33c",
   pageTypeSlug: "module",
   slug: "monarch-eval-snapshot",
-  definition: "the mark every Monarch page family carries, so a run can say nothing moved",
+  definition: "the mark every Monarch page family has, so a run can say nothing moved",
   code: "ts",
   invariants: [
     {

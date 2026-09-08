@@ -10,7 +10,7 @@ export const safetyReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is taken on the workstation carrying the checkout.",
+      statement: "The reading is taken on the workstation with the checkout.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +71,7 @@ export const safetyReading = {
     },
     {
       invariantKind: "departure",
-      statement: "An open session carrying no level is no reading.",
+      statement: "An open session with no level is no reading.",
     },
     {
       invariantKind: "departure",

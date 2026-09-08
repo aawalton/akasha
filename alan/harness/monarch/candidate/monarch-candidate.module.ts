@@ -27,7 +27,7 @@ export const monarchCandidate = {
     {
       invariantKind: "departure",
       statement:
-        "A category is named in words here and resolved to the page that carries that category.",
+        "A category is named in words here and resolved to the page that has that category.",
     },
     {
       invariantKind: "absence",

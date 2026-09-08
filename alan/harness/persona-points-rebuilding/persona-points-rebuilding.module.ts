@@ -30,7 +30,7 @@ export const personaPointsRebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona written to only today carries nothing before today.",
+      statement: "A persona written to only today has nothing before today.",
     },
     {
       invariantKind: "departure",

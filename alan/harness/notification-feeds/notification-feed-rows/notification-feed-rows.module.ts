@@ -30,7 +30,7 @@ export const notificationFeedRows = {
     },
     {
       invariantKind: "absence",
-      statement: "A row carries no sequence number.",
+      statement: "A row has no sequence number.",
     },
     {
       invariantKind: "departure",

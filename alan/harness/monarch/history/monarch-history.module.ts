@@ -9,13 +9,11 @@ export const monarchHistory = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A row carries the standing category by its title where a page names that category.",
+      statement: "A row has the standing category by its title where a page names that category.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A row carries the standing category by its slug where no page names that category.",
+      statement: "A row has the standing category by its slug where no page names that category.",
     },
     {
       invariantKind: "departure",

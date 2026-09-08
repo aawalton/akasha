@@ -14,7 +14,7 @@ export const monarchTransactionCreate = {
     {
       invariantKind: "departure",
       statement:
-        "A transaction this project creates carries the tag saying a machine made that transaction.",
+        "A transaction this project creates has the tag saying a machine made that transaction.",
     },
     {
       invariantKind: "departure",

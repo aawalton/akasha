@@ -33,7 +33,7 @@ export const monarchReport = {
     },
     {
       invariantKind: "departure",
-      statement: "A reserving rule is reported by the category a row already carries.",
+      statement: "A reserving rule is reported by the category a row already has.",
     },
     {
       invariantKind: "departure",

@@ -41,7 +41,7 @@ export const pushNotifierTick = {
     },
     {
       invariantKind: "absence",
-      statement: "No push carries an app-icon badge.",
+      statement: "No push has an app-icon badge.",
     },
     {
       invariantKind: "absence",

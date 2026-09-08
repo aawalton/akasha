@@ -27,7 +27,7 @@ export const simWwwStage = {
     },
     {
       invariantKind: "departure",
-      statement: "An app whose shell carries a committed `www/` names no stage script.",
+      statement: "An app whose shell has a committed `www/` names no stage script.",
     },
   ],
 } as const satisfies Module

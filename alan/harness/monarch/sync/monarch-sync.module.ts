@@ -22,7 +22,7 @@ export const monarchSync = {
     },
     {
       invariantKind: "departure",
-      statement: "Only the tags the fetched transactions actually carry are landed.",
+      statement: "Only the tags the fetched transactions actually have are landed.",
     },
     {
       invariantKind: "departure",

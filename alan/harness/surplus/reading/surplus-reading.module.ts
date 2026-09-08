@@ -9,7 +9,7 @@ export const surplusReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is taken on the workstation carrying the checkout.",
+      statement: "The reading is taken on the workstation with the checkout.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const surplusReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying no surplus is no reading rather than a reading of zero.",
+      statement: "A day with no surplus is no reading rather than a reading of zero.",
     },
     {
       invariantKind: "departure",

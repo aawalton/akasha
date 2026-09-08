@@ -26,7 +26,7 @@ export const smsAllowlist = {
     },
     {
       invariantKind: "gap",
-      statement: "A relationship is a page akasha carries.",
+      statement: "A relationship is a page akasha has.",
     },
   ],
 } as const satisfies Module

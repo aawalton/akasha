@@ -25,8 +25,7 @@ export const monarchRulePages = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A category named in words resolves only where exactly one page carries that title.",
+      statement: "A category named in words resolves only where exactly one page has that title.",
     },
     {
       invariantKind: "departure",

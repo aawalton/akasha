@@ -43,7 +43,7 @@ export const monarchLandFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch naming a transaction no sidecar carries is refused.",
+      statement: "A patch naming a transaction no sidecar has is refused.",
     },
     {
       invariantKind: "departure",

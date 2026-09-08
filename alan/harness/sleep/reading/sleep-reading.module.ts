@@ -9,7 +9,7 @@ export const sleepReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is taken on the workstation carrying the checkout.",
+      statement: "The reading is taken on the workstation with the checkout.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,7 @@ export const sleepReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying no sleep is no reading rather than a reading of zero.",
+      statement: "A day with no sleep is no reading rather than a reading of zero.",
     },
     {
       invariantKind: "departure",

@@ -33,7 +33,7 @@ export const pushPayload = {
     },
     {
       invariantKind: "departure",
-      statement: "A push to the shared app carries no deep link.",
+      statement: "A push to the shared app has no deep link.",
     },
     {
       invariantKind: "departure",

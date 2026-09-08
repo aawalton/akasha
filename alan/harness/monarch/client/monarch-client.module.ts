@@ -15,7 +15,7 @@ export const monarchClient = {
     {
       invariantKind: "departure",
       statement:
-        "A reply carrying a GraphQL error is refused with that error's words whatever the status read.",
+        "A reply with a GraphQL error is refused with that error's words whatever the status read.",
     },
     {
       invariantKind: "departure",

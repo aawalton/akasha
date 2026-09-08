@@ -9,7 +9,7 @@ export const monarchAmazonWrite = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A note is written only where the row carries no note.",
+      statement: "A note is written only where the row has no note.",
     },
     {
       invariantKind: "departure",

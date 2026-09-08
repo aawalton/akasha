@@ -18,7 +18,7 @@ export const monarchCredential = {
     },
     {
       invariantKind: "departure",
-      statement: "A cookie carrying no csrftoken is refused.",
+      statement: "A cookie with no csrftoken is refused.",
     },
     {
       invariantKind: "departure",
