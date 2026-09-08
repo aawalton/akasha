@@ -14,7 +14,7 @@ const PAGE_ROUTES: RouteConfig = [
     route("inventory", "routes/inventory/inventory.route.code.tsx"),
     route("keyboard-shortcuts", "routes/keyboard-shortcuts/keyboard-shortcuts.route.code.tsx"),
     route("methodology", "routes/methodology/methodology.route.code.tsx"),
-    route("settings", "routes/settings.tsx"),
+    route("settings", "routes/settings/settings.route.code.tsx"),
     route("shopping", "routes/shopping.tsx"),
     route("watcher", "routes/watcher.tsx"),
     route(":pageTypeSlug/:pageHrefParam", "routes/page-detail/page-detail.route.code.tsx"),

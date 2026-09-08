@@ -1,17 +1,17 @@
 import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
+import type { SupabaseUser } from "@akasha/supabase-auth/supabase-user"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { Suspense } from "react"
 import { data, redirect, useSearchParams } from "react-router"
-import { SettingsPageContent } from "../settings-page-content/settings-page-content.module.code.tsx"
-import { tabDefaultFor } from "../tab-defaults/tab-defaults.module.code.ts"
-import type { Route } from "./+types/settings"
+import { SettingsPageContent } from "../../settings-page-content/settings-page-content.module.code.tsx"
+import { tabDefaultFor } from "../../tab-defaults/tab-defaults.module.code.ts"
 
 export function meta() {
   return [{ title: "Temper | Settings" }]
 }
 
-export async function loader({ request }: Route.LoaderArgs) {
+export async function loader({ request }: { request: Request }) {
   const { user, headers } = await getUser(request)
   if (!user) {
     const target = redirect("/sign-in")
@@ -23,7 +23,7 @@ export async function loader({ request }: Route.LoaderArgs) {
   return data({ user: { id: user.id, email: user.email } }, { headers })
 }
 
-export default function SettingsPage({ loaderData }: Route.ComponentProps) {
+export default function SettingsPage({ loaderData }: { loaderData: { user: SupabaseUser } }) {
   const [searchParams] = useSearchParams()
   const tab = searchParams.get("tab") ?? tabDefaultFor("/settings") ?? "account"
   return (
