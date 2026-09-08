@@ -5,5 +5,5 @@ export const trackWorkout = {
   pageTypeSlug: "namespace",
   slug: "track-workout",
   definition: "a workout and the sets recorded under that workout",
-  partSlugs: ["command/track-workout-finish", "command/track-workout-show"],
+  partSlugs: ["command/track-workout-show"],
 } as const satisfies Namespace
