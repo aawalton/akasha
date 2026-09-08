@@ -7,7 +7,10 @@ import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statemen
 import { LuaLibFeature } from "../tstl-lua-lib/tstl-lua-lib.module.code.ts"
 import { transformLuaLibFunction } from "../tstl-lualib/tstl-lualib.module.code.ts"
 import { transformInPrecedingStatementScope } from "../tstl-preceding-statements/tstl-preceding-statements.module.code.ts"
-import { isAssignmentPattern } from "../tstl-typescript/tstl-typescript.module.code.ts"
+import {
+  isAssignmentPattern,
+  isEqualsAssignment,
+} from "../tstl-typescript/tstl-typescript.module.code.ts"
 import { cast } from "../tstl-utils/tstl-utils.module.code.ts"
 import {
   transformAssignment,
@@ -17,12 +20,6 @@ import {
 import { requireTransformBinaryOperation } from "../visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"
 import { transformDestructuringAssignmentHolder } from "../visit-destructuring-deps/visit-destructuring-deps.module.code.ts"
 import { transformPropertyName } from "../visit-property-name/visit-property-name.module.code.ts"
-
-function isEqualsAssignment(
-  node: ts.BinaryExpression
-): node is ts.AssignmentExpression<ts.EqualsToken> {
-  return node.operatorToken.kind === ts.SyntaxKind.EqualsToken
-}
 
 export function transformDestructuringAssignment(
   context: TransformationContext,
@@ -54,6 +51,8 @@ export function transformAssignmentPattern(
         root,
         rightHasPrecedingStatements
       )
+    default:
+      return assertNever(node)
   }
 }
 
