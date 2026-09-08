@@ -14,6 +14,7 @@ export const changeMechanicalFileContent = {
   partSlugs: [
     "domain/change-mechanical-file-content-add",
     "domain/change-mechanical-file-content-change",
+    "domain/change-mechanical-file-content-move",
     "domain/change-mechanical-file-content-remove",
     "domain/change-mechanical-file-content-rename",
   ],

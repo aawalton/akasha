@@ -32,6 +32,9 @@ export type Changes = {
   "change-mechanical-file-content/change-property-value-field": Parameters<
     typeof import("../../../mechanical/file-content/change/change-property-value-field/change-property-value-field.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
+  "change-mechanical-file-content/move-property-value": Parameters<
+    typeof import("../../../mechanical/file-content/move/move-property-value/move-property-value.change-mechanical-file-content.code.ts")["runChange"]
+  >[1]
   "change-mechanical-file-content/remove-manifest-ways": Parameters<
     typeof import("../../../mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
