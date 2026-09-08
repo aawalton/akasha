@@ -8,6 +8,7 @@ export const renamePage = {
   definition: "a page renamed and carried to where its slug says, in the data and in every name",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,
@@ -27,6 +28,23 @@ export const renamePage = {
     {
       invariantKind: "departure",
       statement: "A key that type does not declare is looked for among every page property.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page type holding a secret or an uncommitted value keeps that value beside the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file under a reserved tail is carried with the page that file sits beside.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reserved tail holding no body is carried nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file under no TypeScript name is carried by the change carrying a file alone.",
     },
     {
       invariantKind: "departure",

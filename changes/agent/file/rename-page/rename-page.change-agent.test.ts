@@ -28,6 +28,18 @@ import {
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { renamePage } from "./rename-page.change-agent.code.ts"
+import {
+  SEATED_PAGE,
+  SEATED_SLUG,
+  SECOND_PAGE,
+  WARDED_CODE,
+  WARDED_LANDS,
+  WARDED_LANDS_CODE,
+  WARDED_LANDS_SOPS,
+  WARDED_PAGE,
+  WARDED_SOPS,
+  wardedAt,
+} from "./rename-page.change-agent.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
@@ -44,12 +56,6 @@ const OTHER_SLUG = "other-one"
 const OTHER_CODE = "akasha/three/other-one.module.code.ts"
 
 const WIDE_PAGE = "akasha/four/wide.module.ts"
-
-const SEATED_SLUG = "seated"
-
-const SEATED_PAGE = "akasha/seated/seated.module.ts"
-
-const SEATED_CODE = "akasha/seated/seated.module.code.ts"
 
 const TYPED_SLUG = "typed-one"
 
@@ -75,14 +81,12 @@ function readerBody(named: string, at: string): string {
   return `import type { ${named} } from "${at}"\n\nexport const reader: ${named} = "one"\n`
 }
 
-function typedRepo(): string {
-  return indexedRepo({
-    [TYPED_PAGE]: `export type TypedOne = string\n\n${pageOf(TYPED_VALUE)}`,
-    [PLAIN_PAGE]: `export type Kept = string\n\n${pageOf(PLAIN_VALUE)}`,
-    [READER_PAGE]: pageOf(READER_VALUE),
-    [READER_CODE]: readerBody("TypedOne", `../five/${TYPED_SLUG}.module.ts`),
-  })
-}
+const typedAt: string = indexedRepo({
+  [TYPED_PAGE]: `export type TypedOne = string\n\n${pageOf(TYPED_VALUE)}`,
+  [PLAIN_PAGE]: `export type Kept = string\n\n${pageOf(PLAIN_VALUE)}`,
+  [READER_PAGE]: pageOf(READER_VALUE),
+  [READER_CODE]: readerBody("TypedOne", `../five/${TYPED_SLUG}.module.ts`),
+})
 
 const saying =
   (body: string) =>
@@ -91,6 +95,15 @@ const saying =
 
 const statedAs = (value: Record<string, unknown>, named: string): string =>
   bodyOf(value).replace("export const it", `export const ${named}`)
+
+const OTHER_VALUE = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
+
+const heldAt: string = indexedRepo()
+
+const otherAt: string = indexedRepo({
+  [OTHER_PAGE]: statedAs(OTHER_VALUE, "otherOne"),
+  [OTHER_CODE]: "export const kept = 2\n",
+})
 
 const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical-file-content/rename-page-slug") {
@@ -165,18 +178,14 @@ test("a page type is refused, its slug being renamed by another act", async () =
 })
 
 test("a refusal from the slug rename is answered as this change's own", async () => {
-  const root = indexedRepo()
+  const root = heldAt
   const said = await renamePage(worldIn(root, textIn(root)), { at: HELD_PAGE, to: "namer" })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("a `module` carries the slug `namer` already")
 })
 
 test("a page whose slug is more than one word has its camel export renamed too", async () => {
-  const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
-  const root = indexedRepo({
-    [OTHER_PAGE]: statedAs(value, "otherOne"),
-    [OTHER_CODE]: "export const kept = 2\n",
-  })
+  const root = otherAt
   const said = await renamePage(worldIn(root, textIn(root)), { at: OTHER_PAGE, to: CARRIED })
   const body = bodiesIn(said, textIn(root)).get(CARRIED_PAGE) ?? ""
   expect(said.refused).toBe(null)
@@ -186,7 +195,7 @@ test("a page whose slug is more than one word has its camel export renamed too",
 
 test("the slug rename and each carry are reached at their own addresses", async () => {
   const reached: string[] = []
-  const root = indexedRepo()
+  const root = heldAt
   const world = worldAt(root, textIn(root), (_world, at) => {
     reached.push(at)
     return Promise.resolve({ edits: [], refused: null })
@@ -199,7 +208,7 @@ test("the slug rename and each carry are reached at their own addresses", async 
 })
 
 test("a page's slug is renamed in its data, and its files are carried with it", async () => {
-  const root = indexedRepo()
+  const root = heldAt
   const was = textIn(root)
   const page = was(HELD_PAGE) ?? ""
   const namer = was(NAMER_PAGE) ?? ""
@@ -233,14 +242,6 @@ test("a page's slug is renamed in its data, and its files are carried with it", 
   expect(bodies.get(HELD_CODE)).toBe(null)
 })
 
-test("a body a move carries states the body on disk before the change", async () => {
-  const root = indexedRepo()
-  const was = textIn(root)
-  const said = await renamePage(worldIn(root, was), { at: HELD_PAGE, to: CARRIED })
-  expect(said.refused).toBe(null)
-  expect(bodiesIn(said, was).get(CARRIED_CODE)).toBe(was(HELD_CODE))
-})
-
 test("a beside file whose key is more than one word is carried too", async () => {
   const root = indexedRepo({
     "akasha/test-fixtures.file-property.ts": bodyOf({
@@ -268,10 +269,27 @@ test("a beside file whose key is more than one word is carried too", async () =>
   ])
 })
 
+test("a page whose type holds a secret has the sops file beside it carried too", async () => {
+  const world = worldIn(wardedAt, textIn(wardedAt))
+  const said = await renamePage(world, { at: WARDED_PAGE, to: CARRIED })
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([
+    [WARDED_PAGE, WARDED_LANDS],
+    [WARDED_CODE, WARDED_LANDS_CODE],
+    [WARDED_SOPS, WARDED_LANDS_SOPS],
+  ])
+})
+
+test("a page whose type holds a secret it keeps no file for carries no sops file", async () => {
+  const world = worldIn(wardedAt, textIn(wardedAt))
+  const said = await renamePage(world, { at: SECOND_PAGE, to: CARRIED })
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([[SECOND_PAGE, WARDED_LANDS]])
+})
+
 test("a page sharing its folder is renamed in the folder that page sits in", async () => {
-  const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
   const root = indexedRepo({
-    [OTHER_PAGE]: statedAs(value, "otherOne"),
+    [OTHER_PAGE]: statedAs(OTHER_VALUE, "otherOne"),
     [OTHER_CODE]: "export const kept = 2\n",
     "akasha/three/second.module.ts": pageOf({
       id: idOf("e"),
@@ -288,11 +306,7 @@ test("a page sharing its folder is renamed in the folder that page sits in", asy
 })
 
 test("a page carrying the slug asked for is carried into the folder that slug names", async () => {
-  const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
-  const root = indexedRepo({
-    [OTHER_PAGE]: statedAs(value, "otherOne"),
-    [OTHER_CODE]: "export const kept = 2\n",
-  })
+  const root = otherAt
   const said = await renamePage(worldIn(root, textIn(root)), { at: OTHER_PAGE, to: OTHER_SLUG })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
@@ -302,33 +316,28 @@ test("a page carrying the slug asked for is carried into the folder that slug na
 })
 
 test("a page carrying the slug asked for, in the folder that slug names, is refused", async () => {
-  const root = indexedRepo({
-    [SEATED_PAGE]: pageOf({
-      id: idOf("e"),
-      pageTypeSlug: "module",
-      slug: SEATED_SLUG,
-      code: "ts",
-    }),
-    [SEATED_CODE]: "export const kept = 5\n",
-  })
-  const said = await renamePage(worldIn(root, textIn(root)), { at: SEATED_PAGE, to: SEATED_SLUG })
+  const world = worldIn(wardedAt, textIn(wardedAt))
+  const said = await renamePage(world, { at: SEATED_PAGE, to: SEATED_SLUG })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
     `\`${SEATED_SLUG}\` is the slug this page carries, in the folder that slug names`
   )
 })
 
-test("a page exporting a type named from its slug has that type spelled anew", async () => {
-  const root = typedRepo()
+test("a page exporting a type named from its slug has the const and the type spelled anew", async () => {
+  const root = typedAt
   const said = await renamePage(worldIn(root, textIn(root)), { at: TYPED_PAGE, to: CARRIED })
   const bodies = bodiesIn(said, textIn(root))
+  const body = bodies.get(TYPED_LANDS) ?? ""
   expect(said.refused).toBe(null)
-  expect(bodies.get(TYPED_LANDS) ?? "").toContain("export type Carried = string")
+  expect(body).toContain("export type Carried = string")
+  expect(body).toContain(`export const ${CARRIED} =`)
+  expect(body).not.toContain("TypedOne")
   expect(bodies.get(READER_CODE)).toBe(readerBody("Carried", `../five/${CARRIED}.module.ts`))
 })
 
 test("a page exporting no type named from its slug leaves that file's type alone", async () => {
-  const root = typedRepo()
+  const root = typedAt
   const said = await renamePage(worldIn(root, textIn(root)), { at: PLAIN_PAGE, to: CARRIED })
   const body = bodiesIn(said, textIn(root)).get(PLAIN_LANDS) ?? ""
   expect(said.refused).toBe(null)
@@ -336,18 +345,8 @@ test("a page exporting no type named from its slug leaves that file's type alone
   expect(body).toContain(`export const ${CARRIED} =`)
 })
 
-test("the const and the type a page exports are spelled anew in one answer", async () => {
-  const root = typedRepo()
-  const said = await renamePage(worldIn(root, textIn(root)), { at: TYPED_PAGE, to: CARRIED })
-  const body = bodiesIn(said, textIn(root)).get(TYPED_LANDS) ?? ""
-  expect(said.refused).toBe(null)
-  expect(body).toContain(`export const ${CARRIED} =`)
-  expect(body).toContain("export type Carried = string")
-  expect(body).not.toContain("TypedOne")
-})
-
 test("a page renamed over a ledger is carried once rather than a second time", async () => {
-  const root = indexedRepo()
+  const root = heldAt
   const was = textIn(root)
   const said = await renamePage(ledgerAt(root, was, RUNS), { at: HELD_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)

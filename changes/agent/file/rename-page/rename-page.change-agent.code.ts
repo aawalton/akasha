@@ -1,8 +1,8 @@
-import { basename, dirname, join, relative } from "node:path"
+import { basename, dirname, extname, join, relative } from "node:path"
 import { parsedAs } from "@akasha/code/code-source"
 import { reachesIn } from "@akasha/code/package-manifest"
 import { manifestsIn } from "@akasha/indexes/package-reaching"
-import { besideAt } from "@akasha/pages/page-file-name"
+import { besideAt, secretAt, uncommittedAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import ts from "typescript"
 import { typedAs } from "../../../../pages/export-name/page-export-name.module.code.ts"
@@ -28,6 +28,10 @@ import { spelledAnew } from "../../file-content/rename-package/rename-package.ch
 const RENAME_PAGE_SLUG = "change-mechanical-file-content/rename-page-slug"
 
 const MOVE_FILE_CODE = "change-mechanical/move-file-code"
+
+const MOVE_FILE = "change-mechanical-file/move-file"
+
+const CODE = new Set([".ts", ".tsx"])
 
 const RENAME_EXPORT = "change-mechanical-file-content/rename-export"
 
@@ -81,7 +85,7 @@ function readIn(at: string, text: string): Read {
   }
 }
 
-type Beside = { readonly propertySlug: string; readonly ending: string }
+type Beside = (path: string) => string | null
 
 function filedIn(world: World, held: Held): ReadonlyMap<string, string> {
   const filed = new Map<string, string>()
@@ -106,16 +110,28 @@ function besideIn(world: World, held: Held): readonly Beside[] {
   for (const [key, ending] of held.said) {
     const propertySlug = filed.get(key) ?? searchedIn(world, key)
     if (propertySlug === null || propertySlug === undefined) continue
-    found.push({ propertySlug, ending })
+    found.push((path) => besideAt(path, propertySlug, ending))
   }
   return found
 }
 
+function reservedIn(world: World, held: Held, at: string): readonly Beside[] {
+  const said = world.index.sidecarsAt().get(held.pageTypeSlug)
+  if (said === undefined) return []
+  const found: Beside[] = []
+  if (said.secret) found.push(secretAt)
+  if (said.uncommitted) found.push(uncommittedAt)
+  return found.filter((named) => {
+    const path = named(at)
+    return path !== null && world.textOf(path) !== null
+  })
+}
+
 function movesOver(beside: readonly Beside[], at: string, to: string): readonly Move[] {
   const found: Move[] = []
-  for (const one of beside) {
-    const from = besideAt(at, one.propertySlug, one.ending)
-    const next = besideAt(to, one.propertySlug, one.ending)
+  for (const named of beside) {
+    const from = named(at)
+    const next = named(to)
     if (from === null || next === null) continue
     found.push({ from, to: next })
   }
@@ -282,7 +298,7 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
   let lands: string
   let beside: readonly Beside[]
   try {
-    beside = besideIn(world, held)
+    beside = [...besideIn(world, held), ...reservedIn(world, held, given.at)]
     lands = landingIn(world, held, given, beside)
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
@@ -299,7 +315,8 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
   const carries = [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]
   const way = wayIn(world, new Map(carries.map((one) => [one.from, one.to])), held.slug, given.to)
   for (const one of carries) {
-    const carried = await reach(seen, MOVE_FILE_CODE, one)
+    const named = CODE.has(extname(one.from)) ? MOVE_FILE_CODE : MOVE_FILE
+    const carried = await reach(seen, named, one)
     if (carried.said.refused !== null) return carried.said
     answers.push(carried.said)
     folded = gathered(answers)
