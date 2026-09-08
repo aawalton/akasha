@@ -58,7 +58,7 @@ export const theaChecksSystem = {
     {
       statement: "Every file an app carries beside its routes is claimed by a page.",
       workingMemory:
-        "Thirteen files. router-app now declares server, sidebar-boot, placeholder-image and addon-bundle-image as optional named files, and temper-web states all four. Nine are left, each wanting one line on its own router-app page: server.ts in alan/web, atlas-web, archive-of-worlds-web, audhdalan-web and smilingjenny-web, public/sidebar-boot.js in the first three of those, and alan/web/public/favicon.svg, which no property reaches, placeholder-image naming placeholder.svg.",
+        "Thirteen are claimed: router-app declares server, sidebar-boot, placeholder-image, addon-bundle-image and site-icon, and every app states what it holds. Fourteen more of the same shape were missed by a classifier reading a fixed list of names. Six .gitignore, one per web app. Six tunnel-routes.ts, the property already on workspace-package but not on router-app. Two bunfig.toml, in alan/web and temper-web. Each wants a named file property and a line per app.",
     },
     {
       statement: "Every ast-unused workspace config is claimed by a page.",
