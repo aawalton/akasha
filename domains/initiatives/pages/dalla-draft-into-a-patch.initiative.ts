@@ -51,7 +51,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "The patch a landing works out is held by no page property.",
       workingMemory:
-        "A stored patch deadlocked this seat: a property only an apply writes, and an apply reads before writing, refused every apply until `akasha patch drop` took the stale path out. That absence is also the one signal clearing the edits ledger, at `undone`, so `applied()` must report landing before the store goes rather than after. In order: hand the patch to the landing in memory, clear the residue, stop the writer, drop the properties.",
+        "`patch-keeping` keeps `<agent page>.patch.diff` beside the agent's page, `command-system/drafting` is its only caller, and `agents/package.json` exports it. No property on `agent.page-type.ts` declares that file, though the path index names it by the same rule, so there is no property to drop. The `edits` jsonl is the declared store. What is left is for `drafting` to work the patch out in memory and let `patch-keeping` go.",
     },
     {
       statement: "Every property a command's page type declares is read.",
