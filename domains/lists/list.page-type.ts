@@ -28,7 +28,7 @@ export const list = {
     },
     {
       invariantKind: "departure",
-      statement: "A member carries nothing else.",
+      statement: "A member has nothing else.",
     },
     {
       invariantKind: "departure",

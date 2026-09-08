@@ -34,7 +34,7 @@ export const pageAddressKind = {
     },
     {
       invariantKind: "departure",
-      statement: "An address carries every part of the identity path.",
+      statement: "An address has every part of the identity path.",
     },
     {
       invariantKind: "departure",

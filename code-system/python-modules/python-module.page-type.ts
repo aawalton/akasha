@@ -32,7 +32,7 @@ export const pythonModule = {
     {
       invariantKind: "departure",
       statement:
-        "A Python module reaches its siblings by the name a sibling carries where that module runs.",
+        "A Python module reaches its siblings by the name a sibling has where that module runs.",
     },
     {
       invariantKind: "departure",

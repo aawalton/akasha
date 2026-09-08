@@ -60,7 +60,7 @@ export const nav = {
     },
     {
       invariantKind: "departure",
-      statement: "A nav item carries the order that nav item sits in among its siblings.",
+      statement: "A nav item has the order that nav item sits in among its siblings.",
     },
     {
       invariantKind: "departure",

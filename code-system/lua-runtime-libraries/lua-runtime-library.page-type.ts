@@ -41,7 +41,7 @@ export const luaRuntimeLibrary = {
     },
     {
       invariantKind: "departure",
-      statement: "A file here carries no page of its own.",
+      statement: "A file here has no page of its own.",
     },
     {
       invariantKind: "departure",

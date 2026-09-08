@@ -105,8 +105,7 @@ export const computer = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every score a machine carries is worked out from its parts rather than written down.",
+      statement: "Every score a machine has is worked out from its parts rather than written down.",
     },
   ],
 } as const satisfies PageType

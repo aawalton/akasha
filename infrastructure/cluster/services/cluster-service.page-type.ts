@@ -123,7 +123,7 @@ export const clusterService = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A cluster service is one resource carrying a pod template.",
+      statement: "A cluster service is one resource with a pod template.",
     },
     {
       invariantKind: "absence",
@@ -145,12 +145,12 @@ export const clusterService = {
     },
     {
       invariantKind: "departure",
-      statement: "A cluster service states replicas only where its kind carries replicas.",
+      statement: "A cluster service states replicas only where its kind has replicas.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A cluster service states a container port only where its kind carries a container port.",
+        "A cluster service states a container port only where its kind has a container port.",
     },
     {
       invariantKind: "departure",

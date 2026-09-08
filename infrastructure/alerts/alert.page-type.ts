@@ -51,7 +51,7 @@ export const alert = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule the deployment carries raises an alert.",
+      statement: "A rule the deployment has raises an alert.",
     },
     {
       invariantKind: "departure",
@@ -112,7 +112,7 @@ export const alert = {
     },
     {
       invariantKind: "gap",
-      statement: "An alert event carries its condition slug in `reference_id`.",
+      statement: "An alert event has its condition slug in `reference_id`.",
     },
     {
       invariantKind: "gap",

@@ -17,11 +17,11 @@ export const calendarTimeProperty = {
     },
     {
       invariantKind: "absence",
-      statement: "A time of day carries no day.",
+      statement: "A time of day has no day.",
     },
     {
       invariantKind: "absence",
-      statement: "A time of day carries no zone.",
+      statement: "A time of day has no zone.",
     },
     {
       invariantKind: "departure",

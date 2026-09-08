@@ -42,7 +42,7 @@ export const proposition = {
     },
     {
       invariantKind: "departure",
-      statement: "An adopted proposition carries no proof.",
+      statement: "An adopted proposition has no proof.",
     },
     {
       invariantKind: "absence",

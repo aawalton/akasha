@@ -58,7 +58,7 @@ export const namespace = {
     },
     {
       invariantKind: "absence",
-      statement: "A namespace carries no code of its own.",
+      statement: "A namespace has no code of its own.",
     },
   ],
 } as const satisfies PageType

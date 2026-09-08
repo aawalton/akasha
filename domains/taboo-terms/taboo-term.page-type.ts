@@ -40,7 +40,7 @@ export const tabooTerm = {
     },
     {
       invariantKind: "departure",
-      statement: "The word is written wherever the word carries a sense the term does not bar.",
+      statement: "The word is written wherever the word has a sense the term does not bar.",
     },
     {
       invariantKind: "departure",

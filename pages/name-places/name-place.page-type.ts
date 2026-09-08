@@ -37,11 +37,11 @@ export const namePlace = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name a page property carries states its format on the property.",
+      statement: "A name a page property has states its format on the property.",
     },
     {
       invariantKind: "departure",
-      statement: "A place is defined whether or not a file in akasha carries such a name yet.",
+      statement: "A place is defined whether or not a file in akasha has such a name yet.",
     },
     {
       invariantKind: "departure",

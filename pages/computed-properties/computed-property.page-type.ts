@@ -27,7 +27,7 @@ export const computedProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page carries no value for a computed property.",
+      statement: "A page has no value for a computed property.",
     },
     {
       invariantKind: "departure",

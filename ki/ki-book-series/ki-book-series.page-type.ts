@@ -7,7 +7,7 @@ export const kiBookSeries = {
   id: "01a06825-d0ec-7bfd-b89f-ecf2d7fbbaad",
   pageTypeSlug: "page-type",
   slug: "ki-book-series",
-  definition: "the books Ki keeps that carry one story in order",
+  definition: "the books Ki keeps that have one story in order",
   pluralSlug: "ki-book-series",
   extendsSlug: ["page-type/ki-collection-template"],
   invariants: [

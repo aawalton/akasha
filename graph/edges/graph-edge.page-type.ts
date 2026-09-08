@@ -46,7 +46,7 @@ export const graphEdge = {
     },
     {
       invariantKind: "departure",
-      statement: "An edge kind names the attributes that edge kind carries.",
+      statement: "An edge kind names the attributes that edge kind has.",
     },
     {
       invariantKind: "departure",
