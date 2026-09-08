@@ -10,10 +10,6 @@ const A_PNG = "image/png"
 
 const HELD_FOR = "public, max-age=60"
 
-// THE PICTURE COMES OFF THE PERSONA RATHER THAN OUT OF THE OBJECT STORE. A persona's wallpaper is
-// a file beside her page, so the ask carries the ending the page states and a second call carries
-// the bytes. The order comes from `wallpaper-order` rather than from a rule here, so this route
-// and the service setting Alan's desktop wallpaper land on one persona.
 const EVERY_PERSONA_WALLPAPER: Query = {
   pageTypeSlug: PERSONA_PAGE_TYPE_SLUG,
   keys: ["id", "slug", WALLPAPER_KEY, "lastMessagedAt"],
@@ -25,8 +21,6 @@ function asStringOrNull(value: unknown): string | null {
 
 export async function loader(): Promise<Response> {
   const asked = await askingFor(EVERY_PERSONA_WALLPAPER)
-  // A REFUSAL IS NOT AN EMPTY WALLPAPER SET. Falling through to the 404 below would tell the
-  // caller there is no wallpaper to draw, when what happened is that no wallpaper was read.
   if ("refused" in asked) {
     return new Response(`The personas went unread: ${asked.refused}`, { status: 503 })
   }
