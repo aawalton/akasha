@@ -17,8 +17,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "`before` and `after` answer for any path rather than only a path the change carries.",
+      statement: "`before` and `after` answer for any path rather than only a path the change has.",
     },
     {
       invariantKind: "departure",

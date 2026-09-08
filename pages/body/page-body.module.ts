@@ -4,7 +4,7 @@ export const pageBody = {
   id: "01a05de5-1c90-7834-a245-bb7748f6f1ea",
   pageTypeSlug: "module",
   slug: "page-body",
-  definition: "the TypeScript a page is, written from the values it carries",
+  definition: "the TypeScript a page is, written from the values it has",
   code: "ts",
   test: "ts",
   invariants: [
@@ -27,7 +27,7 @@ export const pageBody = {
     {
       invariantKind: "departure",
       statement:
-        "A key the values carry and the caller does not name is answered rather than written.",
+        "A key the values have and the caller does not name is answered rather than written.",
     },
     {
       invariantKind: "departure",

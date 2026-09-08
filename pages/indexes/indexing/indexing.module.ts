@@ -32,12 +32,11 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A relation naming a page of a page type the write carries reaches that page type.",
+      statement: "A relation naming a page of a page type the write has reaches that page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A rebuild reads the index only to find the values no page carries.",
+      statement: "A rebuild reads the index only to find the values no page has.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +50,7 @@ export const indexing = {
     {
       invariantKind: "departure",
       statement:
-        "A property whose file carries a fixed name claims no file named for a slug and a page type.",
+        "A property whose file has a fixed name claims no file named for a slug and a page type.",
     },
     {
       invariantKind: "departure",
@@ -77,7 +76,7 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "The fixture carries the `id` and `slug` property pages themselves.",
+      statement: "The fixture has the `id` and `slug` property pages themselves.",
     },
     {
       invariantKind: "departure",
@@ -86,7 +85,7 @@ export const indexing = {
     {
       invariantKind: "departure",
       statement:
-        "Which properties carry a `unique` is read from the schema as the change leaves the schema.",
+        "Which properties have a `unique` is read from the schema as the change leaves the schema.",
     },
     {
       invariantKind: "departure",

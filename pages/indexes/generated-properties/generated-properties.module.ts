@@ -33,7 +33,7 @@ export const generatedProperties = {
     {
       invariantKind: "departure",
       statement:
-        "A property carries the key that property is read by alongside the slug that property is reached by.",
+        "A property has the key that property is read by alongside the slug that property is reached by.",
     },
     {
       invariantKind: "departure",

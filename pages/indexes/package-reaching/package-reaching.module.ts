@@ -14,20 +14,20 @@ export const packageReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A path carrying the file name the `manifest` property states is a manifest.",
+      statement: "A path with the file name the `manifest` property states is a manifest.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A caller with no paths reads the manifests off the pages carrying a manifest property.",
+        "A caller with no paths reads the manifests off the pages with a manifest property.",
     },
     {
       invariantKind: "departure",
-      statement: "The manifests are read from every property whose file carries that file name.",
+      statement: "The manifests are read from every property whose file has that file name.",
     },
     {
       invariantKind: "departure",
-      statement: "A manifest is beside the page carrying that manifest.",
+      statement: "A manifest is beside the page with that manifest.",
     },
     {
       invariantKind: "departure",
@@ -61,11 +61,11 @@ export const packageReaching = {
     {
       invariantKind: "departure",
       statement:
-        "A settle is answered from the paths the index names and the paths the change carries.",
+        "A settle is answered from the paths the index names and the paths the change has.",
     },
     {
       invariantKind: "departure",
-      statement: "A manifest the change carries is read as the change leaves the manifest.",
+      statement: "A manifest the change has is read as the change leaves the manifest.",
     },
     {
       invariantKind: "departure",
@@ -83,7 +83,7 @@ export const packageReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "An importer the change already carries is left out of that answer.",
+      statement: "An importer the change already has is left out of that answer.",
     },
     {
       invariantKind: "gap",

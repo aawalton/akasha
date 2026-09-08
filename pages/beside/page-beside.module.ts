@@ -41,7 +41,7 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "A name carrying sections that name no property of the page is left alone.",
+      statement: "A name with sections that name no property of the page is left alone.",
     },
     {
       invariantKind: "departure",
@@ -66,7 +66,7 @@ export const pageBeside = {
     {
       invariantKind: "departure",
       statement:
-        "The naming grammar lets only this page claim a file carrying its name and a property's sections.",
+        "The naming grammar lets only this page claim a file with its name and a property's sections.",
     },
   ],
 } as const satisfies Module

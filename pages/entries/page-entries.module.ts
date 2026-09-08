@@ -20,7 +20,7 @@ export const pageEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "A blank line carries no value.",
+      statement: "A blank line has no value.",
     },
     {
       invariantKind: "departure",

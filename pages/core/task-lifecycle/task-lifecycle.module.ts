@@ -4,13 +4,13 @@ export const taskLifecycle = {
   id: "01a05b92-a9c7-7218-a6a2-fd22347d97b9",
   pageTypeSlug: "module",
   slug: "task-lifecycle",
-  definition: "what a task carries once it is marked done",
+  definition: "what a task has once it is marked done",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A task marked done carries the instant of the marking.",
+      statement: "A task marked done has the instant of the marking.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const taskLifecycle = {
     },
     {
       invariantKind: "departure",
-      statement: "Every page type here carries a key saying the task is done.",
+      statement: "Every page type here has a key saying the task is done.",
     },
     {
       invariantKind: "departure",

@@ -15,7 +15,7 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug never carries a dot.",
+      statement: "A slug never has a dot.",
     },
     {
       invariantKind: "departure",
@@ -109,7 +109,7 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "One sops file has every secret a page carries.",
+      statement: "One sops file has every secret a page has.",
     },
     {
       invariantKind: "departure",
@@ -134,11 +134,11 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "The first of a property's files carries no part section.",
+      statement: "The first of a property's files has no part section.",
     },
     {
       invariantKind: "departure",
-      statement: "A reserved section carries no part.",
+      statement: "A reserved section has no part.",
     },
     {
       invariantKind: "absence",

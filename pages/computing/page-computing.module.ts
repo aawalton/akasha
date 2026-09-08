@@ -14,7 +14,7 @@ export const pageComputing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page handed to a calculation carries every computed key as a lazy read.",
+      statement: "A page handed to a calculation has every computed key as a lazy read.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const pageComputing = {
     },
     {
       invariantKind: "departure",
-      statement: "A number that is not finite remains in the values a page carries.",
+      statement: "A number that is not finite remains in the values a page has.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const pageComputing = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal a key carries names the fault.",
+      statement: "A refusal a key has names the fault.",
     },
     {
       invariantKind: "departure",

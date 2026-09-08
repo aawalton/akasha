@@ -14,7 +14,7 @@ export const pageEntryWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A row's keys are written in the order the row carries those keys.",
+      statement: "A row's keys are written in the order the row has those keys.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const pageEntryWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A property carrying no value is written as one file holding nothing.",
+      statement: "A property with no value is written as one file holding nothing.",
     },
     {
       invariantKind: "departure",

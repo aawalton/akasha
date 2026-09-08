@@ -31,7 +31,7 @@ export const pageSecretActing = {
     {
       invariantKind: "departure",
       statement:
-        "A flag carrying no value is read as said rather than as taking the word after the flag.",
+        "A flag with no value is read as said rather than as taking the word after the flag.",
     },
     {
       invariantKind: "departure",

@@ -4,7 +4,7 @@ export const besideTurning = {
   id: "01a079a7-c9d9-7936-a9d3-e002d3f8e708",
   pageTypeSlug: "module",
   slug: "beside-turning",
-  definition: "the pages a change files again though the change carries none of them",
+  definition: "the pages a change files again though the change has none of them",
   code: "ts",
   test: "ts",
   invariants: [
@@ -44,7 +44,7 @@ export const besideTurning = {
     },
     {
       invariantKind: "absence",
-      statement: "A page the change carries is not answered here.",
+      statement: "A page the change has is not answered here.",
     },
     {
       invariantKind: "absence",
