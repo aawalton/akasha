@@ -143,6 +143,7 @@ export const clusterCheck = {
     "module/check-sops-spawn-pipe",
     "module/check-suspense-throw-settles",
     "module/check-timezone-handling",
+    "module/check-tsconfig-allowlists",
   ],
   properties: [
     {
