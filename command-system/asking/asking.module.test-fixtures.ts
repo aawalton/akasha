@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, rmSync } from "node:fs"
+import { cpSync, existsSync, mkdirSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { appendEdits, editsAt } from "@akasha/changes/edits-keeping"
 import type { Phase } from "@akasha/checks/checking"
@@ -13,11 +13,12 @@ import { folding } from "../../commands/modules/apply-running/apply-running.modu
 import { applying as applyingPatch } from "../applying/applying.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
+import { landedMechanically } from "../mechanical-landing/mechanical-landing.module.code.ts"
 import { inputIn } from "../piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { type Asked, landedMechanically, landingAsked, wroteAndTook } from "./asking.module.code.ts"
+import { type Asked, landingAsked, wroteAndTook } from "./asking.module.code.ts"
 
 export const ADMITS_AT = "akasha/admits.code-check*"
 
@@ -37,7 +38,9 @@ export const scratch = scratchWorld()
 
 export const git = gitIn
 
-export function repoAt(root: string, named: Readonly<Record<string, string>>): string {
+const templates = new Map<string, string>()
+
+function builtAt(root: string, named: Readonly<Record<string, string>>): string {
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
@@ -52,6 +55,20 @@ export function repoAt(root: string, named: Readonly<Record<string, string>>): s
   warrantsSeeded(root)
   pageFiled(root, AGENT, SEAT_AT)
   noImportersFiled(root)
+  return root
+}
+
+function templateFor(named: Readonly<Record<string, string>>): string {
+  const key = JSON.stringify(named)
+  const held = templates.get(key)
+  if (held !== undefined && existsSync(held)) return held
+  const at = builtAt(scratch.rootFor("akasha-asking-template-"), named)
+  templates.set(key, at)
+  return at
+}
+
+export function repoAt(root: string, named: Readonly<Record<string, string>>): string {
+  cpSync(templateFor(named), root, { recursive: true })
   return root
 }
 

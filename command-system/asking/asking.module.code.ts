@@ -357,25 +357,3 @@ export const MECHANICAL: Kind = {
   writerOwesReading: false,
   readersOweReading: false,
 }
-
-export async function landedMechanically(
-  root: string,
-  calledAs: string,
-  changes: readonly FileEdit[],
-  message: string,
-  unmoved: readonly Held[] = [],
-  agentId: string | null = null
-): Promise<Answer> {
-  return await landingAsked(
-    { root, calledAs, from: root, writer: null, agentId, changeKind: MECHANICAL },
-    {
-      changes,
-      message,
-      dryRun: false,
-      glass: null,
-      unmoved,
-      saying: wroteAndTook,
-      draft: agentId !== null,
-    }
-  )
-}

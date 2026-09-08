@@ -55,6 +55,7 @@ export const commandSystem = {
     "module/patching",
     "module/drafting",
     "module/applying",
+    "module/mechanical-landing",
     "module/prose-routing",
     "module/commit-author",
     "module/gated-landing",

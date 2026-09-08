@@ -182,15 +182,6 @@ export const asking = {
       statement: "A change kind running no check is held to that refusal too.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "A mechanical change under an agent id is drafted into that agent's patch rather than landed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A mechanical change under no agent id is landed rather than drafted.",
-    },
-    {
       invariantKind: "gap",
       statement: "A caller is never told nothing happened when something did.",
     },
