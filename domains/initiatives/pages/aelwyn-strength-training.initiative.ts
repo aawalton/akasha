@@ -10,7 +10,7 @@ export const aelwynStrengthTraining = {
     {
       statement: "The fitness domain carries no debris from earlier attempts.",
       workingMemory:
-        "Gone: the four pageless `exercise-access` sidecars, the whole planner, `exercise-collection` (no page ever), `free-exercise-mapping`, `exercise-digest`, `training-digest`, the inactive schedule `push-pull-legs-7351f33b` with its seven days, and two false gaps on `coaching-context`. All 884 exercise folders now agree with their slugs. No byte-identical movement pair exists; the earlier report does not reproduce. Left: the migrated-twice finding, and five imports lacking instructions.",
+        "Gone: the four pageless `exercise-access` sidecars, the whole planner, `exercise-collection` (no page ever), `free-exercise-mapping`, `exercise-digest`, `training-digest`, the inactive schedule `push-pull-legs-7351f33b` with its seven days, two false gaps on `coaching-context`, the workout sessions and schedules, and the migrated-twice finding. All 884 exercise folders agree with their slugs. Left: five imports lacking instructions.",
     },
     {
       statement: "Every set Alan performs reaches a page.",
