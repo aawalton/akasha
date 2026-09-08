@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join, posix } from "node:path"
+import { isWhitespace } from "@akasha/utils-narrow/is-whitespace"
 import ts from "typescript"
 import { z } from "zod"
 import { listWorkspaceDirs } from "../workspace-dirs/workspace-dirs.module.code.ts"
@@ -77,16 +78,12 @@ export function danglingOver(repoRoot: string): readonly Dangling[] {
 
 export type Span = { readonly start: number; readonly end: number }
 
-function spacing(here: string | undefined): boolean {
-  return here === " " || here === "\t" || here === "\r" || here === "\n"
-}
-
 export function listEntrySpan(text: string, node: ts.Node): Span {
   const end = node.getEnd()
   let at = end
   while (at < text.length) {
     if (text[at] === ",") return { start: node.getFullStart(), end: at + 1 }
-    if (!spacing(text[at])) break
+    if (!isWhitespace(text[at])) break
     at = at + 1
   }
   return { start: node.getFullStart(), end }
@@ -96,7 +93,7 @@ export function reachingBack(text: string, from: number): number {
   let at = from - 1
   while (at >= 0) {
     if (text[at] === ",") return at
-    if (!spacing(text[at])) return from
+    if (!isWhitespace(text[at])) return from
     at = at - 1
   }
   return from
