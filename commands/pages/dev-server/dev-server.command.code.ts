@@ -25,10 +25,12 @@ import {
   writeStateFile,
 } from "@akasha/service-system/dev-server-stating"
 import { resolveWorktreePath } from "@akasha/service-system/dev-server-worktree"
+import { errnoCodeOf } from "@akasha/utils-process/pid-signal"
 import { enforceMemoryGuard } from "@akasha/utils-system/memory-guard"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import { namesDrawn } from "../../modules/name-drawing/name-drawing.module.code.ts"
 import { lastLinesOf } from "./last-lines/last-lines.module.code.ts"
 
 export const BOOTSTRAP = "bootstrap"
@@ -100,7 +102,7 @@ export type Read =
   | { readonly refused: readonly string[] }
 
 function acts(): string {
-  return ACTS.join("`, `")
+  return namesDrawn(ACTS)
 }
 
 function wholeIn(said: string): number | null {
@@ -151,12 +153,12 @@ export function readIn(argv: readonly string[]): Read {
   }
   const act = words[0]
   if (act === undefined) {
-    return { refused: [...refusals, `this names no act — it carries \`${acts()}\``] }
+    return { refused: [...refusals, `this names no act — it carries ${acts()}`] }
   }
   const taken = TAKEN[act]
   if (taken === undefined) {
     return {
-      refused: [...refusals, `\`${act}\` is no act this carries — it carries \`${acts()}\``],
+      refused: [...refusals, `\`${act}\` is no act this carries — it carries ${acts()}`],
     }
   }
   const rest = words.slice(1)
@@ -213,12 +215,6 @@ export function readIn(argv: readonly string[]): Read {
   }
   if (refusals.length > 0) return { refused: refusals }
   return { act, seq, app, port, tail: tail ?? TAIL_BY_DEFAULT, force, all, json }
-}
-
-function errnoOf(thrown: unknown): string | undefined {
-  if (thrown === null || typeof thrown !== "object" || !("code" in thrown)) return undefined
-  const { code } = thrown
-  return typeof code === "string" ? code : undefined
 }
 
 async function bootstrapping(read: {
@@ -351,7 +347,7 @@ async function stoppedOne(state: DevServerState): Promise<Stopped> {
     try {
       process.kill(pid, "SIGTERM")
     } catch (thrown) {
-      if (errnoOf(thrown) !== "ESRCH") throw thrown
+      if (errnoCodeOf(thrown) !== "ESRCH") throw thrown
       wasRunning = false
     }
     const deadline = Date.now() + TERM_TIMEOUT_MS
@@ -364,7 +360,7 @@ async function stoppedOne(state: DevServerState): Promise<Stopped> {
       try {
         process.kill(pid, "SIGKILL")
       } catch (thrown) {
-        if (errnoOf(thrown) !== "ESRCH") throw thrown
+        if (errnoCodeOf(thrown) !== "ESRCH") throw thrown
       }
     }
   }
