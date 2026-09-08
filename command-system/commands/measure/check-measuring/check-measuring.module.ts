@@ -161,6 +161,30 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
+      statement: "Paths and refusals are added up rather than shared out over the runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check's paths are the paths every run of that check judged added together.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check's refusals are the refusals every run of that check made added together.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The total counts a run's paths once however many checks judged that run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record belonging to no run carries its own paths into the total.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The total's refusals are the refusals of every record read added together.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A count of bytes is rounded to the whole byte before that count is scaled.",
     },
     {
