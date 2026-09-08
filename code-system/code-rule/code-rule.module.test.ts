@@ -110,6 +110,30 @@ test("a body holding a branch says something of its own", () => {
   expect(speltIn("one.ts", said)[0]?.forwards).toBe(false)
 })
 
+test("a template joining the names a function binds passes those names along", () => {
+  const said = `function held(one: string, two: number): string {
+  return \`\${one}-\${two}\`
+}
+`
+  expect(speltIn("one.ts", said)[0]?.forwards).toBe(true)
+})
+
+test("a template beside a literal says something of its own", () => {
+  const said = `function held(one: string, two: number): string {
+  return \`\${one}-\${two}\`.replace(/-/g, "")
+}
+`
+  expect(speltIn("one.ts", said)[0]?.forwards).toBe(false)
+})
+
+test("a body holding a backtick string with no name in it says something of its own", () => {
+  const said = `function held(): string {
+  return \`held\`
+}
+`
+  expect(speltIn("one.ts", said)[0]?.forwards).toBe(false)
+})
+
 test("a cast to a type passes its names along, since a type is no literal", () => {
   const said = `function held(one: unknown): Page {
   return one as Page

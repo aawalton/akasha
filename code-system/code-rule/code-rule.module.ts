@@ -35,6 +35,14 @@ export const codeRule = {
     },
     {
       invariantKind: "departure",
+      statement: "A template joining names is no literal, however many names that template joins.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A backtick string holding no name is a literal as a quoted string is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A declaration carrying no body says no rule rather than saying an empty rule.",
     },
     {

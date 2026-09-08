@@ -51,6 +51,14 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
+      statement: "A function joining its own names into a template is a naming rather than a rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two namings of one shape in two domains keep step with nothing and do not drift.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body holding nothing to change cannot drift.",
     },
     {

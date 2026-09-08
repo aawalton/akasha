@@ -14,7 +14,6 @@ const SAYING: ReadonlySet<ts.SyntaxKind> = new Set([
   ts.SyntaxKind.BigIntLiteral,
   ts.SyntaxKind.RegularExpressionLiteral,
   ts.SyntaxKind.NoSubstitutionTemplateLiteral,
-  ts.SyntaxKind.TemplateExpression,
   ts.SyntaxKind.TaggedTemplateExpression,
   ts.SyntaxKind.TrueKeyword,
   ts.SyntaxKind.FalseKeyword,
