@@ -178,6 +178,7 @@ export const clusterCheck = {
     "module/instruction-reference-scan",
     "module/jsx-class-tokens",
     "module/jsx-class-tokens-roots",
+    "module/jsx-class-tokens-values",
   ],
   properties: [
     {
