@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
-        "Cluster-checks 32 down to 1: only checksum-annotation-substitution is left, behind intent 10. syntax-bundle is gone. The popover check became a code-check rather than a syntax rule, Derived Reach barring a list in the check, and deriving from every tsx rather than from design/primitives found a seventh wrapper the old check never saw, ItemTooltipPopover. It runs at patch, 0 refusals, 128ms for one file.",
+        "One cluster-check left: checksum-annotation-substitution, behind intent 10. The popover check became a code-check rather than a syntax rule, Derived Reach barring a list in the check, and reading every tsx rather than design/primitives found a seventh wrapper the old check never saw. rule-population went with the registry: its daily sweep read 120k files to file nothing for dalla. 39 orphan modules are left under cluster-checks.",
     },
     { statement: "The old system carries no check of its own." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
