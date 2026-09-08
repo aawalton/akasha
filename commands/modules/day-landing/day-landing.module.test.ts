@@ -8,7 +8,7 @@ const ROOT = "/var/home/walton/repos/akasha"
 
 const UNDECLARED = `import type { Day } from "../../day.page-type.ts"
 
-export const wakeDay20260906 = {
+export const day20260906 = {
   id: "01a07629-2c15-7000-aa49-25832a4c3322",
   pageTypeSlug: "day",
   slug: "day-2026-09-06",
