@@ -7,7 +7,7 @@ import {
   type Reading,
   type Said,
   wordsIn,
-} from "../../../../modules/mobile-answering/mobile-answering.module.code.ts"
+} from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
 
 const X = "--x"
 
