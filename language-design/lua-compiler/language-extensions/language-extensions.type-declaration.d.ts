@@ -2,11 +2,11 @@ type AnyTable = Record<PropertyKey, unknown>
 type AnyNotNil = {}
 
 declare interface LuaExtension<TBrand extends string> {
-  readonly __tstlExtension: TBrand
+  readonly __luaExtension: TBrand
 }
 
 declare interface LuaIterationExtension<TBrand extends string> {
-  readonly __tstlIterable: TBrand
+  readonly __luaIterable: TBrand
 }
 
 declare const $multi: (<T extends unknown[]>(...values: T) => LuaMultiReturn<T>) &
