@@ -1,9 +1,9 @@
-import type { Command } from "../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.ts"
 
-export const wan = {
+export const inferenceWan = {
   id: "01a0680a-9cbf-72f6-b77c-23229fe219ca",
   pageTypeSlug: "command",
-  slug: "wan",
+  slug: "inference-wan",
   definition: "the command acting on Wan video clips and the frames taken out of them",
   code: "ts",
   test: "ts",

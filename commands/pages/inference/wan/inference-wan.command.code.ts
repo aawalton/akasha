@@ -1,8 +1,8 @@
 import { mkdir, readdir } from "node:fs/promises"
 import { basename, dirname, extname, join } from "node:path"
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { refused } from "../../../command-system/calling/calling.module.code.ts"
-import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
 import type { Taken } from "./arguing/wan-arguing.module.code.ts"
 import {
   at,
@@ -109,7 +109,7 @@ async function scoring(read: Taken, given: Given, report: string[]): Promise<Ans
   return { report, refusals: [], code: 0 }
 }
 
-export async function wan(argv: readonly string[], given: Given): Promise<Answer> {
+export async function inferenceWan(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   const report: string[] = []

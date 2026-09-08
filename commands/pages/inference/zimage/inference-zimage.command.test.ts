@@ -1,19 +1,19 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../command-system/calling/calling.module.code.ts"
-import { at, readIn, zimage } from "./zimage.command.code.ts"
+import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { at, inferenceZimage, readIn } from "./inference-zimage.command.code.ts"
 
 function given(root: string): Given {
-  return { root, calledAs: "akasha zimage", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha inference zimage", from: root, writer: null, agentId: null }
 }
 
 test("nothing said is refused, naming the act it carries", async () => {
-  const said = await zimage([], given("/nowhere"))
+  const said = await inferenceZimage([], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("generate")
 })
 
 test("an act it does not carry is refused", async () => {
-  expect((await zimage(["render"], given("/nowhere"))).code).toBe(1)
+  expect((await inferenceZimage(["render"], given("/nowhere"))).code).toBe(1)
 })
 
 test("the prompt and the path it writes to are both named", () => {
@@ -74,7 +74,7 @@ test("a width that is no whole number is refused", () => {
 })
 
 test("a model nothing registers is the caller's mistake", async () => {
-  const said = await zimage(
+  const said = await inferenceZimage(
     ["generate", "--prompt", "a cat", "--output", "/elsewhere/a.png", "--model", "nothing-here"],
     given("/nowhere")
   )
@@ -83,7 +83,7 @@ test("a model nothing registers is the caller's mistake", async () => {
 })
 
 test("a comma list of checkpoints is refused", async () => {
-  const said = await zimage(
+  const said = await inferenceZimage(
     [
       "generate",
       "--prompt",

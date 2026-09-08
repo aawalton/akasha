@@ -32,8 +32,6 @@ export const command = {
     "command/push",
     "command/read",
     "command/restore",
-    "command/wan",
-    "command/zimage",
     "record-property/taking",
     "relation-property/change-kind-slug",
     "text-property/help-notes",

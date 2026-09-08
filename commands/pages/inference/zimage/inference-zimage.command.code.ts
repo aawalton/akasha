@@ -6,9 +6,9 @@ import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-clien
 import { drawSeed } from "@akasha/inference-clients/inference-seed"
 import { buildModelGraph } from "@akasha/zimage/zimage-graph"
 import { MODEL_IDS, MODELS, toModelId } from "@akasha/zimage/zimage-models"
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { refused } from "../../../command-system/calling/calling.module.code.ts"
-import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
 import {
   heldOnce,
   numberIn,
@@ -17,8 +17,8 @@ import {
   type Shape,
   textIn,
   wholeIn,
-} from "../../modules/flag-arguing/flag-arguing.module.code.ts"
-import { namesDrawn } from "../../modules/name-drawing/name-drawing.module.code.ts"
+} from "../../../modules/flag-arguing/flag-arguing.module.code.ts"
+import { namesDrawn } from "../../../modules/name-drawing/name-drawing.module.code.ts"
 
 const GENERATE = "generate"
 
@@ -251,7 +251,7 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
   return { report, refusals: [], code: 0 }
 }
 
-export async function zimage(argv: readonly string[], given: Given): Promise<Answer> {
+export async function inferenceZimage(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   const report: string[] = []

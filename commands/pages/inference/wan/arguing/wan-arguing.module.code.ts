@@ -1,4 +1,4 @@
-import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
+import type { Given } from "../../../../../command-system/calling/calling.module.code.ts"
 import {
   heldOnce,
   numberIn as numbered,
@@ -7,8 +7,8 @@ import {
   type Shape,
   textIn,
   wholeIn,
-} from "../../../modules/flag-arguing/flag-arguing.module.code.ts"
-import { namesDrawn } from "../../../modules/name-drawing/name-drawing.module.code.ts"
+} from "../../../../modules/flag-arguing/flag-arguing.module.code.ts"
+import { namesDrawn } from "../../../../modules/name-drawing/name-drawing.module.code.ts"
 
 export const GENERATE = "generate"
 

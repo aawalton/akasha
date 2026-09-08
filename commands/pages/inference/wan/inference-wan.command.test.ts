@@ -1,21 +1,21 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../command-system/calling/calling.module.code.ts"
+import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
 import { at, readIn } from "./arguing/wan-arguing.module.code.ts"
-import { wan } from "./wan.command.code.ts"
+import { inferenceWan } from "./inference-wan.command.code.ts"
 
 function given(root: string): Given {
-  return { root, calledAs: "akasha wan", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha inference wan", from: root, writer: null, agentId: null }
 }
 
 test("nothing said is refused, naming the acts it carries", async () => {
-  const said = await wan([], given("/nowhere"))
+  const said = await inferenceWan([], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("generate")
   expect(said.refusals[0]).toContain("score")
 })
 
 test("an act it does not carry is refused", async () => {
-  expect((await wan(["render"], given("/nowhere"))).code).toBe(1)
+  expect((await inferenceWan(["render"], given("/nowhere"))).code).toBe(1)
 })
 
 test("a flag one act takes is refused under another", () => {
@@ -68,13 +68,13 @@ test("a switch is held apart from a flag carrying a value", () => {
 })
 
 test("a generate naming neither conditioning image is the caller's mistake", async () => {
-  const said = await wan(["generate", "--prompt", "walk"], given("/nowhere"))
+  const said = await inferenceWan(["generate", "--prompt", "walk"], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--start-image")
 })
 
 test("a direction that is neither way is refused", async () => {
-  const said = await wan(
+  const said = await inferenceWan(
     ["extend", "--context", "c.mp4", "--direction", "sideways", "--prompt", "walk"],
     given("/nowhere")
   )
@@ -83,7 +83,7 @@ test("a direction that is neither way is refused", async () => {
 })
 
 test("a frames act naming a clip that is not there answers against the data", async () => {
-  const said = await wan(["frames", "--video", "/nowhere/none.mp4"], given("/nowhere"))
+  const said = await inferenceWan(["frames", "--video", "/nowhere/none.mp4"], given("/nowhere"))
   expect(said.code).toBe(2)
 })
 
