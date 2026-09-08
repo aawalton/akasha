@@ -4,7 +4,7 @@ export const temperInventory = {
   id: "01a07c18-25b3-7c50-9fbe-24e618f94df7",
   pageTypeSlug: "namespace",
   slug: "temper-inventory",
-  definition: "what a character carries, and where each thing carried belongs",
+  definition: "what a character has, and where each thing carried belongs",
   partSlugs: [
     "command/temper-inventory-capacity-audit",
     "command/temper-inventory-decode-link",

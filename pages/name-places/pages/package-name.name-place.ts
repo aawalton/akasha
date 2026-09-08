@@ -9,11 +9,11 @@ export const packageName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A package name carrying no scope is one slug.",
+      statement: "A package name with no scope is one slug.",
     },
     {
       invariantKind: "departure",
-      statement: "A package name carrying a scope is that scope and a slug parted by a slash.",
+      statement: "A package name with a scope is that scope and a slug parted by a slash.",
     },
     {
       invariantKind: "departure",

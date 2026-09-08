@@ -20,7 +20,7 @@ export const equipmentLoads = {
     },
     {
       invariantKind: "departure",
-      statement: "A load is the weight one side carries rather than the weight the pair carries.",
+      statement: "A load is the weight one side carries rather than the weight the pair has.",
     },
   ],
 } as const satisfies NumberProperty

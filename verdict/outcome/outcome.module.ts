@@ -17,7 +17,7 @@ export const outcome = {
     },
     {
       invariantKind: "departure",
-      statement: "An advisory carries the check's findings without refusing the change.",
+      statement: "An advisory has the check's findings without refusing the change.",
     },
     {
       invariantKind: "departure",

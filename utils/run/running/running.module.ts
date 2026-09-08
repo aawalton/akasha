@@ -72,7 +72,7 @@ export const running = {
     {
       invariantKind: "departure",
       statement:
-        "Those seconds carry every process in the group rather than the ones the run reaped.",
+        "Those seconds have every process in the group rather than the ones the run reaped.",
     },
     {
       invariantKind: "departure",

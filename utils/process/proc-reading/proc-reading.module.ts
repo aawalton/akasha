@@ -32,13 +32,12 @@ export const procReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A process state is the first letter alone of the state field the stat line carries.",
+      statement: "A process state is the first letter alone of the state field the stat line has.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A command name carrying brackets does not move the fields read past the command name.",
+        "A command name with brackets does not move the fields read past the command name.",
     },
     {
       invariantKind: "absence",

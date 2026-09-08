@@ -17,7 +17,7 @@ export const wisdomWords = {
     },
     {
       invariantKind: "departure",
-      statement: "No day before 2026-09-06 carries this reading.",
+      statement: "No day before 2026-09-06 has this reading.",
     },
   ],
 } as const satisfies NumberProperty

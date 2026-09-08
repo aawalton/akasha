@@ -17,7 +17,7 @@ export const pageHref = {
     },
     {
       invariantKind: "departure",
-      statement: "The page's part carries a tail taken from its id.",
+      statement: "The page's part has a tail taken from its id.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const pageHref = {
     },
     {
       invariantKind: "departure",
-      statement: "A part carrying a tail is no slug.",
+      statement: "A part with a tail is no slug.",
     },
   ],
 } as const satisfies NamePlace

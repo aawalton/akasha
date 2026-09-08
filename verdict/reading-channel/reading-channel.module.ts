@@ -9,7 +9,7 @@ export const readingChannel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading's anchored line carries no line break.",
+      statement: "A reading's anchored line has no line break.",
     },
     {
       invariantKind: "departure",

@@ -13,7 +13,7 @@ export const routeSegment = {
     },
     {
       invariantKind: "departure",
-      statement: "A segment naming a file the route serves carries that file's extension.",
+      statement: "A segment naming a file the route serves has that file's extension.",
     },
     {
       invariantKind: "departure",

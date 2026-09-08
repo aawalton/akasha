@@ -12,7 +12,7 @@ export const maxCount = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Only a declaration carrying many values states a count.",
+      statement: "Only a declaration with many values states a count.",
     },
     {
       invariantKind: "departure",

@@ -13,7 +13,7 @@ export const aliasIndex = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The alias `c3` opens the account carrying the alias index 3.",
+      statement: "The alias `c3` opens the account with the alias index 3.",
     },
     {
       invariantKind: "departure",

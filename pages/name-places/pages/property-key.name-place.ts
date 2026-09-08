@@ -4,7 +4,7 @@ export const propertyKey = {
   id: "01a04fed-2fbf-7545-aff5-168ae23e9052",
   pageTypeSlug: "name-place",
   slug: "property-key",
-  definition: "the key a page carries one of its values under",
+  definition: "the key a page has one of its values under",
   nameFormatSlug: "name-format/lower-camel-case",
   invariants: [
     {

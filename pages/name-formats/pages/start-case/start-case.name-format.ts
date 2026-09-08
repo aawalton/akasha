@@ -10,7 +10,7 @@ export const startCase = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A name carries no word opening lower.",
+      statement: "A name has no word opening lower.",
     },
     {
       invariantKind: "departure",

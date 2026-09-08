@@ -12,8 +12,7 @@ export const bodyweight = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A person carries the weight last measured and a day the weight measured that day.",
+      statement: "A person has the weight last measured and a day the weight measured that day.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +20,7 @@ export const bodyweight = {
     },
     {
       invariantKind: "departure",
-      statement: "A movement's load factor is the share of this weight that movement carries.",
+      statement: "A movement's load factor is the share of this weight that movement has.",
     },
   ],
 } as const satisfies NumberProperty
