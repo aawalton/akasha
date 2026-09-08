@@ -28,7 +28,6 @@ export const clusterCheck = {
   partSlugs: [
     "boolean-property/always-run",
     "boolean-property/tree-sha",
-    "cluster-check/acyclic-packages",
     "cluster-check/app-capacitor-parity",
     "cluster-check/app-intent-brand-words",
     "cluster-check/ast-grep",
@@ -186,7 +185,6 @@ export const clusterCheck = {
     "module/non-test-population",
     "module/oklch-to-srgb",
     "module/orphan-source",
-    "module/package-cycles",
     "module/playwright-image-alignment",
     "module/popover-family-wrappers",
     "module/porcelain-status-boundary",
