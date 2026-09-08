@@ -69,6 +69,7 @@ export const commandSystem = {
     "module/file-arguing",
     "module/mechanical-filing",
     "module/change-acting",
+    "module/export-naming",
   ],
   invariants: [
     {

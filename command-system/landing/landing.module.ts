@@ -200,6 +200,20 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A caller that worked the change out hands that change in rather than having it built again.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change handed in is taken as worked out against the commit this landing judges.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing carrying a path from another path works the change out itself.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A commit landing while a change is judged does not refuse that change.",
     },
     {

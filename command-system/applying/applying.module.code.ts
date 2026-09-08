@@ -227,7 +227,18 @@ export async function applied(
   if (running.writerOwesReading && agentId !== null)
     warrantedAgain(root, agentId, said.held, said.moved)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
-  const done = await landing(root, prepared.changes, message, gate, writer, head, asRead, carries)
+  const done = await landing(
+    root,
+    prepared.changes,
+    message,
+    gate,
+    writer,
+    head,
+    asRead,
+    carries,
+    null,
+    prepared.over
+  )
   if ("refusals" in done) return done
   carryLanded(root, head, running, prepared.changes, [])
   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)

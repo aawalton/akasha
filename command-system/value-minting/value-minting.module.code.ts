@@ -2,7 +2,8 @@ import { insertedInto } from "@akasha/code/value-inserting"
 import { uuidVersion7 } from "@akasha/id-minting/uuid-version-7"
 import type { Generated } from "@akasha/indexes/generated-properties"
 import { generatedProperties } from "@akasha/indexes/generated-properties"
-import { heldIn, pageNamed } from "@akasha/pages/page-file-name"
+import type { Change } from "@akasha/pages/change"
+import { heldIn, pageNamed, partedIn } from "@akasha/pages/page-file-name"
 import { loadedFrom } from "@akasha/pages/page-value"
 import { type Shadow, shadowFor } from "@akasha/pages/shadow"
 import type { FileEdit } from "../landing/landing.module.code.ts"
@@ -11,6 +12,8 @@ import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 const UUID_V7 = "uuid-v7"
 
 const ID = "id"
+
+const HELD_TS = "ts"
 
 const NEW_PAGE = "a page being created states none of its own"
 
@@ -107,8 +110,24 @@ function entriedOnto(shadow: Shadow, changes: readonly FileEdit[]): Minted {
   return { changes: held, filled }
 }
 
+function couldTurn(change: Change, changes: readonly FileEdit[]): boolean {
+  for (const one of changes) {
+    const body = one.body
+    if (body === null || one.carried === true) continue
+    const said = partedIn(one.path)
+    if (said === null) continue
+    if (said.sections.length > 0) {
+      if (identifiedOver(new TextDecoder().decode(body)) !== null) return true
+      continue
+    }
+    if (said.held === HELD_TS && change.before(one.path) === null) return true
+  }
+  return false
+}
+
 export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted {
   const change = changeOf(root, { base: baseOf(root), edits: changes })
+  if (!couldTurn(change, changes)) return { changes, filled: [] }
   const cast = shadowFor(change)
   if ("refused" in cast) return { changes, filled: [] }
   const entried = entriedOnto(cast.shadow, changes)

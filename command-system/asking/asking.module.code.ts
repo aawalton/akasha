@@ -3,12 +3,13 @@ import { join } from "node:path"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { formattedBody } from "@akasha/code/code-format"
 import { agentPathOf } from "@akasha/context/warranting"
-import { nameFaultIn } from "@akasha/pages/page-export-name"
+import type { Change } from "@akasha/pages/change"
 import { isMissing } from "@akasha/utils-fs/missing"
 import { editsAt } from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
 import { runningOf } from "../drafting/drafting.module.code.ts"
+import { unexportableIn } from "../export-naming/export-naming.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { passedOver, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
@@ -104,6 +105,7 @@ export type Prepared = {
   readonly formatting: Formatting
   readonly changes: readonly FileEdit[]
   readonly said: readonly string[]
+  readonly over: Change | null
 }
 
 export function preparing(root: string, base: string, changes: readonly FileEdit[]): Prepared {
@@ -112,10 +114,12 @@ export function preparing(root: string, base: string, changes: readonly FileEdit
   const change = changeOf(root, { base, edits: formatting.changes })
   const worked = workedFor(change)
   const mapped = mappedFor(change)
+  const added = [...locking.edits, ...worked.edits, ...mapped.edits]
   return {
     formatting,
-    changes: [...formatting.changes, ...locking.edits, ...worked.edits, ...mapped.edits],
+    changes: added.length === 0 ? formatting.changes : [...formatting.changes, ...added],
     said: [...locking.said, ...worked.said, ...mapped.said],
+    over: added.length === 0 ? change : null,
   }
 }
 
@@ -153,38 +157,6 @@ export function textOf(bytes: Uint8Array): string | null {
 export function textAt(at: string): string | null {
   const held = bytesAt(at)
   return "bytes" in held ? textOf(held.bytes) : null
-}
-
-const SLUG_AT = /^ {2}slug: "([^"]*)",$/m
-
-const PAGE_TYPE_AT = /^ {2}pageTypeSlug: "([^"]*)",$/m
-
-const PAGE_FILE = ".ts"
-
-const REMEDY =
-  "Put the page type slug in front of it, as `wake-day-2026-08-20` and" +
-  " `great-course-7-days-of-drawing` already do, and name the file for the slug you land"
-
-export function slugComposedIn(path: string, body: Uint8Array): string | null {
-  const text = textOf(body)
-  if (text === null) return null
-  const found = SLUG_AT.exec(text)
-  if (found === null || !PAGE_TYPE_AT.test(text)) return null
-  const slug = found[1] as string
-  const named = path.slice(path.lastIndexOf("/") + 1)
-  return named.startsWith(`${slug}.`) ? slug : null
-}
-
-export function unexportableIn(changes: readonly FileEdit[]): readonly string[] {
-  const said: string[] = []
-  for (const one of changes) {
-    if (one.body === null || !one.path.endsWith(PAGE_FILE)) continue
-    const slug = slugComposedIn(one.path, one.body)
-    if (slug === null) continue
-    const fault = nameFaultIn(slug)
-    if (fault !== null) said.push(`${one.path} — ${fault}. ${REMEDY}`)
-  }
-  return said
 }
 
 function alsoUnmoved(judging: Judging, held: readonly Held[]): Judging {
@@ -271,10 +243,11 @@ async function reporting(
   root: string,
   asked: Asked,
   gate: Judging,
-  aside: readonly string[]
+  aside: readonly string[],
+  over: Change | null
 ): Promise<Answer> {
   const paths = pathsOf(asked.changes)
-  const change = changeOf(root, { base: baseOf(root), edits: asked.changes })
+  const change = over ?? changeOf(root, { base: baseOf(root), edits: asked.changes })
   const held = { said: await gate.over(change), woke: gate.checksFor(change).length }
   if (held.said.length > 0) {
     return {
@@ -391,7 +364,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   const broken = "broken" in built ? built.broken : null
   const gate = gateFor(held, bypass === null && "gate" in built ? built.gate : NO_GATE)
   held.reaching?.()
-  if (held.dryRun) return await reporting(given.root, held, gate, aside)
+  if (held.dryRun) return await reporting(given.root, held, gate, aside, prepared.over)
   const message = messageWith(held, bypass, broken)
   const asRead = asReadIn(given, formatting.changes)
   if (held.draft === true) return await draftingAsked(given, held, gate, message, asRead, aside)
@@ -405,7 +378,9 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
       given.writer,
       held.read ?? null,
       asRead,
-      held.carries ?? []
+      held.carries ?? [],
+      null,
+      prepared.over
     )
   } catch (thrown) {
     return {

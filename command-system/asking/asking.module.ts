@@ -155,6 +155,16 @@ export const asking = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "That change is answered alongside the edits, so the gate is judged over that same change.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change the lockfile or a generated file was added to is answered as no change to judge over.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A lockfile that could not be made is said rather than refusing the change.",
     },
     {
@@ -232,16 +242,6 @@ export const asking = {
     {
       invariantKind: "departure",
       statement: "A change kind running no check is held to that refusal too.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An export name is judged only where a body's file is named for the slug that body states.",
-    },
-    {
-      invariantKind: "absence",
-      statement:
-        "A body holding a page's text in a template is no page and is judged for no export name.",
     },
     {
       invariantKind: "departure",

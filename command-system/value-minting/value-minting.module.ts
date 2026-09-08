@@ -18,6 +18,20 @@ export const valueMinting = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The world is read only where the change could carry a page being created or an entry arriving.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether a change carries either is read from the names of its paths and the bodies it carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A guard that cannot tell reads the world rather than leaving a value unminted.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The file an entry arrives in is found by the property the file's name states.",
     },
     {

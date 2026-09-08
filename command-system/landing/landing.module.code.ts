@@ -357,7 +357,9 @@ export function landing(
   writer?: string | null,
   read?: string | null,
   asRead?: readonly AsRead[],
-  carries?: readonly FileCarry[]
+  carries?: readonly FileCarry[],
+  drafting?: null,
+  over?: Change | null
 ): Promise<Landed | Refused>
 export function landing(
   root: string,
@@ -379,7 +381,8 @@ export async function landing(
   read: string | null = null,
   asRead: readonly AsRead[] = [],
   carries: readonly FileCarry[] = [],
-  drafting: Drafting | null = null
+  drafting: Drafting | null = null,
+  over: Change | null = null
 ): Promise<Landed | Refused | Drafted> {
   if (changes.length === 0 && carries.length === 0) {
     return { refusals: ["nothing was asked for, so nothing was judged and nothing was written"] }
@@ -398,7 +401,10 @@ export async function landing(
   }
   const judgedAt = baseOf(root)
   const edits: readonly FileEdit[] = changes
-  const change = changeOf(root, { base: judgedAt, edits, carries })
+  const change =
+    over !== null && carries.length === 0
+      ? over
+      : changeOf(root, { base: judgedAt, edits, carries })
   const said = await judged(judging, change)
   const orphaned = orphaningIn(change, absentAfter(edits, carries))
   if (orphaned.length > 0) {
