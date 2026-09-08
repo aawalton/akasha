@@ -93,7 +93,6 @@ export const command = {
     "namespace/inference",
     "namespace/mobile",
     "namespace/talos",
-    "command/cluster-rbac-manifest",
     "namespace/page",
     "namespace/browser",
     "namespace/sms",
