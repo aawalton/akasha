@@ -1,5 +1,9 @@
 import { parsedAs } from "@akasha/code/code-source"
-import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import {
+  refusing,
+  spliced,
+  stating,
+} from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { statedIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
@@ -9,9 +13,8 @@ export function restated(path: string, text: string, key: string, to: string): S
   const held = statedIn(source).get(key)
   if (held === undefined) return refusing(`\`${path}\` states no text under \`${key}\``)
   if (held.text === to) return refusing(`\`${to}\` is what \`${key}\` states already`)
-  const start = held.getStart(source)
-  const body = text.slice(0, start) + JSON.stringify(to) + text.slice(held.getEnd())
-  return stating([{ kind: "replace", path, contentFrom: text, contentTo: body }])
+  const put = JSON.stringify(to)
+  return stating(spliced(path, text, { from: held.getStart(source), to: held.getEnd(), put }))
 }
 
 export type Given = {

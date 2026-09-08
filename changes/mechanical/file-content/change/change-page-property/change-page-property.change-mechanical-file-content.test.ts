@@ -34,14 +34,14 @@ test("one key is restated and the rest of the body is left as it is", () => {
   expect(said).toBe(BODY.replace(`"kepts"`, `"change-atomic"`))
 })
 
-test("the whole body is stated each side rather than the passage under that key", () => {
+test("the passage stated each side is the line the key's value sits on", () => {
   const said = restated(AT, BODY, "pluralSlug", "change-atomic")
   expect(said.edits).toEqual([
     {
       kind: "replace",
       path: AT,
-      contentFrom: BODY,
-      contentTo: BODY.replace(`"kepts"`, `"change-atomic"`),
+      contentFrom: `  pluralSlug: "kepts",`,
+      contentTo: `  pluralSlug: "change-atomic",`,
     },
   ])
 })

@@ -13,11 +13,7 @@ export const changePageProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The body is answered whole each side rather than as the passage under that key.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body holds the text a key states in other places as well.",
+      statement: "The passage answered is the lines the key's value sits on rather than the body.",
     },
   ],
   runsChecks: false,
