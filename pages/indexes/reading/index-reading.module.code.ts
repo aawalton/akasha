@@ -5,6 +5,7 @@ import { textAt, type Value } from "@akasha/pages/page-value"
 import { stringAt } from "@akasha/utils-narrow/string-at"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { indexImport } from "../import/index-import.index.ts"
+import { indexListing } from "../listing/index-listing.index.ts"
 import { indexPath } from "../path/index-path.index.ts"
 import { indexRelation } from "../relation/index-relation.index.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
@@ -26,6 +27,8 @@ export type Listed = {
 const IDENTITY = indexIdentity.name
 
 const IMPORT = indexImport.name
+
+const LISTING = indexListing.name
 
 const PATH = indexPath.name
 
@@ -321,17 +324,9 @@ export function idsNaming(
   )
 }
 
-function underneath(reading: Reading, at: string, said: string): readonly string[] {
-  return reading.listing(at).flatMap((one) => {
-    const held = `${said}${one.name}`
-    if (one.directory) return underneath(reading, beneath(at, one.name), `${held}/`)
-    return one.name.endsWith(ENDING) ? [held.slice(0, -ENDING.length)] : []
-  })
-}
-
 export function everyPath(given: string | Reading): readonly string[] {
-  return answered(given, ROOT, "which files stand", (reading) =>
-    [...underneath(reading, PATH, "")].sort()
+  return answered(given, LISTING, "which files are there", (reading) =>
+    reading.lines(join(LISTING, `${AT_PATH}${ENDING}`))
   )
 }
 

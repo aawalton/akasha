@@ -15,6 +15,7 @@ import {
   idFiled,
   importFiled,
   listedFiled,
+  listingFiled,
   noPathsFiled,
   nothingFiled,
   pathFiled,
@@ -111,24 +112,27 @@ test("a path two pages fall on is answered with both of them", () => {
   expect(listedByPath(root, "x.module.code.ts").map((one) => one.id)).toEqual([B, A])
 })
 
-test("every path the index files is answered, however deep the folders it files them under", () => {
+test("every path the index files is answered as the lines of the one file holding them", () => {
   const root = rootAt()
-  pathFiled(root, "akasha/a.module.ts", [{ path: "akasha/a.module.ts", id: A }])
-  pathFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/a.module.ts", id: A }])
-  pathFiled(root, "akasha/held/b.module.ts", [{ path: "akasha/held/b.module.ts", id: B }])
+  const held = ["akasha/a.module.code.ts", "akasha/a.module.ts", "akasha/held/b.module.ts"]
+  listingFiled(root, held)
 
-  expect(everyPath(root)).toEqual([
-    "akasha/a.module.code.ts",
-    "akasha/a.module.ts",
-    "akasha/held/b.module.ts",
-  ])
+  expect(everyPath(root)).toEqual(held)
 })
 
-test("a path directory that is not there is answered with nothing, the caller saying what that means", () => {
+test("those paths come back in the order they were filed rather than sorted again", () => {
+  const root = rootAt()
+  const held = ["b.module.ts", "a.module.ts"]
+  listingFiled(root, held)
+
+  expect(everyPath(root)).toEqual(held)
+})
+
+test("an index filing no listing refuses rather than answering that no file is there", () => {
   const root = rootAt()
   nothingFiled(root)
 
-  expect(everyPath(root)).toEqual([])
+  expect(() => everyPath(root)).toThrow(/`\.git\/data\/index\/listing` is not there/)
 })
 
 test("an id the index carries is answered with the page carrying it", () => {

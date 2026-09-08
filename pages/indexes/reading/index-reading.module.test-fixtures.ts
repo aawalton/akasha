@@ -17,6 +17,7 @@ import type { Entry } from "../entries/index-entries.module.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { indexImport } from "../import/index-import.index.ts"
 import { rebuiltFrom } from "../indexing/indexing.module.code.ts"
+import { indexListing } from "../listing/index-listing.index.ts"
 import { indexPath } from "../path/index-path.index.ts"
 import { indexRelation } from "../relation/index-relation.index.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
@@ -149,6 +150,12 @@ export function idFiledIn(root: string, id: string): boolean {
 
 export function pathFiled(root: string, path: string, lines: readonly unknown[]): undefined {
   filing(root, join(indexPath.name, path), lines)
+}
+
+export function listingFiled(root: string, paths: readonly string[]): undefined {
+  const at = under(root, `${join(indexListing.name, AT_PATH)}${ENDING}`)
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, paths.map((one) => `${one}\n`).join(""))
 }
 
 export function schemaFiled(

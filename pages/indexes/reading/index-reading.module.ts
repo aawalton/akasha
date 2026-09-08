@@ -75,16 +75,19 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every path the index files is answered by walking the one tree that those paths are filed in.",
+      statement: "Every path the index files is answered by reading the one file holding them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those paths come back in the order they were filed rather than sorted again.",
     },
     {
       invariantKind: "departure",
       statement: "The answer is the pages themselves.",
     },
     {
-      invariantKind: "departure",
-      statement: "Nothing else here walks.",
+      invariantKind: "absence",
+      statement: "Nothing here walks a tree.",
     },
     {
       invariantKind: "departure",
