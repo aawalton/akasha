@@ -1,0 +1,13 @@
+import type { TextProperty } from "@akasha/pages/text-property"
+
+export type Spelling = string
+
+export const spelling = {
+  id: "01a081e9-1a78-73a6-8c6c-7a719c58d07f",
+  pageTypeSlug: "text-property",
+  slug: "spelling",
+  propertySlug: "spelling",
+  definition: "how a term is written, in its plainest form",
+  maxLength: 100,
+  nameFormatSlug: null,
+} as const satisfies TextProperty
