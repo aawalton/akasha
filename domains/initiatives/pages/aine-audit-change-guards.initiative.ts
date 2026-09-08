@@ -16,7 +16,7 @@ export const aineAuditChangeGuards = {
       statement:
         "Every mechanical change that can leave an edge hanging names the guard judging that edge.",
       workingMemory:
-        "Whether something is a guard is settled by asking whether judging it needs the answer. Guards never read `world.index`; `guardedBy` casts its shadow from `gathered([world.over, said])`, so a stale index on a threaded world cannot reach one. `import-not-left-hanging` and `claimed-file-not-left-behind` now judge a path a move carried the body off as well as a path taken away; `relation-not-left-hanging` must not, a carried page being there still.\n",
+        "`rename-file-page` names `claimed-file-not-left-behind`; every other rung landed since is thin over a guarded one. `add-file` and `remove-file` judge nothing on purpose, the caller judging. A page left claiming a file that went is refused by the `page-property-has-its-file` check, which judges any page the index says carries a changed path, so no guard is wanted there. `guardedBy` casts its shadow from `gathered([world.over, said])`, so no guard reads a stale index.\n",
     },
     {
       statement:
