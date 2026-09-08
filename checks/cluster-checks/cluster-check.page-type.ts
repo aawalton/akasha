@@ -186,6 +186,7 @@ export const clusterCheck = {
     "module/oklch-to-srgb",
     "module/orphan-source",
     "module/package-cycles",
+    "module/playwright-image-alignment",
   ],
   properties: [
     {
