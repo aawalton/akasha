@@ -10,4 +10,10 @@ export const surplusHours = {
   definition: "how much of the night's sleep the day has not spent",
   holds: "number",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A day holding neither sleep nor spend states no surplus.",
+    },
+  ],
 } as const satisfies ComputedProperty
