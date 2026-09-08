@@ -1,4 +1,5 @@
 import { parsedAs } from "@akasha/code/code-source"
+import { exportedAs } from "@akasha/pages/page-export-name"
 import ts from "typescript"
 import {
   refusing,
@@ -29,6 +30,13 @@ export function recordIn(record: string): ts.ObjectLiteralExpression | null {
 }
 
 const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+
+function keyFaultIn(key: string): string | null {
+  if (BARE.test(key)) return null
+  const spelled = exportedAs(key)
+  if (!BARE.test(spelled)) return `\`${key}\` is no key a page spells`
+  return `\`${key}\` is no key a page spells, and \`${spelled}\` is the key that spelling names`
+}
 
 export function quotedKeyIn(one: ts.ObjectLiteralExpression): string | null {
   for (const each of one.properties) {
@@ -69,6 +77,8 @@ export function withRecord(
 }
 
 export function addPropertyRecord(world: World, given: AddPropertyRecordAsked): Said {
+  const fault = keyFaultIn(given.key)
+  if (fault !== null) return refusing(fault)
   const record = given.record.trim()
   const read = recordIn(record)
   if (read === null) {

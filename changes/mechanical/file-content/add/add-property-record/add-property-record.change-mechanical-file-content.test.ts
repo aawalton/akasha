@@ -130,3 +130,30 @@ test("the change is reached through its own runner", () => {
   const world = worldOf({ [AT]: HOLDING })
   expect(bodyOf(runChange(world, { at: AT, key: KEY, record: NAME }), world.base)).toContain(NAME)
 })
+
+test("a key spelled as a slug is refused", () => {
+  const said = addPropertyRecord(worldOf({ [AT]: HOLDING }), {
+    at: AT,
+    key: "part-slugs",
+    record: NAME,
+  })
+  expect(refusalOf(said)).toBe(
+    "`part-slugs` is no key a page spells, and `partSlugs` is the key that spelling names"
+  )
+})
+
+test("a key that is no bare word is refused", () => {
+  const said = addPropertyRecord(worldOf({ [AT]: HOLDING }), {
+    at: AT,
+    key: "part slugs",
+    record: NAME,
+  })
+  expect(refusalOf(said)).toBe("`part slugs` is no key a page spells")
+})
+
+test("a key is judged before the body is read", () => {
+  const said = addPropertyRecord(worldOf({}), { at: AT, key: "part-slugs", record: NAME })
+  expect(refusalOf(said)).toBe(
+    "`part-slugs` is no key a page spells, and `partSlugs` is the key that spelling names"
+  )
+})
