@@ -6,4 +6,5 @@ export const wanFrameScoring = {
   slug: "wan-frame-scoring",
   definition: "how near each frame's face is to a reference face",
   python: "py",
+  bytecodeDirectory: true,
 } as const satisfies PythonModule

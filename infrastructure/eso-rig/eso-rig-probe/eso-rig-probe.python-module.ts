@@ -6,6 +6,7 @@ export const esoRigProbe = {
   slug: "eso-rig-probe",
   definition: "the measurements the rig's acceptance cannot make in shell",
   python: "py",
+  bytecodeDirectory: true,
   invariants: [
     {
       invariantKind: "departure",

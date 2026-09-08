@@ -6,4 +6,5 @@ export const segmentRembgServer = {
   slug: "segment-rembg-server",
   definition: "the server that cuts a subject out of an image",
   python: "py",
+  bytecodeDirectory: true,
 } as const satisfies PythonModule

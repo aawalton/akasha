@@ -6,4 +6,5 @@ export const voiceSpeechMp3 = {
   slug: "voice-speech-mp3",
   definition: "a whole rendition encoded as one mp3",
   python: "py",
+  bytecodeDirectory: true,
 } as const satisfies PythonModule

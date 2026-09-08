@@ -6,4 +6,5 @@ export const voiceObjectStore = {
   slug: "voice-object-store",
   definition: "the store a finished rendition lands in",
   python: "py",
+  bytecodeDirectory: true,
 } as const satisfies PythonModule

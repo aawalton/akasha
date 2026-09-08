@@ -6,4 +6,5 @@ export const voiceSpeechHls = {
   slug: "voice-speech-hls",
   definition: "a rendition encoded as mp3 segments under a growing playlist",
   python: "py",
+  bytecodeDirectory: true,
 } as const satisfies PythonModule

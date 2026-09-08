@@ -7,4 +7,5 @@ export const btw5 = {
   definition:
     "the Creative BT-W5 transmitter's codec and headset mode set over its hidraw interface",
   python: "py",
+  bytecodeDirectory: true,
 } as const satisfies PythonModule

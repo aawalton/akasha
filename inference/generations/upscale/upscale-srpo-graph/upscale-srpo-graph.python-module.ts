@@ -6,4 +6,5 @@ export const upscaleSrpoGraph = {
   slug: "upscale-srpo-graph",
   definition: "the graph refining skin at a low denoise",
   python: "py",
+  bytecodeDirectory: true,
 } as const satisfies PythonModule

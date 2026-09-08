@@ -6,4 +6,5 @@ export const voiceModels = {
   slug: "voice-models",
   definition: "the models a voice service holds on its card",
   python: "py",
+  bytecodeDirectory: true,
 } as const satisfies PythonModule

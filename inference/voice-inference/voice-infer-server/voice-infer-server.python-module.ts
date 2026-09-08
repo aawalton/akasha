@@ -6,4 +6,5 @@ export const voiceInferServer = {
   slug: "voice-infer-server",
   definition: "the routes a voice service answers",
   python: "py",
+  bytecodeDirectory: true,
 } as const satisfies PythonModule
