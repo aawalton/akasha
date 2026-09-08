@@ -22,12 +22,7 @@ export const mechanicalLanding = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A change under an agent id is drafted into that agent's patch rather than landed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A change under no agent id is landed rather than drafted.",
+      statement: "A change here is landed rather than drafted.",
     },
     {
       invariantKind: "departure",

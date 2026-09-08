@@ -1,6 +1,6 @@
 import { cpSync, existsSync, mkdirSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { appendEdits, editsAt } from "@akasha/changes/edits-keeping"
+import { appendEdits } from "@akasha/changes/edits-keeping"
 import type { Phase } from "@akasha/checks/checking"
 import { agentPathOf } from "@akasha/context/warranting"
 import { warrantsSeeded } from "@akasha/context/warranting/testing"
@@ -231,8 +231,6 @@ export function blocked(root: string): Asked {
 
 export const THREE_AT = "akasha/three.ts"
 
-export const EDITS_AT = editsAt(SEAT_AT) as string
-
 const THREE = [{ path: THREE_AT, body: bytes(PROPOSED) }]
 
 export const holds = (root: string, path: string): boolean => existsSync(join(root, path))
@@ -241,7 +239,7 @@ export const applying = async (root: string): Promise<Answer> =>
   await applied(root, { report: [], refusals: [], code: 0 }, ["--message", "held"])
 
 export const mechanically = async (root: string): Promise<number> =>
-  (await landedMechanically(root, "akasha change apply", THREE, "held", [], AGENT)).code
+  (await landedMechanically(root, "akasha change apply", THREE, "held")).code
 
 export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
 
