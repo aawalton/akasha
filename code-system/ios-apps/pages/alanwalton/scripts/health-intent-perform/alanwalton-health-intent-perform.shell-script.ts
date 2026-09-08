@@ -7,4 +7,14 @@ export const alanwaltonHealthIntentPerform = {
   definition: "the Swift performing the health-samples intent",
   shell: "sh",
   sourced: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The health store is asked for read access alone, the share set being empty.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A share set holding anything asks to write Alan's own health data.",
+    },
+  ],
 } as const satisfies ShellScript
