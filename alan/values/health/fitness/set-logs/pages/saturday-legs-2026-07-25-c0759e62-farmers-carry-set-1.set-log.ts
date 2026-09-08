@@ -12,7 +12,7 @@ export const saturdayLegs20260725C0759e62FarmersCarrySet1 = {
   rpe: 4,
   sessionSlug: "saturday-legs-2026-07-25-c0759e62",
   setLogDate: "2026-07-25",
-  wakeDaySlug: "wake-day-2026-07-25",
+  wakeDaySlug: "day-2026-07-25",
   setNumber: 1,
   weight: 60,
 } as const satisfies SetLog
