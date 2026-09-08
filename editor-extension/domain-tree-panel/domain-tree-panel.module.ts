@@ -31,7 +31,7 @@ export const domainTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The rows the file carries are drawn unchanged rather than spelled again.",
+      statement: "The rows the file has are drawn unchanged rather than spelled again.",
     },
     {
       invariantKind: "departure",

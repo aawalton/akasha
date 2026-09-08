@@ -10,7 +10,7 @@ export const observationMerging = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A patch carries no time of its own.",
+      statement: "A patch has no time of its own.",
     },
     {
       invariantKind: "departure",

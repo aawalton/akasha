@@ -102,7 +102,7 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement: "The webview runs only the script the shell carries a nonce for.",
+      statement: "The webview runs only the script the shell has a nonce for.",
     },
     {
       invariantKind: "departure",

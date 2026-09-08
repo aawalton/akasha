@@ -49,8 +49,7 @@ export const transcriptModel = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Only a user record or an assistant record carrying no meta mark becomes an entry.",
+      statement: "Only a user record or an assistant record with no meta mark becomes an entry.",
     },
     {
       invariantKind: "departure",

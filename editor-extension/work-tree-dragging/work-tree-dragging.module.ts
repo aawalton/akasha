@@ -22,7 +22,7 @@ export const workTreeDragging = {
     },
     {
       invariantKind: "departure",
-      statement: "A row's initiative and place are read off the key that row carries.",
+      statement: "A row's initiative and place are read off the key that row has.",
     },
     {
       invariantKind: "departure",
@@ -66,11 +66,11 @@ export const workTreeDragging = {
     },
     {
       invariantKind: "departure",
-      statement: "An order carrying the same intents in another order is stale rather than gone.",
+      statement: "An order with the same intents in another order is stale rather than gone.",
     },
     {
       invariantKind: "departure",
-      statement: "An order carrying other intents is gone rather than stale.",
+      statement: "An order with other intents is gone rather than stale.",
     },
     {
       invariantKind: "departure",

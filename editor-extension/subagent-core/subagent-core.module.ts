@@ -33,7 +33,7 @@ export const subagentCore = {
     },
     {
       invariantKind: "departure",
-      statement: "A tool result carrying no result stops the subagent that result answers.",
+      statement: "A tool result with no result stops the subagent that result answers.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const subagentCore = {
     },
     {
       invariantKind: "absence",
-      statement: "A record carrying a tool result yields no notification text.",
+      statement: "A record with a tool result yields no notification text.",
     },
     {
       invariantKind: "departure",

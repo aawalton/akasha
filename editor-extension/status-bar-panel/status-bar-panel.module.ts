@@ -13,7 +13,7 @@ export const statusBarPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A slot that is no separator carries the refresh command.",
+      statement: "A slot that is no separator has the refresh command.",
     },
     {
       invariantKind: "departure",
@@ -41,11 +41,11 @@ export const statusBarPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A section carrying an empty legend keeps the labels that section last named.",
+      statement: "A section with an empty legend keeps the labels that section last named.",
     },
     {
       invariantKind: "departure",
-      statement: "The glyph row is read off the section the file carries.",
+      statement: "The glyph row is read off the section the file has.",
     },
     {
       invariantKind: "departure",

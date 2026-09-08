@@ -17,11 +17,11 @@ export const terminalSync = {
     },
     {
       invariantKind: "departure",
-      statement: "A terminal is renamed only where the name that terminal carries differs.",
+      statement: "A terminal is renamed only where the name that terminal has differs.",
     },
     {
       invariantKind: "departure",
-      statement: "A terminal is recolored only where the color that terminal carries differs.",
+      statement: "A terminal is recolored only where the color that terminal has differs.",
     },
     {
       invariantKind: "departure",

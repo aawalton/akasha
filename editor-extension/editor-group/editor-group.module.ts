@@ -30,7 +30,7 @@ export const editorGroup = {
     },
     {
       invariantKind: "departure",
-      statement: "The first column carries the number one.",
+      statement: "The first column has the number one.",
     },
     {
       invariantKind: "departure",

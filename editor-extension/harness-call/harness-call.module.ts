@@ -57,7 +57,7 @@ export const harnessCall = {
     },
     {
       invariantKind: "departure",
-      statement: "A name no command carries is refused by the dispatcher rather than here.",
+      statement: "A name no command has is refused by the dispatcher rather than here.",
     },
     {
       invariantKind: "departure",

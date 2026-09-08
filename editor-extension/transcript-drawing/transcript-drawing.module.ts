@@ -41,7 +41,7 @@ export const transcriptDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A disclosure carries the id of the call that disclosure draws.",
+      statement: "A disclosure has the id of the call that disclosure draws.",
     },
     {
       invariantKind: "absence",

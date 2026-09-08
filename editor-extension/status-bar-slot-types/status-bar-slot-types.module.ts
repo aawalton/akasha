@@ -25,7 +25,7 @@ export const statusBarSlotTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "A usage slot carries the reading the slot takes out of one whole usage answer.",
+      statement: "A usage slot has the reading the slot takes out of one whole usage answer.",
     },
     {
       invariantKind: "departure",

@@ -23,7 +23,7 @@ export const shellNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A name carries no line ending.",
+      statement: "A name has no line ending.",
     },
     {
       invariantKind: "absence",

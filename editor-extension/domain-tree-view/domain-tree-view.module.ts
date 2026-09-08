@@ -22,7 +22,7 @@ export const domainTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row a sequence placed carries that place ahead of its label.",
+      statement: "A row a sequence placed has that place ahead of its label.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const domainTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row opens the whole path that row carries rather than a path composed here.",
+      statement: "A row opens the whole path that row has rather than a path composed here.",
     },
     {
       invariantKind: "departure",

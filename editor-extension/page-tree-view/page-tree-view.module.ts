@@ -26,7 +26,7 @@ export const pageTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row's tooltip leaves out whatever that row does not carry.",
+      statement: "A row's tooltip leaves out whatever that row does not have.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const pageTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row opens the whole path that row carries rather than a path composed here.",
+      statement: "A row opens the whole path that row has rather than a path composed here.",
     },
     {
       invariantKind: "departure",

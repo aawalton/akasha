@@ -35,7 +35,7 @@ export const observationStore = {
     },
     {
       invariantKind: "departure",
-      statement: "The URL a write carries names the page rather than a server.",
+      statement: "The URL a write has names the page rather than a server.",
     },
     {
       invariantKind: "absence",

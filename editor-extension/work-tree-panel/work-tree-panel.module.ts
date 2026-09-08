@@ -13,7 +13,7 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The panel draws what that file carries as the panel comes up.",
+      statement: "The panel draws what that file has as the panel comes up.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The rows the file carries are drawn unchanged but for the order a drop sets.",
+      statement: "The rows the file has are drawn unchanged but for the order a drop sets.",
     },
     {
       invariantKind: "departure",
@@ -65,11 +65,11 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "That order is held until the file carries it or the move is refused.",
+      statement: "That order is held until the file has it or the move is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A file carrying those intents in another order is drawn in the order held.",
+      statement: "A file with those intents in another order is drawn in the order held.",
     },
     {
       invariantKind: "departure",

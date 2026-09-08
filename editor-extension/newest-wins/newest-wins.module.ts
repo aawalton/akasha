@@ -47,7 +47,7 @@ export const newestWins = {
     },
     {
       invariantKind: "constraint",
-      statement: "Every ask carries a whole picture.",
+      statement: "Every ask has a whole picture.",
     },
     {
       invariantKind: "constraint",
