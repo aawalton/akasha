@@ -52,8 +52,6 @@ export const clusterCheck = {
     "text-property/request-memory",
     "text-property/under",
     "module/retired",
-    "module/ts-object-literal-self",
-    "module/check-object-literal-self",
     "module/scanner-registry",
     "module/addon-build-population",
     "module/alanwalton-ios-seam",
