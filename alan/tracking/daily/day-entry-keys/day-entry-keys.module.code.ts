@@ -5,15 +5,6 @@ import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
 
 const ENTRY_PROPERTY = "page-property-entry"
 
-/**
- * The keys an entry beside a day is declared as able to carry, read off the entry property itself.
- *
- * `asking` guards a key against the page type it is asked of, and these are keys of an entry rather
- * than of a page, so that guard does not reach them. Without this a caller asking for a key no row
- * carries would be handed rows with the key absent from every one, and a sum over them would state
- * an instrument's silence as a measurement. That is the same defect as the silent zero, one level
- * down, so it refuses in the same way.
- */
 export function entryKeysDeclared(
   root: string,
   entrySlug: string,
