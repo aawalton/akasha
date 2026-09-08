@@ -99,7 +99,7 @@ export async function runAt(world: World, at: string, given: unknown): Promise<A
   return await ranBy(world, loaded, given)
 }
 
-export async function runChange<K extends keyof Changes & string>(
+export async function runAgentChange<K extends keyof Changes & string>(
   world: World,
   at: K,
   given: Changes[K]
