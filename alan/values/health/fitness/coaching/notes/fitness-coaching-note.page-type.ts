@@ -24,6 +24,14 @@ export const fitnessCoachingNote = {
   slug: "fitness-coaching-note",
   definition: "a limit, a cue or a thing noticed that the coach programs by",
   pluralSlug: "fitness-coaching-notes",
+  partSlugs: [
+    "boolean-property/coaching-note-active",
+    "calendar-date-property/coaching-note-date",
+    "file-property/says",
+    "number-property/coaching-note-sort-order",
+    "select-property/coaching-note-kind",
+    "select-property/focus-tags",
+  ],
   extendsSlug: ["page-type/page"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
