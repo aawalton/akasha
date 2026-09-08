@@ -11,7 +11,10 @@ import {
 import type { StampedArtifact } from "@akasha/temper-build-deploy-checks/eso-doc-api-version"
 import { parseEsoDocApiVersion } from "@akasha/temper-eso-paths/eso-clone-stamp"
 import { esouiDocPath } from "@akasha/temper-eso-paths/eso-paths"
-import { saidFor, saidShort } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
+import {
+  saidFor,
+  saidShort,
+} from "../../../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const OPERATIONAL = 3
 
