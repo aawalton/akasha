@@ -164,6 +164,7 @@ export const clusterCheck = {
     "module/functional-type-fixpoint",
     "module/functional-type-import-scan",
     "module/functional-type-purity-allowlist",
+    "module/functional-type-purity-scan",
   ],
   properties: [
     {
