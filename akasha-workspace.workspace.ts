@@ -13,6 +13,5 @@ export const akashaWorkspace = {
   secretsConfig: "yaml",
   typescriptBaseConfig: "json",
   typescriptConfig: "json",
-  typescriptBuildInfo: "tsbuildinfo",
   workspaceGitIgnore: "gitignore",
 } as const satisfies Workspace
