@@ -54,11 +54,11 @@ test("the imports are sorted by specifier however the keys are ordered", () => {
 })
 
 test("a stored property declaring a worked form is omitted from the type it extends", () => {
-  const body = bodyFor("alan/track/daily/wake-days/wake-day.page-type.ts", "wake-day", [
+  const body = bodyFor("alan/track/days/wake-day.page-type.ts", "wake-day", [
     {
       key: "sessions",
       typeName: "WorkedSessions",
-      at: "alan/track/daily/wake-days/properties/sessions.page-property-entry.ts",
+      at: "alan/track/days/properties/sessions.page-property-entry.ts",
       overrides: true,
     },
   ])

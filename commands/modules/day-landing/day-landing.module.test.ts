@@ -29,7 +29,7 @@ function heldFor(
   pageSaid: string
   rows: never[]
 } {
-  const at = `${ROOT}/alan/track/daily/wake-days/pages/${day}`
+  const at = `${ROOT}/alan/track/days/pages/${day}`
   return {
     day,
     path: `${at}/wake-day-${day}.wake-day.sessions.jsonl`,
@@ -67,7 +67,7 @@ test("the one day of a landing has its page written and its rows left to the bod
     const argv = besideArgv([{ held: heldFor("2026-09-06", UNDECLARED), rows: [] }], scratch, ROOT)
     expect(argv).toEqual([
       "--file-path",
-      "alan/track/daily/wake-days/pages/2026-09-06/wake-day-2026-09-06.wake-day.ts",
+      "alan/track/days/pages/2026-09-06/wake-day-2026-09-06.wake-day.ts",
       "--content-file",
       join(scratch, "page-0"),
     ])
@@ -100,7 +100,7 @@ test("the rows of every day but the last are written beside the days those rows 
     )
     expect(argv).toEqual([
       "--file-path",
-      "alan/track/daily/wake-days/pages/2026-09-05/wake-day-2026-09-05.wake-day.sessions.jsonl",
+      "alan/track/days/pages/2026-09-05/wake-day-2026-09-05.wake-day.sessions.jsonl",
       "--content-file",
       join(scratch, "day-0"),
     ])

@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Date as TrackedDate } from "../../alan/track/daily/wake-days/properties/date.text-property.ts"
+import type { Date as TrackedDate } from "../../alan/track/days/properties/date.text-property.ts"
 import type { Lines } from "./properties/lines.file-property.ts"
 import type { SeatName } from "./properties/seat-name.text-property.ts"
 import type { SourceSlug } from "./properties/source-slug.relation-property.ts"

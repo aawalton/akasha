@@ -128,7 +128,7 @@ test("a type declaring no property held in a file carries none", () => {
 test("a new day is placed in a folder of its own under the plural", () => {
   const said = foldedFor(ROOT, [A_DAY])
   expect("puts" in said && said.puts[0]?.path).toBe(
-    "alan/track/daily/wake-days/pages/1970-01-01/wake-day-1970-01-01.wake-day.ts"
+    "alan/track/days/pages/1970-01-01/wake-day-1970-01-01.wake-day.ts"
   )
 })
 
@@ -195,7 +195,7 @@ test("a slug the name above it does not open is the folder whole", () => {
 
 const A_HELD_DAY = "wake-day-2026-03-06"
 
-const A_HELD_DAY_AT = "alan/track/daily/wake-days/pages/2026-03-06/wake-day-2026-03-06.wake-day.ts"
+const A_HELD_DAY_AT = "alan/track/days/pages/2026-03-06/wake-day-2026-03-06.wake-day.ts"
 
 test("a merge keeps every key the caller does not name", () => {
   const said = foldedFor(ROOT, [

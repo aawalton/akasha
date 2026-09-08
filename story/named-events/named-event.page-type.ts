@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Seq } from "../../alan/track/daily/wake-days/properties/seq.number-property.ts"
+import type { Seq } from "../../alan/track/days/properties/seq.number-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
 import type { EventAliases } from "./properties/event-aliases.text-property.ts"

@@ -6,7 +6,7 @@ import { mistaking } from "@akasha/command-system/asking"
 import { type Answer, answering } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
 
-export const DAYS_AT = "alan/track/daily/wake-days/pages/"
+export const DAYS_AT = "alan/track/days/pages/"
 
 export const FOOD_ENTRIES_AT = "alan/track/food-entries/pages/"
 
