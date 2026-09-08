@@ -119,14 +119,14 @@ function transformClassLikeDeclaration(
     ...createClassSetup(context, classDeclaration, className, localClassName, extendedType)
   )
 
-  const constructor = classDeclaration.members.find(
+  const constructorDeclaration = classDeclaration.members.find(
     (n): n is ts.ConstructorDeclaration => ts.isConstructorDeclaration(n) && n.body !== undefined
   )
 
-  if (constructor) {
+  if (constructorDeclaration) {
     const constructorResult = transformConstructorDeclaration(
       context,
-      constructor,
+      constructorDeclaration,
       localClassName,
       instanceFields,
       classDeclaration
@@ -136,7 +136,7 @@ function transformClassLikeDeclaration(
 
     const decoratingExpression = createConstructorDecoratingExpression(
       context,
-      constructor,
+      constructorDeclaration,
       localClassName
     )
     if (decoratingExpression) result.push(decoratingExpression)
