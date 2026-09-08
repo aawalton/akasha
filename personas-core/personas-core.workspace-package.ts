@@ -7,7 +7,6 @@ export const personasCore = {
   definition: "what a persona is scored by, and how her images and her voice are described",
   manifest: "json",
   partSlugs: [
-    "module/canonical-image-classify",
     "module/desktop-wallpaper-setting",
     "module/framework",
     "module/git-byte-pathspecs",

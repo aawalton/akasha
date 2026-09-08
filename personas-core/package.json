@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./canonical-image-classify": "./canonical-image-classify/canonical-image-classify.module.code.ts",
     "./desktop-wallpaper-setting": "./desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts",
     "./framework": "./framework/framework.module.code.ts",
     "./git-byte-pathspecs": "./git-byte-pathspecs/git-byte-pathspecs.module.code.ts",

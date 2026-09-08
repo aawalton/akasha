@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { NamedRoot } from "../../personas/image-locator/image-locator.module.code.ts"
+import type { NamedRoot } from "../image-locator/image-locator.module.code.ts"
 import {
   CANONICAL_BACKFILL_TAG,
   classifyCanonicalImage,
