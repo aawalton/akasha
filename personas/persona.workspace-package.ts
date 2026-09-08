@@ -82,5 +82,6 @@ export const persona = {
     "module/points-source-availability",
     "module/points-source-declarers",
     "module/render-prompt",
+    "module/wallpaper-backfill-classify",
   ],
 } as const satisfies WorkspacePackage

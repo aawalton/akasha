@@ -8,7 +8,6 @@ export const personasCore = {
   manifest: "json",
   partSlugs: [
     "module/desktop-wallpaper-setting",
-    "module/wallpaper-backfill-classify",
     "module/wallpaper-install",
     "module/wallpaper-order",
     "module/wallpaper-select",

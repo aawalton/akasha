@@ -5,6 +5,7 @@
   "exports": {
     "./email-address": "./properties/email-address.email-address-property.ts",
     "./image-locator": "./image-locator/image-locator.module.code.ts",
+    "./wallpaper-backfill-classify": "./wallpaper-backfill-classify/wallpaper-backfill-classify.module.code.ts",
     "./render-prompt": "./render-prompt/render-prompt.module.code.ts",
     "./points-source-declarers": "./points-source-declarers/points-source-declarers.module.code.ts",
     "./points-source-availability": "./points-source-availability/points-source-availability.module.code.ts",
