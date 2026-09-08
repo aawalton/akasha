@@ -3,11 +3,13 @@ import type { Test } from "../../code-system/modules/properties/test.file-proper
 import type { Domain } from "../../domains/domain.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
 import type { PointUnit } from "./properties/point-unit.text-property.ts"
+import type { PointsBeforeToday } from "./properties/points-before-today.number-property.ts"
 import type { PointsToday } from "./properties/points-today.number-property.ts"
 import type { PointsTotal } from "./properties/points-total.number-property.ts"
 
 export type Attribute = Domain & {
   pointUnit: PointUnit
+  pointsBeforeToday?: PointsBeforeToday
   pointsToday?: PointsToday
   pointsTotal?: PointsTotal
   code?: Code
@@ -31,6 +33,7 @@ export const attribute = {
     "attribute/luck",
     "attribute/strength",
     "attribute/wisdom",
+    "number-property/points-before-today",
     "number-property/points-today",
     "number-property/points-total",
     "text-property/point-unit",
@@ -39,6 +42,12 @@ export const attribute = {
     { pagePropertySlug: "file-property/code", required: false, many: false },
     { pagePropertySlug: "file-property/test", required: false, many: false },
     { pagePropertySlug: "text-property/point-unit", required: true, many: false },
+    {
+      pagePropertySlug: "number-property/points-before-today",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
     {
       pagePropertySlug: "number-property/points-today",
       required: false,
