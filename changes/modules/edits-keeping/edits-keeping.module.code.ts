@@ -4,7 +4,6 @@ import { dirname, join } from "node:path"
 import { exclusively } from "@akasha/file-system/exclusive"
 import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
-import { besideAt } from "@akasha/pages/page-file-name"
 import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
 import { type BodyOf, gathered } from "../change-answer/change-answer.module.code.ts"
 import type { Answer, Reading, Stated } from "../change-answer/change-answer.module.types.ts"
@@ -14,8 +13,6 @@ const SLUG = "edits"
 const HELD = "jsonl"
 
 const FIRST_PART = 1
-
-const KEPT = "refs/akasha/edits"
 
 const HANDED = "refs/akasha/edits-handed"
 
@@ -37,10 +34,6 @@ export function editsAt(page: string): string | null {
 
 export function keptAt(page: string): string | null {
   return editsAt(page)
-}
-
-function staleAt(page: string): string | null {
-  return besideAt(page, SLUG, HELD)
 }
 
 function owing(said: Record<string, unknown>): Reading | null {
@@ -142,14 +135,8 @@ function textOver(root: string, page: string): string | null {
   return held.length === 0 ? null : held.join("")
 }
 
-function staleIn(root: string, page: string): string | null {
-  const old = staleAt(page)
-  if (old === null) return null
-  return readUnder(root, `${KEPT}/${old}`) ?? textAt(root, old)
-}
-
 function heldIn(root: string, page: string): Kept {
-  const held = textOver(root, page) ?? staleIn(root, page)
+  const held = textOver(root, page)
   return held === null ? { rows: [] } : rowsIn(held)
 }
 
@@ -212,20 +199,12 @@ function appending(root: string, page: string, rows: readonly Stated[]): undefin
   )
 }
 
-function abandoned(root: string, page: string): undefined {
-  const old = staleAt(page)
-  if (old === null) return
-  dropUnder(root, `${KEPT}/${old}`)
-  rmSync(join(root, old), { force: true })
-}
-
 function swept(root: string, page: string): undefined {
   for (const at of partsAt(root, page)) rmSync(join(root, at), { force: true })
-  abandoned(root, page)
 }
 
 export function linesIn(root: string, page: string): readonly string[] {
-  const held = textOver(root, page) ?? staleIn(root, page)
+  const held = textOver(root, page)
   return held === null ? [] : held.split("\n").filter((one) => one !== "")
 }
 
@@ -246,17 +225,6 @@ export function droppedFirst(root: string, page: string, went: readonly string[]
       left.map((one) => `${one}\n`)
     )
   })
-}
-
-function migrated(root: string, page: string): undefined {
-  const at = editsAt(page)
-  if (at === null || existsSync(join(root, at))) return
-  const stale = staleIn(root, page)
-  if (stale === null) return
-  const read = rowsIn(stale)
-  if ("why" in read) return
-  appending(root, page, read.rows)
-  abandoned(root, page)
 }
 
 type Rows = readonly Stated[] | null
@@ -297,7 +265,6 @@ export function keptEdits(
   const full = join(root, at)
   mkdirSync(dirname(full), { recursive: true })
   return exclusively(full, (): Kept | Promise<Kept> => {
-    migrated(root, page)
     const had = heldIn(root, page)
     if ("why" in had) return had
     const next = act(had.rows)
@@ -314,7 +281,6 @@ export function appendEdits(root: string, page: string, edits: readonly Stated[]
   const full = join(root, at)
   mkdirSync(dirname(full), { recursive: true })
   return exclusively(full, (): Kept => {
-    migrated(root, page)
     appending(root, page, edits)
     return { rows: edits }
   })

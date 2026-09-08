@@ -13,7 +13,6 @@ import {
   foldedIn,
   keptAt,
   keptEdits,
-  putUnder,
 } from "./edits-keeping.module.code.ts"
 
 afterAll(scratch.sweep)
@@ -23,10 +22,6 @@ const PAGE = "akasha/agents/pages/tester.agent.ts"
 const AT = "akasha/agents/pages/tester.agent.edits.uncommitted.jsonl"
 
 const TWO_AT = "akasha/agents/pages/tester.agent.edits.part2.uncommitted.jsonl"
-
-const OLD_AT = "akasha/agents/pages/tester.agent.edits.jsonl"
-
-const KEPT = `refs/akasha/edits/${OLD_AT}`
 
 const ONE = "akasha/one.module.ts"
 
@@ -244,24 +239,6 @@ test("a row past the ceiling is alone and the row after it opens the next file",
 
   expect(existsSync(join(root, TWO_AT))).toBe(true)
   expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE, TWO])
-})
-
-test("a ledger an earlier keeping left under a ref is read where no file is there", () => {
-  const root = rootFor()
-  putUnder(root, KEPT, lined(adding(ONE, "a\n")))
-
-  expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE])
-})
-
-test("the next write moves that ledger into the file and takes the ref away", () => {
-  const root = rootFor()
-  putUnder(root, KEPT, lined(adding(ONE, "a\n")))
-
-  appendEdits(root, PAGE, [adding(TWO, "b\n")])
-
-  expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE, TWO])
-  expect(existsSync(join(root, AT))).toBe(true)
-  expect(gitIn(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/**"]).trim()).toBe("")
 })
 
 test("the file the edits are kept in is the file the apply reports", () => {

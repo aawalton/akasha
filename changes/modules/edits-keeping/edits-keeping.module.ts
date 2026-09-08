@@ -158,13 +158,5 @@ export const editsKeeping = {
       invariantKind: "absence",
       statement: "Nothing here works out a body or judges an edit.",
     },
-    {
-      invariantKind: "stopgap",
-      statement: "A ledger an earlier keeping left under a ref is read where no file is there.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement: "The next write moves that ledger into the file and takes the ref away.",
-    },
   ],
 } as const satisfies Module
