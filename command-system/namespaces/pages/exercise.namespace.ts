@@ -9,7 +9,6 @@ export const exercise = {
     "namespace/exercise-constraint",
     "namespace/exercise-equipment",
     "namespace/exercise-mobility",
-    "command/exercise-policy-show",
     "namespace/exercise-profile",
     "command/exercise-schedule-create",
   ],
