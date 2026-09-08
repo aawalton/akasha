@@ -13,15 +13,15 @@ export const fileRead = {
     },
     {
       invariantKind: "departure",
-      statement: "Every narrow is run again over the rows the answer carries.",
+      statement: "Every narrow is run again over the rows the answer has.",
     },
     {
       invariantKind: "departure",
-      statement: "A row the pages answer carries the page's values and no path.",
+      statement: "A row the pages answer has the page's values and no path.",
     },
     {
       invariantKind: "departure",
-      statement: "A page's id and slug are read off the values that page carries.",
+      statement: "A page's id and slug are read off the values that page has.",
     },
     {
       invariantKind: "departure",

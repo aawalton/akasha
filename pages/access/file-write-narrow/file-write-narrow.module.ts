@@ -14,7 +14,7 @@ export const fileWriteNarrow = {
     },
     {
       invariantKind: "absence",
-      statement: "No condition is dropped for being a condition this module cannot carry.",
+      statement: "No condition is dropped for being a condition this module cannot have.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const fileWriteNarrow = {
     },
     {
       invariantKind: "departure",
-      statement: "One key carries one test of each name.",
+      statement: "One key has one test of each name.",
     },
     {
       invariantKind: "departure",

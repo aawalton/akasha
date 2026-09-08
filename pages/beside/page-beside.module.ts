@@ -11,7 +11,7 @@ export const pageBeside = {
     {
       invariantKind: "departure",
       statement:
-        "A file is beside a page when the file carries the page's whole name and a property's sections.",
+        "A file is beside a page when the file has the page's whole name and a property's sections.",
     },
     {
       invariantKind: "departure",

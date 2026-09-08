@@ -17,7 +17,7 @@ export const backendEnv = {
     },
     {
       invariantKind: "departure",
-      statement: "A gzipped body carries no length.",
+      statement: "A gzipped body has no length.",
     },
     {
       invariantKind: "departure",

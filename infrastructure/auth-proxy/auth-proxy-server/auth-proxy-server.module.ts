@@ -10,7 +10,7 @@ export const authProxyServer = {
     {
       invariantKind: "departure",
       statement:
-        "A request carrying an authorization header is passed straight through for the backend to decide.",
+        "A request with an authorization header is passed straight through for the backend to decide.",
     },
     {
       invariantKind: "departure",

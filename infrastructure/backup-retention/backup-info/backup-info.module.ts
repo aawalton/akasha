@@ -14,7 +14,7 @@ export const backupInfo = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carrying no equals sign is passed over.",
+      statement: "A line with no equals sign is passed over.",
     },
   ],
 } as const satisfies Module

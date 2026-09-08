@@ -18,8 +18,7 @@ export const workloadDeploying = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A manifest carrying a value nothing filled in is refused before anything is applied.",
+      statement: "A manifest with a value nothing filled in is refused before anything is applied.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +40,7 @@ export const workloadDeploying = {
     },
     {
       invariantKind: "departure",
-      statement: "A workload carrying a pod template is waited on until its rollout is done.",
+      statement: "A workload with a pod template is waited on until its rollout is done.",
     },
     {
       invariantKind: "departure",

@@ -13,7 +13,7 @@ export const transportServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A question from inside the cluster carries no forwarded-for header.",
+      statement: "A question from inside the cluster has no forwarded-for header.",
     },
     {
       invariantKind: "departure",

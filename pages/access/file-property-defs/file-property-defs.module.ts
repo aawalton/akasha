@@ -19,7 +19,7 @@ export const filePropertyDefs = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type nothing carries is answered as null rather than as an empty list.",
+      statement: "A page type nothing has is answered as null rather than as an empty list.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const filePropertyDefs = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape carries the property naming the account a page belongs to.",
+      statement: "A shape has the property naming the account a page belongs to.",
     },
     {
       invariantKind: "departure",

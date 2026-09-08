@@ -9,7 +9,7 @@ export const proxy = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A request sent on for a known caller carries that caller's name in its headers.",
+      statement: "A request sent on for a known caller has that caller's name in its headers.",
     },
     {
       invariantKind: "departure",

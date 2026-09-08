@@ -9,7 +9,7 @@ export const cookieMatchCore = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name carrying no chunk number is the first chunk.",
+      statement: "A name with no chunk number is the first chunk.",
     },
   ],
 } as const satisfies Module

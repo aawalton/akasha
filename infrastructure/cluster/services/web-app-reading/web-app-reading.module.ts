@@ -15,7 +15,7 @@ export const webAppReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug no web app page carries is refused by name.",
+      statement: "A slug no web app page has is refused by name.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const webAppReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug more than one cluster service page carries is refused.",
+      statement: "A slug more than one cluster service page has is refused.",
     },
     {
       invariantKind: "departure",

@@ -26,7 +26,7 @@ export const fileWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch writes the stated keys over the keys the page already carries.",
+      statement: "A patch writes the stated keys over the keys the page already has.",
     },
     {
       invariantKind: "departure",

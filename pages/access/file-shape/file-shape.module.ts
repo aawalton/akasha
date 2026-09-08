@@ -22,7 +22,7 @@ export const fileShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type carrying no such id is answered as nothing and that answer is kept.",
+      statement: "A page type with no such id is answered as nothing and that answer is kept.",
     },
     {
       invariantKind: "gap",

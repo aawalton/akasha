@@ -13,7 +13,7 @@ export const corsCore = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer to an origin that is not allowed carries no header of its own.",
+      statement: "An answer to an origin that is not allowed has no header of its own.",
     },
     {
       invariantKind: "departure",

@@ -15,11 +15,11 @@ export const answer = {
     {
       invariantKind: "departure",
       statement:
-        "How many pages a page type has is counted off the rows the answer carries rather than asked for.",
+        "How many pages a page type has is counted off the rows the answer has rather than asked for.",
     },
     {
       invariantKind: "departure",
-      statement: "A listing carries five thousand rows at the most.",
+      statement: "A listing has five thousand rows at the most.",
     },
     {
       invariantKind: "departure",
@@ -41,15 +41,15 @@ export const answer = {
     },
     {
       invariantKind: "departure",
-      statement: "A roster entry carries that page type's slug alone.",
+      statement: "A roster entry has that page type's slug alone.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type's row carries the property definitions that page type declares.",
+      statement: "A page type's row has the property definitions that page type declares.",
     },
     {
       invariantKind: "departure",
-      statement: "A row of any other page type carries no property definition.",
+      statement: "A row of any other page type has no property definition.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const answer = {
     {
       invariantKind: "departure",
       statement:
-        "A page type carrying no definition is told apart from a page type carrying an empty list.",
+        "A page type with no definition is told apart from a page type with an empty list.",
     },
     {
       invariantKind: "departure",

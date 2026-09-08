@@ -22,7 +22,7 @@ export const inferenceRunRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "A record carries the command line that asked for the run.",
+      statement: "A record has the command line that asked for the run.",
     },
   ],
 } as const satisfies Module

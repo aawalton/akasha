@@ -26,7 +26,7 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether origin carries a sha is asked of origin rather than of a local ref.",
+      statement: "Whether origin has a sha is asked of origin rather than of a local ref.",
     },
     {
       invariantKind: "absence",
