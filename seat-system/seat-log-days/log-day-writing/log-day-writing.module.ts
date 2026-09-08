@@ -28,6 +28,10 @@ export const logDayWriting = {
       statement: "A log day page is written where no log day page names that day.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page type written here is reached by the id it keeps rather than by its slug.",
+    },
+    {
       invariantKind: "absence",
       statement: "No page body written here says an id.",
     },

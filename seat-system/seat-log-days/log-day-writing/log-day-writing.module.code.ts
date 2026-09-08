@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, statSync } from "node:fs"
+import { existsSync, mkdirSync } from "node:fs"
 import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
@@ -7,10 +7,10 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { uncommittedPartAt } from "@akasha/pages/page-file-parts"
+import { sizeOnDisk } from "@akasha/utils-fs/file-size"
 
 const CALLED_AS = "log-day-writing"
 
-/** The two page types written here, each reached by the id it keeps rather than by its slug. */
 const LOG_SOURCE_TYPE = "01a0657c-cb14-7c6f-83df-0d533f4f7821"
 
 const SEAT_LOG_DAY_TYPE = "01a0657c-cb14-7b5b-a206-18059a84a88a"
@@ -111,14 +111,6 @@ function partAt(pagePath: string, part: number): string | null {
   return uncommittedPartAt(pagePath, LINES_KEY, HELD, part)
 }
 
-function sizeOf(path: string): number {
-  try {
-    return statSync(path).size
-  } catch {
-    return 0
-  }
-}
-
 function lastPartOf(root: string, pagePath: string): { path: string; part: number; bytes: number } {
   let part = FIRST_PART
   let found = partAt(pagePath, part) as string
@@ -128,7 +120,7 @@ function lastPartOf(root: string, pagePath: string): { path: string; part: numbe
     part += 1
     found = next
   }
-  return { path: join(root, found), part, bytes: sizeOf(join(root, found)) }
+  return { path: join(root, found), part, bytes: sizeOnDisk(join(root, found)) }
 }
 
 function appenderFor(

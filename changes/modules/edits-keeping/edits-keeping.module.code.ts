@@ -1,9 +1,10 @@
 import { Buffer } from "node:buffer"
-import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync, statSync } from "node:fs"
+import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { exclusively } from "@akasha/file-system/exclusive"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
+import { sizeOnDisk } from "@akasha/utils-fs/file-size"
 import { type BodyOf, gathered } from "../change-answer/change-answer.module.code.ts"
 import type { Answer, Reading, Stated } from "../change-answer/change-answer.module.types.ts"
 
@@ -121,14 +122,6 @@ export function editsIn(root: string, page: string): Kept {
   return editsAt(page) === null ? { why: NO_PAGE } : heldIn(root, page)
 }
 
-function sizeOf(root: string, at: string): number {
-  try {
-    return statSync(join(root, at)).size
-  } catch {
-    return 0
-  }
-}
-
 function fillingAt(root: string, page: string, adding: number): string | null {
   let part = FIRST_PART
   let found = partAt(page, part)
@@ -139,7 +132,7 @@ function fillingAt(root: string, page: string, adding: number): string | null {
     part += 1
     found = next
   }
-  const size = sizeOf(root, found)
+  const size = sizeOnDisk(join(root, found))
   if (size === 0 || size + adding <= ENTRY_CEILING) return found
   return partAt(page, part + 1) ?? found
 }

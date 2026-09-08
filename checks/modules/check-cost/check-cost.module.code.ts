@@ -1,8 +1,10 @@
 import { Buffer } from "node:buffer"
-import { appendFileSync, existsSync, readFileSync, statSync, writeFileSync } from "node:fs"
+import { appendFileSync, existsSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { uncommittedPartAt } from "@akasha/pages/page-file-parts"
+import { sizeOnDisk } from "@akasha/utils-fs/file-size"
+import { textOnDisk } from "@akasha/utils-fs/text-on-disk"
 
 const ENTRIES = "entries"
 
@@ -57,14 +59,6 @@ export type Taken = {
   readonly at: number
 }
 
-function textAt(path: string): string | null {
-  try {
-    return readFileSync(path, "utf8")
-  } catch {
-    return null
-  }
-}
-
 export function childSecondsIn(stat: string): number {
   const shut = stat.lastIndexOf(")")
   if (shut < 0) return 0
@@ -85,12 +79,12 @@ export function bytesIn(status: string, named: string): number {
 }
 
 function childSeconds(): number {
-  const stat = textAt(STAT)
+  const stat = textOnDisk(STAT)
   return stat === null ? 0 : childSecondsIn(stat)
 }
 
 function marksNow(): { readonly peak: number; readonly resident: number } {
-  const status = textAt(STATUS)
+  const status = textOnDisk(STATUS)
   if (status === null) return { peak: 0, resident: 0 }
   return { peak: bytesIn(status, "VmHWM"), resident: bytesIn(status, "VmRSS") }
 }
@@ -107,7 +101,7 @@ export function countIn(io: string, named: string): number {
 type Reading = { readonly reads: number; readonly writes: number; readonly bytes: number }
 
 function readingNow(): Reading {
-  const io = textAt(IO)
+  const io = textOnDisk(IO)
   if (io === null) return { reads: 0, writes: 0, bytes: 0 }
   return { reads: countIn(io, "syscr"), writes: countIn(io, "syscw"), bytes: countIn(io, "rchar") }
 }
@@ -189,14 +183,6 @@ export function lineFor(cost: Cost): string {
   return `${JSON.stringify(cost)}\n`
 }
 
-function sizeOf(path: string): number {
-  try {
-    return statSync(path).size
-  } catch {
-    return 0
-  }
-}
-
 function partAt(page: string, part: number): string | null {
   return uncommittedPartAt(page, ENTRIES, HELD, part)
 }
@@ -211,7 +197,7 @@ export function fillingAt(root: string, page: string, adding: number): string | 
     part += 1
     found = next
   }
-  if (sizeOf(join(root, found)) + adding <= ENTRY_CEILING) return found
+  if (sizeOnDisk(join(root, found)) + adding <= ENTRY_CEILING) return found
   return partAt(page, part + 1) ?? found
 }
 
