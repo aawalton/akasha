@@ -62,6 +62,32 @@ test("a folder named for the quarantine below the top is read", () => {
   ).toEqual([`under/${QUARANTINE_ROOT}/b.module.ts`])
 })
 
+test("a folder the caller does not enter is read no deeper", () => {
+  const root = treeOf(["a.module.ts", "out/b.module.ts", "out/deep/c.module.ts"])
+
+  expect(
+    under(
+      root,
+      walkedUnder(
+        root,
+        () => true,
+        (path) => path !== join(root, "out")
+      )
+    )
+  ).toEqual(["a.module.ts"])
+})
+
+test("a caller saying nothing about folders enters every folder", () => {
+  const root = treeOf(["a.module.ts", "out/b.module.ts"])
+
+  expect(
+    under(
+      root,
+      walkedUnder(root, () => true)
+    )
+  ).toEqual(["a.module.ts", "out/b.module.ts"])
+})
+
 test("a page is a file whose page type the tree itself declares", () => {
   const root = treeOf(["module.page-type.ts", "a.module.ts", "b.widget.ts"])
 

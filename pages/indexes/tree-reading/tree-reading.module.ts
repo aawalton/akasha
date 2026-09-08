@@ -77,5 +77,11 @@ export const treeReading = {
       invariantKind: "absence",
       statement: "Nothing here reads or writes the index.",
     },
+    { invariantKind: "departure", statement: "A caller says which folders that caller enters." },
+    {
+      invariantKind: "departure",
+      statement:
+        "A caller saying nothing about folders enters every folder the rules here leave in.",
+    },
   ],
 } as const satisfies Module

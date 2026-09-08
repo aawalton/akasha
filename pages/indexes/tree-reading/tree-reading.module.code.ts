@@ -7,9 +7,11 @@ const PAGE_TYPE = "page-type"
 
 const UNWALKED = new Set<string>([VENDOR_ROOT, ".git", ".supervisors"])
 
-// The quarantine is one folder at the top of a checkout, which is how `isDirty` reads it. Matching
-// that name at every depth instead takes any folder called `dirty` out of the index, page and all.
-export function walkedUnder(at: string, taking: (name: string) => boolean): readonly string[] {
+export function walkedUnder(
+  at: string,
+  taking: (name: string) => boolean,
+  entering: (path: string) => boolean = () => true
+): readonly string[] {
   const found: string[] = []
   const walk = (here: string): undefined => {
     for (const one of readdirSync(here, { withFileTypes: true })) {
@@ -17,6 +19,7 @@ export function walkedUnder(at: string, taking: (name: string) => boolean): read
       if (one.isDirectory()) {
         if (UNWALKED.has(one.name)) continue
         if (here === at && one.name === QUARANTINE_ROOT) continue
+        if (!entering(next)) continue
         walk(next)
       } else if (taking(one.name)) found.push(next)
     }
