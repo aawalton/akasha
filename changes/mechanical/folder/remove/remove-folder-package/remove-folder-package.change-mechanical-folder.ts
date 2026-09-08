@@ -27,12 +27,37 @@ export const removeFolderPackage = {
       statement: "The removal is worked out by the change this change reaches.",
     },
     {
-      invariantKind: "gap",
-      statement: "The workspace naming the package among its folders drops that name.",
+      invariantKind: "departure",
+      statement: "The name the package carries is read from the manifest beside its page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest naming that name among what it depends on refuses the removal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal names that manifest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest under the folder going away is no reason for that folder to stay.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package whose page has no manifest beside it is taken away unjudged.",
     },
     {
       invariantKind: "gap",
-      statement: "A manifest reaching the package by its name is judged before the folder goes.",
+      statement: "A manifest depending on the package drops that name by a change of its own.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here drops the name a manifest depends on.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "Nothing here drops the package's name from a workspace, folders being named by a pattern.",
     },
   ],
 } as const satisfies ChangeMechanicalFolder
