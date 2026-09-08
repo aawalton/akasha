@@ -4,12 +4,12 @@ export const debugLoggerTaggedLogger = {
   id: "01a06061-4092-7c03-8889-a341e67a2144",
   pageTypeSlug: "module",
   slug: "debug-logger-tagged-logger",
-  definition: "a logger object carrying one tag, its sub-taggings and its level overrides",
+  definition: "a logger object with one tag, its sub-taggings and its level overrides",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A logger carries the tag handed in at its making.",
+      statement: "A logger has the tag handed in at its making.",
     },
     {
       invariantKind: "departure",

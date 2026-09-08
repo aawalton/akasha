@@ -9,7 +9,7 @@ export const knowledgeRegisterStrings = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A tongue the library carries no text for falls back to English.",
+      statement: "A tongue the library has no text for falls back to English.",
     },
   ],
 } as const satisfies Module

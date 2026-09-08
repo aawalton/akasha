@@ -13,7 +13,7 @@ export const tableFunctionsEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "The global carries the whole library rather than one helper at a time.",
+      statement: "The global has the whole library rather than one helper at a time.",
     },
   ],
 } as const satisfies Module

@@ -13,7 +13,7 @@ export const addonMenuTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "One control interface carries the fields of every widget type as optional.",
+      statement: "One control interface has the fields of every widget type as optional.",
     },
     {
       invariantKind: "constraint",

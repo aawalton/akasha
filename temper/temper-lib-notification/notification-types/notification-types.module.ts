@@ -9,7 +9,7 @@ export const notificationTypes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A row carries whatever else the caller puts on the row.",
+      statement: "A row has whatever else the caller puts on the row.",
     },
     {
       invariantKind: "departure",

@@ -17,7 +17,7 @@ export const slashCommand = {
     },
     {
       invariantKind: "constraint",
-      statement: "Calling a command carrying no callback raises an error.",
+      statement: "Calling a command with no callback raises an error.",
     },
     {
       invariantKind: "departure",

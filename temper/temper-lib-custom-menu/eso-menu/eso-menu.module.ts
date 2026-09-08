@@ -9,7 +9,7 @@ export const esoMenu = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One control carries every context menu the game shows.",
+      statement: "One control has every context menu the game shows.",
     },
   ],
 } as const satisfies Module

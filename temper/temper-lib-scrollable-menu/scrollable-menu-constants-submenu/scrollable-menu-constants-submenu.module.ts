@@ -9,7 +9,7 @@ export const scrollableMenuConstantsSubmenu = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each exposed key carries a boolean saying whether the proxy forwards that key.",
+      statement: "Each exposed key has a boolean saying whether the proxy forwards that key.",
     },
     {
       invariantKind: "departure",

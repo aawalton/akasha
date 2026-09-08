@@ -13,7 +13,7 @@ export const scrollableMenuComboboxBaseHighlight = {
     },
     {
       invariantKind: "departure",
-      statement: "A submenu row that also carries a callback is given a distinct template.",
+      statement: "A submenu row that also has a callback is given a distinct template.",
     },
     {
       invariantKind: "departure",

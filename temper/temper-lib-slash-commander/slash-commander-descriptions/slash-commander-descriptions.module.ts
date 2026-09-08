@@ -21,7 +21,7 @@ export const slashCommanderDescriptions = {
     },
     {
       invariantKind: "departure",
-      statement: "Every command the game carries is put into a kind.",
+      statement: "Every command the game has is put into a kind.",
     },
   ],
 } as const satisfies Module

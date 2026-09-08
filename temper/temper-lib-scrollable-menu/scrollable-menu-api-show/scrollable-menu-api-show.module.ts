@@ -13,7 +13,7 @@ export const scrollableMenuApiShow = {
     },
     {
       invariantKind: "constraint",
-      statement: "A special callback must carry a unique addon name or the call errors.",
+      statement: "A special callback must have a unique addon name or the call errors.",
     },
     {
       invariantKind: "departure",

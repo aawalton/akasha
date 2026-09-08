@@ -9,7 +9,7 @@ export const asyncTypes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A task carries a callstack rather than a Lua coroutine.",
+      statement: "A task has a callstack rather than a Lua coroutine.",
     },
     {
       invariantKind: "departure",

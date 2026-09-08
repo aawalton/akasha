@@ -21,7 +21,7 @@ export const scrollableMenuDropdownHeader = {
     },
     {
       invariantKind: "constraint",
-      statement: "A header carrying a filter box is widened to the search-header minimum.",
+      statement: "A header with a filter box is widened to the search-header minimum.",
     },
   ],
 } as const satisfies Module

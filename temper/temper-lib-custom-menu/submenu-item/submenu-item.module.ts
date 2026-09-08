@@ -9,7 +9,7 @@ export const submenuItem = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A row carrying a sub-menu shows an arrow at its right edge.",
+      statement: "A row with a sub-menu shows an arrow at its right edge.",
     },
   ],
 } as const satisfies Module

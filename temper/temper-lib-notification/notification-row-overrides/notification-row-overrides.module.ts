@@ -4,7 +4,7 @@ export const notificationRowOverrides = {
   id: "01a0605a-0516-7cdb-bc72-cc68da9f4ab1",
   pageTypeSlug: "module",
   slug: "notification-row-overrides",
-  definition: "the game's own notification row setup replaced so a row may carry its own look",
+  definition: "the game's own notification row setup replaced so a row may have its own look",
   code: "ts",
   invariants: [
     {

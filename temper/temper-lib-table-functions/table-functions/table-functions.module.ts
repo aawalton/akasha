@@ -17,7 +17,7 @@ export const tableFunctions = {
     },
     {
       invariantKind: "departure",
-      statement: "A copy carries the metatable of every table copied.",
+      statement: "A copy has the metatable of every table copied.",
     },
     {
       invariantKind: "departure",

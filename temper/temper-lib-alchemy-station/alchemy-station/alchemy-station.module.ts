@@ -25,7 +25,7 @@ export const alchemyStation = {
     },
     {
       invariantKind: "departure",
-      statement: "The label above the panel is set from the name the tab carries.",
+      statement: "The label above the panel is set from the name the tab has.",
     },
   ],
 } as const satisfies Module

@@ -13,7 +13,7 @@ export const alchemyStationEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "The global carries the whole library rather than one call at a time.",
+      statement: "The global has the whole library rather than one call at a time.",
     },
   ],
 } as const satisfies Module

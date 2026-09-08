@@ -13,7 +13,7 @@ export const addonMenuMessages = {
     },
     {
       invariantKind: "departure",
-      statement: "Every message printed to chat carries a LAM2 prefix.",
+      statement: "Every message printed to chat has a LAM2 prefix.",
     },
     {
       invariantKind: "departure",

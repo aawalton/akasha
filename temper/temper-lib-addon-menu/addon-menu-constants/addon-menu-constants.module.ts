@@ -9,7 +9,7 @@ export const addonMenuConstants = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each widget type carries its own version number.",
+      statement: "Each widget type has its own version number.",
     },
     {
       invariantKind: "constraint",
