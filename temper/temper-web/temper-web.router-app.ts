@@ -19,6 +19,7 @@ export const temperWeb = {
   sidebarBoot: "js",
   placeholderImage: "svg",
   gitIgnore: "gitignore",
+  testPreload: "toml",
   partSlugs: [
     "manifest/temper-web-manifests",
     "stylesheet/temper-web-look",
