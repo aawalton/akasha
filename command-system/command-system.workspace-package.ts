@@ -51,7 +51,6 @@ export const commandSystem = {
     "module/mechanical-landing",
     "module/prose-routing",
     "module/commit-author",
-    "module/gated-landing",
     "module/commands-served",
     "module/command-server",
     "module/orphaning",

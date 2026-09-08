@@ -1,10 +1,10 @@
 import { readdirSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { landRemovals } from "@akasha/command-system/gated-landing"
 import { dropReadings } from "@akasha/command-system/reading"
 import { fileStemOf } from "@akasha/file-page-identity"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { besideOf } from "@akasha/pages/page-beside"
+import { landRemovals } from "@akasha/seat-system/gated-landing"
 
 const DEFAULT_KEEP_DAYS = 7
 

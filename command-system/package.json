@@ -44,7 +44,6 @@
     "./scratching": "./scratching/scratching.module.code.ts",
     "./scratching/testing": "./scratching/scratching.module.test-fixtures.ts",
     "./value-minting": "./value-minting/value-minting.module.code.ts",
-    "./gated-landing": "./gated-landing/gated-landing.module.code.ts",
     "./command-failing": "./command-failing/command-failing.module.code.ts",
     "./argument-narrowing": "./argument-narrowing/argument-narrowing.module.code.ts",
     "./commands-served": "./commands-served/commands-served.module.code.ts"

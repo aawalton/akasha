@@ -1,9 +1,9 @@
 import { existsSync, readdirSync } from "node:fs"
-import { landBodies, landRemovals } from "@akasha/command-system/gated-landing"
 import { AKASHA, akashaRoot } from "@akasha/pages/checkout-roots"
 import { mergeUncommitted, removeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
 import { valueAt } from "@akasha/pages/page-value"
 import { composedFor } from "@akasha/pages-service/composing"
+import { landBodies, landRemovals } from "@akasha/seat-system/gated-landing"
 import { akashaSeatIdForName } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const PAGE_TYPE = "message"
