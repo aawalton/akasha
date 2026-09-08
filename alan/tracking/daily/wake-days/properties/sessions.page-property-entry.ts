@@ -2,9 +2,6 @@ import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
 
 export type Sessions = "jsonl"
 
-// A page file states this property as the extension of the file beside it, and a calculation is
-// handed the rows themselves: the evaluator reads that file and puts its parsed lines under the
-// key in place of the `"jsonl"` the page carries. A row is spelled as the file spells it.
 export type SessionRow = {
   readonly id?: string
   readonly title?: string
@@ -71,6 +68,15 @@ export const sessions = {
     {
       invariantKind: "gap",
       statement: "A stretch is a row here rather than a page a query may ask of.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A calculation is handed the rows this file holds in place of the extension the page carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row is spelled as the file spells the row.",
     },
   ],
 } as const satisfies PagePropertyEntry
