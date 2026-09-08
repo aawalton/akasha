@@ -43,7 +43,7 @@ export const noUnparsedBoundaryRead = {
     },
     {
       invariantKind: "departure",
-      statement: "A path carrying a `__fixtures__` or a `generated` segment is passed over.",
+      statement: "A path with a `__fixtures__` or a `generated` segment is passed over.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const noUnparsedBoundaryRead = {
     },
     {
       invariantKind: "constraint",
-      statement: "A syntax rule carries no phase of its own.",
+      statement: "A syntax rule has no phase of its own.",
     },
     {
       invariantKind: "departure",

@@ -110,7 +110,7 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
-      statement: "Every row carries `state` and `waitingOn` whatever that row's state reads.",
+      statement: "Every row has `state` and `waitingOn` whatever that row's state reads.",
     },
     {
       invariantKind: "departure",

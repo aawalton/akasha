@@ -49,7 +49,7 @@ export const pagePropertyHasItsFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A page named for a page type the change itself carries is judged.",
+      statement: "A page named for a page type the change itself has is judged.",
     },
     {
       invariantKind: "departure",
@@ -58,12 +58,12 @@ export const pagePropertyHasItsFile = {
     {
       invariantKind: "departure",
       statement:
-        "A page the index says carries a changed path is judged even when the change never names that page.",
+        "A page the index says has a changed path is judged even when the change never names that page.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Which pages the index says carry a changed path is read from the index as the index stands.",
+        "Which pages the index says have a changed path is read from the index as the index stands.",
     },
     {
       invariantKind: "departure",

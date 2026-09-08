@@ -17,7 +17,7 @@ export const pageMatchesItsType = {
     {
       invariantKind: "departure",
       statement:
-        "The properties a page must carry are read from its page type and the types above that page type.",
+        "The properties a page must have are read from its page type and the types above that page type.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +65,7 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type the change carries is read as the change leaves that page type.",
+      statement: "A page type the change has is read as the change leaves that page type.",
     },
     {
       invariantKind: "departure",
@@ -74,7 +74,7 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "gap",
-      statement: "A change carrying an entry file alone is an input to this check.",
+      statement: "A change with an entry file alone is an input to this check.",
     },
     {
       invariantKind: "departure",
@@ -119,7 +119,7 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
-      statement: "A page is being created when the base commit carries no body for its path.",
+      statement: "A page is being created when the base commit has no body for its path.",
     },
     {
       invariantKind: "departure",

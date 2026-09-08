@@ -15,7 +15,7 @@ export const testsPass = {
     {
       invariantKind: "departure",
       statement:
-        "The tests a change is judged by are the ones standing beside the files the change carries.",
+        "The tests a change is judged by are the ones standing beside the files the change has.",
     },
 
     {
@@ -24,7 +24,7 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "The run reads a body the change carries whether or not a file is at that path.",
+      statement: "The run reads a body the change has whether or not a file is at that path.",
     },
     {
       invariantKind: "departure",
@@ -82,7 +82,7 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A change carrying no file with a test beside that file is judged by no run.",
+      statement: "A change with no file with a test beside that file is judged by no run.",
     },
     {
       invariantKind: "departure",
@@ -90,7 +90,7 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A change carrying only a test runs that test.",
+      statement: "A change with only a test runs that test.",
     },
     {
       invariantKind: "absence",
@@ -110,7 +110,7 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A change carrying a test file that costs more than that file may is refused.",
+      statement: "A change with a test file that costs more than that file may is refused.",
     },
     {
       invariantKind: "departure",
@@ -159,7 +159,7 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "The whole output of the run is carried in the refusal.",
+      statement: "The whole output of the run is in the refusal.",
     },
     {
       invariantKind: "departure",
@@ -175,7 +175,7 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "How much of a refusal one answer carries is settled where the apply answers.",
+      statement: "How much of a refusal one answer has is settled where the apply answers.",
     },
     {
       invariantKind: "gap",

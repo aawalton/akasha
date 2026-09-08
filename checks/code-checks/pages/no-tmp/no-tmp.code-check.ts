@@ -19,7 +19,7 @@ export const noTmp = {
     {
       invariantKind: "departure",
       statement:
-        "A literal is judged by the value the literal carries rather than by the text around the literal.",
+        "A literal is judged by the value the literal has rather than by the text around the literal.",
     },
     {
       invariantKind: "departure",

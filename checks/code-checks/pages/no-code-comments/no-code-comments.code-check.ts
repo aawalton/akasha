@@ -26,7 +26,7 @@ export const noCodeComments = {
     },
     {
       invariantKind: "departure",
-      statement: "A stylesheet carries a comment in exactly one form.",
+      statement: "A stylesheet has a comment in exactly one form.",
     },
     {
       invariantKind: "departure",

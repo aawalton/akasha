@@ -73,7 +73,7 @@ export const pageNamedAsStated = {
     },
     {
       invariantKind: "departure",
-      statement: "The name a file carries is judged against the first page the file states.",
+      statement: "The name a file has is judged against the first page the file states.",
     },
   ],
 } as const satisfies CodeCheck

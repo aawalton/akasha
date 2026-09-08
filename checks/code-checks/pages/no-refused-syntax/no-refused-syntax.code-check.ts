@@ -4,7 +4,7 @@ export const noRefusedSyntax = {
   id: "01a0500d-738b-7831-b8d7-66fe5737a5c8",
   pageTypeSlug: "code-check",
   slug: "no-refused-syntax",
-  definition: "the check refusing a source file carrying a pattern a syntax rule names",
+  definition: "the check refusing a source file with a pattern a syntax rule names",
   partSlugs: ["page-type/syntax-rule"],
   code: "ts",
   test: "ts",
@@ -29,7 +29,7 @@ export const noRefusedSyntax = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule this change introduces is judged by the body the change carries.",
+      statement: "A rule this change introduces is judged by the body the change has.",
     },
     {
       invariantKind: "departure",

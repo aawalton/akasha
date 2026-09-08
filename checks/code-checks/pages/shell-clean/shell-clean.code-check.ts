@@ -14,7 +14,7 @@ export const shellClean = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The shell scripts a change is judged by are the ones the change carries.",
+      statement: "The shell scripts a change is judged by are the ones the change has.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const shellClean = {
     },
     {
       invariantKind: "departure",
-      statement: "The mirror carries no index.",
+      statement: "The mirror has no index.",
     },
     {
       invariantKind: "absence",

@@ -24,7 +24,7 @@ export const requireImportExtension = {
     {
       invariantKind: "departure",
       statement:
-        "A relative specifier carrying no extension is refused where the file it names stands.",
+        "A relative specifier with no extension is refused where the file it names stands.",
     },
     {
       invariantKind: "departure",
@@ -44,8 +44,7 @@ export const requireImportExtension = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A relative specifier carrying any other extension is refused where that file stands.",
+      statement: "A relative specifier with any other extension is refused where that file stands.",
     },
     {
       invariantKind: "departure",

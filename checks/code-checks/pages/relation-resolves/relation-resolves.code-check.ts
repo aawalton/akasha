@@ -21,7 +21,7 @@ export const relationResolves = {
     },
     {
       invariantKind: "departure",
-      statement: "A name reaches the index and the pages the change itself carries.",
+      statement: "A name reaches the index and the pages the change itself has.",
     },
     {
       invariantKind: "departure",

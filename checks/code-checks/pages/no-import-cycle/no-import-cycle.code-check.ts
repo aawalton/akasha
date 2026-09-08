@@ -50,7 +50,7 @@ export const noImportCycle = {
     },
     {
       invariantKind: "constraint",
-      statement: "A specifier inside akasha carries its extension.",
+      statement: "A specifier inside akasha has its extension.",
     },
     {
       invariantKind: "absence",

@@ -19,11 +19,11 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file carrying a rule spelled elsewhere as well is refused.",
+      statement: "Every file with a rule spelled elsewhere as well is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names one other file carrying the rule and counts the rest.",
+      statement: "A refusal names one other file with the rule and counts the rest.",
     },
     {
       invariantKind: "departure",
@@ -75,7 +75,7 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file the index names is read on each run whatever the change carries.",
+      statement: "Every file the index names is read on each run whatever the change has.",
     },
     {
       invariantKind: "absence",

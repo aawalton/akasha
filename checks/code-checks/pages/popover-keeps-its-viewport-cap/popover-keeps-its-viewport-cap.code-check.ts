@@ -36,7 +36,7 @@ export const popoverKeepsItsViewportCap = {
     },
     {
       invariantKind: "departure",
-      statement: "A className a call builds is read through to the strings that call carries.",
+      statement: "A className a call builds is read through to the strings that call has.",
     },
     {
       invariantKind: "departure",

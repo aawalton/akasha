@@ -83,7 +83,7 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "A package name is judged where the change carries its manifest.",
+      statement: "A package name is judged where the change has its manifest.",
     },
     {
       invariantKind: "departure",

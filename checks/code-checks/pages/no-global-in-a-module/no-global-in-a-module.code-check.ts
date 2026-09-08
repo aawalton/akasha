@@ -30,7 +30,7 @@ export const noGlobalInAModule = {
     },
     {
       invariantKind: "departure",
-      statement: "A file carrying two blocks is refused twice.",
+      statement: "A file with two blocks is refused twice.",
     },
     {
       invariantKind: "departure",
@@ -38,12 +38,11 @@ export const noGlobalInAModule = {
     },
     {
       invariantKind: "departure",
-      statement: "Only the paths the change carries are judged.",
+      statement: "Only the paths the change has are judged.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A module already carrying a block is refused the next time that module is touched.",
+      statement: "A module already with a block is refused the next time that module is touched.",
     },
     {
       invariantKind: "absence",
