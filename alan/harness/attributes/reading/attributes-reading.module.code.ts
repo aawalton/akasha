@@ -23,8 +23,7 @@ export const STRENGTH_PAGE = `${READOUTS}/attribute-strength/attribute-strength.
 
 export const ENDURANCE_PAGE = `${READOUTS}/attribute-endurance/attribute-endurance.readout.ts`
 
-export const CONSTITUTION_PAGE =
-  "alan/attributes/readouts/attribute-constitution/attribute-constitution.readout.ts"
+export const CONSTITUTION_PAGE = `${READOUTS}/attribute-constitution/attribute-constitution.readout.ts`
 
 export const WISDOM_PAGE = `${READOUTS}/attribute-wisdom/attribute-wisdom.readout.ts`
 
