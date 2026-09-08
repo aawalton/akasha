@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const throwawayUser = {
   id: "01a06583-0030-7003-b7d9-21d45fedb867",

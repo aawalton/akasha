@@ -193,6 +193,14 @@
         "react-router": ">=7",
       },
     },
+    "alan/harness/supabase-server": {
+      "name": "@akasha/supabase-server",
+      "dependencies": {
+        "@akasha/supabase-auth": "workspace:*",
+        "@supabase/supabase-js": "^2.104.0",
+        "zod": "^4.3.6",
+      },
+    },
     "alan/library/book-of-everything": {
       "name": "@akasha/book-of-everything",
       "dependencies": {
@@ -1527,14 +1535,6 @@
       "dependencies": {
         "@akasha/pages-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "supabase-server": {
-      "name": "@akasha/supabase-server",
-      "dependencies": {
-        "@akasha/supabase-auth": "workspace:*",
-        "@supabase/supabase-js": "^2.104.0",
         "zod": "^4.3.6",
       },
     },
@@ -3225,7 +3225,7 @@
 
     "@akasha/supabase-rr": ["@akasha/supabase-rr@workspace:alan/harness/supabase-rr"],
 
-    "@akasha/supabase-server": ["@akasha/supabase-server@workspace:supabase-server"],
+    "@akasha/supabase-server": ["@akasha/supabase-server@workspace:alan/harness/supabase-server"],
 
     "@akasha/talos": ["@akasha/talos@workspace:infrastructure/cluster/provisioning/talos"],
 
