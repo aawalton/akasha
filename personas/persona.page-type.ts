@@ -2,6 +2,9 @@ import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Phone } from "@akasha/persons/phone"
 import type { RoleSlug } from "@akasha/seat-system/role-slug"
+import type { PointsBeforeToday } from "../alan/attributes/properties/points-before-today.number-property.ts"
+import type { PointsToday } from "../alan/attributes/properties/points-today.number-property.ts"
+import type { PointsTotal } from "../alan/attributes/properties/points-total.number-property.ts"
 import type { Appearance } from "./properties/appearance.file-property.ts"
 import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.relation-property.ts"
 import type { DesktopWallpaper } from "./properties/desktop-wallpaper.file-property.ts"
@@ -28,6 +31,9 @@ export type Persona = Domain & {
   phone?: Phone
   championedDomainSlug?: ChampionedDomainSlug
   greenDayPoints?: GreenDayPoints
+  pointsBeforeToday?: PointsBeforeToday
+  pointsToday?: PointsToday
+  pointsTotal?: PointsTotal
   history?: History
   lastMessagedAt?: LastMessagedAt
   desktopWallpaper?: DesktopWallpaper
@@ -52,6 +58,7 @@ export const persona = {
     },
   },
   partSlugs: [
+    "computed-property/persona-relationship-level",
     "file-property/appearance",
     "file-property/desktop-wallpaper",
     "file-property/mobile-wallpaper",
@@ -78,6 +85,29 @@ export const persona = {
     { pagePropertySlug: "text-property/voice-instruction", required: false, many: false },
     { pagePropertySlug: "text-property/voice-reference-sha256", required: false, many: false },
     { pagePropertySlug: "number-property/green-day-points", required: false, many: false },
+    {
+      pagePropertySlug: "number-property/points-before-today",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pagePropertySlug: "number-property/points-today",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pagePropertySlug: "number-property/points-total",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pagePropertySlug: "computed-property/persona-relationship-level",
+      required: false,
+      many: false,
+    },
     { pagePropertySlug: "text-property/history", required: false, many: false },
     {
       pagePropertySlug: "text-property/last-messaged-at",
@@ -88,6 +118,7 @@ export const persona = {
     { pagePropertySlug: "file-property/desktop-wallpaper", required: false, many: false },
     { pagePropertySlug: "file-property/mobile-wallpaper", required: false, many: false },
   ],
+  worked: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -124,6 +155,19 @@ export const persona = {
     {
       invariantKind: "departure",
       statement: "The rules on plain words do not reach a persona's own voice.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A persona's total points and the rung those points reach are carried on her own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A persona earns one point for every hundred messages Alan writes her.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every persona earns her points the same way.",
     },
     {
       invariantKind: "absence",
