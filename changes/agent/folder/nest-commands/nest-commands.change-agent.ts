@@ -26,6 +26,14 @@ export const nestCommands = {
     },
     {
       invariantKind: "departure",
+      statement: "A folder is named the page's slug with the slug of the page above taken off.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug that taking the slug above off would leave nothing of stays whole.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A namespace under no namespace is carried into the commands folder itself.",
     },
     {

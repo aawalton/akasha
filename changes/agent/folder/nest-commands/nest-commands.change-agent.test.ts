@@ -1,7 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { folderFor, heldBy, nestCommands, runChange } from "./nest-commands.change-agent.code.ts"
+import {
+  folderFor,
+  heldBy,
+  namedUnder,
+  nestCommands,
+  runChange,
+} from "./nest-commands.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -37,11 +43,18 @@ test("a namespace under no namespace is carried into the commands folder itself"
   expect(folderFor(SLUGS, "change")).toBe("commands/pages/change")
 })
 
-test("a namespace under another is carried into the folder that namespace spells", () => {
-  expect(folderFor(SLUGS, "temper-inventory")).toBe("commands/pages/temper/temper-inventory")
-  expect(folderFor(SLUGS, "temper-inventory-rule")).toBe(
-    "commands/pages/temper/temper-inventory/temper-inventory-rule"
-  )
+test("a namespace under another is named its slug with the namespace above it taken off", () => {
+  expect(folderFor(SLUGS, "temper-inventory")).toBe("commands/pages/temper/inventory")
+  expect(folderFor(SLUGS, "temper-inventory-rule")).toBe("commands/pages/temper/inventory/rule")
+})
+
+test("a slug under no namespace keeps every word of that slug", () => {
+  expect(namedUnder("temper", null)).toBe("temper")
+  expect(namedUnder("change", "temper")).toBe("change")
+})
+
+test("a slug the namespace above it would leave nothing of keeps every word", () => {
+  expect(namedUnder("temper-", "temper")).toBe("temper-")
 })
 
 test("a namespace the index names no page for is refused", async () => {

@@ -38,9 +38,16 @@ export function heldBy(slugs: readonly string[], slug: string): string | null {
   return best
 }
 
+export function namedUnder(slug: string, above: string | null): string {
+  if (above === null || !slug.startsWith(above + HYPHEN)) return slug
+  const named = slug.slice(above.length + HYPHEN.length)
+  return named === "" ? slug : named
+}
+
 export function folderFor(slugs: readonly string[], slug: string): string {
   const above = heldBy(slugs, slug)
-  return above === null ? join(ROOT, slug) : join(folderFor(slugs, above), slug)
+  if (above === null) return join(ROOT, slug)
+  return join(folderFor(slugs, above), namedUnder(slug, above))
 }
 
 export async function carriedTo(world: World, at: string, to: string): Promise<Carrying> {
