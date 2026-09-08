@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { getConfig, k8sFetch, refuse } from "../cluster-api-fetch/cluster-api-fetch.module.code.ts"
+import { getConfig, k8sFetch, refuse } from "../cluster-fetch/cluster-fetch.module.code.ts"
 import { listPods } from "../cluster-workloads/cluster-workloads.module.code.ts"
 
 const JobCreateResponseSchema = z

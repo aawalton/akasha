@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code/module"
 
-export const clusterApiFetch = {
+export const clusterFetch = {
   id: "01a068d4-d2aa-7902-bb36-12d037d7ac6b",
   pageTypeSlug: "module",
-  slug: "cluster-api-fetch",
+  slug: "cluster-fetch",
   definition: "one call to the cluster's API server, carrying the credential the environment holds",
   code: "ts",
   invariants: [
