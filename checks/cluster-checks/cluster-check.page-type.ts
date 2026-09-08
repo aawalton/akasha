@@ -28,12 +28,8 @@ export const clusterCheck = {
   partSlugs: [
     "boolean-property/always-run",
     "boolean-property/tree-sha",
-    "cluster-check/checksum-annotation-substitution",
     "module/audit-reading",
     "module/blank-comments",
-    "module/checksum-annotation-pairing",
-    "module/checksum-annotation-substitution",
-    "module/checksum-substitution-reachability",
     "module/cluster-population-bound",
     "module/file-finding",
     "module/population",

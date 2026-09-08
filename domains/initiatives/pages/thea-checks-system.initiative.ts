@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
-        "One cluster-check left: checksum-annotation-substitution, behind intent 10. The popover check became a code-check rather than a syntax rule, Derived Reach barring a list in the check, and reading every tsx rather than design/primitives found a seventh wrapper the old check never saw. rule-population went with the registry: its daily sweep read 120k files to file nothing for dalla. 39 orphan modules are left under cluster-checks.",
+        "No cluster-check is left. The last, checksum-annotation-substitution, went rather than ported: workload-deploying already refuses a checksum/* value that is not a 32-to-64 hex digest, before anything is applied, catching all 13 placeholder spellings the tree writes. The old check looked instead for a sed site elsewhere in the same package, and no sed site is left anywhere. 36 orphan modules are left under cluster-checks, their sweep still unanswered.",
     },
     { statement: "The old system carries no check of its own." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
@@ -54,7 +54,7 @@ export const theaChecksSystem = {
       statement:
         "Every checksum annotation a workload carries derives from a secret its page names.",
       workingMemory:
-        "12 manifest modules write a placeholder checksum annotation and 9 workflow templates sed it back, 7 of the 11 sed sites naming infra/k8s/src, a tree with no tracked file. 92 secret pages state placements of resource and key; 52 cluster-service pages state namespace, resource kind and resource name. The missing edge is which secrets a workload reads. Given it, the annotation and the hash both derive, the deploy patches the workload rather than sedding a path, and the check goes.",
+        "Alan's call: the hash is worked out at deploy rather than at emit. No sed site is left anywhere, and workload-deploying already refuses a checksum/* value that is not a hex digest before applying. secret-slugs is declared on cluster-service and named by 6 of the 12 workloads carrying an annotation. 13 of the 15 annotations are a placeholder; alanwalton-web and atlas hash at emit through secretChecksum, needing a live cluster. Left: secretSlugs on the other 6, then the deploy fills from it.",
     },
     {
       statement: "Every env key a client bundle reads is marked for vite rather than for Next.",
