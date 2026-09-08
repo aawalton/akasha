@@ -171,6 +171,7 @@ export const clusterCheck = {
     "module/guarded-resolve",
     "module/guarded-resolve-collection",
     "module/guarded-resolve-scope",
+    "module/head-styles-violations",
   ],
   properties: [
     {
