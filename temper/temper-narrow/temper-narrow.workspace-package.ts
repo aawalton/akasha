@@ -14,7 +14,7 @@ export const temperNarrow = {
     },
     {
       invariantKind: "departure",
-      statement: "A narrowing that reaches no Lua belongs in `@akasha/utils-narrow` instead.",
+      statement: "A narrowing that reaches no Lua belongs in `@akasha/utils/narrow` instead.",
     },
     {
       invariantKind: "departure",
