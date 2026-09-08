@@ -67,6 +67,11 @@ export const aineAuditChangeGuards = {
       workingMemory:
         "A check to write, so the boundary holds without an agent reading for it. `akasha refactor retype` composed no change address and built its own file edits, which is the shape the check is to refuse. The address map's own descent gap was found this way: a command doing a mechanical change's work carries that work's defects with no page stating them.",
     },
+    {
+      statement: "No agent change reaches another agent change.",
+      workingMemory:
+        "`move-folder-package` reaches `change-agent/rename-page`, and `nest-commands` reaches `change-agent/move-page` and `change-agent/change-domain-parent`. `change-agent.page-type.ts` already states the departure these break. Each wants a mechanical rung first: a page's rename, and a domain's reparenting. A page's rename is not a file's rename, so it would sit in a rename family beside the move family rather than in it.",
+    },
   ],
   constraints: [
     "A guard judges the answer a change gives, so what can be judged without that answer is a check.",
