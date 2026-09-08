@@ -1,20 +1,5 @@
-import {
-  cpSync,
-  existsSync,
-  mkdirSync,
-  mkdtempSync,
-  readdirSync,
-  readFileSync,
-  realpathSync,
-  rmSync,
-  statSync,
-  symlinkSync,
-  writeFileSync,
-} from "node:fs"
-import { dirname, isAbsolute, join, relative, sep } from "node:path"
-import { indexNamed } from "@akasha/indexes"
-import { filedInto } from "@akasha/indexes/indexing"
-import type { Filing } from "@akasha/indexes/shape"
+import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
+import { dirname, join, relative } from "node:path"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { ran } from "@akasha/utils-run/running"
 import type { Serving } from "../test-bodies/test-bodies.module.code.ts"
@@ -43,23 +28,11 @@ const ESCAPE = String.fromCharCode(27)
 
 const MARK = "1"
 
-const HOLD = "/var/tmp"
-
-const PREFIX = "akasha-world-"
-
-const INDEX = indexNamed()
-
 const MODULES = "node_modules"
 
 const GIT_DIR = ".git"
 
 const SKIPPED: readonly string[] = [MODULES, GIT_DIR]
-
-const SCOPE = "@"
-
-const OUT = ".."
-
-const MANIFEST = "package.json"
 
 const CONFIG = "bunfig.toml"
 
@@ -74,15 +47,6 @@ const NONE_NAMED = /\bmatched 0 tests\b/
 export const RUNNING = "AKASHA_TESTS_RUNNING"
 
 export const BATCH = 100
-
-export const CARRIED: readonly string[] = [
-  ".gitignore",
-  ".sops.yaml",
-  "biome.json",
-  MANIFEST,
-  "tsconfig.json",
-  "tsconfig.base.json",
-]
 
 export type Verdict = "pass" | "fail" | "short" | "crash"
 
@@ -178,169 +142,6 @@ export function verdictOf(code: number, output: string, expected: number): Verdi
   if (said.failed !== null && said.failed > 0) return "fail"
   if (code === 0) return "pass"
   return said.failed === 0 ? "pass" : "fail"
-}
-
-function withinOf(real: string, at: string): string | null {
-  const inside = relative(real, realpathSync(at))
-  if (inside.startsWith(OUT) || isAbsolute(inside)) return null
-  return inside.split(sep)[0] === MODULES ? null : inside
-}
-
-function linkedInto(
-  real: string,
-  root: string,
-  live: string,
-  into: string,
-  one: string
-): undefined {
-  const at = join(live, one)
-  if (!existsSync(at)) return
-  const inside = withinOf(real, at)
-  if (inside === null) {
-    symlinkSync(at, join(into, one))
-    return
-  }
-  const held = join(root, inside)
-  if (existsSync(join(held, MANIFEST))) symlinkSync(held, join(into, one))
-}
-
-function modulesInto(from: string, root: string): undefined {
-  const live = join(from, MODULES)
-  if (!existsSync(live)) return
-  const real = realpathSync(from)
-  const into = join(root, MODULES)
-  mkdirSync(into, { recursive: true })
-  for (const one of readdirSync(live)) {
-    if (!one.startsWith(SCOPE)) {
-      linkedInto(real, root, live, into, one)
-      continue
-    }
-    const scope = join(live, one)
-    if (!existsSync(scope)) continue
-    const under = join(into, one)
-    mkdirSync(under, { recursive: true })
-    for (const member of readdirSync(scope)) linkedInto(real, root, scope, under, member)
-  }
-}
-
-export function saidOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
-
-function reaching<Held>(root: string, named: string, act: () => Held): Held {
-  try {
-    return act()
-  } catch (thrown) {
-    throw new Error(`the world at ${root} could not be made: ${named} — ${saidOf(thrown)}`)
-  }
-}
-
-const ROOT_NAME = "akasha"
-
-function heldMade(): string {
-  try {
-    return mkdtempSync(join(HOLD, PREFIX))
-  } catch (thrown) {
-    throw new Error(`no world could be made under ${HOLD} — ${saidOf(thrown)}`)
-  }
-}
-
-function rootMade(held: string): string {
-  const root = join(held, ROOT_NAME)
-  try {
-    mkdirSync(root, { recursive: true })
-    return root
-  } catch (thrown) {
-    throw new Error(`no world could be made under ${held} — ${saidOf(thrown)}`)
-  }
-}
-
-export function foldersOf(paths: readonly string[]): ReadonlySet<string> {
-  const found = new Set<string>()
-  for (const one of paths) {
-    let at = dirname(one)
-    while (at !== "." && at !== sep) {
-      found.add(at)
-      at = dirname(at)
-    }
-  }
-  return found
-}
-
-export function laidOver(
-  from: string,
-  root: string,
-  folders: ReadonlySet<string>,
-  apart: ReadonlySet<string>,
-  rel: string
-): undefined {
-  const here = rel === "" ? from : join(from, rel)
-  for (const one of readdirSync(here, { withFileTypes: true })) {
-    const at = rel === "" ? one.name : `${rel}/${one.name}`
-    if (apart.has(at)) continue
-    if (one.isDirectory() && folders.has(at)) {
-      mkdirSync(join(root, at), { recursive: true })
-      laidOver(from, root, folders, apart, at)
-      continue
-    }
-    symlinkSync(join(here, one.name), join(root, at))
-  }
-}
-
-export function worldOf(
-  from: string,
-  paths: readonly string[],
-  at: (path: string) => Uint8Array | null,
-  filed: readonly Filing[] | null
-): World {
-  const held = heldMade()
-  const root = rootMade(held)
-  try {
-    const bodies = new Map<string, Uint8Array>()
-    for (const one of paths) {
-      const bytes = reaching(root, `the body handed in for \`${one}\` would not be read`, () =>
-        at(one)
-      )
-      if (bytes !== null) bodies.set(one, bytes)
-    }
-    const apart = new Set<string>([...paths, ...CARRIED, MODULES, GIT_DIR])
-    reaching(root, `the tree at ${from} would not be laid over`, () =>
-      laidOver(from, root, foldersOf(paths), apart, "")
-    )
-    for (const [one, bytes] of bodies) {
-      const to = join(root, one)
-      reaching(root, `\`${one}\` would not be written`, () => {
-        mkdirSync(dirname(to), { recursive: true })
-        writeFileSync(to, bytes)
-      })
-    }
-    const index = join(from, INDEX)
-    if (filed !== null && existsSync(index)) {
-      reaching(root, `the index at ${index} would not be laid over`, () => {
-        const to = join(root, INDEX)
-        mkdirSync(to, { recursive: true })
-        const named = filed.map((one) => one.at)
-        laidOver(index, to, foldersOf(named), new Set(named), "")
-        filedInto(to, filed)
-      })
-    }
-    for (const one of CARRIED) {
-      const there = join(from, one)
-      if (existsSync(there)) {
-        reaching(root, `${there} would not be taken`, () => cpSync(there, join(root, one)))
-      }
-    }
-    reaching(root, `the modules under ${from} would not be linked`, () => modulesInto(from, root))
-  } catch (thrown) {
-    rmSync(held, { recursive: true, force: true })
-    throw thrown
-  }
-  return {
-    root,
-    sweep: (): undefined => {
-      rmSync(held, { recursive: true, force: true })
-    },
-  }
 }
 
 type Configured = { readonly test?: { readonly preload?: unknown } }
