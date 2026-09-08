@@ -219,6 +219,7 @@ export const clusterCheck = {
     "module/ts-path-literals",
     "module/ts-population-read-swallow",
     "module/ts-sops-spawn-pipe",
+    "module/ts-suspense-throw",
   ],
   properties: [
     {
