@@ -13,7 +13,7 @@ export const questsPublicApi = {
     },
     {
       invariantKind: "departure",
-      statement: "The global carries the two toggles and nothing more.",
+      statement: "The global has the two toggles and nothing more.",
     },
   ],
 } as const satisfies Module

@@ -10,7 +10,7 @@ export const completionMeasured = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A character carrying only roster fields counts as unread.",
+      statement: "A character with only roster fields counts as unread.",
     },
   ],
 } as const satisfies Module

@@ -13,7 +13,7 @@ export const completionCompanionRow = {
     },
     {
       invariantKind: "departure",
-      statement: "A companion row carries the same fields a character row carries.",
+      statement: "A companion row has the same fields a character row has.",
     },
     {
       invariantKind: "departure",

@@ -13,7 +13,7 @@ export const races = {
     },
     {
       invariantKind: "constraint",
-      statement: "A race's place in this table is the index a build hash carries.",
+      statement: "A race's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

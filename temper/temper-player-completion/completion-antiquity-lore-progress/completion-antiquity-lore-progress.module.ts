@@ -14,7 +14,7 @@ export const completionAntiquityLoreProgress = {
     {
       invariantKind: "departure",
       statement:
-        "A record entry carrying a name is read for the acquired lore entries the entry states.",
+        "A record entry with a name is read for the acquired lore entries the entry states.",
     },
     {
       invariantKind: "departure",

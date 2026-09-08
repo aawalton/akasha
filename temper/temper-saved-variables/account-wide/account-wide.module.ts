@@ -13,7 +13,7 @@ export const accountWide = {
     },
     {
       invariantKind: "departure",
-      statement: "The first account carrying an account-wide table is taken.",
+      statement: "The first account with an account-wide table is taken.",
     },
     {
       invariantKind: "constraint",

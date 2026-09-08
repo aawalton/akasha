@@ -18,7 +18,7 @@ export const questsChatterNames = {
     },
     {
       invariantKind: "departure",
-      statement: "A name the globals do not carry is left out of the map.",
+      statement: "A name the globals do not have is left out of the map.",
     },
   ],
 } as const satisfies Module

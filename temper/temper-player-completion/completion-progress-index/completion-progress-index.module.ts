@@ -17,7 +17,7 @@ export const completionProgressIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "The counts a roster path carries are the counts of its characters added up.",
+      statement: "The counts a roster path has are the counts of its characters added up.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const completionProgressIndex = {
     },
     {
       invariantKind: "absence",
-      statement: "A row carries no link.",
+      statement: "A row has no link.",
     },
   ],
 } as const satisfies Module

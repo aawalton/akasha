@@ -13,7 +13,7 @@ export const completionCatalogs = {
     },
     {
       invariantKind: "departure",
-      statement: "One bundle carries every catalog the completion transforms read.",
+      statement: "One bundle has every catalog the completion transforms read.",
     },
     {
       invariantKind: "departure",

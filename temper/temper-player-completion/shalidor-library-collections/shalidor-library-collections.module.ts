@@ -21,7 +21,7 @@ export const shalidorLibraryCollections = {
     },
     {
       invariantKind: "constraint",
-      statement: "A reader of this table carries no other lore category.",
+      statement: "A reader of this table has no other lore category.",
     },
     {
       invariantKind: "gap",

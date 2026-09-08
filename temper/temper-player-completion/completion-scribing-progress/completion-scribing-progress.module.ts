@@ -13,7 +13,7 @@ export const completionScribingProgress = {
     },
     {
       invariantKind: "constraint",
-      statement: "A script carrying no item id is left out.",
+      statement: "A script with no item id is left out.",
     },
   ],
 } as const satisfies Module

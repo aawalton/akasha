@@ -21,7 +21,7 @@ export const luaParser = {
     },
     {
       invariantKind: "constraint",
-      statement: "A table whose first entry carries no key is read as an array.",
+      statement: "A table whose first entry has no key is read as an array.",
     },
     {
       invariantKind: "constraint",

@@ -30,7 +30,7 @@ export const luaMarshal = {
     },
     {
       invariantKind: "departure",
-      statement: "A value no Lua literal can carry is refused rather than dropped.",
+      statement: "A value no Lua literal can have is refused rather than dropped.",
     },
     {
       invariantKind: "departure",

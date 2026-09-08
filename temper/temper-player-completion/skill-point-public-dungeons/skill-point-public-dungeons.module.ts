@@ -21,7 +21,7 @@ export const skillPointPublicDungeons = {
     },
     {
       invariantKind: "departure",
-      statement: "`EveryPublicDungeonIsLabelled` carries that second refusal.",
+      statement: "`EveryPublicDungeonIsLabelled` has that second refusal.",
     },
     {
       invariantKind: "departure",

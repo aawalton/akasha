@@ -18,7 +18,7 @@ export const luaProtocol = {
     },
     {
       invariantKind: "departure",
-      statement: "A tagged object naming a number JSON cannot carry becomes that number.",
+      statement: "A tagged object naming a number JSON cannot have becomes that number.",
     },
     {
       invariantKind: "departure",

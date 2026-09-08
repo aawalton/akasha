@@ -14,7 +14,7 @@ export const autoQuestTrace = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry carrying a field its kind never names is refused.",
+      statement: "An entry with a field its kind never names is refused.",
     },
     {
       invariantKind: "departure",

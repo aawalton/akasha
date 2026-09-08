@@ -13,7 +13,7 @@ export const questsConstants = {
     },
     {
       invariantKind: "departure",
-      statement: "The saved-variables layout carries the version the layout was written under.",
+      statement: "The saved-variables layout has the version the layout was written under.",
     },
   ],
 } as const satisfies Module
