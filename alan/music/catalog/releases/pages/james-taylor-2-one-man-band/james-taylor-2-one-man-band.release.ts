@@ -5,7 +5,7 @@ export const jamesTaylor2OneManBand = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-one-man-band",
   title: "One Man Band",
-  partOfSlugs: ["james-taylor-2"],
+  partOfCollectionSlugs: ["james-taylor-2"],
   position: 0,
   ownLength: 77.861667,
   ownProgress: 77.861667,

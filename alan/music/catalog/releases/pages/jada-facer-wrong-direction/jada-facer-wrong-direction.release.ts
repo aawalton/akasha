@@ -5,7 +5,7 @@ export const jadaFacerWrongDirection = {
   pageTypeSlug: "release",
   slug: "jada-facer-wrong-direction",
   title: "Wrong Direction",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.088,
   ownProgress: 3.088,

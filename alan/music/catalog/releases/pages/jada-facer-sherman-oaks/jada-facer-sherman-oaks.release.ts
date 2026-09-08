@@ -5,7 +5,7 @@ export const jadaFacerShermanOaks = {
   pageTypeSlug: "release",
   slug: "jada-facer-sherman-oaks",
   title: "Sherman Oaks",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.733333,
   ownProgress: 2.733333,

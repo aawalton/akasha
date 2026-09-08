@@ -5,7 +5,7 @@ export const jamesTaylor2OneManDog2019Remaster = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-one-man-dog-2019-remaster",
   title: "One Man Dog (2019 Remaster)",
-  partOfSlugs: ["james-taylor-2"],
+  partOfCollectionSlugs: ["james-taylor-2"],
   position: 0,
   ownLength: 37.74895,
   ownProgress: 37.74895,

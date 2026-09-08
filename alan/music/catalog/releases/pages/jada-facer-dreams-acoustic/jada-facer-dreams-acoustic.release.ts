@@ -5,7 +5,7 @@ export const jadaFacerDreamsAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-dreams-acoustic",
   title: "Dreams (Acoustic)",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.938117,
   ownProgress: 2.938117,

@@ -5,7 +5,7 @@ export const jadaFacerLookWhatYouMadeMeDo = {
   pageTypeSlug: "release",
   slug: "jada-facer-look-what-you-made-me-do",
   title: "Look What You Made Me Do",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.216,
   ownProgress: 2.216,

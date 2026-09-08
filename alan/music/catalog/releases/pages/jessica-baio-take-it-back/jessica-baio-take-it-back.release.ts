@@ -5,7 +5,7 @@ export const jessicaBaioTakeItBack = {
   pageTypeSlug: "release",
   slug: "jessica-baio-take-it-back",
   title: "take it back",
-  partOfSlugs: ["jessica-baio"],
+  partOfCollectionSlugs: ["jessica-baio"],
   position: 0,
   ownLength: 4.904117,
   ownProgress: 4.904117,

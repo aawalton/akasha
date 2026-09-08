@@ -5,7 +5,7 @@ export const jadaFacerSadForever = {
   pageTypeSlug: "release",
   slug: "jada-facer-sad-forever",
   title: "Sad Forever",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.5,
   ownProgress: 2.5,

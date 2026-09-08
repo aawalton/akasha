@@ -5,7 +5,7 @@ export const jadaFacerVanillaTwilightAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-vanilla-twilight-acoustic",
   title: "Vanilla Twilight (Acoustic)",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 6.5247,
   ownProgress: 6.5247,

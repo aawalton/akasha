@@ -5,7 +5,7 @@ export const jadaFacerSweetButPsycho = {
   pageTypeSlug: "release",
   slug: "jada-facer-sweet-but-psycho",
   title: "Sweet but Psycho",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.726533,
   ownProgress: 2.726533,

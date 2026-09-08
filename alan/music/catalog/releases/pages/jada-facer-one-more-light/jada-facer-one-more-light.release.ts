@@ -5,7 +5,7 @@ export const jadaFacerOneMoreLight = {
   pageTypeSlug: "release",
   slug: "jada-facer-one-more-light",
   title: "One More Light",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 4.221417,
   ownProgress: 4.221417,

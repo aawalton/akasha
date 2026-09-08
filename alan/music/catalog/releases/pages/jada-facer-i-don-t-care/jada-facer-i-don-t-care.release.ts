@@ -5,7 +5,7 @@ export const jadaFacerIDonTCare = {
   pageTypeSlug: "release",
   slug: "jada-facer-i-don-t-care",
   title: "I Don't Care",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.1658,
   ownProgress: 3.1658,

@@ -5,7 +5,7 @@ export const jadaFacerYouShouldBeSad = {
   pageTypeSlug: "release",
   slug: "jada-facer-you-should-be-sad",
   title: "You should be sad",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.270167,
   ownProgress: 3.270167,

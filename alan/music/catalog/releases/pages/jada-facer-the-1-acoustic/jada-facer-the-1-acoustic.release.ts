@@ -5,7 +5,7 @@ export const jadaFacerThe1Acoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-the-1-acoustic",
   title: "the 1 (acoustic)",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.000783,
   ownProgress: 3.000783,

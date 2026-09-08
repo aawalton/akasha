@@ -5,7 +5,7 @@ export const jessicaBaioRadioFeatTrippieReddJessicaBaioKabu = {
   pageTypeSlug: "release",
   slug: "jessica-baio-radio-feat-trippie-redd-jessica-baio-kabu",
   title: "Radio (feat. Trippie Redd, Jessica Baio & KABU)",
-  partOfSlugs: ["jessica-baio"],
+  partOfCollectionSlugs: ["jessica-baio"],
   position: 0,
   ownLength: 2.488883,
   ownProgress: 2.488883,

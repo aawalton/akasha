@@ -5,7 +5,7 @@ export const japaneseBreakfastMaterialistsOriginalSoundtrack = {
   pageTypeSlug: "release",
   slug: "japanese-breakfast-materialists-original-soundtrack",
   title: "Materialists (Original Soundtrack)",
-  partOfSlugs: ["japanese-breakfast"],
+  partOfCollectionSlugs: ["japanese-breakfast"],
   position: 0,
   ownLength: 41.965083,
   ownProgress: 41.965083,

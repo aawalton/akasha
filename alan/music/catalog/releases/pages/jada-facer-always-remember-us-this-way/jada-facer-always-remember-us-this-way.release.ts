@@ -5,7 +5,7 @@ export const jadaFacerAlwaysRememberUsThisWay = {
   pageTypeSlug: "release",
   slug: "jada-facer-always-remember-us-this-way",
   title: "Always Remember Us This Way",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.7403,
   ownProgress: 2.7403,

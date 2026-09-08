@@ -5,7 +5,7 @@ export const jadaFacerHallelujahAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-hallelujah-acoustic",
   title: "Hallelujah (Acoustic)",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.897267,
   ownProgress: 2.897267,

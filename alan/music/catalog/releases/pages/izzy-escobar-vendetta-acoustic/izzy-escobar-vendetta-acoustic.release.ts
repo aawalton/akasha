@@ -5,7 +5,7 @@ export const izzyEscobarVendettaAcoustic = {
   pageTypeSlug: "release",
   slug: "izzy-escobar-vendetta-acoustic",
   title: "Vendetta (Acoustic)",
-  partOfSlugs: ["izzy-escobar"],
+  partOfCollectionSlugs: ["izzy-escobar"],
   position: 0,
   ownLength: 6.744333,
   ownProgress: 6.744333,

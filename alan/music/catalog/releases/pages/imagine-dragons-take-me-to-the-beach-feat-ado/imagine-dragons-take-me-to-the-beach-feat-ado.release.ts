@@ -5,7 +5,7 @@ export const imagineDragonsTakeMeToTheBeachFeatAdo = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-take-me-to-the-beach-feat-ado",
   title: "Take Me to the Beach (feat. Ado)",
-  partOfSlugs: ["imagine-dragons"],
+  partOfCollectionSlugs: ["imagine-dragons"],
   position: 0,
   ownLength: 2.784433,
   ownProgress: 2.784433,

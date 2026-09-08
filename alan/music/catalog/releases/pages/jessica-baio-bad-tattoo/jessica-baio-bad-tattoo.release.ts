@@ -5,7 +5,7 @@ export const jessicaBaioBadTattoo = {
   pageTypeSlug: "release",
   slug: "jessica-baio-bad-tattoo",
   title: "bad tattoo",
-  partOfSlugs: ["jessica-baio"],
+  partOfCollectionSlugs: ["jessica-baio"],
   position: 0,
   ownLength: 12.973583,
   ownProgress: 12.973583,

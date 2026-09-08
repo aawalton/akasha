@@ -5,7 +5,7 @@ export const jennaRaineHypothetically = {
   pageTypeSlug: "release",
   slug: "jenna-raine-hypothetically",
   title: "Hypothetically",
-  partOfSlugs: ["jenna-raine"],
+  partOfCollectionSlugs: ["jenna-raine"],
   position: 0,
   ownLength: 2.69985,
   ownProgress: 2.69985,

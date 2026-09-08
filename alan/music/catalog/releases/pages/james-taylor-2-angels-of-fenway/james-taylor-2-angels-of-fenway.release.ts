@@ -5,7 +5,7 @@ export const jamesTaylor2AngelsOfFenway = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-angels-of-fenway",
   title: "Angels Of Fenway",
-  partOfSlugs: ["james-taylor-2"],
+  partOfCollectionSlugs: ["james-taylor-2"],
   position: 0,
   ownLength: 3.289767,
   ownProgress: 3.289767,

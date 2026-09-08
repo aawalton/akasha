@@ -5,7 +5,7 @@ export const imagineDragonsShotsTheFunkHuntersRemix = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-shots-the-funk-hunters-remix",
   title: "Shots (The Funk Hunters Remix)",
-  partOfSlugs: ["imagine-dragons"],
+  partOfCollectionSlugs: ["imagine-dragons"],
   position: 0,
   ownLength: 4.76555,
   ownProgress: 4.76555,

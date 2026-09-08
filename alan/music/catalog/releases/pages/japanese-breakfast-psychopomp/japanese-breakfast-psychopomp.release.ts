@@ -5,7 +5,7 @@ export const japaneseBreakfastPsychopomp = {
   pageTypeSlug: "release",
   slug: "japanese-breakfast-psychopomp",
   title: "Psychopomp",
-  partOfSlugs: ["japanese-breakfast"],
+  partOfCollectionSlugs: ["japanese-breakfast"],
   position: 0,
   ownLength: 25.2367,
   ownProgress: 25.2367,

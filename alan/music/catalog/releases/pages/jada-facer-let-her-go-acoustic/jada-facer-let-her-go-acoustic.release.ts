@@ -5,7 +5,7 @@ export const jadaFacerLetHerGoAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-let-her-go-acoustic",
   title: "Let Her Go (Acoustic)",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.809883,
   ownProgress: 2.809883,

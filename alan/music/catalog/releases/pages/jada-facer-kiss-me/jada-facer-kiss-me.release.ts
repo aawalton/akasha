@@ -5,7 +5,7 @@ export const jadaFacerKissMe = {
   pageTypeSlug: "release",
   slug: "jada-facer-kiss-me",
   title: "Kiss Me",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.731167,
   ownProgress: 2.731167,

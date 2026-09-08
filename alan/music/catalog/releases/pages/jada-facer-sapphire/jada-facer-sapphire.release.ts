@@ -5,7 +5,7 @@ export const jadaFacerSapphire = {
   pageTypeSlug: "release",
   slug: "jada-facer-sapphire",
   title: "Sapphire",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.73275,
   ownProgress: 2.73275,

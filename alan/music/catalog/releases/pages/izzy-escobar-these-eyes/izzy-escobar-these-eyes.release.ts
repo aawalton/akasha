@@ -5,7 +5,7 @@ export const izzyEscobarTheseEyes = {
   pageTypeSlug: "release",
   slug: "izzy-escobar-these-eyes",
   title: "These Eyes",
-  partOfSlugs: ["izzy-escobar"],
+  partOfCollectionSlugs: ["izzy-escobar"],
   position: 0,
   ownLength: 2.754017,
   ownProgress: 2.754017,

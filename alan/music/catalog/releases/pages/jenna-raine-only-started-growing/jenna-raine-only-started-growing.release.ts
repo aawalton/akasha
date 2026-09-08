@@ -5,7 +5,7 @@ export const jennaRaineOnlyStartedGrowing = {
   pageTypeSlug: "release",
   slug: "jenna-raine-only-started-growing",
   title: "Only Started Growing",
-  partOfSlugs: ["jenna-raine"],
+  partOfCollectionSlugs: ["jenna-raine"],
   position: 0,
   ownLength: 17.185483,
   ownProgress: 17.185483,

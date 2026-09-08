@@ -5,7 +5,7 @@ export const japaneseBreakfastSpotifySingles2 = {
   pageTypeSlug: "release",
   slug: "japanese-breakfast-spotify-singles-2",
   title: "Spotify Singles",
-  partOfSlugs: ["japanese-breakfast"],
+  partOfCollectionSlugs: ["japanese-breakfast"],
   position: 0,
   ownLength: 7.021567,
   ownProgress: 7.021567,

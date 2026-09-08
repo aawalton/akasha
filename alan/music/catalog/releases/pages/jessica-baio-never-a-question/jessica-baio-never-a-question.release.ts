@@ -5,7 +5,7 @@ export const jessicaBaioNeverAQuestion = {
   pageTypeSlug: "release",
   slug: "jessica-baio-never-a-question",
   title: "never a question",
-  partOfSlugs: ["jessica-baio"],
+  partOfCollectionSlugs: ["jessica-baio"],
   position: 0,
   ownLength: 2.744933,
   ownProgress: 2.744933,

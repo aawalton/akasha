@@ -5,7 +5,7 @@ export const jadaFacerAmericanIdiot = {
   pageTypeSlug: "release",
   slug: "jada-facer-american-idiot",
   title: "American Idiot",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.167783,
   ownProgress: 2.167783,

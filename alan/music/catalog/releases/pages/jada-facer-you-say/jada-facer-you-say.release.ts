@@ -5,7 +5,7 @@ export const jadaFacerYouSay = {
   pageTypeSlug: "release",
   slug: "jada-facer-you-say",
   title: "You Say",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.057417,
   ownProgress: 3.057417,

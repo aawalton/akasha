@@ -5,7 +5,7 @@ export const jennaRaineBeLikeYou2 = {
   pageTypeSlug: "release",
   slug: "jenna-raine-be-like-you-2",
   title: "Be Like You",
-  partOfSlugs: ["jenna-raine"],
+  partOfCollectionSlugs: ["jenna-raine"],
   position: 0,
   ownLength: 20.077283,
   ownProgress: 20.077283,

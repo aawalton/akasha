@@ -5,7 +5,7 @@ export const jadaFacerFetish = {
   pageTypeSlug: "release",
   slug: "jada-facer-fetish",
   title: "Fetish",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.24485,
   ownProgress: 2.24485,

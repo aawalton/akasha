@@ -5,7 +5,7 @@ export const jadaFacerNewRules = {
   pageTypeSlug: "release",
   slug: "jada-facer-new-rules",
   title: "New Rules",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.5619,
   ownProgress: 2.5619,

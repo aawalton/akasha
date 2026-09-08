@@ -5,7 +5,7 @@ export const jamesTaylor2TodayTodayToday = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-today-today-today",
   title: "Today Today Today",
-  partOfSlugs: ["james-taylor-2"],
+  partOfCollectionSlugs: ["james-taylor-2"],
   position: 0,
   ownLength: 3.152883,
   ownProgress: 3.152883,

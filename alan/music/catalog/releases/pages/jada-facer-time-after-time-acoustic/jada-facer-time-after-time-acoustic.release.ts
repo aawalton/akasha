@@ -5,7 +5,7 @@ export const jadaFacerTimeAfterTimeAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-time-after-time-acoustic",
   title: "Time After Time (Acoustic)",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.08025,
   ownProgress: 3.08025,

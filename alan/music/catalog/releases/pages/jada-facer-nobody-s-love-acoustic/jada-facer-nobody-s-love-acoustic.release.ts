@@ -5,7 +5,7 @@ export const jadaFacerNobodySLoveAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-nobody-s-love-acoustic",
   title: "Nobody's Love (Acoustic)",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.512517,
   ownProgress: 3.512517,

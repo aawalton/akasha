@@ -5,7 +5,7 @@ export const jadaFacerColdShowers = {
   pageTypeSlug: "release",
   slug: "jada-facer-cold-showers",
   title: "cold showers",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.02795,
   ownProgress: 3.02795,

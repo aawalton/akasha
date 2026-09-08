@@ -5,7 +5,7 @@ export const jadaFacerHurtlessAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-hurtless-acoustic",
   title: "Hurtless (Acoustic)",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.880833,
   ownProgress: 2.880833,

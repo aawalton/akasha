@@ -5,7 +5,7 @@ export const jadaFacerBeAlright = {
   pageTypeSlug: "release",
   slug: "jada-facer-be-alright",
   title: "Be Alright",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.010333,
   ownProgress: 3.010333,

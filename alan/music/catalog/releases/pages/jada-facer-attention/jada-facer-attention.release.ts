@@ -5,7 +5,7 @@ export const jadaFacerAttention = {
   pageTypeSlug: "release",
   slug: "jada-facer-attention",
   title: "Attention",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.333333,
   ownProgress: 3.333333,

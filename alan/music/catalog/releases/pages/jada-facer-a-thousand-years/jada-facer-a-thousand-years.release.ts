@@ -5,7 +5,7 @@ export const jadaFacerAThousandYears = {
   pageTypeSlug: "release",
   slug: "jada-facer-a-thousand-years",
   title: "A Thousand Years",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.53615,
   ownProgress: 3.53615,

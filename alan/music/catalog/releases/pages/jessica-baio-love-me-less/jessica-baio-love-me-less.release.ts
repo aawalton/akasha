@@ -5,7 +5,7 @@ export const jessicaBaioLoveMeLess = {
   pageTypeSlug: "release",
   slug: "jessica-baio-love-me-less",
   title: "love me less",
-  partOfSlugs: ["jessica-baio"],
+  partOfCollectionSlugs: ["jessica-baio"],
   position: 0,
   ownLength: 6.127933,
   ownProgress: 6.127933,

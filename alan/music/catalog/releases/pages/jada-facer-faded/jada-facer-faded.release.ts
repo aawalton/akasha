@@ -5,7 +5,7 @@ export const jadaFacerFaded = {
   pageTypeSlug: "release",
   slug: "jada-facer-faded",
   title: "Faded",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.8483,
   ownProgress: 2.8483,

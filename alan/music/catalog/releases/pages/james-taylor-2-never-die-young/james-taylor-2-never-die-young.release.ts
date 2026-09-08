@@ -5,7 +5,7 @@ export const jamesTaylor2NeverDieYoung = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-never-die-young",
   title: "Never Die Young",
-  partOfSlugs: ["james-taylor-2"],
+  partOfCollectionSlugs: ["james-taylor-2"],
   position: 0,
   ownLength: 40.2715,
   ownProgress: 40.2715,

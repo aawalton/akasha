@@ -5,7 +5,7 @@ export const imagineDragonsLoveOfMineNightVisionsDemo = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-love-of-mine-night-visions-demo",
   title: "Love Of Mine (Night Visions Demo)",
-  partOfSlugs: ["imagine-dragons"],
+  partOfCollectionSlugs: ["imagine-dragons"],
   position: 0,
   ownLength: 4.166583,
   ownProgress: 4.166583,

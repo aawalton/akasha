@@ -5,7 +5,7 @@ export const izzyEscobarJackieO = {
   pageTypeSlug: "release",
   slug: "izzy-escobar-jackie-o",
   title: "Jackie O",
-  partOfSlugs: ["izzy-escobar"],
+  partOfCollectionSlugs: ["izzy-escobar"],
   position: 0,
   ownLength: 7.738033,
   ownProgress: 7.738033,

@@ -5,7 +5,7 @@ export const jamesTaylor2OtherCovers = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-other-covers",
   title: "Other Covers",
-  partOfSlugs: ["james-taylor-2"],
+  partOfCollectionSlugs: ["james-taylor-2"],
   position: 0,
   ownLength: 26.185967,
   ownProgress: 26.185967,

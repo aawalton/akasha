@@ -5,7 +5,7 @@ export const jadaFacerLoveMeLikeYouDoAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-love-me-like-you-do-acoustic",
   title: "Love Me Like You Do (Acoustic)",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.60885,
   ownProgress: 2.60885,

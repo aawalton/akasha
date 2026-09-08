@@ -5,7 +5,7 @@ export const jadaFacerFixYou = {
   pageTypeSlug: "release",
   slug: "jada-facer-fix-you",
   title: "Fix You",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 4.2549,
   ownProgress: 4.2549,

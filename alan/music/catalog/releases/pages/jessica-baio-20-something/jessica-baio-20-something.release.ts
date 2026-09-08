@@ -5,7 +5,7 @@ export const jessicaBaio20Something = {
   pageTypeSlug: "release",
   slug: "jessica-baio-20-something",
   title: "20 something",
-  partOfSlugs: ["jessica-baio"],
+  partOfCollectionSlugs: ["jessica-baio"],
   position: 0,
   ownLength: 2.6797,
   ownProgress: 2.6797,

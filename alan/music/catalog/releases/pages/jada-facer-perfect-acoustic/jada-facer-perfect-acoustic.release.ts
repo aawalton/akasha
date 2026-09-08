@@ -5,7 +5,7 @@ export const jadaFacerPerfectAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-perfect-acoustic",
   title: "Perfect (Acoustic)",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.295933,
   ownProgress: 3.295933,

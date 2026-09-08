@@ -5,7 +5,7 @@ export const jadaFacerDarkside = {
   pageTypeSlug: "release",
   slug: "jada-facer-darkside",
   title: "Darkside",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.869117,
   ownProgress: 2.869117,

@@ -5,7 +5,7 @@ export const jadaFacerCreepAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-creep-acoustic",
   title: "Creep (Acoustic)",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.48645,
   ownProgress: 3.48645,

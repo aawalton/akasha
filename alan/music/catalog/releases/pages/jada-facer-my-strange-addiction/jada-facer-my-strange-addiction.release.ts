@@ -5,7 +5,7 @@ export const jadaFacerMyStrangeAddiction = {
   pageTypeSlug: "release",
   slug: "jada-facer-my-strange-addiction",
   title: "my strange addiction",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.464183,
   ownProgress: 2.464183,

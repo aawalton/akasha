@@ -5,7 +5,7 @@ export const jessicaBaioFerrari = {
   pageTypeSlug: "release",
   slug: "jessica-baio-ferrari",
   title: "ferrari",
-  partOfSlugs: ["jessica-baio"],
+  partOfCollectionSlugs: ["jessica-baio"],
   position: 0,
   ownLength: 9.127933,
   ownProgress: 9.127933,

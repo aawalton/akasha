@@ -5,7 +5,7 @@ export const jadaFacerIMSoTired = {
   pageTypeSlug: "release",
   slug: "jada-facer-i-m-so-tired",
   title: "i'm so tired...",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.588433,
   ownProgress: 2.588433,

@@ -5,7 +5,7 @@ export const jadaFacerPerfectTogether = {
   pageTypeSlug: "release",
   slug: "jada-facer-perfect-together",
   title: "Perfect Together",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.458333,
   ownProgress: 2.458333,

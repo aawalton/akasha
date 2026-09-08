@@ -5,7 +5,7 @@ export const jadaFacerYouKnowIHateIt = {
   pageTypeSlug: "release",
   slug: "jada-facer-you-know-i-hate-it",
   title: "You Know I Hate It",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 6.537333,
   ownProgress: 6.537333,

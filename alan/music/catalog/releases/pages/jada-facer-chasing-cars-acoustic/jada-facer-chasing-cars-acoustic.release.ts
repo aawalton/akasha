@@ -5,7 +5,7 @@ export const jadaFacerChasingCarsAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-chasing-cars-acoustic",
   title: "Chasing Cars (Acoustic)",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.39285,
   ownProgress: 3.39285,

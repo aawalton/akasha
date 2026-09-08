@@ -5,7 +5,7 @@ export const jadaFacerBoysLie = {
   pageTypeSlug: "release",
   slug: "jada-facer-boys-lie",
   title: "Boys Lie",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.286883,
   ownProgress: 3.286883,

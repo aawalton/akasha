@@ -5,7 +5,7 @@ export const jadaFacerDemons = {
   pageTypeSlug: "release",
   slug: "jada-facer-demons",
   title: "Demons",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.9685,
   ownProgress: 2.9685,

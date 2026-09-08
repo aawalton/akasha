@@ -5,7 +5,7 @@ export const jadaFacerFloat = {
   pageTypeSlug: "release",
   slug: "jada-facer-float",
   title: "Float",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 11.275617,
   ownProgress: 11.275617,

@@ -5,7 +5,7 @@ export const jessicaBaioAtLeast = {
   pageTypeSlug: "release",
   slug: "jessica-baio-at-least",
   title: "at least",
-  partOfSlugs: ["jessica-baio"],
+  partOfCollectionSlugs: ["jessica-baio"],
   position: 0,
   ownLength: 2.7917,
   ownProgress: 2.7917,

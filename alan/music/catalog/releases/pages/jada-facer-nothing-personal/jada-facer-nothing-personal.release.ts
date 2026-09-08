@@ -5,7 +5,7 @@ export const jadaFacerNothingPersonal = {
   pageTypeSlug: "release",
   slug: "jada-facer-nothing-personal",
   title: "Nothing Personal",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 3.066667,
   ownProgress: 3.066667,

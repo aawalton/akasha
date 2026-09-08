@@ -5,7 +5,7 @@ export const japaneseBreakfastSableOriginalVideoGameSoundtrack = {
   pageTypeSlug: "release",
   slug: "japanese-breakfast-sable-original-video-game-soundtrack",
   title: "Sable (Original Video Game Soundtrack)",
-  partOfSlugs: ["japanese-breakfast"],
+  partOfCollectionSlugs: ["japanese-breakfast"],
   position: 0,
   ownLength: 96.050783,
   ownProgress: 96.050783,

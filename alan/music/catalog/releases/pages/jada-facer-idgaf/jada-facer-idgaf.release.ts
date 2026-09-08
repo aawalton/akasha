@@ -5,7 +5,7 @@ export const jadaFacerIdgaf = {
   pageTypeSlug: "release",
   slug: "jada-facer-idgaf",
   title: "IDGAF",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.443283,
   ownProgress: 2.443283,

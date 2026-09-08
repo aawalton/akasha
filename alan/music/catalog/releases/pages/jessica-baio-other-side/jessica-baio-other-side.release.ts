@@ -5,7 +5,7 @@ export const jessicaBaioOtherSide = {
   pageTypeSlug: "release",
   slug: "jessica-baio-other-side",
   title: "other side",
-  partOfSlugs: ["jessica-baio"],
+  partOfCollectionSlugs: ["jessica-baio"],
   position: 0,
   ownLength: 3.012667,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const jessicaBaioItSNotChristmasWithoutYou = {
   pageTypeSlug: "release",
   slug: "jessica-baio-it-s-not-christmas-without-you",
   title: "It's Not Christmas (Without You)",
-  partOfSlugs: ["jessica-baio"],
+  partOfCollectionSlugs: ["jessica-baio"],
   position: 0,
   ownLength: 2.229767,
   ownProgress: 2.229767,

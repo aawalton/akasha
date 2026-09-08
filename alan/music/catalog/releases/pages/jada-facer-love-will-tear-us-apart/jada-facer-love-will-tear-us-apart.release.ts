@@ -5,7 +5,7 @@ export const jadaFacerLoveWillTearUsApart = {
   pageTypeSlug: "release",
   slug: "jada-facer-love-will-tear-us-apart",
   title: "Love Will Tear Us Apart",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.502083,
   ownProgress: 2.502083,

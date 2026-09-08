@@ -5,7 +5,7 @@ export const imagineDragonsImagineDragonsLiveLondonSessions = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-imagine-dragons-live-london-sessions",
   title: "Imagine Dragons (Live London Sessions)",
-  partOfSlugs: ["imagine-dragons"],
+  partOfCollectionSlugs: ["imagine-dragons"],
   position: 0,
   ownLength: 11.792433,
   ownProgress: 11.792433,

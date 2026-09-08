@@ -5,7 +5,7 @@ export const jadaFacerSweetChildOMineAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-sweet-child-o-mine-acoustic",
   title: "Sweet Child O' Mine (Acoustic)",
-  partOfSlugs: ["jada-facer"],
+  partOfCollectionSlugs: ["jada-facer"],
   position: 0,
   ownLength: 2.521367,
   ownProgress: 2.521367,

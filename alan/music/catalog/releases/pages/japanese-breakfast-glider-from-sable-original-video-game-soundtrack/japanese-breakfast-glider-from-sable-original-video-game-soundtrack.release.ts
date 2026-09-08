@@ -5,7 +5,7 @@ export const japaneseBreakfastGliderFromSableOriginalVideoGameSoundtrack = {
   pageTypeSlug: "release",
   slug: "japanese-breakfast-glider-from-sable-original-video-game-soundtrack",
   title: 'Glider (from "Sable" Original Video Game Soundtrack)',
-  partOfSlugs: ["japanese-breakfast"],
+  partOfCollectionSlugs: ["japanese-breakfast"],
   position: 0,
   ownLength: 2.85,
   ownProgress: 2.85,
