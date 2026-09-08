@@ -6,8 +6,8 @@ import { lowestIn, mailOn } from "@akasha/readout-system/inboxes-email"
 import { tasksIn } from "@akasha/readout-system/inboxes-tasks"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { statedAt } from "@akasha/readout-system/readout-tier"
-import { wakeDayOf } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
-import { askDayByDate } from "../../../tracking/daily/day-reading/day-reading.module.code.ts"
+import { wakeDayOf } from "../../../track/daily/day-opening/day-opening.module.code.ts"
+import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 
 const READOUTS = "readout-system/readouts/pages"
 

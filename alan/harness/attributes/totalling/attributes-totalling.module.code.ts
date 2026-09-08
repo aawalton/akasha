@@ -8,7 +8,7 @@ import { enduranceIn } from "../../../attributes/pages/endurance.attribute.code.
 import { intelligenceIn } from "../../../attributes/pages/intelligence.attribute.code.ts"
 import { strengthIn } from "../../../attributes/pages/strength.attribute.code.ts"
 import { wisdomIn } from "../../../attributes/pages/wisdom.attribute.code.ts"
-import { wakeDayWindow } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
+import { wakeDayWindow } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 import { askingIn } from "../../plants/reading/plants-reading.module.code.ts"
 import {
   CHARISMA_PAGE,

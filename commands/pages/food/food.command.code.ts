@@ -8,8 +8,8 @@ import { resolveRoots } from "@akasha/pages/checkout-roots"
 import type { Value } from "@akasha/pages/page-value"
 import { asking } from "@akasha/pages-service/asking"
 import { composedFor } from "@akasha/pages-service/composing"
-import { rootOf, written } from "../../../alan/tracking/daily/akasha-day/akasha-day.module.code.ts"
-import { wakeDayOf } from "../../../alan/tracking/daily/day-opening/day-opening.module.code.ts"
+import { rootOf, written } from "../../../alan/track/daily/akasha-day/akasha-day.module.code.ts"
+import { wakeDayOf } from "../../../alan/track/daily/day-opening/day-opening.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
@@ -59,7 +59,7 @@ const DAY_PATTERN = /^\d{4}-\d{2}-\d{2}$/
 const TIME_PATTERN = /^(\d{1,2}):(\d{2})$/
 
 const NUTRITION_POINTS =
-  "../../../alan/tracking/daily/nutrition-points/nutrition-points.module.code.ts"
+  "../../../alan/track/daily/nutrition-points/nutrition-points.module.code.ts"
 
 export type WallClock = { readonly hh: number; readonly mm: number }
 

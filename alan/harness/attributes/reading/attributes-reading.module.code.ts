@@ -19,9 +19,9 @@ import { attributeWisdom } from "../../../attributes/readouts/attribute-wisdom/a
 import {
   wakeDayOf,
   wakeDayWindow,
-} from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
-import { askDayByDate } from "../../../tracking/daily/day-reading/day-reading.module.code.ts"
-import { sessionsOfDay } from "../../../tracking/daily/day-stretches/day-stretches.module.code.ts"
+} from "../../../track/daily/day-opening/day-opening.module.code.ts"
+import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
+import { sessionsOfDay } from "../../../track/daily/day-stretches/day-stretches.module.code.ts"
 import { askingIn } from "../../plants/reading/plants-reading.module.code.ts"
 
 const READOUTS = "alan/attributes/readouts"

@@ -14,7 +14,7 @@ const AT = `${DAYS_AT}2026-09-01/wake-day-2026-09-01.wake-day.ts`
 
 const FOOD_AT = `${FOOD_ENTRIES_AT}2026-08-22-banana/food-entry-2026-08-22-banana.food-entry.ts`
 
-const ELSEWHERE = "alan/tracking/session-activities/pages/read.session-activity.ts"
+const ELSEWHERE = "alan/track/session-activities/pages/read.session-activity.ts"
 
 test("a path under the tracked days is tracked", () => {
   expect(trackedIn(AT)).toBe(true)

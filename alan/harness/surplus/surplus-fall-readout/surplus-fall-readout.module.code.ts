@@ -5,7 +5,7 @@ import { stated } from "@akasha/readout-system/readout-none-left"
 import { climbs, rungsIn } from "@akasha/readout-system/readout-tier"
 import { sleepIn } from "@akasha/readout-system/upkeep-sleep"
 import { surplusIn } from "@akasha/readout-system/upkeep-surplus"
-import { dayValuesByDate } from "../../../tracking/daily/day-reading/day-reading.module.code.ts"
+import { dayValuesByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 import { onTheWorkstation } from "../../notifications/push-device-tokens/push-device-tokens.module.code.ts"
 import { isTierColor, type Rung } from "../surplus-fall-tier/surplus-fall-tier.module.code.ts"
 

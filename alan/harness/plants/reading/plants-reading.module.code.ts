@@ -6,7 +6,7 @@ import { fetchPlantGrams } from "@akasha/readout-system/upkeep-plants"
 import {
   wakeDayOf,
   wakeDayWindow,
-} from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
+} from "../../../track/daily/day-opening/day-opening.module.code.ts"
 
 export const READOUT_PAGE = "readouts/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
 

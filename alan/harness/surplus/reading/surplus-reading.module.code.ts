@@ -1,7 +1,7 @@
 import { getEsoDayStr } from "@akasha/day/eso-day"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { surplusIn } from "@akasha/readout-system/upkeep-surplus"
-import { askDayByDate } from "../../../tracking/daily/day-reading/day-reading.module.code.ts"
+import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 
 export const READOUT_PAGE = "readouts/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
 

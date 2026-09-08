@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { EsoDay } from "../../alan/tracking/daily/eso-days/properties/eso-day.text-property.ts"
+import type { EsoDay } from "../../alan/track/daily/eso-days/properties/eso-day.text-property.ts"
 import type { Description } from "../../pages/properties/description.text-property.ts"
 import type { RelationshipLevel } from "../closeness-levels/properties/relationship-level.number-property.ts"
 import type { Stage } from "../closeness-levels/properties/stage.text-property.ts"
