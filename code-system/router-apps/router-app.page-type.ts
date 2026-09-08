@@ -12,6 +12,7 @@ import type { Server } from "./properties/server.named-file-property.ts"
 import type { ServerEntry } from "./properties/server-entry.named-file-property.ts"
 import type { SidebarBoot } from "./properties/sidebar-boot.named-file-property.ts"
 import type { SiteIcon } from "./properties/site-icon.named-file-property.ts"
+import type { TestPreload } from "./properties/test-preload.named-file-property.ts"
 import type { ViteConfig } from "./properties/vite-config.named-file-property.ts"
 
 export type RouterApp = WorkspacePackage & {
@@ -28,6 +29,7 @@ export type RouterApp = WorkspacePackage & {
   placeholderImage?: PlaceholderImage
   siteIcon?: SiteIcon
   gitIgnore?: RouterAppGitIgnore
+  testPreload?: TestPreload
 }
 
 export const routerApp = {
@@ -49,6 +51,7 @@ export const routerApp = {
     "named-file-property/server-entry",
     "named-file-property/sidebar-boot",
     "named-file-property/site-icon",
+    "named-file-property/test-preload",
     "named-file-property/vite-config",
     "type-declaration/vite-client",
   ],
@@ -71,6 +74,7 @@ export const routerApp = {
       required: false,
       many: false,
     },
+    { pagePropertySlug: "named-file-property/test-preload", required: false, many: false },
   ],
   invariants: [
     {
