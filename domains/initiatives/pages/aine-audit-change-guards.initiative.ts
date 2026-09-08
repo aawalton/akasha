@@ -22,7 +22,7 @@ export const aineAuditChangeGuards = {
       statement:
         "A content change is judged by the guards that judge an edge into the body that change leaves.",
       workingMemory:
-        "An add guard judges the edges out of the new body and a remove guard judges the edges into the path that went, so the inversion is edge direction. A content change is the third case: it breaks an inbound edge while the path survives. `import-not-left-hanging` and `relation-not-left-hanging` both key on `takingIn(given.said)`, so neither fires. Widen the trigger they share rather than writing a third, which `no-rule-in-two-files` would refuse.",
+        "`import-not-left-hanging` now keys on `takingIn` and `carriedIn` both; `relation-not-left-hanging` still keys on `takingIn` alone. The hole is a page whose `slug` or `pageTypeSlug` a change restates in place: every name reaching its old address hangs while the path survives. The rename family repoints namers itself; `change-page-page-property` does not. `relation-not-left-hanging` is to judge a rewritten page's old address beside the paths taken away.\n",
     },
     {
       statement:
