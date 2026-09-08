@@ -5,7 +5,7 @@ export const olwen = {
   pageTypeSlug: "seat",
   slug: "olwen",
   personaSlug: "olwen",
-  assignmentSlug: "workspace-package/design-system",
+  assignmentSlug: "initiative/olwen-persona-cleanup",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
