@@ -26,7 +26,8 @@
     "./persona-page-conditions": "./page-conditions/persona-page-conditions.module.code.ts",
     "./anchor-cover-record": "./anchor-cover-record/anchor-cover-record.module.code.ts",
     "./persona-targets": "./targets/persona-targets.module.code.ts",
-    "./persona-reading": "./reading/persona-reading.module.code.ts"
+    "./persona-reading": "./reading/persona-reading.module.code.ts",
+    "./persona-points-keeping": "./points/keeping/persona-points-keeping.module.code.ts"
   },
   "dependencies": {
     "@akasha/indexes": "workspace:*",

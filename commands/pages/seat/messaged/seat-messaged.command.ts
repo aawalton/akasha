@@ -4,15 +4,16 @@ export const seatMessaged = {
   id: "01a0780e-7f14-71fd-ac09-b12de342c207",
   pageTypeSlug: "command",
   slug: "seat-messaged",
-  definition: "the command marking the persona at a seat as the one Alan wrote to last",
+  definition: "the command counting a message Alan wrote to the persona at a seat",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-mechanical",
   taking: [{ said: "<name>", takes: "the seat Alan wrote to" }],
   helpNotes: [
     "the moment kept is the moment of the run rather than a moment the caller states.",
-    "the value is kept beside the persona's page rather than in the commit.",
+    "the values are kept beside the persona's page and the day's page rather than in the commit.",
     "a seat holding no persona is refused rather than kept against nobody.",
+    "a hundred messages is one point, and `akasha refresh personas` rebuilds the days before today.",
   ],
   invariants: [
     {
@@ -26,6 +27,18 @@ export const seatMessaged = {
     {
       invariantKind: "departure",
       statement: "A run states which persona was marked and at what moment.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run raises that persona's count on today's day by one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run keeps her points for today from the count that day now carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day with no page filed under it leaves the mark kept and earns no point.",
     },
     {
       invariantKind: "departure",
