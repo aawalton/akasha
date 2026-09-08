@@ -16,7 +16,7 @@ export const amyWorkPanelEditing = {
       statement:
         "Alan's tracking is spelled `track` in its domain, its folder and its module names.",
       workingMemory:
-        "Nothing is renamed yet. `akasha track health import` already spells it `track`, while the domain, 19 slugs beneath it and 1309 file paths spell it `tracking`.",
+        "The folder is `alan/track`, the domain is `track`, the daily domain is `track-daily`, and the modules are `track-format`, `track-pages`, `track-resolve`, `track-shape` and `track-landing`. The carry repointed every import but left the paths written as text, which were repointed after it. Seven page types, six capture domains, the command, the nav and two views still spell `tracking`, each reading as a compound noun rather than as the domain's name, so Alan rules on those first.",
     },
   ],
 } as const satisfies Initiative
