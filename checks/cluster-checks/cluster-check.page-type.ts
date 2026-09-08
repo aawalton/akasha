@@ -180,6 +180,7 @@ export const clusterCheck = {
     "module/jsx-class-tokens-roots",
     "module/jsx-class-tokens-values",
     "module/jsx-surface-tokens",
+    "module/layer-monotonicity",
   ],
   properties: [
     {
