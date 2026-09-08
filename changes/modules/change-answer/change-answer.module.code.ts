@@ -1,6 +1,7 @@
 import type {
   Adding,
   Answer,
+  Bodies,
   Edit,
   Moving,
   Reading,
@@ -23,7 +24,7 @@ export function missing(key: string): string {
 }
 
 export function answered(edits: readonly Edit[]): Answer {
-  return { edits, refused: null }
+  return { edits: edits.flatMap(narrowed), refused: null }
 }
 
 export function stating(edits: readonly Stated[]): Said {
@@ -129,58 +130,23 @@ export function narrowed(one: Edit): readonly Stated[] {
   return [moved, { kind: "replace", path: one.path, contentFrom: one.was, contentTo: body }]
 }
 
-export function widened(said: Said, textOf: BodyOf): Answer {
-  if (said.refused !== null) return refusing(said.refused)
+export function replayed(said: Said, textOf: BodyOf): Bodies | { readonly refused: string } {
   const held = new Map<string, string | null>()
   const over: BodyOf = (path) => (held.has(path) ? (held.get(path) ?? null) : textOf(path))
-  const edits: Edit[] = []
   for (const one of said.edits) {
-    const grown = one.kind === undefined ? { edit: one } : expanded(one, over)
-    if ("refused" in grown) return refusing(grown.refused)
-    edits.push(grown.edit)
+    const grown = expanded(one, over)
+    if ("refused" in grown) return grown
     if (grown.edit.from !== undefined) held.set(grown.edit.from, null)
     held.set(grown.edit.path, grown.edit.body)
   }
-  return { edits, refused: null }
-}
-
-function under(held: ReadonlyMap<string, Edit>, edit: Edit): Edit | undefined {
-  return held.get(edit.from ?? edit.path)
-}
-
-export function sameEdit(one: Edit, two: Edit): boolean {
-  return one.was === two.was && one.body === two.body && one.from === two.from
-}
-
-function restated(held: ReadonlyMap<string, Edit>, edit: Edit): boolean {
-  const stated = held.get(edit.path)
-  return stated !== undefined && sameEdit(stated, edit)
+  return held
 }
 
 export function gathered(answers: readonly Answer[]): Answer {
-  const held = new Map<string, Edit>()
+  const edits: Stated[] = []
   for (const one of answers) {
     if (one.refused !== null) return one
-    for (const edit of one.edits) {
-      if (restated(held, edit)) continue
-      const came = edit.from
-      const before = under(held, edit)
-      if (before !== undefined && before.body !== edit.was) {
-        return refusing(`\`${edit.path}\` is answered twice, the second from a body the first left`)
-      }
-      if (came !== undefined && came !== edit.path && held.has(edit.path)) {
-        return refusing(`\`${edit.path}\` is answered and is also where \`${came}\` lands`)
-      }
-      if (came !== undefined) held.delete(came)
-      const was = before === undefined ? edit.was : before.was
-      const from = before?.from ?? came
-      held.set(
-        edit.path,
-        from === undefined
-          ? { path: edit.path, was, body: edit.body }
-          : { path: edit.path, was, body: edit.body, from }
-      )
-    }
+    edits.push(...one.edits)
   }
-  return { edits: [...held.values()], refused: null }
+  return { edits, refused: null }
 }

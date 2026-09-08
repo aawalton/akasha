@@ -1,8 +1,13 @@
 import { formattedBody } from "@akasha/code/code-format"
 import { agentPathOf, changingOf, owedIn } from "@akasha/context/warranting"
-import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
+import { replayed } from "../../../changes/modules/change-answer/change-answer.module.code.ts"
+import type {
+  Answer as Said,
+  Stated,
+} from "../../../changes/modules/change-answer/change-answer.module.types.ts"
 import { bytesOf } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
 import {
+  bodyIn,
   droppedFirst,
   editsAt,
   foldedIn,
@@ -22,14 +27,13 @@ import {
 import {
   type Bodies,
   type Body,
-  type Draft,
   type Rebased,
   type Running,
   rebasedHeld,
 } from "../../../command-system/drafting/drafting.module.code.ts"
 import { gateBuilt } from "../../../command-system/gate-building/gate-building.module.code.ts"
 import { baseOf, changeOf } from "../../../command-system/landing/landing.module.code.ts"
-import { editsFor, noPageSaid } from "../change/change.command.code.ts"
+import { noPageSaid } from "../change/change.command.code.ts"
 
 const BYTES = new TextEncoder()
 
@@ -52,29 +56,29 @@ export type Folded =
     }
   | { readonly refusals: readonly string[] }
 
-export function formattedEdits(root: string, rows: readonly Edit[]): readonly Edit[] {
-  return rows.map((one) => {
-    if (one.body === null) return one
-    const done = formattedBody(root, one.path, BYTES.encode(one.body))
-    return done.changed ? { ...one, body: TEXT.decode(done.body) } : one
-  })
+export function owingIn(said: Said): ReadonlyMap<string, boolean> {
+  const owed = new Map<string, boolean>()
+  for (const one of said.edits) {
+    if (one.readersOweReading === undefined) continue
+    const at = one.kind === "move" ? [one.pathFrom, one.pathTo] : [one.path]
+    for (const path of at) owed.set(path, (owed.get(path) ?? false) || one.readersOweReading)
+  }
+  return owed
 }
 
-export function draftsOf(edits: readonly Edit[]): readonly Draft[] {
-  const held: Draft[] = []
-  for (const one of edits) {
-    const owed = one.readersOweReading
-    const came = one.from
-    if (came !== undefined && came !== one.path) {
-      held.push({ path: came, was: bytesOf(one.was), body: null, readersOweReading: owed })
-      held.push({ path: one.path, was: null, body: bytesOf(one.body), readersOweReading: owed })
-      continue
-    }
-    held.push({
-      path: one.path,
-      was: bytesOf(one.was),
-      body: bytesOf(one.body),
-      readersOweReading: owed,
+export function bodiesFrom(root: string, said: Said): Bodies | { readonly why: string } {
+  const reads = bodyIn(root)
+  const after = replayed(said, reads)
+  if ("refused" in after) return { why: after.refused }
+  const owed = owingIn(said)
+  const held = new Map<string, Body>()
+  for (const [path, body] of after) {
+    const done = body === null ? null : formattedBody(root, path, BYTES.encode(body))
+    const owes = owed.get(path)
+    held.set(path, {
+      was: bytesOf(reads(path)),
+      body: done === null ? null : done.body,
+      ...(owes === undefined ? {} : { readersOweReading: owes }),
     })
   }
   return held
@@ -97,11 +101,16 @@ export function folding(root: string, page: string): Folded {
       answer = { refusals: [said.refused] }
       return had
     }
+    const bodies = bodiesFrom(root, said)
+    if ("why" in bodies) {
+      answer = { refusals: [bodies.why] }
+      return had
+    }
     answer = {
-      folded: said.edits.map((one) => one.path).sort(),
+      folded: [...bodies.keys()].sort(),
       dropped,
       unfold: { went: linesIn(root, page) },
-      carried: { held: heldOf(draftsOf(formattedEdits(root, said.edits))), running: CHANGED },
+      carried: { held: bodies, running: CHANGED },
     }
     return had
   })
@@ -111,11 +120,13 @@ export function folding(root: string, page: string): Folded {
 export function unwarranted(
   root: string,
   agentId: string | null,
-  rows: readonly Edit[]
+  rows: readonly Stated[]
 ): readonly string[] {
   const owing = rows.filter((one) => one.writerOwesReading !== false)
   if (owing.length === 0) return []
-  const edits = editsFor(formattedEdits(root, owing))
+  const bodies = bodiesFrom(root, { edits: owing, refused: null })
+  if ("why" in bodies) return [bodies.why]
+  const edits = [...bodies].map(([path, one]) => ({ path, body: one.body }))
   return owedIn(
     root,
     agentId,
@@ -124,22 +135,16 @@ export function unwarranted(
   )
 }
 
-export function heldOf(drafts: readonly Draft[]): Bodies {
-  const held = new Map<string, Body>()
-  for (const one of drafts) {
-    held.set(one.path, { was: one.was, body: one.body, readersOweReading: one.readersOweReading })
-  }
-  return held
-}
-
 export function rebasedRows(
   root: string,
   base: string,
-  rows: readonly Edit[]
+  rows: readonly Stated[]
 ): Rebased | { readonly why: string } {
   const said = foldedIn(rows)
   if (said.refused !== null) return { why: said.refused }
-  return rebasedHeld(root, base, heldOf(draftsOf(formattedEdits(root, said.edits))))
+  const bodies = bodiesFrom(root, said)
+  if ("why" in bodies) return bodies
+  return rebasedHeld(root, base, bodies)
 }
 
 async function refusedBefore(root: string, page: string): Promise<readonly string[]> {

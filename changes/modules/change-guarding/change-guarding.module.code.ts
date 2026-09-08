@@ -11,9 +11,11 @@ export function unreadable(cause: unknown): string {
 }
 
 export function takingIn(said: Answer): readonly string[] {
-  return said.edits
-    .filter((one) => one.body === null && one.from === undefined)
-    .map((one) => one.path)
+  const taken: string[] = []
+  for (const one of said.edits) {
+    if (one.kind === "remove") taken.push(one.path)
+  }
+  return taken
 }
 
 export function judging(
@@ -32,8 +34,12 @@ export function judging(
 export function holdsAfter(given: Guarding, path: string): boolean {
   let moved = false
   for (const one of given.said.edits) {
-    if (one.path === path) return one.body !== null
-    if (one.from === path) moved = true
+    if (one.kind === "move") {
+      if (one.pathTo === path) return true
+      if (one.pathFrom === path) moved = true
+      continue
+    }
+    if (one.path === path) return one.kind !== "remove"
   }
   return moved ? false : given.before.textOf(path) !== null
 }
@@ -42,7 +48,7 @@ export function guardedBy(world: World, said: Answer, guards: readonly Guard[]):
   if (said.refused !== null || guards.length === 0) return said
   const whole = gathered([world.over, said])
   if (whole.refused !== null) return refusing(whole.refused)
-  const cast = shadowOver(world.root, whole)
+  const cast = shadowOver(world.root, whole, world.textOf)
   if ("refused" in cast) return refusing(NOT_WORKED_OUT)
   const given: Guarding = { said, shadow: cast.shadow, before: world }
   for (const guard of guards) {

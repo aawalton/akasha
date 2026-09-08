@@ -1,4 +1,4 @@
-import type { Edit } from "../../changes/modules/change-answer/change-answer.module.types.ts"
+import type { Stated } from "../../changes/modules/change-answer/change-answer.module.types.ts"
 import {
   foldedIn,
   handedAway,
@@ -30,16 +30,16 @@ const HELD_BACK = "the handed edits are kept as they were, and this agent's own 
 
 const TAKEN = "these edits are this agent's own now, and `akasha apply` lands them"
 
-export function saidOf(one: Edit): string {
-  const came = one.from
-  if (came !== undefined && came !== one.path) return `moves ${came} to ${one.path}`
-  if (one.body === null) return `takes ${one.path} away`
-  if (one.was === null) return `adds ${one.path}`
+export function saidOf(one: Stated): string {
+  if (one.kind === "move") return `moves ${one.pathFrom} to ${one.pathTo}`
+  if (one.kind === "remove") return `takes ${one.path} away`
+  if (one.kind === "add") return `adds ${one.path}`
   return `changes ${one.path}`
 }
 
-function namedIn(one: Edit, at: readonly string[]): boolean {
-  return at.includes(one.path) || (one.from !== undefined && at.includes(one.from))
+function namedIn(one: Stated, at: readonly string[]): boolean {
+  if (one.kind === "move") return at.includes(one.pathTo) || at.includes(one.pathFrom)
+  return at.includes(one.path)
 }
 
 export function dropping(root: string, page: string, said: readonly string[]): Answer {

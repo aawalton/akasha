@@ -9,8 +9,13 @@ import {
   shadowOnto,
 } from "../../../pages/shadow/shadow.module.code.ts"
 import type { Changes } from "../../runners/pages/change-running/change-running.change-runner.addressed.ts"
-import { gathered, refusing, sameEdit } from "../change-answer/change-answer.module.code.ts"
-import type { Answer, Edit } from "../change-answer/change-answer.module.types.ts"
+import {
+  type BodyOf,
+  gathered,
+  refusing,
+  replayed,
+} from "../change-answer/change-answer.module.code.ts"
+import type { Answer, Stated } from "../change-answer/change-answer.module.types.ts"
 
 const BYTES = new TextEncoder()
 
@@ -44,41 +49,24 @@ export function bytesOf(body: string | null): Uint8Array | null {
   return body === null ? null : BYTES.encode(body)
 }
 
-export function changeOver(root: string, said: Answer): Change {
-  const held = new Map<string, Edit>()
-  const left = new Map<string, Edit>()
-  for (const one of said.edits) {
-    held.set(one.path, one)
-    if (one.from !== undefined) left.set(one.from, one)
-  }
-  const changed = [...new Set([...held.keys(), ...left.keys()])].sort()
+export function bodiesIn(said: Answer, textOf: BodyOf): ReadonlyMap<string, string | null> {
+  const held = replayed(said, textOf)
+  if ("refused" in held) throw new Error(held.refused)
+  return held
+}
+
+export function changeOver(root: string, said: Answer, textOf: BodyOf): Change {
+  const held = bodiesIn(said, textOf)
   return {
     root,
-    changed,
-    before: (path) => {
-      const moved = left.get(path)
-      if (moved !== undefined) return bytesOf(moved.was)
-      const one = held.get(path)
-      return one === undefined || one.from !== undefined ? null : bytesOf(one.was)
-    },
-    after: (path) => {
-      const one = held.get(path)
-      return one === undefined ? null : bytesOf(one.body)
-    },
+    changed: [...held.keys()].sort(),
+    before: (path) => bytesOf(textOf(path)),
+    after: (path) => bytesOf(held.has(path) ? (held.get(path) ?? null) : textOf(path)),
   }
 }
 
-export function shadowOver(root: string, said: Answer): Cast {
-  return shadowFor(changeOver(root, said))
-}
-
-function bodiesIn(said: Answer): ReadonlyMap<string, string | null> {
-  const found = new Map<string, string | null>()
-  for (const one of said.edits) {
-    if (one.from !== undefined) found.set(one.from, null)
-  }
-  for (const one of said.edits) found.set(one.path, one.body)
-  return found
+export function shadowOver(root: string, said: Answer, textOf: BodyOf): Cast {
+  return shadowFor(changeOver(root, said, textOf))
 }
 
 export function worldAt(
@@ -90,8 +78,8 @@ export function worldAt(
 }
 
 export function worldOver(world: World, said: Answer): World {
-  const held = bodiesIn(said)
-  const index = shadowAsked(changeOver(world.root, said)).index
+  const held = bodiesIn(said, world.textOf)
+  const index = shadowAsked(changeOver(world.root, said, world.textOf)).index
   const over = gathered([world.over, said])
   if (over.refused !== null) throw new Error(over.refused)
   return {
@@ -107,7 +95,6 @@ export type Kept = {
   readonly root: string
   readonly base: (path: string) => string | null
   readonly bodies: Map<string, string | null>
-  readonly stated: Map<string, Edit[]>
   fresh: Answer
   reading: Reading | null
   over: Answer
@@ -122,7 +109,7 @@ export function isLedger(world: World): world is Ledger {
 
 function settledIn(kept: Kept): Answering {
   if (kept.reading === null && kept.fresh.edits.length === 0) return shadowAt(kept.root).index
-  const cast = shadowOnto(kept.reading, changeOver(kept.root, kept.fresh))
+  const cast = shadowOnto(kept.reading, changeOver(kept.root, kept.fresh, kept.base))
   if ("refused" in cast) throw new Error(cast.refused)
   kept.reading = cast.reading
   kept.fresh = NOTHING_OVER
@@ -138,7 +125,6 @@ export function ledgerAt(
     root,
     base: textOf,
     bodies: new Map<string, string | null>(),
-    stated: new Map<string, Edit[]>(),
     fresh: NOTHING_OVER,
     reading: null,
     over: NOTHING_OVER,
@@ -162,32 +148,16 @@ export function ledgerAt(
   }
 }
 
-export function statedIn(kept: Kept, edit: Edit): boolean {
-  const before = kept.stated.get(edit.path)
-  if (before === undefined) return false
-  if (before.some((one) => sameEdit(one, edit))) return true
-  const last = before[before.length - 1]
-  if (last === undefined || last.body !== edit.body) return false
-  if (last.from === edit.from) return true
-  return edit.from !== undefined && kept.bodies.get(edit.from) === null
-}
-
 export function addedTo(ledger: Ledger, said: Answer): Ledger {
   const kept = ledger.kept
-  const fresh = said.edits.filter((one) => !statedIn(kept, one))
-  if (fresh.length === 0) return ledger
-  const held = { edits: fresh, refused: null }
-  const over = gathered([kept.over, held])
+  if (said.edits.length === 0) return ledger
+  const over = gathered([kept.over, said])
   if (over.refused !== null) throw new Error(over.refused)
-  const settling = gathered([kept.fresh, held])
+  const settling = gathered([kept.fresh, said])
   if (settling.refused !== null) throw new Error(settling.refused)
-  for (const one of fresh) {
-    const before = kept.stated.get(one.path)
-    if (before === undefined) kept.stated.set(one.path, [one])
-    else before.push(one)
-    if (one.from !== undefined) kept.bodies.set(one.from, null)
-  }
-  for (const one of fresh) kept.bodies.set(one.path, one.body)
+  const bodies = replayed(said, ledger.textOf)
+  if ("refused" in bodies) throw new Error(bodies.refused)
+  for (const [path, body] of bodies) kept.bodies.set(path, body)
   kept.over = over
   kept.fresh = settling
   kept.index = null

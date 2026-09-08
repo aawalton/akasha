@@ -8,9 +8,9 @@ import { besideAt } from "@akasha/pages/page-file-name"
 import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
 import {
   type BodyOf,
+  expanded,
   gathered,
   narrowed,
-  widened,
 } from "../change-answer/change-answer.module.code.ts"
 import type { Answer, Edit, Reading, Stated } from "../change-answer/change-answer.module.types.ts"
 
@@ -30,7 +30,7 @@ const NO_PAGE = "a path that is no page keeps no edits"
 
 const NO_ROW = "reads as no edit"
 
-export type Kept = { readonly rows: readonly Edit[] } | { readonly why: string }
+export type Kept = { readonly rows: readonly Stated[] } | { readonly why: string }
 
 function partAt(page: string, part: number): string | null {
   return uncommittedPartAt(page, SLUG, HELD, part)
@@ -100,12 +100,12 @@ function parsed(line: string): unknown {
   }
 }
 
-function bodyIn(root: string): BodyOf {
+export function bodyIn(root: string): BodyOf {
   return (path) => (existsSync(join(root, path)) ? (textAt(root, path) ?? "") : null)
 }
 
-function rowsIn(text: string, bodyOf: BodyOf): Kept {
-  const said: (Edit | Stated)[] = []
+function rowsIn(text: string): Kept {
+  const said: Stated[] = []
   const lines = text.split("\n")
   for (let at = 0; at < lines.length; at += 1) {
     const line = lines[at]
@@ -113,10 +113,10 @@ function rowsIn(text: string, bodyOf: BodyOf): Kept {
     const read = parsed(line)
     const one = edited(read) ?? stated(read)
     if (one === null) return { why: `line ${String(at + 1)} ${NO_ROW}` }
-    said.push(one)
+    if (one.kind === undefined) said.push(...narrowed(one))
+    else said.push(one)
   }
-  const grown = widened({ edits: said, refused: null }, bodyOf)
-  return grown.refused === null ? { rows: grown.edits } : { why: grown.refused }
+  return { rows: said }
 }
 
 function textOf(rows: readonly Edit[]): string {
@@ -169,7 +169,7 @@ function staleIn(root: string, page: string): string | null {
 
 function heldIn(root: string, page: string): Kept {
   const held = textOver(root, page) ?? staleIn(root, page)
-  return held === null ? { rows: [] } : rowsIn(held, bodyIn(root))
+  return held === null ? { rows: [] } : rowsIn(held)
 }
 
 export function editsIn(root: string, page: string): Kept {
@@ -243,10 +243,9 @@ function narrowIn(one: Edit): Stated | null {
   const narrow = narrowed(one)
   const only = narrow.length === 1 ? narrow[0] : undefined
   if (only === undefined || only.kind === "replace") return null
-  const back = widened({ edits: [only], refused: null }, wasIn(one))
-  const got = back.edits[0]
-  if (back.refused !== null || back.edits.length !== 1 || got === undefined) return null
-  return sameRow(got, one) ? only : null
+  const back = expanded(only, wasIn(one))
+  if ("refused" in back) return null
+  return sameRow(back.edit, one) ? only : null
 }
 
 function narrowly(one: Edit): string {
@@ -311,7 +310,7 @@ function migrated(root: string, page: string): undefined {
   if (at === null || existsSync(join(root, at))) return
   const stale = staleIn(root, page)
   if (stale === null) return
-  const read = rowsIn(stale, bodyIn(root))
+  const read = rowsIn(stale)
   if ("why" in read) return
   appending(root, page, read.rows, narrowly)
   abandoned(root, page)
@@ -395,7 +394,7 @@ export function appendStated(root: string, page: string, rows: readonly Stated[]
   })
 }
 
-export function foldedIn(rows: readonly Edit[]): Answer {
+export function foldedIn(rows: readonly Stated[]): Answer {
   return gathered(rows.map((one) => ({ edits: [one], refused: null })))
 }
 
@@ -421,7 +420,7 @@ export function handedIn(root: string, seat: string, under: string): Kept {
   const ref = handedRef(seat, under)
   if (ref === null) return { why: NO_PAGE }
   const held = readUnder(root, ref)
-  return held === null ? { rows: [] } : rowsIn(held, bodyIn(root))
+  return held === null ? { rows: [] } : rowsIn(held)
 }
 
 export function handedOver(root: string, seat: string, from: string, under: string): Kept {

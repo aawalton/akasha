@@ -1,6 +1,6 @@
 import { join } from "node:path"
 import { besideAt } from "@akasha/pages/page-file-name"
-import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Said } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import type { Guard } from "../../../modules/change-guarding/change-guarding.module.types.ts"
@@ -28,8 +28,10 @@ export function codeAt(world: World, address: string): string | null {
 }
 
 export function sittingAt(world: World, path: string): string {
-  const moved = world.over.edits.find((one) => one.path === path && one.from !== undefined)
-  return moved?.from ?? path
+  for (const one of world.over.edits) {
+    if (one.kind === "move" && one.pathTo === path) return one.pathFrom
+  }
+  return path
 }
 
 async function exportedAt(world: World, address: string, named: string): Promise<unknown> {
@@ -86,7 +88,7 @@ export async function loadedAt(world: World, at: string): Promise<Loaded | strin
 }
 
 export async function ranBy(world: World, loaded: Loaded, given: unknown): Promise<Answer> {
-  const said = widened(await loaded.run(world, given), world.textOf)
+  const said = await loaded.run(world, given)
   if (said.refused !== null) return said
   return guardedBy(world, said, loaded.guards)
 }

@@ -36,23 +36,15 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "Two edits to one path gather only where the later followed the earlier.",
+      statement: "Edits gather by joining the edits in the order the edits were stated.",
     },
     {
       invariantKind: "departure",
-      statement: "An edit stated a second time over gathers as the edit already there.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A move gathers with the write that move follows under the path left behind.",
+      statement: "Gathering reconciles nothing, as an edit claims no body it does not name.",
     },
     {
       invariantKind: "departure",
       statement: "A move landing where another edit already answers is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A later edit to a path replaces an earlier edit to that path.",
     },
     {
       invariantKind: "departure",
