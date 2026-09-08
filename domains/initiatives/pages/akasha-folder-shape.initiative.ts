@@ -18,7 +18,7 @@ export const akashaFolderShape = {
         '`Schema` is one shape in `index-shape` now, read by the entries reader, the reading reader and the writer, and it carries `uniqueScope`, which the writer files. An absent slug reads as the empty string rather than as nothing, so a reader dropping a stub line drops on `""`. `Identifier` and `identifyingFrom` still carry `key` and `reach` alone, and `filedIn` composes no scope, so nothing reads the field a declaration states yet.',
     },
     {
-      statement: "The identity index files each page under the level its reach names.",
+      statement: "The identity index files each page under its unique kind.",
       workingMemory:
         "`filedIn` answers `{ scope, propertySlug, said }` and `identityIn` joins `identity/{scope}/{propertySlug}/{said}.jsonl`, so there is no level segment and the universal scope `page` shares a directory with the page type named `page`. `scopesFor` sends `part-of` to the parent slugs `partOf(value)` answers. The three levels each add one scope, and the writer's triple gains the level and the scope property.",
     },
