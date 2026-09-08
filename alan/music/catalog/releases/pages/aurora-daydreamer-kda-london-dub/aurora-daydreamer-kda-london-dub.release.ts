@@ -5,7 +5,7 @@ export const auroraDaydreamerKdaLondonDub = {
   pageTypeSlug: "release",
   slug: "aurora-daydreamer-kda-london-dub",
   title: "Daydreamer (KDA London Dub)",
-  partOfSlugs: ["aurora"],
+  partOfCollectionSlugs: ["aurora"],
   position: 0,
   ownLength: 9.097167,
   ownProgress: 9.097167,

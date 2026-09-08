@@ -5,7 +5,7 @@ export const billyJoelTheStranger = {
   pageTypeSlug: "release",
   slug: "billy-joel-the-stranger",
   title: "The Stranger",
-  partOfSlugs: ["billy-joel"],
+  partOfCollectionSlugs: ["billy-joel"],
   position: 0,
   ownLength: 42.5584,
   ownProgress: 0,

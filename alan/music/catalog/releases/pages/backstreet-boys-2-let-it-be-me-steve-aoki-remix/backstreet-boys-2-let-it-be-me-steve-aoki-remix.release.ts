@@ -5,7 +5,7 @@ export const backstreetBoys2LetItBeMeSteveAokiRemix = {
   pageTypeSlug: "release",
   slug: "backstreet-boys-2-let-it-be-me-steve-aoki-remix",
   title: "Let It Be Me (Steve Aoki Remix)",
-  partOfSlugs: ["backstreet-boys-2"],
+  partOfCollectionSlugs: ["backstreet-boys-2"],
   position: 0,
   ownLength: 3.677417,
   ownProgress: 3.677417,

@@ -5,7 +5,7 @@ export const celticWoman2Solo = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-solo",
   title: "Solo",
-  partOfSlugs: ["celtic-woman-2"],
+  partOfCollectionSlugs: ["celtic-woman-2"],
   position: 0,
   ownLength: 36.708033,
   ownProgress: 36.708033,

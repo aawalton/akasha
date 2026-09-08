@@ -5,7 +5,7 @@ export const byuVocalPointLeadThouMeOnHymnsAndInspiration = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-lead-thou-me-on-hymns-and-inspiration",
   title: "Lead Thou Me On: Hymns and Inspiration",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 52.389483,
   ownProgress: 0,

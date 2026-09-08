@@ -5,7 +5,7 @@ export const billyJoelMyLives = {
   pageTypeSlug: "release",
   slug: "billy-joel-my-lives",
   title: "My Lives",
-  partOfSlugs: ["billy-joel"],
+  partOfCollectionSlugs: ["billy-joel"],
   position: 0,
   ownLength: 288.331817,
   ownProgress: 0,

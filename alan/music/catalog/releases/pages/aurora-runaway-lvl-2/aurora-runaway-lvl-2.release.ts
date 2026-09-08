@@ -5,7 +5,7 @@ export const auroraRunawayLvl2 = {
   pageTypeSlug: "release",
   slug: "aurora-runaway-lvl-2",
   title: "Runaway (Lvl.2)",
-  partOfSlugs: ["aurora"],
+  partOfCollectionSlugs: ["aurora"],
   position: 0,
   ownLength: 7.711533,
   ownProgress: 7.711533,

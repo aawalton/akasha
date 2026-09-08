@@ -5,7 +5,7 @@ export const billyJoelRiverOfDreams = {
   pageTypeSlug: "release",
   slug: "billy-joel-river-of-dreams",
   title: "River Of Dreams",
-  partOfSlugs: ["billy-joel"],
+  partOfCollectionSlugs: ["billy-joel"],
   position: 0,
   ownLength: 49.279267,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const billieEilishSixFeetUnder = {
   pageTypeSlug: "release",
   slug: "billie-eilish-six-feet-under",
   title: "Six Feet Under",
-  partOfSlugs: ["billie-eilish"],
+  partOfCollectionSlugs: ["billie-eilish"],
   position: 0,
   ownLength: 3.160217,
   ownProgress: 3.160217,

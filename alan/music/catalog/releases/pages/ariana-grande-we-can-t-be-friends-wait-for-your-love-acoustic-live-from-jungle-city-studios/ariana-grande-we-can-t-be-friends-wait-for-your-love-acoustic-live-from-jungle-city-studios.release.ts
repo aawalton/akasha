@@ -5,7 +5,7 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLoveAcousticLiveFromJungleCit
   pageTypeSlug: "release",
   slug: "ariana-grande-we-can-t-be-friends-wait-for-your-love-acoustic-live-from-jungle-city-studios",
   title: "we can't be friends (wait for your love) [acoustic (live from jungle city studios)]",
-  partOfSlugs: ["ariana-grande"],
+  partOfCollectionSlugs: ["ariana-grande"],
   position: 0,
   ownLength: 3.129683,
   ownProgress: 3.129683,

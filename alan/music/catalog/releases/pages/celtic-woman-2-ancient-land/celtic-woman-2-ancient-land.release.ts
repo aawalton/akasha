@@ -5,7 +5,7 @@ export const celticWoman2AncientLand = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-ancient-land",
   title: "Ancient Land",
-  partOfSlugs: ["celtic-woman-2"],
+  partOfCollectionSlugs: ["celtic-woman-2"],
   position: 0,
   ownLength: 58.410567,
   ownProgress: 58.410567,

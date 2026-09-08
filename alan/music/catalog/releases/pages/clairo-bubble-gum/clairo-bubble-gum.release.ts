@@ -5,7 +5,7 @@ export const clairoBubbleGum = {
   pageTypeSlug: "release",
   slug: "clairo-bubble-gum",
   title: "Bubble Gum",
-  partOfSlugs: ["clairo"],
+  partOfCollectionSlugs: ["clairo"],
   position: 0,
   ownLength: 2.932667,
   ownProgress: 0,

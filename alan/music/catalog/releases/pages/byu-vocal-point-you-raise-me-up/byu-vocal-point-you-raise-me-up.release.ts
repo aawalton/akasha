@@ -5,7 +5,7 @@ export const byuVocalPointYouRaiseMeUp = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-you-raise-me-up",
   title: "You Raise Me Up",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 4.025683,
   ownProgress: 0,

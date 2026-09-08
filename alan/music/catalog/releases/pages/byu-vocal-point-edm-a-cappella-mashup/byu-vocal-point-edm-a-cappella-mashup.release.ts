@@ -5,7 +5,7 @@ export const byuVocalPointEdmACappellaMashup = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-edm-a-cappella-mashup",
   title: "EDM A Cappella Mashup",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 3.657767,
   ownProgress: 0,

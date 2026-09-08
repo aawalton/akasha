@@ -5,7 +5,7 @@ export const byuVocalPointTrenches = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-trenches",
   title: "Trenches",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 3.487217,
   ownProgress: 0,

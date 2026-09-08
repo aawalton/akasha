@@ -5,7 +5,7 @@ export const byuVocalPointWickedMedley = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-wicked-medley",
   title: "Wicked Medley",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 5.3745,
   ownProgress: 0,

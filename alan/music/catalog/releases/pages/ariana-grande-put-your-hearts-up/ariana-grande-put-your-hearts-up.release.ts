@@ -5,7 +5,7 @@ export const arianaGrandePutYourHeartsUp = {
   pageTypeSlug: "release",
   slug: "ariana-grande-put-your-hearts-up",
   title: "Put Your Hearts Up",
-  partOfSlugs: ["ariana-grande"],
+  partOfCollectionSlugs: ["ariana-grande"],
   position: 0,
   ownLength: 3.503333,
   ownProgress: 3.503333,

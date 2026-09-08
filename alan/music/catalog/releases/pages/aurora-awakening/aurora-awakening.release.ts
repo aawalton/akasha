@@ -5,7 +5,7 @@ export const auroraAwakening = {
   pageTypeSlug: "release",
   slug: "aurora-awakening",
   title: "Awakening",
-  partOfSlugs: ["aurora"],
+  partOfCollectionSlugs: ["aurora"],
   position: 0,
   ownLength: 3.683017,
   ownProgress: 3.683017,

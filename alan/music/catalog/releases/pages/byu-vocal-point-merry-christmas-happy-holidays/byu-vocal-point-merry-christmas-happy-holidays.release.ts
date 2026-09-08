@@ -5,7 +5,7 @@ export const byuVocalPointMerryChristmasHappyHolidays = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-merry-christmas-happy-holidays",
   title: "Merry Christmas, Happy Holidays",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 4.0976,
   ownProgress: 0,

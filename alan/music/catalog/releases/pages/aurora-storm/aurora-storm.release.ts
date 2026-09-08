@@ -5,7 +5,7 @@ export const auroraStorm = {
   pageTypeSlug: "release",
   slug: "aurora-storm",
   title: "Storm",
-  partOfSlugs: ["aurora"],
+  partOfCollectionSlugs: ["aurora"],
   position: 0,
   ownLength: 3.7948,
   ownProgress: 3.7948,

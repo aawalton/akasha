@@ -5,7 +5,7 @@ export const celticWoman2NollaigNaMban = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-nollaig-na-mban",
   title: "Nollaig na mBan",
-  partOfSlugs: ["celtic-woman-2"],
+  partOfCollectionSlugs: ["celtic-woman-2"],
   position: 0,
   ownLength: 4.779383,
   ownProgress: 4.779383,

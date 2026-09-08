@@ -5,7 +5,7 @@ export const celticWoman2EmeraldMusicalGems = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-emerald-musical-gems",
   title: "Emerald: Musical Gems",
-  partOfSlugs: ["celtic-woman-2"],
+  partOfCollectionSlugs: ["celtic-woman-2"],
   position: 0,
   ownLength: 46.236567,
   ownProgress: 46.236567,

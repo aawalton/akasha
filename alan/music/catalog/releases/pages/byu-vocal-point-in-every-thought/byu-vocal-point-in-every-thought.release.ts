@@ -5,7 +5,7 @@ export const byuVocalPointInEveryThought = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-in-every-thought",
   title: "In Every Thought",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 18.34825,
   ownProgress: 0,

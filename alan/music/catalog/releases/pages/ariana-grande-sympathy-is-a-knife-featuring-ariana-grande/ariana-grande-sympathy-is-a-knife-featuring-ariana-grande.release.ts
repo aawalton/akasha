@@ -5,7 +5,7 @@ export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrande = {
   pageTypeSlug: "release",
   slug: "ariana-grande-sympathy-is-a-knife-featuring-ariana-grande",
   title: "Sympathy is a knife featuring ariana grande",
-  partOfSlugs: ["ariana-grande"],
+  partOfCollectionSlugs: ["ariana-grande"],
   position: 0,
   ownLength: 2.568767,
   ownProgress: 2.568767,

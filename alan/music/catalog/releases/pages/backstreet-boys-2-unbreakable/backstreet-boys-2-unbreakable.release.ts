@@ -5,7 +5,7 @@ export const backstreetBoys2Unbreakable = {
   pageTypeSlug: "release",
   slug: "backstreet-boys-2-unbreakable",
   title: "Unbreakable",
-  partOfSlugs: ["backstreet-boys-2"],
+  partOfCollectionSlugs: ["backstreet-boys-2"],
   position: 0,
   ownLength: 55.836117,
   ownProgress: 55.836117,

@@ -5,7 +5,7 @@ export const backstreetBoys2DonTGoBreakingMyHeart = {
   pageTypeSlug: "release",
   slug: "backstreet-boys-2-don-t-go-breaking-my-heart",
   title: "Don't Go Breaking My Heart",
-  partOfSlugs: ["backstreet-boys-2"],
+  partOfCollectionSlugs: ["backstreet-boys-2"],
   position: 0,
   ownLength: 3.5954,
   ownProgress: 3.5954,

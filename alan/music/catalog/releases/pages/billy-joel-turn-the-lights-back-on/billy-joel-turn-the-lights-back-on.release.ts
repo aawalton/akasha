@@ -5,7 +5,7 @@ export const billyJoelTurnTheLightsBackOn = {
   pageTypeSlug: "release",
   slug: "billy-joel-turn-the-lights-back-on",
   title: "Turn the Lights Back On",
-  partOfSlugs: ["billy-joel"],
+  partOfCollectionSlugs: ["billy-joel"],
   position: 0,
   ownLength: 3.982317,
   ownProgress: 0,

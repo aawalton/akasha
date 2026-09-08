@@ -5,7 +5,7 @@ export const arianaGrandeMetHimLastNight = {
   pageTypeSlug: "release",
   slug: "ariana-grande-met-him-last-night",
   title: "Met Him Last Night",
-  partOfSlugs: ["ariana-grande"],
+  partOfCollectionSlugs: ["ariana-grande"],
   position: 0,
   ownLength: 3.410517,
   ownProgress: 3.410517,

@@ -5,7 +5,7 @@ export const billyJoelTheBridge = {
   pageTypeSlug: "release",
   slug: "billy-joel-the-bridge",
   title: "The Bridge",
-  partOfSlugs: ["billy-joel"],
+  partOfCollectionSlugs: ["billy-joel"],
   position: 0,
   ownLength: 40.3046,
   ownProgress: 0,

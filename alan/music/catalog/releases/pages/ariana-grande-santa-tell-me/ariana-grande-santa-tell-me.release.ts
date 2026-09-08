@@ -5,7 +5,7 @@ export const arianaGrandeSantaTellMe = {
   pageTypeSlug: "release",
   slug: "ariana-grande-santa-tell-me",
   title: "Santa Tell Me",
-  partOfSlugs: ["ariana-grande"],
+  partOfCollectionSlugs: ["ariana-grande"],
   position: 0,
   ownLength: 3.40155,
   ownProgress: 3.40155,

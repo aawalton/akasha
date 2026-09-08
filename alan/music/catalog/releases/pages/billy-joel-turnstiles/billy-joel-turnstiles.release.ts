@@ -5,7 +5,7 @@ export const billyJoelTurnstiles = {
   pageTypeSlug: "release",
   slug: "billy-joel-turnstiles",
   title: "Turnstiles",
-  partOfSlugs: ["billy-joel"],
+  partOfCollectionSlugs: ["billy-joel"],
   position: 0,
   ownLength: 36.807083,
   ownProgress: 0,

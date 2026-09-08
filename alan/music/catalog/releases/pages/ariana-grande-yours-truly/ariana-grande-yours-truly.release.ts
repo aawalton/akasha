@@ -5,7 +5,7 @@ export const arianaGrandeYoursTruly = {
   pageTypeSlug: "release",
   slug: "ariana-grande-yours-truly",
   title: "Yours Truly",
-  partOfSlugs: ["ariana-grande"],
+  partOfCollectionSlugs: ["ariana-grande"],
   position: 0,
   ownLength: 46.43415,
   ownProgress: 46.43415,

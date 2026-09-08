@@ -5,7 +5,7 @@ export const billieEilishLAmourDeMaVieOverNowExtendedEdit = {
   pageTypeSlug: "release",
   slug: "billie-eilish-l-amour-de-ma-vie-over-now-extended-edit",
   title: "L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
-  partOfSlugs: ["billie-eilish"],
+  partOfCollectionSlugs: ["billie-eilish"],
   position: 0,
   ownLength: 4.532817,
   ownProgress: 4.532817,

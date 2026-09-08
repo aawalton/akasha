@@ -5,7 +5,7 @@ export const chaislynAlreadyHadIt = {
   pageTypeSlug: "release",
   slug: "chaislyn-already-had-it",
   title: "Already Had It",
-  partOfSlugs: ["chaislyn"],
+  partOfCollectionSlugs: ["chaislyn"],
   position: 0,
   ownLength: 2.947367,
   ownProgress: 2.947367,

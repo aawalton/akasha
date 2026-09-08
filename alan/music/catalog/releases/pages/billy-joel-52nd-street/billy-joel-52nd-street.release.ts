@@ -5,7 +5,7 @@ export const billyJoel52ndStreet = {
   pageTypeSlug: "release",
   slug: "billy-joel-52nd-street",
   title: "52nd Street",
-  partOfSlugs: ["billy-joel"],
+  partOfCollectionSlugs: ["billy-joel"],
   position: 0,
   ownLength: 40.429283,
   ownProgress: 0,

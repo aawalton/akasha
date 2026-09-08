@@ -5,7 +5,7 @@ export const billyJoelTheEssentialBillyJoel = {
   pageTypeSlug: "release",
   slug: "billy-joel-the-essential-billy-joel",
   title: "The Essential Billy Joel",
-  partOfSlugs: ["billy-joel"],
+  partOfCollectionSlugs: ["billy-joel"],
   position: 0,
   ownLength: 153.5356,
   ownProgress: 0,

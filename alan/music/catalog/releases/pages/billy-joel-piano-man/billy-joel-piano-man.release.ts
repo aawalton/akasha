@@ -5,7 +5,7 @@ export const billyJoelPianoMan = {
   pageTypeSlug: "release",
   slug: "billy-joel-piano-man",
   title: "Piano Man",
-  partOfSlugs: ["billy-joel"],
+  partOfCollectionSlugs: ["billy-joel"],
   position: 0,
   ownLength: 43.299067,
   ownProgress: 0,

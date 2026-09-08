@@ -5,7 +5,7 @@ export const chaislynSidetracked = {
   pageTypeSlug: "release",
   slug: "chaislyn-sidetracked",
   title: "Sidetracked",
-  partOfSlugs: ["chaislyn"],
+  partOfCollectionSlugs: ["chaislyn"],
   position: 0,
   ownLength: 2.9923,
   ownProgress: 2.9923,

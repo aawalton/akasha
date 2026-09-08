@@ -5,7 +5,7 @@ export const celticWoman2ChristmasCardsFromIreland = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-christmas-cards-from-ireland",
   title: "Christmas Cards From Ireland",
-  partOfSlugs: ["celtic-woman-2"],
+  partOfCollectionSlugs: ["celtic-woman-2"],
   position: 0,
   ownLength: 13.564417,
   ownProgress: 13.564417,

@@ -5,7 +5,7 @@ export const byuVocalPointItIsWellWithMySoul = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-it-is-well-with-my-soul",
   title: "It Is Well with My Soul",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 3.941517,
   ownProgress: 0,

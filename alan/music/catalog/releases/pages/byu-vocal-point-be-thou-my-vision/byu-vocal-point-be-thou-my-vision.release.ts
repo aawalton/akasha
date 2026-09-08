@@ -5,7 +5,7 @@ export const byuVocalPointBeThouMyVision = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-be-thou-my-vision",
   title: "Be Thou My Vision",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 3.88,
   ownProgress: 0,

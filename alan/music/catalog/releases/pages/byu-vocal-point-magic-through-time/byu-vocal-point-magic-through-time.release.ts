@@ -5,7 +5,7 @@ export const byuVocalPointMagicThroughTime = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-magic-through-time",
   title: "Magic Through Time",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 41.453117,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const byuVocalPointBeautyAndTheBeastMedleyFeatLexiWalker = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-beauty-and-the-beast-medley-feat-lexi-walker",
   title: "Beauty and the Beast Medley (feat. Lexi Walker)",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 4.693883,
   ownProgress: 0,

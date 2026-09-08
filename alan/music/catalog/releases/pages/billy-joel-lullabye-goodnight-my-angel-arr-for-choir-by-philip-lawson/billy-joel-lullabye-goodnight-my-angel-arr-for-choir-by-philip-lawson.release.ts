@@ -5,7 +5,7 @@ export const billyJoelLullabyeGoodnightMyAngelArrForChoirByPhilipLawson = {
   pageTypeSlug: "release",
   slug: "billy-joel-lullabye-goodnight-my-angel-arr-for-choir-by-philip-lawson",
   title: "Lullabye (Goodnight, my angel) [Arr. for choir by Philip Lawson]",
-  partOfSlugs: ["billy-joel"],
+  partOfCollectionSlugs: ["billy-joel"],
   position: 0,
   ownLength: 3.72885,
   ownProgress: 0,

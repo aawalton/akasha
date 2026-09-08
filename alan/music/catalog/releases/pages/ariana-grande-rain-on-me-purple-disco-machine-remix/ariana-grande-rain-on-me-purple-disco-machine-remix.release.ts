@@ -5,7 +5,7 @@ export const arianaGrandeRainOnMePurpleDiscoMachineRemix = {
   pageTypeSlug: "release",
   slug: "ariana-grande-rain-on-me-purple-disco-machine-remix",
   title: "Rain On Me (Purple Disco Machine Remix)",
-  partOfSlugs: ["ariana-grande"],
+  partOfCollectionSlugs: ["ariana-grande"],
   position: 0,
   ownLength: 10.53725,
   ownProgress: 10.53725,

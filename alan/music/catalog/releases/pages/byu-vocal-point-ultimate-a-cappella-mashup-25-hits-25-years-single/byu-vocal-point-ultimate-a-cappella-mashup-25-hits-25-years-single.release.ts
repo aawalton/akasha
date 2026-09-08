@@ -5,7 +5,7 @@ export const byuVocalPointUltimateACappellaMashup25Hits25YearsSingle = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-ultimate-a-cappella-mashup-25-hits-25-years-single",
   title: "Ultimate A Cappella Mashup: 25 Hits, 25 Years - Single",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 3.71955,
   ownProgress: 0,

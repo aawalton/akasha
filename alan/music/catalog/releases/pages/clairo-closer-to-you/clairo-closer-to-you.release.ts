@@ -5,7 +5,7 @@ export const clairoCloserToYou = {
   pageTypeSlug: "release",
   slug: "clairo-closer-to-you",
   title: "Closer To You",
-  partOfSlugs: ["clairo"],
+  partOfCollectionSlugs: ["clairo"],
   position: 0,
   ownLength: 3.07155,
   ownProgress: 0,

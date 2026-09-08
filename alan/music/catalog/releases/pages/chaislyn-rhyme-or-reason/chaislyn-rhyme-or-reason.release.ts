@@ -5,7 +5,7 @@ export const chaislynRhymeOrReason = {
   pageTypeSlug: "release",
   slug: "chaislyn-rhyme-or-reason",
   title: "rhyme or reason",
-  partOfSlugs: ["chaislyn"],
+  partOfCollectionSlugs: ["chaislyn"],
   position: 0,
   ownLength: 4.190217,
   ownProgress: 4.190217,

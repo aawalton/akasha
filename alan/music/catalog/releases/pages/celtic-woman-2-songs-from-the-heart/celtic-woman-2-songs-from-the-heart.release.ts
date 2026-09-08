@@ -5,7 +5,7 @@ export const celticWoman2SongsFromTheHeart = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-songs-from-the-heart",
   title: "Songs From The Heart",
-  partOfSlugs: ["celtic-woman-2"],
+  partOfCollectionSlugs: ["celtic-woman-2"],
   position: 0,
   ownLength: 56.0388,
   ownProgress: 56.0388,

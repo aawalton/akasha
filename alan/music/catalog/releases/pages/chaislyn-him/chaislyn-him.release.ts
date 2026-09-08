@@ -5,7 +5,7 @@ export const chaislynHim = {
   pageTypeSlug: "release",
   slug: "chaislyn-him",
   title: "Him",
-  partOfSlugs: ["chaislyn"],
+  partOfCollectionSlugs: ["chaislyn"],
   position: 0,
   ownLength: 3.33515,
   ownProgress: 3.33515,

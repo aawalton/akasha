@@ -5,7 +5,7 @@ export const byuVocalPointAngelsWeHaveHeardOnHigh = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-angels-we-have-heard-on-high",
   title: "Angels We Have Heard on High",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 3.41,
   ownProgress: 0,

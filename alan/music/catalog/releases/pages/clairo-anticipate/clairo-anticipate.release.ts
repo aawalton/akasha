@@ -5,7 +5,7 @@ export const clairoAnticipate = {
   pageTypeSlug: "release",
   slug: "clairo-anticipate",
   title: "Anticipate",
-  partOfSlugs: ["clairo"],
+  partOfCollectionSlugs: ["clairo"],
   position: 0,
   ownLength: 3.154733,
   ownProgress: 0,

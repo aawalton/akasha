@@ -5,7 +5,7 @@ export const billieEilishBellyache = {
   pageTypeSlug: "release",
   slug: "billie-eilish-bellyache",
   title: "Bellyache",
-  partOfSlugs: ["billie-eilish"],
+  partOfCollectionSlugs: ["billie-eilish"],
   position: 0,
   ownLength: 2.9862,
   ownProgress: 2.9862,

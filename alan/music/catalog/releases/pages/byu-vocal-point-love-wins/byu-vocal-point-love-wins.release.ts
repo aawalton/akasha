@@ -5,7 +5,7 @@ export const byuVocalPointLoveWins = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-love-wins",
   title: "Love Wins",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 3.658217,
   ownProgress: 0,

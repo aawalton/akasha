@@ -5,7 +5,7 @@ export const byuVocalPointBrillanRayosDeClemencia = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-brillan-rayos-de-clemencia",
   title: "Brillan rayos de clemencia",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 3.704017,
   ownProgress: 0,

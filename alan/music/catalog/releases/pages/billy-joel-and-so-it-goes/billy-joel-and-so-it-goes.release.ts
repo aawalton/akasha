@@ -5,7 +5,7 @@ export const billyJoelAndSoItGoes = {
   pageTypeSlug: "release",
   slug: "billy-joel-and-so-it-goes",
   title: "And So It Goes",
-  partOfSlugs: ["billy-joel"],
+  partOfCollectionSlugs: ["billy-joel"],
   position: 0,
   ownLength: 441.355733,
   ownProgress: 0,

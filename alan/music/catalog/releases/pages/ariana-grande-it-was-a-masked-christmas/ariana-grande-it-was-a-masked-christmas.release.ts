@@ -5,7 +5,7 @@ export const arianaGrandeItWasAMaskedChristmas = {
   pageTypeSlug: "release",
   slug: "ariana-grande-it-was-a-masked-christmas",
   title: "It Was A… (Masked Christmas)",
-  partOfSlugs: ["ariana-grande"],
+  partOfCollectionSlugs: ["ariana-grande"],
   position: 0,
   ownLength: 3.01515,
   ownProgress: 3.01515,

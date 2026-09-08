@@ -5,7 +5,7 @@ export const byuVocalPointGrace = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-grace",
   title: "Grace",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 44.9037,
   ownProgress: 0,

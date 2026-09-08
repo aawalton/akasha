@@ -5,7 +5,7 @@ export const billyJoelGlassHouses = {
   pageTypeSlug: "release",
   slug: "billy-joel-glass-houses",
   title: "Glass Houses",
-  partOfSlugs: ["billy-joel"],
+  partOfCollectionSlugs: ["billy-joel"],
   position: 0,
   ownLength: 34.879083,
   ownProgress: 0,

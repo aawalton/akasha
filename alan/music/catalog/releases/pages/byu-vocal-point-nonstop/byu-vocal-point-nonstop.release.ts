@@ -5,7 +5,7 @@ export const byuVocalPointNonstop = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-nonstop",
   title: "Nonstop",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 54.2408,
   ownProgress: 0,

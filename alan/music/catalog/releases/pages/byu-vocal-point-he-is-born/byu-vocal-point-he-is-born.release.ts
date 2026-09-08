@@ -5,7 +5,7 @@ export const byuVocalPointHeIsBorn = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-he-is-born",
   title: "He Is Born",
-  partOfSlugs: ["byu-vocal-point"],
+  partOfCollectionSlugs: ["byu-vocal-point"],
   position: 0,
   ownLength: 41.40465,
   ownProgress: 0,
