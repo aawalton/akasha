@@ -92,6 +92,30 @@ test("a path holding no body is refused", () => {
   expect(said.refused).toBe(`\`${AT}\` could not be read`)
 })
 
+test("a key spelled as a slug is refused", () => {
+  const said = addPageProperty(worldOf(HELD), { ...SECTION_OF, key: "section-of-slug" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`section-of-slug` is no key a page spells, and `sectionOfSlug` is the key that spelling names"
+  )
+})
+
+test("a key that is no bare word is refused", () => {
+  const said = addPageProperty(worldOf(HELD), { ...SECTION_OF, key: "section of slug" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`section of slug` is no key a page spells")
+})
+
+test("a key is judged before the body is read", () => {
+  const said = addPageProperty(worldOf({}), { ...SECTION_OF, key: "section-of-slug" })
+
+  expect(said.refused).toBe(
+    "`section-of-slug` is no key a page spells, and `sectionOfSlug` is the key that spelling names"
+  )
+})
+
 test("a value is put in as the body spells it rather than as a quoted string", () => {
   const said = addPageProperty(worldOf(HELD), { at: AT, key: "webDirectory", value: "true" })
 

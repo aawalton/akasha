@@ -1,4 +1,5 @@
 import { parsedAs } from "@akasha/code/code-source"
+import { exportedAs } from "@akasha/pages/page-export-name"
 import ts from "typescript"
 import {
   refusing,
@@ -44,7 +45,18 @@ export function valueIn(value: string): ts.Expression | null {
   return isData(one) ? one : null
 }
 
+const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+
+function keyFaultIn(key: string): string | null {
+  if (BARE.test(key)) return null
+  const spelled = exportedAs(key)
+  if (!BARE.test(spelled)) return `\`${key}\` is no key a page spells`
+  return `\`${key}\` is no key a page spells, and \`${spelled}\` is the key that spelling names`
+}
+
 export function addPageProperty(world: World, given: AddPagePropertyAsked): Said {
+  const fault = keyFaultIn(given.key)
+  if (fault !== null) return refusing(fault)
   const value = given.value.trim()
   if (valueIn(value) === null) {
     return refusing(`\`${value}\` parses as no value, so nothing is put in`)
