@@ -31,7 +31,7 @@ export const dallaDraftIntoAPatch = {
       statement:
         "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
       workingMemory:
-        "Nothing outside `command-system` lands through `landingAsked`; the music commands and `page-secret-acting` are converted. `landedMechanically` is its own module now at `command-system/mechanical-landing`, whose one caller is `subagent-presence:109`. Deleting it is converting that caller, then dropping the folder, the export entry and the part slug. Its six departures are each a thing this intent ends. `subagent-presence.module.test.ts` over the ceiling is the block.",
+        "`landedMechanically` is its own module at `command-system/mechanical-landing`, whose one caller is `subagent-presence:109`. Deleting it is converting that caller, then dropping the folder, the export entry and the part slug. Its six departures are each a thing this intent ends. The block is `subagent-presence.module.test.ts` at 10.5 processor seconds: 17 landing tests at 0.53 over 1 fixed, so three test files fit under 5 and two do not. Nothing touching presence lands until that division lands.",
     },
     {
       statement: "Every change is a patch before it is applied.",
