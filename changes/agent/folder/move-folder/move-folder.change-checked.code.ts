@@ -63,7 +63,7 @@ export async function moveFolder(world: World, given: MoveFolderAsked): Promise<
     if (seen.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
     const answer = await reach(seen, CHANGE_IMPORTS, { was: one, now: next, moved: carried })
     if (answer.said.refused !== null) return answer.said
-    for (const edit of answer.said.edits) edits.push(...narrowed(edit))
+    edits.push(...answer.said.edits)
     seen = answer.world
   }
   for (const path of reading.importers) {
@@ -73,7 +73,7 @@ export async function moveFolder(world: World, given: MoveFolderAsked): Promise<
     }
     const answer = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved: carried })
     if (answer.said.refused !== null) return answer.said
-    for (const edit of answer.said.edits) edits.push(...narrowed(edit))
+    edits.push(...answer.said.edits)
     seen = answer.world
   }
   return stating(edits)

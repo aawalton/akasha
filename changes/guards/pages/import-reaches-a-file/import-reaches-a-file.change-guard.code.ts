@@ -1,6 +1,9 @@
 import { extname } from "node:path"
 import { landingOf, placedIn } from "@akasha/code/code-specifier"
-import { holdsAfter } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+import {
+  holdsAfter,
+  writtenIn,
+} from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import type {
   Guard,
   Guarding,
@@ -18,9 +21,9 @@ function reachingIn(given: Guarding, path: string, body: string): string | null 
 }
 
 export function importReachesAFile(given: Guarding): string | null {
-  for (const one of given.said.edits) {
-    if (one.body === null || !CODE.has(extname(one.path))) continue
-    const why = reachingIn(given, one.path, one.body)
+  for (const [path, body] of writtenIn(given)) {
+    if (!CODE.has(extname(path))) continue
+    const why = reachingIn(given, path, body)
     if (why !== null) return why
   }
   return null

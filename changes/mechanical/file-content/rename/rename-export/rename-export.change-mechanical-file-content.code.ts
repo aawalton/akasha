@@ -10,6 +10,7 @@ import {
 } from "@akasha/code/code-typing"
 import {
   narrowed,
+  pathsIn,
   refusing,
   stating,
   writing,
@@ -74,9 +75,6 @@ export type Given = {
 }
 
 export function runChange(world: World, given: Given): Said {
-  const placed = placingOver(
-    world.over.edits.map((one) => one.path),
-    world.textOf
-  )
+  const placed = placingOver(pathsIn(world.over), world.textOf)
   return renameExport(world.root, given.at, given.over, given.of, given.to, world.textOf, placed)
 }

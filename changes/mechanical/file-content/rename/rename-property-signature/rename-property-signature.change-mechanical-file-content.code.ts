@@ -12,6 +12,7 @@ import ts from "typescript"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
   narrowed,
+  pathsIn,
   refusing,
   stating,
   writing,
@@ -104,10 +105,7 @@ export function renamePropertySignature(world: World, given: RenamePropertySigna
   const reading = importingOf(world.index, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
   const over = [given.at, ...reading.importers]
-  const placed = placingOver(
-    world.over.edits.map((one) => one.path),
-    world.textOf
-  )
+  const placed = placingOver(pathsIn(world.over), world.textOf)
   const typing = typingOver(world.root, over, readingOf(world.root, world.textOf, placed), placed)
   const types = typesNamed(typing, given.at, address.type)
   if (types.length === 0) return refusing(`\`${given.at}\` declares no type \`${address.type}\``)

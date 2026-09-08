@@ -1,6 +1,9 @@
 import { namedUnder, pageNamed } from "@akasha/pages/page-file-name"
 import { identityOf } from "@akasha/pages/page-type-properties"
-import { unreadable } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+import {
+  unreadable,
+  writtenIn,
+} from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import type {
   Guard,
   Guarding,
@@ -30,11 +33,11 @@ function twiceAt(given: Guarding, path: string, slug: string): string | null {
 export function fieldKeyNotCarriedTwice(given: Guarding): string | null {
   try {
     const under = given.shadow.index.kindsUnder(PAGE_PROPERTY)
-    for (const one of given.said.edits) {
-      if (one.body === null || !pageNamed(one.path, under)) continue
-      const named = namedUnder(one.path, under)
+    for (const path of writtenIn(given).keys()) {
+      if (!pageNamed(path, under)) continue
+      const named = namedUnder(path, under)
       if (named === null) continue
-      const why = twiceAt(given, one.path, named.slug)
+      const why = twiceAt(given, path, named.slug)
       if (why !== null) return why
     }
     return null

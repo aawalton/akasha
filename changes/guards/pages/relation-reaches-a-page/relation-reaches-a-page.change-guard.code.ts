@@ -1,6 +1,9 @@
 import { eachTarget, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
 import { pageNamed } from "@akasha/pages/page-file-name"
-import { unreadable } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+import {
+  unreadable,
+  writtenIn,
+} from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import type {
   Guard,
   Guarding,
@@ -26,9 +29,9 @@ export function relationReachesAPage(given: Guarding): string | null {
   try {
     const pageTypes = given.shadow.index.pageTypesIn()
     const known = given.shadow.index.knownIn()
-    for (const one of given.said.edits) {
-      if (one.body === null || !pageNamed(one.path, pageTypes)) continue
-      const why = danglingAt(given, known, one.path)
+    for (const path of writtenIn(given).keys()) {
+      if (!pageNamed(path, pageTypes)) continue
+      const why = danglingAt(given, known, path)
       if (why !== null) return why
     }
     return null

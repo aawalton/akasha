@@ -6,7 +6,7 @@ import { gitIgnoring } from "@akasha/git/git-pathspec"
 import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages/change"
 import type { Stated } from "../../changes/modules/change-answer/change-answer.module.types.ts"
-import { appendStated } from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { appendEdits } from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { commitNamed, unfresh } from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
@@ -344,8 +344,8 @@ function draftedBy(
   if (stale !== null) return { refusals: stale }
   const said = statedFrom(root, base, changes)
   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
-  const why = appendStated(root, page, said.rows)
-  if (why !== null) return { refusals: [why, KEPT_AS_IT_WAS] }
+  const kept = appendEdits(root, page, said.rows)
+  if ("why" in kept) return { refusals: [kept.why, KEPT_AS_IT_WAS] }
   return { base, drafted: [...changing].sort() }
 }
 

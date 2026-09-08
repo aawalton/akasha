@@ -1,7 +1,11 @@
 import { parsedAs } from "@akasha/code/code-source"
 import { placingOver, readingOf, typingOver } from "@akasha/code/code-typing"
 import ts from "typescript"
-import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import {
+  pathsIn,
+  refusing,
+  stating,
+} from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
@@ -43,10 +47,7 @@ function without(
 }
 
 function requiredIn(world: World, given: RemovePropertyValueAsked): boolean | null {
-  const placed = placingOver(
-    world.over.edits.map((one) => one.path),
-    world.textOf
-  )
+  const placed = placingOver(pathsIn(world.over), world.textOf)
   const read = readingOf(world.root, world.textOf, placed)
   const typing = typingOver(world.root, [given.at], read, placed)
   const source = typing.sourceAt(given.at)

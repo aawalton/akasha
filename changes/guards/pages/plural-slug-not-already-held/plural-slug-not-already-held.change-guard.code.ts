@@ -1,6 +1,9 @@
 import { pageNamed } from "@akasha/pages/page-file-name"
 import { slugOf, textAt, type Value } from "@akasha/pages/page-value"
-import { unreadable } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+import {
+  unreadable,
+  writtenIn,
+} from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import type {
   Guard,
   Guarding,
@@ -44,10 +47,10 @@ export function pluralSlugNotAlreadyHeld(given: Guarding): string | null {
   try {
     const pageTypes = given.shadow.index.pageTypesIn()
     const written = new Map<string, string>()
-    for (const one of given.said.edits) {
-      if (one.body === null || !pageNamed(one.path, pageTypes)) continue
-      const plural = pluralIn(given.shadow.pageOf(one.path))
-      if (plural !== null) written.set(one.path, plural)
+    for (const path of writtenIn(given).keys()) {
+      if (!pageNamed(path, pageTypes)) continue
+      const plural = pluralIn(given.shadow.pageOf(path))
+      if (plural !== null) written.set(path, plural)
     }
     if (written.size === 0) return null
     const stated = statedIn(given)

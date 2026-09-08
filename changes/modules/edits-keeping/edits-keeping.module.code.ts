@@ -6,12 +6,7 @@ import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
-import {
-  type BodyOf,
-  expanded,
-  gathered,
-  narrowed,
-} from "../change-answer/change-answer.module.code.ts"
+import { type BodyOf, gathered, narrowed } from "../change-answer/change-answer.module.code.ts"
 import type { Answer, Edit, Reading, Stated } from "../change-answer/change-answer.module.types.ts"
 
 const SLUG = "edits"
@@ -119,7 +114,7 @@ function rowsIn(text: string): Kept {
   return { rows: said }
 }
 
-function textOf(rows: readonly Edit[]): string {
+function textOf(rows: readonly Stated[]): string {
   return rows.map((one) => `${JSON.stringify(one)}\n`).join("")
 }
 
@@ -223,49 +218,11 @@ function poured(root: string, page: string, lines: readonly string[]): undefined
   if (held.length > 0) appended(root, page, held.join(""))
 }
 
-function wasIn(one: Edit): BodyOf {
-  const came = one.from === undefined || one.from === one.path ? one.path : one.from
-  return (path) => (path === came ? one.was : null)
-}
-
-function sameRow(one: Edit, two: Edit): boolean {
-  return (
-    one.path === two.path &&
-    one.was === two.was &&
-    one.body === two.body &&
-    one.from === two.from &&
-    one.readersOweReading === two.readersOweReading &&
-    one.writerOwesReading === two.writerOwesReading
-  )
-}
-
-function narrowIn(one: Edit): Stated | null {
-  const narrow = narrowed(one)
-  const only = narrow.length === 1 ? narrow[0] : undefined
-  if (only === undefined || only.kind === "replace") return null
-  const back = expanded(only, wasIn(one))
-  if ("refused" in back) return null
-  return sameRow(back.edit, one) ? only : null
-}
-
-function narrowly(one: Edit): string {
-  return JSON.stringify(narrowIn(one) ?? one)
-}
-
-function wholly(one: Edit): string {
-  return JSON.stringify(one)
-}
-
-function appending(
-  root: string,
-  page: string,
-  rows: readonly Edit[],
-  said: (one: Edit) => string
-): undefined {
+function appending(root: string, page: string, rows: readonly Stated[]): undefined {
   poured(
     root,
     page,
-    rows.map((one) => `${said(one)}\n`)
+    rows.map((one) => `${JSON.stringify(one)}\n`)
   )
 }
 
@@ -312,42 +269,42 @@ function migrated(root: string, page: string): undefined {
   if (stale === null) return
   const read = rowsIn(stale)
   if ("why" in read) return
-  appending(root, page, read.rows, narrowly)
+  appending(root, page, read.rows)
   abandoned(root, page)
 }
 
-type Rows = readonly Edit[] | null
+type Rows = readonly Stated[] | null
 
-function followsOn(had: readonly Edit[], next: readonly Edit[]): boolean {
+function followsOn(had: readonly Stated[], next: readonly Stated[]): boolean {
   if (next.length < had.length) return false
   for (let at = 0; at < had.length; at += 1) if (next[at] !== had[at]) return false
   return true
 }
 
-function settled(root: string, page: string, had: readonly Edit[], next: Rows): Kept {
+function settled(root: string, page: string, had: readonly Stated[], next: Rows): Kept {
   if (next === null || next.length === 0) {
     swept(root, page)
     return { rows: [] }
   }
   if (followsOn(had, next)) {
-    appending(root, page, next.slice(had.length), narrowly)
+    appending(root, page, next.slice(had.length))
     return { rows: next }
   }
   swept(root, page)
-  appending(root, page, next, wholly)
+  appending(root, page, next)
   return { rows: next }
 }
 
-export function keptEdits(root: string, page: string, act: (had: readonly Edit[]) => Rows): Kept
+export function keptEdits(root: string, page: string, act: (had: readonly Stated[]) => Rows): Kept
 export function keptEdits(
   root: string,
   page: string,
-  act: (had: readonly Edit[]) => Promise<Rows>
+  act: (had: readonly Stated[]) => Promise<Rows>
 ): Promise<Kept>
 export function keptEdits(
   root: string,
   page: string,
-  act: (had: readonly Edit[]) => Rows | Promise<Rows>
+  act: (had: readonly Stated[]) => Rows | Promise<Rows>
 ): Kept | Promise<Kept> {
   const at = editsAt(page)
   if (at === null) return { why: NO_PAGE }
@@ -364,7 +321,7 @@ export function keptEdits(
   })
 }
 
-export function appendEdits(root: string, page: string, edits: readonly Edit[]): Kept {
+export function appendEdits(root: string, page: string, edits: readonly Stated[]): Kept {
   const at = editsAt(page)
   if (at === null) return { why: NO_PAGE }
   if (edits.length === 0) return { rows: [] }
@@ -372,25 +329,8 @@ export function appendEdits(root: string, page: string, edits: readonly Edit[]):
   mkdirSync(dirname(full), { recursive: true })
   return exclusively(full, (): Kept => {
     migrated(root, page)
-    appending(root, page, edits, narrowly)
+    appending(root, page, edits)
     return { rows: edits }
-  })
-}
-
-export function appendStated(root: string, page: string, rows: readonly Stated[]): string | null {
-  const at = editsAt(page)
-  if (at === null) return NO_PAGE
-  if (rows.length === 0) return null
-  const full = join(root, at)
-  mkdirSync(dirname(full), { recursive: true })
-  return exclusively(full, (): string | null => {
-    migrated(root, page)
-    poured(
-      root,
-      page,
-      rows.map((one) => `${JSON.stringify(one)}\n`)
-    )
-    return null
   })
 }
 

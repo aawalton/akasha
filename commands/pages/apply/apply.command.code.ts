@@ -1,6 +1,9 @@
 import { formattedBody } from "@akasha/code/code-format"
 import { agentPathOf, changingOf, owedIn } from "@akasha/context/warranting"
-import { replayed } from "../../../changes/modules/change-answer/change-answer.module.code.ts"
+import {
+  pathsOf,
+  replayed,
+} from "../../../changes/modules/change-answer/change-answer.module.code.ts"
 import type {
   Answer as Said,
   Stated,
@@ -88,10 +91,8 @@ export function folding(root: string, page: string): Folded {
   let answer: Folded = { folded: [], dropped: [], unfold: null, carried: null }
   const kept = keptEdits(root, page, (had) => {
     if (had.length === 0) return had
-    const held = had.filter((one) => !writtenAgain(one.path))
-    const dropped = [
-      ...new Set(had.filter((one) => writtenAgain(one.path)).map((one) => one.path)),
-    ].sort()
+    const held = had.filter((one) => !pathsOf(one).some(writtenAgain))
+    const dropped = [...new Set(had.flatMap(pathsOf).filter(writtenAgain))].sort()
     if (held.length === 0) {
       answer = { folded: [], dropped, unfold: null, carried: null }
       return null

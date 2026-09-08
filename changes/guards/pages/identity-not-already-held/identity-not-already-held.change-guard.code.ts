@@ -1,6 +1,9 @@
 import { pageNamed } from "@akasha/pages/page-file-name"
 import { textAt } from "@akasha/pages/page-value"
-import { unreadable } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+import {
+  unreadable,
+  writtenIn,
+} from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import type {
   Guard,
   Guarding,
@@ -50,9 +53,9 @@ function heldAt(given: Guarding, path: string): string | null {
 export function identityNotAlreadyHeld(given: Guarding): string | null {
   try {
     const pageTypes = given.shadow.index.pageTypesIn()
-    for (const one of given.said.edits) {
-      if (one.body === null || !pageNamed(one.path, pageTypes)) continue
-      const why = heldAt(given, one.path)
+    for (const path of writtenIn(given).keys()) {
+      if (!pageNamed(path, pageTypes)) continue
+      const why = heldAt(given, path)
       if (why !== null) return why
     }
     return null

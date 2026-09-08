@@ -220,6 +220,5 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
 }
 
 export async function runChange(world: World, given: RenamePageSlugAsked): Promise<Said> {
-  const said = await renameSlug(world, given)
-  return said.refused !== null ? said : stating(said.edits.flatMap(narrowed))
+  return await renameSlug(world, given)
 }

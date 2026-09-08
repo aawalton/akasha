@@ -129,7 +129,7 @@ export async function changePagePageType(
     }
     const answer = await reach(over, CHANGE_IMPORTS, { was: path, now: path, moved: movedOver })
     if (answer.said.refused !== null) return answer.said
-    carried.push(answered(answer.said.edits.filter((one) => one.body !== text)))
+    carried.push(answer.said)
     over = answer.world
   }
   const addressed = await reach(over, RENAME_PAGE_ADDRESS, {

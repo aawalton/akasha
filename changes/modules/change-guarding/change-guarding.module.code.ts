@@ -1,5 +1,5 @@
 import { NOT_WORKED_OUT } from "../../../pages/shadow/shadow.module.code.ts"
-import { gathered, refusing } from "../change-answer/change-answer.module.code.ts"
+import { gathered, refusing, replayed } from "../change-answer/change-answer.module.code.ts"
 import type { Answer } from "../change-answer/change-answer.module.types.ts"
 import { shadowOver, type World } from "../change-shadow/change-shadow.module.code.ts"
 import type { Guard, Guarding } from "./change-guarding.module.types.ts"
@@ -42,6 +42,14 @@ export function holdsAfter(given: Guarding, path: string): boolean {
     if (one.path === path) return one.kind !== "remove"
   }
   return moved ? false : given.before.textOf(path) !== null
+}
+
+export function writtenIn(given: Guarding): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  const held = replayed(given.said, given.before.textOf)
+  if ("refused" in held) return found
+  for (const [path, body] of held) if (body !== null) found.set(path, body)
+  return found
 }
 
 export function guardedBy(world: World, said: Answer, guards: readonly Guard[]): Answer {

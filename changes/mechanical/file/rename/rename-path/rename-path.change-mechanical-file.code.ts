@@ -1,6 +1,9 @@
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { answered, refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer, Edit } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type {
+  Answer,
+  Stated,
+} from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
@@ -24,19 +27,17 @@ export async function renamePath(world: World, given: RenamePathAsked): Promise<
     moved,
   })
   if (carried.said.refused !== null) return carried.said
-  const edits: Edit[] = [...carried.said.edits]
+  const edits: Stated[] = [...carried.said.edits]
   let seen = carried.world
   for (const path of reading.importers) {
     const held = seen.textOf(path)
     if (held === null) return refusing(`\`${path}\` names what moved and could not be read`)
     const said = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved })
     if (said.said.refused !== null) return said.said
-    for (const one of said.said.edits) {
-      if (one.body !== held) edits.push(one)
-    }
+    edits.push(...said.said.edits)
     seen = said.world
   }
-  return answered(edits)
+  return stating(edits)
 }
 
 export async function runChange(world: World, given: RenamePathAsked): Promise<Answer> {

@@ -50,8 +50,12 @@ export function respelled(text: string, spots: readonly Spot[], now: string): st
 export function pathsIn(world: World): readonly string[] {
   const found = new Set(world.index.everyPath())
   for (const one of world.over.edits) {
-    if (one.from !== undefined) found.delete(one.from)
-    if (one.body === null) found.delete(one.path)
+    if (one.kind === "move") {
+      found.delete(one.pathFrom)
+      found.add(one.pathTo)
+      continue
+    }
+    if (one.kind === "remove") found.delete(one.path)
     else found.add(one.path)
   }
   return [...found]

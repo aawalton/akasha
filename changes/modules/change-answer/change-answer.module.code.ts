@@ -19,6 +19,14 @@ export function refusing(why: string): Answer {
   return { edits: [], refused: why }
 }
 
+export function pathsOf(one: Stated): readonly string[] {
+  return one.kind === "move" ? [one.pathFrom, one.pathTo] : [one.path]
+}
+
+export function pathsIn(said: Answer): readonly string[] {
+  return said.edits.flatMap(pathsOf)
+}
+
 export function missing(key: string): string {
   return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
 }
