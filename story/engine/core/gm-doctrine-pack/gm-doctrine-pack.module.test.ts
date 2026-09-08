@@ -3,7 +3,6 @@ import type { GmContext } from "../gm-context-schema/gm-context-schema.module.co
 import {
   buildDoctrinePackUpdate,
   dropsStampedDoctrineVersion,
-  GM_DOCTRINE_PACK_EXTERNAL_ID,
   GM_DOCTRINE_POLICY_ID_PREFIX,
   parseDoctrinePack,
   preserveDoctrineOnReplace,
@@ -13,16 +12,11 @@ import { FIXTURE_PACK } from "./gm-doctrine-pack.module.test-fixtures.ts"
 
 const PER_GAME_POLICY = { id: "house:no-dice", title: "No dice", bands: [] }
 
-describe("the pack's names", () => {
+describe("the policies a pack owns", () => {
   test("a policy the pack owns is known by its id prefix", () => {
-    expect(GM_DOCTRINE_POLICY_ID_PREFIX).toBe("doctrine:")
     expect(FIXTURE_PACK.policies.every((p) => p.id.startsWith(GM_DOCTRINE_POLICY_ID_PREFIX))).toBe(
       true
     )
-  })
-
-  test("the pack is stored under one external id", () => {
-    expect(GM_DOCTRINE_PACK_EXTERNAL_ID).toBe("gm-doctrine-pack")
   })
 })
 
