@@ -132,5 +132,9 @@ export const pageType = {
       invariantKind: "departure",
       statement: "A page type says here whether the paths its pages spell are a container's.",
     },
+    {
+      invariantKind: "absence",
+      statement: "A page type says nothing about where the pages of that page type sit.",
+    },
   ],
 } as const satisfies PageType
