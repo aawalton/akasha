@@ -1,6 +1,5 @@
-import { assertNever } from "@akasha/utils-narrow/assert-never"
-import nativeAssert from "assert"
-import * as path from "path"
+import nativeAssert from "node:assert"
+import * as path from "node:path"
 import * as ts from "typescript"
 
 function isReadonlyArrayOf<T>(value: T | readonly T[]): value is readonly T[] {
@@ -25,15 +24,14 @@ export const intersection = <T>(
   ...rest: ReadonlyArray<readonly T[]>
 ): readonly T[] => union(first).filter((x) => rest.every((r) => r.includes(x)))
 
-type DiagnosticFactory = (
-  ...args: any
-) => Partial<ts.Diagnostic> & Pick<ts.Diagnostic, "messageText">
-export const createDiagnosticFactoryWithCode = <T extends DiagnosticFactory>(
+type DiagnosticBody = Partial<ts.Diagnostic> & Pick<ts.Diagnostic, "messageText">
+
+export const createDiagnosticFactoryWithCode = <TArgs extends readonly unknown[]>(
   code: number,
-  create: T
+  create: (...args: TArgs) => DiagnosticBody
 ) =>
   Object.assign(
-    (...args: Parameters<T>): ts.Diagnostic => ({
+    (...args: TArgs): ts.Diagnostic => ({
       file: undefined,
       start: undefined,
       length: undefined,
@@ -46,8 +44,9 @@ export const createDiagnosticFactoryWithCode = <T extends DiagnosticFactory>(
   )
 
 let serialDiagnosticCodeCounter = 100000
-export const createSerialDiagnosticFactory = <T extends DiagnosticFactory>(create: T) =>
-  createDiagnosticFactoryWithCode(serialDiagnosticCodeCounter++, create)
+export const createSerialDiagnosticFactory = <TArgs extends readonly unknown[]>(
+  create: (...args: TArgs) => DiagnosticBody
+) => createDiagnosticFactoryWithCode(serialDiagnosticCodeCounter++, create)
 
 export const normalizeSlashes = (filePath: string) => filePath.replace(/\\/g, "/")
 export const trimExtension = (filePath: string) => filePath.slice(0, -path.extname(filePath).length)
@@ -59,8 +58,6 @@ export function formatPathToLuaPath(filePath: string): string {
   }
   return filePath.replace(/\.\//g, "").replace(/\//g, ".")
 }
-
-type NoInfer<T> = [T][T extends any ? 0 : never]
 
 export function getOrUpdate<K, V>(
   map: Map<K, V> | (K extends object ? WeakMap<K, V> : never),
@@ -85,15 +82,15 @@ export function isNonNull<T>(value: T | null | undefined): value is T {
 
 export function cast<TOriginal, TCast extends TOriginal>(
   item: TOriginal,
-  cast: (item: TOriginal) => item is TCast
+  isCast: (value: TOriginal) => value is TCast
 ): TCast {
-  if (cast(item)) {
+  if (isCast(item)) {
     return item
   } else {
-    throw new Error(`Failed to cast value to expected type using ${cast.name}.`)
+    throw new Error(`Failed to cast value to expected type using ${isCast.name}.`)
   }
 }
 
-export function assert(value: any, message?: string | Error): asserts value {
+export function assert(value: unknown, message?: string | Error): asserts value {
   nativeAssert(value, message)
 }
