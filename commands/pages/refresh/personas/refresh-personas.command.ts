@@ -8,8 +8,9 @@ export const refreshPersonas = {
   code: "ts",
   changeKindSlug: "change-mechanical",
   helpNotes: [
-    "the days from 2026-09-08 up to today are added up afresh and kept as each persona's points before today.",
+    "the days from 2026-08-08 up to today are added up afresh and kept as each persona's points before today.",
     "a hundred messages Alan wrote is one point.",
+    "`akasha refresh messages` counts the days again out of the transcripts before this reads them.",
     "today's own count is left alone, so the figures agree when the run ends.",
     "a timer runs this once each day has opened, so run it by hand only when a total looks wrong.",
   ],

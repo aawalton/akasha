@@ -10,7 +10,7 @@ export const dayMessagesTotalling = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "Every persona is counted from 2026-09-08 and from no day earlier.",
+      statement: "Every persona is counted from 2026-08-08 and from no day earlier.",
     },
     {
       invariantKind: "departure",

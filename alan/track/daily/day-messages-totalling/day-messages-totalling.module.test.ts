@@ -7,7 +7,7 @@ import {
 } from "./day-messages-totalling.module.code.ts"
 
 const DAYS: readonly Dayed[] = [
-  { day: "2026-09-05", counted: [{ personaSlug: "aura", sent: 400 }] },
+  { day: "2026-08-05", counted: [{ personaSlug: "aura", sent: 400 }] },
   { day: "2026-09-08", counted: [{ personaSlug: "aura", sent: 150 }] },
   {
     day: "2026-09-09",
@@ -20,7 +20,7 @@ const DAYS: readonly Dayed[] = [
 ]
 
 test("counting begins on the day the counting began", () => {
-  expect(MESSAGES_COUNTED_FROM).toBe("2026-09-08")
+  expect(MESSAGES_COUNTED_FROM).toBe("2026-08-08")
 })
 
 test("a day before the counting began is left out", () => {

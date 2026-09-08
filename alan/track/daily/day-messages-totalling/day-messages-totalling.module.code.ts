@@ -9,7 +9,7 @@ const WAKE_DAY = "wake-day"
 
 const DATE = "date"
 
-export const MESSAGES_COUNTED_FROM = "2026-09-08"
+export const MESSAGES_COUNTED_FROM = "2026-08-08"
 
 export type Dayed = { readonly day: string; readonly counted: readonly Counted[] }
 
