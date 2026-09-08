@@ -43,7 +43,7 @@ export const theaChecksSystem = {
     {
       statement: "Every cluster-check module body is claimed by a page.",
       workingMemory:
-        "116 of 155 folders under checks/cluster-checks/modules hold code with no page beside it. The 39 that have one are named among the cluster-check page type's parts, and a new page lands only together with its part slug. Every one of these checks is dead pending Alan's ablation, so the page is plain: slug, definition, code, and test where a test is beside it. No invariants, and no judgement about whether the code should live.",
+        "Three of 156 left, and no page can be written for any: a slug is unique within its page type, temper-build-deploy-checks holds module pages cli-args and repo-root, and tree-reading is held by pages/indexes and three editor-extension folders. The other 153 have pages, each landed beside the check it serves with its part slug. These three wait on the same uniquePropertySlug call as the routes, or on renaming three modules that 81 imports reach.",
     },
     {
       statement: "Every property file has the page whose property that file is.",
