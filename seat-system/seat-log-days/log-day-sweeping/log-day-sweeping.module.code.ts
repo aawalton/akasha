@@ -16,8 +16,6 @@ const DAYS_AT = "seat-system/seat-log-days/pages"
 
 const PAGE_SUFFIX = ".seat-log-day.ts"
 
-// A day states its date as one property line of the page it is. The page is read as text rather
-// than loaded, because a sweep that imports every page it judges pays a module load for each.
 const DATE = /^\s*date: "(\d{4}-\d{2}-\d{2})",?\s*$/m
 
 export interface DayFacts {
@@ -68,12 +66,10 @@ export function daysIn(root: string): DaysRead {
   return { days: found, unjudged }
 }
 
-function removeLines(root: string, relPath: string): void {
+function removeLines(root: string, relPath: string): undefined {
   for (const one of besideOf(root, relPath)) rmSync(join(root, one), { force: true })
 }
 
-// A daemon composes this removal rather than authoring it, so it lands mechanically, in process,
-// owing no read record. The sidecar beside each page is gitignored and goes separately, after.
 async function removePages(
   relPaths: readonly string[],
   root: string
@@ -90,7 +86,7 @@ async function removePages(
   return landed.ok ? { code: 0, output: "" } : { code: 1, output: landed.why }
 }
 
-function keepDaysFrom(argv: readonly string[]): number | null {
+export function keepDaysFrom(argv: readonly string[]): number | null {
   const at = argv.indexOf("--keep-days")
   if (at === -1) return DEFAULT_KEEP_DAYS
   const raw = argv[at + 1]
@@ -113,8 +109,6 @@ async function main(argv: readonly string[]): Promise<number> {
   const days = read.days
   const rotate = days.filter((one) => decideDay(one.date, cutoff) === "rotate")
 
-  // A day this cannot read a date from is left alone. Saying so is what keeps a folder growing
-  // behind a clean answer from reading as a folder holding nothing to take.
   if (read.unjudged.length > 0) {
     process.stderr.write(
       `${read.unjudged.length} log day(s) state no date this can read, so none is judged: ` +
@@ -152,8 +146,6 @@ async function main(argv: readonly string[]): Promise<number> {
     }
   }
   for (const one of taken) removeLines(root, one.relPath)
-  // A page under akasha is held to what its writer read, so a page taken away leaves a reading
-  // kept over a path at nothing. The reading goes with the page.
   if (taken.length > 0)
     dropReadings(
       root,

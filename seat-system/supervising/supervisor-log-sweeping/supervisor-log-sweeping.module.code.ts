@@ -1,8 +1,7 @@
 import { readdirSync, rmSync, statSync } from "node:fs"
 import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
 import { akashaSeatsThatExist } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
-
-const DEFAULT_KEEP_DAYS = 7
+import { keepDaysFrom } from "../../seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts"
 
 const DAY_MS = 86_400_000
 
@@ -31,10 +30,6 @@ export function decideDir(input: KeepInput): Verdict {
   return { kind: "departed" }
 }
 
-// WHOSE SEAT STILL EXISTS, ASKED OF AKASHA. This opened every file in the old seat directory for
-// the id its frontmatter states, and a supervisor's log directory is taken away when its id is
-// absent from what this answers. So a store that has stopped being written reads here as every
-// seat having departed at once, and the sweep would take the whole fleet's logs.
 export function seatAgentIdsThatExist(): ReadonlySet<string> {
   return new Set(akashaSeatsThatExist().keys())
 }
@@ -61,15 +56,6 @@ function factsOf(root: string, name: string): DirFacts | null {
 
 function gigabytes(bytes: number): string {
   return `${(bytes / 1024 ** 3).toFixed(2)} GB`
-}
-
-function keepDaysFrom(argv: readonly string[]): number | null {
-  const at = argv.indexOf("--keep-days")
-  if (at === -1) return DEFAULT_KEEP_DAYS
-  const raw = argv[at + 1]
-  if (raw === undefined) return null
-  const days = Number(raw)
-  return Number.isFinite(days) && days >= 0 ? days : null
 }
 
 function main(argv: readonly string[]): number {
