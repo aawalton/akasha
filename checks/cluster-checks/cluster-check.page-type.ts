@@ -30,7 +30,6 @@ export const clusterCheck = {
     "boolean-property/tree-sha",
     "cluster-check/checksum-annotation-substitution",
     "cluster-check/rr-server-module-in-client",
-    "cluster-check/service-dockerfiles-gitignored",
     "cluster-check/shellcheck",
     "cluster-check/spacing-scale",
     "cluster-check/start-script",
