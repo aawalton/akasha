@@ -1,4 +1,4 @@
-import type { Namespace } from "../namespace.page-type.ts"
+import type { Namespace } from "../../../command-system/namespaces/namespace.page-type.ts"
 
 export const modelGateway = {
   id: "01a07c0e-f3e6-7abc-9238-d49d16577a96",
