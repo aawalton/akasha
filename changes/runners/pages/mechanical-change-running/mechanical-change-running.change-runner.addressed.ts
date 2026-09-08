@@ -2,6 +2,9 @@ export type Changes = {
   "change-mechanical-file-content/add-page-property": Parameters<
     typeof import("../../../mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
+  "change-mechanical-file-content/add-property-record": Parameters<
+    typeof import("../../../mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.code.ts")["runChange"]
+  >[1]
   "change-mechanical-file-content/add-property-value": Parameters<
     typeof import("../../../mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts")["runChange"]
   >[1]

@@ -8,5 +8,6 @@ export const changeMechanicalFileContentAdd = {
   partSlugs: [
     "change-mechanical-file-content/add-page-property",
     "change-mechanical-file-content/add-property-value",
+    "change-mechanical-file-content/add-property-record",
   ],
 } as const satisfies Domain
