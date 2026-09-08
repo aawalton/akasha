@@ -266,7 +266,7 @@ test("a key held in a file naming an ending is written into the page", () => {
   expect("puts" in said && said.puts[0]?.content).toContain('completedTasks: "jsonl"')
 })
 
-const A_PORTRAIT_AT = "personas/ember/ember.persona.portrait.md"
+const A_PORTRAIT_AT = "personas/pages/ember/ember.persona.portrait.md"
 
 test("a body handed over for a file property is put at the file its ending names", () => {
   const said = foldedFor(ROOT, [
