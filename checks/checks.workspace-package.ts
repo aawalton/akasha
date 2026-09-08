@@ -9,6 +9,7 @@ export const checks = {
   partSlugs: [
     "module/body-not-utf8",
     "module/refusal-text",
+    "page-type/ast-grep-config",
     "page-type/code-check",
     "page-type/cluster-check",
     "page-type/model-check",
