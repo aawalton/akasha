@@ -22,7 +22,7 @@ import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
 import { absentAfter, orphaningIn, orphaningSaid } from "../orphaning/orphaning.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
-import { carriedOnto, carriesHeld } from "../path-moving/path-moving.module.code.ts"
+import { movedOnto, movesHeld } from "../path-moving/path-moving.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
 
 export type FileEdit = {
@@ -393,7 +393,7 @@ export async function landing(
     const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN)
     if (stale !== null) return { refusals: stale }
     const split = heldBack(root, changes)
-    const carrying = carriesHeld(
+    const carrying = movesHeld(
       carries,
       beforeOf(
         root,
@@ -413,7 +413,7 @@ export async function landing(
         split.committing.filter((one) => !lands.has(one.path))
       )
       const noted = indexed(root, changes, carrying.committing, before, keeping)
-      const back = carriedOnto(root, carries)
+      const back = movedOnto(root, carries)
       try {
         const then = wroteOnto(
           root,

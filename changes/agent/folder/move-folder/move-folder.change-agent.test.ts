@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { bodiesFrom } from "@akasha/command-system/edits-landing"
-import { carriedOnto } from "@akasha/command-system/path-moving"
+import { movedOnto } from "@akasha/command-system/path-moving"
 import { indexedRepo, pageOf, scratch } from "@akasha/indexes/indexing/testing"
 import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
@@ -95,7 +95,7 @@ test("a body that is not text moves with its bytes unchanged", async () => {
   const landed = `${INTO}/deep/held.png`
   const held = bodiesFrom(root, said)
   if ("why" in held) throw new Error(held.why)
-  carriedOnto(root, held.carries)
+  movedOnto(root, held.carries)
 
   expect(said.refused).toBeNull()
   expect(pathsIn(said)).toContain(landed)

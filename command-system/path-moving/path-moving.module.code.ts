@@ -6,20 +6,20 @@ export type FileMove = {
   readonly to: string
 }
 
-export type Carrying = {
+export type Moving = {
   readonly committing: readonly FileMove[]
   readonly uncommitted: readonly FileMove[]
 }
 
-export function carriesHeld(
+export function movesHeld(
   carries: readonly FileMove[],
   before: ReadonlyMap<string, Uint8Array | null>
-): Carrying {
+): Moving {
   const on = (one: FileMove): boolean => (before.get(one.from) ?? null) !== null
   return { committing: carries.filter(on), uncommitted: carries.filter((one) => !on(one)) }
 }
 
-export function carriedOnto(root: string, carries: readonly FileMove[]): () => undefined {
+export function movedOnto(root: string, carries: readonly FileMove[]): () => undefined {
   const gone: FileMove[] = []
   const back = (): undefined => {
     for (const one of [...gone].reverse()) renameSync(join(root, one.to), join(root, one.from))
