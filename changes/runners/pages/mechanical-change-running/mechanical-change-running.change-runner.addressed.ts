@@ -107,6 +107,9 @@ export type Changes = {
   "change-mechanical/move-file-page-property": Parameters<
     typeof import("../../../mechanical/file/move/move-file-page-property/move-file-page-property.change-mechanical.code.ts")["runChange"]
   >[1]
+  "change-mechanical/move-file-page-type": Parameters<
+    typeof import("../../../mechanical/file/move/move-file-page-type/move-file-page-type.change-mechanical.code.ts")["runChange"]
+  >[1]
   "change-mechanical/remove-file-code": Parameters<
     typeof import("../../../mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical.code.ts")["runChange"]
   >[1]
