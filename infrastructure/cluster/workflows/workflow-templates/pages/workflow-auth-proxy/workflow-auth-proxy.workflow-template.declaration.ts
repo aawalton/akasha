@@ -21,7 +21,7 @@ export default workflow("auth-proxy", {
     {
       ...applyRbac({
         name: "auth-proxy-apply-rbac",
-        rbacFile: "infrastructure/cluster/manifests/auth-proxy-rbac/auth-proxy-rbac.module.code.ts",
+        rbacFile: "infrastructure/auth-proxy/auth-proxy-rbac/auth-proxy-rbac.module.code.ts",
       }),
       dependsOn: ["auth-proxy-apply-namespace"],
     },

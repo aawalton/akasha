@@ -20,6 +20,7 @@ export const authProxy = {
     "module/session-identity",
     "module/ttl-cache",
     "module/ws-bridge",
+    "module/auth-proxy-rbac",
   ],
   invariants: [
     {
