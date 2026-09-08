@@ -4,7 +4,7 @@ import {
   placedAt,
   type SecretPage,
   secretPages,
-  valueOf,
+  secretValueOf,
 } from "../secret-placing/secret-placing.module.code.ts"
 
 const PREFIX = "[secret-saying]"
@@ -85,7 +85,7 @@ export function valuesFor(akasha: string, resource: string): Record<string, stri
     )
   }
   const values: Record<string, string> = {}
-  for (const one of held) values[one.key] = valueOf(akasha, one.page)
+  for (const one of held) values[one.key] = secretValueOf(akasha, one.page)
   return values
 }
 

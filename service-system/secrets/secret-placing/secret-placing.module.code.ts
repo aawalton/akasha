@@ -142,8 +142,7 @@ export function placedAt(pages: readonly SecretPage[]): ReadonlyMap<string, Secr
   return at
 }
 
-// biome-ignore lint/suspicious/noShadowRestrictedNames: a module export, never a property
-export function valueOf(akasha: string, page: SecretPage): string {
+export function secretValueOf(akasha: string, page: SecretPage): string {
   const sidecar = secretAt(page.relPath)
   if (sidecar === null) {
     throw new DeployRefused(`${page.relPath} is not a page, so no sops file names its value`)
@@ -208,7 +207,7 @@ export function placeSecrets(akasha: string, plan: Plan): Placing {
     if (keys.size === 0) continue
     const values: Record<string, string> = {}
     for (const key of [...keys].sort()) {
-      values[key] = valueOf(akasha, at.get(keyFor(name, key)) as SecretPage)
+      values[key] = secretValueOf(akasha, at.get(keyFor(name, key)) as SecretPage)
     }
     ran.push(
       runKubectlOn(
