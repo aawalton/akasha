@@ -108,7 +108,7 @@ export const clusterCheck = {
     "text-property/request-memory",
     "text-property/under",
     "module/retired",
-    "module/ts-tstl-this-void-self-drop",
+    "module/ts-this-void-self-drop",
   ],
   properties: [
     {

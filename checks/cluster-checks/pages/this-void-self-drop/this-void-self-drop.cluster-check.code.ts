@@ -18,7 +18,7 @@ import {
   resolveControlFamily,
   scanTstlThisVoidSelfDrop,
   type TstlThisVoidSelfDropFinding,
-} from "../../modules/ts-tstl-this-void-self-drop/ts-tstl-this-void-self-drop.module.code.ts"
+} from "../../modules/ts-this-void-self-drop/ts-this-void-self-drop.module.code.ts"
 import {
   exitOnResult,
   exitOnToolError,
