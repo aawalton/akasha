@@ -17,10 +17,6 @@ export const addFileCode = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path under no TypeScript name is refused here.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The body is written by the change this change reaches.",
     },
     {

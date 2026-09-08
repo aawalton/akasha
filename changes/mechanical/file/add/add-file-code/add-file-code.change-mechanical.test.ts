@@ -23,16 +23,6 @@ test("a code path is written by the change this change reaches", async () => {
   expect(said.edits).toEqual([{ kind: "add", path: at, content: BODY }])
 })
 
-test("a path under no TypeScript name is refused", async () => {
-  const root = indexedRepo()
-  const at = join(dirname(HELD_CODE), "notes.md")
-
-  const said = await runChange(worldIn(root), { at, body: BODY })
-
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${at}\` is under no TypeScript name, so this change writes nothing`)
-})
-
 test("a path named as TSX is written", async () => {
   const root = indexedRepo()
   const at = join(dirname(HELD_CODE), "fresh.module.code.tsx")
