@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { cpSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { said as git } from "@akasha/git/git-running"
@@ -394,18 +394,27 @@ const REPO: Readonly<Record<string, string>> = {
   [NAMER_CODE]: NAMER_BODY,
 }
 
+const BUILT: Record<string, string> = {}
+
 export function indexedRepo(named: Readonly<Record<string, string>> = {}): string {
-  const root = scratch.rootFor("akasha-indexed-")
-  git(root, ["init", "--quiet"])
-  git(root, ["config", "user.email", "held@nowhere"])
-  git(root, ["config", "user.name", "Held"])
-  for (const [at, body] of Object.entries({ ...declaringUnder(TREE), ...REPO, ...named })) {
-    put(root, at, body)
+  const key = JSON.stringify(Object.entries(named).sort())
+  let held = BUILT[key]
+  if (held === undefined) {
+    held = scratch.rootFor("akasha-indexed-")
+    git(held, ["init", "--quiet"])
+    git(held, ["config", "user.email", "held@nowhere"])
+    git(held, ["config", "user.name", "Held"])
+    for (const [at, body] of Object.entries({ ...declaringUnder(TREE), ...REPO, ...named })) {
+      put(held, at, body)
+    }
+    git(held, ["add", "-A"])
+    git(held, ["commit", "--quiet", "-m", "first"])
+    rebuiltWhole(held, join(held, TREE), true)
+    rebuiltWhole(held, join(held, TREE), true)
+    BUILT[key] = held
   }
-  git(root, ["add", "-A"])
-  git(root, ["commit", "--quiet", "-m", "first"])
-  rebuiltWhole(root, join(root, TREE), true)
-  rebuiltWhole(root, join(root, TREE), true)
+  const root = scratch.rootFor("akasha-indexed-")
+  cpSync(held, root, { recursive: true })
   return root
 }
 
