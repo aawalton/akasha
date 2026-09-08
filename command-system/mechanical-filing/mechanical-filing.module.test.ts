@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Given } from "../calling/calling.module.code.ts"
 import { TERMINAL } from "../piping/piping.module.test-fixtures.ts"
-import { filing } from "./mechanical-filing.module.code.ts"
+import { askedFor, filing } from "./mechanical-filing.module.code.ts"
 
 const GIVEN: Given = {
   root: "/repo",
@@ -10,6 +10,24 @@ const GIVEN: Given = {
   writer: null,
   agentId: null,
 }
+
+const AT = "akasha/one/one.held.ts"
+
+test("a body to write goes in through the change adding a file of any kind", () => {
+  const asked = askedFor([{ path: AT, body: new TextEncoder().encode("alpha\n") }])
+
+  expect(asked).toEqual({
+    asked: [{ at: "change-mechanical/add-file-of-any-kind", given: { at: AT, body: "alpha\n" } }],
+  })
+})
+
+test("a path to take away goes through the change removing a file", () => {
+  const asked = askedFor([{ path: AT, body: null }])
+
+  expect(asked).toEqual({
+    asked: [{ at: "change-mechanical-file/remove-file", given: { at: AT } }],
+  })
+})
 
 test("a refusal the reading answers with is passed back untouched", async () => {
   const said = await filing([], GIVEN, TERMINAL)

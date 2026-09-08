@@ -18,7 +18,7 @@ export const mechanicalFiling = {
     },
     {
       invariantKind: "departure",
-      statement: "A body to write goes in through the change adding a file.",
+      statement: "A body to write goes in through the change adding a file of any kind.",
     },
     {
       invariantKind: "departure",

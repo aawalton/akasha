@@ -8,7 +8,7 @@ import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import type { Piping } from "../piping/piping.module.code.ts"
 
-const PUT = "change-mechanical-file/add-file"
+const PUT = "change-mechanical/add-file-of-any-kind"
 
 const TAKE = "change-mechanical-file/remove-file"
 
