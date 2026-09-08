@@ -1,6 +1,10 @@
+import { dirname } from "node:path"
 import { lineOf, parsedAs } from "@akasha/code/code-source"
+import { partedIn } from "@akasha/pages/page-file-name"
+import type { Shadow } from "@akasha/pages/shadow"
 import ts from "typescript"
 import {
+  type Body,
   judgingEach,
   overEachText,
   TEXTS,
@@ -18,7 +22,9 @@ const UNNAMED = "an unnamed class"
 
 const DECLARED = ".d.ts"
 
-const RUNTIME_LIBRARY = ["lua-compiler/lualib/", "lua-compiler/lualibs/"]
+const RUNTIME_LIBRARY = "lua-runtime-library"
+
+const LUALIB = "lualib"
 
 type Found = {
   readonly named: string
@@ -99,18 +105,33 @@ function reasonFor(one: Found): string {
   return `${said} and declares no \`static ${DERIVED}\`, so it is no error boundary`
 }
 
-function heldByTheRuntimeLibrary(path: string): boolean {
-  return RUNTIME_LIBRARY.some((one) => path.includes(one))
+function heldByTheRuntimeLibrary(under: readonly string[], path: string): boolean {
+  if (partedIn(path)?.pageType === LUALIB) return true
+  return under.some((one) => path.startsWith(one))
 }
 
-function found(path: string, text: string): readonly string[] {
+function found(under: readonly string[], path: string, text: string): readonly string[] {
   if (path.endsWith(DECLARED)) return []
-  if (heldByTheRuntimeLibrary(path)) return []
+  if (heldByTheRuntimeLibrary(under, path)) return []
   return classesIn(path, text)
     .filter((one) => !permitted(one))
     .map(reasonFor)
 }
 
-export const reasonsIn = overEachText(found)
+export function reasonsOver(under: readonly string[]): (given: Body) => readonly string[] {
+  return overEachText((path, text) => found(under, path, text))
+}
 
-export const noClass = judgingEach(TEXTS, (given) => found(given.path, given.text))
+const LIBRARIES = new WeakMap<Shadow, readonly string[]>()
+
+function librariesIn(shadow: Shadow): readonly string[] {
+  const held = LIBRARIES.get(shadow)
+  if (held !== undefined) return held
+  const made = shadow.index.everyOfType(RUNTIME_LIBRARY).map((one) => `${dirname(one.path)}/`)
+  LIBRARIES.set(shadow, made)
+  return made
+}
+
+export const noClass = judgingEach(TEXTS, (given, shadow) =>
+  found(librariesIn(shadow), given.path, given.text)
+)

@@ -1,10 +1,14 @@
 import { expect, test } from "bun:test"
 import { bodiesIn } from "@akasha/testing-system/bodying"
-import { classesIn, reasonsIn } from "./no-class.code-check.code.ts"
+import { classesIn, reasonsOver } from "./no-class.code-check.code.ts"
 
 const ROOT = "/repo"
 
 const given = bodiesIn(ROOT)
+
+const LIBRARY = "language-design/lua-compiler/lualib/"
+
+const reasonsIn = reasonsOver([LIBRARY])
 
 const DERIVED = "  static getDerivedStateFromError(error: Error) {\n    return { error }\n  }\n"
 
@@ -140,7 +144,7 @@ test("a class a declaration file holds is let through, and the same body in a mo
 
 test("a class the lua runtime library holds is let through, and the same body elsewhere is not", () => {
   const body = "export class Held {}\n"
-  const src = "language-design/lua-compiler/lualib/src/Held.ts"
+  const src = `${LIBRARY}src/Held.ts`
   const page = "language-design/lua-compiler/lualibs/held/held.lualib.code.ts"
   const builder = "language-design/lua-compiler/lualib-builder/held.ts"
   expect(reasonsIn(given(src, body))).toEqual([])
@@ -150,7 +154,7 @@ test("a class the lua runtime library holds is let through, and the same body el
 
 test("a class expression the lua runtime library holds is let through too", () => {
   const body = "const one = class extends Error {}\n"
-  const src = "language-design/lua-compiler/lualib/src/Error.ts"
+  const src = `${LIBRARY}src/Error.ts`
   expect(reasonsIn(given(src, body))).toEqual([])
   expect(reasonsIn(given("akasha/held.ts", body))).toHaveLength(1)
 })
