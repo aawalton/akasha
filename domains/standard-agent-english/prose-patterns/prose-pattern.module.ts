@@ -33,8 +33,12 @@ export const prosePattern = {
       statement: "Which spellings are one word is the caller's to say.",
     },
     {
-      invariantKind: "gap",
-      statement: "A word written in the passive is read by nothing here.",
+      invariantKind: "departure",
+      statement: "A word in the passive that puts a thing somewhere is the same construction.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A `to` phrase names no place, so it binds the word rather than placing a thing.",
     },
   ],
 } as const satisfies Module

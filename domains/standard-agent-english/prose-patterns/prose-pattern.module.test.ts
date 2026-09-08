@@ -17,6 +17,8 @@ function sentenceOf(rows: readonly Row[]): DepSentence {
 
 const HOLD = new Set(["hold", "holds", "holding"])
 
+const HELD = new Set(["held"])
+
 test("a word with an object of its own is found", () => {
   const said = sentenceOf([
     ["A", "DET", 2, "det"],
@@ -87,6 +89,42 @@ test("a word bound to something by `to` and with no object is left alone", () =>
   ])
 
   expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a word in the passive that puts a thing somewhere is found", () => {
+  const said = sentenceOf([
+    ["Prose", "NOUN", 3, "nsubj:pass"],
+    ["is", "AUX", 3, "aux:pass"],
+    ["held", "VERB", 0, "root"],
+    ["in", "ADP", 5, "case"],
+    ["file", "NOUN", 3, "obl"],
+  ])
+
+  expect(foundIn(said, HELD).map((one) => one.frame)).toEqual(["placed"])
+})
+
+test("a word in the passive bound by `to` is left alone", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["tree", "NOUN", 4, "nsubj:pass"],
+    ["is", "AUX", 4, "aux:pass"],
+    ["held", "VERB", 0, "root"],
+    ["to", "ADP", 6, "case"],
+    ["release", "NOUN", 4, "obl"],
+  ])
+
+  expect(foundIn(said, HELD)).toEqual([])
+})
+
+test("a word in the passive that puts a thing nowhere is left alone", () => {
+  const said = sentenceOf([
+    ["Each", "DET", 2, "det"],
+    ["format", "NOUN", 4, "nsubj:pass"],
+    ["is", "AUX", 4, "aux:pass"],
+    ["held", "VERB", 0, "root"],
+  ])
+
+  expect(foundIn(said, HELD)).toEqual([])
 })
 
 test("a participle with an object is found as a participle", () => {

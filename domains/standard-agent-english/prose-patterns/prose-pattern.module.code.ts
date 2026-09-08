@@ -1,7 +1,7 @@
 import type { DepSentence, DepToken } from "@akasha/plain-language/dependency-graph"
-import { child, childrenByRel, lower } from "@akasha/plain-language/dependency-graph"
+import { child, childrenByRel, hasChild, lower } from "@akasha/plain-language/dependency-graph"
 
-export type Frame = "object" | "fronted" | "participle"
+export type Frame = "object" | "fronted" | "participle" | "placed"
 
 export type Found = {
   readonly at: number
@@ -32,19 +32,44 @@ const FRONTED_FRAME = "fronted"
 
 const PARTICIPLE_FRAME = "participle"
 
+const PLACED_FRAME = "placed"
+
+const PASSIVE = "aux:pass"
+
+const PLACES: ReadonlySet<string> = new Set([
+  "in",
+  "on",
+  "at",
+  "under",
+  "beside",
+  "inside",
+  "within",
+])
+
+function caseIs(sentence: DepSentence, one: DepToken, among: ReadonlySet<string>): boolean {
+  return childrenByRel(sentence, one.id, CASE).some((each) => among.has(lower(each)))
+}
+
 function boundTo(sentence: DepSentence, token: DepToken): boolean {
   return childrenByRel(sentence, token.id, OBLIQUE).some((one) =>
-    childrenByRel(sentence, one.id, CASE).some((each) => lower(each) === TO)
+    caseIs(sentence, one, new Set([TO]))
   )
+}
+
+function placedSomewhere(sentence: DepSentence, token: DepToken): boolean {
+  return childrenByRel(sentence, token.id, OBLIQUE).some((one) => caseIs(sentence, one, PLACES))
 }
 
 function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
   if (token.upos !== VERB) return null
   if (childrenByRel(sentence, token.id, PARTICLE).length > 0) return null
+  if (boundTo(sentence, token)) return null
+  if (hasChild(sentence, token.id, PASSIVE)) {
+    return placedSomewhere(sentence, token) ? PLACED_FRAME : null
+  }
   if (child(sentence, token.id, OBJECT) !== undefined) {
     return token.deprel === PARTICIPLE ? PARTICIPLE_FRAME : OBJECT_FRAME
   }
-  if (boundTo(sentence, token)) return null
   return token.deprel === RELATIVE ? FRONTED_FRAME : null
 }
 
