@@ -3,13 +3,11 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../../pages/properties/title.text-property.ts"
 import type { DayOfWeek } from "./properties/day-of-week.select-property.ts"
 import type { Focus } from "./properties/focus.select-property.ts"
-import type { ScheduleSlug } from "./properties/schedule-slug.relation-property.ts"
 
 export type ScheduleDay = Page & {
   title: Title
   dayOfWeek: DayOfWeek
   focus: Focus
-  scheduleSlug: ScheduleSlug
 }
 
 export const scheduleDay = {
@@ -19,25 +17,20 @@ export const scheduleDay = {
   definition: "one day of a training rotation, and what it trains",
   pluralSlug: "schedule-days",
   extendsSlug: ["page-type/page"],
-  partSlugs: [
-    "relation-property/schedule-slug",
-    "select-property/day-of-week",
-    "select-property/focus",
-  ],
+  partSlugs: ["select-property/day-of-week", "select-property/focus"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "select-property/day-of-week", required: true, many: false },
     { pagePropertySlug: "select-property/focus", required: true, many: false },
-    { pagePropertySlug: "relation-property/schedule-slug", required: true, many: false },
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A day names the schedule that day belongs to.",
+      statement: "A day states the weekday that day falls on and what that day trains.",
     },
     {
       invariantKind: "absence",
-      statement: "A schedule lists no day of its own.",
+      statement: "A day names no rotation the day belongs to.",
     },
   ],
 } as const satisfies PageType

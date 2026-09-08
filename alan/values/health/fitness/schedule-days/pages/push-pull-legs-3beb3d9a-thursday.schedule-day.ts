@@ -7,5 +7,4 @@ export const pushPullLegs3beb3d9aThursday = {
   title: "Thursday — push",
   dayOfWeek: "thursday",
   focus: "push",
-  scheduleSlug: "push-pull-legs-3beb3d9a",
 } as const satisfies ScheduleDay

@@ -12,7 +12,6 @@ export const fitness = {
     "page-type/mobility-reading",
     "page-type/schedule-day",
     "page-type/set-log",
-    "page-type/workout-schedule",
     "page-type/selection-policy",
   ],
 } as const satisfies Domain
