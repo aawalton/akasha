@@ -36,7 +36,7 @@ export const measureAttributes = {
     },
     {
       invariantKind: "departure",
-      statement: "A level is read from the levelling module rather than worked out here.",
+      statement: "A level is read from the attribute's level property rather than worked out here.",
     },
     {
       invariantKind: "departure",

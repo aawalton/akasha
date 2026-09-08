@@ -1,5 +1,5 @@
 import { asking } from "@akasha/pages-service/asking"
-import { levelOf } from "../../../../alan/harness/attributes/levelling/attributes-levelling.module.code.ts"
+import { levelOf } from "../../../../alan/attributes/properties/attribute-level.computed-property.code.ts"
 import type { Taken } from "../../../../alan/harness/attributes/reading/attributes-reading.module.code.ts"
 import { totalAttributes } from "../../../../alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
 import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"

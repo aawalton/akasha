@@ -1,10 +1,14 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { ComputedProperty } from "../../../pages/computed-properties/computed-property.page-type.ts"
 
-export const attributesLevelling = {
-  id: "01a078c1-e871-721c-bb31-4940b59e4afe",
-  pageTypeSlug: "module",
-  slug: "attributes-levelling",
-  definition: "the level an attribute's points have climbed to",
+export type AttributeLevel = number
+
+export const attributeLevel = {
+  id: "01a081cc-5b79-71ea-9492-1757bb05214d",
+  pageTypeSlug: "computed-property",
+  slug: "attribute-level",
+  propertySlug: "level",
+  definition: "the level an attribute's total points have climbed to",
+  holds: "number",
   code: "ts",
   test: "ts",
   invariants: [
@@ -49,6 +53,10 @@ export const attributesLevelling = {
       statement: "Points of zero or below are level 0.",
     },
     {
+      invariantKind: "departure",
+      statement: "An attribute carrying no total at all is level 0.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here adds up an attribute's points.",
     },
@@ -61,4 +69,4 @@ export const attributesLevelling = {
       statement: "Nothing here writes.",
     },
   ],
-} as const satisfies Module
+} as const satisfies ComputedProperty

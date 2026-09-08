@@ -20,6 +20,7 @@ export const attribute = {
   pluralSlug: "attributes",
   extendsSlug: ["page-type/domain"],
   partSlugs: [
+    "computed-property/attribute-level",
     "attribute/charisma",
     "attribute/constitution",
     "attribute/endurance",
@@ -37,7 +38,9 @@ export const attribute = {
     { pagePropertySlug: "number-property/lifetime-points", required: true, many: false },
     { pagePropertySlug: "number-property/points-today", required: false, many: false },
     { pagePropertySlug: "number-property/points-total", required: false, many: false },
+    { pagePropertySlug: "computed-property/attribute-level", required: false, many: false },
   ],
+  worked: "ts",
   invariants: [
     {
       invariantKind: "departure",

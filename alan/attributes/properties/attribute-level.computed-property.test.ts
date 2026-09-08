@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { levelOf, rungs } from "./attributes-levelling.module.code.ts"
+import { levelOf, rungs, work } from "./attribute-level.computed-property.code.ts"
 
 function firstRungs(count: number): readonly number[] {
   const held: number[] = []
@@ -9,6 +9,8 @@ function firstRungs(count: number): readonly number[] {
   }
   return held
 }
+
+const REACH = { target: () => null, naming: () => [] }
 
 test("the climb to each level costs ten times the next Fibonacci number", () => {
   expect(firstRungs(8)).toEqual([10, 20, 40, 70, 120, 200, 330, 540])
@@ -53,4 +55,12 @@ test("a level past the eighth rung is worked out rather than capped", () => {
   expect(levelOf(879)).toBe(8)
   expect(levelOf(880)).toBe(9)
   expect(levelOf(100000)).toBe(18)
+})
+
+test("an attribute carrying a total is worked to the level that total reached", () => {
+  expect(work({ pointsTotal: 70 }, REACH)).toBe(4)
+})
+
+test("an attribute carrying no total at all is level 0", () => {
+  expect(work({}, REACH)).toBe(0)
 })
