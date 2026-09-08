@@ -6,4 +6,15 @@ export const useCompletion = {
   slug: "use-completion",
   definition: "the completion a browser reads for one player",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "constraint",
+      statement:
+        "A query not naming `completion` under `files` answers that file's ending rather than its body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A completion that is not an object reads here as no completion.",
+    },
+  ],
 } as const satisfies Module

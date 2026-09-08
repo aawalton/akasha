@@ -89,9 +89,6 @@ function asAccountCompletion(value: unknown): AccountCompletion {
   return value as AccountCompletion
 }
 
-// A completion is a file beside its page, so a query that does not name `completion` under
-// `files` answers the four characters naming that file's ending rather than the body. An ending is
-// no object, so it reads here as no completion, which is what these three hooks answer with.
 function parseCharacterCompletion(value: unknown): CharacterCompletion | null {
   return isObject(value) ? asCharacterCompletion(value) : null
 }
