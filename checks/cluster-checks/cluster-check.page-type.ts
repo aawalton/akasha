@@ -170,6 +170,7 @@ export const clusterCheck = {
     "module/git-transport-credential",
     "module/guarded-resolve",
     "module/guarded-resolve-collection",
+    "module/guarded-resolve-scope",
   ],
   properties: [
     {
