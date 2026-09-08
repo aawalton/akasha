@@ -1,4 +1,5 @@
-import type { NodeId } from "@akasha/workflow-language/workflow-types"
+export type NodeId = string
+
 export const TEST_TYPES = ["unit", "property", "component"] as const
 export type TestType = (typeof TEST_TYPES)[number]
 
