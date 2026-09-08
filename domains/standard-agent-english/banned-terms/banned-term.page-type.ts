@@ -1,9 +1,11 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { Instead } from "../../taboo-terms/properties/instead.text-property.ts"
 import type { Term } from "../terms/term.page-type.ts"
+import type { ReplacementPatterns } from "./properties/replacement-patterns.record-property.ts"
 
 export type BannedTerm = Term & {
   instead: Instead
+  replacementPatterns?: ReplacementPatterns
 }
 
 export const bannedTerm = {
@@ -12,9 +14,22 @@ export const bannedTerm = {
   slug: "banned-term",
   definition: "one term akasha writes another term in place of",
   pluralSlug: "banned-terms",
-  partSlugs: ["text-property/instead"],
+  partSlugs: [
+    "text-property/instead",
+    "text-property/from-pattern",
+    "text-property/to-pattern",
+    "record-property/replacement-patterns",
+  ],
   extendsSlug: ["page-type/term"],
-  properties: [{ pagePropertySlug: "text-property/instead", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "text-property/instead", required: true, many: false },
+    {
+      pagePropertySlug: "record-property/replacement-patterns",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+  ],
   invariants: [
     {
       invariantKind: "departure",
