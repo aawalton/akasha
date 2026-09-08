@@ -23,7 +23,7 @@ export const changeFileContentOfAnyKind = {
     },
     {
       invariantKind: "departure",
-      statement: "Every other path is worked by the change judging nothing else.",
+      statement: "Every other path is worked by the change judging nothing beyond the passage.",
     },
     {
       invariantKind: "absence",
