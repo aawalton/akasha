@@ -51,11 +51,6 @@ export const theaChecksSystem = {
         "Thirteen are claimed: router-app declares server, sidebar-boot, placeholder-image, addon-bundle-image and site-icon, and every app states what it holds. Fourteen more of the same shape were missed by a classifier reading a fixed list of names. Six .gitignore, one per web app. Six tunnel-routes.ts, the property already on workspace-package but not on router-app. Two bunfig.toml, in alan/web and temper-web. Each wants a named file property and a line per app.",
     },
     {
-      statement: "Every ast-unused workspace config is claimed by a page.",
-      workingMemory:
-        "Eight ast-unused.<workspace>.config.json sit beside workspace-ts-files.module.code.ts, one per workspace and one unprefixed. Eight named-file properties would be absurd, so Alan's call is a page type with a page for each. domain/audit-ast-unused is already in code-system as their home. Held while a delegate writes the module pages, both reaching checks/cluster-checks and its page type's parts.",
-    },
-    {
       statement: "Every ast-grep rule is claimed by a page.",
       workingMemory:
         "sgconfig.yml and three rule files under checks/cluster-checks/pages/ast-grep. Alan's call is a page type with a page for each rule. Two modules read them already, ast-grep-configs and ast-grep-rules, so what a rule holds and what a config names are both written down. Held while a delegate writes the module pages, both reaching checks/cluster-checks and its page type's parts.",
