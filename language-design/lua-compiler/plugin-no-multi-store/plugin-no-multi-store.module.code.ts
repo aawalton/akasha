@@ -7,7 +7,7 @@ function isMultiReturnType(type: ts.Type): boolean {
   if (type.isUnion()) {
     return type.types.some(isMultiReturnType)
   }
-  return !!type.getProperty("__tstlMultiReturn")
+  return !!type.getProperty("__luaMultiReturn")
 }
 
 function makeDiagnostic(file: ts.SourceFile, node: ts.Node, typeStr: string): ts.Diagnostic {
