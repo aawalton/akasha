@@ -96,13 +96,13 @@ function saidWrongIn(argv: readonly string[]): string | null {
 
 function compiled(
   root: string,
-  tstl: string,
+  compiler: string,
   config: string,
   name: string,
   bundle: string,
   left: number
 ): Built {
-  const answered = ran(compilerCommand(tstl, config), { cwd: root, timeout: left })
+  const answered = ran(compilerCommand(compiler, config), { cwd: root, timeout: left })
   const lines = `${answered.out}\n${answered.err}`.split("\n").map((one) => one.trim())
   return {
     name,
