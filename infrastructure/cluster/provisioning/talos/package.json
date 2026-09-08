@@ -8,7 +8,7 @@
     "./talos-build-volumes": "./talos-build-volumes/talos-build-volumes.module.code.ts",
     "./talos-emit-yaml": "./talos-emit-yaml/talos-emit-yaml.module.code.ts",
     "./talos-factory": "./talos-factory/talos-factory.module.code.ts",
-    "./talos-nodes": "./talos-nodes/talos-nodes.module.code.ts",
+    "./nodes": "./nodes/nodes.module.code.ts",
     "./paths": "./paths/paths.module.code.ts",
     "./talos-registry-ca": "./talos-registry-ca/talos-registry-ca.module.code.ts",
     "./talos-schema": "./talos-schema/talos-schema.module.code.ts",
