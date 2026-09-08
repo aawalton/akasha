@@ -10,6 +10,12 @@ import { intelligenceIn } from "../../../attributes/pages/intelligence.attribute
 import { strengthIn } from "../../../attributes/pages/strength.attribute.code.ts"
 import { wisdomIn } from "../../../attributes/pages/wisdom.attribute.code.ts"
 import { keepPointsToday } from "../../../attributes/points/attribute-points.module.code.ts"
+import { attributeCharisma } from "../../../attributes/readouts/attribute-charisma/attribute-charisma.readout.ts"
+import { attributeConstitution } from "../../../attributes/readouts/attribute-constitution/attribute-constitution.readout.ts"
+import { attributeEndurance } from "../../../attributes/readouts/attribute-endurance/attribute-endurance.readout.ts"
+import { attributeIntelligence } from "../../../attributes/readouts/attribute-intelligence/attribute-intelligence.readout.ts"
+import { attributeStrength } from "../../../attributes/readouts/attribute-strength/attribute-strength.readout.ts"
+import { attributeWisdom } from "../../../attributes/readouts/attribute-wisdom/attribute-wisdom.readout.ts"
 import {
   wakeDayOf,
   wakeDayWindow,
@@ -91,12 +97,12 @@ async function constitutionOf(now: Date): Promise<number> {
 }
 
 export const ATTRIBUTE_OF: Readonly<Record<string, string>> = {
-  [STRENGTH_PAGE]: "strength",
-  [ENDURANCE_PAGE]: "endurance",
-  [CONSTITUTION_PAGE]: "constitution",
-  [WISDOM_PAGE]: "wisdom",
-  [INTELLIGENCE_PAGE]: "intelligence",
-  [CHARISMA_PAGE]: "charisma",
+  [STRENGTH_PAGE]: attributeStrength.attributeSlug,
+  [ENDURANCE_PAGE]: attributeEndurance.attributeSlug,
+  [CONSTITUTION_PAGE]: attributeConstitution.attributeSlug,
+  [WISDOM_PAGE]: attributeWisdom.attributeSlug,
+  [INTELLIGENCE_PAGE]: attributeIntelligence.attributeSlug,
+  [CHARISMA_PAGE]: attributeCharisma.attributeSlug,
 }
 
 const OFF_THE_DAY = [
