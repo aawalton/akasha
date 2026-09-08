@@ -15,7 +15,6 @@
     "./orphan-resource-audit": "./orphan-resource-audit/orphan-resource-audit.module.code.ts",
     "./orphan-resource-listing": "./orphan-resource-listing/orphan-resource-listing.module.code.ts",
     "./orphan-sweep-notice": "./orphan-sweep-notice/orphan-sweep-notice.module.code.ts",
-    "./pgbouncer-exporter-manifests": "./pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.code.ts",
     "./postgres-exporter-manifests": "./postgres-exporter-manifests/postgres-exporter-manifests.module.code.ts",
     "./prometheus-constants": "./prometheus-constants/prometheus-constants.module.code.ts",
     "./prometheus-manifests": "./prometheus-manifests/prometheus-manifests.module.code.ts",

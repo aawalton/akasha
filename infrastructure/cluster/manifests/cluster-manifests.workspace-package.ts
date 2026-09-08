@@ -25,7 +25,6 @@ export const clusterManifests = {
     "module/orphan-resource-listing",
     "module/orphan-sweep-notice",
     "module/orphan-sweeping",
-    "module/pgbouncer-exporter-manifests",
     "module/postgres-exporter-manifests",
     "module/prometheus-config",
     "module/prometheus-constants",
