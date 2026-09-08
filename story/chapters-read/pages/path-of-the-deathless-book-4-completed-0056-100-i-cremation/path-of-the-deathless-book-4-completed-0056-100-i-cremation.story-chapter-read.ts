@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0056100ICremation = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0056-100-i-cremation",
   title: "100 (I)  Cremation",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 56,
   ownLength: 0,
   unitSlug: "words",

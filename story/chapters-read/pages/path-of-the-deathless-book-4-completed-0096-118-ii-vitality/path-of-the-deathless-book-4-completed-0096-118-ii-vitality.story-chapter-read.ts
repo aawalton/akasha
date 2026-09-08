@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0096118IiVitality = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0096-118-ii-vitality",
   title: "118 (II) Vitality",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 96,
   ownLength: 0,
   unitSlug: "words",

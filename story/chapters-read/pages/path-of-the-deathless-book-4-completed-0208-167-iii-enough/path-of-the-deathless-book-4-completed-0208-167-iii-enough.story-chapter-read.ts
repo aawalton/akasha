@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0208167IiiEnough = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0208-167-iii-enough",
   title: "167 (III) Enough",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 208,
   ownLength: 0,
   unitSlug: "words",

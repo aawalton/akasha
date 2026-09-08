@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0153147IConfessions = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0153-147-i-confessions",
   title: "147 (I)  Confessions",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 153,
   ownLength: 0,
   unitSlug: "words",

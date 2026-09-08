@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0056146ICompromised2646862 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0056-146-i-compromised-2646862",
   title: "146 (I) Compromised",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 56,
   ownLength: 3704,
   unitSlug: "words",

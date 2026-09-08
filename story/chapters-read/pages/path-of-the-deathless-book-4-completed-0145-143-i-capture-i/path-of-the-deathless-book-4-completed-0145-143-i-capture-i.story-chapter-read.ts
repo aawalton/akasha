@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0145143ICaptureI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0145-143-i-capture-i",
   title: "143 (I)  Capture [I] ",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 145,
   ownLength: 0,
   unitSlug: "words",

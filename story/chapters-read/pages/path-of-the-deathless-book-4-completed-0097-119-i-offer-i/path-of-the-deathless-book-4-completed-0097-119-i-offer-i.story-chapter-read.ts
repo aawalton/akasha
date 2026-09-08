@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0097119IOfferI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0097-119-i-offer-i",
   title: "119 (I)   Offer [I] ",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 97,
   ownLength: 0,
   unitSlug: "words",

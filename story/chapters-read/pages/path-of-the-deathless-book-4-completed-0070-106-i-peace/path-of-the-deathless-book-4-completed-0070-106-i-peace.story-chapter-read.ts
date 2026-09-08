@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0070106IPeace = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0070-106-i-peace",
   title: "106 (I) Peace",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 70,
   ownLength: 0,
   unitSlug: "words",

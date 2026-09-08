@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0068105IPersuasion = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0068-105-i-persuasion",
   title: "105 (I) Persuasion",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 68,
   ownLength: 0,
   unitSlug: "words",

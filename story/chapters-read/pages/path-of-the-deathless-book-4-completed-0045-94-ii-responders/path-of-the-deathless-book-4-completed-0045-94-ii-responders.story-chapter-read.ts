@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed004594IiResponders = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0045-94-ii-responders",
   title: "94 (II) Responders",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 45,
   ownLength: 0,
   unitSlug: "words",

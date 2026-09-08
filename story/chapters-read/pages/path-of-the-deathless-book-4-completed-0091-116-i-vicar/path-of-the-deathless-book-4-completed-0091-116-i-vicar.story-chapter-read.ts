@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0091116IVicar = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0091-116-i-vicar",
   title: "116 (I)   Vicar",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 91,
   ownLength: 0,
   unitSlug: "words",

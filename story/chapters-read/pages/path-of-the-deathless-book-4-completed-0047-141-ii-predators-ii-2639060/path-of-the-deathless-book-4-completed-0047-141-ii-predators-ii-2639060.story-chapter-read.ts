@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0047141IiPredatorsIi2639060 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0047-141-ii-predators-ii-2639060",
   title: "141 (II)  Predators [II]",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 47,
   ownLength: 2813,
   unitSlug: "words",
