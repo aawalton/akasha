@@ -43,7 +43,7 @@ export const catalogSidecars = {
     },
     {
       invariantKind: "departure",
-      statement: "A page holding no rows of a property answers the empty table its shape declares.",
+      statement: "A page with no rows of a property answers the empty table its shape declares.",
     },
     {
       invariantKind: "departure",

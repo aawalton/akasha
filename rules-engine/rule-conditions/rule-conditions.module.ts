@@ -9,7 +9,7 @@ export const ruleConditions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A match with no `# Match` heading holds no conditions.",
+      statement: "A match with no `# Match` heading has no conditions.",
     },
     {
       invariantKind: "departure",

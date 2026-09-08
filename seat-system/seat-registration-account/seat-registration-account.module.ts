@@ -9,11 +9,11 @@ export const seatRegistrationAccount = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat's account is whatever text its page holds under the account key.",
+      statement: "A seat's account is whatever text its page has under the account key.",
     },
     {
       invariantKind: "departure",
-      statement: "A page holding no such text gives no account.",
+      statement: "A page with no such text gives no account.",
     },
     {
       invariantKind: "departure",

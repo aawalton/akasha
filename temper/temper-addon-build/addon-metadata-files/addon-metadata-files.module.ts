@@ -10,15 +10,15 @@ export const addonMetadataFiles = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The keybinds file is named by the page property holding the keybinds.",
+      statement: "The keybinds file is named by the page property with the keybinds.",
     },
     {
       invariantKind: "departure",
-      statement: "An akasha addon holds its keybinds beside the page.",
+      statement: "An akasha addon has its keybinds beside the page.",
     },
     {
       invariantKind: "departure",
-      statement: "A game addon holds its keybinds under a metadata folder.",
+      statement: "A game addon has its keybinds under a metadata folder.",
     },
     {
       invariantKind: "constraint",

@@ -25,7 +25,7 @@ export const site = {
     },
     {
       invariantKind: "departure",
-      statement: "A chapter's position is the place the chapter holds in the table of contents.",
+      statement: "A chapter's position is the place the chapter has in the table of contents.",
     },
   ],
 } as const satisfies Module

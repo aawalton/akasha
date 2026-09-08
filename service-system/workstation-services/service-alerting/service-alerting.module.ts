@@ -14,7 +14,7 @@ export const serviceAlerting = {
     },
     {
       invariantKind: "departure",
-      statement: "A page is climbed by the domain holding it until a champion is reached.",
+      statement: "A page is climbed by the domain with it until a champion is reached.",
     },
     {
       invariantKind: "departure",

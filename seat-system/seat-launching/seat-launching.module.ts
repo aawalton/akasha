@@ -97,7 +97,7 @@ export const seatLaunching = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here stops a seat or takes the page the seat holds.",
+      statement: "Nothing here stops a seat or takes the page the seat has.",
     },
     {
       invariantKind: "gap",

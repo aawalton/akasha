@@ -10,7 +10,7 @@ export const routeAccess = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A route opens only to a person holding an access naming the route.",
+      statement: "A route opens only to a person with an access naming the route.",
     },
     {
       invariantKind: "departure",

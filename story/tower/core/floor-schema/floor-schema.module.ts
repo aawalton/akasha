@@ -17,7 +17,7 @@ export const floorSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A floor holding neither rooms nor encounters is still a floor.",
+      statement: "A floor with neither rooms nor encounters is still a floor.",
     },
   ],
 } as const satisfies Module

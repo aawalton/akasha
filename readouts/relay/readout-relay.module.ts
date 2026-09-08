@@ -28,11 +28,11 @@ export const readoutRelay = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading arriving is held in memory rather than in a file.",
+      statement: "A reading arriving is in memory rather than in a file.",
     },
     {
       invariantKind: "departure",
-      statement: "A machine that starts again holds no reading.",
+      statement: "A machine that starts again has no reading.",
     },
     {
       invariantKind: "departure",

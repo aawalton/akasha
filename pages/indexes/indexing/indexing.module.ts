@@ -46,7 +46,7 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "A body a file property holds is never loaded.",
+      statement: "A body a file property has is never loaded.",
     },
     {
       invariantKind: "departure",
@@ -96,7 +96,7 @@ export const indexing = {
     {
       invariantKind: "departure",
       statement:
-        "A change turning which files a page type holds files every page already of that page type.",
+        "A change turning which files a page type has files every page already of that page type.",
     },
     {
       invariantKind: "departure",

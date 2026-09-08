@@ -27,7 +27,7 @@ export const jsonEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "The text answered is the one the named key holds where that key holds a string.",
+      statement: "The text answered is the one the named key has where that key has a string.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const jsonEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "The body's own top-level object is answered apart from any key it holds.",
+      statement: "The body's own top-level object is answered apart from any key it has.",
     },
     {
       invariantKind: "departure",

@@ -20,7 +20,7 @@ export const syncing = {
     {
       invariantKind: "departure",
       statement:
-        "A chapter holding no prose once the trailing navigation is stripped is left rather than filed empty.",
+        "A chapter with no prose once the trailing navigation is stripped is left rather than filed empty.",
     },
     {
       invariantKind: "departure",

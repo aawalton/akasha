@@ -23,11 +23,11 @@ export const failingAlone = {
     },
     {
       invariantKind: "departure",
-      statement: "A run holding a failure writes every healthy file anyway.",
+      statement: "A run with a failure writes every healthy file anyway.",
     },
     {
       invariantKind: "departure",
-      statement: "A run holding a failure fails.",
+      statement: "A run with a failure fails.",
     },
   ],
 } as const satisfies Module

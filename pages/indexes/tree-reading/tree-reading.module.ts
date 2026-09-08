@@ -4,7 +4,7 @@ export const treeReading = {
   id: "01a07220-6ee3-7c98-b086-7e3b497e8b41",
   pageTypeSlug: "module",
   slug: "tree-reading",
-  definition: "the files under a tree, and the folders holding no page of this repository's own",
+  definition: "the files under a tree, and the folders with no page of this repository's own",
   code: "ts",
   test: "ts",
   invariants: [
@@ -26,7 +26,7 @@ export const treeReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing left out of the tree holds a page of this repository's own.",
+      statement: "Nothing left out of the tree has a page of this repository's own.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const treeReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder deeper down carrying that name holds pages.",
+      statement: "A folder deeper down carrying that name has pages.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const treeReading = {
     },
     {
       invariantKind: "departure",
-      statement: "`.server/` under a router app holds module pages a dot rule would drop.",
+      statement: "`.server/` under a router app has module pages a dot rule would drop.",
     },
     {
       invariantKind: "departure",

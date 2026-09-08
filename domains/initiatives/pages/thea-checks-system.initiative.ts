@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
-        "Cluster-checks 32 down to 2, eight ported, twenty-five ablated. Left are checksum-annotation-substitution behind intent 10 and syntax-bundle, whose registry holds 12 entries: component-layout and popover-viewport-safety unreviewed, nine covered by a live syntax rule already. A dead check can be wrong in its own favour, and can name a population it never judged: property-callback-self spoke of ZO_ callers and read a tree holding none, the addons compiling with noImplicitSelf.",
+        "Cluster-checks 32 down to 2, eight ported, twenty-five ablated. Left are checksum-annotation-substitution behind intent 10 and syntax-bundle, whose registry has 12 entries: component-layout and popover-viewport-safety unreviewed, nine covered by a live syntax rule already. A dead check can be wrong in its own favour, and can name a population it never judged: property-callback-self spoke of ZO_ callers and read a tree holding none, the addons compiling with noImplicitSelf.",
     },
     { statement: "The old system carries no check of its own." },
     { statement: "No finding is filed on checks-system or any part beneath it." },

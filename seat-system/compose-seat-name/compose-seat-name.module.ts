@@ -4,7 +4,7 @@ export const composeSeatName = {
   id: "01a06949-b281-7447-ab77-9ecbb5f9f139",
   pageTypeSlug: "module",
   slug: "compose-seat-name",
-  definition: "the name a seat goes by, spelled from the attributes the seat holds",
+  definition: "the name a seat goes by, spelled from the attributes the seat has",
   code: "ts",
   invariants: [
     {

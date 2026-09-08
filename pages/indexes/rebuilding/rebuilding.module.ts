@@ -19,7 +19,7 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A file already holding the lines the pages imply is left alone.",
+      statement: "A file already with the lines the pages imply is left alone.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A filing holding no line is answered as a path carrying no body.",
+      statement: "A filing with no line is answered as a path carrying no body.",
     },
     {
       invariantKind: "departure",

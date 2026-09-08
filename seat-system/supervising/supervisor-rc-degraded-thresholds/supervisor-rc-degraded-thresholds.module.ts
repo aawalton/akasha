@@ -15,7 +15,7 @@ export const supervisorRcDegradedThresholds = {
     },
     {
       invariantKind: "departure",
-      statement: "A threshold stated in seconds is held in milliseconds.",
+      statement: "A threshold stated in seconds is in milliseconds.",
     },
   ],
 } as const satisfies Module

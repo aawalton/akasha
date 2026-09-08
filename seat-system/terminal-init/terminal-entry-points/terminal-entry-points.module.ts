@@ -32,7 +32,7 @@ export const terminalEntryPoints = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat begins in the folder holding the checkouts rather than in the checkout.",
+      statement: "A seat begins in the folder with the checkouts rather than in the checkout.",
     },
     {
       invariantKind: "departure",

@@ -54,7 +54,7 @@ export const addonLoadOrder = {
     },
     {
       invariantKind: "departure",
-      statement: "Markup is listed only where the addon's metadata folder holds that markup.",
+      statement: "Markup is listed only where the addon's metadata folder has that markup.",
     },
   ],
 } as const satisfies Module

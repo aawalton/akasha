@@ -10,7 +10,7 @@ export const readoutServing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A route serving this answer holds the wiring and no part of the answering.",
+      statement: "A route serving this answer has the wiring and no part of the answering.",
     },
     {
       invariantKind: "departure",

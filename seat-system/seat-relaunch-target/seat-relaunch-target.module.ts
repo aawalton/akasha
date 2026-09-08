@@ -17,7 +17,7 @@ export const seatRelaunchTarget = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat remembered only from history is absent and holds no session.",
+      statement: "A seat remembered only from history is absent and has no session.",
     },
     {
       invariantKind: "departure",

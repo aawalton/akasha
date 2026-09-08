@@ -18,7 +18,7 @@ export const pageEntryLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A file already holding the text that would be written is left alone.",
+      statement: "A file already with the text that would be written is left alone.",
     },
     {
       invariantKind: "departure",
@@ -89,7 +89,7 @@ export const pageEntryLanding = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing here holds a lock against another writer of the same file.",
+      statement: "Nothing here has a lock against another writer of the same file.",
     },
   ],
 } as const satisfies Module

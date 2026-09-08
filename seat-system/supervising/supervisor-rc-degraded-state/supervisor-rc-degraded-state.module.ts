@@ -14,7 +14,7 @@ export const supervisorRcDegradedState = {
     },
     {
       invariantKind: "departure",
-      statement: "A latch holding no time is a seat nothing has been alerted about.",
+      statement: "A latch with no time is a seat nothing has been alerted about.",
     },
   ],
 } as const satisfies Module

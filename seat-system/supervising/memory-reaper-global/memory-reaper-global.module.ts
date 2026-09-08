@@ -22,7 +22,7 @@ export const memoryReaperGlobal = {
     },
     {
       invariantKind: "departure",
-      statement: "The largest single process is taken only where no tree holds anything.",
+      statement: "The largest single process is taken only where no tree has anything.",
     },
     {
       invariantKind: "departure",

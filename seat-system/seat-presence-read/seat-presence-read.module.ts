@@ -9,7 +9,7 @@ export const seatPresenceRead = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An agent akasha holds no seat page for is absent.",
+      statement: "An agent akasha has no seat page for is absent.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const seatPresenceRead = {
     },
     {
       invariantKind: "departure",
-      statement: "The agents akasha holds a seat for are listed in sorted order.",
+      statement: "The agents akasha has a seat for are listed in sorted order.",
     },
     {
       invariantKind: "departure",

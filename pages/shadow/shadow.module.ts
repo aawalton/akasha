@@ -78,7 +78,7 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "That face is bound to the reading the shadow holds.",
+      statement: "That face is bound to the reading the shadow has.",
     },
     {
       invariantKind: "departure",
@@ -111,11 +111,11 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement:
-        "The shadow lies over the committed index and holds only the entry files the change touches.",
+        "The shadow lies over the committed index and has only the entry files the change touches.",
     },
     {
       invariantKind: "departure",
-      statement: "A body that must be loaded is reached at the path on disk holding the body.",
+      statement: "A body that must be loaded is reached at the path on disk with the body.",
     },
     {
       invariantKind: "departure",
@@ -127,7 +127,7 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the change does not carry holds its own body.",
+      statement: "A path the change does not carry has its own body.",
     },
     {
       invariantKind: "departure",

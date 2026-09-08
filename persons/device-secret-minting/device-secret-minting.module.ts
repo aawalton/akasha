@@ -4,7 +4,7 @@ export const deviceSecretMinting = {
   id: "01a05b54-a906-71e9-a3de-4d27766113e0",
   pageTypeSlug: "module",
   slug: "device-secret-minting",
-  definition: "whether a device mints a secret or keeps the one it holds",
+  definition: "whether a device mints a secret or keeps the one it has",
   code: "ts",
   test: "ts",
   invariants: [
@@ -15,15 +15,15 @@ export const deviceSecretMinting = {
     },
     {
       invariantKind: "departure",
-      statement: "A device holding its secret in the pinned domain mints no secret.",
+      statement: "A device with its secret in the pinned domain mints no secret.",
     },
     {
       invariantKind: "departure",
-      statement: "A device holding its secret only in the default domain mints one.",
+      statement: "A device with its secret only in the default domain mints one.",
     },
     {
       invariantKind: "departure",
-      statement: "A device that did not say which domain holds its secret mints a secret.",
+      statement: "A device that did not say which domain has its secret mints a secret.",
     },
     {
       invariantKind: "departure",
@@ -47,11 +47,11 @@ export const deviceSecretMinting = {
     },
     {
       invariantKind: "departure",
-      statement: "A device the route admits keeps the secret that device holds.",
+      statement: "A device the route admits keeps the secret that device has.",
     },
     {
       invariantKind: "departure",
-      statement: "A device the route left unanswered keeps the secret that device holds.",
+      statement: "A device the route left unanswered keeps the secret that device has.",
     },
     {
       invariantKind: "departure",

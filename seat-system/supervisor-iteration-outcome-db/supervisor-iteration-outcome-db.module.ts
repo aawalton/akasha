@@ -23,7 +23,7 @@ export const supervisorIterationOutcomeDb = {
     },
     {
       invariantKind: "departure",
-      statement: "A call being waited on never holds the process open.",
+      statement: "A call being waited on never has the process open.",
     },
     {
       invariantKind: "departure",

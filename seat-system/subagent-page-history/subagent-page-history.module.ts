@@ -23,7 +23,7 @@ export const subagentPageHistory = {
     },
     {
       invariantKind: "departure",
-      statement: "A path git holds no commit writing is answered as nothing.",
+      statement: "A path git has no commit writing is answered as nothing.",
     },
     {
       invariantKind: "departure",

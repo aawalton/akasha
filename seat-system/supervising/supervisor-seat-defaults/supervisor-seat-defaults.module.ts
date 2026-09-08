@@ -17,7 +17,7 @@ export const supervisorSeatDefaults = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat already holding every default is left alone.",
+      statement: "A seat already with every default is left alone.",
     },
   ],
 } as const satisfies Module

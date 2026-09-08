@@ -4,7 +4,7 @@ export const pageFileName = {
   id: "01a04e3b-cd68-7be9-bd0f-a4ff61fa0c05",
   pageTypeSlug: "module",
   slug: "page-file-name",
-  definition: "what a file's name says about the page it holds or sits beside",
+  definition: "what a file's name says about the page it has or sits beside",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -27,7 +27,7 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "The last part is the form the file holds.",
+      statement: "The last part is the form the file has.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "The form a property's file holds is read as written.",
+      statement: "The form a property's file has is read as written.",
     },
     {
       invariantKind: "departure",
@@ -79,7 +79,7 @@ export const pageFileName = {
     {
       invariantKind: "departure",
       statement:
-        "A file whose only section is `uncommitted` holds the uncommitted values of that file's page.",
+        "A file whose only section is `uncommitted` has the uncommitted values of that file's page.",
     },
     {
       invariantKind: "departure",
@@ -93,7 +93,7 @@ export const pageFileName = {
     {
       invariantKind: "departure",
       statement:
-        "A file whose section list ends in `uncommitted` holds a property that is not committed.",
+        "A file whose section list ends in `uncommitted` has a property that is not committed.",
     },
     {
       invariantKind: "departure",
@@ -101,7 +101,7 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "A file whose only section is `sops` holds the secret values of that file's page.",
+      statement: "A file whose only section is `sops` has the secret values of that file's page.",
     },
     {
       invariantKind: "departure",
@@ -109,7 +109,7 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "One sops file holds every secret a page carries.",
+      statement: "One sops file has every secret a page carries.",
     },
     {
       invariantKind: "departure",

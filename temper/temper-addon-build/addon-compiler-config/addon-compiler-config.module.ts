@@ -4,18 +4,18 @@ export const addonCompilerConfig = {
   id: "01a060ed-2e23-72af-af9e-fc35df5b70c3",
   pageTypeSlug: "module",
   slug: "addon-compiler-config",
-  definition: "the transpiler settings a build reads for an addon whose folder holds no tsconfig",
+  definition: "the transpiler settings a build reads for an addon whose folder has no tsconfig",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An addon folder holding a tsconfig is built from the tsconfig held there.",
+      statement: "An addon folder with a tsconfig is built from the tsconfig held there.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An addon folder holding no tsconfig is built from settings written into the build output.",
+        "An addon folder with no tsconfig is built from settings written into the build output.",
     },
     {
       invariantKind: "departure",
@@ -23,11 +23,11 @@ export const addonCompilerConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "The written settings reach every module code file the addon folder holds.",
+      statement: "The written settings reach every module code file the addon folder has.",
     },
     {
       invariantKind: "departure",
-      statement: "The written settings reach every declaration the addon folder holds.",
+      statement: "The written settings reach every declaration the addon folder has.",
     },
     {
       invariantKind: "departure",

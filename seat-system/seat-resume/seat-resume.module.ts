@@ -39,12 +39,11 @@ export const seatResume = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A seat holding a session is respawned in place so its attached terminals are kept.",
+      statement: "A seat with a session is respawned in place so its attached terminals are kept.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat holding no session is killed and launched again.",
+      statement: "A seat with no session is killed and launched again.",
     },
     {
       invariantKind: "departure",

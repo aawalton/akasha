@@ -11,7 +11,7 @@ export const besideTurning = {
     {
       invariantKind: "departure",
       statement:
-        "A page type is turned where the files that page type holds beside its pages differ.",
+        "A page type is turned where the files that page type has beside its pages differ.",
     },
     {
       invariantKind: "departure",

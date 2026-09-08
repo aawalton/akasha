@@ -33,7 +33,7 @@ export const globalNameDependents = {
     },
     {
       invariantKind: "departure",
-      statement: "A comment in XML holds no read.",
+      statement: "A comment in XML has no read.",
     },
     {
       invariantKind: "departure",

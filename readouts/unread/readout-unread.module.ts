@@ -11,7 +11,7 @@ export const readoutUnread = {
     {
       invariantKind: "constraint",
       statement:
-        "A group can hold exactly the right number of lights and no reading behind those lights.",
+        "A group can have exactly the right number of lights and no reading behind those lights.",
     },
     {
       invariantKind: "constraint",
@@ -64,7 +64,7 @@ export const readoutUnread = {
     },
     {
       invariantKind: "constraint",
-      statement: "The relay holds its readings in memory alone.",
+      statement: "The relay has its readings in memory alone.",
     },
     {
       invariantKind: "departure",

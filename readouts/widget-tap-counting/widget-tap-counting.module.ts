@@ -14,7 +14,7 @@ export const widgetTapCounting = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller holding a clone of the tree has no index to find a widget's file by.",
+      statement: "A caller with a clone of the tree has no index to find a widget's file by.",
     },
     {
       invariantKind: "departure",

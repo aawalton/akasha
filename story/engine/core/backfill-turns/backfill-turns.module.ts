@@ -15,7 +15,7 @@ export const backfillTurns = {
     },
     {
       invariantKind: "departure",
-      statement: "Beats sharing a turn number are joined in the order the log holds those beats.",
+      statement: "Beats sharing a turn number are joined in the order the log has those beats.",
     },
     {
       invariantKind: "departure",

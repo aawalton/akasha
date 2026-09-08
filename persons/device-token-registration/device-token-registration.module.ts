@@ -5,7 +5,7 @@ export const deviceTokenRegistration = {
   pageTypeSlug: "module",
   slug: "device-token-registration",
   definition:
-    "the push token a device is reached at, kept against whoever holds it and read back to reach them",
+    "the push token a device is reached at, kept against whoever has it and read back to reach them",
   code: "ts",
   invariants: [
     {

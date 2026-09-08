@@ -18,7 +18,7 @@ export const supervisorSelfHealInstall = {
     },
     {
       invariantKind: "departure",
-      statement: "A lock file holds that install.",
+      statement: "A lock file has that install.",
     },
     {
       invariantKind: "departure",

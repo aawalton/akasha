@@ -15,7 +15,7 @@ export const storePageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A page the store does not hold is answered absent rather than refused.",
+      statement: "A page the store does not have is answered absent rather than refused.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const storePageAsking = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds an answer for a later question.",
+      statement: "Nothing here has an answer for a later question.",
     },
   ],
 } as const satisfies Module

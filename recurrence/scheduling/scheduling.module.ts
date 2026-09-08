@@ -4,12 +4,12 @@ export const scheduling = {
   id: "01a05c6f-c7c4-7bd2-ac26-fc8ae8b38e8b",
   pageTypeSlug: "module",
   slug: "scheduling",
-  definition: "the next day a repeating thing falls due after the one it holds",
+  definition: "the next day a repeating thing falls due after the one it has",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A thing holding no rule never advances.",
+      statement: "A thing with no rule never advances.",
     },
     {
       invariantKind: "departure",

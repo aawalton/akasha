@@ -11,7 +11,7 @@ export const sheetTemplate = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A standard whose path the sheet does not hold checks nothing.",
+      statement: "A standard whose path the sheet does not have checks nothing.",
     },
     {
       invariantKind: "departure",

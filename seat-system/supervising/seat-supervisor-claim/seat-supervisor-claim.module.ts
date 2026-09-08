@@ -10,11 +10,11 @@ export const seatSupervisorClaim = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat no supervisor holds is taken without question.",
+      statement: "A seat no supervisor has is taken without question.",
     },
     {
       invariantKind: "departure",
-      statement: "A supervisor already holding a seat takes that seat again.",
+      statement: "A supervisor already with a seat takes that seat again.",
     },
     {
       invariantKind: "departure",

@@ -10,7 +10,7 @@ export const addonDataWritesEquipment = {
     {
       invariantKind: "departure",
       statement:
-        "Every equipment table is rendered from the rows of the page type holding that table.",
+        "Every equipment table is rendered from the rows of the page type with that table.",
     },
     {
       invariantKind: "departure",

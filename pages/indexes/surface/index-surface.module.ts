@@ -23,7 +23,7 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement: "One operation answers the lines an entry file holds.",
+      statement: "One operation answers the lines an entry file has.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading laid over another reading holds only the entry files a change touches.",
+      statement: "A reading laid over another reading has only the entry files a change touches.",
     },
     {
       invariantKind: "departure",
@@ -56,11 +56,11 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement: "A directory holding no emptied path is listed straight through.",
+      statement: "A directory with no emptied path is listed straight through.",
     },
     {
       invariantKind: "departure",
-      statement: "An index not there yet is read as an index that is there and holds nothing.",
+      statement: "An index not there yet is read as an index that is there and has nothing.",
     },
     {
       invariantKind: "absence",

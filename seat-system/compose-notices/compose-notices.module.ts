@@ -30,7 +30,7 @@ export const composeNotices = {
     },
     {
       invariantKind: "departure",
-      statement: "A notice page holding nothing is answered an empty text rather than left out.",
+      statement: "A notice page with nothing is answered an empty text rather than left out.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const composeNotices = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding no notice is refused rather than answered empty.",
+      statement: "A folder with no notice is refused rather than answered empty.",
     },
     {
       invariantKind: "gap",

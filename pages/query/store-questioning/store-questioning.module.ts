@@ -35,7 +35,7 @@ export const storeQuestioning = {
     },
     {
       invariantKind: "departure",
-      statement: "A sum or a mean passes over a row holding no number.",
+      statement: "A sum or a mean passes over a row with no number.",
     },
     {
       invariantKind: "departure",

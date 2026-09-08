@@ -11,7 +11,7 @@ export const readoutGroupServing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A route serving this answer holds the wiring and no part of the answering.",
+      statement: "A route serving this answer has the wiring and no part of the answering.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +65,7 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller holding the rungs already works a stoplight out without awaiting.",
+      statement: "A caller with the rungs already works a stoplight out without awaiting.",
     },
     {
       invariantKind: "departure",
@@ -73,8 +73,7 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A caller handing in nothing has each reading read from the values the relay holds.",
+      statement: "A caller handing in nothing has each reading read from the values the relay has.",
     },
     {
       invariantKind: "departure",

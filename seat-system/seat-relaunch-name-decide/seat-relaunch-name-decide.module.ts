@@ -14,7 +14,7 @@ export const seatRelaunchNameDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "A name stated by the caller binds only where the row holds no name.",
+      statement: "A name stated by the caller binds only where the row has no name.",
     },
     {
       invariantKind: "departure",

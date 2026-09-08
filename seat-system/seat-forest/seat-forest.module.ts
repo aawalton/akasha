@@ -9,7 +9,7 @@ export const seatForest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A row's mode is the mode observed of the supervisor holding that seat.",
+      statement: "A row's mode is the mode observed of the supervisor with that seat.",
     },
     {
       invariantKind: "departure",

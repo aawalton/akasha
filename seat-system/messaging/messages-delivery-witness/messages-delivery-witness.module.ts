@@ -10,7 +10,7 @@ export const messagesDeliveryWitness = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A message is let go only where a transcript holds the injection itself.",
+      statement: "A message is let go only where a transcript has the injection itself.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const messagesDeliveryWitness = {
     {
       invariantKind: "departure",
       statement:
-        "The transcript the seat holds now is read as well as the transcript that seat held then.",
+        "The transcript the seat has now is read as well as the transcript that seat held then.",
     },
     {
       invariantKind: "departure",

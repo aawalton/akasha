@@ -14,7 +14,7 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "One file holds every secret a page carries rather than one file for each secret.",
+      statement: "One file has every secret a page carries rather than one file for each secret.",
     },
     {
       invariantKind: "departure",

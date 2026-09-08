@@ -10,7 +10,7 @@ export const devServerEnvWriting = {
     {
       invariantKind: "departure",
       statement:
-        "A value comes from the page holding that value rather than from a file beside the app.",
+        "A value comes from the page with that value rather than from a file beside the app.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,7 @@ export const devServerEnvWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "The keys written are the keys that resource holds.",
+      statement: "The keys written are the keys that resource has.",
     },
     {
       invariantKind: "departure",

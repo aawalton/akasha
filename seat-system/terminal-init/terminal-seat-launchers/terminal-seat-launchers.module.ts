@@ -22,11 +22,11 @@ export const terminalSeatLaunchers = {
     },
     {
       invariantKind: "departure",
-      statement: "A session is live only where that session holds a pane that is not dead.",
+      statement: "A session is live only where that session has a pane that is not dead.",
     },
     {
       invariantKind: "departure",
-      statement: "A session holding only a dead pane is stopped and started again.",
+      statement: "A session with only a dead pane is stopped and started again.",
     },
     {
       invariantKind: "departure",

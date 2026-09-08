@@ -4,7 +4,7 @@ export const storeSpelledAsking = {
   id: "01a063ba-dbcd-72dd-9475-fbcddbebcd88",
   pageTypeSlug: "module",
   slug: "store-spelled-asking",
-  definition: "a composed query asked of the store in the spelling the store holds",
+  definition: "a composed query asked of the store in the spelling the store has",
   code: "ts",
   test: "ts",
   invariants: [
@@ -14,7 +14,7 @@ export const storeSpelledAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller asking the plain composed query spells the key the store holds.",
+      statement: "A caller asking the plain composed query spells the key the store has.",
     },
     {
       invariantKind: "departure",

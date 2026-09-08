@@ -29,7 +29,7 @@ export const seatRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "A backfill writes only where the key holds nothing yet.",
+      statement: "A backfill writes only where the key has nothing yet.",
     },
   ],
 } as const satisfies Module

@@ -25,7 +25,7 @@ export const revealedSheet = {
     },
     {
       invariantKind: "absence",
-      statement: "A sheet holding neither weapon nor armour is shown with no equipment.",
+      statement: "A sheet with neither weapon nor armour is shown with no equipment.",
     },
   ],
 } as const satisfies Module

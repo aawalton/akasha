@@ -45,7 +45,7 @@ export const pendingMaintaining = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder holding every seat's transcript is watched alongside those stores.",
+      statement: "The folder with every seat's transcript is watched alongside those stores.",
     },
     {
       invariantKind: "departure",

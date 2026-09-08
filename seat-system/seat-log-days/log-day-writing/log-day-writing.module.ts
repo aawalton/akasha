@@ -98,7 +98,7 @@ export const logDayWriting = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds the calling thread while a line is written.",
+      statement: "Nothing here has the calling thread while a line is written.",
     },
   ],
 } as const satisfies Module

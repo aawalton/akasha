@@ -30,7 +30,7 @@ export const seatPageValues = {
     },
     {
       invariantKind: "departure",
-      statement: "A value is a flag only where the page holds exactly true.",
+      statement: "A value is a flag only where the page has exactly true.",
     },
   ],
 } as const satisfies Module

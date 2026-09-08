@@ -14,7 +14,7 @@ export const memoryReaperLegs = {
     },
     {
       invariantKind: "departure",
-      statement: "A tree is weighed on the proportional memory its whole subtree holds.",
+      statement: "A tree is weighed on the proportional memory its whole subtree has.",
     },
     {
       invariantKind: "departure",

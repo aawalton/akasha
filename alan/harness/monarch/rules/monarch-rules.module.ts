@@ -17,7 +17,7 @@ export const monarchRules = {
     {
       invariantKind: "departure",
       statement:
-        "A page holding a word outside the two select properties' values is refused rather than passed over.",
+        "A page with a word outside the two select properties' values is refused rather than passed over.",
     },
     {
       invariantKind: "departure",

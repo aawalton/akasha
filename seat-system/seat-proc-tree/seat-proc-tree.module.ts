@@ -5,7 +5,7 @@ export const seatProcTree = {
   pageTypeSlug: "module",
   slug: "seat-proc-tree",
   definition:
-    "the shape of an agent's processes: which child is the main one, and which whole trees it has outlived",
+    "an agent's processes: which child is the main one, and which whole trees it has outlived",
   code: "ts",
   test: "ts",
   invariants: [
@@ -24,7 +24,7 @@ export const seatProcTree = {
     },
     {
       invariantKind: "departure",
-      statement: "The tree kept is the tree holding the stated keeper.",
+      statement: "The tree kept is the tree with the stated keeper.",
     },
     {
       invariantKind: "departure",

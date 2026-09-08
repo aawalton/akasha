@@ -10,7 +10,7 @@ export const terminalAccountLaunchers = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A client opened this way seats nothing and holds no tmux session.",
+      statement: "A client opened this way seats nothing and has no tmux session.",
     },
     {
       invariantKind: "departure",

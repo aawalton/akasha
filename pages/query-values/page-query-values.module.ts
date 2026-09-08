@@ -9,7 +9,7 @@ export const pageQueryValues = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key holding a list reads as no text rather than as the first of the list.",
+      statement: "A key with a list reads as no text rather than as the first of the list.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +17,7 @@ export const pageQueryValues = {
     },
     {
       invariantKind: "departure",
-      statement: "A key holding nothing reads as an empty list.",
+      statement: "A key with nothing reads as an empty list.",
     },
     {
       invariantKind: "absence",

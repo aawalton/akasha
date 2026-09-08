@@ -18,7 +18,7 @@ export const pageQueryRequest = {
     {
       invariantKind: "departure",
       statement:
-        "A name holding a segment that is empty or a dot or a double dot or a backslash reads as no name.",
+        "A name with a segment that is empty or a dot or a double dot or a backslash reads as no name.",
     },
     {
       invariantKind: "departure",

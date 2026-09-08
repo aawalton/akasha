@@ -104,7 +104,7 @@ export const pageUncommitted = {
     {
       invariantKind: "departure",
       statement:
-        "A page's whole value merges the uncommitted values into the values the commit holds.",
+        "A page's whole value merges the uncommitted values into the values the commit has.",
     },
     {
       invariantKind: "departure",

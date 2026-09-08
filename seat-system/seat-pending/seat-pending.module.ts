@@ -13,7 +13,7 @@ export const seatPending = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat holding a live child is pending on the child.",
+      statement: "A seat with a live child is pending on the child.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const seatPending = {
     },
     {
       invariantKind: "departure",
-      statement: "Stopping alone is allowed for a seat that stopped itself or holds a live child.",
+      statement: "Stopping alone is allowed for a seat that stopped itself or has a live child.",
     },
   ],
 } as const satisfies Module

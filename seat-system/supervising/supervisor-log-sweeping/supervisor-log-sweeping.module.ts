@@ -13,7 +13,7 @@ export const supervisorLogSweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A supervisor's directory holds that supervisor's socket.",
+      statement: "A supervisor's directory has that supervisor's socket.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const supervisorLogSweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A directory holding a file written inside the window is kept.",
+      statement: "A directory with a file written inside the window is kept.",
     },
     {
       invariantKind: "departure",

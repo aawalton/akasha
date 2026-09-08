@@ -9,8 +9,7 @@ export const pageQueryNarrow = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A key stated against a bare value is read as a test that the key holds that value.",
+      statement: "A key stated against a bare value is read as a test that the key has that value.",
     },
     {
       invariantKind: "departure",

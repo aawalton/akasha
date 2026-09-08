@@ -19,7 +19,7 @@ export const packageReaching = {
     {
       invariantKind: "departure",
       statement:
-        "A caller holding no paths reads the manifests off the pages carrying a manifest property.",
+        "A caller with no paths reads the manifests off the pages carrying a manifest property.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const packageReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller holding only a root is answered once and held.",
+      statement: "A caller with only a root is answered once and held.",
     },
     {
       invariantKind: "departure",

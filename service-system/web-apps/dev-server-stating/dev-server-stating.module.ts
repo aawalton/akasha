@@ -37,7 +37,7 @@ export const devServerStating = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a numbered directory under the projects root holds dev server state.",
+      statement: "Only a numbered directory under the projects root has dev server state.",
     },
     {
       invariantKind: "absence",

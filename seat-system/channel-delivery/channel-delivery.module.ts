@@ -14,7 +14,7 @@ export const channelDelivery = {
     },
     {
       invariantKind: "departure",
-      statement: "A message is injected only where the transcript holds the injection itself.",
+      statement: "A message is injected only where the transcript has the injection itself.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,7 @@ export const channelDelivery = {
     },
     {
       invariantKind: "departure",
-      statement: "A transcript holding no enqueue of the message is absent rather than lost.",
+      statement: "A transcript with no enqueue of the message is absent rather than lost.",
     },
     {
       invariantKind: "departure",

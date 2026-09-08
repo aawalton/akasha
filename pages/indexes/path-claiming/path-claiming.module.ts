@@ -95,7 +95,7 @@ export const pathClaiming = {
     },
     {
       invariantKind: "departure",
-      statement: "A page claims a folder only where the page states that the page holds it.",
+      statement: "A page claims a folder only where the page states that the page has it.",
     },
     {
       invariantKind: "gap",

@@ -9,7 +9,7 @@ export const recurrenceShape = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The rule a repeating thing holds may be absent.",
+      statement: "The rule a repeating thing has may be absent.",
     },
     {
       invariantKind: "departure",

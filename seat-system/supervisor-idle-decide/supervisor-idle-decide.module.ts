@@ -19,7 +19,7 @@ export const supervisorIdleDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat holding a count that was not read is not idle.",
+      statement: "A seat with a count that was not read is not idle.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const supervisorIdleDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "Past the context cliff only work in flight holds a restart back.",
+      statement: "Past the context cliff only work in flight has a restart back.",
     },
     {
       invariantKind: "departure",

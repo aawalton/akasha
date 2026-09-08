@@ -20,7 +20,7 @@ export const tally = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a word holding a letter or a digit is counted.",
+      statement: "Only a word with a letter or a digit is counted.",
     },
   ],
 } as const satisfies Module

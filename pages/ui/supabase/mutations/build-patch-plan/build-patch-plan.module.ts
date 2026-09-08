@@ -9,7 +9,7 @@ export const buildPatchPlan = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key the store holds in a column of its own is set on that column.",
+      statement: "A key the store has in a column of its own is set on that column.",
     },
     {
       invariantKind: "departure",

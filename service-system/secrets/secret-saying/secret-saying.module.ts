@@ -22,7 +22,7 @@ export const secretSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A resource holds the keys every page placing a value in it names.",
+      statement: "A resource has the keys every page placing a value in it names.",
     },
     {
       invariantKind: "departure",
@@ -66,7 +66,7 @@ export const secretSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry holding no `=` is refused rather than passed over.",
+      statement: "An entry with no `=` is refused rather than passed over.",
     },
     {
       invariantKind: "departure",

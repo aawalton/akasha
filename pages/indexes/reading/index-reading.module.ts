@@ -65,7 +65,7 @@ export const indexReading = {
     {
       invariantKind: "departure",
       statement:
-        "A folder holding no file is a population with no members rather than an unwritten index.",
+        "A folder with no file is a population with no members rather than an unwritten index.",
     },
     {
       invariantKind: "departure",
@@ -79,7 +79,7 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Every path the index files is answered by reading the one file holding them.",
+      statement: "Every path the index files is answered by reading the one file with them.",
     },
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const recipientResolverInbound = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An agent holding no seat name has nothing waiting.",
+      statement: "An agent with no seat name has nothing waiting.",
     },
     {
       invariantKind: "departure",

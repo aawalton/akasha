@@ -4,7 +4,7 @@ export const generateAddonData = {
   id: "01a0685f-fd9b-7000-b2e8-a507f1d0986d",
   pageTypeSlug: "module",
   slug: "generate-addon-data",
-  definition: "one run writing every addon data file from the pages holding their source",
+  definition: "one run writing every addon data file from the pages with their source",
   code: "ts",
   test: "ts",
   invariants: [

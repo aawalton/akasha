@@ -4,7 +4,7 @@ export const memoryReaperProcScan = {
   id: "01a0686c-f06b-7000-bd79-2d9700be871d",
   pageTypeSlug: "module",
   slug: "memory-reaper-proc-scan",
-  definition: "what one process holds, and its command line with what it must not say withheld",
+  definition: "what one process has, and its command line with what it must not say withheld",
   code: "ts",
   test: "ts",
   invariants: [

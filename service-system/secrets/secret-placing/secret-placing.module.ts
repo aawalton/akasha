@@ -29,12 +29,11 @@ export const secretPlacing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page naming no placement holds a value nothing asks for and is read past.",
+      statement: "A page naming no placement has a value nothing asks for and is read past.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A manifest asking for a secret no page holds is reported rather than passed over.",
+      statement: "A manifest asking for a secret no page has is reported rather than passed over.",
     },
     {
       invariantKind: "absence",

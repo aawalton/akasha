@@ -37,11 +37,11 @@ export const messageFile = {
     },
     {
       invariantKind: "departure",
-      statement: "Which store holds a message is answered by the file on disk.",
+      statement: "Which store has a message is answered by the file on disk.",
     },
     {
       invariantKind: "departure",
-      statement: "The shape of a message's id answers which store holds the message never.",
+      statement: "The shape of a message's id answers which store has the message never.",
     },
     {
       invariantKind: "departure",
