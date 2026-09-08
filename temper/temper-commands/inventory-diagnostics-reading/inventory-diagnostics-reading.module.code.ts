@@ -9,16 +9,6 @@ const VARIABLES_NAME = "TemperInventory_SavedVariables"
 
 const ACCOUNT_MARK = "@"
 
-/**
- * Reads one diagnostic the inventory addon left behind in TemperInventory.lua.
- *
- * The addon writes per account, under a `@<account>` key whose name this side
- * does not know, so the accounts are walked in turn and the first one carrying
- * the diagnostic answers. `wide` rules on one account's `$AccountWide` table and
- * `pick` reaches the one value out of it, which is what differs between the
- * bank profile, the bank trace, the master craft traces, the master writ probe
- * and the last explain — everything around them is the same walk.
- */
 export async function readInventoryDiagnostic<Wide extends z.ZodTypeAny, Found>(
   inventoryPath: string,
   wide: Wide,
