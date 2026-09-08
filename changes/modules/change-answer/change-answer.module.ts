@@ -95,24 +95,8 @@ export const changeAnswer = {
       statement: "An edit leaving the body unchanged narrows to no edit.",
     },
     {
-      invariantKind: "departure",
-      statement: "A move whose body changed narrows to a move and a replace.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A move stating no body narrows to a remove of the path moved from.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An edit worked out from no body narrows to an add or to no edit.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here reads the disk or writes to the disk.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "An answer holds edits of the four kinds alone.",
     },
   ],
 } as const satisfies Module
