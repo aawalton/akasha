@@ -19,7 +19,8 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "A scope is a page type or a page's parent.",
+      statement:
+        "A scope is a page type, a page's parent, or a property's value under a page type.",
     },
     {
       invariantKind: "departure",

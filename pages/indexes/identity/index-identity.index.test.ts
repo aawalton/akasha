@@ -267,3 +267,61 @@ test("two pages of one type carrying one slug under one parent are filed at one 
   ])
   expect(filedIn(WEB_HOME, DECLARING)).toEqual(filedIn(other, DECLARING))
 })
+
+const SECTION_TYPE: Value = {
+  id: A,
+  pageTypeSlug: "page-type",
+  slug: "section",
+  extendsSlug: ["page-type/page"],
+  properties: [
+    {
+      pagePropertySlug: "slug",
+      required: true,
+      many: false,
+      unique: "page-property",
+      uniquePropertySlug: "section-of-slug",
+    },
+    { pagePropertySlug: "section-of-slug", required: true, many: false },
+  ],
+}
+
+const SECTION_OF: Value = {
+  id: B,
+  pageTypeSlug: "relation-property",
+  slug: "section-of-slug",
+  propertySlug: "section-of-slug",
+}
+
+const SCOPING = identifyingFrom(sourceOver([SECTION_TYPE, PAGE_TYPE, SLUG_PROPERTY, SECTION_OF]))
+
+const PRICING: Value = {
+  id: A,
+  pageTypeSlug: "section",
+  slug: "pricing",
+  sectionOfSlug: "section/solar-power",
+}
+
+test("a declaration naming a scoping property carries the key that property is read by", () => {
+  expect(SCOPING("section").get("slug")).toEqual({
+    key: "slug",
+    uniqueKind: "page-property",
+    scopedBy: { key: "sectionOfSlug", pagePropertySlug: "section-of-slug" },
+  })
+})
+
+test("a page unique among those carrying one value is filed under its type, that property and that value", () => {
+  expect(filedIn(PRICING, SCOPING)).toEqual([
+    {
+      uniqueKind: "page-property",
+      scope: "section/section-of-slug/solar-power",
+      propertySlug: "slug",
+      said: "pricing",
+    },
+  ])
+})
+
+test("a page carrying no value of the property scoping it is filed nowhere", () => {
+  const bare: Value = { id: A, pageTypeSlug: "section", slug: "pricing" }
+
+  expect(filedIn(bare, SCOPING)).toEqual([])
+})

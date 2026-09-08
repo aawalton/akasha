@@ -3,7 +3,12 @@ import { partedIn } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import type { Identifying } from "@akasha/pages/page-type-properties"
 import { textAt, textsAt, type Value } from "@akasha/pages/page-value"
-import { type Entry, under } from "../entries/index-entries.module.code.ts"
+import {
+  type Entry,
+  type Identifier,
+  type ScopedBy,
+  under,
+} from "../entries/index-entries.module.code.ts"
 import { indexIdentity } from "./index-identity.index.ts"
 
 const IDENTITY = indexIdentity.name
@@ -15,6 +20,8 @@ const PAGE_TYPE = "page-type"
 const PART_OF = "part-of"
 
 const PAGE = "page"
+
+const PAGE_PROPERTY = "page-property"
 
 const PART_OF_SLUGS = "partOfSlugs"
 
@@ -110,15 +117,30 @@ export function partingOver(
 
 const NO_SCOPE = ""
 
+function scopedIn(
+  scopedBy: ScopedBy | undefined,
+  value: Value,
+  pageTypeSlug: string
+): readonly string[] {
+  if (scopedBy === undefined) {
+    throw new Error(`\`${pageTypeSlug}\` names no property a unique value of it is scoped by`)
+  }
+  const said = textAt(value, scopedBy.key)
+  if (said === null) return []
+  return [join(pageTypeSlug, scopedBy.pagePropertySlug, slugIn(said))]
+}
+
 function scopesFor(
-  uniqueKind: string,
+  one: Identifier,
   value: Value,
   pageTypeSlug: string,
   partOf: PartOf
 ): readonly string[] {
+  const uniqueKind = one.uniqueKind
   if (uniqueKind === PAGE) return [NO_SCOPE]
   if (uniqueKind === PAGE_TYPE) return [pageTypeSlug]
   if (uniqueKind === PART_OF) return partOf(value)
+  if (uniqueKind === PAGE_PROPERTY) return scopedIn(one.scopedBy, value, pageTypeSlug)
   throw new Error(`\`${uniqueKind}\` is no unique kind a page is filed under`)
 }
 
@@ -150,7 +172,7 @@ export function filedIn(
     if (typeof found !== "string" && typeof found !== "number") continue
     const said = String(found)
     const uniqueKind = one.uniqueKind
-    for (const scope of scopesFor(uniqueKind, value, pageTypeSlug, partOf)) {
+    for (const scope of scopesFor(one, value, pageTypeSlug, partOf)) {
       held.push({ uniqueKind, scope, propertySlug, said })
     }
   }

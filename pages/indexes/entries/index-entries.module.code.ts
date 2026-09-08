@@ -412,9 +412,15 @@ export function entryShapesAt(given: string | Reading): ReadonlySet<string> {
   return found
 }
 
+export type ScopedBy = {
+  readonly key: string
+  readonly pagePropertySlug: string
+}
+
 export type Identifier = {
   readonly key: string
   readonly uniqueKind: string
+  readonly scopedBy?: ScopedBy
 }
 
 export function uniquePropertiesIn(values: Iterable<Value>): ReadonlyMap<string, Identifier> {

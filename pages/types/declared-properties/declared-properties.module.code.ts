@@ -1,5 +1,5 @@
 import { listedAt, schemaOf } from "@akasha/indexes"
-import type { Identifier } from "@akasha/indexes/entries"
+import type { Identifier, ScopedBy } from "@akasha/indexes/entries"
 import type { Reading, Schema } from "@akasha/indexes/shape"
 import { addressIn, slugIn } from "../../address/page-address.module.code.ts"
 import { exportedAs } from "../../export-name/page-export-name.module.code.ts"
@@ -26,6 +26,7 @@ export type Carried = {
   readonly propertySlug: string
   readonly key: string
   readonly unique: string | null
+  readonly uniquePropertySlug?: string
   readonly declaredBy: string
   readonly required: boolean
   readonly many: boolean
@@ -99,12 +100,14 @@ export function carriedFrom(value: Value, source: Source, declaredBy: string): r
     const schema = source.schemaFor(said)
     if (schema === null) continue
     const { pageTypeSlug, propertySlug } = schema
+    const scoped = slugAt(one, "uniquePropertySlug") ?? schema.uniquePropertySlug
     carried.push({
       pagePropertySlug: bare,
       pageTypeSlug,
       propertySlug,
       key: exportedAs(propertySlug),
       unique: slugAt(one, "unique") ?? schema.unique,
+      uniquePropertySlug: scoped === null ? undefined : scoped,
       declaredBy,
       required: one["required"] === true,
       many: one["many"] === true,
@@ -210,15 +213,32 @@ export function propertiesFrom(pageTypeSlug: string, source: Source): readonly C
   return boundOver(declarationsFrom(pageTypeSlug, source))
 }
 
+function scopingIn(carried: readonly Carried[], said: string | undefined): ScopedBy | null {
+  const bare = said === undefined ? null : slugIn(said)
+  if (bare === null) return null
+  for (const one of carried) {
+    if (one.pagePropertySlug !== bare) continue
+    return { key: one.key, pagePropertySlug: one.pagePropertySlug }
+  }
+  return null
+}
+
 export function identifyingFrom(source: Source): Identifying {
   const held = new Map<string, ReadonlyMap<string, Identifier>>()
   return (pageTypeSlug) => {
     const found = held.get(pageTypeSlug)
     if (found !== undefined) return found
+    const carried = propertiesIfNamed(pageTypeSlug, source) ?? []
     const made = new Map<string, Identifier>()
-    for (const one of propertiesIfNamed(pageTypeSlug, source) ?? []) {
+    for (const one of carried) {
       if (one.unique === null) continue
-      made.set(one.pagePropertySlug, { key: one.key, uniqueKind: one.unique })
+      const scopedBy = scopingIn(carried, one.uniquePropertySlug)
+      made.set(
+        one.pagePropertySlug,
+        scopedBy === null
+          ? { key: one.key, uniqueKind: one.unique }
+          : { key: one.key, uniqueKind: one.unique, scopedBy }
+      )
     }
     held.set(pageTypeSlug, made)
     return made
