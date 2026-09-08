@@ -30,7 +30,7 @@ export default [
   route("api/surplus", "routes/surplus/surplus.route.code.ts"),
   route("api/safety-level", "routes/safety-level/safety-level.route.code.ts"),
   route("api/categorization", "routes/categorization/categorization.route.code.ts"),
-  route("api/readout-relay", "routes/api.readout-relay.ts"),
+  route("api/readout-relay", "routes/readout-relay/readout-relay.route.code.ts"),
   route("api/widget-tap", "routes/widget-tap/widget-tap.route.code.ts"),
   route("api/sms/webhook", "routes/api.sms.webhook.ts"),
   route("api/sms/opt-in", "routes/api.sms.opt-in.ts"),

@@ -162,6 +162,7 @@ export const alanWeb = {
     "route/inbox-stoplights",
     "route/no-such-route",
     "route/pages-ready",
+    "route/readout-relay",
     "route/safety-level",
     "route/surplus",
     "route/wallpaper",

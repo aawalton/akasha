@@ -1,7 +1,7 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group-serving"
 import { dropRelayed, RELAY_PATH, relayReading } from "@akasha/readout-system/readout-relay"
-import { action } from "../api.readout-relay.ts"
+import { action } from "../readout-relay/readout-relay.route.code.ts"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
 

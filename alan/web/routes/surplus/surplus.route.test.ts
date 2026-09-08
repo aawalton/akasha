@@ -3,7 +3,7 @@ import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group
 import { type Tile, tileAt } from "@akasha/readout-system/readout-group-serving/testing"
 import { dropRelayed, RELAY_PATH } from "@akasha/readout-system/readout-relay"
 import { type Relaying, relayingTo } from "@akasha/readout-system/readout-relay/testing"
-import { action } from "../api.readout-relay.ts"
+import { action } from "../readout-relay/readout-relay.route.code.ts"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
 
