@@ -116,6 +116,7 @@ export const clusterCheck = {
     "module/ts-property-callback-self",
     "module/check-property-callback-self",
     "module/functional-type-row-discriminators",
+    "module/functional-type-discriminators",
   ],
   properties: [
     {
