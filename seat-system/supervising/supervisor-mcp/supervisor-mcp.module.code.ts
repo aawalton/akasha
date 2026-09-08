@@ -191,7 +191,17 @@ export async function resolveMcpConfig(
   if (opts?.configDir != null && opts.cwd != null) {
     reconcileDisabledMcpServers(opts.configDir, opts.cwd, Object.keys(content.mcpServers))
   }
-  if ("playwright" in content.mcpServers) await ensureFreshPlaywrightStorageState()
+  if ("playwright" in content.mcpServers) {
+    try {
+      await ensureFreshPlaywrightStorageState()
+    } catch (err) {
+      delete content.mcpServers.playwright
+      console.error(
+        `${LOG} browser MCP not offered (non-fatal, spawn proceeds):`,
+        err instanceof Error ? err.message : err
+      )
+    }
+  }
   const configPath = `/var/tmp/mcp-local-${sessionId}.json`
   writeFileSync(configPath, JSON.stringify(content))
   return configPath
