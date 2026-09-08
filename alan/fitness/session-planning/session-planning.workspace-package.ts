@@ -9,7 +9,6 @@ export const sessionPlanning = {
   partSlugs: [
     "module/equipment-kit",
     "module/load-progression",
-    "module/movement-recency",
     "module/movement-scoring",
     "module/pattern-groups",
     "module/performed-set",
