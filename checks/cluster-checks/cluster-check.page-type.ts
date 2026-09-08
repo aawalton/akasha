@@ -188,6 +188,7 @@ export const clusterCheck = {
     "module/package-cycles",
     "module/playwright-image-alignment",
     "module/popover-family-wrappers",
+    "module/porcelain-status-boundary",
   ],
   properties: [
     {
