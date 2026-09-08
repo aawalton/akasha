@@ -46,7 +46,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Only `akasha change` drafts changes.",
       workingMemory:
-        "`replace`, the one command drafting where it should land at once, is gone; its act is `change-file`. `apply` and `patch` work on a patch rather than making one. Every other command declares `change-mechanical` and lands through `landedMechanically`, which is right. The edits `akasha change` keeps are the git ref `refs/akasha/edits`, and `landedMechanically` carries an unused `agentId` that would turn drafting on.",
+        "`change-draft`, `change-apply` and `change-drop` are the acts, and `change-apply` works on a patch rather than making one. Every other command declares `change-mechanical` and lands through `runMechanicalChange`, which is right. `landedMechanically` takes an `agentId` that drafts rather than lands, and no caller hands one.",
     },
     {
       statement: "The patch a landing works out is held by no page property.",
