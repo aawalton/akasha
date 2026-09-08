@@ -1,11 +1,10 @@
 import { existsSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { WATCHER_DIR } from "../.server/watcher-dir/watcher-dir.module.code.ts"
-import type { Route } from "./+types/api.watcher.worker.download"
+import { WATCHER_DIR } from "../../.server/watcher-dir/watcher-dir.module.code.ts"
 
 const EXE_FILE = join(WATCHER_DIR, "temper-watcher-worker.exe")
 
-export function loader(_: Route.LoaderArgs): Response {
+export function loader(): Response {
   if (!existsSync(EXE_FILE)) {
     return Response.json({ error: "Watcher worker exe not available" }, { status: 404 })
   }

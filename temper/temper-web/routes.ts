@@ -46,7 +46,10 @@ const API_ROUTES: RouteConfig = [
     "api/watcher/worker/version",
     "routes/api-watcher-worker-version/api-watcher-worker-version.route.code.ts"
   ),
-  route("api/watcher/worker/download", "routes/api.watcher.worker.download.tsx"),
+  route(
+    "api/watcher/worker/download",
+    "routes/api-watcher-worker-download/api-watcher-worker-download.route.code.ts"
+  ),
   route("api/watcher/upsert-listings", "routes/api.watcher.upsert-listings.tsx"),
   route("api/watcher/upsert-mined-items", "routes/api.watcher.upsert-mined-items.tsx"),
   route("api/watcher/upsert-mined-quests", "routes/api.watcher.upsert-mined-quests.tsx"),
