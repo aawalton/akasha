@@ -24,7 +24,7 @@ function moving(was: string, now: string): Answer {
 }
 
 test("a path a move carries a body to is loaded from the path that body came from", () => {
-  const world = { ...worldOf(), over: { kind: "move", pathFrom: WAS, pathTo: NOW } }
+  const world = { ...worldOf(), over: moving(WAS, NOW) }
 
   expect(sittingAt(world, NOW)).toBe(WAS)
 })
@@ -37,7 +37,7 @@ test("a page a move carries elsewhere is read for its code beside the path that 
   const world = {
     ...worldOf(),
     index: { listedAt: () => [{ path: NOW_PAGE }] } as never,
-    over: { kind: "move", pathFrom: WAS_PAGE, pathTo: NOW_PAGE },
+    over: moving(WAS_PAGE, NOW_PAGE),
   }
 
   expect(codeAt(world, "held-kind/held-one")).toBe("akasha/one/held-one.held-kind.code.ts")
