@@ -141,28 +141,24 @@ export const manifestNamesWhatIsReached = {
     },
     {
       invariantKind: "departure",
+      statement: "A dependency a package's page names under `tool-reached` is reached by a tool.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A `@capacitor` dependency is reached by the `capacitor-config` standing in the package's folder.",
+        "A tool taking a dependency out of the manifest leaves no import for this check to read.",
     },
     {
       invariantKind: "departure",
-      statement: "Capacitor takes its plugins from the manifest rather than from an import.",
+      statement: "The list is read off the page whose folder holds the manifest.",
     },
     {
       invariantKind: "departure",
-      statement: "A `@capacitor` plugin is wired into the Xcode project by `capacitor sync`.",
+      statement: "The page is read as the change leaves the page.",
     },
     {
       invariantKind: "absence",
-      statement: "There is no import of such a plugin for this check to find.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The name the `capacitor-config` stands under is asked of the index.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "An index naming no `capacitor-config` credits nothing by a `capacitor-config`.",
+      statement: "A page naming nothing under `tool-reached` credits nothing by that list.",
     },
     {
       invariantKind: "departure",

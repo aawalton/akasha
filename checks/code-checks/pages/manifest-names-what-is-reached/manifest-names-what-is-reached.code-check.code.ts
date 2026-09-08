@@ -1,8 +1,9 @@
 import { builtinModules } from "node:module"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import { landingOf, specifiersIn } from "@akasha/code/code-specifier"
 import { calledIn, objectIn } from "@akasha/code/package-manifest"
 import type { Change } from "@akasha/pages/change"
+import { textsAt } from "@akasha/pages/page-value"
 import type { Shadow } from "@akasha/pages/shadow"
 import {
   bodyNamed,
@@ -18,6 +19,7 @@ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   type Manifest,
   manifestsIn,
+  packagePagesIn,
 } from "../package-reached-where-named/package-reached-where-named.code-check.code.ts"
 
 const AT = "@"
@@ -42,9 +44,7 @@ const TYPESCRIPT = "typescript"
 
 const TSCONFIG = "tsconfig.json"
 
-const CAPACITOR = "@capacitor/"
-
-const CAPACITOR_CONFIG = "capacitor-config"
+const TOOL_REACHED = "toolReached"
 
 const SCRIPTS = "scripts"
 
@@ -83,6 +83,8 @@ export type Named = {
 }
 
 const NOTHING: Reach = { packages: new Set(), protocols: new Set() }
+
+const NO_TOOL: ReadonlySet<string> = new Set()
 
 export function packageOf(at: string, specifier: string): string | null {
   if (specifier.startsWith(PARTED_BY)) return null
@@ -234,15 +236,15 @@ export function creditedIn(
   byName: ReadonlyMap<string, Named>,
   reach: Reach,
   standing: (named: string) => boolean,
-  config: string | null
+  byTool: ReadonlySet<string>
 ): boolean {
   if (byName.has(dep)) return true
   if (reach.packages.has(dep)) return true
   if (held.peers.has(dep)) return true
   if (held.commands.has(dep)) return true
+  if (byTool.has(dep)) return true
   if (peeredIn(dep, held, byName)) return true
   if (dep === TYPESCRIPT && standing(TSCONFIG)) return true
-  if (dep.startsWith(CAPACITOR) && config !== null && standing(config)) return true
   if (dep === TYPES_BUN && protocolUnder(reach, BUN)) return true
   if (dep === TYPES_NODE && protocolUnder(reach, NODE)) return true
   if (!dep.startsWith(TYPES)) return false
@@ -255,19 +257,25 @@ export function unreachedIn(
   byName: ReadonlyMap<string, Named>,
   reach: Reach,
   standing: (named: string) => boolean,
-  config: string | null
+  byTool: ReadonlySet<string>
 ): readonly string[] {
   const said: string[] = []
   for (const [dep, field] of held.declared) {
     if (!OWN.includes(field)) continue
-    if (creditedIn(dep, held, byName, reach, standing, config)) continue
+    if (creditedIn(dep, held, byName, reach, standing, byTool)) continue
     said.push(`names \`${dep}\` under \`${field}\`, which nothing it holds reaches — ${SAID}`)
   }
   return said
 }
 
-function configNamed(shadow: Shadow): string | null {
-  return shadow.index.fileKeysAt().get(CAPACITOR_CONFIG) ?? null
+function byToolOver(shadow: Shadow): ReadonlyMap<string, ReadonlySet<string>> {
+  const found = new Map<string, ReadonlySet<string>>()
+  for (const path of packagePagesIn(shadow)) {
+    const value = shadow.pageOf(path)
+    const said = value === null ? null : textsAt(value, TOOL_REACHED)
+    if (said !== null) found.set(dirname(path), new Set(said))
+  }
+  return found
 }
 
 function thereIn(change: Change, folder: string): (named: string) => boolean {
@@ -315,7 +323,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const names = new Set(byName.keys())
   const byFolder = new Map(packages.map((one) => [one.folder, one]))
   const carried = new Map(packages.map((one) => [one.at, one]))
-  const config = configNamed(shadow)
+  const byTool = byToolOver(shadow)
   const holding = holdingBy(folders, everyFileOf(shadow.index))
   const reaches = new Map<string, Reach>()
 
@@ -342,7 +350,8 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   return overEachFile(change, (given) => {
     const held = carried.get(given.path)
     if (held !== undefined) {
-      return unreachedIn(held, byName, wholeOf(held), thereIn(change, held.folder), config)
+      const found = byTool.get(held.folder) ?? NO_TOOL
+      return unreachedIn(held, byName, wholeOf(held), thereIn(change, held.folder), found)
     }
     if (!textNamed(given.path)) return []
     const owner = ownerOf(folders, given.path)
