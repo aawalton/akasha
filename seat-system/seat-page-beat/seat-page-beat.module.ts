@@ -31,7 +31,7 @@ export const seatPageBeat = {
     },
     {
       invariantKind: "departure",
-      statement: "The report is one line of JSON on stdout carrying the outcome and the seat.",
+      statement: "The report is one line of JSON on stdout with the outcome and the seat.",
     },
     {
       invariantKind: "departure",

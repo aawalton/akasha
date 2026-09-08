@@ -31,11 +31,11 @@ export const seatModes = {
     },
     {
       invariantKind: "departure",
-      statement: "A command line carrying that flag is running headless.",
+      statement: "A command line with that flag is running headless.",
     },
     {
       invariantKind: "departure",
-      statement: "A command line carrying no flag at all is running interactive.",
+      statement: "A command line with no flag at all is running interactive.",
     },
     {
       invariantKind: "absence",

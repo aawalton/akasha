@@ -25,7 +25,7 @@ export const messageReachWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat carrying no name has no directory to be written in.",
+      statement: "A seat with no name has no directory to be written in.",
     },
     {
       invariantKind: "departure",

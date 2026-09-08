@@ -10,7 +10,7 @@ export const gatedLanding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A landing carrying no change commits nothing and answers no sha.",
+      statement: "A landing with no change commits nothing and answers no sha.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const gatedLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "One landing carries both the bodies written and the removals.",
+      statement: "One landing has both the bodies written and the removals.",
     },
     {
       invariantKind: "departure",

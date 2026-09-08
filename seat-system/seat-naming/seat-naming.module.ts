@@ -27,7 +27,7 @@ export const seatNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat's flex is carried in its name rather than beside the seat.",
+      statement: "A seat's flex is in its name rather than beside the seat.",
     },
     {
       invariantKind: "departure",

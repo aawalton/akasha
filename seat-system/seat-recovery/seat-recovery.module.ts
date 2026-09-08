@@ -14,7 +14,7 @@ export const seatRecovery = {
     },
     {
       invariantKind: "departure",
-      statement: "A process tree is found by the agent id its command line carries.",
+      statement: "A process tree is found by the agent id its command line has.",
     },
     {
       invariantKind: "departure",

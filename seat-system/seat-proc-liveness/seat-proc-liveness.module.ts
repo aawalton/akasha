@@ -33,7 +33,7 @@ export const seatProcLiveness = {
     },
     {
       invariantKind: "departure",
-      statement: "A process carrying no acting agent is evidence of nobody rather than of an end.",
+      statement: "A process with no acting agent is evidence of nobody rather than of an end.",
     },
   ],
 } as const satisfies Module

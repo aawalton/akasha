@@ -13,7 +13,7 @@ export const recipientResolverInbound = {
     },
     {
       invariantKind: "departure",
-      statement: "A message from nobody carries a sender of nothing rather than an empty name.",
+      statement: "A message from nobody has a sender of nothing rather than an empty name.",
     },
   ],
 } as const satisfies Module

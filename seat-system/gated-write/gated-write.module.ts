@@ -13,7 +13,7 @@ export const gatedWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a refusal carries a reason with that refusal.",
+      statement: "Only a refusal has a reason with that refusal.",
     },
     {
       invariantKind: "departure",

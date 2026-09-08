@@ -43,7 +43,7 @@ export const readoutUnread = {
     },
     {
       invariantKind: "departure",
-      statement: "A group drawing a light that carries no reading is refused rather than answered.",
+      statement: "A group drawing a light that has no reading is refused rather than answered.",
     },
     {
       invariantKind: "departure",

@@ -56,7 +56,7 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Values carrying neither half have no reading.",
+      statement: "Values with neither half have no reading.",
     },
     {
       invariantKind: "departure",

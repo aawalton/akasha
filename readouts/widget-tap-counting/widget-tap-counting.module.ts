@@ -30,7 +30,7 @@ export const widgetTapCounting = {
     },
     {
       invariantKind: "departure",
-      statement: "A widget carrying no count has taken no tap.",
+      statement: "A widget with no count has taken no tap.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const widgetTapCounting = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug no widget page carries answers with nothing.",
+      statement: "A slug no widget page has answers with nothing.",
     },
     {
       invariantKind: "absence",

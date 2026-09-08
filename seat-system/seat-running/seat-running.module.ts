@@ -22,7 +22,7 @@ export const seatRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer carries the bytes the command writes.",
+      statement: "An answer has the bytes the command writes.",
     },
     {
       invariantKind: "departure",

@@ -14,7 +14,7 @@ export const seatBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "A key akasha carries nothing for is refused rather than dropped.",
+      statement: "A key akasha has nothing for is refused rather than dropped.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const seatBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "A record carrying anything else is written whole.",
+      statement: "A record with anything else is written whole.",
     },
     {
       invariantKind: "departure",

@@ -18,7 +18,7 @@ export const widgetTapLink = {
     },
     {
       invariantKind: "constraint",
-      statement: "Two of Alan's widgets carry one path and one query.",
+      statement: "Two of Alan's widgets have one path and one query.",
     },
     {
       invariantKind: "departure",

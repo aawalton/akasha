@@ -18,7 +18,7 @@ export const composeBoot = {
     },
     {
       invariantKind: "absence",
-      statement: "A composition carries no path.",
+      statement: "A composition has no path.",
     },
   ],
 } as const satisfies Module
