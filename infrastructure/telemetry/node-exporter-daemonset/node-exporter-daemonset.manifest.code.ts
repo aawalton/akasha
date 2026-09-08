@@ -1,10 +1,10 @@
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import {
   KUBE_SYSTEM_NAMESPACE,
   NODE_EXPORTER_IMAGE,
   NODE_EXPORTER_LABELS,
   NODE_EXPORTER_SELECTOR_LABELS,
-} from "@akasha/cluster-manifests/prometheus-constants"
-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+} from "../prometheus-constants/prometheus-constants.module.code.ts"
 import { cgroupPsiCollectorContainer } from "./modules/cgroup-psi-collector/cgroup-psi-collector.module.code.ts"
 import {
   CGROUP_HIER_PATH,

@@ -1,5 +1,8 @@
-import { NAMESPACE, NAMESPACE_LABELS } from "@akasha/cluster-manifests/prometheus-constants"
 import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
+import {
+  NAMESPACE,
+  NAMESPACE_LABELS,
+} from "../prometheus-constants/prometheus-constants.module.code.ts"
 import {
   prometheusConfigmapYaml,
   prometheusDeploymentYaml,

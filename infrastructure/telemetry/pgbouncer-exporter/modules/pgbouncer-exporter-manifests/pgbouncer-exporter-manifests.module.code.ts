@@ -1,10 +1,10 @@
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import {
   NAMESPACE,
   PGBOUNCER_EXPORTER_IMAGE,
   PGBOUNCER_EXPORTER_LABELS,
   PGBOUNCER_EXPORTER_SELECTOR_LABELS,
-} from "@akasha/cluster-manifests/prometheus-constants"
-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+} from "../../../prometheus-constants/prometheus-constants.module.code.ts"
 
 export function pgbouncerExporterDeploymentYaml(): string {
   return synthOne(NAMESPACE, "pgbouncer-exporter-deployment", {

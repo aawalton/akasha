@@ -1,10 +1,10 @@
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import {
   DCGM_EXPORTER_IMAGE,
   DCGM_EXPORTER_LABELS,
   DCGM_EXPORTER_SELECTOR_LABELS,
   KUBE_SYSTEM_NAMESPACE,
-} from "@akasha/cluster-manifests/prometheus-constants"
-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+} from "../prometheus-constants/prometheus-constants.module.code.ts"
 
 function dcgmExporterDaemonsetYaml(): string {
   return synthOne(KUBE_SYSTEM_NAMESPACE, "dcgm-exporter-daemonset", {

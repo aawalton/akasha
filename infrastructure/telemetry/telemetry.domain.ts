@@ -15,6 +15,7 @@ export const telemetry = {
     "manifest/pgbouncer-exporter",
     "manifest/postgres-exporter",
     "manifest/prometheus",
+    "module/prometheus-constants",
     "page-type/dashboard",
     "workstation-service/dcgm-exporter",
     "workstation-service/node-exporter",

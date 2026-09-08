@@ -1,3 +1,5 @@
+import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { capabilitySelector, HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
 import {
   ALERTMANAGER_IMAGE,
   BUSYBOX_IMAGE,
@@ -5,9 +7,7 @@ import {
   PROMETHEUS_IMAGE,
   PROMETHEUS_LABELS,
   PROMETHEUS_SELECTOR_LABELS,
-} from "@akasha/cluster-manifests/prometheus-constants"
-import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
-import { capabilitySelector, HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
+} from "../../../prometheus-constants/prometheus-constants.module.code.ts"
 import { PROMETHEUS_YML } from "../prometheus-config/prometheus-config.module.code.ts"
 
 const NO_ALERT_RULES = "groups: []\n"

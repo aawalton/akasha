@@ -17,7 +17,6 @@ export const clusterManifests = {
     "module/orphan-resource-listing",
     "module/orphan-sweep-notice",
     "module/orphan-sweeping",
-    "module/prometheus-constants",
     "module/realtime-tenant-bootstrap",
     "module/tunnel-config",
     "module/tunnel-route",
