@@ -38,7 +38,10 @@ export default [
   route("api/page-types", "routes/api.page-types.ts"),
   route("api/pages/:pageTypeSlug", "routes/alan-web-api-pages/alan-web-api-pages.route.code.ts"),
   route("api/page-write", "routes/api.page-write.ts"),
-  route("api/nav-icon/:idSuffix", "routes/api.nav-icon.$idSuffix.ts"),
+  route(
+    "api/nav-icon/:idSuffix",
+    "routes/alan-web-api-nav-icon/alan-web-api-nav-icon.route.code.ts"
+  ),
   route("api/image/:imageId", "routes/alan-web-api-image/alan-web-api-image.route.code.ts"),
   route("api/wallpaper", "routes/wallpaper/wallpaper.route.code.ts"),
   route("api/property-option", "routes/api.property-option.ts"),
