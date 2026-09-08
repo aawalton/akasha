@@ -31,7 +31,7 @@ import {
   ranBy,
   runAt,
 } from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
-import { opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
+import { costRecorded, opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
 import {
   type Given as Arguments,
   readingIn,
@@ -61,11 +61,7 @@ import type { Taking } from "../../../command-system/commands/properties/taking.
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import { inputIn, type Piping } from "../../../command-system/piping/piping.module.code.ts"
 import { offRepo, pathAt } from "../../../command-system/said-pathing/said-pathing.module.code.ts"
-import {
-  CHANGE,
-  CHANGE_PAGE,
-  costRecorded,
-} from "../../modules/change-costing/change-costing.module.code.ts"
+import { CHANGE, CHANGE_PAGE } from "../../modules/change-costing/change-costing.module.code.ts"
 import { change as changePage } from "./change.command.ts"
 
 export const PAGE_LANDING =

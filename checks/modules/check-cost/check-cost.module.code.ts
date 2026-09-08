@@ -179,6 +179,22 @@ export function fillingAt(root: string, page: string, adding: number): string | 
   return partAt(page, part + 1) ?? found
 }
 
+export function costRecorded(
+  root: string,
+  page: string,
+  before: Taken,
+  phase: string,
+  ran: string,
+  paths: number,
+  refusals: number
+): string | null {
+  return recordCost(
+    root,
+    page,
+    costOf(before, closing(), Bun.randomUUIDv7(), phase, ran, paths, refusals)
+  )
+}
+
 export function recordCost(root: string, page: string, cost: Cost): string | null {
   const line = lineFor(cost)
   const at = fillingAt(root, page, Buffer.byteLength(line, "utf8"))

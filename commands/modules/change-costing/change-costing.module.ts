@@ -25,7 +25,7 @@ export const changeCosting = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here measures, as one module measures what a run cost.",
+      statement: "Nothing here measures or appends, as one module does both for every run.",
     },
     {
       invariantKind: "absence",

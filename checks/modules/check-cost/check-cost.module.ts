@@ -73,6 +73,10 @@ export const checkCost = {
       statement: "Nothing here refuses a run for that run's cost.",
     },
     {
+      invariantKind: "departure",
+      statement: "Closing a cost, minting its run id and appending its line are one call.",
+    },
+    {
       invariantKind: "absence",
       statement: "A disk that refuses a line leaves the run's answer alone.",
     },

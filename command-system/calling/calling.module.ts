@@ -15,6 +15,22 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "What one command run cost is appended beside the page of the command that ran.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The cost is taken around the whole call rather than around any part of it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call reaching no command is recorded nowhere.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A line appended here takes no turn over any file another writer holds.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A command is found through the page type reached by its id rather than by a spelled slug.",
     },

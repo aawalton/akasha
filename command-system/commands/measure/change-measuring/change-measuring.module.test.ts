@@ -129,11 +129,21 @@ test("the rows are drawn by the rule the check measuring draws its rows by", () 
   expect(spacedOnce(said[1])).toBe("change-file 1 2.000s 0 B 3 0")
 })
 
-test("nothing here reads a phase, as a change run and an apply run are both patch runs", () => {
+test("a row naming the change phase or the apply phase is read, and no other row is", () => {
   const root = rootFor()
   rowsInto(root, CHANGE_AT, [{ runId: ONE, phase: "change", ran: "change-file" }])
   rowsInto(root, APPLY_AT, [{ runId: TWO, phase: "apply", ran: "apply" }])
 
   expect(costsIn(root, NOW, DAY_BACK).other).toEqual([])
   expect(costsIn(root, NOW, DAY_BACK).total.runs).toBe(2)
+})
+
+test("the row a command run wrote beside the same page counts nowhere here", () => {
+  const root = rowsInto(rootFor(), CHANGE_AT, [
+    { runId: ONE, phase: "change", ran: "change-file" },
+    { runId: TWO, phase: "command", ran: "change" },
+  ])
+
+  expect(costsIn(root, NOW, DAY_BACK).checks.map((one) => one.check)).toEqual(["change-file"])
+  expect(costsIn(root, NOW, DAY_BACK).total.runs).toBe(1)
 })

@@ -17,7 +17,7 @@ import {
   keptEdits,
   linesIn,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
+import { costRecorded, opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
 import { writtenAgain } from "../../../command-system/address-mapping/address-mapping.module.code.ts"
 import { applying, type Carried } from "../../../command-system/applying/applying.module.code.ts"
 import { BREAK_GLASS, mistaking } from "../../../command-system/asking/asking.module.code.ts"
@@ -35,11 +35,7 @@ import {
   type Running,
   rebasedHeld,
 } from "../../../command-system/drafting/drafting.module.code.ts"
-import {
-  APPLY,
-  APPLY_PAGE,
-  costRecorded,
-} from "../../modules/change-costing/change-costing.module.code.ts"
+import { APPLY, APPLY_PAGE } from "../../modules/change-costing/change-costing.module.code.ts"
 import { noPageSaid } from "../change/change.command.code.ts"
 
 const BYTES = new TextEncoder()

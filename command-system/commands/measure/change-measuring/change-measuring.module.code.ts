@@ -21,6 +21,8 @@ const HELD = "jsonl"
 
 export const CHANGE = "change"
 
+export const APPLY = "apply"
+
 export const PAGES: readonly string[] = [
   "commands/pages/change/change.command.ts",
   "commands/pages/apply/apply.command.ts",
@@ -63,10 +65,11 @@ export function underRan(runs: readonly Run[]): ReadonlyMap<string, readonly Run
 
 export function costsIn(root: string, now: number, chosen: Chosen): Costs {
   const reading = heldIn(root)
+  const held = reading.runs.filter((one) => one.phase === CHANGE || one.phase === APPLY)
   const within =
     chosen.by === "period"
-      ? withinOf(reading.runs, now, chosen.ms)
-      : runningOf(reading.runs, rankedOf(latestOf(reading.runs), chosen.runs))
+      ? withinOf(held, now, chosen.ms)
+      : runningOf(held, rankedOf(latestOf(held), chosen.runs))
   const checks = [...underRan(within)].map(([ran, runs]) => costOf(ran, runs))
   return {
     checks: [...checks].sort(byCpu),

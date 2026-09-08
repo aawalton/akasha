@@ -3,6 +3,7 @@ import { join, resolve } from "node:path"
 import { indexNamed, indexThere, listedAt, slugsOfType, typeSlugById } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt } from "@akasha/pages/page-file-name"
+import { costRecorded, opening } from "../../checks/modules/check-cost/check-cost.module.code.ts"
 import type { HelpNotes } from "../commands/properties/help-notes.text-property.ts"
 import type { Taking } from "../commands/properties/taking.record-property.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
@@ -67,6 +68,8 @@ const TS = "ts"
 const WORD = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
 
 const UNDER = "-"
+
+const COMMAND = "command"
 
 export const ROOTED = "index"
 
@@ -273,14 +276,14 @@ async function answeredBy(
       code: 0,
     }
   }
-  const answering = answeringOf(reached.mod, named)
-  if (answering === null) {
+  const answers = answeringOf(reached.mod, named)
+  if (answers === null) {
     return refusing(
       `\`${named}\` is a command page, and ${beside} answers to nothing that can be called`
     )
   }
   const kind = outside.changeKind ?? kindOf(root, page)
-  return await answering(argv, {
+  return await answers(argv, {
     root,
     calledAs: `${outside.calledAs} ${named}`,
     from: outside.from,
@@ -338,6 +341,7 @@ function walkedIn(root: string, argv: readonly string[]): Reached | null {
 }
 
 export async function calling(argv: readonly string[], outside: Outside): Promise<Answer> {
+  const before = opening()
   const root = resolve(outside.root)
   const named = argv[0]
   if (named === HELP || named === HELP_SHORT) return helping(root, outside)
@@ -373,5 +377,13 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
         `so this names more than one:\n${among}`
     )
   }
-  return answeredBy(reached.named, first.path, root, argv.slice(reached.held), outside)
+  const answer = await answeredBy(
+    reached.named,
+    first.path,
+    root,
+    argv.slice(reached.held),
+    outside
+  )
+  costRecorded(root, first.path, before, COMMAND, reached.named, 0, answer.refusals.length)
+  return answer
 }

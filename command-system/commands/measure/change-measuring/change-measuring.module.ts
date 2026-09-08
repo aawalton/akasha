@@ -54,9 +54,12 @@ export const changeMeasuring = {
       statement: "The rows are drawn by the rule the check measuring draws its rows by.",
     },
     {
-      invariantKind: "absence",
-      statement:
-        "Nothing here reads a phase, as a change run and an apply run are both patch runs.",
+      invariantKind: "departure",
+      statement: "A row naming the change phase or the apply phase is read, and no other row is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The row a command run wrote beside the same page counts nowhere here.",
     },
     {
       invariantKind: "absence",
