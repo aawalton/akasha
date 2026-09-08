@@ -1,15 +1,21 @@
 import { expect, test } from "bun:test"
 import type { Given } from "@akasha/command-system/calling"
-import { answerFrom, claudeUsage, saidOf } from "./claude-usage.command.code.ts"
+import { answerFrom, claudeAccountUsage, saidOf } from "./claude-account-usage.command.code.ts"
 
 const ROOT = "/nowhere"
 
 function givenIn(): Given {
-  return { root: ROOT, calledAs: "akasha claude-usage", from: ROOT, writer: null, agentId: null }
+  return {
+    root: ROOT,
+    calledAs: "akasha claude-account usage",
+    from: ROOT,
+    writer: null,
+    agentId: null,
+  }
 }
 
 test("a word this does not take refuses as a fault in the call", () => {
-  const said = claudeUsage(["--sideways"], givenIn())
+  const said = claudeAccountUsage(["--sideways"], givenIn())
 
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
@@ -49,7 +55,7 @@ test("a fleet that cannot be read is a throw carried out as a refusal", () => {
 })
 
 test("the happy answer parses as the JSON the status bar reads", () => {
-  const said = claudeUsage([], givenIn())
+  const said = claudeAccountUsage([], givenIn())
 
   expect(said.code).toBe(0)
   const held = JSON.parse(said.report[0] ?? "null") as Record<

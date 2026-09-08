@@ -25,7 +25,6 @@ export const command = {
     "command/agent-turn-colors",
     "command/audit",
     "command/calendar",
-    "command/claude-usage",
     "command/complexity",
     "command/compose-notices",
     "command/deploy",

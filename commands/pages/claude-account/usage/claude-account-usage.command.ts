@@ -1,9 +1,9 @@
-import type { Command } from "../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.ts"
 
-export const claudeUsage = {
+export const claudeAccountUsage = {
   id: "01a06934-eccc-7acc-a89a-a79d59b633d6",
   pageTypeSlug: "command",
-  slug: "claude-usage",
+  slug: "claude-account-usage",
   definition: "what the Claude fleet has spent of its two windows, as one JSON object",
   code: "ts",
   test: "ts",

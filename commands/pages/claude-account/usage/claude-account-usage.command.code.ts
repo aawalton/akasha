@@ -1,7 +1,7 @@
 import { type FleetUsage, readFleetUsage } from "@akasha/agents/claude-account-usage"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import { readIn } from "../../modules/no-word-reading/no-word-reading.module.code.ts"
+import { readIn } from "../../../modules/no-word-reading/no-word-reading.module.code.ts"
 
 export function saidOf(usage: FleetUsage): string {
   return JSON.stringify(usage)
@@ -15,7 +15,7 @@ export function answerFrom(reading: () => FleetUsage): Answer {
   }
 }
 
-export function claudeUsage(argv: readonly string[], _given: Given): Answer {
+export function claudeAccountUsage(argv: readonly string[], _given: Given): Answer {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   return answerFrom(readFleetUsage)
