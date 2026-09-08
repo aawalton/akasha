@@ -10,8 +10,8 @@ export const attributesAll = {
   viewPlace: 1,
   layout: "table",
   viewSorts: [{ key: "slug", descending: false }],
-  visibleProperties: ["definition", "point-unit", "lifetime-points"],
-  alwaysShowProperties: ["point-unit", "lifetime-points"],
+  visibleProperties: ["definition", "point-unit", "points-today", "points-total", "level"],
+  alwaysShowProperties: ["point-unit", "points-total", "level"],
   hiddenPropertiesOrder: [
     "title",
     "description",
