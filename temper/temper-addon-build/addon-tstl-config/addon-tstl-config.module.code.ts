@@ -172,7 +172,7 @@ export function tstlConfigBody(asked: TstlConfigAsked): string {
   return `${JSON.stringify(body, null, 2)}\n`
 }
 
-export async function tstlConfigPathFor(
+export async function compilerConfigPathFor(
   repoRoot: string,
   addonDir: string,
   canonicalName: string

@@ -5,7 +5,7 @@ import { refused } from "@akasha/command-system/calling"
 import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { copyAddonMetadata } from "@akasha/temper-addon-build/addon-metadata-copy"
-import { TSCONFIG_NAME, tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
+import { compilerConfigPathFor, TSCONFIG_NAME } from "@akasha/temper-addon-build/addon-tstl-config"
 import {
   COMPILER_ENTRY,
   compilerCommand,
@@ -191,7 +191,7 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
 
     let config: string | null
     try {
-      config = await tstlConfigPathFor(root, target.dir, target.canonicalName)
+      config = await compilerConfigPathFor(root, target.dir, target.canonicalName)
     } catch (thrown) {
       return refused(
         `${target.canonicalName} states settings a build cannot read: ${messageOf(thrown)}`,

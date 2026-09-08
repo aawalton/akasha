@@ -7,8 +7,8 @@ import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 import { ran } from "@akasha/utils-run/running"
 import {
+  compilerConfigPathFor,
   TSCONFIG_NAME,
-  tstlConfigPathFor,
 } from "../addon-tstl-config/addon-tstl-config.module.code.ts"
 
 export const BUILD_ID_FILE = "build-id.lua"
@@ -231,7 +231,7 @@ export async function writeLoadOrder(
   canonicalName: string
 ): Promise<LoadOrderWritten> {
   const distDir = join(root, ADDONS_REL_ROOT, DIST_UNDER, canonicalName)
-  await tstlConfigPathFor(root, addonDir, canonicalName)
+  await compilerConfigPathFor(root, addonDir, canonicalName)
   const generated = join(root, ADDONS_REL_ROOT, CONFIGS_UNDER, `${canonicalName}.${TSCONFIG_NAME}`)
   const bundle = readLuaBundle(addonDir, generated)
   if (bundle === null) {

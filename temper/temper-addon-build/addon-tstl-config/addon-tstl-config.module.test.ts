@@ -4,10 +4,10 @@ import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import {
   bundleEntryPathIn,
+  compilerConfigPathFor,
   esoAddonPagePathIn,
   reachedPackageDirs,
   tstlConfigBody,
-  tstlConfigPathFor,
 } from "./addon-tstl-config.module.code.ts"
 
 const SCRATCH = scratchWorld()
@@ -75,14 +75,14 @@ test("the written settings name the entry, the bundle and the repository root", 
 test("an addon folder holding a tsconfig is built from the tsconfig held there", async () => {
   const { root, dir } = addonFolderNaming("table-functions-entry")
   writeFileSync(join(dir, "tsconfig.json"), "{}")
-  expect(await tstlConfigPathFor(root, dir, "TemperTableFunctions")).toBe(
+  expect(await compilerConfigPathFor(root, dir, "TemperTableFunctions")).toBe(
     join(dir, "tsconfig.json")
   )
 })
 
 test("an addon folder holding no tsconfig is built from settings written into the build output", async () => {
   const { root, dir } = addonFolderNaming("table-functions-entry")
-  const path = await tstlConfigPathFor(root, dir, "TemperTableFunctions")
+  const path = await compilerConfigPathFor(root, dir, "TemperTableFunctions")
   expect(path).toBe(
     join(root, "temper/addons/dist/.lua-compiler/TemperTableFunctions.tsconfig.json")
   )
@@ -90,7 +90,7 @@ test("an addon folder holding no tsconfig is built from settings written into th
 
 test("an addon page naming no bundle entry answers that nothing can be built", async () => {
   const { root, dir } = addonFolderNaming(null)
-  expect(await tstlConfigPathFor(root, dir, "TemperTableFunctions")).toBeNull()
+  expect(await compilerConfigPathFor(root, dir, "TemperTableFunctions")).toBeNull()
 })
 
 test("a slug naming a page drops the page type spelled ahead of the slug", () => {
@@ -101,7 +101,9 @@ test("a slug naming a page drops the page type spelled ahead of the slug", () =>
 
 test("an addon page naming a bundle entry the folder does not hold refuses the call", async () => {
   const { root, dir } = addonFolderNaming("gone-entry")
-  await expect(tstlConfigPathFor(root, dir, "TemperTableFunctions")).rejects.toThrow("gone-entry")
+  await expect(compilerConfigPathFor(root, dir, "TemperTableFunctions")).rejects.toThrow(
+    "gone-entry"
+  )
 })
 
 function addonReaching(dependencyName: string): { root: string; dir: string; held: string } {

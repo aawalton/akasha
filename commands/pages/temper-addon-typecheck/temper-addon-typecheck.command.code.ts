@@ -3,7 +3,7 @@ import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { saidBy as saidOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
-import { tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
+import { compilerConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
 import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { ran } from "@akasha/utils-run/running"
 import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
@@ -81,7 +81,7 @@ export async function temperAddonTypecheck(argv: readonly string[] = []): Promis
 
     let config: string | null
     try {
-      config = await tstlConfigPathFor(root, one.dir, one.canonicalName)
+      config = await compilerConfigPathFor(root, one.dir, one.canonicalName)
     } catch (thrown) {
       return refused(
         `${one.canonicalName} names no settings the compiler could be run with — ${saidOf(thrown)}`,
