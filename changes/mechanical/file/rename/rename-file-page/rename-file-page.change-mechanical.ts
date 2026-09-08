@@ -14,6 +14,7 @@ export const renameFilePage = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
+  guardSlugs: ["change-guard/claimed-file-not-left-behind"],
   invariants: [
     {
       invariantKind: "departure",
@@ -84,6 +85,11 @@ export const renameFilePage = {
     {
       invariantKind: "departure",
       statement: "The address is restated before any file the page keeps beside it is carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file the page claims and the rename leaves behind is refused by the guard named here.",
     },
   ],
 } as const satisfies ChangeMechanical
