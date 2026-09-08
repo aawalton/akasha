@@ -1,24 +1,194 @@
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
+import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
+import { ApiObject, App, Chart } from "cdk8s"
+import {
+  CONTROL_PLANE_LABELS,
+  CONTROL_PLANE_SELECTOR_LABELS,
+  HEADSCALE_IMAGE,
+  LITESTREAM_IMAGE,
+  NAMESPACE,
+  NAMESPACE_LABELS,
+  TLS_LABELS,
+} from "../headscale-constants/headscale-constants.module.code.ts"
 import {
   configmapYaml,
   litestreamConfigmapYaml,
   policyConfigmapYaml,
-} from "@akasha/cluster-manifests/headscale-configmaps"
-import {
-  CONTROL_PLANE_LABELS,
-  CONTROL_PLANE_SELECTOR_LABELS,
-  NAMESPACE,
-  NAMESPACE_LABELS,
-  NETPOL_HEADSCALE_LABELS,
-  NETPOL_SUBNET_ROUTER_LABELS,
-  TLS_LABELS,
-} from "@akasha/cluster-manifests/headscale-constants"
-import { statefulsetYaml } from "@akasha/cluster-manifests/headscale-statefulsets"
-import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
-import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
-import { ApiObject, App, Chart } from "cdk8s"
+} from "./modules/headscale-configmaps/headscale-configmaps.module.code.ts"
+import { networkPolicyYaml } from "./modules/headscale-network-policies/headscale-network-policies.module.code.ts"
 
-const APP_NAME = "headscale"
-const SUBNET_ROUTER_APP_NAME = "tailscale-subnet-router"
+const LITESTREAM_S3_ENV = [
+  {
+    name: "LITESTREAM_ACCESS_KEY_ID",
+    valueFrom: { secretKeyRef: { name: "headscale-s3-creds", key: "access_key" } },
+  },
+  {
+    name: "LITESTREAM_SECRET_ACCESS_KEY",
+    valueFrom: { secretKeyRef: { name: "headscale-s3-creds", key: "secret_key" } },
+  },
+]
+
+const LITESTREAM_SECURITY_CONTEXT = {
+  runAsNonRoot: true,
+  runAsUser: 1000,
+  runAsGroup: 1000,
+  readOnlyRootFilesystem: true,
+  allowPrivilegeEscalation: false,
+  capabilities: { drop: ["ALL"] },
+}
+
+const LITESTREAM_VOLUME_MOUNTS = [
+  { name: "data", mountPath: "/var/lib/headscale" },
+  {
+    name: "litestream-config",
+    mountPath: "/etc/litestream.yml",
+    subPath: "litestream.yml",
+    readOnly: true,
+  },
+  { name: "tmp", mountPath: "/tmp" },
+]
+
+function statefulsetYaml(): string {
+  return synthOne(NAMESPACE, "statefulset", {
+    apiVersion: "apps/v1",
+    kind: "StatefulSet",
+    metadata: {
+      name: "headscale",
+      namespace: NAMESPACE,
+      labels: CONTROL_PLANE_LABELS,
+    },
+    spec: {
+      serviceName: "headscale",
+      replicas: 1,
+      updateStrategy: { type: "RollingUpdate" },
+      selector: { matchLabels: CONTROL_PLANE_SELECTOR_LABELS },
+      template: {
+        metadata: {
+          labels: CONTROL_PLANE_LABELS,
+          annotations: { "checksum/s3-creds": "placeholder" },
+        },
+        spec: {
+          terminationGracePeriodSeconds: 30,
+          nodeSelector: workloadClassMemberSelector("control"),
+          securityContext: { fsGroup: 1000 },
+          initContainers: [
+            {
+              name: "litestream-restore",
+              image: LITESTREAM_IMAGE,
+              args: [
+                "restore",
+                "-if-db-not-exists",
+                "-if-replica-exists",
+                "-config",
+                "/etc/litestream.yml",
+                "/var/lib/headscale/db.sqlite",
+              ],
+              env: LITESTREAM_S3_ENV,
+              volumeMounts: LITESTREAM_VOLUME_MOUNTS,
+              resources: {
+                requests: { cpu: "10m", memory: "64Mi" },
+                limits: { memory: "64Mi" },
+              },
+              securityContext: LITESTREAM_SECURITY_CONTEXT,
+            },
+          ],
+          containers: [
+            {
+              name: "headscale",
+              image: HEADSCALE_IMAGE,
+              args: ["serve", "-c", "/headscale-config/config.yaml"],
+              ports: [
+                { name: "https", containerPort: 8443, protocol: "TCP" },
+                { name: "metrics", containerPort: 9090, protocol: "TCP" },
+              ],
+              volumeMounts: [
+                { name: "config", mountPath: "/headscale-config", readOnly: true },
+                { name: "policy", mountPath: "/headscale-policy", readOnly: true },
+                { name: "secrets", mountPath: "/headscale-secrets", readOnly: true },
+                { name: "tls", mountPath: "/headscale-tls", readOnly: true },
+                { name: "data", mountPath: "/var/lib/headscale" },
+                { name: "run", mountPath: "/var/run/headscale" },
+              ],
+              resources: {
+                requests: { cpu: "50m", memory: "256Mi" },
+                limits: { memory: "256Mi" },
+              },
+              securityContext: {
+                runAsNonRoot: true,
+                runAsUser: 1000,
+                runAsGroup: 1000,
+                readOnlyRootFilesystem: true,
+                allowPrivilegeEscalation: false,
+                capabilities: { drop: ["ALL"] },
+              },
+              readinessProbe: {
+                httpGet: { path: "/health", port: "https", scheme: "HTTPS" },
+                initialDelaySeconds: 5,
+                periodSeconds: 10,
+                timeoutSeconds: 3,
+                failureThreshold: 3,
+              },
+              livenessProbe: {
+                httpGet: { path: "/health", port: "https", scheme: "HTTPS" },
+                initialDelaySeconds: 15,
+                periodSeconds: 30,
+                timeoutSeconds: 5,
+                failureThreshold: 3,
+              },
+            },
+            {
+              name: "litestream",
+              image: LITESTREAM_IMAGE,
+              args: ["replicate", "-config", "/etc/litestream.yml"],
+              env: LITESTREAM_S3_ENV,
+              volumeMounts: LITESTREAM_VOLUME_MOUNTS,
+              resources: {
+                requests: { cpu: "10m", memory: "64Mi" },
+                limits: { memory: "64Mi" },
+              },
+              securityContext: LITESTREAM_SECURITY_CONTEXT,
+            },
+          ],
+          volumes: [
+            {
+              name: "config",
+              configMap: {
+                name: "headscale-config",
+                items: [{ key: "config.yaml", path: "config.yaml" }],
+              },
+            },
+            {
+              name: "policy",
+              configMap: {
+                name: "headscale-policy",
+                items: [{ key: "policy.hujson", path: "policy.hujson" }],
+              },
+            },
+            {
+              name: "litestream-config",
+              configMap: {
+                name: "headscale-litestream",
+                items: [{ key: "litestream.yml", path: "litestream.yml" }],
+              },
+            },
+            {
+              name: "secrets",
+              secret: { secretName: "headscale-secrets", defaultMode: 0o400 },
+            },
+            {
+              name: "tls",
+              secret: { secretName: "headscale-tls", defaultMode: 0o400 },
+            },
+            { name: "run", emptyDir: {} },
+            { name: "tmp", emptyDir: {} },
+            { name: "data", emptyDir: {} },
+          ],
+        },
+      },
+    },
+  })
+}
 
 function certificateYaml(): string {
   const app = new App()
@@ -46,204 +216,6 @@ function certificateYaml(): string {
     },
   })
   return app.synthYaml()
-}
-
-function networkPolicyYaml(): string {
-  return synthMulti(NAMESPACE, [
-    {
-      id: "default-deny",
-      manifest: {
-        apiVersion: "networking.k8s.io/v1",
-        kind: "NetworkPolicy",
-        metadata: {
-          name: "default-deny",
-          namespace: NAMESPACE,
-          labels: NETPOL_HEADSCALE_LABELS,
-        },
-        spec: {
-          podSelector: {},
-          policyTypes: ["Ingress", "Egress"],
-        },
-      },
-    },
-    {
-      id: "allow-dns-egress",
-      manifest: {
-        apiVersion: "networking.k8s.io/v1",
-        kind: "NetworkPolicy",
-        metadata: {
-          name: "allow-dns-egress",
-          namespace: NAMESPACE,
-          labels: NETPOL_HEADSCALE_LABELS,
-        },
-        spec: {
-          podSelector: {},
-          policyTypes: ["Egress"],
-          egress: [
-            {
-              to: [
-                {
-                  namespaceSelector: {
-                    matchLabels: { "kubernetes.io/metadata.name": "kube-system" },
-                  },
-                },
-              ],
-              ports: [
-                { protocol: "UDP", port: 53 },
-                { protocol: "TCP", port: 53 },
-              ],
-            },
-          ],
-        },
-      },
-    },
-    {
-      id: "allow-internet-egress",
-      manifest: {
-        apiVersion: "networking.k8s.io/v1",
-        kind: "NetworkPolicy",
-        metadata: {
-          name: "allow-internet-egress",
-          namespace: NAMESPACE,
-          labels: NETPOL_HEADSCALE_LABELS,
-        },
-        spec: {
-          podSelector: {
-            matchLabels: { "app.kubernetes.io/name": APP_NAME },
-          },
-          policyTypes: ["Egress"],
-          egress: [
-            {
-              to: [
-                {
-                  ipBlock: {
-                    cidr: "0.0.0.0/0",
-                    except: ["10.0.0.0/8", "172.16.0.0/12", "192.168.0.0/16"],
-                  },
-                },
-              ],
-              ports: [
-                { protocol: "TCP", port: 443 },
-                { protocol: "TCP", port: 80 },
-              ],
-            },
-          ],
-        },
-      },
-    },
-    {
-      id: "allow-seaweedfs-egress",
-      manifest: {
-        apiVersion: "networking.k8s.io/v1",
-        kind: "NetworkPolicy",
-        metadata: {
-          name: "allow-seaweedfs-egress",
-          namespace: NAMESPACE,
-          labels: NETPOL_HEADSCALE_LABELS,
-        },
-        spec: {
-          podSelector: {
-            matchLabels: { "app.kubernetes.io/name": APP_NAME },
-          },
-          policyTypes: ["Egress"],
-          egress: [
-            {
-              to: [
-                {
-                  namespaceSelector: {
-                    matchLabels: { "kubernetes.io/metadata.name": "seaweedfs" },
-                  },
-                },
-              ],
-              ports: [{ protocol: "TCP", port: 8333 }],
-            },
-          ],
-        },
-      },
-    },
-    {
-      id: "allow-public-ingress",
-      manifest: {
-        apiVersion: "networking.k8s.io/v1",
-        kind: "NetworkPolicy",
-        metadata: {
-          name: "allow-public-ingress",
-          namespace: NAMESPACE,
-          labels: NETPOL_HEADSCALE_LABELS,
-        },
-        spec: {
-          podSelector: {
-            matchLabels: { "app.kubernetes.io/name": APP_NAME },
-          },
-          policyTypes: ["Ingress"],
-          ingress: [
-            {
-              from: [{ ipBlock: { cidr: "0.0.0.0/0" } }],
-              ports: [{ protocol: "TCP", port: 8443 }],
-            },
-          ],
-        },
-      },
-    },
-    {
-      id: "allow-subnet-router-egress",
-      manifest: {
-        apiVersion: "networking.k8s.io/v1",
-        kind: "NetworkPolicy",
-        metadata: {
-          name: "allow-subnet-router-egress",
-          namespace: NAMESPACE,
-          labels: NETPOL_SUBNET_ROUTER_LABELS,
-        },
-        spec: {
-          podSelector: {
-            matchLabels: { "app.kubernetes.io/name": SUBNET_ROUTER_APP_NAME },
-          },
-          policyTypes: ["Egress"],
-          egress: [
-            {
-              to: [
-                {
-                  namespaceSelector: {
-                    matchLabels: { "kubernetes.io/metadata.name": "kube-system" },
-                  },
-                },
-              ],
-              ports: [
-                { protocol: "UDP", port: 53 },
-                { protocol: "TCP", port: 53 },
-              ],
-            },
-            {
-              to: [
-                {
-                  ipBlock: {
-                    cidr: "0.0.0.0/0",
-                    except: ["10.0.0.0/8", "172.16.0.0/12", "192.168.0.0/16"],
-                  },
-                },
-              ],
-              ports: [
-                { protocol: "TCP", port: 443 },
-                { protocol: "UDP", port: 3478 },
-                { protocol: "UDP", port: 41641 },
-              ],
-            },
-            {
-              to: [{ namespaceSelector: {}, podSelector: {} }],
-            },
-            {
-              to: [
-                { ipBlock: { cidr: "10.244.0.0/16" } },
-                { ipBlock: { cidr: "10.96.0.0/12" } },
-                { ipBlock: { cidr: "192.168.68.0/24" } },
-              ],
-            },
-          ],
-        },
-      },
-    },
-  ])
 }
 
 function serviceYaml(): string {

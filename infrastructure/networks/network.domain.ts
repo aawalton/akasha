@@ -13,6 +13,7 @@ export const network = {
     "manifest/headscale",
     "manifest/tailnet-egress",
     "manifest/talos-subnet-router",
+    "module/headscale-constants",
     "workspace-package/auth-proxy",
   ],
   invariants: [

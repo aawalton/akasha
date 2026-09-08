@@ -2,7 +2,7 @@ import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import {
   CONTROL_PLANE_LABELS,
   NAMESPACE,
-} from "../headscale-constants/headscale-constants.module.code.ts"
+} from "../../../headscale-constants/headscale-constants.module.code.ts"
 
 const HEADSCALE_CONFIG_YAML = `server_url: https://headscale.alanwalton.com
 listen_addr: 0.0.0.0:8443

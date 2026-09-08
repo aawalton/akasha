@@ -1,10 +1,10 @@
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import {
   NAMESPACE,
   SUBNET_ROUTER_LABELS,
   SUBNET_ROUTER_SELECTOR_LABELS,
   TAILSCALE_IMAGE,
-} from "@akasha/cluster-manifests/headscale-constants"
-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+} from "../headscale-constants/headscale-constants.module.code.ts"
 
 function subnetRouterDeploymentYaml(): string {
   return synthOne(NAMESPACE, "subnet-router-deployment", {
