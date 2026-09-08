@@ -66,6 +66,5 @@ export const clusterManifests = {
     "module/tunnel-config",
     "module/tunnel-route",
     "module/tunnel-route-discovery",
-    "module/voice-infer-rbac",
   ],
 } as const satisfies WorkspacePackage

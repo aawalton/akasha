@@ -52,8 +52,7 @@
     "./tailnet-egress-rbac": "./tailnet-egress-rbac/tailnet-egress-rbac.module.code.ts",
     "./tunnel-config": "./tunnel-config/tunnel-config.module.code.ts",
     "./tunnel-route": "./tunnel-route/tunnel-route.module.code.ts",
-    "./tunnel-route-discovery": "./tunnel-route-discovery/tunnel-route-discovery.module.code.ts",
-    "./voice-infer-rbac": "./voice-infer-rbac/voice-infer-rbac.module.code.ts"
+    "./tunnel-route-discovery": "./tunnel-route-discovery/tunnel-route-discovery.module.code.ts"
   },
   "dependencies": {
     "@akasha/code": "workspace:*",

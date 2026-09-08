@@ -15,6 +15,7 @@ export const voiceInference = {
     "python-module/voice-speech-hls",
     "python-module/voice-speech-mp3",
     "shell-script/voice-infer-cluster-publish",
+    "module/voice-infer-rbac",
   ],
   invariants: [
     {
