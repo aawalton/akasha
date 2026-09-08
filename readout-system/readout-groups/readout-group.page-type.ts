@@ -16,7 +16,6 @@ export const readoutGroup = {
   pluralSlug: "readout-groups",
   partSlugs: [
     "boolean-property/figure-off-scale",
-    "number-property/figure-max-length",
     "readout-group/attributes",
     "readout-group/categorization",
     "readout-group/claude-usage",
