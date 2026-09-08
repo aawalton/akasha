@@ -8,6 +8,7 @@ export const akasha = {
   partSlugs: [
     "ast-grep-rule/mock-module-outside-test-file",
     "ast-grep-rule/no-hardcoded-ast-grep-scan",
+    "ast-grep-rule/no-user-id-comparison-in-web-app",
   ],
   sgconfig: "yml",
 } as const satisfies AstGrepConfig
