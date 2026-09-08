@@ -10,10 +10,16 @@ export const changePagePageProperty = {
   definition: "one key of a page's exported object stated anew",
   code: "ts",
   test: "ts",
+  guardSlugs: ["change-guard/identity-not-already-held"],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The passage answered is the lines the key's value sits on rather than the body.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The id and the slug the page states after the change are judged by the guard this change names.",
     },
     {
       "invariantKind": "departure",
