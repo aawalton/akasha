@@ -109,7 +109,7 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that is not text is carried as bytes rather than read as characters.",
+      statement: "A body that is not text is answered as not text rather than read as characters.",
     },
     {
       invariantKind: "departure",

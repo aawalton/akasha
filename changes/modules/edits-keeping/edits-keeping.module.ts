@@ -135,6 +135,15 @@ export const editsKeeping = {
       statement: "The rows are folded into one answer by the rule one answer is gathered by.",
     },
     {
+      invariantKind: "departure",
+      statement: "A body beneath is read as bytes and decoded rather than read as characters.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body the decoding will not read is answered as not text rather than as no body.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here works out a body or judges an edit.",
     },
