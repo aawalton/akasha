@@ -39,7 +39,7 @@ export const createDiagnosticFactoryWithCode = <TArgs extends readonly unknown[]
       length: undefined,
       category: ts.DiagnosticCategory.Error,
       code,
-      source: "@temper/shared-build-deploy-tstl",
+      source: diagnosticSource,
       ...create(...args),
     }),
     { code }
