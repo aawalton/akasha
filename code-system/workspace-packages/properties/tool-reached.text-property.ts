@@ -20,7 +20,7 @@ export const toolReached = {
     },
     {
       invariantKind: "departure",
-      statement: "A dependency named here is reached, so nothing asks a body to import it.",
+      statement: "No body is asked to import a dependency named here.",
     },
     {
       invariantKind: "absence",
@@ -28,7 +28,8 @@ export const toolReached = {
     },
     {
       invariantKind: "departure",
-      statement: "A package naming nothing here has every dependency reached by what it holds.",
+      statement:
+        "A package naming nothing here has every dependency reached by a body the package holds.",
     },
   ],
 } as const satisfies TextProperty
