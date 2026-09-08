@@ -1,5 +1,5 @@
 {
-  "extends": "../../tsconfig.base.json",
+  "extends": "../../../tsconfig.base.json",
   "compilerOptions": {
     "jsx": "react-jsx",
     "lib": ["dom", "dom.iterable", "esnext"],
@@ -12,7 +12,7 @@
     "noEmit": false,
     "emitDeclarationOnly": true,
     "declarationDir": "dist",
-    "rootDir": "../.."
+    "rootDir": "../../.."
   },
   "include": [
     "*.ts",
