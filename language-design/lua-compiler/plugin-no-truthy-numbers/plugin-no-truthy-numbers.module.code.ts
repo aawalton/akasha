@@ -66,7 +66,7 @@ function makeDiagnostic(
     messageText: `Lua truthiness bug: condition has type '${typeStr}'. ${remedyFor(type)}`,
     category: ts.DiagnosticCategory.Error,
     code: 90001,
-    source: "tstl-no-truthy-numbers",
+    source: "no-truthy-numbers",
   }
 }
 
