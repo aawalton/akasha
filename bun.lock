@@ -459,6 +459,13 @@
         "typescript": "5.9.3",
       },
     },
+    "checkout-version": {
+      "name": "@akasha/checkout-version",
+      "dependencies": {
+        "@akasha/git": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "checks": {
       "name": "@akasha/checks",
       "dependencies": {
@@ -2943,13 +2950,6 @@
     "verdict": {
       "name": "@akasha/verdict",
     },
-    "version/checkout": {
-      "name": "@akasha/checkout-version",
-      "dependencies": {
-        "@akasha/git": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "voice-core": {
       "name": "@akasha/voice-core",
       "dependencies": {
@@ -3025,7 +3025,7 @@
 
     "@akasha/changes": ["@akasha/changes@workspace:changes"],
 
-    "@akasha/checkout-version": ["@akasha/checkout-version@workspace:version/checkout"],
+    "@akasha/checkout-version": ["@akasha/checkout-version@workspace:checkout-version"],
 
     "@akasha/checks": ["@akasha/checks@workspace:checks"],
 

@@ -1,4 +1,4 @@
-import { toPersonaSlug } from "../../personas/image-name/image-name.module.code.ts"
+import { toPersonaSlug } from "../image-name/image-name.module.code.ts"
 
 export interface PersonaMatchCandidate {
   readonly id: string
