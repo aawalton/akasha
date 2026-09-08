@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const measureRepo = {
   id: "01a0796e-60aa-792a-9f56-2593355a10a6",
