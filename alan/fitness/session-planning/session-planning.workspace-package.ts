@@ -6,7 +6,7 @@ export const sessionPlanning = {
   slug: "session-planning",
   definition: "which movements a session asks for and what each of them is prescribed",
   manifest: "json",
-  partSlugs: ["module/equipment-kit", "module/pattern-groups", "module/performed-set"],
+  partSlugs: ["module/equipment-kit", "module/pattern-groups"],
   invariants: [
     {
       invariantKind: "departure",
