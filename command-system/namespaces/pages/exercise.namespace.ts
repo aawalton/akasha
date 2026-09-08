@@ -6,7 +6,6 @@ export const exercise = {
   slug: "exercise",
   definition: "the movements Alan trains and what decides the next one",
   partSlugs: [
-    "command/exercise-add",
     "namespace/exercise-constraint",
     "namespace/exercise-equipment",
     "command/exercise-history",
