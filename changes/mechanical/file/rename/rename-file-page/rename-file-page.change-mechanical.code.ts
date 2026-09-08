@@ -282,9 +282,6 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const read = readIn(given.at, text)
   if ("refused" in read) return refusing(read.refused)
   const held = read.held
-  if (held.pageTypeSlug === PAGE_TYPE) {
-    return refusing(`\`${given.at}\` names a page type, whose slug is renamed by another change`)
-  }
   let lands: string
   let beside: readonly Beside[]
   try {

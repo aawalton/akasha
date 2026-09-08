@@ -18,11 +18,6 @@ export const renameFilePage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A page type's own file is refused here, its slug being renamed by another change.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A page's files are carried before that page's slug is restated.",
     },
     {

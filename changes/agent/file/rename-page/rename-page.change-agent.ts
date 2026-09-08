@@ -18,6 +18,14 @@ export const renamePage = {
     },
     {
       invariantKind: "departure",
+      statement: "The kind of page is read from the path rather than from the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type is refused here, and the refusal names the change renaming one.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That change is reached through the runner rather than by an import.",
     },
     {

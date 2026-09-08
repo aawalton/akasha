@@ -1,8 +1,11 @@
+import { partedIn } from "@akasha/pages/page-file-name"
 import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
+
+const PAGE_TYPE = "page-type"
 
 const AT = "at"
 
@@ -17,6 +20,12 @@ export type RenamePageAsked = {
 }
 
 export async function renamePage(world: World, given: RenamePageAsked): Promise<Answer> {
+  const said = partedIn(given.at)
+  if (said !== null && said.sections.length === 0 && said.pageType === PAGE_TYPE) {
+    return refusing(
+      `\`${given.at}\` is a page type, and \`rename-page-type\` renames one rather than this change`
+    )
+  }
   return (await reach(world, RENAME_FILE_PAGE, given)).said
 }
 

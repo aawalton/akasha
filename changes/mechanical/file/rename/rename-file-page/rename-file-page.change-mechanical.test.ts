@@ -178,16 +178,6 @@ test("a body stating no page type is refused", async () => {
   expect(said.refused).toBe("`akasha/one/held.module.ts` states no `pageTypeSlug`")
 })
 
-test("a page type is refused, its slug being renamed by another change", async () => {
-  const body = bodyOf({ id: idOf("8"), pageTypeSlug: "page-type", slug: HELD_SLUG })
-  const world = worldIn(scratch.rootFor("slug-"), saying(body))
-  const said = await runChange(world, { at: HELD_PAGE, to: CARRIED })
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(
-    "`akasha/one/held.module.ts` names a page type, whose slug is renamed by another change"
-  )
-})
-
 test("a refusal from the slug rename is answered as this change's own", async () => {
   const root = heldAt
   const said = await runChange(worldIn(root, textIn(root)), { at: HELD_PAGE, to: "namer" })

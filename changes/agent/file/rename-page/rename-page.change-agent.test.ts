@@ -56,3 +56,12 @@ test("an argument the change was handed no value for is refused by its key", asy
   expect(neither.refused ?? "").toContain("`at`")
   expect(noTo.refused ?? "").toContain("`to`")
 })
+
+test("a page type is refused rather than handed to the change renaming a page", async () => {
+  const carried: Carried = { at: "", given: null }
+
+  const said = await renamePage(worldOf(carried), { at: "akasha/one/held.page-type.ts", to: TO })
+
+  expect(said.refused).not.toBe(null)
+  expect(carried.at).toBe("")
+})
