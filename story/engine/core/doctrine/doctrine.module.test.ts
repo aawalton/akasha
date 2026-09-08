@@ -7,8 +7,8 @@ import {
   parseDoctrinePack,
   preserveDoctrineOnReplace,
   withDoctrinePack,
-} from "./gm-doctrine-pack.module.code.ts"
-import { FIXTURE_PACK } from "./gm-doctrine-pack.module.test-fixtures.ts"
+} from "./doctrine.module.code.ts"
+import { FIXTURE_PACK } from "./doctrine.module.test-fixtures.ts"
 
 const PER_GAME_POLICY = { id: "house:no-dice", title: "No dice", bands: [] }
 

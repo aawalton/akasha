@@ -1,4 +1,4 @@
-import type { GmDoctrinePack } from "./gm-doctrine-pack.module.code.ts"
+import type { GmDoctrinePack } from "./doctrine.module.code.ts"
 
 export const FIXTURE_PACK: GmDoctrinePack = {
   doctrineVersion: 6,

@@ -25,7 +25,7 @@ export const storyEngineCore = {
     "module/gate-dimension",
     "module/gate-verdict-schema",
     "module/gm-context-schema",
-    "module/gm-doctrine-pack",
+    "module/doctrine",
     "module/gm-voice-lints",
     "module/lore-schema",
     "module/narrative-continuity-schema",

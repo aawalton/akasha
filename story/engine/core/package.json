@@ -21,7 +21,7 @@
     "./gate-dimension": "./gate-dimension/gate-dimension.module.code.ts",
     "./gate-verdict-schema": "./gate-verdict-schema/gate-verdict-schema.module.code.ts",
     "./gm-context-schema": "./gm-context-schema/gm-context-schema.module.code.ts",
-    "./gm-doctrine-pack": "./gm-doctrine-pack/gm-doctrine-pack.module.code.ts",
+    "./doctrine": "./doctrine/doctrine.module.code.ts",
     "./gm-voice-lints": "./gm-voice-lints/gm-voice-lints.module.code.ts",
     "./lore-schema": "./lore-schema/lore-schema.module.code.ts",
     "./narrative-continuity-schema": "./narrative-continuity-schema/narrative-continuity-schema.module.code.ts",
