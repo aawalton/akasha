@@ -3,6 +3,7 @@ import {
   type LaunchSeatOpts,
   type LaunchSeatResult,
   launchSeatUnderTmux,
+  liveSessionHolds,
 } from "../launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { DEFAULT_ACCOUNT } from "../seat-launching/seat-launching.module.code.ts"
 import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
@@ -53,6 +54,7 @@ export interface MaterializeInput {
 export interface ResumeSeatDeps {
   readonly resolveTarget: (agentId: string) => Promise<ResolvedResumeTarget>
   readonly decideGuard: (input: SpawnGuardInput) => SpawnGuardDecision
+  readonly liveSessionHolds: (name: string) => Promise<boolean>
   readonly materializeTranscript: (input: MaterializeInput) => Promise<MaterializeTranscriptResult>
   readonly clearRequestedAction: (agentId: string) => Promise<void>
   readonly terminatePriorTree: (agentId: string) => Promise<readonly number[]>
@@ -63,6 +65,7 @@ export async function liveResumeSeatDeps(): Promise<ResumeSeatDeps> {
   return {
     resolveTarget: resolveRelaunchTarget,
     decideGuard: decideSpawnGuard,
+    liveSessionHolds,
     materializeTranscript: materializeLocalTranscript,
     clearRequestedAction,
     terminatePriorTree: terminatePriorAgentTree,
