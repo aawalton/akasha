@@ -41,7 +41,7 @@ function formatViolation(v: PropertyCallbackSelfFinding): string {
 const SUCCESS_MESSAGE = "All property-style interface callbacks declare `this: void`."
 
 export const propertyCallbackSelfEntry: SyntaxScannerEntry = {
-  name: "tstl-property-callback-self",
+  name: "property-callback-self",
   preFileSkip: (rel, repoRoot) => !isLuaCompilerSourcePath(rel, repoRoot),
   findFindings: (sf) => {
     const out: NormalizedFinding[] = []
