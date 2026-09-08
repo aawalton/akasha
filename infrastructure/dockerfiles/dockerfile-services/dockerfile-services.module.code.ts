@@ -17,7 +17,7 @@ export const SERVICES: Record<string, ServiceConfig> = {
   ci: {
     type: "tool-image",
     dir: "infrastructure/dockerfiles",
-    extensionFile: "ci.dockerfile-extensions.json",
+    extensionFile: "../built-images/ci/ci.built-image.extensions.json",
   },
   "bun-git": {
     type: "tool-image",
