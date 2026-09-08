@@ -135,6 +135,10 @@ export type Filed = {
   readonly said: string
 }
 
+export function keyFor(one: Filed): string {
+  return join(one.level, one.scope, one.propertySlug, one.said)
+}
+
 export function filedIn(
   value: Value,
   identifying: Identifying,
@@ -171,7 +175,7 @@ export function identityIn(
   if (id === null) return []
   const line = JSON.stringify({ path: under(repo, path), id })
   return filedIn(value, identifying, only, partOf).map((one) => ({
-    at: join(IDENTITY, one.level, one.scope, one.propertySlug, `${one.said}${ENDING}`),
+    at: join(IDENTITY, `${keyFor(one)}${ENDING}`),
     line,
   }))
 }

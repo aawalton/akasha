@@ -1,4 +1,4 @@
-import { filedIn, type PartOf, partingOver } from "@akasha/indexes/identity"
+import { filedIn, keyFor, type PartOf, partingOver } from "@akasha/indexes/identity"
 import type { Change } from "@akasha/pages/change"
 import { type Identifying, identifyingFrom } from "@akasha/pages/page-type-properties"
 import type { Shadow } from "@akasha/pages/shadow"
@@ -31,7 +31,7 @@ export function statedBy(
 }
 
 export function keyOf(one: Stated): string {
-  return `${one.level}/${one.scope}/${one.propertySlug}/${one.said}`
+  return keyFor(one)
 }
 
 export function statedByKey(stated: readonly Stated[]): ReadonlyMap<string, readonly Stated[]> {
