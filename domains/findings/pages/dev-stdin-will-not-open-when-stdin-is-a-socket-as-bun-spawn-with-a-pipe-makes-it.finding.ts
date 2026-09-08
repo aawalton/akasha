@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const devStdinWillNotOpenWhenStdinIsASocketAsBunSpawnWithAPipeMakesIt = {
+  id: "01a08210-09bb-72b1-ad4f-d5ac17ee8bb5",
+  pageTypeSlug: "finding",
+  slug: "dev-stdin-will-not-open-when-stdin-is-a-socket-as-bun-spawn-with-a-pipe-makes-it",
+  domainSlug: "workspace-package/command-system",
+  claim:
+    "`Bun.spawn` given `stdin` as a pipe hands the child a socket rather than a pipe, and a socket cannot be reopened through `/proc/self/fd/0`, so `inputIn` gets ENXIO from `/dev/stdin` and every akasha command driven that way is refused for arguments that would not open rather than reading the body it was written.",
+  evidence:
+    "Measured 2026-09-08 on bun 1.3.14, Linux.\n\nWHAT WAS OBSERVED. A child started by `Bun.spawn` with stdin asked for as a pipe sees `/proc/self/fd/0` as `socket:[1182313136]`, and `fstatSync(0).isSocket()` is true. The same program run behind a shell pipe sees `pipe:[1182313140]`, and `isFIFO()` is true. In the spawned child, `openSync` of `/dev/stdin` with `O_RDONLY | O_NONBLOCK` throws `ENXIO: no such device or address`, on all 60 rounds of a run that varied how much was written and how slowly. Behind a shell pipe the same open succeeds. Linux answers ENXIO for an open of a socket through `/proc/self/fd`.\n\nWHAT IT MEANS HERE. `inputIn` in `command-system/piping/piping.module.code.ts` opens `/dev/stdin` rather than reading descriptor 0, so it answers unreadable there, and `argumentsIn` in `command-system/change-running/change-running.module.code.ts` turns that into a refusal saying the arguments would not open. So a caller driving an akasha command from `Bun.spawn` with a piped stdin is refused rather than read, however well formed the body is. `Bun.spawnSync` handed a stdin buffer, which `bytes` in `utils-run/running` uses, gives the child a regular file instead, and reads whole at every size from 1 KB to 1 MB.\n\nWHAT IS NOT CLAIMED. No caller in the tree was found driving an akasha command this way, so this is the mechanism rather than a failure anyone has hit. The piping module already carries the gap that an input no second descriptor can be opened on is answered as an input that would not open; what is new is which spawn shape lands in it. Whether reading descriptor 0 directly would be a safe mend was not worked out, and the second descriptor is opened on purpose.",
+} as const satisfies Finding
