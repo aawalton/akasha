@@ -9,7 +9,7 @@ export const dayStretches = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every read of one day's stretches carries the one limit this module states.",
+      statement: "Every read of one day's stretches has the one limit this module states.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +64,7 @@ export const dayStretches = {
     },
     {
       invariantKind: "departure",
-      statement: "What a stretch may carry is asked of the `sessions` entry property.",
+      statement: "What a stretch may have is asked of the `sessions` entry property.",
     },
     {
       invariantKind: "departure",

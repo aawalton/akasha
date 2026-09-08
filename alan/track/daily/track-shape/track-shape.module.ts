@@ -74,7 +74,7 @@ export const trackShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying no slug takes one minted from that day's date.",
+      statement: "A day with no slug takes one minted from that day's date.",
     },
     {
       invariantKind: "departure",

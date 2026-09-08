@@ -25,15 +25,15 @@ export const widgetTapAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug no widget page carries is answered as no widget rather than as a tap.",
+      statement: "A slug no widget page has is answered as no widget rather than as a tap.",
     },
     {
       invariantKind: "departure",
-      statement: "The answer carries the count the tap left.",
+      statement: "The answer has the count the tap left.",
     },
     {
       invariantKind: "departure",
-      statement: "An answer to the native shell carries the cross-origin headers that shell needs.",
+      statement: "An answer to the native shell has the cross-origin headers that shell needs.",
     },
     {
       invariantKind: "absence",

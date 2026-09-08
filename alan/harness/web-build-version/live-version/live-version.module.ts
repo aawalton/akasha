@@ -13,7 +13,7 @@ export const liveVersion = {
     },
     {
       invariantKind: "departure",
-      statement: "A build carrying no commit answers with the reason rather than with nothing.",
+      statement: "A build with no commit answers with the reason rather than with nothing.",
     },
   ],
 } as const satisfies Module

@@ -57,7 +57,7 @@ export const topicWords = {
     },
     {
       invariantKind: "departure",
-      statement: "A count matching the count the day carries lands no commit.",
+      statement: "A count matching the count the day has lands no commit.",
     },
     {
       invariantKind: "absence",

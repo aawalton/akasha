@@ -9,7 +9,7 @@ export const navIconSvg = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An icon name the set does not carry is drawn as a page of text.",
+      statement: "An icon name the set does not have is drawn as a page of text.",
     },
     {
       invariantKind: "departure",

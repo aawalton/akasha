@@ -30,7 +30,7 @@ export const songSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug carries no dash at either end.",
+      statement: "A slug has no dash at either end.",
     },
     {
       invariantKind: "departure",
@@ -42,11 +42,11 @@ export const songSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A number another slug already carries gives way to the next number up.",
+      statement: "A number another slug already has gives way to the next number up.",
     },
     {
       invariantKind: "departure",
-      statement: "A base a thousand slugs already carry is thrown rather than numbered again.",
+      statement: "A base a thousand slugs already have is thrown rather than numbered again.",
     },
     {
       invariantKind: "departure",

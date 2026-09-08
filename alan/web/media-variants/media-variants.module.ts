@@ -10,7 +10,7 @@ export const mediaVariants = {
     {
       invariantKind: "departure",
       statement:
-        "The personas carrying a voice reference are picked out of the rows rather than in the question.",
+        "The personas with a voice reference are picked out of the rows rather than in the question.",
     },
   ],
 } as const satisfies Module

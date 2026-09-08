@@ -13,7 +13,7 @@ export const spotifyCredentials = {
     },
     {
       invariantKind: "departure",
-      statement: "A secret the environment does not carry throws.",
+      statement: "A secret the environment does not have throws.",
     },
     {
       invariantKind: "departure",

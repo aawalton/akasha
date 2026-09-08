@@ -13,7 +13,7 @@ export const dayNarrowTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "An ask that cannot answer carries the reason rather than throwing.",
+      statement: "An ask that cannot answer has the reason rather than throwing.",
     },
     {
       invariantKind: "departure",

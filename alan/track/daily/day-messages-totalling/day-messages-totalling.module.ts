@@ -26,7 +26,7 @@ export const dayMessagesTotalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying no count of its own is passed over.",
+      statement: "A day with no count of its own is passed over.",
     },
     {
       invariantKind: "departure",

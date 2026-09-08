@@ -22,23 +22,23 @@ export const spotifyTokenStore = {
     },
     {
       invariantKind: "departure",
-      statement: "A token carries an access token.",
+      statement: "A token has an access token.",
     },
     {
       invariantKind: "departure",
-      statement: "A token carries a refresh token.",
+      statement: "A token has a refresh token.",
     },
     {
       invariantKind: "departure",
-      statement: "A token carries an expiry.",
+      statement: "A token has an expiry.",
     },
     {
       invariantKind: "departure",
-      statement: "A token carries the scopes the token was given.",
+      statement: "A token has the scopes the token was given.",
     },
     {
       invariantKind: "departure",
-      statement: "A token carrying anything else is refused.",
+      statement: "A token with anything else is refused.",
     },
     {
       invariantKind: "departure",

@@ -22,11 +22,11 @@ export const spotifyPkceStore = {
     },
     {
       invariantKind: "departure",
-      statement: "A handoff carries a verifier and a state.",
+      statement: "A handoff has a verifier and a state.",
     },
     {
       invariantKind: "departure",
-      statement: "A handoff carrying anything else is refused.",
+      statement: "A handoff with anything else is refused.",
     },
     {
       invariantKind: "departure",

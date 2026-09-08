@@ -4,7 +4,7 @@ export const lrclibMap = {
   id: "01a06262-ff4c-7005-b1fe-0f60b8c2ffbe",
   pageTypeSlug: "module",
   slug: "lrclib-map",
-  definition: "an LRCLIB answer read as the words a song carries",
+  definition: "an LRCLIB answer read as the words a song has",
   code: "ts",
   test: "ts",
   invariants: [
@@ -18,7 +18,7 @@ export const lrclibMap = {
     },
     {
       invariantKind: "departure",
-      statement: "A record chosen carries the same normalised title as the song.",
+      statement: "A record chosen has the same normalised title as the song.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const lrclibMap = {
     },
     {
       invariantKind: "departure",
-      statement: "A record carrying words stamped line by line wins over one carrying plain words.",
+      statement: "A record with words stamped line by line wins over one carrying plain words.",
     },
     {
       invariantKind: "departure",

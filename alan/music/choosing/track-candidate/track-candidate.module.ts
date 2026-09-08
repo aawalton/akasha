@@ -18,11 +18,11 @@ export const trackCandidate = {
     },
     {
       invariantKind: "departure",
-      statement: "A candidate whose hit names no album carries a null album.",
+      statement: "A candidate whose hit names no album has a null album.",
     },
     {
       invariantKind: "departure",
-      statement: "A candidate carries a null track id where Spotify gives no track id.",
+      statement: "A candidate has a null track id where Spotify gives no track id.",
     },
     {
       invariantKind: "departure",

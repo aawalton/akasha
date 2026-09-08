@@ -26,11 +26,11 @@ export const dayMessagesMining = {
     },
     {
       invariantKind: "departure",
-      statement: "The first name a transcript carries is the name it is held by.",
+      statement: "The first name a transcript has is the name it is held by.",
     },
     {
       invariantKind: "departure",
-      statement: "A name quoted inside another message is no name the transcript carries.",
+      statement: "A name quoted inside another message is no name the transcript has.",
     },
     {
       invariantKind: "departure",

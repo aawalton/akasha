@@ -19,7 +19,7 @@ export const workspaceDirs = {
     },
     {
       invariantKind: "departure",
-      statement: "A doubled star carrying no prefix is expanded from the repository root.",
+      statement: "A doubled star with no prefix is expanded from the repository root.",
     },
     {
       invariantKind: "departure",

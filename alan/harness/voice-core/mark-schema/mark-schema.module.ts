@@ -9,7 +9,7 @@ export const markSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A mark carrying a field the shape does not name is refused.",
+      statement: "A mark with a field the shape does not name is refused.",
     },
   ],
 } as const satisfies Module

@@ -26,7 +26,7 @@ export const estimateMarks = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading begun partway carries the marks of the whole rather than of the part.",
+      statement: "A reading begun partway has the marks of the whole rather than of the part.",
     },
     {
       invariantKind: "departure",

@@ -30,7 +30,7 @@ export const dayActiveCalories = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying no sample keeps the calories that day already carried.",
+      statement: "A day with no sample keeps the calories that day already carried.",
     },
     {
       invariantKind: "departure",
