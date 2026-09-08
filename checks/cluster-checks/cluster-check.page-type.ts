@@ -211,6 +211,7 @@ export const clusterCheck = {
     "module/tree-globs",
     "module/ts-boundary-reads",
     "module/ts-client-page-access",
+    "module/ts-collection-types",
   ],
   properties: [
     {
