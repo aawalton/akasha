@@ -182,7 +182,7 @@ function matchXmlHandlerAssignment(
   return xmlColonCalls.has(key) ? { nameNode: node.left.name, key } : undefined
 }
 
-export interface TstlThisVoidSelfDropCorpus {
+export interface ThisVoidSelfDropCorpus {
   readonly xmlColonCalls?: ReadonlySet<string>
   readonly controlFamily?: ReadonlySet<string>
 }
@@ -191,7 +191,7 @@ const ROOT_ONLY_FAMILY: ReadonlySet<string> = new Set([CONTROL_ROOT])
 
 export function scanTstlThisVoidSelfDrop(
   sf: ts.SourceFile,
-  corpus: TstlThisVoidSelfDropCorpus = {}
+  corpus: ThisVoidSelfDropCorpus = {}
 ): readonly ThisVoidSelfDropFinding[] {
   const { xmlColonCalls, controlFamily = ROOT_ONLY_FAMILY } = corpus
   const filePath = sf.fileName
