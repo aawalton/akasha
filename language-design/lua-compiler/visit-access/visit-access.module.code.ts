@@ -18,8 +18,8 @@ import {
   invalidMultiReturnAccess,
   unsupportedOptionalCompileMembersOnly,
 } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { assert } from "../tstl-utils/tstl-utils.module.code.ts"
 import { isArrayType, isNumberType, isStringType } from "../typescript/typescript.module.code.ts"
+import { assert } from "../utils/utils.module.code.ts"
 import { tryGetConstEnumValue } from "../visit-enum/visit-enum.module.code.ts"
 import { callExtensions } from "../visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
 import {

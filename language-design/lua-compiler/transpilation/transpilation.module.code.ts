@@ -12,7 +12,7 @@ import {
   createTranspiler,
   type EmitResult,
 } from "../transpile-transpiler/transpile-transpiler.module.code.ts"
-import { normalizeSlashes } from "../tstl-utils/tstl-utils.module.code.ts"
+import { normalizeSlashes } from "../utils/utils.module.code.ts"
 
 export function transpileFiles(
   rootNames: readonly string[],

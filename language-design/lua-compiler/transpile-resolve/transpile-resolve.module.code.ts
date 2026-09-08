@@ -37,7 +37,7 @@ import {
   replaceRequireInCode,
   replaceRequireInSourceMap,
 } from "../transpile-resolve-require-replacement/transpile-resolve-require-replacement.module.code.ts"
-import { normalizeSlashes } from "../tstl-utils/tstl-utils.module.code.ts"
+import { normalizeSlashes } from "../utils/utils.module.code.ts"
 
 const resolver = resolve.ResolverFactory.createResolver({
   extensions: [".lua"],

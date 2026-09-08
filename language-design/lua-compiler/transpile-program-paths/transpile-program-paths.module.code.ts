@@ -1,6 +1,6 @@
 import * as path from "node:path"
 import type * as ts from "typescript"
-import { trimExtension } from "../tstl-utils/tstl-utils.module.code.ts"
+import { trimExtension } from "../utils/utils.module.code.ts"
 
 export function getEmitPath(file: string, program: ts.Program): string {
   const relativeOutputPath = getEmitPathRelativeToOutDir(file, program)

@@ -12,7 +12,7 @@ import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.modu
 import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { assert } from "../tstl-utils/tstl-utils.module.code.ts"
+import { assert } from "../utils/utils.module.code.ts"
 import { getExtendedNode, getExtendsClause } from "../visit-syntax/visit-syntax.module.code.ts"
 
 export function createClassSetup(

@@ -8,7 +8,7 @@ import type {
 } from "../context-visitors/context-visitors.module.code.ts"
 import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { usingTransformer } from "../transform-using-transformer/transform-using-transformer.module.code.ts"
-import { getOrUpdate } from "../tstl-utils/tstl-utils.module.code.ts"
+import { getOrUpdate } from "../utils/utils.module.code.ts"
 import { standardVisitors } from "../visitors-visitors/visitors-visitors.module.code.ts"
 
 function isSyntaxKind(value: number): value is ts.SyntaxKind {

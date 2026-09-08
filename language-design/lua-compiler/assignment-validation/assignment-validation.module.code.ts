@@ -9,8 +9,8 @@ import {
   unsupportedNoSelfFunctionConversion,
   unsupportedOverloadAssignment,
 } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { cast, getOrUpdate } from "../tstl-utils/tstl-utils.module.code.ts"
 import { isReferenceType } from "../typescript/typescript.module.code.ts"
+import { cast, getOrUpdate } from "../utils/utils.module.code.ts"
 
 const typeValidationCache = new WeakMap<ts.Type, Set<ts.Type>>()
 

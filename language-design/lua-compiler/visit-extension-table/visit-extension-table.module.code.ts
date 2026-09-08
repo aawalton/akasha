@@ -10,7 +10,7 @@ import {
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { assert } from "../tstl-utils/tstl-utils.module.code.ts"
+import { assert } from "../utils/utils.module.code.ts"
 import type { LanguageExtensionCallTransformerMap } from "../visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
 
 export function isTableNewCall(context: TransformationContext, node: ts.NewExpression) {

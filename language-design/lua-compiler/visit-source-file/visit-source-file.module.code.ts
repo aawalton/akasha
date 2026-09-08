@@ -6,8 +6,8 @@ import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.modu
 import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
 import { performHoisting, ScopeType } from "../scope/scope.module.code.ts"
-import { assert } from "../tstl-utils/tstl-utils.module.code.ts"
 import { hasExportEquals } from "../typescript/typescript.module.code.ts"
+import { assert } from "../utils/utils.module.code.ts"
 
 export const transformSourceFileNode: FunctionVisitor<ts.SourceFile> = (node, context) => {
   let statements: readonly luaStatements.Statement[] = []

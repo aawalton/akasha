@@ -16,12 +16,7 @@ import {
   getEmitPathRelativeToOutDir,
   getProjectRoot,
 } from "../transpile-program-paths/transpile-program-paths.module.code.ts"
-import {
-  cast,
-  formatPathToLuaPath,
-  isNonNull,
-  trimExtension,
-} from "../tstl-utils/tstl-utils.module.code.ts"
+import { cast, formatPathToLuaPath, isNonNull, trimExtension } from "../utils/utils.module.code.ts"
 
 const createModulePath = (pathToResolve: string, program: ts.Program) =>
   escapeString(

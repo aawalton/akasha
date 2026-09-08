@@ -7,8 +7,8 @@ import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import { cast } from "../tstl-utils/tstl-utils.module.code.ts"
 import { isAssignmentPattern, isEqualsAssignment } from "../typescript/typescript.module.code.ts"
+import { cast } from "../utils/utils.module.code.ts"
 import {
   transformAssignment,
   transformAssignmentLeftHandSideExpression,

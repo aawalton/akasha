@@ -16,7 +16,7 @@ import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
 import { unsupportedVarDeclaration } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { assert, cast } from "../tstl-utils/tstl-utils.module.code.ts"
+import { assert, cast } from "../utils/utils.module.code.ts"
 import { isMultiReturnCall } from "../visit-extension-multi/visit-extension-multi.module.code.ts"
 import {
   createCallableTable,

@@ -10,11 +10,11 @@ import {
   getOptionalContinuationData,
 } from "../optional-chain-data/optional-chain-data.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import { assert, cast } from "../tstl-utils/tstl-utils.module.code.ts"
 import {
   canBeFalsyWhenNotNull,
   expressionResultIsUsed,
 } from "../typescript/typescript.module.code.ts"
+import { assert, cast } from "../utils/utils.module.code.ts"
 import {
   transformElementAccessExpressionWithCapture,
   transformPropertyAccessExpressionWithCapture,

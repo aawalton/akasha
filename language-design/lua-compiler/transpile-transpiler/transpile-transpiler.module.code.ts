@@ -29,7 +29,7 @@ import {
   getProgramTranspileResult,
   type TranspileOptions,
 } from "../transpile-transpile/transpile-transpile.module.code.ts"
-import { normalizeSlashes } from "../tstl-utils/tstl-utils.module.code.ts"
+import { normalizeSlashes } from "../utils/utils.module.code.ts"
 
 export interface TranspilerOptions {
   emitHost?: EmitHost

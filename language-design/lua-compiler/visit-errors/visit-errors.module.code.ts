@@ -13,8 +13,8 @@ import {
   unsupportedForTarget,
   unsupportedForTargetButOverrideAvailable,
 } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { cast } from "../tstl-utils/tstl-utils.module.code.ts"
 import { isInAsyncFunction, isInGeneratorFunction } from "../typescript/typescript.module.code.ts"
+import { cast } from "../utils/utils.module.code.ts"
 import { wrapInAsyncAwaiter } from "../visit-async-await/visit-async-await.module.code.ts"
 import { transformScopeBlock } from "../visit-block/visit-block.module.code.ts"
 import { isInMultiReturnFunction } from "../visit-extension-multi/visit-extension-multi.module.code.ts"

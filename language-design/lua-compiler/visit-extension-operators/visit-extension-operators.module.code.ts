@@ -9,7 +9,7 @@ import {
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { unsupportedForTarget } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { assert } from "../tstl-utils/tstl-utils.module.code.ts"
+import { assert } from "../utils/utils.module.code.ts"
 import type { LanguageExtensionCallTransformerMap } from "../visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
 
 const binaryOperatorMappings = new Map<ExtensionKind, luaCore.BinaryOperator>([

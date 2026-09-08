@@ -10,7 +10,7 @@ import type {
   CompilerOptions,
   TstlOptions,
 } from "../compiler-options/compiler-options.module.code.ts"
-import { normalizeSlashes } from "../tstl-utils/tstl-utils.module.code.ts"
+import { normalizeSlashes } from "../utils/utils.module.code.ts"
 
 export function locateConfigFile(
   commandLine: ParsedCommandLine

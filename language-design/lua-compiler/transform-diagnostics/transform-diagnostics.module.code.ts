@@ -2,7 +2,7 @@ import * as ts from "typescript"
 import type { AnnotationKind } from "../annotations/annotations.module.code.ts"
 import { LuaTarget, type TstlOptions } from "../compiler-options/compiler-options.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import { createSerialDiagnosticFactory } from "../tstl-utils/tstl-utils.module.code.ts"
+import { createSerialDiagnosticFactory } from "../utils/utils.module.code.ts"
 
 type MessageProvider<TArgs extends readonly unknown[]> = string | ((...args: TArgs) => string)
 

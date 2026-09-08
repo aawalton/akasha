@@ -28,7 +28,7 @@ import type { LuaLibFeature } from "../lualib-features/lualib-features.module.co
 import type { Scope, ScopeType } from "../scope/scope.module.code.ts"
 import type { SymbolInfo } from "../symbols/symbols.module.code.ts"
 import { unsupportedNodeKind } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { assert, castArray } from "../tstl-utils/tstl-utils.module.code.ts"
+import { assert, castArray } from "../utils/utils.module.code.ts"
 
 export function createTransformationContext(
   program: ts.Program,

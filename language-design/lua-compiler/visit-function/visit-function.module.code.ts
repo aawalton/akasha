@@ -23,7 +23,7 @@ import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
 import { peekScope, performHoisting, type Scope, ScopeType } from "../scope/scope.module.code.ts"
-import { assert } from "../tstl-utils/tstl-utils.module.code.ts"
+import { assert } from "../utils/utils.module.code.ts"
 import {
   isAsyncFunction,
   wrapInAsyncAwaiter,

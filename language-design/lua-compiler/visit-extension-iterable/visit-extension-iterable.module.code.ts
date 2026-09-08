@@ -6,8 +6,8 @@ import {
   invalidMultiIterableWithoutDestructuring,
   invalidPairsIterableWithoutDestructuring,
 } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { cast } from "../tstl-utils/tstl-utils.module.code.ts"
 import { isReferenceType } from "../typescript/typescript.module.code.ts"
+import { cast } from "../utils/utils.module.code.ts"
 import { isMultiReturnType } from "../visit-extension-multi/visit-extension-multi.module.code.ts"
 import {
   getVariableDeclarationBinding,

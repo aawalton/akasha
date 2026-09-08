@@ -13,13 +13,13 @@ import {
   transformInPrecedingStatementScope,
   type WithPrecedingStatements,
 } from "../preceding-statements/preceding-statements.module.code.ts"
-import { assert, cast } from "../tstl-utils/tstl-utils.module.code.ts"
 import {
   canBeFalsyWhenNotNull,
   isEqualsAssignment,
   isStandardLibraryType,
   isStringType,
 } from "../typescript/typescript.module.code.ts"
+import { assert, cast } from "../utils/utils.module.code.ts"
 import {
   transformAssignmentExpression,
   transformAssignmentStatement,

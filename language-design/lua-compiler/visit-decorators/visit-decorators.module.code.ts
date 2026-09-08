@@ -12,7 +12,7 @@ import {
   decoratorInvalidContext,
   incompleteFieldDecoratorWarning,
 } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isNonNull } from "../tstl-utils/tstl-utils.module.code.ts"
+import { isNonNull } from "../utils/utils.module.code.ts"
 import {
   transformMemberExpressionOwnerName,
   transformMethodName,

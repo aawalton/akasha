@@ -2,7 +2,7 @@ import * as ts from "typescript"
 import {
   createDiagnosticFactoryWithCode,
   createSerialDiagnosticFactory,
-} from "../tstl-utils/tstl-utils.module.code.ts"
+} from "../utils/utils.module.code.ts"
 
 export const tstlOptionsAreMovingToTheTstlObject = createSerialDiagnosticFactory(
   (tstl: Record<string, unknown>) => ({

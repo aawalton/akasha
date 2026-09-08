@@ -5,7 +5,7 @@ import { getExtensionKindForNode } from "../language-extension-kinds/language-ex
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { invalidRangeControlVariable } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { assert } from "../tstl-utils/tstl-utils.module.code.ts"
+import { assert } from "../utils/utils.module.code.ts"
 import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"
 import { getVariableDeclarationBinding } from "../visit-utils/visit-utils.module.code.ts"
 

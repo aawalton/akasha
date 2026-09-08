@@ -1,5 +1,5 @@
 import * as ts from "typescript"
-import { createSerialDiagnosticFactory } from "../tstl-utils/tstl-utils.module.code.ts"
+import { createSerialDiagnosticFactory } from "../utils/utils.module.code.ts"
 
 const createDiagnosticFactory = <TArgs extends readonly unknown[]>(
   getMessage: (...args: TArgs) => string,

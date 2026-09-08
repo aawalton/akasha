@@ -11,7 +11,7 @@ import type {
   Identifier,
 } from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import type { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { castArray } from "../tstl-utils/tstl-utils.module.code.ts"
+import { castArray } from "../utils/utils.module.code.ts"
 
 export interface File extends Node {
   kind: typeof SyntaxKind.File

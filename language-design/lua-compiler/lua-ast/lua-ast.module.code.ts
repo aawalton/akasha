@@ -16,7 +16,7 @@ import {
   type Scope,
   ScopeType,
 } from "../scope/scope.module.code.ts"
-import { assert, castArray } from "../tstl-utils/tstl-utils.module.code.ts"
+import { assert, castArray } from "../utils/utils.module.code.ts"
 
 export type OneToManyVisitorResult<T extends luaCore.Node> = T | readonly T[] | undefined
 export function unwrapVisitorResult<T extends luaCore.Node>(

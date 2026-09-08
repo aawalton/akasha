@@ -19,7 +19,7 @@ import {
 } from "../lualib-features/lualib-features.module.code.ts"
 import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
 import type { Plugin } from "../transpile-plugins/transpile-plugins.module.code.ts"
-import { cast } from "../tstl-utils/tstl-utils.module.code.ts"
+import { cast } from "../utils/utils.module.code.ts"
 
 function isExportTable(node: luaCore.Node): node is luaExpressions.Identifier {
   return luaExpressions.isIdentifier(node) && node.text === "____exports"

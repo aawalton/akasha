@@ -17,7 +17,7 @@ import {
   type ReachabilityResult,
 } from "../transpile-reachability/transpile-reachability.module.code.ts"
 import { getTransformers } from "../transpile-transformers/transpile-transformers.module.code.ts"
-import { isNonNull } from "../tstl-utils/tstl-utils.module.code.ts"
+import { isNonNull } from "../utils/utils.module.code.ts"
 
 export interface TranspileOptions {
   program: ts.Program
