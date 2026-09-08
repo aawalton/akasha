@@ -148,5 +148,5 @@ export interface GameData {
   GD: GroupDungeonEntry[]
   MQ: number[]
   EA: number[]
-  PD: PublicDungeonEntry[]
+  PD: readonly PublicDungeonEntry[]
 }

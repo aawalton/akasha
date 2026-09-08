@@ -1,6 +1,7 @@
+import type { PublicDungeonKey } from "@akasha/temper-skill-point-finder/sources"
 import type { SkillPointDungeonSource } from "../skill-point-source-types/skill-point-source-types.module.code.ts"
 
-export const SKILL_POINT_PUBLIC_DUNGEON_SOURCES: readonly SkillPointDungeonSource[] = [
+export const SKILL_POINT_PUBLIC_DUNGEON_SOURCES = [
   { key: "AD1", label: "Toothmaul Gully" },
   { key: "AD2", label: "Root Sunder Ruins" },
   { key: "AD3", label: "Rulanyil's Fall" },
@@ -37,4 +38,11 @@ export const SKILL_POINT_PUBLIC_DUNGEON_SOURCES: readonly SkillPointDungeonSourc
   { key: "SI", label: "Silo Indomitus" },
   { key: "DG", label: "Deetra Grotto" },
   { key: "CG", label: "Centurion's Gideon" },
-]
+] as const satisfies readonly (SkillPointDungeonSource & { key: PublicDungeonKey })[]
+
+type Unlabelled = Exclude<
+  PublicDungeonKey,
+  (typeof SKILL_POINT_PUBLIC_DUNGEON_SOURCES)[number]["key"]
+>
+
+export type EveryPublicDungeonIsLabelled<Missing extends never = Unlabelled> = Missing

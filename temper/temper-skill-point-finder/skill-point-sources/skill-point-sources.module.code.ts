@@ -192,7 +192,7 @@ export const GROUP_DUNGEONS: GroupDungeonEntry[] = [
   { key: "BGF", id: 1552, zone: "SO", quest: 7323 },
 ]
 
-export const PUBLIC_DUNGEONS: PublicDungeonEntry[] = [
+export const PUBLIC_DUNGEONS = [
   { key: "AD1", id: 486, zone: "AD1", achievement: 468 },
   { key: "AD2", id: 124, zone: "AD2", achievement: 470 },
   { key: "AD3", id: 137, zone: "AD3", achievement: 445 },
@@ -229,4 +229,6 @@ export const PUBLIC_DUNGEONS: PublicDungeonEntry[] = [
   { key: "SI", id: 1467, zone: "WW", achievement: 4002 },
   { key: "DG", id: 1514, zone: "SO", achievement: 4264 },
   { key: "CG", id: 1530, zone: "SO", achievement: 4471 },
-]
+] as const satisfies readonly PublicDungeonEntry[]
+
+export type PublicDungeonKey = (typeof PUBLIC_DUNGEONS)[number]["key"]
