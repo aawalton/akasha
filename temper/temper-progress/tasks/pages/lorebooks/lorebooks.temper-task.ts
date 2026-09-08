@@ -16,6 +16,7 @@ export const lorebooks = {
   scope: "character",
   priority: "p3",
   lastCompletedAt: "2026-09-08T10:11:43.000Z",
-  progressTotal: 211,
-  progressCurrent: 146,
+  progressTotal: 4220,
+  progressCurrent: 569,
+  progress: "jsonl",
 } as const satisfies TemperTask

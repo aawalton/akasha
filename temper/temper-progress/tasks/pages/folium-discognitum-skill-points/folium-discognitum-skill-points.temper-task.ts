@@ -18,5 +18,5 @@ export const foliumDiscognitumSkillPoints = {
   lastCompletedAt: "2026-09-07T16:27:38.330Z",
   progress: "jsonl",
   progressTotal: 40,
-  progressCurrent: 18,
+  progressCurrent: 38,
 } as const satisfies TemperTask

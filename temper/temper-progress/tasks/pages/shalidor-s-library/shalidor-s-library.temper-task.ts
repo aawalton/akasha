@@ -19,5 +19,5 @@ export const shalidorSLibrary = {
   lastCompletedAt: "2026-09-07T16:27:39.003Z",
   progress: "jsonl",
   progressTotal: 580,
-  progressCurrent: 385,
+  progressCurrent: 394,
 } as const satisfies TemperTask
