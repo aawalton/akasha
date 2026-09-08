@@ -1,15 +1,9 @@
-import { addressIn } from "@akasha/pages/page-address"
+import { addressIn, type PageAddress } from "@akasha/pages/page-address"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
 import { slugOf, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
 import { schemaAt } from "../entries/index-entries.module.code.ts"
-import {
-  everyOfType,
-  type Listed,
-  listedAt,
-  listedById,
-  listedWithin,
-} from "../reading/index-reading.module.code.ts"
+import { everyOfType, type Listed, listedEvery } from "../reading/index-reading.module.code.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
 
 const RECORD = "record-property"
@@ -26,6 +20,8 @@ const MORTAL = "mortal"
 
 const SCOPED = "page-property"
 
+const SLUG = "slug"
+
 const FILED_AS_IDENTITY = new Set(["id", "slug", "pageTypeSlug"])
 
 export type Wanted = string | readonly string[] | null
@@ -34,9 +30,8 @@ export type Known = {
   readonly targetOf: (propertySlug: string) => Wanted
   readonly admitting: (target: string) => readonly string[]
   readonly mortal: (pageTypeSlug: string) => boolean
-  readonly at: (pageTypeSlug: string, slug: string) => readonly Listed[]
-  readonly within: (pageTypeSlug: string, scopeValue: string, slug: string) => readonly Listed[]
-  readonly byId: (id: string) => Listed | null
+  readonly scoping: (pageTypeSlug: string) => Scoping | null
+  readonly filed: (address: PageAddress) => readonly Listed[]
 }
 
 export type Scoping = {
@@ -175,20 +170,8 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     targetOf,
     admitting,
     mortal: (pageTypeSlug) => dies.has(pageTypeSlug),
-    at: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
-    within: (pageTypeSlug, scopeValue, slug) => {
-      const said = scopingOf(pageTypeSlug)
-      if (said === null) return []
-      return listedWithin(
-        reading,
-        pageTypeSlug,
-        said.scopePropertySlug,
-        scopeValue,
-        said.propertySlug,
-        slug
-      )
-    },
-    byId: (id) => listedById(reading, id),
+    scoping: scopingOf,
+    filed: (address) => listedEvery(reading, address),
     fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
     slugOfKeyIn: (value, key) => {
       const held = keyed.get(key) ?? []
@@ -207,6 +190,10 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
       return null
     },
   }
+}
+
+export function filedById(known: Known, id: string): Listed | null {
+  return known.filed({ id })[0] ?? null
 }
 
 export type Reached = { readonly id: string } | { readonly refused: string }
@@ -253,7 +240,7 @@ export function reaches(named: string, wanted: Wanted, known: Known): Reached {
   const address = addressIn(named)
   const every = eachTarget(wanted)
   if (address.kind === "id") {
-    return known.byId(address.id) === null
+    return known.filed({ id: address.id }).length === 0
       ? { refused: `no page carries the id \`${address.id}\`` }
       : { id: address.id }
   }
@@ -262,7 +249,7 @@ export function reaches(named: string, wanted: Wanted, known: Known): Reached {
     if (every.length > 0 && !every.some((one) => known.admitting(one).includes(pageTypeSlug))) {
       return { refused: admitsNone(named, pageTypeSlug, every) }
     }
-    const listed = known.at(pageTypeSlug, slug)
+    const listed = known.filed({ pageTypeSlug, propertySlug: SLUG, value: slug })
     const held = only(listed)
     if (held !== null) return { id: held.id }
     if (listed.length === 0)
@@ -274,7 +261,17 @@ export function reaches(named: string, wanted: Wanted, known: Known): Reached {
     if (every.length > 0 && !every.some((one) => known.admitting(one).includes(pageTypeSlug))) {
       return { refused: admitsNone(named, pageTypeSlug, every) }
     }
-    const filed = known.within(pageTypeSlug, scope, slug)
+    const said = known.scoping(pageTypeSlug)
+    const filed =
+      said === null
+        ? []
+        : known.filed({
+            pageTypeSlug,
+            scopePropertySlug: said.scopePropertySlug,
+            scopeValue: scope,
+            propertySlug: said.propertySlug,
+            value: slug,
+          })
     const kept = only(filed)
     if (kept !== null) return { id: kept.id }
     if (filed.length === 0) {
@@ -287,7 +284,11 @@ export function reaches(named: string, wanted: Wanted, known: Known): Reached {
   }
   const reached = onceEach(
     every.flatMap((one) =>
-      known.admitting(one).flatMap((pageTypeSlug) => known.at(pageTypeSlug, address.slug))
+      known
+        .admitting(one)
+        .flatMap((pageTypeSlug) =>
+          known.filed({ pageTypeSlug, propertySlug: SLUG, value: address.slug })
+        )
     )
   )
   const single = only(reached)

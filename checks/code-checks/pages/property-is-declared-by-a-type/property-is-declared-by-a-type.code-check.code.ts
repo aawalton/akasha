@@ -1,4 +1,4 @@
-import { reaches, recordsIn } from "@akasha/indexes/reaching"
+import { filedById, reaches, recordsIn } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages/change"
 import { namedUnder, pageNamed } from "@akasha/pages/page-file-name"
 import { textAt, textsAt, type Value, valueIn } from "@akasha/pages/page-value"
@@ -61,7 +61,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     for (const shown of declaredWere(change, path)) {
       const reached = reaches(shown, PAGE_PROPERTY, known)
       if (!("id" in reached)) continue
-      const listed = known.byId(reached.id)
+      const listed = filedById(known, reached.id)
       if (listed === null) continue
       judge(listed.path, reached.id, shown)
     }

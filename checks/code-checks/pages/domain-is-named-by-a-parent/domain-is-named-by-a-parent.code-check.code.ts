@@ -1,4 +1,4 @@
-import { namesIn, reaches } from "@akasha/indexes/reaching"
+import { filedById, namesIn, reaches } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages/change"
 import { namedUnder, pageNamed, partedIn } from "@akasha/pages/page-file-name"
 import { type Value, valueIn } from "@akasha/pages/page-value"
@@ -127,7 +127,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     for (const shown of partsWere(change, path)) {
       const reached = reaches(shown, DOMAIN, known)
       if (!("id" in reached)) continue
-      const listed = known.byId(reached.id)
+      const listed = filedById(known, reached.id)
       if (listed === null || theWhole(listed.path)) continue
       judge(listed.path, reached.id, shown)
     }

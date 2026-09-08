@@ -54,6 +54,10 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
+      statement: "A name becomes an address of one page address kind before the index is asked.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A value that narrows to more than one page is refused rather than resolved to a single page.",
     },

@@ -1,5 +1,6 @@
 import {
   eachTarget,
+  filedById,
   type Known,
   namesIn,
   namingsIn,
@@ -99,7 +100,7 @@ export function mortalityIn(shadow: Shadow, known: Known): Mortality {
   const reached = (id: string): string | null => {
     const held = byPage.get(id)
     if (held !== undefined) return held
-    const one = known.byId(id)
+    const one = filedById(known, id)
     const pageTypeSlug = one === null ? null : pageTypeOf(one.path)
     const said = pageTypeSlug !== null && stated(pageTypeSlug) ? pageTypeSlug : null
     byPage.set(id, said)

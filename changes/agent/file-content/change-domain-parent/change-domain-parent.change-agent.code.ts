@@ -1,4 +1,4 @@
-import { namesIn, reaches, type Shaped } from "@akasha/indexes/reaching"
+import { filedById, namesIn, reaches, type Shaped } from "@akasha/indexes/reaching"
 import type { Value } from "@akasha/pages/page-value"
 import {
   gathered,
@@ -37,7 +37,7 @@ export type Found = Placed | { readonly refused: string }
 export function foundIn(known: Shaped, named: string, key: string): Found {
   const reached = reaches(named, DOMAIN, known)
   if ("refused" in reached) return { refused: `${reached.refused}, so \`${key}\` names no page` }
-  const listed = known.byId(reached.id)
+  const listed = filedById(known, reached.id)
   if (listed === null) return { refused: `\`${named}\` stands at no path` }
   return { id: reached.id, path: listed.path }
 }
@@ -51,12 +51,12 @@ export function parentOf(world: World, known: Shaped, of: Placed, named: string)
     }
   }
   if (namers.length > ONE) {
-    const shown = namers.map((each) => known.byId(each)?.path ?? each).join("`, `")
+    const shown = namers.map((each) => filedById(known, each)?.path ?? each).join("`, `")
     return {
       refused: `\`${named}\` is a part of \`${shown}\`, so which parent goes is not settled`,
     }
   }
-  const listed = known.byId(first)
+  const listed = filedById(known, first)
   if (listed === null) return { refused: `the page naming \`${named}\` stands at no path` }
   return { id: first, path: listed.path }
 }

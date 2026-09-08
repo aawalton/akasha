@@ -67,6 +67,8 @@ const DECLARES = "page-property-slug"
 
 const NOT_THERE = "is not there"
 
+const HELD_ADDRESS = { pageTypeSlug: MODULE, propertySlug: SLUG, value: "held" }
+
 const SCHEMA = {
   pageTypeSlug: "text-property",
   targetPageTypeSlug: null,
@@ -158,7 +160,7 @@ test("a question answered through a shape hands back the shape the reader beneat
   const root = seeded()
   const reading = readingIn(root)
   const index = answeringOver(reading, pageOf)
-  expect(index.knownIn().at(MODULE, "held")).toEqual(knownIn(reading, pageOf).at(MODULE, "held"))
+  expect(index.knownIn().filed(HELD_ADDRESS)).toEqual(knownIn(reading, pageOf).filed(HELD_ADDRESS))
   expect(index.sourceIn().schemaFor(SLUG)).toEqual(sourceIn(reading, pageOf).schemaFor(SLUG))
   expect(index.kindsUnder(PAGE_TYPE)).toEqual(kindsUnder(PAGE_TYPE, reading, pageOf))
 })

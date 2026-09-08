@@ -49,7 +49,7 @@ function worldTold(told: Told): World {
     slugOfKeyIn: () => told.slug,
     targetOf: () => told.target,
     admitting: (one) => [one],
-    at: () => told.found,
+    filed: () => told.found,
   })
   return {
     root: "/nowhere",

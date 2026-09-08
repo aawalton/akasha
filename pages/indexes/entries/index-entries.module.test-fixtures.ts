@@ -130,6 +130,8 @@ const ADMITTING: Readonly<Record<string, readonly string[]>> = {
 
 const MORTAL: ReadonlySet<string> = new Set(["note"])
 
+const SCOPING = { scopePropertySlug: "part-of-slugs", propertySlug: "slug" }
+
 const KEYED: Readonly<Record<string, string>> = {
   partSlugs: "part-slugs",
   notes: "noted-slugs",
@@ -146,15 +148,16 @@ export function shaped(pages: Readonly<Record<string, string>>): Shaped {
     targetOf: (propertySlug) => TARGETS[propertySlug] ?? null,
     admitting: (target) => ADMITTING[target] ?? [],
     mortal: (pageTypeSlug) => MORTAL.has(pageTypeSlug),
-    at: (pageTypeSlug, slug) => {
-      const id = pages[`${pageTypeSlug}/${slug}`]
-      return id === undefined ? [] : [{ path: `${slug}.${pageTypeSlug}.ts`, id }]
+    scoping: () => SCOPING,
+    filed: (address) => {
+      if ("id" in address) return []
+      const at =
+        "scopeValue" in address
+          ? `${address.pageTypeSlug}/${address.scopeValue}/${address.value}`
+          : `${address.pageTypeSlug}/${address.value}`
+      const id = pages[at]
+      return id === undefined ? [] : [{ path: `${address.value}.${address.pageTypeSlug}.ts`, id }]
     },
-    within: (pageTypeSlug, scopeValue, slug) => {
-      const id = pages[`${pageTypeSlug}/${scopeValue}/${slug}`]
-      return id === undefined ? [] : [{ path: `${slug}.${pageTypeSlug}.ts`, id }]
-    },
-    byId: () => null,
     fieldsOf: (propertySlug) => (propertySlug === "parts" ? ["part-slugs"] : []),
     slugOfKeyIn: (_value, key) => KEYED[key] ?? null,
     fieldOfKey: (propertySlug, key) => {

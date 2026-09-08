@@ -147,9 +147,13 @@ export function listedById(given: string | Reading, id: string): Listed | null {
   )
 }
 
-export function listedFor(given: string | Reading, address: PageAddress): Listed | null {
+export function listedEvery(given: string | Reading, address: PageAddress): readonly Listed[] {
   const one = filedFor(address)
-  return listedNamed(given, one.uniqueKind, one.scope, one.propertySlug, one.said)[0] ?? null
+  return listedNamed(given, one.uniqueKind, one.scope, one.propertySlug, one.said)
+}
+
+export function listedFor(given: string | Reading, address: PageAddress): Listed | null {
+  return listedEvery(given, address)[0] ?? null
 }
 
 export function listedByPath(given: string | Reading, path: string): readonly Listed[] {

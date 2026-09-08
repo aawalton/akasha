@@ -60,12 +60,11 @@ function listedAt(id: string): { readonly path: string; readonly id: string } | 
 function worldTold(told: Told): World {
   const known = knownOf({
     admitting: () => ["command", "namespace", "workspace-package"],
-    at: (pageTypeSlug, slug) => {
-      const id = LISTED[`${pageTypeSlug}/${slug}`]
+    filed: (address) => {
+      const id = "id" in address ? address.id : LISTED[`${address.pageTypeSlug}/${address.value}`]
       const found = id === undefined ? null : listedAt(id)
       return found === null ? [] : [found]
     },
-    byId: (id) => listedAt(id),
   })
   return {
     root: "/nowhere",
