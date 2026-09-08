@@ -4,7 +4,7 @@ import {
   landDayPage,
 } from "../../../track/daily/day-place/day-place.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
-import { resolveOrCreateDaily } from "../../../track/daily/tracking-resolve/tracking-resolve.module.code.ts"
+import { resolveOrCreateDaily } from "../../../track/daily/track-resolve/track-resolve.module.code.ts"
 import {
   INBOX_WRITER,
   type PersistOutcome,

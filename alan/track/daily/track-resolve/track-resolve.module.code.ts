@@ -7,7 +7,7 @@ import {
   sessionsBefore,
   sessionsOfDay,
 } from "../day-stretches/day-stretches.module.code.ts"
-import { displayTitle, fieldStr } from "../tracking-format/tracking-format.module.code.ts"
+import { displayTitle, fieldStr } from "../track-format/track-format.module.code.ts"
 
 const PRIOR_SCAN_LIMIT = 5
 

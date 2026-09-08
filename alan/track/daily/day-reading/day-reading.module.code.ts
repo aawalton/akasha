@@ -8,7 +8,7 @@ import type {
   Page,
 } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import { checkoutRoot, WAKE_DAY } from "../day-place/day-place.module.code.ts"
-import { pageOf } from "../tracking-pages/tracking-pages.module.code.ts"
+import { pageOf } from "../track-pages/track-pages.module.code.ts"
 
 function dayAnswered(
   where: Readonly<Record<string, Readonly<Record<string, unknown>>>>,

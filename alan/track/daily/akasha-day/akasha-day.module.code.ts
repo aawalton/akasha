@@ -7,14 +7,14 @@ import { besideAt } from "@akasha/pages/page-file-name"
 import { valueAt } from "@akasha/pages/page-value"
 import { camelizeKey } from "@akasha/pages-access/file-rows"
 import { composedFor, type Put } from "@akasha/pages-service/composing"
-import { landTracking } from "../../tracking-landing/tracking-landing.module.code.ts"
+import { landTracking } from "../../track-landing/track-landing.module.code.ts"
 import type { Landed } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import {
   AKASHA_DAY_PAGE_TYPE,
   COMPLETED_TASKS_SLUG,
   ENTRY_EXTENSION,
   SESSIONS_SLUG,
-} from "../tracking-shape/tracking-shape.module.code.ts"
+} from "../track-shape/track-shape.module.code.ts"
 
 export type Values = Readonly<Record<string, unknown>>
 

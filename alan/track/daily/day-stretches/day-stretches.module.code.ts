@@ -13,7 +13,7 @@ import {
   SESSION_TRACKING,
   WAKE_DAY,
 } from "../day-place/day-place.module.code.ts"
-import { pageOf } from "../tracking-pages/tracking-pages.module.code.ts"
+import { pageOf } from "../track-pages/track-pages.module.code.ts"
 
 export const MAX_DAY_SESSIONS = 200
 
