@@ -15,7 +15,7 @@ export function generateRuleTypes(): string {
 // \`destinationChain\` is the SINGLE source-of-truth type from rules-core — both
 // the web routing layer and the addon read \`CompiledOrderedRule.destinationChain\`
 // as the identical \`DestinationChain\`, so the shared \`planStockDestinationsForChain\`
-// decider sees one shape on both sides (#11895). Type-only import erases under TSTL.
+// decider sees one shape on both sides (#11895). Type-only import erases under the Lua compiler.
 import type { DestinationChain } from "@temper/game-items-rules-core/inventory-rule-types"
 
 // =========================================================================
