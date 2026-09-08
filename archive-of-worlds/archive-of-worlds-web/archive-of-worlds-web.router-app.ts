@@ -16,6 +16,7 @@ export const archiveOfWorldsWeb = {
   viteConfig: "ts",
   server: "ts",
   sidebarBoot: "js",
+  gitIgnore: "gitignore",
   partSlugs: [
     "manifest/archive-of-worlds-web-manifests",
     "stylesheet/archive-of-worlds-web-look",
