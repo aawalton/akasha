@@ -37,6 +37,10 @@ export const topicWords = {
     },
     {
       invariantKind: "departure",
+      statement: "Both counts patch the one day page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The wisdom words land before the intelligence topics.",
     },
     {

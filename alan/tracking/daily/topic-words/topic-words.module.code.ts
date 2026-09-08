@@ -38,9 +38,6 @@ export function wordsIn(text: string): number {
   return count
 }
 
-// A WORD WRITTEN IS A WORD WRITTEN. What a commit took away is not subtracted from what that
-// commit put down, because a day spent cutting and rewriting is a day of work, and netting the
-// two scores it as a day of nothing.
 export function wordsAddedInDiff(diff: string): number {
   let added = 0
   let inHunk = false
@@ -88,9 +85,6 @@ export async function commitsOn(
   return asked.stdout.split("\n").filter((line) => line !== "")
 }
 
-// A FILE THAT MOVED WROTE NOTHING. Without rename detection git reads a move as the whole old
-// file taken away and the whole new file put down, so a path renamed would score every word in
-// that file as freshly written.
 export async function wordsAddedInCommit(
   root: string,
   sha: string,
@@ -119,9 +113,6 @@ export async function countWordsForDay(
   return { words, shas }
 }
 
-// A TOPIC IS THE PAGE RATHER THAN THE FILES BESIDE IT. A topic keeps its frontier, its evidence
-// and its bites as markdown files of their own in the topic's folder, so counting changed files
-// would score one topic worked on as three, and one topic is what Alan sat down to.
 export function topicsIn(paths: readonly string[]): ReadonlySet<string> {
   const found = new Set<string>()
   for (const path of paths) {
@@ -132,8 +123,6 @@ export function topicsIn(paths: readonly string[]): ReadonlySet<string> {
   return found
 }
 
-// A FILE THAT ONLY MOVED WAS NOT WORKED ON. Git reads a move as the old path taken away and the
-// new path put down, so a folder renamed would score every topic under it as a topic updated.
 export async function topicsUpdatedInCommit(
   root: string,
   sha: string,
@@ -211,9 +200,6 @@ type Landing = readonly [string, () => Promise<{ outcome: WriteOutcome }>]
 
 if (import.meta.main) {
   const day = getEsoDayStr(new Date())
-  // THE TWO COUNTS LAND ONE AFTER THE OTHER. Each patches the same day page, so counting them
-  // together would put two writes on one file, and the second would land against a body the first
-  // had already moved out from under it.
   const landings: readonly Landing[] = [
     ["wisdom words", () => rollupWisdomWordsForDay(day)],
     ["intelligence topics", () => rollupIntelligenceTopicsForDay(day)],
