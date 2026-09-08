@@ -1,8 +1,8 @@
-import type { CoachingNote } from "../../coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
 
 export const rightElbowWatchCurls = {
   id: "019f01e1-b88f-7392-bd8a-bd1c13031cfc",
-  pageTypeSlug: "coaching-note",
+  pageTypeSlug: "fitness-coaching-note",
   slug: "right-elbow-watch-curls",
   title: "Right elbow — watch curls",
   coachingNoteActive: true,
@@ -10,4 +10,4 @@ export const rightElbowWatchCurls = {
   coachingNoteKind: "injury-watch",
   coachingNoteSortOrder: 6,
   asks: "txt",
-} as const satisfies CoachingNote
+} as const satisfies FitnessCoachingNote
