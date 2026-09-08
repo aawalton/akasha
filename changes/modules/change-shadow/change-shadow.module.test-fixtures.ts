@@ -84,3 +84,17 @@ export function running(address: string): Reaching {
 export function worldIn(root: string, address: string): World {
   return worldAt(root, textIn(root), running(address))
 }
+
+export function taking(address: string): Reaching {
+  return (_world, at, given) => {
+    if (at === address) {
+      const asked = given as { readonly at: string }
+      return Promise.resolve(stating([{ kind: "remove", path: asked.at }]))
+    }
+    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+  }
+}
+
+export function worldTaking(root: string, address: string): World {
+  return worldAt(root, textIn(root), taking(address))
+}
