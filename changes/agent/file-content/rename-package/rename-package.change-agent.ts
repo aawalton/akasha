@@ -124,4 +124,5 @@ export const renamePackage = {
       statement: "No page is renamed here.",
     },
   ],
+  changeKindSlug: "change-checked",
 } as const satisfies ChangeAgent

@@ -67,4 +67,5 @@ export const removePropertyFromPageType = {
       statement: "Nothing here reads a page of the type the property was declared on.",
     },
   ],
+  changeKindSlug: "change-checked",
 } as const satisfies ChangeAgent

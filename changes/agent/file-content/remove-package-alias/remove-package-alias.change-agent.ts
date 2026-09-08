@@ -73,4 +73,5 @@ export const removePackageAlias = {
       statement: "No package is renamed here.",
     },
   ],
+  changeKindSlug: "change-checked",
 } as const satisfies ChangeAgent

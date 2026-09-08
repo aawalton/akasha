@@ -11,4 +11,5 @@ export const renameCodeToken = {
   runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,
+  changeKindSlug: "change-checked",
 } as const satisfies ChangeAgent

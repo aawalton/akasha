@@ -92,4 +92,5 @@ export const addPropertyToPageType = {
       statement: "Nothing here writes a page of the type the property was declared on.",
     },
   ],
+  changeKindSlug: "change-checked",
 } as const satisfies ChangeAgent

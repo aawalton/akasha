@@ -42,4 +42,5 @@ export const removeFile = {
       statement: "No file beside the path is taken away here.",
     },
   ],
+  changeKindSlug: "change-checked",
 } as const satisfies ChangeAgent

@@ -52,4 +52,5 @@ export const changeProsePattern = {
         "A program composes each restatement, so the checks judge it and no agent reads it.",
     },
   ],
+  changeKindSlug: "change-checked",
 } as const satisfies ChangeAgent

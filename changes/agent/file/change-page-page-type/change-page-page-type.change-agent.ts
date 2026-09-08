@@ -52,4 +52,5 @@ export const changePagePageType = {
       statement: "Nothing here changes the slug a page states.",
     },
   ],
+  changeKindSlug: "change-checked",
 } as const satisfies ChangeAgent

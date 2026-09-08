@@ -87,4 +87,5 @@ export const removeEveryPageOfAType = {
       statement: "Nothing here reads a page's own body.",
     },
   ],
+  changeKindSlug: "change-checked",
 } as const satisfies ChangeAgent
