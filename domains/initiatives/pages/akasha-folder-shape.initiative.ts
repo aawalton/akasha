@@ -8,11 +8,6 @@ export const akashaFolderShape = {
   personaSlug: "akasha",
   intents: [
     {
-      statement: "Each page address kind holds the code that finds its page.",
-      workingMemory:
-        "The three kinds are pages with a type and a recogniser, and the module holds the union, so a kind missing from it fails to compile. None holds a resolver. `reaches` at `reaching.module.code.ts:216` finds every page, switching on `addressIn`'s four arms — id, qualified, scoped, bare — told apart by counting slashes, lining up with no kind. `addressedIn` refuses a bare address that `reaches` resolves. A kind's resolver composes the identity path off the address and reads one file.",
-    },
-    {
       statement: "Every relation value in akasha is a page address of one of the three kinds.",
       workingMemory:
         "27651 entries over 26133 pages: 21756 bare across 510 values, 5895 qualified, 0 dangling. The declaring property's target page type settles every ambiguous value but `profile`. Count by parsing arrays, not lines: 16 values sit only in multi-entry arrays. Beyond relations, 2563 of the 2601 `pagePropertySlug` values are bare, and `shapedIn`'s search across page types answers them; `4eb997e9` took it out and emptied 443 of 453 page types, unfiling all 914 unique keys in silence. It goes last.",
