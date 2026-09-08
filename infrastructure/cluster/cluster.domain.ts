@@ -19,5 +19,18 @@ export const cluster = {
       invariantKind: "departure",
       statement: "Every folder under `cluster` matches a folder shape.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A service's own manifest sits with that service rather than under `cluster`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module one service alone reaches sits under that service's `modules` folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A module more than one service reaches sits under the domain holding those services.",
+    },
   ],
 } as const satisfies Domain
