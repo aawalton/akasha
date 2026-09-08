@@ -96,7 +96,16 @@ export const testBodies = {
     },
     {
       invariantKind: "departure",
-      statement: "A package carried at the folder that package already sat at is given no way in.",
+      statement:
+        "A way in a manifest brings where its package stayed put is answered from the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A way in reaching a file the change does not bring is left to the runner.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A way in the manifest already carried is left to the runner.",
     },
     {
       invariantKind: "constraint",
