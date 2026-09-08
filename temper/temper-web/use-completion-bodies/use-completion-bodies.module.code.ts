@@ -17,9 +17,6 @@ export interface CompletionBodiesResult {
   error: Error | null
 }
 
-// A completion is a file beside its page, so a query answers the four characters naming that
-// file's ending unless the query names `completion` under `files`. Reading the ending as an absent
-// completion would draw an empty card over a body that is there, so it is refused outright.
 async function bodiesOf(
   pageTypeSlug: string,
   ownerKey: string,
