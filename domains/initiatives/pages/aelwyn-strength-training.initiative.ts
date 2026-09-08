@@ -18,9 +18,9 @@ export const aelwynStrengthTraining = {
         "Alan settled on 2026-09-07 that the 28 days since 2026-08-10 hold no training, beyond at most one session nobody logged. He was rebuilding other systems. The hole is therefore in the training rather than in the tracking. 122 sets are logged across 16 sessions, dated 2026-06-19 to 2026-08-10, ten of the sixteen inside the eleven days from 06-19 to 06-29. Nothing recovers a session after the day that session happened.",
     },
     {
-      statement: "One package holds the movement selection logic.",
+      statement: "A planner chooses Alan's next movement from principles he settled.",
       workingMemory:
-        "`equipment-kit`, `movement-scoring` and `slot-templates` sit in both `exercise-access` and `session-planning`, and `set-progression` is in `exercise-access` alone. Under `commands/`, `movement-scoring` is reached twice at `@akasha/session-planning` and never at `@akasha/exercise-access`. A grep for the four `exercise-access` paths over the repository answers one line, inside the finding naming the split. The four are dead and the deletion is ready.",
+        "The old planner is deleted: the `session-planning` package whole, and the commands `exercise-select`, `exercise-next-set` and `exercise-ranks`. Alan called for a rebuild from first principles on 2026-09-08. Nothing chooses a movement today. Kept for the rebuild: the goal weights L40 E30 F20 A10, the layoff and novelty knobs the selection policy carries, the 13 coaching constraints, and the 884-movement catalogue. The principles themselves are unsettled.",
     },
     {
       statement: "The equipment commands read the keys the equipment pages carry.",
