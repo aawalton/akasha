@@ -32,7 +32,6 @@ export const alan = {
     "workspace-package/chess",
     "domain/eso",
     "domain/medicine",
-    "domain/values",
     "page-type/value",
   ],
 } as const satisfies Domain
