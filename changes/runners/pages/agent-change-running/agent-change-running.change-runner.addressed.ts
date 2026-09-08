@@ -2,6 +2,9 @@ export type Changes = {
   "change-agent/add-file": Parameters<
     typeof import("../../../agent/file/add-file/add-file.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/add-property-to-every-page": Parameters<
+    typeof import("../../../agent/page-type/add-property-to-every-page/add-property-to-every-page.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/add-property-value": Parameters<
     typeof import("../../../agent/file-content/add-property-value/add-property-value.change-agent.code.ts")["runChange"]
   >[1]
