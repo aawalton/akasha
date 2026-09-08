@@ -43,6 +43,14 @@ export const changeFileContent = {
     },
     {
       invariantKind: "absence",
+      statement: "Nothing here judges what the passage put in leaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The calling change judges what the passage put in leaves.",
+    },
+    {
+      invariantKind: "absence",
       statement: "Nothing here reads the disk.",
     },
   ],
