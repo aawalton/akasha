@@ -55,6 +55,8 @@ const BODIES_FILE = "bodies.json"
 
 const PRELOAD_FILE = "preload.ts"
 
+const SERVING_FILE = "serving.ts"
+
 const SHIM = ".test.ts"
 
 const LOADERS: Readonly<Record<string, Form>> = {
@@ -91,9 +93,9 @@ export function bodiesAt(at: string): Bodies {
   return JSON.parse(readFileSync(at, "utf8")) as Bodies
 }
 
-export function preloadingOf(at: string): string {
+export function preloadingOf(at: string, serving: string = SERVING): string {
   return (
-    `import { bodiesAt, servedBy } from ${JSON.stringify(SERVING)}\n` +
+    `import { bodiesAt, servedBy } from ${JSON.stringify(serving)}\n` +
     `Bun.plugin(servedBy(bodiesAt(${JSON.stringify(at)})))\n`
   )
 }
@@ -160,6 +162,14 @@ export function pairedIn(folder: string, was: string | null, now: string): Paire
   return { paths, spelled }
 }
 
+function servingAt(held: string, bodies: Bodies): string {
+  const body = bodies[SERVING] ?? null
+  if (body === null) return SERVING
+  const at = join(held, SERVING_FILE)
+  writeFileSync(at, absoluteIn(body, dirname(SERVING)))
+  return at
+}
+
 export function servingOf(
   from: string,
   paths: readonly string[],
@@ -200,7 +210,7 @@ export function servingOf(
     const filed = join(held, BODIES_FILE)
     writeFileSync(filed, JSON.stringify(bodies))
     const preload = join(held, PRELOAD_FILE)
-    writeFileSync(preload, preloadingOf(filed))
+    writeFileSync(preload, preloadingOf(filed, servingAt(held, bodies)))
     return {
       root,
       preload,

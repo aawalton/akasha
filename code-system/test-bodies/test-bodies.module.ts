@@ -74,7 +74,22 @@ export const testBodies = {
     },
     {
       invariantKind: "departure",
-      statement: "The preload text names this module and the file the bodies were written to.",
+      statement: "The preload text names a serving and the file the bodies were written to.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The serving the preload names is this module's carried body where the change carries one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A carried body the preload names is written beside the preload with its imports spelled absolute.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A module the preload reaches beyond this one is read from disk rather than from the change.",
     },
     {
       invariantKind: "absence",
