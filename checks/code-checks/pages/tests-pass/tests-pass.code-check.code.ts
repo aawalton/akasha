@@ -1,5 +1,6 @@
 import type { Ran } from "@akasha/code/code-tests"
-import { alreadyRunning, plain, ranOver, testsBesideOf, worldOf } from "@akasha/code/code-tests"
+import { alreadyRunning, plain, ranOver, testsBesideOf } from "@akasha/code/code-tests"
+import { SERVED, servingOf } from "@akasha/code/test-bodies"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
 import { endingOf } from "@akasha/utils-run/running"
@@ -69,19 +70,23 @@ export function reasonOf(ran: Ran, named: readonly string[]): string {
   )
 }
 
-function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
+export function spelledIn(output: string, root: string): string {
+  return output.replaceAll(`${SERVED}:${root}/`, "").replaceAll(`${root}/`, "")
+}
+
+function refusalsIn(change: Change): readonly Judged[] {
   if (alreadyRunning()) return []
   const named = namedIn(change)
   const first = named[0]
   if (first === undefined) return []
-  const world = worldOf(change.root, change.changed, change.after, shadow.filed())
+  const serving = servingOf(change.root, change.changed, change.after, named)
   try {
-    const ran = ranOver(world.root, named, named.length)
-    if (ran.verdict === "pass") return []
-    const said = { ...ran, output: ran.output.replaceAll(`${world.root}/`, "") }
+    const found = ranOver(change.root, named, named.length, null, serving)
+    if (found.verdict === "pass") return []
+    const said = { ...found, output: spelledIn(found.output, serving.root) }
     return [{ path: first, reason: reasonOf(said, named) }]
   } finally {
-    world.sweep()
+    serving.sweep()
   }
 }
 
