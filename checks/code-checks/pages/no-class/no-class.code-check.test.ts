@@ -138,6 +138,23 @@ test("a class a declaration file holds is let through, and the same body in a mo
   expect(reasonsIn(given("akasha/held.ts", body))).toHaveLength(1)
 })
 
+test("a class the lua runtime library holds is let through, and the same body elsewhere is not", () => {
+  const body = "export class Held {}\n"
+  const src = "language-design/lua-compiler/lualib/src/Held.ts"
+  const page = "language-design/lua-compiler/lualibs/held/held.lualib.code.ts"
+  const builder = "language-design/lua-compiler/lualib-builder/held.ts"
+  expect(reasonsIn(given(src, body))).toEqual([])
+  expect(reasonsIn(given(page, body))).toEqual([])
+  expect(reasonsIn(given(builder, body))).toHaveLength(1)
+})
+
+test("a class expression the lua runtime library holds is let through too", () => {
+  const body = "const one = class extends Error {}\n"
+  const src = "language-design/lua-compiler/lualib/src/Error.ts"
+  expect(reasonsIn(given(src, body))).toEqual([])
+  expect(reasonsIn(given("akasha/held.ts", body))).toHaveLength(1)
+})
+
 test("a body that is not text refuses rather than being passed over", () => {
   const held = { root: ROOT, path: "akasha/raw.ts", bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
   expect(() => reasonsIn(held)).toThrow("akasha/raw.ts")

@@ -18,6 +18,8 @@ const UNNAMED = "an unnamed class"
 
 const DECLARED = ".d.ts"
 
+const RUNTIME_LIBRARY = ["lua-compiler/lualib/", "lua-compiler/lualibs/"]
+
 type Found = {
   readonly named: string
   readonly line: number
@@ -97,8 +99,13 @@ function reasonFor(one: Found): string {
   return `${said} and declares no \`static ${DERIVED}\`, so it is no error boundary`
 }
 
+function heldByTheRuntimeLibrary(path: string): boolean {
+  return RUNTIME_LIBRARY.some((one) => path.includes(one))
+}
+
 function found(path: string, text: string): readonly string[] {
   if (path.endsWith(DECLARED)) return []
+  if (heldByTheRuntimeLibrary(path)) return []
   return classesIn(path, text)
     .filter((one) => !permitted(one))
     .map(reasonFor)
