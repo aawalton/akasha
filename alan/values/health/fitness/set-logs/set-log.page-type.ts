@@ -26,9 +26,9 @@ export type SetLog = Page & {
   reps?: Reps
   rpe?: Rpe
   sessionSlug: SessionSlug
-  setLogDate?: SetLogDate
+  setLogDate: SetLogDate
   setNumber: SetNumber
-  wakeDaySlug?: WakeDaySlug
+  wakeDaySlug: WakeDaySlug
   weight?: Weight
 }
 
@@ -66,8 +66,8 @@ export const setLog = {
     { pagePropertySlug: "number-property/reps", required: false, many: false },
     { pagePropertySlug: "number-property/rpe", required: false, many: false },
     { pagePropertySlug: "relation-property/session-slug", required: true, many: false },
-    { pagePropertySlug: "calendar-date-property/set-log-date", required: false, many: false },
-    { pagePropertySlug: "relation-property/wake-day-slug", required: false, many: false },
+    { pagePropertySlug: "calendar-date-property/set-log-date", required: true, many: false },
+    { pagePropertySlug: "relation-property/wake-day-slug", required: true, many: false },
     { pagePropertySlug: "number-property/set-number", required: true, many: false },
     { pagePropertySlug: "number-property/weight", required: false, many: false },
     { pagePropertySlug: "computed-property/set-volume", required: false, many: false },
@@ -79,8 +79,16 @@ export const setLog = {
       statement: "A set names the session that set was logged in and the movement that set was of.",
     },
     {
-      invariantKind: "absence",
-      statement: "A session lists no set of its own.",
+      invariantKind: "departure",
+      statement: "A set states the day that set was performed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A set names the tracked day that set falls on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The day a set names is the day that set's own date spells.",
     },
     {
       invariantKind: "absence",
