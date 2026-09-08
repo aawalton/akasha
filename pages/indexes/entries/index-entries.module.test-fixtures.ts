@@ -150,6 +150,10 @@ export function shaped(pages: Readonly<Record<string, string>>): Shaped {
       const id = pages[`${pageTypeSlug}/${slug}`]
       return id === undefined ? [] : [{ path: `${slug}.${pageTypeSlug}.ts`, id }]
     },
+    within: (pageTypeSlug, scopeValue, slug) => {
+      const id = pages[`${pageTypeSlug}/${scopeValue}/${slug}`]
+      return id === undefined ? [] : [{ path: `${slug}.${pageTypeSlug}.ts`, id }]
+    },
     byId: () => null,
     fieldsOf: (propertySlug) => (propertySlug === "parts" ? ["part-slugs"] : []),
     slugOfKeyIn: (_value, key) => KEYED[key] ?? null,

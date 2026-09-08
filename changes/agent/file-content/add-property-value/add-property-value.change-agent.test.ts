@@ -28,6 +28,7 @@ function worldTold(told: Told): World {
     admitting: (one: string) => [one],
     mortal: () => false,
     at: () => told.found,
+    within: () => told.found,
     byId: () => null,
     fieldsOf: () => [],
     slugOfKeyIn: () => told.slug,

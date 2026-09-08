@@ -46,6 +46,14 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
+      statement: "A name saying a scope reaches the page filed under that scope.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which property scopes a page type is read from that page type's declarations.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A value that narrows to more than one page is refused rather than resolved to a single page.",
     },

@@ -20,6 +20,7 @@ const KNOWS_NOTHING: Shaped = {
   admitting: () => [],
   mortal: () => false,
   at: () => [],
+  within: () => [],
   byId: () => null,
   fieldsOf: () => [],
   slugOfKeyIn: () => null,
@@ -30,9 +31,7 @@ export function knownOf(said: Partial<Shaped>): Shaped {
   return { ...KNOWS_NOTHING, ...said }
 }
 
-const NOTHING: BodyOf = () => null
-
-export function bodyOf(said: Answer, textOf: BodyOf = NOTHING): string {
+export function bodyOf(said: Answer, textOf: BodyOf = () => null): string {
   expect(said.refused).toBe(null)
   const held = replayed(said, textOf)
   expect(held).not.toHaveProperty("refused")
@@ -42,7 +41,7 @@ export function bodyOf(said: Answer, textOf: BodyOf = NOTHING): string {
   return left[0] ?? ""
 }
 
-export function refusalOf(said: Answer, textOf: BodyOf = NOTHING): string {
+export function refusalOf(said: Answer, textOf: BodyOf = () => null): string {
   if (said.refused !== null) return said.refused
   const held = replayed(said, textOf)
   return "refused" in held ? held.refused : ""

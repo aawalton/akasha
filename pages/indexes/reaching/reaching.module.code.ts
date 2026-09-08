@@ -8,6 +8,7 @@ import {
   type Listed,
   listedAt,
   listedById,
+  listedWithin,
 } from "../reading/index-reading.module.code.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
 
@@ -23,8 +24,8 @@ const SAID = "pagePropertySlug"
 
 const MORTAL = "mortal"
 
-// The identity index files these three: a page's id, its slug, and the page type its slug is
-// unique within. Filing them again as edges would answer one question in two places.
+const SCOPED = "page-property"
+
 const FILED_AS_IDENTITY = new Set(["id", "slug", "pageTypeSlug"])
 
 export type Wanted = string | readonly string[] | null
@@ -34,7 +35,13 @@ export type Known = {
   readonly admitting: (target: string) => readonly string[]
   readonly mortal: (pageTypeSlug: string) => boolean
   readonly at: (pageTypeSlug: string, slug: string) => readonly Listed[]
+  readonly within: (pageTypeSlug: string, scopeValue: string, slug: string) => readonly Listed[]
   readonly byId: (id: string) => Listed | null
+}
+
+export type Scoping = {
+  readonly scopePropertySlug: string
+  readonly propertySlug: string
 }
 
 export type Shaped = Known & {
@@ -87,6 +94,23 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     }
     carried.set(pageTypeSlug, made)
     return made
+  }
+
+  const scoped = new Map<string, Scoping | null>()
+  const scopingOf = (pageTypeSlug: string): Scoping | null => {
+    const found = scoped.get(pageTypeSlug)
+    if (found !== undefined) return found
+    let said: Scoping | null = null
+    for (const one of propertiesIfNamedOf(pageTypeSlug, reading, pageOf) ?? []) {
+      if (one.unique !== SCOPED || one.uniquePropertySlug === undefined) continue
+      said = {
+        scopePropertySlug: slugOf(one.uniquePropertySlug),
+        propertySlug: one.propertySlug,
+      }
+      break
+    }
+    scoped.set(pageTypeSlug, said)
+    return said
   }
 
   const above = new Map<string, readonly string[]>()
@@ -152,6 +176,18 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     admitting,
     mortal: (pageTypeSlug) => dies.has(pageTypeSlug),
     at: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
+    within: (pageTypeSlug, scopeValue, slug) => {
+      const said = scopingOf(pageTypeSlug)
+      if (said === null) return []
+      return listedWithin(
+        reading,
+        pageTypeSlug,
+        said.scopePropertySlug,
+        scopeValue,
+        said.propertySlug,
+        slug
+      )
+    },
     byId: (id) => listedById(reading, id),
     fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
     slugOfKeyIn: (value, key) => {
@@ -202,9 +238,9 @@ function onceEach(found: readonly Listed[]): readonly Listed[] {
 
 function admitsNone(named: string, pageTypeSlug: string, every: readonly string[]): string {
   const one = every[0]
-  const only =
+  const admits =
     every.length === 1 && one !== undefined ? `\`${one}\` and what extends it` : saidAs(every)
-  return `\`${named}\` names a \`${pageTypeSlug}\`, and this property admits only ${only}`
+  return `\`${named}\` names a \`${pageTypeSlug}\`, and this property admits only ${admits}`
 }
 
 function among(named: string, found: readonly Listed[]): string {
@@ -226,39 +262,46 @@ export function reaches(named: string, wanted: Wanted, known: Known): Reached {
     if (every.length > 0 && !every.some((one) => known.admitting(one).includes(pageTypeSlug))) {
       return { refused: admitsNone(named, pageTypeSlug, every) }
     }
-    const found = known.at(pageTypeSlug, slug)
-    const one = only(found)
-    if (one !== null) return { id: one.id }
-    if (found.length === 0)
+    const listed = known.at(pageTypeSlug, slug)
+    const held = only(listed)
+    if (held !== null) return { id: held.id }
+    if (listed.length === 0)
       return { refused: `no \`${pageTypeSlug}\` carries the slug \`${slug}\`` }
-    return { refused: among(named, found) }
+    return { refused: among(named, listed) }
   }
   if (address.kind === "scoped") {
-    return {
-      refused: `\`${named}\` names its parent by a slug, and a slug names pages of more than one type`,
+    const { pageTypeSlug, scope, slug } = address
+    if (every.length > 0 && !every.some((one) => known.admitting(one).includes(pageTypeSlug))) {
+      return { refused: admitsNone(named, pageTypeSlug, every) }
     }
+    const filed = known.within(pageTypeSlug, scope, slug)
+    const kept = only(filed)
+    if (kept !== null) return { id: kept.id }
+    if (filed.length === 0) {
+      return { refused: `no \`${pageTypeSlug}\` within \`${scope}\` carries the slug \`${slug}\`` }
+    }
+    return { refused: among(named, filed) }
   }
   if (every.length === 0) {
     return { refused: `\`${named}\` names no page type and its property declares no target` }
   }
-  const found = onceEach(
+  const reached = onceEach(
     every.flatMap((one) =>
       known.admitting(one).flatMap((pageTypeSlug) => known.at(pageTypeSlug, address.slug))
     )
   )
-  const one = only(found)
-  if (one !== null) return { id: one.id }
-  if (found.length === 0)
+  const single = only(reached)
+  if (single !== null) return { id: single.id }
+  if (reached.length === 0)
     return { refused: `no page admitting ${saidAs(every)} carries the slug \`${named}\`` }
-  return { refused: among(named, found) }
+  return { refused: among(named, reached) }
 }
 
-// A page type stating `mortal` holds pages meant to be deleted, so a name reaching none of them is
-// what time does rather than a fault. The page type the name itself states answers this where the
-// name states one; where it states none, every target its property declares has to be mortal.
 export function namesMortal(named: string, wanted: Wanted, known: Known): boolean {
   const address = addressIn(named)
-  if (address.kind === "qualified") return known.mortal(address.pageTypeSlug)
+  if (address.kind === "qualified" || address.kind === "scoped") {
+    return known.mortal(address.pageTypeSlug)
+  }
   const every = eachTarget(wanted)
   return every.length > 0 && every.every((one) => known.mortal(one))
 }

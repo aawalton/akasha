@@ -185,9 +185,19 @@ test("a name stating no page type is mortal only where every target its property
   expect(namesMortal("gone", null, known)).toBe(false)
 })
 
-test("an address naming a parent is refused rather than read as the slug it ends with", () => {
+test("a name carrying a page type and a scope reaches the page filed under that scope", () => {
+  expect(reaches("module/held/c", "domain", shaped({ "module/held/c": C }))).toEqual({ id: C })
+})
+
+test("a name carrying a scope is not read as the slug it ends with", () => {
   const reached = reaches("domain/whatever/b", "domain", shaped({ "domain/b": B }))
 
   expect("refused" in reached).toBe(true)
-  if ("refused" in reached) expect(reached.refused).toContain("names its parent by a slug")
+  if ("refused" in reached) expect(reached.refused).toContain("within `whatever`")
+})
+
+test("a name carrying a scope under a page type the target does not admit is refused", () => {
+  const reached = reaches("page-property/held/b", "domain", shaped({ "page-property/held/b": B }))
+
+  expect("refused" in reached && reached.refused).toMatch(/admits only `domain`/)
 })
