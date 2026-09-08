@@ -8,6 +8,22 @@ export const athenaCommandsAtTheRoot = {
   personaSlug: "athena",
   intents: [
     {
+      statement:
+        "Tooling specific to the command domain sits under `commands/`, and no other tooling does.",
+      workingMemory:
+        "`command-system` names 71 parts: 3 page types and 68 modules, and none of the 15 command pages under `command-system/commands/`. Not every part is the command domain's: `ios-widget-swift` and `ios-widget-emit` are iOS's. Whether the landing and committing modules are the command domain's or the change system's is unsettled.",
+    },
+    {
+      statement: "No `command-system` folder is there.",
+      workingMemory:
+        "Other packages reach this one as `@akasha/command-system/...`, so every alias is re-pointed before the folder goes. It holds 15 commands, 3 page types and 68 modules today, and a manifest of its own.",
+    },
+    {
+      statement: "The `commands/` folder passes `folder-matches-a-shape`.",
+      workingMemory:
+        "191 refusals over `commands/` at 2a63cf1436. 187 say a folder opens with what the page above it is named, which is what fully qualified slugs make. 4 say a folder matches no shape for holding no page of its own: `commands`, `commands/pages`, `commands/pages/apply` and `commands/pages/change`. The constraint on fully qualified slugs and the shape rule disagree, and the shape rule is under `checks/`.",
+    },
+    {
       statement: "A command's folder sits inside its namespace's folder under `commands/pages/`.",
       workingMemory:
         "All 42 namespaces are nested under `commands/pages/`, each folder holding its namespace page and its commands, to three levels. 34 folders sit at the top: 17 namespaces and 17 commands under no namespace. The 37 of 215 command pages outside `commands/` are left, one reached by a package alias, and `nest-commands` is kept until they are in. The two track tests had failed unseen since 4e0e4b61b3 landed them through the changes, over a scratch repository holding no index.",
