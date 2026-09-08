@@ -26,7 +26,6 @@ export const contextWarrant = {
     "context-warrant/change-taboo-terms",
     "context-warrant/domain-ancestors",
     "context-warrant/file-domain",
-    "context-warrant/file-import",
     "context-warrant/file-itself",
     "context-warrant/file-page-type",
     "context-warrant/file-property",
