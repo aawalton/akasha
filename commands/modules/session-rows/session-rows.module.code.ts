@@ -109,8 +109,8 @@ export function dayNow(now: Date): string {
 export function pathsFor(root: string, day: string): { path: string; page: string } {
   const at = join(root, DAYS_AT, day)
   return {
-    path: join(at, `wake-day-${day}.wake-day.sessions.jsonl`),
-    page: join(at, `wake-day-${day}.wake-day.ts`),
+    path: join(at, `wake-day-${day}.day.sessions.jsonl`),
+    page: join(at, `wake-day-${day}.day.ts`),
   }
 }
 
