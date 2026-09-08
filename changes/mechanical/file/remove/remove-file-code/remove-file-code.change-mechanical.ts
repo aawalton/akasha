@@ -1,8 +1,8 @@
-import type { ChangeMechanicalFile } from "../../change-mechanical-file.page-type.ts"
+import type { ChangeMechanical } from "../../../change-mechanical.page-type.ts"
 
 export const removeFileCode = {
   id: "01a07987-afc1-73bf-8a8e-9ba1cc6c5248",
-  pageTypeSlug: "change-mechanical-file",
+  pageTypeSlug: "change-mechanical",
   slug: "remove-file-code",
   changeModeSlug: "change-mode-remove",
   changeTargetTypeSlug: "change-target-type/file",
@@ -32,4 +32,4 @@ export const removeFileCode = {
       statement: "Nothing here judges the path a file is taken away from.",
     },
   ],
-} as const satisfies ChangeMechanicalFile
+} as const satisfies ChangeMechanical

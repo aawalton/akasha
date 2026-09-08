@@ -32,7 +32,7 @@ import {
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
 import { runChange as removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
-import { runChange as removeCodeFile } from "../remove-file-code/remove-file-code.change-mechanical-file.code.ts"
+import { runChange as removeCodeFile } from "../remove-file-code/remove-file-code.change-mechanical.code.ts"
 import {
   importersFirst,
   parentsOf,
@@ -41,7 +41,7 @@ import {
 
 type Unnaming = { at: string; key: string; value: string }
 
-const REMOVE_FILE_CODE = "change-mechanical-file/remove-file-code"
+const REMOVE_FILE_CODE = "change-mechanical/remove-file-code"
 
 const REMOVE_FILE = "change-mechanical-file/remove-file"
 
