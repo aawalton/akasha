@@ -27,7 +27,7 @@ export const aineAuditChangeGuards = {
     {
       statement: "The mode a change runs in is factored out of the changes that carry one.",
       workingMemory:
-        "A change answers edits rather than writing them, and some roads take a dry run or a draft. What varies between those roads is a mode the change is handed rather than a branch each change writes.",
+        "The three flags a run mode is made of, `runsChecks`, `readersOweReading` and `writerOwesReading`, are stated on every change page and narrowed to false by `change-mechanical`. The mechanical runner restates them as one constant, and that is the only branch of its kind in the changes. The runner reaches mechanical changes alone, so the constant is its own kind made concrete rather than a second place the flags are held. Nothing here takes a dry run or a draft yet.\n",
     },
     {
       statement:
