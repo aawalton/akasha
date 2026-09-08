@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
-        "Cluster-checks 32 down to 2, eight ported, thirty-four ablated. Left are checksum-annotation-substitution behind intent 10 and syntax-bundle, whose registry has 3 entries: two component-layout arms and popover-viewport-safety. Alan ruled every scanner a live syntax rule covers can go, so nine went in nine landings. Both component-layout arms answer zero: 720 tsx judged, 4,170 class usages read, 484 of them root elements, and no refusal.",
+        "Cluster-checks 32 down to 2, eight ported, forty-one ablated. Left are checksum-annotation-substitution behind intent 10 and syntax-bundle, whose registry is down to popover-viewport-safety alone. That one is the best-built of the lot: it derives the six capped wrapper tags from design/primitives and throws where the package moved or no wrapper caps. 726 tsx judged, 104 uses of those tags, 0 findings. component-layout answered zero on both arms and took six modules with it.",
     },
     { statement: "The old system carries no check of its own." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
