@@ -261,7 +261,7 @@ export const wakeDay = {
     },
     {
       invariantKind: "departure",
-      statement: "A day's strength volume is worked out from the sessions naming that day.",
+      statement: "A day's strength volume is worked out from the sets naming that day.",
     },
 
     {

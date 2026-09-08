@@ -13,19 +13,23 @@ export const strengthVolume = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A day's volume is the volume of every session naming that day.",
+      statement: "A day's volume is the volume of every set naming that day.",
     },
     {
       invariantKind: "departure",
-      statement: "A session's volume is worked out on the page of the session.",
+      statement: "A set's volume is worked out on the page of the set.",
     },
     {
       invariantKind: "departure",
-      statement: "A day no session names is worth nothing rather than no reading.",
+      statement: "A day's volume is rounded where a set's volume is not.",
     },
     {
       invariantKind: "departure",
-      statement: "A day counts the sessions naming that day rather than the sessions dated alike.",
+      statement: "A day no set names is worth nothing rather than no reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day counts the sets naming that day rather than the sets dated alike.",
     },
   ],
 } as const satisfies ComputedProperty
