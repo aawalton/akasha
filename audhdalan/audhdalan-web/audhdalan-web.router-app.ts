@@ -14,6 +14,7 @@ export const audhdalanWeb = {
   compileConfig: "json",
   viteConfig: "ts",
   server: "ts",
+  gitIgnore: "gitignore",
   partSlugs: [
     "manifest/audhdalan-web-manifests",
     "stylesheet/audhdalan-web-look",
