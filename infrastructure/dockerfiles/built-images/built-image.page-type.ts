@@ -23,6 +23,7 @@ export const builtImage = {
     "built-image/bun-git",
     "built-image/ci",
     "built-image/gfs-promoter",
+    "built-image/kubectl",
     "file-property/image-extensions",
     "text-property/image-folder",
     "text-property/image-kind",

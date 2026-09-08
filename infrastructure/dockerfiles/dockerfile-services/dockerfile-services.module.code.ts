@@ -32,6 +32,6 @@ export const SERVICES: Record<string, ServiceConfig> = {
   kubectl: {
     type: "tool-image",
     dir: "infrastructure/dockerfiles",
-    extensionFile: "kubectl.dockerfile-extensions.json",
+    extensionFile: "../built-images/kubectl/kubectl.built-image.extensions.json",
   },
 }
