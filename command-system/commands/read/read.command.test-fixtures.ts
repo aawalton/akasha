@@ -1,7 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { rootOf } from "@akasha/command-system/rooting"
-import { SEEDED_AT } from "@akasha/context/warranting/testing"
+import { realAt, SEEDED_AT } from "@akasha/context/warranting/testing"
 import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { mintedId } from "@akasha/testing-system/minting"
@@ -260,8 +259,6 @@ const CONTEXT_WARRANT = "context-warrant"
 
 const PAGE_TYPE_SLUG = "page-type"
 
-const BESIDE = join(rootOf(import.meta.path), "context/warrants")
-
 export const THING = "akasha/one/held.thing.ts"
 
 export const THING_TYPE = "akasha/kind/thing.page-type.ts"
@@ -374,15 +371,12 @@ const REAL: readonly Planted[] = [
   {
     slug: "file-itself",
     name: "fileItself",
-    code: forwarding("fileItself", join(BESIDE, "file-itself/file-itself.context-warrant.code.ts")),
+    code: forwarding("fileItself", realAt("file-itself")),
   },
   {
     slug: "file-page-type",
     name: "filePageType",
-    code: forwarding(
-      "filePageType",
-      join(BESIDE, "file-page-type/file-page-type.context-warrant.code.ts")
-    ),
+    code: forwarding("filePageType", realAt("file-page-type")),
   },
 ]
 

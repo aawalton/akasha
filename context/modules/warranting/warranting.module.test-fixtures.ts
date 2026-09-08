@@ -29,7 +29,7 @@ const MINTED = "a warrant seeded for a test"
 
 export const WARRANTS: readonly string[] = ["file-itself", "file-page-type"]
 
-function realAt(slug: string): string {
+export function realAt(slug: string): string {
   return join(HERE, WARRANTS_IN, slug, `${slug}.context-warrant.code.ts`)
 }
 
