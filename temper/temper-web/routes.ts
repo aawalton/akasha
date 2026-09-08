@@ -29,7 +29,7 @@ const API_ROUTES: RouteConfig = [
   route("api/errors", "routes/api.errors.ts"),
   route("api/ask", "routes/api.ask.ts"),
   route("api/page-types", "routes/api.page-types.ts"),
-  route("api/pages/:pageTypeSlug", "routes/api.pages.$pageTypeSlug.ts"),
+  route("api/pages/:pageTypeSlug", "routes/temper-api-pages/temper-api-pages.route.code.ts"),
   route("api/page-write", "routes/api.page-write.ts"),
   route("api/live-version", "routes/api.live-version.tsx"),
   route("api/items", "routes/api.items.tsx"),
