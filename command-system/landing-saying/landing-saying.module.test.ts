@@ -128,10 +128,10 @@ test("what a draft left is named in the report as what was drafted", () => {
 
 test("where a draft's edits are kept is named in the report", () => {
   expect(draftedSaid(DRAFTED, "a page", []).at(-1)).toBe(
-    "the edits are kept at a page, and `akasha apply` lands them"
+    "the edits are kept at a page, and `akasha change apply` lands them"
   )
   expect(draftedSaid(DRAFTED, null, []).at(-1)).toBe(
-    "the edits are kept at the page of the agent that asked, and `akasha apply` lands them"
+    "the edits are kept at the page of the agent that asked, and `akasha change apply` lands them"
   )
 })
 

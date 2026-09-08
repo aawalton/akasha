@@ -87,6 +87,7 @@ export function draftedSaid(
   return [
     ...aside,
     ...said.drafted.map((one) => `drafted ${one}`),
-    `the edits are kept at ${at ?? "the page of the agent that asked"}, and \`akasha apply\` lands them`,
+    `the edits are kept at ${at ?? "the page of the agent that asked"}` +
+      ", and `akasha change apply` lands them",
   ]
 }

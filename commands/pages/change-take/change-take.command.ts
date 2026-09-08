@@ -16,7 +16,7 @@ export const changeTake = {
     "a take piping nothing in is refused, so a bare call moves nothing.",
     "a take naming no subagent is refused rather than reaching every subagent.",
     "a take that would not fold is refused, and leaves both sets where those sets were.",
-    "an edit taken is this agent's own, and `akasha apply` lands it with the rest.",
+    "an edit taken is this agent's own, and `akasha change apply` lands it with the rest.",
     "an edit taken is no longer handed over, so one edit is never in both sets.",
   ],
   invariants: [
