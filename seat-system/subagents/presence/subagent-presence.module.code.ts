@@ -3,7 +3,7 @@ import { dirname, join } from "node:path"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { landedMechanically } from "@akasha/command-system/mechanical-landing"
 import { dropReadings, SUBAGENT_MARK } from "@akasha/command-system/reading"
-import { everyOfType, type Listed, listedAt, listedById } from "@akasha/indexes"
+import { everyOfType, listedAt, listedById } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { valueAt } from "@akasha/pages/page-value"
@@ -168,17 +168,9 @@ export async function took(root: string, seatName: string, own: string): Promise
   return gone
 }
 
-function subagentsIn(root: string): readonly Listed[] {
-  try {
-    return everyOfType(root, SUBAGENT)
-  } catch {
-    return []
-  }
-}
-
 export function pathsUnder(root: string, seatName: string): readonly string[] {
   const mark = `${seatName}-`
-  return subagentsIn(root)
+  return everyOfType(root, SUBAGENT)
     .map((one) => one.path)
     .filter((one) => partedIn(one)?.slug.startsWith(mark) === true)
     .sort()
