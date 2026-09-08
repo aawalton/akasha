@@ -47,6 +47,10 @@ const ADVERB = "advmod"
 
 const MARK = "mark"
 
+const MODIFIER = "nmod"
+
+const TOWARD: ReadonlySet<string> = new Set([TO])
+
 const PAST = /ed$/i
 
 const THINGS: ReadonlySet<string> = new Set(["NOUN", "PROPN"])
@@ -97,9 +101,12 @@ function caseIs(sentence: DepSentence, one: DepToken, among: ReadonlySet<string>
 }
 
 function boundTo(sentence: DepSentence, token: DepToken): boolean {
-  return childrenByRel(sentence, token.id, OBLIQUE).some((one) =>
-    caseIs(sentence, one, new Set([TO]))
-  )
+  if (childrenByRel(sentence, token.id, OBLIQUE).some((one) => caseIs(sentence, one, TOWARD))) {
+    return true
+  }
+  const object = child(sentence, token.id, OBJECT)
+  if (object === undefined) return false
+  return childrenByRel(sentence, object.id, MODIFIER).some((one) => caseIs(sentence, one, TOWARD))
 }
 
 function placedSomewhere(sentence: DepSentence, token: DepToken): boolean {

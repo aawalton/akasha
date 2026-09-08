@@ -80,5 +80,9 @@ export const prosePattern = {
       invariantKind: "departure",
       statement: "A particle the parser hung on a word's object is that word's particle.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A `to` phrase the parser hung on a word's object binds that word.",
+    },
   ],
 } as const satisfies Module

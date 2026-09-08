@@ -175,6 +175,22 @@ test("a word bound to something by `to` and with no object is left alone", () =>
   expect(foundIn(said, HOLD)).toEqual([])
 })
 
+test("a word whose object the parser hung a `to` phrase on is left alone", () => {
+  const said = sentenceOf([
+    ["the", "DET", 2, "det"],
+    ["forwarder", "NOUN", 0, "root"],
+    ["that", "PRON", 4, "nsubj"],
+    ["holds", "VERB", 2, "acl:relcl"],
+    ["a", "DET", 6, "det"],
+    ["request", "NOUN", 4, "obj"],
+    ["to", "ADP", 9, "case"],
+    ["the", "DET", 9, "det"],
+    ["workstation", "NOUN", 6, "nmod"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
 test("a word in the passive that puts a thing somewhere is found", () => {
   const said = sentenceOf([
     ["Prose", "NOUN", 3, "nsubj:pass"],
