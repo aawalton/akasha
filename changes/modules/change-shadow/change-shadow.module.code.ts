@@ -97,6 +97,8 @@ export type Kept = {
   readonly root: string
   readonly base: (path: string) => string | null
   readonly bodies: Map<string, string | null>
+  readonly held: Set<Stated>
+  readonly settled: Map<string, string | null>
   fresh: Answer
   reading: Reading | null
   over: Answer
@@ -111,10 +113,13 @@ export function isLedger(world: World): world is Ledger {
 
 function settledIn(kept: Kept): Answering {
   if (kept.reading === null && kept.fresh.edits.length === 0) return shadowAt(kept.root).index
-  const cast = shadowOnto(kept.reading, changeOver(kept.root, kept.fresh, kept.base))
+  const was: BodyOf = (path) =>
+    kept.settled.has(path) ? (kept.settled.get(path) ?? null) : kept.base(path)
+  const cast = shadowOnto(kept.reading, changeOver(kept.root, kept.fresh, was))
   if ("refused" in cast) throw new Error(cast.refused)
   kept.reading = cast.reading
   kept.fresh = NOTHING_OVER
+  for (const [path, body] of kept.bodies) kept.settled.set(path, body)
   return cast.shadow.index
 }
 
@@ -127,6 +132,8 @@ export function ledgerAt(
     root,
     base: textOf,
     bodies: new Map<string, string | null>(),
+    held: new Set<Stated>(),
+    settled: new Map<string, string | null>(),
     fresh: NOTHING_OVER,
     reading: null,
     over: NOTHING_OVER,
@@ -153,14 +160,17 @@ export function ledgerAt(
 
 export function addedTo(ledger: Ledger, said: Answer): Ledger {
   const kept = ledger.kept
-  if (said.edits.length === 0) return ledger
-  const over = gathered([kept.over, said])
+  const fresh = said.edits.filter((one) => !kept.held.has(one))
+  if (fresh.length === 0) return ledger
+  const adding: Answer = { edits: fresh, refused: null }
+  const over = gathered([kept.over, adding])
   if (over.refused !== null) throw new Error(over.refused)
-  const settling = gathered([kept.fresh, said])
+  const settling = gathered([kept.fresh, adding])
   if (settling.refused !== null) throw new Error(settling.refused)
-  const bodies = replayed(said, ledger.textOf)
+  const bodies = replayed(adding, ledger.textOf)
   if ("refused" in bodies) throw new Error(bodies.refused)
   for (const [path, body] of bodies) kept.bodies.set(path, body)
+  for (const one of fresh) kept.held.add(one)
   kept.over = over
   kept.fresh = settling
   kept.index = null
