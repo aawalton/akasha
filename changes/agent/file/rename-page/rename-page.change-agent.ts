@@ -30,6 +30,14 @@ export const renamePage = {
     },
     {
       invariantKind: "departure",
+      statement: "The type a page's file exports is spelled anew beside the const it exports.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file exporting no type named from the old slug is left as that file is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A manifest naming a carried file as a way in states the new path for that way.",
     },
     {

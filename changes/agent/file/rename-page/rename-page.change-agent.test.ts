@@ -50,6 +50,39 @@ const SEATED_PAGE = "akasha/seated/seated.module.ts"
 
 const SEATED_CODE = "akasha/seated/seated.module.code.ts"
 
+const TYPED_SLUG = "typed-one"
+
+const TYPED_PAGE = "akasha/five/typed-one.module.ts"
+
+const TYPED_LANDS = "akasha/five/carried.module.ts"
+
+const PLAIN_PAGE = "akasha/seven/plain-one.module.ts"
+
+const PLAIN_LANDS = "akasha/seven/carried.module.ts"
+
+const READER_PAGE = "akasha/six/reader.module.ts"
+
+const READER_CODE = "akasha/six/reader.module.code.ts"
+
+const TYPED_VALUE = { id: idOf("d"), pageTypeSlug: "module", slug: TYPED_SLUG }
+
+const PLAIN_VALUE = { id: idOf("f"), pageTypeSlug: "module", slug: "plain-one" }
+
+const READER_VALUE = { id: idOf("e"), pageTypeSlug: "module", slug: "reader", code: "ts" }
+
+function readerBody(named: string, at: string): string {
+  return `import type { ${named} } from "${at}"\n\nexport const reader: ${named} = "one"\n`
+}
+
+function typedRepo(): string {
+  return indexedRepo({
+    [TYPED_PAGE]: `export type TypedOne = string\n\n${pageOf(TYPED_VALUE)}`,
+    [PLAIN_PAGE]: `export type Kept = string\n\n${pageOf(PLAIN_VALUE)}`,
+    [READER_PAGE]: pageOf(READER_VALUE),
+    [READER_CODE]: readerBody("TypedOne", `../five/${TYPED_SLUG}.module.ts`),
+  })
+}
+
 const saying =
   (body: string) =>
   (path: string): string | null =>
@@ -282,4 +315,32 @@ test("a page carrying the slug asked for, in the folder that slug names, is refu
   expect(said.refused).toBe(
     `\`${SEATED_SLUG}\` is the slug this page carries, in the folder that slug names`
   )
+})
+
+test("a page exporting a type named from its slug has that type spelled anew", async () => {
+  const root = typedRepo()
+  const said = await renamePage(worldIn(root, textIn(root)), { at: TYPED_PAGE, to: CARRIED })
+  const bodies = bodiesIn(said, textIn(root))
+  expect(said.refused).toBe(null)
+  expect(bodies.get(TYPED_LANDS) ?? "").toContain("export type Carried = string")
+  expect(bodies.get(READER_CODE)).toBe(readerBody("Carried", `../five/${CARRIED}.module.ts`))
+})
+
+test("a page exporting no type named from its slug leaves that file's type alone", async () => {
+  const root = typedRepo()
+  const said = await renamePage(worldIn(root, textIn(root)), { at: PLAIN_PAGE, to: CARRIED })
+  const body = bodiesIn(said, textIn(root)).get(PLAIN_LANDS) ?? ""
+  expect(said.refused).toBe(null)
+  expect(body).toContain("export type Kept = string")
+  expect(body).toContain(`export const ${CARRIED} =`)
+})
+
+test("the const and the type a page exports are spelled anew in one answer", async () => {
+  const root = typedRepo()
+  const said = await renamePage(worldIn(root, textIn(root)), { at: TYPED_PAGE, to: CARRIED })
+  const body = bodiesIn(said, textIn(root)).get(TYPED_LANDS) ?? ""
+  expect(said.refused).toBe(null)
+  expect(body).toContain(`export const ${CARRIED} =`)
+  expect(body).toContain("export type Carried = string")
+  expect(body).not.toContain("TypedOne")
 })

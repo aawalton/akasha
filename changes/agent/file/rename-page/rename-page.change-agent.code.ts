@@ -5,7 +5,10 @@ import { manifestsIn } from "@akasha/indexes/package-reaching"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import ts from "typescript"
+import { typedAs } from "../../../../pages/export-name/page-export-name.module.code.ts"
+import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { folderFor } from "../../../../pages/service/page-composing/page-composing.module.code.ts"
+import { splicedIn } from "../../../mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
 import {
   gathered,
   missing,
@@ -16,13 +19,19 @@ import type {
   Answer,
   Replacing,
 } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  reach,
+  type World,
+  worldOver,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { statedIn } from "../../../modules/page-literal/page-literal.module.code.ts"
 import { spelledAnew } from "../../file-content/rename-package/rename-package.change-agent.code.ts"
 
 const RENAME_PAGE_SLUG = "change-mechanical-file-content/rename-page-slug"
 
 const RENAME_PATH = "change-mechanical-file/rename-path"
+
+const RENAME_EXPORT = "change-mechanical-file-content/rename-export"
 
 const TYPED = ".ts"
 
@@ -155,7 +164,7 @@ type Way = {
   readonly importers: readonly string[]
 }
 
-type Splice = { readonly start: number; readonly end: number; readonly said: string }
+type Splice = { readonly start: number; readonly end: number; readonly put: string }
 
 function namersIn(world: World, moved: ReadonlyMap<string, string>): readonly string[] {
   const found = new Set<string>()
@@ -183,16 +192,6 @@ function wayIn(
     }
   }
   return null
-}
-
-function splicedOver(text: string, found: readonly Splice[]): string {
-  let out = ""
-  let from = 0
-  for (const one of found) {
-    out = `${out}${text.slice(from, one.start)}${one.said}`
-    from = one.end
-  }
-  return `${out}${text.slice(from)}`
 }
 
 function waysIn(node: ts.Node): ts.ObjectLiteralExpression | null {
@@ -223,16 +222,16 @@ function wayAnew(way: Way, text: string, was: string, to: string): string {
       found.push({
         start: one.name.getStart(source),
         end: one.name.getEnd(),
-        said: JSON.stringify(`.${UNDER}${to}`),
+        put: JSON.stringify(`.${UNDER}${to}`),
       })
     }
     found.push({
       start: value.getStart(source),
       end: value.getEnd(),
-      said: JSON.stringify(`.${UNDER}${relative(folder, next)}`),
+      put: JSON.stringify(`.${UNDER}${relative(folder, next)}`),
     })
   }
-  return splicedOver(text, found)
+  return splicedIn(text, found)
 }
 
 function wayEdits(world: World, way: Way, was: string, to: string): readonly Replacing[] {
@@ -253,6 +252,32 @@ function wayEdits(world: World, way: Way, was: string, to: string): readonly Rep
     }
   }
   return edits
+}
+
+function typedIn(at: string, text: string, named: string): boolean {
+  for (const one of parsedAs(at, text).statements) {
+    if (!ts.isTypeAliasDeclaration(one) && !ts.isInterfaceDeclaration(one)) continue
+    if (one.name.text !== named) continue
+    const shown = one.modifiers ?? []
+    if (shown.some((each) => each.kind === ts.SyntaxKind.ExportKeyword)) return true
+  }
+  return false
+}
+
+async function typeAnew(world: World, at: string, was: string, to: string): Promise<Answer | null> {
+  const text = world.textOf(at)
+  if (text === null) return null
+  const named = typedAs(was)
+  if (!typedIn(at, text, named)) return null
+  const reading = importingOf(world.index, new Map([[at, at]]))
+  if ("unread" in reading) return refusing(reading.unread)
+  const spelled = await reach(world, RENAME_EXPORT, {
+    at,
+    over: [at, ...reading.importers],
+    of: named,
+    to: typedAs(to),
+  })
+  return spelled.said
 }
 
 export async function renamePage(world: World, given: RenamePageAsked): Promise<Answer> {
@@ -301,6 +326,13 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
     answers.push(said.said)
     folded = gathered(answers)
     if (folded.refused !== null) return folded
+    const spelled = await typeAnew(worldOver(world, folded), lands, held.slug, given.to)
+    if (spelled !== null) {
+      if (spelled.refused !== null) return spelled
+      answers.push(spelled)
+      folded = gathered(answers)
+      if (folded.refused !== null) return folded
+    }
   }
   if (way !== null) {
     const edits = wayEdits(seen, way, held.slug, given.to)
