@@ -82,6 +82,17 @@ test("a folder already named by the plural takes a new page under pages", () => 
   expect(said).toBe("akasha/person-system/device-tokens/pages/one.device-token.ts")
 })
 
+test("a folder named by the plural with the opening taken off takes its pages under pages", () => {
+  const said = pathFor(
+    "story/chapters-read/story-chapter-read.page-type.ts",
+    "story-chapters-read",
+    "story-chapter-read",
+    "one",
+    true
+  )
+  expect(said).toBe("story/chapters-read/pages/one/one.story-chapter-read.ts")
+})
+
 test("a folder not named by the plural takes a new page under the plural", () => {
   const said = pathFor(
     "akasha/pages-system/indexes/index/index.page-type.ts",

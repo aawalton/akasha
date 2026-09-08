@@ -60,6 +60,10 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
+      statement: "A folder named by the plural with that opening taken off is named by it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder not named by the plural takes its pages under the plural.",
     },
     {

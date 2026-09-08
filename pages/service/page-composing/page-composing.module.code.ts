@@ -111,6 +111,11 @@ export function folderFor(plural: string, pageTypeSlug: string, slug: string): s
   return slug
 }
 
+export function namedForThePlural(named: string, plural: string): boolean {
+  if (named === "") return false
+  return named === plural || plural.endsWith(`-${named}`)
+}
+
 export function pathFor(
   typeAt: string,
   plural: string,
@@ -120,7 +125,7 @@ export function pathFor(
 ): string {
   const above = typeAt.split("/").slice(0, -1)
   const folder = above.join("/")
-  const under = above.at(-1) === plural ? PAGES : plural
+  const under = namedForThePlural(above.at(-1) ?? "", plural) ? PAGES : plural
   const own = besideIt ? `/${folderFor(plural, pageTypeSlug, slug)}` : ""
   return `${folder}/${under}${own}/${slug}.${pageTypeSlug}.ts`
 }
@@ -255,10 +260,6 @@ export function composedFor(root: string, named: Naming): Composed {
   }
   const wasId = was === null ? undefined : was[ID]
   if (inside[ID] === undefined && wasId !== undefined) inside[ID] = wasId
-  // THE NAMING IS THE AUTHORITY FOR BOTH OF THESE KEYS. A caller hands its page type and its slug
-  // over beside the values rather than among them, so without these two lines the two keys every
-  // page type declares required are the two keys no body written here carries, and the index files
-  // no such page.
   inside[PAGE_TYPE_SLUG] = named.pageTypeSlug
   inside[SLUG] = named.slug
   const content = bodyOf({
