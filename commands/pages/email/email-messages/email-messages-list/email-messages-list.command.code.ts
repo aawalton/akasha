@@ -10,7 +10,7 @@ import {
   type Read,
   readTaking,
   refusing,
-} from "../../../google/email/commands/email-command-reading/email-command-reading.module.code.ts"
+} from "../../../../../google/email/commands/email-command-reading/email-command-reading.module.code.ts"
 
 const QUERY = "--query"
 
