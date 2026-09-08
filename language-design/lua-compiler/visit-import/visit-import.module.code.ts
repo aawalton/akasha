@@ -10,10 +10,10 @@ import {
 } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { createSafeName } from "../safe-names/safe-names.module.code.ts"
+import { peekScope } from "../scope/scope.module.code.ts"
 import { createHoistableVariableDeclarationStatement } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { peekScope } from "../tstl-scope/tstl-scope.module.code.ts"
 import {
   getCustomNameFromSymbol,
   transformIdentifier,

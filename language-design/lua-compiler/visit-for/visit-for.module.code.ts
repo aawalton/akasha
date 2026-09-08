@@ -1,9 +1,9 @@
 import * as ts from "typescript"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
+import { ScopeType } from "../scope/scope.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { ScopeType } from "../tstl-scope/tstl-scope.module.code.ts"
 import { invertCondition, transformLoopBody } from "../visit-utils/visit-utils.module.code.ts"
 import {
   checkVariableDeclarationList,

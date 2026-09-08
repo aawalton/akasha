@@ -5,10 +5,10 @@ import {
   transformInPrecedingStatementScope,
   type WithPrecedingStatements,
 } from "../preceding-statements/preceding-statements.module.code.ts"
+import { ScopeType, separateHoistedStatements } from "../scope/scope.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { ScopeType, separateHoistedStatements } from "../tstl-scope/tstl-scope.module.code.ts"
 import { createShortCircuitBinaryExpressionPrecedingStatements } from "../visitors-binary-expression/visitors-binary-expression.module.code.ts"
 
 const containsBreakOrReturn = (nodes: Iterable<ts.Node>): boolean => {

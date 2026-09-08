@@ -7,15 +7,15 @@ import {
 } from "../export-scope/export-scope.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
-import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import {
   addScopeVariableDeclaration,
   peekScope,
   type Scope,
   ScopeType,
-} from "../tstl-scope/tstl-scope.module.code.ts"
+} from "../scope/scope.module.code.ts"
+import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
+import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
+import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { assert, castArray } from "../tstl-utils/tstl-utils.module.code.ts"
 
 export type OneToManyVisitorResult<T extends luaCore.Node> = T | readonly T[] | undefined

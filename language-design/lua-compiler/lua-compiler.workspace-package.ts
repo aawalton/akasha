@@ -80,7 +80,7 @@ export const luaCompiler = {
     "module/tstl-plugin-tstl-no-truthy-numbers",
     "module/preceding-statements",
     "module/safe-names",
-    "module/tstl-scope",
+    "module/scope",
     "module/scope-references",
     "module/tstl-symbols",
     "module/tstl-symbols-deps",
