@@ -26,6 +26,9 @@ export type Changes = {
   "change-mechanical-file-content/change-page-property-relation": Parameters<
     typeof import("../../../mechanical/file-content/change/change-page-property-relation/change-page-property-relation.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
+  "change-mechanical-file-content/change-property-value-field": Parameters<
+    typeof import("../../../mechanical/file-content/change/change-property-value-field/change-property-value-field.change-mechanical-file-content.code.ts")["runChange"]
+  >[1]
   "change-mechanical-file-content/remove-manifest-ways": Parameters<
     typeof import("../../../mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
