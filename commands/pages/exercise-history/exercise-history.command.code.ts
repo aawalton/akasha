@@ -24,6 +24,8 @@ const LIMIT = "--limit"
 
 const HOW_MANY = 20
 
+const SETS_AT_MOST = 500
+
 const NOTHING = "-"
 
 function dayOrder(one: SetLine, other: SetLine): number {
@@ -55,8 +57,7 @@ export async function exerciseHistory(argv: readonly string[], _given: Given): P
   const logs = await rowsFor({
     pageTypeSlug: SET_LOG,
     where: [{ key: "exerciseSlug", eq: exercise.slug }],
-    order: [{ by: "sessionSlug", dir: "desc" }],
-    limit,
+    limit: SETS_AT_MOST,
   })
   if ("unread" in logs) return refused(logs.unread, DATA)
 
@@ -91,6 +92,7 @@ export async function exerciseHistory(argv: readonly string[], _given: Given): P
       }
     })
     .sort(dayOrder)
+    .slice(0, limit)
   const best = bestSet(lines)
   const named = titleOf(exercise)
 
