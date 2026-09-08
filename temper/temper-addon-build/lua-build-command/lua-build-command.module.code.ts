@@ -10,7 +10,7 @@ const PLUGIN_FILES = [
   "plugin-no-multi-store/plugin-no-multi-store.module.code.ts",
 ] as const
 
-export function tstlRoot(stated?: string): string {
+export function compilerRoot(stated?: string): string {
   return stated ?? join(rootFor(resolveRoots(), AKASHA), COMPILER_PACKAGE)
 }
 

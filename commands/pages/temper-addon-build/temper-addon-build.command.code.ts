@@ -6,7 +6,11 @@ import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { copyAddonMetadata } from "@akasha/temper-addon-build/addon-metadata-copy"
 import { TSCONFIG_NAME, tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
-import { COMPILER_ENTRY, tstlCommand, tstlRoot } from "@akasha/temper-addon-build/lua-build-command"
+import {
+  COMPILER_ENTRY,
+  compilerRoot,
+  tstlCommand,
+} from "@akasha/temper-addon-build/lua-build-command"
 import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
 import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
 import { ran, shown } from "@akasha/utils-run/running"
@@ -138,7 +142,7 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
   }
 
   const root = resolve(valuesOf(argv, "--code-root")[0] ?? codeRoot())
-  const tstl = resolve(valuesOf(argv, "--tstl-root")[0] ?? tstlRoot())
+  const tstl = resolve(valuesOf(argv, "--tstl-root")[0] ?? compilerRoot())
   if (!existsSync(join(tstl, COMPILER_ENTRY))) {
     return refused(
       `${tstl} holds no ${COMPILER_ENTRY}, so nothing there is the compiler this builds with`,
