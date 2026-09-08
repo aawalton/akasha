@@ -133,7 +133,7 @@ export const folderShape = {
     {
       invariantKind: "departure",
       statement:
-        "A page type declares the members every `one-of-property` in that page type's `properties` folder names.",
+        "A page type declares the members every `one-of-property` in its `properties` folder names.",
     },
     {
       invariantKind: "departure",
@@ -146,6 +146,10 @@ export const folderShape = {
     {
       invariantKind: "departure",
       statement: "A page stating no plural slug gives its folder its slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That name has the opening it shares with the page above the folder taken off.",
     },
     {
       invariantKind: "departure",
