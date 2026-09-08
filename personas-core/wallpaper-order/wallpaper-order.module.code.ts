@@ -1,7 +1,3 @@
-// ONE AUTHORITY FOR THE ORDER. The route answering Alan's phone and the service setting Alan's
-// desktop wallpaper have to land on the same persona, so the rule sits here and both callers read
-// the rule from here rather than each caller keeping a copy of the rule.
-
 export type WallpaperRow = {
   readonly id: string
   readonly slug?: string | null
@@ -15,8 +11,6 @@ type Candidate = {
   readonly stampMs: number
 }
 
-// A STAMP NOTHING CAN READ IS NOT THE NEWEST STAMP. Reading an absent or broken stamp as the
-// present moment would put a persona nobody wrote to in front of the persona Alan just wrote to.
 export function stampMsOf(iso: string | null | undefined): number {
   if (iso == null) return Number.NEGATIVE_INFINITY
   const ms = Date.parse(iso)
