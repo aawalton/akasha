@@ -8,7 +8,6 @@ export const exercise = {
   partSlugs: [
     "namespace/exercise-constraint",
     "namespace/exercise-equipment",
-    "command/exercise-history",
     "namespace/exercise-mobility",
     "command/exercise-policy-show",
     "namespace/exercise-profile",
