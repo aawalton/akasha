@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./browser-command-arguing": "./browser-command-arguing/browser-command-arguing.module.code.ts",
     "./browser-test-storage-state": "./browser-test-storage-state/browser-test-storage-state.command.code.ts",
     "./verify-render-plan": "./verify-render-plan/verify-render-plan.module.code.ts"
   },

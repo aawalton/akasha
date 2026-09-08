@@ -20,6 +20,11 @@ import {
 import type { Answer } from "@akasha/command-system/calling"
 import { refusedBy } from "@akasha/command-system/command-answering"
 import {
+  countIn,
+  missingOf,
+  wordsIn,
+} from "../../../../browser/browser-commands/browser-command-arguing/browser-command-arguing.module.code.ts"
+import {
   classifyExpectedText,
   decideDiscriminatingSignal,
   isRetryableSessionOpenTimeout,
@@ -27,11 +32,6 @@ import {
   planTitleSettleWait,
   planVerifyRenderSession,
 } from "../../../../browser/browser-commands/verify-render-plan/verify-render-plan.module.code.ts"
-import {
-  countIn,
-  missingOf,
-  wordsIn,
-} from "../../../modules/browser-command-arguing/browser-command-arguing.module.code.ts"
 
 const URL_SAID = "--url"
 
