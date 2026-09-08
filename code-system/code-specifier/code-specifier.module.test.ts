@@ -125,3 +125,10 @@ test("a path spelled as a specifier lands back on that path", () => {
 
   expect(landingOf("akasha/a/b/one.ts", said)).toBe("akasha/a/two.ts")
 })
+
+test("a path under the folder whose first part opens with a dot opens with a dot and a slash", () => {
+  const said = specifierFor("akasha/a/b", "akasha/a/b/.server/two.ts")
+
+  expect(said).toBe("./.server/two.ts")
+  expect(landingOf("akasha/a/b/one.ts", said)).toBe("akasha/a/b/.server/two.ts")
+})

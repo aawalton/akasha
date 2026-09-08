@@ -4,6 +4,8 @@ import { skimmedAs } from "../code-source/code-source.module.code.ts"
 
 const RELATIVE = /^\.\.?\//
 
+const CLIMBS = /^\.\.(\/|$)/
+
 export type Naming = ReadonlyMap<string, string>
 
 export const NAMING_NONE: Naming = new Map()
@@ -66,5 +68,5 @@ export function landingOf(
 
 export function specifierFor(dir: string, target: string): string {
   const said = relative(dir, target)
-  return said.startsWith(".") ? said : `./${said}`
+  return CLIMBS.test(said) ? said : `./${said}`
 }
