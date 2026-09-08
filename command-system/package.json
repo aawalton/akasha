@@ -17,7 +17,6 @@
     "./change-acting": "./change-acting/change-acting.module.code.ts",
     "./check-measuring": "./commands/measure/check-measuring/check-measuring.module.code.ts",
     "./gate-building": "./gate-building/gate-building.module.code.ts",
-    "./patch-command": "./commands/patch/patch.command.code.ts",
     "./patching": "./patching/patching.module.code.ts",
     "./seat-act-calling": "./seat-act-calling/seat-act-calling.module.code.ts",
     "./command-flags": "./command-flags/command-flags.module.code.ts",
