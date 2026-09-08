@@ -6,9 +6,9 @@ import { shadowFor } from "@akasha/pages/shadow"
 import { change } from "../../../modules/check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
-  handedIn,
+  handedIn as handingIn,
   nameFormatJudgesByOneShape,
-  reasonsIn,
+  reasonsIn as reasoningIn,
 } from "./name-format-judges-by-one-shape.code-check.code.ts"
 
 const scratch = scratchWorld()
@@ -21,7 +21,21 @@ const IMPORTING = 'import { matching } from "../name-matching/name-matching.modu
 
 const MATCHING_CODE = "export function matching(shape) {\n  return (name) => shape.test(name)\n}\n"
 
+const MATCHING_AT = "akasha/name-matching/name-matching.module.code.ts"
+
+const MATCHING_PAGE = "akasha/name-matching/name-matching.module.ts"
+
+const MATCHING_ID = "01a0824b-5ca2-752a-9266-90b200862bb4"
+
 const ID = "01a05946-775f-7000-9f76-45d9dcf376ee"
+
+function handedIn(path: string, text: string): ReturnType<typeof handingIn> {
+  return handingIn(path, text, MATCHING_AT)
+}
+
+function reasonsIn(slug: string, path: string, text: string): readonly string[] {
+  return reasoningIn(slug, path, text, MATCHING_AT)
+}
 
 test("a name format handing one shape written out to `matching` is answered as that one", () => {
   const said = handedIn(AT, `${IMPORTING}\nexport const lowerKebabCase = matching(/^[a-z]+$/)\n`)
@@ -92,7 +106,13 @@ test("a format answering to a name its slug does not make is refused", () => {
 function rooted(body: string): string {
   const root = scratch.rootFor("akasha-name-format-shape-")
   const page = "akasha/f/lower-kebab-case.name-format.ts"
-  writing(root, "akasha/name-matching/name-matching.module.code.ts", MATCHING_CODE)
+  writing(root, MATCHING_AT, MATCHING_CODE)
+  writing(
+    root,
+    MATCHING_PAGE,
+    `export const nameMatching = { id: "${MATCHING_ID}", slug: "name-matching",` +
+      ' pageTypeSlug: "module", code: "ts" }\n'
+  )
   writing(
     root,
     page,
@@ -100,6 +120,10 @@ function rooted(body: string): string {
       ' pageTypeSlug: "name-format", code: "ts" }\n'
   )
   writing(root, AT, body)
+  const matching = [{ path: MATCHING_PAGE, id: MATCHING_ID }]
+  idFiled(root, MATCHING_ID, matching)
+  listedFiled(root, "module", "name-matching", matching)
+  pathFiled(root, MATCHING_PAGE, matching)
   const held = [{ path: page, id: ID }]
   idFiled(root, ID, held)
   listedFiled(root, "name-format", "lower-kebab-case", held)

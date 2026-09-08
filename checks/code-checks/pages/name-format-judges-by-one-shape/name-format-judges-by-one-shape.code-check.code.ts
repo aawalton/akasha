@@ -1,4 +1,5 @@
 import { parsedAs } from "@akasha/code/code-source"
+import { landingOf } from "@akasha/code/code-specifier"
 import type { Change } from "@akasha/pages/change"
 import { matchingIn } from "@akasha/pages/name-format/format-reaching"
 import { exportedAs } from "@akasha/pages/page-export-name"
@@ -14,7 +15,9 @@ const CODE = "code"
 
 const TS = "ts"
 
-const MATCHING_AT = "name-matching/name-matching.module.code.ts"
+const MODULE = "module"
+
+const MATCHING_SLUG = "name-matching"
 
 const MATCHING = "matching"
 
@@ -25,11 +28,11 @@ export type Handed = {
   readonly flags: string
 }
 
-function matchingCalledAs(source: ts.SourceFile): string | null {
+function matchingCalledAs(source: ts.SourceFile, path: string, at: string): string | null {
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one)) continue
     const from = one.moduleSpecifier
-    if (!ts.isStringLiteral(from) || !from.text.endsWith(MATCHING_AT)) continue
+    if (!ts.isStringLiteral(from) || landingOf(path, from.text) !== at) continue
     const clause = one.importClause
     if (clause === undefined || clause.namedBindings === undefined) continue
     if (!ts.isNamedImports(clause.namedBindings)) continue
@@ -44,9 +47,9 @@ function flagsOf(shape: ts.RegularExpressionLiteral): string {
   return shape.text.slice(shape.text.lastIndexOf("/") + 1)
 }
 
-export function handedIn(path: string, text: string): readonly Handed[] {
+export function handedIn(path: string, text: string, at: string): readonly Handed[] {
   const source = parsedAs(path, text)
-  const called = matchingCalledAs(source)
+  const called = matchingCalledAs(source, path, at)
   if (called === null) return []
   const found: Handed[] = []
   for (const one of source.statements) {
@@ -65,8 +68,8 @@ export function handedIn(path: string, text: string): readonly Handed[] {
   return found
 }
 
-export function reasonsIn(slug: string, path: string, text: string): readonly string[] {
-  const handed = handedIn(path, text)
+export function reasonsIn(slug: string, path: string, text: string, at: string): readonly string[] {
+  const handed = handedIn(path, text, at)
   const only = handed[0]
   if (only === undefined || handed.length > 1) {
     return [
@@ -93,6 +96,12 @@ export function reasonsIn(slug: string, path: string, text: string): readonly st
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const formatting = matchingIn(change.root, shadow.index, shadow.codeAt)
+  const named = shadow.index.listedAt(MODULE, MATCHING_SLUG)[0]
+  if (named === undefined) {
+    throw new Error(`the index files no \`${MODULE}/${MATCHING_SLUG}\`, so no shape is findable`)
+  }
+  const matchingAt = besideAt(named.path, CODE, TS)
+  if (matchingAt === null) throw new Error(`${named.path} has no code file beside it`)
   const found: Judged[] = []
   for (const one of shadow.index.everyOfType(NAME_FORMAT)) {
     const said = partedIn(one.path)
@@ -113,7 +122,9 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
           "judges by the shape its own code hands over",
       })
     } else {
-      for (const reason of reasonsIn(said.slug, beside, text)) found.push({ path: beside, reason })
+      for (const reason of reasonsIn(said.slug, beside, text, matchingAt)) {
+        found.push({ path: beside, reason })
+      }
     }
     try {
       formatting(`${NAME_FORMAT}/${said.slug}`)
