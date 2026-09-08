@@ -80,5 +80,6 @@ export const persona = {
     "module/green-day-fraction",
     "module/last-messaged",
     "module/points-source-availability",
+    "module/points-source-declarers",
   ],
 } as const satisfies WorkspacePackage
