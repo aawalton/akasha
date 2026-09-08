@@ -4,7 +4,7 @@ import { besideAt } from "@akasha/pages/page-file-name"
 import type { Said } from "@akasha/utils-run/running"
 import { ran } from "@akasha/utils-run/running"
 import type { Serving } from "../test-bodies/test-bodies.module.code.ts"
-import type { Overlay } from "../test-overlay/test-overlay.module.code.ts"
+import { type Bodies, mountedOver, type Overlay } from "../test-overlay/test-overlay.module.code.ts"
 
 const TS = ".ts"
 
@@ -307,18 +307,23 @@ export function spentOver(
   root: string,
   named: readonly string[],
   serving: Serving | null = null,
-  over: Overlay | null = null
+  bodies: Bodies | null = null
 ): readonly Spent[] {
-  return spentIn(root, runsFor(root, named), servesFor(serving), [], serving, null, over)
+  const over = bodies === null ? null : mountedOver(root, bodies)
+  try {
+    return spentIn(root, runsFor(root, named), servesFor(serving), [], serving, null, over)
+  } finally {
+    over?.sweep()
+  }
 }
 
-export function ranOver(
+function ranUnder(
   root: string,
   named: readonly string[],
   expected: number,
-  name: string | null = null,
-  serving: Serving | null = null,
-  over: Overlay | null = null
+  name: string | null,
+  serving: Serving | null,
+  over: Overlay | null
 ): Ran {
   const runs = runsFor(root, named)
   const naming = name === null ? [] : [NAMING, wholeOf(name)]
@@ -360,5 +365,21 @@ export function ranOver(
     verdict: judgedAs(said, slow.length, ended),
     cpuSeconds: spent,
     slow,
+  }
+}
+
+export function ranOver(
+  root: string,
+  named: readonly string[],
+  expected: number,
+  name: string | null = null,
+  serving: Serving | null = null,
+  bodies: Bodies | null = null
+): Ran {
+  const over = bodies === null ? null : mountedOver(root, bodies)
+  try {
+    return ranUnder(root, named, expected, name, serving, over)
+  } finally {
+    over?.sweep()
   }
 }

@@ -285,11 +285,15 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A run is handed an overlay of a change's bodies or nothing at all.",
+      statement: "A run is handed the bodies of a change or nothing at all.",
     },
     {
       invariantKind: "departure",
-      statement: "A run handed an overlay is run inside the tree that overlay mounts.",
+      statement: "A run handed bodies runs inside an overlay mounting those bodies over the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What that overlay mounted is swept whatever the run said.",
     },
     {
       invariantKind: "gap",

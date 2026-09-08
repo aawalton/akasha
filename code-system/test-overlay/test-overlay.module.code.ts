@@ -31,7 +31,7 @@ const SHIM =
   'while IFS= read -r one; do [ -n "$one" ] && rm -rf "./$one"; done < "$AKASHA_TAKEN"\n' +
   'exec "$@"\n'
 
-export type Bodies = Readonly<Record<string, string | null>>
+export type Bodies = Readonly<Record<string, Uint8Array | string | null>>
 
 export type Overlay = {
   readonly merged: string

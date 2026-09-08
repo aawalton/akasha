@@ -2,7 +2,6 @@ import { afterAll, test as check, expect } from "bun:test"
 import { mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { mountedOver } from "../test-overlay/test-overlay.module.code.ts"
 import {
   alreadyRunning,
   BATCH,
@@ -152,14 +151,10 @@ check("one named path runs alone, and its neighbour does not", () => {
   expect(done.verdict).toBe("pass")
 })
 
-check("a run handed an overlay reads the bodies that overlay carries", () => {
+check("a run handed bodies reads them over the checkout, which is left as it was", () => {
   const root = repo({ "one.test.ts": FAILS })
-  const over = mountedOver(root, { "akasha/one.test.ts": PASSES })
-  try {
-    expect(ranOver(root, ["akasha"], 1, null, null, over).verdict).toBe("pass")
-  } finally {
-    over.sweep()
-  }
+  const bodies = { "akasha/one.test.ts": PASSES }
+  expect(ranOver(root, ["akasha"], 1, null, null, bodies).verdict).toBe("pass")
   expect(readFileSync(join(root, "akasha/one.test.ts"), "utf8")).toBe(FAILS)
 })
 
