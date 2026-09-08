@@ -28,9 +28,9 @@ export const nimueCodeCleanup = {
         "`file-has-its-page` passes over a hardcoded `node_modules` today. Reading the property instead retires that constant and covers every build folder at once.",
     },
     {
-      statement: "A change carrying a folder carries every file a page claims and no other.",
+      statement: "A change carrying a folder leaves out the folders a build writes.",
       workingMemory:
-        "`treeUnder` in `change-shadow` walks the raw filesystem, so moving `code-system` would carry `node_modules` and every `dist` into `code`. The files a page claims are the files git tracks and the files an uncommitted page property names, and `everyFileInside` in `change-walking` already gathers both. `move-folder-package` waits on this.",
+        "`treeUnder` in `change-shadow` walks the raw filesystem, so moving `code-system` would carry `node_modules` and every `dist` into `code`. Reading the filesystem is right for the files git tracks and the files an uncommitted page property names; only the folders a build writes are wrong. `move-folder` carries a file the index does not name on purpose, so this leaves declared folders out rather than carrying claimed files alone. `move-folder-package` waits on this.",
     },
   ],
   constraints: [
