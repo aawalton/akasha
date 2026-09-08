@@ -9,10 +9,12 @@ import {
   locateConfigFile,
   parseConfigFileWithSystem,
 } from "../cli-tsconfig/cli-tsconfig.module.code.ts"
-import type * as tstlCompilerOptions from "../compiler-options/compiler-options.module.code.ts"
-import { isBundleEnabled } from "../compiler-options/compiler-options.module.code.ts"
+import {
+  type CompilerOptions,
+  isBundleEnabled,
+} from "../compiler-options/compiler-options.module.code.ts"
 import * as performance from "../measure-performance/measure-performance.module.code.ts"
-import * as tstlTranspiler from "../transpile-transpiler/transpile-transpiler.module.code.ts"
+import { createTranspiler } from "../transpile-transpiler/transpile-transpiler.module.code.ts"
 
 const shouldBePretty = ({ pretty }: ts.CompilerOptions = {}) =>
   typeof pretty === "boolean" ? pretty : (ts.sys.writeOutputIsTTY?.() ?? false)
@@ -97,7 +99,7 @@ function performBuild(_args: readonly string[]): undefined {
 function performCompilation(
   rootNames: readonly string[],
   projectReferences: readonly ts.ProjectReference[] | undefined,
-  options: tstlCompilerOptions.CompilerOptions,
+  options: CompilerOptions,
   configFileParsingDiagnostics?: readonly ts.Diagnostic[]
 ): undefined {
   if (options.measurePerformance === true) performance.enableMeasurement()
@@ -114,9 +116,7 @@ function performCompilation(
 
   performance.endSection("createProgram")
 
-  const { diagnostics: transpileDiagnostics, emitSkipped } = tstlTranspiler
-    .createTranspiler()
-    .emit({ program })
+  const { diagnostics: transpileDiagnostics, emitSkipped } = createTranspiler().emit({ program })
 
   const diagnostics = ts.sortAndDeduplicateDiagnostics([
     ...preEmitDiagnostics,
@@ -138,7 +138,7 @@ function performCompilation(
 
 function createWatchOfConfigFile(
   configFileName: string,
-  optionsToExtend: tstlCompilerOptions.CompilerOptions
+  optionsToExtend: CompilerOptions
 ): undefined {
   const watchCompilerHost = ts.createWatchCompilerHost(
     configFileName,
@@ -155,7 +155,7 @@ function createWatchOfConfigFile(
 
 function createWatchOfFilesAndCompilerOptions(
   rootFiles: readonly string[],
-  options: tstlCompilerOptions.CompilerOptions
+  options: CompilerOptions
 ): undefined {
   const watchCompilerHost = ts.createWatchCompilerHost(
     [...rootFiles],
@@ -172,12 +172,12 @@ function createWatchOfFilesAndCompilerOptions(
 
 function updateWatchCompilationHost(
   host: ts.WatchCompilerHost<ts.SemanticDiagnosticsBuilderProgram>,
-  optionsToExtend: tstlCompilerOptions.CompilerOptions
+  optionsToExtend: CompilerOptions
 ): undefined {
   let hadErrorLastTime = true
   const updateConfigFile = createConfigFileUpdater(optionsToExtend)
 
-  const transpiler = tstlTranspiler.createTranspiler()
+  const transpiler = createTranspiler()
   host.afterProgramCreate = (builderProgram) => {
     const program = builderProgram.getProgram()
     const options = program.getCompilerOptions()
