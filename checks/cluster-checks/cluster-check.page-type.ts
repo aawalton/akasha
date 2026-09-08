@@ -115,6 +115,7 @@ export const clusterCheck = {
     "module/lua-compiler-sources",
     "module/ts-property-callback-self",
     "module/check-property-callback-self",
+    "module/functional-type-row-discriminators",
   ],
   properties: [
     {
