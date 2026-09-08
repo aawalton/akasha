@@ -1,4 +1,5 @@
-import * as path from "path"
+import * as path from "node:path"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import * as resolve from "resolve"
 import type * as ts from "typescript"
 import type { Visitors } from "../context-visitors/context-visitors.module.code.ts"
@@ -22,28 +23,28 @@ export interface Plugin {
     program: ts.Program,
     options: CompilerOptions,
     emitHost: EmitHost
-  ) => readonly ts.Diagnostic[] | void
+  ) => readonly ts.Diagnostic[] | undefined
 
   afterPrint?: (
     program: ts.Program,
     options: CompilerOptions,
     emitHost: EmitHost,
     result: readonly ProcessedFile[]
-  ) => readonly ts.Diagnostic[] | void
+  ) => readonly ts.Diagnostic[] | undefined
 
   beforeEmit?: (
     program: ts.Program,
     options: CompilerOptions,
     emitHost: EmitHost,
     result: readonly EmitFile[]
-  ) => readonly ts.Diagnostic[] | void
+  ) => readonly ts.Diagnostic[] | undefined
 
   afterEmit?: (
     program: ts.Program,
     options: CompilerOptions,
     emitHost: EmitHost,
     result: readonly EmitFile[]
-  ) => readonly ts.Diagnostic[] | void
+  ) => readonly ts.Diagnostic[] | undefined
 
   moduleResolution?: (
     moduleIdentifier: string,
@@ -58,8 +59,6 @@ const getConfigDirectory = (options: ts.CompilerOptions) =>
     ? path.dirname(options.configFilePath)
     : process.cwd()
 
-const getTstlDirectory = () => path.dirname(__dirname)
-
 function resolvePlugin(
   kind: string,
   optionName: string,
@@ -71,7 +70,8 @@ function resolvePlugin(
     return { error: cliDiagnostics.compilerOptionRequiresAValueOfType(optionName, "string") }
   }
 
-  const isModuleNotFoundError = (error: any) => error.code === "MODULE_NOT_FOUND"
+  const isModuleNotFoundError = (error: unknown) =>
+    isRecord(error) && error.code === "MODULE_NOT_FOUND"
 
   let resolved: string
   try {
@@ -79,18 +79,6 @@ function resolvePlugin(
   } catch (err) {
     if (!isModuleNotFoundError(err)) throw err
     return { error: diagnosticFactories.couldNotResolveFrom(kind, query, basedir) }
-  }
-
-  const hasNoRequireHook = require.extensions[".ts"] === undefined
-  if (hasNoRequireHook && (resolved.endsWith(".ts") || resolved.endsWith(".tsx"))) {
-    try {
-      const tsNodePath = resolve.sync("ts-node", { basedir: getTstlDirectory() })
-      const tsNode: typeof import("ts-node") = require(tsNodePath)
-      tsNode.register({ transpileOnly: true })
-    } catch (err) {
-      if (!isModuleNotFoundError(err)) throw err
-      return { error: diagnosticFactories.toLoadItShouldBeTranspiled(kind, query) }
-    }
   }
 
   const commonjsModule = require(resolved)
@@ -119,7 +107,7 @@ export function getPlugins(program: ts.Program): {
       if ("plugin" in pluginOption) {
         return pluginOption.plugin
       } else {
-        const { error: resolveError, result: factory } = resolvePlugin(
+        const { error: resolveError, result: resolvedFactory } = resolvePlugin(
           "plugin",
           `${optionName}.name`,
           getConfigDirectory(options),
@@ -128,7 +116,7 @@ export function getPlugins(program: ts.Program): {
         )
 
         if (resolveError) diagnostics.push(resolveError)
-        return factory
+        return resolvedFactory
       }
     })()
 
