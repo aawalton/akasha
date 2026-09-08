@@ -4,10 +4,11 @@ import { told as gitTold } from "@akasha/git/git-running"
 import { indexNamed } from "@akasha/indexes"
 import { rebuiltWhole } from "@akasha/indexes/indexing"
 import type { Drift } from "@akasha/indexes/rebuilding"
-import { counted } from "../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
-import { holding } from "../../holding/holding.module.code.ts"
+import { counted } from "../../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import { holding } from "../../../command-system/holding/holding.module.code.ts"
+import { namesDrawn } from "../../modules/name-drawing/name-drawing.module.code.ts"
 
 export const REFRESH = "refresh"
 
@@ -34,7 +35,7 @@ export type Read =
   | { readonly refused: readonly string[] }
 
 function acts(): string {
-  return ACTS.join("`, `")
+  return namesDrawn(ACTS)
 }
 
 export function readIn(argv: readonly string[]): Read {
@@ -65,10 +66,10 @@ export function readIn(argv: readonly string[]): Read {
     act = one
   }
   if (act === null) {
-    return { refused: [...refusals, `this names no act — it carries \`${acts()}\``] }
+    return { refused: [...refusals, `this names no act — it carries ${acts()}`] }
   }
   if (!ACTS.includes(act)) {
-    refusals.push(`\`${act}\` is no act this carries — it carries \`${acts()}\``)
+    refusals.push(`\`${act}\` is no act this carries — it carries ${acts()}`)
   }
   if (refusals.length > 0) return { refused: refusals }
   return { act, dryRun }
@@ -79,9 +80,6 @@ export function named(paths: readonly string[]): string {
   return paths.length > SHOWN ? `${shown}, and ${paths.length - SHOWN} more` : shown
 }
 
-// A few paths out of a hundred say which folder the first few sort under and nothing about the
-// rest. The index a path is filed under is the first part of that path, so counting the paths under
-// each index says what the whole difference is made of at the cost of one line.
 export function classed(paths: readonly string[]): string {
   const many = new Map<string, number>()
   for (const one of paths) {

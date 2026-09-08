@@ -15,17 +15,17 @@ import {
 import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
 import { textProperty } from "@akasha/pages/text-property"
-import type { Given } from "../../calling/calling.module.code.ts"
-import { DATA, INPUT, OK, OPERATIONAL } from "../../cli/cli.module.code.ts"
-import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+import type { Given } from "../../../command-system/calling/calling.module.code.ts"
+import { DATA, INPUT, OK, OPERATIONAL } from "../../../command-system/cli/cli.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { classed, index, readIn } from "./index.command.code.ts"
 import { index as indexCommand } from "./index.command.ts"
 
 const TREE = "."
 
-const CODE_AT = "command-system/commands/index/index.command.code.ts"
+const CODE_AT = "commands/pages/index/index.command.code.ts"
 
-const PAGE_AT = "command-system/commands/index/index.command.ts"
+const PAGE_AT = "commands/pages/index/index.command.ts"
 
 const LOCK_AT = ".git/akasha-landing.lock"
 
@@ -48,7 +48,7 @@ function bodyOf(value: Readonly<Record<string, unknown>>): string {
 }
 
 function typed(
-  said: string,
+  last: string,
   slug: string,
   above: readonly string[],
   declares: readonly string[] = []
@@ -59,7 +59,7 @@ function typed(
     many: false,
   }))
   return bodyOf({
-    id: `01a04de1-2000-7000-8000-0000000000${said}`,
+    id: `01a04de1-2000-7000-8000-0000000000${last}`,
     pageTypeSlug: "page-type",
     slug,
     extendsSlug: above,
@@ -270,7 +270,7 @@ test("the report counts the indexes a difference falls under beside the files it
 test("a dry run names a path belonging to no index and leaves that path alone", () => {
   const root = repoAt()
   seeded(root)
-  const stray = join(root, ".git", "data", "index", "athena-stray.jsonl")
+  const stray = join(root, indexNamed(), "athena-stray.jsonl")
   writeFileSync(stray, "{}\n")
   const answer = index(["refresh", "--dry-run"], givenAt(root))
   expect(answer.code).toBe(OK)
@@ -281,7 +281,7 @@ test("a dry run names a path belonging to no index and leaves that path alone", 
 
 test("every act and flag the surface shows is one this takes", () => {
   for (const one of indexCommand.taking) {
-    const said = readIn([one.said.split(" ")[0] ?? ""])
-    expect("refused" in said ? said.refused.join(" ") : "").not.toContain("this takes")
+    const held = readIn([one.said.split(" ")[0] ?? ""])
+    expect("refused" in held ? held.refused.join(" ") : "").not.toContain("this takes")
   }
 })
