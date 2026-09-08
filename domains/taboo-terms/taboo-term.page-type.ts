@@ -18,7 +18,6 @@ export const tabooTerm = {
   pluralSlug: "taboo-terms",
   partSlugs: [
     "record-property/taboo-senses",
-    "text-property/instead",
     "text-property/kept-senses",
     "text-property/pattern",
     "text-property/sense",
