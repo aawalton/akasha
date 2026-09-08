@@ -139,7 +139,7 @@ test("a change taking a fault away is not refused, though the fault is still on 
   expect(shellClean(change(root, [ONE], proposing(root, ONE, CLEAN)), shadowAt(root))).toEqual([])
 })
 
-test("the world names every shell script the index files as well as the ones carried", () => {
+test("the mirror names every shell script the index files as well as the ones carried", () => {
   const root = rooted()
   pathFiled(root, PART_AT, [{ path: PART_AT, id: HELD_ID }])
   const held = landing(root, { [MAIN_AT]: bytesOf(MAIN), "akasha/held.md": bytesOf("held") })
