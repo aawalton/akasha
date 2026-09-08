@@ -1,28 +1,24 @@
 import { expect, test } from "bun:test"
-import { POUNDS_TO_THE_POINT, strengthIn } from "./attribute-strength.readout.code.ts"
+import { mkdtempSync } from "node:fs"
+import { join } from "node:path"
+import { keepPointsToday } from "../../points/attribute-points.module.code.ts"
+import { strengthShown } from "./attribute-strength.readout.code.ts"
+import { attributeStrength } from "./attribute-strength.readout.ts"
 
-const held = (figure: unknown) => ({ "strength-volume": figure })
+const HOLD = "/var/tmp"
 
-test("the reading is the figure over the amount one point costs", () => {
-  expect(POUNDS_TO_THE_POINT).toBe(2204.62)
-  expect(strengthIn(held(2204.62))).toBeCloseTo(1, 10)
-  expect(strengthIn(held(2204.62 * 2))).toBeCloseTo(2, 10)
+const rootMade = () => mkdtempSync(join(HOLD, "attribute-strength-"))
+
+test("this readout names the attribute whose points it shows", () => {
+  expect(attributeStrength.attributeSlug).toBe("strength")
 })
 
-test("a figure given as text is read as the number that text spells", () => {
-  expect(strengthIn(held(String(2204.62)))).toBeCloseTo(1, 10)
+test("the reading is the points that attribute earned today", () => {
+  const root = rootMade()
+  keepPointsToday(root, attributeStrength.attributeSlug, 2.5)
+  expect(strengthShown(root)).toBe(2.5)
 })
 
-test("a reading of zero is a reading rather than an absent one", () => {
-  expect(strengthIn(held(0))).toBe(0)
-  expect(strengthIn(held("0"))).toBe(0)
-})
-
-test("a day carrying no figure is no reading rather than a strength of zero", () => {
-  expect(strengthIn({})).toBeNull()
-  expect(strengthIn(held(null))).toBeNull()
-  expect(strengthIn(held(undefined))).toBeNull()
-  expect(strengthIn(held(""))).toBeNull()
-  expect(strengthIn(held("   "))).toBeNull()
-  expect(strengthIn(held("soon"))).toBeNull()
+test("an attribute carrying no points today is no reading rather than a zero", () => {
+  expect(strengthShown(rootMade())).toBeNull()
 })

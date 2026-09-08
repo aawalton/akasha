@@ -17,22 +17,20 @@ export const attributeStrength = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the pounds the tracking day carries turned into points.",
+      statement: "The reading is the points the strength attribute carries for today.",
     },
     {
       invariantKind: "departure",
-      statement: "A thousand kilograms moved is one point.",
+      statement: "The attribute is reached through the link this readout names.",
     },
     {
       invariantKind: "departure",
-      statement: "A thousand kilograms is 2204.62 pounds.",
+      statement: "An attribute carrying no points today is no reading rather than a zero.",
     },
-
     {
-      invariantKind: "departure",
-      statement: "No tracking day is no reading rather than a strength of zero.",
+      invariantKind: "absence",
+      statement: "Nothing here works out what a day earned.",
     },
-
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",
