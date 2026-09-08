@@ -27,7 +27,7 @@ export const supervisorEnv = {
     {
       invariantKind: "departure",
       statement:
-        "A name the supervisor carries that is neither of those keys reaches the child unchanged.",
+        "A name the supervisor has that is neither of those keys reaches the child unchanged.",
     },
   ],
 } as const satisfies Module

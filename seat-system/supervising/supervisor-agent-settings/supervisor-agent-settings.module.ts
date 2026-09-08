@@ -18,7 +18,7 @@ export const supervisorAgentSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "The hooks akasha declares are merged over the hooks the document carries.",
+      statement: "The hooks akasha declares are merged over the hooks the document has.",
     },
     {
       invariantKind: "departure",

@@ -48,11 +48,11 @@ export const seatTranscriptRotation = {
     },
     {
       invariantKind: "constraint",
-      statement: "The opening records of a transcript carry no timestamp.",
+      statement: "The opening records of a transcript have no timestamp.",
     },
     {
       invariantKind: "constraint",
-      statement: "How many opening records a transcript carries differs by session.",
+      statement: "How many opening records a transcript has differs by session.",
     },
     {
       invariantKind: "departure",

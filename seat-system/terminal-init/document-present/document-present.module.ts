@@ -18,7 +18,7 @@ export const documentPresent = {
     },
     {
       invariantKind: "departure",
-      statement: "Only the last two parts of a path carry the slug.",
+      statement: "Only the last two parts of a path have the slug.",
     },
     {
       invariantKind: "departure",

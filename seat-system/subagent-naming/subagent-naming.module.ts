@@ -4,7 +4,7 @@ export const subagentNaming = {
   id: "01a06949-b281-7ea1-9435-503a9b97d864",
   pageTypeSlug: "module",
   slug: "subagent-naming",
-  definition: "how a subagent's name carries the seat above it, joined by a double hyphen",
+  definition: "how a subagent's name has the seat above it, joined by a double hyphen",
   code: "ts",
   invariants: [
     {

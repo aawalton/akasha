@@ -20,7 +20,7 @@ export const supervisorInteractiveBoot = {
     {
       invariantKind: "departure",
       statement:
-        "An agent id is created only where neither the handoff nor the options carry an agent id.",
+        "An agent id is created only where neither the handoff nor the options have an agent id.",
     },
     {
       invariantKind: "departure",

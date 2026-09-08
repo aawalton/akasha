@@ -56,7 +56,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat the index carries no page for writes nothing.",
+      statement: "A seat the index has no page for writes nothing.",
     },
     {
       invariantKind: "departure",
@@ -86,7 +86,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "Every line that log carries opens with the time that line was written.",
+      statement: "Every line that log has opens with the time that line was written.",
     },
     {
       invariantKind: "departure",
@@ -102,7 +102,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "The seat whose folder holds that log is named by the id the call carries.",
+      statement: "The seat whose folder holds that log is named by the id the call has.",
     },
     {
       invariantKind: "departure",
@@ -118,7 +118,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A call to write that carries no seat id writes nothing.",
+      statement: "A call to write that has no seat id writes nothing.",
     },
     {
       invariantKind: "departure",

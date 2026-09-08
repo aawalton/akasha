@@ -18,7 +18,7 @@ export const supervisorSpawnSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "A read that throws leaves the spawn carrying only its per-spawn overrides.",
+      statement: "A read that throws leaves the spawn with only its per-spawn overrides.",
     },
   ],
 } as const satisfies Module

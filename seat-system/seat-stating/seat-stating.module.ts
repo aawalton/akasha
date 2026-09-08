@@ -30,15 +30,15 @@ export const seatStating = {
     },
     {
       invariantKind: "departure",
-      statement: "An assignment is addressed under the first page type carrying its slug.",
+      statement: "An assignment is addressed under the first page type with its slug.",
     },
     {
       invariantKind: "departure",
-      statement: "A slug no page type carries is addressed as a domain.",
+      statement: "A slug no page type has is addressed as a domain.",
     },
     {
       invariantKind: "departure",
-      statement: "An assignment naming a page type that carries its slug is not addressed again.",
+      statement: "An assignment naming a page type that has its slug is not addressed again.",
     },
     {
       invariantKind: "constraint",
@@ -54,7 +54,7 @@ export const seatStating = {
     },
     {
       invariantKind: "departure",
-      statement: "The address a seat's page carries is read from that page rather than composed.",
+      statement: "The address a seat's page has is read from that page rather than composed.",
     },
     {
       invariantKind: "departure",
@@ -70,7 +70,7 @@ export const seatStating = {
     },
     {
       invariantKind: "departure",
-      statement: "The address a seat states is kept where the page carrying that address has gone.",
+      statement: "The address a seat states is kept where the page with that address has gone.",
     },
     {
       invariantKind: "departure",

@@ -11,7 +11,7 @@ export const seatStopping = {
     {
       invariantKind: "departure",
       statement:
-        "Every process carrying the agent's id is signalled rather than the page's supervisor alone.",
+        "Every process with the agent's id is signalled rather than the page's supervisor alone.",
     },
     {
       invariantKind: "departure",

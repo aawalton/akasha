@@ -37,7 +37,7 @@ export const supervisorIterationOutcomeHandlers = {
     },
     {
       invariantKind: "departure",
-      statement: "Only spawn-argv carries the notice.",
+      statement: "Only spawn-argv has the notice.",
     },
     {
       invariantKind: "departure",

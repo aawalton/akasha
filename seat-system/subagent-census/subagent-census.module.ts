@@ -4,7 +4,7 @@ export const subagentCensus = {
   id: "01a072be-bffe-7f16-bf8b-0ccd8c2a00f6",
   pageTypeSlug: "module",
   slug: "subagent-census",
-  definition: "every subagent page the index carries, each judged working, stale or undetermined",
+  definition: "every subagent page the index has, each judged working, stale or undetermined",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -67,7 +67,7 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
-      statement: "That log carries a line only where a landing refused.",
+      statement: "That log has a line only where a landing refused.",
     },
     {
       invariantKind: "departure",
@@ -136,7 +136,7 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
-      statement: "The evidence a seat's transcript carries is handed in rather than read here.",
+      statement: "The evidence a seat's transcript has is handed in rather than read here.",
     },
   ],
 } as const satisfies Module

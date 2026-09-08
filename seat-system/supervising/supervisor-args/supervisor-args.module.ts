@@ -15,7 +15,7 @@ export const supervisorArgs = {
     {
       invariantKind: "departure",
       statement:
-        "A re-exec line carries the agent and session that line resumes rather than the old ones.",
+        "A re-exec line has the agent and session that line resumes rather than the old ones.",
     },
     {
       invariantKind: "departure",
@@ -24,7 +24,7 @@ export const supervisorArgs = {
     },
     {
       invariantKind: "departure",
-      statement: "A re-exec line carries the mode flag the earlier line carried.",
+      statement: "A re-exec line has the mode flag the earlier line carried.",
     },
     {
       invariantKind: "departure",

@@ -23,7 +23,7 @@ export const supervisorLimitResumeEffects = {
     },
     {
       invariantKind: "departure",
-      statement: "A transcript carrying no assistant line is no rate-limit death.",
+      statement: "A transcript with no assistant line is no rate-limit death.",
     },
     {
       invariantKind: "departure",

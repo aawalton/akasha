@@ -25,7 +25,7 @@ export const supervisorHeartbeatBeat = {
     },
     {
       invariantKind: "departure",
-      statement: "Output that is no object carrying an outcome is read as a refusal.",
+      statement: "Output that is no object with an outcome is read as a refusal.",
     },
     {
       invariantKind: "departure",
