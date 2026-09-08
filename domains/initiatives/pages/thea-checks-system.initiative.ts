@@ -8,11 +8,6 @@ export const theaChecksSystem = {
   personaSlug: "thea",
   intents: [
     {
-      statement: "Every file the repository tracks is claimed by a page.",
-      workingMemory:
-        "Worked by category, and every category below holds an intent, so this pops once they do. 336 files are claimed by no page, measured against the index the check reads rather than by measure-pages, which counts by the page type in a name and so misses both a file claimed at a sub-path and a property file whose page is gone. Routes at 145 and lualib at 124 are most of it. service-system is done and holds nothing unclaimed, the older note naming it stale.",
-    },
-    {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
         "Ninety old scanners: 11 already carried, 12 hold no rule, 49 judge what has no subject under `akasha/` and wait on the migration, 18 had a subject and are all settled. Carried: no-non-null-assertion, no-angle-bracket-cast, manifest-names-what-is-reached, shell-clean, the property-id taboo term. The other 13 were left, most having nothing here to judge. Twenty-one of the ninety cannot run at all, the graph layer they read being deleted. Resume at the 49 once the migration reaches them.",
