@@ -4,7 +4,7 @@ import {
   workloadClassMemberSelector,
 } from "@akasha/k8s-types/hostnames"
 import { ciEnrollmentCandidateLabel } from "@akasha/k8s-types/hostnames-ci-enrollment"
-import type { NodeIntent } from "../talos-schema/talos-schema.module.code.ts"
+import type { NodeIntent } from "../schema/schema.module.code.ts"
 
 export const MAIN_NODES: Readonly<Record<string, NodeIntent>> = {
   "node-03": {

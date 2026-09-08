@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto"
 import { stringify } from "yaml"
-import type { ImageFactorySchematic, NodeIntent } from "../talos-schema/talos-schema.module.code.ts"
+import type { ImageFactorySchematic, NodeIntent } from "../schema/schema.module.code.ts"
 
 export function buildSchematic(node: NodeIntent): ImageFactorySchematic {
   return {

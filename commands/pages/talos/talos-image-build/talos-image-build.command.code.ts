@@ -3,10 +3,10 @@ import { resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { getClusterForNode, getNode } from "@akasha/talos/nodes"
+import type { ClusterIntent, NodeIntent } from "@akasha/talos/schema"
 import { buildSchematic } from "@akasha/talos/talos-build-schematic"
 import { emitSchematicYaml } from "@akasha/talos/talos-emit-yaml"
 import { installerIsoUrl, registerSchematic } from "@akasha/talos/talos-factory"
-import type { ClusterIntent, NodeIntent } from "@akasha/talos/talos-schema"
 
 export const NODE = "--node"
 

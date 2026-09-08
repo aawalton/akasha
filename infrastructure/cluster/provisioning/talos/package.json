@@ -11,7 +11,7 @@
     "./nodes": "./nodes/nodes.module.code.ts",
     "./paths": "./paths/paths.module.code.ts",
     "./talos-registry-ca": "./talos-registry-ca/talos-registry-ca.module.code.ts",
-    "./talos-schema": "./talos-schema/talos-schema.module.code.ts",
+    "./schema": "./schema/schema.module.code.ts",
     "./talos-sops": "./talos-sops/talos-sops.module.code.ts",
     "./talos-ssh": "./talos-ssh/talos-ssh.module.code.ts",
     "./talos-wait-for-port": "./talos-wait-for-port/talos-wait-for-port.module.code.ts",

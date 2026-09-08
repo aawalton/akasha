@@ -1,8 +1,5 @@
 import { stringify } from "yaml"
-import type {
-  ImageFactorySchematic,
-  MachineConfigPatch,
-} from "../talos-schema/talos-schema.module.code.ts"
+import type { ImageFactorySchematic, MachineConfigPatch } from "../schema/schema.module.code.ts"
 
 export function emitPatchYaml(patch: MachineConfigPatch): string {
   return stringify(patch)

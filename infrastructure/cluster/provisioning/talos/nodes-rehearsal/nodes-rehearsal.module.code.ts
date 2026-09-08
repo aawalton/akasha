@@ -1,4 +1,4 @@
-import type { NodeIntent } from "../talos-schema/talos-schema.module.code.ts"
+import type { NodeIntent } from "../schema/schema.module.code.ts"
 
 export const REHEARSAL_NODES: Readonly<Record<string, NodeIntent>> = {
   "rehearsal-01": {

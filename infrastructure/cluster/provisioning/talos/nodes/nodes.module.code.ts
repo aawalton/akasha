@@ -1,6 +1,6 @@
 import { MAIN_NODES } from "../nodes-main/nodes-main.module.code.ts"
 import { REHEARSAL_NODES } from "../nodes-rehearsal/nodes-rehearsal.module.code.ts"
-import type { ClusterIntent, NodeIntent } from "../talos-schema/talos-schema.module.code.ts"
+import type { ClusterIntent, NodeIntent } from "../schema/schema.module.code.ts"
 
 const REGISTRY_HOST = "registry.registry.svc.cluster.local:5000"
 

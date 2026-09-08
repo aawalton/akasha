@@ -1,4 +1,4 @@
-import type { MachineConfigPatch, NodeIntent } from "../talos-schema/talos-schema.module.code.ts"
+import type { MachineConfigPatch, NodeIntent } from "../schema/schema.module.code.ts"
 
 function userVolumeDoc(volume: NodeIntent["userVolumes"][number]): MachineConfigPatch {
   const maxSize = volume.maxSize ?? (volume.grow ? undefined : volume.minSize)
