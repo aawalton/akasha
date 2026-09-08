@@ -64,7 +64,7 @@ export const theaChecksSystem = {
     {
       statement: "Every generated mirror derives its key set from the source it mirrors.",
       workingMemory:
-        "20 pairs left after the 7 naming game-items-rules-core and game-items-addon went with those packages. Each is a data module in a temper package holding the keys beside a generator under temper/temper-addon-generators repeating them by hand, as temper-companion-role's KEY_RANK repeats companion-roles. The generators already depend on the core packages and import types from them, so deriving is a plain value import. codegen-type-identity-drift and its two modules are gone; nothing watches this.",
+        "Nineteen landed in four commits, every generator's emitted bytes unchanged; the canonical's declaration order was the rank table in all nineteen, so ranksOf over createDataFile's .ids replaced each literal. Left is skill-point-public-dungeon, a real 36-key copy that is no generator: deriving it makes temper-player-completion the first non-addon dependent of temper-skill-point-finder, whose own page says nothing here reaches the game. Waiting on that call.",
     },
   ],
   constraints: [
