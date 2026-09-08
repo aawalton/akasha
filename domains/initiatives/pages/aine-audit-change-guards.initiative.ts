@@ -22,7 +22,7 @@ export const aineAuditChangeGuards = {
     {
       statement: "The mode a change runs in is factored out of the changes that carry one.",
       workingMemory:
-        "The three flags a run mode is made of, `runsChecks`, `readersOweReading` and `writerOwesReading`, are stated on every change page and narrowed to false by `change-mechanical`. The mechanical runner restates them as one constant, and that is the only branch of its kind in the changes. The runner reaches mechanical changes alone, so the constant is its own kind made concrete rather than a second place the flags are held. Nothing here takes a dry run or a draft yet.\n",
+        "The three flags a run mode is made of, `runsChecks`, `readersOweReading` and `writerOwesReading`, are stated on every change page though `change-mechanical` narrows all three to false. A declaration default cannot carry them: `default-value` says a default does not make a required property optional, and nothing turns a default's text into a boolean. `page-matches-its-type` excuses a computed property, so reading the three off the change kind is the way out.\n",
     },
   ],
   constraints: [
