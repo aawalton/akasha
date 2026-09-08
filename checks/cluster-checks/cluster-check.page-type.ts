@@ -146,6 +146,7 @@ export const clusterCheck = {
     "module/check-tsconfig-allowlists",
     "module/check-vite-supabase-rr-define-json-contract",
     "module/check-type-assertions",
+    "module/cli-json-contract-coupling",
   ],
   properties: [
     {
