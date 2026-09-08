@@ -87,7 +87,23 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the two forms a choice is written in.",
+      statement: "A refusal names the forms a choice is written in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The patch runs are read where no phase was named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The audit runs are read in their place where the audit flag was named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The audit flag said twice is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run of a phase that was not read counts nowhere in the table.",
     },
     {
       invariantKind: "departure",
