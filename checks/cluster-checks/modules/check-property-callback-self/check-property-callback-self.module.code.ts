@@ -4,7 +4,7 @@ import { existsSync } from "node:fs"
 import { resolve } from "node:path"
 import ts from "typescript"
 import { parseArgs, STANDARD_FLAGS } from "../cli-args/cli-args.module.code.ts"
-import { isTstlSourcePath } from "../lua-compiler-sources/lua-compiler-sources.module.code.ts"
+import { isLuaCompilerSourcePath } from "../lua-compiler-sources/lua-compiler-sources.module.code.ts"
 import { examineFilePopulation } from "../population/population.module.code.ts"
 import { getRepoRoot } from "../repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../retired/retired.module.code.ts"
@@ -42,7 +42,7 @@ const SUCCESS_MESSAGE = "All property-style interface callbacks declare `this: v
 
 export const propertyCallbackSelfEntry: SyntaxScannerEntry = {
   name: "tstl-property-callback-self",
-  preFileSkip: (rel, repoRoot) => !isTstlSourcePath(rel, repoRoot),
+  preFileSkip: (rel, repoRoot) => !isLuaCompilerSourcePath(rel, repoRoot),
   findFindings: (sf) => {
     const out: NormalizedFinding[] = []
     for (const f of scanPropertyCallbackSelf(sf)) {
@@ -95,7 +95,7 @@ async function main(): Promise<undefined> {
     cacheDir: flags.cacheDir,
   })
   const { population, violations: findings } = examineFilePopulation<PropertyCallbackSelfFinding>({
-    files: allTsFiles.filter((rel) => isTstlSourcePath(rel, repoRoot)),
+    files: allTsFiles.filter((rel) => isLuaCompilerSourcePath(rel, repoRoot)),
     unit: "source files",
     membership: {
       kind: "enumerated",

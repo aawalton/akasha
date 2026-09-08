@@ -49,7 +49,7 @@ function tstlRoots(repoRoot: string): readonly string[] {
   return roots
 }
 
-export function isTstlSourcePath(rel: string, repoRoot: string): boolean {
+export function isLuaCompilerSourcePath(rel: string, repoRoot: string): boolean {
   if (isExcludedFromTstlScan(rel)) return false
   return matchesTstlRoot(rel, tstlRoots(repoRoot))
 }
