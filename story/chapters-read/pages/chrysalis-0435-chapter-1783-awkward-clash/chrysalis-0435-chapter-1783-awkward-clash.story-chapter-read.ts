@@ -5,7 +5,7 @@ export const chrysalis0435Chapter1783AwkwardClash = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0435-chapter-1783-awkward-clash",
   title: "Chapter 1783 - Awkward Clash",
-  partOfSlugs: ["story-read/chrysalis"],
+  partOfCollectionSlugs: ["story-read/chrysalis"],
   position: 435,
   ownLength: 999,
   unitSlug: "words",

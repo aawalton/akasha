@@ -5,7 +5,7 @@ export const cinnamonBun0004ChapterTwoWhoYouGonnaCall = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0004-chapter-two-who-you-gonna-call",
   title: "Chapter Two - Who You Gonna Call?",
-  partOfSlugs: ["story-read/cinnamon-bun"],
+  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
   position: 4,
   ownLength: 1984,
   unitSlug: "words",

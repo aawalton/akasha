@@ -5,7 +5,7 @@ export const cinnamonBun0087ChapterEightyFourPsychohazard = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0087-chapter-eighty-four-psychohazard",
   title: "Chapter Eighty-Four - Psychohazard",
-  partOfSlugs: ["story-read/cinnamon-bun"],
+  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
   position: 87,
   ownLength: 1975,
   unitSlug: "words",

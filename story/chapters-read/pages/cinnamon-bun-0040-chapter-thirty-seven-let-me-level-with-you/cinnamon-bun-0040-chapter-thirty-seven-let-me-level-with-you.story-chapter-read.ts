@@ -5,7 +5,7 @@ export const cinnamonBun0040ChapterThirtySevenLetMeLevelWithYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0040-chapter-thirty-seven-let-me-level-with-you",
   title: "Chapter Thirty-Seven - Let me Level With You",
-  partOfSlugs: ["story-read/cinnamon-bun"],
+  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
   position: 40,
   ownLength: 2012,
   unitSlug: "words",
