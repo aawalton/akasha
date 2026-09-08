@@ -1,4 +1,4 @@
-import type { Command } from "../../../command-system/commands/command.page-type.ts"
+import type { Command } from "../../../../command-system/commands/command.page-type.ts"
 
 export const seatResume = {
   id: "01a0797a-9a89-7c74-a460-ae5a33be7b89",

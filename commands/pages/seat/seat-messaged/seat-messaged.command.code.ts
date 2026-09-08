@@ -1,6 +1,6 @@
 import { asking } from "@akasha/pages-service/asking"
 import { keepLastMessagedAt, personaOr } from "@akasha/personas/persona-reading"
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
 
 const SEAT = "seat"
 
