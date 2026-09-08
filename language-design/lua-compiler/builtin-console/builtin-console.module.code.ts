@@ -99,5 +99,6 @@ export function transformConsoleCall(
     }
     default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "console", methodName))
+      return undefined
   }
 }
