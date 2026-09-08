@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { landedMechanically } from "@akasha/command-system/asking"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { listedAt } from "@akasha/indexes"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { refuseALiveTestWrite } from "@akasha/pages/live-store-write-guard"
@@ -10,6 +10,8 @@ import { asking } from "@akasha/pages-service/asking"
 import { wakeDayOf } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
 
 const EMAIL_ENTRY_PAGE_TYPE_SLUG = "email-entry"
+
+const PUT = "change-mechanical-file/add-file"
 
 const PAGE_TYPE = "page-type"
 
@@ -116,23 +118,15 @@ async function landPage(
   const message =
     `Alan's mail on ${String(values.date)} reached ` +
     `${String(values[LOWEST_INBOX_COUNT])} at its lowest`
-  const answer = await landedMechanically(
-    root,
-    INBOX_WRITER,
-    [{ path: at, body: encoded(body) }],
-    message
-  )
-  if (answer.code !== 0) {
+  const answer = await runMechanicalChange(root, [{ at: PUT, given: { at, body } }], message)
+  const wrong = "refusals" in answer ? answer.refusals : answer.wrong
+  if (wrong.length > 0) {
     throw new Error(
-      `writing ${EMAIL_ENTRY_PAGE_TYPE_SLUG} for ${slug} at ${at}: ${answer.refusals.join("; ")}`
+      `writing ${EMAIL_ENTRY_PAGE_TYPE_SLUG} for ${slug} at ${at}: ${wrong.join("; ")}`
     )
   }
   stoodAs(root, at, body, slug)
   return undefined
-}
-
-function encoded(body: string): Uint8Array {
-  return new TextEncoder().encode(body)
 }
 
 function stoodAs(root: string, at: string, body: string, slug: string): undefined {

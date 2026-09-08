@@ -38,6 +38,10 @@ export const emailEntryWriting = {
     },
     {
       invariantKind: "departure",
+      statement: "The change adding a file writes the entry rather than an edit composed here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The row already on the page is carried over unchanged.",
     },
     {
