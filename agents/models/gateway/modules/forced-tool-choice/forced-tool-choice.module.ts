@@ -10,7 +10,7 @@ export const forcedToolChoice = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A refusal is a 400 carrying the anthropic error envelope.",
+      statement: "A refusal is a 400 with the anthropic error envelope.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const forcedToolChoice = {
     },
     {
       invariantKind: "departure",
-      statement: "An invalid request carrying no message is no refusal.",
+      statement: "An invalid request with no message is no refusal.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,7 @@ export const forcedToolChoice = {
     },
     {
       invariantKind: "departure",
-      statement: "A rewrite carries every key the body has beside the tool choice.",
+      statement: "A rewrite has every key the body has beside the tool choice.",
     },
     {
       invariantKind: "departure",
@@ -66,15 +66,15 @@ export const forcedToolChoice = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer left unchanged carries the body text upstream sent.",
+      statement: "An answer left unchanged has the body text upstream sent.",
     },
     {
       invariantKind: "departure",
-      statement: "An answer left unchanged carries the status text upstream sent.",
+      statement: "An answer left unchanged has the status text upstream sent.",
     },
     {
       invariantKind: "departure",
-      statement: "An answer left unchanged carries the headers upstream sent.",
+      statement: "An answer left unchanged has the headers upstream sent.",
     },
     {
       invariantKind: "departure",

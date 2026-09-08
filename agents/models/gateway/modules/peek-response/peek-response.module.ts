@@ -46,15 +46,15 @@ export const peekResponse = {
     },
     {
       invariantKind: "departure",
-      statement: "A rebuilt response carries the status of the original.",
+      statement: "A rebuilt response has the status of the original.",
     },
     {
       invariantKind: "departure",
-      statement: "A rebuilt response carries the status text of the original.",
+      statement: "A rebuilt response has the status text of the original.",
     },
     {
       invariantKind: "departure",
-      statement: "A rebuilt response carries the headers of the original.",
+      statement: "A rebuilt response has the headers of the original.",
     },
     {
       invariantKind: "departure",
@@ -66,11 +66,11 @@ export const peekResponse = {
     },
     {
       invariantKind: "gap",
-      statement: "A rebuilt response carries the content-encoding of a body already decoded.",
+      statement: "A rebuilt response has the content-encoding of a body already decoded.",
     },
     {
       invariantKind: "gap",
-      statement: "A rebuilt response carries the content-length of the compressed body.",
+      statement: "A rebuilt response has the content-length of the compressed body.",
     },
   ],
 } as const satisfies Module

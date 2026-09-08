@@ -50,11 +50,11 @@ export const messageHandler = {
     },
     {
       invariantKind: "departure",
-      statement: "A 502 answer carries the status text `Bad Gateway`.",
+      statement: "A 502 answer has the status text `Bad Gateway`.",
     },
     {
       invariantKind: "departure",
-      statement: "A 502 answer carries no body.",
+      statement: "A 502 answer has no body.",
     },
     {
       invariantKind: "departure",

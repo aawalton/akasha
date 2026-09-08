@@ -42,7 +42,7 @@ export const oauthTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "An AccountState carries no token.",
+      statement: "An AccountState has no token.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +63,7 @@ export const oauthTypes = {
     },
     {
       invariantKind: "gap",
-      statement: "A CredentialDoc carries the disabled flag beside the disabled timestamp.",
+      statement: "A CredentialDoc has the disabled flag beside the disabled timestamp.",
     },
   ],
 } as const satisfies Module

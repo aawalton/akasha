@@ -53,12 +53,12 @@ export const oauthEffects = {
     },
     {
       invariantKind: "departure",
-      statement: "A pick carries the five-hour reset in milliseconds where that reset is ahead.",
+      statement: "A pick has the five-hour reset in milliseconds where that reset is ahead.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A pick carries no five-hour reset where that reset is behind the moment of the choice.",
+        "A pick has no five-hour reset where that reset is behind the moment of the choice.",
     },
     {
       invariantKind: "departure",
@@ -184,7 +184,7 @@ export const oauthEffects = {
     },
     {
       invariantKind: "gap",
-      statement: "The headers the usage probe carries are written here rather than handed in.",
+      statement: "The headers the usage probe has are written here rather than handed in.",
     },
     {
       invariantKind: "gap",
@@ -204,7 +204,7 @@ export const oauthEffects = {
     },
     {
       invariantKind: "gap",
-      statement: "A credential read here carries the token that reader answered with.",
+      statement: "A credential read here has the token that reader answered with.",
     },
   ],
 } as const satisfies Module

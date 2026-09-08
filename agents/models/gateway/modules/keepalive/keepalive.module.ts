@@ -31,7 +31,7 @@ export const keepalive = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows the frames a stream carries.",
+      statement: "Nothing here knows the frames a stream has.",
     },
     {
       invariantKind: "departure",

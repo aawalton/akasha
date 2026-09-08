@@ -15,7 +15,7 @@ export const permissionDenied = {
 
     {
       invariantKind: "departure",
-      statement: "A body carrying no Anthropic error envelope matches nothing.",
+      statement: "A body with no Anthropic error envelope matches nothing.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const permissionDenied = {
     },
     {
       invariantKind: "departure",
-      statement: "A match carries the envelope message as the reason.",
+      statement: "A match has the envelope message as the reason.",
     },
     {
       invariantKind: "departure",

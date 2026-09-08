@@ -34,8 +34,7 @@ export const forward = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A request handed no access token carries the `authorization` header the client sent.",
+      statement: "A request handed no access token has the `authorization` header the client sent.",
     },
     {
       invariantKind: "departure",
@@ -64,11 +63,11 @@ export const forward = {
     },
     {
       invariantKind: "departure",
-      statement: "An observer is built where the slot carries an end.",
+      statement: "An observer is built where the slot has an end.",
     },
     {
       invariantKind: "departure",
-      statement: "A slot carrying no end beside no log file is left holding nothing.",
+      statement: "A slot with no end beside no log file is left holding nothing.",
     },
     {
       invariantKind: "departure",
@@ -108,11 +107,11 @@ export const forward = {
     },
     {
       invariantKind: "departure",
-      statement: "The response carries the upstream status.",
+      statement: "The response has the upstream status.",
     },
     {
       invariantKind: "departure",
-      statement: "The response carries the upstream status text.",
+      statement: "The response has the upstream status text.",
     },
     {
       invariantKind: "departure",

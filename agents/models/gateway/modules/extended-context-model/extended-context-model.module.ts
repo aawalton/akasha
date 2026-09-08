@@ -10,7 +10,7 @@ export const extendedContextModel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The marker an extended-context model carries is `[1m]`.",
+      statement: "The marker an extended-context model has is `[1m]`.",
     },
     {
       invariantKind: "departure",
@@ -54,7 +54,7 @@ export const extendedContextModel = {
     },
     {
       invariantKind: "departure",
-      statement: "A rewrite carries every key the body has beside the model.",
+      statement: "A rewrite has every key the body has beside the model.",
     },
     {
       invariantKind: "departure",
@@ -74,7 +74,7 @@ export const extendedContextModel = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here names which models can carry extended context.",
+      statement: "Nothing here names which models can have extended context.",
     },
     {
       invariantKind: "gap",

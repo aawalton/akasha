@@ -15,7 +15,7 @@ export const modelUnavailableRebind = {
     },
     {
       invariantKind: "departure",
-      statement: "A rebind carries the credential read for the account moved to.",
+      statement: "A rebind has the credential read for the account moved to.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +55,7 @@ export const modelUnavailableRebind = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer carries the body text upstream sent.",
+      statement: "An answer has the body text upstream sent.",
     },
 
     {

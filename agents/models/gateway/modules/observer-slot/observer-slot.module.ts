@@ -18,7 +18,7 @@ export const observerSlot = {
     },
     {
       invariantKind: "departure",
-      statement: "A slot carrying no end is a slot nothing ends.",
+      statement: "A slot with no end is a slot nothing ends.",
     },
     {
       invariantKind: "departure",

@@ -15,7 +15,7 @@ export const modelUnavailable = {
 
     {
       invariantKind: "departure",
-      statement: "A body carrying no Anthropic error envelope matches nothing.",
+      statement: "A body with no Anthropic error envelope matches nothing.",
     },
     {
       invariantKind: "departure",
@@ -27,12 +27,11 @@ export const modelUnavailable = {
     },
     {
       invariantKind: "departure",
-      statement: "A match carries the envelope message as the reason.",
+      statement: "A match has the envelope message as the reason.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A match reading an envelope with no message carries `not_found_error` as the reason.",
+      statement: "A match reading an envelope with no message has `not_found_error` as the reason.",
     },
     {
       invariantKind: "departure",
