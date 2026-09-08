@@ -11,4 +11,20 @@ export const changeMechanicalFileMove = {
     "change-mechanical-file/move-file-page",
     "change-mechanical/move-file-of-any-kind",
   ],
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement:
+        "No change here carries a page type's own file, a page type's carry being its folder's.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "No change here carries a page property's own file, that file being a page like any other.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file's rename is that file's carry, so no rename family sits beside this one.",
+    },
+  ],
 } as const satisfies Domain
