@@ -83,7 +83,7 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "A run holding a character the shell rewrites is left in.",
+      statement: "A run with a character the shell rewrites is left in.",
     },
     {
       invariantKind: "absence",
