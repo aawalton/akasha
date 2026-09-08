@@ -207,19 +207,7 @@ export const codeTests = {
     },
     {
       invariantKind: "absence",
-      statement: "Which paths a world is written over is not answered here.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A caller hands in the paths and the bodies.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A world is made of the paths and the bodies alone.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here installs a package.",
+      statement: "Nothing here writes a tree for a run to read.",
     },
   ],
 } as const satisfies Module
