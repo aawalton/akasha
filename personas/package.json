@@ -5,6 +5,7 @@
   "exports": {
     "./email-address": "./properties/email-address.email-address-property.ts",
     "./image-locator": "./image-locator/image-locator.module.code.ts",
+    "./wallpaper-record": "./wallpaper-record/wallpaper-record.module.code.ts",
     "./points-source-coherence": "./points-source-coherence/points-source-coherence.module.code.ts",
     "./persona-page-conditions": "./persona-page-conditions/persona-page-conditions.module.code.ts",
     "./anchor-cover-record": "./anchor-cover-record/anchor-cover-record.module.code.ts",

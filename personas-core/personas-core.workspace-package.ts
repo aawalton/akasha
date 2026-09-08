@@ -22,7 +22,6 @@ export const personasCore = {
     "module/wallpaper-backfill-execute",
     "module/wallpaper-install",
     "module/wallpaper-order",
-    "module/wallpaper-record",
     "module/wallpaper-select",
     "workstation-service/desktop-wallpaper-setting",
   ],

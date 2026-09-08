@@ -70,5 +70,6 @@ export const persona = {
     "module/anchor-cover-record",
     "module/persona-page-conditions",
     "module/points-source-coherence",
+    "module/wallpaper-record",
   ],
 } as const satisfies WorkspacePackage

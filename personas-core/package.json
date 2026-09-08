@@ -18,13 +18,11 @@
     "./wallpaper-backfill-execute": "./wallpaper-backfill-execute/wallpaper-backfill-execute.module.code.ts",
     "./wallpaper-install": "./wallpaper-install/wallpaper-install.module.code.ts",
     "./wallpaper-order": "./wallpaper-order/wallpaper-order.module.code.ts",
-    "./wallpaper-record": "./wallpaper-record/wallpaper-record.module.code.ts",
     "./wallpaper-select": "./wallpaper-select/wallpaper-select.module.code.ts"
   },
   "dependencies": {
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/pages-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
