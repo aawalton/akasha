@@ -99,6 +99,13 @@ export async function resumeSeat(
     )
   }
 
+  if (await deps.liveSessionHolds(name)) {
+    throw dataError(
+      `agent '${name}' is held by a live tmux session, so it is up or coming up. Nothing was ` +
+        "signalled: a seat whose page has not landed yet is booting rather than gone."
+    )
+  }
+
   const plan = decideReviveLaunch({
     sessionId,
     prompt: input.prompt,
