@@ -88,9 +88,5 @@ export const testsPass = {
       invariantKind: "gap",
       statement: "A failing run is reported against the first test file the run named.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A test reading the index reads the tree's rather than the one the change leaves.",
-    },
   ],
 } as const satisfies CodeCheck
