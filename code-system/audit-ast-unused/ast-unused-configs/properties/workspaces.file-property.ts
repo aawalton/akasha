@@ -1,0 +1,11 @@
+import type { FileProperty } from "@akasha/pages/file-property"
+
+export type Workspaces = "json"
+
+export const workspaces = {
+  id: "01a08197-d70e-7175-aa94-0e50037aed03",
+  pageTypeSlug: "file-property",
+  slug: "workspaces",
+  propertySlug: "workspaces",
+  definition: "the globs the audit reads one workspace's files under",
+} as const satisfies FileProperty

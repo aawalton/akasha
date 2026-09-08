@@ -6,6 +6,7 @@ export const auditAstUnused = {
   slug: "audit-ast-unused",
   definition:
     "the audit reading the code repository against what the instructions repository reaches into it",
+  partSlugs: ["page-type/ast-unused-config"],
   invariants: [
     {
       invariantKind: "departure",
