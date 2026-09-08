@@ -1,13 +1,7 @@
+import { pathsOf } from "@akasha/changes/change-answer"
+import type { Stated } from "@akasha/changes/change-answer/types"
+import { droppedFirst, editsAt, foldedIn, keptEdits, linesIn } from "@akasha/changes/edits-keeping"
 import { agentPathOf } from "@akasha/context/warranting"
-import { pathsOf } from "../../../changes/modules/change-answer/change-answer.module.code.ts"
-import type { Stated } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
-import {
-  droppedFirst,
-  editsAt,
-  foldedIn,
-  keptEdits,
-  linesIn,
-} from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { costRecorded, opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
 import { writtenAgain } from "../../../command-system/address-mapping/address-mapping.module.code.ts"
 import { applying, type Carried } from "../../../command-system/applying/applying.module.code.ts"

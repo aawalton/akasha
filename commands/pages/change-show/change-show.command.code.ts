@@ -1,11 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { editsAt, editsIn, foldedIn } from "@akasha/changes/edits-keeping"
 import { agentPathOf } from "@akasha/context/warranting"
-import {
-  editsAt,
-  editsIn,
-  foldedIn,
-} from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Given as Arguments } from "../../../command-system/argument-reading/argument-reading.module.code.ts"
 import { mistaking } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"

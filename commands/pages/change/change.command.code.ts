@@ -1,36 +1,14 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { pathsOf, replayed } from "@akasha/changes/change-answer"
+import type { Answer as Said, Stated } from "@akasha/changes/change-answer/types"
+import { type Loaded, loadedAt, ranBy, runAt } from "@akasha/changes/change-loading"
+import { addedTo, ledgerAt, type World, worldAt } from "@akasha/changes/change-shadow"
+import { bodyIn, editsAt, foldedIn, keptAt, keptEdits } from "@akasha/changes/edits-keeping"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
 import { agentPathOf, changingOf, owedIn } from "@akasha/context/warranting"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt, type Value } from "@akasha/pages/page-value"
-import {
-  pathsOf,
-  replayed,
-} from "../../../changes/modules/change-answer/change-answer.module.code.ts"
-import type {
-  Answer as Said,
-  Stated,
-} from "../../../changes/modules/change-answer/change-answer.module.types.ts"
-import {
-  addedTo,
-  ledgerAt,
-  type World,
-  worldAt,
-} from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
-import {
-  bodyIn,
-  editsAt,
-  foldedIn,
-  keptAt,
-  keptEdits,
-} from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import {
-  type Loaded,
-  loadedAt,
-  ranBy,
-  runAt,
-} from "../../../changes/runners/change-loading/change-loading.module.code.ts"
 import { costRecorded, opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
 import {
   type Given as Arguments,

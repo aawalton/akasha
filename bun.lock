@@ -553,6 +553,7 @@
       "dependencies": {
         "@akasha/agents": "workspace:*",
         "@akasha/analysis-complexity": "workspace:*",
+        "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/digit-padding": "workspace:*",
         "@akasha/errors-core": "workspace:*",
@@ -1402,6 +1403,7 @@
       "name": "@akasha/seat-system",
       "dependencies": {
         "@akasha/agents": "workspace:*",
+        "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",

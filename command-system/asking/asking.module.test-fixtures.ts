@@ -1,5 +1,6 @@
 import { existsSync, mkdirSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { appendEdits, editsAt } from "@akasha/changes/edits-keeping"
 import type { Phase } from "@akasha/checks/checking"
 import { agentPathOf } from "@akasha/context/warranting"
 import { warrantsSeeded } from "@akasha/context/warranting/testing"
@@ -8,10 +9,6 @@ import { noImportersFiled, pageFiled } from "@akasha/indexes/testing"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { ADMITS_CODE, MINTED, mintedId, minting } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
-import {
-  appendEdits,
-  editsAt,
-} from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { folding } from "../../commands/pages/apply/apply.command.code.ts"
 import { applying as applyingPatch } from "../applying/applying.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"

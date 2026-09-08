@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { stating } from "../../changes/modules/change-answer/change-answer.module.code.ts"
+import { stating } from "@akasha/changes/change-answer"
 import { owingIn } from "./edits-landing.module.code.ts"
 
 const ONE = "one.md"

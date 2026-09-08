@@ -1,8 +1,8 @@
+import { notText, replayed } from "@akasha/changes/change-answer"
+import type { Answer as Said } from "@akasha/changes/change-answer/types"
+import { bytesOf } from "@akasha/changes/change-shadow"
+import { bodyIn } from "@akasha/changes/edits-keeping"
 import { formattedBody } from "@akasha/code/code-format"
-import { notText, replayed } from "../../changes/modules/change-answer/change-answer.module.code.ts"
-import type { Answer as Said } from "../../changes/modules/change-answer/change-answer.module.types.ts"
-import { bytesOf } from "../../changes/modules/change-shadow/change-shadow.module.code.ts"
-import { bodyIn } from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Bodies, Body } from "../drafting/drafting.module.code.ts"
 
 const BYTES = new TextEncoder()

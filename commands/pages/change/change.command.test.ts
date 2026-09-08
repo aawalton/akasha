@@ -1,9 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { appendEdits, editsIn } from "@akasha/changes/edits-keeping"
 import { NAMER_CODE, NAMER_PAGE, scratch } from "@akasha/indexes/indexing/testing"
-import {
-  appendEdits,
-  editsIn,
-} from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { appending, changing, owedBy, owingBy, stamped } from "./change.command.code.ts"
 import {
   APPLIED,

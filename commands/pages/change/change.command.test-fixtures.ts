@@ -1,20 +1,13 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { removePage } from "@akasha/changes/change-agent/remove-page"
+import { pathsOf } from "@akasha/changes/change-answer"
+import type { Stated } from "@akasha/changes/change-answer/types"
+import { type Loaded, loadedAt } from "@akasha/changes/change-loading"
+import type { World } from "@akasha/changes/change-shadow"
+import { appendEdits, editsIn, keptEdits } from "@akasha/changes/edits-keeping"
+import { handedPageOf } from "@akasha/changes/subagent-handed"
 import { idOf, indexedRepo, NAMER_CODE, NAMER_PAGE, pageOf } from "@akasha/indexes/indexing/testing"
-import { removePage } from "../../../changes/agent/file/remove-page/remove-page.change-agent.code.ts"
-import { pathsOf } from "../../../changes/modules/change-answer/change-answer.module.code.ts"
-import type { Stated } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
-import type { World } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
-import {
-  appendEdits,
-  editsIn,
-  keptEdits,
-} from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { handedPageOf } from "../../../changes/modules/subagent-handed/subagent-handed.module.code.ts"
-import {
-  type Loaded,
-  loadedAt,
-} from "../../../changes/runners/change-loading/change-loading.module.code.ts"
 import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
 import type { Piping } from "../../../command-system/piping/piping.module.code.ts"
 import { type Applying, changing, type Over } from "./change.command.code.ts"

@@ -1,15 +1,7 @@
-import { replayed } from "../../changes/modules/change-answer/change-answer.module.code.ts"
-import type { Stated } from "../../changes/modules/change-answer/change-answer.module.types.ts"
-import {
-  bodyIn,
-  droppedAll,
-  editsIn,
-  keptEdits,
-} from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import {
-  handedPageOf,
-  handedUnder,
-} from "../../changes/modules/subagent-handed/subagent-handed.module.code.ts"
+import { replayed } from "@akasha/changes/change-answer"
+import type { Stated } from "@akasha/changes/change-answer/types"
+import { bodyIn, droppedAll, editsIn, keptEdits } from "@akasha/changes/edits-keeping"
+import { handedPageOf, handedUnder } from "@akasha/changes/subagent-handed"
 import { mistaking } from "../asking/asking.module.code.ts"
 import type { Answer } from "../calling/calling.module.code.ts"
 import type { Piping } from "../piping/piping.module.code.ts"

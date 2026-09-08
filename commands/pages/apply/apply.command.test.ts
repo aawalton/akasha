@@ -1,10 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
+import type { Stated } from "@akasha/changes/change-answer/types"
+import { appendEdits, editsIn } from "@akasha/changes/edits-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
-import type { Stated } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
-import {
-  appendEdits,
-  editsIn,
-} from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { headOf, rebasedHeld } from "../../../command-system/drafting/drafting.module.code.ts"
 import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
