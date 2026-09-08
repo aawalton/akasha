@@ -5,7 +5,7 @@ import type { CoachingNoteActive } from "./properties/coaching-note-active.boole
 import type { CoachingNoteKind } from "./properties/coaching-note-kind.select-property.ts"
 import type { CoachingNoteSortOrder } from "./properties/coaching-note-sort-order.number-property.ts"
 import type { FocusTags } from "./properties/focus-tags.select-property.ts"
-import type { Asks } from "./properties/says.file-property.ts"
+import type { Says } from "./properties/says.file-property.ts"
 
 export type CoachingNote = Page & {
   title: Title
@@ -13,7 +13,7 @@ export type CoachingNote = Page & {
   focusTags: readonly FocusTags[]
   coachingNoteKind: CoachingNoteKind
   coachingNoteSortOrder?: CoachingNoteSortOrder
-  asks?: Asks
+  asks?: Says
 }
 
 export const coachingNote = {

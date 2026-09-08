@@ -1,11 +1,11 @@
 import type { FileProperty } from "@akasha/pages/file-property"
 
-export type Asks = "txt"
+export type Says = "txt"
 
 export const says = {
   id: "01a0657a-fe00-7658-9382-7d3fe5d60f0d",
   pageTypeSlug: "file-property",
   slug: "says",
   propertySlug: "asks",
-  definition: "what a constraint asks for",
+  definition: "what a note says",
 } as const satisfies FileProperty
