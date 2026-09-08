@@ -17,7 +17,7 @@ import {
   collectXmlColonCalls,
   resolveControlFamily,
   scanTstlThisVoidSelfDrop,
-  type TstlThisVoidSelfDropFinding,
+  type ThisVoidSelfDropFinding,
 } from "../../modules/ts-this-void-self-drop/ts-this-void-self-drop.module.code.ts"
 import {
   exitOnResult,
@@ -36,7 +36,7 @@ function topLevelGroup(filePath: string): string {
   return segs[0] ?? filePath
 }
 
-function messageOf(v: TstlThisVoidSelfDropFinding): string {
+function messageOf(v: ThisVoidSelfDropFinding): string {
   switch (v.kind) {
     case "constructor":
       return `constructor member \`${v.name}\` declares a sole \`this: void\` — the Lua compiler emits a dot-call that drops self; use \`this: <Class>\` (or a method signature) instead`
@@ -49,7 +49,7 @@ function messageOf(v: TstlThisVoidSelfDropFinding): string {
   }
 }
 
-function formatViolation(v: TstlThisVoidSelfDropFinding): string {
+function formatViolation(v: ThisVoidSelfDropFinding): string {
   return `${v.file}:${v.line}:${v.column} ${messageOf(v)}`
 }
 
@@ -80,7 +80,7 @@ function scanFile(
   repoRoot: string,
   xmlColonCalls: ReadonlySet<string> | undefined,
   controlFamily: ReadonlySet<string>
-): readonly TstlThisVoidSelfDropFinding[] {
+): readonly ThisVoidSelfDropFinding[] {
   const source = readFileSync(join(repoRoot, rel), "utf8")
   const sf = ts.createSourceFile(rel, source, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
   return scanTstlThisVoidSelfDrop(sf, { xmlColonCalls, controlFamily })
@@ -147,11 +147,11 @@ function deriveControlFamily(
 
 function collectFindings(repoRoot: string): {
   readonly population: Population
-  readonly findings: readonly TstlThisVoidSelfDropFinding[]
+  readonly findings: readonly ThisVoidSelfDropFinding[]
 } {
   const targets = collectScanTargets(repoRoot)
   const controlFamily = deriveControlFamily(targets, repoRoot)
-  const { population, violations } = examinePopulation<ScanTarget, TstlThisVoidSelfDropFinding>({
+  const { population, violations } = examinePopulation<ScanTarget, ThisVoidSelfDropFinding>({
     members: targets,
     unit: "addon TypeScript files",
     labelOf: (target) => target.rel,

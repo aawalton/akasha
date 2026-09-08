@@ -2,7 +2,7 @@ import ts from "typescript"
 
 export type TstlThisVoidSelfDropKind = "constructor" | "control-method" | "xml-handler"
 
-export interface TstlThisVoidSelfDropFinding {
+export interface ThisVoidSelfDropFinding {
   readonly file: string
   readonly line: number
   readonly column: number
@@ -192,10 +192,10 @@ const ROOT_ONLY_FAMILY: ReadonlySet<string> = new Set([CONTROL_ROOT])
 export function scanTstlThisVoidSelfDrop(
   sf: ts.SourceFile,
   corpus: TstlThisVoidSelfDropCorpus = {}
-): readonly TstlThisVoidSelfDropFinding[] {
+): readonly ThisVoidSelfDropFinding[] {
   const { xmlColonCalls, controlFamily = ROOT_ONLY_FAMILY } = corpus
   const filePath = sf.fileName
-  const out: TstlThisVoidSelfDropFinding[] = []
+  const out: ThisVoidSelfDropFinding[] = []
 
   function pushAt(nameNode: ts.Node, name: string, kind: TstlThisVoidSelfDropKind): undefined {
     const { line, character } = ts.getLineAndCharacterOfPosition(sf, nameNode.getStart(sf))
