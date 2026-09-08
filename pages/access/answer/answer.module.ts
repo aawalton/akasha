@@ -15,7 +15,7 @@ export const answer = {
     {
       invariantKind: "departure",
       statement:
-        "How many pages a page type holds is counted off the rows the answer carries rather than asked for.",
+        "How many pages a page type has is counted off the rows the answer carries rather than asked for.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const answer = {
     },
     {
       invariantKind: "departure",
-      statement: "The roster names every page type `@akasha/pages-service` holds pages for.",
+      statement: "The roster names every page type `@akasha/pages-service` has pages for.",
     },
     {
       invariantKind: "departure",

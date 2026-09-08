@@ -42,7 +42,7 @@ export const graphAsking = {
     },
     {
       invariantKind: "absence",
-      statement: "The repository holding the pages is never named here.",
+      statement: "The repository with the pages is never named here.",
     },
   ],
 } as const satisfies Module

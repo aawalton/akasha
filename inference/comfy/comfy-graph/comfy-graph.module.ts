@@ -9,7 +9,7 @@ export const comfyGraph = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A node is reached by the key the graph holds that node under.",
+      statement: "A node is reached by the key the graph has that node under.",
     },
     {
       invariantKind: "departure",

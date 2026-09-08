@@ -55,7 +55,7 @@ export const newestWins = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds a timer.",
+      statement: "Nothing here has a timer.",
     },
     {
       invariantKind: "absence",

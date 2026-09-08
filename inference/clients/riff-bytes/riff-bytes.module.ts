@@ -18,7 +18,7 @@ export const riffBytes = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads the sound a payload holds past its header.",
+      statement: "Nothing here reads the sound a payload has past its header.",
     },
   ],
 } as const satisfies Module

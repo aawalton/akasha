@@ -14,7 +14,7 @@ export const domainDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "An edge is a `domain/<slug>` part named by the domain holding that part.",
+      statement: "An edge is a `domain/<slug>` part named by the domain with that part.",
     },
     {
       invariantKind: "departure",

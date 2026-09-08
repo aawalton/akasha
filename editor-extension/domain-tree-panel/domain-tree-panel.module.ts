@@ -13,7 +13,7 @@ export const domainTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The panel draws the rows that file holds before any change to the file arrives.",
+      statement: "The panel draws the rows that file has before any change to the file arrives.",
     },
     {
       invariantKind: "departure",

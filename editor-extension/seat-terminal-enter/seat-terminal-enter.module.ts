@@ -18,15 +18,15 @@ export const seatTerminalEnter = {
     },
     {
       invariantKind: "departure",
-      statement: "A terminal holding a seat is found by the terminal the panel's sweep named.",
+      statement: "A terminal with a seat is found by the terminal the panel's sweep named.",
     },
     {
       invariantKind: "departure",
-      statement: "A terminal holding no seat is passed the key and marks nobody.",
+      statement: "A terminal with no seat is passed the key and marks nobody.",
     },
     {
       invariantKind: "departure",
-      statement: "Whether the focused terminal holds a seat is published as a context.",
+      statement: "Whether the focused terminal has a seat is published as a context.",
     },
     {
       invariantKind: "departure",

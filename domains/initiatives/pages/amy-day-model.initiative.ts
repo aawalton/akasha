@@ -14,7 +14,7 @@ export const amyDayModel = {
       statement:
         "Everything measured about one of Alan's days sits on one `day` page under `alan/track/days/pages`.",
       workingMemory:
-        "Every date carrying data has a page under `alan/track/days/pages`, 250 of them. The type is still spelled `wake-day`: the rename drafts and refuses on apply, because a page rename misses any relation whose property page slug differs from the key its body writes, and a worked file's export is renamed without restating its importers. `eso-day` still holds the health samples and the listens. The boundary is derived from the sleep sessions and kept nowhere.",
+        "Every date carrying data has a page under `alan/track/days/pages`, 250 of them. The type is still spelled `wake-day`: the rename drafts and refuses on apply, because a page rename misses any relation whose property page slug differs from the key its body writes, and a worked file's export is renamed without restating its importers. `eso-day` still has the health samples and the listens. The boundary is derived from the sleep sessions and kept nowhere.",
     },
     {
       statement:

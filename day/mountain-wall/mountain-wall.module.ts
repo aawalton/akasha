@@ -61,23 +61,23 @@ export const mountainWall = {
     },
     {
       invariantKind: "departure",
-      statement: "A window no clock turned inside holds one reading.",
+      statement: "A window no clock turned inside has one reading.",
     },
     {
       invariantKind: "constraint",
-      statement: "A twelve hour window on the spring turn day can hold two readings.",
+      statement: "A twelve hour window on the spring turn day can have two readings.",
     },
     {
       invariantKind: "constraint",
-      statement: "A twelve hour window on the autumn turn day can hold no reading.",
+      statement: "A twelve hour window on the autumn turn day can have no reading.",
     },
     {
       invariantKind: "departure",
-      statement: "A window holding more than one reading is refused.",
+      statement: "A window with more than one reading is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A window holding no reading is refused.",
+      statement: "A window with no reading is refused.",
     },
     {
       invariantKind: "departure",
@@ -93,7 +93,7 @@ export const mountainWall = {
     },
     {
       invariantKind: "departure",
-      statement: "A day the calendar does not hold is refused.",
+      statement: "A day the calendar does not have is refused.",
     },
     {
       invariantKind: "departure",

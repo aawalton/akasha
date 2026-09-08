@@ -71,17 +71,16 @@ export const deployWebPuttingUp = {
     },
     {
       invariantKind: "constraint",
-      statement: "A manifest moving that package rolls out a pod holding no build to start on.",
+      statement: "A manifest moving that package rolls out a pod with no build to start on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value the build needs that nothing has is refused before anything is applied.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A value the build needs that nothing holds is refused before anything is applied.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A value the build needs is reported by its name rather than by the text the value holds.",
+        "A value the build needs is reported by its name rather than by the text the value has.",
     },
     {
       invariantKind: "departure",

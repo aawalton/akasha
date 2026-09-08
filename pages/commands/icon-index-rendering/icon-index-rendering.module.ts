@@ -9,11 +9,11 @@ export const iconIndexRendering = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An icon's keywords hold every word its name is split into.",
+      statement: "An icon's keywords have every word its name is split into.",
     },
     {
       invariantKind: "departure",
-      statement: "An icon's keywords hold every tag and alias and category the icon states.",
+      statement: "An icon's keywords have every tag and alias and category the icon states.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const iconIndexRendering = {
     },
     {
       invariantKind: "departure",
-      statement: "A shard holds at least one icon however long that icon's line is.",
+      statement: "A shard has at least one icon however long that icon's line is.",
     },
     {
       invariantKind: "departure",

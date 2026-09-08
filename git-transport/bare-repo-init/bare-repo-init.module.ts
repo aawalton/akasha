@@ -13,7 +13,7 @@ export const bareRepoInit = {
     },
     {
       invariantKind: "departure",
-      statement: "A lock beside the repositories holds the run.",
+      statement: "A lock beside the repositories has the run.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,7 @@ export const bareRepoInit = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing here takes away a repository that holds the only second copy.",
+      statement: "Nothing here takes away a repository that has the only second copy.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const bareRepoInit = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook stub runs the script the source cache holds.",
+      statement: "A hook stub runs the script the source cache has.",
     },
     {
       invariantKind: "departure",

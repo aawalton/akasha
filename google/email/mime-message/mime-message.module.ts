@@ -9,7 +9,7 @@ export const mimeMessage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A header holding anything outside printable ASCII is encoded as base64 UTF-8.",
+      statement: "A header with anything outside printable ASCII is encoded as base64 UTF-8.",
     },
     {
       invariantKind: "departure",

@@ -27,7 +27,7 @@ export const commandsServed = {
     },
     {
       invariantKind: "departure",
-      statement: "The module holds names and numbers alone.",
+      statement: "The module has names and numbers alone.",
     },
     {
       invariantKind: "departure",

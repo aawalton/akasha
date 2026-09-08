@@ -35,7 +35,7 @@ export const pageBody = {
     },
     {
       invariantKind: "departure",
-      statement: "Only data JSON holds may be a value.",
+      statement: "Only data JSON has may be a value.",
     },
     {
       invariantKind: "departure",

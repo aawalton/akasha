@@ -25,7 +25,7 @@ export const sourceGlobbing = {
     },
     {
       invariantKind: "departure",
-      statement: "A package the globs name is one whose tree holds a file a browser draws from.",
+      statement: "A package the globs name is one whose tree has a file a browser draws from.",
     },
     {
       invariantKind: "departure",
@@ -47,11 +47,11 @@ export const sourceGlobbing = {
     {
       invariantKind: "departure",
       statement:
-        "The globs are worked out again only where the change could turn what the globs hold.",
+        "The globs are worked out again only where the change could turn what the globs have.",
     },
     {
       invariantKind: "departure",
-      statement: "A stylesheet already holding the body that would be written again is left alone.",
+      statement: "A stylesheet already with the body that would be written again is left alone.",
     },
     {
       invariantKind: "departure",

@@ -4,7 +4,7 @@ export const emailRuleReading = {
   id: "01a06871-54e5-7001-a2eb-d37372c1e8a3",
   pageTypeSlug: "module",
   slug: "email-rule-reading",
-  definition: "a person's email rules read from the pages that hold them",
+  definition: "a person's email rules read from the pages that have them",
   code: "ts",
   test: "ts",
   invariants: [
@@ -15,11 +15,11 @@ export const emailRuleReading = {
     {
       invariantKind: "departure",
       statement:
-        "A rule source that cannot be read raises rather than counting as a person holding no rule.",
+        "A rule source that cannot be read raises rather than counting as a person with no rule.",
     },
     {
       invariantKind: "departure",
-      statement: "A kind whose folder holds no rule raises.",
+      statement: "A kind whose folder has no rule raises.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const emailRuleReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule holding no clause raises rather than claiming every message.",
+      statement: "A rule with no clause raises rather than claiming every message.",
     },
     {
       invariantKind: "departure",

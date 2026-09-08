@@ -13,7 +13,7 @@ export const treeFilter = {
     },
     {
       invariantKind: "departure",
-      statement: "A node holding a kept descendant is kept though the node matches nothing.",
+      statement: "A node with a kept descendant is kept though the node matches nothing.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const treeFilter = {
     },
     {
       invariantKind: "departure",
-      statement: "A field matches where the field holds the pattern anywhere inside.",
+      statement: "A field matches where the field has the pattern anywhere inside.",
     },
     {
       invariantKind: "departure",

@@ -13,7 +13,7 @@ export const filePageName = {
     },
     {
       invariantKind: "departure",
-      statement: "A malformed id says the caller holds the wrong value.",
+      statement: "A malformed id says the caller has the wrong value.",
     },
     {
       invariantKind: "gap",

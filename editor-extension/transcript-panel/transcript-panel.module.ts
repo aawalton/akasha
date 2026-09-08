@@ -25,7 +25,7 @@ export const transcriptPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A machine holding no seat transcript is told so rather than shown a list.",
+      statement: "A machine with no seat transcript is told so rather than shown a list.",
     },
   ],
 } as const satisfies Module

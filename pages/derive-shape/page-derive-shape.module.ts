@@ -9,7 +9,7 @@ export const pageDeriveShape = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A row is where that row is and the values that row holds.",
+      statement: "A row is where that row is and the values that row has.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const pageDeriveShape = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds a value.",
+      statement: "Nothing here has a value.",
     },
     {
       invariantKind: "departure",

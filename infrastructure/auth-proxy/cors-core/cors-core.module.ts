@@ -9,7 +9,7 @@ export const corsCore = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An origin the list holds or a pattern matches is allowed.",
+      statement: "An origin the list has or a pattern matches is allowed.",
     },
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const imessageHost = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One machine holds the message history every read here goes to.",
+      statement: "One machine has the message history every read here goes to.",
     },
   ],
 } as const satisfies Module

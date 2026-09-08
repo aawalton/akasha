@@ -30,7 +30,7 @@ export const captureError = {
     },
     {
       invariantKind: "departure",
-      statement: "A capture finding a page hands back the values the commit already holds.",
+      statement: "A capture finding a page hands back the values the commit already has.",
     },
     {
       invariantKind: "departure",

@@ -37,7 +37,7 @@ export const subagentCore = {
     },
     {
       invariantKind: "departure",
-      statement: "A resumed agent nothing here holds is filed under the resumed id as its own row.",
+      statement: "A resumed agent nothing here has is filed under the resumed id as its own row.",
     },
     {
       invariantKind: "departure",

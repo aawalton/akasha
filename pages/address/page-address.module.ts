@@ -10,7 +10,7 @@ export const pageAddress = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This module holds the union of every address kind.",
+      statement: "This module has the union of every address kind.",
     },
     {
       invariantKind: "departure",

@@ -23,7 +23,7 @@ export const repoMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A name holding no dot is its own type.",
+      statement: "A name with no dot is its own type.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const repoMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "Types are ordered by how many lines each type holds.",
+      statement: "Types are ordered by how many lines each type has.",
     },
     {
       invariantKind: "departure",

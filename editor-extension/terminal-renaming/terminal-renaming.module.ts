@@ -29,7 +29,7 @@ export const terminalRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A window holding no terminal is named over nothing.",
+      statement: "A window with no terminal is named over nothing.",
     },
     {
       invariantKind: "departure",

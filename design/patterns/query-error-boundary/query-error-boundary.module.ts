@@ -21,7 +21,7 @@ export const queryErrorBoundary = {
     },
     {
       invariantKind: "departure",
-      statement: "Trying again clears the error the boundary holds.",
+      statement: "Trying again clears the error the boundary has.",
     },
   ],
 } as const satisfies Module

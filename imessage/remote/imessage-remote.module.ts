@@ -4,7 +4,7 @@ export const imessageRemote = {
   id: "01a05bc9-4308-7005-8e21-1d68ebecb94c",
   pageTypeSlug: "module",
   slug: "imessage-remote",
-  definition: "message and contact reads carried to the machine holding them",
+  definition: "message and contact reads carried to the machine with them",
   code: "ts",
   invariants: [
     {

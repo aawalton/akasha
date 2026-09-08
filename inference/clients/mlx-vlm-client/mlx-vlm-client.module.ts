@@ -21,8 +21,7 @@ export const mlxVlmClient = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Asking for more frames than the clip holds answers with every frame the clip holds.",
+      statement: "Asking for more frames than the clip has answers with every frame the clip has.",
     },
     {
       invariantKind: "departure",

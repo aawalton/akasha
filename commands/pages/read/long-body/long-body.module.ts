@@ -10,7 +10,7 @@ export const longBody = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "How many bytes one answer holds is stated here.",
+      statement: "How many bytes one answer has is stated here.",
     },
     {
       invariantKind: "gap",
@@ -18,7 +18,7 @@ export const longBody = {
     },
     {
       invariantKind: "departure",
-      statement: "A run holds whole lines.",
+      statement: "A run has whole lines.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const longBody = {
     },
     {
       invariantKind: "departure",
-      statement: "A run holds every further line the answer has room left for.",
+      statement: "A run has every further line the answer has room left for.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const longBody = {
     },
     {
       invariantKind: "departure",
-      statement: "A run names how many lines the body holds.",
+      statement: "A run names how many lines the body has.",
     },
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const decideKeeps = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A period's anchor is the earliest completed backup that period holds.",
+      statement: "A period's anchor is the earliest completed backup that period has.",
     },
     {
       invariantKind: "departure",

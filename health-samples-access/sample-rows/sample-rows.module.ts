@@ -21,7 +21,7 @@ export const sampleRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A field the row does not hold reads as the empty string.",
+      statement: "A field the row does not have reads as the empty string.",
     },
     {
       invariantKind: "departure",

@@ -5,12 +5,12 @@ export const agentTreeState = {
   pageTypeSlug: "module",
   slug: "agent-tree-state",
   definition:
-    "the output channel, forest, column memory, seat terminals and seat tabs one panel holds",
+    "the output channel, forest, column memory, seat terminals and seat tabs one panel has",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every piece the panel holds is replaced whole rather than changed in place.",
+      statement: "Every piece the panel has is replaced whole rather than changed in place.",
     },
     {
       invariantKind: "departure",

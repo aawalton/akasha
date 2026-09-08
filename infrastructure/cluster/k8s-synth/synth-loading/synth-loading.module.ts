@@ -17,7 +17,7 @@ export const synthLoading = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry naming a field the shape does not hold is refused.",
+      statement: "An entry naming a field the shape does not have is refused.",
     },
   ],
 } as const satisfies Module

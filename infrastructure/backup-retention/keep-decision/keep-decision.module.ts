@@ -13,7 +13,7 @@ export const keepDecision = {
     },
     {
       invariantKind: "departure",
-      statement: "A disagreement names one backup or one period holding no backup.",
+      statement: "A disagreement names one backup or one period with no backup.",
     },
   ],
 } as const satisfies Module

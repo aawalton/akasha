@@ -89,12 +89,11 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A value a build needs that a cluster secret holds is read from that secret.",
+      statement: "A value a build needs that a cluster secret has is read from that secret.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A value a build needs that nothing holds stops the build before the build starts.",
+      statement: "A value a build needs that nothing has stops the build before the build starts.",
     },
     {
       invariantKind: "departure",
@@ -110,7 +109,7 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A pod already going away holds no build.",
+      statement: "A pod already going away has no build.",
     },
     {
       invariantKind: "absence",

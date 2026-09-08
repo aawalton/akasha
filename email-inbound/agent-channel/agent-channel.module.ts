@@ -13,7 +13,7 @@ export const agentChannel = {
     },
     {
       invariantKind: "departure",
-      statement: "The first channel address that string holds names the handle.",
+      statement: "The first channel address that string has names the handle.",
     },
   ],
 } as const satisfies Module

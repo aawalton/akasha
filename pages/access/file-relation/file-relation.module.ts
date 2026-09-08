@@ -31,7 +31,7 @@ export const fileRelation = {
     },
     {
       invariantKind: "absence",
-      statement: "`@akasha/pages-service` holds no index of which pages name which pages.",
+      statement: "`@akasha/pages-service` has no index of which pages name which pages.",
     },
     {
       invariantKind: "absence",

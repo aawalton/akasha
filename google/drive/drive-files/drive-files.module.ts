@@ -13,7 +13,7 @@ export const driveFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "A document Google itself holds is told apart by the prefix of its mime type.",
+      statement: "A document Google itself has is told apart by the prefix of its mime type.",
     },
     {
       invariantKind: "departure",

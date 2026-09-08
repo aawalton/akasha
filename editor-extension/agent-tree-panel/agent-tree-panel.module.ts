@@ -17,8 +17,7 @@ export const agentTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The panel draws the fleet that file holds before any change to that file arrives.",
+      statement: "The panel draws the fleet that file has before any change to that file arrives.",
     },
     {
       invariantKind: "departure",
@@ -76,7 +75,7 @@ export const agentTreePanel = {
     {
       invariantKind: "departure",
       statement:
-        "The terminal tabs holding a seat are published after every drawing and on a tab change.",
+        "The terminal tabs with a seat are published after every drawing and on a tab change.",
     },
     {
       invariantKind: "departure",

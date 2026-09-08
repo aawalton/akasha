@@ -14,7 +14,7 @@ export const routingCore = {
     },
     {
       invariantKind: "departure",
-      statement: "A column holding nothing is read back as null.",
+      statement: "A column with nothing is read back as null.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const routingCore = {
     },
     {
       invariantKind: "departure",
-      statement: "The instant a page was marked done is held in a column of its own.",
+      statement: "The instant a page was marked done is in a column of its own.",
     },
   ],
 } as const satisfies Module

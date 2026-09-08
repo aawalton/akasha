@@ -23,7 +23,7 @@ export const wanHosting = {
     },
     {
       invariantKind: "departure",
-      statement: "ffprobe answers how many frames a clip holds and how large those frames are.",
+      statement: "ffprobe answers how many frames a clip has and how large those frames are.",
     },
     {
       invariantKind: "departure",

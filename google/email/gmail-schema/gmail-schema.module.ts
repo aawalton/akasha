@@ -21,7 +21,7 @@ export const gmailSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A message part holds parts of its own.",
+      statement: "A message part has parts of its own.",
     },
   ],
 } as const satisfies Module

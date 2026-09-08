@@ -9,7 +9,7 @@ export const emailRuleDeciding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The first rule whose every clause holds is the rule that claims the message.",
+      statement: "The first rule whose every clause has is the rule that claims the message.",
     },
     {
       invariantKind: "departure",

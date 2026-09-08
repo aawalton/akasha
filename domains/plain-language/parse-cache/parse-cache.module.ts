@@ -52,7 +52,7 @@ export const parseCache = {
     },
     {
       invariantKind: "departure",
-      statement: "A model holds a directory named for that model.",
+      statement: "A model has a directory named for that model.",
     },
     {
       invariantKind: "departure",
@@ -72,7 +72,7 @@ export const parseCache = {
     },
     {
       invariantKind: "absence",
-      statement: "No parse the cache holds is committed.",
+      statement: "No parse the cache has is committed.",
     },
     {
       invariantKind: "absence",

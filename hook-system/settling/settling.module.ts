@@ -22,7 +22,7 @@ export const settling = {
     },
     {
       invariantKind: "departure",
-      statement: "A root holds itself.",
+      statement: "A root has itself.",
     },
   ],
 } as const satisfies Module

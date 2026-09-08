@@ -9,7 +9,7 @@ export const pageTreeReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "How many rows the tree holds is counted apart from how many open a document.",
+      statement: "How many rows the tree has is counted apart from how many open a document.",
     },
     {
       invariantKind: "absence",

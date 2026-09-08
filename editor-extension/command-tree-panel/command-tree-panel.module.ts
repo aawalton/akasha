@@ -14,7 +14,7 @@ export const commandTreePanel = {
     {
       invariantKind: "departure",
       statement:
-        "The panel draws the commands that file holds before any change to that file arrives.",
+        "The panel draws the commands that file has before any change to that file arrives.",
     },
     {
       invariantKind: "departure",

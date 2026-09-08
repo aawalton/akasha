@@ -17,7 +17,7 @@ export const gmailMailbox = {
     },
     {
       invariantKind: "departure",
-      statement: "A history id Gmail no longer holds answers as nothing rather than as a fault.",
+      statement: "A history id Gmail no longer has answers as nothing rather than as a fault.",
     },
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const termCensus = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A term inside backticks is one term rather than the words that term holds.",
+      statement: "A term inside backticks is one term rather than the words that term has.",
     },
     {
       invariantKind: "departure",

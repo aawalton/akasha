@@ -26,11 +26,11 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "The last line of a tooltip is the page akasha holds for the row.",
+      statement: "The last line of a tooltip is the page akasha has for the row.",
     },
     {
       invariantKind: "departure",
-      statement: "A row akasha holds no page for says so rather than leaving the line out.",
+      statement: "A row akasha has no page for says so rather than leaving the line out.",
     },
     {
       invariantKind: "departure",
@@ -50,11 +50,11 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A click on a subagent opens the page akasha holds for that subagent.",
+      statement: "A click on a subagent opens the page akasha has for that subagent.",
     },
     {
       invariantKind: "departure",
-      statement: "A subagent akasha holds no page for answers no click.",
+      statement: "A subagent akasha has no page for answers no click.",
     },
     {
       invariantKind: "departure",

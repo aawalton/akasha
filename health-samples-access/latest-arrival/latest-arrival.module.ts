@@ -13,7 +13,7 @@ export const latestArrival = {
     },
     {
       invariantKind: "departure",
-      statement: "A row holding no arrival is dropped rather than counted as the earliest.",
+      statement: "A row with no arrival is dropped rather than counted as the earliest.",
     },
     {
       invariantKind: "departure",

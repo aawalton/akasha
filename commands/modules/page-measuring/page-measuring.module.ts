@@ -44,7 +44,7 @@ export const pageMeasuring = {
     {
       invariantKind: "departure",
       statement:
-        "Page types are ordered by the lines a page type holds in its pages and its properties together.",
+        "Page types are ordered by the lines a page type has in its pages and its properties together.",
     },
     {
       invariantKind: "departure",

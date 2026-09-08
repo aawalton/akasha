@@ -69,7 +69,7 @@ export const calculationLoading = {
     {
       invariantKind: "departure",
       statement:
-        "The pages package reaches a calculation without naming the domain holding that calculation.",
+        "The pages package reaches a calculation without naming the domain with that calculation.",
     },
     {
       invariantKind: "absence",

@@ -92,7 +92,7 @@ export const patching = {
     },
     {
       invariantKind: "departure",
-      statement: "A commit holding a patch file keeps no blob that patch names.",
+      statement: "A commit with a patch file keeps no blob that patch names.",
     },
     {
       invariantKind: "departure",

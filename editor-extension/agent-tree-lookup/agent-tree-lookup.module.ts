@@ -4,7 +4,7 @@ export const agentTreeLookup = {
   id: "01a0686b-bfe9-784a-84aa-10a105843c4e",
   pageTypeSlug: "module",
   slug: "agent-tree-lookup",
-  definition: "the place each seat holds, and what a drawn forest answers about a row in it",
+  definition: "the place each seat has, and what a drawn forest answers about a row in it",
   code: "ts",
   invariants: [
     {

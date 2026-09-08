@@ -38,7 +38,7 @@ export const orphanResourceListing = {
     },
     {
       invariantKind: "gap",
-      statement: "Cluster-api-reaching holds the same three environment variables.",
+      statement: "Cluster-api-reaching has the same three environment variables.",
     },
   ],
 } as const satisfies Module

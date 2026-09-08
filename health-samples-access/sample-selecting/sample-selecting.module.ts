@@ -27,7 +27,7 @@ export const sampleSelecting = {
     },
     {
       invariantKind: "departure",
-      statement: "A span holding no reading is answered empty rather than raised.",
+      statement: "A span with no reading is answered empty rather than raised.",
     },
     {
       invariantKind: "departure",

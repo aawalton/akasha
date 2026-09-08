@@ -4,7 +4,7 @@ export const agentPageOpening = {
   id: "01a0686b-bfe9-782e-86e6-c23e6ef21f33",
   pageTypeSlug: "module",
   slug: "agent-page-opening",
-  definition: "the page akasha holds for a row, opened from the row that already carried its path",
+  definition: "the page akasha has for a row, opened from the row that already carried its path",
   code: "ts",
   invariants: [
     {
@@ -13,7 +13,7 @@ export const agentPageOpening = {
     },
     {
       invariantKind: "departure",
-      statement: "A row holding no page is told about rather than passed over silently.",
+      statement: "A row with no page is told about rather than passed over silently.",
     },
     {
       invariantKind: "departure",

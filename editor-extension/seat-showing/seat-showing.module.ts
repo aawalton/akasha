@@ -25,7 +25,7 @@ export const seatShowing = {
     },
     {
       invariantKind: "departure",
-      statement: "The nearest ancestor holding a terminal is the ancestor whose column is taken.",
+      statement: "The nearest ancestor with a terminal is the ancestor whose column is taken.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const seatShowing = {
     },
     {
       invariantKind: "departure",
-      statement: "A lookup holding no seat finds no terminal for any seat.",
+      statement: "A lookup with no seat finds no terminal for any seat.",
     },
     {
       invariantKind: "absence",

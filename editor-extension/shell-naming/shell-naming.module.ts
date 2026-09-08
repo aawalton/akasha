@@ -11,7 +11,7 @@ export const shellNaming = {
     {
       invariantKind: "departure",
       statement:
-        "A name is read where the kernel holds the name rather than asked of a process table.",
+        "A name is read where the kernel has the name rather than asked of a process table.",
     },
     {
       invariantKind: "departure",

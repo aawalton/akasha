@@ -9,7 +9,7 @@ export const gmailHistory = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A starting point Gmail no longer holds answers as stale rather than throwing.",
+      statement: "A starting point Gmail no longer has answers as stale rather than throwing.",
     },
     {
       invariantKind: "departure",

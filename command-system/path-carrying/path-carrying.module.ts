@@ -25,7 +25,7 @@ export const pathCarrying = {
     {
       invariantKind: "departure",
       statement:
-        "A path carried that the base commit holds is committed as the rename that path made.",
+        "A path carried that the base commit has is committed as the rename that path made.",
     },
     {
       invariantKind: "departure",
@@ -69,7 +69,7 @@ export const pathCarrying = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder left holding nothing by a path carried away is cleared off the disk.",
+      statement: "A folder left with nothing by a path carried away is cleared off the disk.",
     },
     {
       invariantKind: "departure",

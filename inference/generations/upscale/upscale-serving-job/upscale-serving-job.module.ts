@@ -9,7 +9,7 @@ export const upscaleServingJob = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The job runs on a node holding at least the stated usable video memory.",
+      statement: "The job runs on a node with at least the stated usable video memory.",
     },
     {
       invariantKind: "departure",

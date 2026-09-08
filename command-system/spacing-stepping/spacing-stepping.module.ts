@@ -15,7 +15,7 @@ export const spacingStepping = {
     {
       invariantKind: "departure",
       statement:
-        "The steps are worked out again only where the change could turn what the steps hold.",
+        "The steps are worked out again only where the change could turn what the steps have.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const spacingStepping = {
     },
     {
       invariantKind: "departure",
-      statement: "The Swift sits beside the page of the component holding the scale.",
+      statement: "The Swift sits beside the page of the component with the scale.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +53,7 @@ export const spacingStepping = {
     },
     {
       invariantKind: "departure",
-      statement: "A file already holding the body that would be written again is left alone.",
+      statement: "A file already with the body that would be written again is left alone.",
     },
     {
       invariantKind: "departure",

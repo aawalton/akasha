@@ -195,7 +195,7 @@ export const commandServer = {
     },
     {
       invariantKind: "constraint",
-      statement: "The names the caller reads hold no reach into `Bun`.",
+      statement: "The names the caller reads have no reach into `Bun`.",
     },
     {
       invariantKind: "constraint",

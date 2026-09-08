@@ -42,7 +42,7 @@ export const dataPlace = {
     },
     {
       invariantKind: "absence",
-      statement: "The files the place holds are not said here.",
+      statement: "The files the place has are not said here.",
     },
     {
       invariantKind: "absence",

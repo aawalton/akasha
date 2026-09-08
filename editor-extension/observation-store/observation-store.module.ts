@@ -47,7 +47,7 @@ export const observationStore = {
     },
     {
       invariantKind: "departure",
-      statement: "A store naming no fetch holds its observations and writes nowhere.",
+      statement: "A store naming no fetch has its observations and writes nowhere.",
     },
     {
       invariantKind: "departure",

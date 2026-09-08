@@ -11,7 +11,7 @@ export const seatToggles = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A running seat is stopped whatever place that seat holds.",
+      statement: "A running seat is stopped whatever place that seat has.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +23,7 @@ export const seatToggles = {
     },
     {
       invariantKind: "departure",
-      statement: "A reset attaches only where the seat holds the interactive place.",
+      statement: "A reset attaches only where the seat has the interactive place.",
     },
     {
       invariantKind: "constraint",

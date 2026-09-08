@@ -51,11 +51,11 @@ export const saidPathing = {
     },
     {
       invariantKind: "departure",
-      statement: "A path holding a `/` names no folder at the top of the repository.",
+      statement: "A path with a `/` names no folder at the top of the repository.",
     },
     {
       invariantKind: "departure",
-      statement: "A path the disk holds no folder at is passed over.",
+      statement: "A path the disk has no folder at is passed over.",
     },
     {
       invariantKind: "absence",

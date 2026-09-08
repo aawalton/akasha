@@ -41,7 +41,7 @@ export const statusBarSlots = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds an editor item.",
+      statement: "Nothing here has an editor item.",
     },
   ],
 } as const satisfies Module

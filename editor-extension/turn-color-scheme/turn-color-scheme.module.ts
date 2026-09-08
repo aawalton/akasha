@@ -21,7 +21,7 @@ export const turnColorScheme = {
     },
     {
       invariantKind: "departure",
-      statement: "A name the palette does not hold is drawn in no color.",
+      statement: "A name the palette does not have is drawn in no color.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const turnColorScheme = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds the color values.",
+      statement: "Nothing here has the color values.",
     },
   ],
 } as const satisfies Module

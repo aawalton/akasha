@@ -62,7 +62,7 @@ export const workedTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A property's file is read at the path the shadow says holds that file.",
+      statement: "A property's file is read at the path the shadow says has that file.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +71,7 @@ export const workedTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A file already holding the body that would be written again is left alone.",
+      statement: "A file already with the body that would be written again is left alone.",
     },
     {
       invariantKind: "departure",

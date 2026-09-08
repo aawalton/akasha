@@ -14,7 +14,7 @@ export const taskLifecycle = {
     },
     {
       invariantKind: "departure",
-      statement: "A task holding a rule comes due again rather than reading as done.",
+      statement: "A task with a rule comes due again rather than reading as done.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const taskLifecycle = {
     },
     {
       invariantKind: "departure",
-      statement: "A task holding no rule reads as done from the day of the marking onward.",
+      statement: "A task with no rule reads as done from the day of the marking onward.",
     },
     {
       invariantKind: "departure",

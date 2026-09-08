@@ -11,7 +11,7 @@ export const checkoutCounting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The files git holds are the files listed.",
+      statement: "The files git has are the files listed.",
     },
     {
       invariantKind: "departure",
@@ -28,8 +28,7 @@ export const checkoutCounting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A symbolic link is the one path git holds rather than the files the link reaches.",
+      statement: "A symbolic link is the one path git has rather than the files the link reaches.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +61,7 @@ export const checkoutCounting = {
     },
     {
       invariantKind: "departure",
-      statement: "An empty file holds no lines.",
+      statement: "An empty file has no lines.",
     },
     {
       invariantKind: "departure",
@@ -74,7 +73,7 @@ export const checkoutCounting = {
     },
     {
       invariantKind: "departure",
-      statement: "A column is as wide as the widest thing that column holds.",
+      statement: "A column is as wide as the widest thing that column has.",
     },
     {
       invariantKind: "departure",

@@ -4,7 +4,7 @@ export const liveGatewaySeats = {
   id: "01a07c0e-3845-7753-9dd0-c01a2d905a11",
   pageTypeSlug: "module",
   slug: "live-gateway-seats",
-  definition: "the seats holding a gateway process that still answers",
+  definition: "the seats with a gateway process that still answers",
   code: "ts",
   invariants: [
     {
@@ -13,7 +13,7 @@ export const liveGatewaySeats = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat holding no gateway process is left out.",
+      statement: "A seat with no gateway process is left out.",
     },
     {
       invariantKind: "gap",

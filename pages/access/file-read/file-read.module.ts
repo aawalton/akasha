@@ -59,8 +59,7 @@ export const fileRead = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A roster holding no page type refuses rather than reading as no page being a file.",
+      statement: "A roster with no page type refuses rather than reading as no page being a file.",
     },
   ],
 } as const satisfies Module

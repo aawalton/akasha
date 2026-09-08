@@ -19,7 +19,7 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "A path that is no TypeScript file holds no page.",
+      statement: "A path that is no TypeScript file has no page.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +45,7 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "The files beside several paths hold no repeated file.",
+      statement: "The files beside several paths have no repeated file.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +53,7 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "The files beside several paths hold no path handed in.",
+      statement: "The files beside several paths have no path handed in.",
     },
     {
       invariantKind: "departure",

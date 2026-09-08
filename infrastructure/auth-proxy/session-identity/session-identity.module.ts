@@ -18,7 +18,7 @@ export const sessionIdentity = {
     {
       invariantKind: "departure",
       statement:
-        "A signing key the proxy does not hold is fetched once more before the token fails.",
+        "A signing key the proxy does not have is fetched once more before the token fails.",
     },
     {
       invariantKind: "absence",

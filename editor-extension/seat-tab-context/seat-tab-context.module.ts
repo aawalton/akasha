@@ -9,7 +9,7 @@ export const seatTabContext = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A tab holding a seat is named by the tab's instance id.",
+      statement: "A tab with a seat is named by the tab's instance id.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const seatTabContext = {
     },
     {
       invariantKind: "departure",
-      statement: "A tab is filed under the place the seat in that tab holds.",
+      statement: "A tab is filed under the place the seat in that tab has.",
     },
     {
       invariantKind: "departure",

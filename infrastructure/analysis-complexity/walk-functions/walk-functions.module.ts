@@ -4,7 +4,7 @@ export const walkFunctions = {
   id: "01a0680f-d1b7-72c6-a3b9-0ccb673e665d",
   pageTypeSlug: "module",
   slug: "walk-functions",
-  definition: "every function a source file holds, with the name and line each one is at",
+  definition: "every function a source file has, with the name and line each one is at",
   code: "ts",
   invariants: [
     {

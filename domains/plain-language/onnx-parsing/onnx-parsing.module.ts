@@ -21,7 +21,7 @@ export const onnxParsing = {
     },
     {
       invariantKind: "departure",
-      statement: "A batch holds sixteen sentences unless the caller says otherwise.",
+      statement: "A batch has sixteen sentences unless the caller says otherwise.",
     },
     {
       invariantKind: "departure",

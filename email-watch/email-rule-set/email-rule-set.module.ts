@@ -10,7 +10,7 @@ export const emailRuleSet = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every field an email rule tests holds text.",
+      statement: "Every field an email rule tests has text.",
     },
     {
       invariantKind: "departure",

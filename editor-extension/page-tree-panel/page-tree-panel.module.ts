@@ -13,8 +13,7 @@ export const pageTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The panel draws the pages that file holds before any change to that file arrives.",
+      statement: "The panel draws the pages that file has before any change to that file arrives.",
     },
     {
       invariantKind: "departure",

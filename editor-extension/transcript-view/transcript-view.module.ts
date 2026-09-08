@@ -49,7 +49,7 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder holding a transcript is watched rather than the transcript.",
+      statement: "The folder with a transcript is watched rather than the transcript.",
     },
     {
       invariantKind: "departure",

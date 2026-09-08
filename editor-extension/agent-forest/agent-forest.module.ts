@@ -31,7 +31,7 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
-      statement: "A branch holding nothing running is dropped whole.",
+      statement: "A branch with nothing running is dropped whole.",
     },
     {
       invariantKind: "departure",

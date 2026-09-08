@@ -4,7 +4,7 @@ export const editorLayoutPanel = {
   id: "01a06816-69fa-7002-9dd6-1f0b942d72c6",
   pageTypeSlug: "module",
   slug: "editor-layout-panel",
-  definition: "the groups, tabs and seats this window holds, read after each change settles",
+  definition: "the groups, tabs and seats this window has, read after each change settles",
   code: "ts",
   invariants: [
     {

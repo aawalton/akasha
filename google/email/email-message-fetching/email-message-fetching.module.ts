@@ -4,7 +4,7 @@ export const emailMessageFetching = {
   id: "01a07253-d962-737b-8253-aa8fc539d58e",
   pageTypeSlug: "module",
   slug: "email-message-fetching",
-  definition: "Gmail messages listed and fetched by a caller holding no client",
+  definition: "Gmail messages listed and fetched by a caller with no client",
   code: "ts",
   invariants: [
     {

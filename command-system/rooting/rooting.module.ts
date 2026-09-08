@@ -10,8 +10,7 @@ export const rooting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The root is the nearest folder at or above a path holding the akasha domain page.",
+      statement: "The root is the nearest folder at or above a path with the akasha domain page.",
     },
     {
       invariantKind: "departure",

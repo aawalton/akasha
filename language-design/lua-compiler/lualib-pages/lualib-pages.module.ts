@@ -27,7 +27,7 @@ export const lualibPages = {
     },
     {
       invariantKind: "departure",
-      statement: "A build for Lua 5.0 takes a page's Lua 5.0 code where the page holds one.",
+      statement: "A build for Lua 5.0 takes a page's Lua 5.0 code where the page has one.",
     },
     {
       invariantKind: "departure",

@@ -18,7 +18,7 @@ export const zimageExploreWorker = {
     },
     {
       invariantKind: "departure",
-      statement: "A queue holding nothing leaves the worker idling rather than ending that worker.",
+      statement: "A queue with nothing leaves the worker idling rather than ending that worker.",
     },
     {
       invariantKind: "departure",

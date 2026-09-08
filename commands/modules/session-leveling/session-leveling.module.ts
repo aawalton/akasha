@@ -51,7 +51,7 @@ export const sessionLeveling = {
     {
       invariantKind: "departure",
       statement:
-        "An activity matches a title whose lowercase holds the activity's lowercase title as a whole word.",
+        "An activity matches a title whose lowercase has the activity's lowercase title as a whole word.",
     },
     {
       invariantKind: "departure",

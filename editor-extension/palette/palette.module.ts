@@ -9,7 +9,7 @@ export const palette = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A color here is a semantic color the design tokens hold.",
+      statement: "A color here is a semantic color the design tokens have.",
     },
     {
       invariantKind: "departure",

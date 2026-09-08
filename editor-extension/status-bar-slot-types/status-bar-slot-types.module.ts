@@ -17,7 +17,7 @@ export const statusBarSlotTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "Every slot names the key the editor holds the slot's item under.",
+      statement: "Every slot names the key the editor has the slot's item under.",
     },
     {
       invariantKind: "departure",

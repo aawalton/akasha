@@ -4,7 +4,7 @@ export const workInitiatives = {
   id: "01a04e9f-4572-7339-8438-7d5a5777f8ab",
   pageTypeSlug: "module",
   slug: "work-initiatives",
-  definition: "every initiative the work panel draws, what each holds, and the one each sits under",
+  definition: "every initiative the work panel draws, what each has, and the one each sits under",
   code: "ts",
   test: "ts",
   invariants: [
@@ -48,7 +48,7 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
-      statement: "The intents an initiative holds are read out of the page.",
+      statement: "The intents an initiative has are read out of the page.",
     },
     {
       invariantKind: "departure",

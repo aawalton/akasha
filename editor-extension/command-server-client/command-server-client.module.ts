@@ -59,7 +59,7 @@ export const commandServerClient = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds an answer.",
+      statement: "Nothing here has an answer.",
     },
     {
       invariantKind: "absence",

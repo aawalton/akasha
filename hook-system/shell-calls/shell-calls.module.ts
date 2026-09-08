@@ -14,7 +14,7 @@ export const shellCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "A quoted run holding one bare word is unquoted before the cut.",
+      statement: "A quoted run with one bare word is unquoted before the cut.",
     },
     {
       invariantKind: "departure",

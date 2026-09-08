@@ -24,7 +24,7 @@ export const domainRows = {
     },
     {
       invariantKind: "departure",
-      statement: "Two page types may each hold a page of one slug.",
+      statement: "Two page types may each have a page of one slug.",
     },
     {
       invariantKind: "departure",
@@ -87,7 +87,7 @@ export const domainRows = {
     {
       invariantKind: "departure",
       statement:
-        "A slug two page types each hold widens the pages asked about rather than narrowing the pages.",
+        "A slug two page types each have widens the pages asked about rather than narrowing the pages.",
     },
     {
       invariantKind: "absence",

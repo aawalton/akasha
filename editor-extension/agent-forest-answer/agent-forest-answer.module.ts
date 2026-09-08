@@ -33,7 +33,7 @@ export const agentForestAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A row holding no page carries null rather than a path composed here.",
+      statement: "A row with no page carries null rather than a path composed here.",
     },
     {
       invariantKind: "departure",

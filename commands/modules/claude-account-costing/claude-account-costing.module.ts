@@ -4,7 +4,7 @@ export const claudeAccountCosting = {
   id: "01a06a8f-0b3b-76b2-91d8-e3e16a811059",
   pageTypeSlug: "module",
   slug: "claude-account-costing",
-  definition: "what the transcripts on this machine hold, priced at the api's own list price",
+  definition: "what the transcripts on this machine have, priced at the api's own list price",
   code: "ts",
   test: "ts",
   invariants: [
@@ -27,7 +27,7 @@ export const claudeAccountCosting = {
     },
     {
       invariantKind: "departure",
-      statement: "A model this module holds no price for is named rather than counted at nothing.",
+      statement: "A model this module has no price for is named rather than counted at nothing.",
     },
     {
       invariantKind: "departure",

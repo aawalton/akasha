@@ -18,11 +18,11 @@ export const inferenceAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag that repeats holds every value the call said for that flag.",
+      statement: "A flag that repeats has every value the call said for that flag.",
     },
     {
       invariantKind: "departure",
-      statement: "A flag that does not repeat holds the last value the call said for that flag.",
+      statement: "A flag that does not repeat has the last value the call said for that flag.",
     },
     {
       invariantKind: "departure",
