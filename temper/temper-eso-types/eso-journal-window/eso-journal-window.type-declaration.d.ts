@@ -29,7 +29,7 @@ interface SetTitleFragment extends SceneFragment {
 }
 
 interface ZoSetTitleFragmentClass {
-  New: (this: void) => SetTitleFragment
+  New: (this: ZoSetTitleFragmentClass) => SetTitleFragment
 }
 
 declare const ZO_SetTitleFragment: ZoSetTitleFragmentClass
@@ -126,7 +126,7 @@ interface ZoStringSearch {
 }
 
 interface ZoStringSearchClass {
-  New: (this: void) => ZoStringSearch
+  New: (this: ZoStringSearchClass) => ZoStringSearch
 }
 
 declare const ZO_StringSearch: ZoStringSearchClass
