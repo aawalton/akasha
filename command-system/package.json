@@ -35,6 +35,7 @@
     "./committing": "./committing/committing.module.code.ts",
     "./drafting": "./drafting/drafting.module.code.ts",
     "./during-call": "./during-call/during-call.module.code.ts",
+    "./edits-landing": "./edits-landing/edits-landing.module.code.ts",
     "./fault-saying": "./fault-saying/fault-saying.module.code.ts",
     "./holding": "./holding/holding.module.code.ts",
     "./landing": "./landing/landing.module.code.ts",

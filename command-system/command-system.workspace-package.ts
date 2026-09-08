@@ -70,6 +70,7 @@ export const commandSystem = {
     "module/mechanical-filing",
     "module/change-acting",
     "module/export-naming",
+    "module/edits-landing",
   ],
   invariants: [
     {
