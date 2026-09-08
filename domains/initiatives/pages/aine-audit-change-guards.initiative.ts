@@ -9,12 +9,6 @@ export const aineAuditChangeGuards = {
   intents: [
     {
       statement:
-        "Every mechanical change that can leave an edge hanging names the guard judging that edge.",
-      workingMemory:
-        "`change-file-content-page` names `identity-not-already-held` and `relation-reaches-a-page`, and the content dispatcher is thin over it, so every authored `change-file` on a page is judged. `akasha audit --check relation-resolves` judged 120541 files and refused none, so no page held a hanging name for the guard to trip on. `change-page-page-property` names only the first, a composition passing through it. `add-file` and `remove-file` judge nothing on purpose, the caller judging.\n",
-    },
-    {
-      statement:
         "A content change is judged by the guards that judge an edge into the body that change leaves.",
       workingMemory:
         "`change-page-page-property` names no guard and restates any key, `slug` included. `rename-page-slug` reaches it for exactly that and repoints the namers afterwards, so a guard on that rung would refuse the rename's own middle step. Such a guard belongs on the outermost mechanical change of a family rather than on a rung a composition passes through. `relation-not-left-hanging` cannot see the hanging name at all, a name that no longer resolves being no namer.\n",
