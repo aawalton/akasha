@@ -27,9 +27,7 @@ export function removePageProperty(world: World, given: RemovePagePropertyAsked)
   const at = owner.properties.findIndex(
     (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
   )
-  if (owner.properties[at] === undefined) {
-    return refusing(`\`${given.at}\` states no \`${given.key}\``)
-  }
+  if (owner.properties[at] === undefined) return stating([])
   const required = requiredIn(world, given)
   if (required === null) {
     return refusing(`whether \`${given.key}\` is required could not be read`)

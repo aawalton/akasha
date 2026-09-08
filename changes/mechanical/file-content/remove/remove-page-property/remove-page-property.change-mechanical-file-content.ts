@@ -20,7 +20,15 @@ export const removePageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A key the page states no value under is refused rather than taken away.",
+      statement: "A key the page states no value under is answered as no edit rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page holding no such key is already what taking that key away leaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key mistyped is caught by the caller reading the page type rather than here.",
     },
     {
       invariantKind: "departure",

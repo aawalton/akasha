@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import { runChange as dropKey } from "../../../mechanical/file-content/remove/remove-page-property/remove-page-property.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type Reaching,
@@ -107,6 +107,19 @@ test("a key holding many values goes with every value that key holds", async () 
   const bodies = bodiesIn(said, world.base)
   expect(bodies.get(ONE_AT) ?? "").not.toContain("partOfSlugs")
   expect(bodies.get(ONE_AT) ?? "").not.toContain("alpha")
+})
+
+test("a page already stating no such key answers no edit while the rest lose it", async () => {
+  const bare = sectionAt("two").replace(`  sectionOfSlug: "solar-power",\n`, "")
+  const world = worldFor({ ...BODIES, [TWO_AT]: bare }, [DECLARED], EVERY)
+
+  const said = await removePropertyFromEveryPage(world, {
+    pageType: "book-section",
+    key: "sectionOfSlug",
+  })
+
+  expect(said.refused).toBeNull()
+  expect(pathsIn(said)).toEqual([ONE_AT])
 })
 
 test("a page type carrying no property under the key is refused", async () => {

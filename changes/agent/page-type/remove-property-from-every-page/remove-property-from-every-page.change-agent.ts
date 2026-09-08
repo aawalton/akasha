@@ -48,6 +48,14 @@ export const removePropertyFromEveryPage = {
     },
     {
       invariantKind: "departure",
+      statement: "A page already stating no such key is answered as no edit rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key mistyped is caught here by the page type carrying no property under it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That change is reached through the runner rather than by an import.",
     },
     {

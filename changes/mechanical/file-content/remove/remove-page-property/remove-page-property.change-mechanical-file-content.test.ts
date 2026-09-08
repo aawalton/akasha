@@ -90,8 +90,20 @@ test("a key its page's type requires is refused rather than taken away", () => {
   expect(whyOf("slug", FILES)).toBe("`slug` is required, so taking it away is a retype")
 })
 
-test("a key the body states nothing under is refused", () => {
-  expect(whyOf("cover", FILES)).toBe(`\`${PAGE}\` states no \`cover\``)
+test("a key the body states nothing under answers no edit", () => {
+  const said = saidOf("cover", FILES)
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([])
+})
+
+test("a key taken away twice answers no edit the second time", () => {
+  const left = bodyIn("definition", FILES)
+
+  const said = saidOf("definition", { [PAGE]: left, [TYPE]: DECLARED })
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([])
 })
 
 test("a body exporting no object is refused rather than losing a key", () => {
