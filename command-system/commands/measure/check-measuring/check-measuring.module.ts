@@ -137,28 +137,19 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An average is the total a phase's runs took shared out over the count of those runs.",
+      statement: "An average is the total the runs took shared out over the count of those runs.",
     },
     {
       invariantKind: "departure",
-      statement: "The count of runs a phase holds is said beside that phase's averages.",
+      statement: "The count of runs a check holds is said beside that check's averages.",
     },
     {
       invariantKind: "departure",
-      statement: "A phase no run was judged at carries no average rather than an average of zero.",
+      statement: "The total counts the distinct runs read rather than the records read.",
     },
     {
       invariantKind: "departure",
-      statement: "A phase no run was judged at holds a count of zero rather than no count.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The total counts the distinct runs of a phase rather than the records read.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The total shares a phase's processor time over the distinct runs of that phase.",
+      statement: "The total shares the processor time over the distinct runs read.",
     },
     {
       invariantKind: "departure",
