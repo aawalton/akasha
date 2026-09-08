@@ -13,4 +13,5 @@ export const renamePropertySignature = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

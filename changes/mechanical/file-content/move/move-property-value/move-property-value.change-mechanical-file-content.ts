@@ -67,4 +67,5 @@ export const movePropertyValue = {
       statement: "Nothing here reads the index.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

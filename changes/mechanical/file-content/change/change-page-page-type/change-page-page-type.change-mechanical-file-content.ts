@@ -72,4 +72,5 @@ export const changePagePageType = {
       statement: "Nothing here works out which files a page keeps beside it.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

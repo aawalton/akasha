@@ -97,4 +97,5 @@ export const addPropertyValue = {
       statement: "A key the page gains is a list where the caller says nothing about the property.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

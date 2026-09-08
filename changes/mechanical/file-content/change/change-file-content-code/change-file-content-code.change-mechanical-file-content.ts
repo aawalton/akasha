@@ -33,4 +33,5 @@ export const changeFileContentCode = {
       statement: "Nothing here judges the path a passage is worked at.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

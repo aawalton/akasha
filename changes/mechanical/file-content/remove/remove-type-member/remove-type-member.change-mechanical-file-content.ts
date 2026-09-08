@@ -71,4 +71,5 @@ export const removeTypeMember = {
       statement: "A type keeps its braces when the last member goes.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

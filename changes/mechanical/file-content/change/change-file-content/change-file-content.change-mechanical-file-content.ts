@@ -54,4 +54,5 @@ export const changeFileContent = {
       statement: "Nothing here reads the disk.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

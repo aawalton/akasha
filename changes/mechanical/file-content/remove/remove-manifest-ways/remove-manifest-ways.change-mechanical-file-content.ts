@@ -71,4 +71,5 @@ export const removeManifestWays = {
       statement: "That way in landing on a path that stays is left where that way in is.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

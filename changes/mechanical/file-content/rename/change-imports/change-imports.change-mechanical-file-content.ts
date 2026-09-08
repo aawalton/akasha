@@ -41,4 +41,5 @@ export const changeImports = {
       statement: "Nothing here carries a file.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

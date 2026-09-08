@@ -67,4 +67,5 @@ export const addTypeMember = {
         "A type written on one line gains its member on that line rather than on a line of its own.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

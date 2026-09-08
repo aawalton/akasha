@@ -71,4 +71,5 @@ export const changeDomainParent = {
       statement: "The list is put in by the change putting a key in rather than a value.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent
