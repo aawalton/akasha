@@ -13,7 +13,7 @@ export const changeMechanicalFileRename = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file's rename is that file's carry, so nothing here renames a file alone.",
+      statement: "A file's rename is that file's move, so nothing here renames a file alone.",
     },
   ],
 } as const satisfies Domain

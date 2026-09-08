@@ -38,7 +38,7 @@ export const renameFilePageType = {
     },
     {
       invariantKind: "departure",
-      statement: "That restating comes before any file a page claims is carried.",
+      statement: "That restating comes before any file a page claims is moved.",
     },
     {
       invariantKind: "departure",
@@ -54,11 +54,11 @@ export const renameFilePageType = {
     },
     {
       invariantKind: "departure",
-      statement: "A file under a TypeScript name is carried by the change carrying a code file.",
+      statement: "A file under a TypeScript name is moved by the change moving a code file.",
     },
     {
       invariantKind: "departure",
-      statement: "A file under no TypeScript name is carried by the change carrying a file alone.",
+      statement: "A file under no TypeScript name is moved by the change moving a file alone.",
     },
     {
       invariantKind: "departure",

@@ -7,7 +7,7 @@ export const renameFilePage = {
   changeModeSlug: "change-mode-rename",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file-page",
-  definition: "a page renamed and carried to where its slug says, in the data and in every name",
+  definition: "a page renamed and moved to where its slug says, in the data and in every name",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -15,11 +15,11 @@ export const renameFilePage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page's files are carried before that page's slug is restated.",
+      statement: "A page's files are moved before that page's slug is restated.",
     },
     {
       invariantKind: "departure",
-      statement: "The slug is restated at the path the carry lands the page at.",
+      statement: "The slug is restated at the path the move lands the page at.",
     },
     {
       invariantKind: "departure",
@@ -40,15 +40,15 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A file under a reserved tail is carried with the page that file sits beside.",
+      statement: "A file under a reserved tail is moved with the page that file sits beside.",
     },
     {
       invariantKind: "departure",
-      statement: "A reserved tail with no body is carried nowhere.",
+      statement: "A reserved tail with no body is moved nowhere.",
     },
     {
       invariantKind: "departure",
-      statement: "A page owning its folder carries every file under that folder with it.",
+      statement: "A page owning its folder takes every file under that folder with it.",
     },
     {
       invariantKind: "departure",
@@ -68,11 +68,11 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A file the page carries already is carried once rather than a second time.",
+      statement: "A file the page has already is moved once rather than a second time.",
     },
     {
       invariantKind: "departure",
-      statement: "A file under no TypeScript name is carried by the change carrying a file alone.",
+      statement: "A file under no TypeScript name is moved by the change moving a file alone.",
     },
     {
       invariantKind: "departure",
@@ -84,7 +84,7 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest naming a carried file as a way in states the new path for that way.",
+      statement: "A manifest naming a moved file as a way in states the new path for that way.",
     },
     {
       invariantKind: "departure",
@@ -104,7 +104,7 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "The address is restated before any file the page keeps beside it is carried.",
+      statement: "The address is restated before any file the page keeps beside it is moved.",
     },
     {
       invariantKind: "departure",
