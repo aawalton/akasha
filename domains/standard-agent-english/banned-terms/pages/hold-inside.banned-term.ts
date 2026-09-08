@@ -7,4 +7,10 @@ export const holdInside = {
   spelling: "hold",
   definition: "having something inside\n",
   instead: "have",
+  replacementPatterns: [
+    { "fromPattern": "holds [object]", "toPattern": "has [object]" },
+    { "fromPattern": "hold [object]", "toPattern": "have [object]" },
+    { "fromPattern": "holding [object]", "toPattern": "with [object]" },
+    { "fromPattern": "is held in [place]", "toPattern": "is in [place]" },
+  ],
 } as const satisfies BannedTerm
