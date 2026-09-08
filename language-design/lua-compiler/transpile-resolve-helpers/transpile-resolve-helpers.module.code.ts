@@ -1,4 +1,4 @@
-import * as path from "path"
+import * as path from "node:path"
 import * as ts from "typescript"
 import type { LuaRequire } from "../transpile-find-lua-requires/transpile-find-lua-requires.module.code.ts"
 import { BuildMode } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
@@ -93,10 +93,10 @@ export function luaRequireToPath(requirePath: string): string {
   return requirePath.replace(/\./g, path.sep)
 }
 
-export function removeFileExtension(path: string) {
-  return path.includes(".") ? trimExtension(path) : path
+export function removeFileExtension(filePath: string) {
+  return filePath.includes(".") ? trimExtension(filePath) : filePath
 }
 
-export function removeTrailingDirectorySeparator(path: string) {
-  return path.endsWith("/") || path.endsWith("\\") ? path.substring(0, -1) : path
+export function removeTrailingDirectorySeparator(filePath: string) {
+  return filePath.endsWith("/") || filePath.endsWith("\\") ? filePath.substring(0, -1) : filePath
 }
