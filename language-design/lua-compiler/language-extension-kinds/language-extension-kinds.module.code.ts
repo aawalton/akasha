@@ -121,7 +121,7 @@ export type IterableExtensionKind =
   (typeof IterableExtensionKind)[keyof typeof IterableExtensionKind]
 
 export function isLuaIterable(context: TransformationContext, type: ts.Type): boolean {
-  return getPropertyValue(context, type, "__tstlIterable") !== undefined
+  return getPropertyValue(context, type, "__luaIterable") !== undefined
 }
 
 const iterableExtensionValues: ReadonlySet<string> = new Set<string>(
