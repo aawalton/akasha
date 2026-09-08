@@ -10,6 +10,7 @@ import {
 } from "@akasha/k8s-types/orchestrator-cache-helpers"
 import {
   BUN_RUNTIME_IMAGE,
+  CONTAINER_TMP_PATH,
   GIT_TRANSPORT_CACHE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "@akasha/k8s-types/orchestrator-cache-locations"
@@ -74,7 +75,7 @@ export function deploymentYaml(): string {
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
               command: ["sh", "-c", INIT_BARE_REPO_SCRIPT],
-              env: [{ name: "HOME", value: "/tmp" }],
+              env: [{ name: "HOME", value: CONTAINER_TMP_PATH }],
               envFrom: [{ secretRef: { name: "git-transport-secrets" } }],
               volumeMounts: [ssdMount],
               resources: {
@@ -115,7 +116,7 @@ export function deploymentYaml(): string {
                   name: "GIT_TRANSPORT_CLONE_URL",
                   value: "http://git-transport.git.svc.cluster.local:3000",
                 },
-                { name: "HOME", value: "/tmp" },
+                { name: "HOME", value: CONTAINER_TMP_PATH },
               ],
               envFrom: [{ secretRef: { name: "git-transport-secrets" } }],
               volumeMounts: [...sourceCacheMounts, ssdMount],
