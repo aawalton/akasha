@@ -1,8 +1,8 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const removeFile = {
   id: "01a07991-8989-7000-8e13-06e6791ebefb",
-  pageTypeSlug: "change-checked",
+  pageTypeSlug: "change-agent",
   slug: "remove-file",
   changeModeSlug: "change-mode-remove",
   definition: "one file taken away, judged by the checks a landing runs",
@@ -41,4 +41,4 @@ export const removeFile = {
       statement: "No file beside the path is taken away here.",
     },
   ],
-} as const satisfies ChangeChecked
+} as const satisfies ChangeAgent

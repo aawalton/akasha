@@ -9,7 +9,7 @@ export const changeAgentFile = {
     "change-agent/add-file",
     "change-checked/change-page-page-type",
     "change-agent/move-page",
-    "change-checked/remove-file",
+    "change-agent/remove-file",
     "change-checked/remove-page",
     "change-agent/rename-page",
   ],

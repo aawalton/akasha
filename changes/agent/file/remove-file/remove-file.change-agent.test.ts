@@ -6,7 +6,7 @@ import {
   type Reaching,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { removeFile } from "./remove-file.change-checked.code.ts"
+import { removeFile } from "./remove-file.change-agent.code.ts"
 
 const ASKED = "the world was asked"
 
