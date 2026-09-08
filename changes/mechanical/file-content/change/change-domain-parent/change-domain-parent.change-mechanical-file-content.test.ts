@@ -15,6 +15,8 @@ const PACKAGE = "01a07932-2568-72a6-8b8e-314ac44c417d"
 
 const ADDS = "change-mechanical-file-content/add-property-value"
 
+const PUTS = "change-mechanical-file-content/add-page-property"
+
 const REMOVES = "change-mechanical-file-content/remove-property-value"
 
 const HELD = "imessage/imessage.workspace-package.ts"
@@ -47,9 +49,21 @@ const BARE: Value = {
   partSlugs: ["module/imessage-host"],
 }
 
+const EMPTY: Value = {
+  id: NAMESPACE,
+  pageTypeSlug: "namespace",
+  slug: "imessage",
+}
+
 type Told = {
   readonly namers: readonly string[]
   readonly page?: Value | null
+  readonly under?: Value
+}
+
+function pageAt(told: Told, at: string): Value | null | undefined {
+  if (at === UNDER && told.under !== undefined) return told.under
+  return "page" in told ? told.page : PARENT
 }
 
 function listedAt(id: string): { readonly path: string; readonly id: string } | null {
@@ -71,7 +85,7 @@ function worldTold(told: Told): World {
     index: {
       idsNaming: () => told.namers,
       knownIn: () => known,
-      pageByPath: () => ("page" in told ? told.page : PARENT),
+      pageByPath: (at: string) => pageAt(told, at),
     } as never,
     textOf: () => null,
     bodyOf: () => null,
@@ -118,6 +132,23 @@ test("both mechanical changes are handed the parts key and the spelling that was
     at: UNDER,
     key: "partSlugs",
     value: "command/imessage-contacts",
+  })
+})
+
+test("a parent stating no parts gains the list rather than being refused", async () => {
+  const kept: Reached[] = []
+
+  const said = await runChange(
+    watching(worldTold({ namers: [PACKAGE], under: EMPTY }), kept),
+    ASKED
+  )
+
+  expect(said.refused).toBeNull()
+  expect(kept.map((one) => one.at)).toEqual([REMOVES, PUTS])
+  expect(kept[1]?.given).toEqual({
+    at: UNDER,
+    key: "partSlugs",
+    value: `["command/imessage-contacts"]`,
   })
 })
 

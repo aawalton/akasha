@@ -5,6 +5,8 @@ import type { Answer } from "../../../../modules/change-answer/change-answer.mod
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { heldIn, readFor } from "../../../../modules/page-knowing/page-knowing.module.code.ts"
 
+const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
+
 const ADD_PROPERTY_VALUE = "change-mechanical-file-content/add-property-value"
 
 const DOMAIN = "domain"
@@ -79,16 +81,19 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if ("refused" in read) return refusing(`${read.refused}, so no parent is changed`)
   const spelled = spelledIn(read.known, read.value, page.id)
   if (spelled === null) return refusing(`\`${from.path}\` states \`${given.page}\` among no parts`)
+  const gaining = readFor(world, to.path)
+  if ("refused" in gaining) return refusing(`${gaining.refused}, so no parent gains the page`)
   const taken = await reach(world, REMOVE_PROPERTY_VALUE, {
     at: from.path,
     key: PARTS,
     value: spelled,
   })
   if (taken.said.refused !== null) return taken.said
-  const put = await reach(taken.world, ADD_PROPERTY_VALUE, {
+  const bare = gaining.value[PARTS] === undefined
+  const put = await reach(taken.world, bare ? ADD_PAGE_PROPERTY : ADD_PROPERTY_VALUE, {
     at: to.path,
     key: PARTS,
-    value: spelled,
+    value: bare ? JSON.stringify([spelled]) : spelled,
   })
   return gathered([taken.said, put.said])
 }

@@ -63,8 +63,12 @@ export const changeDomainParent = {
       statement: "Nothing here works out a body of its own.",
     },
     {
-      invariantKind: "gap",
-      statement: "A parent stating no parts is refused rather than gaining the list.",
+      invariantKind: "departure",
+      statement: "A parent stating no parts gains the list rather than being refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The list is put in by the change putting a key in rather than a value.",
     },
   ],
 } as const satisfies ChangeMechanicalFileContent
