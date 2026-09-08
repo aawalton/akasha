@@ -1,6 +1,7 @@
+import { companionActivationBuffs } from "@akasha/temper-companions-core/companion-activation-buffs"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
-import { rankOf } from "../rank-by-key/rank-by-key.module.code.ts"
+import { rankOf, ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const COMPANION_ACTIVATION_BUFF_EAV_SCHEMA = z
   .object({
@@ -21,18 +22,7 @@ function parseCompanionActivationBuff(row: Page): ParsedCompanionActivationBuff 
   return { key: eav.key, name: row.title }
 }
 
-const KEY_RANK: Record<string, number> = {
-  "flat-resistance": 0,
-  "flat-damage-reduction": 1,
-  "light-attack-damage": 2,
-  "heavy-attack-damage": 3,
-  "next-attack-damage": 4,
-  "health-recovery": 5,
-  "magicka-recovery": 6,
-  "stamina-recovery": 7,
-  "healing-received": 8,
-  "damage-taken-increase": 9,
-}
+const KEY_RANK: Record<string, number> = ranksOf(companionActivationBuffs.ids)
 
 export function generateTemperCompanionActivationBuff(rows: readonly Page[]): string {
   const parsed = rows.map(parseCompanionActivationBuff)

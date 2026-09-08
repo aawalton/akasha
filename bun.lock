@@ -1589,9 +1589,11 @@
     "temper/temper-addon-generators": {
       "name": "@akasha/temper-addon-generators",
       "dependencies": {
+        "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-player-completion": "workspace:*",
+        "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },

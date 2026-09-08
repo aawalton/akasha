@@ -1,6 +1,7 @@
+import { companionRoles } from "@akasha/temper-companions-core/companion-roles"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
-import { rankOf } from "../rank-by-key/rank-by-key.module.code.ts"
+import { rankOf, ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const COMPANION_ROLE_EAV_SCHEMA = z
   .object({
@@ -21,26 +22,7 @@ function parseCompanionRole(row: Page): ParsedCompanionRole {
   return { key: eav.key, name: row.title }
 }
 
-const KEY_RANK: Record<string, number> = {
-  "no-role": 0,
-  dps: 1,
-  tank: 2,
-  healer: 3,
-  support: 4,
-  "dps-aoe": 5,
-  "dps-execute": 6,
-  "dps+healer": 7,
-  "dps+support": 8,
-  "dps+tank": 9,
-  "healer+support": 10,
-  "healer+tank": 11,
-  "support+tank": 12,
-  "dps+healer+support": 13,
-  "dps+healer+tank": 14,
-  "dps+support+tank": 15,
-  "healer+support+tank": 16,
-  "dps+healer+support+tank": 17,
-}
+const KEY_RANK: Record<string, number> = ranksOf(companionRoles.ids)
 
 export function generateTemperCompanionRole(rows: readonly Page[]): string {
   const parsed = rows.map(parseCompanionRole)

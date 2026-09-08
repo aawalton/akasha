@@ -1,6 +1,7 @@
+import { characterRoles } from "@akasha/temper-character-sources/character-roles"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
-import { rankOf } from "../rank-by-key/rank-by-key.module.code.ts"
+import { rankOf, ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const CHARACTER_ROLE_EAV_SCHEMA = z
   .object({
@@ -21,14 +22,7 @@ function parseRole(row: Page): ParsedRole {
   return { key: eav.key, name: row.title }
 }
 
-const KEY_RANK: Record<string, number> = {
-  "no-role": 0,
-  dps: 1,
-  tank: 2,
-  healer: 3,
-  pvp: 4,
-  solo: 5,
-}
+const KEY_RANK: Record<string, number> = ranksOf(characterRoles.ids)
 
 export function generateTemperCharacterRole(roleRows: readonly Page[]): string {
   const roles = roleRows.map(parseRole)

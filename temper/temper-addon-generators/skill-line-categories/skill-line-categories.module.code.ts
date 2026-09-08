@@ -1,6 +1,7 @@
+import { skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
-import { rankOf } from "../rank-by-key/rank-by-key.module.code.ts"
+import { rankOf, ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const SKILL_LINE_CATEGORY_EAV_SCHEMA = z
   .object({
@@ -30,18 +31,9 @@ function parseSkillLineCategory(row: Page): ParsedSkillLineCategory {
   }
 }
 
-const KEY_RANK: Record<string, number> = {
-  none: 0,
-  class: 1,
-  weapon: 2,
-  armor: 3,
-  world: 4,
-  guild: 5,
-  "alliance-war": 6,
-  racial: 7,
-  craft: 8,
-  companion: 9,
-}
+const KEY_RANK: Record<string, number> = ranksOf(
+  skillLineCategoriesSorted.map((category) => category.id)
+)
 
 export function generateTemperSkillLineCategory(rows: readonly Page[]): string {
   const parsed = rows.map(parseSkillLineCategory)
