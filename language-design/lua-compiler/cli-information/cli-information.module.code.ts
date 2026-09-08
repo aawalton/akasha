@@ -1,12 +1,12 @@
 import { optionDeclarations } from "../cli-parse/cli-parse.module.code.ts"
 
-export const name = "@temper/shared-build-deploy-tstl"
+export const name = "@akasha/lua-compiler"
 
 const helpString = `
-Syntax:   tstl [options] [files...]
+Syntax:   lua-compiler [options] [files...]
 
-Examples: tstl path/to/file.ts [...]
-          tstl -p path/to/tsconfig.json
+Examples: lua-compiler path/to/file.ts [...]
+          lua-compiler -p path/to/tsconfig.json
 
 In addition to the options listed below you can also pass options
 for the typescript compiler (For a list of options use tsc -h).
