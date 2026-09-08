@@ -38,9 +38,6 @@ import {
 } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import { defaultFor } from "../seat-resolve/seat-resolve.module.code.ts"
 
-// WHAT A START IS MADE OF IS STATED RATHER THAN SPELLED. A caller already holds the domain, the role
-// and the prompt as values, so nothing has to write them out as a command line for a second process
-// to read them back in.
 export interface StartSeatInput {
   readonly startMode: string
   readonly persona?: string
@@ -54,9 +51,6 @@ export interface StartSeatInput {
   readonly modelOverride?: string
   readonly anthropicBaseUrl?: string
   readonly anthropicAuthToken?: string
-  // A PARENT STATED AS NOTHING IS A SEAT WITH NO PARENT, AND A PARENT LEFT OUT IS THIS PROCESS'S OWN.
-  // The two cases are told apart so that a caller reaching in from somewhere else can say a seat has
-  // no parent without the environment answering for it.
   readonly parent?: string | null
 }
 

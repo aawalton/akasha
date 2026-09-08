@@ -55,5 +55,10 @@ export const seatResume = {
       statement:
         "The seat this process sits in is read from its own environment where the caller states no seat.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a resume is asked for is stated as values rather than spelled as a command line.",
+    },
   ],
 } as const satisfies Module

@@ -99,9 +99,6 @@ interface Launched {
   readonly status: string
 }
 
-// WHAT A RESUME IS ASKED FOR IS STATED RATHER THAN SPELLED. A caller reaching in holds an agent id
-// and a boot prompt as values already, so nothing has to write them out as a command line for a
-// second process to read them back in.
 export interface ResumeSeatRequest {
   readonly agentId: string
   readonly verify?: boolean
@@ -110,14 +107,9 @@ export interface ResumeSeatRequest {
   readonly now?: boolean
   readonly prompt?: string
   readonly bootPrompt?: string
-  // THE SEAT THIS PROCESS ITSELF SITS IN IS READ FROM ITS OWN ENVIRONMENT WHERE THE CALLER STATES
-  // NONE. A seat asked to resume itself queues the restart instead of launching a second supervisor
-  // over the session it is holding open.
   readonly selfAgentId?: string | null
 }
 
-// A WEDGED REVIVE IS A VERDICT HERE AND AN EXIT CODE AT THE COMMAND. The seat did come back as a
-// process, so this is an answer about the seat rather than a failure to act on it.
 export type ResumedSeat =
   | { readonly kind: "queued"; readonly agentId: string; readonly status: string }
   | {
@@ -156,8 +148,6 @@ interface RelaunchInput {
   readonly bootPrompt: string | undefined
 }
 
-// A LAUNCH-ONLY VALUE IS NAMED BY THE FLAG THAT SPELLS IT SO THE REFUSAL READS THE SAME FROM A
-// COMMAND LINE AND FROM A CALL. What is refused is the value being stated at all, not how it arrived.
 function launchOnlyStated(request: ResumeSeatRequest): readonly string[] {
   const named: string[] = []
   if (request.prompt !== undefined) named.push("--prompt")
