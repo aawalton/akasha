@@ -1,4 +1,4 @@
-import { landedMechanically } from "@akasha/command-system/asking"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { typeSlugOf } from "@akasha/indexes"
@@ -6,6 +6,8 @@ import { exportedAs } from "@akasha/pages/page-export-name"
 import { aliasIndexesIn } from "../../../agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
+
+const PUT = "change-mechanical-file/add-file"
 
 const EMAIL = "--email"
 
@@ -116,13 +118,13 @@ export async function claudeAccountAdd(argv: readonly string[], given: Given): P
     const pageType = typeSlugOf(given.root, ACCOUNT_TYPE)
     const at = `${PAGES_AT}/${read.account}/${read.account}.${pageType}.ts`
     const body = pageTextFor(read.account, read.email, slot, Bun.randomUUIDv7(), pageType)
-    const said = await landedMechanically(
+    const landed = await runMechanicalChange(
       given.root,
-      "claude-account-add",
-      [{ path: at, body: new TextEncoder().encode(body) }],
+      [{ at: PUT, given: { at, body } }],
       `akasha: file a page for the claude account ${read.account}`
     )
-    if (said.code !== 0) return said
+    const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+    if (wrong.length > 0) return { report: [], refusals: wrong, code: 1 }
     return {
       report: [
         `${read.account} holds slot ${slot} and is filed at ${at}`,

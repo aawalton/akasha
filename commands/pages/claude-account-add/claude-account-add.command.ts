@@ -43,6 +43,10 @@ export const claudeAccountAdd = {
       statement: "A page's identity is minted as a uuid version 7.",
     },
     {
+      invariantKind: "departure",
+      statement: "The change adding a file writes the page rather than an edit composed here.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here signs in or reads a token or writes a secret.",
     },
