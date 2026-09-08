@@ -39,7 +39,7 @@ export default [
   route("api/pages/:pageTypeSlug", "routes/api.pages.$pageTypeSlug.ts"),
   route("api/page-write", "routes/api.page-write.ts"),
   route("api/nav-icon/:idSuffix", "routes/api.nav-icon.$idSuffix.ts"),
-  route("api/image/:imageId", "routes/api.image.$imageId.ts"),
+  route("api/image/:imageId", "routes/alan-web-api-image/alan-web-api-image.route.code.ts"),
   route("api/wallpaper", "routes/wallpaper/wallpaper.route.code.ts"),
   route("api/property-option", "routes/api.property-option.ts"),
   route("api/media/token", "routes/api.media.token.ts"),
