@@ -1,23 +1,11 @@
-// The route reads the version off disk, so what it answers is read from a real file rather than
-// from a stub, and the bundle folder is a temporary one this file makes.
-//
-// The folder is read once, when the bundle-folder module loads, and that module loads once for the
-// whole test process. So this file puts its temporary folder in the environment before importing
-// the route, and then takes the folder the route resolved rather than assuming that is the folder
-// just put there — another test file loading the module first is what makes the two differ.
-//
-// What this pins: an absent version file is a 404 carrying JSON rather than an empty 200 or a
-// throw, and a present one is answered with the trailing newline taken off it, since a caller
-// comparing the version it holds against this one compares text. The download address rides along,
-// so a caller that finds itself behind has somewhere to go without knowing that address itself.
-
 import { beforeEach, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
 import { join } from "node:path"
 import type { AppLoadContext } from "react-router"
 
-process.env["ADDONS_BUNDLE_DIR"] = mkdtempSync(join(tmpdir(), "temper-addons-"))
+const SCRATCH_AT = "/var/tmp"
+
+process.env["ADDONS_BUNDLE_DIR"] = mkdtempSync(join(SCRATCH_AT, "temper-addons-"))
 
 const { loader } = await import("./addon-bundle-version.route.code.ts")
 const { ADDONS_BUNDLE_DIR } = await import(
