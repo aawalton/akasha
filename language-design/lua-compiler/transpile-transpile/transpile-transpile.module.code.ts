@@ -132,7 +132,7 @@ export function getProgramTranspileResult(
 
     if (!options.noEmit && !options.emitDeclarationOnly) {
       performance.startSection("print")
-      if (options.tstlVerbose === true) {
+      if (options.verbose === true) {
         console.log(`Printing ${sourceFile.fileName}`)
       }
 
