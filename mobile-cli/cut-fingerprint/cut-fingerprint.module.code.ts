@@ -1,6 +1,6 @@
 import { type Dirent, readdirSync } from "node:fs"
 import { join } from "node:path"
-import { landedMechanically } from "@akasha/command-system/asking"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { numberAt, slugAt, textAt, type Value, valueAt } from "@akasha/pages/page-value"
@@ -8,22 +8,12 @@ import { z } from "zod"
 
 export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"
 
-export const CUT_WRITER = "akasha deploy"
+const PUT = "change-mechanical-file/add-file"
 
-/** Every `mobile-cut` page sits in a folder of its own beneath this one, inside akasha. */
 export const CUTS_FOLDER = "mobile-cli/mobile-cuts/pages"
 
 const PAGE_SUFFIX = `.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`
 
-/**
- * Raised where the cut pages cannot be read at all.
- *
- * Nothing catches this, and that is the point. A source that cannot be read must never be
- * answered as a source holding nothing. This module used to read the markdown pages under
- * `pages/mobile-cut`, and swallowed the "no such page type" refusal as an empty set: between
- * `c5fe126be1`, which took those markdown pages away, and `50c062b7e1`, which took their page
- * type away, every app read as owing a cut while six cuts existed for `alanwalton` alone.
- */
 export class CutsUnread extends Error {
   readonly at: string
   constructor(at: string, why: string) {
@@ -56,7 +46,6 @@ export interface CutStatus {
   readonly lastCut: CutFingerprint | null
 }
 
-/** One `mobile-cut` page, as the page file itself declares it. */
 export interface CutPage {
   readonly slug: string
   readonly path: string
@@ -86,7 +75,6 @@ export function cutPageNameFor(appSlug: string, buildNumber: number): string {
   return `${appSlug}-${buildNumber}`
 }
 
-/** A cut page sits in a folder named for its slug, so that entry files can sit beside it. */
 export function cutPagePath(slug: string): string {
   return `${CUTS_FOLDER}/${slug}/${slug}${PAGE_SUFFIX}`
 }
@@ -110,12 +98,6 @@ function pathsUnder(root: string): readonly string[] {
   return found.sort()
 }
 
-/**
- * Every cut page inside akasha.
- *
- * A page that will not load raises rather than being left out, so that a fault in one cut is
- * never answered as that cut never having been taken.
- */
 export function readCutPages(): readonly CutPage[] {
   const root = akashaRoot()
   const found: CutPage[] = []
@@ -151,7 +133,6 @@ export function fingerprintOf(values: z.infer<typeof cutFingerprintValues>): Cut
   }
 }
 
-/** The body of the page one taken cut is remembered by. A TypeScript page mints its own id. */
 export function cutPageBody(appSlug: string, fp: CutFingerprint): string {
   const slug = cutPageNameFor(appSlug, fp.buildNumber)
   return [
@@ -179,24 +160,23 @@ export async function recordCutFingerprint(appSlug: string, fp: CutFingerprint):
   const slug = cutPageNameFor(appSlug, fp.buildNumber)
   const path = cutPagePath(slug)
   const root = akashaRoot()
-  const said = await landedMechanically(
+  const said = await runMechanicalChange(
     root,
-    CUT_WRITER,
-    [{ path, body: new TextEncoder().encode(cutPageBody(appSlug, fp)) }],
+    [{ at: PUT, given: { at: path, body: cutPageBody(appSlug, fp) } }],
     `record the ${appSlug} cut for build ${fp.buildNumber}`
   )
-  const why = said.refusals.length > 0 ? said.refusals.join("\n") : said.report.join("\n")
-  if (said.code !== 0) {
+  const wrong = "refusals" in said ? said.refusals : said.wrong
+  if (wrong.length > 0) {
     throw new Error(
       `\`${MOBILE_CUT_PAGE_TYPE_SLUG}/${slug}\` was not filed, so \`mobile cut-status\` would keep ` +
         `answering against the newest fingerprint already filed rather than against build ` +
-        `${fp.buildNumber}: ${why}`
+        `${fp.buildNumber}: ${wrong.join("\n")}`
     )
   }
   if (valueAt(path, root) === null) {
     throw new Error(
       `\`${MOBILE_CUT_PAGE_TYPE_SLUG}/${slug}\` reported as landed at ${path}, but nothing there ` +
-        `declares a page value, so nothing is filed for build ${fp.buildNumber}: ${why}`
+        `declares a page value, so nothing is filed for build ${fp.buildNumber}`
     )
   }
   return Promise.resolve()

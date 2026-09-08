@@ -15,6 +15,10 @@ export const cutFingerprint = {
     },
     {
       invariantKind: "departure",
+      statement: "A cut page's folder is named for that cut's slug.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A cut source that cannot be read raises rather than reading as no cut taken.",
     },
     {
@@ -46,6 +50,11 @@ export const cutFingerprint = {
     {
       invariantKind: "departure",
       statement: "A taken cut is filed as the `mobile-cut` page named for its app and its build.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The change adding a file files the fingerprint rather than an edit composed here.",
     },
     {
       invariantKind: "departure",
