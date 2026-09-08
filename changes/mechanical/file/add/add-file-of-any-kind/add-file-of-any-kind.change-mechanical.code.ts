@@ -1,11 +1,10 @@
-import { extname } from "node:path"
 import { insertedInto } from "@akasha/code/value-inserting"
 import { uuidVersion7 } from "@akasha/id-minting/uuid-version-7"
-import { namedUnder, pageNamed } from "@akasha/pages/page-file-name"
 import { loadedFrom } from "@akasha/pages/page-value"
 import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { type Kind, kindOf } from "../../../../modules/target-kinding/target-kinding.module.code.ts"
 
 const AUTO = "auto"
 
@@ -15,32 +14,18 @@ const HELD = "the body states an `id` of its own, so `id` is left out or said as
 
 const NO_LITERAL = "the body declares no literal, so no `id` goes into the body"
 
-const ADD_FILE = "change-mechanical-file/add-file"
+const ADDRESSES = {
+  file: "change-mechanical-file/add-file",
+  "file-code": "change-mechanical/add-file-code",
+  "file-page": "change-mechanical/add-file-page",
+  "file-page-property": "change-mechanical/add-file-page-property",
+  "file-page-type": "change-mechanical/add-file-page-type",
+} as const
 
-const ADD_FILE_CODE = "change-mechanical/add-file-code"
-
-const ADD_FILE_PAGE = "change-mechanical/add-file-page"
-
-const ADD_FILE_PAGE_TYPE = "change-mechanical/add-file-page-type"
-
-const ADD_FILE_PAGE_PROPERTY = "change-mechanical/add-file-page-property"
-
-const PAGE_TYPE = "page-type"
-
-const PAGE_PROPERTY = "page-property"
-
-const CODE = new Set([".ts", ".tsx"])
-
-const PAGES = new Set<string>([ADD_FILE_PAGE, ADD_FILE_PAGE_TYPE, ADD_FILE_PAGE_PROPERTY])
+const PAGES = new Set<Kind>(["file-page", "file-page-property", "file-page-type"])
 
 export function addressFor(world: World, at: string) {
-  const named = world.index.pageTypesIn()
-  if (pageNamed(at, named)) {
-    if (namedUnder(at, named)?.pageTypeSlug === PAGE_TYPE) return ADD_FILE_PAGE_TYPE
-    if (pageNamed(at, world.index.kindsUnder(PAGE_PROPERTY))) return ADD_FILE_PAGE_PROPERTY
-    return ADD_FILE_PAGE
-  }
-  return CODE.has(extname(at)) ? ADD_FILE_CODE : ADD_FILE
+  return ADDRESSES[kindOf(world, at)]
 }
 
 export function idFilled(at: string, body: string, said: string): string | { refused: string } {
@@ -60,8 +45,9 @@ export type Asked = {
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
-  const address = addressFor(world, given.at)
-  if (!PAGES.has(address)) {
+  const kind = kindOf(world, given.at)
+  const address = ADDRESSES[kind]
+  if (!PAGES.has(kind)) {
     return (await reach(world, address, { at: given.at, body: given.body })).said
   }
   const filled = idFilled(given.at, given.body, given.id ?? AUTO)
