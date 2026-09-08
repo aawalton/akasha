@@ -65,7 +65,7 @@ export default [
   ),
   route(
     "api/media/:pageId/:medium/hls/:segment",
-    "routes/api.media.$pageId.$medium.hls.$segment.ts"
+    "routes/alan-web-api-media-hls-segment/alan-web-api-media-hls-segment.route.code.ts"
   ),
   route("api/media/:pageId/:medium", "routes/api.media.$pageId.$medium.ts"),
   route("api/load", "routes/api.load.ts"),
