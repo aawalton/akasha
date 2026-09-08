@@ -25,7 +25,6 @@ import type { LearnPoints } from "./properties/learn-points.number-property.ts"
 import type { LovePoints } from "./properties/love-points.number-property.ts"
 import type { Meals } from "./properties/meals.text-property.ts"
 import type { NutritionPoints } from "./properties/nutrition-points.number-property.ts"
-import type { PersonaDays } from "./properties/persona-days.text-property.ts"
 import type { SafetyLevel } from "./properties/safety-level.text-property.ts"
 import type { Sessions } from "./properties/sessions.page-property-entry.ts"
 import type { SleepPoints } from "./properties/sleep-points.number-property.ts"
@@ -45,7 +44,6 @@ export type WakeDay = Page & {
   version?: Version
   lastViewedAt?: LastViewedAt
   safetyLevel?: SafetyLevel
-  personaDays?: PersonaDays
   meals?: Meals
   healthPoints?: HealthPoints
   taskPoints?: TaskPoints
@@ -144,7 +142,6 @@ export const wakeDay = {
     "page-property-entry/sessions",
     "text-property/date",
     "text-property/meals",
-    "text-property/persona-days",
     "text-property/recurrence",
     "text-property/safety-level",
     "text-property/to-do-slug",
@@ -156,7 +153,6 @@ export const wakeDay = {
     { pagePropertySlug: "text-property/version", required: false, many: false },
     { pagePropertySlug: "instant-property/last-viewed-at", required: false, many: false },
     { pagePropertySlug: "text-property/safety-level", required: false, many: false },
-    { pagePropertySlug: "text-property/persona-days", required: false, many: true, maxCount: null },
     { pagePropertySlug: "text-property/meals", required: false, many: true, maxCount: null },
     { pagePropertySlug: "number-property/health-points", required: false, many: false },
     { pagePropertySlug: "number-property/task-points", required: false, many: false },

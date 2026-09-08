@@ -33,7 +33,6 @@ export const DAY_FIELDS: readonly DayField[] = [
   carried("version", "version"),
   carried("last-viewed-at", "lastViewedAt"),
   carried("safety-level", "safetyLevel"),
-  carried("persona-days", "personaDays"),
   carried("meals", "meals"),
   carried("health-points", "healthPoints"),
   carried("task-points", "taskPoints"),
