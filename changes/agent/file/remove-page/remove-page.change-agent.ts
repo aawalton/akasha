@@ -38,8 +38,7 @@ export const removePage = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page property is taken away by the partial change taking an ordinary page away.",
+      statement: "A page property is handed to the partial change taking a page property away.",
     },
   ],
 } as const satisfies ChangeAgent
