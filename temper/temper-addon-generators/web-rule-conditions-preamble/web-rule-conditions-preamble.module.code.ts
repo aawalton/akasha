@@ -3,7 +3,6 @@ export const WEB_CONDITIONS_PREAMBLE = `\
  * Inventory Rule Conditions (Generated)
  *
  * Condition evaluation for the inventory rule matcher (web platform).
- * Source: rules-engine/rule-conditions/rule-conditions.module.code.ts
  *
  * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
