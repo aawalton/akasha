@@ -24,7 +24,7 @@ import {
   landingFor,
   moveFolderPackage,
   runChange,
-} from "./move-folder-package.change-checked.code.ts"
+} from "./move-folder-package.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 

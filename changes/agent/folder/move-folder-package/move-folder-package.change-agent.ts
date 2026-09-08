@@ -1,8 +1,8 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const moveFolderPackage = {
   id: "01a07c5e-055f-7000-a6d5-243a29d1858a",
-  pageTypeSlug: "change-checked",
+  pageTypeSlug: "change-agent",
   slug: "move-folder-package",
   changeModeSlug: "change-mode-move",
   definition: "a workspace package carried to another folder, taking the slug that folder names",
@@ -42,4 +42,4 @@ export const moveFolderPackage = {
       statement: "No address is repointed beyond the ones the folder move repoints.",
     },
   ],
-} as const satisfies ChangeChecked
+} as const satisfies ChangeAgent

@@ -7,7 +7,7 @@ export const changeAgentFolder = {
   definition: "a change an agent reaches acting on a folder and everything under it",
   partSlugs: [
     "change-checked/move-folder",
-    "change-checked/move-folder-package",
+    "change-agent/move-folder-package",
     "change-checked/remove-page-type",
   ],
 } as const satisfies Domain
