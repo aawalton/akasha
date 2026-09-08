@@ -15,7 +15,8 @@ export const changeRunner = {
   definition: "a module running a change named by the address that change is filed under",
   pluralSlug: "change-runners",
   partSlugs: [
-    "change-runner/change-running",
+    "change-runner/agent-change-running",
+    "change-runner/mechanical-change-running",
     "module/change-loading",
     "file-property/addressed",
     "relation-property/reached-slug",

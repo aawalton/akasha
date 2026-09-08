@@ -8,7 +8,9 @@ import {
   shadowFor,
   shadowOnto,
 } from "../../../pages/shadow/shadow.module.code.ts"
-import type { Changes } from "../../runners/pages/change-running/change-running.change-runner.addressed.ts"
+import type { Changes as AgentChanges } from "../../runners/pages/agent-change-running/agent-change-running.change-runner.addressed.ts"
+import type { Changes as MechanicalChanges } from "../../runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
+
 import {
   type BodyOf,
   gathered,
@@ -36,12 +38,14 @@ export const NOTHING_OVER: Answer = { edits: [], refused: null }
 const REACHES_NOTHING: Reaching = (_world, at) =>
   Promise.resolve(refusing(`\`${at}\` is reached by no runner, so no change was run`))
 
+export type Reaches = keyof AgentChanges | keyof MechanicalChanges
+
 export type Reached = {
   readonly said: Answer
   readonly world: World
 }
 
-export async function reach(world: World, at: keyof Changes, given: unknown): Promise<Reached> {
+export async function reach(world: World, at: Reaches, given: unknown): Promise<Reached> {
   const said = await (world.reaching ?? REACHES_NOTHING)(world, at, given)
   if (said.refused !== null) return { said, world }
   try {

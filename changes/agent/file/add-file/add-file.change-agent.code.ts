@@ -6,7 +6,7 @@ import { loadedFrom } from "@akasha/pages/page-value"
 import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import type { Changes } from "../../../runners/pages/change-running/change-running.change-runner.addressed.ts"
+import type { Changes } from "../../../runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
 
 const AT = "at"
 
