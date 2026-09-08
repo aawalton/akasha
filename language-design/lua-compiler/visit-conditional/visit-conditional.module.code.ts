@@ -7,7 +7,7 @@ import {
   type WithPrecedingStatements,
 } from "../preceding-statements/preceding-statements.module.code.ts"
 import { performHoisting, ScopeType } from "../scope/scope.module.code.ts"
-import { truthyOnlyConditionalValue } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
+import { truthyOnlyConditionalValue } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"

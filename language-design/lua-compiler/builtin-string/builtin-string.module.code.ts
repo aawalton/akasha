@@ -3,7 +3,7 @@ import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { unsupportedProperty } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
+import { unsupportedProperty } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 import {
   addToNumericExpression,
   createNaN,

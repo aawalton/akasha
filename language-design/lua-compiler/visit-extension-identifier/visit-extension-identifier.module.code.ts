@@ -5,7 +5,7 @@ import {
   invalidMultiFunctionUse,
   invalidRangeUse,
   invalidVarargUse,
-} from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
+} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 
 const extensionKindToValueName: { [T in ExtensionKind]?: string } = {
   [ExtensionKind.MultiFunction]: "$multi",

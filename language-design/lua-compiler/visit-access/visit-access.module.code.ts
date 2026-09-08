@@ -15,7 +15,7 @@ import {
   invalidCallExtensionUse,
   invalidMultiReturnAccess,
   unsupportedOptionalCompileMembersOnly,
-} from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
+} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 import { addToNumericExpression } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import { assert } from "../tstl-utils/tstl-utils.module.code.ts"

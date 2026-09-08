@@ -23,7 +23,7 @@ import type {
 import type { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import type { Scope, ScopeType } from "../scope/scope.module.code.ts"
 import type { SymbolInfo } from "../symbols/symbols.module.code.ts"
-import { unsupportedNodeKind } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
+import { unsupportedNodeKind } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 import {
   type OneToManyVisitorResult,
   unwrapVisitorResult,

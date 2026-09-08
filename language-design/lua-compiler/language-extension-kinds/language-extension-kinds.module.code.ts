@@ -3,7 +3,7 @@ import type { TransformationContext } from "../context-transformation-context/co
 import {
   invalidMethodCallExtensionUse,
   invalidSpreadInCallExtension,
-} from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
+} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 
 export const ExtensionKind = {
   MultiFunction: "MultiFunction",

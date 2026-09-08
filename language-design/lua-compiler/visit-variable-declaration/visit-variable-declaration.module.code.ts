@@ -7,7 +7,7 @@ import { addExportToIdentifier } from "../export-scope/export-scope.module.code.
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import { unsupportedVarDeclaration } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
+import { unsupportedVarDeclaration } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 import {
   createBoundedUnpackCall,
   createLocalOrExportedOrGlobalDeclaration,

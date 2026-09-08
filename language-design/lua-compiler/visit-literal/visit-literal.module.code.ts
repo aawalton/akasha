@@ -9,7 +9,7 @@ import { trackSymbolReference } from "../symbols/symbols.module.code.ts"
 import {
   undefinedInArrayLiteral,
   unsupportedAccessorInObjectLiteral,
-} from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
+} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"

@@ -8,7 +8,7 @@ import { willWrapThisVoidAdapter } from "../this-void-adapter/this-void-adapter.
 import {
   unsupportedNoSelfFunctionConversion,
   unsupportedOverloadAssignment,
-} from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
+} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 import { cast, getOrUpdate } from "../tstl-utils/tstl-utils.module.code.ts"
 import { isReferenceType } from "../typescript/typescript.module.code.ts"
 

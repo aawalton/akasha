@@ -7,7 +7,7 @@ import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts
 import {
   annotationInvalidArgumentCount,
   unsupportedArrayWithLengthConstructor,
-} from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
+} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import { isTableNewCall } from "../visit-extension-table/visit-extension-table.module.code.ts"
 

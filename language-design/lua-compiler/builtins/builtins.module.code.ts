@@ -44,7 +44,7 @@ import { maybeWrapThisVoidAsAdapter } from "../this-void-adapter/this-void-adapt
 import {
   unsupportedBuiltinOptionalCall,
   unsupportedProperty,
-} from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
+} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 import { createNaN } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
