@@ -25,7 +25,7 @@ import type { LearnPoints } from "./properties/learn-points.number-property.ts"
 import type { LovePoints } from "./properties/love-points.number-property.ts"
 import type { Meals } from "./properties/meals.text-property.ts"
 import type { NutritionPoints } from "./properties/nutrition-points.number-property.ts"
-import type { PersonaMessages } from "./properties/persona-messages.page-property-entry.ts"
+import type { PersonaMessages } from "./properties/persona-messages.record-property.ts"
 import type { SafetyLevel } from "./properties/safety-level.text-property.ts"
 import type { Sessions } from "./properties/sessions.page-property-entry.ts"
 import type { SleepPoints } from "./properties/sleep-points.number-property.ts"
@@ -142,8 +142,8 @@ export const wakeDay = {
     "number-property/words-read-points",
     "number-property/words-read-snapshot",
     "page-property-entry/completed-tasks",
-    "page-property-entry/persona-messages",
     "page-property-entry/sessions",
+    "record-property/persona-messages",
     "relation-property/messaged-persona-slug",
     "text-property/date",
     "text-property/meals",
@@ -210,9 +210,10 @@ export const wakeDay = {
     { pagePropertySlug: "page-property-entry/sessions", required: false, many: false },
     { pagePropertySlug: "page-property-entry/completed-tasks", required: false, many: false },
     {
-      pagePropertySlug: "page-property-entry/persona-messages",
+      pagePropertySlug: "record-property/persona-messages",
       required: false,
-      many: false,
+      many: true,
+      maxCount: null,
       uncommitted: true,
     },
     { pagePropertySlug: "computed-property/activity-calories", required: false, many: false },
@@ -261,11 +262,11 @@ export const wakeDay = {
     },
     {
       invariantKind: "departure",
-      statement: "What Alan wrote to each persona that day is an entry beside the day too.",
+      statement: "How many messages Alan wrote each persona that day is counted on the day.",
     },
     {
       invariantKind: "departure",
-      statement: "Those entries alone stay outside the commit.",
+      statement: "That count alone stays outside the commit.",
     },
     {
       invariantKind: "departure",
