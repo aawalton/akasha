@@ -6,4 +6,14 @@ export const changeMechanicalFileContentMove = {
   slug: "change-mechanical-file-content-move",
   definition: "a mechanical change carrying part of what a file holds to another place",
   partSlugs: ["change-mechanical-file-content/move-property-value"],
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement: "No rung here carries a value out of one file and into another.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a carry is a remove and an add, which the changes for those answer.",
+    },
+  ],
 } as const satisfies Domain
