@@ -8,7 +8,7 @@ import {
 
 const HELD = [
   "design/colors/pages/yellow.color.ts",
-  "utils-run/running/running.module.code.ts",
+  "utils/run/running/running.module.code.ts",
   "pages/name-formats/modules/name-matching/name-matching.module.code.ts",
 ]
 
@@ -27,9 +27,9 @@ test("a literal the index knows a page at is refused", () => {
 })
 
 test("a literal naming a folder the index files pages under is refused", () => {
-  const said = only('const a = "utils-run/running/"\n')
+  const said = only('const a = "utils/run/running/"\n')
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("utils-run/running")
+  expect(said[0]).toContain("utils/run/running")
 })
 
 test("a folder is named with or without the separator closing it", () => {
@@ -55,7 +55,7 @@ test("a literal the index knows nothing at is let through", () => {
 })
 
 test("a specifier is left to the checks that judge a specifier", () => {
-  expect(only('import { a } from "utils-run/running/running.module.code.ts"\n')).toEqual([])
+  expect(only('import { a } from "utils/run/running/running.module.code.ts"\n')).toEqual([])
 })
 
 test("a literal matched against rather than read is refused all the same", () => {
@@ -68,7 +68,7 @@ test("the refusal names the line the literal sits on", () => {
 })
 
 test("each literal is named on its own", () => {
-  expect(only('const a = "design/colors"\nconst b = "utils-run/running"\n')).toHaveLength(2)
+  expect(only('const a = "design/colors"\nconst b = "utils/run/running"\n')).toHaveLength(2)
 })
 
 test("a long literal is shortened where the refusal names that literal", () => {
