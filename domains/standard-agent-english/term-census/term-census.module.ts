@@ -17,7 +17,15 @@ export const termCensus = {
     },
     {
       invariantKind: "departure",
-      statement: "A term is defined where a page carries that term as a slug.",
+      statement: "A domain name is a defined term.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word a term page spells is a defined term.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A banned word is defined as surely as an allowed one.",
     },
     {
       invariantKind: "departure",

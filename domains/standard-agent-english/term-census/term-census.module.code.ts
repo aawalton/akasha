@@ -1,4 +1,9 @@
 import { domainsRead } from "@akasha/domains/domain-reading"
+import { everyOfType, readingIn } from "@akasha/pages/index-reading"
+import { kindsUnder } from "@akasha/pages/page-type-descent"
+import { textAt, type Value, valueAt } from "@akasha/pages/page-value"
+
+const TERM = "term"
 
 const SPELT = /`([^`]*)`/g
 
@@ -20,8 +25,28 @@ export function kebabOf(form: string): string {
   return form.replace(CAMEL, "-").replaceAll("_", "-").toLowerCase()
 }
 
+function spellingsIn(root: string): readonly string[] {
+  const found: string[] = []
+  for (const kind of kindsUnder(TERM, readingIn(root), (path) => valueAt(path, root))) {
+    for (const page of everyOfType(root, kind)) {
+      let value: Value | null
+      try {
+        value = valueAt(page.path, root)
+      } catch {
+        continue
+      }
+      if (value === null) continue
+      const spelling = textAt(value, "spelling")
+      if (spelling !== null) found.push(spelling.toLowerCase())
+    }
+  }
+  return found
+}
+
 export function definedTerms(root: string): ReadonlySet<string> {
-  return new Set(domainsRead(root).map((read) => read.slug))
+  const found = new Set(domainsRead(root).map((read) => read.slug))
+  for (const spelling of spellingsIn(root)) found.add(spelling)
+  return found
 }
 
 function speltKind(form: string, defined: ReadonlySet<string>): TermKind {
