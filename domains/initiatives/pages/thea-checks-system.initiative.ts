@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
-        "Cluster-checks 32 down to 2, eight ported, forty-one ablated. Left are checksum-annotation-substitution behind intent 10 and syntax-bundle, whose registry is down to popover-viewport-safety alone. That one is the best-built of the lot: it derives the six capped wrapper tags from design/primitives and throws where the package moved or no wrapper caps. 726 tsx judged, 104 uses of those tags, 0 findings. component-layout answered zero on both arms and took six modules with it.",
+        "Cluster-checks 32 down to 1: only checksum-annotation-substitution is left, behind intent 10. syntax-bundle is gone. The popover check became a code-check rather than a syntax rule, Derived Reach barring a list in the check, and deriving from every tsx rather than from design/primitives found a seventh wrapper the old check never saw, ItemTooltipPopover. It runs at patch, 0 refusals, 128ms for one file.",
     },
     { statement: "The old system carries no check of its own." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
