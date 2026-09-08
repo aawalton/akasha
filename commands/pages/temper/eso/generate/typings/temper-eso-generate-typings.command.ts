@@ -19,7 +19,8 @@ export const temperEsoGenerateTypings = {
     "the opt-in manifest is the scope: the dump describes thousands of tokens and an addon wants a few hundred, so a token the manifest does not name is absent from the declarations.",
     "an enum a kept token names is kept too, and so is an object above a kept object.",
     "each written file carries the clone provenance line and the API version it was built from, which is what the freshness audit weighs.",
-    "the written files are formatted with the written checkout's own Biome, so a run leaves the tree as a run from inside it would have.",
+    "the five files land together as one commit through the mechanical change that writes a code file, which formats each body as it lands.",
+    "a file the checkout already holds is left out of that change, so a run over unchanged documentation lands nothing.",
     "a clone that is not on this workstation refuses the call rather than writing thinner declarations.",
   ],
   invariants: [
@@ -44,6 +45,18 @@ export const temperEsoGenerateTypings = {
     {
       invariantKind: "departure",
       statement: "The checkout written into is named on the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The declarations land as one mechanical change rather than written here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the checkout already holds is left out of that change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The landing formats each body, so nothing here runs a formatter.",
     },
     {
       invariantKind: "departure",

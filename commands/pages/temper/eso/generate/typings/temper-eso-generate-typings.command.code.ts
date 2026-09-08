@@ -1,6 +1,7 @@
 import { realpathSync } from "node:fs"
-import { mkdir, readFile, writeFile } from "node:fs/promises"
-import { join, resolve } from "node:path"
+import { readFile } from "node:fs/promises"
+import { resolve } from "node:path"
+import { type Asking, runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
@@ -37,6 +38,10 @@ const SELF = "akasha temper-eso-generate-typings"
 const CODE_ROOT_FLAG = "--code-root"
 
 const OUT_REL = "temper/addons/types/eso/generated"
+
+const PUT = "change-mechanical/add-file-code"
+
+const MESSAGE = "the game's API declarations, read out of the game's own documentation"
 
 const INDEX_BODY = `/// <reference path="./enums.d.ts" />
 /// <reference path="./functions.d.ts" />
@@ -96,41 +101,42 @@ export async function temperEsoGenerateTypings(argv: readonly string[] = []): Pr
   const stamped = (body: string): string => `${stamp}\n${body}`
 
   const outDir = resolve(root, OUT_REL)
-  try {
-    await mkdir(outDir, { recursive: true })
-    await writeFile(join(outDir, "enums.d.ts"), stamped(generateEnumsFile(selected.enums)))
-    await writeFile(
-      join(outDir, "functions.d.ts"),
-      stamped(generateFunctionsFile(selected.functions))
-    )
-    await writeFile(join(outDir, "events.d.ts"), stamped(generateEventsFile(selected.events)))
-    await writeFile(join(outDir, "objects.d.ts"), stamped(generateObjectsFile(selected.objects)))
-    await writeFile(join(outDir, "index.d.ts"), stamped(INDEX_BODY))
-  } catch (thrown) {
-    return refused(
-      `the declarations were not written whole into ${outDir} — ${saidShort(thrown)}`,
-      FAILED
-    )
+  const bodies: readonly (readonly [string, string])[] = [
+    ["enums.d.ts", stamped(generateEnumsFile(selected.enums))],
+    ["functions.d.ts", stamped(generateFunctionsFile(selected.functions))],
+    ["events.d.ts", stamped(generateEventsFile(selected.events))],
+    ["objects.d.ts", stamped(generateObjectsFile(selected.objects))],
+    ["index.d.ts", stamped(INDEX_BODY)],
+  ]
+
+  const asked: Asking[] = []
+  for (const [name, body] of bodies) {
+    const at = `${OUT_REL}/${name}`
+    let had: string | null = null
+    try {
+      had = await readFile(resolve(root, at), "utf8")
+    } catch {}
+    if (had !== body) asked.push({ at: PUT, given: { at, body } })
   }
 
-  const biome = Bun.spawn(["bunx", "biome", "format", "--write", outDir], {
-    cwd: root,
-    stdout: "ignore",
-    stderr: "ignore",
-  })
-  const formatted = await biome.exited
-  if (formatted !== 0) {
-    return refused(
-      `Biome left ${outDir} unformatted (exit ${String(formatted)}), so the declarations differ from what a run inside that checkout would leave`,
-      FAILED
-    )
+  if (asked.length > 0) {
+    const landed = await runMechanicalChange(root, asked, MESSAGE)
+    if ("refusals" in landed) {
+      return refused(
+        `the declarations were not landed whole into ${outDir} — ${landed.refusals.join("; ")}`,
+        FAILED
+      )
+    }
   }
 
   return answering(
     [
-      `wrote ${String(selected.functions.length)} function(s), ${String(selected.objects.length)} object(s), ` +
+      `${String(selected.functions.length)} function(s), ${String(selected.objects.length)} object(s), ` +
         `${String(selected.events.length)} event(s) and ${String(selected.enums.length)} enum(s) ` +
-        `into ${outDir}`,
+        `are declared in ${outDir}`,
+      asked.length === 0
+        ? `${outDir} already held every one, so nothing landed`
+        : `landed ${String(asked.length)} file(s)`,
       `read from ${docPath} at API version ${String(apiVersion)}`,
     ],
     [],
