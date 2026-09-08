@@ -1,5 +1,5 @@
 import type { Work } from "@akasha/pages/computed-property"
-import type { WakeDay } from "../wake-day.page-type.ts"
+import type { Day } from "../day.page-type.ts"
 
 const NO_RUNG = 0
 
@@ -10,7 +10,7 @@ const RUNGS = [
   { from: 0.25, rung: 1 },
 ] as const
 
-export const work: Work<WakeDay, number> = (page) => {
+export const work: Work<Day, number> = (page) => {
   const points = page.funPoints
   if (points === undefined) return NO_RUNG
   for (const { from, rung } of RUNGS) if (points >= from) return rung

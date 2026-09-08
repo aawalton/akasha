@@ -1,7 +1,7 @@
 import type { Work } from "@akasha/pages/computed-property"
-import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
+import type { WorkedDay } from "../day.page-type.worked.ts"
 
-export const work: Work<WorkedWakeDay, string> = (page) => {
+export const work: Work<WorkedDay, string> = (page) => {
   const lights = [
     page.faithStoplight,
     page.loveStoplight,

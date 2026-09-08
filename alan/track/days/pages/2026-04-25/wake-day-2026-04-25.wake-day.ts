@@ -1,9 +1,0 @@
-import type { WakeDay } from "../../wake-day.page-type.ts"
-
-export const wakeDay20260425 = {
-  id: "01a08285-1d76-7f65-93b6-107997b0aed5",
-  pageTypeSlug: "wake-day",
-  slug: "wake-day-2026-04-25",
-  title: "@date:2026-04-25",
-  date: "2026-04-25",
-} as const satisfies WakeDay

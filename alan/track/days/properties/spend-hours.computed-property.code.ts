@@ -1,6 +1,6 @@
 import type { Work } from "@akasha/pages/computed-property"
+import type { WorkedDay } from "../day.page-type.worked.ts"
 import { hoursBetween } from "../modules/hours-between/hours-between.computed-property-module.code.ts"
-import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
 
 function levelIn(held: unknown): number | null {
   if (typeof held === "number") return Number.isFinite(held) ? held : null
@@ -33,7 +33,7 @@ function gapIn(row: { safetyLevel?: unknown; difficultyLevel?: unknown }): numbe
   return safety - difficulty
 }
 
-export const work: Work<WorkedWakeDay, number> = (page) => {
+export const work: Work<WorkedDay, number> = (page) => {
   const rows = page.sessions
   if (!Array.isArray(rows)) return null
   const now = new Date().toISOString()

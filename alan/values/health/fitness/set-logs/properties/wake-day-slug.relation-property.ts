@@ -9,7 +9,7 @@ export const wakeDaySlug = {
   slug: "wake-day-slug",
   propertySlug: "wake-day-slug",
   definition: "the tracked day a set falls on",
-  targetPageTypeSlug: "page-type/wake-day",
+  targetPageTypeSlug: "page-type/day",
   invariants: [
     {
       invariantKind: "departure",

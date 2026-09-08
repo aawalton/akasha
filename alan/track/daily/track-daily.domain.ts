@@ -8,7 +8,7 @@ export const trackDaily = {
   partSlugs: [
     "page-type/email-entry",
     "page-type/eso-day",
-    "page-type/wake-day",
+    "page-type/day",
     "module/day-narrow-types",
     "module/day-place",
     "module/day-reading",

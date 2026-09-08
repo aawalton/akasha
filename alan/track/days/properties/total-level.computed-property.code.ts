@@ -1,5 +1,5 @@
 import type { Work } from "@akasha/pages/computed-property"
-import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
+import type { WorkedDay } from "../day.page-type.worked.ts"
 
 const NO_RUNG = 0
 
@@ -10,7 +10,7 @@ const RUNGS = [
   { from: 6, rung: 1 },
 ] as const
 
-export const work: Work<WorkedWakeDay, number> = (page) => {
+export const work: Work<WorkedDay, number> = (page) => {
   const levels = [
     page.faithLevel,
     page.loveLevel,
