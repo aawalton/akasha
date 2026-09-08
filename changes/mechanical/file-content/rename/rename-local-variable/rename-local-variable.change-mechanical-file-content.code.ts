@@ -1,7 +1,11 @@
 import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
-import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import {
+  refusing,
+  splicing,
+  stating,
+} from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Said, Splice } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
@@ -225,14 +229,15 @@ export function renameLocalVariable(path: string, text: string, given: Asked): S
   if (taken !== null) return refusing(taken)
   const found = spanning(bound.scope, named.text)
   if (found.length === 0) return refusing(`\`${named.text}\` names nothing inside its own scope`)
-  let body = text
-  for (const one of [...found].reverse()) {
-    const from = one.getStart(source)
+  const splices: Splice[] = found.map((one) => {
     const shorthand = one.parent !== undefined && ts.isShorthandPropertyAssignment(one.parent)
-    const put = shorthand ? `${named.text}: ${given.to}` : given.to
-    body = body.slice(0, from) + put + body.slice(one.getEnd())
-  }
-  return stating([{ kind: "replace", path, contentFrom: text, contentTo: body }])
+    return {
+      from: one.getStart(source),
+      to: one.getEnd(),
+      put: shorthand ? `${named.text}: ${given.to}` : given.to,
+    }
+  })
+  return stating(splicing(path, text, splices))
 }
 
 export type Given = {
