@@ -26,7 +26,6 @@ export const command = {
     "command/audit",
     "command/calendar",
     "command/complexity",
-    "command/compose-notices",
     "command/deploy",
     "command/dev-server",
     "command/drive",

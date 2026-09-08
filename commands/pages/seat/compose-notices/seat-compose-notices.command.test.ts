@@ -3,12 +3,18 @@ import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "nod
 import { join, resolve } from "node:path"
 import type { Given } from "@akasha/command-system/calling"
 import { NOTICES, notices, noticesUnder, render } from "@akasha/seat-system/compose-notices"
-import { composeNotices, OUT, pathOf, readIn, saidOf } from "./compose-notices.command.code.ts"
+import {
+  OUT,
+  pathOf,
+  readIn,
+  saidOf,
+  seatComposeNotices,
+} from "./seat-compose-notices.command.code.ts"
 
-const ROOT = resolve(import.meta.dir, "../..")
+const ROOT = resolve(import.meta.dir, "../../..")
 
 function givenIn(root: string): Given {
-  return { root, calledAs: "akasha compose-notices", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha seat compose-notices", from: root, writer: null, agentId: null }
 }
 
 function scratch(): string {
@@ -95,7 +101,7 @@ test("a folder holding no notice page is refused the same way", () => {
 test("what the module refuses to compose is what the command refuses with", () => {
   const folder = scratch()
   try {
-    const said = underRoot(folder, () => composeNotices([], givenIn(ROOT)))
+    const said = underRoot(folder, () => seatComposeNotices([], givenIn(ROOT)))
 
     expect(said.code).toBe(1)
     expect(said.report).toEqual([])
@@ -129,7 +135,7 @@ test("a word this does not take is named in its own refusal", () => {
 })
 
 test("a word this does not take refuses as a fault in the call", () => {
-  const said = composeNotices(["--help-me"], givenIn(ROOT))
+  const said = seatComposeNotices(["--help-me"], givenIn(ROOT))
 
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
@@ -145,7 +151,7 @@ test("what is said is indented two spaces", () => {
 })
 
 test("the happy answer parses as the JSON the editor's revive reads, out of the real checkout", () => {
-  const said = composeNotices([], givenIn(ROOT))
+  const said = seatComposeNotices([], givenIn(ROOT))
 
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
@@ -165,7 +171,7 @@ test("named an out path it writes there and says nothing", () => {
   const folder = scratch()
   const at = join(folder, "notices.json")
   try {
-    const said = composeNotices([OUT, at], givenIn(ROOT))
+    const said = seatComposeNotices([OUT, at], givenIn(ROOT))
 
     expect(said.code).toBe(0)
     expect(said.report).toEqual([])
@@ -174,7 +180,7 @@ test("named an out path it writes there and says nothing", () => {
 
     expect(written.endsWith("\n")).toBe(true)
     expect(JSON.parse(written)).toEqual(
-      JSON.parse(composeNotices([], givenIn(ROOT)).report[0] ?? "null")
+      JSON.parse(seatComposeNotices([], givenIn(ROOT)).report[0] ?? "null")
     )
   } finally {
     rmSync(folder, { recursive: true, force: true })

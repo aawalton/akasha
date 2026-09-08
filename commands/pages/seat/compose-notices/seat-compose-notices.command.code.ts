@@ -36,7 +36,7 @@ export function pathOf(said: string, root: string): string {
   return isAbsolute(said) ? said : resolve(root, said)
 }
 
-export function composeNotices(argv: readonly string[], given: Given): Answer {
+export function seatComposeNotices(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   let found: Readonly<Record<string, string>>
