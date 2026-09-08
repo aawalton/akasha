@@ -10,7 +10,6 @@ export const commandSystem = {
     "module/parse-args",
     "module/answer-bytes",
     "module/format-output",
-    "module/payload",
     "page-type/command",
     "module/calling",
     "module/command-answering",

@@ -1,5 +1,5 @@
 import { fail } from "@akasha/command-system/command-failing"
-import { readPayload, record, rejectUnknownFlags } from "@akasha/command-system/payload"
+import { readPayload, record, rejectUnknownFlags } from "@akasha/seat-system/payload"
 import { decideClaimedRedelivery } from "@akasha/seat-system/supervisor-claimed-redelivery-decide"
 import {
   parseClaimedRedelivery,
@@ -101,8 +101,6 @@ const DECISIONS: Readonly<Record<string, (value: unknown, path: string) => unkno
 
 const KEYS: readonly string[] = Object.keys(DECISIONS)
 
-// What an importer asks for: an answer to every decision the payload names. It throws rather
-// than exiting, so a supervisor asking a question wrong is told rather than ended.
 export function answer(payload: Record<string, unknown>): Record<string, unknown> {
   const asked = Object.keys(payload)
   if (asked.length === 0) {
@@ -123,7 +121,7 @@ export function answer(payload: Record<string, unknown>): Record<string, unknown
   return answers
 }
 
-function rejectArguments(argv: readonly string[]): void {
+function rejectArguments(argv: readonly string[]): undefined {
   rejectUnknownFlags(argv, [], [])
   const [first] = argv
   if (first !== undefined) {

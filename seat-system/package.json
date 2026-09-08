@@ -260,7 +260,8 @@
     "./log-day-writing": "./seat-log-days/log-day-writing/log-day-writing.module.code.ts",
     "./seat-reset": "./seat-reset/seat-reset.module.code.ts",
     "./seat-resume": "./seat-resume/seat-resume.module.code.ts",
-    "./seat-start": "./seat-start/seat-start.module.code.ts"
+    "./seat-start": "./seat-start/seat-start.module.code.ts",
+    "./payload": "./payload/payload.module.code.ts"
   },
   "dependencies": {
     "@akasha/agents": "workspace:*",

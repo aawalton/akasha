@@ -328,6 +328,7 @@ export const seatSystem = {
     "module/message-file-watch",
     "module/message-file",
     "module/run-supervisor",
+    "module/payload",
     "module/seat-call",
     "module/seat-running",
     "module/seat-turn-color",
