@@ -133,9 +133,9 @@ test("a tool this hook does not name is stood aside", () => {
 test("Write names the change carrying a whole body, and the apply landing it", () => {
   const root = repo()
   const said = judged(root, "akasha/held.ts") ?? ""
-  expect(said).toContain("akasha change add-file")
+  expect(said).toContain("akasha change draft add-file")
   expect(said).toContain("at: akasha/held.ts")
-  expect(said).toContain('akasha apply --message "<what this change is for>"')
+  expect(said).toContain("akasha change apply")
 })
 
 test("Write names no file the body is staged in", () => {
@@ -146,11 +146,11 @@ test("Write names no file the body is staged in", () => {
 test("Edit names the change replacing one passage, and the apply landing it", () => {
   const root = repo()
   const said = refusalFor(asking("Edit", "akasha/held.ts", root), root, root) ?? ""
-  expect(said).toContain("akasha change change-file")
+  expect(said).toContain("akasha change draft change-file")
   expect(said).toContain("at: akasha/held.ts")
-  expect(said).toContain("old ---")
-  expect(said).toContain("new ---")
-  expect(said).toContain('akasha apply --message "<what this change is for>"')
+  expect(said).toContain("old HEREDOC-OLD")
+  expect(said).toContain("new HEREDOC-NEW")
+  expect(said).toContain("akasha change apply")
 })
 
 test("Edit names no file a passage is staged in", () => {

@@ -93,7 +93,7 @@ function refusingPages(toolName: string, shown: string): string {
     ].join("\n")
   }
   const commands = "The akasha commands write this checkout — they check the change and commit it."
-  const why = '--message "<what this change is for>"'
+  const lands = "  akasha change apply"
   if (toolName === EDIT) {
     return [
       `${HOOK_NAME}: Edit lands on \`${shown}\`, inside this checkout.`,
@@ -101,35 +101,37 @@ function refusingPages(toolName: string, shown: string): string {
       "",
       "Pipe the passage being replaced and the passage replacing it into the change:",
       "",
-      "akasha change change-file <<'ARGS'",
+      "akasha change draft change-file <<'HEREDOC'",
       `at: ${shown}`,
-      "old ---",
+      "old HEREDOC-OLD",
       "<the passage being replaced>",
-      "---",
-      "new ---",
+      "HEREDOC-OLD",
+      "new HEREDOC-NEW",
       "<the passage replacing it>",
-      "---",
-      "ARGS",
+      "HEREDOC-NEW",
+      "HEREDOC",
       "",
-      `  akasha apply ${why}`,
+      "The draft keeps the edit beside your page, and this lands every edit kept:",
       "",
-      "A passage ending mid-line opens with `old --- no-newline`, because a heredoc adds one.",
+      lands,
+      "",
+      "A passage ending mid-line opens `old HEREDOC-OLD no-newline`, because a heredoc adds one.",
     ].join("\n")
   }
   return [
     `${HOOK_NAME}: Write lands on \`${shown}\`, inside this checkout.`,
     commands,
     "",
-    "Pipe the whole new body into the change, then apply it:",
+    "Pipe the whole new body into the change, then land it:",
     "",
-    "akasha change add-file <<'ARGS'",
+    "akasha change draft add-file <<'HEREDOC'",
     `at: ${shown}`,
-    "body ---",
+    "body HEREDOC-BODY",
     "<the whole body>",
-    "---",
-    "ARGS",
+    "HEREDOC-BODY",
+    "HEREDOC",
     "",
-    `  akasha apply ${why}`,
+    lands,
   ].join("\n")
 }
 
