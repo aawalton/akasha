@@ -12,6 +12,6 @@ export const utils = {
     "domain/utils-process",
     "domain/utils-run",
     "workspace-package/utils-system",
-    "workspace-package/utils-sync",
+    "domain/utils-sync",
   ],
 } as const satisfies WorkspacePackage

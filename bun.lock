@@ -47,7 +47,6 @@
         "@akasha/upscale": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@akasha/utils-sync": "workspace:*",
         "@akasha/utils-system": "workspace:*",
         "@akasha/wan": "workspace:*",
         "@akasha/zimage": "workspace:*",
@@ -290,7 +289,7 @@
         "@akasha/pages": "workspace:*",
         "@akasha/pages-service": "workspace:*",
         "@akasha/spotify": "workspace:*",
-        "@akasha/utils-sync": "workspace:*",
+        "@akasha/utils": "workspace:*",
       },
     },
     "alan/music/spotify": {
@@ -2901,6 +2900,7 @@
       "dependencies": {
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
@@ -2908,13 +2908,6 @@
       "name": "@akasha/utils-narrow",
       "dependencies": {
         "zod": "^4.3.6",
-      },
-    },
-    "utils/sync": {
-      "name": "@akasha/utils-sync",
-      "dependencies": {
-        "@akasha/pages-core": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
       },
     },
     "utils/system": {
@@ -3501,8 +3494,6 @@
     "@akasha/utils": ["@akasha/utils@workspace:utils"],
 
     "@akasha/utils-narrow": ["@akasha/utils-narrow@workspace:utils/narrow"],
-
-    "@akasha/utils-sync": ["@akasha/utils-sync@workspace:utils/sync"],
 
     "@akasha/utils-system": ["@akasha/utils-system@workspace:utils/system"],
 

@@ -8,7 +8,7 @@ import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { textIn } from "@akasha/pages/page-value-reading"
 import { composedFor, type Put } from "@akasha/pages-service/composing"
-import { todayYYYYMMDD } from "@akasha/utils-sync/today"
+import { todayYYYYMMDD } from "@akasha/utils/sync/today"
 import { searchLyrics } from "../../../../alan/music/catalog/lrclib-client/lrclib-client.module.code.ts"
 import {
   lyricsFieldsOf,

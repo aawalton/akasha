@@ -16,11 +16,14 @@
     "./process/port-holding": "./process/port-holding/port-holding.module.code.ts",
     "./process/proc-environ": "./process/proc-environ/proc-environ.module.code.ts",
     "./process/proc-reading": "./process/proc-reading/proc-reading.module.code.ts",
-    "./process/process-ending": "./process/process-ending/process-ending.module.code.ts"
+    "./process/process-ending": "./process/process-ending/process-ending.module.code.ts",
+    "./sync/page-type-props": "./sync/page-type-props/page-type-props.module.code.ts",
+    "./sync/today": "./sync/today/today.module.code.ts"
   },
   "dependencies": {
     "@akasha/code": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/pages-core": "workspace:*"
   }
 }
