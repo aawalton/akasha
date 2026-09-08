@@ -25,7 +25,7 @@ export const aelwynStrengthTraining = {
     {
       statement: "A joint's mobility reads as a direction.",
       workingMemory:
-        "Seven mobility readings exist, all dated 2026-06-19 to 2026-06-24. `akasha exercise-mobility-show` answers a trend for each of `supine-slr::right`, `supine-slr::left` and `wall-slide-overhead::n-a`, and every one reads `insufficient`. Overhead mobility near half range is already one of the thirteen coaching constraints, so what a reading would bound is programmed against today.",
+        "Seven mobility readings exist, all dated 2026-06-19 to 2026-06-24. `akasha exercise-mobility-show` answers a trend for each of `supine-slr::right`, `supine-slr::left` and `wall-slide-overhead::n-a`, and every one reads `insufficient`. Overhead mobility near half range is already one of the 23 fitness coaching notes, so what a reading would bound is programmed against today.",
     },
     {
       statement: "A layoff has a way back in that ran once.",
