@@ -12,6 +12,7 @@ export const smilingjennyWeb = {
   routerConfig: "ts",
   compileConfig: "json",
   viteConfig: "ts",
+  server: "ts",
   partSlugs: [
     "manifest/smilingjenny-web-manifests",
     "stylesheet/smilingjenny-web-look",
