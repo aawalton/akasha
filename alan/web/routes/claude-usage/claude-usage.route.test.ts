@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
+import type { Asked } from "@akasha/pages-service/asking"
 import {
   ACCOUNT,
-  type Asked,
   askingsAt,
   buildClaudeUsageResponse,
   type ClaudeUsageAnswers,

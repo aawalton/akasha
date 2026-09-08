@@ -14,20 +14,6 @@ export type UsageWidgetPayload = {
   tier: UsageTier
 }
 
-export { type Asked, askingFor, type Query, type Row }
-
-// THE FOUR SAVED QUERIES ARE ASKED OF THE PAGES HERE RATHER THAN NAMED AT THE OLD ENGINE. This
-// route asked `@shared/pages-query` for four page-query pages by slug, and the store behind that
-// engine holds only what a page states in the commit. Every figure the four reduce is declared
-// `uncommitted` on the claude-account page type and stands in the file beside each account's page,
-// so the store answered a fleet it could see and none of what that fleet had spent. The pages
-// system service reads the values beside a page as well as the ones in it, which is what makes
-// asking it for these four an answer rather than an empty set.
-//
-// THE SERVICE REDUCES NOTHING, SO THE REDUCTIONS STAND HERE. It answers rows. The mean and the
-// three "next instant" picks the four saved queries carried are taken over those rows below. The
-// `where`, `sortBy` and `limit` each pick states are the ones its saved query stated, so what the
-// service narrows to is unchanged; only where the last step happens has moved.
 export const MEAN_WEEKLY_USED = "the fleet's seven-day spend"
 export const NEXT_FIVE_HOUR_BACK = "the next five-hour window to come back"
 export const NEXT_SEVEN_DAY_BACK = "the next seven-day window to come back"
@@ -49,9 +35,6 @@ export type ClaudeUsageAskings = {
   readonly nextSevenDayEnd: Query
 }
 
-// What the four saved queries narrowed to, said as the service says it. `now` was a word the old
-// engine read for itself; the service takes an instant, so the one moment this response is built
-// against bounds all three picks and sets the tier as well.
 export function askingsAt(nowMs: number): ClaudeUsageAskings {
   const now = new Date(nowMs).toISOString()
   return {
@@ -111,13 +94,6 @@ function numberIn(row: Row, key: string): number | null {
   return Number.isFinite(found) ? found : null
 }
 
-// A MEAN OVER NO ACCOUNT IS NO PERCENTAGE RATHER THAN ZERO. An account carrying no reading is left
-// out of the average rather than counted as having spent nothing, which is the shape the old
-// reduction had: a figure it could not read moved neither the mean nor what the mean was taken
-// over. Where that leaves nothing to take a mean over, reading the empty sum as `avgUsedPct: 0`
-// draws Alan a fleet that has spent nothing, which is a claim about his capacity rather than the
-// absence it is. Refusing is what puts the true state on the tile: the widget reads anything but
-// 200 as unreachable, falls back to its last known reading, and draws `—` where it holds none.
 function meanUsedPct(asked: Asked): Reading<number> {
   if ("refused" in asked) return { ok: false, why: asked.refused }
   const { rows } = asked
@@ -136,9 +112,6 @@ function meanUsedPct(asked: Asked): Reading<number> {
   return { ok: true, value: Math.round(total / spent.length) }
 }
 
-// AN INSTANT NO ACCOUNT HOLDS IS ABSENT RATHER THAN UNREAD. A pick matching no account is a true
-// `null`: no window is pending, and the widget draws that as nothing pending. A pick that matched
-// an account and then carried no instant to read off it is a reading that failed, and refuses.
 function instantIn(asked: Asked, asking: string, key: string): Reading<number | null> {
   if ("refused" in asked) return { ok: false, why: asked.refused }
   const { rows } = asked
