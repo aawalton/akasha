@@ -40,7 +40,7 @@ export const claudeAccountHealth = {
     },
     {
       invariantKind: "departure",
-      statement: "An alert latch carries the instant handed in rather than an instant read here.",
+      statement: "An alert latch has the instant handed in rather than an instant read here.",
     },
     {
       invariantKind: "departure",

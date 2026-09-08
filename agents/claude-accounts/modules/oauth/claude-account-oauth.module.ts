@@ -71,7 +71,7 @@ export const claudeAccountOauth = {
     },
     {
       invariantKind: "departure",
-      statement: "A body carrying keys a wire shape does not name still parses.",
+      statement: "A body with keys a wire shape does not name still parses.",
     },
     {
       invariantKind: "departure",
@@ -115,7 +115,7 @@ export const claudeAccountOauth = {
     },
     {
       invariantKind: "departure",
-      statement: "A body carrying no OAuth error envelope is classified as not terminal.",
+      statement: "A body with no OAuth error envelope is classified as not terminal.",
     },
     {
       invariantKind: "departure",
@@ -199,11 +199,11 @@ export const claudeAccountOauth = {
     },
     {
       invariantKind: "departure",
-      statement: "A skip carries the whole seconds left rounded up.",
+      statement: "A skip has the whole seconds left rounded up.",
     },
     {
       invariantKind: "departure",
-      statement: "A refresh outcome that worked carries the credential the refresh answered with.",
+      statement: "A refresh outcome that worked has the credential the refresh answered with.",
     },
     {
       invariantKind: "departure",
@@ -215,7 +215,7 @@ export const claudeAccountOauth = {
     },
     {
       invariantKind: "departure",
-      statement: "A refresh outcome that failed may carry the status the refresh met.",
+      statement: "A refresh outcome that failed may have the status the refresh met.",
     },
     {
       invariantKind: "constraint",

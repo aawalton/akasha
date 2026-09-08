@@ -14,11 +14,11 @@ export const anthropicErrorEnvelope = {
     },
     {
       invariantKind: "departure",
-      statement: "An envelope carries a message as an optional field.",
+      statement: "An envelope has a message as an optional field.",
     },
     {
       invariantKind: "departure",
-      statement: "A body carrying keys the envelope does not name still parses.",
+      statement: "A body with keys the envelope does not name still parses.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const anthropicErrorEnvelope = {
     },
     {
       invariantKind: "departure",
-      statement: "A body carrying no envelope parses to nothing.",
+      statement: "A body with no envelope parses to nothing.",
     },
     {
       invariantKind: "departure",

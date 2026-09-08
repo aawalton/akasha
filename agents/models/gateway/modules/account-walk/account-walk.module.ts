@@ -28,7 +28,7 @@ export const accountWalk = {
     },
     {
       invariantKind: "departure",
-      statement: "Every attempt carries the token read for the account being tried.",
+      statement: "Every attempt has the token read for the account being tried.",
     },
     {
       invariantKind: "departure",
@@ -249,7 +249,7 @@ export const accountWalk = {
     },
     {
       invariantKind: "gap",
-      statement: "A 502 answered for a transport error carries no body naming the failure.",
+      statement: "A 502 answered for a transport error has no body naming the failure.",
     },
     {
       invariantKind: "gap",
@@ -266,7 +266,7 @@ export const accountWalk = {
     },
     {
       invariantKind: "gap",
-      statement: "A request rebuilt for a fast-mode replay carries no body of its own.",
+      statement: "A request rebuilt for a fast-mode replay has no body of its own.",
     },
   ],
 } as const satisfies Module

@@ -29,7 +29,7 @@ export const restatement = {
     },
     {
       invariantKind: "departure",
-      statement: "A page carrying no definition is judged by nothing here.",
+      statement: "A page with no definition is judged by nothing here.",
     },
     {
       invariantKind: "constraint",

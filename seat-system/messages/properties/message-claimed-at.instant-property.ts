@@ -11,7 +11,7 @@ export const messageClaimedAt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A message carrying no such instant is waiting to be read.",
+      statement: "A message with no such instant is waiting to be read.",
     },
     {
       invariantKind: "departure",

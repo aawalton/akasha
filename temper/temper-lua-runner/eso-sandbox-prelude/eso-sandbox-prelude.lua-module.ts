@@ -46,7 +46,7 @@ export const esoSandboxPrelude = {
     {
       invariantKind: "departure",
       statement:
-        "A game constant the loaded Lua branches on carries the value the game gives that constant.",
+        "A game constant the loaded Lua branches on has the value the game gives that constant.",
     },
     {
       invariantKind: "departure",

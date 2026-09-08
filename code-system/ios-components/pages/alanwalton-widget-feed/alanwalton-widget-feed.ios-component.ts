@@ -13,7 +13,7 @@ export const alanwaltonWidgetFeed = {
     },
     {
       invariantKind: "departure",
-      statement: "A cached reading carries the moment the cached reading was written.",
+      statement: "A cached reading has the moment the cached reading was written.",
     },
     {
       invariantKind: "departure",

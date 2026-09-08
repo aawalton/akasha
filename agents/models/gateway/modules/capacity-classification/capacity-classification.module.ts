@@ -55,7 +55,7 @@ export const capacityClassification = {
     },
     {
       invariantKind: "departure",
-      statement: "Every class carries a reason naming the values the headers held.",
+      statement: "Every class has a reason naming the values the headers held.",
     },
     {
       invariantKind: "stopgap",

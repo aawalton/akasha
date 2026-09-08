@@ -9,7 +9,7 @@ export const smilingjennyCategorizeWidget = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This file carries the bundle Jenny's widget extension starts at.",
+      statement: "This file has the bundle Jenny's widget extension starts at.",
     },
   ],
 } as const satisfies IosComponent

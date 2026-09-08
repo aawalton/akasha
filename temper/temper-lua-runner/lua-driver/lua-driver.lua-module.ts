@@ -17,7 +17,7 @@ export const luaDriver = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer says whether the script ran and carries either a value or an error.",
+      statement: "An answer says whether the script ran and has either a value or an error.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const luaDriver = {
     },
     {
       invariantKind: "departure",
-      statement: "A number JSON cannot carry is written as a tagged object.",
+      statement: "A number JSON cannot have is written as a tagged object.",
     },
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const alanwaltonClaudeUsageWidget = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This file carries the bundle Alan's widget extension starts at.",
+      statement: "This file has the bundle Alan's widget extension starts at.",
     },
   ],
 } as const satisfies IosComponent

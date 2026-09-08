@@ -73,7 +73,7 @@ export const claudeAccountCredentialPush = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing that does not carry the pair has that pair beside the page.",
+      statement: "A landing that does not have the pair has that pair beside the page.",
     },
     {
       invariantKind: "departure",

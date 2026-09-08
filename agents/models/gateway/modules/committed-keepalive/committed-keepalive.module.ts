@@ -122,7 +122,7 @@ export const committedKeepalive = {
     },
     {
       invariantKind: "departure",
-      statement: "A transport row carries the reason the pool was empty.",
+      statement: "A transport row has the reason the pool was empty.",
     },
     {
       invariantKind: "departure",

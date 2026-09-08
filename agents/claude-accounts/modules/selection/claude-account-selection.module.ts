@@ -55,7 +55,7 @@ export const claudeAccountSelection = {
     },
     {
       invariantKind: "departure",
-      statement: "A pool summary carries the count of the whole fleet.",
+      statement: "A pool summary has the count of the whole fleet.",
     },
     {
       invariantKind: "departure",
@@ -83,7 +83,7 @@ export const claudeAccountSelection = {
     },
     {
       invariantKind: "constraint",
-      statement: "A candidate carries the account slug the measurements are keyed by.",
+      statement: "A candidate has the account slug the measurements are keyed by.",
     },
     {
       invariantKind: "absence",

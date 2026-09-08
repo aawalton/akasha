@@ -78,7 +78,7 @@ export const authFailedRetry = {
     },
     {
       invariantKind: "gap",
-      statement: "The status handed back is 401 even where the original carries another status.",
+      statement: "The status handed back is 401 even where the original has another status.",
     },
     {
       invariantKind: "gap",
@@ -90,11 +90,11 @@ export const authFailedRetry = {
     },
     {
       invariantKind: "gap",
-      statement: "An ended attempt carries the content-encoding of a body already decoded.",
+      statement: "An ended attempt has the content-encoding of a body already decoded.",
     },
     {
       invariantKind: "gap",
-      statement: "An ended attempt carries the content-length of the compressed body.",
+      statement: "An ended attempt has the content-length of the compressed body.",
     },
   ],
 } as const satisfies Module

@@ -11,7 +11,7 @@ export const claudeAccountMarking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Where a mark is written is read from the declarations the page type carries.",
+      statement: "Where a mark is written is read from the declarations the page type has.",
     },
     {
       invariantKind: "departure",
@@ -60,11 +60,11 @@ export const claudeAccountMarking = {
     },
     {
       invariantKind: "departure",
-      statement: "A mark carrying a record is written beside the page as a record.",
+      statement: "A mark with a record is written beside the page as a record.",
     },
     {
       invariantKind: "departure",
-      statement: "A field of a record mark carries text or a finite number.",
+      statement: "A field of a record mark has text or a finite number.",
     },
     {
       invariantKind: "departure",
@@ -72,7 +72,7 @@ export const claudeAccountMarking = {
     },
     {
       invariantKind: "departure",
-      statement: "A record mark carrying a field named `__proto__` is refused.",
+      statement: "A record mark with a field named `__proto__` is refused.",
     },
     {
       invariantKind: "departure",
@@ -108,27 +108,27 @@ export const claudeAccountMarking = {
     },
     {
       invariantKind: "departure",
-      statement: "The subscription mark carries the reason as the text that reason is.",
+      statement: "The subscription mark has the reason as the text that reason is.",
     },
     {
       invariantKind: "departure",
-      statement: "A subscription mark carrying no reason takes the withdrawal away.",
+      statement: "A subscription mark with no reason takes the withdrawal away.",
     },
     {
       invariantKind: "departure",
-      statement: "The pacing mark carries each window's percentage used.",
+      statement: "The pacing mark has each window's percentage used.",
     },
     {
       invariantKind: "departure",
-      statement: "The pacing mark carries each window's reset moment.",
+      statement: "The pacing mark has each window's reset moment.",
     },
     {
       invariantKind: "departure",
-      statement: "The pacing mark carries each window's opening moment.",
+      statement: "The pacing mark has each window's opening moment.",
     },
     {
       invariantKind: "departure",
-      statement: "The pacing mark carries the moment the usage was read.",
+      statement: "The pacing mark has the moment the usage was read.",
     },
     {
       invariantKind: "departure",
