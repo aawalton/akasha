@@ -1,8 +1,8 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const removePageType = {
   id: "01a0783a-11c0-7891-a250-63a80bef1c95",
-  pageTypeSlug: "change-checked",
+  pageTypeSlug: "change-agent",
   slug: "remove-page-type",
   changeModeSlug: "change-mode-remove",
   definition: "one page type taken away, by the partial change taking a page type away",
@@ -37,4 +37,4 @@ export const removePageType = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-} as const satisfies ChangeChecked
+} as const satisfies ChangeAgent

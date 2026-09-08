@@ -8,6 +8,6 @@ export const changeAgentFolder = {
   partSlugs: [
     "change-checked/move-folder",
     "change-agent/move-folder-package",
-    "change-checked/remove-page-type",
+    "change-agent/remove-page-type",
   ],
 } as const satisfies Domain

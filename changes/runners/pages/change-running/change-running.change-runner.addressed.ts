@@ -23,6 +23,9 @@ export type Changes = {
   "change-agent/remove-package-alias": Parameters<
     typeof import("../../../agent/file-content/remove-package-alias/remove-package-alias.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/remove-page-type": Parameters<
+    typeof import("../../../agent/folder/remove-page-type/remove-page-type.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/remove-property-value": Parameters<
     typeof import("../../../agent/file-content/remove-property-value/remove-property-value.change-agent.code.ts")["runChange"]
   >[1]
@@ -49,9 +52,6 @@ export type Changes = {
   >[1]
   "change-checked/remove-page": Parameters<
     typeof import("../../../agent/file/remove-page/remove-page.change-checked.code.ts")["runChange"]
-  >[1]
-  "change-checked/remove-page-type": Parameters<
-    typeof import("../../../agent/folder/remove-page-type/remove-page-type.change-checked.code.ts")["runChange"]
   >[1]
   "change-mechanical-data/rename-page-address": Parameters<
     typeof import("../../../mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-data.code.ts")["runChange"]
