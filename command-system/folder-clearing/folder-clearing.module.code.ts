@@ -1,4 +1,4 @@
-import { existsSync, readdirSync, rmdirSync } from "node:fs"
+import { existsSync, readdirSync, rmdirSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
 
 const PARTED_BY = "/"
@@ -34,6 +34,28 @@ export function wouldClear(root: string, gone: readonly string[]): readonly stri
       continue
     }
     emptied.add(dir)
+    said.push(dir)
+  }
+  return said
+}
+
+export function isFolder(root: string, path: string): boolean {
+  return statSync(join(root, path), { throwIfNoEntry: false })?.isDirectory() === true
+}
+
+export function foldersUnder(root: string, path: string): readonly string[] {
+  const found: string[] = []
+  for (const one of readdirSync(join(root, path), { withFileTypes: true })) {
+    if (one.isDirectory()) found.push(...foldersUnder(root, `${path}${PARTED_BY}${one.name}`))
+  }
+  found.push(path)
+  return found
+}
+
+export function clearedUnder(root: string, path: string): readonly string[] {
+  const said: string[] = []
+  for (const dir of foldersUnder(root, path)) {
+    rmdirSync(join(root, dir))
     said.push(dir)
   }
   return said

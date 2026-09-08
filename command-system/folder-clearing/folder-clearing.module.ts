@@ -67,5 +67,10 @@ export const folderClearing = {
       invariantKind: "absence",
       statement: "Nothing here commits.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder taken away is swept innermost first, so a folder still holding a file throws.",
+    },
   ],
 } as const satisfies Module

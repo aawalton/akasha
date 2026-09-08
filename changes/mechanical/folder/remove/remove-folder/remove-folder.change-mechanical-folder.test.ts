@@ -69,11 +69,11 @@ test("a file the index names nowhere goes with the rest", async () => {
   expect(pathsIn(said)).toContain(`${FROM}/deep/notes.txt`)
 })
 
-test("a folder holding no file is refused", async () => {
+test("a folder holding no file is taken away as one path", async () => {
   const said = await runChange(worldIn(indexedRepo(HELD)), { at: "akasha/nine" })
 
-  expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toMatch(/holds no file/)
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([{ kind: "remove", path: "akasha/nine" }])
 })
 
 test("each file goes by the change reached at its address", async () => {

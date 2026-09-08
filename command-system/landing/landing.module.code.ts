@@ -12,7 +12,11 @@ import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.co
 import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
 import type { Bodies } from "../drafting/drafting.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
-import { clearedOff } from "../folder-clearing/folder-clearing.module.code.ts"
+import {
+  clearedOff,
+  clearedUnder,
+  isFolder,
+} from "../folder-clearing/folder-clearing.module.code.ts"
 import type { Keeping } from "../gate-building/gate-building.module.code.ts"
 import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
@@ -136,7 +140,8 @@ function wroteOnto(
   for (const one of changed) {
     const at = join(root, one.path)
     if (one.body === null) {
-      rmSync(at, { force: true })
+      if (isFolder(root, one.path)) clearedUnder(root, one.path)
+      else rmSync(at, { force: true })
       took.push(one.path)
       continue
     }

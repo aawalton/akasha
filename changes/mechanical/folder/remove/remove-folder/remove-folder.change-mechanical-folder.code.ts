@@ -1,4 +1,4 @@
-import { gathered, refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { gathered, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
@@ -11,7 +11,7 @@ export type Asked = {
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const under = [...world.under(given.at)].sort()
   if (under.length === 0) {
-    return refusing(`\`${given.at}\` holds no file, so nothing is taken away`)
+    return stating([{ kind: "remove", path: given.at }])
   }
   const taken: Answer[] = []
   let seen = world

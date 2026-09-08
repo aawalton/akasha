@@ -11,7 +11,7 @@ const AT = "akasha/code-system"
 
 const REMOVE_FOLDER = "change-mechanical-folder/remove-folder"
 
-const REFUSED = "`akasha/code-system` holds no file, so nothing is taken away"
+const REFUSED = "`akasha/code-system` holds no body, so nothing is taken away"
 
 type Carried = { at: string; given: unknown }
 

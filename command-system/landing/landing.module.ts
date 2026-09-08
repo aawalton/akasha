@@ -293,5 +293,9 @@ export const landing = {
       invariantKind: "absence",
       statement: "A draft is weighed against no importers.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A path taken away that is a folder is taken away as a folder.",
+    },
   ],
 } as const satisfies Module

@@ -3,7 +3,14 @@ import { rmSync } from "node:fs"
 import { join } from "node:path"
 import { put, there } from "@akasha/testing-system/putting"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { clearedOff, emptiedBy, wouldClear } from "./folder-clearing.module.code.ts"
+import {
+  clearedOff,
+  clearedUnder,
+  emptiedBy,
+  foldersUnder,
+  isFolder,
+  wouldClear,
+} from "./folder-clearing.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -72,4 +79,31 @@ test("a folder that is not there is passed over rather than answered for", () =>
   const root = world(KEPT)
   expect(clearedOff(root, [DEEP])).toEqual([])
   expect(there(root, KEPT)).toBe(true)
+})
+
+test("a path is told from a folder by what is at it", () => {
+  const root = world(KEPT)
+  expect(isFolder(root, "akasha")).toBe(true)
+  expect(isFolder(root, KEPT)).toBe(false)
+  expect(isFolder(root, "akasha/nowhere")).toBe(false)
+})
+
+test("the folders under a folder are answered innermost first, that folder last", () => {
+  const root = world(DEEP)
+  rmSync(join(root, DEEP))
+  expect(foldersUnder(root, "akasha")).toEqual(["akasha/one/deep", "akasha/one", "akasha"])
+})
+
+test("a folder holding no file goes, and every folder under it goes with it", () => {
+  const root = world(DEEP, KEPT)
+  rmSync(join(root, DEEP))
+  expect(clearedUnder(root, "akasha/one")).toEqual(["akasha/one/deep", "akasha/one"])
+  expect(there(root, "akasha/one")).toBe(false)
+  expect(there(root, KEPT)).toBe(true)
+})
+
+test("a folder still holding a file throws rather than taking that file away", () => {
+  const root = world(DEEP)
+  expect(() => clearedUnder(root, "akasha/one")).toThrow()
+  expect(there(root, DEEP)).toBe(true)
 })
