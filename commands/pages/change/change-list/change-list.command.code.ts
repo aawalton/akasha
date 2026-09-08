@@ -1,13 +1,13 @@
 import { editsAt } from "@akasha/changes/edits-keeping"
 import { agentPathOf } from "@akasha/context/warranting"
-import { mistaking } from "../../../command-system/asking/asking.module.code.ts"
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import { mistaking } from "../../../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
 import {
   listingHanded,
   listingKept,
-} from "../../../command-system/change-acting/change-acting.module.code.ts"
-import { subagentIn } from "../../../command-system/change-arguing/change-arguing.module.code.ts"
-import { noPageSaid } from "../../../command-system/change-running/change-running.module.code.ts"
+} from "../../../../command-system/change-acting/change-acting.module.code.ts"
+import { subagentIn } from "../../../../command-system/change-arguing/change-arguing.module.code.ts"
+import { noPageSaid } from "../../../../command-system/change-running/change-running.module.code.ts"
 
 const LISTS = "list"
 
