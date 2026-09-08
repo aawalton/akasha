@@ -26,7 +26,19 @@ export const attributePoints = {
     },
     {
       invariantKind: "departure",
-      statement: "Keeping today's points leaves the total beside them unchanged.",
+      statement: "The total kept is the points before today and today's points together.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Keeping today's points again replaces the total rather than adding to it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An attribute carrying nothing before today totals today's points alone.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here moves the points before today on.",
     },
     {
       invariantKind: "absence",

@@ -1,7 +1,12 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { attributePage, keepPointsToday, pointsTodayKept } from "./attribute-points.module.code.ts"
+import {
+  attributePage,
+  keepPointsToday,
+  pointsTodayKept,
+  pointsTotalKept,
+} from "./attribute-points.module.code.ts"
 
 const HOLD = "/var/tmp"
 
@@ -18,6 +23,27 @@ test("the points kept are the points read back", () => {
   try {
     keepPointsToday(root, "strength", 1.5)
     expect(pointsTodayKept(root, "strength")).toBe(1.5)
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
+})
+
+test("an attribute with nothing before today totals today's points alone", () => {
+  const root = rooted()
+  try {
+    keepPointsToday(root, "strength", 1.5)
+    expect(pointsTotalKept(root, "strength")).toBe(1.5)
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
+})
+
+test("keeping today's points again replaces the total rather than adding to it", () => {
+  const root = rooted()
+  try {
+    keepPointsToday(root, "strength", 1.5)
+    keepPointsToday(root, "strength", 2)
+    expect(pointsTotalKept(root, "strength")).toBe(2)
   } finally {
     rmSync(root, { recursive: true, force: true })
   }
