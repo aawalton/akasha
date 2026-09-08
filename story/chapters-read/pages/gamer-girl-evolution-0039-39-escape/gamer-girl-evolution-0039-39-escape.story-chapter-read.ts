@@ -5,7 +5,7 @@ export const gamerGirlEvolution003939Escape = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0039-39-escape",
   title: "39 - Escape!",
-  partOfSlugs: ["gamer-girl-evolution"],
+  partOfCollectionSlugs: ["gamer-girl-evolution"],
   position: 39,
   ownLength: 1442,
   ownProgress: 1442,

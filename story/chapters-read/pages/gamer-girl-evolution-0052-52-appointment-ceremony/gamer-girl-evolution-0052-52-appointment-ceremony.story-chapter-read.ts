@@ -5,7 +5,7 @@ export const gamerGirlEvolution005252AppointmentCeremony = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0052-52-appointment-ceremony",
   title: "52 - Appointment Ceremony",
-  partOfSlugs: ["gamer-girl-evolution"],
+  partOfCollectionSlugs: ["gamer-girl-evolution"],
   position: 52,
   ownLength: 1916,
   ownProgress: 1916,

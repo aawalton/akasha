@@ -5,7 +5,7 @@ export const godOfTrash0247247GetEmBoy = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0247-247-get-em-boy",
   title: "247. Get 'em, Boy",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 247,
   ownLength: 2017,
   unitSlug: "words",

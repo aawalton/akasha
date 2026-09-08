@@ -5,7 +5,7 @@ export const godOfTrash0252252BigFatPillars = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0252-252-big-fat-pillars",
   title: "252. Big Fat Pillars",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 252,
   ownLength: 2118,
   unitSlug: "words",

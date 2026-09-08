@@ -5,7 +5,7 @@ export const godOfTrash0105105OverthrowingPrison = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0105-105-overthrowing-prison",
   title: "105. Overthrowing Prison",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 105,
   ownLength: 2113,
   unitSlug: "words",

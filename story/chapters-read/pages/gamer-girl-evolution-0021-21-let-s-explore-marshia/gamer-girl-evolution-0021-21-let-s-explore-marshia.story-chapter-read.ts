@@ -5,7 +5,7 @@ export const gamerGirlEvolution002121LetSExploreMarshia = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0021-21-let-s-explore-marshia",
   title: "21 - Let's Explore Marshia!",
-  partOfSlugs: ["gamer-girl-evolution"],
+  partOfCollectionSlugs: ["gamer-girl-evolution"],
   position: 21,
   ownLength: 2041,
   ownProgress: 2041,

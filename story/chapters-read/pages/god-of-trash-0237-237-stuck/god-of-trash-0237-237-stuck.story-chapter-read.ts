@@ -5,7 +5,7 @@ export const godOfTrash0237237Stuck = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0237-237-stuck",
   title: "237. Stuck",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 237,
   ownLength: 2197,
   unitSlug: "words",

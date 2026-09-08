@@ -5,7 +5,7 @@ export const godOfTrash0163163BrokenCore = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0163-163-broken-core",
   title: "163. Broken Core",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 163,
   ownLength: 2034,
   unitSlug: "words",

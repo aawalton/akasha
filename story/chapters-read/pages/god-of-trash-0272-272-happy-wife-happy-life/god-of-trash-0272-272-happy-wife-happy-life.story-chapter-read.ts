@@ -5,7 +5,7 @@ export const godOfTrash0272272HappyWifeHappyLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0272-272-happy-wife-happy-life",
   title: "272. Happy Wife Happy Life",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 272,
   ownLength: 1980,
   unitSlug: "words",

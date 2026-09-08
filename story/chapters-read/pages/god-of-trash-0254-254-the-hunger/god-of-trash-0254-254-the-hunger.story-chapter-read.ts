@@ -5,7 +5,7 @@ export const godOfTrash0254254TheHunger = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0254-254-the-hunger",
   title: "254. The Hunger",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 254,
   ownLength: 1900,
   unitSlug: "words",

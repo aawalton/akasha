@@ -5,7 +5,7 @@ export const godOfTrash0151151TheresMoreThanOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0151-151-theres-more-than-one",
   title: "151. There's More Than One",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 151,
   ownLength: 1960,
   unitSlug: "words",

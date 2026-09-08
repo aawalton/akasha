@@ -5,7 +5,7 @@ export const godOfTrash0251251MadeOfFilth = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0251-251-made-of-filth",
   title: "251. Made of Filth",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 251,
   ownLength: 1958,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0191191CriminalsCleared = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0191-191-criminals-cleared",
   title: "191. Criminals Cleared?",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 191,
   ownLength: 1853,
   unitSlug: "words",

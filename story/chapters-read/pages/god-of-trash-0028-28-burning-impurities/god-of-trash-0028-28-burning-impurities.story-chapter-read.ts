@@ -5,7 +5,7 @@ export const godOfTrash002828BurningImpurities = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0028-28-burning-impurities",
   title: "28. Burning Impurities",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 28,
   ownLength: 3086,
   unitSlug: "words",

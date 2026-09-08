@@ -5,7 +5,7 @@ export const godOfTrash007373Cooking = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0073-73-cooking",
   title: "73. Cooking",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 73,
   ownLength: 3150,
   unitSlug: "words",

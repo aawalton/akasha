@@ -5,7 +5,7 @@ export const godOfTrash009191TheEmpressArrives = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0091-91-the-empress-arrives",
   title: "91. The Empress Arrives",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 91,
   ownLength: 2177,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash00088ThePassageOfTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0008-8-the-passage-of-time",
   title: "8. The Passage of Time",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 8,
   ownLength: 3906,
   unitSlug: "words",

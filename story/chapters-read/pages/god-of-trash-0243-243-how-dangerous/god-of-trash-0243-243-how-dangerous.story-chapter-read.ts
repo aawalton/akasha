@@ -5,7 +5,7 @@ export const godOfTrash0243243HowDangerous = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0243-243-how-dangerous",
   title: "243. How Dangerous?",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 243,
   ownLength: 2336,
   unitSlug: "words",

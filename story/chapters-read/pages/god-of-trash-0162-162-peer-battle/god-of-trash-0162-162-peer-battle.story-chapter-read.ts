@@ -5,7 +5,7 @@ export const godOfTrash0162162PeerBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0162-162-peer-battle",
   title: "162. Peer Battle",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 162,
   ownLength: 2001,
   unitSlug: "words",

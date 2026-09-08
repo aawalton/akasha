@@ -5,7 +5,7 @@ export const godOfTrash006161RatKing = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0061-61-rat-king",
   title: "61. Rat King",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 61,
   ownLength: 2746,
   unitSlug: "words",

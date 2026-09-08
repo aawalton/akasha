@@ -5,7 +5,7 @@ export const godOfTrash0238238SoMuchForThat = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0238-238-so-much-for-that",
   title: "238. So Much for That",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 238,
   ownLength: 2004,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash008787MatchWatching = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0087-87-match-watching",
   title: "87. Match Watching",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 87,
   ownLength: 2278,
   unitSlug: "words",

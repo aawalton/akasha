@@ -5,7 +5,7 @@ export const godOfTrash002222LibraryCat = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0022-22-library-cat",
   title: "22. Library Cat",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 22,
   ownLength: 2828,
   unitSlug: "words",

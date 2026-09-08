@@ -5,7 +5,7 @@ export const godOfTrash0125125KillingFarm = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0125-125-killing-farm",
   title: "125. Killing Farm",
-  partOfSlugs: ["god-of-trash"],
+  partOfCollectionSlugs: ["god-of-trash"],
   position: 125,
   ownLength: 2211,
   unitSlug: "words",
