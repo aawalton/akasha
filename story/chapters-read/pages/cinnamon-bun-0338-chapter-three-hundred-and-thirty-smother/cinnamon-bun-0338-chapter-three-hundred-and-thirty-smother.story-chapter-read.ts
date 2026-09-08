@@ -5,7 +5,7 @@ export const cinnamonBun0338ChapterThreeHundredAndThirtySmother = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0338-chapter-three-hundred-and-thirty-smother",
   title: "Chapter Three Hundred and Thirty - Smother",
-  partOfSlugs: ["story-read/cinnamon-bun"],
+  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
   position: 338,
   ownLength: 1951,
   unitSlug: "words",

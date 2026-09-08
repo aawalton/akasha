@@ -5,7 +5,7 @@ export const cinnamonBun0343ChapterThreeHundredAndThirtyFiveRaindrops = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0343-chapter-three-hundred-and-thirty-five-raindrops",
   title: "Chapter Three Hundred and Thirty-Five - Raindrops Keep Fallin' On My Head",
-  partOfSlugs: ["story-read/cinnamon-bun"],
+  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
   position: 343,
   ownLength: 1994,
   unitSlug: "words",

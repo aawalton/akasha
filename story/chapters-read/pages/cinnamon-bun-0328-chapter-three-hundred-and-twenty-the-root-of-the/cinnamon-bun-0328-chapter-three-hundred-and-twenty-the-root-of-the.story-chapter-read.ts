@@ -5,7 +5,7 @@ export const cinnamonBun0328ChapterThreeHundredAndTwentyTheRootOfThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0328-chapter-three-hundred-and-twenty-the-root-of-the",
   title: "Chapter Three Hundred and Twenty - The Root of the Matter",
-  partOfSlugs: ["story-read/cinnamon-bun"],
+  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
   position: 328,
   ownLength: 2071,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0242ChapterTwoHundredAndThirtyFourAckAck = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0242-chapter-two-hundred-and-thirty-four-ack-ack",
   title: "Chapter Two Hundred and Thirty-Four - Ack-Ack",
-  partOfSlugs: ["story-read/cinnamon-bun"],
+  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
   position: 242,
   ownLength: 1956,
   unitSlug: "words",
