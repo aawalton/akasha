@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
-        "Cluster-checks 32 down to 4, seven ported, twenty-one ablated. A check policing a hand-written derivable value is answered by deriving it: tailwind-sources went once the landing wrote each entry stylesheet's source globs from its app's package closure. A dead check can still be right, and a dead check can be wrong in its own favour: widget-payload-shape-mirror read only a Swift let, so it reported a var field missing. syntax-bundle has three scanners left.",
+        "Cluster-checks 32 down to 3, seven ported, twenty-two ablated. Left are checksum-annotation-substitution behind intent 10, vite-supabase-rr-define, and syntax-bundle with three scanners. A check policing a hand-written derivable value is answered by deriving it, as tailwind-sources was. A dead check can still be right, and a dead check can be wrong in its own favour: widget-payload-shape-mirror read only a Swift let, so it reported a var field missing. tsconfig took ten modules with it.",
     },
     { statement: "The old system carries no check of its own." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
