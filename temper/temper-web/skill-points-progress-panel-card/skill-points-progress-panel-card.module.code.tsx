@@ -116,11 +116,11 @@ export function SkillPointsProgressPanelCard({
             key: entry.key,
             label: entry.label,
             children: selectedProgress.map(
-              (cp): CompletionNode => ({
-                key: cp.characterId,
-                label: charNames.get(cp.characterId) ?? cp.characterId,
+              (one): CompletionNode => ({
+                key: one.characterId,
+                label: charNames.get(one.characterId) ?? one.characterId,
                 count:
-                  progressLookup.get(cp.characterId)?.get(branch.key)?.get(entry.key)?.count ?? 0,
+                  progressLookup.get(one.characterId)?.get(branch.key)?.get(entry.key)?.count ?? 0,
                 total: entry.total,
               })
             ),
@@ -129,18 +129,18 @@ export function SkillPointsProgressPanelCard({
       }
     })
 
-    const totalChildren: CompletionNode[] = selectedProgress.map((cp) => {
+    const totalChildren: CompletionNode[] = selectedProgress.map((one) => {
       let count = 0
       let total = 0
       for (const branch of BRANCHES) {
-        for (const entry of getBranchEntries(cp, branch.key)) {
+        for (const entry of getBranchEntries(one, branch.key)) {
           count += entry.count
           total += entry.total
         }
       }
       return {
-        key: cp.characterId,
-        label: charNames.get(cp.characterId) ?? cp.characterId,
+        key: one.characterId,
+        label: charNames.get(one.characterId) ?? one.characterId,
         count,
         total,
       }

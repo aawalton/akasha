@@ -78,11 +78,11 @@ export function ZoneCompletionProgressPanelCard({
               key: `${zone.zoneId}-${ct.completionType}-${activity.activityIndex}`,
               label: activity.name,
               children: selectedProgress.map(
-                (cp): CompletionNode => ({
-                  key: cp.characterId,
-                  label: charNames.get(cp.characterId) ?? cp.characterId,
+                (one): CompletionNode => ({
+                  key: one.characterId,
+                  label: charNames.get(one.characterId) ?? one.characterId,
                   count: completedLookup
-                    .get(cp.characterId)
+                    .get(one.characterId)
                     ?.get(zone.zoneId)
                     ?.get(ct.completionType)
                     ?.has(activity.activityIndex)
@@ -97,10 +97,10 @@ export function ZoneCompletionProgressPanelCard({
       ),
     }))
 
-    const totalChildren: CompletionNode[] = selectedProgress.map((cp) => {
+    const totalChildren: CompletionNode[] = selectedProgress.map((one) => {
       let count = 0
       let total = 0
-      for (const zone of cp.zones) {
+      for (const zone of one.zones) {
         for (const ct of zone.completionTypes) {
           total += ct.activities.length
           for (const a of ct.activities) {
@@ -109,8 +109,8 @@ export function ZoneCompletionProgressPanelCard({
         }
       }
       return {
-        key: cp.characterId,
-        label: charNames.get(cp.characterId) ?? cp.characterId,
+        key: one.characterId,
+        label: charNames.get(one.characterId) ?? one.characterId,
         count,
         total,
       }
