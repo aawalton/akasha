@@ -4,10 +4,10 @@ import { besideAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import { folderFor } from "../../../../pages/service/page-composing/page-composing.module.code.ts"
 import {
-  answered,
   gathered,
   missing,
   refusing,
+  stating,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -141,7 +141,7 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
     return refusing(`${why}, so no file was carried`)
   }
   const answers: Answer[] = []
-  let folded = answered([])
+  let folded = stating([])
   let seen = world
   if (given.to === held.slug) {
     const carries = `\`${given.to}\` is the slug this page carries`
