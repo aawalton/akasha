@@ -169,6 +169,7 @@ export const clusterCheck = {
     "module/functional-type-shapes",
     "module/git-transport-credential",
     "module/guarded-resolve",
+    "module/guarded-resolve-collection",
   ],
   properties: [
     {
