@@ -18,6 +18,10 @@ export const pageAddress = {
     },
     {
       invariantKind: "departure",
+      statement: "Where the index files an address is asked of the kind that address is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An address names the property a value is read by.",
     },
     {

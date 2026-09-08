@@ -1,4 +1,7 @@
+import type { Filed } from "@akasha/indexes/identity"
 import type { Slug } from "../../properties/slug.text-property.ts"
+
+const PAGE_TYPE = "page-type"
 
 export type InPageType = {
   readonly pageTypeSlug: Slug
@@ -9,4 +12,13 @@ export type InPageType = {
 
 export function isInPageType(one: object): one is InPageType {
   return "pageTypeSlug" in one && !("scopeValue" in one)
+}
+
+export function filedInPageType(address: InPageType): Filed {
+  return {
+    uniqueKind: PAGE_TYPE,
+    scope: address.pageTypeSlug,
+    propertySlug: address.propertySlug,
+    said: address.value,
+  }
 }

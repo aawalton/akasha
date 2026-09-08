@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { addressedIn, addressIn, type PageAddress } from "@akasha/pages/page-address"
+import { addressedIn, addressIn, filedFor, type PageAddress } from "@akasha/pages/page-address"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt, type Value } from "@akasha/pages/page-value"
 import { stringAt } from "@akasha/utils-narrow/string-at"
@@ -148,23 +148,8 @@ export function listedById(given: string | Reading, id: string): Listed | null {
 }
 
 export function listedFor(given: string | Reading, address: PageAddress): Listed | null {
-  if ("id" in address) return listedById(given, address.id)
-  if ("scopeValue" in address) {
-    return (
-      listedWithin(
-        given,
-        address.pageTypeSlug,
-        address.scopePropertySlug,
-        address.scopeValue,
-        address.propertySlug,
-        address.value
-      )[0] ?? null
-    )
-  }
-  return (
-    listedNamed(given, PAGE_TYPE, address.pageTypeSlug, address.propertySlug, address.value)[0] ??
-    null
-  )
+  const one = filedFor(address)
+  return listedNamed(given, one.uniqueKind, one.scope, one.propertySlug, one.said)[0] ?? null
 }
 
 export function listedByPath(given: string | Reading, path: string): readonly Listed[] {
