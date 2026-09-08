@@ -31,7 +31,7 @@ const PUBLIC_ROUTES: RouteConfig = [
 const API_ROUTES: RouteConfig = [
   route("api/errors", "routes/api-errors/api-errors.route.code.ts"),
   route("api/ask", "routes/api-ask/api-ask.route.code.ts"),
-  route("api/page-types", "routes/api.page-types.ts"),
+  route("api/page-types", "routes/api-page-types/api-page-types.route.code.ts"),
   route("api/pages/:pageTypeSlug", "routes/temper-api-pages/temper-api-pages.route.code.ts"),
   route("api/page-write", "routes/api.page-write.ts"),
   route("api/live-version", "routes/api.live-version.tsx"),
