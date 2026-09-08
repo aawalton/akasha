@@ -8,7 +8,7 @@ import type { CollectionTypeSlug } from "./properties/collection-type-slug.relat
 import type { Following } from "./properties/following.boolean-property.ts"
 import type { OwnLength } from "./properties/own-length.number-property.ts"
 import type { OwnProgress } from "./properties/own-progress.number-property.ts"
-import type { PartOfSlugs } from "./properties/part-of-slugs.relation-property.ts"
+import type { PartOfCollectionSlugs } from "./properties/part-of-collection-slugs.relation-property.ts"
 import type { PartsLengthInWords } from "./properties/parts-length-in-words.number-property.ts"
 import type { PartsProgressInWords } from "./properties/parts-progress-in-words.number-property.ts"
 import type { Position } from "./properties/position.number-property.ts"
@@ -23,7 +23,7 @@ export type Collection = Page & {
   following?: Following
   ownLength?: OwnLength
   ownProgress?: OwnProgress
-  partOfCollectionSlugs?: PartOfSlugs
+  partOfCollectionSlugs?: PartOfCollectionSlugs
   partsLengthInWords?: PartsLengthInWords
   partsProgressInWords?: PartsProgressInWords
   position?: Position
@@ -74,7 +74,7 @@ export const collection = {
     "page-type/unit",
     "rank-property/rank",
     "relation-property/collection-type-slug",
-    "relation-property/part-of-slugs",
+    "relation-property/part-of-collection-slugs",
     "relation-property/unit-slug",
     "select-property/status",
     "text-property/collection-author",
@@ -103,7 +103,7 @@ export const collection = {
     { pagePropertySlug: "number-property/own-length", required: false, many: false },
     { pagePropertySlug: "number-property/own-progress", required: false, many: false },
     {
-      pagePropertySlug: "relation-property/part-of-slugs",
+      pagePropertySlug: "relation-property/part-of-collection-slugs",
       required: false,
       many: true,
       maxCount: null,
