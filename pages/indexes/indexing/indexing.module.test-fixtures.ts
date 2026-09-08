@@ -317,15 +317,15 @@ type Reached = { readonly slug: string; readonly type: string; readonly at: stri
 
 const CHANGE_SLUGS: readonly Reached[] = [
   { slug: "remove-file", type: "change-mechanical-file", at: "mechanical/file/remove" },
-  { slug: "remove-file-code", type: "change-mechanical-file", at: "mechanical/file/remove" },
+  { slug: "remove-file-code", type: "change-mechanical", at: "mechanical/file/remove" },
   { slug: "remove-file-page", type: "change-mechanical-file", at: "mechanical/file/remove" },
   { slug: "remove-page-type", type: "change-mechanical-folder", at: "mechanical/folder/remove" },
   {
     slug: "remove-property-value",
-    type: "change-mechanical-data",
+    type: "change-mechanical-file-content",
     at: "mechanical/file-content/remove",
   },
-  { slug: "remove-page", type: "change-checked", at: "agent/file" },
+  { slug: "remove-page", type: "change-agent", at: "agent/file" },
 ]
 
 const changeId = (one: string): string => `01a04a4a-0001-7000-8000-00000000000${one}`
@@ -334,8 +334,8 @@ const REPO_VOCABULARY: readonly Named[] = [
   aType(changeId("0"), CHANGE_TYPE, ["page-type/module"]),
   aType(changeId("a"), "change-mechanical-file", [`page-type/${CHANGE_TYPE}`]),
   aType(changeId("b"), "change-mechanical-folder", [`page-type/${CHANGE_TYPE}`]),
-  aType(changeId("c"), "change-mechanical-data", [`page-type/${CHANGE_TYPE}`]),
-  aType(changeId("d"), "change-checked", [`page-type/${CHANGE_TYPE}`]),
+  aType(changeId("c"), "change-mechanical-file-content", [`page-type/${CHANGE_TYPE}`]),
+  aType(changeId("d"), "change-agent", [`page-type/${CHANGE_TYPE}`]),
   aType(idOf("1"), "page", [], ["id", "slug"]),
   aType(idOf("2"), "page-type", ["page-type/domain"]),
   aType(idOf("3"), "page-property", ["page-type/page"]),

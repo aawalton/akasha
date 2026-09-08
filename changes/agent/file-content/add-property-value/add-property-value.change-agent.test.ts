@@ -5,7 +5,7 @@ import {
   NOTHING_OVER,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { addPropertyValue, runChange } from "./add-property-value.change-checked.code.ts"
+import { addPropertyValue, runChange } from "./add-property-value.change-agent.code.ts"
 
 const AT = "held/held.domain.ts"
 

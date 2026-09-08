@@ -1,8 +1,8 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const addPropertyValue = {
   id: "01a07944-9edf-70c7-8101-db279ee5ea45",
-  pageTypeSlug: "change-checked",
+  pageTypeSlug: "change-agent",
   slug: "add-property-value",
   changeModeSlug: "change-mode-add",
   definition: "one value put into one page property, judged by the checks a landing runs",
@@ -49,4 +49,4 @@ export const addPropertyValue = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-} as const satisfies ChangeChecked
+} as const satisfies ChangeAgent

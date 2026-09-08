@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { bodyOf, idOf, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { runChange as changeFile } from "../../../mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
+import { runChange as renamePageAddress } from "../../../mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-data.code.ts"
 import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   bodiesIn,
@@ -9,7 +10,7 @@ import {
   type World,
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { changePagePageType } from "./change-page-page-type.change-checked.code.ts"
+import { changePagePageType } from "./change-page-page-type.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -69,9 +70,9 @@ const RUNS: Reaching = (world, at, given) => {
     return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
   }
   if (at === "change-mechanical-data/rename-page-address") {
-    return import(
-      "../../../mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-data.code.ts"
-    ).then(async (held) => await held.runChange(world, given as never))
+    return Promise.resolve(
+      renamePageAddress(world, given as Parameters<typeof renamePageAddress>[1])
+    )
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }

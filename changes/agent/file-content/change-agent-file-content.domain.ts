@@ -7,7 +7,7 @@ export const changeAgentFileContent = {
   definition: "a change an agent reaches acting on what a file holds",
   partSlugs: [
     "change-agent/change-file",
-    "change-checked/add-property-value",
+    "change-agent/add-property-value",
     "change-agent/change-domain-parent",
     "change-agent/change-page-property",
     "change-agent/remove-package-alias",

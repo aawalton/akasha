@@ -81,12 +81,7 @@ const MESSAGE = "message"
 
 const NO_MESSAGE = "`message` says what the commit is for, and this one is empty"
 
-const COMMAND_TYPES: readonly string[] = [
-  "change-agent",
-  "change-checked",
-  "change-authored",
-  "change-restated",
-]
+const COMMAND_TYPE = "change-agent"
 
 const DROP = "drop"
 
@@ -154,13 +149,11 @@ export type Runs = {
 
 export function changesIn(world: World): readonly Runs[] {
   const held: Runs[] = []
-  for (const type of COMMAND_TYPES) {
-    for (const one of world.index.everyOfType(type)) {
-      const slug = partedIn(one.path)?.slug
-      if (slug === undefined) continue
-      const value = world.index.pageAt(type, slug)
-      held.push({ slug, definition: (value === null ? null : textAt(value, DEFINITION)) ?? "" })
-    }
+  for (const one of world.index.everyOfType(COMMAND_TYPE)) {
+    const slug = partedIn(one.path)?.slug
+    if (slug === undefined) continue
+    const value = world.index.pageAt(COMMAND_TYPE, slug)
+    held.push({ slug, definition: (value === null ? null : textAt(value, DEFINITION)) ?? "" })
   }
   return held.sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
@@ -279,8 +272,7 @@ export function stamped(said: Said, owed: boolean, owing: boolean): Said {
 }
 
 function typeOf(world: World, slug: string): string | null {
-  for (const one of COMMAND_TYPES) if (world.index.pageAt(one, slug) !== null) return one
-  return null
+  return world.index.pageAt(COMMAND_TYPE, slug) === null ? null : COMMAND_TYPE
 }
 
 export async function appending(

@@ -1,7 +1,7 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { idOf, indexedRepo, NAMER_CODE, NAMER_PAGE, pageOf } from "@akasha/indexes/indexing/testing"
-import { removePage } from "../../../changes/agent/file/remove-page/remove-page.change-checked.code.ts"
+import { removePage } from "../../../changes/agent/file/remove-page/remove-page.change-agent.code.ts"
 import { pathsOf } from "../../../changes/modules/change-answer/change-answer.module.code.ts"
 import type { Stated } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
@@ -52,12 +52,12 @@ const REMOVE_PAGE: Loaded = {
   guards: [],
 }
 
-const REMOVE_PAGE_AT = "akasha/changes/remove-page.change-checked.ts"
+const REMOVE_PAGE_AT = "akasha/changes/remove-page.change-agent.ts"
 
 const OWING_NO_READING: Readonly<Record<string, string>> = {
   [REMOVE_PAGE_AT]: pageOf({
     id: "01a04a4a-0001-7000-8000-000000000006",
-    pageTypeSlug: "change-checked",
+    pageTypeSlug: "change-agent",
     slug: "remove-page",
     definition: "a mechanical change an indexed repository carries",
     code: "ts",
@@ -109,7 +109,7 @@ export function asking(path: string, message: string): string {
 }
 
 export async function loading(world: World, at: string): Promise<Loaded | string> {
-  if (at === "change-checked/remove-page") return REMOVE_PAGE
+  if (at === "change-agent/remove-page") return REMOVE_PAGE
   return await loadedAt(world, at)
 }
 

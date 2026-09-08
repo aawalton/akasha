@@ -7,10 +7,10 @@ export const changeAgentFile = {
   definition: "a change an agent reaches acting on where a file sits",
   partSlugs: [
     "change-agent/add-file",
-    "change-checked/change-page-page-type",
+    "change-agent/change-page-page-type",
     "change-agent/move-page",
     "change-agent/remove-file",
-    "change-checked/remove-page",
+    "change-agent/remove-page",
     "change-agent/rename-page",
   ],
 } as const satisfies Domain

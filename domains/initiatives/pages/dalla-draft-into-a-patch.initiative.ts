@@ -20,7 +20,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A change is reached by its address rather than by an import.",
       workingMemory:
-        "Met but for one defect. `REACHED` is `change`, so the map covers all 43 addresses where it held 25: 25 mechanical, 15 checked, 2 authored, 1 restated, and `change-command` has no pages. The absence invariant barring command-line changes is deleted. `move-folder-package` reaches both siblings by address. The residue: `addedTo` writes what `gathered` answers into `kept.over` without reading `refused`, so a refusal blanks the ledger rather than surfacing.",
+        "Met but for one defect. The map holds all 43 addresses: 18 under `change-agent`, which every agent change now is, and 25 under `change-mechanical` and the four page types beneath it. `REACHED` is `change` for every runner, so one map is written out for each; a runner names the page type whose changes it reaches instead. The residue: `addedTo` writes what `gathered` answers into `kept.over` without reading `refused`, so a refusal blanks the ledger rather than surfacing.",
     },
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
@@ -31,7 +31,7 @@ export const dallaDraftIntoAPatch = {
       statement:
         "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
       workingMemory:
-        "`harness-landing` writes the tree with raw `writeFileSync`, `renameSync` and `rmSync`, reaching neither `landing` nor a change. `page-writing` lands with a null gate. Every `landedMechanically` call site composes its own `FileEdit`. `replace` builds its own `FileEdit` and imports nothing from `changes/`, so it is `change-file`'s act written twice. The `addressed` sidecar types every address as `Parameters<typeof import(path)['runChange']>[1]` and holds 25, all `change-mechanical-*`.",
+        "`harness-landing` writes the tree with raw `writeFileSync`, `renameSync` and `rmSync`, reaching neither `landing` nor a change. `page-writing` lands with a null gate. Every `landedMechanically` call site composes its own `FileEdit`. `replace` builds its own `FileEdit` and imports nothing from `changes/`, so it is `change-file`'s act written twice. The `addressed` sidecar types every address as `Parameters<typeof import(path)['runChange']>[1]` and holds all 43, agent and mechanical alike.",
     },
     {
       statement: "Every change is a patch before it is applied.",

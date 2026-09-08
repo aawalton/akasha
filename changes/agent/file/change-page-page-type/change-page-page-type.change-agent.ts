@@ -1,8 +1,8 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const changePagePageType = {
   id: "01a07883-67ee-73cd-8370-4730fab7c87c",
-  pageTypeSlug: "change-checked",
+  pageTypeSlug: "change-agent",
   slug: "change-page-page-type",
   changeModeSlug: "change-mode-change",
   definition: "one page stated as another page type, in the data and in every file name",
@@ -41,4 +41,4 @@ export const changePagePageType = {
       statement: "Nothing here changes the slug a page states.",
     },
   ],
-} as const satisfies ChangeChecked
+} as const satisfies ChangeAgent

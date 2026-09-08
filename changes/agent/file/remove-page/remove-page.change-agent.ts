@@ -1,8 +1,8 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const removePage = {
   id: "01a0776d-8d1e-7f93-a0e2-4c566d49f8fd",
-  pageTypeSlug: "change-checked",
+  pageTypeSlug: "change-agent",
   slug: "remove-page",
   changeModeSlug: "change-mode-remove",
   definition: "one page taken away, by the partial change fitting the kind of page named",
@@ -41,4 +41,4 @@ export const removePage = {
       statement: "A page property goes through the partial for an ordinary page.",
     },
   ],
-} as const satisfies ChangeChecked
+} as const satisfies ChangeAgent
