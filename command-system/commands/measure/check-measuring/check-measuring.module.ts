@@ -125,7 +125,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "That run is counted among the runs its phase holds all the same.",
+      statement: "That run is counted among the runs a check holds all the same.",
     },
     {
       invariantKind: "departure",
