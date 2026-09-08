@@ -1,4 +1,6 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { nothingFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { shadowAsked } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
@@ -9,7 +11,17 @@ import {
   reachingIn,
 } from "./no-import-cycle.code-check.code.ts"
 
-const ROOT = "/repo"
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+function rooted(): string {
+  const root = scratch.rootFor("akasha-cycle-")
+  nothingFiled(root)
+  return root
+}
+
+const ROOT = rooted()
 
 const AT = "akasha/one.ts"
 
