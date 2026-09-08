@@ -157,7 +157,7 @@ function createResolutionContext(
           const fileFromPath = getFileFromPath(resolvedPath)
 
           if (fileFromPath != null) {
-            if (options.tstlVerbose === true) {
+            if (options.verbose === true) {
               console.log(
                 `Resolved file path for module ${dependency} to path ${pluginResolvedPath} using plugin.`
               )
