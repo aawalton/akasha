@@ -8,6 +8,7 @@ export const testBodies = {
     "serving a change's bodies to a test run in place of the bodies those paths hold on disk",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

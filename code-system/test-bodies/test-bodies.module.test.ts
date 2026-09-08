@@ -27,22 +27,28 @@ import {
   servingOut,
   wholeOf,
 } from "./test-bodies.module.code.ts"
-
-const KEEPS = "export const kept = 1\n"
-
-const TURNS = "export const kept = 2\n"
-
-const CHECKS =
-  'import { expect, test } from "bun:test"\n' +
-  'import { kept } from "./one.module.code.ts"\n' +
-  'test("kept", () => { expect(kept).toBe(1) })\n'
-
-const LOOK = ".ring { color: red }\n"
-
-const LOOKS =
-  'import { expect, test } from "bun:test"\n' +
-  'import look from "./look.css"\n' +
-  'test("look", () => { expect(look).toContain("red") })\n'
+import {
+  ASIDE,
+  ASKED,
+  ASKS,
+  BOTH,
+  CHECKS,
+  HAD,
+  HAS,
+  HELD,
+  KEEPS,
+  LOOK,
+  LOOKS,
+  MOVED,
+  manifestOf,
+  ONE,
+  OUTSIDE,
+  REACHES,
+  TOLD,
+  TURNS,
+  TWO,
+  WAYS,
+} from "./test-bodies.module.test-fixtures.ts"
 
 function repo(files: Record<string, string>): string {
   const root = realpathSync(scratch.rootFor("test-bodies-"))
@@ -58,10 +64,6 @@ function repo(files: Record<string, string>): string {
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-const ONE = "/repo/one/held.module.code.ts"
-
-const TWO = "/repo/two/held.module.test.ts"
 
 test("a path the change carries is matched whole, and a near neighbour is not", () => {
   const filter = wholeOf([ONE, TWO])
@@ -126,15 +128,6 @@ test("a path the change takes away refuses the import reaching it", () => {
   expect(() => servingOut({ [ONE]: null }, ONE)).toThrow(ONE)
   expect(() => servingOut({}, ONE)).toThrow(ONE)
 })
-
-const manifestOf = (ways: Record<string, string>): string =>
-  JSON.stringify({ name: "@akasha/held", exports: ways })
-
-const WAYS = { "./asking/testing": "./asking/asking.module.test-fixtures.ts" }
-
-const ASKED = manifestOf({ "./asking": "./old/asking.ts" })
-
-const TOLD = manifestOf({ "./telling": "./new/telling.ts" })
 
 test("a manifest edited in place maps the way in whose target moved", () => {
   const found = pairedIn(
@@ -208,8 +201,6 @@ test("more than one manifest going or arriving is left alone", () => {
     ])
   ).toEqual([])
 })
-
-const BOTH = manifestOf({ "./asking": "./old/asking.ts", "./telling": "./new/telling.ts" })
 
 test("a package whose folder moved names each way in at the folder it moved to", () => {
   const body = manifestOf(WAYS)
@@ -298,16 +289,6 @@ test("a test on disk reads the body the change carries beside it, not the one th
   }
 })
 
-const MOVED = JSON.stringify({
-  name: "@fake/moved",
-  exports: { "./held": "./held.module.code.ts" },
-})
-
-const OUTSIDE =
-  'import { expect, test } from "bun:test"\n' +
-  'import { kept } from "@fake/moved/held"\n' +
-  'test("kept", () => { expect(kept).toBe(2) })\n'
-
 test("a test outside a package whose folder moved reads that package by its bare specifier", () => {
   const from = repo({ "outside.module.test.ts": OUTSIDE })
   mkdirSync(join(from, "node_modules", "@fake"), { recursive: true })
@@ -345,14 +326,30 @@ test("a run over a serving carrying a stylesheet reads that stylesheet's text", 
   }
 })
 
-const REACHES =
-  'import { expect, test } from "bun:test"\n' +
-  'const { kept } = await import("../held/one.module.code.ts")\n' +
-  'test("kept", () => { expect(kept).toBe(2) })\n'
-
-const HELD = "akasha/held/one.module.code.ts"
-
-const ASKS = "akasha/asks/one.module.test.ts"
+test("a manifest dropping one way in and bringing an unrelated one reaches the one it brings", () => {
+  const from = repo({
+    "held/package.json": HAD,
+    "held/gone.module.code.ts": KEEPS,
+    "held/come.module.code.ts": TURNS,
+    "outside.module.test.ts": ASIDE,
+  })
+  mkdirSync(join(from, "node_modules", "@fake"), { recursive: true })
+  symlinkSync("../../akasha/held", join(from, "node_modules", "@fake", "held"))
+  const carried = ["akasha/held/package.json", "akasha/held/gone.module.code.ts"]
+  const named = ["akasha/outside.module.test.ts"]
+  const serving = servingOf(
+    from,
+    carried,
+    handing({ "akasha/held/package.json": HAS }),
+    named,
+    handing({ "akasha/held/package.json": HAD })
+  )
+  try {
+    expect(ranOver(from, named, 1, null, serving).verdict).toBe("pass")
+  } finally {
+    serving.sweep()
+  }
+})
 
 test("a test file the change brings reaches a carried body by an import made as it runs", () => {
   const from = repo({})
