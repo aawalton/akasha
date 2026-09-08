@@ -47,6 +47,8 @@ const ADVERB = "advmod"
 
 const MARK = "mark"
 
+const PAST = /ed$/i
+
 const THINGS: ReadonlySet<string> = new Set(["NOUN", "PROPN"])
 
 const RELATIVIZERS: ReadonlySet<string> = new Set(["that", "which", "who", "whom"])
@@ -126,6 +128,11 @@ function thingFronted(sentence: DepSentence, token: DepToken): boolean {
   return above !== undefined && THINGS.has(above.upos)
 }
 
+function pastAfter(sentence: DepSentence, token: DepToken): boolean {
+  const next = byId(sentence, token.id + 1)
+  return next !== undefined && next.upos === VERB && PAST.test(next.form)
+}
+
 function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
   if (token.upos !== VERB) return null
   if (particled(sentence, token)) return null
@@ -135,11 +142,14 @@ function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
     return placedSomewhere(sentence, token) ? PLACED_FRAME : null
   }
   if (child(sentence, token.id, OBJECT) !== undefined) {
-    if (token.deprel !== PARTICIPLE) return OBJECT_FRAME
-    return underAPreposition(sentence, token) ? null : PARTICIPLE_FRAME
+    if (token.deprel === PARTICIPLE) {
+      return underAPreposition(sentence, token) ? null : PARTICIPLE_FRAME
+    }
+    return pastAfter(sentence, token) ? null : OBJECT_FRAME
   }
   if (token.deprel !== RELATIVE) return null
   if (!thingFronted(sentence, token)) return null
+  if (pastAfter(sentence, token)) return null
   return subjectOfItsOwn(sentence, token) ? FRONTED_FRAME : null
 }
 

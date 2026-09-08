@@ -207,6 +207,34 @@ test("a word after a preposition names an act rather than describing a thing", (
   expect(foundIn(said, HOLD)).toEqual([])
 })
 
+test("a word a past participle comes right after is left alone", () => {
+  const said = sentenceOf([
+    ["the", "DET", 2, "det"],
+    ["pounds", "NOUN", 0, "root"],
+    ["the", "DET", 4, "det"],
+    ["day", "NOUN", 5, "nsubj"],
+    ["holds", "VERB", 2, "acl:relcl"],
+    ["turned", "VERB", 2, "acl"],
+    ["into", "ADP", 8, "case"],
+    ["points", "NOUN", 6, "obl"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a word another verb comes right after is found", () => {
+  const said = sentenceOf([
+    ["the", "DET", 2, "det"],
+    ["pounds", "NOUN", 6, "nsubj"],
+    ["the", "DET", 4, "det"],
+    ["day", "NOUN", 5, "nsubj"],
+    ["holds", "VERB", 2, "acl:relcl"],
+    ["differ", "VERB", 0, "root"],
+  ])
+
+  expect(foundIn(said, HOLD).map((one) => one.frame)).toEqual(["fronted"])
+})
+
 test("a word whose object comes before it as a pronoun is left alone", () => {
   const said = sentenceOf([
     ["past", "ADP", 2, "case"],

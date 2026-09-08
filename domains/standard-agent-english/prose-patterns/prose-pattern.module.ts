@@ -63,5 +63,13 @@ export const prosePattern = {
       invariantKind: "departure",
       statement: "A word whose object before it is a pronoun names no thing, so it is left alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A word a past participle comes right after is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A past participle is a word read as a verb and spelled with a trailing `ed`.",
+    },
   ],
 } as const satisfies Module
