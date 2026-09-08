@@ -66,22 +66,37 @@ test("a process is given the environment the caller states", () => {
 
 test("a process is answered with the processor seconds that process and its own children spent", () => {
   const idle = ran(["true"]).cpuSeconds
-  const busy = ran(["bun", "-e", "let x = 0; for (let i = 0; i < 3e8; i++) x += i"]).cpuSeconds
+  const busy = ran(["bun", "-e", "let x = 0; for (let i = 0; i < 1e8; i++) x += i"]).cpuSeconds
   expect(idle).toBeLessThan(busy)
 })
 
 test("a process given a ceiling is ended by the kernel at that many processor seconds", () => {
-  const done = ran(["bun", "-e", "for (;;) {}"], { cpuCeiling: 1 })
+  const done = ran(["sh", "-c", "while :; do :; done"], { cpuCeiling: 1 })
   expect(done.signal).toBe("SIGXCPU")
-  expect(done.cpuSeconds).toBeLessThan(6)
-}, 30000)
+  expect(done.cpuSeconds).toBeLessThan(3)
+})
 
 test("a process given no ceiling runs to its own end", () => {
   expect(ran(["true"]).signal).toBeNull()
 })
 
+test("a process inside one given a ceiling states a ceiling above its own", () => {
+  const at = `${import.meta.dir}/running.module.code.ts`
+  const inner =
+    `import { ran } from ${JSON.stringify(at)}; ` +
+    'const done = ran(["true"], { cpuCeiling: 300 }); console.log(done.code, done.signal)'
+  expect(ran(["bun", "-e", inner], { cpuCeiling: 30 }).out.trim()).toBe("0 null")
+})
+
+test("a ceiling bounds one process rather than that process and its children together", () => {
+  const inner = 'Bun.spawnSync(["sh", "-c", "while :; do :; done"])'
+  const done = ran(["bun", "-e", inner], { cpuCeiling: 1 })
+  expect(done.signal).toBeNull()
+  expect(done.cpuSeconds).toBeGreaterThan(1)
+})
+
 test("the seconds answered carry what a process's own children spent", () => {
-  const inner = "Bun.spawnSync(['bun', '-e', 'let x = 0; for (let i = 0; i < 6e8; i++) x += i'])"
+  const inner = "Bun.spawnSync(['bun', '-e', 'let x = 0; for (let i = 0; i < 1e8; i++) x += i'])"
   expect(ran(["bun", "-e", inner]).cpuSeconds).toBeGreaterThan(0.1)
 })
 
