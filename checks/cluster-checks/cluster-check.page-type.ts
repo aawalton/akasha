@@ -133,6 +133,7 @@ export const clusterCheck = {
     "module/check-exhaustive-dispatch",
     "module/check-generated-suffix",
     "module/check-harness-credential-script-text",
+    "module/check-libc-ffi-binding",
   ],
   properties: [
     {
