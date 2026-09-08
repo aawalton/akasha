@@ -1,4 +1,4 @@
-import assert from "assert"
+import assert from "node:assert"
 
 import * as ts from "typescript"
 import { tempSymbolId } from "../context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
