@@ -8,7 +8,7 @@ import { harnessCredentialScriptTextEntry } from "../check-harness-credential-sc
 import { libSetsPerPieceDifficultyBoundaryEntry } from "../check-lib-sets-per-piece-difficulty-boundary/check-lib-sets-per-piece-difficulty-boundary.module.code.ts"
 import { libcFfiBindingEntry } from "../check-libc-ffi-binding/check-libc-ffi-binding.module.code.ts"
 import { noVoidReturnEntry } from "../check-no-void-return/check-no-void-return.module.code.ts"
-import { tstlObjectLiteralSelfEntry } from "../check-object-literal-self/check-object-literal-self.module.code.ts"
+import { objectLiteralSelfEntry } from "../check-object-literal-self/check-object-literal-self.module.code.ts"
 import { popoverViewportSafetyEntry } from "../check-popover-viewport-safety/check-popover-viewport-safety.module.code.ts"
 import { populationReadSwallowEntry } from "../check-population-read-swallow/check-population-read-swallow.module.code.ts"
 import { readonlyCollectionsEntry } from "../check-readonly-collections/check-readonly-collections.module.code.ts"
@@ -30,7 +30,7 @@ export const SYNTAX_SCANNER_ENTRIES: readonly SyntaxScannerEntry[] = [
   harnessCredentialScriptTextEntry,
   libcFfiBindingEntry,
   suspenseThrowSettlesEntry,
-  tstlObjectLiteralSelfEntry,
+  objectLiteralSelfEntry,
   tstlPropertyCallbackSelfEntry,
   populationReadSwallowEntry,
   libSetsPerPieceDifficultyBoundaryEntry,
