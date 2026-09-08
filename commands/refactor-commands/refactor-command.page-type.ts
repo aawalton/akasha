@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Command } from "../commands/command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export type RefactorCommand = Command
 
