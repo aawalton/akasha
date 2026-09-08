@@ -91,7 +91,7 @@ function rooted(): string {
     filing(root, "page-type", one, `${ID}${at}`)
     carrying(root, one, ["code"])
   }
-  declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
+  declaring(root, "id", { pageTypeSlug: "text-property", unique: "page" })
   declaring(root, "slug", { pageTypeSlug: "text-property", unique: "within-page-type" })
   declaring(root, "code", { pageTypeSlug: "file-property", unique: null })
   claiming(root, "akasha/t/standing.module.ts", "akasha/t/standing.module.ts", `${ID}9`)

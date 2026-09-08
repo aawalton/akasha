@@ -22,12 +22,12 @@ export const identifierNamesOnePage = {
     },
     {
       invariantKind: "departure",
-      statement: "How far a value must stand alone is the reach its property declares.",
+      statement: "How far a value must be alone is the unique kind its property declares.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The reach `always` is across every page and the reach `page-type` is among the pages of one type.",
+        "The kind `page` is across every page and the kind `page-type` is among the pages of one type.",
     },
     {
       invariantKind: "departure",

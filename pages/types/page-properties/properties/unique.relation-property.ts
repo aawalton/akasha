@@ -1,13 +1,13 @@
 import type { RelationProperty } from "../../../relation-properties/relation-property.page-type.ts"
 
-export type Unique = "always" | "page-type" | "part-of"
+export type Unique = "page" | "page-type" | "part-of"
 
 export const unique = {
   id: "01a04edd-897d-7695-8047-3d1c855b750f",
   pageTypeSlug: "relation-property",
   slug: "unique",
   propertySlug: "unique",
-  definition: "the reach this property's value is unique across",
+  definition: "the pages this property's value is unique among",
   targetPageTypeSlug: "page-type/unique-kind",
   invariants: [
     {

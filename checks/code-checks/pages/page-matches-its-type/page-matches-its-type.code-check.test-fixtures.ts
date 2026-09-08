@@ -136,7 +136,7 @@ const PROPERTIES: Record<string, Value> = {
     slug: "id",
     propertySlug: "id",
     maxLength: 36,
-    unique: "always",
+    unique: "page",
   },
   slug: {
     id: "01a0540d-0000-7000-8000-00000000000a",

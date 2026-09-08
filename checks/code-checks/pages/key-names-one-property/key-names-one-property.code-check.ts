@@ -52,15 +52,15 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A reach only narrows.",
+      statement: "A unique kind only narrows.",
     },
     {
       invariantKind: "departure",
-      statement: "A reach goes from `always` to `page-type` to `part-of` and never back.",
+      statement: "A unique kind goes from `page` to `page-type` to `part-of` and never back.",
     },
     {
       invariantKind: "departure",
-      statement: "A restatement letting a reach go altogether widens that reach.",
+      statement: "A restatement letting a unique kind go altogether widens it.",
     },
     {
       invariantKind: "departure",

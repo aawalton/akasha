@@ -90,7 +90,7 @@ export function declaring(root: string, slug: string, shape: Shape): undefined {
 }
 
 export function identifying(root: string): undefined {
-  declaring(root, ID, { pageTypeSlug: "text-property", unique: "always" })
+  declaring(root, ID, { pageTypeSlug: "text-property", unique: PAGE })
   declaring(root, SLUG, { pageTypeSlug: "text-property", unique: PAGE_TYPE })
   declaring(root, "page-type-slug", {
     pageTypeSlug: "relation-property",

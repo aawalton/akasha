@@ -16,7 +16,7 @@ function identifying(held: Record<string, ReadonlyMap<string, Identifier>>): Ide
 }
 
 const BOTH = new Map<string, Identifier>([
-  ["id", { key: "id", reach: "always" }],
+  ["id", { key: "id", reach: "page" }],
   ["slug", { key: "slug", reach: "page-type" }],
 ])
 

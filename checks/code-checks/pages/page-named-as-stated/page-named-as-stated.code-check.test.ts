@@ -270,7 +270,7 @@ const BESIDE = "akasha/ledger.module.note.ts"
 function rooted(fileProperties: readonly string[]): string {
   const root = scratch.rootFor("akasha-page-named-")
   noPathsFiled(root)
-  declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
+  declaring(root, "id", { pageTypeSlug: "text-property", unique: "page" })
   declaring(root, "slug", { pageTypeSlug: "text-property", unique: "page-type" })
   for (const one of fileProperties) {
     declaring(root, one, { pageTypeSlug: "file-property", unique: null })

@@ -83,7 +83,7 @@ function rooted(generator: string | null): string {
   const root = scratch.rootFor("akasha-minting-")
   mkdirSync(join(root, "akasha"), { recursive: true })
   writeFileSync(join(root, "seed"), "held\n")
-  property(root, "id", generator, "always")
+  property(root, "id", generator, "page")
   property(root, "slug", null, "page-type")
   kind(root, "uuid-v7", false)
   kind(root, "held", true)

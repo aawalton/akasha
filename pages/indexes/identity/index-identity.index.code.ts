@@ -10,8 +10,6 @@ const IDENTITY = indexIdentity.name
 
 const ENDING = ".jsonl"
 
-const ALWAYS = "always"
-
 const PAGE_TYPE = "page-type"
 
 const PART_OF = "part-of"
@@ -110,10 +108,6 @@ export function partingOver(
   }
 }
 
-export function levelOf(reach: string): string {
-  return reach === ALWAYS ? PAGE : reach
-}
-
 const NO_SCOPE = ""
 
 function scopesFor(
@@ -155,7 +149,7 @@ export function filedIn(
     const found = value[one.key]
     if (typeof found !== "string" && typeof found !== "number") continue
     const said = String(found)
-    const level = levelOf(one.reach)
+    const level = one.reach
     for (const scope of scopesFor(level, value, pageTypeSlug, partOf)) {
       held.push({ level, scope, propertySlug, said })
     }

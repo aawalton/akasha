@@ -46,7 +46,7 @@ export const TYPES: readonly (readonly [string, string | null, boolean])[] = [
 ]
 
 export const SCHEMA: Record<string, Record<string, string | null>> = {
-  id: { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique: "always" },
+  id: { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique: "page" },
   slug: { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique: "page-type" },
   "page-type-slug": {
     pageTypeSlug: "relation-property",

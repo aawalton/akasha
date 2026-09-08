@@ -11,15 +11,7 @@ export const indexIdentity = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An identity file is found by level then scope then property then value.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The level is the reach an identifier is unique within.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The reach `always` names the level `page`.",
+      statement: "An identity file is found by unique kind then scope then property then value.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +60,7 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "No two pages carry one slug inside the reach that slug's property declares.",
+      statement: "No two pages carry one slug inside the scope that slug's property declares.",
     },
     {
       invariantKind: "departure",

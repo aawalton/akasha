@@ -155,13 +155,13 @@ test("a schema line that does say unique declares it still", () => {
   declaring(index, "text-property", "id", {
     pageTypeSlug: "text-property",
     targetPageTypeSlug: null,
-    unique: "always",
+    unique: "page",
     slug: "id",
     propertySlug: "id",
   })
 
   expect([...uniquePropertiesAt(readingAt(index)).entries()]).toEqual([
-    ["id", { key: "id", reach: "always" }],
+    ["id", { key: "id", reach: "page" }],
   ])
 })
 
@@ -185,7 +185,7 @@ test("a schema line stating no key declares no identifier", () => {
   declaring(index, "text-property", "id", {
     pageTypeSlug: "text-property",
     targetPageTypeSlug: null,
-    unique: "always",
+    unique: "page",
     slug: "id",
   })
 

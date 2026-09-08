@@ -95,10 +95,6 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "A reach respelled without changing its scope turns nothing.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A change turning which files a page type holds files every page already of that page type.",
     },

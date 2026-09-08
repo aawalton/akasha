@@ -300,39 +300,39 @@ test("a record property is judged when the change carries a field it declares", 
   expect(said.map((one) => one.path)).toEqual([at])
 })
 
-test("a restatement widening a reach from `part-of` to `page-type` is refused", () => {
+test("a restatement widening a unique kind from `part-of` to `page-type` is refused", () => {
   const why = looseningIn(holding({ unique: "page-type" }), holding({ unique: "part-of" }))
 
   expect(why).toBe("`unique` widens from `part-of` to `page-type`")
 })
 
-test("a restatement widening a reach from `page-type` to `always` is refused", () => {
-  const why = looseningIn(holding({ unique: "always" }), holding({ unique: "page-type" }))
+test("a restatement widening a unique kind from `page-type` to `page` is refused", () => {
+  const why = looseningIn(holding({ unique: "page" }), holding({ unique: "page-type" }))
 
-  expect(why).toBe("`unique` widens from `page-type` to `always`")
+  expect(why).toBe("`unique` widens from `page-type` to `page`")
 })
 
-test("a restatement letting a reach go altogether is refused", () => {
+test("a restatement letting a unique kind go altogether is refused", () => {
   const why = looseningIn(holding({ unique: null }), holding({ unique: "part-of" }))
 
   expect(why).toBe("`unique` widens from `part-of` to `none`")
 })
 
-test("a restatement narrowing a reach from `page-type` to `part-of` is let through", () => {
+test("a restatement narrowing a unique kind from `page-type` to `part-of` is let through", () => {
   expect(looseningIn(holding({ unique: "part-of" }), holding({ unique: "page-type" }))).toBe(null)
 })
 
-test("two declarations at one reach loosen nothing", () => {
-  expect(looseningIn(holding({ unique: "always" }), holding({ unique: "always" }))).toBe(null)
+test("two declarations at one unique kind loosen nothing", () => {
+  expect(looseningIn(holding({ unique: "page" }), holding({ unique: "page" }))).toBe(null)
 })
 
-test("a declaration taking a reach up where the type above states none is let through", () => {
-  expect(looseningIn(holding({ unique: "always" }), holding({ unique: null }))).toBe(null)
+test("a declaration taking a unique kind up where the type above states none is let through", () => {
+  expect(looseningIn(holding({ unique: "page" }), holding({ unique: null }))).toBe(null)
 })
 
-test("a reach is judged after `required`, so a loosening of both is said as `required`", () => {
+test("a unique kind is judged after `required`, so a loosening of both is said as `required`", () => {
   const why = looseningIn(
-    holding({ required: false, unique: "always" }),
+    holding({ required: false, unique: "page" }),
     holding({ required: true, unique: "part-of" })
   )
 

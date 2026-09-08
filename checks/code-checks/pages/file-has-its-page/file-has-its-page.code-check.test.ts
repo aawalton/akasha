@@ -30,7 +30,7 @@ function rooted(
     filing(root, "page-type", one, `${ID.slice(0, -1)}${one.length}`)
     carrying(root, one, declares)
   }
-  declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
+  declaring(root, "id", { pageTypeSlug: "text-property", unique: "page" })
   for (const one of fileProperties)
     declaring(root, one, { pageTypeSlug: "file-property", unique: null })
   declaring(root, "definition", { pageTypeSlug: "text-property", unique: null })

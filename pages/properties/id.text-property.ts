@@ -10,7 +10,7 @@ export const id = {
   definition: "the identity a page keeps for its whole life",
   maxLength: 36,
   nameFormatSlug: "name-format/lower-uuid",
-  unique: "always",
+  unique: "page",
   generator: "uuid-v7",
   invariants: [
     {

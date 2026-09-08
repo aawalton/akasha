@@ -73,11 +73,11 @@ export const properties = {
     },
     {
       invariantKind: "departure",
-      statement: "A reach only narrows.",
+      statement: "A unique kind only narrows.",
     },
     {
       invariantKind: "departure",
-      statement: "A declaration stating no reach takes the reach its property states.",
+      statement: "A declaration stating no unique kind takes the kind its property states.",
     },
     {
       invariantKind: "departure",

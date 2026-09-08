@@ -91,7 +91,7 @@ function typed(
 
 function rooted(): string {
   const root = scratch.rootFor("akasha-introduced-")
-  declaring(root, "id", { pageTypeSlug: TEXT, unique: "always" })
+  declaring(root, "id", { pageTypeSlug: TEXT, unique: "page" })
   declaring(root, "slug", { pageTypeSlug: TEXT, unique: "page-type" })
   for (const one of REACHED) declaring(root, one, { pageTypeSlug: TEXT })
   typed(root, "page", null, ["id", "slug"], [`${TEXT}/id`, `${TEXT}/slug`])

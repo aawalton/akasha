@@ -149,7 +149,7 @@ test("a property page the change carries makes its property an identifier at onc
   const root = rooted()
   const said = judged(
     landing(root, {
-      [pathFor("text-property", "name")]: propertyBody("always"),
+      [pathFor("text-property", "name")]: propertyBody("page"),
       [pathFor("check", "one")]: naming("one", ONE),
       [pathFor("check", "two")]: naming("two", TWO),
     })
@@ -167,7 +167,7 @@ test("a page standing outside the change collides on a property the change makes
   claiming(root, outside, outside, TWO)
   const said = judged(
     landing(root, {
-      [pathFor("text-property", "name")]: propertyBody("always"),
+      [pathFor("text-property", "name")]: propertyBody("page"),
       [pathFor("check", "one")]: naming("one", ONE),
     })
   )
@@ -179,7 +179,7 @@ test("a page standing outside the change collides on a property the change makes
 
 test("a value a property the change stops making an identifier is let through", () => {
   const root = rooted()
-  declaring(root, "name", { pageTypeSlug: TEXT, unique: "always" })
+  declaring(root, "name", { pageTypeSlug: TEXT, unique: "page" })
   const said = judged(
     landing(
       root,
@@ -188,7 +188,7 @@ test("a value a property the change stops making an identifier is let through", 
         [pathFor("check", "one")]: naming("one", ONE),
         [pathFor("check", "two")]: naming("two", TWO),
       },
-      { [pathFor("text-property", "name")]: propertyBody("always") }
+      { [pathFor("text-property", "name")]: propertyBody("page") }
     )
   )
   expect(said).toEqual([])

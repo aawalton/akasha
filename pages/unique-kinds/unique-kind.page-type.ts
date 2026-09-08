@@ -7,14 +7,14 @@ export const uniqueKind = {
   id: "01a04edd-897d-7e60-9206-d1b3a52bea1f",
   pageTypeSlug: "page-type",
   slug: "unique-kind",
-  definition: "which reach a property's value is unique across",
+  definition: "which pages a property's value is unique among",
   pluralSlug: "unique-kinds",
-  partSlugs: ["unique-kind/always", "unique-kind/page-type", "unique-kind/part-of"],
+  partSlugs: ["unique-kind/page", "unique-kind/page-type", "unique-kind/part-of"],
   extendsSlug: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Uniqueness is a reach rather than a yes or no answer.",
+      statement: "Uniqueness names the pages a value is unique among rather than being yes or no.",
     },
   ],
 } as const satisfies PageType
