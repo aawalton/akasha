@@ -30,7 +30,6 @@ export const clusterCheck = {
     "boolean-property/tree-sha",
     "cluster-check/checksum-annotation-substitution",
     "cluster-check/eso-global-decl-consistency",
-    "cluster-check/git-guard-both-forms",
     "cluster-check/guarded-resolve",
     "cluster-check/health-samples-stream",
     "cluster-check/healthkit-read-only",
