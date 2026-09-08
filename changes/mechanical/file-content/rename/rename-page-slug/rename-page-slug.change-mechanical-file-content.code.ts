@@ -7,12 +7,13 @@ import { importingOf } from "../../../../../pages/indexes/path-naming/path-namin
 import {
   gathered,
   refusing,
+  splicing,
   stating,
-  written,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type {
   Answer,
   Said,
+  Splice,
   Stated,
 } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
@@ -48,12 +49,6 @@ export type RenamePageSlugAsked = {
   readonly plural?: string
 }
 
-type Spot = {
-  readonly start: number
-  readonly end: number
-  readonly put: string
-}
-
 type Renaming = {
   readonly was: string
   readonly now: string
@@ -69,14 +64,14 @@ function readdressed(said: string, one: Renaming): string | null {
   return said === `${one.pageTypeSlug}/${one.was}` ? `${one.pageTypeSlug}/${one.now}` : null
 }
 
-function spotIn(source: ts.SourceFile, node: ts.Expression, one: Renaming): readonly Spot[] {
+function spotIn(source: ts.SourceFile, node: ts.Expression, one: Renaming): readonly Splice[] {
   if (!ts.isStringLiteral(node)) return []
   const next = readdressed(node.text, one)
   if (next === null) return []
-  return [{ start: node.getStart(source), end: node.getEnd(), put: JSON.stringify(next) }]
+  return [{ from: node.getStart(source), to: node.getEnd(), put: JSON.stringify(next) }]
 }
 
-function valuedIn(source: ts.SourceFile, node: ts.Expression, one: Renaming): readonly Spot[] {
+function valuedIn(source: ts.SourceFile, node: ts.Expression, one: Renaming): readonly Splice[] {
   if (!ts.isArrayLiteralExpression(node)) return spotIn(source, node, one)
   return node.elements.flatMap((held) => spotIn(source, held, one))
 }
@@ -86,9 +81,9 @@ export function addressedIn(
   text: string,
   slugs: ReadonlySet<string>,
   one: Renaming
-): readonly Spot[] {
+): readonly Splice[] {
   const source = parsedAs(path, text)
-  const found: Spot[] = []
+  const found: Splice[] = []
   const walk = (node: ts.Node): undefined => {
     if (ts.isPropertyAssignment(node)) {
       const key = keyOf(node)
@@ -102,15 +97,15 @@ export function addressedIn(
   return found
 }
 
-export function splicedIn(text: string, spots: readonly Spot[]): string {
+export function splicedIn(path: string, text: string, spots: readonly Splice[]): readonly Stated[] {
   const seen = new Set<number>()
-  let body = text
-  for (const one of [...spots].sort((here, there) => there.start - here.start)) {
-    if (seen.has(one.start)) continue
-    seen.add(one.start)
-    body = body.slice(0, one.start) + one.put + body.slice(one.end)
+  const held: Splice[] = []
+  for (const one of [...spots].sort((here, there) => here.from - there.from)) {
+    if (seen.has(one.from)) continue
+    seen.add(one.from)
+    held.push(one)
   }
-  return body
+  return splicing(path, text, held)
 }
 
 function reachOf(world: World, id: string, pageTypeSlug: string): Reach {
@@ -166,13 +161,11 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
   }
   const one = { was: slug.text, now: given.to, pageTypeSlug: pageType.text }
   const texts = new Map<string, string>([[given.at, text]])
-  const spots = new Map<string, Spot[]>()
-  const put = (path: string, held: readonly Spot[]): undefined => {
+  const spots = new Map<string, Splice[]>()
+  const put = (path: string, held: readonly Splice[]): undefined => {
     spots.set(path, [...(spots.get(path) ?? []), ...held])
   }
-  put(given.at, [
-    { start: slug.getStart(source), end: slug.getEnd(), put: JSON.stringify(given.to) },
-  ])
+  put(given.at, [{ from: slug.getStart(source), to: slug.getEnd(), put: JSON.stringify(given.to) }])
   for (const [path, slugs] of namingIn(reached.namers)) {
     let body = texts.get(path)
     if (body === undefined) {
@@ -185,10 +178,7 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
   }
   const restating: Stated[] = []
   for (const [path, held] of spots) {
-    const body = texts.get(path) ?? ""
-    const next = splicedIn(body, held)
-    if (next === body) continue
-    restating.push(...written(path, body, next))
+    restating.push(...splicedIn(path, texts.get(path) ?? "", held))
   }
   const answers: Answer[] = [stating(restating)]
   if (given.plural !== undefined) {

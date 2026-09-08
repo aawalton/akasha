@@ -17,7 +17,8 @@ import {
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type {
   Answer,
-  Replacing,
+  Splice,
+  Stated,
 } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
   reach,
@@ -164,8 +165,6 @@ type Way = {
   readonly importers: readonly string[]
 }
 
-type Splice = { readonly start: number; readonly end: number; readonly put: string }
-
 function namersIn(world: World, moved: ReadonlyMap<string, string>): readonly string[] {
   const found = new Set<string>()
   for (const one of moved.keys()) {
@@ -204,12 +203,12 @@ function waysIn(node: ts.Node): ts.ObjectLiteralExpression | null {
   return null
 }
 
-function wayAnew(way: Way, text: string, was: string, to: string): string {
+function waySplices(way: Way, text: string, was: string, to: string): readonly Splice[] {
   const source = ts.parseJsonText(way.at, text)
   const first = source.statements[0]
-  if (first === undefined) return text
+  if (first === undefined) return []
   const held = waysIn(first.expression)
-  if (held === null) return text
+  if (held === null) return []
   const folder = dirname(way.at)
   const found: Splice[] = []
   for (const one of held.properties) {
@@ -220,28 +219,25 @@ function wayAnew(way: Way, text: string, was: string, to: string): string {
     if (next === undefined) continue
     if (one.name.text === `.${UNDER}${was}`) {
       found.push({
-        start: one.name.getStart(source),
-        end: one.name.getEnd(),
+        from: one.name.getStart(source),
+        to: one.name.getEnd(),
         put: JSON.stringify(`.${UNDER}${to}`),
       })
     }
     found.push({
-      start: value.getStart(source),
-      end: value.getEnd(),
+      from: value.getStart(source),
+      to: value.getEnd(),
       put: JSON.stringify(`.${UNDER}${relative(folder, next)}`),
     })
   }
-  return splicedIn(text, found)
+  return found
 }
 
-function wayEdits(world: World, way: Way, was: string, to: string): readonly Replacing[] {
-  const edits: Replacing[] = []
+function wayEdits(world: World, way: Way, was: string, to: string): readonly Stated[] {
+  const edits: Stated[] = []
   const text = world.textOf(way.at)
   if (text !== null) {
-    const next = wayAnew(way, text, was, to)
-    if (next !== text) {
-      edits.push({ kind: "replace", path: way.at, contentFrom: text, contentTo: next })
-    }
+    edits.push(...splicedIn(way.at, text, waySplices(way, text, was, to)))
   }
   for (const path of way.importers) {
     const body = world.textOf(path)
