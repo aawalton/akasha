@@ -46,11 +46,6 @@ export const theaChecksSystem = {
         "116 of 155 folders under checks/cluster-checks/modules hold code with no page beside it. The 39 that have one are named among the cluster-check page type's parts, and a new page lands only together with its part slug. Every one of these checks is dead pending Alan's ablation, so the page is plain: slug, definition, code, and test where a test is beside it. No invariants, and no judgement about whether the code should live.",
     },
     {
-      statement: "Every deploy extension file is claimed by the package it is under.",
-      workingMemory:
-        "Three files are exactly deploy/dockerfile-extensions.json, under calendar-sync, auth-proxy and backup-retention. One optional named-file property on workspace-package reaches all three, a sub-path being legal already for routes/_app-layout.tsx. The file is claimed only once the page states the property. Four siblings under infrastructure/dockerfiles/deploy carry a prefix each, so no one property reaches them and they went to the one-offs.",
-    },
-    {
       statement: "Every file an app carries beside its routes is claimed by a page.",
       workingMemory:
         "Thirteen are claimed: router-app declares server, sidebar-boot, placeholder-image, addon-bundle-image and site-icon, and every app states what it holds. Fourteen more of the same shape were missed by a classifier reading a fixed list of names. Six .gitignore, one per web app. Six tunnel-routes.ts, the property already on workspace-package but not on router-app. Two bunfig.toml, in alan/web and temper-web. Each wants a named file property and a line per app.",
