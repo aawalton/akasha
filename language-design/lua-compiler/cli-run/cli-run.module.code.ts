@@ -241,9 +241,7 @@ function reportPerformance() {
 function checkNodeVersion(): undefined {
   const [major, minor] = process.version.slice(1).split(".").map(Number)
   if (major === undefined || minor === undefined) {
-    console.error(
-      `@temper/shared-build-deploy-tstl failed to parse Node.js version: ${process.version}`
-    )
+    console.error(`@akasha/lua-compiler failed to parse Node.js version: ${process.version}`)
     return void ts.sys.exit(ts.ExitStatus.DiagnosticsPresent_OutputsSkipped)
   }
   const isValid = major > 12 || (major === 12 && minor >= 13)
