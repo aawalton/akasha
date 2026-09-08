@@ -109,6 +109,7 @@ export const command = {
     "module/yaml-lines",
     "module/play-row",
     "module/change-costing",
+    "namespace/change",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/calling",

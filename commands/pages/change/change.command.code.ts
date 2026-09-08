@@ -142,7 +142,7 @@ function textIn(root: string): (path: string) => string | null {
   }
 }
 
-function worldFor(root: string, had: readonly Stated[], before: Said): World {
+export function worldFor(root: string, had: readonly Stated[], before: Said): World {
   const base = ledgerAt(root, textIn(root), runAt)
   return had.length === 0 ? base : addedTo(base, before)
 }

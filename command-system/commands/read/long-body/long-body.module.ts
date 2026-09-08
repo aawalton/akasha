@@ -10,6 +10,14 @@ export const longBody = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "How many bytes one answer holds is stated here.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Three other files state that count of their own.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run holds whole lines.",
     },
     {

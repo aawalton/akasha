@@ -1,3 +1,5 @@
+export const ANSWER_CEILING = 28000
+
 const NUMBER_WIDTH = 6
 
 const TAB = "\t"
