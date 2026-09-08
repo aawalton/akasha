@@ -11,6 +11,7 @@ import {
   preloadsIn,
   RUNNING,
   ranOver,
+  slowIn,
   summaryIn,
   testsBesideOf,
   testsUnder,
@@ -199,6 +200,25 @@ check("a group past one batch is run as several, and the counts are the sum", ()
   expect(done.summary.files).toBe(many)
   expect(done.summary.passed).toBe(many)
   expect(done.verdict).toBe("pass")
+})
+
+check("a run is judged file by file, each answered with the seconds that file spent", () => {
+  const root = repo({ "one.test.ts": PASSES, "two.test.ts": PASSES })
+  const found = slowIn(root, groupedBy(root, ["akasha"]), [], [], null, 0)
+  expect(found.map((one) => one.path)).toEqual(["akasha/one.test.ts", "akasha/two.test.ts"])
+  expect(found.every((one) => one.cpuSeconds > 0)).toBe(true)
+})
+
+check("a file under the ceiling is not answered as over it", () => {
+  const root = repo({ "one.test.ts": PASSES })
+  expect(slowIn(root, groupedBy(root, ["akasha"]), [], [], null)).toEqual([])
+})
+
+check("a run whose files are each under the ceiling is clean and carries what it spent", () => {
+  const root = repo({ "one.test.ts": PASSES })
+  const done = ranOver(root, ["akasha"], 1)
+  expect(done.slow).toEqual([])
+  expect(done.cpuSeconds).toBeGreaterThan(0)
 })
 
 check("a path named twice over is run once", () => {

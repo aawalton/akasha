@@ -55,6 +55,15 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "The ceiling that judging holds each file to is the caller's to state.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A caller stating no ceiling holds each file to the five seconds one file may spend.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file over the ceiling is answered by name beside the seconds that file spent.",
     },
     {

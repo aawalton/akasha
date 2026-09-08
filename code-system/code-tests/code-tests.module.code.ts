@@ -228,7 +228,8 @@ export function slowIn(
   runs: readonly Grouping[],
   serves: readonly string[],
   naming: readonly string[],
-  serving: Serving | null
+  serving: Serving | null,
+  ceiling: number = CEILING
 ): readonly Slowed[] {
   const found: Slowed[] = []
   for (const group of runs) {
@@ -236,7 +237,7 @@ export function slowIn(
     for (const one of group.named) {
       const at = serving?.standing.get(one) ?? one
       const done = runsIn(root, [RUNNER, RUNS, ...serves, ...preloading, ...naming, at])
-      if (done.cpuSeconds > CEILING) found.push({ path: one, cpuSeconds: done.cpuSeconds })
+      if (done.cpuSeconds > ceiling) found.push({ path: one, cpuSeconds: done.cpuSeconds })
     }
   }
   return found
