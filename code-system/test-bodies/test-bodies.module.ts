@@ -60,7 +60,8 @@ export const testBodies = {
     },
     {
       invariantKind: "departure",
-      statement: "A body under an extension named by nothing here is read as text.",
+      statement:
+        "A body under a form the runner will not load is served as JavaScript answering that body's text.",
     },
     {
       invariantKind: "departure",

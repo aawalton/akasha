@@ -69,6 +69,8 @@ const LOADERS: Readonly<Record<string, Form>> = {
   ".toml": "toml",
 }
 
+const CARRIED: ReadonlySet<Form> = new Set<Form>(["ts", "tsx", "js", "jsx", "json", "toml"])
+
 function escaped(one: string): string {
   return one.replace(SPECIAL, "\\$&")
 }
@@ -106,7 +108,9 @@ export function preloadingOf(at: string): string {
 export function servingOut(bodies: Bodies, path: string): Served {
   const body = bodies[path] ?? null
   if (body === null) throw new Error(`\`${path}\` is taken away by the change these tests judge`)
-  return { contents: body, loader: loaderOf(path) }
+  const form = loaderOf(path)
+  if (CARRIED.has(form)) return { contents: body, loader: form }
+  return { contents: `export default ${JSON.stringify(body)}\n`, loader: "js" }
 }
 
 function bodyOf(at: (path: string) => Uint8Array | null, one: string): string | null {
