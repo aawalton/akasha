@@ -70,7 +70,7 @@ test("a run over the ceiling is refused by naming each file and the seconds it s
     ]),
     ["akasha/one.module.test.ts"]
   )
-  expect(said).toContain("akasha/one.module.test.ts spent 21.4 processor seconds")
+  expect(said).toContain("akasha/one.module.test.ts was ended at 21.4 processor seconds")
   expect(said).toContain("a test file is given 5 processor seconds")
   expect(said).toContain("The tests themselves are green")
 })

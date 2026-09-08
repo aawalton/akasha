@@ -55,7 +55,7 @@ export function counted(many: number): string {
 
 export function slowlyOf(ran: Ran): string {
   const held = ran.slow
-    .map((one) => `${one.path} spent ${one.cpuSeconds.toFixed(SHOWN)} processor seconds`)
+    .map((one) => `${one.path} was ended at ${one.cpuSeconds.toFixed(SHOWN)} processor seconds`)
     .join("\n")
   return (
     `a test file is given ${String(CEILING)} processor seconds, and ${counted(ran.slow.length)} ` +

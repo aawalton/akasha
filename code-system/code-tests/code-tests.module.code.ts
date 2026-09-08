@@ -219,8 +219,12 @@ export function batchedOf(named: readonly string[]): readonly (readonly string[]
   return held
 }
 
-function runsIn(root: string, argv: readonly string[]): Said {
-  return ran([...argv], { cwd: root, env: { ...process.env, [RUNNING]: MARK } })
+function runsIn(root: string, argv: readonly string[], ceiling: number): Said {
+  return ran([...argv], {
+    cwd: root,
+    env: { ...process.env, [RUNNING]: MARK },
+    cpuCeiling: ceiling,
+  })
 }
 
 export function slowIn(
@@ -236,8 +240,9 @@ export function slowIn(
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const one of group.named) {
       const at = serving?.standing.get(one) ?? one
-      const done = runsIn(root, [RUNNER, RUNS, ...serves, ...preloading, ...naming, at])
-      if (done.cpuSeconds > ceiling) found.push({ path: one, cpuSeconds: done.cpuSeconds })
+      const done = runsIn(root, [RUNNER, RUNS, ...serves, ...preloading, ...naming, at], ceiling)
+      if (done.signal !== null || done.cpuSeconds > ceiling)
+        found.push({ path: one, cpuSeconds: done.cpuSeconds })
     }
   }
   return found
@@ -263,7 +268,8 @@ export function ranOver(
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const batch of batchedOf(group.named)) {
       const over = batch.map((one) => serving?.standing.get(one) ?? one)
-      const done = runsIn(root, [RUNNER, RUNS, ...serves, ...preloading, ...naming, ...over])
+      const argv = [RUNNER, RUNS, ...serves, ...preloading, ...naming, ...over]
+      const done = runsIn(root, argv, CEILING * batch.length)
       output += `${done.out}${done.err}`
       spent += done.cpuSeconds
       many += batch.length
@@ -277,7 +283,7 @@ export function ranOver(
     }
   }
   const said = verdictOf(code, output, expected)
-  const beyond = said === "pass" && spent > CEILING * many
+  const beyond = signal !== null || (said === "pass" && spent > CEILING * many)
   const slow = beyond ? slowIn(root, runs, serves, naming, serving) : []
   return {
     code,

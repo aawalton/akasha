@@ -47,11 +47,35 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "A batch is given the seconds the files that batch holds may spend together.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A batch reaching that budget is ended by the kernel rather than run to its end.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run spending more than the files it named may is judged file by file.",
     },
     {
       invariantKind: "departure",
+      statement: "A run whose batch died on a signal is judged file by file as well.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That second judging runs each file the first run named on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each file in that judging is given the ceiling one file may spend.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the kernel ended there is over the ceiling whatever that file spent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seconds answered for such a file are the seconds before the kernel ended it.",
     },
     {
       invariantKind: "departure",

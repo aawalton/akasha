@@ -10,6 +10,11 @@ export const MARKED =
   'import { expect, test } from "bun:test"\n' +
   `test("one", () => { expect(process.env["${RUNNING}"]).toBe("1") })\n`
 
+export const BURNS =
+  'import { test } from "bun:test"\n' +
+  'test("one", () => { const until = Bun.nanoseconds() + 4e9\n' +
+  "  while (Bun.nanoseconds() < until) {} })\n"
+
 export const SETS = "globalThis.held = true\n"
 
 export const NEEDS =
