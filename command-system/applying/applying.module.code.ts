@@ -227,6 +227,18 @@ function recordedAsLanded(root: string, agentId: string, changes: readonly FileE
   }
 }
 
+function timing(): (name: string) => undefined {
+  let last = performance.now()
+  const began = last
+  return (name) => {
+    const now = performance.now()
+    process.stderr.write(
+      `timing: ${name} ${(now - last).toFixed(0)}ms at ${(now - began).toFixed(0)}ms\n`
+    )
+    last = now
+  }
+}
+
 export async function applied(
   root: string,
   agentId: string | null,
@@ -238,9 +250,12 @@ export async function applied(
   read: string | null = null
 ): Promise<Applied | Refused> {
   if (carried === null) return { refusals: [NOTHING_HELD] }
+  const took = timing()
   const holding = carried
   const head = gitSaid(root, ["rev-parse", "HEAD"]).trim()
+  took("head")
   const said = rebasedHeld(root, head, holding.held)
+  took("rebase")
   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
   if (said.clashed.length > 0) {
     return {
@@ -254,11 +269,13 @@ export async function applied(
   const gate = running.checks ? judging : NO_GATE
   const carrying = [...carries, ...(holding.carries ?? [])]
   const prepared = preparing(root, head, editsOf(said.held), carrying)
+  took("prepare")
   if ("refusals" in prepared) return { refusals: [...prepared.refusals, UNEXPORTABLE] }
   const formatting = prepared.formatting
   if (running.writerOwesReading && agentId !== null)
     warrantedAgain(root, agentId, said.held, said.moved)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
+  took("reads")
   const done = await landing(
     root,
     prepared.changes,
@@ -271,10 +288,13 @@ export async function applied(
     null,
     prepared.over
   )
+  took("landing")
   if ("refusals" in done) return done
   carryLanded(root, head, running, prepared.changes, [])
   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
+  took("recorded")
   const put = installingIn(root, prepared.changes, carrying)
+  took("install")
   return {
     base: done.base,
     landed: [...done.wrote, ...done.took].sort(),
