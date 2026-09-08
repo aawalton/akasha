@@ -1,9 +1,9 @@
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import { getSymbolInfo } from "../symbols/symbols.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import type * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { getSymbolInfo } from "../tstl-symbols/tstl-symbols.module.code.ts"
 import {
   findFirstNodeAbove,
   getFirstDeclarationInFile,

@@ -82,7 +82,7 @@ export const luaCompiler = {
     "module/safe-names",
     "module/scope",
     "module/scope-references",
-    "module/tstl-symbols",
+    "module/symbols",
     "module/tstl-symbols-deps",
     "module/tstl-this-void-adapter",
     "module/tstl-typescript",

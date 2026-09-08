@@ -26,9 +26,9 @@ import {
   isOptionalContinuation,
 } from "../optional-chain-data/optional-chain-data.module.code.ts"
 import { createSafeName, hasUnsafeIdentifierName } from "../safe-names/safe-names.module.code.ts"
+import { getIdentifierSymbolId } from "../symbols/symbols.module.code.ts"
 import { invalidCallExtensionUse } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
-import { getIdentifierSymbolId } from "../tstl-symbols/tstl-symbols.module.code.ts"
 import { maybeWrapThisVoidAsAdapter } from "../tstl-this-void-adapter/tstl-this-void-adapter.module.code.ts"
 import { isStandardLibraryType } from "../tstl-typescript/tstl-typescript.module.code.ts"
 import { callExtensions } from "../visit-extension-call-extension/visit-extension-call-extension.module.code.ts"

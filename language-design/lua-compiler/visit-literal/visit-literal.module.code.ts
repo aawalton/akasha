@@ -5,6 +5,7 @@ import type { TransformationContext } from "../context-transformation-context/co
 import type { FunctionVisitor, Visitors } from "../context-visitors/context-visitors.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
+import { trackSymbolReference } from "../symbols/symbols.module.code.ts"
 import {
   undefinedInArrayLiteral,
   unsupportedAccessorInObjectLiteral,
@@ -12,7 +13,6 @@ import {
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { trackSymbolReference } from "../tstl-symbols/tstl-symbols.module.code.ts"
 import { isArrayType } from "../tstl-typescript/tstl-typescript.module.code.ts"
 import { transformFunctionLikeDeclaration } from "../visit-function/visit-function.module.code.ts"
 import { transformIdentifierWithSymbol } from "../visit-identifier/visit-identifier.module.code.ts"

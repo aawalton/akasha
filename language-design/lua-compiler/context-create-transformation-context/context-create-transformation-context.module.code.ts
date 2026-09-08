@@ -22,6 +22,7 @@ import type {
 } from "../context-visitors/context-visitors.module.code.ts"
 import type { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import type { Scope, ScopeType } from "../scope/scope.module.code.ts"
+import type { SymbolInfo } from "../symbols/symbols.module.code.ts"
 import { unsupportedNodeKind } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import {
   type OneToManyVisitorResult,
@@ -30,7 +31,6 @@ import {
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import type { SymbolInfo } from "../tstl-symbols/tstl-symbols.module.code.ts"
 import { assert, castArray } from "../tstl-utils/tstl-utils.module.code.ts"
 
 export function createTransformationContext(
