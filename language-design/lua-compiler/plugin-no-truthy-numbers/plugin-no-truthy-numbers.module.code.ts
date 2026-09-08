@@ -20,7 +20,7 @@ function typeIncludesLuaTruthinessBug(type: ts.Type): boolean {
 
 function branchTriggers(type: ts.Type): boolean {
   if ((type.flags & SKIP_FLAGS) !== 0) return false
-  if (type.getProperty("__tstlMultiReturn") !== undefined) return true
+  if (type.getProperty("__luaMultiReturn") !== undefined) return true
   if ((type.flags & ts.TypeFlags.Number) !== 0) return true
   if (type.isNumberLiteral()) return type.value === 0
   if ((type.flags & ts.TypeFlags.String) !== 0) return true
