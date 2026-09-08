@@ -175,7 +175,7 @@ test("a relation property is answered with the shape it is and the page type it 
 test("a property that names no page is answered with a shape that is not a relation", () => {
   const root = rootAt()
   const held = {
-    pageTypeSlug: "text-property",
+    pageTypeSlug: "standard-agent-english-property",
     targetPageTypeSlug: null,
     unique: null,
     uniqueScope: null,
@@ -183,7 +183,7 @@ test("a property that names no page is answered with a shape that is not a relat
     propertySlug: "definition",
     fileName: null,
   }
-  schemaFiled(root, "text-property", "definition", [held])
+  schemaFiled(root, "standard-agent-english-property", "definition", [held])
 
   expect(schemaOf(root, "standard-agent-english-property/definition")).toEqual({ schema: held })
 })
