@@ -13,7 +13,7 @@ export function hasVscodeEngine(pkg: PackageJsonShape): boolean {
 
 const TSCONFIG_EXTENDS_LIMIT = 10
 
-export function hasTstlTsconfig(workspaceDir: string): boolean {
+export function hasLuaCompilerTsconfig(workspaceDir: string): boolean {
   let entries: readonly string[]
   try {
     entries = readdirSync(workspaceDir)

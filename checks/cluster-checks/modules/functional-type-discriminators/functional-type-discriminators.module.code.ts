@@ -10,8 +10,8 @@ import {
   hasDirectDbSdkDep,
   hasHostedByDecl,
   hasK8sSynthKind,
+  hasLuaCompilerTsconfig,
   hasReactRuntimeDep,
-  hasTstlTsconfig,
   hasVscodeEngine,
 } from "../functional-type-row-discriminators/functional-type-row-discriminators.module.code.ts"
 import type { InferFunctionalTypeInput } from "../functional-type-shapes/functional-type-shapes.module.code.ts"
@@ -24,7 +24,8 @@ interface Discriminator {
 const DISCRIMINATOR_CHAIN: readonly Discriminator[] = [
   {
     type: "addon",
-    matches: ({ pkg, workspaceDir }) => hasTstlTsconfig(workspaceDir) || hasVscodeEngine(pkg),
+    matches: ({ pkg, workspaceDir }) =>
+      hasLuaCompilerTsconfig(workspaceDir) || hasVscodeEngine(pkg),
   },
   {
     type: "service",
