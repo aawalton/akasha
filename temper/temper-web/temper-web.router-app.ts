@@ -328,5 +328,6 @@ export const temperWeb = {
     "route/temper-api-pages",
     "route/temper-api-nav-icon",
     "route/temper-character-build-hash",
+    "route/temper-companion-build-hash",
   ],
 } as const satisfies RouterApp

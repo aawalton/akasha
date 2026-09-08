@@ -52,7 +52,10 @@ const API_ROUTES: RouteConfig = [
     "character-build/h/:hash",
     "routes/temper-character-build-hash/temper-character-build-hash.route.code.ts"
   ),
-  route("companion-build/h/:hash", "routes/companion.h.$hash.tsx"),
+  route(
+    "companion-build/h/:hash",
+    "routes/temper-companion-build-hash/temper-companion-build-hash.route.code.ts"
+  ),
 ]
 
 const ACTION_ROUTES: RouteConfig = [
