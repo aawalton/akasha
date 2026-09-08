@@ -28,5 +28,9 @@ export const pageTypeGathering = {
       invariantKind: "absence",
       statement: "Nothing here reads the properties a page type declares.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The types gathered from one reading are gathered once for that reading and held.",
+    },
   ],
 } as const satisfies Module

@@ -8,7 +8,7 @@ import {
 } from "../../types/gathering/page-type-gathering.module.code.ts"
 import { DECLARING_AT } from "../declaring/index-declaring.index.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
-import { answered, readingIn } from "../reading/index-reading.module.code.ts"
+import { answered, heldOnce } from "../reading/index-reading.module.code.ts"
 import type { Reading, Schema } from "../shape/index-shape.module.code.ts"
 
 const ENDING = ".jsonl"
@@ -30,14 +30,20 @@ export type Entry = {
   readonly line: string
 }
 
-export function pageTypesIn(given: string | Reading): ReadonlySet<string> {
+function typesFiledIn(reading: Reading): ReadonlySet<string> {
   const found = new Set<string>([PAGE_TYPE])
-  for (const one of typeSlugsIn(given)) {
-    for (const each of readingIn(given).listing(join(IDENTITY, PAGE_TYPE, one, "slug"))) {
+  for (const one of typeSlugsIn(reading)) {
+    for (const each of reading.listing(join(IDENTITY, PAGE_TYPE, one, "slug"))) {
       found.add(each.name.slice(0, -ENDING.length))
     }
   }
   return found
+}
+
+const typesFiled = heldOnce(typesFiledIn)
+
+export function pageTypesIn(given: string | Reading): ReadonlySet<string> {
+  return typesFiled(given)
 }
 
 export const FILE_PROPERTY = "file-property"
@@ -65,9 +71,9 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string 
 
 export type UncommittedBy = ReadonlyMap<string, ReadonlySet<string>>
 
-export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
+function schemaFiledIn(reading: Reading): ReadonlyMap<string, Schema> {
   const found = new Map<string, Schema>()
-  for (const line of readingIn(given).lines(DECLARING_AT)) {
+  for (const line of reading.lines(DECLARING_AT)) {
     const said: unknown = JSON.parse(line)
     if (said === null || typeof said !== "object" || Array.isArray(said)) continue
     const held = said as Value
@@ -85,6 +91,12 @@ export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
     })
   }
   return found
+}
+
+const schemaFiled = heldOnce(schemaFiledIn)
+
+export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
+  return schemaFiled(given)
 }
 
 export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string | null> {

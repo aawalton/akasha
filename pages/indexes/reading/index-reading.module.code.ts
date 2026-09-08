@@ -83,6 +83,37 @@ export function answered<T>(
   return said(reading)
 }
 
+export function heldOnce<T>(asked: (reading: Reading) => T): (given: string | Reading) => T {
+  const held = new WeakMap<Reading, readonly [T]>()
+  return (given) => {
+    const reading = readingIn(given)
+    const found = held.get(reading)
+    if (found !== undefined) return found[0]
+    const made: readonly [T] = [asked(reading)]
+    held.set(reading, made)
+    return made[0]
+  }
+}
+
+export function heldEach<T>(
+  asked: (reading: Reading, said: string) => T
+): (given: string | Reading, said: string) => T {
+  const held = new WeakMap<Reading, Map<string, T>>()
+  return (given, said) => {
+    const reading = readingIn(given)
+    let each = held.get(reading)
+    if (each === undefined) {
+      each = new Map<string, T>()
+      held.set(reading, each)
+    }
+    const found = each.get(said)
+    if (found !== undefined) return found
+    const made = asked(reading, said)
+    each.set(said, made)
+    return made
+  }
+}
+
 function listedIn(reading: Reading, at: string): readonly Listed[] {
   const found: Listed[] = []
   for (const line of reading.lines(at)) {
@@ -302,12 +333,16 @@ export function everyValue(given: string | Reading): ReadonlyMap<string, Value> 
   })
 }
 
-export function valuesOfType(given: string | Reading, pageTypeSlug: string): readonly Valued[] {
-  return answered(given, ROOT, `what the \`${pageTypeSlug}\` pages carry`, (reading) =>
-    [...valuesIn(reading, join(VALUE, `${pageTypeSlug}${ENDING}`))].sort((one, two) =>
+const valued = heldEach((reading: Reading, pageTypeSlug: string) =>
+  answered(reading, ROOT, `what the \`${pageTypeSlug}\` pages carry`, (held) =>
+    [...valuesIn(held, join(VALUE, `${pageTypeSlug}${ENDING}`))].sort((one, two) =>
       one.path < two.path ? -1 : one.path > two.path ? 1 : 0
     )
   )
+)
+
+export function valuesOfType(given: string | Reading, pageTypeSlug: string): readonly Valued[] {
+  return valued(given, pageTypeSlug)
 }
 
 export function valuesByPath(

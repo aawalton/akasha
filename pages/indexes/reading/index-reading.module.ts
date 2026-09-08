@@ -148,5 +148,23 @@ export const indexReading = {
       invariantKind: "absence",
       statement: "An answer about one page reads no stamp.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An answer drawn from one reading is answered once for that reading and held.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The value the pages of one page type carry is held for the reading and that page type together.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer held is let go when the reading it was drawn from is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A caller naming a root is answered afresh, that root building a reading of its own each ask.",
+    },
   ],
 } as const satisfies Module

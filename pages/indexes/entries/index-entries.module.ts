@@ -58,5 +58,10 @@ export const indexEntries = {
       invariantKind: "departure",
       statement: "Which folder names a page type declares is answered as which file names are.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A question answered from one reading alone is answered once for that reading and held.",
+    },
   ],
 } as const satisfies Module
