@@ -401,7 +401,7 @@ export function resolveDependencies(
   const resolutionContext = createResolutionContext(program, options, emitHost, plugins)
 
   for (const file of files) {
-    if (options.tstlVerbose === true) {
+    if (options.verbose === true) {
       console.log(`Resolving dependencies for ${normalizeSlashes(file.fileName)}`)
     }
     resolutionContext.addAndResolveDependencies(file)
