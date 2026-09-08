@@ -16,9 +16,9 @@ export const awenPageFoldersByIndex = {
     },
     {
       statement:
-        "A check refuses a path spelled as text where the index answers what that path reaches.",
+        "No page's code lists a folder off disk where the index answers the pages in that folder.",
       workingMemory:
-        "`21afe5ce74` refuses a carry that empties a folder a body still spells, which catches a path as that path goes stale rather than catching the spelling. A workstation-service spells a path to a module's code file inside the shell command line it runs, and one of those runs no module at all, so the rule either admits that shape or the `runs` lines become a question of their own.",
+        "The check judges where a literal reaches rather than what it spells, over every page's code. It refuses six listings. Two seek sidecars the index does not carry. `subagent-handed` seeks edit files whose page is gone, which the index can never answer. `message-file` lists because the index names four messages a composed flat path cannot reach. The bootstrap in `checkout-roots` waits on Alan, needing the checkout before an index is readable.\n",
     },
   ],
 } as const satisfies Initiative
