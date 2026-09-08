@@ -59,8 +59,16 @@ export const removeManifestWays = {
       statement: "Nothing here reads the disk or an index.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A manifest stating one way in as text has that way in judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That way in landing on a path that goes takes the whole key with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That way in landing on a path that stays is left where that way in is.",
     },
   ],
 } as const satisfies ChangeMechanicalFileContent

@@ -33,6 +33,12 @@ const BROKEN = `{
   "exports": {
 `
 
+const LONE = `{
+  "name": "@akasha/seat-system",
+  "exports": "./beta/beta.module.code.ts"
+}
+`
+
 const BETA = "seat-system/beta/beta.module.code.ts"
 
 const GAMMA = "seat-system/gamma/gamma.module.code.ts"
@@ -72,6 +78,19 @@ test("every way in goes and the exports key stays", () => {
   const said = bodyIn(["seat-system/alpha/alpha.module.code.ts", BETA, GAMMA], BODY)
 
   expect(waysOf(said)).toEqual({})
+})
+
+test("one way in stated as text and landing on a path that goes takes the whole key", () => {
+  const said = bodyIn([BETA], LONE)
+
+  expect(JSON.parse(said)).toEqual({ name: "@akasha/seat-system" })
+})
+
+test("one way in stated as text and landing on a path that stays is left alone", () => {
+  const said = saidOf([GAMMA], LONE)
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([])
 })
 
 test("a manifest stating no way in is answered as no edit", () => {

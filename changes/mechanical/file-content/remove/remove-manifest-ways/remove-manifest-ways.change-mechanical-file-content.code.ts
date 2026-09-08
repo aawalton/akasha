@@ -9,7 +9,9 @@ import type { Said, Splice } from "../../../../modules/change-answer/change-answ
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import {
   entriesGoingIn,
+  keysGoingIn,
   objectAt,
+  textAt,
 } from "../../../../modules/json-entries/json-entries.module.code.ts"
 
 const EXPORTS = "exports"
@@ -66,13 +68,22 @@ export function waysGoingIn(
   return entriesGoingIn(at, text, EXPORTS, dropping)
 }
 
+export function loneWayGone(at: string, text: string, going: ReadonlySet<string>): boolean {
+  const said = textAt(ts.parseJsonText(at, text), EXPORTS)
+  return said !== null && going.has(landsOn(at, said))
+}
+
 export function removeManifestWays(given: Asked, textOf: (path: string) => string | null): Said {
   const text = textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` holds no body, so no way in is dropped`)
   if (!readsAsObject(text)) {
     return refusing(`\`${given.at}\` reads as no JSON object, so no way in is dropped`)
   }
-  const ways = waysGoneIn(given.at, text, new Set(given.going))
+  const going = new Set(given.going)
+  if (loneWayGone(given.at, text, going)) {
+    return stating(splicing(given.at, text, keysGoingIn(given.at, text, new Set([EXPORTS]))))
+  }
+  const ways = waysGoneIn(given.at, text, going)
   if (ways.length === 0) return stating([])
   return stating(splicing(given.at, text, waysGoingIn(given.at, text, new Set(ways))))
 }
