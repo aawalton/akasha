@@ -90,6 +90,27 @@ export const running = {
     },
     {
       invariantKind: "departure",
+      statement: "A ceiling is the limit the kernel warns at rather than the limit it kills at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The limit the kernel kills at is left as the caller was given it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ceiling therefore raises no limit, and a process inside one states its own.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A ceiling bounds one process rather than that process and its children together.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A process warned at its ceiling spends more before ending than the ceiling names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A ceiling is whole seconds, and a fraction is taken up to the next second.",
     },
     {

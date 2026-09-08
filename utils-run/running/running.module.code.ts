@@ -6,7 +6,7 @@ const LIMIT = "prlimit"
 
 function limited(argv: readonly string[], ceiling: number | undefined): readonly string[] {
   if (ceiling === undefined) return argv
-  return [LIMIT, `--cpu=${String(Math.ceil(ceiling))}`, "--", ...argv]
+  return [LIMIT, `--cpu=${String(Math.ceil(ceiling))}:`, "--", ...argv]
 }
 
 export type Said = {

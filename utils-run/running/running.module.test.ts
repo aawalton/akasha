@@ -72,9 +72,9 @@ test("a process is answered with the processor seconds that process and its own 
 
 test("a process given a ceiling is ended by the kernel at that many processor seconds", () => {
   const done = ran(["bun", "-e", "for (;;) {}"], { cpuCeiling: 1 })
-  expect(done.signal).not.toBeNull()
-  expect(done.cpuSeconds).toBeLessThan(3)
-})
+  expect(done.signal).toBe("SIGXCPU")
+  expect(done.cpuSeconds).toBeLessThan(6)
+}, 30000)
 
 test("a process given no ceiling runs to its own end", () => {
   expect(ran(["true"]).signal).toBeNull()
