@@ -1,5 +1,4 @@
 import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
-import { commitSha40, inputsHash12 } from "@akasha/workflow-language/ci-identifiers"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
@@ -36,11 +35,7 @@ const CURSOR = "--cursor"
 
 const ALL = "--all"
 
-const COMMIT_SHA = "--commit-sha"
-
-const INPUTS_HASH = "--inputs-hash"
-
-const VALUED = [POD, NAMESPACE, SINCE, LIMIT, TAIL, CURSOR, COMMIT_SHA, INPUTS_HASH]
+const VALUED = [POD, NAMESPACE, SINCE, LIMIT, TAIL, CURSOR]
 
 const NAMESPACE_BY_DEFAULT = "ci"
 
@@ -56,18 +51,8 @@ export type Read =
       readonly limit: number
       readonly cursor: string | null
       readonly all: boolean
-      readonly commitSha: string | undefined
-      readonly inputsHash: string | undefined
     }
   | { readonly refused: readonly string[] }
-
-function stamped(flag: string, raw: string, read: (said: string) => string): string | string[] {
-  try {
-    return read(raw)
-  } catch (thrown) {
-    return [`${flag}: ${whyOf(thrown)}`]
-  }
-}
 
 export function readIn(argv: readonly string[]): Read {
   const refusals: string[] = []
@@ -138,20 +123,6 @@ export function readIn(argv: readonly string[]): Read {
   } catch (thrown) {
     refusals.push(whyOf(thrown))
   }
-  let commitSha: string | undefined
-  const commitShaSaid = said.get(COMMIT_SHA)
-  if (commitShaSaid !== undefined) {
-    const read = stamped(COMMIT_SHA, commitShaSaid, commitSha40)
-    if (Array.isArray(read)) refusals.push(...read)
-    else commitSha = read
-  }
-  let inputsHash: string | undefined
-  const inputsHashSaid = said.get(INPUTS_HASH)
-  if (inputsHashSaid !== undefined) {
-    const read = stamped(INPUTS_HASH, inputsHashSaid, inputsHash12)
-    if (Array.isArray(read)) refusals.push(...read)
-    else inputsHash = read
-  }
   if (refusals.length > 0 || pod === undefined) return { refused: refusals }
   return {
     pod,
@@ -160,8 +131,6 @@ export function readIn(argv: readonly string[]): Read {
     limit,
     cursor: said.get(CURSOR) ?? null,
     all,
-    commitSha,
-    inputsHash,
   }
 }
 
@@ -171,10 +140,8 @@ async function boundingLine(
   isDone: boolean,
   cursor: string | null
 ): Promise<string> {
-  const { pod, namespace, since, limit, commitSha, inputsHash } = read
-  const older = isDone
-    ? await hasLinesBeforeWindow({ pod, namespace, since, commitSha, inputsHash })
-    : null
+  const { pod, namespace, since, limit } = read
+  const older = isDone ? await hasLinesBeforeWindow({ pod, namespace, since }) : null
   const elsewhere =
     lines.length === 0
       ? (await findPodNamespaces({ pod, since })).filter((one) => one !== namespace)
@@ -202,14 +169,14 @@ async function boundingLine(
 }
 
 async function fetching(read: Exclude<Read, { refused: readonly string[] }>): Promise<Answer> {
-  const { pod, namespace, since, limit, cursor, commitSha, inputsHash } = read
+  const { pod, namespace, since, limit, cursor } = read
   const fetched = read.all
     ? {
-        lines: await fetchAllLokiLogs({ pod, namespace, since, commitSha, inputsHash }),
+        lines: await fetchAllLokiLogs({ pod, namespace, since }),
         cursor: null,
         isDone: true,
       }
-    : await fetchLokiLogs({ pod, namespace, since, limit, cursor, commitSha, inputsHash })
+    : await fetchLokiLogs({ pod, namespace, since, limit, cursor })
   const report = fetched.lines.map((one) => JSON.stringify(one))
   report.push(await boundingLine(read, fetched.lines, fetched.isDone, fetched.cursor))
   return { report, refusals: [], code: 0 }

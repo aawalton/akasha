@@ -58,23 +58,6 @@ test("a limit that is no positive whole number is refused", () => {
   expect("refused" in readIn(["logs", "my-pod", "--limit", "-3"])).toBe(true)
 })
 
-test("a stamp is read before any query, so a malformed one is refused", () => {
-  expect("refused" in readIn(["logs", "my-pod", "--commit-sha", "abc"])).toBe(true)
-  expect("refused" in readIn(["logs", "my-pod", "--inputs-hash", "nothex123456"])).toBe(true)
-  const read = readIn([
-    "logs",
-    "my-pod",
-    "--commit-sha",
-    "1234567890abcdef1234567890abcdef12345678",
-    "--inputs-hash",
-    "0123456789ab",
-  ])
-  expect("refused" in read).toBe(false)
-  if ("refused" in read) return
-  expect(read.commitSha).toBe("1234567890abcdef1234567890abcdef12345678")
-  expect(read.inputsHash).toBe("0123456789ab")
-})
-
 test("a flag it does not take is refused", async () => {
   const said = await loki(["logs", "my-pod", "--json"], given("/nowhere"))
   expect(said.code).toBe(1)

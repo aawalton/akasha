@@ -9,8 +9,6 @@ export interface FetchLokiLogsArgs {
   since: string
   limit: number
   cursor: string | null
-  commitSha?: string
-  inputsHash?: string
 }
 
 export interface LogEntry {
@@ -116,22 +114,11 @@ export async function findPodNamespaces(args: {
 export const LOKI_RETENTION_MS = 168 * 3_600_000
 export const LOKI_RETENTION_LABEL = "7d"
 
-function buildLogMatcher(args: {
-  pod: string
-  namespace: string
-  commitSha?: string
-  inputsHash?: string
-}): string {
+function buildLogMatcher(args: { pod: string; namespace: string }): string {
   const matchers: string[] = [
     `pod=~"${escapeLokiLabelValue(args.pod)}.*"`,
     `namespace="${escapeLokiLabelValue(args.namespace)}"`,
   ]
-  if (args.commitSha !== undefined) {
-    matchers.push(`pipeline_engine_commit_sha="${args.commitSha}"`)
-  }
-  if (args.inputsHash !== undefined) {
-    matchers.push(`pipeline_engine_inputs_hash="${args.inputsHash}"`)
-  }
   return `{${matchers.join(", ")}}`
 }
 
@@ -139,8 +126,6 @@ export async function hasLinesBeforeWindow(args: {
   pod: string
   namespace: string
   since: string
-  commitSha?: string
-  inputsHash?: string
 }): Promise<boolean | null> {
   try {
     const nowNs = BigInt(Date.now()) * 1_000_000n
