@@ -35,7 +35,7 @@ export function isExcludedFromLuaCompilerScan(rel: string): boolean {
 
 const cachedRootsByRepo = new Map<string, readonly string[]>()
 
-function tstlRoots(repoRoot: string): readonly string[] {
+function luaCompilerRoots(repoRoot: string): readonly string[] {
   const cached = cachedRootsByRepo.get(repoRoot)
   if (cached !== undefined) return cached
   const rels = findFiles({
@@ -51,5 +51,5 @@ function tstlRoots(repoRoot: string): readonly string[] {
 
 export function isLuaCompilerSourcePath(rel: string, repoRoot: string): boolean {
   if (isExcludedFromLuaCompilerScan(rel)) return false
-  return matchesLuaCompilerRoot(rel, tstlRoots(repoRoot))
+  return matchesLuaCompilerRoot(rel, luaCompilerRoots(repoRoot))
 }
