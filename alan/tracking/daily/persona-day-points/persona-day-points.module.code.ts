@@ -10,7 +10,7 @@ import { WRITER } from "../day-scan-window/day-scan-window.module.code.ts"
 import { personaRecipeRows } from "../persona-recipe-rows/persona-recipe-rows.module.code.ts"
 import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
 
-const PUT = "change-mechanical-file/add-file"
+const PUT = "change-mechanical/add-file-of-any-kind"
 
 export const PERSONA_DAY_PAGE_TYPE_SLUG = "persona-day"
 
