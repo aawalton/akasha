@@ -213,6 +213,7 @@ test("a relation property is answered with the shape it is and the page type it 
     slug: "domain-slug",
     propertySlug: "domain-slug",
     fileName: null,
+    folderName: null,
   }
   schemaFiled(root, "relation-property", "domain-slug", [held])
 
@@ -229,6 +230,7 @@ test("a property that names no page is answered with a shape that is not a relat
     slug: "definition",
     propertySlug: "definition",
     fileName: null,
+    folderName: null,
   }
   schemaFiled(root, "standard-agent-english-property", "definition", [held])
 
@@ -245,6 +247,7 @@ test("a property naming many pages is answered with the target it names itself",
     slug: "part-slugs",
     propertySlug: "part-slugs",
     fileName: null,
+    folderName: null,
   }
   schemaFiled(root, "relation-property", "part-slugs", [held])
 
@@ -261,6 +264,7 @@ test("a name saying its page type reads that one file, and passes over another o
     slug: "foo",
     propertySlug: "foo",
     fileName: null,
+    folderName: null,
   }
   const number = {
     pageTypeSlug: "number-property",
@@ -270,6 +274,7 @@ test("a name saying its page type reads that one file, and passes over another o
     slug: "foo",
     propertySlug: "foo",
     fileName: null,
+    folderName: null,
   }
   schemaFiled(root, "text-property", "foo", [text])
   schemaFiled(root, "number-property", "foo", [number])
@@ -307,6 +312,7 @@ test("a bare slug one page type carries is searched for and answered with that s
     slug: "foo",
     propertySlug: "foo",
     fileName: null,
+    folderName: null,
   }
   schemaFiled(root, "text-property", "foo", [held])
 

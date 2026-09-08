@@ -195,6 +195,7 @@ function schemaIn(reading: Reading, at: string): readonly Schema[] {
       slug: stringAt(said, "slug") ?? "",
       propertySlug: stringAt(said, "propertySlug") ?? "",
       fileName: stringAt(said, "fileName"),
+      folderName: stringAt(said, "folderName"),
     })
   }
   return found

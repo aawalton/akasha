@@ -270,6 +270,7 @@ export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
         slug,
         propertySlug: textAt(held, "propertySlug") ?? "",
         fileName: textAt(held, "fileName"),
+        folderName: textAt(held, "folderName"),
       })
     }
   }

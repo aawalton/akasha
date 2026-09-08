@@ -314,6 +314,7 @@ export function sourceOver(values: readonly Value[]): Source {
       slug,
       propertySlug,
       fileName: textAt(value, "fileName"),
+      folderName: textAt(value, "folderName"),
     })
   }
   return {

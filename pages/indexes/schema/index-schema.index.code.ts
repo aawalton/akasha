@@ -27,6 +27,7 @@ export function schemaIn(value: Value): readonly Entry[] {
     slug,
     propertySlug,
     fileName: textAt(value, "fileName"),
+    folderName: textAt(value, "folderName"),
   }
   return [
     {

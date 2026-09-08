@@ -22,4 +22,5 @@ export type Schema = {
   readonly slug: string
   readonly propertySlug: string
   readonly fileName: string | null
+  readonly folderName: string | null
 }

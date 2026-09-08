@@ -71,5 +71,9 @@ export const indexSchema = {
       invariantKind: "departure",
       statement: "No other page's change can leave an entry stale.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A line carries the name the property's folder sits under.",
+    },
   ],
 } as const satisfies Index

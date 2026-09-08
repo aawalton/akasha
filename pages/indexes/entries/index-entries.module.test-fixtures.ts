@@ -20,19 +20,19 @@ export const D = "01a04b79-0000-7000-8000-00000000000d"
 export const SCHEMA = {
   code:
     '{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,' +
-    '"slug":"code","propertySlug":"code","fileName":null}',
+    '"slug":"code","propertySlug":"code","fileName":null,"folderName":null}',
   domainSlug:
     '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,' +
-    '"slug":"domain-slug","propertySlug":"domain-slug","fileName":null}',
+    '"slug":"domain-slug","propertySlug":"domain-slug","fileName":null,"folderName":null}',
   partSlugs:
     '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,' +
-    '"slug":"part-slugs","propertySlug":"part-slugs","fileName":null}',
+    '"slug":"part-slugs","propertySlug":"part-slugs","fileName":null,"folderName":null}',
   noteSlug:
     '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"note","unique":null,"uniquePropertySlug":null,' +
-    '"slug":"note-slug","propertySlug":"note-slug","fileName":null}',
+    '"slug":"note-slug","propertySlug":"note-slug","fileName":null,"folderName":null}',
   either:
     '{"pageTypeSlug":"one-of-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,' +
-    '"slug":"either","propertySlug":"either","fileName":null}',
+    '"slug":"either","propertySlug":"either","fileName":null,"folderName":null}',
   id: JSON.stringify({
     pageTypeSlug: idPage.pageTypeSlug,
     targetPageTypeSlug: null,
@@ -41,6 +41,7 @@ export const SCHEMA = {
     slug: idPage.slug,
     propertySlug: idPage.propertySlug,
     fileName: null,
+    folderName: null,
   }),
   slug: JSON.stringify({
     pageTypeSlug: slugPage.pageTypeSlug,
@@ -50,6 +51,7 @@ export const SCHEMA = {
     slug: slugPage.slug,
     propertySlug: slugPage.propertySlug,
     fileName: null,
+    folderName: null,
   }),
 } as const
 
