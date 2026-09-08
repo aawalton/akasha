@@ -84,8 +84,16 @@ export const changeGuarding = {
       statement: "No guard runs after a guard refuses.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "The index that answer leaves is worked out over that answer alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That answer is settled onto the index a ledger already settled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer a guard refuses leaves that ledger as the ledger was.",
     },
     {
       invariantKind: "departure",

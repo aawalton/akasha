@@ -1,7 +1,7 @@
 import { NOT_WORKED_OUT } from "../../../pages/shadow/shadow.module.code.ts"
-import { beyond, gathered, refusing, replayed } from "../change-answer/change-answer.module.code.ts"
+import { refusing, replayed } from "../change-answer/change-answer.module.code.ts"
 import type { Answer } from "../change-answer/change-answer.module.types.ts"
-import { shadowOver, type World } from "../change-shadow/change-shadow.module.code.ts"
+import { castingOn, type World } from "../change-shadow/change-shadow.module.code.ts"
 import type { Guard, Guarding } from "./change-guarding.module.types.ts"
 
 export const NOT_READ = "the index this guard reads could not be read"
@@ -62,13 +62,13 @@ export function writtenIn(given: Guarding): ReadonlyMap<string, string> {
 
 export function guardedBy(world: World, said: Answer, guards: readonly Guard[]): Answer {
   if (said.refused !== null || guards.length === 0) return said
-  const whole = gathered([world.over, beyond(world.over, said)])
-  if (whole.refused !== null) return refusing(whole.refused)
-  const bodies = replayed(whole, world.base)
+  const casting = castingOn(world, said)
+  if (casting.whole.refused !== null) return refusing(casting.whole.refused)
+  const bodies = replayed(casting.whole, casting.base)
   if ("refused" in bodies) return refusing(bodies.refused)
-  const cast = shadowOver(world.root, whole, world.base)
+  const cast = casting.cast()
   if ("refused" in cast) return refusing(NOT_WORKED_OUT)
-  const given: Guarding = { said, shadow: cast.shadow, before: world }
+  const given: Guarding = { said, shadow: cast, before: world }
   for (const guard of guards) {
     const why = guard(given)
     if (why !== null) return refusing(why)
