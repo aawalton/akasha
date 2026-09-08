@@ -50,14 +50,14 @@ test("the declaring file and the paths handed in beside it are both spelled anew
     NOWHERE
   )
   expect(said.refused).toBe(null)
-  expect([...pathsIn(said)].sort()).toEqual([HELD_CODE, NAMER_CODE])
+  expect([...new Set(pathsIn(said))].sort()).toEqual([HELD_CODE, NAMER_CODE])
   expect(bodyIn(said, root, HELD_CODE)).toBe(`export const ${CARRIED} = 1\n`)
   expect(bodyIn(said, root, NAMER_CODE)).toBe(
     `import { ${CARRIED} } from "../one/held.module.code.ts"\n\nexport const named = ${CARRIED} + 1\n`
   )
 })
 
-test("each body is answered beside the body it was worked out from", () => {
+test("each passage sits in the body it was worked out from and is not that body", () => {
   const root = indexedRepo()
   const text = textIn(root)
   const said = renameExport(
@@ -72,7 +72,9 @@ test("each body is answered beside the body it was worked out from", () => {
   const replacing = said.edits.flatMap((one) => (one.kind === "replace" ? [one] : []))
   expect(replacing.length).toBe(said.edits.length)
   for (const one of replacing) {
-    expect(one.contentFrom).toBe(text(one.path) ?? "")
+    const body = text(one.path) ?? ""
+    expect(body).toContain(one.contentFrom)
+    expect(one.contentFrom.length).toBeLessThan(body.length)
   }
 })
 

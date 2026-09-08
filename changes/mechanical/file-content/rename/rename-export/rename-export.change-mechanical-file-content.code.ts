@@ -11,17 +11,15 @@ import {
 import {
   pathsIn,
   refusing,
+  splicing,
   stating,
-  written,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Said, Stated } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type {
+  Said,
+  Splice,
+  Stated,
+} from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-
-type Spot = {
-  readonly start: number
-  readonly end: number
-  readonly put: string
-}
 
 export function renameExport(
   root: string,
@@ -35,14 +33,14 @@ export function renameExport(
   const typing = typingOver(root, over, readingOf(root, textOf, placed), placed)
   const declared = new Set(exportsNamed(typing, at, of))
   if (declared.size === 0) return refusing(`\`${at}\` exports no \`${of}\``)
-  const held = new Map<string, Spot[]>()
+  const held = new Map<string, Splice[]>()
   const seen = new Set<string>()
   for (const found of referencesOf(typing, root, declared)) {
     const spot = `${found.path}:${found.start}`
     if (seen.has(spot)) continue
     seen.add(spot)
     const spots = held.get(found.path) ?? []
-    spots.push({ start: found.start, end: found.end, put: boundAs(found, of, to) })
+    spots.push({ from: found.start, to: found.end, put: boundAs(found, of, to) })
     held.set(found.path, spots)
   }
   if (held.size === 0) return refusing(`nothing names \`${of}\`, so there is nothing to spell`)
@@ -57,11 +55,8 @@ export function renameExport(
   for (const [path, spots] of held) {
     const text = textOf(path)
     if (text === null) return refusing(`\`${path}\` would change and could not be read`)
-    let body = text
-    for (const one of [...spots].sort((here, there) => there.start - here.start)) {
-      body = body.slice(0, one.start) + one.put + body.slice(one.end)
-    }
-    edits.push(...written(path, text, body))
+    const sorted = [...spots].sort((here, there) => here.from - there.from)
+    edits.push(...splicing(path, text, sorted))
   }
   return stating(edits)
 }
