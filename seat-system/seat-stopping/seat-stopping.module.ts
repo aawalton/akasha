@@ -37,6 +37,14 @@ export const seatStopping = {
     },
     {
       invariantKind: "departure",
+      statement: "A page taken away goes through the change removing a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The landing a page goes through is handed in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A subagent's page goes before its seat is signalled.",
     },
     {

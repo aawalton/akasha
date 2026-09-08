@@ -1,8 +1,8 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { landingAsked, wroteAndTook } from "@akasha/command-system/asking"
+import type { Asking } from "@akasha/changes/mechanical-change-running"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import type { Given } from "@akasha/command-system/calling"
-import type { FileEdit } from "@akasha/command-system/landing"
 import { dropReadings } from "@akasha/command-system/reading"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
 import { removeUncommitted } from "@akasha/pages/page-uncommitted"
@@ -119,37 +119,26 @@ export async function endedSession(name: string): Promise<boolean> {
   return !(await sessionHeld(name))
 }
 
-async function handed(
-  given: Given,
-  changes: readonly FileEdit[],
+export const TAKE = "change-mechanical-file/remove-file"
+
+export type Landing = (
+  root: string,
+  changes: readonly Asking[],
   message: string
-): Promise<boolean> {
-  return (
-    (
-      await landingAsked(given, {
-        changes,
-        message,
-        dryRun: false,
-        glass: null,
-        unmoved: [],
-        saying: wroteAndTook,
-      })
-    ).code === 0
-  )
-}
+) => ReturnType<typeof runMechanicalChange>
 
 export async function took(
   given: Given,
   paths: readonly string[],
-  message: string
+  message: string,
+  landing: Landing = runMechanicalChange
 ): Promise<boolean> {
   const here = paths.filter((one) => existsSync(join(given.root, one)))
   if (here.length === 0) return true
-  const gone = await handed(
-    given,
-    here.map((path) => ({ path, body: null })),
-    message
-  )
+  const changes: readonly Asking[] = here.map((path) => ({ at: TAKE, given: { at: path } }))
+  const landed = await landing(given.root, changes, message)
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  const gone = wrong.length === 0
   if (gone) dropReadings(given.root, here)
   return gone
 }

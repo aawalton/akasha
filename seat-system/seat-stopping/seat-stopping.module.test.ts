@@ -1,18 +1,17 @@
 import { expect, test } from "bun:test"
-import { existsSync, readFileSync } from "node:fs"
-import { join } from "node:path"
-import { MECHANICAL } from "@akasha/command-system/asking"
+import type { Asking } from "@akasha/changes/mechanical-change-running"
+import type { Applied } from "@akasha/command-system/applying"
 import type { Given } from "@akasha/command-system/calling"
-import { blobIdOf, readingIn, recordRead } from "@akasha/command-system/reading"
+import type { Refused } from "@akasha/command-system/landing"
+import { readingIn, recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
-import { said as gitIn } from "@akasha/git/git-running"
-import { rebuiltIn } from "@akasha/indexes/testing"
-import { declaringUnder } from "@akasha/testing-system/declaring"
 import {
   isAgentProcess,
   killTarget,
+  type Landing,
   subagentGuard,
+  TAKE,
   took,
   type Working,
 } from "./seat-stopping.module.code.ts"
@@ -113,90 +112,82 @@ test("a process that is neither is not signalled for the seat", () => {
   expect(isAgentProcess("tmux new-session -d -s athena")).toBe(false)
 })
 
-const TREE = "akasha"
-
 const AGENT = "01a05844-6e60-7000-b54c-4b14559df70d"
 
 const HELD_AT = "held/what-the-seat-held.txt"
 
 const HELD_BODY = "what the seat held\n"
 
-const IMPORTED_AT = `${TREE}/held.ts`
+const MESSAGE = "athena was stopped, so its page goes"
 
-const IMPORTED_BODY = "export const held = 1\n"
+const LANDED: Applied = {
+  base: "0000000000000000000000000000000000000000",
+  landed: [],
+  formatted: [],
+  said: [],
+  wrong: [],
+  commit: "1111111111111111111111111111111111111111",
+}
 
-const IMPORTING_AT = `${TREE}/holding.ts`
+type Handed = { readonly changes: readonly Asking[]; readonly message: string }
 
-const IMPORTING_BODY = 'import { held } from "./held.ts"\n\nexport const holding = held\n'
-
-function seatedRoot(root: string): string {
-  gitIn(root, ["init", "--quiet"])
-  gitIn(root, ["config", "user.email", "held@nowhere"])
-  gitIn(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(declaringUnder(TREE))) writing(root, path, body)
-  writing(root, IMPORTED_AT, IMPORTED_BODY)
-  writing(root, IMPORTING_AT, IMPORTING_BODY)
-  writing(root, HELD_AT, HELD_BODY)
-  gitIn(root, ["add", "-A"])
-  gitIn(root, ["commit", "--quiet", "-m", "first"])
-  rebuiltIn(root, TREE)
-  return root
+function noting(held: Handed[], answer: Applied | Refused = LANDED): Landing {
+  return (_root, changes, message) => {
+    held.push({ changes, message })
+    return Promise.resolve(answer)
+  }
 }
 
 function givenIn(root: string): Given {
-  return {
-    root,
-    calledAs: "seat-stopping",
-    from: root,
-    writer: null,
-    agentId: null,
-    changeKind: MECHANICAL,
-  }
+  return { root, calledAs: "seat-stopping", from: root, writer: null, agentId: null }
 }
 
-test("a page taken away answers that it went, rather than answering the promise of it", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seatedRoot(world.rootFor("seat-stopping-"))
-    const went = await took(givenIn(root), [HELD_AT], "athena was stopped, so its page goes")
-    expect(went).toBe(true)
-    expect(existsSync(join(root, HELD_AT))).toBe(false)
-  } finally {
-    world.sweep()
-  }
+const world = scratchWorld()
+
+function heldIn(): { root: string; oid: string } {
+  const root = world.rootFor("seat-stopping-")
+  return { root, oid: writing(root, HELD_AT, HELD_BODY) }
+}
+
+test("a page taken away is named to the landing at the change removing a file", async () => {
+  const { root } = heldIn()
+  const held: Handed[] = []
+  expect(await took(givenIn(root), [HELD_AT], MESSAGE, noting(held))).toBe(true)
+  expect(held).toEqual([{ changes: [{ at: TAKE, given: { at: HELD_AT } }], message: MESSAGE }])
+  world.sweep()
+})
+
+test("a path that is not there reaches no landing and answers that it went", async () => {
+  const { root } = heldIn()
+  const held: Handed[] = []
+  expect(await took(givenIn(root), ["held/never-written.txt"], MESSAGE, noting(held))).toBe(true)
+  expect(held).toEqual([])
+  world.sweep()
 })
 
 test("a page taken away is forgotten by whoever read it", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seatedRoot(world.rootFor("seat-stopping-"))
-    const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, HELD_AT), "utf8")))
-    recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
-    expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
-    expect(await took(givenIn(root), [HELD_AT], "athena was stopped, so its page goes")).toBe(true)
-    expect(readingIn(root, AGENT, HELD_AT)).toBe(null)
-  } finally {
-    world.sweep()
-  }
+  const { root, oid } = heldIn()
+  recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
+  expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
+  expect(await took(givenIn(root), [HELD_AT], MESSAGE, noting([]))).toBe(true)
+  expect(readingIn(root, AGENT, HELD_AT)).toBe(null)
+  world.sweep()
 })
 
-test("a reading is kept where the page it names did not go", async () => {
-  const world = scratchWorld()
-  try {
-    const root = world.rootFor("seat-stopping-unlanded-")
-    writing(root, HELD_AT, HELD_BODY)
-    const oid = blobIdOf(new TextEncoder().encode(HELD_BODY))
-    recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
-    expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
-    let went: boolean
-    try {
-      went = await took(givenIn(root), [HELD_AT], "athena was stopped, so its page goes")
-    } catch {
-      went = false
-    }
-    expect(went).toBe(false)
-    expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
-  } finally {
-    world.sweep()
-  }
+test("a reading is kept where the landing refused the page it names", async () => {
+  const { root, oid } = heldIn()
+  recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
+  const held = noting([], { refusals: ["another landing held the lock"] })
+  expect(await took(givenIn(root), [HELD_AT], MESSAGE, held)).toBe(false)
+  expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
+  world.sweep()
+})
+
+test("a landing answering something wrong leaves the reading where it is", async () => {
+  const { root, oid } = heldIn()
+  recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
+  const held = noting([], { ...LANDED, wrong: ["the check refused"] })
+  expect(await took(givenIn(root), [HELD_AT], MESSAGE, held)).toBe(false)
+  expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
+  world.sweep()
 })
