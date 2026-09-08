@@ -25,7 +25,7 @@ import {
   taken,
 } from "./music-capture.command.code.ts"
 
-const ROOT = rootOf(import.meta.dir)
+const ROOT = rootOf(process.cwd())
 
 const DAYS = "alan/tracking/daily/eso-days/pages"
 

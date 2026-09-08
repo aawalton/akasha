@@ -8,7 +8,7 @@ import type {
 } from "../../../alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import { gathered, jsonOf, type Reach, rowsOf, taken } from "./music-import-artist.command.code.ts"
 
-const ROOT = rootOf(import.meta.dir)
+const ROOT = rootOf(process.cwd())
 
 const MBID = "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee"
 
