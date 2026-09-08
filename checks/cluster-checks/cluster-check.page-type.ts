@@ -167,6 +167,7 @@ export const clusterCheck = {
     "module/functional-type-purity-scan",
     "module/functional-type-rules",
     "module/functional-type-shapes",
+    "module/git-transport-credential",
   ],
   properties: [
     {
