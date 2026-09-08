@@ -56,6 +56,11 @@ export const theaChecksSystem = {
       workingMemory:
         "12 manifest modules write a placeholder checksum annotation and 9 workflow templates sed it back, 7 of the 11 sed sites naming infra/k8s/src, a tree holding no tracked file. 92 secret pages state placements of resource and key; 52 cluster-service pages state namespace, resource kind and resource name. The missing edge is which secrets a workload reads. Given it, the annotation and the hash both derive, the deploy patches the workload rather than sedding a path, and the check goes.",
     },
+    {
+      statement: "Every env key a client bundle reads is marked for vite rather than for Next.",
+      workingMemory:
+        "Eleven NEXT_PUBLIC keys across five vite apps and supabase-rr, and only 6 files anywhere use import.meta.env. A client read becomes import.meta.env.VITE_X, which vite inlines with no define; a server read inside a loader or entry.server drops the marker instead. Two secret pages spell the prefix in their name and resource key, each with a sops sidecar and a live placement, and dockerfiles and web-apps name the keys, so the pod environment moves in step. Then client-env-define goes.",
+    },
   ],
   constraints: [
     "Each check takes one turn per step, and no turn carries two steps.",
