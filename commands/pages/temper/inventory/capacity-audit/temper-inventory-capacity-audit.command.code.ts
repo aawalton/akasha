@@ -2,8 +2,8 @@ import { resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
+import type { CapacityAudit } from "@akasha/temper-items-rules-routing/inventory-management-plan-capacity-filter"
 import {
-  type CapacityAudit,
   capacityFilter,
   planInputs,
   ruleMatcher,

@@ -21,5 +21,6 @@ export const inventoryPlanCapabilities = {
       invariantKind: "absence",
       statement: "No plan is built here.",
     },
+    { invariantKind: "absence", statement: "No type is sent on from here." },
   ],
 } as const satisfies Module

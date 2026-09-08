@@ -1,32 +1,15 @@
 import { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
 import { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
-import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
-import type { ClassifiableItem } from "@akasha/temper-items-core/item-category-tree-types"
-import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
-import type { ClassifiedInventoryItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
-import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import { computeAllRuleAffectedItems } from "@akasha/temper-items-rules-matcher/inventory-rule-matcher"
 import { buildManagementPlan } from "@akasha/temper-items-rules-routing/inventory-management-plan"
 import {
   applyDestinationCapacityFilter,
   applyDestinationCapacityFilterWithAudit,
-  type CapacityAudit,
-  type CapacityAuditEntry,
 } from "@akasha/temper-items-rules-routing/inventory-management-plan-capacity-filter"
 import { formatPlanChecklist } from "@akasha/temper-items-rules-routing/inventory-plan-checklist"
-import type {
-  CharacterSession,
-  ManagementPlan,
-  PlanItem,
-  VenueStop,
-} from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { loadTemperCharactersFromPath } from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
-  type CharacterKnowledge,
-  loadTemperCharactersFromPath,
-} from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
-import {
-  type CompiledInventoryConfig,
   loadTemperInventoryConfigFromPath,
   parseTemperInventoryConfig,
 } from "../inventory-config-reading/inventory-config-reading.module.code.ts"
@@ -34,26 +17,8 @@ import {
   buildMatcherContext,
   DEFAULT_CHARACTERS_PATH,
   DEFAULT_INVENTORY_PATH,
-  type InventoryPlanInputs,
   loadInventoryPlanInputs,
 } from "../inventory-plan-inputs/inventory-plan-inputs.module.code.ts"
-
-export type {
-  CapacityAudit,
-  CapacityAuditEntry,
-  CharacterKnowledge,
-  CharacterSession,
-  ClassifiableItem,
-  ClassifiedInventoryItem,
-  CompiledInventoryConfig,
-  CompiledOrderedRule,
-  InventoryDatabase,
-  InventoryPlanInputs,
-  ManagementPlan,
-  PlanItem,
-  RuleMatcherContext,
-  VenueStop,
-}
 
 interface PlanInputsModule {
   readonly DEFAULT_INVENTORY_PATH: typeof DEFAULT_INVENTORY_PATH
