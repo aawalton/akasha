@@ -29,15 +29,15 @@ import {
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"
 import { toast } from "sonner"
-import { CharacterEditor } from "../character-editor/character-editor.module.code.tsx"
-import { CompanionEditor } from "../companion-editor/companion-editor.module.code.tsx"
-import type { Route } from "./+types/$pageTypeSlug.$pageHrefParam"
+import { CharacterEditor } from "../../character-editor/character-editor.module.code.tsx"
+import { CompanionEditor } from "../../companion-editor/companion-editor.module.code.tsx"
+import type { Route } from "./+types/page-detail.route.code"
 
 const NAV_SLUG = "nav"
 
 interface CharacterPageRow {
   id: string
-  userId?: string
+  accountPage?: string
   buildHash?: string
   title?: string
   description?: string
@@ -51,7 +51,7 @@ function asCharacterPageRow(row: unknown): CharacterPageRow {
 
 interface CompanionPageRow {
   id: string
-  userId?: string
+  accountPage?: string
   buildHash?: string
   title?: string
   description?: string
@@ -155,15 +155,15 @@ async function loadCharacterDetail(page: Record<string, unknown>, request: Reque
   const buildId = r.id
   const { user, headers } = await getUser(request)
 
-  const buildUserId = r.userId ?? ""
-  const isOwner = user !== null && user.id === buildUserId
+  const buildAccount = r.accountPage ?? ""
+  const isOwner = user !== null && user.id === buildAccount
 
   let isTargetBuild = false
   if (user) {
     const { rows } = await getPages({
       pageTypeSlug: "temper-account-character",
       where: [
-        { key: "userId", eq: user.id },
+        { key: "accountPage", eq: user.id },
         { key: "targetBuildId", eq: buildId },
       ],
       select: ["id"],
@@ -216,15 +216,15 @@ async function loadCompanionDetail(page: Record<string, unknown>, request: Reque
   const buildId = r.id
   const { user, headers } = await getUser(request)
 
-  const buildUserId = r.userId ?? ""
-  const isOwner = user !== null && buildUserId === user.id
+  const buildAccount = r.accountPage ?? ""
+  const isOwner = user !== null && buildAccount === user.id
 
   let isTargetBuild = false
   if (user) {
     const { rows } = await getPages({
       pageTypeSlug: "temper-companion-progress",
       where: [
-        { key: "userId", eq: user.id },
+        { key: "accountPage", eq: user.id },
         { key: "targetBuildId", eq: buildId },
       ],
       select: ["id"],
