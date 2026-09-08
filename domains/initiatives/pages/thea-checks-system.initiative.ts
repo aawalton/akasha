@@ -59,12 +59,7 @@ export const theaChecksSystem = {
     {
       statement: "Every env key a client bundle reads is marked for vite rather than for Next.",
       workingMemory:
-        "Eight keys in scope, not eleven: two are local const identifiers in dev-server-env-writing and NEXT_PUBLIC_ENABLE_LOGS is the vendored Supabase Studio container's own contract. Of 31 read sites 27 take import.meta.env.VITE_*, 13 of them server-side, vite's define reaching the SSR bundle and BUILD_ENV being their only supplier, so stripping those to process.env throws on every SSR request. Alan keeps the cluster Secret key. The five app manifests refuse no-rule-in-two-files first.",
-    },
-    {
-      statement: "Every generated mirror derives its key set from the source it mirrors.",
-      workingMemory:
-        "Nineteen landed in four commits, every generator's emitted bytes unchanged; the canonical's declaration order was the rank table in all nineteen, so ranksOf over createDataFile's .ids replaced each literal. Left is skill-point-public-dungeon, a real 36-key copy that is no generator: deriving it makes temper-player-completion the first non-addon dependent of temper-skill-point-finder, whose own page says nothing here reaches the game. Waiting on that call.",
+        "Six commits: every client read takes import.meta.env.VITE_* now, the manifests hand each key under both names, and the iOS stage script supplies VITE_API_ORIGIN, the only supplier that key has anywhere. Dropping the Next names is held: seven route files reading the build sha and the pmtiles url as build-time literals are claimed by no page, so file-has-its-page refuses any touch. They wait on the same route-slug call as the routes intent.",
     },
   ],
   constraints: [
