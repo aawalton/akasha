@@ -10,8 +10,7 @@ export const alanwaltonHealthIntentDeclaration = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A build raising the state generation drops every anchor the device already carries.",
+      statement: "A build raising the state generation drops every anchor the device already has.",
     },
     {
       invariantKind: "departure",

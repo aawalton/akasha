@@ -17,7 +17,7 @@ export const openQuestion = {
     },
     {
       invariantKind: "departure",
-      statement: "An ask carries no paragraph break.",
+      statement: "An ask has no paragraph break.",
     },
   ],
 } as const satisfies TextProperty

@@ -54,7 +54,7 @@ export const postReceiveMirror = {
     },
     {
       invariantKind: "departure",
-      statement: "A push carries a ceiling.",
+      statement: "A push has a ceiling.",
     },
     {
       invariantKind: "departure",

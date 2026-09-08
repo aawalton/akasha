@@ -30,23 +30,23 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration carries a body written here.",
+      statement: "A declaration has a body written here.",
     },
     {
       invariantKind: "departure",
-      statement: "A function expression carries a body written here.",
+      statement: "A function expression has a body written here.",
     },
     {
       invariantKind: "departure",
-      statement: "An arrow carries a body written here.",
+      statement: "An arrow has a body written here.",
     },
     {
       invariantKind: "departure",
-      statement: "A method carries a body written here.",
+      statement: "A method has a body written here.",
     },
     {
       invariantKind: "departure",
-      statement: "A getter carries a body written here.",
+      statement: "A getter has a body written here.",
     },
     {
       invariantKind: "departure",

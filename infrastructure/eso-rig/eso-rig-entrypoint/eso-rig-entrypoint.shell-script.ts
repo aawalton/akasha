@@ -95,7 +95,7 @@ export const esoRigEntrypoint = {
     },
     {
       invariantKind: "departure",
-      statement: "The first registration stays live and carries every event the rig injects.",
+      statement: "The first registration stays live and has every event the rig injects.",
     },
   ],
 } as const satisfies ShellScript

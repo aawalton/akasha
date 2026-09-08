@@ -28,15 +28,15 @@ export const noBodyReadBesideAnIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "A parameter typed as text is a root where its name carries `root`.",
+      statement: "A parameter typed as text is a root where its name has `root`.",
     },
     {
       invariantKind: "departure",
-      statement: "A parameter typed as text is a root where its name carries `repo`.",
+      statement: "A parameter typed as text is a root where its name has `repo`.",
     },
     {
       invariantKind: "departure",
-      statement: "A parameter typed as text is a root where its name carries `repository`.",
+      statement: "A parameter typed as text is a root where its name has `repository`.",
     },
     {
       invariantKind: "departure",
@@ -79,7 +79,7 @@ export const noBodyReadBesideAnIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "No change carries such a file.",
+      statement: "No change has such a file.",
     },
     {
       invariantKind: "departure",
@@ -125,7 +125,7 @@ export const noBodyReadBesideAnIndex = {
     },
     {
       invariantKind: "gap",
-      statement: "A root reaching a function under a name carrying no root word is not seen.",
+      statement: "A root reaching a function under a name with no root word is not seen.",
     },
     {
       invariantKind: "gap",

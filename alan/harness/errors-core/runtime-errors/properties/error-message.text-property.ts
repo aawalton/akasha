@@ -17,7 +17,7 @@ export const errorMessage = {
     },
     {
       invariantKind: "gap",
-      statement: "A message could carry whatever a person typed.",
+      statement: "A message could have whatever a person typed.",
     },
     {
       invariantKind: "gap",

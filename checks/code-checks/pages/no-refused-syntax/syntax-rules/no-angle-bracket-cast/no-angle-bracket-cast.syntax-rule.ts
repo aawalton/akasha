@@ -32,7 +32,7 @@ export const noAngleBracketCast = {
     },
     {
       invariantKind: "departure",
-      statement: "A type argument written on a call carries the same brackets and is untouched.",
+      statement: "A type argument written on a call has the same brackets and is untouched.",
     },
     {
       invariantKind: "gap",

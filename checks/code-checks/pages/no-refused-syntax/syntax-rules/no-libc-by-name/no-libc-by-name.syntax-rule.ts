@@ -11,7 +11,7 @@ export const noLibcByName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The name one system carries is not the name another carries.",
+      statement: "The name one system has is not the name another has.",
     },
     {
       invariantKind: "departure",

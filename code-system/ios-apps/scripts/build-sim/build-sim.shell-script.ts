@@ -24,7 +24,7 @@ export const buildSim = {
     },
     {
       invariantKind: "departure",
-      statement: "A build carrying no widget extension is refused rather than installed.",
+      statement: "A build with no widget extension is refused rather than installed.",
     },
     {
       invariantKind: "absence",

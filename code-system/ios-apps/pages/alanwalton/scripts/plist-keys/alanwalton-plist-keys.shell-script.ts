@@ -11,7 +11,7 @@ export const alanwaltonPlistKeys = {
     {
       invariantKind: "departure",
       statement:
-        "The plist carries the health update usage key though nothing here writes health data.",
+        "The plist has the health update usage key though nothing here writes health data.",
     },
     {
       invariantKind: "departure",

@@ -13,7 +13,7 @@ export const errorKind = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The kinds a report may carry are named by the report shape.",
+      statement: "The kinds a report may have are named by the report shape.",
     },
     {
       invariantKind: "absence",
