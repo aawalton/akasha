@@ -1,5 +1,5 @@
 import * as ts from "typescript"
-import type * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
+import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 
 export interface OptionalContinuation {
   contextualCall?: luaExpressions.CallExpression

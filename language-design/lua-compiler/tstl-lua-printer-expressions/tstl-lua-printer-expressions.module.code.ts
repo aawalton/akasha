@@ -1,7 +1,7 @@
 import { SourceNode } from "source-map"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { isValidLuaIdentifier } from "../safe-names/safe-names.module.code.ts"
-import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import {
   createSourceNode,
   indent,

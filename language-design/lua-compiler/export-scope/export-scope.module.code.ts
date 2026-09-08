@@ -2,8 +2,8 @@ import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import { requireCreateModuleLocalName } from "../export-deps/export-deps.module.code.ts"
 import { createExportsIdentifier } from "../exports-identifier/exports-identifier.module.code.ts"
+import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { getSymbolInfo } from "../symbols/symbols.module.code.ts"
-import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import { findFirstNodeAbove } from "../typescript/typescript.module.code.ts"
 
 export function hasDefaultExportModifier(node: ts.Node): boolean {

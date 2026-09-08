@@ -1,6 +1,6 @@
 import type * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
+import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 
 export type TransformTypeOfBinaryExpressionFn = (
   context: TransformationContext,

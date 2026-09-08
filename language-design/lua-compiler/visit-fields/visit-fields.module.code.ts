@@ -1,8 +1,8 @@
 import type * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
 import { createSelfIdentifier } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
-import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { transformPropertyName } from "../visit-property-name/visit-property-name.module.code.ts"
 

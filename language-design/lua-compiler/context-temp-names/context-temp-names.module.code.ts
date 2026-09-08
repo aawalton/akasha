@@ -1,8 +1,8 @@
 import * as ts from "typescript"
 import { tempSymbolId } from "../context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { createSafeName } from "../safe-names/safe-names.module.code.ts"
-import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 
 export interface TempNames {
   createTempName: (prefix?: string) => string

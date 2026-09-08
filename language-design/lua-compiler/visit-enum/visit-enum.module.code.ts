@@ -7,8 +7,8 @@ import {
   getSymbolExportScope,
 } from "../export-scope/export-scope.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { createLocalOrExportedOrGlobalDeclaration } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
-import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { isFirstDeclaration } from "../typescript/typescript.module.code.ts"
 import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"

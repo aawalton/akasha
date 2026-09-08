@@ -34,6 +34,7 @@ import { transformSymbolConstructorCall } from "../builtin-symbol/builtin-symbol
 import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import {
   createStaticPromiseFunctionAccessor,
   importLuaLibFeature,
@@ -47,7 +48,6 @@ import {
   unsupportedProperty,
 } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 import { createNaN } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
-import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import {
   getCalledExpression,
   isArrayType,

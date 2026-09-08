@@ -1,10 +1,10 @@
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import {
   invalidMultiIterableWithoutDestructuring,
   invalidPairsIterableWithoutDestructuring,
 } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { cast } from "../tstl-utils/tstl-utils.module.code.ts"
 import { isReferenceType } from "../typescript/typescript.module.code.ts"

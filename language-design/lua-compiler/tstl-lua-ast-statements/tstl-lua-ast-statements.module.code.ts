@@ -5,12 +5,12 @@ import {
   SyntaxKind,
   setNodePositionFromTs,
 } from "../lua-ast-core/lua-ast-core.module.code.ts"
-import type { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import type {
   AssignmentLeftHandSideExpression,
   Expression,
   Identifier,
-} from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
+} from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { castArray } from "../tstl-utils/tstl-utils.module.code.ts"
 
 export interface File extends Node {

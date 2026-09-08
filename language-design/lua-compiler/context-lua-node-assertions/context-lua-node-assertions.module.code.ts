@@ -1,8 +1,8 @@
 import * as ts from "typescript"
 import type { ExpressionLikeNode } from "../context-visitors/context-visitors.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
+import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import type { OneToManyVisitorResult } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
-import type * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 
 function isLuaStatement(node: luaCore.Node): node is luaStatements.Statement {

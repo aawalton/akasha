@@ -4,7 +4,7 @@ import {
   ExtensionKind,
   getExtensionKindForNode,
 } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
-import type * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
+import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { operatorExtensionTransformers } from "../visit-extension-operators/visit-extension-operators.module.code.ts"
 import {
   tableExtensionTransformers,

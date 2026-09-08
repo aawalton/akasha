@@ -5,8 +5,8 @@ import {
   getCallContextType,
 } from "../function-context/function-context.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { wrapInToStringForConcat } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
-import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import { isStringType } from "../typescript/typescript.module.code.ts"
 import { transformContextualCallExpression } from "../visit-call/visit-call.module.code.ts"
 
