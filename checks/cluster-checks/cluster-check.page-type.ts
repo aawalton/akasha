@@ -229,6 +229,7 @@ export const clusterCheck = {
     "module/verdict-emitter-chokepoint",
     "module/walk-package-tree",
     "module/widget-sites",
+    "module/workspace-import-graph",
   ],
   properties: [
     {
