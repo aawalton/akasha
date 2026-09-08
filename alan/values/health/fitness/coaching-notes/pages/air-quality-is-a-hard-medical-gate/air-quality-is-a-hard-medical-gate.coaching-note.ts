@@ -1,8 +1,8 @@
-import type { CoachingConstraint } from "../../coaching-constraint.page-type.ts"
+import type { CoachingNote } from "../../coaching-note.page-type.ts"
 
 export const airQualityIsAHardMedicalGate = {
   id: "019f01e1-b79a-7960-8157-e7ef3d0f8f89",
-  pageTypeSlug: "coaching-constraint",
+  pageTypeSlug: "coaching-note",
   slug: "air-quality-is-a-hard-medical-gate",
   title: "Air quality is a hard medical gate",
   coachingConstraintActive: true,
@@ -10,4 +10,4 @@ export const airQualityIsAHardMedicalGate = {
   coachingConstraintKind: "medical-gate",
   coachingConstraintSortOrder: 5,
   asks: "txt",
-} as const satisfies CoachingConstraint
+} as const satisfies CoachingNote
