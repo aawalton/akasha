@@ -44,8 +44,7 @@
     "./scratching": "./scratching/scratching.module.code.ts",
     "./scratching/testing": "./scratching/scratching.module.test-fixtures.ts",
     "./value-minting": "./value-minting/value-minting.module.code.ts",
-    "./command-failing": "./command-failing/command-failing.module.code.ts",
-    "./commands-served": "./commands-served/commands-served.module.code.ts"
+    "./command-failing": "./command-failing/command-failing.module.code.ts"
   },
   "dependencies": {
     "@akasha/changes": "workspace:*",

@@ -2,8 +2,8 @@ import { afterEach, describe, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
-import { COMMANDS_SERVED, LEASE_ENV } from "@akasha/command-system/commands-served"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import { COMMANDS_SERVED, LEASE_ENV } from "@akasha/editor-extension/commands-served"
 import { colorIn, WORKING_PAGE } from "@akasha/seat-system/seat-turn-color/testing"
 import {
   askServed,

@@ -1,13 +1,13 @@
 import { writeSync } from "node:fs"
 import { sayAnswer } from "@akasha/command-system/answer-bytes"
+import { duringOneCall } from "@akasha/command-system/during-call"
 import {
   COMMANDS_SERVED,
   LEASE_ENV,
   LEASE_MS,
   leaseAsked,
   PROTOCOL,
-} from "@akasha/command-system/commands-served"
-import { duringOneCall } from "@akasha/command-system/during-call"
+} from "@akasha/editor-extension/commands-served"
 
 const HERE = "editor-extension/command-server/command-server.module.code.ts"
 
