@@ -16,7 +16,10 @@ export function transformSymbolConstructorCall(
   switch (methodName) {
     case "for":
     case "keyFor": {
-      importLuaLibFeature(context, LuaLibFeature.SymbolRegistry)
+      importLuaLibFeature(
+        context,
+        methodName === "for" ? LuaLibFeature.SymbolRegistryFor : LuaLibFeature.SymbolRegistryKeyFor
+      )
       const upperMethodName = (methodName[0] ?? "").toUpperCase() + methodName.slice(1)
       const functionIdentifier = luaExpressions.createIdentifier(
         `__TS__SymbolRegistry${upperMethodName}`

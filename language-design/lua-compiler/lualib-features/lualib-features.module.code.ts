@@ -131,6 +131,8 @@ export const LuaLibFeature = {
   StringTrimStart: "StringTrimStart",
   Symbol: "Symbol",
   SymbolRegistry: "SymbolRegistry",
+  SymbolRegistryFor: "SymbolRegistryFor",
+  SymbolRegistryKeyFor: "SymbolRegistryKeyFor",
   TypeOf: "TypeOf",
   Unpack: "Unpack",
   Using: "Using",

@@ -9,6 +9,9 @@ export const luaCompiler = {
   partSlugs: [
     "lua-runtime-library/lualib",
     "lualib/array-at",
+    "lualib/symbol-registry",
+    "lualib/symbol-registry-for",
+    "lualib/symbol-registry-key-for",
     "lualib/clear-interval",
     "lualib/clear-timeout",
     "lualib/queue-microtask",
