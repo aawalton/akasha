@@ -6,7 +6,6 @@ import {
   chosenIn,
   costOf,
   costsIn,
-  footerOf,
   latestOf,
   linesOf,
   meanOf,
@@ -186,7 +185,6 @@ test("a record carrying no run id is counted nowhere where runs were counted", (
 
   expect(costs.checks[0]?.patchRuns).toBe(1)
   expect(costs.checks[0]?.patchCpu).toBe(2)
-  expect(costs.idless).toBe(1)
 })
 
 test("a record carrying no run id is counted where a period was named", () => {
@@ -200,20 +198,6 @@ test("a record carrying no run id is counted where a period was named", () => {
 
   expect(costs.checks[0]?.patchRuns).toBe(2)
   expect(costs.checks[0]?.patchCpu).toBe(3)
-  expect(costs.idless).toBe(0)
-})
-
-test("how many records carry no run id is said beneath the table", () => {
-  const root = rootWith({
-    one: [
-      { phase: "patch", runId: ONE },
-      { phase: "patch", runId: null },
-    ],
-  })
-
-  expect(linesOf(costsIn(root, NOW, ONE_RUN))).toContain(
-    "1 record carries no run id, and what carries none belongs to no run"
-  )
 })
 
 test("only the runs chosen are counted where a count was named", () => {
@@ -269,37 +253,12 @@ test("the total sits beneath the table with its memory drawn absent", () => {
   const said = linesOf({
     checks: [cost],
     total: { patchRuns: 1, patchCpu: 2, auditRuns: 0, auditCpu: null },
-    footer: "the last run",
-    idless: 0,
     unread: [],
     other: [],
   })
 
   expect(spacedOnce(said[2])).toBe("")
   expect(spacedOnce(said[3])).toBe("total 1 2.000s - 0 - -")
-  expect(said).toContain("memory is left out of the total, because peaks do not add")
-})
-
-test("the one run chosen is named beneath the table with the moment that run ran", () => {
-  const runs = runsIn(lineOf({ phase: "patch", runId: ONE, ranAt: agoOf(HOUR) }))
-
-  expect(footerOf(ONE_RUN, runs)).toBe(`the last run \`${ONE}\` ran at ${agoOf(HOUR)}`)
-})
-
-test("how many runs were chosen is said where more than one was chosen", () => {
-  const runs = runsIn(
-    [lineOf({ runId: ONE }), lineOf({ runId: TWO }), lineOf({ runId: THREE })].join("\n")
-  )
-
-  expect(footerOf({ by: "runs", runs: 5 }, runs)).toBe("the last 3 runs")
-})
-
-test("the period chosen is said beneath the table", () => {
-  expect(footerOf({ by: "period", ms: 7200000, said: "2h" }, [])).toBe("over the last 2h")
-})
-
-test("a choice of runs reaching no run says so beneath the table", () => {
-  expect(footerOf(ONE_RUN, [])).toBe("no run carrying a run id was found")
 })
 
 test("how many runs a phase holds is counted beside that phase's averages", () => {
@@ -428,8 +387,6 @@ test("a root holding no checks answers no check rather than throwing", () => {
   expect(costsIn(scratch.rootFor("check-measuring-empty-"), NOW, ONE_RUN)).toEqual({
     checks: [],
     total: { patchRuns: 0, patchCpu: null, auditRuns: 0, auditCpu: null },
-    footer: "no run carrying a run id was found",
-    idless: 0,
     unread: [],
     other: [],
   })

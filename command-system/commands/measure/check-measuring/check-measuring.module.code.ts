@@ -42,10 +42,6 @@ const UNREAD = "these were not read, and count no runs:"
 
 const OTHER = "these runs name a phase this does not split by:"
 
-const NO_ADDING = "memory is left out of the total, because peaks do not add"
-
-const NO_RUN = "no run carrying a run id was found"
-
 const KIB = 1024
 
 const MIB = 1024 * 1024
@@ -99,8 +95,6 @@ export interface Total {
 export interface Costs {
   readonly checks: readonly CheckCost[]
   readonly total: Total
-  readonly footer: string
-  readonly idless: number
   readonly unread: readonly string[]
   readonly other: readonly string[]
 }
@@ -222,15 +216,6 @@ export function totalOf(runs: readonly Run[]): Total {
   }
 }
 
-export function footerOf(chosen: Chosen, runs: readonly Run[]): string {
-  if (chosen.by === "period") return `over the last ${chosen.said}`
-  const latest = [...latestOf(runs)]
-  const only = latest[0]
-  if (only === undefined) return NO_RUN
-  if (latest.length > 1) return `the last ${latest.length} runs`
-  return `the last run \`${only[0]}\` ran at ${new Date(only[1]).toISOString()}`
-}
-
 export function byPatchCpu(a: CheckCost, b: CheckCost): number {
   if (a.patchCpu === null && b.patchCpu === null) return a.check.localeCompare(b.check)
   if (a.patchCpu === null) return 1
@@ -275,11 +260,9 @@ export function costsIn(root: string, now: number, chosen: Chosen): Costs {
   const checks: CheckCost[] = []
   const picked: Run[] = []
   const other = new Map<string, number>()
-  let idless = 0
   for (const one of reading.held) {
     const runs =
       chosen.by === "period" ? withinOf(one.runs, now, chosen.ms) : runningOf(one.runs, ids)
-    if (chosen.by === "runs") idless += one.runs.filter((run) => run.runId === null).length
     for (const run of runs) {
       picked.push(run)
       if (run.phase === PATCH || run.phase === AUDIT) continue
@@ -290,8 +273,6 @@ export function costsIn(root: string, now: number, chosen: Chosen): Costs {
   return {
     checks: [...checks].sort(byPatchCpu),
     total: totalOf(picked),
-    footer: footerOf(chosen, picked),
-    idless,
     unread: reading.unread,
     other: [...other].map(([phase, count]) => `${phase}: ${count}`),
   }
@@ -333,11 +314,6 @@ function totalRowOf(total: Total): readonly string[] {
   ]
 }
 
-export function idlessAs(count: number): string {
-  const many = count === 1 ? "record carries" : "records carry"
-  return `${count} ${many} no run id, and what carries none belongs to no run`
-}
-
 export function linesOf(costs: Costs): readonly string[] {
   const rows: readonly (readonly string[])[] = [
     HEADING,
@@ -346,8 +322,6 @@ export function linesOf(costs: Costs): readonly string[] {
     totalRowOf(costs.total),
   ]
   const said = [...columnsOf(rows)]
-  said.push("", costs.footer, NO_ADDING)
-  if (costs.idless > 0) said.push(idlessAs(costs.idless))
   if (costs.other.length > 0) said.push("", OTHER, ...costs.other)
   if (costs.unread.length > 0) said.push("", UNREAD, ...costs.unread)
   return said
