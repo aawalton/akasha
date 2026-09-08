@@ -268,27 +268,6 @@ test("the file the edits are kept in is the file the apply reports", () => {
   expect(keptAt(PAGE)).toBe(AT)
 })
 
-test("a row kept in the old whole shape is read as what that row narrows to", () => {
-  const root = rootFor()
-  putting(root, lined({ path: ONE, was: null, body: "a\n" }))
-
-  expect(editsIn(root, PAGE)).toEqual({ rows: [{ kind: "add", path: ONE, content: "a\n" }] })
-})
-
-test("a row kept in the old whole shape naming a path it came from is read as a move", () => {
-  const root = rootFor()
-  putting(root, lined({ path: TWO, was: "a\n", body: "a\n", from: ONE }))
-
-  expect(editsIn(root, PAGE)).toEqual({ rows: [{ kind: "move", pathFrom: ONE, pathTo: TWO }] })
-})
-
-test("a whole row and a narrow row are read side by side", () => {
-  const root = rootFor()
-  putting(root, lined({ path: ONE, was: null, body: "a\n" }, adding(TWO, "b\n")))
-
-  expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE, TWO])
-})
-
 test("the rows a settle writes again are the rows that settle answered", () => {
   const root = rootFor()
   appendEdits(root, PAGE, [

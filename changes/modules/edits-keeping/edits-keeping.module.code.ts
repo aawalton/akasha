@@ -6,8 +6,8 @@ import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
-import { type BodyOf, gathered, narrowed } from "../change-answer/change-answer.module.code.ts"
-import type { Answer, Edit, Reading, Stated } from "../change-answer/change-answer.module.types.ts"
+import { type BodyOf, gathered } from "../change-answer/change-answer.module.code.ts"
+import type { Answer, Reading, Stated } from "../change-answer/change-answer.module.types.ts"
 
 const SLUG = "edits"
 
@@ -53,19 +53,6 @@ function owing(said: Record<string, unknown>): Reading | null {
   }
 }
 
-function edited(said: unknown): Edit | null {
-  if (typeof said !== "object" || said === null) return null
-  const one = said as Record<string, unknown>
-  const { path, was, body, from } = one
-  if (typeof path !== "string") return null
-  if (was !== null && typeof was !== "string") return null
-  if (body !== null && typeof body !== "string") return null
-  if (from !== undefined && typeof from !== "string") return null
-  const owed = owing(one)
-  if (owed === null) return null
-  return { path, was, body, ...(from === undefined ? {} : { from }), ...owed }
-}
-
 function stated(said: unknown): Stated | null {
   if (typeof said !== "object" || said === null) return null
   const one = said as Record<string, unknown>
@@ -106,10 +93,9 @@ function rowsIn(text: string): Kept {
     const line = lines[at]
     if (line === undefined || line === "") continue
     const read = parsed(line)
-    const one = edited(read) ?? stated(read)
+    const one = stated(read)
     if (one === null) return { why: `line ${String(at + 1)} ${NO_ROW}` }
-    if (one.kind === undefined) said.push(...narrowed(one))
-    else said.push(one)
+    said.push(one)
   }
   return { rows: said }
 }
