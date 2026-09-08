@@ -5,7 +5,7 @@ import {
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { knownOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { changeDomainParent, runChange } from "./change-domain-parent.change-checked.code.ts"
+import { changeDomainParent, runChange } from "./change-domain-parent.change-agent.code.ts"
 
 const COMMAND = "01a07932-2568-72a6-8b8e-314ac44c417b"
 

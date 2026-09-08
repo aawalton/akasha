@@ -1,8 +1,8 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const changeDomainParent = {
   id: "01a0795e-9c4f-7299-9238-117baca6b57e",
-  pageTypeSlug: "change-checked",
+  pageTypeSlug: "change-agent",
   slug: "change-domain-parent",
   changeModeSlug: "change-mode-change",
   definition: "one page made a part of another page rather than of the page naming it now",
@@ -65,4 +65,4 @@ export const changeDomainParent = {
       statement: "A parent stating no parts is refused rather than gaining the list.",
     },
   ],
-} as const satisfies ChangeChecked
+} as const satisfies ChangeAgent

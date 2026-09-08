@@ -8,7 +8,7 @@ export const changeAgentFileContent = {
   partSlugs: [
     "change-authored/change-file",
     "change-checked/add-property-value",
-    "change-checked/change-domain-parent",
+    "change-agent/change-domain-parent",
     "change-checked/change-page-property",
     "change-checked/remove-package-alias",
     "change-checked/remove-property-value",
