@@ -1,3 +1,4 @@
+import { saidBy } from "@akasha/command-system/fault-saying"
 import { getEsoDayStr } from "@akasha/day/eso-day"
 import { resolveRoots } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-service/asking"
@@ -30,10 +31,6 @@ export const SOME_STAND_STALE =
 export type Taken = {
   readonly kept: Readonly<Record<string, number>>
   readonly unread: readonly string[]
-}
-
-function whyOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 function temperTasksIn(values: Readonly<Record<string, unknown>>): number | null {
@@ -83,7 +80,7 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
   ])
 
   if (day.status === "rejected") {
-    wanting([TASKS_PAGE, TEMPER_TASKS_PAGE], whyOf(day.reason))
+    wanting([TASKS_PAGE, TEMPER_TASKS_PAGE], saidBy(day.reason))
   } else if (day.value === null) {
     wanting([TASKS_PAGE, TEMPER_TASKS_PAGE], `no tracking day is written down for ${esoDay}`)
   } else {
@@ -97,7 +94,7 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
   }
 
   if (mail.status === "rejected") {
-    wanting([EMAIL_PAGE], whyOf(mail.reason))
+    wanting([EMAIL_PAGE], saidBy(mail.reason))
   } else if (mail.value === null) {
     wanting([EMAIL_PAGE], `no mail entry is written down for ${mailDay}`)
   } else {
@@ -127,7 +124,7 @@ if (import.meta.main) {
       process.exit(1)
     }
   } catch (thrown) {
-    process.stderr.write(`${whyOf(thrown)}\n`)
+    process.stderr.write(`${saidBy(thrown)}\n`)
     process.exit(1)
   }
 }
