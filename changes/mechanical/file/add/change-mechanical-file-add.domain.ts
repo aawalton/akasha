@@ -7,6 +7,7 @@ export const changeMechanicalFileAdd = {
   definition: "a mechanical change adding a file",
   partSlugs: [
     "change-mechanical-file/add-file",
+    "change-mechanical/add-file-of-any-kind",
     "change-mechanical/add-file-code",
     "change-mechanical/add-file-page",
     "change-mechanical/add-file-page-type",
