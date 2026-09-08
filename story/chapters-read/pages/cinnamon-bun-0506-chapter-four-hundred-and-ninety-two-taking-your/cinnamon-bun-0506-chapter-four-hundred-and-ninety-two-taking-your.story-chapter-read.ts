@@ -5,7 +5,7 @@ export const cinnamonBun0506ChapterFourHundredAndNinetyTwoTakingYour = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0506-chapter-four-hundred-and-ninety-two-taking-your",
   title: "Chapter Four Hundred and Ninety-Two - Taking Your Leader with Me",
-  partOfSlugs: ["story-read/cinnamon-bun"],
+  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
   position: 506,
   ownLength: 1541,
   unitSlug: "words",

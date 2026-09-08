@@ -5,7 +5,7 @@ export const cinnamonBun0484ChapterFourHundredAndSeventyWhetYour = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0484-chapter-four-hundred-and-seventy-whet-your",
   title: "Chapter Four Hundred and Seventy - Whet Your Appetite",
-  partOfSlugs: ["story-read/cinnamon-bun"],
+  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
   position: 484,
   ownLength: 1613,
   unitSlug: "words",

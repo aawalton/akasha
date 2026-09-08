@@ -5,7 +5,7 @@ export const cinnamonBun0515ChapterFiveHundredAndOneForWantOfA = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0515-chapter-five-hundred-and-one-for-want-of-a",
   title: "Chapter Five Hundred and One - For Want of a Thousand Nails",
-  partOfSlugs: ["story-read/cinnamon-bun"],
+  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
   position: 515,
   ownLength: 1726,
   unitSlug: "words",

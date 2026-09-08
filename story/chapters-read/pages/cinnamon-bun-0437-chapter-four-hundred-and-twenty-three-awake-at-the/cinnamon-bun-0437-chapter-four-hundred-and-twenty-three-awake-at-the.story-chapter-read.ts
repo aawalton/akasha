@@ -5,7 +5,7 @@ export const cinnamonBun0437ChapterFourHundredAndTwentyThreeAwakeAtThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0437-chapter-four-hundred-and-twenty-three-awake-at-the",
   title: "Chapter Four Hundred and Twenty-Three - Awake at the Witching Hour",
-  partOfSlugs: ["story-read/cinnamon-bun"],
+  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
   position: 437,
   ownLength: 2027,
   unitSlug: "words",
