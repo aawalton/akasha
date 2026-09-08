@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { put } from "@akasha/testing-system/putting"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import {
   bytesAs,
@@ -30,6 +29,7 @@ import {
   spacedOnce,
   THREE,
   TWO,
+  unreadableInto,
 } from "./check-measuring.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
@@ -386,8 +386,7 @@ test("every numbered file of a check's entries is read in order rather than the 
 })
 
 test("entries that could not be read are named beneath the table", () => {
-  const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 1 }] })
-  put(root, "checks/code-checks/pages/bad/bad.code-check.entries.uncommitted.jsonl", "{not json\n")
+  const root = unreadableInto(rootWith({ one: [{ phase: "patch", cpuSeconds: 1 }] }), "bad")
   const costs = costsIn(root, NOW, DAY_BACK)
 
   expect(costs.checks.map((one) => one.check)).toEqual(["one"])
@@ -410,7 +409,9 @@ test("a count of bytes is rounded to the whole byte before it is scaled", () => 
 })
 
 test("a root holding no checks answers no check rather than throwing", () => {
-  expect(costsIn(scratch.rootFor("check-measuring-empty-"), NOW, ONE_RUN)).toEqual({
+  const root = rowsInto(scratch.rootFor("check-measuring-empty-"), {})
+
+  expect(costsIn(root, NOW, ONE_RUN)).toEqual({
     checks: [],
     total: { runs: 0, cpu: null, paths: 0, refusals: 0 },
     unread: [],

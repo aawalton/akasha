@@ -1,7 +1,16 @@
+import { nothingFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { put } from "@akasha/testing-system/putting"
 import type { CheckCost, Chosen, Costs } from "./check-measuring.module.code.ts"
 
 const ENTRIES = "entries"
+
+const CHECKED = "code-check"
+
+const UNDER = "checks/code-checks/pages"
+
+const NOT_JSON = "{not json\n"
+
+const UNREADABLE = 99
 
 const FIRST_PART = 1
 
@@ -42,7 +51,18 @@ export function lineOf(one: Record<string, unknown>): string {
 
 export function partAt(check: string, part: number): string {
   const named = part === FIRST_PART ? ENTRIES : `${ENTRIES}.part${part}`
-  return `checks/code-checks/pages/${check}/${check}.code-check.${named}.uncommitted.jsonl`
+  return `${UNDER}/${check}/${check}.${CHECKED}.${named}.uncommitted.jsonl`
+}
+
+function idOf(at: number): string {
+  return `01a08071-39a4-7000-9c6b-${String(at).padStart(12, "0")}`
+}
+
+function checkFiled(root: string, check: string, at: number): undefined {
+  const path = `${UNDER}/${check}/${check}.${CHECKED}.ts`
+  valueAlsoFiled(root, CHECKED, [
+    { path, value: { id: idOf(at), pageTypeSlug: CHECKED, slug: check } },
+  ])
 }
 
 export function rowsInto(
@@ -50,9 +70,17 @@ export function rowsInto(
   held: Record<string, readonly Record<string, unknown>[]>,
   part = FIRST_PART
 ): string {
-  for (const [check, rows] of Object.entries(held)) {
+  nothingFiled(root)
+  for (const [at, [check, rows]] of Object.entries(held).entries()) {
+    if (part === FIRST_PART) checkFiled(root, check, at)
     put(root, partAt(check, part), `${rows.map(lineOf).join("\n")}\n`)
   }
+  return root
+}
+
+export function unreadableInto(root: string, check: string): string {
+  checkFiled(root, check, UNREADABLE)
+  put(root, partAt(check, FIRST_PART), NOT_JSON)
   return root
 }
 

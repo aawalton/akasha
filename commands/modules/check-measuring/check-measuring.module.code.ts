@@ -1,9 +1,9 @@
-import { existsSync, readdirSync, readFileSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { everyOfType } from "@akasha/indexes"
+import { partedIn } from "@akasha/pages/page-file-name"
 import { uncommittedPartsOf } from "../../../pages/file-parts/page-file-parts.module.code.ts"
 import { columnsOf } from "../checkout-counting/checkout-counting.module.code.ts"
-
-const PAGES_AT = "checks/code-checks/pages"
 
 const CHECKED = "code-check"
 
@@ -265,28 +265,20 @@ export function byCpu(a: CheckCost, b: CheckCost): number {
   return b.cpu - a.cpu || a.check.localeCompare(b.check)
 }
 
-function pageAt(folder: string): string {
-  return join(PAGES_AT, folder, `${folder}.${CHECKED}.ts`)
-}
-
 export function partsIn(root: string, page: string): readonly string[] {
   const there = (at: string): boolean => existsSync(join(root, at))
   return uncommittedPartsOf(page, ENTRIES, HELD, there).filter(there)
 }
 
 export function heldIn(root: string): Reading {
-  let folders: readonly string[]
-  try {
-    folders = readdirSync(join(root, PAGES_AT))
-  } catch {
-    return { held: [], unread: [] }
-  }
   const held: Held[] = []
   const unread: string[] = []
-  for (const folder of [...folders].sort()) {
+  for (const page of everyOfType(root, CHECKED)) {
+    const named = partedIn(page.path)
+    if (named === null) continue
     const runs: Run[] = []
     let read = false
-    for (const at of partsIn(root, pageAt(folder))) {
+    for (const at of partsIn(root, page.path)) {
       try {
         for (const one of runsIn(readFileSync(join(root, at), "utf8"))) runs.push(one)
         read = true
@@ -294,7 +286,7 @@ export function heldIn(root: string): Reading {
         unread.push(at)
       }
     }
-    if (read) held.push({ check: folder, runs })
+    if (read) held.push({ check: named.slug, runs })
   }
   return { held, unread }
 }
