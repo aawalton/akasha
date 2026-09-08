@@ -5,7 +5,7 @@ export const breakerOfHorizons0173173UnexpectedExercise = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0173-173-unexpected-exercise",
   title: "173. Unexpected Exercise",
-  partOfSlugs: ["story-read/breaker-of-horizons"],
+  partOfCollectionSlugs: ["story-read/breaker-of-horizons"],
   position: 173,
   ownLength: 2193,
   unitSlug: "words",

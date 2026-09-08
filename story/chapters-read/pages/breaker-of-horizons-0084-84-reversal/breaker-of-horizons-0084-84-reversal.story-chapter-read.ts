@@ -5,7 +5,7 @@ export const breakerOfHorizons008484Reversal = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0084-84-reversal",
   title: "84. Reversal",
-  partOfSlugs: ["story-read/breaker-of-horizons"],
+  partOfCollectionSlugs: ["story-read/breaker-of-horizons"],
   position: 84,
   ownLength: 1948,
   unitSlug: "words",

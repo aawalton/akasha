@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003535Honor = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0035-35-honor",
   title: "35: Honor",
-  partOfSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
+  partOfCollectionSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
   position: 35,
   ownLength: 1146,
   unitSlug: "words",

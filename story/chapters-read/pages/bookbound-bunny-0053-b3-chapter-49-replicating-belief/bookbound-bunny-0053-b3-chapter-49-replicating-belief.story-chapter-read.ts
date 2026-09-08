@@ -5,7 +5,7 @@ export const bookboundBunny0053B3Chapter49ReplicatingBelief = {
   pageTypeSlug: "story-chapter-read",
   slug: "bookbound-bunny-0053-b3-chapter-49-replicating-belief",
   title: "B3 - Chapter 49 - Replicating Belief",
-  partOfSlugs: ["bookbound-bunny"],
+  partOfCollectionSlugs: ["bookbound-bunny"],
   position: 53,
   ownLength: 2269,
   unitSlug: "words",

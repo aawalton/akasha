@@ -5,7 +5,7 @@ export const breakerOfHorizons0149149TheRoadToMastery = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0149-149-the-road-to-mastery",
   title: "149. The Road to Mastery",
-  partOfSlugs: ["story-read/breaker-of-horizons"],
+  partOfCollectionSlugs: ["story-read/breaker-of-horizons"],
   position: 149,
   ownLength: 2241,
   unitSlug: "words",

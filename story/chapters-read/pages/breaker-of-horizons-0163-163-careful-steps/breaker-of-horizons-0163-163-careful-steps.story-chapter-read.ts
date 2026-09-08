@@ -5,7 +5,7 @@ export const breakerOfHorizons0163163CarefulSteps = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0163-163-careful-steps",
   title: "163. Careful Steps",
-  partOfSlugs: ["story-read/breaker-of-horizons"],
+  partOfCollectionSlugs: ["story-read/breaker-of-horizons"],
   position: 163,
   ownLength: 2142,
   unitSlug: "words",

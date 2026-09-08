@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002323PreparingTheBait = 
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0023-23-preparing-the-bait",
   title: "23: Preparing the bait",
-  partOfSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
+  partOfCollectionSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
   position: 23,
   ownLength: 1729,
   unitSlug: "words",

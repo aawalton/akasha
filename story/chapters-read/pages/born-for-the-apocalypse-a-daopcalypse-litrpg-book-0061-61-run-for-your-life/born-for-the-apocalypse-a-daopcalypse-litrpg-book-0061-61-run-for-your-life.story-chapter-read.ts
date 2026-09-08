@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook006161RunForYourLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0061-61-run-for-your-life",
   title: "61: Run for your life",
-  partOfSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
+  partOfCollectionSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
   position: 61,
   ownLength: 1603,
   unitSlug: "words",

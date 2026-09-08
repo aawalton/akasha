@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002828HiddenPiece = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0028-28-hidden-piece",
   title: "28: Hidden Piece",
-  partOfSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
+  partOfCollectionSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
   position: 28,
   ownLength: 1136,
   unitSlug: "words",

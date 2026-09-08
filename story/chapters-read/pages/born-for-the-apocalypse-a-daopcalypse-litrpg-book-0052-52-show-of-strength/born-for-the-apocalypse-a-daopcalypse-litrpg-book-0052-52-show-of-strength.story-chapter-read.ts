@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005252ShowOfStrength = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0052-52-show-of-strength",
   title: "52: Show of Strength",
-  partOfSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
+  partOfCollectionSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
   position: 52,
   ownLength: 1729,
   unitSlug: "words",

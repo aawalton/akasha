@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0071Book2Chapter8OneDown 
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0071-book-2-chapter-8-one-down",
   title: "Book 2: Chapter 8- One down",
-  partOfSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
+  partOfCollectionSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
   position: 71,
   ownLength: 1056,
   unitSlug: "words",
