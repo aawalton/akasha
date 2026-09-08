@@ -75,6 +75,11 @@ export const theaChecksSystem = {
       workingMemory:
         "Ten files, each wanting its own decision rather than a rule, and Alan reviews them one at a time. Four prefixed dockerfile extensions in one folder under infrastructure/dockerfiles. A ratchet and a config are named like property files whose property nothing declares. Then a territory map, an eso opt-in, a hard-cases markdown, and a canary under __fixtures__ that sits in a folder rather than beside its page. The two health-samples jsonl moved to the orphaned property files.",
     },
+    {
+      statement: "Every property file has the page whose property that file is.",
+      workingMemory:
+        "Eleven files a reading of names calls claimed while the page they belong to is gone, so no count of unclaimed files held them. Eight eso-day health-samples under alan/tracking/daily/eso-days/pages, dated 2026-08-31 through 2026-09-07, running to yesterday, so a writer still lays them down and writes no page. Two more under alan/eso-daily-tracking, which holds nothing else. One is change-running.change-runner.addressed.ts. Either the page returns or the file goes, and only Alan says which.",
+    },
   ],
   constraints: [
     "Each check takes one turn per step, and no turn carries two steps.",
