@@ -2,10 +2,14 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
 import type { LifetimePoints } from "./properties/lifetime-points.number-property.ts"
 import type { PointUnit } from "./properties/point-unit.text-property.ts"
+import type { PointsToday } from "./properties/points-today.number-property.ts"
+import type { PointsTotal } from "./properties/points-total.number-property.ts"
 
 export type Attribute = Domain & {
   pointUnit: PointUnit
   lifetimePoints: LifetimePoints
+  pointsToday?: PointsToday
+  pointsTotal?: PointsTotal
 }
 
 export const attribute = {
@@ -24,11 +28,15 @@ export const attribute = {
     "attribute/strength",
     "attribute/wisdom",
     "number-property/lifetime-points",
+    "number-property/points-today",
+    "number-property/points-total",
     "text-property/point-unit",
   ],
   properties: [
     { pagePropertySlug: "text-property/point-unit", required: true, many: false },
     { pagePropertySlug: "number-property/lifetime-points", required: true, many: false },
+    { pagePropertySlug: "number-property/points-today", required: false, many: false },
+    { pagePropertySlug: "number-property/points-total", required: false, many: false },
   ],
   invariants: [
     {
