@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0754Chapter753SomeRevelations 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0754-chapter-753-some-revelations",
   title: "Chapter 753 - Some Revelations",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 754,
   ownLength: 3150,
   unitSlug: "words",

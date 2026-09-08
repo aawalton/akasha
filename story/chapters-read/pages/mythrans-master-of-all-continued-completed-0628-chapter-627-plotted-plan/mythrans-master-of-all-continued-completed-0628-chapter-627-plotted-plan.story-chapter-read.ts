@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0628Chapter627PlottedPlan = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0628-chapter-627-plotted-plan",
   title: "Chapter 627 - Plotted Plan",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 628,
   ownLength: 2677,
   unitSlug: "words",

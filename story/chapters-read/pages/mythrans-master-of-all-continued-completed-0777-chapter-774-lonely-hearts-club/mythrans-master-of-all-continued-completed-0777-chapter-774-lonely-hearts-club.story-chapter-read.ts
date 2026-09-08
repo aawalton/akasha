@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0777Chapter774LonelyHeartsClub
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0777-chapter-774-lonely-hearts-club",
   title: "Chapter 774 - Lonely Hearts Club",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 777,
   ownLength: 3111,
   unitSlug: "words",

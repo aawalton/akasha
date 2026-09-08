@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0669Chapter668WorkingOnIt = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0669-chapter-668-working-on-it",
   title: "Chapter 668 - Working On It",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 669,
   ownLength: 3296,
   unitSlug: "words",

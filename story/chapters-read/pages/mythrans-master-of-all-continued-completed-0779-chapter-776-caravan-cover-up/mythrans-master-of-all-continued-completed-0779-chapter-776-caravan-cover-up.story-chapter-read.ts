@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0779Chapter776CaravanCoverUp =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0779-chapter-776-caravan-cover-up",
   title: "Chapter 776 - Caravan Cover-Up",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 779,
   ownLength: 2965,
   unitSlug: "words",

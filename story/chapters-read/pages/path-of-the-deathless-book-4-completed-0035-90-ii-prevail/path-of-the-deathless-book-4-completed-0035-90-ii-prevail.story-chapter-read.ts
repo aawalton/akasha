@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed003590IiPrevail = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0035-90-ii-prevail",
   title: "90 (II) Prevail",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 35,
   ownLength: 0,
   unitSlug: "words",

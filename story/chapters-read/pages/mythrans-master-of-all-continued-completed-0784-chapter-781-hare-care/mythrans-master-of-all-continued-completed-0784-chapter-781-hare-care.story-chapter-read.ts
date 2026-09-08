@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0784Chapter781HareCare = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0784-chapter-781-hare-care",
   title: "Chapter 781- Hare Care",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 784,
   ownLength: 3148,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0644Chapter643MarketShare = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0644-chapter-643-market-share",
   title: "Chapter 643 - Market Share",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 644,
   ownLength: 3250,
   unitSlug: "words",

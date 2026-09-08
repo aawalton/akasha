@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0652Chapter651AreYouSureThatsT
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0652-chapter-651-are-you-sure-thats-training",
   title: "Chapter 651 - Are You Sure That's Training?",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 652,
   ownLength: 3020,
   unitSlug: "words",

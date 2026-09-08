@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0769Chapter768MakingTheRounds 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0769-chapter-768-making-the-rounds",
   title: "Chapter 768 - Making The Rounds",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 769,
   ownLength: 3404,
   unitSlug: "words",

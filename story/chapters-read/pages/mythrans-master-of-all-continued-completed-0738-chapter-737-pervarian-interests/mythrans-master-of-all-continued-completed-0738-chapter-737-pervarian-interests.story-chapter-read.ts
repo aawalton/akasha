@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0738Chapter737PervarianInteres
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0738-chapter-737-pervarian-interests",
   title: "Chapter 737 - Pervarian Interests",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 738,
   ownLength: 2719,
   unitSlug: "words",

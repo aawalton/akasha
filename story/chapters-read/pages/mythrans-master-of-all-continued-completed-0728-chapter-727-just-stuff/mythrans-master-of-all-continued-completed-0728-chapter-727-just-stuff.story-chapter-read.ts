@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0728Chapter727JustStuff = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0728-chapter-727-just-stuff",
   title: "Chapter 727 - Just Stuff",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 728,
   ownLength: 3328,
   unitSlug: "words",

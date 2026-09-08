@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0758Chapter757MidnightExpress 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0758-chapter-757-midnight-express",
   title: "Chapter 757 - Midnight Express",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 758,
   ownLength: 3119,
   unitSlug: "words",

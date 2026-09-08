@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0760Chapter759BarbiAndBanter =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0760-chapter-759-barbi-and-banter",
   title: "Chapter 759 - Barbi And Banter",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 760,
   ownLength: 2955,
   unitSlug: "words",

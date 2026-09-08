@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0785Chapter782RealStuffHappens
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0785-chapter-782-real-stuff-happens",
   title: "Chapter 782 - Real Stuff Happens",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 785,
   ownLength: 3159,
   unitSlug: "words",

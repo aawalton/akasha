@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed002485IChronomancer = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0024-85-i-chronomancer",
   title: "85 (I) Chronomancer",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 24,
   ownLength: 0,
   unitSlug: "words",

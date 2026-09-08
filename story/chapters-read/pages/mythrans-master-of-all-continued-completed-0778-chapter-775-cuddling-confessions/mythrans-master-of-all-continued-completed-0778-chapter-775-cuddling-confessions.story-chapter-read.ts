@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0778Chapter775CuddlingConfessi
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0778-chapter-775-cuddling-confessions",
   title: "Chapter 775 - Cuddling Confessions",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 778,
   ownLength: 3218,
   unitSlug: "words",
