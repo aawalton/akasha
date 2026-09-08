@@ -21,7 +21,7 @@ export const changeApply = {
     "an apply the checks refused leaves every edit kept, and that is the dry run.",
     "why the apply refused is written beside this agent's page, whole.",
     "`break-the-glass` says why no check is to run, and the reason is written into the commit.",
-    "`measure` runs the checks, holds no test file to a ceiling, says what each spent, and lands nothing.",
+    "`measure` runs the checks, holds no test file to a ceiling, is allowed more seconds than this page states, says what each spent, and lands nothing.",
     "the edits `akasha change draft` kept are folded into one answer and landed.",
     "an apply that refuses puts the fold back, so the edits are kept for a change to mend.",
     "an edit for a body the apply writes again is dropped rather than folded, and the report names it.",
@@ -95,6 +95,10 @@ export const changeApply = {
     {
       invariantKind: "departure",
       statement: "A measuring apply holds no test file to a ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A measuring apply is allowed more seconds than this page states.",
     },
     {
       invariantKind: "departure",

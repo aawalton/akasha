@@ -4,7 +4,11 @@ const SECONDS = 1000
 
 export const ALLOWED = 120
 
+export const MEASURED_ALLOWED = 1800
+
 export type Watch = { readonly ended: () => void }
+
+let live: Worker | null = null
 
 export function secondsIn(page: Record<string, unknown> | null): number {
   const said = page === null ? null : page[TIMEOUT]
@@ -25,8 +29,24 @@ export function watchOf(seconds: number, said: string, pid: number): string {
   )
 }
 
-export function watching(seconds: number, named: string): Watch {
+function workerFor(seconds: number, named: string): Worker {
   const body = watchOf(seconds, saidOf(named, seconds), process.pid)
-  const watch = new Worker(URL.createObjectURL(new Blob([body])))
-  return { ended: () => watch.terminate() }
+  return new Worker(URL.createObjectURL(new Blob([body])))
+}
+
+export function watching(seconds: number, named: string): Watch {
+  live = workerFor(seconds, named)
+  return {
+    ended: () => {
+      if (live !== null) live.terminate()
+      live = null
+    },
+  }
+}
+
+export function allowedAgain(seconds: number, named: string): undefined {
+  if (live !== null) {
+    live.terminate()
+    live = workerFor(seconds, named)
+  }
 }

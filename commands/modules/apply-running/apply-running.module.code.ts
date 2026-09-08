@@ -4,7 +4,11 @@ import { droppedFirst, editsAt, foldedIn, keptEdits, linesIn } from "@akasha/cha
 import { agentPathOf } from "@akasha/context/warranting"
 import { costRecorded, opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
 import { writtenPathsIn } from "../../../command-system/address-mapping/address-mapping.module.code.ts"
-import { applying, type Carried } from "../../../command-system/applying/applying.module.code.ts"
+import {
+  applying,
+  askedIn,
+  type Carried,
+} from "../../../command-system/applying/applying.module.code.ts"
 import {
   type Given as Arguments,
   readingIn,
@@ -13,6 +17,10 @@ import { mistaking } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { waitingSaid } from "../../../command-system/change-acting/change-acting.module.code.ts"
 import { noPageSaid } from "../../../command-system/change-running/change-running.module.code.ts"
+import {
+  allowedAgain,
+  MEASURED_ALLOWED,
+} from "../../../command-system/command-stopping/command-stopping.module.code.ts"
 import {
   type Rebased,
   type Running,
@@ -23,6 +31,8 @@ import { inputIn, type Piping } from "../../../command-system/piping/piping.modu
 import { APPLY, CHANGE_APPLY_PAGE } from "../change-costing/change-costing.module.code.ts"
 
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
+
+const MEASURED_NAME = "akasha change apply"
 
 export type Unfold = { readonly went: readonly string[] }
 
@@ -136,6 +146,8 @@ async function ending(taken: Arguments, given: Given): Promise<Ended> {
 }
 
 export async function applyWith(taken: Arguments, given: Given): Promise<Answer> {
+  const asked = askedIn(taken)
+  if (!("refusals" in asked) && asked.measure) allowedAgain(MEASURED_ALLOWED, MEASURED_NAME)
   const before = opening()
   const done = await ending(taken, given)
   const refusals = done.answer.refusals.length

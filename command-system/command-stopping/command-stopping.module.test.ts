@@ -1,7 +1,17 @@
 import { expect, test } from "bun:test"
-import { ALLOWED, saidOf, secondsIn, watchOf } from "./command-stopping.module.code.ts"
+import {
+  ALLOWED,
+  allowedAgain,
+  MEASURED_ALLOWED,
+  saidOf,
+  secondsIn,
+  watching,
+  watchOf,
+} from "./command-stopping.module.code.ts"
 
 const NAMED = "akasha one"
+
+const SECOND = 1000
 
 test("the seconds a command is allowed are read off that command's own page", () => {
   expect(secondsIn({ timeout: 5 })).toBe(5)
@@ -40,4 +50,19 @@ test("what is said names the call and the seconds that call was allowed", () => 
 
 test("what is said sends a ceiling that wants raising to Alan", () => {
   expect(saidOf(NAMED, 30)).toContain("Ask Alan")
+})
+
+test("a call measuring is allowed more seconds than a call this module names the seconds for", () => {
+  expect(MEASURED_ALLOWED).toBeGreaterThan(ALLOWED)
+})
+
+test("a call may be allowed more seconds while that call runs", async () => {
+  const watch = watching(1, NAMED)
+  allowedAgain(MEASURED_ALLOWED, NAMED)
+  const at = Date.now()
+
+  await Bun.sleep(SECOND + SECOND / 2)
+  watch.ended()
+
+  expect(Date.now() - at).toBeGreaterThan(SECOND)
 })

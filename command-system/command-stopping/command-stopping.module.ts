@@ -50,6 +50,28 @@ export const commandStopping = {
       statement: "A call answering inside its seconds ends the watch.",
     },
     {
+      invariantKind: "departure",
+      statement: "One watch is live at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Ending the watch ends whichever watch is live rather than the watch first started.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call may be allowed more seconds while that call runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Allowing more seconds ends the watch that was live and starts a watch for those seconds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call allowed more seconds where no watch is live is left with no watch.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here waits on the answer a command gives.",
     },
