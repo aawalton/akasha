@@ -34,6 +34,7 @@ export const syntaxRule = {
     "syntax-rule/no-double-cast",
     "syntax-rule/no-libc-by-name",
     "syntax-rule/no-local-midnight-parse",
+    "syntax-rule/no-never-settling-throw",
     "syntax-rule/no-non-null-assertion",
     "syntax-rule/no-run-outside-the-runner",
     "syntax-rule/no-scrub-bash-env-undoes",
