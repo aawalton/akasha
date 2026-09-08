@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { bytes } from "@akasha/utils-run/running"
+import { bytes } from "@akasha/utils/run/running"
 import { classifyExtension, type FileKind } from "../file-kind/file-kind.module.code.ts"
 
 const BIOME_AT = "node_modules/.bin/biome"

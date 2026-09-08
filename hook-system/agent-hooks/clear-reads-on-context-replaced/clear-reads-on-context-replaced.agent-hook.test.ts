@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { READS_AT, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { ran } from "@akasha/utils-run/running"
+import { ran } from "@akasha/utils/run/running"
 import {
   actingIn,
   agentIn,

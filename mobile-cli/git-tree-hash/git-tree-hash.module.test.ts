@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { said } from "@akasha/utils-run/running"
+import { said } from "@akasha/utils/run/running"
 import { buildInputSources } from "../build-input-sources/build-input-sources.module.code.ts"
 import type { MobileApp } from "../mobile-app/mobile-app.module.code.ts"
 import { computeBuildInputTreeHash } from "./git-tree-hash.module.code.ts"

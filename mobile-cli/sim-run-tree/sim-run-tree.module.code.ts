@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { InputError } from "@akasha/errors-core/exit-code"
-import { said } from "@akasha/utils-run/running"
+import { said } from "@akasha/utils/run/running"
 import { MACBOOK } from "../macbook-target/macbook-target.module.code.ts"
 import {
   type MobileApp,

@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { said } from "@akasha/utils-run/running"
+import { said } from "@akasha/utils/run/running"
 
 const SUFFIX = ".json"
 

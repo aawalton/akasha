@@ -50,7 +50,7 @@
     "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/temper-upstream-data": "workspace:*",
     "@akasha/temper-watcher": "workspace:*",
-    "@akasha/utils-run": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "zod": "^4.3.6",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages-query": "workspace:*",

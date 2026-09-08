@@ -11,7 +11,7 @@ import {
 } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { argvFor } from "@akasha/git/git-running"
-import { ran } from "@akasha/utils-run/running"
+import { ran } from "@akasha/utils/run/running"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import type { FileCarry } from "../path-carrying/path-carrying.module.code.ts"
 

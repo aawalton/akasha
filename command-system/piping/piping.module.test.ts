@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { ran } from "@akasha/utils-run/running"
+import { ran } from "@akasha/utils/run/running"
 import type { Piping } from "./piping.module.code.ts"
 import { markedLine, markingIn, passagesIn, pipedIn } from "./piping.module.code.ts"
 import { TERMINAL } from "./piping.module.test-fixtures.ts"

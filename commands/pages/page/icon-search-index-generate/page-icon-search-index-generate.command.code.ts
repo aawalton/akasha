@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, mkdtempSync, realpathSync, rmSync, writeFileSync
 import { dirname, join } from "node:path"
 import { addingFile, changingFile, landingAt, removingAt } from "@akasha/code/name-series"
 import type { Answer, Given } from "@akasha/command-system/calling"
-import { ran } from "@akasha/utils-run/running"
+import { ran } from "@akasha/utils/run/running"
 import {
   AGGREGATE,
   bytesIn,

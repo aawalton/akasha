@@ -17,7 +17,7 @@
     "./secret-checksum": "./secret-checksum/secret-checksum.module.code.ts"
   },
   "dependencies": {
-    "@akasha/utils-run": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "cdk8s": "^2.70.60",
     "zod": "^4.3.6"
   }

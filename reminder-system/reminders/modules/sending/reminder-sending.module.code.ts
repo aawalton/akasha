@@ -2,7 +2,7 @@ import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { valuesOfType } from "@akasha/indexes"
 import { mergeUncommitted, removeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
 import { textAt } from "@akasha/pages/page-value"
-import { ran } from "@akasha/utils-run/running"
+import { ran } from "@akasha/utils/run/running"
 
 const TOOK = "change-mechanical-file/remove-file"
 

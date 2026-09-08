@@ -24,7 +24,7 @@
   "dependencies": {
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-lua-runner": "workspace:*",
-    "@akasha/utils-run": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "@akasha/git": "workspace:*"
   }
 }

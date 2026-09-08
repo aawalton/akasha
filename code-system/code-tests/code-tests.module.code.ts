@@ -1,8 +1,8 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { besideAt } from "@akasha/pages/page-file-name"
-import type { Said } from "@akasha/utils-run/running"
-import { ran } from "@akasha/utils-run/running"
+import type { Said } from "@akasha/utils/run/running"
+import { ran } from "@akasha/utils/run/running"
 import { type Bodies, mountedOver, type Overlay } from "../test-overlay/test-overlay.module.code.ts"
 
 const TS = ".ts"

@@ -5,7 +5,7 @@ import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { uncommittedIn } from "@akasha/pages/page-uncommitted"
 import { textAt, valueAt } from "@akasha/pages/page-value"
-import { NO_CODE, ran, type Said } from "@akasha/utils-run/running"
+import { NO_CODE, ran, type Said } from "@akasha/utils/run/running"
 import {
   orderedWallpaperSlugs,
   type WallpaperRow,

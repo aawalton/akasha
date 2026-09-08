@@ -5,7 +5,7 @@ import { numberAt, textAt } from "@akasha/pages/page-value"
 import type { AddonManifest } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
-import { ran } from "@akasha/utils-run/running"
+import { ran } from "@akasha/utils/run/running"
 import {
   compilerConfigPathFor,
   TSCONFIG_NAME,

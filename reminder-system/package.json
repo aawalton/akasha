@@ -12,6 +12,6 @@
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/seat-system": "workspace:*",
-    "@akasha/utils-run": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

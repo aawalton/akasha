@@ -5,7 +5,7 @@ import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,
 } from "@akasha/seat-system/supervisor-self-heal-state"
-import { ran } from "@akasha/utils-run/running"
+import { ran } from "@akasha/utils/run/running"
 import { keepBeside } from "../../seat-beside/seat-beside.module.code.ts"
 import { runningModeIn } from "../../seat-modes/seat-modes.module.code.ts"
 import { type BeatReport, beat } from "../../seat-page-beat/seat-page-beat.module.code.ts"

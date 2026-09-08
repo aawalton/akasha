@@ -18,7 +18,7 @@
     "@akasha/pages": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
     "@akasha/temper-saved-vars-migration": "workspace:*",
-    "@akasha/utils-run": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "typescript": "5.9.3"
   }
 }

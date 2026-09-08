@@ -1,4 +1,4 @@
-import { ran } from "@akasha/utils-run/running"
+import { ran } from "@akasha/utils/run/running"
 
 export const WATCHER_UNIT = "temper-watcher.service"
 

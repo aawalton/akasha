@@ -1,6 +1,6 @@
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
-import { ran } from "@akasha/utils-run/running"
+import { ran } from "@akasha/utils/run/running"
 import { mirroredOf } from "../../../modules/change-mirror/change-mirror.module.code.ts"
 import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {

@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { dataAt } from "@akasha/file-system/data-place"
-import { ran } from "@akasha/utils-run/running"
+import { ran } from "@akasha/utils/run/running"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 import { askedIn, refusalFor, SCOPE } from "./block-akasha-edits.agent-hook.code.ts"
 

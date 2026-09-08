@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Said } from "@akasha/utils-run/running"
-import { ran } from "@akasha/utils-run/running"
+import type { Said } from "@akasha/utils/run/running"
+import { ran } from "@akasha/utils/run/running"
 import { type Bodies, HOLD, insideOf, mountedOver } from "./test-overlay.module.code.ts"
 
 const roots: string[] = []

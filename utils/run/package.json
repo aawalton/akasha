@@ -1,9 +1,0 @@
-{
-  "name": "@akasha/utils-run",
-  "private": true,
-  "type": "module",
-  "exports": {
-    "./running": "./running/running.module.code.ts",
-    "./spawn-ceiling": "./spawn-ceiling/spawn-ceiling.module.code.ts"
-  }
-}

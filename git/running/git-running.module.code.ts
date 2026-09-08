@@ -1,4 +1,4 @@
-import { type Asked, said as saying } from "@akasha/utils-run/running"
+import { type Asked, said as saying } from "@akasha/utils/run/running"
 
 export type Wanted = {
   readonly timeout?: number

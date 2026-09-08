@@ -6,7 +6,7 @@ import type { Change } from "@akasha/pages/change"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
-import { ran } from "@akasha/utils-run/running"
+import { ran } from "@akasha/utils/run/running"
 import { PAGES } from "../change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "../judging/judging.module.code.ts"
 

@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { indexNamed } from "@akasha/indexes"
-import { ran } from "@akasha/utils-run/running"
+import { ran } from "@akasha/utils/run/running"
 import {
   editsInPlace,
   landingsIn,

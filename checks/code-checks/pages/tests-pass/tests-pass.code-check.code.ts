@@ -12,7 +12,7 @@ import type { Bodies } from "@akasha/code/test-overlay"
 import { bodiesFrom } from "@akasha/indexes/rebuilding"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
-import { endingOf } from "@akasha/utils-run/running"
+import { endingOf } from "@akasha/utils/run/running"
 import {
   input,
   type Selector,

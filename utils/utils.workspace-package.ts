@@ -10,7 +10,7 @@ export const utils = {
     "domain/utils-fs",
     "workspace-package/utils-narrow",
     "workspace-package/utils-process",
-    "workspace-package/utils-run",
+    "domain/utils-run",
     "workspace-package/utils-system",
     "workspace-package/utils-sync",
   ],
