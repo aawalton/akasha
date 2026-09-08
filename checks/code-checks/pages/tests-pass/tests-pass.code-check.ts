@@ -21,11 +21,11 @@ export const testsPass = {
     {
       invariantKind: "departure",
       statement:
-        "The tests run in a world written out of the change's bodies rather than in the working tree.",
+        "The tests run in the working tree, with the change's bodies served in place of the files there.",
     },
     {
       invariantKind: "departure",
-      statement: "The world the tests run in carries the index the change leaves.",
+      statement: "A file the change carries is served whether or not a file is there for it.",
     },
     {
       invariantKind: "departure",
