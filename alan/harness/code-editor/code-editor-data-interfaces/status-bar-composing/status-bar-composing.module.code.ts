@@ -1,15 +1,3 @@
-// THE ONE LINE THE STATUS BAR DRAWS, COMPOSED FROM THE PAGES IN THIS CHECKOUT.
-//
-// Every figure here was fetched before, and a beat was where the awaiting went: the fleet's spend
-// from a child process, and the three stoplight sections over HTTP from the pages service. But
-// every page those answers are built from sits in this checkout — the accounts, the readouts naming
-// each group, the scale each readout names, and the reading kept in the file beside each readout's
-// page. Composed off the disk instead, the line takes no turn to await in, which is what lets the
-// status bar be watched as the four trees are.
-//
-// The readouts are read once for the three groups rather than once for each, because finding the
-// readouts one group holds reads the whole set anyway.
-
 import { dirname, join } from "node:path"
 import { readFleetUsage } from "@akasha/agents/claude-account-usage"
 import { typeSlugOf, valuesOfType } from "@akasha/indexes"
@@ -51,8 +39,6 @@ type Held = {
   readonly values: Values
 }
 
-// The index carries what a page landed with, and a reading never lands, so the file beside each
-// page is merged in over what the index holds.
 function heldOfType(root: string, pageType: string): readonly Held[] {
   const found: Held[] = []
   for (const one of valuesOfType(root, typeSlugOf(root, pageType))) {
@@ -71,11 +57,6 @@ function namesGroup(values: Values, groupSlug: string): boolean {
   return Array.isArray(named) && named.includes(groupSlug)
 }
 
-// THE FOLDERS A WATCH OF THIS LINE FOLLOWS. Every figure the line carries is kept in the file
-// beside a page rather than in the page, so what a watch follows is the folder each of those pages
-// sits in: one for each readout, and one for each account. Both are read off the index here rather
-// than spelled in the watcher, so a readout or an account added lands in the watch on the next
-// start rather than being missed until somebody remembers a second list.
 export function watchedFoldersIn(root: string): readonly string[] {
   const found = new Set<string>()
   for (const pageType of [READOUT, CLAUDE_ACCOUNT]) {
@@ -116,9 +97,6 @@ function stoplightsByGroup(root: string, now: Date): ReadonlyMap<string, readonl
   return held
 }
 
-// A GROUP THAT CAME OUT EMPTY LEAVES THE EDITOR DRAWING WHAT IT LAST DREW THERE. Every group names
-// at least one readout, so no stoplights is a reading that failed rather than a group that is well,
-// and answering null here is what keeps the last good glyphs on the screen.
 function sectionOf(
   held: ReadonlyMap<string, readonly Stoplight[]>,
   groupSlug: string
@@ -128,8 +106,6 @@ function sectionOf(
   return { glyphs: glyphsOf(stoplights), legend: legendOf(stoplights) }
 }
 
-// A checkout naming no account is refused rather than answered as a fleet that has spent nothing,
-// and the two figures are drawn as dashes rather than losing the three sections beside them.
 function usageNow(): UsageReading | null {
   try {
     const fleet = readFleetUsage()
