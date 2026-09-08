@@ -12,8 +12,6 @@ export const commandSystem = {
     "module/format-output",
     "module/payload",
     "page-type/command",
-    "page-type/namespace",
-    "page-type/refactor-command",
     "module/calling",
     "module/command-answering",
     "module/command-filling",

@@ -111,6 +111,8 @@ export const command = {
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",
+    "page-type/namespace",
+    "page-type/refactor-command",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/calling",
