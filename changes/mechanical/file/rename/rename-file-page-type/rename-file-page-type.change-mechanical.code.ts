@@ -1,5 +1,7 @@
 import { extname } from "node:path"
-import { partedIn } from "@akasha/pages/page-file-name"
+import { besideAt, partedIn } from "@akasha/pages/page-file-name"
+import { typedAs } from "../../../../../pages/export-name/page-export-name.module.code.ts"
+import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { gathered, refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
@@ -19,11 +21,19 @@ const MOVE_FILE_CODE = "change-mechanical/move-file-code"
 
 const MOVE_FILE = "change-mechanical-file/move-file"
 
+const RENAME_EXPORT = "change-mechanical-file-content/rename-export"
+
 const PAGE_TYPE = "page-type"
 
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const CODE = new Set([".ts", ".tsx"])
+
+const WORKED = "worked"
+
+const HOLDS = "ts"
+
+const WORKED_NAME = "Worked"
 
 export type Asked = {
   readonly at: string
@@ -124,6 +134,33 @@ async function pageAnew(
   })
 }
 
+function workedIn(world: World, now: string): string | null {
+  const listed = world.index.listedAt(PAGE_TYPE, now)
+  const at = listed.length === 1 ? listed[0]?.path : undefined
+  if (at === undefined) return null
+  const beside = besideAt(at, WORKED, HOLDS)
+  if (beside === null || world.textOf(beside) === null) return null
+  return beside
+}
+
+async function workedAnew(
+  world: World,
+  answers: readonly Answer[],
+  was: string,
+  now: string
+): Promise<Carried> {
+  const at = workedIn(world, now)
+  if (at === null) return { answers, world }
+  const reading = importingOf(world.index, new Map([[at, at]]))
+  if ("unread" in reading) return { refused: reading.unread }
+  return await heldOver(world, answers, RENAME_EXPORT, {
+    at,
+    over: [at, ...reading.importers],
+    of: `${WORKED_NAME}${typedAs(was)}`,
+    to: `${WORKED_NAME}${typedAs(now)}`,
+  })
+}
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const said = partedIn(given.at)
   if (said === null || said.sections.length > 0 || said.pageType !== PAGE_TYPE) {
@@ -154,5 +191,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     answers = carried.answers
     seen = carried.world
   }
-  return gathered(answers)
+  const worked = await workedAnew(seen, answers, was, given.to)
+  if ("refused" in worked) return refusing(worked.refused)
+  return gathered(worked.answers)
 }

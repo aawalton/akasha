@@ -71,5 +71,13 @@ export const renameFilePageType = {
       invariantKind: "departure",
       statement: "A file the rename leaves behind is refused by the guard named here.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The type a page type's worked file exports is spelled from the new slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body importing that worked type imports the type the new slug names.",
+    },
   ],
 } as const satisfies ChangeMechanical
