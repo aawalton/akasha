@@ -1,4 +1,4 @@
-import { dirname, extname } from "node:path"
+import { extname } from "node:path"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { gathered, refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
@@ -37,9 +37,7 @@ type Filed = {
   readonly claimed: readonly string[]
 }
 
-type Read =
-  | { readonly filed: readonly Filed[]; readonly folders: readonly string[] }
-  | { readonly refused: string }
+type Read = { readonly filed: readonly Filed[] } | { readonly refused: string }
 
 type Carried =
   | { readonly answers: readonly Answer[]; readonly world: World }
@@ -49,7 +47,7 @@ function why(cause: unknown): string {
   return cause instanceof Error ? cause.message : String(cause)
 }
 
-function readIn(world: World, at: string, was: string): Read {
+function readIn(world: World, was: string): Read {
   const found: Filed[] = []
   try {
     for (const [path, value] of world.index.valuesByPath(was)) {
@@ -57,7 +55,7 @@ function readIn(world: World, at: string, was: string): Read {
       if (said === null) return { refused: `\`${path}\` reads as no page file` }
       found.push({ at: path, slug: said.slug, claimed: claimedIn(world, path, value) })
     }
-    return { filed: found, folders: world.index.foldersIn(dirname(at)) }
+    return { filed: found }
   } catch (cause) {
     return { refused: why(cause) }
   }
@@ -118,32 +116,20 @@ async function pageAnew(
   })
 }
 
-function landedIn(said: Answer, at: string): string | null {
-  for (const one of said.edits) {
-    if (one.kind === "move" && one.pathFrom === at) return one.pathTo
-  }
-  return null
-}
-
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const said = partedIn(given.at)
   if (said === null || said.sections.length > 0 || said.pageType !== PAGE_TYPE) {
     return refusing(`\`${given.at}\` names no page type, so no page type is renamed`)
   }
   const was = said.slug
-  const read = readIn(world, given.at, was)
+  const read = readIn(world, was)
   if ("refused" in read) return refusing(`${read.refused}, so no page type is renamed`)
-  const folder = dirname(given.at)
   const typed = await reach(world, RENAME_FILE_PAGE, {
     at: given.at,
     to: given.to,
     plural: given.plural,
   })
   if (typed.said.refused !== null) return typed.said
-  const lands = landedIn(typed.said, given.at)
-  if (lands !== null && dirname(lands) !== folder && read.folders.length > 0) {
-    return refusing(`\`${folder}\` holds folders the carry to \`${dirname(lands)}\` leaves behind`)
-  }
   let answers: readonly Answer[] = [typed.said]
   let seen = typed.world
   for (const one of read.filed) {

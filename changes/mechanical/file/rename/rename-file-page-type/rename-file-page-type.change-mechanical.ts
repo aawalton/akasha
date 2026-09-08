@@ -37,10 +37,6 @@ export const renameFilePageType = {
     },
     {
       invariantKind: "departure",
-      statement: "A carry taking that own file out of a folder holding folders is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A page's address is restated before any file that page claims is carried.",
     },
     {

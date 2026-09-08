@@ -15,10 +15,5 @@ export const changeMechanicalFileRename = {
       invariantKind: "departure",
       statement: "A file's rename is that file's carry, so nothing here renames a file alone.",
     },
-    {
-      invariantKind: "gap",
-      statement:
-        "A page type owning its folder is renamed by nothing, its folders being left behind.",
-    },
   ],
 } as const satisfies Domain

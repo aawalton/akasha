@@ -13,7 +13,6 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
   bodiesIn,
   ledgerAt,
@@ -30,6 +29,12 @@ import { runChange as moveFile } from "../../move/move-file/move-file.change-mec
 import { runChange as moveFileCode } from "../../move/move-file-code/move-file-code.change-mechanical.code.ts"
 import { runChange } from "./rename-file-page.change-mechanical.code.ts"
 import {
+  movesOf,
+  OWNED_CODE,
+  OWNED_LANDS,
+  OWNED_PAGE,
+  OWNED_UNDER,
+  ownedAt,
   SEATED_PAGE,
   SEATED_SLUG,
   SECOND_PAGE,
@@ -140,14 +145,6 @@ const RUNS: Reaching = async (world, at, given) => {
 
 function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, RUNS)
-}
-
-function movesOf(said: Answer): readonly (readonly [string, string])[] {
-  const found: (readonly [string, string])[] = []
-  for (const one of said.edits) {
-    if (one.kind === "move") found.push([one.pathFrom, one.pathTo])
-  }
-  return found
 }
 
 test("a body that could not be read is refused", async () => {
@@ -327,6 +324,16 @@ test("a page sharing its folder is renamed in the folder that page sits in", asy
   expect(movesOf(said)).toEqual([
     [OTHER_PAGE, "akasha/three/carried.module.ts"],
     [OTHER_CODE, "akasha/three/carried.module.code.ts"],
+  ])
+})
+
+test("a page owning its folder carries what sits under that folder, each file once", async () => {
+  const said = await runChange(worldIn(ownedAt, textIn(ownedAt)), { at: OWNED_PAGE, to: CARRIED })
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([
+    [OWNED_PAGE, CARRIED_PAGE],
+    [OWNED_CODE, CARRIED_CODE],
+    [OWNED_UNDER, OWNED_LANDS],
   ])
 })
 

@@ -120,6 +120,20 @@ function movesOver(beside: readonly Beside[], at: string, to: string): readonly 
   return found.sort((one, two) => (one.from < two.from ? -1 : one.from > two.from ? 1 : 0))
 }
 
+function underIn(
+  world: World,
+  from: string,
+  to: string,
+  carried: ReadonlySet<string>
+): readonly Move[] {
+  const found: Move[] = []
+  for (const path of world.under(from)) {
+    if (carried.has(path)) continue
+    found.push({ from: path, to: join(to, relative(from, path)) })
+  }
+  return found.sort((one, two) => (one.from < two.from ? -1 : one.from > two.from ? 1 : 0))
+}
+
 function pluralIn(world: World, held: Held): string {
   const at = world.index.listedAt(PAGE_TYPE, held.pageTypeSlug)[0]?.path
   if (at === undefined) return ""
@@ -286,7 +300,12 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     if (given.plural !== undefined) return refusing(`${carries}, so no plural is restated`)
     if (lands === given.at) return refusing(`${carries}, in the folder that slug names`)
   }
-  const carries = [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]
+  const carries: Move[] = [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]
+  const wasFolder = dirname(given.at)
+  const nowFolder = dirname(lands)
+  if (nowFolder !== wasFolder) {
+    carries.push(...underIn(world, wasFolder, nowFolder, new Set(carries.map((one) => one.from))))
+  }
   const way = wayIn(world, new Map(carries.map((one) => [one.from, one.to])), held.slug, given.to)
   if (given.to !== held.slug) {
     const addressed = await reach(seen, RENAME_PAGE_ADDRESS, {

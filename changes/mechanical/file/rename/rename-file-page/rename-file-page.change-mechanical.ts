@@ -51,6 +51,18 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
+      statement: "A page owning its folder carries every file under that folder with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a file keeps its place beneath the folder that page lands in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the page carries already is carried once rather than a second time.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file under no TypeScript name is carried by the change carrying a file alone.",
     },
     {
