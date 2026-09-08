@@ -1,6 +1,3 @@
-// The stoplights themselves are composed by the service that writes what the status bar draws,
-// which reads the readout pages off the checkout it sits in. What is left here is the drawing.
-
 import type { Stoplight } from "@akasha/readout-system/readout-group-serving"
 
 const LEGEND_SEPARATOR = " · "
