@@ -12,7 +12,7 @@ export const pageIconSearchIndexGenerate = {
     { said: "--stage <path>", takes: "the folder the bodies are staged in" },
   ],
   helpNotes: [
-    "nothing lands here: the bodies are staged, and the script answered drafts them with `akasha change` and lands them with `akasha apply`.",
+    "nothing lands here: the bodies are staged, and the script answered drafts them with `akasha change draft` and lands them with `akasha change apply`.",
     "a shard that stood before keeps the id it had, and only a shard that is new is given one.",
     "the icons are packed into shards under a budget rather than written as one file, because a body is refused past a size.",
     "the budget an entries shard is packed against leaves room for what formatting adds, and the pascal shards need none.",

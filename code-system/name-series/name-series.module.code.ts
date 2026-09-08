@@ -251,7 +251,7 @@ export function quoted(word: string): string {
 const FENCE = "AKASHA-BODY"
 
 export function removingAt(change: string, rel: string): string {
-  return `printf 'at: %s\\n' ${quoted(rel)} | akasha change ${change}`
+  return `printf 'at: %s\\n' ${quoted(rel)} | akasha change draft ${change}`
 }
 
 function fenced(key: string, at: string, body: string): readonly string[] {
@@ -268,7 +268,7 @@ export function addingFile(rel: string, at: string, body: string): readonly stri
     "{",
     `  printf 'at: %s\\n' ${quoted(rel)}`,
     ...fenced("body", at, body),
-    "} | akasha change add-file",
+    "} | akasha change draft add-file",
   ]
 }
 
@@ -283,8 +283,12 @@ export function changingFile(
     `  printf 'at: %s\\n' ${quoted(rel)}`,
     ...fenced("old", was, readFileSync(was, "utf8")),
     ...fenced("new", at, body),
-    "} | akasha change change-file",
+    "} | akasha change draft change-file",
   ]
+}
+
+export function landingAt(at: string): readonly string[] {
+  return ["{", ...fenced("message", at, readFileSync(at, "utf8")), "} | akasha change apply"]
 }
 
 export function stageSeries(
@@ -333,12 +337,7 @@ export function stageSeries(
   writeFileSync(messageAt, `${message}\n`)
 
   const landAt = join(stage, "land.sh")
-  const script = [
-    "#!/usr/bin/env bash",
-    "set -euo pipefail",
-    ...calls,
-    `akasha apply --message-file ${quoted(messageAt)}`,
-  ]
+  const script = ["#!/usr/bin/env bash", "set -euo pipefail", ...calls, ...landingAt(messageAt)]
   writeFileSync(landAt, `${script.join("\n")}\n`)
   return { files, goneRels, changed, landAt }
 }

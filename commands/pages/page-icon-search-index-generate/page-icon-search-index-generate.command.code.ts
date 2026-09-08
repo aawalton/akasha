@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { addingFile, changingFile, quoted, removingAt } from "@akasha/code/name-series"
+import { addingFile, changingFile, landingAt, removingAt } from "@akasha/code/name-series"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { ran } from "@akasha/utils-run/running"
 import {
@@ -125,12 +125,7 @@ function staged(
   )
 
   const landAt = join(stage, "land.sh")
-  const script = [
-    "#!/usr/bin/env bash",
-    "set -euo pipefail",
-    ...calls,
-    `akasha apply --message-file ${quoted(messageAt)}`,
-  ]
+  const script = ["#!/usr/bin/env bash", "set -euo pipefail", ...calls, ...landingAt(messageAt)]
   writeFileSync(landAt, `${script.join("\n")}\n`)
   return landAt
 }
