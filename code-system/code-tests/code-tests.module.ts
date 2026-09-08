@@ -285,6 +285,18 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "A run is handed an overlay of a change's bodies or nothing at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run handed an overlay is run inside the tree that overlay mounts.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Which files a run names is read off the checkout rather than through an overlay.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run is named by path.",
     },
     {

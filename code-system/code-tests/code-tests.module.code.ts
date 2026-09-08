@@ -4,6 +4,7 @@ import { besideAt } from "@akasha/pages/page-file-name"
 import type { Said } from "@akasha/utils-run/running"
 import { ran } from "@akasha/utils-run/running"
 import type { Serving } from "../test-bodies/test-bodies.module.code.ts"
+import type { Overlay } from "../test-overlay/test-overlay.module.code.ts"
 
 const TS = ".ts"
 
@@ -232,9 +233,16 @@ export function batchedOf(named: readonly string[]): readonly (readonly string[]
   return held
 }
 
-function runsIn(root: string, argv: readonly string[], ceiling: number | null): Said {
-  const held = { cwd: root, env: { ...process.env, [RUNNING]: MARK } }
-  return ran([...argv], ceiling === null ? held : { ...held, cpuCeiling: ceiling })
+function runsIn(
+  root: string,
+  argv: readonly string[],
+  ceiling: number | null,
+  over: Overlay | null
+): Said {
+  const env = over === null ? process.env : { ...process.env, ...over.env }
+  const held = { cwd: root, env: { ...env, [RUNNING]: MARK } }
+  const called = over === null ? [...argv] : [...over.under(argv)]
+  return ran(called, ceiling === null ? held : { ...held, cpuCeiling: ceiling })
 }
 
 function runsFor(root: string, named: readonly string[]): readonly Grouping[] {
@@ -252,14 +260,16 @@ export function spentIn(
   serves: readonly string[],
   naming: readonly string[],
   serving: Serving | null,
-  ceiling: number | null = CEILING
+  ceiling: number | null = CEILING,
+  over: Overlay | null = null
 ): readonly Spent[] {
   const found: Spent[] = []
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const one of group.named) {
       const at = serving?.standing.get(one) ?? one
-      const done = runsIn(root, [RUNNER, RUNS, ...serves, ...preloading, ...naming, at], ceiling)
+      const argv = [RUNNER, RUNS, ...serves, ...preloading, ...naming, at]
+      const done = runsIn(root, argv, ceiling, over)
       found.push({
         path: one,
         cpuSeconds: done.cpuSeconds,
@@ -277,9 +287,10 @@ export function slowIn(
   serves: readonly string[],
   naming: readonly string[],
   serving: Serving | null,
-  ceiling: number = CEILING
+  ceiling: number = CEILING,
+  over: Overlay | null = null
 ): readonly Slowed[] {
-  return spentIn(root, runs, serves, naming, serving, ceiling)
+  return spentIn(root, runs, serves, naming, serving, ceiling, over)
     .filter((one) => one.signal !== null || one.cpuSeconds > ceiling)
     .map((one) => ({ path: one.path, cpuSeconds: one.cpuSeconds }))
 }
@@ -295,9 +306,10 @@ export function judgedAs(said: Verdict, over: number, ended: boolean): Verdict {
 export function spentOver(
   root: string,
   named: readonly string[],
-  serving: Serving | null = null
+  serving: Serving | null = null,
+  over: Overlay | null = null
 ): readonly Spent[] {
-  return spentIn(root, runsFor(root, named), servesFor(serving), [], serving, null)
+  return spentIn(root, runsFor(root, named), servesFor(serving), [], serving, null, over)
 }
 
 export function ranOver(
@@ -305,7 +317,8 @@ export function ranOver(
   named: readonly string[],
   expected: number,
   name: string | null = null,
-  serving: Serving | null = null
+  serving: Serving | null = null,
+  over: Overlay | null = null
 ): Ran {
   const runs = runsFor(root, named)
   const naming = name === null ? [] : [NAMING, wholeOf(name)]
@@ -319,10 +332,10 @@ export function ranOver(
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const batch of batchedOf(group.named)) {
-      const over = batch.map((one) => serving?.standing.get(one) ?? one)
-      const argv = [RUNNER, RUNS, ...serves, ...preloading, ...naming, ...over]
+      const paths = batch.map((one) => serving?.standing.get(one) ?? one)
+      const argv = [RUNNER, RUNS, ...serves, ...preloading, ...naming, ...paths]
       const bound = CEILING * batch.length
-      const done = runsIn(root, argv, bound)
+      const done = runsIn(root, argv, bound, over)
       output += `${done.out}${done.err}`
       spent += done.cpuSeconds
       many += batch.length
@@ -338,7 +351,7 @@ export function ranOver(
   }
   const said = verdictOf(code, output, expected)
   const beyond = signal !== null || (said === "pass" && spent > CEILING * many)
-  const slow = beyond ? slowIn(root, runs, serves, naming, serving) : []
+  const slow = beyond ? slowIn(root, runs, serves, naming, serving, CEILING, over) : []
   return {
     code,
     signal,
