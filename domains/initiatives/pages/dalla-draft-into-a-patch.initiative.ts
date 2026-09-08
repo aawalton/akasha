@@ -15,7 +15,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A file that is not text is refused rather than decoded into an edit.",
       workingMemory:
-        "Landed as a refusal at `change.command.code.ts`, reusing `decodeUtf8` from `code-system/utf8-body`. Measured: of 121,768 tracked files exactly 80 fail a strict decode, all `.png`, two per persona. That refusal also blocks removing one, which was safe before, as a removal carries a null body. The precise route is declared already: `holdsBytes` is true on the two wallpaper file properties and nowhere else, and `no-raw-nul-bytes` reads it. A file declaring bytes is carried rather than decoded.",
+        "Two functions named `textIn` differ: `change-running:70` throws `NOT_TEXT` where `decodeUtf8` answers null, and `mechanical-change-running:39` answers null instead. The `askedFor` twins refuse with `notUtf8` before either is reached. `holdsBytes` is true on the two wallpaper file properties and nowhere else, and `no-raw-nul-bytes` and `change-taboo-terms` both read it. A file declaring bytes is carried rather than decoded.",
     },
     {
       statement: "An edit kept in the old shape is rewritten into the shape an edit holds now.",
