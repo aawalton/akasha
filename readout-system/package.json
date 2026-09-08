@@ -5,7 +5,6 @@
   "exports": {
     "./attribute-charisma": "./readouts/pages/attribute-charisma/attribute-charisma.readout.code.ts",
     "./attribute-constitution": "./readouts/pages/attribute-constitution/attribute-constitution.readout.code.ts",
-    "./attribute-endurance": "./readouts/pages/attribute-endurance/attribute-endurance.readout.code.ts",
     "./attribute-intelligence": "./readouts/pages/attribute-intelligence/attribute-intelligence.readout.code.ts",
     "./attribute-wisdom": "./readouts/pages/attribute-wisdom/attribute-wisdom.readout.code.ts",
     "./inboxes-email": "./readouts/pages/inboxes-email/inboxes-email.readout.code.ts",

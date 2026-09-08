@@ -3,11 +3,11 @@ import { getEsoDayStr } from "@akasha/day/eso-day"
 import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
 import { charismaIn } from "@akasha/readout-system/attribute-charisma"
 import { fetchConstitutionPoints } from "@akasha/readout-system/attribute-constitution"
-import { enduranceIn } from "@akasha/readout-system/attribute-endurance"
 import { intelligenceIn } from "@akasha/readout-system/attribute-intelligence"
 import { wisdomIn } from "@akasha/readout-system/attribute-wisdom"
 import type { Row } from "@akasha/readout-system/readout-asking"
 import { keepReading } from "@akasha/readout-system/readout-reading"
+import { enduranceIn } from "../../../attributes/readouts/attribute-endurance/attribute-endurance.readout.code.ts"
 import { strengthIn } from "../../../attributes/readouts/attribute-strength/attribute-strength.readout.code.ts"
 import {
   wakeDayOf,
