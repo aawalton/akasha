@@ -13,10 +13,14 @@ import { importingOf } from "../../../../../pages/indexes/path-naming/path-namin
 import {
   pathsIn,
   refusing,
+  splicing,
   stating,
-  written,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Said, Stated } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type {
+  Said,
+  Splice,
+  Stated,
+} from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const ADDRESSED = /^([A-Za-z_$][A-Za-z0-9_$]*)\.([A-Za-z_$][A-Za-z0-9_$]*)$/
@@ -27,12 +31,6 @@ export type RenamePropertySignatureAsked = {
   readonly at: string
   readonly of: string
   readonly to: string
-}
-
-type Spot = {
-  readonly start: number
-  readonly end: number
-  readonly put: string
 }
 
 type Addressed = {
@@ -119,7 +117,7 @@ export function renamePropertySignature(world: World, given: RenamePropertySigna
   if (outsideIn(typing, given.at, declared)) {
     return refusing(`\`${given.of}\` is declared outside \`${given.at}\` as well`)
   }
-  const held = new Map<string, Spot[]>()
+  const held = new Map<string, Splice[]>()
   const seen = new Set<string>()
   for (const found of namingOf(typing, world.root, declared)) {
     const spot = `${found.path}:${found.start}`
@@ -127,8 +125,8 @@ export function renamePropertySignature(world: World, given: RenamePropertySigna
     seen.add(spot)
     const at = held.get(found.path) ?? []
     at.push({
-      start: found.start,
-      end: found.end,
+      from: found.start,
+      to: found.end,
       put: spelledAs(found, address.property, given.to),
     })
     held.set(found.path, at)
@@ -140,11 +138,8 @@ export function renamePropertySignature(world: World, given: RenamePropertySigna
   for (const [path, spots] of held) {
     const text = world.textOf(path)
     if (text === null) return refusing(`\`${path}\` would change and could not be read`)
-    let body = text
-    for (const one of [...spots].sort((here, there) => there.start - here.start)) {
-      body = body.slice(0, one.start) + one.put + body.slice(one.end)
-    }
-    edits.push(...written(path, text, body))
+    const sorted = [...spots].sort((here, there) => here.from - there.from)
+    edits.push(...splicing(path, text, sorted))
   }
   return stating(edits)
 }
