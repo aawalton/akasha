@@ -12,8 +12,6 @@ import {
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
-const SHOWN = 1
-
 function testedBeside(path: string, shadow: Shadow): boolean {
   for (const beside of testsBesideOf(path)) {
     if (beside === path) return true
@@ -52,9 +50,7 @@ export function counted(many: number): string {
 }
 
 export function slowlyOf(ran: Ran): string {
-  const held = ran.slow
-    .map((one) => `${one.path} was ended at ${one.cpuSeconds.toFixed(SHOWN)} processor seconds`)
-    .join("\n")
+  const held = ran.slow.map((one) => one.path).join("\n")
   return (
     `a test file is given ${String(CEILING)} processor seconds, and ${counted(ran.slow.length)} ` +
     `went past that:\n${held}\n\nThe tests themselves are green. Make the file cheaper or divide it.`

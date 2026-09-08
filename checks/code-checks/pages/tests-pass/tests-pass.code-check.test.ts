@@ -63,16 +63,26 @@ function ranAs(
   return { code: 1, signal: null, output, summary, verdict, cpuSeconds: 0, slow }
 }
 
-test("a run over the ceiling is refused by naming each file and the seconds it spent", () => {
+test("a run over the ceiling is refused by naming each file over it", () => {
   const said = reasonOf(
     ranAs("slow", { files: 1, failed: 0, passed: 9 }, "", [
       { path: "akasha/one.module.test.ts", cpuSeconds: 21.4 },
     ]),
     ["akasha/one.module.test.ts"]
   )
-  expect(said).toContain("akasha/one.module.test.ts was ended at 21.4 processor seconds")
+  expect(said).toContain("akasha/one.module.test.ts")
   expect(said).toContain("a test file is given 5 processor seconds")
   expect(said).toContain("The tests themselves are green")
+})
+
+test("a file over the ceiling is named without the seconds that file ran", () => {
+  const said = reasonOf(
+    ranAs("slow", { files: 1, failed: 0, passed: 9 }, "", [
+      { path: "akasha/one.module.test.ts", cpuSeconds: 4.8 },
+    ]),
+    ["akasha/one.module.test.ts"]
+  )
+  expect(said).not.toContain("4.8")
 })
 
 test("the tests named are the ones standing beside the files the change carries", () => {
