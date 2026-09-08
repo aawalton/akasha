@@ -16,7 +16,7 @@ export const aineAuditChangeGuards = {
       statement:
         "Every mechanical change that can leave an edge hanging names the guard judging that edge.",
       workingMemory:
-        "`change-file-content-page` and `change-page-page-property` both name `identity-not-already-held` now, and the content dispatcher is thin over them. `relation-reaches-a-page` is left off both, since it would refuse any edit to a page already holding a name that reaches nothing, and whether such pages exist is unread. `add-file` and `remove-file` judge nothing on purpose, the caller judging. `guardedBy` casts from `gathered([world.over, said])`, so no guard reads a stale index.\n",
+        "`change-file-content-page` names `identity-not-already-held` and `relation-reaches-a-page`, and the content dispatcher is thin over it, so every authored `change-file` on a page is judged. `akasha audit --check relation-resolves` judged 120541 files and refused none, so no page held a hanging name for the guard to trip on. `change-page-page-property` names only the first, a composition passing through it. `add-file` and `remove-file` judge nothing on purpose, the caller judging.\n",
     },
     {
       statement:
