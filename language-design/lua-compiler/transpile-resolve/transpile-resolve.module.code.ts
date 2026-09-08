@@ -44,7 +44,7 @@ const resolver = resolve.ResolverFactory.createResolver({
   enforceExtension: true,
   fileSystem: { ...new resolve.CachedInputFileSystem(fs, 0) },
   useSyncFileSystemCalls: true,
-  conditionNames: ["require", "node", "tstl", "default"],
+  conditionNames: ["require", "node", "lua-compiler", "default"],
   symlinks: false,
 })
 
