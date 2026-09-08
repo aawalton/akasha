@@ -11,9 +11,6 @@ import { z } from "zod"
 
 const EQUIPMENT_MAPPINGS = "temper-bit-codec/equipment-mappings/equipment-mappings.module.code.ts"
 
-/**
- * One committed index table, beside the ids temper holds for the same thing.
- */
 interface Table {
   readonly label: string
   readonly held: readonly string[]
@@ -29,13 +26,6 @@ const TABLES: readonly Table[] = [
 
 const RAW_MATCH_OR_NULL = z.array(z.string()).min(2).nullable()
 
-/**
- * The committed file, under the checkout the run walks rather than under this file's own tree.
- *
- * A run is handed a checkout in `CODE_ROOT` and validates that checkout. Reaching the mappings
- * beside this module instead would read this checkout however the run was pointed, and answer
- * for a tree nobody asked about.
- */
 function committedAt(): string {
   return resolve(codeRoot(), "temper", EQUIPMENT_MAPPINGS)
 }
@@ -53,15 +43,6 @@ function countSlots(body: string): number {
   return result.success ? result.data.length : 0
 }
 
-/**
- * Whether every committed index table still holds one slot per id temper holds.
- *
- * A table this cannot find is a failure rather than a table with nothing to say. That is what went
- * wrong before: the four tables moved into akasha, an unrelated file took the path this reads, and
- * every comparison was skipped because its label was absent. `existsSync` passed, no label matched,
- * `errors` stayed at zero, and the pipeline printed that all equipment mappings matched temper data
- * over four comparisons none of which happened.
- */
 export function validateEquipmentMappings(): boolean {
   const equipmentPath = committedAt()
 
