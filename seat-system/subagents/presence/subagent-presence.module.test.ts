@@ -32,11 +32,9 @@ import {
   GOING,
   HELD_ASSIGNMENT,
   HELD_ID,
-  handedPaths,
   heldInHistory,
   heldUnder,
   idIn,
-  keptUnder,
   LOCKED,
   landedAt,
   landedUnder,
@@ -212,20 +210,6 @@ test("a page taken away goes, and the commit says nothing of the checks", async 
     expect(existsSync(join(root, pathOf(slugOf("akasha", OWN))))).toBe(false)
     expect(messageIn(root)).not.toContain(MECHANICAL)
   })
-})
-
-test("a subagent stopping hands the edits it kept to the seat that dispatched it", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
-    const slug = slugOf("akasha", OWN)
-    await wrote(root, "akasha", SEAT_ID, OWN, "Explore")
-    keptUnder(root, slug, "one.md")
-    expect(await took(root, "akasha", OWN)).toEqual(WENT)
-    expect(handedPaths(root, "akasha", slug)).toEqual(["one.md"])
-  } finally {
-    world.sweep()
-  }
 })
 
 test("a page taken away is forgotten by whoever read it", async () => {

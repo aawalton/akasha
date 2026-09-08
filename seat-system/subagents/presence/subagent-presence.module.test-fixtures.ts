@@ -1,14 +1,11 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { pathsOf } from "@akasha/changes/change-answer"
-import { editsIn, keptEdits } from "@akasha/changes/edits-keeping"
-import { handedUnder } from "@akasha/changes/subagent-handed"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
-import { bodyOf, pathOf, seatPageIn, slugOf, type Went } from "./subagent-presence.module.code.ts"
+import { bodyOf, pathOf, slugOf, type Went } from "./subagent-presence.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
@@ -109,17 +106,6 @@ export function landedUnder(root: string, seatName: string, own: string): string
 
 export function landedAt(root: string, own: string): string {
   return landedUnder(root, "akasha", own)
-}
-
-export function keptUnder(root: string, slug: string, at: string): undefined {
-  keptEdits(root, pathOf(slug), () => [{ kind: "add", path: at, content: at }])
-}
-
-export function handedPaths(root: string, seatName: string, slug: string): readonly string[] {
-  const seat = seatPageIn(root, seatName)
-  if (seat === null || !handedUnder(root, seat).includes(slug)) return []
-  const held = editsIn(root, pathOf(slug))
-  return "why" in held ? [held.why] : held.rows.flatMap(pathsOf)
 }
 
 export function heldUnder(

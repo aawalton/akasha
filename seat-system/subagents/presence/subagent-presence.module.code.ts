@@ -1,6 +1,5 @@
 import { closeSync, existsSync, mkdirSync, openSync, readdirSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { tookIn } from "@akasha/command-system/drafting"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { landedMechanically } from "@akasha/command-system/mechanical-landing"
 import { dropReadings, SUBAGENT_MARK } from "@akasha/command-system/reading"
@@ -157,32 +156,11 @@ export function seatPageIn(root: string, seatName: string): string | null {
   return listedAt(root, SEAT, seatName)[0]?.path ?? null
 }
 
-export function tookInUnder(
-  root: string,
-  seatName: string,
-  paths: readonly string[]
-): readonly string[] {
-  const page = seatPageIn(root, seatName)
-  if (page === null || !existsSync(join(root, page))) return []
-  const taken: string[] = []
-  for (const at of paths) {
-    try {
-      const held = tookIn(root, page, at)
-      if (!("why" in held)) taken.push(at)
-    } catch {}
-  }
-  return taken
-}
-
 export async function took(root: string, seatName: string, own: string): Promise<Went> {
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
-  const went = tookInUnder(root, seatName, patchesUnder(root, seatName))
   if (!existsSync(join(root, at))) return WENT
-  const why = went.includes(at)
-    ? `${slug} is done, so its page goes; the patch it drafted went to the ${seatName} seat,` +
-      ` which holds that draft now`
-    : `${slug} is done, so its page goes; what it was is in this repository's history`
+  const why = `${slug} is done, so its page goes; what it was is in this repository's history`
   const gone = await handed(root, [{ path: at, body: null }], why)
   if (!("why" in gone)) dropReadings(root, [at])
   return gone
@@ -202,24 +180,7 @@ export function pathsUnder(root: string, seatName: string): readonly string[] {
     .sort()
 }
 
-const PATCH_SUFFIX = ".subagent.patch.diff"
-
-export function patchesUnder(root: string, seatName: string): readonly string[] {
-  const mark = `${seatName}-`
-  let names: readonly string[]
-  try {
-    names = readdirSync(join(root, SUBAGENTS_AT))
-  } catch {
-    return []
-  }
-  return names
-    .filter((one) => one.startsWith(mark) && one.endsWith(PATCH_SUFFIX))
-    .map((one) => `${SUBAGENTS_AT}/${one.slice(0, -PATCH_SUFFIX.length)}${SUFFIX}`)
-    .sort()
-}
-
 export async function tookUnder(root: string, seatName: string, why: string): Promise<Went> {
-  tookInUnder(root, seatName, patchesUnder(root, seatName))
   const paths = pathsUnder(root, seatName)
   if (paths.length === 0) return WENT
   const gone = await handed(

@@ -130,51 +130,11 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch a subagent drafted into goes to the seat that dispatched that subagent.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A patch is taken in before the page beside that patch goes.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The commit taking that page away says the patch went to the seat.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The commit taking that page away names the seat.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page whose patch went nowhere is taken away with no seat named.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A sweep finds a patch by the patch file rather than by the page.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The page a seat sits at is read from the index rather than composed from a name.",
     },
     {
-      invariantKind: "departure",
-      statement: "A patch is taken in whether or not the page beside that patch is there.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A subagent stopping sweeps every patch under its seat.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A patch whose page went before this sweep is taken in like any other patch.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A seat with no page of its own takes in nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A take-in that throws leaves that patch alone and reaps the page still.",
+      invariantKind: "absence",
+      statement: "Nothing is taken in beside a page that goes.",
     },
     {
       invariantKind: "departure",
