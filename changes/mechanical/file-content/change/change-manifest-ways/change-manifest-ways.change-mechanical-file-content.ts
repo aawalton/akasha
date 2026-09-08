@@ -10,7 +10,6 @@ export const changeManifestWays = {
   definition: "a manifest's ways in rewritten to follow the files those ways in name",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

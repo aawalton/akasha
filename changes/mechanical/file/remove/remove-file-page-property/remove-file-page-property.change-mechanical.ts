@@ -10,7 +10,6 @@ export const removeFilePageProperty = {
   definition: "one page property taken away with every file that property keeps beside it",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

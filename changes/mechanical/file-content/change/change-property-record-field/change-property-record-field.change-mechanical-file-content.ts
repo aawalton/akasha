@@ -45,7 +45,6 @@ export const changePropertyRecordField = {
       statement: "Nothing here reads the index.",
     },
   ],
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   changeKindSlug: "change-mechanical",

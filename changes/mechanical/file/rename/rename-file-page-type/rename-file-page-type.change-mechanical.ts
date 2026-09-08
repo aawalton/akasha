@@ -10,7 +10,6 @@ export const renameFilePageType = {
   definition: "a page type renamed, in its own name and in every page filed under that page type",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   guardSlugs: ["change-guard/claimed-file-not-left-behind"],

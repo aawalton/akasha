@@ -8,7 +8,6 @@ export const removeFolder = {
   definition: "one folder and every file under it taken away",
   code: "ts",
   test: "ts",
-  runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

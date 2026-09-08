@@ -10,7 +10,6 @@ export const removePropertyFromEveryPage = {
   definition: "one key taken off every page of one page type, with the values that key has",
   code: "ts",
   test: "ts",
-  runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

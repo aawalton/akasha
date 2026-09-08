@@ -8,7 +8,6 @@ export const nestCommands = {
   definition: "one namespace's commands made its parts and carried into its folder",
   code: "ts",
   test: "ts",
-  runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

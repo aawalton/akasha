@@ -9,7 +9,6 @@ export const addTypeMember = {
   definition: "one member put into an exported object type",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

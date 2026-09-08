@@ -10,7 +10,6 @@ export const moveFolder = {
   definition: "one folder and every file under it carried to another path",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   guardSlugs: [

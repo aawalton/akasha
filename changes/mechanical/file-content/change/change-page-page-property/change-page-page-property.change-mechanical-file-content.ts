@@ -27,7 +27,6 @@ export const changePagePageProperty = {
         "A newline ending the value asked for is dropped, because a page states a value rather than a body.",
     },
   ],
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   changeKindSlug: "change-mechanical",

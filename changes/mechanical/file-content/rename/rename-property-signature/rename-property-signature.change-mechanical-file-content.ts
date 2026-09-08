@@ -10,7 +10,6 @@ export const renamePropertySignature = {
   definition: "one property a type declares spelled anew wherever the checker resolves to it",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   changeKindSlug: "change-mechanical",

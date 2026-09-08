@@ -10,7 +10,6 @@ export const removeManifestWays = {
   definition: "a manifest's ways in dropped where the files those ways in name go",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

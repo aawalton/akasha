@@ -10,7 +10,6 @@ export const changeProsePattern = {
   definition: "every passage a banned term is written in restated in the words written instead",
   code: "ts",
   test: "ts",
-  runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

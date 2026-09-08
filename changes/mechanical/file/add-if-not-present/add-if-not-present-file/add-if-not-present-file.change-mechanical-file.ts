@@ -10,7 +10,6 @@ export const addIfNotPresentFile = {
   definition: "one body written at one path that does not have that body already",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

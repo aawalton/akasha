@@ -9,7 +9,6 @@ export const changeFileContent = {
   definition: "one passage of one body replaced by another, with nothing else judged",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

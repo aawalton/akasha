@@ -10,7 +10,6 @@ export const changeImports = {
   definition: "a body rewritten so the paths it names follow the files that moved",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

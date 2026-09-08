@@ -9,7 +9,6 @@ export const changeFileContentOfAnyKind = {
   definition: "one passage of one body replaced, through the change working that kind of body",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

@@ -8,7 +8,6 @@ export const renamePageType = {
   definition: "one page type renamed, by the partial change renaming a page type",
   code: "ts",
   test: "ts",
-  runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

@@ -10,7 +10,6 @@ export const addFilePageProperty = {
   definition: "one page property written at one path, with the keys that property carries judged",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   guardSlugs: ["change-guard/field-key-not-carried-twice"],

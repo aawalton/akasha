@@ -11,7 +11,6 @@ export const addFilePageType = {
     "one page type written at one path, with the plural slug that page type states judged",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   guardSlugs: ["change-guard/plural-slug-not-already-held"],

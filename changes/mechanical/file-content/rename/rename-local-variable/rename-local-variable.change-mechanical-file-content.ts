@@ -10,7 +10,6 @@ export const renameLocalVariable = {
   definition: "the change spelling a local binding and its references anew in one file",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

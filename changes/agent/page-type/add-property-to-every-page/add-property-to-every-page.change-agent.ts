@@ -10,7 +10,6 @@ export const addPropertyToEveryPage = {
   definition: "one value put under one key on every page of one page type",
   code: "ts",
   test: "ts",
-  runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

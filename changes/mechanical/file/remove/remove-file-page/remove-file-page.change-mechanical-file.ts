@@ -10,7 +10,6 @@ export const removeFilePage = {
   definition: "one page taken away with every file that page keeps beside the page",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   guardSlugs: [

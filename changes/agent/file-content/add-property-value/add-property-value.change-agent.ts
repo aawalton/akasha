@@ -8,7 +8,6 @@ export const addPropertyValue = {
   definition: "one value put into one page property, judged by the checks a landing runs",
   code: "ts",
   test: "ts",
-  runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

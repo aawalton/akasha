@@ -10,7 +10,6 @@ export const renamePageAddresses = {
   definition: "many pages' addresses restated by reading each body once",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

@@ -11,7 +11,6 @@ export const addFile = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

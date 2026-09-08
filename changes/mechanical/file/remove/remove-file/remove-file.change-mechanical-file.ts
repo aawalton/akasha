@@ -10,7 +10,6 @@ export const removeFile = {
   definition: "one file taken away, with nothing else judged",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

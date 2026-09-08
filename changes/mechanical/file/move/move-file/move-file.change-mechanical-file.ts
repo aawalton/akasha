@@ -10,7 +10,6 @@ export const moveFile = {
   definition: "one file carried to another path, with nothing else judged",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

@@ -8,7 +8,6 @@ export const removePage = {
   definition: "one page taken away, by the partial change fitting the kind of page named",
   code: "ts",
   test: "ts",
-  runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,
   invariants: [

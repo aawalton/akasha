@@ -10,7 +10,6 @@ export const moveFilePage = {
   definition: "one page carried to another folder with every file that page keeps beside the page",
   code: "ts",
   test: "ts",
-  runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
   guardSlugs: ["change-guard/claimed-file-not-left-behind"],
