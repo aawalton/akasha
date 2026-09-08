@@ -6,6 +6,7 @@ export const audhdalanWeb = {
   slug: "audhdalan-web",
   definition: "the routes audhdalan.com serves to a browser",
   manifest: "json",
+  tunnelRoutes: "ts",
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",
