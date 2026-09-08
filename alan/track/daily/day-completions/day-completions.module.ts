@@ -13,7 +13,7 @@ export const dayCompletions = {
     },
     {
       invariantKind: "departure",
-      statement: "An ESO day lies across two wake days, and both are read.",
+      statement: "An ESO day lies across two opened days, and both are read.",
     },
     {
       invariantKind: "departure",

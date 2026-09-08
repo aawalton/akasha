@@ -4,7 +4,7 @@ export const activeCalories = {
   id: "01a05bc7-9129-7009-bcbc-7874a1897c8b",
   pageTypeSlug: "module",
   slug: "active-calories",
-  definition: "the calories Alan burned over a day counted from when he woke",
+  definition: "the calories Alan burned over a day counted from when that day opened",
   code: "ts",
   invariants: [
     {
@@ -22,7 +22,7 @@ export const activeCalories = {
     },
     {
       invariantKind: "departure",
-      statement: "A day with no recorded wake is counted over the ESO day instead.",
+      statement: "A day with no recorded opening is counted over the ESO day instead.",
     },
     {
       invariantKind: "departure",
