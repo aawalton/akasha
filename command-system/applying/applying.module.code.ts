@@ -109,7 +109,7 @@ export async function applying(
   }
   const gate = broken === null && "gate" in built ? built.gate : NO_GATE
   const unloaded = "gate" in built ? null : built.broken
-  const said0 = message.message ?? defaultMessage(APPLIES, [...carried.held.keys()])
+  const said0 = messageFor(message.message ?? null, carried.held)
   const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
   const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
   try {
