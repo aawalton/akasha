@@ -1,7 +1,7 @@
 import { type FleetUsage, readFleetUsage } from "@akasha/agents/claude-account-usage"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import { readIn } from "../../../commands/modules/no-word-reading/no-word-reading.module.code.ts"
+import { readIn } from "../../modules/no-word-reading/no-word-reading.module.code.ts"
 
 export function saidOf(usage: FleetUsage): string {
   return JSON.stringify(usage)
