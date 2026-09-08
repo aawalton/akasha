@@ -6,7 +6,7 @@
     "audhdalan.ast-unused-config.workspaces.json",
     "ast-unused.infra.config.json",
     "ast-unused.shared.config.json",
-    "ast-unused.smilingjenny.config.json",
+    "smilingjenny.ast-unused-config.workspaces.json",
     "ast-unused.temper.config.json"
   ]
 }
