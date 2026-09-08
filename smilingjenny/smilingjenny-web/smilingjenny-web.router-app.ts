@@ -14,6 +14,7 @@ export const smilingjennyWeb = {
   compileConfig: "json",
   viteConfig: "ts",
   server: "ts",
+  gitIgnore: "gitignore",
   partSlugs: [
     "manifest/smilingjenny-web-manifests",
     "stylesheet/smilingjenny-web-look",
