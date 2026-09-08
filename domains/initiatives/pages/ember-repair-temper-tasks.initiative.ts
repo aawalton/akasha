@@ -8,11 +8,6 @@ export const emberRepairTemperTasks = {
   personaSlug: "ember",
   intents: [
     {
-      statement: "What the game records against a task reaches the due date the web holds.",
-      workingMemory:
-        "`rollOnProgress` advances `dueDate` off what the characters did and now holds that key alone: `overdue-rolling` no longer names `temper-task`. The per-character rows land too — `watcher-task-progress-landing` writes them in one commit through pages-service at the end of the import. Proved 2026-09-08 by 82f0aded41: 14 files, `lorebooks` gained 20 rows, `skill-morphs` moved 24020 to 24050. Left: the browser render is unseen, and a character-scoped task's totals now read as the roster's sum.",
-    },
-    {
       statement: "Every key the watcher names on a page is one that page type declares.",
       workingMemory:
         "Met: temper-task narrowed on `account`; `userId` dropped from four temper page types; `display-order`; `name` on temper-sale; `capturedAt` across the watcher and the inventory UI; `target-build-id` raised to temper-character-thing; `due-time` and `pending-sync` declared on temper-task; `handle`, `platform` and `server` declared on temper-player. Open: ten browser reads filter on `userId`, which no temper page type declares, so the store refuses each.",

@@ -67,6 +67,10 @@ export const temperTask = {
     },
     {
       invariantKind: "departure",
+      statement: "A due date moves on what the characters did rather than on the day changing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A task of `character` scope falls to the one character the task names.",
     },
     {
