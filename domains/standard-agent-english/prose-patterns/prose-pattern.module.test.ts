@@ -19,6 +19,29 @@ const HOLD = new Set(["hold", "holds", "holding"])
 
 const HELD = new Set(["held"])
 
+test("a word whose only subject is the relativizer has no object anywhere", () => {
+  const said = sentenceOf([
+    ["the", "DET", 2, "det"],
+    ["set", "NOUN", 4, "obl"],
+    ["that", "PRON", 4, "nsubj"],
+    ["holds", "VERB", 2, "acl:relcl"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a word taking a bare adverb for a particle is left alone", () => {
+  const said = sentenceOf([
+    ["the", "DET", 2, "det"],
+    ["spend", "NOUN", 4, "obl"],
+    ["I", "PRON", 4, "nsubj"],
+    ["hold", "VERB", 2, "acl:relcl"],
+    ["under", "ADV", 4, "advmod"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
 test("a word with an object of its own is found", () => {
   const said = sentenceOf([
     ["A", "DET", 2, "det"],

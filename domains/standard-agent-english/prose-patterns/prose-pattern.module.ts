@@ -40,5 +40,14 @@ export const prosePattern = {
       invariantKind: "departure",
       statement: "A `to` phrase names no place, so it binds the word rather than placing a thing.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A word whose only subject is the relativizer has no object anywhere, so it is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A bare adverb after a word is a particle, whatever the parser calls it.",
+    },
   ],
 } as const satisfies Module

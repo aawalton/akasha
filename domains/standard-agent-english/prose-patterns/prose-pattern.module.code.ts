@@ -35,6 +35,25 @@ const PLACED_FRAME = "placed"
 
 const PASSIVE = "aux:pass"
 
+const SUBJECT = "nsubj"
+
+const ADVERB = "advmod"
+
+const RELATIVIZERS: ReadonlySet<string> = new Set(["that", "which", "who", "whom"])
+
+const PARTICLES: ReadonlySet<string> = new Set([
+  "apart",
+  "back",
+  "down",
+  "off",
+  "out",
+  "over",
+  "through",
+  "together",
+  "under",
+  "up",
+])
+
 const PLACES: ReadonlySet<string> = new Set([
   "in",
   "on",
@@ -59,9 +78,18 @@ function placedSomewhere(sentence: DepSentence, token: DepToken): boolean {
   return childrenByRel(sentence, token.id, OBLIQUE).some((one) => caseIs(sentence, one, PLACES))
 }
 
+function particled(sentence: DepSentence, token: DepToken): boolean {
+  if (childrenByRel(sentence, token.id, PARTICLE).length > 0) return true
+  return childrenByRel(sentence, token.id, ADVERB).some((one) => PARTICLES.has(lower(one)))
+}
+
+function subjectOfItsOwn(sentence: DepSentence, token: DepToken): boolean {
+  return childrenByRel(sentence, token.id, SUBJECT).some((one) => !RELATIVIZERS.has(lower(one)))
+}
+
 function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
   if (token.upos !== VERB) return null
-  if (childrenByRel(sentence, token.id, PARTICLE).length > 0) return null
+  if (particled(sentence, token)) return null
   if (boundTo(sentence, token)) return null
   if (hasChild(sentence, token.id, PASSIVE)) {
     return placedSomewhere(sentence, token) ? PLACED_FRAME : null
@@ -69,7 +97,8 @@ function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
   if (child(sentence, token.id, OBJECT) !== undefined) {
     return token.deprel === PARTICIPLE ? PARTICIPLE_FRAME : OBJECT_FRAME
   }
-  return token.deprel === RELATIVE ? FRONTED_FRAME : null
+  if (token.deprel !== RELATIVE) return null
+  return subjectOfItsOwn(sentence, token) ? FRONTED_FRAME : null
 }
 
 export function foundIn(sentence: DepSentence, spellings: ReadonlySet<string>): readonly Found[] {
