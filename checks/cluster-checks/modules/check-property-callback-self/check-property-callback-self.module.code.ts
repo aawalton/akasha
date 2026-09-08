@@ -16,7 +16,7 @@ import {
 import { listTsFiles } from "../ts-file-iteration/ts-file-iteration.module.code.ts"
 import {
   type PropertyCallbackSelfFinding,
-  scanTstlPropertyCallbackSelf,
+  scanPropertyCallbackSelf,
 } from "../ts-property-callback-self/ts-property-callback-self.module.code.ts"
 import { exitOnResult } from "../violation-reporting/violation-reporting.module.code.ts"
 
@@ -45,7 +45,7 @@ export const tstlPropertyCallbackSelfEntry: SyntaxScannerEntry = {
   preFileSkip: (rel, repoRoot) => !isTstlSourcePath(rel, repoRoot),
   findFindings: (sf) => {
     const out: NormalizedFinding[] = []
-    for (const f of scanTstlPropertyCallbackSelf(sf)) {
+    for (const f of scanPropertyCallbackSelf(sf)) {
       out.push({
         file: f.file,
         line: f.line,
@@ -107,7 +107,7 @@ async function main(): Promise<undefined> {
     },
     pathOf: (rel) => `${repoRoot}/${rel}`,
     scan: (rel, source) =>
-      scanTstlPropertyCallbackSelf(
+      scanPropertyCallbackSelf(
         ts.createSourceFile(rel, source, ts.ScriptTarget.Latest, true, scriptKindFor(rel))
       ),
   })

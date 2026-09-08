@@ -21,7 +21,7 @@ function hasExplicitThisParam(fn: ts.FunctionTypeNode): boolean {
   return ts.identifierToKeywordKind(first.name) === ts.SyntaxKind.ThisKeyword
 }
 
-export function scanTstlPropertyCallbackSelf(
+export function scanPropertyCallbackSelf(
   sf: ts.SourceFile
 ): readonly PropertyCallbackSelfFinding[] {
   const filePath = sf.fileName
