@@ -29,11 +29,11 @@ const A_DEVICE_TOKEN = {
 }
 
 const A_DAY = {
-  pageTypeSlug: "wake-day",
+  pageTypeSlug: "day",
   slug: "wake-day-1970-01-01",
   values: {
     id: "01a06100-0000-7000-8000-000000000001",
-    pageTypeSlug: "wake-day",
+    pageTypeSlug: "day",
     slug: "wake-day-1970-01-01",
     title: "1970-01-01",
     date: "1970-01-01",
@@ -116,19 +116,19 @@ test("a page carrying files beside it takes a folder of its own under the plural
 })
 
 test("a type declaring a property held in a file carries files beside its page", () => {
-  const carried = [carrying("slug", "page"), carrying("sessions", "wake-day")]
+  const carried = [carrying("slug", "page"), carrying("sessions", "day")]
   expect(besideItsPage(ROOT, carried)).toBe(true)
 })
 
 test("a type declaring no property held in a file carries none", () => {
-  const carried = [carrying("slug", "page"), carrying("date", "wake-day")]
+  const carried = [carrying("slug", "page"), carrying("date", "day")]
   expect(besideItsPage(ROOT, carried)).toBe(false)
 })
 
 test("a new day is placed in a folder of its own under the plural", () => {
   const said = foldedFor(ROOT, [A_DAY])
   expect("puts" in said && said.puts[0]?.path).toBe(
-    "alan/track/days/pages/1970-01-01/wake-day-1970-01-01.wake-day.ts"
+    "alan/track/days/pages/wake-day-1970-01-01/wake-day-1970-01-01.day.ts"
   )
 })
 
@@ -195,24 +195,24 @@ test("a slug the name above it does not open is the folder whole", () => {
 
 const A_HELD_DAY = "wake-day-2026-03-06"
 
-const A_HELD_DAY_AT = "alan/track/days/pages/2026-03-06/wake-day-2026-03-06.wake-day.ts"
+const A_HELD_DAY_AT = "alan/track/days/pages/2026-03-06/wake-day-2026-03-06.day.ts"
 
 test("a merge keeps every key the caller does not name", () => {
   const said = foldedFor(ROOT, [
-    { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: { title: "a new title" }, merge: true },
+    { pageTypeSlug: "day", slug: A_HELD_DAY, values: { title: "a new title" }, merge: true },
   ])
   const content = "puts" in said ? said.puts[0]?.content : ""
   expect(content).toContain('title: "a new title"')
   expect(content).toContain('date: "2026-03-06"')
   expect(content).toContain("spannedFromDayBoundary: true")
   expect(content).toContain('slug: "wake-day-2026-03-06"')
-  expect(content).toContain('pageTypeSlug: "wake-day"')
+  expect(content).toContain('pageTypeSlug: "day"')
   expect(content).toContain("01a060ba-f203-7ab9-b6f4-796574aad5cd")
 })
 
 test("a merge keeps a value held in a file beside the page as the extension it states", () => {
   const said = foldedFor(ROOT, [
-    { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: { title: "a new title" }, merge: true },
+    { pageTypeSlug: "day", slug: A_HELD_DAY, values: { title: "a new title" }, merge: true },
   ])
   expect("puts" in said && said.puts[0]?.content).toContain('completedTasks: "jsonl"')
 })
@@ -248,7 +248,7 @@ test("a value that is no string under a key held in a file is refused", () => {
 test("a body handed over under a key held in a file is refused rather than written", () => {
   const body = JSON.stringify({ achievements: Array.from({ length: 400 }, (_, at) => at) })
   const said = foldedFor(ROOT, [
-    { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: { completedTasks: body }, merge: true },
+    { pageTypeSlug: "day", slug: A_HELD_DAY, values: { completedTasks: body }, merge: true },
   ])
   expect("refused" in said && said.refused).toContain("`completedTasks` is held in a file")
   expect("refused" in said && said.refused).toContain("Write that file at a path of its own")
@@ -257,7 +257,7 @@ test("a body handed over under a key held in a file is refused rather than writt
 test("a key held in a file naming an ending is written into the page", () => {
   const said = foldedFor(ROOT, [
     {
-      pageTypeSlug: "wake-day",
+      pageTypeSlug: "day",
       slug: A_HELD_DAY,
       values: { completedTasks: "jsonl" },
       merge: true,
@@ -294,7 +294,7 @@ test("a body handed over names the ending the page already carries", () => {
 test("a body handed over under a key holding its values as rows is refused", () => {
   const said = foldedFor(ROOT, [
     {
-      pageTypeSlug: "wake-day",
+      pageTypeSlug: "day",
       slug: A_HELD_DAY,
       values: {},
       bodies: { completedTasks: "{}\n" },
@@ -339,7 +339,7 @@ test("a body handed over for a file named rather than placed beside the page is 
 
 test("a write that does not merge keeps only the keys the caller names", () => {
   const said = foldedFor(ROOT, [
-    { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: { title: "a new title" } },
+    { pageTypeSlug: "day", slug: A_HELD_DAY, values: { title: "a new title" } },
   ])
   const content = "puts" in said ? said.puts[0]?.content : ""
   expect(content).toContain('title: "a new title"')
@@ -348,9 +348,7 @@ test("a write that does not merge keeps only the keys the caller names", () => {
 })
 
 test("a merge naming nothing composes the body the page already carries", async () => {
-  const said = foldedFor(ROOT, [
-    { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: {}, merge: true },
-  ])
+  const said = foldedFor(ROOT, [{ pageTypeSlug: "day", slug: A_HELD_DAY, values: {}, merge: true }])
   const onDisk = await Bun.file(join(ROOT, A_HELD_DAY_AT)).text()
   expect("puts" in said && said.puts[0]?.content).toBe(onDisk)
 })
@@ -374,7 +372,7 @@ test("a merge into a page the index does not hold composes that page as a new on
 
 test("a merge is refused for a key the page type declares no property for", () => {
   const said = foldedFor(ROOT, [
-    { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: { nowhere: "one" }, merge: true },
+    { pageTypeSlug: "day", slug: A_HELD_DAY, values: { nowhere: "one" }, merge: true },
   ])
   expect("refused" in said && said.refused).toContain("nowhere")
 })

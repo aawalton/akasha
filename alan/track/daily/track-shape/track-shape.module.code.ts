@@ -1,4 +1,4 @@
-export const AKASHA_DAY_PAGE_TYPE = "wake-day"
+export const AKASHA_DAY_PAGE_TYPE = "day"
 
 export const SESSIONS_SLUG = "sessions"
 

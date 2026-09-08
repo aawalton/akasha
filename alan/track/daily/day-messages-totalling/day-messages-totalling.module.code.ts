@@ -5,7 +5,7 @@ import { type Counted, countedIn } from "../day-messages/day-messages.module.cod
 
 const PERSONA_MESSAGES = "personaMessages"
 
-const WAKE_DAY = "wake-day"
+const WAKE_DAY = "day"
 
 const DATE = "date"
 

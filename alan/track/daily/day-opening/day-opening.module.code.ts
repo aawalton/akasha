@@ -2,7 +2,7 @@ import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
 import { isSleepTitle } from "@akasha/health-samples-day/wake-day-window"
 import type { Roots } from "@akasha/pages/markdown-page-at"
 
-export const WAKE_DAY = "wake-day"
+export const WAKE_DAY = "day"
 
 export interface SleepBlock {
   readonly title: unknown

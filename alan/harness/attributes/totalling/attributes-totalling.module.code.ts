@@ -21,7 +21,7 @@ import {
   WISDOM_PAGE,
 } from "../reading/attributes-reading.module.code.ts"
 
-const WAKE_DAY = "wake-day"
+const WAKE_DAY = "day"
 
 const DATE = "date"
 
