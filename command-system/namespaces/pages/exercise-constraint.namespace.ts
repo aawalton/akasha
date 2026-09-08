@@ -5,5 +5,5 @@ export const exerciseConstraint = {
   pageTypeSlug: "namespace",
   slug: "exercise-constraint",
   definition: "a limit on what Alan's training may ask of him",
-  partSlugs: ["command/exercise-constraint-list", "command/exercise-constraint-set"],
+  partSlugs: ["command/exercise-constraint-set"],
 } as const satisfies Namespace
