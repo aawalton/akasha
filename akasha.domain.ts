@@ -11,7 +11,6 @@ export const akasha = {
     "domain/text",
     "domain/file",
     "workspace-package/file-system",
-    "workspace-package/utils-fs",
     "workspace-package/utils-narrow",
     "workspace-package/utils-process",
     "workspace-package/utils-run",
@@ -68,6 +67,7 @@ export const akasha = {
     "workspace-package/mobile-commands",
     "workspace/akasha-workspace",
     "domain/products",
+    "domain/utils",
   ],
   directives: [
     {

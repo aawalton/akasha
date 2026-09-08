@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const readStdinOrFile = {
   id: "01a069da-b9b3-7442-87a9-339906b70ec3",
