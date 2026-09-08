@@ -7,7 +7,6 @@ import {
   pathOf,
   slugOf,
   took,
-  wrote,
 } from "../subagents/presence/subagent-presence.module.code.ts"
 import {
   committed,
@@ -26,6 +25,13 @@ function heldInHistory(root: string, kind: string): undefined {
   writing(root, at, bodyOf(slug, "akasha", HELD_ASSIGNMENT, kind, agentIdOf(SEAT_ID, OWN), HELD_ID))
   committed(root, "the page was there")
   pageGone(root, at)
+}
+
+function heldNow(root: string, dispatchedAs: string, id?: string): string {
+  const slug = slugOf("akasha", OWN)
+  const held = agentIdOf(SEAT_ID, OWN)
+  writing(root, pathOf(slug), bodyOf(slug, "akasha", HELD_ASSIGNMENT, dispatchedAs, held, id))
+  return slug
 }
 
 test("a seat with no subagent page is read as running no subagent", () => {
@@ -48,26 +54,23 @@ test("a page held only in history is read as no subagent at work", () => {
   }
 })
 
-test("the page a resume took up is read as a subagent at work, with the kind it had", async () => {
+test("a page carrying the kind it had is read as a subagent at work with that kind", () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-page-"))
-    heldInHistory(root, "Explore")
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual({ went: true })
-    expect(seeing(root, SEAT_ID)).toEqual([
-      { name: slugOf("akasha", OWN), dispatchedAs: "Explore" },
-    ])
+    const slug = heldNow(root, "Explore", HELD_ID)
+    expect(seeing(root, SEAT_ID)).toEqual([{ name: slug, dispatchedAs: "Explore" }])
   } finally {
     world.sweep()
   }
 })
 
-test("a page composed afresh is read as a subagent at work too", async () => {
+test("a page stating no id is read as a subagent at work too", () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-page-"))
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual({ went: true })
-    expect(seeing(root, SEAT_ID)).toEqual([{ name: slugOf("akasha", OWN), dispatchedAs: "Task" }])
+    const slug = heldNow(root, "Task")
+    expect(seeing(root, SEAT_ID)).toEqual([{ name: slug, dispatchedAs: "Task" }])
   } finally {
     world.sweep()
   }
@@ -77,8 +80,8 @@ test("the page taken down at a stop is read as no subagent at work", async () =>
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-page-"))
-    heldInHistory(root, "Explore")
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual({ went: true })
+    heldNow(root, "Explore", HELD_ID)
+    committed(root, "the page was there")
     expect(await took(root, "akasha", OWN)).toEqual({ went: true })
     expect(seeing(root, SEAT_ID)).toEqual([])
   } finally {
