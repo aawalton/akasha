@@ -18,7 +18,7 @@ function makeDiagnostic(file: ts.SourceFile, node: ts.Node, typeStr: string): ts
     messageText: `LuaMultiReturn misuse: expression of type '${typeStr}' is used outside a destructuring assignment or return statement. In Lua, only the first value is captured. Use destructuring: const [a, b] = fn()`,
     category: ts.DiagnosticCategory.Error,
     code: 90002,
-    source: "tstl-no-multi-store",
+    source: "no-multi-store",
   }
 }
 
