@@ -319,5 +319,6 @@ export const temperWeb = {
     "module/version-history-dialog",
     "route/addon-bundle",
     "route/addon-bundle-version",
+    "module/temper-web-rbac",
   ],
 } as const satisfies RouterApp

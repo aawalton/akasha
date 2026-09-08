@@ -63,7 +63,6 @@ export const clusterManifests = {
     "module/supabase-realtime-rbac",
     "module/supabase-studio-rbac",
     "module/tailnet-egress-rbac",
-    "module/temper-web-rbac",
     "module/tunnel-config",
     "module/tunnel-route",
     "module/tunnel-route-discovery",
