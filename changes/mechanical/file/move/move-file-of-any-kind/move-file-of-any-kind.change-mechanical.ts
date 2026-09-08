@@ -48,4 +48,5 @@ export const moveFileOfAnyKind = {
         "A path under a page property name is carried by the change carrying a page property.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanical

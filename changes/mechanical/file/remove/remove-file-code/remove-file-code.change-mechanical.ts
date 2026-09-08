@@ -28,4 +28,5 @@ export const removeFileCode = {
       statement: "Nothing here judges the path a file is taken away from.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanical

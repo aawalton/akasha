@@ -115,4 +115,5 @@ export const renameFilePage = {
         "A file the page claims and the rename leaves behind is refused by the guard named here.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanical

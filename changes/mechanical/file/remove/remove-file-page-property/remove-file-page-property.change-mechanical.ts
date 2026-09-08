@@ -33,4 +33,5 @@ export const removeFilePageProperty = {
         "No page carries that key while the property goes, its page type having to declare it first.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanical

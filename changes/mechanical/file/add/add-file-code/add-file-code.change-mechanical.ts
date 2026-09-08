@@ -28,4 +28,5 @@ export const addFileCode = {
       statement: "Nothing here judges the path a body is written at.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanical

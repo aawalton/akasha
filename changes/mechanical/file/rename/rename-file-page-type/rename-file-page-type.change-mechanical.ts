@@ -80,4 +80,5 @@ export const renameFilePageType = {
       statement: "A body importing that worked type imports the type the new slug names.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanical

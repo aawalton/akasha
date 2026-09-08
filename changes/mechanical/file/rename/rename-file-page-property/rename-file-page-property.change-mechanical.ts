@@ -31,4 +31,5 @@ export const renameFilePageProperty = {
       statement: "`rename-page-property-property-slug` spells that key anew on every such page.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanical
