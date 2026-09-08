@@ -5,5 +5,5 @@ export const refresh = {
   pageTypeSlug: "namespace",
   slug: "refresh",
   definition: "what a page carries, worked out again from where it came",
-  partSlugs: ["command/refresh-attributes"],
+  partSlugs: ["command/refresh-attributes", "command/refresh-personas"],
 } as const satisfies Namespace
