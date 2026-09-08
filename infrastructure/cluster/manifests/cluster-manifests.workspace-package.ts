@@ -62,7 +62,6 @@ export const clusterManifests = {
     "module/realtime-tenant-bootstrap",
     "module/registry-constants",
     "manifest/registry-gc-manifests",
-    "module/seaweedfs-rbac",
     "module/smilingjenny-web-rbac",
     "module/supabase-realtime-rbac",
     "module/supabase-studio-rbac",
