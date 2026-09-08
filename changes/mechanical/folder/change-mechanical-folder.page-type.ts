@@ -1,9 +1,10 @@
 import type { PageType } from "../../../pages/types/page-type.page-type.ts"
+import type { ChangeTargetSubtypeSlug } from "../../properties/change-target-subtype-slug.relation-property.ts"
 import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
 
 export type ChangeMechanicalFolder = ChangeMechanical & {
   changeTargetTypeSlug: "change-target-type/folder"
-  changeTargetSubtypeSlug: "change-target-subtype/folder"
+  changeTargetSubtypeSlug: ChangeTargetSubtypeSlug
 }
 
 export const changeMechanicalFolder = {

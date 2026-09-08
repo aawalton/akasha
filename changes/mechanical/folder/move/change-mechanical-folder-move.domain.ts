@@ -5,5 +5,8 @@ export const changeMechanicalFolderMove = {
   pageTypeSlug: "domain",
   slug: "change-mechanical-folder-move",
   definition: "a mechanical change carrying a folder to another path",
-  partSlugs: ["change-mechanical-folder/move-folder"],
+  partSlugs: [
+    "change-mechanical-folder/move-folder",
+    "change-mechanical-folder/move-folder-package",
+  ],
 } as const satisfies Domain
