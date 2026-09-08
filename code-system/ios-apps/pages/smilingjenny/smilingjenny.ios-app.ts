@@ -23,6 +23,7 @@ export const smilingjenny = {
     "ios-program/smilingjenny-decode-harness",
     "ios-program/smilingjenny-widget",
   ],
+  webDirectory: true,
   webEntry: "html",
   widgetBundleId: "me.smilingjenny.app.widgets",
   widgetProfileName: "smilingjenny widget App Store",
