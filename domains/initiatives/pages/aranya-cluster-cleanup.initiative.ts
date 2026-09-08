@@ -18,10 +18,9 @@ export const aranyaClusterCleanup = {
   ],
   intents: [
     {
-      statement:
-        "Each service's own manifest and rbac sit with that service rather than under cluster/.",
+      statement: "Each service's own manifest sits with that service rather than under cluster/.",
       workingMemory:
-        "52 manifests already sit with their service and 2 sit under `cluster/`. What is left is `cluster/manifests`: 65 modules, of which about 50 are one service's own rbac, synth or constants and about 14 are shared machinery that stays. Commands consolidate under `commands/`, and `machines/clusters` holds the cluster as a machine rather than as a workload, so neither is this work. No subject folder sits in a workspace package, so a module leaving is reached by path rather than by name.",
+        "No rbac module is left to move: each granted the `pipeline-engine` account rather than the service it was named for, and that account is ablated from the cluster and the tree. What is left under `cluster/manifests` is each service's own synth, manifests and constants, beside shared machinery that stays. Commands consolidate under `commands/`, and `machines/clusters` holds the cluster as a machine, so neither is this work. A module leaving is reached by path, no subject folder being a package.",
     },
   ],
 } as const satisfies Initiative
