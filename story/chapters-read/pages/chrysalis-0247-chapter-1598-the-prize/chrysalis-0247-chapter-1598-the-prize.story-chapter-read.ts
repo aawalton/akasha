@@ -5,7 +5,7 @@ export const chrysalis0247Chapter1598ThePrize = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0247-chapter-1598-the-prize",
   title: "Chapter 1598 - The Prize",
-  partOfSlugs: ["story-read/chrysalis"],
+  partOfCollectionSlugs: ["story-read/chrysalis"],
   position: 247,
   ownLength: 1265,
   ownProgress: 1265,

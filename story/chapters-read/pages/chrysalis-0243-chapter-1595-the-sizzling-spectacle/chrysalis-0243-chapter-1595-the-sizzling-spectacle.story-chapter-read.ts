@@ -5,7 +5,7 @@ export const chrysalis0243Chapter1595TheSizzlingSpectacle = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0243-chapter-1595-the-sizzling-spectacle",
   title: "Chapter 1595 - The Sizzling Spectacle",
-  partOfSlugs: ["story-read/chrysalis"],
+  partOfCollectionSlugs: ["story-read/chrysalis"],
   position: 243,
   ownLength: 986,
   ownProgress: 986,
