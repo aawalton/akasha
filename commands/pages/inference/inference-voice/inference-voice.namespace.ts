@@ -1,4 +1,4 @@
-import type { Namespace } from "../namespace.page-type.ts"
+import type { Namespace } from "../../../../command-system/namespaces/namespace.page-type.ts"
 
 export const inferenceVoice = {
   id: "01a07bc2-afbd-7714-895f-af8d84c2bc6d",
