@@ -7,6 +7,7 @@ import {
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Said, Splice } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { goneSpan } from "../../remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.code.ts"
 
 const EXPORTS = "exports"
 
@@ -36,27 +37,6 @@ function namedIn(owner: ts.ObjectLiteralExpression, key: string): ts.PropertyAss
     if (one.name.text === key) return one
   }
   return null
-}
-
-function goneSpan(text: string, node: ts.Node, after: boolean): Splice {
-  const from = node.getFullStart()
-  const to = node.getEnd()
-  let at = to
-  while (at < text.length) {
-    const here = text[at] ?? ""
-    if (here === ",") return { from, to: at + 1, put: "" }
-    if (here.trim() !== "") break
-    at = at + 1
-  }
-  if (after) return { from, to, put: "" }
-  let back = from - 1
-  while (back >= 0) {
-    const here = text[back] ?? ""
-    if (here === ",") return { from: back, to, put: "" }
-    if (here.trim() !== "") break
-    back = back - 1
-  }
-  return { from, to, put: "" }
 }
 
 export function landingFor(

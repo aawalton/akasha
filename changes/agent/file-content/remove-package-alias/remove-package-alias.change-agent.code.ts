@@ -4,15 +4,20 @@ import { calledIn, objectIn } from "@akasha/code/package-manifest"
 import { manifestsIn } from "@akasha/indexes/package-reaching"
 import ts from "typescript"
 import {
+  entriesGoingIn,
   objectAt,
-  withoutEntriesIn,
 } from "../../../mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.code.ts"
 import {
   missing,
   refusing,
+  splicing,
   stating,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Replacing, Said } from "../../../modules/change-answer/change-answer.module.types.ts"
+import type {
+  Said,
+  Splice,
+  Stated,
+} from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { aliasIn, nameFor } from "../rename-package/rename-package.change-agent.code.ts"
 
@@ -43,14 +48,15 @@ export function aliasedTo(held: ts.ObjectLiteralExpression, was: string, to: str
   return false
 }
 
-export function withoutAliasIn(at: string, text: string, was: string, to: string): string {
-  let body = text
+export function aliasGoingIn(at: string, text: string, was: string, to: string): readonly Splice[] {
+  const source = ts.parseJsonText(at, text)
+  const found: Splice[] = []
   for (const holding of HOLDING) {
-    const held = objectAt(ts.parseJsonText(at, body), holding)
+    const held = objectAt(source, holding)
     if (held === null || !aliasedTo(held, was, to)) continue
-    body = withoutEntriesIn(at, body, holding, new Set([was]))
+    found.push(...entriesGoingIn(at, text, holding, new Set([was])))
   }
-  return body
+  return found.sort((one, two) => one.from - two.from)
 }
 
 function reachingOld(world: World, was: string): string | null {
@@ -81,12 +87,11 @@ export function removePackageAlias(world: World, given: RemovePackageAliasAsked)
   if (reaching !== null) {
     return refusing(`\`${reaching}\` reaches this package as \`${given.was}\`, ${UNDROPPED}`)
   }
-  const edits: Replacing[] = []
+  const edits: Stated[] = []
   for (const path of manifestsIn(world.index.everyPath(), world.index.fileKeysAt())) {
     const body = world.textOf(path)
     if (body === null || !body.includes(given.was)) continue
-    const next = withoutAliasIn(path, body, given.was, to)
-    if (next !== body) edits.push({ kind: "replace", path, contentFrom: body, contentTo: next })
+    edits.push(...splicing(path, body, aliasGoingIn(path, body, given.was, to)))
   }
   if (edits.length === 0) return refusing(`no manifest aliases \`${given.was}\`, ${UNDROPPED}`)
   return stating(edits)

@@ -1,7 +1,11 @@
 import { dirname } from "node:path"
 import ts from "typescript"
-import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import {
+  refusing,
+  splicing,
+  stating,
+} from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Said, Splice } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const EXPORTS = "exports"
@@ -11,8 +15,6 @@ const HERE = "."
 const PARTED_BY = "/"
 
 const OPENING = "./"
-
-type Span = { readonly start: number; readonly end: number }
 
 export type Asked = {
   readonly at: string
@@ -45,25 +47,25 @@ export function objectAt(
   return null
 }
 
-function goneSpan(text: string, node: ts.Node, after: boolean): Span {
-  const start = node.getFullStart()
-  const end = node.getEnd()
-  let at = end
+export function goneSpan(text: string, node: ts.Node, after: boolean): Splice {
+  const from = node.getFullStart()
+  const to = node.getEnd()
+  let at = to
   while (at < text.length) {
     const here = text[at] ?? ""
-    if (here === ",") return { start, end: at + 1 }
+    if (here === ",") return { from, to: at + 1, put: "" }
     if (here.trim() !== "") break
     at = at + 1
   }
-  if (after) return { start, end }
-  let back = start - 1
+  if (after) return { from, to, put: "" }
+  let back = from - 1
   while (back >= 0) {
     const here = text[back] ?? ""
-    if (here === ",") return { start: back, end }
+    if (here === ",") return { from: back, to, put: "" }
     if (here.trim() !== "") break
     back = back - 1
   }
-  return { start, end }
+  return { from, to, put: "" }
 }
 
 export function landsOn(at: string, value: string): string {
@@ -89,19 +91,23 @@ export function waysGoneIn(
   return found
 }
 
-export function withoutWaysIn(at: string, text: string, dropping: ReadonlySet<string>): string {
-  return withoutEntriesIn(at, text, EXPORTS, dropping)
+export function waysGoingIn(
+  at: string,
+  text: string,
+  dropping: ReadonlySet<string>
+): readonly Splice[] {
+  return entriesGoingIn(at, text, EXPORTS, dropping)
 }
 
-export function withoutEntriesIn(
+export function entriesGoingIn(
   at: string,
   text: string,
   holding: string,
   dropping: ReadonlySet<string>
-): string {
+): readonly Splice[] {
   const held = objectAt(ts.parseJsonText(at, text), holding)
-  if (held === null) return text
-  const spans: Span[] = []
+  if (held === null) return []
+  const spans: Splice[] = []
   let after = false
   for (const one of held.properties) {
     if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) {
@@ -115,11 +121,7 @@ export function withoutEntriesIn(
     spans.push(goneSpan(text, one, after))
     after = true
   }
-  let body = text
-  for (const one of [...spans].sort((first, next) => next.start - first.start)) {
-    body = `${body.slice(0, one.start)}${body.slice(one.end)}`
-  }
-  return body
+  return spans
 }
 
 export function removeManifestWays(given: Asked, textOf: (path: string) => string | null): Said {
@@ -130,8 +132,7 @@ export function removeManifestWays(given: Asked, textOf: (path: string) => strin
   }
   const ways = waysGoneIn(given.at, text, new Set(given.going))
   if (ways.length === 0) return stating([])
-  const body = withoutWaysIn(given.at, text, new Set(ways))
-  return stating([{ kind: "replace", path: given.at, contentFrom: text, contentTo: body }])
+  return stating(splicing(given.at, text, waysGoingIn(given.at, text, new Set(ways))))
 }
 
 export function runChange(world: World, given: Asked): Said {

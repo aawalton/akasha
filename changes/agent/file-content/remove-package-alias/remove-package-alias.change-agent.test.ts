@@ -8,9 +8,9 @@ import {
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import {
   aliasedTo,
+  aliasGoingIn,
   removePackageAlias,
   runChange,
-  withoutAliasIn,
 } from "./remove-package-alias.change-agent.code.ts"
 
 afterAll(scratch.sweep)
@@ -181,6 +181,16 @@ function heldIn(text: string): ts.ObjectLiteralExpression {
     }
   }
   throw new Error("the fixture states no dependencies")
+}
+
+function withoutAliasIn(at: string, text: string, was: string, to: string): string {
+  let body = text
+  for (const one of [...aliasGoingIn(at, text, was, to)].sort(
+    (here, there) => there.from - here.from
+  )) {
+    body = `${body.slice(0, one.from)}${one.put}${body.slice(one.to)}`
+  }
+  return body
 }
 
 test("an entry whose value aliases the name now carried is found", () => {
