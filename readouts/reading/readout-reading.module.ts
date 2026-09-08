@@ -44,7 +44,7 @@ export const readoutReading = {
     {
       invariantKind: "departure",
       statement:
-        "A reading in the file carrying one half alone is refused rather than read as no reading.",
+        "A reading in the file with one half alone is refused rather than read as no reading.",
     },
     {
       invariantKind: "departure",
@@ -56,11 +56,11 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Values carrying neither half carry no reading.",
+      statement: "Values carrying neither half have no reading.",
     },
     {
       invariantKind: "departure",
-      statement: "Values carrying one half alone carry no reading.",
+      statement: "Values with one half alone have no reading.",
     },
     {
       invariantKind: "departure",

@@ -63,7 +63,7 @@ export const deviceSecretKeeping = {
     },
     {
       invariantKind: "absence",
-      statement: "No refusal carries the secret that was presented.",
+      statement: "No refusal has the secret that was presented.",
     },
     {
       invariantKind: "absence",

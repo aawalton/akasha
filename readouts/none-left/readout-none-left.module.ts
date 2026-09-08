@@ -22,11 +22,11 @@ export const readoutNoneLeft = {
     },
     {
       invariantKind: "departure",
-      statement: "A readout no page names carries neither half.",
+      statement: "A readout no page names has neither half.",
     },
     {
       invariantKind: "departure",
-      statement: "A store that answers nothing carries neither half.",
+      statement: "A store that answers nothing has neither half.",
     },
     {
       invariantKind: "absence",

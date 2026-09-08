@@ -13,7 +13,7 @@ export const testRunMarking = {
     },
     {
       invariantKind: "departure",
-      statement: "A child a test spawns has the mark the test run carries.",
+      statement: "A child a test spawns has the mark the test run has.",
     },
     {
       invariantKind: "departure",

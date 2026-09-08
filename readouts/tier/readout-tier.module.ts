@@ -123,7 +123,7 @@ export const readoutTier = {
     },
     {
       invariantKind: "departure",
-      statement: "A figure carries two significant figures at least.",
+      statement: "A figure has two significant figures at least.",
     },
     {
       invariantKind: "departure",

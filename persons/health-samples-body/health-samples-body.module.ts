@@ -22,11 +22,11 @@ export const healthSamplesBody = {
     },
     {
       invariantKind: "departure",
-      statement: "A body carrying no sample is refused.",
+      statement: "A body with no sample is refused.",
     },
     {
       invariantKind: "constraint",
-      statement: "One body carries a thousand samples at the most.",
+      statement: "One body has a thousand samples at the most.",
     },
     {
       invariantKind: "absence",

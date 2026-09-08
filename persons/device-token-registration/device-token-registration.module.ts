@@ -20,8 +20,7 @@ export const deviceTokenRegistration = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The app a token is kept against is the iOS app page carrying the bundle registered.",
+      statement: "The app a token is kept against is the iOS app page with the bundle registered.",
     },
     {
       invariantKind: "departure",
@@ -35,8 +34,7 @@ export const deviceTokenRegistration = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A token whose app no page carries refuses the whole read rather than being left out.",
+      statement: "A token whose app no page has refuses the whole read rather than being left out.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +42,7 @@ export const deviceTokenRegistration = {
     },
     {
       invariantKind: "absence",
-      statement: "No refusal carries the token a device presented.",
+      statement: "No refusal has the token a device presented.",
     },
     {
       invariantKind: "absence",

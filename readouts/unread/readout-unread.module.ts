@@ -4,7 +4,7 @@ export const readoutUnread = {
   id: "01a0657f-4cdb-7000-ae3c-a06d78dc0854",
   pageTypeSlug: "module",
   slug: "readout-unread",
-  definition: "the lights a group draws that carry no reading",
+  definition: "the lights a group draws that have no reading",
   code: "ts",
   test: "ts",
   invariants: [
@@ -19,7 +19,7 @@ export const readoutUnread = {
     },
     {
       invariantKind: "departure",
-      statement: "A light carrying a figure is read.",
+      statement: "A light with a figure is read.",
     },
     {
       invariantKind: "departure",
@@ -35,8 +35,7 @@ export const readoutUnread = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A light carrying no figure is named beside the kind of absence that light carries.",
+      statement: "A light with no figure is named beside the kind of absence that light has.",
     },
     {
       invariantKind: "departure",

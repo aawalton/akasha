@@ -64,7 +64,7 @@ export const readoutRelay = {
     },
     {
       invariantKind: "departure",
-      statement: "Running this file carries the reading beside the readout that run names.",
+      statement: "Running this file has the reading beside the readout that run names.",
     },
     {
       invariantKind: "departure",

@@ -27,11 +27,11 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "The label answered is the label the readout's own page carries.",
+      statement: "The label answered is the label the readout's own page has.",
     },
     {
       invariantKind: "departure",
-      statement: "The key carrying the wire key is the key the caller names.",
+      statement: "The key with the wire key is the key the caller names.",
     },
     {
       invariantKind: "departure",
@@ -89,7 +89,7 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A readout carrying no reading is answered as a stoplight carrying no figure.",
+      statement: "A readout with no reading is answered as a stoplight carrying no figure.",
     },
     {
       invariantKind: "departure",
@@ -106,16 +106,16 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "The color of a stoplight carrying no figure is the color below every rung.",
+      statement: "The color of a stoplight with no figure is the color below every rung.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A stoplight carrying no figure carries the figure as empty text rather than leaving that figure out.",
+        "A stoplight with no figure carries the figure as empty text rather than leaving that figure out.",
     },
     {
       invariantKind: "departure",
-      statement: "A stoplight carrying no figure carries no tier above and no fraction climbed.",
+      statement: "A stoplight with no figure has no tier above and no fraction climbed.",
     },
     {
       invariantKind: "departure",
@@ -145,7 +145,7 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A stoplight carrying a reading says nothing of how that reading is held.",
+      statement: "A stoplight with a reading says nothing of how that reading is held.",
     },
     {
       invariantKind: "departure",

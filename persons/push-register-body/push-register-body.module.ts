@@ -10,7 +10,7 @@ export const pushRegisterBody = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A body carrying no token is refused.",
+      statement: "A body with no token is refused.",
     },
     {
       invariantKind: "departure",
