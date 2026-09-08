@@ -29,10 +29,8 @@ export function boundIn(source: ts.SourceFile): string | null {
   return null
 }
 
-export function statedIn(source: ts.SourceFile): ReadonlyMap<string, ts.StringLiteral> {
-  const held = literalIn(source)
+export function textsOf(held: ts.ObjectLiteralExpression): ReadonlyMap<string, ts.StringLiteral> {
   const found = new Map<string, ts.StringLiteral>()
-  if (held === null) return found
   for (const one of held.properties) {
     if (!ts.isPropertyAssignment(one)) continue
     const key = keyOf(one)
@@ -42,12 +40,31 @@ export function statedIn(source: ts.SourceFile): ReadonlyMap<string, ts.StringLi
   return found
 }
 
-export function manyIn(source: ts.SourceFile, key: string): boolean {
+export function statedIn(source: ts.SourceFile): ReadonlyMap<string, ts.StringLiteral> {
   const held = literalIn(source)
-  if (held === null) return false
+  return held === null ? new Map() : textsOf(held)
+}
+
+function initializerAt(source: ts.SourceFile, key: string): ts.Expression | null {
+  const held = literalIn(source)
+  if (held === null) return null
   for (const one of held.properties) {
     if (!ts.isPropertyAssignment(one) || keyOf(one) !== key) continue
-    return ts.isArrayLiteralExpression(one.initializer)
+    return one.initializer
   }
-  return false
+  return null
+}
+
+export function manyIn(source: ts.SourceFile, key: string): boolean {
+  const held = initializerAt(source, key)
+  return held !== null && ts.isArrayLiteralExpression(held)
+}
+
+export function valuesIn(
+  source: ts.SourceFile,
+  key: string
+): readonly ts.ObjectLiteralExpression[] {
+  const held = initializerAt(source, key)
+  if (held === null || !ts.isArrayLiteralExpression(held)) return []
+  return held.elements.filter(ts.isObjectLiteralExpression)
 }

@@ -48,5 +48,21 @@ export const pageLiteral = {
       invariantKind: "absence",
       statement: "Nothing here rewrites a body.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The text a key states is read off an object handed in rather than off a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The records a key holds are the objects in the list that key states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry in that list that is no object is no record.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key stating no list holds no records.",
+    },
   ],
 } as const satisfies Module

@@ -1,7 +1,15 @@
 import { expect, test } from "bun:test"
 import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
-import { boundIn, keyOf, literalIn, manyIn, statedIn } from "./page-literal.module.code.ts"
+import {
+  boundIn,
+  keyOf,
+  literalIn,
+  manyIn,
+  statedIn,
+  textsOf,
+  valuesIn,
+} from "./page-literal.module.code.ts"
 
 const AT = "one/held.module.ts"
 
@@ -16,6 +24,21 @@ const BODY = [
   '  definition: "a page the parser reads",',
   '  partSlugs: ["module/one", "module/two"],',
   "  count: 3,",
+  "} as const satisfies Module",
+  "",
+].join("\n")
+
+const RECORDS = [
+  'import type { Module } from "@akasha/code/module"',
+  "",
+  "export const held = {",
+  '  slug: "held",',
+  "  invariants: [",
+  '    { invariantKind: "departure", statement: "the first" },',
+  '    { invariantKind: "gap", statement: "the second" },',
+  "    3,",
+  "  ],",
+  '  partSlugs: ["module/one"],',
   "} as const satisfies Module",
   "",
 ].join("\n")
@@ -95,4 +118,30 @@ test("a key is read off the assignment stating that key", () => {
     "partSlugs",
     "count",
   ])
+})
+
+test("the records a many-valued key holds are answered in the order they sit in", () => {
+  const held = valuesIn(sourceOf(RECORDS), "invariants")
+  const said = held.map((one) => textsOf(one).get("statement")?.text)
+
+  expect(said).toEqual(["the first", "the second"])
+})
+
+test("each key stating text on a record is answered under that key", () => {
+  const held = valuesIn(sourceOf(RECORDS), "invariants")
+  const said = held.map((one) => textsOf(one).get("invariantKind")?.text)
+
+  expect(said).toEqual(["departure", "gap"])
+})
+
+test("a key holding one value holds no records", () => {
+  expect(valuesIn(sourceOf(), "slug").length).toBe(0)
+})
+
+test("a key the body states no value under holds no records", () => {
+  expect(valuesIn(sourceOf(), "pluralSlug").length).toBe(0)
+})
+
+test("a list holding no object holds no records", () => {
+  expect(valuesIn(sourceOf(), "partSlugs").length).toBe(0)
 })
