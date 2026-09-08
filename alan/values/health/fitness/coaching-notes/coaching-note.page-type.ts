@@ -2,6 +2,7 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../../pages/properties/title.text-property.ts"
 import type { CoachingNoteActive } from "./properties/coaching-note-active.boolean-property.ts"
+import type { CoachingNoteDate } from "./properties/coaching-note-date.calendar-date-property.ts"
 import type { CoachingNoteKind } from "./properties/coaching-note-kind.select-property.ts"
 import type { CoachingNoteSortOrder } from "./properties/coaching-note-sort-order.number-property.ts"
 import type { FocusTags } from "./properties/focus-tags.select-property.ts"
@@ -12,6 +13,7 @@ export type CoachingNote = Page & {
   coachingNoteActive: CoachingNoteActive
   focusTags: readonly FocusTags[]
   coachingNoteKind: CoachingNoteKind
+  coachingNoteDate?: CoachingNoteDate
   coachingNoteSortOrder?: CoachingNoteSortOrder
   asks?: Says
 }
@@ -24,6 +26,7 @@ export const coachingNote = {
   pluralSlug: "coaching-notes",
   partSlugs: [
     "boolean-property/coaching-note-active",
+    "calendar-date-property/coaching-note-date",
     "file-property/says",
     "number-property/coaching-note-sort-order",
     "select-property/coaching-note-kind",
@@ -39,6 +42,11 @@ export const coachingNote = {
     },
     { pagePropertySlug: "select-property/focus-tags", required: true, many: true, maxCount: null },
     { pagePropertySlug: "select-property/coaching-note-kind", required: true, many: false },
+    {
+      pagePropertySlug: "calendar-date-property/coaching-note-date",
+      required: false,
+      many: false,
+    },
     {
       pagePropertySlug: "number-property/coaching-note-sort-order",
       required: false,
