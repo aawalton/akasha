@@ -201,6 +201,7 @@ export const clusterCheck = {
     "module/spacing-scale",
     "module/start-script-rules",
     "module/suppression-subject",
+    "module/surface-literal-sites",
   ],
   properties: [
     {
