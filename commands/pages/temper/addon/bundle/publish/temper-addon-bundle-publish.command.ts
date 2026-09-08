@@ -18,6 +18,7 @@ export const temperAddonBundlePublish = {
     "the build, the image assembly and the push are each bounded, and one reaching its bound refuses the call.",
     "every addon is compiled and packed by this command itself rather than by a separate call made first.",
     "the tag naming the image is written into the checkout only once the push is done.",
+    "the tag lands as its own commit through the mechanical change that writes a code file, rather than being left unlanded in the tree.",
   ],
   invariants: [
     {
@@ -39,6 +40,14 @@ export const temperAddonBundlePublish = {
     {
       invariantKind: "departure",
       statement: "The tag is written after the push rather than before that push.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tag lands as a mechanical change rather than written by this command.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tag already naming this image lands nothing.",
     },
     {
       invariantKind: "departure",

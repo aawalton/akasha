@@ -1,6 +1,7 @@
 import { createHash } from "node:crypto"
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join, resolve } from "node:path"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
@@ -44,6 +45,10 @@ const DEFAULT_PUSH_REGISTRY = "192.168.68.87:30500"
 const TAG_FILE = "temper/temper-web/deploy/addon-bundle-image.ts"
 
 const SHA_PLACEHOLDER = "0".repeat(40)
+
+const PUT = "change-mechanical/add-file-code"
+
+const MESSAGE = "the addon bundle image the cluster pulls, named by the content it was built from"
 
 function mustRun(argv: readonly string[], what: string): string | null {
   const started = Date.now()
@@ -138,7 +143,24 @@ export async function temperAddonBundlePublish(argv: readonly string[] = []): Pr
     if (pushed !== null) return refused(pushed, FAILED)
 
     const tagPath = join(root, TAG_FILE)
-    writeFileSync(tagPath, tagBody(contentHash))
+    const body = tagBody(contentHash)
+    let held: string | null = null
+    try {
+      held = readFileSync(tagPath, "utf8")
+    } catch {}
+    if (held !== body) {
+      const landed = await runMechanicalChange(
+        root,
+        [{ at: PUT, given: { at: TAG_FILE, body } }],
+        MESSAGE
+      )
+      if ("refusals" in landed) {
+        return refused(
+          `${pushRef} is pushed and ${tagPath} was not landed — ${landed.refusals.join("; ")}`,
+          FAILED
+        )
+      }
+    }
 
     return {
       report: [
@@ -146,7 +168,9 @@ export async function temperAddonBundlePublish(argv: readonly string[] = []): Pr
         `content ${contentHash}`,
         `image ${PULL_REGISTRY}/${IMAGE_REPO}:${contentHash}`,
         `pushed ${pushRef}`,
-        `wrote ${tagPath} after the push, so what the tag names is already in the registry`,
+        held === body
+          ? `${tagPath} already names this image`
+          : `landed ${tagPath} after the push, so what the tag names is already in the registry`,
       ],
       refusals: [],
       code: 0,
