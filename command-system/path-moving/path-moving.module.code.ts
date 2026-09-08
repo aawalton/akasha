@@ -12,20 +12,20 @@ export type Moving = {
 }
 
 export function movesHeld(
-  carries: readonly FileMove[],
+  moves: readonly FileMove[],
   before: ReadonlyMap<string, Uint8Array | null>
 ): Moving {
   const on = (one: FileMove): boolean => (before.get(one.from) ?? null) !== null
-  return { committing: carries.filter(on), uncommitted: carries.filter((one) => !on(one)) }
+  return { committing: moves.filter(on), uncommitted: moves.filter((one) => !on(one)) }
 }
 
-export function movedOnto(root: string, carries: readonly FileMove[]): () => undefined {
+export function movedOnto(root: string, moves: readonly FileMove[]): () => undefined {
   const gone: FileMove[] = []
   const back = (): undefined => {
     for (const one of [...gone].reverse()) renameSync(join(root, one.to), join(root, one.from))
   }
   try {
-    for (const one of carries) {
+    for (const one of moves) {
       const at = join(root, one.from)
       if (!existsSync(at)) continue
       const to = join(root, one.to)

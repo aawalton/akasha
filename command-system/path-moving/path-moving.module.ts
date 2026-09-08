@@ -12,68 +12,67 @@ export const pathMoving = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A change may name paths carried on disk rather than written from a body.",
+      statement: "A change may name paths moved on disk rather than written from a body.",
     },
     {
       invariantKind: "departure",
-      statement: "A change naming a carry and no body is a change rather than nothing asked for.",
+      statement: "A change naming a move and no body is a change rather than nothing asked for.",
     },
     {
       invariantKind: "departure",
-      statement: "A path carried is moved by one rename rather than written and taken away.",
+      statement: "A path moved goes by one rename rather than by a write and a taking away.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path carried that the base commit has is committed as the rename that path made.",
+      statement: "A path moved that the base commit has is committed as the rename that path made.",
     },
     {
       invariantKind: "departure",
-      statement: "A path carried that no commit holds is carried on disk and committed nowhere.",
+      statement: "A path moved that no commit holds moves on disk and is committed nowhere.",
     },
     {
       invariantKind: "departure",
-      statement: "A path carried is filed in the index as taken away where that carry started.",
+      statement: "A path moved is filed in the index as taken away where that move started.",
     },
     {
       invariantKind: "departure",
-      statement: "A path carried is filed in the index as written where that carry lands.",
+      statement: "A path moved is filed in the index as written where that move lands.",
     },
     {
       invariantKind: "departure",
-      statement: "A body judged where a carry lands is the body that carry started from.",
+      statement: "A body judged where a move lands is the body that move started from.",
     },
     {
       invariantKind: "departure",
-      statement: "A body written at the path a carry lands at is written after that carry.",
+      statement: "A body written at the path a move lands at is written after that move.",
     },
     {
       invariantKind: "departure",
-      statement: "A landing carrying a path from another path works the change out itself.",
+      statement: "A landing moving a path from another path works the change out itself.",
     },
     {
       invariantKind: "departure",
-      statement: "Those paths are carried after the index is settled and before the commit.",
+      statement: "Those paths move after the index is settled and before the commit.",
     },
     {
       invariantKind: "departure",
-      statement: "A carry that throws puts back in reverse the carries made before that carry.",
+      statement: "A move that throws puts back in reverse the moves made before that move.",
     },
     {
       invariantKind: "departure",
-      statement: "A commit that throws puts back every carry made for that commit.",
+      statement: "A commit that throws puts back every move made for that commit.",
     },
     {
       invariantKind: "departure",
-      statement: "A landing that throws has carried nothing.",
+      statement: "A landing that throws has moved nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder left with nothing by a path carried away is cleared off the disk.",
+      statement: "A folder left with nothing by a path moved away is cleared off the disk.",
     },
     {
       invariantKind: "departure",
-      statement: "A path carried away that something still imports refuses the change unwritten.",
+      statement: "A path moved away that something still imports refuses the change unwritten.",
     },
   ],
 } as const satisfies Module
