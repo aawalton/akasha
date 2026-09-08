@@ -1,3 +1,4 @@
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type * as ts from "typescript"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
 import { LuaTarget } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
@@ -53,5 +54,8 @@ export const transformContinueStatement: FunctionVisitor<ts.ContinueStatement> =
         ),
         luaStatements.createBreakStatement(statement),
       ]
+
+    default:
+      assertNever(continuedWith)
   }
 }
