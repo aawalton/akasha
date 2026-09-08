@@ -29,7 +29,7 @@ export const devServerStating = {
     },
     {
       invariantKind: "departure",
-      statement: "A state file carrying a field the shape does not name is refused.",
+      statement: "A state file with a field the shape does not name is refused.",
     },
     {
       invariantKind: "departure",

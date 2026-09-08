@@ -17,12 +17,11 @@ export const characterSchema = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A sheet carries the fields the shape does not name rather than losing those fields.",
+      statement: "A sheet has the fields the shape does not name rather than losing those fields.",
     },
     {
       invariantKind: "departure",
-      statement: "Most fields a sheet may carry are optional.",
+      statement: "Most fields a sheet may have are optional.",
     },
   ],
 } as const satisfies Module

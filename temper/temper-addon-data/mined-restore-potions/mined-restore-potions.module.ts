@@ -13,11 +13,11 @@ export const minedRestorePotions = {
     },
     {
       invariantKind: "absence",
-      statement: "No page type carries the sweep's rows.",
+      statement: "No page type has the sweep's rows.",
     },
     {
       invariantKind: "departure",
-      statement: "The rows are read from the files beside whichever page carries the rows.",
+      statement: "The rows are read from the files beside whichever page has the rows.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +45,7 @@ export const minedRestorePotions = {
     },
     {
       invariantKind: "departure",
-      statement: "No page carrying the rows is refused rather than answered as no potions.",
+      statement: "No page with the rows is refused rather than answered as no potions.",
     },
   ],
 } as const satisfies Module

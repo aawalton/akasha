@@ -15,7 +15,7 @@ export const addonDataTarget = {
     {
       invariantKind: "departure",
       statement:
-        "A table landing as entries names the page type and the property carrying the entries.",
+        "A table landing as entries names the page type and the property with the entries.",
     },
     {
       invariantKind: "departure",

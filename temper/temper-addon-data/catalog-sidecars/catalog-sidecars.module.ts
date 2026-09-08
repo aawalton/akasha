@@ -4,17 +4,17 @@ export const catalogSidecars = {
   id: "01a06369-1e85-7d20-90a9-a624c0c3695e",
   pageTypeSlug: "module",
   slug: "catalog-sidecars",
-  definition: "the rows a catalog page carries, turned into the shape a generator reads",
+  definition: "the rows a catalog page has, turned into the shape a generator reads",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The rows of a property arrive on the page carrying the rows.",
+      statement: "The rows of a property arrive on the page with the rows.",
     },
     {
       invariantKind: "departure",
-      statement: "A row reaches its page in the order the page carries the row.",
+      statement: "A row reaches its page in the order the page has the row.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const catalogSidecars = {
     },
     {
       invariantKind: "departure",
-      statement: "The order a row states its fields in is the order the table carries the fields.",
+      statement: "The order a row states its fields in is the order the table has the fields.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +55,7 @@ export const catalogSidecars = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type carrying no rows is answered unchanged.",
+      statement: "A page type with no rows is answered unchanged.",
     },
     {
       invariantKind: "absence",

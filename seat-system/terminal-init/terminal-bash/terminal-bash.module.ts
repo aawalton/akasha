@@ -20,7 +20,7 @@ export const terminalBash = {
     },
     {
       invariantKind: "departure",
-      statement: "An account gets one launcher named for the alias index that account carries.",
+      statement: "An account gets one launcher named for the alias index that account has.",
     },
     {
       invariantKind: "departure",

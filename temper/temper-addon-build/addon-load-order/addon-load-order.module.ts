@@ -18,7 +18,7 @@ export const addonLoadOrder = {
     {
       invariantKind: "departure",
       statement:
-        "An addon folder carrying no compiler settings has settings written before the bundle is read.",
+        "An addon folder with no compiler settings has settings written before the bundle is read.",
     },
     {
       invariantKind: "departure",

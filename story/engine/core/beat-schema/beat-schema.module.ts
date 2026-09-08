@@ -18,7 +18,7 @@ export const beatSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A beat written to the log carries the turn the beat belongs to.",
+      statement: "A beat written to the log has the turn the beat belongs to.",
     },
   ],
 } as const satisfies Module

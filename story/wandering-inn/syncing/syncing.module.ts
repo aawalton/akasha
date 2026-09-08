@@ -24,12 +24,11 @@ export const syncing = {
     },
     {
       invariantKind: "departure",
-      statement: "A chapter's title is the page's own title where the page carries a title.",
+      statement: "A chapter's title is the page's own title where the page has a title.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A chapter's title is the contents listing's title where the page carries no title.",
+      statement: "A chapter's title is the contents listing's title where the page has no title.",
     },
     {
       invariantKind: "departure",

@@ -17,7 +17,7 @@ export const addonDataPageRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carries its page type's slug under `pageTypeSlug`.",
+      statement: "A row has its page type's slug under `pageTypeSlug`.",
     },
     {
       invariantKind: "departure",

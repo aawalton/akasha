@@ -9,7 +9,7 @@ export const rollSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A roll's record carries the seed the roll was thrown from.",
+      statement: "A roll's record has the seed the roll was thrown from.",
     },
     {
       invariantKind: "departure",

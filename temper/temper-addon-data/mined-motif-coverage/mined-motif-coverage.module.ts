@@ -51,7 +51,7 @@ export const minedMotifCoverage = {
     },
     {
       invariantKind: "departure",
-      statement: "No page carrying the rows is refused rather than answered as no motifs.",
+      statement: "No page with the rows is refused rather than answered as no motifs.",
     },
     {
       invariantKind: "absence",

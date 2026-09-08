@@ -34,7 +34,7 @@ export const serviceReading = {
     },
     {
       invariantKind: "departure",
-      statement: "An option this system does not carry is dropped rather than carried through.",
+      statement: "An option this system does not have is dropped rather than carried through.",
     },
     {
       invariantKind: "absence",
