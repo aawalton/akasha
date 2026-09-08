@@ -20,7 +20,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A helper two changes share lives in a module rather than in one of the changes.",
       workingMemory:
-        "`literal-splicing` landed at `30c27d5f31` and took four reaches away. Six remain, in five landings: package naming from `rename-package`, JSON manifest arithmetic from `remove-manifest-ways`, `specifierFor` which wants `code-system/code-specifier` rather than a module of its own, `splicedIn` which belongs in `change-answer`, and `requiredIn`, which reads the checker and is its own concern. Scan for them across lines: a single-line scan misses the reach `remove-package-alias` makes.\n",
+        "Four homes landed: `literal-splicing`, `package-naming`, `json-entries`, and `specifierFor` into `code-system/code-specifier`. Two reaches remain, both held on purpose. `rename-file-page:25` takes `splicedIn` from `rename-page-slug`; it belongs in `change-answer` and waits while another intent holds that module. `remove-page-property:12` takes `requiredIn` from `remove-property-value`; it reads the checker and is its own concern. Scan across lines: a single-line scan misses one.\n",
     },
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
@@ -31,7 +31,7 @@ export const dallaDraftIntoAPatch = {
       statement:
         "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
       workingMemory:
-        "`landedMechanically` is its own module at `command-system/mechanical-landing`, whose one caller is `subagent-presence:109`; deleting it drops the folder, the export entry and the part slug. Its caller's test file is the block, at 8.1s against a 5s ceiling, and dividing that file is dead. A landing costs 0.033s under `bun run` and 0.40s inside `bun test`: a 12x amplification that is neither the env copy, the namespace nor the overlay mount. 26 processes a landing, 22 git, 8 redundant.\n",
+        "`landedMechanically` is its own module at `command-system/mechanical-landing`, whose one caller is `subagent-presence:109`; deleting it drops the folder, the export entry and the part slug. That caller's test file is the block, over the ceiling, and dividing the file is dead. The amplification is not git: every child started inside `bun test` pays a fixed 12ms of processor time, `/bin/true` included, against 0.29ms under `bun run`. Most of its cost is that toll over 550 starts.\n",
     },
     {
       statement: "Every change is a patch before it is applied.",
