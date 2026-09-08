@@ -2,10 +2,10 @@ import { basename, dirname, extname, join, relative } from "node:path"
 import { landingOf, placedIn, spelledIn } from "@akasha/code/code-specifier"
 import {
   refusing,
+  splicing,
   stating,
-  written,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type { Said, Splice } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const GENERATED = "+types"
@@ -69,16 +69,13 @@ export function changeImports(
 ): Said {
   const dir = dirname(now)
   const specifier = new Set(placedIn(now, text).map((one) => one.start))
-  let out = ""
-  let at = 0
+  const splices: Splice[] = []
   for (const one of spelledIn(now, text)) {
     const next = nextFor(was, now, dir, one.text, moved, specifier.has(one.start))
     if (next === null || next === one.text) continue
-    out = `${out}${text.slice(at, one.start)}${JSON.stringify(next)}`
-    at = one.end
+    splices.push({ from: one.start, to: one.end, put: JSON.stringify(next) })
   }
-  const body = `${out}${text.slice(at)}`
-  return stating(written(now, text, body))
+  return stating(splicing(now, text, splices))
 }
 
 export type Given = {

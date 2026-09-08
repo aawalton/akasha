@@ -49,7 +49,16 @@ test("a body that does not move states a replace rather than a move", () => {
   const said = changeImports(HOLDER, HOLDER, CODE, new Map([[TARGET, ARRIVES]]))
 
   expect(said.edits).toHaveLength(1)
-  expect(said.edits[0]).toMatchObject({ kind: "replace", path: HOLDER, contentFrom: CODE })
+  expect(said.edits[0]).toMatchObject({ kind: "replace", path: HOLDER })
+})
+
+test("the passage a repointed import names is the line rather than the body", () => {
+  const said = changeImports(HOLDER, HOLDER, CODE, new Map([[TARGET, ARRIVES]]))
+  const one = said.edits[0]
+
+  expect(one?.kind === "replace" && one.contentFrom).toBe(
+    'import { other } from "../two/other.module.code.ts"'
+  )
 })
 
 test("a name that is no specifier is read against the folder of the body naming it", () => {
