@@ -110,7 +110,6 @@ export const clusterCheck = {
     "module/surface-literal-sites",
     "module/swift-masked-source",
     "module/syntax-scanner-entry",
-    "module/tailwind-sources-violations",
     "module/temper-type-tier",
     "module/test-classification",
     "module/tree-globs",
