@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0067Chapter32TheJanitor = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0067-chapter-32-the-janitor",
   title: "Chapter 32: The Janitor",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 67,
   ownLength: 1627,
   unitSlug: "words",

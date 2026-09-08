@@ -5,7 +5,7 @@ export const justAddMana0044Chapter44FireResonancePt6 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0044-chapter-44-fire-resonance-pt-6",
   title: "Chapter 44 — Fire Resonance, Pt 6",
-  partOfSlugs: ["just-add-mana"],
+  partOfCollectionSlugs: ["just-add-mana"],
   position: 44,
   ownLength: 3046,
   ownProgress: 3046,

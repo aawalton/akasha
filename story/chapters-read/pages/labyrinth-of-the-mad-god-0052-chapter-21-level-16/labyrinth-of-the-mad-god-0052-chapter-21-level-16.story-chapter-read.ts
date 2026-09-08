@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0052Chapter21Level16 = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0052-chapter-21-level-16",
   title: "Chapter 21: Level 16",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 52,
   ownLength: 1927,
   unitSlug: "words",

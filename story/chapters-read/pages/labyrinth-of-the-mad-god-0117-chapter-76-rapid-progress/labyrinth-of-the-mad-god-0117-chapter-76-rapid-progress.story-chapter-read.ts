@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0117Chapter76RapidProgress = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0117-chapter-76-rapid-progress",
   title: "Chapter 76: Rapid Progress",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 117,
   ownLength: 1849,
   unitSlug: "words",

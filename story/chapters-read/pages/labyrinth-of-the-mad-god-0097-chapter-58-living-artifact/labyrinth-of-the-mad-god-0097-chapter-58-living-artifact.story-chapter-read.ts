@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0097Chapter58LivingArtifact = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0097-chapter-58-living-artifact",
   title: "Chapter 58: Living Artifact",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 97,
   ownLength: 1624,
   unitSlug: "words",

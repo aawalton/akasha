@@ -5,7 +5,7 @@ export const justAddMana0136133Book3Chapter32NewClassesPt2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0136-133-book-3-chapter-32-new-classes-pt-2",
   title: "133 — Book 3, Chapter 32 — New Classes, Pt 2",
-  partOfSlugs: ["just-add-mana"],
+  partOfCollectionSlugs: ["just-add-mana"],
   position: 136,
   ownLength: 3255,
   unitSlug: "words",

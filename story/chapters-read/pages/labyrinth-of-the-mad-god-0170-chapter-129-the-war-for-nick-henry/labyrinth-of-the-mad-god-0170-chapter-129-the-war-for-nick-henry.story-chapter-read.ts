@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0170Chapter129TheWarForNickHenry = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0170-chapter-129-the-war-for-nick-henry",
   title: "Chapter 129: The War for Nick Henry",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 170,
   ownLength: 1441,
   unitSlug: "words",

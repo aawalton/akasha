@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0089Chapter50SixArmedMutant = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0089-chapter-50-six-armed-mutant",
   title: "Chapter 50: Six-Armed Mutant",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 89,
   ownLength: 1651,
   unitSlug: "words",

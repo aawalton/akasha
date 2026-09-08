@@ -5,7 +5,7 @@ export const justAddMana0167162Book4Chapter6DivineDomain = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0167-162-book-4-chapter-6-divine-domain",
   title: "162 — Book 4, Chapter 6 — Divine Domain",
-  partOfSlugs: ["just-add-mana"],
+  partOfCollectionSlugs: ["just-add-mana"],
   position: 167,
   ownLength: 3629,
   unitSlug: "words",

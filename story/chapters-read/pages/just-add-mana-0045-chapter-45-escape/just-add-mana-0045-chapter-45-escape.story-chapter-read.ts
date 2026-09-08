@@ -5,7 +5,7 @@ export const justAddMana0045Chapter45Escape = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0045-chapter-45-escape",
   title: "Chapter 45 — Escape",
-  partOfSlugs: ["just-add-mana"],
+  partOfCollectionSlugs: ["just-add-mana"],
   position: 45,
   ownLength: 3379,
   ownProgress: 3379,

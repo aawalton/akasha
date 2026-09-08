@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0119Chapter78OneLastFarewell = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0119-chapter-78-one-last-farewell",
   title: "Chapter 78: One Last Farewell",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 119,
   ownLength: 1621,
   unitSlug: "words",

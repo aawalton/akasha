@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0163Chapter122SpeciesEvolutionPill = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0163-chapter-122-species-evolution-pill",
   title: "Chapter 122: Species-Evolution Pill",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 163,
   ownLength: 1974,
   unitSlug: "words",

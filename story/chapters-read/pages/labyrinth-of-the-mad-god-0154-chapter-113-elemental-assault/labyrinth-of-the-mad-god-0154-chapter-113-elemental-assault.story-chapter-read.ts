@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0154Chapter113ElementalAssault = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0154-chapter-113-elemental-assault",
   title: "Chapter 113: Elemental Assault",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 154,
   ownLength: 1793,
   unitSlug: "words",

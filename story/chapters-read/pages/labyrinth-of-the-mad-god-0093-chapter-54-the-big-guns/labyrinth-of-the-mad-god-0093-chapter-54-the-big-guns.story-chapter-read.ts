@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0093Chapter54TheBigGuns = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0093-chapter-54-the-big-guns",
   title: "Chapter 54: The Big Guns",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 93,
   ownLength: 1717,
   unitSlug: "words",

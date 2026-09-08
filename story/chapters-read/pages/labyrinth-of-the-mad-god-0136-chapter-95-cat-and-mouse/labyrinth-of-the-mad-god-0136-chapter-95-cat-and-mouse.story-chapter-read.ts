@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0136Chapter95CatAndMouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0136-chapter-95-cat-and-mouse",
   title: "Chapter 95: Cat and Mouse",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 136,
   ownLength: 1320,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0045Chapter16Samples = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0045-chapter-16-samples",
   title: "Chapter 16: Samples",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 45,
   ownLength: 1770,
   unitSlug: "words",

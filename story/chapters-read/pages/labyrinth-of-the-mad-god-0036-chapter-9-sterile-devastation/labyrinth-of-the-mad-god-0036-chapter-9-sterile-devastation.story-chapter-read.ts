@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0036Chapter9SterileDevastation = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0036-chapter-9-sterile-devastation",
   title: "Chapter 9: Sterile Devastation",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 36,
   ownLength: 1609,
   unitSlug: "words",

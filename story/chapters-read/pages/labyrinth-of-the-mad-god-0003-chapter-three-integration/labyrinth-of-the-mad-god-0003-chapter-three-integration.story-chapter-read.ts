@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0003ChapterThreeIntegration = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0003-chapter-three-integration",
   title: "Chapter Three: Integration",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 3,
   ownLength: 2319,
   unitSlug: "words",

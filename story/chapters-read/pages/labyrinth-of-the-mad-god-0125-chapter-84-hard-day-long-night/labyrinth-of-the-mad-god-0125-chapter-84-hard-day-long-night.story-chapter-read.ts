@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0125Chapter84HardDayLongNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0125-chapter-84-hard-day-long-night",
   title: "Chapter 84: Hard Day, Long Night",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 125,
   ownLength: 1554,
   unitSlug: "words",

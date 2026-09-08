@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0032Chapter6PickingAPath = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0032-chapter-6-picking-a-path",
   title: "Chapter 6: Picking a Path",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 32,
   ownLength: 1921,
   unitSlug: "words",

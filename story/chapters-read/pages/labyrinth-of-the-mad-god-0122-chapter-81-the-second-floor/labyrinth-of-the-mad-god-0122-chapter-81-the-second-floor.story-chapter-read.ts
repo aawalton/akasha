@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0122Chapter81TheSecondFloor = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0122-chapter-81-the-second-floor",
   title: "Chapter 81: The Second Floor",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 122,
   ownLength: 1425,
   unitSlug: "words",

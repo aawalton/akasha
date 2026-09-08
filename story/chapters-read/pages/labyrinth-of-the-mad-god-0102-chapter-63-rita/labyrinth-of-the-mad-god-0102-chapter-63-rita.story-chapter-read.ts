@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0102Chapter63Rita = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0102-chapter-63-rita",
   title: "Chapter 63: Rita",
-  partOfSlugs: ["labyrinth-of-the-mad-god"],
+  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
   position: 102,
   ownLength: 1472,
   unitSlug: "words",
