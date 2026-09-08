@@ -5,7 +5,6 @@ import {
   getFileAnnotations,
   getNodeAnnotations,
 } from "../tstl-annotations/tstl-annotations.module.code.ts"
-import type { CompilerOptions } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import {
   findFirstNodeAbove,
   getAllCallSignatures,
