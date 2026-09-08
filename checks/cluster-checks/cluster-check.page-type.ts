@@ -88,7 +88,6 @@ export const clusterCheck = {
     "module/component-layout-boundary",
     "module/component-slot-detection",
     "module/component-sources",
-    "module/css-source-directives",
     "module/head-styles-violations",
     "module/image-tag-rule",
     "module/jsx-class-tokens",
