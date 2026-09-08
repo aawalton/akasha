@@ -22,6 +22,10 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
+      statement: "A path the index names holding no body is left where that path is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file keeps its place beneath the folder that file moved with.",
     },
     {

@@ -30,6 +30,7 @@ function underneath(world: World, at: string): readonly string[] {
   for (const path of world.index.everyPath()) {
     const held = relative(at, path)
     if (held === "" || held.startsWith(OUTSIDE)) continue
+    if (world.textOf(path) === null) continue
     found.push(path)
   }
   return found.sort()
