@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0045Book4Chapter40TheHourgla
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0045-book-4-chapter-40-the-hourglass-emptied",
   title: "Book 4 - Chapter 40 - The Hourglass, Emptied",
-  partOfSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
+  partOfCollectionSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
   position: 45,
   ownLength: 6375,
   unitSlug: "words",

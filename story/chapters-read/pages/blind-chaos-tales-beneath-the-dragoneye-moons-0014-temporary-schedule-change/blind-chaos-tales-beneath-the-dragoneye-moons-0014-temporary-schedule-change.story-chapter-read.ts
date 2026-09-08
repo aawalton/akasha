@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0014TemporaryScheduleChange 
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0014-temporary-schedule-change",
   title: "Temporary Schedule Change",
-  partOfSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
+  partOfCollectionSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
   position: 14,
   ownLength: 187,
   unitSlug: "words",

@@ -6,7 +6,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0056Book4Chapter51MinorInter
     pageTypeSlug: "story-chapter-read",
     slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0056-book-4-chapter-51-minor-interlude-sentinel-night",
     title: "Book 4 - Chapter 51 - Minor Interlude – Sentinel Night – Defining a Legacy",
-    partOfSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
+    partOfCollectionSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
     position: 56,
     ownLength: 3348,
     unitSlug: "words",

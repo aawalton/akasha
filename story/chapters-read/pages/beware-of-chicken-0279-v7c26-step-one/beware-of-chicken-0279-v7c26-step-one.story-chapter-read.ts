@@ -5,7 +5,7 @@ export const bewareOfChicken0279V7c26StepOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0279-v7c26-step-one",
   title: "v7c26: Step One",
-  partOfSlugs: ["story-read/beware-of-chicken"],
+  partOfCollectionSlugs: ["story-read/beware-of-chicken"],
   position: 279,
   ownLength: 2957,
   ownProgress: 2957,

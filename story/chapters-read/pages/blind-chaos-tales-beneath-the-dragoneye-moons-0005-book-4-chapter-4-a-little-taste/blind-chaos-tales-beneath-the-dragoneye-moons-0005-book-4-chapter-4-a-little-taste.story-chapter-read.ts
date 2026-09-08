@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0005Book4Chapter4ALittleTast
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0005-book-4-chapter-4-a-little-taste",
   title: "Book 4 - Chapter 4 - A Little Taste",
-  partOfSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
+  partOfCollectionSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
   position: 5,
   ownLength: 6872,
   unitSlug: "words",

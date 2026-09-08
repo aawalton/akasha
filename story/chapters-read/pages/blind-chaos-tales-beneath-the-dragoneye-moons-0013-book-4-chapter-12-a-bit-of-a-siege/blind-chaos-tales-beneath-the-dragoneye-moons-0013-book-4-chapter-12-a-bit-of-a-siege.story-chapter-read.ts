@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0013Book4Chapter12ABitOfASie
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0013-book-4-chapter-12-a-bit-of-a-siege",
   title: "Book 4 - Chapter 12 - A Bit of a Siege",
-  partOfSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
+  partOfCollectionSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
   position: 13,
   ownLength: 4905,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0072Book5Chapter15InterludeL
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0072-book-5-chapter-15-interlude-lumornor-an",
   title: "Book 5 - Chapter 15 - Interlude – Lumornor – An Unexpectedly Wild Lecture",
-  partOfSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
+  partOfCollectionSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
   position: 72,
   ownLength: 3858,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0004Book4Chapter3UnexpectedA
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0004-book-4-chapter-3-unexpected-and-unseen",
   title: "Book 4 - Chapter 3 - Unexpected and Unseen",
-  partOfSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
+  partOfCollectionSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
   position: 4,
   ownLength: 6436,
   unitSlug: "words",

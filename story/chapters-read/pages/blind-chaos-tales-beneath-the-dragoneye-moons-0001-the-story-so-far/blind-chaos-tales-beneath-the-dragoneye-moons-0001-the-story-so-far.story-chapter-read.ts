@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0001TheStorySoFar = {
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0001-the-story-so-far",
   title: "The Story So Far...",
-  partOfSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
+  partOfCollectionSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
   position: 1,
   ownLength: 740,
   unitSlug: "words",
