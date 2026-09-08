@@ -5,7 +5,7 @@ export const lindseyStirling2EvilTwinFeatShuba = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-evil-twin-feat-shuba",
   title: "Evil Twin [Feat. Shuba]",
-  partOfSlugs: ["lindsey-stirling-2"],
+  partOfCollectionSlugs: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 7.59355,
   ownProgress: 7.59355,

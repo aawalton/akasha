@@ -5,7 +5,7 @@ export const linkinParkRecharged = {
   pageTypeSlug: "release",
   slug: "linkin-park-recharged",
   title: "RECHARGED",
-  partOfSlugs: ["linkin-park"],
+  partOfCollectionSlugs: ["linkin-park"],
   position: 0,
   ownLength: 68.803233,
   ownProgress: 0,

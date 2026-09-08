@@ -5,7 +5,7 @@ export const lindseyStirling2TheUpsideUnderground = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-the-upside-underground",
   title: "The Upside / Underground",
-  partOfSlugs: ["lindsey-stirling-2"],
+  partOfCollectionSlugs: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 8.189417,
   ownProgress: 8.189417,

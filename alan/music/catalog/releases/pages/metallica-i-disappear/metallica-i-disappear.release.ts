@@ -5,7 +5,7 @@ export const metallicaIDisappear = {
   pageTypeSlug: "release",
   slug: "metallica-i-disappear",
   title: "I Disappear",
-  partOfSlugs: ["metallica"],
+  partOfCollectionSlugs: ["metallica"],
   position: 0,
   ownLength: 4.437333,
   ownProgress: 0,

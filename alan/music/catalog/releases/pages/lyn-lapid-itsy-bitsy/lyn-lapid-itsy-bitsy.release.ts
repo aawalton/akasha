@@ -5,7 +5,7 @@ export const lynLapidItsyBitsy = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-itsy-bitsy",
   title: "Itsy Bitsy",
-  partOfSlugs: ["lyn-lapid"],
+  partOfCollectionSlugs: ["lyn-lapid"],
   position: 0,
   ownLength: 2.950217,
   ownProgress: 2.950217,

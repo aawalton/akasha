@@ -5,7 +5,7 @@ export const paulCardallDanceOfTheSugarPlumFairyArrForPianoByPaulCardall = {
   pageTypeSlug: "release",
   slug: "paul-cardall-dance-of-the-sugar-plum-fairy-arr-for-piano-by-paul-cardall",
   title: "Dance of the Sugar Plum Fairy (Arr. for piano by Paul Cardall)",
-  partOfSlugs: ["paul-cardall"],
+  partOfCollectionSlugs: ["paul-cardall"],
   position: 0,
   ownLength: 3.54985,
   ownProgress: 3.54985,

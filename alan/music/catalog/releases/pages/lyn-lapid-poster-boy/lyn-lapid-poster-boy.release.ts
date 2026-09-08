@@ -5,7 +5,7 @@ export const lynLapidPosterBoy = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-poster-boy",
   title: "poster boy",
-  partOfSlugs: ["lyn-lapid"],
+  partOfCollectionSlugs: ["lyn-lapid"],
   position: 0,
   ownLength: 2.771717,
   ownProgress: 2.771717,

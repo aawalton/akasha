@@ -5,7 +5,7 @@ export const paulCardallPeacefulPiano = {
   pageTypeSlug: "release",
   slug: "paul-cardall-peaceful-piano",
   title: "Peaceful Piano",
-  partOfSlugs: ["paul-cardall"],
+  partOfCollectionSlugs: ["paul-cardall"],
   position: 0,
   ownLength: 63.917217,
   ownProgress: 63.917217,

@@ -5,7 +5,7 @@ export const paulCardallPassingTime = {
   pageTypeSlug: "release",
   slug: "paul-cardall-passing-time",
   title: "Passing Time",
-  partOfSlugs: ["paul-cardall"],
+  partOfCollectionSlugs: ["paul-cardall"],
   position: 0,
   ownLength: 14.059917,
   ownProgress: 14.059917,

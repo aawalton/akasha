@@ -5,7 +5,7 @@ export const paulCardallFaithful = {
   pageTypeSlug: "release",
   slug: "paul-cardall-faithful",
   title: "Faithful",
-  partOfSlugs: ["paul-cardall"],
+  partOfCollectionSlugs: ["paul-cardall"],
   position: 0,
   ownLength: 45.249733,
   ownProgress: 45.249733,

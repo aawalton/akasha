@@ -5,7 +5,7 @@ export const musicalTheaterTheGreatestShowmanOriginalMotionPictureSoundtrack = {
   pageTypeSlug: "release",
   slug: "musical-theater-the-greatest-showman-original-motion-picture-soundtrack",
   title: "The Greatest Showman (Original Motion Picture Soundtrack)",
-  partOfSlugs: ["musical-theater"],
+  partOfCollectionSlugs: ["musical-theater"],
   position: 0,
   ownLength: 39.941717,
   ownProgress: 39.941717,

@@ -5,7 +5,7 @@ export const lynLapidCruiseControl = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-cruise-control",
   title: "Cruise Control",
-  partOfSlugs: ["lyn-lapid"],
+  partOfCollectionSlugs: ["lyn-lapid"],
   position: 0,
   ownLength: 2.591433,
   ownProgress: 2.591433,

@@ -5,7 +5,7 @@ export const linkinParkFriendlyFire = {
   pageTypeSlug: "release",
   slug: "linkin-park-friendly-fire",
   title: "Friendly Fire",
-  partOfSlugs: ["linkin-park"],
+  partOfCollectionSlugs: ["linkin-park"],
   position: 0,
   ownLength: 2.94835,
   ownProgress: 0,

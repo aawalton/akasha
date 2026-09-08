@@ -5,7 +5,7 @@ export const lynLapidSaturn = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-saturn",
   title: "Saturn",
-  partOfSlugs: ["lyn-lapid"],
+  partOfCollectionSlugs: ["lyn-lapid"],
   position: 0,
   ownLength: 3.5611,
   ownProgress: 3.5611,

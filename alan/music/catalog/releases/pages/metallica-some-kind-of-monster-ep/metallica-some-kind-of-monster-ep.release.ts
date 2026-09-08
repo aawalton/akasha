@@ -5,7 +5,7 @@ export const metallicaSomeKindOfMonsterEp = {
   pageTypeSlug: "release",
   slug: "metallica-some-kind-of-monster-ep",
   title: "Some Kind Of Monster EP",
-  partOfSlugs: ["metallica"],
+  partOfCollectionSlugs: ["metallica"],
   position: 0,
   ownLength: 43.183517,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const linkinParkHeavyFeatKiiara = {
   pageTypeSlug: "release",
   slug: "linkin-park-heavy-feat-kiiara",
   title: "Heavy (feat. Kiiara)",
-  partOfSlugs: ["linkin-park"],
+  partOfCollectionSlugs: ["linkin-park"],
   position: 0,
   ownLength: 9.803333,
   ownProgress: 0,

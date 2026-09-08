@@ -5,7 +5,7 @@ export const pentatonixIJustCalledToSayILoveYou = {
   pageTypeSlug: "release",
   slug: "pentatonix-i-just-called-to-say-i-love-you",
   title: "I Just Called To Say I Love You",
-  partOfSlugs: ["pentatonix"],
+  partOfCollectionSlugs: ["pentatonix"],
   position: 0,
   ownLength: 3.448,
   ownProgress: 3.448,

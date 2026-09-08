@@ -5,7 +5,7 @@ export const linkinParkLostDemos = {
   pageTypeSlug: "release",
   slug: "linkin-park-lost-demos",
   title: "LOST DEMOS",
-  partOfSlugs: ["linkin-park"],
+  partOfCollectionSlugs: ["linkin-park"],
   position: 0,
   ownLength: 48.268983,
   ownProgress: 0,

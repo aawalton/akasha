@@ -5,7 +5,7 @@ export const linkinParkOneMoreLight = {
   pageTypeSlug: "release",
   slug: "linkin-park-one-more-light",
   title: "One More Light",
-  partOfSlugs: ["linkin-park"],
+  partOfCollectionSlugs: ["linkin-park"],
   position: 0,
   ownLength: 35.37795,
   ownProgress: 0,

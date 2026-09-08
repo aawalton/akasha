@@ -5,7 +5,7 @@ export const michaelJacksonDangerous = {
   pageTypeSlug: "release",
   slug: "michael-jackson-dangerous",
   title: "Dangerous",
-  partOfSlugs: ["michael-jackson"],
+  partOfCollectionSlugs: ["michael-jackson"],
   position: 0,
   ownLength: 76.781683,
   ownProgress: 76.781683,

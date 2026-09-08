@@ -5,7 +5,7 @@ export const lynLapidOkWithIt = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-ok-with-it",
   title: "ok with it",
-  partOfSlugs: ["lyn-lapid"],
+  partOfCollectionSlugs: ["lyn-lapid"],
   position: 0,
   ownLength: 2.763217,
   ownProgress: 2.763217,

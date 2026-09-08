@@ -5,7 +5,7 @@ export const metallicaTooFarGoneLiveAtMetlifeStadiumEastRutherfordNjAugust62023 
   pageTypeSlug: "release",
   slug: "metallica-too-far-gone-live-at-metlife-stadium-east-rutherford-nj-august-6-2023",
   title: "Too Far Gone? (Live at MetLife Stadium, East Rutherford, NJ – August 6, 2023)",
-  partOfSlugs: ["metallica"],
+  partOfCollectionSlugs: ["metallica"],
   position: 0,
   ownLength: 9.365383,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const linkinParkTwoFaced = {
   pageTypeSlug: "release",
   slug: "linkin-park-two-faced",
   title: "Two Faced",
-  partOfSlugs: ["linkin-park"],
+  partOfCollectionSlugs: ["linkin-park"],
   position: 0,
   ownLength: 3.059733,
   ownProgress: 0,

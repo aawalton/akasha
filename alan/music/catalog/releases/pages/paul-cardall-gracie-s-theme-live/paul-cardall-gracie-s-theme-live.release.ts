@@ -5,7 +5,7 @@ export const paulCardallGracieSThemeLive = {
   pageTypeSlug: "release",
   slug: "paul-cardall-gracie-s-theme-live",
   title: "Gracie's Theme (Live)",
-  partOfSlugs: ["paul-cardall"],
+  partOfCollectionSlugs: ["paul-cardall"],
   position: 0,
   ownLength: 5.018233,
   ownProgress: 5.018233,

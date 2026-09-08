@@ -5,7 +5,7 @@ export const linkinParkNotAlone = {
   pageTypeSlug: "release",
   slug: "linkin-park-not-alone",
   title: "Not Alone",
-  partOfSlugs: ["linkin-park"],
+  partOfCollectionSlugs: ["linkin-park"],
   position: 0,
   ownLength: 4.214,
   ownProgress: 0,

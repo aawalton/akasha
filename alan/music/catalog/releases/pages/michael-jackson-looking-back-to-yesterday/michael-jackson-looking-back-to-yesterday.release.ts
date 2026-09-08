@@ -5,7 +5,7 @@ export const michaelJacksonLookingBackToYesterday = {
   pageTypeSlug: "release",
   slug: "michael-jackson-looking-back-to-yesterday",
   title: "Looking Back To Yesterday",
-  partOfSlugs: ["michael-jackson"],
+  partOfCollectionSlugs: ["michael-jackson"],
   position: 0,
   ownLength: 36.833933,
   ownProgress: 36.833933,

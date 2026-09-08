@@ -5,7 +5,7 @@ export const musicalTheaterWickedTheSoundtrack = {
   pageTypeSlug: "release",
   slug: "musical-theater-wicked-the-soundtrack",
   title: "Wicked: The Soundtrack",
-  partOfSlugs: ["musical-theater"],
+  partOfCollectionSlugs: ["musical-theater"],
   position: 0,
   ownLength: 56.2776,
   ownProgress: 56.2776,

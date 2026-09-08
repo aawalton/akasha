@@ -5,7 +5,7 @@ export const linkinParkUnshatter = {
   pageTypeSlug: "release",
   slug: "linkin-park-unshatter",
   title: "Unshatter",
-  partOfSlugs: ["linkin-park"],
+  partOfCollectionSlugs: ["linkin-park"],
   position: 0,
   ownLength: 6.32225,
   ownProgress: 0,

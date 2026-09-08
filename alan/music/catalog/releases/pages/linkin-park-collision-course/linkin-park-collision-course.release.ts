@@ -5,7 +5,7 @@ export const linkinParkCollisionCourse = {
   pageTypeSlug: "release",
   slug: "linkin-park-collision-course",
   title: "Collision Course",
-  partOfSlugs: ["linkin-park"],
+  partOfCollectionSlugs: ["linkin-park"],
   position: 0,
   ownLength: 21.302633,
   ownProgress: 0,

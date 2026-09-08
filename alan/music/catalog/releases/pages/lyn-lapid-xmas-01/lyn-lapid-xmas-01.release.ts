@@ -5,7 +5,7 @@ export const lynLapidXmas01 = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-xmas-01",
   title: "XMAS 01",
-  partOfSlugs: ["lyn-lapid"],
+  partOfCollectionSlugs: ["lyn-lapid"],
   position: 0,
   ownLength: 4.5855,
   ownProgress: 4.5855,

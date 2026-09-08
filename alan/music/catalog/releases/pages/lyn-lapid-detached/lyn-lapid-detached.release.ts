@@ -5,7 +5,7 @@ export const lynLapidDetached = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-detached",
   title: "Detached",
-  partOfSlugs: ["lyn-lapid"],
+  partOfCollectionSlugs: ["lyn-lapid"],
   position: 0,
   ownLength: 2.436267,
   ownProgress: 2.436267,

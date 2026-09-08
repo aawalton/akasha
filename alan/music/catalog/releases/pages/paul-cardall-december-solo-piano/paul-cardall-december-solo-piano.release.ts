@@ -5,7 +5,7 @@ export const paulCardallDecemberSoloPiano = {
   pageTypeSlug: "release",
   slug: "paul-cardall-december-solo-piano",
   title: "December (Solo Piano)",
-  partOfSlugs: ["paul-cardall"],
+  partOfCollectionSlugs: ["paul-cardall"],
   position: 0,
   ownLength: 45.757233,
   ownProgress: 45.757233,

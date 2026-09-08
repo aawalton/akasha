@@ -5,7 +5,7 @@ export const lindseyStirling2Hallelujah = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-hallelujah",
   title: "Hallelujah",
-  partOfSlugs: ["lindsey-stirling-2"],
+  partOfCollectionSlugs: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 3.333333,
   ownProgress: 3.333333,

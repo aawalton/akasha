@@ -5,7 +5,7 @@ export const metallicaRideTheLightningRemastered = {
   pageTypeSlug: "release",
   slug: "metallica-ride-the-lightning-remastered",
   title: "Ride The Lightning (Remastered)",
-  partOfSlugs: ["metallica"],
+  partOfCollectionSlugs: ["metallica"],
   position: 0,
   ownLength: 47.430367,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const metallicaSomeKindOfMonsterLive = {
   pageTypeSlug: "release",
   slug: "metallica-some-kind-of-monster-live",
   title: "Some Kind Of Monster (Live)",
-  partOfSlugs: ["metallica"],
+  partOfCollectionSlugs: ["metallica"],
   position: 0,
   ownLength: 43.183517,
   ownProgress: 0,

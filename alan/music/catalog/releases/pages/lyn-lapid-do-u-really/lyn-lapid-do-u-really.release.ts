@@ -5,7 +5,7 @@ export const lynLapidDoUReally = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-do-u-really",
   title: "do u really?",
-  partOfSlugs: ["lyn-lapid"],
+  partOfCollectionSlugs: ["lyn-lapid"],
   position: 0,
   ownLength: 2.685383,
   ownProgress: 2.685383,

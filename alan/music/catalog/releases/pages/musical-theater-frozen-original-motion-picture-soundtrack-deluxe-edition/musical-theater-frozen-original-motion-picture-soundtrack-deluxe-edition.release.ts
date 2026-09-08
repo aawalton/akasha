@@ -5,7 +5,7 @@ export const musicalTheaterFrozenOriginalMotionPictureSoundtrackDeluxeEdition = 
   pageTypeSlug: "release",
   slug: "musical-theater-frozen-original-motion-picture-soundtrack-deluxe-edition",
   title: "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-  partOfSlugs: ["musical-theater"],
+  partOfCollectionSlugs: ["musical-theater"],
   position: 0,
   ownLength: 129.0428,
   ownProgress: 129.0428,

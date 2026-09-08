@@ -5,7 +5,7 @@ export const linkinParkMeteoraBonusEdition = {
   pageTypeSlug: "release",
   slug: "linkin-park-meteora-bonus-edition",
   title: "Meteora (Bonus Edition)",
-  partOfSlugs: ["linkin-park"],
+  partOfCollectionSlugs: ["linkin-park"],
   position: 0,
   ownLength: 46.067233,
   ownProgress: 0,

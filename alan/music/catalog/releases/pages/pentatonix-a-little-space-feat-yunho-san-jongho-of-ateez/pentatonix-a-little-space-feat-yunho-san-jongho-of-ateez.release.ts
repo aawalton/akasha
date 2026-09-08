@@ -5,7 +5,7 @@ export const pentatonixALittleSpaceFeatYunhoSanJonghoOfAteez = {
   pageTypeSlug: "release",
   slug: "pentatonix-a-little-space-feat-yunho-san-jongho-of-ateez",
   title: "A Little Space (feat. YUNHO, SAN, JONGHO of ATEEZ)",
-  partOfSlugs: ["pentatonix"],
+  partOfCollectionSlugs: ["pentatonix"],
   position: 0,
   ownLength: 2.913767,
   ownProgress: 2.913767,

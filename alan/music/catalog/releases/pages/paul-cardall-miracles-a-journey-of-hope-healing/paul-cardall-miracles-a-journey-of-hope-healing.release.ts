@@ -5,7 +5,7 @@ export const paulCardallMiraclesAJourneyOfHopeHealing = {
   pageTypeSlug: "release",
   slug: "paul-cardall-miracles-a-journey-of-hope-healing",
   title: "Miracles - A Journey Of Hope & Healing",
-  partOfSlugs: ["paul-cardall"],
+  partOfCollectionSlugs: ["paul-cardall"],
   position: 0,
   ownLength: 43.172817,
   ownProgress: 43.172817,

@@ -5,7 +5,7 @@ export const nsync2TheWinterAlbum = {
   pageTypeSlug: "release",
   slug: "nsync-2-the-winter-album",
   title: "The Winter Album",
-  partOfSlugs: ["nsync-2"],
+  partOfCollectionSlugs: ["nsync-2"],
   position: 0,
   ownLength: 46.955233,
   ownProgress: 46.955233,

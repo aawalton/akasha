@@ -5,7 +5,7 @@ export const linkinParkReanimation = {
   pageTypeSlug: "release",
   slug: "linkin-park-reanimation",
   title: "Reanimation",
-  partOfSlugs: ["linkin-park"],
+  partOfCollectionSlugs: ["linkin-park"],
   position: 0,
   ownLength: 73.66855,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const michaelJacksonMichael = {
   pageTypeSlug: "release",
   slug: "michael-jackson-michael",
   title: "Michael",
-  partOfSlugs: ["michael-jackson"],
+  partOfCollectionSlugs: ["michael-jackson"],
   position: 0,
   ownLength: 27.391733,
   ownProgress: 27.391733,

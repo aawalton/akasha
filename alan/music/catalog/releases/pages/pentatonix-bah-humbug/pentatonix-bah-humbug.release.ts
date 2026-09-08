@@ -5,7 +5,7 @@ export const pentatonixBahHumbug = {
   pageTypeSlug: "release",
   slug: "pentatonix-bah-humbug",
   title: "Bah Humbug",
-  partOfSlugs: ["pentatonix"],
+  partOfCollectionSlugs: ["pentatonix"],
   position: 0,
   ownLength: 3.826567,
   ownProgress: 3.826567,

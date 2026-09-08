@@ -5,7 +5,7 @@ export const nsync2GreatestHits = {
   pageTypeSlug: "release",
   slug: "nsync-2-greatest-hits",
   title: "Greatest Hits",
-  partOfSlugs: ["nsync-2"],
+  partOfCollectionSlugs: ["nsync-2"],
   position: 0,
   ownLength: 45.989067,
   ownProgress: 45.989067,

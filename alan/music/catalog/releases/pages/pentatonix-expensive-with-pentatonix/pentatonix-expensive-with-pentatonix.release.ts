@@ -5,7 +5,7 @@ export const pentatonixExpensiveWithPentatonix = {
   pageTypeSlug: "release",
   slug: "pentatonix-expensive-with-pentatonix",
   title: "Expensive (with Pentatonix)",
-  partOfSlugs: ["pentatonix"],
+  partOfCollectionSlugs: ["pentatonix"],
   position: 0,
   ownLength: 3.527617,
   ownProgress: 3.527617,

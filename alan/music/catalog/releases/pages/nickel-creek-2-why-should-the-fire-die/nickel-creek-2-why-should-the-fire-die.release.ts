@@ -5,7 +5,7 @@ export const nickelCreek2WhyShouldTheFireDie = {
   pageTypeSlug: "release",
   slug: "nickel-creek-2-why-should-the-fire-die",
   title: "Why Should The Fire Die?",
-  partOfSlugs: ["nickel-creek-2"],
+  partOfCollectionSlugs: ["nickel-creek-2"],
   position: 0,
   ownLength: 47.34125,
   ownProgress: 47.34125,

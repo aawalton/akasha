@@ -5,7 +5,7 @@ export const lindseyStirling2LindseyStirling = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-lindsey-stirling",
   title: "Lindsey Stirling",
-  partOfSlugs: ["lindsey-stirling-2"],
+  partOfCollectionSlugs: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 54.2998,
   ownProgress: 54.2998,

@@ -5,7 +5,7 @@ export const paulCardallAscensus = {
   pageTypeSlug: "release",
   slug: "paul-cardall-ascensus",
   title: "Ascensus",
-  partOfSlugs: ["paul-cardall"],
+  partOfCollectionSlugs: ["paul-cardall"],
   position: 0,
   ownLength: 29.9369,
   ownProgress: 29.9369,

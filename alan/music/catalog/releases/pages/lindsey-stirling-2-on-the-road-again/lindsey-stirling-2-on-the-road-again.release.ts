@@ -5,7 +5,7 @@ export const lindseyStirling2OnTheRoadAgain = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-on-the-road-again",
   title: "On The Road Again",
-  partOfSlugs: ["lindsey-stirling-2"],
+  partOfCollectionSlugs: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 2.693233,
   ownProgress: 2.693233,

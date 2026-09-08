@@ -5,7 +5,7 @@ export const lynLapidWhenSheLovedMe = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-when-she-loved-me",
   title: "When She Loved Me",
-  partOfSlugs: ["lyn-lapid"],
+  partOfCollectionSlugs: ["lyn-lapid"],
   position: 0,
   ownLength: 3.128483,
   ownProgress: 3.128483,

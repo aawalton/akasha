@@ -5,7 +5,7 @@ export const lindseyStirling2DyingForYouFeatAlexAris = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-dying-for-you-feat-alex-aris",
   title: "Dying For You (feat. Alex Aris)",
-  partOfSlugs: ["lindsey-stirling-2"],
+  partOfCollectionSlugs: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 3.316167,
   ownProgress: 3.316167,

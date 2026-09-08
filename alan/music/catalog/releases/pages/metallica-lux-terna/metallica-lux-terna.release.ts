@@ -5,7 +5,7 @@ export const metallicaLuxTerna = {
   pageTypeSlug: "release",
   slug: "metallica-lux-terna",
   title: "Lux Æterna",
-  partOfSlugs: ["metallica"],
+  partOfCollectionSlugs: ["metallica"],
   position: 0,
   ownLength: 3.427983,
   ownProgress: 0,

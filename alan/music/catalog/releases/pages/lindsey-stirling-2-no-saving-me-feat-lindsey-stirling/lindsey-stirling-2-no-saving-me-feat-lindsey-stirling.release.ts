@@ -5,7 +5,7 @@ export const lindseyStirling2NoSavingMeFeatLindseyStirling = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-no-saving-me-feat-lindsey-stirling",
   title: "No Saving Me (feat. Lindsey Stirling)",
-  partOfSlugs: ["lindsey-stirling-2"],
+  partOfCollectionSlugs: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 3.710433,
   ownProgress: 3.710433,

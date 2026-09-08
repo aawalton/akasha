@@ -5,7 +5,7 @@ export const linkinParkLivingThings = {
   pageTypeSlug: "release",
   slug: "linkin-park-living-things",
   title: "LIVING THINGS",
-  partOfSlugs: ["linkin-park"],
+  partOfCollectionSlugs: ["linkin-park"],
   position: 0,
   ownLength: 37.0575,
   ownProgress: 0,

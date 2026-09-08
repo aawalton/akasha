@@ -5,7 +5,7 @@ export const paulCardallLoveOneAnother = {
   pageTypeSlug: "release",
   slug: "paul-cardall-love-one-another",
   title: "Love One Another",
-  partOfSlugs: ["paul-cardall"],
+  partOfCollectionSlugs: ["paul-cardall"],
   position: 0,
   ownLength: 4.01385,
   ownProgress: 4.01385,

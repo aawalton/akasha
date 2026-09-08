@@ -5,7 +5,7 @@ export const metallicaStAnger = {
   pageTypeSlug: "release",
   slug: "metallica-st-anger",
   title: "St. Anger",
-  partOfSlugs: ["metallica"],
+  partOfCollectionSlugs: ["metallica"],
   position: 0,
   ownLength: 75.04215,
   ownProgress: 0,

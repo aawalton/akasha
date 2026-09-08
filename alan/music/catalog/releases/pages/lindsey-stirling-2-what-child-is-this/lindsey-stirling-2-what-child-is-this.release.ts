@@ -5,7 +5,7 @@ export const lindseyStirling2WhatChildIsThis = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-what-child-is-this",
   title: "What Child Is This",
-  partOfSlugs: ["lindsey-stirling-2"],
+  partOfCollectionSlugs: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 3.520833,
   ownProgress: 3.520833,

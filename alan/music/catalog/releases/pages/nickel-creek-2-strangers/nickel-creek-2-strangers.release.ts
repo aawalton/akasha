@@ -5,7 +5,7 @@ export const nickelCreek2Strangers = {
   pageTypeSlug: "release",
   slug: "nickel-creek-2-strangers",
   title: "Strangers",
-  partOfSlugs: ["nickel-creek-2"],
+  partOfCollectionSlugs: ["nickel-creek-2"],
   position: 0,
   ownLength: 4.74135,
   ownProgress: 4.74135,

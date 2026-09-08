@@ -5,7 +5,7 @@ export const lynLapidProducerMan = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-producer-man",
   title: "Producer Man",
-  partOfSlugs: ["lyn-lapid"],
+  partOfCollectionSlugs: ["lyn-lapid"],
   position: 0,
   ownLength: 2.3612,
   ownProgress: 2.3612,

@@ -5,7 +5,7 @@ export const metallicaTheMetallicaBlacklist = {
   pageTypeSlug: "release",
   slug: "metallica-the-metallica-blacklist",
   title: "The Metallica Blacklist",
-  partOfSlugs: ["metallica"],
+  partOfCollectionSlugs: ["metallica"],
   position: 0,
   ownLength: 245.4364,
   ownProgress: 0,

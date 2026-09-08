@@ -5,7 +5,7 @@ export const michaelJacksonBad25thAnniversary = {
   pageTypeSlug: "release",
   slug: "michael-jackson-bad-25th-anniversary",
   title: "Bad 25th Anniversary",
-  partOfSlugs: ["michael-jackson"],
+  partOfCollectionSlugs: ["michael-jackson"],
   position: 0,
   ownLength: 107.368133,
   ownProgress: 107.368133,

@@ -5,7 +5,7 @@ export const paulCardallTheShoresOfNormandy = {
   pageTypeSlug: "release",
   slug: "paul-cardall-the-shores-of-normandy",
   title: "The Shores of Normandy",
-  partOfSlugs: ["paul-cardall"],
+  partOfCollectionSlugs: ["paul-cardall"],
   position: 0,
   ownLength: 4.3414,
   ownProgress: 4.3414,
