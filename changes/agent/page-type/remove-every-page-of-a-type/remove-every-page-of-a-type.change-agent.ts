@@ -20,6 +20,30 @@ export const removeEveryPageOfAType = {
     },
     {
       invariantKind: "departure",
+      statement: "A count says the most pages one reach of this change takes away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count left out takes away every page of that page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count below the pages there are takes the first the index names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count above the pages there are takes every page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count that is no whole number above nothing is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The caller reaches this change again to take away the pages a count left.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type the index does not name is refused.",
     },
     {

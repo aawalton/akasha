@@ -15,19 +15,33 @@ const REMOVE_FILE_PAGE = "change-mechanical-file/remove-file-page"
 
 const PAGE_TYPE = "page-type"
 
+const COUNT = "count"
+
+const WHOLE = /^\d+$/
+
 export type RemoveEveryPageOfATypeAsked = {
   readonly pageType: string
+  readonly count?: number
+}
+
+function noCount(said: string): string {
+  return `\`${COUNT}\` counts pages to take away, and \`${said}\` is no whole number above nothing`
 }
 
 export async function removeEveryPageOfAType(
   world: World,
   given: RemoveEveryPageOfATypeAsked
 ): Promise<Answer> {
+  const count = given.count
+  if (count !== undefined && (!Number.isInteger(count) || count < 1)) {
+    return refusing(noCount(String(count)))
+  }
   if (world.index.propertiesIfNamed(given.pageType) === null) {
     return refusing(`\`${given.pageType}\` names no page type`)
   }
-  const listed = world.index.everyOfType(given.pageType)
-  if (listed.length === 0) return refusing(`no page is a \`${given.pageType}\``)
+  const named = world.index.everyOfType(given.pageType)
+  if (named.length === 0) return refusing(`no page is a \`${given.pageType}\``)
+  const listed = count === undefined ? named : named.slice(0, count)
   const answers: Answer[] = []
   let over: World = isLedger(world) ? world : ledgerAt(world.root, world.textOf, world.reaching)
   for (const one of listed) {
@@ -46,5 +60,8 @@ export type Asked = Readonly<Record<string, string>>
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const pageType = given[PAGE_TYPE]
   if (pageType === undefined) return refusing(missing(PAGE_TYPE))
-  return await removeEveryPageOfAType(world, { pageType })
+  const counted = given[COUNT]
+  if (counted === undefined) return await removeEveryPageOfAType(world, { pageType })
+  if (!WHOLE.test(counted)) return refusing(noCount(counted))
+  return await removeEveryPageOfAType(world, { pageType, count: Number(counted) })
 }

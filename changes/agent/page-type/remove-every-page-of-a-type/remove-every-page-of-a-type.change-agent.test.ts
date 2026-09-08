@@ -124,3 +124,39 @@ test("an argument this change was handed no value for is refused by the key", as
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/`page-type` names what this change is handed/)
 })
+
+test("a count below the pages there are takes that many and no more", async () => {
+  const said = await removeEveryPageOfAType(leafWorld(), { pageType: "leaf", count: 1 })
+
+  expect(said.refused).toBe(null)
+  const taken = [...pathsIn(said)]
+  expect(taken).toHaveLength(1)
+  expect([ONE_AT, TWO_AT]).toContain(taken[0] ?? "")
+})
+
+test("a count above the pages there are takes every page", async () => {
+  const said = await removeEveryPageOfAType(leafWorld(), { pageType: "leaf", count: 5 })
+
+  expect(said.refused).toBe(null)
+  expect([...pathsIn(said)].sort()).toEqual([ONE_AT, TWO_AT])
+})
+
+test("a count handed in as text takes that many pages", async () => {
+  const said = await runChange(leafWorld(), { "page-type": "leaf", count: "1" })
+
+  expect(said.refused).toBe(null)
+  expect([...pathsIn(said)]).toHaveLength(1)
+})
+
+test("a count that is no whole number above nothing is refused", async () => {
+  const fraction = await removeEveryPageOfAType(leafWorld(), { pageType: "leaf", count: 1.5 })
+  const text = await runChange(leafWorld(), { "page-type": "leaf", count: "two" })
+  const nothing = await runChange(leafWorld(), { "page-type": "leaf", count: "0" })
+
+  expect(fraction.edits).toEqual([])
+  expect(fraction.refused ?? "").toContain("`1.5` is no whole number above nothing")
+  expect(text.edits).toEqual([])
+  expect(text.refused ?? "").toContain("`two` is no whole number above nothing")
+  expect(nothing.edits).toEqual([])
+  expect(nothing.refused ?? "").toContain("`0` is no whole number above nothing")
+})
