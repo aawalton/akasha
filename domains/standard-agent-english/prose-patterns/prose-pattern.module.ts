@@ -49,5 +49,10 @@ export const prosePattern = {
       invariantKind: "departure",
       statement: "A bare adverb after a word is a particle, whatever the parser calls it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A word a person or an unknown is the holder of is another sense, so it is left alone.",
+    },
   ],
 } as const satisfies Module

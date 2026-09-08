@@ -19,6 +19,39 @@ const HOLD = new Set(["hold", "holds", "holding"])
 
 const HELD = new Set(["held"])
 
+test("a word a person is the holder of is left alone", () => {
+  const said = sentenceOf([
+    ["how", "ADV", 3, "advmod"],
+    ["I", "PRON", 3, "nsubj"],
+    ["hold", "VERB", 0, "root"],
+    ["it", "PRON", 3, "obj"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a word an unknown is the holder of is left alone", () => {
+  const said = sentenceOf([
+    ["what", "PRON", 2, "nsubj"],
+    ["holds", "VERB", 0, "root"],
+    ["it", "PRON", 2, "obj"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a word a thing is the holder of is found", () => {
+  const said = sentenceOf([
+    ["The", "DET", 2, "det"],
+    ["notes", "NOUN", 3, "nsubj"],
+    ["hold", "VERB", 0, "root"],
+    ["no", "DET", 5, "det"],
+    ["queue", "NOUN", 3, "obj"],
+  ])
+
+  expect(foundIn(said, HOLD).map((one) => one.frame)).toEqual(["object"])
+})
+
 test("a word whose only subject is the relativizer has no object anywhere", () => {
   const said = sentenceOf([
     ["the", "DET", 2, "det"],

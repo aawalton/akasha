@@ -41,6 +41,22 @@ const ADVERB = "advmod"
 
 const RELATIVIZERS: ReadonlySet<string> = new Set(["that", "which", "who", "whom"])
 
+const PERSONS: ReadonlySet<string> = new Set([
+  "anyone",
+  "everyone",
+  "i",
+  "me",
+  "someone",
+  "us",
+  "we",
+  "what",
+  "whatever",
+  "who",
+  "whoever",
+  "whom",
+  "you",
+])
+
 const PARTICLES: ReadonlySet<string> = new Set([
   "apart",
   "back",
@@ -87,9 +103,14 @@ function subjectOfItsOwn(sentence: DepSentence, token: DepToken): boolean {
   return childrenByRel(sentence, token.id, SUBJECT).some((one) => !RELATIVIZERS.has(lower(one)))
 }
 
+function personHeld(sentence: DepSentence, token: DepToken): boolean {
+  return childrenByRel(sentence, token.id, SUBJECT).some((one) => PERSONS.has(lower(one)))
+}
+
 function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
   if (token.upos !== VERB) return null
   if (particled(sentence, token)) return null
+  if (personHeld(sentence, token)) return null
   if (boundTo(sentence, token)) return null
   if (hasChild(sentence, token.id, PASSIVE)) {
     return placedSomewhere(sentence, token) ? PLACED_FRAME : null
