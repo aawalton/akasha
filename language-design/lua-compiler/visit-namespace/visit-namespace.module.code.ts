@@ -1,12 +1,12 @@
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
+import { moduleLocalNameHolder } from "../export-deps/export-deps.module.code.ts"
 import {
   addExportToIdentifier,
   createExportedIdentifier,
   getIdentifierExportScope,
 } from "../export-scope/export-scope.module.code.ts"
-import { moduleLocalNameHolder } from "../tstl-export-deps/tstl-export-deps.module.code.ts"
 import {
   createHoistableVariableDeclarationStatement,
   createLocalOrExportedOrGlobalDeclaration,

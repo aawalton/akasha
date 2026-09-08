@@ -1,6 +1,6 @@
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { requireCreateModuleLocalName } from "../tstl-export-deps/tstl-export-deps.module.code.ts"
+import { requireCreateModuleLocalName } from "../export-deps/export-deps.module.code.ts"
 import { createExportsIdentifier } from "../tstl-exports-identifier/tstl-exports-identifier.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import { getSymbolInfo } from "../tstl-symbols/tstl-symbols.module.code.ts"
