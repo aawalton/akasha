@@ -337,5 +337,6 @@ export const temperWeb = {
     "route/api-page-write",
     "route/api-live-version",
     "route/api-items",
+    "route/api-items-search",
   ],
 } as const satisfies RouterApp

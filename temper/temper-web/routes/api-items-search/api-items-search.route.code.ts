@@ -3,8 +3,7 @@ import type { MinedItemSearchResult } from "@akasha/temper-items-core/item-toolt
 import {
   MINED_ITEM_PAGE_TYPE,
   rowToSearchResult,
-} from "../mined-item-rows/mined-item-rows.module.code.ts"
-import type { Route } from "./+types/api.items.search"
+} from "../../mined-item-rows/mined-item-rows.module.code.ts"
 
 const DEFAULT_LIMIT = 20
 const MAX_LIMIT = 20
@@ -19,7 +18,7 @@ const SEARCH_KEYS = [
   "setName",
 ] as const
 
-export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({ request }: { request: Request }): Promise<Response> {
   const { searchParams } = new URL(request.url)
   const raw = searchParams.get("q")
   const q = raw?.trim() ?? ""
