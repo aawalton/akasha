@@ -6,7 +6,10 @@ const PAGE_ROUTES: RouteConfig = [
     route("catalog", "routes/catalog.tsx"),
     route("cli-link", "routes/cli-link.tsx"),
     route("completion", "routes/completion.tsx"),
-    route("completion/u/:userId", "routes/completion.u.$userId.tsx"),
+    route(
+      "completion/u/:userId",
+      "routes/temper-user-completion/temper-user-completion.route.code.tsx"
+    ),
     route("import", "routes/import.tsx"),
     route("inventory", "routes/inventory.tsx"),
     route("keyboard-shortcuts", "routes/keyboard-shortcuts.tsx"),

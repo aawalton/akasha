@@ -2,9 +2,9 @@ import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
-import { CompletionPageContent } from "../completion-page-content/completion-page-content.module.code.tsx"
-import { tabDefaultFor } from "../tab-defaults/tab-defaults.module.code.ts"
-import type { Route } from "./+types/completion.u.$userId"
+import { CompletionPageContent } from "../../completion-page-content/completion-page-content.module.code.tsx"
+import { tabDefaultFor } from "../../tab-defaults/tab-defaults.module.code.ts"
+import type { Route } from "./+types/temper-user-completion.route.code"
 
 export function meta() {
   return [{ title: "Temper | Completion" }]
