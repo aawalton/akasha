@@ -107,6 +107,7 @@ export const command = {
     "module/change-costing",
     "module/apply-running",
     "namespace/change",
+    "namespace/refresh",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/calling",
