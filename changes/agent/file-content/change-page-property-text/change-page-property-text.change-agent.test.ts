@@ -20,6 +20,10 @@ const RUNS: Reaching = (world, at, given) => {
 
 const AT = "seat-system/seats/pages/held.seat.ts"
 
+const TEXT_PROPERTY = "text-property"
+
+const PROSE = "standard-agent-english-property"
+
 const ID = "01a07995-6678-7cad-9f52-e0a331e96bde"
 
 const BODY = `import type { Seat } from "../seat.page-type.ts"
@@ -59,6 +63,7 @@ function worldTold(carried: readonly Carried[], value: Value | null): World {
       knownIn: () => ({}),
       pageAt: () => value,
       propertiesIfNamed: () => carried,
+      kindsUnder: () => new Set([TEXT_PROPERTY, PROSE]),
     } as never,
     textOf: () => BODY,
     under: () => [],
@@ -70,6 +75,15 @@ function worldTold(carried: readonly Carried[], value: Value | null): World {
 
 test("a text property is stated anew in other words", async () => {
   const world = worldTold([carrying("startMode", "text-property")], PAGE)
+
+  const said = await changePagePropertyText(world, { at: AT, key: "startMode", to: "headless" })
+
+  expect(said.refused).toBeNull()
+  expect(bodiesIn(said, world.base).get(AT) ?? "").toContain(`startMode: "headless"`)
+})
+
+test("a property whose page type extends a text property is stated anew too", async () => {
+  const world = worldTold([carrying("startMode", PROSE)], PAGE)
 
   const said = await changePagePropertyText(world, { at: AT, key: "startMode", to: "headless" })
 

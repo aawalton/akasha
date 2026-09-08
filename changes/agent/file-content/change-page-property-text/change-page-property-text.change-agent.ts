@@ -23,6 +23,10 @@ export const changePagePropertyText = {
     },
     {
       invariantKind: "departure",
+      statement: "A key naming a page type that extends a text property is handed on the same way.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A key naming any other kind of property is refused.",
     },
     {

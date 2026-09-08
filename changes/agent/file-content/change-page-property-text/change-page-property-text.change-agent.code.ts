@@ -37,7 +37,7 @@ export async function changePagePropertyText(
   if (held === undefined) {
     return refusing(`a \`${pageTypeSlug}\` carries no property under \`${given.key}\``)
   }
-  if (held.pageTypeSlug !== TEXT_PROPERTY) {
+  if (!world.index.kindsUnder(TEXT_PROPERTY).has(held.pageTypeSlug)) {
     return refusing(
       `\`${given.key}\` names a \`${held.pageTypeSlug}\`, and a restatement states a \`${TEXT_PROPERTY}\` anew`
     )
