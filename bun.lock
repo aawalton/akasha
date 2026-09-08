@@ -259,6 +259,22 @@
     "alan/harness/location-traces-access": {
       "name": "@akasha/location-traces-access",
     },
+    "alan/harness/mobile-cli": {
+      "name": "@akasha/mobile-cli",
+      "dependencies": {
+        "@akasha/changes": "workspace:*",
+        "@akasha/code": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/file-page-identity": "workspace:*",
+        "@akasha/git": "workspace:*",
+        "@akasha/pages": "workspace:*",
+        "@akasha/shell": "workspace:*",
+        "@akasha/supabase-auth": "workspace:*",
+        "@akasha/utils": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "alan/harness/recurrence": {
       "name": "@akasha/recurrence",
       "dependencies": {
@@ -1193,22 +1209,6 @@
       },
       "peerDependencies": {
         "typescript": "5.9.3",
-      },
-    },
-    "mobile-cli": {
-      "name": "@akasha/mobile-cli",
-      "dependencies": {
-        "@akasha/changes": "workspace:*",
-        "@akasha/code": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/file-page-identity": "workspace:*",
-        "@akasha/git": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/shell": "workspace:*",
-        "@akasha/supabase-auth": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
     "mobile-commands": {
@@ -3093,7 +3093,7 @@
 
     "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:language-design/lua-compiler"],
 
-    "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:mobile-cli"],
+    "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:alan/harness/mobile-cli"],
 
     "@akasha/mobile-commands": ["@akasha/mobile-commands@workspace:mobile-commands"],
 
