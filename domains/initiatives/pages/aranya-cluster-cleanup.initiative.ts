@@ -18,9 +18,10 @@ export const aranyaClusterCleanup = {
   ],
   intents: [
     {
-      statement: "All cluster-specific files are in the cluster/ folder.",
+      statement:
+        "Each service's own manifest and rbac sit with that service rather than under cluster/.",
       workingMemory:
-        "Every folder this intent set out to move is under `cluster/`: manifests, operations, services and workflows. What is left outside is what the commands remodel gathered: nine command pages under `commands/pages/` naming the cluster or Talos, and `talos.namespace`. `machines/clusters` holds the cluster as a machine rather than as a workload, and the checks stay where a constraint puts them. A move rewrites nothing spelled as text, so a path in a string outlives it.",
+        "52 manifests already sit with their service and 2 sit under `cluster/`. What is left is `cluster/manifests`: 65 modules, of which about 50 are one service's own rbac, synth or constants and about 14 are shared machinery that stays. Commands consolidate under `commands/`, and `machines/clusters` holds the cluster as a machine rather than as a workload, so neither is this work. No subject folder sits in a workspace package, so a module leaving is reached by path rather than by name.",
     },
     {
       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
