@@ -135,6 +135,7 @@ export const clusterCheck = {
     "module/check-harness-credential-script-text",
     "module/check-libc-ffi-binding",
     "module/check-no-void-return",
+    "module/check-lib-sets-per-piece-difficulty-boundary",
   ],
   properties: [
     {
