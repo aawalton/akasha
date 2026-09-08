@@ -87,6 +87,7 @@ test("a change carrying no path matches nothing at all", () => {
 
 test("the folder an import is read against drops the mark a served body carries", () => {
   expect(folderOf(`${SERVED}:${ONE}`)).toBe("/repo/one")
+  expect(folderOf(`/${SERVED}:${ONE}`)).toBe("/repo/one")
   expect(folderOf(ONE)).toBe("/repo/one")
 })
 
@@ -306,6 +307,27 @@ test("a run over a serving carrying a stylesheet reads that stylesheet's text", 
   const carried = ["akasha/look.css"]
   const named = ["akasha/one.module.test.ts"]
   const serving = servingOf(from, carried, handing({ "akasha/look.css": LOOK }), named)
+  try {
+    expect(ranOver(from, named, 1, null, serving).verdict).toBe("pass")
+  } finally {
+    serving.sweep()
+  }
+})
+
+const REACHES =
+  'import { expect, test } from "bun:test"\n' +
+  'const { kept } = await import("../held/one.module.code.ts")\n' +
+  'test("kept", () => { expect(kept).toBe(2) })\n'
+
+const HELD = "akasha/held/one.module.code.ts"
+
+const ASKS = "akasha/asks/one.module.test.ts"
+
+test("a test file the change brings reaches a carried body by an import made as it runs", () => {
+  const from = repo({})
+  const carried = [HELD, ASKS]
+  const named = [ASKS]
+  const serving = servingOf(from, carried, handing({ [HELD]: TURNS, [ASKS]: REACHES }), named)
   try {
     expect(ranOver(from, named, 1, null, serving).verdict).toBe("pass")
   } finally {

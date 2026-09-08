@@ -47,6 +47,8 @@ const FILE = "file"
 
 const MARK = `${SERVED}:`
 
+const MARKING = new RegExp(`^/?${MARK}`)
+
 const NAME = "akasha-test-bodies"
 
 const SPECIAL = /[.*+?^${}()|[\]\\]/g
@@ -97,7 +99,7 @@ export function endingOf(named: readonly string[]): RegExp {
 }
 
 export function folderOf(importer: string): string {
-  return dirname(importer.startsWith(MARK) ? importer.slice(MARK.length) : importer)
+  return dirname(importer.replace(MARKING, ""))
 }
 
 export function loaderOf(path: string): Form | null {
@@ -300,7 +302,7 @@ export function servedBy(bodies: Bodies, reaches: Reaches = {}): BunPlugin {
         }))
       }
       build.onResolve({ filter: NEAR }, (args) => {
-        if (!args.importer.startsWith(MARK)) return undefined
+        if (!MARKING.test(args.importer)) return undefined
         const from = folderOf(args.importer)
         const at = resolve(from, args.path)
         if (apart.has(at)) return { path: at, namespace: SERVED }

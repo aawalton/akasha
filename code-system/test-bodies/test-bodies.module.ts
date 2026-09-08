@@ -31,6 +31,19 @@ export const testBodies = {
     },
     {
       invariantKind: "constraint",
+      statement:
+        "The runner spells a served body's path with a slash before the mark when that body runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The mark comes off a served body's path however the runner spelled that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An import a served body makes as it runs is read as one written in that body.",
+    },
+    {
+      invariantKind: "constraint",
       statement: "A bare specifier reaching no package the change moves is left to the runner.",
     },
     {
