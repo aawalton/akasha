@@ -18,7 +18,7 @@ export function deriveLuaCompilerRoots(configs: readonly LuaCompilerTsconfig[]):
     const parsed = ts.parseConfigFileTextToJson(rel, text)
     const config = parsed.config
     if (config == null || typeof config !== "object") continue
-    if (!Object.hasOwn(config, "tstl")) continue
+    if (!Object.hasOwn(config, "luaCompiler")) continue
     roots.push(rel.slice(0, rel.length - (TSCONFIG_BASENAME.length + 1)))
   }
   return roots
