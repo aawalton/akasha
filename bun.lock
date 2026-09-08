@@ -523,6 +523,15 @@
     "code-system/ios-apps/pages/atlas": {
       "name": "@alanwalton/atlas-native-shell",
       "version": "0.0.1",
+      "dependencies": {
+        "@capacitor/core": "^8.4.1",
+        "@capacitor/ios": "^8.4.1",
+        "@capacitor/preferences": "^8.0.1",
+        "@capgo/background-geolocation": "^8.3.1",
+      },
+      "devDependencies": {
+        "@capacitor/cli": "^8.4.1",
+      },
     },
     "code-system/ios-apps/pages/smilingjenny": {
       "name": "@smilingjenny/native-shell",
