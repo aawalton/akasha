@@ -108,7 +108,7 @@ export const optionDeclarations: CommandLineOption[] = [
   },
   {
     name: "measurePerformance",
-    description: "Measure performance of the tstl compiler.",
+    description: "Measure performance of the Lua compiler.",
     type: "boolean",
   },
 ]
