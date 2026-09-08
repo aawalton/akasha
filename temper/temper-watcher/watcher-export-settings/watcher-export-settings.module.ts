@@ -104,5 +104,9 @@ export const watcherExportSettings = {
       invariantKind: "absence",
       statement: "Nothing here finds or replaces a block in the content.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A caller may hand in every reader the inventory blocks are worked out from.",
+    },
   ],
 } as const satisfies Module

@@ -69,7 +69,7 @@ export async function snapshotDataOf(
   return contentIn(found.bodies, path)
 }
 
-const PAGE_INVENTORY_ROWS: InventoryRowReader = {
+export const PAGE_INVENTORY_ROWS: InventoryRowReader = {
   latestSnapshot: async (userId) => {
     const { rows } = await getPages({
       pageTypeSlug: INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,

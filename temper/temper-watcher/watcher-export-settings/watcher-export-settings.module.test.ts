@@ -100,6 +100,9 @@ function seamsFor(
       readPlayerSettings: async () => settings,
       readPlayerRules: async () => rules,
       pricingTables: async () => ({ currencyRates: {}, crownReplacementCosts: {} }),
+      pages: { collect: async () => [], get: async () => null },
+      inventoryRows: { latestSnapshot: async () => undefined, dataOf: async () => null },
+      readCharacters: async () => [],
       writeSideFile: (path, content) => {
         recorded.written.push({ path, content })
         return "hash-of-the-side-file"

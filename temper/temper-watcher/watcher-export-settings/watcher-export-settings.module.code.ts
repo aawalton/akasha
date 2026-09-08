@@ -33,12 +33,18 @@ import {
   compileConsumableStock,
   compileWantedConsumables,
   describeInventoryReadFailure,
+  type InventoryRowReader,
+  PAGE_INVENTORY_ROWS,
   readLatestInventory,
+  type TargetBuildCharacterReader,
   toRuleSettings,
 } from "../watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
 import {
   compileWantedCompanionEquipment,
   compileWantedEquipment,
+  DEFAULT_PAGE_READER,
+  type PageReader,
+  readCharactersWithTargetBuilds,
 } from "../watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
 import {
   detectIndent,
@@ -96,6 +102,9 @@ export interface ExportSettingsSeams {
   ) => Promise<Record<string, unknown>>
   readonly readPlayerRules: (userId: string) => Promise<readonly HeldRule[]>
   readonly pricingTables: (say: Say) => Promise<PricingTables>
+  readonly pages: PageReader
+  readonly inventoryRows: InventoryRowReader
+  readonly readCharacters: TargetBuildCharacterReader
   readonly writeSideFile: (path: string, content: string) => string
 }
 
@@ -178,7 +187,7 @@ async function readRules(userId: string): Promise<readonly HeldRule[]> {
     where: [{ key: "accountPage", eq: userId }],
     limit: RULES_AT_MOST,
   })
-  return heldFromRows(rows as unknown as readonly Record<string, unknown>[])
+  return heldFromRows(rows)
 }
 
 const WATCHER_SEAMS: ExportSettingsSeams = {
@@ -186,6 +195,9 @@ const WATCHER_SEAMS: ExportSettingsSeams = {
   readPlayerSettings: readSettings,
   readPlayerRules: readRules,
   pricingTables: computePricingTables,
+  pages: DEFAULT_PAGE_READER,
+  inventoryRows: PAGE_INVENTORY_ROWS,
+  readCharacters: readCharactersWithTargetBuilds,
   writeSideFile: writeSideFileIfChanged,
 }
 
@@ -232,8 +244,9 @@ async function compileInventoryValues(
   inventoryValue: unknown,
   heldRules: readonly HeldRule[],
   automationSettings: AutomationSettings | undefined,
-  say: Say
+  seams: ExportSettingsSeams
 ): Promise<InventoryValues> {
+  const say = seams.say
   const saved = toRuleSettings(inventoryValue)
   const ruleSettings = withControlledRules(
     { ...saved, rules: rulesFromPages(heldRules) },
@@ -241,8 +254,8 @@ async function compileInventoryValues(
   )
 
   const [wantedEquipment, wantedCompanionEquipment] = await Promise.all([
-    compileWantedEquipment(userId, automationSettings),
-    compileWantedCompanionEquipment(userId, automationSettings),
+    compileWantedEquipment(userId, automationSettings, seams.pages),
+    compileWantedCompanionEquipment(userId, automationSettings, seams.pages),
   ])
   if (wantedEquipment.length > 0) {
     say(`Compiled ${wantedEquipment.length} wanted equipment signature(s).`)
@@ -251,12 +264,16 @@ async function compileInventoryValues(
     say(`Compiled ${wantedCompanionEquipment.length} wanted companion equipment signature(s).`)
   }
 
-  const inventoryRead = await readLatestInventory(userId)
+  const inventoryRead = await readLatestInventory(userId, seams.inventoryRows)
   if (!inventoryRead.ok) {
     say(`inventory stock unavailable: ${describeInventoryReadFailure(inventoryRead.failure)}.`)
   }
 
-  const wantedConsumables = await compileWantedConsumables(userId, automationSettings)
+  const wantedConsumables = await compileWantedConsumables(
+    userId,
+    automationSettings,
+    seams.readCharacters
+  )
   const consumableStock = compileConsumableStock(
     inventoryRead.ok ? inventoryRead.db : null,
     new Set(Object.keys(wantedConsumables).map(Number))
@@ -265,7 +282,7 @@ async function compileInventoryValues(
   const buyItemIds = activeBuyItemIds(ruleSettings)
   const buyStock = compileBuyStock(inventoryRead, buyItemIds)
 
-  const characterPriority = await compileCharacterPriority(userId)
+  const characterPriority = await compileCharacterPriority(userId, seams.readCharacters)
   if (characterPriority.length > 0) {
     say(`Compiled ${characterPriority.length} character(s) in priority order.`)
   }
@@ -331,7 +348,7 @@ export async function runExportSettings(
   const inventoryValues: InventoryValues =
     inventoryValue === undefined && heldRules.length === 0
       ? {}
-      : await compileInventoryValues(userId, inventoryValue, heldRules, automationSettings, say)
+      : await compileInventoryValues(userId, inventoryValue, heldRules, automationSettings, seams)
 
   const { currencyRates, crownReplacementCosts } = await seams.pricingTables(say)
 
