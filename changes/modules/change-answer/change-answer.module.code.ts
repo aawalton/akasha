@@ -8,6 +8,7 @@ import type {
   Replacing,
   Replayed,
   Said,
+  Splice,
   Stated,
 } from "./change-answer.module.types.ts"
 
@@ -57,6 +58,44 @@ export function written(path: string, was: string | null, body: string): readonl
   if (was === null || was === "") return [{ kind: "add", path, content: body }]
   if (was === body) return []
   return [{ kind: "replace", path, contentFrom: was, contentTo: body }]
+}
+
+function onlyOnce(text: string, passage: string): boolean {
+  const first = text.indexOf(passage)
+  return first >= 0 && text.indexOf(passage, first + 1) < 0
+}
+
+function opening(text: string, at: number): number {
+  return text.lastIndexOf("\n", at - 1) + 1
+}
+
+function closing(text: string, at: number): number {
+  const shut = text.indexOf("\n", at)
+  return shut < 0 ? text.length : shut
+}
+
+export function windowed(text: string, from: number, to: number): readonly [number, number] {
+  let start = opening(text, from)
+  let shut = closing(text, to)
+  while (!onlyOnce(text, text.slice(start, shut))) {
+    if (start === 0 && shut === text.length) return [0, text.length]
+    start = opening(text, start - 1)
+    shut = closing(text, Math.min(shut + 1, text.length))
+  }
+  return [start, shut]
+}
+
+export function spliced(path: string, text: string, splice: Splice): readonly Stated[] {
+  if (text.slice(splice.from, splice.to) === splice.put) return []
+  const [start, shut] = windowed(text, splice.from, splice.to)
+  return [
+    {
+      kind: "replace",
+      path,
+      contentFrom: text.slice(start, shut),
+      contentTo: text.slice(start, splice.from) + splice.put + text.slice(splice.to, shut),
+    },
+  ]
 }
 
 function addedIn(one: Adding, textOf: BodyOf): Expanded {
