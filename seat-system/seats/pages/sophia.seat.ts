@@ -11,4 +11,5 @@ export const sophia = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "b4ec6aac-2c14-4bed-ba2c-e697fa9e7dc8",
 } as const satisfies Seat
