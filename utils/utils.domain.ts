@@ -5,5 +5,5 @@ export const utils = {
   pageTypeSlug: "domain",
   slug: "utils",
   definition: "the pieces every domain reaches for and no domain claims",
-  partSlugs: ["workspace-package/utils-fs"],
+  partSlugs: ["workspace-package/utils-fs", "workspace-package/utils-narrow"],
 } as const satisfies Domain

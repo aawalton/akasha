@@ -2899,19 +2899,6 @@
         "react-dom": "^19",
       },
     },
-    "utils-fs": {
-      "name": "@akasha/utils-fs",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-      },
-    },
-    "utils-narrow": {
-      "name": "@akasha/utils-narrow",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
     "utils-process": {
       "name": "@akasha/utils-process",
       "dependencies": {
@@ -2932,6 +2919,19 @@
       "name": "@akasha/utils-system",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "utils/fs": {
+      "name": "@akasha/utils-fs",
+      "dependencies": {
+        "@akasha/code": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
+      },
+    },
+    "utils/narrow": {
+      "name": "@akasha/utils-narrow",
+      "dependencies": {
         "zod": "^4.3.6",
       },
     },
@@ -3521,9 +3521,9 @@
 
     "@akasha/upscale": ["@akasha/upscale@workspace:inference/generations/upscale"],
 
-    "@akasha/utils-fs": ["@akasha/utils-fs@workspace:utils-fs"],
+    "@akasha/utils-fs": ["@akasha/utils-fs@workspace:utils/fs"],
 
-    "@akasha/utils-narrow": ["@akasha/utils-narrow@workspace:utils-narrow"],
+    "@akasha/utils-narrow": ["@akasha/utils-narrow@workspace:utils/narrow"],
 
     "@akasha/utils-process": ["@akasha/utils-process@workspace:utils-process"],
 
