@@ -30,7 +30,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
       workingMemory:
-        "The apply's own `unwarranted` at `apply.command.code.ts:112-126` is not `unwarrantedIn` rewritten: the shared one reads one flag off the call, the local one filters each row, and `FileEdit` carries no `writerOwesReading` field. It runs above the glass, so the glass skips checks and skips no warrant. `patch` runs checks and does not warrant; `akasha patch apply` reaches `applying` directly where `akasha apply` warrants its rows first.",
+        "`apply-running:25` declares the apply's run as `{ checks: true, writerOwesReading: false, readersOweReading: true }`, and `applying:252` runs `warrantedAgain` only where `writerOwesReading` is true, so an apply runs the checks and no warrant. The warrant runs earlier, at `asking:255` and `file-arguing:276`, both reaching `unwarrantedIn` in `warrant-owing`. What is left is for the apply to warrant what its own changes call for.",
     },
     {
       statement:
