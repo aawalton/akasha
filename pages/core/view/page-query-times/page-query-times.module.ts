@@ -18,7 +18,8 @@ export const pageQueryTimes = {
     },
     {
       invariantKind: "departure",
-      statement: "A wake day is counted from the moment Alan wakes.",
+      statement:
+        "A day is counted from the moment its first sleep after six the evening before began.",
     },
   ],
 } as const satisfies Module

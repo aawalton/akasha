@@ -1,4 +1,4 @@
-export const PAGE_QUERY_TIMES = ["now", "eso-day", "eso-day-next", "wake-day"] as const
+export const PAGE_QUERY_TIMES = ["now", "eso-day", "eso-day-next", "day"] as const
 
 export type PageQueryTime = (typeof PAGE_QUERY_TIMES)[number]
 
