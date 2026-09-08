@@ -1,4 +1,5 @@
 import { akashaRoot } from "@akasha/pages/checkout-roots"
+import { writeMessage } from "@akasha/seat-system/message-file"
 import {
   armedAt,
   armFor,
@@ -6,8 +7,7 @@ import {
   type Found,
   nextElapse,
   tookReminder,
-} from "@akasha/reminder-system/reminder-sending"
-import { writeMessage } from "@akasha/seat-system/message-file"
+} from "../reminders/modules/sending/reminder-sending.module.code.ts"
 
 async function sendOne(one: Found): Promise<string | null> {
   const written = await writeMessage({
