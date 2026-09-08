@@ -17,6 +17,7 @@ export const alanWeb = {
   server: "ts",
   sidebarBoot: "js",
   siteIcon: "svg",
+  gitIgnore: "gitignore",
   partSlugs: [
     "manifest/alanwalton-web",
     "stylesheet/alan-web-look",
