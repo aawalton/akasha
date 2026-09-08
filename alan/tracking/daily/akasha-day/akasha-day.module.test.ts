@@ -1,7 +1,6 @@
-import { describe, expect, test } from "bun:test"
-import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
-import { join } from "node:path"
+import { afterAll, describe, expect, test } from "bun:test"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { put } from "@akasha/testing-system/putting"
 import {
   camelised,
   camelisedRow,
@@ -9,6 +8,10 @@ import {
   rowsText,
   turnedRows,
 } from "./akasha-day.module.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 const PAGE =
   "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.ts"
@@ -86,23 +89,14 @@ describe("one row beside a day, turned", () => {
 
 describe("the rows a file beside a page holds", () => {
   test("a file that is not there holds none, and one that is holds what it says", () => {
-    const root = mkdtempSync(join(tmpdir(), "akasha-day-"))
-    try {
-      expect(rowsBeside(root, PAGE, "sessions")).toEqual([])
-      const at = join(
-        root,
-        "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.sessions.jsonl"
-      )
-      Bun.spawnSync([
-        "mkdir",
-        "-p",
-        join(root, "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05"),
-      ])
-      writeFileSync(at, rowsText(HELD))
-      expect(rowsBeside(root, PAGE, "sessions")).toEqual(HELD)
-    } finally {
-      rmSync(root, { recursive: true, force: true })
-    }
+    const root = scratch.rootFor("akasha-day-")
+    expect(rowsBeside(root, PAGE, "sessions")).toEqual([])
+    put(
+      root,
+      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.sessions.jsonl",
+      rowsText(HELD)
+    )
+    expect(rowsBeside(root, PAGE, "sessions")).toEqual(HELD)
   })
 
   test("a path that is no page file refuses rather than naming a file beside nothing", () => {
