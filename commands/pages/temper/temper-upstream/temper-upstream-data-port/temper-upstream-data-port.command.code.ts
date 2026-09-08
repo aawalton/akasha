@@ -12,7 +12,7 @@ import { port as portZone } from "@akasha/temper-upstream-data/zone-upstream-por
 import {
   namesIn,
   valuesOf,
-} from "../../../../modules/argument-word-reading/argument-word-reading.module.code.ts"
+} from "../../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 

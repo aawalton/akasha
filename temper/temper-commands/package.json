@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./addon-fixture-manifest/testing": "./addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts",
+    "./argument-word-reading": "./argument-word-reading/argument-word-reading.module.code.ts",
     "./bank-profile-reading": "./bank-profile-reading/bank-profile-reading.module.code.ts",
     "./bank-trace-reading": "./bank-trace-reading/bank-trace-reading.module.code.ts",
     "./eso-base-game-globals": "./eso-base-game-globals/eso-base-game-globals.module.code.ts",
