@@ -1,6 +1,10 @@
 import { git } from "@akasha/git/git-capping"
 import { pushBranch, remoteOf } from "@akasha/git/git-pushing"
-import { type Answer, type Given, refused } from "../../calling/calling.module.code.ts"
+import {
+  type Answer,
+  type Given,
+  refused,
+} from "../../../command-system/calling/calling.module.code.ts"
 
 const DRY_RUN = "--dry-run"
 
