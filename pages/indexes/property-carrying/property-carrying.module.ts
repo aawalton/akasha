@@ -85,6 +85,11 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A property naming no file says a machine writes each file the property's section names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An index that cannot answer that is a file no machine writes.",
     },
     {

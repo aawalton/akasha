@@ -1,5 +1,6 @@
 import { basename, dirname } from "node:path"
 import { partedIn, sectionedIn } from "@akasha/pages/page-file-name"
+import { kindsUnder } from "@akasha/pages/page-type-descent"
 import type { Value } from "@akasha/pages/page-value"
 import {
   everyOfType,
@@ -151,8 +152,25 @@ export function machineWrote(value: Value): boolean {
   return value[MACHINE_WRITTEN] === true
 }
 
+function kindedIn(given: string | Reading): Kinded {
+  const held = new Map<string, Value>()
+  const filling = (kind: string): undefined => {
+    for (const one of valuesOfType(given, kind)) held.set(one.path, one.value)
+  }
+  filling(PAGE_TYPE)
+  return {
+    kindsUnder: (of) => kindsUnder(of, given, (path) => held.get(path) ?? null),
+    everyOfType: (kind) => {
+      filling(kind)
+      return everyOfType(given, kind)
+    },
+    valueAt: (path) => held.get(path) ?? null,
+  }
+}
+
 export function machineWrittenAt(given: string | Reading, path: string): boolean {
   try {
+    if (sectionHeld(path, slugsWhere(kindedIn(given), machineWrote))) return true
     return heldBeside(path, valuesOfType(given, NAMED_FILE_PROPERTY), machineWrote, (named) =>
       carryingOf(given, named)
     )

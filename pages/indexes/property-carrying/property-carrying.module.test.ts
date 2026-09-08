@@ -12,6 +12,7 @@ import {
   type Carried,
   carryingOf,
   heldBeside,
+  machineWrittenAt,
   machineWrote,
   type Naming,
 } from "./property-carrying.module.code.ts"
@@ -71,8 +72,8 @@ function property(root: string, slug: string, shape: string, id: string): undefi
   filed(root, slug, shape, id)
 }
 
-function declares(root: string, property: string, by: string, at: string): undefined {
-  relationFiled(root, property, "page-property-slug", by, [{ path: at }])
+function declares(root: string, named: string, by: string, at: string): undefined {
+  relationFiled(root, named, "page-property-slug", by, [{ path: at }])
 }
 
 function extending(root: string, above: string, below: string, at: string): undefined {
@@ -227,6 +228,42 @@ test("a property saying nothing of a machine says nothing of its value", () => {
 
 test("a property saying an author writes its file says nothing of its value", () => {
   expect(machineWrote({ machineWritten: false })).toBe(false)
+})
+
+const ENTRIES = idOf("9")
+
+const SECTIONED = "akasha/one.thing.entries.jsonl"
+
+function entriesFiled(root: string, said: Value): undefined {
+  const path = pageAt("entries", "file-property")
+  listedFiled(root, "file-property", "entries", [{ path, id: ENTRIES }])
+  valueAlsoFiled(root, "file-property", [{ path, value: said }])
+  idFiled(root, ENTRIES, [{ path, id: ENTRIES }])
+}
+
+const SAYS: Value = {
+  id: ENTRIES,
+  pageTypeSlug: "file-property",
+  slug: "entries",
+  propertySlug: "entries",
+}
+
+test("a property naming no file says a machine writes each file its section names", () => {
+  const root = rooted()
+  entriesFiled(root, { ...SAYS, machineWritten: true })
+  expect(machineWrittenAt(root, SECTIONED)).toBe(true)
+})
+
+test("a property saying nothing of a machine says nothing of the files its section names", () => {
+  const root = rooted()
+  entriesFiled(root, SAYS)
+  expect(machineWrittenAt(root, SECTIONED)).toBe(false)
+})
+
+test("a file carrying no section is not the file of a property naming no file", () => {
+  const root = rooted()
+  entriesFiled(root, { ...SAYS, machineWritten: true })
+  expect(machineWrittenAt(root, "akasha/one.thing.ts")).toBe(false)
 })
 
 test("a file is beside a property naming it where a page carrying it sits in the file's folder", () => {
