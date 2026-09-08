@@ -2,7 +2,6 @@ import { optimizeShopping } from "@akasha/temper-shopping/ttc-shopping-optimizer
 import type { ShoppingItem } from "@akasha/temper-shopping/ttc-shopping-types"
 import { TTC_AGO } from "@akasha/temper-trading-pricing/ttc-listing-types"
 import { createTTCListingClient } from "@akasha/temper-trading-pricing-client/ttc-listing-client"
-import type { Route } from "./+types/api.shopping.optimize"
 
 const ttcClient = createTTCListingClient()
 
@@ -16,7 +15,7 @@ function sseEvent(event: string, data: unknown): string {
   return `event: ${event}\ndata: ${JSON.stringify(data)}\n\n`
 }
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   let parsed: unknown
   try {
     parsed = await request.json()

@@ -348,5 +348,6 @@ export const temperWeb = {
     "route/api-watcher-upsert-mined-quests",
     "route/api-watcher-upsert-pricing-extract",
     "route/api-watcher-upsert-pricing-snapshot",
+    "route/api-shopping-optimize",
   ],
 } as const satisfies RouterApp
