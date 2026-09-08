@@ -1,8 +1,8 @@
-import type { CoachingNote } from "../../coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
 
 export const theGobletSquatBurnoutWasNeverLegLimited20260624 = {
   id: "01a08177-c3a8-71b6-8f71-4c744031a5c1",
-  pageTypeSlug: "coaching-note",
+  pageTypeSlug: "fitness-coaching-note",
   slug: "the-goblet-squat-burnout-was-never-leg-limited-2026-06-24",
   title: "The goblet squat burnout was never leg-limited",
   coachingNoteActive: true,
@@ -10,4 +10,4 @@ export const theGobletSquatBurnoutWasNeverLegLimited20260624 = {
   coachingNoteKind: "bout-observation",
   coachingNoteDate: "2026-06-24",
   asks: "txt",
-} as const satisfies CoachingNote
+} as const satisfies FitnessCoachingNote
