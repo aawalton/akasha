@@ -48,7 +48,6 @@ export const clusterCheck = {
     "module/population",
     "module/remediation-doc",
     "module/test-step-loading",
-    "module/test-step-paths",
     "module/violation-reporting",
     "module/widget-payload-shape-mirror",
     "module/widget-payloads",
