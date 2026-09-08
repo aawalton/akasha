@@ -57,6 +57,14 @@ export const musicImportArtist = {
       statement: "The artist and the songs land as a single commit or do not land.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page is written through the change working out what kind of path it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The landing a page goes through is handed in.",
+    },
+    {
       invariantKind: "absence",
       statement: "No test here reaches MusicBrainz or LRCLIB.",
     },

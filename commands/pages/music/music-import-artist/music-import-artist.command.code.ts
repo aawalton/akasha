@@ -1,8 +1,8 @@
-import { landingAsked, wroteAndTook } from "@akasha/command-system/asking"
+import type { Asking } from "@akasha/changes/mechanical-change-running"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import type { Answer, Given } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
+import { answering, refused } from "@akasha/command-system/calling"
 import { saidBy } from "@akasha/command-system/fault-saying"
-import type { FileEdit } from "@akasha/command-system/landing"
 import { valuesOfType } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
@@ -76,6 +76,16 @@ const BARE = [JSON_SAID]
 
 const UNNAMED = `this call names no artist — say one after the command, or at \`${NAME}\` or \`${MBID}\``
 
+const WRONG = 3
+
+export const WRITE = "change-mechanical/add-file-of-any-kind"
+
+export type Landing = (
+  root: string,
+  changes: readonly Asking[],
+  message: string
+) => ReturnType<typeof runMechanicalChange>
+
 export type Reach = {
   readonly searchArtist: (name: string) => Promise<readonly MbArtistSearchHit[]>
   readonly getArtist: (mbid: string) => Promise<MbArtist>
@@ -112,7 +122,7 @@ export type Imported = {
   readonly derivedFrom: "works" | "recordings"
 }
 
-export type Gathered = { readonly said: Imported; readonly changes: readonly FileEdit[] }
+export type Gathered = { readonly said: Imported; readonly changes: readonly Asking[] }
 
 export function taken(argv: readonly string[]): Reading {
   const held = new Map<string, string>()
@@ -206,12 +216,12 @@ export function artistIn(
   return { slug: artistSlugOf(name), was: {} }
 }
 
-function edited(put: Put): FileEdit {
-  return { path: put.path, body: new TextEncoder().encode(put.content) }
+function edited(put: Put): Asking {
+  return { at: WRITE, given: { at: put.path, body: put.content } }
 }
 
-function wordEdits(put: Put, words: SongLyrics): readonly FileEdit[] {
-  const edits: FileEdit[] = []
+function wordEdits(put: Put, words: SongLyrics): readonly Asking[] {
+  const edits: Asking[] = []
   for (const [propertySlug, text] of [
     [LYRICS, words.lyrics],
     [SYNCED_LYRICS, words.syncedLyrics],
@@ -219,7 +229,7 @@ function wordEdits(put: Put, words: SongLyrics): readonly FileEdit[] {
     if (text === null) continue
     const beside = besideAt(put.path, propertySlug, TXT)
     if (beside === null) continue
-    edits.push({ path: beside, body: new TextEncoder().encode(text) })
+    edits.push({ at: WRITE, given: { at: beside, body: text } })
   }
   return edits
 }
@@ -235,7 +245,7 @@ async function wordsFor(reach: Reach, title: string, artistName: string): Promis
   }
 }
 
-type Songed = { readonly edits: readonly FileEdit[]; readonly worded: Worded }
+type Songed = { readonly edits: readonly Asking[]; readonly worded: Worded }
 
 async function songLanded(
   root: string,
@@ -355,7 +365,7 @@ export async function gathered(
     },
   })
   if ("refused" in composed) return composed
-  const changes: FileEdit[] = [edited(composed.put)]
+  const changes: Asking[] = [edited(composed.put)]
   const catalogue = catalogueIn(root)
   const songs = await songsAsked(held, reach, found, named.slug, catalogue, today)
   let songsWithLyrics = 0
@@ -382,28 +392,28 @@ export async function gathered(
   }
 }
 
-export async function musicImportArtist(argv: readonly string[], given: Given): Promise<Answer> {
+export function messageOf(said: Imported): string {
+  return `import ${said.artistName} and ${said.songsWritten} songs from MusicBrainz`
+}
+
+export async function musicImportArtist(
+  argv: readonly string[],
+  given: Given,
+  reach: Reach = REACHING,
+  landing: Landing = runMechanicalChange
+): Promise<Answer> {
   const held = taken(argv)
   if ("refused" in held) return refused(held.refused, INPUT)
   let found: Gathered | { readonly refused: string }
   try {
-    found = await gathered(given.root, held, REACHING, todayYYYYMMDD())
+    found = await gathered(given.root, held, reach, todayYYYYMMDD())
   } catch (thrown) {
     return refused(saidBy(thrown), OPERATIONAL)
   }
   if ("refused" in found) return refused(found.refused, DATA)
-  const answer = await landingAsked(given, {
-    changes: found.changes,
-    message: `import ${found.said.artistName} and ${found.said.songsWritten} songs from MusicBrainz`,
-    dryRun: false,
-    glass: null,
-    unmoved: [],
-    saying: wroteAndTook,
-  })
-  if (answer.code !== 0) return answer
-  return {
-    report: held.json ? [jsonOf(found.said)] : [...rowsOf(found.said), ...answer.report],
-    refusals: [],
-    code: 0,
-  }
+  const landed = await landing(given.root, found.changes, messageOf(found.said))
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  if (wrong.length > 0) return answering([], wrong, WRONG)
+  const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
+  return answering(held.json ? [jsonOf(found.said)] : [...rowsOf(found.said), ...wrote], [], 0)
 }

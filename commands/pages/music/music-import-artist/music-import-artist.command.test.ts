@@ -1,4 +1,8 @@
 import { expect, test } from "bun:test"
+import type { Asking } from "@akasha/changes/mechanical-change-running"
+import type { Applied } from "@akasha/command-system/applying"
+import type { Given } from "@akasha/command-system/calling"
+import type { Refused } from "@akasha/command-system/landing"
 import { rootOf } from "@akasha/command-system/rooting"
 import type { LrclibRecord } from "../../../../alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
 import type {
@@ -6,9 +10,21 @@ import type {
   MbRecording,
   MbWork,
 } from "../../../../alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
-import { gathered, jsonOf, type Reach, rowsOf, taken } from "./music-import-artist.command.code.ts"
+import {
+  type Gathered,
+  gathered,
+  jsonOf,
+  type Landing,
+  musicImportArtist,
+  type Reach,
+  rowsOf,
+  taken,
+  WRITE,
+} from "./music-import-artist.command.code.ts"
 
 const ROOT = rootOf(process.cwd())
+
+const GIVEN: Given = { root: ROOT, calledAs: "akasha", from: ".", writer: null, agentId: null }
 
 const MBID = "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee"
 
@@ -80,19 +96,58 @@ async function gatheringOf(reach: Reach, limit: number | null = null) {
   return found
 }
 
-function pathsOf(found: { readonly changes: readonly { readonly path: string }[] }): string[] {
-  return found.changes.map((one) => one.path)
+function writesIn(changes: readonly Asking[]): ReadonlyMap<string, string> {
+  const held = new Map<string, string>()
+  for (const one of changes) {
+    if (one.at !== WRITE) continue
+    held.set(one.given.at, one.given.body)
+  }
+  return held
 }
 
-function bodyAt(
-  found: {
-    readonly changes: readonly { readonly path: string; readonly body: Uint8Array | null }[]
-  },
-  path: string
-): string {
-  const one = found.changes.find((each) => each.path === path)
-  if (one === undefined || one.body === null) throw new Error(`${path} is in no change here`)
-  return new TextDecoder().decode(one.body)
+function pathsOf(found: Gathered): readonly string[] {
+  return [...writesIn(found.changes).keys()]
+}
+
+function bodyAt(found: Gathered, path: string): string {
+  const body = writesIn(found.changes).get(path)
+  if (body === undefined) throw new Error(`${path} is in no change here`)
+  return body
+}
+
+const LANDED: Applied = {
+  base: "4444444444444444444444444444444444444444",
+  landed: [],
+  formatted: [],
+  said: [],
+  wrong: [],
+  commit: "5555555555555555555555555555555555555555",
+}
+
+type Seen = { changes: readonly Asking[]; message: string }
+
+function landingOnto(seen: Seen, answer: Applied | Refused = LANDED): Landing {
+  return async (_root, changes, message) => {
+    seen.changes = changes
+    seen.message = message
+    return answer
+  }
+}
+
+function unseen(): Seen {
+  return { changes: [], message: "" }
+}
+
+function importingProbe(landing: Landing) {
+  return musicImportArtist(
+    ["--mbid", MBID],
+    GIVEN,
+    reachOf({
+      browseWorks: async () => [workOf("w-1", "First Probe")],
+      searchLyrics: async (title) => [lyricsOf(title)],
+    }),
+    landing
+  )
 }
 
 test("a call naming no artist is refused", () => {
@@ -230,4 +285,48 @@ test("what was brought in is said as rows and as JSON", () => {
     mbid: MBID,
     slug: ARTIST_SLUG,
   })
+})
+
+test("the artist, the song and its words are named to the landing at one change each", async () => {
+  const seen = unseen()
+  const said = await importingProbe(landingOnto(seen))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(seen.message).toBe(`import ${ARTIST_NAME} and 1 songs from MusicBrainz`)
+  expect(seen.changes.map((one) => one.at)).toEqual([WRITE, WRITE, WRITE, WRITE])
+  const songAt = `alan/music/catalog/songs/pages/${ARTIST_SLUG}-first-probe/${ARTIST_SLUG}-first-probe.song`
+  expect([...writesIn(seen.changes).keys()]).toEqual([
+    `alan/music/catalog/artists/pages/${ARTIST_SLUG}/${ARTIST_SLUG}.artist.ts`,
+    `${songAt}.ts`,
+    `${songAt}.lyrics.txt`,
+    `${songAt}.synced-lyrics.txt`,
+  ])
+})
+
+test("the words named to the landing are text rather than bytes", async () => {
+  const seen = unseen()
+  await importingProbe(landingOnto(seen))
+  const words = `alan/music/catalog/songs/pages/${ARTIST_SLUG}-first-probe/${ARTIST_SLUG}-first-probe.song.lyrics.txt`
+  expect(writesIn(seen.changes).get(words)).toContain("the words of First Probe")
+})
+
+test("a landing that refused is answered with the refusal and nothing brought in", async () => {
+  const said = await importingProbe(landingOnto(unseen(), { refusals: ["the lock was held"] }))
+  expect(said.code).toBe(3)
+  expect(said.refusals).toEqual(["the lock was held"])
+  expect(said.report).toEqual([])
+})
+
+test("a landing answering something wrong is answered as a refusal", async () => {
+  const answer = { ...LANDED, wrong: ["the install would not take"] }
+  const said = await importingProbe(landingOnto(unseen(), answer))
+  expect(said.code).toBe(3)
+  expect(said.refusals).toEqual(["the install would not take"])
+})
+
+test("what landed is reported under the rows saying what was brought in", async () => {
+  const answer = { ...LANDED, landed: ["one/page.ts"] }
+  const said = await importingProbe(landingOnto(unseen(), answer))
+  expect(said.report[0]).toBe(`artist\t${ARTIST_NAME}\t${MBID}\t${ARTIST_SLUG}`)
+  expect(said.report).toContain("wrote one/page.ts")
 })
