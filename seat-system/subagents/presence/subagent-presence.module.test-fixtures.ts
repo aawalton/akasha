@@ -15,8 +15,6 @@ export const AGENT = "01a05844-6e60-7000-b54c-4b14559df70d"
 
 export const OWN = "a38f63805f9b94edf"
 
-export const AGAIN = "a38f63805f9b94ee0"
-
 export const TREE = "akasha"
 
 export const SEAT_AT = `${TREE}/seat-system/seats/pages/akasha.seat.ts`
