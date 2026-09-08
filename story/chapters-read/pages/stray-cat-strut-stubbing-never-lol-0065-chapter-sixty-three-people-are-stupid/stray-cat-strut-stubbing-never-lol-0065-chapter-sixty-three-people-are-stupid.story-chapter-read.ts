@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0065ChapterSixtyThreePeopleAreStupid =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0065-chapter-sixty-three-people-are-stupid",
   title: "Chapter Sixty-Three - People are Stupid",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 65,
   ownLength: 1573,
   unitSlug: "words",

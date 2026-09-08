@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0194ChapterTwentySevenAGoodJob = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0194-chapter-twenty-seven-a-good-job",
   title: "Chapter Twenty-Seven - A Good Job",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 194,
   ownLength: 1474,
   unitSlug: "words",

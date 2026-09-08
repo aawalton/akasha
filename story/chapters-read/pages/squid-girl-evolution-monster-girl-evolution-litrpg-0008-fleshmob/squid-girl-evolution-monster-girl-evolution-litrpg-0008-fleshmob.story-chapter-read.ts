@@ -5,7 +5,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0008Fleshmob = {
   pageTypeSlug: "story-chapter-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg-0008-fleshmob",
   title: "Fleshmob",
-  partOfSlugs: ["squid-girl-evolution-monster-girl-evolution-litrpg"],
+  partOfCollectionSlugs: ["squid-girl-evolution-monster-girl-evolution-litrpg"],
   position: 8,
   ownLength: 3187,
   unitSlug: "words",

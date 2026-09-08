@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0150ChapterSixtySevenExploringNewHoles
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0150-chapter-sixty-seven-exploring-new-holes-with-your",
   title: "Chapter Sixty-Seven - Exploring New Holes with Your Favorite Nun",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 150,
   ownLength: 1447,
   unitSlug: "words",

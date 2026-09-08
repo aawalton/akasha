@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0103ChapterTwentyOneGodsRighteousFury 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0103-chapter-twenty-one-gods-righteous-fury",
   title: "Chapter Twenty-One - God’s Righteous Fury",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 103,
   ownLength: 1466,
   unitSlug: "words",

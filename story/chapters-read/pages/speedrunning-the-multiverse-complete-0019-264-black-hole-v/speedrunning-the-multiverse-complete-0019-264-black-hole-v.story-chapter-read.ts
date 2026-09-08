@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0019264BlackHoleV = {
   pageTypeSlug: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0019-264-black-hole-v",
   title: "264. Black Hole (V) ",
-  partOfSlugs: ["speedrunning-the-multiverse-complete"],
+  partOfCollectionSlugs: ["speedrunning-the-multiverse-complete"],
   position: 19,
   ownLength: 1736,
   unitSlug: "words",

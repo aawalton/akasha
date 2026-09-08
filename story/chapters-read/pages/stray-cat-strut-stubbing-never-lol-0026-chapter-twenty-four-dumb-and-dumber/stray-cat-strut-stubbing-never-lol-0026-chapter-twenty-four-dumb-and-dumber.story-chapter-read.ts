@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0026ChapterTwentyFourDumbAndDumber = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0026-chapter-twenty-four-dumb-and-dumber",
   title: "Chapter Twenty-Four - Dumb and Dumber",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 26,
   ownLength: 1058,
   unitSlug: "words",

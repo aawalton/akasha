@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0193ChapterTwentySixBipBapBam = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0193-chapter-twenty-six-bip-bap-bam",
   title: "Chapter Twenty-Six - Bip Bap Bam",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 193,
   ownLength: 1503,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0064ChapterSixtyTwoHonourAndFlames = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0064-chapter-sixty-two-honour-and-flames",
   title: "Chapter Sixty-Two - Honour and Flames",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 64,
   ownLength: 1450,
   unitSlug: "words",

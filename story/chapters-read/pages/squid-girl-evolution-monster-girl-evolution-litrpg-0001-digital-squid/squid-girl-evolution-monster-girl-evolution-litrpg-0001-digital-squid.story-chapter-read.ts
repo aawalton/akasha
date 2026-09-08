@@ -5,7 +5,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0001DigitalSquid = {
   pageTypeSlug: "story-chapter-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg-0001-digital-squid",
   title: "Digital Squid",
-  partOfSlugs: ["squid-girl-evolution-monster-girl-evolution-litrpg"],
+  partOfCollectionSlugs: ["squid-girl-evolution-monster-girl-evolution-litrpg"],
   position: 1,
   ownLength: 1351,
   unitSlug: "words",

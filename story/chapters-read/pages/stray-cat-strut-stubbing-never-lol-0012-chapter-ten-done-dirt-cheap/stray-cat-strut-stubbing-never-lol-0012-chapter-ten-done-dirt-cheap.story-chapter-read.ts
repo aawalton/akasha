@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0012ChapterTenDoneDirtCheap = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0012-chapter-ten-done-dirt-cheap",
   title: "Chapter Ten - Done Dirt Cheap",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 12,
   ownLength: 1144,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0104ChapterTwentyTwoReactionTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0104-chapter-twenty-two-reaction-time",
   title: "Chapter Twenty-Two - Reaction Time",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 104,
   ownLength: 1450,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0009ChapterSevenHummingbird = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0009-chapter-seven-hummingbird",
   title: "Chapter Seven - Hummingbird",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 9,
   ownLength: 1177,
   unitSlug: "words",

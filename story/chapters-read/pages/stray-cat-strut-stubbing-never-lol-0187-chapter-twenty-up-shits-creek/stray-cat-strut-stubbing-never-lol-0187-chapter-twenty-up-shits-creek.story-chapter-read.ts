@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0187ChapterTwentyUpShitsCreek = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0187-chapter-twenty-up-shits-creek",
   title: "Chapter Twenty - Up Shit’s Creek",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 187,
   ownLength: 1540,
   unitSlug: "words",
