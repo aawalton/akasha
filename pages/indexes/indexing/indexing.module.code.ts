@@ -34,6 +34,8 @@ import { importIn } from "../import/index-import.index.code.ts"
 import { indexImport } from "../import/index-import.index.ts"
 import { LISTED_UNDER, listedOf } from "../listing/index-listing.index.code.ts"
 import {
+  type Body,
+  bodiesAt,
   reachingBuilt,
   reachingSettled,
   rereadOver,
@@ -231,7 +233,8 @@ export function settlingOver(
   given: Reading,
   repo: string,
   moving: readonly Moving[],
-  pageOf: (path: string) => Value | null
+  pageOf: (path: string) => Value | null,
+  bodyAt: Body = bodiesAt(repo)
 ): Settling {
   const reading = asBuilt(given)
   const pageTypes = pageTypesIn(reading)
@@ -265,7 +268,8 @@ export function settlingOver(
     repo,
     fileProperties,
     filedBy,
-    naming
+    naming,
+    bodyAt
   )
   const importing = [...held, ...reread]
 

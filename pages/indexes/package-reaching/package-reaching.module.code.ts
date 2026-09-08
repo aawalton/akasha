@@ -181,7 +181,8 @@ export function rereadOver(
   repo: string,
   fileProperties: ReadonlyMap<string, string | null>,
   filedBy: FilePropertiesBy,
-  now: Naming
+  now: Naming,
+  bodyAt: Body
 ): Rereading {
   const owned = new Set(turning.map((one) => under(repo, one.path)))
   if (manifestsIn(owned, fileProperties).length === 0) return { was: now, reread: [] }
@@ -193,7 +194,6 @@ export function rereadOver(
     fileProperties,
     filedBy
   )
-  const bodyAt = bodiesAt(repo)
   const reread: Reread[] = []
   for (const path of importersAmong(given, landedElsewhere(was, now))) {
     if (owned.has(path)) continue

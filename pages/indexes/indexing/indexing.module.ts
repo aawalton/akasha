@@ -133,5 +133,10 @@ export const indexing = {
       invariantKind: "gap",
       statement: "A page the index cannot read is reported rather than answered as empty.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "An importer reread is read as the change leaves that importer rather than off the disk.",
+    },
   ],
 } as const satisfies Module

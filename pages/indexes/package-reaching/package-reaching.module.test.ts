@@ -2,7 +2,12 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing as wrote } from "@akasha/command-system/scratching/testing"
 import { reading } from "../../value/page-value.module.test-fixtures.ts"
-import { pathFiled, schemaFiled } from "../reading/index-reading.module.test-fixtures.ts"
+import { readingIn } from "../reading/index-reading.module.code.ts"
+import {
+  importFiled,
+  pathFiled,
+  schemaFiled,
+} from "../reading/index-reading.module.test-fixtures.ts"
 import {
   bodiesAt,
   manifestsAmong,
@@ -10,6 +15,7 @@ import {
   reachingFor,
   reachingIn,
   reachingOf,
+  rereadOver,
 } from "./package-reaching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -104,4 +110,28 @@ test("a caller holding only a root is answered the same thing twice", () => {
 test("an index that is not there refuses rather than reaching nothing", () => {
   const root = scratch.rootFor(PREFIX)
   expect(() => reachingAt(root, bodiesAt(root))).toThrow("is not there")
+})
+
+const READER = "akasha/two/reader.module.code.ts"
+
+const REPOINTED = 'import { one } from "@akasha/one/moved"\n'
+
+const LANDS = new Map([
+  ["@akasha/one", "akasha/one/moved.module.code.ts"],
+  ["@akasha/two/deep", "akasha/two/deep/two.ts"],
+])
+
+test("an importer reread is read through the reader handed in rather than off the disk", () => {
+  const root = worldAt()
+  importFiled(root, "akasha/one/one.module.code.ts", [{ path: READER }])
+  const said = rereadOver(
+    readingIn(root),
+    [{ path: "akasha/one/package.json", before: ONE, was: null }],
+    root,
+    FILING,
+    new Map(),
+    LANDS,
+    (path) => (path === READER ? REPOINTED : null)
+  )
+  expect(said.reread).toEqual([{ path: READER, before: REPOINTED, after: REPOINTED }])
 })

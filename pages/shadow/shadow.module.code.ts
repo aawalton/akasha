@@ -142,7 +142,9 @@ function castFrom(was: Reading, change: Change, held: Remembered): Cast {
       before: textOf(change.before(path)),
       after: textOf(change.after(path)),
     }))
-    const settled = settlingOver(was, change.root, moving, pageOf)
+    const settled = settlingOver(was, change.root, moving, pageOf, (path) =>
+      textOf(change.after(path))
+    )
     const reading = settled.reading
     const index = answeringOver(reading, pageOf)
     const filed = (): readonly Filing[] => settled.filings
