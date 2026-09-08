@@ -7,7 +7,7 @@ export const pointsBeforeToday = {
   pageTypeSlug: "number-property",
   slug: "points-before-today",
   propertySlug: "points-before-today",
-  definition: "the points earned in an attribute over the days before today",
+  definition: "the points earned over the days before today",
   max: null,
   invariants: [
     {

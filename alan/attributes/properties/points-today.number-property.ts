@@ -7,6 +7,6 @@ export const pointsToday = {
   pageTypeSlug: "number-property",
   slug: "points-today",
   propertySlug: "points-today",
-  definition: "the points earned in an attribute today",
+  definition: "the points earned today",
   max: null,
 } as const satisfies NumberProperty

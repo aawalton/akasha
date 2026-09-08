@@ -7,6 +7,12 @@ export const pointsTotal = {
   pageTypeSlug: "number-property",
   slug: "points-total",
   propertySlug: "points-total",
-  definition: "the points earned in an attribute since the day it began",
+  definition: "the points earned since the day counting began",
   max: null,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "This figure is kept rather than added up wherever the figure is read.",
+    },
+  ],
 } as const satisfies NumberProperty
