@@ -74,7 +74,8 @@ export function spentlyOf(spent: readonly Spent[]): string {
   )
 }
 
-const MEND = "The tests themselves are green. Make the file cheaper or divide it."
+const MEND =
+  "The tests themselves are green. Deleting a test nothing needs is the best way to make a file cheaper, so look for one first. Then make the tests that are left cheaper. Divide the file last."
 
 export function slowlyOf(ran: Ran): string {
   const given = `a test file is given ${String(CEILING)} processor seconds`

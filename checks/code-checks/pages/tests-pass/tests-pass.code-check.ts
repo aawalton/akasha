@@ -149,5 +149,10 @@ export const testsPass = {
       invariantKind: "gap",
       statement: "A failing run is reported against the first test file the run named.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "That refusal says deleting a test nothing needs is the best way to make a file cheaper.",
+    },
   ],
 } as const satisfies CodeCheck
