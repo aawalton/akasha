@@ -25,11 +25,6 @@ export const aineAuditChangeGuards = {
         "An add guard judges the edges out of the new body and a remove guard judges the edges into the path that went, so the inversion is edge direction. A content change is the third case: it breaks an inbound edge while the path survives. `import-not-left-hanging` and `relation-not-left-hanging` both key on `takingIn(given.said)`, so neither fires. Widen the trigger they share rather than writing a third, which `no-rule-in-two-files` would refuse.",
     },
     {
-      statement: "A world stacked over more than one answer answers the index every answer leaves.",
-      workingMemory:
-        "`worldOver` works its index out from `said` alone where its two sibling fields accumulate, so a page an earlier answer took away is back in the stacked world's index: `listedByPath` answered 0 rows after one answer and 1 row after a second. Nothing is red today, because no guard reads that field. The fix is to cast the index from the gathered answer where that answer is not refused. Drafted and not landed.",
-    },
-    {
       statement:
         "A change-page-file wraps change-code-file, and the authored change-file routes to it.",
       workingMemory:
