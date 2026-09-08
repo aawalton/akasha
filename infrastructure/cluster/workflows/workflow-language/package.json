@@ -5,8 +5,7 @@
   "exports": {
     "./ci-identifiers": "./ci-identifiers/ci-identifiers.module.code.ts",
     "./inputs-hash": "./inputs-hash/inputs-hash.module.code.ts",
-    "./retry-transient-ddl": "./retry-transient-ddl/retry-transient-ddl.module.code.ts",
-    "./workflow-types": "./workflow-types/workflow-types.module.code.ts"
+    "./retry-transient-ddl": "./retry-transient-ddl/retry-transient-ddl.module.code.ts"
   },
   "dependencies": {
     "zod": "^4.3.6"
