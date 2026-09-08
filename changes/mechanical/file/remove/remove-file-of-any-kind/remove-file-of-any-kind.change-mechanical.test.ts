@@ -13,10 +13,15 @@ const PLAIN = "akasha/one/notes.md"
 
 type Taken = { at: string; given: unknown }
 
+const UNDER = new Set(["text-property"])
+
 function worldOf(named: ReadonlySet<string>, taken: Taken): World {
   return {
     root: "/nowhere",
-    index: Object.assign({} as World["index"], { pageTypesIn: () => named }),
+    index: Object.assign({} as World["index"], {
+      pageTypesIn: () => named,
+      kindsUnder: () => UNDER,
+    }),
     textOf: () => null,
     under: () => [],
     base: () => null,
@@ -35,6 +40,22 @@ const PAGED = worldOf(new Set(["held"]), { at: "", given: null })
 
 test("a path under a page name goes by the change taking the files beside it away", () => {
   expect(addressFor(PAGED, PAGE)).toBe("change-mechanical-file/remove-file-page")
+})
+
+test("a path under a page type name goes by the change taking a page type away", () => {
+  const world = worldOf(new Set(["page-type"]), { at: "", given: null })
+
+  expect(addressFor(world, "akasha/kept.page-type.ts")).toBe(
+    "change-mechanical/remove-file-page-type"
+  )
+})
+
+test("a path under a page property name goes by the change taking a page property away", () => {
+  const world = worldOf(new Set(["text-property"]), { at: "", given: null })
+
+  expect(addressFor(world, "akasha/properties/kept.text-property.ts")).toBe(
+    "change-mechanical/remove-file-page-property"
+  )
 })
 
 test("every other TypeScript path goes by the change judging the imports named", () => {

@@ -34,5 +34,14 @@ export const removeFileOfAnyKind = {
       invariantKind: "absence",
       statement: "Nothing here works out a body of its own.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A path under a page type name goes by the change taking a page type away.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path under a page property name goes by the change taking a page property away.",
+    },
   ],
 } as const satisfies ChangeMechanical
