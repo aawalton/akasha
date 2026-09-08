@@ -11,7 +11,7 @@ import {
   type SupervisorOAuthProxyHandle,
 } from "@akasha/seat-system/supervisor-spawn-oauth-proxy"
 import { setOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
-import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
+import { pidAliveOrRefuse } from "@akasha/utils/process/pid-signal"
 import {
   type OAuthProxyState,
   readProxyState,

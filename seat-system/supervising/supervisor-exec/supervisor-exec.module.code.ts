@@ -1,7 +1,7 @@
 import { dlopen, FFIType, ptr } from "bun:ffi"
+import { resolveMappedLibc } from "@akasha/utils/process/libc-mapping"
+import { errnoCodeOf, readPidSignal } from "@akasha/utils/process/pid-signal"
 import { collapse, folds, refuses } from "@akasha/utils-narrow/collapse"
-import { resolveMappedLibc } from "@akasha/utils-process/libc-mapping"
-import { errnoCodeOf, readPidSignal } from "@akasha/utils-process/pid-signal"
 import type {
   ChildExitRuleSource,
   ChildExitStatus,

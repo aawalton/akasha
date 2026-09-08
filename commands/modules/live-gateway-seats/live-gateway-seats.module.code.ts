@@ -1,7 +1,7 @@
 import { type LiveProxySeat, liveProxySeats, seatsNewestFirst } from "@akasha/agents/proxy-seats"
 import { readProxyState } from "@akasha/seat-system/seat-proxy-state"
 import { seatsPresent } from "@akasha/seat-system/seat-roster"
-import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
+import { pidAliveOrRefuse } from "@akasha/utils/process/pid-signal"
 
 export function liveSeats(): readonly LiveProxySeat[] {
   const agents = seatsNewestFirst(

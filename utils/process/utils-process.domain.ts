@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const utilsProcess = {
   id: "01a05c4f-6f2b-7cf2-8361-788954595f9a",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "utils-process",
   definition: "a process another did not start, read from outside it and ended from outside it",
-  manifest: "json",
   partSlugs: [
     "module/pid-signal",
     "module/port-holding",
@@ -14,4 +13,4 @@ export const utilsProcess = {
     "module/process-ending",
     "module/libc-mapping",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

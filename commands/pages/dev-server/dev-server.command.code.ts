@@ -25,7 +25,7 @@ import {
   writeStateFile,
 } from "@akasha/service-system/dev-server-stating"
 import { resolveWorktreePath } from "@akasha/service-system/dev-server-worktree"
-import { errnoCodeOf } from "@akasha/utils-process/pid-signal"
+import { errnoCodeOf } from "@akasha/utils/process/pid-signal"
 import { enforceMemoryGuard } from "@akasha/utils-system/memory-guard"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../../command-system/calling/calling.module.code.ts"

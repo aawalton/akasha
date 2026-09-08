@@ -1,4 +1,4 @@
-import { readProcEnvVar } from "@akasha/utils-process/proc-environ"
+import { readProcEnvVar } from "@akasha/utils/process/proc-environ"
 
 export function parseProxyPortFromBaseUrl(baseUrl: string | null | undefined): number | null {
   if (baseUrl == null || baseUrl === "") return null

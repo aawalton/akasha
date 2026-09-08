@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node
 import { dirname, join } from "node:path"
 import { OperationalError } from "@akasha/errors-core/exit-code"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
-import { pidAliveOrAssumeDead } from "@akasha/utils-process/pid-signal"
+import { pidAliveOrAssumeDead } from "@akasha/utils/process/pid-signal"
 import { z } from "zod"
 import { watcherConfigDir, watcherLogDir } from "../watcher-paths/watcher-paths.module.code.ts"
 

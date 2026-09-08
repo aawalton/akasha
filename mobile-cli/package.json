@@ -44,7 +44,6 @@
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@akasha/utils-process": "workspace:*",
     "zod": "^4.3.6"
   }
 }

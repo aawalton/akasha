@@ -47,7 +47,6 @@
         "@akasha/upscale": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@akasha/utils-process": "workspace:*",
         "@akasha/utils-sync": "workspace:*",
         "@akasha/utils-system": "workspace:*",
         "@akasha/wan": "workspace:*",
@@ -1153,7 +1152,6 @@
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@akasha/utils-process": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -1486,8 +1484,8 @@
         "@akasha/git": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/pages": "workspace:*",
+        "@akasha/utils": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@akasha/utils-process": "workspace:*",
         "yaml": "^2.8.1",
       },
     },
@@ -2789,7 +2787,6 @@
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@akasha/utils-process": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -2904,18 +2901,13 @@
       "dependencies": {
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
       },
     },
     "utils/narrow": {
       "name": "@akasha/utils-narrow",
       "dependencies": {
         "zod": "^4.3.6",
-      },
-    },
-    "utils/process": {
-      "name": "@akasha/utils-process",
-      "dependencies": {
-        "@akasha/utils-narrow": "workspace:*",
       },
     },
     "utils/sync": {
@@ -3509,8 +3501,6 @@
     "@akasha/utils": ["@akasha/utils@workspace:utils"],
 
     "@akasha/utils-narrow": ["@akasha/utils-narrow@workspace:utils/narrow"],
-
-    "@akasha/utils-process": ["@akasha/utils-process@workspace:utils/process"],
 
     "@akasha/utils-sync": ["@akasha/utils-sync@workspace:utils/sync"],
 

@@ -8,9 +8,9 @@ import {
   PORT_READ_BUDGET_MS,
   readFirstLineAsPort,
 } from "@akasha/seat-system/supervisor-proxy-port-line"
-import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
-import { pidsListeningOn, portIsHeld } from "@akasha/utils-process/port-holding"
-import { readProcEnvVar } from "@akasha/utils-process/proc-environ"
+import { pidAliveOrRefuse } from "@akasha/utils/process/pid-signal"
+import { pidsListeningOn, portIsHeld } from "@akasha/utils/process/port-holding"
+import { readProcEnvVar } from "@akasha/utils/process/proc-environ"
 import {
   type OAuthProxyState,
   readProxyState,

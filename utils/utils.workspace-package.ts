@@ -9,7 +9,7 @@ export const utils = {
   partSlugs: [
     "domain/utils-fs",
     "workspace-package/utils-narrow",
-    "workspace-package/utils-process",
+    "domain/utils-process",
     "domain/utils-run",
     "workspace-package/utils-system",
     "workspace-package/utils-sync",

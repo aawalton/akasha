@@ -1,7 +1,7 @@
 import { closeSync, openSync, readFileSync, unlinkSync, writeSync } from "node:fs"
 import { OperationalError } from "@akasha/errors-core/exit-code"
 import { expandTilde } from "@akasha/utils/fs/expand-tilde"
-import { pidAliveOrAssumeDead } from "@akasha/utils-process/pid-signal"
+import { pidAliveOrAssumeDead } from "@akasha/utils/process/pid-signal"
 import { z } from "zod"
 
 export const LOCAL_CUT_LOCK_PATH = "~/.mobile-cut-testflight.lock"
