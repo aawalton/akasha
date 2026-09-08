@@ -8,6 +8,6 @@ export const firstPullBackAfterTwoWeeksIll20260619 = {
   active: true,
   focusTags: ["pull"],
   kind: "bout-observation",
-  coachingNoteDate: "2026-06-19",
+  date: "2026-06-19",
   says: "txt",
 } as const satisfies FitnessCoachingNote

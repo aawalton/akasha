@@ -8,6 +8,6 @@ export const aSpontaneousBonusSet20260625 = {
   active: true,
   focusTags: ["push"],
   kind: "bout-observation",
-  coachingNoteDate: "2026-06-25",
+  date: "2026-06-25",
   says: "txt",
 } as const satisfies FitnessCoachingNote

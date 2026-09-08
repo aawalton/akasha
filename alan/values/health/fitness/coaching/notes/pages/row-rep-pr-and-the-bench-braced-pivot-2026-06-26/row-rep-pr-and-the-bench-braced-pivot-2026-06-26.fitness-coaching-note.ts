@@ -8,6 +8,6 @@ export const rowRepPrAndTheBenchBracedPivot20260626 = {
   active: true,
   focusTags: ["pull"],
   kind: "bout-observation",
-  coachingNoteDate: "2026-06-26",
+  date: "2026-06-26",
   says: "txt",
 } as const satisfies FitnessCoachingNote

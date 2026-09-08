@@ -8,6 +8,6 @@ export const movementSnacksBetweenTurns20260624 = {
   active: true,
   focusTags: ["legs", "conditioning"],
   kind: "bout-observation",
-  coachingNoteDate: "2026-06-24",
+  date: "2026-06-24",
   says: "txt",
 } as const satisfies FitnessCoachingNote

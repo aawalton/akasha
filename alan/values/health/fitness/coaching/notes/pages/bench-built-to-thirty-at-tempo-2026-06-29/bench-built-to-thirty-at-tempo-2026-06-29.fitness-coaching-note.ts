@@ -8,6 +8,6 @@ export const benchBuiltToThirtyAtTempo20260629 = {
   active: true,
   focusTags: ["push"],
   kind: "bout-observation",
-  coachingNoteDate: "2026-06-29",
+  date: "2026-06-29",
   says: "txt",
 } as const satisfies FitnessCoachingNote

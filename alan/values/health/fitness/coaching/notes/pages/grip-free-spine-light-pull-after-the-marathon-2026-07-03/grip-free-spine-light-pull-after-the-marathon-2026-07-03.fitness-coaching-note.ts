@@ -8,6 +8,6 @@ export const gripFreeSpineLightPullAfterTheMarathon20260703 = {
   active: true,
   focusTags: ["pull"],
   kind: "bout-observation",
-  coachingNoteDate: "2026-07-03",
+  date: "2026-07-03",
   says: "txt",
 } as const satisfies FitnessCoachingNote
