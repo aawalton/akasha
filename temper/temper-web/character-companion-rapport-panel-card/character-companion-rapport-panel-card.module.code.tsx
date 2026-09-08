@@ -65,25 +65,25 @@ export function CharacterCompanionRapportPanelCard({
       key: entry.companionId,
       label: entry.name,
       children: selectedProgress.map(
-        (cp): CompletionNode => ({
-          key: cp.characterId,
-          label: charNames.get(cp.characterId) ?? cp.characterId,
-          count: rapportLookup.get(entry.companionId)?.get(cp.characterId) ?? 0,
+        (one): CompletionNode => ({
+          key: one.characterId,
+          label: charNames.get(one.characterId) ?? one.characterId,
+          count: rapportLookup.get(entry.companionId)?.get(one.characterId) ?? 0,
           total: MAX_COMPANION_RAPPORT,
         })
       ),
     }))
 
-    const totalChildren: CompletionNode[] = selectedProgress.map((cp) => {
+    const totalChildren: CompletionNode[] = selectedProgress.map((one) => {
       let count = 0
       let total = 0
-      for (const entry of cp.entries) {
-        count += rapportLookup.get(entry.companionId)?.get(cp.characterId) ?? 0
+      for (const entry of one.entries) {
+        count += rapportLookup.get(entry.companionId)?.get(one.characterId) ?? 0
         total += MAX_COMPANION_RAPPORT
       }
       return {
-        key: cp.characterId,
-        label: charNames.get(cp.characterId) ?? cp.characterId,
+        key: one.characterId,
+        label: charNames.get(one.characterId) ?? one.characterId,
         count,
         total,
       }

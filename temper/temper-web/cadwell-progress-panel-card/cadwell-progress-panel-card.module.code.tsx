@@ -74,11 +74,11 @@ export function CadwellProgressPanelCard({
               key: `${level.level}-${zone.zoneIndex}-${poi.poiIndex}`,
               label: poi.name,
               children: selectedProgress.map(
-                (cp): CompletionNode => ({
-                  key: cp.characterId,
-                  label: charNames.get(cp.characterId) ?? cp.characterId,
+                (one): CompletionNode => ({
+                  key: one.characterId,
+                  label: charNames.get(one.characterId) ?? one.characterId,
                   count: completedLookup
-                    .get(cp.characterId)
+                    .get(one.characterId)
                     ?.has(`${level.level}-${zone.zoneIndex}-${poi.poiIndex}`)
                     ? 1
                     : 0,
@@ -91,10 +91,10 @@ export function CadwellProgressPanelCard({
       ),
     }))
 
-    const totalChildren: CompletionNode[] = selectedProgress.map((cp) => {
+    const totalChildren: CompletionNode[] = selectedProgress.map((one) => {
       let count = 0
       let total = 0
-      for (const level of cp.levels) {
+      for (const level of one.levels) {
         for (const zone of level.zones) {
           total += zone.pois.length
           for (const poi of zone.pois) {
@@ -103,8 +103,8 @@ export function CadwellProgressPanelCard({
         }
       }
       return {
-        key: cp.characterId,
-        label: charNames.get(cp.characterId) ?? cp.characterId,
+        key: one.characterId,
+        label: charNames.get(one.characterId) ?? one.characterId,
         count,
         total,
       }

@@ -68,10 +68,10 @@ export function CompanionQuestsPanelCard({
           key: String(quest.questId),
           label: quest.name,
           children: selectedProgress.map(
-            (cp): CompletionNode => ({
-              key: cp.characterId,
-              label: charNames.get(cp.characterId) ?? cp.characterId,
-              count: completedLookup.get(cp.characterId)?.has(quest.questId) ? 1 : 0,
+            (one): CompletionNode => ({
+              key: one.characterId,
+              label: charNames.get(one.characterId) ?? one.characterId,
+              count: completedLookup.get(one.characterId)?.has(quest.questId) ? 1 : 0,
               total: 1,
             })
           ),
@@ -79,18 +79,18 @@ export function CompanionQuestsPanelCard({
       ),
     }))
 
-    const totalChildren: CompletionNode[] = selectedProgress.map((cp) => {
+    const totalChildren: CompletionNode[] = selectedProgress.map((one) => {
       let count = 0
       let total = 0
-      for (const zone of cp.zones) {
+      for (const zone of one.zones) {
         total += zone.quests.length
         for (const q of zone.quests) {
           if (q.completed) count++
         }
       }
       return {
-        key: cp.characterId,
-        label: charNames.get(cp.characterId) ?? cp.characterId,
+        key: one.characterId,
+        label: charNames.get(one.characterId) ?? one.characterId,
         count,
         total,
       }

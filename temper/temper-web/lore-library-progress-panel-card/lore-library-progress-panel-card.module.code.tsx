@@ -75,11 +75,11 @@ export function LoreLibraryProgressPanelCard({
               key: String(book.bookIndex),
               label: book.name,
               children: selectedProgress.map(
-                (cp): CompletionNode => ({
-                  key: cp.characterId,
-                  label: charNames.get(cp.characterId) ?? cp.characterId,
+                (one): CompletionNode => ({
+                  key: one.characterId,
+                  label: charNames.get(one.characterId) ?? one.characterId,
                   count: knownLookup
-                    .get(cp.characterId)
+                    .get(one.characterId)
                     ?.has(`${cat.categoryIndex}:${col.collectionIndex}:${book.bookIndex}`)
                     ? 1
                     : 0,
@@ -92,10 +92,10 @@ export function LoreLibraryProgressPanelCard({
       ),
     }))
 
-    const totalChildren: CompletionNode[] = selectedProgress.map((cp) => {
+    const totalChildren: CompletionNode[] = selectedProgress.map((one) => {
       let count = 0
       let total = 0
-      for (const cat of cp.categories) {
+      for (const cat of one.categories) {
         for (const col of cat.collections) {
           total += col.books.length
           for (const book of col.books) {
@@ -104,8 +104,8 @@ export function LoreLibraryProgressPanelCard({
         }
       }
       return {
-        key: cp.characterId,
-        label: charNames.get(cp.characterId) ?? cp.characterId,
+        key: one.characterId,
+        label: charNames.get(one.characterId) ?? one.characterId,
         count,
         total,
       }

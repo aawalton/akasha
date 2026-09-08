@@ -98,14 +98,14 @@ export function CharacterAchievementsPanelCard({
                   key: String(achievement.esoAchievementId),
                   label: achievement.name,
                   activityCategories: achCategories,
-                  children: selectedProgress.map((cp): CompletionNode => {
+                  children: selectedProgress.map((one): CompletionNode => {
                     const entry = progressLookup
-                      .get(cp.characterId)
+                      .get(one.characterId)
                       ?.get(achievement.esoAchievementId)
                     const completed = entry != null && entry.completedSteps >= entry.totalSteps
                     return {
-                      key: cp.characterId,
-                      label: charNames.get(cp.characterId) ?? cp.characterId,
+                      key: one.characterId,
+                      label: charNames.get(one.characterId) ?? one.characterId,
                       activityCategories: achCategories,
                       count: completed ? achievement.achievementPoints : 0,
                       total: achievement.achievementPoints,
@@ -130,14 +130,14 @@ export function CharacterAchievementsPanelCard({
                 key: String(achievement.esoAchievementId),
                 label: achievement.name,
                 activityCategories: achCategories,
-                children: selectedProgress.map((cp): CompletionNode => {
+                children: selectedProgress.map((one): CompletionNode => {
                   const entry = progressLookup
-                    .get(cp.characterId)
+                    .get(one.characterId)
                     ?.get(achievement.esoAchievementId)
                   const completed = entry != null && entry.completedSteps >= entry.totalSteps
                   return {
-                    key: cp.characterId,
-                    label: charNames.get(cp.characterId) ?? cp.characterId,
+                    key: one.characterId,
+                    label: charNames.get(one.characterId) ?? one.characterId,
                     activityCategories: achCategories,
                     count: completed ? achievement.achievementPoints : 0,
                     total: achievement.achievementPoints,
@@ -150,10 +150,10 @@ export function CharacterAchievementsPanelCard({
       }
     })
 
-    const totalChildren: CompletionNode[] = selectedProgress.map((cp) => {
+    const totalChildren: CompletionNode[] = selectedProgress.map((one) => {
       let count = 0
       let total = 0
-      const achMap = progressLookup.get(cp.characterId)
+      const achMap = progressLookup.get(one.characterId)
       for (const cat of characterAchievementTally) {
         for (const sub of cat.subCategories) {
           for (const achievement of sub.achievements) {
@@ -166,8 +166,8 @@ export function CharacterAchievementsPanelCard({
         }
       }
       return {
-        key: cp.characterId,
-        label: charNames.get(cp.characterId) ?? cp.characterId,
+        key: one.characterId,
+        label: charNames.get(one.characterId) ?? one.characterId,
         count,
         total,
       }

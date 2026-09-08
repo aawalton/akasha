@@ -166,11 +166,11 @@ export function CompanionSkillSelectDialog({
           item.skillLineId.toLowerCase().includes(lower)
         )
       },
-      renderItem: ({ item, onSelect }) => {
+      renderItem: ({ item, onSelect: select }) => {
         const fullSkill = companionSkills.data[item.id]
 
         return (
-          <CommandItem key={item.id} value={item.id} onSelect={onSelect} className="p-0">
+          <CommandItem key={item.id} value={item.id} onSelect={select} className="p-0">
             <CompanionSkillCard
               skill={fullSkill}
               stats={stats}
