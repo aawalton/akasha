@@ -6,4 +6,11 @@ export const supervisorMcp = {
   slug: "supervisor-mcp",
   definition: "the mcp servers an agent is launched with, and the disabled ones cleared away",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A dynamic import reaches the browser storage-state export, so a tree holding no playwright boots.",
+    },
+  ],
 } as const satisfies Module
