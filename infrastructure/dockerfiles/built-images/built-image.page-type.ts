@@ -19,6 +19,7 @@ export const builtImage = {
   partSlugs: [
     "built-image/alanwalton-calendar-sync",
     "built-image/auth-proxy",
+    "built-image/bun-git",
     "built-image/ci",
     "built-image/gfs-promoter",
     "file-property/image-extensions",

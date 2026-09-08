@@ -22,7 +22,7 @@ export const SERVICES: Record<string, ServiceConfig> = {
   "bun-git": {
     type: "tool-image",
     dir: "infrastructure/dockerfiles",
-    extensionFile: "bun-git.dockerfile-extensions.json",
+    extensionFile: "../built-images/bun-git/bun-git.built-image.extensions.json",
   },
   buildkit: {
     type: "tool-image",
