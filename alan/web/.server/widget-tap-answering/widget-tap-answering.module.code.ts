@@ -23,13 +23,6 @@ export function answerWidgetTapAsked(request: Request): Response {
   return Response.json({ ok: false, error: "A tap is carried in." }, { status: 405, headers: cors })
 }
 
-/**
- * A tap counted on the widget the body names.
- *
- * THE PHONE HOLDS NO RELAY SECRET, so the guard the relay route presents cannot admit a tap. A tap
- * arrives out of the web view under the account's own bearer token, which is what the push
- * registration route beside this one is already shaped for.
- */
 export async function answerWidgetTap(
   request: Request,
   resolveContext: TokenResolver = resolveDeviceTokenContext,
