@@ -2,7 +2,7 @@ import { lineOf } from "@akasha/code/code-source"
 import ts from "typescript"
 import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 
-const RUNNER_AT = "utils-run/running/"
+const RUNNER_AT = "utils/run/running/"
 
 const CHILD = "node:child_process"
 
