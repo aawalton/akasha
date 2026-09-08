@@ -1,13 +1,9 @@
-import { literalOf } from "@akasha/code/code-source"
+import { exported, literalOf } from "@akasha/code/code-source"
 import ts from "typescript"
 
 export function keyOf(held: ts.PropertyAssignment): string | null {
   const name = held.name
   return ts.isIdentifier(name) || ts.isStringLiteral(name) ? name.text : null
-}
-
-function exported(statement: ts.VariableStatement): boolean {
-  return statement.modifiers?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword) === true
 }
 
 export function literalIn(source: ts.SourceFile): ts.ObjectLiteralExpression | null {

@@ -1,3 +1,4 @@
+import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 import { isHardcodedSurfaceLiteral } from "../jsx-surface-tokens/jsx-surface-tokens.module.code.ts"
 
@@ -20,12 +21,8 @@ export function mayHoldSurfaceLiteral(source: string): boolean {
   return source.includes(SURFACE_TOKEN_TEXT)
 }
 
-function scriptKindOf(filename: string): ts.ScriptKind {
-  return filename.endsWith(".tsx") ? ts.ScriptKind.TSX : ts.ScriptKind.TS
-}
-
 function parse(source: string, filename: string): ts.SourceFile {
-  return ts.createSourceFile(filename, source, ts.ScriptTarget.ESNext, true, scriptKindOf(filename))
+  return parsedAs(filename, source)
 }
 
 export function findSurfaceLiteralSites(

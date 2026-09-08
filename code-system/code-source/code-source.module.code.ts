@@ -31,3 +31,7 @@ export function literalOf(node: ts.Expression): ts.ObjectLiteralExpression | nul
   if (ts.isAsExpression(node) || ts.isSatisfiesExpression(node)) return literalOf(node.expression)
   return null
 }
+
+export function exported(statement: ts.VariableStatement): boolean {
+  return statement.modifiers?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword) === true
+}

@@ -1,4 +1,4 @@
-import { lineOf, parsedAs } from "@akasha/code/code-source"
+import { exported, lineOf, parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 import {
   judgingEach,
@@ -45,13 +45,9 @@ function idIn(source: ts.SourceFile, object: ts.ObjectLiteralExpression): Stated
   return null
 }
 
-function exported(node: ts.VariableStatement): boolean {
-  return node.modifiers?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword) === true
-}
-
 export function statedIn(path: string, text: string): readonly Stated[] {
   const source = parsedAs(path, text)
-  const found: Stated[] = []
+  const held: Stated[] = []
   for (const statement of source.statements) {
     if (!ts.isVariableStatement(statement) || !exported(statement)) continue
     for (const declared of statement.declarationList.declarations) {
@@ -60,10 +56,10 @@ export function statedIn(path: string, text: string): readonly Stated[] {
       const object = objectOf(initializer)
       if (object === null) continue
       const stated = idIn(source, object)
-      if (stated !== null) found.push(stated)
+      if (stated !== null) held.push(stated)
     }
   }
-  return found
+  return held
 }
 
 function reasonFor(one: Stated): string | null {

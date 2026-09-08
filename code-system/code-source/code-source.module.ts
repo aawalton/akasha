@@ -28,6 +28,11 @@ export const codeSource = {
         "The object literal a declaration holds is answered past whatever casts wrap the object literal.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Whether a declaration is exported is read from the modifiers that declaration carries.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges a body or knows why the body is read.",
     },
