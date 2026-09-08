@@ -52,6 +52,19 @@ export const moveFileCode = {
       statement: "The imports left over the carry are judged by the guard this change names.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A manifest naming the carried file as a way in states the path that file landed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which manifests name that file is read from the index rather than from the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The way in is restated by the change this change reaches for a manifest.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here works out a body of its own.",
     },

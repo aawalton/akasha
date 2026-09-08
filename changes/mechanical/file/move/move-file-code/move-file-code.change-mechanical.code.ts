@@ -1,4 +1,6 @@
-import { extname } from "node:path"
+import { dirname, extname } from "node:path"
+import { reachesIn } from "@akasha/code/package-manifest"
+import { manifestsIn } from "@akasha/indexes/package-reaching"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type {
@@ -8,6 +10,8 @@ import type {
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
+
+const CHANGE_MANIFEST_WAYS = "change-mechanical-file-content/change-manifest-ways"
 
 const MOVE_FILE = "change-mechanical-file/move-file"
 
@@ -43,6 +47,15 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     const held = seen.textOf(path)
     if (held === null) return refusing(`\`${path}\` names what moved and could not be read`)
     const said = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved })
+    if (said.said.refused !== null) return said.said
+    edits.push(...said.said.edits)
+    seen = said.world
+  }
+  for (const at of manifestsIn(seen.index.everyPath(), seen.index.fileKeysAt())) {
+    const held = seen.textOf(at)
+    if (held === null) continue
+    if (![...reachesIn(dirname(at), held).values()].includes(given.from)) continue
+    const said = await reach(seen, CHANGE_MANIFEST_WAYS, { at, moved })
     if (said.said.refused !== null) return said.said
     edits.push(...said.said.edits)
     seen = said.world
