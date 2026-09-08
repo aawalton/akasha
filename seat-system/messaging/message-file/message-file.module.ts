@@ -33,11 +33,15 @@ export const messageFile = {
     },
     {
       invariantKind: "departure",
-      statement: "The messages there are what the index answers for the message page type.",
+      statement: "A message page composed outside the one folder read here is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A message page composed outside the folder a message is written to is refused.",
+      statement: "A message is claimed and taken by a path composed from that message's id.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A message is reached by the index rather than by listing one folder.",
     },
     {
       invariantKind: "departure",
