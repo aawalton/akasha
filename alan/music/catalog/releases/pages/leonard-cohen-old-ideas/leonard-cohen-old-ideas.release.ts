@@ -5,7 +5,7 @@ export const leonardCohenOldIdeas = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-old-ideas",
   title: "Old Ideas",
-  partOfSlugs: ["leonard-cohen"],
+  partOfCollectionSlugs: ["leonard-cohen"],
   position: 0,
   ownLength: 41.4315,
   ownProgress: 0,

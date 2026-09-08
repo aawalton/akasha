@@ -5,7 +5,7 @@ export const leonardCohenPopularProblems = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-popular-problems",
   title: "Popular Problems",
-  partOfSlugs: ["leonard-cohen"],
+  partOfCollectionSlugs: ["leonard-cohen"],
   position: 0,
   ownLength: 36.000617,
   ownProgress: 0,

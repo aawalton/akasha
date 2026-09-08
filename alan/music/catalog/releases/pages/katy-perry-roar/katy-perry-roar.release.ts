@@ -5,7 +5,7 @@ export const katyPerryRoar = {
   pageTypeSlug: "release",
   slug: "katy-perry-roar",
   title: "Roar",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 3.7111,
   ownProgress: 3.7111,

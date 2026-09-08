@@ -5,7 +5,7 @@ export const ledZeppelinPresenceRemaster = {
   pageTypeSlug: "release",
   slug: "led-zeppelin-presence-remaster",
   title: "Presence (Remaster)",
-  partOfSlugs: ["led-zeppelin"],
+  partOfCollectionSlugs: ["led-zeppelin"],
   position: 0,
   ownLength: 44.796183,
   ownProgress: 0,

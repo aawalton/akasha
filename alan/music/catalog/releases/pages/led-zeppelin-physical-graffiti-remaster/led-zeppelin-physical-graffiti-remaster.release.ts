@@ -5,7 +5,7 @@ export const ledZeppelinPhysicalGraffitiRemaster = {
   pageTypeSlug: "release",
   slug: "led-zeppelin-physical-graffiti-remaster",
   title: "Physical Graffiti (Remaster)",
-  partOfSlugs: ["led-zeppelin"],
+  partOfCollectionSlugs: ["led-zeppelin"],
   position: 0,
   ownLength: 82.897467,
   ownProgress: 0,

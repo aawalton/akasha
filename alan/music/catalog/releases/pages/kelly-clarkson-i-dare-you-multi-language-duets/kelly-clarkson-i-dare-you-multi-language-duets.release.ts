@@ -5,7 +5,7 @@ export const kellyClarksonIDareYouMultiLanguageDuets = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-dare-you-multi-language-duets",
   title: "I Dare You (Multi-Language Duets)",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 21.646483,
   ownProgress: 21.646483,

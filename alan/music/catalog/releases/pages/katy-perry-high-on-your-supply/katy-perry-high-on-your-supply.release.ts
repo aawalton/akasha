@@ -5,7 +5,7 @@ export const katyPerryHighOnYourSupply = {
   pageTypeSlug: "release",
   slug: "katy-perry-high-on-your-supply",
   title: "High On Your Supply",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 4,
   ownProgress: 4,

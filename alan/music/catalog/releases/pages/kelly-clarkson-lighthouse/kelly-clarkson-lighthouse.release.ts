@@ -5,7 +5,7 @@ export const kellyClarksonLighthouse = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-lighthouse",
   title: "lighthouse",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 6.833567,
   ownProgress: 6.833567,

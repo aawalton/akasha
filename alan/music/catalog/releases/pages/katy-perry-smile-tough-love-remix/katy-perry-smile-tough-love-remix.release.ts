@@ -5,7 +5,7 @@ export const katyPerrySmileToughLoveRemix = {
   pageTypeSlug: "release",
   slug: "katy-perry-smile-tough-love-remix",
   title: "Smile (Tough Love Remix)",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 2.783717,
   ownProgress: 2.783717,

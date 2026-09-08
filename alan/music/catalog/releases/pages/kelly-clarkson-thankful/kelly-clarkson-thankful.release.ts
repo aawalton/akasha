@@ -5,7 +5,7 @@ export const kellyClarksonThankful = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-thankful",
   title: "Thankful",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 45.600167,
   ownProgress: 45.600167,

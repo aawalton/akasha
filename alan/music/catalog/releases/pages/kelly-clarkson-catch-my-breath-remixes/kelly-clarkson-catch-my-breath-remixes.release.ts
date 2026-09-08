@@ -5,7 +5,7 @@ export const kellyClarksonCatchMyBreathRemixes = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-catch-my-breath-remixes",
   title: "Catch My Breath Remixes",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 36.768833,
   ownProgress: 36.768833,

@@ -5,7 +5,7 @@ export const kellyClarksonPieceByPieceRadioMix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-piece-by-piece-radio-mix",
   title: "Piece by Piece (Radio Mix)",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.745333,
   ownProgress: 3.745333,

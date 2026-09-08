@@ -5,7 +5,7 @@ export const justinTimberlakeBelieveFeatJustinTimberlake = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-believe-feat-justin-timberlake",
   title: "Believe (feat. Justin Timberlake)",
-  partOfSlugs: ["justin-timberlake"],
+  partOfCollectionSlugs: ["justin-timberlake"],
   position: 0,
   ownLength: 3.521717,
   ownProgress: 0,

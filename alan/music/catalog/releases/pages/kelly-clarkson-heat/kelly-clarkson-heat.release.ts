@@ -5,7 +5,7 @@ export const kellyClarksonHeat = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-heat",
   title: "Heat",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.166667,
   ownProgress: 3.166667,

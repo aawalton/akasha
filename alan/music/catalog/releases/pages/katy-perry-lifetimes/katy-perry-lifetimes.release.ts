@@ -5,7 +5,7 @@ export const katyPerryLifetimes = {
   pageTypeSlug: "release",
   slug: "katy-perry-lifetimes",
   title: "LIFETIMES",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 3.2,
   ownProgress: 3.2,

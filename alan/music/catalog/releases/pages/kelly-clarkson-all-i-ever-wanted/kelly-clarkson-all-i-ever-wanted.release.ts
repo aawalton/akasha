@@ -5,7 +5,7 @@ export const kellyClarksonAllIEverWanted = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-all-i-ever-wanted",
   title: "All I Ever Wanted",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 58.874117,
   ownProgress: 58.874117,

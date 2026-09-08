@@ -5,7 +5,7 @@ export const katyPerryWhenIMGoneWithKatyPerry = {
   pageTypeSlug: "release",
   slug: "katy-perry-when-i-m-gone-with-katy-perry",
   title: "When I’m Gone (with Katy Perry)",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 2.687767,
   ownProgress: 2.687767,

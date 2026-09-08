@@ -5,7 +5,7 @@ export const leonardCohenYouWantItDarker = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-you-want-it-darker",
   title: "You Want It Darker",
-  partOfSlugs: ["leonard-cohen"],
+  partOfCollectionSlugs: ["leonard-cohen"],
   position: 0,
   ownLength: 36.211967,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const leonardCohenIMYourMan = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-i-m-your-man",
   title: "I'm Your Man",
-  partOfSlugs: ["leonard-cohen"],
+  partOfCollectionSlugs: ["leonard-cohen"],
   position: 0,
   ownLength: 40.801717,
   ownProgress: 0,

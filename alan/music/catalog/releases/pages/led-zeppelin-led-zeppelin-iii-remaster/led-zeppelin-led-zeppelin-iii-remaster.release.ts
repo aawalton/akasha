@@ -5,7 +5,7 @@ export const ledZeppelinLedZeppelinIiiRemaster = {
   pageTypeSlug: "release",
   slug: "led-zeppelin-led-zeppelin-iii-remaster",
   title: "Led Zeppelin III (Remaster)",
-  partOfSlugs: ["led-zeppelin"],
+  partOfCollectionSlugs: ["led-zeppelin"],
   position: 0,
   ownLength: 43.1406,
   ownProgress: 0,

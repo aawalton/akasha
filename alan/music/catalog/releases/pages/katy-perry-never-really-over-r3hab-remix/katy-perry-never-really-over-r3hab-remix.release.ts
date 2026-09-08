@@ -5,7 +5,7 @@ export const katyPerryNeverReallyOverR3habRemix = {
   pageTypeSlug: "release",
   slug: "katy-perry-never-really-over-r3hab-remix",
   title: "Never Really Over (R3HAB Remix)",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 3.127917,
   ownProgress: 3.127917,

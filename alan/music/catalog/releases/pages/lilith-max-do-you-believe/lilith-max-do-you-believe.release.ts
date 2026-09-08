@@ -5,7 +5,7 @@ export const lilithMaxDoYouBelieve = {
   pageTypeSlug: "release",
   slug: "lilith-max-do-you-believe",
   title: "Do You Believe",
-  partOfSlugs: ["lilith-max"],
+  partOfCollectionSlugs: ["lilith-max"],
   position: 0,
   ownLength: 2.8685,
   ownProgress: 2.8685,

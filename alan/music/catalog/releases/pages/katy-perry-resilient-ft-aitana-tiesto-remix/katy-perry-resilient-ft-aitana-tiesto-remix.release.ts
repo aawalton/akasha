@@ -5,7 +5,7 @@ export const katyPerryResilientFtAitanaTiestoRemix = {
   pageTypeSlug: "release",
   slug: "katy-perry-resilient-ft-aitana-tiesto-remix",
   title: "Resilient (ft. Aitana) [Tiësto Remix]",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 3.315767,
   ownProgress: 3.315767,

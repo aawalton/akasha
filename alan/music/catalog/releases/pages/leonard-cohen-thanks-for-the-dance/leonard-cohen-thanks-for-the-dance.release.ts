@@ -5,7 +5,7 @@ export const leonardCohenThanksForTheDance = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-thanks-for-the-dance",
   title: "Thanks for the Dance",
-  partOfSlugs: ["leonard-cohen"],
+  partOfCollectionSlugs: ["leonard-cohen"],
   position: 0,
   ownLength: 29.351733,
   ownProgress: 0,

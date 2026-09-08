@@ -5,7 +5,7 @@ export const kellyClarksonWrappedInRedRuffLoaderzRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-wrapped-in-red-ruff-loaderz-remix",
   title: "Wrapped In Red (Ruff Loaderz Remix)",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 10.1875,
   ownProgress: 10.1875,

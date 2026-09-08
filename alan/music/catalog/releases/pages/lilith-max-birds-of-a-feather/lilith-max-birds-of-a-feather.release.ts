@@ -5,7 +5,7 @@ export const lilithMaxBirdsOfAFeather = {
   pageTypeSlug: "release",
   slug: "lilith-max-birds-of-a-feather",
   title: "Birds of a Feather",
-  partOfSlugs: ["lilith-max"],
+  partOfCollectionSlugs: ["lilith-max"],
   position: 0,
   ownLength: 2.97585,
   ownProgress: 2.97585,

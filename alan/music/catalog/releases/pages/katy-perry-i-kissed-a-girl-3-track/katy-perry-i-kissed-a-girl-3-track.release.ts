@@ -5,7 +5,7 @@ export const katyPerryIKissedAGirl3Track = {
   pageTypeSlug: "release",
   slug: "katy-perry-i-kissed-a-girl-3-track",
   title: "I Kissed A Girl (3-Track)",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 13.344433,
   ownProgress: 13.344433,

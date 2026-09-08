@@ -5,7 +5,7 @@ export const katyPerryWavingThroughAWindowFromDearEvanHansen = {
   pageTypeSlug: "release",
   slug: "katy-perry-waving-through-a-window-from-dear-evan-hansen",
   title: "Waving Through A Window (from Dear Evan Hansen)",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 3.9331,
   ownProgress: 3.9331,

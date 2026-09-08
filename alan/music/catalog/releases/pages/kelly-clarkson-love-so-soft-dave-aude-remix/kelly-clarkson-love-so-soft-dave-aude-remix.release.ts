@@ -5,7 +5,7 @@ export const kellyClarksonLoveSoSoftDaveAudeRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-love-so-soft-dave-aude-remix",
   title: "Love So Soft (Dave Aude Remix)",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.946117,
   ownProgress: 3.946117,

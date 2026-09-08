@@ -5,7 +5,7 @@ export const katyPerryCampKaty = {
   pageTypeSlug: "release",
   slug: "katy-perry-camp-katy",
   title: "Camp Katy",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 21.976517,
   ownProgress: 21.976517,

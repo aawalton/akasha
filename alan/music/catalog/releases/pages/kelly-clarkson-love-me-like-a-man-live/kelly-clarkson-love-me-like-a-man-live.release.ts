@@ -5,7 +5,7 @@ export const kellyClarksonLoveMeLikeAManLive = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-love-me-like-a-man-live",
   title: "Love Me Like a Man (Live)",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.2367,
   ownProgress: 3.2367,

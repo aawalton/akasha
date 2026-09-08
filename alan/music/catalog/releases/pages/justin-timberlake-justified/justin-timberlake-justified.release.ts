@@ -5,7 +5,7 @@ export const justinTimberlakeJustified = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-justified",
   title: "Justified",
-  partOfSlugs: ["justin-timberlake"],
+  partOfCollectionSlugs: ["justin-timberlake"],
   position: 0,
   ownLength: 63.352133,
   ownProgress: 63.352133,

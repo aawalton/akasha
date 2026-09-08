@@ -5,7 +5,7 @@ export const leonardCohenSongsFromTheRoad = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-songs-from-the-road",
   title: "Songs From The Road",
-  partOfSlugs: ["leonard-cohen"],
+  partOfCollectionSlugs: ["leonard-cohen"],
   position: 0,
   ownLength: 67.2717,
   ownProgress: 0,

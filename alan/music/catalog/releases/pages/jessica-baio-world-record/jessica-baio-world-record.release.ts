@@ -5,7 +5,7 @@ export const jessicaBaioWorldRecord = {
   pageTypeSlug: "release",
   slug: "jessica-baio-world-record",
   title: "world record",
-  partOfSlugs: ["jessica-baio"],
+  partOfCollectionSlugs: ["jessica-baio"],
   position: 0,
   ownLength: 3.0238,
   ownProgress: 3.0238,

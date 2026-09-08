@@ -5,7 +5,7 @@ export const ledZeppelinLedZeppelinXLedZeppelin = {
   pageTypeSlug: "release",
   slug: "led-zeppelin-led-zeppelin-x-led-zeppelin",
   title: "Led Zeppelin x Led Zeppelin",
-  partOfSlugs: ["led-zeppelin"],
+  partOfCollectionSlugs: ["led-zeppelin"],
   position: 0,
   ownLength: 156.519083,
   ownProgress: 0,

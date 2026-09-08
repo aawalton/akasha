@@ -5,7 +5,7 @@ export const kellyClarksonSpotifySinglesHoliday = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-spotify-singles-holiday",
   title: "Spotify Singles - Holiday",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 2.940417,
   ownProgress: 2.940417,

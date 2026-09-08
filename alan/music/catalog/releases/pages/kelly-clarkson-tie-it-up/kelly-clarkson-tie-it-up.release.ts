@@ -5,7 +5,7 @@ export const kellyClarksonTieItUp = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-tie-it-up",
   title: "Tie It Up",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 2.798433,
   ownProgress: 2.798433,

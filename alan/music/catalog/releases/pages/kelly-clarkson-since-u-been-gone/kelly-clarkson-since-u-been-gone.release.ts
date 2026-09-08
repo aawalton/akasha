@@ -5,7 +5,7 @@ export const kellyClarksonSinceUBeenGone = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-since-u-been-gone",
   title: "Since U Been Gone",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 7.109767,
   ownProgress: 7.109767,

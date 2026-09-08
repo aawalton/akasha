@@ -5,7 +5,7 @@ export const katyPerryElectric = {
   pageTypeSlug: "release",
   slug: "katy-perry-electric",
   title: "Electric",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 3.225717,
   ownProgress: 3.225717,

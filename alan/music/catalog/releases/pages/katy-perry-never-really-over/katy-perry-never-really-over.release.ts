@@ -5,7 +5,7 @@ export const katyPerryNeverReallyOver = {
   pageTypeSlug: "release",
   slug: "katy-perry-never-really-over",
   title: "Never Really Over",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 3.725383,
   ownProgress: 3.725383,

@@ -5,7 +5,7 @@ export const kellyClarksonFixYouLive = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-fix-you-live",
   title: "Fix You (Live)",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 4.007867,
   ownProgress: 4.007867,

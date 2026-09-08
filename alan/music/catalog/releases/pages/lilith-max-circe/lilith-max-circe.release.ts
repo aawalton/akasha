@@ -5,7 +5,7 @@ export const lilithMaxCirce = {
   pageTypeSlug: "release",
   slug: "lilith-max-circe",
   title: "Circe",
-  partOfSlugs: ["lilith-max"],
+  partOfCollectionSlugs: ["lilith-max"],
   position: 0,
   ownLength: 3.126367,
   ownProgress: 3.126367,

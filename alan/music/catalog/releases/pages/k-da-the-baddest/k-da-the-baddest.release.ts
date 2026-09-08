@@ -5,7 +5,7 @@ export const kDaTheBaddest = {
   pageTypeSlug: "release",
   slug: "k-da-the-baddest",
   title: "THE BADDEST",
-  partOfSlugs: ["k-da"],
+  partOfCollectionSlugs: ["k-da"],
   position: 0,
   ownLength: 2.71,
   ownProgress: 2.71,

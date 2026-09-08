@@ -5,7 +5,7 @@ export const kellyClarksonIMMovinOn = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-m-movin-on",
   title: "I'm Movin' On",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.7411,
   ownProgress: 3.7411,

@@ -5,7 +5,7 @@ export const leonardCohenVariousPositions = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-various-positions",
   title: "Various Positions",
-  partOfSlugs: ["leonard-cohen"],
+  partOfCollectionSlugs: ["leonard-cohen"],
   position: 0,
   ownLength: 35.3015,
   ownProgress: 0,

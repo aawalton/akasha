@@ -5,7 +5,7 @@ export const kellyClarksonKellyoke = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-kellyoke",
   title: "Kellyoke",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 22.27965,
   ownProgress: 22.27965,

@@ -5,7 +5,7 @@ export const kellyClarksonDjPlayAChristmasSong = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-dj-play-a-christmas-song",
   title: "DJ Play A Christmas Song",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 4.042217,
   ownProgress: 4.042217,

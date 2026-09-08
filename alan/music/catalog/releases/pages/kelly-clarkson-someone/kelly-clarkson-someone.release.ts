@@ -5,7 +5,7 @@ export const kellyClarksonSomeone = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-someone",
   title: "Someone",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.664533,
   ownProgress: 3.664533,

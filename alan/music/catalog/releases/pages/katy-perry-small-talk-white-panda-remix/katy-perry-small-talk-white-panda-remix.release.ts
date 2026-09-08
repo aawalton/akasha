@@ -5,7 +5,7 @@ export const katyPerrySmallTalkWhitePandaRemix = {
   pageTypeSlug: "release",
   slug: "katy-perry-small-talk-white-panda-remix",
   title: "Small Talk (White Panda Remix)",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 3.206317,
   ownProgress: 3.206317,

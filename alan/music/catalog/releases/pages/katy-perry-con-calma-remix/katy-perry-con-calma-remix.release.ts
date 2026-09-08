@@ -5,7 +5,7 @@ export const katyPerryConCalmaRemix = {
   pageTypeSlug: "release",
   slug: "katy-perry-con-calma-remix",
   title: "Con Calma (Remix)",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 3.021333,
   ownProgress: 3.021333,

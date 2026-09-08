@@ -5,7 +5,7 @@ export const leonardCohenNewSkinForTheOldCeremony = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-new-skin-for-the-old-ceremony",
   title: "New Skin For The Old Ceremony",
-  partOfSlugs: ["leonard-cohen"],
+  partOfCollectionSlugs: ["leonard-cohen"],
   position: 0,
   ownLength: 36.774833,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const kellyClarksonIHateLoveFeatSteveMartin = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-hate-love-feat-steve-martin",
   title: "i hate love (feat. Steve Martin)",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 13.240033,
   ownProgress: 13.240033,

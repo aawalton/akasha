@@ -5,7 +5,7 @@ export const katyPerrySmileMarshallJeffersonRemix = {
   pageTypeSlug: "release",
   slug: "katy-perry-smile-marshall-jefferson-remix",
   title: "Smile (Marshall Jefferson Remix)",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 2.645933,
   ownProgress: 2.645933,

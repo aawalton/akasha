@@ -5,7 +5,7 @@ export const katyPerrySwishSwishValentinoKhanRemix = {
   pageTypeSlug: "release",
   slug: "katy-perry-swish-swish-valentino-khan-remix",
   title: "Swish Swish (Valentino Khan Remix)",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 3.34375,
   ownProgress: 3.34375,

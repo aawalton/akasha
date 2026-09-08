@@ -5,7 +5,7 @@ export const justinTimberlakeTkoRadioEdit = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-tko-radio-edit",
   title: "TKO (Radio Edit)",
-  partOfSlugs: ["justin-timberlake"],
+  partOfCollectionSlugs: ["justin-timberlake"],
   position: 0,
   ownLength: 4.810433,
   ownProgress: 0,

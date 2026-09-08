@@ -5,7 +5,7 @@ export const katyPerryBonAppetitMunaRemix = {
   pageTypeSlug: "release",
   slug: "katy-perry-bon-appetit-muna-remix",
   title: "Bon Appétit (MUNA Remix)",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 3.356433,
   ownProgress: 3.356433,

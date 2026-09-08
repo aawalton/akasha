@@ -5,7 +5,7 @@ export const kellyClarksonFavoriteKindOfHighDavidGuettaRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-favorite-kind-of-high-david-guetta-remix",
   title: "favorite kind of high (David Guetta Remix)",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 5.483333,
   ownProgress: 5.483333,

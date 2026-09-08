@@ -5,7 +5,7 @@ export const kDaMore = {
   pageTypeSlug: "release",
   slug: "k-da-more",
   title: "MORE",
-  partOfSlugs: ["k-da"],
+  partOfCollectionSlugs: ["k-da"],
   position: 0,
   ownLength: 3.618133,
   ownProgress: 3.618133,

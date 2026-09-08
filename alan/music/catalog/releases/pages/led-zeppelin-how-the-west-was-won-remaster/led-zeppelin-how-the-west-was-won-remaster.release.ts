@@ -5,7 +5,7 @@ export const ledZeppelinHowTheWestWasWonRemaster = {
   pageTypeSlug: "release",
   slug: "led-zeppelin-how-the-west-was-won-remaster",
   title: "How the West Was Won (Remaster)",
-  partOfSlugs: ["led-zeppelin"],
+  partOfCollectionSlugs: ["led-zeppelin"],
   position: 0,
   ownLength: 148.202783,
   ownProgress: 0,

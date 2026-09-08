@@ -5,7 +5,7 @@ export const katyPerryWitnessDeluxe = {
   pageTypeSlug: "release",
   slug: "katy-perry-witness-deluxe",
   title: "Witness (Deluxe)",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 65.117717,
   ownProgress: 65.117717,

@@ -5,7 +5,7 @@ export const katyPerryAllYouNeedIsLove = {
   pageTypeSlug: "release",
   slug: "katy-perry-all-you-need-is-love",
   title: "All You Need Is Love",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 3.435633,
   ownProgress: 3.435633,

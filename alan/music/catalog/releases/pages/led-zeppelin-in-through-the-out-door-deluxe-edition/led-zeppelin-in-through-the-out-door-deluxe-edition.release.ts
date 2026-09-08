@@ -5,7 +5,7 @@ export const ledZeppelinInThroughTheOutDoorDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "led-zeppelin-in-through-the-out-door-deluxe-edition",
   title: "In Through the out Door (Deluxe Edition)",
-  partOfSlugs: ["led-zeppelin"],
+  partOfCollectionSlugs: ["led-zeppelin"],
   position: 0,
   ownLength: 85.4843,
   ownProgress: 0,

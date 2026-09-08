@@ -5,7 +5,7 @@ export const justinTimberlakeDrown = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-drown",
   title: "Drown",
-  partOfSlugs: ["justin-timberlake"],
+  partOfCollectionSlugs: ["justin-timberlake"],
   position: 0,
   ownLength: 4.335333,
   ownProgress: 0,

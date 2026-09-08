@@ -5,7 +5,7 @@ export const katyPerryTeenageDreamRemixEp = {
   pageTypeSlug: "release",
   slug: "katy-perry-teenage-dream-remix-ep",
   title: "Teenage Dream - Remix EP",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 17.656667,
   ownProgress: 17.656667,

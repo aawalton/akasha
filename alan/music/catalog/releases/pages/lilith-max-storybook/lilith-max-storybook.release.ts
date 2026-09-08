@@ -5,7 +5,7 @@ export const lilithMaxStorybook = {
   pageTypeSlug: "release",
   slug: "lilith-max-storybook",
   title: "Storybook",
-  partOfSlugs: ["lilith-max"],
+  partOfCollectionSlugs: ["lilith-max"],
   position: 0,
   ownLength: 16.166217,
   ownProgress: 16.166217,

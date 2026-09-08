@@ -5,7 +5,7 @@ export const kellyClarksonRollingStoneOriginal = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-rolling-stone-original",
   title: "Rolling Stone Original",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 10.612217,
   ownProgress: 10.612217,

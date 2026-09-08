@@ -5,7 +5,7 @@ export const katyPerrySmileGiorgioMoroderRemix = {
   pageTypeSlug: "release",
   slug: "katy-perry-smile-giorgio-moroder-remix",
   title: "Smile (Giorgio Moroder Remix)",
-  partOfSlugs: ["katy-perry"],
+  partOfCollectionSlugs: ["katy-perry"],
   position: 0,
   ownLength: 3.120017,
   ownProgress: 3.120017,

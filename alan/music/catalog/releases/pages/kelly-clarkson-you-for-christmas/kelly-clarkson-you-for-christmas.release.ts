@@ -5,7 +5,7 @@ export const kellyClarksonYouForChristmas = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-you-for-christmas",
   title: "You For Christmas",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 2.900067,
   ownProgress: 2.900067,

@@ -5,7 +5,7 @@ export const kellyClarksonPeopleLikeUsRemixes = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-people-like-us-remixes",
   title: "People Like Us (Remixes)",
-  partOfSlugs: ["kelly-clarkson"],
+  partOfCollectionSlugs: ["kelly-clarkson"],
   position: 0,
   ownLength: 33.903317,
   ownProgress: 33.903317,

@@ -5,7 +5,7 @@ export const justinTimberlakeSupplies = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-supplies",
   title: "Supplies",
-  partOfSlugs: ["justin-timberlake"],
+  partOfCollectionSlugs: ["justin-timberlake"],
   position: 0,
   ownLength: 3.76,
   ownProgress: 0,

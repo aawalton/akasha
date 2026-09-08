@@ -5,7 +5,7 @@ export const lilithMaxLeaveTheArmor = {
   pageTypeSlug: "release",
   slug: "lilith-max-leave-the-armor",
   title: "Leave the Armor",
-  partOfSlugs: ["lilith-max"],
+  partOfCollectionSlugs: ["lilith-max"],
   position: 0,
   ownLength: 4.282933,
   ownProgress: 4.282933,
