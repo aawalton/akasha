@@ -230,6 +230,7 @@ export const clusterCheck = {
     "module/walk-package-tree",
     "module/widget-sites",
     "module/workspace-import-graph",
+    "module/workspace-packages",
   ],
   properties: [
     {
