@@ -5,7 +5,7 @@ export const delve0095095Pressure = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0095-095-pressure",
   title: "095: Pressure",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 95,
   ownLength: 4742,
   unitSlug: "words",

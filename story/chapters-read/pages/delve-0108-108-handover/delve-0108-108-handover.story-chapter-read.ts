@@ -5,7 +5,7 @@ export const delve0108108Handover = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0108-108-handover",
   title: "108: Handover",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 108,
   ownLength: 5321,
   unitSlug: "words",

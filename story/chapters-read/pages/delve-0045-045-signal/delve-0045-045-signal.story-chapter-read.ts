@@ -5,7 +5,7 @@ export const delve0045045Signal = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0045-045-signal",
   title: "045: Signal",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 45,
   ownLength: 3332,
   unitSlug: "words",

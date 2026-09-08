@@ -5,7 +5,7 @@ export const delve0188188Proximity = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0188-188-proximity",
   title: "188: Proximity",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 188,
   ownLength: 4361,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const delve0143143Care = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0143-143-care",
   title: "143: Care",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 143,
   ownLength: 7073,
   unitSlug: "words",

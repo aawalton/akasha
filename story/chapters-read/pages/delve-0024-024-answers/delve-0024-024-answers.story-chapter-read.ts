@@ -5,7 +5,7 @@ export const delve0024024Answers = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0024-024-answers",
   title: "024: Answers",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 24,
   ownLength: 3498,
   unitSlug: "words",

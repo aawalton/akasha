@@ -5,7 +5,7 @@ export const delve0194194Vessel = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0194-194-vessel",
   title: "194: Vessel",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 194,
   ownLength: 4482,
   unitSlug: "words",

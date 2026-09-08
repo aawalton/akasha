@@ -5,7 +5,7 @@ export const delve0144144Precipitation = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0144-144-precipitation",
   title: "144: Precipitation",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 144,
   ownLength: 4412,
   unitSlug: "words",

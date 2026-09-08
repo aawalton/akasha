@@ -5,7 +5,7 @@ export const delve0063063Assessment = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0063-063-assessment",
   title: "063: Assessment",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 63,
   ownLength: 6614,
   unitSlug: "words",

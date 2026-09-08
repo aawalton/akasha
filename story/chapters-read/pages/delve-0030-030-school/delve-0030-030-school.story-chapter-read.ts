@@ -5,7 +5,7 @@ export const delve0030030School = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0030-030-school",
   title: "030: School",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 30,
   ownLength: 3502,
   unitSlug: "words",

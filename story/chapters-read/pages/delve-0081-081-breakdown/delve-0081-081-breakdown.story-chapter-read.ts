@@ -5,7 +5,7 @@ export const delve0081081Breakdown = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0081-081-breakdown",
   title: "081: Breakdown",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 81,
   ownLength: 6393,
   unitSlug: "words",

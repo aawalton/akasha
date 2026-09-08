@@ -5,7 +5,7 @@ export const delve0029029Practice = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0029-029-practice",
   title: "029: Practice",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 29,
   ownLength: 3210,
   unitSlug: "words",

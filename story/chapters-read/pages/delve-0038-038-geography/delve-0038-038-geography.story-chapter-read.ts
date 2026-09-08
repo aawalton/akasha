@@ -5,7 +5,7 @@ export const delve0038038Geography = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0038-038-geography",
   title: "038: Geography",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 38,
   ownLength: 3674,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const delve0190190Communication = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0190-190-communication",
   title: "190: Communication",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 190,
   ownLength: 4343,
   unitSlug: "words",

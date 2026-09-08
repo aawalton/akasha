@@ -5,7 +5,7 @@ export const delve0062062Complication = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0062-062-complication",
   title: "062: Complication",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 62,
   ownLength: 5129,
   unitSlug: "words",

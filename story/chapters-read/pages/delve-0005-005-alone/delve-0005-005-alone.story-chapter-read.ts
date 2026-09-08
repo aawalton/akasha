@@ -5,7 +5,7 @@ export const delve0005005Alone = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0005-005-alone",
   title: "005: Alone",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 5,
   ownLength: 2632,
   unitSlug: "words",

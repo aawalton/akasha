@@ -5,7 +5,7 @@ export const delve0004004Statistics = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0004-004-statistics",
   title: "004: Statistics",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 4,
   ownLength: 5605,
   unitSlug: "words",

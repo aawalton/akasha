@@ -5,7 +5,7 @@ export const delve0106106Imprint = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0106-106-imprint",
   title: "106: Imprint",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 106,
   ownLength: 6002,
   unitSlug: "words",

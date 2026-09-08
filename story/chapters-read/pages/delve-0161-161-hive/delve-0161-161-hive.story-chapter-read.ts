@@ -5,7 +5,7 @@ export const delve0161161Hive = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0161-161-hive",
   title: "161: Hive",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 161,
   ownLength: 3303,
   unitSlug: "words",

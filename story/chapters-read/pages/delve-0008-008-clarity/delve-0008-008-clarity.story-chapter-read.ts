@@ -5,7 +5,7 @@ export const delve0008008Clarity = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0008-008-clarity",
   title: "008: Clarity",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 8,
   ownLength: 3175,
   unitSlug: "words",

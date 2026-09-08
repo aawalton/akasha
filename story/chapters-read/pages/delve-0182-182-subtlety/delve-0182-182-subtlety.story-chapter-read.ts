@@ -5,7 +5,7 @@ export const delve0182182Subtlety = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0182-182-subtlety",
   title: "182: Subtlety",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 182,
   ownLength: 4746,
   unitSlug: "words",

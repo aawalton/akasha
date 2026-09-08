@@ -5,7 +5,7 @@ export const delve0199199Unprecedented = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0199-199-unprecedented",
   title: "199: Unprecedented",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 199,
   ownLength: 3896,
   unitSlug: "words",
