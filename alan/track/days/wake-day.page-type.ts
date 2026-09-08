@@ -282,6 +282,16 @@ export const wakeDay = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A day begins at the end of the first sleep block starting or running past six the evening before.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A stretch titled rest is sleep not yet known to be sleep and is titled sleep in the morning.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A boundary is worked out from the sleep sessions when the boundary is read.",
     },
     {
