@@ -5,9 +5,9 @@ export const beatSaberReCueUpperDaysRestOnLegs = {
   pageTypeSlug: "coaching-note",
   slug: "beat-saber-re-cue-upper-days-rest-on-legs",
   title: "Beat Saber re-cue (upper days; rest on legs)",
-  coachingConstraintActive: true,
+  coachingNoteActive: true,
   focusTags: ["push", "pull", "upper", "legs"],
-  coachingConstraintKind: "programming-cue",
-  coachingConstraintSortOrder: 12,
+  coachingNoteKind: "programming-cue",
+  coachingNoteSortOrder: 12,
   asks: "txt",
 } as const satisfies CoachingNote

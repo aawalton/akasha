@@ -5,8 +5,8 @@ export const wristStiffnessPushupsHistoricallyOnFists = {
   pageTypeSlug: "coaching-note",
   slug: "wrist-stiffness-pushups-historically-on-fists",
   title: "Wrist stiffness — pushups historically on fists",
-  coachingConstraintActive: true,
+  coachingNoteActive: true,
   focusTags: ["push", "all"],
-  coachingConstraintKind: "programming-cue",
+  coachingNoteKind: "programming-cue",
   asks: "txt",
 } as const satisfies CoachingNote

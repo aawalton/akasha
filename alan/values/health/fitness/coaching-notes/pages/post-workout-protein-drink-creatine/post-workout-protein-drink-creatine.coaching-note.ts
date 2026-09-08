@@ -5,9 +5,9 @@ export const postWorkoutProteinDrinkCreatine = {
   pageTypeSlug: "coaching-note",
   slug: "post-workout-protein-drink-creatine",
   title: "Post-workout: protein drink + creatine",
-  coachingConstraintActive: true,
+  coachingNoteActive: true,
   focusTags: ["all"],
-  coachingConstraintKind: "programming-cue",
-  coachingConstraintSortOrder: 11,
+  coachingNoteKind: "programming-cue",
+  coachingNoteSortOrder: 11,
   asks: "txt",
 } as const satisfies CoachingNote

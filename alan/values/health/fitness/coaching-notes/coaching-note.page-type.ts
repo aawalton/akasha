@@ -1,18 +1,18 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../../pages/properties/title.text-property.ts"
-import type { CoachingConstraintActive } from "./properties/coaching-note-active.boolean-property.ts"
-import type { CoachingConstraintKind } from "./properties/coaching-note-kind.select-property.ts"
-import type { CoachingConstraintSortOrder } from "./properties/coaching-note-sort-order.number-property.ts"
+import type { CoachingNoteActive } from "./properties/coaching-note-active.boolean-property.ts"
+import type { CoachingNoteKind } from "./properties/coaching-note-kind.select-property.ts"
+import type { CoachingNoteSortOrder } from "./properties/coaching-note-sort-order.number-property.ts"
 import type { FocusTags } from "./properties/focus-tags.select-property.ts"
 import type { Asks } from "./properties/says.file-property.ts"
 
 export type CoachingNote = Page & {
   title: Title
-  coachingConstraintActive: CoachingConstraintActive
+  coachingNoteActive: CoachingNoteActive
   focusTags: readonly FocusTags[]
-  coachingConstraintKind: CoachingConstraintKind
-  coachingConstraintSortOrder?: CoachingConstraintSortOrder
+  coachingNoteKind: CoachingNoteKind
+  coachingNoteSortOrder?: CoachingNoteSortOrder
   asks?: Asks
 }
 

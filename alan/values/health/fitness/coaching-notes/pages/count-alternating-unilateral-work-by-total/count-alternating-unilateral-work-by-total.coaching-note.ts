@@ -5,9 +5,9 @@ export const countAlternatingUnilateralWorkByTotal = {
   pageTypeSlug: "coaching-note",
   slug: "count-alternating-unilateral-work-by-total",
   title: "Count alternating/unilateral work by TOTAL",
-  coachingConstraintActive: true,
+  coachingNoteActive: true,
   focusTags: ["all"],
-  coachingConstraintKind: "ef-accommodation",
-  coachingConstraintSortOrder: 4,
+  coachingNoteKind: "ef-accommodation",
+  coachingNoteSortOrder: 4,
   asks: "txt",
 } as const satisfies CoachingNote

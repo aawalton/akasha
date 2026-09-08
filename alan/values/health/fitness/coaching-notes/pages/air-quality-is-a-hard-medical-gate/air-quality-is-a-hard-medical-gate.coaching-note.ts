@@ -5,9 +5,9 @@ export const airQualityIsAHardMedicalGate = {
   pageTypeSlug: "coaching-note",
   slug: "air-quality-is-a-hard-medical-gate",
   title: "Air quality is a hard medical gate",
-  coachingConstraintActive: true,
+  coachingNoteActive: true,
   focusTags: ["all"],
-  coachingConstraintKind: "medical-gate",
-  coachingConstraintSortOrder: 5,
+  coachingNoteKind: "medical-gate",
+  coachingNoteSortOrder: 5,
   asks: "txt",
 } as const satisfies CoachingNote

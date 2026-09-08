@@ -5,9 +5,9 @@ export const preDecideTheWorkoutOneSetAtATime = {
   pageTypeSlug: "coaching-note",
   slug: "pre-decide-the-workout-one-set-at-a-time",
   title: "Pre-decide the workout — one set at a time",
-  coachingConstraintActive: true,
+  coachingNoteActive: true,
   focusTags: ["all"],
-  coachingConstraintKind: "ef-accommodation",
-  coachingConstraintSortOrder: 10,
+  coachingNoteKind: "ef-accommodation",
+  coachingNoteSortOrder: 10,
   asks: "txt",
 } as const satisfies CoachingNote

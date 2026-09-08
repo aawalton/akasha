@@ -5,9 +5,9 @@ export const legsArentStrengthLimitedAtHomeLoads = {
   pageTypeSlug: "coaching-note",
   slug: "legs-arent-strength-limited-at-home-loads",
   title: "Legs aren't strength-limited at home loads",
-  coachingConstraintActive: true,
+  coachingNoteActive: true,
   focusTags: ["legs"],
-  coachingConstraintKind: "programming-cue",
-  coachingConstraintSortOrder: 8,
+  coachingNoteKind: "programming-cue",
+  coachingNoteSortOrder: 8,
   asks: "txt",
 } as const satisfies CoachingNote

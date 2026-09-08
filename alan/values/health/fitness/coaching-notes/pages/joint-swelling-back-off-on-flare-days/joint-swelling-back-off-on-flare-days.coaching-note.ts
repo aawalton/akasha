@@ -5,9 +5,9 @@ export const jointSwellingBackOffOnFlareDays = {
   pageTypeSlug: "coaching-note",
   slug: "joint-swelling-back-off-on-flare-days",
   title: "Joint swelling — back off on flare days",
-  coachingConstraintActive: true,
+  coachingNoteActive: true,
   focusTags: ["all"],
-  coachingConstraintKind: "injury-watch",
-  coachingConstraintSortOrder: 7,
+  coachingNoteKind: "injury-watch",
+  coachingNoteSortOrder: 7,
   asks: "txt",
 } as const satisfies CoachingNote

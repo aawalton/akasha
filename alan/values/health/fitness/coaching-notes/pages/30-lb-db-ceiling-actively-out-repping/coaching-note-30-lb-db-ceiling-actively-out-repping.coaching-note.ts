@@ -5,9 +5,9 @@ export const coachingNote30LbDbCeilingActivelyOutRepping = {
   pageTypeSlug: "coaching-note",
   slug: "coaching-note-30-lb-db-ceiling-actively-out-repping",
   title: "30 lb DB ceiling — actively out-repping",
-  coachingConstraintActive: true,
+  coachingNoteActive: true,
   focusTags: ["push", "pull"],
-  coachingConstraintKind: "equipment-ceiling",
-  coachingConstraintSortOrder: 3,
+  coachingNoteKind: "equipment-ceiling",
+  coachingNoteSortOrder: 3,
   asks: "txt",
 } as const satisfies CoachingNote

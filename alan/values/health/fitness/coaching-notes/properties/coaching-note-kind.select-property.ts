@@ -4,8 +4,8 @@ export const coachingNoteKind = {
   id: "01a0657a-fe00-7149-b974-3ad13dd29e09",
   pageTypeSlug: "select-property",
   slug: "coaching-note-kind",
-  propertySlug: "coaching-constraint-kind",
-  definition: "what sort of limit the constraint is",
+  propertySlug: "coaching-note-kind",
+  definition: "what sort of note this is",
   values: [
     "medical-gate",
     "programming-cue",
@@ -15,4 +15,4 @@ export const coachingNoteKind = {
   ],
 } as const satisfies SelectProperty
 
-export type CoachingConstraintKind = (typeof coachingNoteKind.values)[number]
+export type CoachingNoteKind = (typeof coachingNoteKind.values)[number]

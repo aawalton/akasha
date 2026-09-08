@@ -5,9 +5,9 @@ export const overheadMobility50NoForcedLockout = {
   pageTypeSlug: "coaching-note",
   slug: "overhead-mobility-50-no-forced-lockout",
   title: "Overhead mobility ~50% — no forced lockout",
-  coachingConstraintActive: true,
+  coachingNoteActive: true,
   focusTags: ["push"],
-  coachingConstraintKind: "programming-cue",
-  coachingConstraintSortOrder: 1,
+  coachingNoteKind: "programming-cue",
+  coachingNoteSortOrder: 1,
   asks: "txt",
 } as const satisfies CoachingNote

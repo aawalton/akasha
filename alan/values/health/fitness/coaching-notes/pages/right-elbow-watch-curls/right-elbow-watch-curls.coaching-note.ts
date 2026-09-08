@@ -5,9 +5,9 @@ export const rightElbowWatchCurls = {
   pageTypeSlug: "coaching-note",
   slug: "right-elbow-watch-curls",
   title: "Right elbow — watch curls",
-  coachingConstraintActive: true,
+  coachingNoteActive: true,
   focusTags: ["pull"],
-  coachingConstraintKind: "injury-watch",
-  coachingConstraintSortOrder: 6,
+  coachingNoteKind: "injury-watch",
+  coachingNoteSortOrder: 6,
   asks: "txt",
 } as const satisfies CoachingNote

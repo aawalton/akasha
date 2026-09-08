@@ -5,9 +5,9 @@ export const horizontalPressingIsElbowSafe = {
   pageTypeSlug: "coaching-note",
   slug: "horizontal-pressing-is-elbow-safe",
   title: "Horizontal pressing is elbow-safe",
-  coachingConstraintActive: true,
+  coachingNoteActive: true,
   focusTags: ["push"],
-  coachingConstraintKind: "programming-cue",
-  coachingConstraintSortOrder: 2,
+  coachingNoteKind: "programming-cue",
+  coachingNoteSortOrder: 2,
   asks: "txt",
 } as const satisfies CoachingNote

@@ -5,7 +5,7 @@ export const focusTags = {
   pageTypeSlug: "select-property",
   slug: "focus-tags",
   propertySlug: "focus-tags",
-  definition: "which training focuses the constraint reaches",
+  definition: "which training focuses a note reaches",
   values: [
     "push",
     "pull",
