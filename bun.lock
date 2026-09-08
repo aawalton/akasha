@@ -1072,7 +1072,6 @@
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-run": "workspace:*",
         "yaml": "^2.8.0",
-        "zod": "^4.3.6",
       },
     },
     "infrastructure/cluster/provisioning/talos": {

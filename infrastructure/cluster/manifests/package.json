@@ -4,7 +4,6 @@
   "type": "module",
   "exports": {
     "./app-namespaces-synth": "./app-namespaces-synth/app-namespaces-synth.module.code.ts",
-    "./manifest-yaml-reading": "./manifest-yaml-reading/manifest-yaml-reading.module.code.ts",
     "./orphan-resource-audit": "./orphan-resource-audit/orphan-resource-audit.module.code.ts",
     "./orphan-resource-listing": "./orphan-resource-listing/orphan-resource-listing.module.code.ts",
     "./orphan-sweep-notice": "./orphan-sweep-notice/orphan-sweep-notice.module.code.ts",
@@ -20,7 +19,6 @@
     "@akasha/seat-system": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-run": "workspace:*",
-    "yaml": "^2.8.0",
-    "zod": "^4.3.6"
+    "yaml": "^2.8.0"
   }
 }
