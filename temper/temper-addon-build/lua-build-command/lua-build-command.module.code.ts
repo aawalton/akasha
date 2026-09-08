@@ -3,11 +3,11 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 
 const COMPILER_PACKAGE = "language-design/lua-compiler"
 
-export const COMPILER_ENTRY = "tstl-cli/tstl-cli.module.code.ts"
+export const COMPILER_ENTRY = "cli-run/cli-run.module.code.ts"
 
 const PLUGIN_FILES = [
-  "tstl-plugin-tstl-no-truthy-numbers/tstl-plugin-tstl-no-truthy-numbers.module.code.ts",
-  "tstl-plugin-tstl-no-multi-store/tstl-plugin-tstl-no-multi-store.module.code.ts",
+  "plugin-no-truthy-numbers/plugin-no-truthy-numbers.module.code.ts",
+  "plugin-no-multi-store/plugin-no-multi-store.module.code.ts",
 ] as const
 
 export function tstlRoot(stated?: string): string {
