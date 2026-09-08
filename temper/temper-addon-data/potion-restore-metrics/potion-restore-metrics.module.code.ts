@@ -142,7 +142,7 @@ export function generatePotionRestoreMetrics(
  * matcher and the in-game addon classify a potion identically (parity).
  *
  * Pure data (no functions, no bitwise/regex) so it bundles cleanly into the
- * TSTL Lua addon as well as the web build.
+ * compiled Lua addon as well as the web build.
  *
  * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
