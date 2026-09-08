@@ -40,6 +40,11 @@ export const theaChecksSystem = {
       workingMemory:
         "186 files under routes/ across seven web apps and code-system, against 12 route pages. Split off the wider claiming because it waits on Alan rather than on reading: one route page type is shared, a slug is unique per page type, and so `home` cannot be written seven times. Alan is settling that separately, under uniquePropertySlug, which names the property a value is unique within. Resume once a route slug is unique within its app rather than across every app.",
     },
+    {
+      statement: "Every runtime helper the Lua compiler carries is a page.",
+      workingMemory:
+        "124 files under lualib/src are claimed by nothing, the old page type saying a file here carries no page of its own, which Alan calls a gap. One page per exported name: 135 names, less five doubled by the universal and 5.0 overlay, so 130 pages. Five files become folders, Error at 6 and Scheduling at 5 the largest. Stages: the page type, then the compiler reading pages, then one helper a landing, then dropping the fallback. Hold the emitted Lua to the byte with /var/tmp/imip/lualib-driver.ts.",
+    },
   ],
   constraints: [
     "Each check takes one turn per step, and no turn carries two steps.",
