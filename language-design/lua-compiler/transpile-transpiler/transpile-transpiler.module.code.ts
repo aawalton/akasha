@@ -119,7 +119,7 @@ export function createTranspiler({ emitHost = ts.sys }: TranspilerOptions = {}):
       }
     }
 
-    if (options.tstlVerbose === true) {
+    if (options.verbose === true) {
       console.log("Emit finished!")
     }
 
