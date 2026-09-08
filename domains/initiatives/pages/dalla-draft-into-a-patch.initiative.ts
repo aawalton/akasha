@@ -34,11 +34,6 @@ export const dallaDraftIntoAPatch = {
         "`landedMechanically` lands straight onto the tree at its one remaining call site, `subagent-presence`. Every other program reaches `applied` through `runMechanicalChange`, and `change-apply` reaches `applying` through `apply-running`. Those two entries into `applying.module.code.ts` are the one path that works a patch out and applies it. The patch stays inside the landing rather than being kept.",
     },
     {
-      statement: "Only `akasha change` drafts changes.",
-      workingMemory:
-        "`change-draft`, `change-apply` and `change-drop` are the acts, and `change-apply` works on a patch rather than making one. Every other command declares `change-mechanical` and lands through `runMechanicalChange`, which is right. `landedMechanically` takes an `agentId` that drafts rather than lands, and no caller hands one.",
-    },
-    {
       statement: "A draft survives between commands in the store an agent's page declares.",
       workingMemory:
         "`drafting` writes and commits `<agent page>.patch.diff`, which no page declares, and reads it back in a later process. The declared `edits` file is `uncommitted: true` and its successor is there: `edits-keeping`, `edits-landing`, `subagent-handed:37`. The last two patch readers are in the frozen presence file and both are drafted away: 9 handed edits fold at HEAD, deleting `tookInUnder`, `patchesUnder` and their callers. They wait on the ceiling. Take them from `dalla-a4d2c944de0c8052d`.\n",
