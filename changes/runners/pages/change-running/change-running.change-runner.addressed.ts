@@ -14,6 +14,9 @@ export type Changes = {
   "change-agent/change-page-property-text": Parameters<
     typeof import("../../../agent/file-content/change-page-property-text/change-page-property-text.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/move-folder": Parameters<
+    typeof import("../../../agent/folder/move-folder/move-folder.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/move-folder-package": Parameters<
     typeof import("../../../agent/folder/move-folder-package/move-folder-package.change-agent.code.ts")["runChange"]
   >[1]
@@ -46,9 +49,6 @@ export type Changes = {
   >[1]
   "change-checked/change-page-page-type": Parameters<
     typeof import("../../../agent/file/change-page-page-type/change-page-page-type.change-checked.code.ts")["runChange"]
-  >[1]
-  "change-checked/move-folder": Parameters<
-    typeof import("../../../agent/folder/move-folder/move-folder.change-checked.code.ts")["runChange"]
   >[1]
   "change-checked/remove-page": Parameters<
     typeof import("../../../agent/file/remove-page/remove-page.change-checked.code.ts")["runChange"]

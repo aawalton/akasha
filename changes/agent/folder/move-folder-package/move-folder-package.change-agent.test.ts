@@ -19,7 +19,7 @@ import {
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { runChange as renamePageChange } from "../../file/rename-page/rename-page.change-agent.code.ts"
-import { runChange as moveFolderChange } from "../move-folder/move-folder.change-checked.code.ts"
+import { runChange as moveFolderChange } from "../move-folder/move-folder.change-agent.code.ts"
 import {
   landingFor,
   moveFolderPackage,
@@ -80,7 +80,7 @@ const HELD: Readonly<Record<string, string>> = {
 }
 
 const REACHED = {
-  "change-checked/move-folder": moveFolderChange,
+  "change-agent/move-folder": moveFolderChange,
   "change-agent/rename-page": renamePageChange,
   "change-mechanical-file-content/change-imports": changeImports,
   "change-mechanical-file-content/rename-export": renameExport,

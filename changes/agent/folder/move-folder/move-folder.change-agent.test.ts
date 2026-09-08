@@ -8,7 +8,7 @@ import {
   type World,
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { moveFolder, runChange } from "./move-folder.change-checked.code.ts"
+import { moveFolder, runChange } from "./move-folder.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 

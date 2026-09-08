@@ -1,8 +1,8 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const moveFolder = {
   id: "01a07c54-a9b0-797b-add8-8e9d734c5213",
-  pageTypeSlug: "change-checked",
+  pageTypeSlug: "change-agent",
   slug: "move-folder",
   changeModeSlug: "change-mode-move",
   definition: "one folder and every file under it carried to another path",
@@ -50,4 +50,4 @@ export const moveFolder = {
       statement: "Nothing here changes the data a page states.",
     },
   ],
-} as const satisfies ChangeChecked
+} as const satisfies ChangeAgent

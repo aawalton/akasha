@@ -14,7 +14,7 @@ const AT = "at"
 
 const TO = "to"
 
-const MOVE_FOLDER = "change-checked/move-folder"
+const MOVE_FOLDER = "change-agent/move-folder"
 
 const RENAME_PAGE = "change-agent/rename-page"
 
