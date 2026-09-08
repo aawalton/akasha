@@ -24,7 +24,7 @@ export const temperAddonBuild = {
   helpNotes: [
     "one addon is named or `--all` is said, never both and never neither.",
     "`--watch` takes one addon, copies nothing and installs nothing, so `--all` and `--build-only` are refused beside it.",
-    "an addon folder holding no `tsconfig.json` has one written into `dist/.tstl/` from the bundle entry its page names.",
+    "an addon folder holding no `tsconfig.json` has one written into `dist/.lua-compiler/` from the bundle entry its page names.",
     "the answer says how many bytes of Lua each addon left, because a compiler writing nothing and a compiler finding nothing wrong read alike.",
     "installing waits on `temper-addon-install`, so `--build-only` is said or the call is refused before anything compiles.",
     "the addon's build output is emptied before the compiler runs, and the metadata is written back once the Lua is there.",
