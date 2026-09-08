@@ -11,6 +11,7 @@ export const standardAgentEnglishTerm = {
     "page-type/foreign-name-term",
     "page-type/term",
     "page-type/allowed-term",
+    "page-type/banned-term",
   ],
   invariants: [
     {
