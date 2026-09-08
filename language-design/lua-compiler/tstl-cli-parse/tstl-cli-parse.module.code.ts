@@ -1,3 +1,4 @@
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import * as ts from "typescript"
 import { z } from "zod"
 import * as cliDiagnostics from "../tstl-cli-diagnostics/tstl-cli-diagnostics.module.code.ts"
@@ -115,7 +116,7 @@ export const optionDeclarations: CommandLineOption[] = [
 export function updateParsedConfigFile(parsedConfigFile: ts.ParsedCommandLine): ParsedCommandLine {
   let hasRootLevelOptions = false
   for (const [name, rawValue] of Object.entries(parsedConfigFile.raw)) {
-    const option = optionDeclarations.find((option) => option.name === name)
+    const option = optionDeclarations.find((declaration) => declaration.name === name)
     if (!option) continue
 
     if (parsedConfigFile.raw.tstl === undefined) parsedConfigFile.raw.tstl = {}
@@ -131,7 +132,7 @@ export function updateParsedConfigFile(parsedConfigFile: ts.ParsedCommandLine): 
     }
 
     for (const [name, rawValue] of Object.entries(parsedConfigFile.raw.tstl)) {
-      const option = optionDeclarations.find((option) => option.name === name)
+      const option = optionDeclarations.find((declaration) => declaration.name === name)
       if (!option) {
         parsedConfigFile.errors.push(cliDiagnostics.unknownCompilerOption(name))
         continue
@@ -160,10 +161,10 @@ function updateParsedCommandLine(
 
     const isShorthand = !arg.startsWith("--")
     const argumentName = arg.substring(isShorthand ? 1 : 2)
-    const option = optionDeclarations.find((option) => {
-      if (option.name.toLowerCase() === argumentName.toLowerCase()) return true
-      if (isShorthand && option.aliases) {
-        return option.aliases.some((a) => a.toLowerCase() === argumentName.toLowerCase())
+    const option = optionDeclarations.find((declaration) => {
+      if (declaration.name.toLowerCase() === argumentName.toLowerCase()) return true
+      if (isShorthand && declaration.aliases) {
+        return declaration.aliases.some((a) => a.toLowerCase() === argumentName.toLowerCase())
       }
 
       return false
@@ -192,7 +193,7 @@ interface CommandLineArgument extends ReadValueResult {
   consumed: boolean
 }
 
-function readCommandLineArgument(option: CommandLineOption, value: any): CommandLineArgument {
+function readCommandLineArgument(option: CommandLineOption, value: unknown): CommandLineArgument {
   if (option.type === "boolean") {
     if (value === "true" || value === "false") {
       value = value === "true"
@@ -220,7 +221,7 @@ type OptionSource = (typeof OptionSource)[keyof typeof OptionSource]
 
 interface ReadValueResult {
   error?: ts.Diagnostic
-  value: any
+  value: ts.CompilerOptionsValue
 }
 
 function readValue(
@@ -230,56 +231,45 @@ function readValue(
 ): ReadValueResult {
   if (value === null) return { value }
 
-  switch (option.type) {
-    case "boolean":
-    case "string": {
-      if (typeof value !== option.type) {
-        return {
-          value: undefined,
-          error: cliDiagnostics.compilerOptionRequiresAValueOfType(option.name, option.type),
-        }
-      }
+  const wrongType = (): ReadValueResult => ({
+    value: undefined,
+    error: cliDiagnostics.compilerOptionRequiresAValueOfType(option.name, option.type),
+  })
 
+  switch (option.type) {
+    case "boolean": {
+      if (typeof value !== "boolean") return wrongType()
+      return { value }
+    }
+    case "string": {
+      if (typeof value !== "string") return wrongType()
       return { value }
     }
     case "array":
     case "json-array-of-objects": {
-      const isInvalidNonCliValue = source === OptionSource.TsConfig && !Array.isArray(value)
-      const isInvalidCliValue = source === OptionSource.CommandLine && typeof value !== "string"
+      if (source === OptionSource.CommandLine) {
+        if (typeof value !== "string") return wrongType()
 
-      if (isInvalidNonCliValue || isInvalidCliValue) {
-        return {
-          value: undefined,
-          error: cliDiagnostics.compilerOptionRequiresAValueOfType(option.name, option.type),
+        if (option.type === "array") {
+          return { value: value.split(",") }
         }
-      }
 
-      const shouldParseValue = source === OptionSource.CommandLine && typeof value === "string"
-      if (!shouldParseValue) return { value }
+        try {
+          const objects = JsonArraySchema.parse(JSON.parse(value))
+          if (!Array.isArray(objects)) return wrongType()
+          return { value: objects }
+        } catch (e) {
+          if (!(e instanceof SyntaxError)) throw e
 
-      if (option.type === "array") {
-        const array = value.split(",")
-        return { value: array }
-      }
-
-      try {
-        const objects = JsonArraySchema.parse(JSON.parse(value))
-        if (!Array.isArray(objects)) {
           return {
             value: undefined,
-            error: cliDiagnostics.compilerOptionRequiresAValueOfType(option.name, option.type),
+            error: cliDiagnostics.compilerOptionCouldNotParseJson(option.name, e.message),
           }
         }
-
-        return { value: objects }
-      } catch (e) {
-        if (!(e instanceof SyntaxError)) throw e
-
-        return {
-          value: undefined,
-          error: cliDiagnostics.compilerOptionCouldNotParseJson(option.name, e.message),
-        }
       }
+
+      if (!Array.isArray(value)) return wrongType()
+      return { value }
     }
     case "enum": {
       if (typeof value !== "string") {
@@ -300,5 +290,7 @@ function readValue(
 
       return { value: enumValue }
     }
+    default:
+      return assertNever(option)
   }
 }
