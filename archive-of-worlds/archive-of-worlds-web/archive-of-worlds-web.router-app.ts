@@ -18,6 +18,7 @@ export const archiveOfWorldsWeb = {
   sidebarBoot: "js",
   gitIgnore: "gitignore",
   routeTypesDirectory: true,
+  declarationDirectory: true,
   partSlugs: [
     "manifest/archive-of-worlds-web-manifests",
     "stylesheet/archive-of-worlds-web-look",

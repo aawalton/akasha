@@ -16,6 +16,7 @@ export const smilingjennyWeb = {
   server: "ts",
   gitIgnore: "gitignore",
   routeTypesDirectory: true,
+  declarationDirectory: true,
   partSlugs: [
     "manifest/smilingjenny-web-manifests",
     "stylesheet/smilingjenny-web-look",

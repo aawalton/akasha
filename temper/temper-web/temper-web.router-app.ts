@@ -21,6 +21,7 @@ export const temperWeb = {
   gitIgnore: "gitignore",
   testPreload: "toml",
   routeTypesDirectory: true,
+  declarationDirectory: true,
   partSlugs: [
     "manifest/temper-web-manifests",
     "stylesheet/temper-web-look",

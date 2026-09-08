@@ -20,6 +20,7 @@ export const alanWeb = {
   gitIgnore: "gitignore",
   testPreload: "toml",
   routeTypesDirectory: true,
+  declarationDirectory: true,
   partSlugs: [
     "manifest/alanwalton-web",
     "stylesheet/alan-web-look",

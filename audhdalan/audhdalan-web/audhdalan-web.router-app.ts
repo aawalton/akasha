@@ -16,6 +16,7 @@ export const audhdalanWeb = {
   server: "ts",
   gitIgnore: "gitignore",
   routeTypesDirectory: true,
+  declarationDirectory: true,
   partSlugs: [
     "manifest/audhdalan-web-manifests",
     "stylesheet/audhdalan-web-look",

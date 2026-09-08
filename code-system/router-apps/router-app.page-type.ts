@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../workspace-packages/workspace-package.p
 import type { AddonBundleImage } from "./properties/addon-bundle-image.named-file-property.ts"
 import type { AppLayout } from "./properties/app-layout.named-file-property.ts"
 import type { CompileConfig } from "./properties/compile-config.named-file-property.ts"
+import type { DeclarationDirectory } from "./properties/declaration-directory.build-folder-property.ts"
 import type { PlaceholderImage } from "./properties/placeholder-image.named-file-property.ts"
 import type { RootRoute } from "./properties/root-route.named-file-property.ts"
 import type { RouteTable } from "./properties/route-table.named-file-property.ts"
@@ -32,6 +33,7 @@ export type RouterApp = WorkspacePackage & {
   gitIgnore?: RouterAppGitIgnore
   testPreload?: TestPreload
   routeTypesDirectory?: RouteTypesDirectory
+  declarationDirectory?: DeclarationDirectory
 }
 
 export const routerApp = {
@@ -57,6 +59,7 @@ export const routerApp = {
     "named-file-property/vite-config",
     "type-declaration/vite-client",
     "build-folder-property/route-types-directory",
+    "build-folder-property/declaration-directory",
   ],
   extendsSlug: ["page-type/workspace-package"],
   properties: [
@@ -80,6 +83,11 @@ export const routerApp = {
     { pagePropertySlug: "named-file-property/test-preload", required: false, many: false },
     {
       pagePropertySlug: "build-folder-property/route-types-directory",
+      required: false,
+      many: false,
+    },
+    {
+      pagePropertySlug: "build-folder-property/declaration-directory",
       required: false,
       many: false,
     },
