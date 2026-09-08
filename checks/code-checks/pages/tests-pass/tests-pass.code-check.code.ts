@@ -8,7 +8,6 @@ import {
   spentOver,
   testsBesideOf,
 } from "@akasha/code/code-tests"
-import { SERVED } from "@akasha/code/test-bodies"
 import type { Bodies } from "@akasha/code/test-overlay"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
@@ -112,7 +111,7 @@ export function reasonOf(ran: Ran, named: readonly string[]): string {
 }
 
 export function spelledIn(output: string, root: string): string {
-  return output.replaceAll(`${SERVED}:${root}/`, "").replaceAll(`${root}/`, "")
+  return output.replaceAll(`${root}/`, "")
 }
 
 export function bodiesOf(change: Change): Bodies {
