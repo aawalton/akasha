@@ -1,4 +1,4 @@
-import * as path from "path"
+import * as path from "node:path"
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
@@ -65,7 +65,7 @@ function isDeclarationOnlyModule(
 ): boolean {
   if (isNoResolutionPath(context, moduleSpecifier)) return false
   const found = resolvedFileFor(context, moduleSpecifier)
-  return found !== undefined && found.isDeclarationFile
+  return found?.isDeclarationFile ?? false
 }
 
 export function createModuleRequire(
