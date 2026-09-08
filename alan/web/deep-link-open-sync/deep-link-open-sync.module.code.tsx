@@ -11,9 +11,6 @@ import {
   type PluginListenerHandle,
 } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
 
-// THE WIDGET'S NAME IS READ OFF THE RAW LINK, not off the path the link routes to.
-// `decideOpenUrlRoute` builds that path from the pathname and the search alone, so the name sits in
-// the fragment where it cannot change where the tap lands.
 function countTap(url: string): undefined {
   const widget = widgetTapped(url)
   if (widget === null) return
@@ -47,15 +44,6 @@ export function DeepLinkOpenSync() {
       return
     }
 
-    // A COLD LAUNCH CAN DELIVER ONE TAP TWICE. The link the app was launched by reaches both
-    // readers below, and which of the two is handed that link first is the plugin's to decide. So
-    // each reader knows what the other took: the launch read is skipped where the listener already
-    // carried the link, and the listener spends a one-shot the launch read leaves behind. Whatever
-    // the listener carries next spends that one-shot, so a tap on another widget clears it and only
-    // the widget that launched the app can lose a tap: the next tap on that widget, where nothing
-    // came between, reads as the launch link arriving twice. The link alone cannot tell those two
-    // apart. How far apart the two arrive would — one event delivered twice lands inside a
-    // millisecond, where a person has to background the app and come back — and this holds no clock.
     let carried: string | null = null
     let launchRepeat: string | null = null
 
