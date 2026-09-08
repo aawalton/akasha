@@ -20,7 +20,28 @@ export const seatLaunching = {
     {
       invariantKind: "departure",
       statement:
+        "A seat's supervisor is started by a shell that has read the secrets held outside the repo.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That shell exports every name the secrets file gives.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A secrets file that is not there is no reason to refuse the launch.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The supervisor replaces that shell rather than running beneath it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The tmux variables of the terminal launching a seat are scrubbed from the inherited environment.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The scrub clears the startup file a bash it hands over to would read.",
     },
     {
       invariantKind: "departure",

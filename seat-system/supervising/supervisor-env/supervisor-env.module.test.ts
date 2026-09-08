@@ -90,6 +90,32 @@ test("remote control writes the socket, token and scopes together", () => {
   expect(held.CLAUDE_CODE_SDK_HAS_HOST_AUTH_REFRESH).toBe("1")
 })
 
+test("a name the supervisor carries that is no session or routing key reaches the child", () => {
+  const held = buildSupervisorEnv({
+    ...BASE,
+    baseEnv: {
+      BROWSER_TEST_URL: "https://example.invalid",
+      BROWSER_TEST_EMAIL: "nobody@example.invalid",
+      BROWSER_TEST_PASSWORD: "not-a-password",
+      SUPABASE_URL: "https://example.invalid",
+      SUPABASE_ANON_KEY: "not-a-key",
+      SUPABASE_SERVICE_ROLE_KEY: "not-a-key-either",
+    },
+  })
+  expect(held.BROWSER_TEST_URL).toBe("https://example.invalid")
+  expect(held.BROWSER_TEST_EMAIL).toBe("nobody@example.invalid")
+  expect(held.BROWSER_TEST_PASSWORD).toBe("not-a-password")
+  expect(held.SUPABASE_URL).toBe("https://example.invalid")
+  expect(held.SUPABASE_ANON_KEY).toBe("not-a-key")
+  expect(held.SUPABASE_SERVICE_ROLE_KEY).toBe("not-a-key-either")
+})
+
+test("a name carrying newlines reaches the child whole", () => {
+  const pem = "-----BEGIN PRIVATE KEY-----\nfirst\nsecond\n-----END PRIVATE KEY-----\n"
+  const held = buildSupervisorEnv({ ...BASE, baseEnv: { INVENTED_PEM: pem } })
+  expect(held.INVENTED_PEM).toBe(pem)
+})
+
 test("the agent, session and config directory are always stated", () => {
   const held = buildSupervisorEnv({ ...BASE, baseEnv: {} })
   expect(held.AGENT_ID).toBe("a")

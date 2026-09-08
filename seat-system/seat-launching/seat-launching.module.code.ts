@@ -43,7 +43,13 @@ const SCOPE_FLAGS: readonly string[] = [
   `TasksMax=${String(SEAT_TASKS)}`,
 ]
 
-const ENV_SCRUB: readonly string[] = ["env", "-u", "TMUX", "-u", "TMUX_PANE"]
+const ENV_SCRUB: readonly string[] = ["env", "-u", "TMUX", "-u", "TMUX_PANE", "BASH_ENV="]
+
+const SECRETS_FILE = '"$HOME/.secrets.env"'
+
+const SECRETS_SOURCE = `set -a; [ -f ${SECRETS_FILE} ] && . ${SECRETS_FILE}; set +a; exec "$@"`
+
+const SECRETS_ARGV0 = "seat-supervisor"
 
 const SERVER_OPTIONS: readonly (readonly string[])[] = [
   ["set-option", "-g", "history-limit", TMUX_HISTORY_LIMIT],
@@ -104,12 +110,29 @@ export function scopeUnitFor(name: string, at: number): string {
   return `tmux-seat-${name}-${String(at)}`
 }
 
+export function secretsSourcedArgv(): readonly string[] {
+  return ["bash", "-c", SECRETS_SOURCE, SECRETS_ARGV0]
+}
+
+export function secretsSourcedShell(): string {
+  return `bash -c '${SECRETS_SOURCE}' ${SECRETS_ARGV0}`
+}
+
 export function supervisorEntryArgv(root: string): readonly string[] {
-  return ["bun", "run", `${root}/${PTY_PROXY_REL}`, "--", "bun", "run", `${root}/${SUPERVISOR_REL}`]
+  return [
+    ...secretsSourcedArgv(),
+    "bun",
+    "run",
+    `${root}/${PTY_PROXY_REL}`,
+    "--",
+    "bun",
+    "run",
+    `${root}/${SUPERVISOR_REL}`,
+  ]
 }
 
 export function supervisorEntryShell(proxy: string, supervisor: string): string {
-  return ["bun", "run", proxy, "--", "bun", "run", supervisor].join(" ")
+  return [secretsSourcedShell(), "bun", "run", proxy, "--", "bun", "run", supervisor].join(" ")
 }
 
 export function launchModeFlags(headless: boolean): readonly string[] {

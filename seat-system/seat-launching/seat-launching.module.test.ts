@@ -16,6 +16,8 @@ import {
   scopeShell,
   scopeUnitFor,
   seatStartDir,
+  secretsSourcedArgv,
+  secretsSourcedShell,
   serverOptionArgv,
   serverOptionShell,
   shellQuoted,
@@ -28,6 +30,9 @@ import {
 const ROOT = "/repos/akasha"
 
 const START_DIR = "/repos"
+
+const SECRETS_LINE =
+  'set -a; [ -f "$HOME/.secrets.env" ] && . "$HOME/.secrets.env"; set +a; exec "$@"'
 
 function asked(over: Partial<SeatLaunch> = {}): SeatLaunch {
   return {
@@ -63,8 +68,13 @@ function fake(
 }
 
 test("the terminal's own tmux variables are scrubbed from what a seat inherits", () => {
-  expect(envScrubArgv()).toEqual(["env", "-u", "TMUX", "-u", "TMUX_PANE"])
-  expect(envScrubShell()).toBe("env -u TMUX -u TMUX_PANE")
+  expect(envScrubArgv()).toEqual(["env", "-u", "TMUX", "-u", "TMUX_PANE", "BASH_ENV="])
+  expect(envScrubShell()).toBe("env -u TMUX -u TMUX_PANE BASH_ENV=")
+})
+
+test("the scrub is not undone by a startup file the next bash would read", () => {
+  expect(envScrubArgv()).toContain("BASH_ENV=")
+  expect(envScrubShell().endsWith("BASH_ENV=")).toBe(true)
 })
 
 test("each server option is closed off from the next", () => {
@@ -129,6 +139,10 @@ test("a scope unit carries the seat's name and the moment it was asked for", () 
 
 test("the supervisor is reached through the pty proxy", () => {
   expect(supervisorEntryArgv(ROOT)).toEqual([
+    "bash",
+    "-c",
+    SECRETS_LINE,
+    "seat-supervisor",
     "bun",
     "run",
     "/repos/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts",
@@ -141,8 +155,32 @@ test("the supervisor is reached through the pty proxy", () => {
 
 test("the shell form of the entry takes both paths already spelled", () => {
   expect(supervisorEntryShell('"$_root/proxy.ts"', '"$_root/sup.ts"')).toBe(
-    'bun run "$_root/proxy.ts" -- bun run "$_root/sup.ts"'
+    `bash -c '${SECRETS_LINE}' seat-supervisor ` +
+      'bun run "$_root/proxy.ts" -- bun run "$_root/sup.ts"'
   )
+})
+
+test("the shell starting a supervisor reads the secrets held outside the repo", () => {
+  expect(secretsSourcedArgv()).toEqual(["bash", "-c", SECRETS_LINE, "seat-supervisor"])
+  expect(SECRETS_LINE).toContain('. "$HOME/.secrets.env"')
+})
+
+test("every name the secrets file gives is exported to the supervisor", () => {
+  expect(SECRETS_LINE.startsWith("set -a;")).toBe(true)
+  expect(SECRETS_LINE).toContain("set +a;")
+})
+
+test("a secrets file that is not there is no reason to refuse the launch", () => {
+  expect(SECRETS_LINE).toContain('[ -f "$HOME/.secrets.env" ] &&')
+})
+
+test("the supervisor replaces the shell that read the secrets", () => {
+  expect(SECRETS_LINE.endsWith('exec "$@"')).toBe(true)
+})
+
+test("the shell form quotes the same line the argv form hands over whole", () => {
+  expect(SECRETS_LINE).not.toContain("'")
+  expect(secretsSourcedShell()).toBe(`bash -c '${SECRETS_LINE}' seat-supervisor`)
 })
 
 test("a launch naming no account is given the default account", () => {
@@ -165,6 +203,10 @@ test("only a headless launch carries the headless flag", () => {
 
 test("a supervisor command line carries the agent id and the account", () => {
   expect(supervisorArgv(ROOT, asked())).toEqual([
+    "bash",
+    "-c",
+    SECRETS_LINE,
+    "seat-supervisor",
     "bun",
     "run",
     "/repos/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts",
@@ -181,8 +223,14 @@ test("a supervisor command line carries the agent id and the account", () => {
 
 test("a headless seat carries the headless flag before its agent id", () => {
   const argv = supervisorArgv(ROOT, asked({ mode: "headless" }))
-  expect(argv.indexOf("--headless")).toBe(7)
-  expect(argv.indexOf("--agent-id")).toBe(8)
+  expect(argv.indexOf("--headless")).toBe(11)
+  expect(argv.indexOf("--agent-id")).toBe(12)
+})
+
+test("every flag a seat is launched with reaches the supervisor rather than the shell", () => {
+  const argv = supervisorArgv(ROOT, asked({ mode: "headless" }))
+  expect(argv.indexOf("--headless")).toBeGreaterThan(argv.indexOf(SECRETS_LINE))
+  expect(argv[argv.indexOf(SECRETS_LINE) + 1]).toBe("seat-supervisor")
 })
 
 test("an empty prompt is left off rather than given as an empty word", () => {
@@ -231,6 +279,7 @@ test("a session is started detached under the seat's name in the start directory
     "TMUX",
     "-u",
     "TMUX_PANE",
+    "BASH_ENV=",
     "AGENT_ID=athena-a2de5a24130090204",
     "bun",
     "run",
@@ -285,7 +334,12 @@ test("the whole launch is composed from the seat alone", () => {
     "TMUX",
     "-u",
     "TMUX_PANE",
+    "BASH_ENV=",
     "AGENT_ID=athena-a2de5a24130090204",
+    "bash",
+    "-c",
+    SECRETS_LINE,
+    "seat-supervisor",
     "bun",
     "run",
     "/repos/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts",

@@ -24,5 +24,10 @@ export const supervisorEnv = {
       invariantKind: "departure",
       statement: "Resume thresholds are handed only to a headless child.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name the supervisor carries that is neither of those keys reaches the child unchanged.",
+    },
   ],
 } as const satisfies Module
