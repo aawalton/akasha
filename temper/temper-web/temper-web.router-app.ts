@@ -332,5 +332,6 @@ export const temperWeb = {
     "route/temper-user-completion",
     "route/temper-page-listing",
     "route/api-ask",
+    "route/api-errors",
   ],
 } as const satisfies RouterApp
