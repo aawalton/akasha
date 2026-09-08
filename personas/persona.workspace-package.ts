@@ -81,5 +81,6 @@ export const persona = {
     "module/last-messaged",
     "module/points-source-availability",
     "module/points-source-declarers",
+    "module/render-prompt",
   ],
 } as const satisfies WorkspacePackage
