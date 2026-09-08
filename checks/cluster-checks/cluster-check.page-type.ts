@@ -184,6 +184,7 @@ export const clusterCheck = {
     "module/libc-ffi-binding",
     "module/non-test-population",
     "module/oklch-to-srgb",
+    "module/orphan-source",
   ],
   properties: [
     {
