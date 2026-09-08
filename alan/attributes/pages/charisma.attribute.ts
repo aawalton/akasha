@@ -6,5 +6,4 @@ export const charisma = {
   slug: "charisma",
   definition: "what Alan has built by hours spent at ease",
   pointUnit: "one hour of a stretch whose safety less its difficulty is at least 1",
-  lifetimePoints: 0,
 } as const satisfies Attribute

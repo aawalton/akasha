@@ -6,5 +6,4 @@ export const constitution = {
   slug: "constitution",
   definition: "what Alan has built by eating whole plants",
   pointUnit: "100 grams of whole plants eaten",
-  lifetimePoints: 0,
 } as const satisfies Attribute

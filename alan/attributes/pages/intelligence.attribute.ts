@@ -6,5 +6,4 @@ export const intelligence = {
   slug: "intelligence",
   definition: "what Alan has built by learning about the world",
   pointUnit: "four learn-everything topics updated",
-  lifetimePoints: 0,
 } as const satisfies Attribute

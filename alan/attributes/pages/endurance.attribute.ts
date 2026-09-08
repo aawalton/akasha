@@ -6,5 +6,4 @@ export const endurance = {
   slug: "endurance",
   definition: "what Alan has built by moving his body",
   pointUnit: "400 active calories burned",
-  lifetimePoints: 0,
 } as const satisfies Attribute

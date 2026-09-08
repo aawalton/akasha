@@ -6,5 +6,4 @@ export const luck = {
   slug: "luck",
   definition: "what Alan has built by inviting rejection",
   pointUnit: "one rejection attempted",
-  lifetimePoints: 0,
 } as const satisfies Attribute
