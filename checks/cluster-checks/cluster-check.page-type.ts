@@ -208,6 +208,7 @@ export const clusterCheck = {
     "module/temper-type-tier",
     "module/test-classification",
     "module/test-preload-obligations",
+    "module/tree-globs",
   ],
   properties: [
     {
