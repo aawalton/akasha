@@ -1,6 +1,6 @@
-import { existsSync, readFileSync } from "node:fs"
+import { cpSync, existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
+import { keptAt, scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
@@ -39,7 +39,9 @@ const IMPORTING_AT = `${TREE}/holding.ts`
 
 const IMPORTING_BODY = 'import { held } from "./held.ts"\n\nexport const holding = held\n'
 
-export function seated(root: string): string {
+let seed: string | null = null
+
+function seeding(root: string): string {
   gitIn(root, ["init", "--quiet"])
   gitIn(root, ["config", "user.email", "held@nowhere"])
   gitIn(root, ["config", "user.name", "Held"])
@@ -51,6 +53,16 @@ export function seated(root: string): string {
   gitIn(root, ["commit", "--quiet", "-m", "first"])
   rebuiltIn(root, TREE)
   listedFiled(root, "seat", "akasha", [{ path: SEAT_AT, id: SEAT_ID }])
+  return root
+}
+
+function seedIn(): string {
+  seed ??= seeding(keptAt("subagent-presence-seed-"))
+  return seed
+}
+
+export function seated(root: string): string {
+  cpSync(seedIn(), root, { recursive: true })
   return root
 }
 
