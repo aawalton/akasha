@@ -18,9 +18,9 @@ export function groupSkillsIntoMorphPairs(skills: readonly Skill[]): readonly Mo
     requireGet(groups, key, "groups").push(skill)
   }
 
-  return Array.from(groups.entries()).map(([baseName, skills]) => ({
+  return Array.from(groups.entries()).map(([baseName, held]) => ({
     baseName,
-    lineRankNeeded: Math.min(...skills.map((s) => s.lineRankNeeded)),
-    skills: skills.sort((a, b) => a.rank - b.rank),
+    lineRankNeeded: Math.min(...held.map((s) => s.lineRankNeeded)),
+    skills: held.sort((a, b) => a.rank - b.rank),
   }))
 }

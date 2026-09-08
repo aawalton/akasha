@@ -238,7 +238,7 @@ function RenderItem(
   item: PlanItem,
   index: number,
   hasAnyValue: boolean,
-  onItemValueClick: (item: PlanItem) => void
+  onItemValueClick: (one: PlanItem) => void
 ) {
   const qualityClass = ESO_QUALITY_TEXT_CLASSES[item.quality]
   const label = <span className={qualityClass}>{item.itemName}</span>

@@ -2,7 +2,7 @@
 
 import { flattenRow } from "@akasha/pages-access/routing-core"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
-import type { PageCondition, PageWhere } from "@akasha/pages-core/page-types"
+import type { PageWhere } from "@akasha/pages-core/page-types"
 import { useAcquireSlug, usePipelineLive } from "@akasha/pages-ui/cache/tanstack-live"
 import {
   collectRelatedIds,
@@ -146,10 +146,6 @@ export function useRelatedPages({
   return rows
 }
 
-// A VIEW NAMES ITS NAV ITEM BY SLUG RATHER THAN BY ID. The `view` page type declares `navSlug` and
-// no key holding a nav item's id, and a question naming a key the page type does not declare is
-// refused rather than answered empty. So a nav item whose slug went unread narrows to nothing on
-// purpose, where narrowing by its id would refuse the question and draw no view at all.
 export function useViewsForNavItem({ navItemSlug }: { navItemSlug?: string | undefined }): {
   views: readonly PageWithProperties[]
   isLoading: boolean

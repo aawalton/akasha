@@ -27,7 +27,7 @@ function isArithmeticNode<F>(node: F): node is F & ArithmeticNode<F> {
 export function evaluateArithmeticNode<TNode, TContext>(
   node: TNode,
   context: TContext,
-  evaluateLeaf: (node: TNode, context: TContext) => number
+  evaluateLeaf: (leaf: TNode, given: TContext) => number
 ): number {
   if (!isArithmeticNode<TNode>(node)) {
     return evaluateLeaf(node, context)

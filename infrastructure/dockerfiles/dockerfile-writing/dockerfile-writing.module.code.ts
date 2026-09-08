@@ -43,17 +43,17 @@ for (let i = 0; i < args.length; i++) {
 function generateDockerfile(
   name: string,
   config: ServiceConfig,
-  nameMap: Map<string, string>,
+  names: Map<string, string>,
   ext: DockerfileExtensions,
-  allWorkspaceDirs: readonly string[]
+  dirs: readonly string[]
 ): string {
   switch (config.type) {
     case "nextjs":
-      return generateNextjsDockerfile(name, config, nameMap, ext)
+      return generateNextjsDockerfile(name, config, names, ext)
     case "bun-service":
-      return generateBunServiceDockerfile(name, config, nameMap, ext, allWorkspaceDirs)
+      return generateBunServiceDockerfile(name, config, names, ext, dirs)
     case "tool-image":
-      return generateToolImageDockerfile(name, config, nameMap, ext)
+      return generateToolImageDockerfile(name, config, names, ext)
     default:
       assertNever(config.type)
   }

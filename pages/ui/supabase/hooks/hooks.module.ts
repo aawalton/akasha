@@ -7,4 +7,14 @@ export const hooks = {
   definition:
     "Reading pages from supabase: one by id suffix, all of a type, related ones, and a nav's views.",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The views a nav item holds are asked for by that nav item's slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A nav item whose slug went unread narrows the views to none.",
+    },
+  ],
 } as const satisfies Module

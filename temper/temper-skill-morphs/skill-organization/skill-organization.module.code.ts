@@ -60,8 +60,8 @@ export function organizeSkills(
     if (!skillLineMap || skillLineMap.size === 0) continue
 
     const skillLines: SkillLineData[] = []
-    for (const [skillLineId, skills] of skillLineMap) {
-      const morphPairs = groupSkillsIntoMorphPairs(skills).toSorted(
+    for (const [skillLineId, held] of skillLineMap) {
+      const morphPairs = groupSkillsIntoMorphPairs(held).toSorted(
         (a, b) => a.lineRankNeeded - b.lineRankNeeded
       )
 

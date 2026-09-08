@@ -214,7 +214,7 @@ function addTab(
   content: Control,
   tabDef: TabDefinition,
   offsetY: number,
-  creators: Record<string, (container: Control) => Control>
+  creators: Record<string, (parent: Control) => Control>
 ): undefined {
   TOP_TAB_CONTROLS[tabDef.id] = createTab(container, offsetY, tabDef)
 

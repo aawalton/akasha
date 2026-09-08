@@ -61,7 +61,7 @@ function isFloorNode<TNode>(node: TNode): node is TNode & { type: "floor"; opera
 
 export function convertArithmeticToDisplay<TNode>(
   node: TNode,
-  convertLeaf: (node: TNode) => DisplayResult
+  convertLeaf: (leaf: TNode) => DisplayResult
 ): DisplayResult {
   if (!isArithmeticNode(node)) {
     return convertLeaf(node)
