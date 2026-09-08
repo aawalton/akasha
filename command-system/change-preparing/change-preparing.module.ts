@@ -85,10 +85,6 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
-      statement: "A change kind running no check is held to that refusal too.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "Every road that lands is held to that refusal, including a change kind running no check.",
     },
