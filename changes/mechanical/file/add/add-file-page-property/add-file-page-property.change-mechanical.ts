@@ -17,15 +17,11 @@ export const addFilePageProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path that is no page property is refused here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The property types a name is read against are the ones under `page-property`.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The body is written by the change this change reaches.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here judges the path handed in.",
     },
     {
       invariantKind: "departure",
