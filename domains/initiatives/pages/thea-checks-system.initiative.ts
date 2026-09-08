@@ -46,11 +46,6 @@ export const theaChecksSystem = {
         "116 of 155 folders under checks/cluster-checks/modules hold code with no page beside it. The 39 that have one are named among the cluster-check page type's parts, and a new page lands only together with its part slug. Every one of these checks is dead pending Alan's ablation, so the page is plain: slug, definition, code, and test where a test is beside it. No invariants, and no judgement about whether the code should live.",
     },
     {
-      statement: "Every file claimed by nothing else is claimed by a page.",
-      workingMemory:
-        "Two left of ten. territory-map became 47 held-addon pages in code-system, nine of its eleven fields having had no reader at all. eso-opt-in became the eso-opt-in-list page type holding a tokens file property. The prose-mechanism ratchet is gone whole: its accepted list was empty and could never widen, so the file, the schema and the write path went together. Left: check-type-assertions-hard-cases.md and the canary under __fixtures__.",
-    },
-    {
       statement: "Every property file has the page whose property that file is.",
       workingMemory:
         "Eleven files a reading of names calls claimed while the page they belong to is gone, so no count of unclaimed files held them. Eight eso-day health-samples under alan/tracking/daily/eso-days/pages, dated 2026-08-31 through 2026-09-07, running to yesterday, so a writer still lays them down and writes no page. Two more under alan/eso-daily-tracking, which holds nothing else. One is change-running.change-runner.addressed.ts. Either the page returns or the file goes, and only Alan says which.",
