@@ -13,12 +13,6 @@ import type {
 } from "@akasha/temper-formula-framework/branded-id"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { races } from "@akasha/temper-races/races"
-import type { Json } from "@akasha/utils-narrow/json-value"
-
-function asJson(value: Record<string, unknown>): Json {
-  return value as Json
-}
-
 export type ImportCharacterResult =
   | { buildId: BuildId; buildName: string }
   | { error: "not-authenticated" }
@@ -88,12 +82,13 @@ export async function importCharacterFromHash(
       const created = await createPage({
         pageTypeSlug: "character-build",
         properties: {
-          userId,
           accountPage: userId,
-          buildName: buildState.name,
+          title: buildState.name,
+          description: buildMetadata.description,
           buildHash: hash,
-          buildMetadata: asJson({ ...buildMetadata }),
           visibility: "live",
+          ...(buildMetadata.baseRoles ? { roles: [...buildMetadata.baseRoles] } : {}),
+          ...(buildMetadata.targetCount != null ? { targetCount: buildMetadata.targetCount } : {}),
         },
       })
       const newBuildId = typeof created.id === "string" ? created.id : ""
@@ -108,7 +103,6 @@ export async function importCharacterFromHash(
         await createPage({
           pageTypeSlug: "temper-account-character",
           properties: {
-            userId,
             accountPage: userId,
             esoCharacterId,
             liveBuildId: newBuildId,
@@ -138,12 +132,13 @@ export async function importCharacterFromHash(
     const created = await createPage({
       pageTypeSlug: "character-build",
       properties: {
-        userId,
         accountPage: userId,
-        buildName: buildState.name,
+        title: buildState.name,
+        description: buildMetadata.description,
         buildHash: hash,
-        buildMetadata: asJson({ ...buildMetadata }),
         visibility: "private",
+        ...(buildMetadata.baseRoles ? { roles: [...buildMetadata.baseRoles] } : {}),
+        ...(buildMetadata.targetCount != null ? { targetCount: buildMetadata.targetCount } : {}),
       },
     })
     const newBuildId = typeof created.id === "string" ? created.id : ""

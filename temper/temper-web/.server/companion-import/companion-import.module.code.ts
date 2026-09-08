@@ -9,12 +9,7 @@ import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-w
 import { companions } from "@akasha/temper-companions-core/companions"
 import type { BuildHash, BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
-import type { Json } from "@akasha/utils-narrow/json-value"
 import { requireFirst } from "@akasha/utils-narrow/require-first"
-
-function asJson(value: Record<string, unknown>): Json {
-  return value as Json
-}
 
 export type ImportCompanionResult =
   | { buildId: BuildId; buildName: string }
@@ -84,12 +79,13 @@ export async function importCompanionFromHash(
     const created = await createPage({
       pageTypeSlug: "companion-build",
       properties: {
-        userId,
         accountPage: userId,
-        buildName: buildState.name,
+        title: buildState.name,
+        description: buildMetadata.description,
         buildHash: hash,
-        buildMetadata: asJson({ ...buildMetadata }),
         visibility: "live",
+        ...(buildMetadata.baseRoles ? { baseRoles: [...buildMetadata.baseRoles] } : {}),
+        ...(buildMetadata.targetCount != null ? { targetCount: buildMetadata.targetCount } : {}),
       },
     })
     const newBuildId = typeof created.id === "string" ? created.id : ""
@@ -104,7 +100,6 @@ export async function importCompanionFromHash(
       await createPage({
         pageTypeSlug: "temper-companion-progress",
         properties: {
-          userId,
           accountPage: userId,
           companionId,
           liveBuildId: newBuildId,
