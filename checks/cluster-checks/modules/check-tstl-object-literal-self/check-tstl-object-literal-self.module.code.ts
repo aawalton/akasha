@@ -16,7 +16,7 @@ import { listTsFiles } from "../ts-file-iteration/ts-file-iteration.module.code.
 import {
   scanTstlObjectLiteralSelf,
   type TstlObjectLiteralSelfFinding,
-} from "../ts-tstl-object-literal-self/ts-tstl-object-literal-self.module.code.ts"
+} from "../ts-object-literal-self/ts-object-literal-self.module.code.ts"
 import { exitOnResult } from "../violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
