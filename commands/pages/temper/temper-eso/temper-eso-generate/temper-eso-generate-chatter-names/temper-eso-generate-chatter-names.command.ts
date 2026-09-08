@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../../../command-system/commands/command.page-type.ts"
 
 export const temperEsoGenerateChatterNames = {
   id: "01a0685d-f8fa-7c84-afa7-42c2af785557",

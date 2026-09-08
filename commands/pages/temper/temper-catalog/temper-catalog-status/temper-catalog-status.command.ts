@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../../command-system/commands/command.page-type.ts"
 
 export const temperCatalogStatus = {
   id: "01a0603c-c1cc-7a60-8387-08c112165535",
