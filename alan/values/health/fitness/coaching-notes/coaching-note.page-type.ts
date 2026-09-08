@@ -1,11 +1,11 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../../pages/properties/title.text-property.ts"
-import type { Asks } from "./properties/asks.file-property.ts"
 import type { CoachingConstraintActive } from "./properties/coaching-note-active.boolean-property.ts"
 import type { CoachingConstraintKind } from "./properties/coaching-note-kind.select-property.ts"
 import type { CoachingConstraintSortOrder } from "./properties/coaching-note-sort-order.number-property.ts"
 import type { FocusTags } from "./properties/focus-tags.select-property.ts"
+import type { Asks } from "./properties/says.file-property.ts"
 
 export type CoachingNote = Page & {
   title: Title
@@ -24,7 +24,7 @@ export const coachingNote = {
   pluralSlug: "coaching-notes",
   partSlugs: [
     "boolean-property/coaching-note-active",
-    "file-property/asks",
+    "file-property/says",
     "number-property/coaching-note-sort-order",
     "select-property/coaching-note-kind",
     "select-property/focus-tags",
@@ -44,7 +44,7 @@ export const coachingNote = {
       required: false,
       many: false,
     },
-    { pagePropertySlug: "file-property/asks", required: false, many: false },
+    { pagePropertySlug: "file-property/says", required: false, many: false },
   ],
   invariants: [
     {
