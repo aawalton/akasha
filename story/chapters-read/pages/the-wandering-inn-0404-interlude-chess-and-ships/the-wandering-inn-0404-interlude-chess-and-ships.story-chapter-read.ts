@@ -5,7 +5,7 @@ export const theWanderingInn0404InterludeChessAndShips = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0404-interlude-chess-and-ships",
   title: "Interlude - Chess and Ships",
-  partOfSlugs: ["story-read/the-wandering-inn"],
+  partOfCollectionSlugs: ["story-read/the-wandering-inn"],
   position: 404,
   ownLength: 7323,
   ownProgress: 7323,

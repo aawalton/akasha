@@ -5,7 +5,7 @@ export const theWanderingInn0294InterludeBird = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0294-interlude-bird",
   title: "Interlude - Bird",
-  partOfSlugs: ["story-read/the-wandering-inn"],
+  partOfCollectionSlugs: ["story-read/the-wandering-inn"],
   position: 294,
   ownLength: 5175,
   ownProgress: 5192,

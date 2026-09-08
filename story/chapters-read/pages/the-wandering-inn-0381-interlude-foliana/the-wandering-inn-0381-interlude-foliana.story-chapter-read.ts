@@ -5,7 +5,7 @@ export const theWanderingInn0381InterludeFoliana = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0381-interlude-foliana",
   title: "Interlude - Foliana",
-  partOfSlugs: ["story-read/the-wandering-inn"],
+  partOfCollectionSlugs: ["story-read/the-wandering-inn"],
   position: 381,
   ownLength: 14489,
   ownProgress: 14489,
