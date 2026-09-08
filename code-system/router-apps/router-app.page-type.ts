@@ -1,11 +1,15 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
+import type { AddonBundleImage } from "./properties/addon-bundle-image.named-file-property.ts"
 import type { AppLayout } from "./properties/app-layout.named-file-property.ts"
 import type { CompileConfig } from "./properties/compile-config.named-file-property.ts"
+import type { PlaceholderImage } from "./properties/placeholder-image.named-file-property.ts"
 import type { RootRoute } from "./properties/root-route.named-file-property.ts"
 import type { RouteTable } from "./properties/route-table.named-file-property.ts"
 import type { RouterConfig } from "./properties/router-config.named-file-property.ts"
+import type { Server } from "./properties/server.named-file-property.ts"
 import type { ServerEntry } from "./properties/server-entry.named-file-property.ts"
+import type { SidebarBoot } from "./properties/sidebar-boot.named-file-property.ts"
 import type { ViteConfig } from "./properties/vite-config.named-file-property.ts"
 
 export type RouterApp = WorkspacePackage & {
@@ -16,6 +20,10 @@ export type RouterApp = WorkspacePackage & {
   compileConfig?: CompileConfig
   appLayout?: AppLayout
   viteConfig?: ViteConfig
+  server?: Server
+  addonBundleImage?: AddonBundleImage
+  sidebarBoot?: SidebarBoot
+  placeholderImage?: PlaceholderImage
 }
 
 export const routerApp = {
@@ -25,12 +33,16 @@ export const routerApp = {
   definition: "what serves the routes its own table declares",
   pluralSlug: "router-apps",
   partSlugs: [
+    "named-file-property/addon-bundle-image",
     "named-file-property/app-layout",
     "named-file-property/compile-config",
+    "named-file-property/placeholder-image",
     "named-file-property/root-route",
     "named-file-property/route-table",
     "named-file-property/router-config",
+    "named-file-property/server",
     "named-file-property/server-entry",
+    "named-file-property/sidebar-boot",
     "named-file-property/vite-config",
     "type-declaration/vite-client",
   ],
@@ -43,6 +55,10 @@ export const routerApp = {
     { pagePropertySlug: "named-file-property/compile-config", required: false, many: false },
     { pagePropertySlug: "named-file-property/app-layout", required: false, many: false },
     { pagePropertySlug: "named-file-property/vite-config", required: false, many: false },
+    { pagePropertySlug: "named-file-property/server", required: false, many: false },
+    { pagePropertySlug: "named-file-property/addon-bundle-image", required: false, many: false },
+    { pagePropertySlug: "named-file-property/sidebar-boot", required: false, many: false },
+    { pagePropertySlug: "named-file-property/placeholder-image", required: false, many: false },
   ],
   invariants: [
     {
