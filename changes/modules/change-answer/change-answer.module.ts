@@ -24,10 +24,6 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "An edit holding a body each side states the body that edit was worked out from.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Edits gather by joining the edits in the order the edits were stated.",
     },
     {
