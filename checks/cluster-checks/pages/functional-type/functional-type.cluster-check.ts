@@ -12,7 +12,7 @@ export const functionalType = {
     {
       invariantKind: "departure",
       statement:
-        "An addon is marked by a tstl block in a tsconfig the workspace carries or extends.",
+        "An addon is marked by a luaCompiler block in a tsconfig the workspace carries or extends.",
     },
     {
       invariantKind: "absence",
