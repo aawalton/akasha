@@ -8,7 +8,6 @@ export const personasCore = {
   manifest: "json",
   partSlugs: [
     "module/desktop-wallpaper-setting",
-    "module/green-day-fraction",
     "module/last-messaged",
     "module/points-source-availability",
     "module/points-source-declarers",

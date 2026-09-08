@@ -5,6 +5,7 @@
   "exports": {
     "./email-address": "./properties/email-address.email-address-property.ts",
     "./image-locator": "./image-locator/image-locator.module.code.ts",
+    "./green-day-fraction": "./green-day-fraction/green-day-fraction.module.code.ts",
     "./git-byte-pathspecs": "./git-byte-pathspecs/git-byte-pathspecs.module.code.ts",
     "./framework": "./framework/framework.module.code.ts",
     "./canonical-image-classify": "./canonical-image-classify/canonical-image-classify.module.code.ts",

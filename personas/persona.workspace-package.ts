@@ -77,5 +77,6 @@ export const persona = {
     "module/canonical-image-classify",
     "module/framework",
     "module/git-byte-pathspecs",
+    "module/green-day-fraction",
   ],
 } as const satisfies WorkspacePackage
