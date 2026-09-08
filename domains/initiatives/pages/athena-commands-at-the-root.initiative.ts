@@ -11,7 +11,7 @@ export const athenaCommandsAtTheRoot = {
       statement:
         "Tooling specific to the command domain sits under `commands/`, and no other tooling does.",
       workingMemory:
-        "`command-system` names 71 parts: 3 page types and 68 modules, and none of the 15 command pages under `command-system/commands/`. Not every part is the command domain's: `ios-widget-swift` and `ios-widget-emit` are iOS's. Whether the landing and committing modules are the command domain's or the change system's is unsettled.",
+        "`command-system` names 68 modules and 3 page types, and none of its command pages. `ios-widget-swift` and `ios-widget-emit` are iOS's, so not every part moves in. 3 of its 15 commands have moved. The rest are held by debt a move makes newly judged: `acts` is spelled in dev-server, index, service and wan-arguing; wan and zimage share five more; agent-turn-colors carries 23 lines of prose; read reaches `differing`, which the manifest does not export.",
     },
     {
       statement: "No `command-system` folder is there.",
