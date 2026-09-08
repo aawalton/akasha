@@ -17,13 +17,14 @@ import { askDayByDate } from "../../../tracking/daily/day-reading/day-reading.mo
 import { sessionsOfDay } from "../../../tracking/daily/day-stretches/day-stretches.module.code.ts"
 import { askingIn } from "../../plants/reading/plants-reading.module.code.ts"
 
-const READOUTS = "readout-system/readouts/pages"
+const READOUTS = "alan/attributes/readouts"
 
 export const STRENGTH_PAGE = `${READOUTS}/attribute-strength/attribute-strength.readout.ts`
 
 export const ENDURANCE_PAGE = `${READOUTS}/attribute-endurance/attribute-endurance.readout.ts`
 
-export const CONSTITUTION_PAGE = `${READOUTS}/attribute-constitution/attribute-constitution.readout.ts`
+export const CONSTITUTION_PAGE =
+  "readout-system/readouts/pages/attribute-constitution/attribute-constitution.readout.ts"
 
 export const WISDOM_PAGE = `${READOUTS}/attribute-wisdom/attribute-wisdom.readout.ts`
 
