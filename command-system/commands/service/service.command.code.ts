@@ -8,6 +8,7 @@ import {
 } from "@akasha/service-system/service-installing"
 import { everyService, readFor } from "@akasha/service-system/service-reading"
 import { installedUnitName } from "@akasha/service-system/unit-writing"
+import { namesDrawn } from "../../../commands/modules/name-drawing/name-drawing.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
 
@@ -26,7 +27,7 @@ const NOT_ASKED = "dry-run\tsystemd was not asked; run it again without `--dry-r
 const NOT_WRITTEN = "dry-run\tnothing was written; run it again without `--dry-run` to carry it out"
 
 function acts(): string {
-  return ACTS.map((one) => `\`${one}\``).join(", ")
+  return namesDrawn(ACTS)
 }
 
 function installed(argv: readonly string[], given: Given): Answer {
@@ -93,10 +94,10 @@ function asked(act: string, argv: readonly string[], given: Given): Answer {
 
   const read = readFor(given.root, slug)
   if ("refused" in read) return refused(read.refused, DATA)
-  const one = read.services[0]
-  if (one === undefined) return refused(`no workstation service is slugged \`${slug}\``, DATA)
+  const found = read.services[0]
+  if (found === undefined) return refused(`no workstation service is slugged \`${slug}\``, DATA)
 
-  const unit = installedUnitName(one)
+  const unit = installedUnitName(found)
   if (dryRun) return { report: [`${act}\t${unit}`, NOT_ASKED], refusals: [], code: 0 }
 
   const done = systemctl([act, unit])

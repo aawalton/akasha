@@ -8,6 +8,7 @@ export const service = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
+  partSlugs: ["module/name-drawing"],
   taking: [
     {
       said: "install",
