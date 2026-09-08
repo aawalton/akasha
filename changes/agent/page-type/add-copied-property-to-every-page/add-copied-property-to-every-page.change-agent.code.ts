@@ -14,7 +14,7 @@ import {
 
 const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
 
-const PAGE_TYPE = "pageType"
+const PAGE_TYPE = "page-type"
 
 const FROM = "from"
 

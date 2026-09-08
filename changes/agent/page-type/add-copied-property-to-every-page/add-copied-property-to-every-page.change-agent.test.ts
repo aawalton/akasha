@@ -130,7 +130,7 @@ test("a page type the index does not name is refused", async () => {
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {
-  const said = await runChange(sectionsIn(PAGES, [SINGLE]), { pageType: "book-section" })
+  const said = await runChange(sectionsIn(PAGES, [SINGLE]), { "page-type": "book-section" })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/`from` names what this change is handed/)

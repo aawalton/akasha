@@ -134,5 +134,5 @@ test("an argument this change was handed no value for is refused by the key", as
   const said = await runChange(pagesIn(BODIES, [DECLARED]), { key: "sectionOfSlug" })
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toMatch(/`pageType` names what this change is handed/)
+  expect(said.refused ?? "").toMatch(/`page-type` names what this change is handed/)
 })
