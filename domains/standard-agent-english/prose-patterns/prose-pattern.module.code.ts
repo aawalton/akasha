@@ -106,9 +106,17 @@ function placedSomewhere(sentence: DepSentence, token: DepToken): boolean {
   return childrenByRel(sentence, token.id, OBLIQUE).some((one) => caseIs(sentence, one, PLACES))
 }
 
+function particleUnder(sentence: DepSentence, id: number): boolean {
+  return childrenByRel(sentence, id, ADVERB).some((one) => PARTICLES.has(lower(one)))
+}
+
 function particled(sentence: DepSentence, token: DepToken): boolean {
   if (childrenByRel(sentence, token.id, PARTICLE).length > 0) return true
-  return childrenByRel(sentence, token.id, ADVERB).some((one) => PARTICLES.has(lower(one)))
+  if (particleUnder(sentence, token.id)) return true
+  const next = byId(sentence, token.id + 1)
+  if (next !== undefined && PARTICLES.has(lower(next))) return true
+  const object = child(sentence, token.id, OBJECT)
+  return object !== undefined && particleUnder(sentence, object.id)
 }
 
 function subjectOfItsOwn(sentence: DepSentence, token: DepToken): boolean {

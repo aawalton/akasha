@@ -75,6 +75,34 @@ test("a word taking a bare adverb for a particle is left alone", () => {
   expect(foundIn(said, HOLD)).toEqual([])
 })
 
+test("a particle right after a word is a particle the parser called a preposition", () => {
+  const said = sentenceOf([
+    ["the", "DET", 2, "det"],
+    ["notes", "NOUN", 0, "root"],
+    ["the", "DET", 4, "det"],
+    ["book", "NOUN", 5, "nsubj"],
+    ["holds", "VERB", 2, "acl:relcl"],
+    ["through", "ADP", 8, "case"],
+    ["a", "DET", 8, "det"],
+    ["string", "NOUN", 5, "obl"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a particle the parser hung on a word's object is that word's particle", () => {
+  const said = sentenceOf([
+    ["the", "DET", 2, "det"],
+    ["proxy", "NOUN", 0, "root"],
+    ["that", "PRON", 4, "nsubj"],
+    ["holds", "VERB", 2, "acl:relcl"],
+    ["traffic", "NOUN", 4, "obj"],
+    ["out", "ADP", 5, "advmod"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
 test("a word with an object of its own is found", () => {
   const said = sentenceOf([
     ["A", "DET", 2, "det"],

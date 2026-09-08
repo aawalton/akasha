@@ -71,5 +71,14 @@ export const prosePattern = {
       invariantKind: "departure",
       statement: "A past participle is a word read as a verb and spelled with a trailing `ed`.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A particle right after a word is that word's particle, whatever the parser calls it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A particle the parser hung on a word's object is that word's particle.",
+    },
   ],
 } as const satisfies Module
