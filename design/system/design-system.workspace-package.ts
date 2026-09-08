@@ -48,6 +48,7 @@ export const designSystem = {
     "stylesheet/motion-look",
     "stylesheet/theme-bridge",
     "stylesheet/token-values",
+    "domain/ring",
   ],
   invariants: [
     {

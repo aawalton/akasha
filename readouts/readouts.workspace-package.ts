@@ -30,7 +30,6 @@ export const readouts = {
     "stylesheet/readout-look",
     "domain/readout-color",
     "domain/readout-figure",
-    "domain/ring",
     "domain/stoplight",
   ],
   invariants: [
