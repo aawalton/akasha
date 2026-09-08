@@ -12,7 +12,7 @@ export const changeProsePattern = {
   test: "ts",
   runsChecks: true,
   readersOweReading: false,
-  writerOwesReading: true,
+  writerOwesReading: false,
   invariants: [
     {
       invariantKind: "departure",
@@ -45,6 +45,11 @@ export const changeProsePattern = {
     {
       invariantKind: "constraint",
       statement: "The parser reads a model no commit holds, so this runs only where that model is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A program composes each restatement, so the checks judge it and no agent reads it.",
     },
   ],
 } as const satisfies ChangeAgent
