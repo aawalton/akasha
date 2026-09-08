@@ -19,11 +19,6 @@ export const couldNotReadDependency = createDiagnosticFactory(
   (dependency: string) => `Could not read content of resolved dependency ${dependency}.`
 )
 
-export const toLoadItShouldBeTranspiled = createDiagnosticFactory(
-  (kind: string, transform: string) =>
-    `To load "${transform}" ${kind} it should be transpiled or "ts-node" should be installed.`
-)
-
 export const couldNotResolveFrom = createDiagnosticFactory(
   (kind: string, transform: string, base: string) =>
     `Could not resolve "${transform}" ${kind} from "${base}".`
