@@ -47,15 +47,19 @@ export function getTransformers(
 
 export const noImplicitSelfTransformer: ts.TransformerFactory<ts.SourceFile | ts.Bundle> =
   () => (node) => {
-    const transformSourceFile: ts.Transformer<ts.SourceFile> = (node) => {
-      const empty = ts.factory.createNotEmittedStatement(node)
+    const transformSourceFile: ts.Transformer<ts.SourceFile> = (sourceFile) => {
+      const empty = ts.factory.createNotEmittedStatement(sourceFile)
       ts.addSyntheticLeadingComment(
         empty,
         ts.SyntaxKind.MultiLineCommentTrivia,
         "* @noSelfInFile ",
         true
       )
-      return ts.factory.updateSourceFile(node, [empty, ...node.statements], node.isDeclarationFile)
+      return ts.factory.updateSourceFile(
+        sourceFile,
+        [empty, ...sourceFile.statements],
+        sourceFile.isDeclarationFile
+      )
     }
 
     return ts.isBundle(node)
