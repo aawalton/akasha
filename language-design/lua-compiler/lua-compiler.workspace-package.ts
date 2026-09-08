@@ -47,7 +47,7 @@ export const luaCompiler = {
     "module/transpile-transpiler",
     "module/annotations",
     "module/assignment-validation",
-    "module/tstl-cli",
+    "module/cli-run",
     "module/cli-diagnostics",
     "module/cli-information",
     "module/cli-parse",
