@@ -50,7 +50,7 @@ function luaBundleAt(tsconfigPath: string): string | null {
   }
 }
 
-export function readTstlLuaBundle(dir: string, ...alsoAt: readonly string[]): string | null {
+export function readLuaBundle(dir: string, ...alsoAt: readonly string[]): string | null {
   for (const path of [join(dir, TSCONFIG_NAME), ...alsoAt]) {
     const found = luaBundleAt(path)
     if (found !== null) return found
@@ -233,7 +233,7 @@ export async function writeLoadOrder(
   const distDir = join(root, ADDONS_REL_ROOT, DIST_UNDER, canonicalName)
   await tstlConfigPathFor(root, addonDir, canonicalName)
   const generated = join(root, ADDONS_REL_ROOT, TSTL_UNDER, `${canonicalName}.${TSCONFIG_NAME}`)
-  const bundle = readTstlLuaBundle(addonDir, generated)
+  const bundle = readLuaBundle(addonDir, generated)
   if (bundle === null) {
     throw new Error(
       `writeLoadOrder: neither ${join(addonDir, TSCONFIG_NAME)} nor ${generated} declares a luaCompiler.luaBundle, and the manifest has to name the Lua the game loads`
