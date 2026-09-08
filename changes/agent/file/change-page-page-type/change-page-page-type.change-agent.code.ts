@@ -98,6 +98,13 @@ export async function changePagePageType(
   const movedOver = Object.fromEntries(moved)
   const carried: Answer[] = []
   let over = world
+  const addressed = await reach(over, RENAME_PAGE_ADDRESS, {
+    was: `${said.pageType}/${said.slug}`,
+    now: `${type.slug}/${said.slug}`,
+  })
+  if (addressed.said.refused !== null) return addressed.said
+  carried.push(addressed.said)
+  over = addressed.world
   for (const [one, next] of moved) {
     if (over.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
     const answer = await reach(over, CHANGE_IMPORTS, { was: one, now: next, moved: movedOver })
@@ -131,12 +138,6 @@ export async function changePagePageType(
     carried.push(answer.said)
     over = answer.world
   }
-  const addressed = await reach(over, RENAME_PAGE_ADDRESS, {
-    was: `${said.pageType}/${said.slug}`,
-    now: `${type.slug}/${said.slug}`,
-  })
-  if (addressed.said.refused !== null) return addressed.said
-  carried.push(addressed.said)
   return gathered(carried)
 }
 

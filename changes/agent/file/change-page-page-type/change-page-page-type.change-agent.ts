@@ -37,6 +37,10 @@ export const changePagePageType = {
       statement: "An address the page type moves is restated wherever a body spells that address.",
     },
     {
+      invariantKind: "departure",
+      statement: "An address is restated before any file the page keeps beside it is carried.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here changes the slug a page states.",
     },
