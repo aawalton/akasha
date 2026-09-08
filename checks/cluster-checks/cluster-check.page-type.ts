@@ -28,7 +28,6 @@ export const clusterCheck = {
   partSlugs: [
     "boolean-property/always-run",
     "boolean-property/tree-sha",
-    "cluster-check/app-capacitor-parity",
     "cluster-check/app-intent-brand-words",
     "cluster-check/ast-grep",
     "cluster-check/bin-mode",
@@ -123,8 +122,6 @@ export const clusterCheck = {
     "module/color-literal-scan",
     "module/addon-build-population",
     "module/alanwalton-ios-seam",
-    "module/app-capacitor-parity-divergences",
-    "module/app-capacitor-parity",
     "module/app-intent-brand-word-violations",
     "module/bin-mode-violations",
     "module/change-closure",
