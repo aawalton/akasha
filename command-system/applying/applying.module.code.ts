@@ -73,6 +73,10 @@ export function noneSaid(root: string, page: string): string {
   return `${NONE} — a subagent's draft goes to its seat when the subagent stops, so ask the ${seat} seat for what was drafted here before`
 }
 
+export function messageFor(said: string | null, held: Bodies): string {
+  return said ?? defaultMessage(APPLIES, [...held.keys()])
+}
+
 export type Applying = Answer & { readonly landed: boolean }
 
 function notLanded(answer: Answer): Applying {
