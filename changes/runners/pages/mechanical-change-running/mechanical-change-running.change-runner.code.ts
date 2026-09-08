@@ -44,11 +44,17 @@ export function textIn(root: string): (path: string) => string | null {
   }
 }
 
+export type Writing = {
+  readonly writer?: string | null
+  readonly read?: string | null
+}
+
 export async function runMechanicalChange(
   root: string,
   asked: readonly Asking[],
   message: string,
-  agentId: string | null = null
+  agentId: string | null = null,
+  writing: Writing = {}
 ): Promise<Applied | Refused> {
   if (asked.length === 0) return { refusals: [NOTHING_ASKED] }
   const said = await foldedOver(ledgerAt(root, textIn(root), runAt), asked)
@@ -65,5 +71,14 @@ export async function runMechanicalChange(
   }
   const held = bodiesFrom(root, said)
   if ("why" in held) return { refusals: [held.why] }
-  return await applied(root, agentId, message, NO_GATE, null, [], { held, running: MECHANICAL })
+  return await applied(
+    root,
+    agentId,
+    message,
+    NO_GATE,
+    writing.writer ?? null,
+    [],
+    { held, running: MECHANICAL },
+    writing.read ?? null
+  )
 }

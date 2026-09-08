@@ -193,7 +193,8 @@ export async function applied(
   judging: Judging,
   writer: string | null = null,
   carries: readonly FileCarry[] = [],
-  carried: Carried | null = null
+  carried: Carried | null = null,
+  read: string | null = null
 ): Promise<Applied | Refused> {
   if (carried === null) return { refusals: [NOTHING_HELD] }
   const holding = carried
@@ -221,7 +222,7 @@ export async function applied(
     message,
     gate,
     writer,
-    head,
+    read ?? head,
     asRead,
     carries,
     null,

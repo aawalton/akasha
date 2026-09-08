@@ -47,6 +47,18 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "An apply stating no read is judged against the commit at HEAD.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read the caller states is judged against instead of the commit at HEAD.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read older than HEAD catches every move the commit at HEAD catches.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The bodies the rebase leaves are what land.",
     },
     {

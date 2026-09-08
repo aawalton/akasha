@@ -71,6 +71,18 @@ export const mechanicalChangeRunning = {
       statement: "An agent id is carried only where the caller has one.",
     },
     {
+      invariantKind: "departure",
+      statement: "The writer a caller names is the commit's author rather than the default author.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that moved since the read a caller states refuses the landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming neither reads the tree as the commit at HEAD leaves it.",
+    },
+    {
       invariantKind: "absence",
       statement: "No page is named here, as a landing keeps nothing beside a page.",
     },
