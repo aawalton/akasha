@@ -8,7 +8,6 @@ export const exerciseAccess = {
   manifest: "json",
   partSlugs: [
     "module/exercise-choosing",
-    "module/exercise-finding",
     "module/exercise-load-model",
     "module/exercise-rows",
     "module/exercise-vocabulary",
