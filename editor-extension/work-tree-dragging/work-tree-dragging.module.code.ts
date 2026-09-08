@@ -127,9 +127,15 @@ export function failureSaid(order: Ordering, why: string): string {
   return `${order.slug}: the intent at place ${order.from} did not move to place ${order.to}. ${why}`
 }
 
+export interface WorkDropWatch {
+  readonly moving: (order: Ordering) => undefined
+  readonly refused: (order: Ordering) => undefined
+}
+
 export function createWorkDragging(
   editor: typeof vscode,
-  say: (line: string) => undefined
+  say: (line: string) => undefined,
+  watch: WorkDropWatch
 ): vscode.TreeDragAndDropController<WorkTreeRow> {
   const dropped = async (order: Ordering): Promise<undefined> => {
     try {
@@ -140,6 +146,7 @@ export function createWorkDragging(
       )
       say(`[drop] ${said.trim()}`)
     } catch (thrown) {
+      watch.refused(order)
       const why = failureSaid(order, String(thrown))
       say(`[drop] ${why}`)
       void editor.window.showErrorMessage(`Work: ${why}`)
@@ -153,11 +160,13 @@ export function createWorkDragging(
       carried.set(DRAG_MIME, new editor.DataTransferItem([...source]))
       return undefined
     },
-    handleDrop: async (target, carried) => {
+    handleDrop: (target, carried) => {
       const held: unknown = carried.get(DRAG_MIME)?.value
       const order = orderingOf(draggedIn(held), target)
       if (order === null) return undefined
-      return await dropped(order)
+      watch.moving(order)
+      void dropped(order)
+      return undefined
     },
   }
 }

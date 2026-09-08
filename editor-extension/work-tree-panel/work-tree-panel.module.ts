@@ -9,20 +9,19 @@ export const workTreePanel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The initiatives are read from the file the service writes rather than composed.",
+      statement: "The initiatives are read from the file the service writes and reordered here.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The panel draws the rows that file carries before any change to that file arrives.",
+      statement: "The panel draws what that file carries as the panel comes up.",
     },
     {
       invariantKind: "departure",
-      statement: "The panel draws again when that file is written and at no other time.",
+      statement: "The panel draws again when that file is written and when a row is dropped.",
     },
     {
       invariantKind: "departure",
-      statement: "The rows the file carries are drawn unchanged rather than spelled again.",
+      statement: "The rows the file carries are drawn unchanged but for the order a drop sets.",
     },
     {
       invariantKind: "departure",
@@ -59,6 +58,30 @@ export const workTreePanel = {
     {
       invariantKind: "departure",
       statement: "A file the service has not written leaves the rows drawn as they are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop draws the rows in their new order before the move is made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That order is held until the file carries it or the move is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file carrying those intents in another order is drawn in the order held.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file carrying other intents than those releases the order held.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refused move reads the file again and draws what that file carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An order held for one initiative leaves every other initiative alone.",
     },
     {
       invariantKind: "departure",

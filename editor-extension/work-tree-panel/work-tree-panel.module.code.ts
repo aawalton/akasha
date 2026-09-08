@@ -7,7 +7,14 @@ import {
 import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"
 import { describedAs } from "../tree-description/tree-description.module.code.ts"
-import { createWorkDragging } from "../work-tree-dragging/work-tree-dragging.module.code.ts"
+import {
+  agreementOf,
+  createWorkDragging,
+  intentLabelsIn,
+  movedLabels,
+  type Ordering,
+  reorderedTo,
+} from "../work-tree-dragging/work-tree-dragging.module.code.ts"
 import { REFRESH_COMMAND, VIEW_ID } from "../work-tree-ids/work-tree-ids.module.code.ts"
 import {
   countOfKind,
@@ -28,13 +35,23 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   output = vscode.window.createOutputChannel("Ops: Work Tree")
   context.subscriptions.push(output)
 
+  const holding = new Map<string, readonly string[]>()
+  let drawn: readonly WorkTreeRow[] = []
+
   const tree = createWorkTree(akashaRoot())
   const view = vscode.window.createTreeView<WorkTreeRow>(VIEW_ID, {
     treeDataProvider: tree.provider,
-    dragAndDropController: createWorkDragging(vscode, (line) => {
-      output.appendLine(line)
-      return undefined
-    }),
+    dragAndDropController: createWorkDragging(
+      vscode,
+      (line) => {
+        output.appendLine(line)
+        return undefined
+      },
+      {
+        moving: (order) => holdMoved(order),
+        refused: (order) => letGo(order),
+      }
+    ),
     showCollapseAll: true,
     showExpandAll: true,
     showFilter: true,
@@ -44,17 +61,31 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   let total = 0
 
+  const settled = (roots: readonly WorkTreeRow[]): readonly WorkTreeRow[] => {
+    let rows = roots
+    for (const [slug, labels] of [...holding]) {
+      if (agreementOf(intentLabelsIn(rows, slug), labels) === "stale") {
+        rows = reorderedTo(rows, { slug, labels })
+        continue
+      }
+      holding.delete(slug)
+    }
+    return rows
+  }
+
   const draw = (held: WorkTreeState, trigger: string): undefined => {
     try {
-      tree.replace(held.roots)
-      const rows = countRows(held.roots)
-      const initiatives = countOfKind(held.roots, "initiative")
-      const intents = countOfKind(held.roots, "intent")
+      const roots = settled(held.roots)
+      tree.replace(roots)
+      drawn = roots
+      const rows = countRows(roots)
+      const initiatives = countOfKind(roots, "initiative")
+      const intents = countOfKind(roots, "intent")
       total = rows
       view.description = describedAs(tree.matchCount(), total)
       view.badge = { value: rows, tooltip: rows === 1 ? "1 row" : `${rows} rows` }
       view.message = undefined
-      const keys = workKeys(held.roots)
+      const keys = workKeys(roots)
       const duplicated = keys.filter((key, at) => keys.indexOf(key) !== at)
       output.appendLine(`[${trigger}] ${initiatives} initiative(s), ${intents} intent(s)`)
       recordObservation(FEATURE, {
@@ -83,6 +114,18 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       return undefined
     }
     return draw(held, trigger)
+  }
+
+  const holdMoved = (order: Ordering): undefined => {
+    const labels = movedLabels(intentLabelsIn(drawn, order.slug), order.from, order.to)
+    if (labels === null) return undefined
+    holding.set(order.slug, labels)
+    return draw({ roots: drawn }, "drop")
+  }
+
+  const letGo = (order: Ordering): undefined => {
+    holding.delete(order.slug)
+    return refresh("refused")
   }
 
   const reading = followState<WorkTreeState>(akashaRoot(), SLUG, (held) => draw(held, "work"))

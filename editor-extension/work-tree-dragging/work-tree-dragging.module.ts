@@ -81,9 +81,16 @@ export const workTreeDragging = {
       statement: "Nothing here writes the initiative's page.",
     },
     {
-      invariantKind: "absence",
-      statement:
-        "Nothing here draws the panel again, the panel following the file the service writes.",
+      invariantKind: "departure",
+      statement: "A drop tells the panel to draw the new order before the move is made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop returns before the command answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refused move tells the panel to let the new order go.",
     },
   ],
 } as const satisfies Module
