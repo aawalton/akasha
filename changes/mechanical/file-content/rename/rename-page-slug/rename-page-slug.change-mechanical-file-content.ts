@@ -13,4 +13,14 @@ export const renamePageSlug = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A rung this change reaches reads the splices this change answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those splices are settled onto the ledger rather than onto a world made here.",
+    },
+  ],
 } as const satisfies ChangeMechanicalFileContent

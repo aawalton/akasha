@@ -16,6 +16,8 @@ import type {
   Stated,
 } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
+  addedTo,
+  isLedger,
   reach,
   type World,
   worldOver,
@@ -177,7 +179,7 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
   const answers: Answer[] = [stating(restating)]
   const before = gathered(answers)
   if (before.refused !== null) return before
-  let seen = worldOver(world, before)
+  let seen = isLedger(world) ? addedTo(world, before) : worldOver(world, before)
   if (given.plural !== undefined) {
     const stated = await reach(seen, CHANGE_PAGE_PROPERTY, {
       at: given.at,
