@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0143Chapter143Thievery = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0143-chapter-143-thievery",
   title: "Chapter 143: Thievery",
-  partOfSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
   position: 143,
   ownLength: 2135,
   unitSlug: "words",

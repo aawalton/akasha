@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0153Chapter153What = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0153-chapter-153-what",
   title: "Chapter 153: What...",
-  partOfSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
   position: 153,
   ownLength: 1819,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0006Chapter6SupraYdelicSuperiorTec
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0006-chapter-6-supra-ydelic-superior-technological-and",
   title: "Chapter 6: Supra Ydelic Superior Technological and Extradimensional Medium",
-  partOfSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
   position: 6,
   ownLength: 2702,
   unitSlug: "words",

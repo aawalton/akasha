@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0038Chapter38ItsDelicious = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0038-chapter-38-its-delicious",
   title: "Chapter 38: It's delicious!",
-  partOfSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
   position: 38,
   ownLength: 2711,
   unitSlug: "words",

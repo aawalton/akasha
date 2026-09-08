@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0599389TheBrokenButUnbreakableI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0599-389-the-broken-but-unbreakable-i",
   title: "389 The Broken But Unbreakable [I]",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 599,
   ownLength: 0,
   unitSlug: "words",

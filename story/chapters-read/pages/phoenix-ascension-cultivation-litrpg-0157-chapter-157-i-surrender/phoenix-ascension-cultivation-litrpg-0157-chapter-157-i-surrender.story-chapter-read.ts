@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0157Chapter157ISurrender = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0157-chapter-157-i-surrender",
   title: "Chapter 157: I... surrender.",
-  partOfSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
   position: 157,
   ownLength: 2132,
   unitSlug: "words",

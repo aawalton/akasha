@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled00077FueledByFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0007-7-fueled-by-flame",
   title: "7: Fueled by Flame",
-  partOfSlugs: ["rat-girl-evolution-lab-rat-to-unrivaled"],
+  partOfCollectionSlugs: ["rat-girl-evolution-lab-rat-to-unrivaled"],
   position: 7,
   ownLength: 2288,
   unitSlug: "words",

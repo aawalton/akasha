@@ -5,7 +5,7 @@ export const pathToProsperityLitrpgVol12Stubbed0004B1Epilogue = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-to-prosperity-litrpg-vol-12-stubbed-0004-b1-epilogue",
   title: "B1 Epilogue",
-  partOfSlugs: ["path-to-prosperity-litrpg-vol-12-stubbed"],
+  partOfCollectionSlugs: ["path-to-prosperity-litrpg-vol-12-stubbed"],
   position: 4,
   ownLength: 593,
   unitSlug: "words",

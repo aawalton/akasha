@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0028Chapter28FaXiaolan = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0028-chapter-28-fa-xiaolan",
   title: "Chapter 28: Fa Xiaolan!!!",
-  partOfSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
   position: 28,
   ownLength: 1991,
   unitSlug: "words",

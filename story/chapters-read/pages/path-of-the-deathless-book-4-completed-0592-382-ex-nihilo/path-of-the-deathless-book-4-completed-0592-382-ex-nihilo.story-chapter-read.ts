@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0592382ExNihilo = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0592-382-ex-nihilo",
   title: "382 Ex Nihilo",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 592,
   ownLength: 0,
   unitSlug: "words",

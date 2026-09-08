@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0148Chapter148CultivationGains = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0148-chapter-148-cultivation-gains",
   title: "Chapter 148: Cultivation Gains",
-  partOfSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
   position: 148,
   ownLength: 1631,
   unitSlug: "words",

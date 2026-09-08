@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0067Chapter67LightningDragon = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0067-chapter-67-lightning-dragon",
   title: "Chapter 67: Lightning Dragon",
-  partOfSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
   position: 67,
   ownLength: 2011,
   unitSlug: "words",

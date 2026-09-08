@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled00044InTooDeep = {
   pageTypeSlug: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0004-4-in-too-deep",
   title: "4: In Too Deep",
-  partOfSlugs: ["rat-girl-evolution-lab-rat-to-unrivaled"],
+  partOfCollectionSlugs: ["rat-girl-evolution-lab-rat-to-unrivaled"],
   position: 4,
   ownLength: 2625,
   unitSlug: "words",

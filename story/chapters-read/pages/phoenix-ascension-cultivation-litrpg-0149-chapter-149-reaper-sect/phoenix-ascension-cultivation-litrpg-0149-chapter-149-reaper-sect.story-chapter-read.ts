@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0149Chapter149ReaperSect = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0149-chapter-149-reaper-sect",
   title: "Chapter 149: Reaper Sect",
-  partOfSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
   position: 149,
   ownLength: 2973,
   unitSlug: "words",

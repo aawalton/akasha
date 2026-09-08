@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0127Chapter127Settling = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0127-chapter-127-settling",
   title: "Chapter 127: Settling",
-  partOfSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
   position: 127,
   ownLength: 2486,
   unitSlug: "words",

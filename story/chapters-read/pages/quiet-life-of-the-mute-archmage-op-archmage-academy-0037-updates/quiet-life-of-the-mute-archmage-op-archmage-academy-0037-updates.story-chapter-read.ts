@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0037Updates = {
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0037-updates",
   title: "Updates...",
-  partOfSlugs: ["quiet-life-of-the-mute-archmage-op-archmage-academy"],
+  partOfCollectionSlugs: ["quiet-life-of-the-mute-archmage-op-archmage-academy"],
   position: 37,
   ownLength: 94,
   unitSlug: "words",

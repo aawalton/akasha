@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0015Chapter15Slaughter = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0015-chapter-15-slaughter",
   title: "Chapter 15: Slaughter",
-  partOfSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
   position: 15,
   ownLength: 2687,
   unitSlug: "words",

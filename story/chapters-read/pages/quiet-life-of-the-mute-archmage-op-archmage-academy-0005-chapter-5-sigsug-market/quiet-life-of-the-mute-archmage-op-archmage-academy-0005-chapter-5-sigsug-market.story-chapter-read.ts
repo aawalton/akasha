@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0005Chapter5SigsugMarket
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0005-chapter-5-sigsug-market",
   title: "Chapter 5: Sigsug Market",
-  partOfSlugs: ["quiet-life-of-the-mute-archmage-op-archmage-academy"],
+  partOfCollectionSlugs: ["quiet-life-of-the-mute-archmage-op-archmage-academy"],
   position: 5,
   ownLength: 2271,
   unitSlug: "words",

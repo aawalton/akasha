@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0096Chapter96CultivationIsPain = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0096-chapter-96-cultivation-is-pain",
   title: "Chapter 96: Cultivation is Pain",
-  partOfSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
   position: 96,
   ownLength: 2132,
   unitSlug: "words",

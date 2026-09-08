@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0069Chapter546DarkChild = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0069-chapter-546-dark-child",
   title: "Chapter 546: Dark Child",
-  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
+  partOfCollectionSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 69,
   ownLength: 2902,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled00088AnUnluckyEncounter = {
   pageTypeSlug: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0008-8-an-unlucky-encounter",
   title: "8: An (Un?)Lucky Encounter",
-  partOfSlugs: ["rat-girl-evolution-lab-rat-to-unrivaled"],
+  partOfCollectionSlugs: ["rat-girl-evolution-lab-rat-to-unrivaled"],
   position: 8,
   ownLength: 2848,
   unitSlug: "words",
