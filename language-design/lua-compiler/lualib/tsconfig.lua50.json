@@ -9,7 +9,7 @@
     "rootDirs": ["src", "src/5.0"],
     "strict": true
   },
-  "tstl": {
+  "luaCompiler": {
     "luaLibImport": "none",
     "luaTarget": "5.0"
   },
