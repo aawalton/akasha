@@ -155,6 +155,7 @@ export const alanWeb = {
     "module/use-reader-active-marks",
     "module/widget-tap-answering",
     "route/about",
+    "route/categorization",
     "route/claude-usage",
     "route/inbox-stoplights",
     "route/no-such-route",
