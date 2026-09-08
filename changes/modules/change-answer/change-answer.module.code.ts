@@ -2,9 +2,7 @@ import type {
   Adding,
   Answer,
   Bodies,
-  Edit,
   Moving,
-  Reading,
   Removing,
   Replacing,
   Said,
@@ -45,13 +43,6 @@ export function written(path: string, was: string | null, body: string): readonl
   if (was === null || was === "") return [{ kind: "add", path, content: body }]
   if (was === body) return []
   return [{ kind: "replace", path, contentFrom: was, contentTo: body }]
-}
-
-function readingIn(one: Reading): Reading {
-  const held: { readersOweReading?: boolean; writerOwesReading?: boolean } = {}
-  if (one.readersOweReading !== undefined) held.readersOweReading = one.readersOweReading
-  if (one.writerOwesReading !== undefined) held.writerOwesReading = one.writerOwesReading
-  return held
 }
 
 function addedIn(one: Adding, textOf: BodyOf): Expanded {
@@ -111,27 +102,6 @@ export function expanded(one: Stated, textOf: BodyOf): Expanded {
   if (one.kind === "replace") return replacedIn(one, textOf)
   if (one.kind === "remove") return removedIn(one, textOf)
   return movedIn(one, textOf)
-}
-
-export function narrowed(one: Edit): readonly Stated[] {
-  const reading = readingIn(one)
-  const came = one.from === one.path ? undefined : one.from
-  const body = one.body
-  if (one.was === null) {
-    if (body === null) return []
-    return [{ ...reading, kind: "add", path: one.path, content: body }]
-  }
-  if (body === null) return [{ ...reading, kind: "remove", path: came ?? one.path }]
-  const fresh = one.was === ""
-  if (came === undefined) {
-    if (one.was === body) return []
-    if (fresh) return [{ ...reading, kind: "add", path: one.path, content: body }]
-    return [{ ...reading, kind: "replace", path: one.path, contentFrom: one.was, contentTo: body }]
-  }
-  const moved: Stated = { ...reading, kind: "move", pathFrom: came, pathTo: one.path }
-  if (one.was === body) return [moved]
-  if (fresh) return [moved, { kind: "add", path: one.path, content: body }]
-  return [moved, { kind: "replace", path: one.path, contentFrom: one.was, contentTo: body }]
 }
 
 export function replayed(said: Said, textOf: BodyOf): Bodies | { readonly refused: string } {
