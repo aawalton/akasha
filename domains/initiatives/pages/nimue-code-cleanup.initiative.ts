@@ -28,12 +28,12 @@ export const nimueCodeCleanup = {
         "`file-has-its-page` reads a hardcoded `node_modules` today, and reading the property instead retires that constant and covers every build folder at once. `folder-matches-a-shape` has the same gap: it refuses the two ios app folders over their `www`, which is declared a build folder already. Both checks want the property rather than one.",
     },
     {
-      statement: "A change carrying a folder repoints a path spelled outside a TypeScript body.",
+      statement: "A change moving a folder repoints a path spelled outside a TypeScript body.",
       workingMemory:
         '"`change-imports` rewrites a repo-relative path spelled as a string literal, but only in a `.ts` or `.tsx` body, so a path in a comment, a shell script or a manifest still names the old folder. The move visits an outside file only where the import index names it, so a body spelling a moved path without importing it is never reached. `spellingOf` in `path-naming` scans for those bodies and nothing but its own test calls it. The ios app directives are script-relative, so none blocks the move."',
     },
     {
-      statement: "A change carrying a folder repoints the manifest naming that folder.",
+      statement: "A change moving a folder repoints the manifest naming that folder.",
       workingMemory:
         "`move-folder` reaches `move-file` and `change-imports` and nothing else, so a package's `exports` still names the old path after a move. A draft moving `code-system/utf8-body` refuses, because `alan/track/track-landing` reaches it through `@akasha/code/utf8-body`, which still points at the old folder. `change-manifest-ways` already rewrites a manifest's ways from a moved-path map, and nothing reaches it. The move to `code` escapes this, every way there being spelled against the package root.",
     },

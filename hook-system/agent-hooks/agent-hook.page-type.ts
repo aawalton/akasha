@@ -95,7 +95,7 @@ export const agentHook = {
     },
     {
       invariantKind: "departure",
-      statement: "A move carrying a hook's code file rewrites the live settings documents too.",
+      statement: "A move that takes a hook's code file rewrites the live settings documents too.",
     },
     {
       invariantKind: "gap",

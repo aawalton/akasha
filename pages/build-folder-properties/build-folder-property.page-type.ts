@@ -29,7 +29,7 @@ export const buildFolderProperty = {
     },
     {
       invariantKind: "gap",
-      statement: "A change carrying a folder leaves out the folders this property names.",
+      statement: "A change moving a folder leaves out the folders this property names.",
     },
     {
       invariantKind: "gap",
