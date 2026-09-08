@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0447Chapter448LightShinesNotSo
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0447-chapter-448-light-shines-not-so-brightly",
   title: "Chapter 448 - Light Shines Not So Brightly",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 447,
   ownLength: 3337,
   unitSlug: "words",

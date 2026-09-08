@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0412Chapter415TasteThis = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0412-chapter-415-taste-this",
   title: "Chapter 415 - Taste This",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 412,
   ownLength: 3128,
   unitSlug: "words",

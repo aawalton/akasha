@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0409Chapter412IMetAnotherOne =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0409-chapter-412-i-met-another-one",
   title: "Chapter 412 - I Met Another One",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 409,
   ownLength: 3730,
   unitSlug: "words",

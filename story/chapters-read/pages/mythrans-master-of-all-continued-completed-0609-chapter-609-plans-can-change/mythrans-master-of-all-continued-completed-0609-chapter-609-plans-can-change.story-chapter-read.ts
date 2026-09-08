@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0609Chapter609PlansCanChange =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0609-chapter-609-plans-can-change",
   title: "Chapter 609 - Plans Can Change",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 609,
   ownLength: 2225,
   unitSlug: "words",

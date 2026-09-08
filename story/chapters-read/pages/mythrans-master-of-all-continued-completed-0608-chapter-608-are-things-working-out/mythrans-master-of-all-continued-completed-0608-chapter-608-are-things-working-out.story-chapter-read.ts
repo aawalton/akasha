@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0608Chapter608AreThingsWorking
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0608-chapter-608-are-things-working-out",
   title: "Chapter 608 - Are Things Working Out?",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 608,
   ownLength: 2745,
   unitSlug: "words",

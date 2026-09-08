@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0311Chapter319EsSuCasa = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0311-chapter-319-es-su-casa",
   title: "Chapter 319 - Es Su Casa",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 311,
   ownLength: 4069,
   unitSlug: "words",

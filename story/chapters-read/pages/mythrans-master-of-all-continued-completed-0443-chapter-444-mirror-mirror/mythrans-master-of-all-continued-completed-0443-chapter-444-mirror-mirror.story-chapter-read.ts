@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0443Chapter444MirrorMirror = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0443-chapter-444-mirror-mirror",
   title: "Chapter 444 - Mirror, Mirror",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 443,
   ownLength: 4290,
   unitSlug: "words",

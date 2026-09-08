@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0462Chapter462SayHiToTheHighEl
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0462-chapter-462-say-hi-to-the-high-elves",
   title: "Chapter 462 - Say Hi To The High Elves",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 462,
   ownLength: 2996,
   unitSlug: "words",

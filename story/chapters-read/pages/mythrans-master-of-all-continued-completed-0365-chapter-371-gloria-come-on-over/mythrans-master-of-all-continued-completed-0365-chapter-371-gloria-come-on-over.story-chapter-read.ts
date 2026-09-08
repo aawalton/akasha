@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0365Chapter371GloriaComeOnOver
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0365-chapter-371-gloria-come-on-over",
   title: "Chapter 371 - Gloria, Come On Over",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 365,
   ownLength: 3532,
   unitSlug: "words",

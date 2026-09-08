@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0359Chapter366MayorDuties = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0359-chapter-366-mayor-duties",
   title: "Chapter 366 - Mayor Duties",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 359,
   ownLength: 3516,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0467Chapter467AnotherGuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0467-chapter-467-another-guest",
   title: "Chapter 467 - Another Guest",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 467,
   ownLength: 3186,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0323Chapter331Unleashed = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0323-chapter-331-unleashed",
   title: "Chapter 331 - Unleashed",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 323,
   ownLength: 3445,
   unitSlug: "words",

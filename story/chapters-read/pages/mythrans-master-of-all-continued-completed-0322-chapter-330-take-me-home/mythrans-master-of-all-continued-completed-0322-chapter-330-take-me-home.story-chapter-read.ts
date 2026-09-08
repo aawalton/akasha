@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0322Chapter330TakeMeHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0322-chapter-330-take-me-home",
   title: "Chapter 330 - Take Me Home",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 322,
   ownLength: 3285,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0523Chapter523FearThyNeighbour
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0523-chapter-523-fear-thy-neighbour",
   title: "Chapter 523 - Fear Thy Neighbour",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 523,
   ownLength: 2097,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0414Chapter417RestAndRelax = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0414-chapter-417-rest-and-relax",
   title: "Chapter 417 - Rest And Relax",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 414,
   ownLength: 3685,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0459Chapter459FullyArmored = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0459-chapter-459-fully-armored",
   title: "Chapter 459 - Fully Armored",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 459,
   ownLength: 3267,
   unitSlug: "words",

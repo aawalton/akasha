@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0335Chapter342OnOurWay = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0335-chapter-342-on-our-way",
   title: "Chapter 342 - On Our Way",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 335,
   ownLength: 3466,
   unitSlug: "words",

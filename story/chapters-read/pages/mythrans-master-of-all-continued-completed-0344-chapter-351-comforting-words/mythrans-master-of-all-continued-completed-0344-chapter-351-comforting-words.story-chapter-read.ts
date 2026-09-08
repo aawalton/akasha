@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0344Chapter351ComfortingWords 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0344-chapter-351-comforting-words",
   title: "Chapter 351 - Comforting Words",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 344,
   ownLength: 3534,
   unitSlug: "words",

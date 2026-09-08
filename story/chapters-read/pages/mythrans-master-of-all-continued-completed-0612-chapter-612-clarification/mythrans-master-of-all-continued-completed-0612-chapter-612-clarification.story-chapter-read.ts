@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0612Chapter612Clarification = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0612-chapter-612-clarification",
   title: "Chapter 612 - Clarification",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 612,
   ownLength: 2672,
   unitSlug: "words",

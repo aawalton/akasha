@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0499Chapter499HeDidItAgain = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0499-chapter-499-he-did-it-again",
   title: "Chapter 499 - He Did It Again",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 499,
   ownLength: 3324,
   unitSlug: "words",

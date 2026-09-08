@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0406Chapter409ShargonCaverns =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0406-chapter-409-shargon-caverns",
   title: "Chapter 409 - Shargon Caverns",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 406,
   ownLength: 3558,
   unitSlug: "words",

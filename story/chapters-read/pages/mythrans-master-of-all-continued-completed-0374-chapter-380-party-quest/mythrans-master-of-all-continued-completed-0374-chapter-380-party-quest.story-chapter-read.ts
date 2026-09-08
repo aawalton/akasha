@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0374Chapter380PartyQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0374-chapter-380-party-quest",
   title: "Chapter 380 - Party Quest",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 374,
   ownLength: 3345,
   unitSlug: "words",

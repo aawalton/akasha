@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0355Chapter362RushHour = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0355-chapter-362-rush-hour",
   title: "Chapter 362 - Rush Hour",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 355,
   ownLength: 4486,
   unitSlug: "words",

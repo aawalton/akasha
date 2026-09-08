@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0613Chapter613DamageControl = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0613-chapter-613-damage-control",
   title: "Chapter 613 - Damage Control",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 613,
   ownLength: 2668,
   unitSlug: "words",

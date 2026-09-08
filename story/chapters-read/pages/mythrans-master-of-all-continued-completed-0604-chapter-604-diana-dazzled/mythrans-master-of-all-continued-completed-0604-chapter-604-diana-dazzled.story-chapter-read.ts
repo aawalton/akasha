@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0604Chapter604DianaDazzled = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0604-chapter-604-diana-dazzled",
   title: "Chapter 604 - Diana Dazzled",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 604,
   ownLength: 3123,
   unitSlug: "words",

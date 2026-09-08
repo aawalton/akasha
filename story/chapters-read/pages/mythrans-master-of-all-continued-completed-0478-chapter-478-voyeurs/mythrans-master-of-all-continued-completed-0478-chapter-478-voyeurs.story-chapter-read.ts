@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0478Chapter478Voyeurs = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0478-chapter-478-voyeurs",
   title: "Chapter 478 - Voyeurs",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 478,
   ownLength: 3245,
   unitSlug: "words",

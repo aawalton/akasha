@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0302Chapter311ShoalIsland = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0302-chapter-311-shoal-island",
   title: "Chapter 311 - Shoal Island",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 302,
   ownLength: 3299,
   unitSlug: "words",

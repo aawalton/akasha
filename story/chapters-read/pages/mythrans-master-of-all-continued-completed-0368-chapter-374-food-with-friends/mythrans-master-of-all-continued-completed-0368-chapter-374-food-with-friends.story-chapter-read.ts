@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0368Chapter374FoodWithFriends 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0368-chapter-374-food-with-friends",
   title: "Chapter 374 - Food With Friends",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 368,
   ownLength: 3242,
   unitSlug: "words",

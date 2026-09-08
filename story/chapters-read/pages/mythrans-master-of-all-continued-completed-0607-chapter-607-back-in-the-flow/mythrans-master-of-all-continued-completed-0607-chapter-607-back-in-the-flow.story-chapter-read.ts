@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0607Chapter607BackInTheFlow = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0607-chapter-607-back-in-the-flow",
   title: "Chapter 607 - Back in the Flow",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 607,
   ownLength: 2932,
   unitSlug: "words",
