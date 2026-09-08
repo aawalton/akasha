@@ -8,6 +8,8 @@
     "./shape-object": "./shape-object/shape-object.module.code.ts",
     "./shape-scalar": "./shape-scalar/shape-scalar.module.code.ts",
     "./as-boolean": "./as-boolean/as-boolean.module.code.ts",
+    "./as-instant": "./as-instant/as-instant.module.code.ts",
+    "./as-number": "./as-number/as-number.module.code.ts",
     "./as-object-record": "./as-object-record/as-object-record.module.code.ts",
     "./as-record": "./as-record/as-record.module.code.ts",
     "./assert-never": "./assert-never/assert-never.module.code.ts",

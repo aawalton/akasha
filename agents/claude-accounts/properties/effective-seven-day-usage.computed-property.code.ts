@@ -7,10 +7,8 @@ function withdrawn(said: unknown): boolean {
   return typeof said === "string" && said !== ""
 }
 
-// A percent beside the page is read out of a file rather than out of the page's own text, so it
-// reaches here as the text it was written as where it was written that way. The declared type
-// says number, and this is the one place that difference is met.
-function percentIn(said: unknown): number | null {
+function sevenDaySpentIn(page: WorkedClaudeAccount): number | null {
+  const said: unknown = page.sevenDayPercentUsed
   if (typeof said === "number") return Number.isFinite(said) ? said : null
   if (typeof said !== "string" || said === "") return null
   const found = Number(said)
@@ -19,5 +17,5 @@ function percentIn(said: unknown): number | null {
 
 export const work: Work<WorkedClaudeAccount, number> = (page) => {
   if (withdrawn(page.subscriptionDisabledReason)) return CEILING
-  return percentIn(page.sevenDayPercentUsed)
+  return sevenDaySpentIn(page)
 }

@@ -12,6 +12,8 @@ export const utilsNarrow = {
     "module/shape-object",
     "module/shape-scalar",
     "module/as-boolean",
+    "module/as-instant",
+    "module/as-number",
     "module/as-object-record",
     "module/as-record",
     "module/assert-never",

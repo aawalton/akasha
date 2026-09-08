@@ -1,3 +1,4 @@
+import { asNumber } from "@akasha/utils-narrow/as-number"
 import type { Asking, Row } from "../../../readout-asking/readout-asking.module.code.ts"
 
 const CLAUDE_ACCOUNT = "claude-account"
@@ -11,18 +12,11 @@ export function weeklyUsageAsked(): Readonly<Record<string, unknown>> {
   return { "page-type": CLAUDE_ACCOUNT, keys: [SEVEN_DAY_PERCENT_USED] }
 }
 
-export function percentIn(held: unknown): number | null {
-  if (typeof held === "number") return Number.isFinite(held) ? held : null
-  if (typeof held !== "string" || held === "") return null
-  const read = Number(held)
-  return Number.isFinite(read) ? read : null
-}
-
 export function meanUsedIn(rows: readonly Row[]): number | null {
   let total = 0
   let counted = 0
   for (const row of rows) {
-    const percent = percentIn(row.values[SEVEN_DAY_PERCENT_USED])
+    const percent = asNumber(row.values[SEVEN_DAY_PERCENT_USED])
     if (percent === null) continue
     total += percent
     counted += 1
