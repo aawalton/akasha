@@ -21,6 +21,7 @@ export const temperEsoGenerateHudSceneCatalog = {
     "a component the game parents to GuiRoot and creates at runtime is outside a single-file walk, and so outside this catalog.",
     "a scene source naming no component refuses the call, because an empty catalog reads to every consumer as a clean answer.",
     "a rendered module over the fifteen thousand byte akasha ceiling refuses the call and is a sign the catalog wants dividing further.",
+    "the three modules land together as one commit through the mechanical change that writes a code file, and a module the checkout already holds is left out.",
   ],
   invariants: [
     {
@@ -43,6 +44,14 @@ export const temperEsoGenerateHudSceneCatalog = {
     {
       invariantKind: "departure",
       statement: "The checkout written into is named on the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The catalog lands as one mechanical change rather than written by this command.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module the checkout already holds is left out of that change.",
     },
     {
       invariantKind: "absence",

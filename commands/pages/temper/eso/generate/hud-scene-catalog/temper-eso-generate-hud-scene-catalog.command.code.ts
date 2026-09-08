@@ -1,6 +1,7 @@
 import { realpathSync } from "node:fs"
-import { mkdir, readFile, writeFile } from "node:fs/promises"
+import { readFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
+import { type Asking, runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
@@ -26,6 +27,10 @@ const DOC_REL = "ESOUIDocumentation.txt"
 const CATALOG_DIR = "temper/temper-hud-components"
 
 const AKASHA_FILE_CEILING = 15000
+
+const PUT = "change-mechanical/add-file-code"
+
+const MESSAGE = "the catalog of HUD parts, read out of the game's own scene source"
 
 interface CatalogModule {
   readonly slug: string
@@ -146,16 +151,22 @@ export async function temperEsoGenerateHudSceneCatalog(
   }
 
   const written: string[] = []
-  try {
-    for (const one of rendered) {
-      const outDir = resolve(root, CATALOG_DIR, one.slug)
-      await mkdir(outDir, { recursive: true })
-      const outPath = join(outDir, `${one.slug}.module.code.ts`)
-      await writeFile(outPath, one.body)
-      written.push(`${outPath} (${String(one.count)})`)
+  const asked: Asking[] = []
+  for (const one of rendered) {
+    const at = `${CATALOG_DIR}/${one.slug}/${one.slug}.module.code.ts`
+    let had: string | null = null
+    try {
+      had = await readFile(resolve(root, at), "utf8")
+    } catch {}
+    if (had !== one.body) asked.push({ at: PUT, given: { at, body: one.body } })
+    const said = had === one.body ? "held" : "landed"
+    written.push(`${said} ${resolve(root, at)} (${String(one.count)})`)
+  }
+  if (asked.length > 0) {
+    const landed = await runMechanicalChange(root, asked, MESSAGE)
+    if ("refusals" in landed) {
+      return refused(`the catalog was not landed whole — ${landed.refusals.join("; ")}`, FAILED)
     }
-  } catch (thrown) {
-    return refused(`the catalog was not written whole — ${saidShort(thrown)}`, FAILED)
   }
 
   const fragments = catalog.filter((one) => one.kind === "fragment").length
@@ -166,7 +177,7 @@ export async function temperEsoGenerateHudSceneCatalog(
         `${String(catalog.length - fragments)} non-fragment control(s), ` +
         `${String(uncategorized)} uncategorized`,
       `read from ${scenePath} at API version ${String(apiVersion)}`,
-      ...written.map((one) => `wrote ${one}`),
+      ...written,
     ],
     [],
     0
