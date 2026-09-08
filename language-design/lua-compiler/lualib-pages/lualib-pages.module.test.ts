@@ -3,7 +3,7 @@ import { type LualibPage, sourcesFrom } from "./lualib-pages.module.code.ts"
 
 const SCANNED = [
   "/lua-compiler/lualib/src/ArrayAt.ts",
-  "/lua-compiler/lualib/src/ArrayConcat.ts",
+  "/lua-compiler/lualib/src/Nowhere.ts",
   "/lua-compiler/lualib/src/universal/Unpack.ts",
   "/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts",
 ]
@@ -33,7 +33,7 @@ test("no page at all answers with the scanned files themselves", () => {
 test("a Lua export names its feature once the export's `__TS__` prefix is dropped", () => {
   expect(sourcesFrom(SCANNED, [ARRAY_AT], false).rootNames).toEqual([
     ARRAY_AT.codePath,
-    "/lua-compiler/lualib/src/ArrayConcat.ts",
+    "/lua-compiler/lualib/src/Nowhere.ts",
     "/lua-compiler/lualib/src/universal/Unpack.ts",
     "/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts",
   ])
