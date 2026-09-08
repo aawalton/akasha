@@ -23,7 +23,7 @@ import {
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { runChange as changeImports } from "../../../file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as moveFile } from "../move-file/move-file.change-mechanical-file.code.ts"
-import { renamePath } from "./move-file-code.change-mechanical.code.ts"
+import { runChange } from "./move-file-code.change-mechanical.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -55,21 +55,39 @@ function bodyIn(said: Answer, textOf: BodyOf, path: string): string {
   return bodiesIn(said, textOf).get(path) ?? ""
 }
 
+test("a path under no TypeScript name is refused", async () => {
+  const world = worldIn(scratch.rootFor("move-file-code-"), () => null)
+  const said = await runChange(world, { from: "akasha/one/held.md", to: KEPT })
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`akasha/one/held.md` is under no TypeScript name, so this change carries nothing"
+  )
+})
+
+test("a path under no TypeScript name to land at is refused", async () => {
+  const world = worldIn(scratch.rootFor("move-file-code-"), () => null)
+  const said = await runChange(world, { from: HELD_CODE, to: "akasha/one/kept.md" })
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`akasha/one/kept.md` is under no TypeScript name, so this change carries nothing"
+  )
+})
+
 test("the path it already sits at is refused", async () => {
-  const world = worldIn(scratch.rootFor("rename-path-"), () => null)
-  const said = await renamePath(world, { from: KEPT, to: KEPT })
+  const world = worldIn(scratch.rootFor("move-file-code-"), () => null)
+  const said = await runChange(world, { from: KEPT, to: KEPT })
   expect(said.refused).toBe("`akasha/one/kept.module.code.ts` is the path it already sits at")
 })
 
 test("a body that could not be read is refused", async () => {
-  const world = worldIn(scratch.rootFor("rename-path-"), () => null)
-  const said = await renamePath(world, { from: HELD_CODE, to: KEPT })
+  const world = worldIn(scratch.rootFor("move-file-code-"), () => null)
+  const said = await runChange(world, { from: HELD_CODE, to: KEPT })
   expect(said.refused).toBe(`\`${HELD_CODE}\` could not be read`)
 })
 
 test("a body already at the path it would move to is refused", async () => {
   const root = indexedRepo()
-  const said = await renamePath(worldIn(root, textIn(root)), {
+  const said = await runChange(worldIn(root, textIn(root)), {
     from: HELD_CODE,
     to: NAMER_CODE,
   })
@@ -79,8 +97,8 @@ test("a body already at the path it would move to is refused", async () => {
 test("an index that cannot answer refuses rather than narrowing the reach", async () => {
   const held = (path: string): string | null =>
     path === HELD_CODE ? "export const kept = 1\n" : null
-  const world = worldIn(scratch.rootFor("rename-path-"), held)
-  const said = await renamePath(world, { from: HELD_CODE, to: KEPT })
+  const world = worldIn(scratch.rootFor("move-file-code-"), held)
+  const said = await runChange(world, { from: HELD_CODE, to: KEPT })
   expect(said.edits).toEqual([])
   expect(said.refused).toContain("so none were repointed")
 })
@@ -88,7 +106,7 @@ test("an index that cannot answer refuses rather than narrowing the reach", asyn
 test("a path that moves carries its importer with it", async () => {
   const root = indexedRepo()
   const text = textIn(root)
-  const said = await renamePath(worldIn(root, text), { from: HELD_CODE, to: KEPT })
+  const said = await runChange(worldIn(root, text), { from: HELD_CODE, to: KEPT })
   expect(said.refused).toBe(null)
   expect(pathsOf(said)).toEqual([KEPT, NAMER_CODE].sort())
   expect(bodyIn(said, text, NAMER_CODE)).toContain("../one/kept.module.code.ts")
@@ -97,7 +115,7 @@ test("a path that moves carries its importer with it", async () => {
 test("the path taken away is answered as the move the body arrives by", async () => {
   const root = indexedRepo()
   const text = textIn(root)
-  const said = await renamePath(worldIn(root, text), { from: HELD_CODE, to: KEPT })
+  const said = await runChange(worldIn(root, text), { from: HELD_CODE, to: KEPT })
   const moves = movesOf(said)
   expect(moves).toHaveLength(1)
   expect(moves[0]?.pathFrom).toBe(HELD_CODE)
@@ -109,10 +127,10 @@ test("a move off a path the move before it made reads that path and its importer
   const root = indexedRepo()
   const text = textIn(root)
   const world = worldIn(root, text)
-  const first = await renamePath(world, { from: HELD_CODE, to: KEPT })
+  const first = await runChange(world, { from: HELD_CODE, to: KEPT })
   expect(first.refused).toBe(null)
   const over = worldOver(world, gathered([first]))
-  const said = await renamePath(over, { from: KEPT, to: CARRIED })
+  const said = await runChange(over, { from: KEPT, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(pathsOf(said)).toEqual([CARRIED, NAMER_CODE].sort())
   expect(bodyIn(said, over.textOf, NAMER_CODE)).toContain("../one/carried.module.code.ts")
@@ -127,7 +145,7 @@ test("the body that moves is repointed by the change reached at its address", as
     return Promise.resolve({ edits: [], refused: null })
   })
 
-  await renamePath(world, { from: HELD_CODE, to: KEPT })
+  await runChange(world, { from: HELD_CODE, to: KEPT })
 
   expect(new Set(reached)).toEqual(
     new Set(["change-mechanical-file/move-file", "change-mechanical-file-content/change-imports"])

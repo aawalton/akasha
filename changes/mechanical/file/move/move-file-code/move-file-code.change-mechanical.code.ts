@@ -1,3 +1,4 @@
+import { extname } from "node:path"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type {
@@ -10,12 +11,19 @@ const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
 
 const MOVE_FILE = "change-mechanical-file/move-file"
 
-export type RenamePathAsked = {
+const CODE = new Set([".ts", ".tsx"])
+
+export type Asked = {
   readonly from: string
   readonly to: string
 }
 
-export async function renamePath(world: World, given: RenamePathAsked): Promise<Answer> {
+export async function runChange(world: World, given: Asked): Promise<Answer> {
+  for (const one of [given.from, given.to]) {
+    if (!CODE.has(extname(one))) {
+      return refusing(`\`${one}\` is under no TypeScript name, so this change carries nothing`)
+    }
+  }
   if (given.from === given.to) return refusing(`\`${given.to}\` is the path it already sits at`)
   const text = world.textOf(given.from)
   if (text === null) return refusing(`\`${given.from}\` could not be read`)
@@ -42,8 +50,4 @@ export async function renamePath(world: World, given: RenamePathAsked): Promise<
     seen = said.world
   }
   return stating(edits)
-}
-
-export async function runChange(world: World, given: RenamePathAsked): Promise<Answer> {
-  return await renamePath(world, given)
 }

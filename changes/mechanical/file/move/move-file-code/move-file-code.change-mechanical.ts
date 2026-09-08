@@ -4,13 +4,56 @@ export const moveFileCode = {
   id: "01a07718-c9b6-7bb2-9eb2-27a44ed4fe7d",
   pageTypeSlug: "change-mechanical",
   slug: "move-file-code",
-  changeModeSlug: "change-mode-rename",
+  changeModeSlug: "change-mode-move",
   changeTargetTypeSlug: "change-target-type/file",
-  changeTargetSubtypeSlug: "change-target-subtype/file",
-  definition: "one file's path changed, with every body importing it repointed",
+  changeTargetSubtypeSlug: "change-target-subtype/file-code",
+  definition: "one code file carried to another path, with every body importing it repointed",
   code: "ts",
   test: "ts",
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
+  guardSlugs: ["change-guard/import-not-left-hanging"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A path under no TypeScript name is refused here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The path the file lands at is judged the same way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path holding no body is refused rather than carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path a body already sits at is refused rather than written over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file is carried by the change this change reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The body carried names its own imports by the paths its new folder reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every body importing the file names the path that file landed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index that cannot answer which bodies import the file refuses the carry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The imports left over the carry are judged by the guard this change names.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here works out a body of its own.",
+    },
+  ],
 } as const satisfies ChangeMechanical
