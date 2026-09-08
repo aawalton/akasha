@@ -22,6 +22,13 @@ export const coachingNote = {
   slug: "coaching-note",
   definition: "a limit, a cue or a thing noticed that the coach programs by",
   pluralSlug: "coaching-notes",
+  partSlugs: [
+    "boolean-property/coaching-constraint-active",
+    "file-property/asks",
+    "number-property/coaching-constraint-sort-order",
+    "select-property/coaching-constraint-kind",
+    "select-property/focus-tags",
+  ],
   extendsSlug: ["page-type/page"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
