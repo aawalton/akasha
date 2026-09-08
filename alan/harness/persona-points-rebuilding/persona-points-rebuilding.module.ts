@@ -4,7 +4,7 @@ export const personaPointsRebuilding = {
   id: "01a082eb-4f25-7bd5-b488-a5c24903072e",
   pageTypeSlug: "module",
   slug: "persona-points-rebuilding",
-  definition: "each persona's points before today, worked out again from the days before today",
+  definition: "each persona's points, worked out again from the days her messages were counted on",
   code: "ts",
   test: "ts",
   invariants: [
@@ -18,11 +18,19 @@ export const personaPointsRebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "Today itself is left out.",
+      statement: "Today itself is left out of the points before today.",
     },
     {
       invariantKind: "departure",
-      statement: "Today's own points are left as they were kept.",
+      statement: "Today's points are the messages on today's own day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A persona's three figures agree once the rebuild ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A persona written to only today carries nothing before today.",
     },
     {
       invariantKind: "departure",
