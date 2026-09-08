@@ -141,6 +141,24 @@ test("a path the change moved under has no reading recorded", async () => {
   expect(readingIn(root, AGENT, PAGE)).toBeNull()
 })
 
+const UNEXPORTABLE_AT = "akasha/2026-08-20.domain.ts"
+
+const UNEXPORTABLE =
+  "export const held = {\n" +
+  '  id: "01a04e11-0000-7000-8000-000000000031",\n' +
+  '  pageTypeSlug: "domain",\n' +
+  '  slug: "2026-08-20",\n' +
+  "}\n"
+
+test("an apply refuses a page whose slug names no export", async () => {
+  const root = pagesRepo()
+  const held = new Map([[UNEXPORTABLE_AT, { was: null, body: bytes(UNEXPORTABLE) }]])
+  const said = await applied(root, AGENT, "applied", ADMITS, null, [], { held, running: OWES })
+  if (!("refusals" in said)) throw new Error("the apply landed a page naming no export")
+  expect(said.refusals.join("\n")).toContain("which no `export const` may be declared under")
+  expect(existsSync(join(root, UNEXPORTABLE_AT))).toBe(false)
+})
+
 test("a path an apply is handed as a carry moves on disk", async () => {
   const root = await indexed()
   writeFileSync(join(root, "held.uncommitted.ts"), "unsaid")
