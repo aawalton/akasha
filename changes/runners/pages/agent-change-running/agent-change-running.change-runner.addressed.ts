@@ -1,4 +1,7 @@
 export type Changes = {
+  "change-agent/add-copied-property-to-every-page": Parameters<
+    typeof import("../../../agent/page-type/add-copied-property-to-every-page/add-copied-property-to-every-page.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/add-file": Parameters<
     typeof import("../../../agent/file/add-file/add-file.change-agent.code.ts")["runChange"]
   >[1]
