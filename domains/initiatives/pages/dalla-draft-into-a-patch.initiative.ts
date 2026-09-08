@@ -10,7 +10,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "The wide Edit type no longer exists.",
       workingMemory:
-        "`FileEdit` is `{ path, body: Uint8Array | null, carried? }` at `command-system/landing/landing.module.code.ts:24`, and a decoy in `pages/shadow/shadow.module.test.ts` sorts first in a search. Every file naming it is `command-system`'s own machinery bar two: `subagent-presence`, and `tracking-landing`, whose `landingTracked` takes `FileEdit[]` for its one caller `tracking.command` while `landTracking` beside it takes a string body.",
+        "`file-arguing.builtIn` reads argv into `{ changes: FileEdit[], message }`, the one place an edit is composed outside the landing. Two near-identical `askedFor` twins decode those bytes back to strings and name a change, in `mechanical-filing` and `tracking-landing`, differing in the write address. `builtIn` answering `Asking[]` takes both with it. `subagent-presence` is the only other reach in. A decoy in `pages/shadow` sorts first in a search.",
     },
     {
       statement: "A file that is not text is refused rather than decoded into an edit.",
