@@ -5,7 +5,7 @@ export const revelation = {
   pageTypeSlug: "scripture-collection",
   slug: "revelation",
   title: "Revelation",
-  partOfSlugs: ["new-testament"],
+  partOfCollectionSlugs: ["new-testament"],
   position: 27,
   ownLength: 0,
   ownProgress: 0,

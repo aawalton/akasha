@@ -5,7 +5,7 @@ export const scriptureCollection1Chronicles = {
   pageTypeSlug: "scripture-collection",
   slug: "scripture-collection-1-chronicles",
   title: "1 Chronicles",
-  partOfSlugs: ["old-testament"],
+  partOfCollectionSlugs: ["old-testament"],
   position: 13,
   ownLength: 0,
   ownProgress: 0,

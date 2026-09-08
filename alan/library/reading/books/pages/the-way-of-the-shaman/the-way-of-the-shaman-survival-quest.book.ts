@@ -12,7 +12,7 @@ export const theWayOfTheShamanSurvivalQuest = {
   ownLength: 82000,
   ownProgress: 82000,
   publishedAt: "2015-04-20",
-  partOfSlugs: ["book-series/the-way-of-the-shaman"],
+  partOfCollectionSlugs: ["book-series/the-way-of-the-shaman"],
   source: "kindle",
   externalId: "B00VQRW14E",
   externalLink: "https://amazon.com/dp/B00VQRW14E",

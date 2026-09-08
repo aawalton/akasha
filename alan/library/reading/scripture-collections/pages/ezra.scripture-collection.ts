@@ -5,7 +5,7 @@ export const ezra = {
   pageTypeSlug: "scripture-collection",
   slug: "ezra",
   title: "Ezra",
-  partOfSlugs: ["old-testament"],
+  partOfCollectionSlugs: ["old-testament"],
   position: 15,
   ownLength: 0,
   ownProgress: 0,

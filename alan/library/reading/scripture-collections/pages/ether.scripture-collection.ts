@@ -5,7 +5,7 @@ export const ether = {
   pageTypeSlug: "scripture-collection",
   slug: "ether",
   title: "Ether",
-  partOfSlugs: ["book-of-mormon"],
+  partOfCollectionSlugs: ["book-of-mormon"],
   position: 14,
   ownLength: 0,
   ownProgress: 0,

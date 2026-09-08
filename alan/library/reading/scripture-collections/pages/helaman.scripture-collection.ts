@@ -5,7 +5,7 @@ export const helaman = {
   pageTypeSlug: "scripture-collection",
   slug: "helaman",
   title: "Helaman",
-  partOfSlugs: ["book-of-mormon"],
+  partOfCollectionSlugs: ["book-of-mormon"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

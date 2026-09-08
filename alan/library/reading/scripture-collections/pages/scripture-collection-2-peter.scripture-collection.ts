@@ -5,7 +5,7 @@ export const scriptureCollection2Peter = {
   pageTypeSlug: "scripture-collection",
   slug: "scripture-collection-2-peter",
   title: "2 Peter",
-  partOfSlugs: ["new-testament"],
+  partOfCollectionSlugs: ["new-testament"],
   position: 22,
   ownLength: 0,
   ownProgress: 0,

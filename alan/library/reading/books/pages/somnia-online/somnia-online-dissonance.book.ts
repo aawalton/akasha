@@ -11,7 +11,7 @@ export const somniaOnlineDissonance = {
   ownLength: 88500,
   ownProgress: 88500,
   publishedAt: "2019-02-15",
-  partOfSlugs: ["book-series/somnia-online"],
+  partOfCollectionSlugs: ["book-series/somnia-online"],
   source: "kindle",
   externalId: "B07ND2XV5V",
   externalLink: "https://amazon.com/dp/B07ND2XV5V",

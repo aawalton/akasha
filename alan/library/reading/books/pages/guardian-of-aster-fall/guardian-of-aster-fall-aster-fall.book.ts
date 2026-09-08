@@ -12,7 +12,7 @@ export const guardianOfAsterFallAsterFall = {
   ownLength: 133500,
   ownProgress: 133500,
   publishedAt: "2021-12-10",
-  partOfSlugs: ["book-series/guardian-of-aster-fall"],
+  partOfCollectionSlugs: ["book-series/guardian-of-aster-fall"],
   source: "kindle",
   externalId: "B09HJF498B",
   externalLink: "https://amazon.com/dp/B09HJF498B",

@@ -5,7 +5,7 @@ export const james = {
   pageTypeSlug: "scripture-collection",
   slug: "james",
   title: "James",
-  partOfSlugs: ["new-testament"],
+  partOfCollectionSlugs: ["new-testament"],
   position: 20,
   ownLength: 0,
   ownProgress: 0,

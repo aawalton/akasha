@@ -10,7 +10,7 @@ export const salvosGrandSkill = {
   position: 6,
   ownLength: 132000,
   publishedAt: "2022-06-02",
-  partOfSlugs: ["book-series/salvos"],
+  partOfCollectionSlugs: ["book-series/salvos"],
   source: "kindle",
   externalId: "B09Y3GKGMW",
   externalLink: "https://amazon.com/dp/B09Y3GKGMW",

@@ -10,7 +10,7 @@ export const markOfTheCrijikGestiSky = {
   position: 3,
   ownLength: 112000,
   publishedAt: "2023-05-02",
-  partOfSlugs: ["book-series/mark-of-the-crijik"],
+  partOfCollectionSlugs: ["book-series/mark-of-the-crijik"],
   source: "kindle",
   externalId: "B0BT6JWBL3",
   externalLink: "https://amazon.com/dp/B0BT6JWBL3",

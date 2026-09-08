@@ -10,7 +10,7 @@ export const airFryerEssentials = {
   unitSlug: "minutes",
   ownLength: 87.6,
   ownProgress: 87.6,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "air-fryer-essentials",
   externalLink: "https://www.thegreatcoursesplus.com/air-fryer-essentials",

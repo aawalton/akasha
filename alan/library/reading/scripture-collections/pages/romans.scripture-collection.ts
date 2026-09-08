@@ -5,7 +5,7 @@ export const romans = {
   pageTypeSlug: "scripture-collection",
   slug: "romans",
   title: "Romans",
-  partOfSlugs: ["new-testament"],
+  partOfCollectionSlugs: ["new-testament"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

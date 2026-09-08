@@ -10,7 +10,7 @@ export const artisanBreadMakingAncientAndSproutedGrains = {
   unitSlug: "minutes",
   ownLength: 147,
   ownProgress: 147,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "artisan-bread-making-ancient-sprouted-grains",
   externalLink: "https://www.thegreatcoursesplus.com/artisan-bread-making-ancient-sprouted-grains",

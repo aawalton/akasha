@@ -10,7 +10,7 @@ export const classicPiesMadeEasy = {
   unitSlug: "minutes",
   ownLength: 163.633333,
   ownProgress: 163.633333,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "classic-pies-made-easy",
   externalLink: "https://www.thegreatcoursesplus.com/classic-pies-made-easy",

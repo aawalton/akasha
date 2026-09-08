@@ -5,7 +5,7 @@ export const joshua = {
   pageTypeSlug: "scripture-collection",
   slug: "joshua",
   title: "Joshua",
-  partOfSlugs: ["old-testament"],
+  partOfCollectionSlugs: ["old-testament"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

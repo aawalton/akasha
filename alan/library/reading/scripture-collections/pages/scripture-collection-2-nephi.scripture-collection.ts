@@ -5,7 +5,7 @@ export const scriptureCollection2Nephi = {
   pageTypeSlug: "scripture-collection",
   slug: "scripture-collection-2-nephi",
   title: "2 Nephi",
-  partOfSlugs: ["book-of-mormon"],
+  partOfCollectionSlugs: ["book-of-mormon"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

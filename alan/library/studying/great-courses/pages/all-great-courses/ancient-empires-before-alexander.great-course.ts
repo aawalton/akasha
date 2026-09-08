@@ -9,7 +9,7 @@ export const ancientEmpiresBeforeAlexander = {
   unitSlug: "minutes",
   ownLength: 1098.816667,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "ancient-empires-before-alexander",
   externalLink: "https://www.thegreatcoursesplus.com/ancient-empires-before-alexander",

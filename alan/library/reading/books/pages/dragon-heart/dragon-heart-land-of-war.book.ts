@@ -12,7 +12,7 @@ export const dragonHeartLandOfWar = {
   ownLength: 147250,
   ownProgress: 147250,
   publishedAt: "2021-03-30",
-  partOfSlugs: ["book-series/dragon-heart"],
+  partOfCollectionSlugs: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B08R28TZGN",
   externalLink: "https://amazon.com/dp/B08R28TZGN",

@@ -5,7 +5,7 @@ export const nahum = {
   pageTypeSlug: "scripture-collection",
   slug: "nahum",
   title: "Nahum",
-  partOfSlugs: ["old-testament"],
+  partOfCollectionSlugs: ["old-testament"],
   position: 34,
   ownLength: 0,
   ownProgress: 0,

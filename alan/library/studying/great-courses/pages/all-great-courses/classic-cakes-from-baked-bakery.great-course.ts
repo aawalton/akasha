@@ -10,7 +10,7 @@ export const classicCakesFromBakedBakery = {
   unitSlug: "minutes",
   ownLength: 111.616667,
   ownProgress: 111.616667,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "classic-cakes-from-baked-bakery",
   externalLink: "https://www.thegreatcoursesplus.com/classic-cakes-from-baked-bakery",

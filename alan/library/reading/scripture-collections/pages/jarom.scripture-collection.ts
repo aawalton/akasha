@@ -5,7 +5,7 @@ export const jarom = {
   pageTypeSlug: "scripture-collection",
   slug: "jarom",
   title: "Jarom",
-  partOfSlugs: ["book-of-mormon"],
+  partOfCollectionSlugs: ["book-of-mormon"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

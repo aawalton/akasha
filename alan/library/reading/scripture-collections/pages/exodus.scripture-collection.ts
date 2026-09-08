@@ -5,7 +5,7 @@ export const exodus = {
   pageTypeSlug: "scripture-collection",
   slug: "exodus",
   title: "Exodus",
-  partOfSlugs: ["old-testament"],
+  partOfCollectionSlugs: ["old-testament"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

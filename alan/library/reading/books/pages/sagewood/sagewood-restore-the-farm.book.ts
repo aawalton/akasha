@@ -10,7 +10,7 @@ export const sagewoodRestoreTheFarm = {
   position: 1,
   ownLength: 100500,
   publishedAt: "2024-06-05",
-  partOfSlugs: ["book-series/sagewood"],
+  partOfCollectionSlugs: ["book-series/sagewood"],
   source: "kindle",
   externalId: "B0CV1ZQCFC",
   externalLink: "https://amazon.com/dp/B0CV1ZQCFC",

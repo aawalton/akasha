@@ -5,7 +5,7 @@ export const lamentations = {
   pageTypeSlug: "scripture-collection",
   slug: "lamentations",
   title: "Lamentations",
-  partOfSlugs: ["old-testament"],
+  partOfCollectionSlugs: ["old-testament"],
   position: 25,
   ownLength: 0,
   ownProgress: 0,

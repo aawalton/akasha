@@ -5,7 +5,7 @@ export const newTestament = {
   pageTypeSlug: "scripture-collection",
   slug: "new-testament",
   title: "New Testament",
-  partOfSlugs: ["scriptures"],
+  partOfCollectionSlugs: ["scriptures"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

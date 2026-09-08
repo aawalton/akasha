@@ -5,7 +5,7 @@ export const leviticus = {
   pageTypeSlug: "scripture-collection",
   slug: "leviticus",
   title: "Leviticus",
-  partOfSlugs: ["old-testament"],
+  partOfCollectionSlugs: ["old-testament"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

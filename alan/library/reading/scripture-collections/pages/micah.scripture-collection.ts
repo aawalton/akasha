@@ -5,7 +5,7 @@ export const micah = {
   pageTypeSlug: "scripture-collection",
   slug: "micah",
   title: "Micah",
-  partOfSlugs: ["old-testament"],
+  partOfCollectionSlugs: ["old-testament"],
   position: 33,
   ownLength: 0,
   ownProgress: 0,

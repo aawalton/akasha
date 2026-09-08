@@ -9,7 +9,7 @@ export const consciousnessAndItsImplications = {
   unitSlug: "minutes",
   ownLength: 364.433333,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "consciousness-and-its-implications",
   externalLink: "https://www.thegreatcoursesplus.com/consciousness-and-its-implications",

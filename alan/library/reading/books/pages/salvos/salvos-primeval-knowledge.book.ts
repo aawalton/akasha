@@ -10,7 +10,7 @@ export const salvosPrimevalKnowledge = {
   position: 4,
   ownLength: 197750,
   publishedAt: "2021-12-02",
-  partOfSlugs: ["book-series/salvos"],
+  partOfCollectionSlugs: ["book-series/salvos"],
   source: "kindle",
   externalId: "B09BMPYZXF",
   externalLink: "https://amazon.com/dp/B09BMPYZXF",

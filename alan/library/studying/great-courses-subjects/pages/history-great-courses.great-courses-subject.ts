@@ -7,7 +7,7 @@ export const historyGreatCourses = {
   title: "History Great Courses",
   status: "paused",
   unitSlug: "minutes",
-  partOfSlugs: ["great-courses-by-subject"],
+  partOfCollectionSlugs: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-history",
 } as const satisfies GreatCoursesSubject

@@ -8,7 +8,7 @@ export const artGreatCourses = {
   status: "following",
   rank: "C",
   unitSlug: "minutes",
-  partOfSlugs: ["great-courses-by-subject"],
+  partOfCollectionSlugs: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-art",
 } as const satisfies GreatCoursesSubject

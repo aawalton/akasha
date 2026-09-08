@@ -11,7 +11,7 @@ export const guardianOfAsterFallAstralThreads = {
   ownLength: 132250,
   ownProgress: 132250,
   publishedAt: "2022-10-21",
-  partOfSlugs: ["book-series/guardian-of-aster-fall"],
+  partOfCollectionSlugs: ["book-series/guardian-of-aster-fall"],
   source: "kindle",
   externalId: "B0B4KQYS3K",
   externalLink: "https://amazon.com/dp/B0B4KQYS3K",

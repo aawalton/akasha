@@ -5,7 +5,7 @@ export const abraham = {
   pageTypeSlug: "scripture-collection",
   slug: "abraham",
   title: "Abraham",
-  partOfSlugs: ["pearl-of-great-price"],
+  partOfCollectionSlugs: ["pearl-of-great-price"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

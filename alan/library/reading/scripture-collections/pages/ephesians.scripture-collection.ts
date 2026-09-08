@@ -5,7 +5,7 @@ export const ephesians = {
   pageTypeSlug: "scripture-collection",
   slug: "ephesians",
   title: "Ephesians",
-  partOfSlugs: ["new-testament"],
+  partOfCollectionSlugs: ["new-testament"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

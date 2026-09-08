@@ -5,7 +5,7 @@ export const moroni = {
   pageTypeSlug: "scripture-collection",
   slug: "moroni",
   title: "Moroni",
-  partOfSlugs: ["book-of-mormon"],
+  partOfCollectionSlugs: ["book-of-mormon"],
   position: 15,
   ownLength: 0,
   ownProgress: 0,

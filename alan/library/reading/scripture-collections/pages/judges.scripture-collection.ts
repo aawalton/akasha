@@ -5,7 +5,7 @@ export const judges = {
   pageTypeSlug: "scripture-collection",
   slug: "judges",
   title: "Judges",
-  partOfSlugs: ["old-testament"],
+  partOfCollectionSlugs: ["old-testament"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

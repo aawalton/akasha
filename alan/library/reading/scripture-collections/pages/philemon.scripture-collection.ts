@@ -5,7 +5,7 @@ export const philemon = {
   pageTypeSlug: "scripture-collection",
   slug: "philemon",
   title: "Philemon",
-  partOfSlugs: ["new-testament"],
+  partOfCollectionSlugs: ["new-testament"],
   position: 18,
   ownLength: 0,
   ownProgress: 0,

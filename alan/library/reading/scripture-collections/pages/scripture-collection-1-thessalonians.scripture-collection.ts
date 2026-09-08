@@ -5,7 +5,7 @@ export const scriptureCollection1Thessalonians = {
   pageTypeSlug: "scripture-collection",
   slug: "scripture-collection-1-thessalonians",
   title: "1 Thessalonians",
-  partOfSlugs: ["new-testament"],
+  partOfCollectionSlugs: ["new-testament"],
   position: 13,
   ownLength: 0,
   ownProgress: 0,
