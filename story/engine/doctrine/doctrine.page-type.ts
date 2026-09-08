@@ -1,0 +1,65 @@
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
+import type { DoctrineVersion } from "../../gm-doctrine-packs/properties/doctrine-version.number-property.ts"
+import type { GateDimensions } from "../../gm-doctrine-packs/properties/gate-dimensions.file-property.ts"
+import type { Policies } from "../../gm-doctrine-packs/properties/policies.file-property.ts"
+import type { SheetTemplate } from "../../gm-doctrine-packs/properties/sheet-template.file-property.ts"
+import type { TallyCatalog } from "../../gm-doctrine-packs/properties/tally-catalog.file-property.ts"
+
+export type Doctrine = Page & {
+  doctrineVersion: DoctrineVersion
+  policies?: Policies
+  gateDimensions?: GateDimensions
+  sheetTemplate?: SheetTemplate
+  tallyCatalog?: TallyCatalog
+}
+
+export const doctrine = {
+  id: "01a0826f-8d12-7268-918c-0b3a3574d5f6",
+  pageTypeSlug: "page-type",
+  slug: "doctrine",
+  definition: "the rulings a game master runs every game by",
+  pluralSlug: "doctrine",
+  extendsSlug: ["page-type/page"],
+  runsTabooCheck: false,
+  partSlugs: [
+    "file-property/gate-dimensions",
+    "file-property/policies",
+    "file-property/sheet-template",
+    "file-property/tally-catalog",
+    "number-property/doctrine-version",
+  ],
+  properties: [
+    { pagePropertySlug: "number-property/doctrine-version", required: true, many: false },
+    { pagePropertySlug: "file-property/policies", required: false, many: false },
+    { pagePropertySlug: "file-property/gate-dimensions", required: false, many: false },
+    { pagePropertySlug: "file-property/sheet-template", required: false, many: false },
+    { pagePropertySlug: "file-property/tally-catalog", required: false, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The plural of doctrine is doctrine.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One doctrine is here at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A doctrine carries the revision that doctrine is on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each part of a doctrine is a file beside the doctrine.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reader loads only the part the reader asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The words a doctrine carries are the game master's rather than akasha's own.",
+    },
+  ],
+} as const satisfies PageType
