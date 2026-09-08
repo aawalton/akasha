@@ -14,6 +14,5 @@ export const exercise = {
     "command/exercise-policy-show",
     "namespace/exercise-profile",
     "command/exercise-schedule-create",
-    "command/exercise-today",
   ],
 } as const satisfies Namespace
