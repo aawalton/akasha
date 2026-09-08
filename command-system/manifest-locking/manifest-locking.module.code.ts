@@ -163,13 +163,26 @@ function lockAt(root: string): Uint8Array | null {
   }
 }
 
-function isStranded(at: string): boolean {
+function namedAt(at: string): string | null {
+  try {
+    const held: unknown = JSON.parse(readFileSync(join(at, MANIFEST), "utf8"))
+    if (typeof held !== "object" || held === null || !("name" in held)) return null
+    const name = held.name
+    return typeof name === "string" ? name : null
+  } catch {
+    return null
+  }
+}
+
+function isStranded(at: string, called: string): boolean {
   try {
     if (!lstatSync(at).isSymbolicLink()) return false
   } catch {
     return false
   }
-  return !existsSync(at)
+  if (!existsSync(at)) return true
+  const named = namedAt(at)
+  return named !== null && named !== called
 }
 
 function isFolder(at: string): boolean {
@@ -192,9 +205,10 @@ function strandedIn(root: string): readonly string[] {
     }
     for (const name of names) {
       const one = join(dir, name)
-      if (isStranded(one)) {
+      const called = relative(modules, one)
+      if (isStranded(one, called)) {
         rmSync(one)
-        took.push(relative(modules, one))
+        took.push(called)
         continue
       }
       if (deeper && isFolder(one)) walk(one, false)

@@ -112,7 +112,11 @@ export const manifestLocking = {
     },
     {
       invariantKind: "departure",
-      statement: "A link reaching a folder that is there is left alone.",
+      statement: "A link reaching the folder whose manifest names that link is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link reaching a folder whose manifest names another package is taken away.",
     },
     {
       invariantKind: "departure",

@@ -215,7 +215,26 @@ test("an install takes away a link under node_modules reaching a folder no manif
   expect(put.said.join("\n")).toContain("@held/stranded, stranded")
 })
 
-test("an install leaves a link under node_modules reaching a folder that is there", () => {
+test("an install takes away a link reaching a folder whose manifest names another package", () => {
+  const root = world(true)
+  const was = join(root, MODULES, "@held", "one")
+  expect(existsSync(was)).toBe(true)
+  const renaming = [
+    { path: MANIFEST, body: bytes(LINKED_BODY.replace("@held/one", "@held/renamed")) },
+    { path: "held/one/package.json", body: bytes(packageBody("renamed")) },
+  ]
+  const locked = lockingFor(root, baseOf(root), renaming)
+  for (const one of [...renaming, ...locked.edits]) {
+    writeFileSync(join(root, one.path), one.body ?? new Uint8Array())
+  }
+  const put = installingIn(root, renaming)
+  expect(put.wrong).toEqual([])
+  expect(linkThere(was)).toBe(false)
+  expect(existsSync(join(root, MODULES, "@held", "renamed"))).toBe(true)
+  expect(put.said.join("\n")).toContain("@held/one")
+})
+
+test("an install leaves a link reaching the folder whose manifest names that link", () => {
   const root = world(true)
   const link = join(root, MODULES, "@held", "one")
   expect(existsSync(link)).toBe(true)
