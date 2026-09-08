@@ -14,7 +14,7 @@ export const deviceSecretAdmission = {
     },
     {
       invariantKind: "departure",
-      statement: "The route carries no reading, so it judges the credential alone.",
+      statement: "The route has no reading, so it judges the credential alone.",
     },
     {
       invariantKind: "departure",

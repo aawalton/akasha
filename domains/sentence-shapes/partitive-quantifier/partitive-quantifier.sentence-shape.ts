@@ -16,7 +16,7 @@ export const partitiveQuantifier = {
     },
     {
       invariantKind: "departure",
-      statement: "A quantifier whose `of` phrase carries a count states that count nowhere else.",
+      statement: "A quantifier whose `of` phrase has a count states that count nowhere else.",
     },
   ],
 } as const satisfies SentenceShape

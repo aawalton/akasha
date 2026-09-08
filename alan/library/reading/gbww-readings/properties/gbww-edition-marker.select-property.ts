@@ -5,7 +5,7 @@ export const gbwwEditionMarker = {
   pageTypeSlug: "select-property",
   slug: "gbww-edition-marker",
   propertySlug: "edition-marker",
-  definition: "which editions of the set carry a reading",
+  definition: "which editions of the set have a reading",
   values: ["common", "ed2-only"],
   invariants: [
     {

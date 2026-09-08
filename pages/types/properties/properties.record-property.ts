@@ -93,7 +93,7 @@ export const properties = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a declaration carrying many values states a count.",
+      statement: "Only a declaration with many values states a count.",
     },
     {
       invariantKind: "departure",
@@ -101,17 +101,17 @@ export const properties = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a declaration carrying one value states a default.",
+      statement: "Only a declaration with one value states a default.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A value stands in the commit unless the declaration carrying that value says that value does not.",
+        "A value stands in the commit unless the declaration with that value says that value does not.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A value stands in the open unless the declaration carrying that value says that value does not.",
+        "A value stands in the open unless the declaration with that value says that value does not.",
     },
   ],
 } as const satisfies RecordProperty

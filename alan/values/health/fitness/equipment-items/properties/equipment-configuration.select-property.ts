@@ -10,7 +10,7 @@ export const equipmentConfiguration = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A piece carrying no load at all is configured n-a.",
+      statement: "A piece with no load at all is configured n-a.",
     },
   ],
 } as const satisfies SelectProperty

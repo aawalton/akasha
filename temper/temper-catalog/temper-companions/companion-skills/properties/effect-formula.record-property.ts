@@ -18,7 +18,7 @@ export const effectFormula = {
   pageTypeSlug: "record-property",
   slug: "effect-formula",
   propertySlug: "formula",
-  definition: "how an effect works out the number it carries",
+  definition: "how an effect works out the number it has",
   properties: [
     { pagePropertySlug: "text-property/formula-kind", required: false, many: false },
     { pagePropertySlug: "text-property/metric-id", required: false, many: false },

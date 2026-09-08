@@ -22,7 +22,7 @@ export const wallpaper = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona carrying no mobile wallpaper is passed over.",
+      statement: "A persona with no mobile wallpaper is passed over.",
     },
     {
       invariantKind: "departure",

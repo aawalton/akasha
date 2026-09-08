@@ -30,7 +30,7 @@ export const questionLinks = {
     },
     {
       invariantKind: "departure",
-      statement: "A question carries links only where Alan has to look at something to answer.",
+      statement: "A question has links only where Alan has to look at something to answer.",
     },
   ],
 } as const satisfies RecordProperty

@@ -33,7 +33,7 @@ export const bonusEffects = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry naming a metric also carries an effect type and an effect value.",
+      statement: "An entry naming a metric also has an effect type and an effect value.",
     },
   ],
 } as const satisfies RecordProperty

@@ -42,7 +42,7 @@ export const directives = {
     {
       invariantKind: "departure",
       statement:
-        "A directive needing more aids than that directive may hold carries design belonging in an invariant.",
+        "A directive needing more aids than that directive may hold has design belonging in an invariant.",
     },
   ],
 } as const satisfies RecordProperty

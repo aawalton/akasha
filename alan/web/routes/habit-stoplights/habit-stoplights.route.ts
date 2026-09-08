@@ -34,7 +34,7 @@ export const habitStoplights = {
     },
     {
       invariantKind: "departure",
-      statement: "A readout with no fresh reading answers a stoplight carrying no figure.",
+      statement: "A readout with no fresh reading answers a stoplight with no figure.",
     },
     {
       invariantKind: "departure",

@@ -14,7 +14,7 @@ export const secretSlugs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The secret is named by its slug rather than by the resource carrying it.",
+      statement: "The secret is named by its slug rather than by the resource with it.",
     },
     {
       invariantKind: "departure",

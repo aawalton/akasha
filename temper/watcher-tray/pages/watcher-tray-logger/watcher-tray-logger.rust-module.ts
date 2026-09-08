@@ -10,7 +10,7 @@ export const watcherTrayLogger = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A log line carries an instant and a level before the message.",
+      statement: "A log line has an instant and a level before the message.",
     },
     {
       invariantKind: "departure",

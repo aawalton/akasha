@@ -39,7 +39,7 @@ export const safetyLevel = {
     },
     {
       invariantKind: "departure",
-      statement: "A group with nothing carried in answers a stoplight carrying no figure.",
+      statement: "A group with nothing carried in answers a stoplight with no figure.",
     },
     {
       invariantKind: "departure",

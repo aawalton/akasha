@@ -25,7 +25,7 @@ export const uniquePropertySlug = {
     },
     {
       invariantKind: "departure",
-      statement: "The property named here carries one value.",
+      statement: "The property named here has one value.",
     },
     {
       invariantKind: "departure",

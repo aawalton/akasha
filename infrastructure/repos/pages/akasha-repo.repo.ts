@@ -59,8 +59,7 @@ export const akashaRepo = {
       directiveKind: "rule",
       name: "Right Version",
       act: "Check a claim about a file against the version it was made about, not the one on disk now.",
-      warrant:
-        "A file carries no time, so the wrong version answers as confidently as the right one.",
+      warrant: "A file has no time, so the wrong version answers as confidently as the right one.",
       aids: [
         "`git show <commit>:<path>` when numbers disagree.",
         "Treat a small unexplained gap as the file moving.",

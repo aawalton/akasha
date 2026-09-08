@@ -17,7 +17,7 @@ export const esoAddonSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A tree move carries the package path without an edit here.",
+      statement: "A tree move has the package path without an edit here.",
     },
   ],
 } as const satisfies RelationProperty

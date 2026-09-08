@@ -19,7 +19,7 @@ export const inboxesTemperTasks = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The count is the count the tracking day carries.",
+      statement: "The count is the count the tracking day has.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const inboxesTemperTasks = {
     },
     {
       invariantKind: "departure",
-      statement: "A tracking day carrying no count is no reading rather than a count of zero.",
+      statement: "A tracking day with no count is no reading rather than a count of zero.",
     },
 
     {

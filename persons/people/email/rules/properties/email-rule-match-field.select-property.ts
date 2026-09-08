@@ -11,7 +11,7 @@ export const emailRuleMatchField = {
     {
       invariantKind: "departure",
       statement:
-        "A field is named as the mail carries that field rather than as its own page is slugged.",
+        "A field is named as the mail has that field rather than as its own page is slugged.",
     },
     {
       invariantKind: "departure",

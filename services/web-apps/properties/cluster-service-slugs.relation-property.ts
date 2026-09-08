@@ -18,7 +18,7 @@ export const clusterServiceSlugs = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug no cluster service page carries is refused.",
+      statement: "A slug no cluster service page has is refused.",
     },
   ],
 } as const satisfies RelationProperty
