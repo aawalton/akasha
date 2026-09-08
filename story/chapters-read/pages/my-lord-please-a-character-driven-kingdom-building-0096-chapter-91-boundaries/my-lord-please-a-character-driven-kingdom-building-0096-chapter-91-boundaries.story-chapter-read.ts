@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0096Chapter91Boundaries 
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0096-chapter-91-boundaries",
   title: "Chapter 91 Boundaries",
-  partOfSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
+  partOfCollectionSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
   position: 96,
   ownLength: 2022,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0134Chapter149StartShoveling =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0134-chapter-149-start-shoveling",
   title: "Chapter 149 - Start Shoveling",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 134,
   ownLength: 4409,
   unitSlug: "words",

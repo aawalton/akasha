@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0021Chapter37Revelation = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0021-chapter-37-revelation",
   title: "Chapter 37 - Revelation",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 21,
   ownLength: 2229,
   unitSlug: "words",

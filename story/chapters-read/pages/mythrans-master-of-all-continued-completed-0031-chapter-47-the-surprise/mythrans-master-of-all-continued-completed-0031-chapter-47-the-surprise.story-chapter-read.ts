@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0031Chapter47TheSurprise = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0031-chapter-47-the-surprise",
   title: "Chapter 47 - The Surprise",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 31,
   ownLength: 2521,
   unitSlug: "words",

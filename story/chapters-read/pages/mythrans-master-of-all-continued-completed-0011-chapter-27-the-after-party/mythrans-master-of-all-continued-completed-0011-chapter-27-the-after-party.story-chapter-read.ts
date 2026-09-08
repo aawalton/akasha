@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0011Chapter27TheAfterParty = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0011-chapter-27-the-after-party",
   title: "Chapter 27 - The After Party",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 11,
   ownLength: 2319,
   unitSlug: "words",

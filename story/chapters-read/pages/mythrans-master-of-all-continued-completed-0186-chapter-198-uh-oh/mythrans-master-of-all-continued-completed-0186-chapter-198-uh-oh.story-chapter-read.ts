@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0186Chapter198UhOh = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0186-chapter-198-uh-oh",
   title: "Chapter 198 - Uh Oh!",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 186,
   ownLength: 3391,
   unitSlug: "words",

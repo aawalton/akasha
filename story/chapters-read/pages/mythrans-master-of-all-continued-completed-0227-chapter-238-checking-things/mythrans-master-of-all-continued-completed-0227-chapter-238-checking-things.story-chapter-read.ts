@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0227Chapter238CheckingThings =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0227-chapter-238-checking-things",
   title: "Chapter 238 - Checking Things",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 227,
   ownLength: 4892,
   unitSlug: "words",

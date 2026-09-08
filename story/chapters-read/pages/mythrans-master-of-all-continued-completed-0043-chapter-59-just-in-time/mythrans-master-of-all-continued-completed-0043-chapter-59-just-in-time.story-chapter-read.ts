@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0043Chapter59JustInTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0043-chapter-59-just-in-time",
   title: "Chapter 59 - Just In Time",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 43,
   ownLength: 2050,
   unitSlug: "words",

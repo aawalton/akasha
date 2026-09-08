@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0115Chapter109Questions 
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0115-chapter-109-questions",
   title: "Chapter 109 Questions",
-  partOfSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
+  partOfCollectionSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
   position: 115,
   ownLength: 2142,
   unitSlug: "words",

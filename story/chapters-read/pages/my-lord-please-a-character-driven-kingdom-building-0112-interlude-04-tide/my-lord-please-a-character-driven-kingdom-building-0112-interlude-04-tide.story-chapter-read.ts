@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0112Interlude04Tide = {
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0112-interlude-04-tide",
   title: "Interlude 04 Tide",
-  partOfSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
+  partOfCollectionSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
   position: 112,
   ownLength: 3041,
   unitSlug: "words",

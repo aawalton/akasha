@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0110Chapter125ThereSheIs = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0110-chapter-125-there-she-is",
   title: "Chapter 125 - There She Is!",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 110,
   ownLength: 8691,
   unitSlug: "words",

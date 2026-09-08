@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0217Chapter228Girlfriend = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0217-chapter-228-girlfriend",
   title: "Chapter 228 - Girlfriend",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 217,
   ownLength: 3496,
   unitSlug: "words",

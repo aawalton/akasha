@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0062Chapter58Undertone =
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0062-chapter-58-undertone",
   title: "Chapter 58 Undertone",
-  partOfSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
+  partOfCollectionSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
   position: 62,
   ownLength: 2270,
   unitSlug: "words",

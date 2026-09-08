@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0168Chapter180Oathbreaker = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0168-chapter-180-oathbreaker",
   title: "Chapter 180 - Oathbreaker",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 168,
   ownLength: 4351,
   unitSlug: "words",

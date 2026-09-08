@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0107Chapter122ABanquet = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0107-chapter-122-a-banquet",
   title: "Chapter 122 - A Banquet",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 107,
   ownLength: 3927,
   unitSlug: "words",

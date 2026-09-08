@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0203Chapter215ThePitTrap = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0203-chapter-215-the-pit-trap",
   title: "Chapter 215 - The Pit Trap",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 203,
   ownLength: 3549,
   unitSlug: "words",

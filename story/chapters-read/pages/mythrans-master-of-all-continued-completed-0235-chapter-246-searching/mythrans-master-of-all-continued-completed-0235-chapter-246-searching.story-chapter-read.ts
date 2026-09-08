@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0235Chapter246Searching = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0235-chapter-246-searching",
   title: "Chapter 246 - Searching",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 235,
   ownLength: 4073,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0156Chapter169NoJustNo = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0156-chapter-169-no-just-no",
   title: "Chapter 169 - No. Just no.",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 156,
   ownLength: 3405,
   unitSlug: "words",

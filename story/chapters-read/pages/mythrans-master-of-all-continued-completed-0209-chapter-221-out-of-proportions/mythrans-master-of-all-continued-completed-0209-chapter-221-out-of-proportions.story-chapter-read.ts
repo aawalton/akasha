@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0209Chapter221OutOfProportions
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0209-chapter-221-out-of-proportions",
   title: "Chapter 221 - Out Of Proportions",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 209,
   ownLength: 3122,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0061Chapter77MakingFurniture =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0061-chapter-77-making-furniture",
   title: "Chapter 77 - Making Furniture",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 61,
   ownLength: 3054,
   unitSlug: "words",

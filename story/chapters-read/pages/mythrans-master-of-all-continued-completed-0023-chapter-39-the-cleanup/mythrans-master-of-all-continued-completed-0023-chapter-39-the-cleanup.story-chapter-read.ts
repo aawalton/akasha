@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0023Chapter39TheCleanup = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0023-chapter-39-the-cleanup",
   title: "Chapter 39 - The Cleanup",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 23,
   ownLength: 2448,
   unitSlug: "words",

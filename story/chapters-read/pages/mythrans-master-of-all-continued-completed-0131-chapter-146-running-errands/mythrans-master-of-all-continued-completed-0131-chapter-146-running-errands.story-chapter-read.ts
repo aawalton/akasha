@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0131Chapter146RunningErrands =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0131-chapter-146-running-errands",
   title: "Chapter 146 - Running Errands",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 131,
   ownLength: 9315,
   unitSlug: "words",

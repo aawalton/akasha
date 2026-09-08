@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0167Chapter179YouDidWhat = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0167-chapter-179-you-did-what",
   title: "Chapter 179 - You Did What?",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 167,
   ownLength: 5313,
   unitSlug: "words",

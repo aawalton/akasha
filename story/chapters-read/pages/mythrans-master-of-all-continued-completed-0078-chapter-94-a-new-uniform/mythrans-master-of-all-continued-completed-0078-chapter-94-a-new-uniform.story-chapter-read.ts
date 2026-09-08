@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0078Chapter94ANewUniform = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0078-chapter-94-a-new-uniform",
   title: "Chapter 94 - A New Uniform",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 78,
   ownLength: 3544,
   unitSlug: "words",

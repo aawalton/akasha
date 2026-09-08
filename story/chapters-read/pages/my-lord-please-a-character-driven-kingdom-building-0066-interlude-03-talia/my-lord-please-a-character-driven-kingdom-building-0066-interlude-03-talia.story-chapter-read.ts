@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0066Interlude03Talia = {
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0066-interlude-03-talia",
   title: "Interlude 03 Talia",
-  partOfSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
+  partOfCollectionSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
   position: 66,
   ownLength: 4861,
   unitSlug: "words",

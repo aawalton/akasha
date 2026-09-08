@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0084Chapter100Discharged = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0084-chapter-100-discharged",
   title: "Chapter 100 - Discharged",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 84,
   ownLength: 6940,
   unitSlug: "words",

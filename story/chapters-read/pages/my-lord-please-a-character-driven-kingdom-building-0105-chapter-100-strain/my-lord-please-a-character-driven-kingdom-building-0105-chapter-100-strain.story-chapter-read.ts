@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0105Chapter100Strain = {
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0105-chapter-100-strain",
   title: "Chapter 100 Strain",
-  partOfSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
+  partOfCollectionSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
   position: 105,
   ownLength: 2182,
   unitSlug: "words",

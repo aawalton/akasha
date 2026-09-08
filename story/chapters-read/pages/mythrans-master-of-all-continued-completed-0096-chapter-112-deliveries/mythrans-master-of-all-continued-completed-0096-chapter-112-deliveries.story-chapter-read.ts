@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0096Chapter112Deliveries = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0096-chapter-112-deliveries",
   title: "Chapter 112 - Deliveries",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 96,
   ownLength: 5780,
   unitSlug: "words",

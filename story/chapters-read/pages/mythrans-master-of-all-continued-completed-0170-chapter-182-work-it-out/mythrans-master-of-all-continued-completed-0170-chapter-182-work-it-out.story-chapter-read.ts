@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0170Chapter182WorkItOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0170-chapter-182-work-it-out",
   title: "Chapter 182 - Work It Out",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 170,
   ownLength: 4671,
   unitSlug: "words",

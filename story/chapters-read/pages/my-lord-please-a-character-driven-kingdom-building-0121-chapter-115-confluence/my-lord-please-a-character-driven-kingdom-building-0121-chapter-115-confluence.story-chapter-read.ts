@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0121Chapter115Confluence
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0121-chapter-115-confluence",
   title: "Chapter 115 Confluence",
-  partOfSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
+  partOfCollectionSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
   position: 121,
   ownLength: 2109,
   unitSlug: "words",

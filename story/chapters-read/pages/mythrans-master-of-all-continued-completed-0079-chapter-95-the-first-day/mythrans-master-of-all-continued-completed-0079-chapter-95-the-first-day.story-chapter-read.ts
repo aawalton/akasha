@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0079Chapter95TheFirstDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0079-chapter-95-the-first-day",
   title: "Chapter 95 - The First Day",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 79,
   ownLength: 3590,
   unitSlug: "words",

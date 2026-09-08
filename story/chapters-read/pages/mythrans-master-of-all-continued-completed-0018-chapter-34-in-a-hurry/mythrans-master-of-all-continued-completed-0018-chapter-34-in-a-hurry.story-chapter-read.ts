@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0018Chapter34InAHurry = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0018-chapter-34-in-a-hurry",
   title: "Chapter 34 - In A Hurry",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 18,
   ownLength: 2589,
   unitSlug: "words",

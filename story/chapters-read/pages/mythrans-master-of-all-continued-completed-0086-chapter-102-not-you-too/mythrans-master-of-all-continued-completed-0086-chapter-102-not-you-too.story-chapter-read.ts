@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0086Chapter102NotYouToo = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0086-chapter-102-not-you-too",
   title: "Chapter 102 - Not You, Too!",
-  partOfSlugs: ["mythrans-master-of-all-continued-completed"],
+  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
   position: 86,
   ownLength: 3524,
   unitSlug: "words",
