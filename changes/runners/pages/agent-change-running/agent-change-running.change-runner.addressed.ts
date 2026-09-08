@@ -98,4 +98,7 @@ export type Changes = {
   "change-agent/rename-page-type": Parameters<
     typeof import("../../../agent/file/rename-page-type/rename-page-type.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/rename-pages": Parameters<
+    typeof import("../../../agent/file/rename-pages/rename-pages.change-agent.code.ts")["runChange"]
+  >[1]
 }

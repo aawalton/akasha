@@ -161,4 +161,7 @@ export type Changes = {
   "change-mechanical/rename-file-page-type": Parameters<
     typeof import("../../../mechanical/file/rename/rename-file-page-type/rename-file-page-type.change-mechanical.code.ts")["runChange"]
   >[1]
+  "change-mechanical/rename-file-pages": Parameters<
+    typeof import("../../../mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts")["runChange"]
+  >[1]
 }

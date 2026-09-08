@@ -207,6 +207,25 @@ test("a page's slug is renamed in its data, and its files are carried with it", 
   expect(bodies.get(HELD_CODE)).toBe(null)
 })
 
+test("a caller having restated every address already has no address restated here", async () => {
+  const root = heldAt
+  const was = textIn(root)
+  const said = await runChange(worldIn(root, was), {
+    at: HELD_PAGE,
+    to: CARRIED,
+    addressesRestated: true,
+  })
+  const bodies = bodiesIn(said, was)
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([
+    [HELD_PAGE, CARRIED_PAGE],
+    [HELD_CODE, CARRIED_CODE],
+  ])
+  expect(bodies.get(CARRIED_PAGE) ?? "").toContain(`"slug": "${CARRIED}"`)
+  expect(bodies.get(NAMER_PAGE) ?? "").toContain(`"note": "${CARRIED}"`)
+  expect(bodies.has(SPELLER_CODE)).toBe(false)
+})
+
 test("a body that is no page spelling the page's address states the new address", async () => {
   const was = textIn(heldAt)
   const said = await runChange(worldIn(heldAt, was), { at: HELD_PAGE, to: CARRIED })

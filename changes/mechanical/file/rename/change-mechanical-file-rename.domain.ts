@@ -9,11 +9,16 @@ export const changeMechanicalFileRename = {
     "change-mechanical/rename-file-page",
     "change-mechanical/rename-file-page-property",
     "change-mechanical/rename-file-page-type",
+    "change-mechanical/rename-file-pages",
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file's rename is that file's move, so nothing here renames a file alone.",
+      statement: "A file's rename is that file's move.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here renames a file alone.",
     },
   ],
 } as const satisfies Domain

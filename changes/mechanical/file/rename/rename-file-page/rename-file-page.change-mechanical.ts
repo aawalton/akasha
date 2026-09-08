@@ -116,6 +116,14 @@ export const renameFilePage = {
       statement:
         "A way's name is restated though the reached move restated that way's path already.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A call saying every address is restated already has no address restated here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call wrongly saying so leaves the addresses left out as those addresses are.",
+    },
   ],
   changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanical

@@ -53,6 +53,7 @@ export type Asked = {
   readonly at: string
   readonly to: string
   readonly plural?: string
+  readonly addressesRestated?: boolean
 }
 
 type Held = {
@@ -319,7 +320,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     moves.push(...underIn(world, wasFolder, nowFolder, new Set(moves.map((one) => one.from))))
   }
   const way = wayIn(world, new Map(moves.map((one) => [one.from, one.to])), held.slug, given.to)
-  if (given.to !== held.slug) {
+  if (given.to !== held.slug && given.addressesRestated !== true) {
     const addressed = await reach(seen, RENAME_PAGE_ADDRESS, {
       was: `${held.pageTypeSlug}/${held.slug}`,
       now: `${held.pageTypeSlug}/${given.to}`,
