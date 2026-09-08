@@ -184,7 +184,7 @@ export async function compilerConfigPathFor(
   const entryPath = bundleEntryPathIn(addonDir, page.bundleEntrySlug)
   if (!existsSync(entryPath)) {
     throw new Error(
-      `tstlConfigPathFor: the page in ${addonDir} names "${page.bundleEntrySlug}" as the bundle entry, and ${entryPath} is not there`
+      `compilerConfigPathFor: the page in ${addonDir} names "${page.bundleEntrySlug}" as the bundle entry, and ${entryPath} is not there`
     )
   }
   const heldAt = join(repoRoot, ADDONS_REL_ROOT, HELD_AT)
