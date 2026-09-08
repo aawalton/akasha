@@ -9,8 +9,6 @@ afterAll(scratch.sweep)
 
 const BODY = "export const fresh = 1\n"
 
-const REFUSED = "is under no `page-type` name, so this change writes nothing"
-
 test("a page type path is written by the change this change reaches", async () => {
   const root = indexedRepo()
   const at = "akasha/one/fresh.page-type.ts"
@@ -19,34 +17,4 @@ test("a page type path is written by the change this change reaches", async () =
 
   expect(said.refused).toBe(null)
   expect(said.edits).toEqual([{ kind: "add", path: at, content: BODY }])
-})
-
-test("a path under another page type is refused", async () => {
-  const root = indexedRepo()
-  const at = "akasha/one/fresh.module.ts"
-
-  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
-
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${at}\` ${REFUSED}`)
-})
-
-test("a path beside a page type is refused", async () => {
-  const root = indexedRepo()
-  const at = "akasha/one/fresh.page-type.code.ts"
-
-  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
-
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${at}\` ${REFUSED}`)
-})
-
-test("a path under no page type is refused", async () => {
-  const root = indexedRepo()
-  const at = "akasha/one/fresh.notatype.ts"
-
-  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
-
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${at}\` ${REFUSED}`)
 })

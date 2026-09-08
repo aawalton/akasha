@@ -18,15 +18,11 @@ export const addFilePageType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path under no `page-type` name is refused here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The page types a name is read against are the ones the world files.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The body is written by the change this change reaches.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here judges the path handed in.",
     },
     {
       invariantKind: "departure",
