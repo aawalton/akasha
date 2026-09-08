@@ -39,7 +39,7 @@ function topLevelGroup(filePath: string): string {
 function messageOf(v: TstlThisVoidSelfDropFinding): string {
   switch (v.kind) {
     case "constructor":
-      return `constructor member \`${v.name}\` declares a sole \`this: void\` — TSTL emits a dot-call that drops self; use \`this: <Class>\` (or a method signature) instead`
+      return `constructor member \`${v.name}\` declares a sole \`this: void\` — the Lua compiler emits a dot-call that drops self; use \`this: <Class>\` (or a method signature) instead`
     case "control-method":
       return `control method \`${v.name}\` on a \`& Control\` type declares a sole \`this: void\` — TSTL emits a dot-call that drops self and shifts arguments; declare \`this: <Control>\` (property-arrow, source-safe) instead`
     case "xml-handler":
