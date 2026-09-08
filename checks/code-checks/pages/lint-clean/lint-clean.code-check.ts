@@ -32,7 +32,7 @@ export const lintClean = {
     },
     {
       invariantKind: "departure",
-      statement: "The world holds only the files being judged.",
+      statement: "The world links the rest of the tree beside the bodies the change carries.",
     },
     {
       invariantKind: "departure",
