@@ -171,7 +171,9 @@ export async function changeProsePattern(
     return refusing(`no passage states \`${given.term}\` in a frame a pair names`)
   }
   const answers: Answer[] = []
-  let over: World = isLedger(world) ? world : ledgerAt(world.root, world.textOf, world.reaching)
+  let over: World = isLedger(world)
+    ? world
+    : ledgerAt(world.root, world.bodyOf, world.reaching, world.textOf)
   for (const one of taken) {
     const reached = await landed(over, one)
     if (reached.said.refused !== null) {
