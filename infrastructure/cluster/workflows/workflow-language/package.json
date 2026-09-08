@@ -3,35 +3,12 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./buildkit": "./buildkit/buildkit.module.code.ts",
-    "./checksum-hash": "./checksum-hash/checksum-hash.module.code.ts",
     "./ci-identifiers": "./ci-identifiers/ci-identifiers.module.code.ts",
-    "./deploy": "./deploy/deploy.workflow-step.code.ts",
-    "./images": "./images/images.module.code.ts",
     "./inputs-hash": "./inputs-hash/inputs-hash.module.code.ts",
-    "./kubectl-apply": "./kubectl-apply/kubectl-apply.workflow-step.code.ts",
-    "./manifest-path": "./manifest-path/manifest-path.module.code.ts",
-    "./pod-selection": "./pod-selection/pod-selection.module.code.ts",
-    "./rbac-apply": "./rbac-apply/rbac-apply.workflow-step.code.ts",
-    "./rbac-types": "./rbac-types/rbac-types.module.code.ts",
     "./retry-transient-ddl": "./retry-transient-ddl/retry-transient-ddl.module.code.ts",
-    "./rollback-image": "./rollback-image/rollback-image.module.code.ts",
-    "./secret-place": "./secret-place/secret-place.workflow-step.code.ts",
-    "./secrets": "./secrets/secrets.module.code.ts",
-    "./set-image": "./set-image/set-image.module.code.ts",
-    "./sops-decrypt": "./sops-decrypt/sops-decrypt.workflow-step.code.ts",
-    "./source-sync": "./source-sync/source-sync.workflow-step.code.ts",
-    "./step": "./step/step.module.code.ts",
-    "./verify-rollout": "./verify-rollout/verify-rollout.module.code.ts",
-    "./workflow": "./workflow/workflow.module.code.ts",
-    "./workflow-discovery": "./workflow-discovery/workflow-discovery.module.code.ts",
     "./workflow-types": "./workflow-types/workflow-types.module.code.ts"
   },
   "dependencies": {
-    "@akasha/indexes": "workspace:*",
-    "@akasha/k8s-synth": "workspace:*",
-    "@akasha/pages": "workspace:*",
-    "@akasha/pages-service": "workspace:*",
     "zod": "^4.3.6"
   }
 }

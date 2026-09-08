@@ -1081,10 +1081,6 @@
     "infrastructure/cluster/workflows/workflow-language": {
       "name": "@akasha/workflow-language",
       "dependencies": {
-        "@akasha/indexes": "workspace:*",
-        "@akasha/k8s-synth": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/pages-service": "workspace:*",
         "zod": "^4.3.6",
       },
     },
