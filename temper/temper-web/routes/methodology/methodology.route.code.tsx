@@ -2,8 +2,8 @@ import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
-import { MethodologyPageContent } from "../methodology-page-content/methodology-page-content.module.code.tsx"
-import { tabDefaultFor } from "../tab-defaults/tab-defaults.module.code.ts"
+import { MethodologyPageContent } from "../../methodology-page-content/methodology-page-content.module.code.tsx"
+import { tabDefaultFor } from "../../tab-defaults/tab-defaults.module.code.ts"
 
 export function meta() {
   return [{ title: "Temper | Methodology" }]
