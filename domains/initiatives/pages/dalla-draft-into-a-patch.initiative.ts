@@ -56,7 +56,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A file that is not text is moved by path and refused every other change.",
       workingMemory:
-        "`bodyIn` reaches a `readFileSync` decoding as utf8 at `edits-keeping:92`, which puts U+FFFD in place of every byte run that is not UTF-8, so a move rewrites a binary: 12 PNG bytes in, 18 out. The `notText` guard at `mechanical-change-running:43` reads a sentinel no production reader answers. 80 tracked PNGs are exposed and every one is intact at this HEAD. Two invariants disagree and both are false: `change-answer.module.ts:112` says carried, `change-runner.ts:67` says refused.",
+        "`move-file` answers a bare move already; `movedIn:170` and `replayed:187` flatten it into a write and a removal, which is where a binary decodes. `path-carrying` is built and tested, `applied` takes `carries`, and both call sites hand in an empty list. Filling that is half the work. The other half refuses a non-text body and needs `World` to tell no body from a body that is not text: `page-claiming:12` probes `textOf !== null`, so an honest decode drops every wallpaper from its persona's claims.",
     },
   ],
   constraints: [
