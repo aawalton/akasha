@@ -35,7 +35,7 @@ export const nimueCodeCleanup = {
     {
       statement: "A change carrying a folder repoints a path spelled outside a TypeScript body.",
       workingMemory:
-        "`change-imports` rewrites a repo-relative path spelled as a string literal, but only in a `.ts` or `.tsx` body, so the 43 `# shellcheck source=code-system/...` directives in the ios app scripts are left naming a folder that is gone. The move visits an outside file only where the import index names it, so a body spelling a moved path without importing it is never reached. `spellingOf` in `path-naming` already scans for those bodies and is called by nothing but its own test.",
+        '"`change-imports` rewrites a repo-relative path spelled as a string literal, but only in a `.ts` or `.tsx` body, so a path in a comment, a shell script or a manifest still names the old folder. The move visits an outside file only where the import index names it, so a body spelling a moved path without importing it is never reached. `spellingOf` in `path-naming` scans for those bodies and nothing but its own test calls it. The ios app directives are script-relative, so none blocks the move."',
     },
     {
       statement: "A change carrying a folder repoints the manifest naming that folder.",
