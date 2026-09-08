@@ -90,7 +90,7 @@ export const temperEsoTypes = {
     "type-declaration/eso-crafting-tooltips",
     "type-declaration/eso-enchanting-station",
     "type-declaration/eso-provisioner-station",
-    "type-declaration/tstl-lua-length",
+    "type-declaration/lua-length",
     "type-declaration/eso-guild-history",
     "type-declaration/eso-guild-history-legacy",
     "type-declaration/eso-scroll-list-extra",
