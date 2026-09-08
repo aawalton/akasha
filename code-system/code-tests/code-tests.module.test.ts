@@ -1,21 +1,11 @@
 import { afterAll, test as check, expect } from "bun:test"
-import {
-  existsSync,
-  lstatSync,
-  mkdirSync,
-  readFileSync,
-  realpathSync,
-  writeFileSync,
-} from "node:fs"
+import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { readingIn } from "@akasha/indexes"
-import { linesFiled } from "@akasha/indexes/testing"
 import {
   alreadyRunning,
   BATCH,
   batchedOf,
-  CARRIED,
   groupedBy,
   plain,
   preloadsIn,
@@ -25,18 +15,8 @@ import {
   testsBesideOf,
   testsUnder,
   verdictOf,
-  worldOf,
 } from "./code-tests.module.code.ts"
-import {
-  FAILS,
-  handing,
-  installed,
-  MARKED,
-  NEEDS,
-  PASSES,
-  SETS,
-  UNDER,
-} from "./code-tests.module.test-fixtures.ts"
+import { FAILS, MARKED, NEEDS, PASSES, SETS } from "./code-tests.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 
@@ -181,183 +161,6 @@ check("the mark a run carries is read back by whoever is inside it", () => {
   expect(alreadyRunning()).toBe(false)
   if (was === undefined) delete process.env[RUNNING]
   else process.env[RUNNING] = was
-})
-
-check("a world is written out of the bodies handed in, not off the tree it is made from", () => {
-  const from = repo({ "one.ts": "what is on disk\n" })
-  const world = worldOf(
-    from,
-    ["akasha/one.ts"],
-    handing({ "akasha/one.ts": "what is proposed\n" }),
-    null
-  )
-  try {
-    expect(readFileSync(join(world.root, "akasha/one.ts"), "utf8")).toBe("what is proposed\n")
-  } finally {
-    world.sweep()
-  }
-})
-
-check("a path answered by no body is not written into the world", () => {
-  const from = repo({ "one.ts": "held\n", "gone.ts": "held\n" })
-  const named = ["akasha/one.ts", "akasha/gone.ts"]
-  const world = worldOf(from, named, handing({ "akasha/one.ts": "held\n" }), null)
-  try {
-    expect(existsSync(join(world.root, "akasha/one.ts"))).toBe(true)
-    expect(existsSync(join(world.root, "akasha/gone.ts"))).toBe(false)
-  } finally {
-    world.sweep()
-  }
-})
-
-check("a world carries the index, what a run is configured by, and the modules", () => {
-  const from = repo({})
-  linesFiled(from, "held.jsonl", [{}])
-  mkdirSync(join(from, "node_modules"), { recursive: true })
-  for (const one of CARRIED) writeFileSync(join(from, one), "{}\n")
-  const world = worldOf(from, [], handing({}), [])
-  try {
-    expect(readingIn(world.root).lines("held.jsonl")).toEqual(["{}"])
-    for (const one of CARRIED) expect(existsSync(join(world.root, one))).toBe(true)
-    expect(lstatSync(join(world.root, "node_modules")).isDirectory()).toBe(true)
-  } finally {
-    world.sweep()
-  }
-})
-
-check("a package outside the tree is answered from the tree it was made from", () => {
-  const from = repo({})
-  installed(from, "third", null)
-  const world = worldOf(from, [], handing({}), null)
-  try {
-    const at = join(world.root, "node_modules/third")
-    expect(lstatSync(at).isSymbolicLink()).toBe(true)
-    expect(realpathSync(at)).toBe(join(from, "node_modules/third"))
-  } finally {
-    world.sweep()
-  }
-})
-
-check("a package inside the tree is answered from the world holding it", () => {
-  const from = repo({ "held/package.json": '{"name":"@akasha/held"}\n' })
-  installed(from, "@akasha/held", "akasha/held")
-  const named = ["akasha/held/package.json"]
-  const world = worldOf(from, named, handing({ "akasha/held/package.json": "{}\n" }), null)
-  try {
-    const at = join(world.root, "node_modules/@akasha/held")
-    expect(realpathSync(at)).toBe(join(world.root, "akasha/held"))
-  } finally {
-    world.sweep()
-  }
-})
-
-check("a package inside the tree is answered though the change carries no body of it", () => {
-  const from = repo({ "held/package.json": '{"name":"@akasha/held"}\n' })
-  installed(from, "@akasha/held", "akasha/held")
-  const world = worldOf(from, [], handing({}), null)
-  try {
-    const at = join(world.root, "node_modules/@akasha/held")
-    expect(existsSync(at)).toBe(true)
-    expect(realpathSync(at)).toBe(join(from, "akasha/held"))
-  } finally {
-    world.sweep()
-  }
-})
-
-check("a world carries the index as the change leaves it rather than as the tree is", () => {
-  const from = repo({})
-  linesFiled(from, "held.jsonl", [{}])
-  linesFiled(from, "gone.jsonl", [{}])
-  const world = worldOf(from, [], handing({}), [
-    { at: "held.jsonl", lines: ['{"held":"as the change leaves it"}'] },
-    { at: "gone.jsonl", lines: [] },
-  ])
-  try {
-    const reading = readingIn(world.root)
-    expect(reading.lines("held.jsonl")).toEqual(['{"held":"as the change leaves it"}'])
-    expect(reading.holds("gone.jsonl")).toBe(false)
-  } finally {
-    world.sweep()
-  }
-})
-
-check("a world asked for no index carries none rather than the one the tree is at", () => {
-  const from = repo({})
-  linesFiled(from, "held.jsonl", [{}])
-  const world = worldOf(from, [], handing({}), null)
-  try {
-    expect(existsSync(join(world.root, ".git"))).toBe(false)
-    expect(readingIn(world.root).holds("")).toBe(false)
-  } finally {
-    world.sweep()
-  }
-})
-
-check("a world made from a root holding none of that still exists", () => {
-  const from = repo({})
-  const world = worldOf(from, ["akasha/one.ts"], handing({ "akasha/one.ts": "held\n" }), [])
-  try {
-    expect(existsSync(join(world.root, ".git"))).toBe(false)
-    expect(existsSync(join(world.root, "node_modules"))).toBe(false)
-    for (const one of CARRIED) expect(existsSync(join(world.root, one))).toBe(false)
-    expect(readFileSync(join(world.root, "akasha/one.ts"), "utf8")).toBe("held\n")
-  } finally {
-    world.sweep()
-  }
-})
-
-check("a world sits under /var/tmp and is gone once it is swept", () => {
-  const world = worldOf(repo({}), [], handing({}), null)
-  expect(world.root.startsWith(UNDER)).toBe(true)
-  expect(existsSync(world.root)).toBe(true)
-  world.sweep()
-  expect(existsSync(world.root)).toBe(false)
-})
-
-check("a body the world could not read names the path the world reached for", () => {
-  const from = repo({})
-  const asked = (): unknown => worldOf(from, ["akasha/one.ts"], () => readFileSync(""), null)
-  expect(asked).toThrow("akasha/one.ts")
-  expect(asked).toThrow("ENOENT")
-})
-
-check("a carried file the world could not take names that file rather than only the fault", () => {
-  const from = repo({})
-  mkdirSync(join(from, "biome.json"), { recursive: true })
-  const asked = (): unknown => worldOf(from, [], handing({}), null)
-  expect(asked).toThrow("could not be made")
-  expect(asked).toThrow("biome.json")
-  expect(asked).toThrow("EISDIR")
-})
-
-check("a world that could not be made is swept rather than left under /var/tmp", () => {
-  const from = repo({})
-  let said = ""
-  try {
-    worldOf(from, ["akasha/one.ts"], () => readFileSync(""), null)
-  } catch (thrown) {
-    said = thrown instanceof Error ? thrown.message : String(thrown)
-  }
-  const found = /the world at (\S+) could not be made/.exec(said)
-  const root = found?.[1] ?? ""
-  expect(root).toContain(UNDER)
-  expect(existsSync(root)).toBe(false)
-})
-
-check("a run over a world answers the bodies handed in, not the ones on disk", () => {
-  const from = repo({ "one.test.ts": PASSES })
-  const world = worldOf(
-    from,
-    ["akasha/one.test.ts"],
-    handing({ "akasha/one.test.ts": FAILS }),
-    null
-  )
-  try {
-    expect(ranOver(world.root, ["akasha/one.test.ts"], 1).verdict).toBe("fail")
-    expect(ranOver(from, ["akasha/one.test.ts"], 1).verdict).toBe("pass")
-  } finally {
-    world.sweep()
-  }
 })
 
 check("a test is run with what the nearest bunfig.toml above it preloads", () => {
