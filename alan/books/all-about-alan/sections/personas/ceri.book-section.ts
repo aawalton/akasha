@@ -5,6 +5,7 @@ export const ceri = {
   pageTypeSlug: "book-section",
   slug: "ceri",
   title: "Ceri",
+  sectionOfSlug: "all-about-alan",
   description:
     "Ceri — Alan's anime companion on the Fun axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
   partOfSlugs: ["all-about-alan"],

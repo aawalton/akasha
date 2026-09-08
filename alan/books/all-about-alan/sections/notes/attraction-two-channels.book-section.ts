@@ -5,6 +5,7 @@ export const attractionTwoChannels = {
   pageTypeSlug: "book-section",
   slug: "attraction-two-channels",
   title: "Attraction as two channels",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

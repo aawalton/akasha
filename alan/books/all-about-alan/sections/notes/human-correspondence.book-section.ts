@@ -5,6 +5,7 @@ export const humanCorrespondence = {
   pageTypeSlug: "book-section",
   slug: "human-correspondence",
   title: "Human correspondence",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

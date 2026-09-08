@@ -5,6 +5,7 @@ export const informationAndMedia = {
   pageTypeSlug: "book-section",
   slug: "information-and-media",
   title: "Information and media",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

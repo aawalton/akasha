@@ -5,6 +5,7 @@ export const alternationNotModeration = {
   pageTypeSlug: "book-section",
   slug: "alternation-not-moderation",
   title: "Alternation, not moderation",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

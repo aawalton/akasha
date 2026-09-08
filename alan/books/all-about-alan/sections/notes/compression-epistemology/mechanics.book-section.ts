@@ -5,6 +5,7 @@ export const mechanics = {
   pageTypeSlug: "book-section",
   slug: "mechanics",
   title: "Compression epistemology — mechanics",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

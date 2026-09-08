@@ -5,6 +5,7 @@ export const slowBuildStrategy = {
   pageTypeSlug: "book-section",
   slug: "slow-build-strategy",
   title: "Slow-build strategy",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

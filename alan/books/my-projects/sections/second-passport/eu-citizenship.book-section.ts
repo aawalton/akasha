@@ -5,9 +5,10 @@ export const euCitizenship = {
   pageTypeSlug: "book-section",
   slug: "eu-citizenship",
   title: "EU Citizenship",
+  sectionOfSlug: "book-section/my-projects/second-passport",
   description:
     "The routes to citizenship of a European Union member country, one section for each country and a summary reading across them all. Each country section says what the routes ask for, how long each route runs, whether the country permits a second citizenship, and where the backlog sits.",
-  partOfSlugs: ["second-passport"],
+  partOfSlugs: ["book-section/my-projects/second-passport"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

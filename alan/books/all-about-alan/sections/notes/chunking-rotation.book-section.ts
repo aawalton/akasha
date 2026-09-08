@@ -5,6 +5,7 @@ export const chunkingRotation = {
   pageTypeSlug: "book-section",
   slug: "chunking-rotation",
   title: "Chunking and rotation",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

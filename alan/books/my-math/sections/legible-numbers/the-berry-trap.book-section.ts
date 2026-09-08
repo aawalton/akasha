@@ -5,6 +5,7 @@ export const theBerryTrap = {
   pageTypeSlug: "book-section",
   slug: "the-berry-trap",
   title: "The Berry trap",
+  sectionOfSlug: "my-math",
   partOfSlugs: ["my-math"],
   unitSlug: "words",
   chapterText: "md",

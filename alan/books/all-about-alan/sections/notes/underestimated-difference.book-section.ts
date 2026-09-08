@@ -5,6 +5,7 @@ export const underestimatedDifference = {
   pageTypeSlug: "book-section",
   slug: "underestimated-difference",
   title: "Underestimated difference",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

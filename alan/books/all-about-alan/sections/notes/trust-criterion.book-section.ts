@@ -5,6 +5,7 @@ export const trustCriterion = {
   pageTypeSlug: "book-section",
   slug: "trust-criterion",
   title: "Trust criterion",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

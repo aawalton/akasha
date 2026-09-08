@@ -5,9 +5,10 @@ export const euCitizenshipMalta = {
   pageTypeSlug: "book-section",
   slug: "eu-citizenship-malta",
   title: "Maltese Citizenship Paths (May 2026)",
+  sectionOfSlug: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Maltese citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path (especially post-ECJ-ruling MEIN status).",
-  partOfSlugs: ["eu-citizenship"],
+  partOfSlugs: ["book-section/second-passport/eu-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

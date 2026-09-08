@@ -5,6 +5,7 @@ export const sleepOnsetAttention = {
   pageTypeSlug: "book-section",
   slug: "sleep-onset-attention",
   title: "Sleep-onset attention",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

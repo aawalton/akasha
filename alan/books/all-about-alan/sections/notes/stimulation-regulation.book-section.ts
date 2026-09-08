@@ -5,6 +5,7 @@ export const stimulationRegulation = {
   pageTypeSlug: "book-section",
   slug: "stimulation-regulation",
   title: "Stimulation regulation",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

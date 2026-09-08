@@ -5,6 +5,7 @@ export const amy = {
   pageTypeSlug: "book-section",
   slug: "amy",
   title: "Amy",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

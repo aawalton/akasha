@@ -5,6 +5,7 @@ export const missionBreak = {
   pageTypeSlug: "book-section",
   slug: "mission-break",
   title: "The mission break",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

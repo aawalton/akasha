@@ -5,6 +5,7 @@ export const perfectionIsSafe = {
   pageTypeSlug: "book-section",
   slug: "perfection-is-safe",
   title: "Only perfection is safe",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

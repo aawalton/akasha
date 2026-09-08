@@ -5,6 +5,7 @@ export const emotionalArchaeology = {
   pageTypeSlug: "book-section",
   slug: "emotional-archaeology",
   title: "Emotional Archaeology",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

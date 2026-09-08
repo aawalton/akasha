@@ -5,6 +5,7 @@ export const pointsAsHungerSubstitute = {
   pageTypeSlug: "book-section",
   slug: "points-as-hunger-substitute",
   title: "Points as a hunger substitute",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

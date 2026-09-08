@@ -5,6 +5,7 @@ export const meaningFromClarity = {
   pageTypeSlug: "book-section",
   slug: "meaning-from-clarity",
   title: "Meaning from clarity",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,6 +5,7 @@ export const highThroughputRoad = {
   pageTypeSlug: "book-section",
   slug: "high-throughput-road",
   title: "The high-throughput road",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

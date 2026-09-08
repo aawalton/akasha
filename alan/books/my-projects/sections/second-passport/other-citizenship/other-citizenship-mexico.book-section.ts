@@ -5,8 +5,9 @@ export const otherCitizenshipMexico = {
   pageTypeSlug: "book-section",
   slug: "other-citizenship-mexico",
   title: "Mexico",
+  sectionOfSlug: "book-section/second-passport/other-citizenship",
   description: "Mexico citizenship paths (May 2026 snapshot).",
-  partOfSlugs: ["other-citizenship"],
+  partOfSlugs: ["book-section/second-passport/other-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

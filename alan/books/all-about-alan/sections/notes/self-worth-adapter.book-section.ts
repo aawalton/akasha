@@ -5,6 +5,7 @@ export const selfWorthAdapter = {
   pageTypeSlug: "book-section",
   slug: "self-worth-adapter",
   title: "The self-worth adapter",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

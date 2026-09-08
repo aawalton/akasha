@@ -5,6 +5,7 @@ export const triggerBasedMemory = {
   pageTypeSlug: "book-section",
   slug: "trigger-based-memory",
   title: "Trigger-based memory",
+  sectionOfSlug: "all-about-alan",
   description:
     "Trigger-based memory — Alan's primary memory architecture. The same cue→concept retrieval mechanism runs across text memorization, talks, and the agent harness.",
   partOfSlugs: ["all-about-alan"],

@@ -5,9 +5,10 @@ export const hvac = {
   pageTypeSlug: "book-section",
   slug: "hvac",
   title: "Space Heating + Cooling (Heat Pump)",
+  sectionOfSlug: "book-section/solar-power/energy-demand",
   description:
     "Heat pump space heating and cooling demand for a 6000 sq ft Provo home — heat-loss math, COP-vs-outdoor-temp integration, well-insulated vs. existing-house cases.",
-  partOfSlugs: ["energy-demand"],
+  partOfSlugs: ["book-section/solar-power/energy-demand"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

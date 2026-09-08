@@ -5,6 +5,7 @@ export const ali = {
   pageTypeSlug: "book-section",
   slug: "ali",
   title: "Ali",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

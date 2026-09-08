@@ -5,6 +5,7 @@ export const actionEpistemology = {
   pageTypeSlug: "book-section",
   slug: "action-epistemology",
   title: "Action as the epistemic engine",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

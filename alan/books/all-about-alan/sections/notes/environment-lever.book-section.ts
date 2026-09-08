@@ -5,6 +5,7 @@ export const environmentLever = {
   pageTypeSlug: "book-section",
   slug: "environment-lever",
   title: "The environment lever",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

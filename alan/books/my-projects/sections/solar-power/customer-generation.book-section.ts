@@ -5,9 +5,10 @@ export const customerGeneration = {
   pageTypeSlug: "book-section",
   slug: "customer-generation",
   title: "Customer Generation — Provo Power",
+  sectionOfSlug: "book-section/my-projects/solar-power",
   description:
     "Provo Power net-metering / customer-generation program — compensation mechanism, system size cap, annual reset, interconnection. Plus federal ITC status check.",
-  partOfSlugs: ["solar-power"],
+  partOfSlugs: ["book-section/my-projects/solar-power"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

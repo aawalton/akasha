@@ -5,6 +5,7 @@ export const fictionAsCatharsis = {
   pageTypeSlug: "book-section",
   slug: "fiction-as-catharsis",
   title: "Fiction-as-catharsis",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,6 +5,7 @@ export const dryRunEvidence = {
   pageTypeSlug: "book-section",
   slug: "dry-run-evidence",
   title: "Exp-4 harness — dry-run evidence (agent-verified, no Alan)",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

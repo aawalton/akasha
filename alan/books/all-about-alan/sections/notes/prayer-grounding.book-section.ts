@@ -5,6 +5,7 @@ export const prayerGrounding = {
   pageTypeSlug: "book-section",
   slug: "prayer-grounding",
   title: "Prayer-grounding",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,6 +5,7 @@ export const symmetricalAnxiety = {
   pageTypeSlug: "book-section",
   slug: "symmetrical-anxiety",
   title: "The symmetrical anxiety",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

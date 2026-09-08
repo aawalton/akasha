@@ -5,6 +5,7 @@ export const specialInterests = {
   pageTypeSlug: "book-section",
   slug: "special-interests",
   title: "Special interests",
+  sectionOfSlug: "all-about-alan",
   description:
     'Special interests — sustained deep interests via "same context, novel content"; the autism × ADHD intersection.',
   partOfSlugs: ["all-about-alan"],

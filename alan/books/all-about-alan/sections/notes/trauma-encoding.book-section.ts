@@ -5,6 +5,7 @@ export const traumaEncoding = {
   pageTypeSlug: "book-section",
   slug: "trauma-encoding",
   title: "Traumatic nervous-system encoding",
+  sectionOfSlug: "all-about-alan",
   description:
     "Traumatic nervous-system encoding — autism mechanism root; counterbalance to nervous-system sensitivity.",
   partOfSlugs: ["all-about-alan"],

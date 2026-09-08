@@ -5,6 +5,7 @@ export const conceptualReallocation = {
   pageTypeSlug: "book-section",
   slug: "conceptual-reallocation",
   title: "Conceptual reallocation (advantage)",
+  sectionOfSlug: "all-about-alan",
   description:
     "Conceptual reallocation — advantage of aphantasia where mental process is repurposed from sensory / emotional to conceptual.",
   partOfSlugs: ["all-about-alan"],

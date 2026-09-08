@@ -5,6 +5,7 @@ export const encodingMechanism = {
   pageTypeSlug: "book-section",
   slug: "encoding-mechanism",
   title: "Encoding mechanism",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

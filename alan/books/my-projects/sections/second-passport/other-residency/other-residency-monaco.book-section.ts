@@ -5,8 +5,9 @@ export const otherResidencyMonaco = {
   pageTypeSlug: "book-section",
   slug: "other-residency-monaco",
   title: "Monaco",
+  sectionOfSlug: "book-section/second-passport/other-residency",
   description: "Monaco residency paths (May 2026 snapshot).",
-  partOfSlugs: ["other-residency"],
+  partOfSlugs: ["book-section/second-passport/other-residency"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

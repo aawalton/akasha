@@ -5,6 +5,7 @@ export const pornographyAndMasturbation = {
   pageTypeSlug: "book-section",
   slug: "pornography-and-masturbation",
   title: "Pornography and masturbation",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

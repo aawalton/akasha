@@ -5,6 +5,7 @@ export const invisibleConstraints = {
   pageTypeSlug: "book-section",
   slug: "invisible-constraints",
   title: "Invisible constraints",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

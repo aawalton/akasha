@@ -5,9 +5,10 @@ export const otherResidencyUk = {
   pageTypeSlug: "book-section",
   slug: "other-residency-uk",
   title: "Uk",
+  sectionOfSlug: "book-section/second-passport/other-residency",
   description:
     "UK residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/uk.md.",
-  partOfSlugs: ["other-residency"],
+  partOfSlugs: ["book-section/second-passport/other-residency"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

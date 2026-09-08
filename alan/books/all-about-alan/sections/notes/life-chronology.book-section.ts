@@ -5,6 +5,7 @@ export const lifeChronology = {
   pageTypeSlug: "book-section",
   slug: "life-chronology",
   title: "Life chronology",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

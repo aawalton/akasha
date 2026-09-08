@@ -5,6 +5,7 @@ export const valuesPersonasSystem = {
   pageTypeSlug: "book-section",
   slug: "values-personas-system",
   title: "The values-personas system",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

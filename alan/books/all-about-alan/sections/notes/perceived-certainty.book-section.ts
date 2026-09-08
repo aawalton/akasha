@@ -5,6 +5,7 @@ export const perceivedCertainty = {
   pageTypeSlug: "book-section",
   slug: "perceived-certainty",
   title: "Perceived certainty gap",
+  sectionOfSlug: "all-about-alan",
   description:
     "Perceived-certainty gap — the asymmetry between Alan's actual confidence in a claim and the confidence listeners project onto his flat-assertion phrasing, with mechanism, scope, cost, and mitigation.",
   partOfSlugs: ["all-about-alan"],

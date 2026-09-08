@@ -5,6 +5,7 @@ export const crossGenderInteractionMap = {
   pageTypeSlug: "book-section",
   slug: "cross-gender-interaction-map",
   title: "Cross-gender interaction map",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

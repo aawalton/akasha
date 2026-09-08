@@ -5,9 +5,10 @@ export const orientation = {
   pageTypeSlug: "book-section",
   slug: "orientation",
   title: "Tilt and Azimuth (POA Irradiance)",
+  sectionOfSlug: "book-section/solar-power/efficiency-factors",
   description:
     "Plane-of-array (POA) irradiance — converting GHI to what actually hits the panel. Tilt, azimuth, and combined derate tables for Provo.",
-  partOfSlugs: ["efficiency-factors"],
+  partOfSlugs: ["book-section/solar-power/efficiency-factors"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

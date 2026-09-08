@@ -5,6 +5,7 @@ export const regulatedAnchorExposure = {
   pageTypeSlug: "book-section",
   slug: "regulated-anchor-exposure",
   title: "Regulated-anchor exposure",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

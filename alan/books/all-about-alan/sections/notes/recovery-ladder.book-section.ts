@@ -5,6 +5,7 @@ export const recoveryLadder = {
   pageTypeSlug: "book-section",
   slug: "recovery-ladder",
   title: "The recovery ladder",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

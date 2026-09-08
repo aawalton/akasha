@@ -5,9 +5,10 @@ export const bridgingVisas = {
   pageTypeSlug: "book-section",
   slug: "bridging-visas",
   title: "Bridging Visas",
+  sectionOfSlug: "book-section/other-residency/other-residency-australia",
   description:
     "Australia bridging visas BVA–BVE: status-maintenance visas that hold lawful status while a substantive decision is pending (May 2026 snapshot).",
-  partOfSlugs: ["australia"],
+  partOfSlugs: ["book-section/other-residency/other-residency-australia"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

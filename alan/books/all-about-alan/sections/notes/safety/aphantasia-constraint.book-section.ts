@@ -5,6 +5,7 @@ export const aphantasiaConstraint = {
   pageTypeSlug: "book-section",
   slug: "aphantasia-constraint",
   title: "Safety — the aphantasia constraint on intervention design",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

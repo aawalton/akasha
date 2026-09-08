@@ -5,6 +5,7 @@ export const revelationAsExposure = {
   pageTypeSlug: "book-section",
   slug: "revelation-as-exposure",
   title: "Revelation as exposure",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

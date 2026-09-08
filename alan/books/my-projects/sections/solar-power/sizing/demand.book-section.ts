@@ -5,9 +5,10 @@ export const demand = {
   pageTypeSlug: "book-section",
   slug: "demand",
   title: "Revised Annual Demand (Iteration 2)",
+  sectionOfSlug: "book-section/solar-power/sizing",
   description:
     "Iteration-2 revised annual demand — flag-loads removed, low-end EV miles applied, home lab folded into the 12 PCs, inference upside flagged.",
-  partOfSlugs: ["sizing"],
+  partOfSlugs: ["book-section/solar-power/sizing"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

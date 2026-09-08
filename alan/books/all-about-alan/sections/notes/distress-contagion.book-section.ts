@@ -5,6 +5,7 @@ export const distressContagion = {
   pageTypeSlug: "book-section",
   slug: "distress-contagion",
   title: "Distress contagion — a conditioned threat forecast",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

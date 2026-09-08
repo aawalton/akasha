@@ -5,6 +5,7 @@ export const captureEvents = {
   pageTypeSlug: "book-section",
   slug: "capture-events",
   title: "Capture events",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

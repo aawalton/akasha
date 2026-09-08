@@ -5,6 +5,7 @@ export const journeyAsReward = {
   pageTypeSlug: "book-section",
   slug: "journey-as-reward",
   title: "Journey as reward",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

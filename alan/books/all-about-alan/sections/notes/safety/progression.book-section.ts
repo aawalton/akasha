@@ -5,6 +5,7 @@ export const progression = {
   pageTypeSlug: "book-section",
   slug: "progression",
   title: "Safety — progression and the two pillars",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,6 +5,7 @@ export const music = {
   pageTypeSlug: "book-section",
   slug: "music",
   title: "Music as cross-cutting bridge",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,6 +5,7 @@ export const inverseRoutes = {
   pageTypeSlug: "book-section",
   slug: "inverse-routes",
   title: "Inverse routes to the same interior",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

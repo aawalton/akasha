@@ -5,6 +5,7 @@ export const autismBurnout = {
   pageTypeSlug: "book-section",
   slug: "autism-burnout",
   title: "Autistic burnout",
+  sectionOfSlug: "all-about-alan",
   description:
     "Autistic burnout — Alan's 18-year compound decline (sustained ~50% deficit between stressors and recovery), the catastrophic low, and the current recovery trajectory.",
   partOfSlugs: ["all-about-alan"],

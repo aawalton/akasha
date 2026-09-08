@@ -5,6 +5,7 @@ export const safePerson = {
   pageTypeSlug: "book-section",
   slug: "safe-person",
   title: "The safe person and the broken covenant",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

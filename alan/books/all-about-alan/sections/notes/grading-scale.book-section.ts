@@ -5,6 +5,7 @@ export const gradingScale = {
   pageTypeSlug: "book-section",
   slug: "grading-scale",
   title: "Grading scale",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

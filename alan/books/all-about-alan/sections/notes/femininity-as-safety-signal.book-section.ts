@@ -5,6 +5,7 @@ export const femininityAsSafetySignal = {
   pageTypeSlug: "book-section",
   slug: "femininity-as-safety-signal",
   title: "Femininity as a Safety-raising signal",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

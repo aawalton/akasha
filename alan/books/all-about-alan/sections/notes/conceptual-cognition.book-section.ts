@@ -5,6 +5,7 @@ export const conceptualCognition = {
   pageTypeSlug: "book-section",
   slug: "conceptual-cognition",
   title: "Conceptual cognition",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

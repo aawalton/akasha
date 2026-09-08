@@ -5,9 +5,10 @@ export const humanitarian = {
   pageTypeSlug: "book-section",
   slug: "humanitarian",
   title: "Humanitarian",
+  sectionOfSlug: "book-section/other-residency/other-residency-australia",
   description:
     "Australia humanitarian/protection residency paths: offshore refugee (200–204), onshore protection (866), and phasing-out temporary protection (May 2026 snapshot).",
-  partOfSlugs: ["australia"],
+  partOfSlugs: ["book-section/other-residency/other-residency-australia"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

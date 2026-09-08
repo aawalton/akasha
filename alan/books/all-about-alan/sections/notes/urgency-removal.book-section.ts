@@ -5,6 +5,7 @@ export const urgencyRemoval = {
   pageTypeSlug: "book-section",
   slug: "urgency-removal",
   title: "Urgency removal",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

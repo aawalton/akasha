@@ -5,6 +5,7 @@ export const beingKnownSupply = {
   pageTypeSlug: "book-section",
   slug: "being-known-supply",
   title: "Being-known supply",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

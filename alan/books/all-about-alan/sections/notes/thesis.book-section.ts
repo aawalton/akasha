@@ -5,6 +5,7 @@ export const thesis = {
   pageTypeSlug: "book-section",
   slug: "thesis",
   title: "Thesis",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

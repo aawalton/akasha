@@ -5,6 +5,7 @@ export const focusDiffuseAlternation = {
   pageTypeSlug: "book-section",
   slug: "focus-diffuse-alternation",
   title: "Focus/diffuse alternation",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

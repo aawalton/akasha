@@ -5,6 +5,7 @@ export const interestModulator = {
   pageTypeSlug: "book-section",
   slug: "interest-modulator",
   title: "Interest modulator",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

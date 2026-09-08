@@ -5,7 +5,8 @@ export const passiveIncome = {
   pageTypeSlug: "book-section",
   slug: "passive-income",
   title: "Passive Income",
-  partOfSlugs: ["second-passport"],
+  sectionOfSlug: "book-section/my-projects/second-passport",
+  partOfSlugs: ["book-section/my-projects/second-passport"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -5,6 +5,7 @@ export const aphantasiaMechanism = {
   pageTypeSlug: "book-section",
   slug: "aphantasia-mechanism",
   title: "Aphantasia mechanism",
+  sectionOfSlug: "all-about-alan",
   description:
     "Aphantasia mechanism — three-stage Perception/Encoding/Recall model, with Alan's Recall stage broken.",
   partOfSlugs: ["all-about-alan"],

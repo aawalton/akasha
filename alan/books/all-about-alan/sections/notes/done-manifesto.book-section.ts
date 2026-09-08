@@ -5,6 +5,7 @@ export const doneManifesto = {
   pageTypeSlug: "book-section",
   slug: "done-manifesto",
   title: "The Done Manifesto",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

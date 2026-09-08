@@ -5,8 +5,9 @@ export const defunct = {
   pageTypeSlug: "book-section",
   slug: "defunct",
   title: "Defunct / Red-Flag Operators",
+  sectionOfSlug: "book-section/solar-power/installers",
   description: "Defunct, exited, or red-flagged solar installers — do not contract.",
-  partOfSlugs: ["installers"],
+  partOfSlugs: ["book-section/solar-power/installers"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

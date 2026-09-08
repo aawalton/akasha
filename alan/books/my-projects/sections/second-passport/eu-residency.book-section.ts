@@ -5,9 +5,10 @@ export const euResidency = {
   pageTypeSlug: "book-section",
   slug: "eu-residency",
   title: "EU Residency",
+  sectionOfSlug: "book-section/my-projects/second-passport",
   description:
     "The routes to residency in a European Union member country, one section for each country and a summary reading across them all. Residency is the step most citizenship routes are counted from, so the clock a country runs on begins here rather than at the citizenship section.",
-  partOfSlugs: ["second-passport"],
+  partOfSlugs: ["book-section/my-projects/second-passport"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

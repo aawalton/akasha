@@ -5,9 +5,10 @@ export const baseline = {
   pageTypeSlug: "book-section",
   slug: "baseline",
   title: "1970s Utah House — Envelope Baseline",
+  sectionOfSlug: "book-section/solar-power/envelope",
   description:
     "Typical envelope characteristics of a 1970s Utah house — assemblies, R-values, air leakage, ductwork — that set the starting heating load.",
-  partOfSlugs: ["envelope"],
+  partOfSlugs: ["book-section/solar-power/envelope"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -5,9 +5,10 @@ export const skilledStream = {
   pageTypeSlug: "book-section",
   slug: "skilled-stream",
   title: "Skilled Stream",
+  sectionOfSlug: "book-section/other-residency/other-residency-australia",
   description:
     "Australia skilled-migration residency paths: points-tested 189/190/491, employer-sponsored 482 (SID)/186/494, and the National Innovation Visa 858 (May 2026 snapshot).",
-  partOfSlugs: ["australia"],
+  partOfSlugs: ["book-section/other-residency/other-residency-australia"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

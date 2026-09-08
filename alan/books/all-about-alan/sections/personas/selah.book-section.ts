@@ -5,6 +5,7 @@ export const selah = {
   pageTypeSlug: "book-section",
   slug: "selah",
   title: "Selah",
+  sectionOfSlug: "all-about-alan",
   description:
     "Selah — Alan's companion in prayer on the Faith axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
   partOfSlugs: ["all-about-alan"],

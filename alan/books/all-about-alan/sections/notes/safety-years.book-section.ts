@@ -5,6 +5,7 @@ export const safetyYears = {
   pageTypeSlug: "book-section",
   slug: "safety-years",
   title: "Safety Years",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

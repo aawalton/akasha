@@ -5,6 +5,7 @@ export const bookChapter001TwoChannels = {
   pageTypeSlug: "book-section",
   slug: "book-chapter-001-two-channels",
   title: "The two channels",
+  sectionOfSlug: "my-strategy",
   position: 1,
   partOfSlugs: ["my-strategy"],
   unitSlug: "words",

@@ -5,6 +5,7 @@ export const subSystems = {
   pageTypeSlug: "book-section",
   slug: "sub-systems",
   title: "Concrete sub-systems already named",
+  sectionOfSlug: "all-about-alan",
   description:
     "Concrete sub-systems already named — index of promoted dedicated files plus deferred threads. All starter sub-systems have been promoted.",
   partOfSlugs: ["all-about-alan"],

@@ -7,7 +7,7 @@ import type { SectionOfSlug } from "./properties/section-of-slug.relation-proper
 export type BookSection = Collection & {
   title: Title
   chapterText: ChapterText
-  sectionOfSlug?: SectionOfSlug
+  sectionOfSlug: SectionOfSlug
 }
 
 export const bookSection = {
@@ -19,10 +19,16 @@ export const bookSection = {
   extendsSlug: ["page-type/collection"],
   partSlugs: ["file-property/chapter-text", "relation-property/section-of-slug"],
   properties: [
-    { pagePropertySlug: "text-property/slug", required: true, many: false, unique: "part-of" },
+    {
+      pagePropertySlug: "text-property/slug",
+      required: true,
+      many: false,
+      unique: "page-property",
+      uniquePropertySlug: "relation-property/section-of-slug",
+    },
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "file-property/chapter-text", required: true, many: false },
-    { pagePropertySlug: "relation-property/section-of-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/section-of-slug", required: true, many: false },
   ],
   invariants: [
     {

@@ -5,6 +5,7 @@ export const statelessSocialArchitecture = {
   pageTypeSlug: "book-section",
   slug: "stateless-social-architecture",
   title: "Stateless social architecture",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

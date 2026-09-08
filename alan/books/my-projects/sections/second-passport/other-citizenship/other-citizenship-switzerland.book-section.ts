@@ -5,8 +5,9 @@ export const otherCitizenshipSwitzerland = {
   pageTypeSlug: "book-section",
   slug: "other-citizenship-switzerland",
   title: "Switzerland",
+  sectionOfSlug: "book-section/second-passport/other-citizenship",
   description: "Switzerland citizenship paths (May 2026 snapshot).",
-  partOfSlugs: ["other-citizenship"],
+  partOfSlugs: ["book-section/second-passport/other-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

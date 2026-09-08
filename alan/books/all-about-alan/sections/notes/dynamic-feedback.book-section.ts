@@ -5,6 +5,7 @@ export const dynamicFeedback = {
   pageTypeSlug: "book-section",
   slug: "dynamic-feedback",
   title: "Dynamic feedback loop",
+  sectionOfSlug: "all-about-alan",
   description: "Dynamic feedback loop between stress-capacity surplus and safety level.",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",

@@ -5,9 +5,10 @@ export const euCitizenshipGermany = {
   pageTypeSlug: "book-section",
   slug: "eu-citizenship-germany",
   title: "Germany",
+  sectionOfSlug: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to German citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (post-2024 reform), and current backlogs per path.",
-  partOfSlugs: ["eu-citizenship"],
+  partOfSlugs: ["book-section/second-passport/eu-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

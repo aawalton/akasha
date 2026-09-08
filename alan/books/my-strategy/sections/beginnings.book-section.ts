@@ -5,6 +5,7 @@ export const beginnings = {
   pageTypeSlug: "book-section",
   slug: "beginnings",
   title: "My Strategy",
+  sectionOfSlug: "my-strategy",
   position: 0,
   partOfSlugs: ["my-strategy"],
   unitSlug: "words",

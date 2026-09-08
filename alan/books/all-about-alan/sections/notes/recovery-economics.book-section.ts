@@ -5,6 +5,7 @@ export const recoveryEconomics = {
   pageTypeSlug: "book-section",
   slug: "recovery-economics",
   title: "The economics of recovery",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

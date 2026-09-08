@@ -5,6 +5,7 @@ export const selfInstrumentation = {
   pageTypeSlug: "book-section",
   slug: "self-instrumentation",
   title: "Self-instrumentation",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

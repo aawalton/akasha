@@ -5,6 +5,7 @@ export const ladderOfCausation = {
   pageTypeSlug: "book-section",
   slug: "ladder-of-causation",
   title: "The persona system as a ladder of causation",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

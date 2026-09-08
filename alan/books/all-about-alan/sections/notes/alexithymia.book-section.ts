@@ -5,6 +5,7 @@ export const alexithymia = {
   pageTypeSlug: "book-section",
   slug: "alexithymia",
   title: "Alexithymia",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

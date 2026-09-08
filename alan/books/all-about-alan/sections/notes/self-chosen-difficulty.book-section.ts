@@ -5,6 +5,7 @@ export const selfChosenDifficulty = {
   pageTypeSlug: "book-section",
   slug: "self-chosen-difficulty",
   title: "Self-chosen difficulty",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

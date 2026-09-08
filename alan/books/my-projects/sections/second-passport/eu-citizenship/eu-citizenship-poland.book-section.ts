@@ -5,9 +5,10 @@ export const euCitizenshipPoland = {
   pageTypeSlug: "book-section",
   slug: "eu-citizenship-poland",
   title: "Polish Citizenship Paths (May 2026)",
+  sectionOfSlug: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Polish citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (tolerated), and current backlogs per path.",
-  partOfSlugs: ["eu-citizenship"],
+  partOfSlugs: ["book-section/second-passport/eu-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

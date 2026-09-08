@@ -5,6 +5,7 @@ export const judgeLocation = {
   pageTypeSlug: "book-section",
   slug: "judge-location",
   title: "Creativity scars — where the judge lives",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

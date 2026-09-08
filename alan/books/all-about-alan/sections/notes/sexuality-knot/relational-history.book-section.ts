@@ -5,6 +5,7 @@ export const relationalHistory = {
   pageTypeSlug: "book-section",
   slug: "relational-history",
   title: "Relational history",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

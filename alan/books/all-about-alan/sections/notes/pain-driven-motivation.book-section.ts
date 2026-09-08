@@ -5,6 +5,7 @@ export const painDrivenMotivation = {
   pageTypeSlug: "book-section",
   slug: "pain-driven-motivation",
   title: "Pain-driven motivation",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

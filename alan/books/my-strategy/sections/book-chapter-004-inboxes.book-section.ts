@@ -5,6 +5,7 @@ export const bookChapter004Inboxes = {
   pageTypeSlug: "book-section",
   slug: "book-chapter-004-inboxes",
   title: "My inboxes",
+  sectionOfSlug: "my-strategy",
   position: 4,
   partOfSlugs: ["my-strategy"],
   unitSlug: "words",

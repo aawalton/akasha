@@ -5,6 +5,7 @@ export const bookChapter006TheDependencyGraph = {
   pageTypeSlug: "book-section",
   slug: "book-chapter-006-the-dependency-graph",
   title: "The dependency graph",
+  sectionOfSlug: "my-strategy",
   position: 6,
   partOfSlugs: ["my-strategy"],
   unitSlug: "words",

@@ -5,6 +5,7 @@ export const receivingPositiveSignal = {
   pageTypeSlug: "book-section",
   slug: "receiving-positive-signal",
   title: "Receiving positive signal",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

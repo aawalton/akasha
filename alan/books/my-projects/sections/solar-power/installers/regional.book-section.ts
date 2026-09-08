@@ -5,8 +5,9 @@ export const regional = {
   pageTypeSlug: "book-section",
   slug: "regional",
   title: "Regional Installers",
+  sectionOfSlug: "book-section/solar-power/installers",
   description: "Regional / multi-state solar installers serving Provo, UT.",
-  partOfSlugs: ["installers"],
+  partOfSlugs: ["book-section/solar-power/installers"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

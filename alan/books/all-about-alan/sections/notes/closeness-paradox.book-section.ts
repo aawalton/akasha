@@ -5,6 +5,7 @@ export const closenessParadox = {
   pageTypeSlug: "book-section",
   slug: "closeness-paradox",
   title: "The closeness paradox",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

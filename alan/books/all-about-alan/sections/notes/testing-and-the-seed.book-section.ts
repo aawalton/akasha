@@ -5,6 +5,7 @@ export const testingAndTheSeed = {
   pageTypeSlug: "book-section",
   slug: "testing-and-the-seed",
   title: "Testing and the seed",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,6 +5,7 @@ export const bookChapter009TheBoundaryIsAReachabilityQuestion = {
   pageTypeSlug: "book-section",
   slug: "book-chapter-009-the-boundary-is-a-reachability-question",
   title: "The boundary is a reachability question",
+  sectionOfSlug: "my-strategy",
   position: 9,
   partOfSlugs: ["my-strategy"],
   unitSlug: "words",

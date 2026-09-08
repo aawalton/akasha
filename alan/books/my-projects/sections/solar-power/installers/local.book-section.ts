@@ -5,8 +5,9 @@ export const local = {
   pageTypeSlug: "book-section",
   slug: "local",
   title: "Local Utah Installers",
+  sectionOfSlug: "book-section/solar-power/installers",
   description: "Utah-based local solar installers serving Provo / Utah County.",
-  partOfSlugs: ["installers"],
+  partOfSlugs: ["book-section/solar-power/installers"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

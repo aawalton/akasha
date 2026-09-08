@@ -5,6 +5,7 @@ export const auditScope = {
   pageTypeSlug: "book-section",
   slug: "audit-scope",
   title: "Audit scope",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,6 +5,7 @@ export const feelingThroughStory = {
   pageTypeSlug: "book-section",
   slug: "feeling-through-story",
   title: "Feeling through story",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

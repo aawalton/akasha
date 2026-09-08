@@ -5,9 +5,10 @@ export const installers = {
   pageTypeSlug: "book-section",
   slug: "installers",
   title: "Rooftop Solar Installers Serving Provo, UT",
+  sectionOfSlug: "book-section/my-projects/solar-power",
   description:
     "Comprehensive list of rooftop solar installers serving Provo, UT (1350 Apple Ave) with credentials, ratings, warranties, and red flags.",
-  partOfSlugs: ["solar-power"],
+  partOfSlugs: ["book-section/my-projects/solar-power"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

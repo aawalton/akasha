@@ -5,6 +5,7 @@ export const responsibilityMode = {
   pageTypeSlug: "book-section",
   slug: "responsibility-mode",
   title: "Responsibility Mode",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

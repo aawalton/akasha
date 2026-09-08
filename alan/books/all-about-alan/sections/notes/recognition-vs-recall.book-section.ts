@@ -5,6 +5,7 @@ export const recognitionVsRecall = {
   pageTypeSlug: "book-section",
   slug: "recognition-vs-recall",
   title: "Recognition vs. Recall",
+  sectionOfSlug: "all-about-alan",
   description:
     "Recognition vs. recall — distinction that refines the aphantasia mechanism (recognition intact, recall broken).",
   partOfSlugs: ["all-about-alan"],

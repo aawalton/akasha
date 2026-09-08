@@ -5,6 +5,7 @@ export const connectionDebt = {
   pageTypeSlug: "book-section",
   slug: "connection-debt",
   title: "Connection debt",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

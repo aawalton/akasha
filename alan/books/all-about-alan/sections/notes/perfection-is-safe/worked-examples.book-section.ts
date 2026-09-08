@@ -5,6 +5,7 @@ export const workedExamples = {
   pageTypeSlug: "book-section",
   slug: "worked-examples",
   title: "The worked-examples wall",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

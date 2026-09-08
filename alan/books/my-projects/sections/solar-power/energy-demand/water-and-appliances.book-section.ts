@@ -5,9 +5,10 @@ export const waterAndAppliances = {
   pageTypeSlug: "book-section",
   slug: "water-and-appliances",
   title: "Domestic Hot Water + Appliances",
+  sectionOfSlug: "book-section/solar-power/energy-demand",
   description:
     "Domestic hot water, induction range, refrigeration, dryer, dishwasher, and miscellaneous kitchen appliances — annual kWh, peak draw, HPWH vs resistance tradeoff.",
-  partOfSlugs: ["energy-demand"],
+  partOfSlugs: ["book-section/solar-power/energy-demand"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

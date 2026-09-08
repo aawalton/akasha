@@ -5,6 +5,7 @@ export const discreteSelf = {
   pageTypeSlug: "book-section",
   slug: "discrete-self",
   title: "The discrete self",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

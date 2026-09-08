@@ -5,6 +5,7 @@ export const provableLegibility = {
   pageTypeSlug: "book-section",
   slug: "provable-legibility",
   title: "Provable legibility",
+  sectionOfSlug: "my-math",
   partOfSlugs: ["my-math"],
   unitSlug: "words",
   chapterText: "md",

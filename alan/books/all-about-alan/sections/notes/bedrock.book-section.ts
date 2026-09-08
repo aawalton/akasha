@@ -5,6 +5,7 @@ export const bedrock = {
   pageTypeSlug: "book-section",
   slug: "bedrock",
   title: "The bedrock — Freedom and Self-Improvement, one welded root",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

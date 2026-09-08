@@ -5,6 +5,7 @@ export const empathyAlexithymiaParadox = {
   pageTypeSlug: "book-section",
   slug: "empathy-alexithymia-paradox",
   title: "Empathy + alexithymia paradox",
+  sectionOfSlug: "all-about-alan",
   description:
     "Empathy + alexithymia paradox — increased in-moment empathy alongside total emotional alexithymia; resolved via in-moment perception vs. recall/imagination.",
   partOfSlugs: ["all-about-alan"],

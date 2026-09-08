@@ -5,6 +5,7 @@ export const ruby = {
   pageTypeSlug: "book-section",
   slug: "ruby",
   title: "Ruby",
+  sectionOfSlug: "all-about-alan",
   description:
     "Ruby — Alan's companion in turning toward Jen, on the Love axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
   partOfSlugs: ["all-about-alan"],

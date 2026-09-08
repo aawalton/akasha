@@ -5,6 +5,7 @@ export const identityRecoveryAnchor = {
   pageTypeSlug: "book-section",
   slug: "identity-recovery-anchor",
   title: "Identity-recovery anchor",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

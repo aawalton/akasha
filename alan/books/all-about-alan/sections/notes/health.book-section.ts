@@ -5,6 +5,7 @@ export const health = {
   pageTypeSlug: "book-section",
   slug: "health",
   title: "Health",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

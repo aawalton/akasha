@@ -5,6 +5,7 @@ export const bookChapter002Resources = {
   pageTypeSlug: "book-section",
   slug: "book-chapter-002-resources",
   title: "What I spend",
+  sectionOfSlug: "my-strategy",
   position: 2,
   partOfSlugs: ["my-strategy"],
   unitSlug: "words",

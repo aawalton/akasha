@@ -5,6 +5,7 @@ export const weightedBlanket = {
   pageTypeSlug: "book-section",
   slug: "weighted-blanket",
   title: "Weighted blanket",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,6 +5,7 @@ export const beliefBehaviorGap = {
   pageTypeSlug: "book-section",
   slug: "belief-behavior-gap",
   title: "The belief→behavior gap",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

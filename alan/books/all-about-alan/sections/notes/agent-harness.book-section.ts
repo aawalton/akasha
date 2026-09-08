@@ -5,6 +5,7 @@ export const agentHarness = {
   pageTypeSlug: "book-section",
   slug: "agent-harness",
   title: "Agent harness",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

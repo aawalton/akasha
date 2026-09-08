@@ -5,6 +5,7 @@ export const autismComorbidities = {
   pageTypeSlug: "book-section",
   slug: "autism-comorbidities",
   title: "Autism comorbidities",
+  sectionOfSlug: "all-about-alan",
   description:
     "Autism comorbidities — mechanism hypothesis (regulatory-NS protein-pathway changes broaden NS-disorder risk) and Alan's triaged profile.",
   partOfSlugs: ["all-about-alan"],

@@ -5,6 +5,7 @@ export const weather = {
   pageTypeSlug: "book-section",
   slug: "weather",
   title: "Weather",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

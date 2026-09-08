@@ -5,6 +5,7 @@ export const identityCollapse = {
   pageTypeSlug: "book-section",
   slug: "identity-collapse",
   title: "Identity collapse",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

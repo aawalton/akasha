@@ -5,6 +5,7 @@ export const stayLeaveLedger = {
   pageTypeSlug: "book-section",
   slug: "stay-leave-ledger",
   title: "The stay-or-leave ledger",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

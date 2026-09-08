@@ -5,6 +5,7 @@ export const scopeAndWitness = {
   pageTypeSlug: "book-section",
   slug: "scope-and-witness",
   title: "Creativity scars — scope and the witness confound",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

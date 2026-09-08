@@ -5,9 +5,10 @@ export const euCitizenshipSlovakia = {
   pageTypeSlug: "book-section",
   slug: "eu-citizenship-slovakia",
   title: "Slovak Citizenship Paths (May 2026)",
+  sectionOfSlug: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Slovak citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (constrained), and current backlogs per path.",
-  partOfSlugs: ["eu-citizenship"],
+  partOfSlugs: ["book-section/second-passport/eu-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

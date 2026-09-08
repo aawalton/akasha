@@ -5,9 +5,10 @@ export const lightsAndPlugs = {
   pageTypeSlug: "book-section",
   slug: "lights-and-plugs",
   title: "Lighting + Plug Loads (non-gaming)",
+  sectionOfSlug: "book-section/solar-power/energy-demand",
   description:
     "Lighting, non-gaming plug loads, networking, outdoor lighting, garage, and pool/hot-tub/home-lab flag-loads — annual kWh and what pushes them up or down.",
-  partOfSlugs: ["energy-demand"],
+  partOfSlugs: ["book-section/solar-power/energy-demand"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

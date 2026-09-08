@@ -5,6 +5,7 @@ export const interventionPathways = {
   pageTypeSlug: "book-section",
   slug: "intervention-pathways",
   title: "Safety — intervention pathways and how it climbs",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

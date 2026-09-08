@@ -5,8 +5,9 @@ export const otherResidencyLiechtenstein = {
   pageTypeSlug: "book-section",
   slug: "other-residency-liechtenstein",
   title: "Liechtenstein",
+  sectionOfSlug: "book-section/second-passport/other-residency",
   description: "Liechtenstein residency paths (May 2026 snapshot).",
-  partOfSlugs: ["other-residency"],
+  partOfSlugs: ["book-section/second-passport/other-residency"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

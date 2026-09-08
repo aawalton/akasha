@@ -5,6 +5,7 @@ export const nervousSystemResiliency = {
   pageTypeSlug: "book-section",
   slug: "nervous-system-resiliency",
   title: "Nervous-system resiliency — the natural experiment",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

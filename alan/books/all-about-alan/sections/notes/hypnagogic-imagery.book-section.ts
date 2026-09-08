@@ -5,6 +5,7 @@ export const hypnagogicImagery = {
   pageTypeSlug: "book-section",
   slug: "hypnagogic-imagery",
   title: "Hypnagogic imagery",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,6 +5,7 @@ export const accommodationNotExcuse = {
   pageTypeSlug: "book-section",
   slug: "accommodation-not-excuse",
   title: "Accommodation, not excuse",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

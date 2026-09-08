@@ -5,6 +5,7 @@ export const employmentCessation = {
   pageTypeSlug: "book-section",
   slug: "employment-cessation",
   title: "Employment cessation",
+  sectionOfSlug: "all-about-alan",
   description:
     "Employment cessation as a system — the 80% cost cut, the cost-vs-capacity ratchet that forced it, and the financial bridge that made the cut implementable.",
   partOfSlugs: ["all-about-alan"],

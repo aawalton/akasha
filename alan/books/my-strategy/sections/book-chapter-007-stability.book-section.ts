@@ -5,6 +5,7 @@ export const bookChapter007Stability = {
   pageTypeSlug: "book-section",
   slug: "book-chapter-007-stability",
   title: "Where stability comes from",
+  sectionOfSlug: "my-strategy",
   position: 7,
   partOfSlugs: ["my-strategy"],
   unitSlug: "words",

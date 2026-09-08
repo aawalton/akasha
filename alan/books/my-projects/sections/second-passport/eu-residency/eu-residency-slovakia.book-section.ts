@@ -5,9 +5,10 @@ export const euResidencySlovakia = {
   pageTypeSlug: "book-section",
   slug: "eu-residency-slovakia",
   title: "Slovakia",
+  sectionOfSlug: "book-section/second-passport/eu-residency",
   description:
     "Slovakia residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/slovakia.md.",
-  partOfSlugs: ["eu-residency"],
+  partOfSlugs: ["book-section/second-passport/eu-residency"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -5,6 +5,7 @@ export const grace = {
   pageTypeSlug: "book-section",
   slug: "grace",
   title: "Grace",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

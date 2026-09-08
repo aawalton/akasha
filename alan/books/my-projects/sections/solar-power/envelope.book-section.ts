@@ -5,9 +5,10 @@ export const envelope = {
   pageTypeSlug: "book-section",
   slug: "envelope",
   title: "Envelope Retrofit Decision",
+  sectionOfSlug: "book-section/my-projects/solar-power",
   description:
     "Envelope retrofit decision for a 1970s 6000 sq ft Provo house — assessment options, retrofit packages ranked by leverage, and recommended sequence.",
-  partOfSlugs: ["solar-power"],
+  partOfSlugs: ["book-section/my-projects/solar-power"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

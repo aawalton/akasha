@@ -5,6 +5,7 @@ export const compressionEpistemology = {
   pageTypeSlug: "book-section",
   slug: "compression-epistemology",
   title: "Compression epistemology",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

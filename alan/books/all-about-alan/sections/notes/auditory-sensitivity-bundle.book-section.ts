@@ -5,6 +5,7 @@ export const auditorySensitivityBundle = {
   pageTypeSlug: "book-section",
   slug: "auditory-sensitivity-bundle",
   title: "Auditory-sensitivity bundle",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,6 +5,7 @@ export const decisionRubric = {
   pageTypeSlug: "book-section",
   slug: "decision-rubric",
   title: "Decision rubric",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

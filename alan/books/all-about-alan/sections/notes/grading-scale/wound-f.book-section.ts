@@ -5,6 +5,7 @@ export const woundF = {
   pageTypeSlug: "book-section",
   slug: "wound-f",
   title: "The wound-F — stress of connection as a standing cost",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

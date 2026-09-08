@@ -5,6 +5,7 @@ export const theHierarchy = {
   pageTypeSlug: "book-section",
   slug: "the-hierarchy",
   title: "The hierarchy, and the index on the word",
+  sectionOfSlug: "my-math",
   partOfSlugs: ["my-math"],
   unitSlug: "words",
   chapterText: "md",

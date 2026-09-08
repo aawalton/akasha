@@ -5,6 +5,7 @@ export const conceptualAdapters = {
   pageTypeSlug: "book-section",
   slug: "conceptual-adapters",
   title: "Conceptual adapters",
+  sectionOfSlug: "all-about-alan",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

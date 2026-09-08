@@ -5,9 +5,10 @@ export const euCitizenshipItaly = {
   pageTypeSlug: "book-section",
   slug: "eu-citizenship-italy",
   title: "Italy",
+  sectionOfSlug: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Italian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path (esp. post-Tajani-decree jure sanguinis state).",
-  partOfSlugs: ["eu-citizenship"],
+  partOfSlugs: ["book-section/second-passport/eu-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection
