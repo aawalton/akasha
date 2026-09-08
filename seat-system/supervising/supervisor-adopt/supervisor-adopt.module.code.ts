@@ -5,10 +5,8 @@ import {
   buildClaudeArgv,
   refuseMissingCwd,
 } from "../../claude-launch-args/claude-launch-args.module.code.ts"
-import type {
-  ChildExitRuleSource,
-  ChildExitStatus,
-} from "../supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import type { ChildExitStatus } from "../supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import type { ChildExitRuleSource } from "../supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import {
   asRecord,
   CLAUDE_CONFIG_PATH,

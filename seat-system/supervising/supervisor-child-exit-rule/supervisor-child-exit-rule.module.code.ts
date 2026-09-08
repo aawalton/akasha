@@ -7,18 +7,9 @@ import {
   type ChildExitStatus,
   STOP_REASON as DB_STOP_REASON,
   type ShutdownExitWrite,
-  type StopReason,
 } from "../supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 
 const RULE = "childExitRule"
-
-export type {
-  ChildExitClassification,
-  ChildExitObservation,
-  ChildExitStatus,
-  ShutdownExitWrite,
-  StopReason,
-}
 
 const UNREAD_STATUS: ChildExitStatus = { exitCode: null, signal: null }
 

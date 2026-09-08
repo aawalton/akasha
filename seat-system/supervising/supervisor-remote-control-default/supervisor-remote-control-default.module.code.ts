@@ -4,8 +4,6 @@ import {
 } from "@akasha/seat-system/supervisor-remote-control-decide"
 import { shape } from "@akasha/utils-narrow/shape"
 
-export type { RemoteControlQuestion }
-
 export const UNCLAIMED_SEAT = "unclaimed"
 
 export function seatLabel(agentId: string | null): string {

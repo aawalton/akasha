@@ -1,4 +1,5 @@
 import { readTranscriptMtimeMs } from "../../agent-io-probe/agent-io-probe.module.code.ts"
+import type { IdleObservation } from "../../supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   busyTrail,
   logPastCliffOverride,
@@ -16,7 +17,6 @@ import {
 } from "../supervisor-idle-observe/supervisor-idle-observe.module.code.ts"
 import type {
   BusyChildDetail,
-  IdleObservation,
   IdleRuleSource,
 } from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 

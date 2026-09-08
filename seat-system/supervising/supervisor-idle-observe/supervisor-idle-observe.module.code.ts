@@ -4,9 +4,9 @@ import { akashaSeatsThatExist } from "../../seat-akasha-beside/seat-akasha-besid
 import { agentPresence } from "../../seat-presence-read/seat-presence-read.module.code.ts"
 import { principalSeatIdOf } from "../../seat-principal/seat-principal.module.code.ts"
 import type { SeatPresence } from "../../seat-proc-key/seat-proc-key.module.code.ts"
+import type { IdleObservation } from "../../supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import type {
   BusyChildDetail,
-  IdleObservation,
   IdleRuleSource,
 } from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 

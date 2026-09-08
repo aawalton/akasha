@@ -1,4 +1,4 @@
-import type { ChildExitStatus } from "../supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import type { ChildExitStatus } from "../supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 
 export type PipedProc = {
   stdin: import("bun").FileSink
