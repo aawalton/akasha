@@ -355,6 +355,15 @@
     "alan/harness/web-build-version": {
       "name": "@akasha/web-build-version",
     },
+    "alan/harness/web-page-answers": {
+      "name": "@akasha/web-page-answers",
+      "dependencies": {
+        "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
+        "@akasha/supabase-rr": "workspace:*",
+        "lucide-react": "^0.576.0",
+      },
+    },
     "alan/harness/web-security-headers": {
       "name": "@akasha/web-security-headers",
     },
@@ -2923,15 +2932,6 @@
     "verdict": {
       "name": "@akasha/verdict",
     },
-    "web-page-answers": {
-      "name": "@akasha/web-page-answers",
-      "dependencies": {
-        "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
-        "@akasha/supabase-rr": "workspace:*",
-        "lucide-react": "^0.576.0",
-      },
-    },
   },
   "trustedDependencies": [
     "esbuild",
@@ -3485,7 +3485,7 @@
 
     "@akasha/web-build-version": ["@akasha/web-build-version@workspace:alan/harness/web-build-version"],
 
-    "@akasha/web-page-answers": ["@akasha/web-page-answers@workspace:web-page-answers"],
+    "@akasha/web-page-answers": ["@akasha/web-page-answers@workspace:alan/harness/web-page-answers"],
 
     "@akasha/web-security-headers": ["@akasha/web-security-headers@workspace:alan/harness/web-security-headers"],
 
