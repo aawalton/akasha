@@ -92,11 +92,33 @@ export async function loadedAt(world: World, at: string): Promise<Loaded | strin
   return loaded
 }
 
-export async function ranBy(world: World, loaded: Loaded, given: unknown): Promise<Answer> {
-  const before = loaded.guards.length === 0 ? world : worldBefore(world)
+const REACHED = new WeakMap<World, Guard[]>()
+
+function reachedBy(world: World, guards: readonly Guard[]): undefined {
+  if (guards.length === 0) return undefined
+  const held = REACHED.get(world)
+  if (held === undefined) REACHED.set(world, [...guards])
+  else held.push(...guards)
+}
+
+export function guardsOver(world: World, guards: readonly Guard[]): readonly Guard[] {
+  return [...new Set([...guards, ...(REACHED.get(world) ?? [])])]
+}
+
+export async function ranBy(
+  world: World,
+  loaded: Loaded,
+  given: unknown,
+  nested = false
+): Promise<Answer> {
+  if (nested) {
+    reachedBy(world, loaded.guards)
+    return await loaded.run(world, given)
+  }
+  const before = worldBefore(world)
   const said = await loaded.run(world, given)
   if (said.refused !== null) return said
-  return guardedBy(world, said, loaded.guards, before)
+  return guardedBy(world, said, guardsOver(world, loaded.guards), before)
 }
 
 export function targetIn(given: unknown): string | null {
@@ -141,5 +163,5 @@ export async function runAt(world: World, at: string, given: unknown): Promise<A
   if (typeof loaded === "string") return refusing(loaded)
   const why = targetRefusal(world, at, given)
   if (why !== null) return refusing(why)
-  return await ranBy(world, loaded, given)
+  return await ranBy(world, loaded, given, true)
 }

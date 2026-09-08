@@ -13,11 +13,12 @@ export const guardSlugs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A change naming no guard is judged by no guard.",
+      statement: "A change naming no guard and reaching none is judged by no guard.",
     },
     {
       invariantKind: "departure",
-      statement: "A change composed of other changes names the guards that change alone needs.",
+      statement:
+        "A change composed of other changes inherits the guards the changes it reaches name.",
     },
   ],
 } as const satisfies RelationProperty

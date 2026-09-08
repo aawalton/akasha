@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { HELD_PAGE, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { refusing, stating } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import type { Guard } from "../../modules/change-guarding/change-guarding.module.types.ts"
 import {
   addedTo,
   isLedger,
@@ -245,6 +246,101 @@ test("a call handing in no path has no path judged", () => {
   const world = judging("change-target-subtype/file-page-type")
 
   expect(targetRefusal(world, ADDRESS, {})).toBeNull()
+})
+
+const FRESH = "akasha/one/fresh.module.code.ts"
+
+const MENDED = "akasha/one/mended.module.code.ts"
+
+function adding(path: string): Answer {
+  return stating([{ kind: "add", path, content: "held\n" }])
+}
+
+test("a guard the change reached inside names runs at the outermost change", async () => {
+  const root = indexedRepo()
+  const world = ledgerAt(root, textIn(root))
+  const ran: string[] = []
+  const inside = {
+    run: () => adding(FRESH),
+    guards: [
+      () => {
+        ran.push("guard")
+        return null
+      },
+    ],
+  }
+
+  const said = await ranBy(
+    world,
+    {
+      run: async () => {
+        const held = await ranBy(world, inside, {}, true)
+        ran.push("inside answered")
+        return held
+      },
+      guards: [],
+    },
+    {}
+  )
+
+  expect(said.refused).toBe(null)
+  expect(ran).toEqual(["inside answered", "guard"])
+})
+
+test("a guard reached at two rungs of one composition runs once", async () => {
+  const root = indexedRepo()
+  const world = ledgerAt(root, textIn(root))
+  let ran = 0
+  const inside = {
+    run: () => stating([]),
+    guards: [
+      () => {
+        ran += 1
+        return null
+      },
+    ],
+  }
+
+  const said = await ranBy(
+    world,
+    {
+      run: async () => {
+        await ranBy(world, inside, {}, true)
+        await ranBy(world, inside, {}, true)
+        return adding(FRESH)
+      },
+      guards: [],
+    },
+    {}
+  )
+
+  expect(said.refused).toBe(null)
+  expect(ran).toBe(1)
+})
+
+const HALFWAY = `\`${FRESH}\` landed and \`${MENDED}\` did not`
+
+test("a rung a guard would refuse alone is let through where the whole answer is mended", async () => {
+  const root = indexedRepo()
+  const mending: Guard = (given) =>
+    given.said.edits.some((one) => one.kind === "add" && one.path === MENDED) ? null : HALFWAY
+  const inside = { run: () => adding(FRESH), guards: [mending] }
+  const world = ledgerAt(root, textIn(root))
+
+  const said = await ranBy(
+    world,
+    {
+      run: async () => {
+        const held = await ranBy(world, inside, {}, true)
+        return stating([...held.edits, { kind: "add", path: MENDED, content: "held\n" }])
+      },
+      guards: [],
+    },
+    {}
+  )
+
+  expect(said.refused).toBe(null)
+  expect((await ranBy(ledgerAt(root, textIn(root)), inside, {})).refused).toBe(HALFWAY)
 })
 
 test("the arguments reach the change as the caller handed the arguments in", async () => {

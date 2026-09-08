@@ -35,7 +35,7 @@ export const changeGuard = {
     },
     {
       invariantKind: "departure",
-      statement: "A guard runs on a mechanical change alone.",
+      statement: "A guard is named by a mechanical change alone.",
     },
     {
       invariantKind: "departure",
@@ -75,7 +75,8 @@ export const changeGuard = {
     },
     {
       invariantKind: "departure",
-      statement: "A mechanical change names the guards that run on that change.",
+      statement:
+        "A mechanical change names the guards that run over the composition reaching that change.",
     },
   ],
 } as const satisfies PageType

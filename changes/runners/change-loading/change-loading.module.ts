@@ -30,7 +30,16 @@ export const changeLoading = {
     },
     {
       invariantKind: "departure",
-      statement: "A guard runs over the answer of the change naming that guard.",
+      statement:
+        "A guard runs over the outermost change's answer rather than over each rung's answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A guard a change reached inside names runs at the outermost change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A guard reached at more than one rung of one composition runs once.",
     },
     {
       invariantKind: "departure",
@@ -70,12 +79,12 @@ export const changeLoading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The world a guard judges against is read before the change that guard judges runs.",
+      statement: "The world a guard judges against is read before the outermost change runs.",
     },
     {
       invariantKind: "departure",
-      statement: "A change naming no guard has no world read for it.",
+      statement:
+        "The world a guard judges is read whether or not the outermost change names a guard.",
     },
     {
       invariantKind: "departure",

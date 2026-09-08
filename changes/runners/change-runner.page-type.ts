@@ -50,11 +50,12 @@ export const changeRunner = {
     },
     {
       invariantKind: "departure",
-      statement: "A runner runs the guards that page names over the answer the change gives.",
+      statement:
+        "A runner runs the guards that page names and the guards the changes reached inside name.",
     },
     {
       invariantKind: "departure",
-      statement: "A guard runs on the answer of the change naming that guard.",
+      statement: "A guard runs on the outermost change's answer rather than on each rung's answer.",
     },
     {
       invariantKind: "gap",

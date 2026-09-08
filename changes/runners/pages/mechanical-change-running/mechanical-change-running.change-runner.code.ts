@@ -5,13 +5,15 @@ import { NO_GATE } from "@akasha/command-system/gate-building"
 import { baseOf, type Refused } from "@akasha/command-system/landing"
 import { gathered } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import {
   ledgerAt,
   reach,
   type World,
+  worldBefore,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { bodyIn } from "../../../modules/edits-keeping/edits-keeping.module.code.ts"
-import { runAt } from "../../change-loading/change-loading.module.code.ts"
+import { guardsOver, runAt } from "../../change-loading/change-loading.module.code.ts"
 import type { Changes } from "./mechanical-change-running.change-runner.addressed.ts"
 
 const NOTHING_ASKED = "no change was named, so nothing is run and nothing lands"
@@ -25,6 +27,7 @@ export type Asking = {
 }[keyof Changes]
 
 export async function foldedOver(world: World, asked: readonly Asking[]): Promise<Answer> {
+  const before = worldBefore(world)
   const answers: Answer[] = []
   let seen = world
   for (const one of asked) {
@@ -33,7 +36,9 @@ export async function foldedOver(world: World, asked: readonly Asking[]): Promis
     answers.push(reached.said)
     seen = reached.world
   }
-  return gathered(answers)
+  const said = gathered(answers)
+  if (said.refused !== null) return said
+  return guardedBy(seen, said, guardsOver(world, []), before)
 }
 
 export type Writing = {
