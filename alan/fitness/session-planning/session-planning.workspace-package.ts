@@ -11,7 +11,6 @@ export const sessionPlanning = {
     "module/movement-scoring",
     "module/pattern-groups",
     "module/performed-set",
-    "module/session-anchor",
   ],
   invariants: [
     {
