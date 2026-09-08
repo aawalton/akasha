@@ -45,6 +45,36 @@ export const theaChecksSystem = {
       workingMemory:
         "124 files under lualib/src are claimed by nothing, the old page type saying a file here carries no page of its own, which Alan calls a gap. One page per exported name: 135 names, less five doubled by the universal and 5.0 overlay, so 130 pages. Five files become folders, Error at 6 and Scheduling at 5 the largest. Stages: the page type, then the compiler reading pages, then one helper a landing, then dropping the fallback. Hold the emitted Lua to the byte with /var/tmp/imip/lualib-driver.ts.",
     },
+    {
+      statement: "Every cluster-check module body is claimed by a page.",
+      workingMemory:
+        "116 of 155 folders under checks/cluster-checks/modules hold code with no page beside it. The 39 that have one are named among the cluster-check page type's parts, and a new page lands only together with its part slug. Every one of these checks is dead pending Alan's ablation, so the page is plain: slug, definition, code, and test where a test is beside it. No invariants, and no judgement about whether the code should live.",
+    },
+    {
+      statement: "Every deploy extension file is claimed by the package it is under.",
+      workingMemory:
+        "Three files are exactly deploy/dockerfile-extensions.json, under calendar-sync, auth-proxy and backup-retention. One optional named-file property on workspace-package reaches all three, a sub-path being legal already for routes/_app-layout.tsx. The file is claimed only once the page states the property. Four siblings under infrastructure/dockerfiles/deploy carry a prefix each, so no one property reaches them and they went to the one-offs.",
+    },
+    {
+      statement: "Every file an app carries beside its routes is claimed by a page.",
+      workingMemory:
+        "Fourteen files: server.ts in all six web apps, public/sidebar-boot.js in four, a favicon, a placeholder, and temper-web's deploy/addon-bundle-image.ts. router-app already declares entry.server.tsx, root.tsx, routes.ts, vite.config.ts, react-router.config.ts and tunnel-routes.ts, so these are the same shape and the declaration only stopped short. Optional named files, stated on each app's own page.",
+    },
+    {
+      statement: "Every ast-unused workspace config is claimed by a page.",
+      workingMemory:
+        "Eight ast-unused.<workspace>.config.json sit beside workspace-ts-files.module.code.ts, one per workspace and one unprefixed. Eight named-file properties would be absurd, so Alan's call is a page type with a page for each. domain/audit-ast-unused is already in code-system as their home. Held while a delegate writes the module pages, both reaching checks/cluster-checks and its page type's parts.",
+    },
+    {
+      statement: "Every ast-grep rule is claimed by a page.",
+      workingMemory:
+        "sgconfig.yml and three rule files under checks/cluster-checks/pages/ast-grep. Alan's call is a page type with a page for each rule. Two modules read them already, ast-grep-configs and ast-grep-rules, so what a rule holds and what a config names are both written down. Held while a delegate writes the module pages, both reaching checks/cluster-checks and its page type's parts.",
+    },
+    {
+      statement: "Every file claimed by nothing else is claimed by a page.",
+      workingMemory:
+        "Thirteen files, each wanting its own decision rather than a rule, and Alan reviews them one at a time. Four prefixed dockerfile extensions in one folder under infrastructure/dockerfiles. Two health-samples jsonl, a ratchet and a config are named like property files whose property nothing declares. Then a territory map, an eso opt-in, a hard-cases markdown, and a canary under __fixtures__ that sits in a folder rather than beside its page.",
+    },
   ],
   constraints: [
     "Each check takes one turn per step, and no turn carries two steps.",
