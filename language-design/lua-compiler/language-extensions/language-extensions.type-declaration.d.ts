@@ -13,7 +13,7 @@ declare const $multi: (<T extends unknown[]>(...values: T) => LuaMultiReturn<T>)
   LuaExtension<"MultiFunction">
 
 declare type LuaMultiReturn<T extends unknown[]> = T & {
-  readonly __tstlMultiReturn: unknown
+  readonly __luaMultiReturn: unknown
 }
 
 declare const $range: ((start: number, limit: number, step?: number) => Iterable<number>) &
