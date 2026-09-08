@@ -39,11 +39,7 @@ test("the refusal names every tree this lands under", () => {
 })
 
 test("only the stray paths of a change are named", () => {
-  const said = strayAmong([
-    { path: AT, body: new Uint8Array() },
-    { path: ELSEWHERE, body: new Uint8Array() },
-  ])
-  expect(said).toEqual([outsideTracked(ELSEWHERE)])
+  expect(strayAmong([AT, ELSEWHERE])).toEqual([outsideTracked(ELSEWHERE)])
 })
 
 test("a call composing nothing lands nothing", async () => {

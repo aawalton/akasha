@@ -1,16 +1,17 @@
 import { afterAll, expect, test } from "bun:test"
-import { readFileSync, writeFileSync } from "node:fs"
+import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { said as git } from "@akasha/git/git-running"
 import {
+  askedFor,
   DAYS_AT,
   FOOD_ENTRIES_AT,
   outsideTracked,
 } from "../../../alan/tracking/tracking-landing/tracking-landing.module.code.ts"
 import { MECHANICAL } from "../../../command-system/asking/asking.module.code.ts"
 import type { Given } from "../../../command-system/calling/calling.module.code.ts"
-import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
-import { repoWith, scratch } from "../../../command-system/landing/landing.module.test-fixtures.ts"
+import { builtIn } from "../../../command-system/file-arguing/file-arguing.module.code.ts"
+import { scratch } from "../../../command-system/landing/landing.module.test-fixtures.ts"
+import { inputIn } from "../../../command-system/piping/piping.module.code.ts"
 import { NO_GLASS, strayIn, tracking } from "./tracking.command.code.ts"
 
 const ROOT = "/nowhere"
@@ -21,7 +22,7 @@ const ROWS_AT = `${DAYS_AT}2026-09-01/wake-day-2026-09-01.wake-day.sessions.json
 
 const FOOD_AT = `${FOOD_ENTRIES_AT}2026-08-22-banana/food-entry-2026-08-22-banana.food-entry.ts`
 
-const BEFORE = "the day before this call\n"
+const ADDS = "change-mechanical-file/add-file"
 
 const DAY = "the day this call composed\n"
 
@@ -87,10 +88,9 @@ test("a stray path is refused before anything is composed", async () => {
   expect(said.refusals).toEqual([outsideTracked("akasha/alan/alan.person.ts")])
 })
 
-test("a day and the rows beside it land in one commit under no agent id and no reading", async () => {
-  const root = repoWith({ [AT]: BEFORE })
-  const was = baseOf(root)
-  const said = await tracking(
+test("a day and the rows beside it are named as the change adding a file, with the message said", () => {
+  const root = scratch.rootFor("akasha-tracking-")
+  const built = builtIn(
     [
       "--file-path",
       AT,
@@ -103,20 +103,22 @@ test("a day and the rows beside it land in one commit under no agent id and no r
       "--message",
       "held",
     ],
-    servingIn(root)
+    servingIn(root),
+    inputIn
   )
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(readFileSync(join(root, AT), "utf8")).toBe(DAY)
-  expect(readFileSync(join(root, ROWS_AT), "utf8")).toBe(ROW)
-  expect(baseOf(root)).not.toBe(was)
-  expect(git(root, ["log", "-1", "--pretty=%s"]).trim()).toBe("held")
+  if ("code" in built) throw new Error(built.refusals.join("\n"))
+  expect(built.message).toBe("held")
+  expect(askedFor(built.changes)).toEqual({
+    asked: [
+      { at: ADDS, given: { at: AT, body: DAY } },
+      { at: ADDS, given: { at: ROWS_AT, body: ROW } },
+    ],
+  })
 })
 
-test("a food entry lands under no agent id and no reading", async () => {
-  const root = repoWith({ [AT]: BEFORE })
-  const was = baseOf(root)
-  const said = await tracking(
+test("a food entry is named as the change adding a file at its path", () => {
+  const root = scratch.rootFor("akasha-tracking-")
+  const built = builtIn(
     [
       "--file-path",
       FOOD_AT,
@@ -125,10 +127,12 @@ test("a food entry lands under no agent id and no reading", async () => {
       "--message",
       "ate",
     ],
-    servingIn(root)
+    servingIn(root),
+    inputIn
   )
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(readFileSync(join(root, FOOD_AT), "utf8")).toBe(BANANA)
-  expect(baseOf(root)).not.toBe(was)
+  if ("code" in built) throw new Error(built.refusals.join("\n"))
+  expect(built.message).toBe("ate")
+  expect(askedFor(built.changes)).toEqual({
+    asked: [{ at: ADDS, given: { at: FOOD_AT, body: BANANA } }],
+  })
 })

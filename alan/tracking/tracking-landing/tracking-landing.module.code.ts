@@ -1,13 +1,9 @@
-/**
- * The landing every tracking write goes through, reached by importing it.
- *
- * A caller here already holds the composed body as a value, so nothing writes that body to a scratch
- * file for a second process to read back in. The `tracking` command is the argv shell over this: it
- * reads what was said on a command line and hands the same changes here.
- */
-
-import { landedMechanically } from "@akasha/command-system/asking"
-import type { Answer } from "@akasha/command-system/calling"
+import type { Asking } from "@akasha/changes/mechanical-change-running"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
+import { notUtf8 } from "@akasha/checks/body-not-utf8"
+import { decodeUtf8 } from "@akasha/code/utf8-body"
+import { mistaking } from "@akasha/command-system/asking"
+import { type Answer, answering } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
 
 export const DAYS_AT = "alan/tracking/daily/wake-days/pages/"
@@ -16,9 +12,13 @@ export const FOOD_ENTRIES_AT = "alan/tracking/food-entries/pages/"
 
 export const TRACKED_AT: readonly string[] = [DAYS_AT, FOOD_ENTRIES_AT]
 
-const CALLED_AS = "akasha tracking"
+const PUT = "change-mechanical-file/add-file"
+
+const TAKE = "change-mechanical-file/remove-file"
 
 const NOTHING = "nothing was composed to land"
+
+const WRONG = 3
 
 export function trackedIn(path: string | null): boolean {
   return path !== null && TRACKED_AT.some((one) => path.startsWith(one))
@@ -29,31 +29,49 @@ export function outsideTracked(said: string): string {
   return `${said} is not under ${under}, and this lands what Alan's tracking composes and nothing else`
 }
 
-export function strayAmong(changes: readonly FileEdit[]): readonly string[] {
-  return changes.filter((one) => !trackedIn(one.path)).map((one) => outsideTracked(one.path))
+export function strayAmong(paths: readonly string[]): readonly string[] {
+  return paths.filter((one) => !trackedIn(one)).map((one) => outsideTracked(one))
 }
 
-/**
- * Every change landed as one commit, under no agent id and owing no reading.
- *
- * A path outside the tracked trees is refused before anything is written, so a program composing the
- * wrong path takes nothing else down with it.
- */
+export type TrackingChange = {
+  readonly path: string
+  readonly body: string | null
+}
+
+function changeAt(path: string, body: string | null): Asking {
+  if (body === null) return { at: TAKE, given: { at: path } }
+  return { at: PUT, given: { at: path, body } }
+}
+
+export type Asked = { readonly asked: readonly Asking[] } | { readonly wrong: readonly string[] }
+
+export function askedFor(changes: readonly FileEdit[]): Asked {
+  const asked: Asking[] = []
+  const wrong: string[] = []
+  for (const one of changes) {
+    if (one.body === null) {
+      asked.push(changeAt(one.path, null))
+      continue
+    }
+    const body = decodeUtf8(one.body)
+    if (body === null) wrong.push(notUtf8(one.path, one.body))
+    else asked.push(changeAt(one.path, body))
+  }
+  return wrong.length > 0 ? { wrong } : { asked }
+}
+
 export async function landingTracked(
   root: string,
   changes: readonly FileEdit[],
-  message: string,
-  calledAs: string = CALLED_AS
+  message: string
 ): Promise<Answer> {
-  const stray = strayAmong(changes)
-  if (stray.length > 0) return { report: [], refusals: stray, code: 1 }
-  return await landedMechanically(root, calledAs, changes, message)
-}
-
-/** A body to land at a path, or nothing to take that path away. */
-export type TrackingChange = {
-  readonly path: string
-  readonly body: string | Uint8Array | null
+  const stray = strayAmong(changes.map((one) => one.path))
+  if (stray.length > 0) return mistaking(stray)
+  const asked = askedFor(changes)
+  if ("wrong" in asked) return mistaking(asked.wrong)
+  const landed = await runMechanicalChange(root, asked.asked, message)
+  if ("refusals" in landed) return answering([], landed.refusals, WRONG)
+  return answering(landed.said, landed.wrong, landed.wrong.length === 0 ? 0 : WRONG)
 }
 
 export type TrackingAsked = {
@@ -66,22 +84,13 @@ export type TrackingLanded =
   | { readonly landed: true; readonly report: readonly string[] }
   | { readonly refused: string }
 
-function editsIn(changes: readonly TrackingChange[]): readonly FileEdit[] {
-  return changes.map((one) => ({
-    path: one.path,
-    body: typeof one.body === "string" ? new TextEncoder().encode(one.body) : one.body,
-  }))
-}
-
-/**
- * What a program composed, landed under the tracked trees.
- *
- * A refusal is carried back rather than thrown, because the funnel above this answers for a day it
- * could not write and a caller that throws is answering for nothing.
- */
 export async function landTracking(asked: TrackingAsked): Promise<TrackingLanded> {
   if (asked.changes.length === 0) return { refused: NOTHING }
-  const said = await landingTracked(asked.root, editsIn(asked.changes), asked.message)
-  if (said.code !== 0) return { refused: said.refusals.join("\n") }
-  return { landed: true, report: said.report }
+  const stray = strayAmong(asked.changes.map((one) => one.path))
+  if (stray.length > 0) return { refused: stray.join("\n") }
+  const named = asked.changes.map((one) => changeAt(one.path, one.body))
+  const landed = await runMechanicalChange(asked.root, named, asked.message)
+  if ("refusals" in landed) return { refused: landed.refusals.join("\n") }
+  if (landed.wrong.length > 0) return { refused: landed.wrong.join("\n") }
+  return { landed: true, report: landed.said }
 }

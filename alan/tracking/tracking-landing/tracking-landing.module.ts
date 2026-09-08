@@ -14,6 +14,10 @@ export const trackingLanding = {
     },
     {
       invariantKind: "departure",
+      statement: "A change stating no body takes its path away.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path outside the tracked trees is refused before anything is written.",
     },
     {

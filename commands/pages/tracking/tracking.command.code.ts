@@ -33,5 +33,5 @@ export async function tracking(argv: readonly string[], given: Given): Promise<A
   if (stray.length > 0) return mistaking(stray)
   const built = builtIn(argv, given, inputIn)
   if ("code" in built) return built
-  return await landingTracked(given.root, built.changes, built.message, given.calledAs)
+  return await landingTracked(given.root, built.changes, built.message)
 }
