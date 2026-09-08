@@ -18,6 +18,11 @@ export const monarchFiles = {
     {
       invariantKind: "departure",
       statement:
+        "The months are the index's answer for their page type rather than a folder listed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A month page sits in a folder of its own with its transactions entry file beside that page.",
     },
     {

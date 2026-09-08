@@ -1,5 +1,6 @@
 import { readdir, readFile } from "node:fs/promises"
 import { join } from "node:path"
+import { slugsOfType } from "@akasha/indexes"
 import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { type Value, valueAt } from "@akasha/pages/page-value"
 
@@ -120,11 +121,7 @@ export function sidecarOf(slug: string): string {
 }
 
 export async function monthSlugs(): Promise<readonly string[]> {
-  const entries = await readdir(join(AKASHA, MONTHS_FOLDER), { withFileTypes: true })
-  return entries
-    .filter((entry) => entry.isDirectory())
-    .map((entry) => entry.name)
-    .sort()
+  return slugsOfType(AKASHA, MONTH_TYPE)
 }
 
 async function linesOf(slug: string): Promise<readonly TransactionLine[]> {
