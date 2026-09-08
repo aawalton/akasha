@@ -279,6 +279,12 @@
         "zod": "^4.3.6",
       },
     },
+    "alan/harness/voice-core": {
+      "name": "@akasha/voice-core",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
+    },
     "alan/harness/web-build-version": {
       "name": "@akasha/web-build-version",
     },
@@ -2901,12 +2907,6 @@
     "verdict": {
       "name": "@akasha/verdict",
     },
-    "voice-core": {
-      "name": "@akasha/voice-core",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
     "web-page-answers": {
       "name": "@akasha/web-page-answers",
       "dependencies": {
@@ -3476,7 +3476,7 @@
 
     "@akasha/verdict": ["@akasha/verdict@workspace:verdict"],
 
-    "@akasha/voice-core": ["@akasha/voice-core@workspace:voice-core"],
+    "@akasha/voice-core": ["@akasha/voice-core@workspace:alan/harness/voice-core"],
 
     "@akasha/voice-inference": ["@akasha/voice-inference@workspace:inference/voice-inference"],
 
