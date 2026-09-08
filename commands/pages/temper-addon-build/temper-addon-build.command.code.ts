@@ -142,10 +142,10 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
   }
 
   const root = resolve(valuesOf(argv, "--code-root")[0] ?? codeRoot())
-  const tstl = resolve(valuesOf(argv, "--tstl-root")[0] ?? compilerRoot())
-  if (!existsSync(join(tstl, COMPILER_ENTRY))) {
+  const compiler = resolve(valuesOf(argv, "--compiler-root")[0] ?? compilerRoot())
+  if (!existsSync(join(compiler, COMPILER_ENTRY))) {
     return refused(
-      `${tstl} holds no ${COMPILER_ENTRY}, so nothing there is the compiler this builds with`,
+      `${compiler} holds no ${COMPILER_ENTRY}, so nothing there is the compiler this builds with`,
       DATA
     )
   }
@@ -207,7 +207,7 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
 
     if (watch) {
       try {
-        shown(compilerCommand(tstl, config, [WATCH]), { cwd: root })
+        shown(compilerCommand(compiler, config, [WATCH]), { cwd: root })
       } catch (thrown) {
         return refused(
           `the compiler left ${WATCH} over ${target.canonicalName}: ${messageOf(thrown)}`,
@@ -234,11 +234,18 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
       rmSync(stale, { recursive: true, force: true })
     }
 
-    const one = compiled(root, tstl, config, target.canonicalName, bundle, deadline - Date.now())
+    const one = compiled(
+      root,
+      compiler,
+      config,
+      target.canonicalName,
+      bundle,
+      deadline - Date.now()
+    )
     built.push(one)
     if (one.code !== 0) {
       return {
-        report: [...one.errors, ...reportOf(built, root, tstl)],
+        report: [...one.errors, ...reportOf(built, root, compiler)],
         refusals: [
           `${one.name} did not compile (exit ${String(one.code)}), so the addons after it were left unbuilt`,
         ],
@@ -247,7 +254,7 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
     }
     if (one.bytes === 0) {
       return {
-        report: reportOf(built, root, tstl),
+        report: reportOf(built, root, compiler),
         refusals: [
           `${one.name} compiled clean and left no ${bundle}, so a build reported here is a build over nothing`,
         ],
@@ -259,7 +266,7 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
       await copyAddonMetadata(root, target.dir, target.canonicalName)
     } catch (thrown) {
       return {
-        report: reportOf(built, root, tstl),
+        report: reportOf(built, root, compiler),
         refusals: [
           `${one.name} compiled, and what it ships beside its Lua did not copy: ${messageOf(thrown)}`,
         ],
@@ -268,5 +275,5 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
     }
   }
 
-  return { report: reportOf(built, root, tstl), refusals: [], code: 0 }
+  return { report: reportOf(built, root, compiler), refusals: [], code: 0 }
 }
