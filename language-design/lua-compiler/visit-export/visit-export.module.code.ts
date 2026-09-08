@@ -7,10 +7,10 @@ import {
   createDefaultExportStringLiteral,
 } from "../export-scope/export-scope.module.code.ts"
 import { createExportsIdentifier } from "../exports-identifier/exports-identifier.module.code.ts"
+import { createSafeName } from "../safe-names/safe-names.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
-import { createSafeName } from "../tstl-safe-names/tstl-safe-names.module.code.ts"
 import { assert } from "../tstl-utils/tstl-utils.module.code.ts"
 import { createModuleRequire } from "../visit-import/visit-import.module.code.ts"
 import { createShorthandIdentifier } from "../visit-literal/visit-literal.module.code.ts"

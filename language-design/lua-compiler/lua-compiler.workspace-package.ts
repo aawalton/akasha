@@ -79,7 +79,7 @@ export const luaCompiler = {
     "module/tstl-plugin-tstl-no-multi-store",
     "module/tstl-plugin-tstl-no-truthy-numbers",
     "module/preceding-statements",
-    "module/tstl-safe-names",
+    "module/safe-names",
     "module/tstl-scope",
     "module/scope-references",
     "module/tstl-symbols",

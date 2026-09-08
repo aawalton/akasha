@@ -1,4 +1,5 @@
 import { SourceNode } from "source-map"
+import { isValidLuaIdentifier } from "../safe-names/safe-names.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import {
@@ -18,7 +19,6 @@ import {
   rightAssociativeOperators,
   type SourceChunk,
 } from "../tstl-lua-printer-helpers/tstl-lua-printer-helpers.module.code.ts"
-import { isValidLuaIdentifier } from "../tstl-safe-names/tstl-safe-names.module.code.ts"
 
 export function printExpression(
   state: LuaPrinterState,
