@@ -173,6 +173,7 @@ export const clusterCheck = {
     "module/guarded-resolve-scope",
     "module/head-styles-violations",
     "module/health-samples-stream-violations",
+    "module/healthkit-read-only-violations",
   ],
   properties: [
     {
