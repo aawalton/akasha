@@ -66,7 +66,7 @@ test("a file an earlier answer took away is gone from the files a guard reads", 
   expect(guardedBy(worldIn(root), said, [importNotLeftHanging]).refused ?? "").toContain(NAMER_CODE)
 })
 
-test("two answers that will not gather refuse rather than being judged apart", () => {
+test("two answers adding to one path refuse rather than being judged apart", () => {
   const root = indexedRepo()
   const world = worldOver(worldIn(root), stating([{ kind: "add", path: AT, content: "one\n" }]))
 
@@ -75,7 +75,7 @@ test("two answers that will not gather refuse rather than being judged apart", (
   ])
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain("answered twice")
+  expect(said.refused ?? "").toContain("holds a body already")
 })
 
 import { addedTo, ledgerAt } from "../change-shadow/change-shadow.module.code.ts"
