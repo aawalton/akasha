@@ -3,7 +3,7 @@ import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { readingIn } from "@akasha/indexes"
 import type { Reading } from "@akasha/indexes/shape"
-import { indexTakenFrom, pathFiled, pathsTakenFrom } from "@akasha/indexes/testing"
+import { indexTakenFrom, listingFiled, pathFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { shadowAt } from "@akasha/pages/shadow"
 import {
@@ -296,20 +296,16 @@ test("an index standing nowhere cannot answer which files stand, so it refuses r
   expect(() => everyFileIn(readingIn(root))).toThrow("could not be answered")
 })
 
-test("a path directory gone from an index that stands is a true empty rather than a refusal", () => {
+test("an index that is there and names no path is a true empty rather than a refusal", () => {
   const root = worldOf([PAGE_AT])
-  pathsTakenFrom(root)
+  listingFiled(root, [])
   expect(everyFileIn(readingIn(root))).toEqual([])
 })
 
 const HANDED: Reading = {
   holds: (at) => at === "",
-  listing: (at) => {
-    if (at === "path") return [{ name: "akasha", directory: true }]
-    if (at === "path/akasha") return [{ name: "held.ts.jsonl", directory: false }]
-    return []
-  },
-  lines: () => [],
+  listing: () => [],
+  lines: () => ["akasha/held.ts"],
 }
 
 test("a reading handed in says which files stand, so a check may ask of the index it will leave", () => {
