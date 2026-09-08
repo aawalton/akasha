@@ -59,6 +59,18 @@ export const packageManifest = {
         "A specifier two manifests both name lands where the first of those manifests says.",
     },
     {
+      invariantKind: "departure",
+      statement: "The names a manifest depends on are answered apart from the ways in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every kind of dependency block a manifest holds is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A dependency block that is no object names nothing depended on.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the disk or the index.",
     },

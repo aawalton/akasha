@@ -33,6 +33,25 @@ export function calledIn(text: string | null): string | null {
   return typeof named === "string" ? named : null
 }
 
+export const DEPENDING = [
+  "dependencies",
+  "devDependencies",
+  "peerDependencies",
+  "optionalDependencies",
+]
+
+export function dependsIn(text: string): ReadonlySet<string> {
+  const found = new Set<string>()
+  const held = objectIn(text)
+  if (held === null) return found
+  for (const one of DEPENDING) {
+    const said = held[one]
+    if (said === null || typeof said !== "object" || Array.isArray(said)) continue
+    for (const name of Object.keys(said as Record<string, unknown>)) found.add(name)
+  }
+  return found
+}
+
 export function reachesIn(folder: string, text: string): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   const held = objectIn(text)

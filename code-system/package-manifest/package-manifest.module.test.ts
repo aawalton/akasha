@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { calledIn, reachesIn, reachingOver } from "./package-manifest.module.code.ts"
+import { calledIn, dependsIn, reachesIn, reachingOver } from "./package-manifest.module.code.ts"
 
 const FOLDER = "akasha/pages-system/indexes"
 
@@ -29,6 +29,33 @@ test("a manifest naming its package nothing is called nothing", () => {
 
 test("a body that is not there calls its package nothing", () => {
   expect(calledIn(null)).toBe(null)
+})
+
+test("the names a manifest depends on are answered apart from the ways in", () => {
+  const said = JSON.stringify({ name: "one", dependencies: { two: "1.0.0", three: "workspace:*" } })
+  expect([...dependsIn(said)]).toEqual(["two", "three"])
+})
+
+test("every kind of dependency block a manifest holds is read", () => {
+  const said = JSON.stringify({
+    dependencies: { one: "1" },
+    devDependencies: { two: "1" },
+    peerDependencies: { three: "1" },
+    optionalDependencies: { four: "1" },
+  })
+  expect([...dependsIn(said)]).toEqual(["one", "two", "three", "four"])
+})
+
+test("a dependency block that is no object names nothing depended on", () => {
+  expect([...dependsIn(JSON.stringify({ dependencies: "one" }))]).toEqual([])
+  expect([...dependsIn(JSON.stringify({ dependencies: ["one"] }))]).toEqual([])
+  expect([...dependsIn(JSON.stringify({ dependencies: null }))]).toEqual([])
+})
+
+test("a manifest holding no dependency block depends on nothing", () => {
+  expect([...dependsIn(MANIFEST)]).toEqual([])
+  expect([...dependsIn("{ this is not json\n")]).toEqual([])
+  expect([...dependsIn("null")]).toEqual([])
 })
 
 test("a key that is a lone dot names the package itself", () => {
