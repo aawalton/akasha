@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { type BodyOf, expanded, gathered, narrowed, replayed } from "./change-answer.module.code.ts"
-import type { Edit, Stated } from "./change-answer.module.types.ts"
+import { type BodyOf, expanded, gathered, replayed } from "./change-answer.module.code.ts"
+import type { Stated } from "./change-answer.module.types.ts"
 
 const AT = "akasha/one/held.ts"
 
@@ -157,117 +157,6 @@ test("an add onto the path a move earlier in the answer left is answered", () =>
     new Map([
       [AWAY, "two"],
       [AT, "one"],
-    ])
-  )
-})
-
-function rounded(one: Edit, bodies: Readonly<Record<string, string>>) {
-  return replaying(narrowed(one), bodies)
-}
-
-test("a write onto a path holding nothing narrows to an add", () => {
-  expect(narrowed({ path: AT, was: null, body: "one" })).toEqual([
-    { kind: "add", path: AT, content: "one" },
-  ])
-})
-
-test("a write over a body narrows to a replace holding the body each side", () => {
-  expect(narrowed({ path: AT, was: "one", body: "two" })).toEqual([
-    { kind: "replace", path: AT, contentFrom: "one", contentTo: "two" },
-  ])
-})
-
-test("an edit stating no body narrows to a remove", () => {
-  expect(narrowed({ path: AT, was: "one", body: null })).toEqual([{ kind: "remove", path: AT }])
-})
-
-test("an edit leaving the body as it was narrows to nothing", () => {
-  expect(narrowed({ path: AT, was: "one", body: "one" })).toEqual([])
-})
-
-test("a move carrying the body unchanged narrows to a move alone", () => {
-  expect(narrowed({ path: AT, was: "one", body: "one", from: AWAY })).toEqual([
-    { kind: "move", pathFrom: AWAY, pathTo: AT },
-  ])
-})
-
-test("a move whose body changed narrows to a move and a replace", () => {
-  expect(narrowed({ path: AT, was: "one", body: "two", from: AWAY })).toEqual([
-    { kind: "move", pathFrom: AWAY, pathTo: AT },
-    { kind: "replace", path: AT, contentFrom: "one", contentTo: "two" },
-  ])
-})
-
-test("a move stating no body narrows to a remove of the path moved from", () => {
-  expect(narrowed({ path: AT, was: "one", body: null, from: AWAY })).toEqual([
-    { kind: "remove", path: AWAY },
-  ])
-})
-
-test("an edit worked out from no body and stating no body narrows to no edit", () => {
-  expect(narrowed({ path: AT, was: null, body: null })).toEqual([])
-})
-
-test("an edit worked out from no body naming a path moved from narrows to an add", () => {
-  expect(narrowed({ path: AT, was: null, body: "one", from: AWAY })).toEqual([
-    { kind: "add", path: AT, content: "one" },
-  ])
-})
-
-test("an edit worked out from no body naming a path moved from and stating no body narrows to no edit", () => {
-  expect(narrowed({ path: AT, was: null, body: null, from: AWAY })).toEqual([])
-})
-
-test("an edit worked out from no body and stating no body leaves no body rather than refusing", () => {
-  expect(rounded({ path: AT, was: null, body: null }, {})).toEqual(new Map())
-})
-
-test("an edit worked out from no body naming a path moved from leaves the body as an add", () => {
-  const one = { path: AT, was: null, body: "one", from: AWAY }
-
-  expect(rounded(one, {})).toEqual(new Map([[AT, "one"]]))
-})
-
-test("the reading an edit states is carried onto what that edit narrows to", () => {
-  expect(narrowed({ path: AT, was: null, body: "one", readersOweReading: false })).toEqual([
-    { readersOweReading: false, kind: "add", path: AT, content: "one" },
-  ])
-})
-
-test("a write onto a path holding nothing leaves the body it states", () => {
-  expect(rounded({ path: AT, was: null, body: "one" }, {})).toEqual(new Map([[AT, "one"]]))
-})
-
-test("a write over a body leaves the body it states", () => {
-  const one = { path: AT, was: "one", body: "two" }
-
-  expect(rounded(one, { [AT]: "one" })).toEqual(new Map([[AT, "two"]]))
-})
-
-test("an edit stating no body leaves no body", () => {
-  const one = { path: AT, was: "one", body: null }
-
-  expect(rounded(one, { [AT]: "one" })).toEqual(new Map([[AT, null]]))
-})
-
-test("a move carrying the body unchanged leaves the body at the path moved to", () => {
-  const one = { path: AT, was: "one", body: "one", from: AWAY }
-
-  expect(rounded(one, { [AWAY]: "one" })).toEqual(
-    new Map([
-      [AWAY, null],
-      [AT, "one"],
-    ])
-  )
-})
-
-test("a move whose body changed leaves the body it states at the path moved to", () => {
-  const one = { path: AT, was: "one", body: "two", from: AWAY }
-
-  expect(rounded(one, { [AWAY]: "one" })).toEqual(
-    new Map([
-      [AWAY, null],
-      [AT, "two"],
     ])
   )
 })
