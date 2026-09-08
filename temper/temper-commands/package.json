@@ -9,6 +9,7 @@
     "./eso-base-game-globals": "./eso-base-game-globals/eso-base-game-globals.module.code.ts",
     "./eso-chatter-names": "./eso-chatter-names/eso-chatter-names.module.code.ts",
     "./eso-colon-methods": "./eso-colon-methods/eso-colon-methods.module.code.ts",
+    "./explain-replay-reading": "./explain-replay-reading/explain-replay-reading.module.code.ts",
     "./flag-fault-stage": "./flag-fault-stage/flag-fault-stage.module.code.ts",
     "./inventory-characters-reading": "./inventory-characters-reading/inventory-characters-reading.module.code.ts",
     "./inventory-config-reading": "./inventory-config-reading/inventory-config-reading.module.code.ts",
