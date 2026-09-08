@@ -12,7 +12,7 @@ export const talos = {
     "module/build-volumes",
     "module/emit-yaml",
     "module/factory",
-    "module/talos-kubectl",
+    "module/kubectl",
     "module/nodes",
     "module/nodes-main",
     "module/nodes-rehearsal",
