@@ -17,6 +17,7 @@ export const builtImage = {
   definition: "a container image a Dockerfile is written for",
   pluralSlug: "built-images",
   partSlugs: [
+    "built-image/auth-proxy",
     "file-property/image-extensions",
     "text-property/image-folder",
     "text-property/image-kind",
