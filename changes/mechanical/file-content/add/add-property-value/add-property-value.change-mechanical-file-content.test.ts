@@ -69,6 +69,17 @@ test("a property holding no value yet takes the first value", () => {
   expect(bodyOf(said, () => EMPTY)).toContain(`partSlugs: ["kept/one"],`)
 })
 
+test("a key the caller says carries one value gains that value alone", () => {
+  const said = addPropertyValue(worldOf(BODY), {
+    at: AT,
+    key: "manifest",
+    value: "json",
+    single: true,
+  })
+
+  expect(bodyOf(said, () => BODY)).toContain(`manifest: "json",`)
+})
+
 test("the body is answered under the path the body was worked out from", () => {
   const said = addPropertyValue(worldOf(BODY), { at: AT, key: "partSlugs", value: "kept/three" })
 

@@ -87,5 +87,14 @@ export const addPropertyValue = {
       invariantKind: "absence",
       statement: "Nothing here reads the index.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key the page gains carries one value where the caller says the property carries one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key the page gains is a list where the caller says nothing about the property.",
+    },
   ],
 } as const satisfies ChangeMechanicalFileContent

@@ -1,4 +1,5 @@
 import { reaches } from "@akasha/indexes/reaching"
+import { slugOf, textAt, type Value } from "@akasha/pages/page-value"
 import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -21,6 +22,15 @@ export type AddPropertyValueAsked = {
   readonly after?: string
 }
 
+function singleIn(world: World, value: Value, key: string): boolean {
+  const stated = textAt(value, "pageTypeSlug")
+  if (stated === null) return false
+  const carried = world.index.propertiesIfNamed(slugOf(stated))
+  if (carried === null) return false
+  const one = carried.find((each) => each.key === key)
+  return one !== undefined && !one.many
+}
+
 export async function addPropertyValue(
   world: World,
   given: AddPropertyValueAsked
@@ -34,7 +44,8 @@ export async function addPropertyValue(
       return refusing(`\`${given.key}\` names a relation, and ${reached.refused}`)
     }
   }
-  return (await reach(world, ADD_PROPERTY_VALUE, given)).said
+  const single = singleIn(world, read.value, given.key)
+  return (await reach(world, ADD_PROPERTY_VALUE, single ? { ...given, single } : given)).said
 }
 
 export type Asked = Readonly<Record<string, string>>

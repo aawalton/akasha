@@ -48,5 +48,13 @@ export const addPropertyValue = {
       invariantKind: "absence",
       statement: "Nothing here works out a body of its own.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Whether the property carries one value is read from the type the page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key the type names under no property is handed on as carrying many values.",
+    },
   ],
 } as const satisfies ChangeAgent

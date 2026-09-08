@@ -20,6 +20,7 @@ type Told = {
   readonly target: string | null
   readonly found: readonly { readonly path: string; readonly id: string }[]
   readonly page?: Value | null
+  readonly carried?: readonly { readonly key: string; readonly many: boolean }[]
 }
 
 function worldTold(told: Told): World {
@@ -38,6 +39,7 @@ function worldTold(told: Told): World {
     index: {
       knownIn: () => known,
       pageByPath: () => ("page" in told ? told.page : PAGE),
+      propertiesIfNamed: () => told.carried ?? [],
     } as never,
     textOf: () => null,
     bodyOf: () => null,
@@ -143,6 +145,29 @@ test("`after` is left out where no `after` is stated", async () => {
 
   expect(handed).toEqual(ASKED)
   expect("after" in (handed as object)).toBe(false)
+})
+
+test("a key the page type declares as carrying one value is handed on as single", async () => {
+  let handed: unknown = null
+  const world = worldTold({
+    slug: null,
+    target: null,
+    found: [],
+    carried: [{ key: "manifest", many: false }],
+  })
+
+  await runChange(
+    {
+      ...world,
+      reaching: (_world, _at, given) => {
+        handed = given
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    { at: AT, key: "manifest", value: "json" }
+  )
+
+  expect(handed).toEqual({ at: AT, key: "manifest", value: "json", single: true })
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {

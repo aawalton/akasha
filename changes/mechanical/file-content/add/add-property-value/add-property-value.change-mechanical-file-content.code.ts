@@ -19,6 +19,7 @@ export type AddPropertyValueAsked = {
   readonly key: string
   readonly value: string
   readonly after?: string
+  readonly single?: boolean
 }
 
 const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
@@ -42,7 +43,8 @@ export function addPropertyValue(world: World, given: AddPropertyValueAsked): Sa
     (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
   )
   if (one === undefined || !ts.isPropertyAssignment(one)) {
-    const put = `${given.key}: [${JSON.stringify(given.value)}]`
+    const said = JSON.stringify(given.value)
+    const put = given.single === true ? `${given.key}: ${said}` : `${given.key}: [${said}]`
     return stating(spliced(given.at, text, withProperty(text, source, owner, put, given.after)))
   }
   const holding = one.initializer
