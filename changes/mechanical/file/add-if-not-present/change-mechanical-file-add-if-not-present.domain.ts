@@ -6,4 +6,11 @@ export const changeMechanicalFileAddIfNotPresent = {
   slug: "change-mechanical-file-add-if-not-present",
   definition: "a mechanical change adding a file that is not there already",
   partSlugs: ["change-mechanical-file/add-if-not-present-file"],
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement:
+        "No rung here reads a path as a page, a body already at the path settling the answer.",
+    },
+  ],
 } as const satisfies Domain
