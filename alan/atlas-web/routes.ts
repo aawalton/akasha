@@ -16,7 +16,7 @@ export default [
   route("api/live-version", "routes/api.live-version.ts"),
   route("api/errors", "routes/api.errors.ts"),
   route("api/page-types", "routes/api.page-types.ts"),
-  route("api/pages/:pageTypeSlug", "routes/api.pages.$pageTypeSlug.ts"),
+  route("api/pages/:pageTypeSlug", "routes/atlas-api-pages/atlas-api-pages.route.code.ts"),
   route("api/page-write", "routes/api.page-write.ts"),
   route("api/nav-icon/:idSuffix", "routes/api.nav-icon.$idSuffix.ts"),
   route("basemap/na-eu.pmtiles", "routes/basemap.na-eu.pmtiles.ts"),

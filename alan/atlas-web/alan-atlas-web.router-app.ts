@@ -44,5 +44,6 @@ export const alanAtlasWeb = {
     "module/pins",
     "module/place-candidate",
     "module/request-log",
+    "route/atlas-api-pages",
   ],
 } as const satisfies RouterApp
