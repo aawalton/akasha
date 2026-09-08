@@ -20,6 +20,9 @@ const UNASKED: World = {
   textOf: () => {
     throw new Error(ASKED)
   },
+  base: () => {
+    throw new Error(ASKED)
+  },
   over: NOTHING_OVER,
 }
 
