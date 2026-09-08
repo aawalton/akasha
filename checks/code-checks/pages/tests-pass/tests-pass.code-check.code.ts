@@ -9,6 +9,7 @@ import {
   testsBesideOf,
 } from "@akasha/code/code-tests"
 import { SERVED, servingOf } from "@akasha/code/test-bodies"
+import type { Bodies } from "@akasha/code/test-overlay"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
 import { endingOf } from "@akasha/utils-run/running"
@@ -113,7 +114,7 @@ export function spelledIn(output: string, root: string): string {
   return output.replaceAll(`${SERVED}:${root}/`, "").replaceAll(`${root}/`, "")
 }
 
-export function bodiesOf(change: Change): Readonly<Record<string, Uint8Array | null>> {
+export function bodiesOf(change: Change): Bodies {
   const held: Record<string, Uint8Array | null> = {}
   for (const one of change.changed) held[one] = change.after(one)
   return held
