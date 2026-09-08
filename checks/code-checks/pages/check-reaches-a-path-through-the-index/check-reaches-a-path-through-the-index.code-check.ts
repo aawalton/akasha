@@ -7,7 +7,7 @@ export const checkReachesAPathThroughTheIndex = {
   definition: "the check refusing a check that spells a path the index answers for",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
