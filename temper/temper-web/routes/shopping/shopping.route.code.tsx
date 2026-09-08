@@ -4,20 +4,19 @@ import { getUser } from "@akasha/supabase-rr/auth-server"
 import { ShoppingPageContent } from "@akasha/temper-player-economics-ui/shopping-page-content"
 import { Suspense } from "react"
 import { data, useSearchParams } from "react-router"
-import { useShoppingMarks } from "../player-settings/player-settings.module.code.ts"
-import { tabDefaultFor } from "../tab-defaults/tab-defaults.module.code.ts"
-import type { Route } from "./+types/shopping"
+import { useShoppingMarks } from "../../player-settings/player-settings.module.code.ts"
+import { tabDefaultFor } from "../../tab-defaults/tab-defaults.module.code.ts"
 
 export function meta() {
   return [{ title: "Temper | Shopping" }]
 }
 
-export async function loader({ request }: Route.LoaderArgs) {
+export async function loader({ request }: { request: Request }) {
   const { user, headers } = await getUser(request)
   return data({ userId: user?.id ?? null }, { headers })
 }
 
-export default function ShoppingPage({ loaderData }: Route.ComponentProps) {
+export default function ShoppingPage({ loaderData }: { loaderData: { userId: string | null } }) {
   const [searchParams] = useSearchParams()
   const tab = searchParams.get("tab") ?? tabDefaultFor("/shopping") ?? "list"
   const { shoppingSettings, updateShoppingMarks } = useShoppingMarks()
