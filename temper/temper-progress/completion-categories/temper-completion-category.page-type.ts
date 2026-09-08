@@ -30,7 +30,7 @@ export const temperCompletionCategory = {
     },
     {
       invariantKind: "departure",
-      statement: "A node carries the tab of the root the node hangs beneath.",
+      statement: "A node has the tab of the root the node hangs beneath.",
     },
   ],
 } as const satisfies PageType

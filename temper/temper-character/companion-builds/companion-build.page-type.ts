@@ -49,7 +49,7 @@ export const companionBuild = {
 
     {
       invariantKind: "departure",
-      statement: "This page type is Temper's while its slug carries no temper- prefix.",
+      statement: "This page type is Temper's while its slug has no temper- prefix.",
     },
     {
       invariantKind: "departure",

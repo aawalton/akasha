@@ -27,7 +27,7 @@ export const temperCollectibleCategory = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A category stating no parent carries the category index the game gives.",
+      statement: "A category stating no parent has the category index the game gives.",
     },
     {
       invariantKind: "departure",

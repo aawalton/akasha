@@ -43,11 +43,11 @@ export const temperBuildVersion = {
     },
     {
       invariantKind: "departure",
-      statement: "Each version a build takes carries the next version number.",
+      statement: "Each version a build takes has the next version number.",
     },
     {
       invariantKind: "departure",
-      statement: "A version carrying no checkpoint name was taken as the build changed.",
+      statement: "A version with no checkpoint name was taken as the build changed.",
     },
     {
       invariantKind: "departure",

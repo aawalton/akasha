@@ -17,7 +17,7 @@ export const attributeIntelligence = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the points the intelligence attribute carries for today.",
+      statement: "The reading is the points the intelligence attribute has for today.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const attributeIntelligence = {
     },
     {
       invariantKind: "departure",
-      statement: "An attribute carrying no points today is no reading rather than a zero.",
+      statement: "An attribute with no points today is no reading rather than a zero.",
     },
     {
       invariantKind: "absence",

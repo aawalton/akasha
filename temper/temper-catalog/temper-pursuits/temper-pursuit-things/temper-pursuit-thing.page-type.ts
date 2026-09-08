@@ -20,7 +20,7 @@ export const temperPursuitThing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property more than one pursuit page type carries is declared here.",
+      statement: "A property more than one pursuit page type has is declared here.",
     },
   ],
 } as const satisfies PageType

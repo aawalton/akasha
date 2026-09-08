@@ -75,8 +75,7 @@ export const temperCatalogThing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A thing's effect is stated in one shape whatever kind of thing carries the effect.",
+      statement: "A thing's effect is stated in one shape whatever kind of thing has the effect.",
     },
   ],
 } as const satisfies PageType

@@ -31,7 +31,7 @@ export const temperAchievementCategory = {
     },
     {
       invariantKind: "departure",
-      statement: "A heading carries the achievements the game files directly under that heading.",
+      statement: "A heading has the achievements the game files directly under that heading.",
     },
     {
       invariantKind: "departure",

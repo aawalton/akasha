@@ -18,7 +18,7 @@ export const inboxesEmail = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the count the day's mail entry carries.",
+      statement: "The reading is the count the day's mail entry has.",
     },
     {
       invariantKind: "departure",

@@ -47,7 +47,7 @@ export const world = {
     },
     {
       invariantKind: "departure",
-      statement: "The words a world carries are the story's rather than akasha's own.",
+      statement: "The words a world has are the story's rather than akasha's own.",
     },
     {
       invariantKind: "gap",

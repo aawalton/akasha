@@ -67,7 +67,7 @@ export const temperProgressThing = {
     },
     {
       invariantKind: "departure",
-      statement: "A property more than one progress page type carries is declared here.",
+      statement: "A property more than one progress page type has is declared here.",
     },
   ],
 } as const satisfies PageType

@@ -39,7 +39,7 @@ export const temperInventoryChunk = {
     },
     {
       invariantKind: "departure",
-      statement: "The file a piece names carries that piece's whole byte count.",
+      statement: "The file a piece names has that piece's whole byte count.",
     },
     {
       invariantKind: "departure",

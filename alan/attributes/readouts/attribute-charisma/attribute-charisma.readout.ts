@@ -17,7 +17,7 @@ export const attributeCharisma = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the points the charisma attribute carries for today.",
+      statement: "The reading is the points the charisma attribute has for today.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const attributeCharisma = {
     },
     {
       invariantKind: "departure",
-      statement: "An attribute carrying no points today is no reading rather than a zero.",
+      statement: "An attribute with no points today is no reading rather than a zero.",
     },
     {
       invariantKind: "absence",
