@@ -17,5 +17,6 @@ export const changeAgentFileContent = {
     "change-agent/change-page-property-text",
     "change-agent/change-property-value-field",
     "change-agent/add-property-record",
+    "change-agent/remove-property-record",
   ],
 } as const satisfies Domain
