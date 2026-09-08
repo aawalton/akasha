@@ -16,23 +16,7 @@ export const olwenPersonaCleanup = {
     {
       statement: "No persona-system folder is left at the root of the repository.",
       workingMemory:
-        "Commit 113fba4023 carried the pages to `personas/` on 2026-09-06 and left 42 empty folders behind. Nothing remains to merge: `git ls-files persona-system` counts 0. `remove-folder` refuses the folder because it holds no file, and `clearedOff` sweeps only a folder the same landing emptied, so no act reaches it. Filed as the finding `remove-folder-refuses-the-empty-folder-a-move-leaves`. Waiting on Alan for the route.",
-    },
-    {
-      statement: "The personas-core package is merged into the personas package.",
-      workingMemory:
-        "21 modules, 68 files, 21 exported subpaths, one with a consumer outside: `alan/web` imports `@akasha/personas-core/wallpaper-order`. A workstation service runs a module by repo path, and `alan-harness.domain.ts` names the package as a part. `move-folder` carries a folder and repoints paths, but leaves both manifests and both package pages alone, and refuses a module imported by package alias until that import is repointed.",
-    },
-    {
-      statement: "The personas/ folder passes the folder-matches-a-shape check.",
-      workingMemory:
-        "Clean as of 2026-09-08, judged by `akasha audit --check folder-matches-a-shape --file-path personas`, whose one refusal is the repository root rather than anything under `personas/`. To be judged again once the two merges land, since each carries folders in.",
-    },
-    {
-      statement:
-        "Each persona's folder sits under personas/pages/ rather than under personas/ itself.",
-      workingMemory:
-        "42 persona folders sit directly under `personas/`, while every other page type here holds its pages under `pages/`: `questions/pages/<slug>/`, `review-sessions/pages/<slug>/`. The part slugs on `persona.workspace-package.ts` name slugs rather than paths, so they do not move. `folder-matches-a-shape` passes both layouts, so the check will not drive this and will not confirm it either.",
+        "Commit 113fba4023 carried the pages to `personas/` on 2026-09-06 and left 42 empty folders; nothing remains to merge, and `git ls-files persona-system` counts 0. Alan settled that `remove-folder` is the route, and that this is a change though git tracks nothing, as an uncommitted file property is. Only per-edit fields survive the kept-edits jsonl, so the folder rides a fifth edit kind or a flag on `remove`. Filed as `remove-folder-refuses-the-empty-folder-a-move-leaves`.",
     },
   ],
 } as const satisfies Initiative
