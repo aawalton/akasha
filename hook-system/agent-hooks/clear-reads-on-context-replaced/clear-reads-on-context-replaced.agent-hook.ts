@@ -11,7 +11,7 @@ export const clearReadsOnContextReplaced = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A context replaced holds no page read into that context.",
+      statement: "A context replaced has no page read into that context.",
     },
     {
       invariantKind: "departure",
@@ -84,7 +84,7 @@ export const clearReadsOnContextReplaced = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing is written down in a tree holding no record folder.",
+      statement: "Nothing is written down in a tree with no record folder.",
     },
     {
       invariantKind: "departure",

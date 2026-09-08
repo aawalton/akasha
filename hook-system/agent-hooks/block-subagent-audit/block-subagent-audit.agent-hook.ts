@@ -14,7 +14,7 @@ export const blockSubagentAudit = {
     {
       invariantKind: "departure",
       statement:
-        "An audit is refused for the memory a run holds rather than for the changes a run writes.",
+        "An audit is refused for the memory a run has rather than for the changes a run writes.",
     },
     {
       invariantKind: "departure",

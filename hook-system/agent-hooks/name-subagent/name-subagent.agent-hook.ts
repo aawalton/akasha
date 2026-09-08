@@ -26,7 +26,7 @@ export const nameSubagent = {
     {
       invariantKind: "departure",
       statement:
-        "A name holding a character no id is written in is left off rather than spelled into a command.",
+        "A name with a character no id is written in is left off rather than spelled into a command.",
     },
     {
       invariantKind: "departure",

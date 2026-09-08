@@ -5,7 +5,7 @@ export const gitMirrorRefsBehind = {
   pageTypeSlug: "alert",
   slug: "git-mirror-refs-behind",
   title: "Git mirror refs behind",
-  definition: "a repository's mirror is missing refs the bare repository holds",
+  definition: "a repository's mirror is missing refs the bare repository has",
   domain: "git-repos",
   summary: "git mirror for {{ $labels.repo }} is {{ $value }} ref(s) behind its bare repo",
   runbook: "txt",

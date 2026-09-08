@@ -5,7 +5,7 @@ export const beingKnown = {
   pageTypeSlug: "all-about-alan-topic",
   slug: "being-known",
   title: "Being Known",
-  definition: "what it takes for someone to hold an accurate model of me, and why so few can",
+  definition: "what it takes for someone to have an accurate model of me, and why so few can",
   parentSlugs: ["alan"],
   relatedSlugs: ["being-met", "being-alone-at-the-centre", "why-getting-close-hurts"],
   settled:

@@ -6,7 +6,7 @@ export const whetherAnyClosenessEscapesIt = {
   slug: "whether-any-closeness-escapes-it",
   title: "Whether Any Closeness Escapes It",
   definition:
-    "whether a relationship can hold the damage near zero, or every one only decays more slowly",
+    "whether a relationship can have the damage near zero, or every one only decays more slowly",
   parentSlugs: ["why-getting-close-hurts"],
   relatedSlugs: ["what-holds-my-marriage", "being-known"],
   settled:

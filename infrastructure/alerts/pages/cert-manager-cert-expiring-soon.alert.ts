@@ -5,6 +5,6 @@ export const certManagerCertExpiringSoon = {
   pageTypeSlug: "alert",
   slug: "cert-manager-cert-expiring-soon",
   title: "Cert manager cert expiring soon",
-  definition: "a certificate cert-manager holds is close to expiring",
+  definition: "a certificate cert-manager has is close to expiring",
   domain: "infrastructure",
 } as const satisfies Alert

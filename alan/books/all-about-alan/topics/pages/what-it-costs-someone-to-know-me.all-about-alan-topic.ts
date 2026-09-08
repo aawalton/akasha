@@ -5,7 +5,7 @@ export const whatItCostsSomeoneToKnowMe = {
   pageTypeSlug: "all-about-alan-topic",
   slug: "what-it-costs-someone-to-know-me",
   title: "What It Costs Someone To Know Me",
-  definition: "the work another person does to hold a current model of me",
+  definition: "the work another person does to have a current model of me",
   parentSlugs: ["being-known"],
   relatedSlugs: ["how-a-hard-talk-with-jen-gets-safer", "what-the-channel-has-to-carry"],
   settled:
