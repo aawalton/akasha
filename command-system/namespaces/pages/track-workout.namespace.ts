@@ -6,7 +6,6 @@ export const trackWorkout = {
   slug: "track-workout",
   definition: "a workout and the sets recorded under that workout",
   partSlugs: [
-    "command/track-workout-start",
     "command/track-workout-set",
     "command/track-workout-activity",
     "command/track-workout-finish",
