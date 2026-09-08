@@ -15,6 +15,7 @@ export const temperWeb = {
   viteConfig: "ts",
   server: "ts",
   addonBundleImage: "ts",
+  sidebarBoot: "js",
   partSlugs: [
     "manifest/temper-web-manifests",
     "stylesheet/temper-web-look",
