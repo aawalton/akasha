@@ -140,6 +140,7 @@ export const clusterCheck = {
     "module/check-phantom-deps-json-contract",
     "module/check-popover-viewport-safety",
     "module/check-population-read-swallow",
+    "module/check-sops-spawn-pipe",
   ],
   properties: [
     {
