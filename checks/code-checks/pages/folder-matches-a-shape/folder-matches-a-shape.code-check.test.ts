@@ -217,12 +217,30 @@ test("a folder answering to a changed page is judged though no path inside it ch
     holds
   )
   expect([...said].sort()).toEqual([
+    "",
     "akasha",
     "akasha/foo",
     "akasha/foo/foo-shapes",
     "akasha/foo/modules",
     "akasha/foo/modules/deep",
   ])
+})
+
+test("the workspace root is judged, and no folder answers to it", () => {
+  const holds = holding({})
+  const grouped = grouping({ "": ["one", "two"] })
+  const said = foldersJudgedBy(
+    change(["one/one.module.ts"], { "one/one.module.ts": "" }, {}),
+    NAMING_NONE,
+    grouped,
+    holds
+  )
+  expect([...said].sort()).toEqual(["", "one"])
+})
+
+test("a change carrying no path judges no folder at all", () => {
+  const said = foldersJudgedBy(change([], {}, {}), NAMING_NONE, grouping({}), holding({}))
+  expect([...said]).toEqual([])
 })
 
 test("the page a claimed file sits beside is the one the index names", () => {

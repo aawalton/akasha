@@ -103,6 +103,14 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
+      statement: "The workspace root is judged by every change carrying a path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No folder answers to the workspace root.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A shape reads the folders under a folder as well as the files sitting in the folder.",
     },

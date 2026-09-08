@@ -1,0 +1,33 @@
+import type { FolderShape } from "../folder-shape.page-type.ts"
+
+export const theWorkspaceRoot = {
+  id: "01a08261-3b06-764b-9a0d-e073c9504692",
+  pageTypeSlug: "folder-shape",
+  slug: "the-workspace-root",
+  definition: "the shape of the folder every other folder in the workspace sits under",
+  code: "ts",
+  test: "ts",
+  enabled: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The folder is the one every other folder in the workspace sits under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No folder inside the workspace takes this shape.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each pattern the root is allowed is added on its own.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "No file sitting in the root is allowed yet.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "No folder sitting in the root is allowed yet.",
+    },
+  ],
+} as const satisfies FolderShape

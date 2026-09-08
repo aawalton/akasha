@@ -57,6 +57,8 @@ const PART_SLUGS = "partSlugs"
 
 const PART_OF_SLUGS = "partOfSlugs"
 
+const ROOT = ""
+
 export function edgesOf(
   root: string,
   path: string,
@@ -238,6 +240,7 @@ export function foldersJudgedBy(
   for (const above of foldersAbove(change)) {
     for (const under of answeringTo(above, grouped, holds)) found.add(under)
   }
+  if (change.changed.length > 0) found.add(ROOT)
   return found
 }
 
