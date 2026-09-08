@@ -1,5 +1,4 @@
-import { landedMechanically } from "@akasha/command-system/asking"
-import type { FileEdit } from "@akasha/command-system/landing"
+import { type Asking, runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
@@ -17,7 +16,7 @@ const ROOT = akashaRoot()
 const STORY_PAGE_TYPE = "story-read"
 const CHAPTER_PAGE_TYPE = "story-chapter-read"
 const SOURCE = "royal-road"
-const CALLED_AS = "royal-road-sync"
+const PUT = "change-mechanical-file/add-file"
 const PROSE = "prose"
 const TXT = "txt"
 const WORDS = "words"
@@ -25,11 +24,9 @@ const PART_OF = "partOfSlugs"
 const REQUEST_DELAY_MS = 1500
 const POSITION_DIGITS = 4
 const BATCH_CEILING = 50
-const BYTES = new TextEncoder()
 
-// A title is shortened to whole words at fifty characters, and the whole slug to the hundred
-// `slug` states as its max: the longest story slug here is 56, leaving 38 for the title, and a
-// slug of 112 characters would be refused by `page-matches-its-type`.
+type Put = Extract<Asking, { at: typeof PUT }>
+
 const TITLE_CEILING = 50
 const SLUG_HOLDS = 100
 
@@ -138,8 +135,6 @@ export function storySlugsOf(held: unknown): readonly string[] {
   const out: string[] = []
   for (const one of held) {
     if (typeof one !== "string" || one === "") continue
-    // Both forms are in the store: 4,206 royal road chapters say `story-read/<slug>` and 12,623
-    // say `<slug>`. Reading only the qualified one would file every chapter of the rest again.
     out.push(one.startsWith(OPENS_WITH) ? one.slice(OPENS_WITH.length) : one)
   }
   return out
@@ -153,8 +148,6 @@ export interface Held {
 export function chapterIdIn(row: Row): string | null {
   const id = textIn(row, "externalId")
   if (id !== null) return id
-  // 602 chapters of one royal road story state no externalId. Their link carries the id royal
-  // road lists them under, so reading it there is what keeps them known by their id.
   const link = textIn(row, "externalLink")
   return link === null ? null : (CHAPTER_AT.exec(link)?.[1] ?? null)
 }
@@ -179,11 +172,8 @@ export function heldChapters(): Held {
   const slugs = new Set<string>()
   const idsByStory = new Map<string, Set<string>>()
   for (const row of asked.rows) {
-    // A name is taken by every chapter rather than by one story's: the chapters are filed flat.
     const slug = textIn(row, "slug")
     if (slug !== null) slugs.add(slug)
-    // The source a chapter says is not read here: 2,097 say none, and a chapter belongs to the
-    // story it is part of whatever it says. Reading it dropped all 2,097 out of this answer.
     const id = chapterIdIn(row)
     if (id === null) continue
     for (const story of storySlugsOf(row[PART_OF])) {
@@ -197,7 +187,7 @@ export function heldChapters(): Held {
 
 export interface Filed {
   readonly named: string
-  readonly changes: readonly FileEdit[]
+  readonly changes: readonly Put[]
 }
 
 export function filedChapter(
@@ -243,8 +233,8 @@ export function filedChapter(
   return {
     named,
     changes: [
-      { path: composed.put.path, body: BYTES.encode(composed.put.content) },
-      { path: beside, body: BYTES.encode(text) },
+      { at: PUT, given: { at: composed.put.path, body: composed.put.content } },
+      { at: PUT, given: { at: beside, body: text } },
     ],
   }
 }
@@ -278,7 +268,7 @@ export function restatedStory(story: Story, values: Value): Filed {
   }
   return {
     named,
-    changes: [{ path: composed.put.path, body: BYTES.encode(composed.put.content) }],
+    changes: [{ at: PUT, given: { at: composed.put.path, body: composed.put.content } }],
   }
 }
 
@@ -322,9 +312,6 @@ async function syncStory(
       const prose = parseChapterProse(await fetchHtml(royalRoadUrl(chapter.url)))
       await delay(REQUEST_DELAY_MS)
       if (!prose.ok) {
-        // The url and the reason, not the title alone: `no prose found` named neither which page
-        // it read nor which of the parser's two refusals it hit, so 61 failures a run for a
-        // fortnight said nothing anyone could act on.
         console.log(`    no prose: ${royalRoadUrl(chapter.url)} — ${prose.why}`)
         counts.failed += 1
         continue
@@ -342,8 +329,6 @@ async function syncStory(
   const wanted = restatementFor(story, fiction.meta.status, fiction.meta.tags)
   if (wanted === null) return
   if (story.worldSlug === null) {
-    // `worldSlug` is required on a story read and royal road answers with nothing that serves as
-    // one. Restating without it would refuse the batch and take every chapter in it down too.
     console.log(
       `    ${STORY_PAGE_TYPE}/${story.slug} not restated: it states no worldSlug and ${SOURCE} ` +
         `answers with none. Put a world on that page by hand before it restates.`
@@ -359,17 +344,16 @@ async function syncStory(
 export async function landInBatches(filing: readonly Filed[], counts: Counts): Promise<void> {
   for (let at = 0; at < filing.length; at += BATCH_CEILING) {
     const batch = filing.slice(at, at + BATCH_CEILING)
-    // A page and its prose go into one commit: the page alone states a file that is not there.
     const changes = batch.flatMap((one) => [...one.changes])
-    const answer = await landedMechanically(
+    const answer = await runMechanicalChange(
       ROOT,
-      CALLED_AS,
       changes,
       `royal road sync ${batch.length} page(s)`
     )
-    if (answer.code !== 0) {
+    const wrong = "refusals" in answer ? answer.refusals : answer.wrong
+    if (wrong.length > 0) {
       counts.refused += batch.length
-      console.log(`  refused ${batch.length} page(s): ${answer.refusals.join("; ")}`)
+      console.log(`  refused ${batch.length} page(s): ${wrong.join("; ")}`)
       continue
     }
     console.log(`  landed ${batch.length} page(s)`)
@@ -417,7 +401,8 @@ export async function main(argv: readonly string[]): Promise<number> {
     await landInBatches(filing, counts)
   } else {
     console.log(`${filing.length} page(s) composed and not landed; --commit lands them`)
-    for (const one of filing) for (const change of one.changes) console.log(`    ${change.path}`)
+    for (const one of filing)
+      for (const change of one.changes) console.log(`    ${change.given.at}`)
   }
 
   console.log(
@@ -425,10 +410,6 @@ export async function main(argv: readonly string[]): Promise<number> {
       `skipped ${counts.skipped} over budget, ${counts.failed} failed, ${counts.refused} refused, ` +
       `${counts.unworlded} unrestated for no world`
   )
-  // A RUN THAT FAILED ITEMS IS A FAILED RUN. This was `failed > 0 && composed === 0`, so a run
-  // reported red only when it managed nothing at all. Of the 259 completed runs between
-  // 2026-08-17 and 2026-09-02, 127 exited 0 while reporting 61 failed: one new chapter anywhere
-  // across 103 stories suppressed the signal on exactly the runs that had work to show.
   return counts.refused > 0 || counts.failed > 0 || counts.unworlded > 0 ? 1 : 0
 }
 

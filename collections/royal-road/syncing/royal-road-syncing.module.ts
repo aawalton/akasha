@@ -29,6 +29,11 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A chapter already filed is read whether that chapter names its story by page type or by slug alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A chapter royal road hides or keeps locked is left where that chapter is.",
     },
     {
@@ -56,6 +61,10 @@ export const royalRoadSyncing = {
       invariantKind: "departure",
       statement:
         "A name another chapter already holds takes the chapter's royal road id on the end.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chapter's name is unique across every chapter rather than within its story.",
     },
     {
       invariantKind: "departure",
@@ -91,6 +100,11 @@ export const royalRoadSyncing = {
     {
       invariantKind: "departure",
       statement: "A page lands with the files beside that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The change adding a file lands each page and each file beside it rather than an edit composed here.",
     },
     {
       invariantKind: "departure",
