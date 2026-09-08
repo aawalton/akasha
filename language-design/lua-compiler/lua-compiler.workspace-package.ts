@@ -94,6 +94,8 @@ export const luaCompiler = {
     "lualib/string-trim-end",
     "lualib/string-trim-start",
     "lualib/type-of",
+    "lualib/weak-map",
+    "lualib/weak-set",
     "module/builtin-array",
     "module/builtin-console",
     "module/builtin-function",
