@@ -264,15 +264,6 @@ export const wakeDay = {
       invariantKind: "departure",
       statement: "A day's strength volume is worked out from the sets naming that day.",
     },
-
-    {
-      invariantKind: "departure",
-      statement: "The wake day sits inside the ESO day.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The wake day says where inside the ESO day its boundary falls.",
-    },
     {
       invariantKind: "departure",
       statement: "A boundary is worked out from the sleep sessions when the boundary is read.",
@@ -287,7 +278,7 @@ export const wakeDay = {
     },
     {
       invariantKind: "departure",
-      statement: "A day whose waking cannot be found starts where its ESO day starts.",
+      statement: "A day whose waking cannot be found starts at six in the morning in New York.",
     },
   ],
 } as const satisfies PageType
