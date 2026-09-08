@@ -10,7 +10,7 @@ export const aineAuditChangeGuards = {
     {
       statement: "The mode a change runs in is factored out of the changes that carry one.",
       workingMemory:
-        "The three flags a run mode is made of, `runsChecks`, `readersOweReading` and `writerOwesReading`, are stated on every change page though `change-mechanical` narrows all three to false. A declaration default cannot carry them: `default-value` says a default does not make a required property optional, and nothing turns a default's text into a boolean. `page-matches-its-type` excuses a computed property, so reading the three off the change kind is the way out.\n",
+        "Five kinds cover every combination the change pages use: mechanical and none all false, checked is checks alone, restated adds the writer's reading, authored adds the readers' too. `command-system/calling` already reads a kind off a page's `changeKindSlug` and the three flags off that kind's page, so no computed property is owed. State `changeKindSlug` on every change page, repoint the readers onto that, then take the three flags off `change` and off every page.\n",
     },
   ],
   constraints: [
