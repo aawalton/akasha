@@ -58,9 +58,10 @@ function ranAs(
   verdict: Ran["verdict"],
   summary: Ran["summary"],
   output = "",
-  slow: Ran["slow"] = []
+  slow: Ran["slow"] = [],
+  cpuSeconds = 0
 ): Ran {
-  return { code: 1, signal: null, output, summary, verdict, cpuSeconds: 0, slow }
+  return { code: 1, signal: null, output, summary, verdict, cpuSeconds, slow }
 }
 
 test("a run over the ceiling is refused by naming each file over it", () => {
@@ -95,14 +96,24 @@ test("a measured file whose run failed is not read as a cost", () => {
   expect(said).toContain("did not come back clean")
 })
 
-test("a file over the ceiling is named without the seconds that file ran", () => {
+test("a file over the ceiling is named beside the seconds that file spent", () => {
   const said = reasonOf(
     ranAs("slow", { files: 1, failed: 0, passed: 9 }, "", [
-      { path: "akasha/one.module.test.ts", cpuSeconds: 4.8 },
+      { path: "akasha/one.module.test.ts", cpuSeconds: 5.83 },
     ]),
     ["akasha/one.module.test.ts"]
   )
-  expect(said).not.toContain("4.8")
+  expect(said).toContain("akasha/one.module.test.ts spent 5.8 processor seconds")
+  expect(said).toContain("a test file is given 5 processor seconds")
+})
+
+test("a run ended at the ceiling is not refused as the runner failing", () => {
+  const said = reasonOf(ranAs("slow", { files: null, failed: null, passed: null }, "", [], 5.24), [
+    "akasha/one.module.test.ts",
+  ])
+  expect(said).toContain("5.2 processor seconds")
+  expect(said).toContain("put none of them past the ceiling")
+  expect(said).not.toContain("the runner failing")
 })
 
 test("the tests named are the ones standing beside the files the change carries", () => {

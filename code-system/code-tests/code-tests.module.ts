@@ -86,6 +86,24 @@ export const codeTests = {
       statement: "A file spending its seconds in the commands it runs is bounded like any other.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A ceiling is judged against every process in the run rather than the ones the run reaped.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The seconds a bounded run answers are the seconds that ceiling was judged against.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A batch the kernel ended at its ceiling is slow rather than a crash.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A batch ended at its ceiling no file on its own reproduces is slow still.",
+    },
+    {
       invariantKind: "gap",
       statement: "A machine bounding no run judges a file by the seconds that run answers.",
     },

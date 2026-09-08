@@ -77,8 +77,17 @@ export const testsPass = {
       statement: "That refusal names each file over the ceiling.",
     },
     {
-      invariantKind: "absence",
-      statement: "No refusal says how long a file over the ceiling ran.",
+      invariantKind: "departure",
+      statement: "That refusal names the seconds each file over the ceiling spent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the ceiling those seconds are read against.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run ended at its ceiling with no file over on its own says so rather than blaming the runner.",
     },
     {
       invariantKind: "departure",

@@ -15,6 +15,10 @@ const PROCS = "cgroup.procs"
 
 const CPU = "cpu"
 
+const STAT = "cpu.stat"
+
+const USAGE = "usage_usec "
+
 const POLL = 50
 
 const SWEEPS = 20
@@ -65,8 +69,9 @@ export function watching(at: string, ceiling: number): string {
     `for (;;) {\n` +
     `  let spent = 0\n` +
     `  try {\n` +
-    `    for (const line of fs.readFileSync(at + "/cpu.stat", "utf8").split("\\n"))\n` +
-    `      if (line.startsWith("usage_usec ")) spent = Number(line.slice(11))\n` +
+    `    for (const line of fs.readFileSync(at + "/${STAT}", "utf8").split("\\n"))\n` +
+    `      if (line.startsWith(${JSON.stringify(USAGE)}))\n` +
+    `        spent = Number(line.slice(${String(USAGE.length)}))\n` +
     `  } catch { break }\n` +
     `  if (spent > ${cap}) {\n` +
     `    try { fs.writeFileSync(at + "/cgroup.kill", "1") } catch {}\n` +
@@ -79,6 +84,18 @@ export function watching(at: string, ceiling: number): string {
 
 function joined(at: string, argv: readonly string[]): readonly string[] {
   return ["sh", "-c", `echo $$ > ${join(at, PROCS)}; exec "$@"`, "sh", ...argv]
+}
+
+function spentAt(at: string): number | null {
+  let text = ""
+  try {
+    text = readFileSync(join(at, STAT), "utf8")
+  } catch {
+    return null
+  }
+  for (const line of text.split("\n"))
+    if (line.startsWith(USAGE)) return Number(line.slice(USAGE.length)) / MICROS
+  return null
 }
 
 function swept(at: string): undefined {
@@ -132,12 +149,13 @@ export function bytes(argv: readonly string[], asked: Asked = {}): Held {
       ...(asked.stdin === undefined ? {} : { stdin: asked.stdin }),
       ...(asked.timeout === undefined ? {} : { timeout: asked.timeout }),
     })
+    const group = at === null ? null : spentAt(at)
     return {
       code: done.exitCode ?? NO_CODE,
       signal: done.signalCode ?? null,
       out: new Uint8Array(done.stdout),
       err: done.stderr.toString(),
-      cpuSeconds: Number(done.resourceUsage?.cpuTime.total ?? 0n) / MICROS,
+      cpuSeconds: group ?? Number(done.resourceUsage?.cpuTime.total ?? 0n) / MICROS,
     }
   } finally {
     watch?.kill()

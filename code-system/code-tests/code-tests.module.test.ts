@@ -6,7 +6,9 @@ import {
   alreadyRunning,
   BATCH,
   batchedOf,
+  endedAt,
   groupedBy,
+  judgedAs,
   plain,
   preloadsIn,
   RUNNING,
@@ -213,6 +215,20 @@ check(
   },
   30000
 )
+
+check("a run the kernel ended at its ceiling is told from one ended by anything else", () => {
+  expect(endedAt("SIGKILL", 5.4, 5)).toBe(true)
+  expect(endedAt("SIGKILL", 4.2, 5)).toBe(false)
+  expect(endedAt("SIGSEGV", 0.3, 5)).toBe(false)
+  expect(endedAt(null, 9.9, 5)).toBe(false)
+})
+
+check("a run ended at its ceiling is slow rather than a crash", () => {
+  expect(judgedAs("crash", 0, true)).toBe("slow")
+  expect(judgedAs("crash", 0, false)).toBe("crash")
+  expect(judgedAs("pass", 1, false)).toBe("slow")
+  expect(judgedAs("pass", 0, false)).toBe("pass")
+})
 
 check("a file under the ceiling is not answered as over it", () => {
   const root = repo({ "one.test.ts": PASSES })

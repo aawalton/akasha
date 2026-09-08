@@ -62,7 +62,21 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "Those seconds carry what the process's own children spent.",
+      statement:
+        "A process given no ceiling is answered the seconds it and the children it reaped spent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A bounded process is answered the seconds its ceiling is judged against.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Those seconds carry every process in the group rather than the ones the run reaped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The group's seconds are read before the group is taken away.",
     },
     {
       invariantKind: "departure",

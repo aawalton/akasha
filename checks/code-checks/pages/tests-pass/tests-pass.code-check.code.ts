@@ -73,12 +73,20 @@ export function spentlyOf(spent: readonly Spent[]): string {
   )
 }
 
+const MEND = "The tests themselves are green. Make the file cheaper or divide it."
+
 export function slowlyOf(ran: Ran): string {
-  const held = ran.slow.map((one) => one.path).join("\n")
-  return (
-    `a test file is given ${String(CEILING)} processor seconds, and ${counted(ran.slow.length)} ` +
-    `went past that:\n${held}\n\nThe tests themselves are green. Make the file cheaper or divide it.`
-  )
+  const given = `a test file is given ${String(CEILING)} processor seconds`
+  if (ran.slow.length === 0)
+    return (
+      `${given}, and the run of the files this change names was ended for going past what ` +
+      `those files may spend together, at ${ran.cpuSeconds.toFixed(SHOWN)} processor seconds. ` +
+      `Running each of those files on its own put none of them past the ceiling.\n\n${MEND}`
+    )
+  const held = ran.slow
+    .map((one) => `${one.path} spent ${one.cpuSeconds.toFixed(SHOWN)} processor seconds`)
+    .join("\n")
+  return `${given}, and ${counted(ran.slow.length)} went past that:\n${held}\n\n${MEND}`
 }
 
 export function reasonOf(ran: Ran, named: readonly string[]): string {
