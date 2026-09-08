@@ -5,7 +5,6 @@ import { editsAt } from "@akasha/changes/edits-keeping"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { said as gitIn } from "@akasha/git/git-running"
 import { bodyOf, thePage } from "@akasha/indexes/indexing/testing"
-import { everythingFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
@@ -14,7 +13,7 @@ import { textProperty } from "@akasha/pages/text-property"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { said as saying } from "@akasha/utils-run/running"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import type { Drafted, FileCarry, FileEdit, Landed, Refused } from "./landing.module.code.ts"
+import type { Drafted, FileEdit, Landed, Refused } from "./landing.module.code.ts"
 import { baseOf, landing } from "./landing.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
@@ -111,17 +110,6 @@ export const besides = (...paths: readonly string[]): readonly string[] =>
 
 export const filesIn = (root: string): readonly string[] =>
   git(root, ["ls-files"]).trim().split("\n").sort()
-
-export function blockedCarries(root: string): readonly FileCarry[] {
-  writeFileSync(join(root, "one.uncommitted.ts"), "one")
-  writeFileSync(join(root, "two.uncommitted.ts"), "two")
-  mkdirSync(join(root, "deep/two.uncommitted.ts"), { recursive: true })
-  writeFileSync(join(root, "deep/two.uncommitted.ts/in-the-way.txt"), "in the way")
-  return [
-    { from: "one.uncommitted.ts", to: "deep/one.uncommitted.ts" },
-    { from: "two.uncommitted.ts", to: "deep/two.uncommitted.ts" },
-  ]
-}
 
 export function pageRepo(): string {
   return repoWith({ [PAGE]: A })
@@ -293,46 +281,6 @@ export function gitWatching(root: string): {
       held(change)
       throw new Error(THROWN)
     }),
-  }
-}
-
-export const MOVED_BIN = "akasha/one.bin"
-
-export const MOVED_TO = "akasha/deep/one.bin"
-
-export const PAGE_TO = "akasha/deep/a.domain.ts"
-
-export const MORE = `${A}// moved\n`
-
-export type Moved = {
-  readonly tree: readonly string[]
-  readonly dirty: string
-  readonly wrote: readonly string[]
-  readonly took: readonly string[]
-  readonly filed: readonly string[]
-  readonly bytes: Uint8Array | null
-  readonly body: string | null
-}
-
-export async function moved(from: string, to: string, body: string | null = null): Promise<Moved> {
-  const root = repoWith({ [MOVED_BIN]: BROKEN })
-  const first = await landing(root, CARRIED, "held", ADMITS)
-  if ("refusals" in first) throw new Error(first.refusals.join("; "))
-  const filed = await landing(root, [{ path: PAGE, body: bytesOf(A) }], "held", ADMITS)
-  if ("refusals" in filed) throw new Error(filed.refusals.join("; "))
-  const edits = body === null ? [] : [{ path: to, body: bytesOf(body) }]
-  const said = await landing(root, edits, "moved", ADMITS, null, null, [], [{ from, to }])
-  if ("refusals" in said) throw new Error(said.refusals.join("; "))
-  const at = join(root, to)
-  const there = existsSync(at)
-  return {
-    tree: git(root, ["ls-tree", "-r", "--name-only", "HEAD"]).trim().split("\n"),
-    dirty: git(root, ["status", "--porcelain"]),
-    wrote: said.wrote,
-    took: said.took,
-    filed: everythingFiled(root).filter((one) => one.includes("a.domain.ts")),
-    bytes: there ? new Uint8Array(readFileSync(at)) : null,
-    body: there ? readFileSync(at, "utf8") : null,
   }
 }
 

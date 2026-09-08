@@ -76,6 +76,7 @@ export const commandSystem = {
     "module/command-walking",
     "module/change-arguing",
     "module/change-preparing",
+    "module/path-carrying",
   ],
   invariants: [
     {

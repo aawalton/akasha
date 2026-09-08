@@ -12,13 +12,7 @@ import { unexportableIn } from "../export-naming/export-naming.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { passedOver, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
-import type {
-  Drafted,
-  FileCarry,
-  FileEdit,
-  Landed,
-  Refused,
-} from "../landing/landing.module.code.ts"
+import type { Drafted, FileEdit, Landed, Refused } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf, landing } from "../landing/landing.module.code.ts"
 import {
   asReadIn,
@@ -34,6 +28,7 @@ import {
   type Saying,
 } from "../landing-saying/landing-saying.module.code.ts"
 import { installingIn, sameBytes } from "../manifest-locking/manifest-locking.module.code.ts"
+import type { FileCarry } from "../path-carrying/path-carrying.module.code.ts"
 import { type Carry, type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 import type { Minted } from "../value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../value-minting/value-minting.module.code.ts"

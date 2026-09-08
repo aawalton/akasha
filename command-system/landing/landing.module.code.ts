@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, renameSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Stated } from "@akasha/changes/change-answer/types"
 import { appendEdits } from "@akasha/changes/edits-keeping"
@@ -17,6 +17,8 @@ import type { Keeping } from "../gate-building/gate-building.module.code.ts"
 import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
 import { absentAfter, orphaningIn, orphaningSaid } from "../orphaning/orphaning.module.code.ts"
+import type { FileCarry } from "../path-carrying/path-carrying.module.code.ts"
+import { carriedOnto, carriesHeld } from "../path-carrying/path-carrying.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
 
 export type FileEdit = {
@@ -24,11 +26,6 @@ export type FileEdit = {
   readonly body: Uint8Array | null
   readonly carried?: boolean
   readonly readersOweReading?: boolean
-}
-
-export type FileCarry = {
-  readonly from: string
-  readonly to: string
 }
 
 export type Proposed = {
@@ -168,23 +165,6 @@ function heldBack(
   }
 }
 
-function carriesHeld(
-  root: string,
-  base: string,
-  carries: readonly FileCarry[]
-): {
-  readonly committing: readonly FileCarry[]
-  readonly uncommitted: readonly FileCarry[]
-} {
-  const held = beforeOf(
-    root,
-    base,
-    carries.map((one) => one.from)
-  )
-  const on = (one: FileCarry): boolean => (held.get(one.from) ?? null) !== null
-  return { committing: carries.filter(on), uncommitted: carries.filter((one) => !on(one)) }
-}
-
 function beforeOf(
   root: string,
   base: string,
@@ -252,27 +232,6 @@ function alsoSaid(why: string, back: string | null, off: string | null): string 
   }
   if (off !== null) held.push(`what was staged is staged still: ${off}`)
   return held.join("; ")
-}
-
-function carriedOnto(root: string, carries: readonly FileCarry[]): () => undefined {
-  const gone: FileCarry[] = []
-  const back = (): undefined => {
-    for (const one of [...gone].reverse()) renameSync(join(root, one.to), join(root, one.from))
-  }
-  try {
-    for (const one of carries) {
-      const at = join(root, one.from)
-      if (!existsSync(at)) continue
-      const to = join(root, one.to)
-      mkdirSync(dirname(to), { recursive: true })
-      renameSync(at, to)
-      gone.push(one)
-    }
-  } catch (thrown) {
-    back()
-    throw thrown
-  }
-  return back
 }
 
 function indexed(
@@ -429,7 +388,14 @@ export async function landing(
     const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN)
     if (stale !== null) return { refusals: stale }
     const split = heldBack(root, changes)
-    const carrying = carriesHeld(root, base, carries)
+    const carrying = carriesHeld(
+      carries,
+      beforeOf(
+        root,
+        base,
+        carries.map((one) => one.from)
+      )
+    )
     const lands = new Set(carries.map((one) => one.to))
     const before = beforeOf(root, base, [
       ...split.committing.map((one) => one.path),
