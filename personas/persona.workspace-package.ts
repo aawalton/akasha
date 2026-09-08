@@ -75,5 +75,6 @@ export const persona = {
     "module/voice-spec",
     "module/wallpaper-backfill-execute",
     "module/canonical-image-classify",
+    "module/framework",
   ],
 } as const satisfies WorkspacePackage

@@ -5,6 +5,7 @@
   "exports": {
     "./email-address": "./properties/email-address.email-address-property.ts",
     "./image-locator": "./image-locator/image-locator.module.code.ts",
+    "./framework": "./framework/framework.module.code.ts",
     "./canonical-image-classify": "./canonical-image-classify/canonical-image-classify.module.code.ts",
     "./wallpaper-backfill-execute": "./wallpaper-backfill-execute/wallpaper-backfill-execute.module.code.ts",
     "./voice-spec": "./voice-spec/voice-spec.module.code.ts",

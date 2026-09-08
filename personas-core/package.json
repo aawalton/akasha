@@ -4,7 +4,6 @@
   "type": "module",
   "exports": {
     "./desktop-wallpaper-setting": "./desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts",
-    "./framework": "./framework/framework.module.code.ts",
     "./git-byte-pathspecs": "./git-byte-pathspecs/git-byte-pathspecs.module.code.ts",
     "./green-day-fraction": "./green-day-fraction/green-day-fraction.module.code.ts",
     "./last-messaged": "./last-messaged/last-messaged.module.code.ts",
