@@ -32,6 +32,11 @@ export const nimueCodeCleanup = {
       workingMemory:
         "`treeUnder` in `change-shadow` walks the raw filesystem, so moving `code-system` would carry `node_modules` and every `dist` into `code`. Reading the filesystem is right for the files git tracks and the files an uncommitted page property names; only the folders a build writes are wrong. `move-folder` carries a file the index does not name on purpose, so this leaves declared folders out rather than carrying claimed files alone. `move-folder-package` waits on this.",
     },
+    {
+      statement: "A change carrying a folder repoints a path spelled outside a TypeScript body.",
+      workingMemory:
+        "`change-imports` rewrites a repo-relative path spelled as a string literal, but only in a `.ts` or `.tsx` body, so the 43 `# shellcheck source=code-system/...` directives in the ios app scripts are left naming a folder that is gone. The move visits an outside file only where the import index names it, so a body spelling a moved path without importing it is never reached. `spellingOf` in `path-naming` already scans for those bodies and is called by nothing but its own test.",
+    },
   ],
   constraints: [
     "The change moving a package's folder is named `move-folder-package`, after the mode, the type and the subtype.",
