@@ -87,5 +87,9 @@ export const temperWatcher = {
       invariantKind: "constraint",
       statement: "The watcher runs on the workstation the game writes its files on.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The watcher reaches every page over pages-service rather than over the checkout.",
+    },
   ],
 } as const satisfies WorkspacePackage

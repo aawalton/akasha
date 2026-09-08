@@ -13,21 +13,6 @@ export const emberRepairTemperTasks = {
         "Met: temper-task narrowed on `account`; `userId` dropped from four temper page types; `display-order`; `name` on temper-sale; `capturedAt` across the watcher and the inventory UI; `target-build-id` raised to temper-character-thing; `due-time` and `pending-sync` declared on temper-task; `handle`, `platform` and `server` declared on temper-player. Open: ten browser reads filter on `userId`, which no temper page type declares, so the store refuses each.",
     },
     {
-      statement: "A task the web holds reaches the characters config the game reads.",
-      workingMemory:
-        "Met at 15:31:53Z: `characters synced, completion synced, tasks synced, charactersConfig synced`. TemperCharactersConfig.lua is 13,412 bytes over 386 lines and names 14 tasks. The dispatch runs characters, then completion, then tasks, then the config, and stops at the first failure, which is why one fault hid the next for so long.",
-    },
-    {
-      statement: "The completion the game reports reaches the file beside the account page.",
-      workingMemory:
-        "Met. upsertPage carries no file body either way, by design: a value under a file-property key names that file's ending, and getPage on `completion` answers the four characters `json`. import-completion takes each page path from readPages, swaps the trailing `.ts` for `.completion.json`, reads with readFiles and lands with writeFiles. Commits ac1e875a3f and 81523f727d carried 21 files, and the forward merge had something to merge against at last: 19 of 20 characters kept fields the save had lost.",
-    },
-    {
-      statement: "The watcher reaches every page over the service rather than over the checkout.",
-      workingMemory:
-        "Met on both roads. readFiles and writeFiles post to /read and /write. upsertPage and getPages read as a file road from their names alone, but pages-access/file-write imports the service's asking, reading and writing clients, so they take the same hop: a refusal at 15:21:53Z named four attempts on http://page-store.page-store.svc.cluster.local:8787/ask. What writesOverServer() picks is which client answers, not whether one is reached.",
-    },
-    {
       statement: "Reading one page costs bytes in proportion to that page.",
       workingMemory:
         "The narrow is pushed and honoured, and saves 656 bytes of 429,204,036, because 161 of the 162 snapshots are one account's. A projection saves the rest: the same ask carrying keys answers 22,528 bytes. The whole-population fetch is deliberate, since a cursor pages over one sorted snapshot, so leave that alone. The body parses at 2,388 MB resident and is killed outright under a 900M cap, so the field failure was allocation rather than syntax.",
@@ -36,11 +21,6 @@ export const emberRepairTemperTasks = {
       statement: "A refusal from the pages names the file that refusal is about.",
       workingMemory:
         "page-calling now names the status, the byte count and the parser's own message on a body it cannot read. landedIn now appends the paths a write carried. The file-property guard names the page type, the character count, the opening of the body and the 255-byte ceiling. The entry that could not be opened is still unnamed, because keepWhole sits in indexing.module.code.ts, which is 15,810 bytes against a 15,000 ceiling and carries comments the no-code-comments check refuses.",
-    },
-    {
-      statement: "The watcher proves who it is by its enrolment token alone.",
-      workingMemory:
-        "Met. The enrolment states accountPage 9ba554f7-cb18-48bb-a709-ec935a895ca7, the same string alan.person states as supabaseAuthUserId, so the swap is exact. The token is a static secret read from TEMPER_WATCHER_TOKEN and hashed to the tokenHash the enrolment page holds. Nothing mints one, nothing refreshes one, and the page type declares no expiry, so the check compares digests rather than a clock. A token matching nothing crash-loops the unit every five seconds.",
     },
     {
       statement: "The watcher updates itself to the source revision it is told to run.",
