@@ -283,7 +283,7 @@ export const wakeDay = {
     {
       invariantKind: "departure",
       statement:
-        "A day begins at the end of the first sleep block starting or running past six the evening before.",
+        "A day begins when the first sleep block starting or running past six the evening before began.",
     },
     {
       invariantKind: "departure",

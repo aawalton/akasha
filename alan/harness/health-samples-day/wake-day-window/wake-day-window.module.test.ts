@@ -113,21 +113,21 @@ const REST_ROWS = [
   },
 ]
 
-test("a day opens at the end of the first sleep after six the evening before", () => {
-  expect(wakeInstantFromBlocks(SLEPT_ROWS, SLEPT)?.toISOString()).toBe("2026-07-04T13:00:00.000Z")
+test("a day opens when the first sleep after six the evening before began", () => {
+  expect(wakeInstantFromBlocks(SLEPT_ROWS, SLEPT)?.toISOString()).toBe("2026-07-04T04:00:00.000Z")
 })
 
-test("a day opening before six in the morning is the day's own opening", () => {
-  expect(wakeInstantFromBlocks(EARLY_ROWS, SLEPT)?.toISOString()).toBe("2026-07-04T09:00:00.000Z")
+test("a sleep ending before six in the morning still opens the day", () => {
+  expect(wakeInstantFromBlocks(EARLY_ROWS, SLEPT)?.toISOString()).toBe("2026-07-04T03:00:00.000Z")
 })
 
 test("a sleep starting before six in the evening and running past it opens the day", () => {
-  expect(wakeInstantFromBlocks(EVENING_ROWS, SLEPT)?.toISOString()).toBe("2026-07-03T23:30:00.000Z")
+  expect(wakeInstantFromBlocks(EVENING_ROWS, SLEPT)?.toISOString()).toBe("2026-07-03T20:00:00.000Z")
 })
 
 test("a nap later in the day is not what the day opened at", () => {
   expect(wakeInstantFromBlocks([...EARLY_ROWS, NAP_ROW], SLEPT)?.toISOString()).toBe(
-    "2026-07-04T09:00:00.000Z"
+    "2026-07-04T03:00:00.000Z"
   )
 })
 
@@ -137,7 +137,7 @@ test("a stretch titled rest is no sleep", () => {
 
 test("a sleep starting after six in the evening opens the day after rather than that day", () => {
   expect(wakeInstantFromBlocks(LATE_ROWS, SLEPT)).toBe(null)
-  expect(wakeInstantFromBlocks(LATE_ROWS, NEXT)?.toISOString()).toBe("2026-07-05T07:00:00.000Z")
+  expect(wakeInstantFromBlocks(LATE_ROWS, NEXT)?.toISOString()).toBe("2026-07-04T23:00:00.000Z")
 })
 
 test("the stretches of time a day held are read off the file beside its page", () => {
@@ -150,8 +150,8 @@ test("the stretches of time a day held are read off the file beside its page", (
 test("a day whose sleep is recorded answers a window from one wake to the next", () => {
   const root = worldFiled("akasha-wake-window-")
   expect(wakeDayWindowIn(root, SLEPT)).toEqual({
-    from: "2026-07-04T13:00:00.000Z",
-    to: "2026-07-05T12:00:00.000Z",
+    from: "2026-07-04T04:00:00.000Z",
+    to: "2026-07-05T04:00:00.000Z",
   })
 })
 
@@ -172,7 +172,7 @@ test("a day with no sleep at all is spanned from six in the morning in New York"
   dayFiled(root, SLEPT, [SLEPT_ROWS[1]])
   expect(spannedWindowIn(root, SLEPT)).toEqual({
     from: "2026-07-04T10:00:00.000Z",
-    to: "2026-07-05T12:00:00.000Z",
+    to: "2026-07-05T04:00:00.000Z",
   })
 })
 

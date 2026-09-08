@@ -80,7 +80,7 @@ export function wakeInstantFromBlocks(
     if (span.endMs <= afterMs || span.startMs >= beforeMs) continue
     if (first === null || span.startMs < first.startMs) first = span
   }
-  return first === null ? null : new Date(first.endMs)
+  return first === null ? null : new Date(first.startMs)
 }
 
 export function sleepBlocksOn(root: string, dayStr: string): readonly SleepBlockInput[] | Refused {
