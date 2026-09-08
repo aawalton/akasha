@@ -220,6 +220,7 @@ export const clusterCheck = {
     "module/ts-population-read-swallow",
     "module/ts-sops-spawn-pipe",
     "module/ts-suspense-throw",
+    "module/ts-timezone-violations",
   ],
   properties: [
     {
