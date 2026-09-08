@@ -15,7 +15,7 @@ export const talos = {
     "module/talos-kubectl",
     "module/nodes",
     "module/nodes-main",
-    "module/talos-nodes-rehearsal",
+    "module/nodes-rehearsal",
     "module/paths",
     "module/talos-registry-ca",
     "module/talos-schema",
