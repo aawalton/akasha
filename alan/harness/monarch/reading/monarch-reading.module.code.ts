@@ -1,10 +1,10 @@
 import { saidBy } from "@akasha/command-system/fault-saying"
-import type { RingCounts } from "../../../../readouts/readout-body/readout-body.module.code.ts"
-import { keepReading } from "../../../../readouts/readout-reading/readout-reading.module.code.ts"
-import { fetchRingCountsFromMonarch } from "../../../../readouts/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
+import type { RingCounts } from "../../../../readouts/body/readout-body.module.code.ts"
+import { fetchRingCountsFromMonarch } from "../../../../readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
+import { keepReading } from "../../../../readouts/reading/readout-reading.module.code.ts"
 
 export const READOUT_PAGE =
-  "readouts/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
+  "readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
 
 export const COOKIE_NAME = "MONARCH_COOKIE"
 

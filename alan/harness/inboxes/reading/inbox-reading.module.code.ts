@@ -9,7 +9,7 @@ import { statedAt } from "@akasha/readout-system/readout-tier"
 import { wakeDayOf } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 
-const READOUTS = "readouts/readouts/pages"
+const READOUTS = "readouts/pages"
 
 export const EMAIL_PAGE = `${READOUTS}/inboxes-email/inboxes-email.readout.ts`
 

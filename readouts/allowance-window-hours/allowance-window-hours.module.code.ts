@@ -1,6 +1,6 @@
 import { asInstant } from "@akasha/utils-narrow/as-instant"
 import { asNumber } from "@akasha/utils-narrow/as-number"
-import type { Asking, Row } from "../readout-asking/readout-asking.module.code.ts"
+import type { Asking, Row } from "../asking/readout-asking.module.code.ts"
 
 const CLAUDE_ACCOUNT = "claude-account"
 

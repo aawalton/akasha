@@ -4,7 +4,7 @@ import { capacityHoursOf, capacityIn } from "@akasha/readout-system/upkeep-capac
 import { dayValuesByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 import { sessionsOfDay } from "../../../track/daily/day-stretches/day-stretches.module.code.ts"
 
-export const READOUT_PAGE = "readouts/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts"
+export const READOUT_PAGE = "readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts"
 
 const HEALTH_CAPACITY_HOURS = "health-capacity-hours"
 

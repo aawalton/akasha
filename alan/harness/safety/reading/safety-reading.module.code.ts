@@ -2,7 +2,7 @@ import { keepReading } from "@akasha/readout-system/readout-reading"
 import { levelIn } from "@akasha/readout-system/upkeep-safety"
 import { openSession } from "../../../track/daily/day-stretches/day-stretches.module.code.ts"
 
-export const READOUT_PAGE = "readouts/readouts/pages/upkeep-safety/upkeep-safety.readout.ts"
+export const READOUT_PAGE = "readouts/pages/upkeep-safety/upkeep-safety.readout.ts"
 
 export const NOTHING_TO_TAKE =
   "no open block carries a safety level, so there is no reading to take. A tile showing no signal " +

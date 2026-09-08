@@ -3,7 +3,7 @@ import { keepReading } from "@akasha/readout-system/readout-reading"
 import { surplusIn } from "@akasha/readout-system/upkeep-surplus"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 
-export const READOUT_PAGE = "readouts/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
+export const READOUT_PAGE = "readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
 
 export const NOTHING_TO_TAKE =
   "no tracking day carries a surplus, so there is no reading to take. A tile showing no signal is " +
