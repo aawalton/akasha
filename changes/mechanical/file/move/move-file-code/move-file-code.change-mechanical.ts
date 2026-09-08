@@ -11,7 +11,6 @@ export const moveFileCode = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   guardSlugs: ["change-guard/import-not-left-hanging"],
   invariants: [
     {

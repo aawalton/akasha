@@ -9,7 +9,6 @@ export const changePropertyRecordField = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: true,
   invariants: [
     {
       invariantKind: "departure",

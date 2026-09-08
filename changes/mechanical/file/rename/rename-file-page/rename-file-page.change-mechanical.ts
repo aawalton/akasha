@@ -12,7 +12,6 @@ export const renameFilePage = {
   test: "ts",
   testFixtures: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   guardSlugs: ["change-guard/claimed-file-not-left-behind"],
   invariants: [
     {

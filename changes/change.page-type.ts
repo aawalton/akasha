@@ -2,7 +2,6 @@ import type { Module } from "../code-system/modules/module.page-type.ts"
 import type { ChangeKindSlug } from "../commands/properties/change-kind-slug.relation-property.ts"
 import type { PageType } from "../pages/types/page-type.page-type.ts"
 import type { ReadersOweReading } from "./kinds/properties/readers-owe-reading.boolean-property.ts"
-import type { WriterOwesReading } from "./kinds/properties/writer-owes-reading.boolean-property.ts"
 import type { ChangeModeSlug } from "./properties/change-mode-slug.relation-property.ts"
 import type { ChangeTargetSubtypeSlug } from "./properties/change-target-subtype-slug.relation-property.ts"
 import type { ChangeTargetTypeSlug } from "./properties/change-target-type-slug.relation-property.ts"
@@ -13,7 +12,6 @@ export type Change = Module & {
   changeTargetTypeSlug?: ChangeTargetTypeSlug
   changeTargetSubtypeSlug?: ChangeTargetSubtypeSlug
   readersOweReading: ReadersOweReading
-  writerOwesReading: WriterOwesReading
 }
 
 export const change = {
@@ -63,7 +61,6 @@ export const change = {
       many: false,
     },
     { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
-    { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
   ],
   invariants: [
     {

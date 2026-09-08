@@ -11,7 +11,6 @@ export const addFilePage = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   guardSlugs: ["change-guard/relation-reaches-a-page", "change-guard/identity-not-already-held"],
   invariants: [
     {

@@ -11,7 +11,6 @@ export const moveFolder = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   guardSlugs: [
     "change-guard/import-not-left-hanging",
     "change-guard/claimed-file-not-left-behind",

@@ -11,7 +11,6 @@ export const addFilePageProperty = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   guardSlugs: ["change-guard/field-key-not-carried-twice"],
   invariants: [
     {

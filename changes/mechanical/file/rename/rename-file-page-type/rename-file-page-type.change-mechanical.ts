@@ -11,7 +11,6 @@ export const renameFilePageType = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   guardSlugs: ["change-guard/claimed-file-not-left-behind"],
   invariants: [
     {

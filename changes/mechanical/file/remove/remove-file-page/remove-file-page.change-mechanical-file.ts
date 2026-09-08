@@ -11,7 +11,6 @@ export const removeFilePage = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   guardSlugs: [
     "change-guard/relation-not-left-hanging",
     "change-guard/claimed-file-not-left-behind",

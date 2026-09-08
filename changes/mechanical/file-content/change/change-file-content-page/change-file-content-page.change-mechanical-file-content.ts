@@ -11,7 +11,6 @@ export const changeFileContentPage = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   guardSlugs: ["change-guard/identity-not-already-held", "change-guard/relation-reaches-a-page"],
   invariants: [
     {

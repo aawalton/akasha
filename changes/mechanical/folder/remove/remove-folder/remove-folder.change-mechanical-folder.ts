@@ -11,7 +11,6 @@ export const removeFolder = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   guardSlugs: ["change-guard/relation-not-left-hanging", "change-guard/import-not-left-hanging"],
   invariants: [
     {

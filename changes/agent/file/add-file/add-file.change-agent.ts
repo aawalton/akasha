@@ -9,7 +9,6 @@ export const addFile = {
   code: "ts",
   test: "ts",
   readersOweReading: true,
-  writerOwesReading: true,
   invariants: [
     {
       invariantKind: "departure",

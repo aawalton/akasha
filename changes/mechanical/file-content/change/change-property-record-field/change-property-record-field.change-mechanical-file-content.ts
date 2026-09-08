@@ -46,6 +46,5 @@ export const changePropertyRecordField = {
     },
   ],
   readersOweReading: false,
-  writerOwesReading: false,
   changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

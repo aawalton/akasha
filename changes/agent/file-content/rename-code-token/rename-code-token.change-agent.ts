@@ -9,6 +9,5 @@ export const renameCodeToken = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   changeKindSlug: "change-checked",
 } as const satisfies ChangeAgent

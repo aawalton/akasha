@@ -11,7 +11,6 @@ export const removeFilePageType = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   guardSlugs: ["change-guard/page-type-carries-no-pages"],
   invariants: [
     {

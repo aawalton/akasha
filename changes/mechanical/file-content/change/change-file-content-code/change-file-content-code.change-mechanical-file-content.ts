@@ -11,7 +11,6 @@ export const changeFileContentCode = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   guardSlugs: ["change-guard/import-reaches-a-file"],
   invariants: [
     {

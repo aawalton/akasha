@@ -11,7 +11,6 @@ export const changeProsePattern = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   invariants: [
     {
       invariantKind: "departure",

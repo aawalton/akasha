@@ -12,7 +12,6 @@ export const addFile = {
   test: "ts",
   testFixtures: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   invariants: [
     {
       invariantKind: "departure",

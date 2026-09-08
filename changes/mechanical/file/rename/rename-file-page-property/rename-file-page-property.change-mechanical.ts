@@ -11,7 +11,6 @@ export const renameFilePageProperty = {
   code: "ts",
   test: "ts",
   readersOweReading: false,
-  writerOwesReading: false,
   invariants: [
     {
       invariantKind: "departure",
