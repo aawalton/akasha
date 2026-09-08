@@ -16,12 +16,22 @@ export const monarchRuleDocuments = {
       statement: "The checkout is read directly rather than the pages system service asked.",
     },
     {
-      invariantKind: "departure",
-      statement: "A rule folder that is not there is refused.",
+      invariantKind: "constraint",
+      statement:
+        "The categorization ring runs under a workstation timer with no pages system service to ask.",
     },
     {
       invariantKind: "departure",
-      statement: "A rule folder that has emptied is refused.",
+      statement:
+        "The rules are the index's answer for their page type rather than a folder listed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule's body is what the index answers rather than the page file read again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule kind the index answers no page for is refused.",
     },
     {
       invariantKind: "departure",
@@ -29,12 +39,13 @@ export const monarchRuleDocuments = {
     },
     {
       invariantKind: "departure",
-      statement: "A page whose body will not load is refused rather than passed over.",
+      statement:
+        "A code rule decides a category and an agent rule puts the transaction in front of a reader.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A code rule decides a category and an agent rule puts the transaction in front of a reader.",
+        "A code rule naming no category catches the transaction and leaves it to a person.",
     },
     {
       invariantKind: "departure",

@@ -1,17 +1,10 @@
-import { readdir } from "node:fs/promises"
-import { join } from "node:path"
-import { type Value, valueAt } from "@akasha/pages/page-value"
+import { valuesByPath } from "@akasha/indexes"
+import type { Value } from "@akasha/pages/page-value"
 import { AKASHA } from "../files/monarch-files.module.code.ts"
 import { ruleFromMatches, statedMatches } from "../rule-clauses/monarch-rule-clauses.module.code.ts"
 import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"
 import type { Match, Outcome, Rule } from "../rules/monarch-rules.module.code.ts"
 
-/**
- * The rules are TypeScript pages inside akasha, one file to a rule, since the markdown rule
- * set was migrated away. This reads the checkout directly rather than asking the pages system
- * service for them: the categorization ring runs under a workstation timer, where there is no
- * service, so a rule that could only be read over HTTP could not be read at all.
- */
 const RULES = "alan/harness/monarch/category-rules"
 
 interface Kind {
@@ -58,25 +51,16 @@ interface RulePage {
   readonly value: Value
 }
 
-async function namesIn(one: Kind): Promise<readonly string[]> {
-  let entries: readonly string[]
-  try {
-    entries = await readdir(join(AKASHA, one.folder))
-  } catch (why) {
+function pagesIn(one: Kind): ReadonlyMap<string, Value> {
+  const found = valuesByPath(AKASHA, one.type)
+  if (found.size === 0) {
     throw new Error(
-      `no folder exists at ${one.folder}, so this reader cannot say whether the ${one.kind} ` +
-        "rules are gone or merely moved. Answering with no rules would categorize nothing and " +
-        `report nothing wrong. (${why instanceof Error ? why.message : String(why)})`
+      `the index answers with no \`${one.type}\` page, so this reader cannot say whether the ` +
+        `${one.kind} rules are gone or merely moved. A rule kind that has emptied is a migration ` +
+        "half-done rather than a rule set meant to be empty, so nothing is read from here."
     )
   }
-  const names = entries.filter((name) => name.endsWith(`.${one.type}.ts`)).sort()
-  if (names.length === 0) {
-    throw new Error(
-      `${one.folder} holds no \`.${one.type}.ts\` page. A rule folder that has emptied is a ` +
-        "migration half-done rather than a project with no rules, so nothing is read from here."
-    )
-  }
-  return names
+  return found
 }
 
 function textOf(page: RulePage, name: string): string | null {
@@ -93,16 +77,11 @@ function countOf(page: RulePage, name: string): number | null {
   return held
 }
 
-async function rulePages(): Promise<readonly RulePage[]> {
+function rulePages(): readonly RulePage[] {
   const found: RulePage[] = []
   const held = new Map<string, string>()
   for (const one of KINDS) {
-    for (const name of await namesIn(one)) {
-      const path = `${one.folder}/${name}`
-      const value = valueAt(path, AKASHA)
-      if (value === null) {
-        throw new Error(`${path}: this page's body will not load, so what it states is unknown`)
-      }
+    for (const [path, value] of pagesIn(one)) {
       const slug = value["slug"]
       if (typeof slug !== "string" || slug.trim() === "") {
         throw new Error(`${path}: no \`slug\`, so nothing names this rule`)
@@ -120,10 +99,6 @@ async function rulePages(): Promise<readonly RulePage[]> {
   return found
 }
 
-/**
- * What a rule decides. A page naming a category decides that category; a page naming none catches
- * the transaction and leaves it to a person, which is the page type's own departure.
- */
 function outcomeOf(page: RulePage, categories: ReadonlyMap<string, string>): Outcome {
   const slug = textOf(page, "categorySlug")
   if (slug === null) return { kind: "reserve" }
@@ -142,7 +117,7 @@ export async function loadCategoryRules(): Promise<RuleSet> {
   const rules: Rule[] = []
   const agentRules: AgentRule[] = []
 
-  for (const page of await rulePages()) {
+  for (const page of rulePages()) {
     const matches = statedMatches(page.path, page.value["matches"])
     if (page.kind === "agent") {
       const judgement = textOf(page, "judgement")
