@@ -12,4 +12,11 @@ export const supabaseRealtime = {
   replicas: 1,
   containerPort: 4000,
   manifestSlug: "supabase-realtime",
+  secretSlugs: [
+    "secret/realtime-secrets-database-url",
+    "secret/realtime-secrets-db-enc-key",
+    "secret/realtime-secrets-api-jwt-secret",
+    "secret/realtime-secrets-secret-key-base",
+    "secret/realtime-secrets-metrics-jwt-secret",
+  ],
 } as const satisfies ClusterService

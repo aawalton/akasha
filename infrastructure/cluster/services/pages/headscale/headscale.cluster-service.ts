@@ -13,4 +13,8 @@ export const headscale = {
   replicas: 1,
   containerPort: 8443,
   manifestSlug: "headscale",
+  secretSlugs: [
+    "secret/headscale-secrets-noise-private-key",
+    "secret/headscale-secrets-oidc-client-secret",
+  ],
 } as const satisfies ClusterService
