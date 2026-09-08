@@ -1,4 +1,4 @@
-import * as path from "path"
+import * as path from "node:path"
 import * as ts from "typescript"
 import {
   createVisitorMap,
@@ -14,10 +14,7 @@ import {
   type ReachabilityResult,
 } from "../transpile-reachability/transpile-reachability.module.code.ts"
 import { getTransformers } from "../transpile-transformers/transpile-transformers.module.code.ts"
-import {
-  type CompilerOptions,
-  validateOptions,
-} from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
+import { validateOptions } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import { createPrinter } from "../tstl-lua-printer/tstl-lua-printer.module.code.ts"
 import * as performance from "../tstl-measure-performance/tstl-measure-performance.module.code.ts"
 import { isNonNull } from "../tstl-utils/tstl-utils.module.code.ts"

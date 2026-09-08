@@ -1,7 +1,5 @@
-import "../tstl-lua-printer/tstl-lua-printer.module.code.ts"
-import "../transpile-transpiler/transpile-transpiler.module.code.ts"
+import * as path from "node:path"
 import { requireFirst } from "@akasha/utils-narrow/require-first"
-import * as path from "path"
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
