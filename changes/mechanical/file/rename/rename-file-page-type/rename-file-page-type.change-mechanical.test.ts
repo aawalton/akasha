@@ -13,6 +13,7 @@ import { runChange as changePageProperty } from "../../../file-content/change/ch
 import { runChange as changeImports } from "../../../file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../../../file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { runChange as renamePageAddress } from "../../../file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
+import { runChange as renamePageAddresses } from "../../../file-content/rename/rename-page-addresses/rename-page-addresses.change-mechanical-file-content.code.ts"
 import { runChange as renamePageSlug } from "../../../file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
 import { runChange as moveFile } from "../../move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as moveFileCode } from "../../move/move-file-code/move-file-code.change-mechanical.code.ts"
@@ -65,6 +66,8 @@ const ONE_CODE_BODY = `import { one } from "./one.kept.ts"
 export const held = one.slug
 `
 
+const RESTATES = "change-mechanical-file-content/rename-page-addresses"
+
 const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical/rename-file-page") {
     return await renameFilePage(world, given as Parameters<typeof renameFilePage>[1])
@@ -77,6 +80,9 @@ const RUNS: Reaching = async (world, at, given) => {
   }
   if (at === "change-mechanical-file-content/rename-page-address") {
     return await renamePageAddress(world, given as Parameters<typeof renamePageAddress>[1])
+  }
+  if (at === RESTATES) {
+    return await renamePageAddresses(world, given as Parameters<typeof renamePageAddresses>[1])
   }
   if (at === "change-mechanical-file-content/rename-page-slug") {
     return await renamePageSlug(world, given as Parameters<typeof renamePageSlug>[1])
@@ -114,8 +120,19 @@ function repoIn(): string {
   })
 }
 
-function worldIn(root: string): World {
-  return worldAt(root, textIn(root), RUNS)
+function worldIn(root: string, reaching: Reaching = RUNS): World {
+  return worldAt(root, textIn(root), reaching)
+}
+
+function counting(): { readonly runs: Reaching; readonly called: () => number } {
+  let called = 0
+  return {
+    runs: async (world, at, given) => {
+      if (at === RESTATES) called += 1
+      return await RUNS(world, at, given)
+    },
+    called: () => called,
+  }
 }
 
 test("a path naming no page type is refused", async () => {
@@ -208,4 +225,35 @@ test("a page type whose folder already names its new plural keeps that folder", 
   expect(said.refused).toBe(null)
   expect(paths).toContain(OWNED_LANDS)
   expect(paths).toContain(OWNED_PAGE_LANDS)
+})
+
+const BARE_TYPE = "akasha/bare.page-type.ts"
+
+const BARE_BODY = `export type Bare = { readonly id: string }
+
+${pageOf({
+  id: idOf("c"),
+  pageTypeSlug: "page-type",
+  slug: "bare",
+  pluralSlug: "bares",
+  extendsSlug: ["page-type/page"],
+})}`
+
+const BARE_ASKED = { at: BARE_TYPE, to: CARRIED, plural: "carrieds" }
+
+test("every page's address is restated over one reading of the bodies", async () => {
+  const counted = counting()
+  const said = await runChange(worldIn(repoIn(), counted.runs), ASKED)
+
+  expect(said.refused).toBe(null)
+  expect(counted.called()).toBe(1)
+})
+
+test("a page type carrying no page has no address restated", async () => {
+  const counted = counting()
+  const root = indexedRepo({ [BARE_TYPE]: BARE_BODY })
+  const said = await runChange(worldIn(root, counted.runs), BARE_ASKED)
+
+  expect(said.refused).toBe(null)
+  expect(counted.called()).toBe(0)
 })

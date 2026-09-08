@@ -37,7 +37,15 @@ export const renameFilePageType = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's address is restated before any file that page claims is carried.",
+      statement: "Every page's address is restated over one reading of the bodies.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That restating comes before any file a page claims is carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type carrying no page has no address restated.",
     },
     {
       invariantKind: "departure",

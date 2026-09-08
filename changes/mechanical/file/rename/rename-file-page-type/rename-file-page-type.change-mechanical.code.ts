@@ -11,7 +11,7 @@ import { claimedIn } from "../../../../modules/page-claiming/page-claiming.modul
 
 const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
 
-const RENAME_PAGE_ADDRESS = "change-mechanical-file-content/rename-page-address"
+const RENAME_PAGE_ADDRESSES = "change-mechanical-file-content/rename-page-addresses"
 
 const CHANGE_FILE_CONTENT = "change-mechanical-file-content/change-file-content"
 
@@ -88,6 +88,22 @@ async function heldOver(
   return { answers: [...answers, carried.said], world: carried.world }
 }
 
+function addressesIn(filed: readonly Filed[], was: string, now: string): Record<string, string> {
+  const moved: Record<string, string> = {}
+  for (const one of filed) moved[`${was}/${one.slug}`] = `${now}/${one.slug}`
+  return moved
+}
+
+async function carriedOver(held: Carried, moved: ReadonlyMap<string, string>): Promise<Carried> {
+  let carried = held
+  for (const [from, to] of moved) {
+    if ("refused" in carried) return carried
+    const named = CODE.has(extname(from)) ? MOVE_FILE_CODE : MOVE_FILE
+    carried = await heldOver(carried.world, carried.answers, named, { from, to })
+  }
+  return carried
+}
+
 async function pageAnew(
   world: World,
   answers: readonly Answer[],
@@ -99,16 +115,8 @@ async function pageAnew(
   if (typeof moved === "string") return { refused: moved }
   const lands = moved.get(one.at)
   if (lands === undefined) return { refused: `\`${one.at}\` names no file the page type carries` }
-  let held = await heldOver(world, answers, RENAME_PAGE_ADDRESS, {
-    was: `${was}/${one.slug}`,
-    now: `${now}/${one.slug}`,
-  })
+  const held = await carriedOver({ answers, world }, moved)
   if ("refused" in held) return held
-  for (const [from, to] of moved) {
-    const named = CODE.has(extname(from)) ? MOVE_FILE_CODE : MOVE_FILE
-    held = await heldOver(held.world, held.answers, named, { from, to })
-    if ("refused" in held) return held
-  }
   return await heldOver(held.world, held.answers, CHANGE_FILE_CONTENT, {
     at: lands,
     old: `${PAGE_TYPE_SLUG}: "${was}"`,
@@ -132,6 +140,14 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (typed.said.refused !== null) return typed.said
   let answers: readonly Answer[] = [typed.said]
   let seen = typed.world
+  if (read.filed.length > 0) {
+    const restated = await heldOver(seen, answers, RENAME_PAGE_ADDRESSES, {
+      moved: addressesIn(read.filed, was, given.to),
+    })
+    if ("refused" in restated) return refusing(restated.refused)
+    answers = restated.answers
+    seen = restated.world
+  }
   for (const one of read.filed) {
     const carried = await pageAnew(seen, answers, one, was, given.to)
     if ("refused" in carried) return refusing(carried.refused)
