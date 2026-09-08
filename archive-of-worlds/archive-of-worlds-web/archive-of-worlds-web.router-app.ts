@@ -13,6 +13,8 @@ export const archiveOfWorldsWeb = {
   routerConfig: "ts",
   compileConfig: "json",
   viteConfig: "ts",
+  server: "ts",
+  sidebarBoot: "js",
   partSlugs: [
     "manifest/archive-of-worlds-web-manifests",
     "stylesheet/archive-of-worlds-web-look",
