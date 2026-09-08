@@ -41,5 +41,6 @@ export const utilsNarrow = {
     "module/sorted-once",
     "module/string-at",
     "module/text-at",
+    "module/is-whitespace",
   ],
 } as const satisfies WorkspacePackage
