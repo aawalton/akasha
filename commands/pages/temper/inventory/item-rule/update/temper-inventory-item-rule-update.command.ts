@@ -1,18 +1,14 @@
-import type { Command } from "../../../commands/command.page-type.ts"
+import type { Command } from "../../../../../command.page-type.ts"
 
-export const temperInventoryItemRuleCreate = {
-  id: "01a0603c-c1d2-7d8e-8802-6f8e11eb0f2f",
+export const temperInventoryItemRuleUpdate = {
+  id: "01a0603c-c1d4-7ad6-becc-0e7bd28a0a09",
   pageTypeSlug: "command",
-  slug: "temper-inventory-item-rule-create",
-  definition: "the command adding a per-item rule",
+  slug: "temper-inventory-item-rule-update",
+  definition: "the command changing the fields of a per-item rule named by its id",
   code: "ts",
   changeKindSlug: "change-none",
   taking: [
-    { said: "--item-id <n>", takes: "the game item id the rule matches on" },
-    {
-      said: "--item-name <s>",
-      takes: "the item's display name, where the id remains what it matches on",
-    },
+    { said: "<id>", takes: "the id of the per-item rule changed" },
     { said: "--action <name>", takes: "what is done with the item when the rule fires" },
     { said: "--destination <d>", takes: "where the item goes, for the actions that move it" },
     { said: "--title <s>", takes: "a title the web shows" },
@@ -20,23 +16,16 @@ export const temperInventoryItemRuleCreate = {
     { said: "--goal <s>", takes: "a goal label the web shows" },
     { said: "--active <true|false>", takes: "whether the rule is active" },
     { said: "--stock-quantity <n>", takes: "how many the destination is stocked up to" },
-    {
-      said: "--stock-scope <scope>",
-      takes: "whether stocking counts one character or every character",
-    },
+    { said: "--force", takes: "change it even where it is locked" },
   ],
   helpNotes: [
-    "a new per-item rule is inactive until it is activated.",
+    "a locked per-item rule is refused rather than changed, unless `--force` is said.",
     "a title, a note and a goal are held for the web alone and never reach the addon.",
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A new per-item rule is inactive.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing the web alone shows reaches the addon.",
+      statement: "An id no per-item rule carries refuses the call.",
     },
   ],
 } as const satisfies Command

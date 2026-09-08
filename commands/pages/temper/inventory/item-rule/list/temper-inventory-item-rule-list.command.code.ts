@@ -8,11 +8,11 @@ import {
   shapeOf,
   toldOf,
   toldRows,
-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "../../../../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   ITEM_RULE_COLUMNS,
   itemRuleRow,
-} from "../inventory-rule-rows/inventory-rule-rows.module.code.ts"
+} from "../../../../../../temper/temper-commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-item-rule-list"
 
