@@ -14,7 +14,11 @@ export const moveFolder = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every file under the folder is carried.",
+      statement: "Every file under the folder is carried whether or not the index names it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that is not text is carried rather than refused.",
     },
     {
       invariantKind: "departure",

@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { indexedRepo, pageOf, put, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
@@ -59,6 +61,12 @@ const HELD: Readonly<Record<string, string>> = {
 const UNDER: readonly string[] = Object.keys(HELD)
   .filter((one) => one.startsWith(`${FROM}/`))
   .sort()
+
+const UNNAMED = `${FROM}/deep/notes.txt`
+
+const NOT_TEXT = `${FROM}/deep/held.png`
+
+const PNG = new Uint8Array([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a])
 
 const MOVE_FILE = "change-mechanical-file/move-file"
 
@@ -124,6 +132,24 @@ test("a body outside the folder naming a path that moved is repointed", async ()
   expect(bodiesIn(said, world.base).get(OUTER_CODE) ?? "").toContain(
     "../six/deep/gamma.module.code.ts"
   )
+})
+
+test("a file the index names nowhere is carried with the rest", async () => {
+  const root = indexedRepo(HELD)
+  put(root, UNNAMED, "one\ntwo\n")
+  const said = await moveFolder(worldIn(root), { at: FROM, to: INTO })
+
+  expect(said.refused).toBeNull()
+  expect(pathsIn(said)).toContain(`${INTO}/deep/notes.txt`)
+})
+
+test("a body that is not text is carried rather than refused", async () => {
+  const root = indexedRepo(HELD)
+  writeFileSync(join(root, NOT_TEXT), PNG)
+  const said = await moveFolder(worldIn(root), { at: FROM, to: INTO })
+
+  expect(said.refused).toBeNull()
+  expect(pathsIn(said)).toContain(`${INTO}/deep/held.png`)
 })
 
 test("a folder already holding a body at a path the move would write is refused", async () => {

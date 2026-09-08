@@ -26,20 +26,15 @@ export type MoveFolderAsked = {
 type Moved = { readonly moved: ReadonlyMap<string, string> } | { readonly refused: string }
 
 function underneath(world: World, at: string): readonly string[] {
-  const found: string[] = []
-  for (const path of world.index.everyPath()) {
-    const held = relative(at, path)
-    if (held === "" || held.startsWith(OUTSIDE)) continue
-    found.push(path)
-  }
-  return found.sort()
+  return [...world.under(at)].sort()
 }
 
 function movedInto(world: World, at: string, to: string, under: readonly string[]): Moved {
+  const held = new Set(world.under(to))
   const said = new Map<string, string>()
   for (const one of under) {
     const next = join(to, relative(at, one))
-    if (world.textOf(next) !== null) return { refused: `\`${next}\` is a body already` }
+    if (held.has(next)) return { refused: `\`${next}\` is a body already` }
     said.set(one, next)
   }
   return { moved: said }
@@ -61,7 +56,6 @@ export async function moveFolder(world: World, given: MoveFolderAsked): Promise<
   const edits: Stated[] = []
   let seen = world
   for (const [one, next] of moved) {
-    if (seen.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
     const carrying = await reach(seen, MOVE_FILE, { from: one, to: next })
     if (carrying.said.refused !== null) return carrying.said
     edits.push(...carrying.said.edits)
