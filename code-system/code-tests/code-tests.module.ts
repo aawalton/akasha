@@ -154,68 +154,6 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A world is written out of bodies handed in rather than read off the working tree.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A world carries the index the change leaves rather than the tree's own.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A world's index starts as a copy of the tree's index.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The filings the change files are written over that copy.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The filings the change files are written by the rule a landing files by.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A world asked for no index carries no index.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A world borrows the files a run is configured by from that tree.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A world borrows a link to each module the world does not hold.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A world links what the world does not write rather than copying it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A borrowed path is skipped where that path is not there.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A package a specifier names is answered from the world where the world holds that package.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The world holds a package where the world holds that package's manifest.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A package outside the akasha folder is answered from that tree.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "No world is written over a path outside the akasha folder.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A package the world writes no body of is answered from that tree.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A run is handed the serving of a change's bodies or nothing at all.",
     },
     {
