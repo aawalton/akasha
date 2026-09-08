@@ -43,6 +43,11 @@ test("an apply carrying a flag is refused", () => {
   expect(refusalIn("akasha apply --message x")).toContain(NAMES)
 })
 
+test("an apply asking for help is let through", () => {
+  expect(refusalIn("akasha apply --help")).toBe(null)
+  expect(refusalIn("akasha apply -h")).toBe(null)
+})
+
 test("a body piped into an apply is refused", () => {
   expect(refusalIn("printf 'message: x' | akasha apply")).toContain(NAMES)
 })

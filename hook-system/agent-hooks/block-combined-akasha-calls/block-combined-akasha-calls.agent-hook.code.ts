@@ -16,7 +16,9 @@ const READ = new RegExp("^akasha read( --full| --file-path " + WORD + ")*$")
 
 const CHANGE = new RegExp("^akasha change( " + WORD + "){0,2}( <<'" + FENCE + "')?$")
 
-const APPLY = new RegExp("^akasha apply( <<'" + FENCE + "')?$")
+const HELPS = "(?: (?:--help|-h))?"
+
+const APPLY = new RegExp("^akasha apply" + HELPS + "( <<'" + FENCE + "')?$")
 
 const REFUSED = [
   "`akasha read`, `akasha change` and `akasha apply` run alone on the line.",

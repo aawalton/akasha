@@ -318,6 +318,16 @@ test("a command answers for help out of the surface its own page states", async 
   expect(said.report).toContain("it repeats.")
 })
 
+test("a command stating help notes and no taking is answered for from its page", async () => {
+  const root = rootWith([
+    { slug: "held", body: ANSWERS, definition: "what held is for", notes: ["it is piped in."] },
+  ])
+  const said = await calling(["held", HELP], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("akasha held — what held is for")
+  expect(said.report).toContain("it is piped in.")
+})
+
 test("a command stating no surface is handed the flag to answer for itself", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   const said = await calling(["held", HELP], { ...OUTSIDE, root })

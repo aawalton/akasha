@@ -47,6 +47,7 @@ export type Named = {
   readonly also?: string
   readonly definition?: string
   readonly surface?: Surface
+  readonly notes?: readonly string[]
 }
 
 export function rootWith(named: readonly Named[], typeSlug: string = COMMAND): string {
@@ -61,9 +62,10 @@ export function rootWith(named: readonly Named[], typeSlug: string = COMMAND): s
     mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
     const stated =
       one.definition === undefined ? "" : `, definition: ${JSON.stringify(one.definition)}`
+    const noted = one.notes === undefined ? "" : `, helpNotes: ${JSON.stringify(one.notes)}`
     const shown =
       one.surface === undefined
-        ? ""
+        ? noted
         : `, taking: ${JSON.stringify(one.surface.taking)}, helpNotes: ${JSON.stringify(one.surface.helpNotes)}`
     writeFileSync(
       join(root, at),

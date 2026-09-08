@@ -56,7 +56,7 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "An approved apply carries no word of its own.",
+      statement: "An approved apply carries no word of its own but the help flag.",
     },
     {
       invariantKind: "departure",
