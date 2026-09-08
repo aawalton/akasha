@@ -5,7 +5,7 @@ export const enyaChristmasSecrets = {
   pageTypeSlug: "release",
   slug: "enya-christmas-secrets",
   title: "Christmas Secrets",
-  partOfSlugs: ["enya"],
+  partOfCollectionSlugs: ["enya"],
   position: 0,
   ownLength: 46.42545,
   ownProgress: 46.42545,

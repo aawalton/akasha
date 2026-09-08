@@ -5,7 +5,7 @@ export const greenDayCorpusChristi = {
   pageTypeSlug: "release",
   slug: "green-day-corpus-christi",
   title: "Corpus Christi",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 3.40195,
   ownProgress: 0,

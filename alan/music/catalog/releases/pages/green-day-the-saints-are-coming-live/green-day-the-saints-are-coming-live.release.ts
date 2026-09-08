@@ -5,7 +5,7 @@ export const greenDayTheSaintsAreComingLive = {
   pageTypeSlug: "release",
   slug: "green-day-the-saints-are-coming-live",
   title: "The Saints Are Coming (Live)",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 3.45755,
   ownProgress: 3.45755,

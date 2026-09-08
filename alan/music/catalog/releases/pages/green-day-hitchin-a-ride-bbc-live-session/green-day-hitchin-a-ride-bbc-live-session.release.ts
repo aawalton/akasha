@@ -5,7 +5,7 @@ export const greenDayHitchinARideBbcLiveSession = {
   pageTypeSlug: "release",
   slug: "green-day-hitchin-a-ride-bbc-live-session",
   title: "Hitchin' a Ride (BBC Live Session)",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 2.847033,
   ownProgress: 0,

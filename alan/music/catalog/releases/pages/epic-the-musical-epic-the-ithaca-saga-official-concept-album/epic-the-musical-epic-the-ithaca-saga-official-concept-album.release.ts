@@ -5,7 +5,7 @@ export const epicTheMusicalEpicTheIthacaSagaOfficialConceptAlbum = {
   pageTypeSlug: "release",
   slug: "epic-the-musical-epic-the-ithaca-saga-official-concept-album",
   title: "EPIC: The Ithaca Saga (Official Concept Album)",
-  partOfSlugs: ["epic-the-musical"],
+  partOfCollectionSlugs: ["epic-the-musical"],
   position: 0,
   ownLength: 22.588667,
   ownProgress: 22.588667,

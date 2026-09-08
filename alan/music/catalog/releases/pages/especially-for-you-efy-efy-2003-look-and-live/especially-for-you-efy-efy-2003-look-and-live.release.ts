@@ -5,7 +5,7 @@ export const especiallyForYouEfyEfy2003LookAndLive = {
   pageTypeSlug: "release",
   slug: "especially-for-you-efy-efy-2003-look-and-live",
   title: "Efy 2003 - Look and Live",
-  partOfSlugs: ["especially-for-you-efy"],
+  partOfCollectionSlugs: ["especially-for-you-efy"],
   position: 2003,
   ownLength: 42.731283,
   ownProgress: 42.731283,

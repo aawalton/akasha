@@ -5,7 +5,7 @@ export const emBeiholdEggInTheBackseat = {
   pageTypeSlug: "release",
   slug: "em-beihold-egg-in-the-backseat",
   title: "Egg in the Backseat",
-  partOfSlugs: ["em-beihold"],
+  partOfCollectionSlugs: ["em-beihold"],
   position: 0,
   ownLength: 19.249033,
   ownProgress: 19.249033,

@@ -5,7 +5,7 @@ export const greenDayBulletInABible = {
   pageTypeSlug: "release",
   slug: "green-day-bullet-in-a-bible",
   title: "Bullet in a Bible",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 65.04035,
   ownProgress: 65.04035,

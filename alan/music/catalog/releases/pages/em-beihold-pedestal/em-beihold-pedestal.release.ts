@@ -5,7 +5,7 @@ export const emBeiholdPedestal = {
   pageTypeSlug: "release",
   slug: "em-beihold-pedestal",
   title: "Pedestal",
-  partOfSlugs: ["em-beihold"],
+  partOfCollectionSlugs: ["em-beihold"],
   position: 0,
   ownLength: 3.192583,
   ownProgress: 3.192583,

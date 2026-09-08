@@ -5,7 +5,7 @@ export const girlInRedINeedToBeAlone = {
   pageTypeSlug: "release",
   slug: "girl-in-red-i-need-to-be-alone",
   title: "i need to be alone.",
-  partOfSlugs: ["girl-in-red"],
+  partOfCollectionSlugs: ["girl-in-red"],
   position: 0,
   ownLength: 2.941667,
   ownProgress: 0,

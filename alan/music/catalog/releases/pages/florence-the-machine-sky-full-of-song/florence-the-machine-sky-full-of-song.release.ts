@@ -5,7 +5,7 @@ export const florenceTheMachineSkyFullOfSong = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-sky-full-of-song",
   title: "Sky Full Of Song",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 3.769333,
   ownProgress: 3.769333,

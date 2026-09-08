@@ -5,7 +5,7 @@ export const gracieAbramsBrushFire = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-brush-fire",
   title: "Brush Fire",
-  partOfSlugs: ["gracie-abrams"],
+  partOfCollectionSlugs: ["gracie-abrams"],
   position: 0,
   ownLength: 3.173767,
   ownProgress: 3.173767,

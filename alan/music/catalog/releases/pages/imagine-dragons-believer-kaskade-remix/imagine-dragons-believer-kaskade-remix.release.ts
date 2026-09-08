@@ -5,7 +5,7 @@ export const imagineDragonsBelieverKaskadeRemix = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-believer-kaskade-remix",
   title: "Believer (Kaskade Remix)",
-  partOfSlugs: ["imagine-dragons"],
+  partOfCollectionSlugs: ["imagine-dragons"],
   position: 0,
   ownLength: 3.18155,
   ownProgress: 3.18155,

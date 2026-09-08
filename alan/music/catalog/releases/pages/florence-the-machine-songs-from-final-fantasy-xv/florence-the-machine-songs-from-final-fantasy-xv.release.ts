@@ -5,7 +5,7 @@ export const florenceTheMachineSongsFromFinalFantasyXv = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-songs-from-final-fantasy-xv",
   title: "Songs From Final Fantasy XV",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 15.317967,
   ownProgress: 15.317967,

@@ -5,7 +5,7 @@ export const greenDaySaviorsEditionDeLuxe = {
   pageTypeSlug: "release",
   slug: "green-day-saviors-edition-de-luxe",
   title: "Saviors (édition de luxe)",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 72.288683,
   ownProgress: 0,

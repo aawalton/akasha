@@ -5,7 +5,7 @@ export const greenDay21GunsDmdMaxi = {
   pageTypeSlug: "release",
   slug: "green-day-21-guns-dmd-maxi",
   title: "21 Guns (DMD Maxi)",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 12.6562,
   ownProgress: 12.6562,

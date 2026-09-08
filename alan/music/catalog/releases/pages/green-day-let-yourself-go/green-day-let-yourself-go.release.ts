@@ -5,7 +5,7 @@ export const greenDayLetYourselfGo = {
   pageTypeSlug: "release",
   slug: "green-day-let-yourself-go",
   title: "Let Yourself Go",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 2.949767,
   ownProgress: 2.949767,

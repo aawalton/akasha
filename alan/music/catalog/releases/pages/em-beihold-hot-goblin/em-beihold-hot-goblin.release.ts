@@ -5,7 +5,7 @@ export const emBeiholdHotGoblin = {
   pageTypeSlug: "release",
   slug: "em-beihold-hot-goblin",
   title: "Hot Goblin",
-  partOfSlugs: ["em-beihold"],
+  partOfCollectionSlugs: ["em-beihold"],
   position: 0,
   ownLength: 5.103633,
   ownProgress: 5.103633,

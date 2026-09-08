@@ -5,7 +5,7 @@ export const greenDayAmericanIdiot20thAnniversaryOnHoliday = {
   pageTypeSlug: "release",
   slug: "green-day-american-idiot-20th-anniversary-on-holiday",
   title: "American Idiot (20th Anniversary - On Holiday)",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 17.219733,
   ownProgress: 0,

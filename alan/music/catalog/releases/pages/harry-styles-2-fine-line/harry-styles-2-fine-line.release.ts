@@ -5,7 +5,7 @@ export const harryStyles2FineLine = {
   pageTypeSlug: "release",
   slug: "harry-styles-2-fine-line",
   title: "Fine Line",
-  partOfSlugs: ["harry-styles-2"],
+  partOfCollectionSlugs: ["harry-styles-2"],
   position: 0,
   ownLength: 46.720367,
   ownProgress: 46.720367,

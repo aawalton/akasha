@@ -5,7 +5,7 @@ export const greenDayBallyhoo = {
   pageTypeSlug: "release",
   slug: "green-day-ballyhoo",
   title: "Ballyhoo",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 2.766233,
   ownProgress: 0,

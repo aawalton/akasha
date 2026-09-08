@@ -5,7 +5,7 @@ export const epicTheMusicalEpicTheThunderSagaOfficialConceptAlbum = {
   pageTypeSlug: "release",
   slug: "epic-the-musical-epic-the-thunder-saga-official-concept-album",
   title: "EPIC: The Thunder Saga (Official Concept Album)",
-  partOfSlugs: ["epic-the-musical"],
+  partOfCollectionSlugs: ["epic-the-musical"],
   position: 0,
   ownLength: 17.979533,
   ownProgress: 17.979533,

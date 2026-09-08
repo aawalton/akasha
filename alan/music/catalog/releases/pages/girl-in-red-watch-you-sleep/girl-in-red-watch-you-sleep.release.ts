@@ -5,7 +5,7 @@ export const girlInRedWatchYouSleep = {
   pageTypeSlug: "release",
   slug: "girl-in-red-watch-you-sleep",
   title: "watch you sleep.",
-  partOfSlugs: ["girl-in-red"],
+  partOfCollectionSlugs: ["girl-in-red"],
   position: 0,
   ownLength: 3.00375,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const greenDayManicMonday = {
   pageTypeSlug: "release",
   slug: "green-day-manic-monday",
   title: "Manic Monday",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 3.115717,
   ownProgress: 0,

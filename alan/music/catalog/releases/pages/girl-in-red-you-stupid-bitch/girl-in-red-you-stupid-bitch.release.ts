@@ -5,7 +5,7 @@ export const girlInRedYouStupidBitch = {
   pageTypeSlug: "release",
   slug: "girl-in-red-you-stupid-bitch",
   title: "You Stupid Bitch",
-  partOfSlugs: ["girl-in-red"],
+  partOfCollectionSlugs: ["girl-in-red"],
   position: 0,
   ownLength: 3.26585,
   ownProgress: 0,

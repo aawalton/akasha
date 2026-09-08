@@ -5,7 +5,7 @@ export const emBeiholdDriveByLovers = {
   pageTypeSlug: "release",
   slug: "em-beihold-drive-by-lovers",
   title: "Drive by Lovers",
-  partOfSlugs: ["em-beihold"],
+  partOfCollectionSlugs: ["em-beihold"],
   position: 0,
   ownLength: 3.518333,
   ownProgress: 3.518333,

@@ -5,7 +5,7 @@ export const florenceTheMachineOneOfTheGreats = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-one-of-the-greats",
   title: "One of the Greats",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 6.534967,
   ownProgress: 6.534967,

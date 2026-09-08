@@ -5,7 +5,7 @@ export const especiallyForYouEfyEfy2016WhatMattersMostEspeciallyForYouth = {
   pageTypeSlug: "release",
   slug: "especially-for-you-efy-efy-2016-what-matters-most-especially-for-youth",
   title: "Efy 2016 What Matters Most (Especially for Youth)",
-  partOfSlugs: ["especially-for-you-efy"],
+  partOfCollectionSlugs: ["especially-for-you-efy"],
   position: 2016,
   ownLength: 43.093033,
   ownProgress: 43.093033,

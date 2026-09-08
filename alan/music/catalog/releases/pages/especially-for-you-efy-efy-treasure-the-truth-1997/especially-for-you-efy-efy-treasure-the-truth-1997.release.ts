@@ -5,7 +5,7 @@ export const especiallyForYouEfyEfyTreasureTheTruth1997 = {
   pageTypeSlug: "release",
   slug: "especially-for-you-efy-efy-treasure-the-truth-1997",
   title: "Efy Treasure the Truth 1997",
-  partOfSlugs: ["especially-for-you-efy"],
+  partOfCollectionSlugs: ["especially-for-you-efy"],
   position: 1997,
   ownLength: 47.885933,
   ownProgress: 47.885933,

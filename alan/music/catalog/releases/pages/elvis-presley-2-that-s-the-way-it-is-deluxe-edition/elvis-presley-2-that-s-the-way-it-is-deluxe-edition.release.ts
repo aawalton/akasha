@@ -5,7 +5,7 @@ export const elvisPresley2ThatSTheWayItIsDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-that-s-the-way-it-is-deluxe-edition",
   title: "That's the Way It Is (Deluxe Edition)",
-  partOfSlugs: ["elvis-presley-2"],
+  partOfCollectionSlugs: ["elvis-presley-2"],
   position: 0,
   ownLength: 534.034383,
   ownProgress: 534.034383,

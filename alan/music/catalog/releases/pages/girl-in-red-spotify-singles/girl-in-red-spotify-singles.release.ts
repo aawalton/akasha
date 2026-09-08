@@ -5,7 +5,7 @@ export const girlInRedSpotifySingles = {
   pageTypeSlug: "release",
   slug: "girl-in-red-spotify-singles",
   title: "Spotify Singles",
-  partOfSlugs: ["girl-in-red"],
+  partOfCollectionSlugs: ["girl-in-red"],
   position: 0,
   ownLength: 5.36215,
   ownProgress: 0,

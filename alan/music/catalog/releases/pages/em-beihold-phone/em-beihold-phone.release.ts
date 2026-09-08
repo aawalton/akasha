@@ -5,7 +5,7 @@ export const emBeiholdPhone = {
   pageTypeSlug: "release",
   slug: "em-beihold-phone",
   title: "Phone",
-  partOfSlugs: ["em-beihold"],
+  partOfCollectionSlugs: ["em-beihold"],
   position: 0,
   ownLength: 2.5846,
   ownProgress: 2.5846,

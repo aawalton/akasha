@@ -5,7 +5,7 @@ export const florenceTheMachineDanceFeverPoemVersions = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-dance-fever-poem-versions",
   title: "Dance Fever (Poem Versions)",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 9.891483,
   ownProgress: 9.891483,

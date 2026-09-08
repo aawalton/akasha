@@ -5,7 +5,7 @@ export const florenceTheMachineDelilahGalantisRemixEdit = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-delilah-galantis-remix-edit",
   title: "Delilah (Galantis Remix / Edit)",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 3.707633,
   ownProgress: 3.707633,

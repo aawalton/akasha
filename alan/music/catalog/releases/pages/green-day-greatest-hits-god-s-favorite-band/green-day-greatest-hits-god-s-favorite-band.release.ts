@@ -5,7 +5,7 @@ export const greenDayGreatestHitsGodSFavoriteBand = {
   pageTypeSlug: "release",
   slug: "green-day-greatest-hits-god-s-favorite-band",
   title: "Greatest Hits: God's Favorite Band",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 75.727117,
   ownProgress: 0,

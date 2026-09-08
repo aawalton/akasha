@@ -5,7 +5,7 @@ export const girlInRedIWannaBeYourGirlfriend = {
   pageTypeSlug: "release",
   slug: "girl-in-red-i-wanna-be-your-girlfriend",
   title: "i wanna be your girlfriend",
-  partOfSlugs: ["girl-in-red"],
+  partOfCollectionSlugs: ["girl-in-red"],
   position: 0,
   ownLength: 3.4165,
   ownProgress: 3.4165,

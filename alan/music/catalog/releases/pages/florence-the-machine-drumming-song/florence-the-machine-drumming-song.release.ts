@@ -5,7 +5,7 @@ export const florenceTheMachineDrummingSong = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-drumming-song",
   title: "Drumming Song",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 23.072417,
   ownProgress: 23.072417,

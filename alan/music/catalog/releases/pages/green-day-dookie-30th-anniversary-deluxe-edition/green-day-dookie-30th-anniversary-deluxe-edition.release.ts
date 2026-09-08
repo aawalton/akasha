@@ -5,7 +5,7 @@ export const greenDayDookie30thAnniversaryDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "green-day-dookie-30th-anniversary-deluxe-edition",
   title: "Dookie (30th Anniversary Deluxe Edition)",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 201.4421,
   ownProgress: 0,

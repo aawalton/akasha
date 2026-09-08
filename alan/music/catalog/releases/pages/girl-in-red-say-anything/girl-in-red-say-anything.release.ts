@@ -5,7 +5,7 @@ export const girlInRedSayAnything = {
   pageTypeSlug: "release",
   slug: "girl-in-red-say-anything",
   title: "say anything",
-  partOfSlugs: ["girl-in-red"],
+  partOfCollectionSlugs: ["girl-in-red"],
   position: 0,
   ownLength: 2.378333,
   ownProgress: 2.378333,

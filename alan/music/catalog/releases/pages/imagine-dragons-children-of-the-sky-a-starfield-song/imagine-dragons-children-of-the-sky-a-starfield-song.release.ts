@@ -5,7 +5,7 @@ export const imagineDragonsChildrenOfTheSkyAStarfieldSong = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-children-of-the-sky-a-starfield-song",
   title: "Children of the Sky (a Starfield song)",
-  partOfSlugs: ["imagine-dragons"],
+  partOfCollectionSlugs: ["imagine-dragons"],
   position: 0,
   ownLength: 3.460183,
   ownProgress: 3.460183,

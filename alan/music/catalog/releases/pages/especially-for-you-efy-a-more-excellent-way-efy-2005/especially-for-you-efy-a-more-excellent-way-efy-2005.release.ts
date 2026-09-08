@@ -5,7 +5,7 @@ export const especiallyForYouEfyAMoreExcellentWayEfy2005 = {
   pageTypeSlug: "release",
   slug: "especially-for-you-efy-a-more-excellent-way-efy-2005",
   title: "A More Excellent Way: Efy 2005",
-  partOfSlugs: ["especially-for-you-efy"],
+  partOfCollectionSlugs: ["especially-for-you-efy"],
   position: 2005,
   ownLength: 55.185233,
   ownProgress: 55.185233,

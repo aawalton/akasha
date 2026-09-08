@@ -5,7 +5,7 @@ export const greenDayDos = {
   pageTypeSlug: "release",
   slug: "green-day-dos",
   title: "¡DOS!",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 39.470383,
   ownProgress: 39.470383,

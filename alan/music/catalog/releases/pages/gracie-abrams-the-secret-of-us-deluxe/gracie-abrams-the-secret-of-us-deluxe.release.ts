@@ -5,7 +5,7 @@ export const gracieAbramsTheSecretOfUsDeluxe = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-the-secret-of-us-deluxe",
   title: "The Secret of Us (Deluxe)",
-  partOfSlugs: ["gracie-abrams"],
+  partOfCollectionSlugs: ["gracie-abrams"],
   position: 0,
   ownLength: 72.3635,
   ownProgress: 72.3635,

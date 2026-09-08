@@ -5,7 +5,7 @@ export const florenceTheMachineMyLoveMeduzaRemix = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-my-love-meduza-remix",
   title: "My Love (MEDUZA Remix)",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 3.52,
   ownProgress: 3.52,

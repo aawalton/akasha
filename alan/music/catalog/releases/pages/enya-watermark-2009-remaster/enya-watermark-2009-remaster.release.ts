@@ -5,7 +5,7 @@ export const enyaWatermark2009Remaster = {
   pageTypeSlug: "release",
   slug: "enya-watermark-2009-remaster",
   title: "Watermark (2009 Remaster)",
-  partOfSlugs: ["enya"],
+  partOfCollectionSlugs: ["enya"],
   position: 0,
   ownLength: 45.692367,
   ownProgress: 45.692367,

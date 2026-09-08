@@ -5,7 +5,7 @@ export const florenceTheMachineEverybodyScream = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-everybody-scream",
   title: "Everybody Scream",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 49.65215,
   ownProgress: 49.65215,

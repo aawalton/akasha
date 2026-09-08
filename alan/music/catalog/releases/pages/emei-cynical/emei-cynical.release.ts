@@ -5,7 +5,7 @@ export const emeiCynical = {
   pageTypeSlug: "release",
   slug: "emei-cynical",
   title: "Cynical",
-  partOfSlugs: ["emei"],
+  partOfCollectionSlugs: ["emei"],
   position: 0,
   ownLength: 2.243033,
   ownProgress: 2.243033,

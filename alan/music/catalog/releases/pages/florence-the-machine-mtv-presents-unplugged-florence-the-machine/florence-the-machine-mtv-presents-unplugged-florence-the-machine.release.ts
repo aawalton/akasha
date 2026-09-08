@@ -5,7 +5,7 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachine = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-mtv-presents-unplugged-florence-the-machine",
   title: "MTV Presents Unplugged: Florence + The Machine",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 47.74725,
   ownProgress: 47.74725,

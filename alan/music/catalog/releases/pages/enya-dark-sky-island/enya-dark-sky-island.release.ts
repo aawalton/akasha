@@ -5,7 +5,7 @@ export const enyaDarkSkyIsland = {
   pageTypeSlug: "release",
   slug: "enya-dark-sky-island",
   title: "Dark Sky Island",
-  partOfSlugs: ["enya"],
+  partOfCollectionSlugs: ["enya"],
   position: 0,
   ownLength: 44.0893,
   ownProgress: 44.0893,

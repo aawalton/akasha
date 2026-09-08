@@ -5,7 +5,7 @@ export const florenceTheMachineShakeItOut = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-shake-it-out",
   title: "Shake It Out",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 18.91665,
   ownProgress: 18.91665,

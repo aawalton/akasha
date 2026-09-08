@@ -5,7 +5,7 @@ export const florenceTheMachineBigGod = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-big-god",
   title: "Big God",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 4.029333,
   ownProgress: 4.029333,

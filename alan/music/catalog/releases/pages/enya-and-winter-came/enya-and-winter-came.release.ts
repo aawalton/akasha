@@ -5,7 +5,7 @@ export const enyaAndWinterCame = {
   pageTypeSlug: "release",
   slug: "enya-and-winter-came",
   title: "And Winter Came...",
-  partOfSlugs: ["enya"],
+  partOfCollectionSlugs: ["enya"],
   position: 0,
   ownLength: 48.963183,
   ownProgress: 48.963183,

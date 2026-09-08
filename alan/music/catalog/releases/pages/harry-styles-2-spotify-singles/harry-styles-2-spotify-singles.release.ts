@@ -5,7 +5,7 @@ export const harryStyles2SpotifySingles = {
   pageTypeSlug: "release",
   slug: "harry-styles-2-spotify-singles",
   title: "Spotify Singles",
-  partOfSlugs: ["harry-styles-2"],
+  partOfCollectionSlugs: ["harry-styles-2"],
   position: 0,
   ownLength: 7.800983,
   ownProgress: 7.800983,

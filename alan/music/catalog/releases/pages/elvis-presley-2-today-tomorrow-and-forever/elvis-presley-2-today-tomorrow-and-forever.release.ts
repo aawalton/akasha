@@ -5,7 +5,7 @@ export const elvisPresley2TodayTomorrowAndForever = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-today-tomorrow-and-forever",
   title: "Today, Tomorrow and Forever",
-  partOfSlugs: ["elvis-presley-2"],
+  partOfCollectionSlugs: ["elvis-presley-2"],
   position: 0,
   ownLength: 268.904733,
   ownProgress: 268.904733,

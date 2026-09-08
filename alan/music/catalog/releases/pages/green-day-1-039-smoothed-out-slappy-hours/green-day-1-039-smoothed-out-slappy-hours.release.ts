@@ -5,7 +5,7 @@ export const greenDay1039SmoothedOutSlappyHours = {
   pageTypeSlug: "release",
   slug: "green-day-1-039-smoothed-out-slappy-hours",
   title: "1,039 / Smoothed out Slappy Hours",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 63.84495,
   ownProgress: 63.84495,

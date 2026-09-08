@@ -5,7 +5,7 @@ export const greenDayDreaming = {
   pageTypeSlug: "release",
   slug: "green-day-dreaming",
   title: "Dreaming",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 3.1234,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const greenDayPollyanna = {
   pageTypeSlug: "release",
   slug: "green-day-pollyanna",
   title: "Pollyanna",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 3.250283,
   ownProgress: 0,

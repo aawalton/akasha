@@ -5,7 +5,7 @@ export const girlInRedWeFellInLoveInOctoberSpedUp = {
   pageTypeSlug: "release",
   slug: "girl-in-red-we-fell-in-love-in-october-sped-up",
   title: "we fell in love in october (sped up)",
-  partOfSlugs: ["girl-in-red"],
+  partOfCollectionSlugs: ["girl-in-red"],
   position: 0,
   ownLength: 2.43345,
   ownProgress: 0,

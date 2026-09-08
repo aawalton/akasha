@@ -5,7 +5,7 @@ export const emBeiholdScaredOfTheDark = {
   pageTypeSlug: "release",
   slug: "em-beihold-scared-of-the-dark",
   title: "Scared of the Dark",
-  partOfSlugs: ["em-beihold"],
+  partOfCollectionSlugs: ["em-beihold"],
   position: 0,
   ownLength: 8.066767,
   ownProgress: 8.066767,

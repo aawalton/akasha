@@ -5,7 +5,7 @@ export const florenceTheMachineHowBigHowBlueHowBeautifulDeluxe = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-how-big-how-blue-how-beautiful-deluxe",
   title: "How Big, How Blue, How Beautiful (Deluxe)",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 69.865333,
   ownProgress: 69.865333,

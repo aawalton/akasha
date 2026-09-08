@@ -5,7 +5,7 @@ export const emeiCrazyStupidLove = {
   pageTypeSlug: "release",
   slug: "emei-crazy-stupid-love",
   title: "Crazy Stupid Love",
-  partOfSlugs: ["emei"],
+  partOfCollectionSlugs: ["emei"],
   position: 0,
   ownLength: 2.60555,
   ownProgress: 2.60555,

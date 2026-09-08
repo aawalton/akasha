@@ -5,7 +5,7 @@ export const greenDayBoulevardOfBrokenDreams = {
   pageTypeSlug: "release",
   slug: "green-day-boulevard-of-broken-dreams",
   title: "Boulevard of Broken Dreams",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 4.354433,
   ownProgress: 4.354433,

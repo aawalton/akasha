@@ -5,7 +5,7 @@ export const florenceTheMachineDanceFeverLiveAtMadisonSquareGarden = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-dance-fever-live-at-madison-square-garden",
   title: "Dance Fever (Live At Madison Square Garden)",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 104.1745,
   ownProgress: 104.1745,

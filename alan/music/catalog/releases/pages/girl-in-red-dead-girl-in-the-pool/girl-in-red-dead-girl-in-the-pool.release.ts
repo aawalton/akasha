@@ -5,7 +5,7 @@ export const girlInRedDeadGirlInThePool = {
   pageTypeSlug: "release",
   slug: "girl-in-red-dead-girl-in-the-pool",
   title: "dead girl in the pool.",
-  partOfSlugs: ["girl-in-red"],
+  partOfCollectionSlugs: ["girl-in-red"],
   position: 0,
   ownLength: 3.1107,
   ownProgress: 0,

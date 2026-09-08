@@ -5,7 +5,7 @@ export const greenDayThatThingYouDo = {
   pageTypeSlug: "release",
   slug: "green-day-that-thing-you-do",
   title: "That Thing You Do!",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 2.81,
   ownProgress: 0,

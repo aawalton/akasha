@@ -5,7 +5,7 @@ export const greenDayNotThatWayAnymore = {
   pageTypeSlug: "release",
   slug: "green-day-not-that-way-anymore",
   title: "Not That Way Anymore",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 2.878683,
   ownProgress: 0,

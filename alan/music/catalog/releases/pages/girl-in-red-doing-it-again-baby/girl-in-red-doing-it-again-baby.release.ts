@@ -5,7 +5,7 @@ export const girlInRedDoingItAgainBaby = {
   pageTypeSlug: "release",
   slug: "girl-in-red-doing-it-again-baby",
   title: "DOING IT AGAIN BABY",
-  partOfSlugs: ["girl-in-red"],
+  partOfCollectionSlugs: ["girl-in-red"],
   position: 0,
   ownLength: 5.479083,
   ownProgress: 0,

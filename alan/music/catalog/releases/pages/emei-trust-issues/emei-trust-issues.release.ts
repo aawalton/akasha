@@ -5,7 +5,7 @@ export const emeiTrustIssues = {
   pageTypeSlug: "release",
   slug: "emei-trust-issues",
   title: "Trust Issues",
-  partOfSlugs: ["emei"],
+  partOfCollectionSlugs: ["emei"],
   position: 0,
   ownLength: 2.348,
   ownProgress: 2.348,

@@ -5,7 +5,7 @@ export const florenceTheMachineILoveYouAllTheTimePlayItForwardCampaignFeatTheMac
   pageTypeSlug: "release",
   slug: "florence-the-machine-i-love-you-all-the-time-play-it-forward-campaign-feat-the-maccabees",
   title: "I Love You All the Time (Play It Forward Campaign) [feat. The Maccabees]",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 3.31015,
   ownProgress: 3.31015,

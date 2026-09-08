@@ -5,7 +5,7 @@ export const emeiBacktrack = {
   pageTypeSlug: "release",
   slug: "emei-backtrack",
   title: "Backtrack",
-  partOfSlugs: ["emei"],
+  partOfCollectionSlugs: ["emei"],
   position: 0,
   ownLength: 2.647333,
   ownProgress: 2.647333,

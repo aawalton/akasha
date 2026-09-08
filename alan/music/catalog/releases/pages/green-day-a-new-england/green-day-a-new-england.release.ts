@@ -5,7 +5,7 @@ export const greenDayANewEngland = {
   pageTypeSlug: "release",
   slug: "green-day-a-new-england",
   title: "A New England",
-  partOfSlugs: ["green-day"],
+  partOfCollectionSlugs: ["green-day"],
   position: 0,
   ownLength: 2.154433,
   ownProgress: 0,

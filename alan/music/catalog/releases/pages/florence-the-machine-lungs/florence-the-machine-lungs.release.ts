@@ -5,7 +5,7 @@ export const florenceTheMachineLungs = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-lungs",
   title: "Lungs",
-  partOfSlugs: ["florence-the-machine"],
+  partOfCollectionSlugs: ["florence-the-machine"],
   position: 0,
   ownLength: 64.01945,
   ownProgress: 64.01945,

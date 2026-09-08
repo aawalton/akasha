@@ -5,7 +5,7 @@ export const emBeiholdCityOfAngels = {
   pageTypeSlug: "release",
   slug: "em-beihold-city-of-angels",
   title: "City of Angels",
-  partOfSlugs: ["em-beihold"],
+  partOfCollectionSlugs: ["em-beihold"],
   position: 0,
   ownLength: 3.238467,
   ownProgress: 3.238467,

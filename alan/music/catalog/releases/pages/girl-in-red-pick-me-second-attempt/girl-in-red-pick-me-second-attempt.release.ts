@@ -5,7 +5,7 @@ export const girlInRedPickMeSecondAttempt = {
   pageTypeSlug: "release",
   slug: "girl-in-red-pick-me-second-attempt",
   title: "Pick Me (Second Attempt)",
-  partOfSlugs: ["girl-in-red"],
+  partOfCollectionSlugs: ["girl-in-red"],
   position: 0,
   ownLength: 2.561117,
   ownProgress: 0,
