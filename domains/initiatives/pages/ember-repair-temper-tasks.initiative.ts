@@ -37,11 +37,6 @@ export const emberRepairTemperTasks = {
       workingMemory:
         "Met on the watcher and the browser. The watcher reads the body over readPages and readFiles and names all four under `settings to export`. The browser asks under `files` and reads 42,744 chars keyed safety, logging, inventory, automation, against `json` without it. Five panels share one copy, and a write landing before that read is refused. composedFor refuses the raw object and lands the ending plus `bodies` beside the page. Left: the CLI.",
     },
-    {
-      statement: "The browser reads and writes the file beside a page.",
-      workingMemory:
-        "Met. A query names `files`, camelized like `keys`; pages-access carries `bodies` through upsert. The import and the display both narrow on the keys the types declare, and the completion tabs ask for their own bodies: 20 characters at 5,535,571 chars and one account at 1,963,567, against 20 endings and 1 on the same query without `files`. A listing stays at about 1,300 bytes. A path road was refused: the store limits no caller. No companion carries a completion at all.",
-    },
   ],
   constraints: [
     "The watcher and the addons count as off-workstation, so they reach pages through pages-service rather than by reading the repository.",
