@@ -8,8 +8,8 @@ import { copyAddonMetadata } from "@akasha/temper-addon-build/addon-metadata-cop
 import { TSCONFIG_NAME, tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
 import {
   COMPILER_ENTRY,
+  compilerCommand,
   compilerRoot,
-  tstlCommand,
 } from "@akasha/temper-addon-build/lua-build-command"
 import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
 import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
@@ -102,7 +102,7 @@ function compiled(
   bundle: string,
   left: number
 ): Built {
-  const answered = ran(tstlCommand(tstl, config), { cwd: root, timeout: left })
+  const answered = ran(compilerCommand(tstl, config), { cwd: root, timeout: left })
   const lines = `${answered.out}\n${answered.err}`.split("\n").map((one) => one.trim())
   return {
     name,
@@ -207,7 +207,7 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
 
     if (watch) {
       try {
-        shown(tstlCommand(tstl, config, [WATCH]), { cwd: root })
+        shown(compilerCommand(tstl, config, [WATCH]), { cwd: root })
       } catch (thrown) {
         return refused(
           `the compiler left ${WATCH} over ${target.canonicalName}: ${messageOf(thrown)}`,

@@ -18,7 +18,7 @@ export function luaPluginsArgument(root: string): string {
   return JSON.stringify(PLUGIN_FILES.map((one) => ({ name: join(root, one) })))
 }
 
-export function tstlCommand(
+export function compilerCommand(
   root: string,
   tsconfigPath: string,
   extra: readonly string[] = []
