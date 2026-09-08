@@ -250,7 +250,7 @@ function isAlwaysExplicitArrayType(context: TransformationContext, type: ts.Type
 export function forTypeOrAnySupertype(
   context: TransformationContext,
   type: ts.Type,
-  predicate: (type: ts.Type) => boolean
+  predicate: (candidate: ts.Type) => boolean
 ): boolean {
   if (predicate(type)) {
     return true
