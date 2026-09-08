@@ -22,7 +22,7 @@
     "./session-derive": "./session-derive/session-derive.module.code.ts",
     "./set-history": "./set-history/set-history.module.code.ts",
     "./set-target": "./set-target/set-target.module.code.ts",
-    "./training-digest": "./training-digest/training-digest.module.code.ts"
+    "./set-target": "./set-target/set-target.module.code.ts"
   },
   "dependencies": {
     "@akasha/code": "workspace:*",

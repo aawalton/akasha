@@ -26,7 +26,6 @@ export const exerciseAccess = {
     "module/session-derive",
     "module/set-history",
     "module/set-target",
-    "module/training-digest",
   ],
   invariants: [
     {
