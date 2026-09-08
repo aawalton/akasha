@@ -145,7 +145,7 @@ ${encodedTraitsTemperIdEntries.join("\n")}
  *
  * \`string.match\` returns \`LuaMultiReturn<string[]>\`; destructure at the
  * boundary so the rest of the function flows plain values (the
- * \`tstl-no-multi-store\` plugin disallows forwarding the multi-return).
+ * \`no-multi-store\` plugin disallows forwarding the multi-return).
  */
 export function parsePotionData(itemLink: string): number {
   const [potionData] = string.match(itemLink, ":(%d+)|h")
