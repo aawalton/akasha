@@ -2,7 +2,7 @@ import { dirname } from "node:path"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { textAt } from "@akasha/pages/page-value"
 import type { Shadow } from "@akasha/pages/shadow"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import {
   BODIES,
   type Body,

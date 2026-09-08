@@ -4,7 +4,7 @@ import {
   resolveQuality,
 } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { ArmorItem } from "../item-composites/item-composites.module.code.ts"
 
 export function calculateDivinesValue(baseValue: number, armorItems: readonly ArmorItem[]): number {

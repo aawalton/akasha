@@ -13,7 +13,7 @@ import { SortButton } from "@akasha/design-patterns/sort-button"
 import type { SortDirection, SortOption } from "@akasha/design-patterns/sort-types"
 import { targetArmor } from "@akasha/temper-character-sources/target-armors"
 import { companions } from "@akasha/temper-companions-core/companions"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 import { useEffect, useState } from "react"
 
 export type SortField = "updated" | "name" | "score"

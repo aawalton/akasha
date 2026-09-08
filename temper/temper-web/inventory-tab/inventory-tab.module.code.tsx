@@ -16,7 +16,7 @@ import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { extractGuildBankKeys } from "@akasha/temper-items-core/inventory-guild-bank-filter"
 import { useInventory } from "@akasha/temper-player-inventory-management-ui/hooks-inventory"
 import { useManagedGuildBanks } from "@akasha/temper-player-inventory-management-ui/hooks-inventory-settings"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { AlertCircle, Package } from "lucide-react"
 import { useMemo } from "react"
 import {

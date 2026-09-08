@@ -9,7 +9,7 @@ import {
   TUTORIALS,
   ZONE_IDS,
 } from "@akasha/temper-skill-point-finder/sources"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 
 const FOLIUM_QUEST = 3997

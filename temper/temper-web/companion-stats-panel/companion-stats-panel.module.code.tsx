@@ -9,7 +9,7 @@ import {
   getCompanionMetricTree,
 } from "@akasha/temper-companions-core/companion-metric-tree"
 import type { CompanionMetricValue } from "@akasha/temper-companions-core/companion-metrics"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { type ReactNode, useMemo, useState } from "react"
 import { CompanionRotationBreakdownPanelCard } from "../companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx"
 import { CompanionStatExplanationDialog } from "../companion-stat-explanation-dialog/companion-stat-explanation-dialog.module.code.tsx"

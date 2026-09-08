@@ -14,7 +14,7 @@
     "./dockerfile-writing": "./dockerfile-writing/dockerfile-writing.module.code.ts"
   },
   "dependencies": {
-    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "@akasha/workspace-paths": "workspace:*",
     "zod": "^4.3.6"
   }

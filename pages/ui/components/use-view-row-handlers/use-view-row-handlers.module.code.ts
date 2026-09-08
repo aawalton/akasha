@@ -12,7 +12,7 @@ import type { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set
 import { createOptionOnDefinition } from "@akasha/pages-ui-components/create-option"
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import type { Json } from "@akasha/utils-narrow/json-value"
+import type { Json } from "@akasha/utils/narrow/json-value"
 import { useCallback } from "react"
 
 interface UseViewRowHandlersArgs {

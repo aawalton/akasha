@@ -8,7 +8,7 @@ export const utils = {
   manifest: "json",
   partSlugs: [
     "domain/utils-fs",
-    "workspace-package/utils-narrow",
+    "domain/utils-narrow",
     "domain/utils-process",
     "domain/utils-run",
     "domain/utils-system",

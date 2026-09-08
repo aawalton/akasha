@@ -1,8 +1,8 @@
 import { resolve } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 import { dataAt, dataIn } from "@akasha/file-system/data-place"
-import { asRecord } from "@akasha/utils-narrow/as-record"
-import { stringAt } from "@akasha/utils-narrow/string-at"
+import { asRecord } from "@akasha/utils/narrow/as-record"
+import { stringAt } from "@akasha/utils/narrow/string-at"
 import { shownIn } from "../../path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 

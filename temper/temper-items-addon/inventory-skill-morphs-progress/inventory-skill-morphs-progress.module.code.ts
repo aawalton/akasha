@@ -10,7 +10,7 @@ import {
   type ExpectedMorphableSkill,
   type MorphSkillLineProgressMap,
 } from "@akasha/temper-skill-morphs/character-morph-progress-eso"
-import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
+import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 import { getTemperCharactersData } from "../inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 
 const baseApplicableEsoLineIds: ReadonlySet<number> = (() => {

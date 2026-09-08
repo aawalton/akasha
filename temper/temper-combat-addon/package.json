@@ -164,6 +164,6 @@
     "@akasha/temper-addon-library-types": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*",
     "@akasha/temper-settings-panel": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

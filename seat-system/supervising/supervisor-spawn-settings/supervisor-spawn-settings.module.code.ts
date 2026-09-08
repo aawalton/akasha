@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto"
 import { existsSync, renameSync, writeFileSync } from "node:fs"
-import { shape } from "@akasha/utils-narrow/shape"
+import { shape } from "@akasha/utils/narrow/shape"
 import { agentSettings } from "../supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
 
 const LOG = "[spawn-settings]"

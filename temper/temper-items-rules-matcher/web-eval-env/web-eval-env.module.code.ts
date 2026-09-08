@@ -6,7 +6,7 @@ import type { ClassifiedInventoryItem } from "@akasha/temper-items-rules-core/in
 import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import { TOTAL_SCRIPT_COUNT } from "@akasha/temper-items-rules-core/scribing-total-script-count"
 import type { EvalEnv, WantedEquipmentFacts } from "@akasha/temper-items-rules-eval/eval-env"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 
 export interface WebEnvExtras {
   readonly itemIdToCooldownGroup?: ReadonlyMap<number, string>

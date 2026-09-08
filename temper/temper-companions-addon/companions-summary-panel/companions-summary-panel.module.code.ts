@@ -16,7 +16,7 @@ import "@akasha/temper-eso-types/eso-ui-3"
 import "@akasha/temper-eso-types/lua-language-extensions"
 import { GREEN } from "@akasha/design-tokens/semantic-color"
 import { TEXT_PRIMARY, TEXT_TERTIARY } from "@akasha/design-tokens/text-color"
-import { requireAt } from "@akasha/utils-narrow/require-at"
+import { requireAt } from "@akasha/utils/narrow/require-at"
 import {
   applyBuild,
   equipUpgrades,

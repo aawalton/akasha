@@ -6,7 +6,7 @@ import {
   matchDocumentExtreme,
 } from "@akasha/pages-core/property-types/block-shortcuts"
 import { detectMarkdownShorthand } from "@akasha/pages-core/property-types/markdown-shorthand"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { type Ref, useCallback, useRef } from "react"
 import type { BlockRowProps } from "../block-row/block-row.module.code.tsx"
 

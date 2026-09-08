@@ -16,7 +16,7 @@ import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule-variant"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import { useState } from "react"
 
 interface NarrowedEntry {

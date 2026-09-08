@@ -1,4 +1,4 @@
-import { asRecord } from "@akasha/utils-narrow/as-record"
+import { asRecord } from "@akasha/utils/narrow/as-record"
 import { z } from "zod"
 
 export function savedVariablesRootSchema<AccountWide extends z.ZodTypeAny>(

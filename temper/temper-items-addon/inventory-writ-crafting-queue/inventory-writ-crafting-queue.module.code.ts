@@ -1,4 +1,4 @@
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
 import { getActionReportLevel } from "../inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 export interface WritCraftRequest {

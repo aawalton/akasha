@@ -8,7 +8,7 @@ import { exportedAs } from "@akasha/pages/page-export-name"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { valueAt } from "@akasha/pages/page-value"
 import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
-import { textAt } from "@akasha/utils-narrow/text-at"
+import { textAt } from "@akasha/utils/narrow/text-at"
 import { subagentPageInHistory } from "../../subagent-page-history/subagent-page-history.module.code.ts"
 
 export const SUBAGENTS_AT = "seat-system/subagents/pages"

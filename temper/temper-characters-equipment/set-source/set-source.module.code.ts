@@ -3,7 +3,7 @@ import type { EquipmentQualityId } from "@akasha/temper-equipment-kinds/equipmen
 import type { Effect } from "@akasha/temper-formula-framework/effect"
 import { isMetricEffect } from "@akasha/temper-formula-framework/effect"
 import type { EffectSourceInterface } from "@akasha/temper-formula-framework/effect-source"
-import { createDataFile } from "@akasha/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils/narrow/create-data-file"
 import { setsAll } from "../sets-all/sets-all.module.code.ts"
 
 interface SetSourceTemplate extends EffectSourceInterface<"sets", Effect> {

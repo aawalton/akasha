@@ -14,7 +14,7 @@ import { updateRightInfoPanel } from "@akasha/temper-combat-addon/combat-ui-info
 import { numberValue } from "@akasha/temper-combat-addon/combat-ui-main-panel"
 import { getFightData } from "@akasha/temper-combat-addon/combat-ui-state"
 import type { SkillRowControl } from "@akasha/temper-combat-addon/combat-ui-tooltips"
-import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
+import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 
 const LIB_COMBAT_VERSION = 88
 

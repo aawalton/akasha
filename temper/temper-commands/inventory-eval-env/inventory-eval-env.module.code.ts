@@ -1,7 +1,7 @@
 import { STYLE_TO_CHAPTERS } from "@akasha/temper-items-core/motif-chapter-set"
 import type { ItemKey } from "@akasha/temper-items-rules-core/use-destination-types"
 import type { EvalEnv } from "@akasha/temper-items-rules-eval/eval-env"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { CharacterKnowledge } from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
 
 export interface CliEvalEnvDeps {

@@ -1,6 +1,6 @@
 import { shapeFor } from "@akasha/pages-service/calling"
-import { isRecord } from "@akasha/utils-narrow/is-record"
-import type { Json } from "@akasha/utils-narrow/json-value"
+import { isRecord } from "@akasha/utils/narrow/is-record"
+import type { Json } from "@akasha/utils/narrow/json-value"
 import { z } from "zod"
 import { camelizeKey } from "../file-rows/file-rows.module.code.ts"
 import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"

@@ -15,7 +15,7 @@ import {
   type RoleId,
   characterRoles as roles,
 } from "@akasha/temper-character-sources/character-roles"
-import type { Json } from "@akasha/utils-narrow/json-value"
+import type { Json } from "@akasha/utils/narrow/json-value"
 import { useMemo } from "react"
 
 const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"

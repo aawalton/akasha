@@ -1,5 +1,5 @@
-import { shape } from "@akasha/utils-narrow/shape"
-import type { Infer } from "@akasha/utils-narrow/shape-core"
+import { shape } from "@akasha/utils/narrow/shape"
+import type { Infer } from "@akasha/utils/narrow/shape-core"
 
 export const JWT_FRESHNESS_MARGIN_MS = 10 * 60 * 1000
 

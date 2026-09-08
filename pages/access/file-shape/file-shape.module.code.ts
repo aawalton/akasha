@@ -1,6 +1,6 @@
 import type { Asked, Query } from "@akasha/pages-service/asking"
 import { askingFor } from "@akasha/pages-service/calling"
-import { textAt } from "@akasha/utils-narrow/text-at"
+import { textAt } from "@akasha/utils/narrow/text-at"
 import {
   filePropertyDefinitions,
   PAGE_TYPE,

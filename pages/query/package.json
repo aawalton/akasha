@@ -12,6 +12,6 @@
     "./store-spelling": "./store-spelling/store-spelling.module.code.ts"
   },
   "dependencies": {
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

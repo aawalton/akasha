@@ -4,7 +4,7 @@ import { companionSkills } from "@akasha/temper-companions-core/companion-skills
 import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
 import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
 import { companions } from "@akasha/temper-companions-core/companions"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 
 export const companionIds = companions.ids
 

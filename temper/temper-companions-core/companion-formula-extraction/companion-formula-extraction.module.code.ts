@@ -3,7 +3,7 @@ import type {
   EffectCondition,
   TargetType,
 } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { CompanionSkillTemplate } from "../companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type {
   CompanionEffect,

@@ -30,7 +30,7 @@ import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
 import { skillSlots } from "@akasha/temper-skill-kinds/skill-slots"
 import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 
 const classIds = classes.ids
 const raceIds = races.ids

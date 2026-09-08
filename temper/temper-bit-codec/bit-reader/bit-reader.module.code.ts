@@ -1,5 +1,5 @@
 import "@akasha/temper-eso-types/eso-functions-01"
-import { requireAt } from "@akasha/utils-narrow/require-at"
+import { requireAt } from "@akasha/utils/narrow/require-at"
 
 export interface BitReaderState {
   data: readonly number[]

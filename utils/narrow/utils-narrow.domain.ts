@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const utilsNarrow = {
   id: "01a05c94-2c03-7ab7-b93f-49a8ed498a29",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "utils-narrow",
   definition: "how a wide value is read as the narrow one it must be, or refused",
-  manifest: "json",
   partSlugs: [
     "module/shape",
     "module/shape-core",
@@ -45,4 +44,4 @@ export const utilsNarrow = {
     "module/text-at",
     "module/is-whitespace",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

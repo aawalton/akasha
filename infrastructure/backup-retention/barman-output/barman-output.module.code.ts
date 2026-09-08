@@ -1,4 +1,4 @@
-import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils/narrow/require-match-positional"
 import { z } from "zod"
 import type { KeepState } from "../keep-decision/keep-decision.module.code.ts"
 

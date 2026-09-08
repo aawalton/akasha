@@ -8,7 +8,7 @@ import {
 import { STYLE_TO_CHAPTERS } from "@akasha/temper-items-core/motif-chapter-set"
 import { parseMotifBookName } from "@akasha/temper-items-core/motif-name-parser"
 import { getRecipeResultId } from "@akasha/temper-items-core/recipe-result-id-lookup"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { RuleMatcherContext } from "../rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import {
   type CharacterId,

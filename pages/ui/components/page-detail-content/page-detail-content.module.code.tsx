@@ -14,7 +14,7 @@ import {
 } from "@akasha/pages-ui-components/page-detail-content-helpers"
 import type { ReaderNeighborLink } from "@akasha/pages-ui-components/reader-chrome"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
 import type { ReactNode } from "react"
 import { PageCollectionContent } from "../page-collection-content/page-collection-content.module.code.tsx"

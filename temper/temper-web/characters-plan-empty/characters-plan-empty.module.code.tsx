@@ -11,7 +11,7 @@ import {
 } from "@akasha/design-patterns/empty"
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { Gamepad2, Loader2 } from "lucide-react"
 import type { PlanEmptyState } from "../characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
 

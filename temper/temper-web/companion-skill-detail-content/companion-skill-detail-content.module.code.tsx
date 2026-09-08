@@ -14,7 +14,7 @@ import {
   updateDescriptionWithCalculatedValues,
 } from "@akasha/temper-companions-core/companion-skill-tooltip"
 import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
-import { capitalize } from "@akasha/utils-narrow/capitalize"
+import { capitalize } from "@akasha/utils/narrow/capitalize"
 import { ConstraintBadges } from "../constraint-badges/constraint-badges.module.code.tsx"
 import { EffectBadge } from "../effect-badge/effect-badge.module.code.tsx"
 import {

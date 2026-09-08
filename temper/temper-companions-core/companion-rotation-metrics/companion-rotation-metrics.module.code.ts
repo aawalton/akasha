@@ -1,6 +1,6 @@
 import { targetArmor } from "@akasha/temper-character-sources/target-armors"
 import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
   type CompanionMetricValue,

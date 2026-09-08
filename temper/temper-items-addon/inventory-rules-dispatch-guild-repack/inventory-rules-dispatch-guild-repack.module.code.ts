@@ -1,5 +1,5 @@
-import { requireAt } from "@akasha/utils-narrow/require-at"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireAt } from "@akasha/utils/narrow/require-at"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
 import { moveItem } from "../inventory-move-item/inventory-move-item.module.code.ts"
 import { showConfirmDialog } from "../inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"

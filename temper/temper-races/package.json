@@ -7,6 +7,6 @@
     "./races": "./races/races.module.code.ts"
   },
   "dependencies": {
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

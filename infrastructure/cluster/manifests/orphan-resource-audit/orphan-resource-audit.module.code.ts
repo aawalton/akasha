@@ -2,7 +2,7 @@ import { relative } from "node:path"
 import { discoverSynthFiles } from "@akasha/k8s-synth/synth-discovery"
 import { loadSynthOutputs } from "@akasha/k8s-synth/synth-loading"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import { parseAllDocuments } from "yaml"
 import { NAMESPACE_NAMES } from "../app-namespaces-synth/app-namespaces-synth.module.code.ts"
 import {

@@ -9,7 +9,7 @@ import { getQualityClassName } from "@akasha/temper-companions-ui/companion-qual
 import type { CompanionGearNeed } from "@akasha/temper-items-core/companion-gear-diff"
 import { needToShoppingKey } from "@akasha/temper-shopping/companion-gear-shopping-bridge"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
-import { requireGet } from "@akasha/utils-narrow/require-get"
+import { requireGet } from "@akasha/utils/narrow/require-get"
 import { useMemo, useState } from "react"
 import {
   buildBlendedPriceMap,

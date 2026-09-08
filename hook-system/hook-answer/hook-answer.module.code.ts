@@ -1,6 +1,6 @@
 import { resolve, sep } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
-import { asRecord } from "@akasha/utils-narrow/as-record"
+import { asRecord } from "@akasha/utils/narrow/as-record"
 
 export const SCOPE_FLAG = "--scope"
 

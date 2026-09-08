@@ -9,7 +9,7 @@ import {
   isNonNullObject,
   namedChild,
 } from "@akasha/temper-combat-addon/combat-ui-helpers"
-import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
+import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 
 interface LiveBlockControl extends LayoutControl {
   blocksize?: number

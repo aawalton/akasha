@@ -1,4 +1,4 @@
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 import * as ts from "typescript"
 import { createTransformationContext } from "../context-create-transformation-context/context-create-transformation-context.module.code.ts"
 import type {

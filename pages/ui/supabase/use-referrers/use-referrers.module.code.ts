@@ -7,7 +7,7 @@ import {
   type PageWithProperties,
   toPageWithProperties,
 } from "@akasha/pages-ui/supabase/page-with-properties"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import { useEffect, useMemo, useRef, useState } from "react"
 
 export interface Referrer {

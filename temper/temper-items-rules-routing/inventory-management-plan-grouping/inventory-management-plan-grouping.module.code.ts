@@ -3,7 +3,7 @@ import type {
   ActionGroup,
   PlanItem,
 } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 
 function getGroupLabel(action: ItemAction): string {
   switch (action) {

@@ -16,7 +16,7 @@ import {
 import type { RichDocument } from "@akasha/pages-core/property-types/rich-document"
 import { type EditorOp, newBlockId } from "@akasha/pages-core/property-types/rich-document-ops"
 import { flattenBlockIds } from "@akasha/pages-core/property-types/rich-document-tree"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { useCallback, useEffect, useRef, useState } from "react"
 
 interface UseBlockSelectionArgs {

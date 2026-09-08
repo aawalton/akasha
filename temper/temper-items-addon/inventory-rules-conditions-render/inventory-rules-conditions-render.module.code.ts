@@ -2,7 +2,7 @@ import { compareWithOp } from "@akasha/temper-items-rules-core/comparison-op"
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import { ALL_CATEGORIES_ID } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { resolveThreshold } from "@akasha/temper-items-rules-core/rule-constants"
-import { requireAt } from "@akasha/utils-narrow/require-at"
+import { requireAt } from "@akasha/utils/narrow/require-at"
 export interface MatchContext {
   quality: number
   itemLink: string

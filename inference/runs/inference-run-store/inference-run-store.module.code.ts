@@ -1,4 +1,4 @@
-import { JsonSchema } from "@akasha/utils-narrow/json-schema"
+import { JsonSchema } from "@akasha/utils/narrow/json-schema"
 import { z } from "zod"
 import { landRow, mergeRow } from "../generation-log/generation-log.module.code.ts"
 import {

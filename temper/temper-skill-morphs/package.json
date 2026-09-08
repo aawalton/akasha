@@ -21,6 +21,6 @@
   "dependencies": {
     "@akasha/temper-character-skills": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

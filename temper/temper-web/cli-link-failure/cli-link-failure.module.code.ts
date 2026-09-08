@@ -1,4 +1,4 @@
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 
 export type CliLinkFailure =
   | { kind: "unreachable" }

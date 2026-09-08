@@ -13,7 +13,7 @@ import { ALL_STOCKED_OPTIONS } from "@akasha/temper-items-rules-core/all-stocked
 import { KEEP_QUANTITY_OPTIONS } from "@akasha/temper-items-rules-core/keep-quantity-filter"
 import { STOCK_THRESHOLD_OPTIONS } from "@akasha/temper-items-rules-core/stock-threshold-filter"
 import { TARGET_QUANTITY_OPTIONS } from "@akasha/temper-items-rules-core/target-quantity-filter"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { ReactNode } from "react"
 import { ComparisonOpPicker } from "../comparison-op-picker/comparison-op-picker.module.code.tsx"
 import { EditableTextValue } from "../rule-card-filter-text/rule-card-filter-text.module.code.tsx"

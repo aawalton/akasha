@@ -21,7 +21,7 @@ import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
-import type { Json } from "@akasha/utils-narrow/json-value"
+import type { Json } from "@akasha/utils/narrow/json-value"
 import { Loader2 } from "lucide-react"
 import { useCallback, useEffect, useState } from "react"
 import { toast } from "sonner"

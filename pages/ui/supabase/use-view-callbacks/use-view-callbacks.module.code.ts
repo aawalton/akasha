@@ -20,9 +20,9 @@ import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { isJson } from "@akasha/utils-narrow/is-json"
-import type { Json } from "@akasha/utils-narrow/json-value"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { isJson } from "@akasha/utils/narrow/is-json"
+import type { Json } from "@akasha/utils/narrow/json-value"
 import { useCallback, useMemo } from "react"
 
 const VIEW_PAGE_TYPE_SLUG = "view"

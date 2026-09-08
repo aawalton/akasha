@@ -14,8 +14,8 @@ import { rulesToInventoryConfig } from "@akasha/temper-items-rules-core/inventor
 import type { InventoryTimestamps } from "@akasha/temper-items-rules-core/inventory-settings-types"
 import { ruleFingerprint } from "@akasha/temper-items-rules-core/rule-fingerprint"
 import { serializeLuaBlock } from "@akasha/temper-saved-variables/lua-serializer"
-import { asRecord } from "@akasha/utils-narrow/as-record"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { asRecord } from "@akasha/utils/narrow/as-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import { log } from "../watcher-logging/watcher-logging.module.code.ts"
 import type {
   ReadFiles,

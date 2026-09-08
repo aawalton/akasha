@@ -14,7 +14,7 @@ import {
   type CompanionSkillLineId,
   companionSkillLines,
 } from "@akasha/temper-companions-core/skill-lines-by-companion"
-import { requireGet } from "@akasha/utils-narrow/require-get"
+import { requireGet } from "@akasha/utils/narrow/require-get"
 import { useMemo } from "react"
 import { CompanionSkillCard } from "../companion-skill-card/companion-skill-card.module.code.tsx"
 import {

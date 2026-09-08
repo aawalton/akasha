@@ -11,7 +11,7 @@ import {
 import { useCoreDefinitionsReady } from "@akasha/pages-ui/cache/use-core-definitions-ready"
 import { createViewPipeline, type ViewResult } from "@akasha/pages-ui-store/query/view-pipeline"
 import type { UseViewQueryOptions } from "@akasha/pages-ui-store/sql/options"
-import { noOp } from "@akasha/utils-narrow/no-op"
+import { noOp } from "@akasha/utils/narrow/no-op"
 import { useMemo } from "react"
 
 export type UseViewQueryResult = {

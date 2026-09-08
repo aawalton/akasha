@@ -3,8 +3,8 @@ import type {
   CharacterCompletion,
 } from "@akasha/temper-completion/completion-record"
 import type { CompletionOverride } from "@akasha/temper-player-completion/completion-override"
-import { deleteRecordKey } from "@akasha/utils-narrow/delete-record-key"
-import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
+import { deleteRecordKey } from "@akasha/utils/narrow/delete-record-key"
+import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 import {
   ADDON_NAME,
   SAVED_VARIABLES_NAME,

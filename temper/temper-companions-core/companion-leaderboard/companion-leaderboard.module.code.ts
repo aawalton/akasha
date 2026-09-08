@@ -1,4 +1,4 @@
-import { sortedOnce } from "@akasha/utils-narrow/sorted-once"
+import { sortedOnce } from "@akasha/utils/narrow/sorted-once"
 import { companionBaseRoles } from "../companion-base-roles/companion-base-roles.module.code.ts"
 import { evaluate } from "../companion-optimizer/companion-optimizer.module.code.ts"
 import { calculateCompanionStats } from "../companion-stats-calculator/companion-stats-calculator.module.code.ts"

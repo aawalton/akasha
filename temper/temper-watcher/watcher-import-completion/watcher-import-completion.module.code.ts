@@ -16,8 +16,8 @@ import {
   mergeCharacterCompletionForward,
   mergeCompanionCompletionForward,
 } from "@akasha/temper-player-completion/completion-merge-forward"
-import { asRecord } from "@akasha/utils-narrow/as-record"
-import type { Json } from "@akasha/utils-narrow/json-value"
+import { asRecord } from "@akasha/utils/narrow/as-record"
+import type { Json } from "@akasha/utils/narrow/json-value"
 import { ACCOUNT_PAGE_TYPE_SLUG } from "../watcher-account-page/watcher-account-page.module.code.ts"
 import { log } from "../watcher-logging/watcher-logging.module.code.ts"
 import type {

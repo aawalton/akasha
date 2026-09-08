@@ -10,7 +10,7 @@ import type {
   CharacterBuildInput,
   CompletionCharacterInput,
 } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
-import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
+import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 
 function getCompletionField(completion: unknown, field: string): unknown {
   if (!isObjectRecord(completion)) return undefined

@@ -5,7 +5,7 @@
   "exports": {},
   "dependencies": {
     "@akasha/k8s-types": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "zod": "^4.3.6"
   }
 }

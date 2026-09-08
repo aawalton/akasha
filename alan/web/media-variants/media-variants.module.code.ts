@@ -12,7 +12,7 @@ import {
   STORED_READ_ALOUD_VARIANT,
 } from "@akasha/pages-ui/media/media-src"
 import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
 import { resolveReadAloudSentenceMarks } from "../read-aloud-marks/read-aloud-marks.module.code.ts"
 

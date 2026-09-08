@@ -1,5 +1,5 @@
-import { shape } from "@akasha/utils-narrow/shape"
-import type { Infer } from "@akasha/utils-narrow/shape-core"
+import { shape } from "@akasha/utils/narrow/shape"
+import type { Infer } from "@akasha/utils/narrow/shape-core"
 import { notices } from "../../compose-notices/compose-notices.module.code.ts"
 
 const LOG = "[resume-notices]"

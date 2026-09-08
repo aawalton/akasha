@@ -18,7 +18,7 @@ import {
   getRequestServerClient,
   resolveRequestSession,
 } from "@akasha/supabase-rr/request-session-cache"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import { type SentenceMark, sentenceMarkSchema } from "@akasha/voice-core/voice/mark-schema"
 import { data, type LoaderFunctionArgs } from "react-router"
 import { z } from "zod"

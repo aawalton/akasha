@@ -1,5 +1,5 @@
 import type { Skill } from "@akasha/temper-character-skills/character-skills"
-import { requireGet } from "@akasha/utils-narrow/require-get"
+import { requireGet } from "@akasha/utils/narrow/require-get"
 
 export interface MorphPair {
   baseName: string

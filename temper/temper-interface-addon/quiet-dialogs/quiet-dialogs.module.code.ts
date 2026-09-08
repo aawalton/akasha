@@ -1,4 +1,4 @@
-import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
+import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 import { isNumber, isString } from "../quiet-narrow/quiet-narrow.module.code.ts"
 import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
 

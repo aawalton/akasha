@@ -9,7 +9,7 @@ import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-w
 import { companions } from "@akasha/temper-companions-core/companions"
 import type { BuildHash, BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 
 export type ImportCompanionResult =
   | { buildId: BuildId; buildName: string }

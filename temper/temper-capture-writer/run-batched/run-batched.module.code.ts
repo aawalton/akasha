@@ -1,6 +1,6 @@
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/eso-lua-sandbox"
-import { requireAt } from "@akasha/utils-narrow/require-at"
+import { requireAt } from "@akasha/utils/narrow/require-at"
 
 interface BatchConfig<T> {
   items: T[]

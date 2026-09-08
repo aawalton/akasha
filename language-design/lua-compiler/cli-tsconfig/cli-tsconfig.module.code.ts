@@ -1,5 +1,5 @@
 import * as path from "node:path"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import * as ts from "typescript"
 import * as cliDiagnostics from "../cli-diagnostics/cli-diagnostics.module.code.ts"
 import {

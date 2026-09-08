@@ -1,5 +1,5 @@
 import * as path from "node:path"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 import * as ts from "typescript"
 import { parseConfigFileWithSystem } from "../cli-tsconfig/cli-tsconfig.module.code.ts"
 import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"

@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "@akasha/temper-trading-pricing": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

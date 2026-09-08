@@ -1,4 +1,4 @@
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { suggestClosest } from "../suggest-closest/suggest-closest.module.code.ts"
 
 export type FlagSpec =

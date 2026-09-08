@@ -5,8 +5,8 @@ import {
   type ChampionPointSource,
   championPoints,
 } from "@akasha/temper-champion-points/champion-point-source"
-import { capitalize } from "@akasha/utils-narrow/capitalize"
-import { getSubcategory } from "@akasha/utils-narrow/get-subcategory"
+import { capitalize } from "@akasha/utils/narrow/capitalize"
+import { getSubcategory } from "@akasha/utils/narrow/get-subcategory"
 import { Hammer, Shield, Swords } from "lucide-react"
 import { useMemo, useState } from "react"
 import type { FilterableSelectDialogConfig } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"

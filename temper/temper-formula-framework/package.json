@@ -37,6 +37,6 @@
   },
   "dependencies": {
     "@akasha/day": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

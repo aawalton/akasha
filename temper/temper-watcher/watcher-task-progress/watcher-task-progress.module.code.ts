@@ -3,7 +3,7 @@ import {
   type CrossCharacterReading,
   materializeCrossCharacterProgress,
 } from "@akasha/temper-player-completion/completion-progress-index"
-import { joinPath } from "@akasha/utils-narrow/join-path"
+import { joinPath } from "@akasha/utils/narrow/join-path"
 
 export type ProgressRow = {
   readonly id: string

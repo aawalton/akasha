@@ -1,5 +1,5 @@
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import { createDataFile } from "@akasha/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils/narrow/create-data-file"
 
 export interface ClassTemplate {
   id: ClassId

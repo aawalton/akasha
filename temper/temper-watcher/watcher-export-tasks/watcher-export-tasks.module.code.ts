@@ -7,7 +7,7 @@ import type { CompletionOverride } from "@akasha/temper-player-completion/comple
 import type { ParsedCompletionOverrideRow } from "@akasha/temper-player-completion/completion-override-row"
 import { parseCompletionOverrideRow } from "@akasha/temper-player-completion/completion-override-row"
 import { serializeLuaBlock } from "@akasha/temper-saved-variables/lua-serializer"
-import { stringAt } from "@akasha/utils-narrow/string-at"
+import { stringAt } from "@akasha/utils/narrow/string-at"
 import type { CharactersConfigFileInputs } from "../watcher-config-file/watcher-config-file.module.code.ts"
 import { serializeCharactersConfigFile } from "../watcher-config-file/watcher-config-file.module.code.ts"
 import { log } from "../watcher-logging/watcher-logging.module.code.ts"

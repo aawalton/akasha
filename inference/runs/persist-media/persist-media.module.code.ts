@@ -1,4 +1,4 @@
-import type { Json } from "@akasha/utils-narrow/json-value"
+import type { Json } from "@akasha/utils/narrow/json-value"
 
 export interface MediaPersistDeps {
   readonly createPage: (properties: Record<string, Json>) => Promise<string>

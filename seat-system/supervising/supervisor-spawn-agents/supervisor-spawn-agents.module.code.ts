@@ -1,4 +1,4 @@
-import { shape } from "@akasha/utils-narrow/shape"
+import { shape } from "@akasha/utils/narrow/shape"
 import {
   type Definition,
   everyKind,

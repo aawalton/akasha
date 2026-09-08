@@ -19,7 +19,7 @@ import {
   PropertyRowGhost,
   SortablePropertyRow,
 } from "@akasha/pages-ui-components/property-visibility-picker-rows"
-import { requireGet } from "@akasha/utils-narrow/require-get"
+import { requireGet } from "@akasha/utils/narrow/require-get"
 import type { DragEndEvent, DragStartEvent } from "@dnd-kit/core"
 import {
   DndContext,

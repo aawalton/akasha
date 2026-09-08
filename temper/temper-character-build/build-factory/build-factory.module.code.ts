@@ -1,6 +1,6 @@
 import { championPoints } from "@akasha/temper-champion-points/champion-point-source"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
-import { getSubcategory } from "@akasha/utils-narrow/get-subcategory"
+import { getSubcategory } from "@akasha/utils/narrow/get-subcategory"
 import type { CharacterState } from "../build-types/build-types.module.code.ts"
 
 export const createNewCharacter = (): CharacterState => ({

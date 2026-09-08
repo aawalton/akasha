@@ -14,7 +14,7 @@ import type { CompanionEffect } from "@akasha/temper-companions-core/companion-s
 import type { CompanionFormulaStats } from "@akasha/temper-companions-core/companion-skill-formula"
 import { calculateEffectValue } from "@akasha/temper-companions-core/companion-skill-tooltip"
 import { formatAbbreviated } from "@akasha/temper-formula-framework/number-format"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type {
   ArmorPieceCounts,
   BadgeVariant,

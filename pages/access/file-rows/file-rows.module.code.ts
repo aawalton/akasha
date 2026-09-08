@@ -1,5 +1,5 @@
 import { idOfFilePage, slugOfFilePage } from "@akasha/file-page-identity"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import { z } from "zod"
 import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
 import { parsePageSeq } from "../parse-page-seq/parse-page-seq.module.code.ts"

@@ -7,7 +7,7 @@ import {
   type MetricEffect,
 } from "@akasha/temper-formula-framework/effect"
 import { formatPercent } from "@akasha/temper-formula-framework/number-format"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { getMetricDisplayName, metrics } from "../metrics/metrics.module.code.ts"
 
 function resolveMetricName(metricId: string): string {

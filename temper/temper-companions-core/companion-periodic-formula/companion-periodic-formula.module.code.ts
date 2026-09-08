@@ -1,4 +1,4 @@
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { badTruncate } from "../bad-truncate/bad-truncate.module.code.ts"
 import type { CompanionFormulaStats } from "../companion-skill-formula/companion-skill-formula.module.code.ts"
 import {

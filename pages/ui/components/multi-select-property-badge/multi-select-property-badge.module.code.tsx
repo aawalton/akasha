@@ -10,7 +10,7 @@ import type { SelectOption } from "@akasha/pages-core/schema/select-option-creat
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { MultiSelectPopover } from "@akasha/pages-ui-components/multi-select-popover"
 import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
-import { requireGet } from "@akasha/utils-narrow/require-get"
+import { requireGet } from "@akasha/utils/narrow/require-get"
 
 function getOptions(definition: PropertyDefinition): readonly SelectOption[] {
   return parseConfig(multiSelectConfigSchema, definition.config, { options: [] }).options

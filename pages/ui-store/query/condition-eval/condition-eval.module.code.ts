@@ -1,7 +1,7 @@
 import { isPromotedKey, PROMOTED_COLUMN } from "@akasha/pages-access/routing-core"
 import { pageHasNonEmptyContentKey } from "@akasha/pages-core/schema/content-tier"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
-import type { Json } from "@akasha/utils-narrow/json-value"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
+import type { Json } from "@akasha/utils/narrow/json-value"
 import {
   asPageRecord,
   asRecord,

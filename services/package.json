@@ -23,7 +23,6 @@
     "@akasha/git": "workspace:*",
     "@akasha/k8s-types": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils": "workspace:*",
     "yaml": "^2.8.1"
   }

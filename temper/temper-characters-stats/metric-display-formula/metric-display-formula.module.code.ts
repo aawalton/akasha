@@ -11,8 +11,8 @@ import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
 import { formatDecimal } from "@akasha/temper-formula-framework/number-format"
 import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
 import { sourceCategories } from "@akasha/temper-formula-framework/source-category"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 import {
   getAttributeEffects,
   getConditionalChanceEffects,

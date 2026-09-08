@@ -3,7 +3,7 @@ import type {
   ItemAction,
   MoveToDestination,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type {
   PlanItem,
   VenueType,

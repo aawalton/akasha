@@ -13,7 +13,7 @@
     "@akasha/temper-player-completion-ui": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-skill-morphs": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   },
   "peerDependencies": {
     "react": "^18 || ^19"

@@ -129,7 +129,7 @@
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-ui-store": "workspace:*",
     "@akasha/pages-url": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "@akasha/voice-core": "workspace:*",
     "@akasha/web-build-version": "workspace:*",
     "@types/mdast": "^4.0.4",

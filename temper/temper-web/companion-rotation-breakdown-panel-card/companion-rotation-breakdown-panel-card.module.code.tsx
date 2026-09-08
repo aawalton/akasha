@@ -10,7 +10,7 @@ import type { CompanionFormulaStats } from "@akasha/temper-companions-core/compa
 import type { CompanionSkillSlotId } from "@akasha/temper-companions-core/companion-skill-slots"
 import type { CompanionSkillId } from "@akasha/temper-companions-core/companion-skills"
 import type { RotationResult } from "@akasha/temper-companions-core/rotation-types"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { SkillBreakdownTable } from "../companion-rotation-breakdown-table/companion-rotation-breakdown-table.module.code.tsx"
 import { getPrimaryRows } from "../companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts"
 import { deriveCompanionRotationOutcome } from "../companion-rotation-outcome/companion-rotation-outcome.module.code.ts"

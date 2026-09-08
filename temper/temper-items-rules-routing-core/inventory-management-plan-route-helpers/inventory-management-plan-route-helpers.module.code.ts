@@ -8,7 +8,7 @@ import type {
   ItemAction,
   MoveToDestination,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { VenueType } from "../inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 export function computePlanItemValue(

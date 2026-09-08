@@ -11,7 +11,7 @@ import { getWeaponSkillLineIdsForBar } from "@akasha/temper-character-skills/ski
 import type { CurseState } from "@akasha/temper-character-sources/curses"
 import type { StandardArmorWeightId } from "@akasha/temper-equipment/armor-weight-ids"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { TranslationContext } from "../pipeline-types/pipeline-types.module.code.ts"
 
 export interface PassiveEligibilityContext {

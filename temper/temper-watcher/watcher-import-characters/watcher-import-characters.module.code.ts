@@ -6,7 +6,7 @@ import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/brand
 import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
-import { asRecord } from "@akasha/utils-narrow/as-record"
+import { asRecord } from "@akasha/utils/narrow/as-record"
 import { resolveAccountPageId } from "../watcher-account-page/watcher-account-page.module.code.ts"
 import {
   type SignedInReader,

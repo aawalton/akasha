@@ -71,7 +71,7 @@
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/supabase-server": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "@akasha/voice-core": "workspace:*",
     "@akasha/web-build-version": "workspace:*",
     "@akasha/web-security-headers": "workspace:*",

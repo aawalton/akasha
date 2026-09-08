@@ -1,4 +1,4 @@
-import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
+import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 import {
   computeUnattributedMs,
   emptyNetWorthStats,

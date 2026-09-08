@@ -20,7 +20,7 @@ import {
 } from "@akasha/temper-combat-addon/combat-ui-chat-report"
 import { getCurrentFight, getSelections } from "@akasha/temper-combat-addon/combat-ui-state"
 import { updateReport } from "@akasha/temper-combat-addon/combat-ui-window"
-import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
+import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 
 function toggleShowIds(this: void): undefined {
   const db = getDb()

@@ -52,6 +52,6 @@
     "@akasha/temper-capture-writer": "workspace:*",
     "@akasha/temper-catalog-core": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

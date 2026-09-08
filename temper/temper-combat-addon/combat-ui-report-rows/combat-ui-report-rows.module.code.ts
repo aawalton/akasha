@@ -3,7 +3,7 @@ import {
   setLabelColor,
   type TooltipCarrier,
 } from "@akasha/temper-combat-addon/combat-ui-helpers"
-import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
+import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 
 interface CpPassiveControl extends Control {
   discipline?: number

@@ -20,7 +20,7 @@ import {
   type IdSuffixResult,
 } from "@akasha/pages-ui-store/query/id-suffix-pipeline"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import { useEffect, useMemo, useRef, useState } from "react"
 
 export function usePageByIdSuffix({

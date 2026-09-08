@@ -20,7 +20,7 @@ import {
 import { eternityAvailable, legacyPointsAvailable } from "@akasha/idle-system/dormancy"
 import { isUnlocked } from "@akasha/idle-system/gacha-state"
 import type { GachaState, GameState } from "@akasha/idle-system/state"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { z } from "zod"
 
 export const actionIntentSchema = z.discriminatedUnion("type", [

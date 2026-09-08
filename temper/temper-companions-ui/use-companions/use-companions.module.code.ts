@@ -19,7 +19,7 @@ import {
   companionRoles,
 } from "@akasha/temper-companions-core/companion-roles"
 import type { CompanionVisibility } from "@akasha/temper-companions-core/companion-types"
-import type { Json } from "@akasha/utils-narrow/json-value"
+import type { Json } from "@akasha/utils/narrow/json-value"
 import { useMemo } from "react"
 
 const COMPANION_BUILD_PAGE_TYPE_SLUG = "companion-build"

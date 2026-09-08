@@ -13,6 +13,6 @@
   "dependencies": {
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-player-completion": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

@@ -7,7 +7,7 @@ import {
 } from "@akasha/temper-items-core/inventory-safety-types"
 import { useSettingsBlob } from "@akasha/temper-player-inventory-management-ui/hooks-inventory-settings"
 import type { ShoppingSettings } from "@akasha/temper-shopping/shopping-settings"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import { useCallback } from "react"
 
 function isInventoryLoggingSettings(v: unknown): v is InventoryLoggingSettings {

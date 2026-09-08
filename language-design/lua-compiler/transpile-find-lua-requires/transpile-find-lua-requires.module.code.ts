@@ -1,4 +1,4 @@
-import { isWhitespace } from "@akasha/utils-narrow/is-whitespace"
+import { isWhitespace } from "@akasha/utils/narrow/is-whitespace"
 
 export interface LuaRequire {
   from: number

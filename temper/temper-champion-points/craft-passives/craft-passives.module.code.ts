@@ -1,4 +1,4 @@
-import { createDataFile } from "@akasha/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils/narrow/create-data-file"
 import type { ChampionPointTemplate } from "../champion-point-source/champion-point-source.module.code.ts"
 
 const CRAFT_PASSIVE_CHAMPION_POINTS = {

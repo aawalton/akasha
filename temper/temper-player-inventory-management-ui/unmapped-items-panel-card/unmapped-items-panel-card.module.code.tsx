@@ -5,7 +5,7 @@ import { ItemRow } from "@akasha/design-patterns/item-row"
 import { formatGold } from "@akasha/design-primitives/format-gold"
 import { Text } from "@akasha/design-primitives/text-body"
 import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { useMemo } from "react"
 import { AffectedItemsViews } from "../affected-items-views/affected-items-views.module.code.tsx"
 import {

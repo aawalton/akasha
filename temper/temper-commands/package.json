@@ -60,7 +60,6 @@
     "@akasha/temper-items-rules-eval": "workspace:*",
     "@akasha/temper-items-rules-matcher": "workspace:*",
     "@akasha/temper-items-rules-routing": "workspace:*",
-    "@akasha/temper-items-rules-routing-core": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/temper-items-rules-routing-core": "workspace:*"
   }
 }

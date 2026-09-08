@@ -5,7 +5,7 @@ import { Button } from "@akasha/design-primitives/button"
 import { Input } from "@akasha/design-primitives/input"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { capitalize } from "@akasha/utils-narrow/capitalize"
+import { capitalize } from "@akasha/utils/narrow/capitalize"
 import { Maximize2 } from "lucide-react"
 
 type AttributeKey = "magicka" | "health" | "stamina"

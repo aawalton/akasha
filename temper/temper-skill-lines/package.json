@@ -15,6 +15,6 @@
     "./world-and-guild-skill-lines": "./world-and-guild-skill-lines/world-and-guild-skill-lines.module.code.ts"
   },
   "dependencies": {
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

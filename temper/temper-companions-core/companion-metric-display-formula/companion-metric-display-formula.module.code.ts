@@ -9,7 +9,7 @@ import type {
 import { formatDecimal } from "@akasha/temper-formula-framework/number-format"
 import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
 import { sourceCategories } from "@akasha/temper-formula-framework/source-category"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { CompanionBaseRoleId } from "../companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionEffectSource } from "../companion-effect-sources/companion-effect-sources.module.code.ts"
 import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"

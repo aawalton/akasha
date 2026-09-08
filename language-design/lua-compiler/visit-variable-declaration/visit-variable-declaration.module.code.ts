@@ -1,4 +1,4 @@
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import * as ts from "typescript"
 import { validateAssignment } from "../assignment-validation/assignment-validation.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"

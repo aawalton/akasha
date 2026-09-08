@@ -3,7 +3,7 @@ import {
   PLAYER_JEWELRY_ESO_TO_TRAIT,
   PLAYER_WEAPON_ESO_TO_TRAIT,
 } from "@akasha/temper-equipment/eso-trait-map"
-import { requireAt } from "@akasha/utils-narrow/require-at"
+import { requireAt } from "@akasha/utils/narrow/require-at"
 import {
   findItemInInventory,
   isItemLinkCraftedSafe,

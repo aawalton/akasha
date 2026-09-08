@@ -9,7 +9,7 @@ import type { InventoryNode } from "@akasha/temper-items-core/inventory-node-typ
 import { buildInventoryTypeNodes } from "@akasha/temper-items-core/inventory-type-tree-builder"
 import { classifyLocation } from "@akasha/temper-items-core/location-classify"
 import { type LocationTypeId, locationTypes } from "@akasha/temper-items-core/location-type-data"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 import type { AffectedItem } from "../inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
 function toTypeEntry(affected: AffectedItem, index: number): InventoryTypeEntry {

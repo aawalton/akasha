@@ -7,8 +7,8 @@ import {
 } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
 import { updateEffectValue } from "@akasha/temper-formula-framework/effect-value-update"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { createDataFile } from "@akasha/utils-narrow/create-data-file"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { createDataFile } from "@akasha/utils/narrow/create-data-file"
 import type { ArmorItem } from "../item-composites/item-composites.module.code.ts"
 export const TEMPER_ARMOR_ENCHANTS_BY_ID = {
   "no-enchant": {

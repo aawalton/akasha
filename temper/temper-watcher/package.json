@@ -92,7 +92,6 @@
     "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
 }

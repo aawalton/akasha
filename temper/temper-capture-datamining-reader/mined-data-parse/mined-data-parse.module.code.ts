@@ -4,7 +4,7 @@ import type {
 } from "@akasha/temper-capture-datamining/datamining-payload"
 import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
-import { asRecord } from "@akasha/utils-narrow/as-record"
+import { asRecord } from "@akasha/utils/narrow/as-record"
 import type { z } from "zod"
 import {
   minedItemSchema,

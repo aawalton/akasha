@@ -5,7 +5,7 @@ import {
   type TTCListingEntry,
   type TTCListingSearchParams,
 } from "@akasha/temper-trading-pricing/ttc-listing-types"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 import { computeItemBudget } from "../ttc-budget-strategy/ttc-budget-strategy.module.code.ts"
 import type {
   ItemBudget,

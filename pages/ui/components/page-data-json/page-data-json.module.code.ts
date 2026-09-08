@@ -1,7 +1,7 @@
 import type { AggregateInput } from "@akasha/pages-core/property-types/aggregate"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import { asPageDataJSON, type PageDataJSON } from "@akasha/pages-core/types"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 
 export function toPageDataJSON(properties: Record<string, unknown> | undefined): PageDataJSON {
   if (properties == null || typeof properties !== "object" || Array.isArray(properties)) {

@@ -9,7 +9,7 @@ import type {
   RuleEvalResult,
 } from "@akasha/temper-items-rules-eval/eval-result"
 import { evaluateRule, walkRules } from "@akasha/temper-items-rules-eval/evaluator"
-import { requireAt } from "@akasha/utils-narrow/require-at"
+import { requireAt } from "@akasha/utils/narrow/require-at"
 import { buildItemFactsForLink } from "../inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
 import { buildEsoEvalEnv } from "../inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
 import {

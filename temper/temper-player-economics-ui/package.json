@@ -39,7 +39,7 @@
     "@akasha/temper-player-profile": "workspace:*",
     "@akasha/temper-shopping": "workspace:*",
     "@akasha/temper-trading-pricing": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "lucide-react": "^0.576.0",
     "zod": "^4.3.6"
   },

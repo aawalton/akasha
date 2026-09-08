@@ -15,7 +15,7 @@ import {
 } from "@akasha/temper-companions-core/companion-skill-tooltip"
 import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import { formatAbbreviated } from "@akasha/temper-formula-framework/number-format"
-import { capitalize } from "@akasha/utils-narrow/capitalize"
+import { capitalize } from "@akasha/utils/narrow/capitalize"
 import type { ReactNode } from "react"
 import { CollapsibleSkillCard } from "../collapsible-skill-card/collapsible-skill-card.module.code.tsx"
 import { ConstraintBadges } from "../constraint-badges/constraint-badges.module.code.tsx"

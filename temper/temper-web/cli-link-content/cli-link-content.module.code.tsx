@@ -4,7 +4,7 @@ import { Button } from "@akasha/design-primitives/button"
 import { cn } from "@akasha/design-primitives/cn"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { SurfaceProvider, useSurface } from "@akasha/design-primitives/surface-provider"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import { useCallback, useState } from "react"
 import {
   type CliLinkFailure,

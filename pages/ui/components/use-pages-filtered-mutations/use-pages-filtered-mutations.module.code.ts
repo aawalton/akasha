@@ -10,7 +10,7 @@ import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-pro
 import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import type { Json } from "@akasha/utils-narrow/json-value"
+import type { Json } from "@akasha/utils/narrow/json-value"
 import { useCallback } from "react"
 
 export interface PagesFilteredMutations {

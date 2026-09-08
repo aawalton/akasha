@@ -18,7 +18,7 @@
     "spotify-auth": "./auth-cli/spotify-auth-cli.module.code.ts"
   },
   "dependencies": {
-    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "zod": "^4.3.6"
   }
 }

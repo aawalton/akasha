@@ -32,7 +32,7 @@
     "@akasha/temper-items-rules-eval": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-skill-morphs-access": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "fast-check": "^4.5.3"
   }
 }

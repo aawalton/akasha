@@ -12,7 +12,7 @@
   "dependencies": {
     "@akasha/temper-capture-host": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "zod": "^4.3.6"
   }
 }

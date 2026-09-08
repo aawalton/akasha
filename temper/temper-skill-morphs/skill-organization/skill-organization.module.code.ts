@@ -6,7 +6,7 @@ import {
 } from "@akasha/temper-character-skills/skill-line-queries"
 import { skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
-import { requireGet } from "@akasha/utils-narrow/require-get"
+import { requireGet } from "@akasha/utils/narrow/require-get"
 import { groupSkillsIntoMorphPairs, type MorphPair } from "../morph-pair/morph-pair.module.code.ts"
 
 interface SkillLineData {

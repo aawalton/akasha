@@ -12,6 +12,6 @@
     "@akasha/temper-capture-descriptor": "workspace:*",
     "@akasha/temper-capture-perf": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

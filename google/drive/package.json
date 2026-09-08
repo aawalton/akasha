@@ -13,7 +13,7 @@
     "@akasha/google-oauth": "workspace:*",
     "@googleapis/drive": "^20.2.0",
     "@akasha/errors-core": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "zod": "^4.3.6"
   }
 }

@@ -21,6 +21,6 @@
   "dependencies": {
     "@akasha/temper-characters-equipment": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

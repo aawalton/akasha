@@ -45,6 +45,6 @@
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-items-rules-core": "workspace:*",
     "@akasha/temper-items-rules-eval": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

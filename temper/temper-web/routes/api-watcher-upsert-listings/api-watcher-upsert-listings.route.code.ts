@@ -1,4 +1,4 @@
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import { validateWatcherToken } from "../../../temper-watcher/watcher-token-check/watcher-token-check.module.code.ts"
 
 const MAX_LISTINGS_PER_REQUEST = 100

@@ -5,7 +5,7 @@ import type {
   TaskData,
 } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
-import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
+import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 
 export interface CharactersConfigView {
   characterPriority: SavedVariablesData["characterPriority"] | readonly string[]

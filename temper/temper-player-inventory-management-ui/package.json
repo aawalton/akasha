@@ -36,7 +36,7 @@
     "@akasha/temper-player-profile": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-trading-pricing": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "class-variance-authority": "^0.7.1",
     "lucide-react": "^0.576.0",
     "sonner": "^2.0.7"

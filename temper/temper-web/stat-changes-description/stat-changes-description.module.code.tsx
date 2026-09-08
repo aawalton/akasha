@@ -4,7 +4,7 @@ import {
   type BuffOrDebuffId,
   buffOrDebuff,
 } from "@akasha/temper-formula-framework/buff-or-debuff-source"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { Minus, Plus, TrendingDown, TrendingUp } from "lucide-react"
 
 export interface StatChangeNotification {

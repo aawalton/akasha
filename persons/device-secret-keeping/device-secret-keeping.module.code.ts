@@ -9,7 +9,7 @@ import {
   type Sleeper,
   writingFor,
 } from "@akasha/pages-service/calling"
-import { textAt } from "@akasha/utils-narrow/text-at"
+import { textAt } from "@akasha/utils/narrow/text-at"
 import {
   DEVICE_SECRET_PREFIX,
   hasDeviceSecretShape,

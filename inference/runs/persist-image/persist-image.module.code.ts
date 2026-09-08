@@ -2,7 +2,7 @@ import { OperationalError } from "@akasha/errors-core/exit-code"
 import { imageObjectKey } from "@akasha/object-store/object-store-key"
 import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import { coverUrl } from "@akasha/pages-url/cover-url"
-import type { Json } from "@akasha/utils-narrow/json-value"
+import type { Json } from "@akasha/utils/narrow/json-value"
 import { landRow, mergeRow } from "../generation-log/generation-log.module.code.ts"
 import type { InferenceRunRecord } from "../inference-run-record/inference-run-record.module.code.ts"
 import {

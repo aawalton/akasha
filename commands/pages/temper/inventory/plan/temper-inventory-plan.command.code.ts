@@ -13,7 +13,7 @@ import type {
   PlanItem,
   VenueStop,
 } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { CharacterKnowledge } from "../../../../../temper/temper-commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   capacityFilter,

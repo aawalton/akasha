@@ -31,7 +31,7 @@ import "../housing-visit-cards-render/housing-visit-cards-render.module.code.ts"
 import "../housing-visit-cards-view/housing-visit-cards-view.module.code.ts"
 import "../housing-window-controls/housing-window-controls.module.code.ts"
 
-import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
+import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 import { buildHouseTab } from "../housing-build-house-tab/housing-build-house-tab.module.code.ts"
 import { buildLibraryTab } from "../housing-build-library-tab/housing-build-library-tab.module.code.ts"
 import { buildMyHousesTab } from "../housing-build-my-houses-tab/housing-build-my-houses-tab.module.code.ts"

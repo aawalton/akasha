@@ -9,7 +9,7 @@ import { BATCH_DELAY, BATCH_SIZE } from "@akasha/temper-catalog-core/batch-confi
 import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
 import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import { requireNumericKey } from "@akasha/temper-narrow/require-numeric-key"
-import { requireDefined } from "@akasha/utils-narrow/require-defined"
+import { requireDefined } from "@akasha/utils/narrow/require-defined"
 
 export interface CollectibleWorkItem {
   categoryIndex: number

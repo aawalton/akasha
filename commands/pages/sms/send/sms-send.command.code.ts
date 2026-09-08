@@ -7,7 +7,7 @@ import {
   told,
 } from "@akasha/command-system/command-answering"
 import { wordFilling } from "@akasha/command-system/command-filling"
-import { requireEnv } from "@akasha/utils-narrow/require-env"
+import { requireEnv } from "@akasha/utils/narrow/require-env"
 import {
   JSON_SAID,
   proseIn,

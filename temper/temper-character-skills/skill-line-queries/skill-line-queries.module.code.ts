@@ -11,7 +11,7 @@ import {
   type SkillLineId,
   skillLines,
 } from "@akasha/temper-skill-lines/skill-lines"
-import { requireGet } from "@akasha/utils-narrow/require-get"
+import { requireGet } from "@akasha/utils/narrow/require-get"
 import type { Skill } from "../character-skills/character-skills.module.code.ts"
 import { findSkillById } from "../find-skill-by-id/find-skill-by-id.module.code.ts"
 import type {

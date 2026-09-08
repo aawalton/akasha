@@ -40,7 +40,7 @@
     "@akasha/errors-core": "workspace:*",
     "@akasha/object-store": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",
     "isbot": "^5.1.36",
     "lucide-react": "^0.576.0",

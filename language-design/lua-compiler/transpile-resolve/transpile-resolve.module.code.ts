@@ -1,6 +1,6 @@
 import * as fs from "node:fs"
 import * as path from "node:path"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import * as resolve from "enhanced-resolve"
 import picomatch from "picomatch"
 import * as ts from "typescript"

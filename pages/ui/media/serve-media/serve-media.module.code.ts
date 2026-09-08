@@ -7,7 +7,7 @@ import { getPage } from "@akasha/pages-access/get"
 import { getMediaPageTypeSlugs } from "@akasha/pages-access/page-type-config"
 import { isMedium, MEDIA_FORMATS } from "@akasha/pages-core/media-formats"
 import { mediaTokenSecret, verifyMediaToken } from "@akasha/pages-ui/media/media-token"
-import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils/narrow/require-match-positional"
 import { z } from "zod"
 
 export const MEDIA_RANGE_CAP_BYTES = 8 * 1024 * 1024

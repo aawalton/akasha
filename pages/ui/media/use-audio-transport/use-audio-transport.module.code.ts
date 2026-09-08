@@ -9,7 +9,7 @@ import {
   type EnsureRenditionFn,
   useWebKitReadAloudDivert,
 } from "@akasha/pages-ui/media/use-webkit-read-aloud-ensure"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { useCallback, useEffect, useState } from "react"
 
 type NativeTransport = ReturnType<typeof useNativeTtsTransport>

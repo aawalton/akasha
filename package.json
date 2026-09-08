@@ -45,7 +45,6 @@
     "@akasha/temper-saved-vars-migration": "workspace:*",
     "@akasha/temper-watcher": "workspace:*",
     "@akasha/utils": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
     "@googleapis/calendar": "^15.0.0",
     "@googleapis/drive": "^20.2.0",
     "@googleapis/gmail": "^17.0.0",

@@ -1,6 +1,6 @@
 import { readdir, readFile, stat } from "node:fs/promises"
 import { join } from "node:path"
-import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils/narrow/require-match-positional"
 import { z } from "zod"
 import type { InstalledAddon } from "../addon-update-plan/addon-update-plan.module.code.ts"
 

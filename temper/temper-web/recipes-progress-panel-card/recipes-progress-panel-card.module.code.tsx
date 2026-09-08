@@ -13,8 +13,8 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
-import { requireGet } from "@akasha/utils-narrow/require-get"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
+import { requireGet } from "@akasha/utils/narrow/require-get"
 
 interface RecipesProgressPanelCardProps {
   id?: CharacterCardId

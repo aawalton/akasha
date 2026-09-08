@@ -7,7 +7,7 @@ import {
   applyDestinationCapacityFilterWithAudit,
 } from "@akasha/temper-items-rules-routing/inventory-management-plan-capacity-filter"
 import { formatPlanChecklist } from "@akasha/temper-items-rules-routing/inventory-plan-checklist"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { loadTemperCharactersFromPath } from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   loadTemperInventoryConfigFromPath,

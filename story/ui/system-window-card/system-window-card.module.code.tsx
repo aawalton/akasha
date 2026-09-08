@@ -7,7 +7,7 @@ import type {
   SystemWindow,
   TalentActivation,
 } from "@akasha/story-engine-core/system-window-schema"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import {
   type SubmitPlayerAction,
   SystemChoiceCard,

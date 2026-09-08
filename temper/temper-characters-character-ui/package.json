@@ -11,7 +11,7 @@
     "@akasha/temper-build-metadata": "workspace:*",
     "@akasha/temper-character-build": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   },
   "peerDependencies": {
     "react": "^18 || ^19"

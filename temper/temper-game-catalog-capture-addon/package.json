@@ -37,6 +37,6 @@
     "@akasha/temper-catalog-core": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*",
     "@akasha/temper-narrow": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

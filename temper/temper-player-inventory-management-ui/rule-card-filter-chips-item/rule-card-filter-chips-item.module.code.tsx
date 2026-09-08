@@ -1,6 +1,6 @@
 "use client"
 
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { ReactNode } from "react"
 import type { RuleCardFilterChipItemProps } from "../rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
 import { ItemFlagChip } from "../rule-card-filter-chips-item-flags/rule-card-filter-chips-item-flags.module.code.tsx"

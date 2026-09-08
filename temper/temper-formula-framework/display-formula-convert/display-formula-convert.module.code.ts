@@ -1,4 +1,4 @@
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 import type { DisplayFormulaNode } from "../display-formula-node/display-formula-node.module.code.ts"
 
 export interface DisplayResult {

@@ -4,7 +4,7 @@ import "@akasha/temper-eso-types/eso-functions-02"
 import "@akasha/temper-eso-types/eso-functions-07"
 import "@akasha/temper-eso-types/eso-functions-08"
 import "@akasha/temper-eso-types/lua-language-extensions"
-import { requireAt } from "@akasha/utils-narrow/require-at"
+import { requireAt } from "@akasha/utils/narrow/require-at"
 import { ARMOR_SLOTS, JEWELRY_SLOTS } from "../companions-codec/companions-codec.module.code.ts"
 import { decodeCompanionBuild } from "../companions-decoder/companions-decoder.module.code.ts"
 import {

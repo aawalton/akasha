@@ -96,7 +96,7 @@
     "@akasha/temper-skill-morphs": "workspace:*",
     "@akasha/temper-skill-morphs-access": "workspace:*",
     "@akasha/temper-skill-point-finder": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "fast-check": "^4.5.3"
   }
 }

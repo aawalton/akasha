@@ -1,4 +1,4 @@
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { badTruncate } from "../bad-truncate/bad-truncate.module.code.ts"
 import type { CompanionEffectSource } from "../companion-effect-sources/companion-effect-sources.module.code.ts"
 import type {

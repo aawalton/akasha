@@ -18,7 +18,7 @@ import {
   TITLE_COLUMN_ID,
 } from "@akasha/pages-ui-components/page-table-shared"
 import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 
 const TIME_REGEX = /^([01]\d|2[0-3]):[0-5]\d$/
 

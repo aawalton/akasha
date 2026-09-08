@@ -7,7 +7,7 @@ import {
 } from "@akasha/temper-character-sources/food-or-drink-source"
 import { convertIconPathToUrl } from "@akasha/temper-characters-equipment/get-equipment-icon"
 import { EquipmentIcon } from "@akasha/temper-characters-equipment-ui/equipment-icon"
-import { getSubcategory } from "@akasha/utils-narrow/get-subcategory"
+import { getSubcategory } from "@akasha/utils/narrow/get-subcategory"
 import { useMemo } from "react"
 import {
   FilterableSelectDialog,

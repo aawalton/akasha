@@ -1,6 +1,6 @@
 import type { Asked } from "@akasha/pages-service/asking"
 import { askingFor } from "@akasha/pages-service/calling"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import {
   fileBackedPageTypes,
   RosterUnreachable,

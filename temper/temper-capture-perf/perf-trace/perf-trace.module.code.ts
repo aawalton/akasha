@@ -2,7 +2,7 @@ import "@akasha/temper-eso-types/eso-event-manager"
 import "@akasha/temper-eso-types/eso-events"
 import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-globals"
-import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
+import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 
 export function startPerfTrace(): number {
   return GetGameTimeMilliseconds()

@@ -3,7 +3,7 @@ import { git } from "@akasha/git/git-capping"
 import { secretAt } from "@akasha/pages/page-file-name"
 import { type Secrets, secretsIn } from "@akasha/pages/page-secret"
 import { textAt, type Value, valueAt } from "@akasha/pages/page-value"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import { parseAllDocuments, stringify } from "yaml"
 import {
   type Plan,

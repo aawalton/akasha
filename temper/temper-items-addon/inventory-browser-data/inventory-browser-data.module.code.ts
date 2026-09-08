@@ -4,7 +4,7 @@ import {
   getLocationDisplayName,
 } from "@akasha/temper-items-core/location-classify"
 import type { LocationTypeId } from "@akasha/temper-items-core/location-type-data"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type {
   BrowserRow,
   FixedLocationViewId,

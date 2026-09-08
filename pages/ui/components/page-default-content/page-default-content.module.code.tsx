@@ -19,7 +19,7 @@ import {
   ToggleSection,
 } from "@akasha/pages-ui-components/page-detail-sections"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import { PageCover } from "../page-cover/page-cover.module.code.tsx"
 import { PageDetailProperties } from "../page-detail-properties/page-detail-properties.module.code.tsx"
 import { PageDetailReferrers } from "../page-detail-referrers/page-detail-referrers.module.code.tsx"

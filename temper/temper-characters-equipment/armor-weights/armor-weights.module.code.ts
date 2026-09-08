@@ -8,8 +8,8 @@ import {
   resolveQuality,
 } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { createDataFile, type DataFile } from "@akasha/utils/narrow/create-data-file"
 import {
   calculateNirnhonedValue,
   calculateReinforcedValue,

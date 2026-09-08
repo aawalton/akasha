@@ -19,7 +19,7 @@ import {
   resolveWdaLocalPort,
   WDA_LOCAL_PORT_ENV,
 } from "@akasha/mobile-cli/sim-session"
-import { optionalEnv } from "@akasha/utils-narrow/require-env"
+import { optionalEnv } from "@akasha/utils/narrow/require-env"
 import { z } from "zod"
 import {
   APP_SAID,

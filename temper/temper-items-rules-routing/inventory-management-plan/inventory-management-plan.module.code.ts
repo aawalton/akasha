@@ -9,7 +9,7 @@ import type {
   CharacterSession,
   ManagementPlan,
 } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
-import { requireGet } from "@akasha/utils-narrow/require-get"
+import { requireGet } from "@akasha/utils/narrow/require-get"
 import {
   BUY_CHARACTER_ID,
   BUY_CHARACTER_NAME,

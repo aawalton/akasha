@@ -7,7 +7,7 @@ import type {
   ViewSort,
 } from "@akasha/pages-core/schema/view-data"
 import { GROUP_GRANULARITIES } from "@akasha/pages-core/schema/view-data"
-import { isRecord } from "@akasha/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import { z } from "zod"
 
 const Q_MAX_LEN = 200

@@ -1,5 +1,5 @@
 import { READER_PROSE_TYPOGRAPHY } from "@akasha/pages-ui-components/reader-typography"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { ReactNode } from "react"
 import type { ClientProseSegment } from "../client-story-session/client-story-session.module.code.ts"
 import { SystemCard, UnavailableSystemCard } from "../system-card/system-card.module.code.tsx"

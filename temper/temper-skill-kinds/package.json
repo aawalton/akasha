@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "@akasha/temper-formula-framework": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

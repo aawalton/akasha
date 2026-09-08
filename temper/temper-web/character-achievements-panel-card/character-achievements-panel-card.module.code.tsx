@@ -18,7 +18,7 @@ import {
   type CompletionSortMode,
   createNodeFilter,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 
 interface CharacterAchievementsPanelCardProps {
   id?: CharacterCardId

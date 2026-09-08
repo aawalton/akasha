@@ -10,7 +10,7 @@ import {
   type ItemKey,
   type UseDestinationContext,
 } from "@akasha/temper-items-rules-core/use-destination-types"
-import { asObjectRecord } from "@akasha/utils-narrow/as-object-record"
+import { asObjectRecord } from "@akasha/utils/narrow/as-object-record"
 import { buildCompiledCharacterPriority } from "../inventory-character-priority/inventory-character-priority.module.code.ts"
 import { getCompiledConfig } from "../inventory-rules-core/inventory-rules-core.module.code.ts"
 import {

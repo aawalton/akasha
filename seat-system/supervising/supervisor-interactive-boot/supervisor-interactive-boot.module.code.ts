@@ -25,7 +25,7 @@ import {
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
 } from "@akasha/seat-system/supervisor-state"
-import { shape } from "@akasha/utils-narrow/shape"
+import { shape } from "@akasha/utils/narrow/shape"
 import { toolRestrictions } from "../../tool-access/tool-access.module.code.ts"
 import type {
   InteractiveBootArgs,

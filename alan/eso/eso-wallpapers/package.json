@@ -7,7 +7,7 @@
     "./eso-wallpaper-download": "./eso-wallpaper-download/eso-wallpaper-download.module.code.ts"
   },
   "dependencies": {
-    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils": "workspace:*",
     "zod": "^4.3.6"
   }
 }

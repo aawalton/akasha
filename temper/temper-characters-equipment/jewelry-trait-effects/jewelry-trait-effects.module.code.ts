@@ -7,7 +7,7 @@ import {
   resolveQuality,
 } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { JewelryItem } from "../item-composites/item-composites.module.code.ts"
 
 function calculateBloodthirstyValue(maxValue: number, targetHealth: number): number {
