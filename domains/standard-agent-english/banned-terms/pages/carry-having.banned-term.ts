@@ -7,4 +7,10 @@ export const carryHaving = {
   spelling: "carry",
   definition: "having something",
   instead: "have",
+  replacementPatterns: [
+    { "fromPattern": "carries [object]", "toPattern": "has [object]" },
+    { "fromPattern": "carry [object]", "toPattern": "have [object]" },
+    { "fromPattern": "carrying [object]", "toPattern": "with [object]" },
+    { "fromPattern": "is carried in [place]", "toPattern": "is in [place]" },
+  ],
 } as const satisfies BannedTerm
