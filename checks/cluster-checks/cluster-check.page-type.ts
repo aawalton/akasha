@@ -114,6 +114,7 @@ export const clusterCheck = {
     "module/scanner-registry",
     "module/tstl-source-paths",
     "module/ts-tstl-property-callback-self",
+    "module/check-tstl-property-callback-self",
   ],
   properties: [
     {
