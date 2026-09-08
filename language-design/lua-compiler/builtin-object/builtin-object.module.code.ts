@@ -45,6 +45,7 @@ export function transformObjectConstructorCall(
       return transformLuaLibFunction(context, LuaLibFeature.ObjectValues, node, ...args)
     default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "Object", methodName))
+      return undefined
   }
 }
 
@@ -79,5 +80,7 @@ export function tryTransformObjectPrototypeCall(
         node
       )
     }
+    default:
+      return undefined
   }
 }
