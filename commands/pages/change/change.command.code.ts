@@ -45,12 +45,12 @@ import {
   helpOf,
 } from "../../../command-system/calling/calling.module.code.ts"
 import {
-  DROP_LINE,
-  droppedPathsIn,
+  DROP_WORDS,
   dropping,
   forgetting,
   listing,
   NO_PAGE,
+  pipedPathsIn,
   saidOf,
   taking,
   waitingSaid,
@@ -111,9 +111,10 @@ const FORGET = "forget"
 
 const HANDED_TAKES = "the act naming what each subagent handed to this agent"
 
-const TAKE_TAKES = "the act taking one subagent's handed edits into this agent's own"
+const TAKE_TAKES =
+  "the act taking one subagent's handed edits into this agent's own, at the paths named or all"
 
-const FORGET_TAKES = "the act taking away one subagent's handed edits"
+const FORGET_TAKES = "the act taking away one subagent's handed edits, at the paths named or all"
 
 const NO_ARGUMENTS =
   "a change reads its arguments from standard input, and this call piped nothing in"
@@ -336,12 +337,12 @@ function keptSaid(page: string): string {
   return `the edits are kept at ${keptAt(page) ?? ""}, ${KEPT}`
 }
 
-const DROP_ON_LINE = `is said on the command line, and ${DROP_LINE}`
+const DROP_ON_LINE = `is said on the command line, and ${DROP_WORDS.line}`
 
 function dropped(root: string, page: string, argv: readonly string[], piping: Piping): Answer {
   const said = argv[0]
   if (said !== undefined) return mistaking([`\`${said}\` ${DROP_ON_LINE}`])
-  const piped = droppedPathsIn(piping)
+  const piped = pipedPathsIn(piping, DROP_WORDS)
   if (typeof piped === "string") return mistaking([piped])
   return dropping(root, page, piped)
 }
@@ -362,8 +363,8 @@ export async function changing(
     return mistaking([`no change is named, and this runs one of ${runsSaid(world)}`, DROP_SAID])
   }
   if (slug === HANDED) return listing(root, page)
-  if (slug === TAKE) return taking(root, page, argv[1])
-  if (slug === FORGET) return forgetting(root, page, argv[1])
+  if (slug === TAKE) return taking(root, page, argv[1], piping)
+  if (slug === FORGET) return forgetting(root, page, argv[1], piping)
   if (slug === DROP) return dropped(root, page, argv.slice(1), piping)
   const unknown = unknownIn(argv.slice(1), BARE, BARE)
   if (unknown.length > 0) return mistaking(unknown)

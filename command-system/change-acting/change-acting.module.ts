@@ -21,15 +21,32 @@ export const changeActing = {
     },
     {
       invariantKind: "departure",
-      statement: "A drop naming paths reads each path against the repository root.",
+      statement: "One reading of the lines piped in serves every act that names paths.",
     },
     {
       invariantKind: "departure",
-      statement: "A drop naming paths leaves every edit no path named.",
+      statement: "An act words its own refusals rather than borrowing another act's words.",
     },
     {
       invariantKind: "departure",
-      statement: "A path naming no edit kept refuses the drop rather than being passed over.",
+      statement: "An act naming paths reads each path against the repository root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An act naming paths leaves every edit no path named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An act piping nothing in is refused rather than reaching every edit.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path naming no edit an act reaches refuses that act rather than being passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop reaches the edits kept, and a take and a forget the edits handed over.",
     },
     {
       invariantKind: "departure",

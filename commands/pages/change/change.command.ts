@@ -38,9 +38,12 @@ export const change = {
     "a drop naming paths says how many edits are still kept.",
     "a drop names each edit that went, because nothing puts a dropped edit back.",
     "`handed` names each subagent that handed edits over, and how many edits each one handed.",
-    "`take <subagent>` moves one subagent's handed edits into this agent's own.",
+    "`take <subagent>` moves one subagent's handed edits into this agent's own, at the paths piped in.",
+    "`forget <subagent>` takes one subagent's handed edits away, at the paths piped in the same way.",
+    "a take or a forget reaches every handed edit only where `all: true` is piped in, and refuses a bare call.",
+    "a take or a forget naming paths moves the edits at those paths and leaves the rest handed over.",
+    "a path naming no edit that subagent handed over refuses the take or the forget, and moves nothing.",
     "a take that would not fold is refused, and leaves both sets where those sets were.",
-    "`forget <subagent>` takes one subagent's handed edits away.",
     "no check runs over the change, and an apply judges the edits kept as that apply lands them.",
     "a change is refused where its writer has not read what the change writes, before anything is appended.",
   ],
@@ -275,7 +278,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "`take` folds one subagent's handed edits into the edits this agent keeps.",
+      statement: "`take` folds the handed edits it names into the edits this agent keeps.",
     },
     {
       invariantKind: "departure",
@@ -287,7 +290,23 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "`forget` takes one subagent's handed edits away and names each edit that went.",
+      statement: "`forget` takes the handed edits it names away and names each edit that went.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take or a forget piping nothing in is refused rather than moving every edit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take or a forget saying `all: true` moves every edit that subagent handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take or a forget naming paths moves the handed edits at those paths.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take or a forget leaves handed over every edit no path named.",
     },
     {
       invariantKind: "departure",

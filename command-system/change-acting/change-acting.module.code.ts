@@ -21,9 +21,9 @@ const DROPPED = "these edits are gone, and no apply lands them"
 
 const NOTHING_KEPT = "no edits are kept beside this agent's page, so nothing went"
 
-const NO_KEPT_EDIT = "names no edit kept beside this agent's page, so nothing went"
-
 const STILL_KEPT = "edit(s) are still kept beside this agent's page"
+
+const STILL_HANDED = "edit(s) are still handed over by this subagent"
 
 const NONE_HANDED = "no subagent has handed edits to this agent"
 
@@ -51,59 +51,114 @@ const AT = "at"
 
 const ALL = "all"
 
-export const DROP_LINE = "a drop names each path on a line of its own, written `at` and the path"
+export type Words = {
+  readonly line: string
+  readonly names: string
+  readonly piped: string
+  readonly both: string
+  readonly value: string
+  readonly missing: string
+}
 
-const DROP_NAMES_NOTHING = `the lines piped in name no path, and ${DROP_LINE}`
+function wording(one: {
+  readonly said: string
+  readonly every: string
+  readonly all: string
+  readonly toDo: string
+  readonly missing: string
+}): Words {
+  const line = `a ${one.said} names each path on a line of its own, written \`at\` and the path`
+  const every = `a ${one.said} ${one.every} only where the lines piped in say \`all: true\``
+  return {
+    line,
+    names: `the lines piped in name no path, and ${line}`,
+    piped: `this call piped nothing in, and ${every}`,
+    both: `\`all: true\` ${one.all}, and \`at\` names one, so the two together are refused`,
+    value: `\`all\` takes \`true\` to ${one.toDo}, and no other value`,
+    missing: one.missing,
+  }
+}
 
-const DROP_ALL_LINE = "a drop takes every edit away only where the lines piped in say `all: true`"
+const HANDED_OVER = "every edit that subagent handed over"
 
-const DROP_PIPED_NOTHING = `this call piped nothing in, and ${DROP_ALL_LINE}`
+const HANDED_NAMES_NONE = "names no edit this subagent handed over"
 
-const DROP_ALL_AND_PATH =
-  "`all: true` takes away every edit kept, and `at` names one, so the two together are refused"
+export const DROP_WORDS = wording({
+  said: "drop",
+  every: "takes every edit away",
+  all: "takes away every edit kept",
+  toDo: "take away every edit kept",
+  missing: "names no edit kept beside this agent's page, so nothing went",
+})
 
-const DROP_ALL_TAKES = "`all` takes `true` to take away every edit kept, and no other value"
+const TAKE_WORDS = wording({
+  said: "take",
+  every: `takes ${HANDED_OVER}`,
+  all: `takes ${HANDED_OVER}`,
+  toDo: `take ${HANDED_OVER}`,
+  missing: `${HANDED_NAMES_NONE}, so nothing was taken`,
+})
 
-export function droppedIn(said: string): readonly string[] | string {
+const FORGET_WORDS = wording({
+  said: "forget",
+  every: `takes away ${HANDED_OVER}`,
+  all: `takes away ${HANDED_OVER}`,
+  toDo: `take away ${HANDED_OVER}`,
+  missing: `${HANDED_NAMES_NONE}, so nothing went`,
+})
+
+function pathsSaid(said: string, of: Words): readonly string[] | string {
   const held: string[] = []
   let all = false
   for (const line of said.split("\n")) {
     const one = line.trim()
     if (one === "") continue
     if (one.startsWith(`${ALL}:`)) {
-      if (one.slice(ALL.length + 1).trim() !== "true") return DROP_ALL_TAKES
+      if (one.slice(ALL.length + 1).trim() !== "true") return of.value
       all = true
       continue
     }
     const path = one.startsWith(`${AT}:`) ? one.slice(AT.length + 1).trim() : ""
-    if (path === "") return `\`${one}\` names no path, and ${DROP_LINE}`
+    if (path === "") return `\`${one}\` names no path, and ${of.line}`
     held.push(path)
   }
-  if (all) return held.length === 0 ? [] : DROP_ALL_AND_PATH
-  return held.length === 0 ? DROP_NAMES_NOTHING : held
+  if (all) return held.length === 0 ? [] : of.both
+  return held.length === 0 ? of.names : held
 }
 
-export function droppedPathsIn(piping: Piping): readonly string[] | string {
+export function pipedPathsIn(piping: Piping, of: Words): readonly string[] | string {
   const held = piping()
   if ("unreadable" in held && held.part === true) return held.unreadable
-  if (!("bytes" in held) || held.bytes.byteLength === 0) return DROP_PIPED_NOTHING
-  return droppedIn(new TextDecoder().decode(held.bytes))
+  if (!("bytes" in held) || held.bytes.byteLength === 0) return of.piped
+  return pathsSaid(new TextDecoder().decode(held.bytes), of)
 }
 
-export function dropping(root: string, page: string, said: readonly string[]): Answer {
+function rootedAt(root: string, said: readonly string[]): readonly string[] | string {
   const at: string[] = []
   for (const one of said) {
     const path = pathAt(root, one)
-    if (path === null) return mistaking([offRepo(one)])
+    if (path === null) return offRepo(one)
     at.push(path)
   }
+  return at
+}
+
+function missedIn(at: readonly string[], went: readonly Stated[], of: Words): readonly string[] {
+  return at
+    .filter((one) => !went.some((edit) => namedIn(edit, [one])))
+    .map((one) => `\`${one}\` ${of.missing}`)
+}
+
+export function dropping(root: string, page: string, said: readonly string[]): Answer {
+  const at = rootedAt(root, said)
+  if (typeof at === "string") return mistaking([at])
   let answer: Answer = { report: [NOTHING_KEPT], refusals: [], code: 0 }
   const dropped = keptEdits(root, page, (had) => {
     const bare = at.length === 0
     const went = bare ? had : had.filter((one) => namedIn(one, at))
-    const missed = at.filter((one) => !went.some((edit) => namedIn(edit, [one])))
+    const missed = missedIn(at, went, DROP_WORDS)
     if (missed.length > 0) {
-      answer = mistaking(missed.map((one) => `\`${one}\` ${NO_KEPT_EDIT}`))
+      answer = mistaking(missed)
       return had
     }
     if (went.length === 0) return null
@@ -135,35 +190,79 @@ export function listing(root: string, page: string): Answer {
   return { report: [...said, HANDED_LANDS], refusals: [], code: 0 }
 }
 
-export function taking(root: string, page: string, under: string | undefined): Answer {
+type Held = {
+  readonly at: string
+  readonly rows: readonly Stated[]
+  readonly went: readonly Stated[]
+}
+
+function handedFor(
+  root: string,
+  page: string,
+  under: string | undefined,
+  piping: Piping,
+  of: Words
+): Held | Answer {
   if (under === undefined) return mistaking([NO_SUBAGENT])
+  const piped = pipedPathsIn(piping, of)
+  if (typeof piped === "string") return mistaking([piped])
   const at = heldFor(root, page, under)
   if (at === null) return { report: [NONE_HANDED], refusals: [], code: 0 }
   const held = editsIn(root, at)
   if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
   if (held.rows.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
+  const named = rootedAt(root, piped)
+  if (typeof named === "string") return mistaking([named])
+  const went = named.length === 0 ? held.rows : held.rows.filter((one) => namedIn(one, named))
+  const missed = missedIn(named, went, of)
+  return missed.length > 0 ? mistaking(missed) : { at, rows: held.rows, went }
+}
+
+function leftSaid(held: Held): readonly string[] {
+  const left = held.rows.length - held.went.length
+  return left === 0 ? [] : [`${String(left)} ${STILL_HANDED}`]
+}
+
+function sweptOf(root: string, held: Held): undefined {
+  const left = held.rows.filter((one) => !held.went.includes(one))
+  if (left.length === 0) return droppedAll(root, held.at)
+  keptEdits(root, held.at, () => left)
+}
+
+export function taking(
+  root: string,
+  page: string,
+  under: string | undefined,
+  piping: Piping
+): Answer {
+  const held = handedFor(root, page, under, piping, TAKE_WORDS)
+  if (!("went" in held)) return held
+  const went = held.went
   let answer: Answer = mistaking([NO_PAGE])
   const kept = keptEdits(root, page, (had) => {
-    const after = replayed({ edits: [...had, ...held.rows], refused: null }, bodyIn(root))
+    const after = replayed({ edits: [...had, ...went], refused: null }, bodyIn(root))
     if ("refused" in after) {
       answer = { report: [], refusals: [after.refused, HELD_BACK], code: 3 }
       return had
     }
-    answer = { report: [...held.rows.map(saidOf).sort(), TAKEN], refusals: [], code: 0 }
-    return [...had, ...held.rows]
+    const said = [...went.map(saidOf).sort(), TAKEN, ...leftSaid(held)]
+    answer = { report: said, refusals: [], code: 0 }
+    return [...had, ...went]
   })
   if ("why" in kept) return { report: [], refusals: [kept.why], code: 3 }
-  if (answer.code === 0) droppedAll(root, at)
+  if (answer.code === 0) sweptOf(root, held)
   return answer
 }
 
-export function forgetting(root: string, page: string, under: string | undefined): Answer {
-  if (under === undefined) return mistaking([NO_SUBAGENT])
-  const at = heldFor(root, page, under)
-  if (at === null) return { report: [NONE_HANDED], refusals: [], code: 0 }
-  const held = editsIn(root, at)
-  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
-  if (held.rows.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
-  droppedAll(root, at)
-  return { report: [...held.rows.map(saidOf).sort(), DROPPED], refusals: [], code: 0 }
+export function forgetting(
+  root: string,
+  page: string,
+  under: string | undefined,
+  piping: Piping
+): Answer {
+  const held = handedFor(root, page, under, piping, FORGET_WORDS)
+  if (!("went" in held)) return held
+  sweptOf(root, held)
+  const said = [...held.went.map(saidOf).sort(), DROPPED, ...leftSaid(held)]
+  return { report: said, refusals: [], code: 0 }
 }

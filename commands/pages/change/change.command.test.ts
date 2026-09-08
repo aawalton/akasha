@@ -20,9 +20,12 @@ import {
   HANDED_AT,
   HANDED_ONE,
   HANDED_SAID,
+  HANDS,
   HELD,
+  handedIn,
   handedTwice,
   handing,
+  handingBoth,
   keptIn,
   loading,
   MISSING,
@@ -202,7 +205,7 @@ test("a take folds one subagent's handed edits in and takes the handed edits awa
   const root = repo()
   handing(root, SUB, [HANDED_ONE])
 
-  const said = await acting(root, ["take", SUB])
+  const said = await acting(root, ["take", SUB], piping("all: true\n"))
 
   expect(said.refusals).toEqual([])
   expect(said.report).toEqual(TAKEN_SAID)
@@ -215,7 +218,7 @@ test("a take that would not fold refuses and leaves both sets as those sets were
   appendEdits(root, PAGE, [{ kind: "add", path: HANDED_AT, content: "own" }])
   handing(root, SUB, [{ kind: "add", path: HANDED_AT, content: "handed" }])
 
-  const said = await acting(root, ["take", SUB])
+  const said = await acting(root, ["take", SUB], piping("all: true\n"))
 
   expect(said.code).toBe(3)
   expect(said.refusals[1]).toBe(
@@ -229,7 +232,7 @@ test("a forget takes one subagent's handed edits away and names each edit that w
   const root = repo()
   handing(root, SUB, [HANDED_ONE])
 
-  const said = await acting(root, ["forget", SUB])
+  const said = await acting(root, ["forget", SUB], piping("all: true\n"))
 
   expect(said.report).toEqual(FORGOT_SAID)
   expect(pathsIn(root)).toEqual([])
@@ -243,6 +246,41 @@ test("a take naming no subagent is refused rather than reaching every subagent",
 
   expect(said.refusals).toEqual(["this call names no subagent whose handed edits would be reached"])
   expect(pathsIn(root)).toEqual([])
+})
+
+for (const one of HANDS) {
+  test(one.name, async () => {
+    const root = repo()
+    handingBoth(root)
+
+    const said = await acting(root, [one.act, SUB], one.said)
+
+    if (one.code !== undefined) expect(said.code).toBe(one.code)
+    if (one.refusals !== undefined) expect(said.refusals).toEqual(one.refusals)
+    if (one.refusalHolds !== undefined) expect(said.refusals[0] ?? "").toContain(one.refusalHolds)
+    if (one.report !== undefined) expect(said.report).toEqual(one.report)
+    if (one.own !== undefined) expect(keptIn(root)).toEqual(one.own)
+    if (one.left !== undefined) expect(handedIn(root)).toEqual(one.left)
+  })
+}
+
+test("a take and a forget refuse in their own words rather than in the drop's", async () => {
+  const root = repo()
+  handingBoth(root)
+
+  const took = await acting(root, ["take", SUB], piping("all: no\n"))
+  const forgot = await acting(root, ["forget", SUB], piping("all: no\n"))
+  const dropped = await acting(root, ["drop"], piping("all: no\n"))
+
+  expect(took.refusals).toEqual([
+    "`all` takes `true` to take every edit that subagent handed over, and no other value",
+  ])
+  expect(forgot.refusals).toEqual([
+    "`all` takes `true` to take away every edit that subagent handed over, and no other value",
+  ])
+  expect(dropped.refusals).toEqual([
+    "`all` takes `true` to take away every edit kept, and no other value",
+  ])
 })
 
 test("a change answering says how many subagents handed edits over", async () => {
