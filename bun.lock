@@ -1117,6 +1117,13 @@
         "@akasha/k8s-types": "workspace:*",
       },
     },
+    "infrastructure/storage/object-store": {
+      "name": "@akasha/object-store",
+      "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "language-design/lua-compiler": {
       "name": "@akasha/lua-compiler",
       "dependencies": {
@@ -1163,13 +1170,6 @@
     },
     "named-for": {
       "name": "@akasha/named-for",
-    },
-    "object-store": {
-      "name": "@akasha/object-store",
-      "dependencies": {
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
     },
     "pages": {
       "name": "@akasha/pages",
@@ -3102,7 +3102,7 @@
 
     "@akasha/named-for": ["@akasha/named-for@workspace:named-for"],
 
-    "@akasha/object-store": ["@akasha/object-store@workspace:object-store"],
+    "@akasha/object-store": ["@akasha/object-store@workspace:infrastructure/storage/object-store"],
 
     "@akasha/page-commands": ["@akasha/page-commands@workspace:pages/commands"],
 
