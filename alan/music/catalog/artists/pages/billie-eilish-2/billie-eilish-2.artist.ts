@@ -5,7 +5,7 @@ export const billieEilish2 = {
   pageTypeSlug: "artist",
   slug: "billie-eilish-2",
   title: "Billie Eilish",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

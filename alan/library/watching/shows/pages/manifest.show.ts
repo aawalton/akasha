@@ -5,7 +5,7 @@ export const manifest = {
   pageTypeSlug: "show",
   slug: "manifest",
   title: "Manifest",
-  partOfSlugs: ["watch-with-jen"],
+  partOfCollectionSlugs: ["watch-with-jen"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

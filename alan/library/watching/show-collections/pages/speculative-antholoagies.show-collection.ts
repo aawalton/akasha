@@ -5,7 +5,7 @@ export const speculativeAntholoagies = {
   pageTypeSlug: "show-collection",
   slug: "speculative-antholoagies",
   title: "Speculative AntholoAgies",
-  partOfSlugs: ["shows"],
+  partOfCollectionSlugs: ["shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

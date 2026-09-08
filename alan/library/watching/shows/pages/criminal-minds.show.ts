@@ -5,7 +5,7 @@ export const criminalMinds = {
   pageTypeSlug: "show",
   slug: "criminal-minds",
   title: "Criminal Minds",
-  partOfSlugs: ["crime-investigation-shows"],
+  partOfCollectionSlugs: ["crime-investigation-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

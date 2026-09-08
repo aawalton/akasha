@@ -5,7 +5,7 @@ export const linkinPark = {
   pageTypeSlug: "artist",
   slug: "linkin-park",
   title: "Linkin Park",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

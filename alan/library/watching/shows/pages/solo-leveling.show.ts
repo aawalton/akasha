@@ -5,7 +5,7 @@ export const soloLeveling = {
   pageTypeSlug: "show",
   slug: "solo-leveling",
   title: "Solo Leveling",
-  partOfSlugs: ["anime-shows"],
+  partOfCollectionSlugs: ["anime-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

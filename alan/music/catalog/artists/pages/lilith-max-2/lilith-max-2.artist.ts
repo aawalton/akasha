@@ -5,7 +5,7 @@ export const lilithMax2 = {
   pageTypeSlug: "artist",
   slug: "lilith-max-2",
   title: "Lilith Max",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

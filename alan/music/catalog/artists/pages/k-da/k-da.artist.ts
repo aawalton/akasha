@@ -5,7 +5,7 @@ export const kDa = {
   pageTypeSlug: "artist",
   slug: "k-da",
   title: "K/DA",
-  partOfSlugs: ["artists", "league-of-legends"],
+  partOfCollectionSlugs: ["artists", "league-of-legends"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

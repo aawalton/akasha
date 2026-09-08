@@ -5,7 +5,7 @@ export const marvelZombies = {
   pageTypeSlug: "show",
   slug: "marvel-zombies",
   title: "Marvel Zombies",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 59,
   ownLength: 0,
   ownProgress: 0,

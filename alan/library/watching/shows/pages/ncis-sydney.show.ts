@@ -5,7 +5,7 @@ export const ncisSydney = {
   pageTypeSlug: "show",
   slug: "ncis-sydney",
   title: "NCIS: Sydney",
-  partOfSlugs: ["ncis-2"],
+  partOfCollectionSlugs: ["ncis-2"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

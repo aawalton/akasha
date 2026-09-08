@@ -5,7 +5,7 @@ export const paulCardall = {
   pageTypeSlug: "artist",
   slug: "paul-cardall",
   title: "Paul Cardall",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

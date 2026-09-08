@@ -5,7 +5,7 @@ export const sheHulkAttorneyAtLaw = {
   pageTypeSlug: "show",
   slug: "she-hulk-attorney-at-law",
   title: "She-Hulk: Attorney at Law",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 37,
   ownLength: 0,
   ownProgress: 0,

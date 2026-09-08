@@ -5,7 +5,7 @@ export const agathaAllAlong = {
   pageTypeSlug: "show",
   slug: "agatha-all-along",
   title: "Agatha All Along",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 51,
   ownLength: 0,
   ownProgress: 0,

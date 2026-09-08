@@ -5,7 +5,7 @@ export const wandavisionMiniseries = {
   pageTypeSlug: "season",
   slug: "wandavision-miniseries",
   title: "WandaVision Miniseries",
-  partOfSlugs: ["wandavision"],
+  partOfCollectionSlugs: ["wandavision"],
   position: 1,
   ownLength: 363,
   ownProgress: 363,

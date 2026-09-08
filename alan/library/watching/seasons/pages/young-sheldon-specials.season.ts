@@ -5,7 +5,7 @@ export const youngSheldonSpecials = {
   pageTypeSlug: "season",
   slug: "young-sheldon-specials",
   title: "Young Sheldon Specials",
-  partOfSlugs: ["young-sheldon"],
+  partOfCollectionSlugs: ["young-sheldon"],
   position: 0,
   ownLength: 75,
   ownProgress: 0,

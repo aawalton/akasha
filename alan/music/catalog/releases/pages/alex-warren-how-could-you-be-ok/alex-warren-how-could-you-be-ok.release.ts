@@ -5,7 +5,7 @@ export const alexWarrenHowCouldYouBeOk = {
   pageTypeSlug: "release",
   slug: "alex-warren-how-could-you-be-ok",
   title: "How Could You (Be OK)",
-  partOfSlugs: ["alex-warren"],
+  partOfCollectionSlugs: ["alex-warren"],
   position: 0,
   ownLength: 11.990433,
   ownProgress: 11.990433,

@@ -5,7 +5,7 @@ export const jisoo = {
   pageTypeSlug: "artist",
   slug: "jisoo",
   title: "JISOO",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

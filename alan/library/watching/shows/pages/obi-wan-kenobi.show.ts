@@ -5,7 +5,7 @@ export const obiWanKenobi = {
   pageTypeSlug: "show",
   slug: "obi-wan-kenobi",
   title: "Obi-Wan Kenobi",
-  partOfSlugs: ["star-wars-2"],
+  partOfCollectionSlugs: ["star-wars-2"],
   position: 19,
   ownLength: 0,
   ownProgress: 0,

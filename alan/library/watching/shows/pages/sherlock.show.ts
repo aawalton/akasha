@@ -5,7 +5,7 @@ export const sherlock = {
   pageTypeSlug: "show",
   slug: "sherlock",
   title: "Sherlock",
-  partOfSlugs: ["crime-investigation-shows"],
+  partOfCollectionSlugs: ["crime-investigation-shows"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

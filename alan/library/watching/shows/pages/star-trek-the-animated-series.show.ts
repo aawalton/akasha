@@ -5,7 +5,7 @@ export const starTrekTheAnimatedSeries = {
   pageTypeSlug: "show",
   slug: "star-trek-the-animated-series",
   title: "Star Trek: The Animated Series",
-  partOfSlugs: ["star-trek-3"],
+  partOfCollectionSlugs: ["star-trek-3"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

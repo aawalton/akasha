@@ -5,7 +5,7 @@ export const greenDay = {
   pageTypeSlug: "artist",
   slug: "green-day",
   title: "Green Day",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

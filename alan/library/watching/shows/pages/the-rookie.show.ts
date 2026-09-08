@@ -5,7 +5,7 @@ export const theRookie = {
   pageTypeSlug: "show",
   slug: "the-rookie",
   title: "The Rookie",
-  partOfSlugs: ["crime-investigation-shows", "watch-with-jen"],
+  partOfCollectionSlugs: ["crime-investigation-shows", "watch-with-jen"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

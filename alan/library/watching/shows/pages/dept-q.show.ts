@@ -5,7 +5,7 @@ export const deptQ = {
   pageTypeSlug: "show",
   slug: "dept-q",
   title: "Dept. Q",
-  partOfSlugs: ["crime-investigation-shows"],
+  partOfCollectionSlugs: ["crime-investigation-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

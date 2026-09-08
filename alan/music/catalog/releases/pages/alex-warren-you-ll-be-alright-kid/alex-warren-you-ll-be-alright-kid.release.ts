@@ -5,7 +5,7 @@ export const alexWarrenYouLlBeAlrightKid = {
   pageTypeSlug: "release",
   slug: "alex-warren-you-ll-be-alright-kid",
   title: "You'll Be Alright, Kid",
-  partOfSlugs: ["alex-warren"],
+  partOfCollectionSlugs: ["alex-warren"],
   position: 0,
   ownLength: 63.4613,
   ownProgress: 63.4613,

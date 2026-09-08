@@ -5,7 +5,7 @@ export const inhumans = {
   pageTypeSlug: "show",
   slug: "inhumans",
   title: "Inhumans",
-  partOfSlugs: ["marvel-television"],
+  partOfCollectionSlugs: ["marvel-television"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

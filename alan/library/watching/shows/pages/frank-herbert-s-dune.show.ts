@@ -5,7 +5,7 @@ export const frankHerbertSDune = {
   pageTypeSlug: "show",
   slug: "frank-herbert-s-dune",
   title: "Frank Herbert's Dune",
-  partOfSlugs: ["dune-2"],
+  partOfCollectionSlugs: ["dune-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const alexWarrenChangeYourMind = {
   pageTypeSlug: "release",
   slug: "alex-warren-change-your-mind",
   title: "Change Your Mind",
-  partOfSlugs: ["alex-warren"],
+  partOfCollectionSlugs: ["alex-warren"],
   position: 0,
   ownLength: 8.6972,
   ownProgress: 8.6972,

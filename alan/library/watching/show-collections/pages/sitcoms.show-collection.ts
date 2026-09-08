@@ -5,7 +5,7 @@ export const sitcoms = {
   pageTypeSlug: "show-collection",
   slug: "sitcoms",
   title: "Sitcoms",
-  partOfSlugs: ["shows"],
+  partOfCollectionSlugs: ["shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

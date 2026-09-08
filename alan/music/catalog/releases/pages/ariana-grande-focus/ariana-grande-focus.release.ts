@@ -5,7 +5,7 @@ export const arianaGrandeFocus = {
   pageTypeSlug: "release",
   slug: "ariana-grande-focus",
   title: "Focus",
-  partOfSlugs: ["ariana-grande"],
+  partOfCollectionSlugs: ["ariana-grande"],
   position: 0,
   ownLength: 3.522667,
   ownProgress: 3.522667,

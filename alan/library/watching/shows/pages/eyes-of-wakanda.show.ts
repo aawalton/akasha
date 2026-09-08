@@ -5,7 +5,7 @@ export const eyesOfWakanda = {
   pageTypeSlug: "show",
   slug: "eyes-of-wakanda",
   title: "Eyes of Wakanda",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 53,
   ownLength: 0,
   ownProgress: 0,

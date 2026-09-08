@@ -5,7 +5,7 @@ export const phoebeBridgers = {
   pageTypeSlug: "artist",
   slug: "phoebe-bridgers",
   title: "Phoebe Bridgers",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const crusade = {
   pageTypeSlug: "show",
   slug: "crusade",
   title: "Crusade",
-  partOfSlugs: ["babylon-5-2"],
+  partOfCollectionSlugs: ["babylon-5-2"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

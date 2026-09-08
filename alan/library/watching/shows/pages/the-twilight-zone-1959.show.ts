@@ -5,7 +5,7 @@ export const theTwilightZone1959 = {
   pageTypeSlug: "show",
   slug: "the-twilight-zone-1959",
   title: "The Twilight Zone (1959)",
-  partOfSlugs: ["the-twilight-zone"],
+  partOfCollectionSlugs: ["the-twilight-zone"],
   position: 1959,
   ownLength: 0,
   ownProgress: 0,

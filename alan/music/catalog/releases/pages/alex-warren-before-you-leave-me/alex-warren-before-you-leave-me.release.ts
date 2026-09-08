@@ -5,7 +5,7 @@ export const alexWarrenBeforeYouLeaveMe = {
   pageTypeSlug: "release",
   slug: "alex-warren-before-you-leave-me",
   title: "Before You Leave Me",
-  partOfSlugs: ["alex-warren"],
+  partOfCollectionSlugs: ["alex-warren"],
   position: 0,
   ownLength: 5.839567,
   ownProgress: 5.839567,

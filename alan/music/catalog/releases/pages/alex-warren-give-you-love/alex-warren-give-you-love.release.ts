@@ -5,7 +5,7 @@ export const alexWarrenGiveYouLove = {
   pageTypeSlug: "release",
   slug: "alex-warren-give-you-love",
   title: "Give You Love",
-  partOfSlugs: ["alex-warren"],
+  partOfCollectionSlugs: ["alex-warren"],
   position: 0,
   ownLength: 5.790433,
   ownProgress: 5.790433,

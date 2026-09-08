@@ -5,7 +5,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAhead = {
   pageTypeSlug: "release",
   slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead",
   title: "eternal sunshine deluxe: brighter days ahead",
-  partOfSlugs: ["ariana-grande"],
+  partOfCollectionSlugs: ["ariana-grande"],
   position: 0,
   ownLength: 55.511983,
   ownProgress: 55.511983,

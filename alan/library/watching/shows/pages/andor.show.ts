@@ -5,7 +5,7 @@ export const andor = {
   pageTypeSlug: "show",
   slug: "andor",
   title: "Andor",
-  partOfSlugs: ["star-wars-2"],
+  partOfCollectionSlugs: ["star-wars-2"],
   position: 20,
   ownLength: 0,
   ownProgress: 0,

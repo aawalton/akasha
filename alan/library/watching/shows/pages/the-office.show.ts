@@ -5,7 +5,7 @@ export const theOffice = {
   pageTypeSlug: "show",
   slug: "the-office",
   title: "The Office",
-  partOfSlugs: ["sitcoms"],
+  partOfCollectionSlugs: ["sitcoms"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const arianaGrandeAHandForMrsClaus = {
   pageTypeSlug: "release",
   slug: "ariana-grande-a-hand-for-mrs-claus",
   title: "A Hand For Mrs. Claus",
-  partOfSlugs: ["ariana-grande"],
+  partOfCollectionSlugs: ["ariana-grande"],
   position: 0,
   ownLength: 2.484,
   ownProgress: 2.484,

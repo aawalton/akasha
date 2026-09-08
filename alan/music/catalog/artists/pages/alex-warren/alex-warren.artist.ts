@@ -5,7 +5,7 @@ export const alexWarren = {
   pageTypeSlug: "artist",
   slug: "alex-warren",
   title: "Alex Warren",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

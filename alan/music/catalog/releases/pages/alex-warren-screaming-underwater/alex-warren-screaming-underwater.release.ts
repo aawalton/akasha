@@ -5,7 +5,7 @@ export const alexWarrenScreamingUnderwater = {
   pageTypeSlug: "release",
   slug: "alex-warren-screaming-underwater",
   title: "Screaming Underwater",
-  partOfSlugs: ["alex-warren"],
+  partOfCollectionSlugs: ["alex-warren"],
   position: 0,
   ownLength: 2.434883,
   ownProgress: 2.434883,

@@ -5,7 +5,7 @@ export const numb3rs = {
   pageTypeSlug: "show",
   slug: "numb3rs",
   title: "Numb3rs",
-  partOfSlugs: ["crime-investigation-shows"],
+  partOfCollectionSlugs: ["crime-investigation-shows"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

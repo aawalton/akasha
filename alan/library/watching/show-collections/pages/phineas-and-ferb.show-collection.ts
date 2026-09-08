@@ -5,7 +5,7 @@ export const phineasAndFerb = {
   pageTypeSlug: "show-collection",
   slug: "phineas-and-ferb",
   title: "Phineas and Ferb",
-  partOfSlugs: ["family-friendly-shows"],
+  partOfCollectionSlugs: ["family-friendly-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

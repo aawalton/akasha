@@ -5,7 +5,7 @@ export const highPotential = {
   pageTypeSlug: "show",
   slug: "high-potential",
   title: "High Potential",
-  partOfSlugs: ["crime-investigation-shows", "watch-with-jen"],
+  partOfCollectionSlugs: ["crime-investigation-shows", "watch-with-jen"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

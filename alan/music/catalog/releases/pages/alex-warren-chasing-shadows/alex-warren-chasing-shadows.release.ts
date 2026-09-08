@@ -5,7 +5,7 @@ export const alexWarrenChasingShadows = {
   pageTypeSlug: "release",
   slug: "alex-warren-chasing-shadows",
   title: "Chasing Shadows",
-  partOfSlugs: ["alex-warren"],
+  partOfCollectionSlugs: ["alex-warren"],
   position: 0,
   ownLength: 5.620667,
   ownProgress: 5.620667,

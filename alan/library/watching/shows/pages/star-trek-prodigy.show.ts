@@ -5,7 +5,7 @@ export const starTrekProdigy = {
   pageTypeSlug: "show",
   slug: "star-trek-prodigy",
   title: "Star Trek: Prodigy",
-  partOfSlugs: ["star-trek-3"],
+  partOfCollectionSlugs: ["star-trek-3"],
   position: 24,
   ownLength: 0,
   ownProgress: 0,

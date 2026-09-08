@@ -5,7 +5,7 @@ export const wandavisionSpecials = {
   pageTypeSlug: "season",
   slug: "wandavision-specials",
   title: "WandaVision Specials",
-  partOfSlugs: ["wandavision"],
+  partOfCollectionSlugs: ["wandavision"],
   position: 0,
   ownLength: 10.2,
   ownProgress: 10.2,

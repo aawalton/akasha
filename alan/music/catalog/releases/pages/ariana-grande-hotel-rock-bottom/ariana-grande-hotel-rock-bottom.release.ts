@@ -5,7 +5,7 @@ export const arianaGrandeHotelRockBottom = {
   pageTypeSlug: "release",
   slug: "ariana-grande-hotel-rock-bottom",
   title: "Hotel Rock Bottom",
-  partOfSlugs: ["ariana-grande"],
+  partOfCollectionSlugs: ["ariana-grande"],
   position: 0,
   ownLength: 3.26175,
   ownProgress: 3.26175,

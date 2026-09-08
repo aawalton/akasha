@@ -5,7 +5,7 @@ export const adeleEasyOnMe = {
   pageTypeSlug: "release",
   slug: "adele-easy-on-me",
   title: "Easy On Me",
-  partOfSlugs: ["adele"],
+  partOfCollectionSlugs: ["adele"],
   position: 0,
   ownLength: 3.7449,
   ownProgress: 3.7449,

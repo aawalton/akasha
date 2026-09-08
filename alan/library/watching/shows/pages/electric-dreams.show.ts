@@ -5,7 +5,7 @@ export const electricDreams = {
   pageTypeSlug: "show",
   slug: "electric-dreams",
   title: "Electric Dreams",
-  partOfSlugs: ["speculative-antholoagies"],
+  partOfCollectionSlugs: ["speculative-antholoagies"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

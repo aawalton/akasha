@@ -5,7 +5,7 @@ export const agentsOfSHIELD = {
   pageTypeSlug: "show",
   slug: "agents-of-s-h-i-e-l-d",
   title: "Agents of S.H.I.E.L.D.",
-  partOfSlugs: ["marvel-television"],
+  partOfCollectionSlugs: ["marvel-television"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

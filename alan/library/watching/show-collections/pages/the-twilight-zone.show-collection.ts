@@ -5,7 +5,7 @@ export const theTwilightZone = {
   pageTypeSlug: "show-collection",
   slug: "the-twilight-zone",
   title: "The Twilight Zone",
-  partOfSlugs: ["speculative-antholoagies"],
+  partOfCollectionSlugs: ["speculative-antholoagies"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

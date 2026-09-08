@@ -5,7 +5,7 @@ export const elvisPresley2 = {
   pageTypeSlug: "artist",
   slug: "elvis-presley-2",
   title: "Elvis Presley",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

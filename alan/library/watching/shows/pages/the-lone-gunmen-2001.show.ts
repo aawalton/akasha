@@ -5,7 +5,7 @@ export const theLoneGunmen2001 = {
   pageTypeSlug: "show",
   slug: "the-lone-gunmen-2001",
   title: "The Lone Gunmen (2001)",
-  partOfSlugs: ["x-files"],
+  partOfCollectionSlugs: ["x-files"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

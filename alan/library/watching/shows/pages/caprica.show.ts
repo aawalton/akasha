@@ -5,7 +5,7 @@ export const caprica = {
   pageTypeSlug: "show",
   slug: "caprica",
   title: "Caprica",
-  partOfSlugs: ["battlestar-galactica"],
+  partOfCollectionSlugs: ["battlestar-galactica"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

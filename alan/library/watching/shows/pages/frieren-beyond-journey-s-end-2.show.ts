@@ -5,7 +5,7 @@ export const frierenBeyondJourneySEnd2 = {
   pageTypeSlug: "show",
   slug: "frieren-beyond-journey-s-end-2",
   title: "Frieren: Beyond Journey's End",
-  partOfSlugs: ["frieren-beyond-journey-s-end"],
+  partOfCollectionSlugs: ["frieren-beyond-journey-s-end"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

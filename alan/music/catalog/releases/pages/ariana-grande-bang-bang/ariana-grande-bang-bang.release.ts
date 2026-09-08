@@ -5,7 +5,7 @@ export const arianaGrandeBangBang = {
   pageTypeSlug: "release",
   slug: "ariana-grande-bang-bang",
   title: "Bang Bang",
-  partOfSlugs: ["ariana-grande"],
+  partOfCollectionSlugs: ["ariana-grande"],
   position: 0,
   ownLength: 9.911767,
   ownProgress: 9.911767,

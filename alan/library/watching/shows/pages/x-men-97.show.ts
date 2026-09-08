@@ -5,7 +5,7 @@ export const xMen97 = {
   pageTypeSlug: "show",
   slug: "x-men-97",
   title: "X-Men '97",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 49,
   ownLength: 0,
   ownProgress: 0,

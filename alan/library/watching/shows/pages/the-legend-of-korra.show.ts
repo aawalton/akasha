@@ -5,7 +5,7 @@ export const theLegendOfKorra = {
   pageTypeSlug: "show",
   slug: "the-legend-of-korra",
   title: "The Legend of Korra",
-  partOfSlugs: ["family-friendly-shows"],
+  partOfCollectionSlugs: ["family-friendly-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

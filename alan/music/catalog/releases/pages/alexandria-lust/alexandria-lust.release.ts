@@ -5,7 +5,7 @@ export const alexandriaLust = {
   pageTypeSlug: "release",
   slug: "alexandria-lust",
   title: "Lust",
-  partOfSlugs: ["alexandria"],
+  partOfCollectionSlugs: ["alexandria"],
   position: 0,
   ownLength: 1.921567,
   ownProgress: 1.921567,

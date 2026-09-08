@@ -5,7 +5,7 @@ export const galactica1980 = {
   pageTypeSlug: "show",
   slug: "galactica-1980",
   title: "Galactica 1980",
-  partOfSlugs: ["battlestar-galactica"],
+  partOfCollectionSlugs: ["battlestar-galactica"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

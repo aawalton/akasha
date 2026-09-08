@@ -5,7 +5,7 @@ export const secretInvasion = {
   pageTypeSlug: "show",
   slug: "secret-invasion",
   title: "Secret Invasion",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 42,
   ownLength: 0,
   ownProgress: 0,

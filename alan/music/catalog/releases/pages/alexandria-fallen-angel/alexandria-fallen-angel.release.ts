@@ -5,7 +5,7 @@ export const alexandriaFallenAngel = {
   pageTypeSlug: "release",
   slug: "alexandria-fallen-angel",
   title: "Fallen Angel",
-  partOfSlugs: ["alexandria"],
+  partOfCollectionSlugs: ["alexandria"],
   position: 0,
   ownLength: 2.7624,
   ownProgress: 2.7624,

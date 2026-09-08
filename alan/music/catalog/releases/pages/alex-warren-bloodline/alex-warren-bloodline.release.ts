@@ -5,7 +5,7 @@ export const alexWarrenBloodline = {
   pageTypeSlug: "release",
   slug: "alex-warren-bloodline",
   title: "Bloodline",
-  partOfSlugs: ["alex-warren"],
+  partOfCollectionSlugs: ["alex-warren"],
   position: 0,
   ownLength: 3.033467,
   ownProgress: 3.033467,

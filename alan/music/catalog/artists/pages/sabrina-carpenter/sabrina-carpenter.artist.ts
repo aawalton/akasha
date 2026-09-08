@@ -5,7 +5,7 @@ export const sabrinaCarpenter = {
   pageTypeSlug: "artist",
   slug: "sabrina-carpenter",
   title: "Sabrina Carpenter",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

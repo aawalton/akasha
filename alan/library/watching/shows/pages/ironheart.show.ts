@@ -5,7 +5,7 @@ export const ironheart = {
   pageTypeSlug: "show",
   slug: "ironheart",
   title: "Ironheart",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 58,
   ownLength: 0,
   ownProgress: 0,

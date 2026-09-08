@@ -5,7 +5,7 @@ export const alexWarrenOrdinary = {
   pageTypeSlug: "release",
   slug: "alex-warren-ordinary",
   title: "Ordinary",
-  partOfSlugs: ["alex-warren"],
+  partOfCollectionSlugs: ["alex-warren"],
   position: 0,
   ownLength: 3.116067,
   ownProgress: 3.116067,

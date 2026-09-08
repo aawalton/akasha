@@ -5,7 +5,7 @@ export const ncisHawaiI = {
   pageTypeSlug: "show",
   slug: "ncis-hawai-i",
   title: "NCIS: Hawai'i",
-  partOfSlugs: ["ncis-2"],
+  partOfCollectionSlugs: ["ncis-2"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const whiteCollar = {
   pageTypeSlug: "show",
   slug: "white-collar",
   title: "White Collar",
-  partOfSlugs: ["crime-investigation-shows", "watch-with-jen"],
+  partOfCollectionSlugs: ["crime-investigation-shows", "watch-with-jen"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

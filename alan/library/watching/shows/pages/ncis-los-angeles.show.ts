@@ -5,7 +5,7 @@ export const ncisLosAngeles = {
   pageTypeSlug: "show",
   slug: "ncis-los-angeles",
   title: "NCIS: Los Angeles",
-  partOfSlugs: ["ncis-2"],
+  partOfCollectionSlugs: ["ncis-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

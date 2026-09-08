@@ -5,7 +5,7 @@ export const billyJoel = {
   pageTypeSlug: "artist",
   slug: "billy-joel",
   title: "Billy Joel",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

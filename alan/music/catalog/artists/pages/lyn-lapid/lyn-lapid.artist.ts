@@ -5,7 +5,7 @@ export const lynLapid = {
   pageTypeSlug: "artist",
   slug: "lyn-lapid",
   title: "Lyn Lapid",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

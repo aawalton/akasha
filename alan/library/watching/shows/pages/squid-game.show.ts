@@ -5,7 +5,7 @@ export const squidGame = {
   pageTypeSlug: "show",
   slug: "squid-game",
   title: "Squid Game",
-  partOfSlugs: ["science-fiction-shows"],
+  partOfCollectionSlugs: ["science-fiction-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

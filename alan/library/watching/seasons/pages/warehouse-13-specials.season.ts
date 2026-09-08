@@ -5,7 +5,7 @@ export const warehouse13Specials = {
   pageTypeSlug: "season",
   slug: "warehouse-13-specials",
   title: "Warehouse 13 Specials",
-  partOfSlugs: ["warehouse-13"],
+  partOfCollectionSlugs: ["warehouse-13"],
   position: 0,
   ownLength: 2540,
   ownProgress: 0,

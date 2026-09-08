@@ -5,7 +5,7 @@ export const aurora2 = {
   pageTypeSlug: "artist",
   slug: "aurora-2",
   title: "AURORA",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

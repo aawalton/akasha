@@ -5,7 +5,7 @@ export const starTrekTheNextGeneration = {
   pageTypeSlug: "show",
   slug: "star-trek-the-next-generation",
   title: "Star Trek: The Next Generation",
-  partOfSlugs: ["star-trek-3"],
+  partOfCollectionSlugs: ["star-trek-3"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

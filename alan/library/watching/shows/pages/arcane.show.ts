@@ -5,7 +5,7 @@ export const arcane = {
   pageTypeSlug: "show",
   slug: "arcane",
   title: "Arcane",
-  partOfSlugs: ["league-of-legends"],
+  partOfCollectionSlugs: ["league-of-legends"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const starTrekLowerDecks = {
   pageTypeSlug: "show",
   slug: "star-trek-lower-decks",
   title: "Star Trek: Lower Decks",
-  partOfSlugs: ["star-trek-3"],
+  partOfCollectionSlugs: ["star-trek-3"],
   position: 23,
   ownLength: 0,
   ownProgress: 0,

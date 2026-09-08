@@ -5,7 +5,7 @@ export const dimension20 = {
   pageTypeSlug: "show",
   slug: "dimension-20",
   title: "Dimension 20",
-  partOfSlugs: ["dungeons-and-dragons-shows"],
+  partOfCollectionSlugs: ["dungeons-and-dragons-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

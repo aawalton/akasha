@@ -5,7 +5,7 @@ export const ellaHenderson = {
   pageTypeSlug: "artist",
   slug: "ella-henderson",
   title: "Ella Henderson",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

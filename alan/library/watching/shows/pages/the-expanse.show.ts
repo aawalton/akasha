@@ -5,7 +5,7 @@ export const theExpanse = {
   pageTypeSlug: "show",
   slug: "the-expanse",
   title: "The Expanse",
-  partOfSlugs: ["science-fiction-shows"],
+  partOfCollectionSlugs: ["science-fiction-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

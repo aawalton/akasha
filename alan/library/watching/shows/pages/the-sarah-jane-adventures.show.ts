@@ -5,7 +5,7 @@ export const theSarahJaneAdventures = {
   pageTypeSlug: "show",
   slug: "the-sarah-jane-adventures",
   title: "The Sarah Jane Adventures",
-  partOfSlugs: ["doctor-who"],
+  partOfCollectionSlugs: ["doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

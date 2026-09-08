@@ -5,7 +5,7 @@ export const creatureCommandos = {
   pageTypeSlug: "show",
   slug: "creature-commandos",
   title: "Creature Commandos",
-  partOfSlugs: ["dc-universe"],
+  partOfCollectionSlugs: ["dc-universe"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

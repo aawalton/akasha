@@ -5,7 +5,7 @@ export const duneProphecy = {
   pageTypeSlug: "show",
   slug: "dune-prophecy",
   title: "Dune: Prophecy",
-  partOfSlugs: ["dune-2"],
+  partOfCollectionSlugs: ["dune-2"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

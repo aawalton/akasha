@@ -5,7 +5,7 @@ export const rockapella = {
   pageTypeSlug: "artist",
   slug: "rockapella",
   title: "Rockapella",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const moonKnight = {
   pageTypeSlug: "show",
   slug: "moon-knight",
   title: "Moon Knight",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 34,
   ownLength: 0,
   ownProgress: 0,

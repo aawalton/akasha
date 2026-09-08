@@ -5,7 +5,7 @@ export const pentatonix = {
   pageTypeSlug: "artist",
   slug: "pentatonix",
   title: "Pentatonix",
-  partOfSlugs: ["artists"],
+  partOfCollectionSlugs: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,
