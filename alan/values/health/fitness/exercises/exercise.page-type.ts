@@ -144,12 +144,11 @@ export const exercise = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A movement carrying an external id was imported and is refreshed from its source.",
+      statement: "A movement with an external id was imported and is refreshed from its source.",
     },
     {
       invariantKind: "departure",
-      statement: "A movement Alan wrote himself carries no field an external source would fill.",
+      statement: "A movement Alan wrote himself has no field an external source would fill.",
     },
   ],
 } as const satisfies PageType

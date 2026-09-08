@@ -102,7 +102,7 @@ export const setLog = {
     {
       invariantKind: "departure",
       statement:
-        "A set timed rather than counted carries an activity and a length in place of reps and weight.",
+        "A set timed rather than counted has an activity and a length in place of reps and weight.",
     },
   ],
 } as const satisfies PageType

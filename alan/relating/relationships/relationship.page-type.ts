@@ -115,7 +115,7 @@ export const relationship = {
     },
     {
       invariantKind: "departure",
-      statement: "Every rating a relationship carries sits apart from every other rating.",
+      statement: "Every rating a relationship has sits apart from every other rating.",
     },
     {
       invariantKind: "departure",

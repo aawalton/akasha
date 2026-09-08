@@ -82,7 +82,7 @@ export const syntaxRule = {
     },
     {
       invariantKind: "absence",
-      statement: "A rule carries no status.",
+      statement: "A rule has no status.",
     },
     {
       invariantKind: "absence",

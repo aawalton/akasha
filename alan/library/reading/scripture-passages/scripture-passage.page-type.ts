@@ -44,7 +44,7 @@ export const scripturePassage = {
     },
     {
       invariantKind: "departure",
-      statement: "A passage catalogued before its verses arrive carries no file yet.",
+      statement: "A passage catalogued before its verses arrive has no file yet.",
     },
     {
       invariantKind: "departure",

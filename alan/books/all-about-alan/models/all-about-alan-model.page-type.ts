@@ -26,7 +26,7 @@ export const allAboutAlanModel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A model carries the computation rather than the numbers the computation prints.",
+      statement: "A model has the computation rather than the numbers the computation prints.",
     },
     {
       invariantKind: "departure",

@@ -59,7 +59,7 @@ export const chessProgress = {
     },
     {
       invariantKind: "departure",
-      statement: "A motif is named by the Lichess theme the puzzle rows carry.",
+      statement: "A motif is named by the Lichess theme the puzzle rows have.",
     },
     {
       invariantKind: "departure",

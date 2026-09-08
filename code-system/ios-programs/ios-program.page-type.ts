@@ -84,8 +84,7 @@ export const iosProgram = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A program shipped apart from the app that carries that program states its own name.",
+      statement: "A program shipped apart from the app that has that program states its own name.",
     },
   ],
 } as const satisfies PageType

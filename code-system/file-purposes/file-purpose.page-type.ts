@@ -24,7 +24,7 @@ export const filePurpose = {
     },
     {
       invariantKind: "departure",
-      statement: "One file carries a kind and a purpose at once.",
+      statement: "One file has a kind and a purpose at once.",
     },
     {
       invariantKind: "gap",

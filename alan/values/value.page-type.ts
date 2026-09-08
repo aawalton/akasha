@@ -75,7 +75,7 @@ export const value = {
     },
     {
       invariantKind: "departure",
-      statement: "A value carries the points earned against the value over the whole record.",
+      statement: "A value has the points earned against the value over the whole record.",
     },
     {
       invariantKind: "departure",
@@ -83,7 +83,7 @@ export const value = {
     },
     {
       invariantKind: "departure",
-      statement: "A value carries one place whatever groups draw the value.",
+      statement: "A value has one place whatever groups draw the value.",
     },
     {
       invariantKind: "departure",
@@ -91,8 +91,7 @@ export const value = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The points a value carries are read from the personas' days rather than declared.",
+      statement: "The points a value has are read from the personas' days rather than declared.",
     },
     {
       invariantKind: "absence",

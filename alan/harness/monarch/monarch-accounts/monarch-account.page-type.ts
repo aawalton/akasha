@@ -55,7 +55,7 @@ export const monarchAccount = {
     },
     {
       invariantKind: "departure",
-      statement: "Two accounts carry the same last four digits.",
+      statement: "Two accounts have the same last four digits.",
     },
     {
       invariantKind: "departure",

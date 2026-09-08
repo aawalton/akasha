@@ -60,12 +60,12 @@ export const mobilityReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading always carries a human read of the measurement.",
+      statement: "A reading always has a human read of the measurement.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A reading carries a number beside its human read where the metric is measured in numbers.",
+        "A reading has a number beside its human read where the metric is measured in numbers.",
     },
   ],
 } as const satisfies PageType

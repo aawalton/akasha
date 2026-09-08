@@ -46,8 +46,7 @@ export const foodEntry = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A food entry that contributes no plants carries no plant grams rather than a zero.",
+      statement: "A food entry that contributes no plants has no plant grams rather than a zero.",
     },
     {
       invariantKind: "gap",

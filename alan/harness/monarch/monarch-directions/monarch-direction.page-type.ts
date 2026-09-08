@@ -23,7 +23,7 @@ export const monarchDirection = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A direction carries no Monarch identity.",
+      statement: "A direction has no Monarch identity.",
     },
     {
       invariantKind: "gap",

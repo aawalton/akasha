@@ -139,7 +139,7 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "Patch judges only the paths a change carries.",
+      statement: "Patch judges only the paths a change has.",
     },
     {
       invariantKind: "departure",
@@ -152,7 +152,7 @@ export const codeCheck = {
     {
       invariantKind: "departure",
       statement:
-        "Patch on means a file still carrying a violation is refused the next time that file is touched.",
+        "Patch on means a file still with a violation is refused the next time that file is touched.",
     },
     {
       invariantKind: "departure",

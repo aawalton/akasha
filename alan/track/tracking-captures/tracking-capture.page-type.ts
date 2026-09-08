@@ -19,7 +19,7 @@ export const trackingCapture = {
     {
       invariantKind: "absence",
       statement:
-        "A capture carries nothing but the name that capture is reached by and that capture's meaning.",
+        "A capture has nothing but the name that capture is reached by and that capture's meaning.",
     },
     {
       invariantKind: "departure",

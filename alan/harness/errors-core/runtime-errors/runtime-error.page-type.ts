@@ -97,7 +97,7 @@ export const runtimeError = {
     },
     {
       invariantKind: "gap",
-      statement: "A fresh checkout carries no count for any error.",
+      statement: "A fresh checkout has no count for any error.",
     },
     {
       invariantKind: "absence",
@@ -109,7 +109,7 @@ export const runtimeError = {
     },
     {
       invariantKind: "gap",
-      statement: "A message or a url could carry a secret.",
+      statement: "A message or a url could have a secret.",
     },
     {
       invariantKind: "absence",
