@@ -92,6 +92,7 @@ export const page = {
     "module/live-store-write-guard",
     "module/test-run-marking",
     "workspace-package/page-commands",
+    "page-type/named-folder-property",
   ],
   invariants: [
     {
