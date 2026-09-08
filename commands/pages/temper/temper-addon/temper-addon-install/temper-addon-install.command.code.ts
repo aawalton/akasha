@@ -33,7 +33,7 @@ import {
 import {
   saidFor,
   saidShort,
-} from "../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+} from "../../../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 const FAILED = 3

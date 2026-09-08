@@ -6,7 +6,7 @@ import { refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
 import { ran } from "@akasha/utils-run/running"
 import { valuesOf } from "../../modules/argument-word-reading/argument-word-reading.module.code.ts"
-import { temperAddonBuild } from "../temper-addon-build/temper-addon-build.command.code.ts"
+import { temperAddonBuild } from "../temper/temper-addon/temper-addon-build/temper-addon-build.command.code.ts"
 import { temperAddonBundleBuild } from "../temper-addon-bundle-build/temper-addon-bundle-build.command.code.ts"
 
 const DATA = 2
