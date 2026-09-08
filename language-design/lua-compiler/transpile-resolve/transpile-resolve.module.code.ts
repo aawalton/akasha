@@ -1,6 +1,7 @@
+import * as fs from "node:fs"
+import * as path from "node:path"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import * as resolve from "enhanced-resolve"
-import * as fs from "fs"
-import * as path from "path"
 import picomatch from "picomatch"
 import * as ts from "typescript"
 import {
@@ -267,8 +268,8 @@ function createResolutionContext(
     try {
       const resolveResult = resolver.resolveSync({}, fileDirectory, dependencyPath)
       if (typeof resolveResult === "string" && resolveResult !== "") return resolveResult
-    } catch (e: any) {
-      if (options.tstlVerbose === true && e.details) {
+    } catch (e) {
+      if (options.tstlVerbose === true && isRecord(e) && e.details !== undefined) {
         console.log(e.details)
       }
     }
