@@ -1,18 +1,8 @@
-import { join, relative } from "node:path"
-import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import {
-  missing,
-  refusing,
-  stating,
-} from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Said, Stated } from "../../../modules/change-answer/change-answer.module.types.ts"
+import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import type { Said } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
-const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
-
-const MOVE_FILE = "change-mechanical-file/move-file"
-
-const OUTSIDE = ".."
+const MOVE_FOLDER = "change-mechanical-folder/move-folder"
 
 const AT = "at"
 
@@ -23,59 +13,8 @@ export type MoveFolderAsked = {
   readonly to: string
 }
 
-type Moved = { readonly moved: ReadonlyMap<string, string> } | { readonly refused: string }
-
-function underneath(world: World, at: string): readonly string[] {
-  return [...world.under(at)].sort()
-}
-
-function movedInto(world: World, at: string, to: string, under: readonly string[]): Moved {
-  const held = new Set(world.under(to))
-  const said = new Map<string, string>()
-  for (const one of under) {
-    const next = join(to, relative(at, one))
-    if (held.has(next)) return { refused: `\`${next}\` is a body already` }
-    said.set(one, next)
-  }
-  return { moved: said }
-}
-
 export async function moveFolder(world: World, given: MoveFolderAsked): Promise<Said> {
-  if (given.at === given.to) return refusing(`\`${given.to}\` is the folder those files sit under`)
-  const under = underneath(world, given.at)
-  if (under.length === 0) return refusing(`\`${given.at}\` holds no file, so nothing is carried`)
-  if (!relative(given.at, given.to).startsWith(OUTSIDE)) {
-    return refusing(`\`${given.to}\` sits under \`${given.at}\`, so the folder is not carried`)
-  }
-  const said = movedInto(world, given.at, given.to, under)
-  if ("refused" in said) return refusing(said.refused)
-  const moved = said.moved
-  const reading = importingOf(world.index, moved)
-  if ("unread" in reading) return refusing(reading.unread)
-  const carried = Object.fromEntries(moved)
-  const edits: Stated[] = []
-  let seen = world
-  for (const [one, next] of moved) {
-    const carrying = await reach(seen, MOVE_FILE, { from: one, to: next })
-    if (carrying.said.refused !== null) return carrying.said
-    edits.push(...carrying.said.edits)
-    seen = carrying.world
-    const answer = await reach(seen, CHANGE_IMPORTS, { was: one, now: next, moved: carried })
-    if (answer.said.refused !== null) return answer.said
-    edits.push(...answer.said.edits)
-    seen = answer.world
-  }
-  for (const path of reading.importers) {
-    if (moved.has(path)) continue
-    if (seen.textOf(path) === null) {
-      return refusing(`\`${path}\` names a path that moved and could not be read`)
-    }
-    const answer = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved: carried })
-    if (answer.said.refused !== null) return answer.said
-    edits.push(...answer.said.edits)
-    seen = answer.world
-  }
-  return stating(edits)
+  return (await reach(world, MOVE_FOLDER, { from: given.at, to: given.to })).said
 }
 
 export type Asked = Readonly<Record<string, string>>
