@@ -72,7 +72,7 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "Such an edit is widened against the bodies the earlier edits left.",
+      statement: "Such an edit is worked out against the bodies the earlier edits left.",
     },
     {
       invariantKind: "departure",
