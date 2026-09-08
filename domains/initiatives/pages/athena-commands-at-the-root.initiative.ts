@@ -40,11 +40,6 @@ export const athenaCommandsAtTheRoot = {
         "This began when the `alan` handler seat could not reach `akasha track session`. Alan wants narrow warrants per use case, not one generic relation, and rejected `partSlugs` as the edge: too broad in what it targets, and it demands a spanning tree, while a command belongs to its namespace and should register to several domains and roles. Wanted: a `command-slugs` relation on `domain`, the `alan` domain naming the `track-session` namespace, and warrants from a seat's domain and role.",
     },
     {
-      statement: "Every page is named by exactly one parent.",
-      workingMemory:
-        "84 pages have two or more parents, steady across four runs at three HEADs while the judged population moved by 132. Five classes: 48 shared property pages (`text-property/title` has 25 namers), 20 a page-type page and an instance both naming an instance, 7 a package and a domain naming one module, 7 two domains naming one package, 2 two domains naming one page type. Candidate rule: a page's one parent is the page owning the folder it sits in; a mere user names it under `properties`.",
-    },
-    {
       statement: "An instrument that cannot see its subject says so rather than reporting clean.",
       workingMemory:
         "Eight found in one day. `migration-reach` gave `akasha/` as a pathspec and answered empty for everything (fixed 73cbedabc4). `outside-naming` excluded nothing, so `move` swept twice and landed corrupt commits while reporting success (fixed 2a79aee3a7). `tests-pass` returns nothing while `AKASHA_TESTS_RUNNING` is set, which nothing unsets and which every child inherits, and the landing still counts it. A worktree symlinked to its parent ran its own tests against the parent's code.",

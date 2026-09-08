@@ -16,5 +16,9 @@ export const partSlugs = {
       invariantKind: "departure",
       statement: "A page's parent is this edge inverted.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page is named by exactly one parent.",
+    },
   ],
 } as const satisfies RelationProperty
