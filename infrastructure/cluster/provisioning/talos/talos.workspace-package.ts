@@ -21,7 +21,7 @@ export const talos = {
     "module/schema",
     "module/sops",
     "module/ssh",
-    "module/talos-wait-for-port",
+    "module/wait-for-port",
     "module/talosctl",
   ],
 } as const satisfies WorkspacePackage

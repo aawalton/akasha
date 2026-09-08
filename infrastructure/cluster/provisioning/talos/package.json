@@ -14,7 +14,7 @@
     "./schema": "./schema/schema.module.code.ts",
     "./sops": "./sops/sops.module.code.ts",
     "./ssh": "./ssh/ssh.module.code.ts",
-    "./talos-wait-for-port": "./talos-wait-for-port/talos-wait-for-port.module.code.ts",
+    "./wait-for-port": "./wait-for-port/wait-for-port.module.code.ts",
     "./talosctl": "./talosctl/talosctl.module.code.ts"
   },
   "dependencies": {
