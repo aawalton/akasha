@@ -54,7 +54,7 @@ export function manifestsIn(changes: readonly FileEdit[]): readonly FileEdit[] {
   return changes.filter((one) => isManifest(one.path))
 }
 
-export function manifestCarriesIn(carries: readonly FileMove[]): readonly FileMove[] {
+export function manifestMovesIn(carries: readonly FileMove[]): readonly FileMove[] {
   return carries.filter((one) => isManifest(one.from) || isManifest(one.to))
 }
 
@@ -129,7 +129,7 @@ export function lockingOver(
   carries: readonly FileMove[] = []
 ): Locking {
   const touched = manifestsIn(changes)
-  const carried = manifestCarriesIn(carries)
+  const carried = manifestMovesIn(carries)
   const many = touched.length + carried.length
   if (many === 0 || carriesLock(changes)) return NOTHING_LOCKED
   const made = lockedOver(root, base, touched, carried)
@@ -295,7 +295,7 @@ export function installingIn(
   changes: readonly FileEdit[],
   carries: readonly FileMove[] = []
 ): Installing {
-  if (manifestsIn(changes).length === 0 && manifestCarriesIn(carries).length === 0) {
+  if (manifestsIn(changes).length === 0 && manifestMovesIn(carries).length === 0) {
     return NOTHING_INSTALLED
   }
   if (!existsSync(join(root, MANIFEST))) return NOTHING_INSTALLED
