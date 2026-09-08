@@ -3,7 +3,7 @@ import { basename, dirname, extname, join } from "node:path"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
-import type { Taken } from "./wan-arguing/wan-arguing.module.code.ts"
+import type { Taken } from "./arguing/wan-arguing.module.code.ts"
 import {
   at,
   EXTEND,
@@ -11,9 +11,9 @@ import {
   GENERATE,
   numberIn,
   readIn,
-} from "./wan-arguing/wan-arguing.module.code.ts"
-import { extending, generating } from "./wan-clip-rendering/wan-clip-rendering.module.code.ts"
-import { homeIn, imageIn, spawned } from "./wan-hosting/wan-hosting.module.code.ts"
+} from "./arguing/wan-arguing.module.code.ts"
+import { extending, generating } from "./clip-rendering/wan-clip-rendering.module.code.ts"
+import { homeIn, imageIn, spawned } from "./hosting/wan-hosting.module.code.ts"
 
 const REJECTED_INPUTS = 2
 
