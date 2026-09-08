@@ -26,8 +26,9 @@ export function createVisitorMap(customVisitors: readonly Visitors[]): VisitorMa
       if (!isSyntaxKind(syntaxKind)) continue
       const nodeVisitors = getOrUpdate(objectVisitorMap, syntaxKind, () => [])
 
-      const objectVisitor: ObjectVisitor<any> =
+      const objectVisitor = (
         typeof visitor === "function" ? { transform: visitor, priority } : visitor
+      ) as ObjectVisitor<ts.Node>
       nodeVisitors.push(objectVisitor)
     }
   }
