@@ -12,7 +12,6 @@ export const esoRig = {
     "python-module/eso-rig-probe",
     "shell-script/eso-rig-cluster-publish",
     "shell-script/eso-rig-entrypoint",
-    "module/eso-rig-rbac",
   ],
   invariants: [
     {

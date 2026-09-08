@@ -25,6 +25,5 @@ export const audhdalanWeb = {
     "module/deck-slides",
     "module/resource-list",
     "module/subscribe-form",
-    "module/audhdalan-web-rbac",
   ],
 } as const satisfies RouterApp
