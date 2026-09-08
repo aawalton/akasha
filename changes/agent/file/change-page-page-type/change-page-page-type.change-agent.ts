@@ -28,7 +28,8 @@ export const changePagePageType = {
     },
     {
       invariantKind: "departure",
-      statement: "The type a page is declared to satisfy is imported from the new page type.",
+      statement:
+        "The body's page type and the type it satisfies are restated by the change this reaches.",
     },
     {
       invariantKind: "departure",

@@ -1,7 +1,4 @@
-import { dirname } from "node:path"
-import { specifierFor } from "@akasha/code/code-specifier"
 import { partedIn } from "@akasha/pages/page-file-name"
-import { typedAs } from "../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
   gathered,
@@ -13,15 +10,13 @@ import { reach, type World } from "../../../modules/change-shadow/change-shadow.
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
-const CHANGE_FILE = "change-mechanical-file-content/change-file-content"
-
 const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
+
+const CHANGE_PAGE_PAGE_TYPE = "change-mechanical-file-content/change-page-page-type"
 
 const RENAME_PAGE_ADDRESS = "change-mechanical-file-content/rename-page-address"
 
 const MOVE_FILE = "change-mechanical-file/move-file"
-
-const TYPE_KEY = "pageTypeSlug"
 
 const AT = "at"
 
@@ -30,10 +25,6 @@ const TO = "to"
 export type ChangePagePageTypeAsked = {
   readonly at: string
   readonly to: string
-}
-
-function importingFor(name: string): RegExp {
-  return new RegExp(`^import type \\{ ${name} \\} from "[^"]*"$`, "m")
 }
 
 function renamedInto(
@@ -50,16 +41,6 @@ function renamedInto(
     said.set(one, held)
   }
   return said
-}
-
-function restating(over: World, at: string, was: string): string | null {
-  const text = over.textOf(at)
-  if (text === null) return `\`${at}\` holds no body once the page is carried`
-  const name = typedAs(was)
-  if (importingFor(name).exec(text) === null) {
-    return `\`${at}\` imports no type named \`${name}\`, so the page type is not restated`
-  }
-  return null
 }
 
 export async function changePagePageType(
@@ -95,8 +76,6 @@ export async function changePagePageType(
   if ("unread" in reading) return refusing(reading.unread)
   const at = moved.get(given.at)
   if (at === undefined) return refusing(`\`${given.at}\` names no file the page type moves`)
-  const wasName = typedAs(said.pageType)
-  const nowName = typedAs(type.slug)
   const movedOver = Object.fromEntries(moved)
   const carried: Answer[] = []
   let over = world
@@ -118,21 +97,10 @@ export async function changePagePageType(
     carried.push(answer.said)
     over = answer.world
   }
-  const unstated = restating(over, at, said.pageType)
-  if (unstated !== null) return refusing(unstated)
-  const line = importingFor(wasName).exec(over.textOf(at) ?? "")
-  const imported = `import type { ${nowName} } from ${JSON.stringify(specifierFor(dirname(at), given.to))}`
-  const passages = [
-    [line === null ? "" : line[0], imported],
-    [`satisfies ${wasName}`, `satisfies ${nowName}`],
-    [`${TYPE_KEY}: ${JSON.stringify(said.pageType)}`, `${TYPE_KEY}: ${JSON.stringify(type.slug)}`],
-  ]
-  for (const [old, spelled] of passages) {
-    const answer = await reach(over, CHANGE_FILE, { at, old, new: spelled })
-    if (answer.said.refused !== null) return answer.said
-    carried.push(answer.said)
-    over = answer.world
-  }
+  const restated = await reach(over, CHANGE_PAGE_PAGE_TYPE, { at, to: given.to })
+  if (restated.said.refused !== null) return restated.said
+  carried.push(restated.said)
+  over = restated.world
   for (const path of reading.importers) {
     if (moved.has(path)) continue
     const text = over.textOf(path)
