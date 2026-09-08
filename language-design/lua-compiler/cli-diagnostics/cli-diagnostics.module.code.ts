@@ -4,12 +4,12 @@ import {
   createSerialDiagnosticFactory,
 } from "../utils/utils.module.code.ts"
 
-export const tstlOptionsAreMovingToTheTstlObject = createSerialDiagnosticFactory(
-  (tstl: Record<string, unknown>) => ({
+export const optionsAreMovingToTheLuaCompilerObject = createSerialDiagnosticFactory(
+  (stated: Record<string, unknown>) => ({
     category: ts.DiagnosticCategory.Warning,
     messageText:
-      'TSTL options are moving to the "tstl" object. Adjust your tsconfig to look like\n' +
-      `"tstl": ${JSON.stringify(tstl, undefined, 4)}`,
+      'Lua compiler options are moving to the "luaCompiler" object. Adjust your tsconfig to look like\n' +
+      `"luaCompiler": ${JSON.stringify(stated, undefined, 4)}`,
   })
 )
 
