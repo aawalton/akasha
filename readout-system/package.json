@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./attribute-constitution": "./readouts/pages/attribute-constitution/attribute-constitution.readout.code.ts",
     "./inboxes-email": "./readouts/pages/inboxes-email/inboxes-email.readout.code.ts",
     "./inboxes-tasks": "./readouts/pages/inboxes-tasks/inboxes-tasks.readout.code.ts",
     "./monarch-unreviewed-transactions": "./readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts",

@@ -8,7 +8,7 @@ export const attributesRelayService = {
   runs: [
     "-bun readout-system/readout-relay/readout-relay.module.code.ts alan/attributes/readouts/attribute-strength/attribute-strength.readout.ts https://alanwalton.com",
     "-bun readout-system/readout-relay/readout-relay.module.code.ts alan/attributes/readouts/attribute-endurance/attribute-endurance.readout.ts https://alanwalton.com",
-    "-bun readout-system/readout-relay/readout-relay.module.code.ts readout-system/readouts/pages/attribute-constitution/attribute-constitution.readout.ts https://alanwalton.com",
+    "-bun readout-system/readout-relay/readout-relay.module.code.ts alan/attributes/readouts/attribute-constitution/attribute-constitution.readout.ts https://alanwalton.com",
     "-bun readout-system/readout-relay/readout-relay.module.code.ts alan/attributes/readouts/attribute-wisdom/attribute-wisdom.readout.ts https://alanwalton.com",
     "-bun readout-system/readout-relay/readout-relay.module.code.ts alan/attributes/readouts/attribute-intelligence/attribute-intelligence.readout.ts https://alanwalton.com",
     "-bun readout-system/readout-relay/readout-relay.module.code.ts alan/attributes/readouts/attribute-charisma/attribute-charisma.readout.ts https://alanwalton.com",

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { answering, refusing } from "../../../readout-asking/readout-asking.module.test-fixtures.ts"
-import { ate } from "../upkeep-plants/upkeep-plants.readout.test-fixtures.ts"
+import { answering, refusing } from "@akasha/readout-system/readout-asking/testing"
+import { ate } from "@akasha/readout-system/upkeep-plants/testing"
 import {
   constitutionIn,
   fetchConstitutionPoints,

@@ -1,10 +1,10 @@
 import { saidBy } from "@akasha/command-system/fault-saying"
 import { getEsoDayStr } from "@akasha/day/eso-day"
 import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
-import { fetchConstitutionPoints } from "@akasha/readout-system/attribute-constitution"
 import type { Row } from "@akasha/readout-system/readout-asking"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { charismaIn } from "../../../attributes/readouts/attribute-charisma/attribute-charisma.readout.code.ts"
+import { fetchConstitutionPoints } from "../../../attributes/readouts/attribute-constitution/attribute-constitution.readout.code.ts"
 import { enduranceIn } from "../../../attributes/readouts/attribute-endurance/attribute-endurance.readout.code.ts"
 import { intelligenceIn } from "../../../attributes/readouts/attribute-intelligence/attribute-intelligence.readout.code.ts"
 import { strengthIn } from "../../../attributes/readouts/attribute-strength/attribute-strength.readout.code.ts"
@@ -24,7 +24,7 @@ export const STRENGTH_PAGE = `${READOUTS}/attribute-strength/attribute-strength.
 export const ENDURANCE_PAGE = `${READOUTS}/attribute-endurance/attribute-endurance.readout.ts`
 
 export const CONSTITUTION_PAGE =
-  "readout-system/readouts/pages/attribute-constitution/attribute-constitution.readout.ts"
+  "alan/attributes/readouts/attribute-constitution/attribute-constitution.readout.ts"
 
 export const WISDOM_PAGE = `${READOUTS}/attribute-wisdom/attribute-wisdom.readout.ts`
 

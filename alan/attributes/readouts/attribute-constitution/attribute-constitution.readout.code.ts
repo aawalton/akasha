@@ -1,5 +1,5 @@
-import type { Asking } from "../../../readout-asking/readout-asking.module.code.ts"
-import { fetchPlantGrams } from "../upkeep-plants/upkeep-plants.readout.code.ts"
+import type { Asking } from "@akasha/readout-system/readout-asking"
+import { fetchPlantGrams } from "@akasha/readout-system/upkeep-plants"
 
 export const GRAMS_TO_THE_POINT = 100
 
