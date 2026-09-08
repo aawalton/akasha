@@ -1,8 +1,8 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { typeSlugOf } from "@akasha/indexes"
+import { everyOfType, typeSlugOf } from "@akasha/indexes"
+import { partedIn } from "@akasha/pages/page-file-name"
 
-/** The module page type, reached by the id it keeps rather than by the slug it answers to. */
 const MODULE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
 
 export const GENERATED_AT = "pages/core/generated"
@@ -278,11 +278,11 @@ export function rendered(
 }
 
 export function standingIn(root: string): readonly string[] {
-  const at = resolve(root, GENERATED_AT)
-  if (!existsSync(at)) return []
-  return readdirSync(at, { withFileTypes: true })
-    .filter((one) => one.isDirectory())
-    .map((one) => one.name)
-    .filter((one) => SHARD_NAME.test(one))
-    .sort()
+  const found: string[] = []
+  for (const one of everyOfType(root, typeSlugOf(root, MODULE_TYPE))) {
+    const named = partedIn(one.path)
+    if (named === null || !SHARD_NAME.test(named.slug)) continue
+    if (one.path === pageAtOf(named.slug)) found.push(named.slug)
+  }
+  return found.sort()
 }

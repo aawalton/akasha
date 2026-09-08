@@ -21,6 +21,20 @@ export const iconIndexRendering = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A shard already there is the index's answer for its page type rather than a folder listed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page named like a shard but sitting elsewhere is no shard.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The module page type is reached by the id it keeps rather than by the slug it answers to.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A shard has at least one icon however long that icon's line is.",
     },
     {
