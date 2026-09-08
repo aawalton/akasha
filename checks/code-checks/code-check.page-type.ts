@@ -30,6 +30,7 @@ export const codeCheck = {
     "boolean-property/runs-on-worktree",
     "file-property/entries",
     "code-check/calculation-imports-only-types",
+    "code-check/client-reaches-pages-through-its-hooks",
     "code-check/domain-is-named-by-a-parent",
     "code-check/email-address-is-well-formed",
     "code-check/file-has-its-page",
